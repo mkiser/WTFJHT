@@ -12,7 +12,6 @@ title: What The Fuck Just Happened, Today?
       </a>
     </h1>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%m/%d/%Y" }}</time>
-
     {{ post.content }}
   </article>
   {% endfor %}

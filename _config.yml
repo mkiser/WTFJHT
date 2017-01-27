@@ -28,3 +28,4 @@ github:
 gems:
   - jekyll-gist
   - jekyll-twitter-plugin
+  - github-pages

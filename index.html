@@ -1,0 +1,21 @@
+---
+layout: default
+title: What The Fuck Just Happened, Today?
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%m/%d/%Y" }}</time>
+
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
+
+<!-- {% twitter https://twitter.com/ppppolls/status/824652678005424130 %}  -->

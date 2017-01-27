@@ -1,1 +1,0 @@
-## WTF Just Happened, Today

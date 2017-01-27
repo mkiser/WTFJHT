@@ -1,1 +1,30 @@
-theme: jekyll-theme-minimal
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               What The Fuck Just Happened, Today ?
+tagline:             '@WTFJHT'
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Matt Kiser
+  url:               https://twitter.com/matt_kiser
+  email:             matt.kiser@gmail.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/mkiser/WTFJHT
+
+# Gems
+gems:
+  - jekyll-gist
+  - jekyll-twitter-plugin

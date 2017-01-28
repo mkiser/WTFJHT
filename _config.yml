@@ -25,7 +25,4 @@ github:
   repo:              https://github.com/mkiser/WTFJHT
 
 # Gems
-gems:
-  - jekyll-gist
-  - jekyll-twitter-plugin
-  - github-pages
+gems: [jekyll-gist, jekyll-twitter-plugin, github-pages]

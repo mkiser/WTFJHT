@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>What The Fuck Just Happened, Today?</title>
- <link href="/WTFJHT/atom.xml" rel="self"/>
- <link href="/WTFJHT/"/>
- <updated>2017-01-28T19:12:28-08:00</updated>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2017-01-28T20:11:52-08:00</updated>
  <id></id>
  <author>
    <name>Matt Kiser</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Day 9</title>
-   <link href="/WTFJHT/2017/01/28/Day-9/"/>
+   <link href="/2017/01/28/Day-9/"/>
    <updated>2017-01-28T00:00:00-08:00</updated>
    <id>/2017/01/28/Day-9</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump’s order blocks immigrants at airports, stoking fear around the globe.&lt;/strong&gt; The executive order suspended entry of all refugees to the United States for 120 days, barred Syrian refugees indefinitely, and blocked entry into the United States for 90 days for citizens of seven predominantly Muslim countries: Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The Department of Homeland Security said that the executive order also barred green card holders from those countries from re-entering the United States. White House officials said that green card holders from the seven affected countries who are outside the United States would need a case-by-case waiver to return to the United States. (&lt;a href=&quot;http://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
@@ -25,7 +25,7 @@
  
  <entry>
    <title>Day 8</title>
-   <link href="/WTFJHT/2017/01/27/Day-8/"/>
+   <link href="/2017/01/27/Day-8/"/>
    <updated>2017-01-27T00:00:00-08:00</updated>
    <id>/2017/01/27/Day-8</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump executive order suspends admission of all refugees for 120 days&lt;/strong&gt; while a new system is put in place to tighten vetting for those from predominantly Muslim countries and give preference to religious minorities. Trump said that the goal is to screen out “radical Islamic terrorists” and that priority for admission would be given to Christians. (&lt;a href=&quot;https://www.washingtonpost.com/world/national-security/trump-approves-extreme-vetting-of-refugees-promises-priority-for-christians/2017/01/27/007021a2-e4c7-11e6-a547-5fb9411d332c_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
@@ -64,7 +64,7 @@
  
  <entry>
    <title>Day 7</title>
-   <link href="/WTFJHT/2017/01/26/Day-7/"/>
+   <link href="/2017/01/26/Day-7/"/>
    <updated>2017-01-26T00:00:00-08:00</updated>
    <id>/2017/01/26/Day-7</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Steve Bannon says media should “keep its mouth shut.”&lt;/strong&gt; Trump’s chief strategist, laced into the American press during an interview, arguing that news organizations had been “humiliated” by an election outcome few anticipated, and repeatedly describing the media as “the opposition party” of the current administration. (&lt;a href=&quot;https://www.nytimes.com/2017/01/26/business/media/stephen-bannon-trump-news-media.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
@@ -92,7 +92,7 @@
  
  <entry>
    <title>Day 6</title>
-   <link href="/WTFJHT/2017/01/25/Day-6/"/>
+   <link href="/2017/01/25/Day-6/"/>
    <updated>2017-01-25T00:00:00-08:00</updated>
    <id>/2017/01/25/Day-6</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump’s voter fraud example?&lt;/strong&gt; A troubled tale about Bernhard Langer meant to illustrate rampant, unchecked voter fraud. (&lt;a href=&quot;https://www.nytimes.com/2017/01/25/us/politics/trump-bernhard-langer-voting-fraud.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
@@ -126,7 +126,7 @@
  
  <entry>
    <title>Day 5</title>
-   <link href="/WTFJHT/2017/01/24/Day-5/"/>
+   <link href="/2017/01/24/Day-5/"/>
    <updated>2017-01-24T00:00:00-08:00</updated>
    <id>/2017/01/24/Day-5</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump believes millions voted illegally – but provides no proof.&lt;/strong&gt; The claim has long been debunked. (&lt;a href=&quot;http://www.cnn.com/2017/01/24/politics/wh-trump-believes-millions-voted-illegally/&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
@@ -169,7 +169,7 @@
  
  <entry>
    <title>Day 4</title>
-   <link href="/WTFJHT/2017/01/23/Day-4/"/>
+   <link href="/2017/01/23/Day-4/"/>
    <updated>2017-01-23T00:00:00-08:00</updated>
    <id>/2017/01/23/Day-4</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;The first days inside Trump’s White House: Fury, tumult and a reboot.&lt;/strong&gt; President Trump had just returned to the White House on Saturday from his final inauguration event, a tranquil interfaith prayer service, when the flashes of anger began to build. (&lt;a href=&quot;https://www.washingtonpost.com/politics/the-first-days-inside-trumps-white-house-fury-tumult-and-a-reboot/2017/01/23/7ceef1b0-e191-11e6-ba11-63c4b4fb5a63_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
@@ -194,7 +194,7 @@
  
  <entry>
    <title>Day 3</title>
-   <link href="/WTFJHT/2017/01/22/Day-3/"/>
+   <link href="/2017/01/22/Day-3/"/>
    <updated>2017-01-22T00:00:00-08:00</updated>
    <id>/2017/01/22/Day-3</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;The Trump Administration started with a big lie over a small thing.&lt;/strong&gt; It wasn’t about an affair with an intern or in an attempt to wage war. The Trump administration kicked off with a whopper about the media’s role in maliciously minimizing the crowd size for Trump’s inauguration in a dastardly attempt to make him look bad. (&lt;a href=&quot;http://www.thedailybeast.com/articles/2017/01/22/trump-administration-starts-with-big-lie-over-small-thing.html&quot;&gt;The Daily Best&lt;/a&gt;)&lt;/p&gt;
@@ -234,7 +234,7 @@ If the president and his aides will tell easily disproven falsehoods about crowd
  
  <entry>
    <title>Day 2</title>
-   <link href="/WTFJHT/2017/01/21/Day-2/"/>
+   <link href="/2017/01/21/Day-2/"/>
    <updated>2017-01-21T00:00:00-08:00</updated>
    <id>/2017/01/21/Day-2</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Photos comparing Trump’s inauguration crowd to the Women’s March&lt;/strong&gt; (&lt;a href=&quot;http://www.cnn.com/2017/01/21/politics/womens-march-donald-trump-inauguration-sizes/index.html&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
@@ -253,7 +253,7 @@ If the president and his aides will tell easily disproven falsehoods about crowd
  
  <entry>
    <title>Day 1</title>
-   <link href="/WTFJHT/2017/01/20/Day-1/"/>
+   <link href="/2017/01/20/Day-1/"/>
    <updated>2017-01-20T00:00:00-08:00</updated>
    <id>/2017/01/20/Day-1</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Donald Trump has named only 29 of his 660 executive department appointments&lt;/strong&gt;, the Partnership for Public Service said. (&lt;a href=&quot;https://www.nytimes.com/2017/01/19/us/trump-cabinet-picks-inauguration.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;

@@ -5,7 +5,6 @@ permalink:           pretty
 title:               What The Fuck Just Happened, Today?
 tagline:             '@WTFJHT'
 baseurl:             "https://mkiser.github.io/WTFJHT/"
-exclude: 			 [Rakefile]
 
 # Assets
 #

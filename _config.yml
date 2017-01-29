@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               What The Fuck Just Happened, Today ?
+title:               What The Fuck Just Happened, Today?
 tagline:             '@WTFJHT'
 baseurl:             ""
 
@@ -25,4 +25,4 @@ github:
   repo:              https://github.com/mkiser/WTFJHT
 
 # Gems
-gems: [jekyll-gist, jekyll-twitter-plugin, github-pages]
+gems: [jekyll-gist, jekyll-twitter-plugin, github-pages, jekyll-seo-tag, jekyll-last-modified-at]

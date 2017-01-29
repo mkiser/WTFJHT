@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What The Fuck Just Happened, Today?
+title: Daily Dispatch
 ---
 
 <div class="posts">
@@ -8,8 +8,8 @@ title: What The Fuck Just Happened, Today?
   <article class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
+        {{ post.title }}:
+      <span class="post-small">{{ post.description }}</span></a>
     </h1>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date: "%m/%d/%Y" }}</time>
     {{ post.content }}

@@ -3,7 +3,11 @@ layout: default
 ---
 
 <article class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h1 class="post-title">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ page.title }}:
+    <span class="post-small">{{ page.description }}</span></a>
+  </h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   {{ content }}
 </article>

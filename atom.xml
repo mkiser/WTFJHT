@@ -1,28 +1,272 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}{{ site.baseurl }}/"/>
- <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <title>What The Fuck Just Happened, Today?</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2017-01-28T17:34:29-08:00</updated>
+ <id></id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name>Matt Kiser</name>
+   <email>matt.kiser@gmail.com</email>
  </author>
 
- {% for post in site.posts %}
+ 
  <entry>
-   <title>{{ post.title | xml_escape }}</title>
-   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <title>Day 9</title>
+   <link href="/2017/01/28/Day-9/"/>
+   <updated>2017-01-28T00:00:00-08:00</updated>
+   <id>/2017/01/28/Day-9</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump’s order blocks immigrants at airports, stoking fear around the globe.&lt;/strong&gt; The executive order suspended entry of all refugees to the United States for 120 days, barred Syrian refugees indefinitely, and blocked entry into the United States for 90 days for citizens of seven predominantly Muslim countries: Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The Department of Homeland Security said that the executive order also barred green card holders from those countries from re-entering the United States. White House officials said that green card holders from the seven affected countries who are outside the United States would need a case-by-case waiver to return to the United States. (&lt;a href=&quot;http://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;How hyper-targeted pyschometric data may have helped Trump win.&lt;/strong&gt; Granular personality data might have been the key to the candidate’s unexpected victory where online quizzes were correlated with public Facebook Likes. (&lt;a href=&quot;https://theoutline.com/post/969/did-trump-win-psychometrics-data-cambridge-analytica&quot;&gt;The Outline&lt;/a&gt;)&lt;/p&gt;
+</content>
  </entry>
- {% endfor %}
+ 
+ <entry>
+   <title>Day 8</title>
+   <link href="/2017/01/27/Day-8/"/>
+   <updated>2017-01-27T00:00:00-08:00</updated>
+   <id>/2017/01/27/Day-8</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump executive order suspends admission of all refugees for 120 days&lt;/strong&gt; while a new system is put in place to tighten vetting for those from predominantly Muslim countries and give preference to religious minorities. Trump said that the goal is to screen out “radical Islamic terrorists” and that priority for admission would be given to Christians. (&lt;a href=&quot;https://www.washingtonpost.com/world/national-security/trump-approves-extreme-vetting-of-refugees-promises-priority-for-christians/2017/01/27/007021a2-e4c7-11e6-a547-5fb9411d332c_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;The extreme vetting plan to establishes a religious test&lt;/strong&gt; for refugees from Muslim nations. The order also stops the admission of refugees from Syria indefinitely, and bars entry into the United States for 90 days from seven predominantly Muslim countries linked to concerns about terrorism. Those countries are Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen. (&lt;a href=&quot;http://www.nytimes.com/2017/01/27/us/politics/trump-syrian-refugees.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;The order will block 500,000 legal U.S. residents from returning to American from trips abroad.&lt;/strong&gt; The president has also used language that will affect those who are in the U.S. already on visas and green cards. (&lt;a href=&quot;http://www.propublica.org/article/trump-executive-order-could-block-legal-residents-from-returning-to-america/&quot;&gt;ProPublica&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;Trump’s immigration ban excludes countries with business ties.&lt;/strong&gt; His proposed list doesn’t include Muslim-majority countries where his Trump Organization has done business or pursued potential deals. Properties include golf courses in the United Arab Emirates and two luxury towers operating in Turkey. (&lt;a href=&quot;http://www.bloomberg.com/graphics/2017-trump-immigration-ban-conflict-of-interest/&quot;&gt;Bloomberg&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ &lt;strong&gt;Trump’s immigration ban is illegal.&lt;/strong&gt; More than 50 years ago, Congress outlawed such discrimination against immigrants based on national origin. (&lt;a href=&quot;https://www.nytimes.com/2017/01/27/opinion/trumps-immigration-ban-is-illegal.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;Following Trump’s executive order green card, visa holders already blocked by airports.&lt;/strong&gt; Within hours of the executive order limiting immigration from Muslim countries, green card and visa holders were already being blocked from getting on flights to the U.S. The Department of Homeland Security issued a directive at 4:30 p.m. ordering the Customs and Border Protection to enforce the executive order. People who were still in the air as of 10:30 p.m. likely face being blocked at the airport when their planes land, he said. (&lt;a href=&quot;http://www.nydailynews.com/news/politics/trump-order-blocks-green-card-visa-holders-airports-article-1.2957910&quot;&gt;NY Daily News&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;7/ &lt;strong&gt;A little-noticed move by Trump could make it easier to deport immigrants.&lt;/strong&gt; The move stripped federal privacy protections from many immigrants, raising fears among advocacy groups that information people willingly submitted to the federal government during the Obama administration could now be used to help deport them. (&lt;a href=&quot;https://www.washingtonpost.com/business/economy/a-little-noticed-move-by-trump-could-make-it-easier-to-deport-immigrants/2017/01/27/fd5734ec-e4cb-11e6-a453-19ec4b3d09ba_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;8/ &lt;strong&gt;Governing without a script.&lt;/strong&gt; Trumps seems to be running his administration much like he ran his company and campaign, eager to weigh in on every issue and willing to make last-minute calls. (&lt;a href=&quot;http://www.wsj.com/articles/trumps-first-week-governing-without-a-script-1485544924&quot;&gt;Wall Stree Journal&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;9/ &lt;strong&gt;Trump blows up the U.S.-Mexico relationship.&lt;/strong&gt; In one of his first instances of Twitter diplomacy as President, Trump wrote, “If Mexico is unwilling to pay for the badly needed wall, then it would be better to cancel the upcoming meeting.” Not surprisingly, Peña Nieto cancelled. (&lt;a href=&quot;http://www.newyorker.com/news/news-desk/donald-trump-blows-up-the-u-s-mexico-relationship&quot;&gt;The New Yorker&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;10/ &lt;strong&gt;The theater of access.&lt;/strong&gt; Trump’s relationship with the media may be obsessive, but it’s also deeply transactional — the media has always been a tool in his pursuit of fame and power. (&lt;a href=&quot;http://www.nytimes.com/2017/01/27/magazine/donald-trump-and-the-theater-of-access.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;11/ &lt;strong&gt;The Bannon coup.&lt;/strong&gt; White House and Hill GOP leaders are astonished by the unambiguous, far-reaching power of Steve Bannon and policy guru Stephen Miller over, well, just about everything.(&lt;a href=&quot;http://www.axios.com/the-bannon-coup-2218491076.html&quot;&gt;Axios&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;12/ &lt;strong&gt;Trump’s first seven days in office were historic, chaotic, astonishing and unsettling.&lt;/strong&gt; With a flurry of provocative executive orders, surreal events, unapologetic falsehoods and did-he-really-say-that tweets, Trump continued to obliterate political norms, serving notice that the gaze of history won’t change who he is. He made so much news and did so many unorthodox things that it was hard to keep track of everything that was changing in Washington. The question, though, is what did all that sound and fury signify? (&lt;a href=&quot;http://www.politico.com/magazine/story/2017/01/president-trump-week-one-first-administration-214699&quot;&gt;Politico&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;13/ &lt;strong&gt;Republican lawmakers fret about how to repeal Obamacare.&lt;/strong&gt; Republican lawmakers aired sharp concerns about their party’s quick push to repeal the Affordable Care Act inside a closed-door meeting Thursday, according to a recording of the session obtained by The Washington Post. (&lt;a href=&quot;https://www.washingtonpost.com/politics/behind-closed-doors-republican-lawmakers-fret-about-how-to-repeal-obamacare/2017/01/27/deabdafa-e491-11e6-a547-5fb9411d332c_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;14/ &lt;strong&gt;Pence vows “full evaluation of voting rolls” over claims of fraud.&lt;/strong&gt; In a private meeting with congressional Republicans this week, the Trump administration would pursue a wide-ranging probe of voting rolls in the United States to examine whether millions of people voted illegally in the 2016 election as President Trump has charged. (&lt;a href=&quot;https://www.washingtonpost.com/powerpost/in-private-meeting-pence-vows-full-evaluation-of-voting-rolls-over-claims-of-voting-fraud/2017/01/27/1c1fa1de-e49a-11e6-a547-5fb9411d332c_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;15/ &lt;strong&gt;Can a president who disregards the truth uphold his oath of office?&lt;/strong&gt; His job demands a basic level of respect for the concepts of law and meaning. (&lt;a href=&quot;https://www.washingtonpost.com/posteverything/wp/2017/01/27/can-a-president-who-disregards-the-truth-uphold-his-oath-of-office/&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;16/ &lt;strong&gt;Trump backers like his first draft of a New America.&lt;/strong&gt; Trump voters interviewed said they cared little if the president spouted off on Twitter because he was issuing the kind of executive actions many had long craved — freezing federal grant money for environmental research, banning foreign aid for groups that give abortion counseling and cutting off immigration from several Muslim-majority nations. (&lt;a href=&quot;https://www.nytimes.com/2017/01/27/us/trump-backers-like-his-first-draft-of-a-new-america.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Day 7</title>
+   <link href="/2017/01/26/Day-7/"/>
+   <updated>2017-01-26T00:00:00-08:00</updated>
+   <id>/2017/01/26/Day-7</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Steve Bannon says media should “keep its mouth shut.”&lt;/strong&gt; Trump’s chief strategist, laced into the American press during an interview, arguing that news organizations had been “humiliated” by an election outcome few anticipated, and repeatedly describing the media as “the opposition party” of the current administration. (&lt;a href=&quot;https://www.nytimes.com/2017/01/26/business/media/stephen-bannon-trump-news-media.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;One of the greatest threats Trump poses is that he corrupts and corrodes the absoluteness of truth, facts and science.&lt;/strong&gt; It is no coincidence that the rise of Trump is concurrent with the rise of “fake news.” It is no coincidence that his rise comes during an age of severely damaged faith in institutions. Our president is a pathological liar. Say it. Write it. Never become inured to it. And dispense with the terms of art to describe it. A lie by any other name portends the same. (&lt;a href=&quot;http://www.nytimes.com/2017/01/26/opinion/a-lie-by-any-other-name.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;Fake news is about to get even scarier than you ever dreamed.&lt;/strong&gt; What we saw in the 2016 election is nothing compared to what we need to prepare for in 2020. If there’s one thing we learned from this election cycle, it is that there are a number of reasons that people create fake-news stories. And, it has become clear that most new consumers don’t want to know if what they are reading is real or fake; they just want to know that it helps support their worldview. (&lt;a href=&quot;http://www.vanityfair.com/news/2017/01/fake-news-technology&quot;&gt;Vanity Fair&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;The State Department’s entire senior management team resigned.&lt;/strong&gt; Secretary of State Rex Tillerson’s job running the State Department just got considerably more difficult. The entire senior level of management officials resigned as part of an ongoing mass exodus of senior Foreign Service officers who don’t want to stick around for the Trump era. (&lt;a href=&quot;https://www.washingtonpost.com/news/josh-rogin/wp/2017/01/26/the-state-departments-entire-senior-management-team-just-resigned/&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ &lt;strong&gt;The Trump administration’s day one moves were copied from Mitt Romney’s would-be playbook.&lt;/strong&gt; Literally. (&lt;a href=&quot;https://www.buzzfeed.com/chrisgeidner/the-trump-administrations-day-one-moves-were-copied-from-mit&quot;&gt;Buzzfeed&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;Trump pressured Park Service to find proof for his claims about inauguration crowd.&lt;/strong&gt; (&lt;a href=&quot;https://www.washingtonpost.com/politics/trump-pressured-park-service-to-back-up-his-claims-about-inauguration-crowd/2017/01/26/12a38cb8-e3fc-11e6-ba11-63c4b4fb5a63_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;7/ &lt;strong&gt;(The cost of) Trump’s wall keeps getting higher and higher.&lt;/strong&gt; Republican Congressional leaders signaled plans to move forward with Trump’s planned border wall, estimated to cost between $12 billion and $15 billion. That’s well below many outside estimates of the construction cost (let alone maintenance), but is significantly higher than what Trump himself has said in the past. (&lt;a href=&quot;https://www.axios.com/the-cost-of-trumps-wall-keepss-getting-higher-and-higher-2216737417.html&quot;&gt;Axios&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;8/ &lt;strong&gt;Americans think Trump will be worst president since Nixon.&lt;/strong&gt; Voters are so dim on Trump that they think, in the first week of his administration, that he will prove to be a worse President than everyone who’s held the office since Richard Nixon. (&lt;a href=&quot;http://www.publicpolicypolling.com/main/2017/01/americans-think-trump-will-be-worst-president-since-nixon.html&quot;&gt;Public Policy Polling&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; The full (&lt;a href=&quot;https://twitter.com/ppppolls/status/824652678005424130&quot;&gt;tweetstorm&lt;/a&gt;) that ends with this whopper:&lt;/p&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;And finally by a 42/39 spread Trump voters think he should be allowed to have a private email server: &lt;a href=&quot;https://t.co/0kvoEMK527&quot;&gt;https://t.co/0kvoEMK527&lt;/a&gt;&lt;/p&gt;&amp;mdash; PublicPolicyPolling (@ppppolls) &lt;a href=&quot;https://twitter.com/ppppolls/status/824665530934194180&quot;&gt;January 26, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Day 6</title>
+   <link href="/2017/01/25/Day-6/"/>
+   <updated>2017-01-25T00:00:00-08:00</updated>
+   <id>/2017/01/25/Day-6</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump’s voter fraud example?&lt;/strong&gt; A troubled tale about Bernhard Langer meant to illustrate rampant, unchecked voter fraud. (&lt;a href=&quot;https://www.nytimes.com/2017/01/25/us/politics/trump-bernhard-langer-voting-fraud.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;tl;dr&lt;/strong&gt; Langer was standing in line at a polling place on Election Day. Ahead of and behind Langer were voters who “did not look as if they should be allowed to vote.” Langer left feeling frustrated. &lt;em&gt;Here’s the problem:&lt;/em&gt; Langer, who lives in Boca Raton, Fla., is a German citizen with permanent residence status in the United States who is, by law, barred from voting.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;Declining trust in government is denting democracy.&lt;/strong&gt; America, which has long defined itself as a standard-bearer of democracy for the world, has become a “flawed democracy” according to the taxonomy used in the annual Democracy Index from the Economist Intelligence Unit. Although its score did not fall by much – from 8.05 in 2015 to 7.98 in 2016 – it was enough for it to slip just below the 8.00 threshold for a “full democracy”. (&lt;a href=&quot;http://www.economist.com/blogs/graphicdetail/2017/01/daily-chart-20&quot;&gt;The Economist&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;Trump’s impulses now carry the force of the presidency.&lt;/strong&gt; Impetuous and instinctive, convinced of broad, but hidden plots to undermine him, eager to fight and prone to what an aide called “alternative facts,” Trump has shown in just days in office that he is like few if any occupants of the White House before him. (&lt;a href=&quot;https://www.nytimes.com/2017/01/25/us/politics/donald-trump-presidency.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;Those flashy executive actions could run aground.&lt;/strong&gt; The White House failed to consult with many of the agencies and lawmakers who will be critical for their success. (&lt;a href=&quot;http://www.politico.com/story/2017/01/trumps-flashy-executive-actions-could-run-aground-234200&quot;&gt;Politico&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ Oh, and &lt;strong&gt;Donald Trump is building his wall on the Mexico border as undocumented crossing reaches a 40-year low.&lt;/strong&gt; In taking his first step towards building a US-Mexico border wall, Trump begins an attack on a vanishing issue. (&lt;a href=&quot;https://qz.com/894606/trumps-executive-order-to-build-a-us-mexico-border-wall-attacks-a-vanishing-issue/&quot;&gt;Quartz&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;Tweetstorm by Maggie Haberman of the NY Times.&lt;/strong&gt; (&lt;a href=&quot;https://twitter.com/maggieNYT/status/824358582636388354&quot;&gt;Twitter&lt;/a&gt;)&lt;/p&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;A few final thoughts on the weekend/first few days. Trump had less than 4 hours sleep on Saturday, when he woke up and, at about 7 am., 1/&lt;/p&gt;&amp;mdash; Maggie Haberman (@maggieNYT) &lt;a href=&quot;https://twitter.com/maggieNYT/status/824358582636388354&quot;&gt;January 25, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;...impulse control is when he&amp;#39;s tired or overstretched, or in an uncertain situation. All three took place Saturday. Trump is unable 3/&lt;/p&gt;&amp;mdash; Maggie Haberman (@maggieNYT) &lt;a href=&quot;https://twitter.com/maggieNYT/status/824360049527181315&quot;&gt;January 25, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;...as his advisers say often, at his most self-destructive when the stakes are high (see post-primary, post-convention, debates) and 5/&lt;/p&gt;&amp;mdash; Maggie Haberman (@maggieNYT) &lt;a href=&quot;https://twitter.com/maggieNYT/status/824360667587215360&quot;&gt;January 25, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;...the idea was that people would be around him who knew him or knew DC or could calm him. The more time ppl spend w Trump, the more they 7/&lt;/p&gt;&amp;mdash; Maggie Haberman (@maggieNYT) &lt;a href=&quot;https://twitter.com/maggieNYT/status/824361156643057665&quot;&gt;January 25, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;...was being treated poorly. by press. None could get him to move past the feeling of injury, to focus on the enormity at hand. 9/9&lt;/p&gt;&amp;mdash; Maggie Haberman (@maggieNYT) &lt;a href=&quot;https://twitter.com/maggieNYT/status/824361560596512768&quot;&gt;January 25, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Day 5</title>
+   <link href="/2017/01/24/Day-5/"/>
+   <updated>2017-01-24T00:00:00-08:00</updated>
+   <id>/2017/01/24/Day-5</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump believes millions voted illegally – but provides no proof.&lt;/strong&gt; The claim has long been debunked. (&lt;a href=&quot;http://www.cnn.com/2017/01/24/politics/wh-trump-believes-millions-voted-illegally/&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;Trump orders the construction of a Mexican border wall.&lt;/strong&gt; It’s the first in a series of actions to curtail immigration and bolster national security. It includes slashing the number of refugees who can resettle in the United States and blocks Syrians and others from “terror prone” nations from entering  temporarily. (&lt;a href=&quot;https://www.nytimes.com/2017/01/24/us/politics/wall-border-trump.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;Federal works told to stop talking to Congress and the press.&lt;/strong&gt; The freeze has startled aides on the Hill and people at those agencies, who worry that it could abruptly upend current operations and stifle work and discussions that routinely take place between branches of government. (&lt;a href=&quot;http://www.huffingtonpost.com/entry/trump-communication-freeze_us_58878b3ae4b0441a8f7114e2&quot;&gt;Huffington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;Trump has imposed a freeze on grants and contracts by the U.S. Environmental Protection Agency.&lt;/strong&gt; (&lt;a href=&quot;https://www.propublica.org/article/trump-administration-imposes-freeze-on-epa-grants-and-contracts&quot;&gt;ProPublica&lt;/a&gt;) Trump also banned employees from giving social media updates and speaking with reporters. (&lt;a href=&quot;http://thehill.com/policy/energy-environment/315876-trump-bans-epa-employees-from-giving-social-media-updates&quot;&gt;The Hill&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ &lt;strong&gt;USDA scientists have been put on lockdown.&lt;/strong&gt; “Starting immediately and until further notice” the department’s main research division “will not release any public-facing documents,” according to an internal memo. UPDATE: The order was rescinded by the department on Tuesday. (&lt;a href=&quot;https://www.buzzfeed.com/legacy_mobile/dinograndoni/trump-usda&quot;&gt;Buzzfeed&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;USDA disavows gag-order emailed to scientific research unit.&lt;/strong&gt; An internal email sent to staff at its Agricultural Research Service unit this week calling for a suspension of “public-facing documents,” including news releases and photos, was flawed and that new guidance has been sent out to replace it. (&lt;a href=&quot;http://www.reuters.com/article/us-usa-trump-usda-idUSKBN1582OB&quot;&gt;Reuters&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;7/ &lt;strong&gt;A National Park deleted tweets on climate change after Trump silenced federal scientists.&lt;/strong&gt; The tweets were posted by a former employee and officials decided to delete them because the account had been “compromised,” a National Parks official said. (&lt;a href=&quot;https://www.buzzfeed.com/claudiakoerner/a-national-park-is-tweeting-facts-about-climate-change-in-de&quot;&gt;Buzzfeed&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;8/ &lt;strong&gt;GOP Rep.: ‘Better to get your news directly from the president.”&lt;/strong&gt; The chairman of the House Science, Space and Technology Committee said that Donald Trump was a more credible news source than the entire press corps. (&lt;a href=&quot;http://talkingpointsmemo.com/livewire/lamar-smith-trump-liberal-media&quot;&gt;Talking Points Memo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Spicer: The media “disposition should be” Trump is correct “unless we can prove otherwise”&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;“…at some point, the disposition should be he is going to do it unless we can prove otherwise. He has shown through every step of the way that he’s going to win. And so it just seems to me it’s just odd that if those are the odds, if you are looking at his track record, the track record is a proven track record of success and winning. And yet, the media’s default is on every scenario, whether it’s hasn’t nominees getting through or winning a primary or him accomplishing something, it’s immediately negative and a failure.” (&lt;a href=&quot;https://mediamatters.org/video/2017/01/24/trump-press-secretary-media-disposition-should-be-trump-correct-unless-we-can-prove-otherwise/215116&quot;&gt;Media Matters&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;9/ &lt;strong&gt;Trump’s disregard for the truth threatens his ability to govern.&lt;/strong&gt; In the first five days of his presidency, Trump has put the enormous power of the nation’s highest office behind spurious — and easily disproved — claims. (&lt;a href=&quot;https://www.washingtonpost.com/politics/trumps-disregard-for-the-truth-threatens-his-ability-to-govern/2017/01/24/945c81aa-e272-11e6-a453-19ec4b3d09ba_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;10/ &lt;strong&gt;Trump dogged by insecurity over popular vote, media coverage.&lt;/strong&gt; He might hold the most powerful office in the world, but he’s dogged by insecurity over his loss of the popular vote in the election and a persistent frustration that the legitimacy of his presidency is being challenged by Democrats and the media, aides and associates say. (&lt;a href=&quot;http://bigstory.ap.org/article/61415760238042f2ad7bc38acc2f468c/trumps-bridge-building-eclipsed-false-voter-fraud-claim&quot;&gt;Associated Press&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;11/ &lt;strong&gt;For Trump, everything is a rating.&lt;/strong&gt; Trump spent his first weekend in office at war with math. He said that his inauguration crowd — which photographs showed was dwarfed by Barack Obama’s estimated 1.8 million in 2009 — “looked like a million, a million and a half.” His staff members backed up that claim with what his adviser Kellyanne Conway memorably termed “alternative facts.” (&lt;a href=&quot;https://www.nytimes.com/2017/01/24/arts/television/for-trump-everything-is-a-rating.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;12/ &lt;strong&gt;Trump 101: What he reads and watches.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;With an allergy to computers and phones, he works the papers. With a black Sharpie in hand, he marks up the Times or other printed stories. When he wants action or response, he scrawls the staffers’ names on that paper and either hands the clip to them in person, or has a staffer create a PDF of it — with handwritten commentary — and email it to them. An amazed senior adviser recently pulled out his phone to show us a string of the emailed PDFs, all demanding response. It was like something from the early 90s. Even when he gets worked up enough to tweet, Trump told us in our interview he will often simply dictate it, and let his staff hit “send” on Twitter. (&lt;a href=&quot;https://www.axios.com/trump-101-what-he-reads-and-watches-2210510272.html&quot;&gt;Axios&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;13/ &lt;strong&gt;“We the People” demand Trump release his tax returns.&lt;/strong&gt; One of the features on the White House website that didn’t vanish when President Trump took the oath of office on Friday is the “We the People” page, which allows ordinary Americans to petition their government to address an issue of importance to them. The Obama White House, which created the feature, responded to petitions that received at least 100,000 signatures within 30 days. (&lt;a href=&quot;https://www.nytimes.com/2017/01/24/opinion/we-the-people-demand-mr-trump-release-his-tax-returns.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Day 4</title>
+   <link href="/2017/01/23/Day-4/"/>
+   <updated>2017-01-23T00:00:00-08:00</updated>
+   <id>/2017/01/23/Day-4</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;The first days inside Trump’s White House: Fury, tumult and a reboot.&lt;/strong&gt; President Trump had just returned to the White House on Saturday from his final inauguration event, a tranquil interfaith prayer service, when the flashes of anger began to build. (&lt;a href=&quot;https://www.washingtonpost.com/politics/the-first-days-inside-trumps-white-house-fury-tumult-and-a-reboot/2017/01/23/7ceef1b0-e191-11e6-ba11-63c4b4fb5a63_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;Spicer: ‘Negative’ Trump coverage is ‘demoralizing’&lt;/strong&gt; The White House press secretary pushed back at what he said was negative coverage of the Trump White House, describing the media narrative as “demoralizing. It’s not just about a crowd size. There’s this constant theme to undercut the enormous support he has,” Spicer said of Trump. (&lt;a href=&quot;http://thehill.com/homenews/administration/315721-spicer-negative-trump-coverage-is-demoralizing&quot;&gt;The Hill&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;No White House leaks like this… unitl now.&lt;/strong&gt; The Trump White House not only leaks like crazy. It casually leaks the most intimate and humiliating details about the President - hurt feelings, ego injury, childlike behavior, self-destructive rages over tweets, media failure to credit his own grandiosity. We have simply never seen this level of leaking, with this little respect for the President’s dignity or reputation, this early. (&lt;a href=&quot;http://talkingpointsmemo.com/edblog/no-white-house-leaks-like-this-until-now&quot;&gt;Talking Points Memo&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;Without evidence, Trump tells lawmakers 3 million to 5 million illegal ballots cost him the popular vote.&lt;/strong&gt; Days after being sworn in, President Trump insisted to congressional leaders invited to a reception at the White House that he would have won the popular vote had it not been for millions of illegal votes, according to people familiar with the meeting. Trump has repeatedly claimed, without evidence, that widespread voter fraud caused him to lose the popular vote to Hillary Clinton, even while he clinched the presidency with an electoral college victory. (&lt;a href=&quot;https://www.washingtonpost.com/news/post-politics/wp/2017/01/23/at-white-house-trump-tells-congressional-leaders-3-5-million-illegal-ballots-cost-him-the-popular-vote/&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ &lt;strong&gt;Why Trump’s staff is lying.&lt;/strong&gt; One of the most striking features of the early Trump administration has been its political uses of lying. The big weekend story was the obviously false claim that Trump pulled in the largest inauguration crowds in American history. This raises the question of why a leader might find it advantageous to promote such lies from his subordinates. (&lt;a href=&quot;https://www.bloomberg.com/view/articles/2017-01-23/why-trump-s-staff-is-lying&quot;&gt;Bloomber&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;The Right is building a new media “upside down” to tell Trump’s story.&lt;/strong&gt; Armed with its own set of facts, the right has created a parallel media universe that’s risen all the way with Trump to the White House. (&lt;a href=&quot;https://www.buzzfeed.com/charliewarzel/the-right-is-building-a-new-media-upside-down-to-tell-donald&quot;&gt;Buzzfeed&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;7/ &lt;strong&gt;Trump pays a fence mending visit to the CIA after weeks of mocking U.S. intelligence officials.&lt;/strong&gt; Trump told staffers that he’s now with them, “a thousand percent.” (&lt;a href=&quot;http://www.npr.org/2017/01/23/511165541/president-trump-pays-a-fence-mending-visit-to-the-cia&quot;&gt;NPR&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;8/ An official said &lt;strong&gt;the visit “made relations with the intelligence community worse”&lt;/strong&gt; and described the visit as “uncomfortable.” (&lt;a href=&quot;http://www.cbsnews.com/news/sources-say-theres-a-sense-of-unease-in-intel-community-after-trump-cia-visit/&quot;&gt;CBS News&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;9/ &lt;strong&gt;Trump names his Inauguration Day a ‘National Day of Patriotic Devotion’.&lt;/strong&gt; (&lt;a href=&quot;https://www.washingtonpost.com/news/post-politics/wp/2017/01/23/trump-names-his-inauguration-day-a-national-day-of-patriotic-devotion/&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Day 3</title>
+   <link href="/2017/01/22/Day-3/"/>
+   <updated>2017-01-22T00:00:00-08:00</updated>
+   <id>/2017/01/22/Day-3</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;The Trump Administration started with a big lie over a small thing.&lt;/strong&gt; It wasn’t about an affair with an intern or in an attempt to wage war. The Trump administration kicked off with a whopper about the media’s role in maliciously minimizing the crowd size for Trump’s inauguration in a dastardly attempt to make him look bad. (&lt;a href=&quot;http://www.thedailybeast.com/articles/2017/01/22/trump-administration-starts-with-big-lie-over-small-thing.html&quot;&gt;The Daily Best&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;Crowd scientists say Women’s March in Washington was three times the size of the audience at Trump’s inauguration&lt;/strong&gt; (&lt;a href=&quot;https://www.nytimes.com/interactive/2017/01/22/us/politics/womens-march-trump-crowd-estimates.html&quot;&gt;NY Times&lt;/a&gt;), and may have been the largest demonstration in US history. Marches held in more than 500 US cities were attended by at least 3.3 million people. (&lt;a href=&quot;http://www.vox.com/2017/1/22/14350808/womens-marches-largest-demonstration-us-history-map&quot;&gt;Vox&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;Kellyanne Conway said on NBC’s “Meet the Press” that the White House had put forth “alternative facts”&lt;/strong&gt; to ones reported by the news media about the size of Mr. Trump’s inauguration crowd. (&lt;a href=&quot;https://www.nytimes.com/2017/01/22/us/politics/president-trump-inauguration-crowd-white-house.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;KELLYANNE CONWAY:&lt;/strong&gt; Don’t be so overly dramatic about it, Chuck. What– You’re saying it’s a falsehood. And they’re giving Sean Spicer, our press secretary, gave alternative facts to that. But the point remains–&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;CHUCK TODD:&lt;/strong&gt; Wait a minute– Alternative facts?&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;KELLYANNE CONWAY:&lt;/strong&gt; –that there’s–&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;CHUCK TODD:&lt;/strong&gt; Alternative facts? Four of the five facts he uttered, the one thing he got right–&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;KELLYANNE CONWAY:&lt;/strong&gt; –hey, Chuck, why– Hey Chuck–&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;CHUCK TODD:&lt;/strong&gt; –was Zeke Miller. Four of the five facts he uttered were just not true. Look, alternative facts are not facts. They’re falsehoods.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;Alternative facts are a needless lie by the Trump Administration.&lt;/strong&gt;
+If the president and his aides will tell easily disproven falsehoods about crowd sizes and speeches, what else will they be willing to dissemble about? (&lt;a href=&quot;https://www.theatlantic.com/politics/archive/2017/01/the-pointless-needless-lies-of-the-trump-administration/514061/&quot;&gt;The Atlantic&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ &lt;strong&gt;The traditional way of reporting on a president is dead. And Trump’s press secretary killed it.&lt;/strong&gt; The presidency is not a reality show, but President Trump on his first full day in office made clear that he’s still obsessed with being what he once proudly called “a ratings machine.” (&lt;a href=&quot;https://www.washingtonpost.com/lifestyle/style/the-traditional-way-of-reporting-on-a-president-is-dead-and-trumps-press-secretary-killed-it/2017/01/22/75403a00-e0bf-11e6-a453-19ec4b3d09ba_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;The costs of Trump-branded reality: America’s credibility.&lt;/strong&gt; When Trump swore the presidential oath, he assumed responsibility not only for the levers of government but also for one of the United States’ most valuable assets, battered though it may be: its credibility. (&lt;a href=&quot;https://www.nytimes.com/2017/01/22/business/media/alternative-facts-trump-brand.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;7/ &lt;strong&gt;Meanwhile, Trump’s top aides are troubled by his rocky first weekend in office&lt;/strong&gt;, unfolded much the way things often did during his campaign: with angry Twitter messages, a familiar obsession with slights and a series of meandering and at times untrue statements, all eventually giving way to attempts at damage control. (&lt;a href=&quot;https://www.nytimes.com/2017/01/22/us/politics/donald-trump-aides-rocky-first-weekend.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;8/ &lt;strong&gt;WikiLeaks calls out Trump for refusing to release tax returns.&lt;/strong&gt; (&lt;a href=&quot;http://www.politico.com/story/2017/01/wikileaks-trump-tax-return-234000&quot;&gt;Politico&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;9/ &lt;strong&gt;Trump is violating the Constitution by allowing his hotels and other business operations to accept payments from foreign governments&lt;/strong&gt;, a team of prominent constitutional scholars, Supreme Court litigators and former White House ethics lawyers say. (&lt;a href=&quot;https://www.nytimes.com/2017/01/22/us/politics/trump-foreign-payments-constitution-lawsuit.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Day 2</title>
+   <link href="/2017/01/21/Day-2/"/>
+   <updated>2017-01-21T00:00:00-08:00</updated>
+   <id>/2017/01/21/Day-2</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Photos comparing Trump’s inauguration crowd to the Women’s March&lt;/strong&gt; (&lt;a href=&quot;http://www.cnn.com/2017/01/21/politics/womens-march-donald-trump-inauguration-sizes/index.html&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;White House press secretary Sean Spicer attacked media for accurately reporting inauguration crowds.&lt;/strong&gt; “This was the largest audience to ever witness an inauguration, period,” Spicer said, contradicting all available data. Aerial photos have indicated that former president Barack Obama’s first inauguration attracted a much larger crowd. Nielsen ratings show that Obama also had a bigger television audience. Spicer, at times almost yelling while reading a prepared statement, took no questions. (&lt;a href=&quot;http://money.cnn.com/2017/01/21/media/sean-spicer-press-secretary-statement/index.html&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;Trump used his first full day in office on Saturday to unleash a remarkably bitter attack on the news media&lt;/strong&gt;, falsely accusing journalists of both inventing a rift between him and intelligence agencies and deliberately understating the size of his inauguration crowd. (&lt;a href=&quot;https://www.nytimes.com/2017/01/21/us/politics/trump-white-house-briefing-inauguration-crowd-size.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;Trump says he has “running war” with media, criticizes the “dishonest media,” gets facts wrong, in CIA speech.&lt;/strong&gt; (&lt;a href=&quot;http://money.cnn.com/2017/01/21/media/donald-trump-war-with-the-media/&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ At CIA headquarters, Trump denies feud, lashed out at critics, boasted of his magazine covers, and &lt;strong&gt;exaggerated the size of the crowd at his inauguration.&lt;/strong&gt; (&lt;a href=&quot;http://www.politico.com/story/2017/01/trump-cia-langley-233971&quot;&gt;Politico&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;Trump’s real war isn’t with the media. It’s with facts.&lt;/strong&gt; He needs to delegitimize the media because he needs to delegitimize facts. (&lt;a href=&quot;http://www.vox.com/policy-and-politics/2017/1/21/14347952/trump-spicer-press-conference-crowd-size-inauguration&quot;&gt;Vox&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Day 1</title>
+   <link href="/2017/01/20/Day-1/"/>
+   <updated>2017-01-20T00:00:00-08:00</updated>
+   <id>/2017/01/20/Day-1</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Donald Trump has named only 29 of his 660 executive department appointments&lt;/strong&gt;, the Partnership for Public Service said. (&lt;a href=&quot;https://www.nytimes.com/2017/01/19/us/trump-cabinet-picks-inauguration.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;2/ Trump boasted his inauguration would have an “unbelievable, perhaps record-setting turnout.” &lt;strong&gt;But aerial shots of the National Mall from Obama’s 2009 inauguration and today show that isn’t likely.&lt;/strong&gt; (&lt;a href=&quot;http://www.vox.com/policy-and-politics/2017/1/20/14332462/photos-crowd-trump-inauguration-vs-obama&quot;&gt;Vox&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;All references to climate change have been deleted&lt;/strong&gt; from the White House website. The only mention of climate on Trump’s new website is under his “America First Energy Plan” page, in which he vows to destroy Obama’s Climate Action Plan, which is a government-wide plan to reduce carbon emissions and address climate change. (&lt;a href=&quot;http://motherboard.vice.com/read/all-references-to-climate-change-have-been-deleted-from-the-white-house-website&quot;&gt;Motherboard&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;New poll shows Obamacare is more popular than Donald Trump.&lt;/strong&gt; Fox News finds that 50% of voters feel favorably about the Affordable Care Act compared to Donald Trump, whom 42% view favorably. President Obama, received an approval rating of 60%. (&lt;a href=&quot;http://www.vox.com/policy-and-politics/2017/1/20/14335268/obamacare-more-popular-than-trump-poll&quot;&gt;Vox&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ &lt;strong&gt;There’s no record Trump has resigned from his companies.&lt;/strong&gt; To transfer control of his companies, the president has to submit filings in Florida, Delaware and New York. We spoke to officials in each of those states. (&lt;a href=&quot;https://www.propublica.org/article/trump-promised-to-resign-from-his-companies-but-no-record-hes-done-so&quot;&gt;ProPublica&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
 
 </feed>

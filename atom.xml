@@ -1,16 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>What The Fuck Just Happened, Today?</title>
+ <title>What The Fuck Just Happened Today?</title>
  <link href="https://whatthefuckjusthappenedtoday.com/atom.xml" rel="self"/>
  <link href="https://whatthefuckjusthappenedtoday.com/"/>
- <updated>2017-02-03T15:55:21-08:00</updated>
+ <updated>2017-02-04T11:07:38-08:00</updated>
  <id>https://whatthefuckjusthappenedtoday.com</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Day 16</title>
+   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/04/Day-16/"/>
+   <updated>2017-02-04T00:00:00-08:00</updated>
+   <id>https://whatthefuckjusthappenedtoday.com/2017/02/04/Day-16</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Homeland Security suspends travel ban&lt;/strong&gt;, and will resume standard inspections of travelers as it did prior to the signing of the travel ban. The White House announced the Justice Department would file an emergency motion to stop the halt, but it had yet to do so as of Saturday afternoon. Washington state Attorney General Bob Ferguson said he was prepared to take his case all the way to the Supreme Court if necessary. (&lt;a href=&quot;http://www.cnn.com/2017/02/03/politics/federal-judge-temporarily-halts-trump-travel-ban-nationwide-ag-says/index.html&quot; target=&quot;_blank&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;tl;dr:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;p&gt;On Friday night, a federal judge in Seattle temporarily halted the enforcement of President Trump’s executive order on immigration. By Saturday, federal officials had announced they would be complying with the ruling, and airlines said they would resume boarding travelers covered under the ban. (&lt;a href=&quot;http://www.npr.org/sections/thetwo-way/2017/02/04/513415447/airlines-again-board-travelers-barred-by-travel-order-as-trump-vows-to-fight&quot; target=&quot;_blank&quot;&gt;NPR&lt;/a&gt;)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Borders reopen to banned visa holders&lt;/strong&gt;. (&lt;a href=&quot;https://www.nytimes.com/2017/02/04/us/politics/visa-ban-trump-judge-james-robart.html&quot; target=&quot;_blank&quot;&gt;NY Times&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;U.S. authorities end enforcement of travel ban after judge puts Trump executive order on hold&lt;/strong&gt;. The State Department had “provisionally revoked” 60,000 visas since the Jan. 27 order. It has started re-accepting those visas from people in the countries affected. (&lt;a href=&quot;http://www.latimes.com/politics/la-na-pol-visa-cancellations-20170204-story.html&quot; target=&quot;_blank&quot;&gt;LA Times&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Trump lashes out at federal judge over ruling on travel ban&lt;/strong&gt;.(&lt;a href=&quot;http://www.seattletimes.com/nation-world/nation-politics/trump-lashes-out-a-federal-judge-over-ruling-on-travel-ban/&quot; target=&quot;_blank&quot;&gt;Seattle Times&lt;/a&gt;)&lt;/p&gt;
+
+    &lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The opinion of this so-called judge, which essentially takes law-enforcement away from our country, is ridiculous and will be overturned!&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/827867311054974976&quot;&gt;February 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;Trump called the decision “big trouble” and said it would be overturned. (&lt;a href=&quot;https://www.buzzfeed.com/zoetillman/federal-judge-criticizes-trumps-travel-ban-and-extends-order&quot; target=&quot;_blank&quot;&gt;BuzzFeed News&lt;/a&gt;)&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;USDA abruptly purges animal welfare information from its website&lt;/strong&gt; about the treatment of animals at thousands of research laboratories, zoos, dog breeding operations and other facilities. The removed documents are now accessible only via Freedom of Information Act Requests. Those can take years to be approved. (&lt;a href=&quot;https://www.washingtonpost.com/news/animalia/wp/2017/02/03/the-usda-abruptly-removes-animal-welfare-information-from-its-website/&quot; target=&quot;_blank&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;Trust records show Trump is still closely tied to his empire&lt;/strong&gt;. Trump’s situation is unprecedented because it involves a wealthy president acting to avoid an appearance of conflict of interest. (&lt;a href=&quot;https://www.nytimes.com/2017/02/03/us/politics/donald-trump-business.html&quot; target=&quot;_blank&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Newly released documents show that Trump himself is the sole beneficiary of the trust and that it is legally controlled by his oldest son and a longtime employee. (&lt;a href=&quot;https://www.washingtonpost.com/politics/documents-confirm-trump-still-benefiting-from-his-business/2017/02/04/848fdd5a-eae0-11e6-bf6f-301b6b443624_story.html&quot; target=&quot;_blank&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Early signs suggest Trump’s actions are taking a toll on the Trump brand&lt;/strong&gt;. Nordstrom and Neiman Marcus dropped Ivanka Trump’s jewelry line. (&lt;a href=&quot;https://www.nytimes.com/2017/02/04/business/the-trump-brand.html&quot; target=&quot;_blank&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;Trump’s pick for Army Secretary drops out&lt;/strong&gt;. Vincent Viola concluded that he would not be able to successfully navigate the confirmation process citing his inability to get around strict Defense Department rules concerning his family businesses. (&lt;a href=&quot;http://www.militarytimes.com/articles/trump-viola-withdraws-army-secretary&quot; target=&quot;_blank&quot;&gt;Military Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;5/ &lt;strong&gt;Pence says Supreme Court nominee Neil Gorsuch will be seated on the high court “one way or the other.”&lt;/strong&gt; Trump urged the Senate’s Republican leader to scrap longstanding rules and “go nuclear” if Democrats block Gorsuch. (&lt;a href=&quot;http://bigstory.ap.org/174cd1b3e3964c279693c4b444b02d2e&quot; target=&quot;_blank&quot;&gt;Associated Press&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;Tech companies fight Trump immigration order in court&lt;/strong&gt;.  Amazon and Expedia stepped up their opposition to the order with filings that were part of a lawsuit in federal court against the Trump administration, arguing that the order will hurt their businesses. (&lt;a href=&quot;https://www.nytimes.com/2017/01/30/technology/technology-companies-fight-trump-immigration-order-in-court.html&quot; target=&quot;_blank&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;The ACLU filed a class action lawsuit that uses Trump’s tweets against him&lt;/strong&gt; – pointing out specific instances where the president has described the action as a “ban” on Muslims. Plaintiffs argue that a &lt;em&gt;de facto&lt;/em&gt; Muslim ban is unconstitutional—the First Amendment specifically prohibits “establishment of religion,” including the government favoring one religion over another. (&lt;a href=&quot;https://arstechnica.com/tech-policy/2017/02/prof-can-you-sue-the-president-based-on-his-tweets-were-about-to-find-out/&quot; target=&quot;_blank&quot;&gt;Ars Technica&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;7/ &lt;strong&gt;BuzzFeed sued over unverified Trump dossier&lt;/strong&gt;. McClatchy says XBT Holdings, a tech firm with Russian ties named in the document, is suing BuzzFeed, editor in chief Ben Smith and former British spy Christopher Steele over the January 10 publication of what the suit calls “libelous, unverified and untrue allegations.” (&lt;a href=&quot;http://thehill.com/blogs/blog-briefing-room/news/317898-buzzfeed-sued-over-unverified-trump-dossier&quot; target=&quot;_blank&quot;&gt;The Hill&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;8/ &lt;strong&gt;New Yorkers hold mock vigil at Bowling Green for ‘massacre’ victims as Kellyanne Conway ripped for bogus claim&lt;/strong&gt;. The group decided to take to the streets to poke fun at presidential adviser Kellyanne Conway’s false claim that Iraqi refugees committed an atrocity that never happened called the “Bowling Green massacre.” (&lt;a href=&quot;http://www.nydailynews.com/new-york/new-yorkers-hold-vigil-bowling-green-massacre-victims-article-1.2963989&quot; target=&quot;_blank&quot;&gt;NY Daily News&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Conway says she misspoke on Iraqi terrorists, calls some critics “haters.”&lt;/strong&gt; Conway admits she made a mistake in talking about a Kentucky massacre that never took place. But that’s not all she has to say about it. (&lt;a href=&quot;http://www.foxnews.com/politics/2017/02/04/conway-says-misspoke-on-iraqi-terrorists-calls-some-critics-haters.html&quot; target=&quot;_blank&quot;&gt;Fox News&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;if-that-wasnt-enough&quot;&gt;&lt;em&gt;If That Wasn’t Enough:&lt;/em&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Trump’s rallying cry: fear itself - &lt;a href=&quot;http://www.washingtonpost.com/politics/trumps-rallying-cry-fear-itself/2017/02/03/7d2a0432-ea4a-11e6-bf6f-301b6b443624_story.html&quot; target=&quot;_blank&quot;&gt;Washington Post&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;It Was Never Populism. It’s Nationalism - &lt;a href=&quot;http://talkingpointsmemo.com/edblog/it-was-never-populism-it-s-nationalism&quot;&gt;Talking Points Memo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fear and Loathing in Trump’s America - &lt;a href=&quot;http://www.newyorker.com/culture/cultural-comment/fear-and-loathing-in-trumps-america&quot; target=&quot;_blank&quot;&gt;The New Yorker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Donald Trump, Legal Experts Fear, ‘Is How Authoritarianism Starts’ - &lt;a href=&quot;http://www.nytimes.com/2016/06/04/us/politics/donald-trump-constitution-power.html&quot; target=&quot;_blank&quot;&gt;NY Times&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Trump’s God-Awful Phone and Twitter Security Isn’t as Scary as His Cybersecurity Policies - &lt;a href=&quot;http://www.slate.com/blogs/future_tense/2017/01/27/trump_s_phone_and_twitter_security_isn_t_as_scary_as_his_cybersecurity_policies.html&quot; target=&quot;_blank&quot;&gt;Slate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Day 15</title>
@@ -202,7 +284,7 @@
     &lt;p&gt;&lt;strong&gt;Why Congress just killed a rule restricting coal companies from dumping waste in streams&lt;/strong&gt;. (&lt;a href=&quot;http://www.vox.com/2017/2/2/14488448/stream-protection-rule&quot;&gt;Vox&lt;/a&gt;)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Ivanka Trump promised to resign from family business, but hasn’t filed paperwork&lt;/strong&gt; (&lt;a href=&quot;https://www.propublica.org/article/ivanka-trump-promised-to-resign-from-family-business-hasnt-filed-paperwork&quot;&gt;ProPublica&lt;/a&gt;)&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Ivanka Trump promised to resign from the family business, but hasn’t filed paperwork&lt;/strong&gt; (&lt;a href=&quot;https://www.propublica.org/article/ivanka-trump-promised-to-resign-from-family-business-hasnt-filed-paperwork&quot;&gt;ProPublica&lt;/a&gt;)&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </content>

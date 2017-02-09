@@ -3,10 +3,11 @@ permalink:           pretty
 
 # Setup
 title:               What The Fuck Just Happened Today?
-tagline:             'Logging the daily shock and awe.'
-# baseurl:             ""
-url: 				 "https://whatthefuckjusthappenedtoday.com"
+name:         		 "What The Fuck Just Happened Today?"
+tagline:             "Logging the daily shock and awe."
 description: 		 "Logging the shock and awe in Trump's America one day at a time."
+url:          		 "https://whatthefuckjusthappenedtoday.com"
+# baseurl:             "/"
 twitter:
   username: WTFJHT
 
@@ -30,9 +31,6 @@ sass:
 version:             1.0.0
 github:
   repo:              https://github.com/mkiser/WTFJHT
-
-name:          "What The Fuck Just Happened Today?"
-url:           "https://whatthefuckjusthappenedtoday.com"
 
 # Gems
 gems: 

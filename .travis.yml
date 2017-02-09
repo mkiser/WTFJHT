@@ -1,0 +1,22 @@
+language: ruby
+rvm:
+- 2.3.3
+before_script:
+- chmod +x ./script/cibuild
+script: ./script/cibuild
+branches:
+  only:
+  - master
+env:
+  global: 
+sudo: false
+deploy:
+  provider: s3
+  access_key_id:
+    secure: FXsfBJnWs4zxlvPZANXn0jwZ7rY3bpjguktONZWUqJVTiJ+lucAwvw+XvfGYmgtL5YOnlzAD6KssSectb5ewhiGQPBktK5Hkz2vQq4M/sCmAajwtUnZaee7qr88uOMYcTGixB5Z5arpFqbOkwkFiHq7KHmUZa5bUOeq90b+ddTVPM76cnUAasil8V0AqhesThf+gqczZn4jtWNz5pSvvFlS/SNtmvzIRmKNyokzjxDALMu/3hOqk9ODVyQdZvXGHLnohhfBqUE5lmLSneZHoj3bNg5zZz/jI6lHcejARR2jLhRUDnVuaFmcbO32flVHYv6/oKIE/Eum7Gn868nKBY5+ABUWkts6XS+OX8qd4bGGeiHL2ZT/UVFPDyR60F7zE+rpLOrVyqdgc+j2WvTzCR/Boiwk1d9EsP2npSIXaE2aOEp7uBUjaAxcem0Cak6y0A61TXlKMQpiPregz6ab5jcJcZyAeu0/Vjll95gpuDoNH16VBlKwdF+RzbZ0DNPalCHfZQpmuzSyFF0R+r4QkV/Ne/1RzSvQbtRn8h3Jrve26MEySgwhsw+BJKU5slarW9mVfjVoj3/t4yYasQ7L62sfBGY6KH/O2CSD9RKyGtc6xzlZmMS7y/1jjBOKNoGblQXzZA6mwA5q+SAfZZMBi0B7g1OucUGbXvWhcv76DH0k=
+  secret_access_key:
+    secure: ibX3sktvdnI3/1cdTsPfk3bXYAA1xetzuT+j58Ul399AYl2rYENSgAeErSGNh1PXLJroKcZ71OjEge9kKouWeQn3Jw7TKQSqtuuu+rBQyiXCIpcDpdpn+sIH2QF+W0lUl9sMcnOE8JX4CBXB3+1Dm69P0Ot4q2KppowPD3RjVBtUWaDTmjCReW1S5SCg0SqnQCiT4sqIle53/p0O6DYCXN9DBI1Hn5HZEYHjQrfZS6z5FgCEV/eUZdutDdaWL1sDbbdB/WZ9CaH2INIBIwLbYHD7UCy2xAp/dwuDuwwQyi962jCseEeYp4DvGBav4s49pkLDlqR/Jpge7W9WedUXrM7YawBc6N9jdFuyM5Wo3CqbiJVdXbAtV3l5MsPRTl7STMHn2PYNKh3U9sEZYGr2cSRNNrIZ6wJofeZFz8IjcR5+ElSeYlpjR+0IIy2ZrLbWl/u7fcv3CP73CuGpbIlJ7E2EgtJSLBM9dhH94ONpwwTPjxwxvyjO0XnW1g98g4GHJd+Xgzu2jK1IZ3gqc8V5x39LmPDShB6lnOt9FAceukfA8ToBamVvWSF3zw6NpKGRmMN7YiFqNpsfrpdkT73Jy3WqHH5xAmijabPF4wPYr9GlsTYX5RbuesANsb08Qag2D6oZzL7/V4qYyYwjg5xCKeIQhiNw+b3rj10MgHTHnug=
+  bucket: wtfjht
+  acl: ''
+  on:
+    repo: mkiser/wtfsource

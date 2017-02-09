@@ -6,31 +6,45 @@
       <header class="masthead">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-          <small>{{ site.tagline }}</small>
+         <br> <small>{{ site.tagline }} By <a href="https://twitter.com/matt_kiser">@matt_kiser</a></small>
         </h3>
         <div>
-          <small><em>Last updated at: {{ page.last_modified_at | date: "%m/%d/%Y %r %Z" }}</small></em>
+          <small><em>Site updated: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%m/%d/%Y %r %Z" }}</time>
+          </em> </small>
         </div> 
+          <small><strong>Day:</strong> {% for post in site.posts reversed %} <a href="{{ site.baseurl }}{{ post.url }}">{{ forloop.index }}</a>{% endfor %}
+        </small>
+
+<div id="icons">
+  <div class="icon"><a href="https://twitter.com/WTFJHT" target="_blank"><img src="{{ site.baseurl }}/public/twttr.png"></a></div>
+  <div class="icon"><a href="https://www.facebook.com/wtfjht/" target="_blank"><img src="{{ site.baseurl }}/public/fb.png"></a></div>
+  <div class="icon"><a href="https://whatthefuckjusthappenedtoday.com/atom.xml" target="_blank"><img src="{{ site.baseurl }}/public/rss.png"></a></div>
+  <div class="icon"><a href="https://github.com/mkiser/mkiser.github.io" target="_blank"><img src="{{ site.baseurl }}/public/gh.png"></a></div>
+</div>
+
+
       </header>
       <main>
         {{ content }}
       </main>
       <footer class="footer">
+        <hr>
+        <p>Learn more <a href="{{ site.baseurl }}/about/">about this project</a>.</p>
         <small>
-          &copy; <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time>. All rights reserved.
+          <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">What The Fuck Just Happened Today?</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://whatthefuckjusthappenedtoday.com/about/" property="cc:attributionName" rel="cc:attributionURL">Matt Kiser</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
         </small>
       </footer>
     </div>
 
-    {% if site.analytics_id %}
-     <script>
-       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-       ga('create', '{{ site.analytics_id }}', 'auto');
-       ga('send', 'pageview');
-     </script>
-    {% endif %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-91051784-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>    
   </body>
 </html>

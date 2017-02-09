@@ -2,9 +2,16 @@
 permalink:           pretty
 
 # Setup
-title:               What The Fuck Just Happened, Today?
-tagline:             '@WTFJHT'
-baseurl:             "/WTFJHT"
+title:               What The Fuck Just Happened Today?
+tagline:             'Logging the daily shock and awe.'
+# baseurl:             ""
+url: 				 "https://whatthefuckjusthappenedtoday.com"
+description: 		 "Logging the shock and awe in Trump's America one day at a time."
+twitter:
+  username: WTFJHT
+
+facebook:
+  app_id: 601457263382211
 
 # Assets
 #
@@ -14,19 +21,23 @@ sass:
   style:            :compressed
 
 # About/contact
-author:
-  name:              Matt Kiser
-  url:               https://twitter.com/matt_kiser
-  email:             matt.kiser@gmail.com
+# author:
+#   name:             'Matt Kiser'
+#   url:              'https://whatthefuckjusthappenedtoday.com'
+#   email:            'matt@whatthefuckjusthappenedtoday.com'
 
 # Custom vars
 version:             1.0.0
 github:
   repo:              https://github.com/mkiser/WTFJHT
 
+name:          "What The Fuck Just Happened Today?"
+url:           "https://whatthefuckjusthappenedtoday.com"
+
 # Gems
 gems: 
   - jekyll-gist
   - github-pages
   - jekyll-seo-tag
-  - jekyll-last-modified-at
+  - jekyll-sitemap
+

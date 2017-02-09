@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>What The Fuck Just Happened Today?</title>
- <link href="https://whatthefuckjusthappenedtoday.com/atom.xml" rel="self"/>
- <link href="https://whatthefuckjusthappenedtoday.com/"/>
- <updated>2017-02-08T23:14:30-08:00</updated>
- <id>https://whatthefuckjusthappenedtoday.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-02-09T09:24:20-08:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,69 @@
 
  
  <entry>
+   <title>Day 21</title>
+   <link href="http://localhost:4000/2017/02/09/Day-21/"/>
+   <updated>2017-02-09T00:00:00-08:00</updated>
+   <id>http://localhost:4000/2017/02/09/Day-21</id>
+   <content type="html">&lt;p&gt;1/ &lt;strong&gt;Conway may have broken key ethics rule by touting Ivanka Trump’s products&lt;/strong&gt;. Federal employees are banned from using their public office to endorse products. “I’m going to give it a free commercial here,” Conway said. “Go buy it today.” (&lt;a href=&quot;https://www.washingtonpost.com/politics/conway-may-have-broken-key-ethics-rule-by-touting-ivanka-trumps-products-experts-say/2017/02/09/fd1cc64a-eeda-11e6-b4ff-ac2cf509efe5_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Trump’s Oval Office tweets force CEOs to choose fight or flight&lt;/strong&gt;. The president crossed a new line with Nordstrom attack. Apple, Google, Amazon, Microsoft, Starbucks, and others have emerged as vocal critics of Trump’s immigration executive order. (&lt;a href=&quot;https://www.bloomberg.com/politics/articles/2017-02-09/trump-s-oval-office-tweets-force-ceos-to-choose-fight-or-flight&quot;&gt;Bloomberg&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2/ &lt;strong&gt;Spicer misspoke on attack, meant Orlando, not Atlanta&lt;/strong&gt;. Three times in one week, Spicer alluded to a terror attack in Atlanta by someone from overseas. Spicer eventually admitted he misspoke. Oops. (&lt;a href=&quot;http://www.cnn.com/2017/02/08/politics/spicer-alleged-atlanta-terror-attack-trnd/&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Spicer claims he “clearly meant Orlando” after citing mystery Atlanta terrorist attack three time&lt;/strong&gt;. Trump and his aides have been using the attacks in Orlando, San Bernardino and Boston as talking points during media circuits to defend the ban. (&lt;a href=&quot;https://www.washingtonpost.com/news/morning-mix/wp/2017/02/09/spicer-claims-he-clearly-meant-orlando-after-citing-mystery-atlanta-terror-attack-three-times/&quot;&gt;Washington Post&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;3/ &lt;strong&gt;ACLU vows to sue Sessions if he violates Constitution as Attorney General&lt;/strong&gt;. The ACLU made the first successful lawsuit against the Trump administration in late January when it filed a complaint on behalf of two men who were detained at an airport as a result of Trump’s controversial executive order. (&lt;a href=&quot;http://thehill.com/blogs/blog-briefing-room/news/318633-aclu-vows-to-sue-sessions-if-he-violates-constitution-as-ag&quot;&gt;The Hill&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;4/ &lt;strong&gt;Trump attacks McCain for questioning success of deadly Yemen raid&lt;/strong&gt;. McCain initially referred to the raid as “a failure” but later dialed back his criticism, saying that some objectives were fulfilled in the mission but that he would “not describe any operation that results in the loss of American life as a success.” (&lt;a href=&quot;https://www.washingtonpost.com/news/post-politics/wp/2017/02/09/trump-attacks-mccain-for-questioning-success-of-deadly-yemen-raid/&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Sen. McCain should not be talking about the success or failure of a mission to the media. Only emboldens the enemy! He&amp;#39;s been losing so....&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/829682794951475200&quot;&gt;February 9, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;...long he doesn&amp;#39;t know how to win anymore, just look at the mess our country is in - bogged down in conflict all over the place. Our hero..&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/829684271812067328&quot;&gt;February 9, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;..Ryan died on a winning mission ( according to General Mattis), not a &amp;quot;failure.&amp;quot; Time for the U.S. to get smart and start winning again!&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/829689436279603206&quot;&gt;February 9, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+
+&lt;p&gt;5/ &lt;strong&gt;Republican Senator admits GOP health-care plan has to remain secret because it will be unpopular&lt;/strong&gt;. Senator Mike Lee insists that Republicans repeal Obamacare first, before they decide on an alternative. And his reason is straightforward: If people saw the Republican alternative, they might not like it! (&lt;a href=&quot;http://nymag.com/daily/intelligencer/2017/02/republican-admits-why-gop-health-plan-must-remain-secret.html&quot;&gt;New York Magazine&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;6/ &lt;strong&gt;Gun rights advocates prepare push for more guns in schools&lt;/strong&gt;. Attempts to allow more guns in K-12 schools were defeated in 15 states last year but second amendment campaigners are only encouraged by Trump’s election. (&lt;a href=&quot;https://www.theguardian.com/us-news/2017/feb/09/guns-schools-gun-control-betsy-devos&quot;&gt;The Guardian&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;7/ &lt;strong&gt;Trump lashes out at Blumenthal for relaying Gorsuch’s “disheartening” comments&lt;/strong&gt;. The president resurfaces Senator Blumenthal’s military record to minimize fallout from Gorsuch’s Supreme Court’s statements. (&lt;a href=&quot;http://www.politico.com/story/2017/02/trump-neil-gorsuch-richard-blumenthal-feud-234833&quot;&gt;Politico&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;We’re careening “toward a constitutional crisis”&lt;/strong&gt; Sen. Richard Blumenthal warned moments after Trump attacked him for sharing Supreme Court nominee Neil Gorsuch’s concerns with the president’s attacks on judges. (&lt;a href=&quot;http://thehill.com/homenews/senate/318655-blumenthal-were-careening-toward-a-constitutional-crisis&quot;&gt;The Hill&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trump questions credibility of senator who disclosed comments by Judge Gorsuch&lt;/strong&gt;. (&lt;a href=&quot;https://www.washingtonpost.com/news/post-politics/wp/2017/02/09/trump-questions-credibility-of-senator-who-disclosed-comments-by-judge-gorsuch/?hpid=hp_hp-top-table-main_trumpcomment-8a%3Ahomepage%2Fstory&quot;&gt;Washington Post&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;8/ &lt;strong&gt;Feds try to forcefully search Wall Street Journal reporter’s phone&lt;/strong&gt;. A Wall Street Journal reporter was detained by federal agents at the Los Angeles airport who demanded to confiscate her two cell phones – and was surprised to find that border agents have the authority to do that. (&lt;a href=&quot;http://money.cnn.com/2016/07/21/media/wall-street-journal-reporter-phone-feds/index.html&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;9/ &lt;strong&gt;Whatever happened to the Trump-Russia story?&lt;/strong&gt; The biggest election-related scandal since Watergate occurred last year, and it has largely disappeared from the political-media landscape of Washington. (&lt;a href=&quot;http://www.motherjones.com/politics/2017/02/russia-trump-putin-scandal-media&quot;&gt;Mother Jones&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;10/ &lt;strong&gt;Is the anti-Trump “Resistance” the New Tea Party?&lt;/strong&gt; The parallels are striking: a massive grassroots movement, many of its members new to activism, that feeds primarily off fear and reaction. (&lt;a href=&quot;https://www.theatlantic.com/politics/archive/2017/02/resistance-tea-party/516105/&quot;&gt;The Atlantic&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;11/ &lt;strong&gt;Burst your bubble: five conservative articles to read as protests stymie Trump&lt;/strong&gt;. Rightwing commentators try to explain to the left how best to agitate, while others reveal the hidden costs of America’s “war on terror.” (&lt;a href=&quot;https://www.theguardian.com/us-news/2017/feb/09/news-bubble-conservative-articles-for-liberals&quot;&gt;The Guardian&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;charts/ &lt;strong&gt;Trump’s approval rating in context&lt;/strong&gt;. Just how bad is Donald Trump’s approval rating, historically speaking? (&lt;a href=&quot;https://willjordanborderline.wordpress.com/2017/02/09/donald-trumps-approval-rating-in-historical-context/&quot;&gt;Borderline&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Day 20</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/08/Day-20/"/>
+   <link href="http://localhost:4000/2017/02/08/Day-20/"/>
    <updated>2017-02-08T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/02/08/Day-20</id>
+   <id>http://localhost:4000/2017/02/08/Day-20</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Jeff Sessions confirmed as Attorney General&lt;/strong&gt;, capping a bitter and racially charged nomination battle. Sessions survived a near-party-line vote, 52 to 47, in the latest sign of the extreme partisanship at play as Trump strains to install his cabinet. No Republicans broke ranks in their support. (&lt;a href=&quot;https://www.nytimes.com/2017/02/08/us/politics/jeff-sessions-attorney-general-confirmation.html&quot; target=&quot;_blank&quot;&gt;New York Times&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
@@ -72,8 +131,15 @@
 &lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Nordstrom’s shares up nearly 5 percent after clash with Trump&lt;/strong&gt;. (&lt;a href=&quot;http://www.vox.com/policy-and-politics/2017/2/8/14553562/nordstrom-stock-price-trump-ivanka&quot; target=&quot;_blank&quot;&gt;Vox&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;T.J. Maxx backs away from Ivanka Trump as President assails Nordstrom&lt;/strong&gt;. T.J. Maxx and Marshalls stores sent a note to employees telling them to throw away signs for Ivanka Trump products. (&lt;a href=&quot;https://www.nytimes.com/2017/02/08/business/ivanka-trump-nordstrom-tj-maxx.html&quot; target=&quot;_blank&quot;&gt;New York Times&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Nordstrom’s shares up nearly 5 percent after clash with Trump&lt;/strong&gt;. (&lt;a href=&quot;http://www.vox.com/policy-and-politics/2017/2/8/14553562/nordstrom-stock-price-trump-ivanka&quot; target=&quot;_blank&quot;&gt;Vox&lt;/a&gt;)&lt;/p&gt;
+
+    &lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;My daughter Ivanka has been treated so unfairly by &lt;a href=&quot;https://twitter.com/Nordstrom&quot;&gt;@Nordstrom&lt;/a&gt;. She is a great person -- always pushing me to do the right thing! Terrible!&lt;/p&gt;&amp;mdash; Donald J. Trump (@realDonaldTrump) &lt;a href=&quot;https://twitter.com/realDonaldTrump/status/829356871848951809&quot;&gt;February 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;T.J. Maxx backs away from Ivanka Trump as President assails Nordstrom&lt;/strong&gt;. T.J. Maxx and Marshalls stores sent a note to employees telling them to throw away signs for Ivanka Trump products. (&lt;a href=&quot;https://www.nytimes.com/2017/02/08/business/ivanka-trump-nordstrom-tj-maxx.html&quot; target=&quot;_blank&quot;&gt;New York Times&lt;/a&gt;)&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;13/ &lt;strong&gt;Republicans push carbon tax at White House&lt;/strong&gt;. A carbon tax, long favored by economists as the most straightforward way to address climate change, could gain traction as part of a broad tax overhaul. (&lt;a href=&quot;https://www.bloomberg.com/politics/articles/2017-02-08/prominent-republicans-begin-push-to-tax-carbon-cut-regulations&quot; target=&quot;_blank&quot;&gt;Bloomberg&lt;/a&gt;)&lt;/p&gt;
@@ -82,9 +148,9 @@
  
  <entry>
    <title>Day 19</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/07/Day-19/"/>
+   <link href="http://localhost:4000/2017/02/07/Day-19/"/>
    <updated>2017-02-07T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/02/07/Day-19</id>
+   <id>http://localhost:4000/2017/02/07/Day-19</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;9th Circuit Court of Appeals to hear challenge to Trump’s ban today&lt;/strong&gt;. The issue in front of the court at the moment is whether the ban will remain suspended for now. The hour-long hearing, conducted by telephone among three West coast judges at 6 p.m. ET, will determine the immediate fate of the nationwide temporary restraining order against Trump’s travel ban. The three-judge panel is expected to rule this week. (&lt;a href=&quot;http://www.cnn.com/2017/02/06/politics/9th-circuit-court-of-appeals-trump-travel-ban/&quot; target=&quot;_blank&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -156,9 +222,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 18</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/06/Day-18/"/>
+   <link href="http://localhost:4000/2017/02/06/Day-18/"/>
    <updated>2017-02-06T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/02/06/Day-18</id>
+   <id>http://localhost:4000/2017/02/06/Day-18</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump will not be allowed to address Parliament on UK state visit&lt;/strong&gt;. Members of Parliament will not permit Trump to address Westminster Hall because of his racist and sexist attitudes. (&lt;a href=&quot;http://www.independent.co.uk/news/uk/politics/donald-trump-uk-state-visit-speaker-address-parliament-a7565651.html&quot; target=&quot;_blank&quot;&gt;The Independent&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;2/ &lt;strong&gt;After 2 weeks of stumbles, Trump and staff rethink tactics&lt;/strong&gt;. The backlash against a series of executive orders has Trump and his top staff reconsidering their improvisational approach to governing. Trump, who was not fully briefed on the executive order he signed giving his chief strategist a seat on the National Security Council, has demanded that he be looped in earlier. (&lt;a href=&quot;http://www.nytimes.com/2017/02/05/us/politics/trump-white-house-aides-strategy.html&quot; target=&quot;_blank&quot;&gt;New York Times&lt;/a&gt;)&lt;/p&gt;
@@ -232,9 +298,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 17</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/05/Day-17/"/>
+   <link href="http://localhost:4000/2017/02/05/Day-17/"/>
    <updated>2017-02-05T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/02/05/Day-17</id>
+   <id>http://localhost:4000/2017/02/05/Day-17</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Appeals court rejects request to immediately restore travel ban&lt;/strong&gt;. A federal appeals court early Sunday rejected a request by the Justice Department to immediately restore President Trump’s immigration order. The ruling meant that refugees and travelers from seven predominantly Muslim nations would, for now, continue to be able to enter the country. (&lt;a href=&quot;https://www.nytimes.com/2017/02/04/us/politics/visa-ban-trump-judge-james-robart.html&quot; target=&quot;_blank&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -301,9 +367,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 16</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/04/Day-16/"/>
+   <link href="http://localhost:4000/2017/02/04/Day-16/"/>
    <updated>2017-02-04T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/02/04/Day-16</id>
+   <id>http://localhost:4000/2017/02/04/Day-16</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Homeland Security suspends travel ban&lt;/strong&gt;, and will resume standard inspections of travelers as it did prior to the signing of the travel ban. The White House announced the Justice Department would file an emergency motion to stop the halt, but it had yet to do so as of Saturday afternoon. Washington state Attorney General Bob Ferguson said he was prepared to take his case all the way to the Supreme Court if necessary. (&lt;a href=&quot;http://www.cnn.com/2017/02/03/politics/federal-judge-temporarily-halts-trump-travel-ban-nationwide-ag-says/index.html&quot; target=&quot;_blank&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -383,9 +449,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 15</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/03/Day-15/"/>
+   <link href="http://localhost:4000/2017/02/03/Day-15/"/>
    <updated>2017-02-03T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/02/03/Day-15</id>
+   <id>http://localhost:4000/2017/02/03/Day-15</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Kellyanne Conway cites non-existent “massacre” defending ban.&lt;/strong&gt; There’s no such thing as the Bowling Green massacre. (&lt;a href=&quot;http://www.cnn.com/2017/02/03/politics/conway-bowling-green/&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
 
 &lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;.&lt;a href=&quot;https://twitter.com/KellyannePolls&quot;&gt;@KellyannePolls&lt;/a&gt; says that 2 Iraqi refugees &amp;quot;were the masterminds behind the Bowling Green massacre.&amp;quot;&lt;br /&gt;(There was no such massacre.) &lt;a href=&quot;https://t.co/sD3Nnb5xfE&quot;&gt;pic.twitter.com/sD3Nnb5xfE&lt;/a&gt;&lt;/p&gt;&amp;mdash; Joe Sonka (@joesonka) &lt;a href=&quot;https://twitter.com/joesonka/status/827344429086289921&quot;&gt;February 3, 2017&lt;/a&gt;&lt;/blockquote&gt;
@@ -477,9 +543,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 14</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/"/>
+   <link href="http://localhost:4000/2017/02/02/Day-14/"/>
    <updated>2017-02-02T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14</id>
+   <id>http://localhost:4000/2017/02/02/Day-14</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump badgered, bragged and abruptly ended phone call with Australian leader&lt;/strong&gt;. Trump blasted Australian Prime Minister Malcolm Turnbull over a refu­gee agreement and boasted about the magnitude of his electoral college win. Trump called it “this was the worst call by far.” (&lt;a href=&quot;https://www.washingtonpost.com/world/national-security/no-gday-mate-on-call-with-australian-pm-trump-badgers-and-brags/2017/02/01/88a3bfb0-e8bf-11e6-80c2-30e57e57e05d_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Related:&lt;/em&gt;&lt;/p&gt;
@@ -579,9 +645,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 13</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/02/01/Day-13/"/>
+   <link href="http://localhost:4000/2017/02/01/Day-13/"/>
    <updated>2017-02-01T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/02/01/Day-13</id>
+   <id>http://localhost:4000/2017/02/01/Day-13</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump Picks Neil Gorsuch, A Scalia Clone, For The Supreme Court.&lt;/strong&gt; Ideologically, Gorsuch would almost certainly represent a reliably conservative vote and voice. Gorsuch would be the most conservative justice save for the silent stalwart Justice Clarence Thomas and would sit somewhere just to the right of the ideological space occupied by Scalia. (&lt;a href=&quot;https://fivethirtyeight.com/features/neil-gorsuch-supreme-court-trump/&quot;&gt;FiveThirtyEight&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -714,9 +780,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 12</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/31/Day-12/"/>
+   <link href="http://localhost:4000/2017/01/31/Day-12/"/>
    <updated>2017-01-31T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/31/Day-12</id>
+   <id>http://localhost:4000/2017/01/31/Day-12</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Hill staffers secretly worked on Trump’s immigration order.&lt;/strong&gt; Several House Judiciary Committee aides helped craft the controversial directive without telling Republican leaders. The news of their involvement helps unlock the mystery of whether the White House consulted Capitol Hill about the executive order, and confirms that the small group of staffers were among the only people on the Hill who knew of the looming controversial policy. (&lt;a href=&quot;http://www.politico.com/story/2017/01/trump-immigration-congress-order-234392&quot;&gt;Politico&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -817,9 +883,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 11</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/30/Day-11/"/>
+   <link href="http://localhost:4000/2017/01/30/Day-11/"/>
    <updated>2017-01-30T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/30/Day-11</id>
+   <id>http://localhost:4000/2017/01/30/Day-11</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Acting Attorney General declares Justice Department won’t defend Trump’s immigration order.&lt;/strong&gt; The Senate Judiciary Committee is scheduled to vote Tuesday on Trump’s pick for attorney general, Jeff Sessions, whose views align much more closely with the president’s. (&lt;a href=&quot;https://www.washingtonpost.com/news/post-nation/wp/2017/01/30/trump-says-all-is-going-well-on-immigration-order-amid-questions-and-confusion/&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -892,9 +958,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 10</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/29/Day-10/"/>
+   <link href="http://localhost:4000/2017/01/29/Day-10/"/>
    <updated>2017-01-29T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/29/Day-10</id>
+   <id>http://localhost:4000/2017/01/29/Day-10</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump’s first defeat.&lt;/strong&gt; The immigration order creates an international mess and a political embarrassment. The hastily crafted order was temporarily and partially blocked by a U.S. District Court Judge. (&lt;a href=&quot;http://www.politico.com/magazine/story/2017/01/president-trumps-first-defeat-214707&quot;&gt;Politico&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -949,9 +1015,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 9</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/28/Day-9/"/>
+   <link href="http://localhost:4000/2017/01/28/Day-9/"/>
    <updated>2017-01-28T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/28/Day-9</id>
+   <id>http://localhost:4000/2017/01/28/Day-9</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump’s order blocks immigrants at airports, stoking fear around the globe.&lt;/strong&gt; The executive order suspended entry of all refugees to the United States for 120 days, barred Syrian refugees indefinitely, and blocked entry into the United States for 90 days for citizens of seven predominantly Muslim countries: Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen. The Department of Homeland Security said that the executive order also barred green card holders from those countries from re-entering the United States. White House officials said that green card holders from the seven affected countries who are outside the United States would need a case-by-case waiver to return to the United States. (&lt;a href=&quot;http://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1008,9 +1074,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 8</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/27/Day-8/"/>
+   <link href="http://localhost:4000/2017/01/27/Day-8/"/>
    <updated>2017-01-27T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/27/Day-8</id>
+   <id>http://localhost:4000/2017/01/27/Day-8</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump executive order suspends admission of all refugees for 120 days&lt;/strong&gt; while a new system is put in place to tighten vetting for those from predominantly Muslim countries and give preference to religious minorities. Trump said that the goal is to screen out “radical Islamic terrorists” and that priority for admission would be given to Christians. (&lt;a href=&quot;https://www.washingtonpost.com/world/national-security/trump-approves-extreme-vetting-of-refugees-promises-priority-for-christians/2017/01/27/007021a2-e4c7-11e6-a547-5fb9411d332c_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;2/ &lt;strong&gt;The extreme vetting plan to establishes a religious test&lt;/strong&gt; for refugees from Muslim nations. The order also stops the admission of refugees from Syria indefinitely, and bars entry into the United States for 90 days from seven predominantly Muslim countries linked to concerns about terrorism. Those countries are Iraq, Syria, Iran, Sudan, Libya, Somalia and Yemen. (&lt;a href=&quot;http://www.nytimes.com/2017/01/27/us/politics/trump-syrian-refugees.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
@@ -1047,9 +1113,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 7</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/26/Day-7/"/>
+   <link href="http://localhost:4000/2017/01/26/Day-7/"/>
    <updated>2017-01-26T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/26/Day-7</id>
+   <id>http://localhost:4000/2017/01/26/Day-7</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Steve Bannon says media should “keep its mouth shut.”&lt;/strong&gt; Trump’s chief strategist, laced into the American press during an interview, arguing that news organizations had been “humiliated” by an election outcome few anticipated, and repeatedly describing the media as “the opposition party” of the current administration. (&lt;a href=&quot;https://www.nytimes.com/2017/01/26/business/media/stephen-bannon-trump-news-media.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;2/ &lt;strong&gt;One of the greatest threats Trump poses is that he corrupts and corrodes the absoluteness of truth, facts and science.&lt;/strong&gt; It is no coincidence that the rise of Trump is concurrent with the rise of “fake news.” It is no coincidence that his rise comes during an age of severely damaged faith in institutions. Our president is a pathological liar. Say it. Write it. Never become inured to it. And dispense with the terms of art to describe it. A lie by any other name portends the same. (&lt;a href=&quot;http://www.nytimes.com/2017/01/26/opinion/a-lie-by-any-other-name.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
@@ -1075,9 +1141,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 6</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/25/Day-6/"/>
+   <link href="http://localhost:4000/2017/01/25/Day-6/"/>
    <updated>2017-01-25T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/25/Day-6</id>
+   <id>http://localhost:4000/2017/01/25/Day-6</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump’s voter fraud example?&lt;/strong&gt; A troubled tale about Bernhard Langer meant to illustrate rampant, unchecked voter fraud. (&lt;a href=&quot;https://www.nytimes.com/2017/01/25/us/politics/trump-bernhard-langer-voting-fraud.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1109,9 +1175,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 5</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/24/Day-5/"/>
+   <link href="http://localhost:4000/2017/01/24/Day-5/"/>
    <updated>2017-01-24T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/24/Day-5</id>
+   <id>http://localhost:4000/2017/01/24/Day-5</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Trump believes millions voted illegally – but provides no proof.&lt;/strong&gt; The claim has long been debunked. (&lt;a href=&quot;http://www.cnn.com/2017/01/24/politics/wh-trump-believes-millions-voted-illegally/&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;2/ &lt;strong&gt;Trump orders the construction of a Mexican border wall.&lt;/strong&gt; It’s the first in a series of actions to curtail immigration and bolster national security. It includes slashing the number of refugees who can resettle in the United States and blocks Syrians and others from “terror prone” nations from entering  temporarily. (&lt;a href=&quot;https://www.nytimes.com/2017/01/24/us/politics/wall-border-trump.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
@@ -1152,9 +1218,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 4</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/23/Day-4/"/>
+   <link href="http://localhost:4000/2017/01/23/Day-4/"/>
    <updated>2017-01-23T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/23/Day-4</id>
+   <id>http://localhost:4000/2017/01/23/Day-4</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;The first days inside Trump’s White House: Fury, tumult and a reboot.&lt;/strong&gt; President Trump had just returned to the White House on Saturday from his final inauguration event, a tranquil interfaith prayer service, when the flashes of anger began to build. (&lt;a href=&quot;https://www.washingtonpost.com/politics/the-first-days-inside-trumps-white-house-fury-tumult-and-a-reboot/2017/01/23/7ceef1b0-e191-11e6-ba11-63c4b4fb5a63_story.html&quot;&gt;Washington Post&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;2/ &lt;strong&gt;Spicer: ‘Negative’ Trump coverage is ‘demoralizing’&lt;/strong&gt; The White House press secretary pushed back at what he said was negative coverage of the Trump White House, describing the media narrative as “demoralizing. It’s not just about a crowd size. There’s this constant theme to undercut the enormous support he has,” Spicer said of Trump. (&lt;a href=&quot;http://thehill.com/homenews/administration/315721-spicer-negative-trump-coverage-is-demoralizing&quot;&gt;The Hill&lt;/a&gt;)&lt;/p&gt;
@@ -1177,9 +1243,9 @@ Spicer has served as both White House press secretary and communications directo
  
  <entry>
    <title>Day 3</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/22/Day-3/"/>
+   <link href="http://localhost:4000/2017/01/22/Day-3/"/>
    <updated>2017-01-22T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/22/Day-3</id>
+   <id>http://localhost:4000/2017/01/22/Day-3</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;The Trump Administration started with a big lie over a small thing.&lt;/strong&gt; It wasn’t about an affair with an intern or in an attempt to wage war. The Trump administration kicked off with a whopper about the media’s role in maliciously minimizing the crowd size for Trump’s inauguration in a dastardly attempt to make him look bad. (&lt;a href=&quot;http://www.thedailybeast.com/articles/2017/01/22/trump-administration-starts-with-big-lie-over-small-thing.html&quot;&gt;The Daily Best&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;2/ &lt;strong&gt;Crowd scientists say Women’s March in Washington was three times the size of the audience at Trump’s inauguration&lt;/strong&gt; (&lt;a href=&quot;https://www.nytimes.com/interactive/2017/01/22/us/politics/womens-march-trump-crowd-estimates.html&quot;&gt;NY Times&lt;/a&gt;), and may have been the largest demonstration in US history. Marches held in more than 500 US cities were attended by at least 3.3 million people. (&lt;a href=&quot;http://www.vox.com/2017/1/22/14350808/womens-marches-largest-demonstration-us-history-map&quot;&gt;Vox&lt;/a&gt;)&lt;/p&gt;
@@ -1217,9 +1283,9 @@ If the president and his aides will tell easily disproven falsehoods about crowd
  
  <entry>
    <title>Day 2</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/21/Day-2/"/>
+   <link href="http://localhost:4000/2017/01/21/Day-2/"/>
    <updated>2017-01-21T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/21/Day-2</id>
+   <id>http://localhost:4000/2017/01/21/Day-2</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Photos comparing Trump’s inauguration crowd to the Women’s March&lt;/strong&gt; (&lt;a href=&quot;http://www.cnn.com/2017/01/21/politics/womens-march-donald-trump-inauguration-sizes/index.html&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;2/ &lt;strong&gt;White House press secretary Sean Spicer attacked media for accurately reporting inauguration crowds.&lt;/strong&gt; “This was the largest audience to ever witness an inauguration, period,” Spicer said, contradicting all available data. Aerial photos have indicated that former president Barack Obama’s first inauguration attracted a much larger crowd. Nielsen ratings show that Obama also had a bigger television audience. Spicer, at times almost yelling while reading a prepared statement, took no questions. (&lt;a href=&quot;http://money.cnn.com/2017/01/21/media/sean-spicer-press-secretary-statement/index.html&quot;&gt;CNN&lt;/a&gt;)&lt;/p&gt;
@@ -1236,9 +1302,9 @@ If the president and his aides will tell easily disproven falsehoods about crowd
  
  <entry>
    <title>Day 1</title>
-   <link href="https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/"/>
+   <link href="http://localhost:4000/2017/01/20/Day-1/"/>
    <updated>2017-01-20T00:00:00-08:00</updated>
-   <id>https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1</id>
+   <id>http://localhost:4000/2017/01/20/Day-1</id>
    <content type="html">&lt;p&gt;1/ &lt;strong&gt;Donald Trump has named only 29 of his 660 executive department appointments&lt;/strong&gt;, the Partnership for Public Service said. (&lt;a href=&quot;https://www.nytimes.com/2017/01/19/us/trump-cabinet-picks-inauguration.html&quot;&gt;NY Times&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;2/ Trump boasted his inauguration would have an “unbelievable, perhaps record-setting turnout.” &lt;strong&gt;But aerial shots of the National Mall from Obama’s 2009 inauguration and today show that isn’t likely.&lt;/strong&gt; (&lt;a href=&quot;http://www.vox.com/policy-and-politics/2017/1/20/14332462/photos-crowd-trump-inauguration-vs-obama&quot;&gt;Vox&lt;/a&gt;)&lt;/p&gt;

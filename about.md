@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: What The Fuck Is This All About?
 image:
   twitter: /public/wtfjht-t.jpg
-  facebook: /public/wtfjht.jpg
+  facebook: /public/wtfjht-f.jpg
 ---
 
 <div class="page">

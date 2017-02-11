@@ -5,10 +5,22 @@
 
 .page,
 .post {
+  margin: 0 auto;
   margin-bottom: 4em;
+  max-width: 38rem;
+
+  p {
+    font-size: .85em;
+  }
+
+  li {
+    font-size: .7em;
+    color: $gray-3;
+  }
 
   li + li {
-    margin-top: .25rem;
+    margin-top: 1em;
+    margin-bottom: 2em;
   }
 }
 
@@ -26,9 +38,9 @@
 // Meta data line below post title
 .post-date {
   display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
   color: #9a9a9a;
+  font-size: .75em;
+  margin: 1em 0;
 }
 
 

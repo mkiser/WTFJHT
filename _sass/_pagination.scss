@@ -3,11 +3,25 @@
 // Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
 // there are no more previous or next posts to show.
 
+.wtf-pagination {
+  color: #fff;
+  background-color: #222;
+  padding: .7em 1em;
+  font-size: .75em;
+
+  a {
+    padding: 0 .2em;
+    color: #71e2b8;
+  }
+}
+
+
 .pagination {
   overflow: hidden; // clearfix
   margin: 0 -1.5rem 1rem;
   color: #ccc;
   text-align: center;
+  background-color: $gray-5;
 }
 
 // Pagination items can be `span`s or `a`s

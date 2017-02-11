@@ -33,11 +33,11 @@ image:
 <div class="posts">
   {% for post in site.posts %}
   <article class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}:
       <span class="post-small">{{ post.description }}</span></a>
-    </h1>
+    </h2>
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
     {{ post.date | date: "%m/%d/%Y" }}
   

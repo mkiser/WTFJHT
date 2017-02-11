@@ -36,6 +36,8 @@ timezone: America/Los_Angeles
 algolia:
   application_id: 'UI0QYYDNB1'
   index_name:     'WTFJHT'
+  read_only_api_key: '50fe80eaf3c61b236fe7408e8be4bc30'
+  record_css_selector: 'p,li,blockquote'
   excluded_files:
     - index.html
     - 404.html

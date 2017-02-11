@@ -2,12 +2,12 @@
 permalink:           pretty
 
 # Setup
-title:               What The Fuck Just Happened Today?
-name:         		 "What The Fuck Just Happened Today?"
-tagline:             "Logging the daily shock and awe."
-description: 		 "Logging the shock and awe in Trump's America one day at a time."
-url:          		 "https://whatthefuckjusthappenedtoday.com"
-# baseurl:             "/"
+title:            What The Fuck Just Happened Today?
+name:             "What The Fuck Just Happened Today?"
+tagline:          "Logging the daily shock and awe."
+description:      "Logging the shock and awe in Trump's America one day at a time."
+url:              "https://whatthefuckjusthappenedtoday.com"
+# baseurl:          "/"
 twitter:
   username: WTFJHT
 
@@ -34,7 +34,7 @@ github:
 timezone: America/Los_Angeles
 
 # Gems
-gems: 
+gems:
   - jekyll-gist
   - github-pages
   - jekyll-seo-tag

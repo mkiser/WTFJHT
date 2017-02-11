@@ -15,10 +15,30 @@ footer {
 }
 
 .icon {
-    max-width: 30px;
+    max-width: 25px;
     float: left;
 }
-#icons {
+
+.icon img {
+    margin: 0px;
+}
+.icons {
     max-width: 100%;
     padding-top: 1rem;
+}
+
+.fa-css {
+    left: 15px;
+    position: absolute;
+    top: 11px;
+}    
+
+.outer-wrapper {
+  position: relative;
+}
+
+.inner-wrapper {
+  display: inline-block;
+  width: 90%;
+  max-width: 90%;
 }

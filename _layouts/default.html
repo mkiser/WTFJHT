@@ -24,10 +24,18 @@
       </header>
       <main> 
         <!-- ALGOLIA -->
-        <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="New! Search WTF..." />
-
+        <hr>
+        <center>
+          <div class="outer-wrapper">
+            <div class="input-wrapper">
+              <i class="fa fa-search fa-css" aria-hidden="true"></i>
+              <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="New! Search WTF..." />
+            </div>
+          </div>
+        </center>
+     
         <div class="algolia__search-content js-algolia__search-content">
-          <h4 class="page-title">Search Results</h4>
+          <h6>Search Results</h6>
           <div class="posts algolia__results"></div>
         </div>
 
@@ -38,7 +46,7 @@
         <hr>
         <p>Learn more <a href="{{ site.baseurl }}/about/">about this project</a>.</p>
         <small>
-          <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">What The Fuck Just Happened Today?</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://whatthefuckjusthappenedtoday.com/about/" property="cc:attributionName" rel="cc:attributionURL">Matt Kiser</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
+          <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">What The Fuck Just Happened Today?</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://whatthefuckjusthappenedtoday.com/about/" property="cc:attributionName" rel="cc:attributionURL">stt Kiser</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
         </small>
       </footer>
     </div>
@@ -67,11 +75,11 @@
 <script id="algolia__template--no-results" type="text/template">
   Fake news not found.
 </script>
-<script src="//cdn.jsdelivr.net/jquery/2.1.4/jquery.min.js"></script>
-<script src="//cdn.jsdelivr.net/algoliasearch/3.6.0/algoliasearch.min.js"></script>
-<script src="//cdn.jsdelivr.net/algoliasearch.helper/2.1.0/algoliasearch.helper.min.js"></script>
-<script src="//cdn.jsdelivr.net/hogan.js/3.0.2/hogan.min.js"></script>
-<script src="//cdn.jsdelivr.net/momentjs/2.10.3/moment.min.js"></script>
+<script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
+<script src="{{ site.baseurl }}/public/js/algoliasearch.min.js"></script>
+<script src="{{ site.baseurl }}/public/js/algoliasearch.helper.min.js"></script>
+<script src="{{ site.baseurl }}/public/js/hogan.min.js"></script>
+<script src="{{ site.baseurl }}/public/js/moment.min.js"></script>
 <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
 
 <!-- END ALGOLIA -->

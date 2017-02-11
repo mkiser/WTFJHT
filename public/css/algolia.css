@@ -1,10 +1,10 @@
 /* Search form */
 .algolia__input {
-  margin: 1rem;
-  font-size: 20px;
-  padding:.25rem .5rem;
-  max-width: 90%;
-  width: 90%;
+  font-size: 1em;
+  padding: 0 15px 0 45px;
+  height: 42px;
+  border: 1px solid #dddddd;
+  width: 100%;
 }
 
 /* Search results container */

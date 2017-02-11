@@ -28,7 +28,8 @@ $(function(config) {
 
   // Toggle result page
   function showResults() {
-    window.scroll(0, 0);
+    // window.scroll(0, 0);
+    // $('algolia__input').scrollTop();
     $initialContent.addClass('algolia__initial-content--hidden');
     $searchContent.addClass('algolia__search-content--active');
 

@@ -33,10 +33,22 @@ github:
   repo:              https://github.com/mkiser/WTFJHT
 timezone: America/Los_Angeles
 
+algolia:
+  application_id: 'UI0QYYDNB1'
+  index_name:     'WTFJHT'
+  excluded_files:
+    - index.html
+    - 404.html
+    - endorsements.md
+    - about.md
+    - rss.xml
+    - atom.xml
+    - styles.css
+
 # Gems
 gems: 
   - jekyll-gist
   - github-pages
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  - algoliasearch-jekyll

@@ -4,7 +4,7 @@ _gh_pages
 .sass-cache
 .tweet-cache
 _site
-
+_algolia_api_key
 
 # Numerous always-ignore extensions
 *.diff

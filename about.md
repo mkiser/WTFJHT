@@ -5,7 +5,6 @@ image:
   twitter: /public/wtfjht-t.jpg
   facebook: /public/wtfjht-f.jpg
 ---
-
 <div class="page">
   <p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is a personal project to log the daily shock and awe in Trump's America. The goal is to capture the most important news in a digestable form inspired by <a href="http://www.theskimm.com/">The Skimm</a>, <a href="http://techmeme.com/">Techmeme</a>, and <a href="http://www.theverge.com/2016/12/13/13936946/twitter-tweetstorm-thread-timeline-medium">tweetstorms</a>.
   </p>

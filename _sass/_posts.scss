@@ -15,7 +15,12 @@
   border-top: 1px solid $gray-2;
 
   p {
-    font-size: .85em;
+    font-size: 1em;
+
+    a {
+      color: #0093f0;
+    }
+
   }
 
   ul {
@@ -27,9 +32,13 @@
   }
 
   li {
-    font-size: .7em;
+    font-size: .8em;
     color: $gray-3;
     list-style: none;
+
+    a {
+      color: #0093f0;
+    }
   }
 
   li + li {

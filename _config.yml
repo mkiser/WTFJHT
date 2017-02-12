@@ -20,7 +20,6 @@ facebook:
 sass:
   sass_dir:          _sass
   style:            :compressed
-
 # About/contact
 # author:
 #   name:             'Matt Kiser'
@@ -31,7 +30,8 @@ sass:
 version:             1.0.0
 github:
   repo:              https://github.com/mkiser/WTFJHT
-timezone: America/Los_Angeles
+timezone:            America/Los_Angeles
+exclude:             [vendor]
 
 algolia:
   application_id: 'UI0QYYDNB1'

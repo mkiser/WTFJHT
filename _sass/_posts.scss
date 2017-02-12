@@ -3,24 +3,37 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
+.posts {
+  margin-top: 1em;
+}
+
 .page,
 .post {
   margin: 0 auto;
-  margin-bottom: 4em;
-  max-width: 38rem;
+  max-width: 40rem;
+  padding: 1rem;
+  border-top: 1px solid $gray-2;
 
   p {
     font-size: .85em;
   }
 
+  ul {
+    border: 1px solid rgba(0, 147, 240, .20);
+    padding: 1em;
+    margin: 0 0 2em 1em;
+    border-radius: 3px;
+    background-color: rgba(0, 147, 240, .03);
+  }
+
   li {
     font-size: .7em;
     color: $gray-3;
+    list-style: none;
   }
 
   li + li {
-    margin-top: 1em;
-    margin-bottom: 2em;
+    margin-top: 1.25em;
   }
 
   p + p {
@@ -48,7 +61,7 @@
   display: block;
   color: #9a9a9a;
   font-size: .75em;
-  margin: 1em 0;
+  margin: 1em 0 2em 0;
 }
 
 

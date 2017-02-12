@@ -44,4 +44,19 @@ footer {
 .wtf-search-results {
   max-width: 38rem;
   margin: 0 auto;
+
+  .algolia__result a {
+    font-size: .75em;
+  }
+
+  .algolia__result-text {
+    font-size: .85em;
+  }
+
+  .algolia__result-date {
+    text-transform: uppercase;
+    color: $gray-3;
+    font-size: .7em;
+    margin-bottom: .6em;
+  }
 }

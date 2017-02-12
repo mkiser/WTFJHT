@@ -31,7 +31,7 @@
   <link rel="stylesheet" href="/styles.css">
   <link rel="stylesheet" href="/public/css/algolia.css">
   <link rel="stylesheet" href="/public/css/font-awesome/css/font-awesome.min.css">
-<link href="https://fonts.googleapis.com/css?family=Oswald|Poppins" rel="stylesheet">
+
   <!-- <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png"> -->
   <link rel="shortcut icon" href="/public/favicon.ico" type="image/x-icon">
   <link rel="icon" href="/public/favicon.ico" type="image/x-icon">
@@ -43,47 +43,43 @@
   <body>
     <div class="container content">
       <header class="masthead">
-          <div class="wtf-pagination">Day:  <a href="/2017/01/20/Day-1/">1</a> <a href="/2017/01/21/Day-2/">2</a> <a href="/2017/01/22/Day-3/">3</a> <a href="/2017/01/23/Day-4/">4</a> <a href="/2017/01/24/Day-5/">5</a> <a href="/2017/01/25/Day-6/">6</a> <a href="/2017/01/26/Day-7/">7</a> <a href="/2017/01/27/Day-8/">8</a> <a href="/2017/01/28/Day-9/">9</a> <a href="/2017/01/29/Day-10/">10</a> <a href="/2017/01/30/Day-11/">11</a> <a href="/2017/01/31/Day-12/">12</a> <a href="/2017/02/01/Day-13/">13</a> <a href="/2017/02/02/Day-14/">14</a> <a href="/2017/02/03/Day-15/">15</a> <a href="/2017/02/04/Day-16/">16</a> <a href="/2017/02/05/Day-17/">17</a> <a href="/2017/02/06/Day-18/">18</a> <a href="/2017/02/07/Day-19/">19</a> <a href="/2017/02/08/Day-20/">20</a> <a href="/2017/02/09/Day-21/">21</a> <a href="/2017/02/10/Day-22/">22</a> <a href="/2017/02/11/Day-23/">23</a>
-          </div>
         <h3 class="masthead-title">
           <a href="/" title="Home">What The Fuck Just Happened Today?</a>
+         <br> <small>Logging the daily shock and awe. By <a href="https://twitter.com/matt_kiser">@matt_kiser</a></small>
         </h3>
-        <div class="wtf-tagline">
-         <small>Logging the daily shock and awe. By <a href="https://twitter.com/matt_kiser">@matt_kiser</a></small>
-         <span class="site-updated">Site updated: <time datetime="2017-02-12T09:50:19-08:00">02/12/2017 09:50:19 AM PST</time>
-         </span>
-         </div>
-
         <div>
-
+          <small><em>Site updated: <time datetime="2017-02-12T10:44:55-08:00">02/12/2017 10:44:55 AM PST</time>
+          </em> </small>
         </div> 
-        <div class="wtf-search">
+          <small><strong>Day:</strong>  <a href="/2017/01/20/Day-1/">1</a> <a href="/2017/01/21/Day-2/">2</a> <a href="/2017/01/22/Day-3/">3</a> <a href="/2017/01/23/Day-4/">4</a> <a href="/2017/01/24/Day-5/">5</a> <a href="/2017/01/25/Day-6/">6</a> <a href="/2017/01/26/Day-7/">7</a> <a href="/2017/01/27/Day-8/">8</a> <a href="/2017/01/28/Day-9/">9</a> <a href="/2017/01/29/Day-10/">10</a> <a href="/2017/01/30/Day-11/">11</a> <a href="/2017/01/31/Day-12/">12</a> <a href="/2017/02/01/Day-13/">13</a> <a href="/2017/02/02/Day-14/">14</a> <a href="/2017/02/03/Day-15/">15</a> <a href="/2017/02/04/Day-16/">16</a> <a href="/2017/02/05/Day-17/">17</a> <a href="/2017/02/06/Day-18/">18</a> <a href="/2017/02/07/Day-19/">19</a> <a href="/2017/02/08/Day-20/">20</a> <a href="/2017/02/09/Day-21/">21</a> <a href="/2017/02/10/Day-22/">22</a> <a href="/2017/02/11/Day-23/">23</a>
+        </small>
+
+        <div id="icons">
+          <div class="icon"><a href="https://twitter.com/WTFJHT" target="_blank"><img src="/public/twttr.png"></a></div>
+          <div class="icon"><a href="https://www.facebook.com/wtfjht/" target="_blank"><img src="/public/fb.png"></a></div>
+          <div class="icon"><a href="https://whatthefuckjusthappenedtoday.com/atom.xml" target="_blank"><img src="/public/rss.png"></a></div>
+          <div class="icon"><a href="https://github.com/mkiser/mkiser.github.io" target="_blank"><img src="/public/gh.png"></a></div>
+        </div>
+      </header>
+      <main> 
+        <!-- ALGOLIA -->
+        <hr>
+        <center>
           <div class="outer-wrapper">
             <div class="input-wrapper">
               <i class="fa fa-search fa-css" aria-hidden="true"></i>
               <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="New! Search WTF..." />
             </div>
           </div>
-        </div>
-      </header>
-
-              <div id="icons">
-          <div class="icon"><a href="https://twitter.com/WTFJHT" target="_blank"><img src="/public/twttr.png"></a></div>
-          <div class="icon"><a href="https://www.facebook.com/wtfjht/" target="_blank"><img src="/public/fb.png"></a></div>
-          <div class="icon"><a href="https://whatthefuckjusthappenedtoday.com/atom.xml" target="_blank"><img src="/public/rss.png"></a></div>
-          <div class="icon"><a href="https://github.com/mkiser/mkiser.github.io" target="_blank"><img src="/public/gh.png"></a></div>
-        </div>
-      <main> 
-        <!-- ALGOLIA -->
-        
-        <div class="wtf-search-results">
-          <div class="algolia__search-content js-algolia__search-content">
-            <h6>Search Results</h6>
-            <div class="posts algolia__results"></div>
-          </div>
+        </center>
+     
+        <div class="algolia__search-content js-algolia__search-content">
+          <h6>Search Results</h6>
+          <div class="posts algolia__results"></div>
         </div>
 
-        <div class="algolia__initial-content js-algolia__initial-content"><!-- Begin MailChimp Signup Form -->
+        <div class="algolia__initial-content js-algolia__initial-content"><hr>
+<!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
@@ -104,20 +100,21 @@
 
 <!--End mc_embed_signup-->
 
+<hr>
 
 
 <div class="posts">
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/11/Day-23/">
         Day 23:
       <span class="post-small">Targeted.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-11T00:00:00-08:00" class="post-date">
     02/11/2017
   
-    <small><em>Updated: 02/11/2017 10:37:16 PM PST
+    <small><em>Updated: 02/12/2017 10:15:13 AM PST
     </em></small>
   </time>
  
@@ -148,7 +145,7 @@
 <p><em>Related:</em></p>
 
 <ul>
-  <li><strong>Trump to Dems: “Pocahontas is now the face of your party”</strong> – his insult of choice for Elizabeth Warren. Trump said the only reason Warren claimed Native American heritage was “because she has high cheekbones.” Trump was references questions over Warren’s ancestry from her 2012 Senate race. (<a href="http://www.cnn.com/2017/02/10/politics/donald-trump-elizabeth-warren-voter-fraud/" target="_blank">CNN</a>)</li>
+  <li><strong>Trump to Dems: “Pocahontas is now the face of your party”</strong> – his insult of choice for Elizabeth Warren. Trump said the only reason Warren claimed Native American heritage was “because she has high cheekbones.” Trump was referencing questions over Warren’s ancestry from her 2012 Senate race. (<a href="http://www.cnn.com/2017/02/10/politics/donald-trump-elizabeth-warren-voter-fraud/" target="_blank">CNN</a>)</li>
 </ul>
 
 <p>8/ <strong>Trump: Border wall price “will come WAY DOWN” when I negotiate</strong>. Trump responded to reports that the cost of his proposed border wall is much higher than expected, insisting that it will be much cheaper after he gets involved in negotiations. (<a href="http://thehill.com/homenews/administration/319070-trump-border-wall-price-will-come-way-down-when-i-negotiate" target="_blank">The Hill</a>)</p>
@@ -182,11 +179,11 @@
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/10/Day-22/">
         Day 22:
       <span class="post-small">Denials.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-10T00:00:00-08:00" class="post-date">
     02/10/2017
   
@@ -257,11 +254,11 @@
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/09/Day-21/">
         Day 21:
       <span class="post-small"><s>Ethics.</s> Blocked.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-09T00:00:00-08:00" class="post-date">
     02/09/2017
   
@@ -356,11 +353,11 @@
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/08/Day-20/">
         Day 20:
       <span class="post-small">Nevertheless, she persisted.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-08T00:00:00-08:00" class="post-date">
     02/08/2017
   
@@ -439,15 +436,15 @@
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/07/Day-19/">
         Day 19:
       <span class="post-small">Challenged.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-07T00:00:00-08:00" class="post-date">
     02/07/2017
   
-    <small><em>Updated: 02/12/2017 09:50:19 AM PST
+    <small><em>Updated: 02/12/2017 10:15:37 AM PST
     </em></small>
   </time>
  
@@ -521,11 +518,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/06/Day-18/">
         Day 18:
       <span class="post-small"><s>Stumbles</s> Uninvited.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-06T00:00:00-08:00" class="post-date">
     02/06/2017
   
@@ -605,11 +602,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/05/Day-17/">
         Day 17:
       <span class="post-small">Denied.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-05T00:00:00-08:00" class="post-date">
     02/05/2017
   
@@ -682,11 +679,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/04/Day-16/">
         Day 16:
       <span class="post-small">Suspended.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-04T00:00:00-08:00" class="post-date">
     02/04/2017
   
@@ -772,11 +769,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/03/Day-15/">
         Day 15:
       <span class="post-small">The massacre.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-03T00:00:00-08:00" class="post-date">
     02/03/2017
   
@@ -871,11 +868,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/02/Day-14/">
         Day 14:
       <span class="post-small">Braggadocious.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-02T00:00:00-08:00" class="post-date">
     02/02/2017
   
@@ -981,11 +978,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/02/01/Day-13/">
         Day 13:
       <span class="post-small">Supreme.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-02-01T00:00:00-08:00" class="post-date">
     02/01/2017
   
@@ -1124,11 +1121,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/31/Day-12/">
         Day 12:
       <span class="post-small">Controversy.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-31T00:00:00-08:00" class="post-date">
     01/31/2017
   
@@ -1235,11 +1232,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/30/Day-11/">
         Day 11:
       <span class="post-small">Dissent.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-30T00:00:00-08:00" class="post-date">
     01/30/2017
   
@@ -1318,11 +1315,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/29/Day-10/">
         Day 10:
       <span class="post-small">Embarrassment.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-29T00:00:00-08:00" class="post-date">
     01/29/2017
   
@@ -1383,11 +1380,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/28/Day-9/">
         Day 9:
       <span class="post-small">Unreal.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-28T00:00:00-08:00" class="post-date">
     01/28/2017
   
@@ -1450,11 +1447,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/27/Day-8/">
         Day 8:
       <span class="post-small">Banned.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-27T00:00:00-08:00" class="post-date">
     01/27/2017
   
@@ -1497,11 +1494,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/26/Day-7/">
         Day 7:
       <span class="post-small">Shut it.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-26T00:00:00-08:00" class="post-date">
     01/26/2017
   
@@ -1533,11 +1530,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/25/Day-6/">
         Day 6:
       <span class="post-small">Declining trust.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-25T00:00:00-08:00" class="post-date">
     01/25/2017
   
@@ -1575,11 +1572,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/24/Day-5/">
         Day 5:
       <span class="post-small">Command and control.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-24T00:00:00-08:00" class="post-date">
     01/24/2017
   
@@ -1626,11 +1623,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/23/Day-4/">
         Day 4:
       <span class="post-small">The Upside Down.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-23T00:00:00-08:00" class="post-date">
     01/23/2017
   
@@ -1659,11 +1656,11 @@ Spicer has served as both White House press secretary and communications directo
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/22/Day-3/">
         Day 3:
       <span class="post-small">Alternative facts.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-22T00:00:00-08:00" class="post-date">
     01/22/2017
   
@@ -1707,11 +1704,11 @@ If the president and his aides will tell easily disproven falsehoods about crowd
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/21/Day-2/">
         Day 2:
       <span class="post-small">War on media.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-21T00:00:00-08:00" class="post-date">
     01/21/2017
   
@@ -1734,11 +1731,11 @@ If the president and his aides will tell easily disproven falsehoods about crowd
   </article>
   
   <article class="post">
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="/2017/01/20/Day-1/">
         Day 1:
       <span class="post-small">How it begins.</span></a>
-    </h2>
+    </h1>
     <time datetime="2017-01-20T00:00:00-08:00" class="post-date">
     01/20/2017
   

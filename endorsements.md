@@ -15,7 +15,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/lionschmion/status/827651042565185536 hide_media=true %}
 {% twitter https://twitter.com/rands/status/830083130916605952 hide_media=true %}
 {% twitter https://twitter.com/bcrypt/status/827404292311035904 hide_media=true %}
-{% twitter https://twitter.com/jeffjarvis/status/830562518674317314 hide_media=true %}
+{% twitter https://twitter.com/jeffjarvis/status/830562518674317314 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/cindygallop/status/827883211162279937 hide_media=true %}
 {% twitter https://twitter.com/zeldman/status/829533594334949376 hide_media=true %}
 {% twitter https://twitter.com/pottsmark/status/829547543533146114 hide_media=true %}

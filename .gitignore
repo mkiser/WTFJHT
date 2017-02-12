@@ -3,7 +3,6 @@ _gh_pages
 .ruby-version
 .sass-cache
 .tweet-cache
-_site
 _algolia_api_key
 
 # Numerous always-ignore extensions

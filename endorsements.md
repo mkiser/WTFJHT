@@ -8,7 +8,7 @@ image:
 
 Don't believe the hype? How about some social proof. Here's what the smartest people on the Internet are saying about [What The Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com):
 
-1/ ** Your Guide to the Sprawling New Anti-Trump Resistance Movement**. An explosion of new activism offers a ray of hope in these dark political times. ([The Nation](https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/){:target="_blank"})
+1/ **Your Guide to the Sprawling New Anti-Trump Resistance Movement**. An explosion of new activism offers a ray of hope in these dark political times. ([The Nation](https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/){:target="_blank"})
 
 2/ **WTF Just Happened Today - daily newsletter**. Matt Kiser has started a good newsletter. ([Boing Boing](http://boingboing.net/2017/02/02/wtf-just-happened-today-dail.html){:target="_blank"})
 
@@ -32,5 +32,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/summerbrennan/status/830094832462868480 hide_media=true %}
 {% twitter https://twitter.com/SophiaCannon/status/829690313170120704 hide_media=true %}
 {% twitter https://twitter.com/KenPlume/status/828165230849060864 hide_media=true %}
+
 </center>
-**Need more proof?** [See all the tweets](https://twitter.com/search?q=whatthefuckjusthappenedtoday.com){:target="_blank"}
+
+**Still not convinced?** [See all the tweets](https://twitter.com/search?q=whatthefuckjusthappenedtoday.com){:target="_blank"}

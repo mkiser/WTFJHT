@@ -222,7 +222,6 @@ DEPENDENCIES
   github-pages (= 120)
   jekyll-sitemap
   jekyll_pages_api
-  json
 
 BUNDLED WITH
    1.14.3

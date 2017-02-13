@@ -35,7 +35,11 @@
     font-size: .8em;
     color: $gray-3;
     list-style: none;
-
+      
+      .jekyll-twitter-plugin {
+        margin-left: 0;
+      }
+      
     a {
       color: #0093f0;
     }
@@ -50,7 +54,7 @@
   }
 
   .jekyll-twitter-plugin {
-    margin: 30px auto;
+    margin: 0 0 1em 1em;
   }
 }
 

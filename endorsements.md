@@ -18,6 +18,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}
+{% twitter https://twitter.com/DaveLeeBBC/status/830907636006547456 hide_media=true %}
 {% twitter https://twitter.com/AstroKatie/status/828358586161991680 hide_media=true %}
 {% twitter https://twitter.com/sarahkendzior/status/828017059573485568 hide_media=true %}
 {% twitter https://twitter.com/lionschmion/status/827651042565185536 hide_media=true %}
@@ -32,6 +33,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/summerbrennan/status/830094832462868480 hide_media=true %}
 {% twitter https://twitter.com/SophiaCannon/status/829690313170120704 hide_media=true %}
 {% twitter https://twitter.com/KenPlume/status/828165230849060864 hide_media=true %}
+{% twitter https://twitter.com/couchtomoon/status/830961493449531393 hide_media=true %}
 
 </center>
 

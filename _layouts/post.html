@@ -24,6 +24,8 @@ layout: default
 <!--End mc_embed_signup-->
 
 <article class="post">
+  {{ post.last_modified | date: "%m/%d/%Y %r %Z"}} 
+  {{ page.last_modified | date: "%m/%d/%Y %r %Z"}} 
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ post.url }}">
       {{ page.title }}:
@@ -35,9 +37,8 @@ layout: default
     </em></small><br>
   </time>
 
-  {{ page.last_modified | date: "%m/%d/%Y %r %Z"}}  tacos
-  {{ post.last_modified | date: "%m/%d/%Y %r %Z"}}  tacos
   {{ content }}
+
   <p>
     <small><strong>Subscribe:</strong> <a href="http://eepurl.com/cAiR-b" target="_blank">Get the Daily WTF in your inbox for free</a> 
     </small>

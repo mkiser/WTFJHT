@@ -34,6 +34,8 @@ layout: default
     <small><em>Updated: {% capture lastmod_date %}{% last_modified {{ page.path }} %}{% endcapture %}{{ lastmod_date | date_to_xmlschema | date: "%m/%d/%Y %r %Z" }}
     </em></small><br>
   </time>
+
+  {{ page.last_modified | date: "%m/%d/%Y %r %Z"}}  tacos
   {{ post.last_modified | date: "%m/%d/%Y %r %Z"}}  tacos
   {{ content }}
   <p>

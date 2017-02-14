@@ -19,7 +19,9 @@ This giant repository of news isn't very valuable if you can't find the what you
 **Email Sending:**
 Oh boy, here's the most expensive part of running this site. I use <a href="https://mailchimp.com/" target="_blank">MailChimp</a> because the ease of use, templating, reporting, and pre-built forms are the best in the business. While there are cheaper options out there, the time-savings is huge. 
 
-MailChimp charges by the number of subscribers you have AND the number of monthly emails sent. Check out the <a href="https://mailchimp.com/pricing/growing-business/" target="_blank">MailChimp Pricing Calculator</a> and stick 50,001 subscribers in there. Yeah. And, we're still growing... _Monthly Cost:_ At least $245
+MailChimp charges by the number of subscribers you have AND the number of monthly emails sent. WTFJHT sends over 1.5M emails/month (50,000+ subscribers x 30 days) Check out the <a href="https://mailchimp.com/pricing/growing-business/" target="_blank">MailChimp Pricing Calculator</a> and stick 150,000 in there to see the pricing for sending 1,800,000 emails/month. Yeah. And, we're still growing...
+
+So while the costs of sending email will continue to go up as more people subscribe, MailChimp is an awesome company, they've provided us with a 15% discount. _Monthly Cost:_ At least $465
 
 **Labor:**
 While I'm donating my time to keep this project going, let's do some math and see what this would cost if I needed to make an income. Here's my daily breakdown:

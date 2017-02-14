@@ -32,11 +32,13 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/pottsmark/status/829547543533146114 hide_media=true %}
 {% twitter https://twitter.com/AnnBrenoff/status/829541247211548672 hide_media=true %}
 {% twitter https://twitter.com/mikebutcher/status/829704213919911936 hide_media=true %}
+{% twitter https://twitter.com/poynter/status/831516097430036480 hide_media=true %}
 {% twitter https://twitter.com/summerbrennan/status/830094832462868480 hide_media=true %}
 {% twitter https://twitter.com/SophiaCannon/status/829690313170120704 hide_media=true %}
 {% twitter https://twitter.com/KenPlume/status/828165230849060864 hide_media=true %}
+{$ twitter https://twitter.com/mediagazer/status/831543694004199426  hide_media=true %}
 {% twitter https://twitter.com/couchtomoon/status/830961493449531393 hide_media=true %}
-
+{% twitter https://twitter.com/mkramer/status/831524205590114304 %}
 </center>
 
 **Still not convinced?** [See all the tweets](https://twitter.com/search?q=whatthefuckjusthappenedtoday.com){:target="_blank"}

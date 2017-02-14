@@ -5,19 +5,24 @@ module LastModified
 		@site = site
 		@site.pages.each do |page|
 			set_last_modified_date(page)
+			# puts page.relative_path
 		end
-		@site.posts.each do |post|
+		@site.posts.docs.each do |post|
 			set_last_modified_date(post)
+			# puts post.relative_path
 		end
     end
 
 	def source(post_or_page)
-		@site.source + "/" + post_or_page.path
+		@site.source + "/" + post_or_page.relative_path
 	end
 
 	def set_last_modified_date(post_or_page)
 		entity_source = source(post_or_page)
 		last_modified = `git log -1 --format="%ad" -- "#{entity_source}"`
+		
+		# puts last_modified
+		
 		last_modified.strip!
 		post_or_page.data["last_modified"] = last_modified
 	end

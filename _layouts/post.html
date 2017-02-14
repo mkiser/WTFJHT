@@ -24,8 +24,6 @@ layout: default
 <!--End mc_embed_signup-->
 
 <article class="post">
-  {{ post.last_modified | date: "%m/%d/%Y %r %Z"}} 
-  {{ page.last_modified | date: "%m/%d/%Y %r %Z"}} 
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ post.url }}">
       {{ page.title }}:
@@ -33,7 +31,7 @@ layout: default
   </h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
     {{ page.date | date: "%m/%d/%Y" }}
-    <small><em>Updated: {% capture lastmod_date %}{% last_modified {{ page.path }} %}{% endcapture %}{{ lastmod_date | date_to_xmlschema | date: "%m/%d/%Y %r %Z" }}
+    <small><em>Updated: {{ page.last_modified | date: "%m/%d/%Y %r %Z"}}
     </em></small><br>
   </time>
 

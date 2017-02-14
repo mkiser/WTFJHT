@@ -36,7 +36,8 @@
     color: $gray-3;
     list-style: none;
       
-      .jekyll-twitter-plugin {
+      .jekyll-twitter-plugin,
+      blockquote {
         margin-left: 0;
       }
       
@@ -55,6 +56,31 @@
 
   .jekyll-twitter-plugin {
     margin: 0 0 1em 1em;
+  }
+
+  blockquote {
+    border: 1px solid rgba(255,220,134,.35);
+    border-left: 5px solid #ffdc86;
+    background-color: rgba(255,220,134,.1);
+    margin-left: 1em;
+
+    strong {
+      color: #7a7a7a;
+    }
+
+    p {
+      font-size: .8em;
+
+      &:first-of-type {
+        color: #FFB600;
+        font-size: .65em;
+        font-weight: bold;
+      }
+    }
+
+    p + p {
+      margin-top: -1em;
+    }
   }
 }
 
@@ -90,6 +116,7 @@
 .related-posts {
   padding-left: 0;
   list-style: none;
+
 
   h3 {
     margin-top: 0;

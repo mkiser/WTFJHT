@@ -11,8 +11,9 @@
         </h3>
         <div class="wtf-tagline">
          <small>{{ site.tagline }} By <a href="https://twitter.com/matt_kiser">@matt_kiser</a></small>
-        <!--  <span class="site-updated">Site updated: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%m/%d/%Y %r %Z" }}</time>
-         </span> -->
+        <br> <span class="site-updated">Site updated: {{ page.last_modified | date: "%m/%d/%Y %r %Z"}} 
+         </span>
+     
          </div>
 
         <div>

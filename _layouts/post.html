@@ -32,8 +32,9 @@ layout: default
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
     {{ page.date | date: "%m/%d/%Y" }}
     <small><em>Updated: {% capture lastmod_date %}{% last_modified {{ page.path }} %}{% endcapture %}{{ lastmod_date | date_to_xmlschema | date: "%m/%d/%Y %r %Z" }}
-    </em></small>
+    </em></small><br>
   </time>
+  {{ post.last_modified | date: "%m/%d/%Y %r %Z"}}  tacos
   {{ content }}
   <p>
     <small><strong>Subscribe:</strong> <a href="http://eepurl.com/cAiR-b" target="_blank">Get the Daily WTF in your inbox for free</a> 

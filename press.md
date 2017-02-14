@@ -8,13 +8,15 @@ image:
 
 Don't believe the hype? How about some social proof. Here's what the smartest people on the Internet are saying about [What The Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com):
 
-1/ **Your Guide to the Sprawling New Anti-Trump Resistance Movement**. An explosion of new activism offers a ray of hope in these dark political times. ([The Nation](https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/){:target="_blank"})
+1/ **Meet the wildly popular blogger chronicling President Trump one day at a time**. The site is easy to read, easy to parse and easy to share. There are no ads, and WTF Happened Today makes it easy to see news in context with what happened yesterday and the day before that. ([Poynter](http://www.poynter.org/2017/meet-the-wildly-popular-blogger-chronicling-president-trump-one-day-at-a-time/448894/){:target="_blank"})
 
-2/ **WTF Just Happened Today - daily newsletter**. Matt Kiser has started a good newsletter. ([Boing Boing](http://boingboing.net/2017/02/02/wtf-just-happened-today-dail.html){:target="_blank"})
+2/ **Your Guide to the Sprawling New Anti-Trump Resistance Movement**. An explosion of new activism offers a ray of hope in these dark political times. ([The Nation](https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/){:target="_blank"})
 
-3/ **This email newsletter tries to make sense of Trump's America**. A daily email newsletter has emerged to help keep everyone's heads from spinning off trying to keep up. Most importantly it answers the perpetual question of "WTF just happened today?" ([Mashable](http://mashable.com/2017/02/10/wtf-just-happened-today-email-newsletter/#Cq17yL2QWOq1){:target="_blank"})
+3/ **WTF Just Happened Today - daily newsletter**. Matt Kiser has started a good newsletter. ([Boing Boing](http://boingboing.net/2017/02/02/wtf-just-happened-today-dail.html){:target="_blank"})
 
-4/ **WTF, Kiser?** Each day is posted with its overriding theme followed by a numbered and sourced list of WTF went down that day. It’s such a simple and logical approach to keeping tabs on the state of the country. ([Chico News and Review](https://www.newsreview.com/chico/arts-devo/content?oid=23646690){:target="_blank"})
+4/ **This email newsletter tries to make sense of Trump's America**. A daily email newsletter has emerged to help keep everyone's heads from spinning off trying to keep up. Most importantly it answers the perpetual question of "WTF just happened today?" ([Mashable](http://mashable.com/2017/02/10/wtf-just-happened-today-email-newsletter/#Cq17yL2QWOq1){:target="_blank"})
+
+5/ **WTF, Kiser?** Each day is posted with its overriding theme followed by a numbered and sourced list of WTF went down that day. It’s such a simple and logical approach to keeping tabs on the state of the country. ([Chico News and Review](https://www.newsreview.com/chico/arts-devo/content?oid=23646690){:target="_blank"})
 
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}

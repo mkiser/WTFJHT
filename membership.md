@@ -9,6 +9,12 @@ WTF Just Happened Today is a newsletter and blog that chronicles the daily shock
 
 Don't believe the hype? Here's [what the smartest people on the Internet are saying]({{ site.baseurl }}/press) about What The Fuck Just Happened Today?
 
+**So here's the deal:** Running this thing is expensive (see the next section). It's just me, plus a few people donating a couple hours/month. I'm funding it out of my own pocket, donating my time, and doing my own social media stuff. I want the WTFJHT newsletter to go on for a long time, but I'll settle for the first 100 days. This has been one of the most exciting, fun, and rewarding projects I've ever been involved in and I want nothing more than for this to keep going.
+
+**How Much Does It Cost To Run This?** Glad you asked! I did some back of the envelope math and I came up with $1,597.13/month. That's a pretty conservative estimate, tbh. If you're interested in how I arrived at that number, I've outlined [the cost of running WTFJHT in the FAQ]({{ site.baseurl }}/faq/).
+
+**Here's How You Can Help:**
+
 1/ **Share WTF Just Happened Today with a friend**. Tell your friends about the newsletter and share the daily dispatches on social media. It's free and has massive impact. We even make it easy: [Tweet it](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F){:target="_blank"} or [share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com){:target="_blank"}
 
 2/ **Pledge a small monthly amount through [Patreon](https://www.patreon.com/wtfjht){:target="_blank"}**. Patreon is a service made for situations like this. They help creators like WTFJHT earn ongoing revenue directly from their audience. Pledge a small amount, get a big reward. **[Become a Patron Now](https://www.patreon.com/wtfjht){:target="_blank"}**.

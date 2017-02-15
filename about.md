@@ -19,7 +19,7 @@ This project is hosted on GitHub Pages and the <a href="https://github.com/mkise
  
 > FEEDS:
 >
-<a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>
+~~<a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>~~ Borked.
 >
 <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>
 >

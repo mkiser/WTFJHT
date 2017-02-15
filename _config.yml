@@ -41,8 +41,9 @@ algolia:
   excluded_files:
     - index.html
     - 404.html
-    - endorsements.md
+    - press.md
     - about.md
+    - faq.md
     - rss.xml
     - atom.xml
     - styles.css

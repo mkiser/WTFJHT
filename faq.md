@@ -23,8 +23,11 @@ MailChimp charges by the number of subscribers you have AND the number of monthl
 
 So while the costs of sending email will continue to go up as more people subscribe, MailChimp is an awesome company, they've provided us with a 15% discount. _Monthly Cost:_ At least $465
 
+**Civilized Discussion Forum:**
+While not technically launched, yet, I'm launching a private community forum. It's a [Discourse](http://www.discourse.org/){:target="_blank"} community hub, which is amazing, free, and open sourced. It needs to be hosted somewhere, however. The provider of choice is [Digital Ocean](https://www.digitalocean.com){:target="_blank"}. _Monthly Cost:_ $20
+
 **Labor:**
-While I'm donating my time to keep this project going, let's do some math and see what this would cost if I needed to make an income. Here's my daily breakdown:
+While I'm donating my time to keep this project going, let's do some math and see what this would cost if I needed to make an income. Here's my conservative daily breakdown in time spent:
 
 * 1 hour researching and collecting stories
 * 1 hour curating the daily post
@@ -39,4 +42,4 @@ Okay, so ~4.75 hours/day. And, let's pretend I make the Federal minimum wage ($7
 
 **TOTAL MONTHLY COST:**
 
-$20 (hosting) + $59 (site search) + $245 (email) + $1,033.13 (labor) = <strong>$1,357.13</strong>
+$20 (hosting) + $59 (site search) + $465 (email) $20 (community) + $1,033.13 (labor) = <strong>$1,597.13</strong>

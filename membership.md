@@ -5,7 +5,8 @@ image:
   twitter: /public/wtfjht-t.jpg
   facebook: /public/wtfjht-f.jpg
 ---
-WTF Just Happened Today is a newsletter and blog that chronicles the daily shock and awe of the Trump administration. It's produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon. More than 50k people rely on WTFJHT to bring them the day's news in as a concise and focused recap. 
+
+You do. WTF Just Happened Today is a newsletter and blog that chronicles the daily shock and awe of the Trump administration. It's produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon. More than 50k people rely on WTFJHT to bring them the day's news in as a concise and focused recap. 
 
 Don't believe the hype? Here's [what the smartest people on the Internet are saying]({{ site.baseurl }}/press) about What The Fuck Just Happened Today?
 

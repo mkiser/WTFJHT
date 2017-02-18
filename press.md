@@ -16,13 +16,15 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 4/ **This email newsletter tries to make sense of Trump's America**. A daily email newsletter has emerged to help keep everyone's heads from spinning off trying to keep up. Most importantly it answers the perpetual question of "WTF just happened today?" ([Mashable](http://mashable.com/2017/02/10/wtf-just-happened-today-email-newsletter/#Cq17yL2QWOq1){:target="_blank"})
 
-5/ **Don’t get raked, keep abreast of daily shock and awe from DC**. Kiser does an ace job of the old blogger skill called “curating.” His lists surface themes and suggest lines that might connect dots. His headlines make dark poetry of careering developments. ([Colorado Statesman](https://www.coloradostatesman.com/dont-get-raked-keep-abreast-with-darkly-entertaining-news-from-dc/){:target="_blank"})
+5/ **Popular newsletter uses open-source techniques to cover ‘WTF’ is happening with Trump**. Anybody can edit a file and submit a pull request. Kiser is essentially crowdsourcing a newsroom where readers can act as editors or fact-checkers and tweak pieces on WTF or create their own. Kiser hopes it will allow him to touch on more topics throughout the day. ([GeekWire](http://www.geekwire.com/2017/popular-newsletter-uses-open-source-techniques-cover-wtf-happening-trump/){:target="_blank"})
 
-6/ **11 Simple Ways to Change the World That Won't Totally Overwhelm You**. This site has a funny name but a serious purpose: What The F-ck Just Happened Today recaps the news every single day with a thorough summary of the Trump administration’s actions. If your head spins from trying to follow the news cycle, then you need to bookmark What The F-ck Just Happened Today. ([Glamour](http://www.glamour.com/story/these-11-apps-make-it-super-easy-to-make-a-difference){:target="_blank"})
+6/ **Don’t get raked, keep abreast of daily shock and awe from DC**. Kiser does an ace job of the old blogger skill called “curating.” His lists surface themes and suggest lines that might connect dots. His headlines make dark poetry of careering developments. ([Colorado Statesman](https://www.coloradostatesman.com/dont-get-raked-keep-abreast-with-darkly-entertaining-news-from-dc/){:target="_blank"})
 
-6/ **WTF Just Happened Today - daily newsletter**. Matt Kiser has started a good newsletter. ([Boing Boing](http://boingboing.net/2017/02/02/wtf-just-happened-today-dail.html){:target="_blank"})
+7/ **11 Simple Ways to Change the World That Won't Totally Overwhelm You**. This site has a funny name but a serious purpose: What The F-ck Just Happened Today recaps the news every single day with a thorough summary of the Trump administration’s actions. If your head spins from trying to follow the news cycle, then you need to bookmark What The F-ck Just Happened Today. ([Glamour](http://www.glamour.com/story/these-11-apps-make-it-super-easy-to-make-a-difference){:target="_blank"})
 
-7/ **WTF, Kiser?** Each day is posted with its overriding theme followed by a numbered and sourced list of WTF went down that day. It’s such a simple and logical approach to keeping tabs on the state of the country. ([Chico News and Review](https://www.newsreview.com/chico/arts-devo/content?oid=23646690){:target="_blank"})
+8/ **WTF Just Happened Today - daily newsletter**. Matt Kiser has started a good newsletter. ([Boing Boing](http://boingboing.net/2017/02/02/wtf-just-happened-today-dail.html){:target="_blank"})
+
+9/ **WTF, Kiser?** Each day is posted with its overriding theme followed by a numbered and sourced list of WTF went down that day. It’s such a simple and logical approach to keeping tabs on the state of the country. ([Chico News and Review](https://www.newsreview.com/chico/arts-devo/content?oid=23646690){:target="_blank"})
 
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}

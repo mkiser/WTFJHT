@@ -39,11 +39,12 @@ algolia:
   read_only_api_key: '50fe80eaf3c61b236fe7408e8be4bc30'
   record_css_selector: 'p,li,blockquote'
   excluded_files:
-    - index.html
     - 404.html
-    - press.md
     - about.md
     - faq.md
+    - index.html
+    - membership.md
+    - press.md
     - rss.xml
     - atom.xml
     - styles.css

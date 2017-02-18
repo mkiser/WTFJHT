@@ -21,4 +21,4 @@ deploy:
   local_dir: _site
   skip_cleanup: true
   on:
-    repo: mkiser/wtfsource
+    repo: mkiser/WTFJHT

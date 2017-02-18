@@ -220,7 +220,6 @@ PLATFORMS
 DEPENDENCIES
   algoliasearch-jekyll (~> 0.8.0)
   github-pages (= 123)
-  jekyll-paginate
   jekyll-sitemap
   jekyll_pages_api
 

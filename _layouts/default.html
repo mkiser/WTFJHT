@@ -99,8 +99,7 @@
   <script src="{{ site.baseurl }}/public/js/moment.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
 
-<!-- Genius -->
-  <script async src="//genius.codes"></script>
-
+<!-- Genius POST PAGES ONLY-->
+  {% if page.id %} <script async src="//genius.codes"></script> {% endif %}
   </body>
 </html>

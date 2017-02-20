@@ -72,7 +72,7 @@
       font-size: .8em;
 
       &:first-of-type {
-        color: maroon;
+        color: #FFB600;
         font-size: .65em;
         font-weight: bold;
       }
@@ -81,6 +81,10 @@
     p + p {
       margin-top: -1em;
     }
+  }
+
+  blockquote.twitter-tweet p {
+    color: maroon;
   }
 }
 

@@ -33,6 +33,8 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/sarahkendzior/status/828017059573485568 hide_media=true %}
 {% twitter https://twitter.com/lionschmion/status/827651042565185536 hide_media=true %}
 {% twitter https://twitter.com/rands/status/830083130916605952 hide_media=true %}
+{% twitter https://twitter.com/rands/status/832400035463589888 hide_media=true %}
+{% twitter https://twitter.com/MichelleRafter/status/833476858368843776 hide_media=true %}
 {% twitter https://twitter.com/bcrypt/status/827404292311035904 hide_media=true %}
 {% twitter https://twitter.com/jeffjarvis/status/830562518674317314 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/cindygallop/status/827883211162279937 hide_media=true %}
@@ -46,8 +48,11 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/DylanJobe/status/831696596828094464 hide_media=true %}
 {% twitter https://twitter.com/davidbauer/status/831760531279183872 hide_media=true %}
 {% twitter https://twitter.com/KenPlume/status/828165230849060864 hide_media=true %}
+{% twitter https://twitter.com/jessamyn/status/833392986633412609 hide_media=true %}
 {% twitter https://twitter.com/mediagazer/status/831543694004199426 hide_media=true %}
+{% twitter https://twitter.com/Ashadahya/status/833452547360780288 hide_media=true %}
 {% twitter https://twitter.com/couchtomoon/status/830961493449531393 hide_media=true %}
+{% twitter https://twitter.com/crashdev/status/832395331895644162 hide_media=true %}
 {% twitter https://twitter.com/mkramer/status/831524205590114304 %}
 </center>
 

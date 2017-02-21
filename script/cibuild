@@ -4,5 +4,5 @@ set -e # halt script on error
 # bundle exec jekyll build
 # bundle exec jekyll algolia push
 
-./script/cibuild/cloudflare-purge-cache whatthefuckjusthappenedtoday.com
+cloudflare-purge-cache whatthefuckjusthappenedtoday.com
 

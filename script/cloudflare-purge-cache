@@ -1,0 +1,78 @@
+#!/usr/bin/env ruby
+
+api_key = ENV['CLOUD_FLARE_API_KEY']
+email = ENV['CLOUD_FLARE_EMAIL']
+
+abort 'Provide API key and email address' unless api_key && email
+
+require 'net/http'
+require 'json'
+
+# Base Class of the API
+class CloudFlare
+  API_VERSION = 4
+
+  def initialize(api_key, email)
+    @api_key = api_key
+    @email   = email
+  end
+
+  def root_url
+    "https://api.cloudflare.com/client/v#{API_VERSION}/"
+  end
+
+  def make_request(uri)
+    req = yield
+    decorate_request(req)
+    Net::HTTP.start(uri.hostname, uri.port, use_ssl: true) do |http|
+      http.request(req)
+    end
+  end
+
+  private
+
+  def decorate_request(req)
+    req['X-Auth-Key']   = @api_key
+    req['X-Auth-Email'] = @email
+    req['Content-Type'] = 'application/json'
+  end
+end
+
+# Zones
+class Zone < CloudFlare
+  def list_zones(options = {})
+    uri = URI(root_url + 'zones')
+    uri.query = URI.encode_www_form(options)
+    make_request(uri) { Net::HTTP::Get.new(uri) }
+  end
+
+  def get_identifier(name)
+    body = JSON.load(list_zones(name: name).body)
+    abort 'Domain identifier not found' if body['result'].empty?
+    body['result'].first['id']
+  end
+end
+
+# Purge Cache
+class PurgeCache < Zone
+  def purge_everything(name)
+    identifier = get_identifier(name)
+    uri = purge_uri(identifier)
+    make_request(uri) do
+      req = Net::HTTP::Delete.new(uri)
+      req.body = JSON.generate(purge_everything: true)
+      req
+    end
+  end
+
+  private
+
+  def purge_uri(identifier)
+    URI(root_url + "zones/#{identifier}/purge_cache")
+  end
+end
+
+purge = PurgeCache.new(api_key, email)
+domain_name = ARGV.shift
+abort 'Please provide a domain name as an argument.' unless domain_name
+p purge.purge_everything(domain_name).body

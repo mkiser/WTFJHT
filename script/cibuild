@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-bundle exec jekyll build
-bundle exec jekyll algolia push
+# bundle exec jekyll build
+# bundle exec jekyll algolia push
+
+./cloudflare-purge-cache whatthefuckjusthappenedtoday.com
+

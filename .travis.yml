@@ -24,4 +24,4 @@ deploy:
     repo: mkiser/WTFJHT
 after_script:
 - chmod +x ./script/cibuild
-script: ./script/cloudflare-purge-cache whatthefuckjusthappenedtoday.com
+script: ./script/cloudflare-purge-cache https://whatthefuckjusthappenedtoday.com

@@ -19,6 +19,7 @@ Don't believe the hype? Here's [what the smartest people on the Internet are say
 1/ **Share WTF Just Happened Today with a friend**. Tell your friends about the newsletter and share the daily dispatches on social media. It's free and has massive impact. We even make it easy: [Tweet it](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F){:target="_blank"} or [share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com){:target="_blank"}
 
 2/ **Pledge a small monthly amount through [Patreon](https://www.patreon.com/wtfjht){:target="_blank"}**. Patreon is a service made for situations like this. They help creators like WTFJHT earn ongoing revenue directly from their audience. Pledge a small amount, get a big reward. **[Become a Patron Now](https://www.patreon.com/wtfjht){:target="_blank"}**.
+<a href="https://www.patreon.com/bePatron?u=5100035" data-patreon-widget-type="become-patron-button">Become a Patron</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
 
 3/ **Make a one-time donation through PayPal**. A normal donation works great for those that don't want to pledge monthly support. 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">

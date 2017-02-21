@@ -3,5 +3,3 @@ set -e # halt script on error
 
 # bundle exec jekyll build
 # bundle exec jekyll algolia push
-
-cloudflare-purge-cache whatthefuckjusthappenedtoday.com

@@ -22,3 +22,6 @@ deploy:
   skip_cleanup: true
   on:
     repo: mkiser/WTFJHT
+after_script:
+- chmod +x ./script/cibuild
+script: ./script/cloudflare-purge-cache whatthefuckjusthappenedtoday.com

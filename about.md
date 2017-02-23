@@ -5,7 +5,9 @@ image:
   twitter: /public/wtfjht-t.jpg
   facebook: /public/wtfjht-f.jpg
 ---
-<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is a personal project to log the daily shock and awe in Trump's America. The goal is to capture the most important news in a digestable form inspired by <a href="http://www.theskimm.com/">The Skimm</a>, <a href="http://techmeme.com/">Techmeme</a>, and <a href="http://www.theverge.com/2016/12/13/13936946/twitter-tweetstorm-thread-timeline-medium">tweetstorms</a>.</p>
+<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily daily shock and awe in national U.S. politics. Read in moderations.</p>
+
+<p>The goal is to capture the most important news coming out of the D.C. in a digestable form inspired by <a href="http://www.theskimm.com/">The Skimm</a>, <a href="http://techmeme.com/">Techmeme</a>, and <a href="http://www.theverge.com/2016/12/13/13936946/twitter-tweetstorm-thread-timeline-medium">tweetstorms</a>.</p>
  
 I started this project because I was having trouble keeping up with the pace of news coming out from the Trump administration. It started as an Instapaper and Evernote notebook, but quickly became unwieldy as news events started to blur. So, I started logging the things on a day-by-day basis. 
 

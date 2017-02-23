@@ -5,7 +5,7 @@ image:
   twitter: /public/wtfjht-t.jpg
   facebook: /public/wtfjht-f.jpg
 ---
-<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily daily shock and awe in national U.S. politics. Read in moderations.</p>
+<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
 
 <p>The goal is to capture the most important news coming out of the D.C. in a digestable form inspired by <a href="http://www.theskimm.com/">The Skimm</a>, <a href="http://techmeme.com/">Techmeme</a>, and <a href="http://www.theverge.com/2016/12/13/13936946/twitter-tweetstorm-thread-timeline-medium">tweetstorms</a>.</p>
  

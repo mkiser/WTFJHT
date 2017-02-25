@@ -61,8 +61,8 @@ layout: null
                     {{ post.content }}
                   {% endif %}
                     <footer>
-                        <aside>Written by Amit Seal Ami, a Lecturer from Institute of Information Technology, University of Dhaka.</aside>
-                        <small>Copyright - Amit Seal Ami</small>
+                        <aside>TK</aside>
+                        <small>TK</small>
                   </footer>
                 </article>
               </body>

@@ -58,4 +58,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - algoliasearch-jekyll
-  - amp-jekyll
+  # - amp-jekyll

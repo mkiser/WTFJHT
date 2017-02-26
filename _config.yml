@@ -14,6 +14,8 @@ twitter:
 facebook:
   app_id: 601457263382211
 
+ampdir: amp
+
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -56,3 +58,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - algoliasearch-jekyll
+  - amp-jekyll

@@ -78,20 +78,27 @@
 
 .wtf-topbar {
   background-color: $gray-6;
-  padding: 0 2rem;
+  display: inline-block;
+  width: 100%;
   color: #fff;
 
   .wtf-pagination {
-    display: inline-block;
+    padding: .85em 1em;
+
+    @media (min-width: 480px) { //TODO: confirm breakpoints
+      float: left;
+      margin-left: 2rem;
+    }
 
     ul, li {
-      margin: 0;
+      margin: 0 auto;
       padding: 0;
     }
 
     li {
       display: inline;
       list-style: none;
+      margin: 0 auto;
 
       a, select {
         color: #fff;
@@ -102,8 +109,12 @@
 
   //TODO: Remove duplication if social icons aren't being used anywhere else
   .social-icons {
-    float: right;
-    margin: 5px auto;
+    margin: 0 auto;
+
+    @media (min-width: 480px) { //TODO: confirm breakpoints
+      float: right;
+      margin: 8px 2rem 0 0;
+    }
 
     img {
       width: 1.4rem;

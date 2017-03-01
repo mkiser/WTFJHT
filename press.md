@@ -32,6 +32,8 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 13/ **WTF, Kiser?** Each day is posted with its overriding theme followed by a numbered and sourced list of WTF went down that day. It’s such a simple and logical approach to keeping tabs on the state of the country. ([Chico News and Review](https://www.newsreview.com/chico/arts-devo/content?oid=23646690){:target="_blank"})
 
+14/ **Best New Website: Read "What The F*ck Just Happened" every day**. The site is really fun, in a sort of masochistic, sicko way. Unlike the White House and its staff, Kiser is dedicated to facts and to accuracy. Every entry on the site includes a link to the news source that first reported it. ([Liberal America](http://www.liberalamerica.org/2017/02/10/best-new-website-read-what-fck-happened-every-day/){:target="_blank"})
+
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}
 {% twitter https://twitter.com/DaveLeeBBC/status/830907636006547456 hide_media=true %}

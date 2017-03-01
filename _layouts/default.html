@@ -8,11 +8,17 @@
         <div class="wtf-topbar">
 
           <nav class="wtf-pagination">
-            Day:
-            <select class="wtf-pagination__select">
-              <option value="/">--</option>
-              {% for post in site.posts reversed %} <option value="{{ site.baseurl }}{{ post.url }}" {% if page.url == post.url %}selected{% endif %}>{{ forloop.index }}</option>{% endfor %}
-            </select>
+            <ul>
+              <!--li><a title="Today" href="#">Today</a>  |</li-->
+              <!--li><a title="Yesterday" href="{{ page.previous.url }}">Yesterday</a> |</li-->
+              <li>Day:
+                <select class="wtf-pagination__select">
+                  <option value="/">--</option>
+                  {% for post in site.posts reversed %} <option value="{{ site.baseurl }}{{ post.url }}" {% if page.url == post.url %}selected{% endif %}>{{ forloop.index }}</option>{% endfor %}
+                </select> |</li>
+              <li><a title="About" href="/about">About</a> |</li>
+              <li><a title="Membership" href="/membership">Membership</a></li>
+            </ul>
           </nav>
 
           <div class="social-icons">

@@ -7,7 +7,6 @@
   padding-bottom: .5em;
   -webkit-font-smoothing: antialiased;
 
-
   .masthead-title {
     margin-top: 0;
     margin-bottom: 0;
@@ -15,34 +14,33 @@
     text-align: center;
     font-family: 'Poppins', sans-serif;
     font-size: 1.5em;
-    padding: .7em 1em .3em 1em;
+    padding: .7em 1em .3em;
 
     a {
       color: inherit;
     }
   }
 
-    .wtf-tagline {
-      margin: 0 auto;
-      text-align: center;
+  .wtf-tagline {
+    margin: 0 auto;
+    text-align: center;
 
-      small {
-        font-weight: 400;
-        color: $gray-3;
+    small {
+      font-weight: 400;
+      color: $gray-3;
 
-        a {
-          color: #3db2fd;
-        }
-      }
-      .site-updated {
-        font-size: .6em;
-        padding: .5em 1em;
-        color: $gray-3;
+      a {
+        color: $link-color;
       }
     }
+    .site-updated {
+      font-size: .6em;
+      padding: .5em 1em;
+      color: $gray-3;
+    }
+  }
 
-
-
+  //TODO: Remove `.post-small` if not used in masthead
   .post-small {
     color: $gray-4;
     font-weight: 500;
@@ -54,7 +52,7 @@
     padding: 0 1rem;
 
     input {
-      background-color: #222;
+      background-color: $gray-6;
       border-radius: 3px;
       border: 1px solid $gray-4;
       color: #fff;
@@ -62,29 +60,43 @@
   }
 }
 
-  .social-icons {
-    margin: 1em auto;
-    text-align: center;
-    margin-bottom: 0;
+.social-icons {
+  margin: 1em auto;
+  text-align: center;
+  margin-bottom: 0;
 
-    .icon {
-      margin: 2em .25em 0 .25em;
-      display: inline;
+  .icon {
+    margin: 2em .25em 0 .25em;
+    display: inline;
 
-      img {
-        width: 35px;
-      }
-
+    img {
+      width: 35px;
     }
 
   }
+}
 
 .wtf-topbar {
-  background-color: #222;
+  background-color: $gray-6;
   padding: 0 2rem;
+  color: #fff;
 
   .wtf-pagination {
     display: inline-block;
+
+    ul, li {
+      margin: 0;
+    }
+
+    li {
+      display: inline;
+      list-style: none;
+
+      a, select {
+        color: #fff;
+        margin: 0 10px;
+      }
+    }
   }
 
   //TODO: Remove duplication if social icons aren't being used anywhere else

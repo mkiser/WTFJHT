@@ -78,3 +78,22 @@
     }
 
   }
+
+.wtf-topbar {
+  background-color: #222;
+  padding: 0 2rem;
+
+  .wtf-pagination {
+    display: inline-block;
+  }
+
+  //TODO: Remove duplication if social icons aren't being used anywhere else
+  .social-icons {
+    float: right;
+    margin: 5px auto;
+
+    img {
+      width: 1.4rem;
+    }
+  }
+}

@@ -4,8 +4,26 @@
   <body>
     <div class="container content">
       <header class="masthead">
-          <div class="wtf-pagination">Day: {% for post in site.posts reversed %} <a href="{{ site.baseurl }}{{ post.url }}">{{ forloop.index }}</a>{% endfor %}
+
+        <div class="wtf-topbar">
+
+          <nav class="wtf-pagination">
+            Day:
+            <select class="wtf-pagination__select">
+              <option value="/">--</option>
+              {% for post in site.posts reversed %} <option value="{{ site.baseurl }}{{ post.url }}" {% if page.url == post.url %}selected{% endif %}>{{ forloop.index }}</option>{% endfor %}
+            </select>
+          </nav>
+
+          <div class="social-icons">
+            <div class="icon"><a href="https://twitter.com/WTFJHT" target="_blank"><img src="{{ site.baseurl }}/public/twitter.svg"></a></div>
+            <div class="icon"><a href="https://www.facebook.com/wtfjht/" target="_blank"><img src="{{ site.baseurl }}/public/facebook.svg"></a></div>
+            <div class="icon"><a href="https://whatthefuckjusthappenedtoday.com/atom.xml" target="_blank"><img src="{{ site.baseurl }}/public/rss.svg"></a></div>
+            <div class="icon"><a href="https://github.com/mkiser/WTFJHT" target="_blank"><img src="{{ site.baseurl }}/public/github.svg"></a></div>
           </div>
+
+        </div>
+
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
         </h3>
@@ -34,12 +52,6 @@
         <p>Help keep WTF Just Happened Today going with a small donation. <br><strong><a href="{{ site.baseurl }}/membership">Learn more</a></strong>
       </div>
 
-        <div class="social-icons">
-          <div class="icon"><a href="https://twitter.com/WTFJHT" target="_blank"><img src="{{ site.baseurl }}/public/twitter.svg"></a></div>
-          <div class="icon"><a href="https://www.facebook.com/wtfjht/" target="_blank"><img src="{{ site.baseurl }}/public/facebook.svg"></a></div>
-          <div class="icon"><a href="https://whatthefuckjusthappenedtoday.com/atom.xml" target="_blank"><img src="{{ site.baseurl }}/public/rss.svg"></a></div>
-          <div class="icon"><a href="https://github.com/mkiser/WTFJHT" target="_blank"><img src="{{ site.baseurl }}/public/github.svg"></a></div>
-        </div>
       <main> 
         <!-- ALGOLIA -->
         

@@ -1,4 +1,4 @@
-# What The Fuck Just Happened Today
+# What The Fuck Just Happened Today?
 
 <p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
 

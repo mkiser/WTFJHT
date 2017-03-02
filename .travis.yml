@@ -25,5 +25,5 @@ deploy:
   on:
     repo: mkiser/WTFJHT
 after_success: 'curl -X DELETE ''https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache''
-  -H ''X-Auth-Email: $CF_EMAIL'' -H ''X-Auth-Key: 61b410cb6b19946e893223b85b8a9d57e0ce7''
+  -H ''X-Auth-Email: "'"$CLOUD_FLARE_EMAIL"'"'' -H ''X-Auth-Key: 61b410cb6b19946e893223b85b8a9d57e0ce7''
   -H ''Content-Type: application/json'' --data ''{"purge_everything":true}'''

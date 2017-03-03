@@ -5,6 +5,10 @@ rvm:
 before_script:
 - chmod +x ./script/cibuild
 script: ./script/cibuild
+env:
+  matrix:
+  - secure: G+QiZIgdrrhOWXEG0OuransBwCkBwmUrwD4qosjfEfSIRNLyAK608l/eirQVF4Tre2B7zu4kY0jLnvAfZHALB9kd8GWn98iLiXhci5rJYyW5V302Q/ikPh3k8m1zFUxWszWC2U3+hVYhgU8hMY4Jn+0h/L1O/LRz0UxW9rRIbP3rjgQ/L+G11FlKIX9Zoz2Ia5WhdlyBKxC/MNOgdRBQv8BMjy49HygYsG46acZFKThubKQRHoSD8W/ohCtE+GTbkl5XFsL55Fd1b/46NbHH2JR/odFcMIcJFxGBQvwkhNG6TONwVg8XOnP0p3sdx54gtNNdOnIqZ8o3CUDatvKPjCQ3ERU48OuYQX7Yv3hmotjkkkMVDLqp2lj8bU2NAmf8JOLxxz/Zt3NbUgP0ZV4IzmM7PQTQd892MNNcWRGDhDCWbBcYT5k429u8+Uecz8dF8O5+SmHrDUHUaT+OU+gDgYKfep3LL/5zzeiXESdYkCHAdT2Cxt//h35Na74qavEDogAjdnZ7QrAfTdzj/vjXW29pkOjVTfg5EoD0C7s6AifWqM1T5tuQkpdOKwrJMbvRjZDsFCen25meyp61nRQe0mGzZgUCkhz4OsSffy+1pOqTu6PNxNunLi52eo0gC1B5wCJBg86PJ1YKRozRWeBkvNxmMuSXkZZKxKsH4CfWKR0=
+  - secure: ktp0jgLboNeRmbObGmMopiVb+eftXDJHnhz7fMN3JOqU/c2Xe7B1pIB7k51RG1u79mdbsKztfyQGVH30axycDEYMrysQa26RaoPNid8URFzw8O5qhvj1BsAkk3CANjmXhorpFkSTX04PmcKmlUCjZOiCj/IWhSvWtmyUUSeWOqYvc93cv1BvTYl6V/hf01CHRYASN8HHrcrjm+aLgVRzW7D0+nc98/YglxgJfUUAJrZy7ZeZ8KFMsHZceNy1WVYplLtwY+YmROPTQO3MNjeEmJdVVpklYvQCq2Iv84q3lgbnuAEuQBF8lkFiljW3sUYxeWekvBluq8E9r6t+NcEJTMiPDNdthhKGRKirWWpgQXYbkONrAXbGdJh9fYBKhUPLoGAmpk83X8b21Xy95FbrNqHVHmXnsA5VqpDaCmPa1x9a0InYTVPy9+0LFqeTYbcKjmDxvzZqsRkaTfrhWmg80Qxs1lS/DlsV81er03yqv2Aw5AK/JA+KOHIfwWtp8TTKWHvzmv6AT8Mc9AciOig9hi5oOrT/I2lsFCGyEfAIR/gFLdexR+sDB8oT2tM12hvZwZS+5CudD8psfuamNYS5FCuoNJF1PrvsSULkEr3P7Reu39h8ejxxDOzNwkFMoMEKvxIjvpxe/gsZ8AeYuMpKp5IL2ttaBZ3JhwQDlYmKPW4=
 branches:
   only:
   - master
@@ -20,8 +24,6 @@ deploy:
   skip_cleanup: true
   on:
     repo: mkiser/WTFJHT
-after_success: 'curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache" \
-     -H "X-Auth-Email: matt.kiser@gmail.com" \
-     -H "X-Auth-Key: $CLOUD_FLARE_API_KEY" \
-     -H "Content-Type: application/json" \
-     --data "{"purge_everything":true}"'
+after_success: 'curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache"
+  \ -H "X-Auth-Email: $CLOUD_FLARE_EMAIL" \ -H "X-Auth-Key: $CLOUD_FLARE_API_KEY"
+  \ -H "Content-Type: application/json" \ --data "{"purge_everything":true}"'"

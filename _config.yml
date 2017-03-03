@@ -1,6 +1,11 @@
 # Permalinks
 permalink:           pretty
 
+# collections:
+#   guides:
+#     output: true
+#     permalink: pretty
+    
 # Setup
 title:            What The Fuck Just Happened Today?
 name:             "What The Fuck Just Happened Today?"
@@ -10,6 +15,7 @@ url:              "https://whatthefuckjusthappenedtoday.com"
 baseurl:          ""
 twitter:
   username: WTFJHT
+
 
 facebook:
   app_id: 601457263382211

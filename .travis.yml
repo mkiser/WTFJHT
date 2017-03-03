@@ -8,9 +8,6 @@ script: ./script/cibuild
 branches:
   only:
   - master
-env:
-  global: 
-    secure: JiQi8dVcvpakQWY/bz4ikfiU7o7acps/FtR4zvqzuCWC2Xx7bztmdAzR/1uTvc21xuzR7+GAqgf27MnP9RikEMZV03A/qDKB1FaTF2ZIQf6yvpy07Ar1tF9asXq8eja/NSbk12tPp62MJCGptSDj6+KvO1IOuxMc+TeOX4U7xmaqdpMYypTLGRznw9AdUmxqvEHzuDwbWH+rai+azKe6sTiGBMnh1IGVRNbUKebfxyBiiZk9aDjLFiIkSbcJTGJ8Wxs1M6+e7QRVf3xvodFRo4BRW14atrJia/kTHi38T6whf7ZeyU0FomPPTkH1/+mTcM7MjaUthfgQL5WfxgnIfc4bz/9n7m1kjnZ/ONpk+wc8z9SIhZ17HJQaupmdklrMBWM60Dxl4pB9jPW9BZr+/YRnBEEXs5adgtBVxEEqkdkuL1wISIsfrONZwPSlsnw8dH1NzhaMnH6uzFq2sghcjJDdIGdDdMUF0wLVgqK6HX8siU2zkiSz2YLCUiWI8BDqBO8veNMHra1+1PgqE3d8wkdZ00KJlM2EZUAKAznQVLh7raw2aIvg0BrZsuPIWJJJ3kBALz68oEalgMNf6e/Nu0Q+9RJIfuLNdZSXJT4aFnyvpXpMGD8aC5m++Q/ow69irIVSlktQLpY3maUxwd7CYD8t4ZfJELuDMCKcV6Yrt84=
 sudo: false
 deploy:
   provider: s3
@@ -25,6 +22,6 @@ deploy:
     repo: mkiser/WTFJHT
 after_success: 'curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache" \
      -H "X-Auth-Email: matt.kiser@gmail.com" \
-     -H "X-Auth-Key: echo '$CLOUD_FLARE_API_KEY' " \
+     -H "X-Auth-Key: $CLOUD_FLARE_API_KEY" \
      -H "Content-Type: application/json" \
      --data "{"purge_everything":true}"'

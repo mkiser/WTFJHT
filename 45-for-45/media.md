@@ -10,13 +10,13 @@ image:
 
 <p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
 
-##Week 1
-
-`Jan. 20th`
+## Week 1
 
 1/ **Trump used his first full day in office on Saturday to unleash a remarkably bitter attack on the news media**, falsely accusing journalists of both inventing a rift between him and intelligence agencies and deliberately understating the size of his inauguration crowd. ([New York Times](https://www.nytimes.com/2017/01/21/us/politics/trump-white-house-briefing-inauguration-crowd-size.html)
 
-TK/ **Sean Spicer attacked media for accurately reporting inauguration crowds**. “This was the largest audience to ever witness an inauguration, period,” Spicer said, contradicting all available data. Aerial photos have indicated that former president Barack Obama’s first inauguration attracted a much larger crowd. Nielsen ratings show that Obama also had a bigger television audience. Spicer, at times almost yelling while reading a prepared statement, took no questions. ([CNN](http://money.cnn.com/2017/01/21/media/sean-spicer-press-secretary-statement/index.html)
+2/ **Sean Spicer attacked media for accurately reporting inauguration crowds**. “This was the largest audience to ever witness an inauguration, period,” Spicer said, contradicting all available data. Aerial photos have indicated that former president Barack Obama’s first inauguration attracted a much larger crowd. Nielsen ratings show that Obama also had a bigger television audience. Spicer, at times almost yelling while reading a prepared statement, took no questions. ([CNN](http://money.cnn.com/2017/01/21/media/sean-spicer-press-secretary-statement/index.html)
+
+## Week 2 
 
 2/ **Kellyanne Conway said on NBC’s “Meet the Press” that the White House had put forth “alternative facts”** to the ones reported by the news media about the size of Trump’s inauguration crowd. ([New York Times](https://www.nytimes.com/2017/01/22/us/politics/president-trump-inauguration-crowd-white-house.html)
 

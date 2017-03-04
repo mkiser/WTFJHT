@@ -8,3 +8,15 @@ image:
   facebook: /public/TK.jpg
 ---
 
+<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
+
+**Navigation/Table of Contents**
+
+<!-- MailChimp -->
+{% include email.html %}
+
+
+<p>
+    <small><strong>Subscribe:</strong> <a href="http://eepurl.com/cAiR-b" target="_blank">Get the Daily WTF in your inbox for free</a> 
+    </small>
+  </p>  

@@ -6,28 +6,8 @@ image:
   facebook: /public/wtfjht-f.jpg
 ---
 
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup" style="width: 90%; margin: auto; padding: 10px 0; border: 0;">
-<form action="//whatthefuckjusthappenedtoday.us7.list-manage.com/subscribe/post?u=104aa3abb9fec8b4d037ed51d&amp;id=9813b73b1a" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-  <label for="mce-EMAIL">Get the Daily WTF in your inbox</label>
-  <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" style="text-align: center; border: 1px solid #000; min-height: 46px;" required>
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-  <!--   <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_104aa3abb9fec8b4d037ed51d_9813b73b1a" tabindex="-1" value=""></div> -->
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="border: 1px solid #000; min-height: 46px; color:white; background-color: #000;" class="button"></div>
-    </div>
-</form>
-</div>
-
-<!--End mc_embed_signup-->
-
-
+<!-- MailChimp -->
+{% include email.html %}
 
 <div class="posts">
   <article class="post">

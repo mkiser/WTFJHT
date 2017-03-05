@@ -4,18 +4,18 @@ title:  The Media.
 description: The Normal Person's Guide to 45’s First 45 Fucking Days
 date:   2017-03-05
 image:
-  twitter: /public/TK.jpg
-  facebook: /public/TK.jpg
+  twitter: /public/45-for-45-media-t.jpg
+  facebook: /public/45-for-45-media-f.jpg
 ---
- <!-- Pledge Drive -->
- {% include pledge.html %}
- 
-<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
+![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-media-t.jpg)
 
-intro blah stuf fand things intro blah stuf fand things intro blah stuf fand things  intro blah stuf fand things 
+<p class="lead">It started with a debate over crowd sizes and alternative facts, and has morphed into cell phone checks for White House staffers and the banning of major media outlets from a press briefing. The war on media in first 45-days has seen everything.</p>
+
+{% include 45nav.html %}
 
 <!-- MailChimp -->
 {% include email.html %}
+<hr>
 
 <h2 class="dateline">January 21, 2017</h2>
 
@@ -132,3 +132,8 @@ On February 15th, Spicer called CIA Director Mike Pompeo and Senate Select Intel
 The Washington Post [reported on the push back](https://www.washingtonpost.com/world/national-security/trump-administration-sought-to-enlist-intelligence-officials-key-lawmakers-to-counter-russia-stories/2017/02/24/c8487552-fa99-11e6-be05-1a3817ac21a5_story.html) Friday with the article, “Trump administration sought to enlist intelligence officials, key lawmakers to counter Russia stories.” ([Axios](https://www.axios.com/exclusive-spicer-arranged-sat-in-on-cia-gop-intelligence-push-back-2288082248.html){:target="_blank"})
 
 34/ **Trump signed off on checking White House staffers’ phones** to make certain they weren’t communicating with reporters by text message or through encrypted apps. The decision sent a signal across the administration that Trump is furious at leaks from inside the White House. ([CNN](http://www.cnn.com/2017/02/27/politics/donald-trump-white-house-staffer-cell-phones-leaks/index.html){:target="_blank"})
+
+{% include 45nav.html %}
+
+<!-- MailChimp -->
+{% include email.html %}

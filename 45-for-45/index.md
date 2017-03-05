@@ -4,19 +4,48 @@ title:  The Normal Person's Guide to 45’s First 45 Fucking Days
 description: A quick look back on Trump's first 45-days in office.
 date:   2017-03-05
 image:
-  twitter: /public/TK.jpg
-  facebook: /public/TK.jpg
+  twitter: /public/45-for-45-t.jpg
+  facebook: /public/45-for-45-t.jpg
 ---
 
-<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
+![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-t.jpg)
+<hr>
+<center>
+<!-- 
+<p><strong>The Normal Person's Guide to 45’s First 45 Fucking Days</strong></p>
+Navigation: -->
+<a href="{{ site.baseurl }}/45-for-45/media">The Media</a> | 
+<a href="{{ site.baseurl }}/45-for-45/russia">Russia</a> |
+<a href="{{ site.baseurl }}/45-for-45/health-care">Obamacare</a> |
+<a href="{{ site.baseurl }}/45-for-45/travel-ban">Travel Ban</a> |
+<a href="{{ site.baseurl }}/45-for-45/jeff-sessions">Jeff Sessions</a> 
+</center>
 
-**Navigation/Table of Contents**
+<hr> 
+<p class="lead">What the fuck? It’s only been 45-days? It feels like four years.</p>
 
+<p>This project started as an effort to personally keep up with a news cycle that could only be described as “shock and awe.” Every day I saw multiple big stories coming out of the White House. And every day I struggled to get a sense of the bigger picture. There never seemed to be an “edge” — an end to the day’s news. And, when faced with a seemingly limitless amount of news, hot takes, and sensationalized, clickbait posts, how is anybody able to actually be an informed citizen? And what if you aren’t a news junkie or have, you know, an actual life to tend to? </p>
+
+<p>The daily news blitzkrieg is by design and undermines a democracy with the intent of fatiguing normal people into submission. By answering the question “what the fuck just happened today?” this project attempts to provide a daily antidote to an impossible news cycle. But every once in a while you need to zoom out, gain some perspective, and observe the larger trends and stories. </p>
+
+<p>So, in honor of America's 45th president, let’s step back and take a look at the five big storylines from 45’s first 45-days in office. Check out the links below and share it on <strong><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F45-for-45%2F&via=WTFJHT&text=The%20Normal%20Person%27s%20Guide%20to%2045%u2019s%20First%2045%20Fucking%20Days" target="_blank">Twitter</a></strong> or <strong><a href="https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com/45-for-45/" target="_blank">Facebook</a></strong>. –Matt </p>
+
+<hr>
+<center>
+<!-- 
+<p><strong>The Normal Person's Guide to 45’s First 45 Fucking Days</strong></p>
+Navigation: -->
+<a href="{{ site.baseurl }}/45-for-45/media">The Media</a> | 
+<a href="{{ site.baseurl }}/45-for-45/russia">Russia</a> |
+<a href="{{ site.baseurl }}/45-for-45/health-care">Obamacare</a> |
+<a href="{{ site.baseurl }}/45-for-45/travel-ban">Travel Ban</a> |
+<a href="{{ site.baseurl }}/45-for-45/jeff-sessions">Jeff Sessions</a> 
+</center>
+
+<hr> 
 <!-- MailChimp -->
 {% include email.html %}
 
+<hr> 
 
-<p>
-    <small><strong>Subscribe:</strong> <a href="http://eepurl.com/cAiR-b" target="_blank">Get the Daily WTF in your inbox for free</a> 
-    </small>
-  </p>  
+{% include social.html %}

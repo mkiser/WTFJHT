@@ -42,6 +42,27 @@ footer {
   }
 }
 
+#ask-form {
+
+  header {
+    display: none !important;
+    padding-top: 0px !important;
+  }
+
+  ul {
+    border: 0px;
+  }
+
+  li {
+    margin-top: 0px;
+  }
+
+  footer {
+    padding: 0;
+    background-color: #fff; 
+    margin-top: 0px;
+  }
+}
 .fa-css {
     left: 15px;
     position: absolute;

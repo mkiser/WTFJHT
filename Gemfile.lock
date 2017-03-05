@@ -227,6 +227,7 @@ DEPENDENCIES
   amp-jekyll
   github-pages (= 124)
   jekyll-paginate
+  jekyll-redirect-from
   jekyll-sitemap
   jekyll_pages_api
 

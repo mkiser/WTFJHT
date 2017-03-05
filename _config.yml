@@ -60,6 +60,7 @@ algolia:
 # Gems
 gems:
   - jekyll-gist
+  - jekyll-redirect-from
   - github-pages
   - jekyll-paginate
   - jekyll-seo-tag

@@ -14,11 +14,11 @@ image:
 <!-- 
 <p><strong>The Normal Person's Guide to 45’s First 45 Fucking Days</strong></p>
 Navigation: -->
-<a href="{{ site.baseurl }}/45-for-45/media">The Media</a> | 
-<a href="{{ site.baseurl }}/45-for-45/russia">Russia</a> |
-<a href="{{ site.baseurl }}/45-for-45/health-care">Obamacare</a> |
-<a href="{{ site.baseurl }}/45-for-45/travel-ban">Travel Ban</a> |
-<a href="{{ site.baseurl }}/45-for-45/jeff-sessions">Jeff Sessions</a> 
+<a href="{{ site.baseurl }}/45-for-45/media"><strong>The Media</strong></a> | 
+<a href="{{ site.baseurl }}/45-for-45/russia"><strong>Russia</strong></a> |
+<a href="{{ site.baseurl }}/45-for-45/health-care"><strong>Obamacare</strong></a> |
+<a href="{{ site.baseurl }}/45-for-45/travel-ban"><strong>Travel Ban</strong></a> |
+<a href="{{ site.baseurl }}/45-for-45/jeff-sessions"><strong>Jeff Sessions</strong></a> 
 </center>
 
 <hr> 
@@ -35,11 +35,11 @@ Navigation: -->
 <!-- 
 <p><strong>The Normal Person's Guide to 45’s First 45 Fucking Days</strong></p>
 Navigation: -->
-<a href="{{ site.baseurl }}/45-for-45/media">The Media</a> | 
-<a href="{{ site.baseurl }}/45-for-45/russia">Russia</a> |
-<a href="{{ site.baseurl }}/45-for-45/health-care">Obamacare</a> |
-<a href="{{ site.baseurl }}/45-for-45/travel-ban">Travel Ban</a> |
-<a href="{{ site.baseurl }}/45-for-45/jeff-sessions">Jeff Sessions</a> 
+<a href="{{ site.baseurl }}/45-for-45/media"><strong>The Media</strong></a> | 
+<a href="{{ site.baseurl }}/45-for-45/russia"><strong>Russia</strong></a> |
+<a href="{{ site.baseurl }}/45-for-45/health-care"><strong>Obamacare</strong></a> |
+<a href="{{ site.baseurl }}/45-for-45/travel-ban"><strong>Travel Ban</strong></a> |
+<a href="{{ site.baseurl }}/45-for-45/jeff-sessions"><strong>Jeff Sessions</strong></a> 
 </center>
 
 <hr> 

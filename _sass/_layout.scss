@@ -42,6 +42,31 @@ footer {
   }
 }
 
+#ask-form {
+
+  header {
+    display: none !important;
+    padding-top: 0px !important;
+  }
+
+  ul {
+    border: 0px;
+  }
+
+  li {
+    margin-top: 0px;
+  }
+
+  footer {
+    padding: 0;
+    background-color: #fff; 
+    margin-top: 0px;
+  }
+
+  button {
+    background: #0093f0;
+  }
+}
 .fa-css {
     left: 15px;
     position: absolute;
@@ -79,6 +104,14 @@ footer {
 }
 
 .pledge-drive {
+  margin: 1em auto;
+  text-align: center;
+  max-width: 40rem;
+  padding: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.tout {
   margin: 1em auto;
   text-align: center;
   max-width: 40rem;

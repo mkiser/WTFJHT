@@ -9,6 +9,8 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 gem 'github-pages', versions['github-pages']
 gem 'jekyll-sitemap'
 gem 'amp-jekyll'
+gem 'jekyll-paginate'
+gem 'jekyll-redirect-from'
 group :jekyll_plugins do
   gem 'jekyll_pages_api'
   gem 'algoliasearch-jekyll', '~> 0.8.0'

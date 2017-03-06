@@ -1,6 +1,10 @@
 # Permalinks
 permalink:           pretty
 
+# collections:
+#   guides:
+#     output: true
+#     permalink: pretty
 # Setup
 title:            What The Fuck Just Happened Today?
 name:             "What The Fuck Just Happened Today?"
@@ -8,8 +12,10 @@ tagline:          "Today's essential newsletter. Logging the daily shock and awe
 description:      "Today's essential newsletter. Logging the daily shock and awe in national politics. Read in moderation."
 url:              "https://whatthefuckjusthappenedtoday.com"
 baseurl:          ""
+paginate:         7
 twitter:
   username: WTFJHT
+
 
 facebook:
   app_id: 601457263382211
@@ -54,7 +60,9 @@ algolia:
 # Gems
 gems:
   - jekyll-gist
+  - jekyll-redirect-from
   - github-pages
+  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
   - algoliasearch-jekyll

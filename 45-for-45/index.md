@@ -24,7 +24,7 @@ Navigation: -->
 <hr> 
 <p class="lead">What the fuck? It’s only been 45 days? It feels like four years.</p>
 
-<p>This project started as an effort to personally keep up with a news cycle that could only be described as “shock and awe.” Every day I saw multiple big stories coming out of the White House. And every day I struggled to get a sense of the bigger picture. There never seemed to be an “edge” — an end to the day’s news. And, when faced with a seemingly limitless amount of news, hot takes, and sensationalized, clickbait posts, how is anybody able to actually be an informed citizen? And what if you aren’t a news junkie or have, you know, an actual life to tend to? </p>
+<p>This project started as an effort to personally keep up with a news cycle that could only be described as “shock and awe.” Every day I saw multiple big stories coming out of the White House. And every day I struggled to get a sense of the bigger picture. There never seemed to be an “edge” — an end to the day’s news. And, when faced with a seemingly limitless amount of news, hot takes, and sensationalized clickbait posts, how is anybody able to actually be an informed citizen? And what if you aren’t a news junkie or have, you know, an actual life to tend to? </p>
 
 <p>The daily news blitzkrieg is by design and undermines a democracy with the intent of fatiguing normal people into submission. By answering the question “what the fuck just happened today?” this project attempts to provide a daily antidote to an impossible news cycle. But every once in a while you need to zoom out, gain some perspective, and observe the larger trends and stories. </p>
 

@@ -14,7 +14,7 @@ The site is hosted on as a free <a href="https://pages.github.com/" target="_bla
 I'm moving the site to an Amazon S3 bucket because it's highly scalable, reliable, fast, and generally an inexpensive data storage infrastructure option. _Monthly Cost:_ ~$20
 
 **Site Search:**
-This giant repository of news isn't very valuable if you can't find the what you're looking for. I've implemented <a href="https://www.algolia.com/" target="_blank">Algolia</a>, the best instant search option out there. _Monthly Cost:_ $59
+This giant repository of news isn't very valuable if you can't find what you're looking for. I've implemented <a href="https://www.algolia.com/" target="_blank">Algolia</a>, the best instant search option out there. _Monthly Cost:_ $59
 
 **Email Sending:**
 Oh boy, here's the most expensive part of running this site. I use <a href="https://mailchimp.com/" target="_blank">MailChimp</a> because the ease of use, templating, reporting, and pre-built forms are the best in the business. While there are cheaper options out there, the time-savings is huge. 

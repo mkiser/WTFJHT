@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-<div class="tout">
-              <strong> 
-                >>> <mark><a href="{{ site.baseurl }}/45-for-45">The Normal Person's Guide to 45’s First 45 Fucking Days</a></mark> <<< 
-              </strong>
-            </div>
+
             
 <!-- MailChimp -->
 {% include email.html %}
@@ -26,17 +22,21 @@ layout: default
 
   </time>
 
+   <!-- Pledge Drive -->
+ {% include pledge2.html %}
+
+
   {{ content }}
 
   <p>
     <small><strong>Subscribe:</strong> <a href="http://eepurl.com/cAiR-b" target="_blank">Get the Daily WTF in your inbox for free</a> 
     </small>
   </p>  
-  
- <!-- Pledge Drive -->
- {% include pledge.html %}
- 
 
+ <!-- Pledge Drive -->
+  {% include pledge.html %}
+
+  {% include social.html %}
 
   <div class="next-prev">
     {% if page.previous.url %}
@@ -47,6 +47,6 @@ layout: default
     {% endif %}
   </div>
 
-  {% include social.html %}
+
 
 </article>

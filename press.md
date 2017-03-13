@@ -61,6 +61,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/DylanJobe/status/831696596828094464 hide_media=true %}
 {% twitter https://twitter.com/davidbauer/status/831760531279183872 hide_media=true %}
 {% twitter https://twitter.com/KenPlume/status/828165230849060864 hide_media=true %}
+{% twitter https://twitter.com/GA/status/840292694018662400 hide_media=true %}
 {% twitter https://twitter.com/jessamyn/status/833392986633412609 hide_media=true %}
 {% twitter https://twitter.com/mediagazer/status/831543694004199426 hide_media=true %}
 {% twitter https://twitter.com/Chris_Randall/status/836250181095968768 hide_media=true %}

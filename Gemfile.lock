@@ -9,7 +9,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
-    algoliasearch (1.12.7)
+    algoliasearch (1.13.0)
       httpclient (~> 2.8.3)
       json (>= 1.5.1)
     algoliasearch-jekyll (0.8.0)

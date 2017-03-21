@@ -1,0 +1,48 @@
+---
+layout: default
+title: What The Fuck Just Happened Today?
+image:
+  twitter: /public/wtfjht-t.jpg
+  facebook: /public/wtfjht-f.jpg
+---
+
+
+ <!-- Pledge Drive -->
+ {% include pledge.html %}
+
+<!-- MailChimp -->
+{% include email.html %}
+
+<!--End mc_embed_signup-->
+
+
+
+<div class="posts">
+  {% for post in site.posts limit:1 %}
+  <article class="post">
+    <h2 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}:
+      <span class="post-small">{{ post.description }}</span></a>
+    </h2>
+    <time datetime="{{ post.last_modified | date_to_xmlschema }}" class="post-date">
+       {{ post.date | date: "%m/%d/%Y" }}
+    <small><em>Updated: {{ post.last_modified | date: "%m/%d/%Y %r %Z"}} 
+    </em></small>
+  </time>
+ 
+    {{ post.content }}
+  </article>
+  {% endfor %} 
+
+    <div class="next-prev">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+
+
+</div> 

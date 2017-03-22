@@ -8,9 +8,7 @@ image:
   facebook: /public/wtfjht-f.jpg
 ---
 
-Want to **do something** about the GOP health care? Call your representative. Here's everything you need to know to take a stand. Compiled via [Daily Action](https://www.facebook.com/YourDailyAction/posts/404813213217332) and [5 Calls](https://5calls.org/#issue/recaeT57AXkqiV2Me).
-
-The House is expected to vote on the AHCA tomorrow.
+The House is expected to vote on the AHCA tomorrow. Want to **do something** about it? Call your representative. Here's everything you need to know to take a stand. Compiled via [Daily Action](https://www.facebook.com/YourDailyAction/posts/404813213217332) and [5 Calls](https://5calls.org/#issue/recaeT57AXkqiV2Me).
 
 > **Your Script:**
 >
@@ -75,7 +73,8 @@ The House is expected to vote on the AHCA tomorrow.
   Leonard Lance (202) 225-5361
 
 * **Nevada**
- Mark Amodei (202) 225-6155
+ 
+  Mark Amodei (202) 225-6155
 
 * **New York**
  
@@ -93,7 +92,7 @@ The House is expected to vote on the AHCA tomorrow.
 
   Erik Paulsen (202) 225-5136
 
-* **Pennsylvannia**
+* **Pennsylvania**
 
   Charlie Dent (202) 225-6411
   
@@ -111,7 +110,7 @@ The House is expected to vote on the AHCA tomorrow.
 
   Will Hurd (210) 921-3130
 
-* **Virgina**
+* **Virginia**
 
   Barbara Comstock (202) 225-5136
 

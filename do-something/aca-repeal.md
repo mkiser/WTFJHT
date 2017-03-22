@@ -4,8 +4,8 @@ title:  Block the ACA Repeal.
 description: Something to do if you're not doing something
 date:   2017-03-22
 image:
-  twitter: /public/wtfjht-t.jpg
-  facebook: /public/wtfjht-f.jpg
+  twitter: /public/ds-aca-repeal-t.jpg
+  facebook: /public/ds-aca-repeal.jpg
 ---
 
 The House is expected to vote on the AHCA tomorrow. Want to **do something** about it? Call your representative. Here's everything you need to know to take a stand. Compiled via [Daily Action](https://www.facebook.com/YourDailyAction/posts/404813213217332) and [5 Calls](https://5calls.org/#issue/recaeT57AXkqiV2Me).

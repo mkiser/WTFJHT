@@ -8,7 +8,7 @@ image:
   facebook: /public/internet-security-guide-f.jpg
 ---
 
-This is a quick and dirty guide to basic internet security for the normal internet users. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can do to protect themselves on the internet.
+This is a quick and dirty guide to basic internet security for the normal internet users. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can do to protect themselves on the internet. 
 
 **TO BE COMPLETELY CLEAR**: I am **not** an internet security expert. Follow this guide at your own risk. It's your own damn fault if you get pw3ned. Take this quiz to see if you can [outsmart internet scammers](https://www.opendns.com/phishing-quiz/){:target="_blank"}. 
 
@@ -68,7 +68,7 @@ Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="
 
 ## 6/ VPN (optional)
 
-A VPN stands for Virtual Private Network and is a way of using the internet in much more secure way. It works by encrypting your data (Private) and then routing your traffic through servers elsewhere in the world (Virtual Network) so no one can see what you are up to. If you use public wifi at a cafe, hotel, or airport, a VPN is essential.
+A VPN stands for Virtual Private Network and is a way of using the internet in a much more secure way. It works by encrypting your data (Private) and then routing your traffic through servers elsewhere in the world (Virtual Network) so no one can see what you are up to. If you use public wifi at a cafe, hotel, or airport, a VPN is essential.
 
 **Choose a VPN**. A VPN you can trust costs money. Period. Most options will cost you $10 or less per month. I personally use [Private Internet Access](https://www.privateinternetaccess.com/pages/buy-vpn/){:target="_blank"}. It's barebones, but it's also $3.33/mo. [Nord](https://nordvpn.com/pricing/){:target="_blank"} is another good choice, which looks to be more user friendly and costs $5.75/mo.
 
@@ -78,9 +78,9 @@ A VPN stands for Virtual Private Network and is a way of using the internet in m
 
 ## Summary
 
-The above isn't a comprehensive list – [there's a lot more you could do](https://privacytoolsio.github.io/privacytools.io/){:target="_blank"} – and there's no silver bullet when it comes to internet security. Nerds will point out that this guide falls woefully short in a lot of ways. 
+The above isn't a comprehensive list – [there's a lot more you could do](https://privacytoolsio.github.io/privacytools.io/){:target="_blank"} – and there's no silver bullet when it comes to internet security. Nerds will point out that this guide falls woefully short in a lot of ways. They're right. It does. 
 
-If you want to take a few more actions to ensure you're more secure, check out [Get Safe](https://www.letsgetsafe.org/){:target="_blank"}.
+The point of this guide isn't to ensure absolute internet security and anonymity online – it's to help normal people using the internet a little more safely. If you want to take a few more actions to ensure you're more secure, check out [Get Safe](https://www.letsgetsafe.org/){:target="_blank"}.
 
 Let me know what you think [@matt_kiser](https://twitter.com/matt_kiser){:target="_blank"}.
 

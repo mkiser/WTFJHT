@@ -8,11 +8,11 @@ image:
   facebook: /public/internet-security-guide-f.jpg
 ---
 
-This is a quick and dirty guide to basic internet security for the normal internet users. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can to do to protect themselves on the internet.
+This is a quick and dirty guide to basic internet security for normal internet users. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can do to protect themselves on the internet.
 
 **TO BE COMPLETELY CLEAR**: I am **not** an internet security expert. Follow this guide at your own risk. It's your own damn fault if you get pw3ned. Take this quiz to see if you can [outsmart internet scammers](https://www.opendns.com/phishing-quiz/){:target="_blank"}. 
 
-**tl;dr** true internet security requires a behavior change. This free guide will provide a “good enough” starting point for regular people using the internet in regular ways.
+**tl;dr** true internet security requires behavior change. This free guide will provide a “good enough” starting point for regular people using the internet in regular ways.
 
 That said, here’s how to protect yourself on the internet in 20-minutes or less – or your money back.
 
@@ -60,7 +60,7 @@ Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="
 
 ## 6/ VPN (optional)
 
-A VPN stands for Virtual Private Network and is a way of using the internet in much more secure way. It works by encrypting your data (Private) and then routing your traffic through servers elsewhere in the world (Virtual Network) so no one can see what you are up to. If you use public wifi at a cafe, hotel, or airport, a VPN is essential.
+A VPN stands for Virtual Private Network and is a way of using the internet in a much more secure way. It works by encrypting your data (Private) and then routing your traffic through servers elsewhere in the world (Virtual Network) so no one can see what you are up to. If you use public wifi at a cafe, hotel, or airport, a VPN is essential.
 
 **Choose a VPN**. A VPN you can trust costs money. Period. Most options will cost you $10 or less per month. I personally use [Private Internet Access](https://www.privateinternetaccess.com/pages/buy-vpn/){:target="_blank"}. It's barebones, but it's also $3.33/mo. [Nord](https://nordvpn.com/pricing/){:target="_blank"} is another good choice, which looks to be more user friendly and costs $5.75/mo.
 

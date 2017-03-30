@@ -12,19 +12,19 @@ This is a quick and dirty guide to basic internet security for the normal intern
 
 **TO BE COMPLETELY CLEAR**: I am **not** an internet security expert. Follow this guide at your own risk. It's your own damn fault if you get pw3ned. Take this quiz to see if you can [outsmart internet scammers](https://www.opendns.com/phishing-quiz/){:target="_blank"}. 
 
-**tl;dr** internet security requires a behavior change – there is no guide to security that will protect you forever. You can't buy security. This guide provides a "good enough" starting point for regular people using the internet.
+**tl;dr** true internet security requires a behavior change. This free guide will provide a “good enough” starting point for regular people using the internet in regular ways.
 
-That said, here's how to protect yourself on the internet in 20-minutes or less – or your money back. 
+That said, here’s how to protect yourself on the internet in 20-minutes or less – or your money back.
 
 ## 1/ Two-Factor Authentication
 
-You know when you login to your bank, but then they send you a text message with a six-digit code? That's two-factor authentication. It can be annoying to always need two forms of identification. But it's the most important thing you can do to protect yourself on the internet. 
+You know when you login to your bank, but then they send you a text message with a six-digit code? That’s two-factor authentication. It's annoying, but it’s the most important thing you can do to protect yourself on the internet.
 
-**Enable two-factor authentication**. Go through and enable 2FA on the following services you use: Amazon, Apple, Dropbox, Facebook, Google, Instagram, Microsoft, Paypal, Slack, Twitter, Venmo, and WhatsApp. Don't forget your bank and email accounts, too!
+**Enable two-factor authentication** on the following services you use: Amazon, Apple, Dropbox, Facebook, Google, Instagram, Microsoft, Paypal, Slack, Twitter, Venmo, and WhatsApp. Don’t forget your bank and email accounts, too!
 
 Check [twofactorauth.org](https://twofactorauth.org/){:target="_blank"} for a complete list of apps and services that support 2FA. Enable this for everything you use.
 
-optional – Use an authenticator app to make 2FA life easier. Now, instead of waiting for a text message, you use the app and punch in the six-digit code listed for your service. [Authy](https://www.authy.com/tutorials/){:target="_blank"} and [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en){:target="_blank"} are two free apps. 
+optional – Use an authenticator app like [Authy](https://www.authy.com/tutorials/){:target="_blank"} or [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=en){:target="_blank"} (both are free!) to make 2FA life easier. Now, instead of waiting for a text message, you use the app and punch in the six-digit code listed for your service.
 
 ## 2/ Passwords
 

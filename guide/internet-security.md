@@ -40,6 +40,12 @@ For example, my password is: 36$Thoughtcrime$5
 
 This is a good starting point and an upgrade over "password123" – just remember to dog ear the page and underline your word. 
 
+**Another easy way** is to combine a memorable sentence with some unique capitalization and puncutation to modify the sentence into a password. 
+
+For example, "I love to eat pizza in my pajamas in the morning!" Coudld easily turn into the password: I<32epimpithm!.
+
+Get it? *I <3 2 e(at) p(izza) i(n) m(y) (p)ajamas i(n) t(he) m(orning) !*
+
 **On your phone**. Turn on your phone’s password protection and set it to always require a passcode. Use the fingerprint reader.
 
 **On your computer**. Set a login password. Require a password immediately after waking from sleep and the screen saver. Lock your screen when you walk away from your computer. (One easy way to do this is to create a hot corner on your screen that immediately starts your screensaver.)
@@ -67,6 +73,8 @@ In the same way you want to use an ad blocker to prevent ads from following you 
 Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="_blank"} here. Sorry Safari.
 
 ## 6/ VPN (optional)
+
+*NOTE: This is seriously overkill for most normal users. If you're going to inquire about a VPN, you'll need to do a fair amount of personal research. Free VPNs will likely cause more harm than good!*
 
 A VPN stands for Virtual Private Network and is a way of using the internet in a much more secure way. It works by encrypting your data (Private) and then routing your traffic through servers elsewhere in the world (Virtual Network) so no one can see what you are up to. If you use public wifi at a cafe, hotel, or airport, a VPN is essential.
 

@@ -8,7 +8,7 @@ image:
   facebook: /public/internet-security-guide-f.jpg
 ---
 
-This is a quick and dirty guide to basic internet security for the normal internet users. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can to do to protect themselves on the internet.
+This is a quick and dirty guide to basic internet security for the normal internet users. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can do to protect themselves on the internet.
 
 **TO BE COMPLETELY CLEAR**: I am **not** an internet security expert. Follow this guide at your own risk. It's your own damn fault if you get pw3ned. Take this quiz to see if you can [outsmart internet scammers](https://www.opendns.com/phishing-quiz/){:target="_blank"}. 
 
@@ -30,31 +30,39 @@ optional – Use an authenticator app like [Authy](https://www.authy.com/tutoria
 
 You already know what to do. Just do it. And, just because you're using two-factor authentication for everything doesn't mean you can skimp on your password. 
 
-**Use strong passwords**. 12-14 characters using a mix of capital and lowercase letters, numbers, and punctuation. Don’t use the same password for every site or service. Change your passwords twice year (I change mine when I go to the dentist). Don't keep a text file or email to yourself with all your passwords listed.
+**Use strong passwords** that are 12-14 characters in length and a mix of capital and lowercase letters, numbers, and punctuation. Don’t use the same password for every site or service. Change your passwords twice year (I change mine when I go to the dentist). Don't keep a text file or email to yourself with all your passwords listed.
+
+**An easy way to create and remember a strong password** is to grab your favorite book. Turn to a page. Select a word. Count the number of lines from the top. For instance, from *1984*, on page 36, the word "thoughtcrime" is on line 5.
+
+Smush these three things together using a symbol between each (i.e. "!" or "#" or "$"). Capitalize the first letter of your word.
+
+For example, my password is: 36$Thoughtcrime$5
+
+This is a good starting point and an upgrade over "password123" – just remember to dog ear the page and underline your word. 
 
 **On your phone**. Turn on your phone’s password protection and set it to always require a passcode. Use the fingerprint reader.
 
 **On your computer**. Set a login password. Require a password immediately after waking from sleep and the screen saver. Lock your screen when you walk away from your computer. (One easy way to do this is to create a hot corner on your screen that immediately starts your screensaver.)
 
-optional – **Password manager**. I don't use a password manager. I find it's easier to remember strong passwords than it is to remember to use the tool on multiple devices.  That said, both [1Password](https://1password.com/){:target="_blank"} and [LastPass](https://www.lastpass.com/){:target="_blank"} are good, multi-device options.
+optional – **Password manager**. I don't use a password manager. I find it's easier to remember a strong passwords than it is to remember to use the tool on multiple devices. That said, both [1Password](https://1password.com/){:target="_blank"} and [LastPass](https://www.lastpass.com/){:target="_blank"} are good, multi-device options.
 
 ## 3/ Ad Blocker
 
-An ad blocker does exactly what you think: they prevent ads from loading on web pages. This is great for several reasons: faster web browsing and prettifying web sites. But the best reason is that they also block those sneaky trackers used to retarget the same ad over and over again.
+An ad blocker does exactly what you think: they prevent ads from loading on web pages. This is great for several reasons: faster web browsing, less stuff to download, and it prettifies web sites. But the best reason is that they also block those sneaky trackers used to retarget the same ad over and over again.
 
-**Install uBlock Origin**. It's free and takes two seconds to install on your browser. Set it and forget it. Install it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en){:target="_blank"} and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}. The [Safari](https://github.com/el1t/uBlock-Safari) installation is a little trickier – you'll have to do it manually. [Follow the instructions here](https://github.com/el1t/uBlock-Safari/tree/safari/dist#install){:target="_blank"} to download and install (it takes five total clicks).
+**Install uBlock Origin**. It's free and takes two seconds to install on your browser. Get it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en){:target="_blank"} and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}. The [Safari](https://github.com/el1t/uBlock-Safari) installation is a little trickier – you'll have to do it manually. [Follow the instructions here](https://github.com/el1t/uBlock-Safari/tree/safari/dist#install){:target="_blank"} to download and install (it takes five total clicks).
 
 ## 4/ HTTPS
 
 HTTPS works by encrypting traffic between the websites you visit and the device you're using. Think of it as a way to protect yourself against inappropriate eavesdropping on your browsing habits.
 
-**Install HTTPS Everywhere**. This free browser extension from the [Electronic Frontier Foundation](https://www.eff.org/){:target="_blank"} will encrypt your communication with most major websites by loading the content over an HTTPS connection rather than a standard HTTP connection when possible. Get it here: [EFF.org/https-everywhere](https://www.eff.org/https-everywhere){:target="_blank"}
+**Install HTTPS Everywhere** from the [Electronic Frontier Foundation](https://www.eff.org/){:target="_blank"}. This free browser extension will encrypt your communication with most major websites by loading the content over an HTTPS connection rather than a standard HTTP connection when possible. Get it here: [EFF.org/https-everywhere](https://www.eff.org/https-everywhere){:target="_blank"}
 
 ## 5/ Third-party content blocker
 
 In the same way you want to use an ad blocker to prevent ads from following you around the internet, you want to prevent third-party cookies from recording your browsing habits. 
 
-**Install Privacy Badger**. This free browser extension keeps track of most third-party tracking and then blocks the cookies for you. 
+**Install Privacy Badger**, another free browser extension, to block certain cookies and third-party content.
 
 Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="_blank"} here. Sorry Safari.
 
@@ -70,7 +78,7 @@ A VPN stands for Virtual Private Network and is a way of using the internet in m
 
 ## Summary
 
-There's no silver bullet when it comes to internet security. And, the above isn't a comprehensive list – [there's a lot more](https://privacytoolsio.github.io/privacytools.io/){:target="_blank"}.
+The above isn't a comprehensive list – [there's a lot more you could do](https://privacytoolsio.github.io/privacytools.io/){:target="_blank"} – and there's no silver bullet when it comes to internet security. Nerds will point out that this guide falls woefully short in a lot of ways. 
 
 If you want to take a few more actions to ensure you're more secure, check out [Get Safe](https://www.letsgetsafe.org/){:target="_blank"}.
 

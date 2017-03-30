@@ -8,11 +8,11 @@ image:
   facebook: /public/internet-security-guide-f.jpg
 ---
 
-This is a quick and dirty guide to basic internet security for the normal internet users. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can do to protect themselves on the internet. 
+This is a quick and dirty guide to basic internet security for the normal internet user. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can do to protect themselves on the internet. 
 
 **TO BE COMPLETELY CLEAR**: I am **not** an internet security expert. Follow this guide at your own risk. It's your own damn fault if you get pw3ned. Take this quiz to see if you can [outsmart internet scammers](https://www.opendns.com/phishing-quiz/){:target="_blank"}. 
 
-**tl;dr** true internet security requires a behavior change. This free guide will provide a “good enough” starting point for regular people using the internet in regular ways.
+**tl;dr** true internet security requires behavior change. This free guide will provide a “good enough” starting point for regular people using the internet in regular ways.
 
 That said, here’s how to protect yourself on the internet in 20-minutes or less – or your money back.
 

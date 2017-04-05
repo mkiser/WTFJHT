@@ -28,7 +28,7 @@ optional – Use an authenticator app like [Authy](https://www.authy.com/tutoria
 
 ## 2/ Passwords
 
-You already know what to do. Just do it. And, just because you're using two-factor authentication for everything doesn't mean you can skimp on your password. 
+You already know what to do. Just do it. And, just because you're using two-factor authentication for everything doesn't mean you can skimp on your passwords. Did I say password with an S? Yes. Use a unique password for every service you use – do not repeat your same password over and over.
 
 **Use strong passwords** that are 12-14 characters in length and a mix of capital and lowercase letters, numbers, and punctuation. Don’t use the same password for every site or service. Change your passwords twice year (I change mine when I go to the dentist). Don't keep a text file or email to yourself with all your passwords listed.
 
@@ -86,7 +86,9 @@ A VPN stands for Virtual Private Network and is a way of using the internet in a
 
 ## Summary
 
-The above isn't a comprehensive list – [there's a lot more you could do](https://privacytoolsio.github.io/privacytools.io/){:target="_blank"} – and there's no silver bullet when it comes to internet security. Nerds will point out that this guide falls woefully short in a lot of ways. They're right. It does. 
+The above isn't a comprehensive list – [there's a lot more you could do](https://privacytoolsio.github.io/privacytools.io/){:target="_blank"} – and there's no silver bullet when it comes to internet security. Nerds will point out that this guide falls woefully short in a lot of ways. They're right. It does.
+
+**Help me improve this.** This guide lives on GitHub, which means anybody can request to edit the content. Do you know something smart that was left out? Make a pull request. [github.com/mkiser/WTFJHT/](https://github.com/mkiser/WTFJHT/blob/master/guide/internet-security.md)
 
 The point of this guide isn't to ensure absolute internet security and anonymity online – it's to help normal people using the internet a little more safely. If you want to take a few more actions to ensure you're more secure, check out [Get Safe](https://www.letsgetsafe.org/){:target="_blank"}.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WTF Reader's Survey
+title: WTF Reader Survey
 image:
   twitter: /public/wtfjht-t.jpg
   facebook: /public/wtfjht-f.jpg

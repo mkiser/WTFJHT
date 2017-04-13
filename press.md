@@ -38,6 +38,8 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 15/ **Best New Website: Read "What The F*ck Just Happened" every day**. The site is really fun, in a sort of masochistic, sicko way. Unlike the White House and its staff, Kiser is dedicated to facts and to accuracy. Every entry on the site includes a link to the news source that first reported it. ([Liberal America](http://www.liberalamerica.org/2017/02/10/best-new-website-read-what-fck-happened-every-day/){:target="_blank"})
 
+16/ **WTF Just Happened Today available as an Amazon skill**. The seven-day a week newsletter that summarizes the most important political stories of the day is now available on Amazon Echo! ([Boing Boing](https://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html){:target="_blank"})
+
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}
 {% twitter https://twitter.com/DaveLeeBBC/status/830907636006547456 hide_media=true %}

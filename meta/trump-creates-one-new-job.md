@@ -36,7 +36,7 @@ Here is what we've accomplished together in less than 90-days, with just a few h
 * 80k+ email subscribers
 * 23k+ [Facebook Page](https://www.facebook.com/wtfjht/){:target="_blank"} Likes
 * 17k+ [Twitter](https://twitter.com/wtfjht){:target="_blank"} followers
-* 90 straight [blog posts]({{ site.baseurl }}/){:target="_blank"}
+* 90 consecutive [blog posts]({{ site.baseurl }}/){:target="_blank"}
 * 72k+ words written
 * [#drawingthenews](https://www.instagram.com/enoogs/){:target="_blank"} x [WTFJHT](https://www.instagram.com/wtfjht/){:target="_blank"} collaboration
 * [The Normal Person's Guide to Internet Security]({{ site.baseurl }}/guide/internet-security/){:target="_blank"}

@@ -12,7 +12,7 @@ It's produced every morning by hand, updated throughout the day, with a newslett
 
 Don't believe the hype? Here's [what the smartest people on the Internet are saying]({{ site.baseurl }}/press) about What The Fuck Just Happened Today?
 
-**So here's the deal:** This is my full-time job. And, running this thing is expensive (see the next section). It's just me, plus a few volunteers donating a couple hours/month. WTFJHT has been one of the most exciting, fun, and rewarding projects I've ever been involved in and I want nothing more than for this to keep going.
+**So here's the deal:** [This is my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/). And, running this thing is expensive (see the next section). It's just me, plus a few volunteers donating a couple hours/month. WTFJHT has been one of the most exciting, fun, and rewarding projects I've ever been involved in and I want nothing more than for this to keep going.
 
 **How Much Does It Cost To Run This?** Glad you asked! I did some back of the envelope math and I came up with $7,636/month. That's a pretty conservative estimate, tbh. If you're interested in how I arrived at that number, I've outlined [the cost of running WTFJHT in the FAQ]({{ site.baseurl }}/faq/).
 

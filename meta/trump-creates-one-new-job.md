@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Trump creates one new job.
-description: It's going to require persistence. It's going to require focus. And, it's going to require better media habits. We're just getting started. 
+description: Starting today WTF Just Happened Today is my full-time job. See? Trump IS creating jobs. That's right. I quit my job. We're just getting started. 
 date:   2017-04-19
 image:
   twitter: /public/wtfjht-t.jpg

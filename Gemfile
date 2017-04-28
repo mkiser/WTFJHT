@@ -14,5 +14,6 @@ gem 'jekyll-redirect-from'
 group :jekyll_plugins do
   gem 'jekyll_pages_api'
   gem 'algoliasearch-jekyll', '~> 0.8.0'
+  gem 'jekyll-admin'
 end
 # gem 'jekyll-last-modified-at'

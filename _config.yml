@@ -67,4 +67,4 @@ gems:
   - jekyll-sitemap
   - algoliasearch-jekyll
   # - amp-jekyll
-  - jekyll-admin
+  # - jekyll-admin

@@ -12,7 +12,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 2/ **A new entrant that displays perhaps the most accurate encapsulation of this peculiar moment** takes the form of an independent email blast: “What The Fuck Just Happened Today?” The aptly named roundup does the yeoman’s work. ([Columbia Journalism Review](http://www.cjr.org/criticism/donald-trump-news-cycle-slow-news-day.php){:target="_blank"})
 
-3/ **100 Days of WTF Just Happened Today?** My constant companion in the past 100 days has been What the Fuck Just Happened Today? Don’t let the crass title fool you. The site is the best daily collection of the news out there. My favorite feature: the site is currently run by one guy. Matt Kiser is both reading the news and hand picking the stories you need to read. ([Rands in Repose](http://randsinrepose.com/archives/100-days-of-wtf-just-happened-today/){:target="_blank"})
+3/ **100 Days of WTF Just Happened Today?** My constant companion in the past 100 days has been [What the Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com/) Don’t let the crass title fool you. The site is the best daily collection of the news out there. My favorite feature: the site is currently run by one guy. Matt Kiser is both reading the news and hand picking the stories you need to read. ([Rands in Repose](http://randsinrepose.com/archives/100-days-of-wtf-just-happened-today/){:target="_blank"})
 
 4/ **Your Guide to the Sprawling New Anti-Trump Resistance Movement**. An explosion of new activism offers a ray of hope in these dark political times. ([The Nation](https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/){:target="_blank"})
 

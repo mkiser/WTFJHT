@@ -6,17 +6,11 @@ image:
   facebook: /public/wtfjht-f.jpg
 ---
 
- <!-- Pledge Drive -->
-<!--  {% include pledge3.html %}
- -->
 <!-- MailChimp -->
 {% include email.html %}
 
-<!--End mc_embed_signup-->
-
-
 <div class="posts">
-  {% for post in site.posts limit:7 %}
+  {% for post in site.posts %}
   <article class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">

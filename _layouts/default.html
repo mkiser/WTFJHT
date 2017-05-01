@@ -4,7 +4,10 @@
   <body>
     <div class="container content">
       <header class="masthead">
-          <div class="wtf-pagination">Day: {% for post in site.posts reversed %} <a href="{{ site.baseurl }}{{ post.url }}">{{ forloop.index }}</a>{% endfor %}
+          <div class="wtf-pagination">
+            <a href="{{ site.baseurl }}/">WTF</a> | 
+            {% for post in site.posts limit:1 %} <a href="{{ site.baseurl }}{{ post.url }}">Today</a>{% endfor %} | 
+            {% for post in site.posts limit:1 offset:1 %} <a href="{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} | <a href="{{ site.baseurl }}/first-100-days/">First 100 Days</a> | <a href="{{ site.baseurl }}/guide/internet-security/">Internet Security Guide</a> | <a href="{{ site.baseurl }}/all/">All</a>
           </div>
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>

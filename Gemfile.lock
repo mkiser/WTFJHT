@@ -42,7 +42,7 @@ GEM
     ffi (1.9.18)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
-    github-pages (135)
+    github-pages (136)
       activesupport (= 4.2.7)
       github-pages-health-check (= 1.3.3)
       jekyll (= 3.4.3)
@@ -59,7 +59,7 @@ GEM
       jekyll-redirect-from (= 0.12.1)
       jekyll-relative-links (= 0.4.0)
       jekyll-sass-converter (= 1.5.0)
-      jekyll-seo-tag (= 2.2.0)
+      jekyll-seo-tag (= 2.2.2)
       jekyll-sitemap (= 1.0.0)
       jekyll-swiss (= 0.4.0)
       jekyll-theme-architect (= 0.0.4)
@@ -135,7 +135,7 @@ GEM
       jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
-    jekyll-seo-tag (2.2.0)
+    jekyll-seo-tag (2.2.2)
       jekyll (~> 3.3)
     jekyll-sitemap (1.0.0)
       jekyll (~> 3.3)
@@ -225,7 +225,7 @@ PLATFORMS
 DEPENDENCIES
   algoliasearch-jekyll (~> 0.8.0)
   amp-jekyll
-  github-pages (= 135)
+  github-pages (= 136)
   jekyll-paginate
   jekyll-redirect-from
   jekyll-sitemap

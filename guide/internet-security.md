@@ -28,9 +28,11 @@ Check [twofactorauth.org](https://twofactorauth.org/){:target="_blank"} for a co
 
 ## 2/ Use Strong Passwords
 
-You already know what to do. Just do it. And, just because you're using two-factor authentication for everything doesn't mean you can skimp on your passwords. Did I say password with an S? Yes. Use a unique password for every service you use – do not repeat your same password over and over. And, **never** use the password you’ve picked for your email account for any site.
+You already know what to do. Just do it. And, just because you're using two-factor authentication for everything doesn't mean you can skimp on your passwords. 
 
-Strong passwords are 12-14 characters in length and a mix of capital and lowercase letters, numbers, and punctuation. Don’t use the same password for every site or service. Change your passwords twice year (I change mine when I go to the dentist). Don't keep a text file or email to yourself with all your passwords listed.
+Did I say password with an S? Yes. Use a unique password for every service you use – do not repeat your same password over and over. And, **never** use the password you’ve picked for your email account for any site.
+
+**Strong passwords are 12-14 characters** in length and a mix of capital and lowercase letters, numbers, and punctuation. Don’t use the same password for every site or service. Change your passwords twice year (I change mine when I go to the dentist). Don't keep a text file or email to yourself with all your passwords listed.
 
 **An easy way to create and remember a strong password** is to combine a memorable sentence with some unique capitalization and punctuation to modify the sentence into a password. 
 

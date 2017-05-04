@@ -14,18 +14,6 @@
           </p>
       </footer>
     </div>
-
-  <script>
-    document.addEventListener("DOMContentLoaded", function(event) {
-      anchors.options = {
-        placement: 'left',
-        visible: 'touch',
-        truncate: "24"
-      };
-      anchors.add('.post-content > p, .post > p');
-    });
-  </script>
-
 <!-- ALGOLIA -->
   <script>
     window.ALGOLIA_CONFIG = {
@@ -57,7 +45,15 @@
   <script src="{{ site.baseurl }}/public/js/moment.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
 
-<!-- Genius POST PAGES ONLY-->
-  <!-- {% if page.id %} <script async src="//genius.codes"></script> {% endif %} -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      anchors.options = {
+        placement: 'left',
+        visible: 'touch',
+        truncate: "36"
+      };
+      anchors.add('.post-content > p, .post > p');
+    });
+  </script>
   </body>
 </html>

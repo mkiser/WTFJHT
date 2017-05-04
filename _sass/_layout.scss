@@ -118,3 +118,12 @@ footer {
   padding: 1rem;
   border-bottom: 1px solid #ccc;
 }
+
+.anchorjs-link {
+  transition: all .25s linear;
+  text-decoration: none;
+  color: #9a9a9a;
+}
+*:hover > .anchorjs-link {
+  margin-left: -1.125em !important;
+}

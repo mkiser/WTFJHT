@@ -15,6 +15,17 @@
       </footer>
     </div>
 
+  <script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+      anchors.options = {
+        placement: 'left',
+        visible: 'touch',
+        truncate: "24"
+      };
+      anchors.add('.post-content > p, .post > p');
+    });
+  </script>
+
 <!-- ALGOLIA -->
   <script>
     window.ALGOLIA_CONFIG = {
@@ -38,6 +49,7 @@
   <script id="algolia__template--no-results" type="text/template">
     Fake news not found.
   </script>
+  <script src="{{ site.baseurl }}/public/js/anchor.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algoliasearch.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algoliasearch.helper.min.js"></script>

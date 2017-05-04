@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  The Normal Person's Guide to Internet Security
-description: The six things everyone should to protect themselves on the internet. 
+description: The six things everyone should do to protect themselves on the internet. 
 date:   2017-03-30
 image:
   twitter: /public/internet-security-guide-t.jpg

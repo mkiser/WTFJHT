@@ -40,7 +40,7 @@ For example, "I love to eat pizza in my pajamas in the morning!" Could easily tu
 
 Get it? *I <3 2 e(at) p(izza) i(n) m(y) (p)ajamas i(n) t(he) m(orning) !*
 
-**On your phone**. Turn on your phone’s password protection and set it to always require a passcode. Use the fingerprint reader. 
+**On your phone**. Turn on your phone’s password protection and set it to always require a passcode. Use the fingerprint reader. Set notifications to not show on lock screen.
 
 **On your computer**. Set a login password. Require a password immediately after waking from sleep and the screen saver. Lock your screen when you walk away from your computer. (One easy way to do this is to create a hot corner on your screen that immediately starts your screensaver.)
 

@@ -48,13 +48,21 @@ algolia:
   excluded_files:
     - 404.html
     - about.md
+    - all.html
+    - archive.md
+    - atom.xml
     - faq.md
+    - first-100-days.html
     - index.html
+    - instant-feed.xml
+    - instantfeed.xml
     - membership.md
     - press.md
     - rss.xml
-    - atom.xml
     - styles.css
+    - today.html
+    - whitelist.html
+    - yesterday.html
 
 # Gems
 gems:

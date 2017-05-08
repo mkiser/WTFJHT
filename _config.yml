@@ -64,6 +64,10 @@ algolia:
     - whitelist.html
     - yesterday.html
 
+extlinks:
+  attributes: {target: _blank, class: external}
+  rel_exclude: ['whatthefuckjusthappenedtoday.com']
+
 # Gems
 gems:
   - jekyll-gist
@@ -73,5 +77,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - algoliasearch-jekyll
+  - jekyll-extlinks
   # - amp-jekyll
   # - jekyll-admin

@@ -45,15 +45,7 @@
   <script src="{{ site.baseurl }}/public/js/moment.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
 
-  <script>
-    document.addEventListener("DOMContentLoaded", function(event) {
-      anchors.options = {
-        placement: 'left',
-        visible: 'touch',
-        truncate: "36"
-      };
-      anchors.add('.post-content > p, .post > p, .post li, .post blockquote p');
-    });
-  </script>
+  {% include anchors.html %}
+  {% include clickEvent.html %}
   </body>
 </html>

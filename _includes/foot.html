@@ -44,7 +44,17 @@
   <script src="{{ site.baseurl }}/public/js/hogan.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/moment.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
-
+  <script src="{{ site.baseurl }}/public/js/jquery.scrolldepth.min.js"></script>
+  <script src="{{ site.baseurl }}/public/js/riveted.min.js"></script>
+  <script>riveted.init();</script>
+  <script>
+  jQuery(function() {
+    jQuery.scrollDepth({
+      userTiming: false,
+      pixelDepth: false
+    });
+  });
+  </script>
   {% include anchors.html %}
   {% include clickEvent.html %}
   </body>

@@ -12,7 +12,7 @@ tagline:          "Today's essential newsletter. Logging the daily shock and awe
 description:      "Today's essential newsletter. Logging the daily shock and awe in national politics. Read in moderation."
 url:              "https://whatthefuckjusthappenedtoday.com"
 baseurl:          ""
-paginate:         7
+# paginate:         7
 twitter:
   username: WTFJHT
 

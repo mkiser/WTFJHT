@@ -3,12 +3,25 @@
   {% include head.html %}
   <body>
     <div class="container content">
+       <nav class="wtf-pagination">
+          <div class="menu">
+            <div><a href="{{ site.baseurl }}/">Home</a> | </div>
+            <div>
+              {% for post in site.posts limit:1 %} 
+              <a href="{{ site.baseurl }}{{ post.url }}">Today</a>{% endfor %} | 
+            </div>
+            <div>
+              {% for post in site.posts limit:1 offset:1 %} <a href="{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} | 
+            </div>
+            <div><a href="{{ site.baseurl }}/all/">All</a> | </div>
+              <div><a href="{{ site.baseurl }}/first-100-days/">First 100 Days</a> | </div>
+              <div><a href="{{ site.baseurl }}/guide/internet-security/">Internet Security Guide</a> | </div>
+            <div><a href="{{ site.baseurl }}/membership/">Membership</a></div>
+          </ul>
+        </nav>
+      </div>
+
       <header class="masthead">
-          <div class="wtf-pagination">
-            <a href="{{ site.baseurl }}/">Home</a> | 
-            {% for post in site.posts limit:1 %} <a href="{{ site.baseurl }}{{ post.url }}">Today</a>{% endfor %} | 
-            {% for post in site.posts limit:1 offset:1 %} <a href="{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} | <a href="{{ site.baseurl }}/first-100-days/">First 100 Days</a> | <a href="{{ site.baseurl }}/guide/internet-security/">Internet Security Guide</a> | <a href="{{ site.baseurl }}/all/">All</a>
-          </div>
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
         </h3>
@@ -18,9 +31,7 @@
          </span>
      
          </div>
-        <div>
 
-        </div> 
         <div class="wtf-search">
           <div class="outer-wrapper">
             <div class="input-wrapper">

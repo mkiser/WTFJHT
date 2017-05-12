@@ -38,7 +38,7 @@ Did I say password with an S? Yes. Use a unique password for every service you u
 
 For example, "I love to eat pizza in my pajamas in the morning!" Could easily turn into the password: I<32epimpithm!.
 
-Get it? *I <3 2 e(at) p(izza) i(n) m(y) (p)ajamas i(n) t(he) m(orning) !*
+Get it? *I <3 2 e(at) p(izza) i(n) m(y) p(ajamas) i(n) t(he) m(orning) !*
 
 **On your phone**. Turn on your phone’s password protection and set it to always require a passcode. Use the fingerprint reader. Set notifications to not show on lock screen.
 

@@ -11,8 +11,10 @@ gem 'jekyll-sitemap'
 gem 'amp-jekyll'
 gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
+gem 'jekyll-extlinks'
 group :jekyll_plugins do
   gem 'jekyll_pages_api'
   gem 'algoliasearch-jekyll', '~> 0.8.0'
+  # gem 'jekyll-admin'
 end
 # gem 'jekyll-last-modified-at'

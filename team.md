@@ -14,4 +14,6 @@ These fine folks have donated their time toward making WTFJHT happen.
 
 **Who The Fuck Has Offered Technical Assistance?** [Jonathan Wight](https://github.com/schwa){:target="_blank"}, [Morgante Pell](https://github.com/morgante){:target="_blank"}
 
+**Alexa, WTF Just Happened Today?** [Jonathan Howard](http://jon.how/ard/){:target="_blank"}
+
 **Who The Fuck Supports This?** [YOU.]({{ site.baseurl }}/membership)

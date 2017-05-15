@@ -1,3 +1,6 @@
+sudo: required
+dist: precise
+
 language: ruby
 cache: bundler
 rvm:

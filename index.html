@@ -7,8 +7,8 @@ image:
 ---
 
  <!-- Pledge Drive -->
- {% include pledge.html %}
-
+<!--  {% include pledge3.html %}
+ -->
 <!-- MailChimp -->
 {% include email.html %}
 
@@ -16,7 +16,7 @@ image:
 
 
 <div class="posts">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:7 %}
   <article class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">

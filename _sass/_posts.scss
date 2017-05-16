@@ -30,6 +30,15 @@
     list-style-type: none;
 
     li {
+      position: relative;
+      margin-bottom: 1em;
+      
+      .anchorjs-link {
+        left: 0;
+      }
+      
+    }
+    li + li {
       margin-top: 2em;
     }
 
@@ -70,7 +79,9 @@
     }
   }
 
-  p + p {
+  p + p,
+  p + ol,
+  ol + p {
     margin-top: 2em;
   }
 

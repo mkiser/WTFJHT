@@ -68,7 +68,7 @@ algolia:
     - yesterday.html
 
 extlinks:
-  attributes: {target: _blank, class: external}
+  attributes: {target: _blank, rel: noopener, class: external}
   rel_exclude: ['whatthefuckjusthappenedtoday.com']
 
 # Gems

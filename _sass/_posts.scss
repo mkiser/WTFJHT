@@ -35,12 +35,12 @@
     font-size: .8em;
     color: $gray-3;
     list-style: none;
-      
+
       .jekyll-twitter-plugin,
       blockquote {
         margin-left: 0;
       }
-      
+
     a {
       color: #0093f0;
     }
@@ -81,6 +81,10 @@
     p + p {
       margin-top: -1em;
     }
+  }
+
+  blockquote.twitter-tweet p {
+    color: maroon;
   }
 }
 

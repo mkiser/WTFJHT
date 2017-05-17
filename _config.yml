@@ -1,10 +1,6 @@
 # Permalinks
 permalink:           pretty
 
-# collections:
-#   guides:
-#     output: true
-#     permalink: pretty
 # Setup
 title:            What The Fuck Just Happened Today?
 name:             "What The Fuck Just Happened Today?"
@@ -12,10 +8,23 @@ tagline:          "Today's essential newsletter. Logging the daily shock and awe
 description:      "Today's essential newsletter. Logging the daily shock and awe in national politics. Read in moderation."
 url:              "https://whatthefuckjusthappenedtoday.com"
 baseurl:          ""
-paginate:         7
+
 twitter:
   username: WTFJHT
 
+social:
+  name: Matt Kiser
+  links:
+    - https://twitter.com/matt_kiser
+    - https://www.facebook.com/mattkiser
+    - https://www.linkedin.com/in/mattkiser
+    - https://github.com/mkiser
+
+# About/contact
+# author:
+#   name:             'Matt Kiser'
+#   url:              'https://whatthefuckjusthappenedtoday.com'
+#   email:            'matt@whatthefuckjusthappenedtoday.com'
 
 facebook:
   app_id: 601457263382211
@@ -23,16 +32,9 @@ facebook:
 ampdir: amp
 
 # Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
 sass:
   sass_dir:          _sass
   style:            :compressed
-# About/contact
-# author:
-#   name:             'Matt Kiser'
-#   url:              'https://whatthefuckjusthappenedtoday.com'
-#   email:            'matt@whatthefuckjusthappenedtoday.com'
 
 # Custom vars
 version:             1.0.0
@@ -49,13 +51,25 @@ algolia:
   excluded_files:
     - 404.html
     - about.md
+    - all.html
+    - archive.md
+    - atom.xml
     - faq.md
+    - first-100-days.html
     - index.html
+    - instant-feed.xml
+    - instantfeed.xml
     - membership.md
     - press.md
     - rss.xml
-    - atom.xml
     - styles.css
+    - today.html
+    - whitelist.html
+    - yesterday.html
+
+extlinks:
+  attributes: {target: _blank, rel: noopener, class: external}
+  rel_exclude: ['whatthefuckjusthappenedtoday.com']
 
 # Gems
 gems:
@@ -66,4 +80,6 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - algoliasearch-jekyll
+  - jekyll-extlinks
   # - amp-jekyll
+  # - jekyll-admin

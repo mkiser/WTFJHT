@@ -77,3 +77,20 @@ mark {
 img {
   max-width: 100%
 }
+
+.menu {
+  display: flex;
+  align-items: center;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+@media (max-width: 650px) {
+  .menu {
+    flex-wrap: wrap;
+  }
+}

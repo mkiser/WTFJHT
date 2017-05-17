@@ -14,7 +14,6 @@
           </p>
       </footer>
     </div>
-
 <!-- ALGOLIA -->
   <script>
     window.ALGOLIA_CONFIG = {
@@ -38,14 +37,30 @@
   <script id="algolia__template--no-results" type="text/template">
     Fake news not found.
   </script>
+  
+  <script src="{{ site.baseurl }}/public/js/anchor.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algoliasearch.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algoliasearch.helper.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/hogan.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/moment.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
-
-<!-- Genius POST PAGES ONLY-->
-  <!-- {% if page.id %} <script async src="//genius.codes"></script> {% endif %} -->
+  <script src="{{ site.baseurl }}/public/js/jquery.scrolldepth.min.js"></script>
+  <script src="{{ site.baseurl }}/public/js/riveted.min.js"></script>
+  <script>riveted.init();</script>
+  
+  <script>
+  jQuery(function() {
+    jQuery.scrollDepth({
+      userTiming: false,
+      pixelDepth: false
+    });
+  });
+  </script>
+  {% include clickEvent.html %}
+  {% if page.layout == 'post' %}
+    {% include h.html %}
+    {% include anchors.html %}
+  {% endif %}
   </body>
 </html>

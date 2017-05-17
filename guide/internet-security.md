@@ -50,7 +50,9 @@ For more on passwords, read [Password Do’s and Don’ts from Krebs on Security
 
 ## 3/ Install an ad blocker
 
-**uBlock Origin**. It's free and takes two seconds to install on your browser. Get it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en){:target="_blank"} and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}. The [Safari](https://github.com/el1t/uBlock-Safari) installation is a little trickier – you'll have to do it manually. [Follow the instructions here](https://github.com/el1t/uBlock-Safari/tree/safari/dist#install){:target="_blank"} to download and install (it takes five total clicks). uBlock Origin is an ad blocker that does exactly what you think it does: prevents ads from loading on web pages. This is great for several reasons: faster web browsing, less stuff to download, and it prettifies web sites. But the best reason is that they also block those sneaky trackers used to retarget the same ad over and over again.
+**uBlock Origin**. It's free and takes two seconds to install on your browser. Get it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en){:target="_blank"} and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}. The [Safari](https://github.com/el1t/uBlock-Safari) installation is a little trickier – you'll have to do it manually. [Follow the instructions here](https://github.com/el1t/uBlock-Safari/tree/safari/dist#install){:target="_blank"} to download and install (it takes five total clicks). 
+
+uBlock Origin is an ad blocker that does exactly what you think it does: prevents ads from loading on web pages. This is great for several reasons: faster web browsing, less stuff to download, and it prettifies web sites. But the best reason is that they also block those sneaky trackers used to retarget the same ad over and over again.
 
 **AdBlock**. Also free and easy to install. It's [available for all browsers](https://getadblock.com){:target="_blank"}.
 
@@ -62,9 +64,7 @@ HTTPS Everywhere from the [Electronic Frontier Foundation](https://www.eff.org/)
 
 ## 5/ Install a content blocker
 
-Privacy Badger is similar to an ad blocker, but for preventing third-party cookies from recording your browsing habits. 
-
-**Privacy Badger**. This is another free browser extension, to block certain cookies and third-party content. Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="_blank"} here. Sorry Safari. Privacy Badger is a free browser extension that blocks certain cookies and third-party content.
+**Privacy Badger**. Privacy Badger is similar to an ad blocker, but for preventing third-party cookies from recording your browsing habits. This is a free browser extension, to block certain cookies and third-party content. Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="_blank"} here. Sorry Safari. Privacy Badger is a free browser extension that blocks certain cookies and third-party content.
 
 **Ghostery**. Ghostery is another free browser extension to block tracking. It's [available for all browsers](https://www.ghostery.com/products/){:target="_blank"}.
 

@@ -51,10 +51,10 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/DaveLeeBBC/status/830907636006547456 hide_media=true %}
 {% twitter https://twitter.com/AstroKatie/status/828358586161991680 hide_media=true %}
 {% twitter https://twitter.com/sarahkendzior/status/828017059573485568 hide_media=true %}
-{% twitter https://twitter.com/lionschmion/status/827651042565185536 hide_media=true %}
 {% twitter https://twitter.com/brownorama/status/834769842339213318 hide_media=true %}
 {% twitter https://twitter.com/rands/status/830083130916605952 hide_media=true %}
 {% twitter https://twitter.com/rands/status/832400035463589888 hide_media=true %}
+{% twitter https://twitter.com/imemi/status/864679621601656833 hide_media=true %}
 {% twitter https://twitter.com/Anthony/status/847537862094573572 hide_media=true %}
 {% twitter https://twitter.com/MichelleRafter/status/833476858368843776 hide_media=true %}
 {% twitter https://twitter.com/th3j35t3r/status/857606607399776256 hide_media=true %}
@@ -70,6 +70,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/poynter/status/831516097430036480 hide_media=true %}
 {% twitter https://twitter.com/summerbrennan/status/830094832462868480 hide_media=true %}
 {% twitter https://twitter.com/SophiaCannon/status/829690313170120704 hide_media=true %}
+{% twitter https://twitter.com/GloriaFallon123/status/864800682901110786 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/DylanJobe/status/831696596828094464 hide_media=true %}
 {% twitter https://twitter.com/davidbauer/status/831760531279183872 hide_media=true %}
 {% twitter https://twitter.com/KenPlume/status/828165230849060864 hide_media=true %}
@@ -81,6 +82,8 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/Chris_Randall/status/836250181095968768 hide_media=true %}
 {% twitter https://twitter.com/Ashadahya/status/833452547360780288 hide_media=true %}
 {% twitter https://twitter.com/couchtomoon/status/830961493449531393 hide_media=true %}
+{% twitter https://twitter.com/jesseisgolfing/status/864925693276246016 hide_media=true hide_thread=true %}
+{% twitter https://twitter.com/chesleydohl/status/864885824063553536 hide_media=true %}
 {% twitter https://twitter.com/dirkprimbs/status/862927027514601473 hide_media=true %}
 {% twitter https://twitter.com/StephanieWei/status/863052837454045186 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/mikewhills/status/864249722315386880 hide_media=true hide_thread=true %}

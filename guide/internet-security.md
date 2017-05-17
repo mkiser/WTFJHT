@@ -48,7 +48,7 @@ Get it? *I <3 2 e(at) p(izza) i(n) m(y) p(ajamas) i(n) t(he) m(orning) !*
 
 For more on passwords, read [Password Do’s and Don’ts from Krebs on Security](https://krebsonsecurity.com/password-dos-and-donts/){:target="_blank"}.
 
-## 3/ Install uBlock Origin
+## 3/ Install an ad blocker
 
 **uBlock Origin**. It's free and takes two seconds to install on your browser. Get it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en){:target="_blank"} and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}. The [Safari](https://github.com/el1t/uBlock-Safari) installation is a little trickier – you'll have to do it manually. [Follow the instructions here](https://github.com/el1t/uBlock-Safari/tree/safari/dist#install){:target="_blank"} to download and install (it takes five total clicks). uBlock Origin is an ad blocker that does exactly what you think it does: prevents ads from loading on web pages. This is great for several reasons: faster web browsing, less stuff to download, and it prettifies web sites. But the best reason is that they also block those sneaky trackers used to retarget the same ad over and over again.
 
@@ -60,7 +60,7 @@ HTTPS works by encrypting traffic between the websites you visit and the device 
 
 HTTPS Everywhere from the [Electronic Frontier Foundation](https://www.eff.org/){:target="_blank"} is a free browser extension that will encrypt your communication with most major websites by loading the content over an HTTPS connection rather than a standard HTTP connection when possible. Get it here: [EFF.org/https-everywhere](https://www.eff.org/https-everywhere){:target="_blank"}
 
-## 5/ Install Privacy Badger
+## 5/ Install a content blocker
 
 Privacy Badger is similar to an ad blocker, but for preventing third-party cookies from recording your browsing habits. 
 

@@ -40,7 +40,7 @@ For example, "I love to eat pizza in my pajamas in the morning!" Could easily tu
 
 Get it? *I <3 2 e(at) p(izza) i(n) m(y) p(ajamas) i(n) t(he) m(orning) !*
 
-**On your phone**. Turn on your phone’s password protection and set it to always require a passcode. Use the fingerprint reader. Set notifications to not show on lock screen.
+**On your phone**. Turn on your phone’s password protection and set it to always require a passcode. **DO NOT use the fingerprint reader, police and other people with malicious intent can force you to open your phone this way.** Set notifications to not show on lock screen.
 
 **On your computer**. Set a login password. Require a password immediately after waking from sleep and the screen saver. Lock your screen when you walk away from your computer. (One easy way to do this is to create a hot corner on your screen that immediately starts your screensaver.)
 
@@ -48,19 +48,59 @@ Get it? *I <3 2 e(at) p(izza) i(n) m(y) p(ajamas) i(n) t(he) m(orning) !*
 
 For more on passwords, read [Password Do’s and Don’ts from Krebs on Security](https://krebsonsecurity.com/password-dos-and-donts/){:target="_blank"}.
 
-## 3/ Install uBlock Origin
+## 3/ Protect your Texts
+
+**Signal**
+
+Signal is free, open-source app for encrypted texting by the security gurus at (https://en.wikipedia.org/wiki/Open_Whisper_Systems){:target="_blank"} Open Whisper Systems. 
+
+When you send a text to a friend that is also using Signal, the text will be encrypted so that only you and your friend can read the text on your phones. This happens automatically without any effort on your part! And the only information available to people monitoring the cell network is who sent the text, who received it, and when it was received: they cannot see the contents of the text.
+
+Texts sent to friends not on Signal will be unencrypted, but having the option makes these apps perfect as your general purpose texting app. Especially nifty is that regardless of whether your texts were encrypted for the recipient, they will be encrypted locally on your phone. So if someone ever got control of your phone, they would still need to decrypt your app (and your phone!) to see your stored messages (which the vast majority of thieves and hackers could not do).
+
+The Electronic Frontier Foundation offers guides for using Signal.
+
+(https://ssd.eff.org/en/module/how-use-signal-ios){:target="_blank"} Signal on iOS
+
+(https://ssd.eff.org/en/node/93/){:target="_blank"} Signal on Android.
+
+## 4/ Mobile Privacy: Firefox Focus and Firefox for Android
+
+Because we use our phones constantly to browse the internet, it is important to note some apps that can imporve browser security from your iOS and Android devices. Although you have **much** less control while browsing the internet from your mobile device, the developers at Mozilla have released easy to use apps that work on most smart phones.
+
+**Firefox Focus for iOS**
+
+Firefox Focus is a web browser dedicated to private browsing. By blocking malicious trackers and advertisements, Firefox Focus mitigates website surveillance while increasing the speed of your web pages. It also serves as a content-blocker on iOS, meaning you can enjoy its privacy features in other apps. To enable these features in Safari, go to Safari under Settings, click 'Content Blockers', and enable Firefox Focus.
+
+Install for iOS (https://itunes.apple.com/app/id1055677337?mt=8){:target="_blank"} here
+
+Introductory blog post for more info can be found (https://blog.mozilla.org/blog/2016/11/17/introducing-firefox-focus-a-free-fast-and-easy-to-use-private-browser-for-ios/){:target="_blank"} here
+
+**Firefox for Android**
+
+Firefox for Android is a fast and reliable web browser that can install all the same extensions as the desktop version of Firefox. So if you want secure mobile browsing on Android, all you have to do is download Firefox for Android and start installing the secure tools in our Privacy Extensions section!
+
+Install for Android (https://play.google.com/store/apps/details?id=org.mozilla.firefox){:target="_blank"} here
+
+Official website can be found (https://www.mozilla.org/en-US/firefox/android/){:target="_blank"} here
+
+## 5/ Desktop/Laptop Privacy: Browser Extensions
+
+Browser extensions are a free and easy way to enhance and customize your browsing experience. Below are a few browser extensions that will help protect your while you are browsing the internet.
+
+**Install uBlock Origin**
 
 uBlock Origin is an ad blocker that does exactly what you think it does: prevents ads from loading on web pages. This is great for several reasons: faster web browsing, less stuff to download, and it prettifies web sites. But the best reason is that they also block those sneaky trackers used to retarget the same ad over and over again.
 
 uBlock Origin is free and takes two seconds to install on your browser. Get it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en){:target="_blank"} and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}. The [Safari](https://github.com/el1t/uBlock-Safari) installation is a little trickier – you'll have to do it manually. [Follow the instructions here](https://github.com/el1t/uBlock-Safari/tree/safari/dist#install){:target="_blank"} to download and install (it takes five total clicks).
 
-## 4/ Install HTTPS Everywhere
+**Install HTTPS Everywhere**
 
 HTTPS works by encrypting traffic between the websites you visit and the device you're using. Think of it as a way to protect yourself against inappropriate eavesdropping on your browsing habits.
 
 HTTPS Everywhere from the [Electronic Frontier Foundation](https://www.eff.org/){:target="_blank"} is a free browser extension that will encrypt your communication with most major websites by loading the content over an HTTPS connection rather than a standard HTTP connection when possible. Get it here: [EFF.org/https-everywhere](https://www.eff.org/https-everywhere){:target="_blank"}
 
-## 5/ Install Privacy Badger
+**Install Privacy Badger**
 
 Privacy Badger is similar to an ad blocker, but for preventing third-party cookies from recording your browsing habits. 
 
@@ -68,7 +108,17 @@ Privacy Badger is a free browser extension that blocks certain cookies and third
 
 Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="_blank"} here. Sorry Safari.
 
-## 6/ VPN (optional)
+**Install Disconnect.me**
+
+Disconnect identifies the “invisible” web, which is all the trackers, beacons, cookies, and other tools that websites and marketers use to track your activity across the internet. It blocks these malicious trackers from seeing your web activity, which in many cases will even make the site load faster. It's a great companion extension to Privacy Badger.
+
+Install for Firefox (https://addons.mozilla.org/en-US/firefox/addon/disconnect/){:target="_blank"} here
+
+Install for Chrome (https://chrome.google.com/webstore/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo?hl=en){:target="_blank"} here
+
+Official page for more info can be found (https://disconnect.me/){:target="_blank"} here
+
+## 5/ VPN (optional)
 
 >
 *NOTE: This is seriously overkill for most normal users. If you're going to inquire about a VPN, you'll need to do a fair amount of personal research. Free VPNs will likely cause more harm than good!*
@@ -81,6 +131,36 @@ A VPN stands for Virtual Private Network and is a way of using the internet in a
 **Using your VPN**. Some people leave their VPN on 24/7. Others only use it when they're doing something extra private (i.e. porn). If you're a normal person using the internet, I'd suggest this rule of thumb: if you're using the internet outside of your home, turn on your VPN. Note: if you're going to login to your bank or a financial institution, turn off your VPN – you'll likely get flagged and locked out of your account since you'll appear to be somewhere else in the world.
 
 **Check it's working**. With your VPN connected, head over to [ipleak.net](https://ipleak.net/){:target="_blank"} and see where in the world you're connected.
+
+## 6/ Scams, Hacks, and Phishing
+
+Believe it or not, the majority of successful hacks do not need advanced technical skills. Phishing is a very popular scam where a hacker will send you a professionally designed email pretending to be a website or service, including a website link for you to follow. When you click the link, it will take you to a seemingly legitimate website that asks for your password, ATM pin, or other information. But in reality, the website is a fake that collects the private data you mistakenly hand over!
+
+So how can you protect yourself against these sorts of attacks? We have a few pointers that will help you out!
+
+**Do not login to websites from a link in an email**
+
+As a rule of thumb, if an email link directs you to a login screen, you should be suspicious. It's best to simply go to the website yourself in your browser, login normally, and look for the page the email wanted you to browse. An exception is when you reset a password for a site (the website needs to provide a personalized link for you to change your password). In this case just make sure that you explicitly requested a password reset. And use a unique password just to be safe!
+
+**Always install software updates as soon as possible**
+
+Hackers often rely on exploitable vulnerabilities in popular software to target their victims. Software developers can quickly become aware of these vulnerabilities and release software updates to fix the issue. It's imperative that you keep your software up-to-date so that your apps have the latest security fixes available to you! This is easy to do too: when your computer notifies you that there are updates to install, just go ahead and do it. Especially make sure to install macOS, iOS, Android, and Windows operating system updates ASAP!
+
+**Try not to login to websites via Facebook, Twitter, or Google**
+
+Many websites offer the option of logging in with your social media account rather than having to create an account for the website. Although convenient, this presents a huge security risk: how do you know if this site is legitimate? By encouraging unsuspecting users to use their social media accounts, a malicious website can easily collect valuable names and passwords. It's much safer to just create a new account for the site.
+
+**Do not trust emails asking for personal information, survey data, or anything else that could reveal info about you, no matter how professional they look**
+
+The vast majority of websites do not need your personal data to provide their services, so be suspicious if they ask for it (besides, who cares what they want? It's not your responsibility to give them anything). If you think the request is legitimate, do not follow their supplied link: you should be able to do whatever you have to do by navigating their website in your browser. If you can't, they clearly have shitty security practices and you should be suspicious of them in general!
+
+**Use HTTPS connections whenever possible**
+
+I have already encouraged you to use the HTTPS Everywhere browser extension. When you connect to a website using HTTPS, your browser ensures the site is not a fake by verifying the site's HTTPS certificate is legitimate. Because fake sites cannot replicate the expected HTTPS certificate, your browser could give you a warning that a fake site is insecure. Trust your browser! By installing the HTTPS Everywhere extension, your browser will try to use HTTPS whenever possible, thus offering an easy first-line of defense against phishing scams.
+
+**Beware public wifi**
+
+When you are on a wifi network, anyone else using that network can watch or intercept your web traffic (even if it's a password-protected network). So an easy phishing scheme could be sitting in a coffee shop and intercepting all requests to facebook.com so everyone sees a fake phishing site instead, thus collecting many people's passwords. The absolute best protection is to use a Virtual Private Network to seamlessly encrypt your web traffic so it cannot be intercepted. If you're on a phone, try to only use your regularly installed apps for using websites rather than logging in through a browser (since phone browsing is much less secure).
 
 ## Summary
 

@@ -233,6 +233,4 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-sitemap
   jekyll_pages_api
-
-BUNDLED WITH
-   1.15.0
+  json

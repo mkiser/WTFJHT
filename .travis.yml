@@ -6,6 +6,7 @@ cache: bundler
 rvm:
 - 2.3.3
 before_install:
+- rm Gemfile.lock
 - gem update bundler
 before_script:
 - chmod +x ./script/cibuild

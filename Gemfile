@@ -12,5 +12,7 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
 gem 'jekyll-twitter-plugin'
 
-# gem 'jekyll-last-modified-at'
-# gem 'jekyll-gist'
+group :jekyll_plugins do
+  gem 'algoliasearch-jekyll'
+  gem 'jekyll_pages_api'
+end

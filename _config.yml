@@ -8,7 +8,12 @@ tagline:          "Today's essential newsletter. Logging the daily shock and awe
 description:      "Today's essential newsletter. Logging the daily shock and awe in national politics. Read in moderation."
 url:              "https://whatthefuckjusthappenedtoday.com"
 baseurl:          ""
-
+source:       .
+destination:  ./_site
+plugins_dir:  _plugins
+layouts_dir:  _layouts
+data_dir:     _data
+includes_dir: _includes
 twitter:
   username: WTFJHT
 
@@ -82,11 +87,4 @@ gems:
   - amp-jekyll
   - jekyll-twitter-plugin
   - jekyll-extlinks
-  # - jekyll-last-modified-at
-
-plugins_dir: [jekyll_pages_api, algoliasearch-jekyll]
-
-  # - jekyll_pages_api
-  # - algoliasearch-jekyll
-  # - jekyll_pages_api
   # - jekyll-admin

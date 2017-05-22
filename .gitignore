@@ -20,10 +20,6 @@ vendor
 *.vi
 *~
 
-# rebenv files
-.gems
-.rbenv-gemsets
-
 # OS or Editor folders
 .DS_Store
 ._*

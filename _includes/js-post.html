@@ -1,0 +1,7 @@
+<script>
+  var now = moment();
+  var updatedAtAttr = $('#post').attr("data-id");
+  var updatedAt = moment(updatedAtAttr).fromNow();
+  var momentDom = $('.postMoment');
+  momentDom.html(updatedAt);
+</script>

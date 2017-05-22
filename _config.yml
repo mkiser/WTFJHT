@@ -25,6 +25,14 @@ social:
     - https://www.linkedin.com/in/mattkiser
     - https://github.com/mkiser
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      class: post
+
 # About/contact
 # author:
 #   name:             'Matt Kiser'

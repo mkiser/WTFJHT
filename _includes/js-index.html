@@ -1,0 +1,9 @@
+<script>
+  $('.post').each(function(index, value){
+    var now = moment();
+    var updatedAtAttr = $(this).attr("data-id");
+    var updatedAt = moment(updatedAtAttr).fromNow();
+    var momentDom = $(this).find('.postMoment');
+    momentDom.html(updatedAt);
+  })
+</script>

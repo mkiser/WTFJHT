@@ -17,7 +17,7 @@ image:
 
 <div class="posts">
   {% for post in site.posts limit:7 %}
-  <article class="post">
+  <article class="post" data-id="{{ post.last_modified | date_to_xmlschema }}">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}:
@@ -25,11 +25,10 @@ image:
     </h2>
     <time datetime="{{ post.last_modified | date_to_xmlschema }}" class="post-date">
        {{ post.date | date: "%m/%d/%Y" }}
-    <small><em>Updated: {{ post.last_modified | date: "%m/%d/%Y %r %Z"}} 
-    </em></small>
+    <small><em>Updated <span class="postMoment"></span></em></small>
   </time>
- 
+
     {{ post.content }}
   </article>
-  {% endfor %} 
-</div> 
+  {% endfor %}
+</div>

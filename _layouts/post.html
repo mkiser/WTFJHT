@@ -3,21 +3,21 @@ layout: default
 ---
    <!-- Pledge Drive -->
  <!-- {% include pledge3.html %} -->
-            
+
 <!-- MailChimp -->
 {% include email.html %}
 
-<article class="post">
+<article id="post" class="post" data-id="{{ page.last_modified | date_to_xmlschema }}">
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ post.url }}">
       {{ page.title }}:
     <span class="post-small">{{ page.description }}</span></a>
   </h1>
   <time datetime="{{ page.last_modified | date_to_xmlschema }}" class="post-date">
-    {{ page.date | date: "%m/%d/%Y" }} {% include read_time.html %} 
+    {{ page.date | date: "%m/%d/%Y" }} {% include read_time.html %}
     <br>
     <small>
-      <em>Updated: {{ page.last_modified | date: "%m/%d/%Y %r %Z"}}</em>
+      <em>Updated <span class="postMoment"></span></em>
     </small><br>
     <small>
       <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">See revision history</a>
@@ -27,9 +27,9 @@ layout: default
   {{ content | extlinks }}
 </div>
   <p>
-    <small><strong>Subscribe:</strong> <a href="http://eepurl.com/cAiR-b" target="_blank">Get the Daily WTF in your inbox for free</a> 
+    <small><strong>Subscribe:</strong> <a href="http://eepurl.com/cAiR-b" target="_blank">Get the Daily WTF in your inbox for free</a>
     </small>
-  </p>  
+  </p>
 
  <!-- Pledge Drive -->
   {% include pledge.html %}

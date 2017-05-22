@@ -12,6 +12,7 @@ module Jekyll
 
       # Adds the site source, so that it also works with a custom one
       site_source = context.registers[:site].config['source']
+      # site_source = context.registers[:page]["path"]
       file_path = site_source + '/' + url
 
       # Return last modified date

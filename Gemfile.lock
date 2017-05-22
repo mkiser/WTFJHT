@@ -8,25 +8,10 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.1)
       public_suffix (~> 2.0, >= 2.0.2)
-    algoliasearch (1.13.0)
-      httpclient (~> 2.8.3)
-      json (>= 1.5.1)
-    algoliasearch-jekyll (0.8.0)
-      algoliasearch (~> 1.4)
-      appraisal (~> 2.1.0)
-      awesome_print (~> 1.6)
-      json (~> 1.8)
-      nokogiri (~> 1.6)
-      verbal_expressions (~> 0.1.5)
     amp-jekyll (1.0.1)
       fastimage (>= 1.8.0)
       jekyll (~> 3.0)
       nokogiri (>= 1.6.0)
-    appraisal (2.1.0)
-      bundler
-      rake
-      thor (>= 0.14.0)
-    awesome_print (1.7.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -92,8 +77,6 @@ GEM
     html-pipeline (2.5.0)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    htmlentities (4.3.4)
-    httpclient (2.8.3)
     i18n (0.8.1)
     jekyll (3.4.3)
       addressable (~> 2.4)
@@ -170,17 +153,14 @@ GEM
       jekyll (~> 3.3)
     jekyll-titles-from-headings (0.1.5)
       jekyll (~> 3.3)
+    jekyll-twitter-plugin (2.0.0)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    jekyll_pages_api (0.1.6)
-      htmlentities (~> 4.3)
-      jekyll (>= 2.0, < 4.0)
     jemoji (0.8.0)
       activesupport (~> 4.0)
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0)
-    json (1.8.6)
     kramdown (1.13.2)
     liquid (3.0.6)
     listen (3.0.6)
@@ -200,7 +180,6 @@ GEM
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.5)
-    rake (12.0.0)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.8)
       ffi (>= 0.5.0)
@@ -212,25 +191,24 @@ GEM
       faraday (~> 0.8, < 1.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    thor (0.19.4)
     thread_safe (0.3.6)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
     unicode-display_width (1.2.1)
-    verbal_expressions (0.1.5)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  algoliasearch-jekyll (~> 0.8.0)
   amp-jekyll
   github-pages (= 138)
   jekyll-extlinks
   jekyll-paginate
   jekyll-redirect-from
   jekyll-sitemap
-  jekyll_pages_api
-  json
+  jekyll-twitter-plugin
+
+BUNDLED WITH
+   1.15.0

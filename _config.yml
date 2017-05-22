@@ -79,7 +79,14 @@ gems:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-  - algoliasearch-jekyll
+  - amp-jekyll
+  - jekyll-twitter-plugin
   - jekyll-extlinks
-  # - amp-jekyll
+  # - jekyll-last-modified-at
+
+plugins_dir: [jekyll_pages_api, algoliasearch-jekyll]
+
+  # - jekyll_pages_api
+  # - algoliasearch-jekyll
+  # - jekyll_pages_api
   # - jekyll-admin

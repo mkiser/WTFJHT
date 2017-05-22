@@ -7,11 +7,11 @@
           <div class="menu">
             <div><a href="{{ site.baseurl }}/">Home</a> | </div>
             <div>
-              {% for post in site.posts limit:1 %} 
-              <a href="{{ site.baseurl }}{{ post.url }}">Today</a>{% endfor %} | 
+              {% for post in site.posts limit:1 %}
+              <a href="{{ site.baseurl }}{{ post.url }}">Today</a>{% endfor %} |
             </div>
             <div>
-              {% for post in site.posts limit:1 offset:1 %} <a href="{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} | 
+              {% for post in site.posts limit:1 offset:1 %} <a href="{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} |
             </div>
             <div><a href="{{ site.baseurl }}/all/">All</a> | </div>
               <div><a href="{{ site.baseurl }}/first-100-days/">First 100 Days</a> | </div>
@@ -27,9 +27,9 @@
         </h3>
         <div class="wtf-tagline">
           <small>{{ site.tagline }} <br>by <a href="https://twitter.com/matt_kiser">@matt_kiser</a></small>
-          <br> <span class="site-updated">Site updated: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%m/%d/%Y %r %Z" }}</time>
+          <br> <span class="site-updated">Site updated: <time datetime="{{ site.time | date_to_xmlschema }}"><span id="moment"></span>: {{ site.time | date: "%m/%d/%Y %r %Z" }}</time>
           </span>
-     
+
          </div>
 
         <div class="wtf-search">
@@ -42,7 +42,7 @@
         </div>
       </header>
 
-      <main> 
+      <main>
         <!-- ALGOLIA -->
         <div class="wtf-search-results">
           <div class="algolia__search-content js-algolia__search-content">
@@ -58,4 +58,4 @@
 
       {% include foot.html %}
 
-     
+

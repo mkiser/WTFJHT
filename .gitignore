@@ -5,6 +5,8 @@ _gh_pages
 .tweet-cache
 _site
 _algolia_api_key
+vendor
+.bundle
 
 # Numerous always-ignore extensions
 *.diff

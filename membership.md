@@ -20,11 +20,9 @@ Don't believe the hype? Here's [what the smartest people on the Internet are say
 
 1/ **Share WTF Just Happened Today with a friend**. Tell your friends about the newsletter and share the daily dispatches on social media. It's free and has massive impact. It's this easy: [Tweet it](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F){:target="_blank"} or [share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com){:target="_blank"}
 
-2/ **Buy limited edition WTFJHT t-shirts, stickers, pins, and postcards**. I'm selling a special WTFJHT shirt through May 1st in partnership with Vacord Screen Printing. Shirts come in white and heather gray with black ink on a nice cotton Anvil 980 t-shirt. I'm also donating 5% of proceeds to charity. So there's that. There is also 250 sticker/pin/postcard packs available. **[Buy Now](https://gumroad.com/dailywtf){:target="_blank"}**
+2/ **Pledge a small monthly amount through Patreon**, is a service made for situations like this. They help creators like WTFJHT earn ongoing revenue directly from their audience. Pledge a small amount, get a big reward. **[Become a Patron Now](https://www.patreon.com/wtfjht){:target="_blank"}**.
 
-3/ **Pledge a small monthly amount through Patreon**, is a service made for situations like this. They help creators like WTFJHT earn ongoing revenue directly from their audience. Pledge a small amount, get a big reward. **[Become a Patron Now](https://www.patreon.com/wtfjht){:target="_blank"}**.
-
-4/ **Make a one-time donation through PayPal**. A normal donation works great for those that don't want to pledge monthly support. 
+3/ **Make a one-time donation through PayPal**. A normal donation works great for those that don't want to pledge monthly support. 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

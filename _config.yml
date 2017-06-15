@@ -17,6 +17,9 @@ includes_dir: _includes
 twitter:
   username: WTFJHT
 
+kramdown:
+    smart_quotes: ["apos", "apos", "quot", "quot"]
+
 social:
   name: Matt Kiser
   links:

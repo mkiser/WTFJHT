@@ -14,10 +14,10 @@ layout: default
     <span class="post-small">{{ page.description }}</span></a>
   </h1>
   <time datetime="{{ page.last_modified | date_to_xmlschema }}" class="post-date">
-    {{ page.date | date: "%m/%d/%Y" }} {% include read_time.html %} 
+    {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
     <br>
     <small>
-      <em>Updated: {{ page.last_modified | date: "%m/%d/%Y %r %Z"}}</em>
+      <em>Updated: {{ page.last_modified | time_zone: 'America/Los_Angeles' | date: "%-m/%-d/%Y %l:%M %p %Z"}}</em>
     </small><br>
     <small>
       <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">See revision history</a>

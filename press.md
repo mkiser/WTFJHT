@@ -89,7 +89,6 @@ It looks like facts, but it feels like coping. ([The Observer](http://observer.c
 {% twitter https://twitter.com/couchtomoon/status/830961493449531393 hide_media=true %}
 {% twitter https://twitter.com/jesseisgolfing/status/864925693276246016 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/chesleydohl/status/864885824063553536 hide_media=true %}
-{% twitter https://twitter.com/dirkprimbs/status/862927027514601473 hide_media=true %}
 {% twitter https://twitter.com/StephanieWei/status/863052837454045186 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/mikewhills/status/864249722315386880 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/iancavalier/status/862880484677697537 hide_media=true %}

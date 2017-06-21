@@ -11,7 +11,7 @@ image:
  
 I started this project because I was having trouble keeping up with the pace of news coming out from the Trump administration. It started as an Instapaper and Evernote notebook, but quickly became unwieldy as news events started to blur. So, I started logging the things on a day-by-day basis. 
 
-What started as a personal project – a challenge to chronicle the daily shock and awe of the administration's first 100 days – [has become my full-time job.](https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/) See? Trump IS creating jobs. 
+What started as a personal project – a challenge to chronicle the daily shock and awe of the administration's first 100 days – <a href="https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/">has become my full-time job.</a> See? Trump IS creating jobs. 
 
 This is, strictly speaking, the news through my lens and not a professional act of journalism – nothing here is my original reporting – however, it is an act of journalism in and of itself – I'm making editorial decisions, crafting and curating the content selection. You won't find "fair and balanced" objective coverage. 
 

@@ -1,12 +1,12 @@
 # What The Fuck Just Happened Today?
 
-<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
+<p class="lead"><a href="https://whatthefuckjusthappenedtoday.com/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
 
 <p>The goal is to capture the most important news coming out of the D.C. in a digestable form inspired by <a href="http://www.theskimm.com/">The Skimm</a>, <a href="http://techmeme.com/">Techmeme</a>, and <a href="http://www.theverge.com/2016/12/13/13936946/twitter-tweetstorm-thread-timeline-medium">tweetstorms</a>.</p>
  
 I started this project because I was having trouble keeping up with the pace of news coming out from the Trump administration. It started as an Instapaper and Evernote notebook, but quickly became unwieldy as news events started to blur. So, I started logging the things on a day-by-day basis. 
 
-My goal is to write and send a daily recap and newsletter for the first 100 days of Trump's presidency and then reevaluate where we go from there. 
+What started as a personal project – a challenge to chronicle the daily shock and awe of the administration's first 100 days – [has become my full-time job.](https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/) See? Trump IS creating jobs. 
 
 This is, strictly speaking, the news through my lens and not a professional act of journalism – nothing here is my original reporting – however, it is an act of journalism in and of itself – I'm making editorial decisions, crafting and curating the content selection. You won't find "fair and balanced" objective coverage. 
 

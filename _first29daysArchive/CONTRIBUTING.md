@@ -1,3 +1,0 @@
-# What The Fuck, You Want To Contribute?
-
-coming soon...

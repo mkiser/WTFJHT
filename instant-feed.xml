@@ -1,0 +1,50 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ site.name | xml_escape }}</title>
+    <link>{{ site.url }}</link>
+    <description>
+      {% if site.description %}{{ site.description | xml_escape }}{% endif %}
+    </description>
+    {% for post in site.posts %}
+    {% unless post.link %}
+    <item>
+      <title>{{ post.title | xml_escape }}: {{ post.description }}</title>
+      <link>{{ site.url }}{{ post.url }}</link>
+      <content:encoded>
+        <![CDATA[
+        {{ post.content }}
+        <figure class="op-tracker">
+            <iframe>
+              <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                ga('create', 'UA-91051784-1', 'auto');
+                ga('send', 'pageview');
+              </script>
+            </iframe>
+        </figure>
+        ]]>
+      </content:encoded>
+      <guid isPermaLink="false">{{ post.url }}</guid>
+      <description>
+        {% if post.excerpt %}
+        {{ post.excerpt | xml_escape }}
+        {% else %}
+        {{ post.description | xml_escape }}
+        {% endif %}
+      </description>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <modDate>{{ post.last_modified_at | date: "%a, %d %b %Y %H:%M:%S %z" }}</modDate>
+      <author></author>
+    </item>
+    {% endunless %}
+    {% endfor %}
+  </channel>
+</rss>

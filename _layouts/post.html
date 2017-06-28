@@ -1,0 +1,47 @@
+---
+layout: default
+---
+   <!-- Pledge Drive -->
+ <!-- {% include pledge3.html %} -->
+            
+<!-- MailChimp -->
+{% include email.html %}
+
+<article class="post">
+  <h1 class="post-title">
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ page.title }}:
+    <span class="post-small">{{ page.description }}</span></a>
+  </h1>
+  <time datetime="{{ page.last_modified | date_to_xmlschema }}" class="post-date">
+    {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
+    <br>
+    <small>
+      <em>Updated: {{ page.last_modified | time_zone: 'America/Los_Angeles' | date: "%-m/%-d/%Y %l:%M %p %Z"}}</em>
+    </small><br>
+    <small>
+     <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Help improve this article</a> |  <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">See revision history</a>
+    </small>
+  </time>
+<div class="post-content">
+  {{ content | extlinks }}
+</div>
+  <p>
+    <small><strong>Subscribe:</strong> <a href="{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a> 
+    </small>
+  </p> 
+
+ <!-- Pledge Drive -->
+  {% include pledge.html %}
+
+  {% include social.html %}
+
+  <div class="next-prev">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+</article>

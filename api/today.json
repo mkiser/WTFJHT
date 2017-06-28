@@ -1,0 +1,5 @@
+---
+layout: null
+---
+
+{{ site.posts[0] | itemize }}

@@ -71,6 +71,9 @@ algolia:
     - press.md
     - rss.xml
     - styles.css
+    - subscribe.md
+    - survey.md
+    - team.md
     - today.html
     - whitelist.html
     - yesterday.html

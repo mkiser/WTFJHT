@@ -23,12 +23,19 @@ image:
         {{ post.title }}:
       <span class="post-small">{{ post.description }}</span></a>
     </h2>
-    <time datetime="{{ post.last_modified | date_to_xmlschema }}" class="post-date">
-       {{ post.date | date: "%-m/%-d/%Y" }}
-    <small><em>Updated: {{ post.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z"}} 
-    </em></small>
+
+
+   <time datetime="{{ post.last_modified | date_to_xmlschema }}" class="post-date">
+    {{ post.date | date: "%-m/%-d/%Y" }} 
+    <br>
+    <small>
+      <em>Updated: {{ post.last_modified | time_zone: 'America/Los_Angeles' | date: "%-m/%-d/%Y %l:%M %p %Z"}}</em>
+    </small><br>
+    <small>
+     <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Help improve this article</a> |  <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">See revision history</a>
+    </small>
   </time>
- 
+
     {{ post.content }}
   </article>
   {% endfor %} 

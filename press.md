@@ -72,6 +72,7 @@ It looks like facts, but it feels like coping. ([The Observer](http://observer.c
 {% twitter https://twitter.com/AnnBrenoff/status/829541247211548672 hide_media=true %}
 {% twitter https://twitter.com/mikebutcher/status/829704213919911936 hide_media=true %}
 {% twitter https://twitter.com/poynter/status/831516097430036480 hide_media=true %}
+{% twitter https://twitter.com/OrinKerr/status/880856325881831424 hide_media=true %}
 {% twitter https://twitter.com/summerbrennan/status/830094832462868480 hide_media=true %}
 {% twitter https://twitter.com/SophiaCannon/status/829690313170120704 hide_media=true %}
 {% twitter https://twitter.com/GloriaFallon123/status/864800682901110786 hide_media=true hide_thread=true %}

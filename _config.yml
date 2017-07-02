@@ -77,6 +77,8 @@ algolia:
     - today.html
     - whitelist.html
     - yesterday.html
+    - meta/trump-creates-ones-new-job.md
+    - do-something/aca-repeal.md
 
 extlinks:
   attributes: {target: _blank, rel: noopener, class: external}

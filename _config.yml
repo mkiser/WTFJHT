@@ -79,6 +79,14 @@ algolia:
     - yesterday.html
     - meta/trump-creates-ones-new-job.md
     - do-something/aca-repeal.md
+    - 45-for-45/russia.md
+  settings:
+    attributesToIndex:
+      - unordered(text)
+      - posted_at
+      - title
+      - h1
+    distinct: false
 
 extlinks:
   attributes: {target: _blank, rel: noopener, class: external}

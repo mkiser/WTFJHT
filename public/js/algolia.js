@@ -8,7 +8,7 @@ $(function(config) {
 
   var algolia = algoliasearch(applicationId, apiKey);
   var helper = algoliasearchHelper(algolia, indexName);
-  helper.setQueryParameter('distinct', true);
+  helper.setQueryParameter('distinct', false);
   helper.on('result', onResult);
 
   // Input listening for queries

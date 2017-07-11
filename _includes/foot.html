@@ -15,7 +15,8 @@
       </footer>
     </div>
 <!-- ALGOLIA -->
-  <script>
+ 
+ <script>
     window.ALGOLIA_CONFIG = {
       'applicationId': '{{ site.algolia.application_id }}',
       'indexName': '{{ site.algolia.index_name }}',
@@ -38,13 +39,35 @@
     Fake news not found.
   </script>
   
+  <script>
+  const search = instantsearch({
+    appId: '{{ site.algolia.application_id }}',
+    apiKey: '{{ site.algolia.read_only_api_key }}',
+    indexName: '{{ site.algolia.index_name }}',
+    urlSync: true
+  });
+   search.addWidget(
+      instantsearch.widgets.searchBox({
+        container: '#search-box',
+        placeholder: 'Search for products'
+      })
+    );
+   search.addWidget(
+      instantsearch.widgets.hits({
+        container: '#hits'
+      })
+    );
+  search.start();
+  </script>
+
+
   <script src="{{ site.baseurl }}/public/js/anchor.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algoliasearch.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algoliasearch.helper.min.js"></script>
+  <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
   <script src="{{ site.baseurl }}/public/js/hogan.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/moment.min.js"></script>
-  <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
   <script src="{{ site.baseurl }}/public/js/jquery.scrolldepth.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/riveted.min.js"></script>
   <script>riveted.init();</script>

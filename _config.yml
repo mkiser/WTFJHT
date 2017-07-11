@@ -20,6 +20,9 @@ defaults:
       path: ""
       type: "posts" 
     values:
+      title: ""
+      description: ""
+      date: ""
       layout: "post"
       author: "matt"
 

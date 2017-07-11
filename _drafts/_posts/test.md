@@ -1,6 +1,6 @@
 ---
 title: test
-date: '2017-07-10T07:21:00-07:00'
+date: '2017-07-10T07:21:00 -07:00'
 layout: post
 author: matt
 undefined:

@@ -3,8 +3,8 @@ layout: page
 title: Subscribe to WTF Just Happened Today
 description: Today's essential newsletter. Logging the daily shock and awe in national politics. Read in moderation. 
 image:
-  twitter: /public/wtfjht-t.jpg
-  facebook: /public/wtfjht-f.jpg
+  twitter: /public/wtf-subscribe.jpg
+  facebook: /public/wtf-subscribe-f.jpg
 ---
 
 <p class="lead">WTF Just Happened Today is a newsletter, blog, and community that chronicles the daily shock and awe in national politics. It's is produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon around 3PM PT. </p> 

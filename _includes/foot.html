@@ -39,28 +39,6 @@
     Fake news not found.
   </script>
   
-  <script>
-  const search = instantsearch({
-    appId: '{{ site.algolia.application_id }}',
-    apiKey: '{{ site.algolia.read_only_api_key }}',
-    indexName: '{{ site.algolia.index_name }}',
-    urlSync: true
-  });
-   search.addWidget(
-      instantsearch.widgets.searchBox({
-        container: '#search-box',
-        placeholder: 'Search for products'
-      })
-    );
-   search.addWidget(
-      instantsearch.widgets.hits({
-        container: '#hits'
-      })
-    );
-  search.start();
-  </script>
-
-
   <script src="{{ site.baseurl }}/public/js/anchor.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
   <script src="{{ site.baseurl }}/public/js/algoliasearch.min.js"></script>

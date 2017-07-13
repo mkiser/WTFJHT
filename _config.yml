@@ -38,15 +38,18 @@ social:
     - https://www.facebook.com/mattkiser
     - https://www.linkedin.com/in/mattkiser
     - https://github.com/mkiser
+logo: /public/push-icon.png
 
 # About/contact
-# author:
-#   name:             'Matt Kiser'
-#   url:              'https://whatthefuckjusthappenedtoday.com'
-#   email:            'matt@whatthefuckjusthappenedtoday.com'
+author:
+  name:             'Matt Kiser'
+  url:              'https://whatthefuckjusthappenedtoday.com'
+  email:            'matt@whatthefuckjusthappenedtoday.com'
 
 facebook:
   app_id: 601457263382211
+  publisher: 1415262761838827
+  admins: 29904434
 
 ampdir: amp
 

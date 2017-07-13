@@ -109,6 +109,13 @@ extlinks:
   attributes: {target: _blank, rel: noopener, class: external}
   rel_exclude: ['whatthefuckjusthappenedtoday.com']
 
+jekyll_admin:
+  hidden_links:
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+
 # Gems
 gems:
   - jekyll-gist

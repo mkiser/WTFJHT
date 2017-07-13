@@ -23,7 +23,8 @@ defaults:
       title: ""
       description: ""
       layout: "post"
-      author: "matt"
+      seo:
+        type: NewsArticle
 
 twitter:
   username: WTFJHT
@@ -38,10 +39,12 @@ social:
     - https://www.facebook.com/mattkiser
     - https://www.linkedin.com/in/mattkiser
     - https://github.com/mkiser
-logo: /public/push-icon.png
+
+logo: "/public/wtfjht-f.jpg"
 
 # About/contact
 author:
+  twitter:          'matt_kiser'
   name:             'Matt Kiser'
   url:              'https://whatthefuckjusthappenedtoday.com'
   email:            'matt@whatthefuckjusthappenedtoday.com'

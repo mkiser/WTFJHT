@@ -106,6 +106,7 @@ extlinks:
 # Gems
 gems:
   - jekyll-gist
+  - jekyll-admin
   - jekyll-redirect-from
   - github-pages
   - jekyll-paginate

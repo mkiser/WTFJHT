@@ -29,14 +29,14 @@ While not technically launched, yet, I'm launching a private community forum. It
 **Labor:**
 Here's my conservative daily breakdown in time spent:
 
-* 1-3 hours researching and collecting stories
+* 3-5 hours researching and collecting stories
 * 1-2 hours curating the daily post
-* 1 hour setting up the post, cutting images, publishing, testing, fixing typos
-* .5 hour distributing to Twitter and Facebook
+* 1-2 hours setting up the post, cutting images, publishing, testing, fixing typos
+* 1 hour distributing to Twitter and Facebook
 * 1 hour setting up and sending the newsletter
 * 1-4 hour site maintenance, help desk/support, etc
 
-And, since I'm both the writer/editor and web developer running  this, let's pretend my salary is the average between the professions in Seattle. Via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. _Monthly Cost:_ ($63,718 + $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
+And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle. Via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. _Monthly Cost:_ ($63,718 + $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
 
 ---
 

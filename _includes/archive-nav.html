@@ -1,0 +1,11 @@
+  {% assign years = site.archives | where:"type", "year" %}
+  
+  {% for year in years %}
+   <center><div>
+    <a href="{{ year.url }}">{{ year.posts[0].date | date:"%Y" }}</a>: 
+      {% assign months = site.archives | where:"type", "month" %}
+      {% for month in months reversed %}
+       <a href="{{ month.url }}">{{ month.posts[0].date | date:"%B" }}</a> | 
+    {% endfor %}
+   </div></center>
+  {% endfor %}

@@ -95,9 +95,9 @@ algolia:
     - today.html
     - whitelist.html
     - yesterday.html
-    - meta/trump-creates-ones-new-job.md
-    - do-something/aca-repeal.md
-    - /guide/45-for-45/russia.md
+    - meta/*
+    - do-something/*
+    - /guide/*
   settings:
     attributesToIndex:
       - unordered(text)

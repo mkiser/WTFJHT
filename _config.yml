@@ -78,6 +78,7 @@ algolia:
     - about.md
     - all.html
     - archive.md
+    - /archives/*
     - atom.xml
     - faq.md
     - first-100-days.html
@@ -96,7 +97,7 @@ algolia:
     - yesterday.html
     - meta/trump-creates-ones-new-job.md
     - do-something/aca-repeal.md
-    - 45-for-45/russia.md
+    - /guide/45-for-45/russia.md
   settings:
     attributesToIndex:
       - unordered(text)
@@ -116,6 +117,15 @@ jekyll_admin:
     - datafiles
     - configuration
 
+jekyll-archives:
+  enabled: ['year', 'month']
+  layouts:
+    year: year-archive
+    month: month-archive
+  permalinks:
+    year: '/archive/:year/'
+    month: '/archive/:year/:month/'
+
 # Gems
 gems:
   - jekyll-gist
@@ -128,3 +138,4 @@ gems:
   - amp-jekyll
   - jekyll-twitter-plugin
   - jekyll-extlinks
+  - jekyll-archives

@@ -7,6 +7,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
 gem 'jekyll-twitter-plugin'
+gem 'jekyll-archives'
 
 group :jekyll_plugins do
   gem 'algoliasearch-jekyll'

@@ -9,7 +9,7 @@ layout: page
 
 <p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter, blog, and community chronicling the daily shock and awe in national politics. Read in moderation.</p>
 
-<p>The goal is to capture the most important news coming out of the White House in a digestable form inspired by <a href="http://www.theskimm.com/">The Skimm</a>, <a href="http://techmeme.com/">Techmeme</a>, and <a href="http://www.theverge.com/2016/12/13/13936946/twitter-tweetstorm-thread-timeline-medium">tweetstorms</a>. It's like the [Wirecutter](http://thewirecutter.com/) for politics.</p>
+<p>The goal is to capture the most important news coming out of the White House in a digestable form inspired by <a href="http://www.theskimm.com/">The Skimm</a>, <a href="http://techmeme.com/">Techmeme</a>, and <a href="http://www.theverge.com/2016/12/13/13936946/twitter-tweetstorm-thread-timeline-medium">tweetstorms</a>. It's like the <a href="http://thewirecutter.com/">Wirecutter</a> for politics.</p>
 
 I started this project because I was having trouble keeping up with the pace of news coming out of the White House from the Trump administration. It started as an Instapaper and Evernote notebook, which quickly became unwieldy as news events started to blur. So, I started logging the news on a day-by-day basis.
 

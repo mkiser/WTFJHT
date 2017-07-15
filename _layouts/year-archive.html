@@ -12,7 +12,7 @@ image:
 
 <div class="posts">
   <article class="post">
-  {% for post in page.posts %}
+  {% for post in page.posts reversed %}
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}:

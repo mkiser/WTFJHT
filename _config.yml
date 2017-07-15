@@ -25,7 +25,7 @@ tagline: Today's essential newsletter. Logging the daily shock and awe in nation
 description: Today's essential newsletter. Logging the daily shock and awe in national
   politics. Read in moderation.
 url: https://whatthefuckjusthappenedtoday.com
-baseurl: ''
+baseurl: 
 source: "."
 destination: "./_site"
 plugins_dir: _plugins
@@ -60,7 +60,7 @@ facebook:
 ampdir: amp
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 version: 1.0.0
 github:
   repo: https://github.com/mkiser/WTFJHT
@@ -138,3 +138,6 @@ gems:
 - jekyll-twitter-plugin
 - jekyll-extlinks
 - jekyll-archives
+image:
+- twitter: 
+- facebook: 

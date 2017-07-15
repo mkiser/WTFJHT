@@ -14,7 +14,7 @@ layout: default
       {{ page.title }}:
     <span class="post-small">{{ page.description }}</span></a>
   </h1>
-  <time datetime="{{ page.last_modified | date_to_xmlschema }}" class="post-date">
+  <time datetime="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% endif %}" class="post-date">
     {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
     <br>
     <small>

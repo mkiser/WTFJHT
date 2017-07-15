@@ -24,7 +24,7 @@ image:
       <span class="post-small">{{ post.description }}</span></a>
     </h2>
     
-   <time datetime="{{ post.last_modified | date_to_xmlschema }}" class="post-date">
+   <time datetime="{% if post.last_modified %}{{ post.last_modified | date_to_xmlschema }}{% endif %}" class="post-date">
     {{ post.date | date: "%-m/%-d/%Y" }} 
     <br>
     <small>

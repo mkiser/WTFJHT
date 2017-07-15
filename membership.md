@@ -15,11 +15,13 @@ It's produced every morning by hand, updated throughout the day, with a newslett
 
 **It comes down to this:** I'll keep doing this as long as the community keeps supporting me.
 
-**Here's How You Can Help:**
+---
+
+## Here's How You Can Help:
 
 1/ **Share WTF Just Happened Today with a friend**. Tell your friends about the newsletter and share the daily dispatches on social media. It's free and has massive impact. It's this easy: [Tweet it](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F){:target="_blank"} or [share on Facebook](https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com){:target="_blank"}
 
-2/ **Pledge a small monthly amount through Patreon**, is a service made for situations like this. They help creators like WTFJHT earn ongoing revenue directly from their audience. Pledge a small amount, get a big reward. **[Become a Patron Now](https://www.patreon.com/wtfjht){:target="_blank"}**.
+2/ **Pledge a small monthly amount through Patreon**, a service made for situations like this. They help creators like WTFJHT earn ongoing revenue directly from their audience. Pledge a small amount, get a big reward. **[Become a Patron Now](https://www.patreon.com/wtfjht){:target="_blank"}**.
 
 3/ **Make a one-time donation through PayPal**. A normal donation works great for those that don't want to pledge monthly support. 
 
@@ -30,6 +32,8 @@ It's produced every morning by hand, updated throughout the day, with a newslett
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+---
 
 **Don't believe the hype?** Here's [what the smartest people on the Internet are saying]({{ site.baseurl }}/press) about What The Fuck Just Happened Today.
 

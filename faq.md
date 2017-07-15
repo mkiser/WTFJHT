@@ -7,9 +7,9 @@ image:
 layout: page
 ---
 
-<p class="lead">The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free for as long as possible. 
+The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free for as long as possible.
 
-Here's a rough estimate of the monthly costs:</p>
+Here's a rough estimate of the monthly costs:
 
 **Hosting:**
 The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, and generally an inexpensive data storage infrastructure option. _Monthly Cost:_ ~$20

@@ -139,5 +139,5 @@ gems:
 - jekyll-extlinks
 - jekyll-archives
 image:
-- twitter
-- facebook
+- twitter: 
+- facebook: 

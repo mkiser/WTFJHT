@@ -1,11 +1,11 @@
 ---
+title: The Normal Person's Guide to 45's First 45 Fucking Days
+date: 2017-03-05 00:00:00 -08:00
 layout: page
-title:  The Normal Person's Guide to 45's First 45 Fucking Days
 description: A quick look back on Trump's first 45 days in office.
-date:   2017-03-05
 image:
-  twitter: /public/45-for-45-t.jpg
-  facebook: /public/45-for-45-t.jpg
+  twitter: "/public/45-for-45-t.jpg"
+  facebook: "/public/45-for-45-t.jpg"
 ---
 
 ![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-t.jpg)

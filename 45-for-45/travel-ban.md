@@ -1,12 +1,13 @@
 ---
+title: The Travel Ban.
+date: 2017-03-05 00:00:00 -08:00
 layout: page
-title:  The Travel Ban.
 description: The Normal Person's Guide to 45’s First 45 Fucking Days
-date:   2017-03-05
 image:
-  twitter: /public/45-for-45-travel-ban-t.jpg
-  facebook: /public/45-for-45-travel-ban-f.jpg
+  twitter: "/public/45-for-45-travel-ban-t.jpg"
+  facebook: "/public/45-for-45-travel-ban-f.jpg"
 ---
+
 ![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-travel-ban-t.jpg)
 
 <p class="lead">It’s hard to tell where the plan began and where it went wrong for Trump and his travel ban. What a shitshow this was.</p>

@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Who The Fuck's Job Is This Anyway?
+layout: page
 image:
-  twitter: /public/wtfjht-t.jpg
-  facebook: /public/wtfjht-f.jpg
+  twitter: "/public/wtfjht-t.jpg"
+  facebook: "/public/wtfjht-f.jpg"
 ---
 
 These fine folks have donated their time toward making WTFJHT happen. 

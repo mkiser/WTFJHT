@@ -1,141 +1,140 @@
-# Permalinks
-permalink:           pretty
-
-# Setup
-title:            What The Fuck Just Happened Today?
-name:             "What The Fuck Just Happened Today?"
-tagline:          "Today's essential newsletter. Logging the daily shock and awe in national politics. Read in moderation."
-description:      "Today's essential newsletter. Logging the daily shock and awe in national politics. Read in moderation."
-url:              "https://whatthefuckjusthappenedtoday.com"
-baseurl:          ""
-source:       .
-destination:  ./_site
-plugins_dir:  _plugins
-layouts_dir:  _layouts
-data_dir:     _data
-includes_dir: _includes
+---
+title: What The Fuck Just Happened Today?
+timezone: America/Los_Angeles
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts" 
-    values:
-      title: ""
-      description: ""
-      layout: "post"
-      seo:
-        type: NewsArticle
-
+- scope:
+    path: ''
+    type: posts
+  values:
+    title: ''
+    description: ''
+    layout: post
+    seo:
+      type: NewsArticle
+permalink: pretty
+name: What The Fuck Just Happened Today?
+tagline: Today's essential newsletter. Logging the daily shock and awe in national
+  politics. Read in moderation.
+description: Today's essential newsletter. Logging the daily shock and awe in national
+  politics. Read in moderation.
+url: https://whatthefuckjusthappenedtoday.com
+baseurl: ''
+source: "."
+destination: "./_site"
+plugins_dir: _plugins
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
 twitter:
   username: WTFJHT
-
 kramdown:
-    smart_quotes: ["apos", "apos", "quot", "quot"]
-
+  smart_quotes:
+  - apos
+  - apos
+  - quot
+  - quot
 social:
   name: Matt Kiser
   links:
-    - https://twitter.com/matt_kiser
-    - https://www.facebook.com/mattkiser
-    - https://www.linkedin.com/in/mattkiser
-    - https://github.com/mkiser
-
+  - https://twitter.com/matt_kiser
+  - https://www.facebook.com/mattkiser
+  - https://www.linkedin.com/in/mattkiser
+  - https://github.com/mkiser
 logo: "/public/wtfjht-f.jpg"
-
-# About/contact
 author:
-  twitter:          'matt_kiser'
-  name:             'Matt Kiser'
-  url:              'https://whatthefuckjusthappenedtoday.com'
-  email:            'matt@whatthefuckjusthappenedtoday.com'
-
+  twitter: matt_kiser
+  name: Matt Kiser
+  url: https://whatthefuckjusthappenedtoday.com
+  email: matt@whatthefuckjusthappenedtoday.com
 facebook:
   app_id: 601457263382211
   publisher: 1415262761838827
   admins: 29904434
-
 ampdir: amp
-
-# Assets
 sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# Custom vars
-version:             1.0.0
+  sass_dir: _sass
+  style: :compressed
+version: 1.0.0
 github:
-  repo:              https://github.com/mkiser/WTFJHT
-timezone:            America/Los_Angeles
-exclude:             [vendor]
-
+  repo: https://github.com/mkiser/WTFJHT
+exclude:
+- vendor
 algolia:
-  application_id: 'UI0QYYDNB1'
-  index_name:     'WTFJHT'
-  read_only_api_key: '50fe80eaf3c61b236fe7408e8be4bc30'
-  record_css_selector: 'p,li,blockquote'
+  application_id: UI0QYYDNB1
+  index_name: WTFJHT
+  read_only_api_key: 50fe80eaf3c61b236fe7408e8be4bc30
+  record_css_selector: p,li,blockquote
   excluded_files:
-    - 404.html
-    - about.md
-    - all.html
-    - archive.md
-    - /archives/*
-    - atom.xml
-    - faq.md
-    - first-100-days.html
-    - index.html
-    - instant-feed.xml
-    - instantfeed.xml
-    - membership.md
-    - press.md
-    - rss.xml
-    - styles.css
-    - subscribe.md
-    - survey.md
-    - team.md
-    - today.html
-    - whitelist.html
-    - yesterday.html
-    - meta/*
-    - do-something/*
-    - /guide/*
+  - 404.html
+  - about.md
+  - all.html
+  - archive.md
+  - "/archives/*"
+  - atom.xml
+  - faq.md
+  - first-100-days.html
+  - index.html
+  - instant-feed.xml
+  - instantfeed.xml
+  - membership.md
+  - press.md
+  - rss.xml
+  - styles.css
+  - subscribe.md
+  - survey.md
+  - team.md
+  - today.html
+  - whitelist.html
+  - yesterday.html
+  - meta/*
+  - do-something/*
+  - "/guide/*"
   settings:
     attributesToIndex:
-      - unordered(text)
-      - posted_at
-      - title
-      - h1
+    - unordered(text)
+    - posted_at
+    - title
+    - h1
     distinct: false
-
 extlinks:
-  attributes: {target: _blank, rel: noopener, class: external}
-  rel_exclude: ['whatthefuckjusthappenedtoday.com']
-
+  attributes:
+    target: _blank
+    rel: noopener
+    class: external
+  rel_exclude:
+  - whatthefuckjusthappenedtoday.com
 jekyll_admin:
   hidden_links:
-    - pages
-    - staticfiles
-    - datafiles
-    - configuration
-
+  - pages
+  - staticfiles
+  - datafiles
+  - configuration
 jekyll-archives:
-  enabled: ['year', 'month']
+  enabled:
+  - year
+  - month
   layouts:
     year: year-archive
     month: month-archive
   permalinks:
-    year: '/archive/:year/'
-    month: '/archive/:year/:month/'
-
-# Gems
+    year: "/archive/:year/"
+    month: "/archive/:year/:month/"
 gems:
-  - jekyll-gist
-  - jekyll-admin
-  - jekyll-redirect-from
-  - github-pages
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - amp-jekyll
-  - jekyll-twitter-plugin
-  - jekyll-extlinks
-  - jekyll-archives
+- jekyll-gist
+- jekyll-admin
+- jekyll-redirect-from
+- github-pages
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-sitemap
+- amp-jekyll
+- jekyll-twitter-plugin
+- jekyll-extlinks
+- jekyll-archives

@@ -1,9 +1,9 @@
 ---
-layout: page
 title: What The Fucking Mediarati Are Saying
+layout: page
 image:
-  twitter: /public/wtfjht-t.jpg
-  facebook: /public/wtfjht-f.jpg
+  twitter: "/public/wtfjht-t.jpg"
+  facebook: "/public/wtfjht-f.jpg"
 ---
 
 Don't believe the hype? How about some social proof. Here's what the smartest people on the Internet are saying about [What The Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com):

@@ -1,11 +1,11 @@
 ---
+title: The Normal Person's Guide to Internet Security
+date: 2017-03-30 00:00:00 -07:00
 layout: page
-title:  The Normal Person's Guide to Internet Security
-description: The six things everyone should do to protect themselves on the internet. 
-date:   2017-03-30
+description: The six things everyone should do to protect themselves on the internet.
 image:
-  twitter: /public/internet-security-guide-t.jpg
-  facebook: /public/internet-security-guide-f.jpg
+  twitter: "/public/internet-security-guide-t.jpg"
+  facebook: "/public/internet-security-guide-f.jpg"
 ---
 
 This is a quick and dirty guide to basic internet security for the normal internet user. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can do to protect themselves on the internet. 

@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: 
 ---
 
 {{ site.posts[0] | itemize }}

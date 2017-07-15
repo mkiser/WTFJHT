@@ -1,11 +1,12 @@
 ---
+title: Trump creates one new job.
+date: 2017-04-19 00:00:00 -07:00
 layout: page
-title:  Trump creates one new job.
-description: Starting today WTF Just Happened Today is my full-time job. See? Trump IS creating jobs. That's right. I quit my job. We're just getting started. 
-date:   2017-04-19
+description: Starting today WTF Just Happened Today is my full-time job. See? Trump
+  IS creating jobs. That's right. I quit my job. We're just getting started.
 image:
-  twitter: /public/wtfjht-t.jpg
-  facebook: /public/wtfjht-f.jpg
+  twitter: "/public/wtfjht-t.jpg"
+  facebook: "/public/wtfjht-f.jpg"
 ---
 
 <p class="lead">Starting today, WTF Just Happened Today is my full-time job. See? Trump IS creating jobs. That's right. I quit my job. </p>

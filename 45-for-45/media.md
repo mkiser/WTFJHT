@@ -1,12 +1,13 @@
 ---
+title: The Media.
+date: 2017-03-05 00:00:00 -08:00
 layout: page
-title:  The Media.
 description: The Normal Person's Guide to 45’s First 45 Fucking Days
-date:   2017-03-05
 image:
-  twitter: /public/45-for-45-media-t.jpg
-  facebook: /public/45-for-45-media-f.jpg
+  twitter: "/public/45-for-45-media-t.jpg"
+  facebook: "/public/45-for-45-media-f.jpg"
 ---
+
 ![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-media-t.jpg)
 
 <p class="lead">It started with a debate over crowd sizes and alternative facts, and has morphed into cell phone checks for White House staffers and the banning of major media outlets from a press briefing. The war on media in first 45-days has seen everything.</p>

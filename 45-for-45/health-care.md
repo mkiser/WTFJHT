@@ -1,11 +1,11 @@
 ---
+title: Obamacare.
+date: 2017-03-05 00:00:00 -08:00
 layout: page
-title:  Obamacare.
 description: The Normal Person's Guide to 45’s First 45 Fucking Days
-date:   2017-03-05
 image:
-  twitter: /public/45-for-45-obamacare-t.jpg
-  facebook: /public/45-for-45-obamacare-f.jpg
+  twitter: "/public/45-for-45-obamacare-t.jpg"
+  facebook: "/public/45-for-45-obamacare-f.jpg"
 ---
 
 ![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-obamacare-t.jpg)

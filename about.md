@@ -22,20 +22,15 @@ What you will find, however, is an independent voice, personal accountability, a
 This project is open source and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 
 > FEEDS:
-
+>
 \~\~<a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>\~\~ Borked.
-
 > 
-
 <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>
-
 > 
-
 <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>
-
 > 
-
 <a href="https://whatthefuckjusthappenedtoday.com/api/v1/pages.json">API</a>
+>
 
 Built using <a href="https://pages.github.com/">GitHub Pages</a>, <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [Travis CI](https://travis-ci.org/mkiser/WTFJHT), [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>.
 

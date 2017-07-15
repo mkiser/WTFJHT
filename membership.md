@@ -1,20 +1,19 @@
 ---
 title: Who The Fuck Supports This?
-layout: page
+date: 2017-01-20 21:54:00 -08:00
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
+layout: page
 ---
 
 You do. WTF Just Happened Today is a once-a-day, single-subject newsletter and blog, with a distinct tone and clear formatting tracking the daily shock and awe in national politics. 
 
-It's produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon. More than 80k people rely on WTFJHT to bring them the day's news in as a concise and focused recap. 
+It's produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon. More than 200k people rely on WTFJHT to bring them the day's news in as a concise and focused recap. 
 
-Don't believe the hype? Here's [what the smartest people on the Internet are saying]({{ site.baseurl }}/press) about What The Fuck Just Happened Today?
+**So here's the deal:** [This is my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/). And, running this thing is expensive (see below). It's just me, plus a few volunteers donating a couple hours/month. WTFJHT has been one of the most exciting, fun, and rewarding projects I've ever been involved in and I want nothing more than for this to keep going. 
 
-**So here's the deal:** [This is my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/). And, running this thing is expensive (see the next section). It's just me, plus a few volunteers donating a couple hours/month. WTFJHT has been one of the most exciting, fun, and rewarding projects I've ever been involved in and I want nothing more than for this to keep going.
-
-**How Much Does It Cost To Run This?** Glad you asked! I did some back of the envelope math and I came up with $7,636/month. That's a pretty conservative estimate, tbh. If you're interested in how I arrived at that number, I've outlined [the cost of running WTFJHT in the FAQ]({{ site.baseurl }}/faq/).
+**It comes down to this:** I'll keep doing this as long as the community keeps supporting me.
 
 **Here's How You Can Help:**
 
@@ -31,3 +30,7 @@ Don't believe the hype? Here's [what the smartest people on the Internet are say
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+**Don't believe the hype?** Here's [what the smartest people on the Internet are saying]({{ site.baseurl }}/press) about What The Fuck Just Happened Today.
+
+**How Much Does It Cost To Run This?** Glad you asked! I did some back of the envelope math and I came up with $7,636/month. That's a pretty conservative estimate, tbh. If you're interested in how I arrived at that number, I've outlined [the cost of running WTFJHT in the FAQ]({{ site.baseurl }}/faq/).

@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+    image:
+    - twitter
+    - facebook
   resources:
     title: Resources
     output: true

@@ -5,10 +5,11 @@ collections:
   posts:
     title: Posts
     output: true
+  resources:
+    title: Resources
+    output: true
   uploads:
     title: Uploads
-    output: true
-  resources:
     output: true
 defaults:
 - scope:
@@ -20,13 +21,6 @@ defaults:
     layout: post
     seo:
       type: NewsArticle
-# - scope:
-#     path: ''
-#     type: resources
-#   values:
-#     layout: page
-#     seo:
-#       type: Article
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential newsletter. Logging the daily shock and awe in national
@@ -85,7 +79,7 @@ algolia:
   - about.md
   - all.html
   - archive.md
-  - /archives/*
+  - "/archives/*"
   - atom.xml
   - faq.md
   - first-100-days.html
@@ -102,9 +96,9 @@ algolia:
   - today.html
   - whitelist.html
   - yesterday.html
-  - /meta/*
+  - "/meta/*"
   - do-something/*
-  - /guide/*
+  - "/guide/*"
   settings:
     attributesToIndex:
     - unordered(text)

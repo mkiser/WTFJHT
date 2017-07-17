@@ -1,15 +1,15 @@
 ---
 title: Day 179
 date: 2017-07-17 08:01:00 -07:00
-description: TK
+description: White collar crimes.
 image:
 - twitter: "/public/179-t.jpg"
 - facebook: "/public/179-f.jpg"
 ---
 
-1/ **The Trump campaign paid $50,000 to Trump Jr.'s attorney two weeks before the release of his emails**. Alan Futerfas started representing Trump Jr. on July 10th, but was paid at least $50,000 on June 27th. Futerfas’s expertise is in white collar criminal defense, not political and election law. In total, Trump disclosed $677,826 in payments described as “legal consulting” between April and June. ([Politico](http://www.politico.com/story/2017/07/15/trump-campaign-paid-jr-attorney-240592) / [The Daily Beast](http://www.thedailybeast.com/trump-campaign-paid-don-jrs-lawyer-dollar50000-two-weeks-before-email-scandal))
+1/ **The Trump campaign paid $50,000 to Trump Jr.'s attorney two weeks before the release of his emails**. Alan Futerfas started representing Trump Jr. on July 10th, but was paid at least $50,000 on June 27th. Futerfas’s expertise is in white collar criminal defense, not political or election law. In total, Trump disclosed $677,826 in payments described as “legal consulting” between April and June. ([Politico](http://www.politico.com/story/2017/07/15/trump-campaign-paid-jr-attorney-240592) / [The Daily Beast](http://www.thedailybeast.com/trump-campaign-paid-don-jrs-lawyer-dollar50000-two-weeks-before-email-scandal))
 
-2/ **Trump's lawyer blamed the Secret Service for vetting Trump Jr.'s meeting with the Russian lawyer**. The Secret Service pushed back, saying that Trump Jr. was not a "protectee of the USSS in June, 2016. Thus we would not have screened anyone he was meeting with at that time." On ABC's "This Week," Jay Sekulow said: "Well, I wonder why the Secret Service, if this was nefarious, why the Secret Service allowed these people in. The President had Secret Service protection at that point, and that raised a question with me." ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-idUSKBN1A10Q9) / [CNN](http://www.cnn.com/2017/07/16/politics/donald-trump-jr-jay-sekulow-secret-service/index.html))
+2/ **Trump's lawyer blamed the Secret Service for vetting and allowing Trump Jr.'s meeting with the Russian lawyer**. The Secret Service pushed back, saying that Trump Jr. was not a "protectee of the USSS in June, 2016. Thus we would not have screened anyone he was meeting with at that time." On ABC's "This Week," Jay Sekulow said: "Well, I wonder why the Secret Service, if this was nefarious, why the Secret Service allowed these people in. The President had Secret Service protection at that point, and that raised a question with me." ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-idUSKBN1A10Q9) / [CNN](http://www.cnn.com/2017/07/16/politics/donald-trump-jr-jay-sekulow-secret-service/index.html))
 
 3/ **Mitch McConnell delayed the Senate vote on the health care bill until John McCain returns from surgery** where he had to remove a blood clot above his left eye. Neurosurgeons said McCain's recover could take a week or two. Rand Paul said the delay would strengthen critics’ position by giving them more time to mobilize against the bill. “The longer the bill is out there, the more conservative Republicans are going to discover it is not repeal,” he said. ([New York Times](https://www.nytimes.com/2017/07/16/health/john-mccain-blood-clot-recovery.html) / [Washington Post](https://www.washingtonpost.com/powerpost/gop-opponents-to-senate-health-care-bill-see-vote-delay-as-an-advantage/2017/07/16/3e5516fa-6a21-11e7-96ab-5f38140b38cc_story.html))
 
@@ -17,7 +17,13 @@ image:
 
 4/ **The CBO will not release its updated score for the Senate health care plan today as planned**. The Senate Budget Committee did not provide an explanation or when the analysis was expected, saying it will provide further information and updates as appropriate. ([CBS News](http://www.cbsnews.com/news/no-new-cbo-score-monday-as-senate-delays-vote-on-health-care-plan/) / [Washington Post](https://www.washingtonpost.com/politics/federal_government/the-latest-cbo-delays-analysis-of-latest-health-care-bill/2017/07/16/1be9bb64-6a87-11e7-abbc-a53480672286_story.html))
 
-5/ **Health insurers called the Senate health care bill “simply unworkable in any form”** and warned that it would cause major hardship for middle-class people with serious medical problems. America’s Health Insurance Plans and the Blue Cross Blue Shield Association said “Millions of more individuals will become uninsured." ([HuffPost](http://www.huffingtonpost.com/entry/senate-health-bill-insurers-unworkable_us_59697eb7e4b0d6341fe9111c))
+5/ **Insurers called the Senate health care bill “simply unworkable in any form”** and warned that it would cause major hardship for middle-class people with serious medical problems. America’s Health Insurance Plans and the Blue Cross Blue Shield Association said “millions of more individuals will become uninsured." ([HuffPost](http://www.huffingtonpost.com/entry/senate-health-bill-insurers-unworkable_us_59697eb7e4b0d6341fe9111c))
+
+6/ **Homeland Security will turn over Mar-a-Lago visitor logs**. Citizens for Responsible Ethics in Washington filed suit with the National Security Archive and the Knight First Amendment Institute at Columbia University for the logs of visitors from Mar-a-Lago, the White House and Trump Tower. DHS will release the logs by September 8th. ([Politico](http://www.politico.com/story/2017/07/17/trump-mar-a-lago-visitor-records-240627))
+
+7/ **Trump tweets that his low poll numbers were "not bad at this time."** His 36% approval rating means he has his base, and that’s it. ([ABC News](http://abcnews.go.com/Politics/note-trump-reaches-low-ignore/story?id=48676351))
+
+{% twitter https://twitter.com/realDonaldTrump/status/886588838902206464 %}
 
 poll/ **Americans prefer Obamacare to the Republican replacement by a 2-to-1 margin**. 77% of Democrats prefer Obamacare, while 59% of Republicans favoring their party’s solution. ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2017/07/16/by-a-2-to-1-margin-americans-prefer-obamacare-to-republican-replacements/))
 

@@ -18,8 +18,7 @@ defaults:
   values:
     title: ''
     description: ''
-    twitter_image: ''
-    facebook_image: ''
+    image: ''
     layout: post
     seo:
       type: NewsArticle

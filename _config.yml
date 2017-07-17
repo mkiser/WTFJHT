@@ -5,9 +5,6 @@ collections:
   posts:
     title: Posts
     output: true
-    image:
-    - twitter
-    - facebook
   resources:
     title: Resources
     output: true
@@ -22,9 +19,6 @@ defaults:
     title: ''
     description: ''
     layout: post
-    image:
-      twitter: ''
-      facebook: ''
     seo:
       type: NewsArticle
 permalink: pretty

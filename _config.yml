@@ -23,8 +23,8 @@ defaults:
     description: ''
     layout: post
     image:
-    - twitter: ''
-    - facebook: ''
+      twitter: ''
+      facebook: ''
     seo:
       type: NewsArticle
 permalink: pretty

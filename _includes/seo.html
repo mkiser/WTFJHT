@@ -7,3 +7,11 @@
   {% else %}
     {% seo %} 
   {% endif %}
+
+  {% if page.facebook_image %} 
+  	<meta property="og:image"  content="{{ site.baseurl }}{{page.facebook_image}}">
+  {% endif %}
+  
+  {% if page.twitter_image %} 
+  <meta name="twitter:image" content="{{ site.baseurl }}{{page.twitter_image}}">
+  {% endif %}

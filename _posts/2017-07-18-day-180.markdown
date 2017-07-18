@@ -1,0 +1,30 @@
+---
+title: Day 180
+date: 2017-07-18 07:29:00 -07:00
+description: Dead on arrival.
+image: "/uploads/180.jpg"
+---
+
+1/ **The GOP health care bill collapsed after two more Republican senators said they would oppose the bill to repeal and replace Obamacare**, leaving Mitch McConnell at least two votes short of the number needed to begin debate on their bill to dismantle the health law. Senators Mike Lee and Jerry Moran joined Rand Paul and Susan Collins of Maine in opposition of the bill, preventing GOP leaders from bringing the bill to the floor and ending Republicans' seven-year goal of repealing Obamacare. ([New York Times](https://www.nytimes.com/2017/07/17/us/politics/health-care-overhaul-collapses-as-two-republican-senators-defect.html) / [Politico](http://www.politico.com/story/2017/07/17/obamacare-senators-turn-on-mcconnell-240646) / [Washington Post](https://www.washingtonpost.com/powerpost/amid-uncertainty-about-mccains-health-senate-returns-with-gop-agenda-in-flux/2017/07/17/6dd31530-6b02-11e7-9c15-177740635e83_story.html) / [CNN](http://www.cnn.com/2017/07/17/politics/health-care-motion-to-proceed-jerry-moran-mike-lee/index.html) / [Wall Street Journal](https://www.wsj.com/articles/gop-senate-leader-mcconnell-abandons-health-care-bill-1500348064))
+
+* **Trump blindsided by implosion of GOP health care bill**. While the president strategized with Republican lawmakers at the White House over steak, two senators were finalizing their statements tanking the current proposal. ([Politico](http://www.politico.com/story/2017/07/18/trump-blindsided-by-healthcare-collapse-240657))
+
+2/ **Trump immediately called on Republicans to repeal Obamacare now** and work on a healthcare plan that would draw Democratic support later. "Republicans should just REPEAL failing ObamaCare now & work on a new Healthcare Plan that will start from a clean slate," [Trump tweeted](https://twitter.com/realDonaldTrump/status/887134287350439936). "Dems will join in!" ([Reuters](https://www.reuters.com/article/usa-healthcare-trump-idUSL1N1K903S) / [The Hill](http://thehill.com/homenews/administration/342453-trump-repeal-obamacare-now-then-start-from-a-clean-slate))
+
+{% twitter https://twitter.com/realDonaldTrump/status/887134287350439936 %}
+
+3/ **Trump blamed Democrats for the collapse of the GOP health care bill and urged Republicans to let Obamacare fail **in an attempt to force Democrats to the negotiating table. In a series of tweets, just hours after saying Republicans should act now to repeal the law, Trump said: “We were let down by all of the Democrats and a few Republicans. Most Republicans were loyal, terrific & worked really hard. We will return! As I have always said, let ObamaCare fail and then come together and do a great healthcare plan. Stay tuned!” ([Washington Post](https://www.washingtonpost.com/powerpost/trump-suggests-republicans-will-let-aca-market-collapse-then-rewrite-health-law/2017/07/18/5e79a3ec-6bac-11e7-b9e2-2056e768a7e5_story.html) / [Politico](http://www.politico.com/story/2017/07/18/trump-tweet-obamacare-repeal-failure-240664) / [The Hill](http://thehill.com/homenews/administration/342465-trump-blames-dems-few-republicans-for-collapse-of-healthcare-bill))
+
+{% twitter https://twitter.com/realDonaldTrump/status/887279050263285761 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/887280380423938048 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/887299895803203584 %}
+
+{% twiter https://twitter.com/realDonaldTrump/status/887302632687251456 %}
+
+4/ **McConnell said he would attempt to hold a vote on a repeal-only bill** in the coming days that would delay the repeal of Obamacare for two years. "Regretfully, it is now apparent that the effort to repeal and immediately replace the failure of Obamacare will not be successful," McConnell said in a statement. ([CNN](http://www.cnn.com/2017/07/18/politics/health-care-state-of-play/index.html))
+
+{% twitter https://twitter.com/SenateMajLdr/status/887142105583431680 %}
+
+* **Why is Mitch McConnell still calling for a health-care vote?** The effort to “repeal and immediately replace” Obamacare “will not be successful,” McConnell admitted. ([Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2017/07/18/what-mitch-mcconnell-is-doing-next-on-health-care-explained/))

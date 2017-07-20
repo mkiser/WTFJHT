@@ -132,13 +132,11 @@ jekyll-archives:
     month: "/archive/:year/:month/"
 gems:
 - jekyll-gist
-# - jekyll-admin
 - jekyll-redirect-from
 - github-pages
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
-# - amp-jekyll
 - jekyll-twitter-plugin
 - jekyll-extlinks
 - jekyll-archives

@@ -1,9 +1,9 @@
 ---
 title: What The Fucking Mediarati Are Saying
-layout: page
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
+layout: page
 ---
 
 Don't believe the hype? How about some social proof. Here's what the smartest people on the Internet are saying about [What The Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com):
@@ -16,7 +16,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 4/ **Your Guide to the Sprawling New Anti-Trump Resistance Movement**. An explosion of new activism offers a ray of hope in these dark political times. ([The Nation](https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/){:target="_blank"})
 
-5/ **"What The F*ck Just Happened Today?" Chronicles Our Daily Political Insanity**. In case you're sick of just checking Twitter 24 hours a day, now you can get all your Trump news in one convenient package. ([FastCoExist](https://www.fastcoexist.com/3068185/what-the-fck-just-happened-today-chronicles-our-daily-political-insanity){:target="_blank"})
+5/ *"What The F*ck Just Happened Today?" Chronicles Our Daily Political Insanity\*. In case you're sick of just checking Twitter 24 hours a day, now you can get all your Trump news in one convenient package. ([FastCoExist](https://www.fastcoexist.com/3068185/what-the-fck-just-happened-today-chronicles-our-daily-political-insanity){:target="_blank"})
 
 6/ **This email newsletter tries to make sense of Trump's America**. A daily email newsletter has emerged to help keep everyone's heads from spinning off trying to keep up. Most importantly it answers the perpetual question of "WTF just happened today?" ([Mashable](http://mashable.com/2017/02/10/wtf-just-happened-today-email-newsletter/#Cq17yL2QWOq1){:target="_blank"})
 
@@ -42,13 +42,12 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 17/ **WTF, Kiser?** Each day is posted with its overriding theme followed by a numbered and sourced list of WTF went down that day. It’s such a simple and logical approach to keeping tabs on the state of the country. ([Chico News and Review](https://www.newsreview.com/chico/arts-devo/content?oid=23646690){:target="_blank"})
 
-18/ **Best New Website: Read "What The F*ck Just Happened" every day**. The site is really fun, in a sort of masochistic, sicko way. Unlike the White House and its staff, Kiser is dedicated to facts and to accuracy. Every entry on the site includes a link to the news source that first reported it. ([Liberal America](http://www.liberalamerica.org/2017/02/10/best-new-website-read-what-fck-happened-every-day/){:target="_blank"})
+18/ *Best New Website: Read "What The F*ck Just Happened" every day\*. The site is really fun, in a sort of masochistic, sicko way. Unlike the White House and its staff, Kiser is dedicated to facts and to accuracy. Every entry on the site includes a link to the news source that first reported it. ([Liberal America](http://www.liberalamerica.org/2017/02/10/best-new-website-read-what-fck-happened-every-day/){:target="_blank"})
 
 19/ **WTF Just Happened Today available as an Amazon skill**. The seven-day a week newsletter that summarizes the most important political stories of the day is now available on Amazon Echo! ([Boing Boing](https://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html){:target="_blank"})
 
 20/ **The Trump Era’s Anti-Anxiety Pill Is a Newsletter Out of Seattle**.
 It looks like facts, but it feels like coping. ([The Observer](http://observer.com/2017/05/what-the-fuck-just-happened-today/))
-
 
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}
@@ -90,6 +89,8 @@ It looks like facts, but it feels like coping. ([The Observer](http://observer.c
 {% twitter https://twitter.com/couchtomoon/status/830961493449531393 hide_media=true %}
 {% twitter https://twitter.com/jesseisgolfing/status/864925693276246016 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/chesleydohl/status/864885824063553536 hide_media=true %}
+
+{% twitter https://twitter.com/palafo/status/888027668008112128 %}
 {% twitter https://twitter.com/StephanieWei/status/863052837454045186 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/mikewhills/status/864249722315386880 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/iancavalier/status/862880484677697537 hide_media=true %}

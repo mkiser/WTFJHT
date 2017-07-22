@@ -1,0 +1,46 @@
+---
+title: Day 184
+date: 2017-07-22 11:11:00 -07:00
+description: Complete power.
+image: "/uploads/184.jpg"
+---
+
+1/ **Trump lost his shit on Twitter today**. In a two hour rant he asserted his "complete power" to pardon himself, decried "illegal leaks," blamed Hillary, defended Trump Jr. and his new communications director, called Democrats obstructionist, and declared Obamacare dead. ([The Daily Beast](http://www.thedailybeast.com/trump-loses-saturday-morning-cool-fires-off-multiple-tweets-in-long-rant) / [ABC News](http://abcnews.go.com/Politics/trump-twitter-tirade-blasts-leak-sessions-refers-presidential/story?id=48790289) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/07/22/trump-denounces-illegal-leaks-in-new-accounts-of-his-campaigns-contact-with-russia/) / [New York Magazine](http://nymag.com/daily/intelligencer/2017/07/trump-asserts-complete-pardon-power.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/888708453560184832 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/888711488717934592 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/888724194820857857 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/888726438265966592 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/888727293346156546 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/888730468732067841 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/888733031875346432 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/888734848550043648 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/888736256145985536  %}
+
+* **Legal experts doubt Trump could pardon himself in the Russia inquiry**. The constitution does not weigh in explicitly on the issue and there is no direct precedent. No president has ever attempted to self-pardon. ([The Guardian](https://www.theguardian.com/us-news/2017/jul/22/pardon-donald-trump-russia-investigation-legal-experts))
+
+2/ **Jeff Sessions discussed the Trump campaign with the Russian ambassador** while serving as Trump's foreign policy adviser. US intelligence intercepts show Sessions and Sergey Kislyak had “substantive” discussions on Trump’s positions on Russia-related issues, prospects for US-Russia relations in a Trump administration, and other policy issues important to Moscow. Sessions initially failed to disclose his contacts with Kislyak, but later said that the meetings were not about the Trump campaign. ([Washington Post](https://www.washingtonpost.com/world/national-security/sessions-discussed-trump-campaign-related-matters-with-russian-ambassador-us-intelligence-intercepts-show/2017/07/21/3e704692-6e44-11e7-9c15-177740635e83_story.html))
+
+* **Senator Chuck Grassley called on the anonymous leaker to release the alleged Sessions-Russia conversations**. "LEAKER: stop tease/leak entire conversation/end speculation," Grassley tweeted. ([The Hill](http://thehill.com/homenews/administration/343285-grassley-calls-on-leaker-to-release-sessions-conversation))
+
+* {% twitter https://twitter.com/ChuckGrassley/status/888765555179528192 %}
+
+* {% twitter https://twitter.com/ChuckGrassley/status/888780076497514497 %}
+
+3/ **Jared Kushner and Ivanka Trump filed new financial disclosures revealing they could be worth more than $762 million**. In his 39th revised filing, Kushner "inadvertently omitted" 77 items from his first form. Ivanka Trump, for the first time, filed documents disclosing the couple's art collection (valued at up to $25 million) and that she's been paid as much as $5 million from her outside businesses between January 1st and when she entered the White House on March 8th. ([CNN](http://money.cnn.com/2017/07/21/news/jared-kushner-ivanka-trump-financial-disclosure/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-07-21/kushner-s-amended-financial-disclosure-shows-sprawling-assets-j5egyvpg) / [Washington Post](https://www.washingtonpost.com/politics/kushner-failed-to-disclose-dozens-of-financial-holdings-new-document-shows/2017/07/21/1a11a566-6e35-11e7-96ab-5f38140b38cc_story.html))
+
+4/ **Key provisions in the Republican health care bill don't comply with the Senate’s budget rules**. The so-called “Byrd Rule” makes sure policies passed under “budget reconciliation” — which allows legislation to advance with only 51 votes instead of the usual 60 needed to get past a filibuster — either decrease federal spending or increase revenue. The 52 Senate Republicans will now need to votes to preserve each provision flagged by the Senate Budget Committee for violating the Byrd rule. ([Politico](http://www.politico.com/story/2017/07/21/democrats-key-provisions-stripped-from-obamacare-bill-240820) / [Vox](https://www.vox.com/policy-and-politics/2017/7/21/16012950/senate-health-care-bill-byrd-rule-rulings))
+
+5/ **The House and Senate reached a Russia sanctions deal**. The legislation will give Congress the ability to block Trump from easing sanctions on Moscow. The bill includes new sanctions against Russia, Iran, and North Korea. The bill is set for a vote Tuesday. ([CNN](http://www.cnn.com/2017/07/22/politics/congress-deal-russia-sanctions/index.html) / [Washington Post](https://www.washingtonpost.com/powerpost/congress-breaks-impasse-on-bill-to-slap-sanctions-on-russia-iran-and-north-korea/2017/07/22/c89d5cb6-6d58-11e7-96ab-5f38140b38cc_story.html) / [ABC News](http://abcnews.go.com/Politics/congress-strikes-deal-bill-slap-sanctions-russia/story?id=48792838))
+
+6/ **The new White House communications director praised Breitbart News**, saying they've "captured the spirit of what's actually going on in the country." Anthony Scaramucci said he wants to get Trump's unfiltered message to his supporters via Twitter, bypassing mainstream media Trump often calls "fake news," while hoping to de-escalate "unfairness and bias in the media." ([Politico](http://www.politico.com/story/2017/07/22/scaramucci-praises-breitbart-first-interview-240848))
+
+7/ **The Director of National Intelligence said now US intelligence agencies dispute Russian election meddling**, pushing back on Trump’s claim there was a misunderstanding between the agencies. “There is no dissent, and I have stated that publicly and I have stated that to the president,” Dan Coats said. Trump had previously claimed that only “three or four” agencies came to the conclusion that Russian meddled in the election. ([The Hill](http://thehill.com/blogs/blog-briefing-room/news/343290-us-intelligence-chief-no-agencies-dispute-russian-election))

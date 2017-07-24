@@ -107,8 +107,6 @@ footer {
   margin: 1em auto;
   text-align: center;
   max-width: 40rem;
-  padding: 1rem;
-  border: 1px solid #eee;
 }
 
 .tout {
@@ -137,18 +135,14 @@ footer {
   text-decoration: none !important;
 }
 
+
 .donorbox {
-  position: relative;
-  padding-bottom: 56.2%;
-  height: 0;
+  position: relative;  
   margin: 10px 0;
-  overflow: hidden;
 }
 
 .donorbox iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  max-width: 425px; 
+  margin: auto; 
+  display: block;
 }

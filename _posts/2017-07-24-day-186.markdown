@@ -17,11 +17,21 @@ image: "/uploads/186.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/889467610332528641 %}
 
-4/ **Trump threatened Republicans that the "repercussions will be far greater" than they expect** if they don't repeal and replace Obamacare. Earlier, Trump went after members of his own party, saying Republicans "do very little to protect their President."([Politico](http://www.politico.com/story/2017/07/23/trump-republicans-obamacare-repeal-240866) / [The Hill](http://thehill.com/homenews/administration/343397-trump-warns-of-repercussions-of-healthcare-failure))
+4/ **Trump threatened Republicans that the "repercussions will be far greater" than they expect** if they don't repeal and replace Obamacare. Earlier, Trump went after members of his own party, saying Republicans "do very little to protect their President." The Senate is a planing a vote this week on the revised healthcare legislation. ([Politico](http://www.politico.com/story/2017/07/23/trump-republicans-obamacare-repeal-240866) / [The Hill](http://thehill.com/homenews/administration/343397-trump-warns-of-repercussions-of-healthcare-failure))
 
 {% twitter https://twitter.com/realDonaldTrump/status/889217183930351621 %} 
 
 {% twitter https://twitter.com/realDonaldTrump/status/889274373689028609 %}
+
+5/ **Scaramucci: Trump is unconvinced that Russia attempted to influence the 2016 election**. The new communications director said doesn't accept the intelligence community's conclusion that the Russian government attempted to hurt Hillary Clinton and help Trump. Trump tweeted: "As the phony Russian Witch Hunt continues, two groups are laughing at this excuse for a lost election taking hold, Democrats and Russians!" ([CNN](http://www.cnn.com/2017/07/23/politics/anthony-scaramucci-donald-trump/index.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/889215815022727168 %}
+
+6/ **Scaramucci outs Trump as his anonymous source** while disputing the conclusion that Russian meddled in the election. “Somebody said to me yesterday — I won’t tell you who — that if the Russians actually hacked this situation and spilled out those emails, you would have never seen it, you would have never had any evidence of them," Scaramucci said. After meeting with Putin in Germany, Trump said that "somebody did say" that if Putin did order the hacking, "you wouldn’t have found out about it." Trump didn't say who that "somebody" was but called the idea "a very interesting point." ([The Hill](http://thehill.com/homenews/sunday-talk-shows/343373-scaramucci-outs-trump-as-anonymous-source-on-russian-intel) / [New York Times](https://www.nytimes.com/2017/07/23/world/europe/trump-putin-sanctions-hacking.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-interview-highlights-idUSKBN19X34X))
+
+7/ **Kellyanne Conway says Russia is "not a big story" and that Trump “doesn’t think he’s lying” about voter fraud and wiretapping**. Conway claimed that the media doesn’t offer “complete coverage” of the Trump administration and that it's “incredibly unfair and systematically against this president.” Trump has claimed that millions have voted illegally and accused Obama of wiretapping him — despite having no proof of it happening. Conway said Trump "doesn’t think he’s lying about those issues." ([CNN](http://money.cnn.com/2017/07/23/media/kellyanne-conway-brian-stelter-russia/index.html) / [Salon](http://www.salon.com/2017/07/23/kellyanne-conway-trump-doesnt-think-hes-lying-about-voter-fraud-and-wiretapping/))
+
+{% twitter https://twitter.com/ReliableSources/status/889142291566403587 %}
 
 poll/ **Trump averaged a 50% or higher job approval rating in 17 states** from January to June. And now, let the wild rumpus start: West Virginia (60% approval), North Dakota (59%), South Dakota (57%), Montana (56%), Wyoming (56%), Alabama (55%), Oklahoma (54%), Kansas (53%), Kentucky (53%), Arkansas (53%), and Idaho (53%). ([Gallup](http://www.gallup.com/poll/214349/trump-averaged-higher-job-approval-states.aspx))
 

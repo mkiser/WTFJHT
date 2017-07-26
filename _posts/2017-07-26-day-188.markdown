@@ -15,6 +15,10 @@ image: "/uploads/188.jpg"
 
 * **Tom Price: do whatever "gets us to 50 votes so that we can move forward on a health-care reform legislation."** The Health and Human Services Secretary urged Senate Republicans to aim for the "lowest common denominator" to keep the Obamacare repeal alive. ([CNBC](http://www.cnbc.com/2017/07/26/hhs-secretary-tom-price-senate-must-aim-for-lowest-common-denominator-on-health-care.html))
 
+* **Trump took aim at Senator Lisa Murkowski**, tweeting that she "really let the Republicans, and our country, down yesterday. Too bad." Murkowski and Senator Susan Collins were the only two GOP senators to vote against a procedural vote to begin debate on repealing Obamacare. ([CNN](http://www.cnn.com/2017/07/26/politics/twitter-trump-murkowski-health-care/index.html))
+
+* {% twitter https://twitter.com/realDonaldTrump/status/890168183079960576 %}
+
 2/ **The House approved bipartisan sanctions against Russia while limiting Trump's power to waive them** without a Congressional review. The package, which also includes sanctions against Iran and North Korea, passed 419 to 3. It sets up a veto dilemma for Trump: he can sign or veto the bill, but the Senate, like the House, is expected to pass the legislation by a veto-proof margin. ([NBC News](http://www.nbcnews.com/politics/congress/house-decisively-passes-sanctions-bill-curbing-trump-s-power-n786566) / [Washington Post](https://www.washingtonpost.com/powerpost/house-prepares-to-pass-sanctions-bill--and-set-up-veto-dilemma-for-trump/2017/07/25/ece80164-7138-11e7-8839-ec48ec4cae25_story.html) / [CNN](http://www.cnn.com/2017/07/25/politics/iran-sanctions-bill/index.html))
 
 3/ **Russia threatened to retaliate against the new sanctions, warning of a "painful" response** and saying the sanctions make it impossible to achieve Trump's goal of improved Russian relations. Russia has reportedly prepared “economic and political measures that will be adopted if the Senate and Trump support the bill." ([Bloomberg](https://www.bloomberg.com/news/articles/2017-07-26/russia-says-new-u-s-sanctions-killing-chances-for-improved-ties))

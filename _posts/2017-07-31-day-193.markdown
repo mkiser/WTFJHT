@@ -1,0 +1,36 @@
+---
+title: Day 193
+date: 2017-07-31 08:25:00 -07:00
+description: Total quitters.
+image: "/uploads/193.jpg"
+---
+
+\*\*\* UPDATES IN PROGRESS \*\*\*
+
+1/ **Trump's swears in his new chief of staff**, saying he has “no doubt” that John Kelly will do a “spectacular job” in his new role. Kelly is a retired four-star Marine general and will take over for Reince Priebus. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/07/31/trump-swears-in-kelly-as-new-chief-of-staff-promising-a-spectacular-job/) / [CNN](http://www.cnn.com/2017/07/31/politics/john-kelly-chief-of-staff/index.html))
+
+2/ **The bipartisan group of House members plan to unveil their proposed Obamacare fixes today**. Their plan focuses on stabilizing the insurance market by funding the cost-sharing subsidies and then pushing for Obamacare changes that have received bipartisan backing in the past. ([Politico](http://www.politico.com/story/2017/07/30/obamacare-health-care-stabilization-241151))
+
+3/ **Trump threatened to end Obamacare payments unless a repeal-and-replace bill is passed**. "After seven years of 'talking' Repeal & Replace, the people of our great country are still being forced to live with imploding ObamaCare!" Trump tweeted. "If a new HealthCare Bill is not approved quickly, BAILOUTS for Insurance Companies and BAILOUTS for Members of Congress will end very soon!" Senate Minority Leader Charles Schumer responded, saying Trump should "stop playing politics with people's lives and health care, start leading, and finally begin acting presidential." ([The Hill](http://thehill.com/homenews/administration/344463-trump-threatens-to-end-csr-payments-if-healthcare-reform-isnt-passed))
+
+{% twitter https://twitter.com/realDonaldTrump/status/891332290474848257 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/891334415347060736 %}
+
+{% twitter https://twitter.com/SenSchumer/status/891359143923265537 %}
+
+* **Susan Collins said Trump’s threats to cut off funding for key Obamacare payments won’t change her vote** on the GOP’s plan to repeal it. “It would not affect my vote on healthcare, but it’s an example of why we need to act: to make sure that those payments, which are not an insurance company bailout, but rather help people who are very low-income afford their out-of-pocket costs toward their deductibles and their co-pays,” Collins said. “It really would be detrimental to some of the most vulnerable citizens if those payments were cut off.” ([The Hill](http://thehill.com/homenews/senate/344549-collins-trumps-threat-to-end-obamacare-payments-wont-change-my-vote))
+
+4/ **After a contentious week in Washington, one senator says the Republicans are complicit if they don't call our Trump.** Jeff Flake added that the Republican Party has "lost its way," and is urging members to turn back to what he calls "traditional conservatism." "The last thing you want to do is wake up every morning and see a tweet... You know, it's tough not to just say, 'I'm not going to respond,'" Flake said. "And we can't respond to everything. But there are times when you have to stand up and say, 'I'm sorry. This is wrong.'" ([CBS News](http://www.cbsnews.com/news/senator-jeff-flake-republican-party-lost-its-way/))
+
+5/ **Trump plans to sign the Russian sanctions bill**, which places sanctions on Russia, North Korea, and Iran, and limits Trump's ability to lift them unilaterally. It was passed by veto-proof margins in the Senate (98-2) and House (419-3). ([NBC News](http://www.nbcnews.com/politics/politics-news/trump-sign-bill-imposing-new-sanctions-russia-white-house-says-n787706))
+
+* **Pence reassured NATO’s Baltic member states that the US stands behind its mutual-defense commitment** and will "hold Russia accountable for its actions." ([Politico](http://www.politico.com/story/2017/07/31/mike-pence-russia-estonia-visit-241160))
+
+6/ **Russia slashed 60% of US embassy and consular staff in response to new American sanctions**. The US will need to cut 755 of it's roughly 1,200 diplomatic staff in Russia, meant to cause discomfort for Washington and its representatives in Moscow. ([New York Times](https://www.nytimes.com/2017/07/30/world/europe/russia-sanctions-us-diplomats-expelled.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia-retaliation-putin-idUSKBN1AF0S5))
+
+7/ **Democrats move to revoke Jared Kushner’s security clearance**, introducing the Security Clearance Review Act, which gives the FBI Director the authority to revoke the security clearance of executive branch employees whose actions may pose a threat to national security. At least 20 Democrats have cosigned on the bill. ([Salon](http://www.salon.com/2017/07/28/democrats-move-to-revoke-jared-kushners-security-clearance/))
+
+poll/ **64% of American want Congress to move on from healthcare reform** by either keeping Obamacare "entirely as is" or fixing "problem areas." That's up from 54% in January. ([Reuters](https://www.reuters.com/article/us-usa-healthcare-poll-idUSKBN1AE0RY))
+
+poll/ **47% of Americans prefer the Republicans work with Democrats to improve Obamacare**. 21% would rather Republicans try to repeal it outright. 19% want Republicans to replace it with something else. ([CBS News](http://www.cbsnews.com/news/poll-americans-urge-bipartisanship-on-future-health-care-plans/))

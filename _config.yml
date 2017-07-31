@@ -29,7 +29,7 @@ tagline: Today's essential newsletter. Logging the daily shock and awe in nation
 description: Today's essential newsletter. Logging the daily shock and awe in national
   politics. Read in moderation.
 url: https://whatthefuckjusthappenedtoday.com
-baseurl: ''
+baseurl: 
 source: "."
 destination: "./_site"
 plugins_dir: _plugins

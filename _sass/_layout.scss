@@ -164,7 +164,7 @@ footer {
 }
 
 .btn {
-  display: inline-block;
+  display: inline;
   padding: 6px 12px;
   width: 50%;
   margin-top: 10px;
@@ -189,7 +189,14 @@ footer {
 .btn-info {
   color: #fff;
   background-color: #eb583c;
-  border-color: #fff;;
+  border-color: #fff;
+}
+
+@media (max-width: 374px) {
+    .btn {
+      display: inline-block;
+      padding: 2px 12px;
+    }
 }
 
 .btn-outline {

@@ -53,6 +53,6 @@ image: "/uploads/193.jpg"
 
 * **At a cybersecurity conference, hackers were able to breach 30 different machines in "only a few minutes."** The DEF CON conference hosted a "Voting Machine Village," where attendees could try to hack a number of systems to help catch vulnerabilities and raise awareness about election machine security issues. The conferences hopes that the attendees will pressure states to do more to protect those systems. ([The Hill](http://thehill.com/policy/cybersecurity/344488-hackers-break-into-voting-machines-in-minutes-at-hacking-competition))
 
-poll/ **64% of American want Congress to move on from healthcare reform** by either keeping Obamacare "entirely as is" or fixing "problem areas." That's up from 54% in January. ([Reuters](https://www.reuters.com/article/us-usa-healthcare-poll-idUSKBN1AE0RY))
+poll/ **64% of Americans want Congress to move on from healthcare reform** by either keeping Obamacare "entirely as is" or fixing "problem areas." That's up from 54% in January. ([Reuters](https://www.reuters.com/article/us-usa-healthcare-poll-idUSKBN1AE0RY))
 
 poll/ **47% of Americans prefer the Republicans work with Democrats to improve Obamacare**. 21% would rather Republicans try to repeal it outright. 19% want Republicans to replace it with something else. ([CBS News](http://www.cbsnews.com/news/poll-americans-urge-bipartisanship-on-future-health-care-plans/))

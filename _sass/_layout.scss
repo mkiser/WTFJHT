@@ -147,3 +147,63 @@ footer {
   display: block;
   min-height: 566px;
 }
+
+.pledge-drive-bottom {
+  display: block;
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+  left: 0px;
+  z-index: 5000;
+  background: #eb583c;
+  margin: 0;
+  overflow: visible;
+  padding: 0;
+  color: #fff;
+  padding: 10px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  width: 50%;
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.428571429;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.btn-info {
+  color: #fff;
+  background-color: #eb583c;
+  border-color: #fff;;
+}
+
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+}
+
+.btn-info.btn-outline {
+    color: #fff;
+}
+
+.btn-info.btn-outline:hover {
+  color: #eb583c;
+  background-color: #fff;
+  text-decoration: none;
+}

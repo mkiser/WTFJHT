@@ -25,7 +25,7 @@ MailChimp charges by the number of subscribers you have AND the number of monthl
 The costs of sending email will continue to go up as more people subscribe. MailChimp is an awesome company and they've provided us with a 15% discount. _Monthly Cost:_ At least $800
 
 **WTFJHT Community Center:**
-While not technically launched, yet, I'm launching a private community forum. It's a [Discourse](http://www.discourse.org/){:target="_blank"} community hub, which is amazing, free, and open sourced. It needs to be hosted somewhere, however. The provider of choice is [Digital Ocean](https://www.digitalocean.com){:target="_blank"}. _Monthly Cost:_ ~$20
+The [WTF Member Forum](https://talk.whatthefuckjusthappenedtoday.com/) is a community that exists 24/7/365 to discuss the news, coordinate actions, share perspectives, and connect with likeminded people. It's a [Discourse](http://www.discourse.org/){:target="_blank"} community hub, which is amazing, free, and open sourced. It needs to be hosted somewhere, however. The provider of choice is [Digital Ocean](https://www.digitalocean.com){:target="_blank"}. _Monthly Cost:_ ~$20
 
 **Labor:**
 Here's my conservative daily breakdown in time spent:

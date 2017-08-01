@@ -1,4 +1,5 @@
 <div class="pledge-drive-bottom">
+	<span id="close">&#10006;</span>
 	<center>
 		<div style="padding-bottom:10px;">Support WTFJHT today.</div>
 		<div>
@@ -7,4 +8,13 @@
 		<a href="https://gum.co/wtfstickers" target="_blank" class="btn btn-info btn-outline">Buy Stickers</a>
 	</div>
 </center>
+<script>
+window.onload = function(){
+    document.getElementById('close').onclick = function(){
+        this.parentNode.parentNode.parentNode
+        .removeChild(this.parentNode.parentNode);
+        return false;
+    };
+};
+</script>
 </div>

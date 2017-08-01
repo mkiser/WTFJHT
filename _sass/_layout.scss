@@ -217,10 +217,20 @@ footer {
 
 #close {
   color: #fff;
+  float: left;
+  margin-top: 4px;
+  height: 20px;
+  width: 20px;
+  text-align: center;
+  display: block;
 }
 
 #close:hover {
   color: #eb583c;
   background-color: #fff;
-  padding: 2px;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  text-align: center;
+  display: block;
 }

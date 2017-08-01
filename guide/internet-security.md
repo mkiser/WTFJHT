@@ -50,9 +50,9 @@ For more on passwords, read [Password Do’s and Don’ts from Krebs on Security
 
 ## 3/ Install uBlock Origin
 
-uBlock Origin is an ad blocker that does exactly what you think it does: prevents ads from loading on web pages. This is great for several reasons: faster web browsing, less stuff to download, and it prettifies web sites. But the best reason is that they also block those sneaky trackers used to retarget the same ad over and over again.
+uBlock Origin is free and takes two seconds to install on your browser. Get it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en){:target="_blank"} and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}. The [Safari](https://github.com/el1t/uBlock-Safari) installation is a little trickier – you'll have to do it manually. [Follow the instructions here](https://github.com/el1t/uBlock-Safari/tree/safari/dist#install){:target="_blank"} to download and install (it takes five total clicks). 
 
-uBlock Origin is free and takes two seconds to install on your browser. Get it for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en){:target="_blank"} and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/){:target="_blank"}. The [Safari](https://github.com/el1t/uBlock-Safari) installation is a little trickier – you'll have to do it manually. [Follow the instructions here](https://github.com/el1t/uBlock-Safari/tree/safari/dist#install){:target="_blank"} to download and install (it takes five total clicks).
+uBlock Origin is an ad blocker that does exactly what you think it does: prevents ads from loading on web pages. This is great for several reasons: faster web browsing, less stuff to download, and it prettifies web sites. But the best reason is that they also block those sneaky trackers used to retarget the same ad over and over again.
 
 ## 4/ Install HTTPS Everywhere
 
@@ -62,9 +62,7 @@ HTTPS Everywhere from the [Electronic Frontier Foundation](https://www.eff.org/)
 
 ## 5/ Install Privacy Badger
 
-Privacy Badger is similar to an ad blocker, but for preventing third-party cookies from recording your browsing habits. 
-
-Privacy Badger is a free browser extension that blocks certain cookies and third-party content.
+Privacy Badger is similar to an ad blocker, but for preventing third-party cookies from recording your browsing habits. It's a free browser extension that blocks certain cookies and third-party content.
 
 Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="_blank"} here. Sorry Safari.
 
@@ -76,7 +74,7 @@ Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="
 
 A VPN stands for Virtual Private Network and is a way of using the internet in a much more secure way. It works by encrypting your data (Private) and then routing your traffic through servers elsewhere in the world (Virtual Network) so no one can see what you are up to. If you use public wifi at a cafe, hotel, or airport, a VPN is essential.
 
-**Choose a VPN**. A VPN you can trust costs money. Period. Most options will cost you $10 or less per month. I personally use [Private Internet Access](https://www.privateinternetaccess.com/pages/buy-vpn/){:target="_blank"}. It's barebones, but it's also $3.33/mo. [Nord](https://nordvpn.com/pricing/){:target="_blank"} is another good choice, which looks to be more user friendly and costs $5.75/mo.
+**Choose a VPN**. A VPN you can trust costs money. Period. Most options will cost you $10 or less per month. I personally use [Private Internet Access](https://www.privateinternetaccess.com/pages/buy-vpn/){:target="_blank"}. It's barebones, but it's also $3.33/mo. [Nord](https://nordvpn.com/pricing/){:target="_blank"} is another good choice, which looks to be more user friendly and costs $5.75/mo. You can also check out [TorrentFreak's 2017 VPN Q&A](https://torrentfreak.com/vpn-services-anonymous-review-2017-170304/){:target="_blank"} to learn more about the different VPN services available.
 
 **Using your VPN**. Some people leave their VPN on 24/7. Others only use it when they're doing something extra private (i.e. porn). If you're a normal person using the internet, I'd suggest this rule of thumb: if you're using the internet outside of your home, turn on your VPN. Note: if you're going to login to your bank or a financial institution, turn off your VPN – you'll likely get flagged and locked out of your account since you'll appear to be somewhere else in the world.
 

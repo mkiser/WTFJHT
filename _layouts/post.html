@@ -7,7 +7,7 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">
-    <a href="{{ site.baseurl }}{{ post.url }}">
+    <a href="{{ site.baseurl }}{{ page.url }}">
       {{ page.title }}:
     <span class="post-small">{{ page.description }}</span></a>
   </h1>
@@ -42,4 +42,6 @@ layout: default
       <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
     {% endif %}
   </div>
+
+  {% include comments.html %}
 </article>

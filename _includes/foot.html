@@ -9,64 +9,18 @@
     <li><a href="{{ site.baseurl }}/first-100-days/">The First 100 Days</a></li>
     <li><a href="{{ site.baseurl }}/archive">Archive</a></li>
   </ul>
-
-  <p xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">
-    <br><small>What The Fuck Just Happened Today? by <a xmlns:cc="http://creativecommons.org/ns#" href="https://whatthefuckjusthappenedtoday.com/about/" property="cc:attributionName" rel="cc:attributionURL">Matt Kiser</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</small>
-  </p>
+  {% include copyright.html %}
   {% include membership.html %}
 </footer>
-<!-- ALGOLIA -->
- 
- <script>
-    window.ALGOLIA_CONFIG = {
-      'applicationId': '{{ site.algolia.application_id }}',
-      'indexName': '{{ site.algolia.index_name }}',
-      'apiKey': '{{ site.algolia.read_only_api_key }}',
-      'baseurl': '{{ site.baseurl }}'
-    }
-  </script>
-  <script id="algolia__template" type="text/template">
-  {% raw %}
-    <div class="algolia__result">
-      <h1 class="post-title"><a href="{{ full_url }}">{{{ title }}}: {{{ description }}}</a></h1>
-      {{#posted_at}}
-      <div class="algolia__result-date">{{ posted_at_readable }}</div>
-      {{/posted_at}}
-      <div class="algolia__result-text">{{{ _highlightResult.text.value }}}</div>
-    </div>
-  {% endraw %}
-  </script>
-  <script id="algolia__template--no-results" type="text/template">
-    Fake news not found.
-  </script>
-  
-  <script src="{{ site.baseurl }}/public/js/anchor.min.js"></script>
-  <script src="{{ site.baseurl }}/public/js/jquery.min.js"></script>
-  <script src="{{ site.baseurl }}/public/js/algoliasearch.min.js"></script>
-  <script src="{{ site.baseurl }}/public/js/algoliasearch.helper.min.js"></script>
-  <script src="{{ site.baseurl }}/public/js/hogan.min.js"></script>
-  <script src="{{ site.baseurl }}/public/js/moment.min.js"></script>
-  <script src="{{ site.baseurl }}/public/js/algolia.js"></script>
-  <script src="{{ site.baseurl }}/public/js/jquery.scrolldepth.min.js"></script>
-  <script src="{{ site.baseurl }}/public/js/riveted.min.js"></script>
-  <script>riveted.init();</script>
-  
-  <script>
-  jQuery(function() {
-    jQuery.scrollDepth({
-      userTiming: false,
-      pixelDepth: false
-    });
-  });
-  </script>
+  {% include algolia.html %}
+  {% include js.html %}
+  {% include scrolldepth.html %}
   {% include clickEvent.html %}
   {% if page.layout == 'post' %}
-    <!-- {% include h.html %} -->
     {% include anchors.html %}
   {% endif %}
   {% include intercom.html %}
   </body>
-
 <!--  
          _    _ ___________ ___ _   _ _____ 
    ____ | |  | |_   _|  ___|_  | | | |_   _|

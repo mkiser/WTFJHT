@@ -27,4 +27,4 @@ image: "/uploads/197.jpg"
 
 poll/ **44% of Americans in battleground districts would strongly oppose Trump firing special counsel Mueller**. ([USA Today](https://www.usatoday.com/story/news/politics/2017/08/04/poll-americans-swing-districts-oppose-trump-firing-robert-mueller/538793001/))
 
-poll/ **Most voters want Democrats to take control of Congress in 2018**. 52% want Democrats to take the House, while 53% are in favor of Democrats taking the Senate. There are 10 Democrats in red states up for re-election in 2018 and one blue-state Republican. ([Quinnipiac](https://poll.qu.edu/images/polling/us/us08032017_Ujm62prt.pdf/))
+poll/ **Most voters want Democrats to take control of Congress in 2018**. 52% want Democrats to take the House, while 53% are in favor of Democrats taking the Senate. There are 10 Senate Democrats in red states up for re-election in 2018 and one blue-state Senate Republican. ([Quinnipiac](https://poll.qu.edu/images/polling/us/us08032017_Ujm62prt.pdf/))

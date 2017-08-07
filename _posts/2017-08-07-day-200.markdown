@@ -1,0 +1,44 @@
+---
+title: Day 200
+date: 2017-08-07 08:50:00 -07:00
+description: A case of the Mondays.
+image: "/uploads/200.jpg"
+---
+
+1/ **Trump took to Twitter on his first day of vacation to lash out at the “Fake News” media and insist that his political base is only “getting stronger"** despite a drop-off in his approval rating and the intensifying Russian investigation. “The Trump base is far bigger and stronger than ever before (despite some phony Fake News polling). Look at rallies in Penn, Iowa, Ohio and West Virginia,” Trump tweeted. “The fact is the Fake News Russian collusion story, record Stock Market, border security, military strength, jobs, Supreme Court pick, economic enthusiasm, deregulation and so much more have driven the Trump base even closer together. Will never change!” He added: “Hard to believe that with 24/7 #Fake News on CNN, ABC, NBC, CBS, NYTIMES and WAPO, the Trump base is getting stronger!”
+
+A recent [Quinnipiac poll](https://whatthefuckjusthappenedtoday.com/2017/08/02/day-195/#poll-61-disapprove-of-trumps-job-per) showed that 61% of voters disapprove of Trump's job performance while 33% approve. Trump is at his golf resort in New Jersey for the start of a 17-day vacation. ([New York Times](https://www.nytimes.com/2017/08/07/us/politics/trump-breaks-from-vacation-to-tweet-outrage-at-media-and-rally-his-base.html) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/07/trump-says-his-political-base-is-stronger-than-ever-despite-polling-to-the-contrary/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/894512983384129536 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/894514535062790144 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/894515865802223616 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/894518002795900928 hide_thread=true %}
+
+2/ **Robert Mueller asked the White House for documents related to Michael Flynn** and whether he was secretly paid by the Turkish government during the presidential campaign. Flynn's consulting business was paid $530,000 to discredit an opponent of the Turkish government. Investigators want to know if the Turkish government was behind those payments. Meanwhile, Mueller is investigating whether Trump committed obstruction of justice by pressing James Comey to end the Flynn inquiry. ([New York Times](https://www.nytimes.com/2017/08/04/us/politics/robert-mueller-michael-flynn-turkey.html))
+
+3/ **Kellyanne Conway refused to say if Trump has ruled out firing Mueller** while appearing on ABC’s This Week. “He’s not discussed firing Bob Mueller,” Conway said. "He is not discussing that." Four senators have introduced legislation to protect Mueller. ([The Guardian](https://www.theguardian.com/us-news/2017/aug/06/donald-trump-robert-mueller-russia-kellyanne-conway))
+
+4/ **Rod Rosenstein said Mueller can investigate any crimes he discovers within the scope of his probe**. Trump has said it would be inappropriate for Mueller to [dig into his family's finances](https://whatthefuckjusthappenedtoday.com/2017/07/20/day-182/#1-trump-would-have-never-hired-jeff), dismissing the probe as [“a total fabrication.”](https://whatthefuckjusthappenedtoday.com/2017/08/04/day-197/#2-trump-used-a-campaign-style-rally) The Deputy Attorney General added that "the president has not directed us to investigate particular people," in reference to Trump’s recent comment that prosecutors should be [investigating Hillary Clinton’s deleted emails](https://whatthefuckjusthappenedtoday.com/2017/07/25/day-187/#3-trump-ripped-jeff-sessions-on-twit). Democrats and some Republicans are concerned that Trump is looking for ways to undermine the investigation. ([Washington Post](https://www.washingtonpost.com/powerpost/rosenstein-special-counsel-mueller-can-investigate-any-crimes-he-uncovers-in-russia-probe/2017/08/06/2209365a-7aae-11e7-83c7-5bd5460f0d7e_story.html) / [The Hill](http://thehill.com/homenews/administration/345528-rosenstein-trump-has-not-directed-us-to-investigate-particular-people))
+
+* **A Republican senator on the Senate Judiciary Committee doesn't agree that the Russia investigation is a "witch hunt."** Thom Tillis said “I'm not sure that I agree with the witch hunt, and we'll let the facts lead us to whether or not it was a hoax." ([ABC News](http://abcnews.go.com/Politics/republican-senator-unsure-agrees-trump-russia-probe-witch/story?id=49053096))
+
+5/ **Rosenstein: Prosecutors don't intend to go after reporters**. "We're after the leaker, not the journalist," he said. "We're after people who are committing crimes." The comments come two days after Jeff Sessions warned that the ["culture of leaking must stop."](https://whatthefuckjusthappenedtoday.com/2017/08/04/day-197/#7-jeff-sessions-issued-a-warning-tha)  The Justice Department is reviewing guidelines that make it difficult for prosecutors to subpoena journalists about their sources, calling them "procedural hurdles" that are delaying leak investigations. The number of criminal leak probes has more than tripled during the Trump administration. ([NBC News](http://www.nbcnews.com/politics/politics-news/deputy-ag-rosenstein-says-prosecutors-don-t-intend-go-after-n790076))
+
+6/ **Chicago is suing the Trump administration for threatening to withhold public money from so-called sanctuary cities**. In July, Jeff Sessions announced that the DOJ will only provide grants to cities that allow the Department of Homeland Security access to local jails and to provide 48 hours’ notice before releasing anyone wanted for immigration violations. Chicago claims that it already complies with the federal law and the new conditions are unconstitutional. ([CNN](http://www.cnn.com/2017/08/07/politics/rahm-emanuel-doj-sanctuary-city-cnntv/index.html) / [The Guardian](https://www.theguardian.com/us-news/2017/aug/06/chicago-sue-trump-administration-sanctuary-cities) / [Associated Press](https://apnews.com/12e9b3a6f2ec451a8a82c3c8b81aaced/Chicago-to-file-federal-lawsuit-over-sanctuary-cities-threat))
+
+7/ **Trump called Richard Blumenthal “a phony Vietnam con artist"** after the Democratic senator appeared on CNN to discuss the crackdown on leaks, sanctions on North Korea, and what he called "potential collusion" between the Trump campaign and Russia. Blumenthal was criticized during his Senate campaign for saying he had “served” in Vietnam, even though he did his full Marine service in the US. Trump, meanwhile, skirted Vietnam altogether due to [bad feet](https://www.nytimes.com/2016/08/02/us/politics/donald-trump-draft-record.html). Blumenthal responded on Twitter that Trump's "bullying" won't be effective. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/07/trump-renews-attack-on-democratic-senator-calling-him-a-vietnam-con-artist-on-twitter/) / [USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2017/08/07/donald-trump-attacks-richard-blumenthal-over-vietnam-service/544457001/) / [CBS News](http://www.cbsnews.com/news/richard-blumenthal-responds-to-trumps-tweets-about-russian-collusion-and-vietnam/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/894525428236464128 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/894526670836781056 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/894528885701971970 %}
+
+{% twitter https://twitter.com/SenBlumenthal/status/894550621038059521 %}
+
+8/ **Pence shot down a [report](https://www.nytimes.com/2017/08/05/us/politics/2020-campaign-president-trump-cotton-sasse-pence.html) that he was positioning himself to run for president in 2020**, calling it "disgraceful and offensive." Pence has created his own political fund-raising committee, signaling to major Republican donors that he's the heir apparent if Trump does not seek a second term. “Whatever fake news may come our way, my entire team will continue to focus all our efforts to advance the president’s agenda and see him re-elected in 2020," Pence said in a statement. "Any suggestion otherwise is both laughable and absurd.” ([Politico](http://www.politico.com/story/2017/08/06/pence-new-york-times-2020-trump-241365) / [New York Times](https://www.nytimes.com/2017/08/06/us/politics/mike-pence-election-2020.html))
+
+\*\*\* UPDATES IN PROGRESS \*\*\*

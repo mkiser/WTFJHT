@@ -5,7 +5,7 @@ description: Extreme weather.
 image: "/uploads/201.jpg"
 ---
 
-1/ **Scientists fear the Trump administration could suppress a report that concludes climate change is real** and Americans are already feeling its effects. The findings contradict Trump and members of his cabinet who claim that the human contribution to climate change is uncertain. The report finds it “extremely likely” that more than half of the global mean temperature increase since 1951 can be linked to human's. ([New York Times](https://www.nytimes.com/2017/08/07/climate/climate-change-drastic-warming-trump.html))
+1/ **Scientists fear the Trump administration could suppress a report that concludes climate change is real** and Americans are already feeling its effects. The findings contradict Trump and members of his cabinet who claim that the human contribution to climate change is uncertain. The report finds it “extremely likely” that more than half of the global mean temperature increase since 1951 can be linked to humans. ([New York Times](https://www.nytimes.com/2017/08/07/climate/climate-change-drastic-warming-trump.html))
 
 * **Notes:**
 

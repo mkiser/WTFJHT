@@ -11,7 +11,7 @@ image: "/uploads/202.jpg"
 
 3/ **Rex Tillerson urged Americans to remain calm despite Trump and North Korea exchanging threats**. He said Americans should have “no concerns," adding that “Americans should sleep well at night,” because "nothing that I have seen and nothing that I know of would indicate that the situation has dramatically changed in the last 24 hours.” ([Associated Press](https://apnews.com/931769550f3b433ca64f6c5e633da23b/Tillerson-urges-calm-on-North-Korea,-says-no-imminent-threat))
 
-4/ **Trump continued to forcefully threaten North Korea** using Twitter this morning to assert that the US nuclear arsenal is “far stronger and more powerful than ever before. Hopefully we will never have to use this power, but there will never be a time that we are not the most powerful nation in the world!” ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/09/trump-warns-that-u-s-nuclear-arsenal-is-more-powerful-than-ever-before/))
+4/ **Trump continued to threaten North Korea forcefully** using Twitter this morning to assert that the US nuclear arsenal is “far stronger and more powerful than ever before. Hopefully we will never have to use this power, but there will never be a time that we are not the most powerful nation in the world!” ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/09/trump-warns-that-u-s-nuclear-arsenal-is-more-powerful-than-ever-before/))
 
 {% twitter https://twitter.com/realDonaldTrump/status/895252459152711680 %}
 

@@ -1,0 +1,24 @@
+---
+title: Day 202
+date: 2017-08-09 08:48:00 -07:00
+description: An absurd red line.
+image: "/uploads/202.jpg"
+---
+
+1/ **FBI agents raided the Virginia home of Paul Manafort last month**, using a search warrant to seize tax documents and foreign banking records. The predawn raid of the home of Trump's former campaign chairman came on July 26, one day after he met voluntarily with the Senate Intelligence Committee. In that meeting, Manafort provided investigators with notes from the 2016 meeting with the Russian lawyer claiming to have damaging information on Hillary Clinton. ([Washington Post](https://www.washingtonpost.com/politics/fbi-conducted-predawn-raid-of-former-trump-campaign-chairman-manaforts-home/2017/08/09/5879fa9c-7c45-11e7-9d08-b79f191668ed_story.html) / [New York Times](https://www.nytimes.com/2017/08/09/us/politics/paul-manafort-home-search-mueller.html))
+
+2/ **The Trump campaign has started to turn over thousands of documents to the Senate Judiciary Committee** as part of the panel’s investigation into Russian election meddling. The Trump campaign has turned over 20,000 pages of documents, while Manafort has provided about 400 pages, and Trump Jr. about 250 pages. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-08-08/trump-campaign-turns-over-thousands-of-documents-in-russia-probe))
+
+3/ **Rex Tillerson urged Americans to remain calm despite Trump and North Korea exchanging threats**. He said Americans should have “no concerns," adding that “Americans should sleep well at night,” because "nothing that I have seen and nothing that I know of would indicate that the situation has dramatically changed in the last 24 hours.” ([Associated Press](https://apnews.com/931769550f3b433ca64f6c5e633da23b/Tillerson-urges-calm-on-North-Korea,-says-no-imminent-threat))
+
+4/ **Trump continued to forcefully threaten North Korea** using Twitter this morning to assert that the US nuclear arsenal is “far stronger and more powerful than ever before. Hopefully we will never have to use this power, but there will never be a time that we are not the most powerful nation in the world!” ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/09/trump-warns-that-u-s-nuclear-arsenal-is-more-powerful-than-ever-before/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/895252459152711680 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/895254168570605568 %}
+
+5/ **One of Trump’s evangelical advisers says "God has given Trump authority to take out Kim Jong Un.”** Robert Jeffress, a pastor at a Texas megachurch, released a statement saying that "When it comes to how we should deal with evil doers, the Bible, in the book of Romans, is very clear: God has endowed rulers full power to use whatever means necessary — including war — to stop evil.” ([Dallas News](https://www.dallasnews.com/life/faith/2017/08/08/first-baptists-robert-jeffress-god-given-trump-authority-take-kim-jong-un) / [Washington Post](https://www.washingtonpost.com/news/acts-of-faith/wp/2017/08/08/god-has-given-trump-authority-to-take-out-kim-jong-un-evangelical-adviser-says/))
+
+6/ **Lawmakers in both parties criticized Trump's warning to North Korea** that it would "face fire and fury like the world has never seen" if Pyongyang keeps threatening the US. Democrats called Trump's a reaction overly "bombastic" and "unhinged," with the top Democrat on the House Foreign Affairs Committee saying that Trump had undermined US credibility "by drawing an absurd red line." John McCain said, "The great leaders I've seen don't threaten unless they're ready to act and I'm not sure President Trump is ready to act." ([CNN](http://www.cnn.com/2017/08/08/politics/lawmakers-trump-fire-fury-north-korea-mccain/))
+
+poll/ **81% of self-identified Trump voters approve of the job he's doing**. However, just 18% of all registered voters "strongly approve" of his job performance. 64% of voters say the country is going in the wrong direction. ([Politico](http://www.politico.com/story/2017/08/09/trump-polls-base-polling-241425))

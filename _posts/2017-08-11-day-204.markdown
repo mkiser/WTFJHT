@@ -1,0 +1,24 @@
+---
+title: Day 204
+date: 2017-08-11 08:29:00 -07:00
+description: 'Locked and loaded, or whatever. '
+image: "/uploads/204.jpg"
+---
+
+1/ **Congressional investigators want to question Trump’s personal secretary** as part of their ongoing probe into the meeting between Trump Jr. and the Russian lawyer. Rhona Graff worked at Trump Tower for nearly 30 years. Graff's name was mentioned in the June 2016 email exchange between publicist Rob Goldstone and Trump Jr. leading up to the meeting with Russian attorney Natalia Veselnitskaya at Trump Tower. “Since her name is in the email, people will want her to answer questions,” said Peter King, a member of the House Intelligence Committee. ([ABC News](http://abcnews.go.com/Politics/trumps-longtime-secretary-scrutinized-russia-investigators/story?id=49146540))
+
+2/ **Paul Manafort is switching attorneys as the federal investigation picks up steam into his financial transactions**. Manafort's case will now be handled by Miller and Chevalier, a firm in Washington that specializes in complicated financial crimes among other issues. ([Politico](http://www.politico.com/story/2017/08/10/hold-manafort-switching-legal-team-as-feds-crank-up-heat-on-him-hold-241507))
+
+3/ **Trump was surprised by the FBI’s raid Manafort's home last month**, calling the action “pretty tough stuff." Manafort is “a very decent man,” Trump said. Adding that “I thought \[the raid\] was a very, very strong signal, or whatever." ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/10/trump-says-he-was-surprised-by-fbi-raid-of-manaforts-home-which-sent-a-very-strong-signal/))
+
+4/ **Trump said he no plans to fire Robert Mueller**, despite people close to him telling reporters the opposite. "I haven't given it any thought," Trump said. "I've been reading about it from you people. You say, 'Oh, I'm going to dismiss him.' No, I'm not dismissing anybody." ([CNN](http://www.cnn.com/2017/08/10/politics/donald-trump-robert-mueller/index.html))
+
+5/ **Trump to North Korea via Twitter: Our military is "locked and loaded, should North Korea act unwisely."** It was the third warning of military action against North Korea issued by Trump this week. ([New York Times](https://www.nytimes.com/2017/08/11/world/asia/trump-north-korea-locked-and-loaded.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/895970429734711298 %}
+
+6/ **Despite the rhetoric, the Trump administration has been engaged in back channel diplomacy with North Korea for several months**. Officials call it the “New York channel," which has been used on-and-off for years by past administrations. Shortly after the inauguration, the Trump administration reinitiated talks, which had gone silent over the last seven months of Obama’s presidency after Pyongyang broke them off in anger over US sanctions imposed on Kim Jong Un. ([Associated Press](https://apnews.com/686ac7c761694b28b67793a1d8297145))
+
+7/ **The Freedom Caucus is trying to force vote on an outright repeal of Obamacare** – a mirror of the 2015 repeal proposal that Obama vetoed. They're seeking a “discharge petition,” which would enable them to bypass House leaders to put the bill up for a vote. To do so, they'll need signatures from at least half the House – 218 members – to bring the bill to the floor, which is unlikely to succeed. ([Politico](http://www.politico.com/story/2017/07/19/house-freedom-caucus-obamacare-repeal-vote-240728))
+
+poll/ **52% of Americans have a favorable view of Obamacare – the highest ever**. 39% have an unfavorable view of the ACA. 60% of Americans say it's a “good thing” the Senate didn't pass the repeal and replace bill. ([Kaiser Health Tracking](http://www.kff.org/health-reform/poll-finding/kaiser-health-tracking-poll-august-2017-the-politics-of-aca-repeal-and-replace-efforts/))

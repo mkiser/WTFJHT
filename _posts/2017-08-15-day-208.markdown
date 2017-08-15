@@ -1,0 +1,28 @@
+---
+title: Day 208
+date: 2017-08-15 07:39:00 -07:00
+description: 'Retweet rampage. '
+image: "/uploads/208.jpg"
+---
+
+1/ **Trump retweeted an alt-right conspiracy theorist, a train hitting CNN, and a critic calling him a fascist**.  Last night, Trump retweeted Jack Posobiec, an alt-right figure who pushed the Pizzagate and Seth Rich conspiracy theories. Then this morning, Trump retweeted an image of a person holding a CNN sign being hit by a train, with the commentary, "Nothing can stop the #TrumpTrain!!" The White House said the tweet was inadvertently posted and it was deleted. And, finally, Trump retweeted a critic who called Trump a "fascist" for "seriously considering" pardoning former Arizona sheriff Joe Arpaio, who was found guilty of ignoring a judge's order to stop racially profiling Latinos during patrols. ([USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2017/08/15/donald-trump-retweets-pizzagate-conspiracy-theorist-cnn-cartoon/567843001/) / [CNN](http://www.cnn.com/2017/08/15/politics/donald-trump-jack-posobiec/index.html) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/15/after-charlottesville-trump-retweets-then-deletes-image-of-train-running-over-cnn-reporter/))
+
+{% twitter https://twitter.com/ianbremmer/status/897303294590296064 %}
+
+{% twitter https://twitter.com/waltshaub/status/897420870158778369 %}
+
+{% twitter https://twitter.com/MikeHolden42/status/897416000802574336 %}
+
+* **Trump says he's seriously considering pardoning former Sheriff Joe Arpaio**, a vocal Trump supporter during the 2016 presidential campaign. Earlier this month Arpaio was found guilty of criminal contempt for ignoring a court order to stop detaining suspected illegal immigrants. He faces up to six months in prison. ([ABC News](http://abcnews.go.com/Politics/trump-pardoning-sheriff-joe-arpaio/story?id=49210963))
+
+2/ **Three CEOs resign from Trump's advisory council over his slow denouncement of white supremacists**. The chief executives of Merck, Under Armour, and Intel all quit the manufacturing council. Trump, meanwhile, tweeted that "For every CEO that drops out of the Manufacturing Council, I have many to take their place. Grandstanders should not have gone on. JOBS!" ([CNN Money](http://money.cnn.com/2017/08/15/news/trump-charlottesville-ceos/) / [Recode](https://www.recode.net/2017/8/14/16143642/tech-executives-donald-trump-white-house-business-advisory-council-silicon-valley) / [Reuters](https://www.reuters.com/article/us-virginia-protests-merck-idUSKCN1AU1FM))
+
+{% twitter https://twitter.com/realDonaldTrump/status/897478270442143744 %}
+
+3/ **Trump won't visit Charlottesville**. “Why the hell would we do that?” one White House official said, suggesting that the administration sees no upside and whatever Trump might do in Charlottesville would be “used against” him by the media. ([The Daily Beast](http://www.thedailybeast.com/trump-not-planning-on-charlottesville-trip-why-the-hell-would-we-do-that-aides-say))
+
+4/ **The leaders of four minority House caucus groups sent a letter to Trump asking him to fire Steve Bannon, Stephen Miller, and Sebastian Gorka**. “Americans deserve to know that white nationalists, white supremacists, and neo-Nazis are not in a position to influence US policy,” the heads of the black, Hispanic, Asian and progressive caucuses wrote, suggesting that their continued presence in the White House is emboldening a resurgence of white supremacist. ([Associated Press](https://apnews.com/44de992676c24b799b0f269947cceb40/The-Latest:-Trump-asked-to-fire-3-White-House-staffers))
+
+5/ **North Korea won't fire missiles at Guam after all**. State media said Kim Jong-un reviewed plans to fire missiles towards Guam but decided to hold off. He warned he could change his mind “if the Yankees persist in their extremely dangerous reckless actions.” ([NPR](http://www.npr.org/sections/thetwo-way/2017/08/15/543603140/north-korea-says-it-wont-fire-missiles-at-guam-after-all) / [BBC](http://www.bbc.com/news/world-asia-40931775) / [Wall Street Journal](https://www.wsj.com/articles/north-korea-backs-off-guam-missile-attack-threat-1502751054))
+
+6/ **The Justice Department has demanded that 1.3 million IP addresses from a Trump resistance site be turned over**. The web hosting company is fighting the search warrant, saying that the request for visitor logs, contact information, emails, and photos could be used to identify people who are exercising their Constitutional right of free speech to protest. ([The Hill](http://thehill.com/policy/cybersecurity/346544-dreamhost-claims-doj-requesting-info-on-visitors-to-anti-trump-website) / [Business Insider](http://www.businessinsider.com/dreamhost-ip-address-justice-department-warrant-trump-inauguration-2017-8) / [DreamHost](https://www.dreamhost.com/blog/we-fight-for-the-users/))

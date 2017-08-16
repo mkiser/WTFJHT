@@ -13,19 +13,21 @@ image: "/uploads/209.jpg"
 
 {% twitter https://twitter.com/BarackObama/status/896523304873238528  %}
 
-{% twitter https://twitter.com/BarackObama/status/896523357272911872 %}
+{% twitter https://twitter.com/BarackObama/status/896523357272911872 hide_thread=true %}
 
-{% twitter https://twitter.com/Twitter/status/897679617821089793 %}
+{% twitter https://twitter.com/Twitter/status/897679617821089793 hide_thread=true %}
 
-3/ **The White House is telling Republicans to say Trump's comments on Charlottesville are “entirely correct.” **The evening communications briefing encouraged members to echo Trump's line that “both sides … acted inappropriately, and bear some responsibility.” The memo adds that the "media reacted with hysteria" and that "we should not overlook the facts just because the media finds them inconvenient.” ([The Atlantic](https://www.theatlantic.com/politics/archive/2017/08/the-president-was-entirely-correct/537042/))
+3/ **Former Presidents H.W. and W. Bush denounce racism in wake of Charlottesville**. "America must always reject racial bigotry, anti-Semitism, and hatred in all forms," the statement said. ([CNN](http://www.cnn.com/2017/08/16/politics/george-h-w-bush-george-w-bush-charlottesville-statement/index.html))
 
-4/ **Paul Ryan called white supremacy “repulsive”** in a tweet hours after Trump doubled down on his claim that "many sides" are to blame for the violence in Charlottesville. “We must be clear," Ryan tweeted. "White supremacy is repulsive. This bigotry is counter to all this country stands for. There can be no moral ambiguity.” ([Talking Points Memo](http://talkingpointsmemo.com/livewire/paul-ryan-condemns-white-supremacy-after-trump-press-conference) / [The Hill](http://thehill.com/homenews/house/346701-ryan-white-supremacy-is-repulsive))
+4/ **The White House is telling Republicans to say Trump's comments on Charlottesville are “entirely correct.”** The evening communications briefing encouraged members to echo Trump's line that “both sides … acted inappropriately, and bear some responsibility.” The memo adds that the "media reacted with hysteria" and that "we should not overlook the facts just because the media finds them inconvenient.” ([The Atlantic](https://www.theatlantic.com/politics/archive/2017/08/the-president-was-entirely-correct/537042/))
+
+5/ **Paul Ryan called white supremacy “repulsive”** in a tweet hours after Trump doubled down on his claim that "many sides" are to blame for the violence in Charlottesville. “We must be clear," Ryan tweeted. "White supremacy is repulsive. This bigotry is counter to all this country stands for. There can be no moral ambiguity.” ([Talking Points Memo](http://talkingpointsmemo.com/livewire/paul-ryan-condemns-white-supremacy-after-trump-press-conference) / [The Hill](http://thehill.com/homenews/house/346701-ryan-white-supremacy-is-repulsive))
 
 {% twitter https://twitter.com/SpeakerRyan/status/897579093184610305 %}
 
-5/ **Mitch McConnell also issued a statement condemning white nationalist** groups ahead of a planned alt-right rally in his home state of Kentucky. The Senate majority leader said their ideologies "should not be welcome anywhere in America." ([CNN](http://www.cnn.com/2017/08/16/politics/mitch-mcconnell-donald-trump-charlottesville-response/) / [Axios](https://www.axios.com/mcconnell-white-nationalist-views-should-not-be-welcome-in-u-s-2473675617.html))
+6/ **Mitch McConnell also issued a statement condemning white nationalist** groups ahead of a planned alt-right rally in his home state of Kentucky. The Senate majority leader said their ideologies "should not be welcome anywhere in America." ([CNN](http://www.cnn.com/2017/08/16/politics/mitch-mcconnell-donald-trump-charlottesville-response/) / [Axios](https://www.axios.com/mcconnell-white-nationalist-views-should-not-be-welcome-in-u-s-2473675617.html))
 
-6/ **Baltimore removed its four Confederate monuments early this morning** after the City Council voted unanimously to take them down following the violence in Charlottesville. ([CNN](http://www.cnn.com/2017/08/16/us/baltimore-confederate-monuments-removal/index.html) / [New York Times](https://www.nytimes.com/2017/08/16/us/baltimore-confederate-statues.html))
+7/ **Baltimore removed its four Confederate monuments early this morning** after the City Council voted unanimously to take them down following the violence in Charlottesville. ([CNN](http://www.cnn.com/2017/08/16/us/baltimore-confederate-monuments-removal/index.html) / [New York Times](https://www.nytimes.com/2017/08/16/us/baltimore-confederate-statues.html))
 
 {% twitter https://twitter.com/BmoreBloc/status/897704179896123393 %}
 
@@ -35,4 +37,4 @@ image: "/uploads/209.jpg"
 
 * **Holocaust Memorial in Boston Is Vandalized for Second Time This Summer**. ([New York Times](https://www.nytimes.com/2017/08/15/us/holocaust-memorial-boston.html))
 
-7/ **Hope Hicks is taking over as Trump's interim Communications Director** and will work with White House press secretary Sarah Huckabee Sanders to find a permanent person for the job. Hicks was a spokeswoman for Trump during his presidential campaign and at the Trump Organization. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/hope-hicks-white-house-communications-director.html) / [NBC News](http://www.nbcnews.com/politics/politics-news/hope-hicks-tapped-be-trump-s-interim-communications-director-n793136))
+8/ **Hope Hicks is taking over as Trump's interim Communications Director** and will work with White House press secretary Sarah Huckabee Sanders to find a permanent person for the job. Hicks was a spokeswoman for Trump during his presidential campaign and at the Trump Organization. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/hope-hicks-white-house-communications-director.html) / [NBC News](http://www.nbcnews.com/politics/politics-news/hope-hicks-tapped-be-trump-s-interim-communications-director-n793136))

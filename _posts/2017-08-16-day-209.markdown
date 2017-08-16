@@ -25,9 +25,19 @@ image: "/uploads/209.jpg"
 
 {% twitter https://twitter.com/SpeakerRyan/status/897579093184610305 %}
 
-6/ **Mitch McConnell also issued a statement condemning white nationalist** groups ahead of a planned alt-right rally in his home state of Kentucky. The Senate majority leader said their ideologies "should not be welcome anywhere in America." ([CNN](http://www.cnn.com/2017/08/16/politics/mitch-mcconnell-donald-trump-charlottesville-response/) / [Axios](https://www.axios.com/mcconnell-white-nationalist-views-should-not-be-welcome-in-u-s-2473675617.html))
+6/ **Mitch McConnell issued a statement condemning white nationalist** groups ahead of a planned alt-right rally in his home state of Kentucky. The Senate majority leader said their ideologies "should not be welcome anywhere in America." ([CNN](http://www.cnn.com/2017/08/16/politics/mitch-mcconnell-donald-trump-charlottesville-response/) / [Axios](https://www.axios.com/mcconnell-white-nationalist-views-should-not-be-welcome-in-u-s-2473675617.html))
 
-7/ **Baltimore removed its four Confederate monuments early this morning** after the City Council voted unanimously to take them down following the violence in Charlottesville. ([CNN](http://www.cnn.com/2017/08/16/us/baltimore-confederate-monuments-removal/index.html) / [New York Times](https://www.nytimes.com/2017/08/16/us/baltimore-confederate-statues.html))
+7/ **The Navy, Marines, Army, Air Force, and the National Guard have all denounced racism** via Twitter following the violence in Charlottesville. ([Army Times](http://www.armytimes.com/news/your-military/2017/08/16/all-four-service-chiefs-denounce-racism-in-wake-of-charlottesville-rally/))
+
+{% twitter https://twitter.com/CNORichardson/status/896529683508015104 %}
+
+{% twitter https://twitter.com/GenRobertNeller/status/897591648007446529 %}
+
+{% twitter https://twitter.com/ArmyChiefStaff/status/897742317897093121 %}
+
+{% twitter https://twitter.com/GenDaveGoldfein/status/897820707727577089 %}
+
+8/ **Baltimore removed its four Confederate monuments early this morning** after the City Council voted unanimously to take them down following the violence in Charlottesville. ([CNN](http://www.cnn.com/2017/08/16/us/baltimore-confederate-monuments-removal/index.html) / [New York Times](https://www.nytimes.com/2017/08/16/us/baltimore-confederate-statues.html))
 
 {% twitter https://twitter.com/BmoreBloc/status/897704179896123393 %}
 
@@ -37,8 +47,18 @@ image: "/uploads/209.jpg"
 
 * **Holocaust Memorial in Boston Is Vandalized for Second Time This Summer**. ([New York Times](https://www.nytimes.com/2017/08/15/us/holocaust-memorial-boston.html))
 
-8/ **Hope Hicks is taking over as Trump's interim Communications Director** and will work with White House press secretary Sarah Huckabee Sanders to find a permanent person for the job. Hicks was a spokeswoman for Trump during his presidential campaign and at the Trump Organization. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/hope-hicks-white-house-communications-director.html) / [NBC News](http://www.nbcnews.com/politics/politics-news/hope-hicks-tapped-be-trump-s-interim-communications-director-n793136))
+9/ **Hope Hicks is taking over as Trump's interim Communications Director** and will work with White House press secretary Sarah Huckabee Sanders to find a permanent person for the job. Hicks was a spokeswoman for Trump during his presidential campaign and at the Trump Organization. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/hope-hicks-white-house-communications-director.html) / [NBC News](http://www.nbcnews.com/politics/politics-news/hope-hicks-tapped-be-trump-s-interim-communications-director-n793136))
 
-9/ **Trump disbanded his manufacturing council after multiple executives quit** after equating white nationalist hate groups with the protesters opposing them. He also ended the separate Strategic and Policy Forum. "Rather than putting pressure on the businesspeople of the Manufacturing Council and Strategy and Policy Forum, I am ending both," Trump tweeted. ([ABC News](http://abcnews.go.com/Politics/trump-announces-end-manufacturing-council-amid-resignations/story?id=49253229) / [New York Times](https://www.nytimes.com/2017/08/16/business/trumps-council-ceos.html))
+10/ **Trump business councils disbanded after multiple executives quit** over his equating white nationalist hate groups with the protesters opposing them. The Strategic and Policy Forum called to inform Trump the group would disband. After the call, Trump tweeted that it was his decision to disband that council. "Rather than putting pressure on the businesspeople of the Manufacturing Council and Strategy and Policy Forum, I am ending both," Trump tweeted. ([ABC News](http://abcnews.go.com/Politics/trump-announces-end-manufacturing-council-amid-resignations/story?id=49253229) / [New York Times](https://www.nytimes.com/2017/08/16/business/trumps-council-ceos.html) / [Wall Street Journal](http://www.wsj.com/articles/trump-business-advisory-council-to-disband-1502904005))
 
 {% twitter https://twitter.com/realDonaldTrump/status/897869174323728385 %}
+
+11/ **One of Robert Mueller's top FBI investigators has left the team**. Peter Strzok oversaw the beginnings of the Russia probe last summer. About a month ago, Mueller brought Strzok in to help manage the investigation into Russian election meddling. ([ABC News](http://abcnews.go.com/Politics/special-counsels-russia-probe-loses-top-fbi-investigator/story?id=49249486) / [CNN](http://www.cnn.com/2017/07/13/politics/peter-strzok-special-counsel-russia-fbi/index.html))
+
+12/ **A panel of federal judges ruled Texas voter maps illegally discriminate against Hispanic and black voters** and can’t be used in the upcoming congressional midterm elections. The state has three days to say if and when the Texas Legislature will fix the congressional map. The court will redraw the districts maps itself if Texas decides not to fix them. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-08-15/texas-voter-maps-blocked-as-racially-biased-by-federal-judges))
+
+* **Former Trump campaign aides are starting a group to identify “disaffected” rural and working-class Americans** who either do not vote or are not on the voter rolls, in order to register and mobilize them ahead of future elections. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/voter-registration-rural-republican.html))
+
+13/ **The Trump administration agreed to continue making health care subsidy payments** after the [CBO reported](https://whatthefuckjusthappenedtoday.com/2017/08/15/day-208/#9-trumps-threat-to-end-obamacare-ins) that cutting off the payments would increase federal spending and cause insurance premiums to rise sharply. ([Los Angeles Times](http://www.latimes.com/politics/la-na-pol-healthcare-payments-20170816-story.html))
+
+poll/ **52% of Americans think Trump's response to the violence in Charlottesville was "not strong enough."** No shit. ([NPR](http://www.npr.org/2017/08/16/543957964/poll-majority-believe-trump-s-response-to-charlottesville-hasn-t-been-strong-eno))

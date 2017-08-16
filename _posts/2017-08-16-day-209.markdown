@@ -38,3 +38,7 @@ image: "/uploads/209.jpg"
 * **Holocaust Memorial in Boston Is Vandalized for Second Time This Summer**. ([New York Times](https://www.nytimes.com/2017/08/15/us/holocaust-memorial-boston.html))
 
 8/ **Hope Hicks is taking over as Trump's interim Communications Director** and will work with White House press secretary Sarah Huckabee Sanders to find a permanent person for the job. Hicks was a spokeswoman for Trump during his presidential campaign and at the Trump Organization. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/hope-hicks-white-house-communications-director.html) / [NBC News](http://www.nbcnews.com/politics/politics-news/hope-hicks-tapped-be-trump-s-interim-communications-director-n793136))
+
+9/ **Trump disbanded his manufacturing council after multiple executives quit** after equating white nationalist hate groups with the protesters opposing them. He also ended the separate Strategic and Policy Forum. "Rather than putting pressure on the businesspeople of the Manufacturing Council and Strategy and Policy Forum, I am ending both," Trump tweeted. ([ABC News](http://abcnews.go.com/Politics/trump-announces-end-manufacturing-council-amid-resignations/story?id=49253229) / [New York Times](https://www.nytimes.com/2017/08/16/business/trumps-council-ceos.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/897869174323728385 %}

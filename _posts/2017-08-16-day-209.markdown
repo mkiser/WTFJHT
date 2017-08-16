@@ -1,0 +1,38 @@
+---
+title: Day 209
+date: 2017-08-16 07:43:00 -07:00
+description: Stunned and disheartened.
+image: "/uploads/209.jpg"
+---
+
+1/ **Trump's staff is "stunned and disheartened" by his Charlottesville remarks**. They say they "never expected to hear such a voluble articulation of opinions that the president had long expressed in private." While Trump has repeatedly said he is not prejudiced, his statements against white nationalists and racist organizations have been equivocal: It started with his Saturday comment of placing blame [“on many sides,"](https://whatthefuckjusthappenedtoday.com/2017/08/14/day-207/#1-the-white-house-issued-a-statement) which was followed by a stronger denunciation of hate groups via email, attributed to an unnamed “spokesperson.” On Monday, Trump said that [“racism is evil,"](https://whatthefuckjusthappenedtoday.com/2017/08/14/day-207/#5-trump-finally-denounced-white-supr) but by Tuesday, Trump had [reassigned “blame on both sides”](https://whatthefuckjusthappenedtoday.com/2017/08/15/day-208/#2-trump-again-blamed-both-sides-for) for the Charlottesville violence, singling out "alt-left" groups who were “very, very violent." ([New York Times](https://www.nytimes.com/2017/08/15/us/politics/trump-charlottesville-white-nationalists.html))
+
+2/ **Obama’s response to the Charlottesville violence is now the most liked tweet in Twitter’s history**. The former president quoted Nelson Mandela, saying:  “No one is born hating another person because of the color of his skin or his background or his religion … People must learn to hate, and if they can learn to hate, they can be taught to love … For love comes more naturally to the human heart than its opposite." Trump, meanwhile, [placed "blame on both sides.](https://whatthefuckjusthappenedtoday.com/2017/08/15/day-208/#2-trump-again-blamed-both-sides-for) And I have no doubt about it." ([BBC](http://www.bbc.com/news/technology-40945096) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/08/15/obamas-response-to-charlottesville-violence-is-one-of-the-most-popular-in-twitters-history/))
+
+{% twitter https://twitter.com/BarackObama/status/896523232098078720 %}
+
+{% twitter https://twitter.com/BarackObama/status/896523304873238528  %}
+
+{% twitter https://twitter.com/BarackObama/status/896523357272911872 %}
+
+{% twitter https://twitter.com/Twitter/status/897679617821089793 %}
+
+3/ **The White House is telling Republicans to say Trump's comments on Charlottesville are “entirely correct.” **The evening communications briefing encouraged members to echo Trump's line that “both sides … acted inappropriately, and bear some responsibility.” The memo adds that the "media reacted with hysteria" and that "we should not overlook the facts just because the media finds them inconvenient.” ([The Atlantic](https://www.theatlantic.com/politics/archive/2017/08/the-president-was-entirely-correct/537042/))
+
+4/ **Paul Ryan called white supremacy “repulsive”** in a tweet hours after Trump doubled down on his claim that "many sides" are to blame for the violence in Charlottesville. “We must be clear," Ryan tweeted. "White supremacy is repulsive. This bigotry is counter to all this country stands for. There can be no moral ambiguity.” ([Talking Points Memo](http://talkingpointsmemo.com/livewire/paul-ryan-condemns-white-supremacy-after-trump-press-conference) / [The Hill](http://thehill.com/homenews/house/346701-ryan-white-supremacy-is-repulsive))
+
+{% twitter https://twitter.com/SpeakerRyan/status/897579093184610305 %}
+
+5/ **Mitch McConnell also issued a statement condemning white nationalist** groups ahead of a planned alt-right rally in his home state of Kentucky. The Senate majority leader said their ideologies "should not be welcome anywhere in America." ([CNN](http://www.cnn.com/2017/08/16/politics/mitch-mcconnell-donald-trump-charlottesville-response/) / [Axios](https://www.axios.com/mcconnell-white-nationalist-views-should-not-be-welcome-in-u-s-2473675617.html))
+
+6/ **Baltimore removed its four Confederate monuments early this morning** after the City Council voted unanimously to take them down following the violence in Charlottesville. ([CNN](http://www.cnn.com/2017/08/16/us/baltimore-confederate-monuments-removal/index.html) / [New York Times](https://www.nytimes.com/2017/08/16/us/baltimore-confederate-statues.html))
+
+{% twitter https://twitter.com/BmoreBloc/status/897704179896123393 %}
+
+{% twitter https://twitter.com/baynardwoods/status/897730005320564737 %}
+
+* **Lincoln Memorial vandalized with profanity in Washington, DC**. ([BBC](http://www.bbc.com/news/world-us-canada-40942428))
+
+* **Holocaust Memorial in Boston Is Vandalized for Second Time This Summer**. ([New York Times](https://www.nytimes.com/2017/08/15/us/holocaust-memorial-boston.html))
+
+7/ **Hope Hicks is taking over as Trump's interim Communications Director** and will work with White House press secretary Sarah Huckabee Sanders to find a permanent person for the job. Hicks was a spokeswoman for Trump during his presidential campaign and at the Trump Organization. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/hope-hicks-white-house-communications-director.html) / [NBC News](http://www.nbcnews.com/politics/politics-news/hope-hicks-tapped-be-trump-s-interim-communications-director-n793136))

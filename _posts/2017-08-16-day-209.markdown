@@ -11,7 +11,7 @@ image: "/uploads/209.jpg"
 
 {% twitter https://twitter.com/BarackObama/status/896523232098078720 %}
 
-{% twitter https://twitter.com/BarackObama/status/896523304873238528 %}
+{% twitter https://twitter.com/BarackObama/status/896523304873238528 hide_thread=true %}
 
 {% twitter https://twitter.com/BarackObama/status/896523357272911872 hide_thread=true %}
 

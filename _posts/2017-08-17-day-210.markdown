@@ -1,0 +1,36 @@
+---
+title: Day 210
+date: 2017-08-17 08:48:00 -07:00
+description: Ripped apart.
+image: "/uploads/210.jpg"
+---
+
+1/ **Trump is "sad" that "our beautiful statues and monuments" to the Confederacy are being taken down**. He tweeted that we're seeing "our history and culture of our great country being ripped apart." ([Associated Press](https://apnews.com/b6b0517b68dd4fd1915ae592d2c1de47) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/08/17/trump-mourns-loss-of-beautiful-statues-and-monuments-in-wake-of-charlottesville-rally-over-robert-e-lee-statue/) / [New York Times](https://www.nytimes.com/2017/08/17/us/politics/trump-charlottesville-confederate-statues.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/898169407213645824 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/898171544236687361 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/898172999945392131 %}
+
+* **Apple’s Tim Cook "disagrees" with Trump’s take on neo-Nazi violence in Charlottesville** and will donate $1 million each to the Southern Poverty Law Center and the Anti-Defamation League. ([Recode](https://www.recode.net/2017/8/16/16160202/apple-tim-cook-donald-trump-neo-nazi-violence-charlottesville))
+
+* **Unlike His Predecessors, Trump Steps Back From a Moral Judgment**. Asked is he would put white supremacists and neo-Nazis on the same “moral plane” as their liberal and leftist resisters, Trump replied, “I’m not putting anybody on a moral plane.” ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/trump-charlottesville-moral-neo-nazis.html))
+
+* **The rabbi who oversaw Ivanka Trump's conversion to Judaism criticized her father's response to Charlottesville** in a letter to his congregation. ([CNN](http://www.cnn.com/2017/08/17/politics/ivanka-trump-rabbi-criticizes-trump/index.html))
+
+2/ **White House aides are wrestling with how to respond to Trump after doubled down that “both sides” were to blame in Charlottesville**. Gary Cohn, Trump’s top economic adviser, who is Jewish, was “disgusted” and “frantically unhappy" by Trump's remarks that there were some “very fine people" at the white nationalist rally. John Kelly, the new chief of staff, has been trying to instill a sense of discipline in the West Wing, but is "frustrated and dismayed" by Trump's self-inflicted controversies, from his North Korea rhetoric to publicly attacking Mitch McConnell. ([Washington Post](https://www.washingtonpost.com/politics/trumps-lack-of-discipline-leaves-new-chief-of-staff-frustrated-and-dismayed/2017/08/16/9aec8e16-82b8-11e7-82a4-920da1aeb507_story.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-staff-idUSKCN1AX069?) / [Politico](http://www.politico.com/story/2017/08/16/trump-race-charlottesville-white-house-aides-react-241695))
+
+* **"He is stubborn and doesn't realize how bad this is getting,"** a White House adviser said. Trump’s temper has been a constant force in the White House, making policy decisions after becoming irritated with staffers and escalating fights because he doesn't like being told what to do. ([Politico](http://www.politico.com/story/2017/08/16/trump-charlottesville-temper-chaos-241721))
+
+3/ **Jeff Sessions criticized Chicago’s “sanctuary city” policy**, saying the "respect for the rule of law has broken down." He tied the violence in Chicago to its refusal to cooperate with federal immigration authorities, arguing that it's made Chicago a haven for predators and drug dealers. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/sessions-sanctuary-cities-chicago-miami.html) / [Reuters](https://www.reuters.com/article/us-usa-immigration-sanctuary-idUSKCN1AW2NX) / [Politico](http://www.politico.com/story/2017/08/16/jeff-sessions-sanctuary-cities-chicago-rahm-emanuel-241711))
+
+4/ **Steve Bannon intentionally gave an [outrageous interview](http://prospect.org/article/steve-bannon-unrepentant) then pretended he didn't know he was giving it in order to divert attention from Charlottesville**. Bannon called Robert Kuttner, the co-editor of The American Prospect, to say his rivals are "wetting themselves," called white supremacists “clowns” and “losers," and contradicted Trump on North Korea. ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/08/17/steve-bannon-contradicts-trump-on-north-korea-talks-of-rivals-and-white-supremacists-in-unusual-interview-with-progressive-magazine/) / [Axios](https://www.axios.com/bannons-colleagues-disturbed-by-interview-with-left-wing-publication-2473835346.html) / [CNN](http://www.cnn.com/2017/08/17/politics/steve-bannon-interview-strategy/index.html))
+
+5/ **Trump’s personal lawyer forwarded an email warning that Black Lives Matter “has been totally infiltrated by terrorist groups"** and that Robert E. Lee's rebellion was the same as the American Revolution against England. John Dowd forwarded the email with the subject line "The Information that Validates President Trump on Charlottesville" to conservative journalists, government officials and friends. ([New York Times](https://www.nytimes.com/2017/08/16/us/politics/trump-lawyer-email-race-charlottesville.html) / [CNN](http://www.cnn.com/2017/08/16/politics/john-dowd-donald-trump-lawyer-robert-e-lee/index.html))
+
+poll/ **67% of Republicans approve of Trump's response to the Charlottesville violence**. 82% of Democrats disapprove. ([CBS News](https://www.cbsnews.com/news/americans-divided-over-trumps-response-to-charlottesville-cbs-news-poll/?linkId=41076262))
+
+poll/ **40% of Americans support impeaching Trump and removing him from office**. That’s compared to 30 percent who said the same in February. ([NBC News](http://www.nbcnews.com/politics/first-read/poll-40-percent-now-support-trump-impeachment-n793251))
+
+poll/ **More people worldwide trust Putin over Trump to handle foreign affairs**. Of the 36 countries polled, 22, including Germany, France and Japan, trust Putin more than Trump, while 13 countries, including Australia, Canada, and the UK trust Trump slightly more. The survey was conducted February 16th to May 8th, which is before Trump threatened to rain “fire and fury” on North Korea. ([Pew](http://www.pewglobal.org/2017/08/16/publics-worldwide-unfavorable-toward-putin-russia/) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-08-16/world-trusts-putin-more-than-trump-in-foreign-affairs-pew-says))

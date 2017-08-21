@@ -25,7 +25,7 @@ image: "/uploads/214.jpg"
 
 {% twitter https://twitter.com/Fahrenthold/status/899696523444989955 %}
 
-9/ **Trump thanked a fake Twitter user and then attacked the "dishonest Fake New Media."** The account was created in October 2015, but it first tweeted just 3 days ago, gathering over 6,000 followers with memes and posts exclusively celebrating Donald Trump. Trump thanked the bot for its tweet saying that "Every single day the #FakeNews media try to take you down.. You never falter, you always stand strong!" ([Mashable](http://mashable.com/2017/08/21/donald-trump-bot-twitter-retweets-fake-news/#.n9JoZFh.Oqw))
+9/ **Trump thanked a fake Twitter user and then attacked the "dishonest Fake News Media."** The account was created in October 2015, but it first tweeted just 3 days ago, gathering over 6,000 followers with memes and posts exclusively celebrating Donald Trump. Trump thanked the bot for its tweet saying that "Every single day the #FakeNews media try to take you down.. You never falter, you always stand strong!" ([Mashable](http://mashable.com/2017/08/21/donald-trump-bot-twitter-retweets-fake-news/#.n9JoZFh.Oqw))
 
 {% twitter https://twitter.com/Aroliso/status/899623930503233536 %}
 

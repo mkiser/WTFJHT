@@ -1,0 +1,28 @@
+---
+title: Day 216
+date: 2017-08-23 07:24:00 -07:00
+description: Looking for a way out.
+image: "/uploads/216.jpg"
+---
+
+1/ **Trump ranted, rambled, and went on a rampage during his campaign-style rally in Arizona last night**. Ignoring the message on his Teleprompter, Trump threatened to shut down the government over border wall funding, blaming “obstructionist Democrats” for standing in his way. He called for ending the filibuster in the Senate, a move that Republican leaders have refused to embrace. Trump suggested that "we'll probably end up terminating NAFTA" despite the renegotiation just getting underway. He also signaled that he would pardon former Arizona sheriff Joe Arpaio, who was convicted of criminal contempt for ignoring a judge’s order to stop detaining people because he suspected them of being undocumented immigrants. And, he attacked John McCain for his vote against repealing and replacing Obamacare: "One vote away, I will not mention any names."
+
+\([New York Times](https://www.nytimes.com/2017/08/22/us/politics/trump-rally-arizona.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-holds-campaign-style-rally-amid-large-protests-in-arizona/2017/08/22/dd7c83c0-8796-11e7-961d-2f373b3977ee_story.html) / [CNN](http://www.cnn.com/2017/08/23/politics/donald-trump-phoenix-rally-analysis/index.html) / [Politico](http://www.politico.com/story/2017/08/22/trump-arizona-phoenix-rally-241923))
+
+* **On his Charlottesville comments**: Trump defended his responses to the Charlottesville violence while omitting his reference to "many sides" or "both sides." He added that “I hit ’em with neo-Nazi. I hit them with everything. I got the white supremacists, the neo-Nazi. I got them all in there. Let’s see. K.K.K., we have K.K.K.."
+
+* **On removing Confederate monuments:** "They're trying to take away our culture. They're trying to take away our history," Trump said, blaming "weak, weak people" for allowing the removal of statues commemorating the Confederacy.
+
+* **On pardoning former sheriff Joe Arpaio**: “I won’t do it tonight because I don’t want to cause any controversy. I’ll make a prediction: I think he’s going to be just fine.” 
+
+* **On the news media**: "It’s time to expose the crooked media deceptions. They’re very dishonest people. The only people giving a platform to these hate groups is the media itself and the fake news." 
+
+2/ **James Clapper called Trump's speech "downright scary and disturbing."** The former national intelligence director questioned Trump’s fitness for office and is worried about his access to the nuclear codes. “I also am beginning to wonder about his motivation for it," Clapper said. "Maybe he is looking for a way out.” ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/08/23/james-clapper-questions-trumps-fitness-worries-about-his-access-to-nuclear-codes/) / [CNN](http://www.cnn.com/2017/08/23/politics/james-clapper-trump-phoenix-rally-don-lemon-cnntv/index.html))
+
+{% twitter https://twitter.com/CNN/status/900212880041234433 %}
+
+3/ **The United Nations issued an “early warning” to the US over its "alarming" racism**, urging the Trump administration to “unequivocally and unconditionally” reject discrimination. The only other countries to be issued an early warning were Burundi, Iraq, Ivory Coast, Kyrgyzstan and Nigeria. ([The Guardian](https://www.theguardian.com/world/2017/aug/23/charlottesville-un-committee-warns-us-over-rise-of-racism))
+
+4/ **The Pentagon has thousands more troops in Afghanistan than its publicly disclosed**. There are about 8,400 troops in Afghanistan that the Pentagon has publicly acknowledged. But, there's another 3,500 troops  there on temporary assignment, bringing the total number in Afghanistan to above 12,000. ([Wall Street Journal](https://www.wsj.com/articles/u-s-has-more-troops-in-afghanistan-than-publicly-disclosed-1503444713) / [NBC News](https://www.nbcnews.com/news/military/u-s-has-thousands-more-troops-afghanistan-pentagon-admits-n795141))
+
+5/ **The Secret Service agreed to stop erasing White House visitor log data** while a lawsuit demanding public access to some of the information goes forward. Records held by federal agencies like the Secret Service are subject to Freedom of Information Act requests. ([Politico](http://www.politico.com/blogs/under-the-radar/2017/08/23/white-house-visitor-log-data-secret-service-lawsuit-241940))

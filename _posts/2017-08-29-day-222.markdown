@@ -13,4 +13,8 @@ image: "/uploads/222.jpg"
 
 4/ **Trump fired the organizer for his Phoenix speech because he was upset about the crowd size and TV coverage**. After his speech, Trump had his top security aide inform longtime aide George Gigicos that he’d never manage a Trump rally again. Gigicos has organized all of Trump’s main campaign events and occasional rallies since entering office and is one of the four longest-serving aides to the president. Gigicos joins Sean Spicer, Reince Priebus, Stephen Bannon, Sebastian Gorka, and Anthony Scaramucci, who have all resigned or been fired. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-08-28/trump-is-said-to-punish-longtime-aide-after-angry-phoenix-speech))
 
+5/ **Trump tweeted that he intentionally understaffed FEMA** in order to shrink the federal government. His tweet came in response to a critical Fox and Friends segment where Laura Ingraham said the damage and flooding in Texas from Hurricane Harvey is proof that the Trump administration needs to be fully staffed. Of the 591 key positions that require Senate confirmation, just 117 have been filled. ([Politico](http://www.politico.com/story/2017/08/29/trump-shrink-government-laura-ingraham-242128))
+
+{% twitter https://twitter.com/realDonaldTrump/status/902507855584092160 %}
+
 poll/ **16% of American say they like the way Trump conducts himself as president**. 58% say they do not like the way Trump conducts himself. ([Pew Research Center](http://www.people-press.org/2017/08/29/republicans-divided-in-views-of-trumps-conduct-democrats-are-broadly-critical/))

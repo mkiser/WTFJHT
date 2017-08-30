@@ -80,6 +80,11 @@ A VPN stands for Virtual Private Network and is a way of using the internet in a
 
 **Check it's working**. With your VPN connected, head over to [ipleak.net](https://ipleak.net/){:target="_blank"} and see where in the world you're connected.
 
+## Additional Resources
+
+* [Have I Been Pwned?](https://haveibeenpwned.com/){:target="_blank"}. Check if you have an account that has been compromised in a data breach and sign up for notifications for future data beaches your accounts have been involved in.
+* [How Secure Is My Password?](https://howsecureismypassword.net/){:target="_blank"}. Test your current passwords to make sure they are strong and see how long it would take for a computer to crack your password.
+
 ## Summary
 
 The above isn't a comprehensive list – [there's a lot more you could do](https://privacytoolsio.github.io/privacytools.io/){:target="_blank"} – and there's no silver bullet when it comes to internet security. Nerds will point out that this guide falls woefully short in a lot of ways. They're right. It does.

@@ -23,4 +23,4 @@ image: "/uploads/222.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/902507855584092160 %}
 
-poll/ **16% of American say they like the way Trump conducts himself as president**. 58% say they do not like the way Trump conducts himself. ([Pew Research Center](http://www.people-press.org/2017/08/29/republicans-divided-in-views-of-trumps-conduct-democrats-are-broadly-critical/))
+poll/ **16% of Americans say they like the way Trump conducts himself as president**. 58% say they do not like the way Trump conducts himself. ([Pew Research Center](http://www.people-press.org/2017/08/29/republicans-divided-in-views-of-trumps-conduct-democrats-are-broadly-critical/))

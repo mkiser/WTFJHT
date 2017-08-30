@@ -1,0 +1,20 @@
+---
+title: Day 223
+date: 2017-08-30 09:21:00 -07:00
+description: Talking is not the answer.
+image: "/uploads/223.jpg"
+---
+
+1/ **Defense Secretary Jim Mattis will allow transgender troops to continue serving in the military while the Pentagon studied the issue**, delaying the implementation of Trump’s directive. Mattis will establish a “panel of experts serving within the Departments of Defense and Homeland Security” to provide advice and recommendations for putting Trump's order to bar transgender individuals from serving. Mattis has until February 21st to submit a plan for implementing the new policy. ([USA Today](https://www.usatoday.com/story/news/politics/2017/08/29/mattis-orders-pentagon-allow-transgender-troops-continue-serving-pending-study/614711001/) / [Politico](http://www.politico.com/story/2017/08/29/mattis-transgender-troops-pentagon-trump-242156))
+
+2/ **The Kremlin confirmed that Trump’s personal lawyer reached out during the 2016 presidential campaign requesting assistance on a stalled Trump Tower real estate project in Moscow**. Putin’s spokesman, Dmitry Peskov, said they received Michael Cohen’s email, but the Kremlin didn't reply. Peskov said that he had seen the email but that it was not given to Putin. ([Associated Press](https://apnews.com/b584e7f4fffe46f6ae4520727f117201) / [Washington Post](https://www.washingtonpost.com/world/kremlin-confirms-it-received-letter-from-trump-lawyer-about-stalled-moscow-real-estate-project-but-did-not-respond/2017/08/30/ee509c0a-8d80-11e7-8df5-c2e5cf46c1e2_story.html))
+
+3/ **Trump tweets that "talking is not the answer" when it comes to North Korea**. "The U.S. has been talking to North Korea, and paying them extortion money, for 25 years," Trump tweeted. "Talking is not the answer!" ([CNN](http://www.cnn.com/2017/08/30/politics/trump-talking-not-the-answer-north-korea/index.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/902875515534626817 %}
+
+4/ **Mattis to Trump: We're "never out of diplomatic solutions" on North Korea**. Mattis echoed Rex Tillerson's statement that the US would continue its “peaceful pressure” campaign on Pyongyang, saying “We continue to work together, and the minister and I share responsibility to provide for the protection of our nation our populations and our interests, which is what we are here to discuss today." ([The Hill](http://thehill.com/policy/defense/348539-mattis-responds-to-trump-us-never-out-of-diplomatic-solutions-on-north-korea))
+
+5/ **The White House will end an Obama-era policy aimed at addressing pay disparities**. The data collection requirement would have required business owners to document how much they pay workers based on their gender, race, and ethnicity. Ivanka Trump, supporting the policy, issued a statement saying: “Ultimately, while I believe the intention was good and agree that pay transparency is important, the proposed policy would not yield the intended results." ([Wall Street Journal](https://www.wsj.com/articles/white-house-wont-require-firms-to-report-pay-by-gender-race-1504047656))
+
+poll/ **20% of Americans under 30 approve of Trump**. Obama's lowest approval rating for people between ages 18-29 was 42%. ([Axios](https://www.axios.com/trumps-approval-among-people-under-30-reaches-new-low-2479223836.html))

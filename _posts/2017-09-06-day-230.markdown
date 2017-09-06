@@ -1,0 +1,20 @@
+---
+title: Day 230
+date: 2017-09-06 09:01:00 -07:00
+description: 'Revisit. '
+image: "/uploads/230.jpg"
+---
+
+1/ **Dozens of government lobbyists and contractors have memberships at Trump’s private golf clubs**. At least 50 executives whose companies hold federal contracts and 21 lobbyists and trade group officials are members of the golf clubs Trump has visited most often as president – two-thirds have played the same day Trump was there. While legal, ethics experts questioned whether it’s appropriate for a sitting president to collect money from lobbyists try to shape policy or win government business. ([USA Today](https://www.usatoday.com/story/news/2017/09/06/trump-gets-millions-golf-members-ceos-and-lobbyists-get-access-president/632505001/))
+
+2/ **Trump plans to "revisit" his DACA decision in six months if Congress can't pass legislation on the issue**.  "Congress now has 6 months to legalize DACA (something the Obama Administration was unable to do). If they can't, I will revisit this issue!" Trump tweeted. Administration officials tried to clarify Trump's tweet, saying he would use that “tools at his disposal to put more pressure on Congress." ([CNN](http://www.cnn.com/2017/09/05/politics/donald-trump-revisit-daca/index.html) / [Politico](http://www.politico.com/story/2017/09/06/trump-daca-dreamers-tweet-justice-department-242375?lo=ap_a1))
+
+{% twitter https://twitter.com/realDonaldTrump/status/905228667336499200 %}
+
+3/ **A White House talking points memo urged DACA recipients to prepare for a "departure from the United States."** The statement was contained in a [memo](http://i2.cdn.turner.com/cnn/2017/images/09/05/daca.talking.points\[8\].pdf) sent by the White House to offices on Capitol Hill, providing talking points for supporters. "The Department of Homeland Security urges DACA recipients to use the time remaining on their work authorizations to prepare for and arrange their departure from the United States -- including proactively seeking travel documentation -- or to apply for other immigration benefits for which they may be eligible," the memo says. ([CNN](http://www.cnn.com/2017/09/05/politics/white-house-memo-daca-recipients-leave/index.html))
+
+4/ **The House approved nearly $8 billion in disaster aid for Hurricane Harvey victims**. Congressional Democrats offered to support a GOP plan to pair Harvey relief funding with a short-term increase in the debt limit until mid-December, setting up a year-end fiscal cliff. Congress is also expected to extend government funding until the end of the year. ([New York Times](https://www.nytimes.com/2017/09/06/us/politics/house-vote-harvey-aid-debt-ceiling.html) / [Washington Post](https://www.washingtonpost.com/powerpost/schumer-pelosi-call-for-short-term-debt-limit-hike-in-exchange-for-harvey-votes/2017/09/06/cf9a03a2-930a-11e7-8754-d478688d23b4_story.html) / [Politico](http://www.politico.com/story/2017/09/06/schumer-and-pelosi-offer-support-for-harvey-aid-and-debt-limit-boost-242376?lo=ap_d1))
+
+poll/ **55% of voters say they’re comfortable with the nation becoming more diverse** and tolerant of different lifestyles, gender roles, languages, cultures and experiences. 24% say they’re uneasy with these changes, because they believe what makes the US special is the country’s uniquely American experience, speaking English and sharing a background that brings everyone together. ([NBC News](https://www.nbcnews.com/politics/first-read/trump-clinton-voters-divided-over-changing-america-n798926) / [Wall Street Journal](https://www.wsj.com/articles/political-divisions-in-u-s-are-widening-long-lasting-poll-shows-1504670461))
+
+\*\*\* UPDATES IN PROGRESS \*\*\*

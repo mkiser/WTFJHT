@@ -4,3 +4,8 @@ date: 2017-09-07 00:00:00 -07:00
 image: "/uploads/231.jpg"
 ---
 
+1/ **Trump suggested**
+
+2/ **Nancy Pelosi urged Trump to reassure DACA recipients they would not be deported within the next six months, **and he acquiesced.** **The message runs counter to previous White House talking points, which [suggest](http://i2.cdn.turner.com/cnn/2017/images/09/05/daca.talking.points%5B8%5D.pdf) DREAMers should "prepare for" imminent departure from the country. ([The Hill](http://thehill.com/homenews/house/349612-pelosi-asked-trump-to-issue-tweet-reassuring-daca-recipients))
+
+{% twitter https://twitter.com/realDonaldTrump/status/905788459301908480 %}

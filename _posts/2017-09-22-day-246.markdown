@@ -7,8 +7,8 @@ image: "/uploads/246.jpg"
 
 1/ **Following Trump's United Nations speech, North Korea threatened to detonate a hydrogen bomb in the Pacific**. Kim Jong Un in a statement said Trump would "pay dearly" for his words and that North Korea would enact the "highest level of hardline countermeasure in history." The North Korean foreign minister clarified this phrase, suggesting it could refer to an H-bomb. ([Financial Times](https://www.ft.com/content/199a98be-9ee0-11e7-8cd4-932067fbf946) / [New York Times](https://www.nytimes.com/2017/09/21/world/asia/kim-trump-rocketman-dotard.html))
 
-\[% twitter https://twitter.com/realDonaldTrump/status/911175246853664768
-\%\]
+{% twitter https://twitter.com/realDonaldTrump/status/911175246853664768
+%}
 
 * **Trump signed an executive order authorizing sanctions on companies and individuals who conduct business with North Korea**. The move comes after China's central bank "told their other banks ... to immediately stop doing business" with the country. ([NBC News](https://www.nbcnews.com/politics/white-house/trump-we-will-be-putting-more-sanctions-north-korea-n803376))
 
@@ -16,11 +16,11 @@ image: "/uploads/246.jpg"
 
 3/ **Facebook agreed to turn over to Congress details of ads sold to Russian-linked accounts during the 2016 election**. The decision represents a reversal of the company's previous position. Facebook has already provided the ads and information to special counsel Robert Mueller's team. On Twitter, Trump dismissed potential nefarious Russian use of the social media platform as a "hoax." ([CNN](http://money.cnn.com/2017/09/21/media/mark-zuckerberg-facebook-russian-ads/index.html) / [Washington Post](https://www.washingtonpost.com/business/technology/facebook-to-turn-over-thousands-of-russian-ads-to-congress-reversing-decision/2017/09/21/9790b242-9f00-11e7-9083-fbfddf6804c2_story.html))
 
-\[% twitter https://twitter.com/realDonaldTrump/status/911179462745710593
-\%\]
+{% twitter https://twitter.com/realDonaldTrump/status/911179462745710593
+%}
 
-\[% twitter https://twitter.com/realDonaldTrump/status/911189860769255424
-\%\]
+{% twitter https://twitter.com/realDonaldTrump/status/911189860769255424
+%}
 
 * **Russia denied having leveraged Facebook to sway the election**. Speaking to reporters, a Kremlin spokesman said Russia does "not know ... how to place an advert on Facebook. We have never done this, and the Russian side has never been involved in it." ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-facebook/kremlin-russia-did-not-use-facebook-adverts-to-sway-u-s-election-idUSKCN1BX109))
 

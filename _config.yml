@@ -11,6 +11,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  authors:
+    title: Authors
+    output: true
 defaults:
 - scope:
     path: ''
@@ -20,8 +23,17 @@ defaults:
     description: ''
     image: ''
     layout: post
+    author: Matt Kiser
     seo:
       type: NewsArticle
+- scope:
+    path: ''
+    type: authors
+  values:
+    permalink: "/author/:title/"
+    layout: author
+    twitter:
+    email:
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential newsletter. Logging the daily shock and awe in national

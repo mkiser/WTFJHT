@@ -1,0 +1,13 @@
+---
+title: Contact – What The Fuck Just Happened Today?
+layout: default
+image:
+  twitter: "/public/wtfjht-t.jpg"
+  facebook: "/public/wtfjht-f.jpg"
+---
+
+<ul>
+  {% for author in site.authors %}
+    <li><a href="{{ author.url }}">{{ author.title }}</a></li>
+  {% endfor %}
+</ul>

@@ -17,17 +17,27 @@ image:
         {{ post.title }}:
       <span class="post-small">{{ post.description }}</span></a>
     </h2>
-    
-   <time datetime="{% if post.last_modified %}{{ post.last_modified | date_to_xmlschema }}{% endif %}" class="post-date">
-    {{ post.date | date: "%-m/%-d/%Y" }} 
-    <br>
-    <small>
-      <em>Updated: {{ post.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z"}}</em>
-    </small><br>
-    <small>
-     <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ post.path }}" target="_blank">Help improve this article</a> |  <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ post.path }}" target="_blank">See revision history</a>
-    </small>
-  </time>
+
+    {% assign author = site.authors | where: 'title', post.author | first %}
+    {% if author %}
+      <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
+    {% endif %}
+
+    <div class="post-date">
+      <time datetime="{% if post.last_modified %}{{ post.last_modified | date_to_xmlschema }}{% endif %}">
+        {{ post.date | date: "%-m/%-d/%Y" }} 
+      </time>
+      <div>
+        <small>
+          <em>Updated {{ post.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
+        </small>
+      </div>
+      <div>
+        <small>
+          <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ post.path }}" target="_blank">Help improve this article</a> |  <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ post.path }}" target="_blank">See revision history</a>
+        </small>
+      </div>
+    </div>
 
     {{ post.content }}
   </article>

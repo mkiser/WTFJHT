@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<!-- MailChimp -->
+{% include email.html %}
+
+<h1 class="name">{{ page.title }}</h1>
+<div class="bio">{{ page.content }}</div>
+
+{% assign posts = site.posts | where: 'author', page.title %}
+{% for post in posts %}
+  {% include post.html %}
+{% endfor %}

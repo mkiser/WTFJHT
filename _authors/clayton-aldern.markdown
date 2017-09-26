@@ -1,7 +1,7 @@
 ---
 title: Clayton Aldern
 twitter: compatibilism
-image: /public/author-imgs/clay.jpg
+image: "/public/author-imgs/clay.jpg"
 email: 
 ---
 

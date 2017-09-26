@@ -1,7 +1,7 @@
 ---
 title: Matt Kiser
 twitter: matt_kiser
-image: /public/author-imgs/matt.jpg
+image: "/public/author-imgs/matt.jpg"
 email: matt@whatthefuckjusthappenedtoday.com
 ---
 

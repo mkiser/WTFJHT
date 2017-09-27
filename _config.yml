@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: true
+  podcasts:
+    title: Podcasts
+    output: true
   posts:
     title: Posts
     output: true

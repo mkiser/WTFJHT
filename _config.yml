@@ -36,7 +36,14 @@ defaults:
     permalink: "/author/:title/"
     layout: author
     twitter: 
-    email: 
+    email:
+- scope:
+    path: ''
+    type: podcasts
+  values:
+    title: ''
+    description: ''
+    url: ''
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential newsletter. Logging the daily shock and awe in national

@@ -37,17 +37,17 @@ defaults:
     permalink: "/author/:title/"
     layout: author
     twitter: 
-    email:
+    email: 
 - scope:
     path: ''
     type: podcasts
   values:
     title: 
-    description:
-    file:
-    post:
-    duration:
-    length:
+    description: 
+    file: 
+    post: 
+    duration: 
+    length: 
     tags:
     - politics
     - news
@@ -172,9 +172,8 @@ gems:
 - jekyll-extlinks
 - jekyll-archives
 - algoliasearch
-
 podcast_url: http://www.joebuhlig.com/whaddyaknowjoe
-podcast_album_art: /public/wtfpod.jpg
+podcast_album_art: "/public/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser
 podcast_email: matt.kiser@gmail.com
@@ -184,8 +183,5 @@ podcast_author: Matt Kiser
 podcast_description: Your essential guide to the daily shock and awe in national politics.
 podcast_summary: Your essential guide to the daily shock and awe in national politics.
 podcast_subtitle: 
-podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
-
-
-
+podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+  License.

@@ -25,8 +25,9 @@ defaults:
     title: ''
     description: ''
     image: ''
-    layout: post
+    pod: ''
     author: Matt Kiser
+    layout: post
     seo:
       type: NewsArticle
 - scope:
@@ -41,9 +42,15 @@ defaults:
     path: ''
     type: podcasts
   values:
-    title: ''
-    description: ''
-    url: ''
+    title: 
+    description:
+    file:
+    post:
+    duration:
+    length:
+    tags:
+    - politics
+    - news
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential newsletter. Logging the daily shock and awe in national
@@ -165,3 +172,20 @@ gems:
 - jekyll-extlinks
 - jekyll-archives
 - algoliasearch
+
+podcast_url: http://www.joebuhlig.com/whaddyaknowjoe
+podcast_album_art: /public/wtfpod.jpg
+podcast_title: WTF Just Happened Today
+podcast_owner: Matt Kiser
+podcast_email: matt.kiser@gmail.com
+podcast_category: News &amp; Politics
+podcast_explicit: Clean
+podcast_author: Matt Kiser
+podcast_description: Your essential guide to the daily shock and awe in national politics.
+podcast_summary: Your essential guide to the daily shock and awe in national politics.
+podcast_subtitle: 
+podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+
+
+

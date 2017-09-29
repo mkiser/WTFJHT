@@ -32,12 +32,9 @@ layout: default
       </small>
     </div>
   </div>
-  {% assign pod = site.podcasts | where: 'post', page.title | first %}
-  {% if pod %}
-  <div>
-    <audio src="{{ site.url }}{{ pod.file }}" preload="none" />
-  </div>
-  {% endif %}
+  
+<!--   {% include pod.html %}
+ -->
   <div class="post-content">
     {{ content | extlinks }}
   </div>

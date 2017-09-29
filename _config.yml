@@ -45,6 +45,7 @@ defaults:
     post: 
     duration: 
     length: 
+    author: Joe Amditis
     tags:
     - politics
     - news

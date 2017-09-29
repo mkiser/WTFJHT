@@ -1,0 +1,6 @@
+  {% assign pod = site.podcasts | where: 'post', page.title | first %}
+  {% if pod %}
+  <div>
+    <audio src="{{ site.url }}{{ pod.file }}" preload="none" />
+  </div>
+  {% endif %}

@@ -8,7 +8,7 @@ layout:
 
 <channel>
 <title>{{ site.podcast_title }}</title>
-<atom:link href="{{ site.url }}/podcasts/" rel="self" type="application/rss+xml" />
+<atom:link href="{{ site.url }}/podcasts/index.xml" rel="self" type="application/rss+xml" />
 <link>{{ site.url }}</link>
 
 <description>{{ site.podcast_description }}</description>
@@ -41,7 +41,7 @@ layout:
 <itunes:category text="{{ site.podcast_category }}" />
 <category>{{ site.podcast_category }}</category>
 
-{% for ep in site.podcasts %}
+{% for ep in site.podcasts reversed %}
   <item>
     <title>{{ ep.title }}</title>
     <link>{{ site.url }}{{ ep.url }}</link>

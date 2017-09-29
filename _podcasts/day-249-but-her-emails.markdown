@@ -1,6 +1,6 @@
 ---
 title: 'Day 249: But her emails.'
-date: 2017-09-28 16:01:00 -07:00
+date: 2017-09-25 16:01:00 -07:00
 file: "/uploads/day_249_____but_her_emails.mp3"
 post: Day 249
 duration: '00:08:11'

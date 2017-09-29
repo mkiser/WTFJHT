@@ -3,12 +3,12 @@ layout:
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:media="http://search.yahoo.com/mrss/">
  
 
 <channel>
 <title>{{ site.podcast_title }}</title>
-<atom:link href="{{ site.url }}/pod.xml" rel="self" type="application/rss+xml" />
+<atom:link href="{{ site.url }}/podcasts/" rel="self" type="application/rss+xml" />
 <link>{{ site.url }}</link>
 
 <description>{{ site.podcast_description }}</description>
@@ -49,9 +49,9 @@ layout:
     <dc:creator>{{ site.podcast_owner }}</dc:creator>
 
 {% for category in ep.tags %}
-    <category><![CDATA[{{ category | cdata_escape }}]]></category>
+    <category>{{ category }}</category>
 {% endfor %}
-    <guid isPermaLink="true">{{ site.url }}{{ ep.url }}</guid>
+    <guid isPermaLink="false">{{ ep.url }}</guid>
     <description>
         <![CDATA[{{ ep.content | strip_html | truncate: 250 }}]]>
     </description>
@@ -67,6 +67,9 @@ layout:
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.duration }}</itunes:duration>
+    <media:content url="{{ site.url }}{{ site.podcast_album_art }}" medium="image">
+        <media:title type="html">{{ ep.title }}</media:title>
+    </media:content>
   </item>
 {% endfor %}
 

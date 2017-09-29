@@ -11,9 +11,6 @@ collections:
   posts:
     title: Posts
     output: true
-  resources:
-    title: Resources
-    output: true
   uploads:
     title: Uploads
     output: true
@@ -25,7 +22,6 @@ defaults:
     title: ''
     description: ''
     image: ''
-    pod: ''
     author: Matt Kiser
     layout: post
     seo:
@@ -38,6 +34,8 @@ defaults:
     layout: author
     twitter: 
     email: 
+    metatags: noindex, follow
+    sitemap: false
 - scope:
     path: ''
     type: podcasts
@@ -50,6 +48,8 @@ defaults:
     tags:
     - politics
     - news
+    metatags: noindex, follow
+    sitemap: false
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential newsletter. Logging the daily shock and awe in national

@@ -7,3 +7,4 @@
   {% else %}
     {% seo %} 
   {% endif %}
+  {% if page.metatags %} <meta name="robots" content="{{page.metatags}}">{% endif %}

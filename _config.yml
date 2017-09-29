@@ -171,7 +171,7 @@ gems:
 - jekyll-extlinks
 - jekyll-archives
 - algoliasearch
-podcast_url: http://www.joebuhlig.com/whaddyaknowjoe
+
 podcast_album_art: "/public/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser

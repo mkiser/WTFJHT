@@ -53,16 +53,16 @@ layout:
 {% endfor %}
     <guid isPermaLink="true">{{ site.url }}{{ ep.url }}</guid>
     <description>
-        <![CDATA[{{ ep.content | strip_html | truncate: 250 | escape }}]]>
+        <![CDATA[{{ ep.content | strip_html | truncate: 250 }}]]>
     </description>
     <content:encoded>
-        <![CDATA[{{ ep.content | escape }}]]>
+        <![CDATA[{{ ep.content }}]]>
     </content:encoded>
 
-    <enclosure url="{{ site.url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
+    <enclosure url="http://whatthefuckjusthappenedtoday.com.s3-website-us-east-1.amazonaws.com/{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
 
     <itunes:subtitle>{{ ep.content | strip_html | truncate: 250 | expand_urls: site.url }}</itunes:subtitle>
-    <itunes:summary><![CDATA[{{ ep.content | escape }}]]></itunes:summary>
+    <itunes:summary><![CDATA[{{ ep.content }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>

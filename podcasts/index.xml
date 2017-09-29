@@ -44,10 +44,14 @@ layout:
 {% for ep in site.podcasts reversed %}
   <item>
     <title>{{ ep.title }}</title>
-    <link>{{ site.url }}{{ ep.url }}</link>
+
+{% assign post = site.posts | where: 'title', ep.post %}
+{% for link in post %}
+    <link>{{ site.url }}{{ link.url }}</link>
+{% endfor %}
+
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
     <dc:creator>{{ site.podcast_owner }}</dc:creator>
-
 {% for category in ep.tags %}
     <category>{{ category }}</category>
 {% endfor %}

@@ -171,7 +171,6 @@ gems:
 - jekyll-extlinks
 - jekyll-archives
 - algoliasearch
-
 podcast_album_art: "/podcasts/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser
@@ -182,4 +181,5 @@ podcast_author: Matt Kiser
 podcast_description: Your essential guide to the daily shock and awe in national politics.
 podcast_summary: Your essential guide to the daily shock and awe in national politics.
 podcast_subtitle: 
-podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+  License.

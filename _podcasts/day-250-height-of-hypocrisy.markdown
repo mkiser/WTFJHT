@@ -15,4 +15,4 @@ Tuesday, Sept. 26, 2017
 
  3/ Senate Republicans are discussing whether to merge another Obamacare repeal effort into tax reform.
 
-https://whatthefuckjusthappenedtoday.com/2017/09/26/day-250/\
+https://whatthefuckjusthappenedtoday.com/2017/09/26/day-250/

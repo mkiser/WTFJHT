@@ -32,9 +32,11 @@ layout: default
       </small>
     </div>
   </div>
-  
-<!--   {% include pod.html %}
- -->
+
+{% assign ep = site.podcasts | where: 'post', page.title | first %}
+{% if ep %}
+  {% include pod.html %}
+{% endif %}
   <div class="post-content">
     {{ content | extlinks }}
   </div>

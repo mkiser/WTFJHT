@@ -1,6 +1,6 @@
 ---
 title: 'Day 253: Giant, beautiful, massive, the biggest ever.'
-date: 2017-10-01 11:32:00 -07:00
+date: 2017-09-29 13:30:00 -07:00
 file: "/uploads/Day%20253a%20%E2%80%93%20Giant,%20beautiful,%20massive,%20the%20biggest%20ever.mp3"
 post: Day 253
 duration: '00:07:46'

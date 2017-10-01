@@ -24,7 +24,7 @@ layout:
 <itunes:author>{{ site.podcast_author }}</itunes:author>
 <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
 <itunes:block>No</itunes:block>
-<itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
+<itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
 <itunes:owner>
     <itunes:name>{{ site.podcast_owner }}</itunes:name>
     <itunes:email>{{ site.podcast_email }}</itunes:email>
@@ -33,7 +33,7 @@ layout:
 <itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
 <image>
     <title>{{ site.podcast_title }}</title>
-    <url>{{ site.url }}{{ site.podcast_album_art }}</url>
+    <url>{{ site.cloudfront_url }}{{ site.podcast_album_art }}</url>
     <link>{{ site.url }}</link>
     <width>144</width>
     <height>144</height>
@@ -63,15 +63,15 @@ layout:
         <![CDATA[{{ ep.content }}]]>
     </content:encoded>
 
-    <enclosure url="{{ site.url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
+    <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
 
     <itunes:subtitle>{{ ep.content | strip_html | truncate: 250 | expand_urls: site.url }}</itunes:subtitle>
     <itunes:summary><![CDATA[{{ ep.content }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
-    <itunes:image href="{{ site.url }}{{ site.podcast_album_art }}" />
+    <itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.duration }}</itunes:duration>
-    <media:content url="{{ site.url }}{{ site.podcast_album_art }}" medium="image">
+    <media:content url="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" medium="image">
         <media:title type="html">{{ ep.title }}</media:title>
     </media:content>
   </item>

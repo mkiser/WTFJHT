@@ -1,7 +1,7 @@
 ---
 title: 'Day 256: An act of pure evil.'
 date: 2017-10-02 14:41:00 -07:00
-file: "/uploads/Day%20256%20-%20An%20act%20of%20pure%20evil.mp3"
+file: "/uploads/Day-256-An-act-of-pure-evil.mp3"
 post: Day 256
 duration: '07:59'
 length: 11390044

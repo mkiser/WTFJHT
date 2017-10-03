@@ -7,6 +7,9 @@ duration: '08:19'
 length: '11,524,812'
 ---
 
+October 3, 2017
+
+
 1/ Trump said he’ll "be talking about gun laws as time goes by.
 
 

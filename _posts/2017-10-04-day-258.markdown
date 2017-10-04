@@ -1,0 +1,24 @@
+---
+title: Day 258
+date: 2017-10-04 07:24:00 -07:00
+description: Moron.
+image: "/uploads/258.jpg"
+---
+
+1/ **Rex Tillerson called Trump a moron and nearly resigned**. The comment came this past summer after a meeting at the Pentagon with members of Trump’s national security team and Cabinet officials. Mike Pence reportedly counseled Tillerson on how to ease tensions with Trump, with other top administration officials urging him to remain in the job until the end of the year. ([NBC News](https://www.nbcnews.com/politics/white-house/tillerson-s-fury-trump-required-intervention-pence-n806451))
+
+2/ **Tillerson denied he considered resigning from his job**. He did not address whether he called Trump a "moron." Minutes before Tillerson's remarks, Trump tweeted that NBC News was "fake news" and "more dishonest than even CNN. They are a disgrace to good reporting. No wonder their news ratings are way down!" Immediately after Tillerson spoke, Trump tweeted, again, that the NBC News "story has just been totally refuted" by Tillerson and that the news network "should issue an apology to AMERICA!" ([USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2017/10/04/report-secretary-state-rex-tillerson-called-president-trump-moron/730924001/) / [CBS News](https://www.cbsnews.com/news/rex-tillerson-statement-2017-09-04-live-updates/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/915589297096536065 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/915596990674849792 %}
+
+3/ **Senate intelligence committee leaders will provide an update on their investigation into Russian election meddling and possible collusion with Trump associates**. Richard Burr and Mark Warner will publicly report on what the panel has confirmed regarding Russian meddling and "sound the alarm" about Trump's refusal to explicitly say Russia was responsible. They'll also provide steps that Congress can take to protect future elections as well as how to prevent abuse of social networks like Facebook, Twitter, and Google. The Senate intelligence committee is one of three congressional committees probing events related to Russia's election meddling and potential collusion between Trump's team and the Russian government, along with the federal investigation led by special counsel Robert Mueller.  ([CNN](http://www.cnn.com/2017/10/04/politics/senate-intelligence-russia-news-conference/index.html))
+
+4/ **Russian-linked Facebook ads specifically targeted Michigan and Wisconsin**, two states Trump won by less than 1% of the vote. The ads used divisive messages and promoted anti-Muslim messages. Trump beat Hillary Clinton in Michigan by about 10,700 votes out of nearly 4.8 million ballots cast. In Wisconsin, Trump won by only about 22,700 votes. ([CNN](http://www.cnn.com/2017/10/03/politics/russian-facebook-ads-michigan-wisconsin/index.html))
+
+* **The House intelligence committee is focusing on Russian ads bought on Google**, search engine manipulation, fake news, and the potential uses of YouTube. Google had initially said it found no evidence of targeted tactics like the thousands of election-related ads purchased on Facebook. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-10-03/google-election-probe-is-said-to-focus-on-youtube-gmail))
+
+* **Russia targeted NATO soldier's smartphones in an effort to gain information about operations and troop strength in Poland and the Baltic states**. The campaign targeted a contingent of 4,000 NATO troops deployed this year to protect the alliance’s European border with Russia.  ([Wall Street Journal](https://www.wsj.com/articles/russia-targets-soldier-smartphones-western-officials-say-1507109402))
+
+ \*\*\* UPDATES IN PROGRESS \*\*\*

@@ -7,11 +7,13 @@ duration: '07:59'
 length: 11390044
 ---
 
+Monday, October 2, 2017
+
 1/ Trump called the Las Vegas shooting "an act of pure evil."
 
 2/ The House could vote on legislation this week that would roll back restrictions on gun silencers.
 
-3/ Rex Tillerson said the US is in direct communication with North Korea about its nuclear program even after Trump tweeted in August that “talking is not the answer!” 
+3/ Rex Tillerson said the US is in direct communication with North Korea about its nuclear program even after Trump tweeted in August that “talking is not the answer!”
 
 4/ Trump called Tillerson's effort to communicate with North Korea a waste of time.
 

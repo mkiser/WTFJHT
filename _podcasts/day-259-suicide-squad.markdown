@@ -9,6 +9,8 @@ length: 6094430
 
 Thursday, October 5, 2017
 
+NOTE: The site has been updated since today's episode was recorded. Visit www.whatthefuckjusthappenedtoday.com to see the most recent updates.
+
 1/ Rex Tillerson, James Mattis, and Steven Mnuchin have a "suicide pact," where all three cabinet secretaries will leave in the event that Trump fires one of them.
 
 2/ Trump criticized the Senate Intelligence Committee for continuing its investigation into possible collusion between Russia and his campaign.
@@ -24,7 +26,3 @@ Thursday, October 5, 2017
 7/ The House Homeland Security Committee approved $10 billion for a border wall as part of a border security bill.
 
 8/ Democrats introduced a bill to ban "bump stocks," a gun conversion kit that turns semiautomatic weapons into weapons capable of firing a continuous stream of bullets.
-
-THE SITE HAS BEEN UPDATED SINCE THIS WAS RECORDED.
-
-Visit www.whatthefuckjusthappenedtoday.com to see the most recent updates.

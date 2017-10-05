@@ -40,6 +40,8 @@ defaults:
     path: ''
     type: podcasts
   values:
+    permalink: "/:year/:month/:day/podcast/"
+    layout: pod
     title: 
     file: 
     post: 
@@ -130,6 +132,7 @@ algolia:
   - "/guide/*"
   - license.html
   - license.txt
+  - "*/podcasts"
   settings:
     attributesToIndex:
     - unordered(text)

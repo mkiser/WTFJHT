@@ -1,6 +1,7 @@
 ---
 title: 'Day 259: Suicide squad.'
-date: 2017-10-05 14:45:00 -07:00
+date: 2017-10-05 14:35:00 -07:00
+file: "/uploads/Day-259-Suicide-squad-.mp3"
 post: Day 259
 duration: '04:17'
 length: 6094430

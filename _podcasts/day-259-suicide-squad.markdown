@@ -5,6 +5,7 @@ file: "/uploads/Day-259-Suicide-squad-.mp3"
 post: Day 259
 duration: '04:17'
 length: 6094430
+image: "/uploads/259-update.jpg"
 ---
 
 Thursday, October 5, 2017

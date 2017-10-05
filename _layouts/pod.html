@@ -5,7 +5,7 @@ sitemap: false
 ---
 
 {% assign post = site.posts | where: 'title', page.post | first %}
-
+{% assign content = post.content %}
 <!-- MailChimp -->
 {% include email.html %}
 <article class="post">

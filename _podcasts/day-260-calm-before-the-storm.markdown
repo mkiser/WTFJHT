@@ -24,6 +24,6 @@ image: "/uploads/260-update.jpg"
 
 8/ Trump nominated a coal lobbyist to help lead the EPA.
 
-9/ Treasury employees allege its Intelligence and Analysis unit is illegally spying on Americans' private financial records. (NOT INCLUDED IN PODCAST)
+9/ Treasury employees allege its Intelligence and Analysis unit is illegally spying on Americans' private financial records. 
 
-poll/ 24% of Americans believe the country is heading in the right direction. (NOT INCLUDED IN PODCAST)
+poll/ 24% of Americans believe the country is heading in the right direction. 

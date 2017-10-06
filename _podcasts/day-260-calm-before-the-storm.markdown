@@ -5,6 +5,7 @@ file: "/uploads/Day-260-Calm-before-the-storm.mp3"
 post: Day 260
 duration: '04:04'
 length: 5344913
+image: "/uploads/260-update.jpg"
 ---
 
 1/ Trump's advisers are floating the idea of replacing Rex Tillerson with CIA Director Mike Pompeo after Morongate.

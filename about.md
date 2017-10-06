@@ -31,7 +31,7 @@ With WTFJHT, you will find an independent voice with personal accountability, an
 * **Clear expectations**. The premise of WTFJHT is simple: answer what happened, what the facts are, and cite the source. 
 * **Consistency**. Every day that I meet the expectations I set, I earn trust with the audience. For every day that I fail to meet the expectations I set for myself, I lose trust. It's that simple.
 * **Making something people want**. Yes.
-* **Create move value than I exract**. I'm not here to get rich. I'm here to provide valuable news you can use. That's why there are...
+* **Create more value than I exract**. I'm not here to get rich. I'm here to provide valuable news you can use. That's why there are...
 * **No strings attached**. There's no business model trickery here. No ads. No content gates. No selling of data. I have a website and a newsletter, and I never stray from any of the above. Why the fuck would I want to sell out my audience anyway?
 
 This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).

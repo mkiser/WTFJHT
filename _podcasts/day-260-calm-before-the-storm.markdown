@@ -1,6 +1,6 @@
 ---
 title: 'Day 260: Calm before the storm.'
-date: 2017-10-06 14:00:00 -07:00
+date: 2017-10-06 13:30:00 -07:00
 file: "/uploads/Day-260-Calm-before-the-storm.mp3"
 post: Day 260
 duration: '04:04'

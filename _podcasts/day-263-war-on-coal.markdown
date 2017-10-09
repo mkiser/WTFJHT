@@ -5,6 +5,7 @@ file: "/uploads/Day-263-War-on-coal-CTA.wav"
 post: Day 263
 duration: '05:18'
 length: 56041920
+image: "/uploads/263-update.jpg"
 ---
 
 1/ The Trump administration will roll back the Clean Power Plan.

@@ -5,6 +5,7 @@ file: "/uploads/Day-264-Power-of-the-pen.mp3"
 post: Day 264
 duration: '04:59'
 length: 6615832
+image: "/uploads/264-update.jpg"
 ---
 
 1/ Trump plans to go around Congress to provide new insurance options for Americans.

@@ -1,0 +1,22 @@
+---
+title: Day 265
+date: 2017-10-11 09:04:00 -07:00
+description: NBC = CNN
+image: "/uploads/265.jpg"
+---
+
+1/ **Trump told his highest-ranking military leaders he wanted a tenfold increase in the US nuclear arsenal** during a meeting at the Pentagon during a July 20th meeting. Shortly after the meeting ended, Rex Tillerson called trump a ["fucking moron"](https://whatthefuckjusthappenedtoday.com/2017/10/04/day-258/#1-rex-tillerson-reportedly-called-tr) to the officials who remained behind. Any increase in the nuclear arsenal would break with decades of US nuclear doctrine and violate international disarmament treaties signed by every president since Ronald Reagan. ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-wanted-dramatic-increase-nuclear-arsenal-meeting-military-leaders-n809701))
+
+2/ **In response to the NBC News story, Trump tweeted that NBC’s broadcast license should be pulled as punishment** for what he considers fake news. “Fake @NBCNews made up a story that I wanted a ‘tenfold’ increase in our U.S. nuclear arsenal. Pure fiction, made up to demean. NBC = CNN!” Trump tweeted. “With all of the Fake News coming out of NBC and the Networks, at what point is it appropriate to challenge their License? Bad for country!” ([Politico](http://www.politico.com/story/2017/10/11/trump-nbc-broadcast-license-243667) / [The Hill](http://thehill.com/homenews/administration/354888-trump-fake-nbc-news-nuke-story-pure-fiction))
+
+{% twitter https://twitter.com/realDonaldTrump/status/918110279367643137 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/918112884630093825 %}
+
+* **One of Trump’s oldest friends says the president is "better than this."** Thomas Barrack Jr. said he has been “shocked” and “stunned” by Trump's rhetoric and tweets, and wonders why his longtime friend spends so much of his time appealing to the fringes of American politics. ([Washington Post](https://www.washingtonpost.com/politics/hes-better-than-this-says-thomas-barrack-trumps-loyal-whisperer/2017/10/10/067fc776-a215-11e7-8cfe-d5b912fabc99_story.html))
+
+3/ **Homeland Security is exploring how it could transform the immigration system without Congress**. The possible changes could limit protections for unaccompanied minors who come to the US illegally, expand the use of quick deportation proceedings, and tighten visa programs that could limit legal immigration to the US. None of the policies have been finalized. ([CNN](https://www.cnn.com/2017/10/11/politics/trump-administration-dhs-immigration-policies/index.html))
+
+4/ **The Supreme Court dismissed one of the challenges to Trump’s now-expired travel ban**. The justices were not ruling on the merits of the issue, but said that because the executive order “expired by its own terms” on September 24th, "the appeal no longer presents a 'live case or controversy.'" ([Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-dismisses-case-against-trumps-expired-travel-ban/2017/10/10/2aef82d6-ad37-11e7-be94-fabb0f1e9ffb_story.html))
+
+poll/ **64% of voters support stricter gun laws**, including 41% who strongly support them. 29% oppose stricter gun laws, including 16% who are in strong opposition. ([Politico](http://www.politico.com/story/2017/10/11/gun-control-vegas-polls-243647))

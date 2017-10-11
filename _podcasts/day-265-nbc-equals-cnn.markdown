@@ -5,6 +5,7 @@ file: "/uploads/Day-265-NBC-CNN.mp3"
 post: Day 265
 duration: '02:59'
 length: 4018019
+image: "/uploads/265-update.jpg"
 ---
 
 1/ Trump told his highest-ranking military leaders he wanted a tenfold increase in the US nuclear arsenal.

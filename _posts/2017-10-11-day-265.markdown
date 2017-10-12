@@ -23,7 +23,7 @@ image: "/uploads/265.jpg"
 
 * **The House Intelligence Committee will publicly release the Facebook ads purchased by Russian operatives** during last year’s presidential election. The committee received more than 3,000 politically divisive ads believed to have been purchased by Russia. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-facebook/house-panel-to-publicly-release-russia-facebook-ads-idUSKBN1CG2GM))
 
-* **Russia hijacked Kaspersky Lab anti-virus software and turned it into a tool for spying**. The software routinely scanned files looking terms like "top secret" and classified code names of US government programs. ([Wall Street Journal](https://www.wsj.com/articles/russian-hackers-scanned-networks-world-wide-for-secret-u-s-data-1507743874))
+* **Russia hijacked Kaspersky Lab anti-virus software and turned it into a tool for spying**. The software routinely scanned files looking for terms like "top secret" and classified code names of US government programs. ([Wall Street Journal](https://www.wsj.com/articles/russian-hackers-scanned-networks-world-wide-for-secret-u-s-data-1507743874))
 
 6/ **North Korea hackers may have stolen joint US-South Korean military secrets**, including a "decapitation strike" targeting Kim Jong Un and other leaders. The hackers broke into South Korea’s defense database in September 2016 and took a blueprint known as Operations Plan 5015, which was developed in 2015 in case war broke out with North Korea. ([Wall Street Journal](https://www.wsj.com/articles/north-korea-suspected-of-hacking-u-s-south-korean-war-plans-1507636641) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-10-10/media-s-korean-lawmaker-says-north-korea-hacked-war-plans))
 

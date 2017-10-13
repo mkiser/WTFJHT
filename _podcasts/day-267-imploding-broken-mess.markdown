@@ -1,7 +1,7 @@
 ---
 title: 'Day 267: Imploding broken mess.'
 date: 2017-10-13 14:37:00 -07:00
-file: "/uploads/Day-267-Imploding-broken-mess.mp3"
+file: "/uploads/Day-267-Imploding-broken-mess-.mp3"
 post: Day 267
 duration: '05:50'
 length: 10727892

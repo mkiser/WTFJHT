@@ -7,7 +7,7 @@ duration: '05:50'
 length: 10727892
 ---
 
-1/ Trump will cut off essential subsidy payments to Affordable Care Act insurers.
+1/ Trump will cut off essential subsidy payments to Affordable Care Act insurers. 
 
 2/ Insurers pushed back against Trump's decision to cut the ACA's cost-sharing reduction subsidies.
 

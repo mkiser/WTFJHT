@@ -5,7 +5,7 @@ file: "/uploads/Day-256-An-act-of-pure-evil.mp3"
 post: Day 256
 duration: '07:59'
 length: 11390044
-redirect_to: /2017/10/02/day-256/
+redirect_to: "/2017/10/02/day-256/"
 ---
 
 Monday, October 2, 2017

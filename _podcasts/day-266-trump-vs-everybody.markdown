@@ -6,7 +6,7 @@ post: Day 266
 duration: '05:48'
 length: 9760376
 image: "/uploads/266-update.jpg"
-redirect_to: /2017/10/12/day-266/
+redirect_to: "/2017/10/12/day-266/"
 ---
 
 1/ Trump signed an executive order easing some Affordable Care Act rules for small businesses that band together to buy health insurance as an association.

@@ -60,7 +60,7 @@ tagline: Today's essential guide to the daily shock and awe in national politics
 description: Today's essential guide to the daily shock and awe in national politics.
   Read in moderation.
 url: https://whatthefuckjusthappenedtoday.com
-baseurl:
+baseurl: 
 source: "."
 destination: "./_site"
 plugins_dir: _plugins

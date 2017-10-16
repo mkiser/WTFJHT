@@ -5,6 +5,7 @@ file: "/uploads/day_252_____no_gurantees.mp3"
 post: Day 252
 duration: '00:05:41'
 length: 7320432
+redirect_to: /2017/09/28/day-252/
 ---
 
 Thursday, Sept. 28, 2017

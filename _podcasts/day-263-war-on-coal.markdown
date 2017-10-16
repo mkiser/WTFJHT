@@ -6,6 +6,7 @@ post: Day 263
 duration: '05:18'
 length: 56041920
 image: "/uploads/263-update.jpg"
+redirect_to: /2017/10/09/day-263/
 ---
 
 1/ The Trump administration will roll back the Clean Power Plan.

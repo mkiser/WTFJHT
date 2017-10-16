@@ -5,6 +5,7 @@ file: "/uploads/Day-258-Moron-.mp3"
 post: Day 258
 duration: '05:47'
 length: 8108378
+redirect_to: /2017/10/04/day-258/
 ---
 
 Wednesday, October 4, 2017

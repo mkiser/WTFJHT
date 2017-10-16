@@ -1,10 +1,10 @@
 ---
 title: 'Day 263: War on coal.'
 date: 2017-10-09 13:42:00 -07:00
-file: "/uploads/Day-263-War-on-coal-CTA.wav"
+file: "/uploads/Day-263-War-on-coal-CTA.mp3"
 post: Day 263
 duration: '05:18'
-length: 56041920
+length: 7323804
 image: "/uploads/263-update.jpg"
 redirect_to: /2017/10/09/day-263/
 ---

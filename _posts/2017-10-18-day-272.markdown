@@ -1,0 +1,32 @@
+---
+title: Day 272
+date: 2017-10-18 09:26:00 -07:00
+description: Knew what he signed up for.
+image: "/uploads/272.jpg"
+---
+
+1/ **Trump denied telling the widow of a fallen soldier "he knew what he signed up for,"** contradicting a Florida congresswoman who was with the woman at the time. "Basically, he said, 'Well, I guess he knew what he signed up for," Congresswoman Frederica Wilson said, recounting the conversation she heard on speakerphone. "But I guess it still hurt.' That's what he said." Trump tweeted that the "Democrat Congresswoman totally fabricated what I said to the wife of a soldier who died in action (and I have proof)," raising questions about whether Trump tapes calls and conversations. The mother of the fallen soldier stood behind Wilson's account, saying that Trump "did disrespect" the family with his comments during the call. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/10/18/totally-fabricated-trump-disputes-congresswomans-depiction-of-his-exchange-with-soldiers-widow/) / [ABC News](http://abcnews.go.com/Politics/trump-denies-telling-widow-fallen-soldier-knew-signed/story?id=50549664))
+
+{% twitter https://twitter.com/realDonaldTrump/status/920611770775064576 %}
+
+2/ **Trump backed off his support for the bipartisan healthcare deal**, tweeting he could never support legislation "bailing out" insurance companies "who have made a fortune" from Obamacare. The comment comes a day after Trump [embraced the deal](https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/#5-senators-have-agreed-in-principle) as "a short-term solution so that we don’t have this very dangerous little period." The chairman of the Senate health committee said Trump "completely engineered the plan" to fund subsidies for health insurers, but "wants to reserve his options." ([New York Times](https://www.nytimes.com/2017/10/18/us/politics/trump-obamacare-subsidies-tweet-opposition.html) / [Wall Street Journal](https://www.wsj.com/articles/trump-signals-opposition-to-bipartisan-health-care-deal-1508338881) / [Axios](https://www.axios.com/alexander-trump-engineered-bipartisan-health-bill-2498029679.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/920645935981613057 %}
+
+3/ **Paul Ryan does not support the Alexander-Murray healthcare bill**. Ryan's press secretary said "The speaker does not see anything that changes his view that the Senate should keep its focus on repeal and replace of Obamacare." ([Axios](https://www.axios.com/paul-ryan-comes-out-against-alexander-murray-health-bill-2498070386.html))
+
+4/ **A second federal judge blocked Trump's latest travel ban attempt** citing his tweets as evidence the policy carries the same intent as Trump's Muslim ban proposal. The Maryland judge granted a nationwide preliminary injunction against the latest iteration of the travel ban, following a [similar order](https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/#10-a-federal-judge-in-hawaii-has-blo) by a federal judge in Hawaii. District Court Judge Theodore Chuang said the administration had "not shown that national security cannot be maintained without an unprecedented eight-country travel ban." ([Politico](http://www.politico.com/story/2017/10/18/trump-travel-ban-maryland-judge-blocks-243901) / [Washington Post](https://www.washingtonpost.com/world/national-security/second-judge-rules-against-latest-travel-ban-saying-trumps-own-words-show-it-was-aimed-at-muslims/2017/10/18/5ecdaa44-b3ed-11e7-9e58-e6288544af98_story.html))
+
+5/ **Trump tweeted that James Comey had prematurely exonerated Hillary Clinton "long before \[the\] investigation was complete"** into her private email use. The FBI released emails that indicate Comey had drafted a statement about ending the investigation [two months before](https://whatthefuckjusthappenedtoday.com/2017/09/01/day-225/#2-senate-republicans-accused-comey-o) he announced he would not to seek charges. "Wow, FBI confirms report that James Comey drafted letter exonerating Crooked Hillary Clinton long before investigation was complete," Trump tweeted. "James Comey lied and leaked and totally protected Hillary Clinton." ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/10/18/trump-asks-whether-james-comey-was-truthful-about-clinton-probe/) / [Associated Press](https://apnews.com/1b526916a1de4faa999557d5f214971b/Trump-says-Comey-knew-he-was-going-to-exonerate-Clinton))
+
+{% twitter https://twitter.com/realDonaldTrump/status/920595564064100352 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/920597192666157057 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/920604520572424193 %}
+
+6/ **Jeff Sessions appeared before the Senate Judiciary Committee and defended Trump's firing of James Comey**. He linked the FBI director’s dismissal to his handling of the Hillary Clinton email server investigation. Sessions refused to discuss private conversations he had with Trump that led up to Comey’s firing. The attorney general also said he hasn't been interviewed by Special Counsel Robert Mueller, yet. ([Associated Press](https://apnews.com/70baab1c054e4837b1d962475bfd6f85/Sessions-defends-Comey-firing,-ties-it-to-Clinton-email-case))
+
+7/ **Democrats asked the chairman of the House oversight committee to subpoena the White House for documents related to Michael Flynn** and his company the Flynn Intel Group. "\[T\]he White House has been openly defying this Committee’s bipartisan request for documents regarding General Flynn for months without any assertion of privilege of any kind," 18 Democrats wrote in a 10-page letter to Trey Gowdy. "We believe that this paper trail must be pursued to answer the gravest questions of all — did General Flynn seek to change the course of our country’s national security to benefit the private interests he previously promoted?" A Gowdy aide said he was reviewing whether the White House’s limited response to previously inquiries was sufficient. ([Politico](http://www.politico.com/story/2017/10/18/democrats-press-gowdy-to-subpoena-white-house-for-documents-on-flynn-243903))
+
+poll/ **46% of voters believe the news media fabricates stories about Trump and his administration**. 76% of Republican voters think the news media invent stories about Trump compared to 65% of Democrats who think the news media does not. ([Politico](http://www.politico.com/story/2017/10/18/trump-media-fake-news-poll-243884))

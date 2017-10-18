@@ -111,10 +111,9 @@ algolia:
   - about.md
   - all.html
   - archive.md
-  - "/archives/*"
+  - archives
   - atom.xml
   - faq.md
-  - first-100-days.html
   - index.html
   - instant-feed.xml
   - instantfeed.xml
@@ -128,12 +127,15 @@ algolia:
   - today.html
   - whitelist.html
   - yesterday.html
-  - "/meta/*"
-  - do-something/*
-  - "/guide/*"
   - license.html
   - license.txt
-  - "*/podcasts"
+  - faq
+  - license
+  - 45-for-45
+  - meta
+  - do-something
+  - podcasts
+  - author
   settings:
     attributesToIndex:
     - unordered(text)

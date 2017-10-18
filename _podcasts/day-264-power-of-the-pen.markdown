@@ -6,7 +6,7 @@ post: Day 264
 duration: '04:59'
 length: 6615832
 image: "/uploads/264-update.jpg"
-redirect_to: /2017/10/10/day-264/
+redirect_to: "/2017/10/10/day-264/"
 ---
 
 1/ Trump plans to go around Congress to provide new insurance options for Americans.

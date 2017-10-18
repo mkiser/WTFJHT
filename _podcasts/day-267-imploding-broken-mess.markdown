@@ -5,7 +5,7 @@ file: "/uploads/Day-267-Imploding-broken-mess-.mp3"
 post: Day 267
 duration: '05:50'
 length: 10727892
-redirect_to: /2017/10/13/day-267/
+redirect_to: "/2017/10/13/day-267/"
 ---
 
 1/ Trump will cut off essential subsidy payments to Affordable Care Act insurers. 

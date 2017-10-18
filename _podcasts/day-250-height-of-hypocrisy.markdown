@@ -5,7 +5,7 @@ file: "/uploads/day_250_____height_of_hypocrisy.mp3"
 post: Day 250
 duration: '00:05:36'
 length: 7149388
-redirect_to: /2017/09/26/day-250/
+redirect_to: "/2017/09/26/day-250/"
 ---
 
 Tuesday, Sept. 26, 2017

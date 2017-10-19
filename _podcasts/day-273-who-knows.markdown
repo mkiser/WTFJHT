@@ -5,6 +5,7 @@ file: "/uploads/Day-273-Who-knows.mp3"
 post: Day 273
 duration: '04:00'
 length: 7142046
+image: "/uploads/273-update.jpg"
 ---
 
 1/ George W. Bush all but called Trump a threat to democracy.

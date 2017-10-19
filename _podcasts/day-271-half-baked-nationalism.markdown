@@ -5,6 +5,7 @@ file: "/uploads/Day-271-Half-baked-nationalism.mp3"
 post: Day 271
 duration: '07:17'
 length: 12947289
+redirect_to: "/2017/10/17/day-271/"
 ---
 
 1/ John McCain condemned Trump's "America First" policy as "half-baked, spurious nationalism."

@@ -5,6 +5,7 @@ file: "/uploads/Day-272-Knew-what-he-signed-up-for.mp3"
 post: Day 272
 duration: '05:05'
 length: 9288576
+redirect_to: "/2017/10/18/day-272/"
 ---
 
 1/ Trump denied telling the widow of a fallen soldier "he knew what he signed up for."

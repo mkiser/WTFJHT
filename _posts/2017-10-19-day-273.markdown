@@ -1,0 +1,30 @@
+---
+title: Day 273
+date: 2017-10-19 09:09:00 -07:00
+description: Who knows.
+image: "/uploads/273.jpg"
+---
+
+1/ **George W. Bush all but called Trump a threat to democracy**, saying "bigotry seems emboldened. Our politics seems more vulnerable to conspiracy theories and outright fabrication." He called bigotry "blasphemy against the American creed" and that the "identity of our nation depends on the passing of civic ideals to the next generation." He did not mention Trump by name. ([Politico](http://www.politico.com/story/2017/10/19/george-w-bush-trumpism-243945))
+
+2/ **Trump suggested that the Democratic Party, the FBI or the Kremlin paid for the dossier** alleging ties between him and the Russian government. "Workers of firm involved with the discredited and Fake Dossier take the 5th," Trump tweeted. "Who paid for it, Russia, the FBI or the Dems (or all)?" Two officials from [Fusion GPS](https://whatthefuckjusthappenedtoday.com/2017/10/16/day-270/#10-the-firm-behind-the-trump-dossier), the firm behind the dossier, [invoked](https://www.bloomberg.com/news/articles/2017-10-18/executives-of-firm-tied-to-trump-dossier-won-t-answer-queries) their fifth amendment rights against self-incrimination and refused to answer questions from the House Intelligence Committee yesterday. ([Politico](http://www.politico.com/story/2017/10/19/trump-who-paid-for-dossier-243938))
+
+{% twitter https://twitter.com/realDonaldTrump/status/920981920787386368 %}
+
+3/ **Trump's former campaign manager met with the Senate Intelligence Committee for a closed-door interview**. Corey Lewandowski said earlier this year that he did not have any contact with Russian officials, but if there was contact, it was made by Manafort or others on the campaign and Trump didn't know about it. ([CNN](http://www.cnn.com/2017/10/18/politics/corey-lewandowski-interviews-senate-intelligence/index.html))
+
+* **Jeff Sessions declined to answer questions from the Senate Judiciary Committee about his conversations with Trump before he fired James Comey**. As with his [June testimony](https://whatthefuckjusthappenedtoday.com/2017/06/13/Day-145/#6-jeff-sessions-declined-to-answer-q) before the Senate Intelligence Committee, Sessions cited Trump's executive privilege for his refusal to answer question. ([New York Times](https://www.nytimes.com/2017/10/18/us/politics/sessions-senate-judiciary-committee-hearing.html))
+
+4/ **Both Facebook's and Twitter's general counsel will testify before the House and Senate intelligence committees** on November 1st into Russia's use of technology to try to interfere with the 2016 presidential election. Google, which was [also invited](https://whatthefuckjusthappenedtoday.com/2017/09/28/day-252/#5-the-senate-intelligence-committee), has not said if it will send a representative to testify. ([NBC News](https://www.nbcnews.com/politics/congress/facebook-s-general-counsel-testify-congress-russia-probe-n812161) / [The Hill](http://thehill.com/policy/technology/356219-top-twitter-lawyer-to-testify-in-congressional-russia-probe))
+
+* **Internet Research Agency used Russian trolls to co-opt unwitting American activists to stoke fear and influence the election**. Two online groups — BlackMattersUS and BlackFist — were among those used by Russian operators to encourage activists to help organize rallies, train in self-defense, and create music videos. In some cases, those activists even received financial support. ([ABC News](http://abcnews.go.com/Politics/russian-internet-trolls-sought-opt-unwitting-american-activists/story?id=50570832))
+
+5/ **John McCain and two Democratic senators will introduce a bill requiring Facebook, Google, and other internet companies to disclose who is purchasing political ads** to the election commission. The tech industry has prevented previous efforts to mandate advertising disclosures, saying the ads on their platforms were too small to fit the disclaimers. ([New York Times](https://www.nytimes.com/2017/10/19/us/politics/facebook-google-russia-meddling-disclosure.html))
+
+6/ **Senate Republicans are set to pass their $4 trillion budget plan**, which would serve as a vehicle for tax reform later this year without Democratic support. Trump endorsed the plan, tweeting that it is the "first step toward massive tax cuts" but suggested he's not confident of the measure's passage. "I think we have the votes, but who knows?" ([ABC News](http://abcnews.go.com/Politics/wireStory/senate-republicans-cruise-passage-budget-plan-50580737) / [Fox News](http://www.foxnews.com/politics/2017/10/19/senate-republicans-taking-first-big-step-toward-tax-overhaul.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/920966294035451904 %}
+
+7/ **John Kelly didn't know Trump would publicize that Obama didn't call when his son died**. Kelly and the White House were caught off-guard by Trump using the [death of Kelly's son](https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/#4-trump-told-reporters-to-ask-john-k) to defend his handling of four soldiers killed in Niger. ([CNN](http://www.cnn.com/2017/10/18/politics/donald-trump-john-kelly-obama-phone-call/))
+
+8/ **Trump sent the $25,000 check to the fallen soldier's family the same day it was reported that he never did**. The [Washington Post](https://whatthefuckjusthappenedtoday.com/2017/10/18/day-272/#3-trump-offered-a-grieving-military) reported that Trump had promised the soldier's father a personal donation during a June condolence call but had never followed through. ([CNN](http://www.cnn.com/2017/10/18/politics/donald-trump-personal-check-soldier/))

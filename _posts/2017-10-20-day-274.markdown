@@ -1,0 +1,24 @@
+---
+title: Day 274
+date: 2017-10-20 08:56:00 -07:00
+description: 'Elected by the American people. '
+image: "/uploads/274.jpg"
+---
+
+1/ **The Senate approved its budget by a 51 to 49 vote**. The spending blueprint will allow Republicans to use a procedural maneuver to pass tax reform in the Senate with just 50 votes while avoiding a Democratic filibuster. The House and Senate need to pass identical budgets in order for Republicans to sidestep the Senate’s typical 60-vote threshold for passage. Trump tweeted: "We got ZERO Democrat votes with only Rand Paul (he will vote for Tax Cuts) voting against. This now allows for the passage of large scale Tax Cuts (and Reform), which will be the biggest in the history of our country!" ([New York Times](https://www.nytimes.com/2017/10/19/us/politics/budget-vote-senate.html) / [Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2017/10/19/republicans-have-the-budget-votes-they-need-but-democrats-prepare-to-make-it-painful/) / [Politico](http://www.politico.com/story/2017/10/19/house-senate-leaders-budget-deal-243971))
+
+{% twitter https://twitter.com/realDonaldTrump/status/921317883321430016 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/921319017826091008 %}
+
+2/ **Trump falsely attributed a spike in UK crime to a "spread of Radical Islamic terror,"** tweeting that the 13% year-over-year increase in crime was "not good, we must keep America safe!" A report by the UK Office for National Statistics made no link between rising crime and terrorism, but instead showed a double-digit increases in violent crimes, such as gun crime, knife crime, and sexual offenses. ([The Guardian](https://www.theguardian.com/us-news/2017/oct/20/trump-mistakenly-links-uk-rise-with-spread-of-islamic-terror))
+
+{% twitter https://twitter.com/realDonaldTrump/status/921323063945453574 %}
+
+3/ **Putin called on Americans to respect Trump**. "Inside the country, disrespect is shown for him. This is a regrettable negative component of the U.S. political system," Putin said. He continued, saying that "Trump was elected by the American people. And at least for this reason, it is necessary to show respect for him, even if you do not agree with some of his positions." Putin's comments came the same day that U.N. Ambassador Nikki Haley accused the Russian government of committing "warfare" against the United States. ([The Hill](http://thehill.com/homenews/administration/356351-putin-calls-on-americans-to-respect-trump))
+
+4/ **A federal judge refused to void Joe Arpaio’s conviction despite Trump's pardon**. U.S. District Judge Susan Ritchie Bolton said Trump's pardon does not "revise the historical facts" of his case and that she will not vacate her ruling. Arpaio had been found guilty of criminal contempt of a federal court order for his failure to stop detaining individuals on the basis of their suspected immigration status. ([NPR](http://www.npr.org/sections/thetwo-way/2017/10/20/558978896/federal-judge-will-not-void-guilty-ruling-on-arpaio-despite-trumps-pardon) / [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/10/20/federal-judge-refuses-to-erase-joe-arpaios-conviction-despite-trump-pardon/))
+
+5/ **The EPA removed climate change resources from its website**, which local governments used to address climate change, curb emissions, and strategies for adapting to weather extremes. An EPA spokesman said the resources have been archived and are available by searching through the agency’s archive. ([New York Times](https://www.nytimes.com/2017/10/20/climate/epa-climate-change.html))
+
+\*\*\*Updates coming soon on Health Care, John Kelly, Niger, and more.\*\*\*

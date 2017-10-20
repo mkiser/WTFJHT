@@ -21,4 +21,18 @@ image: "/uploads/274.jpg"
 
 5/ **The EPA removed from its website climate change resources** that local governments used to address climate change, curb emissions, and devise strategies for adapting to weather extremes. An EPA spokesman said the resources have been archived and are available by searching through the agency’s archive. ([New York Times](https://www.nytimes.com/2017/10/20/climate/epa-climate-change.html))
 
-\*\*\*Updates coming soon on Health Care, John Kelly, Niger, and more.\*\*\*
+6/ **The FBI has joined the investigation into the ambush that left four Green Berets dead after the 12-member team was attacked by 50 ISIS fighters in Niger two weeks ago**. Investigators are questioning whether US forces had adequate resources for what Defense Secretary Jim Mattis called an "unlikely" attack. 
+
+The troops were engaged in a firefight for 30 minutes and relied on French military for air support, which made low-pass flyovers in an attempt to disperse the attackers. It did not have permission to drop bombs.
+
+Private contractors were used helicopters to evacuate the injured and dead, but Army Sgt. La David Johnson was somehow left behind for almost two days before his remains were found.
+
+Trump waited nearly two weeks before mentioning the Niger incident, even though his staff had drafted a statement of condolence for him on October 5th. Some have asked if this is [Trump's Benghazi](http://www.newsweek.com/niger-trumps-benghazi-four-us-soldiers-died-and-it-took-him-12-days-respond-688082). 
+
+Yesterday, John McCain threatened to use a Senate Armed Services Committee [subpoena](http://www.politico.com/story/2017/10/19/niger-ambush-john-mccain-subpoenas-243951) in order to get more information about the attack, which prompted Mattis to [meet](https://www.washingtonpost.com/powerpost/defense-secretary-mattis-to-meet-with-sen-mccain-after-subpoena-threat-over-niger-attack/2017/10/20/7a4a12de-b5bf-11e7-9e58-e6288544af98_story.html) with McCain today. 
+
+Mattis said the "US military does not leave its troops behind," but did not provide additional details into why Johnson's body was initially left behind. ([Wall Street Journal](https://www.wsj.com/articles/death-of-u-s-soldiers-in-niger-sparks-fbi-probe-criticism-1508457444) / [CNN](http://www.cnn.com/2017/10/18/politics/us-niger-investigation-what-we-know/index.html) / [Politico](http://www.politico.com/story/2017/10/19/niger-ambush-jim-mattis-investigation-243960))
+
+7/ **Trump called a congresswoman "wacky" and said she told a "total lie" about his call to the mother of a solider killed in Niger**. "The Fake News is going crazy with wacky Congresswoman Wilson(D), who was SECRETLY on a very personal call, and gave a total lie on content!" Trump tweeted. Frederica Wilson said Trump told the widow her husband ["knew what he signed up for"](https://whatthefuckjusthappenedtoday.com/2017/10/18/day-272/#1-trump-denied-telling-the-widow-of) in a condolence call. ([Politico](http://www.politico.com/story/2017/10/19/trump-frederica-wilson-gold-star-families-243977))
+
+{% twitter https://twitter.com/realDonaldTrump/status/921207772233990144 %}

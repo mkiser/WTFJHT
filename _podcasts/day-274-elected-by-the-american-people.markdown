@@ -5,6 +5,7 @@ file: "/uploads/Day-274a-Elected-by-the-American-people.mp3"
 post: Day 274
 duration: '05:14'
 length: 9646726
+image: "/uploads/274-update.jpg"
 ---
 
 1/ The Senate approved its budget by a 51 to 49 vote.

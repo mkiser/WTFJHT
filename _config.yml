@@ -14,6 +14,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  topics:
+    title: Topics
+    output: true
 defaults:
 - scope:
     path: ''
@@ -54,6 +57,18 @@ defaults:
     - news
     metatags: noindex, follow
     sitemap: false
+- scope:
+    path: ''
+    type: topics
+  values:
+    permalink: "/:title/"
+    title: ''
+    description: ''
+    image: ''
+    author: Matt Kiser
+    layout: topics
+    seo:
+      type: NewsArticle
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential guide to the daily shock and awe in national politics.

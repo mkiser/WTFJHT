@@ -5,7 +5,6 @@ file: "/uploads/day_251_____delete_your_account.mp3"
 post: Day 251
 duration: '00:05:21'
 length: 6912265
-redirect_to: "/2017/09/27/day-251/"
 ---
 
 Wednesday, Sept. 27, 2017

@@ -5,7 +5,6 @@ file: "/uploads/Day-257-The-end-of-everything.mp3"
 post: Day 257
 duration: '08:19'
 length: '11,524,812'
-redirect_to: "/2017/10/03/day-257/"
 ---
 
 Tuesday, October 3, 2017

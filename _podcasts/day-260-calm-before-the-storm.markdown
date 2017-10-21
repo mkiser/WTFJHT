@@ -6,7 +6,6 @@ post: Day 260
 duration: '04:04'
 length: 5344913
 image: "/uploads/260-update.jpg"
-redirect_to: "/2017/10/06/day-260/"
 ---
 
 1/ Trump's advisers are floating the idea of replacing Rex Tillerson with CIA Director Mike Pompeo after Morongate.

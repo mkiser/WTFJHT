@@ -5,7 +5,6 @@ file: "/uploads/Day-270-Season-of-war.mp3"
 post: Day 270
 duration: '07:20'
 length: '13,108,692'
-redirect_to: "/2017/10/16/day-270/"
 ---
 
 1/ Mitch McConnell and Trump met for lunch today after Steve Bannon called for a "season of war" against the Senate majority leader and the rest of the GOP establishment.

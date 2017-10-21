@@ -5,7 +5,6 @@ file: "/uploads/Day%20253a%20%E2%80%93%20Giant,%20beautiful,%20massive,%20the%20
 post: Day 253
 duration: '00:07:46'
 length: 11391945
-redirect_to: "/2017/09/29/day-253/"
 ---
 
 Friday, Sept. 29, 2017

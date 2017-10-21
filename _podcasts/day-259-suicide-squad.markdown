@@ -6,7 +6,6 @@ post: Day 259
 duration: '04:17'
 length: 6094430
 image: "/uploads/259-update.jpg"
-redirect_to: "/2017/10/05/day-259/"
 ---
 
 Thursday, October 5, 2017

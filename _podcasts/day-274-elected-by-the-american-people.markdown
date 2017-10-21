@@ -1,7 +1,7 @@
 ---
 title: 'Day 274: Elected by the American people.'
 date: 2017-10-20 14:47:00 -07:00
-file: "/uploads/Day-274a-Elected-by-the-American-people.mp3"
+file: "/uploads/Day-274b-Elected-by-the-American-people.mp3"
 post: Day 274
 duration: '05:07'
 length: 9404018

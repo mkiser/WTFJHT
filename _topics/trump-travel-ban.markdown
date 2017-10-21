@@ -1,7 +1,7 @@
 ---
 title: Trump's Travel Ban.
-alt: Travel Ban
 date: 2017-10-21 00:00:00 -07:00
+alt: Travel Ban
 description: Here's the latest on Trump's travel ban.
 image: "/public/trump-travel-ban.jpg"
 ---

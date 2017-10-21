@@ -1,8 +1,9 @@
 ---
 title: The Trump Russia Investigation.
-alt: Russia
 date: 2017-10-21 00:00:00 -07:00
-description: Everything we know so far about the Russia investigation into election meddling and collusion.
+alt: Russia
+description: Everything we know so far about the Russia investigation into election
+  meddling and collusion.
 image: "/public/russia.jpg"
 ---
 

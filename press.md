@@ -47,7 +47,10 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 19/ **WTF Just Happened Today available as an Amazon skill**. The seven-day a week newsletter that summarizes the most important political stories of the day is now available on Amazon Echo! ([Boing Boing](https://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html){:target="_blank"})
 
 20/ **The Trump Era’s Anti-Anxiety Pill Is a Newsletter Out of Seattle**.
-It looks like facts, but it feels like coping. ([The Observer](http://observer.com/2017/05/what-the-fuck-just-happened-today/))
+It looks like facts, but it feels like coping. ([The Observer](http://observer.com/2017/05/what-the-fuck-just-happened-today/){:target="_blank"})
+
+21/ **Is your journalism valuable?**.
+You have to listen to the people you're trying to serve to figure out what's valuable to them.  ([Poynter](https://www.poynter.org/news/your-journalism-valuable){:target="_blank"})
 
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}

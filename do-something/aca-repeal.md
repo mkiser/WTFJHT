@@ -6,6 +6,8 @@ description: Something to do if you're not doing something
 image:
   twitter: "/public/ds-aca-repeal-t.jpg"
   facebook: "/public/ds-aca-repeal.jpg"
+metatags: noindex, follow
+sitemap: false
 ---
 
 The House is expected to vote on the AHCA tomorrow. Want to **do something** about it? Call your representative. Here's everything you need to know to take a stand. Compiled via [Daily Action](https://www.facebook.com/YourDailyAction/posts/404813213217332) and [5 Calls](https://5calls.org/#issue/recaeT57AXkqiV2Me).

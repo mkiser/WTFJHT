@@ -6,6 +6,8 @@ description: A quick look back on Trump's first 45 days in office.
 image:
   twitter: "/public/45-for-45-t.jpg"
   facebook: "/public/45-for-45-t.jpg"
+metatags: noindex, follow
+sitemap: false
 ---
 
 ![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-t.jpg)

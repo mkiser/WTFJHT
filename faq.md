@@ -5,6 +5,7 @@ image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
 layout: page
+sitemap: false
 ---
 
 The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free for as long as possible.

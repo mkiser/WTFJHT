@@ -1,7 +1,7 @@
 ---
 title: Trump's Health Care Plan.
-alt: Health Care
 date: 2017-10-21 00:00:00 -07:00
+alt: Health Care
 description: Here's the latest on Trump's travel ban.
 image: "/public/health-care.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Trump's EPA.
-alt: EPA
 date: 2017-10-21 00:00:00 -07:00
+alt: EPA
 description: Here's where Trump's EPA currently stands.
 image: "/public/epa.jpg"
 ---

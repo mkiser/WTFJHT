@@ -9,6 +9,7 @@ module LastModified
 			set_last_modified_date(page)
 			# puts page.relative_path
 		end
+		
 		@site.posts.docs.each do |post|
 			set_last_modified_date(post)
 			# puts post.relative_path

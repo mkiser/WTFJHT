@@ -11,11 +11,11 @@ collections:
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
   topics:
     title: Topics
+    output: true
+  uploads:
+    title: Uploads
     output: true
 defaults:
 - scope:

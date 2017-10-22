@@ -3,7 +3,7 @@ title: Trump and Fake News.
 date: 2017-10-21 00:00:00 -07:00
 alt: Fake News
 description: Trump, fake news, and the mainstream media. Here's what we know.
-image: "/public/fake-news.jpg"
+image: "/public/topics/fake-news.jpg"
 ---
 
 <p class="lead">Trump, fake news, and the mainstream media. Here's what we know.</p>

@@ -4,7 +4,7 @@ date: 2017-10-21 00:00:00 -07:00
 alt: Russia
 description: Everything we know so far about the Russia investigation into election
   meddling and collusion.
-image: "/public/russia.jpg"
+image: "/public/topics/russia.jpg"
 ---
 
 <p class="lead">Here's what we know so far about the Russia investigation into election meddling, collusion with the Trump campaign, Special Counsel Robert Mueller's investigation, and more.</p>

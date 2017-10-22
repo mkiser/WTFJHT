@@ -3,7 +3,7 @@ title: Trump's Health Care Plan.
 date: 2017-10-21 00:00:00 -07:00
 alt: Health Care
 description: Here's the latest on Trump's travel ban.
-image: "/public/health-care.jpg"
+image: "/public/topics/health-care.jpg"
 ---
 
 <p class="lead">Here's where we stand with Trump's efforts to repeal and replace the Affordable Care Act.</p>

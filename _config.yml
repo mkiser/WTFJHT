@@ -166,6 +166,10 @@ extlinks:
     class: external
   rel_exclude:
   - whatthefuckjusthappenedtoday.com
+<<<<<<< HEAD
+=======
+  - localhost:4000
+>>>>>>> 763114406beadc38f28036625eff98d7adb55c08
 jekyll_admin:
   hidden_links:
   - pages

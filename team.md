@@ -10,7 +10,7 @@ These fine folks have donated their time toward making WTFJHT happen.
 
 **Who The Fuck's in Charge Here?** [Matt Kiser](https://twitter.com/matt_kiser){:target="_blank"}
 
-**Who The Fuck Pods This?** [Joe Amditis]({{ site.url }}/author/joe-amditis/)
+**Who The Fuck Pods This?** [Joe Amditis]({{ site.baseurl }}/author/joe-amditis/)
 
 **Who The Fuck Copyedits This?** [The GitHub Contributor Mafia](https://github.com/mkiser/WTFJHT/graphs/contributors)
 

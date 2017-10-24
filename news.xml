@@ -6,7 +6,7 @@ layout:
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   {% for post in site.posts %}
     <url>
-		<loc>{{ site.url }}{{ post.url }}</loc>
+		<loc>{{ site.url }}{{ site.baseurl }}{{ post.url }}</loc>
 		<news:news>
 			<news:publication>
 				<news:name>WTF Just Happened Today</news:name>

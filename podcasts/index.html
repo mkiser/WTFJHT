@@ -8,14 +8,14 @@ image: "/public/wtf-pod.jpg"
 
 <div class="pod-header">
 	<div class="pod-cover">
-	  <img src="{{ site.url }}{{ site.podcast_album_art }}" class="pod-image">
+	  <img src="{{ site.url }}{{ site.baseurl }}{{ site.podcast_album_art }}" class="pod-image">
 	</div>
 
 	<div class="pod-box">
 		<h1 class="pod-title">{{ site.podcast_title }} Podcast</h1>
 		<p class="pod-desc">{{ site.podcast_description }}</p>
 		<p class="pod-subscribe">
-			<strong>Subscribe:</strong> <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/I5fj7gzxpepkfvuzymxavcvok5y?t%3DWTF_Just_Happened_Today%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">Google Play Music</a>, <a href="https://www.stitcher.com/s?fid=132466&refid=stpr">Stitcher</a>, <a href="{{ site.url }}/podcasts/index.xml">RSS</a>
+			<strong>Subscribe:</strong> <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/I5fj7gzxpepkfvuzymxavcvok5y?t%3DWTF_Just_Happened_Today%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">Google Play Music</a>, <a href="https://www.stitcher.com/s?fid=132466&refid=stpr">Stitcher</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
 		</p>
 	</div>
 </div>
@@ -55,7 +55,7 @@ image: "/public/wtf-pod.jpg"
 
 <div class="pod-header">
 	<div class="pod-cover">
-	  <img src="{{ site.url }}{{ author.image }}" class="pod-image">
+	  <img src="{{ site.url }}{{ site.baseurl }}{{ author.image }}" class="pod-image">
 	</div>
 
 	<div class="pod-box">

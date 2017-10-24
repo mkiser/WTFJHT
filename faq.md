@@ -8,7 +8,7 @@ layout: page
 sitemap: false
 ---
 
-The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job]({{ site.url }}/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free and sustainable. 
+The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free and sustainable. 
 
 Here's a rough estimate of the monthly costs:
 
@@ -16,7 +16,7 @@ Here's a rough estimate of the monthly costs:
 The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, and generally an inexpensive data storage infrastructure option. _Monthly Cost:_ ~$30
 
 **Podcast and Hosting:**
-I also use AWS S3 to host the [daily podcast]({{ site.url }}/podcasts/) and cache the files with AWS CloudFront. I also compensate Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. All-in, it costs me about $1,000 to run the pod. _Monthly Cost:_ ~$1000
+I also use AWS S3 to host the [daily podcast]({{ site.baseurl }}/podcasts/) and cache the files with AWS CloudFront. I also compensate Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. All-in, it costs me about $1,000 to run the pod. _Monthly Cost:_ ~$1000
 
 **S3 Stat:**
 Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) let's me easily understand who is playing what pod on what device. _Monthly Cost:_ $10

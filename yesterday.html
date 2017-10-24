@@ -20,7 +20,7 @@ image:
   {% for post in site.posts limit:2 offset:1 %}
   <article class="post">
     <h2 class="post-title">
-      <a href="{{ site.url }}{{ post.url }}">
+      <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}:
       <span class="post-small">{{ post.description }}</span></a>
     </h2>

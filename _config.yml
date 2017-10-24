@@ -164,8 +164,7 @@ extlinks:
     target: _blank
     rel: noopener
     class: external
-  rel_exclude:
-  - whatthefuckjusthappenedtoday.com
+  rel_exclude: ['whatthefuckjusthappenedtoday.com']
 jekyll_admin:
   hidden_links:
   - pages

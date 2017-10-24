@@ -10,6 +10,17 @@ module LastModified
 			# puts page.relative_path
 		end
 		
+		# Fix this to access the collection files to include last modified time on them automatically
+		# for collection in site.collections
+		# 	for doc in collection[1].docs
+		# 		# for x in doc
+		# 		# 	puts x['topics']
+		# 		# end
+		# 		set_last_modified_date(doc)
+		# 		puts doc.relative_path
+		# 	end
+		# end
+
 		@site.posts.docs.each do |post|
 			set_last_modified_date(post)
 			# puts post.relative_path

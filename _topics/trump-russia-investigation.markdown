@@ -5,9 +5,23 @@ alt: Russia
 description: Everything we know so far about the Russia investigation into election
   meddling and collusion.
 image: "/public/topics/russia.jpg"
+seo:
+  name: The Trump-Russia Investigation News
 ---
 
+![tK TK TK TK TK]({{ site.url }}/public/TK TK TK.jpg)
+
 <p class="lead">Here's what we know so far about the Russia investigation into election meddling, collusion with the Trump campaign, Special Counsel Robert Mueller's investigation, and more.</p>
+
+<strong>Executive Summary:</strong>
+
+<ol>
+	<li>1/ Search your email for a message from <strong>matt@whatthefuckjusthappenedtoday.com</strong> and drag the email to your inbox.</li>
+	<li>2/ If the email is in your spam folder, mark it as “not spam.” </li>
+	<li>3/ <a href="http://whatthefuckjusthappenedtoday.us7.list-manage.com/vcard?u=104aa3abb9fec8b4d037ed51d&id=9813b73b1a">Add me to your address book</a>. Download the contact file ands add it into your Contacts.</li>
+</ol>
+
+<hr>
 
 <p><strong>Putin called on Americans to respect Trump</strong>. "Inside the country, disrespect is shown for him. This is a regrettable negative component of the U.S. political system," Putin said. He continued, saying that "Trump was elected by the American people. And at least for this reason, it is necessary to show respect for him, even if you do not agree with some of his positions." Putin's comments came the same day that U.N. Ambassador Nikki Haley accused the Russian government of committing "warfare" against the United States. (<a href="http://thehill.com/homenews/administration/356351-putin-calls-on-americans-to-respect-trump">The Hill</a>)</p>				  
 

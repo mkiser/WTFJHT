@@ -10,7 +10,7 @@ sitemap: false
 {% include email.html %}
 <article class="post">
   <h1 class="post-title">
-    <a href="{{ site.baseurl }}{{ post.url }}">
+    <a href="{{ site.url }}{{ post.url }}">
       {{ post.title }}:
     <span class="post-small">{{ post.description }}</span></a>
   </h1>
@@ -51,7 +51,7 @@ sitemap: false
     {{ post.content | extlinks }}
   </div>
   <p>
-    <small><strong>Subscribe:</strong> <a href="{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a> 
+    <small><strong>Subscribe:</strong> <a href="{{ site.url }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a> 
     </small>
   </p> 
 

@@ -4,9 +4,23 @@ date: 2017-10-21 00:00:00 -07:00
 alt: EPA
 description: Here's where Trump's EPA currently stands.
 image: "/public/topics/epa.jpg"
+seo:
+  name: Trump's Attempt to Dismantle the EPA
 ---
 
+![tK TK TK TK TK]({{ site.url }}/public/TK TK TK.jpg)
+
 <p class="lead">Here's what we know so far about Trump's efforts to dismantle the EPA.</p>
+
+<strong>Executive Summary:</strong>
+
+<ol>
+	<li>1/ Search your email for a message from <strong>matt@whatthefuckjusthappenedtoday.com</strong> and drag the email to your inbox.</li>
+	<li>2/ If the email is in your spam folder, mark it as “not spam.” </li>
+	<li>3/ <a href="http://whatthefuckjusthappenedtoday.us7.list-manage.com/vcard?u=104aa3abb9fec8b4d037ed51d&id=9813b73b1a">Add me to your address book</a>. Download the contact file ands add it into your Contacts.</li>
+</ol>
+
+<hr>
 
 <p><strong>The EPA removed from its website climate change resources</strong> that local governments used to address climate change, curb emissions, and devise strategies for adapting to weather extremes. An EPA spokesman said the resources have been archived and are available by searching through the agency’s archive. (<a href="https://www.nytimes.com/2017/10/20/climate/epa-climate-change.html">New York Times</a>)</p>				  
 

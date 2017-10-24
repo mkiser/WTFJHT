@@ -8,6 +8,7 @@ image:
   facebook: "/public/45-for-45-media-f.jpg"
 metatags: noindex, follow
 sitemap: false
+redirect_to: "/trump-fake-news/"
 ---
 
 ![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-media-t.jpg)

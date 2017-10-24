@@ -8,6 +8,7 @@ image:
   facebook: "/public/45-for-45-russia-f.jpg"
 metatags: noindex, follow
 sitemap: false
+redirect_to: "/trump-russia-investigation/"
 ---
 
 ![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-russia-t.jpg)

@@ -1,9 +1,11 @@
 ---
-title: What The Fuck Just Happened Today?
+title: Trump News Today
 layout: default
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
+seo:
+  name: Trump News Today
 ---
 
 <!-- MailChimp -->
@@ -13,7 +15,7 @@ image:
   {% for post in site.posts limit:7 %}
   <article class="post">
     <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ site.url }}{{ post.url }}">
         {{ post.title }}:
       <span class="post-small">{{ post.description }}</span></a>
     </h2>

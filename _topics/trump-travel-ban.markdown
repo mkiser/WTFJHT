@@ -4,9 +4,23 @@ date: 2017-10-21 00:00:00 -07:00
 alt: Travel Ban
 description: Here's the latest on Trump's travel ban.
 image: "/public/topics/trump-travel-ban.jpg"
+seo:
+  name: Trump's Travel Ban News
 ---
 
+![tK TK TK TK TK]({{ site.url }}/public/TK TK TK.jpg)
+
 <p class="lead">Here's where we stand with Trump's travel ban.</p>
+
+<strong>Executive Summary:</strong>
+
+<ol>
+	<li>1/ Search your email for a message from <strong>matt@whatthefuckjusthappenedtoday.com</strong> and drag the email to your inbox.</li>
+	<li>2/ If the email is in your spam folder, mark it as “not spam.” </li>
+	<li>3/ <a href="http://whatthefuckjusthappenedtoday.us7.list-manage.com/vcard?u=104aa3abb9fec8b4d037ed51d&id=9813b73b1a">Add me to your address book</a>. Download the contact file ands add it into your Contacts.</li>
+</ol>
+
+<hr>
 
 <p><strong>A second federal judge blocked Trump's latest travel ban attempt</strong> citing Trump's tweets as evidence the policy carries the same intent as his Muslim ban proposal. The Maryland judge granted a nationwide preliminary injunction against the latest iteration of the travel ban, following a <a href="https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/#10-a-federal-judge-in-hawaii-has-blo">similar order</a> by a federal judge in Hawaii. District Court Judge Theodore Chuang said the administration had "not shown that national security cannot be maintained without an unprecedented eight-country travel ban." (<a href="http://www.politico.com/story/2017/10/18/trump-travel-ban-maryland-judge-blocks-243901">Politico</a> / <a href="https://www.washingtonpost.com/world/national-security/second-judge-rules-against-latest-travel-ban-saying-trumps-own-words-show-it-was-aimed-at-muslims/2017/10/18/5ecdaa44-b3ed-11e7-9e58-e6288544af98_story.html">Washington Post</a>)</p>				  
 

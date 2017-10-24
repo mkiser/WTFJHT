@@ -4,9 +4,23 @@ date: 2017-10-21 00:00:00 -07:00
 alt: Health Care
 description: Here's the latest on Trump's travel ban.
 image: "/public/topics/health-care.jpg"
+seo:
+  name: Trump's Efforts to Repeal and Replace the Affordable Care Act.
 ---
 
+![tK TK TK TK TK]({{ site.url }}/public/TK TK TK.jpg)
+
 <p class="lead">Here's where we stand with Trump's efforts to repeal and replace the Affordable Care Act.</p>
+
+<strong>Executive Summary:</strong>
+
+<ol>
+	<li>1/ Search your email for a message from <strong>matt@whatthefuckjusthappenedtoday.com</strong> and drag the email to your inbox.</li>
+	<li>2/ If the email is in your spam folder, mark it as “not spam.” </li>
+	<li>3/ <a href="http://whatthefuckjusthappenedtoday.us7.list-manage.com/vcard?u=104aa3abb9fec8b4d037ed51d&id=9813b73b1a">Add me to your address book</a>. Download the contact file ands add it into your Contacts.</li>
+</ol>
+
+<hr>
 
 <p><strong>Trump backed off his support for the bipartisan healthcare deal</strong>, tweeting he could never support legislation "bailing out" insurance companies "who have made a fortune" from Obamacare. The comment comes a day after Trump <a href="https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/#5-senators-have-agreed-in-principle">embraced the deal</a> as "a short-term solution so that we don’t have this very dangerous little period." The chairman of the Senate health committee said Trump "completely engineered the plan" to fund subsidies for health insurers, but "wants to reserve his options." (<a href="https://www.nytimes.com/2017/10/18/us/politics/trump-obamacare-subsidies-tweet-opposition.html">New York Times</a> / <a href="https://www.wsj.com/articles/trump-signals-opposition-to-bipartisan-health-care-deal-1508338881">Wall Street Journal</a> / <a href="https://www.axios.com/alexander-trump-engineered-bipartisan-health-bill-2498029679.html">Axios</a>)</p>				  
 

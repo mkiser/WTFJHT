@@ -4,9 +4,25 @@ date: 2017-10-21 00:00:00 -07:00
 alt: Fake News
 description: Trump, fake news, and the mainstream media. Here's what we know.
 image: "/public/topics/fake-news.jpg"
+seo:
+  name: Fake News, Trump, and the White House
 ---
 
+![tK TK TK TK TK]({{ site.url }}/public/TK TK TK.jpg)
+
+
 <p class="lead">Trump, fake news, and the mainstream media. Here's what we know.</p>
+
+
+<strong>Executive Summary:</strong>
+
+<ol>
+	<li>1/ Search your email for a message from <strong>matt@whatthefuckjusthappenedtoday.com</strong> and drag the email to your inbox.</li>
+	<li>2/ If the email is in your spam folder, mark it as “not spam.” </li>
+	<li>3/ <a href="http://whatthefuckjusthappenedtoday.us7.list-manage.com/vcard?u=104aa3abb9fec8b4d037ed51d&id=9813b73b1a">Add me to your address book</a>. Download the contact file ands add it into your Contacts.</li>
+</ol>
+
+<hr>
 
 <p><strong>Trump called a congresswoman "wacky" and said she told a "total lie" about his call to the widow of a solider killed in Niger</strong>. "The Fake News is going crazy with wacky Congresswoman Wilson(D), who was SECRETLY on a very personal call, and gave a total lie on content!" Trump tweeted. Frederica Wilson said Trump told the widow her husband <a href="https://whatthefuckjusthappenedtoday.com/2017/10/18/day-272/#1-trump-denied-telling-the-widow-of">"knew what he signed up for"</a> in a condolence call. (<a href="http://www.politico.com/story/2017/10/19/trump-frederica-wilson-gold-star-families-243977">Politico</a>)</p>				  
 

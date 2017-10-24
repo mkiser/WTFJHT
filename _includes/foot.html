@@ -1,15 +1,15 @@
 <footer class="footer">
   <ul>
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
-    <li><a href="{{ site.baseurl }}/about/">About</a></li>
-    <li><a href="{{ site.baseurl }}/membership/">Membership</a></li>
-    <li><a href="{{ site.baseurl }}/faq/">FAQ</a></li>
-    <li><a href="{{ site.baseurl }}/team/">Team</a></li>
-    <li><a href="{{ site.baseurl }}/press/">Press</a></li>
-    <li><a href="{{ site.baseurl }}/first-100-days/">The First 100 Days</a></li>
-    <li><a href="{{ site.baseurl }}/guide/internet-security/">Internet Security Guide</a></li>
-    <li><a href="{{ site.baseurl }}/license/">License</a></li>
-    <li><a href="{{ site.baseurl }}/archive/">Archive</a></li>
+    <li><a href="{{ site.url }}/">Home</a></li>
+    <li><a href="{{ site.url }}/about/">About</a></li>
+    <li><a href="{{ site.url }}/membership/">Membership</a></li>
+    <li><a href="{{ site.url }}/faq/">FAQ</a></li>
+    <li><a href="{{ site.url }}/team/">Team</a></li>
+    <li><a href="{{ site.url }}/press/">Press</a></li>
+    <li><a href="{{ site.url }}/first-100-days/">The First 100 Days</a></li>
+    <li><a href="{{ site.url }}/guide/internet-security/">Internet Security Guide</a></li>
+    <li><a href="{{ site.url }}/license/">License</a></li>
+    <li><a href="{{ site.url }}/archive/">Archive</a></li>
   </ul>
   {% include copyright.html %}
 </footer>
@@ -25,7 +25,7 @@
   {% endif %}
   {% include chat.html %}
 
-<script src="{{ site.baseurl }}/public/js/audiojs/audio.min.js"></script>
+<script src="{{ site.url }}/public/js/audiojs/audio.min.js"></script>
 <script>
   audiojs.events.ready(function() {
     var as = audiojs.createAll();

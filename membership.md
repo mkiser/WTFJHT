@@ -7,13 +7,13 @@ image:
 layout: page
 ---
 
-You do. WTF Just Happened Today is a once-a-day, single-subject newsletter and blog, with a distinct tone and clear formatting tracking the daily shock and awe in national politics.
+You do. 
 
-It's produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon. More than 200k people rely on WTFJHT to bring them the day's news as a concise and focused recap.
+WTF Just Happened Today is a once-a-day, single-subject newsletter and blog, with a distinct tone and clear formatting that tracks the daily shock and awe in national politics. It's produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon. More than 200k people rely on WTFJHT to bring them the day's news as a concise and focused recap.
 
-**So here's the deal:** [This is my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/). WTFJHT has been one of the most exciting, fun, and rewarding projects I've ever been involved in and I want nothing more than for this to keep going.
+**So here's the deal:** [This is my full-time job]({{ site.url }}/meta/trump-creates-one-new-job/). Writing the Daily Update and sharing what I've learned with you every day has been one of the most exciting, fun, and rewarding projects I've ever been involved with and I want nothing more than to be able to do this for as long as necessary. If you get value out of what I do, consider supporting me. 
 
-**It comes down to this:** I'll keep doing this as long as the community keeps supporting me.
+**It comes down to this:** I'll keep doing this as long as you keep supporting me. That's the deal. 
 
 ---
 
@@ -23,7 +23,7 @@ It's produced every morning by hand, updated throughout the day, with a newslett
 
 2/ **Pledge a small monthly amount through Patreon**, a service made for situations like this. They help creators like WTFJHT earn ongoing revenue directly from their audience. Pledge a small amount, get a big reward. **[Become a Patron Now](https://www.patreon.com/wtfjht){:target="_blank"}**.
 
-3/ **Make a one-time donation through PayPal**. A normal donation works great for those that don't want to pledge monthly support.
+3/ **Make a one-time donation through PayPal**. A normal donation works great for those that don't want to pledge their monthly support.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin-bottom: 1em;">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -32,7 +32,7 @@ It's produced every morning by hand, updated throughout the day, with a newslett
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-4/ **Best of both worlds.** Want to pledge monthly, but hate PayPal and don't want to sign-up for Patreon? I got you covered. Here's a way to donate a small amount and make a big impact.
+4/ **Best of both worlds.** Want to pledge monthly, hate PayPay, and don't want to sign-up for Patreon? I got you covered, too. Here's a way to make an on-going pledge and make a big impact.
 
 <div class="donorbox">
 <script src="https://donorbox.org/widget.js" type="text/javascript"></script>
@@ -41,6 +41,6 @@ It's produced every morning by hand, updated throughout the day, with a newslett
 
 ---
 
-**Don't believe the hype?** Here's [what the smartest people on the Internet are saying]({{ site.baseurl }}/press) about What The Fuck Just Happened Today.
+**Don't believe the hype?** Here's [what the smartest people on the Internet are saying]({{ site.url }}/press) about What The Fuck Just Happened Today.
 
-**How much does this thing cost to run anyway?** Glad you asked! I did some back of the envelope math and I came up with $7,636/month. That's a pretty conservative estimate, tbh. If you're interested in how I arrived at that number, I've outlined [the cost of running WTFJHT in the FAQ]({{ site.baseurl }}/faq/).
+**How much does this thing cost to run anyway?** Glad you asked! I did some back of the envelope math and I came up with $8,841/month. That's a pretty conservative estimate, tbh. If you're interested in how I arrived at that number, I've outlined [the cost of running WTFJHT in the FAQ]({{ site.url }}/faq/).

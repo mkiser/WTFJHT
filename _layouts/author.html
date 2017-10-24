@@ -26,7 +26,7 @@ sitemap: false
 {% assign posts = site.posts | where: 'author', page.title %}
 {% for post in posts %}
   <h2 class="post-title">
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}:
+    <a href="{{ site.url }}{{ post.url }}">{{ post.title }}:
     <span class="post-small">{{ post.description }}</span></a>
   </h2>
   <time datetime="{{ post.last_modified | date_to_xmlschema }}" class="post-date">

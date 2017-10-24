@@ -166,6 +166,7 @@ extlinks:
     class: external
   rel_exclude:
   - whatthefuckjusthappenedtoday.com
+  - localhost:4000
 jekyll_admin:
   hidden_links:
   - pages

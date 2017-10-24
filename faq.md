@@ -63,5 +63,4 @@ And, since I'm both the writer/editor and web developer running this, let's pret
 
 $2,084 (hosting, email, tools, etc.) + $6,757 (labor) = <strong>$8,841</strong>.
 
-This is why 
-
+As you can see, nobody is getting rich here. I'm just trying to keep WTF Just Happened Today sustainable. That's why your support is so important. [Become a member today]({{ site.url}}/membership/).

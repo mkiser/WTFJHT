@@ -5,7 +5,7 @@ description: Drain the swamp.
 image: "/uploads/279.jpg"
 ---
 
-1/ **Senate Republicans repealed a rule that allowed Americans to sue their banks and credit card companies in class-action lawsuits**. Senators passed the measure by a vote of 50-50, with Pence breaking the tie. The Obama-era rule banned Wall Street banks and credit card companies from inserting arbitration clauses into contracts that prevented consumers from banding together to form class-action lawsuits. Democrats and consumer advocates called the effort a gift to financial institutions like Wells Fargo and Equifax. ([New York Times](https://www.nytimes.com/2017/10/24/business/senate-vote-wall-street-regulation.html) / [CNN](http://www.cnn.com/2017/10/24/politics/senate-cfpb-arbitration-repeal/index.html))
+1/ **Senate Republicans repealed a rule that allowed Americans to sue their banks and credit card companies in class-action lawsuits**. Senators passed the measure by a vote of 50-50, with Pence breaking the tie. The Obama-era rule banned Wall Street banks and credit card companies from inserting into contracts arbitration clauses that prevented consumers from banding together to bring class-action lawsuits. Democrats and consumer advocates called the effort a gift to financial institutions like Wells Fargo and Equifax. ([New York Times](https://www.nytimes.com/2017/10/24/business/senate-vote-wall-street-regulation.html) / [CNN](http://www.cnn.com/2017/10/24/politics/senate-cfpb-arbitration-repeal/index.html))
 
 {% twitter https://twitter.com/SenWarren/status/923022140529659904 %}
 
@@ -15,9 +15,9 @@ image: "/uploads/279.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/922428118685581313 %}
 
-3/ **The head of Cambridge Analytica wanted to work with Wikileaks to find Hillary Clinton’s 33,000 deleted emails**. Alexander Nix, who's firm worked for Trump’s campaign, wrote an email to Julian Assange asking if the two could work together to find and release Clinton's emails. Assange  that he didn't want Nix's help. ([The Daily Beast](https://www.thedailybeast.com/trump-data-guru-i-tried-to-team-up-with-julian-assange))
+3/ **The head of Cambridge Analytica wanted to work with Wikileaks to find Hillary Clinton’s 33,000 deleted emails**. Alexander Nix, whose firm worked for Trump’s campaign, wrote an email to Julian Assange asking if the two could work together to find and release Clinton's emails. Assange replied that he didn't want Nix's help. ([The Daily Beast](https://www.thedailybeast.com/trump-data-guru-i-tried-to-team-up-with-julian-assange))
 
-4/ **Paul Manafort is facing a third money laundering probe**. The Manhattan US attorney's office is working in collaboration with special counsel Robert Mueller's investigation to look at Trump's former campaign chairman. The state of New York also has it's own money laundering investigation going. ([Wall Street Journal](https://www.wsj.com/articles/former-trump-campaign-chairman-paul-manafort-faces-another-money-laundering-probe-1508888106))
+4/ **Paul Manafort is facing a third money laundering probe**. The Manhattan US attorney's office is working in collaboration with special counsel Robert Mueller's investigation to look at Trump's former campaign chairman. The state of New York also has its own money laundering investigation going. ([Wall Street Journal](https://www.wsj.com/articles/former-trump-campaign-chairman-paul-manafort-faces-another-money-laundering-probe-1508888106))
 
 5/ **CBO Score: The bipartisan health care bill would reduce the deficit by nearly $4 billion over 10 years**. If the insurer subsidies aren't funded,  however, the federal deficit would increase by $194 billion by 2026. ([The Hill](http://thehill.com/policy/healthcare/357091-cbo-bipartisan-deal-would-reduce-deficit-by-4-billion))
 

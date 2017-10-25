@@ -1,0 +1,26 @@
+---
+title: Day 279
+date: 2017-10-25 08:11:00 -07:00
+description: Drain the swamp.
+image: "/uploads/279.jpg"
+---
+
+1/ **Senate Republicans repealed a rule that allowed Americans to sue their banks and credit card companies in class-action lawsuits**. Senators passed the measure by a vote of 50-50, with Pence breaking the tie. The Obama-era rule banned Wall Street banks and credit card companies from inserting arbitration clauses into contracts that prevented consumers from banding together to form class-action lawsuits. Democrats and consumer advocates called the effort a gift to financial institutions like Wells Fargo and Equifax. ([New York Times](https://www.nytimes.com/2017/10/24/business/senate-vote-wall-street-regulation.html) / [CNN](http://www.cnn.com/2017/10/24/politics/senate-cfpb-arbitration-repeal/index.html))
+
+{% twitter https://twitter.com/SenWarren/status/923022140529659904 %}
+
+{% twitter https://twitter.com/SenSherrodBrown/status/923009759678103552 %}
+
+2/ **The House Ways and Means Committee chairman declined to rule out changes to 401(k) plans** despite [Trump's promise](https://whatthefuckjusthappenedtoday.com/2017/10/23/day-277/#6-trump-dismissed-the-house-republic) that there would be "NO change" as part of tax reform. Kevin Brady said he's working with Trump and "we think in tax reform we can create incentives for people to save more and save sooner." Brady will introduce his tax bill when the House passes a budget. Orrin Hatch, the top tax writer in the Senate, also declined to agree with Trump’s vow to protect 401(k) plans. ([Washington Post](https://www.washingtonpost.com/news/business/wp/2017/10/25/house-gop-tax-leader-threatens-to-break-trumps-promise-not-to-change-401k-rules/) / [NBC News](https://www.nbcnews.com/politics/congress/key-republican-opens-door-401-k-change-despite-trump-tweet-n814136))
+
+{% twitter https://twitter.com/realDonaldTrump/status/922428118685581313 %}
+
+3/ **The head of Cambridge Analytica wanted to work with Wikileaks to find Hillary Clinton’s 33,000 deleted emails**. Alexander Nix, who's firm worked for Trump’s campaign, wrote an email to Julian Assange asking if the two could work together to find and release Clinton's emails. Assange  that he didn't want Nix's help. ([The Daily Beast](https://www.thedailybeast.com/trump-data-guru-i-tried-to-team-up-with-julian-assange))
+
+4/ **Paul Manafort is facing a third money laundering probe**. The Manhattan US attorney's office is working in collaboration with special counsel Robert Mueller's investigation to look at Trump's former campaign chairman. The state of New York also has it's own money laundering investigation going. ([Wall Street Journal](https://www.wsj.com/articles/former-trump-campaign-chairman-paul-manafort-faces-another-money-laundering-probe-1508888106))
+
+5/ **CBO Score: The bipartisan health care bill would reduce the deficit by nearly $4 billion over 10 years**. If the insurer subsidies aren't funded,  however, the federal deficit would increase by $194 billion by 2026. ([The Hill](http://thehill.com/policy/healthcare/357091-cbo-bipartisan-deal-would-reduce-deficit-by-4-billion))
+
+poll/ **56% of voters think Trump is reckless**. 35% say Trump is honest. ([Politico](http://www.politico.com/story/2017/10/25/trump-poll-reckless-honest-244126))
+
+poll/ **64% of Americans support legalizing marijuana**, including 51% of Republicans. ([Gallup](http://news.gallup.com/poll/221018/record-high-support-legalizing-marijuana.aspx))

@@ -9,11 +9,11 @@ image: "/uploads/280.jpg"
 
 2/ **Trump said the soldier’s widow must be wrong because he has "one of the greatest memories of all time."** Trump suggested that there was no way he could have [stumbled](https://whatthefuckjusthappenedtoday.com/2017/10/23/day-277/#4-trump-stumbl-ed-on-my-husbands-nam) on Sgt. La David Johnson's name during his condolence call with Myeshia Johnson, because he has "one of the great memories of all time." That and his staff gave him a chart with the Green Berets name on it. ([Slate](http://www.slate.com/blogs/the_slatest/2017/10/25/trump_says_myeshia_johnson_s_recollection_is_wrong_and_he_has_one_of_the.html))
 
-{% twitter https://twitter.com/joshtpm/status/923238520948477952/video/1 %}
+{% twitter https://twitter.com/joshtpm/status/923238520948477952 %}
 
-* **Department of Presidential Quotes From Yesterday:** 
+* **Department of Presidential Quotes From Yesterday:**
 
-* **I "really started this whole fake news thing."** He went on to say that "if you look at the level of approval of the media, of general media—if you look at it from the day I started running, to now, I’m so proud I have been able to convince people how fake it is, because it has taken a nosedive." ([CNN](http://www.cnn.com/2017/10/25/politics/trump-press-memory-smarts/index.html)) 
+* **I "really started this whole fake news thing."** He went on to say that "if you look at the level of approval of the media, of general media—if you look at it from the day I started running, to now, I’m so proud I have been able to convince people how fake it is, because it has taken a nosedive." ([CNN](http://www.cnn.com/2017/10/25/politics/trump-press-memory-smarts/index.html))
 
 * **"I think the press makes me more uncivil than I am.** You know, people don’t understand. I went to an Ivy League college. I was a nice student. I did very well. I’m a very intelligent person. You know, the fact is I think — I really believe — I think the press creates a different image of Donald Trump than the real person." ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/10/25/trump-says-the-media-unfairly-portrays-him-as-uncivil-which-hes-not-because-he-went-to-an-ivy-league-college/))
 
@@ -25,7 +25,7 @@ image: "/uploads/280.jpg"
 
 3/ **After months of promises, Trump said he will declare the opioid epidemic a public health emergency today – not a national emergency**, which would have unlocked federal funding through FEMA's Disaster Relief Fund. Under the Public Health Services Act designation, no federal funding will be automatically directed to the crisis. Federal agencies will, however, be directed to devote more grant money to the problem. ([ABC News](http://abcnews.go.com/Politics/trump-expected-declare-opioid-crisis-national-emergency/story?id=50718774) / [CNN](http://www.cnn.com/2017/10/26/politics/donald-trump-opioid-epidemic/))
 
-4/ **Premiums for the most popular Affordable Care Act plan have risen 34% **due to the marketplace instability caused by the Trump administration's actions, a report by Avalere Health concluded. Market instability has been driven by Trump’s decision to [end subsidy payments](https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi) to insurers, the continued debate over repeal and replace of the Affordable Care Act, and an [executive order](https://whatthefuckjusthappenedtoday.com/2017/10/12/day-266/#1-trump-signed-an-executive-order-el) allowing for lower cost plans outside of the Obama-era law. ([Associated Press](https://apnews.com/18eafd0af90d4638be180cdfa6a4ada0/Study:-ACA-silver-plan-premiums-up-average-of-34-percent))
+4/ **Premiums for the most popular Affordable Care Act plan have risen 34%** due to the marketplace instability caused by the Trump administration's actions, a report by Avalere Health concluded. Market instability has been driven by Trump’s decision to [end subsidy payments](https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi) to insurers, the continued debate over repeal and replace of the Affordable Care Act, and an [executive order](https://whatthefuckjusthappenedtoday.com/2017/10/12/day-266/#1-trump-signed-an-executive-order-el) allowing for lower cost plans outside of the Obama-era law. ([Associated Press](https://apnews.com/18eafd0af90d4638be180cdfa6a4ada0/Study:-ACA-silver-plan-premiums-up-average-of-34-percent))
 
 5/ **Congress will investigate the $300 million government contract awarded to a Trump donor**. Members of the Natural Resources Committee said "the size and unknown details of this contract raise numerous questions" about how a two-person Montana utility company linked to the Trump administration [won the contract](https://whatthefuckjusthappenedtoday.com/2017/10/24/day-278/#7-a-two-person-montana-utility-compa) to repair Puerto Rico's electrical infrastructure. Whitefish Energy is also located in the hometown of Interior Secretary Ryan Zinke. ([Associated Press](https://apnews.com/82a076d092724b27bb80cb59c42d328e))
 
@@ -33,7 +33,7 @@ image: "/uploads/280.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/923277142271684609 %}
 
-* How to Read the JFK Assassination Files. The government is releasing thousands of long-secret files on Kennedy’s murder. Here are some tips for making sense of all the code names, redactions and confusing jargon. ([Politico](http://www.politico.com/magazine/story/2017/10/26/jfk-secret-assassination-files-how-to-read-them-215749))
+* **How to Read the JFK Assassination Files**. The government is releasing thousands of long-secret files on Kennedy’s murder. Here are some tips for making sense of all the code names, redactions and confusing jargon. ([Politico](http://www.politico.com/magazine/story/2017/10/26/jfk-secret-assassination-files-how-to-read-them-215749))
 
 poll/ **Democratic candidates lead by 15 points in a hypothetical matchup for the 2018 midterm elections**. 50 percent of respondents said that if the election for Congress were held today, they would vote for the Democratic candidate. Only 35 percent said they would vote for a Republican. ([The Hill](http://thehill.com/homenews/campaign/357214-poll-dems-lead-by-15-points-in-generic-congressional-ballot))
 

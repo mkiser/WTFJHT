@@ -145,6 +145,11 @@ algolia:
   - license.html
   - license.txt
   - almost.html
+  - trump-epa.markdown
+  - trump-fake-news.markdown
+  - trump-health-care.markdown
+  - trump-russia-investigation.markdown
+  - trump-travel-ban.markdown
   - faq
   - license
   - 45-for-45
@@ -152,6 +157,7 @@ algolia:
   - do-something
   - podcasts
   - author
+  - topics
   settings:
     attributesToIndex:
     - unordered(text)

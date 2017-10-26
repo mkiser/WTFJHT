@@ -1,0 +1,40 @@
+---
+title: Day 280
+date: 2017-10-26 07:41:00 -07:00
+description: 'Bullet. '
+image: "/uploads/280.jpg"
+---
+
+1/ **The House passed its budget blueprint**, which maps out the recommended spending and revenue levels for the 2018 fiscal year. No Democrats voted for the budget, which passed 216 to 212. The legislation will also allow Republicans to now pass tax reform and add as much as $1.5 trillion to the deficit over the next decade without any Democratic votes. The deficit for the 2017 fiscal year totaled $666 billion ([New York Times](https://www.nytimes.com/2017/10/26/us/politics/house-budget-blueprint-tax-cut.html) / [Washington Post](https://www.washingtonpost.com/powerpost/house-narrowly-passes-budget-paving-way-for-15-trillion-tax-cut/2017/10/26/49867544-ba50-11e7-be94-fabb0f1e9ffb_story.html))
+
+2/ **Trump said the soldier’s widow must be wrong because he has "one of the greatest memories of all time."** Trump suggested that there was no way he could have [stumbled](https://whatthefuckjusthappenedtoday.com/2017/10/23/day-277/#4-trump-stumbl-ed-on-my-husbands-nam) on Sgt. La David Johnson's name during his condolence call with Myeshia Johnson, because he has "one of the great memories of all time." That and his staff gave him a chart with the Green Berets name on it. ([Slate](http://www.slate.com/blogs/the_slatest/2017/10/25/trump_says_myeshia_johnson_s_recollection_is_wrong_and_he_has_one_of_the.html))
+
+{% twitter https://twitter.com/joshtpm/status/923238520948477952 %}
+
+* **Department of Presidential Quotes From Yesterday:**
+
+* **I "really started this whole fake news thing."** He went on to say that "if you look at the level of approval of the media, of general media—if you look at it from the day I started running, to now, I’m so proud I have been able to convince people how fake it is, because it has taken a nosedive." ([CNN](http://www.cnn.com/2017/10/25/politics/trump-press-memory-smarts/index.html))
+
+* **"I think the press makes me more uncivil than I am.** You know, people don’t understand. I went to an Ivy League college. I was a nice student. I did very well. I’m a very intelligent person. You know, the fact is I think — I really believe — I think the press creates a different image of Donald Trump than the real person." ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/10/25/trump-says-the-media-unfairly-portrays-him-as-uncivil-which-hes-not-because-he-went-to-an-ivy-league-college/))
+
+* {% twitter https://twitter.com/davidmackau/status/923237380026494976 %}
+
+* **"Your show is fantastic," Trump to Lou Dobbs**. He added that he watches the program "absolutely almost all the time." Dobbs returned the compliment, calling Trump “one of the most loved and respected” presidents "in history." ([Newsweek](http://www.newsweek.com/donald-trump-fox-business-network-lou-dobbs-693411))
+
+* **Trump has given Fox News 19 interviews since his inauguration**. No other media outlet comes close to Fox's level of access. Here's the current score: Fox (19), New York Times (4), NBC News (3), Reuters (3), Wall Street Journal (2), Christian Broadcasting Network (2), ABC News (1), CBS News (1), Washington Post (1), Associated Press (1), Time (1), Forbes (1). ([CNN](http://money.cnn.com/2017/10/25/media/fox-news-president-trump-interviews/index.html) / [Politico](http://www.politico.com/story/2017/10/25/how-many-interviews-has-trump-given-fox-244157))
+
+3/ **After months of promises, Trump said he will declare the opioid epidemic a public health emergency today – not a national emergency**, which would have unlocked federal funding through FEMA's Disaster Relief Fund. Under the Public Health Services Act designation, no federal funding will be automatically directed to the crisis. Federal agencies will, however, be directed to devote more grant money to the problem. ([ABC News](http://abcnews.go.com/Politics/trump-expected-declare-opioid-crisis-national-emergency/story?id=50718774) / [CNN](http://www.cnn.com/2017/10/26/politics/donald-trump-opioid-epidemic/))
+
+4/ **Premiums for the most popular Affordable Care Act plan have risen 34%** due to the marketplace instability caused by the Trump administration's actions, a report by Avalere Health concluded. Market instability has been driven by Trump’s decision to [end subsidy payments](https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi) to insurers, the continued debate over repeal and replace of the Affordable Care Act, and an [executive order](https://whatthefuckjusthappenedtoday.com/2017/10/12/day-266/#1-trump-signed-an-executive-order-el) allowing for lower cost plans outside of the Obama-era law. ([Associated Press](https://apnews.com/18eafd0af90d4638be180cdfa6a4ada0/Study:-ACA-silver-plan-premiums-up-average-of-34-percent))
+
+5/ **Congress will investigate the $300 million government contract awarded to a Trump donor**. Members of the Natural Resources Committee said "the size and unknown details of this contract raise numerous questions" about how a two-person Montana utility company linked to the Trump administration [won the contract](https://whatthefuckjusthappenedtoday.com/2017/10/24/day-278/#7-a-two-person-montana-utility-compa) to repair Puerto Rico's electrical infrastructure. Whitefish Energy is also located in the hometown of Interior Secretary Ryan Zinke. ([Associated Press](https://apnews.com/82a076d092724b27bb80cb59c42d328e))
+
+6/ **Trump promises to release the JFK files today**, despite CIA Director Mike Pompeo asking him to withhold or delay some of the documents. The files will primarily come from the FBI and CIA, and would be the final batch to be released by the National Archives under a 1992 law that ordered the government to make all remaining documents pertaining to the assassination public. Trump tweeted that the "long anticipated release" of the files will take place today while flying to Dallas's Love Field, the same airport where Kennedy landed just before he was shot. Trump called the files "So interesting!" ([Associated Press](https://apnews.com/3814a426ab4c4295abb014bfb48da4d2/Trump-coy-on-what) / [NPR](http://www.npr.org/2017/10/26/559799857/final-jfk-assassination-files-due-to-be-released) / [Washington Post](https://www.washingtonpost.com/local/trump-expected-to-release-remaining-jfk-assassination-documents-thursday/2017/10/25/52c8f71a-b9b7-11e7-a908-a3470754bbb9_story.html)
+
+{% twitter https://twitter.com/realDonaldTrump/status/923277142271684609 %}
+
+* **How to Read the JFK Assassination Files**. The government is releasing thousands of long-secret files on Kennedy’s murder. Here are some tips for making sense of all the code names, redactions and confusing jargon. ([Politico](http://www.politico.com/magazine/story/2017/10/26/jfk-secret-assassination-files-how-to-read-them-215749))
+
+poll/ **Democratic candidates lead by 15 points in a hypothetical matchup for the 2018 midterm elections**. 50 percent of respondents said that if the election for Congress were held today, they would vote for the Democratic candidate. Only 35 percent said they would vote for a Republican. ([The Hill](http://thehill.com/homenews/campaign/357214-poll-dems-lead-by-15-points-in-generic-congressional-ballot))
+
+poll/ **53% of military officers said they have an unfavorable view of Trump**. 40% of all troops have an unfavorable view of Trump. ([Military Times](https://www.militarytimes.com/news/pentagon-congress/2017/10/23/military-times-poll-what-you-really-think-about-trump/))

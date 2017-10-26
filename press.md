@@ -52,6 +52,12 @@ It looks like facts, but it feels like coping. ([The Observer](http://observer.c
 21/ **Is your journalism valuable?**.
 You have to listen to the people you're trying to serve to figure out what's valuable to them.  ([Poynter](https://www.poynter.org/news/your-journalism-valuable){:target="_blank"})
 
+22/ **What your site can learn from 100 news organizations with robust membership programs**.
+Transparency and an approachable tone, as well as his efforts to engage with his audience, are central to his newsletter’s success. ([Membership Puzzle Project](https://membershippuzzle.org/articles-overview/what-your-site-can-learn)(:target="_blank"))
+
+23/ **How growing an independent news site is “like punk rock with a blog”**.
+“[Engaging] with people who take the effort to subscribe and give feedback creates trust, shows transparency, humanizes the whole thing. The more I show I’m just human, that I’m fallible, the more trust I build. That’s what is comes down to: creating value and building trust.” ([Membership Puzzle Project](https://membershippuzzle.org/articles-overview/punk-rock-with-a-blog)(:target="_blank"))
+
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}
 {% twitter https://twitter.com/DaveLeeBBC/status/830907636006547456 hide_media=true %}

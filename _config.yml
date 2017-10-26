@@ -150,6 +150,11 @@ algolia:
   - trump-health-care.markdown
   - trump-russia-investigation.markdown
   - trump-travel-ban.markdown
+  - trump-epa
+  - trump-fake-news
+  - trump-health-care
+  - trump-russia-investigation
+  - trump-travel-ban
   - faq
   - license
   - 45-for-45
@@ -158,6 +163,7 @@ algolia:
   - podcasts
   - author
   - topics
+  - topic
   settings:
     attributesToIndex:
     - unordered(text)

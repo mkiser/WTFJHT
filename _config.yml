@@ -195,7 +195,7 @@ gems:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
-- jekyll-twitter-plugin
+# - jekyll-twitter-plugin
 - jekyll-extlinks
 - jekyll-archives
 - algoliasearch

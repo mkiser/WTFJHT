@@ -17,7 +17,7 @@ image: "/uploads/280.jpg"
 
 * **"I think the press makes me more uncivil than I am.** You know, people don’t understand. I went to an Ivy League college. I was a nice student. I did very well. I’m a very intelligent person. You know, the fact is I think — I really believe — I think the press creates a different image of Donald Trump than the real person." ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/10/25/trump-says-the-media-unfairly-portrays-him-as-uncivil-which-hes-not-because-he-went-to-an-ivy-league-college/))
 
-* {% twitter https://twitter.com/davidmackau/status/923237380026494976 %}
+* {% twitter https://twitter.com/davidmackau/status/923237380026494976 | strip %}
 
 * **"Your show is fantastic," Trump to Lou Dobbs**. He added that he watches the program "absolutely almost all the time." Dobbs returned the compliment, calling Trump “one of the most loved and respected” presidents "in history." ([Newsweek](http://www.newsweek.com/donald-trump-fox-business-network-lou-dobbs-693411))
 

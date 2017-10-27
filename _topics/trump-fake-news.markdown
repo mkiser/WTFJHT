@@ -9,18 +9,8 @@ seo:
 redirect_from: "/fake-news/"
 ---
 
-![tK TK TK TK TK]({{ site.url }}{{ site.baseurl }}/public/TK TK TK.jpg)
-
-
 <p class="lead">Trump, fake news, and the mainstream media. Here's what we know.</p>
 
-<strong>Executive Summary:</strong>
-
-<ol>
-	<li>Trump continues to label anything he doesn't agree with as "fake news."</li>
-	<li>TK.</li>
-	<li>TK.</li>
-</ol>
 
 <hr>
 

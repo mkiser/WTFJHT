@@ -9,17 +9,8 @@ seo:
 redirect_from: "/health-care/"
 ---
 
-![tK TK TK TK TK]({{ site.url }}/public/TK TK TK.jpg)
 
 <p class="lead">Here's where we stand with Trump's efforts to repeal and replace the Affordable Care Act.</p>
-
-<strong>Executive Summary:</strong>
-
-<ol>
-	<li>The Senate has a bipartisan plan in place to stabilize the health insurance markets.</li>
-	<li>Trump has signaled that he would veto any legislation that doesn't repeal and replace the Affordable Care Act.</li>
-	<li>Funding for the Children’s Health Insurance Program expired in September.</li>
-</ol>
 
 
 <hr>

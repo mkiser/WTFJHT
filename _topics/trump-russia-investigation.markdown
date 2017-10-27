@@ -10,17 +10,10 @@ seo:
 redirect_from: "/russia/"
 ---
 
-![tK TK TK TK TK]({{ site.url }}/public/TK TK TK.jpg)
 
 <p class="lead">Here's what we know so far about the Russia investigation into election meddling, collusion with the Trump campaign, Special Counsel Robert Mueller's investigation, and more.</p>
 
-<strong>Executive Summary:</strong>
 
-<ol>
-	<li>There are four current investigations into Russian interference: Special Counsel Robert Mueller, the Senate Intelligence Committee, the House Intelligence Committee, and the Senate Judiciary Committee.</li>
-	<li>TK.</li>
-	<li>TK.</li>
-</ol>
 
 <hr>
 

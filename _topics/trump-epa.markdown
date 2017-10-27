@@ -9,17 +9,8 @@ seo:
 redirect_from: "/epa/"
 ---
 
-![tK TK TK TK TK]({{ site.url }}{{ site.baseurl }}/public/TK TK TK.jpg)
-
 <p class="lead">Here's what we know so far about Trump's efforts to dismantle the EPA.</p>
 
-<strong>Executive Summary:</strong>
-
-<ol>
-	<li>EPA Chief Scott Pruitt doubts that climate change poses a threat to the US and is skeptical of the scientific consensus that human activity is the primary cause of climate change.</li>
-	<li>The phrase "climate change" doesn't appear in the EPA's strategic plans and climate change-related planning resources have been removed from the EPA website.</li>
-	<li>Trump directed Pruitt to begin the lega process of withdrawing and rewriting the Clean Power Plan, which was central for meeting the emission goals outlined in the Paris Climate Agreement.</li>
-</ol>
 
 <hr>
 

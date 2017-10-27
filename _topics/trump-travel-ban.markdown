@@ -9,15 +9,11 @@ seo:
 redirect_from: "/travel-ban/"
 ---
 
-![tK TK TK TK TK]({{ site.url }}/public/TK TK TK.jpg)
 
 <p class="lead">Here's where we stand with Trump's travel ban.</p>
 
 <strong>Executive Summary:</strong>
 
-<ol>
-	<li>TK.</li>
-</ol>
 
 <hr>
 

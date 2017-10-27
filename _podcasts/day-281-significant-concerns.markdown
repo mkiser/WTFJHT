@@ -5,6 +5,7 @@ file: "/uploads/Day-281-Significant-concerns-CTA2.mp3"
 post: Day 281
 duration: '03:54'
 length: 6864749
+image: "/uploads/281-update.jpg"
 ---
 
 1/ Trump hasn't imposed sanctions on Russia because Rex Tillerson dissolved the office that implements them.

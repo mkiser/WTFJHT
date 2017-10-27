@@ -12,7 +12,6 @@ redirect_from: "/travel-ban/"
 
 <p class="lead">Here's where we stand with Trump's travel ban.</p>
 
-<strong>Executive Summary:</strong>
 
 
 <hr>

@@ -1,11 +1,11 @@
 ---
 title: Day 284
 date: 2017-10-30 07:50:00 -07:00
-description: '"NO COLLUSION!"'
+description: 'NO COLLUSION. '
 image: "/uploads/284.jpg"
 ---
 
-1/ **Robert Mueller charged Paul Manafort and his associate Rick Gates in a 12-count indictment with conspiracy to launder more than $18 million**, making false statements to the Justice Department, and other charges stemming from probes into possible Russian influence in US political affairs. The indictment of Manafort, Trump's former campaign chairman, and Gates focused on their work advising a pro-Russia party in Ukraine between 2006 to 2015, laundering money through 2016, and continuing the conspiracy against the U.S. in 2017. The charges – the first by Mueller – make no mention of Trump or Russian election meddling. Manafort and Rick Gates [surrendered](http://www.cnn.com/2017/10/30/politics/paul-manafort-russia-investigation-surrender/index.html) to Justice Department. ([New York Times](https://www.nytimes.com/2017/10/30/us/politics/paul-manafort-indicted.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/manafort-and-former-business-partner-asked-to-surrender-in-connection-with-special-counsel-probe/2017/10/30/6fe051f0-bd67-11e7-959c-fe2b598d8c00_story.html) / [Wall Street Journal](https://www.wsj.com/articles/former-trump-campaign-chairman-paul-manafort-charged-in-russia-probe-1509365767))
+1/ **In a 12-count indictment Robert Mueller charged Paul Manafort and his associate Rick Gates with conspiracy to launder more than $18 million**, making false statements to the Justice Department, and other charges stemming from probes into possible Russian influence in US political affairs. The indictment of Manafort, Trump's former campaign chairman, and Gates focused on their work advising a pro-Russia party in Ukraine between 2006 to 2015, laundering money through 2016, and continuing the conspiracy against the US in 2017. The charges – the first by Mueller – make no mention of Trump or Russian election meddling. ([New York Times](https://www.nytimes.com/2017/10/30/us/politics/paul-manafort-indicted.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/manafort-and-former-business-partner-asked-to-surrender-in-connection-with-special-counsel-probe/2017/10/30/6fe051f0-bd67-11e7-959c-fe2b598d8c00_story.html) / [Wall Street Journal](https://www.wsj.com/articles/former-trump-campaign-chairman-paul-manafort-charged-in-russia-probe-1509365767))
 
 * **Read the unsealed federal grand jury indictment against Manafort and Gates**. ([CNN](http://www.cnn.com/2017/10/30/politics/indictment-manafort-gates/index.html))
 
@@ -13,9 +13,9 @@ image: "/uploads/284.jpg"
 
 {% twitter https://twitter.com/mlevinereports/status/925003044982583296 %}
 
-3/ **Trump tweets loud noises in response to the indictment news**. Starting Sunday, Trump challenged Republicans to "DO SOMETHING!" about Obamacare, Hillary Clinton, Democrats, the Fusion GPS dossier, tax cuts, and the Mueller investigation in a tweet storm. He continued Monday following the indictments: "Sorry, but this is years ago, before Paul Manafort was part of the Trump campaign. But why aren’t Crooked Hillary & the Dems the focus?????" Trump continued: "....Also, there is NO COLLUSION!" ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-goes-tweet-storm-about-health-care-clinton-dossier-more-n815416) / [The Hill](http://thehill.com/homenews/administration/357789-trump-on-manafort-indictment-it-was-years-ago-why-isnt-clinton-the) / [Vox](https://www.vox.com/2017/10/30/16570554/manafort-indictment-trump-tweet))
+3/ **Trump tweets loud noises in response to the indictment news**. Starting Sunday, Trump in a tweet storm challenged Republicans to "DO SOMETHING!" about Obamacare, Hillary Clinton, Democrats, the Fusion GPS dossier, tax cuts, and the Mueller investigation. He continued Monday following the indictments: "Sorry, but this is years ago, before Paul Manafort was part of the Trump campaign. But why aren’t Crooked Hillary & the Dems the focus?????" Trump continued: "....Also, there is NO COLLUSION!" ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-goes-tweet-storm-about-health-care-clinton-dossier-more-n815416) / [The Hill](http://thehill.com/homenews/administration/357789-trump-on-manafort-indictment-it-was-years-ago-why-isnt-clinton-the) / [Vox](https://www.vox.com/2017/10/30/16570554/manafort-indictment-trump-tweet))
 
-* **Fox News discussed the cheeseburger emoji instead of the Manafort indictment**. ([Vox](https://www.vox.com/policy-and-politics/2017/10/30/16570198/trump-manafort-indictment-fox-news))
+* **Fox News discussed the cheeseburger emoji instead of the Manafort indictment**. ([Vox](https://www.vox.com/policy-and-politics/2017/10/30/16570198/trump-manafort-indictment-fox-news)) 
 
 * {% twitter https://twitter.com/marinafang/status/924981160253558784 %}
 
@@ -37,14 +37,8 @@ image: "/uploads/284.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/925006418989715456 %}
 
-{% youtube 7pdWAcK6Eh8 %}
+{% youtube https://www.youtube.com/watch?v=7pdWAcK6Eh8 %}
 
-4/ **Trump, Pence, and Jeff Sessions are schedule to meet today**. Sessions was invited to Trump's weekly lunch with Pence. ([The Hill](http://thehill.com/homenews/administration/357783-trump-to-lunch-with-sessions-amid-manafort-charges))
-
-5/ **Puerto Rico cancelled its contract with Whitefish Energy**. The [$300 million contract](https://whatthefuckjusthappenedtoday.com/2017/10/24/day-278/#7-a-two-person-montana-utility-compa) awarded to a two-person Montana utility company linked to the Trump administration to repair Puerto Rico's electrical infrastructure has drawn criticism. FEMA said it has ["significant concerns"](https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/#7-the-whitefish-contract-with-puerto) about the contract. ([NPR](http://www.npr.org/sections/thetwo-way/2017/10/29/560683583/puerto-rican-governor-calls-for-cancellation-of-controversial-whitefish-contract) / [Washington Post](https://www.washingtonpost.com/business/economy/puerto-rico-governor-says-contract-to-whitefish-company-should-be-canceled/2017/10/29/e5336cda-bcb8-11e7-97d9-bdab5a0ab381_story.html))
-
-6/ **More than 50% of Trump’s nominees are tied to the industries they're supposed to regulate**. Of the 341 nominations Trump has made to Senate-confirmed administration positions, more than half (179) have some notable conflict of interest. One hundred and five nominees worked in the industries that they were being tasked with regulating; 63 lobbied for, were lawyers for, or otherwise represented industry members that they were being tasked with regulating; and 11 received payments or campaign donations from members of the industry that they were being tasked with regulating. ([The Daily Beast](https://www.thedailybeast.com/donald-trump-pledged-to-drain-the-swamp-instead-he-filled-it-with-industry-sharks))
-
-poll/ **38% of voters approve of Trump's job performance** – down five points since September – while 58% of voters disapprove. ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-s-approval-rating-drops-lowest-level-yet-new-nbc-n815321))
+4/ **Trump, Pence, and Jeff Sessions are scheduled to meet today**. Sessions was invited to Trump's weekly lunch with Pence. ([The Hill](http://thehill.com/homenews/administration/357783-trump-to-lunch-with-sessions-amid-manafort-charges))
 
 *Today's update will be revised hourly to reflect the evolving news.*

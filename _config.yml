@@ -69,6 +69,11 @@ defaults:
     layout: topics
     seo:
       type: NewsArticle
+- scope:
+    path: "page"
+  values:
+    sitemap: false
+    metatags: noindex, follow
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential guide to the daily shock and awe in national politics.
@@ -82,6 +87,8 @@ plugins_dir: _plugins
 layouts_dir: _layouts
 data_dir: _data
 includes_dir: _includes
+paginate: 3
+paginate_path: "/page/:num/"
 twitter:
   username: WTFJHT
 kramdown:

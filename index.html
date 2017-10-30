@@ -12,7 +12,7 @@ seo:
 {% include email.html %}
 
 <div class="posts">
-  {% for post in site.posts limit:7 %}
+  {% for post in paginator.posts %}
   <article class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -45,3 +45,15 @@ seo:
   </article>
   {% endfor %} 
 </div> 
+
+
+
+<div class="next-prev pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="prev previous" rel="prev">&laquo; Previous</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next" rel="next">Next &raquo;</a>
+  {% endif %}
+</div>
+

@@ -23,6 +23,17 @@ redirect_from: "/russia/"
 
 
 
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/30/day-284/">October 30, 2017</a></small></div>
+<p><strong>Robert Mueller charged Paul Manafort and his associate Rick Gates in a 12-count indictment with conspiracy to launder more than $18 million</strong>, making false statements to the Justice Department, and other charges stemming from probes into possible Russian influence in US political affairs. The indictment of Manafort, Trump's former campaign chairman, and Gates focused on their work advising a pro-Russia party in Ukraine between 2006 to 2015, laundering money through 2016, and continuing the conspiracy against the U.S. in 2017. The charges – the first by Mueller – make no mention of Trump or Russian election meddling. (<a href="https://www.nytimes.com/2017/10/30/us/politics/paul-manafort-indicted.html">New York Times</a> / <a href="https://www.washingtonpost.com/world/national-security/manafort-and-former-business-partner-asked-to-surrender-in-connection-with-special-counsel-probe/2017/10/30/6fe051f0-bd67-11e7-959c-fe2b598d8c00_story.html">Washington Post</a> / <a href="https://www.wsj.com/articles/former-trump-campaign-chairman-paul-manafort-charged-in-russia-probe-1509365767">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/30/day-284/">October 30, 2017</a></small></div>
+<p><strong>Trump's former foreign policy adviser pleaded guilty to lying to the FBI</strong> about an April 2016 conversation with a professor with close ties to the Russian government that said Moscow had "dirt" on Hillary Clinton in the form of "thousands of emails." George Papadopoulos repeatedly tried to <a href="https://whatthefuckjusthappenedtoday.com/2017/08/14/day-207/#8-a-junior-trump-campaign-adviser-re">arrange a meeting</a> between the Trump campaign and Russian government officials. Papadopoulos was arrested in July 2017 and pleaded guilty on October 5th. The single felony count against Papadopolous directly relates to 2016 presidential campaign activity. (<a href="https://www.nytimes.com/2017/10/30/us/politics/george-papadopoulos-russia.html">New York Times</a> / <a href="https://www.bloomberg.com/news/articles/2017-10-30/trump-foreign-policy-adviser-pleaded-guilty-in-mueller-probe">Bloomberg</a> / <a href="https://www.nbcnews.com/news/us-news/trump-campaign-adviser-george-papadopoulos-pleads-guilty-lying-n815596">NBC News</a> / <a href="https://www.politico.com/story/2017/10/30/former-trump-campaign-adviser-pleads-guilty-to-lying-to-fbi-about-russia-contacts-244311">Politico</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/">October 27, 2017</a></small></div>
 <p><strong>Trump hasn't imposed sanctions on Russia because Rex Tillerson dissolved the office that implements them</strong>. After the Coordinator for Sanctions Policy office was eliminated just one mid-level official is now responsible for coordinating the implementation of sanctions across the State Department and other government agencies. The administration missed the <a href="https://whatthefuckjusthappenedtoday.com/2017/10/26/day-280/#6-its-been-more-than-three-weeks-sin">October 1st deadline</a> to implement new penalties against Russia, which were adopted by Congress in August. (<a href="http://foreignpolicy.com/2017/10/26/state-department-scraps-sanctions-office/">Foreign Policy</a> / <a href="http://thehill.com/policy/international/357445-tillerson-eliminates-key-state-department-sanctions-office-report">The Hill</a>)</p>
 
@@ -2955,4 +2966,3 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/">February 02, 2017</a></small></div>
 <p><strong>Shouting match over Russia erupts at House hearing over Russian interference in the presidential election.</strong> Th fight exposed bitter frustration amongst Democrats that Republicans have kept the issue locked in a single committee. (<a href="http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation">The Hill</a>)</p>
-

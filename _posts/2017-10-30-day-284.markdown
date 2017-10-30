@@ -37,7 +37,7 @@ image: "/uploads/284.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/925006418989715456 %}
 
-{% youtube https://www.youtube.com/watch?v=7pdWAcK6Eh8 %}
+{% youtube 7pdWAcK6Eh8 %}
 
 4/ **Trump, Pence, and Jeff Sessions are schedule to meet today**. Sessions was invited to Trump's weekly lunch with Pence. ([The Hill](http://thehill.com/homenews/administration/357783-trump-to-lunch-with-sessions-amid-manafort-charges))
 

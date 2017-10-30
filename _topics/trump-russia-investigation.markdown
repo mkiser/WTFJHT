@@ -13,9 +13,61 @@ redirect_from: "/russia/"
 
 <p class="lead">Here's what we know so far about the Russia investigation into election meddling, collusion with the Trump campaign, Special Counsel Robert Mueller's investigation, and more.</p>
 
-
+<ol>
+	<li>Robert Mueller charged Paul Manafort and his associate Rick Gates with conspiracy to launder more than $18 million and making false statements to the Justice Department.</li>
+	<li>The White House missed its deadline to impose new sanctions on Russia.</li>
+	<li>Sean Spicer and Reince Priebus have both spoken with Mueller about the firing of James Comey.</li>
+</ol>
 
 <hr>
+
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/">October 27, 2017</a></small></div>
+<p><strong>Trump hasn't imposed sanctions on Russia because Rex Tillerson dissolved the office that implements them</strong>. After the Coordinator for Sanctions Policy office was eliminated just one mid-level official is now responsible for coordinating the implementation of sanctions across the State Department and other government agencies. The administration missed the <a href="https://whatthefuckjusthappenedtoday.com/2017/10/26/day-280/#6-its-been-more-than-three-weeks-sin">October 1st deadline</a> to implement new penalties against Russia, which were adopted by Congress in August. (<a href="http://foreignpolicy.com/2017/10/26/state-department-scraps-sanctions-office/">Foreign Policy</a> / <a href="http://thehill.com/policy/international/357445-tillerson-eliminates-key-state-department-sanctions-office-report">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/">October 27, 2017</a></small></div>
+<p><strong>Trump claimed that it's "commonly agreed" that he didn't collude with Russia</strong>. Instead, he accused Hillary Clinton of working with the Kremlin amid reports that Clinton and the DNC <a href="https://whatthefuckjusthappenedtoday.com/2017/10/24/day-278/#1-the-clinton-campaign-and-the-dnc-h">paid for the dossier</a> of accusations about Trump and his ties to Russia. Trump tweeted that "after many months of COSTLY looking, that there was NO collusion between Russia and Trump. Was collusion with HC!" (<a href="https://www.politico.com/story/2017/10/27/trump-russia-investigations-collusion-244238">Politico</a> / <a href="http://thehill.com/homenews/administration/357490-trump-claims-its-commonly-agreed-he-didnt-collude-with-russia">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/">October 27, 2017</a></small></div>
+<p><strong>Republican lawmakers intend to wind down their Trump-Russia investigations even though the issue of collusion remains unresolved</strong>. The Senate Intelligence Committee wants the panel’s investigation to end by February – ahead of the first 2018 primary elections – while the House Intelligence Committee hopes to finish before that. (<a href="https://www.politico.com/story/2017/10/27/gop-russia-probes-trump-244217">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/">October 27, 2017</a></small></div>
+<p><strong>The memo Natalia Veselnitskaya brought to the Trump Tower meeting was coordinated with the Kremlin</strong>, undercutting the Russian lawyer's claim that she was an independent actor when she sat down with Trump Jr., Jared Kushner, and Paul Manafort. In the months before the meeting, Veselnitskaya had discussed allegations that Democratic donors were guilty of financial fraud and tax evasion with Russia’s prosecutor general, Yuri Y. Chaika. The memo she brought to the meeting closely followed a document that Chaika’s office had given to Representative Dana Rohrabacher, a California Republican who is considered to be one of the most pro-Russia lawmakers in Congress and who heads a subcommittee that helps oversee U.S. policy toward Russia. (<a href="https://www.nytimes.com/2017/10/27/us/politics/trump-tower-veselnitskaya-russia.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/">October 27, 2017</a></small></div>
+<p><strong>Trump personally directed the Justice Department to lift an FBI informant's gag order</strong> so they could testify to Congress about Russia's attempt to gain influence in the uranium industry in the United States during the Obama administration. The request is unusual for two reasons: 1) The DOJ limits the White House's involvement in criminal law enforcement, and 2) the request is related to Obama and the Clintons.</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/">October 27, 2017</a></small></div>
+<p>Before Obama approved the 2010 deal to give Moscow control of a large swath of American uranium, the FBI had evidence showing Russian nuclear officials routing millions of dollars to the US designed to benefit Bill Clinton’s charitable foundation while Hillary Clinton was serving as Secretary of State. She was not involved in the review by the Committee on Foreign Investment, which approved the deal. (<a href="http://www.cnn.com/2017/10/27/politics/kellyanne-conway-donald-trump-cnntv/">CNN</a> / <a href="http://thehill.com/policy/national-security/355749-fbi-uncovered-russian-bribery-plot-before-obama-administration">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/26/day-280/">October 26, 2017</a></small></div>
+<p><strong>It's been more than three weeks since the October 1st deadline passed for the White House to imposed new sanctions on Russia</strong>. The administration still has not implemented the sanctions that Congress passed with veto-proof majorities in July. The State Department issued guidance on how to implement sanctions shortly after Bob Corker and other Senate Republicans pledged to find out if the White House was intentionally delaying them. Trump <a href="https://whatthefuckjusthappenedtoday.com/2017/08/02/day-195/#1-trump-signed-the-bill-to-impose-sa">signed the bill</a> in early August, imposing new sanctions and limiting his authority to lift them. He called the bill "seriously flawed," but signed it anyway. (<a href="https://www.thedailybeast.com/corker-state-department-to-issue-russia-sanctions-guidance">The Daily Beast</a> / <a href="http://www.cnn.com/2017/10/25/politics/trump-russia-sanctions/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/25/day-279/">October 25, 2017</a></small></div>
+<p><strong>Foreign steel imports are up 24% since Trump's "Buy American" pledge</strong>. In particular, a Russian steel company has won several pipeline contracts, including the Keystone XL. The biggest shareholder in Evraz North America is an oligarch and Trump family friend. (<a href="https://www.bloomberg.com/news/articles/2017-10-25/under-trump-made-in-america-is-losing-out-to-russian-steel">Bloomberg</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/24/day-278/">October 24, 2017</a></small></div>
+<p><strong>Trump's personal lawyer met with the House Intelligence Committee today</strong>. Michael Cohen emailed Putin's spokesman, Dmitry Peskov, during the presidential campaign <a href="https://whatthefuckjusthappenedtoday.com/2017/08/30/day-223/#4-the-kremlin-confirmed-that-trump%E2%80%99s">seeking help</a> getting a Trump Tower built in Moscow. Peskov said he never responded to the email. (<a href="https://www.nbcnews.com/politics/politics-news/trump-lawyer-michael-cohen-appear-house-intel-panel-tuesday-n813521">NBC News</a>)</p>
+
+
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/23/day-277/">October 23, 2017</a></small></div>
 <p><strong>Trump's digital director will meet with the House Intelligence Committee about Russian meddling in last year’s election</strong>. It will be Brad Parscale’s first interview with any of the committees investigating the matter. Parscale claimed that Facebook, Google, and Twitter employees were <a href="https://whatthefuckjusthappenedtoday.com/2017/10/09/day-263/#7-facebook-google-and-twitter-employ">"embedded"</a> inside the Trump campaign. (<a href="https://www.reuters.com/article/us-usa-trump-russia/trump-campaigns-digital-director-to-meet-house-intelligence-panel-wsj-idUSKBN1CS02I">Reuters</a>)</p>
@@ -32,7 +84,8 @@ redirect_from: "/russia/"
 
 
 
-
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/23/day-277/">October 23, 2017</a></small></div>
+<p><strong>The US rejected Russia's criminal complaint against Browder and allowed him into the country</strong>. The initial action blocking Browder had been taken automatically in response to an Interpol notice filed against him by Russia and was not an affirmative action by the American government. (<a href="https://www.nytimes.com/2017/10/23/world/europe/russia-us-magnitsky-browder.html">New York Times</a>)</p>
 
 
 
@@ -62,11 +115,6 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/18/day-272/">October 18, 2017</a></small></div>
-<p><strong>Jeff Sessions appeared before the Senate Judiciary Committee and defended Trump's firing of James Comey</strong>. He linked the FBI director’s dismissal to his handling of the Hillary Clinton email server investigation. Sessions refused to discuss private conversations he had with Trump that led up to Comey’s firing. The attorney general also said he hasn't been interviewed by Special Counsel Robert Mueller, yet. (<a href="https://apnews.com/70baab1c054e4837b1d962475bfd6f85/Sessions-defends-Comey-firing,-ties-it-to-Clinton-email-case">Associated Press</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/18/day-272/">October 18, 2017</a></small></div>
 <p><strong>An exiled Russian oligarch believes Putin tried to collaborate with the Trump campaign</strong>. "I am almost convinced that Putin's people have tried to influence the U.S. election in some way," Mikhail Khodorkovsky said. He added that the Russian banker Jared Kushner met with <a href="https://whatthefuckjusthappenedtoday.com/2017/05/30/Day-131/#4-investigators-are-examining-why-ku">last December</a> was not "acting on his own behalf." (<a href="https://www.nbcnews.com/politics/white-house/putin-rival-ties-kushner-meeting-kremlin-bankers-n811631">NBC News</a>)</p>
 
 
@@ -88,11 +136,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/">October 17, 2017</a></small></div>
 <p><strong>The Senate Intelligence Committee subpoenaed Carter Page</strong> as part of its investigation into Russia meddling in the 2016 election. Page previously said he <a href="https://whatthefuckjusthappenedtoday.com/2017/10/10/day-264/#6-carter-page-told-the-senate-intell">would not cooperate</a> and would invoke his Fifth Amendment rights and refuse to answer questions. (<a href="https://www.nbcnews.com/politics/congress/senate-subpoenas-former-trump-adviser-carter-page-n811551">NBC News</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/">October 17, 2017</a></small></div>
-<p><strong>The Senate Intelligence Committee has requested documents and testimony from Michael Flynn's son</strong>. They have not received a response yet. Michael G. Flynn was involved in the day-to-day operations of Flynn Intel Group and served as his father's chief of staff. The committee could issue a subpoena if he doesn’t comply, but he would likely assert his right against self-incrimination under the Fifth Amendment. The younger Flynn is also the subject of Robert Mueller's criminal and counterintelligence investigation. (<a href="https://www.nbcnews.com/politics/national-security/russia-probe-senate-asks-mike-flynn-s-son-documents-testimony-n811226">NBC News</a>)</p>
 
 
 
@@ -326,11 +369,6 @@ redirect_from: "/russia/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/26/day-250/">September 26, 2017</a></small></div>
-<p><strong>The IRS Criminal Investigation division is sharing information with Robert Mueller about Trump's campaign associates</strong>, including Paul Manafort and Michael Flynn. IRS agents had been working before the election with the FBI to investigate Manafort in a similar probe that centered on possible money laundering and tax fraud issues. It's unclear if the special counsel has asked for or has obtained Trump's tax returns. (<a href="http://www.cnn.com/2017/09/26/politics/special-counsel-irs-russia-probe-information-sharing/">CNN</a>)</p>
-
-
-
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/25/day-249/">September 25, 2017</a></small></div>
 <p><strong>Homeland Security notified 21 states that they had been targeted by Russian government hackers</strong> during the 2016 election campaign. Hackers penetrated computer systems in a handful of states, but there is no evidence that hackers tampered with voting machines. DHS left it to individual states to decide whether to publicly acknowledge if they had been targeted, but officials confirmed that Alabama, Colorado, Connecticut, Iowa, Maryland, Minnesota, Ohio, Oklahoma, Pennsylvania, Virginia, Wisconsin and Washington were among the states targeted. (<a href="https://www.washingtonpost.com/world/national-security/dhs-tells-states-about-russian-hacking-during-2016-election/2017/09/22/fd263a2c-9fe2-11e7-8ea1-ed975285475e_story.html">Washington Post</a>)</p>
 
@@ -351,11 +389,6 @@ redirect_from: "/russia/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/22/day-246/">September 22, 2017</a></small></div>
-<p><strong>Mueller requested phone records related to the statement coordinated aboard Air Force One about the Trump Tower meeting organized by Donald Trump Jr.</strong> Mueller also seeks documents related to a May 3 press briefing in which Sean Spicer claimed Trump had full confidence in James Comey. (Comey was fired on May 9.) (<a href="http://www.politico.com/story/2017/09/21/robert-mueller-trump-russians-air-force-one-statement-242984">Politico</a>)</p>
-
-
-
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/21/day-245/">September 21, 2017</a></small></div>
 <p><strong>Writing through an intermediary, Paul Manafort offered to give private briefings to a Russian billionaire during the 2016 campaign</strong>. Oleg Deripaska is an aluminum magnate and former business associate of Manafort's with close ties to the Kremlin. It is unclear if Deripaska received or acted on the offer. (<a href="https://www.washingtonpost.com/politics/manafort-offered-to-give-russian-billionaire-private-briefings-on-2016-campaign/2017/09/20/399bba1a-9d48-11e7-8ea1-ed975285475e_story.html">Washington Post</a>)</p>
 
@@ -366,16 +399,6 @@ redirect_from: "/russia/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/21/day-245/">September 21, 2017</a></small></div>
-<p><strong>The Department of Justice is seeking documents related to a New York law firm's handling of a 2012 draft report commissioned by Manafort</strong> on Viktor Yanukovych, the former president of Ukraine. Skadden, Arps, Slate, Meagher &amp; Flom's report was used by the president's allies to justify the imprisonment of a Yanukovych rival. The document request may or may not be part of special counsel Robert Mueller's probe. (<a href="https://www.nytimes.com/2017/09/21/us/politics/law-firm-faces-questions-for-ukraine-work-with-manafort.html">New York Times</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/20/day-244/">September 20, 2017</a></small></div>
-<p><strong>Special counsel Robert Mueller sent a document to the White House requesting details on Trump's behavior in office</strong>. The request encompasses Trump's Oval Office meeting with Sergey Lavrov and Sergey Kislyak the day after the firing of James Comey, as well as documents concerning the firing of Mike Flynn and the administration's response to news of the 2016 Trump Tower meeting organized by Donald Trump Jr. (<a href="https://www.nytimes.com/2017/09/20/us/politics/mueller-trump-russia.html">New York Times</a>)</p>
-
-
-
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/20/day-244/">September 20, 2017</a></small></div>
 <p><strong>Mueller interviewed Deputy Attorney General Rod Rosenstein about the Comey firing</strong>. The interview occurred in June or July. Since Jeff Sessions recused himself from the investigation, Rosenstein is ultimately in charge of overseeing the Russia probe. (<a href="https://www.wsj.com/articles/special-counsels-office-interviewed-deputy-attorney-general-rod-rosenstein-1505868289">Wall Street Journal</a>)</p>
 
@@ -383,11 +406,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/19/day-243/">September 19, 2017</a></small></div>
 <p><strong>Paul Manafort was wiretapped following an FBI investigation in 2014, and the surveillance continued through this year (albeit interrupted)</strong>. A Foreign Intelligence Surveillance Act (FISA) warrant was originally granted for Manafort's work for the former Ukrainian government and later discontinued due to lack of evidence. A second FISA warrant—concerning the Russia investigation—was obtained at some point last year. The details of the recorded communications have been provided to special counsel Robert Mueller. (<a href="http://www.cnn.com/2017/09/18/politics/paul-manafort-government-wiretapped-fisa-russians/index.html">CNN</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/19/day-243/">September 19, 2017</a></small></div>
-<p><strong>Federal agents raided Manafort's Virginia home in July, and Mueller's prosecutors told Manafort they planned to indict him</strong>. Agents picked Manafort's lock, took binders and copied computer files, and photographed his belongings. The scope of the investigation also includes questions of money-laundering and foreign lobbying. Mueller's team has subpoenaed several Manafort associates. (<a href="https://www.nytimes.com/2017/09/18/us/politics/mueller-russia-investigation.html">New York Times</a>)</p>
 
 
 
@@ -446,11 +464,6 @@ redirect_from: "/russia/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/13/day-237/">September 13, 2017</a></small></div>
-<p><strong>The Department of Justice is blocking the Senate judiciary committee from interviewing two FBI officials over the firing of James Comey</strong>. DOJ cited the appointment of Mueller and "related matters" as the reasoning behind their stonewalling of Senate investigators. (<a href="http://www.cnn.com/2017/09/13/politics/fbi-official-interview-request-denied-justice-department/index.html">CNN</a>)</p>
-
-
-
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/12/day-236/">September 12, 2017</a></small></div>
 <p><strong>Earlier this summer, a handful of Trump lawyers believed Jared Kushner should step down due to legal complications arising from the Russia probe</strong>. After internal debate, the suggestion was ultimately dismissed as one of several efforts "focused on sabotaging" Kushner, who had several interactions with Russia during the 2016 campaign and transition. (<a href="https://www.wsj.com/articles/some-trump-lawyers-wanted-kushner-out-1505175772">Wall Street Journal</a> / <a href="https://www.washingtonpost.com/politics/trumps-legal-team-debated-whether-kushner-should-leave-white-house/2017/09/12/a3324764-9767-11e7-87fc-c3f7ee4035c9_story.html">Washington Post</a>)</p>
 
@@ -463,11 +476,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/11/day-235/">September 11, 2017</a></small></div>
 <p><strong>The FBI is investigating whether Russian news agency Sputnik has violated the Foreign Agents Registration Act</strong>. The law bars organizations from acting as undeclared governmental propaganda arms. The FBI has obtained several thousand internal Sputnik documents and emails and has interviewed a former White House correspondent who was fired in May. It is unclear whether or not the investigation falls under Mueller's broader efforts. (<a href="https://www.yahoo.com/amphtml/news/sputnik-russian-news-agency-investigation-fbi-090024231.html">Yahoo News</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/11/day-235/">September 11, 2017</a></small></div>
-<p><strong>Trump's lawyer has hired a lawyer to advise him in the Mueller investigation</strong>. Mueller is seeking to question both White House Counsel Don McGahn and former Chief of Staff Reince Priebus. Priebus has retained the same lawyer. (<a href="https://www.law360.com/articles/937051/exclusive-priebus-mcgahn-hire-quinn-emanuel-in-mueller-probe">Law360</a> / <a href="http://www.businessinsider.com/priebus-mcgahn-lawyer-mueller-trump-investigation-2017-9">Business Insider</a>)</p>
 
 
 
@@ -501,28 +509,8 @@ redirect_from: "/russia/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/05/day-229/">September 05, 2017</a></small></div>
-<p><strong>The House and Senate intelligence committees are expected to conduct closed-door interviews with Michael Cohen, Paul Manafort and Trump Jr. in the coming weeks</strong> now that Congress has returned from the August recess. The two panels could possibly hold public hearings this fall. In addition, Trump Jr. is set to appear before the Senate Judiciary Committee. The three committees are competing for information and witnesses with little coordination between them and Mueller's investigation, leading to conflicts over how they can share information. (<a href="http://www.politico.com/story/2017/09/04/trump-russia-investigations-congress-242256">Politico</a> / <a href="http://www.cnn.com/2017/09/05/politics/russia-mueller-hill/index.html">CNN</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/01/day-225/">September 01, 2017</a></small></div>
-<p><strong>Robert Mueller has a draft of a letter outlining Trump's reasons for wanting to fire James Comey.</strong> The letter was blocked by White House counsel, who believed its contents were problematic. A different letter was ultimately sent, written by Deputy Attorney General Rod Rosenstein, focusing on Comey’s handling of the investigation into Hillary Clinton’s private email server. (<a href="https://www.nytimes.com/2017/09/01/us/politics/trump-comey-firing-letter.html">New York Times</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/01/day-225/">September 01, 2017</a></small></div>
-<p><strong>Mueller has teamed up with the IRS’ Criminal Investigations unit</strong>, which focuses exclusively on financial crime, including tax evasion and money laundering. If Mueller wants to bring charges against Trump associates over tax violations, he will need approval from the Justice Department’s Tax Division. Trump hasn’t nominated anybody to run the division, yet. (<a href="http://www.thedailybeast.com/exclusive-mueller-enlists-the-irs-for-his-trump-russia-investigation">The Daily Beast</a>)</p>
-
-
-
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/01/day-225/">September 01, 2017</a></small></div>
 <p><strong>Black smoke was seen pouring from the Russian consulate in San Francisco</strong>. Yesterday, the Trump administration <a href="https://whatthefuckjusthappenedtoday.com/2017/08/31/day-224/#6-the-state-department-ordered-russi">ordered Russia to close the consulate</a> after the Kremlin cut American diplomatic and technical staff in Russia. (<a href="https://www.apnews.com/9549026d1ed946e98d5119c785f2a388">Associated Press</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/31/day-224/">August 31, 2017</a></small></div>
-<p><strong>Robert Mueller and the New York attorney general have teamed up to investigate Paul Manafort and his financial transactions</strong>. Mueller and Eric Schneiderman have been sharing evidence on potential financial crimes, including potential money laundering, as well as attempting to get Manafort to cooperate by approaching his family members and former business partners. Several firms and people who have worked with him have received subpoenas. Mueller working with New York state is important because Trump's pardon power does not extend to state crimes. If Manafort or anyone else is charged under New York law, there will be nothing Trump can do about it. (<a href="http://www.politico.com/story/2017/08/30/manafort-mueller-probe-attorney-general-242191">Politico</a> / <a href="https://www.washingtonpost.com/news/morning-mix/wp/2017/08/31/trump-and-manafort-get-big-reminder-that-pardon-power-does-not-extend-to-state-crimes/">Washington Post</a>)</p>
 
 
 
@@ -538,11 +526,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/31/day-224/">August 31, 2017</a></small></div>
 <p><strong>Trump's lawyer "vehemently" denied working with Russia to disrupt the election</strong>. Michael Cohen gave Congress a point-by-point rebuttal of the 35-page dossier compiled by retired British spy Christopher Steele, which alleges he has deep ties to Russian officials. Cohen denied the dossier's claims, including that he had secret meetings in Prague with a Russian official last summer. (<a href="https://www.nytimes.com/2017/08/30/us/politics/trump-russia-michael-cohen.html?_r=0">New York Times</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/31/day-224/">August 31, 2017</a></small></div>
-<p><strong>Trump's outside legal team submitted memos to Mueller arguing that Trump didn’t obstruct justice when he fired James Comey</strong> and called into question Comey’s reliability as a potential witness. Trump's attorneys hope the memos will end Mueller's obstruction of justice investigation. (<a href="https://www.wsj.com/articles/trump-attorneys-lay-out-arguments-against-obstruction-of-justice-probe-to-mueller-1504207495">Wall Street Journal</a>)</p>
 
 
 
@@ -588,6 +571,11 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/28/day-221/">August 28, 2017</a></small></div>
 <p><strong>Trump's business associate promised that Putin would help Trump win the presidency if he built a Trump Tower in Moscow</strong>. “I will get Putin on this program and we will get Donald elected,” Felix Sater, a Russian immigrant, wrote to Trump’s lawyer, Michael Cohen, in 2015. “Our boy can become president of the USA and we can engineer it,” Sater wrote in an email. “I will get all of Putins team to buy in on this, I will manage this process.” At the time, Sater was a broker for the Trump Organization and was paid to deliver real estate deals. (<a href="https://www.nytimes.com/2017/08/28/us/politics/trump-tower-putin-felix-sater.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/28/day-221/">August 28, 2017</a></small></div>
+<p><strong>Trump discussed a proposal to build a Trump Tower in Moscow with his company’s lawyer three times</strong>. The project was abandoned in January 2016 “from solely a business standpoint” and had nothing to do with Trump’s campaign his attorney Michael Cohen told the House intelligence committee. "I made the decision to terminate further work on the proposal," Cohen said. “The Trump Tower Moscow proposal was not related in any way to Mr. Trump’s presidential campaign.” (<a href="https://www.bloomberg.com/news/articles/2017-08-28/lawyer-says-he-discussed-moscow-tower-plan-with-trump-3-times">Bloomberg</a>)</p>
 
 
 
@@ -672,11 +660,6 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/14/day-207/">August 14, 2017</a></small></div>
-<p><strong>Special Counsel Bob Mueller wants to interview Reince Priebus</strong>. Mueller has been talking with the West Wing about interviewing other current and former senior administration officials about specific meetings, who attended them and whether there are any notes, transcripts or documents about them. Mueller also wants to ask the officials about Trump’s decision to fire James Comey. (<a href="https://www.nytimes.com/2017/08/12/us/politics/mueller-trump-russia-priebus.html">New York Times</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/14/day-207/">August 14, 2017</a></small></div>
 <p><strong>A junior Trump campaign adviser repeatedly tried to setup a meeting with Putin</strong>. Starting in March 2016, George Papadopoulos sent at least a half-dozen emails to Trump campaign leadership to set up “a meeting between us and the Russian leadership to discuss US-Russia ties under President Trump.” He said that his Russian contacts welcomed the opportunity and that he was receiving “a lot of calls over the past month” about arranging a meeting. “Putin wants to host the Trump team when the time is right,” he wrote. Intelligence officials said the messages may have represented a Russian campaign to use lower-level aides to penetrate the 2016 campaign and see if the Trump campaign would be willing to cooperate. (<a href="https://www.washingtonpost.com/politics/trump-campaign-emails-show-aides-repeated-efforts-to-set-up-russia-meetings/2017/08/14/54d08da6-7dc2-11e7-83c7-5bd5460f0d7e_story.html">Washington Post</a>)</p>
 
 
@@ -688,11 +671,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/11/day-204/">August 11, 2017</a></small></div>
 <p><strong>Congressional investigators want to question Trump’s personal secretary</strong> as part of their ongoing probe into the meeting between Trump Jr. and the Russian lawyer. Rhona Graff worked at Trump Tower for nearly 30 years. Graff's name was mentioned in the June 2016 email exchange between publicist Rob Goldstone and Trump Jr. leading up to the meeting with Russian attorney Natalia Veselnitskaya at Trump Tower. “Since her name is in the email, people will want her to answer questions,” said Peter King, a member of the House Intelligence Committee. (<a href="http://abcnews.go.com/Politics/trumps-longtime-secretary-scrutinized-russia-investigators/story?id=49146540">ABC News</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/11/day-204/">August 11, 2017</a></small></div>
-<p><strong>Trump said he has no plans to fire Robert Mueller</strong>, despite people close to him telling reporters the opposite. "I haven't given it any thought," Trump said. "I've been reading about it from you people. You say, 'Oh, I'm going to dismiss him.' No, I'm not dismissing anybody." (<a href="http://www.cnn.com/2017/08/10/politics/donald-trump-robert-mueller/index.html">CNN</a>)</p>
 
 
 
@@ -737,21 +715,6 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/07/day-200/">August 07, 2017</a></small></div>
-<p><strong>Robert Mueller asked the White House for documents related to Michael Flynn</strong> and whether he was secretly paid by the Turkish government during the presidential campaign. Flynn's consulting business was paid $530,000 to discredit an opponent of the Turkish government. Investigators want to know if the Turkish government was behind those payments. Meanwhile, Mueller is investigating whether Trump committed obstruction of justice by pressing James Comey to end the Flynn inquiry. (<a href="https://www.nytimes.com/2017/08/04/us/politics/robert-mueller-michael-flynn-turkey.html">New York Times</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/07/day-200/">August 07, 2017</a></small></div>
-<p><strong>Kellyanne Conway refused to say if Trump has ruled out firing Mueller</strong> while appearing on ABC’s This Week. “He’s not discussed firing Bob Mueller,” Conway said. "He is not discussing that." Four senators have introduced legislation to protect Mueller. (<a href="https://www.theguardian.com/us-news/2017/aug/06/donald-trump-robert-mueller-russia-kellyanne-conway">The Guardian</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/07/day-200/">August 07, 2017</a></small></div>
-<p><strong>Rod Rosenstein said Mueller can investigate any crimes he discovers within the scope of his probe</strong>. Trump has said it would be inappropriate for Mueller to <a href="https://whatthefuckjusthappenedtoday.com/2017/07/20/day-182/#1-trump-would-have-never-hired-jeff">dig into his family's finances</a>, dismissing the probe as <a href="https://whatthefuckjusthappenedtoday.com/2017/08/04/day-197/#2-trump-used-a-campaign-style-rally">“a total fabrication.”</a> The Deputy Attorney General added that "the president has not directed us to investigate particular people," in reference to Trump’s recent comment that prosecutors should be <a href="https://whatthefuckjusthappenedtoday.com/2017/07/25/day-187/#3-trump-ripped-jeff-sessions-on-twit">investigating Hillary Clinton’s deleted emails</a>. Democrats and some Republicans are concerned that Trump is looking for ways to undermine the investigation. (<a href="https://www.washingtonpost.com/powerpost/rosenstein-special-counsel-mueller-can-investigate-any-crimes-he-uncovers-in-russia-probe/2017/08/06/2209365a-7aae-11e7-83c7-5bd5460f0d7e_story.html">Washington Post</a> / <a href="http://thehill.com/homenews/administration/345528-rosenstein-trump-has-not-directed-us-to-investigate-particular-people">The Hill</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/07/day-200/">August 07, 2017</a></small></div>
 <p><strong>Trump called Richard Blumenthal “a phony Vietnam con artist"</strong> after the Democratic senator appeared on CNN to discuss the crackdown on leaks, sanctions on North Korea, and what he called "potential collusion" between the Trump campaign and Russia. Blumenthal was criticized during his Senate campaign for saying he had “served” in Vietnam, even though he did his full Marine service in the US. Trump, meanwhile, skirted Vietnam altogether due to <a href="https://www.nytimes.com/2016/08/02/us/politics/donald-trump-draft-record.html">bad feet</a>. Blumenthal responded on Twitter that Trump's "bullying" won't be effective. (<a href="https://www.washingtonpost.com/news/post-politics/wp/2017/08/07/trump-renews-attack-on-democratic-senator-calling-him-a-vietnam-con-artist-on-twitter/">Washington Post</a> / <a href="https://www.usatoday.com/story/news/politics/onpolitics/2017/08/07/donald-trump-attacks-richard-blumenthal-over-vietnam-service/544457001/">USA Today</a> / <a href="http://www.cbsnews.com/news/richard-blumenthal-responds-to-trumps-tweets-about-russian-collusion-and-vietnam/">CBS News</a>)</p>
 
 
@@ -771,11 +734,6 @@ redirect_from: "/russia/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/04/day-197/">August 04, 2017</a></small></div>
-<p>poll/ <strong>44% of Americans in battleground districts would strongly oppose Trump firing special counsel Mueller</strong>. (<a href="https://www.usatoday.com/story/news/politics/2017/08/04/poll-americans-swing-districts-oppose-trump-firing-robert-mueller/538793001/">USA Today</a>)</p>
-
-
-
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/03/day-196/">August 03, 2017</a></small></div>
 <p><strong>Special Counsel Robert Mueller has launched a grand jury to investigate Russia’s interference</strong> in the 2016 elections and whether Trump or any of his team colluded during the campaign. A grand jury will allow prosecutors to subpoena documents, put witnesses under oath and seek indictments, if there is evidence of a crime. The decision to impanel a grand jury suggests he believes he will need to subpoena records and take testimony from witnesses. Trump has denied any collusion with Russia, calling the investigation a "witch hunt." (<a href="https://www.wsj.com/articles/special-counsel-mueller-impanels-washington-grand-jury-in-russia-probe-1501788287">Wall Street Journal</a> / <a href="http://www.cnn.com/2017/08/03/politics/mueller-grand-jury/">CNN</a>)</p>
 
@@ -788,11 +746,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/03/day-196/">August 03, 2017</a></small></div>
 <p><strong>Top FBI officials could be asked to testify against Trump</strong>. Acting FBI Director Andrew McCabe told the highest-ranking members of the bureau that they should consider themselves possible witnesses in any investigation into whether Trump obstructed justice. McCabe acknowledged that he's also a potential witness in the probe, as well as the investigation into whether Team Trump colluded with the Russians. (<a href="https://www.vox.com/policy-and-politics/2017/8/3/16084246/mueller-obstruction-case-stronger-trump-surrogates">Vox</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/03/day-196/">August 03, 2017</a></small></div>
-<p><strong>The Senate Judiciary Committee is introducing a bipartisan bill to protect Robert Mueller</strong> and ensure the integrity of independent investigations. The bill would allow any special counsel for the Department of Justice to challenge their removal in court, with a review by a three-judge panel within 14 days of the challenge. Lindsey Graham said that he was working on a similar bill that would prevent the firing of a special counsel without judicial review. (<a href="http://www.cbsnews.com/news/robert-muellers-special-counsel-job-would-be-protected-by-bipartisan-senate-bill/">CBS News</a>)</p>
 
 
 
@@ -832,11 +785,6 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/01/day-194/">August 01, 2017</a></small></div>
-<p><strong>A GOP House member called on special counsel Robert Mueller to resign</strong>, saying he has a “conflict of interest” since Comey was the deputy attorney general in 2003 when Mueller served as the FBI director. Trent Franks is attempting to cast Mueller and Comey as “longtime allies" who is "in clear violation of the law." (<a href="http://thehill.com/homenews/house/344711-gop-house-member-calls-on-mueller-to-resign">The Hill</a> / <a href="https://www.washingtonpost.com/news/powerpost/wp/2017/08/01/another-conservative-house-republican-calls-on-mueller-to-resign/">Washington Post</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/01/day-194/">August 01, 2017</a></small></div>
 <p><strong>Jared Kushner told congressional interns that Trump’s election team was too disorganized to collude with Russia</strong>. “They thought we colluded, but we couldn’t even collude with our local offices,” Kushner said, adding: “I’m a lot more comfortable talking to you guys today ’cause there isn’t any press." (<a href="http://foreignpolicy.com/2017/07/31/kusher-to-interns-trump-team-too-disorganized-to-collude-with-russia/">Foreign Policy</a> / <a href="https://www.wired.com/story/jared-kushner-middle-east/">WIRED</a>)</p>
 
 
@@ -867,11 +815,6 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/27/day-189/">July 27, 2017</a></small></div>
-<p><strong>Lindsey Graham will introduce a bill next week that curtails Trump's power to fire Special Counsel Robert Mueller</strong> without first getting approval from a federal judge. “We need a check and balance here,” Graham said. "A special counsel cannot be fired when they were impaneled to investigate the president or his team unless you have judicial review of the firing." Trump could veto the legislation, which could be overturned by two-thirds of the House and Senate. (<a href="https://www.wsj.com/articles/top-republican-says-hes-writing-bill-to-protect-special-counsel-probe-1501174871">Wall Street Journal</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/27/day-189/">July 27, 2017</a></small></div>
 <p><strong>The Senate approved sanctions against Russia, forcing Trump to decide whether to veto the bill</strong> or accept the tougher line against Moscow. The administration has said that Trump may veto the bill, despite there being veto-proof majorities in both the Senate and House. The Senate voted 98-2 to pass the bill two days after the House passed it 419-3. (<a href="https://www.washingtonpost.com/powerpost/trump-may-veto-russia-sanctions-bill-that-seeks-to-restrain-his-power/2017/07/27/0e9f5e8c-72ca-11e7-8f39-eeb7d3a2d304_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2017/07/27/us/politics/senate-russia-sanctions-trump.html">New York Times</a> / <a href="https://www.reuters.com/article/us-usa-trump-russia-sanctions-idUSKBN1AC1U8">Reuters</a>)</p>
 
 
@@ -883,11 +826,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/26/day-188/">July 26, 2017</a></small></div>
 <p><strong>Russia threatened to retaliate against the new sanctions, warning of a "painful" response</strong> and saying the sanctions make it impossible to achieve Trump's goal of improved Russian relations. Russia has reportedly prepared “economic and political measures that will be adopted if the Senate and Trump support the bill." (<a href="https://www.bloomberg.com/news/articles/2017-07-26/russia-says-new-u-s-sanctions-killing-chances-for-improved-ties">Bloomberg</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/25/day-187/">July 25, 2017</a></small></div>
-<p><strong>Later in the day, Trump added that he is "very disappointed in Jeff Sessions" but won’t say if he'll fire him</strong>. Trump has previously discussed replacing Jeff Sessions in a move viewed by some of Trump's advisors as part of a strategy for firing special counsel Robert Mueller in order to end his investigation into the campaign's efforts to coordinate with the Kremlin to influence the 2016 election. Sessions recently asked White House staff how he could patch up relations with Trump, but that went nowhere. Instead, Trump floated longtime ally Rudy Giuliani as a possible replacement for Sessions. (<a href="https://www.wsj.com/articles/trump-wont-say-if-he-will-fire-attorney-general-sessions-1501010025">Wall Street Journal</a> / <a href="https://www.washingtonpost.com/world/national-security/trump-leaves-sessions-twisting-in-the-wind-while-berating-him-publicly/2017/07/24/ce3bf142-708b-11e7-9eac-d56bd5568db8_story.html">Washington Post</a> / <a href="https://www.apnews.com/966ae4f389064b2b90d84b03d260730e/AP-sources:-Trump-speaks-to-advisers-about-firing-Sessions">Associated Press</a>)</p>
 
 
 
@@ -1027,12 +965,12 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/20/day-182/">July 20, 2017</a></small></div>
-<p><strong>Mueller is investigating Manafort for possible money laundering</strong>. The inquiry began several weeks ago and looks at how Manafort spent and borrowed tens of millions of dollars in connection with properties in the US over the past decade. The Senate and House intelligence committees also are probing possible money laundering by Manafort. (<a href="https://www.wsj.com/articles/special-counsel-investigating-possible-money-laundering-by-paul-manafort-1500587532">Wall Street Journal</a>)</p>
+<p><strong>Trump’s embrace of Russia places him at odds with his national security and foreign policy advisers</strong>. "Deep divisions" are growing in the White House on the best way to approach Moscow. Foreign officials have said Trump and his team have sent “mixed signals” with regards to their Russia policy, leaving diplomats and intelligence officials “dumbfounded” by Trump's approach. (<a href="https://apnews.com/4b4b7e380f204b45a8c3055a5d45255e/Trump's-embrace-of-Russia-making-top-advisers-wary">Associated Press</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/20/day-182/">July 20, 2017</a></small></div>
-<p><strong>Trump’s embrace of Russia places him at odds with his national security and foreign policy advisers</strong>. "Deep divisions" are growing in the White House on the best way to approach Moscow. Foreign officials have said Trump and his team have sent “mixed signals” with regards to their Russia policy, leaving diplomats and intelligence officials “dumbfounded” by Trump's approach. (<a href="https://apnews.com/4b4b7e380f204b45a8c3055a5d45255e/Trump's-embrace-of-Russia-making-top-advisers-wary">Associated Press</a>)</p>
+<p><strong>Trump ended a covert CIA program to arm anti-Assad rebels in Syria, a move sought by Moscow</strong>. Closing the program is an acknowledgment of Trump's limited leverage and desire to remove Assad from power. (<a href="https://www.washingtonpost.com/world/national-security/trump-ends-covert-cia-program-to-arm-anti-assad-rebels-in-syria-a-move-sought-by-moscow/2017/07/19/b6821a62-6beb-11e7-96ab-5f38140b38cc_story.html">Washington Post</a>)</p>
 
 
 
@@ -1352,11 +1290,6 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/28/Day-160/">June 28, 2017</a></small></div>
-<p><strong>Trump’s lawyer postponed filing a complaint about Comey and his memos</strong> in what Trump considered to be an illegal “leak." Marc Kasowitz, however, still intends to file the complaint with the Justice Department. He has delayed it as a courtesy to Robert Mueller and his investigation, which Trump has repeatedly called a "witch hunt." Trump has also refrained from publicly criticizing the special counsel lately as part of his legal team’s approach to reducing further confrontation. (<a href="https://www.bloomberg.com/news/articles/2017-06-28/trump-said-to-postpone-filing-complaint-about-comey-s-conduct">Bloomberg</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/28/Day-160/">June 28, 2017</a></small></div>
 <p><strong>Paul Manafort's consulting firm received more than $17 million from a pro-Russian Ukrainian political party</strong>. In Manafort's retroactive registration as a foreign agent, he indicated that he was retained by the Party of Regions to advise Ukrainian officials in their dealings with American government officials. The report makes Manafort the second former senior Trump adviser to disclose work for foreign interests. Michael Flynn was the other. (<a href="https://www.nytimes.com/2017/06/27/us/politics/trump-campaign-chiefs-firm-got-17-million-from-pro-russia-party.html">New York Times</a> / <a href="https://www.bloomberg.com/news/articles/2017-06-28/manafort-discloses-17-million-in-payments-for-ukrainian-work">Bloomberg</a> / <a href="https://www.washingtonpost.com/politics/former-trump-campaign-chairman-paul-manafort-files-as-foreign-agent-for-ukraine-work/2017/06/27/8322b6ac-5b7b-11e7-9fc6-c7ef4bc58d13_story.html">Washington Post</a>)</p>
 
 
@@ -1423,11 +1356,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/23/Day-155/">June 23, 2017</a></small></div>
 <p><strong>The director of national intelligence told House investigators that Trump seemed obsessed with the Russia probe</strong> and repeatedly asked him to publicly acknowledge there was no evidence of collusion. At a Senate hearing earlier this month, Dan Coats said Trump never  pressured him to do anything inappropriate, but refused to confirm or deny allegations that <a href="https://whatthefuckjusthappenedtoday.com/2017/06/07/Day-139/#1-two-intelligence-chiefs-repeatedly">Trump asked him to push back against the FBI probe</a> into collusion between the campaign and the Russian government. (<a href="http://www.nbcnews.com/news/us-news/coats-tells-house-investigators-president-trump-seemed-obsessed-russia-probe-n775756">NBC News</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/23/Day-155/">June 23, 2017</a></small></div>
-<p><strong>Trump: It's "bothersome" that Robert Mueller is "very, very good friends with Comey."</strong> He added that “there’s been no collusion, no obstruction, and virtually everybody agrees to that" and that Mueller's team of lawyers are "all Hillary Clinton supporters." (<a href="http://abcnews.go.com/Politics/trump-bothersome-special-counsel-robert-mueller-good-friends/story?id=48231152">ABC News</a>)</p>
 
 
 
@@ -1507,17 +1435,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/20/Day-152/">June 20, 2017</a></small></div>
-<p><strong>Robert Mueller adds a witness-flipping expert to his team</strong>. Andrew Weissmann is best known for gaining witness cooperation in the Enron investigation. He previously headed the  Justice Department's criminal fraud unit. (<a href="http://www.reuters.com/article/us-usa-trump-russia-lawyers-idUSKBN19A1CM">Reuters</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/20/Day-152/">June 20, 2017</a></small></div>
 <p><strong>Rex Tillerson has a three-point plan for future US-Russia relations</strong> in an effort to seek constructive working relationship with Putin on a limited set of issues. Step 1: Tell Moscow that aggressive actions against the US are a losing proposition. Step 2: Engage on issues that are of strategic interest to the US. Step 3: Emphasize the importance of "strategic stability" regarding geopolitical goals. (<a href="https://www.buzzfeed.com/johnhudson/this-is-the-trump-administrations-plan-for-dealing-with">BuzzFeed News</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/20/Day-152/">June 20, 2017</a></small></div>
-<p>poll/ <strong>81% of Americans don't want Trump to interfere with the Mueller probe</strong>. Trump's approval rating stands at 36%, his lowest in the CBS News Polls since becoming president. 57% percent now disapprove. (<a href="http://www.cbsnews.com/news/trumps-handling-of-russia-investigations-weighs-on-approval-ratings/">CBS News</a>)</p>
 
 
 
@@ -1578,11 +1496,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/15/Day-147/">June 15, 2017</a></small></div>
 <p><strong>Trump tweets: The reports of my "phony collusion with the Russians" have been greatly exaggerated</strong>. Trump's twitter tirade this morning essentially confirms yesterday's news that special counsel Robert Mueller is <a href="https://whatthefuckjusthappenedtoday.com/2017/06/14/Day-146/#1-robert-mueller%C2%A0is-now-investigatin">now investigating Trump for possible obstruction of justice</a>. Nevertheless, Trump persisted: "You are witnessing the single greatest WITCH HUNT in American political history". (<a href="http://www.cbsnews.com/news/trump-tweets-obstruction-of-justice-reports-are-phony/">CBS News</a> / <a href="https://www.nytimes.com/2017/06/15/us/politics/trump-obstruction-of-justice-reports.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/post-politics/wp/2017/06/15/on-twitter-trump-decries-obstruction-probe-related-to-phony-story/">Washington Post</a> / <a href="http://www.nydailynews.com/news/politics/dismissive-tweet-trump-confirm-obstruction-probe-article-1.3249477">New York Daily News</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/15/Day-147/">June 15, 2017</a></small></div>
-<p><strong>Aides blame Trump for the obstruction of justice probe: "The president did this to himself"</strong> and "shot himself in the foot again with this cockamamie scheme to get Mueller to play ball" by spreading rumors that Trump might fire the special counsel. Senators, White House aides, former prosecutors, and FBI veterans are urging Trump not to do it, as firing Mueller now would require him to personally direct the Department of Justice to do so, which "could be shown that his purpose was to impede the investigation" and "could be additional evidence of obstruction of justice." (<a href="http://www.thedailybeast.com/even-trumps-aides-blame-him-for-obstruction-probe-president-did-this-to-himself">The Daily Beast</a>)</p>
 
 
 
@@ -1673,16 +1586,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/08/Day-140/">June 08, 2017</a></small></div>
 <p><strong>Paul Ryan: Trump asking for Comey's loyalty is "obviously" inappropriate</strong> and it's clear that Russia meddled in the US election. "What we need to determine is not whether they did it – we know that. It's what did they do, how did they do it, how do we prevent it from happening again? And then how do we help our allies so that this doesn't happen to them?" (<a href="http://www.cnn.com/2017/06/07/politics/paul-ryan-james-comey-testimony-russia/index.html">CNN</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/08/Day-140/">June 08, 2017</a></small></div>
-<p><strong>Comey's testimony laid out the case that Trump obstructed justice</strong> and suggested senior leaders at the FBI might have contemplated the matter before Trump removed him as director. Whether justice was obstructed, Comey said, was a question for recently appointed special counsel Robert Mueller. (<a href="https://www.washingtonpost.com/world/national-security/james-b-comey-lays-out-the-case-that-president-trump-obstructed-justice/2017/06/08/e7f49a42-4c4d-11e7-bc1b-fddbd8359dee_story.html">Washington Post</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/08/Day-140/">June 08, 2017</a></small></div>
-<p><strong>Former Watergate special prosecutor: I helped prosecute Watergate. Comey’s statement is sufficient evidence for an obstruction of justice case.</strong> The ball is in Bob Mueller’s court to decide whether he has enough evidence to charge Trump with obstruction and, if so, whether to reach the same conclusion that I reached in the Nixon investigation — that, like everyone else in our system, a president is accountable for committing a federal crime. (<a href="https://www.washingtonpost.com/opinions/former-watergate-prosecutor-comey-lays-out-sufficient-evidence-for-an-obstruction-of-justice-case/2017/06/07/a12964a4-4be3-11e7-9669-250d0b15f83b_story.html">Washington Post</a>)</p>
 
 
 
@@ -2352,6 +2255,11 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/13/Day-84/">April 13, 2017</a></small></div>
+<p><strong>Assad called the alleged chemical attack a "100 percent fabrication" in order to justify a US military strike</strong>. He denied any use of chemical weapons. Moscow said the deaths where the result of a conventional strike hitting a rebel arms depot containing "toxic substances". (<a href="https://www.afp.com/en/news/23/syrias-assad-says-chemical-attack-100-percent-fabrication" target="_blank">Agence France Presse</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/13/Day-84/">April 13, 2017</a></small></div>
 <p><strong>On the same day that Paul Manafort left Trump’s campaign he borrowed $13 million from Trump-connected businesses</strong>. Manafort’s ties to Ukraine and Russia have come under scrutiny as federal officials investigate Russian meddling in the American presidential election. (<a href="https://www.nytimes.com/2017/04/12/us/politics/paul-manafort-donald-trump.html" target="_blank">New York Times</a>)</p>
 
 
@@ -2996,6 +2904,11 @@ redirect_from: "/russia/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/12/Day-24/">February 12, 2017</a></small></div>
+<p><strong>The spy revolt against Trump begins</strong>. Fears that the White House is too friendly to Moscow is causing close allies to curtail some of their espionage relationships with Washington. The  development has grave implications for international security, especially for counterterrorism. (<a href="http://observer.com/2017/02/donald-trump-administration-mike-flynn-russian-embassy/" target="_blank">Observer</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/10/Day-22/">February 10, 2017</a></small></div>
 <p><strong>US investigators corroborate some aspects of the Russia dossier</strong> compiled by a former British intelligence agent. None of the newly learned information relates to the salacious allegations in the dossier. The intercepts do confirm that some of the conversations described in the dossier took place between the same individuals on the same days and from the same locations as detailed in the dossier. (<a href="http://www.cnn.com/2017/02/10/politics/russia-dossier-update/index.html" target="_blank">CNN</a>)</p>
 
@@ -3043,3 +2956,4 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/">February 02, 2017</a></small></div>
 <p><strong>Shouting match over Russia erupts at House hearing over Russian interference in the presidential election.</strong> Th fight exposed bitter frustration amongst Democrats that Republicans have kept the issue locked in a single committee. (<a href="http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation">The Hill</a>)</p>
+

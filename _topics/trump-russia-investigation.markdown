@@ -10,7 +10,6 @@ seo:
 redirect_from: "/russia/"
 ---
 
-
 <p class="lead">Here's what we know so far about the Russia investigation into election meddling, collusion with the Trump campaign, Special Counsel Robert Mueller's investigation, and more.</p>
 
 <ol>

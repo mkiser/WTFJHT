@@ -9,7 +9,6 @@ seo:
 redirect_from: "/health-care/"
 ---
 
-
 <p class="lead">Here's where we stand with Trump's efforts to repeal and replace the Affordable Care Act.</p>
 
 

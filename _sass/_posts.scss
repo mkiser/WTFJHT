@@ -31,6 +31,12 @@
     background-color: rgba(0, 147, 240, .03);
   }
 
+  ol {
+    li {
+      list-style: circle;
+    }
+  }
+  
   li {
     font-size: .8em;
     color: $gray-3;

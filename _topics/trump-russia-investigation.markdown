@@ -12,6 +12,7 @@ redirect_from: "/russia/"
 
 <p class="lead">Here's what we know so far about the Russia investigation into election meddling, collusion with the Trump campaign, Special Counsel Robert Mueller's investigation, and more.</p>
 
+<strong>Executive Summary:</strong>
 <ol>
 	<li>Robert Mueller charged Paul Manafort and his associate Rick Gates with conspiracy to launder more than $18 million and making false statements to the Justice Department.</li>
 	<li>The White House missed its deadline to impose new sanctions on Russia.</li>

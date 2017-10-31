@@ -9,7 +9,20 @@ seo:
 redirect_from: "/epa/"
 ---
 
-<p class="lead">Here's what we know so far about Trump's efforts to dismantle the EPA.</p>
+<p class="lead">On February 17th, the Senate confirmed Scott Pruitt as the head of the EPA. In his former role as the Oklahoma Attorney General, Pruitt sued the EPA on a baker’s dozen occasions. He's stated that he believes that greenhouse gasses and humans role in the Earth’s changing climate remain “unclear.” Under Pruitt, the EPA has cut budgets, been reticence on enforcing environmental laws, and the EPA’s Office of Science and Technology removed the word “science” from its mission statement.
+</p>
+
+
+<strong>Executive Summary:</strong>
+<ol>
+	<li>The Keystone XL pipeline was approved.</li>
+	<li>Although not Pruitt’s decision, he recommended that the US pull out of the Paris Climate Agreement, which Trump did.</li>
+	<li>The EPA announced the repeal of the Clean Air Act, which was devised to shut down polluting coal-fired power plants, and freeze construction of new coal plants while replacing them with wind and solar farms.</li>
+	<li>The EPA removed climate change resources from its website that local governments used to address climate change, curb emissions, and devise strategies for adapting to weather extremes. An EPA spokesman said the resources are available by searching through the agency’s archive.</li>
+	<li>Pruitt’s security detail added a dozen more agents as the number of threats against the EPA head has increased “four to five times.” Pruitt also purchased a secure soundproof communications booth for his office at a cost of nearly $25,000, even though similar rooms already exist at the EPA.</li>
+	<li>The EPA blocked three agency scientists from discussing climate change at a conference. The scientists contributed substantial material to a 400-page report about how climate change is affecting air and water temperatures, precipitation, sea level and fish in and around the Narragansett Bay estuary.</li>
+</ol>
+
 
 
 <hr>

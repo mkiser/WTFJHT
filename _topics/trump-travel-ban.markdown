@@ -9,7 +9,14 @@ seo:
 redirect_from: "/travel-ban/"
 ---
 
-<p class="lead">Here's where we stand with Trump's travel ban.</p>
+<p class="lead">During the campaign, Trump called for "a total and complete shutdown of Muslims entering the US." His attempts at making good on this promise have been stymied by the Judicial system. His administration has issued three different travel bans to date.</p> 
+
+<strong>Executive Summary:</strong>
+<ol>
+	<li>Seven days after inauguration Travel Ban 1.0 was issued, which targeted seven Muslim-majority countries. The administration gave no notice about the ban, which led to confusion and mass protests at airports across the country. Multiple federal judges blocked the order, even after the administration tweaked it.</li>
+	<li>On March 6th, the Trump administration unveiled Travel Ban 2.0, which banned travel from six countries for a 90-day period, exempted permanent residents and visa holders, but kept a 120-day ban on a Syrian refugees. Once again, multiple federal judges blocked the order. The administration, however, appealed all the way to the Supreme Court, which allowed parts of the ban to go into effect until the hearing.</li>
+	<li>On September 24th, Travel Ban 3.0 was released: some countries removed, some were added, but the ban continued to focus on the Muslim-majority countries with the addition of Chad, a US ally. A judge in Hawaii blocked the ban just before it took effect.</li>
+</ol>
 
 
 

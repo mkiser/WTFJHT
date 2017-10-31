@@ -9,8 +9,14 @@ seo:
 redirect_from: "/fake-news/"
 ---
 
-<p class="lead">Trump, fake news, and the mainstream media. Here's what we know.</p>
+<p class="lead">Trump has a serious issue with something very simple: the truth. In addition, he considers any negative coverage him as "fake news." As he himself stated, he "really started this whole fake news thing."</p>
 
+<strong>Executive Summary:</strong>
+<ol>
+	<li>Trump has been in an ongoing spat with top GOP Senator, Bob Corker. Corker has called Trump “utterly untruthful” and said that the White House has become an "adult daycare."</li>
+	<li>Trump accused the widow of a solider who died during the attack in Niger and her Congresswoman, Frederica Wilson, of lying about his condolence phone call to her. He also said he called or wrote a letter to “virtually every family” of soldiers who have been killed since he took office – he hasn't.</li>
+	<li>Fake news, social media, and Russia’s role in disinformation during the election campaign has been a major focus of the Trump-Russia investigations.</li>
+</ol>
 
 <hr>
 

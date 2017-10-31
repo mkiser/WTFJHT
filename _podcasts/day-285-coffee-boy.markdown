@@ -1,5 +1,5 @@
 ---
-title: 'Day 285: Coffee boy.'
+title: 'Day 285: Covfefe boy.'
 date: 2017-10-31 14:15:00 -07:00
 file: "/uploads/Day-285-Coffee-boy-CTA2.mp3"
 post: Day 285

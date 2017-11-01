@@ -15,7 +15,7 @@ layout:
    <email>{{ site.author.email }}</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit:50 %}
  <entry>
    <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=morning_update"/>

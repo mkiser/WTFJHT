@@ -28,7 +28,8 @@ layout: default
     </div>
     <div>
       <small>
-        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Help improve this article</a> |  <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">See revision history</a>
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Help improve this article</a> |  <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">See revision history</a> | <i class="fa fa-user" aria-hidden="true"></i>
+ {% if page.contributors == 1 %}{{ page.contributors }} contributor{% else %}{{ page.contributors }} contributors{% endif %}
       </small>
     </div>
   </div>

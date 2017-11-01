@@ -1,0 +1,34 @@
+---
+title: Day 286
+date: 2017-11-01 08:18:00 -07:00
+description: The lowest point.
+image: "/uploads/286.jpg"
+---
+
+1/ **Trump did not dismiss the idea of meeting with Putin when it was suggested by George Papadopoulos in March 2016**. "He didn't say yes and he didn't say no," according to a person in the room at the time. Jeff Sessions shot down the idea. However, in a July 2016 email to his Russian contact, Papadopoulos proposed a meeting in August or September between "my national chairman and maybe one other foreign policy adviser" and members of Putin's office and Russia's foreign ministry. "It has been approved by our side," Papadopoulos wrote. It's not clear if the meeting ever occurred, but Paul Manafort was the campaign chairman at the time. ([CNN](http://www.cnn.com/2017/11/01/politics/trump-putin-meeting/) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-10-31/papadopoulos-claimed-trump-campaign-approved-russia-meeting))
+
+2/ **Paul Manafort and Rick Gates posed a "serious risk of flight,"** Robert Mueller argued in the pair's bail memo. He requested sizable bail and travel restrictions on the two because of their "substantial overseas ties, including assets held abroad, significant foreign work connections, and significant travel abroad." Manafort's bail was set at $10 million, Gates's at $5 million. Manafort currently has three US passports. ([NBC News](https://www.nbcnews.com/news/us-news/manafort-gates-pose-serious-risk-flight-says-mueller-n816246)/ [CNN](http://www.cnn.com/2017/10/31/politics/manafort-3-passports/index.html))
+
+3/ **Trump blamed Chuck Schumer for yesterday's terror attack in New York City** where a motorist killed several people after driving onto a bicycle path near the World Trade Center memorial. Trump tweeted that "the terrorist came into our country through what is called the 'Diversity Visa Lottery Program,' a Chuck Schumer beauty. I want merit based." Trump [added](https://www.axios.com/trump-extreme-vetting-nyc-terror-2504826608.html): "I have just ordered Homeland Security to step up our already Extreme Vetting Program. Being politically correct is fine, but not for this!" Schumer’s response: "I guess it’s not too soon to politicize a tragedy." ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/11/01/extreme-right-gins-up-a-culprit-for-n-y-terror-attack-chuck-schumer/) / [CBS News](https://www.cbsnews.com/news/new-york-city-attack-trump-response/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/925474979914887168 %} 
+
+{% twitter https://twitter.com/realDonaldTrump/status/925490503218589696 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925534445393928199 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925684982307348480 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925686558304464897 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925688931823300609 %}
+
+{% twitter https://twitter.com/SenSchumer/status/925703236568473601 %}
+
+4/ **House Republican delayed the release of their tax bill until Thursday** as they try to meet the $1.5 trillion spending limit set by the budget. The tax plan will maintain the top individual tax rate of 39.6%, but will cut the corporate tax rate to 20%. ([Associated Press](https://apnews.com/3af4b0fc24d2403aa657cfc8a560b82a/GOP-tax-writers-delay-rollout-as-Trump-sets-rapid-timetable) / [NBC News](https://www.nbcnews.com/politics/congress/house-gop-will-delay-releasing-tax-bill-sources-say-n816251) / [Wall Street Journal](https://www.wsj.com/articles/house-tax-plan-to-delay-estate-tax-repeal-set-corporate-rate-at-20-1509485696))
+
+5/ **The EPA barred anyone that receives EPA grant money from serving on panels that counsel the agency on scientific decisions**. In doing so, Scott Pruitt stripped six scientists and academics of advisory positions at the EPA. Pruitt is expected to now appoint several industry representatives to the panels. ([New York Times](https://www.nytimes.com/2017/10/31/climate/pruitt-epa-science-advisory-boards.html) / [Washington Post](https://www.washingtonpost.com/national/health-science/scott-pruitt-blocks-scientists-with-epa-funding-from-serving-as-agency-advisers/2017/10/31/959d91ac-be5a-11e7-959c-fe2b598d8c00_story.html))
+
+6/ **The Senate confirmed a circuit court nominee who has suggested that Roe v. Wade was an "erroneous decision."** Amy Coney Barrett has also called the Affordable Care Act's birth control benefit "and assault on religious liberty." Barrett was confirmed 55-43 to a lifetime position on the U.S. Court of Appeals for the 7th Circuit — one level below the Supreme Court. ([HuffPost](https://www.huffingtonpost.com/entry/amy-coney-barrett-abortion-rights-federal-judge_us_59f87abde4b0aec1467ac111))
+
+poll/ **59% of Americans think this is the lowest point in the nation's history that they can remember**. 63% say they are stressed about the nation's future. ([American Psychological Association](https://www.apa.org/news/press/releases/2017/11/lowest-point.aspx))

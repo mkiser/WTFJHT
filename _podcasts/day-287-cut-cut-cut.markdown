@@ -1,10 +1,10 @@
 ---
 title: 'Day 287: Cut, cut, cut.'
 date: 2017-11-02 14:49:00 -07:00
-file: "/uploads/Day-287-Cut-cut-cut.mp3"
+file: "/uploads/Day-287a-Cut-cut-cut.mp3"
 post: Day 287
-duration: '06:09'
-length: 10978362
+duration: '06:01'
+length: 10710970
 ---
 
 1/ House Republicans unveiled the Tax Cuts and Jobs Act.

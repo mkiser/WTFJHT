@@ -18,5 +18,3 @@ image: "/uploads/287.jpg"
 5/ **Rick Perry suggested that expanding the use of fossil fuels could help prevent sexual assault**. "From the standpoint of sexual assault," Perry said. "When the lights are on, when you have light that shines, the righteousness, if you will on those types of acts." The energy secretary also said that while he thinks climate change is real, "I still think the science is out on" whether humans are the cause of it. ([The Hill](http://thehill.com/homenews/administration/358386-rick-perry-fossil-fuels-will-help-prevent-sexual-assault) / [Axios](https://www.axios.com/energy-secretary-the-science-is-out-on-how-much-humans-cause-climate-change-2505385312.html))
 
 {% twitter https://twitter.com/Timothy_Cama/status/926064308957655041 %}
-
-poll/ 

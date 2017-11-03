@@ -10,28 +10,147 @@ seo:
 redirect_from: "/russia/"
 ---
 
-<p class="lead">Here's what we know so far about the Russia investigation into election meddling, collusion with the Trump campaign, Special Counsel Robert Mueller's investigation, and more.</p>
+<p class="lead">There are currently four active investigations into Russia’s interference into the 2016 and the Trump campaign’s potential involvement: FBI Special Counsel Robert Mueller, the Senate Intelligence Committee, the Senate Judiciary Committee, and the House Intelligence Committee. There are three main components to Trump/Russia: Russia's use of social media, the hacking of the DNC and John Podesta's emails, and the Trump campaign’s potential collusion with Russia.
+</p>
 
 <strong>Executive Summary:</strong>
 <ol>
-	<li>Robert Mueller charged Paul Manafort and his associate Rick Gates with conspiracy to launder more than $18 million and making false statements to the Justice Department.</li>
-	<li>The White House missed its deadline to impose new sanctions on Russia.</li>
-	<li>Sean Spicer and Reince Priebus have both spoken with Mueller about the firing of James Comey.</li>
+	<li>Former Trump campaign manager, Paul Manafort and his deputy have been charged with a 12 count indictment by special counsel Robert Mueller, which includes money laundering and conspiracy against the US. Both pled not guilty and are currently under house arrest.</li>
+	<li>A former foreign policy advisor to Trump was arrested in July for lying to the FBI about his contacts with Russian officials during the campaign. He has pled guilty, confirming his contacts with Russia in doing so and has been “proactively cooperating” with the special counsel investigations. This hits closes to the heart of the collusion component.</li>
+	<li>The Senate Judiciary Committee’s investigation has gone it’s partisan ways and will be pursued separately by Republicans and Democrats on the committee. The commitee’s focus has been obstruction of justice in relation to possible collusion between Trump’s campaign and Russia, as it has oversight of the FBI.</li>
+	<li>126 million. This is the latest estimate of how many users were potentially reach by Russia’s disinformation and social media war. Facebook, Twitter and Google have been cooperating with Congress and the special counsel, as well as working to implement safeguards for 2018 and beyond.</li>
 </ol>
 
 <hr>
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/">November 03, 2017</a></small></div>
+<p><strong>Trump and Jeff Sessions denied knowing about the campaigns contacts with Russia</strong>. Court documents suggest otherwise. Records show that at a March 31, 2016 meeting between Trump, Sessions, and the campaign's foreign policy team, George Papadopoulos introduced himself and said "that he had connections that could help arrange a meeting between then-candidate Trump and President Putin." (<a href="https://www.nytimes.com/2017/11/02/us/politics/trump-jeff-sessions-russia.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/">November 03, 2017</a></small></div>
+<p><strong>Trump does not "remember much" from the meeting with George Papadopoulos</strong>, where Papadopoulos <a href="https://whatthefuckjusthappenedtoday.com/2017/10/30/day-284/#2-trumps-former-foreign-policy-advis">offered</a> to arrange a meeting between Trump and Putin. Trump called it a "very unimportant meeting [that] took place a long time [ago]. Don't remember much about it." According to a person present for the meeting, Trump <a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#1-trump-did-not-dismiss-the-idea-of">didn't dismiss</a> the idea of meeting with Putin, but Jeff Sessions did. Trump has <a href="https://whatthefuckjusthappenedtoday.com/2017/10/26/day-280/#7-trump-said-the-soldiers-widow-must">described himself</a> as having "one of the greatest memories of all time." (<a href="https://www.politico.com/story/2017/11/03/trump-responds-george-papdopoulos-meeting-244510">Politico</a> / <a href="http://www.npr.org/2017/11/03/561823285/trump-doesnt-remember-much-about-meeting-aide-who-pleaded-guilty">NPR</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/">November 03, 2017</a></small></div>
+<p><strong>Carter Page testified that he told Jeff Sessions about his 2016 trip to Russia during the presidential campaign</strong>. At a Senate intelligence committee hearing in June, Sessions <a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/#4-senate-democrats-asked-jeff-sessio">testified</a> that he had "no knowledge" of any conversations between "anyone connected to the Trump campaign." During his confirmation hearing, Sessions was asked if "anyone affiliated with the Trump campaign communicated with the Russian government" during the campaign. Sessions <a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#speculation-jeff-sessions-may-have-p">responded</a>: "I'm not aware of any of those activities… I didn't have — did not have communications with the Russians, and I'm unable to comment on it." (<a href="http://www.cnn.com/2017/11/02/politics/carter-page-testimony-russia-trip/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
+<p><strong>The White House learned that Sam Clovis testified before the grand jury from media reports</strong>. Last week <a href="https://whatthefuckjusthappenedtoday.com/2017/10/31/day-285/#4-sam-clovis-was-questioned-by-rober">Clovis testified</a> before the investigating grand jury and was questioned by Robert Mueller's team about his role on Trump’s campaign. Emails between Clovis and George Papadopoulos, whom he supervised, show Clovis encouraging Papadopoulos to engage with his Russian contacts. (<a href="http://abcnews.go.com/Politics/white-house-unaware-top-adviser-testified-grand-jury/story?id=50895265">ABC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
+<p><strong>Senate Democrats asked Jeff Sessions to clarify his confirmation hearing remarks</strong> regarding attempts by the campaign to coordinate a meeting between Trump and Putin. Both the Senate intelligence and judiciary committees asked Sessions to formally clarify his remarks after it was reported that Trump <a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#1-trump-did-not-dismiss-the-idea-of">declined to rule out</a> the idea proposed by George Papadopoulos. Sessions weighed in and rejected the proposal to use Papadopoulos' "Russian contacts" to arrange a meeting. During his confirmation testimony, Sessions testified that he was "not aware" of anyone from the Trump campaign communicating with the Russians. (<a href="http://www.cnn.com/2017/11/02/politics/jeff-sessions-congress-russia-trump-campaign/index.html">CNN</a> / <a href="https://www.nbcnews.com/news/us-news/sessions-rejected-russian-proposal-campaign-adviser-source-says-n817001">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
+<p><strong>Carter Page met with the House Intelligence Committee in private</strong> looking into Russian involvement in the 2016 election. Page originally wanted to be questioned by the panel in public. The committee agreed to release a transcript three days after the interview. (<a href="https://www.bloomberg.com/news/articles/2017-11-02/trump-campaign-aide-faces-scrutiny-amid-russia-probe-interview">Bloomberg</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
+<p><strong>Paul Manafort wired millions of dollars into the US through a company linked to one of Russia’s most notorious criminals</strong>. The Cyprus-based Lucicle Consultants Limited received millions of dollars from a businessman and Ukrainian parliamentarian named Ivan Fursin, who is closely linked to Semion Mogilevich, who is frequently described as "the most dangerous mobster in the world." (<a href="https://www.thedailybeast.com/mueller-reveals-new-manafort-link-to-organized-crime">The Daily Beast</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
+<p><strong>The Justice Department has identified at least six Russian government officials involved in the DNC hack</strong> that resulted in thousands of emails being released by WikiLeaks last year. Prosecutors have assembled evidence to charge the Russian officials and could bring a case next year. U.S. intelligence agencies have attributed the hack to Russian intelligence services. (<a href="https://www.wsj.com/articles/prosecutors-consider-bringing-charges-in-dnc-hacking-case-1509618203">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
+<p><strong>The hackers who targeted Hillary Clinton's campaign had international targets corresponding with Russian interests</strong>. A digital "hit list" shows a multi-year operation that tried to break into the inboxes of 4,700 Gmail accounts worldwide and targeted the emails of Ukrainian officers, Russian opposition leaders, U.S. defense contractors, and more. The list was found by the cybersecurity firm Secureworks after the "Fancy Bear" hacking group forgot to set an active Bitly account to private. One of the experts who reviewed the list described the data as "a master list of individuals whom Russia would like to spy on, embarrass, discredit or silence." (<a href="https://apnews.com/3bca5267d4544508bb523fa0db462cb2">Associated Press</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
+<p><strong>Trump and Jeff Sessions denied knowing if anybody from the campaign was in contact with the Russians</strong>. Records suggest otherwise. (<a href="https://www.nytimes.com/2017/11/02/us/politics/trump-jeff-sessions-russia.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
+<p><strong>Carter Page testified that he told Jeff Sessions about his trip to Russia</strong>. (<a href="http://www.cnn.com/2017/11/02/politics/carter-page-testimony-russia-trip/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/">November 01, 2017</a></small></div>
+<p><strong>Trump did not dismiss the idea of meeting with Putin when it was suggested by George Papadopoulos in March 2016</strong>. "He didn't say yes and he didn't say no," according to a person in the room at the time. Jeff Sessions shot down the idea. However, in a July 2016 email to his Russian contact, Papadopoulos proposed a meeting in August or September between "my national chairman and maybe one other foreign policy adviser" and members of Putin's office and Russia's foreign ministry. "It has been approved by our side," Papadopoulos wrote. It's not clear if the meeting ever occurred, but Paul Manafort was the campaign chairman at the time. (<a href="http://www.cnn.com/2017/11/01/politics/trump-putin-meeting/">CNN</a> / <a href="https://www.bloomberg.com/news/articles/2017-10-31/papadopoulos-claimed-trump-campaign-approved-russia-meeting">Bloomberg</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/">November 01, 2017</a></small></div>
+<p><strong>Speculation: Jeff Sessions may have perjured himself</strong>. During his confirmation hearing in January, Sessions was asked "if there is any evidence that anyone affiliated with the Trump campaign communicated with the Russian government" during the campaign. Sessions responded: "I’m not aware of any of those activities… I didn’t have – did not have communications with the Russians, and I’m unable to comment on it." (<a href="https://newrepublic.com/minutes/145614/looks-like-jeff-sessions-perjured-himself">New Republic</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/">November 01, 2017</a></small></div>
+<p><strong>Facebook, Google, and Twitter testified before the Senate Intelligence Committee</strong>. It was the second day in a row the tech companies answered questions on Capitol Hill. The tech firms admitted that they could have done more to prevent Russian meddling in the US election. Yesterday, the firms said that content by a Russian troll farm known as the Internet Research Agency sought "to create discord between Americans" during the election, but after the election, the troll farm sought to undermine Trump's legitimacy. (<a href="https://www.washingtonpost.com/news/the-fix/wp/2017/11/01/four-takeaways-from-the-senate-intelligence-hearing-with-facebook-twitter-and-google/">Washington Post</a> / <a href="https://www.politico.com/story/2017/10/31/facebook-twitter-post-election-russian-meddling-sought-to-undermine-trump-244380">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/">November 01, 2017</a></small></div>
+<p><strong>Twitter offered Russian television network RT 15% of its US election advertising inventory for $3 million dollars</strong>. The US intelligence community describes RT as "the Kremlin’s principal international propaganda outlet." (<a href="https://www.buzzfeed.com/alexkantrowitz/twitter-offered-rt-15-of-its-total-share-of-us-elections?utm_term=.vbA5QLPx4#.uu12Jx5o9">BuzzFeed News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/">November 01, 2017</a></small></div>
+<p><strong>Separately, Roger Stone told Trump that Kushner was giving him bad political advice</strong>. A former Trump campaign aide described "Jared [as] the worst political adviser in the White House in modern history," adding that "Trump is at 33 percent [approval] in Gallup. You can’t go any lower. He’s fucked." <a href="https://www.nytimes.com/2017/11/01/us/politics/trump-russia-charges.html">In a call</a> with the New York Times, Trump said he was "not angry at anybody" and that the investigation into his campaign's links to Russia have "nothing to do with us." (<a href="https://www.vanityfair.com/news/2017/11/the-west-wing-trump-is-apoplectic-as-allies-fear-impeachment">Vanity Fair</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/31/day-285/">October 31, 2017</a></small></div>
+<p><strong>Court documents show that Papadopoulos shared his Russian outreach with several senior Trump campaign officials</strong>. Here's the breakdown:</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/31/day-285/">October 31, 2017</a></small></div>
+<p>"The Campaign Supervisor" named in the documents is Sam Clovis, who served as Trump's national campaign co-chairman. Clovis urged Papadopoulos to organize an "off the record" meeting with Russian officials.</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/31/day-285/">October 31, 2017</a></small></div>
+<p>The "High-Ranking Campaign Official" named is campaign manager Corey Lewandowski. Papadopoulos wrote to Lewandowski several times to let him know that the Russians were interested in forging a relationship with the campaign, including an email about discussing "Russia’s interest in hosting Mr. Trump."</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/31/day-285/">October 31, 2017</a></small></div>
+<p>"Another high-ranking campaign official" is Paul Manafort, who Papadopoulos sent an email to with the subject line "Request from Russia to meet Mr. Trump." Manafort forwarded the email to another campaign official, stating: "We need someone to communicate that DT is not doing these trips," referring to a trip to Russia. "It should be someone low level in the campaign so as not to send any signal." (<a href="https://www.washingtonpost.com/politics/whos-who-in-the-george-papadopoulos-court-documents/2017/10/30/e131158c-bdb3-11e7-97d9-bdab5a0ab381_story.html">Washington Post</a> / <a href="https://static01.nyt.com/packages/pdf/politics/2017/statement_of_the_offense.filed_.pdf">US v. George Papadopoulos</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/31/day-285/">October 31, 2017</a></small></div>
+<p><strong>Sam Clovis was questioned by Robert Mueller's team last week</strong> and testified before the investigating grand jury. Clovis supervised George Papadopoulos during the campaign. The former co-chair and policy adviser to Trump’s campaign was also interviewed recently by the Senate Intelligence Committee’s investigation of Russian interference in the 2016 election. He was described as "a fully cooperative witness." Clovis is Trump's pick to be the Department of Agriculture's chief scientist and is awaiting Senate confirmation. He is not a scientist. (<a href="https://www.nbcnews.com/news/us-news/least-one-person-dead-incident-lower-manhattan-n816166">NBC News</a> / <a href="https://www.politico.com/story/2017/10/31/sam-clovis-senate-russia-investigation-244370">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/31/day-285/">October 31, 2017</a></small></div>
+<p><strong>Facebook, Twitter, and Google appeared before a Senate Judiciary subcommittee today for the first of three public hearings</strong>. Facebook told members that Russians bought 3,000 Facebook ads, which had the potential reach of 126 million users – equivalent to more than half of the total U.S. voting population. Google found 1,108 videos with 43 hours of content related to the Russian effort on YouTube. And Twitter identified 2,752 accounts controlled by Russian operatives and more than 36,000 bots that tweeted 1.4 million times during the election campaign. (<a href="https://www.washingtonpost.com/business/technology/2017/10/30/4509587e-bd84-11e7-97d9-bdab5a0ab381_story.html">Washington Post</a> / <a href="https://www.bloomberg.com/news/articles/2017-10-31/facebook-twitter-google-to-tell-congress-how-russia-meddled">Bloomberg</a> / <a href="http://money.cnn.com/2017/10/30/media/russia-facebook-126-million-users/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/31/day-285/">October 31, 2017</a></small></div>
+<p>poll/ <strong>49% of voters support impeaching Trump</strong>, to 41% who are opposed to doing so. Of Trump voters, 79% think he should remain in office even if collusion is proven, and 75% claim the entire Russia story is “fake news." (<a href="http://www.publicpolicypolling.com/polls/support-impeachment-record-high/">Public Policy Polling</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/30/day-284/">October 30, 2017</a></small></div>
-<p><strong>Robert Mueller charged Paul Manafort and his associate Rick Gates in a 12-count indictment with conspiracy to launder more than $18 million</strong>, making false statements to the Justice Department, and other charges stemming from probes into possible Russian influence in US political affairs. The indictment of Manafort, Trump's former campaign chairman, and Gates focused on their work advising a pro-Russia party in Ukraine between 2006 to 2015, laundering money through 2016, and continuing the conspiracy against the U.S. in 2017. The charges – the first by Mueller – make no mention of Trump or Russian election meddling. (<a href="https://www.nytimes.com/2017/10/30/us/politics/paul-manafort-indicted.html">New York Times</a> / <a href="https://www.washingtonpost.com/world/national-security/manafort-and-former-business-partner-asked-to-surrender-in-connection-with-special-counsel-probe/2017/10/30/6fe051f0-bd67-11e7-959c-fe2b598d8c00_story.html">Washington Post</a> / <a href="https://www.wsj.com/articles/former-trump-campaign-chairman-paul-manafort-charged-in-russia-probe-1509365767">Wall Street Journal</a>)</p>
+<p><strong>In a 12-count indictment, Robert Mueller charged Paul Manafort and his associate Rick Gates with conspiracy to launder more than $18 million</strong>, making false statements to the Justice Department, and other charges stemming from probes into possible Russian influence in US political affairs. The indictment of Manafort, Trump's former campaign chairman, and Gates focused on their work advising a pro-Russia party in Ukraine between 2006 to 2015, laundering money through 2016, and continuing the conspiracy against the US in 2017. The charges – the first by Mueller – make no mention of Trump or Russian election meddling. Both Manafort and Gates surrendered to Justice Department and pleaded not guilty on all counts today. (<a href="https://www.nytimes.com/2017/10/30/us/politics/paul-manafort-indicted.html">New York Times</a> / <a href="https://www.washingtonpost.com/world/national-security/manafort-and-former-business-partner-asked-to-surrender-in-connection-with-special-counsel-probe/2017/10/30/6fe051f0-bd67-11e7-959c-fe2b598d8c00_story.html">Washington Post</a> / <a href="https://www.wsj.com/articles/former-trump-campaign-chairman-paul-manafort-charged-in-russia-probe-1509365767">Wall Street Journal</a> / <a href="https://www.politico.com/story/2017/10/30/manafort-surrender-fbi-authorities-244305">Politico</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/30/day-284/">October 30, 2017</a></small></div>
-<p><strong>Trump's former foreign policy adviser pleaded guilty to lying to the FBI</strong> about an April 2016 conversation with a professor with close ties to the Russian government that said Moscow had "dirt" on Hillary Clinton in the form of "thousands of emails." George Papadopoulos repeatedly tried to <a href="https://whatthefuckjusthappenedtoday.com/2017/08/14/day-207/#8-a-junior-trump-campaign-adviser-re">arrange a meeting</a> between the Trump campaign and Russian government officials. Papadopoulos was arrested in July 2017 and pleaded guilty on October 5th. The single felony count against Papadopolous directly relates to 2016 presidential campaign activity. (<a href="https://www.nytimes.com/2017/10/30/us/politics/george-papadopoulos-russia.html">New York Times</a> / <a href="https://www.bloomberg.com/news/articles/2017-10-30/trump-foreign-policy-adviser-pleaded-guilty-in-mueller-probe">Bloomberg</a> / <a href="https://www.nbcnews.com/news/us-news/trump-campaign-adviser-george-papadopoulos-pleads-guilty-lying-n815596">NBC News</a> / <a href="https://www.politico.com/story/2017/10/30/former-trump-campaign-adviser-pleads-guilty-to-lying-to-fbi-about-russia-contacts-244311">Politico</a>)</p>
+<p><strong>Trump's former foreign policy adviser pleaded guilty to lying to the FBI</strong> about an April 2016 conversation with a professor with close ties to the Russian government that said Moscow had "dirt" on Hillary Clinton in the form of "thousands of emails." George Papadopoulos repeatedly tried to <a href="https://whatthefuckjusthappenedtoday.com/2017/08/14/day-207/#8-a-junior-trump-campaign-adviser-re">arrange a meeting</a> between the Trump campaign and Russian government officials. Papadopoulos was arrested in July 2017 and has been working with Mueller ever since as a "proactive cooperator," <a href="https://assets.documentcloud.org/documents/4163479/7-28-17-Motion-to-Seal-Papadopoulos.pdf">court documents</a> show. The single felony count against Papadopolous directly relates to the 2016 presidential campaign. (<a href="https://www.nytimes.com/2017/10/30/us/politics/george-papadopoulos-russia.html">New York Times</a> / <a href="https://www.bloomberg.com/news/articles/2017-10-30/trump-foreign-policy-adviser-pleaded-guilty-in-mueller-probe">Bloomberg</a> / <a href="https://www.nbcnews.com/news/us-news/trump-campaign-adviser-george-papadopoulos-pleads-guilty-lying-n815596">NBC News</a> / <a href="https://www.politico.com/story/2017/10/30/former-trump-campaign-adviser-pleads-guilty-to-lying-to-fbi-about-russia-contacts-244311">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/30/day-284/">October 30, 2017</a></small></div>
+<p><strong>Russian agents began reaching out to Trump's campaign as early as March 2016</strong>, the Justice Department established in documents released Monday. (<a href="http://www.npr.org/2017/10/30/560786546/grand-jury-approves-first-charges-in-muellers-russia-investigation">NPR</a>)</p>
 
 
 
@@ -2967,3 +3086,4 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/">February 02, 2017</a></small></div>
 <p><strong>Shouting match over Russia erupts at House hearing over Russian interference in the presidential election.</strong> Th fight exposed bitter frustration amongst Democrats that Republicans have kept the issue locked in a single committee. (<a href="http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation">The Hill</a>)</p>
+

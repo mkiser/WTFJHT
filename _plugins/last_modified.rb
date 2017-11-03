@@ -48,6 +48,7 @@ module LastModified
 		entity_source = contrib_source(post)
 		
 		contribs = `git log -- "#{entity_source}" | grep \^Author | sort | uniq | wc -l`
+		contribs.strip!
 		post.data["contributors"] = contribs
 	end
   end

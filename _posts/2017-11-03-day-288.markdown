@@ -29,4 +29,12 @@ image: "/uploads/288.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/926417546038923264 %}
 
+6/ **A Twitter employee leaving the company deactivated Trump's account**, which was down for 11 minutes before being restored. Trump tweeted Friday morning, "I guess the word must finally be getting out-and having an impact." ([CNN](http://money.cnn.com/2017/11/02/technology/donald-trump-twitter/index.html) / [Reuters](https://www.reuters.com/article/us-usa-trump/twitter-says-trumps-account-deactivated-by-employee-leaving-company-idUSKBN1D3015))
+
+{% twitter https://twitter.com/TwitterGov/status/926238960594178048 %}
+
+{% twitter https://twitter.com/TwitterGov/status/926267806261407744 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/926401530013642765 %}
+
 poll/ **60% of Americans say Trump's tax plan will benefit the wealthy**, while 17% think it will treat people equally. Among those that make $100,000 or more, 61% think Trump's plan will benefit them most. ([ABC News](http://abcnews.go.com/Politics/60-percent-americans-trump-tax-plan-benefit-wealthy/story?id=50891221))

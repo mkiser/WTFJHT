@@ -1,5 +1,5 @@
 ---
-title: Trump's EPA.
+title: How Trump's EPA is changing the environment.
 date: 2017-10-21 00:00:00 -07:00
 alt: EPA
 description: Here's where Trump's EPA currently stands.

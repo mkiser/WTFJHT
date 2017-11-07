@@ -58,6 +58,9 @@ Transparency and an approachable tone, as well as his efforts to engage with his
 23/ **How growing an independent news site is “like punk rock with a blog”**.
 “[Engaging] with people who take the effort to subscribe and give feedback creates trust, shows transparency, humanizes the whole thing. The more I show I’m just human, that I’m fallible, the more trust I build. That’s what is comes down to: creating value and building trust.” ([Membership Puzzle Project](https://membershippuzzle.org/articles-overview/punk-rock-with-a-blog)(:target="_blank"))
 
+24/ **WTF just happened today? Ask Matt Kiser.** 
+“I think there’s a lot of people who give a shit about what’s going on and feel really shitty [about not understanding],” he says. “That’s a big part of what I do: Help them check in on their own terms." ([The Everygrey](https://theevergrey.com/wtf-just-happened-today-trump-white-house-matt-kiser/)(:target="_blank"))
+
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}
 {% twitter https://twitter.com/DaveLeeBBC/status/830907636006547456 hide_media=true %}

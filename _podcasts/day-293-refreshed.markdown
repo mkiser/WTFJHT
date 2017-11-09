@@ -46,4 +46,4 @@ j/ Arizona congresswoman Martha McSally has told colleagues that she will run fo
 
 exit poll/ Half of Virginia voters said Trump was the reason for their vote.
 
-*Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by Matt Kiser. The WTFJHT Podcast is narrated and produced by Joe Amditis.*
+*Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by Matt Kiser. The WTFJHT Podcast is narrated and produced by Joe Amditis. *

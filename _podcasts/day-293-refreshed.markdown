@@ -23,7 +23,8 @@ length: 14136272
 
 8/ The Justice Department told AT&T and Time Warner to sell off CNN's parent company.
 
-**Election Night in America:**\
+**Election Night in America:**
+
 a/ Democrats won victories in governor's races in Virginia and New Jersey last night.
 
 b/ After going to bat for Gillespie during the run-up, Trump distanced himself after the loss.
@@ -46,4 +47,4 @@ j/ Arizona congresswoman Martha McSally has told colleagues that she will run fo
 
 exit poll/ Half of Virginia voters said Trump was the reason for their vote.
 
-*Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by Matt Kiser. The WTFJHT Podcast is narrated and produced by Joe Amditis. *
+*Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by Matt Kiser. The WTFJHT Podcast is narrated and produced by Joe Amditis.*

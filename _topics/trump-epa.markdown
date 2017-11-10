@@ -1,6 +1,6 @@
 ---
 title: How Trump's EPA is changing the environment.
-date: 2017-10-21 00:00:00 -07:00
+date: 2017-11-09 00:00:00 -07:00
 alt: EPA
 description: Here's where Trump's EPA currently stands.
 image: "/public/topics/epa.jpg"
@@ -26,6 +26,17 @@ redirect_from: "/epa/"
 
 
 <hr>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/08/day-293/">November 08, 2017</a></small></div>
+<p><strong>Scott Pruitt will continue to roll back the Clean Power Plan despite a government report that finds climate change to be "unambiguous"</strong> with "no convincing alternative explanation" that anything other than humans are the cause. Pruitt said that the <a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/#7-the-trump-administration-approved">National Climate Assessment</a> was part of the ongoing debate between scientists over the causes of global warming and the report won't deter him from rolling back the rule aimed at combating climate change. Trump has dismissed climate change as a "hoax" perpetrated by the Chinese in order to gain an edge over the US. (<a href="https://www.usatoday.com/story/news/politics/2017/11/08/pruitt-says-alarming-climate-report-not-deter-replacement-clean-power-plan/839857001/">USA Today</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/07/day-292/">November 07, 2017</a></small></div>
+<p><strong>Syria will join the Paris climate agreement, leaving the US as the only country to reject the global deal</strong>. France, meanwhile, said that Trump, "for the time being," is not invited to December's climate change summit in Paris. (<a href="https://www.nytimes.com/2017/11/07/climate/syria-joins-paris-agreement.html">New York Times</a> / <a href="https://www.reuters.com/article/us-climatechange-accord-trump-paris/trump-not-invited-to-paris-december-climate-change-summit-for-now-says-france-idUSKBN1D71U0">Reuters</a>)</p>
+
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/">November 03, 2017</a></small></div>
@@ -470,3 +481,4 @@ redirect_from: "/epa/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/">January 20, 2017</a></small></div>
 <p><strong>All references to climate change have been deleted</strong> from the White House website. The only mention of climate on Trump’s new website is under his “America First Energy Plan” page, in which he vows to destroy Obama’s Climate Action Plan, which is a government-wide plan to reduce carbon emissions and address climate change. (<a href="http://motherboard.vice.com/read/all-references-to-climate-change-have-been-deleted-from-the-white-house-website">Motherboard</a>)</p>
+

@@ -24,8 +24,85 @@ redirect_from: "/russia/"
 <hr>
 
 
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/09/day-294/">November 09, 2017</a></small></div>
+<p><strong>Robert Mueller interviewed Stephen Miller</strong>. The White House senior policy adviser is the highest-level aide still working at the White House known to have talked to investigators. Miller was at the March 2016 meeting where George Papadopoulos said that he could arrange a meeting between Trump and Putin. (<a href="http://www.cnn.com/2017/11/09/politics/stephen-miller-interviewed-special-counsel-russia-investigation/">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/09/day-294/">November 09, 2017</a></small></div>
+<p><strong>Michael Flynn is worried about his son's legal exposure</strong> as Robert Mueller continues to investigate Russian meddling and the business dealings of key campaign advisers to Trump. Flynn Jr. served as his father's chief of staff and top aide, and was actively involved in his father's consulting and lobbying work at their firm, Flynn Intel Group.  In December 2015, the Flynns traveled to Moscow, where the elder Flynn dined with Putin at a gala for the RT television network, which US intelligence views as a Russian propaganda outlet. (<a href="http://www.cnn.com/2017/11/08/politics/michael-flynn-son-special-counsel-russia-investigation/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/09/day-294/">November 09, 2017</a></small></div>
+<p><strong>The House Intelligence Committee will interview the Russian-American lobbyist who was at the Trump Tower meeting</strong> with Trump Jr., Jared Kushner, and Paul Manafort. Rinat Akhmetshin will meet with House investigators next week. The panel last week interviewed Ike Kaveladze, a Russian who attended the meeting on behalf of Russian billionaire Aras Agalarov, the oligarch who initiated the session. (<a href="http://www.cnn.com/2017/11/09/politics/lobbyist-house-intelligence-interview/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/09/day-294/">November 09, 2017</a></small></div>
+<p><strong>Trump's bodyguard testified that Russians offered to "send five women" to Trump's hotel room in Moscow</strong>. "We don't do that type of stuff," Keith Schiller said. The comments came as Schiller disputed the allegations made in the dossier that describes Trump as having an encounter with prostitutes at the hotel during the 2013 Miss Universe Pageant. Schiller testified that Trump went to bed alone and that he stood outside the room for a time before going to bed. He could not say for sure what happened during the remainder of the night. (<a href="https://www.nbcnews.com/news/us-news/trump-bodyguard-testifies-russian-offered-trump-women-was-turned-down-n819386">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/08/day-293/">November 08, 2017</a></small></div>
+<p><strong>Corey Lewandowski's "memory has been refreshed" about Carter Page's trip to Russia</strong>. In March, Trump’s former campaign manager said he "never met Carter Page." On Tuesday, Lewandowski described Page as a "low-level volunteer" who had "no formal role in the campaign," and "to the best of my recollection, I don't know Carter Page." <a href="https://whatthefuckjusthappenedtoday.com/2017/11/07/day-292/#1-carter-page-testified-that-he-rece">Page testified last week</a> to the House Oversight Committee that he had asked Lewandowski and Hope Hicks for permission to travel to Moscow. After the trip, Page emailed Lewandowski, Hicks, Sam Clovis, JD Gordon, and then-Senator Jeff Sessions about his trip to Russia, where he met with Russian officials and discussed the presidential campaign. (<a href="https://www.politico.com/story/2017/11/08/corey-lewandowski-carter-page-email-244689">Politico</a> / <a href="http://talkingpointsmemo.com/edblog/lewandowski-my-memory-has-been-refreshed">Talking Points Memo</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/07/day-292/">November 07, 2017</a></small></div>
+<p><strong>Carter Page testified that he received permission from Corey Lewandowski to visit Moscow</strong> in July 2016, he told the House Intelligence Committee during his seven-hour testimony yesterday. Page also told senior campaign officials Sam Clovis, Hope Hicks, and JD Gordon, as well as then-Senator Jeff Sessions, about his trip to Russia. When he returned, Page sent an email to campaign officials saying he had received "incredible insights and outreach" from "senior members" of Putin’s administration and suggested that Trump should make a foreign policy speech in Russia and "raise the temperature a little bit." Page maintains that his trip was made as a private citizen and was unrelated to his role in the Trump campaign. (<a href="http://www.cnn.com/2017/11/06/politics/carter-page-testimony-released/index.html">CNN</a> / <a href="https://www.nbcnews.com/news/us-news/carter-page-coordinated-russia-trip-top-trump-campaign-officials-n818206">NBC News</a> / <a href="https://www.washingtonpost.com/politics/trump-adviser-sent-email-describing-private-conversation-with-russian-official/2017/11/06/b39d4c84-c33b-11e7-84bc-5e285c7f4512_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/07/day-292/">November 07, 2017</a></small></div>
+<p><strong>Jeff Sessions will testify before the House Judiciary Committee</strong> on November 14th about his past statements regarding contacts between Trump campaign and Russian intermediaries. Sessions is also expected appear in a closed session with the House Intelligence Committee on the same day. (<a href="https://www.reuters.com/article/us-usa-trump-russia-sessions/attorney-general-jeff-sessions-to-face-house-judiciary-panel-november-14-idUSKBN1D728H">Reuters</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/07/day-292/">November 07, 2017</a></small></div>
+<p><strong>Trump told CIA director Mike Pompeo to meet with a former intelligence officer who claimed the DNC emails were "leaked" – not hacked</strong>. Pompeo met last month with William Binney, who has challenged a January 2017 intelligence community report from the CIA, the FBI, and the NSA that concludes "Putin ordered an influence campaign … to undermine public faith in the US democratic process, denigrate Secretary Clinton, and harm her electability and potential presidency." Trump has called the report "fake news." (<a href="https://theintercept.com/2017/11/07/dnc-hack-trump-cia-director-william-binney-nsa/">The Intercept</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/07/day-292/">November 07, 2017</a></small></div>
+<p><strong>Trump urged North Korea to "come to the table" and discuss giving up its nuclear weapons</strong>, casting the threat as a global crisis that required cooperation from Russia and China. Trump previously called Rex Tillerson's effort to negotiate with North Korea a <a href="https://whatthefuckjusthappenedtoday.com/2017/10/02/day-256/#6-trump-called-tillersons-effort-to">waste of time</a> and threatened to unleash "<a href="https://whatthefuckjusthappenedtoday.com/2017/08/08/day-201/#4-trump-threatened-to-unleash-fire-a">fire and fury</a>" against Kim Jong Un if he continued to provoke the US. (<a href="https://www.bloomberg.com/news/articles/2017-11-07/trump-calls-on-north-korea-to-make-a-deal-on-weapons-program">Bloomberg</a> / <a href="https://www.politico.com/story/2017/11/07/trump-seoul-visit-north-korea-threat-russia-china-244632">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/06/day-291/">November 06, 2017</a></small></div>
+<p><strong>Robert Mueller has enough evidence to charge Michael Flynn and his son as part of the Russia probe</strong>. Mueller's team is looking at possible money laundering charges, lying to federal agents, and Flynn's role in a plan to remove an opponent of the Turkish president from the US in exchange for millions of dollars. (<a href="https://www.nbcnews.com/news/us-news/mueller-has-enough-evidence-bring-charges-flynn-investigation-n817666">NBC News</a> / <a href="https://www.reuters.com/article/us-usa-trump-russia-mueller/special-counsel-mueller-has-enough-evidence-to-charge-flynn-son-nbc-idUSKBN1D50VE">Reuters</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/06/day-291/">November 06, 2017</a></small></div>
+<p><strong>A Russian lawyer said Trump Jr. offered to have an anti-Russian law re-examined if Trump won the election</strong>. "Looking ahead, if we come to power, we can return to this issue and think what to do about it," Trump Jr. said of the Magnitsky Act, which the lawyer, Natalia Veselnitskaya, was lobbying against. Trump Jr. met with Veselnitskaya lawyer in June 2016 at Trump Tower with Paul Manafort and Jared Kushner after being promised "information that would incriminate" Hillary Clinton. (<a href="https://www.bloomberg.com/news/articles/2017-11-06/trump-jr-said-anti-russia-law-may-be-reviewed-moscow-lawyer-says">Bloomberg</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/06/day-291/">November 06, 2017</a></small></div>
+<p><strong>Commerce Secretary Wilbur Ross retained investments in a shipping company tied to Putin's inner circle</strong>. Ross and his private equity firm are the biggest shareholders in Navigator Holdings. Navigator's largest client is the Russian energy firm Sibur, which is partly owned by a Russian oligarch and Putin's son-in-law. The revelation comes after the so-called Paradise Papers were leaked to the German newspaper <em>Süddeutsche Zeitung</em>. The trove of more than 13 million documents reveal how some wealthy individuals have used offshore havens to avoid paying taxes. (<a href="https://www.nytimes.com/2017/11/05/world/wilbur-ross-russia.html">New York Times</a> / <a href="https://www.thedailybeast.com/massive-leak-reveals-new-ties-between-trump-administration-and-russia-implicating-commerce-secretary-wilbur-ross-and-jared-kushner">The Daily Beast</a> / <a href="https://www.washingtonpost.com/world/national-security/us-commerce-secretary-invests-in-rm-linked-to-putin-family-and-allies-reports-say/2017/11/05/19148220-4084-4fc7-afe8-56338790e529_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/06/day-291/">November 06, 2017</a></small></div>
+<p><strong>Russian tech leader Yuri Milner invested $850,000 in a startup called Cadre that Jared Kushner co-founded in 2014</strong>. Kushner did not disclose his ownership in Cadre on his initial financial disclosure form when he became a White House adviser. In July, Kushner told the Senate Intelligence Committee in a closed-door meeting that he never "relied on Russian funds to finance my business activities in the private sector." (<a href="https://www.nytimes.com/2017/11/05/world/yuri-milner-facebook-twitter-russia.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/06/day-291/">November 06, 2017</a></small></div>
+<p><strong>At least nine Trump associates had contacts with Russians during the campaign or presidential transition</strong> and include Paul Manafort, Michael Cohen, Trump Jr., Jared Kushner, George Papadopoulos, Carter Page, J.D. Gordon, Michael Flynn, and Jeff Sessions. Experts who've studied Russian tactics see a concerted and multifaceted Kremlin effort to infiltrate Trump’s campaign. (<a href="https://www.washingtonpost.com/politics/at-least-nine-people-in-trumps-orbit-had-contact-with-russians-during-campaign-and-transition/2017/11/05/07c9993c-bf4c-11e7-959c-fe2b598d8c00_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/06/day-291/">November 06, 2017</a></small></div>
+<p>poll/ <strong>44% of Americans are "very concerned" about the Trump campaign's contacts with the Russians</strong>, up from 27% who said so in July. (<a href="http://www.cnn.com/2017/11/06/politics/cnn-poll-trump-approval-russia-concerns/index.html">CNN</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/">November 03, 2017</a></small></div>
-<p><strong>Trump and Jeff Sessions denied knowing about the campaigns contacts with Russia</strong>. Court documents suggest otherwise. Records show that at a March 31, 2016 meeting between Trump, Sessions, and the campaign's foreign policy team, George Papadopoulos introduced himself and said "that he had connections that could help arrange a meeting between then-candidate Trump and President Putin." (<a href="https://www.nytimes.com/2017/11/02/us/politics/trump-jeff-sessions-russia.html">New York Times</a>)</p>
+<p>Current Status: <strong>Trump and Jeff Sessions have denied knowing about the Trump campaign's contacts with Russia</strong>. Court documents suggest otherwise. Records show that at a March 31, 2016, meeting between Trump, Sessions, and the campaign's foreign policy team, George Papadopoulos introduced himself and said "that he had connections that could help arrange a meeting between then-candidate Trump and President Putin." (<a href="https://www.nytimes.com/2017/11/02/us/politics/trump-jeff-sessions-russia.html">New York Times</a>)</p>
 
 
 
@@ -35,7 +112,12 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/">November 03, 2017</a></small></div>
-<p><strong>Carter Page testified that he told Jeff Sessions about his 2016 trip to Russia during the presidential campaign</strong>. At a Senate intelligence committee hearing in June, Sessions <a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/#4-senate-democrats-asked-jeff-sessio">testified</a> that he had "no knowledge" of any conversations between "anyone connected to the Trump campaign." During his confirmation hearing, Sessions was asked if "anyone affiliated with the Trump campaign communicated with the Russian government" during the campaign. Sessions <a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#speculation-jeff-sessions-may-have-p">responded</a>: "I'm not aware of any of those activities… I didn't have — did not have communications with the Russians, and I'm unable to comment on it." (<a href="http://www.cnn.com/2017/11/02/politics/carter-page-testimony-russia-trip/index.html">CNN</a>)</p>
+<p><strong>Carter Page testified that he told Jeff Sessions about his 2016 trip to Russia during the presidential campaign</strong>. At a Senate Intelligence Committee hearing in June, Sessions <a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/#4-senate-democrats-asked-jeff-sessio">testified</a> that he had "no knowledge" of any conversations between "anyone connected to the Trump campaign." During his confirmation hearing, Sessions was asked if "anyone affiliated with the Trump campaign communicated with the Russian government" during the campaign. Sessions <a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#speculation-jeff-sessions-may-have-p">responded</a>: "I'm not aware of any of those activities … I didn't have — did not have communications with the Russians, and I'm unable to comment on it." (<a href="http://www.cnn.com/2017/11/02/politics/carter-page-testimony-russia-trip/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/">November 03, 2017</a></small></div>
+<p><strong>Republicans called on Robert Mueller to resign as special counsel</strong> over what they contend to be "obvious conflicts of interest." Matt Gaetz, Andy Biggs, and Louie Gohmert introduced a measure to put the House on record describing Mueller as unfit to lead the Russia probe because of his relationship with James Comey, who was Mueller's successor at the FBI. (<a href="https://www.reuters.com/article/us-usa-trump-russia-congress/republicans-seek-special-counsels-removal-from-russia-probe-idUSKBN1D31W8">Reuters</a> / <a href="https://www.politico.com/story/2017/11/03/house-republicans-robert-mueller-resignation-244517">Politico</a>)</p>
 
 
 
@@ -3086,4 +3168,3 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/">February 02, 2017</a></small></div>
 <p><strong>Shouting match over Russia erupts at House hearing over Russian interference in the presidential election.</strong> Th fight exposed bitter frustration amongst Democrats that Republicans have kept the issue locked in a single committee. (<a href="http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation">The Hill</a>)</p>
-

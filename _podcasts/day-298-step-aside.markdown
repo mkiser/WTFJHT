@@ -1,10 +1,10 @@
 ---
 title: 'Day 298: Step aside.'
 date: 2017-11-13 14:44:00 -08:00
-file: "/uploads/Day-298-Step-aside.mp3"
+file: "/uploads/Day-298a-Step-aside.mp3"
 post: Day 298
-duration: '04:14'
-length: 7536322
+duration: '04:01'
+length: 7123373
 ---
 
 1/ Trump asked Putin if Russia meddled in the election. Putin said they didn't. Trump believed him.

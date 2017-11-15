@@ -26,6 +26,66 @@ redirect_from: "/russia/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/14/day-299/">November 14, 2017</a></small></div>
+<p><strong>Jeff Sessions told the House Judiciary Committee he didn't lie under oath, but he has "no clear recollection" of the proposed Trump-Putin meeting</strong>. Despite repeatedly answering "I do not recall" to questions about a March 2016 meeting where George Papadopoulos proposed that Trump meet with Putin, Sessions said he <a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#1-trump-did-not-dismiss-the-idea-of">believes he rejected</a> the suggested meeting. Later during testimony, Sessions was more direct: "At the meeting, I pushed back." In January, Sessions testified that he had no communications with Russians during the 2016 campaign. It was later revealed that he met with Russian ambassador Sergey Kislyak <a href="https://whatthefuckjusthappenedtoday.com/2017/06/01/Day-133/#3-congress-is-examining-whether-jeff">at least twice</a> during the campaign. (<a href="https://www.politico.com/story/2017/11/14/sessions-no-clear-recollection-of-papadopoulos-proposing-trump-putin-meeting-244881">Politico</a> / <a href="https://www.reuters.com/article/us-usa-trump-russia-papadopoulos/attorney-general-sessions-says-now-recalls-meeting-flagged-in-russia-probe-idUSKBN1DE25N">Reuters</a> / <a href="https://www.nytimes.com/2017/11/14/us/politics/jeff-sessions-congress-russia.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/14/day-299/">November 14, 2017</a></small></div>
+<p><strong>Sessions: There is "not enough basis" for assigning a new special counsel to investigate Hillary Clinton</strong>. Earlier, Sessions sent the House Judiciary Committee a letter informing them that the Justice Department was looking into whether a special counsel should be appointed to investigate the Clinton Foundation and a 2010 deal to sell a US uranium company to Russia. On November 3rd, Trump said he was "very unhappy," "disappointed," and "frustrated" with the Justice Department for not investigating Hillary Clinton. (<a href="https://www.washingtonpost.com/world/national-security/sessions-considering-second-special-counsel-to-investigate-republican-concerns-letter-shows/2017/11/13/bc92ef3c-c8d2-11e7-b0cf-7689a9f2d84e_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2017/11/13/us/politics/justice-department-uranium-one-special-counsel.html">New York Times</a> / <a href="https://www.theguardian.com/us-news/2017/nov/14/jeff-sessions-special-counsel-hillary-clinton">The Guardian</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/14/day-299/">November 14, 2017</a></small></div>
+<p><strong>The US embassy in Moscow hired a security firm owned by Putin's former KGB counter-intelligence director</strong> to provide "local guard services" for the US mission in Russia. Moscow forced Washington to cut its diplomatic staff in Russia from more than 1,200 to 455 in <a href="https://whatthefuckjusthappenedtoday.com/2017/07/28/day-190/#4-russia-retaliated-against-congress">response</a> to sanctions adopted against Russia in August. To make up for the loss of security guards, Washington awarded a $2.8 million no-bid contract to Elite Security, which was founded in 1997 by Viktor Budanov and his son Dmitry. Budanov retired from espionage in 1992. (<a href="http://www.telegraph.co.uk/news/2017/11/10/us-embassy-hires-security-firm-former-russian-spy-worked-putin/">The Telegraph</a> / <a href="https://www.nytimes.com/2017/11/14/world/europe/embassy-moscow-kgb.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/14/day-299/">November 14, 2017</a></small></div>
+<p><strong>The FBI is investigating Russian embassy payments "to finance election campaign of 2016."</strong> The Russian foreign ministry made more than 60 wire transfers that exceeded $380,000 in total to its embassies around the world, most of them bearing the memo line "to finance election campaign of 2016." Nearly $30,000 was sent to the Russian embassy in Washington, D.C. (<a href="https://www.buzzfeed.com/jasonleopold/secret-finding-60-russian-payments-to-finance-election?utm_term=.gryZDQ4EM#.ifXkW9bDl">BuzzFeed News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/13/day-298/">November 13, 2017</a></small></div>
+<p><strong>Trump asked Putin if Russia meddled in the election. Putin said they didn't. Trump believed him</strong>. After meeting on the sideline of the Asia Pacific Economic Cooperation summit meeting in Vietnam, Trump said he was done asking Putin about election meddling. "He said he didn’t meddle — I asked him again. You can only ask so many times … Every time he sees me he says, 'I didn’t do that,' and I really believe that when he tells me that, he means it." Trump added: "I think he is very insulted by it, which is not a good thing for our country." The comments came during a question-and-answer session with reporters aboard Air Force One on Saturday. (<a href="https://www.nytimes.com/2017/11/11/world/asia/trump-putin-election.html">New York Times</a> / <a href="http://www.cnn.com/2017/11/11/politics/president-donald-trump-vladimir-putin-election-meddling/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/13/day-298/">November 13, 2017</a></small></div>
+<p><strong>Trump called US intelligence leaders "political hacks"</strong> and labeled the community's conclusion that Russia interfered in the election as an "artificial Democratic hit job." Later Trump tweeted: "When will all the haters and fools out there realize that having a good relationship with Russia is a good thing, not a bad thing." On Sunday, Trump <a href="https://www.nbcnews.com/politics/white-house/trump-clarifies-comments-putin-says-i-m-u-s-intel-n819986">walked back</a> his comments, saying "I'm with our agencies." (<a href="https://www.politico.com/story/2017/11/11/trump-russia-putin-people-will-die-244801">Politico</a> / <a href="http://thehill.com/homenews/administration/359894-trump-slams-former-us-intel-leaders-as-political-hacks">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/13/day-298/">November 13, 2017</a></small></div>
+<p><strong>CIA Director Mike Pompeo said he stands by the US intelligence assessment that Russia meddled in the election</strong>. Pompeo had <a href="https://whatthefuckjusthappenedtoday.com/2017/10/19/day-273/#3-cia-director-mike-pompeo-falsely-c">falsely claimed</a> Russian meddling didn't affect the election results. (<a href="http://www.cnn.com/2017/11/11/politics/mike-pompeo-cia-donald-trump-white-house-russia-meddling/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/13/day-298/">November 13, 2017</a></small></div>
+<p><strong>Former Deputy Attorney General Sally Yates called Trump "shamelessly unpatriotic"</strong> for accepting Putin’s denial that Russia interfered in the 2016 election. (<a href="http://thehill.com/blogs/blog-briefing-room/news/359923-sally-yates-trump-is-shamelessly-unpatriotic-for-russian">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/13/day-298/">November 13, 2017</a></small></div>
+<p><strong>The former CIA director said Trump is being "played" by Putin regarding election meddling</strong>. "By not confronting the issue directly and not acknowledging to Putin that we know you’re responsible for this, I think he’s giving Putin a pass," former CIA director John Brennan said. "I think it demonstrates to Mr. Putin that Donald Trump can be played by foreign leaders who are going to appeal to his ego and try to play upon his insecurities." Brennan added that Trump called him and two other top intelligence officials "political hacks" in order to "delegitimize" the intelligence community’s conclusion that Russia interfered in the 2016 presidential election. (<a href="https://www.washingtonpost.com/news/post-politics/wp/2017/11/12/former-u-s-intelligence-officials-trump-being-played-by-putin/">Washington Post</a> / <a href="https://www.wsj.com/articles/former-cia-national-intelligence-heads-strike-back-at-trumps-political-hacks-comment-1510505732">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/13/day-298/">November 13, 2017</a></small></div>
+<p><strong>Trump Jr. corresponded with Wikileaks during the campaign</strong> via Twitter direct messages, which were turned over to congressional investigators as part of its probe into Russian meddling. Wikileaks made multiple requests of Trump Jr., including asking for Trump's tax returns, urging the Trump campaign to reject the results of the election as rigged, not to concede if he lost, and, later, asking the president-elect to have Australia appoint Julian Assange as ambassador to the United States. Intelligence agencies believe Wikileaks was chosen by the Russian government to share the hacked DNC emails. (<a href="https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/">The Atlantic</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/10/day-295/">November 10, 2017</a></small></div>
+<p><strong>Robert Mueller is investigating Michael Flynn's role in a plan to extradite a Muslim cleric in the US and deliver him to Turkey in return for $15 million</strong>. Investigators are looking into the role Flynn and his son may have played in the alleged proposal to deliver Fethullah Gülen to the Turkish government. Erdoğan views Fethullah Gülen as a political enemy and has repeatedly pressed the US to extradite him. Flynn is facing military, congressional, and criminal investigations for concealing his financial ties to Turkey and Russia, and whether the ties played a role in his decisions as Trump's national security adviser. Any deal where a government official is bribed to act on behalf of a foreign government would involve multiple federal crimes. (<a href="https://www.nbcnews.com/news/us-news/mueller-probing-possible-deal-between-turks-flynn-during-presidential-transition-n819616">NBC News</a> / <a href="https://www.wsj.com/articles/mueller-probes-flynns-role-in-alleged-plan-to-deliver-cleric-to-turkey-1510309982">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/10/day-295/">November 10, 2017</a></small></div>
+<p><strong>Mueller's team is investigating a meeting between Michael Flynn and a pro-Russia congressman</strong>. The meeting between Dana Rohrabacher and Flynn took place in Washington on September 20th, 2016, while Flynn was an adviser to Trump’s campaign. Rohrabacher has pushed for better relations with Russia, traveled to Moscow to meet with officials, and advocated for overturning the Magnitsky Act, a 2012 bill that froze the assets of Russian investigators and prosecutors. It's the first known time that Mueller's investigation has touched a member of Congress. (<a href="https://www.nbcnews.com/news/us-news/mueller-probing-pre-election-flynn-meeting-pro-russia-congressman-n819676">NBC News</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/09/day-294/">November 09, 2017</a></small></div>
 <p><strong>Robert Mueller interviewed Stephen Miller</strong>. The White House senior policy adviser is the highest-level aide still working at the White House known to have talked to investigators. Miller was at the March 2016 meeting where George Papadopoulos said that he could arrange a meeting between Trump and Putin. (<a href="http://www.cnn.com/2017/11/09/politics/stephen-miller-interviewed-special-counsel-russia-investigation/">CNN</a>)</p>
 

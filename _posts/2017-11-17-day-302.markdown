@@ -1,0 +1,32 @@
+---
+title: Day 302
+date: 2017-11-17 10:14:00 -08:00
+description: What about yours?
+image: "/uploads/302.jpg"
+---
+
+1/ **Trump scolded Al Franken on Twitter for his sexual misconduct**. "The Al Frankenstien picture is really bad, speaks a thousand words," Trump tweeted, adding that last week Franken was "lecturing anyone who would listen about sexual harassment and respect for women." During Trump's presidential campaign, 11 women accused him of unwanted touching or kissing over several decades. Trump called the allegations "pure fiction" and "fake news" and referred to the women as "horrible, horrible liars." Sarah Huckabee Sanders [said](https://whatthefuckjusthappenedtoday.com/2017/10/27/day-281/#9-the-white-house-all-of-the-women-w) the White House position is that the women who have accused Trump of sexual harassment are lying. Franken, meanwhile, apologized for his behavior and encouraged a Senate Ethics Committee review of his actions. ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2017/11/16/trump-takes-aim-at-al-franken-over-groping-claims/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/931357870024687616 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/931360196554821632 %}
+
+{% twitter https://twitter.com/ezraklein/status/931359375733809152 %}
+
+2/ **Trump has repeatedly declined to call on Roy Moore to quit Alabama's Senate race** despite several women accusing Moore of sexually assaulting them as teenage girls. Trump has not publicly condemned Moore’s actions, nor pulled his endorsement of the Republican candidate, even as Mitch McConnell and Paul Ryan have called for Moore to drop out of the race. Sarah Huckabee Sanders said "The president believes that these allegations are very troubling" but that "the people of Alabama should make the decision on who their next senator should be." ([New York Times](https://www.nytimes.com/2017/11/16/us/politics/trump-franken-moore.html) / [Associated Press](https://apnews.com/31d095897fc6432a804c518b30666424/Selective-outrage:-Trump-criticizes-Franken,-silent-on-Moore))
+
+3/ **Kellyanne Conway justified Trump's silence on Roy Moore by saying the Al Franken story was a "brand new news story."** Conway told Fox News that "the Roy Moore story is eight days old and the president put out a statement during his Asia trip on that," which said Moore should step aside "if these allegations are true." ([Politico](https://www.politico.com/story/2017/11/17/trump-tweet-al-franken-roy-moore-kellyanne-conway-246732))
+
+4/ **Robert Mueller issued subpoenas to Trump's campaign for Russia-related documents from more than a dozen officials**. The subpoena, issued in mid-October, is the first time Trump's campaign has been ordered to turn over information. It does not compel any officials to testify but it catch the campaign by surprise, which had been voluntarily complying with Mueller's requests for information. ([Wall Street Journal](https://www.wsj.com/articles/special-counsel-mueller-issued-subpoena-for-russia-related-documents-from-trump-campaign-officials-1510875492))
+
+* **George Papadopoulos claimed that Trump gave him a "blank check" to choose a senior Trump administration job** and was authorized to represent the candidate in overseas meetings with foreign leaders. Papadopoulos also claimed that Trump had called him last year to discuss his role as a foreign policy adviser and that the two had at least one personal introductory meeting that the White House has not acknowledged. ([Politico](https://www.politico.com/story/2017/11/17/george-papadopoulos-trump-greece-russia-245668))
+
+* **Russian Ambassador Sergey Kislyak said he won't name all the Trump officials he's met with because "the list is so long"** and that it would take him more than 20 minutes to do so. Kislyak made the remarks during an interview with Russia-1, a state-owned Russian TV channel. ([CNBC](https://www.cnbc.com/2017/11/16/kislyak-wont-name-trump-officials-hes-met-because-list-is-so-long.html))
+
+5/ **The FCC voted to loosen media ownership rules**. The 3-2 vote rolls back a 1970s rule to ensure a diversity of voices and opinions could be heard on the air or in print, and makes it easier for media companies to be bought and sold. Critics of the FCC repeal say that the decision will will result in less diversity in local news media and lead to inferior phone and broadband services in some areas. The FCC also voted to limit spending on the Lifeline program, which provides discounted internet and phone service to low-income homes. ([Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2017/11/16/the-fcc-just-repealed-decades-old-rules-blocking-broadcast-media-mergers/) / [CNET](https://www.cnet.com/news/fcc-votes-to-loosen-media-ownership-rules/) / [The Verge](https://www.theverge.com/2017/11/17/16669716/fcc-lifeline-scaled-back-tribal-lands-broadband-discount-limits))
+
+6/ **The Senate Finance Committee approved the $1.5 trillion Republican tax overhaul** proposal after four days of markup. The Committee voted along party lines, 14-12, to forward the proposal on to the full Senate, where the Senate is expected to take action after the Thanksgiving break. ([CNN](http://www.cnn.com/2017/11/16/politics/tax-bill-committee/index.html)/ [Politico](https://www.politico.com/story/2017/11/16/senate-tax-bill-committee-246537))
+
+7/ **Of Trump's 58 judicial nominees, 74% are white men**. About 19% are women while 2% are both female and non-white. In total, 53 of Trump's judicial nominees are white, three are Asian-American, one is Hispanic, and one is African-American. He has nominated 47 men and 11 women. ([Associated Press](https://www.apnews.com/a2c7a89828c747ed9439f60e4a89193e/Trump-choosing-white-men-as-judges,-highest-rate-in-decades))
+
+poll/ **Obama is more popular in Alabama than Trump**. 52% of likely voters in the state have a favorable opinion of Obama vs 49% for Trump. ([The Hill](http://thehill.com/homenews/campaign-polls/360807-fox-news-poll-obama-has-higher-favorability-in-alabama-than-trump))

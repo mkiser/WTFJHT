@@ -33,7 +33,7 @@ image: "/uploads/305.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/932392209445457920 %}
 
-poll/ **70% of Americans think Puerto Ricans isn't getting the hurricane relief they need**, up from 62% last month. ([The Hill](http://thehill.com/policy/healthcare/361233-poll-majority-of-americans-say-puerto-rico-not-getting-enough-help-after))
+poll/ **70% of Americans think Puerto Ricans aren't getting the hurricane relief they need**, up from 62% last month. ([The Hill](http://thehill.com/policy/healthcare/361233-poll-majority-of-americans-say-puerto-rico-not-getting-enough-help-after))
 
 **News Notes:**
 

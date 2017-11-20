@@ -7,7 +7,7 @@ duration: '04:58'
 length: 8629458
 ---
 
-**NOTE**/ The audio for this episode sounds terrible because I missed my flight home from Georgia and was forced to hitch a ride with friends all the way back to New Jersey.
+**NOTE**/ The audio for this episode sounds terrible because I missed my flight home from Georgia and was forced to hitch a ride with friends all the way back to New Jersey. It'll be much better tomorrow.
 
 1/ Trump designated North Korea as a state sponsor of terrorism.
 

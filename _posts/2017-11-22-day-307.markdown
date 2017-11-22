@@ -11,7 +11,7 @@ image: "/uploads/307.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/933282274937733126 %}
 
-2/ **Trump and the White House insist Trump is working from Mar-a-Lago and is very busy today**. First, the White House told reporters that Trump "will NOT have a low-key day and has a full schedule of meetings and phone calls." Soon after, Trump tweeted that he "will be having meetings and working the phones from the Winter White House in Florida." But an hour later, Trump left Mar-a-Lago to spend the morning at Trump International Golf Club in West Palm Beach. Since the inauguration, Trump has spent 98 days at his private properties – one out of every 3.1 days – and played golf approximately 60 times, or every 5.1 days. ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2017/11/22/trumps-team-insists-he-has-a-full-schedule-an-hour-before-he-goes-golfing/))
+2/ **Trump and the White House insisted that Trump was working from Mar-a-Lago and very busy today an hour before going golfing**. First, the White House told reporters that Trump "will NOT have a low-key day and has a full schedule of meetings and phone calls." Soon after, Trump tweeted that he "will be having meetings and working the phones from the Winter White House in Florida." But an hour later, Trump left Mar-a-Lago to spend the morning at Trump International Golf Club in West Palm Beach. Since the inauguration, Trump has spent 98 days at his private properties – one out of every 3.1 days – and played golf approximately 60 times, or every 5.1 days. ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2017/11/22/trumps-team-insists-he-has-a-full-schedule-an-hour-before-he-goes-golfing/))
 
 {% twitter https://twitter.com/realDonaldTrump/status/933301876975718401 %}
 
@@ -28,3 +28,13 @@ image: "/uploads/307.jpg"
 6/ **Out of 38 economists, 37 said the GOP tax plans would cause the debt to increase "substantially" faster than the economy**. The 38th economist misread the question. ([Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/11/22/37-of-38-economists-said-the-gop-tax-plans-would-grow-the-debt-the-38th-misread-the-question/))
 
 7/ **36% of Americans expect to pay more federal, state, and local taxes under the House tax plan**. 39% said they “strongly” or “somewhat” support it, while 31% oppose it and the rest are undecided. ([Politico](https://www.politico.com/story/2017/11/22/poll-house-tax-plan-184169))
+
+**News Notes:**
+
+* New York Attorney General Eric Schneiderman is investigating what he calls **a massive scheme to corrupt the FCC with fake public comments on net neutrality**. ([The Hill](http://thehill.com/policy/technology/361509-ny-ag-probing-massive-scheme-to-influence-fcc-on-net-neutrality-with-fake))
+
+* **The FBI warned Representative Dana Rohrabacher in 2012 that Russia regarded him as an intelligence source** worthy of a Kremlin code name. ([New York Times](https://www.nytimes.com/2017/11/21/us/politics/dana-rohrabacher-putin-trump-kremlin-under-fire.html?_r=0))
+
+* **Jared Kushner’s horizons are collapsing within the West Wing**. ([Vanity Fair](https://www.vanityfair.com/news/2017/11/jared-kushner-horizons-are-collapsing-within-the-west-wing))
+
+* Michael Flynn's business partner is now the subject of Robert Mueller's probe. ([NBC News](https://www.nbcnews.com/news/us-news/mike-flynn-business-partner-bijan-kian-now-subject-mueller-probe-n823366))

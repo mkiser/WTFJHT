@@ -27,12 +27,12 @@ redirect_from: "/russia/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>Michael Flynn may have violated federal law by failing to disclose a Middle Eastern trip on his security clearance renewal application in 2016</strong>. Flynn traveled to Egypt and Israel in 2015 as an advisor to a company hoping to build two dozen nuclear power plants in the region. The plan relied on help from Russians to build the plants and take possession of the spent fuel, which could be used to build a nuclear weapon. (<a href="https://www.washingtonpost.com/politics/michael-flynns-role-in-middle-eastern-nuclear-project-could-compound-legal-issues/2017/11/26/51ce7ec8-ce18-11e7-81bc-c55a220c8cbe_story.html">Washington Post</a>)</p>
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>The FBI failed to notify US officials that their personal Gmail accounts</strong> were being targeted by Fancy Bear, a Russian-government-aligned cyberespionage group. Many officials learned of the hacking attempts only when informed by the Associated Press. (<a href="https://www.apnews.com/f1a5570b7ce04d39bab00ae3a9041460">Associated Press</a>)</p>
 
 

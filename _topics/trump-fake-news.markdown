@@ -25,12 +25,12 @@ redirect_from: "/fake-news/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>Trump tweeted that the media should get a "fake news trophy" for its distorted "coverage of your favorite President (me)."</strong> It's not clear what prompted the tweet, but over the weekend Trump criticized CNN International for representing "our nation to the WORLD very poorly." CNN responded: "It's not CNN’s job to represent the U.S. to the world. That’s yours." (<a href="https://www.politico.com/story/2017/11/27/trump-fake-news-trophy-260551">Politico</a> / <a href="https://www.nytimes.com/2017/11/27/us/politics/trump-cnn-first-amendment.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/post-politics/wp/2017/11/27/trump-attacks-media-in-his-first-post-thanksgiving-tweet/">Washington Post</a>)</p>
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>Michael Flynn's lawyer met with Robert Mueller's team, a possible sign that both sides are discussing a plea deal</strong>. The process would likely include several off-the-record discussions between Flynn and the special counsel's team, as well as an opportunity to make a proffer of evidence that could implicate others. (<a href="http://abcnews.go.com/Politics/michael-flynns-lawyer-meets-members-special-counsels-team/story?id=51412187">ABC News</a>)</p>
 
 

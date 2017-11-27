@@ -1,8 +1,8 @@
 ---
-title: 'Day 311: Your favorite president.'
+title: 'Day 312: Your favorite president.'
 date: 2017-11-27 15:33:00 -08:00
-file: "/uploads/Day-311-Your-favorite-president.mp3"
-post: Day 311
+file: "/uploads/Day-312-Your-favorite-president.mp3"
+post: Day 312
 duration: '04:49'
 length: 8679304
 ---

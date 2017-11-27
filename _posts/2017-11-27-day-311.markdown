@@ -1,0 +1,32 @@
+---
+title: Day 311
+date: 2017-11-27 10:11:00 -08:00
+description: 'Your favorite president. '
+image: "/uploads/311.jpg"
+---
+
+1/ **The Senate GOP tax plan would hurt the poor more than originally thought**, according to a report by the nonpartisan Congressional Budget Office. If the tax bill became law, 4 million Americans to lose health insurance by 2019 and 13 million to lose insurance by 2027. The bill would add $1.4 trillion to the deficit over the next decade and Republicans are aiming to have the full Senate vote on the plan as early as this week. ([Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/11/26/senate-gop-tax-bill-hurts-the-poor-more-than-originally-thought-cbo-finds/))
+
+2/ **Trump tweeted that the media should get a "fake news trophy" for its distorted "coverage of your favorite President (me)."** It's not clear what prompted the tweet, but over the weekend Trump criticized CNN International for representing "our nation to the WORLD very poorly." CNN responded: "It's not CNN’s job to represent the U.S. to the world. That’s yours." ([Politico](https://www.politico.com/story/2017/11/27/trump-fake-news-trophy-260551) / [New York Times](https://www.nytimes.com/2017/11/27/us/politics/trump-cnn-first-amendment.html) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/11/27/trump-attacks-media-in-his-first-post-thanksgiving-tweet/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/935147410472480769 %}
+
+{% twitter https://twitter.com/CNNPR/status/934559957713932290 %}
+
+3/ **Trump repeated his support for Roy Moore, despite Senate Republicans still trying to force the nominee from the race**. "The last thing we need in Alabama and the U.S. Senate is a Schumer/Pelosi puppet who is WEAK on Crime, WEAK on the Border, Bad for our Military," Trump tweeted, adding that Democrat Doug Jones "would be a disaster!" A White House official said that Trump, however, would not be traveling to Alabama to campaign for Moore. ([Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2017/11/26/trump-continues-to-boost-roy-moores-senate-bid-as-other-republicans-keep-distance/) / [Associated Press](https://apnews.com/512b92cef04645d4a07c0895508f62b8))
+
+{% twitter https://twitter.com/realDonaldTrump/status/934781939088629761 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/934792302341521408 %}
+
+* **John Conyers stepped down as the top Democrat on the House Judiciary Committee** amid accusations of sexual harassment. Conyers is the longest-serving member of Congress and has held his seat since 1965. ([Politico](https://www.politico.com/story/2017/11/26/conyers-stepping-down-from-post-as-ranking-democrat-on-judiciary-panel-259970) / [Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2017/11/26/lawmakers-call-for-swift-consequences-in-harassment-cases-but-are-divided-over-calls-for-resignation/))
+
+* **Al Franken returned to work following four allegations of sexual misconduct against him**. He said he is "embarrassed and ashamed" and that he doesn’t know if more accusations are coming. ([Star Tribune](http://www.startribune.com/ashamed-franken-says-he-ll-return-to-work-on-monday/460108233/) / [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/11/27/al-franken-on-whether-he-will-face-more-groping-allegations-i-dont-know-i-cant-say/))
+
+4/ **Michael Flynn's lawyers notified Trump's legal team that they will no longer discuss Robert Mueller's investigation with them**. The move suggests that Flynn may be preparing to cooperate with Mueller's investigation. Flynn’s lawyers had previously been sharing information with Trump’s lawyers about the investigation. ([New York Times](https://www.nytimes.com/2017/11/23/us/politics/flynn-mueller-russia-trump.html) / [Washington Post](https://www.washingtonpost.com/politics/flynns-lawyer-shuts-down-communications-with-trumps-team-a-sign-he-may-be-cooperating-with-mueller-probe/2017/11/23/75de75ea-d09b-11e7-81bc-c55a220c8cbe_story.html))
+
+* **Michael Flynn may have violated federal law by failing to disclose a Middle Eastern trip on his security clearance renewal application in 2016**. Flynn traveled to Egypt and Israel in 2015 as an advisor to a company hoping to build two dozen nuclear power plants in the region. The plan relied on help from Russians to build the plants and take possession of the spent fuel, which could be used to build a nuclear weapon. ([Washington Post](https://www.washingtonpost.com/politics/michael-flynns-role-in-middle-eastern-nuclear-project-could-compound-legal-issues/2017/11/26/51ce7ec8-ce18-11e7-81bc-c55a220c8cbe_story.html))
+
+* **The FBI failed to notify US officials that Russian hackers were trying to break into their personal Gmail accounts** by Fancy Bear, a Russian government-aligned cyberespionage group. ([Associated Press](https://www.apnews.com/f1a5570b7ce04d39bab00ae3a9041460))
+
+***More soon on Mick Mulvaney, the CFPB, Time's Person of the Year, and Trump's ethics lawyer...***

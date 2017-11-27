@@ -29,6 +29,8 @@ redirect_from: "/epa/"
 
 
 
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/08/day-293/">November 08, 2017</a></small></div>
 <p><strong>Scott Pruitt will continue to roll back the Clean Power Plan despite a government report that finds climate change to be "unambiguous"</strong> with "no convincing alternative explanation" that anything other than humans are the cause. Pruitt said that the <a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/#7-the-trump-administration-approved">National Climate Assessment</a> was part of the ongoing debate between scientists over the causes of global warming and the report won't deter him from rolling back the rule aimed at combating climate change. Trump has dismissed climate change as a "hoax" perpetrated by the Chinese in order to gain an edge over the US. (<a href="https://www.usatoday.com/story/news/politics/2017/11/08/pruitt-says-alarming-climate-report-not-deter-replacement-clean-power-plan/839857001/">USA Today</a>)</p>
 
@@ -481,4 +483,5 @@ redirect_from: "/epa/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/">January 20, 2017</a></small></div>
 <p><strong>All references to climate change have been deleted</strong> from the White House website. The only mention of climate on Trump’s new website is under his “America First Energy Plan” page, in which he vows to destroy Obama’s Climate Action Plan, which is a government-wide plan to reduce carbon emissions and address climate change. (<a href="http://motherboard.vice.com/read/all-references-to-climate-change-have-been-deleted-from-the-white-house-website">Motherboard</a>)</p>
+
 

@@ -25,6 +25,14 @@ redirect_from: "/travel-ban/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/17/day-302/">November 17, 2017</a></small></div>
+<p><strong>The British publicist who helped set up the Trump Tower meeting will talk with Robert Mueller's office</strong>. Rob Goldstone has been living in Bangkok, Thailand and is expected to travel to the US at some point "in the near future" to discuss the meeting between Trump Jr. and a group of Russians in June 2016. (<a href="https://www.nbcnews.com/news/us-news/rob-goldstone-ready-come-u-s-talk-mueller-n821826">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/24/day-278/">October 24, 2017</a></small></div>
+<p><strong>The Trump administration will allow refugees admission from all countries</strong>, but with new rules  to better vet applicants. Refugee admissions had been <a href="https://whatthefuckjusthappenedtoday.com/2017/09/12/day-236/#2-a-supreme-court-justice-temporaril">halted</a> in June for 120 days as part of Trump's travel ban. The administration will now collect more personal data, such as names of family members and places of employment, as well as mine social media posts. (<a href="https://www.wsj.com/articles/u-s-to-allow-refugees-from-all-countries-but-with-new-rules-1508837580">Wall Street Journal</a>)</p>
+
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/18/day-272/">October 18, 2017</a></small></div>

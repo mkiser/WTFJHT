@@ -17,6 +17,21 @@ redirect_from: "/health-care/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<p><strong>The Senate GOP tax plan would hurt the poor more than originally thought</strong>, according to a report by the nonpartisan Congressional Budget Office. If the tax bill becomes law, 4 million Americans are projected to lose health insurance by 2019 and 13 million by 2027. The bill would add $1.4 trillion to the deficit over the next decade, and Republicans are aiming to have the full Senate vote on the plan as early as this week. (<a href="https://www.washingtonpost.com/news/wonk/wp/2017/11/26/senate-gop-tax-bill-hurts-the-poor-more-than-originally-thought-cbo-finds/">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/15/day-300/">November 15, 2017</a></small></div>
+<p><strong>Nearly 1.5 million people have signed up for an Affordable Care Act health care plan</strong> in the first two weeks of open enrollment, outpacing last year's sign ups by nearly 500,000. The Trump administration cut the 2018 open enrollment period from 12 to 6 weeks, and reduced the ACA advertising budget by 90%. (<a href="https://www.reuters.com/article/us-usa-healthcare-enrollment/nearly-1-5-million-people-signed-up-for-obamacare-plans-so-far-officials-idUSKBN1DF27A">Reuters</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/15/day-300/">November 15, 2017</a></small></div>
+<p><strong>A key Senate Republican said he would not support the GOP tax plan and another expressed reservations about the bill</strong>. Ron Johnson said he was opposed to both the Senate and House bills because neither "provide fair treatment." Meanwhile, Susan Collins said she was concerned about Republicans changing the tax bill to repeal the Affordable Care Act's individual mandate, calling it a "mistake." Republicans can only lose two senators and still pass their tax plan in the Senate without Democratic votes. (<a href="https://www.washingtonpost.com/business/economy/democrats-furious-over-new-gop-attempt-to-gut-obamacare/2017/11/15/fdc382f8-ca23-11e7-8321-481fd63f174d_story.html">Washington Post</a> / <a href="https://www.politico.com/story/2017/11/15/republican-against-senate-tax-bill-244947">Politico</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/14/day-299/">November 14, 2017</a></small></div>
 <p><strong>Senate Republicans added a provision to their tax bill that would repeal the Affordable Care Act's individual mandate</strong>. In order to be protected from a Democratic filibuster, the tax bill can't add more than $1.5 trillion to federal deficit over a decade. The CBO said that repealing the mandate would free up more than $300 billion in funding over the next decade while also causing 13 million fewer people to have health insurance. Mitch McConnell said Republicans are "optimistic that inserting the individual mandate repeal would be helpful." (<a href="https://www.washingtonpost.com/business/economy/sen-paul-plans-amendment-to-gut-obamacare-in-tax-bill-testing-gop-unity/2017/11/14/f95066c6-c94e-11e7-8321-481fd63f174d_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2017/11/14/us/politics/tax-plan-senate-obamacare-individual-mandate-trump.html">New York Times</a>)</p>
 
@@ -1504,3 +1519,6 @@ redirect_from: "/health-care/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/">January 20, 2017</a></small></div>
 <p><strong>New poll shows Obamacare is more popular than Donald Trump.</strong> Fox News finds that 50% of voters feel favorably about the Affordable Care Act compared to Donald Trump, whom 42% view favorably. President Obama received an approval rating of 60%. (<a href="http://www.vox.com/policy-and-politics/2017/1/20/14335268/obamacare-more-popular-than-trump-poll">Vox</a>)</p>
+
+
+

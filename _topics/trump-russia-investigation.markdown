@@ -26,6 +26,61 @@ redirect_from: "/russia/"
 
 
 
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<p><strong>Michael Flynn may have violated federal law by failing to disclose a Middle Eastern trip on his security clearance renewal application in 2016</strong>. Flynn traveled to Egypt and Israel in 2015 as an advisor to a company hoping to build two dozen nuclear power plants in the region. The plan relied on help from Russians to build the plants and take possession of the spent fuel, which could be used to build a nuclear weapon. (<a href="https://www.washingtonpost.com/politics/michael-flynns-role-in-middle-eastern-nuclear-project-could-compound-legal-issues/2017/11/26/51ce7ec8-ce18-11e7-81bc-c55a220c8cbe_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<p><strong>The FBI failed to notify US officials that their personal Gmail accounts</strong> were being targeted by Fancy Bear, a Russian-government-aligned cyberespionage group. Many officials learned of the hacking attempts only when informed by the Associated Press. (<a href="https://www.apnews.com/f1a5570b7ce04d39bab00ae3a9041460">Associated Press</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/22/day-307/">November 22, 2017</a></small></div>
+<p><strong>The FBI warned Representative Dana Rohrabacher in 2012 that Russia regarded him as an intelligence source</strong> worthy of a Kremlin code name. (<a href="https://www.nytimes.com/2017/11/21/us/politics/dana-rohrabacher-putin-trump-kremlin-under-fire.html?_r=0">New York Times</a>)</p>
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/21/day-306/">November 21, 2017</a></small></div>
+<p>Roman Beniaminov, a low-profile real estate exec turned pop star manager, knew about Russia’s "dirt" on Hillary Clinton. (<a href="https://www.thedailybeast.com/roman-beniaminov-a-low-profile-real-estate-exec-turned-pop-star-manager-knew-about-russias-dirt-on-hillary">The Daily Beast</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/20/day-305/">November 20, 2017</a></small></div>
+<p><strong>Kushner failed to disclose that a senior Russian official tried to arrange a meeting between Putin and Trump</strong>. The Senate Judiciary Committee accused Kushner of withholding an email from Aleksander Torshin, who claimed to be acting at the behest of Putin in a May 2016 email. The subject line read: "Russian backdoor overture and dinner invite." Torshin's email came a few weeks after a <a href="https://whatthefuckjusthappenedtoday.com/2017/10/30/day-284/#2-trumps-former-foreign-policy-advis">professor with ties to the Russian government</a> told George Papadopoulos that the Russians had "dirt" on Hillary Clinton in the form of "thousands of emails." Spanish anti-corruption officials say Torshin is a "godfather" of the Russian mafia. (<a href="https://www.nytimes.com/2017/11/17/us/politics/trump-russia-kushner.html">New York Times</a> / <a href="https://www.nbcnews.com/news/us-news/kushner-failed-disclose-outreach-putin-ally-trump-campaign-n822021">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/17/day-302/">November 17, 2017</a></small></div>
+<p><strong>Robert Mueller issued a subpoena to Trump's campaign for Russia-related documents from more than a dozen officials</strong>. The subpoena, issued in mid-October, is the first time Trump's campaign has been ordered to turn over information. It does not compel any officials to testify but it surprised the campaign, which had been voluntarily complying with Mueller's requests for information. (<a href="https://www.wsj.com/articles/special-counsel-mueller-issued-subpoena-for-russia-related-documents-from-trump-campaign-officials-1510875492">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/17/day-302/">November 17, 2017</a></small></div>
+<p><strong>Russian Ambassador Sergey Kislyak said he won't name all the Trump officials he's met with because "the list is so long"</strong> and that it would take him more than 20 minutes to do so. Kislyak made the remarks during an interview with Russia-1, a state-owned Russian TV channel. (<a href="https://www.cnbc.com/2017/11/16/kislyak-wont-name-trump-officials-hes-met-because-list-is-so-long.html">CNBC</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/17/day-302/">November 17, 2017</a></small></div>
+<p><strong>The British publicist who helped set up the Trump Tower meeting will talk with Robert Mueller's office</strong>. Rob Goldstone has been living in Bangkok, Thailand and is expected to travel to the US at some point "in the near future" to discuss the meeting between Trump Jr. and a group of Russians in June 2016. (<a href="https://www.nbcnews.com/news/us-news/rob-goldstone-ready-come-u-s-talk-mueller-n821826">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/17/day-302/">November 17, 2017</a></small></div>
+<p><strong>The Republican Party is no longer paying Trump's personal legal bills related to the Russia probe</strong>. Trump is working with the Office of Government Ethics and tax firm to use his personal funds to help current and former White House staffers caught up in the Justice Department's special counsel investigation with their legal costs. The RNC had previously paid out more than $230,000 for Trump's legal bills. (<a href="https://www.bloomberg.com/news/articles/2017-11-17/trump-to-pay-his-own-legal-bills-set-up-fund-to-cover-staff">Bloomberg</a> / <a href="http://www.cnn.com/2017/11/17/politics/trump-legal-bills/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/16/day-301/">November 16, 2017</a></small></div>
+<p><strong>Jared Kushner forwarded emails about a "Russian backdoor overture and dinner invite" to campaign officials</strong>, according to a <a href="https://www.feinstein.senate.gov/public/_cache/files/6/d/6d69f200-c605-4424-87ac-7158b8ea161d/939EC01CF7731069B466775F920174C9.kushner-letter.pdf">letter</a> the Senate Judiciary Committee sent Kushner's lawyer. Kushner received emails in September 2016 about Russia and WikiLeaks, but failed to turn them over to lawmakers with the rest of his documents on November 3rd. In the letter to Kushner, Chuck Grassley and Dianne Feinstein wrote: "There are several documents that are known to exist but were not included." Kushner has been asked to turn over all relevant documents by November 27th. (<a href="http://www.businessinsider.com/jared-kushner-emails-russia-backdoor-feinstein-grassley-2017-11">Business Insider</a> / <a href="https://www.politico.com/story/2017/11/16/jared-kushner-wikileaks-emails-245197">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/15/day-300/">November 15, 2017</a></small></div>
+<p><strong>The author of the Trump dossier believes his report is 70-90% accurate</strong>. Christopher Steele's reports were commissioned by Fusion GPS as opposition report and detail allegations that the Kremlin had personally compromising material on Trump, including sex tapes recorded during a 2013 trip to Moscow, as well as evidence that Trump and his associates actively colluded with Russian intelligence to influence the election. (<a href="https://www.theguardian.com/us-news/2017/nov/15/christopher-steele-trump-russia-dossier-accurate">The Guardian</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/14/day-299/">November 14, 2017</a></small></div>
 <p><strong>Jeff Sessions told the House Judiciary Committee he didn't lie under oath, but he has "no clear recollection" of the proposed Trump-Putin meeting</strong>. Despite repeatedly answering "I do not recall" to questions about a March 2016 meeting where George Papadopoulos proposed that Trump meet with Putin, Sessions said he <a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#1-trump-did-not-dismiss-the-idea-of">believes he rejected</a> the suggested meeting. Later during testimony, Sessions was more direct: "At the meeting, I pushed back." In January, Sessions testified that he had no communications with Russians during the 2016 campaign. It was later revealed that he met with Russian ambassador Sergey Kislyak <a href="https://whatthefuckjusthappenedtoday.com/2017/06/01/Day-133/#3-congress-is-examining-whether-jeff">at least twice</a> during the campaign. (<a href="https://www.politico.com/story/2017/11/14/sessions-no-clear-recollection-of-papadopoulos-proposing-trump-putin-meeting-244881">Politico</a> / <a href="https://www.reuters.com/article/us-usa-trump-russia-papadopoulos/attorney-general-sessions-says-now-recalls-meeting-flagged-in-russia-probe-idUSKBN1DE25N">Reuters</a> / <a href="https://www.nytimes.com/2017/11/14/us/politics/jeff-sessions-congress-russia.html">New York Times</a>)</p>
 

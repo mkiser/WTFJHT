@@ -17,7 +17,7 @@ redirect_from: "/health-care/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>The Senate GOP tax plan would hurt the poor more than originally thought</strong>, according to a report by the nonpartisan Congressional Budget Office. If the tax bill becomes law, 4 million Americans are projected to lose health insurance by 2019 and 13 million by 2027. The bill would add $1.4 trillion to the deficit over the next decade, and Republicans are aiming to have the full Senate vote on the plan as early as this week. (<a href="https://www.washingtonpost.com/news/wonk/wp/2017/11/26/senate-gop-tax-bill-hurts-the-poor-more-than-originally-thought-cbo-finds/">Washington Post</a>)</p>
 
 

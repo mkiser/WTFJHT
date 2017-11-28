@@ -1,0 +1,26 @@
+---
+title: Day 313
+date: 2017-11-28 11:12:00 -08:00
+description: Pettiness.
+image: "/uploads/313.jpg"
+---
+
+1/ **Chuck Schumer and Nancy Pelosi cancelled a planned budget meeting with Trump after he cast doubt on their negotiations** and attacked them publicly on Twitter. Trump tweeted that the "problem" with "Chuck and Nancy" is that they "want illegal immigrants flooding into our Country unchecked, are weak on Crime and want to substantially RAISE Taxes. I don't see a deal!" The government's current funding expires on December 8th and a temporary spending bill is needed to prevent a government shutdown. Democrats are pushing for the year-end spending bill to include protections for so-called "Dreamers," which Trump ended in September.  Pelosi and Schumer instead requested a meeting with Paul Ryan and Mitch McConnell. ([Associated Press](https://apnews.com/45c0208820284f2098f1335df5623fac/Top-Dems-pull-out-of-White-House-meeting-after-Trump-attack) / [Wall Street Journal](https://www.wsj.com/articles/trump-signals-tough-posture-on-immigration-1511884970) / [Politico](https://www.politico.com/story/2017/11/28/schumer-pelosi-cancel-meeting-with-trump-262853))
+
+{% twitter https://twitter.com/realDonaldTrump/status/935513049729028096 %}
+
+2/ **The White House responded: It is "disappointing" that Schumer and Pelosi pulled out the meeting with Trump** after his Twitter attack on them. Sarah Sanders added that Trump "encourages them to put aside their pettiness, stop the political grandstanding, show up and get to work." ([ABC News](http://abcnews.go.com/Politics/wireStory/latest-trump-deal-spending-51432130))
+
+3/ **Ron Johnson and Bob Corker said they could vote against their tax bill today during a key a Senate Budget Committee hearing**. Republicans hold a 12-11 majority on the Budget Committee. If the measure passes the committee, the tax bill would head to the full Senate floor where at least six Republicans don't currently support the plan. Republican leaders in the Senate can only lose two votes and still pass their plan without the support of Democrats. ([The Hill](http://thehill.com/homenews/senate/362054-two-republican-senators-threaten-to-vote-against-gop-tax-bill) / [Reuters](https://www.reuters.com/article/us-usa-tax/senate-tax-drama-intensifies-as-bill-faces-key-panel-vote-idUSKBN1DS197) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-11-28/these-eight-senators-can-make-or-break-trump-s-tax-cut-this-week))
+
+4/ **Trump paid $1.375 million to settle a class-action labor case in 1998**. Trump employed a crew of 200 undocumented Polish workers who worked in 12-hour shifts and were paid $4 an hour to demolish the Bonwit Teller building on Fifth Avenue to make way for the Trump Tower. ([New York Times](https://www.nytimes.com/2017/11/27/nyregion/trump-tower-illegal-immigrant-workers-union-settlement.html))
+
+5/ **Trump is now suggesting that the "Access Hollywood" tape is fake**, despite apologizing for what he described as "locker room talk" between men in October 2016. "Access Hollywood" responded to Trump, saying: "The tape is very real." ([The Hill](http://thehill.com/homenews/administration/362070-access-hollywood-fires-back-at-trump-the-tape-is-very-real) / [New York Times](https://www.nytimes.com/2017/11/25/us/politics/trump-roy-moore-mcconnell-alabama-senate.html))
+
+6/ **Project Veritas got caught trying to spread fake news about Roy Moore**. The organization, run by conservative activist James O’Keefe, targets the mainstream news media in an attempt to set up undercover "stings" that involve using false stories and covert video meant to discredit media outlets. The Washington Post [reported](https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html) that a woman falsely told its reporters she had been impregnated by Moore as a teenager. ([Politico](https://www.politico.com/story/2017/11/27/project-veritas-moore-washington-post-261023))
+
+7/ **The Trump Foundation donated $10,000 to Project Veritas in 2015**, a month before Trump announced his candidacy for president. The organization is responsible for a video claiming to show that Hillary Clinton supporters were paid $1,500 to cause violence during Trump's rallies, as well as videos targeting CNN and Planned Parenthood. ([Newsweek](http://www.newsweek.com/trump-donated-project-veritas-organization-tried-trick-washington-post-723888))
+
+{% twitter https://twitter.com/Fahrenthold/status/935265679653134336 %}
+
+8/ **North Korea fired a ballistic missile for the first time in more than two months**. Trump warned North Korea in a September speech at the United Nations that if it threatened the US or its allies, he would have "no choice but to totally destroy North Korea" and called Kim Jong-un "rocket man." The US believes Pyongyang may be able to put a miniaturized warhead on a missile in 2018, which would theoretical give North Korea the capability to launch a missile capable of hitting the US. ([New York Times](https://www.nytimes.com/2017/11/28/world/asia/north-korea-missile-test.html) / [CNN](https://www.cnn.com/2017/11/28/politics/north-korea-missile-launch/index.html))

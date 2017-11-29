@@ -19,7 +19,9 @@ image: "/uploads/314.jpg"
 
 6/ **Trump believes that Robert Mueller's investigation will exonerate him by the end of the year**. Trump has told friends that "this investigation's going to be over with pretty soon" and the White House has little to fear because his "brilliant" lawyer, Ty Cobb, said so. Mueller has indicted Paul Manafort and a former Manafort associate, Richard Gates, on money laundering charges. George Papadapoulos, a former Trump campaign adviser, pleaded guilty to lying to the FBI. And, Michael Flynn is no longer communicating with Trump's legal team, suggesting that Flynn may be preparing to cooperate with Mueller's investigation. ([Washington Post](https://www.washingtonpost.com/politics/from-access-hollywood-to-russia-trump-seeks-to-paint-the-rosiest-picture/2017/11/28/9e253bc4-d451-11e7-95bf-df7c19270879_story.html))
 
-**Dept. of Deplorable. **
+poll/ **71% of millennials want a third political party**, saying Republicans and Democrats are doing a poor job of representing America. 63% of millennials disapprove of the way Trump is handling the job. 65% believe the country is on the wrong track overall. ([NBC News](https://www.nbcnews.com/politics/politics-news/millennial-poll-strong-majority-want-third-political-party-n824526))
+
+**Dept. of Deplorable.**
 
 * **Trump wants to know why the "deep state authorities" aren't investigating Hillary Clinton's emails**. ([The Hill](http://thehill.com/homenews/administration/362271-trump-blasts-deep-state-for-not-investigating-clinton-emails))
 
@@ -32,5 +34,3 @@ image: "/uploads/314.jpg"
 * **Trump questioned if NBC will fire "low ratings" Joe Scarborough for a 2001 "unsolved mystery" in Florida** where a Scarborough intern was found dead in his office. The "mystery" is that the intern had an undiagnosed heart condition. She collapsed, hit her head on the desk, and died from a blood clot. The medical examiner ruled the death an accident. ([The Hill](http://thehill.com/homenews/media/362307-trump-tweet-calls-for-investigation-into-scarboroughs-dead-staffer-while-in))
 
 * {% twitter https://twitter.com/realDonaldTrump/status/935874566701842434 %}
-
-poll/ **71% of millennials want a third political party**, saying Republicans and Democrats are doing a poor job of representing America. 63% of millennials disapprove of the way Trump is handling the job. 65% believe the country is on the wrong track overall. ([NBC News](https://www.nbcnews.com/politics/politics-news/millennial-poll-strong-majority-want-third-political-party-n824526))

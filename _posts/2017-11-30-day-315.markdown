@@ -13,7 +13,7 @@ image: "/uploads/315.jpg"
 
 4/ **Paul Manafort reached an $11 million bail agreement with Robert Mueller's team**, clearing the way for Manafort to be released from house arrest. The deal involves Manafort pledging a Virginia condominium, Florida home, a condo in Manhattan, and another property in Bridgehampton, New York. ([Politico](https://www.politico.com/story/2017/11/30/paul-manafort-bail-11-million-271762))
 
-5/ **Jeff Sessions declined to say if Trump ever asked him to obstruct the Russia investigation** when asked today during his House Intelligence Committee testimony. Sessions said his conversations with Trump were subject to executive privilege and he would not respond to the question either way. ([The Hill](http://thehill.com/homenews/house/362599-top-intel-dem-says-sessions-refused-to-say-whether-trump-asked-him-to-hinder))
+5/ **Jeff Sessions declined to say if Trump ever asked him to obstruct the Russia investigation** when questioned today during his House Intelligence Committee testimony. Sessions said his conversations with Trump were subject to executive privilege and he would not respond to the question either way. ([The Hill](http://thehill.com/homenews/house/362599-top-intel-dem-says-sessions-refused-to-say-whether-trump-asked-him-to-hinder))
 
 6/ **John McCain said he will vote for the GOP tax bill**, saying he believes the legislation is "far from perfect." Republicans need at least 50 of its 52 members to pass the bill without Democratic support. Currently, Bob Corker, Jeff Flake, Susan Collins, and James Lankford have yet to commit to the bill. ([Politico](https://www.politico.com/story/2017/11/30/mccain-to-vote-for-gop-tax-bill-270511) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-11-30/republicans-grapple-over-trigger-provision-tax-debate-update))
 
@@ -25,7 +25,7 @@ image: "/uploads/315.jpg"
 
 9/ **The Secret Service has spent nearly $150,000 on golf cart rentals since Trump took office**. Trump has spent more than 100 days at Trump properties, and 81 days at golf courses in particular, during his presidency. ([The Hill](http://thehill.com/homenews/administration/362489-secret-service-has-spent-nearly-150k-on-golf-cart-rentals-since-trump))
 
-10/ **Trump attacked Theresa May on Twitter** after the British prime minister criticized Trump for retweeting anti-Muslim propaganda from a British far-right party. "Don’t focus on me," Trump tweeted at May, "focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom." The mayor of London, Sadiq Khan, issued statement of condemnation and called on May to cancel Trump's state visit and to demand an apology. ([The Guardian](https://www.theguardian.com/us-news/2017/nov/29/donald-trump-theresa-may-tweet-uk-us))
+10/ **Trump attacked Theresa May on Twitter** after the British prime minister criticized him for retweeting anti-Muslim propaganda from a British far-right party. "Don’t focus on me," Trump tweeted at May, "focus on the destructive Radical Islamic Terrorism that is taking place within the United Kingdom." The mayor of London, Sadiq Khan, issued a statement of condemnation and called on May to cancel Trump's state visit and to demand an apology. ([The Guardian](https://www.theguardian.com/us-news/2017/nov/29/donald-trump-theresa-may-tweet-uk-us))
 
 {% twitter https://twitter.com/realDonaldTrump/status/936037588372283392 %}
 

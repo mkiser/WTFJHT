@@ -1,8 +1,10 @@
 ---
 title: 'Day 316: Full cooperation.'
 date: 2017-12-01 11:56:00 -08:00
-published: false
+file: "/uploads/Day-316-Full-cooperation.mp3"
 post: Day 316
+duration: '04:12'
+length: 7560618
 ---
 
 1/ Michael Flynn pleaded guilty to lying to the FBI about conversations with Russian Ambassador Sergey Kislyak.

@@ -70,12 +70,17 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/21/day-306/">November 21, 2017</a></small></div>
-<p><strong>Russia News Notes:</strong></p>
+<p><strong>Trump campaign adviser Carter Page held high-level meetings with Hungarian officials in Budapest.</strong> (<a href="http://abcnews.go.com/Politics/trump-campaign-adviser-carter-page-held-high-level/story?id=51284300">ABC News</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/21/day-306/">November 21, 2017</a></small></div>
-<p>Roman Beniaminov, a low-profile real estate exec turned pop star manager, knew about Russia’s "dirt" on Hillary Clinton. (<a href="https://www.thedailybeast.com/roman-beniaminov-a-low-profile-real-estate-exec-turned-pop-star-manager-knew-about-russias-dirt-on-hillary">The Daily Beast</a>)</p>
+<p><strong>Special Counsel Robert Mueller probes Jared Kushner’s contacts with foreign leaders.</strong> (<a href="https://www.wsj.com/articles/special-counsel-mueller-probes-jared-kushners-contact-with-foreign-leaders-1511306515">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/21/day-306/">November 21, 2017</a></small></div>
+<p><strong>Roman Beniaminov, a low-profile real estate exec turned pop star manager, knew about Russia’s "dirt" on Hillary Clinton.</strong> (<a href="https://www.thedailybeast.com/roman-beniaminov-a-low-profile-real-estate-exec-turned-pop-star-manager-knew-about-russias-dirt-on-hillary">The Daily Beast</a>)</p>
 
 
 

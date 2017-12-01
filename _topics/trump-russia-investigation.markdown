@@ -15,6 +15,7 @@ redirect_from: "/russia/"
 
 <strong>Executive Summary:</strong>
 <ol>
+	<li>Trump’s former national security adviser, Michael Flynn, pleaded guilty to lying to the F.B.I. about conversations with the Russian ambassador last December during the presidential transition, bringing the special counsel’s investigation into the president’s inner circle.</li>
 	<li>Former Trump campaign manager, Paul Manafort and his deputy have been charged with a 12 count indictment by special counsel Robert Mueller, which includes money laundering and conspiracy against the US. Both pled not guilty and are currently under house arrest.</li>
 	<li>A former foreign policy advisor to Trump was arrested in July for lying to the FBI about his contacts with Russian officials during the campaign. He has pled guilty, confirming his contacts with Russia in doing so and has been “proactively cooperating” with the special counsel investigations. This hits closes to the heart of the collusion component.</li>
 	<li>The Senate Judiciary Committee’s investigation has gone it’s partisan ways and will be pursued separately by Republicans and Democrats on the committee. The commitee’s focus has been obstruction of justice in relation to possible collusion between Trump’s campaign and Russia, as it has oversight of the FBI.</li>
@@ -27,18 +28,50 @@ redirect_from: "/russia/"
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
+<p><strong>Michael Flynn pleaded guilty to lying to the FBI about conversations with Russian Ambassador</strong> Sergey Kislyak during the presidential transition last December. Flynn is the fourth Trump associate to be charged in Robert Mueller's investigation into Russian interference in the 2016 election. (<a href="https://www.nytimes.com/2017/12/01/us/politics/michael-flynn-guilty-russia-investigation.html">New York Times</a> / <a href="https://www.washingtonpost.com/politics/michael-flynn-charged-with-making-false-statement-to-the-fbi/2017/12/01/e03a6c48-d6a2-11e7-9461-ba77d604373d_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
+<p><strong>Flynn promised "full cooperation" with Mueller's investigation</strong> and is prepared to testify that Trump directed him to make contact with the Russians. The FBI said Flynn communicated with Sergey Kislyak, the then-Russian Ambassador to the US, after being asked by a senior Trump transition official to find out where foreign governments stood on an upcoming UN Security Council resolution about Israel. The FBI did not name the officials. (<a href="http://abcnews.go.com/Politics/michael-flynn-charged-making-false-statements-fbi-documents/story?id=50849354">ABC News</a> / <a href="https://www.cnn.com/2017/12/01/politics/michael-flynn-charged/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
+<p><strong>Trump lobbied several Senate Republicans over the summer to "to wrap up" the Russia investigation</strong>. The chairman of the intelligence committee, Richard Burr, said Trump made a request "something along the lines of 'I hope you can conclude this as quickly as possible.'" Trump also approached Senator Roy Blunt, who sits on the committee, and Mitch McConnell, with requests to end the investigations. Trump has now asked at least seven officials in both branches of Congress and the Department of Justice to end the multiple investigations. The White House said Trump "at no point has attempted to apply undue influence on committee members." (<a href="https://www.nytimes.com/2017/11/30/us/politics/trump-russia-senate-intel.html">New York Times</a> / <a href="http://www.newsweek.com/trump-has-now-urged-seven-officials-help-end-russia-probes-728072">Newsweek</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/30/day-315/">November 30, 2017</a></small></div>
+<p><strong>Jeff Sessions declined to say if Trump ever asked him to obstruct the Russia investigation</strong> when questioned today during his House Intelligence Committee testimony. Sessions said his conversations with Trump were subject to executive privilege and he would not respond to the question either way. (<a href="http://thehill.com/homenews/house/362599-top-intel-dem-says-sessions-refused-to-say-whether-trump-asked-him-to-hinder">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/29/day-314/">November 29, 2017</a></small></div>
+<p><strong>Trump Jr. agreed to meet with the House Intelligence Committee on December 6th</strong>. It's the first opportunity for lawmakers to question Trump's son over his contacts with Russians during the campaign, including the June 2016 meeting at Trump Tower between campaign officials and Russian operatives promising dirt on Hillary Clinton. (<a href="https://www.cnn.com/2017/11/29/politics/donald-trump-jr-russia/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>Michael Flynn may have violated federal law by failing to disclose a Middle Eastern trip on his security clearance renewal application in 2016</strong>. Flynn traveled to Egypt and Israel in 2015 as an advisor to a company hoping to build two dozen nuclear power plants in the region. The plan relied on help from Russians to build the plants and take possession of the spent fuel, which could be used to build a nuclear weapon. (<a href="https://www.washingtonpost.com/politics/michael-flynns-role-in-middle-eastern-nuclear-project-could-compound-legal-issues/2017/11/26/51ce7ec8-ce18-11e7-81bc-c55a220c8cbe_story.html">Washington Post</a>)</p>
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>The FBI failed to notify US officials that their personal Gmail accounts</strong> were being targeted by Fancy Bear, a Russian-government-aligned cyberespionage group. Many officials learned of the hacking attempts only when informed by the Associated Press. (<a href="https://www.apnews.com/f1a5570b7ce04d39bab00ae3a9041460">Associated Press</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/22/day-307/">November 22, 2017</a></small></div>
 <p><strong>The FBI warned Representative Dana Rohrabacher in 2012 that Russia regarded him as an intelligence source</strong> worthy of a Kremlin code name. (<a href="https://www.nytimes.com/2017/11/21/us/politics/dana-rohrabacher-putin-trump-kremlin-under-fire.html?_r=0">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/21/day-306/">November 21, 2017</a></small></div>
+<p><strong>Russia News Notes:</strong></p>
+
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/21/day-306/">November 21, 2017</a></small></div>
@@ -3283,3 +3316,4 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/">February 02, 2017</a></small></div>
 <p><strong>Shouting match over Russia erupts at House hearing over Russian interference in the presidential election.</strong> Th fight exposed bitter frustration amongst Democrats that Republicans have kept the issue locked in a single committee. (<a href="http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation">The Hill</a>)</p>
+

@@ -25,6 +25,14 @@ redirect_from: "/travel-ban/"
 
 
 
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong>The US Supreme Court allowed the latest version of Trump's travel ban to take effect while legal challenges go forward</strong>. Trump will now be able to prevent people from six mostly Muslim countries from entering the US. It's the first time the Supreme Court has let Trump's travel ban take full effect. (<a href="https://www.bloomberg.com/news/articles/2017-12-04/u-s-high-court-lets-trump-travel-ban-take-full-effect-for-now">Bloomberg</a> / <a href="https://www.cnn.com/2017/12/04/politics/supreme-court-travel-ban/index.html">CNN</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/17/day-302/">November 17, 2017</a></small></div>
 <p><strong>The British publicist who helped set up the Trump Tower meeting will talk with Robert Mueller's office</strong>. Rob Goldstone has been living in Bangkok, Thailand and is expected to travel to the US at some point "in the near future" to discuss the meeting between Trump Jr. and a group of Russians in June 2016. (<a href="https://www.nbcnews.com/news/us-news/rob-goldstone-ready-come-u-s-talk-mueller-n821826">NBC News</a>)</p>
 
@@ -397,10 +405,7 @@ redirect_from: "/travel-ban/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/28/Day-9/">January 28, 2017</a></small></div>
-<p><strong>A federal judge issued a stay against Donald Trump's "Muslim Ban".</strong> The ruling – a stunning defeat for Trump at the end of his first week in office – protects from deportation refugees or visa holders who were detained at American airports since the signing of so-called "Muslim ban." It also protects those in transit when the emergency ruling was filed. (<a href="http://www.motherjones.com/politics/2017/01/muslim-ban-federal-court">Mother Jones</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/28/Day-9/">January 28, 2017</a></small></div>
 <p><strong>Inside the confusion of the Trump executive order and travel ban.</strong> Administration officials weren't immediately sure which countries' citizens would be barred from entering the United States. The Department of Homeland Security was left making a legal analysis on the order after Trump signed it. A Border Patrol agent, confronted with arriving refugees, referred questions only to the President himself, according to court filings. (<a href="http://www.cnn.com/2017/01/28/politics/donald-trump-travel-ban/index.html">CNN</a>)</p>
+
+
 

@@ -13,7 +13,7 @@ image: "/uploads/319.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/937141061343956992 %}
 
-* **[Everything you need to know about the Trump-Russia investigation](https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/)**.
+1. **Catch up quick**: [Everything you need to know about the Trump-Russia investigation](https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/).
 
 * **Emails dispute White House claims that Michael Flynn acted independently** in his discussions with Russia during the presidential transition and then lied to his colleagues about the interactions. ([New York Times](https://www.nytimes.com/2017/12/02/us/russia-mcfarland-flynn-trump-emails.html))
 
@@ -21,7 +21,7 @@ image: "/uploads/319.jpg"
 
 3/ **Trump's lawyer said he wrote the tweet about firing Flynn**. John Dowd said he gave the "sloppy" tweet draft to Trump's social media director Dan Scavino. The White House has insisted that Trump's tweets should be taken as official statements. ([ABC News](http://abcnews.go.com/Politics/trumps-lawyer-wrote-presidents-sloppy-tweet-flynns-dismissal/story?id=51541650))
 
-4/ **John Dowd claimed Trump "cannot obstruct justice,"** because he's responsible for the enforcement of the laws created by Congress and "has every right to express his view of any case." Dowd added: "The tweet did not admit obstruction. That is an ignorant and arrogant assertion." ([Axios](https://www.axios.com/exclusive-trump-lawyer-claims-the-president-cannot-obstruct-justice-2514742663.html))
+4/ **John Dowd claimed Trump "cannot obstruct justice,"** because he's responsible for the enforcement of the laws created by Congress and "has every right to express his view of any case." Dowd added: "The tweet did not admit obstruction. That is an ignorant and arrogant assertion." In 1999, Senator Jeff Sessions argued that Bill Clinton obstructed justice and should be impeached amid the investigation into his affair with White House intern Monica Lewinsky. ([Axios](https://www.axios.com/exclusive-trump-lawyer-claims-the-president-cannot-obstruct-justice-2514742663.html)) / [Politico](https://www.politico.com/story/2017/12/04/jeff-sessions-president-obstruct-justice-bill-clinton-278517))
 
 5/ **The Senate Judiciary Committee is building an obstruction of justice case**, according to Dianne Feinstein, the panel's top Democrat. "I see it in the hyper-frenetic attitude of the White House, the comments every day, the continual tweets," Feinstein said. "And I see it most importantly in what happened with the firing of Director \[James\] Comey, and it is my belief that that is directly because he did not agree to ‘lift the cloud’ of the Russia investigation. That’s obstruction of justice." ([NBC News](https://www.nbcnews.com/politics/politics-news/feinstein-senate-russia-probe-building-obstruction-case-against-trump-n826031))
 
@@ -46,6 +46,10 @@ image: "/uploads/319.jpg"
 {% twitter https://twitter.com/realDonaldTrump/status/937641904338063361 %}
 
 {% twitter https://twitter.com/realDonaldTrump/status/937652739001212928 %}
+
+11/ **The US Supreme Court allowed the latest version of Trump's travel ban to take effect while legal challenges go forward**. Trump will now be able to prevent people from six mostly Muslim countries from entering the US. It's the first time the Supreme Court has let Trump's travel ban take full effect. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-12-04/u-s-high-court-lets-trump-travel-ban-take-full-effect-for-now) / [CNN](https://www.cnn.com/2017/12/04/politics/supreme-court-travel-ban/index.html))
+
+1. **Catch up quick**: [Everything you need to know about Trump's travel ban](https://whatthefuckjusthappenedtoday.com/trump-travel-ban/).
 
 **Notables.**
 

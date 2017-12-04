@@ -28,19 +28,53 @@ redirect_from: "/russia/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong><a href="https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/">Everything you need to know about the Trump-Russia investigation</a></strong>.</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong>Emails dispute White House claims that Michael Flynn acted independently</strong> in his discussions with Russia during the presidential transition and then lied to his colleagues about the interactions. (<a href="https://www.nytimes.com/2017/12/02/us/russia-mcfarland-flynn-trump-emails.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong>A conservative operative offered the Trump campaign a "Kremlin Connect"</strong> by using an NRA convention to make "first contact." Russia, Paul Erickson wrote, was "quietly but actively seeking a dialogue with the U.S." (<a href="https://www.nytimes.com/2017/12/03/us/politics/trump-putin-russia-nra-campaign.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong>The Senate Judiciary Committee is building an obstruction of justice case</strong>, according to Dianne Feinstein, the panel's top Democrat. "I see it in the hyper-frenetic attitude of the White House, the comments every day, the continual tweets," Feinstein said. "And I see it most importantly in what happened with the firing of Director [James] Comey, and it is my belief that that is directly because he did not agree to ‘lift the cloud’ of the Russia investigation. That’s obstruction of justice." (<a href="https://www.nbcnews.com/politics/politics-news/feinstein-senate-russia-probe-building-obstruction-case-against-trump-n826031">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong>Robert Mueller removed his top FBI agent this summer for sending anti-Trump text messages</strong>. During the presidential campaign, Peter Strzok and another member of Mueller's team had exchanged texts disparaging Trump and supporting Hillary Clinton. At the time, Strzok was investigating Clinton's use of a private email server. Strzok left the Russia investigation in August. (<a href="https://www.nytimes.com/2017/12/02/us/politics/mueller-removed-top-fbi-agent-over-possible-anti-trump-texts.html">New York Times</a> / <a href="https://www.washingtonpost.com/world/national-security/two-senior-fbi-officials-on-clinton-trump-probes-exchanged-politically-charged-texts-disparaging-trump/2017/12/02/9846421c-d707-11e7-a986-d0a9770d9a3e_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong>The Russia investigation is "wearing" on the White House and "everyone thinks they're being recorded."</strong> Michael Flynn's plea is the closest that Robert Mueller's probe into Russian meddling and collusion has come to the Oval Office. It was a dramatic step for an investigation that has infuriated Trump since its creation. Flynn spent countless hours briefing the businessman-turned-politician during the 2016 campaign and was Trump's top national security aide. Flynn's plea deal includes an agreement that he could avoid a potential lengthy jail term in part by "participating in covert law enforcement activities." (<a href="https://www.cnn.com/2017/12/01/politics/president-donald-trump-white-house-russia-fallout/index.html">CNN</a> / <a href="https://www.politico.com/story/2017/12/04/white-house-paranoid-trump-277761">Politico</a>)</p>
+
+
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
-<p><strong>Michael Flynn pleaded guilty to lying to the FBI about conversations with Russian Ambassador</strong> Sergey Kislyak during the presidential transition last December. Flynn is the fourth Trump associate to be charged in Robert Mueller's investigation into Russian interference in the 2016 election. (<a href="https://www.nytimes.com/2017/12/01/us/politics/michael-flynn-guilty-russia-investigation.html">New York Times</a> / <a href="https://www.washingtonpost.com/politics/michael-flynn-charged-with-making-false-statement-to-the-fbi/2017/12/01/e03a6c48-d6a2-11e7-9461-ba77d604373d_story.html">Washington Post</a>)</p>
+<p><strong>Michael Flynn pleaded guilty to lying to the FBI</strong> about conversations he had with Russian Ambassador Sergey Kislyak during the presidential transition last December. Flynn is the fourth Trump associate to be charged in Robert Mueller's investigation into Russian interference in the 2016 election. (<a href="https://www.nytimes.com/2017/12/01/us/politics/michael-flynn-guilty-russia-investigation.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
-<p><strong>Flynn promised "full cooperation" with Mueller's investigation</strong> and is prepared to testify that Trump directed him to make contact with the Russians. The FBI said Flynn communicated with Sergey Kislyak, the then-Russian Ambassador to the US, after being asked by a senior Trump transition official to find out where foreign governments stood on an upcoming UN Security Council resolution about Israel. The FBI did not name the officials. (<a href="http://abcnews.go.com/Politics/michael-flynn-charged-making-false-statements-fbi-documents/story?id=50849354">ABC News</a> / <a href="https://www.cnn.com/2017/12/01/politics/michael-flynn-charged/index.html">CNN</a>)</p>
+<p><strong>Flynn promised "full cooperation" with Mueller's investigation</strong> and is prepared to testify that Trump directed him to make contact with the Russians. The FBI said Flynn communicated with Sergey Kislyak, then the Russian ambassador to the US, after being asked by a senior Trump transition official to find out where foreign governments stood on an upcoming UN Security Council resolution about Israel. The FBI did not name the officials. (<a href="http://abcnews.go.com/Politics/michael-flynn-charged-making-false-statements-fbi-documents/story?id=50849354">ABC News</a> / <a href="https://www.cnn.com/2017/12/01/politics/michael-flynn-charged/index.html">CNN</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
-<p><strong>Trump lobbied several Senate Republicans over the summer to "to wrap up" the Russia investigation</strong>. The chairman of the intelligence committee, Richard Burr, said Trump made a request "something along the lines of 'I hope you can conclude this as quickly as possible.'" Trump also approached Senator Roy Blunt, who sits on the committee, and Mitch McConnell, with requests to end the investigations. Trump has now asked at least seven officials in both branches of Congress and the Department of Justice to end the multiple investigations. The White House said Trump "at no point has attempted to apply undue influence on committee members." (<a href="https://www.nytimes.com/2017/11/30/us/politics/trump-russia-senate-intel.html">New York Times</a> / <a href="http://www.newsweek.com/trump-has-now-urged-seven-officials-help-end-russia-probes-728072">Newsweek</a>)</p>
+<p><strong>Jared Kushner was the "very senior" Trump official who directed Michael Flynn to contact the Russian ambassador</strong> and several other foreign governments. Abbe Lowell, Kusher’s attorney, declined to comment. (<a href="https://www.washingtonpost.com/politics/michael-flynn-charged-with-making-false-statement-to-the-fbi/2017/12/01/e03a6c48-d6a2-11e7-9461-ba77d604373d_story.html">Washington Post</a> / <a href="https://www.cnn.com/2017/12/01/politics/jared-kushner-michael-flynn-russia/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
+<p><strong>Trump lobbied several Senate Republicans over the summer "to wrap up" the Russia investigation</strong>. The chairman of the Intelligence Committee, Richard Burr, said Trump made a request "something along the lines of 'I hope you can conclude this as quickly as possible.'" Trump also approached Senator Roy Blunt, who sits on the committee, and Senate Majority Leader Mitch McConnell with requests to end the investigations. Trump has now asked at least seven officials in both houses of Congress and the Department of Justice to end the multiple investigations. The White House said Trump "at no point has attempted to apply undue influence on committee members." (<a href="https://www.nytimes.com/2017/11/30/us/politics/trump-russia-senate-intel.html">New York Times</a> / <a href="http://www.newsweek.com/trump-has-now-urged-seven-officials-help-end-russia-probes-728072">Newsweek</a>)</p>
 
 
 
@@ -66,11 +100,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/22/day-307/">November 22, 2017</a></small></div>
 <p><strong>The FBI warned Representative Dana Rohrabacher in 2012 that Russia regarded him as an intelligence source</strong> worthy of a Kremlin code name. (<a href="https://www.nytimes.com/2017/11/21/us/politics/dana-rohrabacher-putin-trump-kremlin-under-fire.html?_r=0">New York Times</a>)</p>
-
-
-
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/21/day-306/">November 21, 2017</a></small></div>
-<p><strong>Russia News Notes:</strong></p>
 
 
 
@@ -3316,4 +3345,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/">February 02, 2017</a></small></div>
 <p><strong>Shouting match over Russia erupts at House hearing over Russian interference in the presidential election.</strong> Th fight exposed bitter frustration amongst Democrats that Republicans have kept the issue locked in a single committee. (<a href="http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation">The Hill</a>)</p>
+
+
 

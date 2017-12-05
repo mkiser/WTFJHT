@@ -1,8 +1,9 @@
 ---
 title: 'Day 320: Willingness to comply.'
 date: 2017-12-05 14:43:00 -08:00
-published: false
 post: Day 320
+duration: '05:16'
+length: 9452471
 ---
 
 1/ Robert Mueller issued a subpoena for Trump's banking records.

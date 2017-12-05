@@ -1,6 +1,7 @@
 ---
 title: 'Day 320: Willingness to comply.'
 date: 2017-12-05 14:43:00 -08:00
+file: "/uploads/Day-320-Willingness-to-comply-NOTABLES-CTA.mp3"
 post: Day 320
 duration: '05:16'
 length: 9452471

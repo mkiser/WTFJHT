@@ -1,8 +1,10 @@
 ---
 title: 'Day 321: Good to go.'
 date: 2017-12-06 11:57:00 -08:00
-published: false
+file: "/uploads/Day-321-Good-to-go-PLUS-NOTABLES.mp3"
 post: Day 321
+duration: '06:04'
+length: 10961892
 ---
 
 1/ Michael Flynn promised that sanctions against Russia would be "ripped up" as one of the Trump administration's first acts.

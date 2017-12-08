@@ -3,7 +3,7 @@ title: 'Day 323: Puppet.'
 date: 2017-12-08 14:15:00 -08:00
 file: "/uploads/Day-323a-Puppet.mp3"
 post: Day 323
-duration: '06:26'
+duration: '06:32'
 length: 11443390
 ---
 

@@ -1,0 +1,44 @@
+---
+title: Day 323
+date: 2017-12-08 12:22:00 -08:00
+description: Puppet.
+image: "/uploads/323.jpg"
+---
+
+1/ **Trump, Trump Jr., and members of the Trump Organization received an email during the campaign with the decryption key needed to open the hacked DNC documents** that WikiLeaks had posted two months earlier. WikiLeaks contacted Trump Jr. directly on Twitter about the campaign a few weeks after the September 14th email was sent by somebody named Mike Erickson. WikiLeaks began leaking the contents of John Podesta's hacked emails a month later. Trump Jr. told investigators he had no recollection of the email. ([CNN](https://www.cnn.com/2017/12/08/politics/email-effort-give-trump-campaign-wikileaks-documents/index.html) / [Washington Post](https://www.washingtonpost.com/politics/email-offering-trump-campaign-wikileaks-documents-referred-to-information-already-public/2017/12/08/61dc2356-dc37-11e7-a841-2066faf731ef_story.html))
+
+{% twitter https://twitter.com/donaldjtrumpjr/status/772555964327288832 %}
+
+2/ **Russian operatives tried to make contact with Hope Hicks at least twice since Trump took office** and after US intelligence agencies publicly accused Moscow of trying to influence the presidential election. Hicks is one of Trump's top advisers and there is no evidence that Hicks did anything wrong. The FBI gave Hicks the names of the Russians who had contacted her, and said that they were not who they claimed to be. Hicks met with Robert Mueller's investigators this week as part of the investigation into Russia’s efforts to influence the 2016 election. ([New York Times](https://www.nytimes.com/2017/12/08/us/politics/hope-hicks-russia-trump-fbi.html))
+
+3/ **Trump offered a second endorsement of Roy Moore**, the Republican Senate candidate accused of sexual assault and misconduct by several women. Trump tweeted that Alabama voters should keep the Senate seat under GOP control and away from Democrat Doug Jones, a "Pelosi/Schumer puppet." Moore has a history of saying controversial things. He's argued that slavery was the last time America was great and that homosexuality should be illegal; he also doesn't believe that Obama was born in the United States, and he blames drive-by shootings on teaching evolution. ([Politico](https://www.politico.com/story/2017/12/08/trump-endorses-roy-moore-again-287143) / [Washington Post](https://www.washingtonpost.com/news/politics/wp/2017/12/08/roy-moore-america-was-great-in-era-of-slavery-is-now-focus-of-evil-in-the-world/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/939149296389251072 %}
+
+{% twitter https://twitter.com/chrismassie/status/938833735893561350 %}
+
+4/ **Arizona Rep. Trent Franks allegedly approached two female staffers about acting as a potential pregnancy surrogate**. Aides, however, were concerned that Franks was asking about impregnating them through sexual intercourse, rather than through in vitro fertilization. One woman said she was the subject of retribution after rebuffing Franks and that he allegedly offered her $5 million to act as a surrogate. The eight-term Arizona lawmaker abruptly resigned today after Paul Ryan told Franks that he would refer the allegations to the Ethics Committee. ([Politico](https://www.politico.com/story/2017/12/08/trent-franks-sex-surrogacy-impregnate-287808) / [Associated Press](https://apnews.com/ca905b7b6e264683832a038521f5353f))
+
+5/ **Trump won't speak at the opening of the Civil Rights Museum after civil rights leaders said they would boycott the event** in Jackson, Mississippi because of the president's participation. ([NBC News](https://www.nbcnews.com/news/us-news/trump-will-not-speak-publicly-opening-mississippi-s-civil-rights-n827861))
+
+6/ **Trump's deputy national security adviser plans to leave the White House after the president's first year in office**. Dina Powell has been behind the Trump administration's Middle East policy and is leaving on her own terms. Powell will continue to advise the administration on Middle East policy from outside the government. National security adviser H.R. McMaster called Powell "one of the most talented and effective leaders with whom I have ever served." ([Washington Post](https://www.washingtonpost.com/politics/dina-powell-deputy-national-security-adviser-to-depart-trump-white-house/2017/12/08/85d8c9ea-dc31-11e7-a841-2066faf731ef_story.html))
+
+7/ **Susan Collins could change her vote on the final version of the GOP tax reform bill** if the Senate doesn't pass a pair of bills to stabilize the Affordable Care Act's health insurance markets and resuming cost-sharing subsidy payments to insurers, which Trump stopped in October. Mitch McConnell made Collins an "ironclad commitment" in exchange for her initial vote. House Republicans, however, have signaled that they don't intend to take up health care before the end of the year. Additionally, Collins added two amendments to the Senate bill that would allow taxpayers to deduct property taxes and lower the threshold for tax deductions for medical expenses, which House Republicans had previously voted to eliminate entirely. ([Politico](https://www.politico.com/story/2017/12/08/susan-collins-obamacare-deal-213254) / [The Hill](http://thehill.com/blogs/blog-briefing-room/363891-collins-considers-changing-vote-on-tax-bill-over-amendments))
+
+poll/ **32% of the Americans approve of the way Trump is handling his job as president**, while 63% disapprove. ([Pew Research Center](http://www.people-press.org/2017/12/07/stark-partisan-divisions-over-russia-probe-including-its-importance-to-the-nation/#views-of-muellers-investigation-into-russian-involvement-in-2016-election))
+
+---
+
+### Notables.
+
+1. **The American economy added 228,000 jobs last month**. Unemployment remained unchanged at 4.1%. ([New York Times](https://www.nytimes.com/2017/12/08/business/economy/jobs-report.html))
+
+2. **Trump didn't invite Democratic lawmakers to the White House Hanukkah party**, injecting a partisan tinge into a normally bipartisan celebration. ([New York Times](https://www.nytimes.com/2017/12/07/us/politics/democrats-white-house-hanukkah-party.html))
+
+3. **Trump withdrew an Obama-era proposal requiring airlines and ticket agencies to disclose baggage fees** as soon as passengers start the process of buying a ticket. ([The Hill](http://thehill.com/policy/transportation/363956-trump-admin-scraps-obama-era-proposal-requiring-airlines-to-disclose))
+
+4. **The official death toll in Puerto Rico is 62**, but the actual deaths may be as high as 1,052. ([New York Times](https://www.nytimes.com/interactive/2017/12/08/us/puerto-rico-hurricane-maria-death-toll.html?_r=0))
+
+5. **Moving the US Embassy from Tel Aviv to Jerusalem "is not something that is going to happen this year**, probably not next year," Rex Tillerson said. ([CNN](https://www.cnn.com/2017/12/08/politics/rex-tillerson-us-embassy-jerusalem/index.html))
+
+6. **The Justice Department investigating Planned Parenthood for the transfer of fetal tissue**, picking up where several Republican-led inquiries in Congress had dropped off last year. ([New York Times](https://www.nytimes.com/2017/12/08/us/politics/planned-parenthood-fetal-tissue-transfers-federal-investigation.html?_r=0))

@@ -28,8 +28,99 @@ redirect_from: "/russia/"
 
 
 
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/11/day-326/">December 11, 2017</a></small></div>
+<p><strong>Adam Schiff called the evidence of coordination between the Trump campaign and Russia is "pretty damning."</strong> The ranking member of the House Intelligence Committee said: "The Russians offered help. The campaign accepted help. The Russians gave help. And the president made full use of that help." (<a href="http://thehill.com/homenews/senate/364177-schiff-evidence-of-coordination-between-trump-campaign-and-russia-pretty">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/11/day-326/">December 11, 2017</a></small></div>
+<p><strong>Robert Mueller's investigators are focused on an 18-day timeline related to possible obstruction of justice by Trump</strong>. Sally Yates testified that she told White House Counsel Don McGahn on January 26th that Michael Flynn had lied to senior members of the Trump team about his conversations with Russia's ambassador, Sergey Kislyak. Possible obstruction of justice hinges on when Trump knew about Flynn's conversations with Russia's ambassador during the transition and when he learned that Flynn had lied about those conversations to the FBI. Trump fired Flynn on February 13th, saying he did so because he had misled Pence. Mueller is trying to determine why Flynn remained in his job for 18 days after Trump learned of Yates' warning, and is interested in whether Trump directed him to lie to senior officials. (<a href="https://www.nbcnews.com/news/us-news/18-crucial-days-what-did-president-know-when-did-he-n828261">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/11/day-326/">December 11, 2017</a></small></div>
+<p><strong>Putin ordered the partial withdrawal of Russian troops from Syria</strong>. Putin made a similar withdrawal announcement last year, but Russian military operations continued. (<a href="http://www.bbc.com/news/world-middle-east-42307365">BBC</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/08/day-323/">December 08, 2017</a></small></div>
+<p><strong>Russian operatives tried to make contact with Hope Hicks at least twice since Trump took office</strong> and after US intelligence agencies publicly accused Moscow of trying to influence the presidential election. Hicks is one of Trump's top advisers and there is no evidence that Hicks did anything wrong. The FBI gave Hicks the names of the Russians who had contacted her, and said that they were not who they claimed to be. Hicks met with Robert Mueller's investigators this week as part of the investigation into Russia’s efforts to influence the 2016 election. (<a href="https://www.nytimes.com/2017/12/08/us/politics/hope-hicks-russia-trump-fbi.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/07/day-322/">December 07, 2017</a></small></div>
+<p><strong>Trump Jr. cited attorney-client privilege and refused to discuss a phone call he had with his father</strong> about how to handle the fallout from his June 2016 meeting at Trump Tower with a Russian lawyer. He told the House Intelligence Committee that a lawyer was in the room during the call. Adam Schiff, the top Democrat on the committee, told reporters: "I don't believe you can shield communications between individuals merely by having an attorney present," adding "that's not the purpose of attorney-client privilege" and that "the presence of counsel does not make communications between father and son a privilege." (<a href="https://www.politico.com/story/2017/12/06/donald-trump-privilege-questions-284841">Politico</a> / <a href="https://www.nytimes.com/2017/12/06/us/donald-trump-jr-intel-committee.html">New York Times</a> / <a href="https://www.wsj.com/articles/donald-trump-jr-refuses-to-discuss-father-son-talk-with-investigators-1512612451">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/07/day-322/">December 07, 2017</a></small></div>
+<p>Trump Jr.'s initial response was that the meeting focused on the issue of adoption. It was later revealed that Jared Kushner and Paul Manafort also attended the meeting after receiving an email stating that a Russian government lawyer would provide incriminating facts about Hillary Clinton as "part of Russia and its government's support for Mr. Trump." No damaging information was delivered.</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/07/day-322/">December 07, 2017</a></small></div>
+<p>poll/ <strong>59% of Americans think the Trump team "definitely" or "probably" had improper contacts with Russia</strong> during last year's presidential campaign. 56% are very or somewhat confident Robert Mueller will conduct his probe fairly. (<a href="http://www.people-press.org/2017/12/07/stark-partisan-divisions-over-russia-probe-including-its-importance-to-the-nation/">Pew Research Center</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/07/day-322/">December 07, 2017</a></small></div>
+<p><strong>The British publicist who arranged the June 2016 Trump Tower meeting encouraged Dan Scavino to make a page for candidate Trump on the Russian social networking site VK</strong>, telling him that "Don and Paul" were on board with the idea. Don and Paul, of course, refer to Donald Trump Jr. and Paul Manafort. The previously undisclosed emails from Rob Goldstone to a Russian participant and a member of  Trump's inner circle later that summer raise new questions for congressional investigators about what was discussed at the meeting. Scavino is now the White House director of social media. (<a href="https://www.cnn.com/2017/12/07/politics/previously-undisclosed-emails-after-trump-tower-meeting/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/07/day-322/">December 07, 2017</a></small></div>
+<p><strong>Democrats on the Senate Foreign Relations Committee put KT McFarland's nomination on hold</strong> until she answers questions about her knowledge of communications between Michael Flynn and Russian ambassador Sergey Kislyak. (<a href="https://www.cnn.com/2017/12/05/politics/kt-mcfarland-nomination-held/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/07/day-322/">December 07, 2017</a></small></div>
+<p><strong>Devin Nunes met with Blackwater founder Erik Prince earlier this year despite his recusal from the Russia probe</strong>. Nunes discussed with Prince the House Intelligence Committee's investigation into the unmasking of Americans' identities in intelligence reports. (<a href="http://www.businessinsider.com/erik-prince-testimony-house-intel-committee-devin-nunes-russia-probe-2017-12">Business Insider</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/06/day-321/">December 06, 2017</a></small></div>
+<p><strong>Michael Flynn promised that sanctions against Russia would be "ripped up" as one of the Trump administration's first acts</strong>, according to a whistleblower. Flynn worked with Russia until June 2016 on a business venture to build nuclear power plants in the Middle East. Ending the sanctions would have allowed the project to move forward. During Trump's inaugural address, Flynn sent the whistleblower a text message directing him to tell those involved in the nuclear project to continue developing their plans and that the project was "good to go." The whistleblower approached the House Oversight Committee in June, but Robert Mueller's investigators asked him to "hold on the public release of this information until they completed certain investigative steps." (<a href="https://www.nytimes.com/2017/12/06/us/politics/michael-flynn-russia-sanctions-ripped-up-whistleblower.html">New York Times</a> / <a href="https://www.politico.com/story/2017/12/06/michael-flynn-texted-nuclear-plans-whistleblower-282070">Politico</a> / <a href="https://www.cnn.com/2017/12/06/politics/whistleblower-flynn-told-colleague-removing-russia-sanctions-priority/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/06/day-321/">December 06, 2017</a></small></div>
+<p><strong>Russian lawyer Natalia Veselnitskaya told the Senate Judiciary Committee that Trump Jr. asked her for evidence of illegal donations to the Clinton Foundation</strong> during the June 2016 meeting at Trump Tower. Veselnitskaya said she told Trump Jr. that she didn't have any meaningful information about the Clintons, at which point Trump Jr. lost interest and the meeting fizzled out. Veselnitskaya said that she wasn't working for the Russian government and that her motivation for contacting the Trump campaign was to convince them to reexamine the incident that led to the Magnitsky Act. (<a href="https://www.nbcnews.com/news/us-news/donald-trump-jr-asked-russian-lawyer-info-clinton-foundation-n826711">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/05/day-320/">December 05, 2017</a></small></div>
+<p><strong>Robert Mueller issued a subpoena for Trump's banking records</strong>. The move forced Deutsche Bank – Trump's biggest lender – to turn over documents related to certain credit transactions and the $300 million Trump owes the lender. Legal experts said it showed Mueller was "following the money" in search of links between the campaign and the Kremlin since Deutsche Bank may have sold some of Trump’s mortgage or loans to Russian-owned banks, which could potentially give Russia leverage over Trump. Jay Sekulow, one of Trump's personal lawyers, denied that a subpoena had been issued. (<a href="https://www.theguardian.com/us-news/2017/dec/05/donald-trump-bank-records-handed-over-robert-mueller">The Guardian</a> / <a href="https://www.bloomberg.com/news/articles/2017-12-05/deutsche-bank-is-said-to-have-received-subpoena-on-client-trump">Bloomberg</a> / <a href="https://www.reuters.com/article/us-usa-trump-deutsche-bank/deutsche-bank-gets-subpoena-from-mueller-on-trump-accounts-source-idUSKBN1DZ0XN">Reuters</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/05/day-320/">December 05, 2017</a></small></div>
+<p><strong>Paul Manafort was ghostwriting an op-ed with a longtime colleague "based in Russia and assessed to have ties to a Russian intelligence service" while out on bail last month</strong>. The editorial was related to Manafort's political work for Ukraine. Robert Mueller's investigators argue that Manafort's $10 million unsecured bail agreement should be revisited because it was written while he was on house arrest facing several felony charges, which would have violated a court order to not publicly discuss the case and "casts doubt on Manafort’s willingness to comply with court orders." If the court sides with Mueller, Manafort could remain under house arrest until his trial sometime next year. (<a href="https://www.nytimes.com/2017/12/04/us/politics/manafort-russia-special-counsel-investigation.html">New York Times</a> / <a href="https://www.theguardian.com/us-news/2017/dec/04/paul-manafort-russia-op-ed-ukraine-bail-deal-trump">The Guardian</a> / <a href="https://www.washingtonpost.com/politics/prosecutors-say-longtime-manafort-colleague-has-ties-to-russian-intelligence/2017/12/04/201ae098-d93e-11e7-b1a8-62589434a581_story.html">Washington Post</a> / <a href="https://www.apnews.com/9af2acda6bcf4c1289a10adf9ba38329">Associated Press</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/05/day-320/">December 05, 2017</a></small></div>
+<p><strong>Trump's former deputy national security advisor may have contradicted herself during Senate testimony</strong> about Michael Flynn's contacts with then-Russian ambassador Sergey Kislyak. In July, K.T. McFarland told the Senate Foreign Relations Committee that she did not discuss or have any knowledge of Flynn's contact with Kislyak. A December 29th <a href="https://www.nytimes.com/2017/12/02/us/russia-mcfarland-flynn-trump-emails.html">email exchange</a>, however, shows McFarland wrote a colleague that Flynn would be speaking with Kislyak later that day.  (<a href="https://www.nytimes.com/2017/12/04/us/politics/kt-mcfarland-flynn-russia-emails-congressional-testimony.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/05/day-320/">December 05, 2017</a></small></div>
+<p><strong>Pence's aides maintain he doesn't know anything about Russia and the Trump campaign</strong>. (<a href="https://www.politico.com/story/2017/12/04/pence-russia-probe-flynn-mueller-278785">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/05/day-320/">December 05, 2017</a></small></div>
+<p><strong>Robert Mueller's Russia investigation has cost at least $3.2 million so far</strong>. Other Justice Department agencies spent an additional $3.5 million to support the investigation. (<a href="https://www.usatoday.com/story/news/politics/2017/12/05/robert-muellers-russia-investigation-has-cost-taxpayers-least-3-2-million-so-far/922886001/">USA Today</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/05/day-320/">December 05, 2017</a></small></div>
+<p><strong>Germany sees Trump as a bigger challenge than North Korea or Russia</strong>. (<a href="https://www.reuters.com/article/us-usa-germany-survey/germans-see-trump-as-bigger-problem-than-north-korea-or-russia-idUSKBN1DZ0GY">Reuters</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
-<p><strong><a href="https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/">Everything you need to know about the Trump-Russia investigation</a></strong>.</p>
+<p><strong>Trump tweeted that he fired Michael Flynn because he lied to the FBI</strong> about his conversations with Russian Ambassador Sergey Kislyak during the presidential transition last December. "I had to fire General Flynn because he lied to the Vice President and the FBI. He has pled guilty to those lies," Trump tweeted. (<a href="https://www.nytimes.com/2017/12/02/us/politics/trump-michael-flynn.html">New York Times)</a></p>
 
 
 
@@ -54,7 +145,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
-<p><strong>The Russia investigation is "wearing" on the White House and "everyone thinks they're being recorded."</strong> Michael Flynn's plea is the closest that Robert Mueller's probe into Russian meddling and collusion has come to the Oval Office. It was a dramatic step for an investigation that has infuriated Trump since its creation. Flynn spent countless hours briefing the businessman-turned-politician during the 2016 campaign and was Trump's top national security aide. Flynn's plea deal includes an agreement that he could avoid a potential lengthy jail term in part by "participating in covert law enforcement activities." (<a href="https://www.cnn.com/2017/12/01/politics/president-donald-trump-white-house-russia-fallout/index.html">CNN</a> / <a href="https://www.politico.com/story/2017/12/04/white-house-paranoid-trump-277761">Politico</a>)</p>
+<p><strong>The Russia investigation is "wearing" on the White House and "everyone thinks they're being recorded."</strong> Michael Flynn's plea is the closest that Robert Mueller's probe into Russian meddling and collusion has come to the Oval Office. Flynn's plea deal includes an agreement that he could avoid a potential lengthy jail term in part by "participating in covert law enforcement activities." (<a href="https://www.cnn.com/2017/12/01/politics/president-donald-trump-white-house-russia-fallout/index.html">CNN</a> / <a href="https://www.politico.com/story/2017/12/04/white-house-paranoid-trump-277761">Politico</a>)</p>
 
 
 
@@ -3345,6 +3436,7 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/">February 02, 2017</a></small></div>
 <p><strong>Shouting match over Russia erupts at House hearing over Russian interference in the presidential election.</strong> Th fight exposed bitter frustration amongst Democrats that Republicans have kept the issue locked in a single committee. (<a href="http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation">The Hill</a>)</p>
+
 
 
 

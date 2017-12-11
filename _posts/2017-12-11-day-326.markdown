@@ -1,0 +1,38 @@
+---
+title: Day 326
+date: 2017-12-11 09:02:00 -08:00
+description: 'Heard. '
+image: "/uploads/326.jpg"
+---
+
+1/ **Three women who previously accused Trump of sexual harassment called for Congress to investigate the allegations**. Jessica Leeds, Samantha Holvey, and Rachel Crooks said that "a non-partisan investigation is important not just for him but for anybody that has allegations against them, this isn't a partisan issue, this is how women are treated everyday." The White House called the accusations false and "totally disputed in most cases," adding that "the timing and absurdity of these false claims speak volumes." ([CBS News](https://www.cbsnews.com/news/trump-accusers-press-conference-sexual-misconduct-post-megyn-kelly-interview-live-stream/) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/12/11/trump-accusers-say-it-was-heartbreaking-to-see-him-elected-despite-sexual-misconduct-allegations/) / [USA Today](https://www.usatoday.com/story/news/2017/12/11/trump-sexual-misconduct-accusers-megyn-kelly-today/939683001/))
+
+{% twitter https://twitter.com/MegynTODAY/status/940233035693379584 %}
+
+* **How Trump came around to support an accused child molester**: He doesn't believe the claims leveled by Roy Moore's accusers. Who were these women, he asked, and why had they kept quiet for 40 years only to level charges weeks before an election? ([Politico](https://www.politico.com/story/2017/12/11/roy-moore-trump-republicans-288769))
+
+2/ **Nikki Haley: the women who've accused Trump of sexual harassment "should be heard,"** breaking from the administration's assertion that the allegations are false. The US ambassador to the United Nations argued that Trump's accusers should be treated no differently than the other women who have come forward recently with stories of sexual harassment and misconduct against other men. ([New York Times](https://www.nytimes.com/2017/12/10/us/politics/nikki-haley-trump-women-sexual-misconduct.html))
+
+3/ **Three Democratic senators called for Trump's resignation over sexual harassment and assault accusations against him**. Bernie Sanders, Cory Booker, and Jeff Merkley suggested that the standard that brought down Al Franken should be applied to Trump. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/12/10/in-frankens-wake-three-senators-call-on-president-trump-to-resign/) / [CNN](https://www.cnn.com/2017/12/11/politics/booker-merkley-trump-resignation/))
+
+{% twitter https://twitter.com/SenSanders/status/938821733993402368 %}
+
+4/ **Obama called on Alabama voters to reject Roy Moore**. "This one's serious," Obama said in a recorded message intended for black voters whose turnout is critical for Democratic candidate Doug Jones. "You can't sit it out." Multiple women have accused Moore of pursuing relationships with them when they were teenagers while he was in his 30s, and one woman has accused him of sexual assault. ([CNN](https://www.cnn.com/2017/12/11/politics/barack-obama-alabama-senate/index.html))
+
+* **A Nebraska Republican National Committeewoman resigned in protest** of the committee's financial support for Roy Moore. ([Politico](https://www.politico.com/story/2017/12/11/nebraska-rnc-official-resigns-roy-moore-support-289308))
+
+poll/ **50% of Alabama voters support Democrat Doug Jones**. 40% support Roy Moore. ([Fox News](http://www.foxnews.com/politics/2017/12/11/fox-news-poll-enthused-democrats-give-jones-lead-over-moore-in-alabama.html))
+
+poll/ **32% of Americans support the GOP tax plan** - the lowest level of public support for any major piece of legislation enacted int he past three decades. 53% say it won't help the economy in a major way. ([USA Today](https://www.usatoday.com/story/news/2017/12/10/poll-most-americans-doubt-gop-bill-cut-their-taxes-boost-economy/938355001/))
+
+---
+
+### Notables.
+
+1. **Four people were injured in an explosion in the passageway connecting the Times Square and Port Authority subway stations**. A suspect is in custody. Mayor Bill de Blasio called the blast an "attempted terrorist attack." ([New York Times](https://www.nytimes.com/2017/12/11/nyregion/explosion-times-square.html))
+
+2. **The Supreme Court refused to hear a case challenging sex discrimination protections** in employment and whether they extend to sexual orientation. ([The Hill](http://thehill.com/regulation/court-battles/364243-supreme-court-refuses-to-hear-lgbt-workplace-discrimination-case))
+
+3. **Putin ordered the partial withdrawal of Russian troops from Syria**. Putin made a similar withdrawal announcement last year, but Russian military operations continued. ([BBC](http://www.bbc.com/news/world-middle-east-42307365))
+
+4. **Inside Trump's battle for self-preservation**. tl;dr Twitter, cable news, and a dozen Diet Cokes. ([New York Times](https://www.nytimes.com/2017/12/09/us/politics/donald-trump-president.html))

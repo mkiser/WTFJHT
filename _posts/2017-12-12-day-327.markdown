@@ -15,7 +15,7 @@ image: "/uploads/327.jpg"
 
 {% twitter https://twitter.com/daveweigel/status/940399983181869056 %}
 
-{% twitter https://twitter.com/TVietor08/status/940458913467588608 %}
+{% twitter https://twitter.com/NBCNews/status/940409570249371648 %}
 
 3/ **The Alabama Supreme Court blocked a circuit judges order to preserve voting records from today's special election**. On Monday, a circuit judge ordered election officials to set voting machines to save all digital ballot images in order to preserve voting records in the event of a recount. Today, the state's Supreme Court stayed the order. ([The Hill](http://thehill.com/homenews/campaign/364430-alabama-supreme-court-stays-order-to-preserve-voting-records-in-senate) / [AL.com](http://www.al.com/news/index.ssf/2017/12/judge_orders_alabama_not_to_de.html))
 

@@ -5,7 +5,9 @@ description: 'Sexist smear. '
 image: "/uploads/327.jpg"
 ---
 
-1/ **Alabama voters head to the polls today**. Republican candidate Roy Moore, supported by Trump, has been accused of pursuing romantic relationships with teenage girls while in his mid-30s, with one woman accusing him of sexual assault when she was 14. If Democrat Doug Jones wins, Republicans would have their majority trimmed to 51-49 in the Senate. Polls close today at 5pm ET. ([NBC News](https://www.nbcnews.com/politics/first-read/alabama-race-has-big-stakes-trump-gop-2018-n828681))
+1/ **Alabama voters head to the polls today**. Republican candidate Roy Moore, supported by Trump, has been accused of pursuing romantic relationships with teenage girls while in his mid-30s, with one woman accusing him of sexual assault when she was 14. If Democrat Doug Jones wins, Republicans would have their majority trimmed to 51-49 in the Senate. Polls close today at 8pm ET. ([NBC News](https://www.nbcnews.com/politics/first-read/alabama-race-has-big-stakes-trump-gop-2018-n828681))
+
+* **Live Alabama Election Results**. ([New York Times](https://www.nytimes.com/elections/results/alabama-senate-special-election-roy-moore-doug-jones))
 
 * **5 things to watch for in the Alabama Senate election**. Doug Jones' chances hinge on African-American turnout and college-educated crossover voters, while Roy Moore is banking on an animated conservative base. ([Politico](https://www.politico.com/story/2017/12/12/alabama-senate-moore-jones-election-291741))
 
@@ -17,11 +19,13 @@ image: "/uploads/327.jpg"
 
 {% twitter https://twitter.com/NBCNews/status/940409570249371648 %}
 
-3/ **The Alabama Supreme Court blocked a circuit judge's order to preserve voting records from today's special election**. On Monday, a circuit judge ordered election officials to set voting machines to save all digital ballot images in order to preserve voting records in the event of a recount. Today, the state's Supreme Court stayed the order. ([The Hill](http://thehill.com/homenews/campaign/364430-alabama-supreme-court-stays-order-to-preserve-voting-records-in-senate) / [AL.com](http://www.al.com/news/index.ssf/2017/12/judge_orders_alabama_not_to_de.html))
+3/ **The Alabama Supreme Court blocked a circuit judge's order to preserve voting records from today's special election**. On Monday, a circuit judge ordered election officials to set voting machines to save all digital ballot images in order to preserve voting records in the event of a recount. Today, the state's Supreme Court stayed the order, meaning Alabama is allowed to destroy digital voting records. ([The Hill](http://thehill.com/homenews/campaign/364430-alabama-supreme-court-stays-order-to-preserve-voting-records-in-senate) / [AL.com](http://www.al.com/news/index.ssf/2017/12/in_final-hour_order_court_rule.html))
 
 4/ **56 female Democratic lawmakers asked the House Oversight Committee to investigate allegations of sexual misconduct against Trump**, who has denied the accusations. "At least 17 women have publicly accused the President of sexual misconduct," the lawmakers wrote in a letter. In response, Trump tweeted that these are "false accusations and fabricated stories of women who I don't know and/or have never met. FAKE NEWS!" ([NBC News](https://www.nbcnews.com/storyline/sexual-misconduct/fifty-six-female-democratic-lawmakers-ask-house-investigate-trump-n828611) / [Reuters](https://www.reuters.com/article/us-usa-trump-women-congress/u-s-house-democratic-women-seek-probe-of-trump-misconduct-accusations-idUSKBN1E606Z))
 
 {% twitter https://twitter.com/realDonaldTrump/status/940554567414091776 %}
+
+* **Videos and photos shows Trump with some of the women who have accused him of sexual misconduct** after he said his accusers are "women who I don’t know and/or have never met." ([The Hill](http://thehill.com/homenews/administration/364506-footage-shows-trump-with-accusers-after-he-claimed-he-never-met-them))
 
 5/ **Trump implied that Kirsten Gillibrand would do anything for money in a sexually suggestive tweet** in which he called her a "lightweight" and accused her of "begging" for campaign contributions. Gillibrand called Trump's tweet a "sexist smear" meant to silence her and those who have accused him of sexual misconduct, while Elizabeth Warren accused Trump of trying to "slut-shame" the senator. Yesterday, Gillibrand called on Trump to resign. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/12/12/trump-sends-sexually-suggestive-and-demeaning-tweet-about-gillibrand/) / [New York Times](https://www.nytimes.com/2017/12/12/us/politics/trump-blames-democrats-for-false-accusations-from-women.html) / [NBC News](https://www.nbcnews.com/politics/white-house/trump-attacks-kirsten-gillibrand-twitter-after-she-calls-him-resign-n828701))
 
@@ -41,6 +45,10 @@ image: "/uploads/327.jpg"
 
 7/ **Rex Tillerson told diplomats that Russia "interfered in democratic processes here,"** something Trump continues to call "fake news" intended to delegitimize his presidency. The comment came in a closed-door meeting with US diplomats where Tillerson also praised Trump for trying to focus on "productive engagement" with Russia. ([The Daily Beast](https://www.thedailybeast.com/exclusive-rex-tillerson-in-meeting-with-us-diplomats-says-russia-interfered-in-election))
 
+poll/ **83% of voters oppose of the FCC's plan to repeal net neutrality laws**, including 75% of Republicans, as well as 89% of Democrats and 86% of independents. ([University of Maryland’s Program for Public Consultation](http://www.publicconsultation.org/united-states/overwhelming-bipartisan-majority-opposes-repealing-net-neutrality/)) 
+
+poll/ **61% of voters think the Senate should expel Roy Moore if he wins** the special election in Alabama, including 77% of Democrats, 59% of independents, and 45% of Republicans. ([Politico](https://www.politico.com/story/2017/12/12/poll-roy-moore-kick-out-of-senate-291929))
+
 poll/ **58% of Americans believe the level of government corruption has risen in the past 12 months**. 44% now believe that most or all of the officials in the White House are corrupt – up from 36% last year. ([Newsweek](http://www.newsweek.com/trump-flynn-kushner-ivanka-corruption-ethics-744701))
 
 poll/ **57% of Americans disapprove of Trump's job performance**, compared to 37% who approve. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=2507))
@@ -55,6 +63,8 @@ poll/ **57% of Americans disapprove of Trump's job performance**, compared to 37
 
 3. **Trump's legal team is trying to protect him from Robert Mueller's "killers"** in the Russia probe, while facing criticism that they are outmatched. ([Washington Post](https://www.washingtonpost.com/politics/inside-trumps-legal-team-trying-to-protect-the-president-from-muellers-killers/2017/12/11/57e180c0-dc74-11e7-b859-fb0995360725_story.html))
 
-4. **The Trump administration will let Assad stay until Syria's next Presidential election in 2021**, reversing the US stance that Assad must step down as part of a peace process. ([The New Yorker](https://www.newyorker.com/sections/news/trump-to-let-assad-stay-until-2021-as-putin-declares-victory-in-syria))
+4. Then Senate Judiciary Committee Chairman asked Trump to rethink two of his judicial nominees. Chuck Grassley advised the White House to "reconsider" the nomination of Jeff Mateer and said they "should not proceed" on the nomination of Brett Talley. ([CNN](https://www.cnn.com/2017/12/12/politics/trump-judicial-picks/index.html))
 
-5. **The House and Senate could reconcile their tax bills this week**. An announcement could come as soon as today or Wednesday. The conference committee is scheduled to meet Wednesday at 2pm. ([Washington Post](https://www.washingtonpost.com/news/business/wp/2017/12/12/congress-could-finalize-deal-to-reconcile-house-and-senate-tax-bills-as-soon-as-today-top-republican-says/))
+5. **The Trump administration will let Assad stay until Syria's next Presidential election in 2021**, reversing the US stance that Assad must step down as part of a peace process. ([The New Yorker](https://www.newyorker.com/sections/news/trump-to-let-assad-stay-until-2021-as-putin-declares-victory-in-syria))
+
+6. **The House and Senate could reconcile their tax bills this week**. An announcement could come as soon as today or Wednesday. The conference committee is scheduled to meet Wednesday at 2pm. ([Washington Post](https://www.washingtonpost.com/news/business/wp/2017/12/12/congress-could-finalize-deal-to-reconcile-house-and-senate-tax-bills-as-soon-as-today-top-republican-says/))

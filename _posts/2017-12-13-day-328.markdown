@@ -9,7 +9,7 @@ image: "/uploads/328.jpg"
 
 {% twitter https://twitter.com/GDouglasJones/status/940786092315471872 %}
 
-2/ **Roy Moore won't concede the race, saying he will "wait on God and let this process play out."** The Alabama Republican Party said it would not support Moore's push for a recount. Moore trails Jones by more than 20,000 votes. ([USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2017/12/13/wait-god-roy-moore-still-hasnt-conceded/947422001/) / [Washington Post](https://www.washingtonpost.com/powerpost/as-democrats-add-senate-seat-gop-left-to-bicker-over-what-happened-in-alabama/2017/12/13/61bf59f2-dff6-11e7-8679-a9728984779c_story.html))
+2/ **Roy Moore hasn't conceded the race, saying he will "wait on God and let this process play out."** The Alabama Republican Party said it would not support Moore's push for a recount. Moore trails Jones by more than 20,000 votes. ([USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2017/12/13/wait-god-roy-moore-still-hasnt-conceded/947422001/) / [Washington Post](https://www.washingtonpost.com/powerpost/as-democrats-add-senate-seat-gop-left-to-bicker-over-what-happened-in-alabama/2017/12/13/61bf59f2-dff6-11e7-8679-a9728984779c_story.html))
 
 3/ **Trump tweets: "I was right" that Roy Moore would "not be able to win" in Alabama because "the deck was stacked against him!"** Trump, however, endorsed Moore after his preferred candidate, Luther Strange, lost in the primary, recording a robocall on Moore's behalf, and holding a campaign-style rally just across the state line in Florida last week. ([CNN](https://www.cnn.com/2017/12/13/_politics-zone-injection/trump-tweet-alabama/index.html) / [Politico](https://www.politico.com/story/2017/12/13/trump-responds-alabama-senate-election-2017-294168) / [New York Times](https://www.nytimes.com/2017/12/13/us/trump-moore-loss-alabama.html))
 
@@ -19,9 +19,17 @@ image: "/uploads/328.jpg"
 
 4/ **Senate Democrats called on Republicans to wait until Doug Jones is seated to vote on the tax bill**. GOP lawmakers expect the two chambers to reach a deal in the coming days with a final vote early next week. The soonest Jones could be seated is December 26th or 27th. The Senate passed the tax bill early this month by a 51 to 49 margin. ([Washington Post](https://www.washingtonpost.com/powerpost/democrats-call-for-halt-to-gop-tax-bill-until-jones-is-seated-in-the-senate/2017/12/13/9c42fe44-e00f-11e7-8679-a9728984779c_story.html))
 
-5/ **House and Senate Republicans reached an agreement on their joint tax bill**. The party is expected to vote next week. The agreement would set the top individual tax rate at 37%, down from today’s 39.6%. The corporate rate would be 21% and would take effect in 2018.([New York Times](https://www.nytimes.com/2017/12/13/us/politics/tax-bill-republicans-deal.html) / [Wall Street Journal](https://www.wsj.com/articles/house-senate-republicans-reach-deal-on-final-tax-bill-1513185360)) 
+5/ **House and Senate Republicans reached an agreement on their joint tax bill**. The House and Senate are expected to vote next week. The agreement would set the top individual tax rate at 37%, down from today’s 39.6%. The corporate rate would drop to 21% from 37% and would take effect in 2018, rather than 2019. ([New York Times](https://www.nytimes.com/2017/12/13/us/politics/tax-bill-republicans-deal.html) / [Wall Street Journal](https://www.wsj.com/articles/house-senate-republicans-reach-deal-on-final-tax-bill-1513185360) / [Washington Post](https://www.washingtonpost.com/business/economy/republicans-reach-compromise-tax-plan-expanding-tax-cuts-for-the-wealthy/2017/12/13/4f9ca66c-e028-11e7-bbd0-9dfb2e37492a_story.html))
+
+6/ **Trump pulled two of his judicial nominees** after the Senate Judiciary Committee said the candidates would not be confirmed. Earlier this week Chuck Grassley urged the White House to withdraw the nominations of Brett Talley, who have never tried a case, and to reconsider Jeff Mateer, who has called transgender children part of "Satan's plan." ([Politico](https://www.politico.com/story/2017/12/13/brett-talley-trump-nominee-withdraws-295322) / [Washington Post](https://www.washingtonpost.com/powerpost/two-controversial-federal-judge-nominees-will-not-be-confirmed-senate-republican-says/2017/12/13/e3876ffa-e02e-11e7-8679-a9728984779c_story.html))
+
+7/ **Deputy Attorney General Rod Rosenstein defended Robert Mueller's investigation during a House Judiciary Committee** hearing, saying he hasn't seen "good cause" to fire Mueller. Republicans used the hearing to raise doubts about Mueller's motives after it was discovered that an FBI agent assigned to the investigation sent anti-Trump texts to another FBI official during the Hillary Clinton email investigation. Peter Strzok was removed from the investigation after the texts were discovered. Republicans want a second special counsel to be appointed to investigate how the FBI handled the Clinton investigation. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-12-13/trump-says-republicans-are-very-very-close-on-tax-deal) / [CBS News](https://www.cbsnews.com/news/rod-rosenstein-tells-congress-he-hasnt-seen-good-cause-to-fire-robert-mueller/))
+
+* **The Justice Department gave the House Judiciary Committee Peter Strzok's text message conversations with FBI lawyer Lisa Page**. Among many other comments, the two called Trump a "a loathsome human," "an idiot," and an "enormous d\*uche." ([Washington Post](https://www.washingtonpost.com/world/national-security/fbi-texts-reveal-anti-trump-pro-clinton-comments/2017/12/12/e0685f80-dfa4-11e7-bbd0-9dfb2e37492a_story.html))
 
 poll/ **50% of voters think the sexual misconduct allegations against Trump are credible**, while 29% don't think they're credible and 21% are not sure if they're credible. ([Politico](https://www.politico.com/story/2017/12/13/republicans-senate-moore-alabama-293096))
+
+poll/ **56% of voters disapprove of Trump's job performance** while 32% approve. ([Monmouth University](https://www.monmouth.edu/polling-institute/reports/MonmouthPoll_US_121317/))
 
 ---
 
@@ -33,6 +41,10 @@ poll/ **50% of voters think the sexual misconduct allegations against Trump are 
 
 3. **Chuck Schumer was the victim of a fake news hit** and turned over to Capitol Police a document purporting sexual harassment accusations by a former staffer. ([Axios](https://www.axios.com/schumer-calls-cops-after-forged-sex-scandal-charge-2517019807.html))
 
-4. **Omarosa Manigault Newman plans to leave the White House next month**. ([CNN](https://www.cnn.com/2017/12/13/politics/omarosa-manigault-newman-white-house/index.html))
+4. **John McCain is in the hospitable for treatment related to his cancer therapy**. McCain was diagnosed with glioblastoma in July, an aggressive form of brain cancer. ([The Hill](http://thehill.com/homenews/senate/364775-mccain-back-in-hospital-for-treatment-related-to-cancer-therapy))
 
-5. **Minnesota governor Mark Dayton appointed Lt. Gov. Tina F. Smith to fill Al Franken's seat in the U.S. Senate**. Smith would become the 22nd woman to serve in the Senate. ([Washington Post](https://www.washingtonpost.com/powerpost/minn-gov-will-appoint-his-lieutenant-tina-f-smith-to-replace-franken-in-senate/2017/12/13/b53ba15c-e010-11e7-8679-a9728984779c_story.html))
+5. **Omarosa Manigault Newman plans to leave the White House next month**. ([CNN](https://www.cnn.com/2017/12/13/politics/omarosa-manigault-newman-white-house/index.html))
+
+6. **The Federal Reserve increased interest rates** and raised their forecast for economic growth in 2018. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-12-13/fed-raises-rates-while-sticking-to-three-hike-outlook-for-2018))
+
+7. **Minnesota governor Mark Dayton appointed Lt. Gov. Tina F. Smith to fill Al Franken's seat in the U.S. Senate**. Smith would become the 22nd woman to serve in the Senate. ([Washington Post](https://www.washingtonpost.com/powerpost/minn-gov-will-appoint-his-lieutenant-tina-f-smith-to-replace-franken-in-senate/2017/12/13/b53ba15c-e010-11e7-8679-a9728984779c_story.html))

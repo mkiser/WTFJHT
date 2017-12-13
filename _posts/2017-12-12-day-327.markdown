@@ -39,7 +39,7 @@ image: "/uploads/327.jpg"
 
 {% twitter https://twitter.com/SenWarren/status/940615748988342273 %}
 
-* **A sixth senator called on Trump to resign** amid renewed attention to past allegations of sexual harassment and assault. Mazie Hirono called Trump is a "misogynist," an "admitted sexual predator," and a "liar" with a "narcissistic need for attention." She said "nobody's safe" from him and the only thing that will stop him is his resignation. ([Politico](https://www.politico.com/story/2017/12/12/list-senators-who-say-trump-should-resign-291756))
+* **A sixth senator called on Trump to resign** amid renewed attention to past allegations of sexual harassment and assault. Mazie Hirono called Trump a "misogynist," an "admitted sexual predator," and a "liar" with a "narcissistic need for attention." She said "nobody's safe" from him and the only thing that will stop him is his resignation. ([Politico](https://www.politico.com/story/2017/12/12/list-senators-who-say-trump-should-resign-291756))
 
 * {% twitter https://twitter.com/MariannaNBCNews/status/940615524257583106 %}
 

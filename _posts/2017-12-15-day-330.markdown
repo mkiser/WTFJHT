@@ -5,7 +5,7 @@ description: Shame.
 image: "/uploads/330.jpg"
 ---
 
-1/ **Cambridge Analytica handed over employees' emails to Robert Mueller's team** as part of his investigation into Russian interference in the 2016 election. The firm provided the Trump campaign with data, polling, and research services during the race. The emails had previously been voluntarily turned over to the House Intelligence Committee. ([Wall Street Journal](https://www.wsj.com/articles/mueller-sought-emails-of-trump-campaign-data-firm-1513296899))
+1/ **Cambridge Analytica handed over employees' emails to Robert Mueller's team** as part of the special counsel's investigation into Russian interference in the 2016 election. The firm provided the Trump campaign with data, polling, and research services during the race. The emails had previously been voluntarily turned over to the House Intelligence Committee. ([Wall Street Journal](https://www.wsj.com/articles/mueller-sought-emails-of-trump-campaign-data-firm-1513296899))
 
 2/ **Trump called the FBI a "shame" hours before telling new graduates that he has their "back 100%."** Trump promised "to rebuild the FBI" and make it "be bigger and better than ever." He called himself a "true friend and loyal champion" of the FBI – "more loyal than anyone else can be" – but also said "people are very angry" with the FBI and Justice Department. Last week Trump said the FBI was in "[tatters](https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/)." ([NPR](https://www.npr.org/2017/12/15/570868360/after-months-of-withering-criticism-trump-prepares-to-visit-fbi) / [Axios](https://www.axios.com/trump-tells-fbi-graduates-he-has-their-back-100-percent-2517682727.html))
 
@@ -15,7 +15,7 @@ image: "/uploads/330.jpg"
 
 {% twitter https://twitter.com/gabrielsherman/status/941358313236828160 %}
 
-5/ **One of Trump's judicial nominees struggled to answer basic questions about the law during his Senate Judiciary Committee confirmation hearing**. Matthew Petersen is a member of the Federal Election Commission and a lawyer with no trial experience. During an uncomfortable five minutes of quizzing on the basics of trial procedure by Senator John Neely Kennedy, Petersen said "I understand the challenge that would be ahead of me." ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/12/15/trump-judicial-nominee-fumbles-basic-questions-about-the-law/) / [NPR](https://www.npr.org/2017/12/15/571060681/video-shows-trump-judicial-nominee-unable-to-answer-basic-questions-of-law))
+5/ **One of Trump's judicial nominees struggled to answer basic questions about the law during his Senate Judiciary Committee confirmation hearing**. Matthew Petersen is a member of the Federal Election Commission and a lawyer with no trial experience. During an uncomfortable five minutes of quizzing on the basics of trial procedure by Senator John Neely Kennedy, Petersen said, "I understand the challenge that would be ahead of me." ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/12/15/trump-judicial-nominee-fumbles-basic-questions-about-the-law/) / [NPR](https://www.npr.org/2017/12/15/571060681/video-shows-trump-judicial-nominee-unable-to-answer-basic-questions-of-law))
 
 {% twitter https://twitter.com/SenWhitehouse/status/941484131757838337 %}
 
@@ -25,7 +25,7 @@ poll/ **54% of voters think Robert Mueller's "relationship" with James Comey rep
 
 ### Notables.
 
-1. **A Wall Street Journal op-ed urging "everybody calm down about net neutrality" was written by a former Comcast Attorney**. ([The Intercept](https://theintercept.com/2017/12/14/that-net-neutrality-op-ed-in-the-wall-street-journal-was-written-by-a-comcast-attorney/))
+1. **A Wall Street Journal op-ed urging "everybody calm down about net neutrality" was written by a former Comcast attorney**. ([The Intercept](https://theintercept.com/2017/12/14/that-net-neutrality-op-ed-in-the-wall-street-journal-was-written-by-a-comcast-attorney/))
 
 2. **The EPA hired an opposition research firm to track and shape press coverage using taxpayer money**. Scott Pruitt's office signed the no-bid $120,000 contract with Definers Corp. ([Mother Jones](http://www.motherjones.com/politics/2017/12/the-epa-hired-a-major-republican-opposition-research-firm-to-track-press-activity/))
 

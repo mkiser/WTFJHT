@@ -25,6 +25,8 @@ image: "/uploads/330.jpg"
 
 9. The Senate is expected to vote Monday and House is expected to vote Tuesday
 
+---
+
 1/ **Marco Rubio and Bob Corker will vote "yes" on the GOP tax bill**, giving Republicans the votes needed to pass the measure in the Senate. Rubio announced his support after Republican leaders agreed to expand the Child Tax Credit for low and middle-income families. Corker called the bill a "once-in-a-generation opportunity." Republicans will release the bill's text today and will vote on it next week. ([Politico](https://www.politico.com/story/2017/12/15/republican-tax-bill-changes-297784) / [New York Times](https://www.nytimes.com/2017/12/15/us/politics/republican-tax-bill.html) / [Washington Post](https://www.washingtonpost.com/business/economy/rubio-pushes-leadership-on-help-for-poor-families-with-tax-vote-hanging-in-the-balance/2017/12/15/ecb87942-e1a6-11e7-8679-a9728984779c_story.html))
 
 {% twitter https://twitter.com/marcorubio/status/941748393772224513 %}

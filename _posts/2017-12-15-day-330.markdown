@@ -5,7 +5,7 @@ description: Shame.
 image: "/uploads/330.jpg"
 ---
 
-> **What's in the GOP health care bill. **
+> **What's in the GOP health care bill.**
 >
 > 1. Top income tax rate drops to 37% from 39.6%
 >
@@ -19,7 +19,7 @@ image: "/uploads/330.jpg"
 >
 > 6. Latest Senate version will cost $1.5 trillion over 10 years
 >
-> 7. The child tax credit will double 
+> 7. The child tax credit will double
 >
 > 8. The standard deduction will increase to $12,000 for an individual or $24,000 for a family
 >

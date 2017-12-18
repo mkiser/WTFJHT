@@ -1,0 +1,40 @@
+---
+title: Day 329
+date: 2017-12-14 08:51:00 -08:00
+description: 'Break the internet. '
+image: "/uploads/329.jpg"
+---
+
+1/ **The FCC voted to repeal net neutrality**, which required internet service providers to treat all web traffic equally. The measure passed 3-2 with the Republican appointees supporting repeal and the Democratic appointees opposing. 83% of Americans supported the rules that are in place. Internet providers are now free to speed up services for some apps and websites, while blocking or slowing down others. In Ajit Pai's first 11 months as FCC chairman, he's lifted media ownership limits, eased caps on how much broadband providers can charge business customers, and cut back on a low-income broadband program that was supposed to be expanded. ([Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2017/12/14/the-fcc-is-expected-to-repeal-its-net-neutrality-rules-today-in-a-sweeping-act-of-deregulation/) / [New York Times](https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html))
+
+* **In a letter to FCC chairman Ajit Pai, 18 attorneys general asked the commission to delay the net neutrality vote** pending an investigation into fake comments. Of the 22 million public comments filed with the FCC, 94% of them "were submitted multiple times, and in some cases those comments were submitted many hundreds of thousands of times." ([The Hill](http://thehill.com/policy/technology/364833-18-attorneys-general-ask-fcc-to-delay-net-neutrality-vote-for-fake-comments) / [NPR](https://www.npr.org/2017/12/14/570262688/as-fcc-prepares-net-neutrality-vote-study-finds-millions-of-fake-comments))
+
+* **The New York attorney general said the net neutrality public comment process was corrupted by more than two million comments  that used stolen identities**. Eric Schneiderman called on the FCC to delay the vote and cooperate with his investigation into illegal criminal impersonation under New York law. ([New York State Office of the Attorney General](https://ag.ny.gov/press-release/ag-schneiderman-releases-new-details-investigation-fake-net-neutrality-comments))
+
+2/ **Trump's pick to regulate toxic chemicals at the EPA has withdrawn his nomination due to his ties to the chemical industry**. Michael Dourson spent decades conducting research that chemical manufacturers used to downplay the risks of hazardous substances. ([NBC News](https://www.nbcnews.com/politics/white-house/trump-s-controversial-pick-epa-post-withdraws-nomination-n829596))
+
+3/ **Paul Ryan is considering retirement**. Three dozen fellow lawmakers, congressional and administration aides, conservative intellectuals and Republican lobbyists all said they believe Ryan will leave Congress after the 2018 midterm elections – and possibly even sooner than that. ([Politico](https://www.politico.com/magazine/story/2017/12/14/paul-ryan-retire-speaker-ready-leave-washington-216103))
+
+4/ **Marco Rubio will vote against the Republicans' $1.5 trillion tax plan** unless it includes a larger expansion of a child tax credit. Republicans control 52 seats in the Senate and need 50 votes in order to pass their bill. Bob Corker already opposes the plan. ([Washington Post](https://www.washingtonpost.com/business/economy/rubio-to-vote-against-gop-tax-bill-unless-tax-credit-for-working-poor-is-expanded/2017/12/14/8be53a22-e0f9-11e7-89e8-edec16379010_story.html))
+
+5/ **Omarosa Manigault: There "were a lot of things that I observed during the last year that I was very unhappy with" and "made me uncomfortable."** The former "Apprentice" contestant [reportedly](http://thehill.com/homenews/administration/364827-omarosa-tripped-white-house-alarms-report) tried to enter the White House residence after a confrontation yesterday with John Kelly, who told her that her employment in the administration would end on January 20th. Manigault was then escorted off the White House grounds. ([ABC News](http://abcnews.go.com/Politics/omarosa-manigault-speaks-wh-exit-things-made-uncomfortable/story?id=51786749))
+
+6/ **Trump's daily intelligence briefings are often structured to avoid upsetting him**. Russia-related intelligence, specifically, is usually only included in the written assessment and not addressed orally. When it is, the CIA analyst leading the briefing will adjust the presentation's structure in order to soften the impact ([Washington Post](https://www.washingtonpost.com/graphics/2017/world/national-security/donald-trump-pursues-vladimir-putin-russian-election-hacking/?tid=a_inl))
+
+poll/ **53% of voters think Trump should resign over the allegations of sexual harassment**. 42% think he should remain in office. 53% of voters believe the women who have accused Trump of harassment compared to 31% who think they aren’t telling the truth. ([Public Policy Polling](https://www.publicpolicypolling.com/polls/voters-think-trump-resign-harassment-allegations/))
+
+---
+
+### Notables.
+
+1. **Congressman Blake Farenthold will not seek re-election** following reports that he used taxpayer money to settle a sexual harassment complaint by a former staffer, who was fired after she confronted him about his behavior. ([ABC 25](http://www.crossroadstoday.com/story/37066030/farenthold-calls-it-quits))
+
+2. **Kentucky State Rep. Dan Johnson died from a single gunshot wound to the head**. He was under investigation for alleged sexual molestation. ([WDRB](http://www.wdrb.com/story/37062873/kentucky-state-rep-dan-johnson-dies-of-probable-suicide-in-mt-washington))
+
+3. **A congressional ethics official overseeing the investigations into misconduct by lawmakers is being sued of verbally abusing and physically assaulting women** and using his federal position to influence local law enforcement. ([Foreign Policy](http://foreignpolicy.com/2017/12/14/head-of-congressional-ethics-office-sued-for-abusing-position-accused-of-assaulting-women/))
+
+4. **Mike Pence delayed his visit to Israel** as Congress prepares to vote on tax reform. Republicans hold a 52-48 majority in the Senate and Pence holds the tie-breaking vote. ([CNN](https://www.cnn.com/2017/12/14/politics/pence-israel-visit-delayed/index.html))
+
+5. **Trump Jr. testified to the Senate Intelligence Committee yesterday**, spending nine hours answering questions from the panel. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-son/trumps-eldest-son-testifies-to-senate-committee-in-russia-probe-idUSKBN1E72AF))
+
+6. **Lindsey Graham said there is a 30% chance Trump attacks North Korea**, because "time is running out." ([The Atlantic](https://www.theatlantic.com/international/archive/2017/12/lindsey-graham-war-north-korea-trump/548381/))

@@ -17,7 +17,7 @@ redirect_from: "/russia/"
 <ol>
 	<li>Trump’s former national security adviser, Michael Flynn, pleaded guilty to lying to the F.B.I. about conversations with the Russian ambassador last December during the presidential transition, bringing the special counsel’s investigation into the president’s inner circle.</li>
 	<li>Former Trump campaign manager, Paul Manafort and his deputy have been charged with a 12 count indictment by special counsel Robert Mueller, which includes money laundering and conspiracy against the US. Both pled not guilty and are currently under house arrest.</li>
-	<li>A former foreign policy advisor to Trump was arrested in July for lying to the FBI about his contacts with Russian officials during the campaign. He has pled guilty, confirming his contacts with Russia in doing so and has been “proactively cooperating” with the special counsel investigations. This hits closes to the heart of the collusion component.</li>
+	<li>A former foreign policy advisor to Trump was arrested in July for lying to the FBI about his contacts with Russian officials during the campaign. He has pled guilty, confirming his contacts with Russia in doing so and has been “proactively cooperating” with the special counsel investigations. This hits closest to the heart of the collusion component.</li>
 	<li>The Senate Judiciary Committee’s investigation has gone it’s partisan ways and will be pursued separately by Republicans and Democrats on the committee. The commitee’s focus has been obstruction of justice in relation to possible collusion between Trump’s campaign and Russia, as it has oversight of the FBI.</li>
 	<li>126 million. This is the latest estimate of how many users were potentially reach by Russia’s disinformation and social media war. Facebook, Twitter and Google have been cooperating with Congress and the special counsel, as well as working to implement safeguards for 2018 and beyond.</li>
 </ol>
@@ -26,6 +26,51 @@ redirect_from: "/russia/"
 
 
 
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/18/day-333/">December 18, 2017</a></small></div>
+<p><strong>The FBI warned Trump in 2016 that Russia would try to infiltrate his campaign</strong>. Both Trump and Hillary Clinton received counterintelligence briefings by senior FBI officials, which advised them to alert the FBI to any "suspicious overtures to their campaigns." Trump was "briefed and warned" at the session about potential espionage threats from Russia. (<a href="https://www.nbcnews.com/news/us-news/fbi-warned-trump-2016-russians-would-try-infiltrate-his-campaign-n830596">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/18/day-333/">December 18, 2017</a></small></div>
+<p><strong>Republicans on the House Intelligence Committee are trying to wrap up their Russia probe by the end of the year</strong>. Democrats have requested as many as 30 additional interviews with new witnesses, but none have been scheduled beyond the end of this month. Some witnesses are scheduled to be interviewed in New York this week, leaving Democrats to choose between attending those depositions or voting on the tax bill coming before the House. (<a href="https://www.nytimes.com/2017/12/15/us/politics/house-intelligence-committee-russia-interference.html">New York Times</a> / <a href="https://www.nbcnews.com/politics/congress/house-republicans-prepare-wrap-contentious-russia-investigation-n830561">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/18/day-333/">December 18, 2017</a></small></div>
+<p><strong>Trump unveiled his "America First" foreign policy</strong>, presenting both Russia and China as "revisionist powers" who "want to shape a world antithetical to US values and interests." Trump's strategy has four organizing principles: protect the American homeland, protect American prosperity, preserve peace through strength, and advance US influence. Trump attacked past administrations on immigration, the Iran nuclear deal, the Paris climate accord, trade pacts, and more. (<a href="https://www.washingtonpost.com/politics/trump-sets-out-national-security-strategy-of-principled-realism-and-global-competition/2017/12/18/7edcb0be-e412-11e7-ab50-621fe0588340_story.html">Washington Post</a> / <a href="https://www.cnn.com/2017/12/18/politics/trump-national-security-strategy/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/18/day-333/">December 18, 2017</a></small></div>
+<p><strong>Putin called Trump to thank him for CIA intelligence that allegedly stopped a planned bombing in St. Petersburg</strong>. A readout of the conversation said that Trump appreciated the call and "stressed the importance of intelligence cooperation to defeat terrorists wherever they may be." (<a href="https://www.nbcnews.com/politics/national-security/putin-calls-trump-thank-him-sharing-intelligence-information-n830531">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
+<p><strong>Cambridge Analytica handed over employees' emails to Robert Mueller's team</strong> as part of the special counsel's investigation into Russian interference in the 2016 election. The firm provided the Trump campaign with data, polling, and research services during the race. The emails had previously been voluntarily turned over to the House Intelligence Committee. (<a href="https://www.wsj.com/articles/mueller-sought-emails-of-trump-campaign-data-firm-1513296899">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
+<p><strong>Internet traffic sent to and from Google, Facebook, Apple, and Microsoft was briefly routed through a previously unknown Russian Internet provider on Wednesday</strong>. Researchers called it suspicious and intentional. (<a href="https://arstechnica.com/information-technology/2017/12/suspicious-event-routes-traffic-for-big-name-sites-through-russia/">Ars Technica</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/14/day-329/">December 14, 2017</a></small></div>
+<p><strong>Trump's daily intelligence briefings are often structured to avoid upsetting him</strong>. Russia-related intelligence, specifically, is usually only included in the written assessment and not addressed orally. When it is, the CIA analyst leading the briefing will adjust the presentation's structure in order to soften the impact (<a href="https://www.washingtonpost.com/graphics/2017/world/national-security/donald-trump-pursues-vladimir-putin-russian-election-hacking/?tid=a_inl">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/12/day-327/">December 12, 2017</a></small></div>
+<p><strong>Rex Tillerson told diplomats that Russia "interfered in democratic processes here,"</strong> something Trump continues to call "fake news" intended to delegitimize his presidency. The comment came in a closed-door meeting with US diplomats where Tillerson also praised Trump for trying to focus on "productive engagement" with Russia. (<a href="https://www.thedailybeast.com/exclusive-rex-tillerson-in-meeting-with-us-diplomats-says-russia-interfered-in-election">The Daily Beast</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/12/day-327/">December 12, 2017</a></small></div>
+<p><strong>Trump's legal team is trying to protect him from Robert Mueller's "killers"</strong> in the Russia probe, while facing criticism that they are outmatched. (<a href="https://www.washingtonpost.com/politics/inside-trumps-legal-team-trying-to-protect-the-president-from-muellers-killers/2017/12/11/57e180c0-dc74-11e7-b859-fb0995360725_story.html">Washington Post</a>)</p>
 
 
 
@@ -3436,7 +3481,6 @@ redirect_from: "/russia/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/02/Day-14/">February 02, 2017</a></small></div>
 <p><strong>Shouting match over Russia erupts at House hearing over Russian interference in the presidential election.</strong> Th fight exposed bitter frustration amongst Democrats that Republicans have kept the issue locked in a single committee. (<a href="http://thehill.com/policy/national-security/317553-oversight-heads-spar-over-russia-investigation">The Hill</a>)</p>
-
 
 
 

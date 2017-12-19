@@ -16,8 +16,32 @@ redirect_from: "/health-care/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
+<p><strong>Funding for the Children's Health Insurance Program lapsed three months ago</strong>. CHIP covers 9 million poor and middle-class children with health care. No state has had to kick a child off its CHIP so far, but the Trump administration did send emergency funding to several states to bridge the gaps. (<a href="https://www.politico.com/story/2017/12/15/chip-health-program-partisan-washington-228407">Politico</a>)</p>
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
+<p><strong>A federal judge temporarily blocked Trump's order allowing employers to opt out of providing contraceptive coverage</strong> if they have religious or moral objections. Judge Wendy Beetlestone of the Federal District Court in Philadelphia said the rule contradicts the text of the Affordable Care Act. (<a href="https://www.nytimes.com/2017/12/15/us/politics/obamacare-birth-control-trump.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/08/day-323/">December 08, 2017</a></small></div>
+<p><strong>Susan Collins could change her vote on the final version of the GOP tax reform bill</strong> if the Senate doesn't pass a pair of bills to stabilize the Affordable Care Act's health insurance markets and resuming cost-sharing subsidy payments to insurers, which Trump stopped in October. Mitch McConnell made Collins an "ironclad commitment" in exchange for her initial vote. House Republicans, however, have signaled that they don't intend to take up health care before the end of the year. Additionally, Collins added two amendments to the Senate bill that would allow taxpayers to deduct property taxes and lower the threshold for tax deductions for medical expenses, which House Republicans had previously voted to eliminate entirely. (<a href="https://www.politico.com/story/2017/12/08/susan-collins-obamacare-deal-213254">Politico</a> / <a href="http://thehill.com/blogs/blog-briefing-room/363891-collins-considers-changing-vote-on-tax-bill-over-amendments">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/05/day-320/">December 05, 2017</a></small></div>
+<p><strong>House Republicans are prepared to block the legislative promises Mitch McConnell made</strong> to Susan Collins and Jeff Flake in exchange for their votes on the Senate bill. Collins and Flake were assured the Senate would consider legislation to offset the negative effects from repealing the Affordable Care Act's individual mandate, as well as permanent protections for so-called "Dreamers." A conservative bloc in the House sharply opposes both measures. (<a href="https://www.thedailybeast.com/house-republicans-already-shooting-down-tax-bills-promises">The Daily Beast</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong>Senate Republicans passed a $1.5 trillion tax bill – the most sweeping tax rewrite in decades – early Saturday in a 51 to 49 vote</strong>. The nearly 500-page bill, which included several pages of handwritten changes, will lower the corporate tax rate from 35% to 20%, temporarily cut tax rates for families and individuals until 2025, and repeals the individual mandate from the Affordable Care Act. The Senate and the House now have to reconcile the differences in their two bills through a conference committee. Mitch McConnell called it "a great day for the country." (<a href="https://www.washingtonpost.com/business/economy/johnson-to-back-senate-tax-bill-putting-gop-leaders-close-to-securing-passage/2017/12/01/0226ff98-d6a2-11e7-b62d-d9345ced896d_story.html">Washington Post</a> / <a href="https://www.politico.com/story/2017/12/01/tax-bill-2017-senate-republicans-274453">Politico</a> / <a href="https://www.nytimes.com/2017/12/01/us/politics/senate-tax-bill.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>The Senate GOP tax plan would hurt the poor more than originally thought</strong>, according to a report by the nonpartisan Congressional Budget Office. If the tax bill becomes law, 4 million Americans are projected to lose health insurance by 2019 and 13 million by 2027. The bill would add $1.4 trillion to the deficit over the next decade, and Republicans are aiming to have the full Senate vote on the plan as early as this week. (<a href="https://www.washingtonpost.com/news/wonk/wp/2017/11/26/senate-gop-tax-bill-hurts-the-poor-more-than-originally-thought-cbo-finds/">Washington Post</a>)</p>
 
 
@@ -1519,6 +1543,3 @@ redirect_from: "/health-care/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/">January 20, 2017</a></small></div>
 <p><strong>New poll shows Obamacare is more popular than Donald Trump.</strong> Fox News finds that 50% of voters feel favorably about the Affordable Care Act compared to Donald Trump, whom 42% view favorably. President Obama received an approval rating of 60%. (<a href="http://www.vox.com/policy-and-politics/2017/1/20/14335268/obamacare-more-popular-than-trump-poll">Vox</a>)</p>
-
-
-

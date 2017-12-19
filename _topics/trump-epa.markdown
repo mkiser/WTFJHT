@@ -31,6 +31,21 @@ redirect_from: "/epa/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/18/day-333/">December 18, 2017</a></small></div>
+<p><strong>Witch Hunt at the EPA</strong>: Multiple employees have come under scrutiny after speaking out about the agency. Within a matter of days, requests were submitted for copies of their emails that mentioned either Scott Pruitt or Trump, or any communication with Democrats in Congress that might have been critical of the agency. (<a href="https://www.nytimes.com/2017/12/17/us/politics/epa-pruitt-media-monitoring.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
+<p><strong>The EPA hired an opposition research firm to track and shape press coverage using taxpayer money</strong>. Scott Pruitt's office signed the no-bid $120,000 contract with Definers Corp. (<a href="http://www.motherjones.com/politics/2017/12/the-epa-hired-a-major-republican-opposition-research-firm-to-track-press-activity/">Mother Jones</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/14/day-329/">December 14, 2017</a></small></div>
+<p><strong>Trump's pick to regulate toxic chemicals at the EPA has withdrawn his nomination due to his ties to the chemical industry</strong>. Michael Dourson spent decades conducting research that chemical manufacturers used to downplay the risks of hazardous substances. (<a href="https://www.nbcnews.com/politics/white-house/trump-s-controversial-pick-epa-post-withdraws-nomination-n829596">NBC News</a>)</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/08/day-293/">November 08, 2017</a></small></div>
 <p><strong>Scott Pruitt will continue to roll back the Clean Power Plan despite a government report that finds climate change to be "unambiguous"</strong> with "no convincing alternative explanation" that anything other than humans are the cause. Pruitt said that the <a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/#7-the-trump-administration-approved">National Climate Assessment</a> was part of the ongoing debate between scientists over the causes of global warming and the report won't deter him from rolling back the rule aimed at combating climate change. Trump has dismissed climate change as a "hoax" perpetrated by the Chinese in order to gain an edge over the US. (<a href="https://www.usatoday.com/story/news/politics/2017/11/08/pruitt-says-alarming-climate-report-not-deter-replacement-clean-power-plan/839857001/">USA Today</a>)</p>
 
@@ -483,5 +498,3 @@ redirect_from: "/epa/"
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/">January 20, 2017</a></small></div>
 <p><strong>All references to climate change have been deleted</strong> from the White House website. The only mention of climate on Trump’s new website is under his “America First Energy Plan” page, in which he vows to destroy Obama’s Climate Action Plan, which is a government-wide plan to reduce carbon emissions and address climate change. (<a href="http://motherboard.vice.com/read/all-references-to-climate-change-have-been-deleted-from-the-white-house-website">Motherboard</a>)</p>
-
-

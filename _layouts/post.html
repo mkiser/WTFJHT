@@ -4,7 +4,7 @@ layout: default
 
 <!-- MailChimp -->
 {% include email.html %}
-
+{% include topics.html %}
 <article class="post">
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ page.url }}">
@@ -28,7 +28,8 @@ layout: default
     </div>
     <div>
       <small>
-        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Help improve this article</a> |  <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">See revision history</a>
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
+ {% if page.contributors == "1" %}{{ page.contributors }} Contributor{% else %}{{ page.contributors }} Contributors{% endif %}
       </small>
     </div>
   </div>
@@ -38,7 +39,7 @@ layout: default
   {% include pod.html %}
 
   <small class="post-date pod-subscribe" style="margin-top: -2em; color: #9a9a9a;">
-    Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/I5fj7gzxpepkfvuzymxavcvok5y?t%3DWTF_Just_Happened_Today%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">Google Play Music</a>, <a href="https://www.stitcher.com/s?fid=132466&refid=stpr">Stitcher</a>, <a href="{{ site.url }}/podcasts/index.xml">RSS</a>
+    Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/I5fj7gzxpepkfvuzymxavcvok5y?t%3DWTF_Just_Happened_Today%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">Google Play Music</a>, <a href="https://www.stitcher.com/s?fid=132466&refid=stpr">Stitcher</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
   </small>
 
 {% endif %}
@@ -46,7 +47,7 @@ layout: default
     {{ content | extlinks }}
   </div>
   <p>
-    <small><strong>Subscribe:</strong> <a href="{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a> 
+    <small><strong>Subscribe:</strong> <a href="{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a> 
     </small>
   </p> 
 

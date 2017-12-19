@@ -1,0 +1,58 @@
+---
+title: Day 286
+date: 2017-11-01 08:18:00 -07:00
+description: The lowest point.
+image: "/uploads/286.jpg"
+---
+
+1/ **Trump did not dismiss the idea of meeting with Putin when it was suggested by George Papadopoulos in March 2016**. "He didn't say yes and he didn't say no," according to a person in the room at the time. Jeff Sessions shot down the idea. However, in a July 2016 email to his Russian contact, Papadopoulos proposed a meeting in August or September between "my national chairman and maybe one other foreign policy adviser" and members of Putin's office and Russia's foreign ministry. "It has been approved by our side," Papadopoulos wrote. It's not clear if the meeting ever occurred, but Paul Manafort was the campaign chairman at the time. ([CNN](http://www.cnn.com/2017/11/01/politics/trump-putin-meeting/) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-10-31/papadopoulos-claimed-trump-campaign-approved-russia-meeting))
+
+* **Paul Manafort and Rick Gates posed a "serious risk of flight,"** Robert Mueller argued in the pair's bail memo. He requested sizable bail and travel restrictions on the two because of their "substantial overseas ties, including assets held abroad, significant foreign work connections, and significant travel abroad." Manafort's bail was set at $10 million, Gates's at $5 million. Manafort currently has three US passports. Both are on house arrest. ([NBC News](https://www.nbcnews.com/news/us-news/manafort-gates-pose-serious-risk-flight-says-mueller-n816246)/ [CNN](http://www.cnn.com/2017/10/31/politics/manafort-3-passports/index.html))
+
+* **Speculation: Jeff Sessions may have perjured himself**. During his confirmation hearing in January, Sessions was asked "if there is any evidence that anyone affiliated with the Trump campaign communicated with the Russian government" during the campaign. Sessions responded: "I’m not aware of any of those activities... I didn’t have – did not have communications with the Russians, and I’m unable to comment on it." ([New Republic](https://newrepublic.com/minutes/145614/looks-like-jeff-sessions-perjured-himself))
+
+2/ **Facebook, Google, and Twitter testified before the Senate Intelligence Committee**. It was the second day in a row the tech companies answered questions on Capitol Hill. The tech firms admitted that they could have done more to prevent Russian meddling in the US election. Yesterday, the firms said that content by a Russian troll farm known as the Internet Research Agency sought "to create discord between Americans" during the election, but after the election, the troll farm sought to undermine Trump's legitimacy. ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2017/11/01/four-takeaways-from-the-senate-intelligence-hearing-with-facebook-twitter-and-google/) / [Politico](https://www.politico.com/story/2017/10/31/facebook-twitter-post-election-russian-meddling-sought-to-undermine-trump-244380))
+
+* **Members of the House intelligence panel released the social media ads Russia wanted Americans to see**. ([Politico](https://www.politico.com/story/2017/11/01/social-media-ads-russia-wanted-americans-to-see-244423))
+
+3/ **Twitter offered Russian television network RT 15% of its US election advertising inventory for $3 million dollars**. The US intelligence community describes RT as "the Kremlin’s principal international propaganda outlet." ([BuzzFeed News](https://www.buzzfeed.com/alexkantrowitz/twitter-offered-rt-15-of-its-total-share-of-us-elections?utm_term=.vbA5QLPx4#.uu12Jx5o9))
+
+* **As many as 20 million Americans may have seen Russian-backed content on Instagram** in the run-up to the 2016 presidential election. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-socialmedia/millions-of-americans-exposed-to-russian-content-on-instagram-facebook-says-idUSKBN1D15GU))
+
+4/ **In a call with Steve Bannon, Trump blamed Jared Kushner for his role in decisions that led to Robert Mueller's appointment as special counsel**. In the call, Trump  complained about Kushner's advice that led to the decisions to fire Michael Flynn and James Comey.
+
+**Separately, Roger Stone told Trump that Kushner was giving him bad political advice**. A former Trump campaign aide described "Jared \[as\] the worst political adviser in the White House in modern history," adding that "Trump is at 33 percent \[approval\] in Gallup. You can’t go any lower. He’s fucked." [In a call](https://www.nytimes.com/2017/11/01/us/politics/trump-russia-charges.html) with the New York Times, Trump said he was "not angry at anybody" and that the investigation into his campaign's links to Russia have "nothing to do with us." ([Vanity Fair](https://www.vanityfair.com/news/2017/11/the-west-wing-trump-is-apoplectic-as-allies-fear-impeachment))
+
+5/ **Trump blamed Chuck Schumer for yesterday's terror attack in New York City** where a motorist killed several people after driving onto a bicycle path near the World Trade Center memorial. Trump tweeted that "the terrorist came into our country through what is called the 'Diversity Visa Lottery Program,' a Chuck Schumer beauty. I want merit based." Trump [added](https://www.axios.com/trump-extreme-vetting-nyc-terror-2504826608.html): "I have just ordered Homeland Security to step up our already Extreme Vetting Program. Being politically correct is fine, but not for this!"
+
+**In 2013, Schumer was a member of the Senate's Gang of Eight, which [proposed](https://www.washingtonpost.com/news/the-fix/wp/2017/11/01/trump-is-getting-his-counterterrorism-talking-points-from-fox-friends/) to eliminate of the diversity lottery**. The bill passed in the Senate but died in the House. Schumer’s response: "I guess it’s not too soon to politicize a tragedy."
+
+**Speaking from the Senate floor, [Schumer criticized Trump](http://thehill.com/blogs/floor-action/senate/358188-schumer-knocks-trump-over-terror-attack-where-is-your-leadership)**, asking: "President Trump where is your leadership? The contrast between President Bush's actions after 9/11 and President Trump's actions this morning could not be starker." Trump, meanwhile, called the justice system a "[joke](http://www.cnn.com/2017/11/01/politics/trump-justice-laughing-stock/index.html)" and "a laughing stock." ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/11/01/extreme-right-gins-up-a-culprit-for-n-y-terror-attack-chuck-schumer/) / [CBS News](https://www.cbsnews.com/news/new-york-city-attack-trump-response/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/925474979914887168 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925490503218589696 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925534445393928199 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925684982307348480 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925686558304464897 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925688931823300609 %}
+
+{% twitter https://twitter.com/SenSchumer/status/925703236568473601 %}
+
+{% twitter https://twitter.com/funder/status/925795342561566720 %}
+
+6/ **House Republicans delayed the release of their tax bill until Thursday** as they try to meet the $1.5 trillion spending limit set by the budget. The tax plan is expected to maintain the top individual tax rate of 39.6%, cut the corporate tax rate to 20%, delay the planned repeal of the estate tax, and limit the individual tax-free contributions to 401(k)s. Trump has [insisted](http://abcnews.go.com/Politics/trump-hill-leaders-disagree-upcoming-tax-reform-bill/story?id=50863220) that the bill be called the Cut Cut Cut Act and called on Congress to repeal the Affordable Care Act's individual mandate as part of its tax overhaul. ([NBC News](https://www.nbcnews.com/politics/congress/house-gop-will-delay-releasing-tax-bill-sources-say-n816251) / [Wall Street Journal](https://www.wsj.com/articles/house-tax-plan-to-delay-estate-tax-repeal-set-corporate-rate-at-20-1509485696) / [ABC News](http://abcnews.go.com/Politics/house-tax-plan-lowers-caps-401k-cuts-state/story?id=50861872))
+
+{% twitter https://twitter.com/realDonaldTrump/status/925739132579729420 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/925740081805217792 %}
+
+7/ **The EPA barred anyone that receives EPA grant money from serving on panels that counsel the agency on scientific decisions**. In doing so, EPA head Scott Pruitt removed six scientists and academics from advisory positions at the EPA. Pruitt is expected to now appoint several industry representatives to the panels. ([New York Times](https://www.nytimes.com/2017/10/31/climate/pruitt-epa-science-advisory-boards.html) / [Washington Post](https://www.washingtonpost.com/national/health-science/scott-pruitt-blocks-scientists-with-epa-funding-from-serving-as-agency-advisers/2017/10/31/959d91ac-be5a-11e7-959c-fe2b598d8c00_story.html))
+
+8/ **The Senate confirmed a circuit court nominee who has suggested that Roe v. Wade was an "erroneous decision."** Amy Coney Barrett has also called the Affordable Care Act's birth control benefit "an assault on religious liberty." Barrett was confirmed 55-43 to a lifetime position on the U.S. Court of Appeals for the 7th Circuit — one level below the Supreme Court. ([HuffPost](https://www.huffingtonpost.com/entry/amy-coney-barrett-abortion-rights-federal-judge_us_59f87abde4b0aec1467ac111))
+
+poll/ **59% of Americans think this is the lowest point in the nation's history that they can remember**. 63% say they are stressed about the nation's future. ([American Psychological Association](https://www.apa.org/news/press/releases/2017/11/lowest-point.aspx))

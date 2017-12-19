@@ -1,0 +1,36 @@
+---
+title: Day 298
+date: 2017-11-13 10:45:00 -08:00
+description: Step aside.
+image: "/uploads/298.jpg"
+---
+
+1/ **Trump asked Putin if Russia meddled in the election. Putin said they didn't. Trump believed him**. After meeting on the sideline of the Asia Pacific Economic Cooperation summit meeting in Vietnam, Trump said he was done asking Putin about election meddling. "He said he didn’t meddle — I asked him again. You can only ask so many times ... Every time he sees me he says, 'I didn’t do that,' and I really believe that when he tells me that, he means it." Trump added: "I think he is very insulted by it, which is not a good thing for our country." The comments came during a question-and-answer session with reporters aboard Air Force One on Saturday. ([New York Times](https://www.nytimes.com/2017/11/11/world/asia/trump-putin-election.html) / [CNN](http://www.cnn.com/2017/11/11/politics/president-donald-trump-vladimir-putin-election-meddling/index.html))
+
+2/ **Trump called US intelligence leaders "political hacks"** and labeled the community's conclusion that Russia interfered in the election as an "artificial Democratic hit job." Later Trump tweeted: "When will all the haters and fools out there realize that having a good relationship with Russia is a good thing, not a bad thing." On Sunday, Trump [walked back](https://www.nbcnews.com/politics/white-house/trump-clarifies-comments-putin-says-i-m-u-s-intel-n819986) his comments, saying "I'm with our agencies." ([Politico](https://www.politico.com/story/2017/11/11/trump-russia-putin-people-will-die-244801) / [The Hill](http://thehill.com/homenews/administration/359894-trump-slams-former-us-intel-leaders-as-political-hacks))
+
+{% twitter https://twitter.com/realDonaldTrump/status/929503641014112256 %}
+
+* **CIA Director Mike Pompeo said he stands by the US intelligence assessment that Russia meddled in the election**. Pompeo had [falsely claimed](https://whatthefuckjusthappenedtoday.com/2017/10/19/day-273/#3-cia-director-mike-pompeo-falsely-c) Russian meddling didn't affect the election results. ([CNN](http://www.cnn.com/2017/11/11/politics/mike-pompeo-cia-donald-trump-white-house-russia-meddling/index.html))
+
+* **Former Deputy Attorney General Sally Yates called Trump "shamelessly unpatriotic"** for accepting Putin’s denial that Russia interfered in the 2016 election. ([The Hill](http://thehill.com/blogs/blog-briefing-room/news/359923-sally-yates-trump-is-shamelessly-unpatriotic-for-russian))
+
+* {% twitter https://twitter.com/SallyQYates/status/929403087864942592 %}
+
+3/ **The former CIA director said Trump is being "played" by Putin regarding election meddling**. "By not confronting the issue directly and not acknowledging to Putin that we know you’re responsible for this, I think he’s giving Putin a pass," former CIA director John Brennan said. "I think it demonstrates to Mr. Putin that Donald Trump can be played by foreign leaders who are going to appeal to his ego and try to play upon his insecurities." Brennan added that Trump called him and two other top intelligence officials "political hacks" in order to "delegitimize" the intelligence community’s conclusion that Russia interfered in the 2016 presidential election. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/11/12/former-u-s-intelligence-officials-trump-being-played-by-putin/) / [Wall Street Journal](https://www.wsj.com/articles/former-cia-national-intelligence-heads-strike-back-at-trumps-political-hacks-comment-1510505732))
+
+4/ **Trump Jr. corresponded with Wikileaks during the campaign** via Twitter direct messages, which were turned over to congressional investigators as part of its probe into Russian meddling. Wikileaks made multiple requests of Trump Jr., including asking for Trump's tax returns, urging the Trump campaign to reject the results of the election as rigged, not to concede if he lost, and, later, asking the president-elect to have Australia appoint Julian Assange as ambassador to the United States. Intelligence agencies believe Wikileaks was chosen by the Russian government to share the hacked DNC emails. ([The Atlantic](https://www.theatlantic.com/politics/archive/2017/11/the-secret-correspondence-between-donald-trump-jr-and-wikileaks/545738/))
+
+* **George Papadopoulos told Stephen Miller he had received "interesting messages" from Moscow** a day after learning that Russia had "dirt" on Hillary Clinton. ([Business Insider](http://www.businessinsider.com/george-papadopoulos-stephen-miller-trump-russia-clinton-2017-11) / [New York Times](https://www.nytimes.com/2017/11/10/us/russia-inquiry-trump.html))
+
+5/ **Kim Jong-un called Trump an "old lunatic." Trump tweeted that Kim was "short and fat"**. "Why would Kim Jong-un insult me by calling me 'old,' when I would NEVER call him 'short and fat?' Oh well, I try so hard to be his friend - and maybe someday that will happen!" ([Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2017/11/11/north-korean-insults-to-u-s-leaders-are-nothing-new-but-trumps-deeply-personal-reactions-are/) / [CNN](http://www.cnn.com/2017/11/11/politics/north-korea-trump-asia-trip/index.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/929511061954297857 %}
+
+6/ **Mitch McConnell called on Roy Moore to "step aside" from the race for the Alabama Senate seat**. "I believe the women" who have accused Moore of sexual misconduct when they were teenagers, the Senate majority leader said. Moore tweeted that McConnell is "the person who should step aside ... He has failed conservatives and must be replaced." Republicans are exploring whether to pursue a write-in candidate for the December 12th special election in an effort to retain their Senate seat. ([New York Times](https://www.nytimes.com/2017/11/13/us/politics/roy-moore-alabama-senate.html) / [Politico](https://www.politico.com/story/2017/11/13/mcconnell-i-believe-the-women-accusing-roy-moore-244840) / [The Hill](http://thehill.com/homenews/senate/360119-moore-mcconnell-is-one-who-should-step-aside))
+
+{% twitter https://twitter.com/MooreSenate/status/930128259035082756 %}
+
+7/ **Trump nominated Alex Azar to lead the Health and Human Services Department**, which was vacated by Tom Price after it was revealed that Price used government and private jets to take repeated trips that cost taxpayers more than $1 million. Azar is a former pharmaceutical executive and was a top health official during the George W. Bush administration. ([Washington Post](https://www.washingtonpost.com/national/health-science/trump-picks-alex-azar-to-lead-the-health-and-human-services-department/2017/11/13/ad6a4e16-c408-11e7-84bc-5e285c7f4512_story.html) / [Politico](https://www.politico.com/story/2017/11/13/alex-azar-hhs-secretary-trump-244837))
+
+8/ **Trump's judicial nominee didn't disclose he's married to the chief of staff to the White House counsel**. Brett Talley has practiced law for three years, has never tried a case, and has been [unanimously rated](https://whatthefuckjusthappenedtoday.com/2017/11/10/day-295/#7-the-senate-judiciary-committee-app) as "not qualified" by the American Bar Association. ([New York Times](https://www.nytimes.com/2017/11/13/us/politics/trump-judge-brett-talley-nomination.html))

@@ -1,0 +1,74 @@
+---
+title: Day 330
+date: 2017-12-15 09:20:00 -08:00
+description: Shame.
+image: "/uploads/330.jpg"
+---
+
+**What's in the GOP tax bill.**
+
+1. Top income tax rate drops to 37% from 39.6%
+
+2. Corporate tax rate cut to 21% from 35%
+
+3. Eliminates the Affordable Care Act's individual mandate that requires most Americans to buy health insurance or pay a penalty
+
+4. The estate tax would remain but the exemption from it would be doubled.
+
+5. The seven individual income tax brackets will remain, but at  different rates: 10%, 12%, 22%, 24%, 32%, 35% and 37%.
+
+6. Latest Senate version will cost $1.5 trillion over 10 years
+
+7. The child tax credit will double
+
+8. The standard deduction will increase to $12,000 for an individual or $24,000 for a family
+
+9. The Senate is expected to vote Monday and House is expected to vote Tuesday
+
+---
+
+1/ **Marco Rubio and Bob Corker will vote "yes" on the GOP tax bill**, giving Republicans the votes needed to pass the measure in the Senate. Rubio announced his support after Republican leaders agreed to expand the Child Tax Credit for low and middle-income families. Corker called the bill a "once-in-a-generation opportunity." Republicans will release the bill's text today and will vote on it next week. ([Politico](https://www.politico.com/story/2017/12/15/republican-tax-bill-changes-297784) / [New York Times](https://www.nytimes.com/2017/12/15/us/politics/republican-tax-bill.html) / [Washington Post](https://www.washingtonpost.com/business/economy/rubio-pushes-leadership-on-help-for-poor-families-with-tax-vote-hanging-in-the-balance/2017/12/15/ecb87942-e1a6-11e7-8679-a9728984779c_story.html))
+
+{% twitter https://twitter.com/marcorubio/status/941748393772224513 %}
+
+2/ **Cambridge Analytica handed over employees' emails to Robert Mueller's team** as part of the special counsel's investigation into Russian interference in the 2016 election. The firm provided the Trump campaign with data, polling, and research services during the race. The emails had previously been voluntarily turned over to the House Intelligence Committee. ([Wall Street Journal](https://www.wsj.com/articles/mueller-sought-emails-of-trump-campaign-data-firm-1513296899))
+
+1. 🇷🇺 [What you need to know about the Trump-Russia investigation](https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/).
+
+3/ **Trump called the FBI a "shame" shortly before speaking** at the FBI's National Academy. He told the graduating class of law enforcement managers that he has their "back 100%." Trump promised "to rebuild the FBI" and make it "bigger and better than ever." He called himself a "true friend and loyal champion" of law enforcement – "more loyal than anyone else can be" – but also said "people are very angry" with the FBI and Justice Department. Last week Trump said the FBI was in "[tatters](https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/)." ([NPR](https://www.npr.org/2017/12/15/570868360/after-months-of-withering-criticism-trump-prepares-to-visit-fbi) / [Axios](https://www.axios.com/trump-tells-fbi-graduates-he-has-their-back-100-percent-2517682727.html))
+
+4/ **Trump won't rule out the idea of pardoning Michael Flynn**. "I don't want to talk about pardons with Michael Flynn yet," Trump told reporters. "We'll see what happens, let's see." ([CNN](https://www.cnn.com/2017/12/15/politics/donald-trump-michael-flynn-pardon/index.html))
+
+5/ **Trump's lawyers will meet with Robert Mueller's team next week**. John Dowd and Jay Sekulow are hoping for signs that Mueller's investigation is nearing its end, or at least the part that has to do with Trump. The meeting comes after Mueller's team completed interviews of White House personnel. ([CNN](https://www.cnn.com/2017/12/15/politics/trump-lawyers-special-counsel-meeting/index.html))
+
+6/ **Jared Kushner's legal team is trying to hire a crisis public relations firm**. Kushner's lawyer, Abbe Lowell, has called at least two firms "to handle the time-consuming incoming inquiries on the cases in which I am working that receive media attention." ([Washington Post](https://www.washingtonpost.com/politics/kushners-legal-team-looks-to-hire-crisis-public-relations-firm/2017/12/15/6fbf144c-e1c3-11e7-9eb6-e3c7ecfb4638_story.html))
+
+7/ **Trump spoke with Rupert Murdoch "to make sure \[he\] wasn't selling Fox News" as part of the Disney deal**. He also congratulated Murdoch for the $52.4 billion deal to sell a portion of 21st Century Fox. ([CNN](http://money.cnn.com/2017/12/14/media/donald-trump-rupert-murdoch-disney-21st-century-fox/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-12-14/trump-called-murdoch-to-congratulate-him-on-disney-deal))
+
+{% twitter https://twitter.com/gabrielsherman/status/941358313236828160 %}
+
+8/ **One of Trump's judicial nominees struggled to answer basic questions about the law during his Senate Judiciary Committee confirmation hearing**. Matthew Petersen is a member of the Federal Election Commission and a lawyer with no trial experience. During an uncomfortable five minutes of quizzing on the basics of trial procedure by Senator John Neely Kennedy, Petersen said, "I understand the challenge that would be ahead of me." ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/12/15/trump-judicial-nominee-fumbles-basic-questions-about-the-law/) / [NPR](https://www.npr.org/2017/12/15/571060681/video-shows-trump-judicial-nominee-unable-to-answer-basic-questions-of-law))
+
+{% twitter https://twitter.com/SenWhitehouse/status/941484131757838337 %}
+
+9/ **Funding for the Children's Health Insurance Program lapsed three months ago**. CHIP covers 9 million poor and middle-class children with health care. No state has had to kick a child off its CHIP so far, but the Trump administration did send emergency funding to several states to bridge the gaps. ([Politico](https://www.politico.com/story/2017/12/15/chip-health-program-partisan-washington-228407))
+
+9/ **A federal judge temporarily blocked Trump's order allowing employers to opt out of providing contraceptive coverage** if they have religious or moral objections. Judge Wendy Beetlestone of the Federal District Court in Philadelphia said the rule contradicts the text of the Affordable Care Act. ([New York Times](https://www.nytimes.com/2017/12/15/us/politics/obamacare-birth-control-trump.html))
+
+poll/ **54% of voters think Robert Mueller's "relationship" with James Comey represents a conflict of interest** because he is "the former head of the FBI and a friend of James Comey." ([Harvard CAPS-Harris](http://harvardharrispoll.com/))
+
+poll/ **30% of Americans believe the US is heading in the right direction**, and 52% think the country is worse off since Trump became president. ([Associated Press](https://www.apnews.com/9079eca84bc542a7bdd79b65fae1e53f/Americans-pessimistic-about-Trump,-country:-AP-NORC-Poll))
+
+---
+
+### Notables.
+
+1. **The EPA hired an opposition research firm to track and shape press coverage using taxpayer money**. Scott Pruitt's office signed the no-bid $120,000 contract with Definers Corp. ([Mother Jones](http://www.motherjones.com/politics/2017/12/the-epa-hired-a-major-republican-opposition-research-firm-to-track-press-activity/))
+
+2. **Betsy DeVos was hit with two lawsuits in one day over the letting more than 50,000 student debt relief claims pile up**. ([Washington Post](https://www.washingtonpost.com/news/grade-point/wp/2017/12/14/betsy-devos-hit-with-two-lawsuits-in-one-day-over-backlog-of-student-debt-relief-claims/))
+
+3. **Trump Jr. called Ajit Pai "Obama's FCC chairman" in a [tweet](https://twitter.com/DonaldJTrumpJr/status/941467519222771713) attacking the "outrage" over the agency's repeal of net 'neutality.'** Obama appointed Pai to the commission. Trump made him chairman. ([USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2017/12/15/trump-jr-tweet/954564001/))
+
+4. **A Wall Street Journal op-ed urging "everybody calm down about net neutrality" was written by a former Comcast attorney**. ([The Intercept](https://theintercept.com/2017/12/14/that-net-neutrality-op-ed-in-the-wall-street-journal-was-written-by-a-comcast-attorney/))
+
+5. **Internet traffic sent to and from Google, Facebook, Apple, and Microsoft was briefly routed through a previously unknown Russian Internet provider on Wednesday**. Researchers called it suspicious and intentional. ([Ars Technica](https://arstechnica.com/information-technology/2017/12/suspicious-event-routes-traffic-for-big-name-sites-through-russia/))

@@ -8,8 +8,8 @@ layout:
 
 <channel>
 <title>{{ site.podcast_title }}</title>
-<atom:link href="{{ site.url }}/podcasts/index.xml" rel="self" type="application/rss+xml" />
-<link>{{ site.url }}</link>
+<atom:link href="{{ site.url }}{{ site.baseurl }}/podcasts/index.xml" rel="self" type="application/rss+xml" />
+<link>{{ site.url }}{{ site.baseurl }}</link>
 
 <description>{{ site.podcast_description }}</description>
 <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
@@ -34,7 +34,7 @@ layout:
 <image>
     <title>{{ site.podcast_title }}</title>
     <url>{{ site.cloudfront_url }}{{ site.podcast_album_art }}</url>
-    <link>{{ site.url }}</link>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
     <width>144</width>
     <height>144</height>
 </image>
@@ -47,7 +47,7 @@ layout:
 
 {% assign post = site.posts | where: 'title', ep.post %}
 {% for link in post %}
-    <link>{{ site.url }}{{ link.url }}</link>
+    <link>{{ site.url }}{{ site.baseurl }}{{ link.url }}</link>
 {% endfor %}
 
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>

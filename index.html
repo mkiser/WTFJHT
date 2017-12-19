@@ -1,16 +1,18 @@
 ---
-title: What The Fuck Just Happened Today?
+title: Trump News Today
 layout: default
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
+seo:
+  name: Trump News Today
 ---
 
 <!-- MailChimp -->
 {% include email.html %}
 
 <div class="posts">
-  {% for post in site.posts limit:7 %}
+  {% for post in paginator.posts %}
   <article class="post">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -33,9 +35,12 @@ image:
         </small>
       </div>
       <div>
+     
         <small>
-          <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ post.path }}" target="_blank">Help improve this article</a> |  <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ post.path }}" target="_blank">See revision history</a>
-        </small>
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ post.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ post.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
+ {% if post.contributors == "1" %}{{ post.contributors }} Contributor{% else %}{{ post.contributors }} Contributors{% endif %}
+      </small>
+
       </div>
     </div>
 
@@ -43,3 +48,15 @@ image:
   </article>
   {% endfor %} 
 </div> 
+
+
+
+<div class="next-prev pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="prev previous" rel="prev">&laquo; Previous</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next" rel="next">Next &raquo;</a>
+  {% endif %}
+</div>
+

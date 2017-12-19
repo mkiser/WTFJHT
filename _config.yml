@@ -11,6 +11,9 @@ collections:
   posts:
     title: Posts
     output: true
+  topics:
+    title: Topics
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -54,6 +57,23 @@ defaults:
     - news
     metatags: noindex, follow
     sitemap: false
+- scope:
+    path: ''
+    type: topics
+  values:
+    permalink: "/:title/"
+    title: ''
+    description: ''
+    image: ''
+    author: Matt Kiser
+    layout: topics
+    seo:
+      type: NewsArticle
+- scope:
+    path: page
+  values:
+    sitemap: false
+    metatags: noindex, follow
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential guide to the daily shock and awe in national politics.
@@ -67,6 +87,8 @@ plugins_dir: _plugins
 layouts_dir: _layouts
 data_dir: _data
 includes_dir: _includes
+paginate: 3
+paginate_path: "/page/:num/"
 twitter:
   username: WTFJHT
 kramdown:
@@ -111,10 +133,9 @@ algolia:
   - about.md
   - all.html
   - archive.md
-  - "/archives/*"
+  - archives
   - atom.xml
   - faq.md
-  - first-100-days.html
   - index.html
   - instant-feed.xml
   - instantfeed.xml
@@ -128,12 +149,30 @@ algolia:
   - today.html
   - whitelist.html
   - yesterday.html
-  - "/meta/*"
-  - do-something/*
-  - "/guide/*"
   - license.html
   - license.txt
-  - "*/podcasts"
+  - almost.html
+  - trump-epa.markdown
+  - trump-fake-news.markdown
+  - trump-health-care.markdown
+  - trump-russia-investigation.markdown
+  - trump-travel-ban.markdown
+  - trump-epa
+  - trump-fake-news
+  - trump-health-care
+  - trump-russia-investigation
+  - trump-travel-ban
+  - first-100-days
+  - first-100-days.html
+  - faq
+  - license
+  - 45-for-45
+  - meta
+  - do-something
+  - podcasts
+  - author
+  - topics
+  - topic
   settings:
     attributesToIndex:
     - unordered(text)
@@ -171,7 +210,6 @@ gems:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
-- jekyll-twitter-plugin
 - jekyll-extlinks
 - jekyll-archives
 - algoliasearch

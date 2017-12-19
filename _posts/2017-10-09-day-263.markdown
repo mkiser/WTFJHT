@@ -1,7 +1,7 @@
 ---
 title: Day 263
 date: 2017-10-09 08:37:00 -07:00
-description: 'War on coal. '
+description: War on coal.
 image: "/uploads/263.jpg"
 ---
 

@@ -1,0 +1,50 @@
+---
+title: Day 288
+date: 2017-11-03 08:02:00 -07:00
+description: The only one that matters.
+image: "/uploads/288.jpg"
+---
+
+Current Status: **Trump and Jeff Sessions have denied knowing about the Trump campaign's contacts with Russia**. Court documents suggest otherwise. Records show that at a March 31, 2016, meeting between Trump, Sessions, and the campaign's foreign policy team, George Papadopoulos introduced himself and said "that he had connections that could help arrange a meeting between then-candidate Trump and President Putin." ([New York Times](https://www.nytimes.com/2017/11/02/us/politics/trump-jeff-sessions-russia.html))
+
+1/ **Trump does not "remember much" from the meeting with George Papadopoulos**, where Papadopoulos [offered](https://whatthefuckjusthappenedtoday.com/2017/10/30/day-284/#2-trumps-former-foreign-policy-advis) to arrange a meeting between Trump and Putin. Trump called it a "very unimportant meeting \[that\] took place a long time \[ago\]. Don't remember much about it." According to a person present for the meeting, Trump [didn't dismiss](https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#1-trump-did-not-dismiss-the-idea-of) the idea of meeting with Putin, but Jeff Sessions did. Trump has [described himself](https://whatthefuckjusthappenedtoday.com/2017/10/26/day-280/#7-trump-said-the-soldiers-widow-must) as having "one of the greatest memories of all time." ([Politico](https://www.politico.com/story/2017/11/03/trump-responds-george-papdopoulos-meeting-244510) / [NPR](http://www.npr.org/2017/11/03/561823285/trump-doesnt-remember-much-about-meeting-aide-who-pleaded-guilty))
+
+{% twitter https://twitter.com/joshtpm/status/923238520948477952 %}
+
+2/ **Carter Page testified that he told Jeff Sessions about his 2016 trip to Russia during the presidential campaign**. At a Senate Intelligence Committee hearing in June, Sessions [testified](https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/#4-senate-democrats-asked-jeff-sessio) that he had "no knowledge" of any conversations between "anyone connected to the Trump campaign." During his confirmation hearing, Sessions was asked if "anyone affiliated with the Trump campaign communicated with the Russian government" during the campaign. Sessions [responded](https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/#speculation-jeff-sessions-may-have-p): "I'm not aware of any of those activities ... I didn't have — did not have communications with the Russians, and I'm unable to comment on it." ([CNN](http://www.cnn.com/2017/11/02/politics/carter-page-testimony-russia-trip/index.html))
+
+3/ **Republicans called on Robert Mueller to resign as special counsel** over what they contend to be "obvious conflicts of interest." Matt Gaetz, Andy Biggs, and Louie Gohmert introduced a measure to put the House on record describing Mueller as unfit to lead the Russia probe because of his relationship with James Comey, who was Mueller's successor at the FBI. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-congress/republicans-seek-special-counsels-removal-from-russia-probe-idUSKBN1D31W8) / [Politico](https://www.politico.com/story/2017/11/03/house-republicans-robert-mueller-resignation-244517))
+
+* **Robert Mueller estimates he will need three weeks to present his case against Paul Manafort and Rick Gates to a jury**. U.S. District Judge Amy Berman Jackson set May 7th as a possible trial date. ([ABC News](http://abcnews.go.com/Politics/wireStory/court-records-mueller-estimates-week-trial-manafort-50911202))
+
+4/ **Trump's not worried about the unfilled State Department jobs, because "I'm the only one that matters."** As of last month, the administration had filled about a quarter of the roughly 600 State Department positions that require Senate confirmation. "We don't need all of the people," Trump said in an interview with Fox News, arguing that the lack of nominees for key positions at the State Department wouldn't affect his agenda. "You know, it's called cost-saving." ([NPR](http://www.npr.org/sections/thetwo-way/2017/11/03/561797675/im-the-only-one-that-matters-trump-says-of-state-dept-job-vacancies) / [The Hill](http://thehill.com/blogs/blog-briefing-room/news/358573-trump-on-lack-of-nominees-i-am-the-only-one-that-matters))
+
+{% twitter https://twitter.com/atrupar/status/926270891918528516 %}
+
+5/ **Trump is "very unhappy," "disappointed," and "frustrated" with the Justice Department** for not investigating Hillary Clinton. Despite acknowledging that presidents are not supposed to intervene with law enforcement decisions – which he called "the saddest thing" – Trump insisted that the DOJ investigate "Crooked Hillary," "Crazy Bernie," and "Pocahontas," a nickname he uses for Elizabeth Warren. ([New York Times](https://www.nytimes.com/2017/11/03/us/politics/trump-says-justice-dept-and-fbi-must-do-what-is-right-and-investigate-democrats.html) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/11/03/trump-pressures-justice-department-to-investigate-crooked-hillary/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/926403023861141504 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/926404584456773632 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/926406490763784194 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/926415703476928512 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/926417546038923264 %}
+
+6/ **A Twitter contractor leaving the company deactivated Trump's account**, which was down for 11 minutes before being restored. Trump tweeted Friday morning, "I guess the word must finally be getting out-and having an impact." ([CNN](http://money.cnn.com/2017/11/02/technology/donald-trump-twitter/index.html) / [Reuters](https://www.reuters.com/article/us-usa-trump/twitter-says-trumps-account-deactivated-by-employee-leaving-company-idUSKBN1D3015))
+
+{% twitter https://twitter.com/TwitterGov/status/926238960594178048 %}
+
+{% twitter https://twitter.com/TwitterGov/status/926267806261407744 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/926401530013642765 %}
+
+7/ **The Trump administration approved a report that contradicts its position on climate change**. The National Climate Assessment finds the global, long-term warming trend to be "unambiguous" and that there is "no convincing alternative explanation" that anything other than humans are the cause. Scott Pruitt, Rick Perry, and Trump have all questioned the extent of humans’ contribution to climate change. ([New York Times](https://www.nytimes.com/2017/11/03/climate/us-climate-report.html) / [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2017/11/03/trump-administration-releases-report-finds-no-convincing-alternative-explanation-for-climate-change/))
+
+* [How Trump's EPA is changing the environment](https://whatthefuckjusthappenedtoday.com/trump-epa/).
+
+8/ **House Republicans passed legislation to fund the children’s health program in a 242-174 vote**. Republicans plan to pay for the program by cutting a separate public health program and raising Medicare premiums. Senators, meanwhile, have agreed on a bill extending the program’s funding for five more years, but are divided over how to pay for it. The CHIP program provides more than 8 million low-income children with low-cost health insurance. ([Associated Press](https://www.apnews.com/5effd4bbb7364a448e3046ac571eff68/House-OKs-children's-health-funds,-but-obstacles-remain))
+
+poll/ **60% of Americans say Trump's tax plan will benefit the wealthy**, while 17% think it will treat people equally. Among those that make $100,000 or more, 61% think Trump's plan will benefit them most. ([ABC News](http://abcnews.go.com/Politics/60-percent-americans-trump-tax-plan-benefit-wealthy/story?id=50891221))

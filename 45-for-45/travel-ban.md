@@ -6,6 +6,9 @@ description: The Normal Person's Guide to 45’s First 45 Fucking Days
 image:
   twitter: "/public/45-for-45-travel-ban-t.jpg"
   facebook: "/public/45-for-45-travel-ban-f.jpg"
+metatags: noindex, follow
+sitemap: false
+redirect_to: "/trump-travel-ban/"
 ---
 
 ![The Normal Person's Guide to 45’s First 45 Fucking Days]({{ site.url }}/public/45-for-45-travel-ban-t.jpg)

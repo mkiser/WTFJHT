@@ -1,0 +1,50 @@
+---
+title: Day 334
+date: 2017-12-19 09:06:00 -08:00
+description: '"The single worst piece of legislation."'
+image: "/uploads/334.jpg"
+---
+
+1/ **The House will vote on tax reform today**. The Senate will vote either later today or tomorrow. Party-line votes are expected in both chambers and passage appears certain of the biggest overhaul of the tax system in more than 30 years. The bill would add $1.5 trillion to the federal debt over the next decade and deepen the income gap between rich and poor. The legislation also repeals the Affordable Care Act's individual mandate that most Americans buy health insurance coverage or face a federal fine. Paul Ryan said the bill "is about expanding opportunities for people who are striving to make the most of their lives." ([Reuters](https://www.reuters.com/article/us-usa-tax/congress-poised-to-approve-biggest-tax-overhaul-in-30-years-idUSKBN1ED16V))
+
+> **UPDATE:**
+>
+> **The House passed the $1.5 trillion GOP tax bill** that cuts tax rates for corporations, provides new breaks for private businesses, and reorganizes the individual tax code. The Senate is expected to pass the Tax Cuts And Jobs Act as soon as Tuesday night, which Trump could sign into law before the end of the week. Lawmakers voted 227-203. ([NBC News](https://www.nbcnews.com/politics/congress/republican-tax-bill-house-senate-trump-n831161) / [New York Times](https://www.nytimes.com/2017/12/19/us/politics/tax-bill-vote-republicans.html))
+
+* **Live:** House Vote on the Tax Bill. ([New York Times](https://www.nytimes.com/interactive/2017/12/19/us/politics/tax-bill-house-live-vote.html) / [CNN](https://www.cnn.com/2017/12/19/politics/tax-bill-latest/index.html))
+
+* **Tax Bill Calculators**: Will Your Taxes Go Up or Down? ([New York Times](https://www.nytimes.com/interactive/2017/12/17/upshot/tax-calculator.html)) / [Washington Post](https://www.washingtonpost.com/graphics/2017/business/tax-bill-calculator/))
+
+* **What's in the final Republican tax bill**. The legislation would cut taxes for corporations. Taxpayers in large part would receive temporary tax cuts that expire after 2025. ([New York Times](https://www.nytimes.com/interactive/2017/12/15/us/politics/final-republican-tax-bill-cuts.html))
+
+* **The GOP tax bill will impact high-tax, high-cost-of-living, big cities most** by capping the state and local income and property deductions at $10,000. Capping the benefit will potentially expose residents of those areas to a higher tax liability and reduce their property values. ([Politico](https://www.politico.com/story/2017/12/19/cities-republican-tax-bill-304123))
+
+* **Senator Mark Warner called the GOP tax plan "the single worst piece of legislation that I've seen."** ([CNBC](https://www.cnbc.com/2017/12/18/mark-warner-on-gop-tax-plan-worst-piece-of-legislation-ive-seen.html))
+
+2/ **The GOP bill would lower taxes for 95% of Americans in 2018, but within a decade 53% of Americans will pay more in taxes under the plan** with 82.8% of the bill's benefit going to the top 1%. In 2018, the highest earners on average will receive a larger tax cut than those making less. Those earning between $49,000 and $86,000 will receive an average cut of about $900, or roughly 1%. Those earning more than $733,000 would receive a cut of about $51,000, or roughly 6.9%. ([Washington Post](https://www.washingtonpost.com/business/economy/the-final-gop-plan-does-more-for-the-middle-class-than-earlier-versions-but-still-skews-heavily-to-the-wealthy/2017/12/18/d385e97a-e442-11e7-9ec2-518810e7d44d_story.html) / [Vox](https://www.vox.com/policy-and-politics/2017/12/18/16791174/republican-tax-bill-congress-conference-tax-policy-center))
+
+3/ **Trump's new campaign slogan is "How's your 401(k) doing?"** More than half of Americans don't have one. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-12-19/trump-asks-how-s-your-401-k-but-most-voters-don-t-have-one))
+
+4/ **Trump considered rescinding Neil Gorsuch's nomination** after the Supreme Court pick said he found Trump's repeated attacks on the federal judiciary "disheartening" and "demoralizing." Trump called report "FAKE NEWS" on Twitter. ([Washington Post](https://www.washingtonpost.com/politics/trump-reportedly-considered-rescinding-gorsuchs-nomination/2017/12/18/ad2b3b68-e1c7-11e7-9eb6-e3c7ecfb4638_story.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/943135588496093190 %}
+
+5/ **Members of Robert Mueller's team believe their investigation will continue through 2018**. White House lawyers were expected to meet with Mueller later this week and are hoping for signs that Mueller's focus on Trump is nearing its end. White House lawyers said they'll cooperate with Mueller, but Trump and his allies have recently accused the Justice Department and FBI of bias and overreach. ([Washington Post](https://www.washingtonpost.com/politics/trump-teams-meeting-with-muellers-office-poised-to-ratchet-up-tensions/2017/12/18/15dac668-e41d-11e7-a65d-1ac0fd7f097e_story.html))
+
+* 🇷🇺 [The Trump-Russia investigation](https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/).
+
+poll/ **55% of Americans oppose the Republican tax reform bill** with 66% saying the bill does more to help the wealthy than the middle class. ([CNN](https://www.cnn.com/2017/12/19/politics/cnn-poll-tax-bill-opposition-grows/index.html))
+
+poll/ **23% of Americans say "fake news" is the second more annoying phrase in 2017**. "Whatever" was the most annoying phrase. ([Marist](http://maristpoll.marist.edu/1218-whatever-loses-ground-but-retains-annoying-word-title/))
+
+1. [Trump vs Fake News: What you need to know. ](https://whatthefuckjusthappenedtoday.com/trump-fake-news/)
+
+---
+
+### Notables.
+
+1. **The Senate Banking Committee rejected Trump's nominee for the Export-Import Bank**. Scott Garrett once called the institution "corporate welfare" and tried to have it shut down. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-12-19/trump-pick-for-ex-im-bank-dealt-setback-as-senate-panel-opposes-jbds257k))
+
+2. **Tim Kaine's request for data on Senate sexual harassment claims was rejected**. The Office of Compliance said "confidentiality provisions" means that "the OOC does not possess reliable information regarding the number of sexual harassment claims that have been filed or settled." ([Politico](https://www.politico.com/story/2017/12/18/kaine-senate-harassment-data-304736))
+
+3. **The Senate Intelligence Committee is looking at Jill Stein for potential "collusion with the Russians."** The Green Party candidate attended a 2015 dinner in Moscow, which was also attended by Michael Flynn. Putin was seated next to Flynn and across the table from Stein. ([Washington Post](https://www.washingtonpost.com/powerpost/senate-intel-committee-investigating-jill-stein-campaign-for-collusion-with-the-russians/2017/12/18/ea7f3f1a-e44b-11e7-833f-155031558ff4_story.html))

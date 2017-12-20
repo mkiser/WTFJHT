@@ -9,7 +9,7 @@ length: 8468310
 
 **Tuesday, December 19, 2017**
 
-**Subscribe: **[Get the Daily Update in your inbox for free](https://whatthefuckjusthappenedtoday.com/subscribe/)
+**Subscribe:** [Get the Daily Update in your inbox for free](https://whatthefuckjusthappenedtoday.com/subscribe/)
 
 1/ The House passed the $1.5 trillion GOP tax bill.
 

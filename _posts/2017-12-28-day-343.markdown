@@ -1,0 +1,48 @@
+---
+title: Day 343
+date: 2017-12-28 06:23:00 -08:00
+description: 'Back to work. '
+image: "/uploads/343.jpg"
+---
+
+1/ **Robert Mueller is investigating whether the Trump campaign and the RNC coordinated their voter outreach using Russian-acquired information**. Russian hackers [stole](http://time.com/4828306/russian-hacking-election-widespread-private-data/) voter information from election databases in several states in 2016. Mueller's prosecutors want to know if the Trump campaign used that information to target voters in key swing states and determine if the joint RNC-Trump campaign data operation effort was related to the activities of Russian trolls and bots aimed at influencing the election. Jared Kushner was in charge of the campaign's digital operation and has recently searched for a crisis public relations firm to handle press inquiries. ([Yahoo News](https://finance.yahoo.com/news/mueller-probe-outgrows-witch-hunt-phase-100045988.html) / [Business Insider](http://www.businessinsider.com/mueller-questions-rnc-digital-operation-trump-campaign-russia-2017-12))
+
+2/ **A jailed Russian said he can prove he hacked the Democratic National Committee computers on behalf of Russian intelligence**. Konstantin Kozlovsky claims he left behind a data signature in a hidden data file that corresponds to his Russian passport number and the number of his visa to visit the Caribbean island of St. Martin. ([McClatchy DC](http://www.mcclatchydc.com/news/nation-world/national/article191857354.html))
+
+3/ **Robert Mueller may indict Paul Manafort and Rick Gates a second time**. Washington legal experts believe Mueller is preparing to file a superseding indictment to formally charge both men with violating tax laws. ([The Daily Beast](https://www.thedailybeast.com/robert-mueller-may-indict-paul-manafort-again))
+
+4/ **Trump golfed two days in a row after tweeting "it's back to work in order to Make America Great Again."** On the second day, a box truck was parked between cameras and the president in order to block the view of Trump golfing. ([Associated Press](https://www.apnews.com/d135d95fc9a14e419413fae5a13ee0a3/The-Latest:-Trump-says-tax-cuts-will-make-2018--'great-year') / [BuzzFeed News](https://www.buzzfeed.com/blakemontgomery/trump-golf))
+
+{% twitter https://twitter.com/realDonaldTrump/status/945437479863291904 %}
+
+{% twitter https://twitter.com/mkraju/status/945787636756738051 %}
+
+{% twitter https://twitter.com/CNNnewsroom/status/946103481726832641 %}
+
+5/ **Trump falsely claimed that he has signed more legislation than any other president at this point in their term**. While Trump did signed more bills in his first 100 days than any president since Truman, he has now signed the fewest number of bills into law of any first-year president dating back to Eisenhower. ([Politico](https://www.politico.com/story/2017/12/27/trump-legislation-record-truman-319542))
+
+6/ **34% of senior Trump administration officials have resigned, been fired, or reassigned this year**. It's the highest first-year departure rate of any other administration in the last 40 years. The next-highest first-year turnover rate was Ronald Reagan's, with 17% of senior aides leaving the administration in 1981. ([Wall Street Journal](https://www.wsj.com/articles/trump-white-house-saw-record-number-of-first-year-staff-departures-1514457002))
+
+poll/ **Obama and Hillary Clinton are the most admired man and woman in the United States**. Trump was the second-most admired man. ([Gallup](http://news.gallup.com/poll/224672/barack-obama-hillary-clinton-retain-admired-titles.aspx))
+
+poll/ **26% of Americans think Trump's Twitter use is appropriate**, with 59% disapproving and 15% unsure. ([The Hill](http://thehill.com/homenews/media/366597-poll-few-see-trumps-twitter-use-as-appropriate))
+
+poll/ **44% of Republicans think Trump successfully repealed the Affordable Care Act**. Overall, 31% believe Trump repealed the Affordable Care Act, 49% say he hasn’t, and 21% aren't sure. ([Vox](https://www.vox.com/2017/12/27/16822748/republicans-trump-repeal-obamacare))
+
+poll/ **52% of Americans say the U.S. is less respected in the world than a year ago**. 21% said they think the U.S. became more respected in the world and 26% think there was no change. ([The Hill](http://thehill.com/blogs/blog-briefing-room/news/366587-poll-most-say-us-became-less-respected-in-the-world-in-2017))
+
+---
+
+### Notables.
+
+1. **Trump has spent 110 days as president at one of his properties**. ([CNN](https://www.cnn.com/2017/12/22/politics/trump-mar-a-lago-golf/index.html))
+
+2. **New York City, San Francisco, and Philadelphia filed a federal lawsuit against the Department of Defense**, saying the system for reporting service members disqualified from gun ownership is broken. ([Associated Press](https://apnews.com/fe6b9e57e01c4dd89dbb6b520f9c5bf3/Cities-sue-Defense-Dept.-over-gun-check-system-failures))
+
+3. **China is projected to overtake the US economy by 2032**. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-12-26/china-to-overtake-u-s-economy-by-2032-as-asian-might-builds))
+
+4. **The Virginia State Board of Elections postponed plans for a name-drawing to decide the winner** of a deadlocked House of Delegates race after one of the candidates announced plans for a court challenge over whether the election was really a tie. ([Washington Post](https://www.washingtonpost.com/local/virginia-politics/on-eve-of-drawing-to-determine-winner-in-tied-va-race-democrats-announce-plans-to-sue/2017/12/26/a94a2f5a-ea3b-11e7-9f92-10a2203f6c8d_story.html))
+
+5. **A US appeals court rejected a legal challenge to Trump's voter fraud commission**, saying the Electronic Privacy Information Center is "not a voter" and does not have legal standing to sue the voter fraud commission for alleged violations of the 2002 E-Government Act. ([The Hill](http://thehill.com/blogs/blog-briefing-room/366482-appeals-court-rejects-challenge-to-trump-voter-fraud-panel))
+
+6. **Roy Moore filed a complaint alleging "systematic voter fraud."** The Alabama secretary of state dismissed complaints of election fraud and officials plan to certify the results today. Moore was the first Republican to lose a United States Senate race in Alabama in 25 years and has refused to concede the election. ([New York Times](https://www.nytimes.com/2017/12/28/us/politics/roy-moore-block-election.html) / [NBC News](https://www.nbcnews.com/politics/elections/roy-moore-alleges-voter-fraud-files-challenge-election-defeat-n833041))

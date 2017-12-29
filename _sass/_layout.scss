@@ -258,10 +258,12 @@ footer {
   padding: 1rem;
 }
 
-.post>.archive-months {
+.post>ul.archive-months {
   list-style-type: none;
   margin: -1rem 0 0 0;
   padding: 0;  
+  border: none;
+  background-color: rgba(0,0,0,0);
 }
 
 .archive-months li {
@@ -273,7 +275,11 @@ footer {
 .archive-months li:after {
     content: ' | ';
     margin: 0;
-    color: rgba(0, 0, 0, 0.25);
+    color: rgba(204, 204, 204, 1);
+}
+
+.archive-months li:last-child:after {
+  content: none;
 }
 
 .pod-header {

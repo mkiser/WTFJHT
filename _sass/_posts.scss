@@ -3,6 +3,15 @@
 // Each post is wrapped in `.post` and is used on default and post layouts. Each
 // page is wrapped in `.page` and is only used on the page layout.
 
+
+article.post p {
+  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+  line-height: 1.58;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 21px;
+}
+
 .posts {
   margin-top: 1em;
 }

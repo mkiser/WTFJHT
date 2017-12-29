@@ -1,0 +1,40 @@
+---
+title: Day 344
+date: 2017-12-29 08:41:00 -08:00
+description: "Looks bad\x10."
+image: "/uploads/344.jpg"
+---
+
+1/ **Trump: the Russia investigation makes the US "look very bad"** and that it "puts the country in a very bad position." The comment came during an impromptu 30-minute interview with The New York Times at his golf club in West Palm Beach. Trump insisted 16 times that there has been "no collusion" discovered by Robert Mueller's investigation. Additional quotes below. 
+
+\([New York Times](https://www.nytimes.com/2017/12/28/us/politics/trump-interview-mueller-russia-china-north-korea.html))
+
+1. **On collusion with Russia**: "There is no collusion" and even if there was collusion, "it's not a crime."
+
+2. **On reopening the investigation into Hillary Clinton's emails**: "I have absolute right to do what I want to do with the Justice Department."
+
+3. **On China**: "China's hurting us very badly on trade, but I have been soft on China because the only thing more important to me than trade is war."
+
+4. **On North Korea**: "...a nuclear menace..."
+
+* [Excerpts from Trump's interview with the New York Times](https://www.nytimes.com/2017/12/28/us/politics/trump-interview-excerpts.html). 
+
+2/ **Russia said the worsening relationship with the US is a major disappointment**. A Putin spokesman told reporters that Russia still wants improved relations with the US, but they have to be based on a "mutual trust and mutual respect" and that "it takes two to tango." ([Associated Press](https://apnews.com/23d8d833b9a94ed9baac0c0848dcf7c1/Russia-calls-worsening-ties-with-US-a-major-disappointment))
+
+3/ **Trump tweets that the US could use some "good old Global Warming" right now** while most of the Northeast is experiencing record-breaking cold weather. Weather and climate change are two different things: Weather is the short-term atmospheric conditions, while climate change is how the atmosphere acts over long periods of time. ([The Hill](http://thehill.com/homenews/administration/366734-trump-us-could-use-some-good-old-global-warming-to-heat-up-cold))
+
+{% https://twitter.com/realDonaldTrump/status/946531657229701120 %}
+
+4/ **Trump fired the remaining 16 members of his HIV/AIDS advisory council**. Members received a FedEx letter informing them that they were fired. There was no explanation or reason was given. ([Washington Blade](http://www.washingtonblade.com/2017/12/28/trump-fires-members-hivaids-council/) / [Newsweek](http://www.newsweek.com/trump-fires-hivaids-council-its-entirety-fedex-letter-report-claims-763737))
+
+{% twitter https://twitter.com/PozAdvocate/status/946499120599990275 %}
+
+---
+
+### Notables.
+
+1. **Trump accused China of being caught "RED HANDED"** for allowing oil into North Korea after U.S. spy satellites detected Chinese ships transferring oil to North Korean vessels about 30 times since October. ([Reuters](https://www.reuters.com/article/us-northkorea-missiles/after-trump-criticism-china-denies-selling-oil-illicitly-to-north-korea-idUSKBN1EN0D3))
+
+2. **The Trump administration rolled back offshore drilling rules put in place after the 2010 Deepwater Horizon disaster**. The rule change will save operators $288 million over 10 years. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-12-28/trump-rolls-back-offshore-safety-rules-born-from-bp-oil-spill))
+
+3. **Romanian hackers took over two-thirds of Washington DC's outdoor surveillance cameras a week before Trump's inauguration**. 123 of the D.C. police department's 187 outdoor surveillance cameras were hacked, leaving them unable to record for several days. ([Washington Post](https://www.washingtonpost.com/local/public-safety/romanian-hackers-took-over-dc-surveillance-cameras-just-before-presidential-inauguration-federal-prosecutors-say/2017/12/28/7a15f894-e749-11e7-833f-155031558ff4_story.html))

@@ -21,7 +21,7 @@ image: "/uploads/344.jpg"
 
 3/ **Trump tweets that the US could use some "good old Global Warming" right now** while most of the Northeast is experiencing record-breaking cold weather. Weather and climate change are two different things: Weather is the short-term atmospheric conditions, while climate change is how the atmosphere acts over long periods of time. ([The Hill](http://thehill.com/homenews/administration/366734-trump-us-could-use-some-good-old-global-warming-to-heat-up-cold))
 
-{% https://twitter.com/realDonaldTrump/status/946531657229701120 %}
+{% twitter https://twitter.com/realDonaldTrump/status/946531657229701120 %}
 
 4/ **Trump fired the remaining 16 members of his HIV/AIDS advisory council**. Members received a FedEx letter informing them that they were fired. There was no explanation or reason was given. ([Washington Blade](http://www.washingtonblade.com/2017/12/28/trump-fires-members-hivaids-council/) / [Newsweek](http://www.newsweek.com/trump-fires-hivaids-council-its-entirety-fedex-letter-report-claims-763737))
 

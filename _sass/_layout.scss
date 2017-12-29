@@ -258,6 +258,24 @@ footer {
   padding: 1rem;
 }
 
+.post>.archive-months {
+  list-style-type: none;
+  margin: -1rem 0 0 0;
+  padding: 0;  
+}
+
+.archive-months li {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.archive-months li:after {
+    content: ' | ';
+    margin: 0;
+    color: rgba(0, 0, 0, 0.25);
+}
+
 .pod-header {
   display: flex;
   width: 100%;

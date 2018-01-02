@@ -1,7 +1,7 @@
 ---
 title: Day 344
 date: 2017-12-29 08:41:00 -08:00
-description: "Looks bad\x10."
+description: "Looks bad."
 image: "/uploads/344.jpg"
 ---
 

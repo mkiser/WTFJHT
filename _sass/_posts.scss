@@ -4,12 +4,12 @@
 // page is wrapped in `.page` and is only used on the page layout.
 
 
-article.post p {
-  font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+article.post div.post-content > p {
+  font-family: $root-serif-font-family;
   line-height: 1.58;
   font-weight: 400;
   font-style: normal;
-  font-size: 21px;
+  font-size: 1.1rem;
 }
 
 .posts {
@@ -33,10 +33,9 @@ article.post p {
   }
 
   ul {
-    border: 1px solid rgba(0, 147, 240, .20);
+    border: none;
     padding: 1em;
     margin: 0 0 2em 1em;
-    border-radius: 3px;
     background-color: rgba(0, 147, 240, .03);
   }
 

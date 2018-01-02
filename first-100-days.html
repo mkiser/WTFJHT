@@ -25,8 +25,10 @@ image:
       <small><em>Updated: {{ post.last_modified | date: "%m/%d/%Y %r %Z"}} 
       </em></small>
     </time>
-      {{ post.content }}
-    </article>
+   <div class="post-content">
+    {{ post.content | extlinks }}
+    </div>
+        </article>
     {% else %}
     {% endif %}
   {% endfor %} 

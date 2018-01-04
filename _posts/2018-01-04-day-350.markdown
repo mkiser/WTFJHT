@@ -46,3 +46,5 @@ image: "/uploads/350.jpg"
 5. **Virginia determined the outcome of a tied House of Delegates race by random drawing** after two delegates each received at 11,608 votes – a Republican won. Republicans will hold a 51-49 majority in Virginia's state house. ([Vox](https://www.vox.com/policy-and-politics/2017/12/19/16797572/virginia-house-delegates-drawing-bowl))
 
 6. **The US will suspend nearly all security aid to Pakistan** as frustration mounts with the country's efforts to fight terror groups. ([New York Times](https://www.nytimes.com/2018/01/04/us/politics/trump-pakistan-aid.html))
+
+7. **The Trump administration proposed rules for health plans that bypass some Affordable Care Act protections**. The alternative health care plans would be reclassified so they no longer would have to include a set of 10 essential health benefits that the ACA requires. ([Washington Post](https://www.washingtonpost.com/national/health-science/trump-administration-proposes-rules-for-health-plans-without-certain-aca-protections/2018/01/04/23f21722-f162-11e7-b390-a36dc3fa2842_story.html))

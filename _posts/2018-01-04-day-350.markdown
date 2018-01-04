@@ -1,6 +1,6 @@
 ---
 title: Day 350
-date: 2018-01-04 08:27:00 -08:00
+date: 2018-01-04 09:27:00 -08:00
 description: Cease and desist.
 image: "/uploads/350.jpg"
 ---
@@ -18,3 +18,15 @@ image: "/uploads/350.jpg"
 {% twitter https://twitter.com/realDonaldTrump/status/948872192284155904 %}
 
 6/ **Jeff Sessions will allow federal prosecutors to more aggressively enforce marijuana laws**. Sessions is expected to rescind an Obama-era policy of discouraging federal prosecutors from bringing charges of marijuana-related crimes or from interfering with marijuana sales in states that had legalized sales of the drug. In February, Sessions said that while states "can pass the laws they choose," he said it remains "a violation of federal law to distribute marijuana throughout any place in the United States." ([Associated Press](https://apnews.com/19f6bfec15a74733b40eaf0ff9162bfa/AP-NewsBreak:-US-to-end-policy-that-let-legal-pot-flourish) / [New York Times](https://www.nytimes.com/2018/01/04/us/politics/marijuana-legalization-justice-department-prosecutions.html) / [Politico](https://www.politico.com/story/2018/01/04/jeff-sessions-marijuana-policy-us-attorney-enforcement-324020))
+
+---
+
+### Notables.
+
+1. **Two conservative Republicans called for Jeff Sessions to step down**, citing recent leaks from the Justice Department and FBI. ([The Hill](http://thehill.com/homenews/house/367403-meadows-jordan-say-time-for-sessions-to-go))
+
+2. **Deputy Attorney General Rod Rosenstein and FBI Director Chris Wray met with Paul Ryan about the House Russia investigation**. The meeting was related to a document request by House intelligence committee chairman Devin Nunes this summer. ([Politico](https://www.politico.com/story/2018/01/03/ryan-rosenstein-wray-fbi-justice-322618))
+
+3. **Dianne Feinstein asked Dan Scavino and Brad Parscale to meet with the Senate Judiciary Committee**. Scavino is the White House social media director and Parscale oversaw the Trump campaign's digital operation. ([Mother Jones](http://www.motherjones.com/politics/2018/01/sen-feinstein-says-trumps-social-media-guru-may-have-corresponded-with-russian-nationals/))
+
+4. **More than a dozen members of Congress met with a Yale University psychiatry professor last month** to discuss Trump's mental state and recent behavior. ([Politico](https://www.politico.com/story/2018/01/03/trump-25th-amendment-mental-health-322625))

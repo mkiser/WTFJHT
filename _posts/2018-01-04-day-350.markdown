@@ -7,17 +7,19 @@ image: "/uploads/350.jpg"
 
 1/ **Steve Bannon received a cease and desist letter** from Trump's lawyer accusing him of breaching his confidentiality agreement by making "disparaging" and "outright defamatory statements" about Trump and his family. The letter comes after excerpts from Michael Wolff's book were made public, with Bannon calling the Trump Tower meeting with Russians "[treasonous](https://whatthefuckjusthappenedtoday.com/2018/01/03/day-349/#1-steve-bannon-called-the-trump-towe)," "unpatriotic," and "bad shit." During the campaign, Trump had staffers sign a non-disclosure agreement which required all staff to refrain from making any disparaging comments about Trump, his family, or the campaign. ([ABC News](http://abcnews.go.com/Politics/trump-attorney-sends-bannon-cease-desist-letter-disparaging/story?id=52128555))
 
-* {% twitter https://twitter.com/Bencjacobs/status/948999853752938501 %}
+2/ **Trump's lawyer also demanded that Michael Wolff and his publisher immediately "cease and desist from any further publication, release or dissemination" of the forthcoming book**. Trump's lawyers are pursuing possible charges, including libel, in connection with the book, "Fire and Fury: Inside the Trump White House," which is scheduled to be released Friday – four days earlier than planned. ([Washington Post](https://www.washingtonpost.com/politics/trump-slams-bannon-when-he-was-fired-he-not-only-lost-his-job-he-lost-his-mind/2018/01/03/21fb158a-f0aa-11e7-b3bf-ab90a706e175_story.html) / [ABC News](http://abcnews.go.com/Politics/trump-attorney-sends-letter-author-book-demanding-cease/story?id=52134956))
 
-* {% twitter https://twitter.com/markknoller/status/949001657555267584 %}
+3/ **Michael Wolff has tapes to back up the quotes in his book**, including conversations with Steve Bannon and former White House deputy chief of staff Katie Walsh. On Twitter, Wolff thanked Trump for making his book the current [best seller](https://www.amazon.com/gp/bestsellers/books/ref=zg_b_bs_books_1) on Amazon. ([Axios](https://www.axios.com/how-michael-wolff-did-it-2522360813.html))
 
-* {% twitter https://twitter.com/oliverdarcy/status/949001400771665920 %}
-
-2/ **Trump's lawyer also demanded that Michael Wolff and his publisher immediately "cease and desist from any further publication, release or dissemination" of the forthcoming book**. Trump's lawyers are pursuing possible charges, including libel, in connection with the book, "Fire and Fury: Inside the Trump White House," which is scheduled to be released next week. ([Washington Post](https://www.washingtonpost.com/politics/trump-slams-bannon-when-he-was-fired-he-not-only-lost-his-job-he-lost-his-mind/2018/01/03/21fb158a-f0aa-11e7-b3bf-ab90a706e175_story.html) / [ABC News](http://abcnews.go.com/Politics/trump-attorney-sends-letter-author-book-demanding-cease/story?id=52134956))
-
-3/ **Michael Wolff has tapes to back up the quotes in his book**, including conversations with Steve Bannon and former White House deputy chief of staff Katie Walsh. ([Axios](https://www.axios.com/how-michael-wolff-did-it-2522360813.html))
+{% twitter https://twitter.com/MichaelWolffNYC/status/949023092357128194 %}
 
 * **Senior White House officials are debating whether Katie Walsh should be fired** from America First after she was quoted as reportedly saying that dealing with Trump is "like [trying to figure out what a child wants](http://nymag.com/daily/intelligencer/2018/01/michael-wolff-fire-and-fury-book-donald-trump.html)." Walsh, a former White House adviser, has [disputed](https://www.washingtonpost.com/lifestyle/style/michael-wolff-tells-a-juicy-tale-in-his-new-trump-book-but-should-we-believe-it/2018/01/03/d46f31c6-f0b2-11e7-97bf-bba379b809ab_story.html) the comment. ([Axios](https://www.axios.com/scoop-white-house-officials-discuss-removing-katie-walsh-from-outside-group-2522396631.html))
+
+4/ **Breitbart board members are debating whether to fire Steve Bannon**. Earlier in the day, Sarah Huckabee Sanders suggested that Breitbart News should consider removing its executive chairman. Bannon's billionaire benefactors, Robert Mercer and his daughter Rebekah Mercer, have been distancing themselves in recent months. ([Wall Street Journal](https://www.wsj.com/articles/breitbart-owners-debate-ousting-bannon-amid-trump-feud-1515100110) / [Politico](https://www.politico.com/story/2018/01/04/trump-steve-bannon-breitbart-324028))
+
+{% twitter https://twitter.com/oliverdarcy/status/949001400771665920 %}
+
+{% twitter https://twitter.com/Bencjacobs/status/948999853752938501 %}
 
 4/ **The White House banned staff from using personal cell phones in the West Wing**. Sarah Huckabee Sanders cited security concerns for the ban. Staff will now be required to use their government-issued devices in the West Wing, which don't accommodate texting. The White House weighed a similar move in early November, after leaks to the media from within the administration angered Trump. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-01-04/a-new-ban-at-the-white-house-staff-s-personal-mobile-phones) / [NBC News](https://www.nbcnews.com/politics/donald-trump/white-house-bans-personal-cell-phone-use-staffers-guests-n834546))
 
@@ -42,3 +44,5 @@ image: "/uploads/350.jpg"
 4. **More than a dozen members of Congress met with a Yale University psychiatry professor last month** to discuss Trump's mental state and recent behavior. ([Politico](https://www.politico.com/story/2018/01/03/trump-25th-amendment-mental-health-322625))
 
 5. **Virginia determined the outcome of a tied House of Delegates race by random drawing** after two delegates each received at 11,608 votes – a Republican won. Republicans will hold a 51-49 majority in Virginia's state house. ([Vox](https://www.vox.com/policy-and-politics/2017/12/19/16797572/virginia-house-delegates-drawing-bowl))
+
+6. **The US will suspend nearly all security aid to Pakistan** as frustration mounts with the country's efforts to fight terror groups. ([New York Times](https://www.nytimes.com/2018/01/04/us/politics/trump-pakistan-aid.html))

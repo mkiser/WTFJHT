@@ -23,7 +23,7 @@ length: 6975175
 
 poll/ Trump is losing ground with women, in particular Millennial, white-collar, and blue-collar white women. (**Editor's note: This is a must read. Click the link to read the story from [The Atlantic](https://www.theatlantic.com/politics/archive/2018/01/the-voters-abandoning-donald-trump/550247/).**)
 
-* poll/ 79% of Americans say "Dreamers" should be allowed to remain in the US and apply for citizenship.
+poll/ 79% of Americans say "Dreamers" should be allowed to remain in the US and apply for citizenship.
 
 * 58% of voters say that marijuana use should be made legal.
 

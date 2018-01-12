@@ -6,3 +6,7 @@
   #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
   </style>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Poppins" type="text/css">
+
+  {% if page.title == 'WTF News Quiz' %}
+	  <link href="{{ site.url }}{{ site.baseurl }}/public/css/quiz/slickQuiz.css" media="screen" rel="stylesheet" type="text/css">
+  {% endif %}

@@ -12,6 +12,14 @@ seo:
 {% include email.html %}
 
 <div class="posts">
+  {% assign now = site.time | date: '%Y-%m-%d' %}
+  {% assign note = site.notes.last %}
+  {% assign notedate = note.date | date: '%Y-%m-%d' %}
+  {% assign lastpost = site.posts.first.date | date: '%Y-%m-%d' %}
+  {% if now == notedate and notedate > lastpost %}
+      {% include note.html %}
+  {% endif %}
+
   {% for post in paginator.posts %}
   <article class="post">
     <h2 class="post-title">

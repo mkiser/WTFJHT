@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: true
+  notes:
+    title: Notes
+    output: true
   podcasts:
     title: Podcasts
     output: true
@@ -29,6 +32,15 @@ defaults:
     layout: post
     seo:
       type: NewsArticle
+- scope:
+    path: ''
+    type: notes
+  values:
+    permalink: "/:year/:month/:day/latest/"
+    title: ''
+    description: ''
+    image: ''
+    layout: note
 - scope:
     path: ''
     type: authors

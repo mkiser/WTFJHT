@@ -1,6 +1,6 @@
 ---
 title: Day 348
-date: 2018-01-02 09:41:00 -08:00
+date: 2018-01-02 12:41:00 -08:00
 description: 'Just a coffee boy. '
 image: "/uploads/348.jpg"
 ---

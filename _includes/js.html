@@ -9,3 +9,8 @@
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/riveted.min.js"></script>
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js"></script>
   <script>riveted.init();</script>
+  {% if page.title == 'WTF News Quiz' %}
+    {% include quiz.html %}
+  {% endif %}
+
+

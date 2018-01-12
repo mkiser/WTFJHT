@@ -1,0 +1,50 @@
+---
+title: Day 356
+date: 2018-01-10 09:37:00 -08:00
+description: A flawed legal premise.
+image: "/uploads/356.jpg"
+---
+
+1/ **A federal judge blocked the Trump administration's attempt to end DACA**, the Obama-era program that allows undocumented immigrants who entered the country as children to remain in the United States. A San Francisco-based U.S. District Court judge said Jeff Sessions' claim that the program is illegal was "based on a flawed legal premise," and ordered the administration to resume accepting DACA renewal applications. Trump responded, calling the court system "broken and unfair." Sarah Huckabee Sanders added that the decision was "outrageous." ([Politico](https://www.politico.com/story/2018/01/09/trump-dreamers-daca-judge-333143) / [Reuters](https://www.reuters.com/article/us-usa-immigration-ruling/u-s-judge-blocks-trump-move-to-end-daca-program-for-immigrants-idUSKBN1EZ0AR) / [New York Times](https://www.nytimes.com/2018/01/10/us/politics/outrageous-white-house-says-of-judges-daca-ruling.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/951094078661414912 %}
+
+* **Immigration agents raided 7-Eleven stores nationwide**, arresting 21 people. Agents targeted 98 stores nationwide. ([NBC News](https://www.nbcnews.com/news/us-news/immigration-agents-raid-7-eleven-stores-nationwide-arrest-21-people-n836531))
+
+2/ **Trump declined to commit to an interview with Robert Mueller when asked at a news conference today**. He said it "seems unlikely," but that "we'll see what happens." Trump repeatedly argued there has been "no collusion" between his campaign and Russia, and questioned why he would need to be interviewed. ([NBC News](https://www.nbcnews.com/politics/white-house/trump-seems-unlikely-i-ll-need-speak-mueller-n836566) / [Washington Post](https://www.washingtonpost.com/politics/trump-declines-to-say-whether-he-would-sit-for-interview-with-muellers-team/2018/01/10/823893fa-f645-11e7-91af-31ac729add94_story.html) / [New York Times](https://www.nytimes.com/2018/01/10/us/politics/trump-russia-election-interference.html))
+
+3/ **Trump's personal attorney filed lawsuits against Fusion GPS and BuzzFeed over the Steele dossier**. The lawsuits, one in federal and the other in state court, both claim that the dossier contained "false and defamatory" allegations against Trump that resulted in "harm to his personal and professional reputation, current business interests, and the impairment of business opportunities." ([ABC News](http://abcnews.go.com/Politics/michael-cohen-trumps-personal-attorney-files-lawsuits-fusion/story?id=52247639) / [CNN](https://www.cnn.com/2018/01/09/politics/trump-lawsuit-buzzfeed-fusion-gps/index.html))
+
+* **Trump said his administration would take a "strong look" at libel laws**. He criticized the current laws as a "disgrace" and a "sham." He pledged to make it easier for people to sue news organizations and publishers for defamation. ([New York Times](https://www.nytimes.com/2018/01/10/business/media/trump-libel-laws.html) / [Wall Street Journal](https://www.wsj.com/articles/trump-says-administration-will-take-strong-look-at-libel-laws-1515608271))
+
+4/ **A panel of federal judges ruled that North Carolina's congressional map was unconstitutional** on the grounds that Republicans drew the map with the intention of gaining a political advantage. The ruling, which imperils Republican seats in the upcoming election, marks the first time a federal court has blocked a congressional map on partisan gerrymandering grounds. ([The New York Times](https://www.nytimes.com/2018/01/09/us/north-carolina-gerrymander.html))
+
+5/ **A member of Trump's National Security Council proposed withdrawing U.S. forces from Eastern Europe as a way to please Putin** during the first months of the Trump presidency. Kevin Harrington's proposal, which was rejected, is the first known instance of senior Trump aides attempting to alter U.S. military actions to please Putin. ([The Daily Beast](https://www.thedailybeast.com/white-house-official-floated-withdrawing-us-forces-to-please-putin))
+
+6/ **The Trump administration waived fines for Deutsche Bank and four other multinational banks convicted of manipulating global interest rates**. Trump owes Deutsche at least $130 million in loans. The German bank was also fined $425 million by New York State for laundering $10 billion out of Russia. ([International Business Times](http://www.ibtimes.com/political-capital/trump-administration-waives-punishment-convicted-banks-including-deutsche-which))
+
+7/ **The Interior Department removed Florida "from consideration for any new oil and gas platforms"** and won't allow oil drilling in the eastern Gulf of Mexico and the Atlantic Ocean off Florida. Interior Secretary Ryan Zinke said drilling would be "off the table" when it comes to waters. The move, following pressure from Republican Gov. Rick Scott, exempts Florida from the Trump administration's plan to open up offshore drilling in coastal waters. ([NBC News](https://www.nbcnews.com/news/us-news/florida-dropped-offshore-oil-drilling-plan-after-republican-governor-intervenes-n836326))
+
+{% twitter https://twitter.com/tedlieu/status/950898298172395520 %}
+
+8/ **The White House plans to destroy the data collected for Trump's voter fraud commission** rather than giving it to the Department of Homeland Security. White House Director of Information Technology Charles Herndon added that the commission did not create any "preliminary findings," despite Sarah Huckabee Sanders' previous assertion that such findings would also be turned over to DHS. ([The Hill](http://thehill.com/homenews/administration/368243-data-from-trump-voter-fraud-commission-to-be-erased) / [Politico](https://www.politico.com/blogs/under-the-radar/2018/01/09/trump-election-fraud-commission-voter-data-332745))
+
+9/ **Canada believes Trump intends to pull the United States out of NAFTA**. The three countries will meet in Montreal this month for the sixth of seven planned rounds of negotiations. Major differences remain between the United States on one side and Mexico and Canada on the other. ([Reuters](https://www.reuters.com/article/us-trade-nafta-canada-exclusive/exclusive-canada-increasingly-convinced-of-trump-nafta-pullout-sources-idUSKBN1EZ2K4))
+
+poll/ **49% of Americans believe Obama is more responsible for the current U.S. economy than Trump**. 40% believe Trump is responsible. ([The Hill](http://thehill.com/homenews/administration/368347-poll-voters-still-say-obama-more-responsible-for-economy-than-trump))
+
+---
+
+### Notables.
+
+1. **Rep. Darrell Issa will not seek reelection to the House**, becoming the second California Republican to quit this week. Rep. Ed Royce also said he did not plan to seek reelection. ([Politico](https://www.politico.com/story/2018/01/10/issa-retires-333157))
+
+2. **A Senate Foreign Relations Committee report says the US is not prepared to defend against possible Russian meddling** in the 2018 midterm elections or the 2020 presidential contest. ([CNN](https://www.cnn.com/2018/01/10/politics/us-russia-election-meddling-cardin-report/index.html))
+
+3. **Robert Mueller has added a veteran cyber prosecutor to his team**, signaling a recent focus on possible computer crimes. ([Washington Post](https://www.washingtonpost.com/world/national-security/mueller-adds-veteran-cyber-prosecutor-to-special-counsel-team/2018/01/10/860f3364-f585-11e7-b34a-b85626af34ef_story.html))
+
+4. **Trump's companies sold more than $35 million in real estate in 2017**, primarily to shell companies that obscure the buyers' identities. ([USA Today](https://www.usatoday.com/story/news/2018/01/10/trumps-secretive-real-estate-sales-continue-unabated/1018530001/))
+
+5. **White House aides must decide before the end of January if they plan to stay through the November midterm elections** or leave the administration. The deadline is intended to bring a sense of order to an anticipated staffing exodus. ([CNN](https://www.cnn.com/2018/01/09/politics/president-donald-trump-staffing/index.html))
+
+6. **Vermont's Senate approved a bill legalizing adult consumption and cultivation of marijuana**, defying Jeff Sessions' escalating war on weed. ([Vice News](https://news.vice.com/en_us/article/a3n4jp/vermont-lawmakers-just-gave-sessions-the-finger-and-voted-to-legalize-weed))

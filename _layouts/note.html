@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<!-- MailChimp -->
+{% include email.html %}
+{% include topics.html %}
+<article class="post">
+  <h1 class="post-title">
+    <a href="{{ site.baseurl }}{{ page.url }}">
+      {{ page.title }}</a>
+  </h1>
+
+  {% assign author = site.authors | where: 'title', page.author | first %}
+  {% if author %}
+    <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
+  {% endif %}
+
+  <div class="post-date">
+    <time datetime="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% endif %}">
+      {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
+    </time>
+    <div>
+      <small>
+        <em>Updated {{ page.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
+      </small>
+    </div>
+    <div>
+      <small>
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
+ {% if page.contributors == "1" %}{{ page.contributors }} Contributor{% else %}{{ page.contributors }} Contributors{% endif %}
+      </small>
+    </div>
+  </div>
+
+{% assign ep = site.podcasts | where: 'post', page.title | first %}
+{% if ep %}
+  {% include pod.html %}
+
+  <small class="post-date pod-subscribe" style="margin-top: -2em; color: #9a9a9a;">
+    Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/I5fj7gzxpepkfvuzymxavcvok5y?t%3DWTF_Just_Happened_Today%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">Google Play Music</a>, <a href="https://www.stitcher.com/s?fid=132466&refid=stpr">Stitcher</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
+  </small>
+
+{% endif %}
+  <div class="post-content">
+    {{ content | extlinks }}
+  </div>
+  <div>
+    <small><strong>Subscribe:</strong> <a href="{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a> 
+    </small>
+  </div> 
+
+ <!-- Pledge Drive -->
+  {% include pledge.html %}
+
+  {% include social.html %}
+
+  <div class="next-prev">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
+
+  {% include comments.html %}
+</article>

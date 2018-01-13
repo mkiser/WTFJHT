@@ -1,0 +1,67 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+<title>{{ site.podcast_title }}</title>
+<atom:link href="{{ site.url }}{{ site.baseurl }}/podcasts/index.xml" rel="self" type="application/rss+xml" />
+<link>{{ site.url }}{{ site.baseurl }}</link>
+
+<description>{{ site.podcast_description }}</description>
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+<language>en-US</language>
+<copyright>{{ site.podcast_copyright }}</copyright>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<ttl>1440</ttl>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary>{{ site.podcast_summary }}</itunes:summary>
+<itunes:author>{{ site.podcast_author }}</itunes:author>
+<itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
+<itunes:owner>
+    <itunes:name>{{ site.podcast_owner }}</itunes:name>
+    <itunes:email>{{ site.podcast_email }}</itunes:email>
+</itunes:owner>
+<managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
+<itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
+<image>
+    <title>{{ site.podcast_title }}</title>
+    <url>{{ site.cloudfront_url }}{{ site.podcast_album_art }}</url>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <width>144</width>
+    <height>144</height>
+</image>
+<itunes:category text="{{ site.podcast_category }}" />
+<category>{{ site.podcast_category }}</category>
+
+
+    <ttl>30</ttl>
+    
+      <item>
+        <title>Day 249: But her emails.</title>
+    
+    
+        <link>http://localhost:4000/2017/09/25/day-249/</link>
+    
+
+        <pubDate>2017-09-25 16:01:00 -0700</pubDate>
+        <guid isPermaLink="false">/2017/09/25/podcast/</guid>
+        <description>
+            Monday, Sept. 25, 2017
+
+1/ The Graham-Cassidy bill appears dead on arrival.
+
+2/ Trump issued an executive order to expand his travel ban and permanently restrict visitors from eight countries.
+
+3/ Jared Kushner used a private email account through...
+        </description>
+        <enclosure url="https://d3ur8zm5qs6awd.cloudfront.net/uploads/day_249_____but_her_emails.mp3" length="9949318" type="audio/mpeg" />
+      </item>
+    
+    </channel>
+</rss>

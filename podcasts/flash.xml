@@ -42,26 +42,22 @@ layout:
 
     <ttl>30</ttl>
     
+      {% for ep in site.podcasts reversed limit:1 %}
       <item>
-        <title>Day 249: But her emails.</title>
-    
-    
-        <link>http://localhost:4000/2017/09/25/day-249/</link>
-    
+        <title>{{ ep.title }}</title>
+    {% assign post = site.posts | where: 'title', ep.post %}
+    {% for link in post %}
+        <link>{{ site.url }}{{ site.baseurl }}{{ link.url }}</link>
+    {% endfor %}
 
-        <pubDate>2017-09-25 16:01:00 -0700</pubDate>
-        <guid isPermaLink="false">/2017/09/25/podcast/</guid>
+        <pubDate>{{ ep.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <guid isPermaLink="false">{{ ep.url }}</guid>
         <description>
-            Monday, Sept. 25, 2017
-
-1/ The Graham-Cassidy bill appears dead on arrival.
-
-2/ Trump issued an executive order to expand his travel ban and permanently restrict visitors from eight countries.
-
-3/ Jared Kushner used a private email account through...
+            {{ ep.content | strip_html | truncate: 250 }}
         </description>
-        <enclosure url="https://d3ur8zm5qs6awd.cloudfront.net/uploads/day_249_____but_her_emails.mp3" length="9949318" type="audio/mpeg" />
+        <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
       </item>
+    {% endfor %}
     
     </channel>
 </rss>

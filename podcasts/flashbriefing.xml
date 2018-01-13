@@ -1,0 +1,26 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+    <ttl>30</ttl>
+    {% for ep in site.podcasts reversed limit:1 %}
+      <item>
+        <title>{{ ep.title }}</title>
+    {% assign post = site.posts | where: 'title', ep.post %}
+    {% for link in post %}
+        <link>{{ site.url }}{{ site.baseurl }}{{ link.url }}</link>
+    {% endfor %}
+
+        <pubDate>{{ ep.date }}</pubDate>
+        <guid isPermaLink="true">{{ ep.url }}</guid>
+        <description>
+            {{ ep.content | strip_html | truncate: 250 }}
+        </description>
+        <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
+      </item>
+    {% endfor %}
+    </channel>
+</rss>

@@ -2,12 +2,11 @@
 layout: 
 ---
 
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
 <channel>
     <title>{{ site.podcast_title }}</title>
-    <atom:link href="{{ site.url }}{{ site.baseurl }}/podcasts/index.xml" rel="self" type="application/rss+xml" />
-    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <link>http://wtfjusthappenedtoday.com/</link>
     <description>{{ site.podcast_description }}</description>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
@@ -17,7 +16,7 @@ layout:
     <image>
         <title>{{ site.podcast_title }}</title>
         <url>{{ site.cloudfront_url }}{{ site.podcast_album_art }}</url>
-        <link>{{ site.url }}{{ site.baseurl }}</link>
+        <link>http://wtfjusthappenedtoday.com/</link>
         <width>144</width>
         <height>144</height>
     </image>
@@ -28,7 +27,7 @@ layout:
             <title>{{ ep.title }}</title>
             {% assign post = site.posts | where: 'title', ep.post %}
             {% for link in post %}
-            <link>{{ site.url }}{{ site.baseurl }}{{ link.url }}</link>
+            <link>http://wtfjusthappenedtoday.com{{ link.url }}</link>
             {% endfor %}
             <pubDate>{{ ep.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
             <guid isPermaLink="false">{{ ep.url }}</guid>

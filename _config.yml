@@ -188,6 +188,7 @@ algolia:
   - author
   - topics
   - topic
+  - notes
   settings:
     attributesToIndex:
     - unordered(text)

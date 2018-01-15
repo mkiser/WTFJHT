@@ -37,9 +37,7 @@ defaults:
     type: notes
   values:
     permalink: "/:year/:month/:day/latest/"
-    title: 'The Latest.'
-    # description: ''
-    # image: ''
+    title: The Latest.
     layout: note
     metatags: noindex, follow
     sitemap: false

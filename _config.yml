@@ -138,9 +138,6 @@ github:
   repo: https://github.com/mkiser/WTFJHT
 exclude:
 - vendor
-keep_files:
-- public
-- uploads
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

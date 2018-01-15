@@ -10,5 +10,4 @@ gem 'jekyll-archives'
 group :jekyll_plugins do
   gem 'algoliasearch-jekyll'
   gem 'jekyll_pages_api'
-  # gem 'jekyll-admin'
 end

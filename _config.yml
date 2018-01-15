@@ -37,10 +37,12 @@ defaults:
     type: notes
   values:
     permalink: "/:year/:month/:day/latest/"
-    title: ''
-    description: ''
-    image: ''
+    title: 'The Latest.'
+    # description: ''
+    # image: ''
     layout: note
+    metatags: noindex, follow
+    sitemap: false
 - scope:
     path: ''
     type: authors

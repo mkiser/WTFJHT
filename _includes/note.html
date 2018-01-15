@@ -1,7 +1,14 @@
   <article class="post">
-    <h3>Current Status:</h3>
+    <h3>{{ note.title }}</h3>
+    {% if post.last_modified %}
+    <div class="post-date">
+    	<div>
+	        <small>
+	          <em>Updated {{ post.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
+	        </small>
+	      </div>
+	</div>
+	{% endif %}
     {{ note.content }}
-<!--     <p>
-    	<small><strong>More:</strong> <a href="#">What the political web is talking about &gt;</a>	</small>	
-  	</p> -->
   </article>
+

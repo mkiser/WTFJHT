@@ -40,7 +40,7 @@ defaults:
     title: ''
     description: ''
     image: ''
-    flag: 'The Latest.'
+    flag: The Latest.
     layout: note
     metatags: noindex, follow
     sitemap: false
@@ -138,7 +138,9 @@ github:
   repo: https://github.com/mkiser/WTFJHT
 exclude:
 - vendor
-keep_files: [public, uploads]
+keep_files:
+- public
+- uploads
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

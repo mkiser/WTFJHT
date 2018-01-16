@@ -9,7 +9,7 @@ image: "/uploads/362.jpg"
 
 2/ **Bannon met with the House Intelligence Committee this morning behind closed-doors**. Lawmakers are sure to question Bannon on what he knew about the Trump Tower meeting, which he's previously called "treasonous." ([The Hill](http://thehill.com/policy/national-security/369109-bannon-gives-closed-door-testimony-to-house-intel-panel))
 
-* **Hope Hicks is expected to meet with the House Intelligence Committee as early as Friday.** The White House Communications Director will be one of the closest Trump confidantes to be privately interviewed as part of the Russia probe. The committee plans to ask her about any contacts that may have occurred between Trump associates and the Russians. ([CNN](http://www.cnn.com/2018/01/15/politics/hope-hicks-congress-testify/index.html))
+* **Hope Hicks is expected to meet with the House Intelligence Committee as early as Friday.** The White House Communications Director will be one of the closest Trump confidantes to be privately interviewed as part of the Russia probe. The committee plans to ask her about any contacts that may have occurred between Trump associates and the Russians. ([CNN](http://www.cnn.com/2018/01/15/politics/hope-hicks-congress-testify/index.html) / [NBC News](https://www.nbcnews.com/politics/white-house/house-committee-question-wh-communications-director-hope-hicks-n837891))
 
 3/ **The government could shutdown if lawmakers can't agree on a spending bill by Friday.** GOP leaders are looking to a short-term funding measure to keep certain government agencies open while talks continue, but Democrats are unlikely to support any deal that doesn't include protections for young undocumented immigrants. ([Washington Post](https://www.washingtonpost.com/politics/shutdown-looms-as-republicans-seek-short-term-spending-deal-for-government/2018/01/15/4984c5aa-fa24-11e7-8f66-2df0b94bb98a_story.html?utm_term=.b1136a269139))
 
@@ -17,11 +17,15 @@ image: "/uploads/362.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/953267506004754432 %}
 
-5/ **Senate Democrats have 50 votes in favor of restoring net neutrality.** Only one more Republican vote is needed in order to reverse the FCC's decision to deregulate the broadband industry. ([Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/01/15/the-senates-push-to-overrule-the-fcc-on-net-neutrality-now-has-50-votes-democrats-say/?utm_term=.81103c02ef18))
+5/ **Senate Democrats have 50 votes in favor of restoring net neutrality.** Only one more Republican vote is needed in order to reverse the FCC's decision to deregulate the broadband industry. The attorneys general from 22 states have filed a lawsuit to block the net neutrality repeal. ([Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/01/15/the-senates-push-to-overrule-the-fcc-on-net-neutrality-now-has-50-votes-democrats-say/?utm_term=.81103c02ef18) / [New York Times](https://www.nytimes.com/2018/01/16/technology/net-neutrality-lawsuit-attorneys-general.html))
 
 6/ **Sarah Huckabee Sanders claimed Trump can't be racist because he was on "The Apprentice."** Sanders said it was "outrageous" that Trump is racist, adding "Frankly, if the critics of the president were who he said he was, why did NBC give him a show for a decade on TV?" ([Bloomberg](https://www.bloomberg.com/news/articles/2018-01-16/sanders-defends-trump-as-not-racist-citing-apprentice-tv-role))
 
+7/ **The White House doctor said Trump is in "excellent" overall health and that he performed "well" on a cognitive exam**. At 6'3", 239 pounds, Trump is one pound away from being considered obese as defined by the Centers for Disease Control. ([The Hill](http://thehill.com/homenews/administration/369205-wh-doctor-declares-trump-in-excellent-health-mentally-fit-for-office) / [Politico](https://www.politico.com/story/2018/01/16/trump-health-physical-medical-341485))
+
 poll/ **The number of uninsured Americans rose by 3.2 million in Trump's first year in office**. The uninsured rate increased 1.3 points since last quarter of 2016, leaving 12.2% of Americans without health insurance. ([Gallup](http://news.gallup.com/poll/225383/uninsured-rate-steady-fourth-quarter-2017.aspx))
+
+poll/ **42% of Republicans consider negative news stories that are accurate to be "fake news."** ([Washington Post](https://www.washingtonpost.com/blogs/erik-wemple/wp/2018/01/16/study-42-percent-of-republicans-believe-accurate-but-negative-stories-qualify-as-fake-news/))
 
 ---
 
@@ -33,7 +37,9 @@ poll/ **The number of uninsured Americans rose by 3.2 million in Trump's first y
 
 3. **Kim Jong-Un called Trump's nuclear button tweet the "spasm of a lunatic."** ([The Independent](https://www.independent.co.uk/news/world/asia/north-korea-donald-trump-nuclear-twitter-us-kim-jong-un-reaction-weapons-a8161281.html))
 
-4. **Sixty-four trade groups, foreign governments, Republican candidates and more stayed at or held events at Trump properties during his first year in office**. Before taking office, Trump said he would hand off control of his global business empire to his sons Donald Jr. and Eric. He didn't, however, hand off all assets that could cause a conflict of interest. ([Reuters](https://www.reuters.com/article/us-usa-trump-business/foreign-governments-candidates-trade-groups-spent-at-trump-properties-report-idUSKBN1F50DM))
+4. **Paul Manafort's trial will likely to start in September** at the earliest after a federal judge rejected Robert Mueller's bid to kick off the trial in May. ([Politico](https://www.politico.com/story/2018/01/16/paul-manafort-trial-timeline-341128))
+
+5. **Sixty-four trade groups, foreign governments, Republican candidates and more stayed at or held events at Trump properties during his first year in office**. Before taking office, Trump said he would hand off control of his global business empire to his sons Donald Jr. and Eric. He didn't, however, hand off all assets that could cause a conflict of interest. ([Reuters](https://www.reuters.com/article/us-usa-trump-business/foreign-governments-candidates-trade-groups-spent-at-trump-properties-report-idUSKBN1F50DM))
 
 ---
 

@@ -5,7 +5,7 @@ date: 2018-01-17 04:32:00 -08:00
 
 1. **Steve Bannon refused to answer questions from the House Intelligence Committee**, citing executive privilege invoked by the White House. House investigators in both parties were outraged by his refusal, leading the committee to subpoena Bannon on the spot. Top lawmakers investigating Russian interference in the 2016 election vowed to force Bannon to answer their questions. ([Politico](https://www.politico.com/story/2018/01/16/steve-bannon-congress-testimony-subpoena-341492))
 
-2. **Bannon is still expected to answer questions from the special counsel. **Executive privilege will not prevent Bannon from sharing information with Robert Mueller.  ([The Daily Beast](https://www.thedailybeast.com/steve-bannon-will-tell-all-to-robert-mueller-source-says))
+2. **Bannon is still expected to answer questions from the special counsel.** Executive privilege will not prevent Bannon from sharing information with Robert Mueller.  ([The Daily Beast](https://www.thedailybeast.com/steve-bannon-will-tell-all-to-robert-mueller-source-says))
 
 3. **Robert Mueller's probe would continue in the event of a government shutdown.** Employees in the special counsel office are exempt from furlough and would continue their work, despite a potential lack of appropriations. The government is set to shutdown Friday night if lawmakers are unable to agree on a spending bill. ([CNN](http://www.cnn.com/2018/01/16/politics/justice-department-special-counsel-shutdown/index.html))
 

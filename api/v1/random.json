@@ -5,11 +5,13 @@
     {% for post in site.posts %}
     {
       "title"    : "{{ post.title }}",
+      "desc"     : "{{ post.description | escape }}",
       "href"     : "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
       "date"     : {
          "day"   : "{{ post.date | date: "%d" }}",
          "month" : "{{ post.date | date: "%B" }}",
-         "year"  : "{{ post.date | date: "%Y" }}"
+         "year"  : "{{ post.date | date: "%Y" }}",
+         "date"  : "{{ post.date | date: "%Y-%m-%d" }}"
       }
     }
     {% unless forloop.last %},{% endunless %}

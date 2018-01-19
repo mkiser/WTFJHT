@@ -15,59 +15,60 @@ var quizJSON = {
     },
     "questions": [
         { // Question 1 - Multiple Choice, Single True Answer
-            "q": "Trump tried to find a position in his administration for __________, who turned down a previous nomination after old domestic abuse allegations resurfaced. ",
+            "q": "Which Senator was caught removing a pair of 'invisible' glasses?",
             "a": [
-                {"option": "Andy Puzder",      "correct": true},
-                {"option": "KT McFarland",     "correct": false},
-                {"option": "Michael Flynn",      "correct": false},
-                {"option": "Anthony Scarmucci",     "correct": false} // no comma here
+                {"option": "Dick Durbin",      "correct": false},
+                {"option": "Chuck Grassley",     "correct": false},
+                {"option": "Orrin Hatch",      "correct": true},
+                {"option": "Dianne Feinstein",     "correct": false} // no comma here
             ],
-            "correct": "<p><strong>That's right!</strong> The White House wants to find a new role for Andrew Puzder, the former head of Carl's Jr. who declined the nomination to become labor secretary after old domestic abuse allegations resurfaced. The White House, however, is apparently considering finding another role for Puzder inside the Trump administration. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/09/day-355/' target='_blank'>Day 355</a> / <a href='https://www.politico.com/story/2018/01/08/andy-puzder-white-house-administration-328240' target='_blank'>Politico</a>)</p>",
-            "incorrect": "<p><strong>Negative.</strong> The White House wants to find a new role for Andrew Puzder, the former head of Carl's Jr. who declined the nomination to become labor secretary after old domestic abuse allegations resurfaced. The White House, however, is apparently considering finding another role for Puzder inside the Trump administration. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/09/day-355/' target='_blank'>Day 355</a> / <a href='https://www.politico.com/story/2018/01/08/andy-puzder-white-house-administration-328240' target='_blank'>Politico</a>)</p>" // no comma here
+            "correct": "<p><strong>Correct. You must have 20/20 vision.</strong> Here's Orrin Hatch removing a pair of glasses he's not wearing. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/09/day-355/' target='_blank'>Day 362</a> / <a href='https://twitter.com/LevineJonathan/status/953310521775788032' target='_blank'>Twitter</a>)</p>",
+            "incorrect": "<p><strong>Might be time to check your eyes.</strong> Watch Orrin Hatch remove a pair of glasses he's not wearing. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/09/day-355/' target='_blank'>Day 362</a> / <a href='https://twitter.com/LevineJonathan/status/953310521775788032' target='_blank'>Twitter</a>)</p>" // no comma here
         },
         { // Question 2 - Multiple Choice, Multiple True Answers, Select Any
-            "q": "The US Army's official twitter account liked a tweet by __________ that was critical of Trump.",
+            "q": "The FBI is currently investigating whether a Russian banker gave money to which organization in order to help Trump win the election?",
             "a": [
-                {"option": "Hillary Clinton", "correct": false},
-                {"option": "Mindy Kaling",   "correct": true},
-                {"option": "Oprah",  "correct": false},
-                {"option": "Dianne Feinstein", "correct": false} // no comma here
+                {"option": "Facebook", "correct": false},
+                {"option": "NRA",   "correct": true},
+                {"option": "CPAC",  "correct": false},
+                {"option": "Fox", "correct": false} // no comma here
             ],
-            "correct": "<p><strong>Boom! That's correct.</strong> The US Army's official Twitter account liked a tweet critical of Trump by 'The Office' and 'The Mindy Project' star Mindy Kaling. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/08/day-354/' target='_blank'>Day 354</a> / <a href='https://www.washingtonpost.com/news/checkpoint/wp/2018/01/08/the-military-cant-stop-accidentally-undermining-trump-on-twitter/' target='_blank'>Washington Post</a>)</p>",
-            "incorrect": "<p><strong>Darnit. That wasn't quite right.</strong> The US Army's official Twitter account liked a tweet critical of Trump by 'The Office' and 'The Mindy Project' star Mindy Kaling. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/08/day-354/' target='_blank'>Day 354</a> / <a href='https://www.washingtonpost.com/news/checkpoint/wp/2018/01/08/the-military-cant-stop-accidentally-undermining-trump-on-twitter/' target='_blank'>Washington Post</a>)</p>" // no comma here
+            "correct": "<p><strong>Bullseye.</strong> The FBI is investigating whether a Russian banker illegally funneled money to the NRA in order to help Trump win the presidency. Alexander Torshin is the deputy governor of Russia's central bank and has a close relationship with Putin. Torshin spoke with Trump Jr. during an NRA gala in May 2016, when Trump won the NRA's presidential endorsement. The NRA spent $30 million to support Trump in the 2016 election – three times what they devoted to Mitt Romney in 2012. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/18/day-364/' target='_blank'>Day 364</a> / <a href='http://www.mcclatchydc.com/news/nation-world/national/article195231139.html' target='_blank'>McClatchy DC</a>)</p>",
+            "incorrect": "<p><strong>A little off target.</strong> The FBI is investigating whether a Russian banker illegally funneled money to the NRA in order to help Trump win the presidency. Alexander Torshin is the deputy governor of Russia's central bank and has a close relationship with Putin. Torshin spoke with Trump Jr. during an NRA gala in May 2016, when Trump won the NRA's presidential endorsement. The NRA spent $30 million to support Trump in the 2016 election – three times what they devoted to Mitt Romney in 2012. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/18/day-364/' target='_blank'>Day 364</a> / <a href='http://www.mcclatchydc.com/news/nation-world/national/article195231139.html' target='_blank'>McClatchy DC</a>)</p>" // no comma here
         },
         { // Question 3 - Multiple Choice, Multiple True Answers, Select All
-            "q": "What voting bloc has Trump lost the most ground with since becoming President?",
+            "q": "Sarah Huckabee Sanders claimed Trump can't be racist because ______?",
             "a": [
-                {"option": "Millennials",           "correct": false},
-                {"option": "Blue-collar white men",                  "correct": false},
-                {"option": "Millennial men without a degree",  "correct": false},
-                {"option": "Women",          "correct": true} // no comma here
+                {"option": "He's rich",           "correct": false},
+                {"option": "She said so",                  "correct": false},
+                {"option": "He likes cable news",  "correct": false},
+                {"option": "He was on The Apprentice",          "correct": true} // no comma here
             ],
-            "correct": "<p><strong>Correct!</strong> Trump is losing ground with women, in particular Millennial, white-collar, and blue-collar white women, according to an unpublished SurveyMonkey poll of 605,172 Americans. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/11/day-357/' target='_blank'>Day 357</a> / <a href='https://www.theatlantic.com/politics/archive/2018/01/the-voters-abandoning-donald-trump/550247/' target='_blank'>The Atlantic</a>)</p>",
-            "incorrect": "<p><strong>No! No! No!</strong> Trump is losing ground with women, in particular Millennial, white-collar, and blue-collar white women, according to an unpublished SurveyMonkey poll of 605,172 Americans. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/11/day-357/' target='_blank'>Day 357</a> / <a href='https://www.theatlantic.com/politics/archive/2018/01/the-voters-abandoning-donald-trump/550247/' target='_blank'>The Atlantic</a>)</p>" // no comma here
+            "correct": "<p><strong>Well done!</strong> Sarah Huckabee Sanders claimed Trump can't be racist because he was on \"The Apprentice.\" Sanders said claims that Trump is racist were \"outrageous,\" adding, \"Frankly, if the critics of the president were who he said he was, why did NBC give him a show for a decade on TV?\"  (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/16/day-362/' target='_blank'>Day 362</a> / <a href='https://www.bloomberg.com/news/articles/2018-01-16/sanders-defends-trump-as-not-racist-citing-apprentice-tv-role' target='_blank'>Bloomberg</a>)</p>",
+            "incorrect": "<p><strong>You're fired.</strong> Sarah Huckabee Sanders claimed Trump can't be racist because he was on \"The Apprentice.\" Sanders said claims that Trump is racist were \"outrageous,\" adding, \"Frankly, if the critics of the president were who he said he was, why did NBC give him a show for a decade on TV?\"  (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/16/day-362/' target='_blank'>Day 362</a> / <a href='https://www.bloomberg.com/news/articles/2018-01-16/sanders-defends-trump-as-not-racist-citing-apprentice-tv-role' target='_blank'>Bloomberg</a>)</p>" // no comma here
         },
         { // Question 4
-            "q": "What cable new host opened their segment this week with: 'The president of the United States is racist'",
+            "q": "Steve Bannon didn't respond to House Intelligence Committee questions because______.",
             "a": [
-                {"option": "Rachel Maddow",    "correct": false},
-                {"option": "Anderson Cooper",     "correct": false},
-                {"option": "Megyn Kelly",      "correct": false},
-                {"option": "Don Lemon",   "correct": true} // no comma here
+                {"option": "He hasn't testified ",    "correct": true},
+                {"option": "He struck a deal with Robert Mueller",     "correct": false},
+                {"option": "He did not recall",      "correct": false},
+                {"option": "The White House directed him not to",   "correct": true} // no comma here
             ],
-            "correct": "<p><strong>Damn straight.</strong> Don Lemon opened his segment with: 'The president of the United States is racist.' The CNN Tonight host added that 'A lot of us already knew that,' and that Trump's comments were 'disgusting,' but not shocking. 'They're not even really surprising.' (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/12/day-358/' target='_blank'>Day 358</a> / <a href='https://www.washingtonpost.com/news/morning-mix/wp/2018/01/12/this-is-cnn-tonight-im-don-lemon-the-president-of-the-united-states-is-racist/' target='_blank'>Washington Post</a>)</p>",
-            "incorrect": "<p><strong>That's not fucking it.</strong> Don Lemon opened his segment with: 'The president of the United States is racist.' The CNN Tonight host added that 'A lot of us already knew that,' and that Trump's comments were 'disgusting,' but not shocking. 'They're not even really surprising.' (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/12/day-358/' target='_blank'>Day 358</a> / <a href='https://www.washingtonpost.com/news/morning-mix/wp/2018/01/12/this-is-cnn-tonight-im-don-lemon-the-president-of-the-united-states-is-racist/' target='_blank'>Washington Post</a>)</p>" // no comma here
+            "select_any": true,
+            "correct": "<p><strong>You better believe it.</strong> Bannon didn't respond to House Intelligence Committee questions because the White House directed him not to. During Bannon's testimony, his attorney relayed questions in real time to the White House asking if his client could answer the questions. Bannon was instructed not to discuss his work on the transition or in the White House. White House officials believed they had an agreement with the committee to limit questions to the presidential campaign. Adam Schiff, the top Democrat on the committee, called the \"gag order\" an \"audacious\" move by the White House. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/17/day-363/' target='_blank'>Day 363</a> / <a href='https://www.cnn.com/2018/01/16/politics/steve-bannon-executive-privilege/index.html' target='_blank'>CNN</a>)</p>",
+            "incorrect": "<p><strong>Fake news.</strong> Bannon didn't respond to House Intelligence Committee questions because the White House directed him not to. During Bannon's testimony, his attorney relayed questions in real time to the White House asking if his client could answer the questions. Bannon was instructed not to discuss his work on the transition or in the White House. White House officials believed they had an agreement with the committee to limit questions to the presidential campaign. Adam Schiff, the top Democrat on the committee, called the \"gag order\" an \"audacious\" move by the White House. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/17/day-363/' target='_blank'>Day 363</a> / <a href='https://www.cnn.com/2018/01/16/politics/steve-bannon-executive-privilege/index.html' target='_blank'>CNN</a>)</p>" // no comma here
         },
         { // Question 5
-            "q": "Who called the court system 'broken and unfair?'",
+            "q": "Who may have taped confidential West Wing conversations?'",
             "a": [
-                {"option": "Sarah Huckabee Sanders",    "correct": false},
-                {"option": "Sean Spicer",     "correct": false},
-                {"option": "Ryan Zinke",      "correct": false},
-                {"option": "President Trump",   "correct": true} // no comma here
+                {"option": "Chris Christie",    "correct": false},
+                {"option": "Hannity",     "correct": false},
+                {"option": "Omarosa Manigault-Newman",      "correct": true},
+                {"option": "President Trump",   "correct": false} // no comma here
             ],
-            "correct": "<p><strong>Bingo.</strong> A federal judge blocked the Trump administration's attempt to end DACA, the Obama-era program that allows undocumented immigrants who entered the country as children to remain in the United States. A San Francisco-based U.S. District Court judge said Jeff Sessions' claim that the program is illegal was 'based on a flawed legal premise,' and ordered the administration to resume accepting DACA renewal applications. Trump responded, calling the court system 'broken and unfair.' Sarah Huckabee Sanders added that the decision was 'outrageous.' (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/10/day-356/' target='_blank'>Day 356</a> / <a href='https://twitter.com/realDonaldTrump/status/951094078661414912' target='_blank'>Twitter</a>)</p>",
-            "incorrect": "<p><strong>Sorry, try harder.</strong> A federal judge blocked the Trump administration's attempt to end DACA, the Obama-era program that allows undocumented immigrants who entered the country as children to remain in the United States. A San Francisco-based U.S. District Court judge said Jeff Sessions' claim that the program is illegal was 'based on a flawed legal premise,' and ordered the administration to resume accepting DACA renewal applications. Trump responded, calling the court system 'broken and unfair.' Sarah Huckabee Sanders added that the decision was 'outrageous.' (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/10/day-356/' target='_blank'>Day 356</a> / <a href='https://twitter.com/realDonaldTrump/status/951094078661414912' target='_blank'>Twitter</a>)</p>" // no comma here
+            "correct": "<p><strong>You must be an Apprentice fan.</strong> Omarosa Manigault-Newman may have taped confidential West Wing conversations. The former White House staffer believes she may become a fixture in Robert Mueller's investigation into possible connections between the Trump campaign and Russia's election meddling. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/19/day-365/' target='_blank'>Day 365</a> / <a href='http://www.nydailynews.com/news/politics/omarosa-taped-confidential-white-house-discussions-article-1.3765147' target='_blank'>NY Daily News</a>)</p>",
+            "incorrect": "<p><strong>Ouch.</strong> Omarosa Manigault-Newman may have taped confidential West Wing conversations. The former White House staffer believes she may become a fixture in Robert Mueller's investigation into possible connections between the Trump campaign and Russia's election meddling. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/19/day-365/' target='_blank'>Day 365</a> / <a href='http://www.nydailynews.com/news/politics/omarosa-taped-confidential-white-house-discussions-article-1.3765147' target='_blank'>NY Daily News</a>)</p>" // no comma here
         } // no comma here
     ]
 };

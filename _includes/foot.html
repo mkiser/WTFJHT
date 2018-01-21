@@ -21,22 +21,7 @@
 </footer>
   {% include algolia.html %}
   {% include js.html %}
-  {% include scrolldepth.html %}
-  {% include clickEvent.html %}
-  {% if page.layout == 'post' %}
-    {% include anchors.html %}
-  {% endif %}
-  {% if page.layout == 'topics' %}
-    {% include anchors.html %}
-  {% endif %}
-  {% include chat.html %}
 
-<script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js"></script>
-<script>
-  audiojs.events.ready(function() {
-    var as = audiojs.createAll();
-  });
-</script>
 
 </body>
 <!--  

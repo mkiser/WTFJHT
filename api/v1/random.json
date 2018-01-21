@@ -11,6 +11,7 @@
          "day"   : "{{ post.date | date: "%d" }}",
          "month" : "{{ post.date | date: "%B" }}",
          "year"  : "{{ post.date | date: "%Y" }}",
+         "fullDate"  : "{{ post.date }}",
          "date"  : "{{ post.date | date: "%Y-%m-%d" }}"
       }
     }

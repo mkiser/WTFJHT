@@ -6,6 +6,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
 gem 'jekyll-archives'
+gem 'jekyll-include-cache'
 
 group :jekyll_plugins do
   gem 'algoliasearch-jekyll'

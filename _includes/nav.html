@@ -1,0 +1,17 @@
+<nav class="wtf-pagination">
+  <div class="menu">
+    <div><a href="{{ site.url }}{{ site.baseurl }}/">Home</a> | </div>
+    <div>
+      {% for post in site.posts limit:1 %} 
+      <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Today</a>{% endfor %} | 
+    </div>
+    <div>
+      {% for post in site.posts limit:1 offset:1 %} <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} | 
+    </div>
+    <div><a href="#" onclick="randomPost();">Random Post</a> | </div>
+    <div><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a> | </div>
+    <div><a href="https://talk.whatthefuckjusthappenedtoday.com/">Community Forum</a> | </div>
+    <div><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Subscribe</a> | </div>
+    <div><a href="{{ site.url }}{{ site.baseurl }}/membership/">Support WTFJHT</a></div>
+  </div>
+</nav>

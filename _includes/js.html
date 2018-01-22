@@ -9,21 +9,21 @@
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/riveted.min.js"></script>
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js"></script>
   <script>riveted.init();</script>
-  {% include chat.html %}
-  {% include audio.html %}
+  {% include_cached chat.html %}
+  {% include_cached audio.html %}
 
   {% if page.layout == 'post' %}
-    {% include anchors.html %}
+    {% include_cached anchors.html %}
     {% include todaylastyear.html %}
   {% endif %}
 
   {% if page.layout == 'topics' %}
-    {% include anchors.html %}
+    {% include_cached anchors.html %}
   {% endif %}
 
   {% if page.title == 'WTF News Quiz' %}
-    {% include quiz.html %}
+    {% include_cached quiz.html %}
   {% endif %}
 
-  {% include scrolldepth.html %}
+  {% include_cached scrolldepth.html %}
   {% include clickEvent.html %}

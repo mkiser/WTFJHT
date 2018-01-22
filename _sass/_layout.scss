@@ -386,3 +386,81 @@ h4.pod-lead{
         width: auto;
     }
 }
+
+
+.flex-container {
+  display: flex;
+  padding: 1em;
+}
+
+.flex-item {
+  flex: 1;
+  width: 0;
+
+  &:not(:last-child) {
+    margin-right: 1em;
+  }
+}
+
+.package {
+  border: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  transition: 0.25s;
+  border-radius: 0;
+
+  &:hover {
+    box-shadow: 0 6px 25px 0 rgba(0, 0, 0, 0.25);
+    transform: scale(1.025);
+  }
+
+  .header {
+    background-color: #333;
+    color: #fff;
+    font-size: 1.5em;
+  }
+
+
+  li {
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    padding: 1.2em;
+    text-align: center;
+  }
+}
+
+div.flex-item ul.package {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media only screen and (max-width: 700px) {
+  button {
+    padding: 0.75em;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .flex-container {
+    flex-wrap: wrap;
+  }
+
+  .flex-item {
+    flex: 0 0 100%;
+    margin-bottom: 1em;
+    width: 100%;
+  }
+
+  .package:hover {
+    box-shadow: none;
+    transform: none;
+  }
+
+  button {
+    padding: 0.75em 1.5em;
+  }
+}
+
+

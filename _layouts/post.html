@@ -3,8 +3,8 @@ layout: default
 ---
 
 <!-- MailChimp -->
-{% include email.html %}
-{% include topics.html %}
+{% include_cached email.html %}
+{% include_cached topics.html %}
 <article class="post">
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ page.url }}">
@@ -53,9 +53,9 @@ layout: default
   </div> 
 
  <!-- Pledge Drive -->
-  {% include pledge.html %}
+  {% include_cached pledge.html %}
 
-  {% include social.html %}
+  {% include_cached social.html %}
 
   <div class="next-prev">
     {% if page.previous.url %}

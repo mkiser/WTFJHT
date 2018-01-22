@@ -13,11 +13,9 @@ module Jekyll
 
       # splits the contents into items for each story. Slice off
       # the first one, since it's an empty string
-      item_list = post.content.split(/<p>\d\//).slice(1..-1)
-
+      item_list = post.content.split(/<p>[0-9][0-9]?\/|poll\//).slice(1..-1)
       # make the list into an indexed array
-      items = Hash[(1...item_list.size).zip item_list]
-
+      items = Hash[(0...item_list.size).zip item_list]
       # setup the entire output with any other desired keys
       output = ({
         :title        => post['title'],

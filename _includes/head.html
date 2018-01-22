@@ -21,19 +21,35 @@
   -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  {% include css.html %}
-  
+  {% include_cached css.html %}
   <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/public/favicon.ico" type="image/x-icon">
   <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/public/favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
-  
   <link rel="alternate" type="application/atom+xml" title="Atom - {{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/atom.xml">
   <link rel='alternate' type='application/rss+xml' title='RSS - {{ site.title }}' href="{{ site.url }}{{ site.baseurl }}/rss.xml">
 
-  {% include push.html %}
+  {% include_cached push.html %}
   {% include seo.html %}
   {% include post-modified.html %}
-  {% include ga.html %}
-  {% include fb.html %}
+  {% include_cached ga.html %}
+  {% include_cached fb.html %}
+
+  <script type="text/javascript">
+    window.MemberfulOptions = {site: "https://wtfjht.memberful.com"};
+
+    (function() {
+      var s   = document.createElement('script');
+
+      s.type  = 'text/javascript';
+      s.async = true;
+      s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+
+      setup = function() { window.MemberfulEmbedded.setup(); }
+
+      s.addEventListener("load", setup, false);
+
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+  </script>
+
 </head>

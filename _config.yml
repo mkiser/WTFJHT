@@ -229,6 +229,7 @@ gems:
 - jekyll-extlinks
 - jekyll-archives
 - algoliasearch
+- jekyll-include-cache
 podcast_album_art: "/podcasts/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser

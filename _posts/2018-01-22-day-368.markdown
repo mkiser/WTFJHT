@@ -1,17 +1,11 @@
 ---
 title: Day 368
 date: 2018-01-22 08:42:00 -08:00
-description: 'Shutdown showdown. '
+description: Shutdown showdown.
 image: "/uploads/368.jpg"
 ---
 
-> **BREAKING.**
->
-> **Senators believe they have reached a bipartisan deal to end the government shutdown** and allow Congress to pass a short-term funding bill. ([CNBC](https://www.cnbc.com/2018/01/22/government-shutdown-news-senators-reach-deal-to-end-shutdown.html))
-
-1/ **The Senate will vote today at noon on a plan to reopen the federal government.** Democrats say there is still no concrete deal on the table, even as Mitch McConnell pleaded with the Senate to end the shutdown. "Negotiating with President Trump is like negotiating with Jell-O," Chuck Schumer said. "It's next to impossible." ([Politico](https://www.politico.com/story/2018/01/21/government-shutdown-2018-trump-senate-354113) / [Washington Post](https://www.washingtonpost.com/politics/negotiating-with-jell-o-how-trumps-shifting-positions-fueled-the-rush-to-a-shutdown/2018/01/20/81215b90-fd71-11e7-a46b-a3614530bd87_story.html))
-
-1. Live: **Tracking the second Senate shutdown vote**. ([New York Times](https://www.nytimes.com/interactive/2018/01/22/us/politics/live-senate-vote-government-shutdown2.html) / [CNN](https://www.cnn.com/2018/01/22/politics/shutdown-latest/index.html))
+1/ **Senate Democrats voted with Republicans to approve a short-term spending bill to fund the government through February 8th**. Democrats received assurances from Mitch McConnell that the Senate will vote on a DACA bill in the coming weeks in exchange for reopening the government. ([Washington Post](https://www.washingtonpost.com/powerpost/trump-slams-democrats-as-third-day-of-government-shutdown-begins/2018/01/22/3a3eecf0-ff25-11e7-9d31-d72cf78dbeee_story.html) / [CNBC](https://www.cnbc.com/2018/01/22/government-shutdown-news-senators-reach-deal-to-end-shutdown.html) / [New York Times](https://www.nytimes.com/2018/01/22/us/politics/government-shutdown.html))
 
 * **Trump has privately told lawmakers twice that he is ready to strike a deal** to extend legal status to young undocumented immigrants, only to have aides pull him back from such a compromise. ([New York Times](https://www.nytimes.com/2018/01/21/us/politics/trump-government-shutdown.html))
 
@@ -39,10 +33,8 @@ pre-shutdown poll/ **41% of voters said they would blame Republicans in Congress
 
 1. **A new book about the Trump administration is set to publish on Jan. 29.** The book is titled, "Media Madness: Donald Trump, The Press, And The War Over The Truth," and it paints yet another picture of a White House in chaos. ([Washington Post](https://www.washingtonpost.com/politics/defiance-disorder-another-new-book-portrays-chaos-in-trumps-white-house/2018/01/21/9362d160-febd-11e7-93f5-53a3a47824e8_story.html?utm_term=.f106a44e76fa))
 
-2. **Trump sarcastically tweeted that Saturday was a "perfect day for all women to march**. Get out there now to celebrate the historic milestones and unprecedented economic success and wealth creation that has taken place over the last 12 months. Lowest female unemployment in 18 years!" ([Twitter](http://abcnews.go.com/Politics/thousands-streets-womens-march-anniversary-trumps-1st-year/story?id=52483721))
+2. **Trump sarcastically tweeted that Saturday was a "perfect day for all women to march**. Get out there now to celebrate the historic milestones and unprecedented economic success and wealth creation that has taken place over the last 12 months. Lowest female unemployment in 18 years!" ([Twitter](http://abcnews.go.com/Politics/thousands-streets-womens-march-anniversary-trumps-1st-year/story?id=52483721)) 
 
-3. The Trump administration cited a Department of Homeland Security report 
+3. **Deutsche Bank reported "suspicious transactions" related to Kushner family accounts to German banking regulators**. The bank also said it was willing to provide the information to special prosecutor Robert Mueller's team of investigators. ([Mother Jones](http://www.motherjones.com/politics/2018/01/deutsche-bank-reports-suspicious-activity-related-to-jared-kushners-accounts-1/))
 
-4. **Deutsche Bank reported "suspicious transactions" related to Kushner family accounts to German banking regulators**. The bank also said it was willing to provide the information to special prosecutor Robert Mueller's team of investigators. ([Mother Jones](http://www.motherjones.com/politics/2018/01/deutsche-bank-reports-suspicious-activity-related-to-jared-kushners-accounts-1/))
-
-5. **The Army is preparing to send 1,000 more troops to Afghanistan this spring** beyond the 14,000 already in the country. ([Washington Post](https://www.washingtonpost.com/world/national-security/up-to-1000-more-us-troops-could-be-headed-to-afghanistan-this-spring/2018/01/21/153930b6-fd1b-11e7-a46b-a3614530bd87_story.html))
+4. **The Army is preparing to send 1,000 more troops to Afghanistan this spring** beyond the 14,000 already in the country. ([Washington Post](https://www.washingtonpost.com/world/national-security/up-to-1000-more-us-troops-could-be-headed-to-afghanistan-this-spring/2018/01/21/153930b6-fd1b-11e7-a46b-a3614530bd87_story.html))

@@ -13,22 +13,22 @@ The cost of running What The Fuck Just Happened Today isn't free. It's [my full-
 Here's a rough estimate of the monthly costs:
 
 **Hosting:**
-The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, and generally an inexpensive data storage infrastructure option. _Monthly Cost:_ ~$50
+The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, and generally an inexpensive data storage infrastructure option. I also use CloudFlare to manage my DNS, SSL certificate, and handle caching. _Monthly Cost:_ ~$50
 
 **Podcast and Hosting:**
-I also use AWS S3 to host the [daily podcast]({{ site.baseurl }}/podcasts/) and cache the files with AWS CloudFront. I also pay Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. All-in, it costs me about $1,000 to run the pod. _Monthly Cost:_ ~$1200
+I use AWS S3 to host the [daily podcast]({{ site.baseurl }}/podcasts/) and cache the files with AWS CloudFront. I also pay Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. All-in, it costs me about $1,200 to run the pod. _Monthly Cost:_ ~$1200
 
 **S3 Stat:**
 Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) let's me easily understand who is playing what pod on what device. _Monthly Cost:_ $10
 
-**Site Search:**
-This giant repository of news isn't very valuable if you can't find what you're looking for. I've implemented <a href="https://www.algolia.com/" target="_blank">Algolia</a>, the best instant search option out there. _Monthly Cost:_ $59
-
 **Live Chat:**
 I like to engage with the WTF family, so I've installed Chat.io, a livechat widget on the site. _Monthly Cost:_ $10
 
+**Site Search:**
+This giant repository of news isn't very valuable if you can't find what you're looking for. I've implemented <a href="https://www.algolia.com/" target="_blank">Algolia</a>, the best instant search option out there. _Monthly Cost:_ $59
+
 **Email Service:**
-Oh boy, here's one of the most expensive parts of running the site. I use <a href="https://mailchimp.com/" target="_blank">MailChimp</a> because the ease of use, templating, reporting, and pre-built forms are the best in the business. While there are cheaper options out there, the time-savings is huge. For now, at least...
+Oh boy, here's one of the most expensive parts of running the site. I use <a href="https://mailchimp.com/" target="_blank">MailChimp</a> because the ease of use, templating, reporting, and pre-built forms are the best in the business. While there are cheaper options out there, the time-savings is worth it.
 
 MailChimp charges based on the number of subscribers you have AND the number of monthly emails sent. WTFJHT sends more than 2.5M emails/month.
 
@@ -58,7 +58,7 @@ Here's my conservative daily breakdown in time spent:
 * 1-3 hours community management and distributing to Twitter and Facebook
 * 1-4 hours site maintenance, help desk/support, etc
 
-And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle. Via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. _Monthly Cost:_ ($63,718 + $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
+And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle, via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. _Monthly Cost:_ ($63,718 + $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
 
 ---
 

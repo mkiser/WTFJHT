@@ -9,7 +9,7 @@ image:
   facebook: "/public/wtfjht-f.jpg"
 ---
 
-<p class="lead">Starting today, WTF Just Happened Today is my full-time job. See? Trump IS creating jobs. That's right. I quit my job. </p>
+<p class="lead">WTF Just Happened Today is my full-time job. See? Trump IS creating jobs. That's right. I quit my job to run a blog. </p>
 
 WTFJHT started as a personal project – a challenge to chronicle the daily shock and awe of the administration's first 100 days. I mean, how hard could writing 100 blog posts even be? 
 

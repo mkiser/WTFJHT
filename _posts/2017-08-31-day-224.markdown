@@ -21,7 +21,7 @@ image: "/uploads/224.jpg"
 
 7/ **Trump is expected to rescind Obama's Dreamer policy**. The Deferred Action for Childhood Arrivals, or DACA, protects nearly 600,000 immigrants who entered the country illegally as children. They will be allowed to stay until their work permits expire. ([Reuters](https://www.reuters.com/article/us-usa-immigration-daca-idUSKCN1BB2PD) / [McClatchy DC](http://www.mcclatchydc.com/news/politics-government/white-house/article170463687.html))
 
-8/ **Health and Human Services cut the Affordable Care Act marketing budget by 90%**. They'll spend $10 million promoting open enrollment, which starts in November. The Obama administration spent $100 million last year. ([Axios](https://www.axios.com/hhs-cuts-aca-advertising-budget-by-90-percent-2480029656.html))
+8/ **Health and Human Services cut the <a href="{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a> marketing budget by 90%**. They'll spend $10 million promoting open enrollment, which starts in November. The Obama administration spent $100 million last year. ([Axios](https://www.axios.com/hhs-cuts-aca-advertising-budget-by-90-percent-2480029656.html))
 
 9/ **Trump's treasury secretary won’t commit to putting Harriet Tubman on $20 bill**. Last year, Obama and his treasury secretary proposed to replace Andrew Jackson’s image with Tubman, the famous abolitionist who helped free enslaved people. She would be the first woman on American paper money as well as the first African American. ([Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/08/31/trump-treasury-secretary-wont-commit-to-put-harriet-tubman-on-20-bill/))
 

@@ -11,7 +11,7 @@ image: "/uploads/330.jpg"
 
 2. Corporate tax rate cut to 21% from 35%
 
-3. Eliminates the Affordable Care Act's individual mandate that requires most Americans to buy health insurance or pay a penalty
+3. Eliminates the <a href="{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a>'s individual mandate that requires most Americans to buy health insurance or pay a penalty
 
 4. The estate tax would remain but the exemption from it would be doubled.
 
@@ -33,7 +33,7 @@ image: "/uploads/330.jpg"
 
 2/ **Cambridge Analytica handed over employees' emails to Robert Mueller's team** as part of the special counsel's investigation into Russian interference in the 2016 election. The firm provided the Trump campaign with data, polling, and research services during the race. The emails had previously been voluntarily turned over to the House Intelligence Committee. ([Wall Street Journal](https://www.wsj.com/articles/mueller-sought-emails-of-trump-campaign-data-firm-1513296899))
 
-1. 🇷🇺 [What you need to know about the Trump-Russia investigation](https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/).
+1. 🇷🇺 [What you need to know about the Trump-<a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a>](https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/).
 
 3/ **Trump called the FBI a "shame" shortly before speaking** at the FBI's National Academy. He told the graduating class of law enforcement managers that he has their "back 100%." Trump promised "to rebuild the FBI" and make it "bigger and better than ever." He called himself a "true friend and loyal champion" of law enforcement – "more loyal than anyone else can be" – but also said "people are very angry" with the FBI and Justice Department. Last week Trump said the FBI was in "[tatters](https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/)." ([NPR](https://www.npr.org/2017/12/15/570868360/after-months-of-withering-criticism-trump-prepares-to-visit-fbi) / [Axios](https://www.axios.com/trump-tells-fbi-graduates-he-has-their-back-100-percent-2517682727.html))
 
@@ -53,7 +53,7 @@ image: "/uploads/330.jpg"
 
 9/ **Funding for the Children's Health Insurance Program lapsed three months ago**. CHIP covers 9 million poor and middle-class children with health care. No state has had to kick a child off its CHIP so far, but the Trump administration did send emergency funding to several states to bridge the gaps. ([Politico](https://www.politico.com/story/2017/12/15/chip-health-program-partisan-washington-228407))
 
-9/ **A federal judge temporarily blocked Trump's order allowing employers to opt out of providing contraceptive coverage** if they have religious or moral objections. Judge Wendy Beetlestone of the Federal District Court in Philadelphia said the rule contradicts the text of the Affordable Care Act. ([New York Times](https://www.nytimes.com/2017/12/15/us/politics/obamacare-birth-control-trump.html))
+9/ **A federal judge temporarily blocked Trump's order allowing employers to opt out of providing contraceptive coverage** if they have religious or moral objections. Judge Wendy Beetlestone of the Federal District Court in Philadelphia said the rule contradicts the text of the <a href="{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a>. ([New York Times](https://www.nytimes.com/2017/12/15/us/politics/obamacare-birth-control-trump.html))
 
 poll/ **54% of voters think Robert Mueller's "relationship" with James Comey represents a conflict of interest** because he is "the former head of the FBI and a friend of James Comey." ([Harvard CAPS-Harris](http://harvardharrispoll.com/))
 

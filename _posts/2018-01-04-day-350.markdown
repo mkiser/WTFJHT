@@ -37,7 +37,7 @@ image: "/uploads/350.jpg"
 
 1. **Freedom Caucus leaders called for Jeff Sessions to step down**, citing recent leaks from the Justice Department and FBI. ([The Hill](http://thehill.com/homenews/house/367403-meadows-jordan-say-time-for-sessions-to-go))
 
-2. **Deputy Attorney General Rod Rosenstein and FBI Director Chris Wray met with Paul Ryan about the House Russia investigation**. The meeting was related to a document request by House Intelligence Committee chairman Devin Nunes this summer. ([Politico](https://www.politico.com/story/2018/01/03/ryan-rosenstein-wray-fbi-justice-322618))
+2. **Deputy Attorney General Rod Rosenstein and FBI Director Chris Wray met with Paul Ryan about the House <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a>**. The meeting was related to a document request by House Intelligence Committee chairman Devin Nunes this summer. ([Politico](https://www.politico.com/story/2018/01/03/ryan-rosenstein-wray-fbi-justice-322618))
 
 3. **Dianne Feinstein asked Dan Scavino and Brad Parscale to meet with the Senate Judiciary Committee**. Scavino is the White House social media director and Parscale oversaw the Trump campaign's digital operation. ([Mother Jones](http://www.motherjones.com/politics/2018/01/sen-feinstein-says-trumps-social-media-guru-may-have-corresponded-with-russian-nationals/))
 
@@ -47,4 +47,4 @@ image: "/uploads/350.jpg"
 
 6. **The US will suspend nearly all security aid to Pakistan** as frustration mounts with the country's efforts to fight terror groups. ([New York Times](https://www.nytimes.com/2018/01/04/us/politics/trump-pakistan-aid.html))
 
-7. **The Trump administration proposed rules for health plans that bypass some Affordable Care Act protections**. The alternative health care plans would be reclassified so they no longer would have to include a set of 10 essential health benefits that the ACA requires. ([Washington Post](https://www.washingtonpost.com/national/health-science/trump-administration-proposes-rules-for-health-plans-without-certain-aca-protections/2018/01/04/23f21722-f162-11e7-b390-a36dc3fa2842_story.html))
+7. **The Trump administration proposed rules for health plans that bypass some <a href="{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a> protections**. The alternative health care plans would be reclassified so they no longer would have to include a set of 10 essential health benefits that the ACA requires. ([Washington Post](https://www.washingtonpost.com/national/health-science/trump-administration-proposes-rules-for-health-plans-without-certain-aca-protections/2018/01/04/23f21722-f162-11e7-b390-a36dc3fa2842_story.html))

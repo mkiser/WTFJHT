@@ -19,7 +19,7 @@ image: "/uploads/348.jpg"
 
 * **Workplace deaths in the coal mining industry increased last year to their highest point in three years**. 15 miners died on the job in 2017, compared with eight in 2016. ([The Hill](http://thehill.com/policy/energy-environment/367034-coal-mining-deaths-skyrocket-in-2017))
 
-5/ **White House aides are worried about 2018** as several senior officials are expected to depart in the coming year – with no replacements lined up – and Robert Mueller's Russia investigation looms. Aides expect few things to get done in Washington this year as they head into a contentious midterm election season. ([Politico](https://www.politico.com/story/2018/01/01/trump-aides-anxieties-worries-2018-319861))
+5/ **White House aides are worried about 2018** as several senior officials are expected to depart in the coming year – with no replacements lined up – and Robert Mueller's <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a> looms. Aides expect few things to get done in Washington this year as they head into a contentious midterm election season. ([Politico](https://www.politico.com/story/2018/01/01/trump-aides-anxieties-worries-2018-319861))
 
 * **Democrats are already campaigning for 2020**. Many Democrats and some Republicans say there's a chance Trump may not be on the ballot in 2020 for any number of reasons: He resigns; gets removed from office; chooses not to seek re-election; or loses in a GOP primary. Steve Bannon placed Trump's odds of completing his first term at 30%. ([NBC News](https://www.nbcnews.com/politics/elections/democrats-are-already-campaigning-2020-so-trump-n831651))
 

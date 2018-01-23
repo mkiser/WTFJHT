@@ -10,7 +10,7 @@ author: Clayton Aldern
 
 * **Flynn has again refused to appear as a witness before the Senate intelligence committee**. He first declined to speak with the committee following a subpoena in May, claiming Fifth Amendment rights. ([CNN](http://www.cnn.com/2017/09/12/politics/michael-flynn-senate-subpoena-refusal/index.html))
 
-* **Flynn's son, Michael G. Flynn, is a subject of the federal Russia probe, as well**. The investigation focuses in part on Flynn's work with Mike Flynn's lobbying firm. ([NBC News](https://www.nbcnews.com/news/us-news/mike-flynn-s-son-subject-federal-russia-probe-n800741))
+* **Flynn's son, Michael G. Flynn, is a subject of the federal <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia probe</a>, as well**. The investigation focuses in part on Flynn's work with Mike Flynn's lobbying firm. ([NBC News](https://www.nbcnews.com/news/us-news/mike-flynn-s-son-subject-federal-russia-probe-n800741))
 
 2/ **The U.S. government has banned the use of Kaspersky Lab software over concerns of Russian cyberespionage**. Federal agencies will have three months to remove the software. Homeland Security called the risk that Russia could "capitalize on access provided by Kaspersky products" a national security threat. Kaspersky Lab denies any wrongdoing and claims it is "caught in the middle of a geopolitical fight." ([Washington Post](https://www.washingtonpost.com/world/national-security/us-to-ban-use-of-kaspersky-software-in-federal-agencies-amid-concerns-of-russian-espionage/2017/09/13/36b717d0-989e-11e7-82e4-f1076f6d6152_story.html))
 

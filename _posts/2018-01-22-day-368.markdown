@@ -13,7 +13,7 @@ image: "/uploads/368.jpg"
 
 * **The White House changed its public comment line to blame Democrats** over the weekend for "holding government funding, including funding for our troops and other national security priorities, hostage to an unrelated immigration debate. Due to this obstruction, the government is shut down." ([CNN](https://www.cnn.com/2018/01/21/politics/white-house-comment-line-blames-dems-trnd/index.html))
 
-2/ **The deal to end the government shutdown included $31 billion in tax cuts**. The deal includes a temporary delay in implementing three Affordable Care Act taxes that will add to the federal budget deficit. ([New York Times](https://www.nytimes.com/2018/01/22/us/politics/shutdown-spending-tax-cuts-obamacare.html))
+2/ **The deal to end the government shutdown included $31 billion in tax cuts**. The deal includes a temporary delay in implementing three <a href="{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a> taxes that will add to the federal budget deficit. ([New York Times](https://www.nytimes.com/2018/01/22/us/politics/shutdown-spending-tax-cuts-obamacare.html))
 
 3/ **Paul Ryan received $500,000 in campaign contributions from one of the Koch brothers after the House passed the federal tax bill.** The Koch brothers spent millions of dollars lobbying to get the tax bill passed, and are currently spending millions more on a PR campaign to boost public support for the bill. ([HuffPost](https://www.huffingtonpost.com/entry/koch-paysout-to-ryan-after-taxlaw_us_5a63ce41e4b0dc592a09697c))
 

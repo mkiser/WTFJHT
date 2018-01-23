@@ -5,7 +5,7 @@ description: Looks bad.
 image: "/uploads/344.jpg"
 ---
 
-1/ **Trump: The Russia investigation makes the US "look very bad"** and "puts the country in a very bad position." The comment came during an impromptu 30-minute interview with The New York Times at his golf club in West Palm Beach. Trump insisted 16 times that there has been "no collusion" discovered by Robert Mueller's investigation. Additional quotes below. ([New York Times](https://www.nytimes.com/2017/12/28/us/politics/trump-interview-mueller-russia-china-north-korea.html))
+1/ **Trump: The <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a> makes the US "look very bad"** and "puts the country in a very bad position." The comment came during an impromptu 30-minute interview with The New York Times at his golf club in West Palm Beach. Trump insisted 16 times that there has been "no collusion" discovered by Robert Mueller's investigation. Additional quotes below. ([New York Times](https://www.nytimes.com/2017/12/28/us/politics/trump-interview-mueller-russia-china-north-korea.html))
 
 1. **On collusion with Russia**: "There is no collusion" and even if there was collusion, "it's not a crime."
 
@@ -19,7 +19,7 @@ image: "/uploads/344.jpg"
 
 2/ **Russia said the worsening relationship with the US is a major disappointment**. A Putin spokesman told reporters that Russia still wants improved relations with the US, but they have to be based on a "mutual trust and mutual respect" and that "it takes two to tango." ([Associated Press](https://apnews.com/23d8d833b9a94ed9baac0c0848dcf7c1/Russia-calls-worsening-ties-with-US-a-major-disappointment))
 
-3/ **Trump tweets that the US could use some "good old Global Warming" right now** while most of the Northeast is experiencing record-breaking cold weather. Weather and climate change are two different things: Weather is the short-term atmospheric conditions, while climate change is how the atmosphere acts over long periods of time. ([The Hill](http://thehill.com/homenews/administration/366734-trump-us-could-use-some-good-old-global-warming-to-heat-up-cold))
+3/ **Trump tweets that the US could use some "good old Global Warming" right now** while most of the Northeast is experiencing record-breaking cold weather. Weather and <a href="{{ site.baseurl }}/trump-epa/">climate change</a> are two different things: Weather is the short-term atmospheric conditions, while <a href="{{ site.baseurl }}/trump-epa/">climate change</a> is how the atmosphere acts over long periods of time. ([The Hill](http://thehill.com/homenews/administration/366734-trump-us-could-use-some-good-old-global-warming-to-heat-up-cold))
 
 {% twitter https://twitter.com/realDonaldTrump/status/946531657229701120 %}
 

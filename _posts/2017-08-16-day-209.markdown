@@ -61,7 +61,7 @@ image: "/uploads/209.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/897869174323728385 %}
 
-11/ **One of Robert Mueller's top FBI investigators has left the team**. Peter Strzok oversaw the beginnings of the Russia probe last summer. About a month ago, Mueller brought Strzok in to help manage the investigation into Russian election meddling. ([ABC News](http://abcnews.go.com/Politics/special-counsels-russia-probe-loses-top-fbi-investigator/story?id=49249486) / [CNN](http://www.cnn.com/2017/07/13/politics/peter-strzok-special-counsel-russia-fbi/index.html))
+11/ **One of Robert Mueller's top FBI investigators has left the team**. Peter Strzok oversaw the beginnings of the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia probe</a> last summer. About a month ago, Mueller brought Strzok in to help manage the investigation into Russian election meddling. ([ABC News](http://abcnews.go.com/Politics/special-counsels-russia-probe-loses-top-fbi-investigator/story?id=49249486) / [CNN](http://www.cnn.com/2017/07/13/politics/peter-strzok-special-counsel-russia-fbi/index.html))
 
 12/ **A panel of federal judges ruled Texas voter maps illegally discriminate against Hispanic and black voters** and can’t be used in the upcoming congressional midterm elections. The state has three days to say if and when the Texas Legislature will fix the congressional map. The court will redraw the districts maps itself if Texas decides not to fix them. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-08-15/texas-voter-maps-blocked-as-racially-biased-by-federal-judges))
 

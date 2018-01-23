@@ -5,19 +5,19 @@ description: Possible obstruction.
 image: "/uploads/351.jpg"
 ---
 
-1/ **Trump ordered the White House's top lawyer to stop Jeff Sessions from recusing himself from the Russia investigation**, saying he expected his attorney general to protect him. Don McGahn unsuccessfully lobbied Sessions to remain in charge in March 2017. Trump reportedly erupted in anger in front of several White House officials. The previously unreported details have legal experts suggesting that there is currently a larger body of public evidence tying Trump to a possible crime of obstruction. Robert Mueller's investigation is currently investigating whether Trump obstructed justice while in office and whether there was collusion between the Trump campaign and Russia. ([New York Times](https://www.nytimes.com/2018/01/04/us/politics/trump-sessions-russia-mcgahn.html))
+1/ **Trump ordered the White House's top lawyer to stop Jeff Sessions from recusing himself from the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a>**, saying he expected his attorney general to protect him. Don McGahn unsuccessfully lobbied Sessions to remain in charge in March 2017. Trump reportedly erupted in anger in front of several White House officials. The previously unreported details have legal experts suggesting that there is currently a larger body of public evidence tying Trump to a possible crime of obstruction. Robert Mueller's investigation is currently investigating whether Trump obstructed justice while in office and whether there was collusion between the Trump campaign and Russia. ([New York Times](https://www.nytimes.com/2018/01/04/us/politics/trump-sessions-russia-mcgahn.html))
 
 * *THE TIMELINE:*
 
-* **Comey testified on May 3rd that the Russia investigation was ongoing** to the Senate Judiciary Committee.
+* **Comey testified on May 3rd that the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a> was ongoing** to the Senate Judiciary Committee.
 
 * **Two days after Comey's testimony**, a Sessions aide approached a Capitol Hill staff member asking for derogatory information about the FBI director. The attorney general wanted one negative news article about Comey per day.
 
 * **Comey was fired on May 9th**.
 
-* 🇷🇺 [What you need to know about the Russia investigation](https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/).
+* 🇷🇺 [What you need to know about the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a>](https://whatthefuckjusthappenedtoday.com/trump-russia-investigation/).
 
-2/ **A third Republican called on Jeff Sessions to resign**, saying he "is not able to take the reins and direct" the Russia probe because of his recusal. Chris Stewart, a member of the House Intelligence Committee, joins Mark Meadows, Freedom Caucus chair, and Jim Jordan, a member who sits on the oversight and judiciary committees in the US House of Representatives, who have called for Sessions to resign this week. ([CNN](https://www.cnn.com/2018/01/05/politics/chris-stewart-jeff-sessions-russia/index.html))
+2/ **A third Republican called on Jeff Sessions to resign**, saying he "is not able to take the reins and direct" the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia probe</a> because of his recusal. Chris Stewart, a member of the House Intelligence Committee, joins Mark Meadows, Freedom Caucus chair, and Jim Jordan, a member who sits on the oversight and judiciary committees in the US House of Representatives, who have called for Sessions to resign this week. ([CNN](https://www.cnn.com/2018/01/05/politics/chris-stewart-jeff-sessions-russia/index.html))
 
 3/ **Paul Ryan supported House Intelligence Committee chairman Devin Nunes' threat to hold officials at Justice and the FBI in contempt of Congress** if they didn't meet Nunes' subpoena demands. Over the summer, Nunes subpoenaed the Justice Department and FBI for documents related to the dossier about Trump's connections to the Kremlin and whether the FBI used information from the dossier to apply for warrants under the Foreign Intelligence Surveillance Act to conduct surveillance on Trump associates. Deputy Attorney General Rod Rosenstein and FBI Director Christopher Wray argued that the documents were highly classified and would not be released or shared outside the bureau. ([CNN](https://www.cnn.com/2018/01/04/politics/paul-ryan-nunes-justice-department/index.html))
 

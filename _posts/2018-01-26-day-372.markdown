@@ -1,0 +1,28 @@
+---
+title: Day 372
+date: 2018-01-26 09:10:00 -08:00
+description: Confrontation.
+image: "/uploads/372.jpg"
+---
+
+1/ **Trump tried to fire Robert Mueller in June, but backed down after Don McGahn threatened to quit if Trump went through with it.** After receiving the order from Trump, the White House counsel refused to ask the Justice Department to fire Mueller and said he would resign instead. Mueller learned about Trump's intention in recent months through interviews with current and former senior White House officials. ([New York Times](https://www.nytimes.com/2018/01/25/us/politics/trump-mueller-special-counsel-russia.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-moved-to-fire-mueller-in-june-bringing-white-house-counsel-to-the-brink-of-leaving/2018/01/25/9184a49e-0238-11e8-bb03-722769454f82_story.html?utm_term=.3a2d7d44c963))
+
+{% twitter https://twitter.com/NatashaBertrand/status/956705776403349510 %}
+
+2/ **Trump and his allies have repeatedly denied that Trump ever considered firing Mueller**. At least eight times since June 2017 Trump and his team have said Mueller's job was safe. ([CNN](https://www.cnn.com/2018/01/25/politics/robert-mueller-donald-trump/index.html))
+
+3/ **Mueller's investigation is moving much faster than previously thought** and he appears to be wrapping up the part of the investigation that deals with possible obstruction of justice. Even if Mueller concludes the obstruction probe, other elements of the investigation are likely to continue for several more months. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-01-25/mueller-said-to-be-near-end-of-obstruction-part-of-trump-probe))
+
+4/ **John Dowd said he is the one who will decide if the President will sit down with Mueller.** The statement from Trump's attorney comes a day after Trump claimed he would be glad to speak with Mueller and would do so under oath. ([CNN](https://www.cnn.com/2018/01/25/politics/john-dowd-donald-trump-robert-mueller/index.html))
+
+5/ **Trump's immigration proposal is DOA after Chuck Schumer opposed the framework released by the White House**. The one-page proposal would allow as many as 1.8 million young immigrants to become citizens in exchange for $25 billion on a border wall and security, as well as restrictions on family-based immigration and the elimination of the visa lottery system. ([Politico](https://www.politico.com/story/2018/01/26/trump-immigration-proposal-chuck-schumer-371139) / [Axios](https://www.axios.com/white-house-immigration-proposal-dead-on-arrival-c10f593b-12be-4db3-b33b-93f3354af5c0.html))
+
+---
+
+### Notables.
+
+1. **Trump said he'd be willing to publicly apologize for retweeting three anti-Islamic videos** posted by a leader of Britain First, one of the U.K.'s far-right groups. Trump said he didn't know who the group was and that he didn't want to cause any difficulty. ([CNBC](https://www.cnbc.com/2018/01/26/trump-apologizes-for-retweeting-anti-muslim-videos-from-british-far-right-group.html))
+
+2. **Immigration and Customs Enforcement agency gained access to a nationwide license plate recognition database**, which gives the agency access to billions of license plate records and real-time location tracking data. ([The Verge](https://www.theverge.com/2018/1/26/16932350/ice-immigration-customs-license-plate-recognition-contract-vigilant-solutions))
+
+3. **Trump was booed at Davos for criticizing the media as "nasty" and "fake."** ([HuffPost](https://www.huffingtonpost.com/entry/trump-davos-booed_us_5a6b2f2ce4b0ddb658c5abaa))

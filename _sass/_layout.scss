@@ -158,7 +158,6 @@ footer {
   background: #222;
   margin: 0;
   overflow: visible;
-  padding: 0;
   color: #fff;
   padding: 10px;
 }
@@ -166,7 +165,6 @@ footer {
 .btn {
   display: inline;
   padding: 6px 12px;
-  width: 50%;
   margin-top: 10px;
   margin-bottom: 0;
   font-size: 14px;
@@ -218,21 +216,13 @@ footer {
 #close {
   color: #fff;
   float: left;
-  margin-top: 4px;
-  height: 20px;
-  width: 20px;
   text-align: center;
   display: block;
+  position: absolute;
 }
 
 #close:hover {
-  color: #222;
-  background-color: #fff;
-  height: 20px;
-  width: 20px;
-  border-radius: 50%;
-  text-align: center;
-  display: block;
+  color: #e74c3c;
 }
 
 .author-avatar {

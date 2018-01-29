@@ -102,7 +102,7 @@ plugins_dir: _plugins
 layouts_dir: _layouts
 data_dir: _data
 includes_dir: _includes
-paginate: 3
+paginate: 1
 paginate_path: "/page/:num/"
 twitter:
   username: WTFJHT

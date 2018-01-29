@@ -62,10 +62,11 @@ seo:
 
 <div class="next-prev pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="prev previous" rel="prev">&laquo; Previous</a>
+    <a href="{{ paginator.previous_page_path }}" class="prev previous" rel="prev">&laquo; Newer</a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next" rel="next">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path }}" class="next" rel="next">Older &raquo;</a>
+    <p>Or check the <a href="{{ site.url }}{{ site.baseurl }}/archive/">archives</a></p>
   {% endif %}
 </div>
 

@@ -6,7 +6,8 @@ layout:
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }}</title>
- <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
+ <description>{{ site.description }}</description>
+ <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self" type="application/atom+xml" hreflang="en"/>
  <link href="{{ site.url }}{{ site.baseurl }}/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=morning_update"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
@@ -19,9 +20,16 @@ layout:
  <entry>
    <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=morning_update"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <published>{{ post.date | date_to_xmlschema }}</published>
+   <updated>{{ post.last_modified | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}
+   <author>
+        <name>{{ site.author.name }}</name>
+   		<email>{{ site.author.email }}</email>
+   		<uri>{{ site.url }}</uri>
+    </author>
+   <description>{{ post.content | strip_html | truncate: 350 }}</description>
+   <content type="xhtml" xml:lang="en">{{ post.content | xml_escape }}
    	&lt;p&gt;&lt;strong&gt;Subscribe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/subscribe/&quot; target=&quot;_blank&quot;&gt;Get the Daily Update in your inbox for free&lt;/a&gt; &lt;/p&gt;
    </content>
  </entry>

@@ -6,10 +6,9 @@ layout:
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>{{ site.title }}</title>
- <description>{{ site.description }}</description>
  <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <id>{{ site.url }}{{ site.baseurl }}</id>
  <author>
    <name>{{ site.author.name }}</name>
    <email>{{ site.author.email }}</email>
@@ -25,7 +24,7 @@ layout:
    <author>
         <name>{{ site.author.name }}</name>
    		<email>{{ site.author.email }}</email>
-   		<uri>{{ site.url }}</uri>
+   		<uri>{{ site.url }}{{ site.baseurl }}</uri>
     </author>
    <content type="html">{{ post.content | xml_escape }}
    	&lt;p&gt;&lt;strong&gt;Subscribe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/subscribe/&quot; target=&quot;_blank&quot;&gt;Get the Daily Update in your inbox for free&lt;/a&gt; &lt;/p&gt;

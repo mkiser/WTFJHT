@@ -7,8 +7,7 @@ layout:
 
  <title>{{ site.title }}</title>
  <description>{{ site.description }}</description>
- <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self" type="application/atom+xml" hreflang="en"/>
- <link href="{{ site.url }}{{ site.baseurl }}/?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=morning_update"/>
+ <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ site.url }}</id>
  <author>
@@ -28,7 +27,6 @@ layout:
    		<email>{{ site.author.email }}</email>
    		<uri>{{ site.url }}</uri>
     </author>
-   <description>{{ post.content | strip_html | truncate: 350 }}</description>
    <content type="html">{{ post.content | xml_escape }}
    	&lt;p&gt;&lt;strong&gt;Subscribe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/subscribe/&quot; target=&quot;_blank&quot;&gt;Get the Daily Update in your inbox for free&lt;/a&gt; &lt;/p&gt;
    </content>

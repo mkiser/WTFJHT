@@ -29,7 +29,7 @@ layout:
    		<uri>{{ site.url }}</uri>
     </author>
    <description>{{ post.content | strip_html | truncate: 350 }}</description>
-   <content>{{ post.content | xml_escape }}
+   <content type="html">{{ post.content | xml_escape }}
    	&lt;p&gt;&lt;strong&gt;Subscribe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/subscribe/&quot; target=&quot;_blank&quot;&gt;Get the Daily Update in your inbox for free&lt;/a&gt; &lt;/p&gt;
    </content>
  </entry>

@@ -1,0 +1,30 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>    
+    <title>{{ site.title }}</title>
+    <description>{{ site.description }}</description>
+    <link>{{ site.url }}{{ site.baseurl }}/rss.xml</link>
+    <language>en-us</language>
+    <copyright>What The Fuck Just Happened Today site content by WTF Just Happened? LLC is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
+    <lastBuildDate>{{ site.time | date:"%a, %d %b %Y %T %z" }}</lastBuildDate>
+    <managingEditor>{{ site.author.name }}</managingEditor>
+    <webMaster>{{ site.author.name }}</webMaster>
+    <ttl>40</ttl>
+
+    {% for post in site.posts limit:50 %}
+      <item>
+        <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
+        <description>{{ post.content | xml_escape }} &lt;p&gt;&lt;strong&gt;Subscribe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/subscribe/&quot; target=&quot;_blank&quot;&gt;Get the Daily Update in your inbox for free&lt;/a&gt; &lt;/p&gt;</description>
+        <author>{{ site.author.name }} – {{ site.author.email }}</author>
+        <pubDate>{{ post.date | date:"%a, %d %b %Y %T %z" }}</pubDate>
+        <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=morning_update</link>
+        <guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
+f

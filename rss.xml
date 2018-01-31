@@ -19,7 +19,7 @@ layout:
     {% for post in site.posts limit:50 %}
       <item>
         <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }} &lt;p&gt;&lt;strong&gt;Subscribe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/subscribe/&quot; target=&quot;_blank&quot;&gt;Get the Daily Update in your inbox for free&lt;/a&gt; &lt;/p&gt;</description>
+        <description><![CDATA[{{ post.content }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a> </p>]]></description>
         <author>{{ site.author.email }} ({{ site.author.name }})</author>
         <pubDate>{{ post.date | date:"%a, %d %b %Y %T %z" }}</pubDate>
         <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=morning_update</link>

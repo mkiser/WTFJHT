@@ -1,7 +1,7 @@
 ---
 title: 'Day 377: Grave concerns.'
 date: 2018-01-31 15:13:00 -08:00
-file: "/uploads/Day-377-Grave-concerns.mp"
+file: "/uploads/Day-377-Grave-concerns.mp3"
 post: Day 377
 duration: '00:07:32'
 length: 12161867

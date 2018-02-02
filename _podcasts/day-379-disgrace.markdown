@@ -1,10 +1,10 @@
 ---
 title: 'Day 379: Disgrace.'
 date: 2018-02-02 14:40:00 -08:00
-file: "/uploads/Day-379-Disgrace.mp3"
+file: "/uploads/Day-379a-Disgrace.mp3"
 post: Day 379
-duration: '00:07:12'
-length: 7060908
+duration: '00:05:23'
+length: 5978840
 ---
 
 **Friday, February 2, 2018**

@@ -15,60 +15,60 @@ var quizJSON = {
     },
     "questions": [
         { // Question 1 - Multiple Choice, Single True Answer
-            "q": "Which Senator was caught removing a pair of 'invisible' glasses?",
+            "q": "Who told Trump that the emails involving Trump Jr. and the Trump Tower meeting \"will never get out\"?",
             "a": [
-                {"option": "Dick Durbin",      "correct": false},
-                {"option": "Chuck Grassley",     "correct": false},
-                {"option": "Orrin Hatch",      "correct": true},
-                {"option": "Dianne Feinstein",     "correct": false} // no comma here
+                {"option": "Sean Spicer",      "correct": false},
+                {"option": "Sarah Huckabee Sanders",     "correct": false},
+                {"option": "Hope Hicks",      "correct": true},
+                {"option": "Devin Nunes",     "correct": false} // no comma here
             ],
-            "correct": "<p><strong>Correct. You must have 20/20 vision.</strong> Here's Orrin Hatch removing a pair of glasses he's not wearing. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/09/day-355/' target='_blank'>Day 362</a> / <a href='https://twitter.com/LevineJonathan/status/953310521775788032' target='_blank'>Twitter</a>)</p>",
-            "incorrect": "<p><strong>Might be time to check your eyes.</strong> Watch Orrin Hatch remove a pair of glasses he's not wearing. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/09/day-355/' target='_blank'>Day 362</a> / <a href='https://twitter.com/LevineJonathan/status/953310521775788032' target='_blank'>Twitter</a>)</p>" // no comma here
+            "correct": "<p><strong>I HOPE you're correct.</strong> Hope Hicks allegedly told Trump that the emails involving Trump Jr. and the Trump Tower meeting \"will never get out\" because only a few people have access to them. (<a href='https://whatthefuckjusthappenedtoday.com/2018/02/01/day-378/' target='_blank'>Day 378</a> / <a href='https://www.nytimes.com/2018/02/01/us/politics/republicans-secret-memo-nunes.html' target='_blank'>New York Times</a>)</p>",
+            "incorrect": "<p><strong>I HOPE you pay attention next week.</strong> Hope Hicks allegedly told Trump that the emails involving Trump Jr. and the Trump Tower meeting 'will never get out' because only a few people have access to them. (<a href='https://whatthefuckjusthappenedtoday.com/2018/02/01/day-378/' target='_blank'>Day 378</a> / <a href='https://www.nytimes.com/2018/02/01/us/politics/republicans-secret-memo-nunes.html' target='_blank'>New York Times</a>)</p>" // no comma here
         },
         { // Question 2 - Multiple Choice, Multiple True Answers, Select Any
-            "q": "The FBI is currently investigating whether a Russian banker gave money to which organization in order to help Trump win the election?",
+            "q": "Trump asked __________ if he was 'on my team?'",
             "a": [
-                {"option": "Facebook", "correct": false},
-                {"option": "NRA",   "correct": true},
-                {"option": "CPAC",  "correct": false},
-                {"option": "Fox", "correct": false} // no comma here
+                {"option": "James Comey", "correct": false},
+                {"option": "Rod Rosenstein",   "correct": true},
+                {"option": "Jeff Sessions",  "correct": false},
+                {"option": "Steve Bannon", "correct": false} // no comma here
             ],
-            "correct": "<p><strong>Bullseye.</strong> The FBI is investigating whether a Russian banker illegally funneled money to the NRA in order to help Trump win the presidency. Alexander Torshin is the deputy governor of Russia's central bank and has a close relationship with Putin. Torshin spoke with Trump Jr. during an NRA gala in May 2016, when Trump won the NRA's presidential endorsement. The NRA spent $30 million to support Trump in the 2016 election – three times what they devoted to Mitt Romney in 2012. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/18/day-364/' target='_blank'>Day 364</a> / <a href='http://www.mcclatchydc.com/news/nation-world/national/article195231139.html' target='_blank'>McClatchy DC</a>)</p>",
-            "incorrect": "<p><strong>A little off target.</strong> The FBI is investigating whether a Russian banker illegally funneled money to the NRA in order to help Trump win the presidency. Alexander Torshin is the deputy governor of Russia's central bank and has a close relationship with Putin. Torshin spoke with Trump Jr. during an NRA gala in May 2016, when Trump won the NRA's presidential endorsement. The NRA spent $30 million to support Trump in the 2016 election – three times what they devoted to Mitt Romney in 2012. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/18/day-364/' target='_blank'>Day 364</a> / <a href='http://www.mcclatchydc.com/news/nation-world/national/article195231139.html' target='_blank'>McClatchy DC</a>)</p>" // no comma here
+            "correct": "<p><strong>YUP.</strong> Trump asked Rod Rosenstein if he was \"on my team\" during a December meeting at the White House. \"Of course, we're all on your team, Mr. President,\" Rosenstein said, who wanted Trump to push back on the Nunes memo. Trump, however, wanted to know where Robert Mueller's Russia investigation was going. It's Trump's fourth loyalty request from a Justice Department official. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/31/day-377/' target='_blank'>Day 377</a> / <a href='https://www.cnn.com/2018/01/31/politics/donald-trump-rod-rosenstein-december-meeting/index.html' target='_blank'>CNN</a>)</p>",
+            "incorrect": "<p><strong>NOPE.</strong> Trump asked Rod Rosenstein if he was \"on my team\" during a December meeting at the White House. \"Of course, we're all on your team, Mr. President,\" Rosenstein said, who wanted Trump to push back on the Nunes memo. Trump, however, wanted to know where Robert Mueller's Russia investigation was going. It's Trump's fourth loyalty request from a Justice Department official. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/31/day-377/' target='_blank'>Day 377</a> / <a href='https://www.cnn.com/2018/01/31/politics/donald-trump-rod-rosenstein-december-meeting/index.html' target='_blank'>CNN</a>)</p>" // no comma here
         },
         { // Question 3 - Multiple Choice, Multiple True Answers, Select All
-            "q": "Sarah Huckabee Sanders claimed Trump can't be racist because ______?",
+            "q": "Sarah Huckabee Sanders claimed that \"poll after poll\" says that nobody cares about ____________?",
             "a": [
-                {"option": "He's rich",           "correct": false},
-                {"option": "She said so",                  "correct": false},
-                {"option": "He likes cable news",  "correct": false},
-                {"option": "He was on The Apprentice",          "correct": true} // no comma here
+                {"option": "Trump's poll numbers",           "correct": false},
+                {"option": "The Patriots being in the Super Bowl again",                  "correct": false},
+                {"option": "Turtles",  "correct": false},
+                {"option": "The Trump-Russia investigation",          "correct": true} // no comma here
             ],
-            "correct": "<p><strong>Well done!</strong> Sarah Huckabee Sanders claimed Trump can't be racist because he was on \"The Apprentice.\" Sanders said claims that Trump is racist were \"outrageous,\" adding, \"Frankly, if the critics of the president were who he said he was, why did NBC give him a show for a decade on TV?\"  (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/16/day-362/' target='_blank'>Day 362</a> / <a href='https://www.bloomberg.com/news/articles/2018-01-16/sanders-defends-trump-as-not-racist-citing-apprentice-tv-role' target='_blank'>Bloomberg</a>)</p>",
-            "incorrect": "<p><strong>You're fired.</strong> Sarah Huckabee Sanders claimed Trump can't be racist because he was on \"The Apprentice.\" Sanders said claims that Trump is racist were \"outrageous,\" adding, \"Frankly, if the critics of the president were who he said he was, why did NBC give him a show for a decade on TV?\"  (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/16/day-362/' target='_blank'>Day 362</a> / <a href='https://www.bloomberg.com/news/articles/2018-01-16/sanders-defends-trump-as-not-racist-citing-apprentice-tv-role' target='_blank'>Bloomberg</a>)</p>" // no comma here
+            "correct": "<p><strong>Totally correct.</strong> Sarah Huckabee Sanders claimed that \"poll after poll\" says that nobody cares about the Trump-Russia investigation. She did not cite a specific poll. However, poll, after poll, after poll, after poll, after poll, after poll, after poll suggest Americans do care about the issue. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/29/day-375/' target='_blank'>Day 375</a> / <a href='https://www.washingtonpost.com/news/the-fix/wp/2018/01/29/polls-show-no-one-cares-about-the-russia-investigation-white-house-press-secretary-said-thats-not-true/' target='_blank'>Washington Post</a>)</p>",
+            "incorrect": "<p><strong>Really?</strong> Sarah Huckabee Sanders claimed that \"poll after poll\" says that nobody cares about the Trump-Russia investigation. She did not cite a specific poll. However, poll, after poll, after poll, after poll, after poll, after poll, after poll suggest Americans do care about the issue. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/29/day-375/' target='_blank'>Day 375</a> / <a href='https://www.washingtonpost.com/news/the-fix/wp/2018/01/29/polls-show-no-one-cares-about-the-russia-investigation-white-house-press-secretary-said-thats-not-true/' target='_blank'>Washington Post</a>)</p>" // no comma here
         },
         { // Question 4
-            "q": "Steve Bannon didn't respond to House Intelligence Committee questions because______.",
+            "q": "Trump will not impose new sanctions on Russia because ____________.",
             "a": [
-                {"option": "He hasn't testified ",    "correct": true},
-                {"option": "He struck a deal with Robert Mueller",     "correct": false},
-                {"option": "He did not recall",      "correct": false},
-                {"option": "The White House directed him not to",   "correct": true} // no comma here
+                {"option": "The threat is already \"serving as a deterrent\"",    "correct": true},
+                {"option": "It would be \"extraordinarily reckless\"",     "correct": false},
+                {"option": "The FBI had \"grave concerns\"",      "correct": false},
+                {"option": "It would be \"treasonous\"",   "correct": false} // no comma here
             ],
             "select_any": true,
-            "correct": "<p><strong>You better believe it.</strong> Bannon didn't respond to House Intelligence Committee questions because the White House directed him not to. During Bannon's testimony, his attorney relayed questions in real time to the White House asking if his client could answer the questions. Bannon was instructed not to discuss his work on the transition or in the White House. White House officials believed they had an agreement with the committee to limit questions to the presidential campaign. Adam Schiff, the top Democrat on the committee, called the \"gag order\" an \"audacious\" move by the White House. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/17/day-363/' target='_blank'>Day 363</a> / <a href='https://www.cnn.com/2018/01/16/politics/steve-bannon-executive-privilege/index.html' target='_blank'>CNN</a>)</p>",
-            "incorrect": "<p><strong>Fake news.</strong> Bannon didn't respond to House Intelligence Committee questions because the White House directed him not to. During Bannon's testimony, his attorney relayed questions in real time to the White House asking if his client could answer the questions. Bannon was instructed not to discuss his work on the transition or in the White House. White House officials believed they had an agreement with the committee to limit questions to the presidential campaign. Adam Schiff, the top Democrat on the committee, called the \"gag order\" an \"audacious\" move by the White House. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/17/day-363/' target='_blank'>Day 363</a> / <a href='https://www.cnn.com/2018/01/16/politics/steve-bannon-executive-privilege/index.html' target='_blank'>CNN</a>)</p>" // no comma here
+            "correct": "<p><strong>Apparently so.</strong> Bannon didn't respond to House Intelligence Committee questions because the White House directed him not to. During Bannon's testimony, his attorney relayed questions in real time to the White House asking if his client could answer the questions. Bannon was instructed not to discuss his work on the transition or in the White House. White House officials believed they had an agreement with the committee to limit questions to the presidential campaign. Adam Schiff, the top Democrat on the committee, called the \"gag order\" an \"audacious\" move by the White House. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/30/day-376/' target='_blank'>Day 376</a> / <a href='https://www.politico.com/story/2018/01/29/russia-sanctions-white-house-congress-376813' target='_blank'>Politico</a>)</p>",
+            "incorrect": "<p><strong>Fake news.</strong> Bannon didn't respond to House Intelligence Committee questions because the White House directed him not to. During Bannon's testimony, his attorney relayed questions in real time to the White House asking if his client could answer the questions. Bannon was instructed not to discuss his work on the transition or in the White House. White House officials believed they had an agreement with the committee to limit questions to the presidential campaign. Adam Schiff, the top Democrat on the committee, called the \"gag order\" an \"audacious\" move by the White House. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/30/day-376/' target='_blank'>Day 376</a> / <a href='https://www.politico.com/story/2018/01/29/russia-sanctions-white-house-congress-376813' target='_blank'>Politico</a>)</p>" // no comma here
         },
         { // Question 5
-            "q": "Who may have taped confidential West Wing conversations?'",
+            "q": "What was Trump's average 2017 job approval rating?",
             "a": [
-                {"option": "Chris Christie",    "correct": false},
-                {"option": "Hannity",     "correct": false},
-                {"option": "Omarosa Manigault-Newman",      "correct": true},
-                {"option": "President Trump",   "correct": false} // no comma here
+                {"option": "34%",    "correct": false},
+                {"option": "36%",     "correct": false},
+                {"option": "38%",      "correct": true},
+                {"option": "40%",   "correct": false} // no comma here
             ],
-            "correct": "<p><strong>You must be an Apprentice fan.</strong> Omarosa Manigault-Newman may have taped confidential West Wing conversations. The former White House staffer believes she may become a fixture in Robert Mueller's investigation into possible connections between the Trump campaign and Russia's election meddling. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/19/day-365/' target='_blank'>Day 365</a> / <a href='http://www.nydailynews.com/news/politics/omarosa-taped-confidential-white-house-discussions-article-1.3765147' target='_blank'>NY Daily News</a>)</p>",
-            "incorrect": "<p><strong>Ouch.</strong> Omarosa Manigault-Newman may have taped confidential West Wing conversations. The former White House staffer believes she may become a fixture in Robert Mueller's investigation into possible connections between the Trump campaign and Russia's election meddling. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/19/day-365/' target='_blank'>Day 365</a> / <a href='http://www.nydailynews.com/news/politics/omarosa-taped-confidential-white-house-discussions-article-1.3765147' target='_blank'>NY Daily News</a>)</p>" // no comma here
+            "correct": "<p><strong>You must like math – CORRECT.</strong> Trump's 2017 job approval rating averaged 38% throughout the U.S., ranging from a high of 61% in West Virginia to a low of 26% in Vermont. Trump averaged 50% or higher approval in 12 states in total. By comparison, Obama had an approval rate of 50% or greater in 41 states in his first year in office. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/30/day-376/' target='_blank'>Day 366</a> / <a href='http://news.gallup.com/poll/226454/trump-approval-highest-west-virginia-lowest-vermont.aspx' target='_blank'>Gallup</a>)</p>",
+            "incorrect": "<p><strong>That was a good guess, but no.</strong>Trump's 2017 job approval rating averaged 38% throughout the U.S., ranging from a high of 61% in West Virginia to a low of 26% in Vermont. Trump averaged 50% or higher approval in 12 states in total. By comparison, Obama had an approval rate of 50% or greater in 41 states in his first year in office. (<a href='https://whatthefuckjusthappenedtoday.com/2018/01/30/day-376/' target='_blank'>Day 366</a> / <a href='http://news.gallup.com/poll/226454/trump-approval-highest-west-virginia-lowest-vermont.aspx' target='_blank'>Gallup</a>)</p>" // no comma here
         } // no comma here
     ]
 };

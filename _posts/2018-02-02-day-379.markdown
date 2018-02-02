@@ -9,6 +9,14 @@ image: "/uploads/379.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/959389424806191104 %}
 
+**The tl;dr**
+
+1. The memo didn't provide the evidence to support the claim that the FBI abused its surveillance power under the Foreign Intelligence Surveillance Act during the 2016 campaign leading to "a troubling breakdown of legal processes established to protect the American people from abuses related to the FISA process."
+
+2. The memo also doesn't provide all the evidence the FBI and Justice Department used to obtain the initial warrant to surveil Carter Page, the former Trump campaign adviser.
+
+3. The memo confirms that actions taken by George Papadopoulos, the former Trump foreign policy adviser, were a factor in the opening of the investigation. Papadopoulos pleaded guilty last year to lying to the FBI about his contacts with Russians.
+
 * **Sean Hannity has been advising Trump on the memo all week**. Trump reportedly had several phone calls with Hannity over the last few weeks, reinforcing Trump's determination to release the memo to the public. ([The Daily Beast](https://www.thedailybeast.com/sean-hannity-has-been-advising-donald-trump-on-the-nunes-memo-because-of-course-he-has))
 
 * **Comey praised the FBI in a tweet for speaking up against "weasels and liars"**. He called on more leaders in the government to do the same. ([The Hill](http://thehill.com/blogs/blog-briefing-room/371919-comey-praises-fbi-for-speaking-up-against-weasels-and-liars))
@@ -17,12 +25,18 @@ image: "/uploads/379.jpg"
 
 2/ **Yesterday, Paul Ryan said the memo is not "an indictment of the FBI, of the Department of Justice"** and that he supports the release of the Democrats' memo, which counters the GOP memo. Republican leaders in Congress have been arguing that the release of the memo reveals mistakes and bias at the FBI – not Robert Mueller's special counsel investigation set up by the Justice Department. Trump undermined that argument with his tweet saying the memo would prove political bias at the FBI and Justice Department. ([The Hill](http://thehill.com/homenews/house/371974-paul-ryan-supports-release-of-democrats-memo-spox) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/02/02/did-trump-just-reveal-the-real-reason-this-memo-was-written/))
 
-3/ **Two attorneys representing clients caught up in Robert Mueller's probe believe Mueller could indict Trump for obstruction of justice**. Many legal experts don't believe Mueller has the standing to bring criminal charges against Trump, however. Neither attorney had specific knowledge of Mueller's plans, but suggested that he could try to bring an indictment against Trump if only to illustrate the gravity of his findings. ([Politico](https://www.politico.com/story/2018/02/02/trump-russia-indictment-mueller-probe-384969))
+3/ **Two attorneys representing clients caught up in Robert Mueller's probe believe Mueller could indict Trump for obstruction of justice**. Many legal experts don't believe Mueller has the standing to bring criminal charges against Trump, however. Neither attorney had specific knowledge of Mueller's plans, but suggested that could try to bring an indictment against Trump if only to illustrate the gravity of his findings. ([Politico](https://www.politico.com/story/2018/02/02/trump-russia-indictment-mueller-probe-384969))
 
 4/ **CIA Director Mike Pompeo met with the head of Russia's foreign intelligence agency**, even though the head of the GRU was barred from entering the US under sanctions put in place in 2014. Pompeo defended the meeting and claimed that he and other officials only met with the Russian operatives "to keep Americans safe." The Russian Embassy in Washington announced the meeting with Pompeo in a tweet on January 30th. ([CNN](https://www.cnn.com/2018/02/01/politics/pompeo-russian-spies-meeting/index.html))
 
 {% twitter https://twitter.com/RusEmbUSA/status/958380183240826883 %}
 
-5/ **The White House wants to see more options for a military strike against North Korea**, and is frustrated by what they consider to be the Pentagon's unwillingness to provide them. The national security adviser, Lt. Gen. H. R. McMaster, believes threats are only credible if they are backed by well-developed military plans, but sources say the Pentagon is worried that the White House is too eager to use military action against the Korean Peninsula. ([New York Times](https://www.nytimes.com/2018/02/01/us/politics/white-house-pentagon-north-korea.html))
+---
 
-*Check back for update...*
+### Notables.
+
+1. **Seven of the top nine jobs at the State Department are empty**, including positions to oversee the agency's role in trade policy, stopping the spread of nuclear weapons, refugee issues, and efforts to counter human trafficking. ([Bloomberg](https://www.bloomberg.com/graphics/2018-state-department-vacancies/))
+
+2. **The Trump administration called for the development of two new, "lower-yield" types of nuclear weapons** for ballistic and cruise missiles launched from submarines. The weapons could be used to respond to  "extreme circumstances," including non-nuclear attacks. ([Politico](https://www.politico.com/story/2018/02/02/trump-plan-nuclear-weapons-386087))
+
+3. 5/ **The White House wants to see more options for a military strike against North Korea**, and is frustrated by what they consider to be the Pentagon's unwillingness to provide them. The national security adviser, Lt. Gen. H. R. McMaster ,believes threats are only credible if they are backed by well-developed military plans, but sources say the Pentagon is worried that the White House is too eager to use military action against the Korean Peninsula. ([New York Times](https://www.nytimes.com/2018/02/01/us/politics/white-house-pentagon-north-korea.html))

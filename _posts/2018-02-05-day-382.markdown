@@ -5,8 +5,6 @@ description: A total waste of time.
 image: "/uploads/382.jpg"
 ---
 
-> **The DOW dropped more than 800 points**, breaking below 25,000 and falling more than 3%. ([CNBC](https://www.cnbc.com/2018/02/04/us-stocks-interest-rates-futures.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-02-04/asia-stocks-brace-for-selloff-bond-rout-deepens-markets-wrap))
-
 1/ **Senators John McCain and Christopher Coons will introduce a bipartisan immigration deal** aimed at reaching a budget deal before the federal government's current funding expires on Friday. The legislation does not contain funding for the border wall. ([Wall Street Journal](https://www.wsj.com/articles/new-immigration-bill-would-omit-trumps-more-contentious-proposals-1517785320))
 
 2/ **The White House dismissed the bipartisan immigration deal as a non-starter before it was formally introduced**. Trump tweeted that "any deal on DACA that does not include STRONG border security and the desperately needed WALL is a total waste of time." ([CNN](https://www.cnn.com/2018/02/05/politics/trump-daca-mccain-coons-immigration-plan/index.html))

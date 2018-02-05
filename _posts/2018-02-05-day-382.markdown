@@ -5,17 +5,35 @@ description: A total waste of time.
 image: "/uploads/382.jpg"
 ---
 
-1/ **Senators John McCain and Christopher Coons will introduce a bipartisan immigration deal** aimed at reaching a budget deal before the federal government's current funding expires on Friday. The legislation does not contain funding for the border wall. ([Wall Street Journal](https://www.wsj.com/articles/new-immigration-bill-would-omit-trumps-more-contentious-proposals-1517785320))
+1/ **Trump accused Democrats of being un-American and treasonous because they didn't clap for him during his State of the Union address**. "Can we call that treason?" Trump asked during a speech at a factory in Ohio. "Why not? I mean, they certainly didn't seem to love our country very much." He added: "Your paychecks are going way up" and "your taxes are going way down." ([New York Times](https://www.nytimes.com/2018/02/05/us/politics/trump-accuses-democrats-treason-market-rout.html))
 
-2/ **The White House dismissed the bipartisan immigration deal as a non-starter before it was formally introduced**. Trump tweeted that "any deal on DACA that does not include STRONG border security and the desperately needed WALL is a total waste of time." ([CNN](https://www.cnn.com/2018/02/05/politics/trump-daca-mccain-coons-immigration-plan/index.html))
+2/ **The Dow had its worst single-day decline ever**, plunging 1,175 points to close at 24,346. The drop came as Trump was touting the strength of the economy during his speech in Ohio. CNN, MSNBC, and Fox News all cut away from Trump's speech to cover the market plunge. The S&P 500 fell by more than 4%. ([CNN Money](http://money.cnn.com/2018/02/05/investing/stock-market-today-dow-jones/index.html))
+
+{% twitter https://twitter.com/Mediaite/status/960620944522870785 %}
+
+3/ **Senators John McCain and Christopher Coons will introduce a bipartisan immigration deal** aimed at reaching a budget deal before the federal government's current funding expires on Friday. The legislation does not contain funding for the border wall. ([Wall Street Journal](https://www.wsj.com/articles/new-immigration-bill-would-omit-trumps-more-contentious-proposals-1517785320))
+
+4/ **The White House dismissed the bipartisan immigration deal as a non-starter before it was formally introduced**. Trump tweeted that "any deal on DACA that does not include STRONG border security and the desperately needed WALL is a total waste of time." ([CNN](https://www.cnn.com/2018/02/05/politics/trump-daca-mccain-coons-immigration-plan/index.html))
 
 {% twitter https://twitter.com/realDonaldTrump/status/960522569492426753 %}
 
-3/ **The Consumer Financial Protection Bureau scaled back its Equifax probe**. Hackers stole the personal data from more than 143 million Americans in a September breach at the credit bureau. ([Reuters](https://www.reuters.com/article/us-usa-equifax-cfpb/exclusive-u-s-consumer-protection-official-puts-equifax-probe-on-ice-sources-idUSKBN1FP0IZ))
+5/ **The Consumer Financial Protection Bureau scaled back its Equifax probe**. Hackers stole the personal data from more than 143 million Americans in a September breach at the credit bureau. ([Reuters](https://www.reuters.com/article/us-usa-equifax-cfpb/exclusive-u-s-consumer-protection-official-puts-equifax-probe-on-ice-sources-idUSKBN1FP0IZ))
 
-4/ **Paul Ryan celebrated a secretary's $1.50 weekly increase on Twitter as a sign of the Republican tax plan's success**. He deleted the tweet after lawmakers and social media users criticized him. "A secretary at a public high school in Lancaster, Pennsylvania, said she was pleasantly surprised her pay went up $1.50 a week ... she said \[that\] will more than cover her Costco membership for the year," the tweet read. ([New York Times](https://www.nytimes.com/2018/02/03/us/politics/paul-ryan-tweet.html))
+6/ **Paul Ryan celebrated a secretary's $1.50 weekly increase on Twitter as a sign of the Republican tax plan's success**. He deleted the tweet after lawmakers and social media users criticized him. "A secretary at a public high school in Lancaster, Pennsylvania, said she was pleasantly surprised her pay went up $1.50 a week ... she said \[that\] will more than cover her Costco membership for the year," the tweet read. ([New York Times](https://www.nytimes.com/2018/02/03/us/politics/paul-ryan-tweet.html))
 
-5/ **The House Intelligence Committee will likely vote to make the Democratic memo public**, which rebuts allegations that the FBI abused surveillance laws. Republicans are expected to approve the release, which would send the memo to Trump's desk this week for approval. ([CNN](https://www.cnn.com/2018/02/05/politics/democratic-memo-release-house-intelligence/index.html))
+7/ **The House Intelligence Committee will likely vote to make the Democratic memo public**, which rebuts allegations that the FBI abused surveillance laws. Republicans are expected to approve the release, which would send the memo to Trump's desk this week for approval. ([CNN](https://www.cnn.com/2018/02/05/politics/democratic-memo-release-house-intelligence/index.html))
+
+* **Trump's lawyers want to appoint a second special counsel** to investigate the FBI and Justice Department's actions during the 2016 presidential campaign. ([Axios](https://www.axios.com/white-house-trump-lawyers-approved-of-a-second-special-counsel-6edafd54-c4d7-4ae6-80b7-c7c312b8ca51.html))
+
+* **The New York Times asked the FISA court to unseal documents related to the wiretapping of Carter Page**. Trump's decision to declassify the Republican memo signifies that the public interest in the documents outweighs the need to protect the information. The Times argues that there is no longer a justification "for the Page warrant orders and application materials to be withheld in their entirety," and that "disclosure would serve the public interest." ([New York Times](https://www.nytimes.com/2018/02/05/us/politics/new-york-times-carter-page-documents-request-unseal.html))
+
+8/ **Trump accused Adam Schiff of being "one of the biggest liars and leakers in Washington." **He called the California representative "Little Adam Schiff" and that he "Must be stopped!" Schiff fired back: "Mr. President, I see you’ve had a busy morning of 'Executive Time.'" Later, Schiff told CNN that "It may be time for General Kelly to give the President a time out." ([New York Times](https://www.nytimes.com/2018/02/05/us/politics/democratic-memo-adam-schiff-trump.html) / [CNN](https://www.cnn.com/2018/02/05/politics/adam-schiff-trump-memo/index.html))
+
+{% twitter https://twitter.com/realdonaldtrump/status/960492998734868480 %}
+
+{% twitter https://twitter.com/RepAdamSchiff/status/960513046438449152 %}
+
+9/ **The U.S. Supreme Court will allow Pennsylvania to redraw its congressional districts**, rejecting an emergency GOP request to stop a reworking of the electoral districts. Last month the Pennsylvania Supreme Court ruled that the current maps violate the state constitution and unfairly benefits Republicans. The new districts are expected to be in place by February 19th for use in the May 15th congressional primaries. ([Associated Press](https://apnews.com/acf477136d9145f486b252acb41e24a3) / [Reuters](https://www.reuters.com/article/us-usa-court-election/u-s-supreme-court-allows-revamp-of-pennsylvania-electoral-map-idUSKBN1FP2E0))
 
 ---
 
@@ -27,4 +45,6 @@ image: "/uploads/382.jpg"
 
 3. **Audit: A Pentagon agency can't account for more than $800 million in construction projects**. The Defense Logistics Agency failed to properly document its spending and cannot reconcile balances from its general ledger with the Treasury Department. ([Politico](https://www.politico.com/story/2018/02/05/pentagon-logistics-agency-review-funds-322860))
 
-4. **The Justice Department sided with Robert Mueller in a lawsuit filed against him by Paul Manafort**. Manafort filed the civil suit against Mueller on January 3rd, saying the special counsel's investigation into collusion between the Trump campaign and Russia exceeded its legal authority. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort-doj/justice-department-says-mueller-probe-lawful-idUSKBN1FN0HQ))
+4. **The former leader of the American Nazi Party is running unopposed in the Republican primary** for Illinois' 3rd Congressional District. Arthur Jones is a Holocaust denier and also oversees the America First Committee, whose membership "is open to any white American citizen of European, non-Jewish descent." ([Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2018/02/04/holocaust-denier-running-for-congress-has-no-opponents-in-republican-primary/))
+
+5. **The Justice Department sided with Robert Mueller in a lawsuit filed against him by Paul Manafort**. Manafort filed the civil suit against Mueller on January 3rd, saying the special counsel's investigation into collusion between the Trump campaign and Russia exceeded its legal authority. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort-doj/justice-department-says-mueller-probe-lawful-idUSKBN1FN0HQ))

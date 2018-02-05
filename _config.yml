@@ -41,6 +41,7 @@ defaults:
     description: ''
     image: ''
     flag: The Latest.
+    is breaking_news: false
     layout: note
     metatags: noindex, follow
     sitemap: false

@@ -1,5 +1,11 @@
   <article class="post">
-    <h3>{{ note.flag }}</h3>
+    <h3>
+      {% if note.breaking_news == true %}
+        {{ note.title }}
+      {% else %}
+        {{ note.title }}: {{ note.flag }}
+      {% endif %}
+    </h3>
      {% if note.last_modified %}
     <div class="post-date">
     	<div>
@@ -11,4 +17,3 @@
 	{% endif %}
     {{ note.content }}
   </article>
-

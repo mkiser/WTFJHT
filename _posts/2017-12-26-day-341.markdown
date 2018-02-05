@@ -35,7 +35,7 @@ image: "/uploads/341.jpg"
 
 10/ **Trump told his friends Mar-a-Lago: "You all just got a lot richer."**  The comment was in reference to tax reform Trump signed into law hours earlier. ([CBS News](https://www.cbsnews.com/news/trump-mar-a-lago-christmas-trip/))
 
-11/ **More than 4 in 5 Americans who enrolled in <a href="{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a> health insurance live in states that Trump won**. The four states with the highest number of sign-ups – Florida, Texas, North Carolina and Georgia – account for nearly 3.9 million of the 8.8 million consumers who have signed up for coverage. ([ABC News](http://abcnews.go.com/Health/wireStory/enrolled-obamacare-trump-states-51958050))
+11/ **More than 4 in 5 Americans who enrolled in <a href="{{ site.url }}{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a> health insurance live in states that Trump won**. The four states with the highest number of sign-ups – Florida, Texas, North Carolina and Georgia – account for nearly 3.9 million of the 8.8 million consumers who have signed up for coverage. ([ABC News](http://abcnews.go.com/Health/wireStory/enrolled-obamacare-trump-states-51958050))
 
 ---
 

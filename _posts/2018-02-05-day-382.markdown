@@ -1,0 +1,30 @@
+---
+title: Day 382
+date: 2018-02-05 11:17:00 -08:00
+description: A total waste of time.
+image: "/uploads/382.jpg"
+---
+
+1/ **Senators John McCain and Christopher Coons will introduce a bipartisan immigration deal** aimed at reaching a budget deal before the federal government's current funding expires on Friday. The legislation does not contain funding for the border wall. ([Wall Street Journal](https://www.wsj.com/articles/new-immigration-bill-would-omit-trumps-more-contentious-proposals-1517785320))
+
+2/ **The White House dismissed the bipartisan immigration deal as a non-starter before it was formally introduced**. Trump tweeted that "any deal on DACA that does not include STRONG border security and the desperately needed WALL is a total waste of time." ([CNN](https://www.cnn.com/2018/02/05/politics/trump-daca-mccain-coons-immigration-plan/index.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/960522569492426753 %}
+
+3/ **The Consumer Financial Protection Bureau scaled back its Equifax probe**. Hackers stole the personal data from more than 143 million Americans in a September breach at the credit bureau. ([Reuters](https://www.reuters.com/article/us-usa-equifax-cfpb/exclusive-u-s-consumer-protection-official-puts-equifax-probe-on-ice-sources-idUSKBN1FP0IZ))
+
+4/ **Paul Ryan celebrated a secretary's $1.50 weekly increase on Twitter as a sign of the Republican tax plan's success**. He deleted the tweet after lawmakers and social media users criticized him. "A secretary at a public high school in Lancaster, Pennsylvania, said she was pleasantly surprised her pay went up $1.50 a week ... she said \[that\] will more than cover her Costco membership for the year," the tweet read. ([New York Times](https://www.nytimes.com/2018/02/03/us/politics/paul-ryan-tweet.html))
+
+5/ **The House Intelligence Committee will likely vote to make the Democratic memo public**, which rebuts allegations that the FBI abused surveillance laws. Republicans are expected to approve the release, which would send the memo to Trump's desk this week for approval. ([CNN](https://www.cnn.com/2018/02/05/politics/democratic-memo-release-house-intelligence/index.html))
+
+---
+
+### Notables.
+
+1. **Some Philadelphia Eagles players plan to skip the White House visit** because of opposition to Trump. ([CNN](https://www.cnn.com/2018/02/05/politics/philadelphia-eagles-super-bowl-white-house-visit/index.html))
+
+2. **Department of Homeland Security documents for a Super Bowl terrorism drill were found in the seat-back pocket on a commercial plane**. The reports were based on exercises designed to evaluate the ability of public health, law enforcement and emergency management officials to engage in a coordinated response were a biological attack to be carried out in Minneapolis on Super Bowl Sunday. ([CNN](https://www.cnn.com/2018/02/05/us/dhs-super-bowl-national-security-documents-left-on-plane-invs/index.html))
+
+3. **Audit: A Pentagon agency can't account for more than $800 million in construction projects**. The Defense Logistics Agency failed to properly document its spending and cannot reconcile balances from its general ledger with the Treasury Department. ([Politico](https://www.politico.com/story/2018/02/05/pentagon-logistics-agency-review-funds-322860))
+
+4. **The Justice Department sided with Robert Mueller in a lawsuit filed against him by Paul Manafort**. The civil suit againt Mueller on January 3rd, saying the special counsel's investigation into collusion between the Trump campaign and Russia exceeded its legal authority. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort-doj/justice-department-says-mueller-probe-lawful-idUSKBN1FN0HQ))

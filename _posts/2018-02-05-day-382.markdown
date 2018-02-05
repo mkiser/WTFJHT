@@ -5,8 +5,6 @@ description: A total waste of time.
 image: "/uploads/382.jpg"
 ---
 
-> **The DOW dropped more than 800 points**, breaking below 25,000 and falling more than 3%. ([CNBC](https://www.cnbc.com/2018/02/04/us-stocks-interest-rates-futures.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-02-04/asia-stocks-brace-for-selloff-bond-rout-deepens-markets-wrap))
-
 1/ **Senators John McCain and Christopher Coons will introduce a bipartisan immigration deal** aimed at reaching a budget deal before the federal government's current funding expires on Friday. The legislation does not contain funding for the border wall. ([Wall Street Journal](https://www.wsj.com/articles/new-immigration-bill-would-omit-trumps-more-contentious-proposals-1517785320))
 
 2/ **The White House dismissed the bipartisan immigration deal as a non-starter before it was formally introduced**. Trump tweeted that "any deal on DACA that does not include STRONG border security and the desperately needed WALL is a total waste of time." ([CNN](https://www.cnn.com/2018/02/05/politics/trump-daca-mccain-coons-immigration-plan/index.html))
@@ -29,4 +27,4 @@ image: "/uploads/382.jpg"
 
 3. **Audit: A Pentagon agency can't account for more than $800 million in construction projects**. The Defense Logistics Agency failed to properly document its spending and cannot reconcile balances from its general ledger with the Treasury Department. ([Politico](https://www.politico.com/story/2018/02/05/pentagon-logistics-agency-review-funds-322860))
 
-4. **The Justice Department sided with Robert Mueller in a lawsuit filed against him by Paul Manafort**. The civil suit against Mueller was filed on January 3rd, saying the special counsel's investigation into collusion between the Trump campaign and Russia exceeded its legal authority. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort-doj/justice-department-says-mueller-probe-lawful-idUSKBN1FN0HQ))
+4. **The Justice Department sided with Robert Mueller in a lawsuit filed against him by Paul Manafort**. The civil suit againt Mueller on January 3rd, saying the special counsel's investigation into collusion between the Trump campaign and Russia exceeded its legal authority. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort-doj/justice-department-says-mueller-probe-lawful-idUSKBN1FN0HQ))

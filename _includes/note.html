@@ -1,6 +1,6 @@
   <article class="post">
     <h3>
-      {% if note.breaking_news == true %}
+      {% if note.is_breaking_news == true %}
         {{ note.title }}
       {% else %}
         {{ note.title }}: {{ note.flag }}

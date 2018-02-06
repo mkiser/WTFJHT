@@ -16,10 +16,10 @@ seo:
   {% assign note = site.notes.last %}
   {% assign notedate = note.date | date: '%Y-%m-%d' %}
   {% assign lastpost = site.posts.first.date | date: '%Y-%m-%d' %}
-  {% if now == notedate and note.breaking_news == true %}
-      {% include note.html %}
+  {% if note.is_breaking_news == true %}
+    {% include note.html %}
   {% elsif now == notedate and notedate > lastpost %}
-      {% include note.html %}
+    {% include note.html %}
   {% endif %}
 
   {% for post in paginator.posts %}

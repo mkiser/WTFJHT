@@ -1,10 +1,10 @@
 ---
 title: 'Day 383: Total cooperation mode.'
 date: 2018-02-06 14:42:00 -08:00
-file: "/uploads/Day-383-Total-cooperation-mode.mp3"
+file: "/uploads/Day-383a-Total-cooperation-mode.mp3"
 post: Day 383
-duration: '00:06:33'
-length: 10367206
+duration: '00:06:31'
+length: 10317785
 ---
 
 **Tuesday, February 6, 2018**

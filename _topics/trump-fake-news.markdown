@@ -23,15 +23,218 @@ redirect_from: "/fake-news/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/02/01/day-378/">February 01, 2018</a></small></div>
+<p><strong>The White House is worried that FBI Director Christopher Wray will quit if The Memo™ is released</strong>. Wray has "<a href="https://whatthefuckjusthappenedtoday.com/2018/01/31/day-377/#1-the-fbi-said-in-a-statement-that-i">grave concerns</a>" that "material omissions of fact" make the document inaccurate. Trump is expected to approve the release of the memo on Friday, which alleges surveillance abuse by the FBI, without the bureau's requested redactions. (<a href="https://www.cnn.com/2018/02/01/politics/white-house-worried-wray-nunes-memo/index.html">CNN</a> / <a href="https://www.nytimes.com/2018/02/01/us/politics/republicans-secret-memo-nunes.html">New York Times</a> / <a href="https://www.washingtonpost.com/powerpost/trump-expected-to-approve-release-of-memo-following-redactions-requested-by-intelligence-officials/2018/02/01/a55210e6-0757-11e8-8777-2a059f168dd2_story.html">Washington Post</a>)</p>
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/30/day-376/">January 30, 2018</a></small></div>
+<p><strong>Julian Assange thought he sent a direct message to Sean Hannity on Twitter offering news about Mark Warner</strong>, the top Democrat on the Senate Intelligence Committee investigating Russian interference in the 2016 election. Instead it was just a fake Sean Hannity account. (<a href="https://www.thedailybeast.com/julian-assange-thought-he-was-messaging-sean-hannity-when-he-offered-news-on-democrat-investigating-trump-russia">The Daily Beast</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/25/day-371/">January 25, 2018</a></small></div>
+<p><strong>Trump proposed immigration legislation that could provide a path to citizenship for an estimated 1.8 million DREAMers in exchange for a $25 billion "trust fund" to build a border wall</strong> and assorted border security upgrades. The plan will be sent to the Senate on Monday, which White House officials called an "extremely generous" take-it-or-leave-it proposal. Yesterday, Trump said he'd be willing to consider a path to citizenship for DREAMers that would allow young undocumented immigrants to "morph" into citizens after 10 to 12 years. The <a href="https://www.nytimes.com/2018/01/24/us/politics/trump-immigration-daca-dreamers-path-to-citizenship.html">off-the-cuff comment</a> sent White House staffers scrambling in what one official called a "fire drill." (<a href="https://www.washingtonpost.com/politics/trump-supports-path-to-citizenship-for-up-to-18-million-dreamers-in-new-white-house-proposal/2018/01/25/fa3f01aa-01e3-11e8-8acf-ad2991367d9d_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2018/01/25/us/politics/trump-immigration-plan-white-house.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/23/day-369/">January 23, 2018</a></small></div>
+<p><strong>A Michigan man was arrested after allegedly threatening to shoot and kill CNN employees.</strong> The FBI launched an investigation after the man reportedly called CNN 22 times about a week ago and said, among other things, "Fake news. I'm coming to gun you all down." (<a href="http://www.cbs46.com/story/37323169/feds-man-threatened-to-kill-cnn-employees">WGCL-TV</a> / <a href="http://thehill.com/media/370207-man-arrested-after-threatening-to-kill-cnn-employees">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/23/day-369/">January 23, 2018</a></small></div>
+<p><strong>Montana became the first state to pass its own net neutrality laws</strong> in the wake of the FCC's decision to deregulate the communications industry. Montana Gov. Steve Bullock (D) signed an executive order on Monday that requires all internet service providers with state contracts to adhere to net neutrality standards. (<a href="https://www.nytimes.com/2018/01/22/technology/montana-net-neutrality.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/18/day-364/">January 18, 2018</a></small></div>
+<p><strong>Trump released his 2017 Fake News Awards.</strong> (<a href="https://gop.com/the-highly-anticipated-2017-fake-news-awards/">GOP.com</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/17/day-363/">January 17, 2018</a></small></div>
+<p><strong>Jeff Flake delivered a speech from the Senate floor comparing Trump's anti-press rhetoric to former Soviet dictator Josef Stalin</strong> that Trump inspires modern-day authoritarians. Trump promised to announce his "Fake News Awards" today. (<a href="http://www.latimes.com/politics/la-na-pol-fake-news-trump-20180117-story.html">Los Angeles Times</a> / <a href="https://www.reuters.com/article/us-usa-senate-flake/senators-rip-trump-over-his-attacks-on-the-media-idUSKBN1F62EN">Reuters</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/16/day-362/">January 16, 2018</a></small></div>
+<p>poll/ <strong>42% of Republicans consider negative news stories that are accurate to be "fake news."</strong> (<a href="https://www.washingtonpost.com/blogs/erik-wemple/wp/2018/01/16/study-42-percent-of-republicans-believe-accurate-but-negative-stories-qualify-as-fake-news/">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/08/day-354/">January 08, 2018</a></small></div>
+<p><strong>Jake Tapper abruptly ended an interview with White House adviser Stephen Miller</strong> on CNN's State of the Union on Sunday. Miller was there to talk about Michael Wolff's new book <em><a href="https://www.amazon.com/Fire-Fury-Inside-Trump-White/dp/1250158060/ref=as_li_ss_tl?_encoding=UTF8&amp;qid=&amp;sr=&amp;linkCode=ll1&amp;tag=wtfjht-20&amp;linkId=a1dbc9cbfb375d2d077e83713d4741c2">Fire and Fury: Inside the Trump White House</a></em>, but refused to answer questions about Trump directly and repeatedly attempted to shift the conversation toward criticism of CNN. "I think I've wasted enough of my viewers' time. Thank you, Stephen," Tapper said as he cut off the interview. Miller then refused to leave the CNN set and had to be escorted off the premises. (<a href="http://www.cnn.com/videos/politics/2018/01/07/white-house-adviser-stephen-miller-full-interview-sotu.cnn">CNN</a> / <a href="http://www.businessinsider.com/stephen-miller-escorted-off-cnn-2018-1">Business Insider</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/04/day-350/">January 04, 2018</a></small></div>
+<p><strong>The Trump administration plans to allow offshore oil and gas exploration in the Arctic, Atlantic, and Pacific oceans</strong>. Interior Secretary Ryan Zinke said the proposal would make about 90% of the U.S. outer continental shelf available for offshore leasing. (<a href="https://www.cnbc.com/2018/01/04/trump-aims-to-open-arctic-pacific-and-atlantic-to-offshore-drilling-in-ambitious-new-plan.html">CNBC</a> / <a href="https://www.washingtonpost.com/news/energy-environment/wp/2018/01/04/trump-administration-plans-to-allow-drilling-off-all-u-s-waters/">Washington Post</a> / <a href="https://www.nytimes.com/2018/01/04/climate/trump-offshore-drilling.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/03/day-349/">January 03, 2018</a></small></div>
+<p><strong>Trump tweets that the "corrupt media awards" will be presented to the "fake news media" next week</strong>. In November, Trump suggested there should be a contest among news networks, except for Fox News, for a "Fake News Trophy." A <a href="http://www.rasmussenreports.com/public_content/politics/general_politics/november_2017/the_winner_of_the_1st_annual_fake_news_trophy_is">Rasmussen poll</a> conducted after Trump's suggestion found that most Americans would award Fox News the trophy. "THE MOST DISHONEST AND CORRUPT MEDIA AWARDS OF THE YEAR" will be presented Monday at 5:00 pm ET. (<a href="http://thehill.com/homenews/administration/367156-trump-says-hell-give-dishonest-and-corrupt-media-awards-next-week">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/28/day-343/">December 28, 2017</a></small></div>
+<p><strong>Trump golfed two days in a row after tweeting "it's back to work in order to Make America Great Again."</strong> On the second day, a box truck was parked between cameras and the president in order to block the view of Trump golfing. (<a href="https://www.apnews.com/d135d95fc9a14e419413fae5a13ee0a3/The-Latest:-Trump-says-tax-cuts-will-make-2018--'great-year'">Associated Press</a> / <a href="https://www.buzzfeed.com/blakemontgomery/trump-golf">BuzzFeed News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/21/day-336/">December 21, 2017</a></small></div>
+<p><strong>The GOP tax bill will open up oil and gas drilling in the Arctic National Wildlife Refuge</strong>. The Congressional Budget Office projects that Alaska and the federal government could make about $1 billion from leases and sales in the area over the next decade. (<a href="http://abcnews.go.com/Politics/story?id=51910183">ABC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/21/day-336/">December 21, 2017</a></small></div>
+<p><strong>"Fox &amp; Friends" was named the "most influential" show in media because Trump watches it</strong>. Trump congratulated the hosts in a tweet: "You deserve it - three great people! The many Fake News Hate Shows should study your formula for success!" (<a href="http://thehill.com/homenews/media/365946-trump-praises-fox-friends-for-being-named-most-influential-because-he-watches">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/20/day-335/">December 20, 2017</a></small></div>
+<p><strong>Trump criticized the news media for its "demeaning" coverage of tax reform</strong>. "The Tax Cuts are so large and so meaningful, and yet the Fake News is working overtime to follow the lead of their friends, the defeated Dems, and only demean," Trump tweeted, adding: "Jobs, Jobs, Jobs!" (<a href="http://thehill.com/homenews/administration/365764-trump-blasts-media-for-critical-coverage-of-tax-reform">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/19/day-334/">December 19, 2017</a></small></div>
+<p><strong>The House passed tax reform today, but will have to vote again tomorrow</strong> after the Senate parliamentarian said three provisions violated the Byrd Rule and would have to be removed from the bill. Senate Republicans plan to vote on the measure tonight with the provisions removed, which would require the House to revote on the measure tomorrow, since both chambers must pass identical bills. The House initially passed the bill in a 227-203 vote with all but 12 Republicans voting for the bill. No Democrats supported it. Trump is expected to sign the Tax Cuts And Jobs Act into law before the end of the week. The bill will add $1.5 trillion to the federal debt over the next decade as it cuts tax rates for corporations, provides new breaks for private businesses, and reorganizes the individual tax code. The legislation also repeals the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate that most Americans buy health insurance coverage or face a fine. (<a href="https://www.nbcnews.com/politics/congress/republican-tax-bill-house-senate-trump-n831161">NBC News</a> / <a href="https://www.nytimes.com/2017/12/19/us/politics/tax-bill-vote-republicans.html">New York Times</a> / <a href="https://www.washingtonpost.com/business/economy/gop-tax-bill-headed-for-quick-passage-in-house-senate-on-tuesday/2017/12/19/61f83dac-e4cf-11e7-9ec2-518810e7d44d_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/19/day-334/">December 19, 2017</a></small></div>
+<p><strong>Trump considered rescinding Neil Gorsuch's nomination</strong> after the Supreme Court pick said he found Trump's repeated attacks on the federal judiciary "disheartening" and "demoralizing." Trump called the report "FAKE NEWS" on Twitter. (<a href="https://www.washingtonpost.com/politics/trump-reportedly-considered-rescinding-gorsuchs-nomination/2017/12/18/ad2b3b68-e1c7-11e7-9eb6-e3c7ecfb4638_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/19/day-334/">December 19, 2017</a></small></div>
+<p>poll/ <strong>23% of Americans say "fake news" is the second more annoying phrase in 2017</strong>. "Whatever" was the most annoying phrase. (<a href="http://maristpoll.marist.edu/1218-whatever-loses-ground-but-retains-annoying-word-title/">Marist</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
+<p><strong>Trump spoke with Rupert Murdoch "to make sure [he] wasn't selling Fox News" as part of the Disney deal</strong>. He also congratulated Murdoch for the $52.4 billion deal to sell a portion of 21st Century Fox. (<a href="http://money.cnn.com/2017/12/14/media/donald-trump-rupert-murdoch-disney-21st-century-fox/index.html">CNN</a> / <a href="https://www.bloomberg.com/news/articles/2017-12-14/trump-called-murdoch-to-congratulate-him-on-disney-deal">Bloomberg</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/13/day-328/">December 13, 2017</a></small></div>
+<p><strong>House and Senate Republicans reached an agreement on their joint tax bill</strong>. The House and Senate are expected to vote next week. The agreement would set the top individual tax rate at 37%, down from today’s 39.6%. The corporate rate would drop to 21% from 37% and would take effect in 2018, rather than 2019. (<a href="https://www.nytimes.com/2017/12/13/us/politics/tax-bill-republicans-deal.html">New York Times</a> / <a href="https://www.wsj.com/articles/house-senate-republicans-reach-deal-on-final-tax-bill-1513185360">Wall Street Journal</a> / <a href="https://www.washingtonpost.com/business/economy/republicans-reach-compromise-tax-plan-expanding-tax-cuts-for-the-wealthy/2017/12/13/4f9ca66c-e028-11e7-bbd0-9dfb2e37492a_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/13/day-328/">December 13, 2017</a></small></div>
+<p><strong>USA Today editorial called Trump unfit to clean toilets in Obama's presidential library</strong>. Trump <a href="https://twitter.com/realDonaldTrump/status/940930017365778432">tweeted</a> that "more than 90% of Fake News Media coverage of me is negative." (<a href="https://www.usatoday.com/story/opinion/2017/12/12/trump-lows-ever-hit-rock-bottom-editorials-debates/945947001/">USA Today</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/13/day-328/">December 13, 2017</a></small></div>
+<p><strong>Chuck Schumer was the victim of a fake news hit</strong> and turned over to Capitol Police a document purporting sexual harassment accusations by a former staffer. (<a href="https://www.axios.com/schumer-calls-cops-after-forged-sex-scandal-charge-2517019807.html">Axios</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/12/day-327/">December 12, 2017</a></small></div>
+<p><strong>Roy Moore's wife argued that her husband is not a bigot because "one of our attorneys is a Jew."</strong> At a Monday night campaign rally, Kayla Moore said: "Fake news would tell you that we don't care for Jews. And I tell you all this because I've seen it and I just want to set the record straight while they're here. One of our attorneys is a Jew." Her comments came a week after Roy Moore attacked George Soros, the Jewish liberal mega-donor, saying Soros "is going to the same place that people who don't recognize God and morality and accept his salvation are going." (<a href="https://www.cnn.com/2017/12/11/politics/kayla-moore-roy-rally-alabama-senate/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/12/day-327/">December 12, 2017</a></small></div>
+<p><strong>56 female Democratic lawmakers asked the House Oversight Committee to investigate allegations of sexual misconduct against Trump</strong>, who has denied the accusations. "At least 17 women have publicly accused the President of sexual misconduct," the lawmakers wrote in a letter. In response, Trump tweeted that these are "false accusations and fabricated stories of women who I don't know and/or have never met. FAKE NEWS!" (<a href="https://www.nbcnews.com/storyline/sexual-misconduct/fifty-six-female-democratic-lawmakers-ask-house-investigate-trump-n828611">NBC News</a> / <a href="https://www.reuters.com/article/us-usa-trump-women-congress/u-s-house-democratic-women-seek-probe-of-trump-misconduct-accusations-idUSKBN1E606Z">Reuters</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/12/day-327/">December 12, 2017</a></small></div>
+<p><strong>Rex Tillerson told diplomats that Russia "interfered in democratic processes here,"</strong> something Trump continues to call "fake news" intended to delegitimize his presidency. The comment came in a closed-door meeting with US diplomats where Tillerson also praised Trump for trying to focus on "productive engagement" with Russia. (<a href="https://www.thedailybeast.com/exclusive-rex-tillerson-in-meeting-with-us-diplomats-says-russia-interfered-in-election">The Daily Beast</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/11/day-326/">December 11, 2017</a></small></div>
+<p><strong>Macron will award US climate scientists with "Make Our Planet Great Again" grants</strong> to conduct research in France for the remainder of Trump's current presidential term, totaling about $70 million. (<a href="http://abcnews.go.com/Technology/wireStory/france-winners-anti-trump-climate-change-grants-51712285">ABC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/08/day-323/">December 08, 2017</a></small></div>
+<p><strong>Russian operatives tried to make contact with Hope Hicks at least twice since Trump took office</strong> and after US intelligence agencies publicly accused Moscow of trying to influence the presidential election. Hicks is one of Trump's top advisers and there is no evidence that Hicks did anything wrong. The FBI gave Hicks the names of the Russians who had contacted her, and said that they were not who they claimed to be. Hicks met with Robert Mueller's investigators this week as part of the investigation into Russia’s efforts to influence the 2016 election. (<a href="https://www.nytimes.com/2017/12/08/us/politics/hope-hicks-russia-trump-fbi.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/07/day-322/">December 07, 2017</a></small></div>
+<p><strong>Trump Jr. cited attorney-client privilege and refused to discuss a phone call he had with his father</strong> about how to handle the fallout from his June 2016 meeting at Trump Tower with a Russian lawyer. He told the House Intelligence Committee that a lawyer was in the room during the call. Adam Schiff, the top Democrat on the committee, told reporters: "I don't believe you can shield communications between individuals merely by having an attorney present," adding "that's not the purpose of attorney-client privilege" and that "the presence of counsel does not make communications between father and son a privilege." (<a href="https://www.politico.com/story/2017/12/06/donald-trump-privilege-questions-284841">Politico</a> / <a href="https://www.nytimes.com/2017/12/06/us/donald-trump-jr-intel-committee.html">New York Times</a> / <a href="https://www.wsj.com/articles/donald-trump-jr-refuses-to-discuss-father-son-talk-with-investigators-1512612451">Wall Street Journal</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/07/day-322/">December 07, 2017</a></small></div>
+<p><strong>The British publicist who arranged the June 2016 Trump Tower meeting encouraged Dan Scavino to make a page for candidate Trump on the Russian social networking site VK</strong>, telling him that "Don and Paul" were on board with the idea. Don and Paul, of course, refer to Donald Trump Jr. and Paul Manafort. The previously undisclosed emails from Rob Goldstone to a Russian participant and a member of  Trump's inner circle later that summer raise new questions for congressional investigators about what was discussed at the meeting. Scavino is now the White House director of social media. (<a href="https://www.cnn.com/2017/12/07/politics/previously-undisclosed-emails-after-trump-tower-meeting/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/06/day-321/">December 06, 2017</a></small></div>
+<p><strong>Trump Jr. met with the House Intelligence Committee behind closed doors today</strong>. He told the committee that he spoke with Hope Hicks – not his father –  about how to respond to news reports of his June 2016 meeting at Trump Tower. While aboard Air Force One, Trump helped write Trump Jr.'s initial response, which was sent through the Trump Organization under Trump Jr.'s name. The voluntary appearance is Trump Jr.'s first face-to-face meeting with Congress since Robert Mueller charged Michael Flynn, Paul Manafort, George Papadopoulos, and Rick Gates. Trump Jr. met with the Senate Judiciary Committee in September. He is expected to meet with the Senate Intelligence Committee soon, although a date has not been set. (<a href="https://www.cnn.com/2017/12/06/politics/donald-trump-jr-trump-tower-response/index.html">CNN</a> / <a href="https://www.bloomberg.com/news/articles/2017-12-06/trump-jr-to-meet-house-intelligence-panel-in-russia-probe">Bloomberg</a> / <a href="http://abcnews.go.com/Politics/donald-trump-jr-face-questions-russia-contacts-capitol/story?id=51600596">ABC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/06/day-321/">December 06, 2017</a></small></div>
+<p><strong>The Consumer Financial Protection Bureau reversed its position on a nearly concluded case less than 48 hours after Mick Mulvaney was named acting director</strong>. Lawyers withdrew their earlier brief and said they would no longer take a position on whether Nationwide should pay $8 million in penalties for misleading more than 100,000 mortgage customers. Mulvaney has also stopped approval of some payments to some victims of financial crime, halted hiring, and ordered a review of active investigations and lawsuits. (<a href="https://www.nytimes.com/2017/12/05/business/cfpb-mick-mulvaney.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
+<p><strong>A conservative operative offered the Trump campaign a "Kremlin Connect"</strong> by using an NRA convention to make "first contact." Russia, Paul Erickson wrote, was "quietly but actively seeking a dialogue with the U.S." (<a href="https://www.nytimes.com/2017/12/03/us/politics/trump-putin-russia-nra-campaign.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
+<p><strong>Flynn promised "full cooperation" with Mueller's investigation</strong> and is prepared to testify that Trump directed him to make contact with the Russians. The FBI said Flynn communicated with Sergey Kislyak, then the Russian ambassador to the US, after being asked by a senior Trump transition official to find out where foreign governments stood on an upcoming UN Security Council resolution about Israel. The FBI did not name the officials. (<a href="http://abcnews.go.com/Politics/michael-flynn-charged-making-false-statements-fbi-documents/story?id=50849354">ABC News</a> / <a href="https://www.cnn.com/2017/12/01/politics/michael-flynn-charged/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
+<p><strong>Senate Republicans said they have the votes needed to pass their tax bill</strong>. Holdouts Steve Daines, Ron Johnson, Jeff Flake, and Susan Collins all said they will support the bill. "We have the votes," Mitch McConnell told reporters after meeting with his caucus. (<a href="https://www.washingtonpost.com/business/economy/johnson-to-back-senate-tax-bill-putting-gop-leaders-close-to-securing-passage/2017/12/01/0226ff98-d6a2-11e7-b62d-d9345ced896d_story.html">Washington Post</a> / <a href="https://www.politico.com/story/2017/12/01/tax-bill-2017-senate-republicans-274453">Politico</a> / <a href="https://www.nytimes.com/2017/12/01/us/politics/senate-tax-bill-debate-vote.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/01/day-316/">December 01, 2017</a></small></div>
+<p><strong>Rex Tillerson called reports that the White House wants him to resign "laughable."</strong> Trump called the reports that he is planning to fire Tillerson "fake news" and that "I call the final shots." (<a href="https://www.nytimes.com/2017/12/01/us/politics/tillerson-state-departure-reports-laughable.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/30/day-315/">November 30, 2017</a></small></div>
+<p><strong>Trump falsely claimed that the Republican tax bill would cost rich Americans like himself "a fortune."</strong> Trump and his family could save more than $1 billion under the House tax plan that passed two weeks ago. Under the Senate plan, wealthy Americans like Trump would receive nearly 62% of the benefit by 2027, while two-thirds of the middle-class would face a tax increase. "This is going to cost me a fortune, this thing, believe me," Trump said. "This is not good for me." He added that his "very wealthy friends" were "not so happy with me." (<a href="https://www.nbcnews.com/politics/donald-trump/trump-wrongly-says-he-won-t-benefit-gop-tax-plan-n825066">NBC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/30/day-315/">November 30, 2017</a></small></div>
+<p>poll/ <strong>40% of Americans think Fox News should receive the Fake News Trophy</strong> that Trump suggested earlier this week. 25% of respondents think CNN deserves a trophy. (<a href="http://www.rasmussenreports.com/public_content/politics/general_politics/november_2017/the_winner_of_the_1st_annual_fake_news_trophy_is">Rasmussen</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/28/day-313/">November 28, 2017</a></small></div>
+<p><strong>Trump paid $1.375 million to settle a class-action labor case in 1998</strong>. Trump employed a crew of 200 undocumented Polish workers who worked in 12-hour shifts and were paid $4 an hour to demolish the Bonwit Teller building on Fifth Avenue to make way for the Trump Tower. (<a href="https://www.nytimes.com/2017/11/27/nyregion/trump-tower-illegal-immigrant-workers-union-settlement.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/28/day-313/">November 28, 2017</a></small></div>
+<p><strong>Trump is now suggesting that the "Access Hollywood" tape is fake</strong>, despite apologizing for what he described as "locker room talk" between men in October 2016. "Access Hollywood" responded to Trump, saying: "The tape is very real." (<a href="http://thehill.com/homenews/administration/362070-access-hollywood-fires-back-at-trump-the-tape-is-very-real">The Hill</a> / <a href="https://www.nytimes.com/2017/11/25/us/politics/trump-roy-moore-mcconnell-alabama-senate.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/28/day-313/">November 28, 2017</a></small></div>
+<p><strong>Project Veritas got caught trying to spread fake news about Roy Moore</strong>. The organization, run by conservative activist James O’Keefe, targets the mainstream news media in an attempt to set up undercover "stings" that involve using false stories and covert video meant to discredit media outlets. The Washington Post <a href="https://www.washingtonpost.com/investigations/a-woman-approached-the-post-with-dramatic--and-false--tale-about-roy-moore-sje-appears-to-be-part-of-undercover-sting-operation/2017/11/27/0c2e335a-cfb6-11e7-9d3a-bcbe2af58c3a_story.html">reported</a> that a woman falsely told its reporters she had been impregnated by Moore as a teenager. (<a href="https://www.politico.com/story/2017/11/27/project-veritas-moore-washington-post-261023">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/28/day-313/">November 28, 2017</a></small></div>
+<p><strong>North Korea fired a ballistic missile for the first time in more than two months</strong>. Trump warned North Korea in a September speech at the United Nations that if it threatened the US or its allies, he would have "no choice but to totally destroy North Korea" and called Kim Jong-un "rocket man." The US believes Pyongyang may be able to put a miniaturized warhead on a missile in 2018, which would theoretically give North Korea the capability to launch a missile capable of hitting the US. Trump told reporters that he "will take care of it," adding that North Korea "is a situation that we will handle." (<a href="https://www.nytimes.com/2017/11/28/world/asia/north-korea-missile-test.html">New York Times</a> / <a href="https://www.cnn.com/2017/11/28/politics/north-korea-missile-launch/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
 <p><strong>Trump tweeted that the media should get a "fake news trophy" for its distorted "coverage of your favorite President (me)."</strong> It's not clear what prompted the tweet, but over the weekend Trump criticized CNN International for representing "our nation to the WORLD very poorly." CNN responded: "It's not CNN’s job to represent the U.S. to the world. That’s yours." (<a href="https://www.politico.com/story/2017/11/27/trump-fake-news-trophy-260551">Politico</a> / <a href="https://www.nytimes.com/2017/11/27/us/politics/trump-cnn-first-amendment.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/post-politics/wp/2017/11/27/trump-attacks-media-in-his-first-post-thanksgiving-tweet/">Washington Post</a>)</p>
 
 
 
-<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-311/">November 27, 2017</a></small></div>
-<p><strong>Michael Flynn's lawyer met with Robert Mueller's team, a possible sign that both sides are discussing a plea deal</strong>. The process would likely include several off-the-record discussions between Flynn and the special counsel's team, as well as an opportunity to make a proffer of evidence that could implicate others. (<a href="http://abcnews.go.com/Politics/michael-flynns-lawyer-meets-members-special-counsels-team/story?id=51412187">ABC News</a>)</p>
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/27/day-312/">November 27, 2017</a></small></div>
+<p><strong>Today, Flynn's lawyer met with Robert Mueller's team, a possible sign that both sides are discussing a plea deal</strong>. The process would likely include several off-the-record discussions between Flynn and the special counsel's team, as well as an opportunity to make a proffer of evidence that could implicate others. (<a href="http://abcnews.go.com/Politics/michael-flynns-lawyer-meets-members-special-counsels-team/story?id=51412187">ABC News</a>)</p>
 
 
 
@@ -136,7 +339,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/">October 13, 2017</a></small></div>
-<p><strong>Trump will cut off essential subsidy payments to Affordable Care Act insurers</strong>. The subsidies are used to pay out-of-pocket costs for low-income people and represent an estimated $7 billion this year. A White House statement directed Congress to "repeal and replace the disastrous Obamacare law and provide real relief to the American people" because "the government cannot lawfully make the cost-sharing reduction payments." Trump said the ACA was "imploding" and called it a "broken mess" in a pair of tweets. Chuck Schumer and Nancy Pelosi responded, saying Trump had “apparently decided to punish the American people for his inability to improve our health care system.”  Nearly 6 million enrollees qualify for the cost-sharing payments this year. (<a href="http://www.politico.com/story/2017/10/12/trump-obamacare-subsidy-243736">Politico</a> / <a href="https://www.nytimes.com/2017/10/12/us/politics/trump-obamacare-executive-order-health-insurance.html">New York Times</a> / <a href="http://www.cnn.com/2017/10/12/politics/obamacare-subsidies/index.html">CNN</a>)</p>
+<p><strong>Trump will cut off essential subsidy payments to <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> insurers</strong>. The subsidies are used to pay out-of-pocket costs for low-income people and represent an estimated $7 billion this year. A White House statement directed Congress to "repeal and replace the disastrous Obamacare law and provide real relief to the American people" because "the government cannot lawfully make the cost-sharing reduction payments." Trump said the ACA was "imploding" and called it a "broken mess" in a pair of tweets. Chuck Schumer and Nancy Pelosi responded, saying Trump had “apparently decided to punish the American people for his inability to improve our health care system.”  Nearly 6 million enrollees qualify for the cost-sharing payments this year. (<a href="http://www.politico.com/story/2017/10/12/trump-obamacare-subsidy-243736">Politico</a> / <a href="https://www.nytimes.com/2017/10/12/us/politics/trump-obamacare-executive-order-health-insurance.html">New York Times</a> / <a href="http://www.cnn.com/2017/10/12/politics/obamacare-subsidies/index.html">CNN</a>)</p>
 
 
 
@@ -261,7 +464,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/04/day-197/">August 04, 2017</a></small></div>
-<p><strong>Trump used a campaign-style rally to attack the Russia investigation</strong>, hours after news broke that special counsel Robert Mueller had tapped a grand jury. He referred to the investigation as a "totally made-up Russia story" and a "total fabrication." He insisted that Democrats "can't beat us at the voting booths, so they're trying to cheat you out of the future and the future that you want. They're trying to cheat you out of the leadership you want with a fake story that is demeaning to all of us, and most importantly, demeaning to our country and demeaning to our Constitution." (<a href="http://www.politico.com/story/2017/08/03/trump-rallies-base-russia-mueller-grand-jury-241316">Politico</a> / <a href="http://www.cnn.com/2017/08/04/politics/trump-russia/index.html">CNN</a>)</p>
+<p><strong>Trump used a campaign-style rally to attack the <a href="/trump-russia-investigation/">Russia investigation</a></strong>, hours after news broke that special counsel Robert Mueller had tapped a grand jury. He referred to the investigation as a "totally made-up Russia story" and a "total fabrication." He insisted that Democrats "can't beat us at the voting booths, so they're trying to cheat you out of the future and the future that you want. They're trying to cheat you out of the leadership you want with a fake story that is demeaning to all of us, and most importantly, demeaning to our country and demeaning to our Constitution." (<a href="http://www.politico.com/story/2017/08/03/trump-rallies-base-russia-mueller-grand-jury-241316">Politico</a> / <a href="http://www.cnn.com/2017/08/04/politics/trump-russia/index.html">CNN</a>)</p>
 
 
 
@@ -321,7 +524,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/26/day-188/">July 26, 2017</a></small></div>
-<p><strong>The Senate rejected the GOP repeal-only measure</strong>, which would have repealed major parts of the Affordable Care Act without providing a replacement. The vote failed 45-55. The last viable path for Senate Republicans is to now try their "skinny repeal," which rolls back the mandate that most people have insurance, but leaves most of Obama’s health law in place. Senators would then take their narrow bill into negotiations with the House. (<a href="https://www.nytimes.com/2017/07/26/us/politics/health-care-senate-vote.html">New York Times</a> / <a href="https://www.washingtonpost.com/powerpost/senate-embarks-on-new-round-of-voting-to-peel-back-affordable-care-act/2017/07/26/a7206f62-71e8-11e7-9eac-d56bd5568db8_story.html">Washington Post</a> / <a href="http://www.cnn.com/2017/07/26/politics/health-care-bill-wednesday/index.html">CNN</a>)</p>
+<p><strong>The Senate rejected the GOP repeal-only measure</strong>, which would have repealed major parts of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> without providing a replacement. The vote failed 45-55. The last viable path for Senate Republicans is to now try their "skinny repeal," which rolls back the mandate that most people have insurance, but leaves most of Obama’s health law in place. Senators would then take their narrow bill into negotiations with the House. (<a href="https://www.nytimes.com/2017/07/26/us/politics/health-care-senate-vote.html">New York Times</a> / <a href="https://www.washingtonpost.com/powerpost/senate-embarks-on-new-round-of-voting-to-peel-back-affordable-care-act/2017/07/26/a7206f62-71e8-11e7-9eac-d56bd5568db8_story.html">Washington Post</a> / <a href="http://www.cnn.com/2017/07/26/politics/health-care-bill-wednesday/index.html">CNN</a>)</p>
 
 
 
@@ -341,7 +544,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/20/day-182/">July 20, 2017</a></small></div>
-<p><strong>Trump would have never hired Jeff Sessions had he known he would recuse himself</strong> from the Russia investigation. "Sessions should have never recused himself," Trump said, "and if he was going to recuse himself, he should have told me before he took the job, and I would have picked somebody else." Trump called the decision “very unfair to the president. How do you take a job and then recuse yourself?" Asked if Robert Mueller’s investigation would cross a line if it started to look at his family’s finances beyond Russia, Trump said, “I would say yes,” but declined to say what he would do about it. “I think that’s a violation. Look, this is about Russia.” (<a href="https://www.nytimes.com/2017/07/19/us/politics/trump-interview-sessions-russia.html">New York Times</a>)</p>
+<p><strong>Trump would have never hired Jeff Sessions had he known he would recuse himself</strong> from the <a href="/trump-russia-investigation/">Russia investigation</a>. "Sessions should have never recused himself," Trump said, "and if he was going to recuse himself, he should have told me before he took the job, and I would have picked somebody else." Trump called the decision “very unfair to the president. How do you take a job and then recuse yourself?" Asked if Robert Mueller’s investigation would cross a line if it started to look at his family’s finances beyond Russia, Trump said, “I would say yes,” but declined to say what he would do about it. “I think that’s a violation. Look, this is about Russia.” (<a href="https://www.nytimes.com/2017/07/19/us/politics/trump-interview-sessions-russia.html">New York Times</a>)</p>
 
 
 
@@ -396,7 +599,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/10/Day-172/">July 10, 2017</a></small></div>
-<p><strong>Trump Jr. tried to downplay his meeting while hiring a lawyer to represent him in the Russia probe</strong>. He tweeted that "obviously I'm the first person on a campaign to ever take a meeting to hear info about an opponent." He added that there was "no inconsistency" in his two statements, saying the meeting ended up being primarily about adoptions. Trump Jr. hired Alan Futerfas, a criminal defense attorney that's represented organized crime and cybercrime cases. (<a href="http://abcnews.go.com/Politics/donald-trump-jr-russian-attorney-offered-damaging-info/story?id=48535254">ABC News</a> / <a href="https://www.reuters.com/article/us-usa-trump-russia-lawyers-idUSKBN19V2JX">Reuters</a> / <a href="https://www.buzzfeed.com/zoetillman/donald-trump-jr-has-hired-a-lawyer-who-has-handled">BuzzFeed News</a>)</p>
+<p><strong>Trump Jr. tried to downplay his meeting while hiring a lawyer to represent him in the <a href="/trump-russia-investigation/">Russia probe</a></strong>. He tweeted that "obviously I'm the first person on a campaign to ever take a meeting to hear info about an opponent." He added that there was "no inconsistency" in his two statements, saying the meeting ended up being primarily about adoptions. Trump Jr. hired Alan Futerfas, a criminal defense attorney that's represented organized crime and cybercrime cases. (<a href="http://abcnews.go.com/Politics/donald-trump-jr-russian-attorney-offered-damaging-info/story?id=48535254">ABC News</a> / <a href="https://www.reuters.com/article/us-usa-trump-russia-lawyers-idUSKBN19V2JX">Reuters</a> / <a href="https://www.buzzfeed.com/zoetillman/donald-trump-jr-has-hired-a-lawyer-who-has-handled">BuzzFeed News</a>)</p>
 
 
 
@@ -461,7 +664,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/27/Day-159/">June 27, 2017</a></small></div>
-<p><strong>Trump tweeted that CNN, NBC, CBS, ABC, The New York Times, and The Washington Post are all "fake news"</strong> after CNN retracted a story tying a member of Trump’s transition team to the ongoing Russia investigations. (<a href="http://www.politico.com/story/2017/06/27/trump-cnn-retracts-story-239988">Politico</a>)</p>
+<p><strong>Trump tweeted that CNN, NBC, CBS, ABC, The New York Times, and The Washington Post are all "fake news"</strong> after CNN retracted a story tying a member of Trump’s transition team to the ongoing <a href="/trump-russia-investigation/">Russia investigation</a>s. (<a href="http://www.politico.com/story/2017/06/27/trump-cnn-retracts-story-239988">Politico</a>)</p>
 
 
 
@@ -476,7 +679,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/22/Day-154/">June 22, 2017</a></small></div>
-<p><strong>Trump at Iowa rally: "All we do is win, win, win."</strong> He then blamed Democrats for his problems, boasted about his "amazing progress," and called the Russia investigation a "phony witch hunt" at his campaign-style rally in Cedar Rapids last night. During the 70-minute speech, Trump promised to lay out the next steps in “our incredible movement to make America great again," but continually veered off on tangents, reflected on the past, and contradicted himself. He knocked trade deals the Iowa economy relies on, dismissed wind energy in a state filled with thousands of turbines, and denounced the war in the Middle East despite reauthorizing troops in Afghanistan. Trump also revealed his plan for putting solar panels on his proposed border wall "so it creates energy and pays for itself." (<a href="https://www.nytimes.com/2017/06/21/us/politics/trump-iowa-rally-venting-session.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/post-politics/wp/2017/06/22/with-a-raucous-rally-in-cedar-rapids-trump-transports-himself-back-to-2016/">Washington Post</a> / <a href="http://www.cbsnews.com/news/trump-holds-campaign-style-rally-in-iowa/">CBS News</a>)</p>
+<p><strong>Trump at Iowa rally: "All we do is win, win, win."</strong> He then blamed Democrats for his problems, boasted about his "amazing progress," and called the <a href="/trump-russia-investigation/">Russia investigation</a> a "phony witch hunt" at his campaign-style rally in Cedar Rapids last night. During the 70-minute speech, Trump promised to lay out the next steps in “our incredible movement to make America great again," but continually veered off on tangents, reflected on the past, and contradicted himself. He knocked trade deals the Iowa economy relies on, dismissed wind energy in a state filled with thousands of turbines, and denounced the war in the Middle East despite reauthorizing troops in Afghanistan. Trump also revealed his plan for putting solar panels on his proposed border wall "so it creates energy and pays for itself." (<a href="https://www.nytimes.com/2017/06/21/us/politics/trump-iowa-rally-venting-session.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/post-politics/wp/2017/06/22/with-a-raucous-rally-in-cedar-rapids-trump-transports-himself-back-to-2016/">Washington Post</a> / <a href="http://www.cbsnews.com/news/trump-holds-campaign-style-rally-in-iowa/">CBS News</a>)</p>
 
 
 
@@ -491,7 +694,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/16/Day-148/">June 16, 2017</a></small></div>
-<p><strong>Rosenstein privately acknowledged that he may have to recuse himself from the Russia investigation</strong>. Rosenstein told Associate Attorney General Rachel Brand, the Justice Department's new third-in-command, that if he were to recuse himself, she would have to step in and take over the probe. She was sworn-in little more than a month ago. (<a href="http://abcnews.go.com/Politics/deputy-attorney-general-privately-acknowledges-recuse-russia-probe/story?id=48080253">ABC News</a>)</p>
+<p><strong>Rosenstein privately acknowledged that he may have to recuse himself from the <a href="/trump-russia-investigation/">Russia investigation</a></strong>. Rosenstein told Associate Attorney General Rachel Brand, the Justice Department's new third-in-command, that if he were to recuse himself, she would have to step in and take over the probe. She was sworn-in little more than a month ago. (<a href="http://abcnews.go.com/Politics/deputy-attorney-general-privately-acknowledges-recuse-russia-probe/story?id=48080253">ABC News</a>)</p>
 
 
 
@@ -531,7 +734,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/">May 31, 2017</a></small></div>
-<p><strong>Trump will withdraw from the Paris climate deal</strong>. A small team is now deciding on whether to initiate a full withdrawal, which could take 3 years, or exit the underlying United Nations climate change treaty, which would be a faster, more extreme move. World leaders, the Pope, major oil companies, and even Ivanka and Kushner have pushed Trump to stay in the deal. (<a href="https://www.axios.com/scoop-trump-is-pulling-u-s-out-of-paris-climate-deal-2427773025.html">Axios</a> / <a href="http://www.politico.com/story/2017/05/31/trump-paris-climate-change-agreement-238974">Politico</a> / <a href="https://www.nytimes.com/2017/05/31/climate/trump-quits-paris-climate-accord.html">New York Times</a>)</p>
+<p><strong>Trump will withdraw from the Paris climate deal</strong>. A small team is now deciding on whether to initiate a full withdrawal, which could take 3 years, or exit the underlying United Nations <a href="/trump-epa/">climate change</a> treaty, which would be a faster, more extreme move. World leaders, the Pope, major oil companies, and even Ivanka and Kushner have pushed Trump to stay in the deal. (<a href="https://www.axios.com/scoop-trump-is-pulling-u-s-out-of-paris-climate-deal-2427773025.html">Axios</a> / <a href="http://www.politico.com/story/2017/05/31/trump-paris-climate-change-agreement-238974">Politico</a> / <a href="https://www.nytimes.com/2017/05/31/climate/trump-quits-paris-climate-accord.html">New York Times</a>)</p>
 
 
 
@@ -556,7 +759,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/17/Day-118/">May 17, 2017</a></small></div>
-<p><strong>Rod Rosenstein appointed former FBI Director Bob Mueller to oversee the investigation of Russian interference in election</strong>. Mueller will take command of the prosecutors and FBI agents who are working on the far reaching Russia investigation. Trump said that he expects the probe will find no collusion between his 2016 White House campaign and foreign countries, calling the Russia inquiry a “taxpayer-funded charade." (<a href="http://www.nbcnews.com/politics/politics-news/special-counsel-will-take-over-fbi-russia-campaign-interference-investigation-n761271">NBC News</a> / <a href="https://www.nytimes.com/2017/05/17/us/politics/robert-mueller-special-counsel-russia-investigation.html">New York Times</a> / <a href="https://www.washingtonpost.com/world/national-security/deputy-attorney-general-appoints-special-counsel-to-oversee-probe-of-russian-interference-in-election/2017/05/17/302c1774-3b49-11e7-8854-21f359183e8c_story.html">Washington Post</a> / <a href="http://www.politico.com/story/2017/05/17/justice-dept-to-appoint-special-prosecutor-for-russia-probe-238524">Politico</a>)</p>
+<p><strong>Rod Rosenstein appointed former FBI Director Bob Mueller to oversee the investigation of Russian interference in election</strong>. Mueller will take command of the prosecutors and FBI agents who are working on the far reaching <a href="/trump-russia-investigation/">Russia investigation</a>. Trump said that he expects the probe will find no collusion between his 2016 White House campaign and foreign countries, calling the Russia inquiry a “taxpayer-funded charade." (<a href="http://www.nbcnews.com/politics/politics-news/special-counsel-will-take-over-fbi-russia-campaign-interference-investigation-n761271">NBC News</a> / <a href="https://www.nytimes.com/2017/05/17/us/politics/robert-mueller-special-counsel-russia-investigation.html">New York Times</a> / <a href="https://www.washingtonpost.com/world/national-security/deputy-attorney-general-appoints-special-counsel-to-oversee-probe-of-russian-interference-in-election/2017/05/17/302c1774-3b49-11e7-8854-21f359183e8c_story.html">Washington Post</a> / <a href="http://www.politico.com/story/2017/05/17/justice-dept-to-appoint-special-prosecutor-for-russia-probe-238524">Politico</a>)</p>
 
 
 
@@ -601,7 +804,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/04/Day-105/">May 04, 2017</a></small></div>
-<p><strong>House Republicans narrowly passed the controversial health care bill to repeal and replace the Affordable Care Act</strong>. The vote passed 217-213 six weeks after House leaders failed to get the votes needed to pass an earlier version of their bill. The bill included last-minute amendments designed to draw votes from the most conservative House Republicans in the House Freedom Caucus as well as from their more moderate counterparts. The vote occurred before the Congressional Budget Office had released a new analysis of the revised bill with its cost and impact. The measure moves to the Senate, where its fate is far from certain. Democrats are confident that some provisions of the House bill will not comply with special budget rules that Republicans must follow in order to skirt a Senate filibuster. (<a href="https://www.washingtonpost.com/powerpost/republicans-plan-health-care-vote-on-thursday-capping-weeks-of-fits-and-starts/2017/05/03/e7dd7c28-306d-11e7-9dec-764dc781686f_story.html" target="_blank">Washington Post</a> / <a href="http://www.npr.org/2017/05/04/526866090/house-passes-gop-health-care-bill" target="_blank">NPR</a> / <a href="https://www.nytimes.com/2017/05/04/us/politics/health-care-bill-vote.html" target="_blank">New York Times</a>)</p>
+<p><strong>House Republicans narrowly passed the controversial health care bill to repeal and replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. The vote passed 217-213 six weeks after House leaders failed to get the votes needed to pass an earlier version of their bill. The bill included last-minute amendments designed to draw votes from the most conservative House Republicans in the House Freedom Caucus as well as from their more moderate counterparts. The vote occurred before the Congressional Budget Office had released a new analysis of the revised bill with its cost and impact. The measure moves to the Senate, where its fate is far from certain. Democrats are confident that some provisions of the House bill will not comply with special budget rules that Republicans must follow in order to skirt a Senate filibuster. (<a href="https://www.washingtonpost.com/powerpost/republicans-plan-health-care-vote-on-thursday-capping-weeks-of-fits-and-starts/2017/05/03/e7dd7c28-306d-11e7-9dec-764dc781686f_story.html" target="_blank">Washington Post</a> / <a href="http://www.npr.org/2017/05/04/526866090/house-passes-gop-health-care-bill" target="_blank">NPR</a> / <a href="https://www.nytimes.com/2017/05/04/us/politics/health-care-bill-vote.html" target="_blank">New York Times</a>)</p>
 
 
 
@@ -616,7 +819,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/26/Day-97/">April 26, 2017</a></small></div>
-<p><strong>The Senate confirms the deputy attorney general who will now be in charge of the Russia probe</strong>. Rod Rosenstein takes over the high-profile inquiry and will make the decision on whether to appoint an outside prosecutor. (<a href="http://www.nbcnews.com/politics/politics-news/senate-confirms-deputy-attorney-general-charge-russia-probe-n750921" target="_blank">NBC News</a>)</p>
+<p><strong>The Senate confirms the deputy attorney general who will now be in charge of the <a href="/trump-russia-investigation/">Russia probe</a></strong>. Rod Rosenstein takes over the high-profile inquiry and will make the decision on whether to appoint an outside prosecutor. (<a href="http://www.nbcnews.com/politics/politics-news/senate-confirms-deputy-attorney-general-charge-russia-probe-n750921" target="_blank">NBC News</a>)</p>
 
 
 
@@ -893,8 +1096,3 @@ redirect_from: "/fake-news/"
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/22/Day-3/">January 22, 2017</a></small></div>
 <p><strong>Alternative facts are a needless lie by the Trump Administration.</strong>
 If the president and his aides will tell easily disproven falsehoods about crowd sizes and speeches, what else will they be willing to dissemble about? (<a href="https://www.theatlantic.com/politics/archive/2017/01/the-pointless-needless-lies-of-the-trump-administration/514061/">The Atlantic</a>)</p>
-
-
-
-
-		  

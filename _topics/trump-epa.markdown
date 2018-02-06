@@ -29,6 +29,39 @@ redirect_from: "/epa/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/30/day-376/">January 30, 2018</a></small></div>
+<p><strong>In 2016, Scott Pruitt said Trump would take "unapologetic steps to use executive power to confront Congress in a way that is truly unconstitutional."</strong> (<a href="https://www.axios.com/scott-pruitt-trump-comments-2016-3806e734-b033-4361-9975-f366e7b96e87.html">Axios</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/29/day-375/">January 29, 2018</a></small></div>
+<p><strong>Scott Pruitt was personally involved in erasing climate data from EPA website</strong> and directed staff to manipulate search results on the site, according to a Freedom of Information Act request. (<a href="https://thinkprogress.org/scott-pruitt-epa-webiste-0b4f50ef76c4/">Think Progress</a> / <a href="https://www.edf.org/media/newly-released-records-refer-pruitts-personal-involvement-removal-climate-information-epa">Environmental Defense Fund</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/29/day-375/">January 29, 2018</a></small></div>
+<p>On climate change: "There is a warming and there is a cooling … I believe in crystal-clear beautiful water. I believe in just having good cleanliness and all."</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/05/day-351/">January 05, 2018</a></small></div>
+<p><strong>Scott Pruitt told friends and associates that he'd like to be attorney general</strong> if Jeff Sessions leaves the administration. (<a href="https://www.politico.com/story/2018/01/05/scott-pruitt-us-attorney-general-position-326373">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/29/day-344/">December 29, 2017</a></small></div>
+<p><strong>Trump tweets that the US could use some "good old Global Warming" right now</strong> while most of the Northeast is experiencing record-breaking cold weather. Weather and <a href="/trump-epa/">climate change</a> are two different things: Weather is the short-term atmospheric conditions, while <a href="/trump-epa/">climate change</a> is how the atmosphere acts over long periods of time. (<a href="http://thehill.com/homenews/administration/366734-trump-us-could-use-some-good-old-global-warming-to-heat-up-cold">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/22/day-337/">December 22, 2017</a></small></div>
+<p><strong>More than 700 people have left the EPA since Trump took office</strong> and most are not being replaced. Of the employees who have left, more than 200 are scientists. (<a href="https://www.nytimes.com/2017/12/22/climate/epa-buyouts-pruitt.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/19/day-334/">December 19, 2017</a></small></div>
+<p><strong>The EPA terminated its contract with a GOP opposition research firm</strong> after Senate Democrats said Definers Public Affairs' close ties to the GOP "presents an appearance of impropriety to which you as administrator should never be a party." (<a href="http://thehill.com/policy/energy-environment/365619-epa-ends-contract-with-gop-opposition-research-firm-after-media">The Hill</a>)</p>
+
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/18/day-333/">December 18, 2017</a></small></div>
@@ -47,27 +80,27 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/08/day-293/">November 08, 2017</a></small></div>
-<p><strong>Scott Pruitt will continue to roll back the Clean Power Plan despite a government report that finds climate change to be "unambiguous"</strong> with "no convincing alternative explanation" that anything other than humans are the cause. Pruitt said that the <a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/#7-the-trump-administration-approved">National Climate Assessment</a> was part of the ongoing debate between scientists over the causes of global warming and the report won't deter him from rolling back the rule aimed at combating climate change. Trump has dismissed climate change as a "hoax" perpetrated by the Chinese in order to gain an edge over the US. (<a href="https://www.usatoday.com/story/news/politics/2017/11/08/pruitt-says-alarming-climate-report-not-deter-replacement-clean-power-plan/839857001/">USA Today</a>)</p>
+<p><strong>Scott Pruitt will continue to roll back the Clean Power Plan despite a government report that finds <a href="/trump-epa/">climate change</a> to be "unambiguous"</strong> with "no convincing alternative explanation" that anything other than humans are the cause. Pruitt said that the <a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/#7-the-trump-administration-approved">National Climate Assessment</a> was part of the ongoing debate between scientists over the causes of global warming and the report won't deter him from rolling back the rule aimed at combating <a href="/trump-epa/">climate change</a>. Trump has dismissed <a href="/trump-epa/">climate change</a> as a "hoax" perpetrated by the Chinese in order to gain an edge over the US. (<a href="https://www.usatoday.com/story/news/politics/2017/11/08/pruitt-says-alarming-climate-report-not-deter-replacement-clean-power-plan/839857001/">USA Today</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/07/day-292/">November 07, 2017</a></small></div>
-<p><strong>Syria will join the Paris climate agreement, leaving the US as the only country to reject the global deal</strong>. France, meanwhile, said that Trump, "for the time being," is not invited to December's climate change summit in Paris. (<a href="https://www.nytimes.com/2017/11/07/climate/syria-joins-paris-agreement.html">New York Times</a> / <a href="https://www.reuters.com/article/us-climatechange-accord-trump-paris/trump-not-invited-to-paris-december-climate-change-summit-for-now-says-france-idUSKBN1D71U0">Reuters</a>)</p>
+<p><strong>Syria will join the Paris climate agreement, leaving the US as the only country to reject the global deal</strong>. France, meanwhile, said that Trump, "for the time being," is not invited to December's <a href="/trump-epa/">climate change</a> summit in Paris. (<a href="https://www.nytimes.com/2017/11/07/climate/syria-joins-paris-agreement.html">New York Times</a> / <a href="https://www.reuters.com/article/us-climatechange-accord-trump-paris/trump-not-invited-to-paris-december-climate-change-summit-for-now-says-france-idUSKBN1D71U0">Reuters</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/03/day-288/">November 03, 2017</a></small></div>
-<p><strong>The Trump administration approved a report that contradicts its position on climate change</strong>. The National Climate Assessment finds the global, long-term warming trend to be "unambiguous" and that there is "no convincing alternative explanation" that anything other than humans are the cause. Scott Pruitt, Rick Perry, and Trump have all questioned the extent of humans’ contribution to climate change. (<a href="https://www.nytimes.com/2017/11/03/climate/us-climate-report.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/energy-environment/wp/2017/11/03/trump-administration-releases-report-finds-no-convincing-alternative-explanation-for-climate-change/">Washington Post</a>)</p>
+<p><strong>The Trump administration approved a report that contradicts its position on <a href="/trump-epa/">climate change</a></strong>. The National Climate Assessment finds the global, long-term warming trend to be "unambiguous" and that there is "no convincing alternative explanation" that anything other than humans are the cause. Scott Pruitt, Rick Perry, and Trump have all questioned the extent of humans’ contribution to <a href="/trump-epa/">climate change</a>. (<a href="https://www.nytimes.com/2017/11/03/climate/us-climate-report.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/energy-environment/wp/2017/11/03/trump-administration-releases-report-finds-no-convincing-alternative-explanation-for-climate-change/">Washington Post</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
-<p><strong>Sam Clovis has withdrawn his nomination for the Department of Agriculture's chief scientist role</strong> after coming under criticism for his lack of science credentials (he's not a scientist) and for his role supervising George Papadopoulos. In a letter to Trump, Clovis wrote that he does "not want to be a distraction or a negative influence." Clovis is a self-described skeptic of climate change. (<a href="https://www.politico.com/story/2017/11/02/trump-campaign-aide-clovis-withdraws-from-consideration-for-usda-job-244458">Politico</a> / <a href="https://www.bloomberg.com/news/articles/2017-11-02/urgent-ex-trump-campaign-official-withdraws-nomination-for-ag-post">Bloomberg</a>)</p>
+<p><strong>Sam Clovis has withdrawn his nomination for the Department of Agriculture's chief scientist role</strong> after coming under criticism for his lack of science credentials (he's not a scientist) and for his role supervising George Papadopoulos. In a letter to Trump, Clovis wrote that he does "not want to be a distraction or a negative influence." Clovis is a self-described skeptic of <a href="/trump-epa/">climate change</a>. (<a href="https://www.politico.com/story/2017/11/02/trump-campaign-aide-clovis-withdraws-from-consideration-for-usda-job-244458">Politico</a> / <a href="https://www.bloomberg.com/news/articles/2017-11-02/urgent-ex-trump-campaign-official-withdraws-nomination-for-ag-post">Bloomberg</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/02/day-287/">November 02, 2017</a></small></div>
-<p><strong>Rick Perry suggested that expanding the use of fossil fuels could help prevent sexual assault</strong>. "From the standpoint of sexual assault," Perry said. "When the lights are on, when you have light that shines, the righteousness, if you will on those types of acts." The energy secretary also said that while he thinks climate change is real, "I still think the science is out on" whether humans are the cause of it. (<a href="http://thehill.com/homenews/administration/358386-rick-perry-fossil-fuels-will-help-prevent-sexual-assault">The Hill</a> / <a href="https://www.axios.com/energy-secretary-the-science-is-out-on-how-much-humans-cause-climate-change-2505385312.html">Axios</a>)</p>
+<p><strong>Rick Perry suggested that expanding the use of fossil fuels could help prevent sexual assault</strong>. "From the standpoint of sexual assault," Perry said. "When the lights are on, when you have light that shines, the righteousness, if you will on those types of acts." The energy secretary also said that while he thinks <a href="/trump-epa/">climate change</a> is real, "I still think the science is out on" whether humans are the cause of it. (<a href="http://thehill.com/homenews/administration/358386-rick-perry-fossil-fuels-will-help-prevent-sexual-assault">The Hill</a> / <a href="https://www.axios.com/energy-secretary-the-science-is-out-on-how-much-humans-cause-climate-change-2505385312.html">Axios</a>)</p>
 
 
 
@@ -77,12 +110,12 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/23/day-277/">October 23, 2017</a></small></div>
-<p><strong>The EPA blocked three agency scientists from discussing climate change at a conference</strong>. The scientists contributed substantial material to a 400-page report about how climate change is affecting air and water temperatures, precipitation, sea level and fish in and around the Narragansett Bay estuary. The EPA helped fund the report. (<a href="https://www.nytimes.com/2017/10/22/climate/epa-scientists.html">New York Times</a>)</p>
+<p><strong>The EPA blocked three agency scientists from discussing <a href="/trump-epa/">climate change</a> at a conference</strong>. The scientists contributed substantial material to a 400-page report about how <a href="/trump-epa/">climate change</a> is affecting air and water temperatures, precipitation, sea level and fish in and around the Narragansett Bay estuary. The EPA helped fund the report. (<a href="https://www.nytimes.com/2017/10/22/climate/epa-scientists.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/20/day-274/">October 20, 2017</a></small></div>
-<p><strong>The EPA removed from its website climate change resources</strong> that local governments used to address climate change, curb emissions, and devise strategies for adapting to weather extremes. An EPA spokesman said the resources have been archived and are available by searching through the agency’s archive. (<a href="https://www.nytimes.com/2017/10/20/climate/epa-climate-change.html">New York Times</a>)</p>
+<p><strong>The EPA removed from its website <a href="/trump-epa/">climate change</a> resources</strong> that local governments used to address <a href="/trump-epa/">climate change</a>, curb emissions, and devise strategies for adapting to weather extremes. An EPA spokesman said the resources have been archived and are available by searching through the agency’s archive. (<a href="https://www.nytimes.com/2017/10/20/climate/epa-climate-change.html">New York Times</a>)</p>
 
 
 
@@ -92,17 +125,17 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/">October 17, 2017</a></small></div>
-<p><strong>Scott Pruitt directed the EPA to stop settling lawsuits with environmental groups</strong> behind closed doors, saying the groups have had too much influence on regulation. Pruitt sued the agency he now runs more than a dozen times while he was the attorney general of Oklahoma. The practice of "sue and settle" is used by green groups to push the EPA to speed up regulation on issues such as air and water pollution, as well as climate change. (<a href="https://www.reuters.com/article/us-usa-epa-lawsuits/epa-head-seeks-to-avoid-settlements-with-green-groups-idUSKBN1CL2HK">Reuters</a>)</p>
+<p><strong>Scott Pruitt directed the EPA to stop settling lawsuits with environmental groups</strong> behind closed doors, saying the groups have had too much influence on regulation. Pruitt sued the agency he now runs more than a dozen times while he was the attorney general of Oklahoma. The practice of "sue and settle" is used by green groups to push the EPA to speed up regulation on issues such as air and water pollution, as well as <a href="/trump-epa/">climate change</a>. (<a href="https://www.reuters.com/article/us-usa-epa-lawsuits/epa-head-seeks-to-avoid-settlements-with-green-groups-idUSKBN1CL2HK">Reuters</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/">October 13, 2017</a></small></div>
-<p><strong>Trump nominated a climate change skeptic to lead the White House’s environmental policy board</strong>. While a fellow at the Texas Public Policy Foundation, Kathleen Hartnett White led a project to "explain the forgotten moral case for fossil fuels." She's written that carbon dioxide is the gas "that makes life possible on the earth and naturally fertilizes plant growth" and that "global warming alarmists are misleading the public about carbon dioxide emissions." She's called the Obama administration’s environmental initiatives a "deluded and illegitimate battle against climate change." Her TPPF fellowship received funding from the fossil fuel industry. (<a href="http://thehill.com/policy/energy-environment/355281-trump-taps-climate-skeptic-to-lead-white-house-environment-office">The Hill</a>)</p>
+<p><strong>Trump nominated a <a href="/trump-epa/">climate change</a> skeptic to lead the White House’s environmental policy board</strong>. While a fellow at the Texas Public Policy Foundation, Kathleen Hartnett White led a project to "explain the forgotten moral case for fossil fuels." She's written that carbon dioxide is the gas "that makes life possible on the earth and naturally fertilizes plant growth" and that "global warming alarmists are misleading the public about carbon dioxide emissions." She's called the Obama administration’s environmental initiatives a "deluded and illegitimate battle against <a href="/trump-epa/">climate change</a>." Her TPPF fellowship received funding from the fossil fuel industry. (<a href="http://thehill.com/policy/energy-environment/355281-trump-taps-climate-skeptic-to-lead-white-house-environment-office">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/12/day-266/">October 12, 2017</a></small></div>
-<p><strong>The phrase "climate change" does not appear in the EPA's draft four-year strategic plan</strong>. Scott Pruitt outlines his agency's prioritizes as a focus on the "core mission" of clean air, land, and water, "rebalance" the federal role in environmental regulation, and enforce laws "as Congress intended." The plan does not mention carbon dioxide or greenhouse gas emissions. (<a href="http://www.cnn.com/2017/10/11/politics/epa-climate-report/index.html">CNN</a>)</p>
+<p><strong>The phrase "<a href="/trump-epa/">climate change</a>" does not appear in the EPA's draft four-year strategic plan</strong>. Scott Pruitt outlines his agency's prioritizes as a focus on the "core mission" of clean air, land, and water, "rebalance" the federal role in environmental regulation, and enforce laws "as Congress intended." The plan does not mention carbon dioxide or greenhouse gas emissions. (<a href="http://www.cnn.com/2017/10/11/politics/epa-climate-report/index.html">CNN</a>)</p>
 
 
 
@@ -117,12 +150,12 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/06/day-260/">October 06, 2017</a></small></div>
-<p><strong>Trump nominated a coal lobbyist to help lead the EPA</strong>. Andrew Wheeler, who is an outspoken denier of established science on climate change, would become the second most powerful person at the EPA. (<a href="https://www.nytimes.com/2017/10/05/climate/trump-epa-andrew-wheeler.html">New York Times</a>)</p>
+<p><strong>Trump nominated a coal lobbyist to help lead the EPA</strong>. Andrew Wheeler, who is an outspoken denier of established science on <a href="/trump-epa/">climate change</a>, would become the second most powerful person at the EPA. (<a href="https://www.nytimes.com/2017/10/05/climate/trump-epa-andrew-wheeler.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/04/day-258/">October 04, 2017</a></small></div>
-<p><strong>The EPA will propose repealing the Clean Power Plan</strong>, a central piece of Obama's plan to cut carbon emissions from power plants, fight climate change, and meet emissions goals promised in the Paris Climate Agreement. Trump signed an <a href="https://whatthefuckjusthappenedtoday.com/2017/03/28/Day-68/#3-trump-signs-an-executive-order-to">executive order in March</a> directing the EPA to start the legal process of withdrawing and rewriting the Clean Power Plan. The EPA will solicit input on “developing a rule similarly intended to reduce CO2 emissions from existing fossil fuel electric utility generating units.”  (<a href="https://www.reuters.com/article/us-usa-epa-carbon-exclusive/exclusive-epa-to-propose-repealing-obamas-climate-regulation-document-idUSKCN1C90BY">Reuters</a>)</p>
+<p><strong>The EPA will propose repealing the Clean Power Plan</strong>, a central piece of Obama's plan to cut carbon emissions from power plants, fight <a href="/trump-epa/">climate change</a>, and meet emissions goals promised in the Paris Climate Agreement. Trump signed an <a href="https://whatthefuckjusthappenedtoday.com/2017/03/28/Day-68/#3-trump-signs-an-executive-order-to">executive order in March</a> directing the EPA to start the legal process of withdrawing and rewriting the Clean Power Plan. The EPA will solicit input on “developing a rule similarly intended to reduce CO2 emissions from existing fossil fuel electric utility generating units.”  (<a href="https://www.reuters.com/article/us-usa-epa-carbon-exclusive/exclusive-epa-to-propose-repealing-obamas-climate-regulation-document-idUSKCN1C90BY">Reuters</a>)</p>
 
 
 
@@ -137,22 +170,22 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/21/day-245/">September 21, 2017</a></small></div>
-<p><strong>Nicaragua plans to join the Paris Agreement "soon," leaving the United States and Syria as the only two countries outside the climate pact</strong>. Nicaraguan President Daniel Ortega had previously refused to enter the agreement because it did not go far enough in combatting climate change and was "not very strict with the richest nations of the planet." (<a href="https://www.bloomberg.com/news/articles/2017-09-20/as-nicaragua-joins-paris-accord-trump-left-alone-with-syria">Bloomberg</a> / <a href="https://cleantechnica.com/2017/09/21/nicaragua-sign-paris-agreement-leaving-united-states-alone-syria/">CleanTechnica</a>)</p>
+<p><strong>Nicaragua plans to join the Paris Agreement "soon," leaving the United States and Syria as the only two countries outside the climate pact</strong>. Nicaraguan President Daniel Ortega had previously refused to enter the agreement because it did not go far enough in combatting <a href="/trump-epa/">climate change</a> and was "not very strict with the richest nations of the planet." (<a href="https://www.bloomberg.com/news/articles/2017-09-20/as-nicaragua-joins-paris-accord-trump-left-alone-with-syria">Bloomberg</a> / <a href="https://cleantechnica.com/2017/09/21/nicaragua-sign-paris-agreement-leaving-united-states-alone-syria/">CleanTechnica</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/15/day-239/">September 15, 2017</a></small></div>
-<p><strong>Trump visited Florida, where he praised recovery efforts and contradicted his previous comments on hurricanes</strong>. In Naples, he and Melania passed out sandwiches. When asked about climate change, Trump said "we've had bigger storms than this." He'd previously called Hurricane Irma "of epic proportion, perhaps bigger than we have ever seen." (<a href="http://www.orlandosentinel.com/weather/hurricane/os-hurricane-irma-trump-20170914-story.html">Orlando Sentinel</a> / <a href="http://www.cnn.com/2017/09/14/politics/trump-climate-change-hurricanes/index.html">CNN</a>)</p>
+<p><strong>Trump visited Florida, where he praised recovery efforts and contradicted his previous comments on hurricanes</strong>. In Naples, he and Melania passed out sandwiches. When asked about <a href="/trump-epa/">climate change</a>, Trump said "we've had bigger storms than this." He'd previously called Hurricane Irma "of epic proportion, perhaps bigger than we have ever seen." (<a href="http://www.orlandosentinel.com/weather/hurricane/os-hurricane-irma-trump-20170914-story.html">Orlando Sentinel</a> / <a href="http://www.cnn.com/2017/09/14/politics/trump-climate-change-hurricanes/index.html">CNN</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/08/day-232/">September 08, 2017</a></small></div>
-<p><strong>Scott Pruitt doesn't want to talk about climate change right now</strong>. The EPA chief said that with Hurricane Irma, “to have any kind of focus on the cause and effect of the storm – versus helping people, or actually facing the effect of the storm – is misplaced." Experts have said that climate change has contributed to the increased strength of hurricanes this season. (<a href="http://www.cnn.com/2017/09/07/politics/scott-pruitt-hurricanes-climate-change-interview/index.html">CNN</a>)</p>
+<p><strong>Scott Pruitt doesn't want to talk about <a href="/trump-epa/">climate change</a> right now</strong>. The EPA chief said that with Hurricane Irma, “to have any kind of focus on the cause and effect of the storm – versus helping people, or actually facing the effect of the storm – is misplaced." Experts have said that <a href="/trump-epa/">climate change</a> has contributed to the increased strength of hurricanes this season. (<a href="http://www.cnn.com/2017/09/07/politics/scott-pruitt-hurricanes-climate-change-interview/index.html">CNN</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/08/day-232/">September 08, 2017</a></small></div>
-<p><strong>The Senate Appropriations Committee passed a $10 million spending bill to help fund the United Nations’ climate change group</strong> that oversees the Paris Climate Agreement, despite Trump’s decision to stop funding it. The panel approved funding for the U.N. Framework Convention on Climate Change as well as the Intergovernmental Panel on Climate Change. (<a href="https://www.reuters.com/article/us-usa-congress-climatechange/defying-trump-senate-panel-approves-funding-for-u-n-climate-body-idUSKCN1BJ1LA?rpc=401&amp;">Reuters</a>)</p>
+<p><strong>The Senate Appropriations Committee passed a $10 million spending bill to help fund the United Nations’ <a href="/trump-epa/">climate change</a> group</strong> that oversees the Paris Climate Agreement, despite Trump’s decision to stop funding it. The panel approved funding for the U.N. Framework Convention on Climate Change as well as the Intergovernmental Panel on Climate Change. (<a href="https://www.reuters.com/article/us-usa-congress-climatechange/defying-trump-senate-panel-approves-funding-for-u-n-climate-body-idUSKCN1BJ1LA?rpc=401&amp;">Reuters</a>)</p>
 
 
 
@@ -167,22 +200,22 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/05/day-229/">September 05, 2017</a></small></div>
-<p><strong>Trump's pick to lead NASA doesn't believe that humans are causing climate change</strong>. Representative Jim Bridenstine of Oklahoma would be the first elected official to hold the job and will need to be confirmed by the Senate. The two senators who represent Florida's Space Coast have  publicly objected to the choice of a politician as head of the space agency. (<a href="http://www.npr.org/sections/thetwo-way/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa">NPR</a>/ <a href="https://www.nytimes.com/2017/09/02/science/jim-bridenstine-nasa-trump.html?_r=0">New York Times</a>)</p>
+<p><strong>Trump's pick to lead NASA doesn't believe that humans are causing <a href="/trump-epa/">climate change</a></strong>. Representative Jim Bridenstine of Oklahoma would be the first elected official to hold the job and will need to be confirmed by the Senate. The two senators who represent Florida's Space Coast have  publicly objected to the choice of a politician as head of the space agency. (<a href="http://www.npr.org/sections/thetwo-way/2017/09/04/548472775/trump-picks-oklahoma-congressman-to-head-nasa">NPR</a>/ <a href="https://www.nytimes.com/2017/09/02/science/jim-bridenstine-nasa-trump.html?_r=0">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/30/day-223/">August 30, 2017</a></small></div>
-<p><strong>Less than two weeks before Hurricane Harvey, Trump rescinded Obama's coastal flood protections</strong>, which required federal, state, and local agencies to take steps to protect infrastructure from flooding caused by climate change. The <a href="https://obamawhitehouse.archives.gov/the-press-office/2015/01/30/executive-order-establishing-federal-flood-risk-management-standard-and-">Federal Flood Risk Management Standard</a> aimed to “reduce the risk and cost of future flood disasters” and “help ensure federal projects last as long as intended." (<a href="http://www.huffingtonpost.com/entry/trump-executive-order-flooding_us_599323d4e4b04b193360926b">HuffPost</a>)</p>
+<p><strong>Less than two weeks before Hurricane Harvey, Trump rescinded Obama's coastal flood protections</strong>, which required federal, state, and local agencies to take steps to protect infrastructure from flooding caused by <a href="/trump-epa/">climate change</a>. The <a href="https://obamawhitehouse.archives.gov/the-press-office/2015/01/30/executive-order-establishing-federal-flood-risk-management-standard-and-">Federal Flood Risk Management Standard</a> aimed to “reduce the risk and cost of future flood disasters” and “help ensure federal projects last as long as intended." (<a href="http://www.huffingtonpost.com/entry/trump-executive-order-flooding_us_599323d4e4b04b193360926b">HuffPost</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/10/day-203/">August 10, 2017</a></small></div>
-<p><strong>Scott Pruitt cast doubt on the idea that climate change poses a threat to the US</strong>, despite a recent report concluding that <a href="https://whatthefuckjusthappenedtoday.com/2017/08/08/day-201/#1-scientists-fear-the-trump-administ">Americans are already feeling the effects of climate change</a>. The EPA chief called for “red team/blue team” to try and challenge what he says is “so-called settled science” on climate change. Pruitt is skeptical of the scientific consensus that human activity is far and away the primary cause of climate change. NOAA and the American Meteorological Society published their annual <a href="https://www.climate.gov/news-features/understanding-climate/international-report-confirms-2016-was-third-consecutive-year">"State of the Climate" report</a> today, which concludes that 2016 was the third consecutive warmest year on record in 137 years of record keeping, with the highest levels of greenhouse gas concentrations, sea level, and sea surface temperature. (<a href="http://thehill.com/policy/energy-environment/345937-epa-head-casts-doubt-on-supposed-threat-from-climate-change">The Hill</a>)</p>
+<p><strong>Scott Pruitt cast doubt on the idea that <a href="/trump-epa/">climate change</a> poses a threat to the US</strong>, despite a recent report concluding that <a href="https://whatthefuckjusthappenedtoday.com/2017/08/08/day-201/#1-scientists-fear-the-trump-administ">Americans are already feeling the effects of </a><a href="/trump-epa/">climate change</a>. The EPA chief called for “red team/blue team” to try and challenge what he says is “so-called settled science” on <a href="/trump-epa/">climate change</a>. Pruitt is skeptical of the scientific consensus that human activity is far and away the primary cause of <a href="/trump-epa/">climate change</a>. NOAA and the American Meteorological Society published their annual <a href="https://www.climate.gov/news-features/understanding-climate/international-report-confirms-2016-was-third-consecutive-year">"State of the Climate" report</a> today, which concludes that 2016 was the third consecutive warmest year on record in 137 years of record keeping, with the highest levels of greenhouse gas concentrations, sea level, and sea surface temperature. (<a href="http://thehill.com/policy/energy-environment/345937-epa-head-casts-doubt-on-supposed-threat-from-climate-change">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/08/day-201/">August 08, 2017</a></small></div>
-<p><strong>Scientists fear the Trump administration could suppress a report that concludes climate change is real</strong> and Americans are already feeling its effects. The findings contradict Trump and members of his cabinet who claim that the human contribution to climate change is uncertain. The report finds it “extremely likely” that more than half of the global mean temperature increase since 1951 can be linked to humans. (<a href="https://www.nytimes.com/2017/08/07/climate/climate-change-drastic-warming-trump.html">New York Times</a>)</p>
+<p><strong>Scientists fear the Trump administration could suppress a report that concludes <a href="/trump-epa/">climate change</a> is real</strong> and Americans are already feeling its effects. The findings contradict Trump and members of his cabinet who claim that the human contribution to <a href="/trump-epa/">climate change</a> is uncertain. The report finds it “extremely likely” that more than half of the global mean temperature increase since 1951 can be linked to humans. (<a href="https://www.nytimes.com/2017/08/07/climate/climate-change-drastic-warming-trump.html">New York Times</a>)</p>
 
 
 
@@ -192,17 +225,17 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/08/day-201/">August 08, 2017</a></small></div>
-<p><strong>Read the Draft of the Climate Change Report</strong>. The draft report by scientists from 13 federal agencies concludes that Americans are feeling the effects of climate change right now.  (<a href="https://www.nytimes.com/interactive/2017/08/07/climate/document-Draft-of-the-Climate-Science-Special-Report.html">New York Times</a>)</p>
+<p><strong>Read the Draft of the Climate Change Report</strong>. The draft report by scientists from 13 federal agencies concludes that Americans are feeling the effects of <a href="/trump-epa/">climate change</a> right now.  (<a href="https://www.nytimes.com/interactive/2017/08/07/climate/document-Draft-of-the-Climate-Science-Special-Report.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/08/day-201/">August 08, 2017</a></small></div>
-<p><strong>The USDA is censoring the use of "climate change" and advising staff to use the phrase "weather extremes" instead</strong>. A series of emails from February between staff at a USDA unit that oversees farmers’ land conservation shows the incoming Trump administration's impact on language by federal employees around climate change. Instead of “climate change adaption," staff were told to use “resilience to weather extremes.” Instead of “reduce greenhouse gases," use "build soil organic matter, increase nutrient use efficiency." (<a href="https://www.theguardian.com/environment/2017/aug/07/usda-climate-change-language-censorship-emails">The Guardian</a>)</p>
+<p><strong>The USDA is censoring the use of "<a href="/trump-epa/">climate change</a>" and advising staff to use the phrase "weather extremes" instead</strong>. A series of emails from February between staff at a USDA unit that oversees farmers’ land conservation shows the incoming Trump administration's impact on language by federal employees around <a href="/trump-epa/">climate change</a>. Instead of “<a href="/trump-epa/">climate change</a> adaption," staff were told to use “resilience to weather extremes.” Instead of “reduce greenhouse gases," use "build soil organic matter, increase nutrient use efficiency." (<a href="https://www.theguardian.com/environment/2017/aug/07/usda-climate-change-language-censorship-emails">The Guardian</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/04/day-197/">August 04, 2017</a></small></div>
-<p><strong>The Trump administration will notify the United Nations today that the US intends to withdraw from the Paris climate change agreement</strong>, despite planning to participate in UN climate negotiations later this year. Under the terms of the Paris deal, the US can’t fully withdraw until one day after the next presidential election. (<a href="https://www.nytimes.com/2017/08/04/climate/us-to-join-climate-talks-despite-planned-withdrawal-from-paris-accord.html">New York Times</a> / <a href="http://www.politico.com/story/2017/08/04/trump-notice-withdraw-from-paris-climate-deal-241331">Politico</a>)</p>
+<p><strong>The Trump administration will notify the United Nations today that the US intends to withdraw from the Paris <a href="/trump-epa/">climate change</a> agreement</strong>, despite planning to participate in UN climate negotiations later this year. Under the terms of the Paris deal, the US can’t fully withdraw until one day after the next presidential election. (<a href="https://www.nytimes.com/2017/08/04/climate/us-to-join-climate-talks-despite-planned-withdrawal-from-paris-accord.html">New York Times</a> / <a href="http://www.politico.com/story/2017/08/04/trump-notice-withdraw-from-paris-climate-deal-241331">Politico</a>)</p>
 
 
 
@@ -212,7 +245,7 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/30/Day-162/">June 30, 2017</a></small></div>
-<p><strong>Scott Pruitt is launching an initiative to "critique" climate science at the EPA</strong>. Pruitt's stated that he believes the climate is changing and humans have some role, but is skeptical that greenhouse gases are the primary cause of climate change, despite overwhelming scientific consensus. (<a href="https://www.eenews.net/stories/1060056858">Climatewire</a> / <a href="http://thehill.com/policy/energy-environment/340223-epa-head-to-launch-initiative-to-challenge-climate-science">The Hill</a>)</p>
+<p><strong>Scott Pruitt is launching an initiative to "critique" climate science at the EPA</strong>. Pruitt's stated that he believes the climate is changing and humans have some role, but is skeptical that greenhouse gases are the primary cause of <a href="/trump-epa/">climate change</a>, despite overwhelming scientific consensus. (<a href="https://www.eenews.net/stories/1060056858">Climatewire</a> / <a href="http://thehill.com/policy/energy-environment/340223-epa-head-to-launch-initiative-to-challenge-climate-science">The Hill</a>)</p>
 
 
 
@@ -222,12 +255,12 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/27/Day-159/">June 27, 2017</a></small></div>
-<p><strong>Rick Perry wants an "intellectual conversation" about the impacts of humans on the climate</strong>. While Perry said he believes in climate change, he doesn't believe carbon dioxide is the main driver of climate change, putting him at odds with climate scientists. (<a href="http://www.politico.com/story/2017/06/27/rick-perry-climate-change-trump-stance-240012">Politico</a>)</p>
+<p><strong>Rick Perry wants an "intellectual conversation" about the impacts of humans on the climate</strong>. While Perry said he believes in <a href="/trump-epa/">climate change</a>, he doesn't believe carbon dioxide is the main driver of <a href="/trump-epa/">climate change</a>, putting him at odds with climate scientists. (<a href="http://www.politico.com/story/2017/06/27/rick-perry-climate-change-trump-stance-240012">Politico</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/21/Day-153/">June 21, 2017</a></small></div>
-<p><strong>Michael Bloomberg tells Trump to "stop tweeting and focus on running the government."</strong> The former mayor of New York City added that Trump's refusal to acknowledge that climate change is real is an embarrassment. "No reputable person or scientist doubts that we are creating an environmental and a climate change problem," he said. (<a href="http://www.cnn.com/2017/06/21/politics/michael-bloomberg-donald-trump-russia-ac-cnntv/index.html">CNN</a>)</p>
+<p><strong>Michael Bloomberg tells Trump to "stop tweeting and focus on running the government."</strong> The former mayor of New York City added that Trump's refusal to acknowledge that <a href="/trump-epa/">climate change</a> is real is an embarrassment. "No reputable person or scientist doubts that we are creating an environmental and a <a href="/trump-epa/">climate change</a> problem," he said. (<a href="http://www.cnn.com/2017/06/21/politics/michael-bloomberg-donald-trump-russia-ac-cnntv/index.html">CNN</a>)</p>
 
 
 
@@ -237,17 +270,17 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/20/Day-152/">June 20, 2017</a></small></div>
-<p>poll/ <strong>18% of Americans support Trump’s decision to withdraw from the Paris climate accord</strong>. 44% of Americans are "very concerned" and 26% are "moderately concerned" that withdrawing from the agreement will hurt the country’s standing in the world. 64% of Americans disapprove of how Trump is handling the issue of climate change, with 34% approving. (<a href="https://apnews.com/0b58728504d94e5c9ec366d3e35e7118/AP-poll:-Few-agree-with-Trump-move-to-ditch-Paris-accord">Associated Press</a>)</p>
+<p>poll/ <strong>18% of Americans support Trump’s decision to withdraw from the Paris climate accord</strong>. 44% of Americans are "very concerned" and 26% are "moderately concerned" that withdrawing from the agreement will hurt the country’s standing in the world. 64% of Americans disapprove of how Trump is handling the issue of <a href="/trump-epa/">climate change</a>, with 34% approving. (<a href="https://apnews.com/0b58728504d94e5c9ec366d3e35e7118/AP-poll:-Few-agree-with-Trump-move-to-ditch-Paris-accord">Associated Press</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/19/Day-151/">June 19, 2017</a></small></div>
-<p><strong>Energy Secretary Rick Perry said he doesn't believe CO2 emissions from human activity are the primary driver of climate change</strong>, a view that is at odds with the conclusions of the Environmental Protection Agency, NASA, and the National Oceanic and Atmospheric Administration. (<a href="http://www.cnbc.com/2017/06/19/energy-sec-rick-perry-says-co2-is-not-the-main-driver-of-climate-change.html">CNBC</a>)</p>
+<p><strong>Energy Secretary Rick Perry said he doesn't believe CO2 emissions from human activity are the primary driver of <a href="/trump-epa/">climate change</a></strong>, a view that is at odds with the conclusions of the Environmental Protection Agency, NASA, and the National Oceanic and Atmospheric Administration. (<a href="http://www.cnbc.com/2017/06/19/energy-sec-rick-perry-says-co2-is-not-the-main-driver-of-climate-change.html">CNBC</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/15/Day-147/">June 15, 2017</a></small></div>
-<p><strong>The Energy Department closed its office working on climate change abroad</strong>. The office was formed in 2010 to help the United States provide technical advice to other nations seeking to reduce greenhouse gas emissions. (<a href="https://www.nytimes.com/2017/06/15/climate/energy-department-closes-office-working-on-climate-change-abroad.html">New York Times</a>)</p>
+<p><strong>The Energy Department closed its office working on <a href="/trump-epa/">climate change</a> abroad</strong>. The office was formed in 2010 to help the United States provide technical advice to other nations seeking to reduce greenhouse gas emissions. (<a href="https://www.nytimes.com/2017/06/15/climate/energy-department-closes-office-working-on-climate-change-abroad.html">New York Times</a>)</p>
 
 
 
@@ -257,12 +290,12 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/02/Day-134/">June 02, 2017</a></small></div>
-<p><strong>Cities, states, and companies are banding together to form a climate alliance</strong>. Washington, California, and New York – representing about a fifth of the US economy – have formed the United States Climate Alliance, which will serve as a way for states interested in dealing with climate change to coordinate. At least 80 mayors, three governors, more than 80 university presidents, and more than 100 businesses are preparing to submit a plan to the UN pledging to meet the United States’ greenhouse gas emission target, despite Trump’s decision to withdraw from the agreement. (<a href="https://www.nytimes.com/2017/06/01/climate/american-cities-climate-standards.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/energy-environment/wp/2017/06/01/these-titans-of-industry-just-broke-with-trumps-decision-to-exit-the-paris-accords/">Washington Post</a> / <a href="http://www.politico.com/story/2017/06/01/climate-alliance-washington-california-new-york-239038">Politico</a> / <a href="http://www.nbcnews.com/news/us-news/california-other-states-step-climate-policy-void-n767301">NBC News</a>)</p>
+<p><strong>Cities, states, and companies are banding together to form a climate alliance</strong>. Washington, California, and New York – representing about a fifth of the US economy – have formed the United States Climate Alliance, which will serve as a way for states interested in dealing with <a href="/trump-epa/">climate change</a> to coordinate. At least 80 mayors, three governors, more than 80 university presidents, and more than 100 businesses are preparing to submit a plan to the UN pledging to meet the United States’ greenhouse gas emission target, despite Trump’s decision to withdraw from the agreement. (<a href="https://www.nytimes.com/2017/06/01/climate/american-cities-climate-standards.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/energy-environment/wp/2017/06/01/these-titans-of-industry-just-broke-with-trumps-decision-to-exit-the-paris-accords/">Washington Post</a> / <a href="http://www.politico.com/story/2017/06/01/climate-alliance-washington-california-new-york-239038">Politico</a> / <a href="http://www.nbcnews.com/news/us-news/california-other-states-step-climate-policy-void-n767301">NBC News</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/02/Day-134/">June 02, 2017</a></small></div>
-<p><strong>Michael Bloomberg pledges $15 million to help foot the Paris Climate Agreement bill</strong>. Bloomberg Philanthropies and its partners will cover part of the United States' share of the operating budget. Trump's budget could cut as much as $2 billion in funding for UN climate change programs as a result of leaving the Paris agreement. (<a href="http://money.cnn.com/2017/06/02/news/michael-bloomberg-trump-paris-climate/index.html">CNN Money</a>)</p>
+<p><strong>Michael Bloomberg pledges $15 million to help foot the Paris Climate Agreement bill</strong>. Bloomberg Philanthropies and its partners will cover part of the United States' share of the operating budget. Trump's budget could cut as much as $2 billion in funding for UN <a href="/trump-epa/">climate change</a> programs as a result of leaving the Paris agreement. (<a href="http://money.cnn.com/2017/06/02/news/michael-bloomberg-trump-paris-climate/index.html">CNN Money</a>)</p>
 
 
 
@@ -272,17 +305,17 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/">May 31, 2017</a></small></div>
-<p><strong>Trump will withdraw from the Paris climate deal</strong>. A small team is now deciding on whether to initiate a full withdrawal, which could take 3 years, or exit the underlying United Nations climate change treaty, which would be a faster, more extreme move. World leaders, the Pope, major oil companies, and even Ivanka and Kushner have pushed Trump to stay in the deal. (<a href="https://www.axios.com/scoop-trump-is-pulling-u-s-out-of-paris-climate-deal-2427773025.html">Axios</a> / <a href="http://www.politico.com/story/2017/05/31/trump-paris-climate-change-agreement-238974">Politico</a> / <a href="https://www.nytimes.com/2017/05/31/climate/trump-quits-paris-climate-accord.html">New York Times</a>)</p>
+<p><strong>Trump will withdraw from the Paris climate deal</strong>. A small team is now deciding on whether to initiate a full withdrawal, which could take 3 years, or exit the underlying United Nations <a href="/trump-epa/">climate change</a> treaty, which would be a faster, more extreme move. World leaders, the Pope, major oil companies, and even Ivanka and Kushner have pushed Trump to stay in the deal. (<a href="https://www.axios.com/scoop-trump-is-pulling-u-s-out-of-paris-climate-deal-2427773025.html">Axios</a> / <a href="http://www.politico.com/story/2017/05/31/trump-paris-climate-change-agreement-238974">Politico</a> / <a href="https://www.nytimes.com/2017/05/31/climate/trump-quits-paris-climate-accord.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/29/Day-130/">May 29, 2017</a></small></div>
-<p><strong>Trump privately said he plans to leave the Paris agreement on climate change</strong>, despite his public position that he hasn't made up his mind. Leaving the Paris agreement is the biggest thing Trump could do to unwind Obama's climate policies and signal to the rest of the world that climate change isn't a priority for his administration. (<a href="https://www.axios.com/scoop-trump-tells-confidants-he-plans-to-leave-paris-climate-deal-2424446776.html">Axios</a>)</p>
+<p><strong>Trump privately said he plans to leave the Paris agreement on <a href="/trump-epa/">climate change</a></strong>, despite his public position that he hasn't made up his mind. Leaving the Paris agreement is the biggest thing Trump could do to unwind Obama's climate policies and signal to the rest of the world that <a href="/trump-epa/">climate change</a> isn't a priority for his administration. (<a href="https://www.axios.com/scoop-trump-tells-confidants-he-plans-to-leave-paris-climate-deal-2424446776.html">Axios</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/24/Day-125/">May 24, 2017</a></small></div>
-<p><strong>Pope Francis urged Trump to meet US commitments on climate change</strong>. He gave Trump copy of his 2015 encyclical (a type of papal document used for significant or important issues) calling for urgent, drastic cuts in fossil-fuel emissions. Trump has called climate change a hoax perpetrated by the Chinese. (<a href="https://www.bloomberg.com/politics/articles/2017-05-24/pope-gives-trump-book-on-protecting-environment-at-vatican-talks">Bloomberg</a>)</p>
+<p><strong>Pope Francis urged Trump to meet US commitments on <a href="/trump-epa/">climate change</a></strong>. He gave Trump copy of his 2015 encyclical (a type of papal document used for significant or important issues) calling for urgent, drastic cuts in fossil-fuel emissions. Trump has called <a href="/trump-epa/">climate change</a> a hoax perpetrated by the Chinese. (<a href="https://www.bloomberg.com/politics/articles/2017-05-24/pope-gives-trump-book-on-protecting-environment-at-vatican-talks">Bloomberg</a>)</p>
 
 
 
@@ -297,7 +330,7 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/12/Day-113/">May 12, 2017</a></small></div>
-<p><strong>Rex Tillerson signed a declaration acknowledging climate change</strong>. The move is at odds with the Trump administration's skepticism of climate change and comes at a time when he is weighing a potential withdrawal from the Paris Agreement. The Fairbanks Declaration acknowledges the threat posed by climate change to the Arctic and the need for action to curb its impact on the region. (<a href="http://thehill.com/policy/energy-environment/333085-tillerson-signs-declaration-recognizing-climate-change">The Hill</a>)</p>
+<p><strong>Rex Tillerson signed a declaration acknowledging <a href="/trump-epa/">climate change</a></strong>. The move is at odds with the Trump administration's skepticism of <a href="/trump-epa/">climate change</a> and comes at a time when he is weighing a potential withdrawal from the Paris Agreement. The Fairbanks Declaration acknowledges the threat posed by <a href="/trump-epa/">climate change</a> to the Arctic and the need for action to curb its impact on the region. (<a href="http://thehill.com/policy/energy-environment/333085-tillerson-signs-declaration-recognizing-climate-change">The Hill</a>)</p>
 
 
 
@@ -307,12 +340,12 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/29/Day-100/">April 29, 2017</a></small></div>
-<p><strong>The EPA removed its climate science site the day before march on Washington</strong>. The website previously housed data on greenhouse gas emissions and reports on the effects of climate change and its impact on human health. (<a href="https://www.theguardian.com/environment/2017/apr/29/epa-trump-website-climate-change-peoples-climate-march" target="_blank">The Guardian</a>)</p>
+<p><strong>The EPA removed its climate science site the day before march on Washington</strong>. The website previously housed data on greenhouse gas emissions and reports on the effects of <a href="/trump-epa/">climate change</a> and its impact on human health. (<a href="https://www.theguardian.com/environment/2017/apr/29/epa-trump-website-climate-change-peoples-climate-march" target="_blank">The Guardian</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/17/Day-88/">April 17, 2017</a></small></div>
-<p><strong>Corporate America is uniting on climate change</strong>. While consumer brands and industrial giants have been supporting government action on climate change for years, the biggest and most important US energy companies are now dropping their resistance to a global climate deal. The consensus is the broadest it's been in a decade. (<a href="https://www.axios.com/corporate-america-isnt-backing-trump-on-climate-2353777108.html" target="_blank">Axios</a>)</p>
+<p><strong>Corporate America is uniting on <a href="/trump-epa/">climate change</a></strong>. While consumer brands and industrial giants have been supporting government action on <a href="/trump-epa/">climate change</a> for years, the biggest and most important US energy companies are now dropping their resistance to a global climate deal. The consensus is the broadest it's been in a decade. (<a href="https://www.axios.com/corporate-america-isnt-backing-trump-on-climate-2353777108.html" target="_blank">Axios</a>)</p>
 
 
 
@@ -322,7 +355,7 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/14/Day-85/">April 14, 2017</a></small></div>
-<p><strong>Scott Pruitt called for an "exit" from the Paris climate agreement</strong>. It's the first time a high-ranking official has explicitly disavowed the agreement endorsed by nearly 200 countries to fight climate change. It would takes three years under the accord's terms for a party to withdraw, followed by a one-year waiting period — about the same length as Trump’s first term in office. (<a href="https://www.washingtonpost.com/news/energy-environment/wp/2017/04/14/trumps-epa-chief-scott-pruitt-calls-for-an-exit-to-the-paris-climate-agreement/" target="_blank">Washington Post</a>)</p>
+<p><strong>Scott Pruitt called for an "exit" from the Paris climate agreement</strong>. It's the first time a high-ranking official has explicitly disavowed the agreement endorsed by nearly 200 countries to fight <a href="/trump-epa/">climate change</a>. It would takes three years under the accord's terms for a party to withdraw, followed by a one-year waiting period — about the same length as Trump’s first term in office. (<a href="https://www.washingtonpost.com/news/energy-environment/wp/2017/04/14/trumps-epa-chief-scott-pruitt-calls-for-an-exit-to-the-paris-climate-agreement/" target="_blank">Washington Post</a>)</p>
 
 
 
@@ -337,7 +370,7 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/30/Day-70/">March 30, 2017</a></small></div>
-<p><strong>The Energy Department's climate office banned the use of the phrase "climate change."</strong> It's also the only office with the word "climate" in its name. Staff were told not to use "emissions reduction" or the "Paris Agreement" in written memos or briefings. (<a href="https://secure.politico.com/story/2017/03/energy-department-climate-change-phrases-banned-236655" target="_blank">Politico</a>)</p>
+<p><strong>The Energy Department's climate office banned the use of the phrase "<a href="/trump-epa/">climate change</a>."</strong> It's also the only office with the word "climate" in its name. Staff were told not to use "emissions reduction" or the "Paris Agreement" in written memos or briefings. (<a href="https://secure.politico.com/story/2017/03/energy-department-climate-change-phrases-banned-236655" target="_blank">Politico</a>)</p>
 
 
 
@@ -347,7 +380,7 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/28/Day-68/">March 28, 2017</a></small></div>
-<p><strong>Trump signs an executive order to dismantle Obama's climate change policies</strong>. Trump celebrated the move as a way to promote energy independence and restore thousands of lost coal industry jobs. The executive order directs the EPA to start the legal process of withdrawing and rewriting the Clean Power Plan. (<a href="https://www.nytimes.com/2017/03/28/climate/trump-executive-order-climate-change.html" target="_blank">New York Times</a>)</p>
+<p><strong>Trump signs an executive order to dismantle Obama's <a href="/trump-epa/">climate change</a> policies</strong>. Trump celebrated the move as a way to promote energy independence and restore thousands of lost coal industry jobs. The executive order directs the EPA to start the legal process of withdrawing and rewriting the Clean Power Plan. (<a href="https://www.nytimes.com/2017/03/28/climate/trump-executive-order-climate-change.html" target="_blank">New York Times</a>)</p>
 
 
 
@@ -357,7 +390,7 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/22/Day-62/">March 22, 2017</a></small></div>
-<p><strong>The White House is preparing to dismantle Obama’s climate change policy</strong>. Trump will order Scott Pruitt, EPA chief, to withdraw and rewrite a set of Obama-era regulations known as the Clean Power Plan, which was devised to shut down hundreds of heavily polluting coal-fired power plants and freeze construction of new coal plants, while replacing them with vast wind and solar farms. (<a href="https://www.nytimes.com/2017/03/21/climate/trump-climate-change.html" target="_blank">New York Times</a>)</p>
+<p><strong>The White House is preparing to dismantle Obama’s <a href="/trump-epa/">climate change</a> policy</strong>. Trump will order Scott Pruitt, EPA chief, to withdraw and rewrite a set of Obama-era regulations known as the Clean Power Plan, which was devised to shut down hundreds of heavily polluting coal-fired power plants and freeze construction of new coal plants, while replacing them with vast wind and solar farms. (<a href="https://www.nytimes.com/2017/03/21/climate/trump-climate-change.html" target="_blank">New York Times</a>)</p>
 
 
 
@@ -372,17 +405,17 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/14/Day-54/">March 14, 2017</a></small></div>
-<p><strong>Secretary of State Rex Tillerson used an email alias to discuss climate change while he was CEO of Exxon Mobil</strong>. Tillerson used the account for "secure and expedited communications between select senior company officials and the former chairman for a broad range of business-related topics," after his primary account began receiving too many messages. (<a href="https://www.bloomberg.com/news/articles/2017-03-13/tillerson-used-alias-email-for-climate-messages-n-y-says" target="_blank">Bloomberg</a>)</p>
+<p><strong>Secretary of State Rex Tillerson used an email alias to discuss <a href="/trump-epa/">climate change</a> while he was CEO of Exxon Mobil</strong>. Tillerson used the account for "secure and expedited communications between select senior company officials and the former chairman for a broad range of business-related topics," after his primary account began receiving too many messages. (<a href="https://www.bloomberg.com/news/articles/2017-03-13/tillerson-used-alias-email-for-climate-messages-n-y-says" target="_blank">Bloomberg</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/14/Day-54/">March 14, 2017</a></small></div>
-<p><strong>Trump is set to sign a sweeping directive to dramatically shrink the role climate change plays in decisions across the government</strong>, ranging from appliance standards to pipeline approvals. Trump’s order also will compel a reconsideration of the government’s use of a metric known as the "social cost of carbon" that reflects the potential economic damage from climate change. (<a href="https://www.bloomberg.com/news/articles/2017-03-14/trump-said-to-drop-climate-change-from-environmental-reviews" target="_blank">Bloomberg</a>)</p>
+<p><strong>Trump is set to sign a sweeping directive to dramatically shrink the role <a href="/trump-epa/">climate change</a> plays in decisions across the government</strong>, ranging from appliance standards to pipeline approvals. Trump’s order also will compel a reconsideration of the government’s use of a metric known as the "social cost of carbon" that reflects the potential economic damage from <a href="/trump-epa/">climate change</a>. (<a href="https://www.bloomberg.com/news/articles/2017-03-14/trump-said-to-drop-climate-change-from-environmental-reviews" target="_blank">Bloomberg</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/11/Day-51/">March 11, 2017</a></small></div>
-<p><strong>Scott Pruitt’s phones have been ringing off the hook since he questioned the link between human activity and climate change.</strong> Pruitt’s comments on the CNBC program “Squawk Box” — that “we need to continue the debate and continue the review and the analysis” over climate change — prompted an immediate pushback from many scientists and environment groups. (<a href="https://www.washingtonpost.com/news/energy-environment/wp/2017/03/10/epa-administrator-scott-pruitt-call-your-office/" target="_blank">Washington Post</a>)</p>
+<p><strong>Scott Pruitt’s phones have been ringing off the hook since he questioned the link between human activity and <a href="/trump-epa/">climate change</a>.</strong> Pruitt’s comments on the CNBC program “Squawk Box” — that “we need to continue the debate and continue the review and the analysis” over <a href="/trump-epa/">climate change</a> — prompted an immediate pushback from many scientists and environment groups. (<a href="https://www.washingtonpost.com/news/energy-environment/wp/2017/03/10/epa-administrator-scott-pruitt-call-your-office/" target="_blank">Washington Post</a>)</p>
 
 
 
@@ -402,7 +435,7 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/01/Day-41/">March 01, 2017</a></small></div>
-<p><strong>Senate approves Trump's nominee, Ryan Zinke, for the Department of the Interior</strong>. The Republican congressman promised to review Obama-era actions limiting oil and gas drilling in Alaska and said he rejected President Donald Trump's past comment that climate change is a "hoax." (<a href="http://www.cnn.com/2017/03/01/politics/ryan-zinke-confirmation-vote-interior-secretary/" target="_blank">CNN</a>)</p>
+<p><strong>Senate approves Trump's nominee, Ryan Zinke, for the Department of the Interior</strong>. The Republican congressman promised to review Obama-era actions limiting oil and gas drilling in Alaska and said he rejected President Donald Trump's past comment that <a href="/trump-epa/">climate change</a> is a "hoax." (<a href="http://www.cnn.com/2017/03/01/politics/ryan-zinke-confirmation-vote-interior-secretary/" target="_blank">CNN</a>)</p>
 
 
 
@@ -427,12 +460,12 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/22/Day-34/">February 22, 2017</a></small></div>
-<p><strong>The White House recently deleted all of the data on its <a href="https://open.whitehouse.gov/">open data portal</a></strong>, which serves as the public clearinghouse for data on everything from federal budgets to climate change initiatives. Most of this data should still be available through an <a href="https://open.obamawhitehouse.archives.gov/">archived version of the portal</a>. (<a href="http://thehill.com/blogs/pundits-blog/technology/320511-why-is-federal-government-data-disappearing" target="_blank">The Hill</a>)</p>
+<p><strong>The White House recently deleted all of the data on its <a href="https://open.whitehouse.gov/">open data portal</a></strong>, which serves as the public clearinghouse for data on everything from federal budgets to <a href="/trump-epa/">climate change</a> initiatives. Most of this data should still be available through an <a href="https://open.obamawhitehouse.archives.gov/">archived version of the portal</a>. (<a href="http://thehill.com/blogs/pundits-blog/technology/320511-why-is-federal-government-data-disappearing" target="_blank">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/20/Day-32/">February 20, 2017</a></small></div>
-<p><strong>"Not My President"</strong>: Thousands of demonstrators turned out across the US to challenge Trump on Presidents Day and call attention to Trump’s crackdown on immigration, his party’s response to climate change and the environment. Organizers said they chose to rally on the holiday as a way to honor past presidents by exercising their constitutional right to assemble and peacefully protest. (<a href="https://www.washingtonpost.com/national/thousands-of-demonstrators-across-us-say-not-my-president/2017/02/20/4c2a6f2a-f7b0-11e6-aa1e-5f735ee31334_story.html" target="_blank">Washington Post</a>)</p>
+<p><strong>"Not My President"</strong>: Thousands of demonstrators turned out across the US to challenge Trump on Presidents Day and call attention to Trump’s crackdown on immigration, his party’s response to <a href="/trump-epa/">climate change</a> and the environment. Organizers said they chose to rally on the holiday as a way to honor past presidents by exercising their constitutional right to assemble and peacefully protest. (<a href="https://www.washingtonpost.com/national/thousands-of-demonstrators-across-us-say-not-my-president/2017/02/20/4c2a6f2a-f7b0-11e6-aa1e-5f735ee31334_story.html" target="_blank">Washington Post</a>)</p>
 
 
 
@@ -467,17 +500,17 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/15/Day-27/">February 15, 2017</a></small></div>
-<p><strong>Trump aims to sign executive orders cutting into the EPA's climate work shortly after his nominee to lead the agency is confirmed by the Senate</strong>. Trump has vowed to roll back Obama-era EPA actions, including major climate change regulations like the Clean Power Plan and a water jurisdiction rule opposed by many conservatives. (<a href="http://thehill.com/policy/energy-environment/319667-report-trump-aiming-to-sign-sweeping-epa-executive-orders" target="_blank">The Hill</a>)</p>
+<p><strong>Trump aims to sign executive orders cutting into the EPA's climate work shortly after his nominee to lead the agency is confirmed by the Senate</strong>. Trump has vowed to roll back Obama-era EPA actions, including major <a href="/trump-epa/">climate change</a> regulations like the Clean Power Plan and a water jurisdiction rule opposed by many conservatives. (<a href="http://thehill.com/policy/energy-environment/319667-report-trump-aiming-to-sign-sweeping-epa-executive-orders" target="_blank">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/11/Day-23/">February 11, 2017</a></small></div>
-<p><strong>GOP bill would gut EPA</strong>. A House Republican is sponsoring legislation to do away with large portions of the Environmental Protection Agency, including environmental justice and greenhouse gas programs. The Wasteful EPA Programs Elimination Act would save $7.5 billion annually and would leave the EPA with a budget of less than $1 billion. Major EPA climate change programs would be eliminated under the measure. (<a href="http://thehill.com/policy/energy-environment/318931-gop-bill-would-gut-epa" target="_blank">The Hill</a>)</p>
+<p><strong>GOP bill would gut EPA</strong>. A House Republican is sponsoring legislation to do away with large portions of the Environmental Protection Agency, including environmental justice and greenhouse gas programs. The Wasteful EPA Programs Elimination Act would save $7.5 billion annually and would leave the EPA with a budget of less than $1 billion. Major EPA <a href="/trump-epa/">climate change</a> programs would be eliminated under the measure. (<a href="http://thehill.com/policy/energy-environment/318931-gop-bill-would-gut-epa" target="_blank">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/08/Day-20/">February 08, 2017</a></small></div>
-<p><strong>Republicans push carbon tax at White House</strong>. A carbon tax, long favored by economists as the most straightforward way to address climate change, could gain traction as part of a broad tax overhaul. (<a href="https://www.bloomberg.com/politics/articles/2017-02-08/prominent-republicans-begin-push-to-tax-carbon-cut-regulations" target="_blank">Bloomberg</a>)</p>
+<p><strong>Republicans push carbon tax at White House</strong>. A carbon tax, long favored by economists as the most straightforward way to address <a href="/trump-epa/">climate change</a>, could gain traction as part of a broad tax overhaul. (<a href="https://www.bloomberg.com/politics/articles/2017-02-08/prominent-republicans-begin-push-to-tax-carbon-cut-regulations" target="_blank">Bloomberg</a>)</p>
 
 
 
@@ -492,9 +525,10 @@ redirect_from: "/epa/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/24/Day-5/">January 24, 2017</a></small></div>
-<p><strong>A National Park deleted tweets on climate change after Trump silenced federal scientists.</strong> The tweets were posted by a former employee and officials decided to delete them because the account had been “compromised,” a National Parks official said. (<a href="https://www.buzzfeed.com/claudiakoerner/a-national-park-is-tweeting-facts-about-climate-change-in-de">Buzzfeed</a>)</p>
+<p><strong>A National Park deleted tweets on <a href="/trump-epa/">climate change</a> after Trump silenced federal scientists.</strong> The tweets were posted by a former employee and officials decided to delete them because the account had been “compromised,” a National Parks official said. (<a href="https://www.buzzfeed.com/claudiakoerner/a-national-park-is-tweeting-facts-about-climate-change-in-de">Buzzfeed</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/">January 20, 2017</a></small></div>
-<p><strong>All references to climate change have been deleted</strong> from the White House website. The only mention of climate on Trump’s new website is under his “America First Energy Plan” page, in which he vows to destroy Obama’s Climate Action Plan, which is a government-wide plan to reduce carbon emissions and address climate change. (<a href="http://motherboard.vice.com/read/all-references-to-climate-change-have-been-deleted-from-the-white-house-website">Motherboard</a>)</p>
+<p><strong>All references to <a href="/trump-epa/">climate change</a> have been deleted</strong> from the White House website. The only mention of climate on Trump’s new website is under his “America First Energy Plan” page, in which he vows to destroy Obama’s Climate Action Plan, which is a government-wide plan to reduce carbon emissions and address <a href="/trump-epa/">climate change</a>. (<a href="http://motherboard.vice.com/read/all-references-to-climate-change-have-been-deleted-from-the-white-house-website">Motherboard</a>)</p>
+

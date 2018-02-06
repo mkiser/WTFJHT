@@ -16,28 +16,103 @@ redirect_from: "/health-care/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/02/05/day-382/">February 05, 2018</a></small></div>
+<p><strong>Department of Homeland Security documents for a Super Bowl terrorism drill were found in the seat-back pocket on a commercial plane</strong>. The reports were based on exercises designed to evaluate the ability of public health, law enforcement and emergency management officials to engage in a coordinated response were a biological attack to be carried out in Minneapolis on Super Bowl Sunday. (<a href="https://www.cnn.com/2018/02/05/us/dhs-super-bowl-national-security-documents-left-on-plane-invs/index.html">CNN</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/22/day-368/">January 22, 2018</a></small></div>
+<p><strong>Senate Democrats voted with Republicans to approve a short-term spending bill to fund the government through February 8th.</strong> The bill will also reauthorize the Children's Health Insurance Program for six years and roll back several health care taxes. Democrats received assurances from Mitch McConnell that the Senate will vote on a bipartisan DACA bill in the coming weeks in exchange for reopening the government. The Senate voted 81-18 to move forward on a bill to fund the government, which the House passed, sending the bill to Trump to sign. (<a href="https://www.washingtonpost.com/powerpost/trump-slams-democrats-as-third-day-of-government-shutdown-begins/2018/01/22/3a3eecf0-ff25-11e7-9d31-d72cf78dbeee_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2018/01/22/us/politics/government-shutdown.html">New York Times</a> / <a href="https://www.politico.com/story/2018/01/22/government-shutdown-2018-senate-vote-354966">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/22/day-368/">January 22, 2018</a></small></div>
+<p><strong>The deal to end the government shutdown included $31 billion in tax cuts</strong>. The deal includes a temporary delay in implementing three <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> taxes that will add to the federal budget deficit. (<a href="https://www.nytimes.com/2018/01/22/us/politics/shutdown-spending-tax-cuts-obamacare.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/22/day-368/">January 22, 2018</a></small></div>
+<p><strong>Trump sarcastically tweeted that Saturday was a "perfect day for all women to march</strong>. Get out there now to celebrate the historic milestones and unprecedented economic success and wealth creation that has taken place over the last 12 months. Lowest female unemployment in 18 years!" (<a href="http://abcnews.go.com/Politics/thousands-streets-womens-march-anniversary-trumps-1st-year/story?id=52483721">Twitter</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/18/day-364/">January 18, 2018</a></small></div>
+<p><strong>Senate Democrats have the votes needed to block the stop-gap spending bill that the House is taking up, raising the likelihood the government will close</strong>. At least nine members of the Senate Democratic Caucus said they will oppose the latest short-term spending bill, which would keep the government open through February 16th, extend the Children’s Health Insurance Program for six years, but also roll back several <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> taxes. It doesn't, however, include a deal on DACA, which Democrats have demanded in exchange for their votes. Paul Ryan believes that he has the votes needed in the House to pass the short-term funding measure on Thursday night. (<a href="https://www.politico.com/story/2018/01/18/government-shutdown-2018-trump-republicans-345532">Politico</a> / <a href="https://www.washingtonpost.com/powerpost/trump-upends-gop-strategy-to-avoid-shutdown-with-call-to-settle-childhood-insurance-impasse/2018/01/18/be61af62-fc56-11e7-a46b-a3614530bd87_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/18/day-364/">January 18, 2018</a></small></div>
+<p><strong>In the event of a shutdown, Mitch McConnell plans to keep the Senate in session and stage a series of votes</strong>. They're intended to place blame for the shutdown on 10 Democratic senators, who are up for reelection this fall in states won by Donald Trump in 2016. McConnell called the Senate Democrats' plan "irresponsible" for being "willing to shut down the government and the Children's Health Insurance Program because they have yet to conclude a deal on DACA." (<a href="https://www.politico.com/story/2018/01/18/government-shutdown-2018-mitch-mcconnell-345662">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/04/day-350/">January 04, 2018</a></small></div>
+<p><strong>The Trump administration proposed rules for health plans that bypass some <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> protections</strong>. The alternative health care plans would be reclassified so they no longer would have to include a set of 10 essential health benefits that the ACA requires. (<a href="https://www.washingtonpost.com/national/health-science/trump-administration-proposes-rules-for-health-plans-without-certain-aca-protections/2018/01/04/23f21722-f162-11e7-b390-a36dc3fa2842_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/28/day-343/">December 28, 2017</a></small></div>
+<p>poll/ <strong>44% of Republicans think Trump successfully repealed the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. Overall, 31% believe Trump repealed the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>, 49% say he hasn’t, and 21% aren't sure. (<a href="https://www.vox.com/2017/12/27/16822748/republicans-trump-repeal-obamacare">Vox</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/26/day-341/">December 26, 2017</a></small></div>
+<p><strong>More than 4 in 5 Americans who enrolled in <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> health insurance live in states that Trump won</strong>. The four states with the highest number of sign-ups – Florida, Texas, North Carolina and Georgia – account for nearly 3.9 million of the 8.8 million consumers who have signed up for coverage. (<a href="http://abcnews.go.com/Health/wireStory/enrolled-obamacare-trump-states-51958050">ABC News</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/21/day-336/">December 21, 2017</a></small></div>
+<p><strong>Current government funding expires at the end of the day Friday</strong>. House Republicans are working toward passage of a stripped-down, temporary funding measure to keep the government funded through January 19th. The current plan includes $2.85 billion for the Children's Health Insurance Program, which lapsed in October. (<a href="https://www.nytimes.com/2017/12/21/us/politics/house-republicans-government-shutdown.html">New York Times</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/21/day-336/">December 21, 2017</a></small></div>
+<p><strong>Two measures intended to stabilize the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> markets were kicked to next year</strong> after conservatives in the House said they wouldn't support the legislation. The inclusion of the ACA fixes as part of the year-end spending deal was a promise Mitch McConnell made to Susan Collins in order to get her vote on tax reform. (<a href="https://www.bloomberg.com/news/articles/2017-12-20/house-moves-toward-stripped-down-spending-plan-to-avert-shutdown">Bloomberg</a> / <a href="https://www.politico.com/story/2017/12/20/house-to-hold-government-shutdown-vote-thursday-311457?">Politico</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/20/day-335/">December 20, 2017</a></small></div>
+<p><strong>Trump claimed the Republican tax bill "essentially repealed Obamacare."</strong> The bill eliminates the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate, but Trump said "we didn't want to bring it up" until the legislation had passed. (<a href="https://www.bloomberg.com/news/articles/2017-12-20/trump-says-republican-tax-bill-essentially-repeals-obamacare">Bloomberg</a> / <a href="http://talkingpointsmemo.com/livewire/trump-claims-gop-tax-overhaul-has-repealed-obamacare">Talking Points Memo</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/19/day-334/">December 19, 2017</a></small></div>
+<p><strong>The House passed tax reform today, but will have to vote again tomorrow</strong> after the Senate parliamentarian said three provisions violated the Byrd Rule and would have to be removed from the bill. Senate Republicans plan to vote on the measure tonight with the provisions removed, which would require the House to revote on the measure tomorrow, since both chambers must pass identical bills. The House initially passed the bill in a 227-203 vote with all but 12 Republicans voting for the bill. No Democrats supported it. Trump is expected to sign the Tax Cuts And Jobs Act into law before the end of the week. The bill will add $1.5 trillion to the federal debt over the next decade as it cuts tax rates for corporations, provides new breaks for private businesses, and reorganizes the individual tax code. The legislation also repeals the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate that most Americans buy health insurance coverage or face a fine. (<a href="https://www.nbcnews.com/politics/congress/republican-tax-bill-house-senate-trump-n831161">NBC News</a> / <a href="https://www.nytimes.com/2017/12/19/us/politics/tax-bill-vote-republicans.html">New York Times</a> / <a href="https://www.washingtonpost.com/business/economy/gop-tax-bill-headed-for-quick-passage-in-house-senate-on-tuesday/2017/12/19/61f83dac-e4cf-11e7-9ec2-518810e7d44d_story.html">Washington Post</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/19/day-334/">December 19, 2017</a></small></div>
+<p><strong>Connecticut will close its health care program for low- and middle-income children on January 31st unless Congress provides new federal funding</strong>. Congress let the Children's Health Insurance Program lapse in September, which provides insurance for nearly 9 million children nationwide. (<a href="http://thehill.com/policy/healthcare/365598-connecticut-to-end-childrens-health-program-unless-it-gets-money-from">The Hill</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
+<p>Eliminates the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate that requires most Americans to buy health insurance or pay a penalty</p>
+
+
+
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
 <p><strong>Funding for the Children's Health Insurance Program lapsed three months ago</strong>. CHIP covers 9 million poor and middle-class children with health care. No state has had to kick a child off its CHIP so far, but the Trump administration did send emergency funding to several states to bridge the gaps. (<a href="https://www.politico.com/story/2017/12/15/chip-health-program-partisan-washington-228407">Politico</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/15/day-330/">December 15, 2017</a></small></div>
-<p><strong>A federal judge temporarily blocked Trump's order allowing employers to opt out of providing contraceptive coverage</strong> if they have religious or moral objections. Judge Wendy Beetlestone of the Federal District Court in Philadelphia said the rule contradicts the text of the Affordable Care Act. (<a href="https://www.nytimes.com/2017/12/15/us/politics/obamacare-birth-control-trump.html">New York Times</a>)</p>
+<p><strong>A federal judge temporarily blocked Trump's order allowing employers to opt out of providing contraceptive coverage</strong> if they have religious or moral objections. Judge Wendy Beetlestone of the Federal District Court in Philadelphia said the rule contradicts the text of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. (<a href="https://www.nytimes.com/2017/12/15/us/politics/obamacare-birth-control-trump.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/08/day-323/">December 08, 2017</a></small></div>
-<p><strong>Susan Collins could change her vote on the final version of the GOP tax reform bill</strong> if the Senate doesn't pass a pair of bills to stabilize the Affordable Care Act's health insurance markets and resuming cost-sharing subsidy payments to insurers, which Trump stopped in October. Mitch McConnell made Collins an "ironclad commitment" in exchange for her initial vote. House Republicans, however, have signaled that they don't intend to take up health care before the end of the year. Additionally, Collins added two amendments to the Senate bill that would allow taxpayers to deduct property taxes and lower the threshold for tax deductions for medical expenses, which House Republicans had previously voted to eliminate entirely. (<a href="https://www.politico.com/story/2017/12/08/susan-collins-obamacare-deal-213254">Politico</a> / <a href="http://thehill.com/blogs/blog-briefing-room/363891-collins-considers-changing-vote-on-tax-bill-over-amendments">The Hill</a>)</p>
+<p><strong>Susan Collins could change her vote on the final version of the GOP tax reform bill</strong> if the Senate doesn't pass a pair of bills to stabilize the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s health insurance markets and resuming cost-sharing subsidy payments to insurers, which Trump stopped in October. Mitch McConnell made Collins an "ironclad commitment" in exchange for her initial vote. House Republicans, however, have signaled that they don't intend to take up health care before the end of the year. Additionally, Collins added two amendments to the Senate bill that would allow taxpayers to deduct property taxes and lower the threshold for tax deductions for medical expenses, which House Republicans had previously voted to eliminate entirely. (<a href="https://www.politico.com/story/2017/12/08/susan-collins-obamacare-deal-213254">Politico</a> / <a href="http://thehill.com/blogs/blog-briefing-room/363891-collins-considers-changing-vote-on-tax-bill-over-amendments">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/05/day-320/">December 05, 2017</a></small></div>
-<p><strong>House Republicans are prepared to block the legislative promises Mitch McConnell made</strong> to Susan Collins and Jeff Flake in exchange for their votes on the Senate bill. Collins and Flake were assured the Senate would consider legislation to offset the negative effects from repealing the Affordable Care Act's individual mandate, as well as permanent protections for so-called "Dreamers." A conservative bloc in the House sharply opposes both measures. (<a href="https://www.thedailybeast.com/house-republicans-already-shooting-down-tax-bills-promises">The Daily Beast</a>)</p>
+<p><strong>House Republicans are prepared to block the legislative promises Mitch McConnell made</strong> to Susan Collins and Jeff Flake in exchange for their votes on the Senate bill. Collins and Flake were assured the Senate would consider legislation to offset the negative effects from repealing the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate, as well as permanent protections for so-called "Dreamers." A conservative bloc in the House sharply opposes both measures. (<a href="https://www.thedailybeast.com/house-republicans-already-shooting-down-tax-bills-promises">The Daily Beast</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/04/day-319/">December 04, 2017</a></small></div>
-<p><strong>Senate Republicans passed a $1.5 trillion tax bill – the most sweeping tax rewrite in decades – early Saturday in a 51 to 49 vote</strong>. The nearly 500-page bill, which included several pages of handwritten changes, will lower the corporate tax rate from 35% to 20%, temporarily cut tax rates for families and individuals until 2025, and repeals the individual mandate from the Affordable Care Act. The Senate and the House now have to reconcile the differences in their two bills through a conference committee. Mitch McConnell called it "a great day for the country." (<a href="https://www.washingtonpost.com/business/economy/johnson-to-back-senate-tax-bill-putting-gop-leaders-close-to-securing-passage/2017/12/01/0226ff98-d6a2-11e7-b62d-d9345ced896d_story.html">Washington Post</a> / <a href="https://www.politico.com/story/2017/12/01/tax-bill-2017-senate-republicans-274453">Politico</a> / <a href="https://www.nytimes.com/2017/12/01/us/politics/senate-tax-bill.html">New York Times</a>)</p>
+<p><strong>Senate Republicans passed a $1.5 trillion tax bill – the most sweeping tax rewrite in decades – early Saturday in a 51 to 49 vote</strong>. The nearly 500-page bill, which included several pages of handwritten changes, will lower the corporate tax rate from 35% to 20%, temporarily cut tax rates for families and individuals until 2025, and repeals the individual mandate from the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. The Senate and the House now have to reconcile the differences in their two bills through a conference committee. Mitch McConnell called it "a great day for the country." (<a href="https://www.washingtonpost.com/business/economy/johnson-to-back-senate-tax-bill-putting-gop-leaders-close-to-securing-passage/2017/12/01/0226ff98-d6a2-11e7-b62d-d9345ced896d_story.html">Washington Post</a> / <a href="https://www.politico.com/story/2017/12/01/tax-bill-2017-senate-republicans-274453">Politico</a> / <a href="https://www.nytimes.com/2017/12/01/us/politics/senate-tax-bill.html">New York Times</a>)</p>
 
 
 
@@ -47,27 +122,27 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/15/day-300/">November 15, 2017</a></small></div>
-<p><strong>Nearly 1.5 million people have signed up for an Affordable Care Act health care plan</strong> in the first two weeks of open enrollment, outpacing last year's sign ups by nearly 500,000. The Trump administration cut the 2018 open enrollment period from 12 to 6 weeks, and reduced the ACA advertising budget by 90%. (<a href="https://www.reuters.com/article/us-usa-healthcare-enrollment/nearly-1-5-million-people-signed-up-for-obamacare-plans-so-far-officials-idUSKBN1DF27A">Reuters</a>)</p>
+<p><strong>Nearly 1.5 million people have signed up for an <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> health care plan</strong> in the first two weeks of open enrollment, outpacing last year's sign ups by nearly 500,000. The Trump administration cut the 2018 open enrollment period from 12 to 6 weeks, and reduced the ACA advertising budget by 90%. (<a href="https://www.reuters.com/article/us-usa-healthcare-enrollment/nearly-1-5-million-people-signed-up-for-obamacare-plans-so-far-officials-idUSKBN1DF27A">Reuters</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/15/day-300/">November 15, 2017</a></small></div>
-<p><strong>A key Senate Republican said he would not support the GOP tax plan and another expressed reservations about the bill</strong>. Ron Johnson said he was opposed to both the Senate and House bills because neither "provide fair treatment." Meanwhile, Susan Collins said she was concerned about Republicans changing the tax bill to repeal the Affordable Care Act's individual mandate, calling it a "mistake." Republicans can only lose two senators and still pass their tax plan in the Senate without Democratic votes. (<a href="https://www.washingtonpost.com/business/economy/democrats-furious-over-new-gop-attempt-to-gut-obamacare/2017/11/15/fdc382f8-ca23-11e7-8321-481fd63f174d_story.html">Washington Post</a> / <a href="https://www.politico.com/story/2017/11/15/republican-against-senate-tax-bill-244947">Politico</a>)</p>
+<p><strong>A key Senate Republican said he would not support the GOP tax plan and another expressed reservations about the bill</strong>. Ron Johnson said he was opposed to both the Senate and House bills because neither "provide fair treatment." Meanwhile, Susan Collins said she was concerned about Republicans changing the tax bill to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate, calling it a "mistake." Republicans can only lose two senators and still pass their tax plan in the Senate without Democratic votes. (<a href="https://www.washingtonpost.com/business/economy/democrats-furious-over-new-gop-attempt-to-gut-obamacare/2017/11/15/fdc382f8-ca23-11e7-8321-481fd63f174d_story.html">Washington Post</a> / <a href="https://www.politico.com/story/2017/11/15/republican-against-senate-tax-bill-244947">Politico</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/14/day-299/">November 14, 2017</a></small></div>
-<p><strong>Senate Republicans added a provision to their tax bill that would repeal the Affordable Care Act's individual mandate</strong>. In order to be protected from a Democratic filibuster, the tax bill can't add more than $1.5 trillion to federal deficit over a decade. The CBO said that repealing the mandate would free up more than $300 billion in funding over the next decade while also causing 13 million fewer people to have health insurance. Mitch McConnell said Republicans are "optimistic that inserting the individual mandate repeal would be helpful." (<a href="https://www.washingtonpost.com/business/economy/sen-paul-plans-amendment-to-gut-obamacare-in-tax-bill-testing-gop-unity/2017/11/14/f95066c6-c94e-11e7-8321-481fd63f174d_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2017/11/14/us/politics/tax-plan-senate-obamacare-individual-mandate-trump.html">New York Times</a>)</p>
+<p><strong>Senate Republicans added a provision to their tax bill that would repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate</strong>. In order to be protected from a Democratic filibuster, the tax bill can't add more than $1.5 trillion to federal deficit over a decade. The CBO said that repealing the mandate would free up more than $300 billion in funding over the next decade while also causing 13 million fewer people to have health insurance. Mitch McConnell said Republicans are "optimistic that inserting the individual mandate repeal would be helpful." (<a href="https://www.washingtonpost.com/business/economy/sen-paul-plans-amendment-to-gut-obamacare-in-tax-bill-testing-gop-unity/2017/11/14/f95066c6-c94e-11e7-8321-481fd63f174d_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2017/11/14/us/politics/tax-plan-senate-obamacare-individual-mandate-trump.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/10/day-295/">November 10, 2017</a></small></div>
-<p><strong>Five states have asked a federal judge to halt the rollback of the Affordable Care Act's birth control mandate</strong>. California, New York, Maryland, Delaware, and Virginia filed the motion for a preliminary injunction, arguing that the policy change is unconstitutional and discriminatory. In October, Trump rolled back the federal requirement for employers to include birth control coverage in their health insurance plans, citing moral and religious grounds. (<a href="http://thehill.com/business-a-lobbying/359796-five-states-ask-federal-judge-to-halt-trumps-rollback-of-birth-control">The Hill</a>)</p>
+<p><strong>Five states have asked a federal judge to halt the rollback of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s birth control mandate</strong>. California, New York, Maryland, Delaware, and Virginia filed the motion for a preliminary injunction, arguing that the policy change is unconstitutional and discriminatory. In October, Trump rolled back the federal requirement for employers to include birth control coverage in their health insurance plans, citing moral and religious grounds. (<a href="http://thehill.com/business-a-lobbying/359796-five-states-ask-federal-judge-to-halt-trumps-rollback-of-birth-control">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/09/day-294/">November 09, 2017</a></small></div>
-<p><strong>Affordable Care Act signups are outpacing last year's enrollment</strong> with more than 600,000 people selecting a plan through HealthCare.gov in the first four days since enrollment opened. In the first 12 days of last year’s open enrollment, 1,008,218 people selected plans. Enrollment this year lasts 45 days – half as long as in the past – and for most states enrollment will end on December 15th. Several states are allowing residents to sign up for ACA plans into January. (<a href="https://www.wsj.com/articles/insurers-see-jump-in-sign-ups-for-affordable-care-act-1510241580">Wall Street Journal</a> / <a href="https://www.washingtonpost.com/news/powerpost/wp/2017/11/06/aca-signups-spike-at-open-enrollments-start/">Washington Post</a>)</p>
+<p><strong><a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> signups are outpacing last year's enrollment</strong> with more than 600,000 people selecting a plan through HealthCare.gov in the first four days since enrollment opened. In the first 12 days of last year’s open enrollment, 1,008,218 people selected plans. Enrollment this year lasts 45 days – half as long as in the past – and for most states enrollment will end on December 15th. Several states are allowing residents to sign up for ACA plans into January. (<a href="https://www.wsj.com/articles/insurers-see-jump-in-sign-ups-for-affordable-care-act-1510241580">Wall Street Journal</a> / <a href="https://www.washingtonpost.com/news/powerpost/wp/2017/11/06/aca-signups-spike-at-open-enrollments-start/">Washington Post</a>)</p>
 
 
 
@@ -77,7 +152,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/07/day-292/">November 07, 2017</a></small></div>
-<p><strong>The White House has prepared an executive order to weaken the Affordable Care Act's individual mandate</strong>, which requires taxpayers to demonstrate proof of insurance or pay a fine. The order would broaden the "hardship exemption" that was established for those facing extraordinary circumstances (e.g., the death of a family member, bankruptcy, or natural disaster). Trump would sign the order if Republicans fail to include such a measure in the tax reform process. (<a href="https://www.washingtonpost.com/news/powerpost/wp/2017/11/06/white-house-seeks-to-weaken-acas-individual-mandate-with-executive-order-as-backup-plan/">Washington Post</a> / <a href="http://www.washingtonexaminer.com/trump-readies-executive-order-to-unravel-obamacares-individual-mandate/article/2639728">Washington Examiner</a>)</p>
+<p><strong>The White House has prepared an executive order to weaken the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate</strong>, which requires taxpayers to demonstrate proof of insurance or pay a fine. The order would broaden the "hardship exemption" that was established for those facing extraordinary circumstances (e.g., the death of a family member, bankruptcy, or natural disaster). Trump would sign the order if Republicans fail to include such a measure in the tax reform process. (<a href="https://www.washingtonpost.com/news/powerpost/wp/2017/11/06/white-house-seeks-to-weaken-acas-individual-mandate-with-executive-order-as-backup-plan/">Washington Post</a> / <a href="http://www.washingtonexaminer.com/trump-readies-executive-order-to-unravel-obamacares-individual-mandate/article/2639728">Washington Examiner</a>)</p>
 
 
 
@@ -92,12 +167,12 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/">November 01, 2017</a></small></div>
-<p><strong>House Republicans delayed the release of their tax bill until Thursday</strong> as they try to meet the $1.5 trillion spending limit set by the budget. The tax plan is expected to maintain the top individual tax rate of 39.6%, cut the corporate tax rate to 20%, delay the planned repeal of the estate tax, and limit the individual tax-free contributions to 401(k)s. Trump has <a href="http://abcnews.go.com/Politics/trump-hill-leaders-disagree-upcoming-tax-reform-bill/story?id=50863220">insisted</a> that the bill be called the Cut Cut Cut Act and called on Congress to repeal the Affordable Care Act's individual mandate as part of its tax overhaul. (<a href="https://www.nbcnews.com/politics/congress/house-gop-will-delay-releasing-tax-bill-sources-say-n816251">NBC News</a> / <a href="https://www.wsj.com/articles/house-tax-plan-to-delay-estate-tax-repeal-set-corporate-rate-at-20-1509485696">Wall Street Journal</a> / <a href="http://abcnews.go.com/Politics/house-tax-plan-lowers-caps-401k-cuts-state/story?id=50861872">ABC News</a>)</p>
+<p><strong>House Republicans delayed the release of their tax bill until Thursday</strong> as they try to meet the $1.5 trillion spending limit set by the budget. The tax plan is expected to maintain the top individual tax rate of 39.6%, cut the corporate tax rate to 20%, delay the planned repeal of the estate tax, and limit the individual tax-free contributions to 401(k)s. Trump has <a href="http://abcnews.go.com/Politics/trump-hill-leaders-disagree-upcoming-tax-reform-bill/story?id=50863220">insisted</a> that the bill be called the Cut Cut Cut Act and called on Congress to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate as part of its tax overhaul. (<a href="https://www.nbcnews.com/politics/congress/house-gop-will-delay-releasing-tax-bill-sources-say-n816251">NBC News</a> / <a href="https://www.wsj.com/articles/house-tax-plan-to-delay-estate-tax-repeal-set-corporate-rate-at-20-1509485696">Wall Street Journal</a> / <a href="http://abcnews.go.com/Politics/house-tax-plan-lowers-caps-401k-cuts-state/story?id=50861872">ABC News</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/11/01/day-286/">November 01, 2017</a></small></div>
-<p><strong>The Senate confirmed a circuit court nominee who has suggested that Roe v. Wade was an "erroneous decision."</strong> Amy Coney Barrett has also called the Affordable Care Act's birth control benefit "an assault on religious liberty." Barrett was confirmed 55-43 to a lifetime position on the U.S. Court of Appeals for the 7th Circuit — one level below the Supreme Court. (<a href="https://www.huffingtonpost.com/entry/amy-coney-barrett-abortion-rights-federal-judge_us_59f87abde4b0aec1467ac111">HuffPost</a>)</p>
+<p><strong>The Senate confirmed a circuit court nominee who has suggested that Roe v. Wade was an "erroneous decision."</strong> Amy Coney Barrett has also called the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s birth control benefit "an assault on religious liberty." Barrett was confirmed 55-43 to a lifetime position on the U.S. Court of Appeals for the 7th Circuit — one level below the Supreme Court. (<a href="https://www.huffingtonpost.com/entry/amy-coney-barrett-abortion-rights-federal-judge_us_59f87abde4b0aec1467ac111">HuffPost</a>)</p>
 
 
 
@@ -107,7 +182,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/26/day-280/">October 26, 2017</a></small></div>
-<p><strong>Premiums for the most popular Affordable Care Act plan have risen 34%</strong> due to the marketplace instability caused by the Trump administration's actions, a report by Avalere Health concluded. Market instability has been driven by Trump’s decision to <a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi">end subsidy payments</a> to insurers, the continued debate over repeal and replace of the Affordable Care Act, and an <a href="https://whatthefuckjusthappenedtoday.com/2017/10/12/day-266/#1-trump-signed-an-executive-order-el">executive order</a> allowing for lower cost plans outside of the Obama-era law. (<a href="https://apnews.com/18eafd0af90d4638be180cdfa6a4ada0/Study:-ACA-silver-plan-premiums-up-average-of-34-percent">Associated Press</a>)</p>
+<p><strong>Premiums for the most popular <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> plan have risen 34%</strong> due to the marketplace instability caused by the Trump administration's actions, a report by Avalere Health concluded. Market instability has been driven by Trump’s decision to <a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi">end subsidy payments</a> to insurers, the continued debate over repeal and replace of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>, and an <a href="https://whatthefuckjusthappenedtoday.com/2017/10/12/day-266/#1-trump-signed-an-executive-order-el">executive order</a> allowing for lower cost plans outside of the Obama-era law. (<a href="https://apnews.com/18eafd0af90d4638be180cdfa6a4ada0/Study:-ACA-silver-plan-premiums-up-average-of-34-percent">Associated Press</a>)</p>
 
 
 
@@ -137,17 +212,17 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/17/day-271/">October 17, 2017</a></small></div>
-<p><strong>Senators have agreed "in principle" to a bipartisan deal to fund subsidies for health insurers</strong> and stabilize insurance markets under the Affordable Care Act. Trump had threatened to <a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi">cut off the payments</a> which lower out-of-pocket costs for low-income consumers. The deal will fund subsidies for two years, providing short-term certainty to insurers. (<a href="https://www.nytimes.com/2017/10/17/us/politics/alexander-murray-deal-obamacare-subsidies.html">New York Times</a> / <a href="http://abcnews.go.com/Politics/senators-reach-deal-continue-obamacare-insurance-subsidy-payments/story?id=50539387">ABC News</a>)</p>
+<p><strong>Senators have agreed "in principle" to a bipartisan deal to fund subsidies for health insurers</strong> and stabilize insurance markets under the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. Trump had threatened to <a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi">cut off the payments</a> which lower out-of-pocket costs for low-income consumers. The deal will fund subsidies for two years, providing short-term certainty to insurers. (<a href="https://www.nytimes.com/2017/10/17/us/politics/alexander-murray-deal-obamacare-subsidies.html">New York Times</a> / <a href="http://abcnews.go.com/Politics/senators-reach-deal-continue-obamacare-insurance-subsidy-payments/story?id=50539387">ABC News</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/16/day-270/">October 16, 2017</a></small></div>
-<p><strong>Eighteen states sued the Trump administration to stop him from <a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi">scrapping subsidies to insurers</a></strong> that help millions of low-income people pay medical expenses. Trump said he would dismantle the Affordable Care Act "step by step," which prompted Adam Schiff to tweet that "Trump is the worst President in modern history," accusing him of "deliberately undermining people’s health care out of spite." The 18 states and District of Columbia are asking the court to force Trump to make the next payment, but legal experts say they face an uphill battle in court. (<a href="https://www.reuters.com/article/us-usa-healthcare/u-s-states-sue-to-block-trump-obamacare-subsidies-cut-idUSKBN1CI0E4">Reuters</a> / <a href="http://thehill.com/homenews/house/355279-dem-hits-trump-on-obamacare-worst-president-in-modern-history">The Hill</a>)</p>
+<p><strong>Eighteen states sued the Trump administration to stop him from <a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/#1-trump-will-cut-off-essential-subsi">scrapping subsidies to insurers</a></strong> that help millions of low-income people pay medical expenses. Trump said he would dismantle the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> "step by step," which prompted Adam Schiff to tweet that "Trump is the worst President in modern history," accusing him of "deliberately undermining people’s health care out of spite." The 18 states and District of Columbia are asking the court to force Trump to make the next payment, but legal experts say they face an uphill battle in court. (<a href="https://www.reuters.com/article/us-usa-healthcare/u-s-states-sue-to-block-trump-obamacare-subsidies-cut-idUSKBN1CI0E4">Reuters</a> / <a href="http://thehill.com/homenews/house/355279-dem-hits-trump-on-obamacare-worst-president-in-modern-history">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/">October 13, 2017</a></small></div>
-<p><strong>Trump will cut off essential subsidy payments to Affordable Care Act insurers</strong>. The subsidies are used to pay out-of-pocket costs for low-income people and represent an estimated $7 billion this year. A White House statement directed Congress to "repeal and replace the disastrous Obamacare law and provide real relief to the American people" because "the government cannot lawfully make the cost-sharing reduction payments." Trump said the ACA was "imploding" and called it a "broken mess" in a pair of tweets. Chuck Schumer and Nancy Pelosi responded, saying Trump had “apparently decided to punish the American people for his inability to improve our health care system.”  Nearly 6 million enrollees qualify for the cost-sharing payments this year. (<a href="http://www.politico.com/story/2017/10/12/trump-obamacare-subsidy-243736">Politico</a> / <a href="https://www.nytimes.com/2017/10/12/us/politics/trump-obamacare-executive-order-health-insurance.html">New York Times</a> / <a href="http://www.cnn.com/2017/10/12/politics/obamacare-subsidies/index.html">CNN</a>)</p>
+<p><strong>Trump will cut off essential subsidy payments to <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> insurers</strong>. The subsidies are used to pay out-of-pocket costs for low-income people and represent an estimated $7 billion this year. A White House statement directed Congress to "repeal and replace the disastrous Obamacare law and provide real relief to the American people" because "the government cannot lawfully make the cost-sharing reduction payments." Trump said the ACA was "imploding" and called it a "broken mess" in a pair of tweets. Chuck Schumer and Nancy Pelosi responded, saying Trump had “apparently decided to punish the American people for his inability to improve our health care system.”  Nearly 6 million enrollees qualify for the cost-sharing payments this year. (<a href="http://www.politico.com/story/2017/10/12/trump-obamacare-subsidy-243736">Politico</a> / <a href="https://www.nytimes.com/2017/10/12/us/politics/trump-obamacare-executive-order-health-insurance.html">New York Times</a> / <a href="http://www.cnn.com/2017/10/12/politics/obamacare-subsidies/index.html">CNN</a>)</p>
 
 
 
@@ -157,17 +232,17 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/">October 13, 2017</a></small></div>
-<p><strong>New York and California threatened to sue the Trump administration over health care subsidies</strong> the White House said it would cut off. "Again and again, President Trump has threatened to cut off these subsidies to undermine our healthcare system and force Congress to the negotiating table," New York Attorney General Eric Schneiderman said in a statement. He added that Trump is using people as "political pawns in his dangerous, partisan campaign to eviscerate the Affordable Care Act at any cost." (<a href="http://thehill.com/policy/healthcare/355262-ags-threaten-to-sue-over-health-care-subsidies">The Hill</a>)</p>
+<p><strong>New York and California threatened to sue the Trump administration over health care subsidies</strong> the White House said it would cut off. "Again and again, President Trump has threatened to cut off these subsidies to undermine our healthcare system and force Congress to the negotiating table," New York Attorney General Eric Schneiderman said in a statement. He added that Trump is using people as "political pawns in his dangerous, partisan campaign to eviscerate the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> at any cost." (<a href="http://thehill.com/policy/healthcare/355262-ags-threaten-to-sue-over-health-care-subsidies">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/13/day-267/">October 13, 2017</a></small></div>
-<p>My presidency is <strong>"substantially ahead of schedule"</strong> and he is making "tremendous strides" against ISIS, the Iran nuclear deal, tax reform, and repealing the Affordable Care Act. (<a href="http://www.politico.com/story/2017/10/13/trump-value-voters-summit-2017-243751">Politico</a>)</p>
+<p>My presidency is <strong>"substantially ahead of schedule"</strong> and he is making "tremendous strides" against ISIS, the Iran nuclear deal, tax reform, and repealing the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. (<a href="http://www.politico.com/story/2017/10/13/trump-value-voters-summit-2017-243751">Politico</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/12/day-266/">October 12, 2017</a></small></div>
-<p><strong>Trump signed an executive order eliminating some Affordable Care Act insurance rules</strong> for small businesses that band together to buy health insurance as an association. The order will also lift limits on limited coverage, short-term insurance, and expand ways workers could use employer-funded accounts to buy their own insurance policies. Critics say that by relaxing standards, Trump would be creating low-cost insurance options for healthier, younger consumers, which would result in higher costs for the sick and potentially destabilize and undermine the ACA insurance marketplace. (<a href="https://www.nytimes.com/2017/10/11/us/politics/trump-obamacare-executive-order.html">New York Times</a> / <a href="https://www.washingtonpost.com/national/health-science/trump-to-sign-executive-order-to-gut-aca-insurance-rules-and-undermine-marketplaces/2017/10/11/40abf774-ae97-11e7-9e58-e6288544af98_story.html">Washington Post</a> / <a href="https://www.wsj.com/articles/in-start-to-unwinding-the-health-law-trump-to-ease-insurance-rules-1507771015?mod=e2tw">Wall Street Journal</a>)</p>
+<p><strong>Trump signed an executive order eliminating some <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> insurance rules</strong> for small businesses that band together to buy health insurance as an association. The order will also lift limits on limited coverage, short-term insurance, and expand ways workers could use employer-funded accounts to buy their own insurance policies. Critics say that by relaxing standards, Trump would be creating low-cost insurance options for healthier, younger consumers, which would result in higher costs for the sick and potentially destabilize and undermine the ACA insurance marketplace. (<a href="https://www.nytimes.com/2017/10/11/us/politics/trump-obamacare-executive-order.html">New York Times</a> / <a href="https://www.washingtonpost.com/national/health-science/trump-to-sign-executive-order-to-gut-aca-insurance-rules-and-undermine-marketplaces/2017/10/11/40abf774-ae97-11e7-9e58-e6288544af98_story.html">Washington Post</a> / <a href="https://www.wsj.com/articles/in-start-to-unwinding-the-health-law-trump-to-ease-insurance-rules-1507771015?mod=e2tw">Wall Street Journal</a>)</p>
 
 
 
@@ -177,12 +252,12 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/09/day-263/">October 09, 2017</a></small></div>
-<p><strong>Trump <a href="https://www.axios.com/trump-phones-schumer-for-help-on-health-care-miffing-some-in-gop-2493868663.html">called</a> Senate Democratic Leader Chuck Schumer in an effort to revive a deal to repeal and replace the Affordable Care Act</strong>. Trump said he would be open to cutting a one-year or two-year deal with Democrats. “I told the president that’s off the table,” Schumer said in a statement. “If he wants to work together to improve the existing health care system, we Democrats are open to his suggestions.” (<a href="https://www.reuters.com/article/us-usa-healthcare-trump-deal/trump-says-open-to-temporary-healthcare-reform-deal-with-democrats-idUSKBN1CC0S9">Reuters</a> / <a href="https://www.nytimes.com/2017/10/07/us/politics/trump-schumer-obamacare.html">New York Times</a>)</p>
+<p><strong>Trump <a href="https://www.axios.com/trump-phones-schumer-for-help-on-health-care-miffing-some-in-gop-2493868663.html">called</a> Senate Democratic Leader Chuck Schumer in an effort to revive a deal to repeal and replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. Trump said he would be open to cutting a one-year or two-year deal with Democrats. “I told the president that’s off the table,” Schumer said in a statement. “If he wants to work together to improve the existing health care system, we Democrats are open to his suggestions.” (<a href="https://www.reuters.com/article/us-usa-healthcare-trump-deal/trump-says-open-to-temporary-healthcare-reform-deal-with-democrats-idUSKBN1CC0S9">Reuters</a> / <a href="https://www.nytimes.com/2017/10/07/us/politics/trump-schumer-obamacare.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/10/06/day-260/">October 06, 2017</a></small></div>
-<p><strong>Trump rolled back the federal requirement for employers to include birth control coverage in their health insurance plans</strong>. The new regulation allows for a broad group of employers and insurers to exempt themselves from covering contraceptives on religious or moral grounds. More than 55 million women have access to birth control without co-payments because of the contraceptive coverage mandate in the Affordable Care Act. (<a href="https://www.washingtonpost.com/national/health-science/trump-administration-could-narrow-affordable-care-acts-contraception-mandate/2017/10/05/16139400-a9f0-11e7-92d1-58c702d2d975_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2017/10/05/us/politics/trump-birth-control.html">New York Times</a>)</p>
+<p><strong>Trump rolled back the federal requirement for employers to include birth control coverage in their health insurance plans</strong>. The new regulation allows for a broad group of employers and insurers to exempt themselves from covering contraceptives on religious or moral grounds. More than 55 million women have access to birth control without co-payments because of the contraceptive coverage mandate in the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. (<a href="https://www.washingtonpost.com/national/health-science/trump-administration-could-narrow-affordable-care-acts-contraception-mandate/2017/10/05/16139400-a9f0-11e7-92d1-58c702d2d975_story.html">Washington Post</a> / <a href="https://www.nytimes.com/2017/10/05/us/politics/trump-birth-control.html">New York Times</a>)</p>
 
 
 
@@ -217,7 +292,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/25/day-249/">September 25, 2017</a></small></div>
-<p>poll/ <strong>52% of Americans disapprove of the Graham-Cassidy health care bill</strong>. 20% said they approved of the Republican legislation aimed at repealing and replacing the Affordable Care Act, while 28% don't have an opinion. (<a href="https://www.cbsnews.com/news/poll-graham-cassidy-republican-health-care-bill-repeal-replace-obamacare-aca/">CBS News</a>)</p>
+<p>poll/ <strong>52% of Americans disapprove of the Graham-Cassidy health care bill</strong>. 20% said they approved of the Republican legislation aimed at repealing and replacing the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>, while 28% don't have an opinion. (<a href="https://www.cbsnews.com/news/poll-graham-cassidy-republican-health-care-bill-repeal-replace-obamacare-aca/">CBS News</a>)</p>
 
 
 
@@ -227,7 +302,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/22/day-246/">September 22, 2017</a></small></div>
-<p>poll/ <strong>Less than a quarter of Americans <a href="http://www.savemycare.org/wp-content/uploads/2017/09/NationalResults.pdf">support</a> the latest push to dismantle the Affordable Care Act</strong>. 54 percent support Obamacare. (<a href="https://www.vox.com/policy-and-politics/2017/9/22/16349470/polling-graham-cassidy-not-good">Vox</a>)</p>
+<p>poll/ <strong>Less than a quarter of Americans <a href="http://www.savemycare.org/wp-content/uploads/2017/09/NationalResults.pdf">support</a> the latest push to dismantle the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. 54 percent support Obamacare. (<a href="https://www.vox.com/policy-and-politics/2017/9/22/16349470/polling-graham-cassidy-not-good">Vox</a>)</p>
 
 
 
@@ -237,7 +312,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/20/day-244/">September 20, 2017</a></small></div>
-<p><strong>The Senate will likely begin voting on the latest bill to repeal the Affordable Care Act next Wednesday</strong>. The Graham-Cassidy plan has received pushback from a variety of legislators, as well as from a bipartisan group of 10 governors. Lamar Alexander and Patty Murray continue to negotiate for a bipartisan approach to health care reform. (<a href="https://www.axios.com/senate-looks-to-start-voting-on-gop-health-plan-next-wednesday-2487208910.html">Axios</a> / <a href="https://www.washingtonpost.com/powerpost/renewed-obamacare-repeal-effort-dealt-a-blow-as-governors-come-out-in-opposition/2017/09/19/499478fe-9d51-11e7-9083-fbfddf6804c2_story.html">Washinton Post</a>)</p>
+<p><strong>The Senate will likely begin voting on the latest bill to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> next Wednesday</strong>. The Graham-Cassidy plan has received pushback from a variety of legislators, as well as from a bipartisan group of 10 governors. Lamar Alexander and Patty Murray continue to negotiate for a bipartisan approach to health care reform. (<a href="https://www.axios.com/senate-looks-to-start-voting-on-gop-health-plan-next-wednesday-2487208910.html">Axios</a> / <a href="https://www.washingtonpost.com/powerpost/renewed-obamacare-repeal-effort-dealt-a-blow-as-governors-come-out-in-opposition/2017/09/19/499478fe-9d51-11e7-9083-fbfddf6804c2_story.html">Washinton Post</a>)</p>
 
 
 
@@ -252,17 +327,17 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/18/day-242/">September 18, 2017</a></small></div>
-<p><strong>Republican senators are pushing for a last-minute vote on the latest bill to repeal the Affordable Care Act</strong>. Led by Lindsey Graham and Bill Cassidy, the effort to pass the bill in question has not currently garnered enough votes. John McCain continues to advocate for putting the bill through committee. (<a href="https://www.nytimes.com/2017/09/18/us/politics/obamacare-repeal-vote.html">New York Times</a>)</p>
+<p><strong>Republican senators are pushing for a last-minute vote on the latest bill to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. Led by Lindsey Graham and Bill Cassidy, the effort to pass the bill in question has not currently garnered enough votes. John McCain continues to advocate for putting the bill through committee. (<a href="https://www.nytimes.com/2017/09/18/us/politics/obamacare-repeal-vote.html">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/15/day-239/">September 15, 2017</a></small></div>
-<p><strong>The Trump administration will cut funding for Affordable Care Act enrollment groups by up to 92%</strong>. Known as navigators, the grassroots organizations help people sign up for ACA health insurance during the open enrollment period. Under Trump, the Department of Health and Human Services has repeatedly questioned their value. (<a href="https://www.washingtonpost.com/national/health-science/hhs-slashes-funding-to-some-aca-navigator-groups-by-more-than-60-percent/2017/09/14/729c394c-9957-11e7-b569-3360011663b4_story.html">Washington Post</a>)</p>
+<p><strong>The Trump administration will cut funding for <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> enrollment groups by up to 92%</strong>. Known as navigators, the grassroots organizations help people sign up for ACA health insurance during the open enrollment period. Under Trump, the Department of Health and Human Services has repeatedly questioned their value. (<a href="https://www.washingtonpost.com/national/health-science/hhs-slashes-funding-to-some-aca-navigator-groups-by-more-than-60-percent/2017/09/14/729c394c-9957-11e7-b569-3360011663b4_story.html">Washington Post</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/15/day-239/">September 15, 2017</a></small></div>
-<p>poll/ <strong>Repealing the Affordable Care Act remains GOP voters' top priority</strong>. More than half of Republican respondents said repealing and replacing Obamacare is an "extremely important priority," and 26 percent said it is "very important." (<a href="http://www.politico.com/story/2017/09/15/politico-harvard-poll-obamacare-repeal-still-tops-gop-voters-to-do-lists-242659">Politico/Harvard</a>)</p>
+<p>poll/ <strong>Repealing the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> remains GOP voters' top priority</strong>. More than half of Republican respondents said repealing and replacing Obamacare is an "extremely important priority," and 26 percent said it is "very important." (<a href="http://www.politico.com/story/2017/09/15/politico-harvard-poll-obamacare-repeal-still-tops-gop-voters-to-do-lists-242659">Politico/Harvard</a>)</p>
 
 
 
@@ -282,7 +357,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/31/day-224/">August 31, 2017</a></small></div>
-<p><strong>Health and Human Services cut the Affordable Care Act marketing budget by 90%</strong>. They'll spend $10 million promoting open enrollment, which starts in November. The Obama administration spent $100 million last year. (<a href="https://www.axios.com/hhs-cuts-aca-advertising-budget-by-90-percent-2480029656.html">Axios</a>)</p>
+<p><strong>Health and Human Services cut the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> marketing budget by 90%</strong>. They'll spend $10 million promoting open enrollment, which starts in November. The Obama administration spent $100 million last year. (<a href="https://www.axios.com/hhs-cuts-aca-advertising-budget-by-90-percent-2480029656.html">Axios</a>)</p>
 
 
 
@@ -312,7 +387,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/10/day-203/">August 10, 2017</a></small></div>
-<p><strong>The White House has failed to coordinate with a coalition of Latino organizations to develop Affordable Care Act outreach campaigns</strong> ahead of the open enrollment period, which begins on November 1st. Since 2013, the Department of Health and Human Services and the White House have helped develop education campaigns aimed at helping millions of Latinos sign up for health insurance. Trump has repeatedly announced his intention to “let Obamacare implode." (<a href="http://talkingpointsmemo.com/dc/trump-hhs-abandons-latino-outreach-on-obamacare">Talking Points Memo</a>)</p>
+<p><strong>The White House has failed to coordinate with a coalition of Latino organizations to develop <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> outreach campaigns</strong> ahead of the open enrollment period, which begins on November 1st. Since 2013, the Department of Health and Human Services and the White House have helped develop education campaigns aimed at helping millions of Latinos sign up for health insurance. Trump has repeatedly announced his intention to “let Obamacare implode." (<a href="http://talkingpointsmemo.com/dc/trump-hhs-abandons-latino-outreach-on-obamacare">Talking Points Memo</a>)</p>
 
 
 
@@ -327,7 +402,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/09/day-202/">August 09, 2017</a></small></div>
-<p><strong>Trump pushed back on Mitch McConnell's "excessive expectations" line about the legislative progress and his agenda</strong>, tweeting that "After 7 years of hearing Repeal and Replace, why not done?" in reference to Republicans' promise to repeal and replace the Affordable Care Act. The White House director of social media, Dan Scavino, added his own take: "More excuses. @SenateMajLdr must have needed another 4 years - in addition to the 7 years – to repeal and replace Obamacare." (<a href="https://www.vox.com/policy-and-politics/2017/8/9/16118536/mitch-mcconnell-scavino-trump">Vox</a> / <a href="http://www.cnn.com/2017/08/09/politics/mitch-mcconnell-dan-scavino/">CNN</a>)</p>
+<p><strong>Trump pushed back on Mitch McConnell's "excessive expectations" line about the legislative progress and his agenda</strong>, tweeting that "After 7 years of hearing Repeal and Replace, why not done?" in reference to Republicans' promise to repeal and replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. The White House director of social media, Dan Scavino, added his own take: "More excuses. @SenateMajLdr must have needed another 4 years - in addition to the 7 years – to repeal and replace Obamacare." (<a href="https://www.vox.com/policy-and-politics/2017/8/9/16118536/mitch-mcconnell-scavino-trump">Vox</a> / <a href="http://www.cnn.com/2017/08/09/politics/mitch-mcconnell-dan-scavino/">CNN</a>)</p>
 
 
 
@@ -337,7 +412,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/08/01/day-194/">August 01, 2017</a></small></div>
-<p><strong>Senate Republicans intend to move on from health care</strong>, despite Trump's  continued pressure to repeal and replace the Affordable Care Act. Republicans have signaled that they were looking for other victories, as the 50 votes needed to roll back Obamacare appears unlikely. (<a href="https://www.washingtonpost.com/powerpost/gop-leaders-say-its-time-for-senate-to-move-on-from-health-care/2017/07/31/d6000d3c-760d-11e7-9eac-d56bd5568db8_story.html">Washington Post</a>)</p>
+<p><strong>Senate Republicans intend to move on from health care</strong>, despite Trump's  continued pressure to repeal and replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. Republicans have signaled that they were looking for other victories, as the 50 votes needed to roll back Obamacare appears unlikely. (<a href="https://www.washingtonpost.com/powerpost/gop-leaders-say-its-time-for-senate-to-move-on-from-health-care/2017/07/31/d6000d3c-760d-11e7-9eac-d56bd5568db8_story.html">Washington Post</a>)</p>
 
 
 
@@ -352,7 +427,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/31/day-193/">July 31, 2017</a></small></div>
-<p><strong>Kellyanne Conway said Trump would make a decision "this week" on whether to make Obamacare payments</strong>. Trump tweeted a warning on Saturday that if Congress didn't pass a bill to overhaul the Affordable Care Act soon, he would end the "bailouts" for insurance companies as well as for members of Congress. (<a href="http://www.cnn.com/2017/07/30/politics/kellyanne-conway-tom-price-obamacare/index.html">CNN</a>)</p>
+<p><strong>Kellyanne Conway said Trump would make a decision "this week" on whether to make Obamacare payments</strong>. Trump tweeted a warning on Saturday that if Congress didn't pass a bill to overhaul the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> soon, he would end the "bailouts" for insurance companies as well as for members of Congress. (<a href="http://www.cnn.com/2017/07/30/politics/kellyanne-conway-tom-price-obamacare/index.html">CNN</a>)</p>
 
 
 
@@ -362,7 +437,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/31/day-193/">July 31, 2017</a></small></div>
-<p><strong>Health and Human Services secretary Tom Price suggested that he might expand waivers from the Affordable Care Act's individual mandate</strong> — a step that health insurers have warned against because it could drive up premiums. (<a href="https://www.axios.com/price-hints-hhs-might-weaken-individual-mandate-2467240678.html">Axios</a>)</p>
+<p><strong>Health and Human Services secretary Tom Price suggested that he might expand waivers from the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s individual mandate</strong> — a step that health insurers have warned against because it could drive up premiums. (<a href="https://www.axios.com/price-hints-hhs-might-weaken-individual-mandate-2467240678.html">Axios</a>)</p>
 
 
 
@@ -392,7 +467,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/28/day-190/">July 28, 2017</a></small></div>
-<p><strong>The night John McCain killed the GOP’s health care fight</strong>. A seven-year quest to undo the Affordable Care Act collapsed — at least for now — as John McCain kept his colleagues and the press corps in suspense over a little more than two hours late Thursday into early Friday. (<a href="https://www.washingtonpost.com/powerpost/the-night-john-mccain-killed-the-gops-health-care-fight/2017/07/28/f5acce58-7361-11e7-8f39-eeb7d3a2d304_story.html">Washington Post</a>)</p>
+<p><strong>The night John McCain killed the GOP’s health care fight</strong>. A seven-year quest to undo the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> collapsed — at least for now — as John McCain kept his colleagues and the press corps in suspense over a little more than two hours late Thursday into early Friday. (<a href="https://www.washingtonpost.com/powerpost/the-night-john-mccain-killed-the-gops-health-care-fight/2017/07/28/f5acce58-7361-11e7-8f39-eeb7d3a2d304_story.html">Washington Post</a>)</p>
 
 
 
@@ -437,17 +512,17 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/27/day-189/">July 27, 2017</a></small></div>
-<p><strong>Four Republicans said they would not vote for a slimmed-down partial repeal of the Affordable Care Act</strong> without guarantees that the House will negotiate a comprehensive measure. Read a different way: Senate Republicans hope the skinny repeal won't become law. Lindsey Graham, John McCain, Bill Cassidy, and Ron Johnson want a guarantee from Paul Ryan that the bill will go to conference committee and not simply passed by the House and sent to Trump. Meanwhile, House Majority Leader Kevin McCarthy is warning lawmakers to hold off on leaving for the August recess this weekend in case the Senate passes a bill and they're under pressure to act. “The skinny bill as policy is a disaster,” Graham said. (<a href="https://www.nytimes.com/2017/07/27/us/politics/senate-health-care-vote.html">New York Times</a> / <a href="http://www.politico.com/story/2017/07/27/obamacare-repeal-republicans-status-241025">Politico</a> / <a href="http://thehill.com/homenews/house/344183-house-members-warned-august-recess-could-be-delayed">The Hill</a>)</p>
+<p><strong>Four Republicans said they would not vote for a slimmed-down partial repeal of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong> without guarantees that the House will negotiate a comprehensive measure. Read a different way: Senate Republicans hope the skinny repeal won't become law. Lindsey Graham, John McCain, Bill Cassidy, and Ron Johnson want a guarantee from Paul Ryan that the bill will go to conference committee and not simply passed by the House and sent to Trump. Meanwhile, House Majority Leader Kevin McCarthy is warning lawmakers to hold off on leaving for the August recess this weekend in case the Senate passes a bill and they're under pressure to act. “The skinny bill as policy is a disaster,” Graham said. (<a href="https://www.nytimes.com/2017/07/27/us/politics/senate-health-care-vote.html">New York Times</a> / <a href="http://www.politico.com/story/2017/07/27/obamacare-repeal-republicans-status-241025">Politico</a> / <a href="http://thehill.com/homenews/house/344183-house-members-warned-august-recess-could-be-delayed">The Hill</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/26/day-188/">July 26, 2017</a></small></div>
-<p><strong>Senate Republicans shot down their own repeal-and-replace bill</strong> last night as nine of the 52 Republicans voted against it. The repeal-and-replace bill was a compromise measure meant to appeal to both conservatives and moderate Republicans. Mitch McConnell needed 60 votes to pass the bill. Instead, the vote failed 43-57 just hours after the Senate had narrowly voted to begin debate on a bill to repeal the Affordable Care Act. (<a href="https://www.nytimes.com/2017/07/25/us/politics/senate-health-care.html">New York Times</a> / <a href="https://www.washingtonpost.com/powerpost/gop-leaders-press-ahead-with-health-care-vote-in-hopes-of-sustaining-repeal-effort/2017/07/25/2525470c-7126-11e7-8839-ec48ec4cae25_story.html">Washington Post</a> / <a href="https://www.reuters.com/article/us-usa-healthcare-idUSKBN1AB19G">Reuters</a> / <a href="http://www.cnn.com/2017/07/25/politics/senate-health-care-vote/index.html">CNN</a>)</p>
+<p><strong>Senate Republicans shot down their own repeal-and-replace bill</strong> last night as nine of the 52 Republicans voted against it. The repeal-and-replace bill was a compromise measure meant to appeal to both conservatives and moderate Republicans. Mitch McConnell needed 60 votes to pass the bill. Instead, the vote failed 43-57 just hours after the Senate had narrowly voted to begin debate on a bill to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. (<a href="https://www.nytimes.com/2017/07/25/us/politics/senate-health-care.html">New York Times</a> / <a href="https://www.washingtonpost.com/powerpost/gop-leaders-press-ahead-with-health-care-vote-in-hopes-of-sustaining-repeal-effort/2017/07/25/2525470c-7126-11e7-8839-ec48ec4cae25_story.html">Washington Post</a> / <a href="https://www.reuters.com/article/us-usa-healthcare-idUSKBN1AB19G">Reuters</a> / <a href="http://www.cnn.com/2017/07/25/politics/senate-health-care-vote/index.html">CNN</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/26/day-188/">July 26, 2017</a></small></div>
-<p><strong>The Senate rejected the GOP repeal-only measure</strong>, which would have repealed major parts of the Affordable Care Act without providing a replacement. The vote failed 45-55. The last viable path for Senate Republicans is to now try their "skinny repeal," which rolls back the mandate that most people have insurance, but leaves most of Obama’s health law in place. Senators would then take their narrow bill into negotiations with the House. (<a href="https://www.nytimes.com/2017/07/26/us/politics/health-care-senate-vote.html">New York Times</a> / <a href="https://www.washingtonpost.com/powerpost/senate-embarks-on-new-round-of-voting-to-peel-back-affordable-care-act/2017/07/26/a7206f62-71e8-11e7-9eac-d56bd5568db8_story.html">Washington Post</a> / <a href="http://www.cnn.com/2017/07/26/politics/health-care-bill-wednesday/index.html">CNN</a>)</p>
+<p><strong>The Senate rejected the GOP repeal-only measure</strong>, which would have repealed major parts of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> without providing a replacement. The vote failed 45-55. The last viable path for Senate Republicans is to now try their "skinny repeal," which rolls back the mandate that most people have insurance, but leaves most of Obama’s health law in place. Senators would then take their narrow bill into negotiations with the House. (<a href="https://www.nytimes.com/2017/07/26/us/politics/health-care-senate-vote.html">New York Times</a> / <a href="https://www.washingtonpost.com/powerpost/senate-embarks-on-new-round-of-voting-to-peel-back-affordable-care-act/2017/07/26/a7206f62-71e8-11e7-9eac-d56bd5568db8_story.html">Washington Post</a> / <a href="http://www.cnn.com/2017/07/26/politics/health-care-bill-wednesday/index.html">CNN</a>)</p>
 
 
 
@@ -477,7 +552,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/25/day-187/">July 25, 2017</a></small></div>
-<p>Then a period known as <em>vote-a-rama</em> happens, where Senators votes on the amendments. The first amendment will be the Obamacare Repeal Reconciliation Act, which repeals most of the Affordable Care Act without a replacement.</p>
+<p>Then a period known as <em>vote-a-rama</em> happens, where Senators votes on the amendments. The first amendment will be the Obamacare Repeal Reconciliation Act, which repeals most of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> without a replacement.</p>
 
 
 
@@ -492,7 +567,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/25/day-187/">July 25, 2017</a></small></div>
-<p><strong>Senate Republicans don't know what's in their health care plan, but they voted anyway on the motion to proceed</strong>. About a half-dozen senators were publicly undecided about whether to start debate on rolling back the Affordable Care Act. Several senators have said they want a "replace" plan ready to go before voting "yes." An agreed upon replace plan is not in place. The bill will have to pass the House before making its way to Trump's desk. McConnell forced the procedural vote to put every senator on record. (<a href="http://www.politico.com/story/2017/07/25/obamacare-repeal-vote-senate-republicans-240926">Politico</a> / <a href="https://www.vox.com/policy-and-politics/2017/7/25/16022564/senate-health-care-bill-vote-really-coming">Vox</a> / <a href="http://www.cnn.com/2017/07/25/politics/senate-poised-to-vote-today-on-health-care/index.html">CNN</a>)</p>
+<p><strong>Senate Republicans don't know what's in their health care plan, but they voted anyway on the motion to proceed</strong>. About a half-dozen senators were publicly undecided about whether to start debate on rolling back the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. Several senators have said they want a "replace" plan ready to go before voting "yes." An agreed upon replace plan is not in place. The bill will have to pass the House before making its way to Trump's desk. McConnell forced the procedural vote to put every senator on record. (<a href="http://www.politico.com/story/2017/07/25/obamacare-repeal-vote-senate-republicans-240926">Politico</a> / <a href="https://www.vox.com/policy-and-politics/2017/7/25/16022564/senate-health-care-bill-vote-really-coming">Vox</a> / <a href="http://www.cnn.com/2017/07/25/politics/senate-poised-to-vote-today-on-health-care/index.html">CNN</a>)</p>
 
 
 
@@ -532,7 +607,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/19/day-181/">July 19, 2017</a></small></div>
-<p><strong>Trump is threatening to gut the Obamacare markets</strong>, repeatedly telling aides and advisers that he wants to end the subsidy payments. The deadline for sending out the monthly Affordable Care Act subsidies to health plans is Thursday. Trump has the discretion to decide unilaterally whether the payments continue while a lawsuit House Republicans won in 2014 is being appealed. (<a href="http://www.politico.com/story/2017/07/18/trump-obamacare-markets-subsidies-cut-240684">Politico</a>)</p>
+<p><strong>Trump is threatening to gut the Obamacare markets</strong>, repeatedly telling aides and advisers that he wants to end the subsidy payments. The deadline for sending out the monthly <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> subsidies to health plans is Thursday. Trump has the discretion to decide unilaterally whether the payments continue while a lawsuit House Republicans won in 2014 is being appealed. (<a href="http://www.politico.com/story/2017/07/18/trump-obamacare-markets-subsidies-cut-240684">Politico</a>)</p>
 
 
 
@@ -617,7 +692,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/13/day-175/">July 13, 2017</a></small></div>
-<p><strong>Two Republican senators introduced an alternative health care plan</strong> moments before McConnell briefed senators on the revised bill to repeal and replace the Affordable Care Act. The plan by Lindsey Graham and Bill Cassidy would keep most of Obamacare's federal taxes in place, but direct that money to the states to control. "We're going to support Mitch's effort with his new plan, but we want an alternative and we're going to see which one can get 50 votes," Graham said. "We're not undercutting Mitch, he's not undercutting us." (<a href="http://www.cnn.com/2017/07/13/politics/lindsey-graham-bill-cassidy-health-care-plan/">CNN</a> / <a href="http://www.politico.com/story/2017/07/13/lindsey-graham-health-care-proposal-240503">Politico</a>)</p>
+<p><strong>Two Republican senators introduced an alternative health care plan</strong> moments before McConnell briefed senators on the revised bill to repeal and replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. The plan by Lindsey Graham and Bill Cassidy would keep most of Obamacare's federal taxes in place, but direct that money to the states to control. "We're going to support Mitch's effort with his new plan, but we want an alternative and we're going to see which one can get 50 votes," Graham said. "We're not undercutting Mitch, he's not undercutting us." (<a href="http://www.cnn.com/2017/07/13/politics/lindsey-graham-bill-cassidy-health-care-plan/">CNN</a> / <a href="http://www.politico.com/story/2017/07/13/lindsey-graham-health-care-proposal-240503">Politico</a>)</p>
 
 
 
@@ -662,7 +737,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/07/Day-169/">July 07, 2017</a></small></div>
-<p>poll/ <strong>28.2% support the GOP health care bill – the most unpopular legislation in three decades</strong>. It's less popular than the Affordable Care Act when it was passed, the 2008 bank bailout bill, and Bill Clinton's failed health reform effort in the 1990s. (<a href="https://www.axios.com/unpopular-health-care-bill-2454397857.html">Axios</a>)</p>
+<p>poll/ <strong>28.2% support the GOP health care bill – the most unpopular legislation in three decades</strong>. It's less popular than the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> when it was passed, the 2008 bank bailout bill, and Bill Clinton's failed health reform effort in the 1990s. (<a href="https://www.axios.com/unpopular-health-care-bill-2454397857.html">Axios</a>)</p>
 
 
 
@@ -852,7 +927,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/30/Day-131/">May 30, 2017</a></small></div>
-<p><strong>Trump is expected to roll back Obamacare's birth control coverage for religious employers</strong>. The White House is reviewing a draft rule to provide "conscience-based objections to the preventive-care mandate," which would undo the required free contraception requirement from the Affordable Care Act. (<a href="https://www.nytimes.com/2017/05/29/us/politics/birth-control-trump-obamacare-religion.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/to-your-health/wp/2017/05/30/trump-administration-draft-rule-rolls-back-birth-control-coverage-for-religious-employers/">Washington Post</a>)</p>
+<p><strong>Trump is expected to roll back Obamacare's birth control coverage for religious employers</strong>. The White House is reviewing a draft rule to provide "conscience-based objections to the preventive-care mandate," which would undo the required free contraception requirement from the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. (<a href="https://www.nytimes.com/2017/05/29/us/politics/birth-control-trump-obamacare-religion.html">New York Times</a> / <a href="https://www.washingtonpost.com/news/to-your-health/wp/2017/05/30/trump-administration-draft-rule-rolls-back-birth-control-coverage-for-religious-employers/">Washington Post</a>)</p>
 
 
 
@@ -917,7 +992,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/08/Day-109/">May 08, 2017</a></small></div>
-<p><strong>Obama called on members of Congress to exercise the “political courage” to save the Affordable Care Act</strong>. In his first public comments about the law since the House voted to repeal it, Obama urged Republicans to be guided by a personal standard of ethics and integrity. "It takes great courage to champion the vulnerable and the sick and the infirm." (<a href="http://www.npr.org/2017/05/08/527378943/obama-calls-on-congress-to-have-courage-on-health-care" target="_blank">NPR</a> / <a href="http://www.politico.com/story/2017/05/07/obama-courage-health-care-238094" target="_blank">Politico</a>)</p>
+<p><strong>Obama called on members of Congress to exercise the “political courage” to save the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. In his first public comments about the law since the House voted to repeal it, Obama urged Republicans to be guided by a personal standard of ethics and integrity. "It takes great courage to champion the vulnerable and the sick and the infirm." (<a href="http://www.npr.org/2017/05/08/527378943/obama-calls-on-congress-to-have-courage-on-health-care" target="_blank">NPR</a> / <a href="http://www.politico.com/story/2017/05/07/obama-courage-health-care-238094" target="_blank">Politico</a>)</p>
 
 
 
@@ -932,7 +1007,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/05/Day-106/">May 05, 2017</a></small></div>
-<p><strong>Health care looks to be the defining issue in the next election cycles</strong>. GOP members of Congress will be asked to defend their votes for a bill that could strip insurance from 24 million Americans and jack up premiums and deductibles for the country’s sickest and oldest citizens in the 2018 midterms. Meanwhile, governors, gubernatorial candidates, and state legislators will be asked whether they intend to “opt out” of provisions in the Affordable Care Act that are overwhelmingly popular with voters. (<a href="https://www.washingtonpost.com/politics/health-care-is-now-set-to-be-a-defining-issue-in-next-election-cycles/2017/05/05/cf8bafc2-3113-11e7-9dec-764dc781686f_story.html" target="_blank">Washington Post</a>)</p>
+<p><strong>Health care looks to be the defining issue in the next election cycles</strong>. GOP members of Congress will be asked to defend their votes for a bill that could strip insurance from 24 million Americans and jack up premiums and deductibles for the country’s sickest and oldest citizens in the 2018 midterms. Meanwhile, governors, gubernatorial candidates, and state legislators will be asked whether they intend to “opt out” of provisions in the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> that are overwhelmingly popular with voters. (<a href="https://www.washingtonpost.com/politics/health-care-is-now-set-to-be-a-defining-issue-in-next-election-cycles/2017/05/05/cf8bafc2-3113-11e7-9dec-764dc781686f_story.html" target="_blank">Washington Post</a>)</p>
 
 
 
@@ -947,7 +1022,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/04/Day-105/">May 04, 2017</a></small></div>
-<p><strong>House Republicans narrowly passed the controversial health care bill to repeal and replace the Affordable Care Act</strong>. The vote passed 217-213 six weeks after House leaders failed to get the votes needed to pass an earlier version of their bill. The bill included last-minute amendments designed to draw votes from the most conservative House Republicans in the House Freedom Caucus as well as from their more moderate counterparts. The vote occurred before the Congressional Budget Office had released a new analysis of the revised bill with its cost and impact. The measure moves to the Senate, where its fate is far from certain. Democrats are confident that some provisions of the House bill will not comply with special budget rules that Republicans must follow in order to skirt a Senate filibuster. (<a href="https://www.washingtonpost.com/powerpost/republicans-plan-health-care-vote-on-thursday-capping-weeks-of-fits-and-starts/2017/05/03/e7dd7c28-306d-11e7-9dec-764dc781686f_story.html" target="_blank">Washington Post</a> / <a href="http://www.npr.org/2017/05/04/526866090/house-passes-gop-health-care-bill" target="_blank">NPR</a> / <a href="https://www.nytimes.com/2017/05/04/us/politics/health-care-bill-vote.html" target="_blank">New York Times</a>)</p>
+<p><strong>House Republicans narrowly passed the controversial health care bill to repeal and replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. The vote passed 217-213 six weeks after House leaders failed to get the votes needed to pass an earlier version of their bill. The bill included last-minute amendments designed to draw votes from the most conservative House Republicans in the House Freedom Caucus as well as from their more moderate counterparts. The vote occurred before the Congressional Budget Office had released a new analysis of the revised bill with its cost and impact. The measure moves to the Senate, where its fate is far from certain. Democrats are confident that some provisions of the House bill will not comply with special budget rules that Republicans must follow in order to skirt a Senate filibuster. (<a href="https://www.washingtonpost.com/powerpost/republicans-plan-health-care-vote-on-thursday-capping-weeks-of-fits-and-starts/2017/05/03/e7dd7c28-306d-11e7-9dec-764dc781686f_story.html" target="_blank">Washington Post</a> / <a href="http://www.npr.org/2017/05/04/526866090/house-passes-gop-health-care-bill" target="_blank">NPR</a> / <a href="https://www.nytimes.com/2017/05/04/us/politics/health-care-bill-vote.html" target="_blank">New York Times</a>)</p>
 
 
 
@@ -977,7 +1052,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/05/04/Day-105/">May 04, 2017</a></small></div>
-<p><strong>Trump signed an order aimed at allowing churches to engage in more political activity</strong>. The executive order would provide "regulatory relief" from the Affordable Care Act's requirement that health insurance cover birth control and other family planning services. The signing took place on the National Day of Prayer. (<a href="http://www.politico.com/story/2017/05/03/trump-to-relax-enforcement-of-political-activity-by-religious-groups-237958" target="_blank">Politico</a> / <a href="https://www.washingtonpost.com/politics/trump-signs-order-aimed-at-allowing-churches-to-engage-in-more-political-activity/2017/05/04/024ed7c2-30d3-11e7-9534-00e4656c22aa_story.html" target="_blank">Washington Post</a>)</p>
+<p><strong>Trump signed an order aimed at allowing churches to engage in more political activity</strong>. The executive order would provide "regulatory relief" from the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>'s requirement that health insurance cover birth control and other family planning services. The signing took place on the National Day of Prayer. (<a href="http://www.politico.com/story/2017/05/03/trump-to-relax-enforcement-of-political-activity-by-religious-groups-237958" target="_blank">Politico</a> / <a href="https://www.washingtonpost.com/politics/trump-signs-order-aimed-at-allowing-churches-to-engage-in-more-political-activity/2017/05/04/024ed7c2-30d3-11e7-9534-00e4656c22aa_story.html" target="_blank">Washington Post</a>)</p>
 
 
 
@@ -1017,7 +1092,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/28/Day-99/">April 28, 2017</a></small></div>
-<p><strong>House Republicans failed to round up enough votes for their bill to repeal the Affordable Care Act. Again.</strong> Revisions to the bill won over the Freedom Caucus this week, but those same changes drove away other members, including some who supported the first version. (<a href="https://www.nytimes.com/2017/04/27/us/politics/republicans-propose-short-term-funding-plan-to-avert-shutdown.html" target="_blank">New York Times</a>)</p>
+<p><strong>House Republicans failed to round up enough votes for their bill to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. Again.</strong> Revisions to the bill won over the Freedom Caucus this week, but those same changes drove away other members, including some who supported the first version. (<a href="https://www.nytimes.com/2017/04/27/us/politics/republicans-propose-short-term-funding-plan-to-avert-shutdown.html" target="_blank">New York Times</a>)</p>
 
 
 
@@ -1037,7 +1112,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/26/Day-97/">April 26, 2017</a></small></div>
-<p><strong>Lawmakers are leaning toward passing a one-week funding extension to avoid a shutdown</strong>. In the meantime, the White House said it would continue paying Affordable Care Act cost-sharing subsidies. (<a href="http://www.politico.com/story/2017/04/26/nancy-pelosi-mick-mulvaney-clash-budget-237630" target="_blank">Politico</a>)</p>
+<p><strong>Lawmakers are leaning toward passing a one-week funding extension to avoid a shutdown</strong>. In the meantime, the White House said it would continue paying <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> cost-sharing subsidies. (<a href="http://www.politico.com/story/2017/04/26/nancy-pelosi-mick-mulvaney-clash-budget-237630" target="_blank">Politico</a>)</p>
 
 
 
@@ -1082,7 +1157,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/12/Day-83/">April 12, 2017</a></small></div>
-<p><strong>Shifting course, Trump says health care repeal must happen before tax overhaul</strong>. Congressional budget rules will make it easier to pass broad overhauls of the tax code once the $1 trillion in Affordable Care Act taxes have been repealed. (<a href="https://www.washingtonpost.com/news/wonk/wp/2017/04/12/trump-changes-course-again-says-health-care-repeal-must-happen-before-tax-overhaul/" target="_blank">Washington Post</a>)</p>
+<p><strong>Shifting course, Trump says health care repeal must happen before tax overhaul</strong>. Congressional budget rules will make it easier to pass broad overhauls of the tax code once the $1 trillion in <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> taxes have been repealed. (<a href="https://www.washingtonpost.com/news/wonk/wp/2017/04/12/trump-changes-course-again-says-health-care-repeal-must-happen-before-tax-overhaul/" target="_blank">Washington Post</a>)</p>
 
 
 
@@ -1097,7 +1172,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/05/Day-76/">April 05, 2017</a></small></div>
-<p>poll/ <strong>55% approve of the Affordable Care Act</strong>. (<a href="http://www.gallup.com/poll/207671/affordable-care-act-gains-majority-approval-first-time.aspx" target="_blank">Gallup</a>)</p>
+<p>poll/ <strong>55% approve of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. (<a href="http://www.gallup.com/poll/207671/affordable-care-act-gains-majority-approval-first-time.aspx" target="_blank">Gallup</a>)</p>
 
 
 
@@ -1157,12 +1232,12 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/28/Day-68/">March 28, 2017</a></small></div>
-<p><strong>House Republicans and the White House have restarted negotiations on legislation to repeal the Affordable Care Act</strong>. Just days after Trump said he was moving on to other issues, the White House is now saying hope they can still score the kind of big legislative victory that has so far eluded Trump. (<a href="https://www.nytimes.com/2017/03/28/us/politics/health-care-obamacare-freedom-caucus.html" target="_blank">New York Times</a>)</p>
+<p><strong>House Republicans and the White House have restarted negotiations on legislation to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>. Just days after Trump said he was moving on to other issues, the White House is now saying hope they can still score the kind of big legislative victory that has so far eluded Trump. (<a href="https://www.nytimes.com/2017/03/28/us/politics/health-care-obamacare-freedom-caucus.html" target="_blank">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/27/Day-67/">March 27, 2017</a></small></div>
-<p><strong>Republicans set their sights on tax reform</strong> after the bruising collapse of their health care plan. The failure also makes the tax overhaul more politically complex. If Republicans use a procedure called budget reconciliation to have the Senate pass tax legislation with a simple majority, their plans cannot add to deficits over a period of 10 years. Eliminating the $1 trillion of Affordable Care Act taxes and the federal spending associated with that law would have made this easier. (<a href="https://www.nytimes.com/2017/03/26/us/politics/trump-republicans-tax-cuts.html" target="_blank">New York Times</a>)</p>
+<p><strong>Republicans set their sights on tax reform</strong> after the bruising collapse of their health care plan. The failure also makes the tax overhaul more politically complex. If Republicans use a procedure called budget reconciliation to have the Senate pass tax legislation with a simple majority, their plans cannot add to deficits over a period of 10 years. Eliminating the $1 trillion of <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> taxes and the federal spending associated with that law would have made this easier. (<a href="https://www.nytimes.com/2017/03/26/us/politics/trump-republicans-tax-cuts.html" target="_blank">New York Times</a>)</p>
 
 
 
@@ -1177,7 +1252,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/26/Day-66/">March 26, 2017</a></small></div>
-<p><strong>Fox News host demands Paul Ryan resign, hours after Trump urged followers to watch</strong>. Jeanine Pirro, host of “Justice With Judge Jeanine,” delivered a diatribe against the House speaker, calling on him to step down after letting Trump down by not doing his share of the work in corralling Republican votes to fulfill a seven-year promise to repeal and replace the Affordable Care Act. (<a href="https://www.nytimes.com/2017/03/26/us/politics/jeanine-pirro-paul-ryan-trump.html" target="_blank">New York Times</a>)</p>
+<p><strong>Fox News host demands Paul Ryan resign, hours after Trump urged followers to watch</strong>. Jeanine Pirro, host of “Justice With Judge Jeanine,” delivered a diatribe against the House speaker, calling on him to step down after letting Trump down by not doing his share of the work in corralling Republican votes to fulfill a seven-year promise to repeal and replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. (<a href="https://www.nytimes.com/2017/03/26/us/politics/jeanine-pirro-paul-ryan-trump.html" target="_blank">New York Times</a>)</p>
 
 
 
@@ -1302,12 +1377,12 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/15/Day-55/">March 15, 2017</a></small></div>
-<p>poll/ <strong>Only 24% of voters support the GOP health care plan</strong>. The Affordable Care Act, meanwhile, continues to post some of the best numbers it has ever seen, with 47% of voters in favor of it to 39% who are opposed. (<a href="http://www.publicpolicypolling.com/main/2017/03/only-24-of-voters-support-gop-health-care-plan.html" target="_blank">Public Policy Polling</a>)</p>
+<p>poll/ <strong>Only 24% of voters support the GOP health care plan</strong>. The <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>, meanwhile, continues to post some of the best numbers it has ever seen, with 47% of voters in favor of it to 39% who are opposed. (<a href="http://www.publicpolicypolling.com/main/2017/03/only-24-of-voters-support-gop-health-care-plan.html" target="_blank">Public Policy Polling</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/14/Day-54/">March 14, 2017</a></small></div>
-<p><strong>White House tries to salvage GOP health-care proposal as criticism mounts</strong>. The White House has launched an intensive effort to salvage support for the Republican plan to revise the Affordable Care Act, even as a growing number of lawmakers weighed in against the proposal. (<a href="https://www.washingtonpost.com/powerpost/conservative-lawmakers-continue-to-push-back-on-obamacare-plan/2017/03/14/f7331e70-08aa-11e7-93dc-00f9bdd74ed1_story.html" target="_blank">Washington Post</a>)</p>
+<p><strong>White House tries to salvage GOP health-care proposal as criticism mounts</strong>. The White House has launched an intensive effort to salvage support for the Republican plan to revise the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>, even as a growing number of lawmakers weighed in against the proposal. (<a href="https://www.washingtonpost.com/powerpost/conservative-lawmakers-continue-to-push-back-on-obamacare-plan/2017/03/14/f7331e70-08aa-11e7-93dc-00f9bdd74ed1_story.html" target="_blank">Washington Post</a>)</p>
 
 
 
@@ -1362,12 +1437,12 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/09/Day-49/">March 09, 2017</a></small></div>
-<p><strong>The House Ways and Means Committee gave an approval to a major part of the Republican plan to repeal and replace the Affordable Care Act</strong>, rejecting a flurry of Democratic amendments. Republicans are a step closer to a full vote on the measure despite the growing opposition of senators, health care providers, and some conservatives. The White House is increasingly confident about the prospects for a health care overhaul to pass in the House. Trump anticipates the most trouble in the Senate, where moderate and conservative lawmakers are opposing the plan for different reasons. He said he was prepared to pressure holdout senators by holding the kind of stadium-style rallies he led during his presidential campaign. (<a href="https://www.nytimes.com/2017/03/09/us/politics/health-bill-clears-house-panel-in-pre-dawn-hours.html" target="_blank">New York Times</a>)</p>
+<p><strong>The House Ways and Means Committee gave an approval to a major part of the Republican plan to repeal and replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>, rejecting a flurry of Democratic amendments. Republicans are a step closer to a full vote on the measure despite the growing opposition of senators, health care providers, and some conservatives. The White House is increasingly confident about the prospects for a health care overhaul to pass in the House. Trump anticipates the most trouble in the Senate, where moderate and conservative lawmakers are opposing the plan for different reasons. He said he was prepared to pressure holdout senators by holding the kind of stadium-style rallies he led during his presidential campaign. (<a href="https://www.nytimes.com/2017/03/09/us/politics/health-bill-clears-house-panel-in-pre-dawn-hours.html" target="_blank">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/09/Day-49/">March 09, 2017</a></small></div>
-<p><strong>Trump goes into dealmaking mode, working behind the scenes on health bill</strong> and quietly courting wary conservatives in private meetings and keeping himself somewhat out of the picture as party leaders and his Cabinet officials defend the proposal to revise the Affordable Care Act. “If we need to bring in the big gun, we’ll bring in the big gun” – meaning Trump. (<a href="https://www.washingtonpost.com/politics/trump-goes-into-dealmaking-mode-works-behind-the-scenes-on-health-bill/2017/03/08/1dc87bb2-0422-11e7-b9fa-ed727b644a0b_story.html" target="_blank">Washington Post</a>)</p>
+<p><strong>Trump goes into dealmaking mode, working behind the scenes on health bill</strong> and quietly courting wary conservatives in private meetings and keeping himself somewhat out of the picture as party leaders and his Cabinet officials defend the proposal to revise the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. “If we need to bring in the big gun, we’ll bring in the big gun” – meaning Trump. (<a href="https://www.washingtonpost.com/politics/trump-goes-into-dealmaking-mode-works-behind-the-scenes-on-health-bill/2017/03/08/1dc87bb2-0422-11e7-b9fa-ed727b644a0b_story.html" target="_blank">Washington Post</a>)</p>
 
 
 
@@ -1422,22 +1497,22 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/01/Day-41/">March 01, 2017</a></small></div>
-<p><strong>Republican governors divided on Obamacare replacement</strong>. States that expanded Medicaid coverage fear they''ll be left holding the bag if the federal government doesn't provide enough money to pay for the entitlement they expanded under the Affordable Care Act. (<a href="https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/02/28/daily-202-republican-governors-divided-on-obamacare-replacement/58b4e423e9b69b1406c75cfb/" target="_blank">Washington Post</a>)</p>
+<p><strong>Republican governors divided on Obamacare replacement</strong>. States that expanded Medicaid coverage fear they''ll be left holding the bag if the federal government doesn't provide enough money to pay for the entitlement they expanded under the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>. (<a href="https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2017/02/28/daily-202-republican-governors-divided-on-obamacare-replacement/58b4e423e9b69b1406c75cfb/" target="_blank">Washington Post</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/01/Day-41/">March 01, 2017</a></small></div>
-<p><strong>Fundamental disagreements remain between Republican leaders and the party’s most conservative members around the plan to replace the Affordable Care Act</strong>, particularly over the details of a proposed tax credit. (<a href="https://www.nytimes.com/2017/03/01/us/politics/affordable-care-act-health-care-trump.html" target="_blank">New York Times</a>)</p>
+<p><strong>Fundamental disagreements remain between Republican leaders and the party’s most conservative members around the plan to replace the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a></strong>, particularly over the details of a proposed tax credit. (<a href="https://www.nytimes.com/2017/03/01/us/politics/affordable-care-act-health-care-trump.html" target="_blank">New York Times</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/28/Day-40/">February 28, 2017</a></small></div>
-<p><strong>Trump urges insurers to work together to "save Americans from Obamacare.”</strong> Trump met with major health insurers in the midst of political divisions over how to dismantle and replace Obama's signature health-care law and intensifying public pressure to preserve the policy. He criticized the Affordable Care Act for creating minimal health coverage requirements that restricted the types of plans insurers could sell. (<a href="https://www.washingtonpost.com/news/wonk/wp/2017/02/27/trump-urges-insurers-to-work-together-to-save-americans-from-obamacare/" target="_blank">Washington Post</a>)</p>
+<p><strong>Trump urges insurers to work together to "save Americans from Obamacare.”</strong> Trump met with major health insurers in the midst of political divisions over how to dismantle and replace Obama's signature health-care law and intensifying public pressure to preserve the policy. He criticized the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> for creating minimal health coverage requirements that restricted the types of plans insurers could sell. (<a href="https://www.washingtonpost.com/news/wonk/wp/2017/02/27/trump-urges-insurers-to-work-together-to-save-americans-from-obamacare/" target="_blank">Washington Post</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/27/Day-39/">February 27, 2017</a></small></div>
-<p><strong>GOP’s new plan to repeal Obamacare: Dare fellow Republicans to block the effort</strong>. Republican leaders are betting that the only way for Congress to repeal the Affordable Care Act is to set a bill in motion and gamble that wavering rank-and-file Republicans don't have the guts to block it. Republican lawmakers have expressed concerns about forging ahead with a repeal plan that could leave millions with no coverage — especially after enduring raucous town hall events during last week’s recess. (<a href="https://www.wsj.com/articles/gops-new-plan-to-repeal-obamacare-dare-fellow-republicans-to-block-effort-1488154291" target="_blank">Wall Street Journal</a>)</p>
+<p><strong>GOP’s new plan to repeal Obamacare: Dare fellow Republicans to block the effort</strong>. Republican leaders are betting that the only way for Congress to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> is to set a bill in motion and gamble that wavering rank-and-file Republicans don't have the guts to block it. Republican lawmakers have expressed concerns about forging ahead with a repeal plan that could leave millions with no coverage — especially after enduring raucous town hall events during last week’s recess. (<a href="https://www.wsj.com/articles/gops-new-plan-to-repeal-obamacare-dare-fellow-republicans-to-block-effort-1488154291" target="_blank">Wall Street Journal</a>)</p>
 
 
 
@@ -1452,7 +1527,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/24/Day-36/">February 24, 2017</a></small></div>
-<p><strong>Republican lawmakers expect that their Obamacare replacement will result in fewer Americans covered by health insurance</strong>. The new plan would do away with the Affordable Care Act’s requirement that all Americans have health coverage or pay a fine, and replace it with rules that let people choose not to buy insurance, instead paying higher premiums or penalties if they need it later. The result would be fewer people covered. (<a href="https://www.bloomberg.com/politics/articles/2017-02-24/gop-obamacare-plan-would-cover-fewer-people-blowback-grows" target="_blank">Bloomberg</a>)</p>
+<p><strong>Republican lawmakers expect that their Obamacare replacement will result in fewer Americans covered by health insurance</strong>. The new plan would do away with the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>’s requirement that all Americans have health coverage or pay a fine, and replace it with rules that let people choose not to buy insurance, instead paying higher premiums or penalties if they need it later. The result would be fewer people covered. (<a href="https://www.bloomberg.com/politics/articles/2017-02-24/gop-obamacare-plan-would-cover-fewer-people-blowback-grows" target="_blank">Bloomberg</a>)</p>
 
 
 
@@ -1467,7 +1542,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/24/Day-36/">February 24, 2017</a></small></div>
-<p>poll/ <strong>Support for Obamacare hits an all-time high</strong>. 54% of Americans approve of the Affordable Care Act, while 43% disapprove. That's up from an even split (48%-47%) in a Pew survey from December. (<a href="http://www.cnn.com/2017/02/24/politics/pew-survey-obamacare-support-record-high/" target="_blank">CNN</a>)</p>
+<p>poll/ <strong>Support for Obamacare hits an all-time high</strong>. 54% of Americans approve of the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>, while 43% disapprove. That's up from an even split (48%-47%) in a Pew survey from December. (<a href="http://www.cnn.com/2017/02/24/politics/pew-survey-obamacare-support-record-high/" target="_blank">CNN</a>)</p>
 
 
 
@@ -1477,7 +1552,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/02/22/Day-34/">February 22, 2017</a></small></div>
-<p>poll/ <strong>Support for Obamacare is rising</strong>. Voters are now split evenly on the Affordable Care Act: 45% of registered voters approve of the law, and 45% disapprove. Before Trump took office, the poll showed only 41% of voters approved vs 52% who disapproved. (<a href="http://www.politico.com/story/2017/02/obamacare-repeal-replace-poll-235245" target="_blank">Politico</a>)</p>
+<p>poll/ <strong>Support for Obamacare is rising</strong>. Voters are now split evenly on the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a>: 45% of registered voters approve of the law, and 45% disapprove. Before Trump took office, the poll showed only 41% of voters approved vs 52% who disapproved. (<a href="http://www.politico.com/story/2017/02/obamacare-repeal-replace-poll-235245" target="_blank">Politico</a>)</p>
 
 
 
@@ -1537,9 +1612,10 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/27/Day-8/">January 27, 2017</a></small></div>
-<p><strong>Republican lawmakers fret about how to repeal Obamacare.</strong> Republican lawmakers aired sharp concerns about their party’s quick push to repeal the Affordable Care Act inside a closed-door meeting Thursday, according to a recording of the session obtained by The Washington Post. (<a href="https://www.washingtonpost.com/politics/behind-closed-doors-republican-lawmakers-fret-about-how-to-repeal-obamacare/2017/01/27/deabdafa-e491-11e6-a547-5fb9411d332c_story.html">Washington Post</a>)</p>
+<p><strong>Republican lawmakers fret about how to repeal Obamacare.</strong> Republican lawmakers aired sharp concerns about their party’s quick push to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> inside a closed-door meeting Thursday, according to a recording of the session obtained by The Washington Post. (<a href="https://www.washingtonpost.com/politics/behind-closed-doors-republican-lawmakers-fret-about-how-to-repeal-obamacare/2017/01/27/deabdafa-e491-11e6-a547-5fb9411d332c_story.html">Washington Post</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/">January 20, 2017</a></small></div>
-<p><strong>New poll shows Obamacare is more popular than Donald Trump.</strong> Fox News finds that 50% of voters feel favorably about the Affordable Care Act compared to Donald Trump, whom 42% view favorably. President Obama received an approval rating of 60%. (<a href="http://www.vox.com/policy-and-politics/2017/1/20/14335268/obamacare-more-popular-than-trump-poll">Vox</a>)</p>
+<p><strong>New poll shows Obamacare is more popular than Donald Trump.</strong> Fox News finds that 50% of voters feel favorably about the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> compared to Donald Trump, whom 42% view favorably. President Obama received an approval rating of 60%. (<a href="http://www.vox.com/policy-and-politics/2017/1/20/14335268/obamacare-more-popular-than-trump-poll">Vox</a>)</p>
+

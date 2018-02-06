@@ -24,7 +24,13 @@ redirect_from: "/travel-ban/"
 
 
 
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/19/day-365/">January 19, 2018</a></small></div>
+<p><strong>The Supreme Court will decide the legality of Trump's latest travel ban</strong>, which targets people from six Muslim-majority countries. The court will hear arguments in April and issue a ruling by the end of June on whether the policy to block entry into the United States by most people from Chad, Iran, Libya, Somalia, Syria, and Yemen violates federal immigration law or the U.S. Constitution. (<a href="https://www.reuters.com/article/us-usa-court-immigration/supreme-court-to-decide-legality-of-trump-travel-ban-idUSKBN1F82EY">Reuters</a> / <a href="https://www.nytimes.com/2018/01/19/us/politics/supreme-court-trump-travel-ban.html">New York Times</a>)</p>
 
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/12/26/day-341/">December 26, 2017</a></small></div>
+<p><strong>The 9th US Circuit Court of Appeals ruled that the latest version of Trump's travel ban violates federal law, but will remain in effect anyway</strong>. Earlier this month, the Supreme Court issued an order saying the ban can be enforced while challenges to the policy move through the legal system. (<a href="https://www.cnn.com/2017/12/22/politics/trump-travel-ban-appeals-court/index.html">CNN</a>)</p>
 
 
 
@@ -129,12 +135,12 @@ redirect_from: "/travel-ban/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/08/Day-140/">June 08, 2017</a></small></div>
-<p><strong>Trump doesn't plan to fire Sessions</strong>, despite his frustration with Sessions for the handling of the administration’s failed travel ban and for recusing himself from the Russia probe. (<a href="https://www.bloomberg.com/politics/articles/2017-06-08/trump-said-to-have-no-plan-to-fire-sessions-as-attorney-general">Bloomberg</a>)</p>
+<p><strong>Trump doesn't plan to fire Sessions</strong>, despite his frustration with Sessions for the handling of the administration’s failed travel ban and for recusing himself from the <a href="/trump-russia-investigation/">Russia probe</a>. (<a href="https://www.bloomberg.com/politics/articles/2017-06-08/trump-said-to-have-no-plan-to-fire-sessions-as-attorney-general">Bloomberg</a>)</p>
 
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/06/Day-138/">June 06, 2017</a></small></div>
-<p><strong>Trump's frustration with Jeff Sessions grows</strong>, blaming him for the "watered down, politically correct version" of the travel ban. He's also upset with Sessions' decision to recuse himself from investigations related to the Russia probe. (<a href="https://www.nytimes.com/2017/06/05/us/politics/trump-discontent-attorney-general-jeff-sessions.html">New York Times</a>)</p>
+<p><strong>Trump's frustration with Jeff Sessions grows</strong>, blaming him for the "watered down, politically correct version" of the travel ban. He's also upset with Sessions' decision to recuse himself from investigations related to the <a href="/trump-russia-investigation/">Russia probe</a>. (<a href="https://www.nytimes.com/2017/06/05/us/politics/trump-discontent-attorney-general-jeff-sessions.html">New York Times</a>)</p>
 
 
 
@@ -405,7 +411,13 @@ redirect_from: "/travel-ban/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/28/Day-9/">January 28, 2017</a></small></div>
+<p><strong>A federal judge issued a stay against Donald Trump's "Muslim Ban".</strong> The ruling – a stunning defeat for Trump at the end of his first week in office – protects from deportation refugees or visa holders who were detained at American airports since the signing of so-called "Muslim ban." It also protects those in transit when the emergency ruling was filed. (<a href="http://www.motherjones.com/politics/2017/01/muslim-ban-federal-court">Mother Jones</a>)</p>
+
+
+
+<div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/01/28/Day-9/">January 28, 2017</a></small></div>
 <p><strong>Inside the confusion of the Trump executive order and travel ban.</strong> Administration officials weren't immediately sure which countries' citizens would be barred from entering the United States. The Department of Homeland Security was left making a legal analysis on the order after Trump signed it. A Border Patrol agent, confronted with arriving refugees, referred questions only to the President himself, according to court filings. (<a href="http://www.cnn.com/2017/01/28/politics/donald-trump-travel-ban/index.html">CNN</a>)</p>
+
 
 
 

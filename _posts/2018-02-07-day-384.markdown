@@ -1,0 +1,34 @@
+---
+title: Day 384
+date: 2018-02-07 13:36:00 -08:00
+description: 'Marching orders. '
+image: "/uploads/384.jpg"
+---
+
+1/ **Senate leaders struck a budget deal to increase defense and domestic spending by about $315 billion over two years** and add $90 billion more in disaster aid for victims of recent hurricanes and wildfires. The agreement also includes a four-year extension for the Children's Health Insurance Program, in addition to the six-year extension that Congress approved last month. Sarah Huckabee Sanders said the White . House supported the packing, calling it "steps forward." A vote on the plan in the Senate could come as soon as this afternoon. ([New York Times](https://www.nytimes.com/2018/02/07/us/politics/budget-deal-trump.html) / [Washington Post](https://www.washingtonpost.com/business/economy/spending-deal-in-jeopardy-as-pelosi-issues-last-minute-demand-on-immigration/2018/02/07/a07e4e68-0c1b-11e8-8890-372e2047c935_story.html))
+
+2/ **Nancy Pelosi, meanwhile, said she cannot agree to any budget deal without a vote on an immigration bill to protect Dreamers**. Pelosi began reading stories about Dreamers who aspire to become U.S. citizens from on the House floor at 10:04 a.m. and she hasn't stopped. "Without a commitment from Speaker Ryan comparable to the commitment from Leader McConnell, this package does not have my support," Pelosi said.  ([USA Today](https://www.usatoday.com/story/news/politics/onpolitics/2018/02/07/nancy-pelosi-spends-three-hours-reading-dreamer-stories-house-floor/315717002/) / [Politico](https://www.politico.com/story/2018/02/07/government-shutdown-senate-budget-deal-395984))
+
+{% twitter https://twitter.com/NancyPelosi/status/961273925031243776 %}
+
+3/ **A White House staff secretary resigned following allegations that he physically assaulted and emotional abused his two ex-wives**. Rob Porter, who is dating White House communications director Hope Hicks, called the allegations "outrageous" and "simply false," but resigned with an undetermined effective date anyway. John Kelly defended Porter, calling him "a man of true integrity and honor." ([CNN](https://www.cnn.com/2018/02/07/politics/rob-porter-white-house-resignation/index.html) / [Politico](https://www.politico.com/story/2018/02/07/white-house-aide-rob-porter-resigns-after-allegations-from-ex-wives-397407))
+
+4/ **Trump wants a grand military parade with soldiers marching and tanks** later this year in order to showcase the might of America's armed forces. "The marching orders were: I want a parade like the one in France," a military official said. From the Washington Post: "The inspiration for Trump’s push is last year's Bastille Day celebration in Paris, which the president attended as a guest of French President Emmanuel Macron. Trump was awestruck by the tableau of uniformed French troops marching down Avenue des Champs-Elysees with military tanks, armored vehicles, gun trucks and carriers — complete with fighter jets flying over the Arc de Triomphe and painting the sky with streaks of blue, white and red smoke for the colors of the French flag." ([Washington Post](https://www.washingtonpost.com/politics/trumps-marching-orders-to-the-pentagon-plan-a-grand-military-parade/2018/02/06/9e19ca88-0b55-11e8-8b0d-891602206fb7_story.html))
+
+5/ **Trump's allies are calling for a compromise when it comes to an interview with Robert Mueller.** They don't want Trump to sit down and speak freely with Mueller, but they also want to avoid a standoff that could make its way to the Supreme Court if neither side budges. Trump's legal team is exploring the possibility of a written exchange with Mueller. ([Politico](https://www.politico.com/story/2018/02/07/trump-mueller-russia-probe-395958))
+
+6/ **Trump still wants to talk to Mueller**, despite lawyers, friends and lawmakers urging to avoid a sit-down. Trump reportedly believes that he is entirely innocent, and his experience with lawsuits and testifying under oath during his time as a real estate mogul will allow him to get through his interview with Mueller unscathed. ([CNN](https://www.cnn.com/2018/02/06/politics/trump-mueller-interview/index.html))
+
+7/ **Rex Tillerson: Russia is already trying to influence the 2018 midterm election.** Tillerson warned that Russia has "a lot of different tools" that it can use to influence the election. He added: "I don't know that I would say we are better prepared, because the Russians will adapt, as well. The point is, if it's their intention to interfere, they are going to find ways to do that." ([Fox News](http://www.foxnews.com/politics/2018/02/06/russians-already-meddling-in-us-midterms-tillerson-says.html) / [NBC News](https://www.nbcnews.com/news/us-news/tillerson-warns-u-s-not-better-prepared-new-russian-election-n845396))
+
+poll/ **40% of Americans disapprove of Trump's job performance and 60%  say Trump is doing more to divide the country than to unite it**. In addition, 85% of Republicans say Trump is not a racist, 55% of men say Trump is not a racist, and 51% of white voters say Trump is not a racist. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=2518))
+
+---
+
+### Notables. 
+
+1. **Democrats are contemplating a post-Pelosi party**, which would likely trigger "an intraparty war," according to Rep. Alcee Hastings. ([Politico](https://www.politico.com/story/2018/02/06/nancy-pelosi-house-democrats-395924))
+
+2. **Democrats flipped a Missouri state House of Representatives seat that went for Trump in 2016.** Mike Revis, a 27-year-old Democrat, managed to beat out Republican David Linton by 108 votes, or about 3% of the vote. ([The Hill](http://thehill.com/homenews/state-watch/372670-dems-pick-up-deep-red-legislative-seat-in-missouri))
+
+3. **Pence vowed that the Trump administration "will soon unveil the toughest and most aggressive round of economic sanctions on North Korea ever."** ([Washington Post](https://www.washingtonpost.com/politics/north-korea-to-face-harshest-us-sanctions-ever-pence-vows/2018/02/07/7c8a67bc-0be9-11e8-baf5-e629fc1cd21e_story.html))

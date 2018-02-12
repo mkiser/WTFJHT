@@ -1,5 +1,0 @@
----
-layout: 
----
-
-{{ site.data.status | jsonify }}

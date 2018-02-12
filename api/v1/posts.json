@@ -6,6 +6,7 @@
     {
       "title"    : {{ post.title | jsonify }},
       "desc"     : {{ post.description | jsonify }},
+      "content"  : {{ post.content | jsonify }},
       "href"     : "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
       "date"     : {
          "day"   : "{{ post.date | date: "%d" }}",

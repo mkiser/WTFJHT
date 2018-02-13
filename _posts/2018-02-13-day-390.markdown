@@ -1,0 +1,24 @@
+---
+title: Day 390
+date: 2018-02-13 09:20:00 -08:00
+description: The United States is under attack.
+image: "/uploads/390.jpg"
+---
+
+1/ **U.S. intelligence agencies expect Russia to meddle in the 2018 midterm elections through hacking and social media manipulation**. During testimony at the Senate Intelligence Committee's annual hearing on worldwide threats, Director of National Intelligence Dan Coats told the committee: "Frankly, the United States is under attack" and that Russia will continue to engage in cyber attacks to "degrade our democratic values and weaken our alliances." He added: "There should be no doubt that Russia perceives its past efforts as successful and views the 2018 U.S. midterm elections as a potential target for Russian influence operations." ([New York Times](https://www.nytimes.com/2018/02/13/us/politics/russia-sees-midterm-elections-as-chance-to-sow-fresh-discord-intelligence-chiefs-warn.html) / [USA Today](https://www.usatoday.com/story/news/politics/2018/02/13/intelligence-director-coats-says-u-s-under-attack-putin-targeting-2018-elections/332566002/) / [NBC News](https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-expect-russia-escalate-election-meddling-efforts-n847551)) 
+
+2/ **FBI Director Christopher Wray contradicted the White House's timeline for Rob Porter**, saying the Bureau's file on Porter was closed in January 2018. Deputy Press Secretary Raj Shah issued a statement last week saying that Porter's "background investigation was ongoing" and that the White House was first contacted about Porter's clearance in July. Wray, testifying before the Senate Intelligence Committee, said the FBI submitted a partial report on Porter's clearance in March 2017 and that the investigation was completed in July. The FBI closed the file in January 2018, but received additional information in February, which "we passed that on as well." ([Axios](https://www.axios.com/fbi-director-contradicts-white-house-claim-that-porter-background-investigation-was-ongoing-1518537888-f4540b14-fc2f-4a46-8f3e-0230c9d93269.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/fbi-director-to-face-questions-on-security-clearances-and-agents-independence/2018/02/13/f3e4c706-105f-11e8-9570-29c9830535e5_story.html) / [USA Today](https://www.usatoday.com/story/news/politics/2018/02/13/fbi-director-wray-timeline-porter-defends-porter-clearance-inquiry-white-house-provided-partial-repo/332947002/))
+
+3/ **The system used to issue security clearances for top officials is "broken,"** according to Dan Coats. "We have a broken system and I think everybody's come to agree with that now." ([Associated Press](https://apnews.com/c679e75f53bb495183e490476f774115))
+
+4/ **The Trump administration proposed replacing food stamps with a monthly "American Harvest Box,"** full of government-picked, nonperishable foods. The proposal, buried in the White House fiscal 2019 budget, would include items like milk, peanut butter, canned fruits, and cereal. The administration claims the plan would save more than $129 billion over 10 years. ([Politico](https://www.politico.com/story/2018/02/12/food-stamps-trump-administration-343245))
+
+* **Nancy Pelosi shared a 2015 tweet from Trump claiming that he would not cut Medicare and Medicaid** after his budget proposed cuts to both programs. "There really is a tweet for everything," Pelosi wrote. ([The Hill](http://thehill.com/homenews/house/373503-pelosi-resurfaces-old-trump-tweet-vowing-no-cuts-to-medicaid-after-trump))
+
+* {% twitter https://twitter.com/NancyPelosi/status/963132524213030914 %}
+
+5/ **Trump warned Democrats that March 5 is the "last chance" to pass DACA.** The deadline is the same one he announced last year, but a [federal injunction](https://www.washingtonpost.com/local/immigration/daca-injunction-what-a-federal-judges-ruling-means-for-dreamers/2018/01/10/ecb5d492-f60c-11e7-a9e3-ab18ce41436a_story.html) temporarily blocking the plan to rescind work permits for young undocumented immigrants essentially renders the deadline meaningless. "Wouldn't it be great if we could finally, after so many years, solve the DACA puzzle," Trump tweeted. He added: "This will be our last chance, there will never be another opportunity! March 5th." ([ABC News](http://abcnews.go.com/Politics/wireStory/trump-pushes-immigration-deal-chance-pass-53040801))
+
+{% twitter https://twitter.com/realDonaldTrump/status/963365328716812288 %}
+
+6/ **More than 200 Russian mercenaries were killed in a clash with U.S. forces in Syria last week.** The fighters attacked a base and refinery held by the U.S. and were defeated. Defense Secretary Jim Mattis called the situation "perplexing," because it's not clear whether the attack was a rogue operation or if it was ordered by Russia. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-02-13/u-s-strikes-said-to-kill-scores-of-russian-fighters-in-syria))

@@ -1,7 +1,7 @@
 ---
 title: 'Day 392: "You guys are the adults."'
 date: 2018-02-15 15:09:00 -08:00
-file: "/uploads/Day-392.mp"
+file: "/uploads/Day-392.mp3"
 post: Day 392
 duration: '00:05:14'
 length: 5834387

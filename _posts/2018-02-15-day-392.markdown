@@ -5,7 +5,7 @@ description: '"You guys are the adults."'
 image: "/uploads/392.jpg"
 ---
 
-1/ **Trump, in a tweet, suggested that students and neighbors should have reported the Florida shooter to authorities**, saying there were "so many signs" that the shooter "was mentally disturbed."  ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-says-classmates-neighbors-should-have-reported-florida-gunman-n848246)) 
+1/ **Trump, in a tweet, suggested that students and neighbors should have reported the Florida shooter to authorities**, because there were "so many signs" that the shooter "was mentally disturbed." One of Trump's first actions as president was to undo a regulation that would have made it more difficult for people with a known mental illness to buy guns by requiring their names to be entered into the National Instant Criminal Background Check System. Nikolas Cruz [legally](https://www.washingtonpost.com/news/morning-mix/wp/2018/02/15/florida-shooting-suspect-nikolas-cruz-guns-depression-and-a-life-in-free-fall/) purchased the AR-15. ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-says-classmates-neighbors-should-have-reported-florida-gunman-n848246) / [ABC News](http://abcnews.go.com/Politics/trump-ended-rule-block-mentally-ill-guns/story?id=53113891))
 
 {% twitter https://twitter.com/realdonaldtrump/status/964110212885106689 %}
 

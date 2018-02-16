@@ -7,6 +7,8 @@ image: "/uploads/393.jpg"
 
 1/ **Robert Mueller's federal grand jury indicted 13 Russian nationals** and three Russian entities with the intent to interfere "with U.S. elections and political processes." Mueller's office said that the government accuses all the defendants of conspiracy to defraud the United States. Three defendants are charged with conspiracy to commit wire fraud and bank fraud. The indictment charges that a Russian organization, the Internet Research Agency, waged "information warfare" against the U.S. by using fictitious American personas and social media platforms for "supporting the presidential campaign of then-candidate Donald J. Trump ... and disparaging Hillary Clinton." ([CNBC](https://www.cnbc.com/2018/02/16/russians-indicted-in-special-counsel-robert-muellers-probe.html) / [ABC News](http://abcnews.go.com/Politics/special-counsel-indicts-13-russian-nationals-russia-investigation/story?id=53147082) / [Washington Post](https://www.washingtonpost.com/world/national-security/russian-troll-farm-13-suspects-indicted-for-interference-in-us-election/2018/02/16/2504de5e-1342-11e8-9570-29c9830535e5_story.html))
 
+{% twitter https://twitter.com/realDonaldTrump/status/964594780088033282 %}
+
 * **A California man charged with identity theft pleaded guilty in Mueller's probe**. Richard Pinedo is cooperating with prosecutors. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-02-16/u-s-charges-13-russians-3-companies-for-hacking-election))
 
 * 🔗  **Read the Internet Research Agency indictment**. ([Justice Department](https://www.justice.gov/file/1035477/download))

@@ -1,5 +1,5 @@
 ---
-title: 'Day 396: Incontrovertible'
+title: 'Day 396: Incontrovertible.'
 date: 2018-02-19 15:20:00 -08:00
 file: "/uploads/Day-396.mp3"
 post: Day 396

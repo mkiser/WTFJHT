@@ -9,8 +9,8 @@ _algolia_api_key
 vendor
 .bundle
 
-/public/*.jpg
-/_uploads/*.jpg
+/public/**.jpg
+/_uploads/**.jpg
 
 # Numerous always-ignore extensions
 *.diff

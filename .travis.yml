@@ -32,17 +32,10 @@ deploy:
   skip_cleanup: true
   on:
     repo: mkiser/WTFJHT
-after_deploy: 'curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache"
-  -H "X-Auth-Email: "$CLOUD_FLARE_EMAIL"" -H "X-Auth-Key: "$CLOUD_FLARE_API_KEY""
-  -H "Content-Type: application/json" --data "{\"purge_everything\":true}"'
 notifications:
   webhooks:
     - https://www.google.com/webmasters/tools/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
     - http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
-  slack:
-    on_success: always
-    on_failure: never
-    rooms:
-      secure: XjANFsEEuQdsZRHM2Xwr6zWJJdyKNuxDEPR5I5lsHo/nJ+c9Yni2kx0LUAH8vmgwCv5dWRk2jOWqDTsMxVIeLl520G6KUpnhnSlfHLAiqoLn4fRS7/BMmokD0UIDcEnE5XSZS7sfk6lUVPbzvOKvY8M3sWcGaW+JBamHEqOA0jAjrHMnf3K3ydKAD0aCK48FP6G0u7le/rriWyGXB9PWtbPUdyXhNjdmBPXeXxjcefig2n+7Q14n8b7rtKWemmBVodgts8xBVFC4gR1xihTA/ZI609YmE3VUDYv/bot7MoCDtAqM66qq7RtccOVFpZGPT5xKb9PX8eMGmCauj37e8VFUO8U+KrsUuhBpNjzowHw400j+amtybUoFAQiRQ0DSDdtp8RQh/ZU9YNTddY4JJl5ebUiSgfhb9NHkhmngN6e7guIjpe9vs+VmGuJwvp6bMR3HUoGv9aYZ6Rpl7VIxs7HpykcRPlalC0FXtVzL9Y49ZnWXyJT9A2e6IV/thSOU46vHXzylRWe9A0g6f2XW0gvccrIj3P6UH+sZaVb28eotoZhLwOsbPFcIceYVjAzeA1J/P3WL9z0CBdyvLfVrKkLqub3jE/OrXljUOMM/WFpqFr8bcPu02WZ20V7E+AbKbj/0CiyzFJ3DX7QowPQg7P8X6Y9pXOJ0bnr/ndRfj0A=
-    template:
-      - "WTFJHT has been updated! <https://whatthefuckjusthappenedtoday.com/?utm_source=slack&utm_medium=social&utm_campaign=slack|See what's new>."
+after_deploy: 'curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache"
+  -H "X-Auth-Email: "$CLOUD_FLARE_EMAIL"" -H "X-Auth-Key: "$CLOUD_FLARE_API_KEY""
+  -H "Content-Type: application/json" --data "{\"purge_everything\":true}"'

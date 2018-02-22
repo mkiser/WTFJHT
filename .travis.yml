@@ -32,13 +32,13 @@ deploy:
   skip_cleanup: true
   on:
     repo: mkiser/WTFJHT
-after_success: 'curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache"
+after_deploy: 'curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache"
   -H "X-Auth-Email: "$CLOUD_FLARE_EMAIL"" -H "X-Auth-Key: "$CLOUD_FLARE_API_KEY""
   -H "Content-Type: application/json" --data "{\"purge_everything\":true}"'
 notifications:
   webhooks:
-  - https://www.google.com/webmasters/tools/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
-  - http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
+    - https://www.google.com/webmasters/tools/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
+    - http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
   slack:
     on_success: always
     on_failure: never

@@ -16,10 +16,10 @@ redirect_from: "/russia/"
 <strong>Executive Summary:</strong>
 <ol>
 	<li>Trump’s former national security adviser, Michael Flynn, pleaded guilty to lying to the F.B.I. about conversations with the Russian ambassador last December during the presidential transition, bringing the special counsel’s investigation into the president’s inner circle.</li>
-	<li>Former Trump campaign manager, Paul Manafort and his deputy have been charged with a 12 count indictment by special counsel Robert Mueller, which includes money laundering and conspiracy against the US. Both pled not guilty and are currently under house arrest.</li>
-	<li>A former foreign policy advisor to Trump was arrested in July for lying to the FBI about his contacts with Russian officials during the campaign. He has pled guilty, confirming his contacts with Russia in doing so and has been “proactively cooperating” with the special counsel investigations. This hits closest to the heart of the collusion component.</li>
-	<li>The Senate Judiciary Committee’s investigation has gone it’s partisan ways and will be pursued separately by Republicans and Democrats on the committee. The commitee’s focus has been obstruction of justice in relation to possible collusion between Trump’s campaign and Russia, as it has oversight of the FBI.</li>
-	<li>126 million. This is the latest estimate of how many users were potentially reach by Russia’s disinformation and social media war. Facebook, Twitter and Google have been cooperating with Congress and the special counsel, as well as working to implement safeguards for 2018 and beyond.</li>
+	<li>Former Trump campaign manager, Paul Manafort, and his deputy have been charged with a 12 count indictment by special counsel Robert Mueller, which includes money laundering and conspiracy against the US. Both pled not guilty and are currently under house arrest.</li>
+	<li>A former foreign policy advisor to Trump was arrested in July for lying to the FBI about his contacts with Russian officials during the campaign. He has pled guilty, confirming his contacts with Russia in doing so, and has been “proactively cooperating” with the special counsel investigations. This hits closest to the heart of the collusion component.</li>
+	<li>The Senate Judiciary Committee’s investigation has gone its partisan ways and will be pursued separately by Republicans and Democrats on the committee. The committee’s focus has been obstruction of justice in relation to possible collusion between Trump’s campaign and Russia, as it has oversight of the FBI.</li>
+	<li>126 million. This is the latest estimate of how many users were potentially reached by Russia’s disinformation and social media war. Facebook, Twitter, and Google have been cooperating with Congress and the special counsel, as well as working to implement safeguards for 2018 and beyond.</li>
 </ol>
 
 <hr>
@@ -29,7 +29,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/02/06/day-383/">February 06, 2018</a></small></div>
-<p><strong>Trump's lawyers want him to refuse an interview with Robert Mueller</strong>, because they're concerned that he could be charged with lying to investigators. Trump, however, has said that he is "looking forward" to speaking with Mueller as part of the investigation into possible collusion between his campaign and Russia's election interference, and whether he obstructed justice. Ty Cobb, the White House lawyer Trump tapped to deal with Mueller's investigation, has said the White House is in "total cooperation mode." (<a href="https://www.nytimes.com/2018/02/05/us/politics/trump-lawyers-special-counsel-interview.html">New York Times</a>)</p>
+<p><strong>Trump's lawyers want him to refuse an interview with Robert Mueller</strong> because they're concerned that he could be charged with lying to investigators. Trump, however, has said that he is "looking forward" to speaking with Mueller as part of the investigation into possible collusion between his campaign and Russia's election interference, and whether he obstructed justice. Ty Cobb, the White House lawyer Trump tapped to deal with Mueller's investigation, has said the White House is in "total cooperation mode." (<a href="https://www.nytimes.com/2018/02/05/us/politics/trump-lawyers-special-counsel-interview.html">New York Times</a>)</p>
 
 
 
@@ -49,7 +49,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/02/02/day-379/">February 02, 2018</a></small></div>
-<p><strong>The Trump administration called for the development of two new, "lower-yield" types of nuclear weapons</strong> for ballistic and cruise missiles launched from submarines. The weapons could be used to respond to  "extreme circumstances," including non-nuclear attacks. The White House also publicly acknowledged for the first time that Russia is "developing" a "new intercontinental, nuclear armed, nuclear-powered, undersea autonomous torpedo." (<a href="https://www.politico.com/story/2018/02/02/trump-plan-nuclear-weapons-386087">Politico</a>)</p>
+<p><strong>The Trump administration called for the development of two new "lower-yield" types of nuclear weapons</strong> for ballistic and cruise missiles launched from submarines. The weapons could be used to respond to  "extreme circumstances," including non-nuclear attacks. The White House also publicly acknowledged for the first time that Russia is "developing" a "new intercontinental, nuclear armed, nuclear-powered, undersea autonomous torpedo." (<a href="https://www.politico.com/story/2018/02/02/trump-plan-nuclear-weapons-386087">Politico</a>)</p>
 
 
 
@@ -64,7 +64,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/02/01/day-378/">February 01, 2018</a></small></div>
-<p><strong>Hope Hicks allegedly told Trump that the emails involving Trump Jr. and the Trump Tower meeting "will never get out" because only a few people have access to them</strong>. The White House communications director's comment was in response to Mark Corallo, who served as the spokesman for Trump's legal team, saying the statement they drafted aboard Air Force One would backfire when documents surface that the meeting was setup to get political dirt about Hillary Clinton from the Russians – and not about Russian adoptions. Corallo believed Hicks' comment indicated that she could be contemplating obstructing justice. Corallo will tell Robert Mueller about the previously undisclosed conference call with Trump and Hicks when he meets with the special counsel's team sometime in the next two weeks. Corallo resigned from Trump's legal team in July. (<a href="https://www.nytimes.com/2018/02/01/us/politics/republicans-secret-memo-nunes.html">New York Times</a> / <a href="https://www.cnn.com/2018/01/31/politics/russia-investigation-mueller-sessions-resign-trump/index.html">CNN</a>)</p>
+<p><strong>Hope Hicks allegedly told Trump that the emails involving Trump Jr. and the Trump Tower meeting "will never get out" because only a few people have access to them</strong>. The White House communications director's comment was in response to Mark Corallo, who served as the spokesman for Trump's legal team, saying the statement they drafted aboard Air Force One would backfire when documents surface that the meeting was set up to get political dirt about Hillary Clinton from the Russians – and not about Russian adoptions. Corallo believed Hicks's comment indicated that she could be contemplating obstructing justice. Corallo will tell Robert Mueller about the previously undisclosed conference call with Trump and Hicks when he meets with the special counsel's team sometime in the next two weeks. Corallo resigned from Trump's legal team in July. (<a href="https://www.nytimes.com/2018/02/01/us/politics/republicans-secret-memo-nunes.html">New York Times</a> / <a href="https://www.cnn.com/2018/01/31/politics/russia-investigation-mueller-sessions-resign-trump/index.html">CNN</a>)</p>
 
 
 
@@ -109,7 +109,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2018/01/30/day-376/">January 30, 2018</a></small></div>
-<p><strong>The Congress-mandated sanctions report was lifted from the Forbes "200 richest businessmen in Russia 2017" list</strong>, a Treasury Department spokesperson confirmed.  Almost all 96 oligarchs listed in the government-issued report appear in the Forbes' ranking. (<a href="https://www.buzzfeed.com/johnhudson/trump-administration-admits-it-cribbed-forbes-magazine-to">BuzzFeed News</a>)</p>
+<p><strong>The Congress-mandated sanctions report was lifted from the Forbes "200 richest businessmen in Russia 2017" list</strong>, a Treasury Department spokesperson confirmed.  Almost all 96 oligarchs listed in the government-issued report appear in the Forbes ranking. (<a href="https://www.buzzfeed.com/johnhudson/trump-administration-admits-it-cribbed-forbes-magazine-to">BuzzFeed News</a>)</p>
 
 
 

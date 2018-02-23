@@ -1,7 +1,7 @@
 ---
 title: Day 400
 date: 2018-02-23 09:29:00 -08:00
-description: 'Bit of bonus. '
+description: Bit of a bonus.
 image: "/uploads/400.jpg"
 ---
 

@@ -1,0 +1,34 @@
+---
+title: Day 400
+date: 2018-02-23 09:29:00 -08:00
+description: Bit of a bonus.
+image: "/uploads/400.jpg"
+---
+
+1/ **Rick Gates will plead guilty to conspiracy and making false statements and will cooperate with Robert Mueller's investigation into Russia's interference in the 2016 election**, according to a letter Gates gave to family and close friends. Gates' plea indicates he plans to admit to taking part in a conspiracy to hide tens of millions of dollars he and Paul Manafort obtained for their lobbying and consulting work related to Ukraine. Gates could offer incriminating information against Manafort or other members of the Trump campaign in exchange for a lighter punishment. ([New York Times](https://www.nytimes.com/2018/02/23/us/politics/rick-gates-guilty-plea-mueller-investigation.html) / [Politico](https://www.politico.com/story/2018/02/23/gates-set-to-plead-guilty-to-conspiracy-and-false-statement-charges-423403) / [Washington Post](https://www.washingtonpost.com/politics/former-trump-campaign-official-rick-gates-expected-to-plead-guilty-and-cooperate-with-special-counsel-in-probe-of-russian-election-interference/2018/02/23/ceaaeac8-16b4-11e8-b681-2d4d462a1921_story.html?utm_term=.d900563420bb) / [ABC News](http://abcnews.go.com/Politics/trump-aide-richard-gates-poised-plead-guilty-cooperate/story?id=53300996))
+
+2/ **Jared Kushner has been unable to obtain a full security clearance because of Robert Mueller's investigation** and is unlikely to obtain the full clearance as long as the special counsel's probe is ongoing. ([CNN](https://www.cnn.com/2018/02/22/politics/jared-kushner-security-clearance-delay-mueller-investigation/index.html))
+
+3/ **The Trump administration announced new sanctions against North Korea** that target 27 shipping companies and 28 vessels registered in North Korea and six other countries, including China. The Treasury Department said the shipping firms are part of a campaign to help North Korea evade United Nations sanctions restricting imports of refined fuel and exports of coal. Trump called the sanctions the "largest-ever set of new sanctions on the North Korean regime." They are intended to increase pressure on Kim Jong Un's nuclear and ballistic missile programs. ([New York Times](https://www.nytimes.com/2018/02/23/us/politics/trump-north-korea-sanctions.html) / [Reuters](https://www.reuters.com/article/us-northkorea-missiles-usa/trump-administration-to-target-north-korea-with-new-sanctions-on-friday-idUSKCN1G708Z))
+
+4/ **Trump suggested that armed teachers should get a "bit of a bonus" for carrying a gun in the classroom**. The White House indicated that the U.S. could find the money to arm and train up to a million teachers. Trump said arming teachers would be a "great deterrent" to would-be killers, and suggested that up to 40 percent of teachers could be given a bonus of $1,000 if they agree to carry a weapon and undergo training to make them "gun adept." The White House said the plan, if implemented, would involve distributing a total of roughly $1 billion to a million teachers across the country.  ([The Guardian](https://www.theguardian.com/us-news/2018/feb/22/trump-proposal-teachers-guns-schools) / [New York Times](https://www.nytimes.com/2018/02/22/us/politics/trump-guns-school-shootings.html))
+
+* **"We should change the names of AR-15s to 'Marco Rubio' because they are so easy to buy,"** Stoneman Douglas junior Sarah Chadwick tweeted. ([The Hill](http://thehill.com/blogs/blog-briefing-room/news/375229-florida-shooting-survivor-we-should-call-ar-15s-marco-rubio))
+
+* {% twitter https://twitter.com/sarahchad_/status/966924331086266369 %}
+
+5/ **Trump directed the Department of Defense to schedule his military parade for Veterans Day**, according to an unclassified February 20th memo written by National Security Adviser H.R. McMaster. The memo also said that the parade route should begin at the White House and end at the Capitol. ([Politico](https://www.politico.com/story/2018/02/23/trump-military-parade-veterans-day-423405))
+
+6/ **The Republican National Committee has been paying more than $37,000 a month in rent at Trump Tower** after the RNC came under pressure to stop paying Trump's personal legal bills in the special counsel's Russia investigation. ([CNBC](https://www.cnbc.com/2018/02/23/rnc-paid-trump-campaign-trump-tower-rent-after-paying-legal-bills.html))
+
+---
+
+### Notables.
+
+1. **John Kasich is reportedly considering a Republican primary challenge to Trump in the 2020 presidential election.** Kasich's team is counting on the "very real, maybe even likely, possibility" that Trump will not run again in 2020 — either by choice or due to the constantly changing political landscape surrounding the administration. ([Politico](https://www.politico.com/story/2018/02/23/john-kasich-2020-trump-primary-elections-422337))
+
+2. **Missouri's Republican governor was indicted for felony invasion of privacy**. Eric Greitens is alleged to have taken a semi-nude photo of a woman he was having an extramarital affair with, and then threatened to blackmail her by publishing it if she revealed their relationship. Missouri is holding one of the most competitive Senate races in the country, between the Democrat incumbent, Claire McCaskill, and her GOP opponent,  Josh Hawley ([NPR](https://www.npr.org/sections/thetwo-way/2018/02/22/588163633/missouri-gov-eric-greitens-indicted-on-a-charge-of-felony-invasion-of-privacy) / [The Hill](http://thehill.com/homenews/state-watch/375163-missouri-governor-indicted-on-privacy-charge) / [NBC News](https://www.nbcnews.com/politics/first-read/republicans-have-big-problem-missouri-n850581))
+
+3. **A Russian oligarch with close ties to Putin, said Russian mercenaries who attacked US troops in Syria this month were in close touch with the Kremlin** and Syrian officials shortly before and after the assault. ([Washington Post](https://www.washingtonpost.com/world/national-security/putin-ally-said-to-be-in-touch-with-kremlin-assad-before-his-mercenaries-attacked-us-troops/2018/02/22/f4ef050c-1781-11e8-8b08-027a6ccb38eb_story.html))
+
+4. **A car intentionally hit a security barrier near the White House, prompting a lockdown**. The Secret Service said the car didn't breach the secure complex that surrounds the executive mansion. ([CNN](https://www.cnn.com/2018/02/23/politics/white-house-security-barrier-hit/index.html))

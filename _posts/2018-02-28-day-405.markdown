@@ -1,0 +1,30 @@
+---
+title: Day 405
+date: 2018-02-28 08:51:00 -08:00
+description: 'White lies. '
+image: "/uploads/405.jpg"
+---
+
+1/ **ICE arrested more than 150 suspected undocumented immigrants in the Bay Area**, two days after Oakland Mayor Libby Schaaf publicly warned of imminent ICE raids in Northern California. ICE Deputy Director Thomas Homan called Schaaf's decision "reckless" and that "864 criminal aliens and public safety threats remain at large." Schaaf said she didn't regret sharing the information, calling it her "ethical obligation" and that "It is Oakland's legal right to be a sanctuary city and we have not broken any laws. We believe our community is safer when families stay together." ([The Mercury News](https://www.mercurynews.com/2018/02/27/ice-schaaf-warning-of-recent-sweep-was-irresponsible-decision/) / [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2018/02/28/oakland-mayor-libby-schaaf-tipped-off-immigrants-about-ice-raid-and-isnt-sorry-she-did/?utm_term=.79d3b77045fb))
+
+2/ **Trump attacked Jeff Sessions on Twitter for his "disgraceful" handling of an investigation into potential surveillance abuses**. "Why is A.G. Jeff Sessions asking the Inspector General to investigate potentially massive FISA abuse. Will take forever, has no prosecutorial power and already late with reports on Comey etc," Trump tweeted. "Isn't the I.G. an Obama guy? Why not use Justice Department lawyers? DISGRACEFUL!" Yesterday, Sessions announced that the Justice Department is looking at whether the FBI properly handled FISA applications to monitor members of his transition team. ([CNN](https://www.cnn.com/2018/02/28/politics/trump-sessions-fisa-abuse/index.html) / [The Hill](http://thehill.com/homenews/administration/375981-trump-launches-new-attack-on-sessions-disgraceful))
+
+{% twitter https://twitter.com/realDonaldTrump/status/968856971075051521 %}
+
+3/ **Robert Mueller's investigators have been asking witnesses about Trump's business activities in Russia prior to the 2016 campaign**. Mueller's team has been asking about the timing of Trump's decision to run, any potentially compromising information the Russians may have, and why a deal for a Trump Tower in Moscow fell through. ([CNN](https://www.cnn.com/2018/02/27/politics/trump-russia-investigation/index.html))
+
+* **A judge in Washington, D.C. set a September 17th trial date for Paul Manafort**, putting the former Trump campaign chairman on trial at height of midterm election season. ([Politico](https://www.politico.com/story/2018/02/28/judge-sets-sept-17-trial-date-for-manafort-on-mueller-charges-430621))
+
+4/ **Hope Hicks told the House Intelligence Committee that she sometimes has to lies for Trump**. The White House communications director insisted, however, that she has never lied about matters related to Russian interference or possible collusion with Trump associates after an extended conversation with her lawyers. ([New York Times](https://www.nytimes.com/2018/02/27/us/politics/hope-hicks-house-intelligence-committee-testimony.html))
+
+5/ **HUD agreed to spend $165,000 on "lounge furniture" and $31,000 on a dining set  for Ben Carson's office while the Trump administration proposed a $6.8 billion budget cut** to the Department of Housing and Urban Development. Details of the furniture purchases were revealed after a senior career official filed a whistle-blower complaint that she was demoted for refusing to break a $5,000 spending limit on improvements to Carson's office. ([The Guardian](https://www.theguardian.com/us-news/2018/feb/27/ben-carson-spokesman-falsely-denied-expensive-table-bought) / [New York Times](https://www.nytimes.com/2018/02/27/us/ben-carson-hud-furniture.html))
+
+6/ **United Nations investigators accused North Korea of supplying Syrian with materials used in the production of chemical weapons**. North Korean missile technicians have also been spotted working at known chemical weapons and missile facilities inside Syria. ([New York Times](https://www.nytimes.com/2018/02/27/world/asia/north-korea-syria-chemical-weapons-sanctions.html))
+
+---
+
+### Notables.
+
+1. **Democrats flipped state legislative seats in Connecticut and New Hampshire, bringing the total number of flipped seats since Trump was elected to 39**. The latest mark the fifth and sixth seats flipped in 2018. ([The Daily Beast](https://www.thedailybeast.com/democrat-wins-nh-state-special-election-for-38th-flip-since-trumps-inauguration))
+
+2. **The NRA asked Trump not to raise the age limit for buying firearms**. Instead, the NRA asked Trump to pursue school safety programs, which the White House plans to unveil on Thursday. ([CNN](https://www.cnn.com/2018/02/28/politics/donald-trump-national-rifle-association-firearms/index.html))

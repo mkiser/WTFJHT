@@ -2,7 +2,10 @@
 title: 'Day 410: President for life.'
 date: 2018-03-05 13:48:00 -08:00
 published: false
+file: "/uploads/Day-410a.mp3"
 post: Day 410
+duration: '00:09:13'
+length: 9348707
 ---
 
 **Monday, March 5, 2018**
@@ -11,17 +14,19 @@ post: Day 410
 
 1/ Robert Mueller's grand jury issued a subpoena requesting all communications involving Trump and his associates.
 
-2/ A Belarusian escort claims to have more than 16 hours of audio recordings that prove Russia meddled in the U.S. elections.
+2/ Sam Nunberg plans to defy a subpoena to appear in front of Mueller's grand jury.
 
-3/ The author of the Trump dossier told Mueller's team that Russia asked Trump not to hire Mitt Romney as secretary of state.
+3/ A Belarusian escort claims to have more than 16 hours of audio recordings that prove Russia meddled in the U.S. elections.
 
-4/ Stormy Daniels threatened to cancel the nondisclosure agreement about her alleged affair with Trump 12 days before the election.
+4/ The author of the Trump dossier told Mueller's team that Russia asked Trump not to hire Mitt Romney as secretary of state.
 
-5/ Trump praised President Xi's consolidation of power in China and joked that he wouldn't mind doing the same for himself.
+5/ Stormy Daniels threatened to cancel the nondisclosure agreement about her alleged affair with Trump 12 days before the election.
 
-6/ The Trump Organization ordered a set of Presidential Seal replicas for its golf course tee markers.
+6/ Trump praised President Xi's consolidation of power in China and joked that he wouldn't mind doing the same for himself.
 
-7/ The State Department has spent $0 of the $120 million it has been budgeted for combatting foreign interference in U.S. elections.
+7/ The Trump Organization ordered a set of Presidential Seal replicas for its golf course tee markers.
+
+8/ The State Department has spent $0 of the $120 million it has been budgeted for combatting foreign interference in U.S. elections.
 
 **NOTABLES.**
 

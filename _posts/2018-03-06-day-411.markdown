@@ -1,0 +1,36 @@
+---
+title: Day 411
+date: 2018-03-06 09:15:00 -08:00
+description: 'There is no chaos. '
+image: "/uploads/411.jpg"
+---
+
+1/ **Trump tweets "there is no chaos" in the White House, but there are "some people that I want to change"** because he is "always seeking perfection." The tweet comes a week after Trump called Jeff Sessions "disgraceful," Hope Hicks resigned, and Jared Kushner's security clearance was downgraded. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/03/06/trump-claims-there-is-no-chaos-in-white-house-but-warns-of-future-firings/) / [CNBC](https://www.cnbc.com/2018/03/06/trump-there-are-people-in-the-white-house-that-i-want-to-change.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/971006379375972354 %}
+
+2/ **Trump believes Gary Cohn will resign if his administration follows through with tariffs on imported steel and aluminum**. Trump's top economic advisor has been working to stop the tariffs that threaten to cause a global trade war. Yesterday, [Paul Ryan said](https://www.nytimes.com/2018/03/05/us/politics/trump-tariffs-steel-aluminum-nafta.html) he is "extremely worried about the consequences of a trade war" while urging "the White House to not advance with this plan." The tariffs, Ryan's spokeswoman said, would "jeopardize" the economic gains from the recent Republican tax cuts. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-03-06/trump-said-to-be-convinced-cohn-will-leave-if-tariffs-instituted) / [CNBC](https://www.cnbc.com/2018/03/06/trump-believes-gary-cohn-will-resign-if-tariffs-imposed-report.html))
+
+3/ **Sam Nunberg says he'll probably cooperate with Robert Mueller's subpoena after all.** Yesterday, the former Trump aide appeared on multiple cable news programs to announce his plans to defy the special prosecutor's demands. Nunberg conceded that he'll likely find a way to comply with the requests for testimony and documents. "I'm going to end up cooperating with them," Nunberg said. ([Associated Press](https://apnews.com/d77276cfdf0a4f3b9c526363ddbeb7c4) / [Axios](https://www.axios.com/nunberg-now-says-hell-cooperate-with-investigators-1520300941-e164aac2-e662-4684-a8c2-8123e25e77ce.html))
+
+* [Sam Nunberg plans to defy a subpoena to appear in front of Mueller's grand jury](https://whatthefuckjusthappenedtoday.com/2018/03/05/day-410/#2-sam-nunberg-plans-to-defy-a-subpoe)
+
+4/ **The ranking Democrat on the House Intelligence Committee wants to interview Nunberg as part of its Russia investigation**. Adam Schiff said Nunberg's assertion that Trump knew about the 2016 Trump Tower meeting before it occurred is an area that needs to explore. Nunberg said he would be willing to testify before the Committee. "I would go there, sure." ([CNN](https://www.cnn.com/2018/03/05/politics/schiff-nunberg-house-russia-probe-trump/index.html) / [The Hill](http://thehill.com/blogs/blog-briefing-room/news/376876-nunberg-i-would-go-before-house-intel-committee))
+
+5/ **Kim Jong-un may be willing to negotiate with the U.S. on abandoning its nuclear arsenal in exchange for security guarantees**, according South Korean president Moon Jae-in. North Korea would suspend all nuclear and missile tests while the negotiations are in progress. It's the first time North Korea has indicated that its willing to negotiate away its nuclear weapons. Trump tweeted: "We will see what happens!" ([New York Times](https://www.nytimes.com/2018/03/06/world/asia/north-korea-south-nuclear-weapons.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/971008891751485440 %}
+
+6/ **The Trump administration will allow hunters to import elephant trophies on a "case-by-case" basis**, breaking the Trump's pledge to maintain the Obama-era protections. The Fish and Wildlife Service issued a memorandum last week, which said "the findings are no longer effective for making individual permit determinations for imports of sport-hunted African elephant trophies." Trump previously called trophy hunting a "horror show." ([The Hill](http://thehill.com/policy/energy-environment/376839-trump-admin-to-consider-elephant-trophy-imports-on-case-by-case))
+
+{% twitter https://twitter.com/realDonaldTrump/status/932397369655808001 %}
+
+---
+
+### Notables.
+
+1. **Michael Flynn is selling his house to pay his legal bills after pleading guilty last year to lying to the FBI.** The house went on the market in December and is listed at $895,000. Flynn's brother, Joe, says Flynn will use the money to pay for his legal defense. ([ABC News](http://abcnews.go.com/US/flynn-selling-house-pay-legal-bills-trump-probe/story?id=53545172))
+
+2. **Nashville Mayor Megan Barry resigned after pleading guilty to felony theft of more than $10,000** related to her affair with her former police bodyguard. Barry agreed to reimburse the city. ([The Tennessean](https://www.tennessean.com/story/news/2018/03/06/nashville-mayor-megan-barry-expected-resign-press-conference-tuesday-morning/398440002/))
+
+3. **The 2018 congressional midterms begin today in Texas**. These are [four most important races](https://www.washingtonpost.com/news/the-fix/wp/2018/03/06/your-cheat-sheet-for-how-to-sound-smart-about-tuesdays-texas-primaries/) and [six storylines to watch](https://www.nbcnews.com/politics/first-read/it-s-primary-day-texas-here-are-six-storylines-watch-n853956). 

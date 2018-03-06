@@ -1,7 +1,6 @@
 ---
 title: 'Day 410: President for life.'
 date: 2018-03-05 13:48:00 -08:00
-published: false
 file: "/uploads/Day-410c.mp3"
 post: Day 410
 duration: '00:09:13'

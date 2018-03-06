@@ -21,7 +21,7 @@ image: "/uploads/411.jpg"
 
 6/ **The ranking Democrat on the House Intelligence Committee wants to interview Nunberg as part of its Russia investigation**. Adam Schiff said Nunberg's assertion that Trump knew about the 2016 Trump Tower meeting before it occurred is an area that the committee needs to explore. Nunberg said he would be willing to testify. "I would go there, sure." ([CNN](https://www.cnn.com/2018/03/05/politics/schiff-nunberg-house-russia-probe-trump/index.html) / [The Hill](http://thehill.com/blogs/blog-briefing-room/news/376876-nunberg-i-would-go-before-house-intel-committee))
 
-7/ **Kim Jong-un may be willing to negotiate with the U.S. on abandoning its nuclear arsenal in exchange for security guarantees**, according to South Korean president Moon Jae-in. North Korea would suspend all nuclear and missile tests while the negotiations are in progress. It's the first time North Korea has indicated that it's willing to negotiate away its nuclear weapons. Trump tweeted: "We will see what happens!" Later, Trump attributed the progress to the sanctions from his administration, but warned that he is "prepared to go whichever path is necessary." ([New York Times](https://www.nytimes.com/2018/03/06/world/asia/north-korea-south-nuclear-weapons.html) / [Politico](https://www.politico.com/story/2018/03/06/north-korea-nuclear-weapons-security-guarantee-438579))
+7/ **Kim Jong-un may be willing to negotiate with the U.S. on abandoning its nuclear arsenal in exchange for security guarantees**, according to South Korean president Moon Jae-in. North Korea would suspend all nuclear and missile tests while the negotiations are in progress. It's the first time North Korea has indicated that it's willing to negotiate away its nuclear weapons. Trump tweeted: "We will see what happens!" Later, Trump attributed the progress to his administration's sanctions against North Korea, but warned that he is "prepared to go whichever path is necessary." ([New York Times](https://www.nytimes.com/2018/03/06/world/asia/north-korea-south-nuclear-weapons.html) / [Politico](https://www.politico.com/story/2018/03/06/north-korea-nuclear-weapons-security-guarantee-438579))
 
 {% twitter https://twitter.com/realDonaldTrump/status/971008891751485440 %}
 
@@ -29,9 +29,9 @@ image: "/uploads/411.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/932397369655808001 %}
 
-9/ **A White House report shows that the benefits from "major" federal regulations between 2006 and 2016 outweighed the costs**. The Office of Management and Budget [report](https://www.eenews.net/assets/2018/02/26/document_pm_01.pdf), released late last Friday, estimates that the aggregate annual benefit from the Obama-era regulations was between $287 and $911 billion, while the estimated aggregate annual costs were between $78 and $115 billion. Reported in 2015 dollars. The regulations offered a net benefit of up to $833 billion. ([Vox](https://www.vox.com/energy-and-environment/2018/3/6/17077330/trump-regulatory-agenda-omb))
+9/ **A White House report shows that the benefits from "major" federal regulations between 2006 and 2016 outweighed the costs**. The Office of Management and Budget [report](https://www.eenews.net/assets/2018/02/26/document_pm_01.pdf), released late last Friday, estimates that the aggregate annual benefit from the Obama-era regulations was between $287 and $911 billion, while the estimated aggregate annual costs were between $78 and $115 billion, as reported in 2015 dollars. The regulations offered a net benefit of up to $833 billion. ([Vox](https://www.vox.com/energy-and-environment/2018/3/6/17077330/trump-regulatory-agenda-omb))
 
-poll/ **64% of American disagree with Trump's stance that a trade war would be good for the U.S. and easy to win**, while 28% said they agreed with Trump's position. ([Quinnipiac)](https://poll.qu.edu/national/release-detail?ReleaseID=2525)
+poll/ **64% of American disagree with Trump's stance that a trade war would be good for the U.S. and easy to win**. 28% said they agreed with Trump's position. ([Quinnipiac)](https://poll.qu.edu/national/release-detail?ReleaseID=2525)
 
 ---
 

@@ -25,7 +25,7 @@ length: 9293463
 
 7/ The Trump Organization ordered a set of Presidential Seal replicas for its golf course tee markers.
 
-8/ The State Department has spent $0 of the $120 million it has been budgeted for combatting foreign interference in U.S. elections.
+8/ The State Department has spent $0 of the $120 million it has been budgeted for combating foreign interference in U.S. elections.
 
 **NOTABLES.**
 

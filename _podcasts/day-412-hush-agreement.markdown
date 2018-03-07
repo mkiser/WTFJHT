@@ -1,10 +1,10 @@
 ---
 title: 'Day 412: Hush agreement.'
 date: 2018-03-07 15:26:00 -08:00
-file: "/uploads/Day-412.mp3"
+file: "/uploads/Day-412a.mp3"
 post: Day 412
 duration: '00:03:31'
-length: 4257762
+length: 4247333
 ---
 
 **Wednesday, March 7, 2018**

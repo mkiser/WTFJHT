@@ -23,7 +23,7 @@ layout:
                 <![CDATA[{{ post.content | strip_html | truncate: 250 }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>]]>
             </description>
             <content:encoded>
-                <![CDATA[<img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}"/> <br>{{ post.content }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>]]>
+                <![CDATA[<img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}"/> {{ post.content }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>]]>
             </content:encoded>
             <author>{{ site.author.email }} ({{ site.author.name }})</author>
             <pubDate>{{ post.date | date:"%a, %d %b %Y %T %z" }}</pubDate>

@@ -31,7 +31,7 @@ image: "/uploads/424.jpg"
 
 6/ **Republican senators warned Trump not to fire Robert Mueller and to let federal investigators do their jobs**. Lindsey Graham said if Trump were to dismiss Mueller, it would mark "the beginning of the end of his presidency." Trey Gowdy, meanwhile, said if Trump is innocent, he should "act like it" and leave Mueller alone. Paul Ryan issued a statement advising Trump that "Mueller and his team should be able to do their job." Mitch McConnell, however, had no comment. Following the pushback, White House lawyer Ty Cobb issued a statement on Sunday night saying Trump was not considering firing Mueller. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia/republicans-to-trump-let-mueller-do-his-job-idUSKBN1GU0M9) / [Politico](https://www.politico.com/story/2018/03/18/gowdy-trump-mueller-probe-469910))
 
-poll/ **74% of Americans feel that the national policy is being manipulated by a "deep state" of unelected government officials**. 31% of Republicans and 33% of independents said they believe in the existence of a deep state. 19% of Democrats, meanwhile, said the deep state definitely exists.  ([Monmouth](https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_031918.pdf/))
+poll/ **74% of Americans feel that a "deep state" of unelected government officials is probably manipulating national policy**. 27% belive a deep state definitely exists, 47% thinks it probably exists,  21% don't believe a deep state exists, and 5% don't know. 31% of Republicans and 33% of independents said they believe in the existence of a deep state. 19% of Democrats, meanwhile, said the deep state definitely exists.  ([Monmouth](https://www.monmouth.edu/polling-institute/documents/monmouthpoll_us_031918.pdf/))
 
 ---
 
@@ -49,7 +49,7 @@ poll/ **74% of Americans feel that the national policy is being manipulated by a
 
 ### Facebook, Cambridge Analytica, and Trump
 
-*There's a huge story here, but I haven't had time to make sense of it. Here's a few of the stories making the rounds. I'll have a summary update tomorrow. *
+\*There's a huge story here, but I haven't had time to make sense of it. Here's a few of the stories making the rounds. I'll have a summary update tomorrow. \*
 
 1. **How Trump Consultants Exploited the Facebook Data of Millions** ([New York Times](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html))
 

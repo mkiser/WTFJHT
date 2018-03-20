@@ -1,0 +1,46 @@
+---
+title: Day 425
+date: 2018-03-20 10:03:00 -07:00
+description: Shuffling the deck.
+image: "/uploads/425.jpg"
+---
+
+1/ **Trump has discussed firing one of his lawyers, while another is contemplating resignation**. Ty Cobb, who has urged Trump to cooperate with Mueller's investigation, appears to be on the chopping block, while John Dowd has considered leaving the team because Trump ignores his legal advice. Trump tweeted that he's "VERY happy with my lawyers, John Dowd, Ty Cobb and Jay Sekulow," despite recently met with Emmet Flood, the lawyer who represented Bill Clinton during impeachment proceedings. Trump also added Joseph E. diGenova to his legal team on Monday, a regular Fox News commentator who has suggested that the FBI and Justice Department conspired to deny Trump his "civil rights." ([New York Times](https://www.nytimes.com/2018/03/19/us/politics/trump-lawyers-mueller-russia-investigation.html))
+
+{% twitter https://twitter.com/realdonaldtrump/status/972829763067883523 %}
+
+2/ **Trump's asked a high-profile and seasoned litigator to join the team**. Theodore Olson served as solicitor general in the George W. Bush administration and has more experience on landmark cases than any of Trump's current lawyers. Olson, who previously declined an offer to join the team, is said to be reviewing a new offer. ([Washington Post](https://www.washingtonpost.com/politics/trump-legal-team-seeks-to-add-gravitas-with-offer-to-star-gop-attorney-theodore-b-olson/2018/03/20/571f1e46-2c41-11e8-8ad6-fbc50284fce8_story.html))
+
+3/ **Paul Ryan says he received "assurances" that firing Robert Mueller is "not even under consideration."** The House Speaker did not elaborate on the assurances. Mitch McConnell, meanwhile, has yet to comment on Trump's Twitter attack on Mueller. In January, McConnell declined to take up proposed legislation to protect Mueller because he knew of no "official" White House effort to undermine him. ([CNN](https://www.cnn.com/2018/03/20/politics/paul-ryan-assurances-mueller-not-fired/index.html))
+
+4/ **Trump called Putin to congratulate him for his recent re-election**. The call comes days after the White House imposed sanctions on Russia for meddling in the 2016 election and "malicious cyberattacks." The Trump administration has also recently criticized Russia for its apparent role in a nerve agent attack on a former Russian spy and his daughter in the U.K. ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/trump-says-he-congratulated-putin-on-his-re-election-and-they-may-meet-soon.html))
+
+---
+
+### Dept. of #FacebookExit.
+
+1. **Cambridge Analytica harvested private information from more than 50 million Facebook users without their permission**, making it one of the largest data leaks in the social network's history. Cambridge Analytica – owned by Robert Mercer and headed by Steve Bannon at the time – built a system to profile individuals by paying users to take a personality quiz and download an app, which would then scrape information from their profiles and those of their friends. Users were under the premise that the company was collecting information for academic purposes. ([New York Times](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html) / [The Guardian](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election))
+
+2. **The Federal Trade Commission is investigating whether Facebook violated a 2011 consent decree over Cambridge Analytica's access and use of the personal data of 50 million Facebook users**. Under the settlement, Facebook agreed to get user consent for changes to privacy settings. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-03-20/ftc-said-to-be-probing-facebook-for-use-of-personal-data))
+
+3. **Facebook's chief information security officer, Alex Stamos, is leaving the company following disagreements among top Facebook executives** over their response to Russian interference in the 2016 presidential elections and potential interference in the 2018 midterms. The issue is rooted in how much Facebook should publicly share about their platform was misused in the run-up to the 2018 midterm elections. Stamos oversaw Facebook's security team, which was once 120 people, but is currently down to three people. Stamos plans to leave the company by August. ([New York Times](https://www.nytimes.com/2018/03/19/technology/facebook-alex-stamos.html))
+
+4. **Cambridge Analytica's CEO was caught on tape suggesting that the company could entrap political rivals through seduction or bribery**. In an undercover investigation by Britain's Channel 4 News, Alexander Nix said the British firm secretly campaigns in elections across the world using front companies, former spies on behalf of political clients, and contractors. ([Channel 4](https://www.channel4.com/news/cambridge-analytica-revealed-trumps-election-consultants-filmed-saying-they-use-bribes-and-sex-workers-to-entrap-politicians-investigation) / [New York Times](https://www.nytimes.com/2018/03/19/us/cambridge-analytica-alexander-nix.html) / [Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/03/19/cambridge-analytica-ceo-appears-to-talk-about-using-bribes-and-sex-workers-to-sway-elections-on-secretly-recorded-news-video/))
+
+5. **Facebook's stock fell about 7% on Monday**, cutting about $37 billion off the value of the company. Mark Zuckerberg personally lost about $5 billion in net worth. ([CNN Money](http://money.cnn.com/2018/03/19/news/companies/zuckerberg-net-worth/index.html) / [Wall Street Journal](https://www.wsj.com/articles/facebook-is-pummeled-by-user-data-blowback-1521561322))
+
+6. **How to delete Facebook**. First, download your archive by going to "Settings," click "Download a copy of your Facebook data" at the bottom of General Account Settings, and then click "Start My Archive." When you're ready to delete your account, [click this link](https://www.facebook.com/help/delete_account), which will take you to the account deletion page. Once you delete your account, it cannot be recovered. ([The Verge](https://www.theverge.com/2018/3/20/17142806/how-to-delete-facebook-page-account-data-privacy))
+
+---
+
+### Dept. of Swamp Things. 
+
+1. **Education Secretary Betsy DeVos will testify before the House Appropriations Committee about her "Education Reform Plan,"** which calls for a 5% spending cut and eliminates dozens of programs. It includes a $1 billion school choice proposal. Department staff said DeVos tried to withhold information in the budget justifications submitted to Congress. ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/education-secretary-devos-reorganization-plan-union.html))
+
+2. **Ben Carson defended the purchase of a $31,000 dining set**, telling the House Appropriations Committee that the furniture was necessary because "people were stuck by nails, and a chair had collapsed with someone sitting in it." He admitted, however, that he failed to adhere to a $5,000 federal spending cap for the purchase. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-03-20/hud-s-carson-denies-trying-to-mislead-public-in-furniture-furor) / [New York Times](https://www.nytimes.com/2018/03/20/us/ben-carson-hud-dining-room.html))
+
+3. **Three Trump appointees with pro-abstinence beliefs directed the process to end a federal teen pregnancy prevention program** last year over the objections of career experts in the Department of Health and Human Services. One appointee was previously the president of Ascend, an association that promotes abstinence until marriage as the best way to prevent teen pregnancy. ([NBC News](https://www.nbcnews.com/politics/politics-news/notes-emails-reveal-trump-appointees-war-end-hhs-teen-pregnancy-n857686))
+
+4. **A new Mississippi law bans most abortions after 15 weeks' gestation with no exceptions for rape or incest**. The only exceptions are if a fetus has health issues that make "incompatible with life" outside of the womb, or if a pregnant woman's life is threatened by pregnancy. ([NBC News](https://www.nbcnews.com/politics/politics-news/mississippi-gov-signs-nation-s-toughest-abortion-restrictions-n858031))
+
+5. **A federal judge temporarily blocked the new Mississippi law that bans abortion after 15 weeks**. The temporary restraining order was requested by the state's only abortion clinic. ([Associated Press](https://apnews.com/6c55a98736194980a29ddeba3ec71e00))

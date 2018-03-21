@@ -5,7 +5,7 @@ description: No sense of urgency.
 image: "/uploads/426.jpg"
 ---
 
-1/ **The Senate Intelligence Committee recommended that states buy voting machines that produce paper ballots** and that they secure voter databases ahead of November's midterm elections. Senators, concerned about Russian meddling in the midterms, called on Congress to "urgently" make available funds for states to update their voting systems, institute vote audits, and hire staff focused on cybersecurity.  ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/senate-intelligence-election-security-midterms.html))
+1/ **The Senate Intelligence Committee recommended that states buy voting machines that produce paper ballots** and that they secure voter databases ahead of November's midterm elections. Senators, concerned about Russian meddling in the midterms, called on Congress to "urgently" make funds available for states to update their voting systems, institute vote audits, and hire staff focused on cybersecurity.  ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/senate-intelligence-election-security-midterms.html))
 
 2/ **Senators criticized the Trump administration for not doing enough to prepare for the 2018 midterms**. "I hear no sense of urgency to really get on top of this issue," Sen. Susan Collins, a Maine Republican, said. Homeland Security secretary Kirstjen Nielsen testified before the committee, saying the 2018 midterms and future elections are "clearly potential targets for Russian hacking attempts." ([CNN](https://www.cnn.com/2018/03/21/politics/senate-intelligence-hearing-kirstjen-nielsen-jeh-johnson/index.html))
 
@@ -17,7 +17,7 @@ image: "/uploads/426.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/976535330835836929 %}
 
-* **A senior White House official not authorized to discuss the leak publicly commented that "leaking \[president's briefing papers\] is a fireable offense and likely illegal."** A person in close contact with national security officials said John Kelly is "on a warpath" and "there's going to be a scalp over this." ([Los Angeles Times](http://www.latimes.com/politics/la-na-pol-trump-russia-20180321-story.html))
+* **A senior White House official who is not authorized to discuss the leak publicly commented that "leaking \[president's briefing papers\] is a fireable offense and likely illegal."** A person in close contact with national security officials said John Kelly is "on a warpath" and "there's going to be a scalp over this." ([Los Angeles Times](http://www.latimes.com/politics/la-na-pol-trump-russia-20180321-story.html))
 
 5/ **The former director of the CIA suggested that Russia may have compromising information on Trump** "that they could always roll out and make his life more difficult." John Brennan, the CIA director under Obama, said the fact that Trump "had this fawning attitude toward Mr. Putin, has not said anything negative about him, I think continues to say to me that he does have something to fear and something very serious to fear." Brennan was the CIA director in 2016 when the dossier surfaced that claimed the Russians had compromising information on Trump. ([CNN](https://www.cnn.com/2018/03/21/politics/brennan-trump-russia/index.html) / [New York Times](https://www.nytimes.com/2018/03/21/us/politics/trump-mueller-russia.html))
 

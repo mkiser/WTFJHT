@@ -11,7 +11,13 @@ image: "/uploads/426.jpg"
 
 3/ **Trump ignored specific warnings from his national security advisers not to congratulate Putin** on his recent election win. Instead, Trump called Putin and opened by congratulating him. A section in Trump's briefing materials was titled "DO NOT CONGRATULATE" in all-capital letters. ([Washington Post](https://www.washingtonpost.com/politics/trumps-national-security-advisers-warned-him-not-to-congratulate-putin-he-did-it-anyway/2018/03/20/22738ebc-2c68-11e8-8ad6-fbc50284fce8_story.html?utm_term=.6923a72f43a7))
 
-4/ **Trump and John Kelly are reportedly furious over the leak that Trump congratulated Putin despite warnings** from multiple national security advisers and briefing materials that said "DO NOT CONGRATULATE." It is still unclear if Trump read the guidance that was given to him by his advisers. ([CNN](https://www.cnn.com/2018/03/21/politics/donald-trump-vladimir-putin-congratulations/index.html))
+4/ **Trump and John Kelly are reportedly furious over the leak that Trump congratulated Putin despite warnings** from multiple national security advisers and briefing materials that said "DO NOT CONGRATULATE." It's still unclear if Trump read the guidance that was given to him by his advisers, but Trump defended his congratulatory call, tweeting that "Getting along with Russia... is a good thing," and that his "energy and chemistry" with Putin will be constructive. He capped off his second tweet with an all-caps: "PEACE THROUGH STRENGTH!" ([CNN](https://www.cnn.com/2018/03/21/politics/donald-trump-vladimir-putin-congratulations/index.html) / [Axios](https://www.axios.com/trump-defends-putin-call-6eb50776-6ac5-4f43-b233-674acec92990.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/976532956557737984 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/976535330835836929 %}
+
+* **A senior White House official not authorized to discuss the leak publicly commented that "leaking \[president's briefing papers\] is a fireable offense and likely illegal."** A person in close contact with national security officials said John Kelly is "on a warpath" and "there's going to be a scalp over this." ([Los Angeles Times](http://www.latimes.com/politics/la-na-pol-trump-russia-20180321-story.html))
 
 5/ **The former director of the CIA suggested that Russia may have compromising information on Trump** "that they could always roll out and make his life more difficult." John Brennan, the CIA director under Obama, said the fact that Trump "had this fawning attitude toward Mr. Putin, has not said anything negative about him, I think continues to say to me that he does have something to fear and something very serious to fear." Brennan was the CIA director in 2016 when the dossier surfaced that claimed the Russians had compromising information on Trump. ([CNN](https://www.cnn.com/2018/03/21/politics/brennan-trump-russia/index.html) / [New York Times](https://www.nytimes.com/2018/03/21/us/politics/trump-mueller-russia.html))
 
@@ -19,16 +25,20 @@ poll/ **40% of voters view the NRA negatively**, compared with 37% who view the 
 
 poll/ **70% of millennial women now identify as Democrats**, up from 54% in 2002. 23% of millennial women identify as Republicans, down from 36% in 2002. ([Pew Research Center](http://www.people-press.org/2018/03/20/1-trends-in-party-affiliation-among-demographic-groups/))
 
+poll/ **67% of voters say Trump is not a good role model for children**. 55% don't think Trump has a good sense of decency. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=2529))
+
 ---
 
 ### Notables.
 
 1. **The Austin bombing suspect blew himself up** as a SWAT team tried to apprehend him on the side of a highway. Mark Anthony Conditt is believed to have been responsible for at least six bombs that killed at least two people and wounded five. Police were closing in on Conditt's vehicle on Interstate 35 when "the suspect detonated a bomb inside the vehicle, knocking one of our SWAT officers back," Austin Police Chief Brian Manley said. ([NBC News](https://www.nbcnews.com/news/us-news/austin-bombings-suspect-believed-neutralized-sources-n858576) / [New York Times](https://www.nytimes.com/2018/03/21/us/austin-bombings-suspect.html))
 
-2. **Texas GOP Rep. Blake Farenthold is considering stepping down from Congress before the end of his term**, which would allow him to dodge an Ethics Committee investigation into allegations of inappropriate office behavior. ([Politico](https://www.politico.com/story/2018/03/20/farenthold-texas-congress-resign-475076))
+2. **Mark Zuckerberg on Cambridge Analytica: "We have a responsibility to protect your data**, and if we can't then we don't deserve to serve you." Zuckerberg said Facebook will investigate all apps with access to Facebook data, limit access to data to prevent other kinds of abuse, and release a tool to help users understand who has access to their data. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-03-21/facebook-ceo-mark-zuckerberg-breaks-his-silence) / [CNBC](https://www.cnbc.com/2018/03/21/zuckerberg-statement-on-cambridge-analytica.html))
 
-3. **A Holocaust denier won the Illinois Republican primary in the state's Third Congressional District**. The Illinois Republican Party tried to distance itself from Arthur Jones, blanketing the district with campaign fliers and robocalls urging voters to "stop Illinois Nazis." ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/arthur-jones-illinois.html))
+3. **Texas GOP Rep. Blake Farenthold is considering stepping down from Congress before the end of his term**, which would allow him to dodge an Ethics Committee investigation into allegations of inappropriate office behavior. ([Politico](https://www.politico.com/story/2018/03/20/farenthold-texas-congress-resign-475076))
 
-4. **EPA Administrator Scott Pruitt spent more than $163,000 on first-class flights, military aircraft, and charter flights** in his first year in office. The agency has said the expensive flights were necessary because of the high number of security threats Pruitt has received. ([Politico](https://www.politico.com/story/2018/03/20/pruitt-epa-first-class-flights-430700))
+4. **A Holocaust denier won the Illinois Republican primary in the state's Third Congressional District**. The Illinois Republican Party tried to distance itself from Arthur Jones, blanketing the district with campaign fliers and robocalls urging voters to "stop Illinois Nazis." ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/arthur-jones-illinois.html))
 
-5. **The Republican National Committee spent at least $271,000 at Trump's private businesses in February**. The expenditures represent 86% of the RNC's February spending. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/03/20/republican-national-committee-spent-big-at-trump-properties-in-february-filings-show/))
+5. **EPA Administrator Scott Pruitt spent more than $163,000 on first-class flights, military aircraft, and charter flights** in his first year in office. The agency has said the expensive flights were necessary because of the high number of security threats Pruitt has received. ([Politico](https://www.politico.com/story/2018/03/20/pruitt-epa-first-class-flights-430700))
+
+6. **The Republican National Committee spent at least $271,000 at Trump's private businesses in February**. The expenditures represent 86% of the RNC's February spending. ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/03/20/republican-national-committee-spent-big-at-trump-properties-in-february-filings-show/))

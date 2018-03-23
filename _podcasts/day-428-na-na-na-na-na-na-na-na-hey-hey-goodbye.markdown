@@ -31,16 +31,6 @@ length: 12479657
 
 10/ The "lone hacker" known as Guccifer 2.0 is actually a Russian intelligence officer.
 
-**NOTABLES.**
-
-* Washington, D.C., and Maryland filed a lawsuit against Trump for violating the emoluments clause of the U.S. Constitution.
-
-* Kellyanne Conway is poised to take over as the White House communications director in the wake of Hope Hicks' departure.
-
-* The FEC is investigating whether Devin Nunes violated campaign finance laws.
-
-* CBS will air its 60 Minutes interview with Stormy Daniels on Sunday, March 25, at 7:00 p.m. ET/PT.
-
 **[Become a supporting member today!](https://whatthefuckjusthappenedtoday.com/membership/?utm_source=2017\+Donors&utm_campaign=8dccd905d9-&utm_medium=email&utm_term=0_3bd36f654c-8dccd905d9-169730397)**
 
 *Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by [Matt Kiser](https://twitter.com/Matt_Kiser). The [WTFJHT Podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) is narrated and produced by [Joe Amditis](https://twitter.com/jsamditis).*

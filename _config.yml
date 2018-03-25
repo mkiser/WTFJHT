@@ -221,7 +221,7 @@ jekyll-archives:
   permalinks:
     year: "/archive/:year/"
     month: "/archive/:year/:month/"
-gems:
+plugins:
 - jekyll-gist
 - jekyll-redirect-from
 - github-pages

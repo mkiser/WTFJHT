@@ -88,6 +88,8 @@ Transparency and an approachable tone, as well as his efforts to engage with his
 {% twitter https://twitter.com/pottsmark/status/829547543533146114 hide_media=true %}
 {% twitter https://twitter.com/AnnBrenoff/status/829541247211548672 hide_media=true %}
 {% twitter https://twitter.com/mikebutcher/status/829704213919911936 hide_media=true %}
+{% twitter https://twitter.com/kristenhare/status/971760113374715904 hide_media=true %}
+{% twitter https://twitter.com/ylichterman/status/915959720422330370 hide_media=true %}
 {% twitter https://twitter.com/poynter/status/831516097430036480 hide_media=true %}
 {% twitter https://twitter.com/OrinKerr/status/880856325881831424 hide_media=true %}
 {% twitter https://twitter.com/summerbrennan/status/830094832462868480 hide_media=true %}
@@ -97,6 +99,7 @@ Transparency and an approachable tone, as well as his efforts to engage with his
 {% twitter https://twitter.com/davidbauer/status/831760531279183872 hide_media=true %}
 {% twitter https://twitter.com/ltomei/status/865259914716995584 hide_media=true %}
 {% twitter https://twitter.com/KenPlume/status/828165230849060864 hide_media=true %}
+{% twitter https://twitter.com/espiers/status/852551321018400768 hide_media=true %}
 {% twitter https://twitter.com/azeem/status/864696592699412480 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/GA/status/840292694018662400 hide_media=true %}
 {% twitter https://twitter.com/jessamyn/status/833392986633412609 hide_media=true %}
@@ -107,7 +110,7 @@ Transparency and an approachable tone, as well as his efforts to engage with his
 {% twitter https://twitter.com/couchtomoon/status/830961493449531393 hide_media=true %}
 {% twitter https://twitter.com/jesseisgolfing/status/864925693276246016 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/chesleydohl/status/864885824063553536 hide_media=true %}
-
+{% twitter https://twitter.com/mandyhofmockel/status/915959802123177985 hide_media=true %}
 {% twitter https://twitter.com/palafo/status/888027668008112128 %}
 {% twitter https://twitter.com/StephanieWei/status/863052837454045186 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/mikewhills/status/864249722315386880 hide_media=true hide_thread=true %}
@@ -115,6 +118,7 @@ Transparency and an approachable tone, as well as his efforts to engage with his
 {% twitter https://twitter.com/daniellerch/status/865327370579869696 hide_media=true hide_thread=true %}
 {% twitter https://twitter.com/crashdev/status/832395331895644162 hide_media=true %}
 {% twitter https://twitter.com/mkramer/status/831524205590114304 %}
+{% twitter https://twitter.com/davidbauer/status/923900733145182210 hide_media=true %}
 </center>
 
 **Still not convinced?** [See all the tweets](https://twitter.com/search?q=whatthefuckjusthappenedtoday.com){:target="_blank"}

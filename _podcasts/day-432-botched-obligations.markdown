@@ -1,7 +1,7 @@
 ---
 title: 'Day 432: Botched obligations.'
 date: 2018-03-27 15:43:00 -07:00
-file: "/uploads/Day-432.mp"
+file: "/uploads/Day-432.mp3"
 post: Day 432
 duration: '00:04:5'
 length: 5925692

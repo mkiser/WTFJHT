@@ -1,6 +1,9 @@
 ---
 title: Day 440
 date: 2018-04-04 15:10:00 -07:00
+file: "/uploads/Day-440.mp3"
+duration: '00:01:45'
+length: 2946590
 ---
 
 **Wednesday, April 4, 2018**

@@ -31,7 +31,7 @@ poll/ 48% of voters support Trump's order to send National Guard troops to the U
 
 **NOTABLES.**
 
-* Trump ordered the Department of Justice to hire a former White House official who was fired for showing Devin Nunes classified documents. 
+* Trump ordered the Department of Justice to hire a former White House official who was fired for showing Devin Nunes classified documents.
 
 * The US deputy national security adviser for strategy resigned.
 
@@ -43,6 +43,6 @@ poll/ 48% of voters support Trump's order to send National Guard troops to the U
 
 * Former House Speaker John Boehner will join the board of directors of a marijuana holdings corporation, nine years after he said he was "unalterably opposed" to legalization.
 
-* **[Become a supporting member today!](https://whatthefuckjusthappenedtoday.com/membership/?utm_source=2017\+Donors&utm_campaign=8dccd905d9-&utm_medium=email&utm_term=0_3bd36f654c-8dccd905d9-169730397)**
+**[Become a supporting member today!](https://whatthefuckjusthappenedtoday.com/membership/?utm_source=2017\+Donors&utm_campaign=8dccd905d9-&utm_medium=email&utm_term=0_3bd36f654c-8dccd905d9-169730397)**
 
 *Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by [Matt Kiser](https://twitter.com/Matt_Kiser). The [WTFJHT Podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) is narrated and produced by [Joe Amditis](https://twitter.com/jsamditis).*

@@ -9,13 +9,14 @@ layout: page
 Don't believe the hype? How about some social proof. Here's what the smartest people on the Internet are saying about [What The Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com):
 
 **"I have been on the internet since 1994 and WTFJHT is the best damn political resource I’ve ever come across. Can’t wait to read it each day."** –[Another satisfied WTF Just Happened Today reader](https://talk.whatthefuckjusthappenedtoday.com/t/introduce-yourself/45/528).
-<!-- 
+
+
 <div class="author-avatar">
 <img src="https://whatthefuckjusthappenedtoday.com/uploads/BW_Honoree.png" class="author-image">
 </div>
 <div class="author-box">
 <h3 class="name"><a href="https://vote.webbyawards.com/PublicVoting#/2018/websites/general/news-politics?honoree" target="_blank">A 2018 Webby Award Honoree</a></h3>
-</div> -->
+</div> 
 
 1/ **Meet the wildly popular blogger chronicling President Trump one day at a time**. The site is easy to read, easy to parse and easy to share. There are no ads, and WTF Happened Today makes it easy to see news in context with what happened yesterday and the day before that. ([Poynter](http://www.poynter.org/2017/meet-the-wildly-popular-blogger-chronicling-president-trump-one-day-at-a-time/448894/){:target="_blank"})
 

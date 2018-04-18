@@ -28,6 +28,7 @@ defaults:
     title: ''
     description: ''
     image: ''
+    todayInOneSentence: ''
     author: Matt Kiser
     layout: post
     seo:

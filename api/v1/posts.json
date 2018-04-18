@@ -11,8 +11,10 @@
       "desc"  : {{ post.description | jsonify }},
       "content"  : {{ post.content | jsonify }},
       "href"  : "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
-      {% if post.image %}
-      "image" : "{{ site.url }}{{ site.baseurl }}{{ post.image}}",
+      {% if post.image contains '/uploads/' %}
+      "image" : "{{ site.url }}{{ site.baseurl }}{{ post.image }}",
+      {% else %}
+      "image" : "",
       {% endif %}
       {% if post.todayInOneSentence %}
       "todayInOneSentence" : {{ post.todayInOneSentence | jsonify }},
@@ -33,4 +35,4 @@
    {% unless forloop.last %},{% endunless %}
    {% endfor %}
  ]
-}
+} 

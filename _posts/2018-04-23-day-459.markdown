@@ -11,9 +11,9 @@ image: "/uploads/459.jpg"
 
 * **TIMELINE**: An hour-by-hour recap of Trump's 2013 visit to Moscow. ([Bloomberg](https://www.bloomberg.com/news/articles/2017-07-13/trump-s-two-nights-of-parties-in-moscow-reverberate-years-later))
 
-* **Trump flew to Moscow on November 7th, 2013**, landing Friday, November 8th. 
+* **Trump flew to Moscow on November 7th, 2013**, landing Friday, November 8th.
 
-* **The next day, Trump was at the Ritz-Carlton hotel**, did a tour of Moscow, and attended the Miss Universe pageant, followed by an afterparty that started at 1am. 
+* **The next day, Trump was at the Ritz-Carlton hotel**, did a tour of Moscow, and attended the Miss Universe pageant, followed by an afterparty that started at 1am.
 
 * **Keith Schiller, Trump's bodyguard, [testified](https://www.nbcnews.com/news/us-news/trump-bodyguard-testifies-russian-offered-trump-women-was-turned-down-n819386) before Congress that "a Russian participant" offered to send five women to Trump's hotel room on November 9th**. Schiller reportedly rejected the offer and stood outside Trump's hotel room until he went to bed for the night.
 
@@ -35,9 +35,9 @@ image: "/uploads/459.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/987679848284999680 %}
 
-{% twitter https://twitter.com/realDonaldTrump/status/987679850545778689 hide_media=true %}
+{% twitter https://twitter.com/realDonaldTrump/status/987679850545778689 hide_media=true hide_thread=true %}
 
-{% twitter https://twitter.com/realDonaldTrump/status/987679852345135105 hide_media=true %}
+{% twitter https://twitter.com/realDonaldTrump/status/987679852345135105 hide_media=true hide_thread=true %}
 
 {% twitter https://twitter.com/realDonaldTrump/status/988106076028653568 %}
 

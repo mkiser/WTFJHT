@@ -21,9 +21,9 @@ image: "/uploads/459.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/987679848284999680 %}
 
-{% twitter https://twitter.com/realDonaldTrump/status/987679850545778689 %}
+{% twitter https://twitter.com/realDonaldTrump/status/987679850545778689 hide_media=true %}
 
-{% twitter https://twitter.com/realDonaldTrump/status/987679852345135105 %}
+{% twitter https://twitter.com/realDonaldTrump/status/987679852345135105 hide_media=true %}
 
 {% twitter https://twitter.com/realDonaldTrump/status/988106076028653568 %}
 

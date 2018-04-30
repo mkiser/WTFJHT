@@ -1,7 +1,7 @@
 ---
 title: 'Day 466: Panic mode.'
 date: 2018-04-30 15:47:00 -07:00
-file: "/uploads/Day-466.mp3"
+file: "/uploads/Day466.mp3"
 post: Day 466
 duration: '00:07:46'
 length: 8613825

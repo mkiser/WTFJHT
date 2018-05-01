@@ -84,7 +84,7 @@ seo:
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="}{{ site.baseurl }}{{ paginator.next_page_path }}">Next &raquo;</a>
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}">Next &raquo;</a>
   {% else %}
     <span>Next &raquo;</span>
   {% endif %}

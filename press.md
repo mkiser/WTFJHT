@@ -24,6 +24,8 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 3/ **How WTF Just Happened Today? is Rethinking Membership**. It feels like a million years ago now, but in January 2017 the headlines were dominated by discussions over the size of the crowd at President Trump’s inauguration, “alternative facts,” the Women’s March, the Travel Ban, and more. What started as a side project for Kiser had unexpectedly grown into a more substantial undertaking. Kiser quit his job and began working on WTFJHT fulltime. The project has continued past the 100-day mark. Now he had to make a living from it. And he had to figure out how to grow it. ([The Lenfest Institute for Journalism](https://www.lenfestinstitute.org/solution-set/2018/03/08/wtf-just-happened-today-rethinking-membership/){:target="_blank"})
 
+4/ **Combine an “editorially responsible” algorithm + political news, and you have Current Status**. “I see my role as a sort of reinforcement editor, ensuring that the good stuff is always percolating to the top. Sometimes the news isn’t as neat as an algorithm wants to make it." ([Nieman Lab](http://www.niemanlab.org/2018/04/combine-an-editorially-responsible-algorithm-political-news-and-you-have-current-status/){:target="_blank"})
+
 4/ **100 Days of WTF Just Happened Today?** My constant companion in the past 100 days has been [What the Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com/) Don’t let the crass title fool you. The site is the best daily collection of the news out there. My favorite feature: the site is currently run by one guy. Matt Kiser is both reading the news and hand picking the stories you need to read. ([Rands in Repose](http://randsinrepose.com/archives/100-days-of-wtf-just-happened-today/){:target="_blank"})
 
 5/ **Your Guide to the Sprawling New Anti-Trump Resistance Movement**. An explosion of new activism offers a ray of hope in these dark political times. ([The Nation](https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/){:target="_blank"})
@@ -85,6 +87,8 @@ Transparency and an approachable tone, as well as his efforts to engage with his
 {% twitter https://twitter.com/rands/status/832400035463589888 hide_media=true %}
 {% twitter https://twitter.com/imemi/status/864679621601656833 hide_media=true %}
 {% twitter https://twitter.com/Anthony/status/847537862094573572 hide_media=true %}
+{% twitter https://twitter.com/NiemanLab/status/988438856344186880 hide_media=true %}
+{% twitter https://twitter.com/Anthony/status/987443120945102849 %}
 {% twitter https://twitter.com/MichelleRafter/status/833476858368843776 hide_media=true %}
 {% twitter https://twitter.com/th3j35t3r/status/857606607399776256 hide_media=true %}
 {% twitter https://twitter.com/GreggHoush/status/853038667706884098 hide_media=true %}

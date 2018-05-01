@@ -233,6 +233,11 @@ gems:
 - jekyll-archives
 - algoliasearch
 - jekyll-include-cache
+- jekyll-onebox
+onebox:
+  whitelist:
+    - nbcnews.com
+    - politico.com
 podcast_album_art: "/podcasts/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser

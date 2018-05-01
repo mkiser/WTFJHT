@@ -1,5 +1,5 @@
 ---
-title: Day 34
+title: Day 467
 date: 2018-05-01 05:14:00 -07:00
 ---
 
@@ -7,4 +7,4 @@ date: 2018-05-01 05:14:00 -07:00
 
 2. **Trump allies in the House have drafted articles of impeachment against Deputy Attorney General Rod Rosenstein**. One author of the draft articles referred to them as a "last resort." The draft articles are not expected to garner much support in Congress. The last federal official to be impeached by the House was federal Judge G. Thomas Porteous Jr., who was convicted on bribery allegations by the Senate in 2010. ([Washington Post](https://www.washingtonpost.com/politics/trump-allied-house-conservatives-draft-articles-of-impeachment-against-rosenstein-as-last-resort/2018/04/30/d78af412-4c97-11e8-b725-92c89fe3ca4c_story.html?utm_term=.3dae898bc378))
 
-3. **Robert Mueller has at least 48 questions on a wide array of subjects that he wants to ask Trump regarding his ties to Russia and alleged obstruction of the special counsel's inquiry**. The questions deal primarily with Trump's firing of James Comey and his first national security adviser, as well as his treatment of Jeff Sessions and the 2016 Trump Tower meeting between Trump campaign officials and Russians who claimed to have damaging information on Hillary Clinton. Other topics of inquiry include Trump's conversations with Michael Cohen about a real estate deal in Moscow, Jared Kushners attempts to set up a back channel to Russia, contacts Trump had with Roger Stone, and Trump's 2013 trip to Moscow for the Miss Universe pageant. ([New York Times](https://www.nytimes.com/2018/04/30/us/politics/robert-mueller-questions-trump.html))  
+3. **Robert Mueller has at least 49 questions on a wide array of subjects that he wants to ask Trump regarding his ties to Russia and alleged obstruction of the special counsel's inquiry**. The questions deal primarily with Trump's firing of James Comey and his first national security adviser, as well as his treatment of Jeff Sessions and the 2016 Trump Tower meeting between Trump campaign officials and Russians who claimed to have damaging information on Hillary Clinton. Other topics of inquiry include Trump's conversations with Michael Cohen about a real estate deal in Moscow, Jared Kushners attempts to set up a back channel to Russia, contacts Trump had with Roger Stone, and Trump's 2013 trip to Moscow for the Miss Universe pageant. ([New York Times](https://www.nytimes.com/2018/04/30/us/politics/robert-mueller-questions-trump.html))

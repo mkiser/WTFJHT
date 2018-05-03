@@ -59,15 +59,40 @@ seo:
   {% endfor %} 
 </div> 
 
-
-
-<div class="next-prev pagination">
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next" rel="next">&laquo; Older</a>
-  {% endif %}
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination"> 
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="prev previous" rel="prev">Newer &raquo;</a>
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
   {% endif %}
-    <p>Or check the <a href="{{ site.url }}{{ site.baseurl }}/archive/">archives</a></p>
+  
+  {% capture prevpage %}{{ paginator.next_page | minus:2 }}{% endcapture %}
+  {% capture nextpage %}{{ paginator.previous_page | plus: 2 }}{% endcapture %}
+
+    {% for page in (1..nextpage) %}
+    {% if page == paginator.page %}
+      <span>{{ page }}</span>
+    {% elsif page < 1 %}
+      
+    {% elsif page == 1 %}
+      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.baseurl }}{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
 </div>
+{% endif %}
+
+<div class="next-prev">
+    <p>Or check the <a href="{{ site.baseurl }}/archive/">archives</a></p>
+</div>
+
 

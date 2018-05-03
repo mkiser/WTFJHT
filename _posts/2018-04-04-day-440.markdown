@@ -1,0 +1,50 @@
+---
+title: Day 440
+date: 2018-04-04 16:24:00 -07:00
+description: Short-term pain.
+image: "/uploads/440.jpg"
+---
+
+1/ **Robert Mueller: Trump is not currently a criminal target in the Russia probe, but he remains under investigation**. The special counsel also told Trump's lawyers during negotiations in early March regarding a possible Trump interview that he is preparing a report about Trump's actions and potential obstruction of justice. Mueller is required to report his conclusions confidentially to Deputy Attorney General Rod J. Rosenstein, who has the authority to decide whether to release the information publicly. Mueller's investigators plan to report on their findings in stages, starting with the obstruction issue. Trump has privately expressed relief at his legal status and has repeatedly told allies that he is not a target of the probe and believes an interview will help him put the matter behind him. ([Washington Post](https://www.washingtonpost.com/politics/mueller-told-trumps-attorneys-the-president-remains-under-investigation-but-is-not-currently-a-criminal-target/2018/04/03/d7832cf0-36c1-11e8-acd5-35eac230e514_story.html?utm_term=.ef52cd74e17e))
+
+* **Analysis**: Mueller told Trump he's not a criminal target in the Russia probe. That may not mean what you think. ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/04/04/mueller-told-trump-hes-not-a-criminal-target-but-that-doesnt-mean-his-evidence-against-trump-is-weak/))
+
+* **Analysis**: Mueller's assurances that Trump is not a "target" don’t mean much. ([Politico](https://www.politico.com/story/2018/04/03/trump-mueller-russia-probe-500128))
+
+2/ **Mueller's team has been questioning Russian oligarchs who travel to the US**. Investigators want to know if wealthy Russians illegally funneled money directly or indirectly into Trump's presidential campaign and inauguration. Foreign nationals are prohibited under campaign finance laws from donating to US political campaigns. Mueller's team has stopped at least three Russian oligarchs for questioning in recent weeks. ([CNN](https://www.cnn.com/2018/04/04/politics/mueller-special-counsel-investigation-russian-oligarchs/index.html))
+
+3/ **H. R. McMaster denounced Russia and said "we have failed to impose sufficient costs" in his last public remarks as Trump's national security adviser**. "Russia has used old and new forms of aggression to undermine our open societies and the foundations of international peace and stability," McMaster said. Hours earlier, Trump claimed that "nobody has been tougher on Russia than I have." ([Washington Post](https://www.washingtonpost.com/world/national-security/hr-mcmaster-delivers-a-parting-shot-to-russia-as-he-prepares-to-bow-out-as-national-security-adviser/2018/04/04/d48f4df6-37b3-11e8-8fd2-49fe3c675a89_story.html))
+
+4/ **Trump is expected this week to impose additional sanctions against Russia**, which are designed to target oligarchs with ties to Putin. The United States is expected to target individuals on a list of influential Russian political and business leaders that the Treasury Department released in January. ([Washington Post](https://www.washingtonpost.com/world/national-security/trump-administration-to-impose-fresh-sanctions-against-russia/2018/04/04/bc09e0b8-3851-11e8-b57c-9445cc4dfa5e_story.html))
+
+5/ **Roger Stone predicted "devastating" leaks about the Clinton Foundation the same day he sent an email saying he dined with WikiLeaks founder Julian Assange**. Stone's comments came during an appearance on InfoWars on August 4, 2016. Stone sent an email to Sam Nunberg on August 4, 2016, about a dinner with Assange the night before. He also mentioned in the email that he spoke with then-Republican nominee Donald Trump on August 3. ([CNN](https://www.cnn.com/2018/04/04/politics/roger-stone-julian-assange-email-wikileaks/index.html))
+
+6/ **The White House said the U.S. will remain in Syria despite Trump's instructions to military leaders to withdraw all 2,000 troops**. No date has been set. Yesterday, Trump told reporters that "I want to get out — I want to bring our troops back home." Meanwhile, Sarah Huckabee Sanders said that "the United States and our partners remain committed to eliminating the small ISIS presence in Syria that our forces have not already eradicated." ([New York Times](https://www.nytimes.com/2018/04/04/world/middleeast/trump-syria-troops.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/trump-instructs-military-to-begin-planning-for-withdrawal-from-syria/2018/04/04/1039f420-3811-11e8-8fd2-49fe3c675a89_story.html))
+
+7/ **Trump will deploy the National Guard to protect the southern U.S. border**. Trump signed a proclamation directing the Department of Defense and the Department of Homeland Security to work with governors to send troops to the southwest border to assist the Border Patrol in combating illegal immigration. "It's time to act," Department of Homeland Security Secretary Kirstjen Nielsen said. "Unfortunately – time and again – Congress has failed to act. Worse still, some members of Congress have continually opposed efforts to secure the border." ([Politico](https://www.politico.com/story/2018/04/04/trump-national-guard-border-kirstjen-nielsen-502117) / [CBS News](https://www.cbsnews.com/news/live-white-house-briefing-april-4-2018-live-stream/) / [Washington Post](https://www.washingtonpost.com/politics/trump-to-sign-proclamation-to-send-national-guard-troops-to-the-us-mexico-border/2018/04/04/9f9cd796-3838-11e8-acd5-35eac230e514_story.html) / [New York Times](https://www.nytimes.com/2018/04/04/us/politics/trump-governors-national-guard-border-mexico.html))
+
+8/ **China proposed tariffs on $50 billion worth of American goods after the Trump administration proposed similar tariffs on Chinese goods**. Trump tweeted Wednesday morning that the U.S. was "not in a trade war with China" and "that war was lost many years ago by the foolish, or incompetent, people who represented the U.S." Stocks fell early in the day after talks of a trade war escalated. The Dow erased a 510-point loss for a gain of 230. ([New York Times](https://www.nytimes.com/2018/04/04/business/china-us-tariffs.html) / [Reuters](https://www.reuters.com/article/us-usa-trade-china/u-s-expects-talks-with-china-as-trade-fight-escalates-idUSKCN1HB0G6) / [CNN Money](http://money.cnn.com/2018/04/04/investing/us-stocks-markets-china-tariffs/index.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/981492087328792577 %}
+
+* **The White House said there could be some "short-term pain" if there's a trade war with China**. Sarah Huckabee Sanders said it would be worth it because "we're certainly going to have long-term success." ([Politico](https://www.politico.com/story/2018/04/04/china-tariffs-us-imports-trump-500163))
+
+* **A U.S.-China trade war will cost 190,000 American jobs**, according to the chief economist at Moody's Analytics. ([Axios](https://www.axios.com/economist-trump-trade-war-will-already-cost-190k-jobs-1522857360-0d8f5f65-8334-45f7-a2e6-d8251d5c5884.html))
+
+---
+
+### Notables.
+
+1. **A Defense Department appointee resigned after being outed for posting birther conspiracies and other controversial things about Obama on social media**. Todd Johnson is a former Trump campaign state director in New Mexico and joined the Defense Department in 2017. His job was to provide logistical support for the secretary's events and appearances. ([CNN](https://www.cnn.com/2018/04/03/politics/trump-dod-appointee-resigns-birther/index.html))
+
+2. **Trump and congressional Republicans want to cut billions of dollars from the bipartisan funding deal they passed last month**. They are being pressured by conservatives who don't like the deal.   ([Politico](https://www.politico.com/story/2018/04/03/budget-omnibus-cuts-trump-kevin-mccarthy-498462))
+
+3. **Planned Parenthood President Cecile Richards said Ivanka Trump and Jared Kushner tried to bribe her with an increase in federal funding for Planned Parenthood in exchange for agreeing to stop providing abortion services**. The bulk of federal money Planned Parenthood receives goes toward preventive health care, birth control, pregnancy tests and other women's health services. Federal law prohibits taxpayer dollars from funding abortions. ([CNN](https://www.cnn.com/2018/04/04/politics/ivanka-trump-planned-parenthood/index.html))
+
+4. **At least 18 email domains managed by the Executive Office of the President are not in compliance with a Department of Homeland Security protocol**. Of the 26 domains tested, only one had fully implemented the security protocol, which means someone could theoretically send misinformation from a presidential aide's account. ([Axios](https://www.axios.com/outgoing-white-house-emails-not-protected-by-verification-system-deafc584-759b-4c8f-969a-3ced8a8059f8.html))
+
+5. **Seventeen states, Washington, D.C., and six cities are suing the Trump administration to stop it from asking people if they are citizens on the 2020 census**. A citizenship question has not appeared on the decennial census form since 1950. ([Reuters](https://www.reuters.com/article/us-usa-census/states-cities-sue-u-s-to-block-2020-census-citizenship-question-idUSKCN1HA1WS))
+
+6. **Mark Zuckerberg: Most Facebook users should "assume" that their public profile has been scraped**. "It is reasonable to expect," Zuckerberg said, that "someone has accessed your information in this way." ([CNBC](https://www.cnbc.com/2018/04/04/facebook-most-people-could-have-had-their-public-profile-scraped.html))
+
+7. **Cambridge Analytica improperly gained access to the data of as many as 87 million Facebook users** – roughly equivalent to a quarter of the population of the United States. "That was a huge mistake," Zuckerberg said. ([New York Times](https://www.nytimes.com/2018/04/04/technology/mark-zuckerberg-testify-congress.html))

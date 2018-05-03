@@ -1,0 +1,58 @@
+---
+title: Day 447
+date: 2018-04-11 08:30:00 -07:00
+description: Get ready.
+image: "/uploads/447.jpg"
+---
+
+1/ **Trump tweets that "smart" missiles "will be coming" toward Syria in response to a chemical attack, taunting Russia to "get ready."** Russia's ambassador to Lebanon [said](https://www.nytimes.com/reuters/2018/04/11/world/middleeast/11reuters-mideast-crisis-syria-russia-diplomat.html) any U.S. missiles fired at Syria would be shot down and the launch sites targeted. Trump also condemned Moscow's backing of Bashar al-Assad, saying: "You shouldn't be partners with a Gas Killing Animal who kills his people and enjoys it!" In a pair of subsequent tweets, Trump said relations between the U.S. and Russia are "worse now than it has ever been" and the "Fake and Corrupt Russia Investigation," Democrats, and everybody that worked for Obama are to blame. ([New York Times](https://www.nytimes.com/2018/04/11/world/middleeast/trump-syria-attack.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-says-missiles-will-be-coming-to-syria-taunts-russia-for-vowing-to-block-them/2018/04/11/7dc52fa0-3d7a-11e8-8d53-eba0ed2371cc_story.html))
+
+{% twitter https://twitter.com/realdonaldtrump/status/984022625440747520 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/984032798821568513 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/984053549742067712 %}
+
+* **Trump's tweets broke national security policy, known as operations security**. The objective is to not publicly announce information that can be used to jeopardize a mission. The Department of Defense lists "social network sites, tweets, text messages, blogs, videos, photos, GPS mapping, newsletters" as a few of the ways in which operations security can be compromised. ([CNBC](https://www.cnbc.com/2018/04/11/trumps-syria-threat-tweet-violates-national-security-procedures.html))
+
+2/ **Paul Ryan will not seek re-election in November**, ending what will be a three-year run as the leader of House Republicans. Ryan will serve until the end of this Congress in January, which will mark 20 years in Congress for him. He said that he won't run for public office again. ([Axios](https://www.axios.com/paul-ryan-not-running-reelection-retirement-8b5c598b-bcdf-46ca-a7d9-7206c2f3fdb5.html) / [Politico](https://www.politico.com/story/2018/04/11/ryan-to-retire-after-this-year-514543) / [New York Times](https://www.nytimes.com/2018/04/11/us/politics/paul-ryan-speaker.html))
+
+* [Who The Fuck Has Left The Trump Administration](https://talk.whatthefuckjusthappenedtoday.com/t/who-the-fuck-has-left-the-trump-administration/908). A timeline of all the departures so far...
+
+3/ **Trump is considering firing Rod Rosenstein** following the FBI raid on Michael Cohen's office, in order to limit Robert Mueller's investigation through a new deputy attorney general. Rosenstein has been in charge of the Mueller probe since Jeff Sessions recused himself last year from all investigations involving the 2016 election. Trump is also weighing whether to fire Jeff Sessions and install a new attorney general. ([CNN](https://www.cnn.com/2018/04/10/politics/trump-rod-rosenstein-robert-mueller/index.html))
+
+4/ **Trump tried to fire Robert Mueller in December** after incomplete news reports surfaced that subpoenas coming from Mueller's probe were targeting his business dealings with Deutsche Bank. To Trump, the subpoenas suggested that the investigation had expanded beyond his "red line." Trump backed down after his lawyers and advisers assured him that the reports were not accurate. ([New York Times](https://www.nytimes.com/2018/04/10/us/politics/trump-sought-to-fire-mueller-in-december.html))
+
+5/ **Robert Mueller asked to subpoena 35 witnesses for Paul Manafort's trial**, which is set to begin on July 10th. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-04-11/mueller-seeks-subpoenas-for-35-witnesses-for-manafort-trial))
+
+6/ **The FBI agents who searched Michael Cohen's office wanted all records related to the "Access Hollywood" tape**, where Trump bragged about being able to sexually assault women, including that he would "grab them by the pussy" whenever he wanted and that he would sometimes "just start kissing them." Federal prosecutors are investigating Cohen for possible bank fraud, but are also looking at whether these efforts amounted to improper campaign donations to Trump. ([New York Times](https://www.nytimes.com/2018/04/11/us/politics/michael-cohen-trump-access-hollywood.html))
+
+* **Michael Cohen said the FBI was "extremely professional, courteous and respectful" during the raids on his home, office, and hotel**. "I am unhappy to have my personal residence and office raided," Cohen said. "But I will tell you that members of the FBI that conducted the search and seizure were all extremely professional, courteous and respectful. And I thanked them at the conclusion." ([CNN](https://www.cnn.com/2018/04/10/politics/michael-cohen-fbi-raid/index.html))
+
+7/ **A bipartisan Senate bill designed to protect Robert Mueller's job is on track for an an April 19 vote in the Judiciary Committee**. If the bill passes out of committee, the legislation would allow the special counsel to be fired only "for good cause" by a senior Justice Department official, with a reason given in writing, and it would provide recourse if Mueller is fired without good cause. The bill will also require that materials be saved from the pending investigation. Mitch McConnell said that he is not convinced that a Mueller protection bill merits floor time in the chamber. "I haven't seen a clear indication yet that we need to pass something to keep him from being removed," he said. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia/bipartisan-group-of-senators-introduce-proposal-to-protect-mueller-idUSKBN1HI1VA) / [The Hill](http://thehill.com/homenews/senate/382683-senate-panel-moves-to-take-up-bill-protecting-mueller) / [Politico](https://www.politico.com/story/2018/04/11/senate-bill-protect-mueller-514494))
+
+8/ **Rebekah Mercer asked Facebook for an independent investigation into Cambridge Analytica**, data collection, and the 2016 election in an attempt to get the data platform's ban lifted. The meeting came four days after Facebook suspended Cambridge Analytica, and a day after Cambridge agreed to let Facebook audit the firm's servers. Facebook initially considered the independent investigation, but then declined. Robert Mercer invested $15 million in Cambridge Analytica, where his daughter Rebekah is a board member. The Mercer family were major donors to Trump's presidential campaign. ([BuzzFeed News](https://www.buzzfeed.com/josephbernstein/rebekah-mercer-asked-facebook) / [New York Times](https://www.nytimes.com/2018/04/10/us/politics/mercer-family-cambridge-analytica.html))
+
+* **Cambridge Analytica's acting CEO is stepping down**. Julian Wheatland, the chairman of Cambridge Analytica's British affiliate, will take over. ([Wall Street Journal](https://www.wsj.com/articles/cambridge-analytica-ceo-post-goes-to-julian-wheatland-1523474751) / [Politico](https://www.politico.com/story/2018/04/11/cambridge-analytica-ceo-resign-515545))
+
+9/ **California's governor agreed to deploy 400 National Guard troops at Trump's request**, but they won't used for "enforcing federal immigration laws." Gov. Jerry Brown said he would accept federal funding to add California National Guard troops to a program to "combat transnational crime," which targets gangs, human traffickers and firearm and drug smugglers. ([San Jose Mercury News](https://www.mercurynews.com/2018/04/11/california-gov-brown-national-guard-mexico-border/) / [KCRA](http://www.kcra.com/article/californias-governor-agrees-to-deploy-400-national-guard-troops-at-trumps-request/19747526))
+
+poll/ **48% of voters support Trump's order to send National Guard troops to the U.S.-Mexico border**, while 42% oppose and 9% have no opinion. ([Politico](https://www.politico.com/story/2018/04/11/border-mexico-troops-trump-poll-512778))
+
+---
+
+### Notables.
+
+1. **Trump ordered the Department of Justice to hire a former White House official who was fired for showing Devin Nunes classified documents**. Ezra Cohen-Watnick will advise Jeff Sessions on national security matters. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-04-11/sessions-is-said-to-hire-controversial-former-white-house-aide))
+
+2. **The US deputy national security adviser for strategy resigned**. Nadia Schadlow is the third senior national security official to resign or be pushed out in the wake of national security adviser John Bolton's arrival to the White House. She will leave her position at the end of the month. ([CNN](https://www.cnn.com/2018/04/11/politics/nadia-schadlow-resigns/index.html))
+
+3. **The NRA said it accepted contributions from about 23 Russians**, or Americans living in Russia, since 2015. ([NPR](https://www.npr.org/2018/04/11/601534305/nra-in-new-document-acknowledges-more-than-20-russian-linked-contributors))
+
+4. **A federal judge dismissed a lawsuit claiming that Trump's financial disclosures are insufficient** because they blur the lines between his personal debts and those owed by the businesses he owns. The judge said that even if the forms are insufficient, there's nothing she can do about it because ethics law has no provision allowing the public to enforce it. ([Politico](https://www.politico.com/story/2018/04/10/judge-trump-financial-disclosure-513150))
+
+5. **The Trump administration is considering a plan to allow states to require some food stamp recipients to undergo drug testing**. Roughly 5% of participants in the Supplemental Nutrition Assistance Program could be affected. ([Associated Press](https://apnews.com/6f5adff5efeb4f9a9075f76bf9cf5572))
+
+6. **James Comey sat down for a five-hour interview with George Stephanopoulos**. In the interivew, Comey compared Trump to a mob boss. Comey's book, "A Higher Loyalty," comes out next Tuesday. ([Politico](https://www.politico.com/story/2018/04/11/james-comey-interview-abc-news-514535) / [Axios](https://www.axios.com/preview-of-exclusive-abc-interview-with-james-comey-1523413777-c6002b59-9545-4329-9734-92ffcc70cfef.html))
+
+7. **Former House Speaker John Boehner will join the board of directors of a marijuana holdings corporation**, nine years after he said he was "unalterably opposed" to legalization. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-04-11/ex-speaker-john-boehner-joins-marijuana-firm-s-advisory-board))

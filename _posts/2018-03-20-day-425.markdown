@@ -1,0 +1,68 @@
+---
+title: Day 425
+date: 2018-03-20 10:03:00 -07:00
+description: Shuffling the deck.
+image: "/uploads/425.jpg"
+---
+
+1/ **Trump has discussed firing one of his lawyers, while another is contemplating resignation**. Ty Cobb, who has urged Trump to cooperate with Mueller's investigation, appears to be on the chopping block, while John Dowd has considered leaving the team because Trump ignores his legal advice. Trump tweeted that he's "VERY happy with my lawyers, John Dowd, Ty Cobb and Jay Sekulow," although he recently met with Emmet Flood, the lawyer who represented Bill Clinton during his impeachment proceedings. Trump also added Joseph E. diGenova to his legal team on Monday. DiGenova is a regular Fox News commentator who has suggested that the FBI and the Justice Department conspired to deny Trump his "civil rights." ([New York Times](https://www.nytimes.com/2018/03/19/us/politics/trump-lawyers-mueller-russia-investigation.html))
+
+{% twitter https://twitter.com/realdonaldtrump/status/972829763067883523 %}
+
+* **A seasoned, high-profile litigator declined to join Trump's legal team**. Theodore Olson served as solicitor general in the George W. Bush administration and has more experience on landmark cases than any of Trump's current lawyers. ([Washington Post](https://www.washingtonpost.com/politics/trump-legal-team-seeks-to-add-gravitas-with-offer-to-star-gop-attorney-theodore-b-olson/2018/03/20/571f1e46-2c41-11e8-8ad6-fbc50284fce8_story.html))
+
+2/ **Paul Ryan says he received "assurances" that firing Robert Mueller is "not even under consideration."** The House Speaker did not elaborate on the assurances. In January, Mitch McConnell declined to take up proposed legislation to protect Mueller because he knew of no "official" White House effort to undermine him. Today, McConnell [said](https://www.cnn.com/2018/03/20/politics/mitch-mcconnell-mueller-defense-schumer/index.html) legislation was "not necessary" to protect Mueller against the threat of being fired by Trump. ([CNN](https://www.cnn.com/2018/03/20/politics/paul-ryan-assurances-mueller-not-fired/index.html))
+
+3/ **Stormy Daniels passed a polygraph exam in 2011 about her relationship with Trump**. The examiner found there was a 99% probability Daniels was telling the truth when she said she had unprotected sex with Trump in 2006. The White House and Trump's attorney have denied that the president had a sexual relationship with Daniels, whose legal name is Stephanie Clifford. ([NBC News](https://www.nbcnews.com/politics/politics-news/lie-detector-test-shows-stormy-daniels-truthful-about-trump-affair-n858281))
+
+4/ **A former Playboy model, who alleges she had an affair with Trump, is suing to be released from a 2016 legal agreement requiring her silence**. Karen McDougal is suing American Media Inc., the company that owns The National Enquirer, which paid her $150,000 to buy her story and bury it, a practice known as "catch and kill." David Pecker is the CEO of American Media Inc. and a friend of Trump's. ([New York Times](https://www.nytimes.com/2018/03/20/us/ex-playboy-model-sues-to-break-silence-on-trump.html))
+
+5/ **A Manhattan Supreme Court judge ruled that Trump must face a defamation lawsuit by a former "Apprentice" contestant** and that his job as commander-in-chief does not give him immunity from the lawsuit. Trump had argued that presidents are shielded from civil litigation in state courts under the US Constitution's supremacy clause. The assertion has never been fully tested by the courts, however, making the ruling a first-of-its-kind decision. ([New York Post](https://nypost.com/2018/03/20/former-apprentice-contestant-can-sue-trump-for-defamation/) / [Washington Post](https://www.washingtonpost.com/politics/judge-rules-defamation-case-against-trump-may-proceed/2018/03/20/561d1d44-f498-11e7-b34a-b85626af34ef_story.html) / [The Hill](http://thehill.com/blogs/blog-briefing-room/news/379345-judge-denies-trump-immunity-rules-he-must-face-defamation))
+
+---
+
+### Dept. of #FacebookExit.
+
+1. **Cambridge Analytica harvested private information from more than 50 million Facebook users without their permission**, making it one of the largest data leaks in the social network's history. Cambridge Analytica – owned by Robert Mercer and headed by Steve Bannon at the time – hired Aleksandr Kogan, who built "a very standard vanilla Facebook app," which would scrape information from participants' profiles and those of their friends under the premise that the company was collecting information for academic purposes. ([New York Times](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html) / [The Guardian](https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election))
+
+2. **The Federal Trade Commission is investigating whether Facebook violated a 2011 consent decree over Cambridge Analytica's access and use of the personal data of 50 million Facebook users**. Under the settlement, Facebook agreed to get user consent for changes to privacy settings. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-03-20/ftc-said-to-be-probing-facebook-for-use-of-personal-data))
+
+3. **Facebook's chief information security officer, Alex Stamos, is leaving the company following disagreements among top Facebook executives** over their response to Russian interference in the 2016 presidential elections and potential interference in the 2018 midterms. The issue is rooted in how much Facebook should publicly share about the ways in which their platform was misused in the run-up to the 2018 midterm elections. Stamos oversaw Facebook's security team, which was once 120 people, but is currently down to three people. Stamos plans to leave the company by August. ([New York Times](https://www.nytimes.com/2018/03/19/technology/facebook-alex-stamos.html))
+
+4. **Cambridge Analytica's CEO was caught on tape suggesting that the company could entrap political rivals through seduction or bribery**. In an undercover investigation by Britain's Channel 4 News, Alexander Nix said the British firm secretly campaigns in elections across the world using front companies, former spies, and contractors. ([Channel 4](https://www.channel4.com/news/cambridge-analytica-revealed-trumps-election-consultants-filmed-saying-they-use-bribes-and-sex-workers-to-entrap-politicians-investigation) / [New York Times](https://www.nytimes.com/2018/03/19/us/cambridge-analytica-alexander-nix.html) / [Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/03/19/cambridge-analytica-ceo-appears-to-talk-about-using-bribes-and-sex-workers-to-sway-elections-on-secretly-recorded-news-video/))
+
+5. **Cambridge Analytica claimed it "ran all the digital campaign, the television campaign and our data informed all the strategy" for Trump**, according the undercover investigation by Channel 4 News. ([Channel 4](https://www.channel4.com/news/exposed-undercover-secrets-of-donald-trump-data-firm-cambridge-analytica))
+
+6. **Cambridge Analytica suspended CEO Alexander Nix** and is launching an independent investigation to determine if the company engaged in any wrongdoing. ([Wall Street Journal](https://www.wsj.com/articles/cambridge-analytica-suspends-ceo-alexander-nix-amid-facebook-data-uproar-1521572446))
+
+7. **Mark Zuckerberg and Sheryl Sandberg didn't attend an internal employee briefing about Facebook's role in the Trump-Cambridge Analytica scandal**. The session was instead conducted by a Facebook attorney. ([The Daily Beast](https://www.thedailybeast.com/exclusive-mark-zuckerberg-awol-from-facebooks-data-leak-damage-control-session))
+
+8. **Facebook's stock fell about 7% on Monday**, cutting about $37 billion off the value of the company. Mark Zuckerberg personally lost about $5 billion in net worth. ([CNN Money](http://money.cnn.com/2018/03/19/news/companies/zuckerberg-net-worth/index.html) / [Wall Street Journal](https://www.wsj.com/articles/facebook-is-pummeled-by-user-data-blowback-1521561322))
+
+9. **How to delete Facebook**. First, download your archive by going to "Settings," click "Download a copy of your Facebook data" at the bottom of General Account Settings, and then click "Start My Archive." When you're ready to delete your account, [click this link](https://www.facebook.com/help/delete_account), which will take you to the account deletion page. Once you delete your account, it cannot be recovered. ([The Verge](https://www.theverge.com/2018/3/20/17142806/how-to-delete-facebook-page-account-data-privacy))
+
+---
+
+### Dept. of Swamp Things.
+
+1. **Education Secretary Betsy DeVos will testify before the House Appropriations Committee about her "Education Reform Plan,"** which calls for a 5% spending cut and eliminates dozens of programs. It includes a $1 billion school choice proposal. Department staff said DeVos tried to withhold information in the budget justifications submitted to Congress. ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/education-secretary-devos-reorganization-plan-union.html))
+
+2. **Ben Carson defended the purchase of a $31,000 dining set**, telling the House Appropriations Committee that the furniture was necessary because "people were stuck by nails, and a chair had collapsed with someone sitting in it." He admitted, however, that he failed to adhere to a $5,000 federal spending cap for the purchase. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-03-20/hud-s-carson-denies-trying-to-mislead-public-in-furniture-furor) / [New York Times](https://www.nytimes.com/2018/03/20/us/ben-carson-hud-dining-room.html))
+
+3. **Three Trump appointees with pro-abstinence beliefs directed the process to end a federal teen pregnancy prevention program** last year, over the objections of career experts in the Department of Health and Human Services. One appointee was previously the president of Ascend, an association that promotes abstinence until marriage as the best way to prevent teen pregnancy. ([NBC News](https://www.nbcnews.com/politics/politics-news/notes-emails-reveal-trump-appointees-war-end-hhs-teen-pregnancy-n857686))
+
+4. **A new Mississippi law bans most abortions after 15 weeks' gestation with no exceptions for rape or incest**. The only exceptions are if a fetus has health issues that are "incompatible with life" outside of the womb, or if a pregnant woman's life is threatened by the pregnancy. ([NBC News](https://www.nbcnews.com/politics/politics-news/mississippi-gov-signs-nation-s-toughest-abortion-restrictions-n858031))
+
+5. **A federal judge temporarily blocked the new Mississippi law that bans abortion after 15 weeks**. The temporary restraining order was requested by the state's only abortion clinic. ([Associated Press](https://apnews.com/6c55a98736194980a29ddeba3ec71e00))
+
+---
+
+### Notables.
+
+1. **An "ashamed" Fox News Commentator quit the "propaganda machine,"** denouncing both the network and Trump in an email to colleagues. ([BuzzFeed News](https://www.buzzfeed.com/tomnamako/ralph-peters))
+
+2. **Trump is preparing to impose $60 billion in tariffs on Chinese products**. Trump plans to unveil the tariffs on by Friday. ([Washington Post](https://www.washingtonpost.com/business/economy/trump-prepared-to-hit-china-with-60-billion-in-annual-tariffs/2018/03/19/fd5e5874-2bb7-11e8-b0b0-f706877db618_story.html))
+
+3. **Shutdown Watch: Congress and the White House are moving closer to a $1.3 trillion spending bill** ahead of a Friday deadline to fund the government. ([Politico](https://www.politico.com/story/2018/03/19/congress-spending-bill-government-shutdown-471884))
+
+4. **Trump called Putin to congratulate him on his recent re-election**. The call comes days after the White House imposed sanctions on Russia for meddling in the 2016 U.S. election and "malicious cyberattacks." The Trump administration has also recently criticized Russia for its apparent role in a nerve agent attack on a former Russian spy and his daughter in the U.K. ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/trump-says-he-congratulated-putin-on-his-re-election-and-they-may-meet-soon.html))

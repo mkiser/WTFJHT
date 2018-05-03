@@ -72,6 +72,12 @@ article.post div.post-content > p {
     margin: 0 0 1em 1em;
   }
 
+  .onebox {
+    border: 1px solid $gray-3;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+  }
+
   blockquote {
     border: none;
     border-left: 5px solid #ffdc86;

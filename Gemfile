@@ -7,6 +7,7 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
 gem 'jekyll-archives'
 gem 'jekyll-include-cache'
+gem 'jekyll-onebox'
 
 group :jekyll_plugins do
   gem 'algoliasearch-jekyll'

@@ -1,0 +1,50 @@
+---
+title: Day 445
+date: 2018-04-09 12:08:00 -07:00
+description: Barbaric.
+image: "/uploads/445.jpg"
+---
+
+1/ **The FBI raided Michael Cohen's office, home, and Manhattan hotel room** seizing records related to Stormy Daniels and several other topics. Federal prosecutors in Manhattan obtained the search warrants after receiving a referral from Robert Mueller. The search warrants were executed by the office of the U.S. Attorney for Southern District of New York and are "in part" related to Mueller's investigation. Trump characterized the FBI raid on his longtime personal attorney as a "disgraceful situation" that has reached a "new level of unfairness" and "an attack on our country in a true sense." ([New York Times](https://www.nytimes.com/2018/04/09/us/politics/fbi-raids-office-of-trumps-longtime-lawyer-michael-cohen.html) / [Politico](https://www.politico.com/story/2018/04/09/michael-cohen-fbi-records-trump-daniels-510921) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-michael-cohen-fbi-raid-20180409-story.html) / [Wall Street Journal](https://www.wsj.com/articles/fbi-raids-trump-lawyers-office-1523306297))
+
+2/ **Trump vowed to make "major decisions" in the next 24 to 48 hours about how to respond to a suspected chemical attack in Syria** that killed dozens of people. Trump said there will be a "big price to pay" for the "atrocious," "horrible," and "barbaric act." Trump directly criticized Putin, Russia, and Iran for backing "Animal Assad" in a tweet. Later, Trump said "Everybody's going to pay a price. \[Putin\] will, everybody will." ([New York Times](https://www.nytimes.com/2018/04/09/world/middleeast/trump-syria-attack.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-says-us-to-decide-on-response-to-atrocious-syria-chemical-attack-in-24-to-48-hours/2018/04/09/1398c5aa-3bfa-11e8-a7d1-e4efec6389f0_story.html) / [Reuters](https://www.reuters.com/article/us-mideast-crisis-syria/trump-says-to-make-fast-decision-after-suspected-syrian-chemical-attack-idUSKBN1HG0D8))
+
+{% twitter https://twitter.com/realDonaldTrump/status/982966315467116544 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/982967389028569088 %}
+
+3/ **John Kelly threatened to quit on March 28 after he blew up at Trump during an Oval Office meeting** – the same day Trump fired Veterans Affairs Secretary David Shulkin. "I'm out of here, guys," Kelly said, and packed up some personal belongings. DHS Secretary Kirstjen Nielsen and Defense Secretary Jim Mattis attempted to calm Kelly down. ([Axios](https://www.axios.com/john-kelly-trump-oval-office-meeting-threatened-quit-f29667d3-d99f-4e23-92f6-9c48c360722b.html) / [Washington Post](https://www.washingtonpost.com/politics/when-you-lose-that-power-how-john-kelly-faded-as-white-house-disciplinarian/2018/04/07/5e5b8b42-39be-11e8-acd5-35eac230e514_story.html))
+
+* **"To hell with it"**: Trump increasingly weary of staff advice. ([Associated Press](https://apnews.com/eab8cdc9f72f43f3890f41da92ec2cf9))
+
+4/ **The federal government's top ethics officer asked the EPA to review Scott Pruitt's actions and take "appropriate actions to address any violations."** In a letter from David Apol, the acting director and general counsel of the Office of Government Ethics, to Kevin Minoli, the EPA's top ethics official, Apol summarizes reports of Pruitt's conduct, including a rental agreement with a lobbyist whose husband's firm lobbies the EPA as well as EPA spending on Pruitt's travel and security. ([New York Times](https://www.nytimes.com/2018/04/09/climate/epa-ethics-letter-pruitt.html) / [BuzzFeed News](https://www.buzzfeed.com/zahrahirji/epa-pruitt-ethics-investigation) / [CNN](https://www.cnn.com/2018/04/09/politics/ethics-office-scott-pruitt-epa/index.html))
+
+5/ **An internal EPA email contradicts Scott Pruitt's account that he "didn't know" about a controversial pay raise for an aide last month**. In mid-March, the staffer, Sarah Greenwalt, emailed HR to confirm that her pay raise was being processed. According to an administration official who saw the email chain: Greenwalt "definitively stated that Pruitt approves and was supportive of her getting a raise." ([The Atlantic](https://www.theatlantic.com/politics/archive/2018/04/pruitt-epa-raises/557561/))
+
+6/ **The U.S. budget deficit will surpass $1 trillion by 2020 – two years sooner than previously estimated**. The Congressional Budget Office forecasts 2% less revenue and 1% more spending from 2018 to 2027. The Trump administration promised that tax cuts will lead to faster economic growth, which would offset deficit expansion. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-04-09/u-s-budget-deficit-to-balloon-to-1-trillion-by-2020-cbo-says) / [New York Times](https://www.nytimes.com/2018/04/09/us/politics/federal-deficit-tax-cuts-spending-trump.html))
+
+7/ **White House economic advisor Larry Kudlow blamed threats of a trade war on China's "decades of misdeeds,"** saying "This president's got some backbone, others didn't and he's raising the issue in full public view, setting up a process that may include tariffs." ([CNBC](https://www.cnbc.com/2018/04/09/larry-kudlow-says-trump-is-warning-china-with-tariffs-youre-no-longer-a-developing-nation-act-like-it.html))
+
+8/ **Mark Zuckerberg: Facebook should have done more** to prevent third-party apps from collecting users' data without their permission and for being "too slow to spot and respond to Russian interference" during the U.S. election. In written testimony, Zuckerberg said that "It's clear now that we didn't do enough to prevent these tools from being used for harm as well" and that Facebook "didn't take a broad enough view of our responsibility, and that was a big mistake." Zuckerberg is scheduled to testify before the Senate Commerce and Judiciary committees on Tuesday, and the House Energy and Commerce Committee on Wednesday. The social network said it would form an independent commission of academic researchers to study social media's impact on elections. ([Reuters](https://www.reuters.com/article/us-facebook-privacy-testimony/ceo-zuckerberg-says-facebook-could-have-done-more-to-prevent-misuse-idUSKBN1HG2EY) / [Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/04/09/facebook-chief-executive-mark-zuckerberg-to-captiol-hill-it-was-my-mistake-and-im-sorry/) / [New York Times](https://www.nytimes.com/2018/04/09/technology/mark-zuckerberg-facebook.html))
+
+poll/ **Nationwide, whites over the age of 60 with college degrees now favor Democrats over Republicans for Congress by a 2-point margin**. The shift represents a 12-point swing from 2016. ([Reuters](https://www.reuters.com/article/us-usa-election-healthcare-poll/exclusive-as-elections-near-many-older-educated-white-voters-shift-away-from-trumps-party-idUSKBN1HG1I6))
+
+---
+
+### Notables.
+
+1. **Trump's top national security spokesman will leave the White House**. Michael Anton was one of the earliest and most forceful defenders of Trump's "America First" foreign policy. Anton will join Hillsdale College as a writer and lecturer. ([Politico](https://www.politico.com/story/2018/04/08/national-security-spokesman-anton-trump-508641))
+
+2. **Trump expects to meet with North Korean leader Kim Jong Un in May or June**, and expressed hope they'd reach a deal on "de-nuking" the Korean peninsula. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-04-09/trump-says-he-ll-meet-with-north-korea-s-kim-in-may-or-june))
+
+3. **Stormy Daniels' legal team plans to release a composite sketch of the man who Daniels says threatened her in 2011**. "We're going to be releasing that tomorrow," said Daniels' lawyer Michael Avenatti, "along with a significant reward, asking that the public come forward, asking to identify this individual." ([CNN](https://www.cnn.com/2018/04/09/politics/michael-avenatti-sketch-cnntv/index.html))
+
+4. **Paul Manafort's lawyers filed a motion to suppress evidence found in an Alexandria, Va. storage unit**. Manafort's defense team contends that the initial entry was illegal because the employee did not not have authority to let the FBI into the locker. ([Politico](https://www.politico.com/story/2018/04/07/manafort-moves-to-suppress-evidence-found-in-storage-unit-507984))
+
+5. **Manafort was denied bail, again**, by a judge handling one of his criminal cases. The court, however, gave the former Trump campaign chairman a list of assets that could secure his release from house arrest. ([Politico](https://www.politico.com/story/2018/04/09/paul-manafort-bail-denied-509650))
+
+6. **One man died after a fire broke out at Trump Tower**. One resident said the phones inside the building didn't work and that "Michael Cohen, who is Trump's lawyer was texting me and said 'are you in the building? I said 'yes.' He said 'you better get out ASAP!'" In the 1990s, Trump argued against retrofitting existing buildings with fire sprinklers. ([ABC 7](http://abc7ny.com/1-dead-after-fire-breaks-out-at-trump-tower/3313615/) / [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2018/04/09/donald-trump-once-lobbied-against-fire-sprinklers-in-existing-new-york-high-rises-including-trump-towers/))
+
+7. **The Trump Organization asked the Panamanian president to intervene in a dispute over the control of a luxury hotel**. Trump's business invoked a treaty between the two countries. ([Associated Press](https://apnews.com/bcba3f280f5f4ce78cc10a865ca617cb))
+
+8. **Senator Tammy Duckworth became the first sitting senator to have a baby** while in office after giving birth to her daughter, Maile Pearl Bowlsbey. ([Chicago Sun-Times](https://chicago.suntimes.com/chicago-politics/tammy-duckworth-birth-girl-first-senator-have-baby-maile-pearl-bowlsbey-office/))

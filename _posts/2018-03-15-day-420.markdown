@@ -1,0 +1,42 @@
+---
+title: Day 420
+date: 2018-03-15 09:20:00 -07:00
+description: Malicious.
+image: "/uploads/420.jpg"
+---
+
+1/ **Robert Mueller subpoenaed the Trump Organization to turn over documents related to Russia** and other topics he's investigating. The subpoena was delivered in "recent weeks" and is the first known order directly related to Trump's businesses. ([New York Times](https://www.nytimes.com/2018/03/15/us/politics/trump-organization-subpoena-mueller-russia.html))
+
+2/ **A lawyer for the Trump Organization filed documents to keep Stormy Daniels from talking about her alleged affair with Trump**. A "demand for arbitration" document dated February 22, 2018, names Jill Martin, a top lawyer at the Trump Organization, as the attorney representing the company Trump's personal lawyer, Michael Cohen, established to facilitate a payment of $130,000 to Daniels. The new documents, marked "HIGHLY CONFIDENTIAL PROCEEDING," show a direct connection between Trump's company and the nondisclosure agreement Daniels signed, raising questions about Cohen's previous statement that "neither the Trump Organization nor the Trump campaign was a party to the transaction with Ms. Clifford." Stormy Daniels' real name is Stephanie Clifford. ([Wall Street Journal](https://www.wsj.com/articles/top-trump-company-lawyer-worked-to-silence-stormy-daniels-1521072252) / [CNN](https://www.cnn.com/2018/03/14/politics/stormy-daniels-jill-martin-trump-organization/index.html))
+
+3/ **BuzzFeed wants to use Michael Cohen's libel suit against them to demand that Stormy Daniels preserve all records related to her relationship with Trump**, including all negotiations, agreements, and payments involving Cohen and the $130,000 payment she received before the 2016 election as part of a nondisclosure agreement she is now trying to void. Cohen filed a libel suit in January against BuzzFeed and four staffers over the publication of the dossier of allegations about Trump's relationship with Russia.([Politico](https://www.politico.com/story/2018/03/14/buzzfeed-stormy-daniels-trump-462261))
+
+* **Stormy Daniels said multiple women are exploring potential legal cases against Trump**. Michael Avenatti, who represents Stephanie Clifford — known professionally as Stormy Daniels — said other women have reached out to him for representation in cases against Trump. ([BuzzFeed News](https://www.buzzfeed.com/jimdalrympleii/stormy-daniels-lawyer-says-more-women-are-exploring-legal))
+
+4/ **Trump's lawyers are preparing for a potential interview with Robert Mueller**. They're working out answers to possible questions and negotiating the terms of the interview. Trump's lawyers argue that Mueller must first show that his investigation can't be completed without an interview with Trump. They've also studied the possibility of answering questions in writing. ([Politico](https://www.politico.com/story/2018/03/15/trump-mueller-meeting-lawyers-463817))
+
+5/ **Trump imposed sanctions on Russian organizations and individuals** in retaliation for interference in the 2016 presidential election and other "malicious" cyberattacks. Treasury Secretary Steven Mnuchin called the cyberattacks "the most destructive and costly cyberattack in history," having caused billions of dollars in damage in the U.S., Europe, and Asia. ([New York Times](https://www.nytimes.com/2018/03/15/us/politics/trump-russia-sanctions.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/trump-administration-sanctions-russian-spies-trolls-over-us-election-interference-cyber-attacks/2018/03/15/3eaae186-284c-11e8-b79d-f3d931db7f68_story.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-03-15/u-s-sanctions-russian-troll-farm-for-alleged-election-meddling))
+
+6/ **The Trump administration accused Moscow of a deliberate, ongoing hacking operation to penetrate the U.S. energy grid**, aviation systems, and other infrastructure. "Since at least March 2016, Russian government cyber actors" have targeted "government entities and multiple U.S. critical infrastructure sectors," including those of energy, nuclear, water and aviation, according to an alert issued by the Department of Homeland Security and F.BI. ([Associated Press](https://apnews.com/2964ce37e2084ae5b4c13da748b35cff) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-03-15/russian-hackers-attacking-u-s-power-grid-aviation-fbi-warns) / [Politico](https://www.politico.com/story/2018/03/15/dhs-fbi-russia-hackers-targeted-energy-grid-813745))
+
+7/ **At a fundraiser Trump bragged that he made up facts about U.S. trade relations with Canada during a meeting with Justin Trudeau**, insisting that the U.S. runs a trade deficit with Canada without knowing whether that was true. Canada and the U.S. calculate the trade balance differently. According to Statistics Canada, Canada runs a surplus, while the U.S. Commerce Department reports a $12.5 billion U.S. surplus. Regardless, Trump doubled down on his claim of a deficit, tweeting: "We do have a Trade Deficit with Canada, as we do with almost all countries (some of them massive)." ([Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/03/14/in-fundraising-speech-trump-says-he-made-up-facts-in-meeting-with-justin-trudeau/?utm_term=.1f6c4182b28b) / [NBC News](https://www.nbcnews.com/politics/white-house/trump-mocks-canada-s-trudeau-gop-fundraiser-bluffs-prime-minister-n856856) / [CNN](https://www.cnn.com/2018/03/15/politics/trump-trudeau-trade-meeting/index.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/974276383051583488 %}
+
+> **Excerpt from Trump's fundraising speech**
+>
+> "Trudeau came to see me. He's a good guy, Justin. He said, 'No, no, we have no trade deficit with you, we have none. Donald, please,'" Trump said during fundraising speech, according to audio obtained by the Washington Post. Trump continued: "I said, 'Wrong, Justin, you do.' I didn’t even know. ... I had no idea. I just said, 'You're wrong.' You know why? Because we're so stupid. ... And I thought they were smart."
+
+---
+
+### Notables.
+
+1. **The American military acknowledged that U.S. special forces were involved in another firefight in Niger in December.** The battle took place two months after four U.S. soldiers died in an ambush in Niger, and after senior commanders imposed additional restrictions on U.S. military operations in the country. No American or Nigerien forces were injured during the firefight. ([New York Times](https://www.nytimes.com/2018/03/14/world/africa/niger-green-berets-isis-firefight-december.html))
+
+2. **Conor Lamb officially won the special House election in Pennsylvania**. Lamb won by a very small margin, securing his victory after just a few thousand absentee ballots came in. Rick Saccone may still contest the outcome of the election. ([New York Times](https://www.nytimes.com/2018/03/14/us/politics/democrats-republicans-pennsylvania-special-election.html))
+
+3. **Paul Manafort asked a federal judge to dismiss five criminal charges against him**, arguing that special counsel Robert Mueller had no right to indict him for work done before he joined the Trump campaign as chairman in 2016. ([CNN](https://www.cnn.com/2018/03/14/politics/paul-manafort-motion-to-dismiss/index.html))
+
+4. **Israeli Prime Minister Benjamin Netanyahu believes Trump will withdraw from the Iran nuclear deal in May**. Israeli officials say that the departure of Rex Tillerson is another sign that Trump is headed towards withdrawing from the Iran deal. ([Axios](https://www.axios.com/netanyahu-tells-security-cabinet-trump-will-withdraw-from-iran-deal-ead537a4-f862-4837-9f3f-d2f67e4d4f09.html))
+
+5. **John Kelly may also be on the way out**, according to congressional and administration sources. ([CBS News](https://www.cbsnews.com/news/trump-white-house-staff-shakeup-john-kelly/))

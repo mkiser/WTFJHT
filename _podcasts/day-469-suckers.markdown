@@ -1,10 +1,10 @@
 ---
 title: 'Day 469: Suckers.'
 date: 2018-05-03 12:51:00 -07:00
-file: "/uploads/Day-469.mp3"
+file: "/uploads/Day-469a.mp3"
 post: Day 469
-duration: '00:05:15'
-length: 5949605
+duration: '00:05:11'
+length: 5881404
 ---
 
 **Thursday, May 3, 2018**

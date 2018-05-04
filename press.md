@@ -10,6 +10,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 
 **"I have been on the internet since 1994 and WTFJHT is the best damn political resource I’ve ever come across. Can’t wait to read it each day."** –[Another satisfied WTF Just Happened Today reader](https://talk.whatthefuckjusthappenedtoday.com/t/introduce-yourself/45/528).
 
+{% twitter https://twitter.com/markskogan/status/992201281392570370 hide_media=true hide_thread=true %}
 
 <div class="author-avatar">
 <img src="https://whatthefuckjusthappenedtoday.com/uploads/BW_Honoree.png" class="author-image">

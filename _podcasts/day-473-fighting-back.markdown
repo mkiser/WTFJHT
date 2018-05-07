@@ -1,10 +1,10 @@
 ---
 title: 'Day 473: Fighting back.'
 date: 2018-05-07 16:18:00 -07:00
-file: "/uploads/Day-473a.mp3"
+file: "/uploads/Day-473b.mp3"
 post: Day 473
-duration: '00:08:41'
-length: 9723306
+duration: '00:08:36'
+length: 9648606
 ---
 
 **Monday, May 7, 2018**

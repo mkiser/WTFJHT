@@ -70,9 +70,9 @@ Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="
 
 Use a secure messaging service for your text messages or emails.
 
-Prevent carriers or service providers from snooping on or exposing your text messages by using a mobile app that encrypts your messages. Some examples are [Signal](https://signal.org/) and [WhatsApp](https://www.whatsapp.com/), which both encrypt messages with other users by default. Both Signal and WhatsApp work on iOS, Android, and various desktop operating systems.
+Prevent carriers or service providers from snooping on or exposing your text messages by using a mobile app that encrypts your messages. Some examples are [Signal](https://signal.org/){:target="_blank"} and [WhatsApp](https://www.whatsapp.com/){:target="_blank"}, which both encrypt messages with other users by default. Both Signal and WhatsApp work on iOS, Android, and various desktop operating systems.
 
-Secure email providers like [ProtonMail](https://protonmail.com/) and [Tutanota](https://tutanota.com/) encrypt their messages so that even the people running the service can't read them if they tried. Both are secure by default to other users of each service and both offer options to secure email messages to other providers with a password so that only the intended recipient can read them. In addition to their websites, both ProtonMail and Tutanota offer mobile clients for iOS and Android.
+Secure email providers like [ProtonMail](https://protonmail.com/){:target="_blank"} and [Tutanota](https://tutanota.com/){:target="_blank"} encrypt their messages so that even the people running the service can't read them if they tried. Both are secure by default to other users of each service and both offer options to secure email messages to other providers with a password so that only the intended recipient can read them. In addition to their websites, both ProtonMail and Tutanota offer mobile clients for iOS and Android.
 
 ## 7/ VPN (optional)
 

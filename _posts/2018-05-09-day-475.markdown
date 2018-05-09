@@ -1,0 +1,44 @@
+---
+title: Day 475
+date: 2018-05-09 09:38:00 -07:00
+description: Unprecedented and coordinated.
+image: "/uploads/475.jpg"
+---
+
+1/ **A report from the Senate Intelligence Committee concludes that Russia conducted an "unprecedented, coordinated cyber campaign" in order to undermine confidence in U.S. voting systems** starting as early as 2014 through Election Day 2016. Senators report that the Russians targeted at least 18 states looking for vulnerabilities, and in six states they tried to gain access to voting websites. In "a small number of states" actually breached election computer defenses. The committee said it found no evidence that vote tallies or voter registration information were changed, but that Russian hackers were "in a position to, at a minimum, alter or delete voter registration data." ([New York Times](https://www.nytimes.com/2018/05/08/us/politics/russia-2016-election-hackers.html) / [The Hill](http://thehill.com/policy/cybersecurity/386833-senate-intel-report-says-russia-waged-unprecedented-cyber-campaign))
+
+* \[PDF\] **Russian Targeting of Election Infrastructure During the 2016 Election**: Summary of Initial Findings and Recommendations. ([Senator Burr](https://www.burr.senate.gov/imo/media/doc/RussRptInstlmt1-%20ElecSec%20Findings,Recs2.pdf))
+
+2/ **Top White House officials withheld information sought by House Intelligence Committee Chairman Devin Nunes**, siding with senior FBI and national intelligence officials that the information could endanger a top-secret intelligence source. The decision marks a rare moment of agreement between the White House and the Justice Department. After the White House and Justice Department refused the request, Nunes publicly suggested that he may try to hold Jeff Sessions in contempt for refusing to comply. Some administration officials worry that Trump will change his mind and support Nunes' argument that "Congress has a right and a duty to get this information." ([Washington Post](https://www.washingtonpost.com/politics/risk-to-intelligence-source-who-aided-russia-investigation-at-center-of-latest-showdown-between-nunes-and-justice-dept/2018/05/08/d6fb66f8-5223-11e8-abd8-265bd07a9859_story.html?noredirect=on&utm_term=.9a5e5ca0ab71))
+
+3/ **One of the women who accused Trump of sexual misconduct has won her primary bid for state office in Ohio**. Rachel Cooks accused Trump of kissing her without her consent in 2005 and went public with her claims in 2016. She is now the Democratic nominee for a seat in the Ohio state Legislature. ([CNN](https://www.cnn.com/2018/05/08/politics/rachel-crooks-ohio/index.html))
+
+4/ **Trump mused about taking away press credentials from media outlets over "negative" coverage of him**. "Why do we work so hard in working with the media when it is corrupt?" Trump tweeted. "Take away credentials?" Trump was apparently responding to a segment on Fox and Friends, which cited a [study](https://twitter.com/theMRC/status/993948062518267904) from the Media Research Center – a right-wing media watchdog. The study says 91% of network news stories about him are negative. ([The Independent](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-media-credentials-twitter-threat-negative-news-stories-fake-network-a8342901.html) / [The Hill](http://thehill.com/homenews/administration/386854-trump-threatens-to-remove-news-networks-press-credentials-over) / [Politico](https://www.politico.com/story/2018/05/09/trump-media-credentials-576798) / [Washington Post](https://www.washingtonpost.com/politics/trump-muses-about-yanking-news-media-credentials-in-response-to-negative-coverage/2018/05/09/746c2918-52a6-11e8-a551-5b648abe29ef_story.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/994179864436596736 %}
+
+---
+
+### Notables.
+
+1. **North Korea handed over three American prisoners to U.S. Secretary of State Mike Pompeo**, who are now on the way home from Pyongyang. Trump plans to greet the three men when they arrive at Andrews Air Force Base. North Korean state media said the men were detained for either subversion or committing "hostile acts" against the government. ([CNBC](https://www.cnbc.com/2018/05/09/trump-secretary-of-state-pompeo-heading-back-from-north-korea-with-3-released-prisoners.html) / [Reuters](https://www.reuters.com/article/us-northkorea-missiles/north-korea-releases-detained-americans-ahead-of-planned-trump-kim-summit-idUSKBN1IA08I))
+
+2. **Don Blankenship lost in the West Virginia Republican Senate primary on Tuesday** following the coordinated effort by Mitch McConnell and Republican leaders to sink his bid. Blankenship called himself "Trumpier Than Trump." ([New York Times](https://www.nytimes.com/2018/05/08/us/politics/blankenship-west-virginia.html))
+
+3. **A group of Republicans are trying to force a vote to save the Deferred Action for Childhood Arrivals program in defiance of Paul Ryan**. House GOP moderates filed a discharge petition that would trigger a series of votes on four immigration bills if 218 members sign on. They need every Democrat to support the petition and 20 Republicans to break ranks to trigger the votes. ([Politico](https://www.politico.com/story/2018/05/09/daca-congress-vote-republicans-577301) / [CNN](https://www.cnn.com/2018/05/09/politics/daca-house-republicans-discharge-petition-immigration/index.html))
+
+---
+
+### Stories I'm Watching.
+
+{% onebox https://www.washingtonpost.com/world/national-security/gina-haspel-trumps-pick-to-lead-cia-to-pledge-she-wont-restart-interrogation-program/2018/05/08/ad746fb8-5323-11e8-abd8-265bd07a9859_story.html %}
+
+{% onebox https://www.washingtonpost.com/news/politics/wp/2018/05/08/how-money-flowed-through-michael-cohens-multi-purpose-shell-company/ %}
+
+{% onebox https://www.politico.com/story/2018/05/09/west-virginia-primary-election-results-2018-analysis-576783 %}
+
+{% onebox https://www.nytimes.com/2018/05/09/us/politics/primary-results-west-virginia-ohio.html %}
+
+{% onebox https://www.politico.com/story/2018/05/08/john-mccain-senate-republicans-impact-574875 %}
+
+💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.* 

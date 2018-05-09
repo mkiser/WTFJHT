@@ -5,7 +5,9 @@ date: 2018-05-08 17:20:00 -07:00
 is_breaking_news: true
 ---
 
-*This story is evolving, so check back for updates.*
+*This story is evolving. Check back for updates. Also, trying something a little different... Let me know what you think!*
+
+---
 
 > **Stormy Daniels's attorney Michael Avenatti said Michael Cohen received $500,000 following the 2016 election from a company run by a Russian oligarch with ties to Putin**.
 

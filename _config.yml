@@ -238,6 +238,16 @@ onebox:
   whitelist:
   - nbcnews.com
   - politico.com
+  - thedailybeast.com
+  - thehill.com
+  - vox.com
+  - cnbc.com
+  - apnews.com
+  - theguardian.com
+  - buzzfeed.com
+  - abcnews.go.com
+  - reuters.com
+  - theverge.com
 podcast_album_art: "/podcasts/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser

@@ -7,7 +7,7 @@ duration: '00:08:11'
 length: 9078796
 ---
 
-**Tuesday, May 8, 2018**
+**Wednesday, May 9, 2018**
 
 **Subscribe:** [Get the Daily Update in your inbox for free.](https://whatthefuckjusthappenedtoday.com/subscribe/)
 

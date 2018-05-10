@@ -31,10 +31,6 @@ image: "/uploads/476.jpg"
 
 > ***The president praised Mr. Kim** and said he was "nice in letting them go before the meeting." **Last year Mr. Trump and Mr. Kim threatened nuclear war against each other’s countries**.*
 >
-> *...*
->
-> *"Hopefully everything is going to work out at the highest level," Mr. Trump said earlier on Thursday. "We want to thank Kim Jong-un, who really was excellent to these three incredible people."*
->
 > *The Senate Democratic leader, **Chuck Schumer, of New York, said he could not understand the praise Mr. Kim was receiving from Mr. Trump** and others for releasing the three prisoners.* ([New York Times](https://www.nytimes.com/2018/05/10/world/asia/trump-north-korea-singapore.html))
 
 {% twitter https://twitter.com/realDonaldTrump/status/994587349718847489 %}

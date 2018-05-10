@@ -1,10 +1,10 @@
 ---
 title: 'Day 476: Wrap it up.'
 date: 2018-05-10 13:23:00 -07:00
-file: "/uploads/Day-476.mp3"
+file: "/uploads/Day-476a.mp3"
 post: Day 476
-duration: '00:04:35'
-length: 8315827
+duration: '00:04:33'
+length: 8282000
 ---
 
 **Thursday, May 10, 2018**

@@ -13,7 +13,9 @@ image: "/uploads/480.jpg"
 
 4/ **A former senior Trump campaign and transition aide is helping a Russian oligarch's company shed US sanctions**. Bryan Lanza is lobbying on behalf of the chairman of EN\+ Group, an energy and aluminum firm controlled by Oleg Deripaska, who was the target of US sanctions imposed last month. The company wants to reduce Deripaska's ownership in the company enough to be freed from US sanctions. ([CNN](https://www.cnn.com/2018/05/12/politics/washington-lobbying-trump-era/index.html))
 
-5/ **Betsy DeVos scaled back the team at the Education Department responsible for investigating for-profit colleges accused of widespread fraud**. The rollback "effectively killed investigations" into for-profit colleges where DeVos' top hires previously worked. ([New York Times](https://www.nytimes.com/2018/05/13/business/education-department-for-profit-colleges.html))
+5/ **Trump's first campaign manager, Corey Lewandowski, is going to work for Mike Pence's political action committee**. Trump asked Lewandowski to join Pence's Great America Committee PAC, which is aimed at helping the Trump re-election effort as well as enhance his profile with both Republicans and Trump's base. Some Republicans, however, see Pence's moves as an attempt to take control over the party and separate Trump from his base. ([NBC News](https://www.nbcnews.com/politics/politics-news/lewandowski-join-pence-s-political-action-committee-n874001) / [New York Times](https://www.nytimes.com/2018/05/14/us/politics/pence-trump-midterms.html))
+
+6/ **Betsy DeVos scaled back the team at the Education Department responsible for investigating for-profit colleges accused of widespread fraud**. The rollback "effectively killed investigations" into for-profit colleges where DeVos' top hires previously worked. ([New York Times](https://www.nytimes.com/2018/05/13/business/education-department-for-profit-colleges.html))
 
 ---
 
@@ -23,13 +25,15 @@ image: "/uploads/480.jpg"
 
 2. **Scott Pruitt and the White House blocked the publication of a federal health study on a nationwide water-contamination crisis, because it would cause a "public relations nightmare."** The draft study remains unpublished three months later, and the Department of Health and Human Services says it has no scheduled date to release the study on a class of toxic chemicals that have contaminated water supplies for public comment. ([Politico](https://www.politico.com/story/2018/05/14/emails-white-house-interfered-with-science-study-536950))
 
-3. **In December 2016, members of the Trump transition team met  with a Qatari diplomat who was recently accused of attempting to bribe Trump officials in a lawsuit**. Michael Avenatti shared photos of Michael Cohen and Michael Flynn meeting with a person who appears to be Ahmed Al-Rumaihi, the man in charge of a division of Qatar's sovereign wealth fund. The meeting was previously unreported. Rapper and actor Ice Cube, along with his business partner Jeff Kwatinetz, recently filed a $1.2 billion lawsuit alleging that Al-Rumaihi and other Qatari officials tried to buy access to people connected to Trump. ([Mother Jones](https://www.motherjones.com/politics/2018/05/qatari-investor-accused-in-bribery-plot-appears-with-michael-cohen-in-picture-posted-by-stormy-daniels-lawyer/))
+3. **Melania Trump underwent kidney surgery for a "benign kidney condition"** and is reportedly recovering without trouble at a military hospital outside the capital. ([New York Times](https://www.nytimes.com/2018/05/14/us/politics/melania-trump-kidney-surgery.html))
 
-4. **Top Republican donors have withheld their support for Senate and House Republican over frustration with the new tax law**. While the corporate tax rate was slashed from 35% to 21%, hedge funds are largely taxed at the top individual rate, which ticked down from 39.6% to 37%. ([CNN](https://www.cnn.com/2018/05/14/politics/gop-hedge-fund-donors-tax-law/index.html))
+4. **In December 2016, members of the Trump transition team met  with a Qatari diplomat who was recently accused of attempting to bribe Trump officials in a lawsuit**. Michael Avenatti shared photos of Michael Cohen and Michael Flynn meeting with a person who appears to be Ahmed Al-Rumaihi, the man in charge of a division of Qatar's sovereign wealth fund. The meeting was previously unreported. Rapper and actor Ice Cube, along with his business partner Jeff Kwatinetz, recently filed a $1.2 billion lawsuit alleging that Al-Rumaihi and other Qatari officials tried to buy access to people connected to Trump. ([Mother Jones](https://www.motherjones.com/politics/2018/05/qatari-investor-accused-in-bribery-plot-appears-with-michael-cohen-in-picture-posted-by-stormy-daniels-lawyer/))
 
-5. **National security adviser John Bolton doubled down on Trump's threat that European countries could be sanctioned by the U.S.** if they continue to be involved with Iran. ([Politico](https://www.politico.com/story/2018/05/13/bolton-pompeo-trump-iran-sanctions-584206))
+5. **Top Republican donors have withheld their support for Senate and House Republican over frustration with the new tax law**. While the corporate tax rate was slashed from 35% to 21%, hedge funds are largely taxed at the top individual rate, which ticked down from 39.6% to 37%. ([CNN](https://www.cnn.com/2018/05/14/politics/gop-hedge-fund-donors-tax-law/index.html))
 
-6. **Trump instructed the Commerce Department to help ZTE – the world's fourth-largest maker of cellphones – get "back into business"** after the company for violated U.S. sanctions against North Korea and Iran. Trump said he was working with President Xi to end a ban on export privileges, because "too many jobs in China lost." ([NPR](https://www.npr.org/sections/thetwo-way/2018/05/14/610891747/president-trump-puts-america-first-on-hold-to-save-chinese-jobs))
+6. **National security adviser John Bolton doubled down on Trump's threat that European countries could be sanctioned by the U.S.** if they continue to be involved with Iran. ([Politico](https://www.politico.com/story/2018/05/13/bolton-pompeo-trump-iran-sanctions-584206))
+
+7. **Trump instructed the Commerce Department to help ZTE – the world's fourth-largest maker of cellphones – get "back into business"** after the company for violated U.S. sanctions against North Korea and Iran. Trump said he was working with President Xi to end a ban on export privileges, because "too many jobs in China lost." ([NPR](https://www.npr.org/sections/thetwo-way/2018/05/14/610891747/president-trump-puts-america-first-on-hold-to-save-chinese-jobs))
 
 ---
 
@@ -44,7 +48,5 @@ image: "/uploads/480.jpg"
 {% onebox https://www.theatlantic.com/politics/archive/2018/05/muellers-probe-is-more-expansive-than-it-seems/560255/ %}
 
 {% onebox https://www.washingtonpost.com/news/the-fix/wp/2018/05/14/as-russia-probe-enters-year-two-republicans-refuse-to-protect-mueller/ %}
-
-{% onebox https://www.nytimes.com/2018/05/14/us/politics/pence-trump-midterms.html %}
 
 💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

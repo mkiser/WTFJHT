@@ -1,0 +1,48 @@
+---
+title: Day 481
+date: 2018-05-15 11:54:00 -07:00
+description: 'Hindsight. '
+image: "/uploads/481.jpg"
+---
+
+1/ **Gina Haspel said that "with the benefit of hindsight" torture was a bad idea and "one the CIA should have undertaken,"** in a letter to Mark Warner, the top Democrat on the Senate Intelligence Committee. The committee will vote on her nomination on Wednesday. She appears to have secured enough votes to be confirmed as the next CIA director after Warner signaled his support for Haspel. ([New York Times](https://www.nytimes.com/2018/05/15/us/politics/gina-haspel-cia-torture-letter-senate.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/nominee-to-head-cia-says-agencys-post-911-interrogation-program-should-not-have-been-started/2018/05/15/a5a70142-5850-11e8-8836-a4a123c359ab_story.html) / [CNN](https://www.cnn.com/2018/05/15/politics/gina-haspel-mark-warner-letter/index.html))
+
+2/ **North Korea threatened to cancel the summit between Trump and Kim Jong Un** citing joint U.S.-South Korean military drills as a "provocation" and a preparation for an invasion. North Korea also cancelled scheduled talks with South Korea today. ([Axios](https://www.axios.com/north-korea-threatens-to-cancel-trump-summit-f9eee700-97b4-4e68-9ccc-68d2745dd701.html) / [CNBC](https://www.cnbc.com/2018/05/15/north-korea-cancels-scheduled-meeting-with-south-korea-reports.html) / [Yonhap](http://english.yonhapnews.co.kr/news/2018/05/16/0200000000AEN20180516000500315.html))
+
+3/ **Obama's ethics chief accused Trump of violating emoluments clause for a Trump-branded golf course and hotel in Indonesia partially funded by the Chinese government**. Norm Eisen tweeted: "See you in court Mr. Trump." Adam Schiff also [said](http://thehill.com/homenews/house/387723-schiff-trump-deal-with-zte-a-violation-of-the-emoluments-clause) he believes Trump is in "violation of the emoluments clause" after he said he wants to help Chinese telecommunications company ZTE get "back into business." Earlier this year the U.S. Commerce Department prohibited U.S. companies from selling to ZTE because the firm violated American sanctions. ([The Hill](http://thehill.com/homenews/administration/387699-obama-ethics-chief-accuses-trump-of-violating-emoluments-clause) / [South China Morning Post](http://www.scmp.com/news/asia/southeast-asia/article/2145808/trump-indonesia-project-latest-stop-chinas-belt-and-road))
+
+{% twitter https://twitter.com/NormEisen/status/996172532838490113 %}
+
+{% twitter https://twitter.com/NewDay/status/996370277025173506 %}
+
+4/ **The Trump administration is preparing to shelter migrant children on military bases as part of its effort to split up families who cross the border illegally**. The Department of Health and Human Services plan to visit four military installations in Texas and Arkansas in the next two weeks to evaluate their suitability for child shelters. ([Washington Post](https://www.washingtonpost.com/world/national-security/trump-administration-preparing-to-shelter-migrant-children-on-military-bases/2018/05/15/f8103356-584e-11e8-b656-a5f8c2a9295d_story.html))
+
+poll/ **52% of Americans disapprove Trump's job performance, which Trump called his "best poll numbers in a year."** 44% approve of his job performance, which are his highest point in 14 months. ([The Hill](http://thehill.com/homenews/administration/387731-trump-touts-poll-numbers-despite-made-up-stories-mueller-probe) / [Fox News](http://www.foxnews.com/politics/2018/05/14/trumps-rising-approval-rating-scrambles-dems-midterm-strategy.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/996391840860471296 %}
+
+---
+
+### Notables.
+
+1.  **Michael Avenatti threatened to sue the Daily Caller for libel** after the site published an article that claimed "Avenatti's past is littered with lawsuits, jilted business partners and bankruptcy filings." Avenatti fired back: "Just like there is nothing wrong with calling out unethical attorneys, there is nothing wrong with calling out unethical journalists."  ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/14/michael-avenatti-doubles-down-on-his-threat-to-sue-the-daily-caller/?utm_term=.e75248f52b44))
+
+2. **The White House blamed Hamas propaganda for the death of more than 50 Palestinians **near the Gaza border. "Hamas is intentionally and cynically provoking this response" of Palestinians protesting the opening of the new American embassy in Jerusalem, White House spokesperson Raj Sah said, adding that the clashes were "a gruesome and unfortunate propaganda attempt" by Hamas' leadership. ([HuffPost](https://www.huffingtonpost.com/entry/white-house-gaza-protests-hamas_us_5afa854ae4b09a94524b958c))
+
+3. **A Ukrainian politician involved in the controversial plan to resolve Ukraine's conflict with Russian-backed rebels has been called to testify before a grand jury as part of the special counsel's investigation**. Andrii Artemenko did not give any details about his upcoming grand jury appearance, but he said he assumes he will be asked about his communications with Michael Cohen from early 2017. Artemenko said he plans to cooperate with the subpoena and appear in person. ([Politico](https://www.politico.com/story/2018/05/14/mueller-probe-ukraine-peace-plan-585653))
+
+4. **California and 18 other states filed papers to block the Trump administration from changing the requirements for Title X**, which provides family planning services for more than four million uninsured and under-insured people. The Trump administration action threatens funding for birth control, sexually transmitted disease testing, breast and cervical cancer screenings, and infertility treatment. ([Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-may-2018-california-leads-states-in-seeking-to-1526406185-htmlstory.html))
+
+---
+
+### Watching.
+
+*A list of stories I'm keeping an eye on*.
+
+{% onebox  https://www.nytimes.com/2018/05/15/us/politics/primary-election-idaho-oregon-nebraska-pennsylvania.html %}
+
+{% onebox https://www.politico.com/story/2018/05/15/primary-elections-pennsylvania-nebraska-idaho-oregon-586556 %}
+
+{% onebox https://www.politico.com/story/2018/05/14/corey-lewandowski-pence-pac-585118 %}
+
+💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

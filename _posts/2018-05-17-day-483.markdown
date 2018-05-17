@@ -53,11 +53,15 @@ poll/ **13% of Americans consider Trump honest and trustworthy** – down 3 poin
 
 ### Notables.
 
-1. **North Korea called the South Korean government "ignorant and incompetent"** and threatened to break off peace talks with the South if they don't halt U.S.-South Korean air combat drills. ([Reuters](https://www.reuters.com/article/us-northkorea-missiles-southkorea/south-korea-to-play-mediator-to-resolve-north-korea-u-s-summit-doubts-official-idUSKCN1II0B7))
+1. **The Senate confirmed Gina Haspel as the next CIA director**, approving her nomination in a 54 to 45 vote despite bipartisan concerns about her role in the agency's detention and interrogation programs. ([Washington Post](https://www.washingtonpost.com/world/national-security/gina-haspel-confirmed-as-cia-chief-despite-scrutiny-of-her-role-in-interrogation-program/2018/05/17/c1b47ec2-59f5-11e8-b656-a5f8c2a9295d_story.html) / [New York Times](https://www.nytimes.com/2018/05/17/us/politics/haspel-confirmed.html))
 
-2. **Scott Pruitt hired a white-collar defense lawyer** to help him navigate a dozen federal investigations into his activity and behavior as EPA administrator. ([Politico](https://www.politico.com/story/2018/05/16/pruitt-epa-investigations-defense-lawyer-paul-rauser-594488))
+2. **North Korea called the South Korean government "ignorant and incompetent"** and threatened to break off peace talks with the South if they don't halt U.S.-South Korean air combat drills. ([Reuters](https://www.reuters.com/article/us-northkorea-missiles-southkorea/south-korea-to-play-mediator-to-resolve-north-korea-u-s-summit-doubts-official-idUSKCN1II0B7))
 
-3. **Trump blamed Democrats for immigration laws that force federal immigration agents to break up families**, saying "we have to break up families. The Democrats gave us that law. It's a horrible thing, we have to break up families. That Democrats gave us that law and they don't want to do anything about it." ([CNN](https://www.cnn.com/2018/05/16/politics/trump-democrats-immigration/index.html))
+3. **Scott Pruitt hired a white-collar defense lawyer** to help him navigate a dozen federal investigations into his activity and behavior as EPA administrator. ([Politico](https://www.politico.com/story/2018/05/16/pruitt-epa-investigations-defense-lawyer-paul-rauser-594488))
+
+4. **Trump blamed Democrats for immigration laws that force federal immigration agents to break up families**, saying "we have to break up families. The Democrats gave us that law. It's a horrible thing, we have to break up families. That Democrats gave us that law and they don't want to do anything about it." ([CNN](https://www.cnn.com/2018/05/16/politics/trump-democrats-immigration/index.html))
+
+5. **The White House canceled its daily communications morning meeting** in response to the leak of a joke about John McCain being close to death. ([New York Times](https://www.nytimes.com/2018/05/17/us/politics/white-house-leaks.html))
 
 ---
 
@@ -72,5 +76,7 @@ poll/ **13% of Americans consider Trump honest and trustworthy** – down 3 poin
 {% onebox https://www.washingtonpost.com/local/public-safety/russian-firm-tied-to-putin-ally-charged-in-2016-trolling-campaign-clashes-with-mueller-probe/2018/05/16/1365ccc0-586c-11e8-b656-a5f8c2a9295d_story.html %}
 
 {% onebox https://www.theatlantic.com/politics/archive/2018/05/the-gop-is-betting-its-majority-on-older-white-voters/560537/ %}
+
+{% onebox https://www.vox.com/policy-and-politics/2018/5/17/17364492/trump-russia-michael-cohen-new-yorker-qatar %}
 
 💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

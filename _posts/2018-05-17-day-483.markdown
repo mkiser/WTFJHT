@@ -23,7 +23,7 @@ image: "/uploads/483.jpg"
 
 2/ **Trump referred to some undocumented immigrants as "animals,"** saying "these aren't people. These are animals." Trump also suggested that the mayor of Oakland, California should be charged with obstruction of justice for warning her constituents about ICE raids in February. "You talk about obstruction of justice," said Trump. "I would recommend that you look into obstruction of justice for the mayor of Oakland." ([New York Times](https://www.nytimes.com/2018/05/16/us/politics/trump-undocumented-immigrants-animals.html) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/05/16/trump-suggests-justice-department-investigate-oaklands-democratic-mayor-for-tipping-off-immigrants/))
 
-* **Kellyanne Conway: Trump is owed an apology from those who criticized him for calling undocumented immigrants "animals," ** because he was referring to gang members. ([The Hill](http://thehill.com/homenews/administration/388119-kellyanne-conway-trump-owed-an-apology-after-criticism-from-animals))
+* **Kellyanne Conway: Trump is owed an apology from those who criticized him for calling undocumented immigrants "animals,"** because he was referring to gang members. ([The Hill](http://thehill.com/homenews/administration/388119-kellyanne-conway-trump-owed-an-apology-after-criticism-from-animals))
 
 * {% twitter https://twitter.com/KellyannePolls/status/997096924783235073 %}
 

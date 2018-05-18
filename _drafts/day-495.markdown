@@ -2,5 +2,6 @@
 title: Day 495
 date: 2018-05-29 07:15:00 -07:00
 image: "/uploads/495.jpg"
+author: Joe Amditis
 ---
 

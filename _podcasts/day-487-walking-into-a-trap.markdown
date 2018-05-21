@@ -1,10 +1,10 @@
 ---
 title: 'Day 487: Walking into a trap.'
 date: 2018-05-21 14:10:00 -07:00
-file: "/uploads/Day-487.mp3"
+file: "/uploads/Day-487a.mp3"
 post: Day 487
-duration: '00:04:21'
-length: 5396199
+duration: '00:04:20'
+length: 5350249
 ---
 
 **Monday, May 21, 2018**

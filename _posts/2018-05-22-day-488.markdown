@@ -3,6 +3,11 @@ title: Day 488
 date: 2018-05-22 06:00:00 -07:00
 description: Too inconvenient.
 image: "/uploads/488.jpg"
+todayInOneSentence: 'Trump doesn''t take recommended security precautions  for his
+  digital communications and tweets; his aides use bad grammar when they write tweets
+  for him; the EPA banned the AP and CNN from a national summit on water contamination;
+  the Interior Department wants to let hunters use bacon and doughnuts to hunt bears;
+  and lawmakers want to stop Trump''s deal with Chinese telecom giant ZTE. '
 author: Joe Amditis
 ---
 
@@ -10,7 +15,7 @@ author: Joe Amditis
 
 * **Trump is essentially doing the same thing he demanded Hillary Clinton be locked up for doing**. Trump's actions are identical to Clinton’s, but Trump's situation is an easier target for foreign hackers, especially since Trump is particularly vulnerable to espionage and blackmail due to his concealed business interests and alleged adultery. ([New York Magazine](http://nymag.com/daily/intelligencer/2018/05/trump-thanks-secure-phone-too-inconvenient-lock-him-up.html))
 
-* **Trump communications security practices illustrate the clear double standard between Hillary Clinton’s emails and his own cell phones**. Whether or not convenience was actually Clinton's reasoning for the use of her private server is a fair question, but there are still clear parallels between what Trump attacked Clinton for and what he's doing now. ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/22/trump-warned-of-great-danger-posed-by-clintons-emails-but-he-eschews-security-procedures-for-his-own-phone/?noredirect=on&utm_term=.dd1c7650882d))
+* **Trump's communication security practices illustrate the clear double standard between Hillary Clinton’s emails and his own cell phones**. Whether or not convenience was actually Clinton's reasoning for the use of her private server is a fair question, but there are still clear parallels between what Trump attacked Clinton for and what he's doing now. ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/22/trump-warned-of-great-danger-posed-by-clintons-emails-but-he-eschews-security-procedures-for-his-own-phone/?noredirect=on&utm_term=.dd1c7650882d))
 
 2/ **White House employees who draft proposed tweets for Trump intentionally use bad grammar and incorporate spelling errors to make it sound like Trump is the one tweeting**. The overuse of exclamation points, random capitalization of words for emphasis, and use of fragmented sentences are all part of a process intended to make the tweets seem like genuine Trump communications. ([Boston Globe](https://www.bostonglobe.com/news/nation/2018/05/21/trump-tweets-include-grammatical-errors-and-some-them-are-purpose/JeL7AtKLPevJDIIOMG7TrN/story.html))
 

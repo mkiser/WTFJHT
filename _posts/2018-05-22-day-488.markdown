@@ -1,6 +1,6 @@
 ---
 title: Day 488
-date: 2018-05-22 06:11:00 -07:00
+date: 2018-05-22 06:00:00 -07:00
 description: Too inconvenient.
 image: "/uploads/488.jpg"
 author: Joe Amditis

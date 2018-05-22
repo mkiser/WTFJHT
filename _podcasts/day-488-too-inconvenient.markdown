@@ -27,7 +27,7 @@ length: 7872232
 
 8/ James Clapper said the FBI was not, at any point, spying on the Trump campaign.
 
-9/ Harley-Davidson took a tax cut, closed a factory in Kansas City, and rewarded its shareholders with a nearly $700 million stock buyback plan.
+9/ Harley-Davidson took a tax cut, closed a factory in Kansas City, and rewarded its shareholders with a nearly $700 million stock buyback plan. 
 
 **NOTABLES.**
 

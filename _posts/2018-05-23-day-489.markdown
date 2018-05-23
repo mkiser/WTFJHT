@@ -3,13 +3,12 @@ title: Day 489
 date: 2018-05-23 05:13:00 -07:00
 description: 'Taxi King. '
 image: "/uploads/489.jpg"
-todayInOneSentence: Michael Cohen's business partner took a plea deal that requires
-  him to cooperate with state and federal investigations; Trump continues to push
-  his FBI spy theories and won't invite Democrats to discuss them; Trump bashes the
-  press to "demean" and "discredit" them so no one will believe negative coverage
-  about him; Pompeo is determined to fight against Russian meddling in the midterms;
-  and Jared Kushner's prison reform bill sailed through the House but likely won't
-  make it to the Senate floor.
+todayInOneSentence: Michael Cohen's business partner took a plea deal and agreed to
+  cooperate with state and federal investigations; the White House won't invite Democrats
+  to discuss them; Trump bashes the press so no one believes negative stories about
+  him; Jared Kushner's prison reform bill sailed through the House but likely won't
+  make it to the Senate floor, and a federal judge ruled that Trump can't block people
+  on Twitter.
 author: Joe Amditis
 ---
 

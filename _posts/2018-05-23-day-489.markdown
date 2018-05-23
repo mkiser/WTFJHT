@@ -69,21 +69,3 @@ poll/ **Thirty-six percent of voters say they would vote for Trump over a generi
 7. **Trump offered his support to Tomi Lahren after someone threw a drink at the Fox News pundit** while she was eating at a restaurant in Minneapolis over the weekend. ([Washington Post](https://www.washingtonpost.com/politics/trump-takes-to-twitter-to-support-fox-news-pundit-who-had-a-drink-thrown-at-her/2018/05/23/e6c0b856-5e7e-11e8-9ee3-49d6d4814c4c_story.html))
 
 8. **Stacey Abrams won the Democratic nomination to become the next governor of Georgia**, making her the first African American woman to be a major party nominee in the state. ([New York Times](https://www.nytimes.com/2018/05/22/us/politics/georgia-primary-abrams-results.html))
-
----
-
-### 👀 Watching.
-
-*A list of stories I'm keeping an eye on*.
-
-{% onebox https://www.nytimes.com/2018/05/23/magazine/the-risky-business-of-speaking-for-president-trump.html %}
-
-{% onebox  https://www.nytimes.com/2018/05/23/us/politics/election-results-georgia-kentucky-texas-arkansas.html %}
-
-{% onebox https://www.washingtonpost.com/world/asia_pacific/state-department-warns-us-citizens-in-china-after-employee-suffers-possible-sonic-attack/2018/05/23/db7bbd44-5e68-11e8-8c93-8cf33c21da8d_story.html %}
-
-{% onebox https://www.politico.com/story/2018/05/23/epa-bars-reporters-from-toxic-chemicals-summit-again-565742 %}
-
-{% onebox https://abcnews.go.com/US/families-sandy-hook-victims-fbi-agent-file-defamation/story?id=55379036 %}
-
-💬 *What stories are you noticing? Let me know using the [WTF Community forums](https://talk.whatthefuckjusthappenedtoday.com/).*

@@ -3,6 +3,12 @@ title: Day 489
 date: 2018-05-23 05:13:00 -07:00
 description: 'Taxi King. '
 image: "/uploads/489.jpg"
+todayInOneSentence: Michael Cohen's business partner took a plea deal that requires
+  him to cooperate with state and federal investigations; Trump continues to push
+  his FBI spy theories and won't invite Democrats to discuss them; Scott Pruitt spent
+  even more money than previously reported; Pompeo is determined to fight against
+  Russian meddling in the midterms; and Jared Kushner's prison reform bill sailed
+  through the House but likely won't make it to the Senate floor.
 author: Joe Amditis
 ---
 
@@ -24,6 +30,8 @@ author: Joe Amditis
 
 * **Donald Trump turned a rumor into a full-blown government conspiracy in just 5 days.** Trump went from having heard a rumor about the FBI's use of a confidential source to ckaiming that it was an intentional and political attempt to install a "spy" within his ranks on behalf of Obama's Justice Department. ([Politico](https://www.cnn.com/2018/05/23/politics/donald-trump-spygate/index.html))
 
+* **Trump’s FBI spy theory is completely insane.** "The spy theory holds that the FBI, working on orders from the Obama administration, implanted a spy into the Trump campaign in order to help Hillary Clinton’s campaign. . . . This does not explain why the FBI failed to announce either the results of its spying campaign, or even the existence of the investigation, in time to help Clinton win, rather than allowing the probe to remain secret until well after the election." ([New York Magazine](http://nymag.com/daily/intelligencer/2018/05/trumps-fbi-russia-scandal-spy-theory-mueller-insane.html))
+
 4/ **Trump said he constantly bashes the press  in order to "demean" and "discredit" journalists so the public won't believe "negative stories" about him**. Lesley Stahl says she asked Trump, "Why are you doing it over and over?" She continued: "And he said: 'You know why I do it? I do it to discredit you all and demean you all so that when you write negative stories about me no one will believe you.'" ([Yahoo! Finance](https://uk.finance.yahoo.com/news/trump-told-lesley-stahl-bashes-200400865.html?soc_src=social-sh&soc_trk=tw))
 
 {% youtube nq6Tt--uAfs?t=1281 %}
@@ -35,7 +43,7 @@ author: Joe Amditis
 7/ **Jared Kushner’s prison reform plan passed** **in the House of Representatives**. The bipartisan "First Step Act," which has Trump's support, passed with a 360-59 vote. The bill would provide training programs for prisoners and would be the first major bipartisan success for the Trump administration. Mitch McConnell, however, has indicated that he is unlikely to bring up the bill in the Senate unless Republicans can find a way to resolve their differences. ([Politico](https://www.politico.com/story/2018/05/22/house-easily-passes-prison-reform-bill-backed-by-white-house-603333))
 
 * **Congress’s prison reform bill, explained
-:** The First Step Act has Trump’s support — but faces some Democratic opposition. ([Vox](https://www.vox.com/policy-and-politics/2018/5/22/17377324/first-step-act-prison-reform-congress))
+  \:** The First Step Act has Trump’s support — but faces some Democratic opposition. ([Vox](https://www.vox.com/policy-and-politics/2018/5/22/17377324/first-step-act-prison-reform-congress))
 
 * **Is the “First Step Act” real reform?** The bill addresses the dire need for rehabilitative services in the federal prison system, proves there is strong bipartisan support for at least modest criminal justice reform and underscores a strategic debate that has split the Democratic Party. ([The Marshall Project](https://www.themarshallproject.org/2018/05/22/is-the-first-step-act-real-reform))
 
@@ -58,3 +66,19 @@ poll/ **Thirty-six percent of voters say they would vote for Trump over a generi
 5. \*\*Trump offered his support to Tomi Lahren after someone threw a drink at the Fox News pundit \*\*while she was eating at a restaurant in Minneapolis over the weekend. ([Washington Post](https://www.washingtonpost.com/politics/trump-takes-to-twitter-to-support-fox-news-pundit-who-had-a-drink-thrown-at-her/2018/05/23/e6c0b856-5e7e-11e8-9ee3-49d6d4814c4c_story.html))
 
 6. **Stacey Abrams won the Democratic nomination to become the next governor of Georgia**, making her the first African American woman to be a major party nominee in the state. ([New York Times](https://www.nytimes.com/2018/05/22/us/politics/georgia-primary-abrams-results.html))
+
+---
+
+### 👀 Watching.
+
+*A list of stories I'm keeping an eye on*.
+
+{% onebox https://www.nytimes.com/2018/05/23/magazine/the-risky-business-of-speaking-for-president-trump.html %}
+
+{% onebox  https://www.nytimes.com/2018/05/23/us/politics/election-results-georgia-kentucky-texas-arkansas.html %}
+
+{% onebox https://www.washingtonpost.com/world/asia_pacific/state-department-warns-us-citizens-in-china-after-employee-suffers-possible-sonic-attack/2018/05/23/db7bbd44-5e68-11e8-8c93-8cf33c21da8d_story.html %}
+
+{% onebox https://www.politico.com/story/2018/05/23/epa-bars-reporters-from-toxic-chemicals-summit-again-565742 %}
+
+💬 *What stories are you noticing? Let me know using the [WTF Community forums](https://talk.whatthefuckjusthappenedtoday.com/).*

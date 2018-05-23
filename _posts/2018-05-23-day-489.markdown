@@ -4,11 +4,12 @@ date: 2018-05-23 05:13:00 -07:00
 description: 'Taxi King. '
 image: "/uploads/489.jpg"
 todayInOneSentence: Michael Cohen's business partner took a plea deal and agreed to
-  cooperate with state and federal investigations; the White House won't invite Democrats
-  to discuss them; Trump bashes the press so no one believes negative stories about
-  him; Jared Kushner's prison reform bill sailed through the House but likely won't
-  make it to the Senate floor, and a federal judge ruled that Trump can't block people
-  on Twitter.
+  cooperate with state and federal investigations; Cohen received a secret payment
+  of $400,000 to arrange talks with Trump and the Ukrainian president; Mueller asked
+  the courts to start the sentencing process for Papadopoulos; Trump bashes the press
+  so no one believes negative stories about him; Jared Kushner's prison reform bill
+  sailed through the House but likely won't make it to the Senate floor, and a federal
+  judge ruled that Trump can't block people on Twitter.
 author: Joe Amditis
 ---
 
@@ -22,13 +23,15 @@ author: Joe Amditis
 
 * **Michael Cohen's business partner may flip under plea deal.** ([Fox News](http://www.foxnews.com/politics/2018/05/23/michael-cohens-business-partner-may-flip-under-plea-deal.html))
 
-2/ **Michael Cohen received a secret payment of at least $400,000 to arrange talks between Trump and the president of Ukraine**. The payment was arranged by intermediaries acting on behalf of Ukrainian president Petro Poroshenko. The meetings occurred at the White House last June. Cohen has denied the allegation. There is no indication that Trump was aware of the payment. ([BBC](http://www.bbc.com/news/world-us-canada-44215656)) 
+2/ **Michael Cohen received a secret payment of at least $400,000 to arrange talks between Trump and the president of Ukraine**. The payment was arranged by intermediaries acting on behalf of Ukrainian president Petro Poroshenko. The meetings occurred at the White House last June. Cohen has denied the allegation. There is no indication that Trump was aware of the payment. ([BBC](http://www.bbc.com/news/world-us-canada-44215656))
 
-3/ **Scott Pruitt spent at least $9,600 on decorations and furniture for his personal office**. Pruitt bought Smithsonian artwork, a refurbished desk, and other framed items. He paid the Smithsonian Institution $1,950 in labor and delivery charges to rent out three art pieces for his executive suite, and spent more than $2,500 on frames for various items, including a photo of himself with Trump and an American flag. The internal document with the list of expenditures also confirmed earlier reports that Pruitt spent $2,963 on a standing "captain's" desk and $2,075 on a different desk. ([The Hill](http://thehill.com/policy/energy-environment/388895-pruitt-spent-at-least-9600-on-office-decor-restored-desks-email))
+3/ **Robert Mueller asked the courts to begin the sentencing process for former Trump campaign adviser George Papadopoulos**. Mueller asked the judge to order a standard investigative report and to begin moving forward with sentencing process. The judge will ultimately decide what Papadopoulos' sentence will be. Papadopoulos has been cooperating with the special counsel for months, but the move suggests that his cooperation may no longer be necessary. ([CNN](https://www.cnn.com/videos/politics/2018/05/23/mueller-trump-papadopoulos-sourt-sentencing-process-prokupecz-wolf.cnn))
+
+4/ **Scott Pruitt spent at least $9,600 on decorations and furniture for his personal office**. Pruitt bought Smithsonian artwork, a refurbished desk, and other framed items. He paid the Smithsonian Institution $1,950 in labor and delivery charges to rent out three art pieces for his executive suite, and spent more than $2,500 on frames for various items, including a photo of himself with Trump and an American flag. The internal document with the list of expenditures also confirmed earlier reports that Pruitt spent $2,963 on a standing "captain's" desk and $2,075 on a different desk. ([The Hill](http://thehill.com/policy/energy-environment/388895-pruitt-spent-at-least-9600-on-office-decor-restored-desks-email))
 
 * **March 14: Scott Pruitt’s $25,000 soundproof phone booth? It actually cost around $43,000.** "In addition to the soundproof booth, invoices released by the EPA show Pruitt paid $2,075 to refinish a desk that had been stored in a government warehouse, as well as $2,963 for a new 'captain’s desk' in his office." ([Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2018/03/14/scott-pruitts-25000-soundproof-phone-booth-it-actually-cost-more-like-43000/?utm_term=.2ed8399c4d9a))
 
-4/ **The White House did not invite Democrats to a private briefing on the FBI informant involved in the investigation into the Trump campaign's contacts with Russians** during and after the 2016 election. Two senior House Republicans were invited to the briefing, which was coordinated by John Kelly and will be held on Thursday. Democrats are demanding that Democratic lawmakers be included in the briefing. Sarah Huckabee-Sanders said Democrats weren't invited because they didn't specifically ask for details about the informant. ([Politico](https://www.politico.com/story/2018/05/22/fbi-informant-meeting-doj-gop-democrats-white-house-603275))
+5/ **The White House did not invite Democrats to a private briefing on the FBI informant involved in the investigation into the Trump campaign's contacts with Russians** during and after the 2016 election. Two senior House Republicans were invited to the briefing, which was coordinated by John Kelly and will be held on Thursday. Democrats are demanding that Democratic lawmakers be included in the briefing. Sarah Huckabee-Sanders said Democrats weren't invited because they didn't specifically ask for details about the informant. ([Politico](https://www.politico.com/story/2018/05/22/fbi-informant-meeting-doj-gop-democrats-white-house-603275))
 
 * **Donald Trump turned a rumor into a full-blown government conspiracy in just 5 days.** Trump went from having heard a rumor about the FBI's use of a confidential source to ckaiming that it was an intentional and political attempt to install a "spy" within his ranks on behalf of Obama's Justice Department. ([Politico](https://www.cnn.com/2018/05/23/politics/donald-trump-spygate/index.html))
 
@@ -48,7 +51,9 @@ author: Joe Amditis
 
 * **Trump-backed prison reform bill DOA in the Senate.** While Trump has shown interest in prison reform, fractures within the Republican party have left little room for a win when it comes to bringing any criminal justice bill to the Senate floor. ([Politico](https://www.politico.com/story/2018/05/21/trump-prison-reform-senate-601983))
 
-9/ **A federal district court judge ruled that Trump can't block people on Twitter over their political views**. Judge Buchwald of the Southern District of New York said Trump's Twitter account is a public forum and blocking people based on their political opinions amounts to viewpoint discrimination and a violation of the First Amendment to the U.S. Constitution. ([The Hill](http://thehill.com/regulation/389021-judge-rules-trump-cant-block-users-on-twitter)) 
+9/ **A federal district court judge ruled that Trump can't block people on Twitter over their political views**. Judge Buchwald of the Southern District of New York said Trump's Twitter account is a public forum and blocking people based on their political opinions amounts to viewpoint discrimination and a violation of the First Amendment to the U.S. Constitution. ([The Hill](http://thehill.com/regulation/389021-judge-rules-trump-cant-block-users-on-twitter))
+
+poll/ **A majority of Americans — 59% — don't think Mueller's investigation into Russia and the 2016 presidential campaign has uncovered evidence of any crimes**, even though the special counsel has already secured five guilty pleas and issued 17 criminal indictments. ([Vox](https://www.vox.com/2018/5/23/17384096/mueller-investigation-poll) / [Navigator Research](https://navigatorresearch.org/portfolio_page/what-are-they-hiding/))
 
 poll/ **Thirty-six percent of voters say they would vote for Trump over a generic Democratic candidate in 2020**. Forty-four percent would choose the generic Democrat, and 20 percent of voters remain undecided. ([Politico](https://www.politico.com/story/2018/05/23/trump-democrats-2020-election-603421))
 

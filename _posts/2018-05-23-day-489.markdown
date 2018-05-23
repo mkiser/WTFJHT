@@ -82,4 +82,6 @@ poll/ **Thirty-six percent of voters say they would vote for Trump over a generi
 
 {% onebox https://www.politico.com/story/2018/05/23/epa-bars-reporters-from-toxic-chemicals-summit-again-565742 %}
 
+{% onebox https://abcnews.go.com/US/families-sandy-hook-victims-fbi-agent-file-defamation/story?id=55379036 %}
+
 💬 *What stories are you noticing? Let me know using the [WTF Community forums](https://talk.whatthefuckjusthappenedtoday.com/).*

@@ -5,10 +5,11 @@ description: 'Taxi King. '
 image: "/uploads/489.jpg"
 todayInOneSentence: Michael Cohen's business partner took a plea deal that requires
   him to cooperate with state and federal investigations; Trump continues to push
-  his FBI spy theories and won't invite Democrats to discuss them; Scott Pruitt spent
-  even more money than previously reported; Pompeo is determined to fight against
-  Russian meddling in the midterms; and Jared Kushner's prison reform bill sailed
-  through the House but likely won't make it to the Senate floor.
+  his FBI spy theories and won't invite Democrats to discuss them; Trump bashes the
+  press to "demean" and "discredit" them so no one will believe negative coverage
+  about him; Pompeo is determined to fight against Russian meddling in the midterms;
+  and Jared Kushner's prison reform bill sailed through the House but likely won't
+  make it to the Senate floor.
 author: Joe Amditis
 ---
 

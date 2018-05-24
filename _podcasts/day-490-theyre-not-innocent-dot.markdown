@@ -1,10 +1,10 @@
 ---
 title: 'Day 490: "They''re not innocent."'
 date: 2018-05-24 15:03:00 -07:00
-file: "/uploads/Day-490.mp3"
+file: "/uploads/Day-490a.mp3"
 post: Day 490
-duration: '00:08:40'
-length: 9529151
+duration: '00:08:26'
+length: 9280548
 ---
 
 **Thursday, May 24, 2018**

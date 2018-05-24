@@ -1,6 +1,6 @@
 ---
 title: Day 490
-date: 2018-05-24 07:13:00 -07:00
+date: 2018-05-24 07:00:00 -07:00
 description: '"They''re not innocent."'
 image: "/uploads/490.jpg"
 author: Joe Amditis

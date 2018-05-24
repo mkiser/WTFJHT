@@ -3,6 +3,14 @@ title: Day 490
 date: 2018-05-24 07:00:00 -07:00
 description: '"They''re not innocent."'
 image: "/uploads/490.jpg"
+todayInOneSentence: Trump canceled the North Korean nuclear summit; he said migrant
+  children entering through the southern border may look innocent, but they're not;
+  Trump won't sign any immigration bill that doesn't include "a real wall," and called
+  for sweeping changes to the immigration legal process; he suggested that NFL players
+  "maybe you shouldn't be in the country" if they stay in the locker rooms during
+  the anthem; he signed the largest rollback of federal banking regulations since
+  the Great Recession; and the FBI seized control of a key server in Russia's global
+  botnet.
 author: Joe Amditis
 ---
 

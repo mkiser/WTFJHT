@@ -1,6 +1,6 @@
 ---
 title: Day 491
-date: 2018-05-25 07:14:00 -07:00
+date: 2018-05-25 05:14:00 -07:00
 description: A colossal waste.
 image: "/uploads/491.jpg"
 author: Joe Amditis

@@ -1,5 +1,5 @@
 ---
-title: "\U0001F5FD We're taking a break for Memorial Day"
+title: "\U0001F5FD We're taking a break for Memorial Day."
 date: 2018-05-25 20:59:00 -07:00
 is_breaking_news: true
 ---

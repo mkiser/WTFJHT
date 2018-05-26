@@ -21,7 +21,7 @@ length: 8950309
 
 5/ Roger Stone tried to get damaging information on Hillary Clinton from Julian Assange during the 2016 campaign.
 
-6/ A Russian billionaire with ties to the Kremlin met with Michael Cohen at Trump Tower 11 days before the 2016 election.
+6/ A Russian billionaire with ties to the Kremlin met with Michael Cohen at Trump Tower 11 days before Trump's inauguration.
 
 7/ The Trump administration told lawmakers that it has reached a deal to keep Chinese telecom giant ZTE alive.
 
@@ -51,4 +51,6 @@ length: 8950309
 
 ![](https://static.xx.fbcdn.net/images/emoji.php/v9/f7e/1/16/1f4c5.png)  **Last year today**: [Day 126: Street fighters.](https://whatthefuckjusthappenedtoday.com/2017/05/25/Day-126/)
 
-*Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by [Matt Kiser](https://twitter.com/Matt_Kiser). The [WTFJHT Podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) is narrated and produced by [Joe Amditis](https://twitter.com/jsamditis).*
+*Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by [Matt Kiser](https://twitter.com/Matt_Kiser). The [WTFJHT Podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) is narrated and produced by [Joe Amditis](https://twitter.com/jsamditis).*\
+\
+***EDITOR'S NOTE**: The audio file says Vekselberg met with Michael Cohen 11 days before **Trump's election**. Vekselberg actually met with Cohen at Trump Tower 11 days before **Trump's inauguration**.*

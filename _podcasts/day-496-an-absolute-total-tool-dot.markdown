@@ -1,7 +1,10 @@
 ---
 title: 'Day 496: "An absolute, total tool."'
 date: 2018-05-30 15:37:00 -07:00
+file: "/uploads/Day-496.mp3"
 post: Day 496
+duration: '00:08:24'
+length: 9305048
 ---
 
 **Wednesday, May 30, 2018**

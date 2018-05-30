@@ -9,7 +9,7 @@ length: 9141381
 
 **Tuesday, May 29, 2018**
 
-**Subscribe:** [Get the Daily Update in your inbox for free.](https://whatthefuckjusthappenedtoday.com/subscribe/)
+**Subscribe:** [Get the Daily Update in your inbox for free.](https://whatthefuckjusthappenedtoday.com/subscribe/) 
 
 1/ The U.S. Office of Refugee Resettlement lost track of nearly 1,500 unaccompanied immigrant children between October and December of 2017.
 

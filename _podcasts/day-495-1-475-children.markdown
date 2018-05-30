@@ -1,6 +1,6 @@
 ---
 title: 'Day 495: 1,475 children.'
-date: 2018-05-29 17:22:00 -07:00
+date: 2018-05-29 15:22:00 -07:00
 file: "/uploads/Day-495.mp3"
 post: Day 495
 duration: '00:07:46'

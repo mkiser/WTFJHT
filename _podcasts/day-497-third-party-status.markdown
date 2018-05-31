@@ -7,6 +7,12 @@ duration: '00:06:55'
 length: 7845995
 ---
 
+NOTE: I've been doing the WTFJHT podcast for 35 weeks now! How am I doing? Does this make your day suck less at all? If so, leave a review on iTunes or wherever you're listening to this. It helps a lot — probably more than you realize. You can also send me an email with your feedback and/or suggestions at joe@whatthefuckjusthappenedtoday.com. Thanks!
+
+- Joe
+
+— — —
+
 **Thursday, May 31, 2018**
 
 **Subscribe:** [Get the Daily Update in your inbox for free.](https://whatthefuckjusthappenedtoday.com/subscribe/)
@@ -45,7 +51,7 @@ length: 7845995
 
 **[Become a supporting member today!](https://whatthefuckjusthappenedtoday.com/membership/?utm_source=2017\+Donors&utm_campaign=8dccd905d9-&utm_medium=email&utm_term=0_3bd36f654c-8dccd905d9-169730397)**
 
-![](https://static.xx.fbcdn.net/images/emoji.php/v9/f7e/1/16/1f4c5.png) **Last year today**: 
+![](https://static.xx.fbcdn.net/images/emoji.php/v9/f7e/1/16/1f4c5.png) **Last year today**:
 [Day 132: Au revoir.](https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/)
 
 *Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by [Matt Kiser](https://twitter.com/Matt_Kiser). The [WTFJHT Podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) is narrated and produced by [Joe Amditis](https://twitter.com/jsamditis).*

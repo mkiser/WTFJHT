@@ -17,9 +17,8 @@ length: 7845995
 
 3/ The White House announced a new 10% tariff on metal imports from the European Union, Canada, and Mexico, which supply nearly half of all U.S. metal imports.
 
-4/ Trump is preparing to block German luxury carmakers from the United States.\
+4/ Trump is preparing to block German luxury carmakers from the United States.
 
-\
 5/ Trump offered a full pardon to conservative pundit Dinesh D'Souza for violating campaign finance laws.
 
 6/ Trump is also considering commuting the sentence of former Democratic Illinois Gov. Rod Blagojevich and pardoning Martha Stewart.
@@ -46,6 +45,7 @@ length: 7845995
 
 **[Become a supporting member today!](https://whatthefuckjusthappenedtoday.com/membership/?utm_source=2017\+Donors&utm_campaign=8dccd905d9-&utm_medium=email&utm_term=0_3bd36f654c-8dccd905d9-169730397)**
 
-![](https://static.xx.fbcdn.net/images/emoji.php/v9/f7e/1/16/1f4c5.png) **Last year today**: [Day 132: Au revoir.](https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/)
+![](https://static.xx.fbcdn.net/images/emoji.php/v9/f7e/1/16/1f4c5.png) **Last year today**: 
+[Day 132: Au revoir.](https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/)
 
 *Visit [www.whatthefuckjusthappenedtoday.com](www.whatthefuckjusthappenedtoday.com) for more news and headlines, brought to you by [Matt Kiser](https://twitter.com/Matt_Kiser). The [WTFJHT Podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) is narrated and produced by [Joe Amditis](https://twitter.com/jsamditis).*

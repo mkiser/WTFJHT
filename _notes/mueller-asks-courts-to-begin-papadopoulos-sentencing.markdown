@@ -1,7 +1,6 @@
 ---
 title: "\U0001F6A8 Mueller asks courts to begin Papadopoulos sentencing"
 date: 2018-05-23 13:37:00 -07:00
-published: false
 is_breaking_news: false
 ---
 

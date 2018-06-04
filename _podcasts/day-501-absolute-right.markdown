@@ -1,10 +1,10 @@
 ---
 title: 'Day 501: Absolute right.'
 date: 2018-06-04 15:50:00 -07:00
-file: "/uploads/Day-501.mp3"
+file: "/uploads/Day-501a.mp3"
 post: Day 501
-duration: '00:05:52'
-length: 6620092
+duration: '00:06:17'
+length: 7030318
 ---
 
 **Monday, June 4, 2018**

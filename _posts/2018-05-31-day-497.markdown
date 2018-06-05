@@ -1,0 +1,58 @@
+---
+title: Day 497
+date: 2018-05-31 05:17:00 -07:00
+description: Third-party status.
+image: "/uploads/497.jpg"
+todayInOneSentence: McCabe wrote a secret memo in 2017 outlining his concerns about
+  a cover story for Trump's firing of James Comey; Trump again claimed he didn't fire
+  Comey because of the Russia investigation but apparently he also repeatedly pressured
+  Sessions in 2017 to reclaim control over the investigation;  the White House is
+  imposing new metal tariffs against our allies who happen to provide nearly half
+  of U.S. imported metals, while Trump also prepares to prevent German automakers
+  from selling in the U.S.; Trump pardoned or commuted the sentences of three rich
+  or powerful people who were convicted of financial and political crimes; the largest
+  federal employees union is suing Trump for overstepping his executive authority;
+  and the GAO says the Trump administration is stonewalling the nation's chief government
+  watchdog.
+author: Joe Amditis
+---
+
+1/ **Former acting FBI director Andrew McCabe wrote a confidential memo about a May 2017 conversation he had with Rod Rosenstein regarding the firing of James Comey.** The memo says Trump originally asked Rosenstein to reference Russia in the public memo used to justify firing Comey. McCabe thought that seemed like evidence that Comey's firing was actually about the Russia investigation and that Rosenstein was helping to provide a cover story by writing about the Clinton investigation. ([New York Times](https://www.nytimes.com/2018/05/30/us/politics/rosenstein-trump-comey-firing-mccabe-memo.html))
+
+2/ **Trump repeatedly pressured Jeff Sessions to reclaim control over the Russia investigation on at least four separate occasions.** Three of those occasions were in-person, and the fourth was over the phone. The constant pressure made several other officials uncomfortable at the time, because they felt it was improper and could present its own legal and political problems. Two sources familiar with the conversations said Trump never directly ordered Sessions to reinsert himself into the investigation, but would instead ask Sessions whether he had "thought about" stepping back in. ([Axios](https://www.axios.com/trump-pressure-sessions-mueller-investigation-30e0f930-e688-47da-8f20-411864cea471.html))
+
+* **Trump once again claimed that he did not fire James Comey because of the Russia investigation**, despite his earlier admissions that the investigation was at least part of his decision-making. "Not that it matters," Trump tweeted, "but I never fired James Comey because of Russia! The Corrupt Mainstream Media loves to keep pushing that narrative, but they know it is not true!" ([The Hill](http://thehill.com/homenews/administration/390015-trump-claims-he-did-not-fire-comey-over-russia))
+
+3/ **The White House announced a new 10% tariff on metal imports from the European Union, Canada, and Mexico, which supply nearly half of all U.S. metal imports.** The steel and aluminum tariffs will go into effect at midnight on Thursday. The European Union immediately announced that it would impose countermeasures against the U.S. as a response. ([New York Times](https://www.nytimes.com/2018/05/31/us/politics/trump-aluminum-steel-tariffs.html) / [Washington Post](https://www.washingtonpost.com/business/economy/trump-imposes-steel-and-aluminum-tariffs-on-the-european-union-canada-and-mexico/2018/05/31/891bb452-64d3-11e8-a69c-b944de66d9e7_story.html?utm_term=.e672e06eabc6) / [CNBC](https://www.cnbc.com/2018/05/31/trump-administration-will-put-steel-and-aluminum-tariffs-on-canada-mexico-and-the-eu.html))
+
+4/ **Trump is preparing to block German luxury carmakers from the United States.** Trump told French president Emmanuel Macron last month that he planned to stop Mercedes-Benz from driving down Fifth Avenue in New York. No further details are currently available about the specific policies Trump might pursue in order to effectively prevent German automakers from selling in the U.S. ([NBC News](https://www.cnbc.com/2018/05/31/trump-reportedly-poised-to-ban-german-luxury-carmakers-in-the-us.html) / [WirtschaftsWoche](https://www.wiwo.de/unternehmen/auto/importzoelle-trump-will-daimler-vom-us-markt-aussperren/22620470.html))
+
+5/ **Trump offered a full pardon to conservative pundit Dinesh D'Souza for violating campaign finance laws.** D'Souza illegally used straw donors to funnel additional money into the campaign of a GOP Senate candidate in 2012, and pleaded guilty to the charges in 2014. He was sentenced to five years of probation and a $30,000 fine. "Will be giving a Full Pardon to Dinesh D’Souza today," Trump tweeted. "He was treated very unfairly by our government!" ([Washington Post](https://www.washingtonpost.com/politics/trump-offers-pardon-to-conservative-pundit-dinesh-dsouza-for-campaign-finance-violations/2018/05/31/b4939a08-64d5-11e8-a768-ed043e33f1dc_story.html?utm_term=.1e25d71764c7))
+
+6/ **Trump is also considering pardoning Martha Stewart commuting the sentence of former Democratic Illinois Gov. Rod Blagojevich.** Trump brought up the commutation and additional pardon while talking to reporters on Air Force One, shortly after he announced D'Souza's pardon via Twitter. Blagojevich began a 14-year prison sentence for corruption in 2012 and was scheduled to get out in 2024. Stewart was convicted in 2004 of obstruction of justice and lying to the government about her insider trading. Blagojevich is a former contestant on "The Apprentice," and Trump said Stewart "used to be one of my biggest fans." ([Associated Press](https://apnews.com/beb7e46ebfac42af9237d3316ac0b522?utm_campaign=SocialFlow&utm_medium=AP&utm_source=Twitter))
+
+* **President Trump keeps pardoning his political friends.** Beyond breaking the seal on the pardon power much earlier in his presidency, publicly teasing them before carrying through, and so far using them for very political ends, Trump's pardons are also different because they have occurred one at a time. ([CNN](https://www.cnn.com/2018/05/31/politics/trump-pardons-political-friends/index.html))
+
+7/ **Audio recordings of Michael Cohen making legal threats to a reporter have been released to the public for the first time.** The recording features Cohen threatening a then-Daily Beast reporter with legal action in 2015 over an article the reporter wrote about one of Cohen's clients at the time. "Mark my words," Cohen warns, "I will make sure that you and I meet one day while we're in the courthouse, and I will take you for every penny you *still* don't have." Cohen continues: "And I will come after the Daily Beast and everybody else that you possibly know." ([NPR](https://www.npr.org/2018/05/31/615843930/listen-how-michael-cohen-protects-trump-by-making-legal-threats))
+
+* **The FBI is reconstructing shredded documents seized last month in the raids on Michael Cohen's apartment, office, and hotel room.** A small amount of shredded materials were seized, and agents are currently working to piece together the contents of at least one paper shredder that was recovered during the raid. ([The Hill](http://thehill.com/blogs/blog-briefing-room/389944-fbi-is-reconstructing-shredded-documents-obtained-during-cohen-raid))
+
+8/ **The largest federal employees union in the country is suing Trump to block an executive order that severely restricts the time employees are allowed to spend on union activities while on the clock.** The suit, filed by the American Federation of Government Employees, claims the president's order violates the First Amendment to the U.S. Constitution and goes beyond the constitutional powers of the executive branch. ([Washington Post](https://www.washingtonpost.com/politics/largest-federal-employee-union-sues-trump-over-rollback-of-union-protections/2018/05/31/335da8c8-64e6-11e8-a69c-b944de66d9e7_story.html?utm_term=.17132cf04733))
+
+9/ **The White House is not cooperating with the Government Accountability Office, the government's chief watchdog.** The GAO's general counsel sent a letter to White House counsel Don McGahn earlier this month and said attorneys for the White House and the National Security Council "will not respond to inquiries or otherwise engage with GAO staff during the course of our reviews." The GAO says it has inquired about vacancies at the inspector general's office, the president's security and travel costs, and the NSC's conflict-prevention efforts abroad, but staff have "either refused to have any discussion … or not responded at all." ([Politico](https://www.politico.com/story/2018/05/31/trump-white-house-government-accountability-office-615355))
+
+---
+
+### Notables.
+
+1. **Mike Pompeo's meeting with a high-ranking North Korean official ended two hours earlier than planned** because the talks "went well" and "made progress," according to a U.S. official. ([Associated Press](https://apnews.com/2ea1432ce0cc4de2a99eb1bfdb683d65))
+
+2. **The White House once cited the FBI's informant in Trump's campaign in order to help advance Trump's trade agenda with China.** A White House press release from August 14, 2017 features Stefan Halper as a prominent voice of support for Trump's call to investigate allegations that China was stealing U.S. intellectual property. ([Politico](https://www.politico.com/story/2018/05/31/stefan-halper-white-house-trade-615891))
+
+3. **Newly-released voter registration data from California show the Republican party trailing behind both Democrats and "no party preference" voters**. The California Republican Party has effectively been relegated to third-party status, falling behind independent voters by at least 73,000, leaving them with only 25.1 percent of registered California voters. ([Politico](https://www.politico.com/story/2018/05/30/california-republicans-third-party-status-613568))
+
+4. **The White House has been sending its talking points about the Iran deal to foreign policy heavyweights on both sides of the aisle, including former Obama administration officials and advisers for Hillary Clinton's presidential campaign.** White House communications aide Kelly Sadler forgot to BCC recipients of an email blast about Trump's Iran strategy, revealing the uncharacteristically inclusive email list and confusing frequent critics of the administration. ([Politico](https://www.politico.com/story/2018/05/30/white-house-email-snafu-obama-clinton-615251))
+
+5. **Samantha Bee apologized for calling Ivanka Trump a "feckless cunt" during a segment on her show about immigration issues.** Bee was referring to a photo Ivanka posted that depicts her holding her child amidst a flurry of news stories about migrant children being separated from their mothers at the southern border. ([New York Times](https://www.nytimes.com/2018/05/31/business/media/samantha-bee-ivanka-trump.html) / [Daily Beast](https://www.thedailybeast.com/samantha-bee-tears-into-feckless-cunt-ivanka-trump))
+
+6. **Joy Reid's blog published a Photoshopped image of John McCain as the Virginia Tech shooter in October 2007.** The post is one of several archived items from Reid's now-defunct website that have continued to resurface in recent months. ([BuzzFeed News](https://www.buzzfeed.com/josephbernstein/joy-reids-blog-published-a-photoshopped-image-of-john?utm_term=.na9kvAKY5K#.mprremo4Vo))

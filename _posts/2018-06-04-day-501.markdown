@@ -1,0 +1,55 @@
+---
+title: Day 501
+date: 2018-06-04 13:03:00 -07:00
+description: 'Absolute right. '
+image: "/uploads/501.jpg"
+todayInOneSentence: Trump tweeted that Mueller's appointment is "totally UNCONSTITUTIONAL!"
+  and asserted that he has the "absolute right to PARDON [himself]"; Trump's lawyers
+  claimed that Trump cannot be compelled to testify and that it's impossible for him
+  to obstruct justice; and Trump's lawyers confirmed that Trump dictated a "short
+  but accurate" statement about Trump Jr.'s 2016 Trump Tower meeting with a Russian
+  lawyer, which contradicts Sarah Huckabee Sanders' claim that Trump "certainly didn't
+  dictate" the statement.
+---
+
+1/ **Trump tweeted that Robert Mueller's appointment is "totally UNCONSTITUTIONAL!" and asserted that he has the "absolute right to PARDON myself."** Trump, however, said he would "play the game" because he has "done nothing wrong." Over the weekend, Giuliani said Trump "probably" has the power to pardon himself, but that it would be "unthinkable" for him to do so and would "lead to probably an immediate impeachment." He added that Trump "has no need to do that. He didn't do anything wrong." ([New York Times](https://www.nytimes.com/2018/06/04/us/politics/trump-pardon-power-constitution.html) / [CNBC](https://www.cnbc.com/2018/06/04/trump-i-have-the-absolute-right-to-pardon-myself.html) / [CNN](https://www.cnn.com/2018/06/04/politics/donald-trump-pardon-tweet/index.html) /  [Washington Post](https://www.washingtonpost.com/politics/giuliani-calls-it-unthinkable-that-trump-would-pardon-himself/2018/06/03/99b0a1ca-6748-11e8-bbc5-dc9f3634fa0a_story.html?utm_term=.e2dfddd7fb74))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1003616210922147841 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1003637916919320577 %}
+
+2/ **Trump's lawyers sent a 20-page letter to Mueller's office asserting that Trump cannot be compelled to testify**. The letter also argues that it's impossible for Trump to obstruct justice in the Russia investigation because the U.S. Constitution empowers the president to, "if he wished, terminate the inquiry, or even exercise his power to pardon." Giuliani responded to news of the leaked letter, saying that "if Mueller tries to subpoena us, we're going to court" and that "our recollection keeps changing" about the 2016 Trump Tower meeting and that "this is the reason you don't let this president testify in the special counsel's Russia investigation." The letter confirms that Trump dictated a "short but accurate" statement issued by Trump Jr. about his 2016 Trump Tower meeting with a Russian lawyer who an intermediary claimed had "dirt" on Hillary Clinton. ([New York Times](https://www.nytimes.com/2018/06/02/us/politics/trump-lawyers-memo-mueller-subpoena.html) / [ABC News](https://abcnews.go.com/Politics/giuliani-threatens-legal-battle-mueller-subpoena/story?id=55610183))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1002968869043097600 %}
+
+{% twitter https://twitter.com/ABC/status/1003260389931417601 %}
+
+* **Annotated**:  The Trump Lawyers' Confidential Memo to Mueller. ([New York Times](https://www.nytimes.com/interactive/2018/06/02/us/politics/trump-legal-documents.html))
+
+3/ **Sarah Huckabee Sanders refused to answers about her August 2017 claim that Trump "certainly didn't dictate" the Trump Tower statement**. [At the time](https://whatthefuckjusthappenedtoday.com/2017/08/01/day-194/#2-the-white-house-said-trump-only-we), Sanders said Trump only "weighed in" on Trump Jr.'s statement about the Russia meeting, saying "the statement that Don Jr. issued is true, there's no inaccuracy in the statement." ([The Hill](http://thehill.com/homenews/administration/390607-sanders-dodges-questions-about-trump-tower-statement))
+
+* **Day 194: Dictated**. Trump personally dictated Trump Jr.'s statement about his meeting with the Russian lawyer, saying they had "primarily discussed a program about the adoption of Russian children" when they met in June 2016. Sarah Huckabee Sanders said Trump only "weighed in" on Trump Jr.'s statement about the Russia meeting. ([What The Fuck Just Happened Today](https://whatthefuckjusthappenedtoday.com/2017/08/01/day-194/#1-trump-personally-dictated-trump-jr))
+
+4/ **Giuliani bragged that Trump could shoot James Comey in the Oval Office and still wouldn't be indicted for it.** "In no case can he be subpoenaed or indicted," Giuliani said. "I don’t know how you can indict while he’s in office. No matter what it is." Giuliani claimed that the only way Trump could be indicted is if he is impeached first. "If he shot James Comey, he’d be impeached the next day," Giuliani said. "Impeach him, and then you can do whatever you want to do to him." ([HuffPost](https://www.huffingtonpost.com/entry/trump-shoot-comey_us_5b145897e4b02143b7cd633e) / [The Hill](http://thehill.com/blogs/blog-briefing-room/news/390486-giuliani-if-trump-shot-comey-he-still-couldnt-have-been))
+
+5/ **The White House ordered Cabinet members to publicly support Trump's decision to withdraw from the Paris climate deal last year**. Emails reveal that the White House told all of Trump's top secretaries to "prep statements of support for the decision being announced," saying there were "no exceptions." ([The Hill](http://thehill.com/homenews/administration/390545-white-house-required-cabinet-to-publicly-back-paris-deal-exit-report) / [E&E News](https://www.eenews.net/stories/1060083155))
+
+---
+
+### Notables.
+
+1. **Trump's phone call with French President Emmanuel Macron on trade and immigration was described as "terrible"** after Macron candidly criticized Trump's policies. ([CNN](https://www.cnn.com/2018/06/04/politics/donald-trump-emmanuel-macron-call-terrible/index.html))
+
+2. **The White House is "very concerned" about Trump's base showing up for the midterm elections in November**, according to Rick Santorum. ([Washington Examiner](https://www.washingtonexaminer.com/news/rick-santorum-white-house-very-concerned-about-trumps-base-ahead-of-midterms))
+
+3. **The Koch brothers unveiled a multiyear, multimillion-dollar campaign to oppose Trump's tariffs** on imported steel and aluminum. ([CNBC](https://www.cnbc.com/2018/06/04/koch-network-plans-to-spend-millions-to-fight-trumps-tariffs.html))
+
+4. **Scott Pruitt tasked an EPA aide with finding a discount on a used "Trump Home Luxury Plush Euro Pillow Top" mattress for personal use** from the Trump International Hotel in Washington. ([Washington Post](https://www.washingtonpost.com/national/health-science/pruitt-had-aide-do-numerous-personal-tasks-including-a-hunt-for-a-used-trump-hotel-mattress/2018/06/04/a1f72c84-6043-11e8-b2b8-08a538d9dbd6_story.html) / [New York Times](https://www.nytimes.com/2018/06/04/climate/pruitt-epa-apartment-aide.html))
+
+5. **The Pentagon's inspector general is investigating Ronny Jackson**, Trump's one-time personal White House physician whose nomination as Veterans Affairs secretary was withdrawn amid allegations of misconduct and poor administration of the White House medical office. ([CNN](https://www.cnn.com/2018/06/04/politics/pentagon-investigation-ronny-jackson/index.html) / [CBS News](https://www.cbsnews.com/news/ronny-jackson-is-being-investigated-by-defense-department-inspector-general/))
+
+6. **The Supreme Court ruled in favor of the Colorado baker who refused to create a wedding cake for a gay couple based on his Christian beliefs**. The justices, in a 7-2 decision, said the Colorado Civil Rights Commission showed hostility toward religion when it found that baker Jack Phillips violated the state's anti-discrimination law. The state law bars businesses from refusing service based on race, sex, marital status or sexual orientation. ([Reuters](https://www.reuters.com/article/us-usa-court-baker/supreme-court-hands-narrow-win-to-baker-over-gay-couple-dispute-idUSKCN1J01WU))
+
+7. **Melania Trump will skip the G7 summit in Quebec and does not plan to attend the planned June 12 summit in Singapore with North Korea**. Melania has not been seen in public since May 10. ([Reuters](https://www.reuters.com/article/us-usa-firstlady/u-s-first-lady-melania-trump-to-skip-g7-north-korea-summit-idUSKCN1J001Z) / [ABC News](https://abcnews.go.com/Politics/lady-melania-trump-join-president-trump-g7-singapore/story?id=55622011))
+
+8. **Trump to Kim Kardashian: You and Kanye West are boosting my popularity with African-Americans**. Trump's approval among African-Americans is up from 12% in April to 18% in May. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-06-04/trump-told-kardashian-she-and-west-helping-him-with-black-voters))

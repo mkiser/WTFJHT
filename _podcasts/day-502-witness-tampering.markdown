@@ -1,6 +1,6 @@
 ---
 title: 'Day 502: Witness tampering.'
-date: 2018-06-05 15:46:00 -07:00
+date: 2018-06-05 15:15:00 -07:00
 file: "/uploads/Day-502.mp3"
 post: Day 502
 duration: '00:07:03'

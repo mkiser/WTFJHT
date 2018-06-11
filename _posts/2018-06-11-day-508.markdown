@@ -31,7 +31,7 @@ image: "/uploads/508.jpg"
 
 * **Putin: Criticism of Russia's "so-called destabilizing efforts" in the West is "unfounded,"** and that "this creative babbling" by world leaders has so far "led to nothing." Putin said he'd welcome a meeting with Trump. ([Politico](https://www.politico.eu/article/vladimir-putin-says-g7-criticism-is-babbling-happy-to-hold-talks-with-donald-trump-us/))
 
-4/ **Trump will leave the North Korea summit a day early because nuclear negotiations have moved "more quickly than expected."** The White House said Trump and Kim Jong Un will hold a one-on-one meeting, accompanied only by translators, followed by a "working lunch" with an expanded group of officials. Secretary of State Mike Pompeo lowered expectations, saying the summit might might yield little in the way of concrete success. ([Associated Press](https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump-to-leave-summit-early-_-after-meeting-with-Kim) / [Politico](https://www.politico.com/story/2018/06/11/trump-kim-jong-un-meeting-635363))
+4/ **Trump will leave the North Korea summit a day early because nuclear negotiations have moved "more quickly than expected."** The White House said Trump and Kim Jong Un will hold a one-on-one meeting, accompanied only by translators, followed by a "working lunch" with an expanded group of officials. Secretary of State Mike Pompeo lowered expectations, saying the summit might yield little in the way of concrete success. ([Associated Press](https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump-to-leave-summit-early-_-after-meeting-with-Kim) / [Politico](https://www.politico.com/story/2018/06/11/trump-kim-jong-un-meeting-635363))
 
 * **Trump is willing to consider establishing official relations with North Korea and eventually opening an embassy in Pyongyang**. "It would all depend what he gets in return," said a source close to the White House. "Denuclearization would have to be happening." ([Axios](https://www.axios.com/scoop-trump-open-to-us-embassy-in-pyongyang-north-korea-dff4cd58-5745-4fb0-bd2c-05c5e376d982.html))
 
@@ -39,11 +39,11 @@ image: "/uploads/508.jpg"
 
 poll/ **26% of voters think Trump will demand too much to secure a deal with North Korea**. 31% believe Trump will secure a deal that is either fair or better for the U.S. ([NBC News](https://www.nbcnews.com/politics/first-read/nbc-news-wsj-poll-voters-unsure-what-expect-north-korea-n881446))
 
----
+--- 
 
-## ✏️ Notables.
+## ✏️ Notables. 
 
-1. **The millionaire businessman who bankrolled the Bexit campaign "met Russian officials multiple times before Brexit vote."** Arron Banks gave about $16 million to the campaign, becoming the biggest donor in UK history. ([The Guardian](https://www.theguardian.com/politics/2018/jun/09/arron-banks-russia-brexit-meeting))
+1. **The millionaire businessman who bankrolled the Brexit campaign "met Russian officials multiple times before Brexit vote."** Arron Banks gave about $16 million to the campaign, becoming the biggest donor in UK history. ([The Guardian](https://www.theguardian.com/politics/2018/jun/09/arron-banks-russia-brexit-meeting))
 
 2. **Several prominent Russians met with NRA officials during the 2016 U.S. election campaign**, including some in Putin's inner circle. The contacts have emerged as the Justice Department investigates whether Russian banker and lifetime NRA member Alexander Torshin illegally channeled money through the gun rights group to help Trump's 2016 presidential bid. ([McClatchy DC](http://www.mcclatchydc.com/latest-news/article212756749.html))
 
@@ -75,4 +75,4 @@ poll/ **26% of voters think Trump will demand too much to secure a deal with Nor
 
 {% onebox https://www.washingtonpost.com/news/politics/wp/2018/06/10/mothers-could-not-stop-crying-officials-blast-trump-policy-after-visiting-detained-immigrants/ %}
 
-💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*
+💬* What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

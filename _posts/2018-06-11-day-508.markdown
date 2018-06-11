@@ -39,9 +39,9 @@ image: "/uploads/508.jpg"
 
 poll/ **26% of voters think Trump will demand too much to secure a deal with North Korea**. 31% believe Trump will secure a deal that is either fair or better for the U.S. ([NBC News](https://www.nbcnews.com/politics/first-read/nbc-news-wsj-poll-voters-unsure-what-expect-north-korea-n881446))
 
---- 
+---
 
-## ✏️ Notables. 
+## ✏️ Notables.
 
 1. **The millionaire businessman who bankrolled the Bexit campaign "met Russian officials multiple times before Brexit vote."** Arron Banks gave about $16 million to the campaign, becoming the biggest donor in UK history. ([The Guardian](https://www.theguardian.com/politics/2018/jun/09/arron-banks-russia-brexit-meeting))
 
@@ -75,4 +75,4 @@ poll/ **26% of voters think Trump will demand too much to secure a deal with Nor
 
 {% onebox https://www.washingtonpost.com/news/politics/wp/2018/06/10/mothers-could-not-stop-crying-officials-blast-trump-policy-after-visiting-detained-immigrants/ %}
 
-💬* What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*
+💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

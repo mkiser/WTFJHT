@@ -37,11 +37,14 @@ layout:
           <body>
             <article>
               <header>
-                <img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}"/>
+                <figure>
+                  <img src="{ site.url }}{{ site.baseurl }}{{ post.image }}" />
+                  <figcaption>{{ post.title | xml_escape }}: {{ post.description }}</figcaption>
+                </figure>
               </header>
               {{ post.content }}
+              <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>
               <footer>
-                <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>
                 <figure class="op-tracker">
                     <iframe>
                       <script>

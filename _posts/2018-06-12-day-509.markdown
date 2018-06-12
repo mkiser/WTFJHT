@@ -3,6 +3,12 @@ title: Day 509
 date: 2018-06-12 09:29:00 -07:00
 description: A very special bond.
 image: "/uploads/509.jpg"
+todayInOneSentence: The Justice Department argued that Trump could continue to profit
+  from foreign governments visiting his hotel in Washington, D.C.;  Michael Cohen
+  believes he will soon be indicted and arrested; Jared Kushner and Ivanka Trump earned
+  at least $82 million in outside income while serving as Trump's advisers during
+  2017; and Trump believes Kim Jong Un will give up his nuclear weapons because they
+  have a "terrific relationship."
 ---
 
 1/ **The Justice Department argued that Trump could continue to profit from foreign governments visiting his hotel in Washington, D.C.,** if he didn't explicitly provide something in return. A federal judge criticized the argument that Trump's financial interest in the Trump International Hotel in D.C. is constitutional. The lawsuit, brought by the District of Columbia and the state of Maryland, claims that Trump's profits from the hotel violate the Emoluments Clause, which prohibits government employees from receiving financial benefits outside of their official salary. The judge promised to decide by the end of the July whether to allow the case to proceed to the next stage. ([New York Times](https://www.nytimes.com/2018/06/11/us/politics/emoluments-lawsuit-trump-hotel.html) / [BuzzFeed News](https://www.buzzfeed.com/zoetillman/justice-department-emolument-clause-argument) / [CNN](https://www.cnn.com/2018/06/11/politics/trump-emoluments-hearing/index.html))
@@ -19,7 +25,7 @@ image: "/uploads/509.jpg"
 
 6/ **The Senate blocked Trump's deal with Chinese telecom giant ZTE.** The Senate's move comes less than a week after Trump struck a deal with ZTE that would keep the company in business with U.S. companies and markets[^2]. The ZTE deal would have forced the company to pay $1 billion in penalties, reorganize itself, and insert U.S. compliance officers into the company in exchange for access to U.S. consumers. ZTE is considered by the U.S. intelligence community to be a mechanism for espionage by selling phones that can be tracked and enabled to steal intellectual property. ([NBC News](https://www.nbcnews.com/politics/congress/senate-blocks-zte-deal-rebuke-trump-deal-n882196))
 
-7/ **Trumps said Justin Trudeau's comment that Canada "will not be pushed around" will end up costing Canadians "a lot of money."** Trump added that Trudeau "probably didn't know that Air Force One has about 20 televisions," in reference to Trudeau's comment after the G7 meeting that the aluminum and steel tariffs imposed by the U.S. on Canada on national security grounds were insulting. ([CNBC](https://www.cnbc.com/2018/06/12/trump-says-trudeaus-comments-are-going-to-cost-canada-a-lot-of-money.html) / [Globe and Mail](https://www.theglobeandmail.com/world/article-trump-says-trudeau-has-learned-from-mistake-of-criticizing-him-and/))
+7/ **Trumps said Justin Trudeau's comment that Canada "will not be pushed around" will end up costing Canadians "a lot of money."** Trump added that Trudeau "probably didn't know that Air Force One has about 20 televisions," in reference to Trudeau's comment after the G7 meeting that the aluminum and steel tariffs imposed by the U.S. on Canada on national security grounds were insulting. Trump added the Trudeau "learned" his lesson for criticizing him. ([CNBC](https://www.cnbc.com/2018/06/12/trump-says-trudeaus-comments-are-going-to-cost-canada-a-lot-of-money.html) / [Globe and Mail](https://www.theglobeandmail.com/world/article-trump-says-trudeau-has-learned-from-mistake-of-criticizing-him-and/))
 
 * **White House trade adviser Peter Navarro apologized for his "special place in hell" comments** directed at Canadian prime minister Justin Trudeau. ([Reuters](https://www.reuters.com/article/us-g7-summit-navarro/white-houses-navarro-apologizes-for-special-place-in-hell-comment-idUSKBN1J8205?))
 

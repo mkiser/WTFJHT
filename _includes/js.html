@@ -8,6 +8,8 @@
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/jquery.scrolldepth.min.js"></script>
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/riveted.min.js"></script>
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js"></script>
+  <script src="{{ site.url }}{{ site.baseurl }}/public/js/bigfoot/bigfoot.js"></script>
+
   <!--<script src="{{ site.url }}{{ site.baseurl }}/public/js/marquee3k.js"></script>-->
   <script>riveted.init();</script>
   {% include_cached chat.html %}
@@ -28,6 +30,11 @@
 
   {% include_cached scrolldepth.html %}
   {% include clickEvent.html %}
+
+
+  <script type="text/javascript">
+    $.bigfoot();
+  </script>
   <!--<script>
   Marquee3k.init({
     selector: 'marquee3k__copy', // define a custom classname

@@ -38,7 +38,7 @@ layout:
             <article>
               <header>
                 <figure>
-                  <img src="{ site.url }}{{ site.baseurl }}{{ post.image }}" />
+                  <img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}" />
                   <figcaption>{{ post.title | xml_escape }}: {{ post.description }}</figcaption>
                 </figure>
               </header>

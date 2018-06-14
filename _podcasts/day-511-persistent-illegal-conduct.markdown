@@ -7,7 +7,7 @@ duration: '00:03:47'
 length: 4521356
 ---
 
-**Thursday, June 14, 2018**
+**Thursday, June 14, 2018 **
 
 **Subscribe:** [Get the Daily Update in your inbox for free.](https://whatthefuckjusthappenedtoday.com/subscribe/)
 

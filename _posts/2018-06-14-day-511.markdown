@@ -1,0 +1,32 @@
+---
+title: Day 511
+date: 2018-06-14 10:26:00 -07:00
+description: Persistent illegal conduct.
+image: "/uploads/511.jpg"
+---
+
+1/ **New York State attorney general sued Trump and his three eldest children for "persistent illegal conduct" at the Donald J. Trump Foundation**. The lawsuit alleges that Trump repeatedly misused the nonprofit, violating campaign finance laws, engaging in self-dealing to decorate one of his golf clubs, and illegal coordination with his presidential campaign to stage a multimillion dollar giveaway during a 2016 campaign event. The state asked to dissolve the foundation and distribute its remaining $1 million in assets to other charities, and force Trump to pay at least $2.8 million in restitution and penalties. Trump attacked the lawsuit on Twitter, calling it an attempt by the "sleazy New York Democrats" to damage him. He vowed not to settle the case. ([New York Times](https://www.nytimes.com/2018/06/14/nyregion/trump-foundation-lawsuit-attorney-general.html) / [Washington Post](https://www.washingtonpost.com/politics/new-york-files-suit-against-president-trump-alleging-his-charity-engaged-in-illegal-conduct/2018/06/14/c3cbf71e-6fc9-11e8-bd50-b80389a4e569_story.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1007278788009480192 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1007278825661784064 %}
+
+2/ **The Inspector General Report: James Comey "deviated" from FBI and Justice Department procedures while investigating Hillary Clinton** and her use of a private email server. The report concluded that Comey's decisions were not "the result of political bias," but that his "decisions negatively impacted the perception of the FBI and the department as fair administrators of justice." Trump has argued that FBI agents tried to rig the Clinton investigation to help her win the presidency. The report also concludes that the text messages exchanged by FBI officials Peter Strzok and Lisa Page did not improperly affect the investigation, but "the conduct by these employees cast a cloud over the entire FBI investigation." ([Bloomberg](https://www.bloomberg.com/news/articles/2018-06-14/comey-broke-from-fbi-procedures-in-clinton-probe-watchdog-finds) / [New York Times](https://www.nytimes.com/2018/06/14/us/politics/fbi-inspector-general-comey-trump-clinton-report.html))
+
+3/ **Sarah Huckabee Sanders and deputy press secretary Raj Shah are planning to leave the White House**. Sanders plans to leave by the end of the year, while Shah hasn't settled on an exact date. Sanders denied the rumor, tweeting: "Does @CBSNews know something I don't about my plans and my future? I was at my daughter's year-end Kindergarten event and they ran a story about my 'plans to leave the WH' without even talking to me. I love my job and am honored to work for @POTUS." ([CBS News](https://www.cbsnews.com/news/sarah-sanders-raj-shah-planning-to-depart-the-white-house/))
+
+4/ **White House Counsel Don McGahn recused his entire staff from Robert Mueller's investigation last summer because many staffers "had been significant participants" in the firings of Michael Flynn and James Comey.** Former White House lawyer Ty Cobb said McGahn's recusal was a key reason why he was hired last summer to manage Trump's response to the Russia investigation. ([Politico](https://www.politico.com/story/2018/06/13/mcgahn-mueller-russia-probe-recusal-white-house-counsel-643709))
+
+5/ **The White House launched a campaign to discredit Michael Cohen as speculation that he is preparing to flip on Trump continues to mount.** The plan involves discrediting Cohen by arguing that whatever compromising information he shares with prosecutors about Trump is a lie meant to please Mueller in order to save his own skin. The plan includes everything from Trump's tweets, to comments from Alan Dershowitz, to front-page stories in the National Enquirer, all apparently intended to cast doubt on Cohen's credibility and motives. ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/06/14/trumps-campaign-to-discredit-michael-cohen-is-already-underway/?utm_term=.08f1b0d10f6f))
+
+---
+
+## Notables.
+
+1. **John Kelly revoked Rudy Giuliani's son's West Wing access** after Trump ordered Andrew Giuliani be promoted to special assistant to the president. ([Axios](https://www.axios.com/andrew-rudy-giuliani-son-loses-west-wing-access-63f0ef76-6170-4fdf-b8a6-558ed4bcb8c2.html))
+
+2. **Trump told G7 leaders that Crimea is Russian because everyone who lives there speaks Russian**. In 2014, Russia invaded and annexed Crimea from Ukraine, leading to international condemnation, sanctions, and directly leading to Russia being kicked out of the then-G8. ([BuzzFeed News](https://www.buzzfeed.com/albertonardelli/trump-russia-crimea))
+
+3. **Mike Pompeo said sanctions on North Korea will remain until the country has completely denuclearized**. The statement contradicts North Korean state media reports that Kim and Trump agreed to a plan of "step-by-step and simultaneous action" to achieve peace and denuclearization on the Korean peninsula. ([Reuters](https://www.reuters.com/article/us-northkorea-usa/south-koreas-moon-meets-pompeo-says-world-has-escaped-nuclear-weapons-threat-idUSKBN1JA07O))
+
+4. **The Supreme Court struck down Minnesota's law barring voters from wearing political apparel inside a polling place**. The court's 7-2 vote said Minnesota's use of the term "political" badges, buttons and insignia was too broad. ([NPR](https://www.npr.org/2018/06/14/606396157/supreme-court-strikes-down-state-law-barring-political-apparel-in-polling-places))

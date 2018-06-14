@@ -1,6 +1,6 @@
 ---
 title: 'Day 511: Persistent illegal conduct.'
-date: 2018-06-14 11:27:00 -07:00
+date: 2018-06-14 11:00:00 -07:00
 file: "/uploads/Day-511.mp3"
 post: Day 511
 duration: '00:03:47'

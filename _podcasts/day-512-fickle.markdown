@@ -11,7 +11,7 @@ length: 6444027
 
 **Subscribe:** [Get the Daily Update in your inbox for free.](https://whatthefuckjusthappenedtoday.com/subscribe/)
 
-1/ A federal judge revoked Paul Manafort's bail and sent him to jail while he awaits trial.
+1/ A federal judge revoked Paul Manafort's bail and sent him to jail while he awaits trial. 
 
 2/ Michael Cohen filed a restraining order against Michael Avenatti to stop him from speaking to the media about the Stormy Daniels case.
 

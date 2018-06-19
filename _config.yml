@@ -223,7 +223,6 @@ jekyll-archives:
     year: "/archive/:year/"
     month: "/archive/:year/:month/"
 plugins:
-# - jekyll-gist
 - jekyll-redirect-from
 - github-pages
 - jekyll-paginate
@@ -231,7 +230,6 @@ plugins:
 - jekyll-sitemap
 - jekyll-extlinks
 - jekyll-archives
-# - algoliasearch
 - jekyll-include-cache
 - jekyll-onebox
 onebox:

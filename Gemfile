@@ -10,6 +10,6 @@ gem 'jekyll-include-cache'
 gem 'jekyll-onebox'
 
 group :jekyll_plugins do
-  gem 'algoliasearch-jekyll'
+  # gem 'algoliasearch-jekyll'
   gem 'jekyll_pages_api'
 end

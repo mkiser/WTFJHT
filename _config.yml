@@ -222,8 +222,8 @@ jekyll-archives:
   permalinks:
     year: "/archive/:year/"
     month: "/archive/:year/:month/"
-gems:
-- jekyll-gist
+plugins:
+# - jekyll-gist
 - jekyll-redirect-from
 - github-pages
 - jekyll-paginate
@@ -231,7 +231,7 @@ gems:
 - jekyll-sitemap
 - jekyll-extlinks
 - jekyll-archives
-- algoliasearch
+# - algoliasearch
 - jekyll-include-cache
 - jekyll-onebox
 onebox:

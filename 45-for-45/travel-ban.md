@@ -102,7 +102,7 @@ redirect_to: "/trump-travel-ban/"
 
 <h2 class="dateline">February 16, 2017</h2>
 
-26/ **Trump promises new immigration order as DOJ holds off appeals court**. Trump said his administration will issue “a new and very comprehensive order to protect our people” next week. The Justice Department wrote at length in a 47-page about the “seriously flawed” Ninth Circuit ruling from last week, but neverthless said: “(r){:target="_blank"})ather than continuing this litigation, the President intends in the near future to rescind the order and replace it with a new, substantially revised executive order to eliminate what the panel erroneously thought were constitutional concerns.” ([CNN](http://www.cnn.com/2017/02/16/politics/donald-trump-travel-ban-executive-order/index.html){:target="_blank"})
+26/ **Trump promises new immigration order as DOJ holds off appeals court**. Trump said his administration will issue “a new and very comprehensive order to protect our people” next week. The Justice Department wrote at length in a 47-page about the “seriously flawed” Ninth Circuit ruling from last week, but nevertheless said: “(r){:target="_blank"})ather than continuing this litigation, the President intends in the near future to rescind the order and replace it with a new, substantially revised executive order to eliminate what the panel erroneously thought were constitutional concerns.” ([CNN](http://www.cnn.com/2017/02/16/politics/donald-trump-travel-ban-executive-order/index.html){:target="_blank"})
 
 <h2 class="dateline">February 18, 2017</h2>
 

@@ -312,7 +312,7 @@ redirect_from: "/health-care/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/09/20/day-244/">September 20, 2017</a></small></div>
-<p><strong>The Senate will likely begin voting on the latest bill to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> next Wednesday</strong>. The Graham-Cassidy plan has received pushback from a variety of legislators, as well as from a bipartisan group of 10 governors. Lamar Alexander and Patty Murray continue to negotiate for a bipartisan approach to health care reform. (<a href="https://www.axios.com/senate-looks-to-start-voting-on-gop-health-plan-next-wednesday-2487208910.html">Axios</a> / <a href="https://www.washingtonpost.com/powerpost/renewed-obamacare-repeal-effort-dealt-a-blow-as-governors-come-out-in-opposition/2017/09/19/499478fe-9d51-11e7-9083-fbfddf6804c2_story.html">Washinton Post</a>)</p>
+<p><strong>The Senate will likely begin voting on the latest bill to repeal the <a href="https://whatthefuckjusthappenedtoday.com/trump-health-care/">Affordable Care Act</a> next Wednesday</strong>. The Graham-Cassidy plan has received pushback from a variety of legislators, as well as from a bipartisan group of 10 governors. Lamar Alexander and Patty Murray continue to negotiate for a bipartisan approach to health care reform. (<a href="https://www.axios.com/senate-looks-to-start-voting-on-gop-health-plan-next-wednesday-2487208910.html">Axios</a> / <a href="https://www.washingtonpost.com/powerpost/renewed-obamacare-repeal-effort-dealt-a-blow-as-governors-come-out-in-opposition/2017/09/19/499478fe-9d51-11e7-9083-fbfddf6804c2_story.html">Washington Post</a>)</p>
 
 
 

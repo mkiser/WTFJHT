@@ -39,4 +39,4 @@ image: "/uploads/517.jpg"
 
 {% onebox http://www.businessinsider.com/ny-mass-colorado-pull-national-guard-troops-over-family-separation-2018-6 %}
 
-What stories are you noticing? Let me know using hte chat icon in the lower right-hand corner. 
+What stories are you noticing? Let me know using the chat icon in the lower right-hand corner. 

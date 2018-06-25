@@ -145,20 +145,21 @@ algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT
   read_only_api_key: 50fe80eaf3c61b236fe7408e8be4bc30
-  nodes_to_index: 'p,li,blockquote'
-  extensions_to_index: 'html,md'
+  nodes_to_index: 'p'
+  extensions_to_index: 'html,md,markdown'
   files_to_exclude:
   - 404.html
   - about.md
   - all.html
   - archive.md
+  - archive.html
   - archives
   - atom.xml
   - faq.md
   - index.html
   - instant-feed.xml
   - instantfeed.xml
-  - membership.md
+  - membership.html
   - press.md
   - rss.xml
   - styles.css
@@ -185,20 +186,27 @@ algolia:
   - first-100-days.html
   - faq
   - license
-  - 45-for-45
-  - meta
-  - do-something
-  - podcasts
-  - author
-  - topics
-  - topic
-  - notes
-  - page
+  - pee-tape.html
+  - quiz.html
+  - do-something/*
+  - meta/*
+  - 45-for-45/*
+  - _authors/*
+  - _podcasts/*
+  - podcasts/index.html
+  - guide/*
+  - _topics/*
+  - _notes/*
+  - _topics/*.markdown
+  - page/*/**.html
   settings:
     searchableAttributes:
     - unordered(content)
     - date
     - title
+    customRanking:
+    - desc(custom_ranking.heading)
+    - asc(custom_ranking.position)
     distinct: false
 extlinks:
   attributes:

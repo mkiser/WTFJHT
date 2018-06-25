@@ -39,7 +39,7 @@
   background-color:#D3E8F6;
   background-color: rgba(38,139,210,0.2);
 }
-.algolia__result-text .algolia__result-highlight {
+.algolia__result-text .ais-Highlight {
   font-weight:bold;
 }
 

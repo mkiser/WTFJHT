@@ -145,8 +145,8 @@ algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT
   read_only_api_key: 50fe80eaf3c61b236fe7408e8be4bc30
-  nodes_to_index: 'p'
-  extensions_to_index: 'html,md,markdown'
+  nodes_to_index: p
+  extensions_to_index: html,md,markdown
   files_to_exclude:
   - 404.html
   - about.md
@@ -233,7 +233,6 @@ jekyll-archives:
     month: "/archive/:year/:month/"
 plugins:
 - jekyll-redirect-from
-# - github-pages
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap

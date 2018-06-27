@@ -1,4 +1,11 @@
 # So You Want To Contribute To WTF Just Happened Today?
+I'd love your help and input. This guide is to help you help me make contributing to WTF Just Happened Today as easy as possible, whether it's:
+
+- Contributing a copyedit
+- Reporting a bug
+- Championing WTFJHT
+- Submitting a fix
+- Proposing new features
 
 ## How Can I Contribute?
 
@@ -23,6 +30,10 @@ The Brigade is the WTF community committed to helping others contend with the da
 #### Current Issues
 
 #### Future Goals
+
+#### Proposing New Features
+
+#### Submitting A Fix
 
 ### Contribute To The WTFJHT Community Forum
 

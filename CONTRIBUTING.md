@@ -37,3 +37,10 @@ The Brigade is the WTF community committed to helping others contend with the da
 
 ### Contribute To The WTFJHT Community Forum
 
+#### Maintain A Thread
+
+- Community Calendar
+- 2018 Midterms 
+- Who Has Left The Trump Administration
+- List Of Lawsuits Against Trump
+

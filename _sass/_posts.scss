@@ -67,7 +67,7 @@ article.post div.post-content > p {
   ul.rrssb-buttons {
     border: none;
     padding: 0;
-    margin: 1.5em 0em 0em 0em;
+    margin: 1.5em 0em 1.5em 0em;
     background-color: transparent;
   
     li + li {
@@ -252,4 +252,5 @@ div.topic-date {
 
 #discourse-comments {
   max-width: 100% !important;
+  margin-top: 2.15em;
 }

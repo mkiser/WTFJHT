@@ -8,8 +8,7 @@ seo:
   name: Trump News Today - What The Fuck Just Happened Today?
 ---
 
-<!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}
 
 <div class="posts">
   {% assign now = site.time | date: '%Y-%m-%d' %}
@@ -22,39 +21,51 @@ seo:
     {% include note.html %}
   {% endif %}
 
-  {% for post in paginator.posts %}
+  {% for page in paginator.posts %}
   <article class="post">
     <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}:
-      <span class="post-small">{{ post.description }}</span></a>
+      <a href="{{ site.baseurl }}{{ page.url }}">
+        {{ page.title }}:
+      <span class="post-small">{{ page.description }}</span></a>
     </h2>
 
-    {% assign author = site.authors | where: 'title', post.author | first %}
+    {% assign author = site.authors | where: 'title', page.author | first %}
     {% if author %}
       <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
     {% endif %}
 
     <div class="post-date">
-      <time datetime="{% if post.last_modified %}{{ post.last_modified | date_to_xmlschema }}{% endif %}">
-        {{ post.date | date: "%-m/%-d/%Y" }} 
+      <time datetime="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% endif %}">
+        {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
       </time>
       <div>
         <small>
-          <em>Updated {{ post.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
+          <em>Updated {{ page.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
         </small>
       </div>
       <div>
      
         <small>
-        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ post.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ post.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
-        {% if post.contributors == "1" %}{{ post.contributors }} Contributor{% else %}{{ post.contributors }} Contributors{% endif %}
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
+        {% if page.contributors == "1" %}{{ page.contributors }} Contributor{% else %}{{ page.contributors }} Contributors{% endif %}
       </small>
       </div>
     </div>
+
+    {% assign ep = site.podcasts | where: 'post', page.title | first %}
+    {% if ep %}
+      {% include pod.html %}
+      <small class="post-date pod-subscribe" style="margin-top: -2em; color: #9a9a9a;">
+        Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/I5fj7gzxpepkfvuzymxavcvok5y?t%3DWTF_Just_Happened_Today%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">Google Play Music</a>, <a href="https://www.stitcher.com/s?fid=132466&refid=stpr">Stitcher</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
+      </small>
+    {% endif %}
+
     <div class="post-content">
-      {{ post.content }}
+      {{ page.content }}
     </div>
+    {% include_cached email.html %}
+
+    {% include social.html %}
   </article>
   {% endfor %} 
 </div> 

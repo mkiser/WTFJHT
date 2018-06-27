@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<!-- MailChimp -->
 {% include_cached email.html %}
 <article class="post">
   <h1 class="post-title">
@@ -46,15 +45,12 @@ layout: default
     {{ content | extlinks }}
     <span id="todaylastyear"></span>
   </div>
-  <div>
-    <small><strong>Subscribe:</strong> <a href="{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a> 
-    </small>
-  </div> 
+  {% include_cached email.html %}
 
- <!-- Pledge Drive -->
+  {% include social.html %}
+
   {% include_cached pledge.html %}
 
-  {% include_cached social.html %}
   <div class="pagination"> 
     <div class="next-prev">
       {% if page.previous.url %}

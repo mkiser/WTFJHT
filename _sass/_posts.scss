@@ -64,6 +64,17 @@ article.post div.post-content > p {
     margin-top: 1.25em;
   }
 
+  ul.rrssb-buttons {
+    border: none;
+    padding: 0;
+    margin: 1.5em 0em 0em 0em;
+    background-color: transparent;
+  
+    li + li {
+      margin-top: 0;
+    }
+  }
+
   p + p {
     margin-top: 2em;
   }

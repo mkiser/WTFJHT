@@ -15,7 +15,7 @@ I'd love your help and input. This guide is to help you help me make contributin
 
 #### How To Submit A Copyedit
 
-### Champion WTF Just Happened Today
+### Share WTF Just Happened Today
 
 #### Where To Share
 
@@ -29,13 +29,19 @@ The Brigade is the WTF community committed to helping others contend with the da
 
 #### Current Issues
 
+- [ ] Search
+- [ ] Schema / SEO
+- [ ] CSS/Design Improvements
+- [ ] API
+- [ ] Static archive of every underlying article
+
 #### Future Goals
 
 #### Proposing New Features
 
 #### Submitting A Fix
 
-### Contribute To The WTFJHT Community Forum
+### Contribute Content
 
 #### Maintain A Thread
 
@@ -43,4 +49,8 @@ The Brigade is the WTF community committed to helping others contend with the da
 - 2018 Midterms 
 - Who Has Left The Trump Administration
 - List Of Lawsuits Against Trump
+
+#### Write Blurbs
+
+### Become A Sustaining Member
 

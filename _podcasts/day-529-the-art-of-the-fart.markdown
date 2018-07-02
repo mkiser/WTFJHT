@@ -1,5 +1,5 @@
 ---
-title: 'Day 529: The Art of the FART.'
+title: 'Day 529: Art of the FART.'
 date: 2018-07-02 14:43:00 -07:00
 file: "/uploads/Day-529.mp3"
 post: Day 529

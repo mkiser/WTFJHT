@@ -3,6 +3,13 @@ title: Day 530
 date: 2018-07-03 10:29:00 -07:00
 description: Shredded.
 image: "/uploads/530.jpg"
+todayInOneSentence: The Trump administration will rescind Obama-era guidelines that
+  encourage college admissions to consider race as a factor in order to diversify
+  their student bodies; Leaked copies of Michael Cohen's shredded documents were reconstructed
+  by the FBI and appear to confirm Cohen's $62,500 payment to a former Playboy model;
+  Scott Pruitt and his aides kept "secret" calendars to hide controversial meetings
+  with industry representatives; and ICE agents are forcing parents to choose between
+  leaving the country with their children — or leaving the country without them.
 ---
 
 1/ **The Trump administration will rescind Obama-era guidelines that encourage college admissions to consider race as a factor in order to diversify their student bodies**. Trump administration officials contend the current policies "mislead schools to believe that legal forms of affirmative action are simpler to achieve than the law allows." The reversal would restore George W. Bush's policy that "strongly encourages the use of race-neutral methods" for student admissions. Jeff Sessions said Justice Department prosecutors will investigate and sue universities over discriminatory admissions policies. Schools that don't follow the new policy could also lose federal funding. ([Wall Street Journal](https://www.wsj.com/articles/trump-administration-to-rescind-obama-era-guidelines-on-race-in-college-admissions-1530619273) / [New York Times](https://www.nytimes.com/2018/07/03/us/politics/trump-affirmative-action-race-schools.html) / [Reuters](https://www.reuters.com/article/us-usa-education-race/trump-to-rescind-race-guidelines-in-college-admissions-wsj-idUSKBN1JT1HO))
@@ -15,7 +22,7 @@ image: "/uploads/530.jpg"
 
 4/ **Two of Pruitt's top aides told congressional investigators that he leveraged his position for personal benefit and ignored warnings about potential ethical issues**. The staffers testified to the House Oversight and Government Reform Committee last week, sharing details about Pruitt's spending and management decisions, his efforts to secure a six-figure job for his wife at a conservative political group, enlisting aides to perform personal tasks, and seeking high-end travel despite objections and warnings from staffers. ([Washington Post](https://www.washingtonpost.com/national/health-science/pruitt-aides-reveal-new-details-of-his-spending-and-management-at-epa/2018/07/02/71b87384-7aec-11e8-80be-6d32e182a3bc_story.html?utm_term=.170abe6c9b29))
 
-5/ **The Trump administration instructed ICE agents to make parents choose between leaving the country with their children — or leaving the country without them**. The new instructions to agents don't allow parents separated under Trump's "zero tolerance" policy to reunite with their children while they await a decision on asylum – effectively preventing them from making an asylum claim. ([NBC News](https://www.nbcnews.com/politics/immigration/new-trump-admin-order-separated-parents-leave-u-s-kids-n888631))
+5/ **ICE agents are forcing parents to choose between leaving the country with their children — or leaving the country without them**. The new instructions from the Trump administration to agents don't allow parents separated under the "zero tolerance" policy to reunite with their children while they await a decision on asylum – effectively preventing them from making an asylum claim. ([NBC News](https://www.nbcnews.com/politics/immigration/new-trump-admin-order-separated-parents-leave-u-s-kids-n888631))
 
 6/ **A federal judge ordered the U.S. government to stop the blanket arrests of asylum seekers** and immediately release or grant hearings to more than 1,000 asylum seekers who have been jailed without individualized case reviews. ([Washington Post](https://www.washingtonpost.com/local/public-safety/us-judge-blocks-trump-crackdown-on-asylum-seekers-bars-blanket-detentions-of-those-with-persecution-claims/2018/07/02/cdc707ba-7e36-11e8-b660-4d0f9f0351f1_story.html))
 

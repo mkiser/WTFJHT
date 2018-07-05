@@ -9,3 +9,9 @@ is_breaking_news: true
 {% twitter https://twitter.com/realDonaldTrump/status/1014956568129892352 %}
 
 {% twitter https://twitter.com/realDonaldTrump/status/1014956573095915520 %}
+
+### WTF Discussion:
+
+1. [Scott Pruitt - in or out? ](https://talk.whatthefuckjusthappenedtoday.com/t/pruitt-in-or-out/3161)
+
+2. [Who The Fuck Has Left The Trump Administration](https://talk.whatthefuckjusthappenedtoday.com/t/who-the-fuck-has-left-the-trump-administration/908) 

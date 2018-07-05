@@ -3,6 +3,10 @@ title: Day 532
 date: 2018-07-05 11:13:00 -07:00
 description: '"My staff told me not to say this."'
 image: "/uploads/532.jpg"
+todayInOneSentence: Scott Pruitt resigned from the EPA; Charles Schumer urged Trump
+  to nominate Judge Merrick Garland to replace Justice Anthony Kennedy; Trump asked
+  his advisers last August why the U.S. couldn't invade Venezuela; and Trump hired
+  former Fox News executive Bill Shine to lead his communications team.
 ---
 
 1/ **Scott Pruitt resigned from the EPA** following months of controversies regarding his spending, ethics and management at the agency. Andrew Wheeler will take over as acting administrator. ([New York Times](https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-trump.html) / [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2018/07/05/embattled-epa-chief-scott-pruitt-resigns/) / [The Hill](http://thehill.com/policy/energy-environment/395667-embattled-epa-head-pruitt-resigns))

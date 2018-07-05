@@ -9,13 +9,15 @@ todayInOneSentence: Scott Pruitt resigned from the EPA; Charles Schumer urged Tr
   former Fox News executive Bill Shine to lead his communications team.
 ---
 
-1/ **Scott Pruitt resigned from the EPA** following months of controversies regarding his spending, ethics and management at the agency. Andrew Wheeler will take over as acting administrator. ([New York Times](https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-trump.html) / [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2018/07/05/embattled-epa-chief-scott-pruitt-resigns/) / [The Hill](http://thehill.com/policy/energy-environment/395667-embattled-epa-head-pruitt-resigns))
+1/ **Scott Pruitt resigned from the EPA** following months of controversies regarding his spending, ethics and management at the agency. Andrew Wheeler will take over as acting administrator. In his resignation letter, Pruitt blamed "unrelenting attacks" on himself and his family. ([New York Times](https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-trump.html) / [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2018/07/05/embattled-epa-chief-scott-pruitt-resigns/) / [The Hill](http://thehill.com/policy/energy-environment/395667-embattled-epa-head-pruitt-resigns) / [Vox](https://www.vox.com/platform/amp/2018/7/5/17538086/scott-pruitt-resignation-why-letter))
 
 > **I have accepted the resignation of Scott Pruitt as the Administrator of the Environmental Protection Agency**. Within the Agency Scott has done an outstanding job, and I will always be thankful to him for this. The Senate confirmed Deputy at EPA, Andrew Wheeler, will on Monday assume duties as the acting Administrator of the EPA. I have no doubt that Andy will continue on with our great and lasting EPA agenda. We have made tremendous progress and the future of the EPA is very bright! –TRUMP
 
 {% twitter https://twitter.com/realDonaldTrump/status/1014956568129892352 %}
 
 {% twitter https://twitter.com/realDonaldTrump/status/1014956573095915520 hide_thread=true %}
+
+{% twitter https://twitter.com/finnygo/status/1014959532408279046 %}
 
 * **One of Scott Pruitt's aides was fired last summer for questioning the practice of retroactively deleting meetings from the official calendar**. Madeline Morris was Pruitt's senior schedulers and was fired after she raised objections about the deletions, which she believed were illegal. ([New York Times](https://www.nytimes.com/2018/07/05/climate/pruitt-epa-calendar-morris.html))
 

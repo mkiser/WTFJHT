@@ -5,6 +5,25 @@ description: '"My staff told me not to say this."'
 image: "/uploads/532.jpg"
 ---
 
+1/ **Scott Pruitt resigned from the EPA** following months of controversies regarding his spending, ethics and management at the agency. Andrew Wheeler will take over as acting administrator. ([New York Times](https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-trump.html) / [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2018/07/05/embattled-epa-chief-scott-pruitt-resigns/) / [The Hill](http://thehill.com/policy/energy-environment/395667-embattled-epa-head-pruitt-resigns))
+
+> **I have accepted the resignation of Scott Pruitt as the Administrator of the Environmental Protection Agency**. Within the Agency Scott has done an outstanding job, and I will always be thankful to him for this. The Senate confirmed Deputy at EPA, Andrew Wheeler, will on Monday assume duties as the acting Administrator of the EPA. I have no doubt that Andy will continue on with our great and lasting EPA agenda. We have made tremendous progress and the future of the EPA is very bright! –TRUMP
+
+{% twitter https://twitter.com/realDonaldTrump/status/1014956568129892352 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1014956573095915520 hide_thread=true %}
+
+* **One of Scott Pruitt's aides was fired last summer for questioning the practice of retroactively deleting meetings from the official calendar**. Madeline Morris was Pruitt's senior schedulers and was fired after she raised objections about the deletions, which she believed were illegal. ([New York Times](https://www.nytimes.com/2018/07/05/climate/pruitt-epa-calendar-morris.html))
+
+* **How the Andrew Wheeler differs from Scott Pruitt**. Wheeler is viewed as a Washington insider who avoids the limelight and has spent years effectively navigating the rules. Wheeler is also a veteran coal lobbyist for Murray Energy, whose chief executive, Robert Murray, has been a supporter and adviser of Trump's. ([New York Times](https://www.nytimes.com/2018/07/05/climate/wheeler-epa-pruitt.html))
+
+
+* **WTF Discussion:**
+
+* [Scott Pruitt - in or out? ](https://talk.whatthefuckjusthappenedtoday.com/t/pruitt-in-or-out/3161)
+
+* [Who The Fuck Has Left The Trump Administration](https://talk.whatthefuckjusthappenedtoday.com/t/who-the-fuck-has-left-the-trump-administration/908)
+
 1/ **Senate Minority Leader Charles Schumer urged Trump to nominate federal Judge Merrick Garland to replace Justice Anthony Kennedy** in a private phone call last week. Garland, Obama's nominee to the Supreme Court, was blocked by Senate Republicans in 2016. The conversation lasted less than five minutes. ([Washington Post](https://www.washingtonpost.com/politics/schumer-urges-trump-to-tap-merrick-garland-for-supreme-court/2018/07/05/ca12f0be-805e-11e8-b0ef-fffcabeff946_story.html))
 
 2/ **Trump narrowed his Supreme Court shortlist to Brett Kavanaugh, Amy Coney Barrett and Raymond Kethledge** and will announce his nominee on Monday, July 9, at 8 pm Eastern time. Aides, however, said they wouldn't be surprised if Trump announced his nominee ahead of the scheduled prime-time event. ([ABC News](https://abcnews.go.com/Politics/trump-narrows-supreme-court-shortlist-aiming-monday-primetime/story?id=56383077) / [Axios](https://www.axios.com/donald-trump-supreme-court-pick-process-anthony-kennedy-5e83f4e9-f9f3-4098-96c3-6f71f5d2053a.html) / [Vox](https://www.vox.com/policy-and-politics/2018/7/5/17536310/who-trump-nominate-supreme-court))
@@ -31,9 +50,11 @@ image: "/uploads/532.jpg"
 
 3. **Michael Cohen dropped the reference "personal attorney to President Donald J. Trump" from his social media accounts**. His bio is now blank on Twitter with an image of an American flag. ([CNN](https://www.cnn.com/2018/07/04/politics/michael-cohen-twitter-trump-attorney/index.html))
 
-4. **Trump lied when he tweeted that Obama granted citizenship to 2,500 Iranians in an attempt to sweeten the Iran nuclear deal**. Trump provided no evidence to support his tweet, but three senior Obama administration officials who were involved in the Joint Comprehensive Plan of Action negotiations pushed back on the claim, which seems to have originated with a hard-line cleric in Iran's parliament. ([Washington Post](https://www.washingtonpost.com/news/fact-checker/wp/2018/07/04/trump-claims-obama-gave-citizenship-to-2500-iranians-during-nuclear-deal-talks/?utm_term=.4b04bf8663db))
+4. **A federal judge rejected a Trump administration request to block three California sanctuary laws**, allowing the state to counter Trump's crackdown on illegal immigration by limiting the kinds of immigration-related information state and local law enforcement can share with federal officials. ([Politico](https://www.politico.com/story/2018/07/05/trump-sanctuary-cities-ruling-695286) / [Associated Press](https://apnews.com/e0bfb1602aef4332b1bebd1c46ddb567))
 
-5. **Trump's co-author for The Art of the Deal tweeted that Trump "is incapable of reading a book, much less writing one."** The Twitter [criticism](https://twitter.com/tonyschwartz/status/1014499706821488649) came after Trump bragged about "my ability to write" and having "many best selling books." ([HuffPost](https://www.huffingtonpost.com/entry/art-of-the-deal-co-author-trump-incapable-of-reading-a-book-much-less-writing-one_us_5b3d3db2e4b05127cceeca05))
+5. **Trump lied when he tweeted that Obama granted citizenship to 2,500 Iranians in an attempt to sweeten the Iran nuclear deal**. Trump provided no evidence to support his tweet, but three senior Obama administration officials who were involved in the Joint Comprehensive Plan of Action negotiations pushed back on the claim, which seems to have originated with a hard-line cleric in Iran's parliament. ([Washington Post](https://www.washingtonpost.com/news/fact-checker/wp/2018/07/04/trump-claims-obama-gave-citizenship-to-2500-iranians-during-nuclear-deal-talks/?utm_term=.4b04bf8663db))
+
+6. **Trump's co-author for The Art of the Deal tweeted that Trump "is incapable of reading a book, much less writing one."** The Twitter [criticism](https://twitter.com/tonyschwartz/status/1014499706821488649) came after Trump bragged about "my ability to write" and having "many best selling books." ([HuffPost](https://www.huffingtonpost.com/entry/art-of-the-deal-co-author-trump-incapable-of-reading-a-book-much-less-writing-one_us_5b3d3db2e4b05127cceeca05))
 
 ---
 

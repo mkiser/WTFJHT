@@ -13,4 +13,4 @@ date: 2018-07-06 05:03:00 -07:00
 
 5. **Trump attacked two Democratic senators, continued his attacks on members of the press, mocked the #MeToo movement, and vouched for Putin during a rally in Montana on Thursday.** "You know what? Putin's fine," Trump told the crowd, referring to his upcoming meeting with Putin. "He’s fine. We’re all fine. We’re people. Will I be prepared? Totally prepared. I’ve been preparing for this stuff my whole life." ([New York Times](https://www.nytimes.com/2018/07/05/us/politics/trump-montana-rally-warren-tester.html))
 
-\% youtube https://youtu.be/GBdTrjdPKQk?t=1703 %
+{% youtube GBdTrjdPKQk?t=1703 %}

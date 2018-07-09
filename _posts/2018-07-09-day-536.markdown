@@ -17,7 +17,7 @@ image: "/uploads/536.jpg"
 
 2/ **White House communications director Bill Shine will attend Trump's meeting with Putin in Helsinki on July 16.** The West Wing delegation also includes John Kelly, deputy chief of staff Zach Fuentes, national security adviser John Bolton, Stephen Miller, social media director Dan Scavino, Sarah Huckabee Sanders, Melania Trump, and other high-level staffers and their aides. ([Politico](https://www.politico.com/story/2018/07/08/shine-trump-putin-summit-702294))
 
-3/ **Trump lashed out at NATO on Twitter two days before the alliance's summit**, saying NATO members "must do much more" and up their defense spending contributions. "The United States is spending far more on NATO than any other Country. This is not fair, nor is it acceptable." Allies are worried that Trump wil ([Axios](https://www.axios.com/trump-tweets-nato-summit-angela-merkel-germany-7da69b41-9f5c-444d-9a7a-cf666904ad8f.html) / [Politico](https://www.politico.com/story/2018/07/09/trump-criticize-nato-summit-702296))
+3/ **Trump lashed out at NATO on Twitter two days before the alliance's summit**, saying NATO members "must do much more" and up their defense spending contributions. "The United States is spending far more on NATO than any other Country. This is not fair, nor is it acceptable." ([Axios](https://www.axios.com/trump-tweets-nato-summit-angela-merkel-germany-7da69b41-9f5c-444d-9a7a-cf666904ad8f.html) / [Politico](https://www.politico.com/story/2018/07/09/trump-criticize-nato-summit-702296))
 
 {% twitter https://twitter.com/realDonaldTrump/status/1016289620596789248 %}
 

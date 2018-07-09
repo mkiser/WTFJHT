@@ -15,7 +15,7 @@ The goal is to capture the most important news coming out of the White House in 
 
 What was suppose to be a personal project – a challenge to log the daily shock and awe of the administration's first 100 days – <a href="https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/">has become my full-time job.</a> See? Trump *is* creating jobs.
 
-WTFJHT publishes Monday-Friday, except on market holidays. 
+WTFJHT publishes Monday-Friday, except on market holidays.
 
 **Editorial Policy:**
 This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement.
@@ -46,23 +46,15 @@ With WTFJHT, you will find an independent voice with personal accountability, an
 
 This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 
-> FEEDS:
+**FEEDS:**
 
-<a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>
+* <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>
 
->
+* <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>
 
-<a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>
+* <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>
 
-> 
-
-<a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>
-
-> 
-
-<a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
-
-> 
+* <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
 
 Built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [Travis CI](https://travis-ci.org/mkiser/WTFJHT), [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>.
 

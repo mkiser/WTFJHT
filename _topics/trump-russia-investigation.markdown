@@ -3181,7 +3181,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/07/14/day-176/">July 14, 2017</a></small></div>
-<p><strong>Trump’s lawyers learned of Trump Jr.'s email chain more than three weeks ago</strong>.  The White House has said Trump heard about the meeting <a href="https://whatthefuckjusthappenedtoday.com/2017/07/11/Day-173/#4-the-white-house-said-trump-didnt-k">"in the last couple of days"</a> and hadn't see the emails <a href="https://whatthefuckjusthappenedtoday.com/2017/07/12/day-174/#4-%C2%A0trumps-lawyer-said-the-president">until Trump Jr. released them</a>. Trump's lawyer for the Russia investivation, Marc Kasowitz, and the chief legal officer for the Trump Organization, Alan Garten, were both informed about the emails in the third week of June, after they were discovered by lawyers for Kushner. (<a href="https://www.yahoo.com/news/sources-trump-lawyers-knew-russia-emails-back-june-000320831.html">Yahoo</a>)</p>
+<p><strong>Trump’s lawyers learned of Trump Jr.'s email chain more than three weeks ago</strong>.  The White House has said Trump heard about the meeting <a href="https://whatthefuckjusthappenedtoday.com/2017/07/11/Day-173/#4-the-white-house-said-trump-didnt-k">"in the last couple of days"</a> and hadn't see the emails <a href="https://whatthefuckjusthappenedtoday.com/2017/07/12/day-174/#4-%C2%A0trumps-lawyer-said-the-president">until Trump Jr. released them</a>. Trump's lawyer for the Russia investigation, Marc Kasowitz, and the chief legal officer for the Trump Organization, Alan Garten, were both informed about the emails in the third week of June, after they were discovered by lawyers for Kushner. (<a href="https://www.yahoo.com/news/sources-trump-lawyers-knew-russia-emails-back-june-000320831.html">Yahoo</a>)</p>
 
 
 
@@ -3821,7 +3821,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/06/01/Day-133/">June 01, 2017</a></small></div>
-<p><strong>The former pro-Brexit Ukip leader is a "person of interest" in the FBI investigation into Trump and Russia</strong>. Nigel Farage's relationships with both the Trump campaign and WikiLeaks founder Julian Assange has raised the interest of the FBI. “If you triangulate Russia, WikiLeaks, Assange and Trump associates the person who comes up with the most hits is Nigel Farage. He’s right in the middle of these relationships." (<a href="https://www.theguardian.com/politics/2017/jun/01/nigel-farage-is-person-of-interest-in-fbi-investigation-into-trump-and-russia">The Guardian</a>)</p>
+<p><strong>The former pro-Brexit UKIP leader is a "person of interest" in the FBI investigation into Trump and Russia</strong>. Nigel Farage's relationships with both the Trump campaign and WikiLeaks founder Julian Assange has raised the interest of the FBI. “If you triangulate Russia, WikiLeaks, Assange and Trump associates the person who comes up with the most hits is Nigel Farage. He’s right in the middle of these relationships." (<a href="https://www.theguardian.com/politics/2017/jun/01/nigel-farage-is-person-of-interest-in-fbi-investigation-into-trump-and-russia">The Guardian</a>)</p>
 
 
 
@@ -4656,7 +4656,7 @@ redirect_from: "/russia/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/10/Day-50/">March 10, 2017</a></small></div>
-<p><strong>John Huntsman reported to be named next U.S. ambassador to Russia</strong>. The former Republican governor served as ambassador to China under Obama. His appointment comes at a time when the complex relationship between the two countries has been particullary strained in light of recent developments surrounding the Trump administration. (<a href="https://www.nytimes.com/2017/03/09/world/europe/jon-huntsman-jr-ambassador-russia.html" target="_blank">New York Times</a>)</p>
+<p><strong>John Huntsman reported to be named next U.S. ambassador to Russia</strong>. The former Republican governor served as ambassador to China under Obama. His appointment comes at a time when the complex relationship between the two countries has been particularly strained in light of recent developments surrounding the Trump administration. (<a href="https://www.nytimes.com/2017/03/09/world/europe/jon-huntsman-jr-ambassador-russia.html" target="_blank">New York Times</a>)</p>
 
 
 

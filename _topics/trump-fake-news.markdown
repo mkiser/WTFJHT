@@ -834,7 +834,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/04/21/Day-92/">April 21, 2017</a></small></div>
-<p><strong>Syria still has chemical weapons</strong>. Israeli defense officials estimate that Syria still has up to three tons of chemical weapons in its possession. Mattis says Syria has "dispersed their aircraft" in the wake of the punitive US missile strike. The implication is that Syria may be concerned about additional strikes and is moving its combat aircrafts to make them less vulnerable to an attack. (<a href="http://abcnews.go.com/International/wireStory/us-defense-secy-mattis-syria-chemical-weapons-46931091" target="_blank">ABC News</a>)</p>
+<p><strong>Syria still has chemical weapons</strong>. Israeli defense officials estimate that Syria still has up to three tons of chemical weapons in its possession. Mattis says Syria has "dispersed their aircraft" in the wake of the punitive US missile strike. The implication is that Syria may be concerned about additional strikes and is moving its combat aircraft to make them less vulnerable to an attack. (<a href="http://abcnews.go.com/International/wireStory/us-defense-secy-mattis-syria-chemical-weapons-46931091" target="_blank">ABC News</a>)</p>
 
 
 
@@ -879,7 +879,7 @@ redirect_from: "/fake-news/"
 
 
 <div class="topic-date"><small><a href="https://whatthefuckjusthappenedtoday.com/2017/03/07/Day-47/">March 07, 2017</a></small></div>
-<p><strong>China warns of an arms race after the U.S. deployed a missile defense system in South Korea.</strong> Beijing denounced the United States’ decision to use the Thaad technology and vowed to “take the necessary steps to safeguard our own security interests.” The U.S. deployed the defense system after North Korea launched four simultaneous missiles into the waters off the Japanese coast, which Pyongyang said was a drill for striking American bases in Japan. (<a href="https://www.nytimes.com/2017/03/07/world/asia/thaad-missile-defense-us-south-korea-china.html" target="_blank">New York Times</a>)</p>
+<p><strong>China warns of an arms race after the U.S. deployed a missile defense system in South Korea.</strong> Beijing denounced the United States’ decision to use the THAAD technology and vowed to “take the necessary steps to safeguard our own security interests.” The U.S. deployed the defense system after North Korea launched four simultaneous missiles into the waters off the Japanese coast, which Pyongyang said was a drill for striking American bases in Japan. (<a href="https://www.nytimes.com/2017/03/07/world/asia/thaad-missile-defense-us-south-korea-china.html" target="_blank">New York Times</a>)</p>
 
 
 

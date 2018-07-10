@@ -10,6 +10,8 @@ is_breaking_news: true
 
 {% onebox https://www.vox.com/2018/7/9/17548782/brett-kavanaugh-trump-supreme-court-anthony-kennedy %}
 
+{% onebox https://www.nytimes.com/interactive/2018/07/09/us/politics/supreme-court-kavanaugh-justice-conservative.html %}
+
 {% onebox http://www.scotusblog.com/2018/06/potential-nominee-profile-brett-kavanaugh/ %}
 
 ---

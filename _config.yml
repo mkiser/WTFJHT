@@ -141,6 +141,10 @@ github:
   repo: https://github.com/mkiser/WTFJHT
 exclude:
 - vendor
+- Gemfile
+- Gemfile.lock
+- CONTRIBUTING.md
+- README.md
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

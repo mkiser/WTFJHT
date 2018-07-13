@@ -1,11 +1,12 @@
 ---
 title: Day 540
 date: 2018-07-13 05:33:00 -07:00
+description: Unwelcome.
 image: "/uploads/540.jpg"
 author: Joe Amditis
 ---
 
-1/ **Deputy Attorney General Rod Rosenstein will hold a press conference for a "law enforcement announcement"** today starting around 11:45 a.m. ([Department of Justice](https://www.justice.gov/live))
+1/ **Deputy Attorney General Rod Rosenstein announced that a grand jury returned indictments against 12 Russian intelligence officials on charges of hacking into the DNC, DCCC, and state election offices to steal and release documents in an attempt to influence the 2016 presidential election.** The defendants worked for the Russian intelligence service known as the GRU. They used a tactic called "spearfishing" to trick users into revealing their account information. They used keystroke loggers and other malicious software to obtain account information and access sensitive U.S. computer systems and email accounts, which they later released to the public. ([Department of Justice](https://www.justice.gov/live))
 
 2/ **The White House ordered the FBI to give lawmakers more access to classified information about the informant used in 2016 to investigate possible ties between the Trump campaign and Russia.** The director of national intelligence and the director of the FBI have tried to keep access to the classified documents tightly limited, but the files will now be made available to all members of the Senate and House Intelligence Committees. ([New York Times](https://www.nytimes.com/2018/07/12/us/politics/white-house-fbi-informant.html))
 

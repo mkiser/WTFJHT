@@ -3,6 +3,14 @@ title: Day 540
 date: 2018-07-13 05:33:00 -07:00
 description: Unwelcome.
 image: "/uploads/540.jpg"
+todayInOneSentence: Rosenstein announced 12 indictments against Russian intelligence
+  officials for hacking the DNC, DCCC, and state boards of elections; Democrats want
+  Trump to cancel his meeting with Putin; Trump said he's open to canceling NATO exercises
+  in the Baltic States if Putin asks; the White House ordered the FBI to hand over
+  more classified information to lawmakers; Trump denied making comments during a
+  recorded interview even though the audio had already been published; and the Trump
+  administration wants the power to hold people in Guantanamo Bay prison for 100 years
+  — without charging them with a crime.
 author: Joe Amditis
 ---
 

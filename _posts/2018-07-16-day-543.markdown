@@ -23,7 +23,7 @@ image: "/uploads/543.jpg"
 
 * {% youtube UaVWRetR4jg %}
 
-2/ **Dan Coats: "We have been clear in our assessments of Russian meddling in the 2016 election,"** saying the intelligence community "will continue to provide unvarnished and objective intelligence in support off our national security." The director of national intelligence's comment come following Trump's refusal to back the U.S. intelligence community's assessment the Russia meddled in the U.S. 2016 election. Aboard Air Force One, Trump tweeted confidence in his own intelligence officials, saying "I have GREAT confidence in MY intelligence people," but "the world's two largest nuclear powers, we must get along!" ([Axios](https://www.axios.com/dan-coats-director-national-intelligence-russia-meddling-trump-2c3718b1-eb59-4e39-8093-50a83690eaf4.html))
+2/ **Dan Coats: "We have been clear in our assessments of Russian meddling in the 2016 election,"** saying the intelligence community "will continue to provide unvarnished and objective intelligence in support off our national security." The director of national intelligence's comment come following Trump's refusal to back the U.S. intelligence community's assessment the Russia meddled in the U.S. 2016 election. Aboard Air Force One, Trump tweeted confidence in his own intelligence officials, saying "I have GREAT confidence in MY intelligence people," but "the world's two largest nuclear powers, we must get along!" ([Axios](https://www.axios.com/dan-coats-director-national-intelligence-russia-meddling-trump-2c3718b1-eb59-4e39-8093-50a83690eaf4.html) / [CNN](https://www.cnn.com/2018/07/16/politics/donald-trump-putin-helsinki-summit/index.html))
 
 {% twitter https://twitter.com/realDonaldTrump/status/1018943446583668736 %}
 

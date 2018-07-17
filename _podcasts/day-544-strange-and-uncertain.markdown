@@ -1,5 +1,5 @@
 ---
-title: 'Day 544: Strange and uncertain.'
+title: 'Day 544: Strange and uncertain times.'
 date: 2018-07-17 15:57:00 -07:00
 file: "/uploads/Day-544.mp3"
 post: Day 544

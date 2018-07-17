@@ -3,8 +3,8 @@ title: 'Day 544: Strange and uncertain times.'
 date: 2018-07-17 15:57:00 -07:00
 file: "/uploads/Day-544a.mp3"
 post: Day 544
-duration: '00:07:02'
-length: 7494813
+duration: '00:07:01'
+length: 7467987
 ---
 
 **Tuesday, July 17, 2018**

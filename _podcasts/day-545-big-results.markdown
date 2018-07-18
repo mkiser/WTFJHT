@@ -1,10 +1,10 @@
 ---
 title: 'Day 545: Big results.'
 date: 2018-07-18 14:34:00 -07:00
-file: "/uploads/Day-545.mp3"
+file: "/uploads/Day-545a.mp3"
 post: Day 545
-duration: '00:06:54'
-length: 7944408
+duration: '00:06:48'
+length: 7825194
 ---
 
 **Wednesday, July 18, 2018**

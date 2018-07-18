@@ -1,0 +1,38 @@
+---
+title: Day 545
+date: 2018-07-18 09:58:00 -07:00
+description: 'Big results. '
+image: "/uploads/545.jpg"
+---
+
+1/ **Trump said he does not believe that Russia is still targeting the U.S. with efforts to undermine American democracy, contradicting his director of national intelligence**. [Last week](https://whatthefuckjusthappenedtoday.com/2018/07/16/day-543/#4-trump-called-robert-muellers-probe), Dan Coats said that "the digital infrastructure that serves this country is literally under attack." And, in particular, Russia is the "most aggressive foreign actor, no question. And they continue their efforts to undermine our democracy." Coats described Russia as one of the "worst offenders." Intelligence officials in the U.S. and U.K. also believe Russia is planning to ramp up digital operations targeting western countries now that the World Cup and the Trump-Putin Helsinki summit have ended. Trump added: "No president has been as tough as I have been on Russia. I think President Putin knows that better than anyone. Better than the media." ([Reuters](https://www.reuters.com/article/us-usa-trump-russia/asked-if-russia-still-targeting-u-s-trump-says-no-idUSKBN1K82AV) / [CNN](https://www.cnn.com/2018/07/17/politics/intelligence-agencies-concerned-russian-aggression/index.html))
+
+{% twitter https://twitter.com/CNNPolitics/status/1019620938558697475 %}
+
+2/ **Trump defended his summit with Putin, tweeting that "people at the higher ends of intelligence loved my press conference performance in Helsinki."** The claim comes less than 24 hours after Trump attempted to [backtrack spin](https://whatthefuckjusthappenedtoday.com/2018/07/17/day-544/#1-trump-backtracked-and-tried-to-spi) his statements that he had misspoken and meant to say "I don't see any reason why it wouldn't be Russia" that interfered in the election. Trump promised: "big results" and "many positive things." ([Washington Post](https://www.washingtonpost.com/politics/trump-returns-to-touting-his-summit-with-putin-a-day-after-doing-damage-control/2018/07/18/ff794dea-8a70-11e8-8aea-86e88ae760d8_story.html?utm_term=.0c7718f29e9b) / [New York Times](https://www.nytimes.com/2018/07/18/us/politics/trump-putin-higher-intelligence.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1019520574371123200 %}
+
+* **Trump crossed out a line about bringing those responsible for election hacking to justice in his statement correcting his remarks during his press conference with Putin.** Trump prepared four pages of handwritten notes for his meeting with congressional leaders yesterday, part of which read, "I have on numerous occasions noted our intelligence findings that Russians attempted to interfere in our elections. A̶n̶y̶o̶n̶e̶ ̶i̶n̶v̶o̶l̶v̶e̶d̶ ̶i̶n̶ ̶t̶h̶a̶t̶ ̶m̶e̶d̶d̶l̶i̶n̶g̶ ̶t̶o̶ ̶j̶u̶s̶t̶i̶c̶e̶." Trump used a black marker to cross out the part about bringing the hackers to justice. ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/07/17/in-his-prepared-remarks-trump-removed-a-line-about-bringing-election-hackers-to-justice/?utm_term=.ddbc4e9a4992))
+
+3/ **Democrats are calling for Trump's translator during his private meeting with Putin to testify before Congress.** "I'm calling for a hearing with the U.S. interpreter who was present during President Trump's meeting with Putin to uncover what they discussed privately," Sen. Jeanne Shaheen tweeted. Rep. Joe Kennedy echoed Shaheen's calls: "And that was only what we saw on live TV. @realDonaldTrump's translator should come before Congress and testify as to what was said privately immediately." ([CNN](https://www.cnn.com/2018/07/17/politics/trump-interpreter-testify-congress/index.html) / [HuffPost](https://www.huffingtonpost.com/entry/senate-hearing-interpreter-trump-putin_us_5b4e4d86e4b0de86f487a4e3))
+
+4/ **Trump questioned why NATO should come to the defense of smaller alliance members like Montenegro if it came under attack.** "Montenegro is a tiny country with very strong people," Trump said when asked whether the U.S. would come to the country's defense. "They're very aggressive people. They may get aggressive, and congratulations you're in World War III." The only time [NATO invoked Article Five](https://www.nytimes.com/2001/09/13/us/after-attacks-alliance-for-first-time-nato-invokes-joint-defense-pact-with-us.html) – an "armed attack" on one member "shall be considered an attack against them all" – was after the U.S. was attacked on 9/11. ([NBC News](https://www.nbcnews.com/news/world/trump-calls-out-very-aggressive-montenegro-latest-nato-jibe-n892311) / [CNN](https://www.cnn.com/2018/07/17/politics/trump-nato-fox/index.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-says-defending-tiny-nato-ally-montenegro-could-lead-to-world-war-iii/2018/07/18/f7a09276-8a80-11e8-8aea-86e88ae760d8_story.html))
+
+5/ **The Justice Department added a second charge against Russian national Maria Butina**, who was charged on Monday with [conspiracy to act as an agent](https://whatthefuckjusthappenedtoday.com/2018/07/16/day-543/#5-the-justice-department-charged-a-r) of a foreign government. A federal grand jury indicted Butina on Tuesday on new charges of acting as an unregistered foreign agent of the Kremlin since at least 2015. Butina was arrested on Sunday because she appeared to have plans to flee the U.S. ([Politico](https://www.politico.com/story/2018/07/17/russia-nra-foreign-agent-728305) / [Washington Post](https://www.washingtonpost.com/local/public-safety/alleged-russian-agent-maria-butina-had-ties-to-russian-intelligence-agency-prosecutors-say/2018/07/18/a1a4042c-8a01-11e8-a345-a1bf7847b375_story.html))
+
+poll/ **68% of Americans consider Russia either unfriendly or an enemy of the United States**, a 9% increase from last year (59%). ([NBC News / SurveyMonkey](https://www.nbcnews.com/politics/donald-trump/nbc-news-poll-american-attitudes-toward-russia-worsen-under-trump-n892196))
+
+---
+
+## Notables. 
+
+1. **The Democratic National Committee has been trying and failing for months to serve Jared Kushner with a lawsuit for alleged collusion with the Russians** to alter the 2016 election. The Secret Service has turned away DNC lawyers. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-07-17/dnc-seeks-to-send-summons-to-kushner-by-mail-in-russia-lawsuit) / [Talking Points Memo](https://talkingpointsmemo.com/livewire/kushner-has-been-dodging-dnc-lawsuit-service-notice-for-months))
+
+2. **Cambridge Analytica's Facebook data set was accessed from Russia**. Cambridge Analytic had gathered data on tens of millions of Americans. ([CNN Money](https://money.cnn.com/2018/07/17/technology/cambridge-analytica-data-facebook-russia/index.html))
+
+3. **The "daily" White House press briefing has been held three on-camera briefings in the past 30 days**. The most recent briefing was on July 2, more than two weeks ago. ([CNN Money](https://money.cnn.com/2018/07/18/media/white-house-press-briefing-drought/index.html))
+
+---
+
+*More soon! [Check back for the latest](https://whatthefuckjusthappenedtoday.com/).*

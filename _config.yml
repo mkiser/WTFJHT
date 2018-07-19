@@ -109,6 +109,7 @@ paginate: 1
 paginate_path: "/page/:num/"
 twitter:
   username: WTFJHT
+encoding: utf-8
 kramdown:
   smart_quotes:
   - apos

@@ -1,5 +1,7 @@
 # So You Want To Contribute To WTF Just Happened Today?
-I'd love your help and input. This guide is to help you help me make contributing to WTF Just Happened Today as easy as possible, whether it's:
+WTF Just Happened Today is a newsletter, blog, podcast, and community that chronicles the daily shock and awe in national politics.
+
+But it's not possible without your help. This guide is to help you, help me make contributing to WTF Just Happened Today as easy as possible, whether it's:
 
 - Contributing a copyedit
 - Reporting a bug
@@ -19,7 +21,11 @@ I'd love your help and input. This guide is to help you help me make contributin
 
 #### Where To Share
 
-With friends and family members, your Indivisible Group, on Facebook, Twitter, Reddit, or wherever you waste your time on the internet (or in real life). 
+The best way to share WTFJHT is by sending friends and family members who are struggling to keep up with the daily shock and awe a link to the blog: https://whatthefuckjusthappenedtoday.com/
+
+Tell them to subscribe to the newsletter. 
+
+**Other Places To Share:** Your Indivisible Group, on [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com/), [Twitter](https://twitter.com/intent/tweet?url=https://whatthefuckjusthappenedtoday.com/&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F%20%0A%0A%E2%9A%A1%20Day%20546%3A%20An%20incredible%20offer.%20%0A%0A, [Reddit](https://www.reddit.com/submit?url=https://whatthefuckjusthappenedtoday.com/), or wherever you waste your time on the internet (or in real life). 
 
 #### Join The Brigade
 

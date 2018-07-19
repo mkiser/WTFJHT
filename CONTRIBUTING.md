@@ -25,7 +25,7 @@ The best way to share WTFJHT is by sending friends and family members who are st
 
 Tell them to subscribe to the newsletter. 
 
-**Other Places To Share:** Your Indivisible Group, on [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com/), [Twitter](https://twitter.com/intent/tweet?url=https://whatthefuckjusthappenedtoday.com/&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F%20%0A%0A%E2%9A%A1%20Day%20546%3A%20An%20incredible%20offer.%20%0A%0A, [Reddit](https://www.reddit.com/submit?url=https://whatthefuckjusthappenedtoday.com/), or wherever you waste your time on the internet (or in real life). 
+**Other Places To Share:** Your Indivisible Group, on [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com/), [Twitter](https://twitter.com/intent/tweet?url=https://whatthefuckjusthappenedtoday.com/&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F%20%0A%0A%E2%9A%A1%20Day%20546%3A%20An%20incredible%20offer.%20%0A%0A), [Reddit](https://www.reddit.com/submit?url=https://whatthefuckjusthappenedtoday.com/), or wherever you waste your time on the internet (or in real life). 
 
 #### Join The Brigade
 

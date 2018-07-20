@@ -32,11 +32,11 @@ author: Joe Amditis
 
 * **Page 26:** "In or around July 2016, KOVALEV and his co-conspirators hacked the website of a state board of elections ('SBOE 1') and stole information related to approximately 500,000 voters, including names, addresses, partial social security numbers, dates of birth, and driver's license numbers."
 
-{% onebox https://www.nytimes.com/2018/07/13/us/politics/trump-russia-clinton-emails.html %}
-
 {% onebox https://www.nytimes.com/2018/07/15/us/politics/guccifer-russia-mueller.html %}
 
 {% onebox https://www.nytimes.com/2018/07/13/us/politics/mueller-russian-indictment-transcript.html %}
+
+* **Russian hackers went after Hillary Clinton's servers for the first time on the same day Trump said, "Russia, if you’re listening, I hope you're able to find the 30,000 emails that are missing."** ([New York Times](https://www.nytimes.com/2018/07/13/us/politics/trump-russia-clinton-emails.html))
 
 2/ **Top Democrats are calling on Trump to cancel his planned one-on-one meeting with Putin next week in the wake of the indictments against 12 Russian intelligence officials.** “President Trump should cancel his meeting with Vladimir Putin until Russia takes demonstrable and transparent steps to prove that they won’t interfere in future elections,” said Chuck Schumer. Mark Warner, Jack Reed, Dina Titus and others called on Trump to cancel the July 16 summit. House Minority Leader Nancy Pelosi did not echo their calls for cancellation, and instead called on Trump to "demand and secure a real, concrete and comprehensive agreement that the Russians will cease their ongoing attacks on our democracy." ([NBC News](https://www.nbcnews.com/politics/congress/democrats-call-trump-cancel-putin-summit-after-russian-hacking-indictments-n891256) / [The Hill](http://thehill.com/policy/cybersecurity/396926-top-intel-dem-no-one-on-one-trump-meeting-with-putin))
 

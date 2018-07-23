@@ -1,10 +1,10 @@
 ---
 title: Day 550
 date: 2018-07-23 14:13:00 -07:00
-file: "/uploads/Day-550.mp3"
+file: "/uploads/Day-550a.mp3"
 post: Day 550
-duration: '00:06:18'
-length: 7477392
+duration: '00:06:13'
+length: 7391936
 ---
 
 **Monday, July 23, 2018**

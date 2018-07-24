@@ -27,7 +27,7 @@ image: "/uploads/551.jpg"
 
 poll/ **71% of voters believe Roe v. Wade should not be overturned**, while 23% say the ruling should be reversed – the highest level of support for the decision in the poll's history dating back to 2005. 88% of Democrats, 76% of independents and 52% of Republicans support the ruling. ([NBC News](https://www.nbcnews.com/politics/first-read/nbc-wsj-poll-support-roe-v-wade-hits-new-high-n893806))
 
-poll/ **51% of Americans believe that Russia has compromising information on Trump**. 35% of voters don't believe Moscow has compromising information the president. Among Republicans, 70% believe there is compromising information. 52% of voters say Trump's summit with Putin in Helsinki was a failure for the U.S., with 73% saying it was a success for Russia. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=2557))
+poll/ **51% of Americans believe that Russia has compromising information on Trump**. 35% of voters don't believe Moscow has compromising information the president. Among Republicans, 70% don't believe there is compromising information. 52% of voters say Trump's summit with Putin in Helsinki was a failure for the U.S., with 73% saying it was a success for Russia. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=2557))
 
 ---
 

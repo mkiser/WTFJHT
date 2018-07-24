@@ -9,7 +9,7 @@ image: "/uploads/551.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/1021719098265362432 %}
 
-2/ **Trump tweet-feigned that he is "concerned" Russia "will be pushing very hard for the Democrats" in the midterm elections**, because "no President has been tougher on Russia than me." Last week, Trump [cast doubt](https://whatthefuckjusthappenedtoday.com/2018/07/16/day-543/#1-trump-rejected-the-consensus-of-u) on the U.S. intelligence community's conclusion that Russia tried to help elect him. Trump also [told reporters](https://whatthefuckjusthappenedtoday.com/2018/07/18/day-545/#1-trump-said-no-he-does-not-believe) "no," he doesn't believe Russia was still a threat. Trump capped his tweet off with: "They definitely don't want Trump!" ([Reuters](https://www.reuters.com/article/us-usa-trump-russia/trump-russia-will-push-hard-for-democrats-in-november-election-idUSKBN1KE29M) / [The Hill](http://thehill.com/homenews/administration/398566-trump-im-concerned-russia-may-interfere-in-election-to-help-democrats))
+2/ **Trump tweet-feigned that he is "concerned" Russia "will be pushing very hard for the Democrats" in the midterm elections**, because "no President has been tougher on Russia than me." Last week, Trump [cast doubt](https://whatthefuckjusthappenedtoday.com/2018/07/16/day-543/#1-trump-rejected-the-consensus-of-u) on the U.S. intelligence community's conclusion that Russia tried to help him get elected. Trump also [told reporters](https://whatthefuckjusthappenedtoday.com/2018/07/18/day-545/#1-trump-said-no-he-does-not-believe) "no," he doesn't believe Russia was still a threat. Trump capped his tweet off with: "They definitely don't want Trump!" ([Reuters](https://www.reuters.com/article/us-usa-trump-russia/trump-russia-will-push-hard-for-democrats-in-november-election-idUSKBN1KE29M) / [The Hill](http://thehill.com/homenews/administration/398566-trump-im-concerned-russia-may-interfere-in-election-to-help-democrats))
 
 {% twitter https://twitter.com/realDonaldTrump/status/1021784726217142273 %}
 
@@ -27,7 +27,7 @@ image: "/uploads/551.jpg"
 
 poll/ **71% of voters believe Roe v. Wade should not be overturned**, while 23% say the ruling should be reversed – the highest level of support for the decision in the poll's history dating back to 2005. 88% of Democrats, 76% of independents and 52% of Republicans support the ruling. ([NBC News](https://www.nbcnews.com/politics/first-read/nbc-wsj-poll-support-roe-v-wade-hits-new-high-n893806))
 
-poll/ **51% of Americans believe that Russia has compromising information on Trump**. 35% of voters don't believe Moscow has compromising information the president. Among Republicans, 70% believe there is compromising information. 52% of voters say Trump's summit with Putin in Helsinki was a failure for the U.S., with 73% saying it was a success for Russia. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=2557))
+poll/ **51% of Americans believe that Russia has compromising information on Trump**. 35% of voters don't believe Moscow has compromising information on the president. Among Republicans, 70% believe there is compromising information. 52% of voters say Trump's summit with Putin in Helsinki was a failure for the U.S., with 73% saying it was a success for Russia. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=2557))
 
 ---
 
@@ -37,6 +37,6 @@ poll/ **51% of Americans believe that Russia has compromising information on Tru
 
 2. **Robert Mueller plans to call witnesses from the IRS, FBI and the Treasury Department's Financial Crimes Enforcement Network in Paul Manafort's trial**. The trial on bank and tax fraud begins July 31st. ([Politico](https://www.politico.com/story/2018/07/24/witness-list-manafort-trial-737109))
 
-3. **An unofficial shortlist of possible replacements for Sarah Huckabee Sanders is starting to emerge**, who says she has no plans to step down. At the top of the list is former Fox News host Heather Nauert, who is the current State Department spokeswoman. ([Politico](https://www.politico.com/story/2018/07/23/sarah-sanders-white-house-aides-736247))
+3. **An unofficial shortlist of possible replacements for Sarah Huckabee Sanders is starting to emerge**, despite her saying she has no plans to step down. At the top of the list is former Fox News host Heather Nauert, who is the current State Department spokeswoman. ([Politico](https://www.politico.com/story/2018/07/23/sarah-sanders-white-house-aides-736247))
 
 4. **Ivanka Trump will close her fashion brand** due to frustration with restrictions required to avoid conflicts of interest while serving in the White House. ([Wall Street Journal](https://www.wsj.com/articles/ivanka-trump-closing-her-namesake-fashion-brand-1532452229) / [Washington Post](https://www.washingtonpost.com/news/business/wp/2018/07/24/ivanka-trump-shuts-down-her-namesake-clothing-brand-which-became-politicized-during-the-presidential-campaign/))

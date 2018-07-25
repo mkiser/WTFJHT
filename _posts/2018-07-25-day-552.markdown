@@ -3,6 +3,12 @@ title: Day 552
 date: 2018-07-25 10:24:00 -07:00
 description: All the stuff.
 image: "/uploads/552.jpg"
+todayInOneSentence: A federal judge ruled for a second time that Trump must face a
+  lawsuit accusing him of improperly profiting from his Washington hotel; Michael
+  Cohen's lawyer leaked one of the recordings of his conversations with Trump; and
+  Trump tweeted that it is "so sad" Cohen recorded their conversations and suggested
+  that the audio had been doctored to exclude the "positive things" that he was "presumably"
+  saying.
 ---
 
 1/ **A federal judge ruled for a second time that Trump must face a lawsuit accusing him of improperly profiting from his Washington hotel**. U.S. District Judge Peter Messitte denied the dismissal request. The attorneys general of Maryland and the District of Columbia claim that Trump is violating the U.S. Constitution's foreign emoluments clause by taking payments from foreign governments at the Trump International Hotel on Pennsylvania Avenue in downtown Washington. Trump faces a separate emoluments case in Washington, filed by about 200 Congressional Democrats. The administration argued last month that this case should also be dismissed. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-07-25/trump-must-face-emoluments-lawsuit-over-d-c-hotel-profits) / [Washington Post](https://www.washingtonpost.com/politics/federal-judge-allows-emoluments-case-against-trump-to-proceed/2018/07/25/c8070206-8fa4-11e8-8322-b5482bf5e0f5_story.html))
@@ -31,6 +37,10 @@ image: "/uploads/552.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/1021917767467982854 %}
 
+poll/ **64% of Americans don't think Trump has been tough enough on Russia**. 47% of Republicans and 82% of Democrats surveyed also said Trump hasn't been tough enough on Russia. ([NPR](https://www.npr.org/2018/07/25/632109122/npr-pbs-newshour-marist-poll-americans-dont-think-trump-is-tough-enough-on-russi))
+
+poll/ **Voters are divided on whether the Senate should confirm Trump's nomination of Judge Brett Kavanaugh to the Supreme Court**. 40% say the Senate should confirm the nomination and 41% say the Senate should not confirm the nomination. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=2558))
+
 ---
 
 ## Notables.
@@ -43,4 +53,8 @@ image: "/uploads/552.jpg"
 
 4. **Trump wants to put 25% tariffs on nearly $200 billion in foreign-made cars later this year**. His senior economic advisers have warned him that the move could damage the economy, but he's told advisers and Republicans to simply trust his business acumen. ([Washington Post](https://www.washingtonpost.com/business/economy/trump-pushes-25-percent-auto-tariff-as-top-advisers-scramble-to-stop-him/2018/07/25/f7b9af04-8f8a-11e8-8322-b5482bf5e0f5_story.html))
 
-5. **Chairman of the House Financial Services Committee: "I think that Donald Trump has too much power** and I think Congress needs to reassert their authority." Rep. Jeb Hensarling disagrees with Trump's plan to provide $12 billion in bailout relief to farmers and ranchers, saying "We have a policy now that is taxing the American consumer and then bailing out U.S. farmers with welfare." ([CNBC](https://www.cnbc.com/2018/07/25/house-financial-services-chairman-splits-with-trump-on-farm-relief-pla.html))
+5. **The U.S. and E.U. agreed to work on lowering tariffs** with the Europeans agreeing to lower industrial tariffs and import more U.S. soybeans. Trump called the development a "new phase" in the relationship. ([CNBC](https://www.cnbc.com/2018/07/25/trump-we-hope-to-work-something-out-on-a-fair-trade-deal-with-europe.html) / [New York Times](https://www.nytimes.com/2018/07/25/us/politics/trump-europe-trade.html))
+
+6. **Chairman of the House Financial Services Committee: "I think that Donald Trump has too much power** and I think Congress needs to reassert their authority." Rep. Jeb Hensarling disagrees with Trump's plan to provide $12 billion in bailout relief to farmers and ranchers, saying "We have a policy now that is taxing the American consumer and then bailing out U.S. farmers with welfare." ([CNBC](https://www.cnbc.com/2018/07/25/house-financial-services-chairman-splits-with-trump-on-farm-relief-pla.html))
+
+7. **Trump wants to delay his planned follow-up meeting with Putin until after the Robert Mueller investigation concludes**. Yesterday, the Kremlin said it wanted the "dust to settle" on a follow-up meeting given the current "atmosphere" in Washington. ([New York Times](https://www.nytimes.com/2018/07/25/us/politics/trump-putin-meeting.html) / [Washington Post](https://www.washingtonpost.com/politics/white-house-pushes-follow-up-trump-putin-meeting-to-next-year/2018/07/25/a8e1ed4c-9039-11e8-bcd5-9d911c784c38_story.html))

@@ -1,5 +1,7 @@
 # So You Want To Contribute To WTF Just Happened Today?
-I'd love your help and input. This guide is to help you help me make contributing to WTF Just Happened Today as easy as possible, whether it's:
+WTF Just Happened Today is a newsletter, blog, podcast, and community that chronicles the daily shock and awe in national politics.
+
+But it's not possible without your help. This guide is to help you, help me make contributing to WTF Just Happened Today as easy as possible, whether it's:
 
 - Contributing a copyedit
 - Reporting a bug
@@ -19,7 +21,11 @@ I'd love your help and input. This guide is to help you help me make contributin
 
 #### Where To Share
 
-With friends and family members, your Indivisible Group, on Facebook, Twitter, Reddit, or wherever you waste your time on the internet (or in real life). 
+The best way to share WTFJHT is by sending friends and family members who are struggling to keep up with the daily shock and awe a link to the blog: https://whatthefuckjusthappenedtoday.com/
+
+Tell them to subscribe to the newsletter. 
+
+**Other Places To Share:** Your Indivisible Group, on [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com/), [Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=Subscribe%20to%20WTF%20Just%20Happened%20Today), [Reddit](https://www.reddit.com/submit?url=https://whatthefuckjusthappenedtoday.com/), or wherever you waste your time on the internet (or in real life). 
 
 #### Join The Brigade
 
@@ -27,15 +33,20 @@ The Brigade is the WTF community committed to helping others contend with the da
 
 ### Web Development
 
-#### Current Issues
+#### Current Needs
 
-- [ ] Search
-- [ ] Schema / SEO
+- [ ] [Algolia Instant Search](https://github.com/mkiser/WTFJHT/issues/606)
+- [ ] [Schema / SEO](https://github.com/mkiser/WTFJHT/issues/15)
 - [ ] CSS/Design Improvements
-- [ ] API
-- [ ] Static archive of every underlying article
+- [ ] [API Improvements](https://github.com/mkiser/WTFJHT/issues/32)
+- [ ] Static JSON archive of every linked-to article
+- [ ] [New Since Last Visit Indicator](https://github.com/mkiser/WTFJHT/issues/166)
 
 #### Future Goals
+
+- [ ] [Native mobile app](https://github.com/mkiser/WTFJHT/issues/102)
+- [ ] Build out [Current Status](https://currentstatus.io/)
+- [ ] WTFradio.com
 
 #### Proposing New Features
 
@@ -54,3 +65,6 @@ The Brigade is the WTF community committed to helping others contend with the da
 
 ### Become A Sustaining Member
 
+Invest in the continued production of WTF Just Happened Today by becoming a supporting member. Choose from three levels of monthly, recurring membership: [$5/mo](https://wtfjht.memberful.com/checkout?plan=26829&referrer=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&utm_campaign=daily_update&utm_medium=social&utm_source=facebook&utm_term=0_9813b73b1a-4a7df0402b-), [$10/mo](https://wtfjht.memberful.com/checkout?plan=26830&referrer=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&utm_campaign=daily_update&utm_medium=social&utm_source=facebook&utm_term=0_9813b73b1a-4a7df0402b-), or [$25/mo](https://wtfjht.memberful.com/checkout?plan=26831&referrer=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&utm_campaign=daily_update&utm_medium=social&utm_source=facebook&utm_term=0_9813b73b1a-4a7df0402b-).
+
+Members of all levels will receive the monthly "What's up with WTF" newsletter, beta access to new features and tools, opportunities to help guide the future of WTF, and generally feeling good about supporting today's essential political newsletter and blog. 

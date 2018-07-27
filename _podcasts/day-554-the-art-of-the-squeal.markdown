@@ -1,5 +1,5 @@
 ---
-title: 'Day 554: The Art of the Squeal.'
+title: 'Day 554: "Never even heard about it."'
 date: 2018-07-27 12:49:00 -07:00
 file: "/uploads/Day-554.mp3"
 post: Day 554

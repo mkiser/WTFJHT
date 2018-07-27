@@ -2,7 +2,6 @@
 title: 'Day 554: The Art of the Squeal.'
 date: 2018-07-27 12:49:00 -07:00
 file: "/uploads/Day-554.mp3"
-post: Day 554
 duration: '00:03:09'
 length: 3666707
 ---

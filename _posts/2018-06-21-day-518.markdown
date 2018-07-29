@@ -1,0 +1,73 @@
+---
+title: Day 518
+date: 2018-06-21 10:27:00 -07:00
+description: Shared values.
+image: "/uploads/518.jpg"
+todayInOneSentence: Melania Trump made an unannounced trip to a detention center for
+  immigrant children wearing a jacket that says "I really don't care, do u?"; the
+  Trump administration has not provided a plan to reunite at least 2,300 undocumented
+  children with their families; Ivanka Trump thanked her dad for ending his family
+  separation policy while calling on Congress to "find a lasting solution that is
+  consistent with our shared values"; and Trump questioned the "purpose" of two House
+  immigration bills that he previously said he supported "1,000 percent."
+---
+
+1/ **Melania Trump made an unannounced trip to the southern border to visit a detention center for immigrant children wearing a jacket that says "I really don't care, do u?"** Melania was seen wearing the $39 jacket from Zara as she boarded her plane from Andrews Air Force Base where the temperature was 80 degrees, but was changed her outfit before she disembarked in McAllen, Texas. Her spokeswoman responded to questions about the jacket with: "It's a jacket." Donald Trump, meanwhile, tweeted that Melania's jacket "refers to the Fake News Media." ([CNN](https://www.cnn.com/2018/06/21/politics/melania-trump-jacket/index.html) / [New York Times](https://www.nytimes.com/2018/06/21/us/politics/melania-trump-jacket.html) / [Variety](https://variety.com/2018/politics/news/melania-trump-i-dont-really-care-jacket-immigration-1202853722/) / [Daily Mail](http://www.dailymail.co.uk/femail/article-5871221/Melania-Trump-wears-jacket-REALLY-DONT-CARE-U-visit-immigrant-children.html))
+
+{% twitter https://twitter.com/tackettdc/status/1009895288570630144 %}
+
+{% twitter https://twitter.com/Acosta/status/1009871069694627842 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1009916650622251009 %}
+
+2/ **The Trump administration has not provided a plan to reunite at least 2,300 undocumented children with their families**. The executive order Trump signed yesterday temporarily stopped his policy of separating children from their parents at the border, but does not address the uniting of families already separated. Instead, existing policies put the onus on parents to find their children in Department of Health and Human Services custody. In a letter to Trump, House Minority Leader Nancy Pelosi and Senate Minority Leader Chuck Schumer said: "It seems that the administration lacks a plan, intention, and a sense of urgency to begin reuniting these children." ([CNN](https://www.cnn.com/2018/06/21/politics/migrant-family-separation-what-next/index.html) / [Politico](https://www.politico.com/story/2018/06/21/pelosi-schumer-letter-reunite-families-trump-661530) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-trump-child-separations-20180621-story.html))
+
+* **Ivanka Trump thanked her dad for ending his family separation policy** while calling on Congress to "find a lasting solution that is consistent with our shared values." ([HuffPost](https://www.huffingtonpost.com/entry/ivanka-trump-family-separation-policy_us_5b2ab361e4b0321a01cd6a10))
+
+* {% twitter https://twitter.com/IvankaTrump/status/1009518490401812481 %}
+
+3/ **Immigrants as young as 14 years old who are being housed at a detention center in Virginia say they were beaten while in handcuffs, stripped nude, and placed in cold solitary confinement cells for extended periods of time.** The abuse claims are detailed in federal court filings, which include allegations from multiple detainees that guards stripped them of their clothes, strapped them to chairs, and placed bags over their heads. ([Associated Press](https://apnews.com/afc80e51b562462c89907b49ae624e79))
+
+* **Hundreds of separated children have been sent to New York** even after Trump signed an executive order ending his administration's policy of separating parents and children who have illegally crossed the border. New York City Mayor Bill de Blasio said Cayuga Centers in East Harlem is currently caring for 239 children separated from their parents at the border. The center has cared for 350 children in total over the last two months. Cayuga Centers has $76 million in contracts with the federal government to care for immigrant children. ([New York Times](https://www.nytimes.com/2018/06/20/nyregion/children-separated-border-new-york.html) / [New York Daily News](http://www.nydailynews.com/news/politics/ny-pol-children-separated-border-nyc-20180620-story.html))
+
+4/ **Border Patrol will stop sending parents illegally crossing into the U.S. with children to federal courthouses for prosecution** because ICE lacks the detention capacity needed. Solo adults who cross illegally will continue to face misdemeanor charges under the Trump administration's "zero tolerance" policy. ([Washington Post](https://www.washingtonpost.com/world/national-security/us-will-stop-prosecuting-parents-who-cross-the-border-illegally-with-children-official-says/2018/06/21/4902b194-7564-11e8-805c-4b67019fcfe4_story.html))
+
+* **The Defense Department sent 21 military lawyers to Arizona, Texas and New Mexico to help prosecute illegal immigration cases**. Lawyers will be given basic training in immigration law and federal criminal procedure in order to help the current federal prosecutors. ([NBC News](https://www.nbcnews.com/storyline/immigration-border-crisis/pentagon-sending-military-lawyers-border-help-prosecute-immigration-cases-n885216))
+
+* **The Defense Department will house up to 20,000 unaccompanied migrant children on military bases** starting "as early as July through December 31, 2018." ([Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2018/06/21/pentagon-asked-to-make-room-for-20000-migrant-children-on-military-bases/))
+
+5/ **Trump questioned the "purpose" of two House immigration bills that he previously said he supported "1,000 percent."** Trump tweeted that both bills don't matter, because they will likely fail in the Senate where Republicans hold 51 seats, but need 60 votes. Hours later, the House voted down its conservative immigration bill and then postponed a vote on a Republican compromise measure. Trump repeated his call to eliminate the filibuster, telling Republicans that "it is killing you!" and that Senate Democrats "are only looking to obstruct," because they think it "is good for them" in the midterm elections. ([CNBC](https://www.cnbc.com/2018/06/21/trump-questions-the-purpose-of-house-immigration-bills-only-hours-before-critical-vote.html) / [NBC News](https://www.nbcnews.com/politics/congress/house-rejects-conservative-immigration-bill-delays-vote-gop-compromise-measure-n885406) / [Politico](https://www.politico.com/story/2018/06/21/house-gop-immigration-trump-661214))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1009785143635206149 %}
+
+* **After Trump ended his administration's practice of separating immigrant children from their parents, he says that "we're sending them the hell back"** and that "the border is going to be just as tough as it has been." ([ABC News](https://abcnews.go.com/Politics/trump-sending-hell-back-supporters-repeat-false-claims/story?id=56029274))
+
+6/ **Trump accused Democratic leaders via Twitter of being unwilling to negotiate a "real deal" on immigration**. Last year, Trump appeared to have reached a deal with House Minority Leader Nancy Pelosi and Senate Minority Leader Charles Schumer that would have addressed the "Dreamers'" situation. The White House later backed off, saying they wanted to take a hard-line position on immigration. Trump also tweeted that "we should be changing our laws, building the Wall, hire Border Agents and Ice and not let people come into our country." ([Washington Post](https://www.washingtonpost.com/politics/trump-lashes-out-at-democrats-as-house-republicans-struggle-to-unite-behind-immigration-legislation/2018/06/21/16713068-7481-11e8-b4b7-308400242c2e_story.html) / [New York Times](https://www.nytimes.com/2018/06/21/us/politics/trump-immigration-border-family-separation.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1009770941604298753 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1009775416456941568 %}
+
+poll/ **57% of Texas voters oppose the practice of separating children from their parents at the border**. 28% support the practice. ([Texas Tribune](https://www.texastribune.org/2018/06/21/uttt-poll-most-texas-voters-oppose-family-separation-border-greater-su/))
+
+poll/ **More Democrats and independents now say immigration is the most important issue facing the country**. 18% of Democrats and 11% of independents say immigration is their highest priority, up 10 and 4 percentage points since last week, respectively. ([Axios](https://www.axios.com/immigration-concern-spikes-over-separated-families-6253be3f-e284-4e0e-9fa2-38eb6148c3df.html))
+
+---
+
+## Notables.
+
+1. **Trump will meet with Putin next month** in Vienna, either before the NATO summit in Brussels on July 11 or after Trump's visit to the U.K. on July 13. Both the White House and the Kremlin declined to comment, but Trump's national security adviser, John Bolton, will visit Moscow next week. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-06-20/trump-is-said-to-plan-meeting-with-putin-in-europe-in-july) / [New York Times](https://www.nytimes.com/2018/06/21/world/europe/bolton-moscow-trump-putin-meeting.html))
+
+2. **A federal judge denied Paul Manafort's request to suppress evidence seized from a storage unit by Robert Mueller's investigators**. Manafort argued that the evidence was  improperly seized after an FBI agent convinced one of Manafort's employees to open the storage unit, instead of asking Manafort for permission or seeking a warrant. Judge Amy Berman Jackson rejected that argument, saying, "Law enforcement agents do not need a warrant to enter a location if they have voluntary consent." ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort/judge-denies-request-by-ex-trump-campaign-aide-to-suppress-evidence-idUSKBN1JH2W5))
+
+3. **The Trump Organization and Kushner Companies dropped plans for a joint oceanfront hotel at the Jersey Shore**, terminating an arrangement where the Trumps would manage a hotel the Kushners were building. ([New York Times](https://www.nytimes.com/2018/06/21/business/trumps-kushners-end-hotel-deals.html))
+
+4. **Defense Secretary Jim Mattis said he was unaware of any steps taken by North Korea towards denuclearization** since Trump's summit with Kim Jong Un, who pledged to dismantle one of his missile installations. ([Reuters](https://www.reuters.com/article/us-northkorea-usa-site/u-s-identifies-north-korea-missile-test-site-it-says-kim-committed-to-destroy-idUSKBN1JH02B) / [The Guardian](https://www.theguardian.com/world/2018/jun/21/no-sign-of-north-korea-dismantling-nuclear-weapons-mattis-admits))
+
+5. **The "Unite the Right" organizer received initial approval to hold a "white civil rights" rally on the National Mall on August 12**. The National Park Service approved Jason Kessler's request but has not issued a permit, yet. The "Unite the Right" rally in Charlottesville last year led to violence as white nationalist marchers clashed with counter-protesters. ([Washington Post](https://www.washingtonpost.com/local/education/unite-the-right-organizer-gets-approval-for-rally-anniversary-event-in-dc/2018/06/20/597a1b1a-74a7-11e8-9780-b1dd6a09b549_story.html?utm_term=.261d0e481d92))
+
+6. **Scott Pruitt spent more than $4.6 million in taxpayer money on security, including $2,749.62 on "tactical pants" and "tactical polos."** The amount represents a $1.1 million increase in Pruitt's total security costs disclosures from last month. Pruitt's security expenditures also include $80,000 on radios, $700 on shoulder holsters for the radios, a kit to break down doors, and more. ([The Intercept](https://theintercept.com/2018/06/20/scott-pruitt-epa-security-total-expenses-foia/))
+
+7. **The White House plans to merge the Education and Labor Departments**. The new, combined agency will be announced as part of a broader government reorganization plan. Congress would likely have to approve the merger, but it remains unclear whether lawmakers would be in favor of such a major reorganization of the government so close to the midterm elections. ([Politico](https://www.politico.com/story/2018/06/20/merger-education-labor-departments-641084) / [Reuters](https://www.reuters.com/article/us-usa-trump-education-labor/white-house-to-propose-merging-labor-education-departments-wall-street-journal-idUSKBN1JG3KF) / [Wall Street Journal](https://www.wsj.com/articles/white-house-to-propose-merging-education-labor-departments-1529533148))
+
+8. **The Supreme Court rules that states can charge people to pay sales tax when they make online purchases**, overruling a pair of decades-old decisions that if a business was shipping to a state where the business didn't have a physical presence, the business didn't have to collect sales tax for the state. ([Associated Press](https://apnews.com/332abb7455cb4b60b2effc0852ff3c89))

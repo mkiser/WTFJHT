@@ -1,0 +1,65 @@
+---
+title: Day 502
+date: 2018-06-05 12:06:00 -07:00
+description: Witness tampering.
+image: "/uploads/502.jpg"
+todayInOneSentence: 'Trump blamed Jeff Sessions for the ongoing Russia investigation
+  into possible collusion, lamented asking Sessions to lead the Justice Department,
+  and suggested that the probe would have been shut down by now if Sessions had not
+  recused himself; Mueller''s team accused Paul Manafort of felony witness tampering;
+  McConnell canceled most of the Senate''s August recess; and Betsy DeVos told lawmakers
+  that the White House''s school safety commission will not examine the role of guns
+  in school violence. '
+---
+
+1/ **Trump blamed Jeff Sessions for the ongoing Russia investigation into possible collusion**, lamented asking Sessions to lead the Justice Department, and suggested that the probe would have been shut down by now if Sessions had not recused himself. In a tweet, Trump said the "Russian Witch Hunt Hoax continues, all because Jeff Sessions didn't tell me he was going to recuse himself." ([Washington Post](https://www.washingtonpost.com/politics/trump-blames-sessions-for-russia-probe-suggests-he-could-have-shut-it-down/2018/06/05/19023474-68b2-11e8-bf8c-f9ed2e672adf_story.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia/pressure-builds-on-attorney-general-sessions-as-trump-pours-on-blame-idUSKCN1J11R3) / [Politico](https://www.politico.com/story/2018/06/05/trump-sessions-mueller-russia-624181))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1003962584352030720 %}
+
+* **Trump demanded to know "what is taking so long" in the release of the Justice Department inspector general's report into the FBI's investigation into Hillary Clinton's use of a private email server**. He complained about "numerous delays" and said he hopes it's not being "made weaker." ([Politico](https://www.politico.com/story/2018/06/05/trump-depose-summer-zervos-lawsuit-624186) / [The Guardian](https://www.theguardian.com/us-news/2018/jun/05/donald-trump-slams-justice-department-delays-clinton-email-inquiry) / [Washington Post](https://www.washingtonpost.com/politics/trump-asks-why-justice-department-report-on-handling-clinton-email-probe-is-taking-so-long/2018/06/05/2bfd15c2-68a7-11e8-bf8c-f9ed2e672adf_story.html))
+
+* {% twitter https://twitter.com/realDonaldTrump/status/1003949263481696256 %}
+
+* **George Papadopoulos' wife asked Trump to pardon her husband**, who pleaded guilty last year to lying to the FBI about his contacts with Russians. ([The Hill](http://thehill.com/blogs/blog-briefing-room/390689-papadpoulos-wife-asks-trump-to-pardon-her-husband-in-mueller-probe))
+
+* **The Trump administration ended its effort to appoint the Justice Department's No. 3 official** after at least two potential candidates said they weren't interested in the position. The associate attorney general position would be responsible for overseeing the Mueller probe if Rod Rosenstein were to depart. ([Wall Street Journal](https://www.wsj.com/articles/trump-administration-sidelines-effort-to-appoint-justice-department-no-3-1528208396))
+
+2/ **Robert Mueller's team accused Paul Manafort of felony witness tampering** in his federal tax and money laundering case. Prosecutors say Manafort attempted to contact witnesses by phone through an intermediary and through an encrypted messaging program in order to "suborn perjury," otherwise known as trying to convince someone to lie under oath. ([New York Times](https://www.nytimes.com/2018/06/04/us/politics/paul-manafort-mueller-witness-tampering.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort/manafort-attempted-to-tamper-with-potential-witnesses-u-s-special-counsel-idUSKCN1J1043) / [The Atlantic](https://www.theatlantic.com/politics/archive/2018/06/paul-manafort-loses-his-cool/562034/))
+
+3/ **A federal judge scheduled a hearing for June 15 on whether to revoke bail for Manafort** for allegedly trying to tamper with potential witnesses while on a $10 million pretrial release. Judge Amy Berman is expected to rule on whether Manafort will have to go to jail pending his trial or whether the terms of his bail are further restricted. ([NBC News](https://www.nbcnews.com/politics/politics-news/prosecutors-ask-judge-revoke-paul-manafort-s-bail-mueller-investigation-n880031) / [CNBC](https://www.cnbc.com/2018/06/05/paul-manafort-freedom-at-risk-after-mueller-alleges-witness-tampering.html))
+
+4/ **Putin claimed that he and Trump have a close working relationship and "regularly talk over the phone."** When asked why there has not been a bilateral summit between Putin and the Trump administration, he said "this is the result of the ongoing acute political struggle in the United States." Putin continued: "Indeed, Donald Trump and I have, firstly, met more than once at various international venues and secondly, we regularly talk over the phone." ([Axios](https://www.axios.com/putin-brags-close-donald-trump-relationship-888b6bfa-bcb3-4a54-97c5-b5b7ba4a4882.html) / [Kremlin Presidential Executive Office](http://en.kremlin.ru/events/president/news/57675))
+
+5/ **Mitch McConnell canceled most of the Senate's August recess** due to "the historic obstruction by Senate Democrats of the president's nominees, and the goal of passing appropriations bills prior to the end of the fiscal year." The move will keep Democrats up for re-election off the campaign trail while pushing through confirmations for as many of Trump's judicial and executive branch nominees as possible. ([CNBC](https://www.cnbc.com/2018/06/05/mitch-mcconnell-says-senates-august-recess-is-canceled.html) / [Axios](https://www.axios.com/mitch-mcconnell-cancels-august-recess-1528219488-5e059e36-37ff-4f25-92b8-915cb78bf0eb.html) / [Politico](https://www.politico.com/story/2018/06/05/mcconnell-cancels-most-of-august-recess-625905))
+
+6/ **A New York state judge has ruled that Trump can be deposed in a defamation lawsuit brought last year by Summer Zervos**, the former contestant on "The Apprentice" who accused Trump of kissing and groping her. The judge set a Jan. 31, 2019, deadline for discovery in the lawsuit and ordered both parties to submit to depositions. Zervos sued Trump for defamation after he called her accusations "100% false" and began calling her "phony people coming up with phony allegations." ([Politico](https://www.politico.com/story/2018/06/05/trump-depose-summer-zervos-lawsuit-624186) / [BuzzFeed News](https://www.buzzfeed.com/maryanngeorgantopoulos/simmer-zervos-deadline-trump-deposition) / [The Hill](http://thehill.com/homenews/administration/390744-new-york-judge-rules-defamation-suit-against-trump-can-move-forward))
+
+7/ **Trump canceled the Philadelphia Eagles planned White House visit** to celebrate their Super Bowl championship less than 24 hours before the players were expected to arrive. Several Eagles players said they would skip the ceremony. Trump had "insist\[ed\] that they proudly stand for the National Anthem, hand on heart." ([Philly.com](http://www.philly.com/philly/sports/eagles/trump-eagles-white-house-cancellation-20180604.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-disinvites-philadelphia-eagles-from-white-house-visit-citing-national-anthem-dispute/2018/06/04/d23ffa84-684e-11e8-bbc5-dc9f3634fa0a_story.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1003832766511894528 %}
+
+* **LeBron James said neither the Cleveland Cavaliers nor the Golden State Warriors want an invite to the White House**. "I know no matter who wins this series, no one wants an invite anyway. It won't be Cleveland or Golden State going." Golden State Warriors head coach Steve Kerr added that "it will be nice when things get back to normal in three years." LeBron called Trump a "bum" last year after Trump disinvited Stephen Curry and the Warriors from the White House. ([CBS Boston](http://boston.cbslocal.com/2018/06/05/lebron-james-says-both-cavaliers-and-warriors-dont-want-invite-from-donald-trump-to-white-house/) / [The Hill](http://thehill.com/blogs/blog-briefing-room/390793-warriors-coach-hits-trump-on-eagles-snub-it-will-be-nice-when-things))
+
+8/ **Betsy DeVos told lawmakers that the White House's school safety commission will not examine the role of guns in school violence**, saying "that is not part of the commission's charge, per se." Trump established the Federal Commission on School Safety in the wake of the shooting at Marjory Stoneman Douglas High School in Parkland, Fla. to "study and make recommendations" on a variety of topics, including age restrictions for certain gun purchases." ([Associated Press](https://apnews.com/c8f50f582d774699822985a2af44b612) / [Politico](https://www.politico.com/story/2018/06/05/trump-school-safety-guns-betsy-devos-1343451) / [The Hill](http://thehill.com/homenews/administration/390770-devos-safety-commission-wont-look-at-role-of-guns-in-school-violence))
+
+{% twitter https://twitter.com/cspan/status/1004029766272311297 %}
+
+poll/ **Overall 68% of Americans feel worn out by the news these days**. 62% of those who follow the news most of the time report feeling fatigued by the news, while 78% of those who follow the news less often report being worn out. 34% say they follow the news only when something important is happening. ([Pew Research Center](http://www.pewresearch.org/fact-tank/2018/06/05/almost-seven-in-ten-americans-have-news-fatigue-more-among-republicans/))
+
+* 👋 **The antidote to news fatigue**. Share the gift of WTF Just Happened Today with a friend or family members. [Subscribe for free here](https://whatthefuckjusthappenedtoday.com/subscribe/).
+
+---
+
+## Notables.
+
+1. **Hundreds of migrant children have spent more than the legal maximum of 72 hours in custody at U.S. border stations.** Border agents and child welfare workers are running out of space to keep the children who have been separated from their parents at the border under the Trump administration's "zero tolerance" policy. ([NBC News](https://www.nbcnews.com/news/us-news/hundreds-migrant-kids-separated-parents-are-stuck-border-stations-n878696))
+
+2. **The Justice Department will appeal a ruling that Trump can't block people on Twitter based on their political views.** The seven original plaintiffs in the suit against Trump have had their accounts unblocked, but the DOJ will still contest the ruling in federal appeals court. ([Reuters](https://www.reuters.com/article/us-usa-trump-twitter/u-s-appeals-ruling-that-trump-could-not-block-twitter-followers-idUSKCN1J1078))
+
+3. **David Koch will retire from Koch Industries** and other Koch-affiliated groups due to health reasons. Koch was diagnosed with prostate cancer more than two decades ago. ([CNBC](https://www.cnbc.com/2018/06/05/billionaire-david-koch-to-retire-from-koch-industries-political-group.html) / [New York Times](https://www.nytimes.com/2018/06/05/us/politics/david-koch-steps-down.html))
+
+4. **Scott Pruitt had an EPA aide arrange a meeting for his wife about becoming a Chick-fil-A franchisee**. Pruitt's wife "started, but did not complete, the Chick-fil-A franchisee application," a company representative said. ([Washington Post](https://www.washingtonpost.com/national/health-science/scott-pruitt-enlisted-an-epa-aide-to-help-his-wife-find-a-job--at-chick-fil-a/2018/06/05/b798e4e4-5eac-11e8-9ee3-49d6d4814c4c_story.html))
+
+5. **Melania Trump made her first public appearance** since surgery for a kidney ailment in mid-May. ([ABC News](https://abcnews.go.com/Politics/melania-trump-makes-appearance-surgery-white-house-event/story?id=55651023))
+
+6. **Sarah Huckabee Sanders called herself "an honest person" while refusing to correct her August 2017 statement** that Trump wasn't involved in drafting a misleading statement about Trump Jr.'s meeting with a Russian lawyer at Trump Tower. ([Politico](https://www.politico.com/story/2018/06/05/sarah-huckabee-sanders-im-an-honest-person-625914) / [CNN](https://www.cnn.com/2018/06/05/politics/sarah-sanders-refuses-white-house/index.html))

@@ -1,0 +1,99 @@
+---
+title: Day 508
+date: 2018-06-11 10:39:00 -07:00
+description: Sobering and a bit depressing.
+image: "/uploads/508.jpg"
+todayInOneSentence: Trump refused to endorse the G7 statement, threatened to impose
+  tariffs on foreign auto imports, and accused Justin Trudeau of being "meek," "very
+  dishonest and weak"; Trump's economic adviser accused Justin Trudeau of "betrayal"
+  for making Trump look weak before his summit with North Korean leader Kim Jong-Un;
+  Jeff Sessions ordered immigration judges to stop granting asylum to most victims
+  of domestic abuse and gang violence; and Trump will leave the North Korea summit
+  a day early because nuclear negotiations have moved "more quickly than expected."
+---
+
+1/ **Trump refused to endorse the G7 statement, threatened to impose tariffs on foreign auto imports, and accused Justin Trudeau of being "meek," "very dishonest and weak"** after Canada's prime minister pledged to retaliate against U.S. tariffs on steel and aluminum products. In a pair of tweets aboard Air Force One, Trump said he believes that countries are ripping off the U.S. through high tariffs and threatened to stop all trade with any country that did not lower or eliminate tariffs. The pair of tweets came hours after Trump and European leaders had agreed on a joint communiqué, which included a pledge to engage in "free, fair, and mutually beneficial trade and investment." ([Washington Post](https://www.washingtonpost.com/politics/trump-attacks-canada-to-show-north-korea-hes-strong-aide-says/2018/06/10/afc16c0c-6cba-11e8-bd50-b80389a4e569_story.html?utm_term=.ce195ce33dd7) / [New York Times](https://www.nytimes.com/2018/06/09/world/americas/donald-trump-g7-nafta.html) / [Wall Street Journal](https://www.wsj.com/articles/donald-trump-pitches-tariff-free-trade-zone-to-g-7-allies-1528556581) / [NBC News](https://www.nbcnews.com/politics/white-house/trump-pulls-u-s-out-g-7-communique-accuses-trudeau-n881761))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1005586562959093760 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1005586152076689408 %}
+
+* **Trump delivered "a long, frank rant" to trade allies** at the G7 that the United States has been treated unfairly by its trading partners. ([Reuters](https://www.reuters.com/article/us-g7-summit-mood/one-rant-rough-talks-sour-g7-mood-in-confrontations-with-trump-idUSKCN1J50X6))
+
+* {% twitter https://twitter.com/ABCPolitics/status/1006197378855129091 %}
+
+* **German chancellor Angela Merkel said Europe will implement counter-measures against U.S. tariffs on steel and aluminum**. Merkel characterized Trump's Twitter withdrawal as "sobering and a bit depressing." ([Reuters](https://www.reuters.com/article/us-g7-summit-germany-merkel/eu-will-act-against-u-s-tariffs-on-steel-aluminum-merkel-idUSKBN1J60YV))
+
+* **In April, Trump told French president Emmanuel Macron that the European Union is "worse than China."** In their bilateral meeting in the White House's Cabinet Room, Macron said to Trump, "Let's work together, we both have a China problem." Trump "then went on a rant about Germany and cars." ([Axios](https://www.axios.com/donald-trump-emmanuel-macron-eu-worse-than-china-trade-tariffs-57f53e00-8b5c-4931-9d05-97ee0b510fd5.html))
+
+* **France: Trump's "incoherence and inconsistency" would not upend international cooperation**, said a statement released by French president Macron's office. It added that partnerships "cannot depend on fits of anger or little words. Let us be serious and worthy of our people." ([Politico](https://www.politico.eu/article/macron-trump-g7-france-blasts-incoherent-after-summit-fiasco/))
+
+2/ **Trump's economic adviser accused Justin Trudeau of "betrayal" for making Trump look weak before his summit with North Korean leader Kim Jong-Un**. Trudeau promised to "move forward with retaliatory measures" in response to Trump's decision to impose tariffs on steel and aluminum imports from Canada, the European Union and Mexico. Trudeau called the tariffs "kind of insulting" and saying that Canadians "are nice" but "we will not be pushed around." Larry Kudlow said Trudeau "stabbed us in the back," and that Trump "is not going to let a Canadian prime minister push him around. He is not going to permit any show of weakness on a trip to negotiate with North Korea." Kudlow went on to call Trudeau "amateurish" and "sophomoric." ([New York Times](https://www.nytimes.com/2018/06/10/us/politics/trump-kudlow-g7.html) / [Reuters](https://www.reuters.com/article/us-g7-summit-kudlow/white-house-adviser-says-canadas-trudeau-stabbed-us-in-the-back-cnn-idUSKBN1J60MU) / [CNN](https://www.cnn.com/2018/06/10/politics/larry-kudlow-donald-trump-justin-trudeau/index.html))
+
+* **Trump's "bully" attack on Trudeau outrages Canadians**. "It was extremely undiplomatic and antagonistic," Frank McKenna, a former Canadian ambassador to the United States, said. "It was disrespectful and ill informed." ([New York Times](https://www.nytimes.com/2018/06/10/world/canada/g-7-justin-trudeau-trump.html) / [Washington Post](https://www.washingtonpost.com/world/trudeau-takes-his-turn-as-trumps-principal-antagonist-and-canadians-rally-around/2018/06/10/162edcf8-6cc6-11e8-b4d8-eaf78d4c544c_story.html))
+
+* **Secretary of State Mike Pompeo is "unconcerned" about the diplomatic crisis caused by Trump's insults directed at the Canadian prime minister**, saying "there are always irritants in relationships." ([Washington Post](https://www.washingtonpost.com/politics/pompeo-on-trumps-diplomatic-crisis-there-are-always-irritants-in-relationships/2018/06/11/78e56a54-6d5e-11e8-bf86-a2351b5ece99_story.html))
+
+3/ **White House trade adviser Peter Navarro: "There's a special place in hell" for Trudeau and world leaders who double cross Trump**. "And that's what bad-faith Justin Trudeau did with that stunt press conference." When asked whether the president agreed, Navarro said the sentiment came "right from Air Force One." ([Politico](https://www.politico.com/story/2018/06/10/special-place-hell-trump-trudeau-navarro-635100))
+
+* **Putin: Criticism of Russia's "so-called destabilizing efforts" in the West is "unfounded,"** and that "this creative babbling" by world leaders has so far "led to nothing." Putin said he'd welcome a meeting with Trump. ([Politico](https://www.politico.eu/article/vladimir-putin-says-g7-criticism-is-babbling-happy-to-hold-talks-with-donald-trump-us/))
+
+4/ **Jeff Sessions ordered immigration judges to stop granting asylum to most victims of domestic abuse and gang violence**. The move effectively blocks tens of thousands of people – women in particular – from seeking refuge in America. Sessions ruled that a 2014 Board of Immigration Appeals decision protecting women from Central America from domestic violence was wrongly decided, saying victims of "private" crimes like domestic violence do not qualify for asylum. Immigration courts are housed under the Justice Department – not the judiciary branch – which means Sessions has the authority to refer cases to himself and overturn earlier decisions. ([New York Times](https://www.nytimes.com/2018/06/11/us/politics/sessions-domestic-violence-asylum.html) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-sessions-asylum-20180611-story.html) / [CNN](https://www.cnn.com/2018/06/11/politics/jeff-sessions-asylum-decision/index.html))
+
+5/ **Trump will leave the North Korea summit a day early because nuclear negotiations have moved "more quickly than expected."** The White House said Trump and Kim Jong Un will hold a one-on-one meeting, accompanied only by translators, followed by a "working lunch" with an expanded group of officials. Secretary of State Mike Pompeo lowered expectations, saying the summit might yield little in the way of concrete success. ([Associated Press](https://apnews.com/f4a5201ceceb44f896e2e497537ba116/Trump-to-leave-summit-early-_-after-meeting-with-Kim) / [Politico](https://www.politico.com/story/2018/06/11/trump-kim-jong-un-meeting-635363))
+
+* 🔮 **Live Updates**: Trump will meet Kim Jong Un at 9 a.m. on Tuesday — 9 p.m. Eastern on Monday in the first-ever meeting between leaders of their two countries. ([New York Times](https://www.nytimes.com/2018/06/11/world/asia/trump-kim-live-updates.html) / [CNN](https://www.cnn.com/politics/live-news/trump-kim-jong-un-meeting-summit/h_8b7751d91bd6357c2898e0b3f1e1a6ab))
+
+* **Trump will not bring up human rights issues at the North Korea summit**. Kim Jong Un's country has committed "unspeakable atrocities" on a scale reminiscent of Nazi Germany, according to a 2014 United Nations investigation. ([NBC News](https://www.nbcnews.com/news/north-korea/u-s-won-t-bring-north-korea-s-human-rights-n880986))
+
+* **Trump is willing to consider establishing official relations with North Korea and eventually opening an embassy in Pyongyang**. "It would all depend what he gets in return," said a source close to the White House. "Denuclearization would have to be happening." ([Axios](https://www.axios.com/scoop-trump-open-to-us-embassy-in-pyongyang-north-korea-dff4cd58-5745-4fb0-bd2c-05c5e376d982.html))
+
+* **Sean Hannity will host Trump's first sit-down TV interview** following his summit with North Korea. Hannity is already in Singapore. ([Axios](https://www.axios.com/sean-hannity-scores-trumps-north-korea-interview-23384939-8700-48da-8d0c-14750ab2f817.html))
+
+poll/ **26% of voters think Trump will demand too much to secure a deal with North Korea**. 31% believe Trump will secure a deal that is either fair or better for the U.S. ([NBC News](https://www.nbcnews.com/politics/first-read/nbc-news-wsj-poll-voters-unsure-what-expect-north-korea-n881446))
+
+---
+
+## ✏️ Notables.
+
+ 1. **A federal judge ruled that the Trump and Michael Cohen legal teams cannot secretly object to documents protected by the attorney-client privilege**, which were seized from Cohen during a series of raids by the authorities in April. Judge Kimba Wood ruled that the legal teams had to publicly submit their objections to the special master "except for those portions that divulge 'the substance of the contested documents.'" ([New York Times](https://www.nytimes.com/2018/06/08/nyregion/trump-cohen-secrecy-denied.html))
+
+ 2. **The millionaire businessman who bankrolled the Brexit campaign "met Russian officials multiple times before Brexit vote."** Arron Banks gave about $16 million to the campaign, becoming the biggest donor in UK history. ([The Guardian](https://www.theguardian.com/politics/2018/jun/09/arron-banks-russia-brexit-meeting))
+
+ 3. **Several prominent Russians, including some in Putin's inner circle, met with NRA officials** during the 2016 U.S. election campaign. The contacts have emerged as the Justice Department investigates whether Russian banker and lifetime NRA member Alexander Torshin illegally channeled money through the gun rights group to help Trump's 2016 presidential bid. ([McClatchy DC](http://www.mcclatchydc.com/latest-news/article212756749.html))
+
+ 4. **The Treasury Department has imposed sanctions on five Russian entities and three individuals**, saying they worked with Moscow's intelligence service on ways to conduct cyber attacks against the U.S. and its allies. ([Reuters](https://www.reuters.com/article/us-usa-russia-sanctions/u-s-puts-more-sanctions-on-russians-over-hacking-idUSKBN1J71T5) / [CNN](https://www.cnn.com/2018/06/11/politics/us-russia-cyber-sanctions/index.html))
+
+ 5. **The Supreme Court upheld Ohio's method of purging voters from its voting rolls**. The court ruled that a state may kick people off the rolls if they don't vote in a few elections and fail to respond to notices from election officials. The vote was 5 to 4, with the more conservative justices in the majority. ([Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-upholds-ohios-way-of-removing-voters-from-rolls-after-they-miss-elections/2018/06/11/5013195e-62c4-11e8-a768-ed043e33f1dc_story.html) / [New York Times](https://www.nytimes.com/2018/06/11/us/politics/supreme-court-upholds-ohios-purge-of-voting-rolls.html))
+
+ 6. **The FCC's repeal of net neutrality rules took effect today**. The rules prohibited internet providers such as AT&T, Charter, Comcast and Verizon from charging more for certain content and required providers to treat all web traffic equally. ([New York Times](https://www.nytimes.com/2018/06/11/technology/net-neutrality-repeal.html))
+
+ 7. **A federal judge is set to rule on Tuesday on whether AT&T can buy Time Warner for $85 billion**, which was announced in October 2016. AT&T is the country's second-largest wireless network and would gain content trove from Time Warner, which includes HBO and CNN. The Justice Department, which filed the lawsuit, argued that the consolidation could harm its rivals. ([Washington Post](https://www.washingtonpost.com/business/economy/goodbye-to-net-neutrality-hello-to-an-even-bigger-atandt/2018/06/10/e7c67f56-6cc0-11e8-bf86-a2351b5ece99_story.html))
+
+ 8. **Comcast plans to make an all-cash offer for Twenty-First Century Fox if AT&T's bid for Time Warner is approved**. Comcast is preparing to raise $60 billion in a deal for Fox while simultaneously pursuing a $31 billion offer for the 61% of Sky that Fox doesn't already own. ([CNBC](https://www.cnbc.com/2018/06/11/comcast-announcing-fox-bid-on-wednesday-if-att-time-warner-approved.html))
+
+ 9. **Betsy DeVos reinstated a for-profit college accreditor a month after an Education Department report said the organization failed to meet federal standards**. The Accrediting Council for Independent Colleges and Schools failed to meet 57 of the 93 criteria that accreditors are required to meet under federal law. ([Politico](https://www.politico.com/story/2018/06/09/devos-for-profit-college-accreditor-report-611935))
+
+10. **Nearly 1,800 immigrant families were separated at the U.S.-Mexico border from October 2016 through February of this year**. ([Reuters](https://www.reuters.com/article/us-usa-immigration-children-exclusive/exclusive-nearly-1800-families-separated-at-u-s-mexico-border-in-17-months-through-february-idUSKCN1J42UE))
+
+11. **Trump routinely rips up papers that need to be preserved.** He does it so much that some aides are specifically tasked with taping the papers back together. ([Politico](https://www.politico.com/story/2018/06/10/trump-papers-filing-system-635164) / [New York Post](https://nypost.com/2018/06/10/trump-routinely-rips-up-papers-that-need-to-be-preserved/))
+
+12. **Several West Wing aides, including John Kelly, are said to be eyeing the exits** as Trump has grown more emboldened to act on instinct alone. Kelly told visiting senators last week that the White House was "a miserable place to work." ([New York Times](https://www.nytimes.com/2018/06/10/us/politics/trump-turnover.html))
+
+---
+
+## 👀 Watching.
+
+*A list of stories I'm keeping an eye on.*
+
+{% onebox https://www.nytimes.com/2018/06/10/us/politics/trump-trudeau-summit-g7-north-korea.html %}
+
+{% onebox https://www.cnn.com/2018/06/09/politics/trump-g7-tariffs-trade/index.html %}
+
+{% onebox https://www.nytimes.com/2018/06/11/world/asia/trump-kim-summit.html %}
+
+{% onebox https://www.nytimes.com/2018/06/09/climate/trump-administration-science.html %}
+
+{% onebox https://www.washingtonpost.com/news/politics/wp/2018/06/10/mothers-could-not-stop-crying-officials-blast-trump-policy-after-visiting-detained-immigrants/ %}
+
+💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

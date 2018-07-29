@@ -1,0 +1,50 @@
+---
+title: Day 468
+date: 2018-05-02 10:08:00 -07:00
+description: A setup and a trap.
+image: "/uploads/468.jpg"
+---
+
+1/ **Robert Mueller warned Trump's legal team that he could subpoena the president to appear before a grand jury if he refuses to speak to federal investigators** involved in the Russia probe. Mueller raised the possibility of a subpoena during a tense meeting in March after Trump's attorneys insisted that Trump was under no obligation to speak with investigators. Unlike an interview with the special counsel, Trump would not be allowed to bring his lawyers to a grand jury hearing. ([Washington Post](https://www.washingtonpost.com/politics/mueller-raised-possibility-of-presidential-subpoena-in-meeting-with-trumps-legal-team/2018/05/01/2bdec08e-4d51-11e8-af46-b1d6dc0d9bfe_story.html?utm_term=.37a657b7e0c9))
+
+2/ **Trump's current legal team lacks the security clearances required to discuss sensitive issues during a presidential sit-down with Mueller**. Trump's former attorney John Dowd was the only person on Trump's legal team with the proper clearance – he resigned in March. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-05-02/trump-lawyers-said-to-lack-security-clearance-amid-mueller-talks))
+
+3/ **Trump plans to add Bill Clinton's impeachment lawyer to his legal team** and replace Ty Cobb, who will leave at the end of May. Cobb has been the lead lawyer representing Trump in the special counsel investigation. Emmet Flood is expected to take a more adversarial approach to the Mueller investigation than Cobb. ([New York Times](https://www.nytimes.com/2018/05/02/us/politics/emmet-flood-ty-cobb-white-house-lawyer-special-counsel.html))
+
+4/ **Ty Cobb said a Trump interview with Mueller is "certainly not off the table."** Rudy Giuliani added Trump's legal team was still "several weeks away" from determining whether Trump would sit for an interview with Mueller.  He also said that the White House needs to be "more aggressive" with the special counsel, saying that a potential interview would be "max, two to three hours around a narrow set of questions." Cobb added that he has "no doubt" Mueller didn't leak the list of 49 questions for Trump. ([ABC News](http://abcnews.go.com/Politics/exclusive-ty-cobb-special-counsel-interview-trump-off/story?id=54878028) / [Washington Post](https://www.washingtonpost.com/politics/white-house-lawyer-ty-cobb-is-exiting-and-will-be-replaced-by-clinton-impeachment-attorney-emmet-flood/2018/05/02/96da63b8-4e26-11e8-84a0-458a1aa9ac0a_story.html) / [The Hill](http://thehill.com/homenews/administration/385912-exclusive-giuliani-says-decision-on-trump-mueller-interview-several))
+
+5/ **Trump threatened to "get involved" in the "rigged system" over the Justice Department's ongoing dispute with the House Freedom Caucus** about a memo outlining the topics being investigated by Robert Mueller. "There was no Collusion (it is a Hoax)," Trump tweeted, "and there is no Obstruction of Justice (that is a setup and trap)." ([Bloomberg](https://www.bloomberg.com/news/articles/2018-05-02/trump-may-get-involved-in-house-republicans-rift-with-doj) / [Washington Post](https://www.washingtonpost.com/world/national-security/trump-calls-justice-department-rigged-threatens-action/2018/05/02/6a568608-4e19-11e8-b725-92c89fe3ca4c_story.html) / [CNN](https://www.cnn.com/2018/05/02/politics/donald-trump-justice-department/index.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/991644756995444736 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/991669454823141376 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/991690248399794176 %}
+
+6/ **Trump dictated his 2015 glowing letter of health**, his personal physician, Dr. Harold Bornstein, claimed. "He dictated that whole letter. I didn't write that letter," Bornstein said. "I just made it up as I went along." The letter claimed, among other things, that Trump's "physical strength and stamina are extraordinary" and "If elected, Mr. Trump, I can state unequivocally, will be the healthiest individual ever elected to the presidency." ([CNN](https://www.cnn.com/2018/05/01/politics/harold-bornstein-trump-letter/index.html))
+
+7/ **Cambridge Analytica is shutting down and will file for bankruptcy** following mounting legal fees in the Facebook investigation. Cambridge Analytica's CEO called the current environment "futile" due to the company's damaged reputation and a loss of clients from the ongoing investigations into the company's data harvesting scandal that compromised the information of up to 87 million people. ([Gizmodo](https://gizmodo.com/cambridge-analytica-just-shut-down-all-its-us-offices-1825698536) / [Wall Street Journal](https://www.wsj.com/articles/cambridge-analytica-closing-operations-following-facebook-data-controversy-1525284140) / [New York Times](https://www.nytimes.com/2018/05/02/us/politics/cambridge-analytica-shut-down.html))
+
+poll/ **61% of Americans think Trump regularly has trouble telling the truth**. 76% of Republicans, however, believe Trump tells the truth all or most of the time. ([NBC News](https://www.nbcnews.com/politics/politics-news/poll-republicans-who-think-trump-untruthful-still-approve-him-n870521))
+
+poll/ **62% of voters say the Trump administration is being run chaotically**. 68% of Republicans say the Trump administration is running well. ([Politico](https://www.politico.com/story/2018/05/02/trump-chaos-poll-563170))
+
+---
+
+### Notables.
+
+1. **Mueller's office wants to wait two more months before sentencing Michael Flynn**, who is cooperating with the special counsel after pleading guilty to lying to investigators. "Due to the status of the special counsel's investigation," Mueller's team told the court, "the parties do not believe that this matter is ready to be scheduled for a sentencing hearing at this time." ([CNN](https://www.cnn.com/2018/05/01/politics/michael-flynn-sentencing/index.html))
+
+2. **Ukraine stopped cooperating with Mueller regarding Paul Manafort at the same time the Trump administration was finalizing plans to sell the country anti-tank missiles**. Ukrainian law enforcement also allowed Konstantin Kilimnika, a potential witness to possible collusion between the Trump campaign and Russia, to leave for Russia, putting him out of reach for questioning. ([New York Times](https://www.nytimes.com/2018/05/02/world/europe/ukraine-mueller-manafort-missiles.html))
+
+3. **Iowa lawmakers passed the nation's most restrictive abortion legislation**, which would ban most abortions once a fetal heartbeat is detected – before some women even know they're pregnant. The bill now heads to Republican Gov. Kim Reynolds, who is anti-abortion but hasn't said publicly if she will sign it into law. ([NBC News](https://www.nbcnews.com/politics/politics-news/heartbeat-bill-iowa-lawmakers-pass-most-restrictive-abortion-legislation-n870686))
+
+4. **Planned Parenthood and two other reproductive rights groups are suing the Trump administration to block a "radical shift" in the federal Title X program**. The changes would put the health of millions of low-income patients at risk by prioritizing practices such as the rhythm method over comprehensive sexual health services. ([NPR](https://www.npr.org/2018/05/02/604153496/planned-parenthood-sues-to-block-trumps-radical-shift-in-family-planning-program))
+
+5. **A former contestant on "The Apprentice" is suing Trump for defamation after he called her a liar for accusing him of sexual assault**. Summer Zervos was among the more than 10 women who came forward during the 2016 presidential campaign and accused Trump of sexual assault and misconduct. He denied all of their claims. ([New York Times](https://www.nytimes.com/2018/05/02/nyregion/summer-zervos-trump-apprentice.html))
+
+6. **Trump has asked a federal court to dismiss a lawsuit accusing him of violating the Constitution's Emoluments Clause**, which bars officials from accepting gifts or other payments from foreign governments without congressional approval. Trump is asking the judge to dismiss the complaint against him as an individual. ([Reuters](https://www.reuters.com/article/us-usa-trump-emoluments/trump-claims-immunity-asks-court-to-toss-foreign-payments-suit-idUSKBN1I31Y6) / [CNN](https://www.cnn.com/2018/05/01/politics/trump-emoluments-lawsuit/index.html))
+
+7. **Pence called Joe Arpaio a champion of "the rule of law."** Trump pardoned Arpaio last year after his contempt of court conviction for ignoring a federal judge's order to stop detaining people because he merely suspected them of being undocumented immigrants. ([Washington Post](https://www.washingtonpost.com/politics/a-champion-of-the-rule-of-law-pence-praises-pardoned-arizona-sheriff-joe-arpaio/2018/05/02/b8ae812c-4e0d-11e8-84a0-458a1aa9ac0a_story.html))
+
+8. **A group of House of Representatives formally nominated Trump for a Nobel Peace Prize** for his work to end the Korean War and bring peace to the peninsula. ([CNN](https://www.cnn.com/2018/05/02/politics/nobel-peace-prize-republicans/index.html))

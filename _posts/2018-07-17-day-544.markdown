@@ -1,0 +1,56 @@
+---
+title: Day 544
+date: 2018-07-17 11:16:00 -07:00
+description: Strange and uncertain times.
+image: "/uploads/544.jpg"
+todayInOneSentence: Trump backtracked and tried to spin his Helsinki comments by claiming
+  he misspoke;  Trump tweeted that his meeting with Putin was "even better" than his
+  meeting with NATO allies; Obama called these "strange and uncertain" times; the
+  Treasury will no longer require nonprofits like the NRA to identify their financial
+  donors to the IRS;  and Mueller requested immunity for five potential witnesses
+  in Paul Manafort's trial.
+---
+
+1/ **Trump backtracked and tried to spin his Helsinki summit comments**. Reading from prepared remarks, Trump claimed he misspoke yesterday and meant to say "I don't see any reason why it wouldn't be Russia" that interfered in the election. Trump also said "I accept" the intelligence community's conclusion that Russia meddled in the 2016 election, but it "could be other people also." Trump asserted that "Russia's actions had no impact at all" on the election outcome. During yesterday's news conference, Trump said he doesn't "see any reason" why Russia would have meddled during the last election. Prior to that, Trump blamed the U.S. for acting with "foolishness and stupidity" toward Russia in the past. Trump also rejected the consensus of U.S. intelligence agencies that Russia interfered in the 2016 presidential election. Instead, Trump said he believed Putin's denial. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-07-17/trump-says-he-accepts-intelligence-conclusion-that-russia-meddled-in-2016-election) / [CNBC](https://www.cnbc.com/2018/07/17/trump-election-meddling-took-place-but-russian-actions-had-no-impact.html) / [Wall Street Journal](https://www.wsj.com/articles/trump-stands-by-his-positive-read-of-putin-summit-amid-criticism-1531847452) / [New York Times](https://www.nytimes.com/2018/07/17/world/europe/trump-putin-summit.html) / [Washington Post](https://www.washingtonpost.com/politics/growing-number-in-gop-call-for-trump-to-fix-the-damage-from-helsinki-news-conference/2018/07/17/7ea15178-8902-11e8-8aea-86e88ae760d8_story.html))
+
+* **The top voting machine maker admitted to installing remote-access software on election-management systems from 2000 to 2006 it sold in the U.S.** In a letter sent to Sen. Ron Wyden in April 2018, Election Systems and Software admitted that it had "provided pcAnywhere remote connection software … to a small number of customers between 2000 and 2006." The statement contradicts previous claims by the company in February that "none of the employees, … including long-tenured employees, has any knowledge that our voting systems have ever been sold with remote-access software." ([Motherboard](https://motherboard.vice.com/en_us/article/mb4ezy/top-voting-machine-vendor-admits-it-installed-remote-access-software-on-systems-sold-to-states))
+
+2/ **Trump tweeted that his meeting with Putin was "even better" than his "great meeting with NATO" allies** while blaming the media for being "rude" and "going Crazy!" ([Washington Post](https://www.washingtonpost.com/politics/growing-number-in-gop-call-for-trump-to-fix-the-damage-from-helsinki-news-conference/2018/07/17/7ea15178-8902-11e8-8aea-86e88ae760d8_story.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-07-17/trump-s-putin-defense-proves-too-much-for-some-republicans) / [Reuters](https://www.reuters.com/article/us-usa-russia-summit/rebuking-trumps-embrace-of-putin-u-s-lawmakers-look-to-punish-russia-idUSKBN1K722N))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1019218575691837443 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1019225830298456066 %}
+
+* **Senate Minority Leader Charles Schumer called on Republicans to "immediately" convene a public hearing and "demand testimony" from Trump's national security team** "to assess what President Trump might have committed to President Putin in secret." ([CNN](https://www.cnn.com/2018/07/17/politics/chuck-schumer-hearing-russia-news-conference/index.html) / [The Hill](http://thehill.com/homenews/senate/397450-schumer-demands-public-hearing-on-what-trump-might-have-committed-to-putin))
+
+* **Mitch McConnell suggested the Senate might move forward on new sanctions against Russia** following Trump's meeting with Putin. ([Politico](https://www.politico.com/story/2018/07/17/russia-sanctions-mcconnell-senate-727565))
+
+* **Paul Ryan would consider additional sanctions on Russia**, saying that "Russia is a menacing government that does not share our interests and it does not share our values." ([Reuters](https://www.reuters.com/article/us-usa-russia-summit-ryan/house-may-consider-new-sanctions-on-russia-speaker-ryan-idUSKBN1K71UW))
+
+* **A Southeast Ohio county GOP chairman resigned in protest over Trump's meeting and press conference with Putin.** Chris Gagin announced his resignation on Twitter: "I remain a proud conservative and Republican, but I resigned today as Belmont Co Ohio GOP Chairman. I did so as a matter of conscience, and my sense of duty." ([Newsweek](https://www.newsweek.com/ohio-gop-leader-resigns-protest-over-trump-putin-summit-its-matter-conscience-1027719))
+
+* **Protests erupted outside the White House as Trump returned from Helsinki, with dozens of demonstrators chanting "Traitor! Traitor!"** until late into the night. The impromptu protest was dubbed #OccupyLafayettePark, and some protesters say they plan to remain outside the White House until Trump resigns. ([The Hill](http://thehill.com/homenews/news/397356-protests-erupt-outside-of-white-house-as-trump-returns-from-putin-summit))
+
+3/ **Obama on Trump: "Those in power seek to undermine every institution or norm that gives democracy meaning."** Obama, delivering the 2018 Nelson Mandela Annual Lecture in Johannesburg, warned that "strongman politics are ascending suddenly, whereby elections, some pretense of democracy, are maintained, the form of it." He added that these are "strange and uncertain" times. ([ABC News](https://abcnews.go.com/Politics/obama-give-speech-south-africa-commemorate-nelson-mandelas/story?id=56619879) / [The Hill](http://thehill.com/homenews/news/397410-obama-those-in-power-are-trying-to-undermine-every-institution-or-norm-that))
+
+4/ **The U.S. Treasury will no longer require nonprofits like the NRA, Koch network's Americans for Prosperity, and Planned Parenthood to identify their financial donors to the IRS**. Super PACS and other 501(c)(4) organizations will no longer have to provide the IRS with the names of donors who give them $5,000 or more. Critics said the measure increases the likelihood of illegal donations of "dark money" from both domestic and foreign contributors. ([Reuters](https://www.reuters.com/article/us-usa-tax-groups/u-s-treasury-moves-to-protect-identities-of-dark-money-political-donors-idUSKBN1K704F) / [New York Times](https://www.nytimes.com/2018/07/17/us/politics/irs-will-no-longer-force-kochs-and-other-groups-to-disclose-donors.html) / [CNN](https://www.cnn.com/2018/07/17/politics/treasury-irs-donor-lists/index.html))
+
+5/ **Robert Mueller requested immunity for five potential witnesses in Paul Manafort's trial** on charges of bank fraud, conspiracy to commit bank fraud, and tax crimes that is due to begin July 25 in Alexandria, Virginia. Mueller didn't identify the witnesses, but said the five would invoke their constitutional right against self-incrimination and remain silent unless Judge T.S. Ellis III grants them immunity. ([CNBC](https://www.cnbc.com/2018/07/17/mueller-asks-for-immunity-for-five-witnesses-in-manafort-case.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-07-17/mueller-asks-manafort-judge-to-give-immunity-to-five-witnesses) / [Washington Post](https://www.washingtonpost.com/local/public-safety/special-counsel-offers-immunity-to-five-witnesses-for-paul-manafort-trial/2018/07/17/c52f3774-89f5-11e8-85ae-511bc1146b0b_story.html))
+
+* \[Speculation\] **Several legal experts think Manafort could be cutting a plea deal** after the judge overseeing the federal court case delayed a hearing to discuss postponing the trial and moving the venue. According to court documents, no party had submitted a request for such a delay. ([Law and Crime](https://lawandcrime.com/high-profile/legal-experts-say-manafort-could-be-cutting-plea-deal-as-judge-suddenly-delays-proceedings/amp/) / [Politico](https://www.politico.com/story/2018/07/17/mueller-russia-probe-manafort-witnesses-immunity-727492))
+
+---
+
+## Notables.
+
+1. **The 20-foot-tall inflatable "Trump Baby" blimp is coming to America** for a nationwide tour starting in August. ([NBC News](https://www.nbcnews.com/news/us-news/trump-baby-protest-blimp-coming-america-n891891))
+
+2. **Trump plans to give Air Force One a "red, white, and blue" makeover** after negotiating a $3.9 billion "fixed price contract" with Boeing for the planes. The current baby blue color scheme dates back to John F. Kennedy. ([CBS News](https://www.cbsnews.com/news/trump-air-force-one-getting-makeover/))
+
+3. **The U.S. Embassy in Jerusalem will cost almost 100 times more than Trump claimed in March.** "They put an order in front of my desk last week for $1 billion," Trump claimed at the time, "We’re actually doing it for about $250,000, so check that out." But a Maryland construction firm has now been awarded a $21.2 million contract to design and build "compound security upgrades" at the embassy. ([Newsweek](https://www.newsweek.com/us-jerusalem-embassy-cost-100-times-more-trump-claimed-1027644))
+
+4. **The federal government spent more than $65,000 at Trump's Turnberry golf club** and resort in Scotland during his visit to the UK. ([The Scotsman](https://www.scotsman.com/news/politics/donald-trump-s-turnberry-firm-paid-50-000-by-us-government-for-weekend-visit-1-4770069))  
+
+5. **Federal Reserve Chairman Jerome Powell said there's "a rising chorus of concern" from business over Trump's tariffs** and that "countries that have gone in a more protectionist direction have done worse." ([CNBC](https://www.cnbc.com/2018/07/17/powell-countries-that-levy-tariffs-have-done-worse-over-time.html))
+
+6. **The White House's mid-year budget projections see the federal deficit crossing $1 trillion in 2019**. Previous estimates from the nonpartisan Congressional Budget Office forecasted the deficit to near $1 trillion in 2019, but not pass it until 2020. ([The Hill](http://thehill.com/homenews/administration/397445-white-house-budget-projects-1-trillion-deficit-in-2019))

@@ -1,0 +1,65 @@
+---
+title: Day 540
+date: 2018-07-13 05:33:00 -07:00
+description: Unwelcome.
+image: "/uploads/540.jpg"
+todayInOneSentence: Rosenstein announced 12 indictments against Russian intelligence
+  officials for hacking the DNC, DCCC, and state boards of elections; Democrats want
+  Trump to cancel his meeting with Putin; Trump said he's open to canceling NATO exercises
+  in the Baltic States if Putin asks; the White House ordered the FBI to hand over
+  more classified information to lawmakers; Trump denied making comments during a
+  recorded interview even though the audio had already been published; and the Trump
+  administration wants the power to hold people in Guantanamo Bay prison for 100 years
+  — without charging them with a crime.
+author: Joe Amditis
+---
+
+1/ **Deputy Attorney General Rod Rosenstein announced that a grand jury returned indictments against 12 Russian intelligence officials on charges of hacking into the DNC, DCCC, and state election offices to steal and release documents in an attempt to influence the 2016 presidential election.** The defendants worked for the Russian intelligence service known as the GRU. They used a tactic called "spearphishing" to trick users into revealing their account information. They used keystroke loggers and other malicious software to obtain account information and access sensitive U.S. computer systems and email accounts, which they later released to the public. ([Washington Post](https://www.washingtonpost.com/world/national-security/rod-rosenstein-expected-to-announce-new-indictment-by-mueller/2018/07/13/bc565582-86a9-11e8-8553-a3ce89036c78_story.html) / [New York Times](https://www.nytimes.com/2018/07/13/us/politics/mueller-indictment-russian-intelligence-hacking.html) / [Daily Beast](https://www.thedailybeast.com/mueller-indicts-12-russian-officers-for-hacking-dems-in-2016) / [BuzzFeed News](https://www.buzzfeed.com/zoetillman/russian-intelligence-officers-have-been-indicted-for?utm_term=.fhew75WlmW#.whW17PDzlD) / [USA Today](https://www.usatoday.com/story/news/politics/2018/07/13/russia-investigation-12-russian-nationals-indicted-2016-hacking/782471002/) / [Law & Crime](https://lawandcrime.com/high-profile/mueller-slaps-12-russians-with-indictments-for-2016-dnc-hack-heres-what-we-know/) / [ABC News](https://abcnews.go.com/Politics/12-russian-intel-officers-indicted-dnc-hacking-mueller/story?id=56564708) / [Politico](https://www.politico.com/story/2018/07/13/mueller-indicts-12-russians-for-hacking-into-dnc-718805))
+
+* **Read the full, searchable text of the indictment.** ([DocumentCloud](https://www.documentcloud.org/documents/4598929-Netyksho-Et-Al-Indictment.html))
+
+* **Pages 2-3:** "Beginning in or around June 2016, the Conspirators staged and released tens of thousands of the stolen emails and documents. They did so using fictitious online personas, including 'DCLeaks' and 'Guccifer 2.0.'"
+
+* **Page 6:** "The object of the conspiracy was to hack into the computers of U.S. persons and entities involved in the 2016 U.S. presidential election, steal documents from those computers, and stage releases of the stolen documents to interfere with the 2016 U.S. presidential election."
+
+* **Page 8:** "Beginning in or around March 2016, the Conspirators, in addition to their spearphishing efforts, researched the DCCC and DNC computer networks to identify technical specifications and vulnerabilities."
+
+* **Page 16:** "The Conspirators, posing as Guccifer 2.0, also communicated with U.S. persons about the release of stolen documents. On or about August 15, 2016, the Conspirators, posing as Guccifer 2.0, wrote to a person who was in regular contact with senior members of the presidential campaign of Donald J. Trump."
+
+* **Page 21:** "Although the Conspirators caused transactions to be conducted in a variety of currencies, including U.S. dollars, they principally used bitcoin when purchasing servers, registering domains, and otherwise making payments in furtherance of hacking activity."
+
+* **Page 25:** Two of the defendants "knowingly and intentionally" conspired to "hack into the computers of U.S. persons and entities responsible for the administration of 2016 U.S. elections, such as state boards of elections, secretaries of state, and U.S. companies that supplied software and other technology related to the administration of U.S. elections."
+
+* **Page 26:** "In or around July 2016, KOVALEV and his co-conspirators hacked the website of a state board of elections ('SBOE 1') and stole information related to approximately 500,000 voters, including names, addresses, partial social security numbers, dates of birth, and driver's license numbers."
+
+{% onebox https://www.nytimes.com/2018/07/15/us/politics/guccifer-russia-mueller.html %}
+
+{% onebox https://www.nytimes.com/2018/07/13/us/politics/mueller-russian-indictment-transcript.html %}
+
+* **Russian hackers went after Hillary Clinton's servers for the first time on the same day Trump said, "Russia, if you’re listening, I hope you're able to find the 30,000 emails that are missing."** ([New York Times](https://www.nytimes.com/2018/07/13/us/politics/trump-russia-clinton-emails.html))
+
+2/ **Top Democrats are calling on Trump to cancel his planned one-on-one meeting with Putin next week in the wake of the indictments against 12 Russian intelligence officials.** “President Trump should cancel his meeting with Vladimir Putin until Russia takes demonstrable and transparent steps to prove that they won’t interfere in future elections,” said Chuck Schumer. Mark Warner, Jack Reed, Dina Titus and others called on Trump to cancel the July 16 summit. House Minority Leader Nancy Pelosi did not echo their calls for cancellation, and instead called on Trump to "demand and secure a real, concrete and comprehensive agreement that the Russians will cease their ongoing attacks on our democracy." ([NBC News](https://www.nbcnews.com/politics/congress/democrats-call-trump-cancel-putin-summit-after-russian-hacking-indictments-n891256) / [The Hill](http://thehill.com/policy/cybersecurity/396926-top-intel-dem-no-one-on-one-trump-meeting-with-putin))
+
+* **Russians tried to hack Clinton's emails on the same day Trump publicly asked them to.** "Russia, if you are listening," Trump said on July 27, 2016, "I hope you are able to find the 30,000 emails that are missing. I think you will probably be rewarded mightily by the press." One portion of the indictment notes that "on or about July 27, 2016, the Conspirators attempted after hours to spearphish for the first time email accounts . . . used by Clinton's personal office. At or around the same time, they also targeted seventy-six email addresses at the domain for the Clinton Campaign." ([The Hill](http://thehill.com/policy/national-security/396915-indictment-russians-tried-to-hack-clinton-around-when-trump-publicly) / [Vox](https://www.vox.com/policy-and-politics/2018/7/13/17569264/mueller-indictment-trump-russia-email-hack))
+
+3/ **Trump said he won't rule out ceasing NATO military exercises in the Baltic States if Putin requests it during their upcoming meeting in Helsinki.** Joint exercises involving 17 nations, including hundreds of U.S. troops and several warships, are currently underway in the Black Sea. If Trump chooses to pull the U.S. out of the military exercises, NATO allies could still conduct them on their own, but they would likely be forced to carry them out under a different banner since the U.S. can veto labeling them as NATO exercises. ([CNN](https://www.cnn.com/2018/07/12/politics/trump-nato-military-exercises/index.html))
+
+4/ **The White House ordered the FBI to give lawmakers more access to classified information about the informant used in 2016 to investigate possible ties between the Trump campaign and Russia.** The director of national intelligence and the director of the FBI have tried to keep access to the classified documents tightly limited, but the files will now be made available to all members of the Senate and House Intelligence Committees. ([New York Times](https://www.nytimes.com/2018/07/12/us/politics/white-house-fbi-informant.html))
+
+5/ **Trump said he told British Prime Minister Theresa May how to negotiate the U.K.'s exit from the E.U. but she went "the opposite way."** Trump also blamed London Mayor Sadiq Khan for spiraling crime and for not standing up to terrorists, insisted that former UK foreign secretary Boris Johnson would make "a great Prime Minister," and accused EU leaders of destroying its culture and identity by letting in millions of migrants. Trump also said he felt "unwelcome" in London, referring to anti-Trump protesters that have flooded the streets of the capital during his visit. Later, during a joint press conference with Theresa May, Trump dismissed his interview with *The Sun* as "fake news." ([The Sun](https://www.thesun.co.uk/news/6766531/trump-may-brexit-us-deal-off/) / [Fox News](https://www.mediaite.com/tv/trump-calls-his-sun-interview-bashing-theresa-may-fake-news/) / [ABC News](https://abcnews.go.com/Politics/trump-roll-eyes-asked-presidents-shocking-interview/story?id=56560919) / [NBC News](https://www.nbcnews.com/politics/white-house/hours-after-bashing-british-leader-may-trump-praises-her-n891131))
+
+* **Trump’s comments on European immigration mirror white nationalist rhetoric.** That argument — that immigration changes existing “culture” for the worse — is a staple of white nationalist rhetoric in the United States. ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/07/13/trumps-comments-on-european-immigration-mirror-white-nationalist-rhetoric/))
+
+6/ **The Trump administration argued in federal court that it has the right to hold detainees at Guantanamo Bay prison in Cuba for up to 100 years — without charging them with a crime.** The administration argued that as long as operations continue against Al Qaeda and the Taliban in Afghanistan, the U.S. retains the right to hold detainees at GTMO indefinitely. When the judge asked the Justice Department's attorney if the government thought the war could last 100 years, Ronald Wiltsie said, "Yes, we could hold them for 100 years if the conflict lasts 100 years." There are still 26 prisoners who remain in GTMO without charge or trial, including the eight men represented in court on Wednesday, all of whom have been held at the facility for between 10 and 16 years. ([The Intercept](https://theintercept.com/2018/07/12/trump-guantanamo-detainees-release/))
+
+---
+
+## Notables.
+
+1. **A federal auditor for the Department of Health and Human Services released a report urging the agency to recover at least $341,000 spent by its former secretary Tom Price on 20 trips that did not comply with federal requirements.** Price was forced out last year following media reports of his extravagant use of private and military aircraft, and has voluntarily repaid about $60,000 to the government. ([Politico](https://www.politico.com/story/2018/07/13/tom-price-auditor-travel-685778) / [New York Times](https://www.nytimes.com/2018/07/13/us/politics/health-secretary-tom-price-wasted-money-improper-travel.html))
+
+2. **Trump's pick to be the No. 2 official at NASA is a long-time Senate aide with little-to-no experience in space operations or technology.** James Morhard, who currently serves as the Senate's deputy sergeant at arms, was chosen by Trump for the role of deputy administrator at NASA. ([The Hill](http://thehill.com/homenews/administration/396806-trump-pick-for-top-nasa-role-has-no-past-experience-in-space-tech) / [Washington Post](https://www.washingtonpost.com/technology/2018/07/12/nasa-administrator-has-been-lobbying-space-professional-be-his-deputy-thats-not-who-white-house-nominated/?utm_term=.78e809eb798c))
+
+3. **Commerce Secretary Wilbur Ross announced that he will sell all of the remaining stock he holds after he received a letter from the government's top ethics watchdog warning of "potential for a serious criminal violation."** The letter also faulted Ross for shorting certain positions that "appear to have been an ineffective attempt to remedy your actual or apparent failure to timely divest assets per your ethics agreement." ([NPR](https://www.npr.org/2018/07/13/628682930/criticism-from-ethics-watchdog-leads-commerce-secretary-ross-to-sell-remaining-s))
+
+4. **Jared Kushner doesn't have the security clearance required to review some of the government's most sensitive secrets.** Kushner had nearly unfettered access to highly classified intelligence until May while he awaited the results of his background check. Now, he has "top secret" clearance, but that doesn't allow him to see some of the nation's most classified intelligence, known as "sensitive compartmental information," or SCI. ([Washington Post](https://www.washingtonpost.com/politics/jared-kushner-lacks-security-clearance-level-to-review-some-of-the-nations-most-sensitive-intelligence-in-white-house-role/2018/07/12/10fae2ac-8537-11e8-9e80-403a221946a7_story.html?utm_term=.5fb271647479))

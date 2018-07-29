@@ -1,0 +1,55 @@
+---
+title: Day 519
+date: 2018-06-22 12:32:00 -07:00
+description: 'Phony stories. '
+image: "/uploads/519.jpg"
+todayInOneSentence: Trump told Republicans to "stop wasting their time on Immigration"
+  until after the midterms; Paul Ryan delayed a vote on immigration until next week;
+  Trump autographed photos of Americans who were killed by undocumented immigrants;
+  and the National Enquirer regularly sent Michael Cohen copies of stories related
+  to Trump in advance of publication during the 2016 presidential campaign.
+---
+
+1/ **Paul Ryan abruptly delayed a vote on a "compromise" immigration package until next week**, as Republicans search for a way to get 218 votes to pass the measure. The bill would provide $25 billion for Trump's border wall, offer a pathway to citizenship for Dreamers, and keep migrant families together in detention centers. It was the second time the bill has been delayed this week. ([Politico](https://www.politico.com/story/2018/06/21/house-gop-immigration-trump-661214) / [Washington Post](https://www.washingtonpost.com/politics/trump-lashes-out-at-democrats-as-house-republicans-struggle-to-unite-behind-immigration-legislation/2018/06/21/16713068-7481-11e8-b4b7-308400242c2e_story.html) / [New York Times](https://www.nytimes.com/2018/06/21/us/politics/house-immigration-bills-dreamers-daca-family-separation.html))
+
+2/ **Trump told Republicans to "stop wasting their time on Immigration" until after the midterms**, predicting that more Republicans will be elected to Congress, and accusing Democrats of creating "phony stories of sadness and grief" on the border. Three days ago, Trump [tweeted](https://twitter.com/realDonaldTrump/status/1009076294615814145) that "now is the best opportunity ever for Congress to change the ridiculous and obsolete laws on immigration." Trump's comments came shortly after Republican House leaders postponed a vote on a broad immigration bill. ([NBC News](https://www.nbcnews.com/politics/immigration/reversal-trump-suddenly-calls-lawmakers-stall-immigration-action-until-after-n885661) / [Washington Post](https://www.washingtonpost.com/politics/trump-says-republicans-are-wasting-their-time-trying-to-pass-immigration-bills-before-november-elections/2018/06/22/9f8f0810-7603-11e8-b4b7-308400242c2e_story.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1010116816998490113 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1010156224749408258 %}
+
+3/ **Trump autographed photos of Americans who were killed by undocumented immigrants**. Trump autographed 11 photos, which were held up by family members during a White House event. ([CNBC](https://www.cnbc.com/2018/06/22/trump-autographed-photos-of-dead-crime-victims-for-white-house-event.html))
+
+4/ **About 500 of the more than 2,300 children who were separated from their parents have been reunited**. The Department of Homeland Security said it has stopped referring members of detained families to the Department of Justice for prosecution. ([ABC News](https://abcnews.go.com/Politics/hundreds-separated-migrant-families-reunited/story?id=56081072))
+
+5/ **The Pentagon will house up to 20,000 unaccompanied migrant children at military bases** "for occupancy as early as July through December 31, 2018." The Navy is also preparing plans to construct "temporary and austere" tent cities to house 25,000 migrants at abandoned airfields in Florida and Alabama. The proposed plans also call for camps near San Francisco and at Camp Pendleton along the Southern California coast that would hold as many as 47,000 people each. ([New York Times](https://www.nytimes.com/2018/06/21/us/politics/trump-immigration-border-family-separation.html) / [Washington Post](https://www.washingtonpost.com/news/checkpoint/wp/2018/06/21/pentagon-asked-to-make-room-for-20000-migrant-children-on-military-bases/?utm_term=.785cc9105066) / [Time](http://time.com/5319334/navy-detainment-centers-zerol-tolerance-immigration-family-separation-policy/))
+
+6/ **The National Enquirer regularly sent Michael Cohen copies of stories related to Trump in advance of publication during the 2016 presidential campaign**. The company denied the practice, but three sources say it continued even after Trump took office. If "it was a story specifically about Trump," one person said, "then it was sent over to Michael, and as long as there were no objections from him, the story could be published." Cohen's efforts to limit negative stories about Trump during the campaign has prosecutors looking into whether he broke campaign finance laws. ([Washington Post](https://www.washingtonpost.com/lifestyle/style/national-enquirer-sent-stories-about-trump-to-his-attorney-michael-cohen-before-publication-people-familiar-with-the-practice-say/2018/06/21/3978aff4-57a4-11e8-858f-12becb4d6067_story.html?utm_term=.6cb772764660))
+
+* **Comedian Tom Arnold after meeting with Michael Cohen**: "This dude has all the tapes – this dude has everything" and they are teaming up to "take down" Trump. Arnold met with Cohen as part of a show he is working on for Vice, in which he searches for incriminating videos of the president. ([NBC News](https://www.nbcnews.com/news/us-news/trump-lawyer-michael-cohen-mugs-trump-critic-tom-arnold-n885611) / [The Hill](http://thehill.com/blogs/in-the-know/393598-tom-arnold-cohen-and-i-are-teaming-up-to-take-trump-down))
+
+* {% twitter https://twitter.com/TomArnold/status/1009953706748665858 %}
+
+* **Robert Mueller's team is worried about whether "widespread media attention" has biased potential jurors** for Paul Manafort's upcoming criminal trial. ([Politico](https://www.politico.com/story/2018/06/21/paul-manafort-jury-selection-mueller-661648))
+
+poll/ **41% of Americans approve of the way Robert Mueller is handling the Russia investigation**, down from 48% in March. 55% of Americans, however, believe Mueller's investigation is a serious matter that he should continue to investigate. 35% think the investigation is an effort to discredit Trump's presidency. ([CNN](https://www.cnn.com/2018/06/22/politics/russia-investigation-june-poll/index.html))
+
+poll/ **42% of Americans say Trump should be impeached and removed from office**. The public support is on par with a March 1974 poll that found 43% of Americans supported impeaching Richard Nixon – five months before he resigned. Trump's approval rating stands at 39%. ([CNN](https://www.cnn.com/2018/06/22/politics/impeach-trump-nixon-support-bill-clinton-poll/index.html))
+
+---
+
+## Notables.
+
+1. **Former Trump campaign manager Corey Lewandowski was dropped by his speakers bureau** following his "[womp womp](https://youtu.be/Vrt7q6QKF5o)" comment about a 10-year-old girl with Down syndrome who had been separated from her parents at the border. ([CNN](http://money.cnn.com/2018/06/21/media/corey-lewandowski-speakers-bureau/index.html))
+
+2. **The House passed a package of bills to address the opioid epidemic**, which killed 42,000 people in 2016. ([NBC News](https://www.nbcnews.com/politics/congress/trump-s-immigration-reversal-creates-complications-gop-candidates-n885511))
+
+3. **The New York Police Department was sued for refusing to disclose information about Trump's handgun licenses** after a Freedom of Information Law request. Trump Jr. and Eric Trump also have guns. ([New York Post](https://nypost.com/2018/06/22/nypd-sued-for-not-disclosing-info-on-trump-family-gun-permits/))
+
+4. **The Supreme Court ruled that the government generally needs a warrant to obtain cellphone location data** used to track the past location of criminal suspects. ([Reuters](https://www.reuters.com/article/us-usa-court-mobilephone/supreme-court-rules-warrants-required-for-cellphone-location-data-idUSKBN1JI1WT) / [Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-rules-that-warrant-is-needed-to-access-cell-tower-records/2018/06/22/4f85a804-761e-11e8-805c-4b67019fcfe4_story.html) / [New York Times](https://www.nytimes.com/2018/06/22/us/politics/supreme-court-warrants-cell-phone-privacy.html))
+
+5. **The Treasury Department changed a Nevada county's zoning designation after lobbying by Nevada Republicans** and a GOP donor. ([Washington Post](https://www.washingtonpost.com/business/economy/after-nevada-gop-push-treasury-quietly-changed-policy-benefiting-one-county/2018/06/22/d142acfc-74c5-11e8-b4b7-308400242c2e_story.html))
+
+6. **Trump [tweeted](https://twitter.com/realDonaldTrump/status/1010166772912320513) another tariff threat targeting automobile imports from Europe**. Trump's threat to impose a 20% tariff on autos comes in response to Europe imposing tariffs on $3.2 billion in U.S. goods. ([CNBC](https://www.cnbc.com/2018/06/22/trump-threatens-20-percent-tariff-on-all-car-imports-from-the-eu.html) / [Washington Post](https://www.washingtonpost.com/news/worldviews/wp/2018/06/22/e-u-trade-tariffs-take-effect-in-latest-rift-between-u-s-and-its-closest-allies/))
+
+7. **The EPA claims Scott Pruitt has sent one email during his first 10 months in office**, according to a Freedom of Information Act request by the Sierra Club. ([Politico](https://www.politico.com/story/2018/06/22/scott-pruitt-where-are-his-emails-664285))

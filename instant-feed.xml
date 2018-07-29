@@ -5,46 +5,67 @@ layout:
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <link>{{ site.url }}</link>
-    <description>
-      {% if site.description %}{{ site.description | xml_escape }}{% endif %}
-    </description>
-    {% for post in site.posts %}
-    {% unless post.link %}
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <description>{{ site.description }}</description>
+    <language>en-us</language>
+    <copyright>WTF Just Happened Today site content by WTF Just Happened? LLC is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
+    <pubDate>{{ site.time | date_to_xmlschema }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
+    <managingEditor>{{ site.author.email }} ({{ site.author.name }})</managingEditor>
+    <webMaster>{{ site.author.email }} ({{ site.author.name }})</webMaster>
+    <category>politics</category>
+    {% for post in site.posts limit:50 %}
     <item>
       <title>{{ post.title | xml_escape }}: {{ post.description }}</title>
-      <link>{{ site.url }}{{ post.url }}</link>
+      <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=facebook&amp;utm_medium=referral&amp;utm_campaign=daily_update</link>
+      <guid isPermaLink="false">{{ post.url }}</guid>
+      <author>{{ site.author.email }} ({{ site.author.name }})</author>
+      <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+      <description>
+        <![CDATA[{{ post.content | strip_html | truncate: 250 }}]]>
+      </description>
       <content:encoded>
         <![CDATA[
-        {{ post.content }}
-        <figure class="op-tracker">
-            <iframe>
-              <script>
-                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-                ga('create', 'UA-91051784-1', 'auto');
-                ga('send', 'pageview');
-              </script>
-            </iframe>
-        </figure>
+        <!doctype html>
+        <html lang="en" prefix="op: http://media.facebook.com/op#">
+          <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=facebook&amp;utm_medium=referral&amp;utm_campaign=daily_update">
+            <meta property="op:markup_version" content="v1.0">
+          </head>
+          <body>
+            <article>
+              <header>
+                <figure>
+                  <img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}" />
+                  <figcaption>{{ post.title | xml_escape }}: {{ post.description }}</figcaption>
+                </figure>
+              </header>
+              {{ post.content }}
+              <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>
+              <footer>
+                <figure class="op-tracker">
+                    <iframe>
+                      <script>
+                        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+                        ga('create', 'UA-91051784-1', 'auto', {'allowLinker': true});
+                        ga('require', 'linker');
+                        ga('linker:autoLink', ['list-manage.com'], false, true);
+                        ga('send', 'pageview');
+                      </script>
+                    </iframe>
+                </figure>
+              </footer>
+            </article>
+          </body>
+        </html>          
         ]]>
       </content:encoded>
-      <guid isPermaLink="false">{{ post.url }}</guid>
-      <description>
-        {% if post.excerpt %}
-        {{ post.excerpt | xml_escape }}
-        {% else %}
-        {{ post.description | xml_escape }}
-        {% endif %}
-      </description>
-      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-      <modDate>{{ post.last_modified_at | date: "%a, %d %b %Y %H:%M:%S %z" }}</modDate>
-      <author></author>
     </item>
-    {% endunless %}
     {% endfor %}
   </channel>
 </rss>

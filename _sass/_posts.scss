@@ -64,6 +64,17 @@ article.post div.post-content > p {
     margin-top: 1.25em;
   }
 
+  ul.rrssb-buttons {
+    border: none;
+    padding: 0;
+    margin: 1.5em 0em 1.5em 0em;
+    background-color: transparent;
+  
+    li + li {
+      margin-top: 0;
+    }
+  }
+
   p + p {
     margin-top: 2em;
   }
@@ -72,30 +83,81 @@ article.post div.post-content > p {
     margin: 0 0 1em 1em;
   }
 
-  blockquote {
-    border: none;
-    border-left: 5px solid #ffdc86;
-    background-color: rgba(255,220,134,.1);
-    margin-left: 1em;
+  .onebox {
+    border: 5px solid #e9e9e9;
+    margin-bottom: 1em;
+    font-size: 1em;
+    padding: 12px 25px 12px 12px;
 
-    strong {
-      color: #7a7a7a;
-    }
+    header {
+      margin-bottom: 8px;
+      
+      img.site-icon {
+        width: 16px;
+        height: 16px;
+        margin-right: 3px;
+        vertical-align: middle;
+        border: 0;
+      }
 
-    p {
-      font-size: .8em;
-
-      &:first-of-type {
-        color: #FFB600;
+     a {
+        color: #919191;
+        text-decoration: none;
         font-size: .65em;
-        font-weight: bold;
       }
     }
 
-    p + p {
-      margin-top: -1em;
+    .onebox-body {
+      img {
+        max-width: 20%;
+        float: left;
+        margin-right: 1em;
+        height: auto;
+      }
+
+      h3 {
+        font-size: 1rem;
+        margin: 0 0 10px 0;
+      }
+      p {
+        font-size: .8em;
+        color: #767676;
+        margin-top: 0;
+        margin-bottom: 4px;
+      }
     }
   }
+
+  blockquote {
+    font-size: .8em;
+    color: #767676;
+    padding: .8rem;
+    margin: 0 0 1em 1rem;
+    border: none;
+    border-left: 5px solid #e9e9e9;
+    background-color: rgba(49,49,49,0.03);
+
+    strong {
+      color: #303030;
+    }
+
+    p {
+      font-size: 1em;
+      margin-top: 0;
+      margin-bottom: 1rem;
+
+  /*    &:first-of-type {
+        color: #FFB600;
+        font-size: .65em;
+        font-weight: bold;
+      }*/
+    }
+
+  /*  p + p {
+      margin-top: -1em;
+    }*/
+  }
+
 }
 
 .page {
@@ -186,4 +248,9 @@ div.topic-date {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+#discourse-comments {
+  max-width: 100% !important;
+  margin-top: 2.15em;
 }

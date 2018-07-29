@@ -1,0 +1,60 @@
+---
+title: Day 448
+date: 2018-04-12 10:35:00 -07:00
+description: 'Retroactive privilege. '
+image: "/uploads/448.jpg"
+---
+
+1/ **Steve Bannon is working with White House aides and Congressional allies on a plan to undermine Robert Mueller's probe**. The plan involves firing Rod Rosenstein, refusing to cooperate with Mueller's team, and having Trump assert executive privilege "retroactively" in order to argue that Mueller's interviews with White House officials over the past year should now be null and void. Bannon also said "Ty Cobb should be fired immediately." Trump, however, tweeted that he has "full confidence in Ty Cobb." ([Washington Post](https://www.washingtonpost.com/politics/bannon-pitches-white-house-on-plan-to-cripple-mueller-probe-and-protect-trump/2018/04/11/1ec5b1b2-3d9f-11e8-a7d1-e4efec6389f0_story.html?utm_term=.fbeab258d83c))
+
+{% twitter https://twitter.com/realDonaldTrump/status/984472778035417088 %}
+
+2/ **A Trump interview with Robert Mueller is now unlikely to take place** following Monday's FBI raid of Michael Cohen's home, office, and hotel room, which has "significantly complicated" negotiations for a presidential interview, according to a person familiar with the discussions. Trump's lawyers wanted a potential interview to last only a few hours, as well as force Mueller to release his report within three or four months. An interview was considered one of the last steps Mueller needed before closing the obstruction of justice portion of his Russia investigation. ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-mueller-teams-prepare-move-forward-without-presidential-interview-n865421))
+
+3/ **Trump asked James Comey to investigate "the golden showers thing" and "prove it was a lie"** in January 2017 so he could "lift the cloud" because it upset Melania Trump. The infamous dossier, compiled by former British intelligence officer Christopher Steele, alleges that Trump watched sex workers urinate on themselves in the same Moscow suite that the Obamas had stayed in previously "as a way of soiling the bed." Comey said Trump was obsessed with the sex workers portion of the dossier, asking about it at least four times. ([Washington Post](https://www.washingtonpost.com/politics/james-comeys-memoir-trump-fixates-on-proving-lewd-dossier-allegations-false/2018/04/12/64493866-3ce2-11e8-974f-aacd97698cef_story.html))
+
+4/ **Trump's allies plan to discredit James Comey with digital advertising branding him "Lyin' Comey"** in an effort to undermine the credibility of the former FBI director ahead of his book launch next week. Republican talking points attack Comey's credibility, conduct, and point out contradictions. ([CNN](https://www.cnn.com/2018/04/12/politics/trump-comey-publicity-tour/index.html))
+
+* **Trump tweet-promoted Sean Hannity's segment last night**, in which Hannity tried to connect the "obvious Deep State crime families trying to take down the president" to the Clinton "family," the Comey "family" and the Mueller "family." ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2018/04/12/trump-touts-hannitys-show-on-deep-state-crime-families-led-by-mueller-comey-and-clintons/))
+
+5/ **The White House is preparing talking points designed to undermine Rod Rosenstein's credibility** and cast the deputy attorney general as too conflicted to fairly oversee the Russia investigation. The White House is hoping that Trump's defenders will paint Rosenstein and Comey as close colleagues and argue that Rosenstein is approving an expanding investigation as "payback for the President firing one of his best friends." ([CNN](https://www.cnn.com/2018/04/12/politics/rod-rosenstein-white-house-effort/index.html))
+
+6/ **Trump tweeted that an attack on Syria "could be very soon or not soon at all!"** Trump, trying to clarify his tweet yesterday that U.S. missiles "will be coming," claimed that he "never said when an attack on Syria would take place." In response, Syria moved its military aircraft to the Russian base near Latakia yesterday. ([New York Times](https://www.nytimes.com/2018/04/12/us/politics/trump-syria-attack.html) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/04/12/trump-just-confirmed-his-intent-to-bomb-syria-after-sanders-tried-to-walk-back-get-ready-tweet/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/984022625440747520 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/984374422587965440 %}
+
+7/ **During his Secretary of State confirmation hearing, CIA Director Pompeo told senators that he has been interviewed by Robert Mueller**. He declined to answer questions about his testimony to Mueller — or conversations with Trump — saying that the investigation is ongoing. ([The Hill](http://thehill.com/policy/national-security/382841-pompeo-confirms-he-was-interviewed-by-mueller) / [Axios](https://www.axios.com/pompeo-interview-mueller-fbi-russia-investigation-c14f71fb-0da4-46ad-9985-e3cb4d62ce73.html))
+
+* **Pompeo failed to disclose last year that he owned a business that imported equipment from a company owned by the Chinese government**. Pompeo's new questionnaire submitted to the Senate Foreign Relations Committee for his Secretary of State nomination is not publicly available. ([McClatchy DC](http://www.mcclatchydc.com/news/nation-world/national/article208630194.html))
+
+8/ **A former doorman was paid $30,000 in late 2015 to sign over the rights to a story about a rumor that Trump fathered a child with an employee** in the 1980s at Trump World Tower, a skyscraper he owns near the United Nations. American Media Inc., the publisher of the National Enquirer, paid Dino Sajudin to give up exclusive rights to the rumor – and then never published an article about it – five months after Trump had launched his Presidential campaign. ([The New Yorker](https://www.newyorker.com/news/news-desk/the-national-enquirer-a-donald-trump-rumor-and-another-secret-payment-to-buy-silence-dino-sajudin-david-pecker) / [CNBC](https://www.cnbc.com/2018/04/12/doorman-brokered-30000-tabloid-deal-over-trump-paternity-rumor-reports.html) / [Washington Post](https://www.washingtonpost.com/politics/national-enquirer-paid-second-source-with-embarrassing-trump-rumor/2018/04/12/73ab8d0e-3e59-11e8-a7d1-e4efec6389f0_story.html) / [CNN](http://money.cnn.com/2018/04/12/media/trump-national-enquirer-doorman/index.html))
+
+9/ **The company that owns the National Enquirer also paid Karen McDougal $150,000 for a story it never published**. The payout to McDougal, a former Playboy Playmate, came eight months after American Media Inc. paid $30,000 to Trump's former doorman for his story. American Media Inc. is facing a Federal Election Commission complaint claiming that the $150,000 payment represented an illegal campaign contribution. ([Associated Press](https://apnews.com/f37ecfc4710b468db6a103a245146172/$30,000-rumor?-Tabloid-paid-for,-spiked,-salacious-Trump-tip) / [New York Times](https://www.nytimes.com/2018/04/11/us/politics/trump-national-enquirer-american-media.html))
+
+10/ **Stormy Daniels's attorney said Michael Cohen is threatening to plead the Fifth Amendment** if an upcoming motion to stay a defamation suit from Daniels is not successful. "We've learned within the last two hours that Michael Cohen will be filing a motion, an emergency motion to stay, or temporarily stop our case," Michael Avenatti said. "And the grounds for that motion are going to be that it is his intention to plead the Fifth Amendment against self-incrimination if our case goes forward." ([The Hill](http://thehill.com/blogs/blog-briefing-room/news/382926-stormy-daniels-attorney-says-trumps-lawyer-is-threatening-to))
+
+poll/ **56% of Americans believe that the National Enquirer paid for the exclusive rights to stories that may be damaging to Trump in order to keep them from being published**. 39% said the allegation was "probably true," while 17% said it was "definitely true." ([CNN](http://money.cnn.com/2018/03/02/media/poll-national-enquirer-donald-trump/index.html))
+
+poll/ **51% of Americans support a national health care plan**, while 43% oppose it. ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/04/12/about-half-of-americans-support-single-payer-health-care/))
+
+poll/ **Obama is more admired than Trump in every country except one: Russia**. Obama ranked first in 19 of 35 countries, including the U.S. Trump, meanwhile, ranked 2nd in the U.S. and 11th in Russia. Obama ranked 12th. ([YouGov](https://today.yougov.com/news/2018/04/11/worlds-most-admired-2018/))
+
+---
+
+### Notables.
+
+1. **A Pennsylvania school district armed teachers with wooden, 16-inch baseball bats in the event of an active shooter situation**. School Superintendent William Hall said the bats are a "last resort" for teachers who want to fight back. ([NBC News](https://www.nbcnews.com/news/us-news/pennsylvania-school-district-gives-teachers-small-baseball-bats-last-resort-n864986))
+
+2. **Jared and Ivanka are heading to Lima, Peru with Pence for the Summit of the Americas**. Trump originally planned to attend the summit but canceled to stay in Washington and monitor the situation in Syria. ([Politico](https://www.politico.com/story/2018/04/11/jared-ivanka-trip-peru-515554))
+
+3. **Federal judges indicated they have a problem with Mick Mulvaney's dual role** as acting director of the Consumer Financial Protection Bureau because he also heads the White House Office of Management and Budget. ([Los Angeles Times](http://www.latimes.com/business/la-fi-cfpb-mulvaney-english-hearing-20180412-story.html))
+
+4. **Trump's federal judicial nominee refused to say whether she agreed with Brown v. Board of Education**, which desegregated U.S. public schools. Wendy Vitter also maintained she could "put aside" her "pro-life" advocacy, and as a judge enforce the Supreme Court's Roe v. Wade decision on abortion rights. ([HuffPost](https://www.huffingtonpost.com/entry/trump-judicial-nominee-segregation-wendy-vitter_us_5acea330e4b064876776a93d) / [NPR](https://www.npr.org/2018/04/11/601323110/wendy-vitter-wife-of-d-c-madam-senator-faces-thorny-hearing-to-be-federal-judge))
+
+5. **Trump wants to roll back billions in spending from the $1.3 trillion omnibus spending bill he signed into law last month**. Republicans who helped craft the legislation are skeptical. ([Politico](https://www.politico.com/story/2018/04/12/trump-congress-trillions-republicans-516856))
+
+6. **Trump asked officials to look at rejoining the Trans-Pacific Partnership**, the multination trade agreement he pulled the U.S. out of shortly after taking office. ([Washington Post](https://www.washingtonpost.com/business/economy/trump-weighs-rejoining-trans-pacific-partnership/2018/04/12/37d59500-3e71-11e8-8d53-eba0ed2371cc_story.html))
+
+7. **A fired EPA staffer gave congressional investigators a detailed list of what he describes as Scott Pruitt's wasteful spending and unethical behavior**. Democrats in turn asked Pruitt to provide documents regarding allegations made by Kevin Chmielewski about his "unethical and potentially illegal" behavior. ([BuzzFeed News](https://www.buzzfeed.com/zahrahirji/scott-pruitt-kevin-chmielewski) / [ABC News](http://abcnews.go.com/Politics/fired-epa-staffer-tells-democrats-pruitt-directed-spending/story?id=54419225) / [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2018/04/12/former-pruitt-aide-alleges-litany-of-wasteful-spending-extravagant-travel-by-epa-chief/))

@@ -2,13 +2,13 @@
 title: The Normal Person's Guide to Internet Security
 date: 2017-03-30 00:00:00 -07:00
 layout: page
-description: The six things everyone should do to protect themselves on the internet.
+description: The seven things everyone should do to protect themselves on the internet.
 image:
   twitter: "/public/internet-security-guide-t.jpg"
   facebook: "/public/internet-security-guide-f.jpg"
 ---
 
-This is a quick and dirty guide to basic internet security for the normal internet user. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the six things everyone can do to protect themselves on the internet. 
+This is a quick and dirty guide to basic internet security for the normal internet user. If you're engaging in nefarious activities online (i.e. torrenting content) this guide is insufficient. What follows are the seven things everyone can do to protect themselves on the internet. 
 
 **TO BE COMPLETELY CLEAR**: I am **not** an internet security expert. Follow this guide at your own risk. It's your own damn fault if you get pw3ned. Take this quiz to see if you can [outsmart internet scammers](https://www.opendns.com/phishing-quiz/){:target="_blank"}. 
 
@@ -66,7 +66,15 @@ Privacy Badger is similar to an ad blocker, but for preventing third-party cooki
 
 Install it for [Chrome and Firefox](https://www.eff.org/privacybadger){:target="_blank"} here. Sorry Safari.
 
-## 6/ VPN (optional)
+## 6/ Secure Your Messaging
+
+Use a secure messaging service for your text messages or emails.
+
+Prevent carriers or service providers from snooping on or exposing your text messages by using a mobile app that encrypts your messages. Some examples are [Signal](https://signal.org/){:target="_blank"} and [WhatsApp](https://www.whatsapp.com/){:target="_blank"}, which both encrypt messages with other users by default. Both Signal and WhatsApp work on iOS, Android, and various desktop operating systems.
+
+Secure email providers like [ProtonMail](https://protonmail.com/){:target="_blank"} and [Tutanota](https://tutanota.com/){:target="_blank"} encrypt their messages so that even the people running the service can't read them if they tried. Both are secure by default to other users of each service and both offer options to secure email messages to other providers with a password so that only the intended recipient can read them. In addition to their websites, both ProtonMail and Tutanota offer mobile clients for iOS and Android.
+
+## 7/ VPN (optional)
 
 >
 *NOTE: This is seriously overkill for most normal users. If you're going to inquire about a VPN, you'll need to do a fair amount of personal research. Free VPNs will likely cause more harm than good!*
@@ -84,6 +92,7 @@ A VPN stands for Virtual Private Network and is a way of using the internet in a
 
 * [Have I Been Pwned?](https://haveibeenpwned.com/){:target="_blank"}. Check if you have an account that has been compromised in a data breach and sign up for notifications for future data beaches your accounts have been involved in.
 * [How Secure Is My Password?](https://howsecureismypassword.net/){:target="_blank"}. Test your current passwords to make sure they are strong and see how long it would take for a computer to crack your password.
+* [Surveillence Self-Defense](https://ssd.eff.org/en){:target="_blank"}. This site from the Electronic Frontier Foundation takes a much deeper dive into personal Internet privacy than this guide. It includes guides on choosing the right tools for your needs, choosing passwords, and developing good habits online.
 
 ## Summary
 

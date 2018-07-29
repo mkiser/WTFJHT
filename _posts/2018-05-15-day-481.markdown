@@ -1,0 +1,60 @@
+---
+title: Day 481
+date: 2018-05-15 11:54:00 -07:00
+description: 'Hindsight. '
+image: "/uploads/481.jpg"
+---
+
+1/ **Gina Haspel said that "with the benefit of hindsight" torture was a bad idea and "not one the CIA should have undertaken,"** in a letter to Mark Warner, the top Democrat on the Senate Intelligence Committee. The committee will vote on her nomination on Wednesday. She appeared to have secured enough votes to be confirmed as the next CIA director after Warner signaled his support for Haspel. ([New York Times](https://www.nytimes.com/2018/05/15/us/politics/gina-haspel-cia-torture-letter-senate.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/nominee-to-head-cia-says-agencys-post-911-interrogation-program-should-not-have-been-started/2018/05/15/a5a70142-5850-11e8-8836-a4a123c359ab_story.html) / [CNN](https://www.cnn.com/2018/05/15/politics/gina-haspel-mark-warner-letter/index.html))
+
+2/ **The Trump administration eliminated the White House's top cybersecurity policy role**. In an email to National Security Council staff, John Bolton, Trump's new national security adviser, said the decision is part of an effort to "streamline authority" for the senior directors who lead most NSC teams. ([Politico](https://www.politico.com/story/2018/05/15/white-house-eliminates-cyber-adviser-post-542916))
+
+3/ **A federal judge rejected Paul Manafort's request to dismiss criminal charges brought by Robert Mueller**. Manafort claimed that Mueller's charges of money laundering and failing to register as a foreign agent for a Ukrainian political party had exceeded his prosecutorial powers. Manafort has also filed a motion to dismiss another criminal case involving tax and bank-fraud charges. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia/judge-refuses-to-dismiss-ex-trump-campaign-aide-manaforts-criminal-case-idUSKCN1IG3A5) / [Politico](https://www.politico.com/story/2018/05/15/manafort-mueller-indictment-590215))
+
+4/ **Michael Cohen claimed in a January 2017 interview that the Trump Organization had no recent relationship or business dealings with Russia**. Cohen, however, sent emails during Trump's 2016 presidential campaign seeking the assistance of the Kremlin in an effort to build a Trump Tower in Moscow. Trump launched his presidential campaign on June 16, 2015. The Moscow project was dropped in January 2016. ([CNN](https://www.cnn.com/2018/05/15/politics/kfile-michael-cohen-russia-claim/index.html))
+
+5/ **Obama's ethics chief accused Trump of violating the emoluments clause for a Trump-branded golf course and hotel in Indonesia partially funded by the Chinese government**. Norm Eisen tweeted: "See you in court Mr. Trump." Adam Schiff also [said](http://thehill.com/homenews/house/387723-schiff-trump-deal-with-zte-a-violation-of-the-emoluments-clause) he believes Trump is in "violation of the emoluments clause" after he said he wants to help Chinese telecommunications company ZTE get "back into business." Earlier this year the U.S. Commerce Department prohibited U.S. companies from selling to ZTE because the firm violated American sanctions on Iran. ([The Hill](http://thehill.com/homenews/administration/387699-obama-ethics-chief-accuses-trump-of-violating-emoluments-clause) / [New York Times](https://www.nytimes.com/2018/05/15/world/asia/trump-hotel-china-indonesia.html) / [South China Morning Post](http://www.scmp.com/news/asia/southeast-asia/article/2145808/trump-indonesia-project-latest-stop-chinas-belt-and-road))
+
+{% twitter https://twitter.com/NormEisen/status/996172532838490113 %}
+
+{% twitter https://twitter.com/NewDay/status/996370277025173506 %}
+
+6/ **A Qatari investor confirmed that he attended meetings at Trump Tower in December 2016 with Trump transition officials**. Ahmed Al-Rumaihi's statement comes after Michael Avenatti tweeted: "Why was Ahmed Al-Rumaihi meeting with Michael Cohen and Michael Flynn in December 2016 and why did Mr. Al-Rumaihi later brag about bribing administration officials according to a sworn declaration filed in court?" Al-Rumaihi said he attended multiple meetings on December 12th, including one with Michael Cohen, but "did not participate in any meetings with Michael Flynn." ([CNN](https://www.cnn.com/2018/05/15/politics/qatari-investor-trump-tower-meetings-2016/index.html))
+
+7/ **North Korea threatened to cancel the summit between Trump and Kim Jong Un**, citing joint U.S.-South Korean military drills as a "provocation" and a preparation for an invasion. North Korea also cancelled scheduled talks with South Korea today. ([Axios](https://www.axios.com/north-korea-threatens-to-cancel-trump-summit-f9eee700-97b4-4e68-9ccc-68d2745dd701.html) / [CNBC](https://www.cnbc.com/2018/05/15/north-korea-cancels-scheduled-meeting-with-south-korea-reports.html) / [New York Times](https://www.nytimes.com/2018/05/15/world/asia/north-korea-postpones-talks.html) / [Yonhap](http://english.yonhapnews.co.kr/news/2018/05/16/0200000000AEN20180516000500315.html))
+
+8/ **The Trump administration is preparing to shelter migrant children on military bases as part of its effort to split up families who cross the border illegally**. The Department of Health and Human Services plans to visit four military installations in Texas and Arkansas in the next two weeks to evaluate their suitability for child shelters. ([Washington Post](https://www.washingtonpost.com/world/national-security/trump-administration-preparing-to-shelter-migrant-children-on-military-bases/2018/05/15/f8103356-584e-11e8-b656-a5f8c2a9295d_story.html))
+
+poll/ **52% of Americans disapprove of Trump's job performance, which Trump called his "best poll numbers in a year."** 44% approve of his job performance, which is his highest point in 14 months. Trump added: "The People truly get it!" ([The Hill](http://thehill.com/homenews/administration/387731-trump-touts-poll-numbers-despite-made-up-stories-mueller-probe) / [Fox News](http://www.foxnews.com/politics/2018/05/14/trumps-rising-approval-rating-scrambles-dems-midterm-strategy.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/996391840860471296 %}
+
+---
+
+### Notables.
+
+1. **Michael Avenatti threatened to sue the Daily Caller for libel** after the site published an article that claimed "Avenatti's past is littered with lawsuits, jilted business partners and bankruptcy filings." Avenatti fired back: "Just like there is nothing wrong with calling out unethical attorneys, there is nothing wrong with calling out unethical journalists."  ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/14/michael-avenatti-doubles-down-on-his-threat-to-sue-the-daily-caller/?utm_term=.e75248f52b44))
+
+2. **The White House blamed Hamas propaganda for the death of more than 50 Palestinians** near the Gaza border. "Hamas is intentionally and cynically provoking this response" of Palestinians protesting the opening of the new American embassy in Jerusalem, White House spokesperson Raj Shah said, adding that the clashes were "a gruesome and unfortunate propaganda attempt" by the Hamas leadership. ([HuffPost](https://www.huffingtonpost.com/entry/white-house-gaza-protests-hamas_us_5afa854ae4b09a94524b958c))
+
+3. **The U.S. blocked a United Nations Security Council resolution calling for an investigation into the 58 Palestinians killed by Israeli troops** during protests along the Gaza border. ([Axios](https://www.axios.com/trump-administration-israel-hamas-violence-investigation-53d5a1c8-1554-4422-89d9-690fb6b610cb.html) / [The Hill](http://thehill.com/homenews/administration/387718-us-blocks-adoption-of-un-security-council-statement-calling-for-probe))
+
+4. **A Ukrainian politician involved in the controversial plan to resolve Ukraine's conflict with Russian-backed rebels has been called to testify before a grand jury as part of the special counsel's investigation**. Andrii Artemenko did not give any details about his upcoming grand jury appearance, but he said he assumes he will be asked about his communications with Michael Cohen from early 2017. Artemenko said he plans to cooperate with the subpoena and appear in person. ([Politico](https://www.politico.com/story/2018/05/14/mueller-probe-ukraine-peace-plan-585653))
+
+5. **California and 18 other states filed papers to block the Trump administration from changing the requirements for Title X**, which provides family planning services for more than four million uninsured and under-insured people. The Trump administration action threatens funding for birth control, sexually transmitted disease testing, breast and cervical cancer screenings, and infertility treatment. ([Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-may-2018-california-leads-states-in-seeking-to-1526406185-htmlstory.html))
+
+6. **Seven Republican governors signed onto a letter in support of Trump's nomination to receive the Nobel Peace Prize** for his "unprecedented victory for global peace and security" in negotiations with North Korea. ([The Hill](http://thehill.com/homenews/state-watch/387766-gop-governors-sign-letter-supporting-nobel-peace-prize-for-trump))
+
+---
+
+### Watching.
+
+*A list of stories I'm keeping an eye on*.
+
+{% onebox  https://www.nytimes.com/2018/05/15/us/politics/primary-election-idaho-oregon-nebraska-pennsylvania.html %}
+
+{% onebox https://www.politico.com/story/2018/05/15/primary-elections-pennsylvania-nebraska-idaho-oregon-586556 %}
+
+{% onebox https://www.politico.com/story/2018/05/14/corey-lewandowski-pence-pac-585118 %}
+
+💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

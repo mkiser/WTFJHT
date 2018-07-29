@@ -1,0 +1,70 @@
+---
+title: Day 463
+date: 2018-04-27 11:57:00 -07:00
+description: Very sick or very dumb.
+image: "/uploads/463.jpg"
+---
+
+1/ **The House Intelligence Committee found "no evidence that the Trump campaign colluded, coordinated, or conspired with the Russian government" in the 2016 election**. The 253-page report criticized both the Trump and Hillary Clinton campaigns for "poor judgment and ill-considered actions" in their dealings with Russia-related figures. Democrats on the committee accused the Republicans of prematurely closing the investigation in "a systematic effort to muddy the waters and to deflect attention away from the President," asserting that Trump associates' willingness to accept Russian assistance suggests "a consciousness of wrongfulness, if not illegality." The report accused the intelligence community of "significant intelligence tradecraft failings," suggesting that Russia's main goal was to sow discord in the United States and not to help Trump win the election. ([New York Times](https://www.nytimes.com/2018/04/27/us/politics/house-intelligence-committee-russia-investigation-report.html) / [Washington Post](https://www.washingtonpost.com/powerpost/house-intelligence-committee-gop-releases-final-russia-report/2018/04/27/cfea31e2-4a20-11e8-9072-f6d4bc32f223_story.html) / [Politico](https://www.politico.com/story/2018/04/27/house-intelligence-committee-issues-russia-report-557413))
+
+2/ **Minutes after the committee's report was released, Trump tweeted "Wow!" the Russia investigation is "A total Witch Hunt!" and "MUST END NOW."** ([The Hill](http://thehill.com/homenews/administration/385167-trump-russia-probe-must-end-now))
+
+{% twitter https://twitter.com/realDonaldTrump/status/989870523042680832 %}
+
+3/ **Natalya Veselnitskaya, the Russian lawyer who met with Trump campaign officials at Trump Tower in 2016, was an informant for Russian Prosecutor General Yuri Chaika**. "I am a lawyer, and I am an informant," she said in newly released emails. "Since 2013, I have been actively communicating with the office of the Russian prosecutor general." Veselnitskaya insists that she met with Trump Jr., Jared Kushner, Paul Manafort, and others in a private capacity – not as a representative of the Russian government – despite an intermediary promising that Veselnitskaya had documents that would incriminate Clinton. ([New York Times](https://www.nytimes.com/2018/04/27/us/natalya-veselnitskaya-trump-tower-russian-prosecutor-general.html))
+
+* **Senate Judiciary Committee Chairman Chuck Grassley wants to release interview transcripts from the Trump Tower meeting**. The committee anticipates releasing written responses from Natalia Veselnitskaya, Trump Jr., Jared Kushner, and Paul Manafort following some redactions. ([Politico](https://www.politico.com/story/2018/04/26/trump-tower-meeting-russian-transcript-grassley-557153))
+
+4/ **Trump tweeted that James Comey is "either very sick or very dumb"** for having "illegally leaked CLASSIFIED INFORMATION." Comey is not under federal investigation for leaking classified information or lying. Trump added that Comey "lied all over the place" and "doesn't understand what he did or how serious it is." Comey wrote a series of contemporaneous memos documenting his interactions with Trump, which he leaked after being fired in May. "That memo was unclassified then," Comey said, and "it's still unclassified." ([New York Times](https://www.nytimes.com/2018/04/27/us/politics/trump-comey.html) / [The Guardian](https://www.theguardian.com/us-news/2018/apr/27/donald-trump-james-comey-memo-row-very-sick-dumb) / [Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/04/23/comey-the-memos-and-the-question-of-whats-classified/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/989813047773614080 %}
+
+* **Five months' worth of text messages between FBI special agent Peter Strzok and FBI lawyer Lisa Page were recovered**. The messages span December 2016 to May 2017 and capture the immediate reactions to Trump's decision to fire James Comey, as well as the appointment of Robert Mueller as special counsel. The cache of messages were originally thought to be missing, but the Justice Department's inspector general recovered them using forensic tools. ([CNN](https://www.cnn.com/2018/04/26/politics/missing-strzok-page-text-messages/index.html))
+
+5/ **Trump thanked Kanye West for his support, tweeting that the rapper has "performed a great service to the Black Community."** Earlier this week, Kanye tweeted that "the mob" could not stop him from loving Trump. He then shared a photo of himself in a Make America Great Again hat. Trump thanked West for the support, tweeting "very cool!" Trump also thanked Chance the Rapper for tweeting that "Black people don't have to be democrats." Trump Jr. took the opportunity to thank Chance for "breaking with convention." He confusingly included basketball emojis in his tweet. Chance the Rapper released a statement distancing himself from Trump, saying, "I'd never support anyone who has made a career out of hatred, racism and discrimination." ([The Hill](http://thehill.com/homenews/administration/385151-trump-thanks-kanye-west-for-praising-him-hes-performed-a-great) / [Washington Post](https://www.washingtonpost.com/politics/trump-offers-more-praise-for-rapper-kanye-west-cites-other-african-americans-whove-said-to-give-him-a-chance/2018/04/27/e9013896-4a1c-11e8-827e-190efaf1f1ee_story.html) / [VICE News](https://news.vice.com/en_us/article/qvxqaq/chance-the-rapper-wants-you-to-know-he-doesnt-support-trump) / [Daily Beast](https://www.thedailybeast.com/chance-the-rapper-to-trump-i-dont-want-your-thanks))
+
+{% twitter https://twitter.com/kanyewest/status/989179757651574784 %}
+
+{% twitter https://twitter.com/kanyewest/status/989192498307219456 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/989225812166696960 %}
+
+{% twitter https://twitter.com/kanyewest/status/989227154993963009 %}
+
+{% twitter https://twitter.com/chancetherapper/status/989260195598688257 %}
+
+{% twitter https://twitter.com/DonaldJTrumpJr/status/989273621498617856 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/989854486310113282 %}
+
+{% twitter https://twitter.com/chancetherapper/status/989877973078691841 %}
+
+6/ **Trump asked aides if he should invite Kanye West to the White House for dinner and a photo-op**. A source close to Trump said they couldn't tell if Trump was "kidding" or not, but reiterated that Trump enjoys that West has "always said wonderful" things about him. ([Daily Beast](https://www.thedailybeast.com/trump-is-thinking-about-inviting-kanye-to-the-white-house-for-dinner-aides-say))
+
+---
+
+### Notables.
+
+ 1. **North and South Korea agreed to end their seven-decade war** following a meeting between Kim Jong Un and Moon Jae-in. The deal includes promises from both leaders to pursue "complete denuclearization" of the Korean Penninsula. Trump hailed the peace effort on Twitter, saying "KOREAN WAR TO END! The United States, and all of its GREAT people, should be very proud of what is now taking place in Korea!" ([Bloomberg](https://www.bloomberg.com/news/articles/2018-04-27/two-koreas-agree-to-end-war-this-year-pursue-denuclearization) / [New York Times](https://www.nytimes.com/2018/04/27/world/asia/north-korea-south-kim-jong-un.html) / [CNN](https://www.cnn.com/asia/live-news/north-korea-south-korea-summit-intl/index.html))
+
+ 2. **The Trump administration plans to freeze EPA fuel economy standards at 2020 levels through 2026**, while revoking California's authority to enforce its own rules on tailpipe emissions. The draft proposal is not final. ([Washington Post](https://www.washingtonpost.com/news/business/wp/2018/04/27/trump-administration-prepares-to-unravel-obama-era-fuel-efficiency-rules-for-automobiles/) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-mileage-20180427-story.html))
+
+ 3. **Federal prosecutors seized as many as 16 cell phones during the raids on Michael Cohen's office, home, and hotel room**. Prosecutor Thomas McKay intends to hand over the seized materials to Cohen's attorneys by May 11. ([New York Post](https://nypost.com/2018/04/26/feds-seized-more-than-a-dozen-of-michael-cohens-phones/))
+
+ 4. **A federal judge dismissed Paul Manafort's civil suit challenging Robert Mueller's authority**. Manafort's attorneys asked the judge to throw out all charges against Manafort, arguing that Mueller had exceeded his authority by bringing charges unrelated to Russian election interference. ([CBS News](https://www.cbsnews.com/news/judge-dismisses-paul-manaforts-civil-suit-challenging-special-counsel/) / [Politico](https://www.politico.com/story/2018/04/27/paul-manafort-civil-suit-dismissed-557465))
+
+ 5. **Paul Ryan said he fired Chaplain Patrick Conroy because members felt like House members' "pastoral needs" were not being met**. Conroy said Ryan asked him to resign two weeks ago, a request that he complied with but was never given a reason for. ([The Hill](http://thehill.com/homenews/house/385159-ryan-explains-decision-to-dismiss-house-chaplain-in-closed-door-meeting) / [New York Times](https://www.nytimes.com/2018/04/26/us/politics/patrick-conroy-paul-ryan-house-chaplain.html))
+
+ 6. **Scores of vacant positions in the Trump administration are causing problems for the federal government**. The number of unfilled positions is at an all-time high and the staff shortages have halted pay raises for thousands of federal workers, stalled legislation to help home buyers with their mortgages, and prevented the IRS from pushing out regulations related to the new tax law. ([Politico](https://www.politico.com/story/2018/04/27/trump-deserted-government-552971))
+
+ 7. **Trump warned countries to not oppose the U.S.'s bid to host the 2026 World Cup** with Mexico and Canada. "It would be a shame if countries that we always support were to lobby against the U.S. bid. Why should we be supporting these countries when they don't support us (including at the United Nations)?," Trump tweeted. ([The Hill](http://thehill.com/homenews/administration/385115-trump-warns-countries-against-opposing-2026-world-cup-bid))
+
+ 8. **The White House medical unit served senior officials as a "grab and go" clinic for prescription drugs**. "You need to just give people these meds when they ask for it," multiple former medical unit employees said. ([CNN](https://www.cnn.com/2018/04/27/politics/ronny-jackson-medical-unit-ambien/index.html))
+
+ 9. **Trump will visit the UK on July 13th**. The trip is being billed as a "flying visit" rather than an official state one, in which Trump would have been hosted by the queen. ([BBC](http://www.bbc.com/news/uk-43913414) / [Sky News](https://news.sky.com/story/donald-trump-uk-visit-date-confirmed-for-13-july-11347502))
+
+10. **The US economy grew at a rate of 2.3% in the first quarter**, slower than the 2.9% pace in the fourth quarter of 2017, but above Wall Street analysts' forecasts of 2%. ([CNN Money](http://money.cnn.com/2018/04/27/news/companies/economy-economic-growth/index.html) / [Washington Post](https://www.washingtonpost.com/news/business/wp/2018/04/27/u-s-economy-grew-faster-than-expected-in-first-quarter-the-first-since-trumps-tax-cuts/))
+
+11. **The conservative site RedState fired writers critical of Trump for being "insufficiently partisan."** ([CNN Money](http://money.cnn.com/2018/04/27/media/redstate-blog-salem-media/index.html)) 
+
+12. **Trump would like to appear regularly on "Fox and Friends,"** according to Kellyanne Conway. "The president has said he would like to perhaps come once a month and as news breaks," which caught the show's hosts off guard. They asked Conway to clarify what she meant. ([The Hill](http://thehill.com/homenews/media/385154-kellyanne-conway-tells-fox-friends-that-trump-wants-to-come-on-once-a-month))

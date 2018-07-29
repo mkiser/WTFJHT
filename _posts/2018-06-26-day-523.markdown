@@ -1,0 +1,47 @@
+---
+title: Day 523
+date: 2018-06-26 10:49:00 -07:00
+description: 'Common ground. '
+image: "/uploads/523.jpg"
+todayInOneSentence: The Supreme Court upheld the third iteration of Trump's travel
+  ban and ruled that "crisis pregnancy centers" don't have to provide women with information
+  about the availability of abortions; Mueller's team plans to produce conclusions
+  and possible indictments related to the Trump-Russia investigation by fall; and
+  17 states sued the Trump administration to force officials to reunite migrant families.
+---
+
+1/ **The Supreme Court upheld the third iteration of Trump's travel ban** in a 5-4 ruling along ideological lines. The ban was issued last fall and prevented travelers from eight counties – including six majority-Muslim countries – from entering the U.S. Several states challenged the ban, claiming the order constituted a "Muslim ban," violated Trump's executive authority and the Constitution, and harmed U.S. citizens and educational institutions. Trump seemed surprised by the decision, tweeting "SUPREME COURT UPHOLDS TRUMP TRAVEL BAN. Wow!" ([CNN](https://www.cnn.com/2018/06/26/politics/travel-ban-supreme-court/index.html) / [Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/06/26/supreme-court-upholds-trump-travel-ban/?utm_term=.c4a21a5e7ac5) / [New York Times](https://www.nytimes.com/2018/06/26/us/politics/supreme-court-trump-travel-ban.html) / [CNBC](https://www.cnbc.com/2018/06/26/supreme-court-rules-in-trump-muslim-travel-ban-case.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1011620271327989760 %}
+
+2/ **The Supreme Court ruled that "crisis pregnancy centers" don't have to provide women with information about the availability of abortions**. California required that centers post notices about state-offered abortion, contraception and prenatal services available to low-income women, and to provide phone numbers for more information. The National Institute of Family and Life Advocates argued that the law violated their right to free speech by forcing them to convey messages at odds with their beliefs. The Supreme Court agreed in a 5-4 vote. "Crisis pregnancy centers" are essentially anti-abortion facilities that seek to prevent abortions that are often located next to or across the street from a traditional, full-service women's reproductive health center. ([Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-says-crisis-pregnancy-centers-do-not-have-to-tell-women-about-abortion-information/2018/06/26/d2b9f5c2-7943-11e8-80be-6d32e182a3bc_story.html) / [New York Times](https://www.nytimes.com/2018/06/26/us/politics/supreme-court-crisis-pregnancy-center-abortion.html) / [NPR](https://www.npr.org/2018/06/26/606427673/supreme-court-sides-with-california-anti-abortion-pregnancy-centers))
+
+3/ **Robert Mueller's team plans to produce conclusions and possible indictments related to the Trump-Russia investigation by fall**. Mueller and investigators will then determine whether there is sufficient evidence to conclude that Trump attempted to obstruct justice. At least 13 people associated with Trump's presidential campaign had suspicious contacts with Russians. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-06-26/mueller-poised-to-zero-in-on-trump-russia-collusion-allegations))
+
+* **Michael Cohen wants to prevent prosecutors from reviewing 12,000 files** from the more than four million seized by authorities as part of their criminal investigation. Cohen claims the documents either are covered by attorney-client privilege or are part of legal work being done in preparation for litigation. ([Reuters](https://www.reuters.com/article/us-usa-trump-cohen/michael-cohen-seeks-to-keep-about-12000-seized-documents-from-prosecutors-idUSKBN1JM19U))
+
+* **A federal judge refused to dismiss charges brought against Paul Manafort by Robert Mueller**. Manafort's lawyers tried to discredit Mueller's probe by accusing Rod Rosenstein of violating Justice Department rules governing the appointment of special counsels. ([Associated Press](https://apnews.com/ba0ebd5838c6445da1fcfc0de05ffbb2) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort/ex-trump-campaign-head-manafort-loses-bid-to-dismiss-virginia-charges-idUSKBN1JM2VG) / [Politico](https://www.politico.com/story/2018/06/26/judge-rejects-challenge-676814))
+
+4/ **Seventeen states sued the Trump administration to force officials to reunite migrant families** who have been separated at the U.S.-Mexico border. The Health and Human Services Secretary, however, said the Trump administration will not reunite any children with parents held in detention facilities unless current federal law changes or their parents drop their asylum claims and agree to be deported. ([Reuters](https://www.reuters.com/article/us-usa-immigration/u-s-house-to-vote-on-republican-immigration-bill-on-wednesday-idUSKBN1JM223) / [NBC News](https://www.nbcnews.com/politics/donald-trump/russian-pop-star-linked-trump-family-releases-bizarre-music-video-n886696) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-essential-washington-updates-administration-will-not-reunite-any-1530046814-htmlstory.html))
+
+5/ **Facebook, Amazon, Apple, Google, Microsoft, Oath, Snap and Twitter met with the FBI and the Department of Homeland Security to discuss the upcoming midterm elections** in an effort to ensure there is not a repeat of Russian interference. The eight tech companies shared details about disinformation campaigns they were witnessing on their platforms. However, neither the FBI nor the DHS provided the tech companies with information about specific threats, prompting frustration from Silicon Valley that intelligence officials weren't preparing them for the midterm elections. ([New York Times](https://www.nytimes.com/2018/06/25/technology/tech-meeting-midterm-elections.html) / [Washington Post](https://www.washingtonpost.com/technology/2018/06/26/tech-didnt-spot-russian-meddling-during-last-election-now-its-asking-law-enforcement-help/))
+
+* **Reality Winner was sentenced to 63 months in prison for leaking to the media a classified report about Russian interference in the 2016 election**. The report described hacks by the GRU against local election officials and a company that sold voter registration-related software. ([New York Times](https://www.nytimes.com/2018/06/26/us/reality-winner-nsa-leak-guilty-plea.html))
+
+poll/ **55% of Americans see U.S. democracy as "weak" and 68% believe it's "getting weaker."** 50% say America is in "real danger of becoming a nondemocratic, authoritarian country." ([Democracy Project](https://www.democracyprojectreport.org/report))
+
+---
+
+## Notables.
+
+1. **Sean Spicer seeks "Common Ground" in his new talk show**, where he plans to interview notable guests in an informal setting. The pilot shoots in July. "In this current environment," Spicer said, "I think it's important to have a platform where we can have civil, respectful, and informative discussions on the issues of the day." ([New York Times](https://www.nytimes.com/2018/06/25/business/media/sean-spicer-talk-show.html))
+
+2. **Trump threatened a "big tax" on Harley-Davidson, "like never before," for planning to relocate some of its production overseas** in response to retaliatory tariffs it faces in the escalating trade dispute between the US and the European Union. Trump accused the company of using tariffs "as an excuse" and that moving its motorcycle production overseas "will be the beginning of the end." ([ABC News](https://abcnews.go.com/Politics/trump-threatens-tax-harley-davidson-moves-production-overseas/story?id=56165790) / [The Guardian](https://www.theguardian.com/us-news/2018/jun/26/trump-threatens-harley-davidson-tariff-big-tax))
+
+3. **Federal debt is expected to exceed the size of the economy within a decade** due to recent changes to tax and spending laws. The nonpartisan Congressional Budget Office said "the prospect of large and growing debt poses substantial risks" that include an increasing likelihood of a fiscal crisis. ([Politico](https://www.politico.com/story/2018/06/26/cbo-federal-deficit-break-records-651929) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-tax-cuts-debt-20180626-story.html))
+
+4. **The United Nations estimates 18.25 million Americans are living in "extreme poverty."** The Trump administration called the estimate "exaggerated" and that only 250,000 Americans live in extreme poverty. ([Washington Post](https://www.washingtonpost.com/news/wonk/wp/2018/06/25/trump-team-rebukes-u-n-saying-it-overestimates-extreme-poverty-in-america-by-18-million-people/))
+
+5. **Fox News suspended Trump's former deputy campaign manager for telling a black Democratic strategist "You're out of your cotton-picking mind"** during a segment on Fox & Friends Weekend. David Bossie has been suspended for two weeks. ([Daily Beast](https://www.thedailybeast.com/former-trump-adviser-david-bossie-suspended-from-fox-news-for-deeply-offensive-cotton-picking-remark))
+
+6. **A Chicago bar banned Make America Great Again hats in an effort to maintain "a classy environment."** Since the announcement, the bar has not had to enforce the rule. ([NBC Chicago](https://www.nbcchicago.com/news/local/Chicago-Bar-Bans-Make-America-Great-Again-Hats-486487951.html))

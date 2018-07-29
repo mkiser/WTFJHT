@@ -1,0 +1,67 @@
+---
+title: Day 488
+date: 2018-05-22 06:00:00 -07:00
+description: Too inconvenient.
+image: "/uploads/488.jpg"
+todayInOneSentence: 'Trump doesn''t take recommended security precautions  for his
+  digital communications and tweets; his aides use poor grammar when they write tweets
+  for him; the EPA banned the AP and CNN from a national water contamination summit;
+  the Interior Department wants to let hunters use cruel hunting tactics in Alaska;
+  the GAO approved Trump''s proposed cuts to CHIP; and lawmakers want to stop Trump''s
+  deal with ZTE. '
+author: Joe Amditis
+---
+
+1/ **Trump uses White House cellphones that lack the proper security features required to protect his communications**, thus leaving him open to potential hacking or surveillance. Trump uses at least two different iPhones — one for calls and one for Twitter and news — and has resisted staff efforts to beef up phone security. Aides have urged Trump to swap out his Twitter phone on a monthly basis, but Trump argues the disruption is "too inconvenient." Trump has gone as long as five months without a Twitter-phone security check-up. ([Politico](https://www.politico.com/story/2018/05/21/trump-phone-security-risk-hackers-601903))
+
+* **Trump is essentially doing the same thing he demanded Hillary Clinton be locked up for doing**. Trump's actions are identical to Clinton’s, but Trump's situation is an easier target for foreign hackers, especially since Trump is particularly vulnerable to espionage and blackmail due to his concealed business interests and alleged adultery. ([New York Magazine](http://nymag.com/daily/intelligencer/2018/05/trump-thanks-secure-phone-too-inconvenient-lock-him-up.html))
+
+* **Trump's communication security practices illustrate the clear double standard between Hillary Clinton’s emails and his own cell phones**. Whether or not convenience was actually Clinton's reasoning for the use of her private server is a fair question, but there are still clear parallels between what Trump attacked Clinton for and what he's doing now. ([Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/22/trump-warned-of-great-danger-posed-by-clintons-emails-but-he-eschews-security-procedures-for-his-own-phone/?noredirect=on&utm_term=.dd1c7650882d))
+
+* **The White House pushed back on the report that Trump's cell phones are not secure:** “The White House is confident in the security protocols in place for the President’s use of communications devices,” a senior White House official said. ([ABC News](https://abcnews.go.com/Politics/white-house-pushes-back-report-trumps-cell-phones/story?id=55349239))
+
+2/ **White House employees who draft tweets for Trump intentionally incorporate poor grammar and spelling errors to mimic their boss**. Overuse of exclamation points, random capitalization of words, and use of fragmented sentences are all elements of a process intended to make the tweets appear genuine. ([Boston Globe](https://www.bostonglobe.com/news/nation/2018/05/21/trump-tweets-include-grammatical-errors-and-some-them-are-purpose/JeL7AtKLPevJDIIOMG7TrN/story.html))
+
+3/ **The EPA barred the Associated Press and CNN from a national summit on harmful water contaminants** convened by Scott Pruitt. One AP reporter was grabbed by the shoulders and forcibly removed from the building after asking to speak to a public affairs representative. "This was simply an issue of the room reaching capacity," said EPA spokesperson Jahan Wilcox. Wilcox later announced the afternoon session would be open to all press. ([Associated Press](https://apnews.com/d799f4e096cc42cf99ae01b02d1e0688) / [NBC News](https://www.nbcnews.com/politics/white-house/pruitt-bars-media-epa-summit-contaminants-guards-push-reporter-out-n876396) / [Axios](https://www.axios.com/epa-summit-reporters-forcibly-barred-cnn-ap-scott-pruitt-fa9b313b-0d0a-4ea9-9087-d8ff4dffaf29.html) / [CNBC](https://www.cnbc.com/2018/05/22/ap-reporter-shoved-by-security-guards-outside-epa-event.html))
+
+4/ **The Interior Department plans to reverse a 2015 ban prohibiting hunters on some public lands in Alaska from using cruel hunting techniques**, including the use of spotlights to shoot mother black bears and cubs during hibernation, the hunting of black bears with dogs, the killing of wolves and pups in their dens, and the use of motor boats to kill swimming caribou. The Interior Department will accept public comments on the proposed rule changes for the next 60 days. ([NBC News](https://www.nbcnews.com/politics/white-house/interior-dept-moves-allow-alaska-bear-hunting-doughnuts-bacon-n876306))
+
+5/ **The Government Accountability Office approved a proposal to cut more than $7 billion in unused funding from the Children's Health Insurance Program**. The GAO report approved the vast majority of the Trump administration's $15.3 billion plan to reduce government spending. The plan will likely avoid filibuster in the Senate and is expected to pass with a simple majority vote. The House version of the bill has been drafted and is expected to head to the floor in June. ([Politico](https://www.politico.com/story/2018/05/22/trump-spending-cuts-kids-health-insurance-559137))
+
+6/ **Elliot Broidy's company received its largest U.S. government payout while Broidy was selling access to Trump to Saudi Arabia and the United Arab Emirates**. In 2017, in addition to securing nearly $1 billion in contracts from Saudi Arabia and the UAE (in exchange for lobbying against Qatar), Broidy and George Nader locked down more than $4 million in contracts from the Department of Defense. The most Circinus LCC had received in defense contracts prior to Broidy's lobbying work in Washington, D.C. was $7,501. ([Daily Beast](https://www.thedailybeast.com/elliott-broidys-company-got-its-biggest-us-government-contract-ever-while-he-pitched-trump-administration))
+
+* **More evidence that Broidy may Have been covering for Trump in that Playmate affair**. ([New York Magazine](http://nymag.com/daily/intelligencer/2018/05/more-evidence-that-broidy-was-covering-for-trump-in-affair.html))
+
+7/ **A bipartisan group of lawmakers say they will try to stop Trump from reducing penalties against ZTE**, the Chinese telecom giant. "We will begin working on veto-proof congressional action," Marco Rubio tweeted. Dick Durbin said lawmakers are considering several options and plan to act "soon."  ([Reuters](https://www.reuters.com/article/us-usa-trade-china/u-s-lawmakers-say-they-will-try-to-block-possible-zte-deal-with-china-idUSKCN1IN27O))
+
+{% twitter https://twitter.com/marcorubio/status/998875240016039936 %}
+
+* **China has already reduced its import tariff on passenger cars from 25% to 15% following a truce between Trump and Chinese officials**. The move opens up a market that has been a major target of the United States in its ongoing trade battle with the world’s second-largest economy. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-05-22/china-is-said-to-cut-car-import-duty-in-boost-for-lexus-bmw))
+
+* **How China acquires ‘the crown jewels’ of U.S. technology:** The U.S. frequently fails to police foreign deals over the cutting-edge software that powers the military and American economic strength. ([Politico](https://www.politico.com/story/2018/05/22/china-us-tech-companies-cfius-572413))
+
+8/ **James Clapper said the FBI did not spy on the Trump campaign at any point**. "They were not," Clapper told The View. "They were spying — a term I don't particularly like — on what the Russians were doing." ([Politico](https://www.politico.com/story/2018/05/22/fbi-spy-trump-james-clapper-responds-602723) / [The Hill](http://thehill.com/homenews/media/388823-clapper-on-the-view-fires-back-at-trump-i-didnt-lie))
+
+{% youtube 2d03yjXRPtI %}
+
+* **James Clapper: Trump tweets are a 'disturbing assault'** on the Justice Department's independence. ([CNN](https://www.cnn.com/2018/05/21/politics/clapper-trump-disturbing-assault-doj-cnntv/index.html))
+
+9/ **Harley-Davidson took a tax cut, closed a factory in Kansas City, and rewarded its shareholders** with a $700-million stock buyback plan. Following the windfall of the federal tax bill, the company laid off 800 workers, moved its factory to Pennsylvania, and announced a dividend increase and stock buyback plan for 15 million of its shares. ([Vox](https://www.vox.com/policy-and-politics/2018/5/22/17350180/harley-davidson-tax-buyback-kansas-city-factory))
+
+* **An increase in gas prices easily outpaces the benefits of the tax bill for lower-income Americans.** It’s not yet clear whether — or how much — this is a function of the Iran deal as opposed to the normal increases typically seen during the summer months. ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/05/22/an-increase-in-gas-prices-easily-outpaces-the-benefits-of-the-tax-bill-for-lower-income-americans/?noredirect=on&utm_term=.fae04b9cec06))
+
+* **Gas prices reach $5 per gallon in Manhattan.** One gas station in Manhattan’s Hell’s Kitchen neighborhood listed its gasoline for $4.999 per gallon. ([The Hill](http://thehill.com/policy/transportation/automobiles/388786-gas-prices-reach-5-per-gallon-in-manhattan))
+
+---
+
+### Notables.
+
+1. **The Supreme Court ruled in a 5–4 decision that private-sector workers may not band together to challenge violations of federal labor laws**. In the majority opinion, Justice Neil Gorsuch argued the 1925 Federal Arbitration Act trumps the National Labor Relations Act. As such, employees who sign agreements to arbitrate claims must waive their rights to join a class action lawsuit and instead go through arbitration on an individual basis. ([NPR](https://www.npr.org/2018/05/21/605012795/supreme-court-decision-delivers-blow-to-workers-rights) / [Politico](https://www.politico.com/story/2018/05/21/supreme-court-upholds-employers-right-to-require-arbitration-to-settle-workplace-disputes-600923))
+
+2. **Purdue Pharma hired Giuliani in the mid-2000s to head off a federal investigation into its marketing of OxyContin**, which has been at the center of the national opioid crisis. Purdue turned OxyContin into a multibillion-dollar drug after its launch in 1996 and undertook an unprecedented marketing campaign to pitch the painkiller to doctors. ([The Guardian](https://www.theguardian.com/us-news/2018/may/22/rudy-giuliani-opioid-epidemic-oxycontin-purdue-pharma))
+
+3. **Bob Corker turned down an offer to become the next U.S. ambassador to Australia**. "I had a number of conversations with both President Trump and \[Mike\] Pompeo," Corker said. "At the end of the day though … it just felt like it wasn't the right step." ([The Tennessean](https://www.tennessean.com/story/news/politics/2018/05/21/u-s-sen-bob-corker-turns-down-trump-administration-offer-become-next-u-s-ambassador-australia/629726002/))
+
+4. **Homeland Security Secretary Kirstjen Nielsen pushed back on the intelligence community's assessment that Vladimir Putin intervened in the 2016 presidential elections in an attempt to help Trump and hurt Clinton**. "I don't believe that I have seen that conclusion … that the specific intent was to help President Trump win," Nielsen said. ([CNN](https://www.cnn.com/2018/05/22/politics/kirstjen-nielsen-election-russia-meddling/index.html))
+
+5. **Senior GOP lawmakers are questioning Paul Ryan's ability to lead the party through the 2018 midterm elections**. While Ryan continues to insist he is not planning on stepping down as Speaker, many Republicans — including moderates — have become increasingly willing to defy Ryan, whom they view as a lame-duck leader of the party. ([Politico](https://www.politico.com/story/2018/05/21/ryan-republicans-house-speaker-601900))

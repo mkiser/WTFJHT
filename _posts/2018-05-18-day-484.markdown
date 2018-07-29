@@ -1,0 +1,56 @@
+---
+title: Day 484
+date: 2018-05-18 09:18:00 -07:00
+description: Really bad stuff.
+image: "/uploads/484.jpg"
+---
+
+1/ **The Trump administration will withhold federal funding for family planning clinics that provide abortions or refer patients to places that perform them** in a change to how Title X family planning funds are awarded. The rule will resurrect a Reagan-era policy that requires abortion services to have "separate personnel" and require a "bright line" of "physical separation" from other family planning services. Title X serves about 4 million women a year and costs taxpayers about $260 million. ([New York Times](https://www.nytimes.com/2018/05/17/us/politics/trump-funding-abortion-restrictions.html) / [Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2018/05/18/planned-parenthood-likely-to-lose-millions-under-trump-administrations-new-title-x-family-planning-rules/) / [Associated Press](https://apnews.com/a777f010d69347468e8b2945ab339348))
+
+2/ **Trump tweets: The Justice Department put "an embedded informant" inside his campaign in order to "spy" on him in an effort to "frame" him "for crimes he didn't commit."** Giuliani tried to clarify Trump's tweets, saying the president doesn't "know for sure" if there was an FBI informant in his campaign. He added that Trump's legal team was told "off the record" that there was not one informant but two informants. Trump tweeted that if the reports are true, then it would be the "all time biggest political scandal!" He called the allegations "really bad stuff!" ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-claims-justice-dept-put-spy-his-campaign-try-frame-n875301) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2018/05/18/giuliani-trump-doesnt-know-for-sure-that-there-was-an-fbi-informant-in-his-campaign/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/997095653875617792 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/997422764909912065 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/997474432443707393 %}
+
+3/ **Trump Jr. called a blocked number before and after the June 2016 meeting at Trump Tower**. On June 6, Trump Jr. was in contact with a blocked number for three to four minutes. Immediately after ending that call, Trump Jr. called Emin Agalarov, the pop star son of Russian oligarch Aras Agalarov. Two hours after the Trump Tower meeting occurred on June 9th, Trump Jr. placed another call to a blocked number that lasted three minutes. Then-candidate Trump spent that day at Trump Tower, where the private residence has a blocked number, and held no public events. ([CNN](https://www.cnn.com/2018/05/17/politics/donald-trump-jr-blocked-number/index.html) / [Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/05/18/did-trump-jr-call-the-blocked-number-or-vice-versa/))
+
+4/ **Rudy Giuliani: A president can commit obstruction of justice**, contradicting Trump's now-former lawyer John Dowd, who said that "the president cannot obstruct justice because he is the chief law enforcement officer." According to Giuliani, Mueller's appointment was "really about the firing of Comey," which wouldn't count as obstruction – regardless of Trump's reason for doing so – because Comey was "replaced by somebody else on an acting position immediately." ([CNBC](https://www.cnbc.com/2018/05/18/giuliani-special-counsel-appointed-because-trump-fired-comey.html) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/18/rudy-giuliani-makes-a-big-new-concession-a-president-can-obstruct-justice/))
+
+* **Avenatti to Giuliani: "Please retire. Today." You're becoming an "embarrassment."** ([The Hill](http://thehill.com/blogs/blog-briefing-room/388307-avenatti-tells-giuliani-to-retire-youre-becoming-an-embarrassment))
+
+* {% twitter https://twitter.com/MichaelAvenatti/status/997462841920638977 %}
+
+5/ **Giuliani said Robert Mueller agreed to limit the scope of a potential interview with Trump to two topics instead of five**. Mueller, according to Giuliani, is not interested in Michael Cohen or his business dealings. "The main focus we want is Russia," Giuliani said, adding: "The President would testify tomorrow if it was about the truth. The truth is he had nothing to do with Russia. The President is not going to lie." ([CNN](https://www.cnn.com/2018/05/18/politics/rudy-giuliani-mueller-interview-cnntv/index.html) / [Associated Press](https://apnews.com/7ac17a986d3d4c67bfd991464ddc56b4))
+
+* **Mueller subpoenaed another Roger Stone assistant**. John Kakanis has worked as a driver, accountant, and operative for Stone was questioned by the FBI on the topics of possible Russian interference in the 2016 presidential election, the WikiLeaks website, its founder Julian Assange, and the hacker or hackers who call themselves Guccifer 2.0. ([Reuters](https://www.reuters.com/article/us-usa-trump-mueller-subpoena-exclusive/exclusive-special-counsel-subpoenas-another-stone-aide-in-russia-probe-sources-idUSKCN1IJ2MV))
+
+6/ **Summer School: Trump's lawyers are planning a series of summer prep sessions to get the president ready for a possible sit-down interview with Mueller**. The planning meetings will be held during off-hours at the White House and will mirror his 2016 debate preparation, where aides briefed Trump in short sessions over many weeks. ([Politico](https://www.politico.com/story/2018/05/17/donald-trump-robert-mueller-interview-preparation-595701))
+
+7/ **Michael Cohen's suspicious activity reports (SARs) aren't missing – the Treasury Department has restricted access to them**. Earlier this week, a law enforcement official admitted to leaking some of Cohen's banking records over concerns they had been removed from a Treasury Department database as part of a cover-up. The official could only access one SAR related to Cohen, but knew that two more should have been available. The Treasury Department also restricted some law enforcement agencies from accessing the database despite memorandums of understanding that allow agencies, including the DEA, the FBI, and the IRS, to access the information. ([BuzzFeed News](https://www.buzzfeed.com/jasonaleopold/cohen-sars))
+
+* 🤔 **Let's work together to answer your vexing questions** about the curious case of Cohen's SARs, where Avenatti got his information, and whether Mueller may already have Coehn's reports. ([WTF Community Center](https://talk.whatthefuckjusthappenedtoday.com/t/new-your-vexing-questions-5-17-2018/3312))
+
+8/ **At least 10 people were killed and 10 more wounded in a shooting at a high school in Santa Fe, Texas**. Trump offered his "support to everyone affected" and said mass shootings have been "going on too long in our country." Hillary Clinton, meanwhile, called for legislative action, saying that by failing to act, "we are failing our children." And, in an open letter to Trump and federal lawmakers, New York Gov. Andrew Cuomo wrote: "You were elected to lead – do something." ([New York Times](https://www.nytimes.com/2018/05/18/us/school-shooting-santa-fe-texas.html) / [CNN](https://www.cnn.com/2018/05/18/politics/trump-texas-school-shooting/index.html) / [The Hill](http://thehill.com/blogs/blog-briefing-room/news/388353-hillary-clinton-every-day-that-we-fail-to-act-on-gun-violence) / [ABC News](https://abcnews.go.com/Politics/gov-cuomo-open-letter-trump-elected-lead-gun/story?id=55265761))
+
+* **An armed man ranting "anti-Trump" rhetoric opened fire on police officers at the Trump National Doral Miami Golf Club** in South Florida before he was wounded and apprehended. ([New York Times](https://www.nytimes.com/2018/05/18/us/trump-golf-course-shooting.html) / [Sun Sentinel](http://www.sun-sentinel.com/local/miami-dade/fl-reg-trump-national-doral-shooting-20180518-story.html))
+
+---
+
+### Notables.
+
+1. **Trump personally asked the postmaster general to double the rate the Postal Service charges Amazon.com**. Megan Brennan has resisted, explaining multiple times that the rates are bound by contracts and must be reviewed by a regulatory commission. Brennan also told Trump that the Amazon relationship is beneficial for the Postal Service. ([Washington Post](https://www.washingtonpost.com/business/economy/trump-personally-pushed-postmaster-general-to-double-rates-on-amazon-other-firms/2018/05/18/2b6438d2-5931-11e8-858f-12becb4d6067_story.html))
+
+2. **Senate Democrats called for a multi-agency inspector general investigation into the Trump administration's failure to implement mandated sanctions against Russia**. In a letter addressed to the inspectors general of the State Department, Treasury Department and Intelligence Community, Democratic lawmakers said the administration has not complied with the Countering America's Adversaries Through Sanctions Act. ([Daily Beast](https://www.thedailybeast.com/senate-democrats-call-for-multi-agency-probe-into-russia-sanctions-delay))
+
+3. **Cambridge Analytica and SCL Group filed for Chapter 7 bankruptcy**. Emerdata, a company that was registered in August with Jennifer and Rebekah Mercer on the board, is footing the legal bills for the two companies. ([BuzzFeed News](https://www.buzzfeed.com/ryanmac/cambridge-analytica-just-filed-for-us-bankruptcy) / [CNN](https://www.cnn.com/2018/05/18/politics/cambridge-analytica-bankruptcy/index.html))
+
+4. **Trump tapped Robert Wilkie as next Veterans Affairs secretary** after conduct issues sank Ronny Jackson's nomination. Wilkie has been leading the VA in an acting capacity since March. ([Politico](https://www.politico.com/story/2018/05/18/trump-taps-wilkie-as-next-veterans-affairs-secretary-597621))
+
+5. **The White House is considering shrinking its communications team in part to reduce the number of leaks**. While most staffers are not expected to be fired outright, there's a sense that a few staffers will pay a price for the leaked comment about John McCain's brain cancer – even if there's no evidence they were involved in the leak. ([Politico](https://www.politico.com/story/2018/05/17/white-house-leaks-communications-press-office-staff-shakeup-596595) / [CNN](https://www.cnn.com/2018/05/17/politics/white-house-reducing-comms-team/index.html))
+
+6. **Commerce Secretary Wilbur Ross tried to demonstrate how benign the effects of a 25% levy on steel imports and 10% tariff on aluminum would be by holding up a can of Campbell's Soup**. Today, Campbell said it expects profits to decline by 5% to 6% this year – worse than earlier projections of between 1% and 3%. ([CNBC](https://www.cnbc.com/2018/05/18/commerce-secretary-ross-claim-that-tariffs-wouldnt-hurt-campbells-soup-just-blew-up.html))
+
+7. **The House failed to pass the Republican-written farm bill**. The measure died in a 198 to 213 vote that saw 30 House Republicans join 183 Democrats in voting against the legislation. The House Freedom Caucus wanted assurances that the House would vote on a tough immigration plan in exchange for their votes, which they didn't receive. ([CNBC](https://www.cnbc.com/2018/05/18/house-farm-bill-vote-immigration-spat-sinks-legislation.html) / [Washington Post](https://www.washingtonpost.com/news/business/wp/2018/05/18/house-moves-toward-vote-on-farm-bill-with-outcome-uncertain-in-dispute-over-immigration/))

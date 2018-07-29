@@ -1,0 +1,60 @@
+---
+title: Day 476
+date: 2018-05-10 10:43:00 -07:00
+description: Wrap it up.
+image: "/uploads/476.jpg"
+---
+
+1/ **Mike Pence: It's time for Robert Mueller to "wrap it up" because it's "been about a year since this investigation began."** He added that the Trump administration has "fully cooperated" with the probe, which Trump has frequently referred to as a "witch hunt." ([Washington Post](https://www.washingtonpost.com/politics/pence-says-its-time-for-special-counsel-to-wrap-up-russia-investigation/2018/05/10/88e17d4e-544a-11e8-9c91-7dab596e8252_story.html) / [Associated Press](https://apnews.com/2c48454c665c4f43bfabaf13a495d660) / [CNN](https://www.cnn.com/2018/05/10/politics/mike-pence-robert-mueller-investigation/index.html))
+
+{% twitter https://twitter.com/TODAYshow/status/994536568902815744 %}
+
+2/ **Rudy Giuliani: Trump "wasn't aware" that Michael Cohen pitched his access to the President to potential clients** following the 2016 election in order to land consulting deals. "I talked to the President only one time about this and that was the first day it came out and he wasn't aware of that situation," Giuliani said. AT&T and Novartis were among the companies that hired Cohen's consulting firm, Essential Consultants, for "insights" about how the Trump administration would approach certain policy matters. ([CNN](https://www.cnn.com/2018/05/10/politics/rudy-giuliani-michael-cohen-trump/index.html))
+
+3/ **The Russia-linked company that hired Michael Cohen registered a number of alt-right websites during the 2016 elections**. Columbus Nova is listed as the registrant behind a handful of website domains named after the alt-right movement, including Alt-right.co, Alternate-right.com, Alternate-rt.com, Alt-rite.com, and others. The brother of Andrew Intrater, Columbus Nova's U.S. CEO, is named in the registration databases for the websites. Columbus Nova said Frederick Intrater was not acting on behalf of the company, even though he had used his work email address and listed the organization. Columbus Nova gave $500,000 to Cohen in the first half of 2017. ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/05/09/russia-linked-company-that-hired-michael-cohen-registered-alt-right-websites-during-election/))
+
+* 🚨 **That Michael Cohen x Russia x Stormy Daniels thing**: What we know so far. ([WTF Just Happened Today](https://talk.whatthefuckjusthappenedtoday.com/t/that-michael-cohen-x-russia-x-stormy-daniels-thing/3289))
+
+4/ **Democrats on the House Intelligence Committee released 3,500 Facebook ads purchased by a Russian troll farm** from mid-2015 to mid-2017. The ads, from the Kremlin-linked Internet Research Agency, reached at least 146 million people on Facebook and Instagram, spreading inflammatory and divisive messages on immigration, race, gun control, Islam, LGBT-centric topics, and more, in an attempt to polarize Americans. Facebook's targeting tools allowed the Russian agents to deliver their disinformation to groups of users according to their location, age, gender, and interests. ([NBC News](https://www.nbcnews.com/tech/tech-news/sean-hannity-black-lives-matter-among-targets-russian-influence-campaign-n872926) / [USA Today](https://www.usatoday.com/story/tech/2018/05/10/thousands-russian-bought-facebook-social-media-ads-released-congress/849959001/) / [Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2018/05/10/here-are-the-3400-facebook-ads-purchased-by-russias-online-trolls-during-the-2016-election/))
+
+> "They sought to harness Americans' very real frustrations and anger over sensitive political matters in order to influence American thinking, voting and behavior," Rep. Adam B. Schiff [said in a statement](https://www.washingtonpost.com/news/the-switch/wp/2018/05/10/here-are-the-3400-facebook-ads-purchased-by-russias-online-trolls-during-the-2016-election/). "The only way we can begin to inoculate ourselves against a future attack is to see first-hand the types of messages, themes and imagery the Russians used to divide us."
+
+* **How to see if you "liked" a Facebook page that was operated by Russian trolls**: [Go to this Facebook page](https://www.facebook.com/help/817246628445509?helpref=faq_content). Facebook will list the page and the date that you either liked or followed it.
+
+5/ **National security adviser John Bolton wants to eliminate the top White House cybersecurity job.** Bolton and his team are leading an effort to abolish the role of special assistant to the president and cybersecurity coordinator. The coordinator leads a team of National Security Council staffers who deal with federal cyber strategy on everything from encryption policies to election security to digital warfare. ([Politico](https://www.politico.com/story/2018/05/09/bolton-white-house-cyber-czar-523430))
+
+6/ **John McCain gave the Steele dossier to then-FBI director James Comey**. "I agreed to receive a copy of what is now referred to as 'the dossier,'" McCain writes in his [new book](https://amzn.to/2rwalbK). "I reviewed its contents. The allegations were disturbing, but I had no idea which if any were true. I could not independently verify any of it, and so I did what any American who cares about our nation's security should have done." McCain concludes: "I did what duty demanded I do." ([Daily Beast](https://www.thedailybeast.com/mccain-confirms-he-gave-trump-dossier-to-comey-duty-demanded-i-do-it))
+
+7/ **Trump's pick to lead the CIA, Gina Haspel, claimed during her Senate confirmation hearing that the CIA "never did" interrogations "historically."** The claim is demonstrably false, but CIA spokesman Dean Boyd came to Haspel's defense, saying Haspel meant that the CIA "did not have ... a detention and interrogation program" before 9/11. Senators were visibly frustrated with Haspel's refusal to answer questions about whether she believes torture is immoral. McCain called on the Senate to reject Haspel's nomination, citing her refusal to acknowledge "torture's immorality." ([Newsweek](http://www.newsweek.com/trump-cia-pick-haspel-nominee-torture-911-waterboarding-918423) / [CNN](https://www.cnn.com/2018/05/09/politics/john-mccain-gina-haspel-cia/index.html))
+
+* **Dick Cheney called on the CIA to restart its controversial "enhanced" interrogation program** used during the George W. Bush administration. The Senate outlawed the use of torture and other brutal interrogation techniques like waterboarding and "rectal feeding" in 2015. ([The Hill](http://thehill.com/homenews/news/387109-cheney-calls-for-the-us-to-restart-enhanced-interrogation-programs))
+
+* **A Fox News military commentator argued that torture is good because "it worked on John \[McCain\]**. That's why they call him 'Songbird John.'" There is no evidence McCain gave up accurate information while being tortured in North Vietnam. ([Daily Beast](https://www.thedailybeast.com/fox-news-military-analyst-torture-is-good-it-worked-on-john-mccain))
+
+8/ **Trump will meet with North Korean leader Kim Jong Un on June 12 in Singapore**. The summit will be the first face-to-face meeting between a sitting American president and the North Korean leader. ([New York Times](https://www.nytimes.com/2018/05/10/world/asia/trump-north-korea-singapore.html) / [CNN](https://www.cnn.com/2018/05/10/politics/singapore-donald-trump-kim-jong-un/index.html))
+
+> ***The president praised Mr. Kim** and said he was "nice in letting \[the U.S. hostages\] go before the meeting." **Last year Mr. Trump and Mr. Kim threatened nuclear war against each other’s countries**.*
+>
+> *The Senate Democratic leader, **Chuck Schumer of New York, said he could not understand the praise Mr. Kim was receiving from Mr. Trump** and others for releasing the three prisoners.* ([New York Times](https://www.nytimes.com/2018/05/10/world/asia/trump-north-korea-singapore.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/994587349718847489 %}
+
+* **Trump welcomed three Americans who had been held prisoner in North Korea back home** and thanked North Korean leader Kim Jong Un for their release. Kim Hak-song, Kim Dong-chul and Kim Sang-duk were granted amnesty by Kim after being accused of crimes against the regime. ([Reuters](https://www.reuters.com/article/us-northkorea-usa-prisoners/americans-prisoners-released-by-north-korea-land-in-washington-idUSKBN1IB0A2) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-greets-americans-detainees-freed-north-korea-n872876))
+
+poll/ **77% of Americans approve of Trump's decision to meet with North Korean leader Kim Jong Un**. Overall, 53% approve of Trump's handling of North Korea, and 35% disapprove. ([CNN](https://www.cnn.com/2018/05/10/politics/cnn-poll-north-korea-trump-approval-rises/index.html))
+
+poll/ **61% of Republicans believe the FBI and Justice Department are trying to frame Trump**. 7% of Democrats believe Trump is facing a biased FBI. ([The Hill](http://thehill.com/homenews/news/387089-poll-majority-of-republicans-say-fbi-is-framing-trump))
+
+---
+
+### Notables.
+
+1. **Five senior Islamic State officials were captured** in a three-month, cross-border operation carried out by Iraqi and American intelligence. ([New York Times](https://www.nytimes.com/2018/05/09/world/middleeast/iraq-isis-islamic-state-arrest.html))
+
+2. **German Chancellor Angela Merkel said Europe can no longer count on the U.S. for military protection** and must "take its destiny into its own hands" following the U.S. withdrawal from the Iran nuclear accord. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-05-10/merkel-says-europe-can-t-count-on-u-s-military-umbrella-anymore))
+
+3. **Senate Judiciary Committee Chairman Chuck Grassley encouraged Supreme Court justices to immediately step down if they're considering retirement** so Republicans can push through a nominee before the midterm elections. "If you're thinking about quitting this year," Grassley said, "do it yesterday." ([Politico](https://www.politico.com/story/2018/05/10/chuck-grassley-supreme-court-retirement-579901))
+
+4. **Rudy Giuliani resigned from his law firm in order to concentrate on his legal work for Trump**. In a statement, Giuliani said "a permanent resignation" would be in the best interest of the country due to "the pressing demands of the Mueller investigation." ([CNN](https://www.cnn.com/2018/05/10/politics/rudy-giuliani-law-firm/index.html))
+
+5. **Giuliani's law firm disputes that Michael Cohen's $130,000 hush money payment to Stormy Daniels was just business as usual**. A spokeswoman for Greenberg Traurig said: "Speaking for ourselves, we would not condone payments of the nature alleged to have been made or otherwise without the knowledge and direction of a client." ([New York Times](https://www.nytimes.com/2018/05/10/us/politics/rudy-giuliani-resigns-law-firm-greenberg-traurig.html)  / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/10/rudy-giulianis-comments-wont-stop-coming-back-to-bite-him/))

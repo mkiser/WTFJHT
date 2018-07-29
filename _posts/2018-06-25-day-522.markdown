@@ -1,0 +1,70 @@
+---
+title: Day 522
+date: 2018-06-25 10:39:00 -07:00
+description: Inhumane and unethical.
+image: "/uploads/522.jpg"
+todayInOneSentence: Trump wants to "immediately" send immigrants who illegally enter
+  the U.S. "back from where they came" with "no Judges or Court Cases"; Sarah Huckabee
+  Sanders claimed that "just because you don't see a judge doesn't mean you don't
+  receive due process"; Trump ally and Blackwater founder Erik Prince provided Robert
+  Mueller with "total access to his phone and computer"; and Trump's job approval
+  ratings fell to 41%.
+---
+
+1/ **Trump: "We must immediately" send immigrants who illegally enter the U.S. "back from where they came" with "no Judges or Court Cases."** Trump likened immigrants and asylum seekers to intruders trying to "break into" the country, saying "we cannot allow all of these people to invade our Country. When somebody comes in, we must immediately, with no Judges or Court Cases, bring them back from where they came." ([Reuters](https://www.reuters.com/article/us-usa-immigration-trump/trump-calls-for-deporting-illegal-immigrants-with-no-judges-or-court-cases-idUSKBN1JK0OL?feedType=RSS&feedName=politicsNewsFBChatbot) / [Washington Post](https://www.washingtonpost.com/powerpost/trump-advocates-depriving-undocumented-immigrants-of-due-process-rights/2018/06/24/dfa45d36-77bd-11e8-93cc-6d3beccdd7a3_story.html?utm_term=.62c65846a2b0) / [New York Times](https://www.nytimes.com/2018/06/24/us/politics/trump-immigration-judges-due-process.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1010900865602019329 %}
+
+{% twitter  https://twitter.com/realDonaldTrump/status/1010902506422046721%}
+
+2/ **Sarah Huckabee Sanders claimed that "just because you don't see a judge doesn't mean you don't receive due process,"** as she defended Trump's statement that people who illegally cross the border should be removed "with no Judges or Court Cases." Trump tweeted that "hiring manythousands \[sic\] of judges, and going through a long and complicated legal process, is not the way to go - will always be disfunctional \[sic\]. People must simply be stopped at the Border and told they cannot come into the U.S. illegally." ([The Hill](http://thehill.com/homenews/administration/394029-white-house-just-because-you-dont-see-a-judge-doesnt-mean-you-dont) / [ABC News](https://abcnews.go.com/Politics/trump-doubles-turning-undocumented-immigrants-due-process/story?id=56142083))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1011228265003077632 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1011231137233080321 %}
+
+3/ **The commissioner of U.S. Customs and Border Protection will stop referring immigrants with children to the Justice Department for prosecution** until CBP and the DOJ can "agree on a policy that would allow parents to be prosecuted without separating them from their children." Sarah Huckabee Sanders said there was no change to the administration's "zero tolerance" policy and that "we're not changing the policy. We're simply out of resources." Jeff Sessions, meanwhile, told a group of school resources offers in Reno, Nevada that "we're going to continue to prosecute those adults who enter here illegally. We're going to do everything in our power, however, to avoid separating families. All federal agencies are working hard to accomplish this goal." ([New York Times](https://www.nytimes.com/2018/06/25/us/politics/border-officials-suspend-handing-over-migrant-families-to-prosecutors.html) / [CNN](https://www.cnn.com/2018/06/25/politics/sessions-zero-tolerance-immigration/index.html))
+
+* **The Department of Homeland Security said it's reunited 522 children with parents**. 2,053 separated children remain in the care of the Department of Health and Human Services. The government "knows the location of all children in its custody and is working to reunite them with their families," according to a DHS fact sheet. ([Reuters](https://www.reuters.com/article/us-usa-immigration/u-s-government-reunites-522-children-removed-under-zero-tolerance-idUSKBN1JK01L) / [New York Times](https://www.nytimes.com/2018/06/24/us/migrant-children-reunited.html))
+
+* **Jeff Sessions warned activists against "obstructing" ICE or Border Patrol**, saying "free speech, assembly, and protest are and will be protected," but other crimes will not be tolerated." Activists online have threatened to dox ICE employees and publicly shame those who work for the agency. ([Politico](https://www.politico.com/story/2018/06/24/sessions-border-patrol-safety-667185))
+
+4/ **Sarah Huckabee Sanders was kicked out of a Virginia restaurant because she publicly defends the Trump administration's "inhumane and unethical" policies**. The Red Hen's owner, though "not a huge fan of confrontation," said, "This feels like the moment in our democracy when people have to make uncomfortable actions and decisions to uphold their morals." The owner's actions "say far more about her than about me," Sanders tweeted. Trump criticized the restaurant on Twitter, saying that "the Red Hen Restaurant should focus more on cleaning its filthy canopies, doors and windows (badly needs a paint job) rather than refusing to serve a fine person." He then offered his personal advice to those dining out: "I always had a rule, if a restaurant is dirty on the outside, it is dirty on the inside!" ([The Guardian](https://www.theguardian.com/us-news/2018/jun/23/trump-press-secretary-sarah-sanders-ejected-virginia-restaurant-red-hen-lexington) / [New York Times](https://www.nytimes.com/2018/06/25/us/politics/trump-restaurant-sarah-sanders-border.html) / [Washington Post](https://www.washingtonpost.com/news/local/wp/2018/06/23/why-a-small-town-restaurant-owner-asked-sarah-huckabee-sanders-to-leave-and-would-do-it-again/) / [Associated Press](https://www.apnews.com/3cf53b66445f47cbb6001cf3e1ee32b6))
+
+{% twitter https://twitter.com/PressSec/status/1010536237457924096 %}
+
+{% twitter https://twitter.com/realdonaldtrump/status/1011212766487728133 %}
+
+5/ **Trump ally and Blackwater founder Erik Prince provided Robert Mueller with "total access to his phone and computer."** Mueller's team has been scrutinizing allegations that Prince tried to establish a backchannel between the Trump administration and the Kremlin during a January 2017 meeting in the Seychelles. In April 2017, it was [reported](https://whatthefuckjusthappenedtoday.com/2017/04/03/Day-74/#5-blackwater-founder-erik-prince-and) that the United Arab Emirates had arranged the meeting between Prince and a Russian close to Putin. The two-day meeting took place about nine days before Trump's inauguration. [Last week](https://whatthefuckjusthappenedtoday.com/2018/06/19/day-516/), Prince said he had "spoken voluntarily to Congress" and has "cooperated with the special counsel." ([ABC News](https://abcnews.go.com/Politics/special-counsel-obtains-trump-ally-erik-princes-phones/story?id=56143477))
+
+6/ **Trump plans to block Chinese companies from investing in U.S. technology firms and on the technologies that can be sold to China**. The Dow dropped more than 300 points in response to the aggressive restrictions favored by U.S. Trade Representative Robert Lighthizer and White House trade adviser Peter Navarro over the more conservative approach favored by Treasury Secretary Steven Mnuchin. On Sunday, Trump warned America's trade partners to remove trade barriers and tariffs or face the consequences. ([Wall Street Journal](https://www.wsj.com/articles/trump-plans-new-curbs-on-chinese-investment-tech-exports-to-china-1529883988) / [Politico](https://www.politico.com/story/2018/06/24/trump-china-export-controls-647091) / [CNBC](https://www.cnbc.com/2018/06/25/us-stock-futures-trade-tumult-continues-to-rattle-investors.html) / [MarketWatch](https://www.marketwatch.com/story/trumps-latest-threat-to-us-trade-partners-drop-tariffs-or-face-consequences-2018-06-24))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1010978975391322112 %}
+
+* **Harley-Davidson will shift some production of motorcycles for European customers out of the U.S. to avoid E.U. retaliatory tariffs**, saying it stood to lose as much as $100 million a year. ([CNN Money](http://money.cnn.com/2018/06/25/news/companies/harley-davidson-motorcycles-tariffs-trump/index.html))
+
+poll/ **51% of Americans approve of Trump's handling of the economy**. 54% believe the economy is in good or excellent condition. ([CNBC](https://www.cnbc.com/2018/06/25/majority-of-americans-approve-of-trumps-handling-of-the-economy.html))
+
+* **The bond market's yield curve is warning of a possible recession**. Wall Street is watching the gap between two-year and 10-year interest rates shrink. When long-term interest rates will fall below short-term rates, the yield curve has "inverted" and it's "a powerful signal of recessions." Curve inversions have “correctly signaled all nine recessions since 1955. ([New York Times](https://www.nytimes.com/2018/06/25/business/what-is-yield-curve-recession-prediction.html))
+
+poll/ **Trump's job approval ratings fell to 41%**, down four percentage points from his personal best of a 45% approval from a week ago. ([Gallup](https://news.gallup.com/poll/203207/trump-job-approval-weekly.aspx) / [The Hill](http://thehill.com/homenews/administration/393985-poll-trumps-approval-rating-falls-back-to-41-percent))
+
+---
+
+## Notables.
+
+1. **Trump has sidelined James Mattis and is no longer listening to or including his defense secretary on several major foreign policy issues**. Trump is relying on his own instincts or those of National Security Adviser John Bolton or Secretary of State Mike Pompeo over Mattis's advice. "They don't really see eye to eye," said a former senior White House official. ([NBC News](https://www.nbcnews.com/politics/donald-trump/mattis-out-loop-trump-doesn-t-listen-him-say-officials-n885796))
+
+2. **Scott Pruitt considered hiring a friend of the lobbyist couple that owned the condominium he was renting in D.C. for $50 a night**, according to previously undisclosed emails. The records also show communications about the lobbyist's client's interests, suggesting a closer relationship between Pruitt and the agency than previously acknowledged. ([New York Times](https://www.nytimes.com/2018/06/24/climate/pruitt-epa-lobbyist-landlord-emails.html))
+
+3. **Pruitt is facing another probe from the Office of Special Counsel into claims that he retaliated against a handful of EPA employees who pushed back against his spending and management.** At least six current and former agency officials were fired or reassigned for questioning Pruitt's need for 24-hour security protection, as well as for questioning his spending practices. The OSC probe is the latest in the list of roughly two dozen other inquiries into Pruitt's actions as head of the EPA. ([Politico](https://www.politico.com/story/2018/06/24/pruitt-epa-employee-retaliation-647703))
+
+4. **The Supreme Court granted an appeal for a florist who refused to sell flowers to a gay couple**, sending the case back to the Washington state courts "for further consideration in light" of the June 4th decision in favor of a Colorado baker who refused to make a cake for a gay wedding. ([NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-grants-appeal-florist-who-refused-serve-gay-wedding-n886266))
+
+5. **The Supreme Court mostly upheld congressional and state legislative districts in Texas that trial courts previously ruled discriminatory**. The Supreme Court also declined to rule on North Carolina redistricting plan that a lower court had found overly favored Republicans ([New York Times](https://www.nytimes.com/2018/06/25/us/politics/supreme-court-texas-gerrymandering.html) / [Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-sends-case-on-north-carolina-gerrymandering-back-to-lower-court/2018/06/25/03c1119e-787e-11e8-93cc-6d3beccdd7a3_story.html))
+
+6. **The FBI turned over to House Republicans classified documents related to the Russia investigation**, including the details about the FBI's justification to obtain a court-authorized warrant to spy on a former Trump campaign aide in October 2016. Lawmakers had threatened to hold Justice Department officials in contempt of Congress or impeach them if they didn't comply with the document request. ([Politico](https://www.politico.com/story/2018/06/23/fbi-russia-probe-documents-nunes-gowdy-goodlatte-667181) / [Associated Press](https://apnews.com/c833af9e743142f59df4d91354c69a41))
+
+7. **Robert Mueller wants George Papadopoulos to be sentenced in September on the false-statement felony charge he pleaded guilty to last fall**. Papadopoulos could be the second defendant sentenced in the investigation into possible collusion between the Trump campaign and Russia. ([Politico](https://www.politico.com/story/2018/06/22/mueller-george-papadopoulos-sentencing-667169))
+
+8. **Trump called Rep. Maxine Waters "an extraordinarily low IQ person"** after the California Democrat called on her supporters to confront Trump officials in public spaces like restaurants to protest the administration's policies. ([ABC News](https://abcnews.go.com/Politics/trump-calls-waters-extremely-low-iq-person-wake/story?id=56140886) / [Washington Times](https://www.washingtontimes.com/news/2018/jun/25/donald-trump-to-maxine-waters-be-careful-what-you-/) / [CNN](https://www.cnn.com/2018/06/25/politics/maxine-waters-trump-officials/))

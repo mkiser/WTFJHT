@@ -1,0 +1,48 @@
+---
+title: Day 467
+date: 2018-05-01 11:01:00 -07:00
+description: So disgraceful.
+image: "/uploads/467.jpg"
+---
+
+1/ **Robert Mueller has at least 49 questions he wants to ask Trump regarding his ties to Russia and alleged obstruction of justice**. The questions deal primarily with Trump's firing of James Comey and Michael Flynn, as well as his treatment of Jeff Sessions and the 2016 Trump Tower meeting between Trump campaign officials and Russians who claimed to have damaging information on Hillary Clinton. Other topics of inquiry include Trump's conversations with Michael Cohen about a real estate deal in Moscow, Jared Kushner's attempts to set up a backchannel to Russia, contacts Trump had with Roger Stone, and Trump's 2013 trip to Moscow for the Miss Universe pageant. ([New York Times](https://www.nytimes.com/2018/04/30/us/politics/robert-mueller-questions-trump.html))
+
+* **Read the questions Mueller wants to ask Trump about obstruction of justice** and what they mean. ([New York Times](https://www.nytimes.com/2018/04/30/us/politics/questions-mueller-wants-to-ask-trump-russia.html))
+
+2/ **Trump tweeted that it was "So disgraceful that the questions concerning the Russian Witch Hunt were 'leaked' to the media."** The leak didn't come from Mueller's office, but were provided to the New York Times by a person outside of Trump's legal team. "No questions on Collusion," Trump added. "Oh, I see...you have a made up, phony crime, Collusion, that never existed, and an investigation begun with illegally leaked classified information. Nice!" The list includes 13 questions related to possible cooperation between the Trump campaign and Russia. Trump followed up with another tweet 45 minutes later: "It would seem very hard to obstruct justice for a crime that never happened! Witch Hunt!"([Washington Post](https://www.washingtonpost.com/politics/so-disgraceful-trump-lashes-out-at-publication-of-special-counsel-questions/2018/05/01/f3796a9e-4c7b-11e8-84a0-458a1aa9ac0a_story.html) / [Politico](https://www.politico.com/story/2018/05/01/trump-new-york-times-mueller-561692))
+
+{% twitter https://twitter.com/realDonaldTrump/status/991267863674675200 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/991279620044591105 %}
+
+3/ **A former Mueller assistant believes Trump was the source of the leaked questions**. "Lawyers wouldn't write questions this way, in my estimation," said Michael Zeldin, a CNN analyst and former assistant to Robert Mueller. "Some of the grammar is not even proper," he continued. "I think these are more notes that the White House has taken and then they have expanded upon the conversation to write out these as questions." Zeldin worked with Mueller in the early 1990s. ([The Hill](http://thehill.com/homenews/news/385602-muellers-former-assistant-says-grammatical-errors-prove-leaked-questions-came))
+
+* **Nixon's White House counsel said that if the Trump administration leaked Mueller's questions it could qualify as obstruction of justice**. John Dean said leaking the questions could be an attempt to "try to disrupt the flow of information" or tip off a witness. ([The Hill](http://thehill.com/blogs/blog-briefing-room/news/385610-nixon-white-house-lawyer-it-could-be-an-act-of-obstruction-if))
+
+4/ **Trump allies in the House have drafted articles of impeachment against Rod Rosenstein**. House Freedom Caucus Chairman Mark Meadows said the draft articles are "a last resort option, if the Department of Justice fails to respond" to his requests for more information. The draft articles are not expected to garner much support. ([Washington Post](https://www.washingtonpost.com/politics/trump-allied-house-conservatives-draft-articles-of-impeachment-against-rosenstein-as-last-resort/2018/04/30/d78af412-4c97-11e8-b725-92c89fe3ca4c_story.html?utm_term=.3dae898bc378))
+
+5/ **Rod Rosenstein to the House Freedom Caucus: "The Department of Justice is not going to be extorted,"** adding "\[t\]hey can't even resist leaking their own drafts." A Democrat on the House Judiciary Committee said the Republican effort to impeach Rosenstein would send a "terrible message" and that "We should protect our democracy, protect this process, protect the rule of law." ([Axios](https://www.axios.com/rod-rosenstein-fires-back-at-reports-of-impeachment-drafts-606c41ce-90dd-4c73-8058-bbc8ec21417b.html) / [CNN](https://www.cnn.com/2018/05/01/politics/david-cicilline-rod-rosenstein-impeachment-cnntv/index.html))
+
+6/ **Trump's bodyguard and a Trump Organization lawyer took the original and only copy of Trump's medical chart from his doctor in February 2017** after Dr. Harold Bornstein told the [New York Times](https://www.nytimes.com/2017/02/01/us/politics/trump-prostate-drug-hair-harold-bornstein.html) that Trump takes Propecia. Keith Schiller, who was serving as director of Oval Office operations, also took lab reports under Trump's name as well as under the pseudonyms the office used for Trump. Bornstein said he was not given a form authorizing the release of the records, which is a violation of patient privacy law. Sarah Huckabee Sanders called taking possession of medical records "standard operating procedure for a new president." ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-doc-says-trump-bodyguard-lawyer-raided-his-office-took-n870351))
+
+* **The White House pushed back on claims that Dr. Ronny Jackson is no longer Trump's personal physician**, despite reports that Jackson will not return to his previous role as physician to the president now that he has withdrawn his nomination to lead the Department of Veterans Affairs. ([The Hill](http://thehill.com/homenews/administration/385474-white-house-pushes-back-on-reports-of-jacksons-ouster-as-trumps))
+
+7/ **Mike Pence's physician privately warned the White House in September that Ronny Jackson may have violated the federal privacy protections of Karen Pence and intimidated the vice president's doctor**. The previously unreported incident is the first sign that the White House knew about Jackson's misconduct months before Trump and his staff defended Jackson's professionalism and insisted that he had been thoroughly vetted. The incident is also the first allegation of medical misconduct by Jackson, adding to a long line of other allegations against the former White House physician. ([CNN](https://www.cnn.com/2018/04/30/politics/karen-pence-doctor-privacy-ronny-jackson/index.html))
+
+---
+
+### Notables.
+
+1. **California and 17 other states filed a lawsuit against the Trump administration to protect national vehicle emission standards from being rolled back** by the federal government. The states argue that the EPA acted arbitrarily and capriciously, failed to follow its own regulations and violated the Clean Air Act. ([Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-may-2018-california-sues-trump-administration-to-1525194264-htmlstory.html))
+
+2. **A whistleblower from the EPA says that Scott Pruitt was "bold-faced" lying when he testified to Congress** that no EPA employees were retaliated against for raising concerns about his spending decisions. ([ABC News](http://abcnews.go.com/Politics/exclusive-epa-whistleblower-pruitt-bald-faced-lied-congress/story?id=54827538))
+
+3. **Scott Pruitt's December trip to Morocco was arranged by a lobbyist who later won a $40,000-a-month contract from the Moroccan government** for promoting the kingdom's cultural and economic interests. The cost of Pruitt's visit cost the EPA more than $100,000. ([Washington Post](https://www.washingtonpost.com/national/health-science/lobbyist-helped-broker-pruitts-100000-trip-to-morocco/2018/05/01/b2e20ee0-4d76-11e8-b725-92c89fe3ca4c_story.html))
+
+4. **Pruitt's former head of security will meet with the House Oversight Committee tomorrow**. Pasquale Perrotta, who left his job at the EPA yesterday, said he plans to "fully cooperate and answer any and all questions" from Congress. ([ABC News](http://abcnews.go.com/Politics/house-panel-expected-interview-epa-chief-scott-pruitts/story?id=54845651))
+
+5. **Michael Cohen was hit with more than $185,000 in new state warrants for unpaid taxes on his taxicab companies**, bringing the total he owes New York state to $282,000. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-05-01/michael-cohen-hit-with-new-taxi-taxes-owes-new-york-282-000))
+
+6. **Former Trump campaign aide Michael Caputo met with the Senate Intelligence Committee investigators** as part of the panel's probe into alleged Russian meddling in the 2016 presidential election. ([ABC News](http://abcnews.go.com/Politics/trump-campaign-aide-meets-senate-panel-russia-probe/story?id=54852929))
+
+7. **Former Health and Human Services Secretary Tom Price said the GOP's decision to repeal the Affordable Care Act's individual mandate will likely increase the cost of health insurance for consumers**. The mandate required most Americans to have health coverage or face a financial penalty. ([Washington Times](https://www.washingtontimes.com/news/2018/may/1/tom-price-repeal-obamacare-mandate-will-drive-cost/) / [Washington Post](https://www.washingtonpost.com/news/wonk/wp/2018/05/01/trumps-former-health-secretary-americans-will-pay-more-because-gop-weakened-obamacare/))

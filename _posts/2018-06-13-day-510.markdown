@@ -1,0 +1,48 @@
+---
+title: Day 510
+date: 2018-06-13 10:10:00 -07:00
+description: 'Sleep well tonight. '
+image: "/uploads/510.jpg"
+todayInOneSentence: Michael Cohen is expected to cooperate with federal prosecutors
+  and split with his legal team; a State Department appointee has been compiling a
+  list of diplomats who are loyal to Trump; on Twitter, Trump declared there is "no
+  longer a Nuclear Threat from North Korea"; and Rod Rosenstein plans to call on the
+  House general counsel to investigate the conduct of House Intelligence Committee
+  staffers.
+---
+
+1/ **Michael Cohen is expected to cooperate with federal prosecutors** in the criminal investigation into his business dealings as the law firm handling his case is not expected to represent him moving forward. No replacement counsel has been named at this time. Cohen has until Friday to complete a review of over 3.7 million documents seized in the April 9 raids of his New York properties and law office. ([ABC News](https://abcnews.go.com/US/trump-lawyer-michael-cohen-cooperate-attorneys-leave-case/story?id=55861988) / [Wall Street Journal](https://www.wsj.com/articles/trump-lawyer-michael-cohens-attorneys-expected-to-quit-his-case-1528903379) / [CNBC](https://www.cnbc.com/2018/06/13/trump-attorney-michael-cohen-expected-to-drop-lawyers.html))
+
+2/ **A State Department appointee has been compiling a list of career diplomats who are loyal to Trump**. Mari Stull, better known as the wine blogger "Vino Vixen," has been reviewing social media posts from State Department staffers and UN workers for signs of deviating political views. Stull was appointed two months ago by the Trump administration. ([Foreign Policy](http://foreignpolicy.com/2018/06/13/trumps-vino-vixen-compiles-loyalty-list-of-u-s-employees-at-u-n-state-mari-stull-political-appointee-state-department-international-organization-united-nations-political-retribution-chaos-dysfunction/))
+
+3/ **Trump Twitter declared there is "no longer a Nuclear Threat from North Korea" a day after meeting with Kim Jong Un.** Trump said that "everybody can now feel much safer than the day I took office," and claimed his meeting with Kim was an "interesting and very positive experience." He urged Americans to "sleep well tonight!" ([CNN](https://www.cnn.com/2018/06/13/politics/trump-north-korea-nuclear-threat/index.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-says-korth-korea-no-longer-a-nuclear-threat-as-he-returns-to-washington/2018/06/13/b1d69566-6ef0-11e8-bf86-a2351b5ece99_story.html?utm_term=.2696cde2b6d8))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1006837823469735936 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1006839007492308992 %}
+
+4/ **Rod Rosenstein plans to call on the House general counsel to investigate the conduct of House Intelligence Committee staff**. Committee staffers [claimed](http://www.foxnews.com/politics/2018/06/12/rosenstein-threatened-to-subpoena-gop-led-committee-in-chilling-clash-over-records-emails-show.html) Rosenstein threatened to "subpoena" emails, phone records and other documents during a tense meeting earlier this year, which one aide described as a "personal attack." The Justice Department disputes the account, saying Rosenstein "was making the point – after being threatened with contempt" by House Republicans that "he would have the right to defend himself, including requesting production of relevant emails and text messages and calling them as witnesses to demonstrate that their allegations are false." ([CNN](https://www.cnn.com/2018/06/12/politics/rod-rosenstein-house-investigation/index.html))
+
+5/ **Former FBI deputy director Andrew McCabe is suing the Justice Department and the FBI**. His lawyers claim McCabe has been denied access to materials related to his firing that he needs to defend himself in connection with allegations of misconduct. McCabe was fired from the FBI in March, less than two days shy of his retirement date. ([Politico](https://www.politico.com/story/2018/06/12/andrew-mccabe-justice-department-643386) / [CNN](https://www.cnn.com/2018/06/12/politics/mccabe-doj-lawsuit/index.html))
+
+6/ **Robert Mueller revealed new evidence that Paul Manafort directed an unregistered lobbying campaign in the U.S.** on behalf of Ukrainian president Viktor Yanukovych. Mueller's team released two memos from 2013 that detail Manafort's involvement in influencing debate in Congress and the press about the imprisonment of Yanukovych's main political rival, Yulia Tymoshenko. ([Politico](https://www.politico.com/story/2018/06/12/mueller-manafort-evidence-ukraine-lobbying-643476))
+
+* **Mueller filed a request for 150 blank subpoenas** in the Eastern District of Virginia, where Paul Manafort lives. The two-page filing says each subpoena recipient must appear in the Alexandria, Va., courthouse on July 25 to testify in the case. The 150 blank subpoenas represent 75 total possible witnesses. ([Washington Examiner](https://www.washingtonexaminer.com/news/robert-mueller-files-request-for-150-blank-subpoenas-in-paul-manafort-case))
+
+7/ **Mueller's office claimed that Russian intelligence agencies are trying to meddle in the 2018 U.S. midterm elections**. Prosecutors are trying to block foreign intelligence agencies and defendants from seeing evidence in the investigation of interference in the 2016 election, lest this "result in the release of information that would assist foreign intelligence services" and others in future operations against the U.S. Last February, Mueller obtained a grand jury indictment of three Russian companies and 13 Russian individuals on charges they sought to influence the 2016 presidential race. The only defendant in that case is the Russian firm Concord Management and Consulting, which is controlled by Yevgeny Prigozhin, a Russian businessman known as Putin's chef. The pretrial process entitles a defendant the material assembled during the investigation. ([Politico](https://www.politico.com/story/2018/06/12/mueller-russia-midterms-influence-641851))
+
+poll/ **36% of voters overall have an unfavorable view of Robert Mueller's probe**, while 32% of voters hold a favorable view, and 32% don't have an opinion. Mueller's unfavorable numbers have hit highs among Republicans (53%), Democrats (24%), and independents (33%) from this time last year. ([Politico](https://www.politico.com/story/2018/06/13/mueller-investigation-trump-poll-643491))
+
+poll/ **43% of Ohio voters approve of the job Trump is doing** while 54% disapprove. In the 2016 election, 51% of Ohio voters voted for Trump, while 43% voted for Clinton. ([Quinnipiac](https://poll.qu.edu/ohio/release-detail?ReleaseID=2548))
+
+---
+
+### Notables.
+
+1. **The Federal Reserve will raise interest rates today to 2% – the highest level since the 2008 financial crisis.** The rate increase will be the second one this year, and the seventh since the end of the Great Recession. ([New York Times](https://www.nytimes.com/2018/06/13/us/politics/what-to-watch-as-federal-reserve-prepares-to-raise-interest-rates.html))
+
+2. **ZTE lost nearly $3 billion in market value after lawmakers restored penalties on the telecom and smartphone maker for violating American sanctions** on Iran and North Korea. Last week, the Trump administration made a deal to save the firm. ([New York Times](https://www.nytimes.com/2018/06/13/business/zte-trump-stock-drop.html))
+
+3. **Scott Pruitt had an EPA aide contact Republican donors in order to get his wife a job**. Marlyn Pruitt eventually worked "temporarily as an independent contractor" for the Judicial Crisis Network, a conservative political group which was one of Pruitt's Oklahoma-based PACs. JCN said it was pleased with Marlyn's work. ([Washington Post](https://www.washingtonpost.com/national/health-science/epa-chief-scott-pruitt-tapped-aide-donors-to-help-wife-land-job-at-conservative-group/2018/06/13/f54c87fa-6db1-11e8-afd5-778aca903bbe_story.html?utm_term=.e5d953d6c556))
+
+4. **The House will vote next week on two competing immigration bills** after Republican moderates fell two votes short of forcing a vote on bipartisan measures aimed at directly helping young immigrants brought to the country illegally as children. ([New York Times](https://www.nytimes.com/2018/06/12/us/politics/republicans-immigration-votes.html) / [Washington Post](https://www.washingtonpost.com/powerpost/scalise-warns-of-devastating-impact-as-gop-rebels-near-immigration-deadline/2018/06/12/c1a39a9e-6e45-11e8-bd50-b80389a4e569_story.html))

@@ -1,0 +1,28 @@
+---
+title: Day 450
+date: 2018-04-14 09:32:00 -07:00
+description: Mission accomplished.
+image: "/uploads/450.jpg"
+---
+
+*Welcome to a rare Saturday edition of WTF Just Happened Today*.
+
+---
+
+1/ **The U.S., France, and Britain launched airstrikes targeting three Syrian chemical weapons facilities** as Trump attempted to punish Bashar al-Assad for a chemical attack near Damascus last weekend that killed more than 40 people. The strikes targeted a scientific research center, a chemical weapons storage facility, and a command post. "We are prepared to sustain this response until the Syrian regime stops its use of prohibited chemical agents," Trump said from the White House, adding that the U.S. and its allies had "marshaled their righteous power." Putin called the airstrikes an "act of aggression against a sovereign state" and called for an emergency meeting of the United Nations' Security Council. ([New York Times](https://www.nytimes.com/2018/04/13/world/middleeast/trump-strikes-syria-attack.html) / [NBC News](https://www.nbcnews.com/news/world/trump-announces-strikes-syria-following-suspected-chemical-weapons-attack-assad-n865966) / [Wall Street Journal](https://www.wsj.com/articles/u-s-u-k-launch-strikes-against-syria-1523668212))
+
+* **Trump sought advice on Syria from the lawyers defending him in the ongoing Russia investigation**. ([Wall Street Journal](https://www.wsj.com/articles/trump-seeks-large-strike-in-syria-mattis-urges-caution-1523651589))
+
+2/ **Nikki Haley: Trump is "locked and loaded" to strike again if Syria uses chemical weapons again**. The U.S. ambassador to the United Nations' comment came during an emergency Security Council meeting called by Russia. ([Washington Post](https://www.washingtonpost.com/world/national-security/after-syria-attack-us-and-russia-tensions-rise-but-military-confrontation-fears-ease/2018/04/14/d7a48d32-3fdb-11e8-a7d1-e4efec6389f0_story.html))
+
+3/ **Trump declared "mission accomplished" following the airstrikes on three Syria targets**, drawing comparisons to George W. Bush's optimism about the U.S. invasion of Iraq in 2003. Trump added: It "could not have had a better result." ([CNN](https://www.cnn.com/2018/04/14/politics/trump-syria-strike/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-04-14/trump-echoes-bush-with-mission-accomplished-on-syria-strike))
+
+{% twitter https://twitter.com/realDonaldTrump/status/985130802668294144 %}
+
+4/ **Russian military claimed that Syrian air defenses shot down 71 of the 103 missiles fired by the US and its allies**. The Pentagon denied the claim. ([The Guardian](https://www.theguardian.com/world/2018/apr/14/russia-claims-syria-air-defences-shot-down-majority-missiles))
+
+5/ **Robert Mueller has evidence that Michael Cohen made a secret trip to Prague during the 2016 presidential campaign**, entering through Germany in "August or early September." Confirmation of the trip corroborates part of the Christopher Steele dossier that Cohen met with an ally of Putin. Cohen has denied that he has ever been in Prague and that he colluded with Russia during the campaign. ([McClatchy DC](http://www.mcclatchydc.com/news/politics-government/white-house/article208870264.html))
+
+6/ **A former Russian spy worked on the Moscow Trump tower deal during the 2016 presidential campaign**. The former agent, who had served in the GRU, negotiated for financing for a Trump-branded tower in Moscow from a Russian state-owned bank that was under US sanctions at the time. The former Russian spy also passed intelligence to the US on key national security matters, including al-Qaeda's weapons caches and North Korea's attempts to develop nuclear weapons. ([BuzzFeed News](https://www.buzzfeed.com/jasonleopold/donald-trump-russian-spy-moscow-gru-felix-sater))
+
+7/ **The FBI seized recordings of conversations between Michael Cohen and the lawyer who represented Stormy Daniels and Karen McDougal**. Cohen recorded some calls he had with Keith Davidson, who at the time represented both Daniels and McDougal. ([CNN](https://www.cnn.com/2018/04/13/politics/fbi-phone-recordings-cohen-daniels-mcdougal/index.html))

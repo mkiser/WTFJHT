@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: JL Garcia -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.12in" height="5.12in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5120 5120">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#FFFFFF;fill-rule:nonzero}
+    .fil0 {fill:black;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="wtfjht">
+  <metadata id="wtfjhtmeta"/>
+  <circle class="fil0" cx="2560" cy="2560" r="2560"/>
+  <g id="_2417398328880">
+   <polygon class="fil1" points="4006,2294 4218,2294 4218,3048 4454,3048 4454,2294 4666,2294 4666,2113 4006,2113 "/>
+   <polygon class="fil1" points="3308,3048 3545,3048 3545,2664 3730,2664 3730,3048 3967,3048 3967,2113 3730,2113 3730,2475 3545,2475 3545,2113 3308,2113 "/>
+   <path class="fil1" d="M3261 1902l-237 0 -6 1003c0,75 -5,122 -93,122 -17,0 -33,-2 -49,-6l0 177c34,5 68,11 118,11 149,0 260,-48 261,-208l6 -1099z"/>
+   <polygon class="fil1" points="2419,3048 2655,3048 2655,2664 2888,2664 2888,2483 2655,2483 2655,2294 2982,2294 2982,2113 2419,2113 "/>
+   <polygon class="fil1" points="1721,2294 1932,2294 1932,3048 2169,3048 2169,2294 2381,2294 2381,2113 1721,2113 "/>
+   <polygon class="fil1" points="922,3218 1161,3166 1150,2404 1154,2403 1442,3105 1680,3053 1680,1902 1467,1948 1492,2657 1489,2658 1215,2003 967,2057 979,2769 976,2770 721,2111 454,2169 "/>
+  </g>
+ </g>
+</svg>

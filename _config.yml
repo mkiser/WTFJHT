@@ -31,7 +31,7 @@ defaults:
     todayInOneSentence: ''
     author: Matt Kiser
     is_review: false
-    categories: 
+    categories:
     - What We Learned
     layout: post
     seo:

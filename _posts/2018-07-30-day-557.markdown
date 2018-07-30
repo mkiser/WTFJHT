@@ -27,7 +27,7 @@ image: "/uploads/557.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/1023546197129224192 %}
 
-* **Statement of A.G. Sulzberger, Publisher, The New York Times, in Response to President Trump's Tweet About Their Meeting** ([New York Times Communications](https://www.nytco.com/statement-of-a-g-sulzberger-publisher-the-new-york-times-in-response-to-president-trumps-tweet-about-their-meeting/))
+* **Statement of A. G. Sulzberger, Publisher, The New York Times, in Response to President Trump's Tweet About Their Meeting** ([New York Times Communications](https://www.nytco.com/statement-of-a-g-sulzberger-publisher-the-new-york-times-in-response-to-president-trumps-tweet-about-their-meeting/))
 
 * **Trump has repeatedly tried to punish journalists for how they ask him questions**, directing White House staff to ban reporters from covering official events or to revoke their press credentials. ([Washington Post](https://www.washingtonpost.com/politics/venting-about-press-trump-has-repeatedly-sought-to-ban-reporters-over-questions/2018/07/27/0e73a068-91a9-11e8-8322-b5482bf5e0f5_story.html))
 
@@ -41,7 +41,7 @@ image: "/uploads/557.jpg"
 
 1. **The government has been secretly monitoring U.S. citizens when they fly since at least 2010** as part of a secret TSA program called "Quiet Skies." The program targets travelers who "are not under investigation by any agency and are not in the Terrorist Screening Data Base," but all U.S. citizens who enter the country are automatically screened for potential inclusion in the program. ([Vox](https://www.vox.com/2018/7/29/17627734/quiet-skies-tsa-flight-surveillance) / [Washington Post](https://www.washingtonpost.com/world/national-security/air-marshals-have-conducted-secret-in-flight-monitoring-of-us-passengers-for-years/2018/07/29/b50ffe94-9370-11e8-810c-5fa705927d54_story.html?utm_term=.f4bde010963e))
 
-2. **A federal judge ordered the Trump administration to provide detailed information about the location of "missing parents" the government deemed "ineligible" for reunification** by Wednesday. As of Friday, 650 of the 2,551 migrant children separated from their families at the border remain separated because their parents had been deemed ineligible. ([NBC News](https://www.nbcnews.com/politics/immigration/judge-orders-trump-administration-help-lawyers-find-missing-parents-migrant-n895596))
+2. **A federal judge ordered the Trump administration to provide detailed information by Wednesday about the location of "missing parents" the government deemed "ineligible" for reunification**. As of Friday, 650 of the 2,551 migrant children separated from their families at the border remain separated because their parents have been deemed ineligible. ([NBC News](https://www.nbcnews.com/politics/immigration/judge-orders-trump-administration-help-lawyers-find-missing-parents-migrant-n895596))
 
 3. **A group of 36 people representing all five of the Muslim-majority countries affected by the current travel ban are suing the Trump administration** in the first lawsuit since the ban was upheld by the Supreme Court in June. The suit names Homeland Security Secretary Kirstjen Nielsen, Secretary of State Mike Pompeo, and other government agencies as the defendants. While the suit doesn't challenge the constitutionality of the ban, it instead asks the administration to explain how it grants waivers under the ban. ([Vox](https://www.vox.com/2018/7/29/17625194/travel-muslim-ban-lawsuit-waiver-how))
 
@@ -51,7 +51,7 @@ image: "/uploads/557.jpg"
 
 6. **Jeff Sessions announced that the Department of Justice is creating a "religious liberty task force"** to "ensure all Justice Department components are upholding" Trump's executive order to respect and protect religious liberty and political speech. ([The Hill](http://thehill.com/regulation/administration/399482-sessions-announces-religious-liberty-task-force))
 
-7. **Trump's golf resort in Scotland "partially destroyed" protected sand dunes**. Scottish Natural Heritage acknowledged that serious damage has been done to the site of special scientific interest. Locals say Trump failed to honor promises to protect the site and that the development did not justify destroying the delicate ecosystem. ([The Guardian](https://www.theguardian.com/us-news/2018/jul/29/donald-trump-golf-environment-sssi-damaged-broken-promises))
+7. **Trump's golf resort in Scotland "partially destroyed" protected sand dunes**. Scottish Natural Heritage acknowledged that serious damage has been done to the site, which is of special scientific interest. Locals say Trump failed to honor promises to protect the site and that the development did not justify destroying the delicate ecosystem. ([The Guardian](https://www.theguardian.com/us-news/2018/jul/29/donald-trump-golf-environment-sssi-damaged-broken-promises))
 
 ---
 

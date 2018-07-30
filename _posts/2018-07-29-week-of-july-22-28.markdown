@@ -10,7 +10,7 @@ is_weekly_review: true
 
 ---
 
-**Mueller Investigation**
+## **Mueller Investigation**
 
 Mueller is [reportedly examining](https://www.nytimes.com/2018/07/26/us/politics/trump-tweets-mueller-obstruction.html) Trump’s tweets as part of the obstruction of justice case his team is investigating. Of particular interest are Trump’s tweets and “negative statements” about Jeff Sessions and James Comey.
 
@@ -34,7 +34,7 @@ Behind on Manafort’s situation or simply need a refresher? The New York Times 
 
 Giuliani [stated](https://www.bloomberg.com/news/articles/2018-07-24/trump-s-lawyers-submit-proposal-to-mueller-on-interview-terms) that Trump would only sit for an interview with Mueller if obstruction of justice questions were omitted. Trump’s lawyers are worried witnesses who contradict Trump’s account of events might be more believable to Mueller, leaving Trump to face perjury charges. On Monday, Giuliani said Mueller hadn’t responded yet.
 
-**Michael Cohen**
+## **Michael Cohen**
 
 Cohen [claims Trump knew](https://www.cnn.com/2018/07/26/politics/michael-cohen-donald-trump-june-2016-meeting-knowledge/index.html) ahead of time of the Trump Tower meeting to get dirt on Hillary Clinton from a Russian lawyer, contradicting the denials of Trump and Trump Jr. Further, Cohen states that Trump himself approved of the meeting.
 
@@ -64,7 +64,7 @@ Giuliani [told Face the Nation](https://www.rawstory.com/2018/07/rudy-giuliani-a
 
 Michael Avenatti is [representing](https://abc7.com/amp/politics/stormy-daniels-attorney-says-3-other-women-were-paid-to-stay-quite-by-trump-cohen/3830894/) three other women who claim to have been paid hush money by Donald Trump, AMI, and Michael Cohen.
 
-**More Russia Connections**
+## **More Russia Connections**
 
 Homeland Security officials [announced](http://archive.is/RRstM#selection-2355.0-2355.162) that Russian hackers have been conducting a massive campaign against the U.S. in which they have reached the control rooms of U.S. electric utilities. Wall Street Journal: “They got to the point where they could have thrown switches” and disrupted power flows, said Jonathan Homer, chief of industrial-control-system analysis for DHS.
 
@@ -86,13 +86,13 @@ The Georgia Secretary of State’s Office has [confirmed](https://www.ajc.com/ne
 
 The Trump administration is[ considering](https://www.cnn.com/2018/07/27/politics/mnuchin-russia-sanctions-rusal/index.html) lifting sanctions on Rusal, a major Russian aluminum company founded by Putin ally and oligarch Oleg Deripaska.
 
-**Congress/FBI**
+## **Congress/FBI**
 
 Republican Rep. Ed Royce, chairman of the House Foreign Affairs Committee, [sent a letter](https://www.nbcnews.com/politics/congress/foreign-affairs-chair-says-trump-ignoring-sanctions-russia-former-spy-n894961) to Trump “chastising” him for ignoring a deadline to determine if Russia violated international law in poisoning ex-spy Skripal and his daughter in Britain. If Trump decides Moscow did violate the law, additional sanctions would immediately be applied.
 
 1. Royce “said Trump’s administration had already blown through the statutory deadline by more than a month, and gave the president a new deadline of two weeks to tell Congress of his decision.”
 
-**Other**
+## **Other**
 
 CNN[ obtained the emails](https://www.cnn.com/2018/07/26/politics/emails-columbus-police-stormy-daniels/index.html) of a Columbus Police officer who was involved in the arrest of Stormy Daniels earlier this month. The officer was researching Daniels and the strip club in the days before the arrest, suggesting Daniels was actually targeted by the police department. This contradicts the PD’s statement that they were conducting a “long-term investigation” that just so happened to catch Daniels committing a violation. The emails also reveal the officer “sent emails to colleagues seemingly giddy about the arrest after the fact.”
 
@@ -106,7 +106,7 @@ A study by the Brennan Center for Justice[ found that](https://abcnews.go.com/Po
 
 ---
 
-**To note…**
+## **To note…**
 
 The Campaign Legal Center (CLC) filed an[ FEC complaint](https://www.thedailybeast.com/watchdog-mysterious-donor-may-have-illegally-laundered-trump-super-pac-cash) alleging that the company which made a $325,000 donation to Trump Super PAC 'America First Action' is illegally masking the true source of the funds. According to CLC, the company - Global Energy Producers LLC. - "was illegally used as a pass-through entity to mask the original sources of the contributions."
 

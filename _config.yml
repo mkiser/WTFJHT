@@ -30,6 +30,9 @@ defaults:
     image: ''
     todayInOneSentence: ''
     author: Matt Kiser
+    is_review: false
+    categories: 
+    - What We Learned
     layout: post
     seo:
       type: NewsArticle

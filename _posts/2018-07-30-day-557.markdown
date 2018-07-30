@@ -3,6 +3,11 @@ title: Day 557
 date: 2018-07-30 13:38:00 -07:00
 description: '"Trump Derangement Syndrome."'
 image: "/uploads/557.jpg"
+todayInOneSentence: Rudy Giuliani said that "collusion is not a crime"; Trump meanwhile
+  claimed that Mueller's investigation has multiple "conflicts of interest," accused
+  journalists of being "driven insane by their Trump Derangement Syndrome"; and threatened
+  to shut down the government if Democrats don't agree to pay for his proposed border
+  wall.
 ---
 
 1/ **Rudy Giuliani: "Collusion is not a crime."** Trump's lawyer told Fox and Friends "I don't even know if that's a crime, colluding about Russians," and that he's been "looking in the federal code trying to find collusion as a crime." Giuliani asserted that "the hacking is the crime. The president didn't hack. He didn't pay them for hacking," suggesting that Trump would have had to pay for Russia to interfere on his behalf. Trump has argued for more than a year that there was "no collusion" – not that collusion wasn't a crime. On Sunday, Trump tweeted that "There is No Collusion!" and that "the Witch Hunt is an illegal Scam!" ([The Hill](http://thehill.com/homenews/administration/399461-giuliani-collusion-is-not-a-crime) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/07/30/rudy-giuliani-obliterates-the-goal-posts-on-trump-russia-collusion/) / [CNN](https://www.cnn.com/2018/07/30/politics/rudy-giuliani-collusion-crime-cnntv/index.html))
@@ -19,7 +24,13 @@ image: "/uploads/557.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/1023664624259014656 %}
 
+* **Why Giuliani's "collusion isn't a crime" statement doesn't matter for Mueller's probe**. While Giuliani is technically correct that there is no charge called "collusion," Mueller has a number of possible criminal statutes, including conspiracy, obstruction of justice and making false statements, that he could cite to charge such collusive conduct or a cover-up thereof. ([CNBC](https://www.cnbc.com/2018/07/30/giuliani-is-right-collusion-isnt-a-crime-but-that-wont-help-trump.html))
+
+* **GOP Rep. Darrell Issa: "Nobody is going to be surprised" if Trump lied about Russia**. "If he's proven to have not told the whole truth about the fact that campaigns look for dirt, and if someone offers it, you listen to them, nobody's going to be surprised," Issa said. "Businessmen listen to almost everyone who might be helpful." ([Mediate](https://www.mediaite.com/tv/gop-rep-issa-nobodys-going-to-be-surprised-if-trump-lied-about-russia-meeting/) / [Think Progress](https://thinkprogress.org/if-trump-lied-rep-darrell-issa-says-thats-just-what-businessmen-do-c0e6d7d46b70/))
+
 * **Trump and his legal team have cut ties to Michael Cohen** for "violat\[ing\] the attorney-client privilege, publicly and privately." Giuliani confirmed the two sides have ended their joint defense agreement to share information. ([Politico](https://www.politico.com/story/2018/07/28/giuliani-cohen-trump-legal-teams-separated-747466) / [ABC News](https://abcnews.go.com/Politics/joint-defense-cohen-experts-hired-analyze-trump-cohen/story?id=56890003))
+
+* **Giuliani called Cohen a "pathological manipulator" and "a liar"** following reports that Cohen is prepared to allege Trump knew about the 2016 Trump Tower meeting. Last week, Trump claimed that he had no prior knowledge of the meeting with a Russian lawyer, which Trump Jr. had attended in the hope of collecting negative information about Hillary Clinton. ([Wall Street Journal](https://www.wsj.com/articles/trump-denies-he-knew-beforehand-of-meeting-with-russian-lawyer-1532700280))
 
 * **Robert Mueller's office said Paul Manafort earned $60 million from his work as a political consultant in Ukraine**. The indictment against Manafort says $75 million flowed through offshore accounts controlled by Manafort and his former business partner Rick Gates. ([CNN](https://www.cnn.com/2018/07/30/politics/mueller-says-manafort-earned-60m-from-ukraine-consulting/index.html))
 
@@ -33,25 +44,41 @@ image: "/uploads/557.jpg"
 
 4/ **Trump threatened to shut down the federal government if Democrats don't agree to sweeping changes to U.S. immigration laws and appropriate money to build his proposed border wall.** "I would be willing to 'shut down' government if the Democrats do not give us the votes for Border Security, which includes the Wall!" Trump tweeted on Sunday. "Must get rid of Lottery, Catch and Release etc. and finally go to system of Immigration based on MERIT! We need great people coming into our Country!" Trump faced immediate words of caution from top Republican lawmakers, including the head of the National Republican Congressional Committee and the chairman of the Senate Committee on Homeland Security and Governmental Affairs. ([Washington Post](https://www.washingtonpost.com/politics/trump-threatens-again-to-shut-down-federal-government-over-border-wall-funding/2018/07/29/a8795546-9333-11e8-810c-5fa705927d54_story.html?utm_term=.48e4ae3b6d4b) / [New York Times](https://www.nytimes.com/2018/07/29/us/politics/trump-shutdown-republicans-midterms.html))
 
+* **4 reasons Republicans should worry about Trump's government shutdown threat**: Republicans control all levers of government; it's a distraction from the economy; a shutdown would occur 36 days before the midterm elections; and Trump is an unreliable negotiator. ([CNN](https://www.cnn.com/2018/07/30/politics/donald-trump-shutdown-threat/index.html))
+
 {% twitter https://twitter.com/realDonaldTrump/status/1023557246628900864 %}
+
+5/ **Top Koch officials criticized the Republican Party and the Trump administration for their "divisiveness" and "tremendous lack of leadership,"** saying "this White House is causing long-term damage." Charles Koch said he "regrets" supporting some Republicans who "say they're going to be for these principles that we espoused and then they aren't," adding that the network will be "much stricter" with their financial support in the future. The Koch network still plans to spend as much as $400 million on policy issues and political campaigns during the 2018 cycle. ([Washington Post](https://www.washingtonpost.com/politics/koch-group-condemns-divisiveness-and-lack-of-leadership-in-washington/2018/07/29/314398c2-933f-11e8-a679-b09212fb69c2_story.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/top-koch-leaders-vent-frustration-gop-trump-era-n895541) / [CNN](https://www.cnn.com/2018/07/29/politics/koch-official-trump-white-house-divisiveness/index.html))
+
+* **The Koch's political network said it cannot support the Republican nominee for U.S. Senate in North Dakota**, citing Kevin Cramer's "inconsistency" on key issues important to Americans for Prosperity, such as trade and spending. ([ABC News](https://abcnews.go.com/Politics/koch-political-arm-supporting-north-dakotas-gop-senate/story?id=56921211) / [Washington Post](https://www.washingtonpost.com/politics/koch-network-says-it-is-withholding-support-from-heitkamp-challenger-for-now/2018/07/30/252923cc-9411-11e8-80e1-00e80e1fdf43_story.html))
+
+* **Steve Bannon accused the Koch network of undermining Trump's presidency ahead of the midterms**, demanding that they "shut up and get with the program." ([Politico](https://www.politico.com/story/2018/07/29/bannon-koch-brothers-midterms-trump-747650))
 
 ---
 
 ## Notables.
 
-1. **The government has been secretly monitoring U.S. citizens when they fly since at least 2010** as part of a secret TSA program called "Quiet Skies." The program targets travelers who "are not under investigation by any agency and are not in the Terrorist Screening Data Base," but all U.S. citizens who enter the country are automatically screened for potential inclusion in the program. ([Vox](https://www.vox.com/2018/7/29/17627734/quiet-skies-tsa-flight-surveillance) / [Washington Post](https://www.washingtonpost.com/world/national-security/air-marshals-have-conducted-secret-in-flight-monitoring-of-us-passengers-for-years/2018/07/29/b50ffe94-9370-11e8-810c-5fa705927d54_story.html?utm_term=.f4bde010963e))
+ 1. **The government has been secretly monitoring U.S. citizens when they fly since at least 2010** as part of a secret TSA program called "Quiet Skies." The program targets travelers who "are not under investigation by any agency and are not in the Terrorist Screening Data Base," but all U.S. citizens who enter the country are automatically screened for potential inclusion in the program. ([Vox](https://www.vox.com/2018/7/29/17627734/quiet-skies-tsa-flight-surveillance) / [Washington Post](https://www.washingtonpost.com/world/national-security/air-marshals-have-conducted-secret-in-flight-monitoring-of-us-passengers-for-years/2018/07/29/b50ffe94-9370-11e8-810c-5fa705927d54_story.html?utm_term=.f4bde010963e))
 
-2. **A federal judge ordered the Trump administration to provide detailed information by Wednesday about the location of "missing parents" the government deemed "ineligible" for reunification**. As of Friday, 650 of the 2,551 migrant children separated from their families at the border remain separated because their parents have been deemed ineligible. ([NBC News](https://www.nbcnews.com/politics/immigration/judge-orders-trump-administration-help-lawyers-find-missing-parents-migrant-n895596))
+ 2. **A federal judge ordered the Trump administration to provide detailed information by Wednesday about the location of "missing parents" the government deemed "ineligible" for reunification**. As of Friday, 650 of the 2,551 migrant children separated from their families at the border remain separated because their parents have been deemed ineligible. ([NBC News](https://www.nbcnews.com/politics/immigration/judge-orders-trump-administration-help-lawyers-find-missing-parents-migrant-n895596))
 
-3. **A group of 36 people representing all five of the Muslim-majority countries affected by the current travel ban are suing the Trump administration** in the first lawsuit since the ban was upheld by the Supreme Court in June. The suit names Homeland Security Secretary Kirstjen Nielsen, Secretary of State Mike Pompeo, and other government agencies as the defendants. While the suit doesn't challenge the constitutionality of the ban, it instead asks the administration to explain how it grants waivers under the ban. ([Vox](https://www.vox.com/2018/7/29/17625194/travel-muslim-ban-lawsuit-waiver-how))
+ 3. **A group of 36 people representing all five of the Muslim-majority countries affected by the current travel ban are suing the Trump administration** in the first lawsuit since the ban was upheld by the Supreme Court in June. The suit names Homeland Security Secretary Kirstjen Nielsen, Secretary of State Mike Pompeo, and other government agencies as the defendants. While the suit doesn't challenge the constitutionality of the ban, it instead asks the administration to explain how it grants waivers under the ban. ([Vox](https://www.vox.com/2018/7/29/17625194/travel-muslim-ban-lawsuit-waiver-how))
 
-4. **Brett Kavanaugh sided with Trump Entertainment Resorts in a 2012 case that stopped a unionization drive at one of its casinos.** Trump's nominee for the Supreme Court voted to ignore an order from the National Labor Relations Board that would have required the Trump Plaza Hotel and Casino in Atlantic City to bargain with the United Auto Workers. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-07-30/kavanaugh-sided-with-trump-casino-in-2012-to-thwart-union-drive))
+ 4. **Trump said he's be willing to meet with Iran's President Hassan Rouhani hours after Iran said "there will definitely not be the possibility of dialogue and engagement."** Rouhani said "the United States has shown that it is totally unreliable." ([New York Times](https://www.nytimes.com/2018/07/30/us/politics/trump-iran-rouhani.html))
 
-5. **Justice Ruth Bader Ginsburg said she hopes to stay on the Supreme Court until the age of 90** or "about at least five more years." ([CNN](https://www.cnn.com/2018/07/29/politics/ruth-bader-ginsburg-scalia-new-york/index.html))
+ 5. **Brett Kavanaugh sided with Trump Entertainment Resorts in a 2012 case that stopped a unionization drive at one of its casinos.** Trump's nominee for the Supreme Court voted to ignore an order from the National Labor Relations Board that would have required the Trump Plaza Hotel and Casino in Atlantic City to bargain with the United Auto Workers. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-07-30/kavanaugh-sided-with-trump-casino-in-2012-to-thwart-union-drive))
 
-6. **Jeff Sessions announced that the Department of Justice is creating a "religious liberty task force"** to "ensure all Justice Department components are upholding" Trump's executive order to respect and protect religious liberty and political speech. ([The Hill](http://thehill.com/regulation/administration/399482-sessions-announces-religious-liberty-task-force))
+ 6. **Justice Ruth Bader Ginsburg said she hopes to stay on the Supreme Court until the age of 90** or "about at least five more years." ([CNN](https://www.cnn.com/2018/07/29/politics/ruth-bader-ginsburg-scalia-new-york/index.html))
 
-7. **Trump's golf resort in Scotland "partially destroyed" protected sand dunes**. Scottish Natural Heritage acknowledged that serious damage has been done to the site, which is of special scientific interest. Locals say Trump failed to honor promises to protect the site and that the development did not justify destroying the delicate ecosystem. ([The Guardian](https://www.theguardian.com/us-news/2018/jul/29/donald-trump-golf-environment-sssi-damaged-broken-promises))
+ 7. **Jeff Sessions announced that the Department of Justice is creating a "religious liberty task force"** to "ensure all Justice Department components are upholding" Trump's executive order to respect and protect religious liberty and political speech. ([The Hill](http://thehill.com/regulation/administration/399482-sessions-announces-religious-liberty-task-force))
+
+ 8. **The Trump administration is considering a $100 billion tax cut to the wealthy** by allowing Americans to account for inflation in determining capital gains tax liabilities. The move would bypass Congress and instead require Steven Mnuchin and the Treasury Department to change the definition of "cost" for calculating capital gains to adjust the initial value of an asset for inflation when it sells. ([New York Times](https://www.nytimes.com/2018/07/30/us/politics/trump-tax-cuts-rich.html))
+
+ 9. **Corporate executives have been receiving "eye-popping" payouts since Trump's new tax law went into effect** and slashed the corporate tax rates to 21%. Since the tax cuts were enacted, companies have announced more than $600 billion in buybacks – doubled from the same period a year ago. ([Politico](https://www.politico.com/story/2018/07/30/eye-popping-payouts-for-ceos-follow-trumps-tax-cuts-747649))
+
+10. **The Treasury Department is considering lifting sanctions on a Russian company founded by one of Putin's closest allies**. Rusal's former owner, oligarch Oleg Deripaska, was sanctioned this year by the U.S. in an attempt to punish the Kremlin for interfering in the 2016 election. Rusal was also sanctioned in April because of its ties to Deripaska. ([CNN](https://www.cnn.com/2018/07/27/politics/mnuchin-russia-sanctions-rusal/index.html))
+
+11. **Trump's golf resort in Scotland "partially destroyed" protected sand dunes**. Scottish Natural Heritage acknowledged that serious damage has been done to the site, which is of special scientific interest. Locals say Trump failed to honor promises to protect the site and that the development did not justify destroying the delicate ecosystem. ([The Guardian](https://www.theguardian.com/us-news/2018/jul/29/donald-trump-golf-environment-sssi-damaged-broken-promises))
 
 ---
 
@@ -61,6 +88,6 @@ image: "/uploads/557.jpg"
 
 {% twitter https://twitter.com/realDonaldTrump/status/1023646663590797312 %}
 
-{% twitter https://twitter.com/realDonaldTrump/status/1023646665851449345 %}
+{% twitter https://twitter.com/realDonaldTrump/status/1023646665851449345 hide_thread=true %}
 
-{% twitter https://twitter.com/realDonaldTrump/status/1023646669685104641 %}
+{% twitter https://twitter.com/realDonaldTrump/status/1023646669685104641 hide_thread=true %}

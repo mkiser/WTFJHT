@@ -30,7 +30,7 @@ defaults:
     image: ''
     todayInOneSentence: ''
     author: Matt Kiser
-    is_weeklyReview: false
+    is_weekly_review: false
     layout: post
     seo:
       type: NewsArticle

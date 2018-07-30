@@ -1,5 +1,5 @@
 ---
-title: 'Day 557: Trump Derangement Syndrome.'
+title: 'Day 557: "Trump Derangement Syndrome."'
 date: 2018-07-30 14:38:00 -07:00
 file: "/uploads/Day-557.mp3"
 post: Day 557

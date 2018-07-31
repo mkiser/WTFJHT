@@ -74,7 +74,7 @@ Quitting a salaried job that included full benefits to run a blog/newsletter tha
 
 **TOTAL MONTHLY COST:**
 
-\$2,469 (hosting, email, tools, etc.) \+ $3,000 (freelancers) $6,757 (my labor) = *\~$12,226* \+ $1,833.90 (15% risk adjustment) = <strong>$14,059.90</strong>.
+\$2,469 (hosting, email, tools, etc.) \+ $3,000 (freelancers) $6,757 (my labor) = \~$12,226 \+ $1,833.90 (15% risk adjustment) = <strong>$14,059.90</strong>.
 
 As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or corporate perks. While it's nice to work from home, it's also lonely. Somebody I'd like to afford a desk at a co-working space.
 

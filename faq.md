@@ -4,66 +4,75 @@ date: 2017-01-20 21:53:00 -08:00
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
-layout: page
 sitemap: false
+layout: page
 ---
 
-The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job]({{ site.baseurl }}/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free and sustainable. 
+The cost of running What The Fuck Just Happened Today isn't free. It's \[my full-time job\]({{ site.baseurl }}/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free and sustainable.
 
-Here's a rough estimate of the monthly costs:
+Here's a rough estimate of the monthly costs required to run WTFJHT:
 
 **Hosting:**
-The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, and generally an inexpensive data storage infrastructure option. I also use CloudFlare to manage my DNS, SSL certificate, and handle caching. _Monthly Cost:_ ~$50
+The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, and generally an inexpensive data storage infrastructure option. I also use CloudFlare to manage my DNS, SSL certificate, and handle caching. *Monthly Cost:* \~$100
 
 **Podcast and Hosting:**
-I use AWS S3 to host the [daily podcast]({{ site.baseurl }}/podcasts/) and cache the files with AWS CloudFront. I also pay Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. All-in, it costs me about $1,200 to run the pod. _Monthly Cost:_ ~$1200
+I use AWS S3 to host the \[daily podcast\]({{ site.baseurl }}/podcasts/) and cache the files with AWS CloudFront. I also pay Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. All-in, it costs me about $1,200 to run the pod. *Monthly Cost:* \~$1200
 
 **S3 Stat:**
-Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) let's me easily understand who is playing what pod on what device. _Monthly Cost:_ $10
+Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) let's me easily understand who is playing what pod on what device. *Monthly Cost:* $10
 
 **Live Chat:**
-I like to engage with the WTF family, so I've installed Chat.io, a livechat widget on the site. _Monthly Cost:_ $10
+I like to engage with the WTF family, so I've installed Chat.io, a livechat widget on the site. *Monthly Cost:* $10
 
 **Site Search:**
-This giant repository of news isn't very valuable if you can't find what you're looking for. I've implemented <a href="https://www.algolia.com/" target="_blank">Algolia</a>, the best instant search option out there. _Monthly Cost:_ $59
+This giant repository of news isn't very valuable if you can't find what you're looking for. I've implemented <a href="https://www.algolia.com/" target="_blank">Algolia</a>, the best instant search option out there. *Monthly Cost:* $59
 
 **Email Service:**
 Oh boy, here's one of the most expensive parts of running the site. I use <a href="https://mailchimp.com/" target="_blank">MailChimp</a> because the ease of use, templating, reporting, and pre-built forms are the best in the business. While there are cheaper options out there, the time-savings is worth it.
 
 MailChimp charges based on the number of subscribers you have AND the number of monthly emails sent. WTFJHT sends more than 2.5M emails/month.
 
-The costs of sending email will continue to go up as WTFJHT grows. MailChimp is an awesome company and they've provided us with a 15% discount. _Monthly Cost:_ At least $800; usually more.
+The costs of sending email will continue to go up as WTFJHT grows. MailChimp is an awesome company and they've provided us with a 15% discount. *Monthly Cost:* At least $800; usually more.
 
 **WTF Member Forum:**
-The [WTF Member Forum](https://talk.whatthefuckjusthappenedtoday.com/) is a community that exists 24/7/365 to discuss the news, coordinate actions, share perspectives, and connect with likeminded people. It's a [Discourse](http://www.discourse.org/){:target="_blank"} community hub, which is amazing, free, and open sourced. It needs to be hosted somewhere, however. The provider of choice is [Digital Ocean](https://www.digitalocean.com){:target="_blank"}. _Monthly Cost:_ ~$20
+The [WTF Member Forum](https://talk.whatthefuckjusthappenedtoday.com/) is a community that exists 24/7/365 to discuss the news, coordinate actions, share perspectives, and connect with likeminded people. It's a [Discourse](http://www.discourse.org/){:target="_blank"} community hub, which is amazing, free, and open sourced. It needs to be hosted somewhere, however. The provider of choice is [Digital Ocean](https://www.digitalocean.com){:target="_blank"}. *Monthly Cost:* \~$20
 
 **NewsWhip Spike:**
-I recently started using [Spike by NewsWhip](https://www.newswhip.com/newswhip-spike/) to help me more quickly source the daily news. Their tool is incredible, but very expensive. They belive in the WTF mission and cut me a deal for access. _Monthly Cost:_ $100
+I recently started using [Spike by NewsWhip](https://www.newswhip.com/newswhip-spike/) to help me more quickly source the daily news. Their tool is incredible, but very expensive. They belive in the WTF mission and cut me a deal for access. *Monthly Cost:* $100
 
 **Python Anywhere:**
-I wrote a Python script to help me source the top political news from across the web. I host it on Python Anywhere so I can access it on the go. _Monthly Cost:_ $15
+I built a news aggregator called [Current Status](https://currentstatus.io/) to help me source the top political news from across the web. I host it on Python Anywhere. *Monthly Cost:* $20
 
 **News Subscriptions:**
-Quality journalism ain't free. I have subscriptions to the New York Times, Washington Post, and the Wall Street Journal. _Monthly Cost:_ ~$50
+Quality journalism ain't free. I have subscriptions to the New York Times, Washington Post, Wall Street Journal, and a few others. *Monthly Cost:* \~$75
 
 **Freelancers:**
-Being your own boss is great, but nothing gets done if I take a day off. I hire freelance writers from time to time to help with the WTFJHT when I'm unable to. _Monthly Cost:_ ~$1000
+Being your own boss is great, but nothing gets done if I take a day off. To hire a freelance writer/editor and social media editor to help write and produce WTFJHT when I'm unable to costs about $200-$250/day all-in. *Monthly Cost:* \~$3000
 
-**Labor:**
+**My Labor:**
 Here's my conservative daily breakdown in time spent:
 
 * 3-5 hours researching and collecting stories
+
 * 2-4 hours writing and curating the daily post
+
 * 2-3 hours producing the newsletter, setting up the post, cutting images, publishing, troubleshooting, fixing typos
-* 1-3 hours community management and distributing to Twitter and Facebook
+
+* 1-3 hours community management and social media distribution on Twitter and Facebook
+
 * 1-4 hours site maintenance, help desk/support, etc
 
-And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle, via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. _Monthly Cost:_ ($63,718 + $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
+And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle, via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. *Monthly Cost:* ($63,718 \+ $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
+
+**Risk Adjustment:**\
+Quitting a salaried job that included full benefits to run a blog/newsletter that's supported entirely by an optional, pay-whatever-you-want contribution model comes with substantial risk. While I'm prepared to experience some variable income, I'm not prepared to run WTFJHT at a loss for an extended period of time. This risk adjustment is also responsible for covering the cost of health care and various, who-knows-wtf costs that may crop up. *Monthly cost*: 15% of total cost
 
 ---
 
 **TOTAL MONTHLY COST:**
 
-$3,314 (hosting, email, tools, etc.) + $6,757 (labor) = <strong>$10,071</strong>.
+\$2,394 (hosting, email, tools, etc.) \+ $3,000 (freelancers) $6,757 (my labor) = *\~$12,151* \+ $1,822.65 (15% risk adjustment) = <strong>$13,973.65</strong>.
 
-As you can see, nobody is getting rich here. I'm just trying to keep WTF Just Happened Today sustainable and that's why your support is so important. [Become a member today]({{ site.baseurl }}/membership/).
+As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or corporate perks. While it's nice to work from home, it's also lonely. Somebody I'd like to afford a desk at a co-working space. 
+
+I hope this transparency addresses any of your concerns and demonstrates why your support is critical to keeping WTF Just Happened Today going strong. Please \[become a member today\]({{ site.baseurl }}/membership/).

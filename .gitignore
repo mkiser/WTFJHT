@@ -45,3 +45,8 @@ validation-report.json
 
 # Folders to ignore
 node_modules
+
+# Ignore local configurations
+_config.yml
+Gemfile
+Gemfile.lock

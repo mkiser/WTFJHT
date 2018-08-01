@@ -28,7 +28,6 @@ defaults:
     title: ''
     description: ''
     image: ''
-    todayInOneSentence: ''
     author: Matt Kiser
     is_weekly_review: false
     layout: post
@@ -110,7 +109,6 @@ paginate: 1
 paginate_path: "/page/:num/"
 twitter:
   username: WTFJHT
-encoding: utf-8
 kramdown:
   smart_quotes:
   - apos
@@ -143,29 +141,23 @@ github:
   repo: https://github.com/mkiser/WTFJHT
 exclude:
 - vendor
-- Gemfile
-- Gemfile.lock
-- CONTRIBUTING.md
-- README.md
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT
   read_only_api_key: 50fe80eaf3c61b236fe7408e8be4bc30
-  nodes_to_index: p
-  extensions_to_index: html,md,markdown
-  files_to_exclude:
+  record_css_selector: p,li,blockquote
+  excluded_files:
   - 404.html
   - about.md
   - all.html
   - archive.md
-  - archive.html
   - archives
   - atom.xml
   - faq.md
   - index.html
   - instant-feed.xml
   - instantfeed.xml
-  - membership.html
+  - membership.md
   - press.md
   - rss.xml
   - styles.css
@@ -192,27 +184,20 @@ algolia:
   - first-100-days.html
   - faq
   - license
-  - pee-tape.html
-  - quiz.html
-  - do-something/*
-  - meta/*
-  - 45-for-45/*
-  - _authors/*
-  - _podcasts/*
-  - podcasts/index.html
-  - guide/*
-  - _topics/*
-  - _notes/*
-  - _topics/*.markdown
-  - page/*/**.html
+  - 45-for-45
+  - meta
+  - do-something
+  - podcasts
+  - author
+  - topics
+  - topic
+  - notes
   settings:
-    searchableAttributes:
-    - unordered(content)
-    - date
+    attributesToIndex:
+    - unordered(text)
+    - posted_at
     - title
-    customRanking:
-    - desc(custom_ranking.heading)
-    - asc(custom_ranking.position)
+    - h1
     distinct: false
 extlinks:
   attributes:
@@ -238,29 +223,16 @@ jekyll-archives:
     year: "/archive/:year/"
     month: "/archive/:year/:month/"
 plugins:
+- jekyll-gist
 - jekyll-redirect-from
+- github-pages
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-extlinks
 - jekyll-archives
+- algoliasearch
 - jekyll-include-cache
-- jekyll-onebox
-- jekyll-algolia
-onebox:
-  whitelist:
-  - nbcnews.com
-  - politico.com
-  - thedailybeast.com
-  - thehill.com
-  - vox.com
-  - cnbc.com
-  - apnews.com
-  - theguardian.com
-  - buzzfeed.com
-  - abcnews.go.com
-  - reuters.com
-  - theverge.com
 podcast_album_art: "/podcasts/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser

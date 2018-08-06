@@ -1,0 +1,71 @@
+---
+title: Day 559
+date: 2018-08-01 00:41:00 -07:00
+description: A terrible situation.
+image: "/uploads/559.jpg"
+todayInOneSentence: Trump urged Sessions to end the Mueller investigation "right now";
+  Trump called the prosecution of Paul Manafort is "a hoax"; Mueller offered to limit
+  the scope of questions in exchange for an interview with Trump; and an appeal court
+  ruled that Trump's executive order to withhold federal funding from "sanctuary cities"
+  was unconstitutional.
+---
+
+1/ **Trump urged Jeff Sessions to end the Mueller investigation and "stop this Rigged Witch Hunt right now."** In a morning tweetstorm, Trump called Mueller's probe "a terrible situation" that should be stopped "before it continues to stain our country any further." Rod Rosenstein has been overseeing the probe since Sessions [recused](https://whatthefuckjusthappenedtoday.com/2017/03/02/Day-42/#1-jeff-sessions-recused-himself-from) himself last March – before Mueller was appointed. Trump has said he would have [never hired](https://whatthefuckjusthappenedtoday.com/2017/07/20/day-182/#1-trump-would-have-never-hired-jeff) Sessions had he known he would recuse himself from the Russia investigation. Mueller, meanwhile, has been [scrutinizing](https://whatthefuckjusthappenedtoday.com/2018/07/26/day-553/#3-robert-mueller-is-scrutinizing-tru) Trump's tweets and statements about Sessions and James Comey as potential evidence in an obstruction of justice case. Sarah Huckabee Sanders and Trump's lawyers claimed that the message was not a formal order, but rather just the President of United States expressing his opinion. ([New York Times](https://www.nytimes.com/2018/08/01/us/politics/trump-sessions-russia-investigation.html) / [CNBC](https://www.cnbc.com/2018/08/01/trump-urges-attorney-general-sessions-to-stop-mueller-probe-right-now.html) / [CNN](https://www.cnn.com/2018/08/01/politics/trump-russia-jeff-sessions-mueller/index.html) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/08/01/mueller-is-looking-at-trumps-tweets-for-obstruction-of-justice-and-trump-just-handed-him-more-potential-evidence/))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1024646945640525826 %}
+
+* **Trump tweets that the prosecution of Paul Manafort is "a hoax."** Meanwhile, the federal jury in Virginia is hearing evidence in Manafort's trial on tax evasion and fraud charges. ([Washington Post](https://www.washingtonpost.com/politics/trump-calls-manafort-prosecution-a-hoax-says-sessions-should-stop-mueller-investigation/2018/08/01/8deb579e-958e-11e8-810c-5fa705927d54_story.html))
+
+* {%  twitter https://twitter.com/realDonaldTrump/status/1024649463435067398 %}
+
+* {% twitter https://twitter.com/realDonaldTrump/status/1024656465158721536 %}
+
+2/ **Mueller offered to reduce the number of questions in exchange for an interview with Trump**. Trump has continued say he'd willing to speak with Mueller, but his lawyers keep moving the goal posts. *\[This story is developing...\]* ([Washington Post](https://www.washingtonpost.com/news/politics/wp/2018/08/01/mueller-offers-to-limit-investigators-questions-for-trump-in-special-counsels-latest-effort-to-secure-presidential-interview/))
+
+2/ **Robert Mueller has referred three investigations into possible illicit foreign lobbying to New York prosecutors handling the Michael Cohen case**. All three cases are linked to Paul Manafort, who brought other Washington lobbyists and lawyers into his work on behalf of Ukrainian politicians. The cases are examining whether those lobbyists also failed to register as foreign agents and how they were paid. None of the three men involved in the cases has been charged with a crime, but Mueller's team has subpoenaed or requested documents from all three of their firms. ([CNN](https://www.cnn.com/2018/07/31/politics/mueller-investigation-foreign-agent-referrals-new-york/index.html) / [New York Times](https://www.nytimes.com/2018/08/01/us/politics/mueller-foreign-lobbying.html))
+
+3/ **The 9th U.S. Circuit Court of Appeals ruled that Trump's executive order to withhold federal funding from "sanctuary cities" was unconstitutional**. The case now heads back to the District Court for hearings on whether there is enough evidence to support a nationwide ban on the order to withhold funding from cities that limit cooperation with immigration authorities. ([Associated Press](https://apnews.com/350353e37873421f9411a4c38731005a) / [Politico](https://www.politico.com/story/2018/08/01/trump-sanctuary-cities-appeal-ruling-756925))
+
+4/ **The Trump administration is considering reducing the number of refugees admitted into the U.S. by 40%**. The proposal calls for no more than 25,000 refugee resettlements next year, which would mark the lowest number of refugees admitted to the country since the program started in 1980. ([New York Times](https://www.nytimes.com/2018/08/01/us/politics/trump-refugees-reduction.html))
+
+poll/ **44% of Americans said they'd vote for Joe Biden in the 2020 election compared to 37% who said they'd vote for Trump**. 80% of Democrats would choose Biden while 78% of Republicans would choose to reelect Trump. ([Politico](https://www.politico.com/story/2018/08/01/biden-trump-2020-elections-752979))
+
+poll/ **An average of 7% of Democrats approve of Trump's job performance**, compared with an average of 84% of Republicans who approve. The 77-percentage-point gap makes Trump's job approval by party the most polarized performance dating back to Eisenhower. ([Pew Research Center](http://www.pewresearch.org/fact-tank/2018/08/01/trumps-approval-ratings-so-far-are-unusually-stable-and-deeply-partisan/))
+
+---
+
+## Dept. of Paul Manafort's Trial.
+
+*Instead of writing summary recaps of the trial, I'm going to provide 2-3 daily links to the coverage. At the conclusion of the trial, I'll write one summary. Sound good?*
+
+**Day One.**
+
+1. Jury selection, first witness called and a $15,000 ostrich jacket. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/07/31/paul-manafort-trial-live-coverage/))
+
+2. Prosecutors accused Manafort of being a "shrewd" liar who lived an "extravagant lifestyle" fueled by "secret income" that he earned from lobbying work in Ukraine. ([CNN](https://www.cnn.com/interactive/2018/politics/paul-manafort-trial-tracker/#/virginia/all))
+
+**Day Two.**
+
+1. Manafort's defense team opened by blaming Rick Gates. ([New York Times](https://www.nytimes.com/2018/07/31/us/politics/paul-manafort-trial.html))
+
+2. A fake bill, a banned word, and a Rick Gates surprise. ([Politico](https://www.politico.com/story/2018/08/01/paul-manafort-trial-testimony-day-2-756749))
+
+3. Executive at 'most expensive store' testifies that Manafort paid for suits via wire transfers. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/01/paul-manafort-trial-day-two/))
+
+---
+
+## Notables.
+
+1. **Mike Pence vowed to protect the midterm elections from foreign interference**. According to Homeland Security Secretary Kirstjen Nielsen, existing Homeland Security resources and budget will be used to set up a national cyber risk management center that will work with financial firms, energy companies and telecommunications providers to conduct security weakness assessments. ([Reuters](https://www.reuters.com/article/us-usa-cyber-infrastructure/u-s-government-seeks-to-boost-collaboration-with-industry-on-hacks-idUSKBN1KL2VP))
+
+2. **Senate Republicans rejected a bid to spend an extra $250 million on election security for the 2018 midterms**. The 50 to 47 vote fell far short of the 60 votes needed despite intelligence officials warning that foreign governments will try to interfere in the election. ([Washington Post](https://www.washingtonpost.com/powerpost/senate-republicans-shoot-down-extra-funds-for-election-security/2018/08/01/cac1750a-95a1-11e8-a679-b09212fb69c2_story.html))
+
+3. **A scammer called a U.S. senator and pretended to represent a Latvian official in an attempt to get information about U.S. sanctions on Russia**. Sen. Jeanne Shaheen was contacted by "Arturs Vaiders," who claimed to be working for the Latvian foreign ministry and needed to discuss the "prolongation of anti-Russian sanctions" and "general security with Kaspersky laboratory case." Shaheen contacted the Latvian government to confirm the caller's credentials, but the embassy responded that the outreach attempt was fake. ([Daily Beast](https://www.thedailybeast.com/mystery-sting-targets-us-senator-for-dirt-on-russia-sanctions))
+
+4. **The Trump administration issued new insurance rules that encourage more Americans to buy inexpensive health plans originally designed for short-term use**. These short-term plans don't have to cover pre-existing conditions, and they circumvent some of the Affordable Care Act's coverage requirements and consumer protections. ([Washington Post](https://www.washingtonpost.com/national/health-science/trump-administration-widens-availability-of-skimpy-short-term-health-plans/2018/07/31/a5cf2bc2-94d2-11e8-810c-5fa705927d54_story.html))
+
+5. **The Treasury Department imposed sanctions on two Turkish officials over the detention of an American pastor** who was arrested in October 2016 on accusations of spying and attempting to overthrow the Turkish government. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-01/u-s-sanctions-two-top-turkish-ministers-over-pastor-s-detention) / [CNBC](https://www.cnbc.com/2018/08/01/white-house-us-sanctions-top-turkish-officials-over-pastor-detention.html))
+
+6. **While defending stricter voter ID laws, Trump claimed you need photo identification to buy groceries at supermarkets**. "if you go out and you want to buy groceries, you need a picture on a card, you need ID," he said. "You go out and you want to buy anything, you need ID and you need your picture." The White House did not respond to questions about when the president last bought groceries himself. ([Associated Press](https://apnews.com/86bbb02de5e249eba482c4d2fb651120))
+
+7. **Trump has made 4,229 false or misleading statements in the first 558 days of his administration — an average of 7.6 claims per day**. In the last two months alone, Trump added 978 claims to the tally. During his first 100 days, Trump clocked in at an average of 4.9 claims per day. ([Washington Post](https://www.washingtonpost.com/news/fact-checker/wp/2018/08/01/president-trump-has-made-4229-false-or-misleading-claims-in-558-days/?utm_term=.af2b6b5db8d9))

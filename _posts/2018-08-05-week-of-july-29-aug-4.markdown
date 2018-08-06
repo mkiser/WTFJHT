@@ -2,6 +2,7 @@
 title: Week of July 29 - Aug 4
 date: 2018-08-05 19:24:00 -07:00
 description: What We Learned in the Russia Probe
+image: "/uploads/weekinreview729.jpg"
 author: Adrienne Cobb
 is_weekly_review: true
 ---

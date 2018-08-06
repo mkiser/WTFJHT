@@ -1,13 +1,12 @@
 ---
 title: Bad news.
-date: 2018-08-01 00:00:00 -08:00
+date: 2018-08-01 01:00:00 -07:00
 layout: page
 description: Did you hear the news?
 image: "/uploads/180723_r32441.jpg"
 metatags: noindex, follow
 sitemap: false
 ---
-
 
 ![Bad News]({{ site.url }}{{ site.baseurl }}/uploads/180723_r32441.jpg)
 

@@ -11,13 +11,13 @@ layout: post
 
 ---
 
-## Day Six.
+* ## Day Six.
 
-1. **Gates details tax and financial schemes**. Gates detailed how his ex-boss Paul Manafort used a web of offshore companies to receive tens of millions of dollars in payments from wealthy Ukrainian businessmen. ([Politico](https://www.politico.com/story/2018/08/07/paul-manafort-trial-day-6-rick-gates-765886) / [CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
+* **Gates details tax and financial schemes**. Gates detailed how his ex-boss Paul Manafort used a web of offshore companies to receive tens of millions of dollars in payments from wealthy Ukrainian businessmen. ([Politico](https://www.politico.com/story/2018/08/07/paul-manafort-trial-day-6-rick-gates-765886) / [CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
 
-2. **With his income drying up in 2015, Manafort was upset when he learned he would owe $215,000 in taxes** for income he reported in 2014. He wrote to Gates: "How could I be blindsided like this. You told me you were on top of this. We need to discuss options. This is a disaster." ([New York Times](https://www.nytimes.com/2018/08/07/us/politics/manafort-trial-gates-testimony.html))
+* **With his income drying up in 2015, Manafort was upset when he learned he would owe $215,000 in taxes** for income he reported in 2014. He wrote to Gates: "How could I be blindsided like this. You told me you were on top of this. We need to discuss options. This is a disaster." ([New York Times](https://www.nytimes.com/2018/08/07/us/politics/manafort-trial-gates-testimony.html))
 
-3. Tensions between Judge T.S. Ellis and prosecutor. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-07/manafort-judge-to-prosecutor-there-s-tears-in-your-eyes))
+* Tensions between Judge T.S. Ellis and prosecutor. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-07/manafort-judge-to-prosecutor-there-s-tears-in-your-eyes))
 
 ---
 

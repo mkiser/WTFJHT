@@ -17,6 +17,8 @@ layout: post
 
 * **With his income drying up in 2015, Manafort was upset when he learned he would owe $215,000 in taxes** for income he reported in 2014. He wrote to Gates: "How could I be blindsided like this. You told me you were on top of this. We need to discuss options. This is a disaster." ([New York Times](https://www.nytimes.com/2018/08/07/us/politics/manafort-trial-gates-testimony.html))
 
+* Gates said he set up offshore companies to help hide Manafort's money. ([Wall Street Journal](https://www.wsj.com/articles/richard-gates-says-he-set-up-offshore-companies-to-hide-manaforts-money-1533668074))
+
 * Tensions between Judge T.S. Ellis and prosecutor. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-07/manafort-judge-to-prosecutor-there-s-tears-in-your-eyes))
 
 ---

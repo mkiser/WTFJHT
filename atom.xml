@@ -17,7 +17,7 @@ layout:
  {% for post in site.posts limit:50 %}
  <entry>
    <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
-   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=morning_update"/>
+   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=daily"/>
    <published>{{ post.date | date_to_xmlschema }}</published>
    <updated>{{ post.last_modified | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>
@@ -26,8 +26,12 @@ layout:
    		<email>{{ site.author.email }}</email>
    		<uri>{{ site.url }}{{ site.baseurl }}</uri>
     </author>
-   <content type="html">{{ post.content | xml_escape }}
-   	&lt;p&gt;&lt;strong&gt;Subscribe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/subscribe/&quot; target=&quot;_blank&quot;&gt;Get the Daily Update in your inbox for free&lt;/a&gt; &lt;/p&gt;
+   <content type="html">
+    &lt;p&gt;&lt;strong&gt;Support today&#39;s essential newsletter and resist the daily shock and awe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/membership&quot;&gt;Become a member&lt;/a&gt; or &lt;a href=&quot;https://cottonbureau.com/products/wtf-just-happened-today&quot; target=&quot;_blank&quot;&gt;buy a t-shirt&lt;/a&gt;&lt;/p&gt;
+    
+    {{ post.content | xml_escape }}
+   	
+    &lt;p&gt;&lt;strong&gt;Subscribe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/subscribe/&quot; target=&quot;_blank&quot;&gt;Get the Daily Update in your inbox for free&lt;/a&gt; &lt;/p&gt;
    </content>
  </entry>
  {% endfor %}

@@ -12,11 +12,11 @@
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
   <script>
-    if($.cookie('alertbox') == 'true'){
+    if($.cookie('membership') == 'true'){
       $('#pledgedrive').hide();
     };
     $("#pledgedrive").click(function(){
-      document.cookie = "alertbox=true; expires=Fri, 31 Dec 9999 23:59:59 UTC";
+      document.cookie = "membership=true; expires=Fri, 31 Dec 9999 23:59:59 UTC";
     });
   </script>
 

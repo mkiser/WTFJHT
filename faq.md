@@ -68,7 +68,7 @@ Here's my conservative daily breakdown in time spent:
 And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle, via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. *Monthly Cost:* ($63,718 \+ $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
 
 **Risk Adjustment:**
-Quitting a salaried job that included full benefits to run a blog/newsletter that's supported entirely by an optional, pay-whatever-you-want contribution model comes with substantial risk. While I'm prepared to experience some variable income, I'm not prepared to run WTFJHT at a loss for an extended period of time. This risk adjustment is also responsible for covering the cost of health care and various, who-knows-wtf costs that may crop up. *Monthly cost*: 15% of total cost
+Quitting a salaried job that included full benefits to run a blog/newsletter that's supported entirely by an optional, pay-whatever-you-want contribution model comes with substantial risk. While I'm prepared to experience some variable income, I'm not prepared to run WTFJHT at a loss for an extended period of time. This risk adjustment is also responsible for covering things like personal health care, taxes, and various who-knows-wtf fees that come with the territory. *Monthly cost*: 15% of total cost
 
 ---
 
@@ -76,6 +76,6 @@ Quitting a salaried job that included full benefits to run a blog/newsletter tha
 
 \$2,469 (hosting, email, tools, etc.) \+ $3,000 (freelancers) $6,757 (my labor) = \~$12,226 \+ $1,833.90 (15% risk adjustment) = <strong>$14,059.90</strong>.
 
-As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or corporate perks. While it's nice to work from home, it's also lonely. Somebody I'd like to afford a desk at a co-working space.
+As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or corporate perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford a desk at a co-working space. 
 
-I hope this transparency addresses any of your concerns and demonstrates why your support is critical to keeping WTF Just Happened Today going strong. Please [become a member today](https://whatthefuckjusthappenedtoday.com/membership/).
+I hope this transparency addresses any concerns you may have and demonstrates why your support is critical to keeping WTF Just Happened Today going strong. So, please [become a member today](https://whatthefuckjusthappenedtoday.com/membership/).

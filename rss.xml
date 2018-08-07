@@ -23,11 +23,16 @@ layout:
                 <![CDATA[{{ post.content | strip_html | truncate: 250 }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>]]>
             </description>
             <content:encoded>
-                <![CDATA[<img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}"/> {{ post.content }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>]]>
+                <![CDATA[<img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}"/> 
+                <p>
+                    <strong>Support today's essential newsletter and resist the daily shock and awe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/membership">Become a member</a> or <a href="https://cottonbureau.com/products/wtf-just-happened-today" target="_blank">buy a t-shirt</a>
+                </p>
+
+                {{ post.content }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>]]>
             </content:encoded>
             <author>{{ site.author.email }} ({{ site.author.name }})</author>
             <pubDate>{{ post.date | date:"%a, %d %b %Y %T %z" }}</pubDate>
-            <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=morning_update</link>
+            <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=daily_update</link>
             <guid isPermaLink="false">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
             <category>politics</category>
         </item>

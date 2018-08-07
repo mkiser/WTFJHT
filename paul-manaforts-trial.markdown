@@ -1,16 +1,29 @@
 ---
 title: Paul Manafort's Trial
 date: 2018-08-07 07:54:00 -07:00
-image: "/public/wtfjht-t.jpg"
-description: A daily recap and takeaway of updates.
+image: "/public/wtfjht-f.jpg"
+description: A daily recap.
+author: Matt Kiser
 layout: post
 ---
 
 *Instead of writing summary recaps of the trial, I'm going to provide a few daily links to the live coverage.*
 
+---
+
+## Day Six.
+
+1. **Gates details tax and financial schemes**. Gates detailed how his ex-boss Paul Manafort used a web of offshore companies to receive tens of millions of dollars in payments from wealthy Ukrainian businessmen. ([Politico](https://www.politico.com/story/2018/08/07/paul-manafort-trial-day-6-rick-gates-765886) / [CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
+
+2. **With his income drying up in 2015, Manafort was upset when he learned he would owe $215,000 in taxes** for income he reported in 2014. He wrote to Gates: "How could I be blindsided like this. You told me you were on top of this. We need to discuss options. This is a disaster." ([New York Times](https://www.nytimes.com/2018/08/07/us/politics/manafort-trial-gates-testimony.html))
+
+3. Tensions between Judge T.S. Ellis and prosecutor. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-07/manafort-judge-to-prosecutor-there-s-tears-in-your-eyes))
+
+---
+
 * ## Day Five.
 
-* 🚨 **Rick Gates testified that he and Paul Manafort committed crimes together and held 15 foreign bank accounts that were not disclosed to the federal government**, which were not submitted "at Mr. Manafort's direction." Gates admitted to a wide variety of crimes, including bank fraud, tax fraud, money laundering, lying to federal authorities, lying in a court deposition and stealing hundreds of thousands of dollars from Manafort's accounts by falsely claiming expenses. ([New York Times](https://www.nytimes.com/2018/08/06/us/politics/rick-gates-manafort-trump-trial.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/rick-gates-testifies-he-committed-crimes-paul-manafort-n898071) / [Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/06/paul-manafort-trial-day-5-live-updates/))
+* 🚨 **Rick Gates testified that he and Paul Manafort committed crimes together and held 15 foreign bank accounts that were not disclosed to the federal government**. The accounts were not disclosed "at Mr. Manafort's direction." Gates admitted to a wide variety of crimes, including bank fraud, tax fraud, money laundering, lying to federal authorities, lying in a court deposition and stealing hundreds of thousands of dollars from Manafort's accounts by falsely claiming expenses. Gates testified that Konstantin Kilimnik, a Russian who Mueller's team alleges had ties to Russian intelligence during the 2016 U.S. presidential campaign, had signatory authority over some of Manafort's accounts in Cyprus. ([New York Times](https://www.nytimes.com/2018/08/06/us/politics/rick-gates-manafort-trump-trial.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/rick-gates-testifies-he-committed-crimes-paul-manafort-n898071) / [Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/06/paul-manafort-trial-day-5-live-updates/))
 
 * Rick Gates to take the stand. Gates is considered the star witness for the prosecution against Manafort. ([Politico](https://www.politico.com/story/2018/08/06/rick-gates-set-to-take-the-stand-in-manafort-trial-764866))
 

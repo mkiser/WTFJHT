@@ -1,8 +1,8 @@
 ---
-title: Paul Manafort's Trial.
+title: Paul Manafort's Trial
 date: 2018-08-07 07:54:00 -07:00
 image: "/public/wtfjht-t.jpg"
-description: Daily recap coverage of Paul Manafort's trial
+description: A daily recap and takeaway of updates. 
 layout: post
 ---
 

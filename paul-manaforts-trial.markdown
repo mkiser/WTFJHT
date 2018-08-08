@@ -11,15 +11,19 @@ layout: post
 
 ---
 
-## Day Seven.
+* ## Day Seven.
 
-1. **Trump's name was repeatedly invoked in a trial Trump insists has nothing to do with him**. ([Politico](https://www.politico.com/story/2018/08/08/trump-manafort-trial-766439))
+* **Trump's name was repeatedly invoked in a trial Trump insists has nothing to do with him**. ([Politico](https://www.politico.com/story/2018/08/08/trump-manafort-trial-766439))
 
-2. Gates didn’t mention hidden income in 2014 FBI interview about Viktor Yanukovych. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/08/paul-manafort-trial-day-7-live-coverage/))
+* Manafort’s defense team takes parting shot at Rick Gates as star witness ends testimony. ([Washington Post](https://www.washingtonpost.com/world/national-security/manaforts-defense-team-takes-parting-shot-at-rick-gates-as-star-witness-ends-testimony/2018/08/08/16808b70-9b42-11e8-843b-36e177f3081c_story.html))
 
-3. Gates returns to the courtroom for a third day of testimony against the former Trump campaign chairman. ([CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
+* Paul Manafort’s Defense Team Accuses Rick Gates of Multiple Affairs. ([New York Times](https://www.nytimes.com/2018/08/08/us/politics/manafort-trial-gates-testimony.html))
 
-4. The latest in the Paul Manafort trial: Daily summary. ([Politico](https://www.politico.com/interactives/2018/paul-manafort-trial-latest-news/))
+* Gates didn’t mention hidden income in 2014 FBI interview about Viktor Yanukovych. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/08/paul-manafort-trial-day-7-live-coverage/))
+
+* Gates returns to the courtroom for a third day of testimony against the former Trump campaign chairman. ([CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
+
+* The latest in the Paul Manafort trial: Daily summary. ([Politico](https://www.politico.com/interactives/2018/paul-manafort-trial-latest-news/))
 
 ---
 

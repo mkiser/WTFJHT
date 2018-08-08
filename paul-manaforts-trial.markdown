@@ -11,6 +11,18 @@ layout: post
 
 ---
 
+## Day Seven.
+
+1. **Trump's name was repeatedly invoked in a trial Trump insists has nothing to do with him**. ([Politico](https://www.politico.com/story/2018/08/08/trump-manafort-trial-766439))
+
+2. Gates didn’t mention hidden income in 2014 FBI interview about Viktor Yanukovych. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/08/paul-manafort-trial-day-7-live-coverage/))
+
+3. Gates returns to the courtroom for a third day of testimony against the former Trump campaign chairman. ([CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
+
+4. The latest in the Paul Manafort trial: Daily summary. ([Politico](https://www.politico.com/interactives/2018/paul-manafort-trial-latest-news/))
+
+---
+
 * ## Day Six.
 
 * **Gates details tax and financial schemes**. Gates detailed how his ex-boss Paul Manafort used a web of offshore companies to receive tens of millions of dollars in payments from wealthy Ukrainian businessmen. ([Politico](https://www.politico.com/story/2018/08/07/paul-manafort-trial-day-6-rick-gates-765886) / [CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))

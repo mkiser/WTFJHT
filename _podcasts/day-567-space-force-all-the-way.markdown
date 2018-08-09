@@ -1,10 +1,10 @@
 ---
 title: 'Day 567: Space Force all the way.'
 date: 2018-08-09 13:29:00 -07:00
-file: "/uploads/Day-567.mp3"
+file: "/uploads/Day-567a.mp3"
 post: Day 567
-duration: '00:05:42'
-length: 9440301
+duration: '00:05:23'
+length: 8795081
 ---
 
 **Thursday, August 9, 2018**

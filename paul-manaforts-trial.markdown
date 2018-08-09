@@ -13,7 +13,7 @@ layout: post
 
 * ## Day Eight.
 
-* Judge Ellis apologizes for outburst at prosecutors. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/09/paul-manafort-trial-day-8-live-coverage/) / [Politico](https://www.politico.com/story/2018/08/09/paul-manafort-trial-day-8-judge-ellis-769889))
+* Banker says Manafort wouldn’t have gotten $3.4 million loan if bank knew NYC condo was rental. Judge Ellis apologizes for outburst at prosecutors. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/09/paul-manafort-trial-day-8-live-coverage/) / [Politico](https://www.politico.com/story/2018/08/09/paul-manafort-trial-day-8-judge-ellis-769889))
 
 * Mueller's team filed a formal written protest about the judge's behavior, complaining that prosecutors were being unfairly called out in front of the jury. ([Politico](https://www.politico.com/story/2018/08/08/manafort-trial-mueller-gates-ellis-768715))
 

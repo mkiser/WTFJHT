@@ -1,6 +1,6 @@
 ---
 title: Paul Manafort's Trial
-date: 2018-08-07 07:54:00 -07:00
+date: 2018-08-09 07:54:00 -07:00
 image: "/public/wtfjht-f.jpg"
 description: A daily recap.
 author: Matt Kiser
@@ -11,9 +11,21 @@ layout: post
 
 ---
 
+* ## Day Eight.
+
+* Judge Ellis apologizes for outburst at prosecutors. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/09/paul-manafort-trial-day-8-live-coverage/))
+
+* Mueller's team filed a formal written protest about the judge's behavior, complaining that prosecutors were being unfairly called out in front of the jury. ([Politico](https://www.politico.com/story/2018/08/08/manafort-trial-mueller-gates-ellis-768715))
+
+* Judge in Manafort Trial Is a ‘Caesar’ in His Own Rome. ([New York Times](https://www.nytimes.com/2018/08/09/us/politics/judge-ellis-manafort-trial.html))
+
+---
+
 * ## Day Seven.
 
 * **Trump's name was repeatedly invoked in a trial Trump insists has nothing to do with him**. ([Politico](https://www.politico.com/story/2018/08/08/trump-manafort-trial-766439))
+
+* Gates wraps testimony, tensions flare. Just as Gates was about to conclude his testimony, defense attorney Kevin Downing hit the former Manafort aide with a question that indicated Gates’ “secret life” involved multiple instances of marital infidelity. ([Politico](https://www.politico.com/story/2018/08/08/manafort-trial-day-7-rick-gates-767370))
 
 * Manafort’s defense team takes parting shot at Rick Gates as star witness ends testimony. ([Washington Post](https://www.washingtonpost.com/world/national-security/manaforts-defense-team-takes-parting-shot-at-rick-gates-as-star-witness-ends-testimony/2018/08/08/16808b70-9b42-11e8-843b-36e177f3081c_story.html))
 

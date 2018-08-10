@@ -11,6 +11,16 @@ layout: post
 
 ---
 
+* ## Day Nine.
+
+* The federal judge overseeing the trial of Paul Manafort sealed a transcript on Thursday of a private discussion in front of his bench after prosecutors from the special counsel’s office argued that they needed to protect an “ongoing investigation.” ([New York Times](https://www.nytimes.com/2018/08/09/us/politics/special-counsel-manafort-trial.html))
+
+* Judge seals discussion of Rick Gates, Trump and the ongoing Mueller investigation. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/10/paul-manafort-trial-day-9-live-coverage/))
+
+* Robert Mueller's team is expected to call a handful more witnesses in the trial against former Trump campaign chairman Paul Manafort. ([CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
+
+---
+
 * ## Day Eight.
 
 * Banker says Manafort wouldn’t have gotten $3.4 million loan if bank knew NYC condo was rental. Judge Ellis apologizes for outburst at prosecutors. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/09/paul-manafort-trial-day-8-live-coverage/) / [Politico](https://www.politico.com/story/2018/08/09/paul-manafort-trial-day-8-judge-ellis-769889))

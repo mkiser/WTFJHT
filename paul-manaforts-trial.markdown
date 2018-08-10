@@ -15,6 +15,8 @@ layout: post
 
 * The federal judge overseeing the trial of Paul Manafort sealed a transcript on Thursday of a private discussion in front of his bench after prosecutors from the special counsel’s office argued that they needed to protect an “ongoing investigation.” ([New York Times](https://www.nytimes.com/2018/08/09/us/politics/special-counsel-manafort-trial.html))
 
+* Trial resumes after mysterious delay. No explanation was given after rumors swirled Friday that a sudden delay could mean anything from a looming guilty plea to the judge conceding his second mistake in two days. ([Politico](https://www.politico.com/story/2018/08/10/manafort-trial-day-9-judge-ts-ellis-772518))
+
 * Judge seals discussion of Rick Gates, Trump and the ongoing Mueller investigation. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/10/paul-manafort-trial-day-9-live-coverage/))
 
 * Robert Mueller's team is expected to call a handful more witnesses in the trial against former Trump campaign chairman Paul Manafort. ([CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))

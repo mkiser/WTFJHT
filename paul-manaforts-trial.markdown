@@ -1,6 +1,6 @@
 ---
 title: Paul Manafort's Trial
-date: 2018-08-07 07:54:00 -07:00
+date: 2018-08-09 07:54:00 -07:00
 image: "/public/wtfjht-f.jpg"
 description: A daily recap.
 author: Matt Kiser
@@ -11,11 +11,51 @@ layout: post
 
 ---
 
+* ## Day Nine.
+
+* The federal judge overseeing the trial of Paul Manafort sealed a transcript on Thursday of a private discussion in front of his bench after prosecutors from the special counsel’s office argued that they needed to protect an “ongoing investigation.” ([New York Times](https://www.nytimes.com/2018/08/09/us/politics/special-counsel-manafort-trial.html))
+
+* Judge seals discussion of Rick Gates, Trump and the ongoing Mueller investigation. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/10/paul-manafort-trial-day-9-live-coverage/))
+
+* Robert Mueller's team is expected to call a handful more witnesses in the trial against former Trump campaign chairman Paul Manafort. ([CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
+
+---
+
+* ## Day Eight.
+
+* Banker says Manafort wouldn’t have gotten $3.4 million loan if bank knew NYC condo was rental. Judge Ellis apologizes for outburst at prosecutors. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/09/paul-manafort-trial-day-8-live-coverage/) / [Politico](https://www.politico.com/story/2018/08/09/paul-manafort-trial-day-8-judge-ellis-769889))
+
+* Mueller's team filed a formal written protest about the judge's behavior, complaining that prosecutors were being unfairly called out in front of the jury. ([Politico](https://www.politico.com/story/2018/08/08/manafort-trial-mueller-gates-ellis-768715))
+
+* Judge in Manafort Trial Is a ‘Caesar’ in His Own Rome. ([New York Times](https://www.nytimes.com/2018/08/09/us/politics/judge-ellis-manafort-trial.html))
+
+---
+
+* ## Day Seven.
+
+* **Trump's name was repeatedly invoked in a trial Trump insists has nothing to do with him**. ([Politico](https://www.politico.com/story/2018/08/08/trump-manafort-trial-766439))
+
+* Gates wraps testimony, tensions flare. Just as Gates was about to conclude his testimony, defense attorney Kevin Downing hit the former Manafort aide with a question that indicated Gates’ “secret life” involved multiple instances of marital infidelity. ([Politico](https://www.politico.com/story/2018/08/08/manafort-trial-day-7-rick-gates-767370))
+
+* Manafort’s defense team takes parting shot at Rick Gates as star witness ends testimony. ([Washington Post](https://www.washingtonpost.com/world/national-security/manaforts-defense-team-takes-parting-shot-at-rick-gates-as-star-witness-ends-testimony/2018/08/08/16808b70-9b42-11e8-843b-36e177f3081c_story.html))
+
+* Paul Manafort’s Defense Team Accuses Rick Gates of Multiple Affairs. ([New York Times](https://www.nytimes.com/2018/08/08/us/politics/manafort-trial-gates-testimony.html))
+
+* Gates didn’t mention hidden income in 2014 FBI interview about Viktor Yanukovych. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/08/paul-manafort-trial-day-7-live-coverage/))
+
+* Gates returns to the courtroom for a third day of testimony against the former Trump campaign chairman. ([CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
+
+* The latest in the Paul Manafort trial: Daily summary. ([Politico](https://www.politico.com/interactives/2018/paul-manafort-trial-latest-news/))
+
+---
+
 * ## Day Six.
 
 * **Gates details tax and financial schemes**. Gates detailed how his ex-boss Paul Manafort used a web of offshore companies to receive tens of millions of dollars in payments from wealthy Ukrainian businessmen. ([Politico](https://www.politico.com/story/2018/08/07/paul-manafort-trial-day-6-rick-gates-765886) / [CNN](https://www.cnn.com/politics/live-news/manafort-trial/index.html))
 
 * **With his income drying up in 2015, Manafort was upset when he learned he would owe $215,000 in taxes** for income he reported in 2014. He wrote to Gates: "How could I be blindsided like this. You told me you were on top of this. We need to discuss options. This is a disaster." ([New York Times](https://www.nytimes.com/2018/08/07/us/politics/manafort-trial-gates-testimony.html))
+
+* Gates said he set up offshore companies to help hide Manafort's money. ([Wall Street Journal](https://www.wsj.com/articles/richard-gates-says-he-set-up-offshore-companies-to-hide-manaforts-money-1533668074))
 
 * Tensions between Judge T.S. Ellis and prosecutor. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-07/manafort-judge-to-prosecutor-there-s-tears-in-your-eyes))
 

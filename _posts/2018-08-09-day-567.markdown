@@ -1,0 +1,49 @@
+---
+title: Day 567
+date: 2018-08-09 10:33:00 -07:00
+description: 'Space Force all the way. '
+image: "/uploads/567.jpg"
+todayInOneSentence: Pence detailed Trump's proposal to create a "Space Force"; Russia
+  threatened to cut off a supply of rocket engines for the U.S. space program in response
+  to new sanctions; Devin Nunes was caught on tape explaining that the effort to impeach
+  Rod Rosenstein had stalled because it would delay the confirmation of Brett Kavanaugh;
+  and a federal judge threatened to hold Jeff Sessions in contempt after learning
+  that the Trump administration had put two asylum seekers on a plane to El Salvador
+  and deported them while their appeal was underway.
+---
+
+1/ **Mike Pence detailed Trump's proposal to create a "Space Force" as the sixth branch of the U.S. military by 2020.** Pence said the creation of the Space Force, the first new branch of the military since 1947, represented a response to new and emerging threats. The new  branch would require a significant reorganization of the Department of Defense and how it handles space operations. Pence said that the U.S. must not only increase its involvement in space-related affairs, but that "we must have American dominance in space." After the announcement, Trump tweeted: "Space Force all the way!" ([Washington Post](https://www.washingtonpost.com/business/economy/pence-details-plan-for-creation-of-space-force-in-what-would-be-the-sixth-branch-of-the-military/2018/08/09/0b40b8d0-9bdc-11e8-8d5e-c6c594024954_story.html?utm_term=.d3e7e1360484) / [USA Today](https://www.usatoday.com/story/news/politics/2018/08/09/space-force-pentagon-announces-plan-create-sixth-armed-service/945365002/) / [Fox News](http://www.foxnews.com/politics/2018/08/09/pence-calls-for-space-force-to-be-established-by-2020.html) / [Associated Press](https://apnews.com/4df1085b19d54e9b864e857012fecbb6/Pence-outlines-plan-for-new-Space-Force-by-2020) / [ABC News](https://abcnews.go.com/Politics/pentagon-vice-president-lay-groundwork-future-space-force/story?id=57122728))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1027586174448218113 %}
+
+{% youtube TRsLYEJRwOY %}
+
+2/ **Russia threatened to cut off a supply of rocket engines crucial to the U.S. space program in response to new sanctions stemming from the poisoning of Sergei Skripal in March**. The U.S. announced new sanctions against Russia after determining that Moscow used a nerve agent against the former MI6 spy and his daughter. ([Daily Beast](https://www.thedailybeast.com/russia-reacts-angrily-to-draconian-new-sanctions-from-us) / [Times of London](https://www.thetimes.co.uk/edition/news/novichok-sanctions-moscow-threatens-us-space-programme-600gvn3lf?CMP=Sprkr-_-Editorial-_-thetimes-_-Unspecified-_-TWITTER))
+
+3/ **Devin Nunes was caught on a secret recording explaining that the effort to impeach Rod Rosenstein had stalled because it would delay the Senate's confirmation of Brett Kavanaugh to the Supreme Court.** "So if we actually vote to impeach, OK," Nunes said, "what that does is that triggers the Senate then has to take it up." He continued: "The Senate would have to drop everything they're doing ... and start with impeachment on Rosenstein. And then take the risk of not getting Kavanaugh confirmed." Nunes reiterated his belief that Rosenstein should be impeached, but said that "the question is the timing of it right before the election." He also warned that "if Sessions won’t unrecuse and Mueller won’t clear the president, we’re the only ones" protecting Trump from the Mueller investigation. ([MSNBC](https://www.nbcnews.com/politics/politics-news/secret-recording-shows-gop-s-nunes-saying-rosenstein-impeachment-would-n899031) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-nunes-recording-20180808-story.html) / [CNN](https://www.cnn.com/2018/08/09/politics/devin-nunes-trump-congress-republican-majority/index.html))
+
+* **The first batch of documents from Brett Kavanaugh's time serving in George W. Bush's White House were released**. The Bush team provided the Senate Judiciary Committee with 5,700 pages. The Committee expects to release more than 125,000 pages total over the next "several days." Democrats said Bush's lawyer selectively released documents on an expedited basis without oversight from the National Archives and Records Administration. ([CNN](https://www.cnn.com/2018/08/09/politics/brett-kavanaugh-documents-released-senate-judiciary-bush-team/index.html) / [Associated Press](https://apnews.com/84af74b295b14ea399221ac647a20e43/First-batch-of-Kavanaugh-White-House-documents-released))
+
+4/ **A federal judge threatened to hold Jeff Sessions in contempt after learning that the Trump administration had put two asylum seekers on a plane to El Salvador and deported them while their appeal was underway**. U.S. District Court Judge Emmet Sullivan blocked the administration from deporting the two plaintiffs, ordered the government to "turn the plane around," and called the entire situation "outrageous." ([CNN](https://www.cnn.com/2018/08/09/politics/judge-halts-deportations-sessions/index.html) / [Washington Post](https://www.washingtonpost.com/local/immigration/judge-halts-mother-daughter-deportation-threatens-to-hold-sessions-in-contempt/2018/08/09/a23a0580-9bd6-11e8-8d5e-c6c594024954_story.html))
+
+poll/ **The majority of Americans believe tuition-free college (66%) and a $15-an-hour minimum wage (65%) would be "very effective" or "somewhat effective" solutions to social barriers.** A combined 55 percent said a government-run health care system would be a very or somewhat effective policy. ([The Intercept](https://theintercept.com/2018/08/09/koch-brothers-health-care-free-college/))
+
+## ---
+
+## Notables.
+
+1. **The Trump administration cut staff for the watchdog tasked with identifying looming financial risks.** Forty staff members from the Office of Financial Research will lose their jobs as part of a broader reorganization of the agency, which was created in the wake of the 2008 financial crisis. ([Reuters](https://www.reuters.com/article/us-usa-ofr-cuts/trump-administration-cuts-dozens-of-staff-at-financial-markets-watchdog-source-idUSKBN1KT23O))
+
+2. **A federal appeals court ordered the Trump administration to revoke the approval of a widely used pesticide that can harm the brains of children**, saying Scott Pruitt's EPA had endangered public health by keeping chlorpyrifos on the market. The former EPA chief had reversed an Obama-era effort to ban chlorpyrifos. ([Associated Press](https://apnews.com/e87ad38befdc4a58b0778286404ee826) / [Los Angeles Times](http://www.latimes.com/local/lanow/la-me-ln-pesticide-9th-circuit-20180809-story.html))
+
+3. **Melania Trump's parents were sworn in as U.S. citizens**. Amalija and Viktor Knavs used family sponsorship to obtain their green cards, which is sometimes called "chain migration." In January, Trump proposed ending most family-based immigration and replacing it with a skills-based system. ([Associated Press](https://apnews.com/e9ef38a1031744ae9e3a098c96f6a706) / [New York Times](https://www.nytimes.com/2018/08/09/nyregion/melania-trumps-parents-become-us-citizens.html))
+
+4. **Trump's decision to impose tariffs on Canadian newsprint is starting to hurt local news publications across the country.** At the Gazette in Janesville, Wis., for example, the newsprint tariffs have increased annual printing costs by $740,000. ([New York Times](https://www.nytimes.com/2018/08/09/us/politics/newsprint-tariffs-newspapers-trump.html))
+
+5. **News organizations are starting to employ security details and guards while covering Trump's rallies** as Trump continues to ramp up his attacks on the media, even in the wake of the shooting at the Capital Gazette newsroom. ([Politico](https://www.politico.com/story/2018/08/09/media-boosts-security-as-trump-ramps-up-enemy-rhetoric-768666))
+
+6. **Kris Kobach's lead over Gov. Jeff Colyer in the Kansas Republican primary was cut in half** after election officials discovered an an error in transmitting votes from Thomas County. Kobach, a Trump ally, originally had a 191-vote advantage over incumbent Colyer. Kobach's lead was reduced to 91 votes after the adjustment. ([CBS News](https://www.cbsnews.com/news/kris-kobachs-lead-cut-in-half-after-mistake-discovered-in-kansas-primary/) / [Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2018/08/09/kobach-lead-over-colyer-cut-in-half-after-vote-tallying-error-discovered-in-kansas-gop-primary/?))
+
+---
+
+📰 **[Paul Manafort's Trial: A daily recap](https://whatthefuckjusthappenedtoday.com/paul-manaforts-trial/)**. Instead of writing summary recaps of the trial, I'm going to provide a few daily links to the live coverage. At the conclusion of the trial, I'll write a proper abstract.

@@ -11,11 +11,13 @@ layout: post
 
 ---
 
-* ## Day 10. 
+* ## Day 10.
 
 * **Prosecution rests**, Manafort defense starts Tuesday. Mueller's team called more than two dozen witnesses in the tax- and bank-fraud case against the former Trump campaign chairman. ([Politico](https://www.politico.com/story/2018/08/13/paul-manafort-trial-day-10-updates-776093))
 
-* Special counsel’s office calls its final witness in fraud case. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/13/paul-manafort-trial-day-10-live-coverage/))
+* Special counsel's office calls its final witness in fraud case. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/13/paul-manafort-trial-day-10-live-coverage/))
+
+* 3 missing men at the Manafort trial. It appears prosecutors from special counsel Robert Mueller’s office have decided not to call three seemingly key figures. The absence of these witnesses offers intriguing hints about potential ongoing investigations and additional prosecutions that could yet take place. ([Yahoo News](https://www.yahoo.com/news/3-missing-men-manafort-trial-172020387.html))
 
 ---
 

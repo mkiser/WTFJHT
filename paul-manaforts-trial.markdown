@@ -11,6 +11,14 @@ layout: post
 
 ---
 
+* ## Day 10. 
+
+* **Prosecution rests**, Manafort defense starts Tuesday. Mueller's team called more than two dozen witnesses in the tax- and bank-fraud case against the former Trump campaign chairman. ([Politico](https://www.politico.com/story/2018/08/13/paul-manafort-trial-day-10-updates-776093))
+
+* Special counsel’s office calls its final witness in fraud case. ([Washington Post](https://www.washingtonpost.com/news/local/wp/2018/08/13/paul-manafort-trial-day-10-live-coverage/))
+
+---
+
 * ## Day Nine.
 
 * The federal judge overseeing the trial of Paul Manafort sealed a transcript on Thursday of a private discussion in front of his bench after prosecutors from the special counsel’s office argued that they needed to protect an “ongoing investigation.” ([New York Times](https://www.nytimes.com/2018/08/09/us/politics/special-counsel-manafort-trial.html))

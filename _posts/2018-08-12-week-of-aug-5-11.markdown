@@ -3,6 +3,8 @@ title: Week of Aug 5 - 11
 date: 2018-08-12 15:54:00 -07:00
 description: What We Learned in the Russia Probe
 image: "/uploads/russiaaug5-11.jpg"
+author: Adrienne Cobb
+is_weekly_review: true
 ---
 
 

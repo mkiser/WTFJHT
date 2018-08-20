@@ -1,7 +1,7 @@
 ---
 title: 'Day 578: "Truth isn''t truth."'
 date: 2018-08-20 14:48:00 -07:00
-file: "/uploads/Day-578.mp3"
+file: "/uploads/Day-578a.mp3"
 post: Day 578
 duration: '00:05:12'
 length: 5918413

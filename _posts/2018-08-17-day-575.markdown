@@ -1,0 +1,46 @@
+---
+title: Day 575
+date: 2018-08-17 09:11:00 -07:00
+description: A very good person.
+image: "/uploads/575.jpg"
+todayInOneSentence: Advisers are worried that Trump will privatize the war in Afghanistan;
+  Trump canceled his military parade and blamed "the local politicians who run Washington,
+  D.C. (poorly)" for inflating the cost; and Trump plans to revoke more security clearances
+  from officials who have been critical of him or played a role in Mueller's investigation.
+---
+
+1/ **Advisers are worried that Trump will back Erik Prince's plan to privatize the war in Afghanistan with Blackwater security contractors**. Trump's national security team are concerned that his impatience will cause him to seriously consider proposals like Prince's or abruptly order a complete U.S. withdrawal. Prince hasn't spoken directly to Trump about the plan, but plans to launch an aggressive media "air campaign" in coming days. Prince's sister is Education Secretary Betsy DeVos. ([NBC News](https://www.nbcnews.com/news/military/officials-worry-trump-may-back-erik-prince-plan-privatize-war-n901401))
+
+2/ **Trump canceled his military parade and blamed "the local politicians who run Washington, D.C. (poorly)" for inflating the cost**. "When asked to give us a price for holding a great celebratory military parade," Trump tweeted, "they wanted a number so ridiculously high that I cancelled it. Never let someone hold you up!" The Pentagon postponed Trump's parade to 2019  yesterday – before Trump "decided" to cancel it via tweet this morning – as the costs ballooned from an estimated $12 million to $92 million. D.C. Mayor Muriel Bowser called Trump's parade a "sad" plan. ([New York Times](https://www.nytimes.com/2018/08/17/us/politics/trump-military-parade.html) / [Politico](https://www.politico.com/story/2018/08/17/trump-cancels-military-parade-fighter-jets-783035) / [Washington Post](https://www.washingtonpost.com/politics/trump-blames-dc-officials-for-postponing-his-planned-military-parade/2018/08/17/e96687c8-a205-11e8-8e87-c869fe70a721_story.html))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1030423480725118976 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1030426536871116801 %}
+
+3/ **Trump plans to revoke more security clearances from officials who have been critical of him or played a role in Robert Mueller's Russia investigation.** Over the past 19 months, Trump has fired or threatened nearly a dozen current and former officials associated with the probe, which he calls a "rigged witch hunt." According to his aides, Trump believes he came out looking strong after he revoked former CIA Director John Brennan's security clearance, adding that Trump shows visible disdain for Brennan when he sees him on TV. ([Washington Post](https://www.washingtonpost.com/politics/trump-gears-up-to-strip-more-clearances-from-officials-tied-to-russia-probe/2018/08/16/341fe418-a165-11e8-93e3-24d1703d2a7a_story.html?utm_term=.b2bca5e3e978))
+
+4/ **Trump called a career Justice Department official "a disgrace" and threatened to revoke his security clearance "very soon."** Bruce Ohr has no involvement in Mueller's investigation, but conspiracy theorists claim he helped start the investigation into Russian election interference. ([New York Times](https://www.nytimes.com/2018/08/17/us/politics/trump-conspiracy-bruce-nellie-ohr.html) / [Washington Post](https://www.washingtonpost.com/politics/former-intelligence-officials-rebuke-trump-for-pulling-brennans-security-clearance/2018/08/17/ea8382f2-a20d-11e8-8e87-c869fe70a721_story.html))
+
+* **A dozen former top intelligence officials accused Trump of "attempt\[ing\] to stifle free speech"** and criticized him for revoking John Brennan's security clearance. "We feel compelled to respond in the wake of the ill-considered and unprecedented remarks and actions by the White House," reads the letter from the officials, who served both Democratic and Republican presidents. Trump told reporters he's gotten a "tremendous response" since revoking Brennan's clearance. ([Politico](https://www.politico.com/story/2018/08/16/trump-brennan-intelligence-officials-criticism-782898) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-trump-intel-chiefs-20180816-story.html))
+
+5/ **Trump called Paul Manafort a "very good person" as jurors deliberate charges of tax and bank fraud against his former campaign chairman**. Trump criticized the trial as "a very sad day for our country," but declined to say whether he would pardon Manafort if convicted. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-17/trump-calls-manafort-good-person-and-criticizes-fraud-trial) / [Politico](https://www.politico.com/story/2018/08/17/paul-manafort-trial-trump-pardon-783133) / [Washington Post](https://www.washingtonpost.com/local/jury-begins-deliberations-in-paul-manaforts-tax--and-bank-fraud-trial/2018/08/16/d2b0f486-a170-11e8-8e87-c869fe70a721_story.html))
+
+* **The judge presiding over Paul Manafort's criminal trial has received threats about the case is now under U.S. Marshal protection**. Judge T.S. Ellis said he won't release the names and addresses of the 12 jurors deliberating Manafort's fate because he is worried about their "peace and safety." ([CNBC](https://www.cnbc.com/2018/08/17/judge-in-paul-manafort-trial-said-hes-been-threatened.html))
+
+6/ **A judge in New York ruled that a confidentiality agreement between the Trump campaign and a former staffer is limited in scope**, which could impact other non-disclosure agreements signed by former Trump staffers. Due to the wording of the agreement, only disputes over the agreement itself and some other prohibited behaviors were subject to arbitration. A former campaign staffer filed a complaint last November alleging that she was subjected to "harassment and sexual discrimination" while working on Trump's 2016 campaign. Lawyers for the Trump campaign tried to force the case into private arbitration based on the agreement. ([Yahoo News](https://www.yahoo.com/news/judge-says-trump-campaign-screwed-wording-confidentiality-agreements-025613573.html) / [The Hill](http://thehill.com/homenews/administration/402356-judge-rules-white-house-confidentiality-agreement-is-limited-in-scope))
+
+poll/ **57% of Americans think Trump is too friendly with Russia**. Overall, 41% consider Russia an enemy of the U.S. ([CNN](https://www.cnn.com/2018/08/17/politics/cnn-poll-trump-russia-enemy/index.html))
+
+---
+
+## Notables.
+
+1. **The State Department will not spend some $230 million that had been planned for Syria stabilization projects** and instead shift that money to other areas. ([Associated Press](https://apnews.com/31eaa3ca51ed480f90ef6363156b710e))
+
+2. **The White House budget office is attempting to cancel about $3 billion in foreign aid using an obscure budget rule** to freeze the State Department's international assistance budget. ([Politico](https://www.politico.com/story/2018/08/17/white-house-cut-foreign-aid-money-743481))
+
+3. **A federal judge ruled that a Trump official must sit for a deposition in a lawsuit challenging the administration's decision to add a question about citizenship to the 2020 census**. New York and 16 other states filed a lawsuit in April challenging the constitutionality of the question, arguing it will lead to skewed numbers. ([The Hill](http://thehill.com/regulation/court-battles/402361-judge-rules-trump-official-can-be-deposed-over-census-citizenship))
+
+4. **A federal appeals court ordered the Trump administration to immediately implement the Chemical Disaster Rule**, saying the EPA did not have the authority to delay the Obama-era chemical safety rule for 20 months. ([Reuters](https://www.reuters.com/article/us-usa-court-chemicals-safety/u-s-court-orders-trump-administration-to-enforce-chemical-safety-rule-idUSKBN1L222W))
+
+5. **Trump asked the SEC to consider scaling back how often public companies must report earnings to investors** from a quarterly basis to twice a year. Trump tweeted that he consulted "some of the world's top business leaders" on steps to create jobs and make business "even better." He said one told him to "stop quarterly reporting and go to a six month system." ([Wall Street Journal](https://www.wsj.com/articles/trump-directs-sec-to-study-six-month-reporting-for-public-companies-1534507058) / [Reuters](https://www.reuters.com/article/us-usa-sec-trump/sec-asked-to-study-six-month-filing-system-for-companies-trump-idUSKBN1L217G) / [New York Times](https://www.nytimes.com/2018/08/17/business/dealbook/trump-quarterly-earnings.html) / [Washington Post](https://www.washingtonpost.com/business/2018/08/17/trump-calls-regulators-consider-changing-how-often-companies-report-earnings/))

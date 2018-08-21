@@ -1,0 +1,69 @@
+---
+title: Day 578
+date: 2018-08-20 12:22:00 -07:00
+description: '"Truth isn''t truth."'
+image: "/uploads/578.jpg"
+todayInOneSentence: The White House counsel has cooperated extensively with Robert
+  Mueller's obstruction of justice investigation; Trump's lawyers don't know what
+  he's told Mueller; Trump retaliated, calling Mueller "disgraced and discredited"
+  and his investigators "thugs"; Giuliani, meanwhile, claimed that "truth isn't truth";  Michael
+  Cohen is under investigation for more than $20 million in bank and tax fraud and
+  his attorney has been talking to John Dean, the former White House counsel who was
+  a witness to Nixon's crimes.
+---
+
+1/ **White House counsel Don McGahn has cooperated extensively with Robert Mueller's obstruction of justice investigation and Trump's lawyers don't know what he's told the special counsel**. McGahn has given investigators at least three voluntary interviews lasting a total of 30 hours over the last nine months. McGahn was present for Trump's comments and actions during the firing of James Comey and attempts to fire Mueller, and has provided Trump's lawyers with a limited accounting of what he told investigators. Trump tweeted that he "allowed" McGahn to "fully cooperate" with Mueller's investigation into obstruction of justice. Last fall, Mueller's office asked to interview McGahn, which Trump and his lawyers encouraged. McGahn decided to fully cooperate with Mueller on suspicion that Trump was intent on letting him take the fall for any obstruction of justice-related decisions by claiming that he was only following legal advice from counsel. McGahn's cooperation is also meant to protect himself from becoming the next John Dean, the White House counsel for Nixon, who pleaded guilty to conspiracy to obstruct justice. Trump and McGahn have a strained relationship and rarely speak one on one. Trump questions McGahn's loyalty while McGahn calls Trump "King Kong." In response to the report, Trump tweeted that McGahn "must be a John Dean type 'RAT' \[...\] I have nothing to hide......" ([New York Times](https://www.nytimes.com/2018/08/18/us/politics/don-mcgahn-mueller-investigation.html) / [Wall Street Journal](https://outline.com/efaPdW) / [Politico](https://www.politico.com/story/2018/08/18/trump-mcgahn-mueller-probe-788040))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1030940529037651968 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1031134125602820096 %}
+
+* **Trump's lawyers don't know just how much Don McGahn has told Mueller's investigators**, reigniting a debate about whether Trump was given bad advice by his former lawyers John Dowd and Ty Cobb to allow full cooperation with Mueller's team, including by waiving attorney-client privilege. Dowd and Cobb believed that cooperation would help prove that Trump had done nothing wrong and would quickly end to the investigation. While Trump had approved the cooperation, he didn't know the conversations stretched for 30 hours or that his legal team didn't conduct a full debriefing with McGahn after the fact. ([New York Times](https://www.nytimes.com/2018/08/19/us/politics/don-mcgahn-trump-mueller.html) / [CNN](https://www.cnn.com/2018/08/20/politics/trump-mcgahn-30-hours/index.html))
+
+* **John Dean: "I think Trump has got a real problem here. And I'm not sure how he's going to handle it."** Dean cooperated with prosecutors during the Watergate investigation after serving as White House counsel for Nixon. ([CNN](https://www.cnn.com/2018/08/20/politics/donald-trump-john-dean/index.html))
+
+2/ **Trump attacked Mueller's probe, calling the special counsel "disgraced and discredited," and his investigators "thugs."** Trump, in a series of tweets, accused the special counsel of "looking to impact" the midterm elections, referring to the investigation as a "witch hunt" and called Mueller's team of prosecutors "a National Disgrace!" ([Washington Post](https://www.washingtonpost.com/politics/trump-calls-mueller-lawyers-thugs-and-a-national-disgrace/2018/08/20/99b829e2-a46d-11e8-a656-943eefab5daf_story.html?utm_term=.97b9d546633a) / [ABC News](https://abcnews.go.com/Politics/trump-calls-special-counsel-robert-mueller-team-national/story?id=57283566) / [Politico](https://www.politico.com/story/2018/08/20/trump-robert-mueller-2018-midterms-elections-788853))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1031503298967363586 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1031505811074412544 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1031508193107763200 %}
+
+3/ **Giuliani claimed that "truth isn't truth" while explaining why Trump shouldn't testify in Mueller's investigation**. Giuliani argued that Mueller could be trying to trap Trump into telling a lie in order to indict him for perjury. "When you tell me that, you know, he should testify because he's going to tell the truth and he shouldn't worry," Giuliani told Chuck Todd, "well that's so silly because it's somebody's version of the truth. Not the truth." When Todd pushed back and said "Truth is truth," Giuliani responded by declaring, "No, no, it isn’t truth. Truth isn’t truth." Giuliani has previously said Mueller's investigation "may have a different version of the truth than we do." ([Politico](https://www.politico.com/story/2018/08/19/giuliani-truth-todd-trump-788161) / [NBC News](https://www.youtube.com/watch?v=CljsZ7lgbtw))
+
+{% youtube CljsZ7lgbtw %}
+
+4/ **Trump said he's concerned about potential perjury charges that could be brought against him if he were to sit down with Mueller**. "Even if I am telling the truth, that makes me a liar," Trump said. Trump did not comment on whether he would agree to an interview with Mueller. ([Reuters](https://www.reuters.com/article/us-usa-trump-mueller-exclusive/exclusive-trump-is-worried-that-mueller-interview-could-be-a-perjury-trap-idUSKCN1L526P))
+
+5/ **Michael Cohen is under investigation for more than $20 million in bank and tax fraud** related to loans obtained by taxi businesses that Cohen and his family own. Investigators are also looking into whether Cohen violated campaign finance by paying Karen McDougal $150,000 and Stormy Daniels $130,000 in exchange for their silence about their affairs with Trump. Prosecutors are considering filing charges by the end of this month. ([New York Times](https://www.nytimes.com/2018/08/19/nyregion/michael-cohen-loans-donald-trump.html) / [Associated Press](https://apnews.com/50b339072d774bcb9643841706a6afc4/AP-sources:-Prosecutors-preparing-charges-against-Cohen) / [CNN](https://www.cnn.com/2018/08/19/politics/nyt-cohen-investigation-bank-fraud/index.html))
+
+6/ **Cohen's attorney has been talking to John Dean,** the former White House counsel who was a witness to Nixon's crimes. Cohen has signaled that he might cooperate with Mueller's investigation. "I certainly don't want to raise expectations that Mr. Cohen has anything like the level of deep involvement and detailed knowledge that John Dean had in the Nixon White House as a witness to Nixon’s crimes," Cohen's attorney said, "but I did see some similarities and wanted to learn from what John went through." ([Politico](https://www.politico.com/story/2018/08/19/davis-cohen-john-dean-788456))
+
+7/ **In a 1998 memo, Brett Kavanaugh outlined 10 explicit questions that he wanted Ken Starr to asked Bill Clinton about his relationship with Monica Lewinsky**. Trump's nominee to the Supreme Court said at the time that he was "strongly opposed" to giving Clinton a "break." Among the questions Kavanaugh wanted Starr to ask were "If Monica Lewinsky says that you inserted a cigar into her vagina while you were in the Oval Office area, would she be lying?" and "If Monica Lewinsky says that on several occasions you had her give her \[sic\] oral sex, made her stop, and then ejaculated into the sink in the bathroom off \[sic\] the Oval Office, would she be lying?" ([Washington Post](https://www.washingtonpost.com/politics/brett-kavanaugh-memo-detailed-explicit-questions-for-clinton/2018/08/20/c0854616-a488-11e8-8fac-12e98c13528d_story.html))
+
+poll/ **58% of Americans don't believe that Trump has hired "the best people."** 67% of Republicans say that Trump has hired the best people compared with 93% of Democrats who say that Trump has not hire the best people. ([Monmouth University Polling Institute](https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_082018/))
+
+---
+
+## Notables.
+
+ 1. **One of Trump's speechwriters was fired for speaking at a conference attended by white nationalists.** Darren Beattie was fired after a media inquiry about his speech at the 2016 H.L. Mencken Club conference, where he spoke on a panel alongside white nationalist Peter Brimelow. ([Washington Post](https://www.washingtonpost.com/politics/trump-speechwriter-fired-amid-scrutiny-of-appearance-with-white-nationalists/2018/08/19/f5051b52-a3eb-11e8-a656-943eefab5daf_story.html?utm_term=.eac27c4ea197))
+
+ 2. **The Justice Department is investigating whether Elliott Broidy tried to sell his influence with the Trump administration**. The longtime Republican fundraiser resigned from his RNC position in April after it was reported that he paid a former Playboy model $1.6 million in exchange for her silence about a sexual affair. Michael Cohen arranged the settlement. ([Washington Post](https://www.washingtonpost.com/politics/trump-lawyer-negotiated-16-million-settlement-for-gop-donor-with-playboy-model/2018/04/13/2f051f90-3f3e-11e8-974f-aacd97698cef_story.html))
+
+ 3. **Former CIA Director John Brennan said he is considering legal action against Trump** after his security clearance was revoked. Trump tweeted that he'd welcome a lawsuit from Brennan ([Politico](https://www.politico.com/story/2018/08/19/brennan-court-trump-security-clearance-788164) / [Washington Post](https://www.washingtonpost.com/politics/dozens-more-former-us-officials-speak-out-against-trump-revoking-brennans-security-clearance/2018/08/20/b389978e-a45e-11e8-a656-943eefab5daf_story.html))
+
+ 4. **More than 175 former State Department and Pentagon officials signed a statement of opposition to Trump's decision to revoke Brennan's security clearance**. The statement reads that they believe that "the country will be weakened if there is a political litmus test applied" before expert former officials are allowed to voice their views. ([Reuters](https://www.reuters.com/article/us-usa-trump-clearances/new-outcry-over-trumps-revocation-of-brennan-security-clearance-idUSKCN1L515D))
+
+ 5. **Mueller recommended that George Papadopoulos be sentenced up to six months in prison for lying to federal agents**. Papadopoulos pleaded guilty in October and is scheduled to be sentenced on Sept. 7. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-papadopoulos/u-s-special-counsel-recommends-six-months-in-prison-for-papadopoulos-idUSKBN1L3015))
+
+ 6. **Democrats on the House Oversight and Government Reform Committee are questioning whether John Bolton's ties to Russia were properly vetted before he joined the White House this year**. The national security adviser worked with a Russian woman who was charged last month for failing to register as an agent of a foreign power in the U.S. ([Politico](https://www.politico.com/story/2018/08/20/john-bolton-russia-connections-hosue-democrats-789451))
+
+ 7. **Mick Mulvaney suggested that Trump's military parade was canceled for reasons other than the $92 million cost of the event**, but would not specify other "contributing factors." ([Politico](https://www.politico.com/story/2018/08/19/mulvaney-trump-military-parade-788157))
+
+ 8. **The Trump administration plans to propose an overhaul of climate change regulations** next week that would allow individual states to decide how – or whether – to curb carbon dioxide emissions from coal plants. ([New York Times](https://www.nytimes.com/2018/08/17/climate/trump-clean-power-rollback.html))
+
+ 9. **Scott Pruitt called the White House once from his $43,000 soundproof phone booth**. The phone call lasted five minutes. ([Washington Post](https://www.washingtonpost.com/national/health-science/pruitt-called-the-white-house-once-from-his-43000-phone-booth-records-show/2018/08/20/98bfdbcc-a48e-11e8-a656-943eefab5daf_story.html))
+
+10. **A Georgia state lawmaker said he doesn't have an issue with Trump using the n-word in the past**, arguing that holding a president accountable for mistakes made before entering office would "set a bad precedent." ([CNN](https://www.cnn.com/2018/08/18/politics/georgia-senator-trump-racial-slur-cnntv/index.html))

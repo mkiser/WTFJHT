@@ -17,7 +17,7 @@ layout:
  {% for post in site.posts limit:50 %}
  <entry>
    <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
-   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=daily"/>
+   <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=daily_update"/>
    <published>{{ post.date | date_to_xmlschema }}</published>
    <updated>{{ post.last_modified | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ site.baseurl }}{{ post.id }}</id>

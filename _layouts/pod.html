@@ -7,7 +7,7 @@ sitemap: false
 {% assign post = site.posts | where: 'title', page.post | first %}
 {% assign content = post.content %}
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}
 <article class="post">
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ post.url }}">
@@ -57,7 +57,7 @@ sitemap: false
 
  
  <!-- Pledge Drive -->
-  {% include pledge.html %}
+  {% include_cached pledge.html %}
 
   {% include social.html %}
 

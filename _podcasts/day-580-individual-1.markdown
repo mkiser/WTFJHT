@@ -1,10 +1,10 @@
 ---
 title: 'Day 580: Individual-1.'
 date: 2018-08-22 14:47:00 -07:00
-file: "/uploads/Day-580.mp3"
+file: "/uploads/Day-580a.mp3"
 post: Day 580
-duration: '00:07:30'
-length: 8277488
+duration: '00:07:27'
+length: 8203369
 ---
 
 **Wednesday, August 22, 2018**

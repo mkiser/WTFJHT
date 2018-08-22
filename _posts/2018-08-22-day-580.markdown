@@ -29,7 +29,9 @@ image: "/uploads/580.jpg"
 
 * **Trump didn't mention Paul Manafort or Michael Cohen once during his rally in West Virginia last night.** Instead, Trump egged on his supporters in the Charleston crowd as they chanted "drain the swamp" and "lock her up." He also reminded the crowd how smart they are. "We’re the smart ones," Trump said at the rally. "Remember, I say it all the time: you hear, 'the elite,' you’re smarter than they are, you have more money than they do...let them have the word elite. You’re the super-elite." Trump also spent a few minutes going after Mueller and calling his investigation a witch hunt. ([NY Daily News](http://www.nydailynews.com/news/politics/ny-news-trump-manafort-cohen-mueller-virginia-rally-20180821-story.html))
 
-4/ **Rep. Duncan Hunter and his wife were indicted for improperly using hundreds of thousands of dollars in campaign funds to pay for personal expenses**, like family vacations and dental work. The California GOP congressman is also accused of filing false campaign reports and wire fraud. Hunter was one of the first lawmakers to endorse Trump's 2016 campaign. ([Politico](https://www.politico.com/story/2018/08/21/duncan-hunter-indicted-790861) / [CNN](https://www.cnn.com/2018/08/21/politics/duncan-hunter-campaign-charges/index.html) / [New York Times](https://www.nytimes.com/2018/08/21/us/politics/duncan-hunter-indicted.html))
+4/ **New York state subpoenaed Michael Cohen for information about the Trump Foundation**. The New York State Attorney General alleges that Trump illegally tapped his Trump Foundation to settle legal disputes, help his campaign for president and pay for personal and business expenses, which included spending $10,000 on a 6-foot portrait of himself. ([Associated Press](https://apnews.com/72c5c19195f84abfaa42eaffe78d806a))
+
+5/ **Rep. Duncan Hunter and his wife were indicted for improperly using hundreds of thousands of dollars in campaign funds to pay for personal expenses**, like family vacations and dental work. The California GOP congressman is also accused of filing false campaign reports and wire fraud. Hunter was one of the first lawmakers to endorse Trump's 2016 campaign. ([Politico](https://www.politico.com/story/2018/08/21/duncan-hunter-indicted-790861) / [CNN](https://www.cnn.com/2018/08/21/politics/duncan-hunter-campaign-charges/index.html) / [New York Times](https://www.nytimes.com/2018/08/21/us/politics/duncan-hunter-indicted.html))
 
 * **The first two Congressmen to endorse Trump for president have been indicted**, and the next three have also had significant issues of their own. ([HuffPost](https://www.huffingtonpost.com/entry/trump-duncan-hunter-chris-collins-indictments_us_5b7caf60e4b07295150dd6cb))
 
@@ -37,4 +39,20 @@ image: "/uploads/580.jpg"
 
 * **Facebook says it has identified multiple new misinformation campaigns aimed at misleading people.** The company removed 652 fake accounts, pages and groups. Facebook says the campaigns originated in Iran and Russia and targeted people in Latin America, Britain and the Middle East. ([New York Times](https://www.nytimes.com/2018/08/21/technology/facebook-political-influence-midterms.html))
 
-6/ **Trump and his Trump Tower security force must face claims from a group of human rights activists who say they were attacked by Trump's guards in 2015 while protesting Trump's remarks about the Black Lives Matter movement and Mexican immigrants.** A New York State judge denied Trump's motion to dismiss the lawsuit. A jury will now be asked to determine the extent to which the guards were directly ordered to attack the protesters by Trump and whether he personally "authorized and condoned" the attack. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-21/trump-security-team-to-face-jury-for-punching-choking-activists))
+poll/ **61% of adults considered the record-breaking number of female candidates for Congress to be a good thing**, with 5% of those surveyed calling it a bad thing. ([Politico](https://www.politico.com/story/2018/08/22/female-candidates-congress-poll-791262))
+
+poll/ **In a hypothetical 2020 match-up, Trump trails both Joe Biden and Bernie Sanders by 12 percentage points each**. Trump also trails Elizabeth Warren by 4 percentage points. ([Politico](https://www.politico.com/story/2018/08/22/trump-2020-democrats-matchup-790890))
+
+---
+
+## Notables.
+
+1. **Trump and his Trump Tower security force must face claims from a group of human rights activists who say they were attacked by Trump's guards in 2015 while protesting Trump's remarks about the Black Lives Matter movement and Mexican immigrants.** A New York State judge denied Trump's motion to dismiss the lawsuit. A jury will now be asked to determine the extent to which the guards were directly ordered to attack the protesters by Trump and whether he personally "authorized and condoned" the attack. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-08-21/trump-security-team-to-face-jury-for-punching-choking-activists))
+
+2. **Steven Tyler sent Trump a cease-and-desist letter for playing Aerosmith without permission at his political rallies**. Tyler's attorney contends that playing an Aerosmith song in a public arena gives the false impression that Tyler is endorsing Trump's presidency. ([Variety](https://variety.com/2018/politics/news/steven-tyler-aerosmith-trump-rally-song-cease-desist-1202913493/) / [Rolling Stone)](https://www.rollingstone.com/music/music-news/steven-tyler-sends-trump-cease-and-desist-letter-for-playing-aerosmith-at-rally-714395/)
+
+---
+
+## Worth reading... 
+
+{% onebox https://www.thedailybeast.com/national-enquirer-david-pecker-dylan-howard-schemed-with-michael-cohen-to-silence-stormy-daniels-prosecutors-say %}

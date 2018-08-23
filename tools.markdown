@@ -3,6 +3,7 @@ title: tools
 date: 2018-08-23 13:10:00 -07:00
 metatags: noindex, nofollow
 sitemap: false
+layout: page
 ---
 
 *Frequently used WTF publishing tools...*

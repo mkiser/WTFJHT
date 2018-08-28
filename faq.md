@@ -16,7 +16,7 @@ Here's a rough estimate of the monthly costs required to run WTFJHT:
 The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, and generally an inexpensive data storage infrastructure option. I also use CloudFlare to manage my DNS, SSL certificate, and handle caching. *Monthly Cost:* \~$100
 
 **Podcast and Hosting:**
-I use AWS S3 to host the [daily podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) and cache the files with AWS CloudFront. I also pay Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. All-in, it costs me about $1,200 to run the pod. *Monthly Cost:* \~$1200
+I use AWS S3 to host the [daily podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) and cache the files with AWS CloudFront. I also pay Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. *Monthly Cost:* \~$2000
 
 **S3 Stat:**
 Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) let's me easily understand who is playing what pod on what device. *Monthly Cost:* $10
@@ -74,7 +74,7 @@ Quitting a salaried job that included full benefits to run a blog/newsletter tha
 
 **TOTAL MONTHLY COST:**
 
-\$2,469 (hosting, email, tools, etc.) \+ $3,000 (freelancers) $6,757 (my labor) = \~$12,226 \+ $1,833.90 (15% risk adjustment) = <strong>$14,059.90</strong>.
+\$3,269 (hosting, email, tools, etc.) \+ $3,000 (freelancers) \+ $6,757 (my labor) = \~$13,026 \+ $1,953.9 (15% risk adjustment) = <strong>$14,979.90</strong>.
 
 As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or corporate perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford a desk at a co-working space. 
 

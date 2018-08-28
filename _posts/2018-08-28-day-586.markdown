@@ -17,7 +17,7 @@ todayInOneSentence: North Carolina's congressional district maps were unconstitu
 
 2/ **Trump accused Google of being "RIGGED" against him because the "search results for 'Trump News'" show mostly "BAD" coverage about him from the "Fake News Media."** Trump charged that Google was limiting "fair media" coverage about him and "suppressing voices of Conservatives and hiding information and news that is good," declaring it a "very serious situation" and promising that it "will be addressed!" Larry Kudlow, the director of the National Economic Council, said the Trump administration is "taking a look" at whether Google should be regulated. ([New York Times](https://www.nytimes.com/2018/08/28/business/media/google-trump-news-results.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-tech/trump-accuses-google-of-hiding-fair-media-coverage-idUSKCN1LD1I1) / [Axios](https://www.axios.com/larry-kudlow-trump-administration-google-regulation-d54fb006-3334-4a55-9ebe-45fd35056145.html) / [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2018/08/28/trump-wakes-up-googles-himself-and-doesnt-like-what-he-sees-illegal/) / [Wall Street Journal](https://www.wsj.com/articles/trump-accuses-google-of-suppressing-positive-news-about-his-presidency-1535459748))
 
-{% twitter https://twitter.com/realDonaldTrump/status/1034371152204967936 %%}
+{% twitter https://twitter.com/realDonaldTrump/status/1034371152204967936 %}
 
 {% twitter https://twitter.com/realDonaldTrump/status/1034373707047882759 %}
 

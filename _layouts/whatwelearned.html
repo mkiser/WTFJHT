@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% include_cached email.html %}
+<article class="post">
+  <h1 class="post-title">
+    <a href="{{ site.baseurl }}{{ page.url }}">
+      {{ page.title }}:
+    <span class="post-small">{{ page.description }}</span></a>
+  </h1>
+
+  {% assign author = site.authors | where: 'title', page.author | first %}
+  {% if author %}
+    <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
+  {% endif %}
+
+  <div class="post-date">
+    <time datetime="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% endif %}">
+      {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
+    </time>
+    <div>
+      <small>
+        <em>Updated {{ page.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
+      </small>
+    </div>
+    <div>
+      <small>
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
+ {% if page.contributors == "1" %}{{ page.contributors }} Contributor{% else %}{{ page.contributors }} Contributors{% endif %}
+      </small>
+    </div>
+  </div>
+
+
+  <div class="post-content">
+    {{ content | extlinks }}
+    <span id="todaylastyear"></span>
+  </div>
+  {% include_cached email.html %}
+
+  {% include social.html %}
+
+  {% include_cached pledge.html %}
+
+  {% include comments.html %}
+</article>

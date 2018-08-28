@@ -1,0 +1,25 @@
+  <article class="post">
+    <h2 class="post-title">
+      <a href="{{ site.baseurl }}{{ whatwelearned.url }}">{{ whatwelearned.title }}: {{ whatwelearned.description }}</a>
+    </h2>
+    {% assign author = site.authors | where: 'title', whatwelearned.author | first %}
+    {% if author %}
+    <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
+    {% endif %}
+    {% if whatwelearned.last_modified %}
+    <div class="post-date">
+      <div>
+          <small>
+            <em>Updated {{ whatwelearned.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
+          </small>
+        </div>
+      <div>
+        <small>
+          <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ whatwelearned.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ whatwelearned.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
+          {% if whatwelearned.contributors == "1" %}{{ whatwelearned.contributors }} Contributor{% else %}{{ whatwelearned.contributors }} Contributors{% endif %}
+        </small>
+      </div>
+    </div>
+    {% endif %}
+    {{ whatwelearned.content | extlinks }}
+  </article>

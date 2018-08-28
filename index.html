@@ -13,12 +13,21 @@ seo:
 <div class="posts">
   {% assign now = site.time | date: '%Y-%m-%d' %}
   {% assign note = site.notes.last %}
+  {% assign whatwelearned = site.whatwelearned.last %}
   {% assign notedate = note.date | date: '%Y-%m-%d' %}
+  {% assign whatwelearneddate = whatwelearned.date | date: '%Y-%m-%d' %}
   {% assign lastpost = site.posts.first.date | date: '%Y-%m-%d' %}
-  {% if note.is_breaking_news == true %}
+
+  {% if note.is_promoted == true %}
     {% include note.html %}
   {% elsif now == notedate and notedate > lastpost %}
     {% include note.html %}
+  {% endif %}
+
+  {% if whatwelearned.is_promoted == true %}
+    {% include whatwelearned.html %}
+  {% elsif now == whatwelearneddate and whatwelearneddate > lastpost %}
+     {% include whatwelearned.html %}
   {% endif %}
 
   {% for page in paginator.posts %}

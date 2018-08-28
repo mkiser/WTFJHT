@@ -1,7 +1,7 @@
 ---
 title: "\U0001F4F0 WTFJHT News"
 date: 2018-04-23 12:01:00 -07:00
-is_breaking_news: true
+is_promoted: false
 ---
 
 * ***Nieman Lab featured Current Status today**, the political news aggregator I launched recently. Read the post [here](http://www.niemanlab.org/2018/04/combine-an-editorially-responsible-algorithm-political-news-and-you-have-current-status/) and be sure to [check out Current Status](https://currentstatus.io/) if you haven't already.*

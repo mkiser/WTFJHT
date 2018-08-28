@@ -1,19 +1,26 @@
   <article class="post">
-    <h3>
-      {% if note.is_breaking_news == true %}
-        {{ note.title }}
+    <h3 class="post-title">
+      {% if note.is_promoted == true %}
+        <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
       {% else %}
-        {{ note.title }}: {{ note.flag }}
+        <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}: {{ note.flag }}</a>
       {% endif %}
     </h3>
-     {% if note.last_modified %}
+    {% if note.last_modified %}
     <div class="post-date">
-    	<div>
-	        <small>
-	          <em>Updated {{ note.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
-	        </small>
-	      </div>
-	</div>
-	{% endif %}
+      <div>
+          <small>
+            <em>Updated {{ note.last_modified | date: "%-m/%-d/%Y %l:%M %p %Z" }}</em>
+          </small>
+        </div>
+      <div>
+        <small>
+          <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ note.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ note.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
+          {% if note.contributors == "1" %}{{ note.contributors }} Contributor{% else %}{{ note.contributors }} Contributors{% endif %}
+        </small>
+      </div>
+    </div>
+    {% endif %}
+
     {{ note.content }}
   </article>

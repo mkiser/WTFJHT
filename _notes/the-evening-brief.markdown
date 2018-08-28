@@ -1,7 +1,7 @@
 ---
 title: "⚡️The Evening Brief."
 date: 2018-03-07 17:39:00 -08:00
-is_breaking_news: false
+is_promoted: false
 ---
 
 * **Trump asked two witnesses about their discussions with Robert Mueller's investigators**. In one episode, Trump wanted the White House counsel, Don McGahn, to issue a statement denying that McGahn told investigators that Trump once asked him to fire special counsel Robert Mueller. McGahn had to remind Trump that he did ask him to have Mueller fired. In the other, Trump asked Reince Priebus how his interview with Mueller's investigators had gone, and whether they were "nice." ([New York Times](https://www.nytimes.com/2018/03/07/us/politics/trump-witnesses-special-counsel-priebus-mcgahn.html))

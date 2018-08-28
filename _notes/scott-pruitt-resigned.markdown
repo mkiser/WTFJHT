@@ -1,7 +1,7 @@
 ---
 title: "\U0001F6A8 Scott Pruitt resigned."
 date: 2018-07-05 12:40:00 -07:00
-is_breaking_news: false
+is_promoted: false
 ---
 
 **Scott Pruitt resigned from the EPA** following months of controversies regarding his spending, ethics and management at the agency. Andrew Wheeler will take over as acting administrator. ([New York Times](https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-trump.html) / [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2018/07/05/embattled-epa-chief-scott-pruitt-resigns/) / [The Hill](http://thehill.com/policy/energy-environment/395667-embattled-epa-head-pruitt-resigns))

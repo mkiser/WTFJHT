@@ -1,7 +1,7 @@
 ---
 title: "⚡️The Evening Update."
 date: 2018-03-13 19:46:00 -07:00
-is_breaking_news: false
+is_promoted: false
 ---
 
 1. **Pennsylvania Special Election Results**: Conor Lamb leads by 0.4 percentage points – or 755 votes – over Rick Saccone with 98% of the precincts fully reporting as of 10:47 PM ET. ([New York Times](https://www.nytimes.com/interactive/2018/03/13/us/elections/results-pennsylvania-house-special-election.html))

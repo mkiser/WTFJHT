@@ -1,7 +1,7 @@
 ---
 title: Day 585
 date: 2018-08-27 11:00:00 -07:00
-is_breaking_news: false
+is_promoted: false
 ---
 
 1. **A former doorman at Trump World Tower says he is free to discuss an alleged affair between Trump and one of his former housekeepers that resulted in an illegitimate child.** Dino Sajudin entered into a "source agreement" with American Media Inc., which publishes the National Enquirer, to "provide AMI with information regarding Donald Trump's illegitimate child." The agreement was signed on Nov. 15, 2015, and prohibited Sajudin from discussing the matter with anyone, although it does not contain any additional details about the story itself. The source agreement is commonly referred to as a "catch-and-kill" agreement, during which a publication purchases the rights to a source's story, prohibits the source from discussing it, and then refuses to publish it, effectively burying the story. ([CNN](https://www.cnn.com/2018/08/24/politics/trump-tower-doorman-contract-ami/index.html) / [Source PDF](http://cdn.cnn.com/cnn/2018/images/08/24/sajudin.ami.pdf))

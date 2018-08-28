@@ -20,6 +20,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  whatwelearned:
+    title: What We Learned
+    output: true
 defaults:
 - scope:
     path: ''
@@ -30,8 +33,20 @@ defaults:
     image: ''
     todayInOneSentence: ''
     author: Matt Kiser
-    is_weekly_review: false
     layout: post
+    seo:
+      type: NewsArticle
+- scope:
+    path: ''
+    type: whatwelearned
+  values:
+    permalink: "/what-we-learned/:year/:month/:title/"
+    title: ''
+    description: 'What We Learned in the Russia Probe'
+    image: ''
+    author: Adrienne Cobb
+    is_promote: false
+    layout: whatwelearned
     seo:
       type: NewsArticle
 - scope:
@@ -43,7 +58,7 @@ defaults:
     description: ''
     image: ''
     flag: The Latest.
-    is_breaking_news: false
+    is_promoted: false
     layout: note
     metatags: noindex, follow
     sitemap: false

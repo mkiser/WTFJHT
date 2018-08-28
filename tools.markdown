@@ -28,6 +28,12 @@ layout: page
 
 ---
 
-**UTM Tags**
+**URL Builder**
 
-* [Google Analytics URL Builder](https://www.facebook.com/business/google-analytics/build-your-url)
+* [Google Analytics UTM Tags](https://www.facebook.com/business/google-analytics/build-your-url)
+
+**Other**
+
+* [Siteleaf](https://manage.siteleaf.com/sites/59695a700b88061e218224ce/collections/posts)
+* [Travis](https://travis-ci.org/mkiser/WTFJHT/builds)
+* [Canva](https://www.canva.com/)

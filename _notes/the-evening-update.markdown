@@ -1,7 +1,7 @@
 ---
 title: The Evening Update.
 date: 2018-02-05 20:29:00 -08:00
-is_breaking_news: false
+is_promoted: false
 ---
 
 * **Trump's lawyers want him to refuse an interview with Robert Mueller**, because they're concerned that he could be charged with lying to investigators. Trump, however, has said that he is eager to speak with Mueller as part of the investigation into possible collusion between his campaign and Russia's election interference, and whether he obstructed justice. ([New York Times](https://www.nytimes.com/2018/02/05/us/politics/trump-lawyers-special-counsel-interview.html))

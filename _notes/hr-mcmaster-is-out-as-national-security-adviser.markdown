@@ -1,7 +1,7 @@
 ---
 title: "\U0001F525 H.R. McMaster is out as national security adviser"
 date: 2018-03-22 15:59:00 -07:00
-is_breaking_news: false
+is_promoted: false
 ---
 
 * **H. R. McMaster will resign and be replaced by John Bolton**, a Fox News commentator and former United States ambassador to the United Nations. McMaster had reportedly been discussing his departure with Trump for several weeks. "The two have been discussing this for some time. The timeline was expedited as they both felt it was important to have the new team in place, instead of constant speculation," a White House official said. "This was not related to any one moment or incident, rather it was the result of ongoing conversations between the two." McMaster, a three-star Army general, also announced that he would also retire from the military. Bolton will be Trump's third national security advisor in 14 months. ([New York Times](https://www.nytimes.com/2018/03/22/us/politics/hr-mcmaster-trump-bolton.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/trump-names-former-ambassador-john-bolton-as-his-new-national-security-adviser/2018/03/22/aa1d19e6-2e20-11e8-8ad6-fbc50284fce8_story.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-03-22/trump-replaces-mcmaster-with-bolton-as-national-security-adviser) / [CNN](https://www.cnn.com/2018/03/22/politics/trump-replace-national-security-adviser-mcmaster-bolton/index.html) / [Politico](https://www.politico.com/story/2018/03/22/john-bolton-national-security-adviser-hr-mcmaster-trump-481721))

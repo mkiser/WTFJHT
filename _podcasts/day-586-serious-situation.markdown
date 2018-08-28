@@ -1,10 +1,10 @@
 ---
 title: 'Day 586: Serious situation.'
 date: 2018-08-28 13:27:00 -07:00
-file: "/uploads/Day-586.mp3"
+file: "/uploads/Day-586a.mp3"
 post: Day 586
-duration: '00:04:26'
-length: 3953424
+duration: '00:04:48'
+length: 4237829
 ---
 
 **Tuesday, August 28, 2018**

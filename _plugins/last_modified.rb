@@ -12,10 +12,13 @@ module LastModified
 		
 		@site.collections['notes'].docs.each do |note|
 			set_last_modified_date(note)
+			set_contribs(note)
+
 		end	
 
-		@site.collections['whatwelearned'].docs.each do |note|
-			set_last_modified_date(note)
+		@site.collections['whatwelearned'].docs.each do |whatwelearned|
+			set_last_modified_date(whatwelearned)
+			set_contribs(whatwelearned)
 		end	
 
 		@site.posts.docs.each do |post|
@@ -41,8 +44,7 @@ module LastModified
 	end
 
 	def set_contribs(post)
-		entity_source = contrib_source(post)
-		
+		entity_source = contrib_source(post)		
 		contribs = `git log -- "#{entity_source}" | grep \^Author | sort | uniq | wc -l`
 		contribs.strip!
 		post.data["contributors"] = contribs

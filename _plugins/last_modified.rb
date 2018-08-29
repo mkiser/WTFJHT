@@ -14,6 +14,10 @@ module LastModified
 			set_last_modified_date(note)
 		end	
 
+		@site.collections['whatwelearned'].docs.each do |note|
+			set_last_modified_date(note)
+		end	
+
 		@site.posts.docs.each do |post|
 			set_last_modified_date(post)
 			set_contribs(post)

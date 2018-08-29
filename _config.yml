@@ -42,7 +42,7 @@ defaults:
   values:
     permalink: "/what-we-learned/:year/:month/:title/"
     title: ''
-    description: 'What We Learned in the Russia Probe'
+    description: What We Learned in the Russia Probe
     image: ''
     author: Adrienne Cobb
     is_promote: false

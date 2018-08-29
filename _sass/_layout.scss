@@ -425,6 +425,13 @@ div.flex-item ul.package {
   margin: 0;
 }
 
+@media only screen and (max-width:425px){
+  #chatio-container{
+    display: none;
+  }
+}
+
+
 @media only screen and (max-width: 700px) {
   button {
     padding: 0.75em;

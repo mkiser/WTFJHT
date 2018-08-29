@@ -4,7 +4,7 @@ date: 2018-08-27 12:07:00 -07:00
 description: What We Learned in the Russia Probe
 image: "/uploads/aug1925.jpg"
 author: Adrienne Cobb
-is_promoted: true
+is_promoted: false
 redirect_from: "/2018/08/27/week-of-aug-19-25/"
 ---
 

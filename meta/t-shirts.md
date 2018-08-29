@@ -2,7 +2,8 @@
 title: T-Shirt FAQ.
 date: 2018-08-29 00:00:00 -07:00
 layout: page
-description: They're backkk!! For a limited time I'm selling WTFJHT t-shirts to help raise money to support the only political newsletter that matters. 
+description: They're backkk!! For a limited time I'm selling WTFJHT t-shirts to help
+  raise money to support the only political newsletter that matters.
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"

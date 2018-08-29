@@ -7,7 +7,6 @@ author: Adrienne Cobb
 redirect_from: "/2018/08/12/week-of-aug-5-11/"
 ---
 
-
 ### **Mueller Investigation**
 
 **Interview negotiations continue.** Trump's lawyers responded to Mueller's terms for an interview with Trump, sending him a [counteroffer](https://www.nytimes.com/2018/08/08/us/politics/trump-mueller-interview.html) at the end of last week. In the latest terms, Mueller's team held firm on the need to question trump about coordination with Russia and obstruction of justice, but agreed to accept some written answers. Trump's counteroffer did not reject an interview, but essentially stated that Trump will not be asked questions about obstruction of justice. [Trump's lawyers fear](https://talkingpointsmemo.com/livewire/giuliani-in-mueller-interview-trump-could-perjure-himself-over-flynn-questions) that obstruction of justice questions, in particular, are a perjury trap set for Trump.

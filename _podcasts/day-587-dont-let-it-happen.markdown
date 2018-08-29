@@ -9,7 +9,7 @@ length: 6720248
 
 **Wednesday, August 29, 2018**
 
-**Subscribe:** [Get the Daily Update in your inbox for free.](https://whatthefuckjusthappenedtoday.com/subscribe/)
+**Subscribe:** [Get the Daily Update in your inbox for free. ](https://whatthefuckjusthappenedtoday.com/subscribe/)
 
 1/ White House counsel Don McGahn will step down after the midterms or after Brett Kavanaugh is confirmed to the Supreme Court.
 

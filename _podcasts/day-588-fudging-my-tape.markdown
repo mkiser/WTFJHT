@@ -2,6 +2,7 @@
 title: 'Day 588: Fudging my tape.'
 date: 2018-08-30 14:17:00 -07:00
 file: "/uploads/Day-588.mp3"
+post: Day 588
 duration: '00:05:54'
 length: 5406957
 ---

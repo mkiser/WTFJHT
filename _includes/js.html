@@ -16,12 +16,10 @@
       $('#pledgedrive').hide();
     };
     $("#close").click(function(){
-      document.cookie = "membershipdrive=true; expires=Fri, 14 Sep 2018 23:59:59 UTC";
+      document.cookie = "membershipdrive=true; max-age=129600";
     });
   </script>
 
-  <!--<script src="{{ site.url }}{{ site.baseurl }}/public/js/bigfoot/bigfoot.js"></script>-->
-  <!--<script src="{{ site.url }}{{ site.baseurl }}/public/js/marquee3k.js"></script>-->
   <script>riveted.init();</script>
   {% include_cached chat.html %}
   {% include_cached audio.html %}
@@ -41,10 +39,3 @@
 
   {% include_cached scrolldepth.html %}
   {% include clickEvent.html %}
-
-
-  <!--
-    <script type="text/javascript">
-      $.bigfoot();
-    </script>
-  -->

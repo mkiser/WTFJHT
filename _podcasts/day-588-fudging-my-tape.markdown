@@ -1,5 +1,5 @@
 ---
-title: 'Day 588: Fudging my tape.'
+title: 'Day 588: Shape up.'
 date: 2018-08-30 14:17:00 -07:00
 file: "/uploads/Day-588.mp3"
 post: Day 588

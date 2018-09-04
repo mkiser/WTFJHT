@@ -45,7 +45,7 @@ defaults:
     description: What We Learned in the Russia Probe
     image: ''
     author: Adrienne Cobb
-    is_promote: false
+    is_promoted: false
     layout: whatwelearned
     seo:
       type: NewsArticle

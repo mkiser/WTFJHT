@@ -3,7 +3,7 @@ title: Week of Aug 26 - Sept 1
 date: 2018-09-03 19:06:00 -07:00
 description: What We Learned in the Russia Probe
 image: "/uploads/WeekofAug26Sept1.jpg"
-is_promote: true
+is_promoted: true
 ---
 
 ### Mueller Investigation

@@ -4,7 +4,21 @@ date: 2018-09-03 19:06:00 -07:00
 description: What We Learned in the Russia Probe
 image: "/uploads/WeekofAug26Sept1.jpg"
 is_promoted: true
-lastWeekInOneSentence: Sam Patten, a former associate of Paul Manafort, pleaded guilty to failing to register in the U.S. as a foreign agent - he funneled money from Russia/Ukraine to Trump's inaugural committee. Feds are investigating suspicious transactions made from the Russian embassy to Russia diplomats days after Trump’s election & inauguration. George Papadopoulos sentencing document states Trump and Sessions were supportive of a Trump-Putin summit during the campaign, contradicting Sessions’ sworn testimony. Supreme Court nominee Brett Kavanaugh will reportedly not commit to recuse himself from Trump or Mueller-related matters. The DOJ and the FBI worked together between 2014-2016 to try to turn Russian oligarch Oleg Deripaska into an informant. Christopher Steele told Bruce Ohr that Russian intelligence believed it had Donald Trump ‘over a barrel’ and that Carter Page had met with higher-level Russian officials than previously acknowledged. A State Department unit created two years ago to fight Russian disinformation campaigns still has not received the funding dedicated by Congress in 2016. A new poll revealed 60% of Americans disapprove of Trump, while 63% of Americans support Mueller's investigation.
+lastWeekInOneSentence: Sam Patten, a former associate of Paul Manafort, pleaded guilty
+  to failing to register in the U.S. as a foreign agent - he funneled money from Russia/Ukraine
+  to Trump's inaugural committee. Feds are investigating suspicious transactions made
+  from the Russian embassy to Russia diplomats days after Trump’s election & inauguration.
+  George Papadopoulos sentencing document states Trump and Sessions were supportive
+  of a Trump-Putin summit during the campaign, contradicting Sessions’ sworn testimony.
+  Supreme Court nominee Brett Kavanaugh will reportedly not commit to recuse himself
+  from Trump or Mueller-related matters. The DOJ and the FBI worked together between
+  2014-2016 to try to turn Russian oligarch Oleg Deripaska into an informant. Christopher
+  Steele told Bruce Ohr that Russian intelligence believed it had Donald Trump ‘over
+  a barrel’ and that Carter Page had met with higher-level Russian officials than
+  previously acknowledged. A State Department unit created two years ago to fight
+  Russian disinformation campaigns still has not received the funding dedicated by
+  Congress in 2016. A new poll revealed 60% of Americans disapprove of Trump, while
+  63% of Americans support Mueller's investigation.
 ---
 
 **tl;dr** Sam Patten, a former associate of Paul Manafort, pleaded guilty to failing to register in the U.S. as a foreign agent - he funneled money from Russia/Ukraine to Trump's inaugural committee. Feds are investigating suspicious transactions made from the Russian embassy to Russia diplomats days after Trump’s election & inauguration. George Papadopoulos sentencing document states Trump and Sessions were supportive of a Trump-Putin summit during the campaign, contradicting Sessions’ sworn testimony. Supreme Court nominee Brett Kavanaugh will reportedly not commit to recuse himself from Trump or Mueller-related matters.

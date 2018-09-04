@@ -25,14 +25,14 @@ is_promote: true
 *   Buzzfeed's previous reporting on the subject detailed other suspicious transactions involving the Russian embassy, "including a $29,000 wire transfer to the embassy's US bank account to "finance election campaign of 2016"; $325,000 in payments to the Russian Cultural Centre in Washington; and $2.4 million paid to small home-improvement companies controlled by a Russian immigrant living in Virginia."
 *   Kislyak is all over the Trump-Russia investigations. "After failing to disclose during his confirmation hearings a meeting with Kislyak, Attorney General Jeff Sessions recused himself from the Russia investigation. Jared Kushner, the president's son-in-law, discussed with Kislyak setting up a line of communication at the Russian Embassy. And Michael Flynn, the former national security adviser, pleaded guilty last year to lying to the FBI about multiple calls to Kislyak during the transition." Kislyak was also [in the Oval Office](https://www.nytimes.com/2017/05/19/us/politics/trump-russia-comey.html) with Trump and Russian foreign minister Sergey Lavrov the day after Trump fired James Comey. Trump revealed classified Israeli intelligence and bragged about firing Comey, whom he called "crazy" and "a real nutjob."
 
-**Papadopoulos update. **Former policy adviser George Papadopoulos decided to stick to his plea deal with Mueller after weeks of his wife casting doubt on the agreement. In his [sentencing document](https://www.cnn.com/2018/09/01/politics/papadopoulos-sessions-putin-campaign-meeting/index.html), released later Friday, Papadopoulos admitted to lying to the FBI and asked for leniency. Additionally, his lawyers laid out significant accusations against Trump and Sessions: when George told campaign officials he could arrange a summit between Trump and Putin, " Mr. Trump nodded with approval and deferred to Mr. Sessions who appeared to like the idea and stated that the campaign should look into it."
+**Papadopoulos update.** Former policy adviser George Papadopoulos decided to stick to his plea deal with Mueller after weeks of his wife casting doubt on the agreement. In his [sentencing document](https://www.cnn.com/2018/09/01/politics/papadopoulos-sessions-putin-campaign-meeting/index.html), released later Friday, Papadopoulos admitted to lying to the FBI and asked for leniency. Additionally, his lawyers laid out significant accusations against Trump and Sessions: when George told campaign officials he could arrange a summit between Trump and Putin, " Mr. Trump nodded with approval and deferred to Mr. Sessions who appeared to like the idea and stated that the campaign should look into it."
 
 
 
 *   Papadopoulos' statement contradicts Sessions' sworn testimony before the House Judiciary Committee, where the AG said that he "pushed back" on the prospect of a summit.
 *   Prosecutors are asking the judge to sentence Papadopoulos to up to six months in jail. Papadopoulos is requesting a year of probation, which he has already served - thus, he would be free. His sentencing is scheduled for September 7.
 
-**Manafort trial. **Paul Manafort [filed a motion](https://www.cbsnews.com/news/manafort-asks-to-move-venue-of-second-trial-to-roanoke/) to change the venue of his upcoming second trial from Washington D.C. to Roanoke, Virginia. The reason? His lawyers say he won't get a fair trial due to the "heightened pretrial publicity" and the political preferences of D.C. residents.
+**Manafort trial.** Paul Manafort [filed a motion](https://www.cbsnews.com/news/manafort-asks-to-move-venue-of-second-trial-to-roanoke/) to change the venue of his upcoming second trial from Washington D.C. to Roanoke, Virginia. The reason? His lawyers say he won't get a fair trial due to the "heightened pretrial publicity" and the political preferences of D.C. residents.
 
 
 
@@ -107,7 +107,7 @@ is_promote: true
 *   Chechen leader Ramzan Kadyrov: "He stood out among American politicians for his inexplicable and incomprehensible resentment of Russia."
 *   Konstantin Kosachev, chairman of the Federation Council's Foreign Affairs Committee: "His only ideology was to 'defend your own and attack others,' where the only criterion was loyalty to America and American interests, and not the criteria of peace, good and justice."
 
-**Must read: **The Daily Beast published a great article providing insight into Russia's strategy when it comes to the U.S. It is too complex to adequately sum up here, so I encourage everyone to read it: [The Real Reason Russia Is Rooting for Republicans in the Midterms](https://www.thedailybeast.com/the-real-reason-russia-is-rooting-for-republicans-in-the-midterms?ref=home). Here are a few choice quotes:
+**Must read:** The Daily Beast published a great article providing insight into Russia's strategy when it comes to the U.S. It is too complex to adequately sum up here, so I encourage everyone to read it: [The Real Reason Russia Is Rooting for Republicans in the Midterms](https://www.thedailybeast.com/the-real-reason-russia-is-rooting-for-republicans-in-the-midterms?ref=home). Here are a few choice quotes:
 
 
 

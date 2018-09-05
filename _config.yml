@@ -291,12 +291,3 @@ podcast_subtitle:
 podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
   License.
 cloudfront_url: https://d3ur8zm5qs6awd.cloudfront.net
-# jekyll-crosspost_to_medium:
-#   enabled: true
-#   cache: ".jekyll-crosspost_to_medium"
-#   status: public
-#   license: cc-40-by-nc-sa
-#   text: '<p><i>This article was originally posted on {{ page.date | date: "%-m/%-d/%Y"
-#     }} by <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" rel="canonical">WTF
-#     Just Happened Today</a>.</i></p>'
-#   backdate: true

@@ -10,6 +10,7 @@ gem 'jekyll-extlinks'
 gem 'jekyll-archives'
 gem 'jekyll-include-cache'
 gem 'jekyll-onebox'
+gem "jekyll-crosspost-to-medium"
 
 group :jekyll_plugins do
   gem 'jekyll-algolia', '~> 1.0'

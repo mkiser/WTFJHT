@@ -295,6 +295,6 @@ jekyll-crosspost_to_medium:
   enabled: true
   cache: .jekyll-crosspost_to_medium
   status: public
-  license: cc-40-by-nc-sa 
-  text: '<p><i>This article was originally posted on {{ page.date | date: "%-m/%-d/%Y" }} by <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" rel="canonical">WTF Just Happened Today</a>.</i></p>',
+  license: cc-40-by-nc-sa
+  text: '<p><i>This article was originally posted on {{ page.date | date: "%-m/%-d/%Y" }} by <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" rel="canonical">WTF Just Happened Today</a>.</i></p>'
   backdate: true

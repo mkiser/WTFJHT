@@ -37,8 +37,8 @@ module Jekyll
 
       if globally_enabled
         # puts "Cross-posting enabled"
-        user_id = ENV['MEDIUM_USER_ID'] or false
-        token = ENV['MEDIUM_INTEGRATION_TOKEN'] or false
+        user_id = $MEDIUM_USER_ID or false
+        token = $MEDIUM_INTEGRATION_TOKEN or false
 
         if ! user_id or ! token
           raise ArgumentError, "MediumCrossPostGenerator: Environment variables not found"
@@ -181,8 +181,8 @@ module Jekyll
 
 
     def crosspost_to_medium(payload)
-      user_id = ENV['MEDIUM_USER_ID'] or false
-      token = ENV['MEDIUM_INTEGRATION_TOKEN'] or false
+      user_id = $MEDIUM_USER_ID or false
+      token = $MEDIUM_INTEGRATION_TOKEN or false
       medium_api = URI.parse("https://api.medium.com/v1/users/#{user_id}/posts")
 
       # Build the connection

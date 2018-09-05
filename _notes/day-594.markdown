@@ -1,5 +1,5 @@
 ---
-title: Day 594
+title: 'Day 594: The Latest.'
 date: 2018-09-05 04:34:00 -07:00
 is_promoted: true
 ---

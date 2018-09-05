@@ -1,7 +1,7 @@
 ---
 title: 'Day 594: The Latest.'
 date: 2018-09-05 04:34:00 -07:00
-is_promoted: true
+is_promoted: false
 ---
 
 1. **Trump suggested that protesting should be illegal** after Brett Kavanaugh's confirmation hearing was disrupted by protesters. "I don’t know why they don’t take care of a situation like that," Trump said during an interview. "I think it’s embarrassing for the country to allow protesters. You don’t even know what side the protesters are on." Trump added: "In the old days, we used to throw them out. Today, I guess they just keep screaming." ([Washington Post](https://www.washingtonpost.com/politics/trump-suggests-protesting-should-be-illegal/2018/09/04/11cfd9be-b0a0-11e8-aed9-001309990777_story.html?utm_term=.e8e4b1136452))
@@ -12,4 +12,4 @@ is_promoted: true
 
 4. **North Carolina's unconstitutionally gerrymandered congressional maps will be used in the November midterm elections**. A federal court concluded that there is "insufficient time" to redraw the maps before the election, even though the same panel of federal judges ruled in August that the maps favored Republicans and were unconstitutional. ([Politico](https://www.politico.com/story/2018/09/04/north-carolina-redistricting-midterms-807155) / [CNN](https://www.cnn.com/2018/09/04/politics/north-carolina-court-gerrymander-midterms/index.html))
 
-5. **Trump has added FBI Director Christopher Wray to the list of people he doesn't like.** Trump has been criticizing Wray and painting him as yet another Justice Department official who refuses to protect Trump's interests and is possibly out to undermine his presidency. Trump focused his ire on Jeff Sessions and Wray in particular over the Labor Day weekend, with one source claiming that Trump is "in the worst mood of his presidency and calling friends and allies to vent about his selection of Sessions and Wray." ([NBC News](https://www.nbcnews.com/politics/donald-trump/christopher-wray-becomes-latest-target-trump-s-ire-n906326)) 
+5. **Trump has added FBI Director Christopher Wray to the list of people he doesn't like.** Trump has been criticizing Wray and painting him as yet another Justice Department official who refuses to protect Trump's interests and is possibly out to undermine his presidency. Trump focused his ire on Jeff Sessions and Wray in particular over the Labor Day weekend, with one source claiming that Trump is "in the worst mood of his presidency and calling friends and allies to vent about his selection of Sessions and Wray." ([NBC News](https://www.nbcnews.com/politics/donald-trump/christopher-wray-becomes-latest-target-trump-s-ire-n906326))

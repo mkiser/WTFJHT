@@ -1,6 +1,7 @@
 ---
 title: Day 594
 date: 2018-09-05 04:34:00 -07:00
+is_promoted: true
 ---
 
 1. **Trump suggested that protesting should be illegal** after Brett Kavanaugh's confirmation hearing was disrupted by protesters. "I don’t know why they don’t take care of a situation like that," Trump said during an interview. "I think it’s embarrassing for the country to allow protesters. You don’t even know what side the protesters are on." Trump added: "In the old days, we used to throw them out. Today, I guess they just keep screaming." ([Washington Post](https://www.washingtonpost.com/politics/trump-suggests-protesting-should-be-illegal/2018/09/04/11cfd9be-b0a0-11e8-aed9-001309990777_story.html?utm_term=.e8e4b1136452))

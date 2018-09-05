@@ -17,7 +17,7 @@ lastWeekInOneSentence: Sam Patten pleaded guilty to failing to register in the U
   still has not received the funding dedicated by Congress in 2016; and a new poll
   revealed 60% of Americans disapprove of Trump, while 63% of Americans support Mueller's
   investigation.
-is_promoted: true
+is_promoted: false
 ---
 
 **Last Week In One Sentence:** Sam Patten pleaded guilty to failing to register in the U.S. as a foreign agent; feds are investigating suspicious transactions made from the Russian embassy to Russia diplomats days after Trump's election and inauguration; George Papadopoulos sentencing document states Trump and Sessions were supportive of a Trump-Putin summit during the campaign, contradicting Sessions’ sworn testimony; Brett Kavanaugh will reportedly not commit to recuse himself from Trump or Mueller-related matters; the DOJ and the FBI worked together between 2014-2016 to try to turn Russian oligarch Oleg Deripaska into an informant; Christopher Steele told Bruce Ohr that Russian intelligence believed it had Donald Trump "over a barrel" and that Carter Page had met with higher-level Russian officials than previously acknowledged; a State Department unit created two years ago to fight Russian disinformation campaigns still has not received the funding dedicated by Congress in 2016; and a new poll revealed 60% of Americans disapprove of Trump, while 63% of Americans support Mueller's investigation.

@@ -3,17 +3,34 @@ title: Day 594
 date: 2018-09-05 10:26:00 -07:00
 description: The worst mood.
 image: "/uploads/594.jpg"
+todayInOneSentence: A senior Trump administration official published an anonymous
+  essay claiming cabinet members discussed removing Trump from office early in his
+  presidency; Trump called the unsigned op-ed a "disgrace" and "gutless" while Sarah
+  Huckabee Sanders called the author of the op-ed a "coward"; and Trump is "in the
+  worst mood of his presidency."
 ---
 
-1/ **Trump suggested that protesting should be illegal** after Brett Kavanaugh's confirmation hearing was disrupted by protesters. Trump called it "embarrassing for the country to allow protesters. You don't even know what side the protesters are on."  ([Washington Post](https://www.washingtonpost.com/politics/trump-suggests-protesting-should-be-illegal/2018/09/04/11cfd9be-b0a0-11e8-aed9-001309990777_story.html?utm_term=.e8e4b1136452))
+1/ **A senior Trump administration official published an anonymous essay in the New York Times claiming cabinet members discussed removing Trump from office early in his presidency "given the instability many witnessed."** The official criticized Trump's "amorality" and reckless decision-making, saying "there is a quiet resistance within the administration of people choosing to put country first" and that "Americans should know that there are adults in the room" who "fully recognize what is happening. And we are trying to do what’s right even when Donald Trump won't. ([New York Times](https://www.nytimes.com/2018/09/05/opinion/trump-white-house-anonymous-resistance.html) / [CNN](https://www.cnn.com/2018/09/05/politics/nyt-trump-resistance-op-ed/index.html))
 
-2/ **Trump called for NBC to lose its broadcast license**, tweeting "I have long criticized NBC and their journalistic standards-worse than even CNN. Look at their license?" The FCC lacks legal authority to revoke broadcast licenses over news content. ([Politico](https://www.politico.com/story/2018/09/04/trump-nbc-broadcast-licenses-806414))
+2/ **Trump called the unsigned op-ed a "disgrace" and "gutless."** Trump attacked the New York Times for publishing an essay by an unnamed administration official who claims the president's advisers deliberately try to prevent Trump's misguided impulses. The anonymous official wrote that Trump's "impulses are generally anti-trade and anti-democratic." At a White House event, Trump addressed the op-ed, saying "This is what we have to deal with" and that "they don't like Donald Trump and I don't like them." He later demanded that "the Times must, for National Security purposes, turn him/her over to government at once!" ([CNN](https://www.cnn.com/2018/09/05/politics/nyt-trump-resistance-op-ed/index.html) / [Associated Press](https://apnews.com/5d62a7c631604b1c9211a2188be4bb39/Anonymous-official-cites-Trump-'amorality'-in-NY-Times-op-ed) / [New York Times](https://www.nytimes.com/2018/09/05/us/politics/trump-new-york-times-anonymous-editorial.html))
 
-3/ **Robert Mueller's office agreed to accept some written answers from Trump**, according to a letter from the special counsels office to Trump's lawyers. The questions would focus on whether his campaign conspired with Russia in its election interference. Mueller still intends to interview Trump in person about questions  obstruction of justice at a later date. ([New York Times](https://www.nytimes.com/2018/09/04/us/politics/mueller-trump-russia-investigation.html) / [NPR](https://www.npr.org/2018/09/05/644737042/special-counsel-reportedly-agrees-to-accept-written-answers-from-president) / [Washington Post](https://www.washingtonpost.com/politics/mueller-tells-trumps-legal-team-that-he-will-accept-written-answers-on-campaign-questions/2018/09/04/63673368-b090-11e8-aed9-001309990777_story.html))
+{% twitter https://twitter.com/realDonaldTrump/status/1037464177269514240 %}
+
+{% twitter https://twitter.com/realDonaldTrump/status/1037485664433070080 %}
+
+3/ **Sarah Huckabee Sanders called the author of the "resistance" op-ed a "coward"** who should "do the right thing and resign." Sanders accused the author of choosing to "deceive" Trump by remaining in the administration and called on the Times to "issue an apology" for publishing the "pathetic, reckless, and selfish op-ed." ([Associated Press](https://apnews.com/76948f196ebb4120b209e24b7a78af83) / [ABC News](https://abcnews.go.com/Politics/wireStory/anonymous-official-cites-trump-amorality-ny-times-op-57629606))
 
 4/ **Trump is "in the worst mood of his presidency"** and is frequently calling confidants to "vent about his selection of \[Jeff\] Sessions and \[FBI Director Christopher\] Wray." Trump is criticizing Wray and painting him as another Justice Department official who refuses to protect his interests and is possibly out to undermine his presidency. ([NBC News](https://www.nbcnews.com/politics/donald-trump/christopher-wray-becomes-latest-target-trump-s-ire-n906326))
 
-5/ **North Carolina's unconstitutionally gerrymandered congressional maps will be used in the November midterm elections**. A federal court concluded that there is "insufficient time" to redraw the maps before the election, even though the same panel of federal judges ruled in August that the maps favored Republicans and were unconstitutional. ([Politico](https://www.politico.com/story/2018/09/04/north-carolina-redistricting-midterms-807155) / [CNN](https://www.cnn.com/2018/09/04/politics/north-carolina-court-gerrymander-midterms/index.html))
+5/ **Trump suggested that protesting should be illegal** after Brett Kavanaugh's confirmation hearing was disrupted by protesters. Trump called it "embarrassing for the country to allow protesters. You don't even know what side the protesters are on."  ([Washington Post](https://www.washingtonpost.com/politics/trump-suggests-protesting-should-be-illegal/2018/09/04/11cfd9be-b0a0-11e8-aed9-001309990777_story.html?utm_term=.e8e4b1136452))
+
+6/ **Trump called for NBC to lose its broadcast license**, tweeting "I have long criticized NBC and their journalistic standards-worse than even CNN. Look at their license?" The FCC lacks legal authority to revoke broadcast licenses over news content. ([Politico](https://www.politico.com/story/2018/09/04/trump-nbc-broadcast-licenses-806414))
+
+7/ **Robert Mueller's office agreed to accept some written answers from Trump**, according to a letter from the special counsels office to Trump's lawyers. The questions would focus on whether his campaign conspired with Russia in its election interference. Mueller still intends to interview Trump in person about questions  obstruction of justice at a later date. *Editor's note: I added this at the last minute yesterday, but wanted to include more information today.* ([New York Times](https://www.nytimes.com/2018/09/04/us/politics/mueller-trump-russia-investigation.html) / [NPR](https://www.npr.org/2018/09/05/644737042/special-counsel-reportedly-agrees-to-accept-written-answers-from-president) / [Washington Post](https://www.washingtonpost.com/politics/mueller-tells-trumps-legal-team-that-he-will-accept-written-answers-on-campaign-questions/2018/09/04/63673368-b090-11e8-aed9-001309990777_story.html))
+
+* **Robert Mueller subpoenaed a conspiracy theorist linked to both Roger Stone and Alex Jones**. Jerome Corsi is expected to testify on Friday before Mueller's grand jury about his discussions with Stone, who has been a subject of Mueller's investigation for seemingly predicting that WikiLeaks would publish material damaging to Hillary Clinton's presidential campaign. ([New York Times](https://www.nytimes.com/2018/09/05/us/politics/jerome-corsi-subpoena-mueller-investigation.html))
+
+8/ **North Carolina's unconstitutionally gerrymandered congressional maps will be used in the November midterm elections**. A federal court concluded that there is "insufficient time" to redraw the maps before the election, even though the same panel of federal judges ruled in August that the maps favored Republicans and were unconstitutional. ([Politico](https://www.politico.com/story/2018/09/04/north-carolina-redistricting-midterms-807155) / [CNN](https://www.cnn.com/2018/09/04/politics/north-carolina-court-gerrymander-midterms/index.html))
 
 forecast/ **Democrats have a 77% chance of retaking control of the House**. Republicans, meanwhile, have a 22% chance of maintaining control. ([FiveThirtyEight](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/))
 
@@ -22,3 +39,21 @@ poll/ **37% of voters approve of the way Trump is handling his job**. 59% disapp
 poll/ **36% of registered voters approve of the way Trump is handling his job as president**. 60% disapprove. ([Washington Post](https://www.washingtonpost.com/page/2010-2019/WashingtonPost/2018/08/31/National-Politics/Polling/question_20686.xml?uuid=UnUesq0MEeiafc0wUE_5Ag))
 
 poll/ **Trump's job approval fell 5 percentage points to 36% from August to September**. Republican approval fell from 83% in August to 76% in September. Overall, 56% of the public disapprove of the job Trump is doing, up three points from August. ([IBD/TIPP](https://www.investors.com/politics/ibdtipp-poll-presidential-approval-direction-of-country/))
+
+---
+
+## Notables.
+
+* **Homeland Security Secretary Kirstjen Nielsen on called out Putin for interfering in the 2016 election**, saying it was a "direct attack" on U.S. democracy. ([CNN](https://www.cnn.com/2018/09/05/politics/kirstjen-nielsen-russian-election-interference/index.html))
+
+* **The U.K. charged two officers in Russia's military intelligence with attempted murder for poisoning a former Russian spy** in England in March. Prosecutors did not request the extradition of the men from Russia, which does not send its nationals abroad for prosecution. ([New York Times](https://www.nytimes.com/2018/09/05/world/europe/russia-uk-novichok-skripal.html))
+
+* **Putin claimed he doesn't know the two suspects behind the poisoning of Sergei Skripal and his daughter**. Putin's foreign policy adviser, Yuri Ushakov, said the names of the suspects "do not mean anything to me." ([Associated Press](https://apnews.com/923de5b021e84a90aef52c856f85f2aa))
+
+* **The White House is discussing possible replacements for Defense Secretary Jim Mattis**. The news follows reports from Bob Woodward's new book, which claims that Mattis said Trump "acted like – and had the understanding of – 'a fifth- or sixth-grader.'" ([Washington Post](https://www.washingtonpost.com/news/josh-rogin/wp/2018/09/05/the-white-house-is-discussing-potential-replacements-for-jim-mattis/))
+
+* **The EPA failed to justify increased spending on Scott Pruitt's 24-hour security detail**, according to the EPA's inspector general. Pruitt's security costs grew by almost $2 million, from $1.6 million to $3.5 million in just 11 months. ([ABC News](https://abcnews.go.com/Politics/epa-watchdog-accuses-agency-failing-justify-scott-pruitts/story?id=57591461))
+
+* **Trump on a possible government shutdown: "If it happens, it happens."** Congress is facing a Sept. 30th deadline to pass spending bills to keep the government open. ([Associated Press](https://apnews.com/894164282b024a24a4766ea237756e53/Trump-says-of-possible-shutdown:-'If-it-happens,-it-happens'))
+
+*Note: I'll do a full roundup of the Kavanaugh hearings later this week when we have more perspective on what's happened. *

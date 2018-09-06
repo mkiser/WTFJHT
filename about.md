@@ -18,7 +18,8 @@ What was suppose to be a personal project – a challenge to log the daily shock
 WTFJHT publishes Monday-Friday, except on market holidays.
 
 **Editorial Policy:**
-This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement.
+This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. Journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. WTF Just Happened Today is a reflection of these ethics, but also applies the following standards and practices:
+
 
 * WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary source, and moving on. Bias is the byproduct of being a human making decisions. Sorry.
 

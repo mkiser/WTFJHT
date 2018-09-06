@@ -19,7 +19,7 @@ The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, an
 I use AWS S3 to host the [daily podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) and cache the files with AWS CloudFront. I also pay Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. *Monthly Cost:* \~$2000
 
 **S3 Stat:**
-Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) let's me easily understand who is playing what pod on what device. *Monthly Cost:* $10
+Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) lets me easily understand who is playing what pod on what device. *Monthly Cost:* $10
 
 **Live Chat:**
 I like to engage with the WTF family, so I've installed Chat.io, a livechat widget on the site. *Monthly Cost:* $10
@@ -35,7 +35,7 @@ MailChimp charges based on the number of subscribers you have AND the number of 
 The costs of sending email will continue to go up as WTFJHT grows. MailChimp is an awesome company and they've provided us with a 15% discount. *Monthly Cost:* At least $800; usually more.
 
 **Yellow Brim:**
-A huge issue with sending newsletters is that it's easy to mess up the formatting. This is compounded by publishing WTFJHT as a blog post first, then reproducing it in MailChimp as an email second. I use a tool by a startup called Yellow Brim, which allows me to quickly convert the daily update into a perfectly formatted email newsletter. I save at least 45-minutes a day by using this tool. *Monthly Cost:* $75 
+A huge issue with sending newsletters is that it's easy to mess up the formatting. This is compounded by publishing WTFJHT as a blog post first, then reproducing it in MailChimp as an email second. I use a tool by a startup called Yellow Brim, which allows me to quickly convert the daily update into a perfectly formatted email newsletter. I save at least 45 minutes a day by using this tool. *Monthly Cost:* $75 
 
 **WTF Member Forum:**
 The [WTF Member Forum](https://talk.whatthefuckjusthappenedtoday.com/) is a community that exists 24/7/365 to discuss the news, coordinate actions, share perspectives, and connect with likeminded people. It's a [Discourse](http://www.discourse.org/) community hub, which is amazing, free, and open sourced. It needs to be hosted somewhere, however. The provider of choice is [Digital Ocean](https://www.digitalocean.com). *Monthly Cost:* \~$20

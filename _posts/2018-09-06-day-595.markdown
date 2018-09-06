@@ -14,6 +14,8 @@ todayInOneSentence: 'Brett Kavanaugh challenged whether Roe v. Wade was "the set
 
 * **READ**: [Kavanaugh's email on Roe v Wade](https://int.nyt.com/data/documenthelper/269-kavanaugh-email-re-whether-roe/e6dbbda94dd204fe02af/optimized/full.pdf#page=1).
 
+* **Did Kavanaugh mislead the Senate on spying and abortion**? ([New York Times](https://www.nytimes.com/2018/09/06/us/politics/kavanaugh-hearing-confirmation.html))
+
 2/ **Senator Cory Booker released 12 pages of confidential Kavanaugh emails on racial profiling, affirmative action, and other racial issues**. Booker acknowledged that he would be "knowingly violating the rules" for releasing the "committee confidential" emails, adding: "And I understand that the penalty comes with potential ousting from the Senate \[...\] I openly invite and accept the consequences ... the emails being withheld from the public have nothing to do with national security." Booker then invited Republican Sen. John Cornyn to "bring the charges." ([The Guardian](https://www.theguardian.com/us-news/2018/sep/06/brett-kavanaugh-hearings-third-day-documents-leaked) / [ABC News](https://abcnews.go.com/Politics/democrats-threaten-release-confidential-kavanaugh-documents/story?id=57643589) / [CNN](https://www.cnn.com/2018/09/06/politics/kavanaugh-hearing-document-booker-testimony/index.html) / [The Hill](http://thehill.com/homenews/senate/405324-booker-releasing-committee-confidential-documents))
 
 * {% twitter https://twitter.com/CNNPolitics/status/1037705079267188737 %}

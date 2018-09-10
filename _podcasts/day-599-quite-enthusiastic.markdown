@@ -1,10 +1,10 @@
 ---
 title: 'Day 599: Quite enthusiastic.'
 date: 2018-09-10 15:27:00 -07:00
-file: "/uploads/Day-599.mp3"
+file: "/uploads/Day-599a.mp3"
 post: Day 599
-duration: '00:06:24'
-length: 4969702
+duration: '00:05:34'
+length: 4642250
 ---
 
 **Monday, September 10, 2018**

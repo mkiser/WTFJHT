@@ -15,7 +15,7 @@ lastWeekInOneSentence: Paul Manafort tried to negotiate a plea deal and avoid a 
   documents related to Mueller's probe and make other documents public related to
   Bruce Ohr; New York federal prosecutors are looking into whether executives and
   officials in the Trump Organization violated campaign finance laws.
-is_promoted: true
+is_promoted: false
 ---
 
 **Last Week In One Sentence:** Paul Manafort tried to negotiate a plea deal and avoid a second trial; George Papadopoulos was sentenced to 14 days in jail for lying to the FBI; Papadopoulos stated Trump's team was "fully aware" he was actively attempting to set up a Trump-Putin meeting when Trump was a candidate; DNC lawyers revealed that Joseph Mifsud, the London-based professor who told Papadopoulos of Russian "dirt" on Hillary Clinton, may be dead; Senator Chuck Grassley tried to bypass a judge to obtain Christopher Steele's deposition and discovery items from the Russian tech executive suing him in a civil case for defamation; the judge declined to release the information; a group of Republicans called on Trump to declassify sensitive documents related to Mueller's probe and make other documents public related to Bruce Ohr; New York federal prosecutors are looking into whether executives and officials in the Trump Organization violated campaign finance laws.

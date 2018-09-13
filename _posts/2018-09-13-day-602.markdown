@@ -4,10 +4,11 @@ date: 2018-09-13 10:53:00 -07:00
 description: 12,800 children.
 image: "/uploads/day-602.png"
 todayInOneSentence: Sen. Feinstein referred a letter to the FBI about potential sexual
-  misconduct by Kavanaugh and the Senate postponed his vote; DHS quietly gave $200
-  million from various federal programs to ICE; there are a record 12,800 children
-  detained at the southern border; and Trump accused the Democrats of inflating the
-  death toll from Hurricane Maria in Puerto Rico.
+  misconduct by Kavanaugh and the Senate postponed his vote; the DHS inspector general
+  is investigating the head of FEMA; Trump quietly gave $200 million from various
+  DHS programs to ICE; there are a record 12,800 children detained at the southern
+  border; and Trump accused the Democrats of inflating the death toll from Hurricane
+  Maria in Puerto Rico.
 author: Joe Amditis
 ---
 

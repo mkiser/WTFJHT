@@ -56,7 +56,7 @@ is_promoted: true
 
 **Cohen singing.** [Vanity Fair](https://www.vanityfair.com/news/2018/09/michael-cohen-mueller) reported, "it has also become common knowledge among close friends of Michael Cohen, Trump's former personal attorney, that Cohen is talking to the Mueller team, according to people familiar with the situation."
 
-**Undermining Mueller. **Allies of president Trump [believe](https://www.axios.com/trump-declassify-carter-page-bruce-ohr-documents-307ff599-df29-49db-ae01-a8b027908b12.html) he will soon declassify documents regarding the surveillance of Carter Page and the investigations conducted by DOJ lawyer Bruce Ohr. As Axios states, "Republicans on the House Intelligence and Judiciary committees believe the declassification will permanently taint the Trump-Russia investigation by showing the investigation was illegitimate to begin with."
+**Undermining Mueller.** Allies of president Trump [believe](https://www.axios.com/trump-declassify-carter-page-bruce-ohr-documents-307ff599-df29-49db-ae01-a8b027908b12.html) he will soon declassify documents regarding the surveillance of Carter Page and the investigations conducted by DOJ lawyer Bruce Ohr. As Axios states, "Republicans on the House Intelligence and Judiciary committees believe the declassification will permanently taint the Trump-Russia investigation by showing the investigation was illegitimate to begin with."
 
 **Simona the spy?** George Papadopoulos's wife [told ABC](https://abcnews.go.com/Politics/papadopouloss-wife-acknowledges-special-counsel-team-suspected-russian/story?id=57705038) that Mueller's team suspect she was/is a Russian spy. George added even his own family suspected this. 
 
@@ -112,7 +112,7 @@ is_promoted: true
 
 ## **Congress/States**
 
-**Rohrbacher re-election. **A [New York Times poll](https://www.nytimes.com/interactive/2018/upshot/elections-poll-ca48-1.html) found that Putin's favorite congressman, Rep. Dana Rohrabacher, is tied with Dem challenger Harley Rouda in his fight for re-election in California's 48th district. Both have 45%, with 10 % undecided. However, the sample was small (only 501 people took part) and each candidate's total could be off by 5 percentage points.
+**Rohrbacher re-election.** A [New York Times poll](https://www.nytimes.com/interactive/2018/upshot/elections-poll-ca48-1.html) found that Putin's favorite congressman, Rep. Dana Rohrabacher, is tied with Dem challenger Harley Rouda in his fight for re-election in California's 48th district. Both have 45%, with 10 % undecided. However, the sample was small (only 501 people took part) and each candidate's total could be off by 5 percentage points.
 
 **Emoluments update.** The Attorneys General of Maryland and DC are [asking](http://thehill.com/regulation/court-battles/406888-ags-ask-for-trumps-communications-with-foreign-officials-about-trump) a U.S. District Court to force Trump to turn over "any communications with domestic or foreign government officials related to his Trump International Hotel in Washington, D.C."
 

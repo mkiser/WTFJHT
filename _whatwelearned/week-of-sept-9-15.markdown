@@ -14,7 +14,7 @@ lastWeekInOneSentence: Investigators are looking into suspicious bank transactio
   the mysterious attacks on U.S. officials in Cuba and China that led to brain injuries;
   and 600 Russia-linked accounts collectively sent 10,000 tweets about the Affordable
   Care Act (Obamacare) between 2014 to May 2018.
-is_promoted: true
+is_promoted: false
 ---
 
 **Last Week In One Sentence:** Investigators are looking into suspicious bank transactions that occurred around key dates in the Trump-Russia saga; Paul Manafort entered a plea deal with Robert Mueller in which he pledged his full cooperation; Trump signed an executive order meant to punish foreign entities for interfering in U.S. elections, but experts and lawmakers see it as inadequate and say we're still "woefully unprepared"; George Papadopoulos's wife told ABC that Mueller's team suspect she was/is a Russian spy; Britain identified two men it says tried to murder former Russian spy Sergei Skripal and his daughter, Yulia; Russia is considered to be the main suspect behind the mysterious attacks on U.S. officials in Cuba and China that led to brain injuries; and 600 Russia-linked accounts collectively sent 10,000 tweets about the Affordable Care Act (Obamacare) between 2014 to May 2018.

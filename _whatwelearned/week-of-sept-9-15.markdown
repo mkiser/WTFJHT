@@ -23,7 +23,7 @@ is_promoted: true
 
 ## **Mueller investigation**
 
-**Criminal payments? **Investigators are looking into [suspicious bank transactions](https://www.buzzfeednews.com/article/anthonycormier/trump-tower-meeting-suspicious-transactions-agalarov) that occurred around key dates in the Trump-Russia saga.
+**Criminal payments?** Investigators are looking into [suspicious bank transactions](https://www.buzzfeednews.com/article/anthonycormier/trump-tower-meeting-suspicious-transactions-agalarov) that occurred around key dates in the Trump-Russia saga.
 
 
 

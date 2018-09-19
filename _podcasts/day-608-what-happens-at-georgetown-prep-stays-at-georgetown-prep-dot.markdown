@@ -7,7 +7,7 @@ duration: '00:04:25'
 length: 3962383
 ---
 
-**Tuesday, September 18, 2018**
+**Wednesday, September 19, 2018**
 
 **Subscribe:** [Get the Daily Update in your inbox for free. ](https://whatthefuckjusthappenedtoday.com/subscribe/)
 

@@ -5,10 +5,8 @@ is_promoted: true
 metatags: index,follow
 ---
 
-1. Rod Rosenstein resigned in anticipation of being fired by Trump. 
+1. Rod Rosenstein verbally resigned to John Kelly in anticipation of being fired by Trump.
 
-2. Rosenstein verbally resigned to Staff John Kelly.
+2. "He's expecting to be fired," an unidentified source with knowledge of the matter.
 
-3. "He's expecting to be fired," an unidentified source with knowledge of the matter
-
-4. Source: [Axios](https://www.axios.com/rod-rosenstein-resign-justice-department-trump-cf761f4c-fca3-4794-92d4-a56c9e32ff43.html)
+3. Source: [Axios](https://www.axios.com/rod-rosenstein-resign-justice-department-trump-cf761f4c-fca3-4794-92d4-a56c9e32ff43.html)

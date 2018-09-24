@@ -1,7 +1,7 @@
 ---
 title: "⚠️ Rod Rosenstein resigned"
 date: 2018-09-24 07:55:00 -07:00
-is_promoted: true
+is_promoted: false
 metatags: index,follow
 ---
 

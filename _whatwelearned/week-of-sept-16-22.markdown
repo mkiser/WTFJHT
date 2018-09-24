@@ -3,7 +3,7 @@ title: Week of Sept 16 - 22
 date: 2018-09-23 11:12:00 -07:00
 description: What We Learned in the Russia Probe
 image: "/uploads/whatwelearned1622.jpg"
-is_promoted: true
+is_promoted: false
 ---
 
 **Last Week In One Sentence**: Mueller is investigating millions of dollars in suspicious transactions between planners and participants of the Trump Tower meeting; Michael Cohen spent hours providing interviews to Mueller's team across multiple sessions; Jerome Corsi, an associate of Roger Stone, testified before Mueller's grand jury; Trump directed the FBI and DOJ to declassify and release sensitive documents related to the Russia probe only to walk back his directive later in the week; Russian diplomats hatched a plan to assist Julian Assange in fleeing the U.K. and taking refuge in Russia, where he would be safe from extradition; Russian officials have been visiting Maria Butina and Yevgeniy Nikulin, two Russian nationals held in U.S. jails; Nikki Haley, called an emergency meeting of the security council to accuse Russia of "cheating" on sanctions against North Korea; Google confirmed the Gmail accounts of an unspecified number of senators and staff have been targeted by hacking attempts by a foreign government; and another website of a Democratic campaign in California was attacked.

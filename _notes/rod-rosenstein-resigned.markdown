@@ -5,7 +5,7 @@ is_promoted: true
 metatags: index,follow
 ---
 
-1. Rod Rosenstein verbally resigned to John Kelly in anticipation of being fired by Trump.
+1. Rod Rosenstein verbally resigned to John Kelly in anticipation of being fired by Trump today.
 
 2. "He's expecting to be fired," an unidentified source with knowledge of the matter.
 

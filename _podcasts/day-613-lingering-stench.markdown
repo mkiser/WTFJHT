@@ -1,10 +1,10 @@
 ---
 title: 'Day 613: Lingering stench.'
 date: 2018-09-24 14:47:00 -07:00
-file: "/uploads/Day-613.mp3"
+file: "/uploads/Day-613a.mp3"
 post: Day 613
-duration: '00:04:23'
-length: 7250447
+duration: '00:04:47'
+length: 7853344
 ---
 
 **Monday, September 24, 2018**

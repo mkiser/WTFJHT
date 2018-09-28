@@ -1,13 +1,15 @@
 ---
 title: Day 617
 date: 2018-09-28 08:20:00 -07:00
-description: Not in the best interest of the country.
+description: Aggressive and belligerent.
 image: "/uploads/617.jpg"
 ---
 
 1/ **Sen. Jeff Flake will vote "yes" on Kavanaugh's committee approval**, ensuring that the Senate Judiciary Committee will advance Kavanaugh's nomination to the full Senate. Flake said he still has "much doubt" after yesterday's hearings with Kavanaugh and Ford, but he believes "our system of justice affords a presumption of innocence ... absent corroborating evidence." ([New York Times](https://www.nytimes.com/2018/09/28/us/politics/brett-kavanaugh-senate-judiciary.html) / [Associated Press](https://apnews.com/6cd0cc2774d94da68fc9b92b6f2dae42/The-Latest:-Sen.-Flake-a-'yes'-on-Kavanaugh,-in-a-big-lift) / [Washington Post](https://www.washingtonpost.com/powerpost/senate-committee-prepares-to-vote-on-kavanaugh-nomination-as-key-senators-remain-silent/2018/09/28/0b143292-c305-11e8-b338-a3289f6cb742_story.html))
 
 * **The Senate Judiciary Committee will vote on Kavanaugh's confirmation at 1:30 p.m. E.T.** Several Democrats on the committee walked out of the meeting in protest. ([ABC News](https://abcnews.go.com/Politics/kavanaugh-nomination-slated-vote-friday-morning-senate-committee/story?id=58107011) / [Associated Press](https://apnews.com/e894392938b54ee3b82f4ea18ec1ed5c))
+
+* **Dianne Feinstein described Kavanaugh's testimony "aggressive and belligerent,"** adding that she's "never seen a nominee for any position behave in that manner." ([CNBC](https://www.cnbc.com/2018/09/28/sen-dianne-feinstein-rips-brett-kavanaughs-belligerent-testimony.html))
 
 * **Democrats on the House Judiciary Committee plan to investigate Kavanaugh if they retake the House majority in November**. Hank Johnson (D-Ga.) would become chair of the Judiciary Subcommittee on Courts, Intellectual Property and the Internet, which has the authority to subpoena witnesses and documents related to Kavanaugh. ([HuffPost](https://www.huffingtonpost.com/entry/house-judiciary-committee-kavanaugh_us_5bae3d5ee4b0b4d308d277d9))
 
@@ -37,4 +39,6 @@ image: "/uploads/617.jpg"
 
 5. **Farmers said aid from the Trump administration won't cover the lost sales due to tariffs**. U.S. farm income is expected to drop 13% this year to $66 billion despite the USDA saying it would pay farmers nearly $5 billion to offset losses from global trade disputes. ([Wall Street Journal](https://www.wsj.com/articles/farmers-say-aid-wont-cover-tariff-damage-1537974178))
 
-6. **The Trump administration predicts the earth's temperature will rise by 7 degrees Fahrenheit by the end of the century.** Instead of using the analysis to fight climate change, the administration argued that the fate of the planet is already sealed. ([Washington Post](https://www.washingtonpost.com/national/health-science/trump-administration-sees-a-7-degree-rise-in-global-temperatures-by-2100/2018/09/27/b9c6fada-bb45-11e8-bdc0-90f81cc58c5d_story.html?utm_term=.bf1758518de8))
+6. **The EPA will combine the Office of the Science Advisor with the agency's research office in order to "reduce redundancies."** ([CNN](https://www.cnn.com/2018/09/28/politics/epa-research-changes/index.html))
+
+7. **The Trump administration predicts the earth's temperature will rise by 7 degrees Fahrenheit by the end of the century.** Instead of using the analysis to fight climate change, the administration argued that the fate of the planet is already sealed. ([Washington Post](https://www.washingtonpost.com/national/health-science/trump-administration-sees-a-7-degree-rise-in-global-temperatures-by-2100/2018/09/27/b9c6fada-bb45-11e8-bdc0-90f81cc58c5d_story.html?utm_term=.bf1758518de8))

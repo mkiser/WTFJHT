@@ -1,8 +1,8 @@
   {% assign years = site.archives | where:"type", "year" %}
   
   {% for year in years reversed %}
-    <div class="post">
-      <p>
+    <div class="post archive">
+      <p class="archive-year">
         <strong><a href="{{ year.url }}">{{ year.posts[0].date | date:"%Y" }}</a></strong>
       </p>
 

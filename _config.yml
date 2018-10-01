@@ -263,7 +263,7 @@ plugins:
 - jekyll-include-cache
 - jekyll-onebox
 - jekyll-algolia
-- jekyll-crosspost-to-medium
+# - jekyll-crosspost-to-medium
 onebox:
   whitelist:
   - nbcnews.com

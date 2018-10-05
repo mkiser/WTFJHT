@@ -3,9 +3,15 @@ title: Day 624
 date: 2018-10-05 11:31:00 -07:00
 description: 'Rock bottom. '
 image: "/uploads/624.jpg"
+todayInOneSentence: 'The Senate voted 51-49 to advance Brett Kavanaugh''s Supreme
+  Court nomination; Susan Collins and Joe Manchin will support Kavanaugh''s nomination,
+  effectively ensuring enough votes for his confirmation; Kavanaugh, meanwhile, said
+  that he "might have been too emotional" during his testimony before the Senate Judiciary
+  Committee; and Trump mocked Al Franken for folding "like a wet rag" when faced with
+  sexual misconduct allegations. '
 ---
 
-1/ **The Senate voted 51-49 to advance Brett Kavanaugh's Supreme Court nomination**. Republican Lisa Murkowski voted not to advance the nomination. She called the cloture vote "a mistake" and that Kavanaugh is "not the best man for the court at this time." Democrat Joe Manchin voted in favor. Flake told reporters he would support Kavanaugh on the final vote, "unless something big changes." ([New York Times](https://www.nytimes.com/2018/10/05/us/politics/brett-kavanaugh-vote-confirmed.html) / [Washington Post](https://www.washingtonpost.com/politics/kavanaugh-vote-hours-before-a-key-test-grassley-says-he-doesnt-know-how-it-will-go/2018/10/05/a71d92ba-c886-11e8-b1ed-1d2d65b86d0c_story.html) / [Politico](https://www.politico.com/story/2018/10/05/kavanaugh-votes-confirmed-872713) / [NBC News](https://www.nbcnews.com/politics/congress/senate-take-critical-procedural-vote-kavanaugh-friday-n917036) / [Wall Street Journal](https://www.wsj.com/livecoverage/kavanaugh))
+1/ **The Senate voted 51-49 to advance Brett Kavanaugh's Supreme Court nomination**. Republican Lisa Murkowski voted not to advance the nomination. She called the cloture vote "a mistake," saying Kavanaugh is "not the best man for the court at this time." Flake told reporters he would support Kavanaugh on the final vote, "unless something big changes." A final floor vote is expected to take place on Saturday. ([New York Times](https://www.nytimes.com/2018/10/05/us/politics/brett-kavanaugh-vote-confirmed.html) / [Washington Post](https://www.washingtonpost.com/politics/kavanaugh-vote-hours-before-a-key-test-grassley-says-he-doesnt-know-how-it-will-go/2018/10/05/a71d92ba-c886-11e8-b1ed-1d2d65b86d0c_story.html) / [Politico](https://www.politico.com/story/2018/10/05/kavanaugh-votes-confirmed-872713) / [NBC News](https://www.nbcnews.com/politics/congress/senate-take-critical-procedural-vote-kavanaugh-friday-n917036) / [Wall Street Journal](https://www.wsj.com/livecoverage/kavanaugh))
 
 * 🗳 **How senators voted**. ([Politico](https://www.politico.com/interactives/2018/brett-kavanaugh-senate-cloture-vote-count/))
 
@@ -17,8 +23,18 @@ image: "/uploads/624.jpg"
 
 3/ **Joe Manchin will also vote "yes" on Kavanaugh's nomination**, announcing his decision immediately after Collins. Manchin is a Democrat up for re-election in a red state. Machin said he had "reservations about this vote given the serious accusations against Judge Kavanaugh and the temperament he displayed in the hearing," but "found Judge Kavanaugh to be a qualified jurist who will follow the Constitution and determine cases based on the legal findings before him." ([Axios](https://www.axios.com/manchin-a-yes-on-kavanaugh-79c8a446-6897-402e-a05f-1c5f93c04ade.html) / [The Hill](https://thehill.com/homenews/senate/409890-manchin-says-he-will-vote-for-kavanaugh))
 
-4/ **Kavanaugh argued that he will be an "independent, impartial judge"** in an op-ed he wrote for the Wall Street Journal. He acknowledged that he "might have been too emotional" during his testimony before the Senate Judiciary Committee last week. ([Wall Street Journal](https://www.wsj.com/articles/i-am-an-independent-impartial-judge-1538695822))
+4/ **Kavanaugh said that he "might have been too emotional" during his testimony before the Senate Judiciary Committee** last week, arguing that he will be an "independent, impartial judge" in an op-ed he wrote for the Wall Street Journal. ([Wall Street Journal](https://www.wsj.com/articles/i-am-an-independent-impartial-judge-1538695822))
 
 * **The American Bar Association is re-evaluating Kavanaugh's "well-qualified" rating**. In a letter to the Senate Judiciary Committee, the ABA referred to "new information of a material nature regarding temperament" stemming from Kavanaugh's hearing. ([Business Insider](https://www.businessinsider.com/the-american-bar-association-reevaluating-kavanaugh-well-qualified-rating-2018-10))
 
 5/ **Trump mocked former Senator Al Franken for folding "like a wet rag"** and resigning following multiple allegations of sexual misconduct last year. ([New York Times](https://www.nytimes.com/2018/10/04/us/politics/trump-al-franken-minnesota.html))
+
+---
+
+## Notables.
+
+1. **The unemployment rate fell to 3.7%**, the lowest level since December 1969. The Labor Department reported 134,000 new jobs in September, down from 270,000 in August. ([CNBC](https://www.cnbc.com/2018/10/05/us-nonfarm-payrolls-september-2018.html) / [Politico](https://www.politico.com/story/2018/10/05/september-jobs-report-economy-added-jobs-873373) / [New York Times](https://www.nytimes.com/2018/10/05/business/economy/jobs-report.html))
+
+2. **The U.S. trade deficit widened to 6.4% to a six-month high of $53.2 billion in August** despite the White House slapping China with $200 billion worth of tariffs. ([CNBC](https://www.cnbc.com/2018/10/05/the-us-trade-deficit-keeps-going-up-despite-tariffs.html))
+
+3. **The Trump administration plans to pay Mexico $20 million to deport migrants** from their country in order to prevent them from reaching the U.S. ([ABC News](https://abcnews.go.com/US/mexico-congresss-opposition-us-moves-ahead-plan-give/story?id=58294253))

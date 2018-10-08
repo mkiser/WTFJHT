@@ -3,6 +3,12 @@ title: Day 627
 date: 2018-10-08 13:01:00 -07:00
 description: '"An insult to the American public."'
 image: "/uploads/627.jpg"
+todayInOneSentence: The Senate confirmed Brett Kavanaugh;  Trump called the allegations
+  against Kavanaugh "a hoax that was set up by the Democrats"; Trump won't fire Rod
+  Rosenstein after all; a U.N. report on the effects of climate change predicts a
+  strong risk of an environmental crises much sooner than expected; and Fox News hired
+  Hope Hicks.
+author: Clayton Aldern
 ---
 
 1/ **The Senate confirmed Brett Kavanaugh to the U.S. Supreme Court in a 50-48 vote**. Republican Sen. Lisa Murkowski voted "present," although she said he opposed the nomination. Joe Manchin was the lone "yes" vote from the Democrats. Kavanaugh is the first justice nominated by a president who lost the popular vote, confirmed by senators representing less than half of the country, while also having his nomination opposed by a majority of the country. ([New York Times](https://www.nytimes.com/2018/10/06/us/politics/brett-kavanaugh-supreme-court.html) / [Washington Post](https://www.washingtonpost.com/politics/2018/10/06/senators-representing-less-than-half-us-are-about-confirm-nominee-opposed-by-most-americans/) / [CNN](https://www.cnn.com/2018/10/06/politics/kavanaugh-final-confirmation-vote/index.html) / [The Guardian](https://www.theguardian.com/us-news/2018/oct/06/brett-kavanaugh-confirmed-us-supreme-court) / [NPR](https://www.npr.org/2018/10/06/654409999/final-senate-vote-on-kavanaugh-nomination-expected-saturday))
@@ -25,6 +31,8 @@ image: "/uploads/627.jpg"
 
 4/ **A U.N. report on the effects of climate change predicts a strong risk of an environmental crises much sooner than expected**. The report finds that the atmosphere could warm by as much as 2.7 degrees Fahrenheit above preindustrial levels by 2040 if greenhouse gas emissions continue at the current rate, which would cause sea-levels to rise, intensify droughts, wildfires, and poverty, and cause a mass die-off of coral reefs. To prevent 2.7 degrees of warming, greenhouse pollution must be reduced by 45% from 2010 levels by 2030, and fully eliminated by 2050. The use of coal as an electricity source would have to drop from nearly 40% today to between 1 and 7% by 2050. Renewable energy would have to increase to about 67%. Trump has mocked the science of human-caused climate change, vowing to increase the burning of coal and intends to withdraw from the 2015 Paris agreement. The world is already more than halfway to the 2.7-degree mark and "there is no documented historic precedent" for the scale of changes required, the report said. ([New York Times](https://www.nytimes.com/2018/10/07/climate/ipcc-climate-report-2040.html) / [Washington Post](https://www.washingtonpost.com/energy-environment/2018/10/08/world-has-only-years-get-climate-change-under-control-un-scientists-say/))
 
+poll/ **51% of Americans oppose Kavanaugh's confirmation to the Supreme Court with 41% supporting it**. Among Democrats, 91% opposed his nomination, while 89% of Republicans support it. ([CNN](https://www.cnn.com/2018/10/08/politics/cnn-poll-kavanaugh-confirmation/index.html))
+
 ---
 
 ## Notables.
@@ -37,12 +45,14 @@ image: "/uploads/627.jpg"
 
 4. **Fox News hired Hope Hicks as Chief Communications Officer**. After she left the White House in February, former Fox News executive Bill Shine took over as deputy chief of staff for communications. ([Fox News](https://www.foxnews.com/politics/2018/02/28/hope-hicks-resigning-as-white-house-communications-director.html) / [CNBC](https://www.cnbc.com/2018/10/08/hope-hicks-lands-at-fox-news-as-chief-communications-officer.html) / [Variety](https://variety.com/2018/biz/news/hope-hicks-trump-new-fox-communications-chief-1202972045/))
 
+5. 🇷🇺 **What We Learned Last Week in the Russia Probe**: GOP operative and anti-Trumper, Cheri Jacobus, said the investigation of an email hacking/catfishing scheme that targeted her has been forwarded to Robert Mueller; Russia's Deputy Attorney General, who allegedly directed the foreign operations of Natalia Veselnitskaya, died last week in a mysterious helicopter crash in Russia; the pilot of the helicopter had two bullet wounds; the Russian sovereign wealth fund leader with whom Erik Prince met in the Seychelles, Kirill Dmitriev, "reached out to at least three additional individuals in close contact with the Trump transition team" in the days before Trump's inauguration; GOP operative Peter Smith, who killed himself in an alleged suicide, solicited and raised at least $100k in his search for Clinton's emails; Randy Credico told the Senate Intelligence Committee he would plead the 5th in response to a subpoena; Reddit's CEO admitted that "suspicious" Russian accounts have been active within the past month on the platform; Russian state TV and Russian trolls supported Kavanaugh and condemned what they call "malignant feminism"; Representative Eric Swalwell wrote an op-ed for the Fresno Bee accusing Devin Nunes of burying evidence on Russian meddling to protect Trump and endorsing his opponent, Andrew Janz; a coalition of voting rights activists announced they are filing a federal lawsuit against Georgia Secretary of State Brian Kemp for "using a racially-biased methodology" to remove roughly 700,000 voters from the state's voter rolls; and California's Governor Jerry Brown signed a bill on Friday banning companies from secretly using automated social media accounts to sell products or influence elections. ([WTF Just Happened Today](https://whatthefuckjusthappenedtoday.com/what-we-learned/2018/10/week-of-sept-30-oct-6/))
+
 ---
 
-## 🗳 How to register to vote: 
+## 🗳 How to register to vote:
 
 1. **If you're not sure if you're registered**, check your registration status on [vote.org](https://www.vote.org/am-i-registered-to-vote/).
 
 2. **If you haven't registered**, use [vote.org](https://www.vote.org/register-to-vote/), [TurboVote](https://turbovote.org/), or pick up a registration form at your local post office or library.
 
-3. **Check your voter registration deadline** [here](https://www.nytimes.com/2018/10/06/us/politics/state-voter-registration-deadlines.html) or [here](https://www.vox.com/policy-and-politics/2018/10/7/17947768/voter-registration-deadline-verify-2018-midterms). 
+3. **Check your voter registration deadline** [here](https://www.nytimes.com/2018/10/06/us/politics/state-voter-registration-deadlines.html) or [here](https://www.vox.com/policy-and-politics/2018/10/7/17947768/voter-registration-deadline-verify-2018-midterms).

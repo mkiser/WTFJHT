@@ -1,7 +1,8 @@
 ---
 title: "\U0001F6A8 Kavanaugh confirmed."
 date: 2018-10-06 14:26:00 -07:00
-is_promoted: true
+published: false
+is_promoted: false
 ---
 
 **The Senate voted to confirm Brett Kavanaugh to the U.S. Supreme Court.** The vote was 50 in favor, 48 against, and 1 present. Republican Sen. Lisa Murkowski voted "present," while Sen. Joe Manchin was the lone "yes" vote from the Democrats. ([New York Times](https://www.nytimes.com/2018/10/06/us/politics/brett-kavanaugh-supreme-court.html) / [CNN](https://www.cnn.com/2018/10/06/politics/kavanaugh-final-confirmation-vote/index.html) / [ABC News](https://abcnews.go.com/Politics/kavanaugh-latest-confirmation-ahead-senate-vote-saturday/story?id=58316458))

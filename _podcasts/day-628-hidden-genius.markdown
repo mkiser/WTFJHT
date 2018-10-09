@@ -21,7 +21,7 @@ poll/ 34% of young people ages 18-24 say they are "extremely likely" to vote in 
 
 --
 
-📌 **THE RE-UP. **\
+📌 **THE RE-UP.**\
 *A few stories worth your attention that were drowned out by the daily shock and awe. Updated occasionally.*
 
 * [Day 621](https://whatthefuckjusthappenedtoday.com/2018/10/02/day-621/#1-trump-inherited-his-familys-wealth): Trump inherited his family's wealth through fraud and questionable tax schemes.

@@ -55,7 +55,7 @@ is_promoted: true
 
 
 
-*   Mueller has added to his team a lawyer well known for her work on violent crimes, Kathryn Rakoczy, leading some to speculate Mueller is investigating Smith's death as a Mueller. My personal opinion: Who writes a "suicide note" saying "NO FOUL PLAY WHATSOEVER." That's suspicious.
+*   Mueller has added to his team a lawyer well known for her work on violent crimes, Kathryn Rakoczy, leading some to speculate Mueller is investigating Smith's death as a murder. My personal opinion: Who writes a "suicide note" saying "NO FOUL PLAY WHATSOEVER." That's suspicious.
 
 **Protecting evidence.** In [court documents](https://www.bloomberg.com/news/articles/2018-06-12/mueller-seeks-order-protecting-evidence-in-russia-troll-case) filed last week, Mueller asked a federal judge to protect evidence sought by the Russian firm Concord Management and Consulting, one of the companies charged with election meddling. Mueller warned that Russian intelligence services still have active "interference operations" into U.S. elections and that turning over certain evidence could compromise ongoing investigations.
 

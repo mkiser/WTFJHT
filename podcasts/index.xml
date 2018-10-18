@@ -45,28 +45,27 @@ layout:
   <item>
     <title>{{ ep.title }}</title>
 
-{% assign post = site.posts | where: 'title', ep.post %}
-{% for link in post %}
+    {% assign post = site.posts | where: 'title', ep.post %}
+    {% for link in post %}
     <link>{{ site.url }}{{ site.baseurl }}{{ link.url }}</link>
-{% endfor %}
 
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
     <dc:creator>{{ site.podcast_owner }}</dc:creator>
-{% for category in ep.tags %}
+    {% for category in ep.tags %}
     <category>{{ category }}</category>
-{% endfor %}
+    {% endfor %}
     <guid isPermaLink="false">{{ ep.url }}</guid>
     <description>
-        <![CDATA[{{ ep.content | strip_html | truncate: 250 }}]]>
+        <![CDATA[{{ link.content | strip_html | truncate: 250 }}]]>
     </description>
     <content:encoded>
-        <![CDATA[{{ ep.content }}]]>
+        <![CDATA[{{ link.content }}]]>
     </content:encoded>
 
     <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
 
-    <itunes:subtitle>{{ ep.content | strip_html | truncate: 250 | expand_urls: site.url }}</itunes:subtitle>
-    <itunes:summary><![CDATA[{{ ep.content }}]]></itunes:summary>
+    <itunes:subtitle>{{ link.content | strip_html | truncate: 250 | expand_urls: site.url }}</itunes:subtitle>
+    <itunes:summary><![CDATA[{{ link.content }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
@@ -75,6 +74,7 @@ layout:
         <media:title type="html">{{ ep.title }}</media:title>
     </media:content>
   </item>
+    {% endfor %}
 {% endfor %}
 
 </channel>

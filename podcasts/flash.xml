@@ -28,10 +28,10 @@ layout:
             {% assign post = site.posts | where: 'title', ep.post %}
             {% for link in post %}
             <link>http://wtfjusthappenedtoday.com{{ link.url }}</link>
-            {% endfor %}
             <pubDate>{{ ep.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
             <guid isPermaLink="false">{{ ep.url }}</guid>
-            <description>{{ ep.content | strip_html | truncate: 250 }}</description>
+            <description>{{ link.content | strip_html | truncate: 250 }}</description>
+            {% endfor %}
             <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
       </item>
     {% endfor %}

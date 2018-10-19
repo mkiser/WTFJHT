@@ -44,22 +44,32 @@ layout:
 {% for ep in site.podcasts reversed %}
   <item>
     <title>{{ ep.title }}</title>
+    <guid isPermaLink="false">{{ ep.url }}</guid>
+    <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+    
+    {% for category in ep.tags %}
+    <category>{{ category }}</category>
+    {% endfor %}
+    <dc:creator>{{ site.podcast_owner }}</dc:creator>
 
     {% assign post = site.posts | where: 'title', ep.post %}
     {% for link in post %}
     <link>{{ site.url }}{{ site.baseurl }}{{ link.url }}</link>
-
-    <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-    <dc:creator>{{ site.podcast_owner }}</dc:creator>
-    {% for category in ep.tags %}
-    <category>{{ category }}</category>
-    {% endfor %}
-    <guid isPermaLink="false">{{ ep.url }}</guid>
-    <description>
-        <![CDATA[{{ link.content | strip_html | truncate: 250 }}]]>
+    <description>    
+        <![CDATA[
+            <p><strong>{{ ep.date | date: "%A, %B %e, %Y" }}</strong></p>
+            <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>
+            {{ link.content | strip_html | truncate: 250 }}
+            <p><i>Visit <a href="{{ site.url }}{{ site.baseurl }}/" target="_blank">WTF Just Happened Today?</a> for more news and headlines, brought to you by <a href="https://twitter.com/Matt_Kiser" target="_blank">Matt Kiser</a>. The <a href="https://whatthefuckjusthappenedtoday.com/podcasts/" target="_blank">WTFJHT Podcast</a> is narrated and produced by <a href="https://twitter.com/jsamditis" target="_blank">Joe Amditis</a>.</i></p>
+            ]]>
     </description>
     <content:encoded>
-        <![CDATA[{{ link.content }}]]>
+        <![CDATA[
+            <p><strong>{{ ep.date | date: "%A, %B %e, %Y" }}</strong></p>
+            <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>
+            {{ link.content }}
+            <p><i>Visit <a href="{{ site.url }}{{ site.baseurl }}/" target="_blank">WTF Just Happened Today?</a> for more news and headlines, brought to you by <a href="https://twitter.com/Matt_Kiser" target="_blank">Matt Kiser</a>. The <a href="https://whatthefuckjusthappenedtoday.com/podcasts/" target="_blank">WTFJHT Podcast</a> is narrated and produced by <a href="https://twitter.com/jsamditis" target="_blank">Joe Amditis</a>.</i></p>
+            ]]>
     </content:encoded>
 
     <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
@@ -73,8 +83,8 @@ layout:
     <media:content url="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" medium="image">
         <media:title type="html">{{ ep.title }}</media:title>
     </media:content>
-  </item>
     {% endfor %}
+  </item>
 {% endfor %}
 
 </channel>

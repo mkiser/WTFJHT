@@ -67,7 +67,7 @@ layout:
         <![CDATA[
             <p><strong>{{ ep.date | date: "%A, %B %e, %Y" }}</strong></p>
             <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>
-            {{ link.content }}
+            {{ link.content | truncate: 4000 }}
             <p><i>Visit <a href="{{ site.url }}{{ site.baseurl }}/" target="_blank">WTF Just Happened Today?</a> for more news and headlines, brought to you by <a href="https://twitter.com/Matt_Kiser" target="_blank">Matt Kiser</a>. The <a href="https://whatthefuckjusthappenedtoday.com/podcasts/" target="_blank">WTFJHT Podcast</a> is narrated and produced by <a href="https://twitter.com/jsamditis" target="_blank">Joe Amditis</a>.</i></p>
             ]]>
     </content:encoded>
@@ -75,7 +75,7 @@ layout:
     <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
 
     <itunes:subtitle>{{ link.content | strip_html | truncate: 250 | expand_urls: site.url }}</itunes:subtitle>
-    <itunes:summary><![CDATA[{{ link.content }}]]></itunes:summary>
+    <itunes:summary><![CDATA[{{ link.content | truncate: 4000 }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>

@@ -1,5 +1,5 @@
 ---
-title: 'Day 642: Cover up.'
+title: 'Day 642: Cover-up.'
 date: 2018-10-23 15:03:00 -07:00
 file: "/uploads/Day-642.mp3"
 post: Day 642

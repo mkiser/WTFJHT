@@ -1,6 +1,7 @@
 ---
 title: Day 642
 date: 2018-10-23 05:19:00 -07:00
+is_promoted: true
 ---
 
 1. **An explosive device was found in a mailbox outside a home of billionaire George Soros.** The device was discovered by an employee at Soro's home in Westchester County, New York. The bomb was disposed of by the bomb squad, which "proactively detonated" the device. The case has been turned over to the FBI. Soros was not home at the time the device was discovered. ([The Hill](https://thehill.com/blogs/blog-briefing-room/412674-explosive-device-found-at-george-soross-home) / [New York Times](https://www.nytimes.com/2018/10/22/nyregion/george-soros-explosive-device.html)) 

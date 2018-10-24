@@ -3,17 +3,18 @@ title: Day 643
 date: 2018-10-24 10:49:00 -07:00
 description: Despicable acts.
 image: "/uploads/643.jpg"
+todayInOneSentence: Packages containing "potential explosive devices" were sent to
+  Obama and Hillary Clinton; a similar device was sent to CNN; Trump called the packages
+  "despicable acts"; the Saudi crown prince called the killing of Jamal Khashoggi
+  a "heinous crime"; while Trump called it "a total fiasco"; and the S&P 500 and Dow
+  erased all of their gains for 2018.
 ---
 
 1/ **The Secret Service intercepted packages containing "potential explosive devices" addressed to Obama and Hillary Clinton**, similar to the one found at the home of George Soros on Monday. All three devices are of similar pipe-bomb-style construction. The Secret Service said "the packages were immediately identified during routine mail screening procedures as potential explosive devices and were appropriately handled as such." Contrary to reports, a suspicious package was not sent to the White House. ([New York Times](https://www.nytimes.com/2018/10/24/nyregion/clinton-obama-explosive-device.html) / [Washington Post](https://www.washingtonpost.com/nation/2018/10/24/bomb-sent-bill-hillary-clintons-home-new-york-city-suburb/) / [ABC News](https://abcnews.go.com/US/suspicious-package-found-clintons-home-north-york-city/story?id=58713254) / [NBC News](https://www.nbcnews.com/news/us-news/suspicious-package-found-near-new-york-home-bill-hillary-clinton-n923816) / [CNBC](https://www.cnbc.com/2018/10/24/pipe-bomb-addressed-to-the-white-house-is-intercepted-cnn.html) / [Associated Press](https://apnews.com/e0ce67492cd843659d09b56c93cfeb35))
 
-{% twitter https://twitter.com/SecretService/status/1055113750544633861 %}
-
 * **📌 The Re-up: [Day 642](https://whatthefuckjusthappenedtoday.com/2018/10/23/day-642/). An explosive device was found in a mailbox outside a home of billionaire George Soros** in Westchester County, New York. The bomb was "proactively detonated" by the bomb squad. The case has been turned over to the FBI. ([The Hill](https://thehill.com/blogs/blog-briefing-room/412674-explosive-device-found-at-george-soross-home) / [New York Times](https://www.nytimes.com/2018/10/22/nyregion/george-soros-explosive-device.html))
 
 2/ **A similar device was sent to CNN's headquarter in New York**, addressed to former CIA Director John Brennan. The package contained a white powder. Brennan doesn't work for CNN, but is a national security and intelligence analyst for NBC News and MSNBC. CNN's New York bureau in the Time Warner Center was evacuated. ([NBC News](https://www.nbcnews.com/news/us-news/cnn-s-new-york-office-receives-suspicious-package-similar-those-n923851) / [CNN](https://www.cnn.com/2018/10/24/politics/bill-clinton-hillary-clinton-chappaqua/index.html) / [Washington Post](https://www.washingtonpost.com/lifestyle/style/cnn-offices-in-new-york-evacuated-over-suspicious-package-scare/2018/10/24/ec73563c-d79b-11e8-aeb7-ddcad4a0a54e_story.html))
-
-{% twitter https://twitter.com/KFILE/status/1055102161661636608 %}
 
 * **New York City Mayor Bill de Blasio called the live explosive package sent to the Time Warner Center in New York City an "act of terror."** ([CNBC](https://www.cnbc.com/2018/10/24/new-york-city-mayor-bill-de-blasio.html))
 
@@ -23,11 +24,7 @@ image: "/uploads/643.jpg"
 
 3/ **The return address on the packages addressed to Soros, CNN, Obama, and the Clintons listed Rep Debbie Wasserman Schultz**, who currently serves as a representative for Florida's 23rd congressional district and is the former chairwoman of the Democratic National Committee. Wasserman Schultz's office was also evacuated after a suspicious package was discovered. It was misaddressed to Eric Holder and returned to Wasserman Schultz's office, because that was the return address on the package. ([CBS New York](https://newyork.cbslocal.com/2018/10/24/clintons-suspicious-package/) / [Miami Herald](https://www.miamiherald.com/latest-news/article220542845.html) / [CNN](https://www.cnn.com/politics/live-news/clintons-obama-suspicious-packages/h_b215a0b31750a9f48e8bcf3ef4ad884f))
 
-4/ **Trump and the White House condemned the "attempted violent attacks," calling them "despicable acts."** In a statement, Sarah Huckabee Sanders denounced the "terrorizing acts" against Obama, the Clintons and "other public figures." Pence tweeted that the "attempted attacks" are "cowardly" and "despicable." Trump retweeted Pence's statement, adding: "I agree wholeheartedly!" ([Politico](https://www.politico.com/story/2018/10/24/bomb-at-clintons-home-935374) / [Associated Press](https://apnews.com/5c93ac06309c4ce88e8cd5023f89feca) / [The Hill](https://thehill.com/homenews/administration/412935-trump-echoes-pence-on-suspicious-packages-dispicable) / [CNBC](https://www.cnbc.com/2018/10/24/feds-investigating-suspicious-package-near-clintons-new-york-home-nbc.html))
-
-{% twitter https://twitter.com/realDonaldTrump/status/1055127893112696832 %}
-
-{% twitter https://twitter.com/PressSec/status/1055118194141216768 %}
+4/ **Trump and the White House condemned the "attempted violent attacks," calling them "despicable acts."** He added that "threats of political violence of any kind have no place in the United States of America." In a statement, Sarah Huckabee Sanders denounced the "terrorizing acts" against Obama, the Clintons and "other public figures." Pence tweeted that the "attempted attacks" are "cowardly" and "despicable." Trump retweeted Pence's statement, adding: "I agree wholeheartedly!" ([Politico](https://www.politico.com/story/2018/10/24/bomb-at-clintons-home-935374) / [Associated Press](https://apnews.com/5c93ac06309c4ce88e8cd5023f89feca) / [The Hill](https://thehill.com/homenews/administration/412935-trump-echoes-pence-on-suspicious-packages-dispicable) / [CNBC](https://www.cnbc.com/2018/10/24/feds-investigating-suspicious-package-near-clintons-new-york-home-nbc.html))
 
 * **Pro-Trump groups called the bomb threats merely a "false flag" operation** and a convenient political stunt set up by Democrats two weeks before Election Day. ([Daily Beast](https://www.thedailybeast.com/pro-trump-media-insists-bomb-threats-against-clinton-obama-cnn-are-pure-bs-a-false-flag))
 

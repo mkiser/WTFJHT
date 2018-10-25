@@ -3,6 +3,12 @@ title: Day 644
 date: 2018-10-25 13:24:00 -07:00
 description: Boring.
 image: "/uploads/644.jpg"
+todayInOneSentence: Trump called a report that Chinese and Russian spies were eavesdropping
+  on his cell phone "boring"; at least 10 pipe bombs have been sent to high-profile
+  Democrats and critics of Trump; the president blamed the "Mainstream Media" and
+  "Fake News" for the anger in the U.S.; Saudi Arabia's public prosecutor claimed
+  that Jamal Khashoggi's murder was now "premeditated"; and text messages show that
+  Roger Stone tried to get a presidential pardon for Julian Assange.
 ---
 
 1/ **Trump dismissed a report that Chinese and Russian spies were eavesdropping on his cellphone conversations, calling the report "boring" and "soooo wrong!"** Trump's aides have repeatedly warned him that his calls from his personal iPhone are not secure and that Chinese and Russian spies are listening, but Trump refuses to give up his iPhone. U.S. officials said they have been concerned for months that Trump discusses sensitive information on an unsecured cellphone with informal advisers, including Sean Hannity of Fox News. "I only use Government Phones," Trump tweeted in response to the reports, "and have only one seldom used government cell phone." ([New York Times](https://www.nytimes.com/2018/10/25/us/politics/trump-cellphone-china-russia.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/u-s-officials-concerned-trump-discussing-sensitive-information-unsecured-cellphone-n924376))
@@ -15,6 +21,8 @@ image: "/uploads/644.jpg"
 
 * **China suggested that Trump exchange his iPhone for a cellphone made by Chinese manufacturer Huawei**, "if they are really concerned about security issues." ([Talking Points Memo](https://talkingpointsmemo.com/news/china-denies-nyt-trump-iphone-spying-report))
 
+* **Trump's tweet claiming that he only uses his government phones was sent from an iPhone**. Trump has two iPhones: one for Twitter and other basic web apps, and one for making phone calls. ([Yahoo News](https://finance.yahoo.com/news/trump-tweet-claiming-apos-only-181337023.html))
+
 2/ **At least 10 pipe bombs have been sent to high-profile Democrats and critics of Trump**: George Soros, Obama, Biden, Hillary Clinton, Eric Holder, John Brennan, Maxine Waters, and Robert De Niro. All of the 10 packages that have been discovered had the return address for Debbie Wasserman Schultz, a Democratic congresswoman from Florida. None of the packages exploded. ([Reuters](https://www.reuters.com/article/us-usa-packages/suspects-sought-in-sending-of-package-bombs-to-top-us-democrats-trump-critics-idUSKCN1MZ1CP) / [Washington Post](https://www.washingtonpost.com/nation/2018/10/25/mail-bomb-investigation-intensifies-suspicious-package-removed-robert-de-niros-building/) / [New York Times](https://www.nytimes.com/2018/10/25/nyregion/bomb-explosive-device.html))
 
 * **Two suspicious packages addressed to Joe Biden were intercepted at post offices in Delaware.** Law enforcement officials are trying to track down the package, which has been deemed suspicious because one of them was misaddressed and shipped to the return address, just like some of the other packages. ([CNN](https://www.cnn.com/2018/10/25/politics/bombs-suspicious-packages-what-we-know/index.html) / [The Hill](https://thehill.com/policy/national-security/413061-law-enforcement-looking-into-potentially-suspicious-package))
@@ -25,7 +33,7 @@ image: "/uploads/644.jpg"
 
 * **The explosive device sent to CNN's offices in New York included an ISIS flag meme that has been circulating in right-wing online circles since 2014.** The image features a black flag with the Arabic symbols replaced by the silhouettes of three women and an inscription in the middle that reads, "Get 'Er Done," which is comedian Larry the Cable Guy's catchphrase.  ([NBC News](https://www.nbcnews.com/news/us-news/explosive-device-sent-cnn-featured-parody-isis-flag-get-er-n924166))
 
-3/ **Trump blamed the "Mainstream Media" and "Fake News" for the anger and division thriving in the U.S. a day after CNN and Democrats were the targets of explosive devices**. "A very big part of the Anger we see today in our society is caused by the purposely false and inaccurate reporting of the Mainstream Media that I refer to as Fake News," Trump tweeted. "It has gotten so bad and hateful that it is beyond description. Mainstream Media must clean up its act, FAST!" ([New York Times](https://www.nytimes.com/2018/10/24/us/politics/trump-bomb-cnn-obama-clintons.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-doubles-down-on-blaming-media-as-suspicious-packages-continue-to-surface/2018/10/25/507aeec2-d848-11e8-a10f-b51546b10756_story.html) / [CNN](https://www.cnn.com/2018/10/25/politics/trump-blames-media-for-anger-after-attacks/index.html))
+3/ **Trump blamed the "Mainstream Media" and "Fake News" for the anger in the U.S. a day after CNN and Democrats were the targets of explosive devices**. "A very big part of the Anger we see today in our society is caused by the purposely false and inaccurate reporting of the Mainstream Media that I refer to as Fake News," Trump tweeted. "It has gotten so bad and hateful that it is beyond description. Mainstream Media must clean up its act, FAST!" ([New York Times](https://www.nytimes.com/2018/10/24/us/politics/trump-bomb-cnn-obama-clintons.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-doubles-down-on-blaming-media-as-suspicious-packages-continue-to-surface/2018/10/25/507aeec2-d848-11e8-a10f-b51546b10756_story.html) / [CNN](https://www.cnn.com/2018/10/25/politics/trump-blames-media-for-anger-after-attacks/index.html))
 
 * **Lou Dobbs: suspicious packages mailed to Democrats and CNN are "fake news."** He called them "fake bombs" in a tweet, which he later deleted. ([CNN](https://www.cnn.com/2018/10/25/media/lou-dobbs-fake-bombs/index.html))
 

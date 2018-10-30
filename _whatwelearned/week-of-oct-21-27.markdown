@@ -3,7 +3,7 @@ title: Week of Oct 21 – 27
 date: 2018-10-29 13:31:00 -07:00
 description: What We Learned in the Russia Probe
 image: "/uploads/russiaprobe.jpg"
-is_promoted: true
+is_promoted: false
 ---
 
 ## **Mueller Investigation**

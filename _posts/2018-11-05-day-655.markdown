@@ -3,6 +3,7 @@ title: Day 655
 date: 2018-11-05 13:35:00 -08:00
 description: Political stunt.
 image: "/uploads/655.jpg"
+todayInOneSentence: 'Vote or I''ll unsubscribe you from WTF Just Happened Today. '
 ---
 
 ## 🗳 Dept. of Midterms 2018.

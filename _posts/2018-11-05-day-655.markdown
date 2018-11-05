@@ -5,15 +5,18 @@ description: Political stunt.
 image: "/uploads/655.jpg"
 todayInOneSentence: Democrats are expected to take control of the House of Representatives
   but fall short in the Senate; national polls show that 55% of voters prefer Democratic
-  control of the House; some polls, however, show the Democratic edge shrinking; and
-  at least 31 million people have voted early nationwide.
+  control of the House; some polls, however, show the Democratic edge shrinking; at
+  least 31 million people have voted early nationwide; and U.S. intelligence officials
+  have seen no evidence of any attempts to tamper with the midterm election systems.
+---
+
+**Today in one sentence**: Democrats are expected to take control of the House of Representatives but fall short in the Senate; national polls show that 55% of voters prefer Democratic control of the House; some polls, however, show the Democratic edge shrinking; at least 31 million people have voted early nationwide; and U.S. intelligence officials have seen no evidence of any attempts to tamper with the midterm election systems.
+
 ---
 
 ### 🗳 Dept. of Midterms 2018.
 
 *With one day to go, I'll be keeping this space updated throughout the midterms with the latest polls and live blogs.*
-
-**Today in one sentence**: Democrats are expected to take control of the House of Representatives but fall short in the Senate; national polls show that 55% of voters prefer Democratic control of the House; some polls, however, show the Democratic edge shrinking; and at least 31 million people have voted early nationwide.
 
 1. **Forecasts**: [New York Times](https://www.nytimes.com/interactive/2018/upshot/elections-polls.html) / [Real Clear Politics](https://www.realclearpolitics.com/epolls/latest_polls/elections/) / Five Thirty Eight: [House](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/) / [Senate](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/)
 

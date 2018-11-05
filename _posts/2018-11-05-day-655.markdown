@@ -25,7 +25,7 @@ image: "/uploads/655.jpg"
 
 ---
 
-### The Latest.
+## The Latest.
 
 1. **The Georgia secretary of state and Republican candidate for governor accused Democrats of allegedly trying to hack the state's voter registration system**. Brian Kemp, who is in a tight race with Stacey Abrams, alleged that the state Democratic Party made a "failed attempt to hack the state's voter registration system" and announced that his office was opening an investigation. Kemp said his office also alerted the Department of Homeland Security and the FBI, but he offered no evidence to back up his allegation. Democrats called it a "political stunt" days before the election. ([New York Times](https://www.nytimes.com/2018/11/04/us/politics/georgia-elections-kemp-voters-hack.html) / [NBC News](https://www.nbcnews.com/politics/elections/kemp-charges-georgia-democrats-attempted-voter-hack-abrams-fires-back-n931011) / [Washington Post](https://www.washingtonpost.com/politics/2018/11/04/brian-kemps-office-orders-hacking-probe-georgia-democrats-eve-election-hes-competing/))
 

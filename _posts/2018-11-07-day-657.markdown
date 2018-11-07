@@ -1,0 +1,48 @@
+---
+title: Day 657
+date: 2018-11-07 09:23:00 -08:00
+description: Presidential harassment.
+image: "/uploads/657.jpg"
+---
+
+*⚠️ Updates in progress... ⚠️ Updates in progress... ⚠️ Updates in progress...*
+
+1/ **Democrats won back the House for the first time in eight years**, picking up at least 27 seats to give the party a check on Trump and the GOP's economic policy. "Tomorrow will be a new day in America," Nancy Pelosi said in a victory speech. "Today is more than about Democrats and Republicans. It's about restoring the Constitution's checks and balances to the Trump administration." Some key races are still too close to call as of Wednesday morning. ([Washington Post](https://www.washingtonpost.com/politics/midterm-elections-democrats-flip-house-as-gop-expands-senate-majority/2018/11/07/94d62430-e27d-11e8-8f5f-a55347f48762_story.html) / [New York Times](https://www.nytimes.com/2018/11/06/us/politics/midterm-elections-results.html) / [Politico](https://www.politico.com/story/2018/11/07/midterm-elections-2018-top-takeaways-970328) / [CNBC](https://www.cnbc.com/2018/11/06/midterm-election-results-democrats-and-republicans-fight-for-house-majority.html))
+
+* **Trump said he would take a "warlike posture" to any attempts by Democrats to investigate his administration**. "They can play that game, but we can play it better, because we have a thing called the United States Senate." ([Washington Post](https://www.washingtonpost.com/politics/trump-attempts-to-take-victory-lap-despite-republicans-losing-house/2018/11/07/8cec8226-e2a7-11e8-b759-3d88a5ce9e19_story.html))
+
+* **Trump described the midterm election as "great" for Republicans, but vowed to turn the tables on Democrats who investigate him and his administration**. "If the Democrats think they are going to waste Taxpayer Money investigating us at the House level, then we will likewise be forced to consider investigating them for all of the leaks of Classified Information, and much else, at the Senate level. Two can play that game!" Trump tweeted. Mitch McConnell cautioned Democrats against engaging in "presidential harassment." ([Washington Post](https://www.washingtonpost.com/politics/midterm-elections-democrats-flip-house-as-gop-expands-senate-majority/2018/11/07/94d62430-e27d-11e8-8f5f-a55347f48762_story.html))
+
+* {% twitter https://twitter.com/realDonaldTrump/status/1060155917059219461 %}
+
+2/ **Republicans increased their majority in the Senate**, building on their one-seat majority in the chamber by winning Democratic seats in Indiana, North Dakota and Missouri. ([New York Times](https://www.nytimes.com/2018/11/06/us/politics/midterm-elections-results.html))
+
+* **Ted Cruz narrowly defeated Beto O'Rourke**. With 99% of precincts reporting, Cruz had 50.9%, or 4,228,832 votes, and O'Rourke had 48.3%, or 4,015,082 votes. ([New York Times](https://www.nytimes.com/2018/11/06/us/ted-cruz-wins-texas-senate-race.html))
+
+* **The Florida Senate race between Democratic Sen. Bill Nelson and Republican Gov. Rick Scott is headed to a recount**. The two candidates are separated by fewer than 35,000 votes, with Scott holding the slim lead. ([Politico](https://www.politico.com/story/2018/11/07/florida-senate-race-recount-rick-scott-bill-nelson-971041))
+
+* **Montana Democratic Sen. Jon Tester is the apparent winner in his bid for re-election to a third term**. Tester voted no on Brett Kavanaugh's confirmation to the Supreme Court. ([CNBC](https://www.cnbc.com/2018/11/07/democrat-john-tester-is-apparent-winner-in-montana-senate-race-nbc-news.html))
+
+3/ **Democrats flipped at least 7 governorships**. The race remained too close to call in Georgia, where Democrat Stacey Abrams was running to become the first African American female governor. Democrats flipped the governorships in Wisconsin, Kansas, Maine, Michigan, Illinois, Nevada and New Mexico. ([Washington Post](https://www.washingtonpost.com/politics/democrats-expected-to-pick-up-governorships-but-many-races-are-too-close-to-call/2018/11/06/ed07bf48-dfa7-11e8-b3f0-62607289efee_story.html))
+
+* **Stacey Abrams, the Democratic candidate for Georgia governor, refused to concede the race and said she was prepared to face Brian Kemp in a runoff**. With 100% of precincts reporting, Kemp had 50.4%, or 1,971,884 votes, and Abrams has 48.7 percent, or 1,907,302 votes. Under Georgia law, if no candidate wins more than 50% of the vote, then the top two vote getters advance to a runoff election. Kemp, who oversees elections as secretary of state, has until Nov. 20 to officially certify the election. A candidate cannot officially request a recount until the certification. Abrams is seeking to become the first African-American woman elected governor in U.S. history. He campaign said they believed thousands of absentee and mail-in ballots are still coming in. ([NBC News](https://www.nbcnews.com/politics/elections/abrams-doesn-t-concede-says-georgia-governor-race-headed-runoff-n931561))
+
+4/ **At least 111 women were elected to office, including the first Native American and first Muslim women**. At least 96 women were elected – surpassing the current record of 84 – with 40 women of color headed to the House. Maine and South Dakota also elected their first female governors. The GOP elected several women, with Marsha Blackburn becoming Tennessee's first female senator. In New York, Democratic Socialist Alexandra Ocasio-Cortez became the youngest woman ever elected to Congress at age 29, followed shortly by Iowa Democrat Abby Finkenauer. ([Politico](https://www.politico.com/story/2018/11/07/women-congress-2018-midterm-election-results-970324) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-11-07/women-win-record-seats-in-u-s-house-races-amid-anger-over-trump) / [Axios](https://www.axios.com/2018-midterm-elections-women-elected-congress-ae6d0fa6-b534-41df-b11d-ff0be7a07f95.html))
+
+---
+
+## **🔥 Hot Takes and 📊 Exit Polls.**
+
+1. **Suburbs defect as Trump's base holds**. The divergent outcomes in the House and Senate exposed an ever-deepening gulf separating rural communities from America's cities and suburbs. ([New York Times](https://www.nytimes.com/2018/11/07/us/politics/election-news.html))
+
+2. **The 2018 midterm elections were a referendum on Trump**. Two-thirds of voters said the president was a factor in how they voted. ([Washington Post](https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2018/11/07/daily-202-10-midterm-takeaways/5be20c681b326b3929054634/))
+
+3. **Checks and balances are coming**. Trump will face new levels of scrutiny from Congress, but despite Democratic gains he looks in a strong position for 2020. ([The Guardian](https://www.theguardian.com/us-news/2018/nov/07/lesson-midterms-what-next-trump-democrats-house))
+
+4. **Health care trumps the economy**. 41% of voters cited health care as their most important issue, while 23% named immigration, and 21% named the economy – the only time in at least a decade that it hasn't topped the list. ([NBC News](https://www.nbcnews.com/politics/elections/five-takeaways-midterm-elections-n933336))
+
+5. **Historically high turnout and young voter surge for Democrats**. 60% of white men voted for the Republican party while white women were split between the two parties. ([The Guardian](https://www.theguardian.com/us-news/2018/nov/07/exit-polls-high-turnout-young-voter-surge-democrats))
+
+6. **Trump a major factor in 2018 midterm election voting**. 44% of midterm voters approve of Trump's job performance. ([CBS News](https://www.cbsnews.com/news/exit-polls-show-trump-a-major-factor-in-2018-midterm-election-voting/))
+
+7. **41% approve of Robert Mueller's handling of the Russian investigation** into interference in the 2016 election. 46% disapprove. 41% think the investigation into Russian interference in the 2016 election is mostly while 54% think it's politically motivated. ([NBC News](https://www.nbcnews.com/politics/2018-election/midterms))

@@ -15,11 +15,28 @@ The goal is to capture the most important news coming out of the White House in 
 
 What was suppose to be a personal project – a challenge to log the daily shock and awe of the administration's first 100 days – <a href="https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/">has become my full-time job.</a> See? Trump *is* creating jobs.
 
-WTFJHT publishes Monday-Friday, except on market holidays.
+WTF Just Happened Today publishes Monday-Friday, except for federal and market holidays
+
+**2018**\
+Veterans Day – November 12\
+Thanksgiving Day – November 22\
+Christmas Day – December 25
+
+**2019**\
+New Year's Day – January 1\
+Martin Luther King, Jr. Day – January 21\
+George Washington’s Birthday – February 18\
+Good Friday – April 19\
+Memorial Day – May 27\
+Independence Day – July 4\
+Labor Day – September 2\
+Columbus Day – October 14\
+Veterans Day – November 11\
+Thanksgiving Day – November 28\
+Christmas Day – December 25
 
 **Editorial Policy:**
 This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. Journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. WTF Just Happened Today is a reflection of these ethics, but also applies the following standards and practices:
-
 
 * WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary source, and moving on. Bias is the byproduct of being a human making decisions. Sorry.
 

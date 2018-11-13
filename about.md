@@ -17,13 +17,13 @@ What was suppose to be a personal project – a challenge to log the daily shock
 
 WTF Just Happened Today publishes Monday-Friday, except for federal and market holidays.
 
-<p>**2018**
+<p><strong>2018</strong>
 <br>Veterans Day – November 12
 <br>Thanksgiving Day – November 22
 <br>Christmas Day – December 25
 </p>
 
-<p>**2019**<br>
+<p><strong>2019</strong><br>
 New Year's Day – January 1<br>
 Martin Luther King, Jr. Day – January 21<br>
 George Washington’s Birthday – February 18<br>

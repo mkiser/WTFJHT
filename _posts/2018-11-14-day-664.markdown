@@ -1,6 +1,7 @@
 ---
 title: Day 664
 date: 2018-11-14 09:32:00 -08:00
+description: Discretion.
 image: "/uploads/664.jpg"
 ---
 

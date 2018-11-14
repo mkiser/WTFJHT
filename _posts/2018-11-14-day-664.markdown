@@ -3,6 +3,12 @@ title: Day 664
 date: 2018-11-14 09:32:00 -08:00
 description: Discretion.
 image: "/uploads/664.jpg"
+todayInOneSentence: The White House argued that Trump has "broad discretion" to ban
+  reporters from the White House; the Justice Department said Matthew Whitaker's appointment
+  as acting attorney general is constitutional; Jeff Flake threatened to vote against
+  Trump's judicial nominees if legislation to protect Mueller does not receive a Senate
+  floor vote; and Mueller's office is exploring whether Roger Stone tried to intimidate
+  a witness.
 ---
 
 1/ **The White House argued that Trump has "broad discretion to regulate access to the White House for journalists"** in response to a lawsuit by CNN over the suspension of Jim Acosta's press pass. The lawsuit alleges that the ban violates CNN and Acosta's First and Fifth Amendment rights and they're asking for a temporary restraining order and a preliminary injunction that would restore his access right away. Almost every major news organizations has sided with CNN. ([CNN](https://www.cnn.com/2018/11/14/media/trump-response-cnn-lawsuit/index.html))

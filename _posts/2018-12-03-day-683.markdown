@@ -2,7 +2,7 @@
 title: Day 683
 date: 2018-12-03 08:45:00 -08:00
 description: Compromised.
-image: "/uploads/681.jpg"
+image: "/uploads/683.jpg"
 todayInOneSentence: Trump called for a "full and complete" sentence for Michael Cohen
   while praising Roger Stone for not cooperating with Robert Mueller; Kellyanne Conway's
   husband accused Trump of witness tampering; and the top Democrat on the Senate Intelligence

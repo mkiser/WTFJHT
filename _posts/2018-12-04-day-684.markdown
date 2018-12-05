@@ -2,7 +2,7 @@
 title: Day 684
 date: 2018-12-04 10:56:00 -08:00
 description: Loose ends.
-image: "/uploads/682.jpg"
+image: "/uploads/684.jpg"
 todayInOneSentence: The National Republican Congressional Committee suffered a major
   hack during the 2018 election; senators accused the Saudi crown prince of complicity
   in the murder of Jamal Khashoggi; Mueller's prosecutors are "tying up loose ends"

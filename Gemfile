@@ -12,7 +12,7 @@ gem 'jekyll-include-cache'
 gem 'jekyll-onebox'
 
 group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.0'
+  # gem 'jekyll-algolia', '~> 1.0'
   gem 'jekyll_pages_api'
   # gem "jekyll-crosspost-to-medium"
 end

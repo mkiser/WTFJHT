@@ -262,6 +262,7 @@ plugins:
 - jekyll-archives
 - jekyll-include-cache
 - jekyll-onebox
+- jekyll-algolia
 onebox:
   whitelist:
   - nbcnews.com

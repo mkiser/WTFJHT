@@ -263,6 +263,7 @@ plugins:
 - jekyll-include-cache
 - jekyll-onebox
 - jekyll-algolia
+# - hash-joiner
 onebox:
   whitelist:
   - nbcnews.com
@@ -290,3 +291,6 @@ podcast_subtitle:
 podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
   License.
 cloudfront_url: https://d3ur8zm5qs6awd.cloudfront.net
+# jekyll_get:
+#   data: topics
+#   json: 'https://talk.whatthefuckjusthappenedtoday.com/posts.json'

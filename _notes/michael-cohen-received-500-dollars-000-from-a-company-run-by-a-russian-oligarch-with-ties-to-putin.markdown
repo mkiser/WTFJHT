@@ -11,7 +11,6 @@ is_promoted: false
 
 > **Stormy Daniels's attorney Michael Avenatti said Michael Cohen received $500,000 following the 2016 election from a company run by a Russian oligarch with ties to Putin**.
 
-{% onebox http://thehill.com/homenews/administration/386802-stormy-daniels-lawyer-cohen-may-have-used-money-from-putin-tied %}
 
 ---
 

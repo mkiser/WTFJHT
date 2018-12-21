@@ -9,7 +9,7 @@
 			localStorage.setItem("countOfFucks", 1); 
 		};
 		console.log(localStorage.countOfFucks);
-		$.getJSON("/api/v1/posts.json", function(data) {
+		$.getJSON("/api/v1/2018-posts.json", function(data) {
 			console.log("[posts.json loaded from API]");
 			var i = parseInt(Math.random() * data.allPosts.length);
 			console.log(i)

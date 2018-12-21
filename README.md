@@ -1,3 +1,5 @@
+[![Publish Status](https://travis-ci.org/mkiser/WTFJHT.svg?branch=master)](https://travis-ci.org/mkiser/WTFJHT)
+
 # What The Fuck Just Happened Today?
 
 <p class="lead"><a href="https://whatthefuckjusthappenedtoday.com/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>

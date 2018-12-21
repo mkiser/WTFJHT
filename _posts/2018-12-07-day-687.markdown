@@ -1,0 +1,77 @@
+---
+title: Day 687
+date: 2018-12-07 08:56:00 -08:00
+description: Undisciplined.
+image: "/uploads/687.jpg"
+todayInOneSentence: Mueller's office is expected to reveal details about Michael Cohen
+  and Paul Manafort today; Trump kicked off the day by attacking the Mueller investigation
+  in a series of angry, error-laden tweets; Tillerson called Trump "undisciplined";
+  Trump claimed that his lawyers are preparing a "major Counter Report" to rebut Mueller's
+  findings, which contradicts Rudy Giuliani's statements; and CNN received a bomb
+  threat and had to be evacuated as Trump attacked the media on Twitter as "the enemy
+  of the people."
+---
+
+1/ **Paul Manafort told "multiple," "discernible lies" to the FBI and the special counsel's office concerning five different matters after agreeing to cooperate with prosecutors**. Federal prosecutors accused Manafort of lying about his "contact with administration officials" and his interactions with Konstantin Kilimnik, a Russian tied to Moscow's intelligence services. Manafort met with Kilimnik twice during the campaign. Robert Mueller's team said Manafort made multiple false statements that were "not instances of mere memory lapses" over the course of 12 meetings with the FBI and the special counsel after signing a plea agreement in September. ([NBC News](https://www.nbcnews.com/politics/politics-news/paul-manafort-lied-mueller-about-contacts-trump-administration-n945181) / [New York Times](https://www.nytimes.com/2018/12/07/us/politics/manafort-special-counsel-lies.html) / [The Guardian](https://www.theguardian.com/us-news/2018/dec/07/paul-manafort-mueller-special-counsel-filing) / [Washington Post](https://www.washingtonpost.com/politics/mueller-says-manafort-told-discernible-lies-including-about-contacts-with-employee-alleged-to-have-russian-intelligence-ties/2018/12/07/3c9c6172-f99c-11e8-863c-9e2f864d47e7_story.html) / [CNN](https://www.cnn.com/2018/12/07/politics/paul-manafort-robert-mueller-donald-trump/index.html))
+
+* **READ**: Mueller's filing on Manafort ([CNN](https://www.cnn.com/2018/12/07/politics/mueller-manafort-filing/index.html))
+
+2/ **Federal Prosecuters with the Southern District of New York said that while Michael Cohen gave federal investigators "relevant and useful" information, he still deserves a "substantial" prison term of about four years for his "extensive" criminal conduct**. Prosecutors said Cohen "repeatedly used his power and influence for deceptive ends" and "repeatedly declined to provide full information about the scope of any additional criminal conduct in which he may have engaged or had knowledge." Mueller also revealed that Cohen told them that a well-connected Russian national offered Cohen "political synergy" with the Trump campaign in November 2015. The person claimed to be a "trusted person" in the Russian Federation offering the campaign "synergy on a government level." Federal prosecutors also implicated Trump in the illegal payments that violated campaign finance laws to Stormy Daniels and Karen McDougal, saying Cohen "acted in coordination and at the direction of Individual-1," who we know as the person currently serving as president of the United States. ([Washington Post](https://www.washingtonpost.com/world/national-security/federal-prosecutors-recommend-substantial-prison-term-for-former-trump-lawyer-michael-cohen/2018/12/07/e144f248-f7f3-11e8-8c9a-860ce2a8148f_story.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/prosecutors-recommend-substantial-term-imprisonment-michael-cohen-n945191) / [New York Times](https://www.nytimes.com/2018/12/07/nyregion/michael-cohen-sentence.html) / [The Guardian](https://www.theguardian.com/us-news/2018/dec/07/michael-cohen-trump-former-fixer-prison-time) / [ABC News](https://abcnews.go.com/Politics/feds-recommend-substantial-term-imprisonment-michael-cohen-trumps/story?id=59677788) / [CNN](https://www.cnn.com/2018/12/07/politics/michael-cohen-robert-mueller-donald-trump/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-12-07/trump-ex-lawyer-cohen-should-get-prison-time-u-s-tells-judge))
+
+* **READ**: Sentencing memorandums for Cohen. ([CNN](https://www.cnn.com/2018/12/07/politics/cohen-sentencing-memos/index.html))
+
+* **5 takeaways from the Cohen and Manafort filings**. ([Washington Post](https://www.washingtonpost.com/politics/2018/12/07/takeaways-michael-cohen-sentencing-filings/))
+
+* **Mueller's indictments so far**: At least 33 people and three companies have been charged so far as a result of the special counsel’s investigation into 2016 election tampering. ([Politico](https://www.politico.com/interactives/2018/interactive_mueller-indictments-russia-cohen-manafort/))
+
+* **A political consultant is challenging federal law barring foreign involvement in U.S. elections**, saying the provision is unconstitutional because Congress can't regulate the role played by non-citizens in state and local elections. Legal scholars say the appeal represents a serious challenge to the statute, which could undermine the law at center of the Mueller probe. ([Politico](https://www.politico.com/story/2018/12/08/the-legal-battle-that-could-undermine-law-at-center-of-mueller-probe-1052217))
+
+3/ **Mueller cited Trump's time in the White House as relevant to the investigation into Russia's interference in the 2016 election**, saying Cohen provided valuable information "concerning his contacts with persons connected to the White House during the 2017–2018 time period." Following Mueller's memos, Trump inexplicably tweeted: "Totally clears the President. Thank you!" While Trump did not explain his comment, federal prosecutors did say in the court filing that Cohen committed campaign finance crimes "in coordination with and at the direction of" Trump. \[See item #2\] ([NBC News](https://www.nbcnews.com/news/us-news/court-filings-present-trump-key-figure-multiple-federal-investigations-n945521))
+
+{% twitter https://twitter.com/realDonaldTrump/status/1071177621445230596 %}
+
+4/ **Hours before Mueller filed his memos, Trump kicked off the day by attacking the investigation in a series of angry, error-laden tweets** alleging that Mueller is biased, full of "Conflicts of Interest," and is best friends with "Leakin' Lyin' James Comey." The eight-tweet tirade did not include any supporting evidence. ([NBC News](https://www.nbcnews.com/politics/white-house/trump-goes-tweetstorm-new-mueller-reports-n945151) / [Daily Beast](https://www.thedailybeast.com/trump-attacks-mueller-team-conflicts-of-interest-as-manafort-cohen-filings-loom) / [The Guardian](https://www.theguardian.com/us-news/2018/dec/07/mueller-filings-light-trump-russia-collusion-manafort-cohen))
+
+* **Rex Tillerson: Trump is "undisciplined," "doesn't read briefing reports," and repeatedly tries to do illegal things**. "So often, the president would say, 'Here's what I want to do, and here's how I want to do it,'" Tillerson said, "and I would have to say to him, 'Mr. President, I understand what you want to do, but you can't do it that way. It violates the law.'" Trump responded by calling Tillerson "dumb as a rock" and "lazy as hell." Tillerson previously called Trump a "moron." ([Washington Post](https://www.washingtonpost.com/politics/2018/12/07/rex-tillerson-trump-undisciplined-doesnt-like-read-tries-do-illegal-things/) / [NBC News](https://www.nbcnews.com/politics/politics-news/tillerson-says-he-often-had-tell-trump-his-directive-violates-n945176) / [Politico](https://www.politico.com/story/2018/12/07/trump-tillerson-dumb-lazy-1051485))
+
+5/ **Trump also claimed that his lawyers are preparing a "major Counter Report" to rebut Mueller's findings** in the investigation into possible coordination between Russia and Trump’s 2016 campaign. According to Trump, his lawyers have already completed 87 pages, adding, "obviously cannot complete until we the see the final Witch Hunt report." Trump's statement contradicts Rudy Giuliani, who said he hasn't had time to consider drafting a response plan, let alone work on a "counter report." Giuliani added that he spent the summer answering Mueller's questions, describing the process as "a nightmare" that took "about three weeks to do what would normally take two days." ([Washington Post](https://www.washingtonpost.com/politics/trump-unleashes-fresh-tirade-against-mueller-ahead-of-key-court-filings-expected-friday/2018/12/07/4ba2d57c-fa12-11e8-863c-9e2f864d47e7_story.html) / [The Atlantic](https://www.theatlantic.com/politics/archive/2018/12/trump-white-house-has-no-plan-counter-mueller-report/577417/))
+
+6/ **CNN received a bomb threat and had to be evacuated as Trump attacked the media on Twitter as "the enemy of the people."** Trump's all-caps "FAKE NEWS - THE ENEMY OF THE PEOPLE!" tweet was sent at 10:07 pm. A short time later, Don Lemon abruptly went to commercial break as CNN's New York studio was evacuated because of a bomb threat. The New York Police Department said the threat was not substantiated. Trump appears to be responding to a [report](https://www.theatlantic.com/politics/archive/2018/12/trump-white-house-has-no-plan-counter-mueller-report/577417/) that the White House does not have a plan for how to respond to the Mueller report. ([Vox](https://www.vox.com/2018/12/7/18130370/cnn-bomb-threat-trump-tweets-fake-news) / [CNN](https://www.cnn.com/2018/12/06/us/cnn-new-york-bomb-threat-evacuation/index.html))
+
+7/ **John Kelly is expected to resign immediately as chief of staff in the coming days.** Kelly and Trump have reached an impasse and neither sees the situation as tenable as the two have also stopped speaking entirely in recent days. Nick Ayers, who currently serves as Pence's chief of staff, is seen as a leading candidate to replace Kelly. ([CNN](https://www.cnn.com/2018/12/07/politics/john-kelly-chief-of-staff-donald-trump/index.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-kelly-idUSKBN1O61DV) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-12-07/john-kelly-s-white-house-exit-seen-as-certain-ayers-may-get-job) / [Washington Post](https://www.washingtonpost.com/politics/trump-announces-changes-to-his-cabinet-white-house-chief-of-staff-may-be-gone-soon/2018/12/07/fc64830a-fa1d-11e8-863c-9e2f864d47e7_story.html) / [Politico](https://www.politico.com/story/2018/12/07/john-kelly-resign-white-house-1049705))
+
+* **Mueller's team interviewed Kelly in recent months about potential obstruction of justice**. The questions centered on Trump's attempt to fire Mueller in June 2017. ([CNN](https://www.cnn.com/2018/12/07/politics/robert-mueller-john-kelly-obstruction-investigation/index.html))
+
+poll/ **71% of Republicans believe Mueller's investigation is a "witch hunt,"** while 82% of Democrats and 55% of independents see the investigation as "fair." Overall, 54% of Americans believe the Mueller's investigation into Russian interference in the 2016 election and possible collusion with the Trump campaign is fair. ([NPR](https://www.npr.org/2018/12/07/674315848/poll-republicans-are-only-group-that-mostly-sees-mueller-probe-as-a-witch-hunt))
+
+---
+
+## Notables.
+
+1. **George Papadopoulos was released from prison after serving 12 whole days for lying to investigators** about his contact with individuals tied to Russia during the 2016 campaign. Papadopoulos will have 12 months of supervised release, serve 200 hours of community service, and pay a $9,500 fine. ([CNN](https://www.cnn.com/2018/12/07/politics/george-papadopoulos-prison/index.html))
+
+2. **James Comey met behind closed doors with the House Judiciary and Oversight committees**. Lawmakers are expected to question Comey on a range of topics, including his memos about interactions with Trump, the details of his firing, the origins of the FBI's Russia probe, and whether bias contributed to the decisions to focus on Trump and to conduct surveillance on Carter Page. ([Washington Post](https://www.washingtonpost.com/powerpost/former-fbi-director-comey-to-testify-in-house-gop-probe/2018/12/06/8c1049f6-f9b2-11e8-8d64-4e79db33382f_story.html))
+
+3. **Trump named William Barr as his next attorney general**. If confirmed by the Senate, Barr will take over from Matthew Whitaker, who has served in an acting capacity since Jeff Sessions was forced out. ([The Guardian](https://www.theguardian.com/us-news/2018/dec/07/donald-trump-nominates-william-barr-attorney-general) / [New York Times](https://www.nytimes.com/2018/12/07/us/politics/trump-barr-kelly.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/trump-confirms-he-will-pick-william-barr-as-his-next-attorney-general/2018/12/07/6e8d28ba-fa2d-11e8-863c-9e2f864d47e7_story.html))
+
+4. **Trump named Army Gen. Mark Milley as his nominee to be the next chairman of the Joint Chiefs of Staff**. Milley will replace current chairman Gen. Joseph Dunford, who still almost 10 months left in his term. ([Politico](https://www.politico.com/story/2018/12/08/trump-names-army-chief-as-next-joint-chiefs-chairman-1052223))
+
+5. **The Justice Department hasn't filed required paperwork stating when Jeff Sessions left office**. Federal law requires the vacancy and any acting appointment to be reported "immediately" to the Government Accountability Office. This reporting is important because Matthew Whitaker, acting attorney general, can only serve for 210 days. ([BuzzFeed News](https://www.buzzfeednews.com/article/chrisgeidner/justice-department-sessions-whitaker-gao))
+
+6. **Trump nominated former Fox News anchor Heather Nauert as the next ambassador to the United Nations**. Nauert currently serves as the State Department spokeswoman. Her post as UN ambassador will be downgraded from its current cabinet-level status. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-12-07/trump-says-heather-nauert-will-replace-haley-as-un-ambassador) / [New York Times](https://www.nytimes.com/2018/12/06/us/politics/heather-nauert-united-nations.html) / [The Guardian](https://www.theguardian.com/us-news/2018/dec/06/heather-nauert-un-ambassador-pick-trump))
+
+7. **The Trump administration finalized a rollback of school lunch regulations**, relaxing restrictions on products allowed. The changes will impact 99,000 schools and institutions that feed 30 million children every year. ([ABC News](https://abcnews.go.com/Politics/trump-administration-finalizes-rollback-school-lunch-regulations-championed/story?id=59661517))
+
+---
+
+## 🔥 Hot takes.
+
+*Caution: Opinions and analysis ahead. Proceed at your own risk.*
+
+{% onebox https://www.thedailybeast.com/mueller-is-telling-us-hes-got-trump-on-collusion %}
+
+{% onebox https://www.washingtonpost.com/politics/2018/12/07/government-implicates-trump-trump-campaign-federal-campaign-finance-law-violations/ %}
+
+{% onebox https://www.theatlantic.com/ideas/archive/2018/12/mueller-briefs-bad-news-trump-manafort-and-cohen/577681/ %}
+
+{% onebox https://www.thedailybeast.com/mueller-implicates-trump-administration-officials-with-new-filings-against-manafort-and-cohen %}

@@ -4,7 +4,7 @@
     margin: 20px auto 0 auto;
     padding: 1rem;
     max-width: 40rem;
-">Shutdown Watch: <br><span id="doomsday"></span></h3>
+">Your Government Has Been Closed For: <br><span id="doomsday"></span></h3>
 <hr>
 
 <script>
@@ -12,7 +12,7 @@
 	var x=setInterval(function(){
 		var now=(new Date).getTime();
 		// now-deadline = count up // deadline-now = count down 
-		var distance=deadline-now;
+		var distance=now-deadline;
 		var days=Math.floor(distance/(1000*60*60*24));
 		var hours=Math.floor(distance%(1000*60*60*24)/(1000*60*60));
 		var minutes=Math.floor(distance%(1000*60*60)/(1000*60));

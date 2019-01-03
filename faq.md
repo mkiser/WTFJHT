@@ -41,7 +41,7 @@ A huge issue with sending newsletters is that it's easy to mess up the formattin
 The [WTF Member Forum](https://talk.whatthefuckjusthappenedtoday.com/) is a community that exists 24/7/365 to discuss the news, coordinate actions, share perspectives, and connect with likeminded people. It's a [Discourse](http://www.discourse.org/) community hub, which is amazing, free, and open sourced. It needs to be hosted somewhere, however. The provider of choice is [Digital Ocean](https://www.digitalocean.com). *Monthly Cost:* \~$20
 
 **NewsWhip Spike:**
-I recently started using [Spike by NewsWhip](https://www.newswhip.com/newswhip-spike/) to help me more quickly source the daily news. Their tool is incredible, but very expensive. They belive in the WTF mission and cut me a deal for access. *Monthly Cost:* $100
+I recently started using [Spike by NewsWhip](https://www.newswhip.com/newswhip-spike/) to help me more quickly source the daily news. Their tool is incredible, but very expensive. They believe in the WTF mission and cut me a deal for access. *Monthly Cost:* $100
 
 **Python Anywhere:**
 I built a news aggregator called [Current Status](https://currentstatus.io/) to help me source the top political news from across the web. I host it on Python Anywhere. *Monthly Cost:* $20

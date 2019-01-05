@@ -92,7 +92,7 @@ A VPN stands for Virtual Private Network and is a way of using the internet in a
 
 * [Have I Been Pwned?](https://haveibeenpwned.com/){:target="_blank"}. Check if you have an account that has been compromised in a data breach and sign up for notifications for future data beaches your accounts have been involved in.
 * [How Secure Is My Password?](https://howsecureismypassword.net/){:target="_blank"}. Test your current passwords to make sure they are strong and see how long it would take for a computer to crack your password.
-* [Surveillence Self-Defense](https://ssd.eff.org/en){:target="_blank"}. This site from the Electronic Frontier Foundation takes a much deeper dive into personal Internet privacy than this guide. It includes guides on choosing the right tools for your needs, choosing passwords, and developing good habits online.
+* [Surveillance Self-Defense](https://ssd.eff.org/en){:target="_blank"}. This site from the Electronic Frontier Foundation takes a much deeper dive into personal Internet privacy than this guide. It includes guides on choosing the right tools for your needs, choosing passwords, and developing good habits online.
 
 ## Summary
 

@@ -1,7 +1,7 @@
 /**
  * MARQUEE 3000 MARQUEE 3000 MARQUEE 3000 MARQUEE 3000 MARQUEE 3000
  * http://github.com/ezekielaquino/marquee3000
- * Marquees for the new millenium v1.0
+ * Marquees for the new millennium v1.0
  * MIT License
  */
 

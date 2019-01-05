@@ -35,7 +35,7 @@ $popover-tooltip-size:                  1.3em !default;                         
 $popover-scroll-indicator-width:        0.625em !default;                        // The width of the scroll indicator
 $popover-scroll-indicator-aspect-ratio: (15/12) !default;                        // The ratio of the height over the width of the scroll indicator
 $popover-scroll-indicator-opacity:      0.1 !default;                            // The active opacity of scroll indicators
-$popover-initial-transform-state:       scale(0.1) translateZ(0) !default;       // The inital transform state for the popover
+$popover-initial-transform-state:       scale(0.1) translateZ(0) !default;       // The initial transform state for the popover
 $popover-active-transform-state:        scale(1) translateZ(0) !default;         // The transform state for the popover once it is fully activated
 
 // OPTIONAL ELEMENTS

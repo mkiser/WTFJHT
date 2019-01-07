@@ -2,7 +2,7 @@
 title: Day 718
 date: 2019-01-07 13:50:00 -08:00
 description: 'Prime-time. '
-image: " /uploads/718.jpg"
+image: "/uploads/718a.jpg"
 todayInOneSentence: The partial government shutdown continued into its 17th day as
   the ability of the IRS to issue tax refunds and the USDA to issue SNAP benefits
   remains in question; Trump wants even more money for the wall than he did a few

@@ -1,7 +1,7 @@
 ---
 title: Day 721
 date: 2019-01-10 14:26:00 -08:00
-description: Political stunts.
+description: A credible account.
 image: "/uploads/721.jpg"
 todayInOneSentence: Mitch McConnell blocked two bills to re-open the government; the
   Pentagon is preparing to build the wall as Trump continues to threaten a national-emergency

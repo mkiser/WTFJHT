@@ -3,6 +3,11 @@ title: Day 725
 date: 2019-01-14 08:51:00 -08:00
 description: Big fat hoax.
 image: "/uploads/725.jpg"
+todayInOneSentence: The FBI opened a counterintelligence investigation into whether
+  Trump had been working on behalf of Russia in May 2017; Trump concealed details
+  about his conversations with Putin from administration officials; Trump wouldn't
+  directly answer if he was a Russian agent; and Trump rejected Lindsey Graham's proposal
+  to reopen the government as the shutdown entered its 24th day.
 ---
 
 1/ **The FBI opened a counterintelligence investigation into whether Trump had been working on behalf of Russia after he fired Comey in May 2017**. Law enforcement officials became concerned that if Trump had fired Comey to stop the Russia investigation, his behavior would have constituted a threat to national security. Counterintelligence agents were also investigating why Trump was acting in ways that seemed to benefit Russia. No evidence has publicly emerged – yet – that Trump was secretly taking direction from Russian government officials. Sarah Huckabee Sanders called the report "absurd" and claimed that, compared to Obama, "Trump has actually been tough on Russia." ([New York Times](https://www.nytimes.com/2019/01/11/us/politics/fbi-trump-russia-inquiry.html) / [CNN](https://www.cnn.com/2019/01/11/politics/nyt-russia-trump-investigation/index.html))
@@ -34,6 +39,8 @@ image: "/uploads/725.jpg"
 poll/ **53% of Americans blame Trump and the Republicans for the shutdown**. 42% say they support a wall – up from 34% last January – while 54% oppose the idea – down from 63% a year ago. ([Washington Post](https://www.washingtonpost.com/politics/americans-blame-trump-and-gop-much-more-than-democrats-for-shutdown-post-abc-poll-finds/2019/01/12/9c89aff2-16a9-11e9-90a8-136fa44b80ba_story.html) / [ABC News](https://abcnews.go.com/Politics/trump-gop-blamed-shutdown-crisis-fewer-oppose-wall/story?id=60337670))
 
 * **Six surveys taken since the partial government closure began tell a consistent story that more than half of Americans believe Trump and his party are responsible for the shutdown**. ([Bloomberg](https://www.bloomberg.com/news/articles/2019-01-14/trump-took-responsibility-for-shutdown-and-voters-give-it-to-him))
+
+poll/ **69% of Americans do not want Trump to designate the border a national emergency site**. 31% of respondents said they wanted such a declaration. ([The Hill](https://thehill.com/hilltv/what-americas-thinking/425220-president-trumps-base-is-the-only-group-that-wants-him-to))
 
 poll/ **37% of Americans approve of the job Trump is doing as president while 57% disapprove**. 52% say the current situation at the border between the U.S. and Mexico is not a crisis. ([CNN](https://www.cnn.com/2019/01/13/politics/cnn-poll-shutdown-trump/index.html))
 

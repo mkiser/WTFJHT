@@ -4,16 +4,19 @@
     margin: 20px auto 0 auto;
     padding: 1rem;
     max-width: 40rem;
-">Your Government Has Been Shutdown For: <br><span id="doomsday"></span></h3>
+	   ">
+	<p>The government shutdown lasted 35 days.</p>
+	<p>...and will shut shutdown again in: <br><span id="doomsday"></span></p>
+</h3>
 <!-- <div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/Hj7mksbFWIOdO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> -->
 <hr>
 
 <script>
-	var deadline=(new Date("Dec 21, 2018 23:59:59 -0500")).getTime();
+	var deadline=(new Date("Feb 14, 2019 23:59:59 -0500")).getTime();
 	var x=setInterval(function(){
 		var now=(new Date).getTime();
 		// now-deadline = count up // deadline-now = count down 
-		var distance=now-deadline;
+		var distance=deadline-now;
 		var days=Math.floor(distance/(1000*60*60*24));
 		var hours=Math.floor(distance%(1000*60*60*24)/(1000*60*60));
 		var minutes=Math.floor(distance%(1000*60*60)/(1000*60));

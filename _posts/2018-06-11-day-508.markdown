@@ -79,21 +79,3 @@ poll/ **26% of voters think Trump will demand too much to secure a deal with Nor
 11. **Trump routinely rips up papers that need to be preserved.** He does it so much that some aides are specifically tasked with taping the papers back together. ([Politico](https://www.politico.com/story/2018/06/10/trump-papers-filing-system-635164) / [New York Post](https://nypost.com/2018/06/10/trump-routinely-rips-up-papers-that-need-to-be-preserved/))
 
 12. **Several West Wing aides, including John Kelly, are said to be eyeing the exits** as Trump has grown more emboldened to act on instinct alone. Kelly told visiting senators last week that the White House was "a miserable place to work." ([New York Times](https://www.nytimes.com/2018/06/10/us/politics/trump-turnover.html))
-
----
-
-## 👀 Watching.
-
-*A list of stories I'm keeping an eye on.*
-
-{% onebox https://www.nytimes.com/2018/06/10/us/politics/trump-trudeau-summit-g7-north-korea.html %}
-
-{% onebox https://www.cnn.com/2018/06/09/politics/trump-g7-tariffs-trade/index.html %}
-
-{% onebox https://www.nytimes.com/2018/06/11/world/asia/trump-kim-summit.html %}
-
-{% onebox https://www.nytimes.com/2018/06/09/climate/trump-administration-science.html %}
-
-{% onebox https://www.washingtonpost.com/news/politics/wp/2018/06/10/mothers-could-not-stop-crying-officials-blast-trump-policy-after-visiting-detained-immigrants/ %}
-
-💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

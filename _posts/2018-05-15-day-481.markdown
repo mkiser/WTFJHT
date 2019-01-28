@@ -44,17 +44,3 @@ poll/ **52% of Americans disapprove of Trump's job performance, which Trump call
 5. **California and 18 other states filed papers to block the Trump administration from changing the requirements for Title X**, which provides family planning services for more than four million uninsured and under-insured people. The Trump administration action threatens funding for birth control, sexually transmitted disease testing, breast and cervical cancer screenings, and infertility treatment. ([Los Angeles Times](http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-may-2018-california-leads-states-in-seeking-to-1526406185-htmlstory.html))
 
 6. **Seven Republican governors signed onto a letter in support of Trump's nomination to receive the Nobel Peace Prize** for his "unprecedented victory for global peace and security" in negotiations with North Korea. ([The Hill](http://thehill.com/homenews/state-watch/387766-gop-governors-sign-letter-supporting-nobel-peace-prize-for-trump))
-
----
-
-### Watching.
-
-*A list of stories I'm keeping an eye on*.
-
-{% onebox  https://www.nytimes.com/2018/05/15/us/politics/primary-election-idaho-oregon-nebraska-pennsylvania.html %}
-
-{% onebox https://www.politico.com/story/2018/05/15/primary-elections-pennsylvania-nebraska-idaho-oregon-586556 %}
-
-{% onebox https://www.politico.com/story/2018/05/14/corey-lewandowski-pence-pac-585118 %}
-
-💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

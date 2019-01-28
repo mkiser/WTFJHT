@@ -68,23 +68,3 @@ poll/ **13% of Americans consider Trump honest and trustworthy** – down 3 poin
 5. **The White House canceled its daily communications morning meeting** in response to the leak of a joke about John McCain being close to death. ([New York Times](https://www.nytimes.com/2018/05/17/us/politics/white-house-leaks.html))
 
 6. **A Republican lawmaker suggested that rocks falling in the ocean are causing sea levels to rise**. Representative Mo Brooks from Alabama: "Every time you have that soil or rock or whatever it is that is deposited into the seas, that forces the sea levels to rise, because now you have less space in those oceans, because the bottom is moving up." ([Science](https://www.sciencemag.org/news/2018/05/republican-lawmaker-rocks-tumbling-ocean-causing-sea-level-rise))
-
----
-
-### 👀 Watching.
-
-*A list of stories I'm keeping an eye on*.
-
-{% onebox https://www.nytimes.com/2018/05/16/us/politics/trump-financial-disclosure.html %}
-
-{% onebox  https://www.nytimes.com/2018/05/15/us/politics/john-mashburn-trump-russia-email-papadopoulos.html %}
-
-{% onebox https://www.washingtonpost.com/local/public-safety/russian-firm-tied-to-putin-ally-charged-in-2016-trolling-campaign-clashes-with-mueller-probe/2018/05/16/1365ccc0-586c-11e8-b656-a5f8c2a9295d_story.html %}
-
-{% onebox https://www.theatlantic.com/politics/archive/2018/05/the-gop-is-betting-its-majority-on-older-white-voters/560537/ %}
-
-{% onebox https://www.vox.com/policy-and-politics/2018/5/17/17364492/trump-russia-michael-cohen-new-yorker-qatar %}
-
-{% onebox https://www.cnbc.com/2018/05/17/russian-oligarch-viktor-vekselberg-chairs-nonprofit-backed-by-us-firms-politicians.html %}
-
-💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

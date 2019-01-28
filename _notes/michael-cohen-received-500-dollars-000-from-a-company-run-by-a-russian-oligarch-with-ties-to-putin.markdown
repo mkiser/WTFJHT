@@ -20,7 +20,7 @@ is_promoted: false
 >
 > **Among the previously unreported transactions were payments last year totaling about $500,000 from Columbus Nova**, an investment firm in New York whose biggest client is a company controlled by Viktor Vekselberg, the Russian oligarch. A lawyer for Columbus Nova, in a statement Tuesday, described the money as a consulting fee that had nothing to do with Mr. Vekselberg.
 
-{% onebox https://www.nytimes.com/2018/05/08/us/politics/michael-cohen-shell-company-payments.html %}
+https://www.nytimes.com/2018/05/08/us/politics/michael-cohen-shell-company-payments.html
 
 ---
 
@@ -28,7 +28,7 @@ is_promoted: false
 >
 > The funds, Avenatti suggested, may have been used to reimburse Cohen for the $130,000 hush payment made to Daniels in exchange for her silence about an alleged affair with Trump.
 
-{% onebox https://www.thedailybeast.com/michael-cohen-took-cash-from-russian-oligarch-after-election %}
+https://www.thedailybeast.com/michael-cohen-took-cash-from-russian-oligarch-after-election
 
 ---
 
@@ -36,10 +36,10 @@ is_promoted: false
 >
 > **Viktor Vekselberg**, chairman of asset manager Renova Group, is an oligarch close to Vladimir Putin, and last month **the Trump administration placed him on a list of sanctioned Russians for activities including election interference**. The purpose of the payments, which predate the sanctions, and the nature of the business relationship between Vekselberg and Cohen is unclear.
 
-{% onebox https://www.cnn.com/2018/05/08/politics/robert-mueller-russian-oligarch-payments-michael-cohen/index.html %}
+https://www.cnn.com/2018/05/08/politics/robert-mueller-russian-oligarch-payments-michael-cohen/index.html
 
 ---
 
 > AT&T confirmed Tuesday evening that it **paid President Trump's personal lawyer Michael Cohen in 2017 for "insights into understanding the new administration."**
 
-{% onebox http://money.cnn.com/2018/05/08/media/att-michael-cohen-consulting-payments/index.html %}
+http://money.cnn.com/2018/05/08/media/att-michael-cohen-consulting-payments/index.html

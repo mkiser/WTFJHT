@@ -8,7 +8,7 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
 gem 'jekyll-archives'
 gem 'jekyll-include-cache'
-# gem 'jekyll-onebox'
+gem 'jekyll-onebox'
 # gem 'hash-joiner'
 
 group :jekyll_plugins do

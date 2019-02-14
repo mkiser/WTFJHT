@@ -73,9 +73,9 @@ Quitting a salaried job that included full benefits to run a blog and newsletter
 
 **TOTAL MONTHLY COST:**
 
-\$3,539 (hosting, email, tools, etc.)\
-\$3,000 (freelancers)\
-\$6,757 (my labor)\
+\$3,539 (hosting, email, tools, etc.)   
+\$3,000 (freelancers)  
+\$6,757 (my labor)  
 Subtotal: \$13,296
 
 \+ \$1,994 (risk adjustment) 

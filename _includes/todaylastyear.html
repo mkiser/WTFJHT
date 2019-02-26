@@ -7,10 +7,19 @@
 				var todayLastYear = lastYear.getFullYear() - 1;
 				lastYear.setFullYear(todayLastYear);
 				lastYear = lastYear.toISOString().slice(0,10);
+			    var twoYears = new Date(data[i].date.fullDate);
+				var twoYearsAgo = twoYears.getFullYear() - 2;
+				twoYears.setFullYear(twoYearsAgo);
+				twoYears = twoYears.toISOString().slice(0,10);
+			    
 	    		for (j = 0; j < data.length; j++) { 
 		    		if (data[j].date.date == lastYear) {
 		    			document.getElementById('todaylastyear').innerHTML = "<small><strong>Last year today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a></small>";
-		    		}	
+		    		}
+				if (data[j].date.date == twoYears) {
+		    			document.getElementById('todaytwoyearsago').innerHTML = "<small><strong>Two years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a></small>";
+		    		}
+				
 	    		}    	
 	    	}
 	    

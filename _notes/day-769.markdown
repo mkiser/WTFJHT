@@ -7,4 +7,4 @@ date: 2019-02-27 05:27:00 -08:00
 
 Watch the livestream via C-SPAN below:
 
-{%youtube 8rKCWG0VOYw %}
+{% youtube 8rKCWG0VOYw %}

@@ -8,7 +8,7 @@ image:
   facebook: "/public/wtf-subscribe.jpg"
 ---
 
-<p class="lead">WTF Just Happened Today is a newsletter, blog, and community that chronicles the daily shock and awe in national politics. It's is produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon around 3PM PT. </p> 
+<p class="lead">WTF Just Happened Today is a free newsletter, blog, and community that chronicles the daily shock and awe in national politics. It's is produced every morning by hand, updated throughout the day, with a newsletter sent out every afternoon around 3PM PT.</p> 
 
 {% include email.html %}
 

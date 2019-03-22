@@ -2,7 +2,7 @@
 title: "\U0001F6A8\U0001F6A8\U0001F6A8 Robert Mueller submitted his full report on
   Trump and Russia to the attorney general"
 date: 2019-03-22 14:04:00 -07:00
-is_promoted: true
+is_promoted: false
 ---
 
 1. Mueller delivered his report into Russian interference in the 2016 election to Attorney General William Barr. ([New York Times](https://www.nytimes.com/2019/03/22/us/politics/mueller-report-release.html))

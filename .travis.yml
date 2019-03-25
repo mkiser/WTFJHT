@@ -4,7 +4,6 @@ sudo: false
 dist: trusty
 
 language: ruby
-cache: bundler
 rvm:
 - 2.4.1
 addons:

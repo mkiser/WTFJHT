@@ -10,7 +10,8 @@ seo:
 redirect_from: "/russia/"
 ---
 
-<p><em>[Note: This summary is very out of date; the timeline, however, is updated regularly]</em</p>
+<p><em>[Note: This summary is very out of date; the timeline, however, is updated regularly]</em></p>
+
 <p class="lead"> There are currently four active investigations into Russia’s interference into the 2016 and the Trump campaign’s potential involvement: FBI Special Counsel Robert Mueller, the Senate Intelligence Committee, the Senate Judiciary Committee, and the House Intelligence Committee. There are three main components to Trump/Russia: Russia's use of social media, the hacking of the DNC and John Podesta's emails, and the Trump campaign’s potential collusion with Russia.
 </p>
 

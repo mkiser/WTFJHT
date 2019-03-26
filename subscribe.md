@@ -20,6 +20,8 @@ image:
 
 > ***I could not deal with the current administration and the mess they create without WTFJHT** summarizing all the breaking news that interrupts the breaking news. Well, I still can’t deal with it, but at least I can understand what is happening a bit better because of WTFJHT! –Connie S.*
 
+> ***Quite possibly the only email list I’m on that hasn’t annoyed me even once.** –Drew H.*
+
 > ***Concise, thoughtful newsbites** while carefully cultivating and nurturing my hatred of Trump (alias the bloated tick; alias Voldemort). Please do not ever go away. Without WTFJHT there would be darkness and chaos. –Catherine B.*
 
 **Still not convinced?** Here's what the <a href="{{ site.baseurl }}/press">smartest people on the internet are saying about WTFJHT</a>. 

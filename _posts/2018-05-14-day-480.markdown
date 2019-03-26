@@ -38,17 +38,3 @@ image: "/uploads/480.jpg"
 7. **National security adviser John Bolton doubled down on Trump's threat that European countries could be sanctioned by the US** if they continue to be involved with Iran. ([Politico](https://www.politico.com/story/2018/05/13/bolton-pompeo-trump-iran-sanctions-584206))
 
 8. **Trump instructed the Commerce Department to help ZTE – the world's fourth-largest maker of cellphones – get "back into business"** after the Chinese company was penalized for violating U.S. sanctions against North Korea and Iran. Trump said he was working with President Xi to end a ban on export privileges, because "too many jobs in China lost." ([NPR](https://www.npr.org/sections/thetwo-way/2018/05/14/610891747/president-trump-puts-america-first-on-hold-to-save-chinese-jobs))
-
----
-
-### 👀 Watching.
-
-*A list of stories I'm keeping an eye on*.
-
-{% onebox https://www.washingtonpost.com/politics/buckle-up-as-mueller-probe-enters-second-year-trump-and-allies-go-on-war-footing/2018/05/13/e3d15fbe-546b-11e8-9c91-7dab596e8252_story.html %}
-
-{% onebox https://www.theatlantic.com/politics/archive/2018/05/muellers-probe-is-more-expansive-than-it-seems/560255/ %}
-
-{% onebox https://www.washingtonpost.com/news/the-fix/wp/2018/05/14/as-russia-probe-enters-year-two-republicans-refuse-to-protect-mueller/ %}
-
-💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

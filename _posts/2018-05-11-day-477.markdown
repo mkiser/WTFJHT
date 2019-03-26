@@ -32,17 +32,3 @@ poll/ **44.7% of independent voters in Florida, Ohio, Pennsylvania, and Wisconsi
 2. **Kelly said undocumented immigrants coming to the U.S. "don't integrate well \[because\] they don't have skills" to assimilate into "our modern society."** Kelly previously criticized undocumented immigrants as being "too afraid" or "too lazy" to sign up for the Deferred Action for Childhood Arrivals program. ([CNN](https://www.cnn.com/2018/05/11/politics/john-kelly-immigration-education/index.html))
 
 3. **Trump's new national security adviser disbanded the global health security team a day after the World Health Organization declared a new Ebola outbreak in the Congo**. John Bolton's restructuring of the team, intended to "streamline" the National Security Council and "combine a handful of offices with similar mission sets," caused Tim Ziemer, head of global health security and biodefense, to resign. Ziemer was responsible for leading the U.S. response to global pandemic diseases. Nobody is taking over his role. ([Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2018/05/10/top-white-house-official-in-charge-of-pandemic-response-exits-abruptly/) / [The Atlantic](https://www.theatlantic.com/health/archive/2018/05/white-house-loses-global-health-security-lead-as-a-new-ebola-outbreak-hits/560195/) / [HuffPost](https://www.huffingtonpost.com/entry/tim-ziemer-global-health-security-leaves_us_5af37dfbe4b0859d11d02290))
-
----
-
-### Watching.
-
-*A list of stories I'm keeping an eye on*.
-
-{% onebox https://www.politico.com/story/2018/05/10/devin-nunes-trey-gowdy-robert-mueller-documents-580984 %}
-
-{% onebox https://www.bloomberg.com/news/articles/2018-05-11/cohen-judge-asked-to-seal-files-related-to-schneiderman-women %}
-
-{% onebox https://www.npr.org/2018/05/11/610206357/documents-reveal-how-russian-official-courted-conservatives-in-u-s-since-2009 %}
-
-💬 *What stories are you noticing? Let me know using the chat icon in the lower right-hand corner.*

@@ -1,0 +1,32 @@
+---
+title: Day 720
+date: 2019-01-09 14:12:00 -08:00
+description: Bye-bye.
+image: "/uploads/720.jpg"
+todayInOneSentence: Trump stormed out of a meeting with congressional leaders; the
+  Supreme Court refused to intervene in a dispute between Mueller and a mysterious
+  foreign company; and the leaders of seven House committees want Steven Mnuchin to
+  explain why he decided to ease sanctions on three of Oleg Deripaska's companies.
+  Also the government has been shut down for 18 days.
+author: Joe Amditis
+---
+
+1/ **Trump abruptly walked out of a closed-door meeting with congressional leaders**, who were at the White House to discuss the partial government shutdown. He reportedly left after Nancy Pelosi reiterated she wouldn't fund his border wall. In a tweet, Trump called the meeting "a total waste of time," writing: "I asked what is going to happen in 30 days if I quickly open things up, are you going to approve Border Security which includes a Wall or Steel Barrier? Nancy said, NO. I said bye-bye, nothing else works!" ([NBC News](https://www.nbcnews.com/politics/white-house/shutdown-showdown-pelosi-says-no-trump-says-bye-bye-n956836) / [BBC](https://www.bbc.com/news/world-us-canada-46818218) / [CNN](https://www.cnn.com/2019/01/09/politics/chuck-schumer-nancy-pelosi-trump/index.html))
+
+* **Trump once again warned he might declare a national emergency in order to bypass Congress to build his border wall.** "I have the absolute right to do national emergency if I want," Trump said when asked what he would do if he is unable to reach a deal with Democrats.  ([New York Times](https://www.nytimes.com/2019/01/09/us/politics/trump-wall-national-emergency.html))
+
+2/ **The Supreme Court refused to intervene in a case believed to involve Robert Mueller and an unidentified foreign-owned company.** According to court filings, Mueller subpoenaed "Company A," but the company insists it has immunity and that complying with the subpoena would violate the laws of its home country. The court offered no explanation as to why it declined to intervene in the case. The company is believed to be a foreign financial institution. ([Politico](https://www.politico.com/story/2019/01/08/supreme-court-declines-to-intervene-in-mysterious-mueller-subpoena-fight-1088050) / [Washington Post](http://www.washingtonpost.com/politics/courts_law/supreme-court-rules-against-mystery-corporation-from-country-a-fighting-subpoena-in-mueller-investigation/2019/01/08/a39b61ac-0d1a-11e9-84fc-d58c33d6c8c7_story.html))
+
+3/ **A law firm that has represented both Russian interests and the Republican National Committee is involved in the subpoena case** presumed to be between Mueller and "Company A." Alston & Bird previous represented Russian oligarch Oleg Deripaska, as well as the RNC in its efforts to obtain some of Hillary Clinton's emails. It is unclear whether the firm is currently representing "Company A," the country that owns "Company A," or the regulators of that country. ([CNBC](https://www.cnbc.com/2019/01/09/lawyers-defending-company-over-subpoena-in-possible-mueller-probe.html) / [CNN](https://www.cnn.com/2019/01/09/politics/russian-interests-law-firm-mueller/index.html))
+
+4/ **Seven House committees called on Treasury Secretary Steven Mnuchin to explain why the United States decided to ease sanctions** on companies linked to Oleg Deripaska, including an aluminum manufacturing giant. Mnuchin has argued the move keeps Deripaska on a blacklist of sanctioned oligarchs, but Democrats say the deal allows Deripaska to maintain "significant ownership" of one of the companies. ([Associated Press](https://www.apnews.com/7eef88abcb51496390407796f2397800) / [Washington Post](http://www.washingtonpost.com/powerpost/house-democrats-demand-treasury-explain-rollback-of-sanctions-on-russia-oligarch/2019/01/08/80285642-138e-11e9-b6ad-9cfd62dbb0a8_story.html))
+
+## Notables.
+
+1. **Deputy Attorney General Rod Rosenstein will leave the Justice Department in the coming weeks.** He will likely remain on the job until Mueller completes his investigation or after a new attorney general is confirmed. There has been no indication that Rosenstein is being forced out by the Trump administration. ([ABC News](https://abcnews.go.com/Politics/rosenstein-expected-depart-doj-coming-weeks-attorney-general/story?id=60252611) / [NBC News](https://www.nbcnews.com/politics/justice-department/rod-rosenstein-plans-leave-justice-department-after-new-attorney-general-n956571) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia-rosenstein-idUSKCN1P31AI) / [CNN](https://www.cnn.com/2019/01/09/politics/rosenstein-out-justice-department/index.html))
+
+2. **The Food & Drug Administration suspended routine inspections of the U.S. food supply** because of the partial government shutdown. "It’s not business as usual," said FDA Commissioner Scott Gottlieb, "and we are not doing all the things we would do under normal circumstances. There are important things we are not doing." ([NBC News](https://www.nbcnews.com/health/health-news/government-shutdown-stops-fda-food-safety-inspections-n956716) / [Washington Post](https://www.washingtonpost.com/national/health-science/experts-warn-of-safety-and-security-risks-from-government-shutdown/2019/01/08/855472e4-1362-11e9-90a8-136fa44b80ba_story.html?utm_term=.73fc2e6b53da))
+
+3. **TSA officers have started quitting their jobs after being forced to work without pay during the shutdown.** The loss of workers "will create a massive security risk for American travelers," said Hydrick Thomas, head of the American Federation of Government Employees' TSA Council. ([Daily Beast](https://www.thedailybeast.com/tsa-workers-forced-to-work-without-pay-during-shutdown-are-already-quitting-union-says))
+
+4. **Roughly $5 million from Trump's farm bailout program will go to a Brazilian-owned meatpacking company.** JBS is one of the largest meatpacking companies in the world and has roughly 73,000 employees and 44 plants in the U.S., but JBS is owned by a company based in San Paulo, Brazil. ([Washington Post](https://www.washingtonpost.com/business/2019/01/09/trump-farm-bailout-money-will-go-brazilian-owned-meatpacking-firm-usda-says/?noredirect=on&utm_term=.cf828a659825) / [The Hill](https://thehill.com/homenews/administration/424600-5-million-of-farm-bailout-money-will-go-to-brazil-owned-meatpacking))

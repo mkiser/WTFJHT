@@ -261,7 +261,6 @@ plugins:
 - jekyll-extlinks
 - jekyll-archives
 - jekyll-include-cache
-- jekyll-onebox
 - jekyll-algolia
 onebox:
   whitelist:

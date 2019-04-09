@@ -22,7 +22,7 @@ collections:
     output: true
   whatwelearned:
     title: What We Learned
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
@@ -220,6 +220,7 @@ algolia:
   - _topics/*
   - _notes/*
   - _topics/*.markdown
+  - _whatwelearned/*
   - page/*/**.html
   settings:
     searchableAttributes:

@@ -57,7 +57,7 @@ defaults:
     permalink: "/:year/:month/:day/latest/"
     title: ''
     description: ''
-    image: 'https://whatthefuckjusthappenedtoday.com/public/wtfjht-f.jpg'
+    image: https://whatthefuckjusthappenedtoday.com/public/wtfjht-f.jpg
     flag: The Latest.
     is_promoted: false
     layout: note

@@ -1,12 +1,43 @@
 ---
-title: What The F*ck Does It Cost To Run This?
+title: WTFAQ
 date: 2017-01-20 21:53:00 -08:00
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
-sitemap: false
 layout: page
 ---
+
+
+**Is this free?**\
+Yes, WTFJHT is free, but 100% supported your optional contributions. If you find this resource to be a valuable part of your news diet, then [consider supporting my work](https://whatthefuckjusthappenedtoday.com/membership/). 
+
+**Why are you doing this?**\
+Like many, I found the 2016 election cycle to be deeply confusing and frustrating. I'm a news junkie, but struggled to keep up with all the blogs, tweets, Facebook posts, newsletters, podcasts, and broadcast news segments – and still make sense of everything. I don't see how any "normal" person with a job and family could actually make sense of things with a media environment that's optimized for volume. I started WTFJHT as a personal project to log the biggest stories of the day so that I could keep track of what was going on. It was originally supposed to be more of a save-for-later checklist of articles to read when I got home from work. 
+
+**How do you decide what's in the daily update?**\
+I try to approach the daily update like a front page editor at a newspaper would: focus on timeliness, impact, prominence, importance, conflict, and unexpectedness. This is further refined by framing WTFJHT's scope of coverage to the Trump administration in particular, not politics in general. Together, WTFJHT serves as a single, daily summary of the most important events regarding the Trump administration. 
+
+**When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?**\
+I try to cite the primary source of news whenever possible. This is often the large media organizations that are staffed up to break news, like the New York Times, Washington Post, CNN, NBC News, Wall Street Journal, Bloomberg, the Guardian, etc. After citing primary sources, I like to cite secondary sources that are either A) confirming the news or B) adding additional reporting. I try to "rank" the order of sources in parentheses based on how much impact they had on my written abstract summary (i.e. source that broke news, added additional reporting, or confirmed it).
+
+**How can I contribute?**\
+Invest in the continued production of WTF Just Happened Today and [become a supporting member right here](https://whatthefuckjusthappenedtoday.com/membership/)! The goal is to make WTFJHT a sustainable, member-funded project that exists for as long as necessary. To do that we need to cover all the costs associated with writing and producing the daily update. 
+
+**How do I edit my membership?**\
+If you're on the Memberful platform (most are), you can [sign-in here](https://wtfjht.memberful.com/auth/sign_in). If you're on [DonorBox](https://donorbox.freshdesk.com/support/login), this is your sign-in page. And, if you're a Patreon member, [here you go](https://www.patreon.com/login). 
+
+**I don't like the word "fuck."**\
+If you're offended by the word "fuck" on the internet in today's political climate, then I don't know what to tell ya. 
+
+**I'm running for office, will you share my campaign with your audience?**\
+No, sorry. My promise to readers is that I'll tell them WTF just happened today in Trump's America and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what _happened; not what to think.
+
+**Why do you use serif font and not sans-serif? Don't you know sans-serif is the superior typeface? And, yo, what's up with the red links? Blue links are the standard on the web.**\
+Like a newspaper, WTFJHT is black and white and read all over. 
+
+---
+
+## What The F*ck Does It Cost To Run This?
 
 The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job](https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free and sustainable.
 

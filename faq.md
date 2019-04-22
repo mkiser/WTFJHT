@@ -7,6 +7,10 @@ image:
 layout: page
 ---
 
+<p class="lead">What you need to know about WTF Just Happened Today?</p> 
+
+---
+
 **Is this free?** Yes, WTFJHT is free, but 100% supported your optional contributions. If you find this resource to be a valuable part of your news diet, then [consider supporting my work](https://whatthefuckjusthappenedtoday.com/membership/). 
 
 **Why are you doing this?** Like many, I found the 2016 election cycle to be deeply confusing and frustrating. I'm a news junkie, but struggled to keep up with all the blogs, tweets, Facebook posts, newsletters, podcasts, and broadcast news segments – and still make sense of everything. I don't see how any "normal" person with a job and family could actually make sense of things with a media environment that's optimized for volume. I started WTFJHT as a personal project to log the biggest stories of the day so that I could keep track of what was going on. It was originally supposed to be more of a save-for-later checklist of articles to read when I got home from work. 

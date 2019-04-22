@@ -7,7 +7,6 @@ image:
 layout: page
 ---
 
-
 **Is this free?**\
 Yes, WTFJHT is free, but 100% supported your optional contributions. If you find this resource to be a valuable part of your news diet, then [consider supporting my work](https://whatthefuckjusthappenedtoday.com/membership/). 
 

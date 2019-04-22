@@ -70,7 +70,7 @@ With WTFJHT, you will find an independent voice that is personal accountabile an
 
 ---
 
-## WTF Does It Cost To Run This?
+### WTF Does It Cost To Run This Thing?
 
 The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job](https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free and sustainable.
 
@@ -89,7 +89,7 @@ I built a news aggregator called [Current Status](https://currentstatus.io/) to 
 Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) lets me easily understand who is playing what pod on what device. *Monthly Cost:* $10
 
 **Live Chat:**
-I like to engage with the WTF family, so I've installed Chat.io, a livechat widget on the site. *Monthly Cost:* $10
+I like to engage with the WTF family, so I've installed Helpcrunch.com, a livechat widget on the site. *Monthly Cost:* $12
 
 **Site Search:**
 This giant repository of news isn't very valuable if you can't find what you're looking for. I've implemented [Algolia](https://www.algolia.com/), the best instant search option out there. *Monthly Cost:* $59
@@ -113,7 +113,7 @@ Quality journalism ain't free. I have subscriptions to the New York Times, Washi
 There's a host of other things that are required to make WTF tick, like a GitHub subscription for hosting the code, Cloudflare for various security and serving issues, Buffer for posting, Canva for quickly creating social images, and Zapier to automate boring tasks, among others. I'm constantly trying new things in an effort to maximize both productivity and cost efficiency. *Monthly Cost:* \~$120
 
 **Freelancers:**
-Being your own boss is great, but nothing gets done if you take a day off. I utilize a network of freelance writer/editors, social media editors, and various jack-of-all-trade help to step in and write and produce WTFJHT when I'm unable to (or when I just need some help). While the actual costs are variable and spread out over the course of a year, the effective cost is about $200-$250/day all-in. *Monthly Cost:* \~$3000
+Being your own boss is great, but nothing gets done if you take a day off. I utilize a network of freelance writer/editors, social media editors, and various jack-of-all-trade help to step in and write and produce WTFJHT when I'm unable to (or when I just need some help). While the actual costs are variable and spread out over the course of a year, the effective cost is about $100-$150/day all-in. *Monthly Cost:* \~$3000
 
 **My Labor:**
 Here's a daily breakdown of how I generally spend my time:
@@ -131,7 +131,7 @@ Here's a daily breakdown of how I generally spend my time:
 And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle, via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. *Monthly Cost:* ($63,718 \+ $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
 
 **Risk Adjustment:**
-Quitting a salaried job that included full benefits to run a blog and newsletter that's supported entirely by an optional, pay-whatever-you-want memberships comes with substantial personal and professional risk. While I'm prepared to experience some variable income, I'm not prepared to run WTFJHT at a loss for an extended period of time. I've also disrupted a career, so who knows what I'll do after WTF or how long it'll take to figure that out. This risk adjustment is also responsible for covering various hard costs, like personal health care, taxes, and the unknown who-knows-wtf fees that come with the territory. *Monthly cost*: 15% of total cost
+Quitting a salaried job that included full benefits to run a blog and newsletter that's supported entirely by optional, pay-whatever-you-want memberships comes with substantial personal and professional risk. While I'm prepared to experience some variable income, I'm not prepared to run WTFJHT at a loss for an extended period of time. I've also disrupted a career, so who knows what I'll do after WTF or how long it'll take to figure that out. This risk adjustment is also responsible for covering cash flow issues and various hard costs, like personal health care, quarterly taxes, and the unknown who-knows-wtf fees that come with running your own business. *Monthly cost*: 15% of total cost
 
 ---
 
@@ -148,6 +148,6 @@ Subtotal: \$13,296
 
 Current income: $14,363
 
-As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford a desk at a co-working space. 
+As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford employees. 
 
 I hope this transparency addresses any concerns you may have and demonstrates why your support is critical to keeping WTF Just Happened Today going strong. So, please [become a member today](https://whatthefuckjusthappenedtoday.com/membership/).

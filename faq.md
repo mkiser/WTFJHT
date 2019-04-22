@@ -7,36 +7,56 @@ image:
 layout: page
 ---
 
-**Is this free?**\
-Yes, WTFJHT is free, but 100% supported your optional contributions. If you find this resource to be a valuable part of your news diet, then [consider supporting my work](https://whatthefuckjusthappenedtoday.com/membership/). 
+**Is this free?** Yes, WTFJHT is free, but 100% supported your optional contributions. If you find this resource to be a valuable part of your news diet, then [consider supporting my work](https://whatthefuckjusthappenedtoday.com/membership/). 
 
-**Why are you doing this?**\
-Like many, I found the 2016 election cycle to be deeply confusing and frustrating. I'm a news junkie, but struggled to keep up with all the blogs, tweets, Facebook posts, newsletters, podcasts, and broadcast news segments – and still make sense of everything. I don't see how any "normal" person with a job and family could actually make sense of things with a media environment that's optimized for volume. I started WTFJHT as a personal project to log the biggest stories of the day so that I could keep track of what was going on. It was originally supposed to be more of a save-for-later checklist of articles to read when I got home from work. 
+**Why are you doing this?** Like many, I found the 2016 election cycle to be deeply confusing and frustrating. I'm a news junkie, but struggled to keep up with all the blogs, tweets, Facebook posts, newsletters, podcasts, and broadcast news segments – and still make sense of everything. I don't see how any "normal" person with a job and family could actually make sense of things with a media environment that's optimized for volume. I started WTFJHT as a personal project to log the biggest stories of the day so that I could keep track of what was going on. It was originally supposed to be more of a save-for-later checklist of articles to read when I got home from work. 
 
-**How do you decide what's in the daily update?**\
-I try to approach the daily update like a front page editor at a newspaper would: focus on timeliness, impact, prominence, importance, conflict, and unexpectedness. This is further refined by framing WTFJHT's scope of coverage to the Trump administration in particular, not politics in general. Together, WTFJHT serves as a single, daily summary of the most important events regarding the Trump administration. 
+**How do you decide what's in the daily update?** I try to approach the daily update like a front page editor at a newspaper would: focus on timeliness, impact, prominence, importance, conflict, and unexpectedness. This is further refined by framing WTFJHT's scope of coverage to the Trump administration in particular, not politics in general. Together, WTFJHT serves as a single, daily summary of the most important events regarding the Trump administration. 
 
-**When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?**\
-I try to cite the primary source of news whenever possible. This is often the large media organizations that are staffed up to break news, like the New York Times, Washington Post, CNN, NBC News, Wall Street Journal, Bloomberg, the Guardian, etc. After citing primary sources, I like to cite secondary sources that are either A) confirming the news or B) adding additional reporting. I try to "rank" the order of sources in parentheses based on how much impact they had on my written abstract summary (i.e. source that broke news, added additional reporting, or confirmed it).
+**Hey, you're biased!** Humans making decisions about the relative importance of information is inherently biased. WTFJHT is the news through the lens of a person making decisions. With every summary I write and article I cite, I'm make a news-value judgement. Journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. WTF Just Happened Today is a reflection of these ethics, but with the following standards and practices applied:
 
-**How can I contribute?**\
-Invest in the continued production of WTF Just Happened Today and [become a supporting member right here](https://whatthefuckjusthappenedtoday.com/membership/)! The goal is to make WTFJHT a sustainable, member-funded project that exists for as long as necessary. To do that we need to cover all the costs associated with writing and producing the daily update. 
+* WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary and secondary sources, and moving on.
 
-**How do I edit my membership?**\
-If you're on the Memberful platform (most are), you can [sign-in here](https://wtfjht.memberful.com/auth/sign_in). If you're on [DonorBox](https://donorbox.freshdesk.com/support/login), this is your sign-in page. And, if you're a Patreon member, [here you go](https://www.patreon.com/login). 
+* WTFJHT **does not offer commentary, opinion, or analysis**. 
 
-**I don't like the word "fuck."**\
-If you're offended by the word "fuck" on the internet in today's political climate, then I don't know what to tell ya. 
+With WTFJHT, you will find an independent voice that is personal accountabile and a consideration for how the editorial choices impact others. I go through considerable effort to cite the original source of the news. I also try to make sure each recap is rich with a diversity of sources.
 
-**I'm running for office, will you share my campaign with your audience?**\
-No, sorry. My promise to readers is that I'll tell them WTF just happened today in Trump's America and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what _happened; not what to think.
+**When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?** I try to cite the primary source of news whenever possible. This is often the large media organizations that are staffed up to break news, like the New York Times, Washington Post, CNN, NBC News, Wall Street Journal, Bloomberg, the Guardian, etc. After citing primary sources, I like to cite secondary sources that are either A) confirming the news or B) adding additional reporting. I try to "rank" the order of sources in parentheses based on how much impact they had on my written abstract summary (i.e. source that broke news, added additional reporting, or confirmed it).
 
-**Why do you use serif font and not sans-serif? Don't you know sans-serif is the superior typeface? And, yo, what's up with the red links? Blue links are the standard on the web.**\
-Like a newspaper, WTFJHT is black and white and read all over. 
+**How can I contribute?** Invest in the continued production of WTF Just Happened Today and [become a supporting member right here](https://whatthefuckjusthappenedtoday.com/membership/)! The goal is to make WTFJHT a sustainable, member-funded project that exists for as long as necessary. To do that we need to cover all the costs associated with writing and producing the daily update. 
+
+**How do I edit my membership?** If you're on the Memberful platform (most are), you can [sign-in here](https://wtfjht.memberful.com/auth/sign_in). If you're on [DonorBox](https://donorbox.freshdesk.com/support/login), this is your sign-in page. And, if you're a Patreon member, [here you go](https://www.patreon.com/login). 
+
+**I don't like the word "fuck."** If you're offended by the word "fuck" on the internet in today's political climate, then I don't know what to tell ya. 
+
+**What are your core values?** WTFJHT values **transparency**, which is why it's open sourced and hosted as a public repository on GitHub. Anybody can view the change log at anytime for any post. They can make pull requests to fix grammar, typos, facts, sources, etc., as well as contribute code. WTFJHT believes **choice** is deeply important, so I cite every reference by the name of the original source and link to it clearly so you know exactly where something came from and where you're going. Where appropriate, I'll include additional sources. WTFJHT sets **clear expectations** by answering what happened, what the facts are, cite the sources, and moving on. WTFJHT values **consistency** in order to earn trust with readers and deliver exactly what's been promised. Nobody is getting rich running WTFJHT, but the goal is to **create more value than you capture** so that there are **no strings attached**. There's no business model trickery here. No ads. No content gates. No selling of data. WTFJHT is a website, a newsletter, and a podcast that's supported by its members. That's it. Why the fuck would I want to sell out my audience anyway?
+
+**Is there an RSS feed?** Yep, here are links to <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>, <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>, a <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>, and the <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>.
+
+**I'm running for office, will you share my campaign with your audience?** No, sorry. My promise to readers is that I'll tell them WTF just happened today in Trump's America and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what _happened; not what to think.
+
+**Why do you use serif font and not sans-serif? Don't you know sans-serif is the superior typeface? And, yo, what's up with the red links? Blue links are the standard on the web.** Like a newspaper, WTFJHT is black and white and read all over. 
+
+**What is the technology behind WTFJHT?** WTFJHT is built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [Travis CI](https://travis-ci.org/mkiser/WTFJHT), [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>. This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
+
+**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Friday, except for federal and market holidays. Below is the 2019 schedule:
+
+* **2019**
+* New Year's Day – January 1
+* Martin Luther King, Jr. Day – January 21
+* President's Day – February 18
+* Good Friday – April 19
+* Memorial Day – May 27
+* Independence Day – July 4
+* Labor Day – September 2
+* Columbus Day – October 14
+* Veterans Day – November 11
+* Thanksgiving Day – November 28
+* Christmas Day – December 25
 
 ---
 
-## What The F*ck Does It Cost To Run This?
+## WTF Does It Cost To Run This?
 
 The cost of running What The Fuck Just Happened Today isn't free. It's [my full-time job](https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/) and I'm determined to keep this ad-free and sustainable.
 

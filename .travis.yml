@@ -48,7 +48,7 @@ notifications:
     rooms:
       secure: oh1suThkyoPLUxMFWaNPtlIMICvJLztnibJGw75FzMDHV6m2cqho51k2kF97jMoQ6C+P3S1rte+5FRd65uyLgp7B6qP1vhM6XXRdQx1XpK1u2YyZ891L8ZMqVZcVq7uGNuuYBiyd+okZ0p0hK+iE96WYfvgwl9UTMkbBq4IKqe0Kzbkm6FSl1dX2KE4l3kRn3Npcx8jpejrT1xqaRnpcydcxf+6irEyKsyMMn+7Kk9SNTM53mfTJNqRR+HSw058NPLKhcDYeaEhsFaMhzUFrMlMdXHnQy0OmQYLZbtMX0SsvFsygrhEd9KqiKlfaEOH0+fc6mhyauJrVb2PAjr+3+EAuQ4cQUZkrEte8aT+Ym13P6f612pzQD+pjck6NFH98mNQ3y/FmeNl+r+YvEtSSs6IdVsUzDsBxOH+vD4G8D6RRtG1JDaAsFuhf0j+cgyjnWGltRjH0B8gHNMNvWtatb1AvdU/F28ZcXwQdSqjA920YwiR7vMTDB1QTW9YNBD9stR7iaGipCyYpOtDH639SFzLYQJ9AjgCMhsS1M3IsH082A1115i4qrK2wCYVbKZ4mnEyLO1lRFT/oWjF2F4Z4PGgwWM5BRl+0D1RzKOOPTVJT78QOVj6ejISennnw2lBebI05gTeQmbPSI7Fm1gvReoxWkhoz2yg/nT6cwfz7UR4=
     template:
-      - "Build <%{build_url}|#%{build_number}> (<%{compare_url}|%{commit}>) of %{repository_slug}@%{branch} in PR <%{pull_request_url}|#%{pull_request_number}> by %{author} %{result} in %{duration}"
+      - "Build <%{build_url}|#%{build_number}> (<%{compare_url}|%{commit}>) %{message} by %{author} %{result} in %{duration}"
   email:
     recipients:
       - matt@whatthefuckjusthappenedtoday.com

@@ -20,8 +20,8 @@ before_install:
 before_script:
 - chmod +x ./script/*
 script: 
-  - if [ '$TRAVIS_EVENT_TYPE' == 'cron' ]; then travis_wait ./script/cibuildindex echo '# cibuildindex'; fi
-  - if [ '$TRAVIS_EVENT_TYPE' == 'push' || 'api' || 'pull_request' ]; then travis_wait ./script/cibuild echo '# regular cibuild'; fi
+  - if [ '$TRAVIS_EVENT_TYPE' == 'cron' ]; then travis_wait ./script/cibuildindex; fi
+  - if [ '$TRAVIS_EVENT_TYPE' == 'push' || 'api' || 'pull_request' ]; then travis_wait ./script/cibuild; fi
 branches:
   only:
   - master

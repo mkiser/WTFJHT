@@ -24,7 +24,9 @@ layout:
             </description>
             <content:encoded>
                 <![CDATA[<img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}"/> 
-                
+                <p>	                
+                    <strong>Support today's essential newsletter and resist the daily shock and awe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/membership">Become a member</a> or <a href="https://cottonbureau.com/stores/wtf-just-happened-today" target="_blank">buy a limited edition t-shirt</a>	
+                </p>
                 {{ post.content }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>]]>
             </content:encoded>
             <author>{{ site.author.email }} ({{ site.author.name }})</author>

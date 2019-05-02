@@ -22,7 +22,7 @@ collections:
     output: true
   whatwelearned:
     title: What We Learned
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
@@ -57,7 +57,7 @@ defaults:
     permalink: "/:year/:month/:day/latest/"
     title: ''
     description: ''
-    image: ''
+    image: https://whatthefuckjusthappenedtoday.com/public/wtfjht-f.jpg
     flag: The Latest.
     is_promoted: false
     layout: note
@@ -220,6 +220,7 @@ algolia:
   - _topics/*
   - _notes/*
   - _topics/*.markdown
+  - _whatwelearned/*
   - page/*/**.html
   settings:
     searchableAttributes:

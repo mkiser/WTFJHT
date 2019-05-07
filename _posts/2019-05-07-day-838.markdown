@@ -3,6 +3,11 @@ title: Day 838
 date: 2019-05-07 08:59:00 -07:00
 description: Privilege.
 image: "/uploads/838.jpg"
+todayInOneSentence: The White House invoked executive privilege and ordered Donald
+  McGahn not to comply with a congressional subpoena; Mitch McConnell called the investigations
+  into Trump and his 2016 campaign "case closed"; and New York State lawmakers plan
+  to advance a bill this week to allow congressional committees to see Trump's New
+  York State returns.
 ---
 
 1/ **The White House invoked executive privilege and ordered former counsel Donald McGahn not to comply with a congressional subpoena for documents related to Robert Mueller's investigation**. In a letter to the House Judiciary Committee, White House counsel Pat Cipollone argued that "McGahn does not have the legal right to disclose these documents to third parties" and asked that the committee instead direct the request to the White House, "because they implicate significant Executive Branch confidentiality interests and executive privilege." Trump has also promised to assert executive privilege to block McGahn's testimony to the committee later this month. McGahn spent more than 30 hours speaking to Mueller's investigators, outlining two episodes where Trump asked him to have Mueller fired, and later asking McGahn to deny news reports about that conversation. McGahn rebuffed both requests. ([CNBC](https://www.cnbc.com/2019/05/07/white-house-tells-don-mcgahn-not-to-give-mueller-documents-to-congress.html) / [ABC News](https://abcnews.go.com/Politics/white-house-instruct-counsel-comply-congressional-subpoena/story?id=62873987) / [Washington Post](https://www.washingtonpost.com/powerpost/white-house-invokes-executive-privilege-to-bar-former-counsel-from-turning-over-documents-to-congress/2019/05/07/bf106bc6-70de-11e9-8be0-ca575670e91c_story.html) / [Wall Street Journal](https://www.wsj.com/articles/white-house-tells-don-mcgahn-to-rebuff-subpoena-for-documents-related-to-mueller-11557243316) / [New York Times](https://www.nytimes.com/2019/05/07/us/politics/don-mcgahn-subpoena.html))

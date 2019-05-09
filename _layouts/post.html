@@ -4,6 +4,9 @@ layout: default
 
 {% include_cached email.html %}
 <article class="post">
+  {% if page.away_mode == true %}
+    {% include away_mode.html %}
+  {% endif %}
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ page.url }}">
       {{ page.title }}:
@@ -42,9 +45,6 @@ layout: default
 
 {% endif %}
   <div class="post-content">
-    {% if post.away_mode == true %}
-      {% include away_mode.html %}
-    {% endif %}
     {{ content | extlinks }}
     <div><span id="todaylastyear"></span><div>
     <div><span id="todaytwoyearsago"></span></div>

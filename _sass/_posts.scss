@@ -11,7 +11,6 @@ article.post div.post-content > p {
   font-style: normal;
   font-size: 1.1rem;
 }
-
 .posts {
   margin-top: 1em;
 }
@@ -31,7 +30,13 @@ article.post div.post-content > p {
     }
 
   }
-
+  div.away-mode {
+    padding: 1em;
+    margin: 0 0 2em 1em;
+    background-color: rgba(49,49,49,0.03);
+    font-size: .8em;
+    color: #767676;
+  }
   ul {
     border: none;
     padding: 1em;

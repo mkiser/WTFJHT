@@ -35,6 +35,9 @@ seo:
 
   {% for page in paginator.posts %}
   <article class="post">
+    {% if page.away_mode == true %}
+      {% include away_mode.html %}
+    {% endif %}
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ page.url }}">
         {{ page.title }}:

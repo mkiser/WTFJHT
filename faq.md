@@ -146,8 +146,6 @@ Subtotal: \$13,296
 
 <strong>Grand Total: $15,290</strong>.
 
-Current income: $14,363
-
 As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford employees. 
 
 I hope this transparency addresses any concerns you may have and demonstrates why your support is critical to keeping WTF Just Happened Today going strong. So, please [become a member today](https://whatthefuckjusthappenedtoday.com/membership/).

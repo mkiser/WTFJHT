@@ -42,6 +42,9 @@ layout: default
 
 {% endif %}
   <div class="post-content">
+    {% if post.away_mode == true %}
+      {% include away_mode.html %}
+    {% endif %}
     {{ content | extlinks }}
     <div><span id="todaylastyear"></span><div>
     <div><span id="todaytwoyearsago"></span></div>

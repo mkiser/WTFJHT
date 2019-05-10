@@ -10,7 +10,7 @@ collections:
     output: true
   podcasts:
     title: Podcasts
-    output: true
+    output: false
   posts:
     title: Posts
     output: true

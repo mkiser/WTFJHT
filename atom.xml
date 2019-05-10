@@ -27,6 +27,11 @@ layout:
    		<uri>{{ site.url }}{{ site.baseurl }}</uri>
     </author>
    <content type="html">
+
+    {% if post.is_away_mode == true %}
+      {% include away_mode.html %}
+    {% endif %}
+
     &lt;p&gt;&lt;strong&gt;Support today&#39;s essential newsletter and resist the daily shock and awe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/membership&quot;&gt;Become a member&lt;/a&gt; or &lt;a href=&quot;https://cottonbureau.com/stores/wtf-just-happened-today&quot; target=&quot;_blank&quot;&gt;buy a limited edition t-shirt&lt;/a&gt;&lt;/p&gt;
     {{ post.content | xml_escape }}
    	

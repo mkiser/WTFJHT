@@ -24,6 +24,9 @@ layout:
             </description>
             <content:encoded>
                 <![CDATA[<img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}"/> 
+                {% if post.is_away_mode == true %}
+                    {% include away_mode.html %}
+                {% endif %}
                 <p>	                
                     <strong>Support today's essential newsletter and resist the daily shock and awe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/membership">Become a member</a> or <a href="https://cottonbureau.com/stores/wtf-just-happened-today" target="_blank">buy a limited edition t-shirt</a>	
                 </p>

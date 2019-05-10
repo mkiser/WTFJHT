@@ -32,7 +32,7 @@ defaults:
     description: ''
     image: ''
     todayInOneSentence: ''
-    away_mode: false
+    is_away_mode: false
     author: Matt Kiser
     layout: post
     seo:

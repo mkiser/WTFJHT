@@ -3,13 +3,19 @@ title: Day 845
 date: 2019-05-14 03:40:00 -07:00
 description: Echoes.
 image: "/uploads/845.jpg"
+todayInOneSentence: The White House is reviewing plans to attack Iran; global stocks
+  plummeted in response to the escalating trade war with China, which will soon escalate
+  even more; the House is investigating obstruction claims against Trump's lawyers;
+  Trump promised not to use stolen material as part of his 2020 campaign; he praised
+  Hungary's authoritarian leader; and newly obtained photos show migrant children
+  and families sleeping on the ground at a detention camp in Texas.
 is_away_mode: true
 author: Joe Amditis
 ---
 
-1/ **White House reviews military plans against Iran, in echoes of the Iraq War**. The plans call for up to 120,000 American troops but not a land invasion of Iran. They were updated at the request of John R. Bolton, the national security adviser. ([New York Times](https://www.nytimes.com/2019/05/13/world/middleeast/us-military-plans-iran.html))
+1/ **The White House reviewed military plans to attack Iran, in echoes of the Iraq War**. The plans call for up to 120,000 American troops but not a land invasion of Iran. They were updated at the request of John R. Bolton, Trump's national security adviser, who has been calling for the U.S. to go to war with Iran for nearly two decades. ([New York Times](https://www.nytimes.com/2019/05/13/world/middleeast/us-military-plans-iran.html))
 
-2/ **Attorney General William Barr assigns U.S. Attorney in Connecticut to review the origins of the Russia investigation**. The prosecutor has conducted other sensitive investigations into conduct by national security officials, including accusations of C.I.A. detainee abuse. ([New York Times](https://www.nytimes.com/2019/05/13/us/politics/russia-investigation-justice-department-review.html))
+2/ **Attorney General William Barr instructed the U.S. Attorney in Connecticut to review the origins of the Russia investigation**. The prosecutor has conducted other sensitive investigations into conduct by national security officials, including accusations of C.I.A. detainee abuse. ([New York Times](https://www.nytimes.com/2019/05/13/us/politics/russia-investigation-justice-department-review.html))
 
 3/ **Global stocks fell in response to China’s retaliation against U.S. tariffs, stoking economic anxiety**. Stocks around the world fell sharply on Monday as the trade war between the world’s two biggest economies showed little sign of ending soon. Signs of economic anxiety also appeared in other financial markets. ([New York Times](https://www.nytimes.com/2019/05/13/business/global-markets.html))
 
@@ -17,8 +23,14 @@ author: Joe Amditis
 
 * **GOP's farm belt Senators back Trump as China takes aim at U.S. agriculture**. Republican lawmakers in the farm belt are standing with President Donald Trump in the wake of an escalating trade war with China, which retaliated on Monday with more tariffs on agricultural goods. ([CNBC](https://www.cnbc.com/2019/05/13/gops-farm-belt-senators-back-trump-as-china-takes-aim-at-us-agriculture.html))
 
-5/ **Before Trump’s purge of the Department of Homeland Security, some top DHS officials challenged his plan to carry out mass family arrests**. Kirstjen Nielsen and Ronald Vitiello were ousted after halting an operation that would have targeted thousands of parents and children in 10 cities for arrest and deportation. ([Washington Post](https://www.washingtonpost.com/immigration/before-trumps-purge-at-dhs-top-officials-challenged-plan-for-mass-family-arrests/2019/05/13/d7cb91ce-75af-11e9-bd25-c989555e7766_story.html))
+5/ **The House Intelligence Committee is investigating claims of obstruction of justice against Trump's lawyers**. The Committee has opened an inquiry into Michael D. Cohen’s claims that lawyers for Trump and his family helped shape false testimony. ([New York Times](https://www.nytimes.com/2019/05/14/us/politics/trump-obstruction.html))
 
-6/ **Trump said he would agree not to use stolen material as part of his 2020 presidential campaign**. Trump said he would stay away from information stolen by foreign adversaries in his re-election bid, his first public commitment to doing so. ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-says-he-would-agree-not-use-stolen-material-2020-n1005146))
+6/ **Donald Trump Jr.’s no-shows led to him being subpoenaed by the Senate Intelligence Committee**, said the Committee's Republican chairman Senator Richard Burr. Allies of Mr. Trump have mounted a campaign to quash the subpoena from the Committee, putting intense pressure on Burr. ([New York Times](https://www.nytimes.com/2019/05/13/us/politics/donald-trump-jr-subpoena.html))
 
-7/ **Trump praised the authoritarian prime minister of Hungary and called him "highly respected."** "Probably like me a little bit controversial," Trump said, "but that's okay." ([Axios](https://www.axios.com/trump-viktor-orban-hungary-migration-d32f28ea-c433-447b-90e0-9c69f37a2491.html))
+7/ **Trump said he would agree not to use stolen material as part of his 2020 presidential campaign**. Trump said he would stay away from information stolen by foreign adversaries in his re-election bid, his first public commitment to doing so. ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-says-he-would-agree-not-use-stolen-material-2020-n1005146))
+
+8/ **Trump praised Hungary's authoritarian prime minister Victor Orbán and called him "highly respected."** "Probably like me a little bit controversial, but that's okay," Trump said, because "you've done a good job and you've kept your country safe." ([Axios](https://www.axios.com/trump-viktor-orban-hungary-migration-d32f28ea-c433-447b-90e0-9c69f37a2491.html))
+
+9/ **Before Trump’s purge at the Department of Homeland Security, some top DHS officials challenged his plan to carry out mass family arrests**. Kirstjen Nielsen and Ronald Vitiello were ousted after halting an operation that would have targeted thousands of parents and children in 10 cities for arrest and deportation. ([Washington Post](https://www.washingtonpost.com/immigration/before-trumps-purge-at-dhs-top-officials-challenged-plan-for-mass-family-arrests/2019/05/13/d7cb91ce-75af-11e9-bd25-c989555e7766_story.html))
+
+10/ **Exclusive photos reveal children sleeping on the ground at a Border Patrol station in Texas**. Photos obtained by CNN show migrants at the Border Patrol station in McAllen, Texas over the weekend, many of whom are children, sleeping on the ground on rocks and covered by Mylar blankets. A baby bottle filled with milk can be seen in one photo next to a child sleeping outside on dirt, and in another, a woman is seen sitting on rocks leaning against a wall clutching a child. ([CNN](https://www.cnn.com/2019/05/14/politics/border-patrol-mcallen-texas-pictures/index.html))

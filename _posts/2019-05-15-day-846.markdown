@@ -3,12 +3,12 @@ title: Day 846
 date: 2019-05-15 04:25:00 -07:00
 description: Escalating tensions.
 image: "/uploads/846.jpg"
-todayInOneSentence: 'The White House rejected Congress'' authority and demands for
-  documents and testimony; non-essential U.S. Embassy personnel are being evacuated
-  from Iraq amid escalating tensions with Iran; the White House refused to sign on
-  to an international commitment to combat online extremism; Alabama passed a near-complete
-  ban on abortions with no exceptions for case that involve rape or incest; and Trump
-  Tower is now one of the least desirable luxury buildings in New York City. '
+todayInOneSentence: The White House rejected Congress' authority and demands for documents
+  and testimony; non-essential U.S. Embassy personnel are being evacuated from Iraq
+  amid escalating tensions with Iran; the White House refused to sign on to an international
+  commitment to combat online extremism; Alabama passed a near-complete ban on abortions
+  with no exceptions for case that involve rape or incest; and Trump Tower is now
+  one of the least desirable luxury buildings in New York City.
 is_away_mode: true
 author: Joe Amditis
 ---

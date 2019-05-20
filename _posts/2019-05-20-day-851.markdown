@@ -1,0 +1,29 @@
+---
+title: Day 851
+date: 2019-05-20 05:21:00 -07:00
+description: '"Threshold for impeachment."'
+image: "/uploads/851.jpg"
+author: Joe Amditis
+---
+
+1/ **Deutsche Bank staff identified multiple suspicious transactions made in 2016 and 2017 by legal entities controlled by Trump and Jared Kushner**. A group of anti-money-laundering specialists at Deutsche Bank recommended that the bank report the transactions to a federal financial-crimes watchdog. But executives at the bank, from which Trump has borrowed billions of dollars, rejected the advice of their staff and chose not to file the reports with the government. The nature of the transactions in question is still unclear, but at least some of them involved money flowing back and forth between overseas entities or individuals, something the bank employees flagged as suspicious. Deutsche Bank has denied the report that its executives ignored the recommendations of its own anti-money-laundering specialists. ([New York Times](https://www.nytimes.com/2019/05/19/business/deutsche-bank-trump-kushner.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-deutsche-bank-idUSKCN1SP0PB) / [Reuters](https://www.reuters.com/article/us-usa-trump-deutsche-bank-report-idUSKCN1SQ0F8))
+
+2/ **Michigan Rep. Justin Amash became the first Republican lawmaker to publicly conclude that Trump has committed "impeachable conduct" as president**, and that Trump's conduct meets the "threshold for impeachment." In a Twitter thread, Amash said he believes "few members  of Congress even read" Mueller's final report, and said the report establishes "multiple examples" of Trump committing obstruction of justice. Amash also accused Attorney General William Barr of intentionally misleading the public. "Contrary to Barr's portrayal," Amash wrote, "Mueller's report reveals that President Trump engaged in specific actions and a pattern of behavior that meet the threshold for impeachment." ([CNN](https://www.cnn.com/2019/05/18/politics/justin-amash-trump-impeachable-conduct/index.html) / [Washington Post](https://www.washingtonpost.com/politics/republican-rep-justin-amash-says-trump-should-be-impeached/2019/05/18/be3c3b3c-79a6-11e9-bd25-c989555e7766_story.html?noredirect=on))
+
+* **Trump allies are mobilizing against Amash's impeachment revolt.** Republicans are moving fast to squelch Justin Amash's rebellion against Donald Trump before his conclusion that the President "engaged in impeachable conduct" — the first by a GOP lawmaker — can gather momentum. ([CNN](https://www.cnn.com/2019/05/20/politics/trump-amash-impeachment-conclusion/index.html))
+
+* **Romney: GOP congressman's call for impeachment 'a courageous statement'**. But he says he has not reached the same conclusion as Justin Amash. ([Politico](https://www.politico.com/story/2019/05/19/mitt-romney-justin-amash-impeachment-trump-1332853))
+
+3/ **Trump appeared to confirm that the U.S. conducted a cyberattack against a Russian entity during last year's midterm elections.** Trump was asked about a report that he personally approved a cyberattack against Russia, during which the U.S. military blocked access to the Russian troll farm known as the Internet Research Agency. "I would rather not say that," Trump said, "but you can believe that the whole thing happened, and it happened during my administration." When asked why he didn't want to talk about it, Trump said it was because "they don't like me to talk, intelligence says, 'please don't talk intelligence.'"
+
+---
+
+## Notables.
+
+1. **Trump warned Iran not to threaten U.S. or the country will face its "official end."** Iran’s foreign minister quickly responded in kind on Twitter with his own message: #NeverThreatenAnIranian. ([Associated Press](https://apnews.com/e46d3bdff2bd48d9a6a87a6752e6be6f))
+
+2. **The White House announced the first part of its Middle East peace proposal, which officials are calling an economic "workshop"** that is meant to encourage investment in the West Bank, Gaza, and the region. The effort is being headed by Jared Kushner and White House Middle East envoy Jason Greenblatt. The idea is to secure financial commitments from wealthy Persian Gulf states as well as donors in Europe and Asia to induce the Palestinians and their allies to make political concessions to resolve the decades-old conflict with Israel. ([CNN](https://www.cnn.com/2019/05/19/politics/white-house-middle-east-peace-proposal/index.html) / [New York Times](https://www.nytimes.com/2019/05/19/us/politics/trump-middle-east-peace-plan.html))
+
+3. **Google suspended all business with Huawei that requires the transfer of hardware, software and technical services except those publicly available via open source licensing** after the Trump administration added the Chinese technology giant to a trade blacklist. The blacklist comes with restrictions that will make it extremely difficult for the company to do business with U.S. counterparts. ([Reuters](https://www.reuters.com/article/us-huawei-tech-alphabet-exclusive-idUSKCN1SP0NB) / [The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/google-huawei-phone-android-updates-trump-block-coverage-a8921621.html))
+
+4. **The EPA plans to adopt a new method for projecting the future health risks of air pollution that experts say has never been peer-reviewed and is not scientifically sound.** The change would immediately lower an estimate from last year by the Trump administration that projected as many as 1,400 additional premature deaths per year from a proposed new rule on emissions from coal plants, making it easier to defend Trump's replacement for Obama’s signature climate change measure, the Clean Power Plan. ([New York Times](https://www.nytimes.com/2019/05/20/climate/epa-air-pollution-deaths.html))

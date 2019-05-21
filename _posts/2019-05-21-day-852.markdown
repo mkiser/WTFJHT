@@ -2,7 +2,7 @@
 title: Day 852
 date: 2019-05-21 06:42:00 -07:00
 description: Demands.
-image: "/uploads/852.job"
+image: "/uploads/852.jpg"
 author: Joe Amditis
 ---
 

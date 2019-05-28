@@ -1,7 +1,7 @@
 ---
 title: Day 859
 date: 2019-05-28 09:44:00 -07:00
-description: '"False narrative".'
+description: '"False narrative."'
 image: "/uploads/859.jpg"
 todayInOneSentence: Mueller reportedly drafted a three-count obstruction of justice
   indictment against Trump before deciding to shelve it; a congressional Republican

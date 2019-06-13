@@ -26,6 +26,8 @@ image:
 
 > ***Concise, thoughtful newsbites** while carefully cultivating and nurturing my hatred of Trump (alias the bloated tick; alias Voldemort). Please do not ever go away. Without WTFJHT there would be darkness and chaos. –Catherine B.*
 
+> ***Insightful, clever, and intelligent!** WTF Just Happened Today keeps me abreast of all of the political happenings, and is presented with a viewpoint that I can relate to. –Fran P.*
+
 > ***Quite possibly the only email list I’m on that hasn’t annoyed me even once.** –Drew H.*
 
 **Still not convinced?** Here's what the <a href="{{ site.baseurl }}/press">smartest people on the internet are saying about WTFJHT</a>. 

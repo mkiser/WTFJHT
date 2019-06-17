@@ -3,6 +3,8 @@ title: Day 879
 date: 2019-06-17 09:50:00 -07:00
 description: True cowards.
 image: "/uploads/879.jpg"
+redirect_from:
+- "/2019/06/17/day-789/"
 todayInOneSentence: The Supreme Court ruled that criminal defendants may be prosecuted
   for the same offenses in both federal and state court; U.S. Cyber Command hacked
   and deployed malware inside Russia's power grid without Trump's knowledge; Trump

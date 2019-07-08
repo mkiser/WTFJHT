@@ -83,7 +83,7 @@ The site is hosted on Amazon S3 because it's highly scalable, reliable, fast, an
 I use AWS S3 to host the [daily podcast](https://whatthefuckjusthappenedtoday.com/podcasts/) and cache the files with AWS CloudFront. I also pay Joe for producing and recording the daily podcast. Although he loves doing it, I strongly feel that people deserve to be compensated for their work. I provide him with a monthly stipend. *Monthly Cost:* \~$2000
 
 **Python Anywhere:**
-I built a news aggregator called [Current Status](https://currentstatus.io/) to help me source the top political news from across the web. I host it on Python Anywhere. *Monthly Cost:* $20
+I built a news aggregator called [Current Status](https://currentstatus.io/) to help me source the top political news from across the web. I host it on Python Anywhere. *Monthly Cost:* $25
 
 **S3 Stat:**
 Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) lets me easily understand who is playing what pod on what device. *Monthly Cost:* $10
@@ -128,7 +128,7 @@ Here's a daily breakdown of how I generally spend my time:
 
 * 1-4 hours site maintenance, help desk/support, etc
 
-And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle, via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $63,718. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $98,464. *Monthly Cost:* ($63,718 \+ $98,464) / 2 = $81,091/year. <strong>$6,757</strong>
+And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle, via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $71,086. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $106,175. *Monthly Cost:* ($71,086 \+ $106,175) / 2 = $88,630/year. <strong>$7,385</strong>
 
 **Risk Adjustment:**
 Quitting a salaried job that included full benefits to run a blog and newsletter that's supported entirely by optional, pay-whatever-you-want memberships comes with substantial personal and professional risk. While I'm prepared to experience some variable income, I'm not prepared to run WTFJHT at a loss for an extended period of time. I've also disrupted a career, so who knows what I'll do after WTF or how long it'll take to figure that out. This risk adjustment is also responsible for covering cash flow issues and various hard costs, like personal health care, quarterly taxes, and the unknown who-knows-wtf fees that come with running your own business. *Monthly cost*: 15% of total cost
@@ -137,15 +137,15 @@ Quitting a salaried job that included full benefits to run a blog and newsletter
 
 **TOTAL MONTHLY COST:**
 
-\$3,539 (hosting, email, tools, etc.)   
+\$3,546 (hosting, email, tools, etc.)   
 \$3,000 (freelancers)  
-\$6,757 (my labor)  
-Subtotal: \$13,296
+\$7,385 (my labor)  
+Subtotal: \$13,931
 
-\+ \$1,994 (risk adjustment) 
+\+ \$2,089 (risk adjustment) 
 
-<strong>Grand Total: $15,290</strong>.
+<strong>Grand Total: $16,020</strong>.
 
-As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford employees. 
+As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford coworkers and an office that's not in my basement. 
 
 I hope this transparency addresses any concerns you may have and demonstrates why your support is critical to keeping WTF Just Happened Today going strong. So, please [become a member today](https://whatthefuckjusthappenedtoday.com/membership/).

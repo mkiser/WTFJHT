@@ -49,7 +49,7 @@ I'd like to continue helping you spend less time trying to stay informed so that
 
 Whether you've been with me since the beginning, or just joining me now, take a second and remind yourself that this is a marathon, not a sprint. Because Tweets don't change the world. You do. This is going to require persistence. It's going to require focus. And, it's going to require better media habits.
 
-To get there, we have to make WTFJHT sustainable. So, if you find WTFJHT valuable, now would be a fabulous fucking time to [make a donation](https://whatthefuckjusthappenedtoday.com/membership/) and pledge your support so I can continue to tell you what the fuck just happened today.
+To get there, we have to make WTFJHT sustainable. So, if you find WTFJHT valuable, now would be a fabulous fucking time to [make a contribution](https://whatthefuckjusthappenedtoday.com/membership/) and pledge your support so I can continue to tell you what the fuck just happened today.
 
 Thanks.
 –Matt

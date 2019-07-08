@@ -47,13 +47,13 @@ With WTFJHT, you will find an independent voice that is personal accountabile an
 
 **Is there an RSS feed?** Yep, here are links to <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>, <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>, a <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>, and the <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>.
 
-**I'm running for office, will you share my campaign with your audience?** No, sorry. My promise to readers is that I'll tell them WTF just happened today in Trump's America and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what _happened; not what to think.
+**I'm running for office, will you share my campaign with your audience?** No, sorry. My promise to readers is that I'll tell them WTF just happened today in Trump's America and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what happened_; not what to think.
 
 **Why do you use serif font and not sans-serif? Don't you know sans-serif is the superior typeface? And, yo, what's up with the red links? Blue links are the standard on the web.** Like a newspaper, WTFJHT is black and white and read all over. 
 
 **What is the technology behind WTFJHT?** WTFJHT is built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [Travis CI](https://travis-ci.org/mkiser/WTFJHT), [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>. This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 
-**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Friday, except for federal and market holidays. Below is the 2019 schedule:
+**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Friday, except for federal and market holidays. Below is the 2019 schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
 * **2019**
 * New Year's Day – January 1

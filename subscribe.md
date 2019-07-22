@@ -28,6 +28,8 @@ image:
 
 > ***Insightful, clever, and intelligent!** WTF Just Happened Today keeps me abreast of all of the political happenings, and is presented with a viewpoint that I can relate to. –Fran P.*
 
+> ***The spirit of WTF's attempt to present all of the dumbfuckery in as non-biased a manner as possible is laudable.** –Joe D.*
+
 > ***The daily summation of news paints a clear and pointed picture of the morass**. By putting together these various - attributed - articles in one concise blog, even someone who graduated at the bottom of his class at the Wharton School could understand the mess we are in. – Bob G.*
 
 > ***Quite possibly the only email list I’m on that hasn’t annoyed me even once.** –Drew H.*

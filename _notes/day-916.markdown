@@ -1,0 +1,7 @@
+---
+title: Day 916
+date: 2019-07-24 06:14:00 -07:00
+---
+
+1. **Mueller is currently testifying before the House Judiciary Committee** about his report on the investigation into Russian interference in the 2016 election and possible obstruction of justice by Trump. Mueller is also scheduled to testify before the House Intelligence Committee today starting at noon ET. ([CSPAN](https://youtu.be/6b_EuIJhgOk) / [New York Times](https://www.nytimes.com/2019/07/24/us/politics/mueller-testimony.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/live-blog/mueller-testimony-live-updates-today-s-congressional-hearing-n1033321) / [Washington Post](https://www.washingtonpost.com/?utm_term=.3c9de1e3900b) / [The Hill](https://thehill.com/blogs/blog-briefing-room/news/454462-mueller-hashtags-trend-as-special-counsel-set-to-testify))
+   {% youtube 6b_EuIJhgOk %}

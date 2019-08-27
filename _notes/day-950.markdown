@@ -1,0 +1,8 @@
+---
+title: Day 950
+date: 2019-08-27 07:14:00 -07:00
+---
+
+1. **The U.S. government plans to launch a new program aimed at protecting voter registration databases and systems from ransomware attacks ahead of the 2020 presidential election**. The systems were compromised in 2016 by Russian hackers, who wanted to obtain information about voters. Intelligence officials say that in 2020, however, foreign hackers will not only target the databases but will also attempt to manipulate, disrupt, or destroy the data altogether. A senior U.S. official says the systems are classified as "high risk." ([Reuters](https://www.reuters.com/article/us-usa-cyber-election-exclusive-idUSKCN1VG222))
+
+2. poll/ **Trump's net approval rating has dropped in every key battleground state since January 2017**.  ([Axios](https://www.axios.com/trump-approval-rating-swing-battleground-states-d6ffffe7-07e2-4398-90d6-14c1f97bf62c.html) / [Morning Consult](https://morningconsult.com/tracking-trump-2/))

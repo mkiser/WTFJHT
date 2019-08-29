@@ -1,7 +1,6 @@
 ---
 title: 'Day 952: "A troubling pattern of corruption."'
 date: 2019-08-29 09:03:00 -07:00
-published: false
 file: "/uploads/Day-952a.mp3"
 post: Day 952
 duration: '00:06:30'

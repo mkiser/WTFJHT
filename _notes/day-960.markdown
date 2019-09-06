@@ -1,0 +1,8 @@
+---
+title: Day 960
+date: 2019-09-06 07:12:00 -07:00
+---
+
+1. **The U.S. added just 130,000 in August, signaling a slowdown in the pace of job growth**. That number would have been even lower without the temporary hiring of 25,000 government workers for the 2020 Census. Excluding all government hiring, private businesses only added 96,000 jobs, the fewest since May. Manufacturers added just 3,000 jobs last month. The unemployment rate remained at 3.7%. ([Los Angeles Times](https://www.latimes.com/business/story/2019-09-06/august-jobs-report) / [NPR](https://www.npr.org/2019/09/06/758066667/tepid-u-s-jobs-report-adds-to-economic-jitters) / [Associated Press](https://apnews.com/09679f18f1ef4d0ba77cb5229345c18d) / [CNBC](https://www.cnbc.com/2019/09/06/us-nonfarm-payrolls-august-2019.html))
+
+2. **Congressional investigators identified possible failures in Deutsche Bank AG's money laundering controls in its dealings with Russian oligarchs**. Investigators discovered the potential failures after going through a series of transaction records, emails, and other documents turned over to Congress by the bank. The inquiry found instances where bank staff flagged concerns about new Russian clients and transactions but were ignored by managers. Congress is also looking into whether the bank allowed entities to funnel illegal funds into the United States as a correspondent bank by processing transactions for others. ([Reuters](https://www.reuters.com/article/us-deutschebank-investigation-russia-exc-idUSKCN1VR0PX) / [The Hill](https://thehill.com/policy/finance/460206-us-congressional-probe-finds-possible-failures-in-deutsche-bank-controls-with))

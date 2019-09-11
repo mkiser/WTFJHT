@@ -1,7 +1,7 @@
 ---
 title: Day 965
 date: 2019-09-11 10:12:00 -07:00
-description: '"I never did that."'
+description: Boneheads.
 image: "/uploads/965.jpg"
 todayInOneSentence: Trump ordered his staff to have NOAA repudiate a tweet by weather
   forecasters that contradicted his statement; the House Committee on Science, Space

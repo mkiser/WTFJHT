@@ -30,6 +30,8 @@ image:
 
 > ***The spirit of WTF's attempt to present all of the dumbfuckery in as non-biased a manner as possible is laudable.** –Joe D.*
 
+>  ***I have nine news apps on my phone, but WTFJHT is what I look at at the end of the day**. –Patricia M.*
+
 > ***I want to keep current but I cannot bear to hear it sometimes**. WTFJHT's bite-size summaries are perfect. -Cara M.*
 
 > ***The daily summation of news paints a clear and pointed picture of the morass**. By putting together these various - attributed - articles in one concise blog, even someone who graduated at the bottom of his class at the Wharton School could understand the mess we are in. – Bob G.*

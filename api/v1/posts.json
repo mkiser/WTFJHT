@@ -1,8 +1,6 @@
 ---
 ---
 
-
-
 {
   "today" : "{% for post in site.posts limit:1 %}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{% endfor %}",
   "yesterday" : "{% for post in site.posts limit:1 offset:1 %}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{% endfor %}",

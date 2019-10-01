@@ -1,11 +1,23 @@
 ---
 ---
 
+
+
 {
   "today" : "{% for post in site.posts limit:1 %}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{% endfor %}",
   "yesterday" : "{% for post in site.posts limit:1 offset:1 %}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{% endfor %}",
+  "daysUntilElection" : {% for post in site.posts limit:1 %} 
+    {% assign dateStart = post.date | date: '%s' %}
+    {% assign endTimestamp = '2020-11-03 00:00:00 -07:00' | date: '%s' %}
+    {% assign diffSeconds = endTimestamp | minus: dateStart %}
+    {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
+    "{{ diffDays | ceil }}"{% endfor %},
   "allPosts" : [
     {% for post in site.posts %}
+    {% assign dateStart = post.date | date: '%s' %}
+    {% assign endTimestamp = '2020-11-03 00:00:00 -07:00' | date: '%s' %}
+    {% assign diffSeconds = endTimestamp | minus: dateStart %}
+    {% assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 %}
     {
       "title" : {{ post.title | jsonify }},
       "desc"  : {{ post.description | jsonify }},
@@ -24,6 +36,7 @@
       {% endif %}
       "fbShare" : "https://www.facebook.com/sharer/sharer.php?u={{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}",
       "twitterShare" : "https://twitter.com/intent/tweet?url={{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F%20%0A%0A%E2%9A%A1%20{{post.title | uri_escape}}%3A%20{{post.description | uri_escape}}%0A%0A",
+      "daysUntilElection" : "{{ diffDays | ceil }}",
       "date"  : {
         "day"   : "{{ post.date | date: "%d" }}",
         "month" : "{{ post.date | date: "%B" }}",

@@ -13,6 +13,59 @@ footer {
   color: $gray-3;
   margin-top: 2em;
 
+
+
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  flex: 1;
+
+  .ft-main {
+    padding: 1.25rem 1.875rem;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .ft-main-item {
+      padding: 1.25rem;
+      min-width: 12.5rem /*200px*/;
+  }
+  h2.ft-title {
+    font-size: 1.375rem;
+    padding-bottom: 0.625rem;
+    color: $gray-1;
+  }
+  .ft-social {
+      padding: 0 1.875rem 1.25rem;
+  }
+  .ft-social-list {
+      display: flex;
+      justify-content: center;
+      border-top: 1px #777 solid; 
+      padding-top: 1.25rem;
+  }
+  .ft-social-list li {
+      margin: 0.5rem;
+      font-size: 1.25rem;
+  }  
+
+  .ft-legal {
+      padding: 0.9375rem 1.875rem;
+      background-color: #333;
+  }
+  .ft-legal-list {
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+  }
+  .ft-legal-list li {
+      margin: 0.125rem 0.625rem;
+      white-space: normal;
+  }
+  .ft-legal-list li:nth-last-child(2) {
+      flex: 1;      
+  }
+
+
   a {
     color: $gray-1;
   }
@@ -23,13 +76,13 @@ footer {
 
   ul {
     margin: 0;
+    list-style: none;
     padding: 0;
 
     li {
-      list-style: none;
-      display: inline;
-      padding-right: 1em;
-      font-size: .75em;
+      /*display: inline;*/
+/*      padding-right: 1em;
+*/      font-size: .75em;
 
       a {
         text-decoration: none;

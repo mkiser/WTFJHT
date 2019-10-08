@@ -1,7 +1,7 @@
 ---
 title: Day 992
 date: 2019-10-08 13:23:00 -07:00
-description: Further acts of obstruction.
+description: '"Further acts of obstruction."'
 image: "/uploads/992.jpg"
 todayInOneSentence: A bipartisan Senate report concluded that the Kremlin directed
   Russian actors to help Trump win the 2016 election; Trump ordered a U.S. ambassador

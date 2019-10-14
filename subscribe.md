@@ -14,7 +14,7 @@ image:
 
 ---
 
-> ***WTFJHT is a lifesaver** - a voice of sanity, reliability, and humanity - coming to us out of the darkness and the chaos. –Susan B.*
+> ***Quite possibly the only email list I'm on that hasn't annoyed me even once.** –Drew H.*
 
 > ***The only news-related email that I make a point of reading every day**. –Lorraine N.*
 
@@ -22,11 +22,15 @@ image:
 
 > ***Thanks to WTF Just Happened Today I don’t have to read the news more than once a day**. My quality of life is higher and I still have a clue about WTF just happened today. –Buster*
 
-> ***I could not deal with the current administration and the mess they create without WTFJHT** summarizing all the breaking news that interrupts the breaking news. Well, I still can’t deal with it, but at least I can understand what is happening a bit better because of WTFJHT! –Connie S.*
+> ***WTFJHT is a lifesaver** - a voice of sanity, reliability, and humanity - coming to us out of the darkness and the chaos. –Susan B.*
 
-> ***Concise, thoughtful newsbites** while carefully cultivating and nurturing my hatred of Trump (alias the bloated tick; alias Voldemort). Please do not ever go away. Without WTFJHT there would be darkness and chaos. –Catherine B.*
+> ***WTFJHT is the only newsletter I let into my inbox**. It's brief, clear, and covers the perfect selection of news in the perfect amount of words. –Steffi K.*
 
-> ***Insightful, clever, and intelligent!** WTF Just Happened Today keeps me abreast of all of the political happenings, and is presented with a viewpoint that I can relate to. –Fran P.*
+> ***I could not deal with the current administration and the mess they create without WTFJHT**. Well, I still can't deal with it, but at least I can understand what is happening because of WTFJHT! –Connie S.*
+
+> ***Concise, thoughtful newsbites**. Without WTFJHT there would be darkness and chaos. –Catherine B.*
+
+> ***Insightful, clever, and intelligent**. WTF Just Happened Today keeps me abreast of all of the political happenings, and is presented with a viewpoint that I can relate to. –Fran P.*
 
 > ***The spirit of WTF's attempt to present all of the dumbfuckery in as non-biased a manner as possible is laudable.** –Joe D.*
 
@@ -35,7 +39,5 @@ image:
 > ***I want to keep current but I cannot bear to hear it sometimes**. WTFJHT's bite-size summaries are perfect. -Cara M.*
 
 > ***The daily summation of news paints a clear and pointed picture of the morass**. By putting together these various - attributed - articles in one concise blog, even someone who graduated at the bottom of his class at the Wharton School could understand the mess we are in. – Bob G.*
-
-> ***Quite possibly the only email list I’m on that hasn’t annoyed me even once.** –Drew H.*
 
 **Still not convinced?** Here's what the <a href="{{ site.baseurl }}/press">smartest people on the internet are saying about WTFJHT</a>. 

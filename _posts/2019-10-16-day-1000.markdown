@@ -3,6 +3,16 @@ title: Day 1000
 date: 2019-10-16 15:36:00 -07:00
 description: Meltdown.
 image: "/uploads/1000.jpg"
+todayInOneSentence: The White House is conducting its own investigation into why a
+  rough transcript of Trump's July 25 call with Ukrainian President Zelensky was placed
+  into a secret server for secure storage; Mick Mulvaney put Gordon Sondland, Kurt
+  Volker, and Energy Secretary Rick Perry in charge of managing the U.S.-Ukraine relationship
+  instead of diplomats at the National Security Council and the State Department;
+  the federal investigation into Giuliani's business dealings with two men indicted
+  last week on campaign finance charges in Ukraine includes a counterintelligence
+  probe; the House voted to condemn Trump's withdrawal of American forces from northern
+  Syria; and Democratic leaders walked out of a White House meeting with Trump after
+  he had a "meltdown" and called House Speaker Nancy Pelosi "third-grade politician."
 ---
 
 1/ **The White House is conducting its own investigation into why a rough transcript of Trump's July 25 call with Ukrainian President Zelensky was placed into a secret server for secure storage**. Trump's advisers and White House lawyers began the fact-finding review to find out why deputy White House counsel, John Eisenberg, placed the rough transcript of the call in a computer system typically reserved for the country's most closely guarded secrets. Eisenberg has said he limited access to the transcript over concerns about leaks. It is unclear who asked for or initiated the review, though acting Chief of Staff Mick Mulvaney has encouraged it and his aids are helping with it. Some officials fear the review is intended to assign blame for the impeachment inquiry. ([New York Times](https://www.nytimes.com/2019/10/15/us/politics/white-house-review-ukraine.html))
@@ -15,7 +25,7 @@ image: "/uploads/1000.jpg"
 
 * **House Democrats requested that Acting U.S. Ambassador to Ukraine Bill Taylor appear for a deposition in the investigation into Trump's alleged misconduct involving Ukraine**. ([NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/house-democrats-summon-u-s-ambassador-ukraine-deposition-n1067536))
 
-3/ **The Federal investigation into Giuliani's business dealings with two men indicted last week on campaign finance charges in Ukraine includes a counterintelligence probe**, suggesting that FBI and criminal prosecutors in Manhattan are looking at a broader set of issues. The counterintelligence probe relates to whether a foreign influence operation was trying to take advantage of Giuliani's business ties in Ukraine and with wealthy foreigners to make inroads with the White House. New York attorney Kenneth McCallion said he was approached by federal investigators earlier this year about Giuliani's connections to Lev Parnas and Igor Fruman, the two men indicted last week on campaign finance violation charges. McCallion said he was approached this spring about Giuliani's business dealings again by FBI counterintelligence agents. ([USA Today](https://www.usatoday.com/story/news/politics/2019/10/15/trump-lawyer-rudy-giuliani-ukraine-business-investigation/3986079002/) / [CNN](https://www.cnn.com/2019/10/16/politics/giuliani-counterintelligence-probe/index.html))
+3/ **The federal investigation into Giuliani's business dealings with two men indicted last week on campaign finance charges in Ukraine includes a counterintelligence probe**, suggesting that FBI and criminal prosecutors in Manhattan are looking at a broader set of issues. The counterintelligence probe relates to whether a foreign influence operation was trying to take advantage of Giuliani's business ties in Ukraine and with wealthy foreigners to make inroads with the White House. New York attorney Kenneth McCallion said he was approached by federal investigators earlier this year about Giuliani's connections to Lev Parnas and Igor Fruman, the two men indicted last week on campaign finance violation charges. McCallion said he was approached this spring about Giuliani's business dealings again by FBI counterintelligence agents. ([USA Today](https://www.usatoday.com/story/news/politics/2019/10/15/trump-lawyer-rudy-giuliani-ukraine-business-investigation/3986079002/) / [CNN](https://www.cnn.com/2019/10/16/politics/giuliani-counterintelligence-probe/index.html))
 
 * **A Giuliani business associated was arrested and charged with participating in a scheme to use foreign money to build political support for a recreational marijuana business**. David Correia is the fourth defendant arrested in a campaign finance case involving Giuliani. The business relationship between Giuliani and Correia, Lev Parnas, and Igor Fruman is the subject of an ongoing criminal investigation being conducted by federal authorities in New York. ([ABC News](https://abcnews.go.com/Politics/4th-defendant-federal-case-involving-rudy-giuliani-clients/story?id=66319648) / [New York 4](https://www.nbcnewyork.com/news/local/David-Correia-Arrest-Campaign-Finance-Laws-Rudy-Giuliani-New-York-563212841.html) / [Washington Post](https://www.washingtonpost.com/national-security/fourth-defendant-in-giuliani-associates-case-arrested-at-new-york-airport/2019/10/16/2c3ea19e-f024-11e9-89eb-ec56cd414732_story.html))
 
@@ -37,4 +47,4 @@ image: "/uploads/1000.jpg"
 
 7/ **Trump's businesses reported some expenses, profits, and occupancy figures for two Manhattan buildings to make them appear more profitable to the lender** — and less profitable to the tax authorities. ([ProPublica](https://www.propublica.org/article/trump-inc-podcast-never-before-seen-trump-tax-documents-show-major-inconsistencies))
 
-poll/ **52% of Americans say Trump should be impeached and removed from office**, while 46% say he should not be. ([Gallup](https://news.gallup.com/poll/267491/congress-approval-support-impeaching-trump.aspx))a
+poll/ **52% of Americans say Trump should be impeached and removed from office**, while 46% say he should not be. ([Gallup](https://news.gallup.com/poll/267491/congress-approval-support-impeaching-trump.aspx))

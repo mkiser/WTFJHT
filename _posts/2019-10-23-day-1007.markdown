@@ -1,6 +1,6 @@
 ---
 title: Day 1007
-date: 2019-10-23 12:10:00 -07:00
+date: 2019-10-23 15:10:00 -07:00
 description: '"This whole thing is about corruption."'
 image: "/uploads/1007.jpg"
 todayInOneSentence: Ukraine knew that Trump had frozen $391 million in security assistance

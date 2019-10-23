@@ -1,6 +1,5 @@
 ---
 title: What The Fuck Just Happened Today?
-is_away_mode: true
 timezone: America/Los_Angeles
 collections:
   authors:
@@ -108,6 +107,7 @@ defaults:
   values:
     sitemap: false
     metatags: noindex, follow
+is_away_mode: true
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential guide to the daily shock and awe in national politics.

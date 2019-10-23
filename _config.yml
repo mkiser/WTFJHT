@@ -1,5 +1,6 @@
 ---
 title: What The Fuck Just Happened Today?
+is_away_mode: true
 timezone: America/Los_Angeles
 collections:
   authors:
@@ -32,7 +33,6 @@ defaults:
     description: ''
     image: ''
     todayInOneSentence: ''
-    is_away_mode: false
     author: Matt Kiser
     layout: post
     seo:

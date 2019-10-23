@@ -9,7 +9,6 @@ todayInOneSentence: The White House asked Don McGahn to say Trump never obstruct
   and norms" of government; the Pentagon is spending money meant for missiles and
   spy planes on Trump's border wall; and Omarosa wants to join a lawsuit alleging
   that women were underpaid by the Trump campaign.
-is_away_mode: true
 author: Joe Amditis
 ---
 

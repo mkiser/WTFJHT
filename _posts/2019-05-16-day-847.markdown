@@ -7,7 +7,6 @@ todayInOneSentence: The U.S. military will build six tent cities near border for
   Trump's immigration plan will emphasizes immigrants' skills over their family ties;
   Trump, frustrated by advisers, is not convinced the time is right to attack Iran;
   and the Missouri Senate passed a bill to ban abortions at 8 weeks.
-is_away_mode: true
 ---
 
 1/ **The U.S. military will build six tent cities near border for migrants**. The tents will likely not be on military bases, and ICE — not the military — will be responsible for migrant detention and custodial support. ([NBC News](https://www.nbcnews.com/politics/immigration/u-s-military-build-6-tent-cities-border-migrants-n1006161))

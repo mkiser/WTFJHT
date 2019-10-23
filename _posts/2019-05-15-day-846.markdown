@@ -9,7 +9,6 @@ todayInOneSentence: The White House rejected Congress' authority and demands for
   commitment to combat online extremism; Alabama passed a near-complete ban on abortions
   with no exceptions for case that involve rape or incest; and Trump Tower is now
   one of the least desirable luxury buildings in New York City.
-is_away_mode: true
 author: Joe Amditis
 ---
 

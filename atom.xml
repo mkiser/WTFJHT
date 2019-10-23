@@ -28,7 +28,7 @@ layout:
     </author>
    <content type="html">
 
-    {% if post.is_away_mode == true %}
+    {% if site.is_away_mode == true %}
       {% include away_mode.html %}
     {% endif %}
 

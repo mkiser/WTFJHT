@@ -9,7 +9,6 @@ todayInOneSentence: The White House is reviewing plans to attack Iran; global st
   Trump promised not to use stolen material as part of his 2020 campaign; he praised
   Hungary's authoritarian leader; and newly obtained photos show migrant children
   and families sleeping on the ground at a detention camp in Texas.
-is_away_mode: false
 author: Joe Amditis
 ---
 

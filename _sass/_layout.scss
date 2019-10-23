@@ -8,12 +8,10 @@
 }
 
 footer {
-  padding: 2em 2em 1em 2em;
+  padding: 1em 0em 1em 0em;
   background-color: #222;
   color: $gray-3;
   margin-top: 2em;
-
-
 
   display: flex;
   min-height: 100vh;
@@ -21,12 +19,12 @@ footer {
   flex: 1;
 
   .ft-main {
-    padding: 1.25rem 1.875rem;
+    padding: 1rem 0 1rem 0;
     display: flex;
     flex-wrap: wrap;
   }
   .ft-main-item {
-      padding: 1.25rem;
+      padding: 1rem;
       min-width: 12.5rem /*200px*/;
   }
   h2.ft-title {
@@ -35,7 +33,7 @@ footer {
     color: $gray-1;
   }
   .ft-social {
-      padding: 0 1.875rem 1.25rem;
+      padding: 0 1rem 1rem;
   }
   .ft-social-list {
       display: flex;
@@ -49,7 +47,7 @@ footer {
   }  
 
   .ft-legal {
-      padding: 0.9375rem 1.875rem;
+      padding: 1rem 1rem;
       background-color: #333;
   }
   .ft-legal-list {

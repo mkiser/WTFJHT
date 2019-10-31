@@ -40,6 +40,6 @@ image:
 
 > ***The daily summation of news paints a clear and pointed picture of the morass**. By putting together these various - attributed - articles in one concise blog, even someone who graduated at the bottom of his class at the Wharton School could understand the mess we are in. –Bob G.*
 
-> ***A shining light in a cave full of shit**. –Joe P. 
+> ***A shining light in a cave full of shit**. –Joe P.* 
 
 **Still not convinced?** Here's what the <a href="{{ site.baseurl }}/press">smartest people on the internet are saying about WTFJHT</a>. 

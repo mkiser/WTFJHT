@@ -1,5 +1,5 @@
 ---
-title: '1029'
+title: Day 1029
 date: 2019-11-14 13:56:00 -08:00
 description: Not even a little bit.
 image: "/uploads/1029.jpg"

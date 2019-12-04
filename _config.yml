@@ -16,10 +16,10 @@ collections:
     output: true
   topics:
     title: Topics
-    output: true
+    output: false
   uploads:
     title: Uploads
-    output: true
+    output: false
   whatwelearned:
     title: What We Learned
     output: false
@@ -263,6 +263,9 @@ plugins:
 - jekyll-archives
 - jekyll-include-cache
 - jekyll-algolia
+polls_get:
+  data: polls
+  csv: 'https://projects.fivethirtyeight.com/trump-approval-data/approval_topline.csv'
 onebox:
   whitelist:
   - nbcnews.com

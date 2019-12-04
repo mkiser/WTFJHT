@@ -18,6 +18,8 @@ GEM
     ffi (1.9.25)
     filesize (0.1.1)
     forwardable-extended (2.6.0)
+    hash-joiner (0.0.7)
+      safe_yaml
     htmlentities (4.3.4)
     http_parser.rb (0.6.0)
     httpclient (2.8.3)
@@ -98,6 +100,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  hash-joiner
   jekyll (~> 3.6)
   jekyll-algolia (~> 1.0)
   jekyll-archives (= 2.1.1)

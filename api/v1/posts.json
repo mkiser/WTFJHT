@@ -1,5 +1,6 @@
 ---
 ---
+
 {
   "Last updated" : "{{ 'now' | date: '%Y-%m-%d' }}",
   "today" : "{%- for post in site.posts limit:1 -%}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{%- endfor -%}",

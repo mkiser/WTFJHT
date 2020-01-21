@@ -122,17 +122,20 @@ plugins_dir: _plugins
 layouts_dir: _layouts
 data_dir: _data
 includes_dir: _includes
-paginate: 1
-paginate_path: "/page/:num/"
+# paginate: 1
+# paginate_path: "/page/:num/"
 twitter:
   username: WTFJHT
 encoding: utf-8
-kramdown:
-  smart_quotes:
-  - apos
-  - apos
-  - quot
-  - quot
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "UNSAFE"]
+# kramdown:
+#   smart_quotes:
+#   - apos
+#   - apos
+#   - quot
+#   - quot
 social:
   name: Matt Kiser
   links:
@@ -158,6 +161,7 @@ version: 1.0.0
 github:
   repo: https://github.com/mkiser/WTFJHT
 exclude:
+- .jekyll-cache
 - vendor
 - Gemfile
 - Gemfile.lock
@@ -260,7 +264,8 @@ jekyll-archives:
     month: "/archive/:year/:month/"
 plugins:
 - jekyll-redirect-from
-- jekyll-paginate
+# - jekyll-paginate
+- jekyll-commonmark
 - jekyll-seo-tag
 - jekyll-sitemap
 - jekyll-extlinks

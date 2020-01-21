@@ -9,7 +9,6 @@
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/riveted.min.js"></script>
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js"></script>
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/rrssb.min.js"></script>
-
   <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
   <script src="{{ site.url }}{{ site.baseurl }}/public/js/oneFuck.js"></script>
 
@@ -25,13 +24,48 @@
   -->
 
   <script>riveted.init();</script>
-  {% include_cached chat.html %}
-  {% include_cached audio.html %}
+  <script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js"></script>
+  <script>
+    audiojs.events.ready(function() {
+      var as = audiojs.createAll();
+    });
+  </script>
+  <!-- <script type="text/javascript">
+  (function(w,d){
+    w.HelpCrunch=function(){w.HelpCrunch.q.push(arguments)};w.HelpCrunch.q=[];
+    function r(){var s=document.createElement('script');s.async=1;s.type='text/javascript';s.src='https://widget.helpcrunch.com/';(d.body||d.head).appendChild(s);}
+    if(w.attachEvent){w.attachEvent('onload',r)}else{w.addEventListener('load',r,false)}
+  })(window, document)
+  </script>
 
+  <script type="text/javascript">
+    HelpCrunch('init', 'wtfjusthappenedtoday', {
+      applicationId: 1,
+      applicationSecret: '0l4WzAOZKrMUhfZpw5DKk4AGtqz33rvLNcC+WApl2r3Cru0zZWOMdnWT6MFi3C7pmer2ptjG4U9HCmuZMuxrQA=='
+    });
+
+    HelpCrunch('showChatWidget');
+  </script>
+  -->
   {% if page.layout == 'post' %}
     {% include_cached anchors.html %}
     {% include todaylastyear.html %}
   {% endif %}
 
-  {% include_cached scrolldepth.html %}
-  {% include clickEvent.html %}
+  <script>
+  jQuery(function() {
+    jQuery.scrollDepth({
+      userTiming: false,
+      pixelDepth: false
+    });
+  });
+  </script>
+  <script>
+    $(".external").on("click", function() {
+      ga('send', 'event', {
+        eventCategory: 'Outbound Link',
+        eventAction: 'click',
+        eventLabel: $(this).attr('href')
+      });
+    });
+  </script>

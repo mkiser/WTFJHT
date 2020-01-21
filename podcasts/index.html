@@ -28,7 +28,9 @@ image: "/public/wtf-pod.jpg"
 <div>
 	<h2 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ ep.title }}</a></h2>
 	<p class="pod-desc">{{ ep.date | date: "%A, %B %d, %Y" }}</p>
-	{% include pod.html %}
+	<div class="pod">
+       <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
+  	</div>
 </div>
 
 <hr> 
@@ -40,7 +42,9 @@ image: "/public/wtf-pod.jpg"
     <li>
     	<h3 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ ep.title }}</a></h3>
 		<p class="pod-desc">{{ ep.date | date: "%A, %B %d, %Y" }}</p>
-		{% include pod.html %}
+		<div class="pod">
+        	<audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
+      </div>
 	</li>
 	<hr>
 {% endfor %}

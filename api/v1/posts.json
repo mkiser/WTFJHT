@@ -70,7 +70,7 @@
       {%- assign polldata = poll.modeldate -%}
       {%- assign date = post.date | date: "%-m/%-d/%Y" -%}
       {%- if polldata == date and poll.subgroup == "All polls" -%}
-      "polls" : {
+      "approvalRating" : {
         "approve" : "{{ poll.approve_estimate }}",
         "disapprove" : "{{ poll.disapprove_estimate }}"
       },
@@ -80,7 +80,7 @@
       {%- assign polldata = poll.modeldate -%}
       {%- assign date = post.date | date: "%-m/%-d/%Y" -%}
       {%- if polldata == date and poll.subgroup == "All polls" and poll.party == "all" and poll.category_group == "all" -%}
-      "impeachmentPolls" : {
+      "impeachmentRating" : {
         "support" : "{{ poll.yes_estimate }}",
         "dontSupport" : "{{ poll.no_estimate }}"
       },

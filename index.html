@@ -20,7 +20,7 @@ seo:
     {% include note.html %}
   {% endif %}
 
-  {% for page in paginator.posts %}
+  {% for page in site.posts limit:1 %}
   <article class="post">
     {% if page.is_away_mode == true %}
       {% include away_mode.html %}
@@ -56,7 +56,9 @@ seo:
 
     {% assign ep = site.podcasts | where: 'post', page.title | first %}
     {% if ep %}
-      {% include pod.html %}
+      <div class="pod">
+        <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
+      </div>
       <small class="post-date pod-subscribe" style="margin-top: -2em; color: #9a9a9a;">
         Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3?si=3bkunuqCT2-GltqAEhX9pA">Spotify</a>, <a href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&amp;isi=691797987&amp;ius=googleplaymusic&amp;link=https://play.google.com/music/m/I5fj7gzxpepkfvuzymxavcvok5y?t%3DWTF_Just_Happened_Today%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16">Google Podcast</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
       </small>
@@ -64,48 +66,29 @@ seo:
 
     <div class="post-content">
       {{ page.content }}
+      <div><span id="todaylastyear"></span><div>
+      <div><span id="todaytwoyearsago"></span></div>
+      <div><span id="todaythreeyearsago"></span></div>
     </div>
     {% include_cached email.html %}
 
     {% include social.html %}
   </article>
-  {% endfor %} 
 </div> 
 
 <!-- pagination -->
-{% if paginator.total_pages > 1 %}
 <div class="pagination"> 
-  {% if paginator.previous_page %}
-    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
-  {% endif %}
-  
-  {% capture prevpage %}{{ paginator.next_page | minus:2 }}{% endcapture %}
-  {% capture nextpage %}{{ paginator.previous_page | plus: 2 }}{% endcapture %}
-
-    {% for page in (1..nextpage) %}
-    {% if page == paginator.page %}
-      <span>{{ page }}</span>
-    {% elsif page < 1 %}
-      
-    {% elsif page == 1 %}
-      <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.baseurl }}{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a>
+  <div class="next-prev">
+    {% if page.previous.url %}
+      <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
     {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
+    {% if page.next.url %}
+      <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+    {% endif %}
+  </div>
 </div>
-{% endif %}
-
+{% endfor %} 
 <div class="next-prev">
     <p>Or check the <a href="{{ site.baseurl }}/archive/">archives</a></p>
 </div>
-
 

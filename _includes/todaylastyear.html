@@ -1,8 +1,11 @@
 <script>
 	$.getJSON("/api/v1/random.json", function(data) {
-	    var url = document.location.href;
+		if (document.location.href == "https://whatthefuckjusthappenedtoday.com/") {
+			var url = "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+		} else {
+	    	var url = document.location.href;
+		}
 	    for (i = 0; i < data.length; i++) { 
-	    	// If href = homepage, get cannonical url; else do the rest
 	    	if (data[i].href == url){    
 			    var lastYear = new Date(data[i].date.fullDate);
 				var todayLastYear = lastYear.getFullYear() - 1;

@@ -26,6 +26,10 @@ layout: page
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
+* [Mail Tester](https://www.mail-tester.com/)
+
+* [Postmaster Tools](https://postmaster.google.com/)
+
 ---
 
 **URL Builder**

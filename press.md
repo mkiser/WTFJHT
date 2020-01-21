@@ -76,6 +76,9 @@ Transparency and an approachable tone, as well as his efforts to engage with his
 25/ **WTF just happened today? Ask Matt Kiser.** 
 “I think there’s a lot of people who give a shit about what’s going on and feel really shitty [about not understanding],” he says. “That’s a big part of what I do: Help them check in on their own terms." ([The Everygrey](https://theevergrey.com/wtf-just-happened-today-trump-white-house-matt-kiser/){:target="_blank"})
 
+26/ **Seattle man’s website helps millions figure out the daily tumult in the other Washington**.
+There was a break in the recent impeachment proceedings, which is why Matt Kiser could come out for coffee. He was temporarily free from the political news cycle for the first time in a very long time. “It’s feels like it never stops,” Kiser said. “I have an abundance of information and a scarcity of time.” ([The Seattle Times](https://www.seattletimes.com/seattle-news/seattle-mans-website-helps-millions-figure-out-the-daily-tumult-in-the-other-washington/){:target="_blank"})
+
 <center>
 {% twitter https://twitter.com/amyoleary/status/827006733142851587 hide_media=true %}
 {% twitter https://twitter.com/DaveLeeBBC/status/830907636006547456 hide_media=true %}

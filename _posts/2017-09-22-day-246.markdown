@@ -6,7 +6,7 @@ image: "/uploads/246.jpg"
 author: Clayton Aldern
 ---
 
-1/ **Following Trump's United Nations speech, North Korea threatened to detonate a hydrogen bomb in the Pacific**. Kim Jong Un in a statement said Trump would "pay dearly" for his words and that North Korea would enact the "highest level of hardline countermeasure in history." The North Korean foreign minister clarified this phrase, suggesting it could refer to an H-bomb. ([Financial Times](https://www.ft.com/content/199a98be-9ee0-11e7-8cd4-932067fbf946) / [New York Times](https://www.nytimes.com/2017/09/21/world/asia/kim-trump-rocketman-dotard.html))
+1/ **Following Trump's United Nations speech, North Korea threatened to detonate a hydrogen bomb in the Pacific**. Kim Jong Un in a statement called Trump a "mentally deranged U.S. dotard" who would "pay dearly" for his words, and that North Korea would enact the "highest level of hardline countermeasure in history." The North Korean foreign minister clarified this phrase, suggesting it could refer to an H-bomb. ([Financial Times](https://www.ft.com/content/199a98be-9ee0-11e7-8cd4-932067fbf946) / [New York Times](https://www.nytimes.com/2017/09/21/world/asia/kim-trump-rocketman-dotard.html))
 
 {% twitter https://twitter.com/realDonaldTrump/status/911175246853664768
 \%}

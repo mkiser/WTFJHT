@@ -2,22 +2,32 @@
 	$.getJSON("/api/v1/random.json", function(data) {
 	    var url = document.location.href;
 	    for (i = 0; i < data.length; i++) { 
+	    	// If href = homepage, get cannonical url; else do the rest
 	    	if (data[i].href == url){    
 			    var lastYear = new Date(data[i].date.fullDate);
 				var todayLastYear = lastYear.getFullYear() - 1;
 				lastYear.setFullYear(todayLastYear);
 				lastYear = lastYear.toISOString().slice(0,10);
+				
 			    var twoYears = new Date(data[i].date.fullDate);
 				var twoYearsAgo = twoYears.getFullYear() - 2;
 				twoYears.setFullYear(twoYearsAgo);
 				twoYears = twoYears.toISOString().slice(0,10);
 			    
+			    var threeYears = new Date(data[i].date.fullDate);
+				var threeYearsAgo = threeYears.getFullYear() - 3;
+				threeYears.setFullYear(threeYearsAgo);
+				threeYears = threeYears.toISOString().slice(0,10);
+
 	    		for (j = 0; j < data.length; j++) { 
 		    		if (data[j].date.date == lastYear) {
 		    			document.getElementById('todaylastyear').innerHTML = "<small><strong>Last year today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a></small>";
 		    		}
 				if (data[j].date.date == twoYears) {
 		    			document.getElementById('todaytwoyearsago').innerHTML = "<small><strong>Two years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a></small>";
+		    		}
+		    	if (data[j].date.date == threeYears) {
+		    			document.getElementById('todaythreeyearsago').innerHTML = "<small><strong>Three years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a></small>";
 		    		}
 				
 	    		}    	

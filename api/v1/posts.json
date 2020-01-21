@@ -67,6 +67,16 @@
       },
       {%- endif -%}
       {%- endfor -%} 
+      {%- for poll in site.data.impeachment_polls -%}
+      {%- assign polldata = poll.modeldate -%}
+      {%- assign date = post.date | date: "%-m/%-d/%Y" -%}
+      {%- if polldata == date and poll.subgroup == "All polls" and poll.party == "all" and poll.category_group == "all" -%}
+      "impeachmentPolls" : {
+        "support" : "{{ poll.yes_estimate }}",
+        "dontSupport" : "{{ poll.no_estimate }}"
+      },
+      {%- endif -%}
+      {%- endfor -%} 
       "date"  : {
         "day"   : "{{ post.date | date: "%d" }}",
         "month" : "{{ post.date | date: "%B" }}",

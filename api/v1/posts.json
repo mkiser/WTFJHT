@@ -19,6 +19,7 @@
     {%- assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 -%}
     {%- assign todayLastYear = dateStart | minus: 31536000 | date: '%Y-%m-%d' -%}
     {%- assign todayTwoYearsAgo = dateStart | minus: 63072000 | date: '%Y-%m-%d' -%}
+    {%- assign todayThreeYearsAgo = dateStart | minus: 94608000 | date: '%Y-%m-%d' -%}
     {
       "title" : {{ post.title | jsonify }},
       "desc"  : {{ post.description | jsonify }},
@@ -50,6 +51,14 @@
       {%- endif -%}
       {%- if date == todayTwoYearsAgo -%}
       "todayTwoYearsAgo"  : {
+        "title" : {{ p.title | jsonify }},
+        "desc"  : {{ p.description | jsonify }},
+        "href"  : "{{ site.url }}{{ site.baseurl }}{{ p.url }}",
+        "date"  : "{{ p.date }}"
+      },
+      {%- endif -%}
+      {%- if date == todayThreeYearsAgo -%}
+      "todayThreeYearsAgo"  : {
         "title" : {{ p.title | jsonify }},
         "desc"  : {{ p.description | jsonify }},
         "href"  : "{{ site.url }}{{ site.baseurl }}{{ p.url }}",

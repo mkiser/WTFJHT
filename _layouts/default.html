@@ -6,13 +6,7 @@
       <nav class="wtf-pagination">
         <div class="menu">
           <div><a href="{{ site.url }}{{ site.baseurl }}/">Home</a> | </div>
-          <div>
-            {% for post in site.posts limit:1 %} 
-            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Today</a>{% endfor %} | 
-          </div>
-          <div>
-            {% for post in site.posts limit:1 offset:1 %} <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} | 
-          </div>
+          {% include_cached todayYesterday.html %}
           <div><a href="http://impeachment.wtf/">Impeachment.wtf</a> | </div>
           <div><a href="#" onclick="randomPost();">Random WTF</a> | </div>
           <div><a href="https://currentstatus.io/">Current Status</a> | </div>

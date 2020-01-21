@@ -8,10 +8,8 @@ sitemap: false
 {% include_cached email.html %}
 <article class="post">
   <h1 class="post-title">
-    <a href="{{ site.baseurl }}{{ page.url }}">
-      {{ page.title }}</a>
+      {{ page.title }}
   </h1>
-
 
   <div class="post-date">
     <time datetime="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% endif %}">

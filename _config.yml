@@ -7,7 +7,7 @@ collections:
     output: true
   notes:
     title: Notes
-    output: true
+    output: false
   podcasts:
     title: Podcasts
     output: false
@@ -165,6 +165,10 @@ exclude:
 - survey.md
 - drawing-the-news.html
 - meta
+- 45-for-45
+- bad-news
+- do-something
+# - api/v1/posts.json
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

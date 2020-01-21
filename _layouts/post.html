@@ -5,7 +5,7 @@ layout: default
 {% include_cached email.html %}
 <article class="post">
   {% if site.is_away_mode == true %}
-    {% include away_mode.html %}
+    {% include_cached away_mode.html %}
   {% endif %}
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ page.url }}">

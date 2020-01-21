@@ -105,5 +105,3 @@ The point of this guide isn't to ensure absolute internet security and anonymity
 Let me know what you think [@matt_kiser](https://twitter.com/matt_kiser){:target="_blank"}.
 
 -Matt
-
-{% include h.html %}

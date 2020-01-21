@@ -1,9 +1,9 @@
   <article class="post">
     <h3 class="post-title">
       {% if note.is_promoted == true %}
-        <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+        {{ note.title }}
       {% else %}
-        <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}: {{ note.flag }}</a>
+        {{ note.title }}: {{ note.flag }}
       {% endif %}
     </h3>
     {% if note.last_modified %}
@@ -21,6 +21,5 @@
       </div>
     </div>
     {% endif %}
-
     {{ note.content }}
   </article>

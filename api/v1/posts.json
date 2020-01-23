@@ -1,16 +1,15 @@
 ---
 ---
-
 {
   "Last updated" : "{{ 'now' | date: '%Y-%m-%d' }}",
-  "today" : "{%- for post in site.posts limit:1 -%}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{%- endfor -%}",
+  "today" : "{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ site.posts.first.url | uri_escape }}",
   "yesterday" : "{%- for post in site.posts limit:1 offset:1 -%}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{%- endfor -%}",
-  "daysUntilElection" : {%- for post in site.posts limit:1 -%} 
+  "daysUntilElection" : 
     {%- assign dateStart = 'now' | date: '%s' -%}
     {%- assign endTimestamp = '2020-11-04 00:00:00 -07:00' | date: '%s' -%}
     {%- assign diffSeconds = endTimestamp | minus: dateStart -%}
     {%- assign diffDays = diffSeconds | divided_by: 3600 | divided_by: 24 -%}
-    "{{ diffDays | ceil }}"{%- endfor -%},
+    "{{ diffDays | ceil }}",
   "allPosts" : [
     {%- for post in site.posts -%}
     {%- assign dateStart = post.date | date: '%s' -%}

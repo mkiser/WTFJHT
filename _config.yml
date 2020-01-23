@@ -130,6 +130,7 @@ commonmark:
   options:
   - SMART
   - UNSAFE
+incremental: true
 social:
   name: Matt Kiser
   links:
@@ -168,6 +169,7 @@ exclude:
 - 45-for-45
 - bad-news
 - do-something
+# - api/v1/posts.json
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

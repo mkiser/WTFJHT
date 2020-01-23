@@ -29,7 +29,7 @@ poll/ **Obama and Hillary Clinton are the most admired man and woman in the Unit
 
 poll/ **26% of Americans think Trump's Twitter use is appropriate**, with 59% disapproving and 15% unsure. ([The Hill](http://thehill.com/homenews/media/366597-poll-few-see-trumps-twitter-use-as-appropriate))
 
-poll/ **44% of Republicans think Trump successfully repealed the <a href="{{ site.url }}{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a>**. Overall, 31% believe Trump repealed the <a href="{{ site.url }}{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a>, 49% say he hasn’t, and 21% aren't sure. ([Vox](https://www.vox.com/2017/12/27/16822748/republicans-trump-repeal-obamacare))
+poll/ **44% of Republicans think Trump successfully repealed the Affordable Care Act**. Overall, 31% believe Trump repealed the Affordable Care Act, 49% say he hasn’t, and 21% aren't sure. ([Vox](https://www.vox.com/2017/12/27/16822748/republicans-trump-repeal-obamacare))
 
 poll/ **52% of Americans say the U.S. is less respected in the world than a year ago**. 21% said they think the U.S. became more respected in the world and 26% think there was no change. ([The Hill](http://thehill.com/blogs/blog-briefing-room/news/366587-poll-most-say-us-became-less-respected-in-the-world-in-2017))
 

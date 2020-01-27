@@ -1,6 +1,6 @@
 ---
 title: Day 1103
-date: 2020-01-27 09:33:00 -08:00
+date: 2020-01-27 15:30:00 -08:00
 description: A colorful distraction.
 image: "/uploads/1103.jpg"
 todayInOneSentence: Trump’s team continued with their opening statements, arguing

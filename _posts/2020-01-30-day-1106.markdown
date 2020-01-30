@@ -1,6 +1,6 @@
 ---
 title: Day 1106
-date: 2020-01-30 12:25:00 -08:00
+date: 2020-01-30 15:21:00 -08:00
 description: Bogus claims.
 image: "/uploads/1106.jpg"
 todayInOneSentence: 'The Senate reconvened for the final day of written questions;

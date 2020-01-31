@@ -7,7 +7,7 @@ description: WTF Just Happened Today's daily coverage of Trump's impeachment sta
   Presented in chronological order and faithfully reproduced – typos and all! – from
   the original blog posts.
 author: Matt Kiser
-layout: post
+layout: page
 ---
 
 *WTF Just Happened Today's daily coverage of Trump's impeachment starting with the whistleblower complaint and ending with Trump's acquittal in the Senate. Presented in chronological order and faithfully reproduced – typos and all! – from the [original blog posts](https://whatthefuckjusthappenedtoday.com/).*

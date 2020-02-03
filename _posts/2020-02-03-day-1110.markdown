@@ -1,6 +1,6 @@
 ---
 title: Day 1110
-date: 2020-02-03 11:21:00 -08:00
+date: 2020-02-03 14:21:00 -08:00
 description: '"History will not be kind to Donald Trump."'
 image: "/uploads/1110.jpg"
 todayInOneSentence: House impeachment managers and Trump’s lawyers delivered their

@@ -1,6 +1,6 @@
 ---
 title: Day 1118
-date: 2020-02-11 11:19:00 -08:00
+date: 2020-02-11 14:07:00 -08:00
 description: Excessive.
 image: "/uploads/1118.jpg"
 todayInOneSentence: Trump’s Justice Department will overrule its own prosecutors and

@@ -37,7 +37,7 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 **I don't have any money. How can I help?** Non-financial forms of membership are just as important and impactful as financial forms of membership. The best way to contribute to the success is to share it with your friends and family. It's free and has a big impact. <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F" target="_blank">Tweet about it</a> or <a href="https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com" target="_blank">share it on Facebook</a>. The next best way to contribute is to [participate in the WTF community forum](https://talk.whatthefuckjusthappenedtoday.com/), submitting links to news and collaborating with other members to make sense of the news. And, finally, you can submit copyedits and fact checks using the "Improve this article" link on every blog post. 
 
-**How do I edit my membership?** If you're on the Memberful platform (most are), you can [sign-in here](https://wtfjht.memberful.com/auth/sign_in). If you're on [DonorBox](https://donorbox.org/user_password_reset/new), this is your sign-in page. And, if you're a Patreon member, [here you go](https://www.patreon.com/login). 
+**How do I edit my membership?** If you're on the Memberful platform (most members are), you can [sign-in here](https://wtfjht.memberful.com/account). If you're on [DonorBox](https://donorbox.org/user_password_reset/new), this is your sign-in page. And, if you're a Patreon member, [here you go](https://www.patreon.com/login). 
 
 **I don't like the word "fuck."** If you're offended by the word "fuck" on the internet in today's political climate, then I don't know what to tell ya. 
 
@@ -53,20 +53,24 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 **Why don't you publish WTF Just Happened Today in the morning?** It's not called WTF Just Happened Yesterday.
 
-**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Friday, except for federal and market holidays. Below is the 2019 schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
+**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Friday, except for federal, market holidays, and some random holidays, including Donald Trump's birthday. Below is the 2020 schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
-* **2019**
+* **2020**
 * New Year's Day – January 1
-* Martin Luther King, Jr. Day – January 21
-* President's Day – February 18
-* Good Friday – April 19
-* Memorial Day – May 27
-* Independence Day – July 4
-* Labor Day – September 2
-* Columbus Day – October 14
+* Martin Luther King, Jr. Day – January 20
+* President's Day – February 17
+* Good Friday – April 10
+* Easter – April 12 (observed April 13)
+* Memorial Day – May 25
+* Donald Trump's Birthday – June 14 (observed June 15)
+* Independence Day – July 4 (observed July 3)
+* Labor Day – September 7
+* Columbus Day – October 12
 * Veterans Day – November 11
-* Thanksgiving Day – November 28
+* Thanksgiving Day – November 26
+* Christmas Eve – December 24
 * Christmas Day – December 25
+* New Year's Eve – December 31
 
 ---
 

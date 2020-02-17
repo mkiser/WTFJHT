@@ -15,25 +15,6 @@ The goal is to capture the most important news coming out of the White House in 
 
 What was suppose to be a personal project – a challenge to log the daily shock and awe of the administration's first 100 days – <a href="https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/">has become my full-time job.</a> See? Trump *is* creating jobs.
 
-WTF Just Happened Today publishes Monday-Friday, except for federal, market holidays, and some random holidays, including Donald Trump's birthday.
-
-<p><strong>2020</strong><br>
-New Year's Day – January 1<br>
-Martin Luther King, Jr. Day – January 20<br>
-President's Day – February 17<br>
-Good Friday – April 10<br>
-Easter – April 12 (observed April 13)<br>
-Memorial Day – May 25<br>
-Donald Trump's Birthday – June 14 (observed June 15)<br>
-Independence Day – July 4 (observed July 3)<br>
-Labor Day – September 7<br>
-Columbus Day – October 12<br>
-Veterans Day – November 11<br>
-Thanksgiving Day – November 26<br>
-Christmas Eve – December 24<br>
-Christmas Day – December 25<br>
-New Year's Eve – December 31</p>
-
 **Editorial Policy:**
 This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. Journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. WTF Just Happened Today is a reflection of these ethics, but also applies the following standards and practices:
 

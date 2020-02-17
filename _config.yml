@@ -229,6 +229,7 @@ algolia:
   - _topics/*.markdown
   - _whatwelearned/*
   - page/*/**.html
+  - donald-trumps-impeachment-from-whistleblower-to-acquittal.markdown
   settings:
     searchableAttributes:
     - unordered(content)

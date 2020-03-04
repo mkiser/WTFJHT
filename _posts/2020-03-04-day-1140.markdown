@@ -5,7 +5,7 @@ description: '"A perfect storm."'
 image: "/uploads/1140.jpg"
 todayInOneSentence: Congress reached an agreement on a $8.3 billion emergency spending
   bill to address the coronavirus; Trump blamed Obama for making it harder for his
-  administration to response to the coronavirus outbreak; a coalition of 19 states
+  administration to respond to the coronavirus outbreak; a coalition of 19 states
   are suing to block the Trump administration's diversion of $3.8 billion from the
   Pentagon to the border wall; and the U.S. conducted an airstrike against Taliban
   fighters in Afghanistan days after signing a historic peace deal.
@@ -17,7 +17,7 @@ todayInOneSentence: Congress reached an agreement on a $8.3 billion emergency sp
 
 * **Local health officials in California announced the state’s first COVID-19 death**, bringing U.S. fatalities to at least 11. ([CNBC](https://www.cnbc.com/2020/03/04/california-confirms-first-coronavirus-death-bringing-us-fatalities-to-at-least-11.html))
 
-2/ **Trump blamed Obama for making it harder for his administration to response to the coronavirus outbreak**.  While it's not entirely clear what "decision" Trump was referring to, he called it “very detrimental” and claimed that it hampered his ability to enact widespread testing for the virus. Health experts and government officials during Obama’s presidency, however, said they were unaware of any policy or rule that would have affected the way the FDA approves tests related to the current crisis. ([New York Times](https://www.nytimes.com/2020/03/04/us/politics/coronavirus-trump-obama.html))
+2/ **Trump blamed Obama for making it harder for his administration to respond to the coronavirus outbreak**.  While it's not entirely clear what "decision" Trump was referring to, he called it “very detrimental” and claimed that it hampered his ability to enact widespread testing for the virus. Health experts and government officials during Obama’s presidency, however, said they were unaware of any policy or rule that would have affected the way the FDA approves tests related to the current crisis. ([New York Times](https://www.nytimes.com/2020/03/04/us/politics/coronavirus-trump-obama.html))
 
 3/ **A coalition of 19 states are suing to block the Trump administration's diversion of $3.8 billion from the Pentagon to the border wall**. The states – California, Colorado, Connecticut, Hawaii, Illinois, Maine, Maryland, Massachusetts, Michigan, Minnesota, Nevada, New Jersey, New Mexico, New York, Oregon, Rhode Island, Vermont, Virginia, and Wisconsin – argue that redirecting money already allocated by lawmakers violates Congress' appropriation powers. The states also argue that diverting billions from defense programs "will cause damage to their economies, harming their proprietary interests." ([Politico](https://www.politico.com/news/2020/03/03/states-sue-trump-administration-border-wall-119806))
 

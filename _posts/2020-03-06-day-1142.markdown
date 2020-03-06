@@ -1,7 +1,7 @@
 ---
 title: Day 1142
 date: 2020-03-06 15:05:00 -08:00
-description: Contained.
+description: '"Contained."'
 image: "/uploads/1142.jpg"
 todayInOneSentence: The Trump administration claimed that the coronavirus outbreak
   was "contained" even as the number of U.S. cases have surpassed 250 and test kits

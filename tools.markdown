@@ -22,7 +22,7 @@ layout: page
 
 **Debugging**
 
-* [FB Open Graph Object Debugger](https://developers.facebook.com/tools/debug/og/object/)
+* [FB Open Graph Object Debugger](https://developers.facebook.com/tools/debug/)
 
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 

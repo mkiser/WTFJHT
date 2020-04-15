@@ -22,19 +22,19 @@ The easiest way to contribute to WTFJHT is [through our website.][wtfjht-website
 1. Navigate to the article you would like to edit and click on "Improve this
    article."
 
-   > Add link to image here ![]()
+   ![](./images/improve-this-article-link.png)
 
 1. Next, Github will prompt you to fork this repository. Click on "Fork this
    repository" to proceed. You will only need to do this once.
 
-   > Add link to image here ![]()
+   ![](./images/fork-this-project-page.png)
 
    > [Learn about what a "Github fork" is here.][github-fork-docs]
 
 1. Awesome! Now that you have a fork set up, make the changes you want to make
    in the code editor provided.
 
-   > Add link to image here ![]()
+   ![](./images/github-code-editor.png)
 
 1. Once you've made all the changes you would like, craft a message describing
    your changes and press "Propose file change."
@@ -42,18 +42,26 @@ The easiest way to contribute to WTFJHT is [through our website.][wtfjht-website
    > If you want to read more on how to write a commit message, a good article
    > outlining some good starting points [can be found here.][commit-message-article]
 
-   > Add link to image here ![]()
+   ![](./images/propose-file-change-button.png)
 
 1. At this point, your changes are ready to go! To submit your changes, we need
    to create what's called a "pull requests" in Github. In simplest terms, this
    allows you to propose your changes in a format that we can review prior to
-   accepting your change. If you would like to know more, you can [read more
-   here.][github-pr-docs]
+   accepting your change. Once you click on "Propose file change," you should
+   be on a page titled "Comparing changes." Press "Create pull request" to
+   continue.
 
-   > Add link to image here ![]()
+   ![](./images/create-pull-request-button.png)
 
-   > Pro tip: Adding animated gifs to your pull requests gives you cool points. 💯
+   > If you would like to know more about pull requests, [check out Github's documentation here.][github-pr-docs]
+
+1. From here, you can title your pull request and provide some context as to why
+   you made the change. How you structure a pull request is up to you,
+
+   > Pro tip: Adding animated gifs or images to your pull requests gives you
+   > cool points. 💯😎
    > You can do this by adding ![Alternate Text](https://website.com/link-to-gif.gif)
+   > anywhere you'd like to flex your gif / image muscles.
 
 1. Good job, friend! 🙋‍♀️ Now, we wait. Once a repository maintainer
    approves your work, they will merge in your changes! We may have questions
@@ -61,7 +69,13 @@ The easiest way to contribute to WTFJHT is [through our website.][wtfjht-website
    Requests" tab in the project repository. By default, Github will send you
    updates over email as well.
 
-   > Add link to image here ![]()
+   ![](./images/pull-request-tab.png)
+
+1. Thank you for your effort! 🙏❤️ 
+   Taking the time out of your schedule to help improve WTFJHT is immensely
+   appreciated and helps us continue providing quality content for all of our
+   readers. Please reach out if we can improve this documentation or if there's
+   anything we can clarify. 😀
 
 
 [github-signup]: https://github.com/join

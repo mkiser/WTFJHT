@@ -22,11 +22,11 @@ Well, I'm glad it's you! 💪
 If you haven't already, start by making a Github account.
 [You can do that here.][github-signup]
 
-A Github account allows you to interact with Github repositories (Such as this one!)
+A Github account allows you to interact with Github repositories (such as this one!)
 by submitting issues, commenting, and of course, submitting pull requests.
 
 If you want a primer on how Github, or it's underlying technology "git" works,
-[How-To Geek has a good primer.][how-to-geek-article]
+[How-To Geek has a good article here.][how-to-geek-article]
 
 #### How To Submit A Copyedit
 
@@ -53,15 +53,15 @@ The easiest way to contribute to WTFJHT is [through our website.][wtfjht-website
 1. Once you've made all the changes you would like, craft a message describing
    your changes and press "Propose file change."
 
-   > If you want to read more on how to write a good commit message, a good
-   > article outlining some good starting points [can be found here.][commit-message-article]
+   > If you want to read more on how to write a commit message, a good article
+   > outlining some good starting points [can be found here.][commit-message-article]
 
    > Add link to image here ![]()
 
-1. At this point, your changes are ready to go! At this point, we need to create
-   what's called a "pull requests" in Github. In simplest terms, this allows you
-   to propose your changes in a format that we can review prior to accepting
-   your change. If you would like to know more, you can [read more
+1. At this point, your changes are ready to go! To submit your changes, we need
+   to create what's called a "pull requests" in Github. In simplest terms, this
+   allows you to propose your changes in a format that we can review prior to
+   accepting your change. If you would like to know more, you can [read more
    here.][github-pr-docs]
 
    > Add link to image here ![]()
@@ -72,8 +72,8 @@ The easiest way to contribute to WTFJHT is [through our website.][wtfjht-website
 1. Good job, friend! 🙋‍♀️ Now, we wait. Once a repository maintainer
    approves your work, they will merge in your changes! We may have questions
    for you, so check in with your pull request by clicking on the "Pull
-   Requests" tab in the project repository. Github will send notification emails
-   as things change by default, as well.
+   Requests" tab in the project repository. By default, Github will send you
+   updates over email as well.
 
    > Add link to image here ![]()
 

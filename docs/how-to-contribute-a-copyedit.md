@@ -40,10 +40,10 @@ The easiest way to contribute to WTFJHT is [through our website.][wtfjht-website
 1. Once you've made all the changes you would like, craft a message describing
    your changes and press "Propose file change."
 
+   ![](./images/propose-file-change-button.png)
+
    > If you want to read more on how to write a commit message, a good article
    > outlining some good starting points [can be found here.][commit-message-article]
-
-   ![](./images/propose-file-change-button.png)
 
 1. At this point, your changes are ready to go! To submit your changes, we need
    to create what's called a "pull requests" in Github. In simplest terms, this

@@ -60,9 +60,12 @@ The easiest way to contribute to WTFJHT is [through our website.][wtfjht-website
    you made the change. How you structure a pull request is up to you,
 
    > Pro tip: Adding animated gifs or images to your pull requests gives you
-   > cool points. 💯😎
-   > You can do this by adding ![Alternate Text](https://website.com/link-to-gif.gif)
-   > anywhere you'd like to flex your gif / image muscles.
+   > cool points. 💯😎 You can do this by adding the following code anywhere
+   > you'd like to flex your gif / image muscles:
+
+   ```markdown
+   ![Alternate Text](https://website.com/link-to-gif.gif)
+   ```
 
 1. Good job, friend! 🙋‍♀️ Now, we wait. Once a repository maintainer
    approves your work, they will merge in your changes! We may have questions

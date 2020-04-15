@@ -17,6 +17,7 @@ If you want a primer on how Github, or it's underlying technology "git" works,
 #### How To Submit A Copyedit
 
 Once you have a Github account, the next part is cake. 🎂
+
 The easiest way to contribute to WTFJHT is [through our website.][wtfjht-website]
 
 1. Navigate to the article you would like to edit and click on "Improve this

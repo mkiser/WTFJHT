@@ -13,7 +13,7 @@ todayInOneSentence: Trump's new federal guidelines for opening up the country wi
   coal-fired power plants.
 ---
 
-### Daily Damage Report.
+* ### Daily Damage Report.
 
 * **Global**: Total confirmed cases \~2,135,000; Total deaths: \~142,200; Total recoveries: \~541,000. ([Johns Hopkins University](https://coronavirus.jhu.edu/map.html))
 

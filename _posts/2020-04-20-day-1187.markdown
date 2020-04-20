@@ -1,0 +1,69 @@
+---
+title: Day 1187
+date: 2020-04-20 15:53:00 -07:00
+description: '"Complaining."'
+image: "/uploads/1187.jpg"
+todayInOneSentence: U.S. manufacturers shipped just over a billion face masks and
+  more than 25 million protective suits to China  in January and February with encouragement
+  from the Trump administration; Trump blamed governors for not using coronavirus
+  testing capacity available in their states; Trump invoked the Defense Production
+  Act to compel an unnamed company to produce 20 million more coronavirus testing
+  swabs every month; and Trump's campaign is paying Eric Trump's wife and Trump Jr.'s
+  girlfriend $180,000 a year each.
+---
+
+* ### 🔥 Daily Damage Report.
+
+* **🌍 Global**: Total confirmed cases \~2,463,000; Total deaths: \~170,000; Total recoveries: \~644,000. ([Johns Hopkins University](https://coronavirus.jhu.edu/map.html))
+
+* **🇺🇸 U.S.**: Total confirmed cases \~778,000; Total deaths: \~42,000; Total recoveries: \~72,000
+
+* **💰 Markets**: Dow 📉; S&P 500 📉; Nasdaq 📉
+
+* **✏️ The World Health Organization warned that “the worst is yet ahead of us” in the coronavirus outbreak**, reviving the alarm just as many countries ease restrictive measures aimed at reducing its spread. ([NBC News](https://www.nbcnews.com/health/health-news/who-chief-warns-worst-coronavirus-still-ahead-n1188031))
+
+* **✏️ Trump’s plans to reopen the country face major obstacles**. The White House sees doors opening for the economy, but health experts see them, at best, ajar. ([Politico](https://www.politico.com/news/2020/04/18/trump-reopen-country-coronavirus-193182))
+
+* **✏️ Coronavirus in America: The year ahead**. ([New York Times](https://www.nytimes.com/2020/04/18/health/coronavirus-america-future.html))
+
+* **👑 Trump, head of government, leans into antigovernment message**. With his poll numbers fading after a rally-around-the-leader bump, the president is stoking protests against stay-at-home orders. ([New York Times](https://www.nytimes.com/2020/04/20/us/politics/trump-coronavirus.html))
+
+* **💻 Live Blogs**: [New York Times](https://www.nytimes.com/2020/04/20/us/coronavirus-live-news.html) / [Washington Post](https://www.washingtonpost.com/world/2020/04/20/coronavirus-latest-news/) / [NBC News](https://www.nbcnews.com/health/health-news/live-blog/2020-04-20-coronavirus-news-n1187556) / [CNN](https://www.cnn.com/us/live-news/us-coronavirus-update-04-20-20/index.html) / [CNBC](https://www.cnbc.com/2020/04/20/coronavirus-live-updates.html) / [The Guardian](https://www.theguardian.com/world/live/2020/apr/20/coronavirus-us-live-cases-covid-19-donald-trump-andrew-cuomo-latest-news-updates) / [ABC News](https://abcnews.go.com/Health/coronavirus-updates-us-death-toll-tops-40000-stay/story?id=70237290) / [CBS News](https://www.cbsnews.com/live-updates/coronavirus-pandemic-covid-19-latest-news-2020-04-20/) / [Wall Street Journal](https://www.wsj.com/livecoverage/latest-updates/coronavirus?mod=theme_coronavirus-ribbon)
+
+---
+
+1/ **U.S. manufacturers shipped just over a billion face masks and more than 25 million protective suits to China  in January and February with encouragement from the Trump administration**. In those two months, the value of protective items exported from the U.S. to China grew more than 1,000% — from $1.4 million to about $17.6 million. ([Washington Post](https://www.washingtonpost.com/health/us-sent-millions-of-face-masks-to-china-early-this-year-ignoring-pandemic-warning-signs/2020/04/18/aaccf54a-7ff5-11ea-8013-1b6da0e4a2b7_story.html))
+
+* **The Trump administration doesn't have a plan to cover coronavirus treatment for the uninsured** two weeks after pledging to have a plan. ([Politico](https://www.politico.com/news/2020/04/20/coronavirus-treatment-uninsured-195218))
+
+2/ **Trump blamed governors for not using coronavirus testing capacity available in their states**, saying they're "complaining" and that "they don't want to use all of the capacity that we've created." Several Democrat and Republican governors, however, said they face shortages of needed supplies to conduct the tests. Public health experts said widespread testing is a key requirement for safely reopening businesses and returning to something close to normal life, but state health officials and labs have said competition for supplies and questionable results are prolonging the crisis. Trump's own health experts have also acknowledged shortfalls in testing around the country and state officials. ([CNN](https://www.cnn.com/2020/04/18/politics/trump-governors-testing/) / [Wall Street Journal](https://www.wsj.com/articles/coronavirus-testing-hampered-by-disarray-shortages-backlogs-11587328441))
+
+* **Contamination at CDC facilities used to produce the test kit for detecting the coronavirus exacerbated nationwide delays in testing**. ([Washington Post](https://www.washingtonpost.com/investigations/contamination-at-cdc-lab-delayed-rollout-of-coronavirus-tests/2020/04/18/fd7d3824-7139-11ea-aa80-c2470c6b2034_story.html))
+
+* **The federal official overseeing coronavirus testing efforts was forced out of a previous position developing vaccines at Texas A&M University**. Assistant Secretary for Health Brett Giroir, an unofficial member of the White House's coronavirus task force, worked on vaccine projects at the university for eight years and "was told in 2015 he had 30 minutes to resign or he would be fired" from his post at the school. Prior to being fired, Giroir said that his work was so vital that “the fate of 50 million people will rely on us getting this done.” Giroir annual performance evaluation said he was “more interested in promoting yourself” than the health science center where he worked. He also got low marks on being a “team player.” ([Washington Post](https://www.washingtonpost.com/politics/brett-giroir-trumps-testing-czar-was-forced-out-of-a-job-developing-vaccine-projects-now-hes-on-the-hot-seat/2020/04/19/b061b968-7e89-11ea-8de7-9fdff6d5d83e_story.html) / [CNN](https://www.cnn.com/2020/04/20/politics/brett-giroir-coronavirus-vaccine/index.html))
+
+* **Antibody research indicates coronavirus may be far more widespread than known**. Of 3,300 people in California, researchers found that 2.5 to 4.2% of those tested were positive for antibodies – suggesting a far higher past infection rate than the official count. ([ABC News](https://abcnews.go.com/Health/antibody-research-coronavirus-widespread/story?id=70206121))
+
+* **✏️ Antibody test, seen as key to reopening country, does not yet deliver**. The tests, many made in China without FDA approval, are often inaccurate. Some doctors are misusing them. The rollout is nowhere close to the demand. ([New York Times](https://www.nytimes.com/2020/04/19/us/coronavirus-antibody-tests.html))
+
+3/ **Trump invoked the Defense Production Act to compel an unnamed company to produce 20 million more coronavirus testing swabs every month**. While Trump repeatedly referred to the swabs as “easy” to procure, labs and public health officials warned that swab shortages were hurting efforts to ramp up testing nationwide. ([Politico](https://www.politico.com/news/2020/04/19/trump-dpa-testing-swabs-reported-shortages-195721))
+
+4/ **The World Health Organization transmitted real-time information about the coronavirus directly to the Trump administration before Trump froze all U.S. funding**. The Department of Health and Human Services had 17 staff members from HHS working at the WHO in January, including 16 from the CDC, “working on a variety of programs, including COVID-19 and Ebola.” The reporting contrasts Trump’s accusations that the WHO spent late 2019 “severely mismanaging” the response to the virus and was “covering up” information regarding China’s efforts to contain COVID-19. ([Washington Post](https://www.washingtonpost.com/world/national-security/americans-at-world-health-organization-transmitted-real-time-information-about-coronavirus-to-trump-administration/2020/04/19/951c77fa-818c-11ea-9040-68981f488eed_story.html) / [Vox](https://www.vox.com/covid-19-coronavirus-us-response-trump/2020/4/19/21227175/coronavirus-trump-who-information-china-embeds-december) / [CNN](https://www.cnn.com/2020/04/19/politics/white-house-world-health-organization-coronavirus/) / [ProPublica](https://www.propublica.org/article/trumps-own-officials-depended-on-who-to-fight-coronavirus-then-he-turned-against-it))
+
+5/ **The federal government awarded national hotel and restaurant chains millions of dollars in grants before the $349 billion small business program ran out of money**. Thousands of traditional small businesses were unable to get funding as a result (including WTF Just Happened Today – [chip in here](https://whatthefuckjusthappenedtoday.com/membership/), if you can). In all, more than 70 publicly traded companies reported receiving money from the program. ([Washington Post](https://www.washingtonpost.com/business/2020/04/20/white-house-gop-face-heat-after-hotel-restaurant-chains-helped-run-small-business-program-dry/))
+
+* **The Government Accountability Office plans to have  at least 30 CARES Act reviews and audits underway by the end of April**. The office is required, under the $2 trillion in coronavirus relief package, to brief Congress every month and issue a bimonthly public report on its findings. ([Politico](https://www.politico.com/news/2020/04/20/watchdog-trump-coronavirus-audits-192272))
+
+6/ **Trump proposed reopening America’s gyms after a phone call with the head of the company that owns Equinox and SoulCycle**, who also happens to be a Trump supporter. The “Guidelines for Opening Up America Again” included gyms among the businesses that would reopen to the general public during “phase one” of its plan, which struck public health experts as bizarre. ([Daily Beast](https://www.thedailybeast.com/trump-calls-for-reopening-americas-gyms-day-after-call-with-soulcycles-owner))
+
+* **The White House ordered federal agencies to prepare for workers to return to their offices**. Agencies were told to align their reopening plans with those of the states and municipalities where they’re located. ([Bloomberg](https://www.bloomberg.com/news/articles/2020-04-20/white-house-tells-federal-workers-to-prepare-to-return-to-office?srnd=premium&sref=MIBMEEoj))
+
+7/ **Trump's campaign is paying Eric Trump's wife and Trump Jr.'s girlfriend $180,000 a year each** through the campaign manager’s private company, Parscale Strategy. Lara Trump and Kimberly Guilfoyle have been surrogates on the stump and taken on broad advisory roles. ([HuffPost](https://www.huffpost.com/entry/trump-secret-payments-sons-wife-girlfriend_n_5e9a1c46c5b635d25d6c747a) / [New York Times](https://www.nytimes.com/2020/03/09/us/trump-campaign-brad-parscale.html))
+
+8/ **Trump wouldn't say whether or not he plans to pardon Paul Manafort or Roger Stone.** Manafort was convicted of bank and tax fraud and admitted to foreign lobbying-related crimes. Stone was convicted of lying to the FBI about his conversations with members of Trump's 2016 campaign. When asked whether he planned to pardon Stone or Manafort, Trump replied: "You will find out." Trump also referred to the FBI investigators involved the Russia investigation that ultimately led to Manafort's and Stone's convictions as "human scum," and said Stone was "treated unfairly." ([CNN](https://www.cnn.com/2020/04/19/politics/trump-manafort-stone-pardons/index.html) / [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/trump-fbi-mitt-romney-cnn-white-house-coronavirus-briefing-a9473451.html))
+
+* **Rick Gates asked to serve his 45-day jail sentence from his home because of concerns about the coronavirus**. Gates pleaded guilty in February 2018 to one count of conspiracy against the U.S. and one count of making false statements in a federal investigation. The former Trump campaign aide also testified against Manafort. ([Politico](https://www.politico.com/news/2020/04/19/rick-gates-asks-to-serve-sentence-at-home-195846))
+
+poll/ **58% of American voters say they're worried the U.S. will move too quickly to relax stay-at-home restrictions**. 32% say they're more concerned that the U.S. will move too slowly to re-open the U.S. economy. ([NBC News](https://www.nbcnews.com/politics/meet-the-press/poll-six-10-support-keeping-stay-home-restrictions-fight-coronavirus-n1187011) / [Wall Street Journal](https://www.wsj.com/articles/more-americans-fear-lifting-coronavirus-restrictions-too-soon-wsj-nbc-poll-says-11587301203))
+
+poll/ **60% of Americans oppose the protests encouraged by Trump to "reopen" the country**, while 22% say they support the protesters. ([Yahoo News](https://news.yahoo.com/yahoo-news-you-gov-coronavirus-poll-most-americans-reject-antilockdown-protests-124259347.html?soc_src=newsroom&soc_trk=com.apple.UIKit.activity.CopyToPasteboard&.tsrc=newsroom))

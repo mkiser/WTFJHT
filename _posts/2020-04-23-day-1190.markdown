@@ -1,7 +1,7 @@
 ---
 title: Day 1190
 date: 2020-04-23 14:26:00 -07:00
-description: '"The worse is yet to come."'
+description: '"The worst is yet to come."'
 image: "/uploads/1190.jpg"
 todayInOneSentence: More than 26 million Americans filed for unemployment benefits
   over the last five weeks; the House is prepared to pass a bipartisan $484 billion
@@ -74,7 +74,7 @@ todayInOneSentence: More than 26 million Americans filed for unemployment benefi
 
 poll/ **70% of Americans believe the country’s top priority should be to “try to slow the spread of coronavirus by keeping people home and social distancing, even if the economy is hurt in the short term.”** 30%, meanwhile, think the top national priority should instead be to “try to get the economy going by sending people back to work, even if it means more people might be exposed to coronavirus.” ([CBS News](https://www.cbsnews.com/news/americans-prioritize-staying-home-and-worry-restrictions-will-lift-too-fast-cbs-news-poll/) / [Politico](https://www.politico.com/news/2020/04/23/poll-majority-americans-important-to-stay-home-than-return-to-work-203427))
 
-poll/ **80% of Americans say strict shelter-in-place measures are worth it in order to protect people and limit the spread of coronavirus**. 51% say "the worse is yet to come" when it comes to the coronavirus outbreak in the U.S. ([Kaiser Family Foundation](https://www.kff.org/global-health-policy/issue-brief/kff-health-tracking-poll-late-april-2020/))
+poll/ **80% of Americans say strict shelter-in-place measures are worth it in order to protect people and limit the spread of coronavirus**. 51% say "the worst is yet to come" when it comes to the coronavirus outbreak in the U.S. ([Kaiser Family Foundation](https://www.kff.org/global-health-policy/issue-brief/kff-health-tracking-poll-late-april-2020/))
 
 poll/ **29% of voters under 30 say their lives are worse under Trump's leadership**, 39% say their lives are no different, and 15% say their lives are better. ([NPR](https://www.npr.org/2020/04/23/841972028/opposition-to-trump-likely-to-motivate-young-voters-poll-shows))
 

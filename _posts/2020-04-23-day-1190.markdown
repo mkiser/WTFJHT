@@ -16,7 +16,7 @@ todayInOneSentence: More than 26 million Americans filed for unemployment benefi
   coronavirus pandemic.
 ---
 
-* ## 🔥 Daily Damage Report.
+* ### 🔥 Daily Damage Report.
 
 * **🌍 Global**: Total confirmed cases \~2,700,000; Total deaths: \~187,000; Total recoveries: \~731,000. ([Johns Hopkins University](https://coronavirus.jhu.edu/map.html))
 
@@ -28,7 +28,7 @@ todayInOneSentence: More than 26 million Americans filed for unemployment benefi
 
 * **💻 Live Blog**: [New York Times](https://www.nytimes.com/2020/04/23/us/coronavirus-live-news-coverage.html?action=click&module=Spotlight&pgtype=Homepage) / [Washington Post](https://www.washingtonpost.com/world/2020/04/22/coronavirus-latest-news-2/) / [NBC News](https://www.nbcnews.com/health/health-news/live-blog/2020-04-23-coronavirus-news-n1190201) / [CNN](https://www.cnn.com/us/live-news/us-coronavirus-update-04-23-20/index.html) / [The Guardian](https://www.theguardian.com/world/live/2020/apr/23/coronavirus-us-live-house-484bn-crisis-aid-package-trump-cuomo-latest-news-updates) / [ABC News](https://abcnews.go.com/Health/coronavirus-updates-american-red-cross-antibody-tests-id/story?id=70301746) / [CBS News](https://www.cbsnews.com/live-updates/coronavirus-update-covid-19-2020-04-23/) / [CNBC](https://www.cnbc.com/2020/04/23/coronavirus-latest-updates.html) / [Wall Street Journal](https://www.wsj.com/livecoverage/latest-updates/coronavirus?mod=theme_coronavirus-ribbon)
 
-* ### 💡 Insights and Analysis.
+* #### 💡 Insights and Analysis.
 
 * *Rare thing for WTFJHT to share analysis and opinion articles, but it’s also important to gain perspective by contextualizing the news through a variety of viewpoints. So, here you go.*
 

@@ -1,0 +1,64 @@
+---
+title: Day 1195
+date: 2020-04-28 15:09:00 -07:00
+description: '"Can''t imagine why."'
+image: "/uploads/1195.jpg"
+todayInOneSentence: U.S. reported 1 million confirmed coronavirus cases; the U.S.
+  consumer confidence index plunged to its lowest point since June 2014; Trump is
+  expected to invoke the Defense Production Act to classify meat-processing plants
+  as essential infrastructure that must remain open; Trump announced a new federal
+  coronavirus testing "blueprint" for governors lifting stay-at-home restrictions;
+  Trump urged governors to "seriously consider" reopening their public schools; and
+  Trump takes no responsibility for any increase in the number of people misusing
+  disinfectants.
+---
+
+* ### 🔥 Daily Damage Report.
+
+* **🌍 Global**: Total confirmed cases \~3,095,000; Total deaths: \~216,000; Total recoveries: \~920,000. ([Johns Hopkins University](https://coronavirus.jhu.edu/map.html))
+
+* **🇺🇸 U.S.**: Total confirmed cases \~1,005,000; Total deaths: \~58,000; Total recoveries: \~115,000
+
+* **💰 Markets**: Dow 📈; S&P 500 📈; Nasdaq 📈
+
+* **U.S. reported 1 million confirmed coronavirus cases — nearly a third of the global total**. The U.S. also has the world's highest death toll from the virus, with more than 56,700 deaths reported by Tuesday afternoon — more than one-quarter of the 213,000 deaths confirmed around the world. ([CBS News](https://www.cbsnews.com/news/coronavirus-cases-1-million-confirmed-united-states/) / [Wall Street Journal](https://www.wsj.com/articles/coronavirus-latest-news-04-28-2020-11588063873?mod=hp_lead_pos1))
+
+* **The U.S. consumer confidence index plunged to its lowest point since June 2014** – to 86.9, down from 118.8 in March. ([CBS News](https://www.cbsnews.com/news/consumer-confidence-six-year-low/))
+
+* **Trump is expected to invoke the Defense Production Act to classify meat-processing plants as essential infrastructure that must remain open** to head off a disruption to the food supply. The government will provide additional protective gear for employees as well as guidance. ([Bloomberg](https://www.bloomberg.com/news/articles/2020-04-28/trump-says-he-s-issuing-order-for-tyson-s-unique-liability?sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/business/2020/04/28/trump-meat-plants-dpa/) / [Politico](https://www.politico.com/news/2020/04/28/trump-to-order-meat-plants-to-stay-open-215555) / [New York Times](https://www.nytimes.com/2020/04/28/business/economy/trump-meat-food-supply.html?action=click&module=Spotlight&pgtype=Homepage))
+
+* **💻 Live Blog**: [New York Times](https://www.nytimes.com/2020/04/28/us/coronavirus-updates.html) / [Washington Post](https://www.washingtonpost.com/world/2020/04/28/coronavirus-latest-news/) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/) / [NBC News](https://www.nbcnews.com/health/health-news/live-blog/2020-04-28-coronavirus-news-n1194006) / [CBS News](https://www.cbsnews.com/live-updates/coronavirus-latest-updates-2020-04-28/) / [ABC News](https://abcnews.go.com/Health/coronavirus-updates-pandemic-world-listened/story?id=70378215) / [CNN](https://www.cnn.com/us/live-news/us-coronavirus-update-04-28-20) / [The Guardian](https://www.theguardian.com/world/live/2020/apr/28/coronavirus-us-live-congress-may-return-america-reopening-trump-cuomo-latest-news-updates) / [Wall Street Journal](https://www.wsj.com/livecoverage/latest-updates/coronavirus?mod=theme_coronavirus-ribbon) / [CNBC](https://www.cnbc.com/2020/04/28/coronavirus-latest-updates.html)
+
+* #### 👑 Portrait of a President.
+
+* **Inside Donald Trump and Jared Kushner’s two months of magical thinking**. Obsessed with impeachment and their enemies and worried about the stock market, the president and his son-in-law scapegoated HHS Secretary Alex Azar, and treated the coronavirus as mostly a political problem as it moved through the country. ([Vanity Fair](https://www.vanityfair.com/news/2020/04/donald-trump-jared-kushners-two-months-of-magical-thinking))
+
+* **Briefings were "not worth the time," but Trump couldn’t stay away**. Just hours after his own White House officially canceled his planned appearance, the lure of the cameras in the Rose Garden proved too hard to resist. ([New York Times](https://www.nytimes.com/2020/04/27/us/politics/trump-coronavirus-briefings.html))
+
+* **Trump campaign lashes out over "Don't defend Trump" memo**. A strategy memo on coronavirus distributed by the National Republican Senatorial Committee infuriated Trump aides. ([Politico](https://www.politico.com/news/2020/04/27/trump-campaign-china-strategy-memo-213958))
+
+---
+
+1/ **Trump announced a new federal coronavirus testing "blueprint" for governors lifting stay-at-home restrictions**. Trump billed the plan as a "phased and very safe reopening" of the U.S. over the next few months, despite the number of confirmed coronavirus cases in the United States crossing 1 million. Republican and Democratic governors, meanwhile, warned of financial calamity if Washington doesn’t provide relief. ([NBC News](https://www.nbcnews.com/politics/politics-news/trump-lays-out-new-coronavirus-testing-blueprint-states-weigh-reopening-n1193771) / [CNN](https://www.cnn.com/2020/04/28/health/us-coronavirus-tuesday/) / [Washington Post](https://www.washingtonpost.com/politics/as-trump-puts-partisan-spin-on-federal-aid-for-states-republicans-and-democrats-warn-of-coming-financial-calamity/2020/04/27/a542f19e-889a-11ea-8ac1-bfb250876b7a_story.html) / [Wall Street Journal](https://www.wsj.com/articles/coronavirus-latest-news-04-28-2020-11588063873?emailToken=690243bfc7bdb1b92825e673872a91458FqN5r7vLWKHPKF\+6xa4fp7JLCvJK68LlMiU6aZZbfIdtqetcgRfobhEJ5EtTgmA9IbteN/MuYNjEoAMH\+U4Mg%3D%3D&reflink=article_copyURL_share))
+
+* **Trump's guidance puts burden on states to reach COVID-19 testing targets**. ([The Guardian](https://www.theguardian.com/us-news/2020/apr/28/trump-guidance-states-covid-19-testing-targets))
+
+* **Treasury Secretary Steven Mnuchin said states that had poorly managed budgets before coronavirus should not be rescued by the federal government**. Mnuchin said he approves of local governments using coronavirus funding to enforce public safety through law enforcement, but not for revenue lost because of the economic shutdown or “states that were mismanaged” before the pandemic hit. Mitch McConnell, meanwhile, said he is open to providing reeling states and cities with relief, but that he will "insist" Congress limit the liabilities of health care workers, business owners, and employees from lawsuits. ([Bloomberg](https://www.bloomberg.com/news/articles/2020-04-28/mnuchin-says-no-bailout-for-states-with-badly-managed-budgets?sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2020/04/27/mcconnell-aid-states-coronavirus-212424) / [New York Times](https://www.nytimes.com/2020/04/28/business/businesses-coronavirus-liability.html))
+
+* **Mitch McConnell panned Trump's idea of using a coronavirus stimulus bill to fund major infrastructure investment**, saying "We need to keep the White House in the box." ([Axios](https://www.axios.com/mcconnell-gop-senators-trump-coronavirus-ce94c044-0d2d-42d5-8c30-924196da1a42.html))
+
+* **The Federal Reserve plans buy $500 billion in bonds issued by large companies**, but won't require them to limit dividends, executive compensation and stock buybacks, and does not direct the companies to maintain certain employment levels. ([Washington Post](https://www.washingtonpost.com/business/2020/04/28/federal-reserve-bond-corporations/))
+
+2/ **Trump urged governors to "seriously consider" reopening their public schools before the end of the academic year as part of his push to restart the economy**. Trump told the governors on a conference call to "maybe get going on it" because "young children have done very well in this disaster that we've all gone through" and that "a lot of people are wanting to have school openings." Dozens of states, however, already have said it would be unsafe for students to return until the summer or fall. ([CNN](https://www.cnn.com/2020/04/28/politics/trump-governors-call/index.html) / [ABC News](https://abcnews.go.com/Politics/wireStory/trump-urges-states-opening-schools-summer-70377062))
+
+3/ **Attorney General William Barr directed federal prosecutors to look for state and local coronavirus restrictions that go too far or violate constitutional rights.** Barr instructed the assistant attorney general in charge of the Civil Rights Division, along with all 93 U.S. attorneys, to be "on the lookout for state and local directives that could be violating the constitutional rights and civil liberties of individual citizens." Barr warned that many policies "that would be unthinkable in regular times have become commonplace in recent weeks," and said that although some of the restrictions imposed by state and local governments have been necessary to slow the spread of the virus, "there is no denying that they have imposed tremendous burdens on the daily lives of all Americans." ([NBC News](https://www.nbcnews.com/politics/justice-department/barr-directs-prosecutors-look-state-local-stay-home-orders-go-n1193711) / [Washington Post](https://www.washingtonpost.com/news/powerpost/paloma/daily-202/2020/04/28/daily-202-barr-memo-threatening-lawsuits-against-coronavirus-restrictions-is-a-warning-shot/5ea7a78e88e0fa3dea9c4414/?no_nav=true&p9w22b2p=b2p22p9w00098))
+
+4/ **Trump takes no responsibility for any increase in the number of people misusing disinfectants**, despite suggesting that ingesting disinfectants might serve as a coronavirus treatment. When asked about the increase in people improperly using disinfectants, Trump said he "can't imagine why" people might think it was a potential treatment for the virus. When asked if he takes responsibility, Trump said: "No, I don't." ([CNN](https://www.cnn.com/2020/04/27/politics/donald-trump-disinfectants-coronavirus/index.html) / [Independent](https://www.independent.co.uk/news/world/americas/us-politics/donald-trump-coronavirus-ingest-disinfectant-cases-us-white-house-conference-today-a9487106.html))
+
+5/ **Pence toured the Mayo Clinic without a mask despite the medical facility requiring all visitors wear masks to avoid spreading the coronavirus**. The clinic tweeted, then deleted the tweet, that Pence's office was informed of the masking policy prior to his visit. ([CNBC](https://www.cnbc.com/2020/04/28/coronavirus-mike-pence-tours-mayo-clinic-without-mask.html) / [NBC News](https://www.nbcnews.com/politics/white-house/pence-flouts-mayo-clinic-policy-touring-facility-without-mask-n1194556) / [The Guardian](https://www.theguardian.com/us-news/2020/apr/28/mike-pence-face-mask-mayo-clinic-visit-coronavirus) / [New York Times](https://www.nytimes.com/2020/04/22/us/politics/coronavirus-masks.html))
+
+6/ **The House won't return to Washington next week**, abruptly reversing course a day after announcing that it would reconvene next week. The change of course comes after a backlash from members in both parties who warned the move would be unsafe. ([Politico](https://www.politico.com/news/2020/04/28/house-drops-plan-to-return-to-washington-next-week-214714) / [NBC News](https://www.nbcnews.com/politics/congress/reversing-course-house-won-t-return-d-c-next-week-n1194316))
+
+poll/ **66% of Americans say their state's current restrictions on businesses are appropriate**, 17% said they were too restrictive, and 16% said they weren't restrictive enough. 64% said the current restrictions on the size of public gatherings were appropriate, 14% said they were too restrictive, and 22% said they were not restrictive enough. ([Washington Post](https://www.washingtonpost.com/politics/americans-support-state-restrictions-on-businesses-and-halt-to-immigration-during-virus-outbreak-post-u-md-poll-finds/2020/04/27/763249ee-88af-11ea-9dfd-990f9dcc71fc_story.html))
+
+poll/ **89% of Americans are worried about the U.S. economy collapsing during the coronavirus pandemic.** 56% of Republicans worry their communities are opening up too soon, while 88% of Democrats feel the same. ([Axios](https://www.axios.com/axios-ipsos-coronavirus-index-poll-week-7-a4c299b6-307c-4103-8d72-b5cc2b5a37e5.html))

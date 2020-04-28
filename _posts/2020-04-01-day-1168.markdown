@@ -1,0 +1,84 @@
+---
+title: Day 1168
+date: 2020-04-01 15:30:00 -07:00
+description: '"A very heavy price."'
+image: "/uploads/1168.jpg"
+todayInOneSentence: The national emergency stockpile of respirator masks, gloves,
+  and other medical supplies is nearly exhausted; the Trump administration will not
+  reopen the Affordable Care Act’s marketplace to allow uninsured Americans to purchase
+  health care coverage during the coronavirus pandemic; Pence blamed the CDC and China
+  for Trump's delayed response to the coronavirus pandemic; Trump and Mitch McConnell
+  both claimed that the Senate impeachment trial "diverted the attention of the government"
+  from the coronavirus; and White House economists published a study in September
+  that warned a pandemic could kill a half million Americans and devastate the economy.
+---
+
+* **Daily Damage Report.**
+
+* **Global cases:** \~905,000 / Global deaths: \~45,000 ([Johns Hopkins University](https://coronavirus.jhu.edu/map.html))
+
+* **U.S. cases:** \~203,000 / U.S. deaths: \~4,500 ([CNBC](https://www.cnbc.com/2020/04/01/us-coronavirus-cases-top-200000-as-virus-spreads-and-testing-ramps-up.html))
+
+* **Global projections:** Infections will eclipse 1 million with 50,000 deaths in a few days, according to the World Health Organization. ([CNBC](https://www.cnbc.com/2020/04/01/global-coronavirus-cases-will-hit-1-million-and-50000-deaths-in-a-few-days-who-officials-say.html))
+
+* **U.S. projections:** 15 days until peak daily deaths of \~2,607. ([U.S. state-by-state projections](https://covid19.healthdata.org/projections))
+
+* **The coronavirus outbreak won't peak in every state at once**. Many states will see their individual peaks for resources well after that the April 16 projection. ([Axios](https://www.axios.com/coronavirus-states-peak-hospitals-53274e0e-69b8-4dc7-b069-fb27955c559a.html))
+
+* **Unemployment: The Department of Labor is expected to report between 4.5 million and 5.5 million new unemployment claims tomorrow**. Last week, more than 3 million people filed for unemployment from March 15 to March 21 – the largest single-week increase in American history. ([New York Times](https://www.nytimes.com/interactive/2020/04/01/upshot/coronavirus-jobless-claims-forecast-predictions.html))
+
+* **Markets: U.S. stocks fell for the third time in four days**. The Dow, S&P 500, and Nasdaq all closed more than 4% lower. ([CNBC](https://www.cnbc.com/2020/03/31/stock-market-futures-open-to-close-news.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-03-31/asia-stocks-to-start-new-quarter-mixed-yen-gains-markets-wrap?srnd=premium&sref=MIBMEEoj))
+
+* **Live Blogs:** [New York Times](https://www.nytimes.com/2020/04/01/world/coronavirus-news.html?action=click&module=Spotlight&pgtype=Homepage) / [Washington Post](https://www.washingtonpost.com/world/2020/04/01/coronavirus-latest-news/) / [NBC News](https://www.nbcnews.com/health/health-news/live-blog/2020-04-01-coronavirus-news-n1173686) / [The Guardian](https://www.theguardian.com/us-news/live/2020/apr/01/us-coronavirus-news-donald-trump-white-house-live-latest) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-03-31/trump-sees-painful-two-weeks-n-y-tops-hubei-virus-update?srnd=premium&sref=MIBMEEoj) 
+
+---
+
+1/ **The national emergency stockpile of respirator masks, gloves, and other medical supplies is nearly exhausted, despite assurances from the White House that there is availability**. “The stockpile was designed to respond to handful of cities. It was never built or designed to fight a 50-state pandemic,” a DHS official said. Trump, meanwhile, has forced states into bidding wars for protective equipment pitting them against each other. New York Gov. Andrew Cuomo condemned the federal government for fueling an “eBay”-style bidding war for ventilators, calling it a “bizarre situation” in which every state buys its own ventilators. ([Washington Post](https://www.washingtonpost.com/national/coronavirus-protective-gear-stockpile-depleted/2020/04/01/44d6592a-741f-11ea-ae50-7148009252e3_story.html) / [Politico](https://www.politico.com/news/2020/04/01/lawmakers-desperate-hunt-supplies-health-workers-157883) / [The Guardian](https://www.theguardian.com/us-news/2020/mar/31/new-york-andrew-cuomo-coronavirus-ventilators))
+
+* **New York City needs 3.3 million N95 masks, 2.1 million surgical mask, 100,000 isolation gowns, and 400 ventilators by Sunday**, Mayor Bill de Blasio said. ([CNBC](https://www.cnbc.com/2020/04/01/new-york-city-needs-3point3-million-n95-masks-and-400-ventilators-by-sunday-mayor-de-blasio-says.html))
+
+* **FEMA requested 100,000 military-style body bags from the Pentagon for civilian use** as the U.S. warns that deaths could soar in the coming weeks from the coronavirus pandemic. ([Bloomberg](https://www.bloomberg.com/news/articles/2020-04-01/pentagon-seeking-100-000-body-bags-for-civilians-in-virus-crisis?srnd=premium&sref=MIBMEEoj))
+
+* **Some hospitals have threatened to fire health care workers who publicize their working conditions during the coronavirus pandemic**. ([Bloomberg](https://www.bloomberg.com/news/articles/2020-03-31/hospitals-tell-doctors-they-ll-be-fired-if-they-talk-to-press))
+
+* **The coronavirus task force placed a moratorium on the United States Agency for International Development's overseas shipments of personal protective gear** after officials discovered that aid to foreign countries wasn't being coordinated with U.S. requests for aid from those same countries. Roughly 280 million masks in the U.S. were purchased by foreign buyers on Monday, according to [Forbes](https://www.forbes.com/sites/daviddisalvo/2020/03/30/i-spent-a-day-in-the-coronavirus-driven-feeding-frenzy-of-n95-mask-sellers-and-buyers-and-this-is-what-i-learned/#5421221356d4). Vessel manifests maintained by U.S. Customs and Border Protection show a steady flow of the medical equipment needed to treat the coronavirus being shipped abroad as recently as March 17. FEMA, meanwhile, said the agency “has not actively encouraged or discouraged U.S. companies from exporting overseas," and has asked USAID to send back its reserves of protective gear stored in warehouses for use in the U.S. ([Politico](https://www.politico.com/news/2020/03/31/pence-task-force-coronavirus-aid-157806) / [The Intercept](https://theintercept.com/2020/04/01/coronavirus-medical-supplies-export/))
+
+* **Trump is considering whether to recommend Americans wear face covers when out in public**, telling reporters that it’s “not a bad idea” to cover your face. "My feeling is, if people want to do it, there's certainly no harm to it. I would say do it," Trump said. "But use a scarf if you want, you know? Rather than going out and getting a mask or whatever." Some members of the coronavirus task force, however, have cautioned against recommending Americans wear masks because it could give them a false sense of protection and prevent them from socially distancing. ([CNN](https://www.cnn.com/2020/04/01/politics/trump-coronavirus-masks/index.html) / [Politico](https://www.politico.com/news/2020/04/01/trump-face-masks-coronavirus-pat-toomey-159485))
+
+* **📌 [Day 1167](https://whatthefuckjusthappenedtoday.com/2020/03/31/day-1167/#2-the-cdc-is-considering-revising-fe): The CDC is considering revising federal coronavirus guidelines for the “community-wide use of masks” in public** — even if they aren’t exhibiting symptoms. The CDC currently does not recommend wearing masks to prevent the spread of coronavirus, but the idea is under “very active discussion” by the White House’s coronavirus task force. The recommendations under consideration would encourage the public to use of a do-it-yourself cloth mask – not N95 masks, which are in short supply. ([Washington Post](https://www.washingtonpost.com/health/cdc-considering-recommending-general-public-wear-face-coverings-in-public/2020/03/30/6a3e495c-7280-11ea-87da-77a8136c1a6d_story.html) / [Politico](https://www.politico.com/news/2020/03/31/fauci-mask-recommendation-coronavirus-157476) / [CNN](https://www.cnn.com/2020/03/31/politics/public-wearing-masks-coronavirus-anthony-fauci-cnntv/index.html) / [Wall Street Journal](https://www.wsj.com/articles/u-s-reviews-guidance-on-masks-to-fight-coronavirus-as-europe-embraces-their-use-11585676543?mod=hp_lead_pos2))
+
+2/ **The Trump administration will not reopen the Affordable Care Act’s marketplace to allow uninsured Americans to purchase health care coverage during the coronavirus pandemic**. Americans who recently lost their jobs will still be able to obtain health insurance – people who lose job-based insurance qualify to enroll, but are required to provide proof that they lost their coverage. A special enrollment period, however, would have made it easier for people to enroll and would have provided an option for people who chose not to buy health insurance this year but want it now. Instead, Trump has promoted short-term health insurance alternatives, which allow enrollment year-round, but the plans offer skimpier coverage and typically exclude insurance protections for preexisting conditions. ([Politico](https://www.politico.com/news/2020/03/31/trump-obamacare-coronavirus-157788) / [New York Times](https://www.nytimes.com/2020/04/01/upshot/obamacare-markets-coronavirus-trump.html) / [NBC News](https://www.nbcnews.com/politics/white-house/trump-admin-will-not-reopen-obamacare-exchanges-during-coronavirus-pandemic-n1173871))
+
+3/ **Pence blamed the CDC and China for Trump's delayed response to the coronavirus pandemic**, saying "I don't believe the President has ever belittled the threat of the coronavirus." Instead, Pence noted that "in mid-January the CDC was still assessing that the risk of the coronavirus to the American people was low" and that "we could've been better off if China had been more forthcoming." A classified intelligence community report concluded that the Chinese government deliberately underreported the total number of coronavirus cases and deaths in the country. Trump, however, has repeatedly downplayed the spread of the coronavirus as "the regular flu" – until yesterday, when he warned of a "painful" and "tough" two-week stretch ahead as he extended nationwide distancing measures that could still mean more than 100,000 and up to 240,000 Americans die from coronavirus. ([CNN](https://www.cnn.com/2020/04/01/politics/mike-pence-coronavirus/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-04-01/china-concealed-extent-of-virus-outbreak-u-s-intelligence-says?sref=MIBMEEoj))
+
+4/ **Trump and Mitch McConnell both claimed that the Senate impeachment trial "diverted the attention of the government" from the coronavirus**, despite warnings at the time from public health experts and members of Congress about the spread of the virus. During a press conference, Trump admitted that "I guess \[impeachment\] probably did" distract him from focusing on his administration's response to the coronavirus, adding "I mean, I got impeached \[...\] I certainly devoted a little time to thinking about it." McConnell, meanwhile, said the outbreak “came up while we were tied down on the impeachment trial. And I think it diverted the attention of the government, because everything every day was all about impeachment." ([USA Today](https://www.usatoday.com/story/news/politics/2020/03/31/coronavirus-trump-says-impeachment-distracted-him-coronavirus/5100694002/) / [Associated Press](https://apnews.com/305cc7ad65f6e080523a32e79edae97f) / [The Hill](https://thehill.com/homenews/senate/490335-mcconnell-impeachment-distracted-government-from-coronavirus-threat) / [Politico](https://www.politico.com/news/2020/03/31/mcconnell-pelosi-draw-coronavirus-battle-lines-157137))
+
+poll/ **47% of voters feel the Trump administration isn’t doing enough to combat the coronavirus outbreak**. ([Politico](https://www.politico.com/news/2020/04/01/poll-trump-coronavirus-bounce-fizzles-158406))
+
+poll/ **44% of Americans support Trump’s response to the pandemic**. ([Associated Press](https://apnews.com/1a7c1f7f226c6d04fa7ca380998a7e9a))
+
+---
+
+### ✏️ Notables.
+
+1. **White House economists published a study in September that warned a pandemic could kill a half million Americans and devastate the economy**. The study specifically urged Americans not to conflate the risks of a typical flu and a pandemic. ([New York Times](https://www.nytimes.com/2020/03/31/business/coronavirus-economy-trump.html))
+
+2. **Sen. Kelly Loeffler and her husband purchased and sold about $1.4 million in stocks and invested in a company that makes COVID-19 protective garments during the coronavirus market panic**. Loeffler's husband, Jeff Sprecher, is chairman of the New York Stock Exchange. ([The Atlanta Journal-Constitution](https://www.ajc.com/news/state--regional-govt--politics/loeffler-reports-more-stock-sales-denies-wrongdoing/YFPDT3pChO873nuzNKa44K/) / [Daily Beast](https://www.thedailybeast.com/sen-loeffler-invested-in-firm-which-makes-protective-medical-garments-says-report) / [Wall Street Journal](https://www.wsj.com/articles/senator-reports-1-4-million-in-stock-trades-during-coronavirus-panic-11585710022))
+
+3. **Trump warned that Iran or an Iran-backed militia would “pay a very heavy price” if it carried out a planned “sneak attack”** on U.S. troops or assets in Iraq. Trump did not provide specific evidence. ([Washington Post](https://www.washingtonpost.com/politics/trump-says-iran-or-its-proxies-planning-a-sneak-attack-warns-of-a-heavy-price/2020/04/01/e598f1ac-743c-11ea-87da-77a8136c1a6d_story.html) / [Reuters](https://www.reuters.com/article/us-iraq-security-trump/trump-warns-iran-against-possible-sneak-attack-on-us-in-iraq-idUSKBN21J6FJ) / [Wall Street Journal](https://www.wsj.com/articles/trump-accuses-iran-or-its-proxies-of-planning-attack-on-u-s-troops-in-iraq-11585763334))
+
+---
+
+### 👑  Portrait of a president.
+
+1. **Trump insists on congratulations while America braces for the worst**. The President's bullish, self-congratulatory rhetoric -- a staple of a presidency that has divided the nation -- is still jarring with the desperate reality of a fast-worsening pandemic that is running out of control. ([CNN](https://www.cnn.com/2020/03/31/politics/donald-trump-coronavirus-politics-2020-election/))
+
+2. **Trump confronts a new reality before an expected wave of death**. Under the best-case scenario presented on Tuesday, more Americans will die from the coronavirus in the weeks and months to come than died in the Korean and Vietnam Wars combined. ([New York Times](https://www.nytimes.com/2020/04/01/us/politics/coronavirus-trump.html))
+
+3. **Journalists challenge Trump's 'revisionist history' regarding coronavirus response**. Trump tried to prepare Americans on Tuesday by saying "hard days" lie ahead. "We're going to go through a very tough two weeks," he said during a 131-minute WH briefing, the longest of his presidency. "In the seven years I have covered the White House, that is the most stunning briefing I have ever sat through," CNN's Jim Acosta said afterward. "To have public health officials come in and try to explain to the American people that they need to come to grips with the fact -- or the very strong likelihood -- that we're going to see 100,000 to 200,000 Americans die over the next couple months from the coronavirus." ([CNN](https://www.cnn.com/2020/03/31/media/donald-trump-coronavirus-response-reliable-sources/index.html))
+
+4. **‘That's a nasty, snarky question’: Trump’s media assault rages on in midst of coronavirus crisis**. Trump’s outbursts may be a sign of a leader cracking under the pressure, if it weren’t for the authoritarian tone. ([The Guardian](https://www.theguardian.com/world/2020/apr/01/us-coronavirus-outbreak-donald-trump-media-latest))
+
+5. **Trump’s Breakdown**. Old traits — bluster, defiance, implacable self-promotion — that once worked well now threaten to sink a presidency. ([Politico](https://www.politico.com/news/magazine/2020/04/01/trump-breakdown-threaten-sink-presidency-158321))
+
+6. **“The Campaign Panicked”: Inside Trump’s decision to back off of his Easter coronavirus miracle**. An impulsive promise led to Fauci pushback. Poll numbers — and a friend in a coma — pushed Trump to reverse course. ([Vanity Fair](https://www.vanityfair.com/news/2020/04/inside-trumps-decision-to-back-off-of-his-easter-coronavirus-miracle))

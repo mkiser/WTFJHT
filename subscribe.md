@@ -20,6 +20,8 @@ image:
 
 > ***WTFJHT has become my lifeline in this new altered reality we live in now**. I feel like I can tune out the chaos because I know I will receive the newsletter at the end of the day and can pursue further topics with the links you provide. I put aside a quiet time in the evening to do so and it makes all the horribleness that occurs each day a bit more manageable. –Laura K.*
 
+> ***I don't need a blow-by-blow accounting of the news**. I continue to want a high-level, conversational summary that leaves me informed and I'm willing to forego details in favor of the summary WTF Just Happened Today provides." –Casey C.*
+
 > ***Thanks to WTF Just Happened Today I don’t have to read the news more than once a day**. My quality of life is higher and I still have a clue about WTF just happened today. –Buster*
 
 > ***WTFJHT is a lifesaver** - a voice of sanity, reliability, and humanity - coming to us out of the darkness and the chaos. –Susan B.*

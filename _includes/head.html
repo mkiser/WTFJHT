@@ -21,42 +21,14 @@
   -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/styles.css" type="text/css">
-  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/algolia.css" type="text/css">
-  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/font-awesome/css/font-awesome.min.css" type="text/css">
-  <link rel="stylesheet" href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" type="text/css">
-  <style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
-  </style>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Poppins" type="text/css">
-  <link href="{{ site.url }}{{ site.baseurl }}/public/css/quiz/slickQuiz.css" media="screen" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/rrssb.css" />
+  {% include_cached css.html %}
   <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/public/favicon.ico" type="image/x-icon">
   <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/public/favicon.ico" type="image/x-icon">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
   <link rel="alternate" type="application/atom+xml" title="Atom - {{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/atom.xml">
   <link rel='alternate' type='application/rss+xml' title='RSS - {{ site.title }}' href="{{ site.url }}{{ site.baseurl }}/rss.xml">
 
-  <link rel="manifest" href="/manifest.json">
-  <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
-  <script>
-    var OneSignal = window.OneSignal || [];
-    OneSignal.push(["init", {
-      appId: "b2203a05-d61e-466f-8655-6184372a478a",
-      autoRegister: true,
-      allowLocalhostAsSecureOrigin: true,
-      // welcomeNotification: {
-      //   "title": "Thanks for subscribing!",
-      //   "message": "We'll only send you one notification a day."
-      // },
-      welcomeNotification: {
-        disable: true
-      },
-      notifyButton: {
-        enable: false
-      }
-    }]);
-  </script>
+  {% include_cached push.html %}
   {% if page.type == 'year' %}
     {% seo title=false %}
     <title>{{ page.date | date: "%Y" }} Archive | {{ site.title}}</title>
@@ -86,7 +58,7 @@
   ga('send', 'pageview');
   </script>
   <meta property="fb:pages" content="1415262761838827" />
-  <script>
+<!-- <script>
     !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
     n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
     n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
@@ -99,21 +71,19 @@
     src="https://www.facebook.com/tr?id=181350185699344&ev=PageView&noscript=1"
     />
   </noscript>
+-->
+
   <script type="text/javascript">
     window.MemberfulOptions = {site: "https://wtfjht.memberful.com"};
-
     (function() {
       var s   = document.createElement('script');
-
       s.type  = 'text/javascript';
       s.async = true;
       s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
-
       setup = function() { window.MemberfulEmbedded.setup(); }
-
       s.addEventListener("load", setup, false);
-
       ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
     })();
-  </script>
+  </script> 
+
 </head>

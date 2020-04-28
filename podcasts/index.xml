@@ -41,7 +41,9 @@ layout:
 <itunes:category text="{{ site.podcast_category }}" />
 <category>{{ site.podcast_category }}</category>
 
-{% for ep in site.podcasts reversed %}
+{%- assign episodes = site.podcasts | reverse -%}
+{% for ep in episodes limit:50  %}
+
   <item>
     <title>{{ ep.title }}</title>
     <guid isPermaLink="false">{{ ep.url }}</guid>

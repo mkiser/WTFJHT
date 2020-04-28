@@ -169,7 +169,6 @@ exclude:
 - 45-for-45
 - bad-news
 - do-something
-# - api/v1/posts.json
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

@@ -39,6 +39,8 @@ layout:
     <height>144</height>
 </image>
 <itunes:category text="{{ site.podcast_category }}" />
+  <itunes:category text="{{ site.podcast_subcategory }}" />
+</itunes:category>
 <category>{{ site.podcast_category }}</category>
 
 {%- assign episodes = site.podcasts | reverse -%}

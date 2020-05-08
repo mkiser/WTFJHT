@@ -1,0 +1,64 @@
+---
+title: Day 1205
+date: 2020-05-08 14:22:00 -07:00
+description: '"Literally off the charts."'
+image: "/uploads/1205.jpg"
+todayInOneSentence: The U.S. unemployment rate jumped to 14.7%; Pence’s press secretary
+  tested positive for coronavirus; a breakdown in communication and coordination within
+  the Trump administration has undermined the distribution of remdesivir; the Trump
+  administration is moving to expand immigration restrictions; Trump signaled uncertainty
+  over the future of FBI Director Christopher Wray a day after the Justice Department
+  decided to drop criminal charges against Michael Flynn; and Senate Republicans are
+  preparing for a swift confirmation process if a vacancy on the Supreme Court opens
+  up before the November election.
+---
+
+* ### 🔥 Daily Damage Report.
+
+* **🌍 Global**: Total confirmed cases \~3,911,000; Total deaths: \~273,000; Total recoveries: \~1,306,000. ([Johns Hopkins University](https://coronavirus.jhu.edu/map.html))
+
+* **🇺🇸 U.S.**: Total confirmed cases \~1,274,000; Total deaths: \~76,500; Total recoveries: \~195,000
+
+* **💰 Markets**: Dow 📈; S&P 500 📈; Nasdaq 📈
+
+* **💻 Live Blog**:
+
+* #### 👑 Portrait of a President.
+
+* **In recent weeks Trump attempted to block and downplay the severity of the coronavirus pandemic, urging a return to normalcy and a reopening of the economy**. The Trump administration has sidelined or replaced officials not seen as loyal, rebuffed congressional requests for testimony, dismissed statistics and models, praised states for reopening without meeting White House guidelines, and pushed to disband a task force created to combat the virus and communicate about the public health crisis. ([Washington Post](https://www.washingtonpost.com/politics/trump-tightens-grip-on-coronavirus-information-as-he-pushes-to-restart-the-economy/2020/05/07/d4a05e42-9068-11ea-a9c0-73b93422d691_story.html))
+
+---
+
+1/ **The U.S. unemployment rate jumped to 14.7% — the highest level since the Great Depression and the worst monthly loss on record**. The U.S. lost a total of 20.5 million jobs in April, roughly double what the nation experienced during the 2007-09 crisis. The "real" unemployment rate, which includes the underemployed and those who aren't currently looking for jobs, jumped to 22.8%. In total, the U.S. has lost roughly 21.4 million jobs since the spread of COVID-19. ([CNBC](https://www.cnbc.com/2020/05/08/jobs-report-april-2020.html) / [Washington Post](https://www.washingtonpost.com/business/2020/05/08/april-2020-jobs-report/) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-05-08/u-s-jobless-rate-triples-to-14-7-in-sharpest-labor-downturn?srnd=premium&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/april-jobs-report-coronavirus-2020-11588888089?mod=hp_lead_pos1) / [New York Times](https://www.nytimes.com/2020/05/08/business/stock-market-coronavirus-jobs-report.html#link-7634dae) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/05/08/852430930/one-for-the-history-books-14-7-unemployment-20-5-million-jobs-wiped-away) / [Politico](https://www.politico.com/news/2020/05/08/when-will-jobs-return-243925) / [Associated Press](https://apnews.com/623da121a91a4951b3bcde201a46120d) / [CNN](https://www.cnn.com/2020/05/08/economy/april-jobs-report-2020-coronavirus/index.html) / [The Hill](https://thehill.com/policy/finance/496723-us-unemployment-rate-spikes-to-xx))
+
+* **The White House is considering pushing the federal tax deadline back again, along with additional measures aimed at providing economic relief for Americans that can be adopted without legislation from Congress**. Tax Day has already been pushed to July 15, but could be extended to Sept. 15, or as late as Dec. 15. ([NBC News](https://www.nbcnews.com/politics/white-house/white-house-considers-measures-boost-economy-without-congress-n1202246))
+
+* **How bad is unemployment?** "Literally off the charts." ([New York Times](https://www.nytimes.com/interactive/2020/05/08/business/economy/april-jobs-report.html))
+
+2/ **Pence’s press secretary tested positive for coronavirus**  — making her the second administration staffer known to have become infected this week. Katie Miller, the wife of White House adviser Stephen Miller, said she tested positive on Friday after testing negative on Thursday. She said she's asymptomatic. ([NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/05/07/852077969/white-house-military-aide-tests-positive-for-coronavirus) / [NBC News](https://www.nbcnews.com/politics/white-house/pence-staff-member-tests-positive-coronavirus-n1202946) / [CNBC](https://www.cnbc.com/2020/05/08/vice-president-mike-pence-staffer-tests-positive-for-coronavirus.html) / [Politico](https://www.politico.com/news/2020/05/08/mike-pence-staffer-tests-positive-for-coronavirus-244816) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-05-08/white-house-aide-tests-positive-for-virus-ahead-of-pence-trip?sref=MIBMEEoj) / [CNN](https://www.cnn.com/2020/05/08/politics/vice-president-mike-pence-staff-member-coronavirus/))
+
+* **White House staff will now be tested for the coronavirus on a daily basis.** "In addition to social distancing, daily temperature checks and symptom histories, hand sanitizer, and regular deep cleaning of all work spaces," the deputy White House press secretary said in a statement, "every staff member in close proximity to the president and vice president is being tested daily for COVID-19 as well as any guests." ([New York Times](https://www.nytimes.com/2020/05/07/us/politics/coronavirus-white-house-military-aide.html))
+
+3/ **A breakdown in communication and coordination within the Trump administration has undermined the distribution of remdesivir**, a promising treatment for COVID-19. Gilead Sciences, the company that makes remdesivir, donated hundreds of thousands of doses to the federal government after the FDA authorized it as an emergency treatment for coronavirus patients. More than 32,000 doses of remdesivir, however, were shipped, but many of these doses went to "less impacted counties" instead of the high-priority hospitals where it's most needed, an administration official said. Administration officials reportedly responded by shifting blame and avoiding responsibility. ([Axios](https://www.axios.com/trump-coronavirus-drug-remdesivir-hospitals-pharmacies-86ad5bd0-d1ba-47dc-97f2-b19cc97603f4.html))
+
+* **White House’s pandemic relief effort Project Airbridge is swathed in secrecy and exaggerations**. Almost six weeks after its launch, Project Airbridge has completed its 122nd flight, having cost taxpayers at least $91 million. But its impact on the pandemic is unclear and shrouded in secrecy: The White House, the Federal Emergency Management Agency and the companies involved have declined to disclose where supplies have been delivered. ([Washington Post](https://www.washingtonpost.com/investigations/white-house-pandemic-supply-project-swathed-in-secrecy-and-exaggerations/2020/05/08/9c77efb2-8d52-11ea-a9c0-73b93422d691_story.html))
+
+* **Republicans praise Trump's pandemic response with Senate majority at risk**. Nearly all GOP senators running for reelection have decided there’s little utility in breaking with the president, particularly after seeing some fellow Republicans collapse at the ballot box with such a strategy. And if the economy recovers and the virus dissipates by the fall, Republicans could benefit by sticking with Trump. ([Politico](https://www.politico.com/news/2020/05/06/senate-republicans-trump-coronavirus-response-240454))
+
+4/ **The Trump administration is moving to expand immigration restrictions, believing that the public is willing to accept new limits on immigration during the pandemic**. Trump's immigration advisers are working on an executive order that would ban the issuance of some new temporary, work-based visas. The order is expected to focus on H-1B visas, designed for highly skilled workers, and H-2B, for seasonal migrant workers, as well as student visas. Though the order hasn’t yet been finalized, administration officials said it could range from suspensions of entire visa categories to the creation of incentives to hire Americans in industries hit by layoffs. ([Wall Street Journal](https://www.wsj.com/articles/trump-administration-pushes-to-extend-coronavirus-immigration-limits-11588935603?mod=hp_lead_pos4))
+
+5/ **Trump signaled uncertainty over the future of FBI Director Christopher Wray a day after the Justice Department decided to drop criminal charges against Michael Flynn**. Speaking to Fox News, Trump said "the jury's still out" on Wray and the bureau's handling of the Flynn investigation. “It’s disappointing,” Trump said when asked about Wray’s role. “Let’s see what happens with him." Trump also praised Attorney General William Barr for nullifying the case by the Robert Mueller, in which Flynn pleaded guilty to lying to the FBI in 2017 about his contacts with the Russian ambassador during the 2016 presidential transition. ([Washington Post](https://www.washingtonpost.com/national-security/trump-michael-flynn-fbi-christopher-wray-william-barr/2020/05/08/a6f1b230-912a-11ea-9e23-6914ee410a5f_story.html) / [New York Times](https://www.nytimes.com/2020/05/08/us/politics/trump-barr-michael-flynn.html?action=click&module=Top%20Stories&pgtype=Homepage) / [Axios](https://www.axios.com/trump-christopher-wray-fbi-director-fox-friends-b86895c3-e409-4f84-8feb-4dcbb228d90d.html))
+
+* **Trump and his allies want Flynn to assume a public-facing role during the election campaign**. Trump reportedly had made clear that if legal circumstances permitted, he would want Flynn to get “something good” in his political, but it's unclear if Trump meant a job in the administration, a role for the 2020 campaign, or another position. ([Daily Beast](https://www.thedailybeast.com/team-trump-wants-mike-flynn-back-for-2020-sees-him-as-their-nelson-mandela))
+
+* **Flynn’s Path to Freedom Runs Through Judge Who May Say No**. While judges typically sign off on such motions, U.S. District Judge Emmet Sullivan could refuse and instead demand answers from the DOJ about who requested the sudden about-face([Bloomberg](https://www.bloomberg.com/news/articles/2020-05-08/trump-s-great-warrior-flynn-may-have-one-more-battle-to-wage?srnd=premium&sref=MIBMEEoj) / [Reuters](https://mobile.reuters.com/article/amp/idUSKBN22J3HF))
+
+* **\[Analysis\] Understanding the twists and turns in the Michael Flynn case**. ([Washington Post](https://www.washingtonpost.com/politics/2020/05/07/understanding-twists-turns-michael-flynn-case/))
+
+* **\[Opinion\] The Appalling Damage of Dropping the Michael Flynn Case**. It embeds into official U.S. policy a shockingly extremist view of law enforcement as the enemy of the American people. ([New York Times](https://www.nytimes.com/2020/05/08/opinion/michael-flynn-trump-barr.html))
+
+6/ **Senate Republicans are preparing for a swift confirmation process if a vacancy on the Supreme Court opens up before the November election.** Justice Ruth Bader Ginsburg's recent hospitalization has raised the prospect of another possible vacancy for Trump to fill. GOP senators say they plan to act quickly if an opening presents itself, despite denying Obama the same opportunity at the end of his second term. If there's a vacancy, "we're going to fill it," said Sen. John Barrasso. "If you thought the Kavanaugh hearing was contentious this would probably be that on steroids," said Sen. John Cornyn. "Nevertheless," he added, "if the president makes a nomination then it’s our responsibility to take it up." Mitch McConnell, meanwhile, said in 2016 that during an election year voters should be the ones decide which president should choose the next Supreme Court justice. But McConnell has repeatedly said he plans to fill any vacancy that opens up under Trump. ([Politico](https://www.politico.com/news/2020/05/08/republicans-ready-supreme-court-vacancy-243574))
+
+poll/ **64% of Americans say the country now is not worth the risk to human life**. 92% of Democrats compared to 35% of Republicans say opening the country is not worth it. ([ABC News](https://abcnews.go.com/Politics/reopening-country-greater-risk-americans-poll/story?id=70555060))
+
+poll/ **55% of Americans said they plan to get vaccinated against COVID-19 if and when a vaccine arrives**. 45% said they won't or they're not sure they will get vaccinated. ([Yahoo News](https://news.yahoo.com/new-yahoo-news-you-gov-coronavirus-poll-almost-one-in-five-say-they-wont-get-vaccinated-143852222.html))

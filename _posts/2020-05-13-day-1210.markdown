@@ -1,7 +1,7 @@
 ---
 title: Day 1210
 date: 2020-05-13 14:56:00 -07:00
-description: '"The darkest winter in modern history".'
+description: '"The darkest winter in modern history."'
 image: "/uploads/1210.jpg"
 todayInOneSentence: Trump and the coronavirus task force is pushing the CDC to change
   its methodology for how they count coronavirus deaths, which could lead to far fewer

@@ -1,0 +1,47 @@
+---
+title: Day 1219
+date: 2020-05-22 14:02:00 -07:00
+description: '"Petulant child."'
+image: "/uploads/1219.jpg"
+todayInOneSentence: Trump demanded that governors reopen houses of worship "right
+  now" and threatened to "override" them if restrictions aren't lifted "by this weekend";
+  Dr. Anthony Fauci warned that extended lockdowns could cause "irreparable damage"
+  and have "unintended [health] consequences"; the CDC estimates that roughly a third
+  of coronavirus infections are asymptomatic and around 40% of coronavirus transmission
+  occurs before people feel sick; a study of 96,000 hospitalized coronavirus patients
+  across six continents found those who received hydroxychloroquine had a significantly
+  higher death rate than those who did not receive the drug; and 56% of voters say
+  Trump does not care about average Americans.
+---
+
+* ### 🔥 Daily Damage Report.
+
+* **🌍 Global**: Total confirmed cases \~5,179,000; Total deaths: \~337,000; Total recoveries: \~1,991,000. ([Johns Hopkins University](https://coronavirus.jhu.edu/map.html))
+
+* **🇺🇸 U.S.**: Total confirmed cases \~1,597,000; Total deaths: \~96,000; Total recoveries: \~299,000
+
+* **💰 Markets**: Dow 📉; S&P 500 📈; Nasdaq 📈
+
+* **💻 Live blogs**: [New York Times](https://www.nytimes.com/2020/05/22/us/coronavirus-live-tracker.html?action=click&module=Spotlight&pgtype=Homepage) / [Washington Post](https://www.washingtonpost.com/nation/2020/05/22/coronavirus-update-us/) / [The Guardian](https://www.theguardian.com/world/live/2020/may/22/coronavirus-us-live-trump-holiday-weekend-latest-news-updates) / [NBC News](https://www.nbcnews.com/health/health-news/live-blog/2020-05-22-coronavirus-news-n1212671) / [CNN](https://www.cnn.com/us/live-news/us-coronavirus-update-05-22-20/index.html) / [Wall Street Journal](https://www.wsj.com/livecoverage/latest-updates/coronavirus?mod=theme_coronavirus-ribbon) / [CNBC](https://www.cnbc.com/2020/05/22/coronavirus-live-updates.html)
+
+---
+
+1/ **Trump demanded that governors reopen houses of worship "right now" and threatened to "override" them if restrictions aren't lifted "by this weekend."** Trump, however, does not have the authority to override state orders to close churches or limit the size of services. Hours later, the CDC released "[interim guidance](https://www.cdc.gov/coronavirus/2019-ncov/php/faith-based.html)" for reopening places of worship after Trump deemed all places of worship "essential." ([Bloomberg](https://www.bloomberg.com/news/articles/2020-05-22/trump-orders-churches-re-opened-and-says-he-ll-override-states?sref=MIBMEEoj) / [Associated Press](https://apnews.com/92a389588798ef5fec4a722d6d073955) / [Axios](https://www.axios.com/trump-cdc-guidelines-church-reopenings-coronavirus-667a6f2c-8117-467d-b360-6b73894c0d44.html) / [CNBC](https://www.cnbc.com/2020/05/22/trump-slams-governors-demands-they-open-houses-of-worship-right-now.html) / [NBC News](https://www.nbcnews.com/politics/white-house/white-house-guidelines-places-worship-include-face-coverings-avoiding-shared-n1213106) / [CNN](https://www.cnn.com/2020/05/22/politics/religious-gatherings-cdc-coronavirus/index.html) / [Politico](https://www.politico.com/news/2020/05/22/trump-churches-essential-coronavirus-274763))
+
+2/ **Dr. Anthony Fauci warned that extended lockdowns could cause "irreparable damage" and have "unintended \[health\] consequences."** Dr. Fauci said he supported states taking cautious steps to restore normality and lift stay-at-home orders, adding that "Now is the time \[...\] to begin seriously looking at reopening the economy, reopening the country to try and get back to some degree of normal." Dr. Fauci, however, cautioned states against reducing social distancing measures too quickly, adding they must take “very significant precautions.” ([CNBC](https://www.cnbc.com/2020/05/22/dr-anthony-fauci-says-staying-closed-for-too-long-could-cause-irreparable-damage.html) / [Business Insider](https://www.businessinsider.com/anthony-fauci-irreparable-damage-stay-at-home-too-long-2020-5))
+
+3/ **The CDC estimates that roughly a third of coronavirus infections are asymptomatic and around 40% of coronavirus transmission occurs before people feel sick**. CDC officials cautioned that those numbers are subject to change as they continue to learn more about the virus, and that the current numbers are only meant for planning and preparation purposes. The CDC also said its "best estimate" is that 0.4% of people who show symptoms and have the virus will die. ([CNN](https://www.cnn.com/2020/05/22/health/cdc-coronavirus-estimates-symptoms-deaths/index.html))
+
+4/ **A study of 96,000 hospitalized coronavirus patients across six continents found those who received hydroxychloroquine had a significantly higher death rate than those who did not receive the drug**. Trump has repeatedly promoted the drug as a "game changer," and recently claimed that he has been taking the drug the last few weeks. The study also found that patients who were given hydroxychloroquine were more likely to develop a type of irregular heart rhythm, or arrhythmia, which can lead to sudden cardiac death. The study represents the largest analysis of the risks and benefits of treating coronavirus patients with antimalarial drugs to date. "It’s one thing not to have benefit, but this shows distinct harm," said a cardiologist at the Scripps Research Translational Institute. The director of preventative cardiology at Stanford said the study's findings offer "absolutely no reason for optimism that these drugs might be useful" in treating COVID-19. ([Washington Post](https://www.washingtonpost.com/health/2020/05/22/hydroxychloroquine-coronavirus-study) / [The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext) / [Politico](https://www.politico.com/news/2020/05/22/hydroxychloroquine-chloroquine-coronavirus-study-274668))
+
+5/ **Trump accused the Michigan Attorney General of "taking out her anger and stupidity" after she called him a "petulant child who refuses to follow the rules."** Michigan’s attorney general had [implored](https://whatthefuckjusthappenedtoday.com/2020/05/21/day-1218/#5-trump-refused-to-wear-a-mask-while) Trump to wear a face mask on his visit to a Ford plant, citing a “legal responsibility” under state law, as well as a “social and moral responsibility." Trump refused, saying “I didn’t want to give the press the pleasure of seeing it.” ([The Hill](https://thehill.com/homenews/administration/499108-trump-fires-back-at-michigan-ag-after-she-calls-him-petulant-child))
+
+6/ **Trump hasn't completed his annual 2020 physical after claiming six months ago that he had started the process**. The White House declined to explain why. In November, Trump made an [unscheduled visit](https://whatthefuckjusthappenedtoday.com/2019/11/18/day-1033/#8-trump-made-an-unscheduled-visit-wa) Walter Reed National Military Medical Center. The White House claimed it was to “begin portions of his routine annual physical exam” that included a “quick exam and labs.” ([NBC News](https://www.nbcnews.com/politics/white-house/white-house-remains-mum-questions-about-trump-s-annual-physical-n1213266))
+
+poll/ **27% of Americans think their state is moving too quickly to reopen**, while 21% say their state is moving too slowly, and 51% say their state is moving "about right." ([Kaiser Family Foundation](https://www.kff.org/coronavirus-covid-19/report/kff-health-tracking-poll-may-2020/))
+
+poll/ **39% of Americans approve of Trump's handling of the coronavirus pandemic**, while 60% disapprove. ([ABC News](https://abcnews.go.com/Politics/black-americans-latinos-times-died-covid-19-poll/story?id=70794789))
+
+poll/ **44% of Americans approve of the job Trump is doing as president**, while 54% disapprove. Last month, Trump's approval rating was at 49%. ([Fox News](https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Fox_May-17-20-2020_Complete_National_Topline_May-21-Release.pdf))
+
+poll/ **56% of voters say Trump does not care about average Americans**, while 42% say he cares. ([Quinnipiac](https://poll.qu.edu/national/release-detail?ReleaseID=3661))

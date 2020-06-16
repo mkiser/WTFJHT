@@ -1,6 +1,7 @@
 ---
 title: Day 1243
 date: 2020-06-15 05:50:00 -07:00
+published: false
 ---
 
 1. **The U.S. Supreme Court refused to consider the Trump administration's challenge to a California sanctuary law that limits local police cooperation with federal immigration authorities.** The court declined to say why it won’t hear the issue, which is customary. The Trump administration wanted the Court to hear its appeal of lower court rulings that upheld the California law, which prohibits police and sheriff's departments from giving ICE agents advance notice when immigrants are about to be released after serving sentences for local crimes. The 9th Circuit Court of Appeals previously ruled that local officials have no duty to help immigration agents enforce federal law. ([NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-turns-aside-justice-department-won-t-hear-california-n1231060) / [CNN](https://www.cnn.com/2020/06/15/politics/sanctuary-cities-california-supreme-court/index.html) / [Washington Post](https://www.washingtonpost.com/politics/courts_law/justices-reject-trump-bid-to-void-california-sanctuary-law/2020/06/15/cfe0826e-af1d-11ea-98b5-279a6479a1e4_story.html) / [USA Today](https://www.usatoday.com/story/news/politics/2020/06/15/sanctuary-cities-supreme-court-trump-challenge-california/4432493002/))

@@ -1,5 +1,5 @@
 ---
-title: 'Day 1251:'
+title: Day 1251
 date: 2020-06-23 15:03:00 -07:00
 description: '"Mixed bag."'
 image: "/uploads/1251.jpg"

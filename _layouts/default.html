@@ -38,6 +38,7 @@
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
     <link rel="alternate" type="application/atom+xml" title="Atom - {{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/atom.xml">
     <link rel='alternate' type='application/rss+xml' title='RSS - {{ site.title }}' href="{{ site.url }}{{ site.baseurl }}/rss.xml">
+    <!--
     <link rel="manifest" href="/manifest.json">
     <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async></script>
     <script>
@@ -58,6 +59,7 @@
         }
       }]);
     </script>
+    -->
     {% if page.type == 'year' %}
       {% seo title=false %}
       <title>{{ page.date | date: "%Y" }} Archive | {{ site.title}}</title>

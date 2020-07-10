@@ -40,6 +40,8 @@ image:
 
 > ***I want to keep current but I cannot bear to hear it sometimes**. WTFJHT's bite-size summaries are perfect. -Cara M.*
 
+> ***It is a toss up if I just like saying the name or really like the daily recaps**. –Dominique A.*
+
 > ***The daily summation of news paints a clear and pointed picture of the morass**. By putting together these various - attributed - articles in one concise blog, even someone who graduated at the bottom of his class at the Wharton School could understand the mess we are in. –Bob G.*
 
 > ***A shining light in a cave full of shit**. –Joe P.* 

@@ -3,12 +3,13 @@ title: Day 1289
 date: 2020-07-31 14:24:00 -07:00
 description: '"We cannot test our way out of this pandemic."'
 image: "/uploads/1289.jpg"
-todayInOneSentence: 'Nearly 30 million Americans are set to lose $600 per week in
-  federal unemployment benefits after talks between Congress and the White House stalled;
+todayInOneSentence: Nearly 30 million Americans are set to lose $600 per week in federal
+  unemployment benefits after talks between Congress and the White House stalled;
   Dr. Anthony Fauci told the House Select Subcommittee on the Coronavirus Crisis he
   is “cautiously optimistic” that a “safe and effective” coronavirus vaccine will
   be available to the public by the end of 2020; Trump defended his suggestion that
-  the U.S. should delay the November election; '
+  the U.S. should delay the November election; and Trump threatened to send the National
+  Guard to Portland to clear out protesters, which he described as a "beehive of terrorists."
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

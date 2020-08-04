@@ -1,0 +1,65 @@
+---
+title: Day 1293
+date: 2020-08-04 14:48:00 -07:00
+description: '"It is what it is."'
+image: "/uploads/1293.jpg"
+todayInOneSentence: Trump insisted that the coronavirus pandemic is “under control"
+  and that U.S. deaths reaching 1,000 people a day "is what it is"; the White House
+  is considering three executive orders to bypass the stalled coronavirus relief negotiations;
+  Trump downplayed the legacy of John Lewi and instead complained how the recently
+  deceased civil rights icon made a “big mistake” by not coming to his inauguration;
+  the Census Bureau will end all counting efforts for the 2020 census a month sooner
+  than previously announced; and Trump claimed he has the authority to issue an executive
+  order addressing mail-in voting in the November election despite the Constitution
+  expressly giving states the right to run their elections.
+---
+
+* ### 😷 Dept. of "We Have It Totally Under Control."
+
+* **Global**: Total confirmed cases: \~18,381,000; deaths: \~697,000
+
+* **U.S.**: Total confirmed cases: \~4,752,000; deaths: \~157,000
+
+* Source: [Johns Hopkins University](https://coronavirus.jhu.edu/map.html)
+
+---
+
+1/ **Trump insisted that the coronavirus pandemic is “under control" and that U.S. deaths reaching 1,000 people a day "is what it is."** When asked how he could claim that his administration has the virus under control, Trump replied: "They are dying. That's true. And it is what it is. But that doesn't mean we aren't doing everything we can. It's under control, as much as you can control it. This is a horrible plague that beset us." Trump then congratulated himself, saying his administration has "done a great job" despite more than 4.71 million confirmed cases and at least 155,478 deaths. Trump again suggested that "There are those that say you can test too much," but when asked who says that, Trump relied: "Just read the manuals. Read the books." When asked what books and manuals he's referring to, Trump changed the subject instead. ([Axios](https://www.axios.com/trump-coronavirus-under-control-5f114a16-9952-428c-bc07-3cfa360b0977.html) / [CNBC](https://www.cnbc.com/2020/08/04/coronavirus-trump-insists-pandemic-is-under-control-in-us.html) / [CNN](https://www.cnn.com/2020/08/04/politics/trump-covid-death-toll-is-what-it-is/index.html) / [USA Today](https://www.usatoday.com/story/news/politics/2020/08/04/trump-tells-axios-rising-covid-19-death-toll-is-what-is/5579765002/) / [The Guardian](https://www.theguardian.com/us-news/2020/aug/04/donald-trump-on-the-ropes-in-interview-over-us-covid-19-death-toll) / [Washington Post](https://www.washingtonpost.com/nation/2020/08/04/coronavirus-covid-live-updates-us/) / [CBS News](https://www.cbsnews.com/news/trump-covid-19-thousands-dying-daily-is-what-is/) / [Vox](https://www.vox.com/2020/8/4/21354055/trump-axios-interview-jonathan-swan))
+
+{% twitter https://twitter.com/axios/status/1290497186489348096 %}
+
+* **\[Watch\] [Full Axios interview with Trump](https://www.axios.com/full-axios-hbo-interview-donald-trump-cd5a67e1-6ba1-46c8-bb3d-8717ab9f3cc5.html)**
+
+* **The 9 Wildest Answers in Trump’s Interview**. ([New York Magazine](https://nymag.com/intelligencer/2020/08/trump-interview-jonathan-swan-axios-charts-john-lewis-coronavirus.html))
+
+* **At least six states will band together to purchase millions of coronavirus tests**. Virginia, Louisiana, Massachusetts, Michigan, Ohio, and Maryland have formed a purchasing compact to request 500,000 rapid tests that could be deployed to address outbreaks from one of two companies approved by the FDA to sell antigen tests. ([Washington Post](https://www.washingtonpost.com/coronavirus/coronavirus-state-testing-compact/2020/08/04/8b73bed8-d66f-11ea-9c3b-dfc394c03988_story.html) / [New York Times](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html#link-5673bec1))
+
+2/ **The White House is considering three executive orders to bypass the stalled coronavirus relief negotiations**. The plan by White House chief of staff Mark Meadows would delay the collection of federal payroll taxes, reinstitute an expired eviction moratorium, and extend enhanced federal unemployment benefits using unspent money already appropriated by Congress. The White House plans to reappropriate $81 billion in unspent CARES Act money and then direct the Labor Department to loan state unemployment agencies additional money so they could provide laid-off workers anywhere from $200 to $600 per week in unemployment benefits. ([Politico](https://www.politico.com/news/2020/08/04/trump-executive-order-coronavirus-391305))
+
+3/ **Trump downplayed the legacy of John Lewi and instead complained how the recently deceased civil rights icon made a “big mistake” by not coming to his inauguration**. When asked to reflect on Lewis’s contributions to the civil rights movement, Trump instead claimed "nobody has done more for Black Americans than I have," and that Lewis "chose not to come to my inauguration." Trump also declined to say whether he found Lewis’s life story “impressive," and – again – said “He didn't come to my inauguration. He didn't come to my State of the Union speeches. And that's OK." ([Axios](https://www.axios.com/trump-john-lewis-inauguration-1adc0747-51b8-4990-a7d8-29290e990dc5.html) / [New York Times](https://www.nytimes.com/2020/08/04/us/politics/trump-john-lewis-axios.html) / [CNN](https://www.cnn.com/2020/08/04/politics/trump-john-lewis-axios/index.html))
+
+4/ **The Census Bureau will end all counting efforts for the 2020 census a month sooner than previously announced**. Door-knocking efforts, collecting responses online, over the phone and by mail will end on Sept. 30 instead of Oct. 31 — the previously announced end date for all counting efforts. The bureau has also asked Congress to push back the legal deadline of Dec. 31 by four months, but so far only Democrats have introduced legislation that would extend the deadlines. Congressional Democrats and census advocates are also concerned that the White House has pressured the bureau to stop counting soon in order to benefit Republicans when House seats are reapportioned and voting districts are redrawn. Roughly 4 out of 10 households nationwide yet to be counted. ([NPR](https://www.npr.org/2020/08/03/898548910/census-cut-short-a-month-rushes-to-finish-all-counting-efforts-by-sept-30))
+
+5/ **Trump claimed he has the authority to issue an executive order addressing mail-in voting in the November election** despite the Constitution expressly giving states the right to run their elections. Trump, however, said he hadn’t ruled out doing so, but didn't elaborate on what an executive order on mail-in voting would entail. ([Politico](https://www.politico.com/news/2020/08/03/trump-mail-in-voting-order-391066))
+
+6/ **Trump encouraged Floridians to vote by mail** and claimed that Florida's election system is "safe and secure" after repeatedly trying to discredit mail-in voting. 53% of voters in Florida, however, have expressed health concerns about voting in person and prefer voting by mail in November. And, at least 77% of voters will be able to vote through the mail in the fall. ([CNN](https://www.cnn.com/2020/08/04/politics/donald-trump-mail-in-voting-florida/index.html) / [Politico](https://www.politico.com/news/2020/08/03/trumps-assault-on-mail-voting-threatens-his-reelection-bid-390949) / [The Hill](https://thehill.com/homenews/administration/510484-trump-in-reversal-encourages-vote-by-mail-in-florida) / [Washington Post](https://www.washingtonpost.com/politics/republicans-race-to-promote-mail-voting-as-trumps-attacks-discourage-his-own-supporters-from-embracing-the-practice/2020/08/03/9dd1d988-d1d9-11ea-9038-af089b63ac21_story.html))
+
+7/ **The House Oversight Committee called Postmaster General Louis DeJoy to testify** on Sept. 17 about changes made to the U.S. Postal Service under the Trump administration. After DeJoy, a former fundraiser for Trump and the Republican National Committee, was appointed by Trump in May, USPS mail has been backlogged and delayed. ([Axios](https://www.axios.com/usps-postmaster-general-trump-18ddfd55-e47c-4439-ab76-78395e76fb85.html))
+
+poll/ **59% of Americans support a mandatory, nationwide stay-at-home order for two weeks to slow the spread of the coronavirus**. 62% support a single, national strategy for when businesses can reopen, 60% support a similar strategy for schools, and 55% support temporary travel bans between states. ([NPR](https://www.npr.org/2020/08/04/898522180/despite-mask-wars-americans-support-aggressive-measures-to-stop-covid-19-poll-fi) / [Axios](https://www.axios.com/nationwide-stay-at-home-order-9591b3f3-a786-479c-8151-662cc7d0113b.html))
+
+poll/ **82% of voters support a national face mask mandate**, while 18% oppose a mandate. ([The Hill](https://thehill.com/hilltv/what-americas-thinking/510317-poll-82-percent-of-voters-support-a-national-mask-mandate))
+
+poll/ **13% of Americans are satisfied with the state of the nation** – down seven percentage points in the past month and 32 points since reaching a 15-year high in February. American satisfaction has not been this low since November 2011.([Gallup](https://news.gallup.com/poll/316736/satisfaction-lowest-nine-years.aspx))
+
+---
+
+### Notables.
+
+1. **Trump defended his "I just wish her well" comment about Ghislaine Maxwell**, saying he doesn't want her to die in jail like her former boyfriend and alleged accomplice, Jeffrey Epstein. Maxwell was arrested on allegations of child sex trafficking. Trump also suggested that Epstein's death might not have been a suicide, which contradicts both the New York City medical examiner's office and his own attorney general. ([CNN](https://www.cnn.com/2020/08/04/politics/donald-trump-ghislaine-maxwell-axios/index.html))
+
+2. **The House Intelligence Committee will investigate the Department of Homeland Security's Office of Intelligence and Analysis**, which has compiled “intelligence reports” on journalists and protesters in Portland and other cities. “The revelations require a full accounting and, if substantiated, must never be allowed to occur again,” Rep. Adam Schiff wrote to senior department officials, including the acting secretary, Chad Wolf. ([Axios](https://www.axios.com/dhs-portland-protest-adam-schiff-5091d20c-b6e4-4dd5-8173-13f820993efc.html) / [Washington Post](https://www.washingtonpost.com/nation/2020/08/04/protests-live-updates-house-committee-investigating-dhs-office-that-tracked-journalists-protesters/))
+
+3. **The White House was sued over the lack of a sign language interpreter at the administration's COVID-19 briefings**. The National Association of the Deaf and five deaf Americans filed a lawsuit, asking a federal judge to order the White House to add live televised ASL interpretation at all public coronavirus briefings. ([CNN](https://www.cnn.com/2020/08/03/politics/sign-language-interpreters-coronavirus-briefings/index.html) / [The Hill](https://thehill.com/homenews/administration/510385-white-house-sued-over-lack-of-sign-language-interpreters-at))
+
+4. **The deputy White House liaison to the U.S. Agency for International Development was fired after a series of comments critical of gay marriage and LGBTQ rights**. Late Monday morning, Merritt Corrigan unlocked her previously private Twitter account and in a series of tweets said “gay marriage isn’t marriage,” "Men aren’t women," and that the U.S. gives aid only to countries that “celebrate sexual deviancy.” When asked for a comment, Corrigan said she would address the matter at a news conference she plans to hold with two far-right conspiracy theorists on Thursday. ([NBC News](https://www.nbcnews.com/politics/politics-news/white-house-usaid-liaison-fired-after-series-anti-lgbtq-tweets-n1235679) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-08-03/u-s-aid-agency-official-departs-after-series-of-anti-gay-tweets?sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2020/08/03/usaid-appointee-unloads-as-rocky-tenure-ends-390972))

@@ -2,7 +2,7 @@
 title: Day 1338
 date: 2020-09-18 14:27:00 -07:00
 description: '"You need a test."'
-image: /uploads/1338.jpg"
+image: "/uploads/1338.jpg"
 todayInOneSentence: The Department of Health and Human Services rewrote the CDC guidance
   about who should be tested for the coronavirus last month and then “dropped” it
   on the CDC website despite staff scientists’ objections; the CDC reversed its coronavirus

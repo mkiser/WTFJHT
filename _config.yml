@@ -130,6 +130,7 @@ commonmark:
   options:
   - SMART
   - UNSAFE
+  - FOOTNOTES
 incremental: true
 social:
   name: Matt Kiser

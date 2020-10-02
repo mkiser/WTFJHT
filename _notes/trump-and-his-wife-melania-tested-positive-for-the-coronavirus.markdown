@@ -20,6 +20,8 @@ is_promoted: true
 
 ### ✏️ Notables.
 
+* **Republican National Committee chair Ronna McDaniel tested positive for the coronavirus.** McDaniel was reportedly last seen with Trump on Friday. ([Axios](https://www.axios.com/rnc-chair-ronna-mcdaniel-coronavirus-positive-d361fcf6-061c-4af2-ad1d-55eeadba50d9.html))
+
 * **The House approved a $2.2 trillion coronavirus relief measure**. ([Politico](https://www.politico.com/news/2020/10/01/pelosi-no-coronavirus-deal-likely-424438))
 
 * **Fox News paid Trump, Jr.,’s girlfriend upward of $4 million to avoid going to trial after an employee wrote a 42-page complaint accusing Kimberly Guilfoyle of repeated sexual harassment**. In November, 2018, a young woman who had been one of Guilfoyle’s assistants at Fox News sent company executives a confidential, draft complaint demanding monetary relief. In July 2018, Fox News" announced it "parted ways with Kimberly Guilfoyle" following a multimillion-dollar out-of-court settlement. ([New Yorker](https://www.newyorker.com/news/news-desk/the-secret-history-of-kimberly-guilfoyles-departure-from-fox) / [CNN](https://www.cnn.com/2020/10/01/media/kimberly-guilfoyle-fox-allegations/index.html))

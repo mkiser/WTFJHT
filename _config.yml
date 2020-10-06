@@ -158,7 +158,6 @@ github:
   repo: https://github.com/mkiser/WTFJHT
 exclude:
 - ".jekyll-cache"
-- pod.html
 - vendor
 - Gemfile
 - Gemfile.lock

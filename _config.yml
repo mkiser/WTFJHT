@@ -60,6 +60,22 @@ defaults:
     metatags: noindex, follow
     sitemap: false
 - scope:
+    path: ''
+    type: podcasts
+  values:
+    title: 
+    file: 
+    post: 
+    duration: 
+    length: 
+    author: Joe Amditis
+    image: "/public/wtf-pod.jpg"
+    tags:
+    - politics
+    - news
+    metatags: noindex, follow
+    sitemap: false
+- scope:
     path: page
   values:
     sitemap: false

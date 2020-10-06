@@ -38,19 +38,6 @@ defaults:
       type: NewsArticle
 - scope:
     path: ''
-    type: whatwelearned
-  values:
-    permalink: "/what-we-learned/:year/:month/:title/"
-    title: ''
-    description: What We Learned in the Russia Probe
-    image: ''
-    author: Adrienne Cobb
-    lastWeekInOneSentence: ''
-    layout: whatwelearned
-    seo:
-      type: NewsArticle
-- scope:
-    path: ''
     type: notes
   values:
     permalink: "/:year/:month/:day/latest/"
@@ -72,36 +59,6 @@ defaults:
     email: 
     metatags: noindex, follow
     sitemap: false
-- scope:
-    path: ''
-    type: podcasts
-  values:
-    permalink: "/:year/:month/:day/podcast/"
-    layout: pod
-    title: 
-    file: 
-    post: 
-    duration: 
-    length: 
-    author: Joe Amditis
-    image: "/public/wtf-pod.jpg"
-    tags:
-    - politics
-    - news
-    metatags: noindex, follow
-    sitemap: false
-- scope:
-    path: ''
-    type: topics
-  values:
-    permalink: "/:title/"
-    title: ''
-    description: ''
-    image: ''
-    author: Matt Kiser
-    layout: topics
-    seo:
-      type: NewsArticle
 - scope:
     path: page
   values:
@@ -163,7 +120,8 @@ exclude:
 - Gemfile.lock
 - CONTRIBUTING.md
 - README.md
-- quiz.md
+- quiz.html
+- instant-feed.xml
 - survey.md
 - drawing-the-news.html
 - meta

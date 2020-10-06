@@ -39,6 +39,7 @@
       "fbShare" : "https://www.facebook.com/sharer/sharer.php?u={{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}",
       "twitterShare" : "https://twitter.com/intent/tweet?url={{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F%20%0A%0A%E2%9A%A1%20{{post.title | uri_escape}}%3A%20{{post.description | uri_escape}}%0A%0A",
       "daysUntilElection" : "{{ diffDays | ceil }}",
+      {%- comment -%}
       {%- for p in site.posts -%}
       {%- assign date = p.date | date: '%Y-%m-%d' -%}
       {%- if date == todayLastYear -%}
@@ -66,6 +67,7 @@
       },
       {%- endif -%}
       {%- endfor -%} 
+      {%- endcomment -%}
       {%- for poll in site.data.polls -%}
       {%- assign polldata = poll.modeldate -%}
       {%- assign date = post.date | date: "%-m/%-d/%Y" -%}

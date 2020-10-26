@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "jekyll", :git => "https://github.com/jekyll/jekyll.git", :branch => "master"
+gem "jekyll"
 gem "liquid-c"
 gem 'jekyll-sitemap'
 gem 'jekyll-seo-tag'

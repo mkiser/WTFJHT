@@ -50,10 +50,8 @@ layout:
     <title>{{ ep.title }}</title>
     <guid isPermaLink="false">{{ ep.url }}</guid>
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-    
-    {% for category in ep.tags %}
-    <category>{{ category }}</category>
-    {% endfor %}
+    <category>politics</category>
+    <category>news</category>
     <dc:creator>{{ site.podcast_owner }}</dc:creator>
 
     {% assign post = site.posts | where: 'title', ep.post %}

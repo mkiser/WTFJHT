@@ -145,8 +145,10 @@ exclude:
 - bad-news
 - do-something
 - _whatwelearned
+- what-we-learned
 - _topics
 - _notes
+- news.xml
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

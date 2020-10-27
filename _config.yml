@@ -144,6 +144,9 @@ exclude:
 - 45-for-45
 - bad-news
 - do-something
+- _whatwelearned
+- _topics
+- _notes
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

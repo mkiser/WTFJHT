@@ -1,7 +1,8 @@
 <script>
 	$.getJSON("/api/v1/random.json", function(data) {
 		if (document.location.href == "https://whatthefuckjusthappenedtoday.com/") {
-			var url = "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+			// var url = "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+			var url = data[0].href;
 		} else {
 	    	var url = document.location.href;
 		}

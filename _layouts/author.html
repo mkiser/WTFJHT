@@ -29,7 +29,7 @@ sitemap: false
     <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}:
     <span class="post-small">{{ post.description }}</span></a>
   </h2>
-  <time datetime="{{ post.last_modified | date_to_xmlschema }}" class="post-date">
+  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
      {{ post.date | date: "%m/%d/%Y" }}
   </time>
   <hr>

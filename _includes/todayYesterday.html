@@ -1,6 +1,6 @@
 <div>
-{% for post in site.posts limit:1 %} 
-<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Today</a>{% endfor %} | 
+{% assign post = site.posts.first %}
+<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Today</a> | 
 </div>
 <div> 
 {% for post in site.posts limit:1 offset:1 %} <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} | 

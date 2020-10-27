@@ -37,7 +37,7 @@ image: "/public/wtf-pod.jpg"
 <ul>
 	<h4 class="pod-lead">Recent Episodes</h4>
 {% assign pod = site.podcasts | reverse %}
-{% for ep in pod offset: 1 %}
+{% for ep in pod limit:25 offset:1 %}
 {% assign post = site.posts | where: 'title', ep.post | first %}
     <li>
     	<h3 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ ep.title }}</a></h3>

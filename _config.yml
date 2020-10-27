@@ -20,9 +20,6 @@ collections:
   uploads:
     title: Uploads
     output: false
-  whatwelearned:
-    title: What We Learned
-    output: false
 defaults:
 - scope:
     path: ''
@@ -95,6 +92,7 @@ plugins_dir: _plugins
 layouts_dir: _layouts
 data_dir: _data
 includes_dir: _includes
+lsi: false
 twitter:
   username: WTFJHT
 encoding: utf-8
@@ -130,6 +128,7 @@ version: 1.0.0
 github:
   repo: https://github.com/mkiser/WTFJHT
 exclude:
+- _notes
 - ".jekyll-cache"
 - vendor
 - Gemfile
@@ -142,13 +141,8 @@ exclude:
 - drawing-the-news.html
 - meta
 - 45-for-45
-- bad-news
+- bad-news.markdown
 - do-something
-- _whatwelearned
-- what-we-learned
-- _topics
-- _notes
-- news.xml
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

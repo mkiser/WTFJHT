@@ -12,7 +12,7 @@ layout:
 				<news:name>WTF Just Happened Today</news:name>
 				<news:language>en</news:language>
 			</news:publication>
-	 		<news:publication_date>{{ post.date | date_to_xmlschema }}</news:publication_date>
+	 		<news:publication_date>{{ post.last_modified | date_to_xmlschema }}</news:publication_date>
 	        <news:title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</news:title>
           	<news:genres>Blog</news:genres>
       		<changefreq>weekly</changefreq>

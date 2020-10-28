@@ -1,7 +1,8 @@
+{%- assign latestPost = site.posts[0] -%}
+{%- assign secondLatestPost = site.posts[1] -%}
 <div>
-{% assign post = site.posts.first %}
-<a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Today</a> | 
+<a href="{{ site.url }}{{ site.baseurl }}{{ latestPost.url }}">Today</a> | 
 </div>
 <div> 
-{% for post in site.posts limit:1 offset:1 %} <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">Yesterday</a>{% endfor %} | 
+<a href="{{ site.url }}{{ site.baseurl }}{{ secondLatestPost.url }}">Yesterday</a> | 
 </div>

@@ -278,6 +278,7 @@
       {% endif %}
       <!-- TODAY LAST YEAR -->
       <script>
+      (function(){
         $.getJSON("/api/v1/random.json", function(data) {
           if (document.location.href == "{{ site.url }}{{ site.baseurl }}/"){
             var url = data[0].href;
@@ -312,6 +313,7 @@
             }
           }
         });
+      })();
       </script>
       <!-- GA SCROLL x CLICK -->
       <script>

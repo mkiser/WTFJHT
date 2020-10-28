@@ -301,13 +301,13 @@
               threeYears = threeYears.toISOString().slice(0,10);
               for (j = 0; j < data.length; j++) { 
                 if (data[j].date.date == lastYear) {
-                  document.getElementById('todaylastyear').innerHTML = "<small><strong>Last year today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a></small>";
+                  document.getElementById('todaylastyear').innerHTML = "<strong>Last year today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
                 }
               if (data[j].date.date == twoYears) {
-                  document.getElementById('todaytwoyearsago').innerHTML = "<small><strong>Two years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a></small>";
+                  document.getElementById('todaytwoyearsago').innerHTML = "<strong>Two years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
                 }
               if (data[j].date.date == threeYears) {
-                  document.getElementById('todaythreeyearsago').innerHTML = "<small><strong>Three years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a></small>";
+                  document.getElementById('todaythreeyearsago').innerHTML = "<strong>Three years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
                 }
               }     
             }

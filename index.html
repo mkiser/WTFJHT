@@ -15,9 +15,9 @@ seo:
   {% assign notedate = note.date | date: '%Y-%m-%d' %}
   {% assign lastpost = site.posts.first.date | date: '%Y-%m-%d' %}
   {% if note.is_promoted == true %}
-    {% include_cached note.html %}
+    {% include_cached note.html note=note %}
   {% elsif now == notedate and notedate > lastpost %}
-    {% include_cached note.html %}
+    {% include_cached note.html note=note %}
   {% endif %}
 
   {% for page in site.posts limit:1 %}
@@ -38,7 +38,7 @@ seo:
 
     <div class="post-date">
       <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%-m/%-d/%Y" }} {% include_cached read_time.html %} 
+        {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
       </time>
       <div>
      
@@ -66,7 +66,7 @@ seo:
     </div>
     {% include_cached email.html %}
 
-    {% include_cached social.html %}
+    {% include social.html %}
   </article>
 </div> 
 

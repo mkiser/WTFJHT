@@ -17,7 +17,7 @@ module Polls_Get
       end
       config.each do |d|
         begin
-          source = open(d['csv'])
+          source = URI.open(d['csv'])
           # Assigns poll data to site.data[d['data']] variable
           site.data[d['data']] = CSV.read(source,:headers => true,:encoding => site.config["encoding"]).map(&:to_hash)
           # Uncomment to save data to _data folder

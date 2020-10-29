@@ -1,5 +1,5 @@
-sudo: false
-dist: trusty
+os: linux
+dist: focal
 language: ruby
 cache: bundler
 rvm:
@@ -7,8 +7,6 @@ rvm:
 addons:
   apt:
     update: true
-    sources:
-    - kalakris-cmake
     packages:
     - cmake
 before_install:

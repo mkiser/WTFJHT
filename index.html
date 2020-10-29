@@ -15,15 +15,15 @@ seo:
   {% assign notedate = note.date | date: '%Y-%m-%d' %}
   {% assign lastpost = site.posts.first.date | date: '%Y-%m-%d' %}
   {% if note.is_promoted == true %}
-    {% include note.html %}
+    {% include_cached note.html %}
   {% elsif now == notedate and notedate > lastpost %}
-    {% include note.html %}
+    {% include_cached note.html %}
   {% endif %}
 
   {% for page in site.posts limit:1 %}
   <article class="post">
     {% if page.is_away_mode == true %}
-      {% include away_mode.html %}
+      {% include_cached away_mode.html %}
     {% endif %}
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ page.url }}">
@@ -38,7 +38,7 @@ seo:
 
     <div class="post-date">
       <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
+        {{ page.date | date: "%-m/%-d/%Y" }} {% include_cached read_time.html %} 
       </time>
       <div>
      
@@ -66,7 +66,7 @@ seo:
     </div>
     {% include_cached email.html %}
 
-    {% include social.html %}
+    {% include_cached social.html %}
   </article>
 </div> 
 

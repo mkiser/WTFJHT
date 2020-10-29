@@ -46,8 +46,8 @@ Navigation: -->
 
 <hr> 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}
 
 <hr> 
 
-{% include social.html %}
+{% include_cached social.html %}

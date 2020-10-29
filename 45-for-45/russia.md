@@ -16,10 +16,10 @@ redirect_to: "/trump-russia-investigation/"
 
 <p class="lead">The Trump-Russia connection has played out like a game of Clue: was it Flynn in the billiards room with the candlestick? Or was it Sessions in the lounge with the lead pipe? Or was it Trump in the hotel with the golden shower? Will we ever get the full story on just how deeply intertwined Trump and Russia are? Who the fuck knows.</p>
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}
 
 <hr>
 
@@ -165,7 +165,7 @@ redirect_to: "/trump-russia-investigation/"
 
 48/ **A growing list of contacts between Trump associates and Russia is drawing increased scrutiny**. Part of the problem underlying the disputed contact is Trump’s pugnacious style that leaves little room for nuance. At a news conference last month, he said that he had “nothing to do with Russia,” and that “to the best of my knowledge, no person that I deal with does.” But in fact, reporting by multiple news organizations turned up multiple contacts between Trump associates and Russians who serve in or are close to Putin. ([New York Times](https://www.nytimes.com/2017/03/03/us/politics/trump-russia-links-washington.html){:target="_blank"})
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}

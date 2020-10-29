@@ -16,10 +16,10 @@ redirect_to: "/trump-health-care/"
 <p class="lead">Nobody really knows what the future holds for Obamacare, but we can expect that fewer Americans will be covered by health insurance. Sad!
 </p>
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}
 
 <hr>
 
@@ -87,7 +87,7 @@ redirect_to: "/trump-health-care/"
 
 19/ **New details in of the GOP Obamacare replacement leak**. The latest plan still includes a new tax credits for individuals based on age, which hardline conservatives have derided as “Obamacare lite.” ([Politico](http://www.politico.com/story/2017/03/house-obamacare-repeal-bill-what-does-it-say-235648){:target="_blank"})
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}

@@ -15,10 +15,10 @@ redirect_to: "/trump-fake-news/"
 
 <p class="lead">It started with a debate over crowd sizes and alternative facts, and has morphed into cell phone checks for White House staffers and the banning of major media outlets from a press briefing. The war on media in first 45-days has seen everything.</p>
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}
 <hr>
 
 <h2 class="dateline">January 21, 2017</h2>
@@ -137,7 +137,7 @@ The Washington Post [reported on the push back](https://www.washingtonpost.com/w
 
 34/ **Trump signed off on checking White House staffers’ phones** to make certain they weren’t communicating with reporters by text message or through encrypted apps. The decision sent a signal across the administration that Trump is furious at leaks from inside the White House. ([CNN](http://www.cnn.com/2017/02/27/politics/donald-trump-white-house-staffer-cell-phones-leaks/index.html){:target="_blank"})
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}

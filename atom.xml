@@ -29,7 +29,7 @@ layout:
    <content type="html">
 
     {% if site.is_away_mode == true %}
-      {% include away_mode.html %}
+      {% include_cached away_mode.html %}
     {% endif %}
 
     {{ post.content | xml_escape }}

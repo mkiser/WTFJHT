@@ -15,10 +15,10 @@ redirect_to: "/trump-travel-ban/"
 
 <p class="lead">It’s hard to tell where the plan began and where it went wrong for Trump and his travel ban. What a shitshow this was.</p>
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}
 
 <hr>
 
@@ -152,7 +152,7 @@ redirect_to: "/trump-travel-ban/"
 
 43/ **New Trump order drops Iraq from travel ban list**. The decision follows pressure from the Pentagon and State Department, which had urged the White House to reconsider Iraq’s inclusion given its key role in fighting the Islamic State group. ([Associated Press](https://apnews.com/8844fb012b054fa484b93b921a9e8bb0){:target="_blank"})
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}

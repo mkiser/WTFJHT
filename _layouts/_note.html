@@ -13,7 +13,7 @@ sitemap: false
 
   <div class="post-date">
     <time datetime="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% endif %}">
-      {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
+      {{ page.date | date: "%-m/%-d/%Y" }} {% include_cached read_time.html %} 
     </time>
     <div>
       <small>
@@ -36,7 +36,7 @@ sitemap: false
     </small>
   </div> 
   
-  {% include social.html %}
+  {% include_cached social.html %}
 
  <!-- Pledge Drive -->
   {% include_cached pledge.html %}

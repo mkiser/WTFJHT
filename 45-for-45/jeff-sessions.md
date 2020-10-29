@@ -14,10 +14,10 @@ sitemap: false
 
 <p class="lead">This guy. What a fraud.</p>
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}
 
 <hr>
 
@@ -84,7 +84,7 @@ sitemap: false
 
 19/ **Trump went “ballistic” on his senior staff over the latest news reports connecting Russia with the new administration and Jeff Sessions abrupt decision to recuse himself**. Trump felt Sessions’ recusal was unnecessary. ([ABC News](http://abcnews.go.com/Politics/trump-flashes-anger-sessions-recusal-russia-stories-tense/story?id=45908106){:target="_blank"})
 
-{% include 45nav.html %}
+{% include_cached 45nav.html %}
 
 <!-- MailChimp -->
-{% include email.html %}
+{% include_cached email.html %}

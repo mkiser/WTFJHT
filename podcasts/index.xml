@@ -47,7 +47,7 @@ layout:
 {% for ep in episodes limit:50  %}
 
   <item>
-    <title>{{ ep.title }}</title>
+    <title>{{ ep.title | xml_escape }}</title>
     <guid isPermaLink="false">{{ ep.url }}</guid>
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
     <category>politics</category>

@@ -1,0 +1,48 @@
+---
+title: Day 1406
+date: 2020-11-25 14:18:00 -08:00
+description: '"A truly fantastic Thanksgiving!"'
+image: "/uploads/1406.jpg"
+todayInOneSentence: Trump pardoned for Michael Flynn; Biden dismissed pursuing investigations
+  into Trump after he leaves office; unemployment claims rose for the second week
+  in a row; the U.S. reported its highest daily coronavirus death toll in more than
+  six months; and Biden's pick for Secretary of State and a top contender for defense
+  secretary co-founded a Washington consulting firm where at least 21 of the 38 employees
+  donated to his campaign.
+---
+
+1/ **Trump pardoned for Michael Flynn**, his first national security advisor, who pleaded guilty – twice – to lying to the FBI about his Russian contacts during the presidential transition in late 2016 and early 2017. Trump announced the news on Twitter and wished Flynn "a truly fantastic Thanksgiving!” The pardon was issued before a judge ruled on a Justice Department motion to dismiss the case and to undo Flynn’s guilty plea to lying to the FBI. Since last year, Flynn’s lawyers have sought to withdraw his guilty plea. In May, Attorney General William Barr and the Justice Department sought to dismiss its charges, declaring that prosecutors should not have brought the case against Flynn. The request to withdraw charges has been pending before a federal judge, who has been reviewing the case. Flynn's pardon is expected to be part of a series of pardons that Trump issues between now and when he leaves office, [including](https://www.nytimes.com/2020/11/25/us/politics/trump-pardons.html) former Trump campaign advisers Rick Gates and George Papadopoulos. ([CNBC](https://www.cnbc.com/2020/11/25/trump-pardons-michael-flynn-in-fbi-lie-case.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-pardons-michael-flynn-who-twice-pleaded-guilty-lying-fbi-n1249031) / [Washington Post](https://www.washingtonpost.com/politics/michael-flynn-trump-pardon/2020/11/25/3cd79198-2e65-11eb-bae0-50bb17126614_story.html) / [NPR](https://www.npr.org/2020/11/25/823893821/trump-pardons-michael-flynn-who-pleaded-guilty-to-lying-about-russia-contact) / [Axios](https://www.axios.com/trump-pardon-michael-flynn-131c78e2-eb58-4294-9ca1-3c5fb00bf96e.html) / [New York Times](https://www.nytimes.com/2020/11/25/us/politics/michael-flynn-pardon.html) / [Politico](https://www.politico.com/news/2020/11/25/trump-pardons-former-national-security-adviser-flynn-440649) / [The Guardian](https://www.theguardian.com/us-news/2020/nov/25/donald-trump-pardons-michael-flynn) / [CNN](https://www.cnn.com/2020/11/24/politics/michael-flynn-pardon-discussion-white-house/index.html))
+
+2/ **Biden dismissed pursuing investigations into Trump after he leaves office**, saying "I will not do what this president does and use the Justice Department as my vehicle to insist that something happened." Biden's comments, however, didn't rule out that the Justice Department could still investigate Trump, since it traditionally operates independently of the White House on criminal matters. Biden also acknowledged that states could continue pursue their own investigations. ([USA Today](https://www.usatoday.com/story/news/politics/elections/2020/11/25/biden-wont-order-investigation-trump-but-legal-troubles-remain/6419769002/))
+
+* **Trump-Biden Transition Live Blogs**: [New York Times](https://www.nytimes.com/live/2020/11/25/us/joe-biden-trump) / [ABC News](https://abcnews.go.com/Politics/live-updates/2020-election-vote-ballot-count-results/?id=74345513) / [CNN](https://www.cnn.com/politics/live-news/biden-trump-us-election-news-11-25-20/index.html)
+
+3/ **Unemployment claims rose for the second week in a row with 778,000 filing for benefits**. Claims haven’t risen for two consecutive weeks since July and it was the largest two-week increase since April. Another 311,000 people applied for jobless benefits under an emergency federal program for gig workers and the self-employed. ([Wall Street Journal](https://www.wsj.com/articles/weekly-jobless-claims-coronavirus-11-25-2020-11606249439) / [New York Times](https://www.nytimes.com/2020/11/25/business/economy/economy-unemployment-benefits-coronavirus.html) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/11/25/938808537/unemployment-claims-jump-for-second-week-as-pandemic-rages) / [CNBC](https://www.cnbc.com/2020/11/25/us-weekly-jobless-claims.html))
+
+4/ **The U.S. reported its highest daily coronavirus death toll in more than six months**. The nearly 2,100 COVID-19 deaths reported Tuesday is the highest mark since May 6, when states reported a combined 2,611 fatalities. The U.S. has added more than one million new cases in each of the past two consecutive weeks. ([Washington Post](https://www.washingtonpost.com/nation/2020/11/24/coronavirus-covid-live-updates-us/) / [New York Times](https://www.nytimes.com/interactive/2020/11/25/us/coronavirus-cases-rising.html))
+
+* #### 😷 Dept. of "We Have It Totally Under Control."
+
+* **Global**: Total confirmed cases: \~60,187,000; deaths: \~1,418,000
+
+* **U.S.**: Total confirmed cases: \~12,728,000; deaths: \~262,000
+
+* Source: [Johns Hopkins University](https://coronavirus.jhu.edu/map.html)
+
+* **Live Blogs:** [New York Times](https://www.nytimes.com/live/2020/11/25/world/covid-19-coronavirus) / [Washington Post](https://www.washingtonpost.com/nation/2020/11/25/coronavirus-covid-live-updates-us/) / [NPR](https://www.npr.org/sections/coronavirus-live-updates) / [NBC News](https://www.nbcnews.com/news/us-news/live-blog/2020-11-25-covid-live-updates-n1248932) / [CNN](https://www.cnn.com/world/live-news/coronavirus-pandemic-11-25-20-intl/index.html) / [Wall Street Journal](https://www.wsj.com/livecoverage/latest-updates/covid?mod=hp_theme_coronavirus-ribbon) / [CNBC](https://www.cnbc.com/2020/11/25/coronavirus-live-updates.html)
+
+* **Trump administration health officials held their first "Operation Warp Speed" briefing with Biden**. The initial meeting was focused on COVID-19 vaccines, therapeutics, and distribution. ([Politico](https://www.politico.com/news/2020/11/25/trump-biden-operation-warp-speed-coronavirus-briefing-440611))
+
+* **The first 6.4 million doses of Pfizer’s coronavirus vaccine could be distributed as early as mid-December if authorized by the FDA and an independent advisory panel to the CDC**. Officials said they are on track to have 40 million doses of vaccines from Pfizer and Moderna by the end of the year – enough to vaccinate 20 million people. ([Washington Post](https://www.washingtonpost.com/health/2020/11/24/vaccine-plan-first-doses/))
+
+5/ **Biden's pick for Secretary of State and a top contender for defense secretary co-founded a Washington consulting firm where at least 21 of the 38 employees donated to his campaign**. Because WestExec's staffers aren’t lobbyists – they aren't directly advocating for federal dollars on behalf of clients – they don't have to disclose who they worked for. One of WestExec former principals, Avril Haines, is Biden’s pick for director of national intelligence, and Michèle Flournoy, a potential pick for defense secretary, raised more than $100,000 alone for Biden. At least five WestExec employees are helping staff Biden’s review teams for the Pentagon, the Treasury Department, the Council of Economic Advisers and other agencies, including Jen Psaki, who is advising Biden’s transition team. Two other former WestExec employees, Lisa Monaco and Julianne Smith, are also considered potential Biden administration hires. ([Politico](https://www.politico.com/news/2020/11/23/westexec-advisors-biden-cabinet-440072))
+
+---
+
+### ✏️ Notables.
+
+1. **The Army Corps of Engineers denied a permit for a gold and copper mine in Alaska, saying it was “contrary to the public interest.”** In a statement, the Army Corps said it would block the Pebble Mine because the project’s waste “does not comply with Clean Water Act guidelines." ([New York Times](https://www.nytimes.com/2020/11/25/climate/pebble-mine-permit-denied.html) / [Politico](https://www.politico.com/news/2020/11/25/trump-administration-alaska-mining-project-440626) / [Washington Post](https://www.washingtonpost.com/climate-environment/pebble-mine-alaska/2020/11/25/bc46575c-2f41-11eb-860d-f7999599cbc2_story.html))
+
+2. **The City of El Paso hired legal counsel to collect more than $500,000 in debt owed by the Trump campaign** from a rally that took place almost two years ago. ([KTSM](https://www.ktsm.com/news/city-of-el-paso-hires-legal-counsel-to-help-collect-trump-campaigns-outstanding-debt/))
+
+3. **Treasury Secretary Steven Mnuchin plans to transfer $455 billion in unspent Cares Act funding into an account that will require congressional authorization to use**. The move leaves Janet Yellen, Mnuchin's presumed successor, with just under $80 billion available in the Treasury’s Exchange Stabilization Fund. ([Bloomberg](https://www.bloomberg.com/news/articles/2020-11-24/mnuchin-to-put-455-billion-in-funds-out-of-yellen-s-easy-reach?sref=MIBMEEoj))

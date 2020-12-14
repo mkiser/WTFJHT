@@ -1,5 +1,5 @@
 ---
-title: Day 1424
+title: Day 1425
 date: 2020-12-14 15:24:00 -08:00
 description: '"Congratulations USA!"'
 image: "/uploads/1425.jpg"

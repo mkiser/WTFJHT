@@ -1,6 +1,7 @@
 ---
 title: Day 1456
 date: 2021-01-14 15:09:00 -08:00
+description: '"Self-pity mode."'
 image: "/uploads/1456.jpg"
 todayInOneSentence: Biden released a $1.9 trillion economic and health care rescue
   package; Biden urged the Senate to balance the impeachment trial of Trump with the

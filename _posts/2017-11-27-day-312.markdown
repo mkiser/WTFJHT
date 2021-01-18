@@ -3,8 +3,6 @@ title: Day 312
 date: 2017-11-27 10:11:00 -08:00
 description: 'Your favorite president. '
 image: "/uploads/312.jpg"
-redirect_from:
-- "/2017/11/27/day-311/"
 ---
 
 1/ **The Senate GOP tax plan would hurt the poor more than originally thought**, according to a report by the nonpartisan Congressional Budget Office. If the tax bill becomes law, 4 million Americans are projected to lose health insurance by 2019 and 13 million by 2027. The bill would add $1.4 trillion to the deficit over the next decade, and Republicans are aiming to have the full Senate vote on the plan as early as this week. ([Washington Post](https://www.washingtonpost.com/news/wonk/wp/2017/11/26/senate-gop-tax-bill-hurts-the-poor-more-than-originally-thought-cbo-finds/))

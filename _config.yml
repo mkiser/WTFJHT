@@ -120,7 +120,6 @@ facebook:
   app_id: 601457263382211
   publisher: 1415262761838827
   admins: 29904434
-ampdir: amp
 sass:
   sass_dir: _sass
   style: compressed
@@ -135,14 +134,8 @@ exclude:
 - Gemfile.lock
 - CONTRIBUTING.md
 - README.md
-- quiz.html
-- instant-feed.xml
-- survey.md
-- drawing-the-news.html
 - meta
-- 45-for-45
 - bad-news.markdown
-- do-something
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT
@@ -159,8 +152,6 @@ algolia:
   - atom.xml
   - faq.md
   - index.html
-  - instant-feed.xml
-  - instantfeed.xml
   - membership.html
   - press.md
   - rss.xml
@@ -249,20 +240,6 @@ polls_get:
   csv: https://projects.fivethirtyeight.com/trump-approval-data/approval_topline.csv
 - data: impeachment_polls
   csv: https://projects.fivethirtyeight.com/impeachment-polls/impeachment_topline.csv
-onebox:
-  whitelist:
-  - nbcnews.com
-  - politico.com
-  - thedailybeast.com
-  - thehill.com
-  - vox.com
-  - cnbc.com
-  - apnews.com
-  - theguardian.com
-  - buzzfeed.com
-  - abcnews.go.com
-  - reuters.com
-  - theverge.com
 podcast_album_art: "/podcasts/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser

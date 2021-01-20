@@ -299,6 +299,10 @@
               var threeYearsAgo = threeYears.getFullYear() - 3;
               threeYears.setFullYear(threeYearsAgo);
               threeYears = threeYears.toISOString().slice(0,10);
+              var fourYears = new Date(data[i].date.date);
+              var fourYearsAgo = threeYears.getFullYear() - 4;
+              fourYears.setFullYear(threeYearsAgo);
+              fourYears = threeYears.toISOString().slice(0,10);
               for (j = 0; j < data.length; j++) { 
                 if (data[j].date.date == lastYear) {
                   document.getElementById('todaylastyear').innerHTML = "<strong>Last year today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
@@ -308,6 +312,9 @@
                 }
               if (data[j].date.date == threeYears) {
                   document.getElementById('todaythreeyearsago').innerHTML = "<strong>Three years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
+                }
+              if (data[j].date.date == fourYears) {
+                  document.getElementById('todayfouryearsago').innerHTML = "<strong>Four years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
                 }
               }     
             }

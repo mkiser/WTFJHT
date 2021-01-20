@@ -300,8 +300,8 @@
               threeYears.setFullYear(threeYearsAgo);
               threeYears = threeYears.toISOString().slice(0,10);
               var fourYears = new Date(data[i].date.date);
-              var fourYearsAgo = threeYears.getFullYear() - 4;
-              fourYears.setFullYear(threeYearsAgo);
+              var fourYearsAgo = fourYears.getFullYear() - 4;
+              fourYears.setFullYear(fourYearsAgo);
               fourYears = threeYears.toISOString().slice(0,10);
               for (j = 0; j < data.length; j++) { 
                 if (data[j].date.date == lastYear) {

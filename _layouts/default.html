@@ -302,7 +302,7 @@
               var fourYears = new Date(data[i].date.date);
               var fourYearsAgo = fourYears.getFullYear() - 4;
               fourYears.setFullYear(fourYearsAgo);
-              fourYears = threeYears.toISOString().slice(0,10);
+              fourYears = fourYears.toISOString().slice(0,10);
               for (j = 0; j < data.length; j++) { 
                 if (data[j].date.date == lastYear) {
                   document.getElementById('todaylastyear').innerHTML = "<strong>Last year today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";

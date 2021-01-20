@@ -2,7 +2,7 @@
 title: Day 1
 date: 2021-01-20 14:04:00 -08:00
 description: '"Democracy has prevailed."'
-image: /uploads/biden-harris-day-1.jpg"
+image: "/uploads/biden-harris-day-1.jpg"
 todayInOneSentence: Biden was sworn as the 46th president of the United States, moments
   after Kamala Harris took her oath of office; Trump, who refused to concede, never
   congratulated Biden and skipped his successor's swearing-in, held a small, socially

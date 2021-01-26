@@ -2,6 +2,7 @@
 title: Day 7
 date: 2021-01-26 14:17:00 -08:00
 description: '"Down into the gutter of rancor and vitriol."'
+image: "/uploads/binde-harris-day-7.jpg"
 todayInOneSentence: Global Covid-19 cases topped 100 million; the Biden administration
   plans to purchase an additional 200 million doses of the Covid-19 vaccine; Mitch
   McConnell dropped his demand that Democrats promise to preserve the filibuster;

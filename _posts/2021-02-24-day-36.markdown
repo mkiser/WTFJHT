@@ -1,0 +1,37 @@
+---
+title: Day 36
+date: 2021-02-24 15:17:00 -08:00
+description: '"More must be done."'
+image: "/uploads/36-biden-covid.jpg"
+todayInOneSentence: House Democrats plan to pass the $1.9 trillion coronavirus relief
+  bill by Friday; the FDA said Johnson & Johnson's coronavirus vaccine meets the requirements
+  for emergency use authorization; the Biden administration will make 25 million masks
+  available – for free – to Americans at community health centers and food banks;
+  two Senate committees postponed Neera Tanden's confirmation hearing; and the Biden
+  administration is expected to release a U.S. intelligence report that Saudi Crown
+  Prince Mohammed bin Salman approved the 2018 killing of journalist Jamal Khashoggi.
+---
+
+1/ **House Democrats plan to pass the $1.9 trillion coronavirus relief bill by Friday**, setting up the Senate to approve the bill with a simple majority, and send it to Biden before March 14, when several unemployment programs expire. A ruling from the Senate parliamentarian is expected soon about whether Biden’s proposed $15-an-hour minimum wage increase would be allowable under Senate "budget reconciliation" rules.  Meanwhile, more than 150 American companies urged congressional leaders to pass "immediate and large-scale federal legislation to address the health and economic crises brought on by the Covid-19 pandemic," saying “more must be done to put the country on a trajectory for a strong, durable recovery.” ([CNBC](https://www.cnbc.com/2021/02/24/house-democrats-aim-to-pass-1point9-trillion-covid-relief-bill-on-friday.html) / [Washington Post](https://www.washingtonpost.com/us-policy/2021/02/24/biden-stimulus-covid-relief-minimum-wage/) / [CNN](https://www.cnn.com/2021/02/24/politics/business-leaders-biden-covid-plan/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-02-24/more-than-150-executives-back-biden-1-9-trillion-stimulus-plan?sref=MIBMEEoj))
+
+
+* #### 😷 Dept. of "We Have It Totally Under Control."
+* **Global**: Total confirmed cases: \~112,420,000; deaths: \~2,493,000
+* **U.S.**: Total confirmed cases: \~28,322,000; deaths: \~505,000; vaccinated: \~13.4% of total population
+* Source: [Johns Hopkins University](https://coronavirus.jhu.edu/map.html) / [Washington Post](https://www.washingtonpost.com/graphics/2020/health/covid-vaccine-states-distribution-doses/)
+
+2/ **The FDA said Johnson & Johnson's coronavirus vaccine meets the requirements for emergency use authorization** in a document posted ahead of Friday's FDA advisers meeting, setting the stage the third effective vaccine developed in under a year to be authorized in the U.S. FDA scientists found that the single dose vaccine was 85% effective at preventing severe illness in clinical trials and 66% effective at preventing Covid-19 cases with any symptoms. ([ABC News](https://abcnews.go.com/Politics/single-dose-johnson-johnson-vaccine-effective-variants-data/story?id=76084549) / [New York Times](https://www.nytimes.com/2021/02/24/science/johnson-johnson-covid-vaccine.html) / [Washington Post](https://www.washingtonpost.com/health/2021/02/24/johnson-and-johnson-vaccine/))
+
+3/ **The Biden administration will make 25 million masks available – for free – to Americans at community health centers and food banks**. The masks will be delivered by Department of Health and Human Services, in partnership with the Department of Defense starting in March through May. ([ABC News](https://abcnews.go.com/Politics/biden-make-25-million-masks-community-health-centers/story?id=76088091))
+
+4/ **Two Senate committees postponed Neera Tanden's confirmation hearing** – Biden’s pick to head the White House Office of Management and Budget. The Senate Homeland Security and Governmental Affairs Committee and the Senate Budget Committee were set to vote on Tanden's nomination Wednesday ahead of a full Senate floor vote, but postponed "because members are asking for more time to consider the nominee." ([Axios](https://www.axios.com/neera-tanden-omb-hearing-postponed-bb36615a-e448-46a0-92b8-dffd27b73a3e.html) / [USA Today](https://www.usatoday.com/story/news/politics/2021/02/24/votes-neera-tanden-bidens-pick-budget-chief-postponed/4573085001/) / [Politico](https://www.politico.com/news/2021/02/24/neera-tanden-committee-vote-postponed-471321))
+
+5/ **The Biden administration is expected to release a U.S. intelligence report that Saudi Crown Prince Mohammed bin Salman approved the 2018 killing of journalist Jamal Khashoggi**. Separately, documents filed as part of a Canadian civil lawsuit say two private jets used by the Saudi assassination squad that killed and dismembered Khashoggi were owned by a company that the crown prince had seized less than a year before. Biden reportedly plans to call Saudi Arabia’s King Salman ahead of Thursday's release of the report, which would be Biden’s first conversation as president with the Saudi king. ([Reuters](https://www.reuters.com/article/us-usa-saudi-biden-idUSKBN2AO2HL) / [CNN](https://www.cnn.com/2021/02/24/politics/saudi-top-secret-documents-khashoggi-bin-salman/index.html) / [The Guardian](https://www.theguardian.com/world/2021/feb/24/jamal-khashoggi-murder-us-report-saudi-arabia-mbs-king-salman-complicit) / [Axios](https://www.axios.com/biden-saudi-king-khashoggi-report-29272e86-a315-4d54-b37d-3a4183d178c4.html))
+
+6/ **The Washington, DC, attorney general's office deposed Trump Jr. related to a lawsuit alleging the misuse of Trump inaugural funds**. The attorney general's office alleges that the Trump Organization signed a contract for a block of rooms at the the Loews Madison hotel during the 2017 inauguration, but forwarded the invoice to the Presidential Inaugural Committee, which then paid the bill. ([CNN](https://www.cnn.com/2021/02/24/politics/donald-trump-jr-deposition/index.html))
+
+* **The Manhattan district attorney's office subpoenaed Steve Bannon's financial records related to crowd-funding border wall effort**. The New Jersey attorney general's office has also launched a civil inquiry into We Build the Wall, in addition to the criminal investigation. ([CNN](https://www.cnn.com/2021/02/24/politics/bannon-investigation-gains-steam/index.html))
+
+poll/ **61% of adults say the possibility that students will fall behind academically without in-person instruction should be given a lot of consideration as K-12 schools decide whether to reopen**. In July 2020, 48% said students falling behind academically should be given a lot of consideration about whether to open for in-person instruction in the fall. ([Pew Research Center](https://www.pewresearch.org/fact-tank/2021/02/24/more-americans-now-say-academic-concerns-should-be-a-top-factor-in-deciding-to-reopen-k-12-schools/))
+
+poll/ **5.6% of U.S. adults identify as LGBT** – up from 4.5% since 2017. ([Gallup](https://news.gallup.com/poll/329708/lgbt-identification-rises-latest-estimate.aspx))

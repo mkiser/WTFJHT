@@ -3,7 +3,7 @@ title: Day 48
 date: 2021-03-08 13:57:00 -08:00
 description: '"We just need to hang on a bit longer."'
 image: "/uploads/48-biden-covid.jpg"
-todayInOneSentence: 'The Senate passed the $1.9 trillion the coronavirus relief package;
+todayInOneSentence: 'The Senate passed the $1.9 trillion coronavirus relief package;
   the House plans to pass the relief bill as soon as Tuesday, putting Biden on track
   to sign his first major legislative accomplishment into law by the end of the week;
   new CDC guidance says that people who are fully vaccinated against Covid-19 can

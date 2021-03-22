@@ -55,7 +55,7 @@ layout:
     <dc:creator>{{ site.podcast_owner }}</dc:creator>
 
     {% assign post = site.posts | where: 'title', ep.post %}
-    {% for link in post %}
+    {% for link in post limit:1 %}
     <link>{{ site.url }}{{ site.baseurl }}{{ link.url }}</link>
     <description>    
         <![CDATA[

@@ -1,0 +1,46 @@
+---
+title: Day 65
+date: 2021-03-25 13:53:00 -07:00
+description: '"Chaos as a consequence."'
+image: "/uploads/day-65-biden.jpg"
+todayInOneSentence: The Biden administration expects to distribute 200 million doses
+  of Covid-19 vaccines in its first 100 days; another 684,000 people filed for initial
+  unemployment claims last week; the U.S. could have limited coronavirus deaths to
+  under 300,000 had it adopted widespread mask, social distancing, and testing protocols;
+  the Georgia House passed a sweeping election overhaul bill to limit voting access
+  in the state; and Joe Manchin said he had “legitimate” concerns over some of its
+  provisions in the For the People Act, the most significant federal election and
+  voting rights expansion in a generation.
+---
+
+1/ **The Biden administration expects to distribute 200 million doses of Covid-19 vaccines in its first 100 days** – double its original goal that was surpassed last week. ([Politico](https://www.politico.com/news/2021/03/25/biden-doubles-vaccine-goal-478006) / [NPR](https://www.npr.org/2021/03/25/980106862/watch-live-biden-holds-1st-press-conference-of-his-presidency))
+
+* #### 😷 Dept. of "We're gonna get through this."
+
+* **Global**: Total confirmed cases: \~125,235,000; deaths: \~2,750,000
+
+* **U.S.**: Total confirmed cases: \~30,059,000; deaths: \~546,000; fully vaccinated: \~13.5%; partially vaccinated: \~26.3%
+
+* Source: [Johns Hopkins University](https://coronavirus.jhu.edu/map.html) / [Washington Post](https://www.washingtonpost.com/graphics/2020/health/covid-vaccine-states-distribution-doses/)
+
+2/ **Another 684,000 people filed for initial unemployment claims last week** – the lowest since mid-March of last year but still at historically high levels. In total, some 18.95 million people continue to collect jobless benefits. ([ABC News](https://abcnews.go.com/US/wireStory/us-jobless-claims-fall-684000-fewest-pandemic-76674378) / [Washington Post](https://www.washingtonpost.com/business/2021/03/25/jobless-claims-work-unemployment/) / [New York Times](https://www.nytimes.com/2021/03/25/business/weekly-unemployment-claims.html) / [Wall Street Journal](https://www.wsj.com/articles/weekly-jobless-claims-coronavirus-03-25-2021-11616627094?mod=hp_lead_pos2))
+
+* **The Senate voted 92-7 to extend the Paycheck Protection Program for another two months**, sending the bill to Biden for his signature after the House passed the legislation last week. ([Politico](https://www.politico.com/news/2021/03/25/paycheck-protection-program-extension-478025))
+
+* **Black farmers received $20.8 million out of nearly $26 billion in payments under the Trump administration’s coronavirus relief for American farmers** – about 0.1% of the overall package. ([Washington Post](https://www.washingtonpost.com/business/2021/03/25/vilsack-interview-usda-rescue-plan/))
+
+3/ **The U.S. could have limited coronavirus deaths to under 300,000 had it adopted widespread mask, social distancing, and testing protocols while awaiting a vaccine**, according to a new research paper. UCLA economics professor Andrew Atkeson projected that the final U.S. death toll will be close to 670,000, and that without a vaccine that number would be close to 1.27 million. ([Reuters](https://www.reuters.com/article/us-health-coronavirus-usa-economy-idUSKBN2BH1DK))
+
+4/ **The White House will direct $10 billion to expand coronavirus vaccine access for low-income, rural, and minority communities**. About $6 billion will go to 1,400 federally funded community health centers that serve high risk patients. An additional $3 billion will go to education and outreach programs by local health and community organizations to increase vaccination access and acceptance in high-risk communities. ([NBC News](https://www.nbcnews.com/politics/white-house/white-house-announces-10-billion-vaccine-access-effort-aimed-hard-n1262014))
+
+* **FEMA will reimburse families for funeral expenses of loved ones who died last year from Covid-19**. FEMA set aside $2 billion dollars to reimburse individuals and households for funeral expenses between Jan. 20 and Dec. 31, 2020, paying up to $9,000 in expenses for individual funerals and a maximum of $35,000 for families who lost multiple members. ([ABC News](https://abcnews.go.com/Politics/fema-reimburse-families-years-covid-related-funeral-expenses/story?id=76658708))
+
+5/ **Gov. Andrew Cuomo arranged special access to state-administered coronavirus testing for family members and other influential people**. New York law prohibits state officials from using their positions to secure privileges for themselves or others. ([New York Times](https://www.nytimes.com/2021/03/24/nyregion/cuomo-family-covid-testing.html) / [Washington Post](https://www.washingtonpost.com/politics/andrew-cuomo-family-covid-testing/2021/03/24/e8f6f4a8-8cb8-11eb-aff6-4f720ca2d479_story.html))
+
+6/ **The Texas attorney general's office refused to release messages Ken Paxton sent or received while in Washington for the Jan. 6 pro-Trump rally that led to the Capitol riot**. Paxton's office is supposed to enforce the state's open records laws under the Texas Public Information Act, which guarantees the public's right to government records. Instead, the office has refused to release copies of Paxton's emails and text messages. ([Texas Tribune](https://www.texastribune.org/2021/03/25/texas-ken-paxton-trump-insurrection/))
+
+7/ **The Senate confirmed Dr. Rachel Levine as assistant secretary for health in the Department of Health and Human Services** – the first openly transgender federal official to be confirmed by the Senate. ([NPR](https://www.npr.org/2021/03/24/980788146/senate-confirms-rachel-levine-a-transgender-woman-as-assistant-health-secretary))
+
+8/ **The Georgia House passed a sweeping election overhaul bill to limit voting access in the state**. The Republican-led effort would rewrite many of the state’s voting regulations, including limiting drop boxes, increasing absentee voter ID requirements, prohibiting distributing food and most beverages to people waiting in line to vote, and stripping the secretary of state of some authority. The 100-75 party-line vote sends the bill to the state Senate where Republican lawmakers are expected to pass the final bill next week before the end of the session. Biden, meanwhile, called efforts to limit voting rights “sick” and “un-American," saying he's "worried about is how un-American this whole initiative is. It's sick. It's sick.” ([Atlanta Journal-Constitution](https://www.ajc.com/politics/bill-changing-georgia-voting-rules-passes-state-house/EY2MATS6SRA77HTOBVEMTJLIT4/) / [New York Times](https://www.nytimes.com/2021/03/25/us/georgia-voting-rights-bill.html) / [Talking Points Memo](https://talkingpointsmemo.com/news/georgia-election-overhaul-legislation-passes-house) / [Politico](https://www.politico.com/news/2021/03/25/biden-gop-voting-laws-478001) / [CNN](https://www.cnn.com/2021/03/25/politics/georgia-state-house-voting-bill-passage/index.html))
+
+9/ **Joe Manchin said he had “legitimate” concerns over some of its provisions in the For the People Act**, the most significant federal election and voting rights expansion in a generation. Manchin urged Democrats to take a bipartisan approach, saying "pushing through legislation of this magnitude on a partisan basis may garner short-term benefits, but will inevitably only exacerbate the distrust that millions of Americans harbor against the U.S. government.” To pass in the Senate, Democrats will likely need to persuade all 50 Democrats to change the filibuster rules to overcome uniform Republican opposition to the legislation. Manchin and Kyrsten Sinema, however, have said they are no votes on getting rid of the filibuster. Biden, meanwhile, said the filibuster was being “abused in a gigantic way” and signaled that he could support changing the Senate’s rules in order to pass key parts of his agenda. "We're going to get a lot done. And if we have to — if there's complete lockdown and chaos as a consequence of the filibuster, then we'll have to go beyond" the talking filibuster. ([New York Times](https://www.nytimes.com/live/2021/03/25/us/biden-news-today/joe-manchin-pumps-the-brakes-on-democrats-elections-overhaul) / [Politico](https://www.politico.com/news/2021/03/25/manchin-voting-rights-compromise-477976) / [NBC News](https://www.nbcnews.com/politics/congress/joe-biden-says-senate-filibuster-being-abused-must-be-changed-n1262079) / [Washington Post](https://www.washingtonpost.com/politics/2021/03/25/joe-biden-live-updates/#link-ONMFE6PQTRANVB4SFTZSHU256U))

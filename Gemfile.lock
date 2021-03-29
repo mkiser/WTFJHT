@@ -71,7 +71,7 @@ GEM
       htmlentities (~> 4.3)
       jekyll (>= 2.0, < 4.0)
     json (2.3.1)
-    kramdown (2.3.0)
+    kramdown (2.3.1)
       rexml
     liquid (4.0.3)
     liquid-c (4.0.0)

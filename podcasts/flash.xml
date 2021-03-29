@@ -26,7 +26,7 @@ layout:
         <item>
             <title>{{ ep.title }}</title>
             {% assign post = site.posts | where: 'title', ep.post %}
-            {% for link in post %}
+            {% for link in post limit:1 %}
             <link>http://wtfjusthappenedtoday.com{{ link.url }}</link>
             <pubDate>{{ ep.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
             <guid isPermaLink="false">{{ ep.url }}</guid>

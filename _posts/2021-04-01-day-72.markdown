@@ -1,0 +1,36 @@
+---
+title: Day 72
+date: 2021-04-01 15:44:00 -07:00
+description: '"Based on a lie."'
+image: "/uploads/day-72-biden.jpg"
+todayInOneSentence: The Texas Senate passed new voting restrictions in the state;
+  Georgia's Republican-controlled House stripped Delta Air Lines of a tax break worth
+  tens of millions of dollars as punishment for its CEO's criticism of the state's
+  new voting restrictions; about 15 million doses of the Johnson & Johnson were accidentally
+  ruined; Biden asked Education Secretary Miguel Cardona to conduct a review of his
+  legal authority to cancel student debt; and another 719,000 people applied for unemployment
+  benefits.
+---
+
+1/ **The Texas Senate passed new voting restrictions in the state**. Senate Bill 7 would limit extended early voting hours, prohibit drive-thru voting, and make it illegal for election officials to send applications to vote by mail to voters, even if they qualify. The bill now heads to the House for consideration. ([Texas Tribune](https://www.texastribune.org/2021/04/01/texas-voting-restrictions-legislature/) / [NBC News](https://www.nbcnews.com/politics/elections/texas-senate-passes-restrictive-new-voting-bill-n1262743) / [Associated Press](https://apnews.com/article/legislature-bills-voting-rights-elections-greg-abbott-18c254a6597e7a13ea45205cb35b3dd2))
+
+2/ **Georgia's Republican-controlled House stripped Delta Air Lines of a tax break worth tens of millions of dollars as punishment for its CEO's criticism of the state's new voting restrictions**. The bill was not taken up by the state Senate before it adjourned and has not become law. Delta’s CEO, Ed Bastian, called the bill "unacceptable" and that it "does not match Delta’s values." Bastian added: "The entire rationale for this bill was based on a lie: that there was widespread voter fraud in Georgia in the 2020 elections. This is simply not true." Delta Air Lines is Georgia’s largest employer. Coca-Cola, UPS, Home Depot, Porsche Cars North America, and the Atlanta Falcons have also criticized the legislation.
+\([Forbes](https://www.forbes.com/sites/roberthart/2021/04/01/georgia-house-passes-bill-stripping-delta-of-a-multimillion-tax-break-after-it-slammed-the-states-new-voting-restrictions/?sh=1e2d9a014a42) / [CNN](https://www.cnn.com/2021/04/01/politics/georgia-voting-law-house-delta-tax-breaks/index.html) / [Reuters](https://www.reuters.com/article/us-usa-georgia-voting-companies-idUSKBN2BN1M9) / [NPR](https://www.npr.org/2021/04/01/983450176/based-on-a-lie-georgia-voting-law-faces-wave-of-corporate-backlash) / [CNBC](https://www.cnbc.com/2021/03/31/delta-ceo-blasts-georgia-voting-law-after-backlash-on-social-media.html) / [New York Times](https://www.nytimes.com/2021/04/01/us/politics/biden-espn-baseball-georgia.html))
+
+* **State lawmakers have introduced 361 restrictive election bills in 47 state legislatures** – a 43% increase since mid-February. ([NBC News](https://www.nbcnews.com/politics/elections/election-bills-surge-nationwide-47-states-consider-restrictions-n1262697))
+
+3/ **About 15 million doses of the Johnson & Johnson were accidentally ruined** after a manufacturing contractor mistakenly mixed the vaccine with ingredients from the AstraZeneca coronavirus shot. The company still met its goal of shipping 20 million doses to the U.S. in March, and has promised 100 million doses by the end of May. ([New York Times](https://www.nytimes.com/2021/03/31/world/johnson-and-johnson-vaccine-mixup.html) / [Politico](https://www.politico.com/news/2021/03/31/johnson-johnson-vaccine-15-million-ruined-478776) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/2021/04/01/983380847/johnson-johnson-says-contractor-botched-part-of-vaccine-production))
+
+* #### 😷 Dept. of "We're gonna get through this."
+
+* **Global**: Total confirmed cases: \~129,335,000; deaths: \~2,822,000
+
+* **U.S.**: Total confirmed cases: \~30,533,000; deaths: \~554,000; fully vaccinated: \~15.9%; partially vaccinated: \~30.0%
+
+* Source: [Johns Hopkins University](https://coronavirus.jhu.edu/map.html) / [Washington Post](https://www.washingtonpost.com/graphics/2020/health/covid-vaccine-states-distribution-doses/)
+
+* **Pfizer's coronavirus vaccine provides high levels of protection against Covid-19 six months after the second dose**, with no serious safety concerns, according to the ongoing Phase 3 clinical trial. The trials also suggest that the vaccine is effective against the variant that first emerged in South Africa. ([NBC News](https://www.nbcnews.com/news/us-news/pfizer-says-trials-suggest-covid-vaccine-works-against-south-african-n1262710) / [CNN](https://www.cnn.com/2021/04/01/health/pfizer-covid-vaccine-efficacy-six-months-bn/))
+
+4/ **Biden asked Education Secretary Miguel Cardona to conduct a review of his legal authority to cancel student debt**. White House chief of staff Ron Klain said Biden will make a decision on how to proceed once he reviews the memo. "He’ll look at that legal authority, he’ll look at the policy issues around that, and then he’ll make a decision," Klain said. "He hasn’t made a decision on that, either way, in fact, he hasn’t yet gotten the memos that he needs to start to focus on that decision." ([Politico](https://www.politico.com/newsletters/playbook-pm/2021/04/01/top-takeaways-from-our-ron-klain-interview-492326) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-review-executive-authority-cancel-student-debt-n1262791))
+
+5/ **Another 719,000 people applied for unemployment benefits** – up 61,000 from last week. Prior to the pandemic, jobless claims typically ran below 220,000 a week. ([Politico](https://www.politico.com/news/2021/04/01/us-jobless-claims-rise-covid-forces-layoffs-478816) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-04-01/u-s-state-jobless-insurance-claims-unexpectedly-rose-last-week?srnd=premium&sref=MIBMEEoj))

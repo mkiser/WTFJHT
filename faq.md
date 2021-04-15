@@ -51,23 +51,23 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 **Why don't you publish WTF Just Happened Today in the morning?** It's not called WTF Just Happened Yesterday.
 
-**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Friday, except for federal, market holidays, and some random holidays, including Donald Trump's birthday. Below is the 2020 schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
+**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Friday, except for federal, market holidays, and some random holidays, including  Trump's and Biden's birthdays. Below is the 2021 schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
-* **2020**
+* **2021**
 * New Year's Day – January 1
-* Martin Luther King, Jr. Day – January 20
-* President's Day – February 17
-* Good Friday – April 10
-* Easter – April 12 (observed April 13)
-* Memorial Day – May 25
-* Donald Trump's Birthday – June 14 (observed June 15)
-* Independence Day – July 4 (observed July 3)
-* Labor Day – September 7
-* Columbus Day – October 12
+* Martin Luther King, Jr. Day – January 18
+* President's Day – February 15
+* Good Friday – April 2
+* Memorial Day – May 31
+* Trump's Birthday – June 14
+* Independence Day – July 4 (observed July 5)
+* Labor Day – September 6
+* Columbus Day – October 11
 * Veterans Day – November 11
-* Thanksgiving Day – November 26
+* Biden's Birthday – November 20 (observed November 19)
+* Thanksgiving Day – November 25
 * Christmas Eve – December 24
-* Christmas Day – December 25
+* Christmas Day – December 25 (observed December 27)
 * New Year's Eve – December 31
 
 ---

@@ -56,6 +56,7 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 * **2021**
 * New Year's Day – January 1
 * Martin Luther King, Jr. Day – January 18
+* WTF Just Happened Today?'s Birthday – January 20
 * President's Day – February 15
 * Good Friday – April 2
 * Memorial Day – May 31

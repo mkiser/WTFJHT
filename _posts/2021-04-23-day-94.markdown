@@ -3,6 +3,13 @@ title: Day 94
 date: 2021-04-23 14:22:00 -07:00
 description: '"A critical step."'
 image: "/uploads/94-biden.jpg"
+todayInOneSentence: The U.S. death rate in 2020 was the highest above normal ever
+  recorded; Sen. Ron Johnson questioned the “big push” to get everyone vaccinated
+  against the coronavirus; a federal vaccine advisory panel recommended that the U.S.
+  resume the use of the Johnson & Johnson coronavirus vaccine; the Department of Housing
+  and Urban Development withdrew a Trump-era proposal that would've allowed single-sex
+  homeless shelters to discriminate against transgender people; and 59% of 18-to-29-year-old
+  Americans approve of Biden’s job performance.
 ---
 
 1/ **The U.S. death rate in 2020 was the highest above normal ever recorded**. In 2020, 3.4 million people died in the U.S., representing a 16% increase from the previous year in what epidemiologists call “excess deaths,” or deaths above normal. The 1918 flu pandemic caused a 12% jump in excess deaths. The CDC has said about 10% of the deaths last year can be directly attributed to Covid-19. ([New York Times](https://www.nytimes.com/interactive/2021/04/23/us/covid-19-death-toll.html))

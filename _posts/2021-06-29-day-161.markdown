@@ -3,9 +3,9 @@ title: Day 161
 date: 2021-06-29 14:19:00 -07:00
 description: '"Take the win."'
 image: "/uploads/day-161-biden.jpg"
-todayInOneSentence: Joe Manchin agreed to support using budget reconciliation to pass
-  a broader tax and social spending bill; Maricopa County will replace all of the
-  voting equipment that was turned over to contractors hired by the Republican-controlled
+todayInOneSentence: Joe Manchin agreed to support the use of budget reconciliation
+  to pass a broader tax and social spending bill; Maricopa County will replace all
+  of the voting equipment that was turned over to contractors hired by the Republican-controlled
   state Senate to conduct its audit of 2020 presidential election results; the House
   will vote to remove statues honoring Confederate and other white supremacist leaders
   from public display in the Capitol; Trump Organization attorneys met with New York

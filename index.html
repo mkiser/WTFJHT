@@ -10,6 +10,7 @@ seo:
 
 {% include_cached email.html %}
 <div class="posts">
+  
   {% assign now = site.time | date: '%Y-%m-%d' %}
   {% assign note = site.notes.last %}
   {% assign notedate = note.date | date: '%Y-%m-%d' %}
@@ -22,9 +23,7 @@ seo:
 
   {% for page in site.posts limit:1 %}
   <article class="post">
-    {% if page.is_away_mode == true %}
-      {% include away_mode.html %}
-    {% endif %}
+    {% include_cached away_mode.html %}
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ page.url }}">
         {{ page.title }}:

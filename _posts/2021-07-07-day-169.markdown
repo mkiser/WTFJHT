@@ -1,0 +1,29 @@
+---
+title: Day 169
+date: 2021-07-07 13:07:00 -07:00
+description: '"A lot of good things."'
+image: "/uploads/day-169-070721.jpg"
+todayInOneSentence: 'Trump filed a class-action lawsuit against Google, Facebook,
+  and Twitter; a new book says Trump told his chief of staff that Hitler "did a lot
+  of good things;" Russian hackers breached an RNC contractor and launched a major
+  ransomware attack; a Republican senator told a GOP luncheon that climate change
+  in "bullshit;" the FBI infiltrated a "Bible study" group that discussed acts of
+  domestic terrorism; and Americans'' life ratings are at a record high. '
+author: Joe Amditis
+---
+
+1/ **Trump sued Google, Facebook, and Twitter**. He filed a class action lawsuit seeking "punitive damages" to represent broader complaints about social media policies. ([Axios](https://www.axios.com/trump-lawsuit-facebook-twitter-82323cf3-b8ce-48ed-8cab-cafe31f0bae7.html) / [Associated Press](https://apnews.com/article/lawsuits-business-government-and-politics-c7e26858dcb553f92d98706d12ad510c) / [Washington Post](https://www.washingtonpost.com/technology/2021/07/07/trump-lawsuit-social-media/) / [BBC](https://www.bbc.com/news/world-us-canada-57754435))
+
+2/ **Trump told his chief of staff that Hitler "did a lot of good things," according to a new book by Michael Bender.** The remarks shocked John Kelly, Bender reports, detailing the former president’s "stunning disregard for history." ([The Guardian](https://www.theguardian.com/us-news/2021/jul/06/donald-trump-hitler-michael-bender-book))
+
+3/ **Weeks after her visit to the Holocaust Museum, Rep. Marjorie Taylor Greene made new Nazi-era comparison in opposing the latest COVID-19 vaccination push**. The Georgia Republican used the phrase “medical brown shirts” in describing officials and volunteers encouraging all Americans to get vaccinated. ([Washington Post](https://www.washingtonpost.com/politics/weeks-after-holocaust-museum-visit-rep-greene-makes-new-nazi-era-comparison-in-opposing-vaccination-push/2021/07/06/96ba967e-dea0-11eb-9f54-7eee10b5fcd2_story.html))
+
+4/ **Russian hackers are accused of breaching a contractor for the Republican National Committee last week**, around the same time that Russian cyber-criminals launched the single largest global ransomware attack on record. The attack occurred weeks after a U.S.-Russian summit. ([New York Times](https://www.nytimes.com/2021/07/06/technology/rnc-hacked-cyberattack-russia.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-07-06/russian-state-hackers-breached-republican-national-committee) / [NBC News](https://www.nbcnews.com/politics/national-security/code-huge-ransomware-attack-written-avoid-computers-use-russian-says-n1273222))
+
+5/ **Rep. Mo Brooks says he can’t be sued for inciting Capitol riot because he is a federal employee**. The Alabama Republican said he acted as member of Congress in a fiery speech with Trump on Jan. 6 urging the overturning of presidential election results. ([Washington Post](https://www.washingtonpost.com/local/legal-issues/mo-brooks-capitol-riot-lawsuit/2021/07/06/fa69a34c-de80-11eb-9f54-7eee10b5fcd2_story.html))
+
+6/ **GOP Sen. Ron Johnson mouthed that climate change is "bullshit" during a GOP luncheon**. Johnson insisted again last week that he is not a climate change denier, but video of him from just weeks earlier shows him telling a Republican group that it is "bullshit." ([CNN](https://www.cnn.com/2021/07/06/politics/kfile-ron-johnson-climate-change/index.html))
+
+7/ **The FBI infiltrated a group whose members wanted to test homemade bombs, surveil the U.S. Capitol, and secede from the U.S.** Court records show the FBI has infiltrated a "Bible study" group in Virginia that after the January 6 riot had members discussing surveilling the US Capitol and their wish for secession from the US, and investigators closely followed one member's plans to build and test Molotov cocktails, ([CNN](https://www.cnn.com/2021/07/07/politics/capitol-riot-bible-study-group-fbi-virginia/index.html))
+
+poll/ **Americans' life ratings are at a record high**. An estimated 59.2% of U.S. adults rate their lives well enough to be categorized as "thriving" exceeding the previous record-high estimate of 57.3% from 2017. ([Gallup](https://news.gallup.com/poll/351932/americans-life-ratings-reach-record-high.aspx))

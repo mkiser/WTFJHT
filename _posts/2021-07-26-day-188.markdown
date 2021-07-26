@@ -1,7 +1,7 @@
 ---
 title: Day 188
 date: 2021-07-26 14:44:00 -07:00
-description: '"Vaccine mandate."'
+description: Mandate.
 image: "/uploads/day-188-072621.jpg"
 todayInOneSentence: The VA issued a vaccine mandate for all healthcare workers; Biden
   said the long-term effects of COVID will qualify as federal disabilities; Democrats

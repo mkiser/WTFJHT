@@ -1,7 +1,7 @@
 ---
 title: Day 202
 date: 2021-08-09 14:51:00 -07:00
-description: '"Force protection and readiness issue."'
+description: '"Force protection and readiness."'
 image: "/uploads/day-202-080921.jpg"
 todayInOneSentence: The Pentagon will require all U.S. servicemembers to get vaccinated;
   a Texas judge blocked the arrest of Democratic lawmakers who fled the state; Senate

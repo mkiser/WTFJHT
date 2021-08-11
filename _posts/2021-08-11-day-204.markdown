@@ -3,13 +3,13 @@ title: Day 204
 date: 2021-08-11 14:05:00 -07:00
 description: '"A badge of honor."'
 image: "/uploads/day-204-081121.jpg"
-todayInOneSentence: The Senate passed a $3.5 trillion budget plan along part lines;
+todayInOneSentence: The Senate passed a $3.5 trillion budget plan along party lines;
   NY Gov. Andrew Cuomo resigned; the federal government sent 200 ventilators to Florida;
   California became the first state to require all teachers and school staff to get
   vaccinated; the Texas House speaker signed arrest warrants for state Democrats who
-  fled the state to prevent GOP voter suppression laws; Trump must turn over some
-  of his tax records to House investigators; Biden nominated Damian Williams to be
-  the next U.S. Attorney in Manhattan; and YouTube suspended Rand Paul's account over
+  fled the state to block GOP voter suppression laws; Trump must turn over some of
+  his tax records to House investigators; Biden nominated Damian Williams to be the
+  next U.S. Attorney in Manhattan; and YouTube suspended Rand Paul's account over
   a COVID misinformation video he posted about masks.
 author: Joe Amditis
 ---

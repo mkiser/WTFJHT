@@ -1,0 +1,27 @@
+---
+title: Day 218
+date: 2021-08-25 14:45:00 -07:00
+description: '"Communications within."'
+image: "/uploads/day-218-082521.jpg"
+todayInOneSentence: The majority of the federal rental assistance funding has yet
+  to be distributed; the Supreme Court ruled that the Biden administration must comply
+  with Trump's "Remain in Mexico" program for asylum seekers; the 1/6 committee demanded
+  documents from several U.S. agencies and at least 30 members of Trump's inner circle;
+  the Secret Service warned the Capitol Police about the 1/6 attack a day in advance;
+  Biden received an inconclusive intelligence report about the origin of COVID-19;
+  and the FCC proposed a $5.1 million fine against conservative activists who made
+  unlawful robocalls to spread misinformation about mail-in voting.
+author: Joe Amditis
+---
+
+1/ **Roughly 89% of the funds from the Emergency Rental Assistance Program have not been distributed, according to the Treasury Department.** Just $1.7 billion of the $46.5 billion in funds intended to prevent eviction were disbursed as of July. Meanwhile, the White House is bracing for a Supreme Court decision that could strike down its eviction moratorium. ([New York Times](https://www.nytimes.com/2021/08/25/us/politics/eviction-rental-assistance.html))
+
+2/ **The Supreme Court ruled that the Biden administration must comply with a ruling ordering it to restart Trump's "Remain in Mexico" program for asylum seekers**. Under the program, thousands of asylum seekers were sent to wait outside U.S. territory while their claims were processed in immigration courts. ([Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-remain-in-mexico/2021/08/24/6bba350a-0507-11ec-a654-900a78538242_story.html))
+
+3/ **The House committee investigating the Capitol riot requested documents from several U.S. agencies related to the attack, signaling that they intend to conduct a sprawling  investigative effort**. The committee demanded records related to at least 30 members of Trump's inner circle and plans to seek executive branch records related to the attack and its run-up — including "communications within and among the White House and Executive Branch agencies" on and before Jan. 6. ([CNN](https://www.cnn.com/2021/08/25/politics/january-6-house-documents-investigation/index.html) / [CNBC](https://www.cnbc.com/2021/08/25/jan-6-committee-demands-huge-trove-of-trump-white-house-records.html) / [Politico](https://www.politico.com/news/2021/08/25/capitol-insurrection-committee-probe-506875))
+
+4/ **The Secret Service warned Capitol Police about violent threats the day before the Jan. 6 attack**. The documents shed further light on the intelligence failures by the Capitol Police in the days before the riot. Capitol Police were warned that their officers could face violence at the hands of supporters of former President Trump. ([Politico](https://www.politico.com/news/2021/08/25/secret-service-warned-capitol-police-violent-threats-january-riot-506806))
+
+5/ **Biden received an inconclusive classified intelligence report on the origin of COVID-19**. The report could not confirm whether the pathogen jumped from an animal to a human as part of a natural process, or escaped from a lab in central China. The intelligence community will seek within days to declassify elements of the report for potential public release, officials said. ([Washington Post](https://www.washingtonpost.com/politics/2021/08/24/covid-origins-biden-intelligence-review/))
+
+6/ **The FCC proposed a $5.1 million fine against conservative activists for making unlawful robocalls that made false claims about mail-in voting.** The calls lied about mail voting in the run-up to the 2020 election. It is the largest robocall fine ever proposed by the FCC for violating the Telephone Consumer Protection Act. ([NBC News](https://www.nbcnews.com/politics/elections/fcc-looks-fine-conservative-activists-5-million-false-mail-voting-n1277569) / [Associated Press](https://apnews.com/article/technology-business-elections-election-2020-260f8df2ed47fa17bf3e88d0a49e64f6))

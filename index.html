@@ -23,7 +23,6 @@ seo:
 
   {% for page in site.posts limit:1 %}
   <article class="post">
-    {% include_cached away_mode.html %}
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ page.url }}">
         {{ page.title }}:

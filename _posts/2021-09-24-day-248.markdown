@@ -1,7 +1,7 @@
 ---
 title: Day 248
 date: 2021-09-24 14:37:00 -07:00
-description: '"Delays and excuses".'
+description: '"Delays and excuses."'
 image: "/uploads/day-248-biden.jpg"
 todayInOneSentence: The House select committee investigating the Jan. 6 attack on
   the Capitol subpoenaed four of Trump’s closest advisers; Biden will not invoke executive

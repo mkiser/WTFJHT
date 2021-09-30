@@ -1,7 +1,7 @@
 ---
 title: Day 237
 date: 2021-09-13 14:55:00 -07:00
-description: "There's no way."
+description: There's no way.
 image: "/uploads/237-biden-covid.jpg"
 todayInOneSentence: House Democrats outlined their proposed tax increases on corporations
   and wealthy people to help offset the costs of Biden’s $3.5 trillion economic plan;

@@ -2,7 +2,7 @@
 title: Day 265
 date: 2021-10-11 14:38:00 -07:00
 description: '"Failures."'
-image: /uploads/265-biden.jpg"
+image: "/uploads/265-biden.jpg"
 todayInOneSentence: A Capitol Police whistleblower accused the agency’s two senior
   leaders of significant "failures" surrounding the Jan. 6 riot at the U.S. Capitol;
   a federal appeals court temporarily reinstated the nation’s most restrictive abortion

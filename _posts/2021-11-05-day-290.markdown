@@ -3,7 +3,7 @@ title: Day 290
 date: 2021-11-05 16:01:00 -07:00
 description: "“We’ll see, won’t we?”"
 image: "/uploads/290-biden-infrastructure.jpg"
-todayInOneSentence: The House will vote the $1 trillion infrastructure bill tonight
+todayInOneSentence: The House will vote on the $1 trillion infrastructure bill tonight
   after abandoning an agreement with progressive Democrats to first vote on a separate
   $1.75 trillion education, healthcare, and climate package; the attorneys general
   in 11 states sued the Biden administration to stop new rules requiring workers at

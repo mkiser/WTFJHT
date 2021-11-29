@@ -1,7 +1,7 @@
 ---
 title: Day 307
 date: 2021-11-22 14:45:00 -08:00
-description: '"Backsliding"'
+description: '"Backsliding."'
 image: "/uploads/day-307-biden.jpg"
 todayInOneSentence: The number of U.S. Covid-19 deaths in 2021 surpassed the 2020
   death toll; Wisconsin Sen. Ron Johnson publicly urged the Republican-controlled

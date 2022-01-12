@@ -1,7 +1,7 @@
 ---
 title: Day 358
 date: 2022-01-12 14:43:00 -08:00
-description: 'Day 358: "It''s hard to process what''s actually happening right now."'
+description: '"It''s hard to process what''s actually happening right now."'
 image: "/uploads/day-358-biden.jpg"
 todayInOneSentence: The White House will provide 10 million free coronavirus tests
   a month to U.S. schools to help keep classes in person; inflation increased 7% in

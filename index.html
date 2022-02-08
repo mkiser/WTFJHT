@@ -44,8 +44,9 @@ seo:
         <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
       </small>
       </div>
-    </div>    
-    {% assign pod = site.podcasts | where: 'post', page.title | last %}
+    </div> 
+    
+    {% assign pod = site.podcasts | where: 'post', page.title | first %}
     {% if pod %}
     {% for ep in pod limit:1 %}
       <div class="pod">

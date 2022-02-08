@@ -46,9 +46,10 @@ seo:
       </div>
     </div> 
     
-    {% assign pod = site.podcasts | where: 'post', page.title | first %}
+    {% assign pod = site.podcasts | where: 'post', page.title %}
     {% if pod %}
     {% for ep in pod limit:1 %}
+    <!-- {{pod}} / {{ep}} / {{page.title}} -->
       <div class="pod">
         <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
       </div>

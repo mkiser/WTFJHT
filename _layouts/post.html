@@ -34,9 +34,12 @@ layout: default
       </small>
     </div>
   </div>
-
-{% assign ep = site.podcasts | where: 'post', page.title | first %}
-{% if ep %}
+  
+  
+  {% assign episodes = site.podcasts | reverse %}
+  {% assign ep = episodes | where: 'post', page.title | first %}
+  {% if ep %}
+   
   <div class="pod">
     <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
   </div>

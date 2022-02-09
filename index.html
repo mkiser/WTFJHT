@@ -46,9 +46,8 @@ seo:
       </div>
     </div> 
      
-    {% assign pagedate = page.date | date: '%Y-%m-%d' %}
     {% assign pods = site.podcasts %}
-    {% for ep in pods where: pods.date | date: '%Y-%m-%d', pagedate %}
+    {% for ep in pods where: pods.date | date: '%Y-%m-%d', page.date | date: '%Y-%m-%d' | limit:1 %}
     {% if ep %}
     
       <div class="pod">

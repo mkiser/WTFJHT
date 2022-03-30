@@ -3,7 +3,7 @@ title: Day 435
 date: 2022-03-30 14:54:00 -07:00
 description: '"The Achilles'' heel of autocracies."'
 image: "/uploads/Day-435-biden-ukraine.jpg"
-todayInOneSentence: / U.S. intelligence officials believe Putin is "being misinformed
+todayInOneSentence: U.S. intelligence officials believe Putin is "being misinformed
   by his advisers" who "are too afraid to tell him the truth" about his military’s
   struggles in Ukraine and the effect of sanctions on the Russian economy; Trump called
   on Putin to release information regarding Hunter Biden's alleged dealings with Eastern

@@ -1,0 +1,37 @@
+---
+title: Day 457
+date: 2022-04-21 14:55:00 -07:00
+description: '"A critical window."'
+image: "/uploads/day-457-biden.jpg"
+todayInOneSentence: Biden announced another $800 million in military resources to
+  Ukraine; the Justice Department appealed a federal court ruling striking down the
+  mask requirement for passengers on public transportation; Kevin McCarthy and Mitch
+  McConnell – days after the Jan. 6 attack on the Capitol – told associates they believed
+  Trump was responsible for inciting the riot; top members of the Oath Keepers discussed
+  plans to provide security for Trump allies like Roger Stone, Alex Jones, Ali Alexander,
+  and Michael Flynn on Jan. 5 and Jan. 6; Alex Jones offered to be interviewed by
+  federal investigators about his role in the Jan. 6 rally that preceded the attack
+  on the Capitol; the Florida House passed a new congressional map after Democratic
+  lawmakers shut down the special legislative session for more than an hour; the Florida
+  House revoked Disney World’s special tax district in retaliation after Disney criticized
+  the Parents Rights in Education legislation, which prohibits discussions about gender-related
+  issues in public school up to third grade; and the Supreme Court ruled that Congress
+  can continue excluding residents of Puerto Rico from a federal disability insurance
+  program.
+---
+
+1/ **Biden announced another $800 million in military resources to Ukraine**, calling it an “unmistakable message” to Putin that “he will never succeed in dominating and occupying all of Ukraine.” Biden added that the war was entering “a critical window.” The package, which includes heavy artillery and tactical drones, brings the U.S. support to over $2 billion since the war’s start eight weeks ago. Biden also said the U.S. will no longer allow Russian-affiliated ships to enter American ports. ([New York Times](https://www.nytimes.com/2022/04/21/world/europe/biden-ukraine-aid.html) / [Washington Post](https://www.washingtonpost.com/world/2022/04/21/russia-ukraine-war-news-mariupol-live-updates/#link-JVLVCYP4YRDNJKY64YOQ3IFOJE) / [Associated Press](https://apnews.com/article/russia-ukraine-war-biden-announces-new-military-aid-e78a7db76215a84f86586bb56122cd04) / [Wall Street Journal](https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623))
+
+2/ **The Justice Department appealed a federal court ruling striking down the mask requirement for passengers on public transportation** after the CDC said the mandate was “necessary” to curb the spread of the coronavirus and protect public health. The decision came two days after U.S. District Judge Kathryn Kimball Mizelle ordered an injunction against the mandate, saying the definition of masks as a form of sanitation were not within the agency’s authority to require that people wear them. ([New York Times](https://www.nytimes.com/2022/04/20/us/politics/cdc-transportation-mask-mandate.html) / [Politico](https://www.politico.com/news/2022/04/20/cdc-doj-appeal-travel-mask-mandate-ruling-00026757) / [Washington Post](https://www.washingtonpost.com/health/2022/04/20/cdc-seeks-mask-mandate/))
+
+3/ **Kevin McCarthy and Mitch McConnell – days after the Jan. 6 attack on the Capitol – told associates they believed Trump was responsible for inciting the riot**. McCarthy reportedly planned to tell Trump to resign, but ultimately backed off, fearing retribution from Trump and his supporters. ([New York Times](https://www.nytimes.com/2022/04/21/us/politics/trump-mitch-mcconnell-kevin-mccarthy.html))
+
+4/ **Top members of the Oath Keepers discussed plans to provide security for Trump allies like Roger Stone, Alex Jones, Ali Alexander, and Michael Flynn on Jan. 5 and Jan. 6**. Several members of the group are now facing seditious conspiracy charges. ([Politico](https://www.politico.com/news/2022/04/18/oath-keepers-security-trump-jan6-00026157) / [The Guardian](https://www.theguardian.com/us-news/2022/apr/19/oath-keepers-proud-boys-capitol-attack-texts))
+
+5/ **Alex Jones offered to be interviewed by federal investigators about his role in the Jan. 6 rally near the White House that preceded the attack on the Capitol**. Jones has requested immunity from prosecution. ([New York Times](https://www.nytimes.com/2022/04/20/us/politics/alex-jones-jan-6-interview.html))
+
+6/ **The Florida House passed a new congressional map after Democratic lawmakers shut down the special legislative session for more than an hour with a pray-in and sit-in**. The new map eliminates a Black-heavy congressional district and gives Republicans the chance to capture as many as four new seats. ([NBC News](https://www.nbcnews.com/politics/congress/florida-democrats-shut-state-house-desantis-drawn-congressional-map-rcna25380) / [Politico](https://www.politico.com/news/2022/04/21/floridas-gop-led-legislature-approves-new-congressional-maps-over-democrats-protests-00026950) / [Washington Post](https://www.washingtonpost.com/politics/2022/04/21/des-santis-redistricting-black-lawmaker-protest/))
+
+7/ **The Florida House revoked Disney World’s special tax district in retaliation after Disney criticized the Parents Rights in Education legislation**, which prohibits discussions about gender-related issues in public school up to third grade. The bill would terminate the 25,000-acre Reedy Creek Improvement District that Walt Disney World uses to operate as its own municipality, along with five others. ([New York Times](https://www.nytimes.com/2022/04/21/business/disney-florida-special-tax-status.html) / [CBS News](https://www.cbsnews.com/news/disney-self-government-florida-legislature-vote-desantis-dont-say-gay/) / [Washington Post](https://www.washingtonpost.com/nation/2022/04/21/florida-legislature-passes-bill-repealing-disneys-special-tax-status/) / [CNBC](https://www.cnbc.com/2022/04/21/florida-set-to-dissolve-disneys-reedy-creek-special-district.html))
+
+8/ **The Supreme Court ruled that Congress can continue excluding residents of Puerto Rico from a federal disability insurance program**. The case involves the Supplemental Security Income that is available to those living in the 50 states who are older than 65, blind or disabled, but not those in Puerto Rico or other U.S. territories. ([Politico](https://www.politico.com/news/2022/04/21/supreme-court-rejects-disability-payments-for-puerto-rico-residents-00026903) / [CNN](https://www.cnn.com/2022/04/21/politics/puerto-rico-supreme-court-federal-disability-benefits/index.html))

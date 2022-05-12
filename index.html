@@ -23,6 +23,9 @@ seo:
 
   {% for page in site.posts limit:1 %}
   <article class="post">
+    {% if site.is_away_mode == true %}
+      {% include away_mode.html %}
+    {% endif %}
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ page.url }}">
         {{ page.title }}:

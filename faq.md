@@ -15,11 +15,11 @@ layout: page
 
 **Why are you doing this?** Like many, I found the 2016 election cycle to be deeply confusing and frustrating. I'm a news junkie, but struggled to keep up with all the articles, blogs, tweets, Facebook posts, newsletters, podcasts, and broadcast news segments – and still make sense of everything. I don't see how any "normal" person with a job and/or family could actually make sense of things. They have a scarcity of time available to consume news, but the media environment is optimized for an abundance of news. I started WTFJHT as a personal project to log the biggest stories of the day so that I could keep track of what was going on. It was originally supposed to be more of a save-for-later checklist of articles to read when I got home from work, but quickly morphed into the current, daily compendium. 
 
-**How do you decide what's in the daily update?** I try to approach the daily update like a front page editor at a newspaper would: focus on timeliness, impact, prominence, importance, conflict, and unexpectedness. This is further refined by framing WTFJHT's scope of coverage to the curiouser and curiouser news from in and around the Trump administration in particular, not politics in general. Together, WTFJHT serves as a single, daily summary of the most important events regarding the Trump administration.
+**How do you decide what's in the daily update?** I try to approach the daily update like a front page editor at a newspaper would: focus on timeliness, impact, prominence, importance, conflict, and unexpectedness. This is further refined by framing WTFJHT's scope of coverage to the curiouser and curiouser news from in and around the Trump and Biden administrations in particular – not politics in general. Together, WTFJHT serves as a single, daily summary of the most important events regarding the Trump and Biden administrations.
 
-**Where do you get your information?** I read broadly, visiting the homepages of (in no particular order) the New York Times, Washington Post, Politico, NPR, CNN, NBC News, CNBC, ABC News, CBS News, Wall Street Journal, Bloomberg, Axios, Daily Beast, Reuters, Associated Press, the Atlantic, the Guardian, BuzzFeed News, and a lot more. I use Nuzzel to surface links frequently shared by people I follow on Twitter. And, finally, I built [Current Status](https://currentstatus.io/) to aggregate recent, highly-cited stories, with an emphasis on depth and accuracy. Together I try to triangulate on the most important stories of the day. 
+**Where do you get your information?** I read broadly, visiting the homepages of (in no particular order) the New York Times, Washington Post, Politico, NPR, CNN, NBC News, CNBC, ABC News, CBS News, Wall Street Journal, Bloomberg, Axios, Daily Beast, Reuters, Associated Press, the Atlantic, the Guardian, and a lot more. I use several tools to surface links frequently shared across the social web. And, finally, I built [Current Status](https://currentstatus.io/) to aggregate recent, highly-cited stories, with an emphasis on original reqporting, depth, and accuracy. Together I try to triangulate on the most important stories of the day. 
 
-**Hey, you're biased!** Humans making decisions about the relative importance of information is inherently biased. WTFJHT is the news through the lens of a person making decisions. With every summary I write and article I cite, I'm make a news-value judgement. Journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. WTF Just Happened Today is a reflection of these ethics, but with the following standards and practices applied:
+**Hey, you're biased!** Humans making decisions about the relative importance of information is inherently biased. WTFJHT is the news through the lens of a person making those decisions. With every summary I write and article I cite, I'm make a news-value judgement. Journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. WTF Just Happened Today is a reflection of these ethics, but with the following standards and practices applied:
 
 * WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary and secondary sources, and moving on.
 
@@ -27,7 +27,7 @@ layout: page
 
 With WTFJHT, you will find an independent voice that is personally accountable and considerate for how the editorial choices impact others. I go to great lengths to cite the original source of news and draw from a diversity of sources.
 
-**When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?** I try to cite the primary source of news whenever possible. This is often the large media organizations that are staffed up to break news, like the New York Times, Washington Post, CNN, NBC News, Wall Street Journal, Bloomberg, the Guardian, etc. After citing primary sources, I like to cite secondary sources that are either A) confirming the news or B) adding additional reporting. I try to "rank" the order of sources in parentheses based on how much impact they had on my written abstract summary (i.e. source that broke news, added additional reporting, or confirmed it).
+**When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?** I try to cite the primary source of news whenever possible. This is often the large media organizations that are staffed to break news, like the New York Times, Washington Post, CNN, NBC News, Wall Street Journal, Bloomberg, the Guardian, etc. After citing primary sources, I like to cite secondary sources that are either A) confirming the news or B) adding additional reporting. I try to "rank" the order of sources in parentheses based on how much impact they had on my written abstract summary (i.e. source that broke news, added additional reporting, or confirmed it).
 
 **What does the 📌 mean?** Where possible, I like to "re-up" news from the past to contextulize a current story without having to regurgitate all the past information. By pinning past abstract summaries in a sequential order below a new news story, we can tell a richer narrative without repeating information you may already know. And if you haven't been following along or you forgot, then the most salient background information is right there for ya.
 
@@ -51,25 +51,27 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 **Why don't you publish WTF Just Happened Today in the morning?** It's not called WTF Just Happened Yesterday.
 
-**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Friday, except for federal, market holidays, and some random holidays, including  Trump's and Biden's birthdays. Below is the 2021 schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
+**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including  Trump's and Biden's birthdays. Below is the 2022 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
-* **2021**
-* New Year's Day – January 1
-* Martin Luther King, Jr. Day – January 18
+* **2022**
+* New Year's Day – January 3
+* Martin Luther King, Jr. Day – January 17
 * WTF Just Happened Today?'s Birthday – January 20
-* President's Day – February 15
-* Good Friday – April 2
-* Memorial Day – May 31
+* President's Day – February 17
+* Good Friday – April 15
+* Memorial Day – May 30
 * Trump's Birthday – June 14
-* Independence Day – July 4 (observed July 5)
-* Labor Day – September 6
-* Columbus Day – October 11
+* Juneteenth – June 18 (observed June 20)
+* Independence Day – July 4 
+* Labor Day – September 5
+* Columbus Day – October 10
 * Veterans Day – November 11
-* Biden's Birthday – November 20 (observed November 19)
-* Thanksgiving Day – November 25
-* Christmas Eve – December 24
-* Christmas Day – December 25 (observed December 27)
-* New Year's Eve – December 31
+* Biden's Birthday – November 20 (observed November 21)
+* Thanksgiving Day – November 24
+* Christmas Eve – December 24 (observed December 23)
+* Christmas Day – December 25 (observed December 26)
+* New Year's Eve – December 31 (observed December 30)
+* New Year's Day – January 1 (observed January 2, 2023)
 
 ---
 
@@ -91,11 +93,8 @@ I built a news aggregator called [Current Status](https://currentstatus.io/) to 
 **S3 Stat:**
 Spending all this money hosting a podcast doesn't mean much if you can't measure it. Using [S3 Stat](https://www.s3stat.com) lets me easily understand who is playing what pod on what device. *Monthly Cost:* $10
 
-**Live Chat:**
-I like to engage with the WTF family, so I've installed Helpcrunch.com, a livechat widget on the site. *Monthly Cost:* $12
-
 **Site Search:**
-This giant repository of news isn't very valuable if you can't find what you're looking for. I've implemented [Algolia](https://www.algolia.com/), the best instant search option out there. *Monthly Cost:* $59
+This giant repository of news isn't very valuable if you can't find what you're looking for. I've implemented [Algolia](https://www.algolia.com/), the best instant search option out there. *Monthly Cost:* $69
 
 **Email Service:**
 Oh boy, here's one of the most expensive parts of running the site. I use [MailChimp](https://mailchimp.com/) because the ease of use, templating, reporting, and pre-built forms are the best in the business. While there are cheaper options out there, the time-savings is worth it. MailChimp charges based on the number of subscribers you have AND the number of monthly emails sent. WTFJHT sends more than 2.5M emails/month. The costs of sending email will continue to go up as WTFJHT grows. MailChimp is an awesome company and they've provided us with a 15% discount. *Monthly Cost:* At least $900; usually more.
@@ -121,34 +120,39 @@ Being your own boss is great, but nothing gets done if you take a day off. I uti
 **My Labor:**
 Here's a daily breakdown of how I generally spend my time:
 
-* 2-4 hours researching and collecting stories
+* 3 hours researching and collecting stories
 
-* 2-4 hours writing and curating the daily post
+* 3 hours writing and curating the daily post
 
-* 2-3 hours producing the newsletter, setting up the post, cutting images, publishing, troubleshooting, fixing typos
+* 1 hours producing the newsletter, setting up the post, cutting images, publishing, troubleshooting, fixing typos
 
-* 1-3 hours community management and social media distribution
+* 1-2 hours community management and social media distribution
 
-* 1-4 hours site maintenance, help desk/support, etc
+* 1-2 hours site maintenance, help desk/support, etc
 
 And, since I'm both the writer/editor and web developer running this, let's pretend my salary is the average between the two professions in Seattle, via Glassdoor: [News Editor](https://www.glassdoor.com/Salaries/seattle-news-editor-salary-SRCH_IL.0,7_IM781_KO8,19.htm): $71,086. [Senior Web Developer](https://www.glassdoor.com/Salaries/seattle-senior-web-developer-salary-SRCH_IL.0,7_IM781_KO8,28.htm): $106,175. *Monthly Cost:* ($71,086 \+ $106,175) / 2 = $88,630/year. <strong>$7,385</strong>
 
 **Risk Adjustment:**
-Quitting a salaried job that included full benefits to run a blog and newsletter that's supported entirely by optional, pay-whatever-you-want memberships comes with substantial personal and professional risk. While I'm prepared to experience some variable income, I'm not prepared to run WTFJHT at a loss for an extended period of time. I've also disrupted a career, so who knows what I'll do after WTF or how long it'll take to figure that out. This risk adjustment is also responsible for covering cash flow issues and various hard costs, like personal health care, quarterly taxes, and the unknown who-knows-wtf fees that come with running your own business. *Monthly cost*: 15% of total cost
+Quitting a salaried job that included full benefits to run a blog and newsletter that's supported entirely by optional, pay-whatever-you-want memberships comes with substantial personal and professional risk. While I'm prepared to experience some variable income, I'm not prepared to run WTFJHT at a loss for an extended period of time. I've also disrupted a career, so who knows what I'll do after WTF or how long it'll take to figure that out. This risk adjustment is also responsible for covering cash flow issues and various hard costs, like personal health care, quarterly taxes, and the unknown who-knows-wtf fees that come with running your own business. *Monthly cost*: 15% of total
+
+**Inflation Adjustment:**
+To ensure that my compensation isn't eroded by inflation, I've included an inflation adjustment to reflect the changing cost of living. This is the same as a working person receiving an annual raise or the COLA adjustment to a retiree's Social Security benefit. I'm using the historical average U.S. inflation rate fort his adjustment. *Monthly cost*: 2.26% of total 
 
 ---
 
 **TOTAL MONTHLY COST:**
 
-\$3,546 (hosting, email, tools, etc.)   
+\~$3,500 (hosting, email, tools, etc.)   
 \$3,000 (freelancers)  
 \$7,385 (my labor)  
-Subtotal: \$13,931
+Subtotal: \$13,885
 
-\+ \$2,089 (risk adjustment) 
+\+ \~$2,082 (15% risk adjustment)
 
-<strong>Grand Total: $16,020</strong>.
+\+ \~$313 (2.26% inflation adjustment)
 
-As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, paid time off, sick leave, or perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford coworkers and an office that's not in my basement. 
+<strong>Grand Total: \~$16,280</strong>.
+
+As you can see, nobody is getting rich here. It's not like there's a WTF 401(k) plan, vacation benfits, paid sick leave, or other perks, let alone full-time employees. The truth is that while it's nice to work from home, it's also lonely. Someday I'd like to afford coworkers and an office that's not in my basement. 
 
 I hope this transparency addresses any concerns you may have and demonstrates why your support is critical to keeping WTF Just Happened Today going strong. So, please [become a member today](https://whatthefuckjusthappenedtoday.com/membership/).

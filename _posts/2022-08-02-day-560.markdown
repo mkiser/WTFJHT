@@ -1,0 +1,33 @@
+---
+title: Day 560
+date: 2022-08-02 11:45:00 -07:00
+description: '"Morale, welfare, and recreation."'
+image: "/uploads/day-560-biden.jpg"
+todayInOneSentence: The U.S. killed al Qaeda leader Ayman Al-Zawahri in a drone strike;
+  the Justice Department sued Idaho over its near-total ban on abortion; Kansas is
+  voting on whether to add an anti-abortion amendment to the state's Constitution;
+  Georgia taxpayers can list embryos as dependents on their tax returns; Florida ordered
+  its schools to ignore federal guidelines aimed at protecting LGBTQ students and
+  teachers from discrimination; a music festival in Atlanta was canceled because Georgia's
+  gun laws limited organizers ability to ban firearms in the public park; and the
+  U.S. military runs more than 3,000 slot machines on American military bases overseas
+  that earn more than $100 million each year from service members.
+---
+
+1/ **The U.S. killed al Qaeda leader Ayman Al-Zawahri in a drone strike**. Zawahiri oversaw the attacks of Sept. 11, 2001, alongside the group’s founder, Osama bin Laden. The attack against Zawahiri is the first known counterterrorism strike there since U.S. forces withdrew from Afghanistan last August. ([New York Times](https://www.nytimes.com/2022/08/01/us/politics/al-qaeda-strike-afghanistan.html) / [Washington Post](https://www.washingtonpost.com/national-security/2022/08/01/zawahiri-al-qaeda-killed/) / [Politico](https://www.politico.com/news/2022/08/01/sources-u-s-kills-al-qaeda-leader-ayman-al-zawahri-in-drone-strike-00049089) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-announce-death-top-al-qaeda-leader-al-zawahiri-sources-say-rcna41046))
+
+2/ **The Justice Department sued Idaho over its near-total ban on abortion** – the first challenge since the Supreme Court overturned Roe v. Wade. Idaho's trigger law, passed in 2020, would make providing abortions a felony punishable by up to five years in prison, with exceptions for rape or incest if reported to law enforcement, or to prevent the death of the pregnant person. Attorney General Merrick Garland said the ban violates federal law that "requires hospitals to provide stabilizing care for a patient who comes in with a medical emergency that seriously jeopardizes their life or their health." He added: "And where that stabilizing treatment is abortion, they must provide the abortion. They must do so notwithstanding a state law that is so narrow that it doesn't even protect a woman's life or health." ([NBC News](https://www.nbcnews.com/politics/justice-department/justice-department-sues-idaho-abortion-ban-first-post-roe-litigation-rcna41174) / [Wall Street Journal](https://www.wsj.com/articles/justice-department-files-lawsuit-challenging-idaho-abortion-law-11659463607?mod=djemalertNEWS) / [CNN](https://www.cnn.com/2022/08/02/politics/justice-department-abortion-idaho/))
+
+3/ **Kansas is voting on whether to add an anti-abortion amendment to the state's Constitution**. If passed, the measure would add language to the constitution saying the state doesn’t grant a right to abortion and allow lawmakers to regulate it as they see fit. Kentucky will vote in November on adding similar language to its constitution. ([Associated Press](https://apnews.com/article/2022-primary-elections-kansas-abortion-b6d62a852c2ce4617f2c03589fbb523e))
+
+4/ **Georgia taxpayers can list embryos as dependents on their tax returns**. Georgia’s department of revenue said it would “recognize any unborn child with a detectable human heartbeat \[...\] as eligible for \[an\] individual income tax dependent exemption” up to $3,000. ([The Guardian](https://www.theguardian.com/us-news/2022/aug/02/georgia-embyros-tax-dependents-fetus))
+
+5/ **Florida ordered its schools to ignore federal guidelines aimed at protecting LGBTQ students and teachers from discrimination**. Florida education commissioner Manny Diaz said the Biden administration's proposed anti-discrimination changes to Title IX is not binding law and that following the guidelines could violate the state's Parental Rights in Education law. That law, otherwise known as “Don’t Say Gay,” prohibits classroom instructions on gender identity and sexual identity for kids in kindergarten through third grade. Teachers and schools could face lawsuits for violations. ([Axios](https://www.axios.com/local/tampa-bay/2022/08/01/florida-schools-lgbtq-guidelines) / [Politico](https://www.politico.com/news/2022/07/28/florida-schools-disregard-federal-title-ix-guidance-00048505))
+
+6/ **Trump endorsed "Eric" in Missouri's Republican Senate primary. There are three Erics in the race**. When asked to clarify which Eric – Former Gov. Eric Greitens, State Attorney General Eric Schmitt, or Eric McElroy – Trump’s team didn't provide any clarity, saying only that the “endorsement speaks for itself.” ([NBC News](https://www.nbcnews.com/politics/2022-election/trump-baffles-gop-endorsing-eric-missouri-senate-primary-race-three-er-rcna41049) / [The Guardian](https://www.theguardian.com/us-news/2022/aug/02/trump-endorses-eric-greitens-schmitt-missouri-republican-primary))
+
+7/ **A music festival in Atlanta was canceled because Georgia's gun laws limited organizers ability to ban firearms in the public park**. A 2014 state law passed by the Republican-controlled Legislature and signed by then-Gov. Nathan Deal allowed Georgians to legally carry firearms on public land. While there was no legal consensus on whether the law applied to private events on public property, a recent appeals court ruling made it harder for private groups to restrict guns at "short-term events" on public land. ([Atlanta Journal-Constitution](https://www.ajc.com/news/atlanta-news/breaking-2022-music-midtown-festival-canceled/Z4WIDXAK6NHMRGUQLEIIORAZDU/) / [NPR](https://www.npr.org/2022/08/01/1114951094/music-midtown-atlanta-canceled-over-guns))
+
+8/ **The U.S. military runs more than 3,000 slot machines on American military bases overseas that earn more than $100 million each year from service members**. The slot machines are operated by the Department of Defense in the name of "morale, welfare, and recreation." ([NPR](https://www.npr.org/2022/07/31/1110882487/dod-slot-machines-overseas-bases))
+
+poll/ **13% of Democrats approve of the way the Supreme Court is handling its job**, while 74% of Republicans and 40% of independents approve. Overall, 43% of Americans approve of how the Supreme Court is handling its job. ([Gallup](https://news.gallup.com/poll/395387/democrats-approval-supreme-court-record-low.aspx))

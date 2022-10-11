@@ -1,5 +1,5 @@
 ---
-title: Day 631
+title: Day 630
 date: 2022-10-11 14:48:00 -07:00
 description: '"The worst is yet to come."'
 image: "/uploads/day-631-biden.jpg"

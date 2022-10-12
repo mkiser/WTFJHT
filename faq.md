@@ -64,7 +64,7 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 * Juneteenth – June 18 (observed June 20)
 * Independence Day – July 4 
 * Labor Day – September 5
-* Columbus Day – October 10
+* Indigenous Peoples' Day – October 10
 * Veterans Day – November 11
 * Biden's Birthday – November 20 (observed November 21)
 * Thanksgiving Day – November 24

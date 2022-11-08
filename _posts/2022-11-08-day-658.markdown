@@ -4,7 +4,7 @@ date: 2022-11-08 15:01:00 -08:00
 description: '"The things Americans value most are at risk."'
 image: "/uploads/day-658-biden.jpg"
 todayInOneSentence: Polls opened across the country today with control of Congress
-  at stake in the first national elections since the Jan. 6, 2021, attack on the Capitol;
+  at stake in the first national election since the Jan. 6, 2021, attack on the Capitol;
   voting rights advocates monitoring polling sites across the country reported no
   major concerns with ballots, long lines, or voter intimidation so far; Florida Gov.
   Ron DeSantis refused to allow Justice Department election monitors to go inside

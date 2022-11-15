@@ -51,7 +51,7 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 **Why don't you publish WTF Just Happened Today in the morning?** It's not called WTF Just Happened Yesterday.
 
-**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including  Trump's and Biden's birthdays. Below is the 2022 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
+**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including  Trump's and Biden's birthdays. Below is the 2022-2023 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
 * **2022**
 * New Year's Day – January 3
@@ -71,7 +71,27 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 * Christmas Eve – December 24 (observed December 23)
 * Christmas Day – December 25 (observed December 26)
 * New Year's Eve – December 31 (observed December 30)
-* New Year's Day – January 1 (observed January 2, 2023)
+* New Year's Day 2023 – January 1 (observed January 2, 2023)
+
+* **2023**
+* New Year's Day – January 2
+* Martin Luther King, Jr. Day – January 16
+* WTF Just Happened Today?'s Birthday – January 20
+* President's Day – February 20
+* Good Friday – April 7
+* Memorial Day – May 29
+* Trump's Birthday – June 14 (observed June 16)
+* Juneteenth – June 19
+* Independence Day – July 4 
+* Labor Day – September 4
+* Indigenous Peoples' Day – October 9
+* Veterans Day – November 11 (observed November 10)
+* Biden's Birthday – November 20
+* Thanksgiving Day – November 24
+* Christmas Eve – December 24 
+* Christmas Day – December 25 
+* New Year's Eve – December 31
+* New Year's Day 2024 – January 1 
 
 ---
 

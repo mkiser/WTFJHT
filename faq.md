@@ -66,7 +66,7 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 * Labor Day – September 5
 * Indigenous Peoples' Day – October 10
 * Veterans Day – November 11
-* Biden's Birthday – November 20 (observed November 21)
+* Biden's Birthday – November 20 (observed November 25)
 * Thanksgiving Day – November 24
 * Christmas Eve – December 24 (observed December 23)
 * Christmas Day – December 25 (observed December 26)
@@ -86,8 +86,8 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 * Labor Day – September 4
 * Indigenous Peoples' Day – October 9
 * Veterans Day – November 11 (observed November 10)
-* Biden's Birthday – November 20
-* Thanksgiving Day – November 24
+* Biden's Birthday – November (observed November 24)
+* Thanksgiving Day – November 23
 * Christmas Eve – December 24 
 * Christmas Day – December 25 
 * New Year's Eve – December 31

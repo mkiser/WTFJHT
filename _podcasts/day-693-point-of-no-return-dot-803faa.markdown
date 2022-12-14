@@ -1,5 +1,5 @@
 ---
-title: 'Day 693: "Point of no return."'
+title: 'Day 694: "That time is now."'
 date: 2022-12-14 14:18:00 -08:00
 file: "/uploads/Day-B694.mp3"
 post: Day 694

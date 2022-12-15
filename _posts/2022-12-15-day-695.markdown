@@ -1,0 +1,27 @@
+---
+title: Day 695
+date: 2022-12-15 14:19:00 -08:00
+description: '"Clear and convincing."'
+image: "/uploads/day-695-biden.jpg"
+todayInOneSentence: The Biden administration restarted its free Covid-19 test program
+  as cases have increased roughly 55% since Thanksgiving; Florida Gov. Ron DeSantis
+  asked the state’s Supreme Court to convene a grand jury to "investigate crimes and
+  wrongdoing committed against Floridians" related to Covid-19 vaccines; an attorney
+  disciplinary committee recommended that Rudy Giuliani be disbarred in Washington,
+  DC; a campaign organized by oil and gas industry groups gathered enough signatures
+  to overturn a California law that banned new oil and gas wells near homes, schools,
+  and hospitals; and 31% of voters hold a favorable view of Trump – his lowest favorability
+  rating in more than seven years.
+---
+
+1/ **The Biden administration restarted its free Covid-19 test program as cases have increased roughly 55% since Thanksgiving**. Households can order four free tests at [covidtests.gov](https://www.covid.gov/tests). The program was paused in September after distributing over 600 million tests, which put the administration on pace to deplete its stockpile before winter without new funding from Congress. ([Politico](https://www.politico.com/news/2022/12/14/free-covid-home-test-program-restart-00073962) / [NPR](https://www.npr.org/2022/12/15/1142926180/free-covid-tests-mail-order) / [New York Times](https://www.nytimes.com/2022/12/15/us/politics/free-covid-tests-biden.html) / [Associated Press](https://apnews.com/article/white-house-reveals-winter-covid-plans-test-kits-2b015ef4e3c97520a3981c47d00467c3))
+
+2/ **Florida Gov. Ron DeSantis asked the state’s Supreme Court to convene a grand jury to "investigate crimes and wrongdoing committed against Floridians" related to Covid-19 vaccines**. DeSantis provided no specifics about what wrongdoing a grand jury would investigate, but suggested that pharmaceutical companies needed to provide more data so independent researchers can study the side effects from vaccines. DeSantis also shared plans to establish Public Health Integrity Committee to counter CDC guidance, baselessly claiming that “anything they put out, you just assume, at this point, that it’s not worth the paper that it’s printed on.” Dr. Anthony Fauci, meanwhile, said he “doesn’t have a clue” what DeSantis hopes to accomplish. ([CNN](https://www.cnn.com/2022/12/13/politics/desantis-covid-vaccine-manufacturers/index.html) / [The Hill](https://thehill.com/policy/healthcare/3775812-fauci-responds-to-desantis-call-for-covid-19-vaccine-investigation/) / [CNBC](https://www.cnbc.com/2022/12/13/desantis-seeks-grand-jury-investigation-of-covid-19-vaccines.html) / [Politico](https://www.politico.com/news/2022/12/15/desantis-trump-gop-same-sex-marriage-covid-00074027))
+
+3/ **An attorney disciplinary committee recommended that Rudy Giuliani be disbarred in Washington, DC**. The three-person committee concluded that there was “clear and convincing evidence” that Giuliani acted unethically when he filed a lawsuit to block certification of the results in the 2020 presidential election. The committee’s findings, however, are “preliminary and nonbinding.” Giuliani’s law license has already been suspended in New York for making “demonstrably false and misleading statements” in his effort to reverse the 2020 election. ([Wall Street Journal](https://www.wsj.com/articles/rudy-giuliani-violated-ethics-says-tentative-finding-by-d-c-bar-11671127129?mod=djemalertNEWS) / [Washington Post](https://www.washingtonpost.com/dc-md-va/2022/12/15/dc-bar-giuliani-law-license/) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-12-15/rudy-giuliani-likely-committed-misconduct-over-2020-election-dc-bar-panel-finds?sref=MIBMEEoj) / [CNN](https://www.cnn.com/2022/12/15/politics/rudy-giuliani-ethics-hearing/index.html))
+
+4/ **A campaign organized by oil and gas industry groups gathered enough signatures to overturn a California law that banned new oil and gas wells near homes, schools, and hospitals**. More than 978,000 California residents have signed the Stop the Energy Shutdown petition – enough for a referendum aimed at stopping the new California law that set minimum distances between new oil wells and certain areas. Roughly 623,000 qualifying signatures are needed to put the measure on the 2024 ballot. Separately, California's public utilities commission will vote on a proposal to reduce residential rooftop-solar incentives by about 75%. The proposal would change the existing "net metering" policy, which credits solar owners the full retail electricity price for excess power, to a lower rate for surplus power. ([Associated Press](https://apnews.com/article/politics-business-california-gavin-newsom-climate-and-environment-27ebf1d22b0bab5b6e11756e1b3c3df6) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-12-15/california-risks-slowing-energy-transition-with-solar-subsidy-cut?srnd=premium&sref=MIBMEEoj) / [NPR](https://www.npr.org/2022/12/15/1143002552/calif-commission-to-decide-whether-to-cut-a-key-incentive-for-rooftop-solar) / [Reuters](https://www.reuters.com/world/us/california-vote-hotly-debated-change-rooftop-solar-policy-2022-12-15/))
+
+poll/ **31% of voters hold a favorable view of Trump** – his lowest favorability rating in more than seven years. 59%, meanwhile, have an unfavorable opinion of the twice-impeached former president. ([Quinnipiac](https://poll.qu.edu/poll-release?releaseid=3863))
+
+

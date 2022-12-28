@@ -4,7 +4,6 @@ language: ruby
 cache: bundler
 rvm:
 - 2.4.1
-- 2.6
 addons:
   apt:
     update: true
@@ -14,7 +13,7 @@ addons:
     - cmake
 before_install:
 - rm Gemfile.lock
-- gem install bundler
+- gem install bundler -v '~> 2.3.26'
 before_script:
 - chmod +x ./script/*
 script: 

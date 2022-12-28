@@ -4,6 +4,7 @@ language: ruby
 cache: bundler
 rvm:
 - 2.4.1
+- 2.6
 addons:
   apt:
     update: true

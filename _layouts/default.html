@@ -307,6 +307,10 @@
               var fiveYearsAgo = fiveYears.getFullYear() - 5;
               fiveYears.setFullYear(fiveYearsAgo);
               fiveYears = fiveYears.toISOString().slice(0,10);
+              var sixYears = new Date(data[i].date.date);
+              var sixYearsAgo = sixYears.getFullYear() - 5;
+              sixYears.setFullYear(sixYearsAgo);
+              sixYears = sixYears.toISOString().slice(0,10);
               for (j = 0; j < data.length; j++) { 
                 if (data[j].date.date == lastYear) {
                   document.getElementById('todaylastyear').innerHTML = "<strong>Last year today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
@@ -322,6 +326,9 @@
                 }
               if (data[j].date.date == fiveYears) {
                   document.getElementById('todayfiveyearsago').innerHTML = "<strong>Five years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
+                }
+              if (data[j].date.date == sixYears) {
+                  document.getElementById('todaysixyearsago').innerHTML = "<strong>Six years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
                 }
               }     
             }

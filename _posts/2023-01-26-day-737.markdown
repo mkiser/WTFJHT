@@ -7,7 +7,7 @@ todayInOneSentence: 'The U.S. economy expanded at a 2.9% annualized rate in the 
   quarter last year; Adam Schiff announced that he is running for U.S. Senate in 2024;
   the Biden administration banned mining for 20 years in the watershed upstream from
   Minnesota’s Boundary Waters Canoe Area Wilderness; the FBI seized the computer infrastructure
-  used by a ransomware gang; Florida students threatened to sue Gov. Ron DeSantis''s
+  used by a ransomware gang; Florida students threatened to sue Gov. Ron DeSantis
   over his administration''s decision to reject an Advanced Placement African American
   studies course; and 73% of Americans say House Republican leaders haven’t paid enough
   attention to the country’s most important problems. '
@@ -21,8 +21,6 @@ todayInOneSentence: 'The U.S. economy expanded at a 2.9% annualized rate in the 
 
 4/ **The FBI seized the computer infrastructure used by a ransomware gang**, which extorted more than $100 million from more than 1,500 victims worldwide, including hospitals, schools, and others. The Justice Department said it used a court order to seize two back-end servers belonging to the Hive ransomware group in Los Angeles, and took control of the group’s website. The FBI said it gained access to Hive’s computer networks in July and acquired decryption keys the bureau could pass to victims to decrypt their systems, which prevented more than $130 million in ransom payments. ([Politico](https://www.politico.com/news/2023/01/26/justice-department-disrupts-ransomware-attacks-00079656) / [CNN](https://www.cnn.com/2023/01/26/politics/fbi-ransomware-gang-website) / [NBC News](https://www.nbcnews.com/tech/security/doj-disrupts-major-ransomware-group-rcna67627))
 
-5/ **Florida students threatened to sue Gov. Ron DeSantis's over his administration's decision to reject an Advanced Placement African American studies course**. Civil rights attorney Ben Crump, representing three Florida AP honors high school students, accused DeSantis of violating federal and state constitutions by refusing to permit the course, adding that DeSantis “cannot exterminate our culture.” Florida Education Department, meanwhile, contends that the class is "contrary to Florida law and significantly lacks educational value." ([Washington Post](https://www.washingtonpost.com/nation/2023/01/25/desantis-african-american-studies-black-history/) / [Axios](https://www.axios.com/2023/01/26/florida-desantis-african-american-studies-lawsuit-crump))
-
+5/ **Florida students threatened to sue Gov. Ron DeSantis over his administration's decision to reject an Advanced Placement African American studies course**. Civil rights attorney Ben Crump, representing three Florida AP honors high school students, accused DeSantis of violating federal and state constitutions by refusing to permit the course, adding that DeSantis “cannot exterminate our culture.” Florida Education Department, meanwhile, contends that the class is "contrary to Florida law and significantly lacks educational value." ([Washington Post](https://www.washingtonpost.com/nation/2023/01/25/desantis-african-american-studies-black-history/) / [Axios](https://www.axios.com/2023/01/26/florida-desantis-african-american-studies-lawsuit-crump))
 
 poll/ **73% of Americans say House Republican leaders haven’t paid enough attention to the country’s most important problems**. 67% disapprove of Republican leadership in Congress. ([CNN](https://www.cnn.com/2023/01/26/politics/cnn-poll-house-gop-leadership))
-

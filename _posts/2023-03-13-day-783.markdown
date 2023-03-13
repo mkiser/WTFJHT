@@ -1,6 +1,6 @@
 ---
 title: Day 783
-date: 2023-03-13 15:29:00 -07:00
+date: 2023-03-13 15:29:00 -08:00
 description: '"Substantial concerns."'
 image: "/uploads/day-783-biden.jpg"
 todayInOneSentence: 'The Biden administration approved the Willow oil-drilling project

@@ -2,7 +2,7 @@
 title: Day 840
 date: 2023-05-09 14:50:00 -07:00
 description: '"Absolutely no idea."'
-image: /uploads/day-840-biden.jpg"
+image: "/uploads/day-840-biden.jpg"
 todayInOneSentence: A jury unanimous found Trump liable for the sexual abuse, battery,
   and defamation of E. Jean Carroll, awarding her $5 million in damages; a judge barred
   Trump from publicly posting evidence and other material related to the pending criminal

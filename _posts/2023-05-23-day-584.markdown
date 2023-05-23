@@ -1,5 +1,5 @@
 ---
-title: Day 584
+title: Day 854
 date: 2023-05-23 15:02:00 -07:00
 description: '"Very substantial."'
 image: "/uploads/day-584-biden.jpg"

@@ -53,7 +53,7 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 **Why don't you publish WTF Just Happened Today in the morning?** It's not called WTF Just Happened Yesterday.
 
-**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including  Trump's and Biden's birthdays. Below is the 2023 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
+**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including Trump's and Biden's birthdays. Below is the 2023 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
 * **2023**
 * New Year's Day – January 2
@@ -62,7 +62,7 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 * President's Day – February 20
 * Good Friday – April 7
 * Memorial Day – May 29
-* Trump's Birthday – June 14 (observed June 16)
+* Flag Day / Trump's Birthday – June 14 (observed June 16)
 * Juneteenth – June 19
 * Independence Day – July 4 
 * Labor Day – September 4

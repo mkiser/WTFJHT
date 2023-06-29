@@ -10,7 +10,7 @@ todayInOneSentence: Roughly 87 million people in 17 states – representing near
   federal prosecutors investigating Trump's his efforts to reverse the 2020 election
   results; 44% of voters overall say they would consider voting for third-party candidate
   in a 2024 matchup between Biden and Trump; 63% of women disapprove of the Florida
-  Gov. Ron DeSantis; 30% of voters say the economy is the most important to issue
+  Gov. Ron DeSantis; 30% of voters say the economy is the most important issue to them
   in the 2024 presidential election; and 60% of Americans say gun violence is a "very
   big problem" in the country.
 ---
@@ -29,6 +29,6 @@ poll/ **44% of voters overall say they would consider voting for third-party can
 
 poll/ **63% of women disapprove of the Florida Gov. Ron DeSantis**. Among men, 48% have an unfavorable view of DeSantis. ([Florida Politics](https://floridapolitics.com/archives/620830-ron-63-women/))
 
-poll/ **30% of voters say the economy is the most important to issue in the 2024 presidential election**. 28% say preserving democracy in the U.S. is the next most important issue, followed by gun violence (9%), abortion (8%), immigration (7%), health care (6%), climate change (4%), and racial inequality (3%). ([Quinnipiac](https://poll.qu.edu/poll-release?releaseid=3875))
+poll/ **30% of voters say the economy is the most important issue to them in the 2024 presidential election**. 28% say preserving democracy in the U.S. is the next most important issue, followed by gun violence (9%), abortion (8%), immigration (7%), health care (6%), climate change (4%), and racial inequality (3%). ([Quinnipiac](https://poll.qu.edu/poll-release?releaseid=3875))
 
 poll/ **60% of Americans say gun violence is a "very big problem" in the country**. 62% say gun violence will increase in the next five years. 7% say gun violence will decrease. ([Pew Research Center](https://www.pewresearch.org/politics/2023/06/28/gun-violence-widely-viewed-as-a-major-and-growing-national-problem/))

@@ -1,5 +1,5 @@
 ---
-title: Day 931w
+title: Day 931
 date: 2023-08-08 14:30:00 -07:00
 description: '"Right the wrongs of the past."'
 image: "/uploads/day-931-biden.jpg"

@@ -2,6 +2,7 @@
 title: Day 937
 date: 2023-08-14 15:58:00 -07:00
 description: '"Special treatment."'
+image: "/uploads/day-937-biden.jpg"
 todayInOneSentence: A Montana judge ruled that the state's oil and gas policies failed
   to consider climate change when approving energy projects, violating young people’s
   constitutional right to a “clean and healthful environment”; an Atlanta area grand

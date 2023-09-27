@@ -2,7 +2,7 @@
 title: Day 981
 date: 2023-09-27 14:43:00 -07:00
 description: '"Total annihilation."'
-image: /uploads/day-981-biden.jpg"
+image: "/uploads/day-981-biden.jpg"
 todayInOneSentence: A federal government shutdown looks increasingly likely as Kevin
   McCarthy lacks the votes needed to pass a short-term spending bill and House Republicans
   have indicated they won't consider the Senate's bipartisan plan to fund the government;

@@ -77,7 +77,7 @@ defaults:
   values:
     sitemap: false
     metatags: noindex, follow
-is_away_mode: false
+is_away_mode: true
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Today's essential guide to the daily shock and awe in national politics.

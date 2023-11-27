@@ -10,7 +10,7 @@ GEM
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
     colorator (1.1.0)
-    commonmarker (0.23.9)
+    commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
@@ -106,7 +106,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-algolia (~> 1.0)
+  jekyll-algolia
   jekyll-archives (= 2.1.1)
   jekyll-commonmark
   jekyll-extlinks

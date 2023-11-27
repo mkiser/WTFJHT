@@ -2,6 +2,8 @@ sudo: false
 dist: trusty
 language: ruby
 cache: bundler
+rvm:
+- 2.6
 addons:
   apt:
     update: true

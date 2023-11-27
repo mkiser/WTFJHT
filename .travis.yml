@@ -3,7 +3,7 @@ dist: trusty
 language: ruby
 cache: bundler
 rvm:
-- 2.4.1
+- 2.6.3
 addons:
   apt:
     update: true

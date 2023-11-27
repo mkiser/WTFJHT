@@ -11,7 +11,7 @@ addons:
     - cmake
 before_install:
 - rm Gemfile.lock
-- gem install bundler -v
+- gem install bundler
 before_script:
 - chmod +x ./script/*
 script: 

@@ -3,7 +3,7 @@ dist: trusty
 language: ruby
 cache: bundler
 rvm:
-  - 2.7.6
+  - 2.6.3
 addons:
   apt:
     update: true
@@ -11,8 +11,10 @@ addons:
     - kalakris-cmake
     packages:
     - cmake
+    - libcurl4-openssl-dev
 before_install:
 - rm Gemfile.lock
+- yes | gem update --system --force
 - gem install bundler
 before_script:
 - chmod +x ./script/*

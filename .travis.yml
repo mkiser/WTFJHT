@@ -1,9 +1,8 @@
 sudo: false
-dist: trusty
 language: ruby
 cache: bundler
 rvm:
-- 2.4.1
+  - 2.6
 addons:
   apt:
     update: true
@@ -11,11 +10,15 @@ addons:
     - kalakris-cmake
     packages:
     - cmake
+    - libcurl4-openssl-dev
 before_install:
-- rm Gemfile.lock
-- gem install bundler -v '~> 2.3.26'
+  - rm Gemfile.lock
+  - gem uninstall -v '>= 2' -i $(rvm gemdir)@global -ax bundler || true
+  - gem install bundler -v '< 2'
+  - gem update --system
+  - gem --version
 before_script:
-- chmod +x ./script/*
+  - chmod +x ./script/*
 script: 
 - if [ $TRAVIS_EVENT_TYPE = cron ]; then echo -e "# cibuildindex via cron" ; fi
 - if [ $TRAVIS_EVENT_TYPE = cron ]; then travis_wait 35 ./script/cibuildindex; fi

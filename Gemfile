@@ -10,7 +10,7 @@ gem 'jekyll-archives', '2.1.1'
 
 group :jekyll_plugins do
   gem 'jekyll-include-cache'
-  gem 'jekyll-algolia', '~> 1.0'
+  gem 'jekyll-algolia'
   gem 'jekyll_pages_api'
   gem 'jekyll-commonmark'
 end

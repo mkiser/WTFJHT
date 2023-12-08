@@ -16,7 +16,7 @@ A note on bias: Humans making decisions about the relative importance of informa
 
 With WTFJHT, you will find an independent voice that is personally accountable and considerate for how the editorial choices impact others. I go to great lengths to cite the original source of news and draw from a diversity of sources.
 
-Built using <a href="https://pages.github.com/">GitHub Pages</a>, <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, and <a href="https://mailchimp.com/">MailChimp</a>.
+Built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, <a href="https://mailchimp.com/">MailChimp</a>, and <a href="https://yellowbrim.com/">Yellow Brim</a>.
 
 <p class="lead">-<a href="https://twitter.com/matt_kiser/">Matt Kiser</a><br>
     <small>matt at whatthefuckjusthappenedtoday dot com</small>

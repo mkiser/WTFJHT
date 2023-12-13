@@ -194,6 +194,7 @@ algolia:
   - _whatwelearned/*
   - page/*/**.html
   - donald-trumps-impeachment-from-whistleblower-to-acquittal.markdown
+  - trump-impeachment-news-timeline-analysis.html
   settings:
     searchableAttributes:
     - unordered(content)

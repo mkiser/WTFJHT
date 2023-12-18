@@ -1,6 +1,7 @@
 ---
 title: Day 1063
 date: 2023-12-18 14:15:00 -08:00
+description: '"They''re all laughing at us."'
 image: "/uploads/day-1063bbiden.jpeg"
 todayInOneSentence: 'Trump approvingly quoted Putin to support his unfounded claim
   that his four criminal indictments are political payback; Biden condemned Trump

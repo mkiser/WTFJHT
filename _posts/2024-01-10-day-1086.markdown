@@ -1,7 +1,7 @@
 ---
 title: Day 1086
 date: 2024-01-10 15:06:00 -08:00
-description: Irrelevant matters."
+description: '"Irrelevant matters."'
 image: "/uploads/day1086bidentrump.jpg"
 todayInOneSentence: 'House Republicans revolted against a bipartisan spending deal,
   openly criticized their new speaker, and blocked a procedural vote on an unrelated

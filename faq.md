@@ -61,7 +61,8 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 * WTF Just Happened Today?'s Birthday – January 20
 * President's Day – February 19
 * Good Friday – March 29
-* Earth day - April 22
+* Earth Day - April 22
+* International Workers' Day – May 1
 * Memorial Day – May 27
 * Flag Day / Trump's Birthday – June 14
 * Juneteenth – June 19

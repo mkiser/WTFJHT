@@ -36,11 +36,9 @@ todayInOneSentence: 'Kamala Harris officially secured the 2024 Democratic presid
 **🗳️ Nov. 5**: Presidential Election.
 * **✅ Get election ready**: Register to vote, update your address, or request an absentee ballot at [Vote.org](https://www.vote.org/), [TurboVote](https://turbovote.org/), [RocktheVote](https://www.rockthevote.org/), or [Votes From Abroad.org](https://www.votefromabroad.org/).
 * #### 📈 The WTFJHT Election Poll Tracking Tracker ™️.
-* **Harris 47% – Trump 47%** ([New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html))
-* **Harris 45% – Trump 43%** ([538](https://projects.fivethirtyeight.com/polls/president-general/2024/national/))
-* **Harris 45% – Trump 43%** ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model))
-* **Harris 47% – Trump 45%** ([The Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls))
-* **Harris 47% – Trump 46%** ([RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris))
-* **Trump 52% – Harris 46%** ([Polymarket](https://polymarket.com/elections))
-
-
+* **Harris 47% – Trump 47%** ([New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html)) \
+**Harris 45% – Trump 43%** ([538](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)) \
+**Harris 45% – Trump 43%** ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)) \
+**Harris 47% – Trump 45%** ([The Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls)) \
+**Harris 47% – Trump 46%** ([RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris)) \
+**Trump 52% – Harris 46%** ([Polymarket](https://polymarket.com/elections))

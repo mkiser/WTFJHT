@@ -64,19 +64,6 @@
       gtag('config', 'G-P3G02CXQXW');
     </script>
     
-<!--     <script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-    ga('create', 'UA-91051784-1', 'auto', {'allowLinker': true});
-    ga('require', 'linker');
-    ga('linker:autoLink', ['list-manage.com'], false, true);
-    ga('linker:autoLink', ['memberful.com'], true);
-    ga('send', 'pageview');
-    </script> -->
-   
-
     <script type="text/javascript">
       (function(c) {
         var script = document.createElement("script");
@@ -109,9 +96,7 @@
         </h3>
         <div class="wtf-tagline">
           <small>{{ site.tagline }} <br>Curated by <a href="https://twitter.com/matt_kiser">@matt_kiser</a></small>
-          <br> <span class="site-updated">Site updated: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-m/%-d/%Y %l:%M %p %Z" }}</time>
-          </span>
-     
+          <br> <span class="site-updated">Site updated: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-m/%-d/%Y %l:%M %p %Z" }}</time></span>
          </div>
 
         <div class="wtf-search">
@@ -246,8 +231,6 @@
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/hogan.min.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/moment.min.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/algolia.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/jquery.scrolldepth.min.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/riveted.min.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/rrssb.min.js"></script>
       <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
@@ -264,7 +247,6 @@
       </script>
       -->
 
-      <script>riveted.init();</script>
       <!-- AUDIO PLAYER -->
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js"></script>
       <script>
@@ -345,24 +327,6 @@
           }
         });
       })();
-      </script>
-      <!-- GA SCROLL x CLICK -->
-      <script>
-      jQuery(function() {
-        jQuery.scrollDepth({
-          userTiming: false,
-          pixelDepth: false
-        });
-      });
-      </script>
-      <script>
-        $(".external").on("click", function() {
-          ga('send', 'event', {
-            eventCategory: 'Outbound Link',
-            eventAction: 'click',
-            eventLabel: $(this).attr('href')
-          });
-        });
       </script>
     </div>      
   </body>

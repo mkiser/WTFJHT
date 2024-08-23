@@ -10,21 +10,9 @@ layout: page
 
 ---
 
-**Social Distribution**
-
-* [Facebook](https://business.facebook.com/wtfjht/)
-
-* [Twitter](https://tweetdeck.twitter.com/)
-
-* [One Signal](https://onesignal.com/apps/b2203a05-d61e-466f-8655-6184372a478a)
-
----
-
 **Debugging**
 
 * [FB Open Graph Object Debugger](https://developers.facebook.com/tools/debug/)
-
-* [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 
 * [Mail Tester](https://www.mail-tester.com/)
 
@@ -32,12 +20,8 @@ layout: page
 
 ---
 
-**URL Builder**
-
-* [Google Analytics UTM Tags](https://www.facebook.com/business/google-analytics/build-your-url)
-
 **Other**
 
 * [Siteleaf](https://manage.siteleaf.com/sites/59695a700b88061e218224ce/collections/posts)
-* [Travis](https://travis-ci.org/mkiser/WTFJHT/builds)
-* [Canva](https://www.canva.com/)
+* [Travis](https://app.travis-ci.com/github/mkiser/WTFJHT/builds)
+

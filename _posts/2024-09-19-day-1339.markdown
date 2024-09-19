@@ -1,0 +1,55 @@
+---
+title: Day 1339
+date: 2024-09-19 12:56:00 -07:00
+description: '"Disappointed."'
+image: "/uploads/day-1339-biden-harris.jpg"
+todayInOneSentence: House Republicans rejected their own funding bill after Trump
+  demanded that the government be shut down if legislation requiring proof of citizenship
+  to register to vote isn’t passed; Trump criticized the Federal Reserve’s decision
+  to lower interest rates for the first time in four years during a campaign stop
+  at a Bitcoin-themed bar; 48% of registered voters in Pennsylvania support Harris,
+  while 47% support Trump; and if the 2024 presidential election were held today,
+  50% of voters in Pennsylvania say they’d vote for Harris, while 46% say they’d support
+  Trump.
+---
+
+1/ **House Republicans rejected their own funding bill after Trump demanded that the government be shut down if legislation requiring proof of citizenship to register to vote isn’t passed**. Noncitizen voting, however, is already illegal in federal elections, and voter fraud committed by noncitizens is rare and practically nonexistent. The claim that non-citizen voting is a widespread problem has been repeatedly debunked. Lawmakers have until Sept. 30 to extend government funding. "I'm disappointed," Speaker Mike Johnson said after the vote, which he lost by a vote of 220-202. “We ran the play. It was the best play. It was the right one. And so now we go back to the playbook. We’ll draw up another play and we’ll come up with a solution.” ([Washington Post](https://www.washingtonpost.com/business/2024/09/18/house-bill-government-shutdown-funding/) / [NBC News](https://www.nbcnews.com/politics/congress/house-republicans-vote-funding-bill-shutdown-trump-save-act-rcna171635) / [Axios](https://www.axios.com/2024/09/18/johnson-suffers-embarrassing-loss-as-bill-to-stop-shutdown-fails) / [Rolling Stone](https://www.rollingstone.com/politics/politics-news/trump-government-shutdown-congress-save-act-1235106067/))
+
+2/ **Trump criticized the Federal Reserve’s decision to lower interest rates for the first time in four years during a campaign stop at a Bitcoin-themed bar**. He suggested that the central bank was "playing politics" and that the economy must be "very bad." Earlier in the day, the Fed cut rates from 5.25 to 5.50% to a range between 4.75 and 5% in response to the Committee gaining "greater confidence that inflation is moving sustainably toward 2%," and that the "risks to achieving its employment and inflation goals are roughly in balance." ([The Hill](https://thehill.com/homenews/campaign/4887399-trump-federal-reserve-cut-rates/) / [CNN](https://edition.cnn.com/2024/09/19/business/fed-rate-cuts-politics-nightcap/index.html) / [Daily Beast](https://www.thedailybeast.com/fed-risks-donald-trumps-fury-with-historic-interest-rate-cut))
+
+poll/ **48% of registered voters in Pennsylvania support Harris, while 47% support Trump**. Among likely voters, Harris and Trump are both tied at 48%. ([Washington Post](https://www.washingtonpost.com/politics/2024/09/19/polling-harris-trump-pennsylvania-debate/))
+
+poll/ **If the 2024 presidential election were held today, 50% of voters in Pennsylvania say they’d vote for Harris, while 46% say they’d support Trump**. Nationally, the two are tied at 47%. ([New York times](https://www.nytimes.com/2024/09/19/us/politics/harris-trump-times-siena-poll-pennsylvania.html))
+
+---
+
+### ✏️ Notables.
+
+1. **The Actual Electoral Map Is Three States**. "If the former president wins the East Coast trio of Pennsylvania, North Carolina and Georgia, he will go back to the White House." ([Politico](https://www.politico.com/news/magazine/2024/09/19/trump-three-swing-states-election-win-00179648))
+
+2. **Trump’s Laziest Campaign**. "The 78-year-old Republican nominee is holding fewer campaign events than in his two previous runs for the presidency. Can he pick up the pace?" ([Washington Monthly](https://washingtonmonthly.com/2024/09/19/trumps-laziest-campaign/))
+
+3. **This Is What a Losing Campaign Looks Like**. "How does Donald Trump’s running mate have so much time on his hands?" ([The Atlantic](https://www.theatlantic.com/politics/archive/2024/09/trump-vance-x-campaign-losing/679924/))
+
+---
+
+* #### 📅 The WTFJHT Calendar: Now until *then*. 
+* **💰 Sept. 30**: Government funding deadline. \
+**📺 Oct. 1**: CBS vice presidential debate. \
+**📆 Oct. 6**: Last day to register to vote in some states. \
+**⛔️ Oct. 14**: Indigenous Peoples’ Day – No WTFJHT. \
+**🗳️ Nov. 5**: Election Day. \
+**⚖️ Nov. 26**: Trump is sentenced. 
+* **✅ Get election ready**: Register to vote, update your address, or request an absentee ballot at [Vote.org](https://www.vote.org/), [TurboVote.org](https://turbovote.org/), [RocktheVote.org](https://www.rockthevote.org/), or [VoteFromAbroad.org](https://www.votefromabroad.org/).
+* #### 📈 Election Polling Tracker
+* **Harris +2.0 points** ([New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html)) \
+**Harris +2.9 points** ([538](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)) \
+**Harris +3.7 points** ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)) \
+**Harris +4.5 points** ([The Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls)) \
+**Harris +1.9 points** ([RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris)) \
+**Harris +7.5 points** ([Election Betting Odds](https://www.electionbettingodds.com/))
+* #### 🔮 Election Forecast Tracker
+* **Harris wins 60 times out of 100**. Trump wins 39 times out of 100. ([538](https://projects.fivethirtyeight.com/2024-election-forecast/)) \
+**Trump wins 51 times out of 100**. Harris wins 49 times out of 100. ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)) \
+**Harris wins 60 times out of 100**. Trump wins 40 times out of 100. ([The Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/))
+

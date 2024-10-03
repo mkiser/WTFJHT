@@ -1,0 +1,73 @@
+---
+title: Day 1353
+date: 2024-10-03 14:47:00 -07:00
+description: '"Everything was nice."'
+image: "/uploads/day-1353-biden-harris.jpg"
+todayInOneSentence: Biden's student loan forgiveness program can proceed after a federal
+  judge let a temporary restraining order expire; Trump promised to revoke Temporary
+  Protected Status and deport the Haitian migrants who are legally living in Springfield,
+  Ohio, if he is reelected in November; a former Colorado county clerk was sentenced
+  to nine years in prison for tampering with voting machines under her control during
+  the 2020 election; and a roundup news summaries of the unsealed 165-page partially
+  redacted filing by Special Counsel Jack Smith that details the government’s evidence
+  against Trump in his criminal election interference case in Washington, D.C.
+---
+
+1/ **Biden's student loan forgiveness program can proceed after a federal judge let a temporary restraining order expire**. The lawsuit was brought by seven Republican-led states that argued the Biden administration’s rule would be detrimental to income tax revenue. U.S. District Judge Randal Hall, however, found that Georgia lacked standing to sue because the state failed to show it would be harmed by the plan to forgive $73 billion in student loan debt held by millions of Americans. Instead, Hall directed the case to be transferred to Missouri. The Republican-led states asked a federal judge in Missouri to rule by Friday on whether to continue blocking the proposal. ([NBC News](https://www.nbcnews.com/politics/white-house/bidens-student-loan-forgiveness-plan-can-take-effect-judge-lets-restra-rcna173837) / [Reuters](https://www.reuters.com/world/us/us-judge-deals-setback-republican-suit-against-biden-student-debt-relief-2024-10-03/) / [CNBC](https://www.cnbc.com/2024/10/03/student-loan-forgiveness-plan-goes-ahead-biden.html))
+
+2/ **Trump promised to revoke Temporary Protected Status and deport the Haitian migrants who are legally living in Springfield, Ohio, if he is reelected in November**. Following a 2010, 7.0 magnitude earthquake in Haiti that killed around 220,000 people, Obama added Haitians to the TPS program, which allows migrants to stay in the U.S. when their countries are unsafe to return to. Despite spending weeks spreading debunked conspiracy theories that Haitian migrants were eating pets in Springfield, Trump continued to disparage them, saying that placing thousands of migrants in the town "doesn't work." He added: "You have to remove the people. You cannot destroy — we cannot destroy our country. You had a beautiful, safe community. Everyone's in love with everybody, everything was nice, it was like a picture community." Trump also falsely claimed that over 30,000 migrants have moved into Springfield in recent years, but the number is between 12,000 and 15,000 in the entire county – not just the city. Trump has previously said he wants to deport between 15 and 20 million immigrants if reelected. ([Axios](https://www.axios.com/2024/10/03/trump-springfield-haitian-migrants-tps) / [Politico](https://www.politico.com/news/2024/10/03/trump-haitian-migrants-deport-00182328) / [New York Times](https://www.nytimes.com/2024/10/03/us/politics/trump-haitian-immigrants-legal-status.html) / [CNN](https://www.cnn.com/2024/10/03/politics/trump-revoke-status-ohio-haitian-migrants/index.html))
+
+3/ **A former Colorado county clerk was sentenced to nine years in prison for tampering with voting machines under her control during the 2020 election**. Tina Peters was convicted of four felony and three misdemeanor charges for allowing MyPillow chief executive Mike Lindell – a pro-Trump activist and a prominent promoter of the false claims that voting machines were manipulated to steal the election from Trump – to use another person’s security card to access to the Mesa County election system in May 2021. The county’s machines later had to be replaced when data, including passwords for the machines, was posted online. “Your lies are well-documented and these convictions are serious,” Judge Matthew Barrett told Peters before he handed down his sentence, calling her a “charlatan” who used her time in office “to peddle snake oil.” Barrett told Peters that "the damage is immeasurable," and "I’m convinced you would do it all over again if you could \[...\] You're as defiant a defendant as I've ever seen." ([Associated Press](https://apnews.com/article/tina-peters-colorado-clerk-election-vote-fraud-b456ce4f80dc97f4b967eb6297311a51) / [New York Times](https://www.nytimes.com/2024/10/03/us/politics/tina-peters-sentence-colorado.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/election-denying-ex-county-clerk-sentenced-9-years-tampering-election-rcna173807) / [CNBC](https://www.cnbc.com/2024/10/03/trump-election-conspiracist-tina-peters-sentenced.html))
+
+* **As election threats rise, Justice Dept. says its options are limited**. "Free speech protections keep federal authorities from taking stronger actions against alleged harassment and intimidation." ([Washington Post](https://www.washingtonpost.com/national-security/2024/10/03/justice-election-threats-prosecutions/))
+
+* **Cybersecurity head says there’s no chance a foreign adversary can change US election results**. “Malicious actors, even if they tried, could not have an impact at scale such that there would be a material effect on the outcome of the election,” said Jen Easterly, director of the U.S. Cybersecurity and Infrastructure Security Agency. ([Associated Press](https://apnews.com/article/election-2024-security-misinformation-russia-iran-b93d6bbbf08c5046b4cee70ba7676a52))
+
+---
+
+### 🗑️ Dept. of "Make Them Riot."
+
+*Editor’s note: I’m not capable of providing a thoughtful and concise news summary of the unsealed 165-page partially redacted filing by Special Counsel Jack Smith that details the government’s evidence against Trump in his criminal election interference case in Washington, D.C. Instead, I’m just going to provide a list of what I think are useful and relevant links.*
+
+1. **Takeaways from the big new filing on Trump’s 2020 election plot**. “So what,” “Make them riot,” “It doesn’t matter if you won or lost the election,” and what it all means legally and politically. ([Washington Post](https://www.washingtonpost.com/politics/2024/10/02/jack-smith-trump-2020-election-filing-takeaways/) / [Politico](https://www.politico.com/news/2024/10/02/jack-smith-trump-election-brief-details-00182287) / [ABC News](https://abcnews.go.com/US/5-key-takeaways-special-counsels-bombshell-filing-trumps/story?id=114461629))
+
+2. **Jack Smith’s Big New Jan. 6 Brief Is a Major Indictment of the Supreme Court**. "Right now it appears to be a toss-up whether Trump or Vice President Kamala Harris will win office in the November election. If Trump wins, he will have his attorney general fire Smith and shut down this prosecution. If he keeps his promises, he even may seek to investigate and prosecute Smith, Harris, Biden, and others. There is a risk of authoritarianism down the line." ([Slate](https://slate.com/news-and-politics/2024/10/trump-election-interference-trial-jack-smith-brief-supreme-court-failure.html))
+
+3. **Trump claims new Jack Smith filing is election interference**. "Trump accused the special counsel of election interference over a filing released Wednesday. But a federal judge, not Smith, made the decision to make it public and when." ([NBC News](https://www.nbcnews.com/politics/2024-election/trump-misleads-claim-jack-smith-filing-election-interference-rcna173795))
+
+4. **Trump casts 'election interference' label on everything while facing federal charges**. "Trump is already laying the groundwork to dispute the results of another election, leveling baseless charges of interference as his own federal election interference case progresses." ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-casts-election-interference-label-everything-facing-federal-char-rcna173754))
+
+5. **Trump Fumes Over Release of New Evidence in Election Interference Case**. "The Justice Department has provided new details regarding Trump's actions on Jan. 6 through an evidentiary brief unsealed on Wednesday." ([Rolling Stone](https://www.rollingstone.com/politics/politics-news/trump-doj-evidence-brief-election-interference-case-1235123732/) / [Daily Beast](https://www.thedailybeast.com/trump-is-absolutely-fuming-over-the-release-of-bombshell-election-case-doc))
+
+6. **Trump's Response When He Learned Pence's Life Was In Danger On Jan. 6: 'So What?"** "The anecdote was among hundreds of pieces of evidence gathered by federal prosecutors into a 165-page court filing, unsealed Wednesday, in their four-count felony prosecution against Trump for his actions leading up to and during his coup attempt." ([HuffPost](https://www.huffpost.com/entry/trump-immunity-brief-jan-6_n_66fda515e4b0ccc050c59718) / [Washington Post](https://www.washingtonpost.com/national-security/2024/10/02/jack-smith-filing-trump-immunity-jan-6/) / [CNBC](https://www.cnbc.com/2024/10/02/trump-special-counsel-evidence-election-harris.html))
+
+7. **No amount of evidence will convince Republicans of Trump’s 2020 guilt**. "Republican support for Donald Trump’s efforts to overturn the 2020 election has always been despite the evidence, not because of it." ([Washington Post](https://www.washingtonpost.com/politics/2024/10/03/no-amount-evidence-will-convince-republicans-trumps-2020-guilt/))
+
+8. **Read Jack Smith’s arguments for why Trump is not immune in Jan. 6 case**. "In a court filing unsealed Wednesday, prosecutors laid out new evidence that Trump’s efforts to subvert the results of the 2020 election were taken as a private candidate." ([Washington Post](https://www.washingtonpost.com/national-security/2024/10/02/read-jack-smiths-arguments-why-trump-is-not-immune-jan-6-case/))
+
+---
+
+* #### 📅 The WTFJHT Calendar: Now until *then*.
+
+* **📆 Oct. 6**: Voter registration deadline in 15 states. \
+  **⛔️ Oct. 14**: Indigenous Peoples’ Day – No WTFJHT. \
+  **📺 Oct. 23**: \[Proposed\] Presidential debate. \
+  **🗳️ Nov. 5**: Election Day. \
+  **⚖️ Nov. 26**: Trump is sentenced.
+
+* **✅ Get election ready**: Register to vote, update your address, or request an absentee ballot at [Vote.org](https://www.vote.org/), [TurboVote.org](https://turbovote.org/), [RocktheVote.org](https://www.rockthevote.org/), or [VoteFromAbroad.org](https://www.votefromabroad.org/).
+
+* #### 📈 Election Polling Tracker
+
+* **Harris \+3.0 points** ([New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html)) \
+  **Harris \+2.7 points** ([538](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)) \
+  **Harris \+3.4 points** ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)) \
+  **Harris \+4.1 points** ([The Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls)) \
+  **Harris \+2.2 points** ([RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris)) \
+  **Harris \+1.6 points** ([Election Betting Odds](https://www.electionbettingodds.com/))
+
+* #### 🔮 Election Forecast Tracker
+
+* **Harris wins 58 times out of 100**. Trump wins 42 times out of 100. ([538](https://projects.fivethirtyeight.com/2024-election-forecast/)) \
+  **Harris wins 57 times out of 100**. Trump wins 43 times out of 100. ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)) \
+  **Harris wins 60 times out of 100**. Trump wins 40 times out of 100. ([The Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/))

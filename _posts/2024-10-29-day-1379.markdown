@@ -1,0 +1,76 @@
+---
+title: Day 1379
+date: 2024-10-29 14:52:00 -07:00
+description: '"Turn the page."'
+image: "/uploads/day-1379-biden-harris.jpg"
+todayInOneSentence: Kamala Harris will challenge Americans to “turn the page” on Trump
+  in a speech from the Ellipse in Washington; Trump and his allies insist he's "not
+  a Nazi" and when urged to apologize for the racist comments made at his Madison
+  Square Garden campaign rally, Trump responded that it was an “honor to be involved”
+  and called it "an absolute lovefest"; two ballot drop boxes were set on fire; the
+  Supreme Court declined to let Robert F. Kennedy Jr. withdraw his name from ballots
+  in Michigan and Wisconsin; Steve Bannon was released from prison; the federal judge
+  overseeing the prosecution of a man accused of trying to assassinate Trump denied
+  a request to recuse herself in the case; and 86% of voters said they’re personally
+  prepared to accept the outcome of the 2024 presidential election – regardless of
+  who wins – while 66% said Trump is not prepared to accept the results of the election.
+---
+
+* **The presidential election is 7 days away**.
+* #### 📈 Polling Vibes.
+* **Harris +1.0 points** ([New York Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html)) \
+**Harris +1.3 points** ([FiveThirtyEight](https://projects.fivethirtyeight.com/polls/president-general/2024/national/)) \
+**Harris +0.9 points** ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)) \
+**Harris +1.3 points** ([The Economist](https://www.economist.com/interactive/us-2024-election/trump-harris-polls)) \
+**Trump +0.4 points** ([RealClearPolitics](https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris)) \
+**Harris +1.6 points** ([Split Ticket](https://split-ticket.org/2024-presidential-polling-averages/))
+* #### 🔮 Forecasting Vibes.
+* **Trump wins 53 times out of 100**. Harris wins 46 times out of 100. ([FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast/)) \
+**Trump wins 55 times out of 100**. Harris wins 45 times out of 100. ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)) \
+**Trump wins 56 times out of 100**. Harris wins 44 times out of 100. ([The Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/)) \
+**Trump wins 52 times out of 100**. Harris wins 48 times out of 100. ([JHK Forecasts](https://projects.jhkforecasts.com/2024/president/#standard)) \
+**Harris wins 52 times out of 100**. Trump wins 47 times out of 100. ([Split Ticket](https://split-ticket.org/2024-presidential-ratings/)) \
+**Harris wins 52 times out of 100**. Trump wins 46 times out of 100. ([CNalysis](https://projects.cnalysis.com/23-24/president)) \
+**Trump wins 63 times out of 100**. Harris wins 36 times out of 100. ([Election Betting Odds](https://www.electionbettingodds.com/)) 
+
+* ***Editor’s note**: Forecasts are probabilities, not certainties. They reflect the current vibes, not the final result*. 
+
+* 💡 **Poll results depend on pollster choices as much as voters’ decisions**. "Simple changes in how to weight a single poll can move the Harris-Trump margin 8 points." ([Good Authority](https://goodauthority.org/news/election-poll-vote2024-data-pollster-choices-weighting/))
+
+--- 
+
+
+1/ **Kamala Harris will challenge Americans to “turn the page” on Trump in a speech from the Ellipse in Washington** – the same spot where Trump directed his supporters on Jan. 6, 2021, to “fight like hell” and march on the Capitol. Harris will step onstage around 7:30 p.m. tonight and, according to the prepared remarks, she’ll detail how “Trump has spent a decade trying to keep the American people divided and afraid of each other. That’s who he is. But America, I am here tonight to say: That’s not who we are.” Harris will frame the election as a choice between two different visions for the country, saying "Trump intends to use the United States military against American citizens who simply disagree with him. People he calls – quote – 'the enemy from within.' This is not a candidate for president who is thinking about how to make your life better." The campaign expects as many as 40,000 people to attend, according to an amended National Park Service permit for the event. ([NBC News](https://www.nbcnews.com/politics/2024-election/harris-will-ask-voters-turn-page-trump-era-site-jan-6-speech-rcna177669) / [New York Times](https://www.nytimes.com/2024/10/29/us/politics/harris-speech-ellipse-trump.html) / [Associated Press](https://apnews.com/article/harris-trump-closing-argument-ellipse-washington-139a7b390dc30ceab85d9ac56fcc521d) / [Wall Street Journal](https://www.wsj.com/politics/elections/kamala-harris-ellipse-speech-democracy-election-2024-a0bf59c8) / [Washington Post](https://www.washingtonpost.com/elections/2024/10/29/2024-election-campaign-updates-harris-trump/))
+
+2/ **Trump and his allies insist he's "not a Nazi" and when urged to apologize for the racist comments made at his Madison Square Garden campaign rally, Trump responded that it was an “honor to be involved” and called it "an absolute lovefest."** Trump later claimed he was unaware of the speakers at his campaign event, saying: “I don’t know him; someone put him up there. I don’t know who he is.” Nearly a million Puerto Ricans live in swing states. JD Vance, meanwhile, said he doesn't believe the racist joke that Puerto Rico is "floating island of garbage" will stop people voting for the Republican presidential ticket. He added "we have to stop getting so offended at every little thing in the United States of America. I'm just — I'm so over it." ([NBC News](https://www.nbcnews.com/politics/2024-election/trump-allies-insist-s-not-nazi-rcna177774) / [Associated Press](https://apnews.com/article/trump-harris-lovefest-rally-puerto-rico-6e079e7894a7e1db5dd4be76cccb452a) / [Axios](https://www.axios.com/2024/10/29/jd-vance-peurto-rico-racist-joke-trump-rally) / [NBC News](https://www.nbcnews.com/politics/2024-election/vance-racist-jokes-trump-rally-stop-getting-offended-rcna177711) / [The Hill](https://thehill.com/homenews/campaign/4959053-trump-hinchcliffe-puerto-rico-controversy/) / [Politico](https://www.politico.com/live-updates/2024/10/28/2024-elections-live-coverage-updates-analysis/puerto-rico-donald-trump-swing-states-00185816) / [Axios](https://www.axios.com/2024/10/29/trump-comment-puerto-rico-rally-tony-hinchcliffe) / [New York Times](https://www.nytimes.com/live/2024/10/29/us/harris-trump-election) / [ABC News](https://abcnews.go.com/Politics/trump-hits-harris-ahead-closing-argument-speech-ellipse/story?id=115256721) / [CNN](https://www.cnn.com/politics/live-news/trump-harris-election-10-29-24) / [Wall Street Journal](https://www.wsj.com/livecoverage/harris-trump-election-10-29-24))
+
+3/ **Two ballot drop boxes were set on fire**. “An incendiary device was placed inside the ballot box" in Portland, Oregon, but a "Fire suppressant inside the ballot box protected virtually all ballots." Hours later, a drop box in nearby Vancouver, Washington, was set on fire. Officials said "hundreds" of ballots were affected. Police said a “suspect vehicle” had been identified from surveillance footage, that the fires were connected, and that they’re also related to an Oct. 8 incident when an incendiary device was placed at a different drop box in Vancouver. The FBI also said it was investigating both fires “to determine who is responsible.” ([NPR](https://www.npr.org/2024/10/28/nx-s1-5168404/oregon-washington-arizona-ballots-drop-boxes-fires) / [New York Times](https://www.nytimes.com/2024/10/28/us/politics/ballot-box-fires-oregon-washington.html) / [Associated Press](https://apnews.com/article/ballot-drop-boxes-explainer-2024-portland-vancouver-ff3023c566fcc0282eb8ee84de297bf9) / [CNN](https://www.cnn.com/2024/10/28/us/ballot-box-fires-oregon-washington/))
+
+4/ **The Supreme Court declined to let Robert F. Kennedy Jr. withdraw his name from ballots in Michigan and Wisconsin**. Kennedy, who supports Trump, claimed that the two swing states are violating his constitutional rights by leaving him on the ballot against his wishes. When Kennedy suspended his campaign, he said his name would remain on the ballot and he encouraged his supporters to vote for him in most states. Wisconsin and Michigan, however, are two of the seven states expected to determine the outcome of the election, which is why he’s seeking to have his name dropped from the ballots in states where it could help Trump. ([CNN](https://www.cnn.com/2024/10/29/politics/rfk-jr-supreme-court-wisconsin-michigan) / [NBC News](https://www.bloomberg.com/news/articles/2024-10-29/supreme-court-refuses-to-remove-rfk-jr-from-swing-state-ballots) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-10-29/supreme-court-refuses-to-remove-rfk-jr-from-swing-state-ballots))
+ 
+5/ **Steve Bannon was released from prison** after serving four months on contempt of Congress charges for refusing to comply with a subpoena related to the Jan. 6 Capitol riot. “The four months in federal prison not only didn’t break me, it empowered me,” Bannon said. “I am more energized and more focused than I’ve ever been in my entire life.” ([CNN](https://www.cnn.com/2024/10/29/politics/steve-bannon-released-prison/) / [NBC News](https://www.nbcnews.com/politics/justice-department/steve-bannon-released-prison-serving-contempt-congress-sentence-rcna177692) / [Associated Press](https://apnews.com/article/steve-bannon-prison-release-56f2f7a17ae2273a29a0829234f56fae) / [New York Times](https://www.nytimes.com/2024/10/29/us/steve-bannon-prison-release.html) / [Axios](https://www.axios.com/2024/10/29/steve-bannon-released-prison-trump-election))
+
+6/ **The federal judge overseeing the prosecution of a man accused of trying to assassinate Trump denied a request to recuse herself in the case**. Judge Aileen Cannon, who was appointed to the federal bench in Florida in 2020 by Trump, said Trump’s repeated praise of her — and the “speculation” that he could promote her if elected president — are not enough to warrant her recusal from cases involving Trump. Cannon is separately overseeing the federal classified document and obstruction case against Trump. ([Politico](https://www.politico.com/news/2024/10/29/aileen-cannon-trump-recusal-00186054) / [Washington Post](https://www.washingtonpost.com/national-security/2024/10/29/judge-cannon-recusal-trump-assassination-attempt/) / [New York Times](https://www.nytimes.com/2024/10/29/us/politics/judge-aileen-cannon-trump-assassination.html))
+
+poll/ **86% of voters said they’re personally prepared to accept the outcome of the 2024 presidential election – regardless of who wins**. 66% said Trump is not prepared to accept the results of the election, while 69% said Harris is. ([ABC News](https://abcnews.go.com/Politics/voters-ready-accept-election-results-doubt-trump-poll/story?id=115083971))
+
+
+---
+
+### ✏️ Notables.
+
+1. **Bidenomics Is Starting to Transform America. Why Has No One Noticed?** "The full effects of the President’s economic policies won’t be felt for years. That might be too late for Kamala Harris and other Democrats." ([New Yorker](https://www.newyorker.com/magazine/2024/11/04/bidenomics-is-starting-to-transform-america-why-has-no-one-noticed))
+
+2. **A new Supreme Court case could change the result of the presidential election**. "Republicans ask the Supreme Court to disenfranchise thousands of Pennsylvania voters." ([Vox](https://www.vox.com/scotus/380170/supreme-court-pennsylvania-election-republican-genser))
+
+3. **How to Finally Abolish the Electoral College**. "If Trump wins the popular vote and loses the election, it could fuel a new bipartisan movement for reform." ([Politico](https://www.politico.com/news/magazine/2024/10/29/trump-election-loss-electoral-college-column-00185866))
+
+4. **How Trump Goes to Prison**. "If he loses the race for the White House, the big house awaits." ([New York Times](https://nymag.com/intelligencer/article/trump-prison-election.html))
+
+5. **The Game Theory of Democracy**. "Countries where democracy is in trouble share a common pattern, and it’s a worrying one for the United States." ([New York Times](https://www.nytimes.com/2024/10/29/magazine/democracy-elections-game.html))
+
+6. **Trump Wants You to Accept All of This as Normal**. "The former president is psychologically preparing Americans for an assault on the electoral system." ([The Atlantic](https://www.theatlantic.com/politics/archive/2024/10/maidison-square-garden-election-fraud/680429/))
+
+7. **A vote for Donald Trump is a vote for school shootings and measles**. "An endorsement of democracy, solving problems, and Kamala Harris." ([The Verge](https://www.theverge.com/24282022/kamala-harris-endorsement-presidential-election-2024))
+
+8. **How to Prevent the Worst From Happening**. "If Trump wins the presidency again, conservatism will be homeless, a philosophy without a party, for at least a generation." ([The Atlantic](https://www.theatlantic.com/ideas/archive/2024/10/conservative-argument-against-trump/680438/))

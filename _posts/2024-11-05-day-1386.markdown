@@ -46,7 +46,7 @@ todayInOneSentence: The presidential election is today; more than 83 million Ame
 * **Harris wins 50 times out of 100**. ([FiveThirtyEight](https://projects.fivethirtyeight.com/2024-election-forecast/)) \
   **Harris wins 50 times out of 100**. ([Nate Silver](https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model)) \
   **Harris wins 56 times out of 100**. ([The Economist](https://www.economist.com/interactive/us-2024-election/prediction-model/president/)) \
-  **Harris wins 50 times out of 100**.([JHK Forecasts](https://projects.jhkforecasts.com/2024/president/#standard)) \
+  **Harris wins 50 times out of 100**. ([JHK Forecasts](https://projects.jhkforecasts.com/2024/president/#standard)) \
   **Harris wins 53 times out of 100**. ([Split Ticket](https://split-ticket.org/2024-presidential-ratings/)) \
   **Trump wins 51 times out of 100**. ([270toWin](https://www.270towin.com/2024-simulation/battleground-270)) \
   **Trump wins 54 times out of 100**. ([The Hill](https://elections2024.thehill.com/forecast/2024/president/)) \

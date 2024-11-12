@@ -11,7 +11,16 @@ layout: page
 
 ---
 
-_Editor's note: My job is to help distill news that deserve attention into a clear, understandable, and accurate first draft of history – even if it is uncomfortable, unpopular, or upsetting. Practically speaking, WTFJHT covers the news through the lens of the executive branch specifically – and the president in particular – followed by the legislative and judicial branches in general, and in that order. Naturally people will demand more from me than this scope and framing allows for, and that’s fine. But if your politics, religion, or ideology dictate that you pick a side and expect me to cater to it, you might be disappointed. Our humanity requires us to rise above picking sides. We are capable of more than rooting for human suffering. We’re talking about people, not politics_.
+_**Orientation and expectation setting**: First, my job is to help distill news that deserves attention into a clear, understandable, and accurate first draft of history – even if it is uncomfortable, unpopular, or upsetting. Practically speaking, WTFJHT covers the news through the lens of the executive branch specifically – and the president in particular – followed by the legislative and judicial branches in general, and in that order. Naturally people will demand more from me than this scope and framing allows for, and that’s fine. But if your politics, religion, or ideology dictate that you pick a side and expect me to cater to it, then you might be disappointed. Our humanity requires us to rise above picking sides. We are capable of more than rooting for human suffering. We’re talking about people, not politics._
+
+*Second, **WTFJHT currently publishes Monday-Thursday**, but in the new year we’re (finally) introducing the "Well That’s Fantastic" Friday edition – a selection of notable news items that will restore your faith in humanity, with a focus on productive or constructive advancements related to politics, health, science, climate, technology, etc.* 
+
+*Third, **this is my full-time job**. The newsletter has always been free. It’s sustained entirely through voluntary reader contributions. And, I plan to keep doing this for as long as you keep supporting me (as defined by earning a fair living wage). So, if you find my work valuable and find yourself relying on it, [invest in the continued production of WTFJHT by becoming a supporting member](https://whatthefuckjusthappenedtoday.com/membership/).*
+
+*And fourth, **if you like WTFJHT, please share this newsletter with friends, family, and colleagues, and encourage them to subscribe**. It’s a free gesture, but one that strengthens our collective voice and contributes to a well-informed community.*
+
+*Lastly, **I’m always trying to get better** and would love your feedback on how WTF Just Happened Today? could serve you better. Just reply to this newsletter any time with your thoughts, suggestions, or complaints.*
+
 
 **Is this free?** Yes, WTFJHT is free, but 100% supported your optional contributions. If you find this resource to be a valuable part of your news diet, then [consider supporting my work](https://whatthefuckjusthappenedtoday.com/membership/). 
 

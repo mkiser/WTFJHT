@@ -35,8 +35,8 @@ todayInOneSentence: 'Trump confirmed that he plans to declare a national emergen
 
 * **💭 Why does this matter?** Bypassing FBI vetting for high-level government appointments sets a concerning precedent for national security. FBI background checks are designed to identify potential risks, including undisclosed foreign ties or ethical breaches, ensuring that appointees are fit for sensitive roles. Circumventing these safeguards exposes critical government operations to vulnerabilities, undermining public trust in the integrity of the administration. Additionally, such actions could embolden future administrations to disregard institutional checks and balances, weakening the framework of accountability essential for democratic governance.
 
-* **Who’s in Trump’s new administration so far**: \
-  Marco Rubio, Secretary of State \
+* **Who’s in Trump’s new administration so far**:
+* Marco Rubio, Secretary of State \
   Pete Hegseth, Defense \
   Matt Gaetz, Attorney General \
   Doug Burgum, Interior \

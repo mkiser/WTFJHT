@@ -16,7 +16,7 @@ redirect_from: "/podcast/"
 		<h1 class="pod-title">{{ site.podcast_title }} Podcast</h1>
 		<p class="pod-desc">{{ site.podcast_description }}</p>
 		<p class="pod-subscribe">
-			<strong>Subscribe:</strong> <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3?si=3bkunuqCT2-GltqAEhX9pA">Spotify</a>, <a href="https://music.youtube.com/playlist?list=PLS83VlkxVvjWkQx0eDHsJvqTUjj_f45y5">Google Podcast</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
+			<strong>Subscribe:</strong> <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple</a>, <a href="https://www.youtube.com/@WTFJHT">YouTube</a>, <a href="https://music.youtube.com/playlist?list=PLS83VlkxVvjWkQx0eDHsJvqTUjj_f45y5">Google</a>, <a href="https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3?si=3bkunuqCT2-GltqAEhX9pA">Spotify</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
 		</p>
 	</div>
 </div>
@@ -38,7 +38,7 @@ redirect_from: "/podcast/"
 <ul>
 	<h4 class="pod-lead">Recent Episodes</h4>
 {% assign pod = site.podcasts | reverse %}
-{% for ep in pod limit:25 offset:1 %}
+{% for ep in pod limit:10 offset:1 %}
 {% assign post = site.posts | where: 'title', ep.post | first %}
     <li>
     	<h3 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ ep.title }}</a></h3>

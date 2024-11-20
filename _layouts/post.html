@@ -51,7 +51,9 @@ layout: default
   <div class="post-content">
    
     {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
-     <p style="margin: 0 1em 1em 1em;"><em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em></p>
+     <p style="padding: 1em;margin: 0 1em 2em 1em;background-color: rgba(49, 49, 49, 0.03);font-size: 1rem;"">
+      <em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em>
+     </p>
      <hr>
     {% endif %}
        

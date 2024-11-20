@@ -49,8 +49,8 @@ layout: default
 {% endif %}
  -->
   <div class="post-content">
-   {% if page.todayInOneSentence | strip | size > 0 %}
-    <p><em><strong>Today in one sentence</strong>: {{page.todayInOneSentence}}</em></p>
+   {% if page.todayInOneSentence | strip | size > 1 %}
+    <p style="margin: 0 1em 1em 1em;"><em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em></p>
     <hr>
    {% endif %}
     {{ content | extlinks }}

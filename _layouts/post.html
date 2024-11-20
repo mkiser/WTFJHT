@@ -49,7 +49,7 @@ layout: default
 {% endif %}
  -->
   <div class="post-content">
-   {% if page.todayInOneSentence %}
+   {% if page.todayInOneSentence | strip != "" %}
     <p><em><strong>Today in one sentence</strong>: {{page.todayInOneSentence}}</em></p>
     <hr>
    {% endif %}

@@ -46,7 +46,9 @@
       <title>{{ page.date | date: "%B %Y" }} Archive | {{ site.title}}</title>
     {% elsif page.layout == 'post' %}
       {% seo title=false %}
+      {% seo description=false %}
       <title>{{ page.title }}: {{ page.description }} | {{ site.title}}</title>
+      <meta name="description" content="{{page.todayInOneSentence}}" />
     {% else %}
       {% seo %} 
     {% endif %}

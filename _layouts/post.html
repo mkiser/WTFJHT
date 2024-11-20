@@ -49,12 +49,18 @@ layout: default
 {% endif %}
  -->
   <div class="post-content">
-    {% if page.todayInOneSentence | strip != "" and page.todayInOneSentence | size > 1 %}
+   
+    {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
      <p style="margin: 0 1em 1em 1em;"><em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em></p>
      <hr>
     {% endif %}
-
-    {{ content | extlinks }}
+   
+    {% if page.todayInOneSentence and not page.todayInOneSentence.blank? %}
+    <p style="margin: 0 1em 1em 1em;"><em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}..</em></p>
+    <hr>
+    {% endif %}
+    
+   {{ content | extlinks }}
     <div><span id="todaylastyear"></span></div>
     <div><span id="todaytwoyearsago"></span></div>
     <div><span id="todaythreeyearsago"></span></div>

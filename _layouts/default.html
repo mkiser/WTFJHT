@@ -44,8 +44,8 @@
     {% elsif page.type == 'month' %}
       {% seo title=false %}
       <title>{{ page.date | date: "%B %Y" }} Archive | {{ site.title}}</title>
-    {% elsif page.type == 'post' %}
-      {% seo title=false %}
+    {% elsif page.layout == 'post' %}
+      {% seo title=false %}@
       <title>{{ page.title }}: {{ page.description }} | {{ site.title}}</title>
     {% else %}
       {% seo %} 

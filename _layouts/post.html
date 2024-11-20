@@ -54,12 +54,7 @@ layout: default
      <p style="margin: 0 1em 1em 1em;"><em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em></p>
      <hr>
     {% endif %}
-   
-    {% if page.todayInOneSentence and not page.todayInOneSentence.blank? %}
-    <p style="margin: 0 1em 1em 1em;"><em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}..</em></p>
-    <hr>
-    {% endif %}
-    
+       
    {{ content | extlinks }}
     <div><span id="todaylastyear"></span></div>
     <div><span id="todaytwoyearsago"></span></div>

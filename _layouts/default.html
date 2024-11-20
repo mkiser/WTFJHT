@@ -45,7 +45,7 @@
       {% seo title=false %}
       <title>{{ page.date | date: "%B %Y" }} Archive | {{ site.title}}</title>
     {% elsif page.layout == 'post' %}
-      {% seo title=false %}@
+      {% seo title=false %}
       <title>{{ page.title }}: {{ page.description }} | {{ site.title}}</title>
     {% else %}
       {% seo %} 
@@ -134,51 +134,71 @@
             <ul>
               <li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/about/">About</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
+              <li><a href="https://cottonbureau.com/people/wtf-just-happened-today">WTFJHT T-Shirts & Hats</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/membership/">Membership</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/faq/">FAQ</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/press/">Press</a></li>
+<!--              <li><a href="{{ site.url }}{{ site.baseurl }}/press/">Press</a></li> -->
               <li><a href="https://currentstatus.io/">Current Status</a></li>
-              <li><a href="https://cottonbureau.com/people/wtf-just-happened-today">WTFJHT T-Shirts & Hats</a></li>
-              <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY">Recommended Books</a></li>
             </ul>
           </div>
-          <!--
-          <div class="ft-main-item">
-            <h2 class="ft-title">Resources</h2>
-            <ul>
-            </ul>
-          </div>
-          -->
+         
+
+       
           <div class="ft-main-item">
             <h2 class="ft-title">Archives</h2>
             <ul>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2024/">2024</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2023/">2023</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2022/">2022</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2021/">2021</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2020/">2020</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2019/">2019</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2018/">2018</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2017/">2017</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/archive/">Complete Archive</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2024/">Season 8: 2024</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2023/">Season 7: 2023</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2022/">Season 6: 2022</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2021/">Season 5: 2021</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2020/">Season 4: 2020</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2019/">Season 3: 2019</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2018/">Season 2: 2018</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2017/">Season 1: 2017</a></li>
+              
+            </ul>
+          </div>
+          
+          <div class="ft-main-item">
+            <h2 class="ft-title">Resources</h2>
+            <ul>
+              <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY">Recommended Books</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/first-100-days/">Trump's First 100 Days</a></li>
               <li>Biden's First 100 Days (coming soon)</li>
               <li>Trump's Second First 100 Days (coming soon)</li>
+              
+            </ul>
+          </div>
+          
+          <div class="ft-main-item">
+            <h2 class="ft-title">Connect</h2>
+            <ul>
+              <li><a href="https://www.facebook.com/wtfjht">Facebook</a></li>
+              <li><a href="https://bsky.app/profile/wtfjht.bsky.social">Bluesky</a></li>
+              <li><a href="https://www.instagram.com/wtfjht/">Instagram</a></li>
+              <li><a href="https://mastodon.social/@wtfjht">Mastodon</a></li>
+              <li><a href="https://twitter.com/wtfjht">Twitter</a></li>
+              <li><a href="https://www.threads.net/@wtfjht">Threads</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
+              <li><a href="https://www.youtube.com/@WTFJHT/">YouTube</a></li>
+              <li><a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a></li>
             </ul>
           </div>
           </section>
           <!-- Footer social -->
+          <!-- 
           <section class="ft-social">
-          <ul class="ft-social-list">
-            <li><a href="https://www.facebook.com/wtfjht"><i class="fa fa-facebook"></i></a></li>
-            <li><a href="https://twitter.com/wtfjht"><i class="fa fa-twitter"></i></a></li>
-            <li><a href="https://www.instagram.com/wtfjht/"><i class="fa fa-instagram"></i></a></li>
-            <li><a href="https://github.com/mkiser/WTFJHT"><i class="fa fa-github"></i></a></li>
-            <li><a href="https://whatthefuckjusthappenedtoday.com/rss.xml"><i class="fa fa-rss"></i></a></li>
-          </ul>
+            <ul class="ft-social-list">
+              <li><a href="https://www.facebook.com/wtfjht"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="https://twitter.com/wtfjht"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="https://www.instagram.com/wtfjht/"><i class="fa fa-instagram"></i></a></li>
+              <li><a href="https://github.com/mkiser/WTFJHT"><i class="fa fa-github"></i></a></li>
+              <li><a href="https://whatthefuckjusthappenedtoday.com/rss.xml"><i class="fa fa-rss"></i></a></li>
+            </ul>
           </section>
+          -->
           <!-- Footer legal -->
           <section class="ft-legal">
           <ul class="ft-legal-list">

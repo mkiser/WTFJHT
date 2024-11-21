@@ -66,6 +66,12 @@ seo:
     -->
     
     <div class="post-content">
+        {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
+         <p style="padding: 1em;margin: 0 1em 2em 1em;background-color: rgba(49, 49, 49, 0.03);font-size: 1rem;" class="tios">
+          <em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em>
+         </p>
+         <hr>
+        {% endif %}
       {{ page.content | extlinks }}
       <div><span id="todaylastyear"></span></div>
       <div><span id="todaytwoyearsago"></span></div>

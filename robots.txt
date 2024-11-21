@@ -1,4 +1,6 @@
 User-agent: *
+Allow: /
+Disallow: /uploads/
+Disallow: /public/
+Disallow: /assets/
 Sitemap: https://whatthefuckjusthappenedtoday.com/sitemap.xml
-
-Disallow: */latest/

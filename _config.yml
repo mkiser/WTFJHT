@@ -236,11 +236,6 @@ plugins:
 - jekyll-archives
 - jekyll-include-cache
 - jekyll-algolia
-polls_get:
-- data: polls
-  csv: https://projects.fivethirtyeight.com/trump-approval-data/approval_topline.csv
-- data: impeachment_polls
-  csv: https://projects.fivethirtyeight.com/impeachment-polls/impeachment_topline.csv
 podcast_album_art: "/podcasts/wtfpod.jpg"
 podcast_title: WTF Just Happened Today
 podcast_owner: Matt Kiser

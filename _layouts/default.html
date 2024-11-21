@@ -47,6 +47,10 @@
     {% elsif page.layout == 'post' %}
       {% seo title=false %}
       <title>{{ page.title }}: {{ page.description }} | {{ site.title}}</title>
+      {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
+      <meta name="description" content="{{ page.todayInOneSentence | truncate: 160 }}" />
+      {% endif %}
+
     {% else %}
       {% seo %} 
     {% endif %}

@@ -23,7 +23,7 @@ todayInOneSentence: Matt Gaetz withdrew his name from consideration for attorney
 * **Who’s in Trump’s new administration so far**:
 * Marco Rubio, Secretary of State \
   Pete Hegseth, Defense \
-  {{ "Matt Gaetz" | markdownify | replace: 'Matt Gaetz', '<del>Matt Gaetz</del>' }}, Attorney General \
+  ~~Matt Gaetz, Attorney General~~ \
   Doug Burgum, Interior \
   Howard Lutnick, Commerce \
   Robert F. Kennedy Jr., Health and Human Services \

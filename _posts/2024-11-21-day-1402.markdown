@@ -21,7 +21,6 @@ todayInOneSentence: Matt Gaetz withdrew his name from consideration for attorney
 * **Federal investigation links Matt Gaetz to payments for sex, but no charges filed**. Federal investigators tracked payments made by Gaetz and associates, revealing connections to drug-fueled parties and women allegedly hired for sex, including one who was 17 at the time. While no charges were filed, a House Ethics Committee obtained documents showing Venmo and PayPal transactions between Gaetz and others, corroborating testimony from women who claimed to have been paid. Despite Gaetz's denial of wrongdoing, the case raises questions as he faces confirmation challenges as Trump’s attorney general pick.([New York Times](https://www.nytimes.com/2024/11/20/us/politics/matt-gaetz-venmo-payments-sex.html))
 
 * **Who’s in Trump’s new administration so far**:
-
 * Marco Rubio, Secretary of State \
   Pete Hegseth, Defense \
   {{ "<del>Matt Gaetz, Attorney General</del>" | markdownify }} \

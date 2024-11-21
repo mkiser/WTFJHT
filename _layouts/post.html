@@ -14,8 +14,10 @@ layout: default
   </h1>
 
   {% assign author = site.authors | where: 'title', page.author | first %}
-  {% if author %}
-    <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
+  {% if author == "Matt Kiser" %}
+    <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
+   {% elsif $}
+   <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div> 
   {% endif %}
 
   <div class="post-date">

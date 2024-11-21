@@ -36,11 +36,13 @@ seo:
       <span class="post-small">{{ page.description }}</span></a>
     </h2>
 
+
     {% assign author = site.authors | where: 'title', page.author | first %}
-    {% if author %}
+    {% if author and author.title == "Matt Kiser" %}
+      <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
+    {% elsif author %}
       <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
     {% endif %}
-
     <div class="post-date">
       <time datetime="{{ page.date | date_to_xmlschema }}">
         {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 

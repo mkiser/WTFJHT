@@ -94,7 +94,7 @@ encoding: utf-8
 markdown: CommonMark
 commonmark:
   extensions:
-    - strikethrough
+  - strikethrough
   options:
   - SMART
   - UNSAFE

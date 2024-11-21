@@ -44,7 +44,6 @@ defaults:
     flag: The Latest.
     is_promoted: false
     layout: note
-    metatags: noindex, follow
     sitemap: false
 - scope:
     path: ''
@@ -54,7 +53,6 @@ defaults:
     layout: author
     twitter: 
     email: 
-    metatags: noindex, follow
     sitemap: false
 - scope:
     path: ''
@@ -70,13 +68,11 @@ defaults:
     tags:
     - politics
     - news
-    metatags: noindex, follow
     sitemap: false
 - scope:
     path: page
   values:
     sitemap: false
-    metatags: noindex, follow
 is_away_mode: false
 permalink: pretty
 name: What The Fuck Just Happened Today?

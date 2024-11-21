@@ -93,6 +93,8 @@ twitter:
 encoding: utf-8
 markdown: CommonMark
 commonmark:
+  extensions:
+    - strikethrough
   options:
   - SMART
   - UNSAFE

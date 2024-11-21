@@ -1,4 +1,4 @@
 User-agent: *
 Sitemap: https://whatthefuckjusthappenedtoday.com/sitemap.xml
-Sitemap: https://whatthefuckjusthappenedtoday.com/news.xml
-Disallow: /author/
+
+Disallow: */latest/

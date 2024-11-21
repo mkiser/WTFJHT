@@ -13,12 +13,12 @@ layout: default
     <span class="post-small">{{ page.description }}</span></a>
   </h1>
 
-  {% assign author = site.authors | where: 'title', page.author | first %}
-  {% if author == "Matt Kiser" %}
-    <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
-   {% elsif %}
-   <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div> 
-  {% endif %}
+{% assign author = site.authors | where: 'title', page.author | first %}
+{% if author and author.title == "Matt Kiser" %}
+  <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
+{% elsif author %}
+  <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
+{% endif %}
 
   <div class="post-date">
     <time datetime="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% endif %}">

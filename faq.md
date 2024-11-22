@@ -142,8 +142,8 @@ $3,000 (freelancers) \
 $7,385 (my labor) \
 Subtotal: \$13,885
 
-+ \~$2,082 (15% risk adjustment)\
-+ \~$313 (2.26% inflation adjustment)
+\+ \~$2,082 (15% risk adjustment) \
+\+ \~$313 (2.26% inflation adjustment)
 
 <strong>Grand Total: \~$16,280</strong>.
 

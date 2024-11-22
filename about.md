@@ -7,24 +7,25 @@ image:
 layout: page
 ---
 
-<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter, blog, and community chronicling the daily shock and awe in national politics. Read in moderation.</p>
+<p class="lead">A brief history of WTF Just Happened Today?</p> 
 
-<p>I'm a journalist, product manager, and web developer, and I started this project because I was having trouble keeping up with the pace of news coming from the Trump administration. It started as an Instapaper and Evernote notebook, which quickly became unwieldy as news events started to blur. So, I started logging the news on a day-by-day basis here.</p>
+---
 
-The goal is to capture the most important news coming out of the White House in a digestible form inspired by <a href="http://www.theskimm.com/">The Skimm</a>, <a href="http://techmeme.com/">Techmeme</a>, and <a href="http://www.theverge.com/2016/12/13/13936946/twitter-tweetstorm-thread-timeline-medium">tweetstorms</a>. It's like the <a href="http://thewirecutter.com/">Wirecutter</a> for politics.
 
-What was suppose to be a personal project – a challenge to log the daily shock and awe of the administration's first 100 days – <a href="https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/">has become my full-time job.</a> See? Trump *is* creating jobs.
+**About**: Like many, I found the 2016 election cycle to be deeply confusing and frustrating. Even though I'm a news junkie, I struggled to keep up with all the articles, blogs, tweets, Facebook posts, newsletters, podcasts, and broadcast news segments – and still make sense of everything. I still don't see how any "normal" person with a job and/or family can actually make sense of the news. We have a scarcity of time available to consume news, but the media environment is optimized for an abundance of news. So in response I started WTFJHT as a personal project to log the biggest stories of the day so that I could keep track of what was going on. It was supposed to be a personal challenge to chronicle the daily shock and awe of the Trump administration's first 100 days, but it quickly <a href="https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/">became my full-time job</a>. 
 
-**Editorial Policy:**
-This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. Journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. WTF Just Happened Today is a reflection of these ethics, but also applies the following standards and practices:
+**Orientation and expectation setting**: My job is to help distill news that deserves attention into a clear, understandable, and accurate first draft of history – even if it is uncomfortable, unpopular, or upsetting. Practically speaking, WTFJHT covers the news through the lens of the executive branch specifically – and the president in particular – followed by the legislative and judicial branches in general, and in that order. Naturally people will demand more from me than this scope and framing allows for, and that’s fine. But if your politics, religion, or ideology dictate that you pick a side and expect me to cater to it, then you might be disappointed. Our humanity requires us to rise above picking sides. We are capable of more than rooting for human suffering. We’re talking about people, not politics.
 
-* WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary source, and moving on. Bias is the byproduct of being a human making decisions. Sorry.
+**Editorial Policy**:
+This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. There's a natural tension here: First, humans making decisions about the relative importance of information is inherently biased. And second, journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. My goal with WTF Just Happened Today? is to acknowledge my personal bias, reflect journalistic standards, and apply the following standards and practices:
 
-* WTFJHT **does not offer commentary, opinion, or analysis**. This isn't a platform for pundits. That's what the primary sources linked to are for.
+* WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary source, and moving on. Bias is the byproduct of being a human making decisions. 
+
+* WTFJHT **does not offer commentary, opinion, or analysis**. Adjectives and adverbs are generally stripped out of the writing so facts are framed as fact. It's unncessary to add a "just" in front of _38% of Americans approve of the job the president is doing_. Any reasonable person can understand that that's probably not a good job approval rating, right?
 
 * WTFJHT's value is derived from its reputation and promise to the readers. The voice, tone, and being non-partisan all represent the brand. If I break this promise, I break the trust of the reader.
 
-With WTFJHT, you will find an independent voice with personal accountability, and a consideration for how the editorial choices I make impact others. I go through considerable effort to cite the original source of the news. I also try to make sure each recap is rich with a diversity of sources.
+With WTFJHT, you will find an independent voice that is personally accountable and considerate for how the editorial choices impact others. I go to great lengths to cite the original source of news and draw from a diversity of sources.
 
 **Core Values:**
 
@@ -35,8 +36,6 @@ With WTFJHT, you will find an independent voice with personal accountability, an
 * **Clear expectations**. The premise of WTFJHT is simple: answer what happened, what the facts are, and cite the source.
 
 * **Consistency**. Every day that I meet the expectations I set, I earn trust with the audience. For every day that I fail to meet the expectations I set for myself, I lose trust. It's that simple.
-
-* **Making something people want**. Yes.
 
 * **Create more value than I capture**. I'm not here to get rich. I'm here to provide valuable news you can use. That's why there are...
 
@@ -54,7 +53,6 @@ This project is open sourced and hosted as a [public GitHub repository](https://
 
 * <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
 
-Built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [Travis CI](https://travis-ci.org/mkiser/WTFJHT), [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>.
 
 <p class="lead">-<a href="https://twitter.com/matt_kiser/">Matt Kiser</a><br>
 <small>

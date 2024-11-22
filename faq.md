@@ -11,34 +11,15 @@ layout: page
 
 ---
 
-_**Orientation and expectation setting**: First, my job is to help distill news that deserves attention into a clear, understandable, and accurate first draft of history – even if it is uncomfortable, unpopular, or upsetting. Practically speaking, WTFJHT covers the news through the lens of the executive branch specifically – and the president in particular – followed by the legislative and judicial branches in general, and in that order. Naturally people will demand more from me than this scope and framing allows for, and that’s fine. But if your politics, religion, or ideology dictate that you pick a side and expect me to cater to it, then you might be disappointed. Our humanity requires us to rise above picking sides. We are capable of more than rooting for human suffering. We’re talking about people, not politics._
+**Is this free?** Yes, WTFJHT is free, but 100% sustained entirely through voluntary reader contributions. And, I plan to keep doing this for as long as you keep supporting me (as defined by earning a fair living wage). This is my full-time job. So, if you find my work valuable and find yourself relying on it, [invest in the continued production of WTFJHT by becoming a supporting member](https://whatthefuckjusthappenedtoday.com/membership/).
 
-*Second, **WTFJHT currently publishes Monday-Thursday**, but in the new year we’re (finally) introducing the "Well That’s Fantastic" Friday edition – a selection of notable news items that will restore your faith in humanity, with a focus on productive or constructive advancements related to politics, health, science, climate, technology, etc.* 
-
-*Third, **this is my full-time job**. The newsletter has always been free. It’s sustained entirely through voluntary reader contributions. And, I plan to keep doing this for as long as you keep supporting me (as defined by earning a fair living wage). So, if you find my work valuable and find yourself relying on it, [invest in the continued production of WTFJHT by becoming a supporting member](https://whatthefuckjusthappenedtoday.com/membership/).*
-
-*And fourth, **if you like WTFJHT, please share this newsletter with friends, family, and colleagues, and encourage them to subscribe**. It’s a free gesture, but one that strengthens our collective voice and contributes to a well-informed community.*
-
-*Lastly, **I’m always trying to get better** and would love your feedback on how WTF Just Happened Today? could serve you better. Just reply to this newsletter any time with your thoughts, suggestions, or complaints.*
-
-
-**Is this free?** Yes, WTFJHT is free, but 100% supported your optional contributions. If you find this resource to be a valuable part of your news diet, then [consider supporting my work](https://whatthefuckjusthappenedtoday.com/membership/). 
-
-**Why are you doing this?** Like many, I found the 2016 election cycle to be deeply confusing and frustrating. I'm a news junkie, but struggled to keep up with all the articles, blogs, tweets, Facebook posts, newsletters, podcasts, and broadcast news segments – and still make sense of everything. I don't see how any "normal" person with a job and/or family could actually make sense of things. They have a scarcity of time available to consume news, but the media environment is optimized for an abundance of news. I started WTFJHT as a personal project to log the biggest stories of the day so that I could keep track of what was going on. It was originally supposed to be more of a save-for-later checklist of articles to read when I got home from work, but quickly morphed into the current, daily compendium. 
+**What is your publishing schedule?** WTFJHT currently publishes Monday-Thursday, but in 2025 we’re (finally) introducing the "Well That’s Fantastic" Friday edition – a selection of notable news items that will restore your faith in humanity, with a focus on productive or constructive advancements related to politics, health, science, climate, technology, etc.
 
 **How do you decide what's in the daily update?** I try to approach the daily update like a front page editor at a newspaper would: focus on timeliness, impact, prominence, importance, conflict, and unexpectedness. This is further refined by framing WTFJHT's scope of coverage to the curiouser and curiouser news from in and around the Trump and Biden administrations in particular – not politics in general. Together, WTFJHT serves as a single, daily summary of the most important events regarding the Trump and Biden administrations.
 
 **Where do you get your information?** I read broadly, visiting the homepages of (in no particular order) the New York Times, Washington Post, Politico, NPR, CNN, NBC News, CNBC, ABC News, CBS News, Wall Street Journal, Bloomberg, Axios, Daily Beast, Reuters, Associated Press, the Atlantic, the Guardian, and a lot more. I use several tools to surface links frequently shared across the social web. And, finally, I built [Current Status](https://currentstatus.io/) to aggregate recent, highly-cited stories, with an emphasis on original reqporting, depth, and accuracy. Together I try to triangulate on the most important stories of the day. 
 
-**Hey, you're biased!** Humans making decisions about the relative importance of information is inherently biased. WTFJHT is the news through the lens of a person making those decisions. With every summary I write and article I cite, I'm make a news-value judgement. Journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. WTF Just Happened Today is a reflection of these ethics, but with the following standards and practices applied:
-
-* WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary and secondary sources, and moving on.
-
-* WTFJHT **does not offer commentary, opinion, or analysis**. Adjectives and adverbs are generally stripped out of the writing so facts are framed as fact. It's unncessary to add a "just" in front of _38% of Americans approve of the job the president is doing_. Any reasonable person can understand that that's probably not a good job approval rating, right?
-
-With WTFJHT, you will find an independent voice that is personally accountable and considerate for how the editorial choices impact others. I go to great lengths to cite the original source of news and draw from a diversity of sources.
-
-**Why do you include polls? Don't you know that polls are biased/inaccurate/not to be trusted/unreliable/fake???** Polls are not a crystal ball; they’re just probabilities that provide directional evidence about the opinions, preferences, and attitudes of a representative group of people at a given point in time. That makes polling nothing more than a point-in-time temperature check on reality. It’s no different than the local weather report. Sometimes it’s accurate, sometimes it’s less so, but it’s still useful information you didn’t have before so long as you don’t put too much stock in it. e.g. Except clear skies with highs in the low-70s. Wind will be light and variable out of the North-Northeast at 5 mph. If nothing else, polls are useful as a sort of gut check on your worldview.
+**Why do you include polls? Don't you know that polls are biased/inaccurate/not to be trusted/unreliable/fake???** Polls are not a crystal ball; they’re just probabilities that provide directional evidence about the opinions, preferences, and attitudes of a representative group of people at a given point in time. That makes polling nothing more than a point-in-time temperature check on reality. It’s no different than the local weather report. Sometimes it’s accurate, sometimes it’s less so, but it’s still useful information you didn’t have before so long as you don’t put too much stock in it. e.g. Except clear skies with highs in the low-70s. Wind will be light and variable out of the North-Northeast at 5 mph. If nothing else, polls are useful as a sort of gut check on your worldview.
 
 **When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?** I try to cite the primary source of news whenever possible. This is often the large media organizations that are staffed to break news, like the New York Times, Washington Post, CNN, NBC News, Wall Street Journal, Bloomberg, the Guardian, etc. After citing primary sources, I like to cite secondary sources that are either A) confirming the news or B) adding additional reporting. I try to "rank" the order of sources in parentheses based on how much impact they had on my written abstract summary (i.e. source that broke news, added additional reporting, or confirmed it).
 
@@ -51,8 +32,6 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 **I don't have any money. How can I help?** Non-financial forms of membership are just as important and impactful as financial forms of membership. The best way to contribute to the success is to share it with your friends and family. It's free and has a big impact. <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F" target="_blank">Tweet about it</a> or <a href="https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com" target="_blank">share it on Facebook</a>. The next best way to contribute is to [participate in the WTF community forum](https://talk.whatthefuckjusthappenedtoday.com/), submitting links to news and collaborating with other members to make sense of the news. And, finally, you can submit copyedits and fact checks using the "Improve this article" link on every blog post. 
 
 **I don't like the word "fuck."** If you're offended by the word "fuck" on the internet in today's political climate, then I don't know what to tell ya. 
-
-**What are your core values?** WTFJHT values **transparency**, which is why it's open sourced and hosted as a public repository on GitHub. Anybody can view the change log at anytime for any post. They can make pull requests to fix grammar, typos, facts, sources, etc., as well as contribute code. WTFJHT believes **choice** is deeply important, so I cite every reference by the name of the original source and link to it clearly so you know exactly where something came from and where you're going. Where appropriate, I'll include additional sources. WTFJHT sets **clear expectations** by answering what happened, what the facts are, cite the sources, and moving on. WTFJHT values **consistency** in order to earn trust with readers and deliver exactly what's been promised. Nobody is getting rich running WTFJHT, but the goal is to **create more value than you capture** so that there are **no strings attached**. There's no business model trickery here. No ads. No content gates. No selling of data. WTFJHT is a website, a newsletter, and a podcast that's supported by its members. That's it. Why the fuck would I want to sell out my audience anyway?
 
 **Is there an RSS feed?** Yep, here are links to <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>, <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>, a <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>, and the <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>.
 
@@ -69,21 +48,21 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 * **2024**
 * New Year's Day – January 1
 * Martin Luther King, Jr. Day – January 15
-* WTF Just Happened Today?'s Birthday – January 20
+* WTF Just Happened Today?'s Birthday – January 20
 * President's Day – February 19
-* Good Friday – March 29
+* Good Friday – March 29
 * Earth Day - April 22
-* International Workers' Day – May 1
+* International Workers' Day – May 1
 * Memorial Day – May 27
-* Flag Day / Trump's Birthday – June 14
-* Juneteenth – June 19
+* Flag Day / Trump's Birthday – June 14
+* Juneteenth - June 19
 * Independence Day – July 4 
-* Labor Day – September 2
-* Indigenous Peoples' Day – October 14
+* Labor Day – September 2
+* Indigenous Peoples' Day – October 14
 * Veterans Day – November 11
-* Biden's Birthday – November 20
-* Thanksgiving Eve – November 27
-* Thanksgiving Day – November 28
+* Biden's Birthday – November 20
+* Thanksgiving Eve – November 27
+* Thanksgiving Day – November 28
 * Christmas Eve – December 24 
 * Christmas Day – December 25 
 * New Year's Eve – December 31

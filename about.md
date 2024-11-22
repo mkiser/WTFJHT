@@ -45,13 +45,10 @@ This project is open sourced and hosted as a [public GitHub repository](https://
 
 **FEEDS:**
 
-* <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>
-
-* <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>
-
-* <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>
-
-* <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
+* <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a> \
+<a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a> \
+<a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a> \
+<a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
 
 
 <p class="lead">-<a href="https://twitter.com/matt_kiser/">Matt Kiser</a><br>

@@ -46,27 +46,27 @@ layout: page
 **What's your publishing schedule?** WTF Just Happened Today publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including Trump's and Biden's birthdays. Below is the 2024 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
 * **2024**
-* New Year's Day – January 1
-* Martin Luther King, Jr. Day – January 15
-* WTF Just Happened Today?'s Birthday – January 20
-* President's Day – February 19
-* Good Friday – March 29
-* Earth Day - April 22
-* International Workers' Day – May 1
-* Memorial Day – May 27
-* Flag Day / Trump's Birthday – June 14
-* Juneteenth - June 19
-* Independence Day – July 4 
-* Labor Day – September 2
-* Indigenous Peoples' Day – October 14
-* Veterans Day – November 11
-* Biden's Birthday – November 20
-* Thanksgiving Eve – November 27
-* Thanksgiving Day – November 28
-* Christmas Eve – December 24 
-* Christmas Day – December 25 
-* New Year's Eve – December 31
-* New Year's Day 2025 – January 1 
+* New Year's Day – January 1 \
+Martin Luther King, Jr. Day – January 15 \
+WTF Just Happened Today?'s Birthday – January 20 \
+President's Day – February 19 \
+Good Friday – March 29 \
+Earth Day - April 22
+International Workers' Day – May 1 \
+Memorial Day – May 27 \
+Flag Day / Trump's Birthday – June 14 \
+Juneteenth - June 19 \
+Independence Day – July 4 \
+Labor Day – September 2 \
+Indigenous Peoples' Day – October 14 \
+Veterans Day – November 11 \
+Biden's Birthday – November 20 \
+Thanksgiving Eve – November 27 \
+Thanksgiving Day – November 28 \
+Christmas Eve – December 24 \
+Christmas Day – December 25 \
+New Year's Eve – December 31 \
+New Year's Day 2025 – January 1 
 
 ---
 
@@ -137,14 +137,13 @@ To ensure that my compensation isn't eroded by inflation, I've included an infla
 
 **TOTAL MONTHLY COST:**
 
-\~$3,500 (hosting, email, tools, etc.)   
-\$3,000 (freelancers)  
-\$7,385 (my labor)  
+~$3,500 (hosting, email, tools, etc.) \
+$3,000 (freelancers) \
+$7,385 (my labor) \
 Subtotal: \$13,885
 
-\+ \~$2,082 (15% risk adjustment)
-
-\+ \~$313 (2.26% inflation adjustment)
++ \~$2,082 (15% risk adjustment)\
++ \~$313 (2.26% inflation adjustment)
 
 <strong>Grand Total: \~$16,280</strong>.
 

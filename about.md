@@ -19,27 +19,27 @@ layout: page
 **Editorial Policy**:
 This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. There's a natural tension here: First, humans making decisions about the relative importance of information is inherently biased. And second, journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. My goal with WTF Just Happened Today? is to acknowledge my personal bias, reflect journalistic standards, and apply the following standards and practices:
 
-* WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary source, and moving on. Bias is the byproduct of being a human making decisions. 
+1. WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary source, and moving on. Bias is the byproduct of being a human making decisions. 
 
-* WTFJHT **does not offer commentary, opinion, or analysis**. Adjectives and adverbs are generally stripped out of the writing so facts are framed as fact. It's unncessary to add a "just" in front of _38% of Americans approve of the job the president is doing_. Any reasonable person can understand that that's probably not a good job approval rating, right?
+2. WTFJHT **does not offer commentary, opinion, or analysis**. Adjectives and adverbs are generally stripped out of the writing so facts are framed as fact. It's unncessary to add a "just" in front of _38% of Americans approve of the job the president is doing_. Any reasonable person can understand that that's probably not a good job approval rating, right?
 
-* WTFJHT's value is derived from its reputation and promise to the readers. The voice, tone, and being non-partisan all represent the brand. If I break this promise, I break the trust of the reader.
+3. WTFJHT's value is derived from its reputation and promise to the readers. The voice, tone, and being non-partisan all represent the brand. If I break this promise, I break the trust of the reader.
 
 With WTFJHT, you will find an independent voice that is personally accountable and considerate for how the editorial choices impact others. I go to great lengths to cite the original source of news and draw from a diversity of sources.
 
 **Core Values:**
 
-* **Transparency**. WTFJHT is open sourced and hosted as a public repository on GitHub. Anybody can view the change log at anytime for any post. They can make pull requests to fix grammar, typos, facts, sources, etc., as well as contribute code.
+1. **Transparency**. WTFJHT is open sourced and hosted as a public repository on GitHub. Anybody can view the change log at anytime for any post. They can make pull requests to fix grammar, typos, facts, sources, etc., as well as contribute code.
 
-* **Choice**. I cite every reference by the name of the original source and link to it clearly. Where appropriate, I'll include additional sources to the same or similar news.
+2. **Choice**. I cite every reference by the name of the original source and link to it clearly. Where appropriate, I'll include additional sources to the same or similar news.
 
-* **Clear expectations**. The premise of WTFJHT is simple: answer what happened, what the facts are, and cite the source.
+3. **Clear expectations**. The premise of WTFJHT is simple: answer what happened, what the facts are, and cite the source.
 
-* **Consistency**. Every day that I meet the expectations I set, I earn trust with the audience. For every day that I fail to meet the expectations I set for myself, I lose trust. It's that simple.
+4. **Consistency**. Every day that I meet the expectations I set, I earn trust with the audience. For every day that I fail to meet the expectations I set for myself, I lose trust. It's that simple.
 
-* **Create more value than I capture**. I'm not here to get rich. I'm here to provide valuable news you can use. That's why there are...
+5. **Create more value than I capture**. I'm not here to get rich. I'm here to provide valuable news you can use. That's why there are...
 
-* **No strings attached**. There's no business model trickery here. No ads. No content gates. No selling of data. I have a website and a newsletter, and I never stray from any of the above. Why the fuck would I want to sell out my audience anyway?
+6. **No strings attached**. There's no business model trickery here. No ads. No content gates. No selling of data. I have a website and a newsletter, and I never stray from any of the above. Why the fuck would I want to sell out my audience anyway?
 
 This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 

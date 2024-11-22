@@ -37,17 +37,17 @@ This project is open sourced and hosted as a [public GitHub repository](https://
 
 **FEEDS:**
 
-* <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a> \
-<a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a> \
-<a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a> \
-<a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
+* <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>
+* <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>
+* <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>
+* <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
 
 
-<p class="lead">-<a href="https://twitter.com/matt_kiser/">Matt Kiser</a><br>
-<small>
-<a href="mailto:matt@whatthefuckjusthappenedtoday.com?Subject=Hello%20there" target="_top">matt@whatthefuckjusthappenedtoday.com</a><br>
-WTF Just Happened Today?<br>
-505 Broadway E #211 <br>
-Seattle, WA 98102 USA
-</small>
+<p class="lead">-<a href="https://twitter.com/matt_kiser/">Matt Kiser</a></p>
+
+<p>
+    <a href="mailto:matt@whatthefuckjusthappenedtoday.com?Subject=Hello%20there" target="_top">matt@whatthefuckjusthappenedtoday.com</a><br>
+    WTF Just Happened Today?<br>
+    505 Broadway E #211 <br>
+    Seattle, WA 98102 USA
 </p>

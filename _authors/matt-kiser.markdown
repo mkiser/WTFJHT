@@ -7,7 +7,6 @@ tagline: Matt Kiser is the creator, founder and publisher of What The Fuck Just 
   Today? – today's essential guide to the daily shock and awe in national politics.
 seo:
   name: Matt Kiser
-  type: author
   links:
   - https://www.linkedin.com/in/mattkiser/
   - https://twitter.com/matt_Kiser/

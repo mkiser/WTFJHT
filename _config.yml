@@ -64,7 +64,18 @@ defaults:
     permalink: "/author/:title/"
     layout: author
     twitter: 
-    email: 
+    email:
+    seo:
+      type: Person
+      links:
+      - https://whatthefuckjusthappenedtoday.com/
+      - https://twitter.com/WTFJHT
+      - https://www.instagram.com/wtfjht/
+      - https://bsky.app/profile/wtfjht.bsky.social
+      - https://www.threads.net/@wtfjht
+      - https://mastodon.social/@wtfjht
+      - https://www.facebook.com/wtfjht
+      - https://github.com/mkiser/WTFJHT 
 - scope:
     path: ''
     type: podcasts

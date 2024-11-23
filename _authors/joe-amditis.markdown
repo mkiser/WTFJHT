@@ -7,7 +7,7 @@ tagline: Joe Amditis is the associate director of the Center for Cooperative Med
   at Montclair State University.
 seo:
   name: Joe Amditis
-  type: Person
+  type: author
   links: 
 ---
 

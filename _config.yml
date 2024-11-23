@@ -33,6 +33,18 @@ defaults:
     layout: post
     seo:
       type: NewsArticle
+      name: What The Fuck Just Happened Today?
+      description: A sane, once-a-day update on today’s essential political news. Chronicling the daily shock and awe since 2017.
+      type: NewsArticle
+      links:
+      - https://whatthefuckjusthappenedtoday.com/
+      - https://twitter.com/WTFJHT
+      - https://www.instagram.com/wtfjht/
+      - https://bsky.app/profile/wtfjht.bsky.social
+      - https://www.threads.net/@wtfjht
+      - https://mastodon.social/@wtfjht
+      - https://www.facebook.com/wtfjht
+      - https://github.com/mkiser/WTFJHT
 - scope:
     path: ''
     type: notes

@@ -34,8 +34,8 @@ defaults:
     seo:
       type: NewsArticle
       name: What The Fuck Just Happened Today?
-      description: A sane, once-a-day update on today’s essential political news. Chronicling the daily shock and awe since 2017.
-      type: NewsArticle
+      description: A sane, once-a-day update on today’s essential political news.
+        Chronicling the daily shock and awe since 2017.
       links:
       - https://whatthefuckjusthappenedtoday.com/
       - https://twitter.com/WTFJHT

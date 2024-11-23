@@ -75,8 +75,10 @@ defaults:
 is_away_mode: false
 permalink: pretty
 name: What The Fuck Just Happened Today?
-tagline: A sane, once-a-day update on today’s essential political news. Chronicling the daily shock and awe since 2017. 
-description: A sane, once-a-day update on today’s essential political news. Chronicling the daily shock and awe since 2017.
+tagline: A sane, once-a-day update on today’s essential political news. Chronicling
+  the daily shock and awe since 2017.
+description: A sane, once-a-day update on today’s essential political news. Chronicling
+  the daily shock and awe since 2017.
 url: https://whatthefuckjusthappenedtoday.com
 baseurl: 
 source: "."

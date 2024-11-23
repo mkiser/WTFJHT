@@ -107,12 +107,31 @@ social:
   - https://www.facebook.com/mattkiser
   - https://www.linkedin.com/in/mattkiser
   - https://github.com/mkiser
+  - https://whatthefuckjusthappenedtoday.com/
+  - https://twitter.com/WTFJHT
+  - https://www.instagram.com/wtfjht/
+  - https://bsky.app/profile/wtfjht.bsky.social
+  - https://www.threads.net/@wtfjht
+  - https://mastodon.social/@wtfjht
+  - https://www.facebook.com/wtfjht
 logo: "/public/wtfjht-f.jpg"
 author:
   twitter: matt_kiser
   name: Matt Kiser
   url: https://whatthefuckjusthappenedtoday.com
   email: matt@whatthefuckjusthappenedtoday.com
+  links:
+  - https://twitter.com/matt_kiser
+  - https://www.facebook.com/mattkiser
+  - https://www.linkedin.com/in/mattkiser
+  - https://github.com/mkiser
+  - https://whatthefuckjusthappenedtoday.com/
+  - https://twitter.com/WTFJHT
+  - https://www.instagram.com/wtfjht/
+  - https://bsky.app/profile/wtfjht.bsky.social
+  - https://www.threads.net/@wtfjht
+  - https://mastodon.social/@wtfjht
+  - https://www.facebook.com/wtfjht
 facebook:
   app_id: 601457263382211
   publisher: 1415262761838827
@@ -241,8 +260,10 @@ podcast_category: News
 podcast_subcategory: Politics
 podcast_explicit: Clean
 podcast_author: Matt Kiser
-podcast_description: Your essential guide to the daily shock and awe in national politics.
-podcast_summary: Your essential guide to the daily shock and awe in national politics.
+podcast_description: A sane, once-a-day update on today’s essential political news. Chronicling
+  the daily shock and awe since 2017.
+podcast_summary: A sane, once-a-day update on today’s essential political news. Chronicling
+  the daily shock and awe since 2017.
 podcast_subtitle: 
 podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
   License.

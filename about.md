@@ -1,5 +1,5 @@
 ---
-title: What The Fuck Is This All About?
+title: WTF Is This All About?
 date: 2017-01-20 09:47:00 -08:00
 image:
   twitter: "/public/wtfjht-t.jpg"

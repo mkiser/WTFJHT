@@ -1,5 +1,5 @@
 ---
-title: What The Fucking Mediarati Are Saying
+title: WTF The Media Is Saying
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"

@@ -64,7 +64,7 @@ defaults:
     permalink: "/author/:title/"
     layout: author
     twitter: 
-    email:
+    email: 
     seo:
       type: Person
       links:
@@ -75,7 +75,7 @@ defaults:
       - https://www.threads.net/@wtfjht
       - https://mastodon.social/@wtfjht
       - https://www.facebook.com/wtfjht
-      - https://github.com/mkiser/WTFJHT 
+      - https://github.com/mkiser/WTFJHT
 - scope:
     path: ''
     type: podcasts

@@ -34,8 +34,7 @@ defaults:
     seo:
       type: NewsArticle
       name: What The Fuck Just Happened Today?
-      description: A sane, once-a-day update on today’s essential political news.
-        Chronicling the daily shock and awe since 2017.
+      description: Your essential guide to the shock and awe in national politics. A sane, once-a-day newsletter breaking down WTF just happened. Helping normal people make sense of the news since 2017.
       links:
       - https://whatthefuckjusthappenedtoday.com/
       - https://twitter.com/WTFJHT
@@ -98,10 +97,8 @@ defaults:
 is_away_mode: false
 permalink: pretty
 name: What The Fuck Just Happened Today?
-tagline: A sane, once-a-day update on today’s essential political news. Chronicling
-  the daily shock and awe since 2017.
-description: A sane, once-a-day update on today’s essential political news. Chronicling
-  the daily shock and awe since 2017.
+tagline: Your essential guide to the shock and awe in national politics. A sane, once-a-day newsletter breaking down WTF just happened. Helping normal people make sense of the news since 2017.
+description: Your essential guide to the shock and awe in national politics. A sane, once-a-day newsletter breaking down WTF just happened. Helping normal people make sense of the news since 2017.
 url: https://whatthefuckjusthappenedtoday.com
 baseurl: 
 source: "."

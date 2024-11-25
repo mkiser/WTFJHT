@@ -16,7 +16,7 @@ collections:
     output: true
   topics:
     title: Topics
-    output: false
+    output: true
   uploads:
     title: Uploads
     output: false

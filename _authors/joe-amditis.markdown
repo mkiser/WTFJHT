@@ -3,6 +3,7 @@ title: Joe Amditis
 twitter: jsamditis
 email: joe@whatthefuckjusthappenedtoday.com
 image: "/public/author-imgs/joe.jpg"
+sitemap: false
 tagline: Joe Amditis is the associate director of the Center for Cooperative Media
   at Montclair State University.
 seo:

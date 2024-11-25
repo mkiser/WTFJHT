@@ -3,4 +3,8 @@ Allow: /
 Disallow: /uploads/
 Disallow: /public/
 Disallow: /assets/
+Disallow: /license$
+Disallow: /team$
+Disallow: /quiz$
+Disallow: /meta/
 Sitemap: https://whatthefuckjusthappenedtoday.com/sitemap.xml

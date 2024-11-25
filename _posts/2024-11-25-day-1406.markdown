@@ -22,47 +22,62 @@ todayInOneSentence: 'Special counsel Jack Smith dropped all federal charges agai
 
 1/ **Special counsel Jack Smith dropped all federal charges against Trump**, citing the Justice Department’s longstanding policy against prosecuting a sitting president. "That prohibition is categorical and does not turn on the gravity of the crimes charged, the strength of the Government’s proof, or the merits of the prosecution, which the Government stands fully behind," Smith wrote in his six-page motion seeking to dismiss the case without prejudice. "The Government’s position on the merits of the defendant’s prosecution has not changed. But the circumstances have." In both cases, Smith requested that the dismissals be “without prejudice,” meaning prosecutors could decide to charge Trump again after he leaves office in January 2029. [Trump was first indicted in June 2023](https://whatthefuckjusthappenedtoday.com/2023/06/09/day-871/#1-the-justice-department-charged-tru) on 37 felony counts of unlawfully retaining classified documents after leaving office, making false statements, and conspiracy to obstruct justice. Trump was separately [indicted on four felonies in August 2023](https://whatthefuckjusthappenedtoday.com/2023/08/01/day-924/#1-trump-was-indicted-by-special-coun) for his attempt to overturn his 2020 election loss, conspiracy to defraud the U.S., conspiracy to obstruct an official proceeding, obstruction of and attempting to obstruct an official proceeding, and conspiracy against rights. Smith asked that the classified documents case against Trump's two co-defendants, Walt Nauta and Carlos De Olivera, be allowed to continue. Earlier this year, the judge ruled that Smith’s appointment was unconstitutional and dismissed the indictment. Smith’s office is appealing that decision. ([Washington Post](https://www.washingtonpost.com/national-security/2024/11/25/trump-cases-motion-to-dismiss-jack-smith/) / [NBC News](https://www.nbcnews.com/politics/justice-department/jack-smith-files-drop-jan-6-charges-donald-trump-rcna181667) / [New York Times](https://www.nytimes.com/live/2024/11/25/us/trump-news) / [Axios](https://www.axios.com/2024/11/25/jack-smith-trump-dc-case-dismissed) / [CBS News](https://www.cbsnews.com/news/jack-smith-dismiss-charges-trump-d-c-election-case/) / [ABC News](https://abcnews.go.com/US/special-counsel-jack-smith-moves-dismiss-election-interference/story?id=116207758) / [CNN](https://www.cnn.com/2024/11/25/politics/trump-special-counsel-jack-smith/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-11-25/doj-formally-moves-to-drop-trump-2020-obstruction-case-in-dc) / [Wall Street Journal](https://www.wsj.com/us-news/law/special-counsel-moves-to-dismiss-election-interference-charges-against-trump-625b315c) / [Associated Press](https://apnews.com/article/trump-capitol-riot-justice-department-jack-smith-d6172cf98d8e03e099571c908267456c) / [Politico](https://www.politico.com/news/2024/11/25/jack-smith-drops-case-trump-election-00191514))
 
-* **Trump’s hush money sentencing postponed indefinitely as judge weighs case dismissal bid**. Judge Juan Merchan indefinitely delayed Trump’s sentencing in the Manhattan hush money case to consider arguments for dismissing the case entirely, citing Trump’s status as president-elect. Trump’s legal team argues that sentencing or the case itself would create unconstitutional obstacles to his governance. Manhattan District Attorney Alvin Bragg opposes dismissing the case but has not objected to delaying sentencing, which might be postponed until after Trump’s presidency. [Trump was convicted](https://whatthefuckjusthappenedtoday.com/2024/05/30/day-1227/#1-trump-a-former-u-s-president-and-t) in May of falsifying business records related to a hush money payment to Stormy Daniels. ([Politico](https://www.politico.com/news/2024/11/22/donald-trump-hush-money-sentencing-00191253))
+* ### WTF Questions and Answers:
+
+* **How does the Justice Department's policy affect legal cases against sitting presidents?** The Justice Department's policy bars prosecuting sitting presidents to avoid interference with their ability to govern. It ensures that legal matters do not obstruct constitutional responsibilities but can delay accountability until after a president’s term. This approach is intended to maintain institutional stability but raises concerns about fairness and the rule of law.
+
+* **What are the charges Trump faced before the dismissal?** Trump faced 37 felony charges for retaining classified documents, making false statements, and obstructing justice. He also faced four felonies related to attempts to overturn the 2020 election, including conspiracy to defraud the U.S. and obstruct an official proceeding. These charges reflected significant legal and ethical violations.
+
+* **Why were Trump’s charges dismissed "without prejudice"?** Dismissal "without prejudice" allows prosecutors to refile charges later, ensuring that accountability can still occur. The decision aligns with Justice Department policy protecting sitting presidents from prosecution. It reflects a balance between deferring action and preserving the right to pursue justice in the future.
+
+* **What happens to Trump’s co-defendants in the classified documents case?** Walt Nauta and Carlos De Olivera, co-defendants in the classified documents case, will continue to face legal proceedings. Their cases were not dismissed, reflecting that prosecutorial focus on alleged criminal conduct surrounding Trump remains active for those not shielded by presidential immunity.
+
+* **Why was Jack Smith’s appointment ruled unconstitutional?** A judge ruled Smith's appointment unconstitutional due to procedural concerns, potentially undermining his authority to bring charges. Smith's office is appealing this decision, as it could impact the broader legitimacy of prosecutions tied to his special counsel role. This issue highlights the legal complexities of special counsel appointments.
+
+* **What are the broader implications of presidential immunity for future leaders?** Expanding presidential immunity could encourage future leaders to act without fear of legal consequences, potentially leading to abuses of power. This development raises concerns about the erosion of democratic checks and balances, affecting the ability of institutions to hold leaders accountable.
+
+* **Trump’s hush money sentencing was postponed indefinitely as the judge weighs case dismissal bid**. Judge Juan Merchan indefinitely delayed Trump’s sentencing in the Manhattan hush money case to consider arguments for dismissing the case entirely, citing Trump’s status as president-elect. Trump’s legal team argues that sentencing or the case itself would create unconstitutional obstacles to his governance. Manhattan District Attorney Alvin Bragg opposes dismissing the case but has not objected to delaying sentencing, which might be postponed until after Trump’s presidency. [Trump was convicted](https://whatthefuckjusthappenedtoday.com/2024/05/30/day-1227/#1-trump-a-former-u-s-president-and-t) in May of falsifying business records related to a hush money payment to Stormy Daniels. ([Politico](https://www.politico.com/news/2024/11/22/donald-trump-hush-money-sentencing-00191253))
 
 2/ **Trump named Pam Bondi as his new choice for attorney general** after Matt Gaetz withdrew his name from consideration for [attorney general](https://whatthefuckjusthappenedtoday.com/2024/11/21/day-1402/#1-matt-gaetz-withdrew-his-name-from) following scrutiny over allegations of sex trafficking an underage girl and drug use that threatened his confirmation. Bondi has strongly criticized investigations and prosecutions involving Trump, including the 2016 Russia interference probe and his 2019 impeachment, labeling them illegitimate. Following Trump’s four criminal indictments, Bondi argued on Fox News that “the prosecutors will be prosecuted, the bad ones. The investigators will be investigated.” Her remarks align with a broader narrative among Trump allies that frames these legal challenges as politically motivated. ([Washington Post](https://www.washingtonpost.com/national-security/2024/11/23/pam-bondi-doj-attorney-general-trump-pick/) / [Axios](https://www.axios.com/2024/11/21/trump-attorney-general-gaetz-saga) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-announces-pam-bondi-attorney-general-pick-gaetz-withdraws-rcna181279))
 
 * **🧩 What's at stake?** At stake is the independence of the U.S. Justice Department, a cornerstone of democracy. If it becomes a political weapon, citizens risk losing protections against abuses of power, and accountability mechanisms for leaders could dissolve. Bondi’s confirmation would set a precedent for loyalty-based governance, paving the way for autocratic tendencies that challenge America’s democratic ideals and weaken institutional checks on executive power.
 
-* **Who’s in Trump’s new administration so far**: 
+* **Who’s in Trump’s new administration so far**:
+
 * Marco Rubio, Secretary of State \
-Scott Bessent, Treasury \
-Pete Hegseth, Defense \
-Pam Bondi, Attorney General \
-Doug Burgum, Interior \
-Brooke Rollings, Agriculture \
-Howard Lutnick, Commerce \
-Lori Chavez DeRemer, Labor \
-Robert F. Kennedy Jr., Health and Human Services \
-Scott Turner, Housing and Urban Development \
-Sean Duffy, Transportation \
-Chris Wright, Energy \
-Linda McMahon, Education \
-Dough Collins, Veterans Affairs \
-Kristi Noem, Homeland Security \
-Mike Waltz, National Security \
-Lee Zeldin, EPA \
-Elise Stefanik, UN Ambassador \
-Susie Wiles, Chief of Staff \
-Elon Musk, Department of Government Efficiency \
-Vivek Ramaswamy, Department of Government Efficiency \
-Russell Vought, Office of Management and Budget \
-Tulsi Gabbard, National Intelligence \
-John Ratcliffe, CIA director \
-Matt Whitaker, Ambassador to NATO \
-Mike Huckabee, Ambassador to Israel \
-Steve Witkoff, Special Envoy to the Middle East \
-Dr. Janette Nesheiwat, Surgeon General \
-Dr. Mehmet Oz, Centers for Medicare and Medicaid Services \
-Dr. Dave Weldon, CDC \
-Bill McGinley, White House Counsel \
-Tom Homan, Border Czar \
-Dan Scavino, Deputy Chief of Staff \
-Stephen Miller, Deputy Chief of Staff for Policy 
+  Scott Bessent, Treasury \
+  Pete Hegseth, Defense \
+  Pam Bondi, Attorney General \
+  Doug Burgum, Interior \
+  Brooke Rollings, Agriculture \
+  Howard Lutnick, Commerce \
+  Lori Chavez DeRemer, Labor \
+  Robert F. Kennedy Jr., Health and Human Services \
+  Scott Turner, Housing and Urban Development \
+  Sean Duffy, Transportation \
+  Chris Wright, Energy \
+  Linda McMahon, Education \
+  Dough Collins, Veterans Affairs \
+  Kristi Noem, Homeland Security \
+  Mike Waltz, National Security \
+  Lee Zeldin, EPA \
+  Elise Stefanik, UN Ambassador \
+  Susie Wiles, Chief of Staff \
+  Elon Musk, Department of Government Efficiency \
+  Vivek Ramaswamy, Department of Government Efficiency \
+  Russell Vought, Office of Management and Budget \
+  Tulsi Gabbard, National Intelligence \
+  John Ratcliffe, CIA director \
+  Matt Whitaker, Ambassador to NATO \
+  Mike Huckabee, Ambassador to Israel \
+  Steve Witkoff, Special Envoy to the Middle East \
+  Dr. Janette Nesheiwat, Surgeon General \
+  Dr. Mehmet Oz, Centers for Medicare and Medicaid Services \
+  Dr. Dave Weldon, CDC \
+  Bill McGinley, White House Counsel \
+  Tom Homan, Border Czar \
+  Dan Scavino, Deputy Chief of Staff \
+  Stephen Miller, Deputy Chief of Staff for Policy
 
 3/ **Matt Gaetz does not intend to join the 119th Congress after he resigned from the 118th Congress**. “I’m still going to be in the fight, but it’s going to be from a new perch," Gaetz said. Soon after Gaetz joined Cameo, a platform for selling personalized video messages to celebrate birthdays, anniversaries, and retirements. ([The Hill](https://thehill.com/homenews/house/5004829-gaetz-house-congress-florida-trump-attorney-general/) / [NBC News](https://www.nbcnews.com/politics/politics-news/matt-gaetz-on-cameo-platform-rcna181565))
 
@@ -112,15 +127,16 @@ poll/ **55% of Americans report feeling happy or at least satisfied with Trump�
 
 ---
 
-* #### 📅 From Election Day to Inauguration Day. 
-* **Nov. 27-28**: Thanksgiving – NO WTFJHT \
-**Dec. 11**: Deadline for governors to certify the election and submit their slate of electors. \
-**Dec. 17**: Electors formally vote for president and VP. \
-**Dec. 20**: Government funding expires. \
-**Dec. 24-25**: Christmas – NO WTFJHT \
-**Dec. 31-Jan 1., 2025**: New Year’s – NO WTFJHT \
-**Jan. 3**: Members of the 119th Congress are sworn in. \
-**Jan. 6**: Congress counts Electoral College ballots. \
-**Jan. 20**: Trump’s Presidential Inauguration.
-* **The midterm elections are in 708 days**.
+* #### 📅 From Election Day to Inauguration Day.
 
+* **Nov. 27-28**: Thanksgiving – NO WTFJHT \
+  **Dec. 11**: Deadline for governors to certify the election and submit their slate of electors. \
+  **Dec. 17**: Electors formally vote for president and VP. \
+  **Dec. 20**: Government funding expires. \
+  **Dec. 24-25**: Christmas – NO WTFJHT \
+  **Dec. 31-Jan 1., 2025**: New Year’s – NO WTFJHT \
+  **Jan. 3**: Members of the 119th Congress are sworn in. \
+  **Jan. 6**: Congress counts Electoral College ballots. \
+  **Jan. 20**: Trump’s Presidential Inauguration.
+
+* **The midterm elections are in 708 days**.

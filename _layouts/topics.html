@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<!-- MailChimp -->
+{% include_cached email.html %}
+
+<article class="post">
+  <h1 class="post-title">
+    <a href="{{ site.baseurl }}{{ page.url }}">
+      {{ page.title }}
+  </h1>
+
+  <div class="post-content">
+    {{ page.content | extlinks }}
+  </div>
+  
+  {% include_cached email.html %}
+
+  {% include social.html %}
+
+  {% include_cached pledge.html %}
+
+
+</article>

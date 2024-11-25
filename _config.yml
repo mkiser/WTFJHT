@@ -5,6 +5,9 @@ collections:
   authors:
     title: Authors
     output: true
+  guide:
+    title: Guides
+    output: false
   notes:
     title: Notes
     output: false
@@ -19,9 +22,6 @@ collections:
     output: true
   uploads:
     title: Uploads
-    output: false
-  guide:
-    title: Guides
     output: false
 defaults:
 - scope:

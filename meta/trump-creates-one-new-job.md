@@ -7,6 +7,7 @@ description: Starting today WTF Just Happened Today is my full-time job. See? Tr
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
+sitemap: false
 ---
 
 <p class="lead">WTF Just Happened Today is my full-time job. See? Trump IS creating jobs. That's right. I quit my job to run a blog. </p>

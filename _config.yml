@@ -20,6 +20,9 @@ collections:
   uploads:
     title: Uploads
     output: false
+  guide:
+    title: Guides
+    output: false
 defaults:
 - scope:
     path: ''
@@ -185,6 +188,7 @@ exclude:
 - Gemfile.lock
 - README.md
 - meta
+- guide
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

@@ -5,6 +5,7 @@ layout: page
 description: They're backkk!! For a limited time I'm selling WTFJHT t-shirts to help
   raise money to support the only political newsletter that matters.
 image: "/uploads/wtftees.jpg"
+sitemap: false
 ---
 
 <p class="lead">For a limited time I'm selling WTFJHT t-shirts to help raise money to support <u>the only political newsletter that matters</u>.</p>

@@ -3,6 +3,7 @@ title: The Normal Person's Guide to Internet Security
 date: 2017-03-30 00:00:00 -07:00
 layout: page
 description: The seven things everyone should do to protect themselves on the internet.
+sitemap: false
 image:
   twitter: "/public/internet-security-guide-t.jpg"
   facebook: "/public/internet-security-guide-f.jpg"

@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /assets/
 Disallow: /license$
 Disallow: /team$
 Disallow: /quiz$

@@ -189,6 +189,7 @@ algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT
   read_only_api_key: 50fe80eaf3c61b236fe7408e8be4bc30
+  max_record_size: 20000
   nodes_to_index: p
   extensions_to_index: html,md,markdown
   files_to_exclude:

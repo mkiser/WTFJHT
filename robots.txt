@@ -1,6 +1,5 @@
 User-agent: *
 Allow: /
-Disallow: /uploads/
 Disallow: /assets/
 Disallow: /license$
 Disallow: /team$

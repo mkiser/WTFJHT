@@ -95,6 +95,18 @@ defaults:
     path: page
   values:
     sitemap: false
+- scope:
+    path: ''
+    type: topics
+  values:
+    permalink: "/:title/"
+    title: ''
+    description: ''
+    image: ''
+    author: Matt Kiser
+    layout: topics
+    seo:
+      type: NewsArticle
 is_away_mode: false
 permalink: pretty
 name: What The Fuck Just Happened Today?

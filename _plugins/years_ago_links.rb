@@ -17,7 +17,11 @@ module Jekyll
       # Iterate for 1 to 6 years ago
       (1..6).each do |years_ago|
         target_date = (current_date - (years_ago * 365)).strftime('%Y-%m-%d')
-        matching_post = site.posts.docs.find { |p| p.data['date'].strftime('%Y-%m-%d') == target_date }
+
+        # Find a post from the same date in previous years, excluding the current post
+        matching_post = site.posts.docs.find do |p|
+          p.data['date'].strftime('%Y-%m-%d') == target_date && p != current_post
+        end
 
         if matching_post
           years_ago_data << {
@@ -29,6 +33,7 @@ module Jekyll
         end
       end
 
+      # Store the collected data in the current post
       current_post.data['years_ago_links'] = years_ago_data
     end
   end

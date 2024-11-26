@@ -39,11 +39,11 @@ seo:
     {% if site.is_away_mode == true %}
       {% include away_mode.html %}
     {% endif %}
-    <h2 class="post-title">
+    <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ page.url }}">
         {{ page.title }}:
       <span class="post-small">{{ page.description }}</span></a>
-    </h2>
+    </h1>
 
 
     {% assign author = site.authors | where: 'title', page.author | first %}
@@ -57,9 +57,8 @@ seo:
         {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
       </time>
       <div>
-     
         <small>
-        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
       </small>
       </div>
     </div> 

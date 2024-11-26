@@ -98,28 +98,26 @@ seo:
       <div><span id="todayfiveyearsago"></span></div>
       <div><span id="todaysixyearsago"></span></div>
 
-      <div>  {% if page.years_ago_links %}
+<div>  
+  {% if page.years_ago_links %}
     {% for link in page.years_ago_links %}
       <div>
         {% if link.years_ago == 1 %}
-          Last year today:
+          <strong>Last year today:</strong>
         {% elsif link.years_ago == 2 %}
-          Two years ago today:
+          <strong>Two years ago today:</strong>
         {% elsif link.years_ago == 3 %}
-          Three years ago today:
+          <strong>Three years ago today:</strong> 
         {% elsif link.years_ago == 4 %}
-          Four years ago today:
+          <strong>Four years ago today:</strong>
         {% elsif link.years_ago == 5 %}
-          Five years ago today:
+          <strong>Five years ago today:</strong>
         {% elsif link.years_ago == 6 %}
-          Six years ago today:
+          <strong>Six years ago today:</strong>
         {% endif %}
         <a href="{{ link.url }}">{{ link.title }}: {{ link.desc }}</a>
       </div>
     {% endfor %}
-  {% else %}
-    <p>No past posts for this date.</p>
-  {% endif %}
 </div>
 
 

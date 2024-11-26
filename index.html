@@ -91,34 +91,28 @@ seo:
          <hr>
         {% endif %}
       {{ page.content | extlinks }}
-      <div><span id="todaylastyear"></span></div>
-      <div><span id="todaytwoyearsago"></span></div>
-      <div><span id="todaythreeyearsago"></span></div>
-      <div><span id="todayfouryearsago"></span></div>
-      <div><span id="todayfiveyearsago"></span></div>
-      <div><span id="todaysixyearsago"></span></div>
 
-<div>  
-  {% if page.years_ago_links %}
-    {% for link in page.years_ago_links %}
-      <div>
-        {% if link.years_ago == 1 %}
-          <strong>Last year today:</strong>
-        {% elsif link.years_ago == 2 %}
-          <strong>Two years ago today:</strong>
-        {% elsif link.years_ago == 3 %}
-          <strong>Three years ago today:</strong> 
-        {% elsif link.years_ago == 4 %}
-          <strong>Four years ago today:</strong>
-        {% elsif link.years_ago == 5 %}
-          <strong>Five years ago today:</strong>
-        {% elsif link.years_ago == 6 %}
-          <strong>Six years ago today:</strong>
-        {% endif %}
-        <a href="{{ link.url }}">{{ link.title }}: {{ link.desc }}</a>
-      </div>
-    {% endfor %}
-</div>
+    <div>  
+      {% if page.years_ago_links %}
+        {% for link in page.years_ago_links %}
+          <div>
+            {% if link.years_ago == 1 %}
+              <strong>Last year today:</strong>
+            {% elsif link.years_ago == 2 %}
+              <strong>Two years ago today:</strong>
+            {% elsif link.years_ago == 3 %}
+              <strong>Three years ago today:</strong> 
+            {% elsif link.years_ago == 4 %}
+              <strong>Four years ago today:</strong>
+            {% elsif link.years_ago == 5 %}
+              <strong>Five years ago today:</strong>
+            {% elsif link.years_ago == 6 %}
+              <strong>Six years ago today:</strong>
+            {% endif %}
+            <a href="{{ link.url }}">{{ link.title }}: {{ link.desc }}</a>
+          </div>
+        {% endfor %}
+    </div>
 
 
     </div>

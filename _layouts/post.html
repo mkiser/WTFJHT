@@ -5,31 +5,31 @@ layout: default
 {% include_cached email.html %}
 <article class="post">
  {% if site.is_away_mode == true %}
-      {% include away_mode.html %}
-    {% endif %}
-  <h1 class="post-title">
-    <a href="{{ site.baseurl }}{{ page.url }}">
-      {{ page.title }}:
+ {% include away_mode.html %}
+ {% endif %}
+ <h1 class="post-title">
+  <a href="{{ site.baseurl }}{{ page.url }}">
+    {{ page.title }}:
     <span class="post-small">{{ page.description }}</span></a>
   </h1>
 
-{% assign author = site.authors | where: 'title', page.author | first %}
-{% if author and author.title == "Matt Kiser" %}
+  {% assign author = site.authors | where: 'title', page.author | first %}
+  {% if author and author.title == "Matt Kiser" %}
   <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
-{% elsif author %}
+  {% elsif author %}
   <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
-{% endif %}
-<div class="post-date">
+  {% endif %}
+  <div class="post-date">
     <time datetime="{{ page.date | date_to_xmlschema }}">
       {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
     </time>
     <div>
       <small>
-      <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
-    </small>
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
+      </small>
     </div>
   </div> 
-    {% comment %}
+  {% comment %}
 
     <!--
      {% assign episodes = site.podcasts | reverse %}
@@ -45,18 +45,17 @@ layout: default
       </small>
     
     {% endif %}
-    -->
-    {% endcomment %}
+  -->
+  {% endcomment %}
   <div class="post-content">
-   
     {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
-     <p style="padding: 1em;margin: 0 1em 2em 1em;background-color: rgba(49, 49, 49, 0.03);font-size: 1rem;" class="tios">
+    <p style="padding: 1em;margin: 0 1em 2em 1em;background-color: rgba(49, 49, 49, 0.03);font-size: 1rem;" class="tios">
       <em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em>
-     </p>
-     <hr>
+    </p>
+    <hr>
     {% endif %}
-       
-   {{ content | extlinks }}
+    
+    {{ content | extlinks }}
     <div><span id="todaylastyear"></span></div>
     <div><span id="todaytwoyearsago"></span></div>
     <div><span id="todaythreeyearsago"></span></div>
@@ -68,13 +67,19 @@ layout: default
   {% if page.years_ago_links %}
     {% for link in page.years_ago_links %}
       <p>
-        {% case link.years_ago %}
-          {% when 1 %}Last year today:{% endcase %}
-          {% when 2 %}Two years ago today:{% endcase %}
-          {% when 3 %}Three years ago today:{% endcase %}
-          {% when 4 %}Four years ago today:{% endcase %}
-          {% when 5 %}Five years ago today:{% endcase %}
-          {% when 6 %}Six years ago today:{% endcase %}
+        {% if link.years_ago == 1 %}
+          Last year today:
+        {% elsif link.years_ago == 2 %}
+          Two years ago today:
+        {% elsif link.years_ago == 3 %}
+          Three years ago today:
+        {% elsif link.years_ago == 4 %}
+          Four years ago today:
+        {% elsif link.years_ago == 5 %}
+          Five years ago today:
+        {% elsif link.years_ago == 6 %}
+          Six years ago today:
+        {% endif %}
         <a href="{{ link.url }}">{{ link.title }}</a>: {{ link.desc }}
       </p>
     {% endfor %}
@@ -96,10 +101,10 @@ layout: default
   <div class="pagination"> 
     <div class="next-prev">
       {% if page.previous.url %}
-        <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
       {% endif %}
       {% if page.next.url %}
-        <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
       {% endif %}
     </div>
   </div>

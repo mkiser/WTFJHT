@@ -63,6 +63,21 @@ layout: default
     <div><span id="todayfouryearsago"></span></div>
     <div><span id="todayfiveyearsago"></span></div>
     <div><span id="todaysixyearsago"></span></div>
+
+  <div>
+  {% if page.years_ago_links %}
+    {% for years_ago, data in page.years_ago_links %}
+      <div>
+        <strong>{{ years_ago }} year{{ years_ago > 1 ? 's' : '' }} ago today:</strong>
+        <a href="{{ data.url }}">{{ data.title }}: {{ data.desc }}</a>
+      </div>
+    {% endfor %}
+  {% else %}
+    <p>No past posts for this date.</p>
+  {% endif %}
+</div>
+
+
   </div>
   {% include_cached email.html %}
 

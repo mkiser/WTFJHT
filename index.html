@@ -1,4 +1,24 @@
 ---
+title: Political News for Normal People.
+layout: default
+image: "/public/wtfjht-f.jpg"
+redirect_from:
+- "/today/"
+- "/yesterday/"
+seo:
+  name: What The Fuck Just Happened Today?
+  description: Your essential guide to the shock and awe in national politics. A sane,
+    once-a-day newsletter helping normal people make sense of the news.
+  type: NewsArticle
+  links:
+  - https://whatthefuckjusthappenedtoday.com/
+  - https://twitter.com/WTFJHT
+  - https://www.instagram.com/wtfjht/
+  - https://bsky.app/profile/wtfjht.bsky.social
+  - https://www.threads.net/@wtfjht
+  - https://mastodon.social/@wtfjht
+  - https://www.facebook.com/wtfjht
+  - https://github.com/mkiser/WTFJHT
 ---
 
 {% include_cached email.html %}
@@ -10,9 +30,9 @@
   {% assign notedate = note.date | date: '%Y-%m-%d' %}
   {% assign lastpost = site.posts.first.date | date: '%Y-%m-%d' %}
   {% if note.is_promoted == true %}
-  {% include note.html %}
+    {% include note.html %}
   {% elsif now == notedate and notedate > lastpost %}
-  {% include note.html %}
+    {% include note.html %}
   {% endif %}
 
   {% endcomment %}
@@ -20,31 +40,31 @@
   {% for page in site.posts limit:1 %}
   <article class="post">
     {% if site.is_away_mode == true %}
-    {% include away_mode.html %}
+      {% include away_mode.html %}
     {% endif %}
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ page.url }}">
         {{ page.title }}:
-        <span class="post-small">{{ page.description }}</span></a>
-      </h1>
+      <span class="post-small">{{ page.description }}</span></a>
+    </h1>
 
-      {% assign author = site.authors | where: 'title', page.author | first %}
-      {% if author and author.title == "Matt Kiser" %}
+    {% assign author = site.authors | where: 'title', page.author | first %}
+    {% if author and author.title == "Matt Kiser" %}
       <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
-      {% elsif author %}
+    {% elsif author %}
       <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
-      {% endif %}
-      <div class="post-date">
-        <time datetime="{{ page.date | date_to_xmlschema }}">
-          {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
-        </time>
-        <div>
-          <small>
-            <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
-          </small>
-        </div>
-      </div> 
-      {% comment %}
+    {% endif %}
+    <div class="post-date">
+      <time datetime="{{ page.date | date_to_xmlschema }}">
+        {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
+      </time>
+      <div>
+        <small>
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
+      </small>
+      </div>
+    </div> 
+    {% comment %}
 
     <!--
      {% assign episodes = site.podcasts | reverse %}
@@ -60,41 +80,67 @@
       </small>
     
     {% endif %}
-  -->
-  {% endcomment %}
+    -->
+    {% endcomment %}
 
-  <div class="post-content">
-    {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
-    <p style="padding: 1em;margin: 0 1em 2em 1em;background-color: rgba(49, 49, 49, 0.03);font-size: 1rem;" class="tios">
-      <em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em>
-    </p>
-    <hr>
-    {% endif %}
-    {{ page.content | extlinks }}
-    <div><span id="todaylastyear"></span></div>
-    <div><span id="todaytwoyearsago"></span></div>
-    <div><span id="todaythreeyearsago"></span></div>
-    <div><span id="todayfouryearsago"></span></div>
-    <div><span id="todayfiveyearsago"></span></div>
-    <div><span id="todaysixyearsago"></span></div>
-  </div>
-  {% include_cached email.html %}
+    <div class="post-content">
+        {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
+         <p style="padding: 1em;margin: 0 1em 2em 1em;background-color: rgba(49, 49, 49, 0.03);font-size: 1rem;" class="tios">
+          <em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em>
+         </p>
+         <hr>
+        {% endif %}
+      {{ page.content | extlinks }}
+      <div><span id="todaylastyear"></span></div>
+      <div><span id="todaytwoyearsago"></span></div>
+      <div><span id="todaythreeyearsago"></span></div>
+      <div><span id="todayfouryearsago"></span></div>
+      <div><span id="todayfiveyearsago"></span></div>
+      <div><span id="todaysixyearsago"></span></div>
 
-  {% include social.html %}
+      <div>  {% if page.years_ago_links %}
+    {% for link in page.years_ago_links %}
+      <p>
+        {% if link.years_ago == 1 %}
+          Last year today:
+        {% elsif link.years_ago == 2 %}
+          Two years ago today:
+        {% elsif link.years_ago == 3 %}
+          Three years ago today:
+        {% elsif link.years_ago == 4 %}
+          Four years ago today:
+        {% elsif link.years_ago == 5 %}
+          Five years ago today:
+        {% elsif link.years_ago == 6 %}
+          Six years ago today:
+        {% endif %}
+        <a href="{{ link.url }}">{{ link.title }}</a>: {{ link.desc }}
+      </p>
+    {% endfor %}
+  {% else %}
+    <p>No past posts for this date.</p>
+  {% endif %}
+</div>
 
-  {% include_cached pledge.html %}
 
-</article>
+    </div>
+    {% include_cached email.html %}
+
+    {% include social.html %}
+
+    {% include_cached pledge.html %}
+
+  </article>
 </div> 
 
 <!-- pagination -->
 <div class="pagination"> 
   <div class="next-prev">
     {% if page.previous.url %}
-    <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
     {% endif %}
     {% if page.next.url %}
-    <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
     {% endif %}
   </div>
 </div>

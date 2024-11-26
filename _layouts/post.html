@@ -19,37 +19,34 @@ layout: default
 {% elsif author %}
   <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
 {% endif %}
-
-  <div class="post-date">
-    <time datetime="{% if page.last_modified %}{{ page.last_modified | date_to_xmlschema }}{% endif %}">
-      {{ page.date | date: "%-m/%-d/%Y" }} <span class="reading-time" title="Estimated read time">
-  {% assign words = page.content | number_of_words %}
-   &#8226; {{ words | divided_by:200 }} min read
-</span>
+<div class="post-date">
+    <time datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
     </time>
     <div>
       <small>
-        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> <!-- &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
- {% if page.contributors == "1" %}{{ page.contributors }} Contributor{% else %}{{ page.contributors }} Contributors{% endif %} -->
-      </small>
+      <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
+    </small>
     </div>
-  </div>
+  </div> >
+    {% comment %}
+
+    <!--
+     {% assign episodes = site.podcasts | reverse %}
+     {% assign ep = episodes | where: 'post', page.title | first %}
+     {% if ep %}
+    
   
-  <!--
-  {% assign episodes = site.podcasts | reverse %}
-  {% assign ep = episodes | where: 'post', page.title | first %}
-  {% if ep %}
-   
-  <div class="pod">
-    <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
-  </div>
-
-  <small class="post-date pod-subscribe" style="margin-top: -2em; color: #9a9a9a;">
-    Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3?si=3bkunuqCT2-GltqAEhX9pA">Spotify</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aGF0dGhlZnVja2p1c3RoYXBwZW5lZHRvZGF5LmNvbS9wb2RjYXN0cy9pbmRleC54bWw">Google Podcast</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
-  </small>
-
-{% endif %}
- -->
+      <div class="pod">
+        <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
+      </div>
+      <small class="post-date pod-subscribe" style="margin-top: -2em; color: #9a9a9a;">
+        Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3?si=3bkunuqCT2-GltqAEhX9pA">Spotify</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aGF0dGhlZnVja2p1c3RoYXBwZW5lZHRvZGF5LmNvbS9wb2RjYXN0cy9pbmRleC54bWw">Google Podcast</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
+      </small>
+    
+    {% endif %}
+    -->
+    {% endcomment %}
   <div class="post-content">
    
     {% if page.todayInOneSentence and page.todayInOneSentence != '' %}

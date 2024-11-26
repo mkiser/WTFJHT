@@ -23,7 +23,8 @@ seo:
 
 {% include_cached email.html %}
 <div class="posts">
-  
+  {% comment %}
+
   {% assign now = site.time | date: '%Y-%m-%d' %}
   {% assign note = site.notes.last %}
   {% assign notedate = note.date | date: '%Y-%m-%d' %}
@@ -33,6 +34,8 @@ seo:
   {% elsif now == notedate and notedate > lastpost %}
     {% include note.html %}
   {% endif %}
+
+  {% endcomment %}
 
   {% for page in site.posts limit:1 %}
   <article class="post">
@@ -44,7 +47,6 @@ seo:
         {{ page.title }}:
       <span class="post-small">{{ page.description }}</span></a>
     </h1>
-
 
     {% assign author = site.authors | where: 'title', page.author | first %}
     {% if author and author.title == "Matt Kiser" %}
@@ -62,6 +64,8 @@ seo:
       </small>
       </div>
     </div> 
+    {% comment %}
+
     <!--
      {% assign episodes = site.podcasts | reverse %}
      {% assign ep = episodes | where: 'post', page.title | first %}
@@ -77,7 +81,8 @@ seo:
     
     {% endif %}
     -->
-    
+    {% endcomment %}
+
     <div class="post-content">
         {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
          <p style="padding: 1em;margin: 0 1em 2em 1em;background-color: rgba(49, 49, 49, 0.03);font-size: 1rem;" class="tios">

@@ -29,7 +29,7 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: WTFis
+    # type: WTFis
   values:
     title: ''
     description: ''

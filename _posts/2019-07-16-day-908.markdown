@@ -1,6 +1,8 @@
 ---
 title: Day 908
 date: 2019-07-16 11:39:00 -07:00
+tags:
+- impeachment
 description: '"Join us in condemning the president''s racist tweets."'
 image: "/uploads/908.jpg"
 todayInOneSentence: 'Republicans temporarily blocked a resolution denouncing Trump''s
@@ -9,8 +11,6 @@ todayInOneSentence: 'Republicans temporarily blocked a resolution denouncing Tru
   with "What''s your ethnicity?"; and the Justice Department will not bring federal
   civil rights charges against the New York Police Department officer accused of fatally
   choking Eric Garner. '
-tags:
-  - impeachment
 ---
 
 1/ **Republicans temporarily blocked a resolution denouncing Trump's racists tweets that four congresswomen of color should "go back" where "they came" from as "racist comments."** In a floor speech, House Speaker Nancy Pelosi urged Democrats and Republicans to "join us in condemning the president's racist tweets" and that the "comments from the White House" are "disgraceful" and "disgusting" and that "these comments are racist." Republican Rep. Doug Collins interjected and asked Pelosi to "rephrase" her statement, which was then ruled as out of order under House rules that lawmakers may not make disparaging remarks about the president on the floor of the House. Following a two-hour long delay, the House voted along party lines to allow Pelosi to refer to Trump's tweets as racist, overriding House rules and GOP objections. That final vote on the resolution condemning Trump's rhetoric as "racist comments that have legitimized increased fear and hatred of new Americans and people of color" passed largely along party lines, 240-187. ([Politico](https://www.politico.com/story/2019/07/16/pelosi-trump-racism-resolution-1417365) / [NBC News](https://www.nbcnews.com/politics/donald-trump/house-vote-resolution-condemning-trump-s-racist-comments-n1030266) / [New York Times](https://www.nytimes.com/2019/07/16/us/politics/trump-tweet-house-vote.html) / [CNN](https://www.cnn.com/politics/live-news/trump-racist-tweet-immigration-july-2019/h_37a21eb0ed78ed8d23ddcf38d21e7548) / [Washington Post](https://www.washingtonpost.com/politics/trump-lashes-out-again-at-minority-lawmakers-as-house-prepares-to-condemn-his-racist-tweets/2019/07/16/bca3afa4-a7b3-11e9-a3a6-ab670962db05_story.html) / [Wall Street Journal](https://www.wsj.com/articles/democrats-prepare-vote-condemning-trumps-tweets-about-lawmakers-11563297658))

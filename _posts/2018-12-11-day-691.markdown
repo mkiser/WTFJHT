@@ -1,6 +1,8 @@
 ---
 title: Day 691
 date: 2018-12-11 12:24:00 -08:00
+tags:
+- impeachment
 description: This wall thing.
 image: "/uploads/691.jpg"
 todayInOneSentence: Trump claimed he'd be "proud to shut down the government"; Pelosi
@@ -8,8 +10,6 @@ todayInOneSentence: Trump claimed he'd be "proud to shut down the government"; P
   administration plans sweeping changes to federal clean water rules; John Kelly will
   remain as chief of staff through the new year; and Trump now sees impeachment as
   a "real possibility."
-tags:
-  - impeachment
 ---
 
 1/ **Trump claimed he'd be "proud to shut down the government" if his demand for $5 billion in border wall funding isn't met**. In an extended, heated, and televised exchange with Nancy Pelosi and Chuck Schumer, Trump declared that "I will be the one to shut it down. I'm not going to blame you for it. I am proud to shut down the government for border security. \[...\] I will take the mantle \[...\] for shutting down the government." Schumer and Pelosi said they made two offers to Trump at the current level of $1.375 billion. Prior to the meeting, Trump falsely tweeted that a substantial part of his "Great Wall" had already been built and then threatened that "if the Democrats do not give us the votes to secure our Country, the Military will build the remaining sections of the Wall." Schumer accused Trump of throwing a "temper tantrum" with the meeting ending with no resolution, increasing the chances of a partial government shutdown at the end of next week. ([Washington Post](https://www.washingtonpost.com/powerpost/schumer-pelosi-set-to-meet-with-trump-on-wall-but-house-gop-stands-firm/2018/12/11/2604b1ae-fd56-11e8-862a-b6a6f3ce8199_story.html) / [Axios](https://www.axios.com/donald-trump-government-shutdown-border-wall-pelosi-schumer-c2072f15-4de9-44e2-a0e6-95f4eb562fa2.html) / [New York Times](https://www.nytimes.com/2018/12/11/us/politics/trump-border-wall-government-shutdown.html) / [Wall Street Journal](https://www.wsj.com/articles/ahead-of-spending-talks-trump-says-military-will-build-border-wall-if-democrats-dont-agree-to-fund-it-11544535438) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-12-11/trump-says-i-will-be-the-one-to-shut-down-government-over-wall) / [CNBC](https://www.cnbc.com/2018/12/11/trump-meets-with-pelosi-and-schumer-on-border-wall-and-government-shutdown.html))

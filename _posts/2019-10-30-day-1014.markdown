@@ -1,6 +1,8 @@
 ---
 title: Day 1014
 date: 2019-10-30 09:53:00 -07:00
+tags:
+- impeachment
 description: Out of step.
 image: "/uploads/1014.jpg"
 todayInOneSentence: Two career diplomats testified before House impeachment investigators
@@ -12,8 +14,6 @@ todayInOneSentence: Two career diplomats testified before House impeachment inve
   and Trump's pick for ambassador to Russia told the Senate Foreign Relations Committee
   that it would not be "in accord with our values" for a president to ask a foreign
   government to investigate a political rival.
-tags:
-  - impeachment
 ---
 
 1/ **Two career diplomats testified before House impeachment investigators behind closed doors that Trump and Rudy Giuliani's view of Ukraine were out of step with other White House and State Department officials**. Catherine Croft told lawmakers, who worked as an adviser to Kurt Volker, explained that "throughout" her time in the Trump administration she heard Trump "describe Ukraine as a corrupt country," both "directly and indirectly." Christopher Anderson, who served as assistant to Volker, told lawmakers that in a June 13th meeting, John Bolton had supported "increased senior White House engagement" with Ukraine, but was concerned that Giuliani "was a key voice with the president on Ukraine." Anderson also testified that his attempts as a Foreign Service officer to show support for Ukraine were quashed by the White House. ([Washington Post](https://www.washingtonpost.com/world/national-security/testimony-from-career-diplomats-to-outline-trumps-dark-view-of-ukraine/2019/10/29/1681d293-f23c-476a-bdd8-35244e23d66a_story.html) / [CNN](https://www.cnn.com/2019/10/30/politics/foreign-service-officers-deposition-rudy-giuliani-john-bolton/index.html) / [Politico](https://www.politico.com/news/2019/10/30/state-department-trump-shadow-diplomacy-ukraine-061641) / [ABC News](https://abcnews.go.com/Politics/state-department-officials-set-testify-trump-impeachment-probe/story?id=66618874) / [New York Times](https://www.nytimes.com/2019/10/30/us/politics/trump-impeachment-inquiry-updates.html))

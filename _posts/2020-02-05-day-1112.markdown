@@ -1,13 +1,13 @@
 ---
 title: Day 1112
 date: 2020-02-05 11:24:00 -08:00
+tags:
+- impeachment
 description: A giant asterisk.
 image: "/uploads/1112.jpg"
 todayInOneSentence: The Senate voted to acquit Trump on both articles of impeachment,
   rejecting the House’s charges that he should be removed from office for abuse of
   power and obstruction of Congress.
-tags:
-  - impeachment
 ---
 
 ### ⚖️ Trump’s Senate Impeachment Trial:

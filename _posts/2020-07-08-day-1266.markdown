@@ -1,6 +1,8 @@
 ---
 title: Day 1266
 date: 2020-07-08 15:02:00 -07:00
+tags:
+- impeachment
 description: '"A campaign of bullying, intimidation, and retaliation."'
 image: "/uploads/1266.jpg"
 todayInOneSentence: Trump threatened to cut federal funding if schools don't fully
@@ -9,8 +11,6 @@ todayInOneSentence: Trump threatened to cut federal funding if schools don't ful
   the U.S. reported more than 60,000 new COVID-19 cases Tuesday as the total number
   of confirmed cases crossed 3 million; and Trump’s campaign rally in Tulsa “likely
   contributed” to a dramatic surge in new coronavirus cases.
-tags:
-  - impeachment
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

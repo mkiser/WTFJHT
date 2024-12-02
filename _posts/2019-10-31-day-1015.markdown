@@ -1,6 +1,8 @@
 ---
 title: Day 1015
 date: 2019-10-31 09:23:00 -07:00
+tags:
+- impeachment
 description: '"Nobody comes to Congress to impeach a president."'
 image: "/uploads/1015.jpg"
 todayInOneSentence: The House approved a resolution to formally authorize and set
@@ -13,8 +15,6 @@ todayInOneSentence: The House approved a resolution to formally authorize and se
   to force two witnesses close to Trump to testify in the House's impeachment inquiry;
   and 61% of Americans say Trump has little or no respect for the country's democratic
   institutions and traditions.
-tags:
-  - impeachment
 ---
 
 1/ **The House approved a resolution to formally authorize and set ground rules for its impeachment inquiry into Trump**. The resolution passed 232-196 almost entirely along party lines and outlines how the House will make the investigation more public, authorizes the House Intelligence Committee to release transcripts from past interviews, and gives Republicans the right to call witnesses, though those requests are subject to approval by Democrats. Before the vote, House Speaker Nancy Pelosi said "Today, we are further down the path of our inquiry," calling it a "sad day," because "nobody comes to Congress to impeach a president." Minutes after the vote, the White House press secretary denounced the resolution as "a sham impeachment" and "a blatantly partisan attempt to destroy the president." ([New York Times](https://www.nytimes.com/2019/10/31/us/politics/house-impeachment-vote.html) / [Washington Post](https://www.washingtonpost.com/national-security/house-to-vote-on-rules-governing-next-phase-of-trump-impeachment-inquiry/2019/10/31/bc2f5e7a-fbcc-11e9-ac8c-8eced29ca6ef_story.html) / [Wall Street Journal](https://www.wsj.com/articles/white-house-official-who-is-stepping-down-will-testify-in-impeachment-inquiry-11572514202) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-10-31/house-votes-to-open-public-phase-of-trump-impeachment-inquiry) / [Politico](https://www.politico.com/news/2019/10/31/house-takes-big-step-on-impeachment-with-vote-to-formalize-trump-probe-000311) / [CNN](https://www.cnn.com/2019/10/31/politics/house-impeachment-inquiry-resolution-floor-vote/index.html) / [ABC News](https://abcnews.go.com/Politics/sad-day-country-dem-house-debates-impeachment-resolution/story?id=66661743))

@@ -1,6 +1,8 @@
 ---
 title: Day 1022
 date: 2019-11-07 10:36:00 -08:00
+tags:
+- impeachment
 description: A campaign of lies.
 image: "/uploads/1022.jpg"
 todayInOneSentence: 'Trump asked Attorney General William Barr to hold a press conference
@@ -11,8 +13,6 @@ todayInOneSentence: 'Trump asked Attorney General William Barr to hold a press c
   charity to further his 2016 presidential campaign; and Trump and "The Apprentice"
   creator have discussed shooting "The Apprentice: White House" after Trump leaves
   office.'
-tags:
-  - impeachment
 ---
 
 1/ **Trump asked Attorney General William Barr to hold a press conference and say that he didn't break the law during his July 25 call with Ukrainian President Volodymyr Zelensky**. Barr, however, declined. Trump's request was made around Sept. 25 – shortly after the Trump administration released a summary of the July 25 call. Trump denied he asked Barr "to hold a news conference," instead saying people "MADE UP the story" and that "the Justice Department already ruled that the call was good." ([Washington Post](https://www.washingtonpost.com/world/national-security/trump-wanted-barr-to-hold-news-conference-saying-the-president-broke-no-laws-in-call-with-ukrainian-leader/2019/11/06/16d541ec-ff55-11e9-8bab-0fc209e065a8_story.html) / [New York Times](https://www.nytimes.com/2019/11/06/us/politics/trump-william-barr-ukraine-call.html) / [CNN](https://www.cnn.com/2019/11/06/politics/trump-barr-press-conference/index.html))

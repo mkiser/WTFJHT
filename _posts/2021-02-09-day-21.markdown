@@ -1,6 +1,8 @@
 ---
 title: Day 21
 date: 2021-02-09 14:17:00 -08:00
+tags:
+- impeachment
 description: '"This cannot be our future."'
 image: "/uploads/biden-harris-trump-impeachment-day-21.jpg"
 todayInOneSentence: Trump's impeachment trial kicked off in the Senate with House
@@ -11,8 +13,6 @@ todayInOneSentence: Trump's impeachment trial kicked off in the Senate with Hous
   secretary of state launched an investigation into Trump's attempts to overturn the
   state’s election results; and the Biden administration will begin sending doses
   of Covid-19 vaccines to community health centers next week.
-tags:
-  - impeachment
 ---
 
 ### ⚖️ Trump’s Second Senate Impeachment Trial:

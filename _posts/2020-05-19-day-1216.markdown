@@ -1,6 +1,8 @@
 ---
 title: Day 1216
 date: 2020-05-19 14:56:00 -07:00
+tags:
+- impeachment
 description: '"Badge of honor."'
 image: "/uploads/1216.jpg"
 todayInOneSentence: Trump called the high number of US COVID-19 cases a “badge of
@@ -14,8 +16,6 @@ todayInOneSentence: Trump called the high number of US COVID-19 cases a “badge
   Mueller's secret grand jury materials to determine if there is new evidence of impeachable
   offenses involving Trump, saying Trump “did not cease with the conclusion of the
   impeachment trial."
-tags:
-  - impeachment
 ---
 
 * ### 🔥 Daily Damage Report.

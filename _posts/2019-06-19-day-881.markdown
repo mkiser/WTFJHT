@@ -1,6 +1,8 @@
 ---
 title: Day 881
 date: 2019-06-19 11:56:00 -07:00
+tags:
+- impeachment
 description: Misplaced certainty.
 image: "/uploads/881.jpg"
 todayInOneSentence: The EPA rolled back Obama's Clean Power Plan; Hope Hicks refused
@@ -8,8 +10,6 @@ todayInOneSentence: The EPA rolled back Obama's Clean Power Plan; Hope Hicks ref
   Mike Pompeo is claiming that Iran has ties to Al Qaeda in order to justify invoking
   the 2001 war authorization; and Sarah Huckabee Sanders is "extremely serious" about
   running for governor of Arkansas.
-tags:
-  - impeachment
 ---
 
 1/ **The EPA rolled back Obama's Clean Power Plan**, allowing states to set their own carbon emissions standards for coal-fired power plants and limits the agency's authority to set national restrictions on carbon emissions in the future. Andrew Wheeler, the EPA administrator, insisted that the new plan will reduce carbon emissions in the power sector 34% below 2005 levels – roughly equal to the goals of the Clean Power Plan. Experts, however, say the U.S. power sector needs to cut its emissions 74% over 2005 levels by 2030 to keep global temperatures from rising more than 2 degrees Celsius above preindustrial levels. As of last year, the power sector had cut its greenhouse gas emissions 27% compared with 2005. The EPA also said the new rules could result in 1,400 more premature deaths by 2030 than the Obama-era plan. ([New York Times](https://www.nytimes.com/2019/06/19/climate/epa-coal-emissions.html) / [Washington Post](https://www.washingtonpost.com/climate-environment/trump-epa-finalizes-rollback-of-key-obama-climate-rule-that-targeted-coal-plants/2019/06/19/b8ff1702-8eeb-11e9-8f69-a2795fca3343_story.html) / [Wall Street Journal](https://www.wsj.com/articles/epa-overturns-obama-era-clean-air-rules-for-power-plants-11560963259) / [CNN](https://www.cnn.com/2019/06/19/politics/epa-rolls-back-obama-coal-emissions/index.html) / [Axios](https://www.axios.com/epa-rule-coal-emissions-obama-clean-power-policy-6bf49fb3-d599-4c95-9808-fe620be343f1.html))

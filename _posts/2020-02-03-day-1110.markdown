@@ -1,6 +1,8 @@
 ---
 title: Day 1110
 date: 2020-02-03 14:21:00 -08:00
+tags:
+- impeachment
 description: '"History will not be kind to Donald Trump."'
 image: "/uploads/1110.jpg"
 todayInOneSentence: House impeachment managers and Trump’s lawyers delivered their
@@ -11,8 +13,6 @@ todayInOneSentence: House impeachment managers and Trump’s lawyers delivered t
   the Senate to consider censuring Trump; and the Justice Department admitted that
   it is withholding 24 emails related to Trump’s involvement in withholding security
   aid to Ukraine.
-tags:
-  - impeachment
 ---
 
 ### ⚖️ Trump’s Senate Impeachment Trial:

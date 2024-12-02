@@ -1,6 +1,8 @@
 ---
 title: Day 1084
 date: 2020-01-08 09:56:00 -08:00
+tags:
+- impeachment
 description: Standing down.
 image: "/uploads/1084.jpg"
 todayInOneSentence: Iran launched more than a dozen ballistic missiles at two Iraqi
@@ -9,8 +11,6 @@ todayInOneSentence: Iran launched more than a dozen ballistic missiles at two Ir
   will still vote Thursday on a resolution to limit Trump's military options for action
   against Iran; and several Democratic senators want House Speaker Nancy Pelosi to
   submit the articles of impeachment against Trump to the Senate.
-tags:
-  - impeachment
 ---
 
 1/ **Iran launched more than a dozen ballistic missiles at two Iraqi military bases housing U.S. troops Tuesday night in retaliation for the assassination of Iranian Gen. Qasem Soleimani**. No U.S. or Iraqi casualties have been reported. Iran's Supreme Leader Ayatollah Ali Khamenei called the strikes a "slap in the face" to the U.S. and not sufficient retaliation for the killing of Soleimani. ([Washington Post](https://www.washingtonpost.com/world/middle_east/iran-live-updates/2020/01/07/896c70a2-30d5-11ea-9313-6cba89b1b9fb_story.html) / [NBC News](https://www.nbcnews.com/news/world/u-s-base-iraq-comes-under-attack-missiles-iran-claims-n1112171) / [NPR](https://www.npr.org/2020/01/07/794388410/military-base-housing-u-s-troops-in-iraq-has-been-attacked) / [New York Times](https://www.nytimes.com/2020/01/07/world/middleeast/trump-iran.html) / [CNN](https://www.cnn.com/2020/01/07/politics/rockets-us-airbase-iraq/index.html) / [ABC News](https://abcnews.go.com/International/iran-launches-missiles-us-air-bases-iraq-us/story?id=68130625))

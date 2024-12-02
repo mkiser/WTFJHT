@@ -1,6 +1,8 @@
 ---
 title: Day 966
 date: 2019-09-12 10:07:00 -07:00
+tags:
+- impeachment
 description: 'Simply unacceptable. '
 image: "/uploads/966.jpg"
 todayInOneSentence: The Trump administration repealed Obama's landmark clean water
@@ -9,8 +11,6 @@ todayInOneSentence: The Trump administration repealed Obama's landmark clean wat
   of 145 companies called on the Senate to pass "common-sense gun laws"; and the Trump
   administration discussed offering China a limited trade agreement that would delay
   or roll back some U.S. tariffs.
-tags:
-  - impeachment
 ---
 
 1/ **The Trump administration repealed Obama's landmark clean water protections that had placed limits on polluting chemicals that could be used near streams, wetlands, and other bodies of water**. The Obama-era Waters of the United States rule was designed to limit pollution in about 60% of the nation's bodies of water, protecting sources of drinking water for about one-third of the U.S., and extended existing federal authority to limit pollution in large bodies of water. The EPA plans to also establish a stricter legal definition of what qualifies as "waters of the United States" under the Clean Water Act before the end of the year. The existing rules would be replaced with a much narrower definition of the types of tributaries, streams, and wetlands that are subject to protections. ([Washington Post](https://beta.washingtonpost.com/climate-environment/administration-finalizes-repeal-of-2015-water-rule-trump-called-destructive-and-horrible/2019/09/11/fddfa49a-d4aa-11e9-9343-40db57cf6abd_story.html) / [New York Times](https://www.nytimes.com/2019/09/12/climate/trump-administration-rolls-back-clean-water-protections.html) / [Politico](https://www.politico.com/story/2019/09/12/trump-repeal-epa-water-rule-1492183) / [CBS News](https://www.cbsnews.com/news/epa-to-announce-repeal-of-obama-era-clean-water-regulation/))

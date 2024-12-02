@@ -1,6 +1,8 @@
 ---
 title: Day 9
 date: 2021-01-28 14:52:00 -08:00
+tags:
+- impeachment
 description: '"Beyond the pale."'
 image: "/uploads/biden-harris-day-9.jpg"
 todayInOneSentence: Democrats plan to bypass Republicans and approve a $1.9 trillion
@@ -10,8 +12,6 @@ todayInOneSentence: Democrats plan to bypass Republicans and approve a $1.9 tril
   by 3.5% in 2020; senators are contemplating censuring Trump as an alternative to
   an impeachment trial; and House Republicans appointed a conspiracy theorist – who
   called school shootings a hoax – to the committee overseeing education.
-tags:
-  - impeachment
 ---
 
 1/ **Democrats plan to bypass Republicans and approve a $1.9 trillion coronavirus relief package on a party-line basis using budget reconciliation**. The process allows some legislation tied to the budget to pass the Senate with a simple majority, rather than the 60 votes needed to avoid a filibuster. Republicans have repeatedly rejected Biden’s plan, which would provide a $1,400 check, increase and extend federal unemployment, provide funds for vaccine distribution, state and local governments, and schools. Press secretary Jen Psaki also ruled out splitting up the package, saying the Biden administration is “not going to do this in a piecemeal way or break apart a big package meant to address the crisis we’re facing." ([Politico](https://www.politico.com/news/2021/01/28/senate-democrats-coronavirus-relief-next-week-463452) / [NBC News](https://www.nbcnews.com/politics/congress/democrats-prepare-go-it-alone-covid-relief-if-republicans-don-n1256021) / [Wall Street Journal](https://www.wsj.com/articles/white-house-not-planning-to-split-1-9-trillion-covid-19-package-in-two-11611840408) / [New York Times](https://www.nytimes.com/live/2021/01/28/us/biden-trump-impeachment/democrats-could-use-budget-reconciliation-to-speed-up-bidens-pandemic-stimulus-bill))

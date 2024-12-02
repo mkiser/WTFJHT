@@ -1,6 +1,8 @@
 ---
 title: Day 1037
 date: 2019-11-22 10:36:00 -08:00
+tags:
+- impeachment
 description: '"Never took place."'
 image: "/uploads/1037.jpg"
 todayInOneSentence: Trump's aides have discussed removing some impeachment witnesses
@@ -10,8 +12,6 @@ todayInOneSentence: Trump's aides have discussed removing some impeachment witne
   from the Justice Department's inspector general didn't find anti-Trump bias at the
   FBI when it obtained a Foreign Intelligence Surveillance Act warrant to look into
   Carter Page.
-tags:
-  - impeachment
 ---
 
 1/ **Impeachment Watch: What happens next.** The House Intelligence Committee concluded public hearings for the impeachment inquiry into Trump after more than a dozen witnesses testified. With no other witnesses scheduled to testify, the committee and Chair Adam Schiff will now compile and submit a report of its findings to the House Judiciary Committee. The report will be sent to the Judiciary Committee, which will decide whether or not to draft on articles of impeachment. If it drafts articles, the committee would vote on them and send them to the House floor, where Democrats anticipate a vote by Christmas. If the House votes to impeach Trump, the case is sent to the Senate for a trial, which would start in the new year. It would require a two-thirds majority vote in the Senate to remove Trump from office. Senate Republicans and senior White House officials have discussed limiting a Senate impeachment trial to two weeks. Meanwhile, a federal judge is expected to rule on whether former White House counsel Don McGahn is required to obey a Judiciary Committee subpoena to testify in response to an earlier House subpoena in a previous matter. Former National Security Adviser John Bolton declined an invitation to testify and has not been subpoenaed, but said he won't testify unless compelled by a court. Bolton is awaiting the result of a lawsuit filed by his former deputy, Charles Kupperman, asking a judge to decide whether he should listen to the House or the White House. ([Vox](https://www.vox.com/policy-and-politics/2019/11/22/20976147/house-impeachment-inquiry-timeline) / [Politico](https://www.politico.com/news/2019/11/22/impeachment-judiciary-house-072735) / [New York Times](https://www.nytimes.com/2019/11/21/us/politics/impeachment-witnesses.html))

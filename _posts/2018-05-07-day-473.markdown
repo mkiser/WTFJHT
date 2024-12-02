@@ -1,10 +1,10 @@
 ---
 title: Day 473
 date: 2018-05-07 10:53:00 -07:00
+tags:
+- impeachment
 description: 'Fighting back. '
 image: "/uploads/473.jpg"
-tags:
-  - impeachment
 ---
 
 1/ **Trump plans to ask Congress to cut $7 billion from the Children's Health Insurance Program**. $5 billion would come from the Children’s Health Insurance Fund, which reimburses states for certain expenses, and $2 billion would come from the Child Enrollment Contingency Fund, meant to ensure states have access to funds if there is a higher-than-expected enrollment. In total, Trump wants Congress to strip more than $15 billion in previously approved spending from more than 30 different programs. The White House insists that the CHIP cuts would not affect access to health care. ([Washington Post](https://www.washingtonpost.com/business/economy/trump-calls-on-congress-to-pull-back-15-billion-in-spending-including-on-childrens-health-insurance-program/2018/05/07/9427de18-5216-11e8-a551-5b648abe29ef_story.html))

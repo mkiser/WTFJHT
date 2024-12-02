@@ -1,6 +1,8 @@
 ---
 title: Day 1006
 date: 2019-10-22 11:06:00 -07:00
+tags:
+- impeachment
 description: Direct line.
 image: "/uploads/1006.jpg"
 todayInOneSentence: The top U.S. diplomat in Ukraine told House impeachment investigators
@@ -10,8 +12,6 @@ todayInOneSentence: The top U.S. diplomat in Ukraine told House impeachment inve
   by Putin and Hungarian Prime Minister Viktor Orban; Trump compared the House impeachment
   inquiry to a "lynching"; and Trump lectured reporters for more than 70 minutes during
   a cabinet meeting, during which he made at least 20 false or misleading statements.
-tags:
-  - impeachment
 ---
 
 1/ **The top U.S. diplomat in Ukraine told House impeachment investigators that Trump held up security aid and refused a White House meeting with Ukraine's president until he agreed to investigate Tump's political rivals**. Bill Taylor said he was told that "everything" Ukraine wanted — a one-on-one meeting between Trump and Ukrainian President Volodymyr Zelensky and nearly $400 million in security aid — was dependent on publicly announcing an investigation into Burisma, the company that hired Joe Biden's son Hunter, and Ukraine's alleged involvement in the 2016 election. Taylor provided an "excruciatingly detailed" opening statement that described "how pervasive the \[quid pro quo\] efforts were" by Trump and his allies, which they have denied. People in the closed-door deposition described Taylor's testimony as a "very direct line" between American foreign policy and Trump's own political goals. ([Politico](https://www.politico.com/news/2019/10/22/william-taylor-ukraine-testimony-trump-054259) / [New York Times](https://www.nytimes.com/2019/10/22/us/trump-impeachment-ukraine.html) / [Washington Post](https://www.washingtonpost.com/powerpost/diplomat-who-raised-alarm-about-withholding-aid-to-ukraine-testifies-in-impeachment-probe/2019/10/22/086fb850-f436-11e9-8cf0-4cc99f74d127_story.html) / [CNN](https://www.cnn.com/2019/10/22/politics/bill-taylor-deposition-text-messages/) / [Wall Street Journal](https://www.wsj.com/articles/diplomat-to-face-questions-about-ukraine-aid-concerns-11571750496))

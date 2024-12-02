@@ -1,6 +1,8 @@
 ---
 title: Day 1009
 date: 2019-10-25 10:24:00 -07:00
+tags:
+- impeachment
 description: '"Potentially impeachable conduct."'
 image: "/uploads/1009.jpg"
 todayInOneSentence: A federal judge directed the Justice Department hand over Robert
@@ -10,8 +12,6 @@ todayInOneSentence: A federal judge directed the Justice Department hand over Ro
   investigations into Joe Biden and his son; Lawyers for former national security
   adviser John Bolton have discussed a possible deposition; and the White House is
   looking for a communications specialist to lead impeachment messaging efforts.
-tags:
-  - impeachment
 ---
 
 1/ **A federal judge directed the Justice Department to hand over Robert Mueller's secret grand jury evidence to the House Judiciary Committee**, which Attorney General William Barr has withheld from lawmakers. U.S. District Judge Beryl A. Howell rejected the Trump administration's claim that the impeachment probe is illegitimate, saying the material could help the House Judiciary Committee substantiate "potentially impeachable conduct" by Trump. The materials must be disclosed by Wednesday. ([New York Times](https://www.nytimes.com/2019/10/25/us/politics/house-impeachment-subpoenas.html) / [Washington Post](https://www.washingtonpost.com/local/legal-issues/us-judge-orders-mueller-grand-jury-materials-released-to-house-judiciary-committee-in-impeachment-inquiry/2019/10/25/18e60278-f75d-11e9-a285-882a8e386a96_story.html) / [Wall Street Journal](https://www.wsj.com/articles/mueller-grand-jury-materials-must-be-transmitted-to-congress-judge-rules-11572034351) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/federal-judge-orders-justice-department-turn-over-mueller-grand-jury-n1072226) / [Politico](https://www.politico.com/news/2019/10/25/judge-rules-doj-must-turn-over-mueller-grand-jury-material-to-house-democrats-000299))

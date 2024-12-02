@@ -1,6 +1,8 @@
 ---
 title: Day 1061
 date: 2019-12-16 12:22:00 -08:00
+tags:
+- impeachment
 description: '"Betrayed the nation."'
 image: "/uploads/1061.jpg"
 todayInOneSentence: The House Judiciary Committee accused Trump of "multiple federal
@@ -10,8 +12,6 @@ todayInOneSentence: The House Judiciary Committee accused Trump of "multiple fed
   trial; the Trump administration plans to announce the withdrawal of roughly 4,000
   U.S. troops from Afghanistan; and Trump threatened to not participate in the presidential
   debates.
-tags:
-  - impeachment
 ---
 
 1/ **The House Judiciary Committee accused Trump of "multiple federal crimes" and argued that Trump "betrayed the nation by abusing his high office."** The 658-page report labels Trump's behavior "both constitutional and criminal in character" and recommends two articles of impeachment: abuse of power for holding up nearly $400 million worth of security aid and a White House meeting until Ukraine agreed to announce investigations into Biden and 2016 election interference, and obstruction of Congress, saying "Trump's obstruction of Congress does not befit the leader of a democratic society. It calls to mind the very claims of royal privilege against which our founders rebelled." The House is expected to vote Wednesday on whether to impeach Trump. ([New York Times](https://www.nytimes.com/2019/12/16/us/politics/judiciary-committee-impeachment.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-impeachment-live-updates/2019/12/16/3529da74-1ff1-11ea-bed5-880264cc91a9_story.html) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/house-judiciary-committee-publishes-full-impeachment-report-n1102531) / [Politico](https://www.politico.com/news/2019/12/16/judiciary-committee-impeachment-report-trump-committed-multiple-federal-crimes-086096))

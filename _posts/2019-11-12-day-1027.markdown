@@ -1,6 +1,8 @@
 ---
 title: Day 1027
 date: 2019-11-12 13:37:00 -08:00
+tags:
+- impeachment
 description: Another state of mind.
 image: "/uploads/1027.jpg"
 todayInOneSentence: Trump considered firing the intelligence community's inspector
@@ -11,8 +13,6 @@ todayInOneSentence: Trump considered firing the intelligence community's inspect
   compelled to testify; and Roger Stone first told one of Trump's top aides as early
   as spring 2016 that WikiLeaks would release materials that could damage Hillary
   Clinton.
-tags:
-  - impeachment
 ---
 
 1/ **Trump considered firing the intelligence community's inspector general for reporting the whistleblower's complaint to Congress after concluding it was credible**. Trump reportedly doesn't understand why Michael Atkinson shared the complaint, which outlined how Trump pressured Ukraine to investigate Trump's political rivals as he was withholding military aid from the country. Trump believes Atkinson, whom he appointed in 2017, has been disloyal. Trump publicly criticized James Comey, the former FBI director, and Jeff Sessions, the former attorney general, before he dismissed them for perceived disloyalty. ([New York Times](https://www.nytimes.com/2019/11/12/us/politics/trump-michael-atkinson-inspector-general.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 1456
 date: 2021-01-14 15:09:00 -08:00
+tags:
+- impeachment
 description: '"Self-pity mode."'
 image: "/uploads/1456.jpg"
 todayInOneSentence: Biden released a $1.9 trillion economic and health care rescue
@@ -12,8 +14,6 @@ todayInOneSentence: Biden released a $1.9 trillion economic and health care resc
   tours of the Capitol the day before Trump supporters stormed the building; and 2020
   was the second-hottest year in recorded history and the last decade was hotter on
   average than any time in at least 2,000 years.
-tags:
-  - impeachment
 ---
 
 1/ **Biden released a $1.9 trillion economic and health care rescue package** to deliver direct aid to families, businesses, and communities, and provide money for testing and vaccine distribution. The emergency relief plan includes $400 billion for fighting the coronavirus, more than $1 trillion in direct relief to families, including direct payments of $1,400 to most Americans, and $440 billion for aid to communities and businesses. Called the “American Rescue Plan,” the proposal would meet Biden’s goal of administering 100 million vaccines by the 100th day of his administration, and help advance his plans to reopen most schools by the spring. ([Washington Post](https://www.washingtonpost.com/us-policy/2021/01/14/biden-stimulus-covid-relief/) / [New York Times](https://www.nytimes.com/2021/01/14/business/biden-economy.html?action=click&module=Alert&pgtype=Homepage) / [Associated Press](https://apnews.com/article/joe-biden-coronavirus-action-plan-3d8d5841bb9098a81ad9452fb2619024) / [CNBC](https://www.cnbc.com/2021/01/14/biden-stimulus-package-details-checks-unemployment-minimum-wage.html) / [CNN](https://www.cnn.com/2021/01/14/politics/biden-economic-rescue-package-coronavirus-stimulus/index.html) / [Wall Street Journal](https://www.wsj.com/articles/biden-to-propose-1-9-trillion-covid-19-package-11610661977?mod=breakingnews))

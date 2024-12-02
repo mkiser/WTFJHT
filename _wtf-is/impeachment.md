@@ -17,17 +17,13 @@ The Constitution specifies “Treason, Bribery, or other high Crimes and Misdeme
 
 ### The Impeachment Process Explained
 
-**Initiation in the House of Representatives** 
-
-Impeachment begins when a member of the House introduces articles of impeachment, essentially formal charges against the official. These charges are then referred to the House Judiciary Committee for investigation.
+**Initiation in the House of Representatives**. Impeachment begins when a member of the House introduces articles of impeachment, essentially formal charges against the official. These charges are then referred to the House Judiciary Committee for investigation.
 
 1. **Committee Deliberation**: The Judiciary Committee examines evidence, conducts hearings, and votes on whether to recommend the articles of impeachment to the full House.
 
 2. **House Vote**: A simple majority vote is required for the impeachment process to proceed to the Senate.
 
-**Trial in the Senate**
-
-Once the House votes to impeach, the Senate holds a trial to determine the official’s guilt.
+**Trial in the Senate**. Once the House votes to impeach, the Senate holds a trial to determine the official’s guilt.
 
 1. **The Trial Process**: The Senate trial functions like a courtroom proceeding, with House members acting as prosecutors, the accused defending themselves, and Senators serving as jurors.
 2. **Chief Justice's Role**: If the President is on trial, the Chief Justice of the Supreme Court presides over the proceedings.
@@ -37,29 +33,19 @@ Once the House votes to impeach, the Senate holds a trial to determine the offic
 
 It’s important to note that impeachment does not necessarily mean removal from office. While the House may impeach an official, removal requires a conviction in the Senate, which is often more challenging to achieve.
 
-**Historical Context**
-
-Only three U.S. Presidents—Andrew Johnson, Bill Clinton, and Donald Trump—have been impeached, and none were removed from office following Senate trials. Richard Nixon, facing near-certain impeachment, resigned before the process could conclude.
+**Historical Context**. Only three U.S. Presidents—Andrew Johnson, Bill Clinton, and Donald Trump—have been impeached, and none were removed from office following Senate trials. Richard Nixon, facing near-certain impeachment, resigned before the process could conclude.
 
 ### The Political Impact of Impeachment
 
-**Lasting Stains on Legacy** 
+**Lasting Stains on Legacy**. Even without removal, impeachment often leaves an indelible mark on an official’s legacy. For instance, Bill Clinton's impeachment over the Monica Lewinsky scandal continues to color perceptions of his presidency.
 
-Even without removal, impeachment often leaves an indelible mark on an official’s legacy. For instance, Bill Clinton's impeachment over the Monica Lewinsky scandal continues to color perceptions of his presidency.
+**Polarization and Public Opinion**. Impeachment proceedings often deepen partisan divisions. Public opinion plays a significant role, with intense media coverage shaping narratives on both sides of the aisle.
 
-**Polarization and Public Opinion** 
-
-Impeachment proceedings often deepen partisan divisions. Public opinion plays a significant role, with intense media coverage shaping narratives on both sides of the aisle.
-
-**Why Is Impeachment Rare?**
-
-Impeachment is rare because it requires substantial political will and evidence of misconduct. In a divided Congress, reaching the necessary consensus is difficult, particularly in the Senate, where a two-thirds majority is a high bar.
+**Why Is Impeachment Rare?**. Impeachment is rare because it requires substantial political will and evidence of misconduct. In a divided Congress, reaching the necessary consensus is difficult, particularly in the Senate, where a two-thirds majority is a high bar.
 
 ### Modern-Day Impeachment: A Closer Look
 
-**The Trump Impeachments**
-
-Donald Trump is the only U.S. President to have been impeached twice.
+**The Trump Impeachments**. Donald Trump is the only U.S. President to have been impeached twice.
 
 1. **First Impeachment (2019)**: Centered on allegations of abuse of power and obstruction of Congress related to Ukraine.
 2. **Second Impeachment (2021)**: Focused on incitement of insurrection following the January 6 Capitol riot.

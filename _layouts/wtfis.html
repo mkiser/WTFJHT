@@ -31,20 +31,26 @@ layout: default
     {{ content | extlinks }}
  
 
- {% if page.tags %}
-    <div class="related-posts">
-      <h3>Related Articles</h3>
-      <ol>
-        {% for post in site.posts %}
-          {% if post.tags == page.tags %}
+{% if page.tags %}
+  <div class="related-posts">
+    <h3>Related Articles</h3>
+    <ol>
+      {% for post in site.posts %}
+        {% for tag in page.tags %}
+          {% if post.tags contains tag %}
+            {% assign excerpt = page.tag_excerpts[tag] %}
             <li>
-              <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></strong> - {{ post.date | date: "%B %d, %Y" }}
+              <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }} - {{ post.description }}</a></strong>
+              {% if excerpt %}
+                <div>{{ excerpt }}</div>
+              {% endif %}
             </li>
           {% endif %}
         {% endfor %}
-      </ol>
-    </div>
-  {% endif %}
+      {% endfor %}
+    </ol>
+  </div>
+{% endif %}
   </div>
 
   {% include_cached email.html %}

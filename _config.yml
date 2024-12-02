@@ -50,6 +50,7 @@ defaults:
     todayInOneSentence: ''
     author: Matt Kiser
     layout: post
+    tag_excerpts: ''
     seo:
       type: NewsArticle
       name: What The Fuck Just Happened Today?

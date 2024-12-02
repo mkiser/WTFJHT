@@ -30,11 +30,10 @@ layout: default
    
     {{ content | extlinks }}
  
- {{ page.tags }}
 
  {% if page.tags %}
     <div class="related-posts">
-      <h3>Related Articles Tagged "{{ page.tags }}"</h3>
+      <h3>Related Articles</h3>
       <ol>
         {% for post in site.posts %}
           {% if post.tags == page.tags %}
@@ -47,7 +46,6 @@ layout: default
     </div>
   {% endif %}
   </div>
-
 
   {% include_cached email.html %}
 

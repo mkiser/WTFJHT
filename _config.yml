@@ -33,7 +33,7 @@ defaults:
   values:
     title: ''
     description: ''
-    permalink: "/:title/"
+    permalink: "/wtf-is/:title/"
     image: ''
     author: Matt Kiser
     layout: wtfis

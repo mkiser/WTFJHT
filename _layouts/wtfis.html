@@ -41,7 +41,7 @@ layout: default
           {% if post.tags contains tag %}
             {% assign excerpt = post.tag_excerpts[tag] %}
             <li>
-              <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }} - {{ post.description }}</a></strong>
+              <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-m/%-d/%Y" }} - {{ post.description }}</a></strong>
               {% if excerpt %}
                 <div>{{ excerpt }}</div>
               {% endif %}

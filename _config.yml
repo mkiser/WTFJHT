@@ -30,6 +30,7 @@ defaults:
   values:
     title: ''
     description: ''
+    tags: ''
     permalink: "/wtf-is/:title/"
     image: ''
     author: Matt Kiser

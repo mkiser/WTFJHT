@@ -4,6 +4,14 @@ date: 2024-12-01 00:00:00 -08:00
 layout: wtfis
 ---
 
+Page Author: {{ page.author }}
+
+All Authors: 
+{% for author in site.authors %}
+  {{ author.title }}
+{% endfor %}
+
+
 Impeachment is a critical constitutional mechanism designed to hold high-ranking government officials, including the President, accountable for serious misconduct. It's a formal accusation process that begins in the U.S. House of Representatives and, if approved, proceeds to the Senate for a trial. While impeachment can lead to removal from office, the process itself is a rare and dramatic event, often leaving a lasting impact on the political landscape.
 
 ### Impeachment: A Constitutional Check on Power

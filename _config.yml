@@ -5,9 +5,6 @@ collections:
   authors:
     title: Authors
     output: true
-  guide:
-    title: Guides
-    output: false
   notes:
     title: Notes
     output: false

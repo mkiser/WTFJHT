@@ -17,6 +17,8 @@ todayInOneSentence: The House passed Biden's $1.9 trillion COVID-19 relief packa
   Trump attacked Biden's tenure as president in his first public appearance since
   leaving office, calling it "the most disastrous first month of any president in
   modern history."
+tags:
+  - impeachment
 ---
 
 1/ **The House passed Biden's $1.9 trillion COVID-19 relief package** in a 219 to 212 vote. The measure would provide $1,400 payments to millions of Americans, speed up vaccine distribution and testing, and extend unemployment aid through the summer. More than a dozen House Republicans skipped the vote, saying they can't attend "due to the ongoing public health emergency." Those members, however, were scheduled to speak at the Conservative Political Action Conference in Orlando. The Senate will take up the measure this week, which currently includes hiking the federal minimum wage to $15 an hour. The bill, however, is unlikely to receive support from Senate Republicans. Federal jobless aid expires on March 14.  ([Politico](https://www.politico.com/news/2021/02/26/house-biden-covid-relief-bill-passage-471733) / [CNN](https://www.cnn.com/2021/02/26/politics/cpac-house-republicans-proxy-voting/index.html) / [USA Today](https://www.usatoday.com/story/news/politics/2021/02/26/joe-bidens-covid-relief-bill-stimulus-checks-passes-house/6836187002/))

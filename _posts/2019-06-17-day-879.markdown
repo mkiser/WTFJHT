@@ -5,10 +5,12 @@ description: True cowards.
 image: "/uploads/879.jpg"
 todayInOneSentence: The Supreme Court ruled that criminal defendants may be prosecuted
   for the same offenses in both federal and state court; U.S. Cyber Command hacked
-  and deployed malware inside Russia's power grid without Trump's knowledge; Trump
+  and deployed malware inside Russia's power grid without Trump's knowledge; Trump
   accused The New York Times of committing a "virtual act of treason"; and Trump's
   re-election campaign fired several pollsters after leaked internal polling showed
   he trailed Joe Biden in 11 battleground states.
+tags:
+  - impeachment
 ---
 
 1/ **The Supreme Court ruled that criminal defendants may be prosecuted for the same offenses in both federal and state court** without running afoul of the Constitution's double jeopardy clause. The ruling could impact Trump's pardon power – which extends only to federal crimes – by leaving people he pardons subject to state prosecutions. Paul Manafort, for example, is facing charges in New York similar to the federal charges for which he has been tried. A presidential pardon could free Manafort from federal prison, but it would not protect him from being prosecuted in New York. ([New York Times](https://www.nytimes.com/2019/06/17/us/politics/supreme-court-double-jeopardy.html) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-declines-change-double-jeopardy-rule-case-manafort-implications-n1014771) / [CNN](https://www.cnn.com/2019/06/17/politics/supreme-court-double-jeopardy-clause-case/index.html) / [USA Today](https://www.usatoday.com/story/news/politics/2019/06/17/supreme-court-double-jeopardy-ruling-trump-associates/3268701002/))

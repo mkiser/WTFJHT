@@ -9,6 +9,8 @@ todayInOneSentence: Trump's legal team concluded its oral arguments; the Senate 
   he had concerns that Trump was granting personal favors to the autocratic leaders;
   Trump announced his plan for peace between Israel and the Palestinians; and 75%
   of voters say witnesses should be allowed to testify in Trump's impeachment trial.
+tags:
+  - impeachment
 ---
 
 ### ⚖️ Trump’s Senate Impeachment Trial:

@@ -11,6 +11,8 @@ todayInOneSentence: Trump warned "there will be a lot of death" and this will be
   interest rates for the Paycheck Protection Program; and Trump fired the intelligence
   community inspector general at the center of the Ukraine allegations that led to
   Trump's impeachment.
+tags:
+  - impeachment
 ---
 
 * ### Daily Damage Report.

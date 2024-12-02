@@ -11,6 +11,8 @@ todayInOneSentence: 'Deutsche Bank staff flagged multiple suspicious transaction
   for impeachment; and federal prosecutors in New York are going through tens of thousands
   of documents related to Trump''s record-setting $107 million inauguration. '
 author: Joe Amditis
+tags:
+  - impeachment
 ---
 
 1/ **Deutsche Bank staff identified multiple suspicious transactions made in 2016 and 2017 by legal entities controlled by Trump and Jared Kushner**. A group of anti-money-laundering specialists at Deutsche Bank recommended that the bank report the transactions to a federal financial-crimes watchdog. But executives at the bank, from which Trump has borrowed billions of dollars, rejected the advice of their staff and chose not to file the reports with the government. The nature of the transactions in question is still unclear, but at least some of them involved money flowing back and forth between overseas entities or individuals, something the bank employees flagged as suspicious. Deutsche Bank has denied the report that its executives ignored the recommendations of its own anti-money-laundering specialists. ([New York Times](https://www.nytimes.com/2019/05/19/business/deutsche-bank-trump-kushner.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-deutsche-bank-idUSKCN1SP0PB) / [Reuters](https://www.reuters.com/article/us-usa-trump-deutsche-bank-report-idUSKCN1SQ0F8))

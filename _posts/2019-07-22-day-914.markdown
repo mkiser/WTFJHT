@@ -10,6 +10,8 @@ todayInOneSentence: The Trump administration plans to use a fast-track deportati
   Trump doesn't think Mueller should be allowed to testify before Congress about his
   ties to Russia and possible obstruction of justice; and Mueller will offer his entire
   448-page report as his official statement when he testifies.
+tags:
+  - impeachment
 ---
 
 1/ **The Trump administration plans to use a fast-track deportation process to bypass immigration judges in order to quickly deport undocumented immigrants** who have illegally entered the U.S. within the past two years. Previously, the policy for "expedited removal" had been limited to migrants caught within 100 miles of the U.S. border who had been in the country for less than two weeks. The Department of Homeland Security defended the shift, saying the new plan will ease the backlogged immigration courts by allowing ICE to deport unauthorized immigrants without placing them in "timeconsuming removal proceedings." Expedited removals will take effect immediately. ([Washington Post](https://www.washingtonpost.com/immigration/trump-administration-to-expand-its-power-to-deport-undocumented-immigrants/2019/07/22/76d09bc4-ac8e-11e9-bc5c-e73b603e7f38_story.html) / [CBS News](https://www.cbsnews.com/news/ice-gets-expanded-power-to-swiftly-deport-more-undocumented-immigrants/) / [New York Times](https://www.nytimes.com/2019/07/22/us/politics/trump-immigration-deportations.html))

@@ -45,12 +45,27 @@ It’s important to note that impeachment does not necessarily mean removal from
 
 ### Modern-Day Impeachment: A Closer Look
 
-**The Trump Impeachments**. Donald Trump is the only U.S. President to have been impeached twice.
+**Trump's First Impeachment (2019)**: The 2019 impeachment of President Donald Trump was a historic and contentious process, stemming from allegations that he pressured Ukraine to investigate political rival Joe Biden while withholding critical military aid. This followed a whistleblower complaint, later corroborated by evidence, claiming Trump sought foreign interference in the upcoming presidential election.
 
-1. **First Impeachment (2019)**: Centered on allegations of abuse of power and obstruction of Congress related to Ukraine.
-2. **Second Impeachment (2021)**: Focused on incitement of insurrection following the January 6 Capitol riot.
+The inquiry, launched in September 2019 by House Democrats, unveiled a series of dramatic developments. A reconstructed transcript of Trump’s call with Ukrainian President Volodymyr Zelensky confirmed his request for a "favor," sparking outrage. Congressional committees subpoenaed key officials, including Secretary of State Mike Pompeo and Trump’s personal attorney, Rudy Giuliani. Testimonies from diplomats like Kurt Volker and Fiona Hill revealed a shadow foreign policy led by Giuliani to pressure Ukraine, bypassing traditional diplomatic channels.
 
-These events highlighted the deeply polarized nature of contemporary U.S. politics.
+The impeachment process was marked by fierce partisan battles. Trump and his allies dismissed the inquiry as a "witch hunt," refused to comply with subpoenas, and publicly attacked witnesses. House Democrats argued that Trump's actions constituted abuse of power and obstruction of Congress, framing the case as a defense of constitutional governance. The House of Representatives ultimately voted to impeach Trump in December 2019, making him the third president in U.S. history to face such a charge.
+
+The trial moved to the Senate in early 2020, where Trump was acquitted along largely party lines. Despite his acquittal, the impeachment left a lasting impact on American politics, deepening partisan divides and influencing the narrative of the 2020 presidential campaign.
+
+**Trump's Second Impeachment (2021)**: Donald Trump’s second impeachment in 2021 was unprecedented, driven by allegations of inciting the deadly January 6 Capitol insurrection. The process was rapid, reflecting the urgency of addressing the attack’s implications for American democracy.
+
+On January 6, Trump addressed a rally of supporters, repeating baseless claims of a stolen election and urging them to "fight like hell." Following his speech, rioters stormed the U.S. Capitol in an attempt to disrupt the certification of Joe Biden’s Electoral College victory. The chaos resulted in multiple deaths, injuries to police officers, and significant damage to the Capitol.
+
+In response, the House of Representatives swiftly drafted an article of impeachment for "incitement of insurrection." Just seven days after the attack, Trump was impeached for a historic second time, with 10 Republicans joining Democrats in the vote. The charge accused Trump of using his platform to incite violence and undermine the democratic process.
+
+The Senate trial, held in February 2021, was both emotional and divisive. House impeachment managers presented compelling evidence, including videos of the Capitol assault, Trump’s incendiary rhetoric, and his failure to act during the attack. The defense argued Trump’s speech was protected by the First Amendment and dismissed the proceedings as partisan.
+
+Key moments included a dramatic vote on whether to call witnesses, ultimately bypassed after securing a deal to admit statements into evidence. Seven Republican senators joined all Democrats in voting to convict Trump, marking the most bipartisan impeachment conviction in history. However, the 57-43 vote fell short of the two-thirds majority needed for conviction, leading to Trump’s acquittal.
+
+Despite avoiding conviction, the trial cemented Trump’s role in fomenting the January 6 violence and highlighted deep divisions in the country. His acquittal left him eligible to seek office again, fueling speculation about his political future while intensifying debates over accountability and democratic norms. The trial underscored the lasting impact of Trump’s presidency on American politics and the fragility of the nation’s democratic institutions.
+
+Donald Trump is the only U.S. President to have been impeached twice.
 
 ### The Broader Implications of Impeachment
 

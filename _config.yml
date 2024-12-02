@@ -26,7 +26,6 @@ collections:
   wtfis:
     title: WTFis
     output: false
-    outpit: false
 defaults:
 - scope:
     path: ''

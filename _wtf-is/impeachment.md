@@ -1,7 +1,8 @@
 ---
 title: WTF is Impeachment?
-Description: Learn about impeachment, its constitutional basis, process, and role in holding leaders like Trump accountable in U.S. politics.
 date: 2024-12-01 00:00:00 -08:00
+Description: Learn about impeachment, its constitutional basis, process, and role
+  in holding leaders like Trump accountable in U.S. politics.
 layout: wtfis
 ---
 

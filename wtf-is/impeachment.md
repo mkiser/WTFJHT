@@ -1,7 +1,7 @@
 ---
 title: WTF is Impeachment?
 date: 2024-12-01 00:00:00 -08:00
-layout: post
+layout: wtfis
 ---
 
 Impeachment is a critical constitutional mechanism designed to hold high-ranking government officials, including the President, accountable for serious misconduct. It's a formal accusation process that begins in the U.S. House of Representatives and, if approved, proceeds to the Senate for a trial. While impeachment can lead to removal from office, the process itself is a rare and dramatic event, often leaving a lasting impact on the political landscape.
@@ -25,6 +25,7 @@ Impeachment begins when a member of the House introduces articles of impeachment
 2. **House Vote**: A simple majority vote is required for the impeachment process to proceed to the Senate.
 
 **Trial in the Senate**
+
 Once the House votes to impeach, the Senate holds a trial to determine the official’s guilt.
 
 1. **The Trial Process**: The Senate trial functions like a courtroom proceeding, with House members acting as prosecutors, the accused defending themselves, and Senators serving as jurors.
@@ -61,6 +62,7 @@ Donald Trump is the only U.S. President to have been impeached twice.
 
 1. **First Impeachment (2019)**: Centered on allegations of abuse of power and obstruction of Congress related to Ukraine.
 2. **Second Impeachment (2021)**: Focused on incitement of insurrection following the January 6 Capitol riot.
+
 These events highlighted the deeply polarized nature of contemporary U.S. politics.
 
 ### The Broader Implications of Impeachment

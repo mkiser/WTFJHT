@@ -25,7 +25,7 @@ collections:
     output: false
   wtfis:
     title: WTFis
-    output: false
+    output: true
 defaults:
 - scope:
     path: ''

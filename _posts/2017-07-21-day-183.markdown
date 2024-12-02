@@ -13,8 +13,6 @@ image: "/uploads/183.jpg"
 
 * **Scaramucci once called Trump a "hack politician" and said his rhetoric was "anti-American."** In August 2015, then-candidate Trump railed against “hedge-fund guys paying nothing” in taxes. Scaramucci shot back, calling him “another hack politician,” whose remarks “anti-American and divisive.” ([Time](http://time.com/4868758/anthony-scaramucci-president-donald-trump-commmunications-director/))
 
-* {% youtube KZOeqL2ZSWA %}
-
 4/ **Sean Spicer resigned as the White House Press Secretary**, telling Trump he "vehemently disagreed" with the appointment of New York financier Anthony Scaramucci as communications director. After offering the job to Scaramucci, Trump asked Spicer to stay on. Spicer declined, telling Trump he believed the appointment was a major mistake. Spicer was largely left in the dark, unaware of Trump's intention to hire Scaramucci until this morning, as were Reince Priebus and Steve Bannon, both of whom fiercely opposed Scaramucci's hire. Jared Kushner and Ivanka Trump encouraged the move. Sarah Huckabee Sanders was named White House press secretary. ([New York Times](https://www.nytimes.com/2017/07/21/us/politics/sean-spicer-resigns-as-white-house-press-secretary.html) / [CNN](http://www.cnn.com/2017/07/21/politics/sean-spicer-resigns-anthony-scaramucci/index.html) / [ABC News](http://abcnews.go.com/Politics/sarah-huckabee-sanders-named-press-secretary-sean-spicer/story?id=48778644) / [Politico](http://www.politico.com/story/2017/07/21/white-house-press-briefing-to-start-soon-240812))
 
 {% twitter https://twitter.com/PressSec/status/888454528550490114 %}

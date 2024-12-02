@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+{% include_cached email.html %}
+<article class="post">
+ {% if site.is_away_mode == true %}
+ {% include away_mode.html %}
+ {% endif %}
+ <h1 class="post-title">
+  <a href="{{ site.baseurl }}{{ page.url }}">
+    {{ page.title }}</a>
+  </h1>
+
+  {% assign author = site.authors | where: 'title', page.author | first %}
+  {% if author and author.title == "Matt Kiser" %}
+  <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
+  {% elsif author %}
+  <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
+  {% endif %}
+  <div class="post-date">
+    <time datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
+    </time>
+    <div>
+      <small>
+        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
+      </small>
+    </div>
+  </div> 
+
+  <div class="post-content">
+   
+    {{ content | extlinks }}
+
+  </div>
+  {% include_cached email.html %}
+
+  {% include social.html %}
+
+  {% include_cached pledge.html %}
+
+</article>

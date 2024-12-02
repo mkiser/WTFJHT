@@ -30,19 +30,23 @@ layout: default
    
     {{ content | extlinks }}
  
-{{ post.tags | inspect }}
-{{ tag | inspect }}
-tacos
-{% if post.tags contains "impeachment" %}
-  Match found!
-{% endif %}
-more tacos
+
+
 {% if page.tags %}
   <div class="related-posts">
     <h3>Related Articles</h3>
     <ol>
       {% for post in site.posts %}
+      ta{{ post.tags | inspect }}cos
+      
+        {% if post.tags contains "impeachment" %}
+          Match found!
+        {% endif %}
+
         {% for tag in page.tags %}
+        
+        ta{{ tag | inspect }}cos
+
           {% if post.tags contains tag %}
             {% assign excerpt = page.tag_excerpts[tag] %}
             <li>

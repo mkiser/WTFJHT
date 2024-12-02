@@ -23,13 +23,13 @@ collections:
   uploads:
     title: Uploads
     output: false
-  wtf-is:
+  wtfs:
     title: WTFis
     output: true
 defaults:
 - scope:
     path: ''
-    type: wtf-is
+    type: wtfs
   values:
     title: ''
     description: ''

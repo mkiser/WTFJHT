@@ -1,10 +1,11 @@
 ---
 title: WTF is Impeachment?
 date: 2024-12-01 00:00:00 -08:00
+tags:
+- impeachment
 description: Learn about impeachment, its constitutional basis, process, and role
   in holding leaders like Trump accountable in U.S. politics.
 layout: wtfis
-tag: impeachment
 ---
 
 Impeachment is a critical constitutional mechanism designed to hold high-ranking government officials, including the President, accountable for serious misconduct. It's a formal accusation process that begins in the U.S. House of Representatives and, if approved, proceeds to the Senate for a trial. While impeachment can lead to removal from office, the process itself is a rare and dramatic event, often leaving a lasting impact on the political landscape.

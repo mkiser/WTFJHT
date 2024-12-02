@@ -107,3 +107,15 @@ Impeachment is more than a legal process; it is a reflection of a nation's commi
 ### Conclusion
 
 Impeachment serves as a vital check on power, embodying the principles of accountability and the rule of law. While rare, its dramatic implications make it one of the most significant constitutional tools in U.S. governance. As history has shown, impeachment is not just about legal procedures—it is a reflection of the nation's political and moral compass.
+
+
+<ol>
+  {% for post in site.posts %}
+    {% if post.tags contains "impeachment" %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a> - {{ post.date | date: "%B %d, %Y" }}
+      </li>
+    {% endif %}
+  {% endfor %}
+</ol>
+

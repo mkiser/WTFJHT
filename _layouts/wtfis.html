@@ -33,15 +33,13 @@ layout: default
 
 
 {% if page.tags %}
-{{ page.tags }}
-
   <div class="related-posts">
     <h3>Related Articles</h3>
     <ol>
       {% for post in site.posts %}
         {% for tag in page.tags %}
           {% if post.tags contains tag %}
-            {% assign excerpt = page.tag_excerpts[tag] %}
+            {% assign excerpt = post.tag_excerpts[tag] %}
             <li>
               <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }} - {{ post.description }}</a></strong>
               {% if excerpt %}
@@ -54,6 +52,8 @@ layout: default
     </ol>
   </div>
 {% endif %}
+
+
   </div>
 
   {% include_cached email.html %}

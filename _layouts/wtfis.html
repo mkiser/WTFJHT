@@ -30,12 +30,12 @@ layout: default
    
     {{ content | extlinks }}
  
- {% if page.tag %}
+ {% if page.tags %}
     <div class="related-posts">
-      <h3>Related Articles Tagged "{{ page.tag }}"</h3>
+      <h3>Related Articles Tagged "{{ page.tags }}"</h3>
       <ol>
         {% for post in site.posts %}
-          {% if post.tags contains page.tag %}
+          {% if post.tags contains page.tags %}
             <li>
               <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></strong> - {{ post.date | date: "%B %d, %Y" }}
             </li>

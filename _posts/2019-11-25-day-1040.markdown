@@ -1,6 +1,8 @@
 ---
 title: Day 1040
 date: 2019-11-25 10:16:00 -08:00
+tags:
+- impeachment
 description: Without reason.
 image: "/uploads/1040.jpg"
 todayInOneSentence: A federal judge ruled that the former White House counsel must
@@ -11,8 +13,6 @@ todayInOneSentence: A federal judge ruled that the former White House counsel mu
   for information about Rudy Giuliani's consulting firm; and Trump ordered Defense
   Secretary Mark Esper to allow a Navy SEAL accused of war crimes to retire without
   losing his elite status.
-tags:
-  - impeachment
 ---
 
 1/ **A federal judge ruled that the former White House counsel must testify before impeachment investigators about Trump's efforts to obstruct the Mueller investigation**. U.S. District Judge Ketanji Brown Jackson found no basis for Trump's claim that Don McGahn, who spent 30 hours talking to special counsel Robert Mueller's team, is "absolutely immune from compelled congressional testimony." The ruling could also have implications for former national security adviser John Bolton and Bolton's deputy, Charles Kupperman, were ordered not to appear by the White House. ([New York Times](https://www.nytimes.com/2019/11/25/us/politics/mcgahn-testimony-ruling.html) / [Washington Post](https://www.washingtonpost.com/local/legal-issues/former-white-house-counsel-donald-mcgahn-must-comply-with-house-subpoena-judge-rules/2019/11/25/6de26cc8-018d-11ea-8bab-0fc209e065a8_story.html) / [Politico](https://www.politico.com/news/2019/11/25/mueller-star-witness-must-testify-to-congress-judge-rules-073622) / [NPR](https://www.npr.org/2019/11/25/782705643/federal-judge-rules-that-mcgahn-must-testify-delivering-blow-to-white-house) / [Wall Street Journal](https://www.wsj.com/articles/judge-rejects-white-house-claims-of-immunity-for-close-aides-11574722684))

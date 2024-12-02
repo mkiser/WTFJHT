@@ -1,6 +1,8 @@
 ---
 title: Day 1013
 date: 2019-10-29 10:21:00 -07:00
+tags:
+- impeachment
 description: '"Extremely, extremely, extremely disturbing."'
 image: "/uploads/1013.jpg"
 todayInOneSentence: House Democrats released their impeachment resolution; the top
@@ -10,8 +12,6 @@ todayInOneSentence: House Democrats released their impeachment resolution; the t
   to unmask the anonymous whistleblower at the heart of the House's impeachment inquiry;
   and the House Judiciary Committee argued that it has an "urgent" need for access
   to Robert Mueller's grand jury secrets.
-tags:
-  - impeachment
 ---
 
 1/ **House Democrats released their impeachment resolution**, which outlines the next steps by the six committees that are pursuing investigations of the Trump administration. The resolution doesn't limit the scope of their ongoing probes and does not set a timeline for potential articles of impeachment. Under the proposed rules, the House Intelligence Committee will take the lead on planning public hearings as the inquiry advances and establish rules for Republicans to hear testimony from certain witnesses, but that those requests will be declined or approved by Adam Schiff. The House plans to vote on the resolution Thursday. ([New York Times](https://www.nytimes.com/2019/10/29/us/politics/trump-impeachment.html#link-69109e29) / [The Guardian](https://www.theguardian.com/us-news/live/2019/oct/29/trump-news-today-live-impeachment-inquiry-alexander-vindman-ukraine-call-latest-updates?page=with:block-5db88db58f08c428d8932d8f#block-5db88db58f08c428d8932d8f) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-10-29/officer-on-trump-call-arrives-at-hearing-impeachment-update?srnd=politics-vp))

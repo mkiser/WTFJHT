@@ -1,6 +1,8 @@
 ---
 title: Day 970
 date: 2019-09-16 10:25:00 -07:00
+tags:
+- impeachment
 description: Locked and loaded.
 image: "/uploads/970.jpg"
 todayInOneSentence: The Manhattan District Attorney subpoenaed eight years of Trump's
@@ -10,8 +12,6 @@ todayInOneSentence: The Manhattan District Attorney subpoenaed eight years of Tr
   story about Brett Kavanaugh in college echoes Deborah Ramirez's allegation that
   he pulled down his pants at a party and thrust his penis at her; and Trump threatened
   military action in response to an attack on Saudi Arabian oil facilities.
-tags:
-  - impeachment
 ---
 
 1/ **The Manhattan District Attorney subpoenaed eight years of Trump's "personal and corporate tax returns"** as part of its investigation into hush money payments made to Stormy Daniels during the 2016 election. Trump and his company reimbursed Michael Cohen for the $130,000 Cohen he paid Stormy Daniels just before the election to buy her silence about an affair she had with Trump. Cyrus Vance's office is exploring whether the reimbursements violated New York state laws and whether the Trump Organization falsely accounted for the reimbursements as a legal expense. The subpoena was served last month to Mazars USA, which prepares Trump's tax returns. ([New York Times](https://www.nytimes.com/2019/09/16/nyregion/trump-tax-returns-cy-vance.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/manhattan-da-subpoenas-trump-s-tax-returns-probe-hush-money-n1055046) / [CNBC](https://www.cnbc.com/2019/09/16/eight-years-of-trumps-tax-returns-subpoenaed-by-manhattan-da-vance.html) / [Axios](https://www.axios.com/trump-tax-returns-hush-money-manhattan-prosecutors-fa98271e-a8fe-4b76-841a-6c9ae8a8c5d0.html))

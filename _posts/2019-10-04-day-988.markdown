@@ -1,6 +1,8 @@
 ---
 title: Day 988
 date: 2019-10-04 09:49:00 -07:00
+tags:
+- impeachment
 description: Smoking texts.
 image: "/uploads/988.jpg"
 todayInOneSentence: Text messages reveal how two U.S. ambassadors coordinated with
@@ -13,8 +15,6 @@ todayInOneSentence: Text messages reveal how two U.S. ambassadors coordinated wi
   for Trump's tax returns; Trump blocked Sen. Ron Johnson in August from telling Ukraine's
   president that U.S. aid was on its way; and Iranian hackers targeted Trump's re-election
   campaign.
-tags:
-  - impeachment
 ---
 
 1/ **Text messages reveal how two U.S. ambassadors coordinated with Rudy Giuliani and a top aide to Ukrainian President Volodymyr Zelensky to leverage a potential White House meeting between Trump and Zelensky into persuading Kiev to publicly commit to investigating Joe Biden**. The House Intelligence Committee released the documents and text messages provided by Kurt Volker, a former special envoy to Ukraine, which show Volker and U.S. Ambassador to the European Union Gordon Sondland repeatedly stressing that a White House meeting depended on getting the Ukrainians to agree to the exact language that Zelensky would use in announcing an investigation. In August, Volker proposed to Sondland that they have Zelensky cite "alleged involvement of some Ukrainian politicians" in interference in U.S. elections when announcing an investigation. Democrats say the texts are clear evidence that Trump conditioned normal bilateral relations with Ukraine on that country first agreeing "to launch politically motivated investigations." ([New York Times](https://www.nytimes.com/2019/10/04/us/politics/quid-pro-quo-trump.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/this-is-when-the-inquiry-gets-real-former-us-special-envoy-to-ukraine-testifies-in-impeachment-probe-today/2019/10/03/51365c1b-5a01-4e44-872a-299b67949a5e_story.html) / [Wall Street Journal](https://www.wsj.com/articles/trump-administration-used-potential-meeting-to-pressure-ukraine-on-biden-texts-indicate-11570205661) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/u-s-ambassadors-pushed-ukraine-investigate-condition-white-house-visit-n1062306) / [Reuters](https://www.reuters.com/article/us-usa-trump-whistleblower-committees-idUSKBN1WJ0CS) / [USA Today](https://www.usatoday.com/story/news/politics/2019/10/03/impeachment-democrats-grill-kurt-volker-trumps-ex-envoy-ukraine/3851356002/))

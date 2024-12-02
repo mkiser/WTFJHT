@@ -1,6 +1,8 @@
 ---
 title: Day 1085
 date: 2020-01-09 10:13:00 -08:00
+tags:
+- impeachment
 description: Reckless.
 image: "/uploads/1085.jpg"
 todayInOneSentence: Nancy Pelosi said she would send the articles of impeachment to
@@ -10,8 +12,6 @@ todayInOneSentence: Nancy Pelosi said she would send the articles of impeachment
   vote to advance a war powers resolution that would force Trump to go to Congress
   for authorization before taking further military action against Iran; and 52% of
   American called Trump's behavior with Iran "reckless."
-tags:
-  - impeachment
 ---
 
 1/ **Speaker Nancy Pelosi said she would send the articles of impeachment to the Senate "when I'm ready – and that will probably be soon."** Pelosi's comments came after Democrats started pushing to end the holdout, believing that Mitch McConnell will never relent on the rules for the trial. Pelosi, however, reiterated her demand to McConnell that he first detail the rules for a Senate trial so she could choose a team of "impeachment managers," who will prosecute the House's abuse of power and obstruction of Congress case, saying "Is that too much to ask?" McConnell, meanwhile, has signed onto a resolution seeking to change the rules of the Senate to dismiss articles of impeachment if they are not transmitted within 25 days of their approval – in this case, Jan. 12. ([New York Times](https://www.nytimes.com/2020/01/09/us/politics/impeachment-articles.html) / [Politico](https://www.politico.com/news/2020/01/09/pelosi-not-budging-send-impeachment-articles-096698) / [Axios](https://www.axios.com/mcconnell-senate-rules-articles-impeachment-hawley-a0767d39-0421-48d2-9cc0-d75aa1256e82.html) / [CNN](https://www.cnn.com/2020/01/09/politics/pelosi-impeachment-plans/index.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-impeachment-live-updates/2020/01/09/4e59f47e-32cb-11ea-9313-6cba89b1b9fb_story.html) / [Wall Street Journal](https://www.wsj.com/articles/pelosi-faces-new-call-to-send-impeachment-articles-to-senate-11578582348) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/top-house-democrat-time-send-articles-impeachment-senate-n1112831))

@@ -1,6 +1,8 @@
 ---
 title: Day 1049
 date: 2019-12-04 13:18:00 -08:00
+tags:
+- impeachment
 description: '"Are you ready?"'
 image: "/uploads/1049.jpg"
 todayInOneSentence: Trump committed impeachable offenses, according to three constitutional
@@ -8,8 +10,6 @@ todayInOneSentence: Trump committed impeachable offenses, according to three con
   hearing; House Judiciary Committee Chairman Jerry Nadler suggested that Democrats
   could link Mueller's findings to the House's impeachment inquiry; Trump called the
   House Intelligence Committee's impeachment report "a joke."
-tags:
-  - impeachment
 ---
 
 1/ **Trump committed impeachable offenses, according to three constitutional scholars who testified during the House Judiciary Committee's first impeachment hearing** into Trump's efforts to pressure Ukraine for political gain. Noah Feldman, a professor at Harvard, Michael Gerhardt, a professor at the University of North Carolina, and Pamela Karlan, a Stanford law professor, all agreed that Trump was guilty of "high crimes and misdemeanors" for soliciting foreign assistance and withholding a White House meeting and military assistance from Ukraine as leverage for political favors. Gerhardt added that Trump's actions toward Ukraine were worse than Richard Nixon's misconduct during Watergate. Karlan also told lawmakers that Trump's attempt to "strong arm a foreign leader" would not be considered politics as usual. Feldman, Gerhardt, and Karlan were invited to testify by the Democrats. Republicans also tapped their own law professor, Jonathan Turley, to testify, who suggested that the impeachment case is "slipshod" and premature. Turley also disagreed that Trump conditioning a White House meeting and releasing military aid on whether Ukraine would announce the investigations he wanted amounted to a bribe. ([New York Times](https://www.nytimes.com/2019/12/04/us/politics/trump-impeachment.html) / [Washington Post](https://www.washingtonpost.com/politics/impeachment-hearings-live-updates/2019/12/04/b7cc7b4e-1682-11ea-a659-7d69641c6ff7_story.html) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/founders-would-be-horrified-legal-scholars-testify-trump-should-be-n1095631))

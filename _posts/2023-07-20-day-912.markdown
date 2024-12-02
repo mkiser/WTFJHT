@@ -1,6 +1,8 @@
 ---
 title: Day 912
 date: 2023-07-20 14:53:00 -07:00
+tags:
+- impeachment
 description: '"Personal benefit."'
 image: "/uploads/day-912-biden.jpg"
 todayInOneSentence: The Senate Judiciary Committee advanced legislation that would
@@ -14,8 +16,6 @@ todayInOneSentence: The Senate Judiciary Committee advanced legislation that wou
   of standards for how Black history should be taught to middle school students, including
   instruction on how slavery gave Black people a “personal benefit” because they “developed
   skills.”
-tags:
-  - impeachment
 ---
 
 1/ **The Senate Judiciary Committee advanced legislation that would require the U.S. Supreme Court to adopt a binding code of ethics**. The legislation would require the Supreme Court to adopt and adhere to ethics and disclosure requirements equivalent to those applied to members of Congress and establish a process for enforcing them. The vote was 11-10 along party lines, with Republicans claiming that the bill could “destroy” the court. The legislation, however, is not expected to get the 60 votes required to advance in the Senate – and even if it did, it has little chance of being considered in the Republican-controlled House. The move follows reports that Justices [Clarence Thomas](https://whatthefuckjusthappenedtoday.com/2023/04/06/day-807/#1-supreme-court-justice-clarence-tho) and [Samuel Alito](https://whatthefuckjusthappenedtoday.com/2023/06/26/day-888/) failed to disclose luxury travel and accommodations provided by wealthy businessmen and political donors, and that Justice Sonia Sotomayor used taxpayer-funded court staff to help sell her books. ([Associated Press](https://apnews.com/article/supreme-court-ethics-senate-clarence-thomas-3e34958536ce4fa464b6ff8cc1d71260) / [ABC News](https://abcnews.go.com/Politics/supreme-court-faces-senate-ethics-bill-amid-justices/story?id=101496678) / [New York Times](https://www.nytimes.com/2023/07/20/us/politics/senate-supreme-court-ethics-rules.html?action=click&module=Well&pgtype=Homepage&section=US%20Politics) / [CNN](https://www.cnn.com/2023/07/20/politics/supreme-court-ethics-bill-senate-judiciary/index.html) / [Politico](https://www.politico.com/news/2023/07/20/supreme-court-ethics-congress-00107413) / [Washington Post](https://www.washingtonpost.com/politics/2023/07/20/supreme-court-ethics/))

@@ -1,6 +1,8 @@
 ---
 title: Day 1107
 date: 2020-01-31 16:41:00 -08:00
+tags:
+- impeachment
 description: '"A grand tragedy."'
 image: "/uploads/1107.jpg"
 todayInOneSentence: 'The Senate voted to block new new witnesses in Trump''s impeachment
@@ -9,8 +11,6 @@ todayInOneSentence: 'The Senate voted to block new new witnesses in Trump''s imp
   arguments will be held Monday; Trump will deliver his State of the Union Address
   on Tuesday; and the Senate will vote at 4 p.m. Wednesday on the two impeachment
   charges against Trump for abuse of power and obstruction of Congress. '
-tags:
-  - impeachment
 ---
 
 ### ⚖️ Trump’s Senate Impeachment Trial:

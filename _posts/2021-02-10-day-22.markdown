@@ -1,6 +1,8 @@
 ---
 title: Day 22
 date: 2021-02-10 15:09:00 -08:00
+tags:
+- impeachment
 description: '"Inciter in chief."'
 image: "/uploads/trump-impeachment-day-2.jpg"
 todayInOneSentence: House Democrats opened their impeachment case against Trump arguing
@@ -10,8 +12,6 @@ todayInOneSentence: House Democrats opened their impeachment case against Trump 
   the first day of his second impeachment trial; Georgia prosecutors opened a criminal
   investigation into Trump’s efforts to overturn the state's 2020 election result;
   and the CDC recommends double masking to reduce exposure to the coronavirus.
-tags:
-  - impeachment
 ---
 
 ### ⚖️ Trump’s Second Senate Impeachment Trial: Day 2.

@@ -1,6 +1,8 @@
 ---
 title: Day 1168
 date: 2020-04-01 15:30:00 -07:00
+tags:
+- impeachment
 description: '"A very heavy price."'
 image: "/uploads/1168.jpg"
 todayInOneSentence: The national emergency stockpile of respirator masks, gloves,
@@ -11,8 +13,6 @@ todayInOneSentence: The national emergency stockpile of respirator masks, gloves
   both claimed that the Senate impeachment trial "diverted the attention of the government"
   from the coronavirus; and White House economists published a study in September
   that warned a pandemic could kill a half million Americans and devastate the economy.
-tags:
-  - impeachment
 ---
 
 * **Daily Damage Report.**

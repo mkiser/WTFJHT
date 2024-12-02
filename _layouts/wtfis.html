@@ -37,12 +37,6 @@ layout: default
       <h3>Related Articles Tagged "{{ page.tags }}"</h3>
       <ol>
         {% for post in site.posts %}
-          {% if post.tags contains page.tags %}
-            <li>
-              <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></strong> - {{ post.date | date: "%B %d, %Y" }}
-            </li>
-          {% endif %}
-          tacos
           {% if post.tags == page.tags %}
             <li>
               <strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></strong> - {{ post.date | date: "%B %d, %Y" }}

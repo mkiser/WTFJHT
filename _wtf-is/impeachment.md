@@ -4,6 +4,7 @@ date: 2024-12-01 00:00:00 -08:00
 description: Learn about impeachment, its constitutional basis, process, and role
   in holding leaders like Trump accountable in U.S. politics.
 layout: wtfis
+tag: impeachment
 ---
 
 Impeachment is a critical constitutional mechanism designed to hold high-ranking government officials, including the President, accountable for serious misconduct. It's a formal accusation process that begins in the U.S. House of Representatives and, if approved, proceeds to the Senate for a trial. While impeachment can lead to removal from office, the process itself is a rare and dramatic event, often leaving a lasting impact on the political landscape.
@@ -107,15 +108,3 @@ Impeachment is more than a legal process; it is a reflection of a nation's commi
 ### Conclusion
 
 Impeachment serves as a vital check on power, embodying the principles of accountability and the rule of law. While rare, its dramatic implications make it one of the most significant constitutional tools in U.S. governance. As history has shown, impeachment is not just about legal procedures—it is a reflection of the nation's political and moral compass.
-
-
-<ol>
-  {% for post in site.posts %}
-    {% if post.tags contains "impeachment" %}
-      <li>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a> - {{ post.date | date: "%B %d, %Y" }}
-      </li>
-    {% endif %}
-  {% endfor %}
-</ol>
-

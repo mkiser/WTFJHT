@@ -1,6 +1,6 @@
 ---
 title: WTF is Impeachment?
-date: 2024-12-01 00:00:00 -08:00
+date: 2024-12-02 00:00:00 -08:00
 tags:
 - impeachment
 description: Learn about impeachment, its constitutional basis, process, and role

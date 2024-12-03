@@ -3,6 +3,10 @@ title: Day 1413
 date: 2024-12-02 15:02:00 -08:00
 description: '"Enough is enough."'
 image: "/uploads/day-1413-biden-harris-trump.jpg"
+tags:
+- pardon
+tag_excerpts: Biden issued a “full and unconditional pardon” for his son Hunter despite repeatedly saying he wouldn’t interfere in his son’s case or use his presidential powers to protect him.
+  pardon:
 todayInOneSentence: Biden issued a “full and unconditional pardon” for his son Hunter
   despite repeatedly saying he wouldn’t interfere in his son’s case or use his presidential
   powers to protect him; Trump nominated Kash Patel as FBI director, a loyalist who

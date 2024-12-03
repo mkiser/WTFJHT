@@ -3,6 +3,10 @@ title: Day 1309
 date: 2020-08-20 12:37:00 -07:00
 description: '"Donald Trump hasn''t grown into the job because he can''t."'
 image: "/uploads/1309.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: The National Susan B. Anthony Museum and House declined Trump’s pardon of the late women’s suffrage leader, who was charged in 1872 with voting illegally. The museum noted that “If one wants to honor Susan B. Anthony today, a clear stance against any form of voter suppression would be welcome.” 
 todayInOneSentence: More than 1.1 million people filed for unemployment last week;
   a federal judge rejected Trump’s effort to block the Manhattan district attorney
   from obtaining eight years of his tax returns; Stephen Bannon and three other men

@@ -3,6 +3,10 @@ title: Day 1415
 date: 2020-12-04 13:45:00 -08:00
 description: '"Grim."'
 image: "/uploads/1415.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: Trump could preemptively pardon as many as 20 aides and associates before leaving office. Republicans, however, say offering legal reprieves to his friends and family members would be unprecedented, could tarnish, his legacy, and harm a 2024 campaign.
 todayInOneSentence: Biden will ask all Americans to wear masks for 100 days after
   he is inaugurated; the U.S. economy added 245,000 jobs in November; Trump could
   preemptively pardon as many as 20 aides and associates before leaving office; Trump’s

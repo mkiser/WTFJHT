@@ -3,6 +3,10 @@ title: Day 379
 date: 2022-02-02 14:37:00 -08:00
 description: '"Ambitious but doable."'
 image: "/uploads/day-379-biden.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: A member of the House Jan. 6 committee accused Trump of tampering with witnesses by promising to pardon those involved in the attack if reelected in 2024.
 todayInOneSentence: Biden directed the Pentagon to deploy more than 3,000 American
   troops to Eastern Europe; the EPA urged Postmaster General Louis DeJoy to reconsider
   his plan to spend up to $11.3 billion on as many as 165,000 new mostly gas-powered

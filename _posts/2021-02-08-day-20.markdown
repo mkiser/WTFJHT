@@ -3,8 +3,13 @@ title: Day 20
 date: 2021-02-08 14:03:00 -08:00
 tags:
 - impeachment
+- pardon
+tag_excerpts:
+  pardon: Paul Manafort can’t be prosecuted in New York after Trump’s pardon. 
+  impeachment: Trump’s attorneys argued that the insurrection at the Capitol was perpetrated by people “of their own accord and for their own reasons” and not because Trump called on them to march on Congress and “fight like hell.”
 description: '"More dire than we thought."'
 image: "/uploads/biden-harris-covid-day-20.jpg"
+
 todayInOneSentence: The coronavirus variant first found in the U.K. is spreading rapidly
   across the U.S.; the House asked the Biden administration to release documents related
   to the Trump administration's response to the coronavirus pandemic; congressional

@@ -3,6 +3,10 @@ title: Day 1412
 date: 2020-12-01 14:25:00 -08:00
 description: '"We just don’t have time to waste time."'
 image: "/uploads/1412.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: Trump and Rudy Giuliani discussed a pardon preempting any charge or conviction before Trump leaves office.
 todayInOneSentence: Attorney General William Barr said the Justice Department has
   “not seen fraud on a scale that could have affected a different outcome in the election”;
   Trump’s political operation has raised between $150 million and $170 million since

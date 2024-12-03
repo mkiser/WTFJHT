@@ -3,6 +3,10 @@ title: Day 1
 date: 2021-01-20 14:04:00 -08:00
 description: '"Democracy has prevailed."'
 image: "/uploads/biden-harris-day-1.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: Trump granted clemency to 143 people in his final hours as president, wiping away the convictions and prison sentences for a host of corrupt politicians and business executives. In total, Trump issued a batch of 73 pardons and 70 commutations, including a pardon for Stephen Bannon, his former White House chief strategist who was charged with defrauding donors to a private fundraising effort for construction of a wall on the U.S.-Mexico border, and Elliott Broidy, who pleaded guilty in October to acting as an unregistered foreign agent and lobbying the Trump administration on behalf of foreign interests.
 todayInOneSentence: Biden was sworn as the 46th president of the United States, moments
   after Kamala Harris took her oath of office; Trump, who refused to concede, never
   congratulated Biden and skipped his successor's swearing-in, held a small, socially

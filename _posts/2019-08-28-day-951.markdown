@@ -3,6 +3,10 @@ title: Day 951
 date: 2019-08-28 08:31:00 -07:00
 description: Dread.
 image: "/uploads/951.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: Trump promised to pardon any official who breaks the law in order to get his border wall built by the 2020 election. “Don’t worry, I’ll pardon you,” Trump reportedly told aides.
 todayInOneSentence: Deutsche Bank told a federal appeals court that is has some Trump-related
   tax returns; Trump promised to pardon any official who breaks the law in order to
   get his border wall built by the 2020 election; children born to some U.S. military

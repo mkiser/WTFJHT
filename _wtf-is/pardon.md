@@ -67,6 +67,8 @@ During his tenure from 2017 to 2021, President Trump issued several high-profile
 
 5. **[Paul Manafort](https://whatthefuckjusthappenedtoday.com/2020/12/29/day-1440/#5-trump-issued-26-new-pardons-includ)**: Trump’s former campaign chairman was convicted of financial crimes related to his work in Ukraine. He received a pardon in December 2020.  
 
+6. **[Dinesh D’Souza](https://whatthefuckjusthappenedtoday.com/2018/05/31/day-497/#5-trump-offered-a-full-pardon-to-con)**: D’Souza illegally used straw donors to funnel additional money into the campaign of a Republican Senate candidate in 2012. He pleaded guilty to the charges in 2014.
+
 ---
 
 ### **Notable Pardons by President Joe Biden**  

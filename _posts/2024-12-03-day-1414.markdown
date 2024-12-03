@@ -5,8 +5,8 @@ description: '"Competing constitutional interests."'
 image: "/uploads/day-1414-biden-harris-trump.jpg"
 tags:
 - pardon
-tag_excerpts: Trump – citing the language Biden used to pardoned his son – urged a judge to dismiss his 34 felony convictions of orchestrating an illegal conspiracy to influence the 2016 presidential election by falsifying business records.
-  pardon:
+tag_excerpts: 
+  pardon: Trump – citing the language Biden used to pardoned his son – urged a judge to dismiss his 34 felony convictions of orchestrating an illegal conspiracy to influence the 2016 presidential election by falsifying business records.
 todayInOneSentence: 'Trump – citing the language Biden used to pardoned his son –
   urged a judge to dismiss his 34 felony convictions of orchestrating an illegal conspiracy
   to influence the 2016 presidential election by falsifying business records; Fox

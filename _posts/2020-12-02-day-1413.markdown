@@ -3,6 +3,10 @@ title: Day 1413
 date: 2020-12-02 14:47:00 -08:00
 description: '"A very dangerous place."'
 image: "/uploads/1413.jpg"
+tags:
+- pardon
+tag_excerpts: 
+  pardon: Trump discussed whether to grant pre-emptive pardons to Trump Jr., Eric Trump, Ivanka Trump, and Jared Kushner.
 todayInOneSentence: Trump has discussed whether to grant pre-emptive pardons to Trump
   Jr., Eric Trump, Ivanka Trump, and Jared Kushner; the Justice Department is investigating
   a potential “bribery-for-pardon” scheme involving a large political contribution

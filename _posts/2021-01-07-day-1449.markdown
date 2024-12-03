@@ -3,6 +3,10 @@ title: Day 1449
 date: 2021-01-07 14:50:00 -08:00
 description: '"A horror show for America."'
 image: "/uploads/1449.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: Trump told aides and advisers that he wants to pardon himself before leaving office.
 todayInOneSentence: Congress confirmed Biden's presidential victory after a violent
   mob loyal to Trump stormed the Capitol in an attempt to overturn the election; Trump
   agreed to "an orderly transition"; Nancy Pelosi and Chuck Schumer called on Pence

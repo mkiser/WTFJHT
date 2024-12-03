@@ -3,6 +3,10 @@ title: Day 513
 date: 2022-06-16 15:26:00 -07:00
 description: '"A heated fight."'
 image: "/uploads/day-513-biden.jpg"
+tags:
+- pardon
+tag_excerpts: 
+  pardon: After the Capitol riot, John Eastman asked Rudy Giuliani if he could be on Trump's "pardon list" despite pushing a plan to overturn the 2020 election that he knew was illegal.
 todayInOneSentence: Trump was told that his plan to overturn the 2020 election was
   illegal, but pressured Pence to go along with it anyway; shortly after the Capitol
   riot, John Eastman asked Rudy Giuliani if he could be on Trump's "pardon list" despite

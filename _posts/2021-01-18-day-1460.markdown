@@ -3,6 +3,10 @@ title: Day 1460
 date: 2021-01-18 15:03:00 -08:00
 description: '"Indefensible."'
 image: "/uploads/1460.jpg"
+tags:
+- pardon
+tag_excerpts: 
+  pardon: Trump met with Jared Kushner, Ivanka Trump, and other aides to review a list of pardon requests, including whether to issue preemptive pardons to his adult children, aides, and himself. Trump allies, meanwhile, have reportedly sold their access to the White House to lobby Trump and White House aides for pardons.
 todayInOneSentence: Trump is expected to pardon or commute the sentences of more than
   100 people on his final full day in the White House; the FBI is vetting all 25,000
   National Guard troops in Washington tasked with securing the inauguration; the director

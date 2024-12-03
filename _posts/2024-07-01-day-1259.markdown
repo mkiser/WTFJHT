@@ -3,6 +3,10 @@ title: Day 1259
 date: 2024-07-01 13:57:00 -07:00
 description: '"The President is now a king above the law."'
 image: "/uploads/day-1259-biden.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: Trump is expected to order the Justice Department to drop the charges against him – or pardon himself.
 todayInOneSentence: The Supreme Court ruled 6-3 that Trump is entitled to "absolute
   immunity from criminal prosecution" for "official acts," but enjoys "no immunity
   for unofficial acts"; the Supreme Court declined to rule on Republican-backed laws

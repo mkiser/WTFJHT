@@ -3,6 +3,10 @@ title: Day 1126
 date: 2020-02-19 14:14:00 -08:00
 description: Cleaning house.
 image: "/uploads/1126.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: Trump offered to pardon Julian Assange if the WikiLeaks founder agreed to say Russia was not involved in hacking emails from the Democratic National Committee.
 todayInOneSentence: Trump offered to pardon Julian Assange if the WikiLeaks founder
   agreed to say Russia was not involved in hacking emails from the Democratic National
   Committee; Trump retweeted the claim that he was “the victim of a seditious conspiracy

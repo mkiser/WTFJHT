@@ -3,9 +3,13 @@ title: Day 183
 date: 2017-07-21 08:28:00 -07:00
 description: Pardon power.
 image: "/uploads/183.jpg"
+tags:
+- pardon
+tag_excerpts:
+  pardon: Trump’s lawyers discussed his authority to grant pardonsto aides, family members, and himself in connection with the Russia probe.
 ---
 
-1/ **Trump’s lawyers are discussing his authority to grant pardons** to aides, family members, and himself in connection with the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia probe</a>. Because no president has ever pardoned himself, there is no precedent, which leaves the question open: can a president use their constitutional power to pardon themselves? The power to pardon is granted in Article II, Section 2, of the Constitution, which gives the president the power to “grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.” ([Washington Post](https://www.washingtonpost.com/politics/trumps-lawyers-seek-to-undercut-muellers-russia-investigation/2017/07/20/232ebf2c-6d71-11e7-b9e2-2056e768a7e5_story.html))
+1/ **Trump’s lawyers are discussing his authority to grant pardons** to aides, family members, and himself in connection with the Russia probe. Because no president has ever pardoned himself, there is no precedent, which leaves the question open: can a president use their constitutional power to pardon themselves? The power to pardon is granted in Article II, Section 2, of the Constitution, which gives the president the power to “grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.” ([Washington Post](https://www.washingtonpost.com/politics/trumps-lawyers-seek-to-undercut-muellers-russia-investigation/2017/07/20/232ebf2c-6d71-11e7-b9e2-2056e768a7e5_story.html))
 
 2/ **Trump’s lawyers are exploring ways to stymie Robert Mueller's <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a>**. They're scouring the professional and political backgrounds of investigators hired by the special counsel, looking for conflicts of interest they could use to discredit the investigation or force members of the team to recuse themselves – and possibly build a case to fire Mueller. Trump has been particularly upset that Mueller could access his personal tax returns, which he has repeatedly declined to release to the public. ([New York Times](https://www.nytimes.com/2017/07/20/us/politics/donald-trump-robert-mueller-russia-investigation.html) / [The Hill](http://thehill.com/homenews/administration/343081-trump-especially-upset-after-hearing-mueller-would-access-tax-returns))
 

@@ -53,12 +53,6 @@ While powerful, the scope of a presidential pardon has limits.
 
 ---
 
-### Notable Pardons by President Donald Trump and President Joe Biden  
-
-Presidential pardons are a significant aspect of executive authority in the United States, often sparking considerable public interest and debate. Both Presidents Donald Trump and Joe Biden have exercised this power, granting clemency in various notable cases.
-
----
-
 ### **Notable Pardons by President Donald Trump**  
 
 During his tenure from 2017 to 2021, President Trump issued several high-profile pardons:
@@ -86,9 +80,6 @@ President Biden has also exercised his clemency powers in several significant in
 3. **Dexter Eugene Jackson**: In April 2022, Jackson was pardoned for his 2002 conviction of using his business to facilitate marijuana distribution. Since completing his sentence, Jackson turned his business into a cell phone repair service that hires local high school students through a program that provides work experience to young adults.  
 
 4. **[Hunter Biden](https://whatthefuckjusthappenedtoday.com/2024/12/02/day-1413/#1-biden-issued-a-%E2%80%9Cfull-and-unconditi)**: In December 2024, President Biden issued a sweeping pardon for his son, Hunter Biden, absolving him of any crimes committed since 2014. Hunter Biden was facing sentencing for lying to purchase a gun while addicted to drugs and for tax evasion. This pardon has sparked controversy and accusations of a political double standard.  
-
-
-These instances highlight the discretionary nature of presidential pardons and the diverse circumstances under which they are granted. Each pardon carries its own set of implications and often reflects broader social, political, or personal considerations.
 
 ---
 

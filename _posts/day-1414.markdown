@@ -1,23 +1,5 @@
 ---
-title: Day 1414
-date: 2024-12-03 14:49:00 -08:00
-description: '"Competing constitutional interests."'
-image: "/uploads/day-1414-biden-harris-trump.jpg"
-tags:
-- pardon
-tag_excerpts: Trump – citing the language Biden used to pardoned his son – urged a judge to dismiss his 34 felony convictions of orchestrating an illegal conspiracy to influence the 2016 presidential election by falsifying business records.
-  pardon:
-todayInOneSentence: 'Trump – citing the language Biden used to pardoned his son –
-  urged a judge to dismiss his 34 felony convictions of orchestrating an illegal conspiracy
-  to influence the 2016 presidential election by falsifying business records; Fox
-  News has avoided reporting on recent allegations of financial mismanagement, sexism,
-  sexual misconduct, and alcohol abuse against Pete Hegseth; Senate Republicans are
-  prepared to allow Trump to fire FBI Director Christopher Wray before his 10-year
-  term expires and replace him with loyalist Kash Patel; Trump "joked" to Prime Minister
-  Justin Trudeau that Canada should become the 51st U.S. state if it can''t handle
-  the economic consequences of his 25% tariff on all goods; and the Democratic-led
-  Senate and Republican-controlled House face a Dec. 20 deadline to prevent a government
-  shutdown. '
+title: 2024 12 03 Day 1414
 ---
 
 1/ **Trump – citing the language Biden used to pardoned his son – urged a judge to dismiss his 34 felony convictions of orchestrating an illegal conspiracy to influence the 2016 presidential election by falsifying business records**. "As President Biden put it yesterday, 'Enough is enough.' This case, which should never have been brought, must now be dismissed," Trump’s lawyers wrote. "Biden asserted that his son was 'selectively, and unfairly, prosecuted,' and 'treated differently' [...] ‘raw politics has infected this process and it led to a miscarriage of justice.'" The filing formally demands that New York Supreme Court Justice Juan Merchan throw out Trump’s criminal case and nullify a [unanimous jury's conclusion that Trump committed 34 felonies](https://whatthefuckjusthappenedtoday.com/2024/05/30/day-1227/#1-trump-a-former-u-s-president-and-t). Trump's attorneys also argued that his prosecution disrupts the president-elect's transition and "threatens the functioning of the federal government." Manhattan District Attorney Alvin Bragg, meanwhile, suggested postponing Trump’s sentencing until after he completes his second term in 2029, "to balance competing constitutional interests" of Trump's conviction and his presidential duties.

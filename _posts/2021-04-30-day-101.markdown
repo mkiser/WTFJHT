@@ -1,12 +1,16 @@
 ---
 title: Day 101
 date: 2021-04-30 15:05:00 -07:00
-description: '"One god-awful mess."'
-image: "/uploads/day-101-biden.jpg"
 tags:
 - pardon
+description: '"One god-awful mess."'
+image: "/uploads/day-101-biden.jpg"
 tag_excerpts:
-  pardon: Florida Republican Rep. Matt Gaetz’s close friend wrote a “confession” letter last year detailing how he and Gaetz paid for sex with multiple women, including a minor who was 17 at the time. Joel Greenberg’s letter was part of a failed attempt to secure a pardon from Trump – with the help of Roger Stone – for their alleged sex crimes, which the Justice Department is investigating.
+  pardon: Florida Republican Rep. Matt Gaetz’s close friend wrote a “confession” letter
+    last year detailing how he and Gaetz paid for sex with multiple women, including
+    a minor who was 17 at the time. Joel Greenberg’s letter was part of a failed attempt
+    to secure a pardon from Trump – with the help of Roger Stone – for their alleged
+    sex crimes, which the Justice Department is investigating.
 todayInOneSentence: The FBI warned Rudy Giuliani in late 2019 that he was the target
   of a Russian disinformation operation aimed at damaging Biden ahead of the election;
   the Trump administration's firing of the U.S. ambassador to Ukraine is at the center

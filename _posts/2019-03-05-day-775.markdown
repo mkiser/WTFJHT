@@ -1,12 +1,13 @@
 ---
 title: Day 775
 date: 2019-03-05 09:00:00 -08:00
-description: 'Stone cold crazy. '
-image: "/uploads/775.jpg"
 tags:
 - pardon
+description: 'Stone cold crazy. '
+image: "/uploads/775.jpg"
 tag_excerpts:
-  pardon: Michael Cohen’s attorney raised the possibility of a pardon with Trump’s attorneys after the FBI raided Cohen’s properties.
+  pardon: Michael Cohen’s attorney raised the possibility of a pardon with Trump’s
+    attorneys after the FBI raided Cohen’s properties.
 todayInOneSentence: Trump accused House Democratic leaders of going "stone cold CRAZY"
   by opening an oversight investigation; New York State regulators issued a subpoena
   to the Trump Organization's insurance broker; the White House rejected a House Oversight

@@ -1,12 +1,15 @@
 ---
 title: Day 525
 date: 2022-06-28 15:16:00 -07:00
-description: '"Real, real bad."'
-image: "/uploads/day-525-biden.jpg"
 tags:
 - pardon
+description: '"Real, real bad."'
+image: "/uploads/day-525-biden.jpg"
 tag_excerpts:
-  pardon: In his one-minute video calling for Jan. 6 rioters to leave the Capitol and go home – posted to Twitter more than two hours after the mob overtook the Capitol – Trump reportedly wanted to include language about pardoning the rioters. His legal counsel, however, advised against it.
+  pardon: In his one-minute video calling for Jan. 6 rioters to leave the Capitol
+    and go home – posted to Twitter more than two hours after the mob overtook the
+    Capitol – Trump reportedly wanted to include language about pardoning the rioters.
+    His legal counsel, however, advised against it.
 todayInOneSentence: Trump knew some of his supporters were armed when he directed
   them to march on the Capitol on Jan. 6; the FBI seized the phone of the attorney
   who developed Trump's strategy to stop Congress from certifying the 2020 presidential

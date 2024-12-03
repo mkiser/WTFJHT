@@ -1,12 +1,14 @@
 ---
 title: Day 503
 date: 2018-06-06 10:49:00 -07:00
-description: Obsessed.
-image: "/uploads/503.jpg"
 tags:
 - pardon
+description: Obsessed.
+image: "/uploads/503.jpg"
 tag_excerpts:
-  pardon: Paul Ryan said Trump should not try to pardon himself, saying, "I don't know the technical answer to that question, but I think obviously the answer is he shouldn't. And no one is above the law."
+  pardon: Paul Ryan said Trump should not try to pardon himself, saying, "I don't
+    know the technical answer to that question, but I think obviously the answer is
+    he shouldn't. And no one is above the law."
 todayInOneSentence: Stormy Daniels filed a new lawsuit against her former attorney
   and Michael Cohen;  Ivanka connected Cohen with a Russian who offered to introduce
   Trump to Putin during the campaign; Mueller requested that witnesses turn in their

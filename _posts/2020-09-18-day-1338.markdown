@@ -1,12 +1,15 @@
 ---
 title: Day 1338
 date: 2020-09-18 14:27:00 -07:00
-description: '"You need a test."'
-image: "/uploads/1338.jpg"
 tags:
 - pardon
+description: '"You need a test."'
+image: "/uploads/1338.jpg"
 tag_excerpts:
-  pardon: United States lawyers at Julian Assange’s extradition trial accepted the claim that the WikiLeaks founder was offered a presidential pardon in return for information that would resolve the “ongoing speculation about Russian involvement” in the hacking of Democratic National Committee emails. 
+  pardon: United States lawyers at Julian Assange’s extradition trial accepted the
+    claim that the WikiLeaks founder was offered a presidential pardon in return for
+    information that would resolve the “ongoing speculation about Russian involvement”
+    in the hacking of Democratic National Committee emails.
 todayInOneSentence: The Department of Health and Human Services rewrote the CDC guidance
   about who should be tested for the coronavirus last month and then “dropped” it
   on the CDC website despite staff scientists’ objections; the CDC reversed its coronavirus

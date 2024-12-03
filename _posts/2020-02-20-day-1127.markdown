@@ -1,12 +1,13 @@
 ---
 title: Day 1127
 date: 2020-02-20 14:25:00 -08:00
-description: Desperate.
-image: "/uploads/1127.jpg"
 tags:
 - pardon
+description: Desperate.
+image: "/uploads/1127.jpg"
 tag_excerpts:
-  pardon: Trump said he wouldn’t immediately pardon Stone but would intervene if courts don’t overturn his conviction.
+  pardon: Trump said he wouldn’t immediately pardon Stone but would intervene if courts
+    don’t overturn his conviction.
 todayInOneSentence: An intelligence official in charge of election security warned
   the House Intelligence Committee last week that Russia was interfering in the 2020
   campaign to try to get Trump re-elected; Trump’s reelection campaign and the Republican

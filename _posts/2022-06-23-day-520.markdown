@@ -1,12 +1,17 @@
 ---
 title: Day 520
 date: 2022-06-23 15:12:00 -07:00
-description: '"Substantial misconduct."'
-image: "/uploads/day-520-biden.jpg"
 tags:
 - pardon
+description: '"Substantial misconduct."'
+image: "/uploads/day-520-biden.jpg"
 tag_excerpts:
-  pardon: Days after Jan. 6, at least five Republican lawmakers asked White House officials whether Trump would pardon them for their activities in the lead-up to Jan. 6. Reps. Andy Biggs Louie Gohmert, Scott Perry, Marjorie Taylor Greene, and Matt Gaetz all requested pardons. Rep. Mo Brooks also sent an email asking for “all purpose” pardons for lawmakers who objected to the electoral votes from Arizona and Pennsylvania.
+  pardon: Days after Jan. 6, at least five Republican lawmakers asked White House
+    officials whether Trump would pardon them for their activities in the lead-up
+    to Jan. 6. Reps. Andy Biggs Louie Gohmert, Scott Perry, Marjorie Taylor Greene,
+    and Matt Gaetz all requested pardons. Rep. Mo Brooks also sent an email asking
+    for “all purpose” pardons for lawmakers who objected to the electoral votes from
+    Arizona and Pennsylvania.
 todayInOneSentence: The Supreme Court struck down a New York gun law enacted more
   than a century ago that limited who could carry a concealed handgun for self-defense
   in public; the Senate moved a step closer to approving bipartisan gun control legislation

@@ -1,12 +1,13 @@
 ---
 title: Day 497
 date: 2018-05-31 05:17:00 -07:00
-description: Third-party status.
-image: "/uploads/497.jpg"
 tags:
 - pardon
+description: Third-party status.
+image: "/uploads/497.jpg"
 tag_excerpts:
-  pardon: Trump offered a full pardon to conservative pundit Dinesh D’Souza for violating campaign finance laws.
+  pardon: Trump offered a full pardon to conservative pundit Dinesh D’Souza for violating
+    campaign finance laws.
 todayInOneSentence: McCabe wrote a secret memo in 2017 outlining his concerns about
   a cover story for Trump's firing of James Comey; Trump again claimed he didn't fire
   Comey because of the Russia investigation but apparently he also repeatedly pressured

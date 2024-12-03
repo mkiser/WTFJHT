@@ -1,12 +1,15 @@
 ---
 title: Day 559
 date: 2022-08-01 14:38:00 -07:00
-description: '"Playing with fire."'
-image: "/uploads/day-559-biden.jpg"
 tags:
 - pardon
+description: '"Playing with fire."'
+image: "/uploads/day-559-biden.jpg"
 tag_excerpts:
-  pardon: Matt Gaetz repeatedly assured Roger Stone that “the boss” – Trump – would offer him a pardon if he was  convicted of lying to Congress about his communications related to WikiLeaks' release of emails from the Democratic National Committee and Clinton campaign.
+  pardon: Matt Gaetz repeatedly assured Roger Stone that “the boss” – Trump – would
+    offer him a pardon if he was  convicted of lying to Congress about his communications
+    related to WikiLeaks' release of emails from the Democratic National Committee
+    and Clinton campaign.
 todayInOneSentence: A Trump-endorsed conspiracy theorist is the leading Republican
   candidate to be Arizona’s next secretary of state; a Texas militia member was sentenced
   to more than seven years in prison for storming the Capitol on Jan. 6; Matt Gaetz

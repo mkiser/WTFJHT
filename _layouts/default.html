@@ -139,7 +139,7 @@
       <footer class="footer">
         <section class="ft-main">
           <div class="ft-main-item">
-            <h2 class="ft-title">About</h2>
+            <h3 class="ft-title">About</h3>
             <ul>
               <li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/about/">About</a></li>
@@ -168,9 +168,8 @@
           </div>
           
           <div class="ft-main-item">
-            <h2 class="ft-title">Resources</h2>
+            <h3 class="ft-title">Resources</h3>
             <ul>
-              
               <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY">Recommended Books</a></li>
               <li><a href="https://currentstatus.io/">Current Status News Aggregator</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/first-100-days/">Trump's First 100 Days</a></li>
@@ -190,7 +189,7 @@
           </div>
           
           <div class="ft-main-item">
-            <h2 class="ft-title">Connect</h2>
+            <h3 class="ft-title">Connect</h3>
             <ul>
               <li><a href="https://www.facebook.com/wtfjht">Facebook</a></li>
               <li><a href="https://bsky.app/profile/wtfjht.bsky.social">Bluesky</a></li>
@@ -259,19 +258,6 @@
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/algolia.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/rrssb.min.js"></script>
-      <!-- <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script> -->
-      <!-- <script src="{{ site.url }}{{ site.baseurl }}/public/js/oneFuck.js"></script> -->
-
-     <!--  
-      <script>
-         if($.cookie('membershipdrive') == 'true'){
-           $('#pledgedrive').hide();
-         };
-         $("#close").click(function(){
-           document.cookie = "membershipdrive=true; max-age=129600";
-         });
-      </script>
-      -->
 
       <!-- AUDIO PLAYER -->
      <script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js"></script>
@@ -294,68 +280,6 @@
           });
         </script>
       {% endif %}
-      <!-- TODAY LAST YEAR -->
-      <!--
-      <script>
-      (function(){
-        $.getJSON("/api/v1/random.json", function(data) {
-          if (document.location.href == "{{ site.url }}{{ site.baseurl }}/"){
-            var url = data[0].href;
-          } else {
-            var url = document.location.href;
-          }
-          for (i = 0; i < data.length; i++) { 
-            if (data[i].href == url){    
-              var lastYear = new Date(data[i].date.date);
-              var todayLastYear = lastYear.getFullYear() - 1;
-              lastYear.setFullYear(todayLastYear);
-              lastYear = lastYear.toISOString().slice(0,10);              
-              var twoYears = new Date(data[i].date.date);
-              var twoYearsAgo = twoYears.getFullYear() - 2;
-              twoYears.setFullYear(twoYearsAgo);
-              twoYears = twoYears.toISOString().slice(0,10);
-              var threeYears = new Date(data[i].date.date);
-              var threeYearsAgo = threeYears.getFullYear() - 3;
-              threeYears.setFullYear(threeYearsAgo);
-              threeYears = threeYears.toISOString().slice(0,10);
-              var fourYears = new Date(data[i].date.date);
-              var fourYearsAgo = fourYears.getFullYear() - 4;
-              fourYears.setFullYear(fourYearsAgo);
-              fourYears = fourYears.toISOString().slice(0,10);
-              var fiveYears = new Date(data[i].date.date);
-              var fiveYearsAgo = fiveYears.getFullYear() - 5;
-              fiveYears.setFullYear(fiveYearsAgo);
-              fiveYears = fiveYears.toISOString().slice(0,10);
-              var sixYears = new Date(data[i].date.date);
-              var sixYearsAgo = sixYears.getFullYear() - 6;
-              sixYears.setFullYear(sixYearsAgo);
-              sixYears = sixYears.toISOString().slice(0,10);
-              for (j = 0; j < data.length; j++) { 
-                if (data[j].date.date == lastYear) {
-                  document.getElementById('todaylastyear').innerHTML = "<strong>Last year today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
-                }
-              if (data[j].date.date == twoYears) {
-                  document.getElementById('todaytwoyearsago').innerHTML = "<strong>Two years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
-                }
-              if (data[j].date.date == threeYears) {
-                  document.getElementById('todaythreeyearsago').innerHTML = "<strong>Three years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
-                }
-              if (data[j].date.date == fourYears) {
-                  document.getElementById('todayfouryearsago').innerHTML = "<strong>Four years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
-                }
-              if (data[j].date.date == fiveYears) {
-                  document.getElementById('todayfiveyearsago').innerHTML = "<strong>Five years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
-                }
-              if (data[j].date.date == sixYears) {
-                  document.getElementById('todaysixyearsago').innerHTML = "<strong>Six years ago today</strong>: <a href="+data[j].href+">"+data[j].title+": "+data[j].desc+"</a>";
-                }
-              }     
-            }
-          }
-        });
-      })();
-      </script>
-    -->
     </div>      
   </body>
 <!--  

@@ -3,7 +3,8 @@ title: WTF is a Presidential Pardon?
 date: 2024-12-01 00:00:00 -08:00
 tags:
 - pardon
-description: A presidential pardon forgives federal crimes, restoring rights and offering clemency. Learn its purpose, history, and impact in detail.
+description: A presidential pardon forgives federal crimes, restoring rights and offering
+  clemency. Learn its purpose, history, and impact in detail.
 layout: wtfis
 ---
 

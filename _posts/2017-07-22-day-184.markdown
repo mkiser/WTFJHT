@@ -1,11 +1,14 @@
 ---
 title: Day 184
 date: 2017-07-22 11:11:00 -07:00
-description: Complete power.
 tags:
 - pardon
+description: Complete power.
 tag_excerpts:
-  pardon: In a two hour rant on Twitter, Trump asserted his "complete power" to pardon himself, decried "illegal leaks," blamed Hillary, defended Trump Jr. and his new communications director, called Democrats obstructionist, and declared Obamacare dead.
+  pardon: In a two hour rant on Twitter, Trump asserted his "complete power" to pardon
+    himself, decried "illegal leaks," blamed Hillary, defended Trump Jr. and his new
+    communications director, called Democrats obstructionist, and declared Obamacare
+    dead.
 image: "/uploads/184.jpg"
 ---
 

@@ -5,8 +5,11 @@ tags:
 - pardon
 - impeachment
 tag_excerpts:
-  pardon: Trump ignored Pentagon advice and pardoned three service members convicted or accused of war crimes in Afghanistan and Iraq.
-  impeachment: A top national security aide to Mike Pence told House impeachment investigators that Trump's efforts to pressure Ukraine to investigate his political opponents were "unusual and inappropriate.""
+  pardon: Trump ignored Pentagon advice and pardoned three service members convicted
+    or accused of war crimes in Afghanistan and Iraq.
+  impeachment: A top national security aide to Mike Pence told House impeachment investigators
+    that Trump's efforts to pressure Ukraine to investigate his political opponents
+    were "unusual and inappropriate.""
 description: '"Unusual and inappropriate."'
 image: "/uploads/1033.jpg"
 todayInOneSentence: 'The House is investigating whether Trump lied to Robert Mueller;

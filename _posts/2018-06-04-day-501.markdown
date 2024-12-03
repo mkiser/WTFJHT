@@ -1,12 +1,13 @@
 ---
 title: Day 501
 date: 2018-06-04 13:03:00 -07:00
-description: 'Absolute right. '
-image: "/uploads/501.jpg"
 tags:
 - pardon
+description: 'Absolute right. '
+image: "/uploads/501.jpg"
 tag_excerpts:
-  pardon: Trump tweeted that Robert Mueller's appointment is "totally UNCONSTITUTIONAL!" and asserted that he has the "absolute right to PARDON myself."
+  pardon: Trump tweeted that Robert Mueller's appointment is "totally UNCONSTITUTIONAL!"
+    and asserted that he has the "absolute right to PARDON myself."
 todayInOneSentence: Trump tweeted that Mueller's appointment is "totally UNCONSTITUTIONAL!"
   and asserted that he has the "absolute right to PARDON [himself]"; Trump's lawyers
   claimed that Trump cannot be compelled to testify and that it's impossible for him

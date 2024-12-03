@@ -1,12 +1,13 @@
 ---
 title: Day 778
 date: 2019-03-08 11:41:00 -08:00
-description: 'Blameless. '
-image: "/uploads/778.jpg"
 tags:
 - pardon
-tag_excerpts: 
-  pardon: Michael Cohen "directly" asked Trump for a pardon, was told "NO," and then lied about it during his House Oversight and Reform Committee testimony.
+description: 'Blameless. '
+image: "/uploads/778.jpg"
+tag_excerpts:
+  pardon: Michael Cohen "directly" asked Trump for a pardon, was told "NO," and then
+    lied about it during his House Oversight and Reform Committee testimony.
 todayInOneSentence: Trump claimed that Michael Cohen "directly" asked him for a pardon;
   Trump's inauguration fund took in tens of thousands of dollars from shell companies
   owned by foreign contributors; Paul Manafort was sentenced to less than four years

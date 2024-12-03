@@ -1,12 +1,13 @@
 ---
 title: Day 777
 date: 2019-03-07 10:00:00 -08:00
-description: Humanitarian catastrophe.
-image: "/uploads/777.jpg"
 tags:
 - pardon
+description: Humanitarian catastrophe.
+image: "/uploads/777.jpg"
 tag_excerpts:
-  pardon: Michael Cohen asked one of his attorneys last summer to raise the possibility of a pardon with Rudy Giuliani after the FBI raids on his home and offices.
+  pardon: Michael Cohen asked one of his attorneys last summer to raise the possibility
+    of a pardon with Rudy Giuliani after the FBI raids on his home and offices.
 todayInOneSentence: Michael Cohen asked one of his attorneys last summer to raise
   the possibility of a pardon; Giuliani confirmed that several people have reached
   out to him about presidential pardons; Cohen, meanwhile, sued the Trump Organization;

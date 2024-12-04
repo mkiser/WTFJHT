@@ -1,7 +1,9 @@
 ---
 title: A political newsletter for normal people
 layout: page
-description: WTF Just Happened Today? is a sane, once-a-day newsletter helping normal people make sense of the news. Curated daily by Matt Kiser and delivered to 200,000+ people every afternoon around 3 pm Pacific.
+description: WTF Just Happened Today? is a sane, once-a-day newsletter helping normal
+  people make sense of the news. Curated daily by Matt Kiser and delivered to 200,000+
+  people every afternoon around 3 pm Pacific.
 image:
   twitter: "/public/wtf-subscribe.jpg"
   facebook: "/public/wtf-subscribe.jpg"

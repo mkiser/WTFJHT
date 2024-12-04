@@ -4,7 +4,8 @@ date: 2024-04-30 14:38:00 -07:00
 tags:
 - pardon
 tag_excerpts:
-  pardon: Trump said he'd "absolutely" consider pardoning the hundreds of criminals convicted in connection with the attack on the U.S. Capitol.
+  pardon: Trump said he'd "absolutely" consider pardoning the hundreds of criminals
+    convicted in connection with the attack on the U.S. Capitol.
 description: '"You know, it depends."'
 image: "/uploads/day-1197-biden.jpg"
 todayInOneSentence: 'Trump was held in contempt of court and fined $9,000 for repeatedly

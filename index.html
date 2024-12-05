@@ -96,6 +96,7 @@ seo:
         {% endif %}
       {{ page.content | extlinks }}
 
+    <hr>
     <div class="historical-posts">  
       {% if page.years_ago_links %}
         {% for link in page.years_ago_links %}
@@ -118,7 +119,14 @@ seo:
         {% endfor %}
       {% endif %}
     </div>
-
+    <div class="pagination"> 
+      <div class="next-prev">
+        {% if page.previous.url %}
+          <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}: {{page.previous.description}}</a>
+        {% endif %}
+      </div>
+    </div>
+    <hr>
 
     </div>
 <div style="margin: 20px auto 0 auto; max-width: 40rem; padding: 1rem;"> 
@@ -132,14 +140,6 @@ seo:
   </article>
 </div> 
 
-<!-- pagination -->
-<div class="pagination"> 
-  <div class="next-prev">
-    {% if page.previous.url %}
-      <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}: {{page.previous.description}}</a>
-    {% endif %}
-  </div>
-</div>
 {% endfor %} 
 
 

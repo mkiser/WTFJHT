@@ -59,7 +59,7 @@ layout: default
     {% endif %}
 
     {{ content | extlinks }}
-
+    <hr>
     <div class="historical-posts">  
       {% if page.years_ago_links %}
         {% for link in page.years_ago_links %}
@@ -82,7 +82,17 @@ layout: default
         {% endfor %}
       {% endif %}
     </div>
-
+    <div class="pagination"> 
+      <div class="next-prev">
+        {% if page.previous.url %}
+        <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}: {{page.previous.description}}</a>
+        {% endif %}
+        {% if page.next.url %}
+        <a href="{{page.next.url}}">{{page.next.title}}: {{page.next.description}} &raquo;</a>
+        {% endif %}
+      </div>
+    </div>
+    <hr>
   </div>
 <div style="margin: 20px auto 0 auto; max-width: 40rem; padding: 1rem;"> 
 {% include_cached emailpromo.html %}
@@ -92,14 +102,4 @@ layout: default
 
   {% include_cached pledge.html %}
 
-  <div class="pagination"> 
-    <div class="next-prev">
-      {% if page.previous.url %}
-      <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}: {{page.previous.description}}</a>
-      {% endif %}
-      {% if page.next.url %}
-      <a href="{{page.next.url}}">{{page.next.title}}: {{page.next.description}} &raquo;</a>
-      {% endif %}
-    </div>
-  </div>
 </article>

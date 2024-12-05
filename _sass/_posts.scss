@@ -259,3 +259,33 @@ div.topic-date {
   max-width: 100% !important;
   margin-top: 2.15em;
 }
+
+
+// Historical posts
+.historical-posts div {
+    margin-bottom: 5px;
+}
+
+.historical-posts strong {
+    display: block; /* Force bold text onto its own line by default */
+}
+
+.historical-posts a {
+    display: block; /* Ensure links break to their own line by default */
+    text-decoration: none; /* Remove underline for clean appearance */
+}
+
+.historical-posts a:hover {
+    text-decoration: underline; /* Add underline on hover for accessibility */
+}
+
+@media (min-width: 600px) {
+    .historical-posts strong,
+    .historical-posts a {
+        display: inline; /* Align strong and link in one line on larger screens */
+    }
+
+    .historical-posts a {
+        margin-top: 0; /* Reset margin for inline layout */
+    }
+}

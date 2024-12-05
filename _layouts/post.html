@@ -60,7 +60,7 @@ layout: default
 
     {{ content | extlinks }}
 
-    <div>  
+    <div class="historical-posts">  
       {% if page.years_ago_links %}
         {% for link in page.years_ago_links %}
           <div>
@@ -95,10 +95,10 @@ layout: default
   <div class="pagination"> 
     <div class="next-prev">
       {% if page.previous.url %}
-      <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}: {{page.previous.description}}</a>
       {% endif %}
       {% if page.next.url %}
-      <a href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      <a href="{{page.next.url}}">{{page.next.title}}: {{page.next.description}} &raquo;</a>
       {% endif %}
     </div>
   </div>

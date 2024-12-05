@@ -60,6 +60,18 @@ layout: default
 
     {{ content | extlinks }}
     <hr>
+    <div class="pagination"> 
+      <div class="next-prev">
+        {% if page.previous.url %}
+        <a href="{{page.previous.url}}">&laquo; Previous edition</a>
+        {% endif %}
+        {% if page.next.url %}
+        <a href="{{page.next.url}}">Next edition &raquo;</a>
+        {% endif %}
+      </div>
+    </div>
+    {% include social.html %}
+    <hr>
     <div class="historical-posts">  
       {% if page.years_ago_links %}
         {% for link in page.years_ago_links %}
@@ -82,17 +94,6 @@ layout: default
         {% endfor %}
       {% endif %}
     </div>
-    <div class="pagination"> 
-      <div class="next-prev">
-        {% if page.previous.url %}
-        <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}: {{page.previous.description}}</a>
-        {% endif %}
-        {% if page.next.url %}
-        <a href="{{page.next.url}}">{{page.next.title}}: {{page.next.description}} &raquo;</a>
-        {% endif %}
-      </div>
-    </div>
-    {% include social.html %}
     <hr>
   </div>
 <div style="margin: 20px auto 0 auto; max-width: 40rem; padding: 1rem;"> 

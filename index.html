@@ -97,6 +97,15 @@ seo:
       {{ page.content | extlinks }}
 
     <hr>
+    <div class="pagination"> 
+      <div class="next-prev">
+        {% if page.previous.url %}
+          <a href="{{page.previous.url}}">&laquo; Previous edition</a>
+        {% endif %}
+      </div>
+    </div>
+    {% include social.html %}
+    <hr>
     <div class="historical-posts">  
       {% if page.years_ago_links %}
         {% for link in page.years_ago_links %}
@@ -119,14 +128,6 @@ seo:
         {% endfor %}
       {% endif %}
     </div>
-    <div class="pagination"> 
-      <div class="next-prev">
-        {% if page.previous.url %}
-          <a href="{{page.previous.url}}">&laquo; {{page.previous.title}}: {{page.previous.description}}</a>
-        {% endif %}
-      </div>
-    </div>
-    {% include social.html %}
     <hr>
 
     </div>

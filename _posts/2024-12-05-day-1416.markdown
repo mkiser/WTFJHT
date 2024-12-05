@@ -40,75 +40,74 @@ poll/ **88% of voters believe elections were well-run in 2024** – up from 59% 
 ---
 
 * **Who’s in Trump’s new administration so far**:
-
 * Marco Rubio, Secretary of State \
-  Scott Bessent, Treasury \
-  Michael Faulkender, Treasury deputy \
-  Billy Long, IRS \
-  Frank Bisignano, Social Security \
-  Pete Hegseth, Defense \
-  {{ "<del>Matt Gaetz, Attorney General</del>" | markdownify }} \
-  Pam Bondi, Attorney General \
-  Todd Blanche, Deputy Attorney General \
-  D. John Sauer, Solicitor General \
-  Doug Burgum, Interior \
-  Brooke Rollings, Agriculture \
-  Howard Lutnick, Commerce \
-  Lori Chavez DeRemer, Labor \
-  Robert F. Kennedy Jr., Health and Human Services \
-  Scott Turner, Housing and Urban Development \
-  Sean Duffy, Transportation \
-  Peter Navarro, Senior Counselor for Trade and Manufacturing \
-  Martin Makary, FDA \
-  {{ "<del>Chad Chronister, DEA</del>" | markdownify }} \
-  Chris Wright, Energy \
-  Linda McMahon, Education \
-  Dough Collins, Veterans Affairs \
-  Kristi Noem, Homeland Security \
-  Mike Waltz, National Security \
-  Alex Wong, Deputy National Security \
-  Sebastian Gorka, Deputy Assistant to the President \
-  Lee Zeldin, EPA \
-  Elise Stefanik, UN Ambassador \
-  Kelly Loeffler, SBA Administrator \
-  Jamieson Greer, US Trade Representative \
-  Jay Bhattacharya, National Institutes of Health \
-  John Phelan, Navy \
-  Jim O’Neill, Health deputy \
-  Susie Wiles, Chief of Staff \
-  Dan Scavino, Deputy Chief of Staff \
-  Stephen Miller, Deputy Chief of Staff \
-  James Blair, Deputy Chief of Staff \
-  Elon Musk, "Department" of Government Efficiency \
-  Vivek Ramaswamy, "Department" of Government Efficiency \
-  Russell Vought, Office of Management and Budget \
-  James Braid, Legislative affairs \
-  Matt Brasseaux, Political affairs \
-  Vince Haley, Domestic policy \
-  Alex Latcham, Public liaison \
-  Kevin Hassett, White House National Economic Council \
-  Tulsi Gabbard, National Intelligence \
-  John Ratcliffe, CIA director \
-  Kash Patel, FBI director \
-  Jared Isaacman, NASA \
-  Adam Boehler, Hostage affairs envoy \
-  Daniel Driscoll, Army secretary \
-  Paul Atkins, SEC \
-  Brendan Carr, FCC \
-  Charles Kushner, Ambassador to France \
-  Matt Whitaker, Ambassador to NATO \
-  Mike Huckabee, Ambassador to Israel \
-  Steve Witkoff, Special Envoy to the Middle East \
-  Keith Kellogg, Ukraine and Russian envoy \
-  Dr. Janette Nesheiwat, Surgeon General \
-  Dr. Mehmet Oz, Centers for Medicare and Medicaid Services \
-  Dr. Dave Weldon, CDC \
-  {{ "<del> Bill McGinley, White House Counsel</del>" | markdownify }} \
-  David Warrington, White House Counsel \
-  Bill McGinley, Government Efficiency Counsel \
-  Tom Homan, Border Czar \
-  Massad Boulos, Senior adviser \
-  Steven Cheung, Communications director \
-  Karoline Leavitt, Press secretary \
-  Will Scharf, Staff secretary \
-  Sergio Gor, Personnel
+Scott Bessent, Treasury \
+Michael Faulkender, Treasury deputy \
+Billy Long, IRS \
+Frank Bisignano, Social Security \
+Pete Hegseth, Defense \
+~~Matt Gaetz, Attorney General~~ \
+Pam Bondi, Attorney General \
+Todd Blanche, Deputy Attorney General \
+D. John Sauer, Solicitor General \
+Doug Burgum, Interior \
+Brooke Rollings, Agriculture \
+Howard Lutnick, Commerce \
+Lori Chavez DeRemer, Labor \
+Robert F. Kennedy Jr., Health and Human Services \
+Scott Turner, Housing and Urban Development \
+Sean Duffy, Transportation \
+Peter Navarro, Senior Counselor for Trade and Manufacturing \
+Martin Makary, FDA \
+~~Chad Chronister, DEA~~ \
+Chris Wright, Energy \
+Linda McMahon, Education \
+Dough Collins, Veterans Affairs \
+Kristi Noem, Homeland Security \
+Mike Waltz, National Security \
+Alex Wong, Deputy National Security \
+Sebastian Gorka, Deputy Assistant to the President \
+Lee Zeldin, EPA \
+Elise Stefanik, UN Ambassador \
+Kelly Loeffler, SBA Administrator \
+Jamieson Greer, US Trade Representative \
+Jay Bhattacharya, National Institutes of Health \
+John Phelan, Navy \
+Jim O’Neill, Health deputy \
+Susie Wiles, Chief of Staff \
+Dan Scavino, Deputy Chief of Staff \
+Stephen Miller, Deputy Chief of Staff \
+James Blair, Deputy Chief of Staff \
+Elon Musk, "Department" of Government Efficiency \
+Vivek Ramaswamy, "Department" of Government Efficiency \
+Russell Vought, Office of Management and Budget \
+James Braid, Legislative affairs \
+Matt Brasseaux, Political affairs \
+Vince Haley, Domestic policy \
+Alex Latcham, Public liaison \
+Kevin Hassett, White House National Economic Council \
+Tulsi Gabbard, National Intelligence \
+John Ratcliffe, CIA director \
+Kash Patel, FBI director \
+Jared Isaacman, NASA \
+Adam Boehler, Hostage affairs envoy \
+Daniel Driscoll, Army secretary \
+Paul Atkins, SEC \
+Brendan Carr, FCC \
+Charles Kushner, Ambassador to France \
+Matt Whitaker, Ambassador to NATO \
+Mike Huckabee, Ambassador to Israel \
+Steve Witkoff, Special Envoy to the Middle East \
+Keith Kellogg, Ukraine and Russian envoy \
+Dr. Janette Nesheiwat, Surgeon General \
+Dr. Mehmet Oz, Centers for Medicare and Medicaid Services \
+Dr. Dave Weldon, CDC \
+~~Bill McGinley, White House Counsel~~ \
+David Warrington, White House Counsel \
+Bill McGinley, Government Efficiency Counsel \
+Tom Homan, Border Czar \
+Massad Boulos, Senior adviser \
+Steven Cheung, Communications director \
+Karoline Leavitt, Press secretary \
+Will Scharf, Staff secretary \
+Sergio Gor, Personnel

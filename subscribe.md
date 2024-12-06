@@ -10,6 +10,7 @@ image:
 redirect_from: "/newsletter/"
 show_title: false
 ---
+
 <div style="padding: 1rem;border: 1px solid black;"> 
   <h1 class="newspromo" style="font-size: 1.5rem;">A political newsletter for normal people</h1>
   <p class="lead">WTF Just Happened Today? is a sane,

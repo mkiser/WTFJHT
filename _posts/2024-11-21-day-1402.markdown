@@ -3,6 +3,10 @@ title: Day 1402
 date: 2024-11-21 14:25:00 -08:00
 description: '"A wonderful future."'
 image: "/uploads/day-1402-biden-harris-trump.jpg"
+tags:
+- doge
+tag_excerpts:
+  doge: The Republican-led House Oversight Committee will establish a new subcommittee to work with Elon Musk and Vivek Ramaswamy on Trump’s so-called “Department of Government Efficiency.” The committee will be chaired by Marjorie Taylor Greene. 
 todayInOneSentence: Matt Gaetz withdrew his name from consideration for attorney general
   following scrutiny over allegations of sex trafficking an underage girl and drug
   use that threatened his confirmation; a woman told police that Pete Hegseth – Trump’s

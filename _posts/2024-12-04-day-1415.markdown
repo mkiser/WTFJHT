@@ -3,6 +3,10 @@ title: Day 1415
 date: 2024-12-04 14:41:00 -08:00
 description: '"They’re coming after you."'
 image: "/uploads/day-1415-biden-trump.jpg"
+tags:
+- doge
+tag_excerpts:
+  doge: Trump already replaced his White House counsel, William McGinley, 48 days before taking office. McGinley will instead work with Elon Musk and Vivek Ramaswamy on their Department of Government Efficiency project.
 todayInOneSentence: Trump is considering replacing his choice for defense secretary
   with Florida Gov. Ron DeSantis; Trump selected Peter Navarro to serve as his senior
   counselor for trade and manufacturing; Trump tapped an outspoken critic of the Securities

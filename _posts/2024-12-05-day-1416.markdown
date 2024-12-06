@@ -3,6 +3,10 @@ title: Day 1416
 date: 2024-12-05 15:40:00 -08:00
 description: '"Government does almost nothing well."'
 image: "/uploads/day-1416-biden-harris.jpg"
+tags:
+- doge
+tag_excerpts:
+  doge: Elon Musk and Vivek Ramaswamy met with House and Senate Republicans about Trump’s plans to “dismantle” the federal government.
 todayInOneSentence: 'The Biden administration is in the process of extending contracts
   for private immigration detention centers, expanding capacity ahead of Trump’s promised
   “largest deportation operation in American history”; Biden and his staff have discussed

@@ -3,6 +3,10 @@ title: Day 1388
 date: 2024-11-07 13:57:00 -08:00
 description: '"The agenda."'
 image: "/uploads/day-1388-biden-harris-trump.jpg"
+tags:
+- doge
+tag_excerpts:
+  doge: After spending more than $130 million to help Trump win re-election, Elon Musk aims to secure regulatory benefits for SpaceX and Tesla. Musk has requested Trump appoint SpaceX employees to government roles, particularly within the Defense Department, which is a key client for SpaceX. 
 todayInOneSentence: 'Biden vowed to ensure a “peaceful and orderly transition,” calling
   on Americans to “accept the choice the country made" and to "bring down the temperature";
   Trump’s MAGA allies admit that "Project 2025" was always "the agenda" for a second

@@ -9,7 +9,9 @@ image: "/uploads/day-1416-biden-harris.jpg"
 tag_excerpts:
   doge: Elon Musk and Vivek Ramaswamy met with House and Senate Republicans about
     Trump’s plans to “dismantle” the federal government.
-  pardon: Biden and his staff have discussed whether to grant preemptive pardons to current and former public officials who could be targeted by Kash Patel and the incoming Trump administration.
+  pardon: Biden and his staff have discussed whether to grant preemptive pardons to
+    current and former public officials who could be targeted by Kash Patel and the
+    incoming Trump administration.
 todayInOneSentence: 'The Biden administration is in the process of extending contracts
   for private immigration detention centers, expanding capacity ahead of Trump’s promised
   “largest deportation operation in American history”; Biden and his staff have discussed

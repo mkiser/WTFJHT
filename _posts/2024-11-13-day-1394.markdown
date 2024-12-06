@@ -1,12 +1,15 @@
 ---
 title: Day 1394
 date: 2024-11-13 15:02:00 -08:00
-description: '"Drastic change."'
-image: "/uploads/day-1394-biden-harris-trump.jpg"
 tags:
 - doge
+description: '"Drastic change."'
+image: "/uploads/day-1394-biden-harris-trump.jpg"
 tag_excerpts:
-  doge: Trump named billionaires Elon Musk and Vivek Ramaswamy as co-heads of the new Department of Government Efficiency that will “dismantle Government Bureaucracy, slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies - Essential to the ‘Save America’ Movement.”
+  doge: Trump named billionaires Elon Musk and Vivek Ramaswamy as co-heads of the
+    new Department of Government Efficiency that will “dismantle Government Bureaucracy,
+    slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies
+    - Essential to the ‘Save America’ Movement.”
 todayInOneSentence: Trump named Matt Gaetz his pick as attorney general, Fox News
   Host Pete Hegseth his choice for secretary of defense, John Ratcliffe to lead the
   CIA, Tulsi Gabbard to serve as the director of national intelligence, and billionaires

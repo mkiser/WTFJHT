@@ -1,12 +1,13 @@
 ---
 title: Day 1325
 date: 2024-09-05 15:05:00 -07:00
-description: '"An essential foundation."'
-image: "/uploads/day-1325-biden-harris.jpg"
 tags:
 - doge
+description: '"An essential foundation."'
+image: "/uploads/day-1325-biden-harris.jpg"
 tag_excerpts:
-  doge: Trump endorsed Elon Musk’s plan for a “government efficiency commission” to cut federal spending, which would be led by Musk “if he has the time.”
+  doge: Trump endorsed Elon Musk’s plan for a “government efficiency commission” to
+    cut federal spending, which would be led by Musk “if he has the time.”
 todayInOneSentence: 'Trump’s federal criminal election interference case resumed after
   a nearly yearlong delay; Kamala Harris called for a 28% capital gains tax rate for
   Americans who earn at least $1 million a year; Trump pledged to cut the corporate

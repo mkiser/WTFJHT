@@ -1,12 +1,13 @@
 ---
 title: Day 1380
 date: 2024-10-30 15:31:00 -07:00
-description: '"Petty tyrant."'
-image: "/uploads/day-1380-biden-harris.jpg"
 tags:
 - doge
+description: '"Petty tyrant."'
+image: "/uploads/day-1380-biden-harris.jpg"
 tag_excerpts:
-  doge: Trump promised to appoint Elon Musk to a new “government efficiency commission” that would “necessarily involve some temporary hardship.”
+  doge: Trump promised to appoint Elon Musk to a new “government efficiency commission”
+    that would “necessarily involve some temporary hardship.”
 todayInOneSentence: House Speaker Mike Johnson promised a “massive reform” of the
   Affordable Care Act if Trump is reelected and Republicans retain control of the
   House; Trump promised to give Robert F. Kennedy Jr. “control” of several public

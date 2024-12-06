@@ -71,9 +71,9 @@ layout: default
       </div>
     </div>
     {% include social.html %}
+    {% if page.years_ago_links %}
     <hr>
     <div class="historical-posts">  
-      {% if page.years_ago_links %}
         {% for link in page.years_ago_links %}
           <div>
             {% if link.years_ago == 1 %}

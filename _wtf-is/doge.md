@@ -106,9 +106,9 @@ Dogecoin’s future hinges on several factors:
 ### **The Role of the Department of Government Efficiency in Modern Governance**
 
 Governments worldwide face pressure to optimize operations. DOGE, as a concept, proposes tangible solutions to address inefficiencies:
-- **Digital Transformation:** Introducing e-governance platforms.  
-- **Data-Driven Decision Making:** Using analytics to allocate resources.  
-- **Public Participation:** Creating platforms for citizen feedback.  
+1. **Digital Transformation:** Introducing e-governance platforms.  
+2. **Data-Driven Decision Making:** Using analytics to allocate resources.  
+3. **Public Participation:** Creating platforms for citizen feedback.  
 
 ---
 

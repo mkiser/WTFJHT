@@ -22,13 +22,8 @@ seo:
   - https://github.com/mkiser/WTFJHT
 ---
 
-<div style="margin: 20px auto 0 auto; max-width: 40rem; padding: 1rem;"> 
-{% include_cached emailpromo.html %}
-{% include_cached email.html %}
-</div>
 <div class="posts">
   {% comment %}
-
   {% assign now = site.time | date: '%Y-%m-%d' %}
   {% assign note = site.notes.last %}
   {% assign notedate = note.date | date: '%Y-%m-%d' %}
@@ -46,6 +41,13 @@ seo:
     {% if site.is_away_mode == true %}
       {% include away_mode.html %}
     {% endif %}
+
+    <div style="padding: 1rem;border: 1px solid black;"> 
+    {% include_cached emailpromo.html %}
+    {% include_cached email.html %}
+    </div>
+    <hr>
+
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ page.url }}">
         {{ page.title }}:
@@ -131,10 +133,10 @@ seo:
     <hr>
 
     </div>
-<div style="margin: 20px auto 0 auto; max-width: 40rem; padding: 1rem;"> 
-{% include_cached emailpromo.html %}
-{% include_cached email.html %}
-</div>
+ <div style="padding: 1rem;border: 1px solid black;"> 
+  {% include_cached emailpromo.html %}
+  {% include_cached email.html %}
+  </div>
 
     {% include_cached pledge.html %}
 

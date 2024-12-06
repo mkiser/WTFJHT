@@ -4,9 +4,9 @@ layout: default
 
 <article class="page">
   {% if page.show_title == false %}
-  <h1 class="page-title">{{ page.title }}</h1>
-    {% elsif %}
-  <h1 class="page-title">{{ page.title }}</h1>
+    <!-- Do nothing -->
+  {% else %}
+    <h1 class="page-title">{{ page.title }}</h1>
   {% endif %}
-    {{ content | extlinks }}
+  {{ content | extlinks }}
 </article>

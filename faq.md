@@ -27,7 +27,7 @@ layout: page
 
 **What are the ✏️ Notables?** WTFJHT is (usually) comprised of two parts: the main section, which is a numbered list of abstract summaries, and the Notables. The main section is typically your largest, most impactful stories of the day threaded together to form some sort of narrative. The Notables, however, are a _noting_ of all the other important stories that happened, but didn't fit the larger daily narrative. The Notables section was created following reader feedback for more stories in the daily update. 
 
-**How can I contribute?** Invest in the continued production of WTF Just Happened Today and [become a supporting member right here](https://whatthefuckjusthappenedtoday.com/membership/)! The goal is to make WTFJHT a sustainable, member-funded project that exists for as long as necessary. To do that we need to cover all the costs associated with writing and producing the daily update. 
+**How can I contribute?** Invest in the continued production of WTF Just Happened Today? and [become a supporting member right here](https://whatthefuckjusthappenedtoday.com/membership/)! The goal is to make WTFJHT a sustainable, member-funded project that exists for as long as necessary. To do that we need to cover all the costs associated with writing and producing the daily update. 
 
 **I don't have any money. How can I help?** Non-financial forms of membership are just as important and impactful as financial forms of membership. The best way to contribute to the success is to share it with your friends and family. It's free and has a big impact. <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F" target="_blank">Tweet about it</a> or <a href="https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com" target="_blank">share it on Facebook</a>. The next best way to contribute is to [participate in the WTF community forum](https://talk.whatthefuckjusthappenedtoday.com/), submitting links to news and collaborating with other members to make sense of the news. And, finally, you can submit copyedits and fact checks using the "Improve this article" link on every blog post. 
 
@@ -41,9 +41,9 @@ layout: page
 
 **What is the technology behind WTFJHT?** WTFJHT is built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [Travis CI](https://travis-ci.org/mkiser/WTFJHT), [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>. This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 
-**Why don't you publish WTF Just Happened Today in the morning?** It's not called WTF Just Happened Yesterday.
+**Why don't you publish WTF Just Happened Today? in the morning?** It's not called WTF Just Happened Yesterday.
 
-**What's your publishing schedule?** WTF Just Happened Today publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including Trump's and Biden's birthdays. Below is the 2024 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
+**What's your publishing schedule?** WTF Just Happened Today? publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including Trump's and Biden's birthdays. Below is the 2024 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
 * **2024**
 * New Year's Day – January 1 \

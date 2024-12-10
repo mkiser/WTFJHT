@@ -21,6 +21,7 @@ show_title: false
 ---
 
 * ***Quite possibly the only email list I'm on that hasn't annoyed me even once.** –Drew H.*
+* ***“I have been on the internet since 1994 and WTFJHT is the best damn political resource I’ve ever come across**. Can’t wait to read it each day.” Larry B.
 * ***The only news-related email that I make a point of reading every day**. –Lorraine N.*
 * ***WTFJHT is the only newsletter I let into my inbox**. It's brief, clear, and covers the perfect selection of news in the perfect amount of words. –Steffi K.*
 * ***Thanks for staring into the abyss so I don’t have to**. –Lynn P.*

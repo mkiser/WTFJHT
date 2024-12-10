@@ -2,7 +2,6 @@
 layout: default
 seo:
   type: Person
-sitemap: false
 ---
 
 <article class="page">
@@ -13,17 +12,18 @@ sitemap: false
 
 <div class="author-box">
   <h1 class="name">{{ page.title }}</h1>
-  <div class="post-date">
+  <!-- <div class="post-date">
     <small>
     {% if page.email %}<i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ page.email }}?Subject=Hello%20there" target="_top">{{ page.email }}</a><br>
     {% endif %}
     <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ page.twitter }}" target="_blank">@{{ page.twitter }}</a> 
   </small>
   </div>
+-->
 </div>
-
 <div class="bio">{{ page.content }}</div>
 <hr>
+<h3>Latest articles:</h3>
 {% assign posts = site.posts | where: 'author', page.title %}
 {% for post in posts %}
   <h2 class="post-title">

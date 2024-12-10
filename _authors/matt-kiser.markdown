@@ -41,7 +41,7 @@ He graduated from California State University, Chico with Bachelors degrees in J
 
 ### Praise for WTFJHT
 
-0. [A 2018 Webby Award Honoree](https://vote.webbyawards.com)
+0. [2018 Webby Award Honoree](https://vote.webbyawards.com)
 
 1. **Meet the wildly popular blogger chronicling President Trump one day at a time**. The site is easy to read, easy to parse and easy to share. There are no ads, and WTF Happened Today makes it easy to see news in context with what happened yesterday and the day before that. ([Poynter](https://www.poynter.org/tech-tools/2017/meet-the-wildly-popular-blogger-chronicling-president-trump-one-day-at-a-time/))
 

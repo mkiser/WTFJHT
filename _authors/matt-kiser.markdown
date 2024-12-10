@@ -25,19 +25,18 @@ Matt Kiser is the creator, founder, and publisher of [What The Fuck Just Happene
 
 He graduated from California State University, Chico with Bachelors degrees in Journalism and American Studies, and earned a professional certificate from the City University of New York for Entrepreneurial Journalism. Previously, he reported on music industry news for the College Music Journal, and managed news products at Business Insider, Forbes, and SPIN.com/SPIN Magazine. 
 
-### Contact Me
-
-**Email**: [matt@whatthefuckjusthappenedtoday.com](mailto:matt@whatthefuckjusthappenedtoday.com?Subject=Hello%20there)
-**Bluesky**: [@whatthefuckjusthappenedtoday.com](https://bsky.app/profile/whatthefuckjusthappenedtoday.com)
-**LinkedIn**: [Matt Kiser](https://www.linkedin.com/in/mattkiser/)
-**Facebook**: [@WTFJHT](https://www.facebook.com/wtfjht)
-**Instagram**: [@WTFJHT](https://www.instagram.com/wtfjht/)
-**Mastodon**: [@WTFJHT](https://mastodon.social/@wtfjht)
-**Threads**: [@WTFJHT](https://www.threads.net/@wtfjht)
-**X**: [@matt_kiser](https://twitter.com/matt_Kiser/)
-**X**: [@WTFJHT](https://twitter.com/WTFJHT/)
-**GitHub**: [Matt Kiser / WTFJHT](https://github.com/mkiser/wtfjht)
-**Mailing address**: WTF Just Happened Today? 505 Broadway E #211 Seattle, WA 98102 USA
+* ### Contact Me
+* **Email**: [matt@whatthefuckjusthappenedtoday.com](mailto:matt@whatthefuckjusthappenedtoday.com?Subject=Hello%20there)
+* **Bluesky**: [@whatthefuckjusthappenedtoday.com](https://bsky.app/profile/whatthefuckjusthappenedtoday.com)
+* **LinkedIn**: [Matt Kiser](https://www.linkedin.com/in/mattkiser/)
+* **Facebook**: [@WTFJHT](https://www.facebook.com/wtfjht)
+* **Instagram**: [@WTFJHT](https://www.instagram.com/wtfjht/)
+* **Mastodon**: [@WTFJHT](https://mastodon.social/@wtfjht)
+* **Threads**: [@WTFJHT](https://www.threads.net/@wtfjht)
+* **X**: [@matt_kiser](https://twitter.com/matt_Kiser/)
+* **X**: [@WTFJHT](https://twitter.com/WTFJHT/)
+* **GitHub**: [Matt Kiser / WTFJHT](https://github.com/mkiser/wtfjht)
+* **Mailing address**: WTF Just Happened Today? 505 Broadway E #211 Seattle, WA 98102 USA
 
 
 ### Praise for WTFJHT

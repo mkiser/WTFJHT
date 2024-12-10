@@ -3,10 +3,12 @@ title: Day 1420
 date: 2024-12-09 13:57:00 -08:00
 tags:
 - pardon
+- impeachment
 description: '"Can’t guarantee anything."'
 tag_excerpts:
   pardon: Trump confirmed that he will "most likely" pardon his supporters involved
     in the Jan. 6 attack on the Capitol.
+  impeachment: Trump said that members of the Jan. 6 committee “should go to jail” for investigating him.
 image: "/uploads/day-1420-biden-harris-trump.jpg"
 todayInOneSentence: 'Trump “can’t guarantee anything” when asked whether his promised
   tariffs would increase prices for Americans; Trump confirmed that he will "most

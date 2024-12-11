@@ -308,7 +308,7 @@ plugins:
 - jekyll-include-cache
 - jekyll-algolia
 podcast_album_art: "/podcasts/wtfpod.jpg"
-podcast_title: WTF Just Happened Today
+podcast_title: WTF Just Happened Today?
 podcast_owner: Matt Kiser
 podcast_email: matt@whatthefuckjusthappenedtoday.com
 podcast_category: News

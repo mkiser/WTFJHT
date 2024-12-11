@@ -20,8 +20,8 @@ seo:
   - https://mastodon.social/@wtfjht
   - https://www.facebook.com/wtfjht
 redirect_from:
-  - "/press/"
-  - "/team/"
+- "/press/"
+- "/team/"
 ---
 
 Matt Kiser is the creator, founder, and publisher of [What The Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com/) – today's essential guide to the daily shock and awe in national politics. 

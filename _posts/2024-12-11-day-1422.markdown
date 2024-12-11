@@ -1,9 +1,9 @@
 ---
 title: Day 1422
 date: 2024-12-11 15:00:00 -08:00
-description: '"Focus on our mission."'
 tags:
 - pardon
+description: '"Focus on our mission."'
 tag_excerpts:
   pardon: 22% of Americans approve of Biden’s decision to pardon his son Hunter.
 image: "/uploads/day1422-biden-harris-trump.jpg"

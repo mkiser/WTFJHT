@@ -7,7 +7,7 @@ image:
 layout: page
 ---
 
-<p class="lead">A brief history of WTF Just Happened Today?</p> 
+<p class="lead">A brief history of <a href="https://whatthefuckjusthappenedtoday.com/">WTF Just Happened Today?</a></p> 
 
 ---
 

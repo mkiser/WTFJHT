@@ -2,6 +2,10 @@
 title: Day 1422
 date: 2024-12-11 15:00:00 -08:00
 description: '"Focus on our mission."'
+tags:
+- pardon
+tag_excerpts:
+  pardon: 22% of Americans approve of Biden’s decision to pardon his son Hunter.
 image: "/uploads/day1422-biden-harris-trump.jpg"
 todayInOneSentence: 'FBI Director Christopher Wray will resign at the end of Biden’s
   term; Robert F. Kennedy Jr. is advocating for Trump to appoint his daughter-in-law

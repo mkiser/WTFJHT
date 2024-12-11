@@ -51,7 +51,7 @@ This project is open sourced and hosted as a [public GitHub repository](https://
 <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
 
 
-<p class="lead">-<a href="https://twitter.com/matt_kiser/">Matt Kiser</a><br>
+<p class="lead">-<a href="{{ site.url }}{{ site.baseurl }}/author/matt-kiser/">Matt Kiser</a><br>
 <small>
 <a href="mailto:matt@whatthefuckjusthappenedtoday.com?Subject=Hello%20there" target="_top">matt@whatthefuckjusthappenedtoday.com</a><br>
 WTF Just Happened Today?<br>

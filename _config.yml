@@ -254,6 +254,7 @@ algolia:
   - quiz.html
   - do-something/*
   - meta/*
+  - wtf-is/*
   - 45-for-45/*
   - _authors/*
   - _podcasts/*

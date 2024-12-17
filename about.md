@@ -23,7 +23,7 @@ This is the news through the lens of a person making decisions about coverage �
 
 2. WTFJHT **does not offer commentary, opinion, or analysis**. Adjectives and adverbs are generally stripped out of the writing so facts are framed as fact. It's unncessary to add a "just" in front of _38% of Americans approve of the job the president is doing_. Any reasonable person can understand that that's probably not a good job approval rating, right?
 
-3. WTFJHT's value is derived from its reputation and promise to the readers. The voice, tone, and being non-partisan all represent the brand. If I break this promise, I break the trust of the reader.
+3. WTFJHT's **value is derived from its reputation** and promise to the readers. The voice, tone, and being non-partisan all represent the brand. If I break this promise, I break the trust of the reader.
 
 With WTFJHT, you will find an independent voice that is personally accountable and considerate for how the editorial choices impact others. I go to great lengths to cite the original source of news and draw from a diversity of sources.
 
@@ -39,7 +39,7 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 5. **Create more value than I capture**. I'm not here to get rich. I'm here to provide valuable news you can use. That's why there are...
 
-6. **No strings attached**. There's no business model trickery here. No ads. No content gates. No selling of data. I have a website and a newsletter, and I never stray from any of the above. Why the fuck would I want to sell out my audience anyway?
+6. **No strings attached**. There’s no business model trickery here. No ads. No content gates. No selling of data. I have a website and a newsletter, and I never stray from any of the above. To be clear, my business model is as follows: my work is free, but supported entirely by an optional, pay-whatever-you-want membership model where you don’t get anything other than the satisfaction of supporting something you’d like to see exist in the world. As a result, the business model is direclty aligned with the value created for people.  
 
 This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 

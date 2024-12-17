@@ -53,7 +53,7 @@ Martin Luther King, Jr. Day – January 15 \
 WTF Just Happened Today?'s Birthday – January 20 \
 President's Day – February 19 \
 Good Friday – March 29 \
-Earth Day - April 22
+Earth Day - April 22 \
 International Workers' Day – May 1 \
 Memorial Day – May 27 \
 Flag Day / Trump's Birthday – June 14 \
@@ -67,6 +67,7 @@ Thanksgiving Eve – November 27 \
 Thanksgiving Day – November 28 \
 Christmas Eve – December 24 \
 Christmas Day – December 25 \
+Boxing Day – December 26 \
 New Year's Eve – December 31 \
 New Year's Day 2025 – January 1 
 

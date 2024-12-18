@@ -3,31 +3,47 @@ name: Notify Slack on New File in _posts
 on:
   push:
     branches:
-      - master
+      - master  # Adjust this if your main branch has a different name
     paths:
       - '_posts/**'
-  workflow_dispatch: # Allows manual triggering from GitHub UI
 
 jobs:
   notify_slack:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Fetches all history for all branches and tags
+
+      - name: Debug info
+        run: |
+          echo "Repository Status:"
+          git status
+          echo "Most Recent Commit:"
+          git log -1
+
       - name: Check for new files
         run: |
-          NEW_FILES=$(git diff --diff-filter=A --name-only HEAD^ HEAD _posts/)
-          if [[ -n "$NEW_FILES" ]]; then
-            MESSAGE="New files added to _posts:\n"
-            for FILE in $NEW_FILES; do
-              URL="https://github.com/mkiser/WTFJHT/blob/master/${FILE}"
-              MESSAGE+="<${URL}|${FILE}>\n"
-            done
-            echo "$MESSAGE"
-            # Add Slack notification step here
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            NEW_FILES=$(git diff --diff-filter=A --name-only HEAD^ HEAD _posts/)
+            if [[ -n "$NEW_FILES" ]]; then
+              MESSAGE="New files added to _posts:\n"
+              for FILE in $NEW_FILES; do
+                URL="https://github.com/mkiser/WTFJHT/blob/master/${FILE}"
+                MESSAGE+="<${URL}|${FILE}>\n"
+              done
+              echo "::set-output name=message::${MESSAGE}"
+            else
+              echo "::set-output name=message::No new files added to _posts."
+            fi
           else
-            echo "No new files added to _posts."
+            echo "No previous commit to compare."
+            echo "::set-output name=message::No previous commit to compare."
           fi
+        id: files
+
       - name: Send message to Slack
-        if: steps.files.outputs.message != 'No new files added to _posts.'
+        if: steps.files.outputs.message != 'No new files added to _posts.' && steps.files.outputs.message != 'No previous commit to compare.'
         run: |
           curl -X POST -H 'Content-type: application/json' --data '{"text":"${{ steps.files.outputs.message }}"}' ${{ secrets.SLACK_WEBHOOK_URL }}

@@ -1,0 +1,35 @@
+name: Notify Slack on New File in _posts
+
+on:
+  push:
+    branches:
+      - master  # Adjust this if your main branch has a different name
+    paths:
+      - '_posts/**'
+
+jobs:
+  notify_slack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check for new files
+        id: files
+        run: |
+          git fetch --depth=1 origin ${{ github.event.before }}..
+          NEW_FILES=$(git diff --diff-filter=A --name-only ${{ github.event.before }} ${{ github.sha }} _posts/)
+          if [[ -n "$NEW_FILES" ]]; then
+            MESSAGE="New files added to _posts:\n"
+            for FILE in $NEW_FILES; do
+              # Properly handle filenames with spaces
+              ENCODED_FILE=$(echo "${FILE}" | sed 's/ /%20/g')
+              URL="https://github.com/mkiser/WTFJHT/blob/master/${ENCODED_FILE}"
+              MESSAGE+="<${URL}|${FILE}>\n"  # Slack format for links
+            done
+            echo "::set-output name=message::${MESSAGE}"
+          else
+            echo "::set-output name=message::No new files added to _posts."
+          fi
+      - name: Send message to Slack
+        if: steps.files.outputs.message != 'No new files added to _posts.'
+        run: |
+          curl -X POST -H 'Content-type: application/json' --data '{"text":"${{ steps.files.outputs.message }}"}' ${{ secrets.SLACK_WEBHOOK_URL }}

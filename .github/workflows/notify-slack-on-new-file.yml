@@ -6,6 +6,7 @@ on:
       - master  # Adjust this if your main branch has a different name
     paths:
       - '_posts/**'
+  workflow_dispatch: # Allows manual triggering from GitHub UI
 
 jobs:
   notify_slack:

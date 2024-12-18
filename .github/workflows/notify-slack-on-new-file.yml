@@ -3,9 +3,10 @@ name: Notify Slack on New File in _posts
 on:
   push:
     branches:
-      - master  # Adjust this if your main branch has a different name
+      - master
     paths:
       - '_posts/**'
+  workflow_dispatch: # Allows manual triggering from GitHub UI
 
 jobs:
   notify_slack:

@@ -12,23 +12,20 @@ jobs:
   notify_slack:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       - name: Check for new files
-        id: files
         run: |
-          git fetch --depth=1 origin ${{ github.event.before }}..
-          NEW_FILES=$(git diff --diff-filter=A --name-only ${{ github.event.before }} ${{ github.sha }} _posts/)
+          NEW_FILES=$(git diff --diff-filter=A --name-only HEAD^ HEAD _posts/)
           if [[ -n "$NEW_FILES" ]]; then
             MESSAGE="New files added to _posts:\n"
             for FILE in $NEW_FILES; do
-              # Properly handle filenames with spaces
-              ENCODED_FILE=$(echo "${FILE}" | sed 's/ /%20/g')
-              URL="https://github.com/mkiser/WTFJHT/blob/master/${ENCODED_FILE}"
-              MESSAGE+="<${URL}|${FILE}>\n"  # Slack format for links
+              URL="https://github.com/mkiser/WTFJHT/blob/master/${FILE}"
+              MESSAGE+="<${URL}|${FILE}>\n"
             done
-            echo "::set-output name=message::${MESSAGE}"
+            echo "$MESSAGE"
+            # Add Slack notification step here
           else
-            echo "::set-output name=message::No new files added to _posts."
+            echo "No new files added to _posts."
           fi
       - name: Send message to Slack
         if: steps.files.outputs.message != 'No new files added to _posts.'

@@ -29,7 +29,7 @@ jobs:
           if git rev-parse HEAD^ >/dev/null 2>&1; then
             NEW_FILES=$(git diff --diff-filter=A --name-only HEAD^ HEAD _posts/)
             if [[ -n "$NEW_FILES" ]]; then
-              MESSAGE="New files added to _posts:\n"
+              MESSAGE="WTF just happened today?\n"
               for FILE in $NEW_FILES; do
                 URL="https://github.com/mkiser/WTFJHT/blob/master/${FILE}"
                 MESSAGE+="<${URL}|${FILE}>\n"

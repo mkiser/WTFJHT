@@ -90,6 +90,10 @@ layout: default
               <strong>Five years ago today:</strong>
             {% elsif link.years_ago == 6 %}
               <strong>Six years ago today:</strong>
+            {% elsif link.years_ago == 7 %}
+              <strong>Seven years ago today:</strong>
+            {% elsif link.years_ago == 8 %}
+              <strong>Eight years ago today:</strong>
             {% endif %}
             <a href="{{ link.url }}">{{ link.title }}: {{ link.desc }}</a>
           </div>

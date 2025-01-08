@@ -47,29 +47,28 @@ layout: page
 
 **What's your publishing schedule?** WTF Just Happened Today? publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including Trump's and Biden's birthdays. Below is the 2024 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
 
-* **2024**
+* **2025**
 * New Year's Day – January 1 \
-Martin Luther King, Jr. Day – January 15 \
+Martin Luther King, Jr. Day – January 20 \
 WTF Just Happened Today?'s Birthday – January 20 \
-President's Day – February 19 \
-Good Friday – March 29 \
+President's Day – February 17 \
 Earth Day - April 22 \
 International Workers' Day – May 1 \
-Memorial Day – May 27 \
+Memorial Day – May 26 \
 Flag Day / Trump's Birthday – June 14 \
 Juneteenth - June 19 \
 Independence Day – July 4 \
-Labor Day – September 2 \
-Indigenous Peoples' Day – October 14 \
+Labor Day – September 1 \
+Indigenous Peoples' Day – October 13 \
 Veterans Day – November 11 \
 Biden's Birthday – November 20 \
-Thanksgiving Eve – November 27 \
-Thanksgiving Day – November 28 \
+Thanksgiving Eve – November 26 \
+Thanksgiving Day – November 27 \
 Christmas Eve – December 24 \
 Christmas Day – December 25 \
 Boxing Day – December 26 \
 New Year's Eve – December 31 \
-New Year's Day 2025 – January 1 
+New Year's Day 2026 – January 1 
 
 ---
 

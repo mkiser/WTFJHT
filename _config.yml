@@ -44,6 +44,7 @@ defaults:
     path: ''
     type: posts
   values:
+    permalink: "/:year/:month/:day/:title/"
     title: ''
     description: ''
     image: ''

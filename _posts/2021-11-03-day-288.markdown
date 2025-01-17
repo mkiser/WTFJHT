@@ -11,6 +11,7 @@ todayInOneSentence: 'The Biden administration announced plans to heavily regulat
   Republican Glenn Youngkin defeated Democrat Terry McAuliffe in Virginia''s gubernatorial
   election; Senate Republicans blocked the John Lewis Voting Rights Act from advancing;
   and 41% of Republicans say they are confident their vote will be counted accurately. '
+category: biden
 ---
 
 1/ **The Biden administration announced plans to heavily regulate methane emissions from oil and gas drilling**. The proposed EPA rules aim to curb methane emissions coming from roughly one million existing oil and gas rigs in the U.S. The EPA previously had rules to prevent methane leaks from oil and gas wells built since 2015, which were rescinded by the Trump administration. An estimated 75% of the country's methane emissions will be covered by the new EPA rules. [Separately](https://www.nytimes.com/2021/11/02/us/politics/methane-emissions-fee.html), Joe Manchin has pushed to remove or weaken a provision in the $1.75 trillion social safety net and climate measure that would impose a fee on emissions of methane. ([NBC News](https://www.nbcnews.com/science/environment/white-house-announces-new-methane-regulations-kicking-global-pledge-rcna4280) / [New York Times](https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html))

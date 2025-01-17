@@ -11,6 +11,7 @@ todayInOneSentence: Trump threatened to cut federal funding if schools don't ful
   the U.S. reported more than 60,000 new COVID-19 cases Tuesday as the total number
   of confirmed cases crossed 3 million; and Trump’s campaign rally in Tulsa “likely
   contributed” to a dramatic surge in new coronavirus cases.
+category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

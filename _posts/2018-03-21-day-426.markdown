@@ -3,6 +3,7 @@ title: Day 426
 date: 2018-03-21 08:35:00 -07:00
 description: No sense of urgency.
 image: "/uploads/426.jpg"
+category: trump
 ---
 
 1/ **The Senate Intelligence Committee recommended that states buy voting machines that produce paper ballots** and that they secure voter databases ahead of November's midterm elections. Senators, concerned about Russian meddling in the midterms, called on Congress to "urgently" make funds available for states to update their voting systems, institute vote audits, and hire staff focused on cybersecurity.  ([New York Times](https://www.nytimes.com/2018/03/20/us/politics/senate-intelligence-election-security-midterms.html))

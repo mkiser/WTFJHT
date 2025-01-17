@@ -8,6 +8,7 @@ image: "/uploads/183.jpg"
 tag_excerpts:
   pardon: Trump’s lawyers discussed his authority to grant pardonsto aides, family
     members, and himself in connection with the Russia probe.
+category: trump
 ---
 
 1/ **Trump’s lawyers are discussing his authority to grant pardons** to aides, family members, and himself in connection with the Russia probe. Because no president has ever pardoned himself, there is no precedent, which leaves the question open: can a president use their constitutional power to pardon themselves? The power to pardon is granted in Article II, Section 2, of the Constitution, which gives the president the power to “grant Reprieves and Pardons for Offences against the United States, except in Cases of Impeachment.” ([Washington Post](https://www.washingtonpost.com/politics/trumps-lawyers-seek-to-undercut-muellers-russia-investigation/2017/07/20/232ebf2c-6d71-11e7-b9e2-2056e768a7e5_story.html))

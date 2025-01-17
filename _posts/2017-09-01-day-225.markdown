@@ -3,6 +3,7 @@ title: Day 225
 date: 2017-09-01 10:14:00 -07:00
 description: A rigged system.
 image: "/uploads/225.jpg"
+category: trump
 ---
 
 1/ **Robert Mueller has a draft of a letter outlining Trump's reasons for wanting to fire James Comey.** The letter was blocked by White House counsel, who believed its contents were problematic. A different letter was ultimately sent, written by Deputy Attorney General Rod Rosenstein, focusing on Comey’s handling of the investigation into Hillary Clinton’s private email server. ([New York Times](https://www.nytimes.com/2017/09/01/us/politics/trump-comey-firing-letter.html))

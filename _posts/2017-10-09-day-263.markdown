@@ -3,6 +3,7 @@ title: Day 263
 date: 2017-10-09 08:37:00 -07:00
 description: War on coal.
 image: "/uploads/263.jpg"
+category: trump
 ---
 
 1/ **The Trump administration will roll back the Clean Power Plan**. Scott Pruitt will sign the new rule tomorrow, which will override Obama's policy to curb greenhouse gas from power plants. "The war on coal is over," Pruitt declared.  ([Associated Press](https://apnews.com/94c981eb440f43c3bbbfff84063a9ecc/Trump-administration-to-terminate-Obama's-climate-plan) / [New York Times](https://www.nytimes.com/2017/10/09/climate/clean-power-plan.html))

@@ -3,6 +3,7 @@ title: Day 334
 date: 2017-12-19 09:06:00 -08:00
 description: '"The single worst piece of legislation."'
 image: "/uploads/334.jpg"
+category: trump
 ---
 
 1/ **The House passed tax reform today, but will have to vote again tomorrow** after the Senate parliamentarian said three provisions violated the Byrd Rule and would have to be removed from the bill. Senate Republicans plan to vote on the measure tonight with the provisions removed, which would require the House to revote on the measure tomorrow, since both chambers must pass identical bills. The House initially passed the bill in a 227-203 vote with all but 12 Republicans voting for the bill. No Democrats supported it. Trump is expected to sign the Tax Cuts And Jobs Act into law before the end of the week. The bill will add $1.5 trillion to the federal debt over the next decade as it cuts tax rates for corporations, provides new breaks for private businesses, and reorganizes the individual tax code. The legislation also repeals the <a href="{{ site.url }}{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a>'s individual mandate that most Americans buy health insurance coverage or face a fine. ([NBC News](https://www.nbcnews.com/politics/congress/republican-tax-bill-house-senate-trump-n831161) / [New York Times](https://www.nytimes.com/2017/12/19/us/politics/tax-bill-vote-republicans.html) / [Washington Post](https://www.washingtonpost.com/business/economy/gop-tax-bill-headed-for-quick-passage-in-house-senate-on-tuesday/2017/12/19/61f83dac-e4cf-11e7-9ec2-518810e7d44d_story.html))

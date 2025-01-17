@@ -9,6 +9,7 @@ todayInOneSentence: 'Trump discussed withdrawing the U.S. from NATO; a federal j
   pay to limit the impact of the shutdown; Trump''s Attorney General nominee William
   Barr faced questions from the Senate Judiciary Committee during his confirmation
   hearing; and Trump served fast food to Clemson football players. '
+category: trump
 ---
 
 1/ **Trump discussed withdrawing the U.S. from NATO with senior administration officials several times in 2018**, saying he didn't see the point of the military alliance, which has been in place since 1949. National security officials believe that Russia is focused on undermining the alliance so Putin could have the freedom to behave as he wishes. ([New York Times](https://www.nytimes.com/2019/01/14/us/politics/nato-president-trump.html))

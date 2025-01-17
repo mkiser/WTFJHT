@@ -3,6 +3,7 @@ title: Day 232
 date: 2017-09-08 00:00:00 -07:00
 description: Operation mega.
 image: "/uploads/232.jpg"
+category: trump
 ---
 
 1/ **The House passed a $15 billion disaster relief package, sending the measure to Trump to sign**. The bipartisan deal also raises the debt limit and funds the government through December, despite objections from conservatives. ([NBC News](https://www.nbcnews.com/politics/congress/house-passes-disaster-relief-sending-trump-sign-n799796) / [ABC News](http://abcnews.go.com/Politics/house-expected-approve-billions-hurricane-aid-government-funding/story?id=49692556))

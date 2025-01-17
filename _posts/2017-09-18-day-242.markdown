@@ -4,6 +4,7 @@ date: 2017-09-18 00:00:00 -07:00
 description: Rocket man.
 image: "/uploads/242.jpg"
 author: Clayton Aldern
+category: trump
 ---
 
 1/ **Overheard in a Washington steakhouse, a White House counsel discussed the extent to which the administration should cooperate with the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a>**. Ty Cobb supports prompt turnover of all relevant emails and documents to special counsel Robert Mueller; Trump lawyer Don McGahn is concerned doing so might weaken the White House's future position. ([New York Times](https://www.nytimes.com/2017/09/17/us/politics/trump-lawyers-white-house-russia-mcgahn-ty-cobb.html))

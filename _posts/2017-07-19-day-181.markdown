@@ -3,6 +3,7 @@ title: Day 181
 date: 2017-07-19 08:13:00 -07:00
 description: Secret dinner.
 image: "/uploads/181.jpg"
+category: trump
 ---
 
 1/ **Trump and Putin met for nearly an hour in a second, previously undisclosed meeting** during a dinner for G20 leaders. The White House called the meeting "brief" and said Trump spoke with Putin through Russia's translator. No other American officials other than Trump were present for the meeting. ([CNN](http://www.cnn.com/2017/07/18/politics/trump-putin-g20/index.html) / [New York Times](https://www.nytimes.com/2017/07/18/world/europe/trump-putin-undisclosed-meeting.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia-putin-idUSKBN1A32H5))

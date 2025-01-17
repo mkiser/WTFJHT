@@ -5,6 +5,7 @@ description: '"We cannot be like this."'
 image: "/uploads/day-1271-biden.jpg"
 todayInOneSentence: 'The shooting at Trump’s rally in Butler, Pennsylvania is being
   investigated as an attempted assassination. '
+category: biden
 ---
 
 *What we know about the Trump rally shooting so far:*

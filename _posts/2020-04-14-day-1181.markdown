@@ -13,6 +13,7 @@ todayInOneSentence: Trump interrupted the daily coronavirus task force briefing 
   a tax change in the coronavirus relief package Congress passed last month will go
   to those who earn more than $1 million annually; and 57% of Americans think Trump
   waited too long to act in response to the coronavirus.
+category: trump
 ---
 
 * ### Daily Damage Report.

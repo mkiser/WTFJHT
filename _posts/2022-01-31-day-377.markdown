@@ -12,6 +12,7 @@ todayInOneSentence: A bipartisan group of governors told Biden that the country 
   top prosecutor asked the FBI for security assistance a day after Trump called on
   his supporters to hold “the biggest protests we’ve ever had” in places where he
   is being investigated.
+category: biden
 ---
 
 1/ **A bipartisan group of governors told Biden that the country needs to "move away from the pandemic."** The daily average of U.S. cases remains near 519,000 – more than double from last winter – while daily deaths are averaging more than 1,000 per day. Arkansas Gov. Asa Hutchinson, a Republican, said the U.S. should move toward treating the virus as endemic, asking Biden to "help give us clear guidelines on how we can return to a greater state of normality" in order to "move beyond the pandemic." New Jersey Gov. Phil Murphy, a Democrat who also attended the meeting, added that “We’re not going to manage this to zero. We have to learn how to live with this.”

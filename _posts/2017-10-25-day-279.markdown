@@ -3,6 +3,7 @@ title: Day 279
 date: 2017-10-25 08:11:00 -07:00
 description: Drain the swamp.
 image: "/uploads/279.jpg"
+category: trump
 ---
 
 1/ **Senate Republicans repealed a rule that allowed Americans to sue their banks and credit card companies in class-action lawsuits**. Senators passed the measure by a vote of 50-50, with Pence breaking the tie. The Obama-era rule banned Wall Street banks and credit card companies from inserting arbitration clauses into contracts that prevented consumers from banding together to bring class-action lawsuits. Democrats and consumer advocates called the effort a gift to financial institutions like Wells Fargo and Equifax. ([New York Times](https://www.nytimes.com/2017/10/24/business/senate-vote-wall-street-regulation.html) / [CNN](http://www.cnn.com/2017/10/24/politics/senate-cfpb-arbitration-repeal/index.html))

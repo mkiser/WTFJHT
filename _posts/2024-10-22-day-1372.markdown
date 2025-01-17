@@ -15,6 +15,7 @@ todayInOneSentence: '14 days until Election Day; more than 400 doctors and healt
   at no cost to patients; 79% of Republicans favor putting undocumented immigrants
   in encampments; and 60% of Americans between the ages of 18 and 34 support Harris
   for president. '
+category: biden
 ---
 
 * **Days until Election Day**: 14. 

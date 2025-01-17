@@ -3,6 +3,7 @@ title: Day 432
 date: 2018-03-27 09:30:00 -07:00
 description: 'Botched obligations. '
 image: "/uploads/432.jpg"
+category: trump
 ---
 
 1/ **The 2020 census will ask respondents if they are United States citizens, despite concerns from the Census Bureau**. Inclusion of a citizenship question could prompt immigrants who are in the country illegally not to respond, resulting in an undercount of the population, which would affect government agencies and groups that rely on the census data. The effects could also affect redistricting of the House and state legislatures over the next decade. It's been 70 years since the government has included a question about citizenship on the census. ([New York Times](https://www.nytimes.com/2018/03/26/us/politics/census-citizenship-question-trump.html))

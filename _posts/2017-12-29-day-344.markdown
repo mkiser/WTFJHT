@@ -3,6 +3,7 @@ title: Day 344
 date: 2017-12-29 08:41:00 -08:00
 description: Looks bad.
 image: "/uploads/344.jpg"
+category: trump
 ---
 
 1/ **Trump: The <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a> makes the US "look very bad"** and "puts the country in a very bad position." The comment came during an impromptu 30-minute interview with The New York Times at his golf club in West Palm Beach. Trump insisted 16 times that there has been "no collusion" discovered by Robert Mueller's investigation. Additional quotes below. ([New York Times](https://www.nytimes.com/2017/12/28/us/politics/trump-interview-mueller-russia-china-north-korea.html))

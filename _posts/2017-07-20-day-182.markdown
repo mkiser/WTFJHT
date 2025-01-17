@@ -3,6 +3,7 @@ title: Day 182
 date: 2017-07-20 08:50:00 -07:00
 description: Very unfair.
 image: "/uploads/182.jpg"
+category: trump
 ---
 
 1/ **Trump would have never hired Jeff Sessions had he known he would recuse himself** from the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a>. "Sessions should have never recused himself," Trump said, "and if he was going to recuse himself, he should have told me before he took the job, and I would have picked somebody else." Trump called the decision “very unfair to the president. How do you take a job and then recuse yourself?" Asked if Robert Mueller’s investigation would cross a line if it started to look at his family’s finances beyond Russia, Trump said, “I would say yes,” but declined to say what he would do about it. “I think that’s a violation. Look, this is about Russia.” ([New York Times](https://www.nytimes.com/2017/07/19/us/politics/trump-interview-sessions-russia.html))

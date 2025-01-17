@@ -3,6 +3,7 @@ title: Day 707
 date: 2018-12-27 08:47:00 -08:00
 description: 'Whatever it takes. '
 image: "/uploads/707.jpg"
+category: trump
 ---
 
 1/ **Trump's shutdown entered its sixth day with negotiations between Democrats, Republicans, and the White House at a standstill**. The Senate is scheduled to be in session today, but there are no votes for a spending bill scheduled since an agreement between Democrats and Trump hasn't been reached over Trump's demand for $5 billion in border wall funding. The impasse has left about 420,000 federal workers working without pay and another 380,000 furloughed. Trump told reporters that he'll do "whatever it takes" to fund the wall he once claimed Mexico would pay for. ([ABC News](https://abcnews.go.com/Politics/negotiations-end-partial-government-shutdown-standstill/story?id=60018652) / [New York Times](https://www.nytimes.com/2018/12/26/us/politics/government-shutdown-wall.html))

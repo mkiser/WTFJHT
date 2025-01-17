@@ -8,6 +8,7 @@ todayInOneSentence: 'Trump cutoff U.S. funding to the World Health Organization;
   Paycheck Protection Program is expected to run out of money today; Trump will rely
   on business and labor leaders to advise him on when and how to restart the U.S.
   economy; and Trump wanted to start a White House talk radio show. '
+category: trump
 ---
 
 * ### Daily Damage Report.

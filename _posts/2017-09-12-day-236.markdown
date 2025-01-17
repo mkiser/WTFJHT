@@ -4,6 +4,7 @@ date: 2017-09-12 00:00:00 -07:00
 description: Clandestine efforts.
 image: "/uploads/236.jpg"
 author: Clayton Aldern
+category: trump
 ---
 
 1/ **Earlier this summer, a handful of Trump lawyers believed Jared Kushner should step down due to legal complications arising from the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia probe</a>**. After internal debate, the suggestion was ultimately dismissed as one of several efforts "focused on sabotaging" Kushner, who had several interactions with Russia during the 2016 campaign and transition. ([Wall Street Journal](https://www.wsj.com/articles/some-trump-lawyers-wanted-kushner-out-1505175772) / [Washington Post](https://www.washingtonpost.com/politics/trumps-legal-team-debated-whether-kushner-should-leave-white-house/2017/09/12/a3324764-9767-11e7-87fc-c3f7ee4035c9_story.html))

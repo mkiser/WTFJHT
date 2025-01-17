@@ -11,6 +11,7 @@ todayInOneSentence: 'The presidential election is 13 days away; Trump’s longes
   and a federal judge ordered Rudy Giuliani to turn over most of his possessions,
   including cash, jewelry and his New York apartment, as part of the $148 million
   defamation judgement he owes to two former Georgia election workers. '
+category: biden
 ---
 
 * **The presidential election is 13 days away**.

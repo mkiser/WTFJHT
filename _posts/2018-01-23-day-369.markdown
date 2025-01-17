@@ -3,6 +3,7 @@ title: Day 369
 date: 2018-01-23 07:59:00 -08:00
 description: Under pressure.
 image: "/uploads/369.jpg"
+category: trump
 ---
 
 1/ **Robert Mueller wants to interview Trump in the coming weeks about his decisions to fire Michael Flynn and James Comey**. Trump's legal team wants his testimony to be part face-to-face interview and part written statement. ([Washington Post](https://www.washingtonpost.com/politics/mueller-seeks-to-question-trump-about-flynn-and-comey-departures/2018/01/23/e6652db6-0068-11e8-9d31-d72cf78dbeee_story.html))

@@ -3,6 +3,7 @@ title: Day 450
 date: 2018-04-14 09:32:00 -07:00
 description: Mission accomplished.
 image: "/uploads/450.jpg"
+category: trump
 ---
 
 *Welcome to a rare Saturday edition of WTF Just Happened Today*.

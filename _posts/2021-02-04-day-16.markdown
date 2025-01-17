@@ -11,6 +11,7 @@ todayInOneSentence: 'U.S. Covid-19 hospitalizations are at the lowest point sinc
   during his own Senate impeachment trial; Biden will halt and reverse several Trump
   administration foreign policy initiatives; and 61% of Americans approve of Biden’s
   handling of his job in his first days in office. '
+category: biden
 ---
 
 1/ **U.S. Covid-19 hospitalizations are at the lowest point since Thanksgiving as the rate of coronavirus vaccinations has accelerated**. Hospitalizations declined by nearly 30% in the last three weeks to 91,000 patients – the lowest number since Nov. 28. More than 27 million Americans have received their first shot – higher than the total number of reported U.S. infections – and more than 6 million are fully inoculated. ([ABC News](https://abcnews.go.com/Health/live-updates/coronavirus/?id=75606765#75685731) / [Washington Post](https://www.washingtonpost.com/nation/2021/02/04/coronavirus-covid-live-updates-us/))

@@ -13,6 +13,7 @@ todayInOneSentence: The presidential election is today; more than 83 million Ame
   president – or announce that Trump is returning to the White House as the second
   president to be elected to two nonconsecutive terms – and at 78 years old, the oldest
   person ever elected president.
+category: biden
 ---
 
 * **The presidential election is TODAY**.

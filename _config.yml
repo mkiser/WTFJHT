@@ -52,6 +52,7 @@ defaults:
     author: Matt Kiser
     layout: post
     tag_excerpts: ''
+    category: trump
     seo:
       type: NewsArticle
       name: What The Fuck Just Happened Today?

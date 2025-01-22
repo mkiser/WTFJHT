@@ -11,6 +11,8 @@ vendor
 .bundle
 .siteleaf.yml
 .ruby-version
+wtftest.com
+wtftestsite.com
 
 # Numerous always-ignore extensions
 *.diff

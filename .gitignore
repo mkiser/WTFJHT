@@ -9,6 +9,8 @@ _site
 _algolia_api_key
 vendor
 .bundle
+.siteleaf.yml
+.ruby-version
 
 # Numerous always-ignore extensions
 *.diff

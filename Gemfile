@@ -7,10 +7,18 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
 gem 'jekyll-archives', '2.1.1'
+gem 'logger'
+gem 'base64'
+gem 'mutex_m'
+gem 'ostruct'
 
 group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jekyll-algolia'
   gem 'jekyll_pages_api'
   gem 'jekyll-commonmark'
+end
+
+group :development do
+  gem 'siteleaf'
 end

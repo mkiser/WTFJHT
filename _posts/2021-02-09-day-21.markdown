@@ -1,6 +1,8 @@
 ---
 title: Day 21
 date: 2021-02-09 14:17:00 -08:00
+categories:
+- biden
 tags:
 - impeachment
 description: '"This cannot be our future."'
@@ -13,7 +15,6 @@ todayInOneSentence: Trump's impeachment trial kicked off in the Senate with Hous
   secretary of state launched an investigation into Trump's attempts to overturn the
   state’s election results; and the Biden administration will begin sending doses
   of Covid-19 vaccines to community health centers next week.
-category: biden
 ---
 
 ### ⚖️ Trump’s Second Senate Impeachment Trial:

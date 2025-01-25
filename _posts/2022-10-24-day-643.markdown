@@ -1,6 +1,8 @@
 ---
 title: Day 643
 date: 2022-10-24 14:53:00 -07:00
+categories:
+- biden
 description: '"Appalling and unacceptable."'
 image: "/uploads/day-643-biden.jpg"
 todayInOneSentence: 'Fourth- and eighth-graders in most states and across almost all
@@ -13,7 +15,6 @@ todayInOneSentence: 'Fourth- and eighth-graders in most states and across almost
   recovered by the FBI from Trump’s Mar-a-Lago home included U.S. secrets about Iran
   and China; and 80% of Americans believe that their opposing political party poses
   a threat that, if not stopped, will destroy America. '
-category: biden
 ---
 
 1/ **Fourth- and eighth-graders in most states and across almost all demographic groups fell behind in reading and had the largest ever decline in math in the first National Assessment of Educational Progress since the pandemic began**. The average math score for the fourth grade was 5 points lower than in 2019, and 8 points below the 2019 mark for the eighth grade. The share of eighth grade math students deemed proficient dropped from 34% to 26%, and 38% of eighth graders failed to grasp basic math concepts. No state or large urban district showed improvements in math. Reading scores, meanwhile, declined in more than half the states, dropping to 1992 levels. Education Secretary Miguel Cardona described the scores in both subjects as “appalling and unacceptable,” added “Let me be very clear: These results are not acceptable." ([Associated Press](https://apnews.com/article/science-health-government-and-politics-covid-education-39e01a570b560c685b5340078c8dcdee) / [Chalkbeat](https://www.chalkbeat.org/2022/10/24/23417139/naep-test-scores-pandemic-school-reopening) / [CNN](https://www.cnn.com/2022/10/24/us/student-test-scores-nations-report-card/index.html) / [New York Times](https://www.nytimes.com/2022/10/24/us/math-reading-scores-pandemic.html) / [Wall Street Journal](https://www.wsj.com/articles/math-scores-dropped-in-every-state-during-pandemic-report-card-shows-11666584062?mod=djemalertNEWS) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-10-24/math-scores-fell-by-record-levels-in-almost-every-state-on-national-test?srnd=premium&sref=MIBMEEoj))

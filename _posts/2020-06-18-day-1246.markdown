@@ -1,6 +1,8 @@
 ---
 title: Day 1246
 date: 2020-06-18 15:11:00 -07:00
+categories:
+- trump
 description: '"On the cusp of losing control."'
 image: "/uploads/1246.jpg"
 todayInOneSentence: Seventy-seven nations have seen a growth in new coronavirus cases
@@ -13,7 +15,6 @@ todayInOneSentence: Seventy-seven nations have seen a growth in new coronavirus 
   did something good" because "nobody had ever heard" of it before; and Facebook removed
   dozens of ads placed by Trump’s reelection campaign that included a symbol used
   by the Nazis to designate political prisoners in concentration camps.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

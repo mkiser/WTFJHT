@@ -1,6 +1,8 @@
 ---
 title: Day 659
 date: 2018-11-09 10:08:00 -08:00
+categories:
+- trump
 description: Inconvenient facts.
 image: "/uploads/659.jpg"
 todayInOneSentence: Trump was involved in "nearly every step" of the hush-money payments
@@ -11,7 +13,6 @@ todayInOneSentence: Trump was involved in "nearly every step" of the hush-money 
   Miller; Trump signed a presidential proclamation blocking migrants who cross into
   the U.S. illegally from seeking asylum; and Trump threatened to revoke more press
   passes.
-category: trump
 ---
 
 1/ **Trump was involved in "nearly every step" of the hush-money payments to Stormy Daniels and Karen McDougal** and he may have violated federal campaign-finance laws in the process. David Pecker, chief executive of American Media Inc., offered to use the National Enquirer to buy their silence, eventually paying McDougal $150,000 after Trump asked Pecker to kill her story. As a presidential candidate, Trump "directed deals in phone calls and meetings" related to the two women with Michael Cohen, who pleaded guilty in August to campaign-finance violations. Cohen also admitted that he arranged payments to Daniels and McDougal at the direction of "a candidate for federal office" with the intention of influencing the outcome of the 2016 presidential election. ([Wall Street Journal](https://www.wsj.com/articles/donald-trump-played-central-role-in-hush-payoffs-to-stormy-daniels-and-karen-mcdougal-1541786601))

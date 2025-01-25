@@ -1,6 +1,8 @@
 ---
 title: Day 617
 date: 2018-09-28 08:20:00 -07:00
+categories:
+- trump
 description: Aggressive and belligerent.
 image: "/uploads/617.jpg"
 todayInOneSentence: The Senate Judiciary Committee voted 11-10 to approve Kavanaugh's
@@ -9,7 +11,6 @@ todayInOneSentence: The Senate Judiciary Committee voted 11-10 to approve Kavana
   Mark Judge said he'll cooperate with an investigation; and the Trump administration
   predicts the earth's temperature will rise by 7 degrees Fahrenheit by the end of
   the century.
-category: trump
 ---
 
 1/ **The Senate Judiciary Committee voted 11-10 to approve the Kavanaugh nomination**, sending it to the full Senate for consideration. Jeff Flake asked that the full Senate "delay the floor vote \[...\] in order to let the FBI continue to do an investigation," suggesting that he would not vote for Kavanaugh on the Senate floor without an investigation. He suggested that there were other Republicans who felt the same. Chairman Chuck Grassley abruptly adjourned the committee citing the "two-hour rule" despite confusion by senators about what they had voted for, including Dianne Feinstein, who asked: "What?" ([New York Times](https://www.nytimes.com/2018/09/28/us/politics/brett-kavanaugh-senate-judiciary.html) / [NBC News](https://www.nbcnews.com/politics/congress/senate-judiciary-committee-postpones-kavanaugh-decision-friday-afternoon-n914676) / [Washington Post](https://www.washingtonpost.com/powerpost/senate-committee-prepares-to-vote-on-kavanaugh-nomination-as-key-senators-remain-silent/2018/09/28/0b143292-c305-11e8-b338-a3289f6cb742_story.html))

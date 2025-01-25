@@ -1,6 +1,8 @@
 ---
 title: Day 751
 date: 2023-02-09 14:59:00 -08:00
+categories:
+- biden
 description: '"Brazen."'
 image: "/uploads/day-751-biden.jpg"
 todayInOneSentence: The Chinese spy balloon carried antennas and sensors for collecting
@@ -9,7 +11,6 @@ todayInOneSentence: The Chinese spy balloon carried antennas and sensors for col
   U.S. relations are in a state of “unprecedented crisis"; North Korea displayed nearly
   a dozen advanced intercontinental ballistic missiles; and the Supreme Court discussed,
   but failed to agree an ethics code of conduct.
-category: biden
 ---
 
 1/ **The Chinese spy balloon carried antennas and sensors for collecting intelligence and communications**. The Pentagon, State Department, and FBI said China's military-led spy balloon program was part of an effort to surveil “more than 40 countries across five continents.” While still in the air, American U-2 flybys captured high-resolution images of the Chinese balloon showed is was equipped with “multiple antennas to include an array likely capable of collecting and geolocating communications,” which were “clearly for intelligence surveillance and inconsistent with the equipment on board weather balloons.” The manufacturer of the balloon has a direct relationship with the Chinese military. ([Wall Street Journal](https://www.wsj.com/articles/chinese-balloon-carried-antennas-other-equipment-to-gather-intelligence-u-s-says-11675953033?mod=djemalertNEWS) / [Washington Post](https://www.washingtonpost.com/national-security/2023/02/09/chinese-balloon-surveillance-program/) / [New York Times](https://www.nytimes.com/2023/02/09/us/politics/china-spy-balloon-program.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-02-09/china-s-spy-balloon-could-actively-collect-signals-us-says?srnd=premium&sref=MIBMEEoj))

@@ -1,6 +1,8 @@
 ---
 title: Day 693
 date: 2018-12-13 08:37:00 -08:00
+categories:
+- trump
 description: 'The Diplomacy Project. '
 image: "/uploads/693.jpg"
 todayInOneSentence: Maria Butina pleaded guilty to conspiring to act as a foreign
@@ -8,7 +10,6 @@ todayInOneSentence: Maria Butina pleaded guilty to conspiring to act as a foreig
   Flynn a deal with Sergey Kislyak during the campaign about how Trump and Russia
   could work together if Trump won; and Trump canceled the White House holiday party
   for members of the media.
-category: trump
 ---
 
 1/ **Maria Butina pleaded guilty to conspiring to act as a foreign agent** of the Kremlin and influence U.S. politics from 2015 until her arrest in July. Butina tried to establish "unofficial lines of communication" with influential Americans in the NRA and in the Republican Party "under direction of" a former Russian senator and deputy governor of Russia's central bank, who matches the description of sanctioned Russian central banker Alexander Torshin. Butina is also expected to provide evidence against Paul Erickson, who helped her with what she called her "Diplomacy Project." Butina faces up to five years in prison but is expected to only serve six months based on "the sentencing guidelines cited as part of the plea agreement." ([Washington Post](https://www.washingtonpost.com/local/legal-issues/russian-maria-butina-pleads-guilty-in-effort-to-forge-kremlin-bond-with-us-conservatives/2018/12/13/c27f2d26-fe4f-11e8-ad40-cdfd0e0dd65a_story.html) / [CNN](https://www.cnn.com/2018/12/13/politics/maria-butina-guilty-plea/index.html) / [New York Times](https://www.nytimes.com/2018/12/13/us/politics/butina-guilty.html) / [Wall Street Journal](https://www.wsj.com/articles/maria-butina-pleads-guilty-to-conspiracy-to-influence-u-s-politics-11544719313) / [Politico](https://www.politico.com/story/2018/12/13/butina-pleads-guilty-conspiracy-charge-1062300)) / [NBC News](https://www.nbcnews.com/news/us-news/russian-operative-maria-butina-pleads-guilty-conspiracy-n947431))

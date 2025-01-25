@@ -1,6 +1,8 @@
 ---
 title: Day 932
 date: 2023-08-09 12:50:00 -07:00
+categories:
+- biden
 description: '"A weak dictator."'
 image: "/uploads/day-932-biden.jpg"
 todayInOneSentence: 'Special counsel Jack Smith obtained a search warrant for Trump''s
@@ -12,7 +14,6 @@ todayInOneSentence: 'Special counsel Jack Smith obtained a search warrant for Tr
   a Republican-backed ballot measure to raise the threshold to amend the state’s constitution
   ahead of a November referendum on whether to enshrine abortion rights in the state
   constitution; and Florida Gov. Ron DeSantis suspended a second elected state attorney. '
-category: biden
 ---
 
 1/ **Special counsel Jack Smith obtained a search warrant for Trump's Twitter account earlier this year as part of the investigation into his efforts to overturn the 2020 election**, according to a newly unsealed court filing. Twitter was forced to hand over the records and pay $350,000 for defying a judge’s deadline to comply with a Justice Department search warrant. The filing also reveals that the special counsel obtained a non-disclosure order, which “prohibited Twitter from disclosing the existence or contents of the search warrant to any person.” Prosecutors argued that if Trump learned about the warrant, it “would seriously jeopardize the ongoing investigation” by giving him “an opportunity to destroy evidence, change patterns of behavior, \[or\] notify confederates.” Judge Beryl Howell also found reason to believe that Trump might "flee prosecution" if he was told about the search warrant. ([Politico](https://www.politico.com/news/2023/08/09/special-counsel-obtained-search-warrant-for-donald-trumps-twitter-account-00110484) / [CNN](https://www.cnn.com/2023/08/09/politics/special-counsel-trump-twitter-search-warrant/index.html) / [Washington Post](https://www.washingtonpost.com/dc-md-va/2023/08/09/twitter-fine-jan-6-trump/) / [New York Times](https://www.nytimes.com/2023/08/09/us/politics/trump-twitter-account-search-warrant.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-08-09/twitter-fined-350-000-in-secret-doj-fight-over-trump-records?srnd=premium&sref=MIBMEEoj) / [CNBC](https://www.cnbc.com/2023/08/09/special-counsel-got-search-warrant-for-trump-twitter-account.html) / [Associated Press](https://apnews.com/article/twitter-trump-account-capitol-riot-jack-smith-9e66943fd7ebdae0038838c144b57d4f) / [The Hill](https://thehill.com/regulation/court-battles/4145619-special-counsel-won-secret-search-warrant-for-trumps-twitter-account/) / [NBC News](https://www.nbcnews.com/politics/donald-trump/special-counsel-executed-search-warrant-trumps-twitter-rcna99050) / [ABC News](https://abcnews.go.com/Politics/jack-smith-previously-search-warrant-trumps-twitter-new/story?id=102138194))

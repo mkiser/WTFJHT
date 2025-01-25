@@ -1,9 +1,10 @@
 ---
 title: Day 223
 date: 2017-08-30 09:21:00 -07:00
+categories:
+- trump
 description: Talking is not the answer.
 image: "/uploads/223.jpg"
-category: trump
 ---
 
 1/ **Less than two weeks before Hurricane Harvey, Trump rescinded Obama's coastal flood protections**, which required federal, state, and local agencies to take steps to protect infrastructure from flooding caused by <a href="{{ site.baseurl }}/trump-epa/">climate change</a>. The [Federal Flood Risk Management Standard](https://obamawhitehouse.archives.gov/the-press-office/2015/01/30/executive-order-establishing-federal-flood-risk-management-standard-and-) aimed to “reduce the risk and cost of future flood disasters” and “help ensure federal projects last as long as intended." ([HuffPost](http://www.huffingtonpost.com/entry/trump-executive-order-flooding_us_599323d4e4b04b193360926b))

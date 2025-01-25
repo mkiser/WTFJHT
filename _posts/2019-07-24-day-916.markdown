@@ -1,6 +1,8 @@
 ---
 title: Day 916
 date: 2019-07-24 08:12:00 -07:00
+categories:
+- trump
 description: '"A very innocent President."'
 image: "/uploads/916.jpg"
 todayInOneSentence: Mueller testified before the House Judiciary and Intelligence
@@ -10,7 +12,6 @@ todayInOneSentence: Mueller testified before the House Judiciary and Intelligenc
   declined, deflected, or deferred nearly 200 questions; and before Mueller's testimony
   even began, Trump accused Democrats of trying to "illegally fabricate a crime" and
   pin it on a "very innocent President."
-category: trump
 ---
 
 ***Mueller testified before the House Judiciary and Intelligence Committees** in seven hours of back-to-back hearings  about his report on the investigation into Russian interference in the 2016 election and possible obstruction of justice by Trump. Mueller agreed that Trump's conduct was problematic, that the investigation did not exonerate Trump, and that Trump did not cooperate fully with the investigation. Mueller did not to go beyond the findings in his 448-page final report and declined repeatedly to offer his opinion on questions or even to read directly from the document.*

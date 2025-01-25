@@ -1,6 +1,8 @@
 ---
 title: Day 700
 date: 2022-12-20 15:24:00 -08:00
+categories:
+- biden
 description: '"A new political weapon."'
 image: "/uploads/day-700-biden.jpg"
 todayInOneSentence: The Jan. 6 Committee is cooperating with the Justice Department's
@@ -10,7 +12,6 @@ todayInOneSentence: The Jan. 6 Committee is cooperating with the Justice Departm
   its delivery fleet; the Supreme Court blocked a pandemic-era border policy from
   ending this week; and the House Ways and Means Committee is expected to vote this
   afternoon on whether to publicly release Trump's tax returns.
-category: biden
 ---
 
 1/ **The Jan. 6 Committee is cooperating with the Justice Department's investigation into Trump**. After Attorney General Merrick Garland appointed Jack Smith as special counsel last month, Smith requested the evidence that committee compiled over its 18-month investigation. The committee has nearly 1,200 witness interview transcripts, which it began sending to Smith's team last week. The committee also sent the Justice Department all of Mark Meadows’ text messages and related evidence. ([Punchbowl News](https://punchbowl.news/?p=17308))

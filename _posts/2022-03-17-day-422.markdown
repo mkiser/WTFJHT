@@ -1,6 +1,8 @@
 ---
 title: Day 422
 date: 2022-03-17 15:20:00 -07:00
+categories:
+- biden
 description: '"Consequences and implications."'
 image: "/uploads/day-422-biden.jpg"
 todayInOneSentence: The House passed legislation to revoke Russia’s “most-favored-nation”
@@ -12,7 +14,6 @@ todayInOneSentence: The House passed legislation to revoke Russia’s “most-fa
   the federal government from accounting for the social cost of carbon when issuing
   new regulations; and Joe Manchin advised a conference of oil and gas executives
   that they should look for a “return on investment” when making campaign donations.
-category: biden
 ---
 
 1/ **The House passed legislation to revoke Russia’s “most-favored-nation” trade status**, which would allow the U.S. to impose higher tariffs on Russian goods. The legislation would suspend normal trade relations with Russia and Belarus, as well as require the U.S. trade representative to urge Russia to be suspended from the World Trade Organization and to stop Belarus’s membership application process. The bill now heads to the Senate, where the chamber already has a matching bill with bipartisan support. ([Wall Street Journal](https://www.wsj.com/articles/house-passes-legislation-to-end-normal-trade-relations-with-russia-11647545860) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-03-16/ukraine-update-more-talks-planned-as-russian-shelling-continues?sref=MIBMEEoj) / [CNBC](https://www.cnbc.com/2022/03/17/house-votes-to-strip-russias-most-favored-nation-trade-status.html) / [NPR](https://www.npr.org/live-updates/morning-edition-2022-03-17))

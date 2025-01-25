@@ -1,6 +1,8 @@
 ---
 title: Day 1189
 date: 2020-04-22 15:06:00 -07:00
+categories:
+- trump
 description: '"Dangerous and provocative."'
 image: "/uploads/1189.jpg"
 todayInOneSentence: The director of the federal agency responsible for developing
@@ -14,7 +16,6 @@ todayInOneSentence: The director of the federal agency responsible for developin
   of the Department of Health and Human Services tapped a former dog breeder with
   minimal public health experience to lead the agency’s day-to-day response to COVID-19
   in the pandemic’s early days.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

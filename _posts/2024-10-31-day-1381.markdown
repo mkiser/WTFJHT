@@ -1,6 +1,8 @@
 ---
 title: Day 1381
 date: 2024-10-31 14:51:00 -07:00
+categories:
+- biden
 description: '"Like it or not."'
 image: "/uploads/day-1381-biden-harris.jpg"
 todayInOneSentence: 'Trump vowed to "protect" women “whether the women like it or
@@ -8,7 +10,6 @@ todayInOneSentence: 'Trump vowed to "protect" women “whether the women like it
   since February 2021; North Korea launched a new intercontinental ballistic missile
   intended to send a message to "rivals" who have "escalated" regional tensions; and
   Gen Z is shocked by Trump’s Access Hollywood video. '
-category: biden
 ---
 
 * **The presidential election is in 5 days**.

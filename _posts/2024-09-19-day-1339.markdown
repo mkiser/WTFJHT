@@ -1,6 +1,8 @@
 ---
 title: Day 1339
 date: 2024-09-19 12:56:00 -07:00
+categories:
+- biden
 description: '"Disappointed."'
 image: "/uploads/day-1339-biden-harris.jpg"
 todayInOneSentence: House Republicans rejected their own funding bill after Trump
@@ -11,7 +13,6 @@ todayInOneSentence: House Republicans rejected their own funding bill after Trum
   while 47% support Trump; and if the 2024 presidential election were held today,
   50% of voters in Pennsylvania say they’d vote for Harris, while 46% say they’d support
   Trump.
-category: biden
 ---
 
 1/ **House Republicans rejected their own funding bill after Trump demanded that the government be shut down if legislation requiring proof of citizenship to register to vote isn’t passed**. Noncitizen voting, however, is already illegal in federal elections, and voter fraud committed by noncitizens is rare and practically nonexistent. The claim that non-citizen voting is a widespread problem has been repeatedly debunked. Lawmakers have until Sept. 30 to extend government funding. "I'm disappointed," Speaker Mike Johnson said after the vote, which he lost by a vote of 220-202. “We ran the play. It was the best play. It was the right one. And so now we go back to the playbook. We’ll draw up another play and we’ll come up with a solution.” ([Washington Post](https://www.washingtonpost.com/business/2024/09/18/house-bill-government-shutdown-funding/) / [NBC News](https://www.nbcnews.com/politics/congress/house-republicans-vote-funding-bill-shutdown-trump-save-act-rcna171635) / [Axios](https://www.axios.com/2024/09/18/johnson-suffers-embarrassing-loss-as-bill-to-stop-shutdown-fails) / [Rolling Stone](https://www.rollingstone.com/politics/politics-news/trump-government-shutdown-congress-save-act-1235106067/))

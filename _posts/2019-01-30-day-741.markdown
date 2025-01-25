@@ -1,6 +1,8 @@
 ---
 title: Day 741
 date: 2019-01-30 09:04:00 -08:00
+categories:
+- trump
 description: Back to school.
 image: "/uploads/741.jpg"
 todayInOneSentence: Trump attacked the U.S. intelligence community; Trump met Putin
@@ -9,7 +11,6 @@ todayInOneSentence: Trump attacked the U.S. intelligence community; Trump met Pu
   process after Trump won the Republican nomination; and Russians leaked more than
   1,000 files Robert Mueller's office shared confidentially with indicted Russian
   hackers.
-category: trump
 ---
 
 1/ **Trump attacked the U.S. intelligence community, claiming they're being "extremely passive and naive"** and suggesting his intel chiefs need to "go back to school" because "they are wrong!" The outburst comes a day after senior American intelligence officials briefed Congress on their 2019 worldwide threat assessment, directly contradicted Trump on several of his foreign policy priorities, including Iran, North Korea, Syria, and ISIS. Trump, however, made no mention of Russia, which Director of National Intelligence Dan Coats said was likely to target the 2020 elections. ([Politico](https://www.politico.com/story/2019/01/30/trump-national-security-1136433) / [New York Times](https://www.nytimes.com/2019/01/30/us/politics/trump-isis-north-korea.html) / [Reuters](https://www.reuters.com/article/us-usa-security-idUSKCN1PO1FW) / [CNN](https://www.cnn.com/2019/01/30/politics/trump-intel-chiefs-foreign-policy-iran-isis-north-korea/index.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 1258
 date: 2020-06-30 15:08:00 -07:00
+categories:
+- trump
 description: '"We''re going in the wrong direction."'
 image: "/uploads/12568.jpg"
 todayInOneSentence: Dr. Anthony Fauci warned a Senate committee that the U.S. is "not
@@ -11,7 +13,6 @@ todayInOneSentence: Dr. Anthony Fauci warned a Senate committee that the U.S. is
   daily briefing earlier this year that Russia paid bounties for the killing of U.S.
   soldiers in Afghanistan; and 87% of Americans are dissatisfied with the way things
   are going in the country.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

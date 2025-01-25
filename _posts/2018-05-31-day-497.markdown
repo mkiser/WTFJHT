@@ -1,6 +1,8 @@
 ---
 title: Day 497
 date: 2018-05-31 05:17:00 -07:00
+categories:
+- trump
 tags:
 - pardon
 description: Third-party status.
@@ -20,7 +22,6 @@ todayInOneSentence: McCabe wrote a secret memo in 2017 outlining his concerns ab
   and the GAO says the Trump administration is stonewalling the nation's chief government
   watchdog.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **Former acting FBI director Andrew McCabe wrote a confidential memo about a May 2017 conversation he had with Rod Rosenstein regarding the firing of James Comey.** The memo says Trump originally asked Rosenstein to reference Russia in the public memo used to justify firing Comey. McCabe thought that seemed like evidence that Comey's firing was actually about the Russia investigation and that Rosenstein was helping to provide a cover story by writing about the Clinton investigation. ([New York Times](https://www.nytimes.com/2018/05/30/us/politics/rosenstein-trump-comey-firing-mccabe-memo.html))

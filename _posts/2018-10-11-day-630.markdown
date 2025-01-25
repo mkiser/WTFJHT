@@ -1,6 +1,8 @@
 ---
 title: Day 630
 date: 2018-10-11 12:39:00 -07:00
+categories:
+- trump
 description: Highly unusual.
 image: "/uploads/630.jpg"
 todayInOneSentence: The Saudi crown prince ordered an operation to coax Jamal Khashoggi
@@ -9,7 +11,6 @@ todayInOneSentence: The Saudi crown prince ordered an operation to coax Jamal Kh
   most bullied person on the world"; Trump is considering as many as five candidates
   to replace Jeff Sessions if he leaves as attorney general; and Kanye West plunged
   into a 10-minute rant in the Oval Office.
-category: trump
 ---
 
 1/ **U.S. intelligence intercepts indicate that the crown prince of Saudi Arabia ordered an operation to coax Jamal Khashoggi back to the kingdom in order to capture him**. Khashoggi, a prominent critic of Mohammed bin Salman and the Saudi government, disappeared last week after he entered the Saudi Consulate in Istanbul. A bipartisan group on the Senate Foreign Relations Committee invoked the Magnitsky Act to force the Trump administration to investigate the disappearance of Khashoggi, which requires the administration to respond within 120 days of potential sanctions against officials responsible for human rights violations. Trump said he is reluctant to cut off arms sales to Saudi Arabia, believing it "would be hurting" the U.S. economy. ([Washington Post](https://www.washingtonpost.com/world/national-security/crown-prince-sought-to-lure-khashoggi-back-to-saudi-arabia-and-detain-him-us-intercepts-show/2018/10/10/57bd7948-cc9a-11e8-920f-dd52e1ae4570_story.html) / [Politico](https://www.politico.com/story/2018/10/11/trump-saudi-arabia-arms-sales-khashoggi-disappearance-892060) / [CNN](https://www.cnn.com/2018/10/10/politics/corker-menendez-letter-trump-saudi-sanctions-jamal-khashoggi/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-10-10/u-s-probe-of-saudi-arabia-in-khashoggi-case-forced-by-senators))

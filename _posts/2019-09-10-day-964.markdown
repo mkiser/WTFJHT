@@ -1,6 +1,8 @@
 ---
 title: Day 964
 date: 2019-09-10 12:31:00 -07:00
+categories:
+- trump
 description: Extremely complete.
 image: "/uploads/964.jpg"
 todayInOneSentence: Trump announced that he fired his national security adviser; Trump
@@ -8,7 +10,6 @@ todayInOneSentence: Trump announced that he fired his national security adviser;
   has repeatedly expressed skepticism about using foreign intelligence from covert
   sources; and Trump claimed he'll release an "extremely complete" report of his financial
   records in order to dispel the notion that he's profiting off of his administration.
-category: trump
 ---
 
 1/ **Trump announced that he fired his national security adviser, who insists that he resigned**. John Bolton, disputing Trump's version of events, tweeted that "I offered to resign last night and President Trump said, 'Let's talk about it tomorrow.'" Trump, meanwhile, tweeted that "I informed John Bolton last night that his services are no longer needed at the White House." Trump added that he "disagreed strongly with many of \[Bolton's\] suggestions." The two have had a series of disagreements during Bolton's tenure, including how to handle sensitive foreign policy matters involving North Korea, Afghanistan, and Iran. Trump did not name Bolton's successor but said he plans to name a replacement "next week." Bolton was Trump's third national security adviser. ([Washington Post](https://www.washingtonpost.com/politics/trump-fires-bolton-as-national-security-adviser-saying-he-disagreed-strongly-with-many-of-his-suggestions/2019/09/10/13409e2c-d3b9-11e9-9610-fb56c5522e1c_story.html) / [New York Times](https://www.nytimes.com/2019/09/10/us/politics/john-bolton-national-security-adviser-trump.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-fires-national-security-adviser-john-bolton-n1051986) / [CNN](https://www.cnn.com/2019/09/10/politics/trump-john-bolton-out/) / [ABC News](https://abcnews.go.com/Politics/trump-fires-national-security-adviser-john-bolton/story?id=65512257) / [Wall Street Journal](https://www.wsj.com/articles/trump-says-john-bolton-is-leaving-white-house-11568131727) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-09-10/trump-fires-bolton-as-top-security-adviser-citing-disagreements) / [Associated Press](https://apnews.com/788d664afbfd4565805dc1c0de8d4ffb) / [BBC](https://www.bbc.com/news/world-us-canada-49655279) / [Axios](https://www.axios.com/john-bolton-fired-donald-trump-tweet-a69a3771-2a62-4b15-a643-76f38d0614fb.html))

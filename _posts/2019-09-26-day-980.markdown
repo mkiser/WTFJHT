@@ -1,6 +1,8 @@
 ---
 title: Day 980
 date: 2019-09-26 14:27:00 -07:00
+categories:
+- trump
 tags:
 - impeachment
 description: '"The President abused his office for personal gain."'
@@ -13,7 +15,6 @@ todayInOneSentence: The whistleblower complaint accused Trump of "abus[ing] his 
   that "in the old days" spies were dealt with "a little differently than we do now";
   and the whistleblower is a C.I.A. officer who was detailed in the White House at
   one point.
-category: trump
 ---
 
 1/ **The whistleblower complaint accused Trump of "abus\[ing\] his office for personal gain" by "\[soliciting\] interference" from Ukraine in the 2020 election and that the White House took steps to cover it up**. Multiple White House officials were reportedly "deeply disturbed" by Trump's July 25th phone call with Ukrainian President Volodymyr Zelensky and tried to "lock down" all records of the call. The complaint notes that White House lawyers were "already in discussion" about "how to treat the call because of the likelihood, in the officials' retelling, that they had witnessed the president abuse his office for personal gain." White House lawyers "directed" officials to "remove the electronic transcript from the computer system" for Cabinet-level officials and instead put them on a computer system "used to store and handle classified information of an especially sensitive nature" that is managed by the National Security Council Directorate for Intelligence Programs. According to White House officials who informed the whistleblower, this was "not the first time" a transcript was put on the computer system reserved for code-word-level intelligence information due to concerns about politics, rather than national security. The whistleblower also described Rudy Giuliani as a "central figure in this effort," which includes attempts at "pressuring a foreign country to investigate the President's main domestic political rivals." The complaint adds: "Attorney General William Barr appears to be involved as well." ([New York Times](https://www.nytimes.com/2019/09/26/us/politics/whistleblower-complaint-released.html) / [Washington Post](https://www.washingtonpost.com/national-security/house-intelligence-committee-releases-whistleblowers-complaint-citing-trumps-call-with-ukraines-president/2019/09/26/402052ee-e056-11e9-be96-6adb81821e90_story.html) / [CNN](https://www.cnn.com/2019/09/26/politics/whistleblower-complaint-released/index.html) / [Politico](https://www.politico.com/story/2019/09/26/congress-releases-whistleblower-complaint-alleging-trump-abused-his-office-1514008) / [NBC News](https://www.nbcnews.com/politics/donald-trump/whistleblower-complaint-reveals-witnesses-concern-over-handling-trump-ukraine-call-n1058941) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-09-26/whistle-blower-complaint-about-trump-released-to-public) / [Associated Press](https://apnews.com/cce1f1146f924609912a032c61fd067c))

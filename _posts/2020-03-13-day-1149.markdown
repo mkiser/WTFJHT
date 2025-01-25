@@ -1,6 +1,8 @@
 ---
 title: Day 1149
 date: 2020-03-13 14:39:00 -07:00
+categories:
+- trump
 description: '"Full-scale disaster."'
 image: "/uploads/1149.jpg"
 todayInOneSentence: Trump declared a national emergency, blamed the Obama administration
@@ -11,7 +13,6 @@ todayInOneSentence: Trump declared a national emergency, blamed the Obama admini
   response recommendations from physicians on Facebook; and Speaker Nancy Pelosi said
   the House would vote on a multi-billion dollar aid package to address the coronavirus
   pandemic.
-category: trump
 ---
 
 1/ **Trump declared a national emergency – which he described as "two very big words" – to combat the coronavirus pandemic**. Trump then shook hands with members of his team. The declaration will "open up access" to $50 billion in emergency funding, lift restrictions on doctors and hospitals to “do as they want," and waive student loan interest. Trump also announced plans for a large-scale drive-thru protocol for testing for the virus, but said “We don’t want everybody taking this test. It’s totally unnecessary." Trump then blamed existing rules set by prior administrations for limiting options, saying “I don’t take responsibility at all” for the lack of available testing. The administration expects 1.4 million additional tests to be available next week and five million within a month. When asked about the [closure](https://www.snopes.com/fact-check/trump-fire-pandemic-team/) of the White House’s pandemic response team in 2018, Trump called it a "nasty question" and denied firing the team. Trump also announced that the government would buy large quantities of crude oil for the nation’s strategic reserve while oil prices are low. ([Politico](https://www.politico.com/news/2020/03/13/coronavirus-emergency-declaration-trump-128530) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-hold-friday-afternoon-press-conference-coronavirus-n1157981) / [New York Times](https://www.nytimes.com/2020/03/13/world/coronavirus-news.html) / [Washington Post](https://www.washingtonpost.com/world/2020/03/13/coronavirus-latest-news/) / [Bloomberg](https://www.bloomberg.com/news/live-blog/2020-03-13/trump-press-conference-on-coronavirus) / [CNN](https://www.cnn.com/world/live-news/coronavirus-outbreak-03-13-20-intl-hnk/index.html) / [Wall Street Journal](https://www.wsj.com/articles/coronavirus-strikes-key-figures-in-politics-sports-as-infections-spread-globally-11584093470) / [The Guardian](https://www.theguardian.com/us-news/live/2020/mar/13/donald-trump-coronavirus-joe-biden-bernie-sanders-live-updates-news))

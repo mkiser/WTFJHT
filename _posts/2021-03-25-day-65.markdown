@@ -1,6 +1,8 @@
 ---
 title: Day 65
 date: 2021-03-25 13:53:00 -07:00
+categories:
+- biden
 description: '"Chaos as a consequence."'
 image: "/uploads/day-65-biden.jpg"
 todayInOneSentence: The Biden administration expects to distribute 200 million doses
@@ -11,7 +13,6 @@ todayInOneSentence: The Biden administration expects to distribute 200 million d
   in the state; and Joe Manchin said he had “legitimate” concerns over some of its
   provisions in the For the People Act, the most significant federal election and
   voting rights expansion in a generation.
-category: biden
 ---
 
 1/ **The Biden administration expects to distribute 200 million doses of Covid-19 vaccines in its first 100 days** – double its original goal that was surpassed last week. ([Politico](https://www.politico.com/news/2021/03/25/biden-doubles-vaccine-goal-478006) / [NPR](https://www.npr.org/2021/03/25/980106862/watch-live-biden-holds-1st-press-conference-of-his-presidency))

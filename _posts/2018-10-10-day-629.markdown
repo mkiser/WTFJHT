@@ -1,6 +1,8 @@
 ---
 title: Day 629
 date: 2018-10-10 10:49:00 -07:00
+categories:
+- trump
 description: Inevitable.
 image: "/uploads/629.jpg"
 todayInOneSentence: Trump claimed the Democratic Party's push for "Medicare for All"
@@ -10,7 +12,6 @@ todayInOneSentence: Trump claimed the Democratic Party's push for "Medicare for 
   Trump said women "need to have really hard evidence" before saying they're victims
   of sexual assault; and Trump said the Federal Reserve "has gone crazy" for raising
   interest rates.
-category: trump
 ---
 
 1/ **Trump claimed the Democratic Party's push for "Medicare for All" would "eviscerate" and "gut Medicare with their planned government takeover of American health care,"** in a rare presidential [op-ed](https://www.usatoday.com/story/opinion/2018/10/10/donald-trump-democrats-open-borders-medicare-all-single-payer-column/1560533002/) published by USA Today. The op-ed included numerous debunked claims and factual inaccuracies while simultaneously linking to information that directly refuted his claims. Trump suggested that "Medicare would be forced to die" under the plan, devastating the health care industry, and "inevitably lead\[ing\] to the massive rationing of health care." Medicare provides health care to Americans older than 65 and those with disabilities. ([CNN](https://www.cnn.com/2018/10/10/politics/donald-trump-medicare-for-all-midterms/index.html) / [NBC News](https://www.nbcnews.com/tech/tech-news/usa-today-criticized-printing-trump-op-ed-despite-inaccuracies-n918536))

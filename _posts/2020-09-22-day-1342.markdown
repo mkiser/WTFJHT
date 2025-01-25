@@ -1,6 +1,8 @@
 ---
 title: Day 1342
 date: 2020-09-22 14:55:00 -07:00
+categories:
+- trump
 description: '"What a great job we''ve done."'
 image: "/uploads/1342.jpg"
 todayInOneSentence: Trump lied and claimed that the coronavirus "affects virtually
@@ -13,7 +15,6 @@ todayInOneSentence: Trump lied and claimed that the coronavirus "affects virtual
   Russia's influence operations" aimed at interfering in the 2020 presidential election
   by denigrating Joe Biden; and one of Robert Mueller’s top deputies accused the special
   counsel's office of failing to fully determine what happened in the 2016 election.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

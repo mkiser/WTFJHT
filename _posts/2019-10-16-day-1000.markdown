@@ -1,6 +1,8 @@
 ---
 title: Day 1000
 date: 2019-10-16 15:36:00 -07:00
+categories:
+- trump
 tags:
 - impeachment
 description: Meltdown.
@@ -15,7 +17,6 @@ todayInOneSentence: The White House is conducting its own investigation into why
   probe; the House voted to condemn Trump's withdrawal of American forces from northern
   Syria; and Democratic leaders walked out of a White House meeting with Trump after
   he had a "meltdown" and called House Speaker Nancy Pelosi "third-grade politician."
-category: trump
 ---
 
 1/ **The White House is conducting its own investigation into why a rough transcript of Trump's July 25 call with Ukrainian President Zelensky was placed into a secret server for secure storage**. Trump's advisers and White House lawyers began the fact-finding review to find out why deputy White House counsel, John Eisenberg, placed the rough transcript of the call in a computer system typically reserved for the country's most closely guarded secrets. Eisenberg has said he limited access to the transcript over concerns about leaks. It is unclear who asked for or initiated the review, though acting Chief of Staff Mick Mulvaney has encouraged it and his aids are helping with it. Some officials fear the review is intended to assign blame for the impeachment inquiry. ([New York Times](https://www.nytimes.com/2019/10/15/us/politics/white-house-review-ukraine.html))

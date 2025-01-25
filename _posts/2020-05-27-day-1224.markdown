@@ -1,6 +1,8 @@
 ---
 title: Day 1224
 date: 2020-05-27 13:36:00 -07:00
+categories:
+- trump
 description: 100,000 dead.
 image: "/uploads/1224.jpg"
 todayInOneSentence: Coronavirus deaths in the U.S. have passed 100,000; Twitter added
@@ -11,7 +13,6 @@ todayInOneSentence: Coronavirus deaths in the U.S. have passed 100,000; Twitter 
   has participated in since 2010 but insists that mail-in voting if rife with fraud;
   and the Trump administration no longer regards Hong Kong as autonomous from mainland
   China.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

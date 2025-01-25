@@ -1,6 +1,8 @@
 ---
 title: Day 162
 date: 2021-06-30 14:57:00 -07:00
+categories:
+- biden
 description: '"A more stable and secure world."'
 image: "/uploads/day-162-biden.jpg"
 todayInOneSentence: The House voted to establish a 13-member committee to investigate
@@ -10,7 +12,6 @@ todayInOneSentence: The House voted to establish a 13-member committee to invest
   crimes on Thursday; Bill Cosby was released from prison after his sexual assault
   conviction was overturned by the Pennsylvania Supreme Court; and the architect of
   the decades-long wars in Iraq and Afghanistan is dead.
-category: biden
 ---
 
 1/ **The House voted to establish a 13-member committee to investigate the Jan. 6 attack on the Capitol**. “That day, Jan. 6, was one of the darkest days in American history,” Nancy Pelosi said before the vote. The mob sought “to block the certification of an election and the peaceful transfer of power that is the cornerstone of our democracy.” The vote was 222-190, with two Republicans voting in favor. Pelosi will select eight of the 13 members herself, including its chairman. The remaining five will be appointed “after consultation with the minority leader,” Rep. Kevin McCarthy. The committee will also have the power to subpoena witnesses and documents. ([Bloomberg](https://www.bloomberg.com/news/articles/2021-06-30/house-approves-select-committee-to-probe-jan-6-capitol-attack?srnd=politics-vp&sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2021/06/30/jan-6-probe-trump-497059) / [Washington Post](https://www.washingtonpost.com/national-security/house-select-committee-january-6/2021/06/30/a52179ba-d998-11eb-bb9e-70fda8c37057_story.html) / [NBC News](https://www.nbcnews.com/politics/congress/house-vote-creation-committee-probe-jan-6-riot-n1272624))

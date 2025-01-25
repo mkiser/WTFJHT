@@ -1,6 +1,8 @@
 ---
 title: Day 181
 date: 2021-07-19 14:20:00 -07:00
+categories:
+- biden
 description: Repatriated.
 image: "/uploads/day-181-071921.jpg"
 todayInOneSentence: Merrick Garland prohibited the seizure of reporters' records;
@@ -10,7 +12,6 @@ todayInOneSentence: Merrick Garland prohibited the seizure of reporters' records
   Ross for misleading Congress about a Census question; and Trump's businesses hauled
   in $2.4 billion while he was president.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **Attorney General Merrick Garland formally prohibited the seizure of reporters' records.** Reversing years of department policy, Garland formally prohibited federal prosecutors from seizing the records of journalists in leak investigations, with limited exceptions. ([Associated Press](https://apnews.com/article/justice-department-reporters-records-merrick-garland-e2348419815ef84dc75cbecd7e546b39))

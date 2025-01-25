@@ -1,6 +1,8 @@
 ---
 title: Day 1416
 date: 2024-12-05 15:40:00 -08:00
+categories:
+- biden
 tags:
 - doge
 - pardon
@@ -24,7 +26,6 @@ todayInOneSentence: 'The Biden administration is in the process of extending con
   Pete Hegseth as secretary of defense; the House Republicans blocked the release
   of an Ethics Committee report on allegations against Matt Gaetz; and 88% of voters
   believe elections were well-run in 2024 – up from 59% in 2020. '
-category: biden
 ---
 
 1/ **The Biden administration is in the process of extending contracts for private immigration detention centers, expanding capacity ahead of Trump’s promised “largest deportation operation in American history.”** Despite Biden’s campaign promises to end for-profit detention centers, his administration has or is renewing contracts to add at least 4,850 additional detention beds, increasing the capacity beyond the approximately 39,000 individuals already in federal immigration custody. The incoming Trump administration, meanwhile, is preparing to deport migrants to third-party countries, where they have no cultural, linguistic, or familial ties, when their home countries refuse to accept them. ([The Guardian](https://www.theguardian.com/us-news/2024/dec/05/biden-immigration-jails-trump-mass-deportation-plan) / [NBC News](https://www.nbcnews.com/investigations/incoming-trump-administration-plans-deport-migrants-countries-rcna182896))

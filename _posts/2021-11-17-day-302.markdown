@@ -1,6 +1,8 @@
 ---
 title: Day 302
 date: 2021-11-17 15:00:00 -08:00
+categories:
+- biden
 description: '"We must draw the line."'
 image: "/uploads/302-biden.jpg"
 todayInOneSentence: The House voted to censure Rep. Paul Gosar for posting an animated
@@ -13,7 +15,6 @@ todayInOneSentence: The House voted to censure Rep. Paul Gosar for posting an an
   Trump attempt to overturn the 2020 presidential election to a federal election advisory
   board; and the seven-day average of new hospital admissions with Covid-19 climbed
   in 25 states from a week earlier.
-category: biden
 ---
 
 1/ **The House voted to censure Rep. Paul Gosar for posting an animated video that depicted him killing Rep. Alexandria Ocasio-Cortez and attacking Biden**. Gosar was also stripped of his committee assignments. The vote was 223 to 207, with two Republicans – Liz Cheney and Adam Kinzinger – joining Democrats in favor. Kevin McCarthy called the vote an “abuse of power” by Democrats. Nancy Pelosi, however, deemed the social media post an "emergency," saying: “We can not have a member joking about murdering another. This is about workplace harassment and violence against women." In a speech from the House floor prior to the vote, Ocasio-Cortez said: “As leaders in this country, when we incite violence with depictions against our colleagues, that trickles down into violence in this country, and that is where we must draw the line, independent of party or belief. It is about a core recognition of human dignity and value and worth.” Gosar, meanwhile, claimed that the video was "mischaracterized," but did not apologize. ([Politico](https://www.politico.com/news/2021/11/17/house-gosar-censure-aoc-video-522794) / [Associated Press](https://apnews.com/article/technology-entertainment-marjorie-taylor-greene-censures-alexandria-ocasio-cortez-854fd412b7a1049c8fb9a83fe2c56b8f) / [New York Times](https://www.nytimes.com/2021/11/17/us/politics/paul-gosar-video.html) / [NBC News](https://www.nbcnews.com/politics/congress/house-votes-censure-gop-rep-paul-gosar-over-video-depicting-n1284008) / [Washington Post](https://www.washingtonpost.com/politics/republicans-house-gosar-ocasio-cortez/2021/11/17/4e012bb4-47b9-11ec-b8d9-232f4afe4d9b_story.html))

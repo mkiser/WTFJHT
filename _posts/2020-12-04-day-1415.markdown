@@ -1,6 +1,8 @@
 ---
 title: Day 1415
 date: 2020-12-04 13:45:00 -08:00
+categories:
+- trump
 tags:
 - pardon
 description: '"Grim."'
@@ -16,7 +18,6 @@ todayInOneSentence: Biden will ask all Americans to wear masks for 100 days afte
   campaign and its related committees spent more than $1.1 million at Trump’s own
   properties in the last weeks of his losing 2020 campaign; and the House voted to
   remove marijuana from the federal schedule of controlled substances.
-category: trump
 ---
 
 1/ **Biden will ask all Americans to wear masks for 100 days after he is inaugurated**, saying "Just 100 days to mask, not forever. One hundred days." Biden also [asked](https://www.politico.com/news/2020/12/03/biden-fauci-covid-team-442739) Dr. Anthony Fauci to stay on as the director of the National Institute of Allergy and Infectious Diseases – the same position he has held since 1984 across six administrations. Fauci called Biden’s proposal a "good idea." The CDC, [meanwhile](https://www.washingtonpost.com/health/2020/12/04/cdc-mask-guidance-indoors/), now recommends “universal mask use” outside people’s homes as part of its updated coronavirus guidance. ([CNN](https://www.cnn.com/2020/12/03/politics/biden-harris-interview-jake-tapper/index.html) / [Washington Post](https://www.washingtonpost.com/nation/2020/12/04/coronavirus-covid-live-updates-us/) / [Politico](https://www.politico.com/news/2020/12/04/fauci-praises-biden-mask-plan-442799) / [New York Times](https://www.nytimes.com/2020/12/04/us/politics/biden-fauci-masks-virus.html) / [Axios](https://www.axios.com/fauci-biden-chief-medical-officer-851a63e4-5956-4919-add7-c75754e0f26c.html) / [NPR](https://www.npr.org/sections/biden-transition-updates/2020/12/03/942449884/biden-asks-dr-fauci-to-join-his-team-will-urge-100-days-of-mask-wearing))

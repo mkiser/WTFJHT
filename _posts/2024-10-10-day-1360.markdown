@@ -1,6 +1,8 @@
 ---
 title: Day 1360
 date: 2024-10-10 14:44:00 -07:00
+categories:
+- biden
 description: '"Not the worst case scenario."'
 image: "/uploads/day-1360-biden-harris.jpg"
 todayInOneSentence: Hurricane Milton left at least 12 people dead, and more than 3
@@ -12,7 +14,6 @@ todayInOneSentence: Hurricane Milton left at least 12 people dead, and more than
   in more than three years; and Trump urged the federal judge overseeing his election
   subversion case to not to release any additional evidence from Special Counsel Jack
   Smith's 165-page legal brief.
-category: biden
 ---
 
 1/ **Hurricane Milton left at least 12 people dead, and more than 3 million people remain without power**. “The storm did bring much destruction and damage,” Gov. Ron DeSantis said. “The storm was significant, but thankfully this was not the worst case scenario.” Biden said he pre-deployed thousands of federal personnel to areas affected by the storm, including more than 1,000 Coast Guard members, and that over 80,000 Floridians had safely sheltered from the storm. ([Associated Press](https://apnews.com/live/hurricane-milton-florida-tracker-updates) / [Politico](https://www.politico.com/news/2024/10/10/hurricane-milton-florida-damage-00183211) / [NPR](https://www.npr.org/live-updates/hurricane-milton-florida-tracker) / [Washington Post](https://www.washingtonpost.com/weather/2024/10/10/hurricane-milton-damage-deaths-florida-live-updates/) / [New York Times](https://www.nytimes.com/live/2024/10/10/weather/hurricane-milton-florida-live-news) / [ABC News](https://abcnews.go.com/US/live-updates/milton-forecast-hurricane-tracker/?id=114553995) / [NBC News](https://www.nbcnews.com/weather/hurricanes/live-blog/hurricane-milton-live-updates-rcna174774) / [Axios](https://www.axios.com/2024/10/10/hurricane-milton-florida-damage))

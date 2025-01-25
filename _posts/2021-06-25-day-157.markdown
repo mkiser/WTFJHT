@@ -1,6 +1,8 @@
 ---
 title: Day 157
 date: 2021-06-25 14:55:00 -07:00
+categories:
+- biden
 description: '"Particular cruelty."'
 image: "/uploads/day-157-biden-infrastructure.jpg"
 todayInOneSentence: The Justice Department filed a federal lawsuit against Georgia,
@@ -10,7 +12,6 @@ todayInOneSentence: The Justice Department filed a federal lawsuit against Georg
   in jeopardy; the Manhattan district attorney’s office informed Trump’s lawyers that
   it is considering criminal charges against the Trump Organization; and nearly all
   Covid-19 deaths in the U.S. now are among people who weren’t vaccinated.
-category: biden
 ---
 
 1/ **The Justice Department filed a federal lawsuit against Georgia, alleging that the restrictions from its new voting law purposefully discriminate against Black Americans**. Georgia’s Election Integrity Act, which was passed the Republican-led state legislature on a party-line vote and signed into law by Republican Gov. Brian Kemp in late March, changed how voters can cast their votes, imposed new limits on the use of absentee ballots, made it a crime for outside groups to provide food and water to voters waiting at polling stations, and handed greater control over election administration to the state legislature. "Our complaint alleges that recent changes to Georgia's election laws were enacted with the purpose of denying or abridging the right of Black Georgians to vote on account of their race or color, in violation of Section Two of the Voting Rights Act," Attorney General Merrick Garland said. Kristen Clarke, the head of the Justice Department’s Civil Rights Division, said several of the law’s provisions “were passed with a discriminatory purpose” that would disproportionately "push more Black voters to in-person voting where they will be more likely than white voters to confront long lines.” ([Washington Post](https://www.washingtonpost.com/national-security/georgia-voting-law-justice-department-lawsuit/2021/06/25/8bc3cd08-d5bd-11eb-a53a-3b5450fdca7a_story.html) / [New York Times](https://www.nytimes.com/2021/06/25/us/politics/justice-department-georgia-voting-law.html) / [Politico](https://www.politico.com/news/2021/06/25/biden-administration-to-sue-georgia-over-its-gop-enacted-voter-restrictions-496280) / [Wall Street Journal](https://www.wsj.com/articles/justice-department-to-sue-georgia-over-its-new-voting-law-11624632808?mod=djemalertNEWS) / [ABC News](https://abcnews.go.com/Politics/justice-department-sue-georgia-voting-rights-law-source/story?id=78488089))

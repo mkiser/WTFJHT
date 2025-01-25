@@ -1,6 +1,8 @@
 ---
 title: Day 1316
 date: 2024-08-27 13:35:00 -07:00
+categories:
+- biden
 description: '"The alternative is untenable."'
 image: "/uploads/day-1316-biden-harris-trump.jpg"
 todayInOneSentence: Special counsel Jack Smith charged Trump in a superseding indictment
@@ -10,7 +12,6 @@ todayInOneSentence: Special counsel Jack Smith charged Trump in a superseding in
   theorists Robert F. Kennedy Jr. and Tulsi Gabbard to his presidential transition
   team as co-chairs; and more than 200 Republicans who worked for both Bush presidents,
   Mitt Romney, and John McCain signed a letter endorsing Kamala Harris for president.
-category: biden
 ---
 
 1/ **Special counsel Jack Smith charged Trump in a superseding indictment in the case involving an alleged conspiracy to obstruct the results of the 2020 election**. The superseding indictment retains the four charges against Trump from Smith’s [original indictment](https://whatthefuckjusthappenedtoday.com/2023/08/01/day-924/#1-trump-was-indicted-by-special-coun), including conspiracy to defraud the United States, but recalibrated the case to adjust to the Supreme Court's ruling that [presidents enjoy sweeping immunity from prosecution](https://whatthefuckjusthappenedtoday.com/2024/07/01/day-1259/#1-the-supreme-court-ruled-6-3-that-t) for their official conduct. "Today, a federal grand jury in the District of Columbia returned a superseding indictment, ECF No. 226, charging the defendant with the same criminal offenses that were charged in the original indictment," the Justice Department said. "The superseding indictment, which was presented to a new grand jury that had not previously heard evidence in this case, reflects the Government’s efforts to respect and implement the Supreme Court’s holdings and remand instructions." There’s no chance the case will be tried before November’s election – and if Trump wins, he’s expected to pressure his appointees at the Justice Department to drop the case. ([ABC News](https://abcnews.go.com/Politics/donald-trump-charged-superseding-indictment-federal-election-subversion/story?id=113193224) / [Washington Post](https://www.washingtonpost.com/national-security/2024/08/27/trump-dc-indictment-new-charges-jan-6/) / [CNN](https://www.cnn.com/2024/08/27/politics/trump-superseding-indictment-january-6/index.html) / [Politico](https://www.politico.com/news/2024/08/27/trump-indicted-2020-election-subversion-00176503) / [NBC News](https://www.nbcnews.com/politics/justice-department/trump-indicted-federal-election-interference-case-supreme-court-immuni-rcna168503) / [New York Times](https://www.nytimes.com/2024/08/27/us/politics/trump-indictment-election-jan-6.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-08-27/trump-special-counsel-files-new-indictment-over-2020-election) / [Associated Press](https://apnews.com/article/trump-jack-smith-jan-6-186c874404912578e44d5781c8267e2d) / [NPR](https://www.npr.org/2024/08/27/nx-s1-5090925/trump-indictment-jan6))

@@ -1,6 +1,8 @@
 ---
 title: Day 57
 date: 2021-03-17 14:48:00 -07:00
+categories:
+- biden
 description: '"Democracy is having a hard time functioning."'
 image: "/uploads/57-biden.jpg"
 todayInOneSentence: 'Biden discouraged potential migrants hoping to enter the United
@@ -14,7 +16,6 @@ todayInOneSentence: 'Biden discouraged potential migrants hoping to enter the Un
   bill; and Biden suggested that he supports reforming the filibuster after Mitch
   McConnell threatened to go “scorched earth” if Democrats move all legislation to
   a simple majority vote in the Senate. '
-category: biden
 ---
 
 1/ **Biden discouraged potential migrants hoping to enter the United States, saying "don't come \[...\] don't leave your town or city or community."** More than 13,000 unaccompanied migrant children are currently in U.S. custody and the country is on pace to stop more migrants crossing the border than in the last 20 years. Republicans, meanwhile, have blamed the surge of migrants and unaccompanied minors at the southern border on Biden [rescinding](https://whatthefuckjusthappenedtoday.com/2021/02/11/day-23/#2-biden-rescinded-trump%E2%80%99s-national-e) Trump’s immigration policies, including a program that returned asylum seekers to wait in Mexico while their cases were being considered. ([ABC News](https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159) / [CBS News](https://www.cbsnews.com/news/immigration-migrant-children-border-patrol-custody/) / [CNN](https://www.cnn.com/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html) / [The Guardian](https://www.theguardian.com/us-news/2021/mar/17/joe-biden-immigration-putin-afghanistan-cuomo-dog) / [USA Today](https://www.usatoday.com/story/news/politics/2021/03/16/president-joe-biden-migrants-border-surge-unaccompanied-minors/4726104001/))

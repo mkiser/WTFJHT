@@ -1,6 +1,8 @@
 ---
 title: Day 789
 date: 2019-03-19 09:30:00 -07:00
+categories:
+- trump
 description: A little longer.
 image: "/uploads/789.jpg"
 todayInOneSentence: 'Mueller obtained warrants to search Michael Cohen''s emails and
@@ -9,7 +11,6 @@ todayInOneSentence: 'Mueller obtained warrants to search Michael Cohen''s emails
   immigrants indefinitely with past criminal records; and the House Judiciary Committee
   said it received "tens of thousands" of requested documents but the White House
   has ignored the requests. '
-category: trump
 ---
 
 1/ **Robert Mueller obtained warrants to search Michael Cohen's emails and cell phones in July, August and November 2017**, according to the unsealed search warrant applications. One warrant allowed Mueller's office to search Cohen's emails dating to June 2015 when Cohen still worked for the Trump Organization. In particular, Mueller sought records of any "funds of benefits received by or offered" to Cohen "on behalf of, any foreign government," as well as evidence of efforts "to conduct activities on behalf of, for the benefit of, or at the direction of any foreign government." In February 2018, Mueller's office began referring parts of its Cohen investigation to federal prosecutors in New York, including relevant emails from its warrants. Investigators used the search warrants as the basis for an April 2018 raid of Cohen's office, home, safety deposit box and a hotel room where he had been staying. Cohen ultimately pleaded guilty to tax fraud, bank fraud, campaign finance violations and lying to Congress. Mueller was was appointed special counsel in May 2017. ([New York Times](https://www.nytimes.com/2019/03/19/nyregion/michael-cohen-documents-trump.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/mueller-began-investigating-michael-cohens-phone-and-digital-data-months-before-fbi-raid-warrants-show/2019/03/19/9e936cc2-49b5-11e9-b79a-961983b7e0cd_story.html) / [Associated Press](https://apnews.com/63b58a572f844f11889610f04ee4ad1d) / [Politico](https://www.politico.com/story/2019/03/19/mueller-investigation-michael-cohen-1226983) / [CNN](https://www.cnn.com/2019/03/19/politics/michael-cohen-warrant-documents/index.html) / [NBC News](https://www.nbcnews.com/politics/justice-department/cohen-investigation-began-2017-search-warrant-shows-n984776))

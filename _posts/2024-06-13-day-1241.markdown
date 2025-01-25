@@ -1,6 +1,8 @@
 ---
 title: Day 1241
 date: 2024-06-13 15:23:00 -07:00
+categories:
+- biden
 description: '"Outrageous and unacceptable."'
 image: "/uploads/day-1241-biden.jpg"
 todayInOneSentence: The Supreme Court unanimously preserved access to the abortion
@@ -10,7 +12,6 @@ todayInOneSentence: The Supreme Court unanimously preserved access to the aborti
   federal government to help him "overturn" a conviction by a jury of his peers in
   New York; and Trump called Milwaukee — the location for the Republican National
   Convention — a "horrible city."
-category: biden
 ---
 
 1/ **The Supreme Court unanimously preserved access to the abortion pill mifepristone**, rejecting a challenge to the FDA’s rules for prescribing and dispensing abortion pills. The court, however, took no position on the drugs safety, morality, or whether people have a right to bodily autonomy. Instead, the court said the anti-abortion group had failed to show they had been harmed and did not have legal standing to sue. "For that reason, the federal courts are the wrong forum for addressing the plaintiffs’ concerns about FDA’s actions,” Justice Brett Kavanaugh wrote for the court, even though the plaintiffs have "sincere legal, moral, ideological, and policy objections." Kavanaugh suggested that the plaintiffs take their issues to the president, lawmakers, and regulators to make changes. Although the ruling was unanimous, Missouri, Kansas, and Idaho, each of which has a Republican attorney general, have brought their own claims and have different arguments for standing. Mifepristone was used in nearly two-thirds of all abortions in the U.S. last year. ([Washington Post](https://www.washingtonpost.com/politics/2024/06/13/supreme-court-abortion-pill-ruling-mifepristone/) / [Associated Press](https://apnews.com/article/supreme-court-abortion-mifepristone-fda-4073b9a7b1cbb1c3641025290c22be2a) / [New York Times](https://www.nytimes.com/2024/06/13/us/politics/abortion-pill-standing.html) / [CNN](https://www.cnn.com/politics/live-news/supreme-court-abortion-pill-decision-06-13-24/index.html) / [NPR](https://www.npr.org/2024/06/05/nx-s1-4994407/supreme-court-mifepristone) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-bid-restrict-access-abortion-pill-rcna151308) / [Politico](https://www.politico.com/news/2024/06/13/supreme-court-wont-restrict-access-to-abortion-pill-00163149) / [Axios](https://www.axios.com/2024/06/13/supreme-court-abortion-pill-case-decision) / [ABC News](https://abcnews.go.com/Politics/biden-fight-reproductive-freedom-continues-despite-scotus-mifepristone/story?id=111094353) / [Wall Street Journal](https://www.wsj.com/us-news/law/supreme-court-abortion-pill-mifepristone-f78f3320?mod=hp_lead_pos1))

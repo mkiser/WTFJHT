@@ -1,6 +1,8 @@
 ---
 title: Day 727
 date: 2019-01-16 08:49:00 -08:00
+categories:
+- trump
 description: Damage.
 image: "/uploads/727.jpg"
 todayInOneSentence: The government shutdown is causing more economic damage than previously
@@ -10,7 +12,6 @@ todayInOneSentence: The government shutdown is causing more economic damage than
   the agency "ignored" concerns about that the Trump International Hotel lease violated
   the Constitution's emoluments clause; and ISIS claimed responsibility for an explosion
   that killed at least two U.S. troops in northern Syria.
-category: trump
 ---
 
 1/ **The government shutdown is causing more economic damage than previously estimated and could push the U.S. economy into a [contraction](https://www.investopedia.com/terms/c/contraction.asp)**. White House economic adviser Kevin Hassett called "the damage" to the economy "a little bit worse" than anticipated, because they miscalculated the rate of damage by failing to account for government contractors. Meanwhile, the White House revised estimates from the Council of Economic Advisers, which shows that the shutdown – now in its 26th day – reduces quarterly economic growth by 0.13 percentage points for every week that it lasts. By comparison, last year's economic growth for the first quarter totaled 2.2% ([New York Times](https://www.nytimes.com/2019/01/15/us/politics/government-shutdown-economy.html) / [CNN](https://www.cnn.com/2019/01/16/politics/kevin-hassett-shutdown-economic-growth/index.html) / [NPR](https://www.npr.org/2019/01/16/685845545/shutdown-will-be-worse-for-economy-than-first-thought-white-house-says))

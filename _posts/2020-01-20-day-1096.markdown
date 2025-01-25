@@ -1,6 +1,8 @@
 ---
 title: Day 1096
 date: 2020-01-20 09:09:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: '"The Framers'' worst nightmare."'
@@ -11,7 +13,6 @@ todayInOneSentence: The Senate impeachment trial is set to begin tomorrow; Trump
   House Democrats; Adam Schiff accused the White House of pressuring the NSA and CIA
   of withholding documents about Ukraine from Congress; and 51% of Americans say the
   Senate should vote to convict Trump and remove him from office.
-category: trump
 ---
 
 1/ **Trump's legal team called on the Senate to "swiftly reject" the "flimsy" impeachment charges against Trump and that he "should immediately be acquitted" because of a "rigged process" by House Democrats**. In a 110-page brief submitted to the Senate the day before Trump's trial begins, Trump's lawyer dismissed the two articles of impeachment – abuse of power and obstruction of Congress – against Trump as a "charade" that is "frivolous and dangerous," claiming the charges are "constitutionally invalid" and "deficient on their face" because they don't involve any violations of law. The legal team maintained that Trump did "absolutely nothing wrong" and is the victim of a "brazenly political act by House Democrats." The brief came after the seven House managers argued that Trump's behavior amounted to "the Framers' worst nightmare" and that his actions present a "danger to our democratic processes." ([New York Times](https://www.nytimes.com/2020/01/20/us/politics/trump-legal-team-asks-senate-for-speedy-acquittal-in-impeachment-trial.html) / [Washington Post](https://www.washingtonpost.com/politics/in-impeachment-brief-white-house-to-urge-swift-senate-acquittal-of-trump/2020/01/20/76283aac-3b8f-11ea-8872-5df698785a4e_story.html) / [Wall Street Journal](https://www.wsj.com/articles/white-house-calls-impeachment-charges-frivolous-and-dangerous-in-legal-brief-11579541826) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-s-legal-team-calls-impeachment-articles-affront-constitution-urges-n1118861) / [Politico](https://www.politico.com/news/2020/01/18/trump-impeachment-response-house-charges-100791) / [Associated Press](https://apnews.com/2c79655e468cc949917f57c085d6bba7) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-01-20/trump-lawyers-say-ouster-from-office-would-violate-constitution) / [Axios](https://www.axios.com/trump-impeachment-trial-defense-brief-770ed7f5-e989-46b7-ab90-1bdbeaf813fc.html) / [CNN](https://www.cnn.com/2020/01/20/politics/donald-trump-impeachment-response/index.html))

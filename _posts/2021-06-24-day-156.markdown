@@ -1,6 +1,8 @@
 ---
 title: Day 156
 date: 2021-06-24 13:50:00 -07:00
+categories:
+- biden
 description: '"Root causes."'
 image: "/uploads/day-156-biden.jpg"
 todayInOneSentence: Biden agreed to a bipartisan infrastructure deal; the chairman
@@ -11,7 +13,6 @@ todayInOneSentence: Biden agreed to a bipartisan infrastructure deal; the chairm
   theory that Trump will be reinstated as president in August; Nancy Pelosi announced
   the creation of a select committee to examine the January 6 attack on the Capitol;
   and the Biden administration extended the national moratorium on evictions.
-category: biden
 ---
 
 1/ **Biden agreed to a bipartisan infrastructure deal after meeting with a group of senators at the White House**. “We have a deal,” Biden said, endorsing the roughly $1 trillion infrastructure plan by a group of 10 senators. Under the framework, the bipartisan package would include about $579 billion in new spending to overhaul the nation’s transportation, electric utilities, water, and broadband infrastructure. The Senate, meanwhile, has started to work on a budget resolution that would allow Democrats to pass a second, much larger package of spending and tax increases unilaterally. Chuck Schumer said the Senate will simultaneously move forward with both the bipartisan agreement and the reconciliation bill. Nancy Pelosi told House Democratic leaders that the House won’t take up the bipartisan agreement until the Senate approves a package through reconciliation. ([Bloomberg](https://www.bloomberg.com/news/articles/2021-06-24/biden-s-push-for-infrastructure-deal-closer-to-senate-goal-line?srnd=premium&sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/politics/bipartisan-group-of-senators-to-meet-with-biden-at-white-house-to-try-to-finalize-infrastructure-deal/2021/06/24/6710e90c-d4e9-11eb-ae54-515e2f63d37d_story.html) / [Wall Street Journal](https://www.wsj.com/articles/biden-senators-agree-to-roughly-1-trillion-infrastructure-plan-11624553972?mod=hp_lead_pos1) / [New York Times](https://www.nytimes.com/live/2021/06/24/us/joe-biden-news/biden-infrastruture) / [Politico](https://www.politico.com/news/2021/06/24/biden-meeting-senate-bipartisan-infrastructure-talks-495941) / [CNN](https://www.cnn.com/2021/06/24/politics/biden-infrastructure-meeting-senators/) / [NBC News](https://www.nbcnews.com/politics/congress/we-have-deal-biden-announces-bipartisan-infrastructure-agreement-n1272284) / [CNBC](https://www.cnbc.com/2021/06/24/infrastructure-deal-talks-biden-invites-bipartisan-senators-to-white-house.html))

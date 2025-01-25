@@ -1,6 +1,8 @@
 ---
 title: Day 1344
 date: 2020-09-24 15:03:00 -07:00
+categories:
+- trump
 description: '"There won''t be a transfer."
 
 '
@@ -12,7 +14,6 @@ todayInOneSentence: Trump refused to commit to a "peaceful transfer of power" if
   voter fraud "by mail or otherwise"; and Trump suggested that the White House would
   overrule the FDA if the agency issued new, tougher standards for the emergency authorization
   of a coronavirus vaccine.
-category: trump
 ---
 
 * ### 🗳 How To Vote In The 2020 Election In Every State.

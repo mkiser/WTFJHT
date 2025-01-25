@@ -1,6 +1,8 @@
 ---
 title: Day 798
 date: 2019-03-28 10:30:00 -07:00
+categories:
+- trump
 description: Bully.
 image: "/uploads/798.jpg"
 todayInOneSentence: Mueller's report is more than 300 pages long and contains "lots
@@ -9,7 +11,6 @@ todayInOneSentence: Mueller's report is more than 300 pages long and contains "l
   in Congress are calling Adam Schiff to resign; and Trump accused two former FBI
   employees of having "committed treason" for investigating possible Russian links
   to his campaign.
-category: trump
 ---
 
 1/ **Robert Mueller's report is more than 300 pages long and contains "lots and lots of footnotes,"** raising questions about how Attorney General Bill Barr was able to release his four-page summary of "principal conclusions" two days after Mueller turned it in. Democrats have demanded that Barr make the full report and "all of the underlying evidence" public. Nancy Pelosi called Barr's summary "condescending" and "arrogant." The Justice Department, meanwhile, has said it will release a version of the Mueller report in "weeks not months," but sensitive information will not be included. ([New York Times](https://www.nytimes.com/2019/03/28/us/politics/mueller-report-length.html) / [Politico](https://www.politico.com/story/2019/03/28/mueller-report-length-1242017) / [Wall Street Journal](https://www.wsj.com/articles/justice-department-official-says-mueller-report-is-more-than-300-pages-11553786698) / [Associated Press](https://www.apnews.com/c53b37110eb94149bf925c660ad16fb4) / [Axios](https://www.axios.com/nancy-pelosi-mueller-report-bill-barr-summary-3ba27a36-3ebd-4bff-8885-29ff6ab1792e.html) / [CNN](https://www.cnn.com/2019/03/28/politics/mueller-report-pages/index.html) / [NBC News](https://www.nbcnews.com/politics/justice-department/mueller-s-report-russia-probe-more-300-pages-long-n988426))

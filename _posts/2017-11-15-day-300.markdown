@@ -1,11 +1,12 @@
 ---
 title: Day 300
 date: 2017-11-15 07:58:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: No plans.
 image: "/uploads/300.jpg"
-category: trump
 ---
 
 1/ **The author of the Trump dossier believes his report is 70-90% accurate**. Christopher Steele's reports were commissioned by Fusion GPS as opposition report and detail allegations that the Kremlin had personally compromising material on Trump, including sex tapes recorded during a 2013 trip to Moscow, as well as evidence that Trump and his associates actively colluded with Russian intelligence to influence the election. ([The Guardian](https://www.theguardian.com/us-news/2017/nov/15/christopher-steele-trump-russia-dossier-accurate))

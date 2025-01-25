@@ -1,10 +1,11 @@
 ---
 title: Day 496
 date: 2018-05-30 05:16:00 -07:00
+categories:
+- trump
 description: '"An absolute, total tool."'
 image: "/uploads/496.jpg"
 author: Joe Amditis
-category: trump
 ---
 
 1/ **Robert Mueller is investigating Trump's request to Jeff Sessions that he reverse his decision to recuse himself from the Russia investigation in March 2017.** Trump berated Sessions in public and in private over his decision to step away, but Sessions refused Trump's request. Mueller is investigating the previously unreported confrontation as part of the ongoing obstruction of justice probe. Mueller's interest in Sessions suggests the investigation may be even more broad than Trump's interactions with and subsequent firing of James Comey. ([New York Times](https://www.nytimes.com/2018/05/29/us/politics/trump-sessions-obstruction.html) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/30/the-trump-obstruction-of-justice-probe-is-bigger-than-we-realized/))

@@ -1,6 +1,8 @@
 ---
 title: Day 1029
 date: 2019-11-14 13:56:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: Not even a little bit.
@@ -12,7 +14,6 @@ todayInOneSentence: A federal appeals court ruled that Trump's accounting firm m
   to the European Union discussing the need for Ukrainian "investigations"; Trump
   made 67 false claims last week; and 47% of Americans believe it's difficult to identify
   true and factual information.
-category: trump
 ---
 
 1/ **A federal appeals court ruled that Trump's accounting firm must comply with a congressional subpoena for eight years of Trump's tax returns**. The U.S. Court of Appeals in D.C. voted 8-3 to reject Trump's arguments that Congress didn't have the authority to request his business records because the House Oversight and Reform Committee only needed them to determine whether Trump broke existing laws – not whether to enact a new law. The House committee subpoenaed Trump's accounting firm, Mazars USA, in March demanding a broad set of Trump's financial records. ([Reuters](https://www.reuters.com/article/us-usa-trump-financialrecords-idUSKBN1XO00O) / [NPR](https://www.npr.org/2019/11/14/779168635/federal-appeals-court-lets-stand-ruling-that-congress-can-subpoena-trump-tax-ret) / [Washington Post](https://www.washingtonpost.com/local/legal-issues/congress-can-seek-eight-years-of-trumps-tax-records-appeals-court-rules/2019/11/13/b4fc8002-fc07-11e9-8906-ab6b60de9124_story.html) / [New York Times](https://www.nytimes.com/2019/11/13/us/politics/trump-financial-records-lawsuit.html) / [Politico](https://www.politico.com/news/2019/11/14/trump-lawyers-tax-returns-fight-supreme-court-070875))

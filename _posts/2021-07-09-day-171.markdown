@@ -1,6 +1,8 @@
 ---
 title: Day 171
 date: 2021-07-09 13:47:00 -07:00
+categories:
+- biden
 description: '"Any necessary action."'
 image: "/uploads/day-171-070921.jpg"
 todayInOneSentence: Biden told Putin to take action against Russian cyberattacks;
@@ -9,7 +11,6 @@ todayInOneSentence: Biden told Putin to take action against Russian cyberattacks
   reopen in the fall; Biden signed an anti-monopoly executive order; and the Dept.
   of Education is urging the White House to extend pandemic-related student loan relief.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **Biden told Putin the U.S. will take "any necessary action" after the latest massive ransomware attack.** The White House says Biden has warned Putin that the United States would hold Moscow responsible for cyberattacks originating from Russia even if they cannot be directly linked to the Kremlin. ([Washington Post](https://www.washingtonpost.com/politics/russia-united-states-ransomware-attacks-biden/2021/07/09/034ac07e-e0d7-11eb-b507-697762d090dd_story.html))

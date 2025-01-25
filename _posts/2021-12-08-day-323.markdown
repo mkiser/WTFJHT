@@ -1,6 +1,8 @@
 ---
 title: Day 323
 date: 2021-12-08 14:35:00 -08:00
+categories:
+- biden
 description: '"No choice."'
 image: "/uploads/day-323-biden.jpg"
 todayInOneSentence: Preliminary laboratory tests suggest that three doses of the Pfizer
@@ -13,7 +15,6 @@ todayInOneSentence: Preliminary laboratory tests suggest that three doses of the
   2050; and the House select committee investigating the Jan. 6 attack on the Capitol
   will move hold Mark Meadows in criminal contempt for refusing to appear for a scheduled
   deposition.
-category: biden
 ---
 
 1/ **Preliminary laboratory tests suggest that three doses of the Pfizer coronavirus vaccine offer significant protection against the Omicron variant**. The early data, which has not been peer reviewed or published, found that a third dose increased antibodies 25-fold compared with two doses against Omicron. The lab findings also indicate that the two-dose regimen “may not be sufficient” to protect against infection with Omicron, but may still protect against severe disease. Dr. Anthony Fauci, meanwhile, added that the emerging evidence suggests Omicron may be more transmissible than previous variants but cause less severe illness. ([New York Times](https://www.nytimes.com/live/2021/12/08/world/omicron-variant-covid/pfizer-says-blood-samples-showed-a-third-dose-of-its-vaccine-provides-significant-protection-against-omicron) / [Washington Post](https://www.washingtonpost.com/health/2021/12/08/omicron-pfizer-booster/) / [NBC News](https://www.nbcnews.com/health/health-news/pfizer-says-booster-dose-vaccine-protects-omicron-variant-rcna7970) / [Wall Street Journal](https://www.wsj.com/articles/pfizer-biontech-covid-19-vaccine-loses-significant-effectiveness-against-omicron-in-early-study-companies-say-11638964121) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-12-08/pfizer-biontech-say-third-dose-neutralizes-omicron-variant?sref=MIBMEEoj) / [CNN](https://www.cnn.com/2021/12/08/health/pfizer-omicron-vaccine-data/) / [Politico](https://www.politico.com/news/2021/12/08/pfizer-booster-omicron-523935))

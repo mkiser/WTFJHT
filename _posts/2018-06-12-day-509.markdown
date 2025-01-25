@@ -1,6 +1,8 @@
 ---
 title: Day 509
 date: 2018-06-12 09:29:00 -07:00
+categories:
+- trump
 description: A very special bond.
 image: "/uploads/509.jpg"
 todayInOneSentence: The Justice Department argued that Trump could continue to profit
@@ -9,7 +11,6 @@ todayInOneSentence: The Justice Department argued that Trump could continue to p
   at least $82 million in outside income while serving as Trump's advisers during
   2017; and Trump believes Kim Jong Un will give up his nuclear weapons because they
   have a "terrific relationship."
-category: trump
 ---
 
 1/ **The Justice Department argued that Trump could continue to profit from foreign governments visiting his hotel in Washington, D.C.,** if he didn't explicitly provide something in return. A federal judge criticized the argument that Trump's financial interest in the Trump International Hotel in D.C. is constitutional. The lawsuit, brought by the District of Columbia and the state of Maryland, claims that Trump's profits from the hotel violate the Emoluments Clause, which prohibits government employees from receiving financial benefits outside of their official salary. The judge promised to decide by the end of the July whether to allow the case to proceed to the next stage. ([New York Times](https://www.nytimes.com/2018/06/11/us/politics/emoluments-lawsuit-trump-hotel.html) / [BuzzFeed News](https://www.buzzfeed.com/zoetillman/justice-department-emolument-clause-argument) / [CNN](https://www.cnn.com/2018/06/11/politics/trump-emoluments-hearing/index.html))

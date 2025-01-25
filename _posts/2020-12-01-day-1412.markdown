@@ -1,6 +1,8 @@
 ---
 title: Day 1412
 date: 2020-12-01 14:25:00 -08:00
+categories:
+- trump
 tags:
 - pardon
 description: '"We just don’t have time to waste time."'
@@ -19,7 +21,6 @@ todayInOneSentence: Attorney General William Barr said the Justice Department ha
   evidence that the coronavirus was present in the U.S. weeks earlier previously thought;
   and a bipartisan group of senators introduced a coronavirus aid proposal worth about
   $908 billion, which Mitch McConnell immediately rejected.
-category: trump
 ---
 
 1/ **Attorney General William Barr said the Justice Department has “not seen fraud on a scale that could have affected a different outcome in the election,”** undercutting Trump's baseless claims of widespread voting irregularities. Barr suggested that the FBI and Justice Department looked into some fraud claims, but they "haven't seen anything to substantiate" any "claim that machines were programmed essentially to skew the election results." Last month, Barr [authorized](https://whatthefuckjusthappenedtoday.com/2020/11/10/day-1391/#1-attorney-general-william-barr-auth) U.S. attorneys to pursue any “substantial allegations” of voting irregularities, if they existed, before the 2020 presidential election was certified, despite no evidence of widespread fraud at that time. ([Associated Press](https://apnews.com/article/election-2020-joe-biden-donald-trump-elections-william-barr-b1f1488796c9a98c4b1a9061a6c7f49d) / [Washington Post](https://www.washingtonpost.com/national-security/barr-no-evidence-election-fraud/2020/12/01/5f4dcaa8-340a-11eb-8d38-6aea1adb3839_story.html) / [Axios](https://www.axios.com/barr-voter-fraud-trump-bd0713d6-91da-40e0-ae6b-6c5a4287f1ee.html) / [ABC News](https://abcnews.go.com/Politics/doj-uncovered-widespread-fraud-change-election-results-barr/story?id=74486937))

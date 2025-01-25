@@ -1,6 +1,8 @@
 ---
 title: Day 1169
 date: 2020-04-02 15:25:00 -07:00
+categories:
+- trump
 description: '"Here we go again."'
 image: "/uploads/1169.jpg"
 todayInOneSentence: More than 6.6 million Americans applied for unemployment benefits
@@ -12,7 +14,6 @@ todayInOneSentence: More than 6.6 million Americans applied for unemployment ben
   aboard the USS Theodore Roosevelt; and the Secret Service signed a $45,000 contract
   this week to rent a fleet of golf carts in Northern Virginia – home to one of Trump’s
   golf clubs.
-category: trump
 ---
 
 * **Daily Damage Report.**

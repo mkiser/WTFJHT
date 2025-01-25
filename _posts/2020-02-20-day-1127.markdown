@@ -1,6 +1,8 @@
 ---
 title: Day 1127
 date: 2020-02-20 14:25:00 -08:00
+categories:
+- trump
 tags:
 - pardon
 description: Desperate.
@@ -14,7 +16,6 @@ todayInOneSentence: An intelligence official in charge of election security warn
   National Committee will spend more than $10 million to challenge Democratic voting-related
   lawsuits; Roger Stone was sentenced to 40 months in prison; and Trump said he wouldn’t
   immediately pardon Stone but would intervene if courts don’t overturn his conviction.
-category: trump
 ---
 
 1/ **An intelligence official in charge of election security warned the House Intelligence Committee last week that Russia was interfering in the 2020 campaign to try to get Trump re-elected**. Trump’s allies challenged the conclusions by Shelby Pierson during the meeting, arguing that Trump has been tough on Russia and strengthened European security. Trump reportedly "erupted" and "berated" his acting director of national intelligence, Joseph Maguire, in the Oval Office following the meeting over what he perceived as disloyalty. Trump also erroneously believed that Pierson had given information exclusively to Rep. Adam Schiff, complaining that Democrats would “weaponize” the disclosure. Yesterday, Trump announced that he was replacing Maguire with Richard Grenell, the ambassador to Germany and a vocal Trump supporter. ([Washington Post](https://www.washingtonpost.com/national-security/after-a-congressional-briefing-on-election-threats-trump-soured-on-acting-spy-chief/2020/02/20/1ed2b4ec-53f1-11ea-b119-4faabac6674f_story.html) / [New York Times](https://www.nytimes.com/2020/02/20/us/politics/russian-interference-trump-democrats.html))

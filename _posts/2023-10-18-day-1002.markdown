@@ -1,6 +1,8 @@
 ---
 title: Day 1002
 date: 2023-10-18 13:14:00 -07:00
+categories:
+- biden
 description: '"The other team."'
 image: "/uploads/day-1002-biden.jpg"
 todayInOneSentence: 'The latest U.S. intelligence assessment concludes that Israel
@@ -9,7 +11,6 @@ todayInOneSentence: 'The latest U.S. intelligence assessment concludes that Isra
   refusing to back him grew; Trump appealed the gag order imposed on him in his federal
   election case; and 85% of voters say they are concerned that the war between Israel
   and Hamas will escalate into a wider war in the Middle East. '
-category: biden
 ---
 
 1/ **The latest U.S. intelligence assessment concludes that Israel was “not responsible” for the blast at the al-Ahli Hospital in Gaza**, based on “overhead imagery, intercepts and open source information.” Biden said the strike appeared to have resulted from an “errant rocket fired by a terrorist group in Gaza,” adding "it appears as though it was done by the other team." Following his trip to Israel, Biden announced a deal with Israel to allow humanitarian aid to move into Gaza from Egypt. The U.S. will send $100 million in humanitarian assistance for Palestinians, and Biden said he would ask Congress for an "unprecedented" aid package for Israel. More than a million people have been displaced in the Gaza Strip, which the World Health Organization described conditions as "spiraling out of control" for those trapped in the enclave ahead of an expected Israeli invasion. The Treasury Department, meanwhile, [imposed](https://www.axios.com/2023/10/18/hamas-sanctions-treasury-qatar) [sanctions](https://www.cnn.com/2023/10/18/politics/treasury-department-hamas/index.html) on “10 key Hamas terrorist group members, operatives, and financial facilitators” following the "brutal and unconscionable massacre of Israeli civilians." ([Associated Press](https://apnews.com/live/israel-hamas-war-live-updates) / [New York Times](https://www.nytimes.com/live/2023/10/18/world/israel-hamas-war-biden-gaza) / [Wall Street Journal](https://www.wsj.com/livecoverage/israel-hamas-war-biden) / [Washington Post](https://www.washingtonpost.com/world/2023/10/18/israel-hamas-war-news-gaza-update/) / [CNN](https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-18-23/index.html) / [NPR](https://www.npr.org/live-updates/biden-israel-gaza-hamas-palestine) / [NBC News](https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna120978) / [Axios](https://www.axios.com/2023/10/18/biden-gaza-hospital-israel-other-team) / [Politico](https://www.politico.eu/article/us-biden-on-gaza-hospital-strike-the-other-team-did-it/) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-10-18/biden-lands-in-israel-seeking-to-salvage-trip-after-deadly-blast?srnd=premium&sref=MIBMEEoj))

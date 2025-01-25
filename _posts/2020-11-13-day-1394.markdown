@@ -1,6 +1,8 @@
 ---
 title: Day 1394
 date: 2020-11-13 14:41:00 -08:00
+categories:
+- trump
 description: '"Trying to survive."'
 image: "/uploads/1394.jpg"
 todayInOneSentence: The U.S. topped more than 153,000 coronavirus cases for the first
@@ -14,7 +16,6 @@ todayInOneSentence: The U.S. topped more than 153,000 coronavirus cases for the 
   beat Biden and has asked advisers whether he could pressure Republican legislatures
   to pick pro-Trump electors in key states to steal the electoral votes needed to
   change the math and give him a second term.
-category: trump
 ---
 
 1/ **The U.S. topped more than 153,000 coronavirus cases for the first time, hospitalizations hit another all-time high, and New Mexico and Oregon issued new lockdown orders**. It's the seventh time in nine days that the confirmed cases reached a new high. The death toll, meanwhile, surpassed 242,000. Biden’s coronavirus task force rejected the possibility of a national lockdown, but Biden did say he would ask governors to institute a mask mandate in their states. ([New York Times](https://www.nytimes.com/live/2020/11/13/world/covid-19-coronavirus-updates) / [Wall Street Journal](https://www.wsj.com/livecoverage/covid-2020-11-13?mod=hp_lead_pos1) / [Washington Post](https://www.washingtonpost.com/nation/2020/11/13/coronavirus-covid-live-updates-us/))

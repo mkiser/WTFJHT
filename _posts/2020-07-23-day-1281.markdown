@@ -1,6 +1,8 @@
 ---
 title: Day 1281
 date: 2020-07-23 14:39:00 -07:00
+categories:
+- trump
 description: '"Person, woman, man, camera, TV."'
 image: "/uploads/1281.jpg"
 todayInOneSentence: The U.S. surpassed four million coronavirus cases a little over
@@ -9,7 +11,6 @@ todayInOneSentence: The U.S. surpassed four million coronavirus cases a little o
   to reach an agreement on a coronavirus legislative package; and Trump insisted that
   the cognitive test he recently took was “difficult" and "not that easy" because
   he had to correctly recall the phrase “person, woman, man, camera, TV.”
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

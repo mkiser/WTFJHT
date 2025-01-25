@@ -1,6 +1,8 @@
 ---
 title: Day 1229
 date: 2020-06-01 15:17:00 -07:00
+categories:
+- trump
 description: 'Bunker boy. '
 image: "/uploads/1229.jpg"
 todayInOneSentence: After a weekend out of sight, Trump emerged from the White House
@@ -11,7 +13,6 @@ todayInOneSentence: After a weekend out of sight, Trump emerged from the White H
   1,000 people gathered to protest outside of its gates; and public health and government
   officials warned that the ongoing protests against police brutality could lead to
   a new wave of coronavirus infections.
-category: trump
 ---
 
 * ### 😷 Dept. of We Have It Totally Under Control.

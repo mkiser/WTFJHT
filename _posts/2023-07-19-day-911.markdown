@@ -1,6 +1,8 @@
 ---
 title: Day 911
 date: 2023-07-19 14:44:00 -07:00
+categories:
+- biden
 description: '"Significant negative effect."'
 image: "/uploads/day-911-biden.jpg"
 todayInOneSentence: 'The U.S. and China need more time to “break new ground” to reach
@@ -10,7 +12,6 @@ todayInOneSentence: 'The U.S. and China need more time to “break new ground”
   smoke this week; Kevin McCarthy suggested that the U.S. could plant a trillion trees
   to combat climate change instead of phasing out fossil fuels; and 55% of Americans
   are expecting a “significant negative effect” from climate change during their lifetime. '
-category: biden
 ---
 
 1/ **The U.S. and China need more time to “break new ground” to reach new climate agreements despite “productive” conversations**. U.S. special climate envoy John Kerry said the two countries “had a very extensive set of frank conversations" and committed to “work intensively in the weeks ahead” to better address greenhouse gas emissions, boosting renewable power, and developing national climate plans ahead of a critical United Nations climate summit starting this November in Dubai. China is the world’s largest greenhouse gas emitter, followed by the U.S. Although China has vowed to peak its carbon pollution by 2030 and hit carbon neutrality by 2060, Chinese leader Xi Jinping reiterated that the country would resist efforts from other nations to push it to move faster, saying the approach for achieving those targets “must be determined by ourselves, and will never be influenced by others.” ([Politico](https://www.politico.com/news/2023/07/19/kerrys-effort-to-secure-climate-deal-with-china-falls-short-00107022) / [Washington Post](https://www.washingtonpost.com/climate-environment/2023/07/19/climate-change-heat-wave-china/) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-07-19/kerry-says-us-china-need-more-time-to-break-ground-on-climate?srnd=premium&sref=MIBMEEoj))

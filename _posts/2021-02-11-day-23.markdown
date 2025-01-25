@@ -1,6 +1,8 @@
 ---
 title: Day 23
 date: 2021-02-11 14:17:00 -08:00
+categories:
+- biden
 tags:
 - impeachment
 description: '"A new terrible standard."'
@@ -11,7 +13,6 @@ todayInOneSentence: The House impeachment managers prosecuting Trump rested thei
   the U.S.-Mexico border; senior Justice Department officials in 2020 repeatedly tried
   to block a search warrant for Rudy Giuliani’s records related to his activities
   in Ukraine; and 66% of Republicans still believe Biden’s election was not legitimate.
-category: biden
 ---
 
 ### ⚖️ Trump’s Second Senate Impeachment Trial: Day 3.

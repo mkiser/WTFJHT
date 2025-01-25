@@ -1,6 +1,8 @@
 ---
 title: Day 1188
 date: 2020-04-21 15:06:00 -07:00
+categories:
+- trump
 description: '"A new way of living."'
 image: "/uploads/1188.jpg"
 todayInOneSentence: The White House and congressional leaders reached agreement on
@@ -15,7 +17,6 @@ todayInOneSentence: The White House and congressional leaders reached agreement 
   Senate Intelligence Committee report reaffirmed the U.S. intelligence community’s
   conclusions that Russia interfered in the 2016 presidential election with the goal
   of putting Trump in the Oval Office.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

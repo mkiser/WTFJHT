@@ -1,6 +1,8 @@
 ---
 title: Day 1384
 date: 2020-11-03 12:24:00 -08:00
+categories:
+- trump
 description: '"Fired up, ready to go."'
 image: "/uploads/1384.jpg"
 todayInOneSentence: 'More than 100 million Americans voted early; Biden is favored
@@ -13,7 +15,6 @@ todayInOneSentence: 'More than 100 million Americans voted early; Biden is favor
   night; in some states the count might take days; and there’s a decent chance that
   it will take days or weeks before we have an actual the winner of the presidential
   election. In other words: Hold on to your butts. '
-category: trump
 ---
 
 * ### 🗳 Dept. of Vote, damn it.

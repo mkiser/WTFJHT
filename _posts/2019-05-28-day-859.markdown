@@ -1,6 +1,8 @@
 ---
 title: Day 859
 date: 2019-05-28 09:44:00 -07:00
+categories:
+- trump
 description: '"False narrative."'
 image: "/uploads/859.jpg"
 todayInOneSentence: Mueller reportedly drafted a three-count obstruction of justice
@@ -11,7 +13,6 @@ todayInOneSentence: Mueller reportedly drafted a three-count obstruction of just
   information for purposes of political gain"; and Trump denied that North Korea fired
   any ballistic missiles or violated the United Nations Security Council resolutions,
   siding with Kim Jong Un over his national security adviser and Japan's prime minister.
-category: trump
 ---
 
 1/ **Robert Mueller reportedly drafted a three-count obstruction of justice indictment against Trump before deciding to shelve it**. In his new book, *[Siege: Trump Under Fire](https://amzn.to/2WaZLrJ)*, Michael Wolff writes that his findings on the Mueller investigation are "based on internal documents given to me by sources close to the Office of the Special Counsel." According to Wolff, the first count charged Trump with influencing, obstructing or impeding a pending proceeding before a department or agency of the U.S. The second count charged Trump with tampering with a witness, victim or informant, and the third count charged Trump with retaliating against a witness, victim or informant. While the Justice Department's Office of Legal Counsel says a sitting president cannot be indicted, Wolff obtained a draft memorandum by Mueller's team opposing an expected motion to dismiss the indictment. The special counsel's office denied the claim, saying "The documents that you've described do not exist." ([The Guardian](https://www.theguardian.com/us-news/2019/may/28/mueller-trump-obstruction-charge-michael-wolff-book-siege-under-fire-news) / [NBC News](https://www.nbcnews.com/politics/donald-trump/new-michael-wolff-book-says-mueller-drafted-trump-obstruction-indictment-n1010856))

@@ -1,6 +1,8 @@
 ---
 title: Day 617
 date: 2022-09-28 14:44:00 -07:00
+categories:
+- biden
 description: '"Obscene."'
 image: "/uploads/day-617-biden.jpg"
 todayInOneSentence: Biden promised to end hunger in the U.S. by the end of the decade;
@@ -11,7 +13,6 @@ todayInOneSentence: Biden promised to end hunger in the U.S. by the end of the d
   by drafting at least 300,000 men into its army, threatening the use of nuclear weapons,
   and holding "sham" referendums; Mitch McConnell endorsed a bipartisan electoral
   count reform bill in the Senate; and 42% of Republicans identify as “MAGA” Republicans.
-category: biden
 ---
 
 1/ **Biden promised to end hunger in the U.S. by the end of the decade**, unveiling $8 billion in public- and private-sector commitments to make food healthier, more affordable, and accessible. It was the first White House summit dedicated to combating hunger in nearly a half-century. “I know we can do this,” Biden said. “This goal is within our reach." Most of the policy proposals – like permanently extending the child tax credit, raising the minimum wage, and expanding nutrition assistance programs – will require congressional approval. ([Washington Post](https://www.washingtonpost.com/politics/2022/09/28/white-house-hunger-summit/) / [New York Times](https://www.nytimes.com/2022/09/28/us/politics/biden-hunger-summit.html) / [Associated Press](https://apnews.com/article/biden-health-philanthropy-9dc884edcdbce63c6df5f2337ff81922) / [NPR](https://www.npr.org/2022/09/28/1125575122/biden-hunger-america-conference) / [Politico](https://www.politico.com/news/2022/09/27/bidens-hunger-nutrition-goals-november-00058938))

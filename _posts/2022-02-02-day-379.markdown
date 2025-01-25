@@ -1,6 +1,8 @@
 ---
 title: Day 379
 date: 2022-02-02 14:37:00 -08:00
+categories:
+- biden
 tags:
 - pardon
 description: '"Ambitious but doable."'
@@ -16,7 +18,6 @@ todayInOneSentence: Biden directed the Pentagon to deploy more than 3,000 Americ
   by promising pardons; a witness during Trump's first impeachment sued Trump Jr.,
   Rudy Giuliani, and two former Trump White House staffers; and more than 100 far-right
   candidates are running for political office as Republicans.
-category: biden
 ---
 
 1/ **Biden directed the Pentagon to deploy more than 3,000 American troops to Eastern Europe** to reinforce NATO allies as Russia continues its military buildup near Ukraine’s borders. Roughly 2,000 troops will be going to Poland, while another 1,000 already based in Germany will be deployed to Romania. “These forces are not going to fight in Ukraine,” Pentagon press secretary John Kirby said. “We are making it clear that we're going to be prepared to defend our NATO allies if it comes to that.” The administration, however, did not rule out sending additional troops to Europe, and still has 8,500 American troops on “high alert” for possible deployment if NATO activates its military response force. ([Politico](https://www.politico.com/news/2022/02/02/biden-troops-europe-ukraine-tensions-00004630) / [New York Times](https://www.nytimes.com/live/2022/02/02/world/ukraine-russia-news#us-troops-will-be-deployed-to-nato-allies-in-eastern-europe) / [Washington Post](https://www.washingtonpost.com/world/2022/02/02/ukraine-russia-putin-military-nato/) / [Wall Street Journal](https://www.wsj.com/articles/u-s-orders-3-000-troops-to-bolster-european-allies-in-russia-ukraine-crisis-11643810404) / [USA Today](https://www.usatoday.com/story/news/politics/2022/02/02/russia-ukraine-conflict-pentagon-deploy-3-000-troops-europe/9313094002/) / [CNN](https://www.cnn.com/2022/02/02/politics/us-troops-europe-russia/index.html) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-deploy-troops-eastern-europe-amid-ukraine-standoff-n1288408))

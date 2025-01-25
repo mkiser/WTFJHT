@@ -1,6 +1,8 @@
 ---
 title: Day 791
 date: 2023-03-21 14:07:00 -07:00
+categories:
+- biden
 description: '"A necessary step."'
 image: "/uploads/day-791-biden.jpg"
 todayInOneSentence: 'The Senate advanced a bill to repeal the congressional authorization
@@ -14,7 +16,6 @@ todayInOneSentence: 'The Senate advanced a bill to repeal the congressional auth
   into providing misleading testimony in Dominion Voting Systems’ $1.6 billion defamation
   lawsuit against the network; and U.S. cases of a rare and often deadly fungus tripled
   from 2019 to 2021. '
-category: biden
 ---
 
 1/ **The Senate advanced a bill to repeal the congressional authorization used to attack Iraq in 1991 and 2003** – nearly 20 years to the day that the U.S. began its "shock and awe" campaign to topple Saddam Hussein's regime. The bipartisan legislation would repeal the 2002 authorization for the use of military force that Bush used for the 2003 invasion, as well as the 1991 authorization for the first Gulf War under H.W. Bush. Although Obama formally ended the war in 2011 and ordered the withdrawal of U.S. troops, Trump used the 2002 authorization to justify the [airstrike](https://whatthefuckjusthappenedtoday.com/2020/01/05/day-1081/#1-trump-authorized-a-drone-strike-at) that killed Iranian military leader Qassem Soleimani in Baghdad in 2020. It's unclear, however, if Kevin McCarthy will bring the legislation up for a vote in the House. "Repealing this \[Authorization for Use of Military Force\] is a necessary step towards putting the final remnants of the Iraq War squarely behind us," Chuck Schumer said.  ([CBS News](https://www.cbsnews.com/news/senate-iraq-war-aumf-authorization-for-use-of-military-force-vote/) / [NPR](https://www.npr.org/2023/03/21/1164744031/the-senate-eyes-a-formal-end-to-the-iraq-war-and-a-reassertion-of-congress-power))

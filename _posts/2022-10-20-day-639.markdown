@@ -1,6 +1,8 @@
 ---
 title: Day 639
 date: 2022-10-20 15:27:00 -07:00
+categories:
+- biden
 description: '"Democracy is working well."'
 image: "/uploads/day-639-biden.jpg"
 todayInOneSentence: Supreme Court Justice Amy Coney Barrett rejected a challenge to
@@ -10,7 +12,6 @@ todayInOneSentence: Supreme Court Justice Amy Coney Barrett rejected a challenge
   in control of Congress; 59% of voters say they believe outside politics influence
   the Justice Department's decision to prosecute federal crimes; and 9% of Americans
   think democracy is working “extremely” or “very well.”
-category: biden
 ---
 
 1/ **Supreme Court Justice Amy Coney Barrett rejected a challenge to Biden's student loan forgiveness program**. The challenge came from the Brown County Taxpayers Association in Wisconsin. Barrett, however, dismissed the case for lack of standing, ruling that paying taxes didn't give the group grounds to challenge the action taken by the federal government in this instance. ([CNBC](https://www.cnbc.com/2022/10/20/supreme-court-rejects-request-to-block-biden-student-debt-forgiveness-program.html) / [Axios](https://www.axios.com/2022/10/20/scotus-biden-student-loan-forgiveness-tax-group) / [CNN](https://www.cnn.com/2022/10/20/politics/student-loan-forgiveness-supreme-court-amy-coney-barrett/index.html) / [New York Times](https://www.nytimes.com/2022/10/20/us/politics/supreme-court-student-loan-forgiveness.html))

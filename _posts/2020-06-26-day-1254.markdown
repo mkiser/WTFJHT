@@ -1,6 +1,8 @@
 ---
 title: Day 1254
 date: 2020-06-26 15:06:00 -07:00
+categories:
+- trump
 description: '"And we have an election coming up."'
 image: "/uploads/1254.jpg"
 todayInOneSentence: The United States set a daily record for new COVID-19 cases for
@@ -12,7 +14,6 @@ todayInOneSentence: The United States set a daily record for new COVID-19 cases 
   order mandating a 14-day quarantine for visitors who have been in states with increasing
   numbers of coronavirus cases; and 58% of Americans disapprove of the job Trump is
   doing as president – an all-time high.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

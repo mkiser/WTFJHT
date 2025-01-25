@@ -1,9 +1,10 @@
 ---
 title: Day 200
 date: 2017-08-07 08:50:00 -07:00
+categories:
+- trump
 description: A case of the Mondays.
 image: "/uploads/200.jpg"
-category: trump
 ---
 
 1/ **Trump took to Twitter on his first day of vacation to lash out at the “Fake News” media and insist that his political base is only “getting stronger"** despite a drop-off in his approval rating and the intensifying Russian investigation. “The Trump base is far bigger and stronger than ever before (despite some phony Fake News polling). Look at rallies in Penn, Iowa, Ohio and West Virginia,” Trump tweeted. “The fact is the Fake News Russian collusion story, record Stock Market, border security, military strength, jobs, Supreme Court pick, economic enthusiasm, deregulation and so much more have driven the Trump base even closer together. Will never change!” He added: “Hard to believe that with 24/7 #Fake News on CNN, ABC, NBC, CBS, NYTIMES and WAPO, the Trump base is getting stronger!”

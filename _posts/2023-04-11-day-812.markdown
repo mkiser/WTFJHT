@@ -1,6 +1,8 @@
 ---
 title: Day 812
 date: 2023-04-11 14:41:00 -07:00
+categories:
+- biden
 description: '"Uncertainty is high."'
 image: "/uploads/day-812-biden.jpg"
 todayInOneSentence: Manhattan District Attorney Alvin Bragg sued Jim Jordan to keep
@@ -10,7 +12,6 @@ todayInOneSentence: Manhattan District Attorney Alvin Bragg sued Jim Jordan to k
   emergency; the International Monetary Fund downgraded its forecasts for the global
   economy; and more than 100 documents that detail national security secrets related
   to Ukraine, the Middle East, and China were leaked on social media.
-category: biden
 ---
 
 1/ **Manhattan District Attorney Alvin Bragg sued Jim Jordan to keep the House Judiciary Committee from interfering in his prosecution of Trump**. In a 50-page lawsuit, Bragg describes a “transparent campaign to intimidate and attack” his office by Jordan and others, calling it “an unprecedentedly brazen and unconstitutional attack” by members of Congress on the prosecution and investigation of Trump. The House Judiciary Committee issued a subpoena last week to Mark Pomerantz, a former prosecutor involved in the criminal investigation of Trump. Bragg is seeking a court order to bar Pomerantz from complying with the subpoena. ([New York Times](https://www.nytimes.com/2023/04/11/nyregion/bragg-lawsuit-jim-jordan-trump-indictment.html) / [CNBC](https://www.cnbc.com/2023/04/11/manhattan-da-bragg-sues-rep-jordan-over-house-probe-of-trump-investigation.html) / [Washington Post](https://www.washingtonpost.com/national-security/2023/04/11/alvin-bragg-lawsuit-jim-jordan-trump-investigation/) / [CNN](https://www.cnn.com/2023/04/11/politics/alvin-bragg-sues-jim-jordan/index.html) / [Politico](https://www.politico.com/news/2023/04/11/bragg-sues-house-republicans-over-campaign-of-harassment-amid-trump-probe-00091458) / [USA Today](https://www.usatoday.com/story/news/politics/2023/04/11/manhattan-district-attorney-alvin-bragg-sues-jordan-trump/11642295002/))

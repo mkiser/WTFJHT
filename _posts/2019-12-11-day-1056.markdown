@@ -1,6 +1,8 @@
 ---
 title: Day 1056
 date: 2019-12-11 09:46:00 -08:00
+categories:
+- trump
 description: Scum.
 image: "/uploads/1056.jpg"
 todayInOneSentence: The Justice Department Inspector General Michael Horowitz testified
@@ -9,7 +11,6 @@ todayInOneSentence: The Justice Department Inspector General Michael Horowitz te
   that he's still investigating possible illegal leaks by the FBI to Rudy Giuliani
   in 2016; and afederal judge blocked the Trump administration from using $3.6 billion
   dollars from the Pentagon to pay for the construction of Trump's border wall.
-category: trump
 ---
 
 1/ **The Justice Department Inspector General Michael Horowitz testified before the Senate Judiciary Committee about the origins of the FBI's Russia investigation**. Horowitz reaffirmed that the investigation was adequately justified despite "several errors," which FBI Director Christopher Wray has promised to address. Horowitz also said he met with Attorney General William Barr's handpicked prosecutor, U.S. Attorney John Durham, last month seeking information related to the opening of the Trump-Russia probe and the surveillance warrants the FBI obtained and renewed on former Trump campaign adviser Carter Page. Horowitz said Durham's information failed to convince him that the FBI's 2016 investigation into Trump's campaign was improperly opened. When the report was released, however, Durham issued a public statement saying he didn't agree with Horowitz's conclusion. Barr also said he disagreed with Horowitz's conclusion and accused the FBI of having acted in "bad faith" by pursuing the case. The 434-page report concluded that while there were "serious performance failures," the FBI had adequate cause to launch the investigation and was not motivated by political bias. ([Washington Post](https://www.washingtonpost.com/national-security/inspector-general-michael-horowitz-testimony/2019/12/11/b6632b6c-1ba1-11ea-8d58-5ac3600967a1_story.html) / [New York Times](https://www.nytimes.com/2019/12/11/us/politics/fbi-ig-hearing.html) / [NBC News](https://www.nbcnews.com/politics/justice-department/doj-watchdog-tell-senate-he-has-deep-concerns-about-fbi-n1099636) / [Politico](https://www.politico.com/news/2019/12/11/horowitz-barr-trump-russia-probe-082448) / [ABC News](https://abcnews.go.com/Politics/doj-watchdog-set-testify-report-scrutinized-fbis-russia/story?id=67652921))

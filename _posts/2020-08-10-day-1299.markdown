@@ -1,6 +1,8 @@
 ---
 title: Day 1299
 date: 2020-08-10 13:52:00 -07:00
+categories:
+- trump
 description: '"Absurdly unconstitutional."'
 image: "/uploads/1299.jpg"
 todayInOneSentence: Trump signed four executive actions at his Bedminster golf club
@@ -9,7 +11,6 @@ todayInOneSentence: Trump signed four executive actions at his Bedminster golf c
   the last two weeks of July; the White House has explored executive actions Trump
   could take to curb mail-in voting; and a White House aide reached out to South Dakota
   last year about the process for adding Trump's face to Mount Rushmore.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

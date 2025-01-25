@@ -1,6 +1,8 @@
 ---
 title: Day 358
 date: 2022-01-12 14:43:00 -08:00
+categories:
+- biden
 description: '"It''s hard to process what''s actually happening right now."'
 image: "/uploads/day-358-biden.jpg"
 todayInOneSentence: The White House will provide 10 million free coronavirus tests
@@ -12,7 +14,6 @@ todayInOneSentence: The White House will provide 10 million free coronavirus tes
   fraud and repeated lies that the 2020 election was “rigged”; and Mitch McConnell
   called Biden's speech on changing the filibuster to pass voting rights and elections
   legislation "profoundly unpresidential."
-category: biden
 ---
 
 1/ **The White House will provide 10 million free coronavirus tests a month to U.S. schools to help keep classes in person**. The expanded testing initiative comes as the country is seeing an Omicron-driven surge of cases that risks overwhelming the nation's hospitals. At a Senate hearing, Dr. Janet Woodcock, the acting commissioner of the FDA, warned that the nation needs to ensure police, hospital, and transportation services aren't disrupted by the wave, saying “It’s hard to process what’s actually happening right now, which is, most people are going to get Covid.” Dr. Anthony Fauci, meanwhile, added that the Omicron variant will infect “just about everybody” regardless of vaccination status, adding that “If you’re vaccinated, and if you’re boosted the chances of your getting sick are very, very low.” ([Washington Post](https://www.washingtonpost.com/education/2022/01/12/biden-covid-tests-schools-antigen/) / [NBC News](https://www.nbcnews.com/politics/white-house/white-house-vows-provide-10-million-covid-tests-schools-month-rcna11878) /[Washington Post](https://www.washingtonpost.com/nation/2022/01/12/covid-omicron-variant-live-updates/) / [New York Times](https://www.nytimes.com/live/2022/01/12/world/omicron-covid-testing-vaccines) / [CNBC](https://www.cnbc.com/2022/01/12/covid-news-omicron-disrupts-essential-services-as-workers-call-out.html) / [Wall Street Journal](https://www.wsj.com/articles/biden-administration-to-offer-schools-millions-of-free-covid-19-tests-each-month-11641981601?mod=hp_lead_pos6))

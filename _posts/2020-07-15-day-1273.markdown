@@ -1,6 +1,8 @@
 ---
 title: Day 1273
 date: 2020-07-15 14:16:00 -07:00
+categories:
+- trump
 description: '"We could go on for days."'
 image: "/uploads/1273.jpg"
 todayInOneSentence: Trump's senior trade adviser accused Dr. Anthony Fauci of being
@@ -11,7 +13,6 @@ todayInOneSentence: Trump's senior trade adviser accused Dr. Anthony Fauci of be
   from one topic to another for 54 minutes; Trump's lawyers told a federal judge that
   they intend to fight a New York grand jury subpoena for his tax returns; and 36%
   of voters approve of the job Trump is doing as president.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

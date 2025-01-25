@@ -1,6 +1,8 @@
 ---
 title: Day 1121
 date: 2024-02-14 14:11:00 -08:00
+categories:
+- biden
 description: '"Destabilizing."'
 image: "/uploads/day1121biden.jpg"
 todayInOneSentence: Democrats won a special election and flipped George Santos' seat
@@ -8,7 +10,6 @@ todayInOneSentence: Democrats won a special election and flipped George Santos' 
   Mayorkas on their second try by a single vote; and the head of the House Intelligence
   Committee warned of a “serious national security threat” and called on Biden to
   “declassify all information” related to it.
-category: biden
 ---
 
 1/ **Democrats won a special election and flipped George Santos' seat in the House**. Tom Suozzi defeated Republican Mazi Pilip to take the seat vacated by Santos, who was indicted on a charge of fraud and then expelled from Congress. When Suozzi is sworn in, Republicans will control 219 seats and Democrats will control 213 – meaning Republicans will only be able to lose two votes to pass legislation on party-line votes if all members are present and voting. After New York’s 3rd district flipped from red to blue, Santos texted a group chat with the top New York Republicans in the House: “I hope you guys are happy with this dismal performance and your 10 million for futile Bull Shit cost the party. I look very forward to most of you losing due to your absolute hate filled campaign to remove me from Congress arbitrarily. Now go tell the Republicans Base what you fucking idiots did and good luck raising money next quarter.” ([Associated Press](https://apnews.com/article/george-santos-suozzi-pilip-special-election-be0140979ca3050921579e90507bfe1f) / [Washington Post](https://www.washingtonpost.com/elections/2024/02/13/new-york-district-3-special-election-george-santos/) / [Politico](https://www.politico.com/news/2024/02/14/suozzi-new-york-house-race-00141379) / [New York Times](https://www.nytimes.com/2024/02/14/nyregion/democrats-house-suozzi-biden.html) / [CNN](https://www.cnn.com/2024/02/13/politics/santos-seat-tom-suozzi-mazi-pilip/index.html) / [Daily Beast](https://www.thedailybeast.com/george-santos-mercilessly-trolls-gop-after-democrats-win-his-old-seat) / [Semafor](https://www.semafor.com/article/02/14/2024/george-santos-puts-former-congressional-colleagues-in-group-chat-to-call-them-fing-idiots))

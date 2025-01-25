@@ -1,6 +1,8 @@
 ---
 title: Day 1041
 date: 2019-11-26 09:42:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: Bleak.
@@ -11,7 +13,6 @@ todayInOneSentence: The House Judiciary Committee will hold its first hearing ne
   Jared Kushner in charge of overseeing the construction of his border wall; and Global
   temperatures are on pace to rise as much as 3.9 degrees Celsius by the end of the
   century.
-category: trump
 ---
 
 1/ **The House Judiciary Committee will hold its first hearing next week on the impeachment of Trump**. The Dec. 4 hearing on the "constitutional grounds for presidential impeachment" will feature a panel of expert witnesses who will testify "on the application of the constitutional framework of high crimes and misdemeanors to the very serious allegations regarding the conduct of the President." Chairman Jerry Nadler has invited the White House to also question witnesses. The House Intelligence Committee is expected to release its report summarizing the findings of its investigation to the Judiciary Committee soon after Congress returns from its Thanksgiving recess next week. The report will also detail how the White House refused to cooperate with the inquiry and argue that the refusal may warrant an additional article of impeachment against Trump. ([Politico](https://www.politico.com/news/2019/11/26/judiciary-committee-to-hold-first-impeachment-hearing-next-week-073991) / [CNN](https://www.cnn.com/2019/11/26/politics/judiciary-committee-hearing/index.html) / [New York Times](https://www.nytimes.com/2019/11/26/us/politics/impeachment-trump-hearing.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-11-26/polls-show-nearly-half-want-trump-removed-impeachment-update?srnd=premium) / [Washington Post](https://www.washingtonpost.com/politics/impeachment-inquiry-live-updates/2019/11/26/08cd4aba-1038-11ea-9cd7-a1becbc82f5e_story.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-impeachment-idUSKBN1XZ2CT))

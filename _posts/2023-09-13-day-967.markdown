@@ -1,6 +1,8 @@
 ---
 title: Day 967
 date: 2023-09-13 14:50:00 -07:00
+categories:
+- biden
 tags:
 - impeachment
 description: '"Step up."'
@@ -13,7 +15,6 @@ todayInOneSentence: Inflation accelerated for a second consecutive month; a fede
   “new generation of leaders” beyond Trump and Biden; and 66% of voters support maximum
   age limits for president, members of Congress (68%), and Supreme Court justices
   (67%).
-category: biden
 ---
 
 1/ **Inflation accelerated for a second consecutive month – the fastest pace in more than a year** – due to a jump in gasoline prices, which accounted for more than half of the increase. Consumer prices rose 0.6% in August from the prior month – the most since inflation peaked at a four-decade high in June 2022 – and up 3.7% from a year earlier. Although prices climbed at a faster monthly pace than expected,  the report keeps Federal Reserve officials on track to hold interest rates steady next week after raising rates to a 22-year high in July. The Fed has two more meetings this year – in early November and mid-December – and their decision on whether to lift rates higher will depend on whether price increases continue to slow in coming months. ([Wall Street Journal](https://www.wsj.com/economy/august-cpi-report-inflation-slowdown-85936a0a) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-09-13/us-consumer-prices-jump-straining-household-budgets-even-more?sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/2023/09/13/business/august-inflation-report.html) / [USA Today](https://www.usatoday.com/story/money/economy/2023/09/13/august-cpi-inflation-report-released-data-live-updates/70833419007/) / [CNBC](https://www.cnbc.com/2023/09/13/cpi-inflation-report-august-2023-.html) / [ABC News](https://abcnews.go.com/Business/data-show-inflation-reduction-continued-hit-rough-patch/story?id=103114062) / [NBC News](https://www.nbcnews.com/business/economy/inflation-august-2023-number-will-interest-rates-keep-going-up-rcna104655) / [Politico](https://www.politico.com/news/2023/09/13/higher-gas-prices-inflation-00115528))

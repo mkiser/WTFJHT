@@ -1,6 +1,8 @@
 ---
 title: Day 943
 date: 2019-08-20 09:58:00 -07:00
+categories:
+- trump
 description: Fundamentals.
 image: "/uploads/943.jpg"
 todayInOneSentence: Trump confirmed that he is considering "various tax reductions"
@@ -9,7 +11,6 @@ todayInOneSentence: Trump confirmed that he is considering "various tax reductio
   background checks and gun legislation after speaking with the NRA; and the U.S.
   won't vaccinate migrant families and has no plans to do so ahead of this year's
   flu season.
-category: trump
 ---
 
 1/ **Trump confirmed that he is considering "various tax reductions," including a payroll tax cut, to stimulate a weakening American economy**. The White House previously disputed that a payroll tax was under consideration. Trump said he'd "been thinking about payroll taxes for a long time," and that "it's not being done because of recession." Trump added that he's thinking about reducing capital gains taxes, which would largely benefit wealthy investors. ([Washington Post](https://www.washingtonpost.com/politics/trump-confirms-hes-considering-a-payroll-tax-cut-amid-mounting-economic-concerns/2019/08/20/2c97e500-c37a-11e9-9986-1fb3e4397be4_story.html) / [New York Times](https://www.nytimes.com/2019/08/20/us/politics/trump-economy-recession-data.html))

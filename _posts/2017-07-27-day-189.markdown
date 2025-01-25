@@ -1,9 +1,10 @@
 ---
 title: Day 189
 date: 2017-07-27 08:37:00 -07:00
+categories:
+- trump
 description: No modifications.
 image: "/uploads/189.jpg"
-category: trump
 ---
 
 1/ **The Department of Justice is arguing that the Civil Rights Act does not protect gay employees from discrimination**. The DOJ filed an amicus brief (meaning the government isn’t a party in the case) weighing in on a private employment lawsuit. They argue that while Title VII of the 1964 Civil Rights Act bars the discrimination in the workplace based on “race, color, religion, sex or national origin," it does not protect employees from discrimination based on sexual orientation despite “notable changes in societal and cultural attitudes.” The brief claimed that the federal government has a “substantial and unique interest” in the proper interpretation of Title VII because it's the largest employer in the country. ([New York Times](https://www.nytimes.com/2017/07/27/nyregion/justice-department-gays-workplace.html) / [BuzzFeed News](https://www.buzzfeed.com/dominicholden/the-justice-department-just-argued-against-gay-rights-in-a))

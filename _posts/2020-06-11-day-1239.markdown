@@ -1,6 +1,8 @@
 ---
 title: Day 1239
 date: 2020-06-11 14:47:00 -07:00
+categories:
+- trump
 description: '"This is not a game."'
 image: "/uploads/1239.jpg"
 todayInOneSentence: Coronavirus deaths in the U.S. could reach 200,000 by early fall;
@@ -10,7 +12,6 @@ todayInOneSentence: Coronavirus deaths in the U.S. could reach 200,000 by early 
   and Trump will hold a campaign rally on Juneteenth, a holiday marking the emancipation
   of slaves, in Tulsa, Oklahoma, the site of the 1921 massacre of hundreds of African
   Americans.
-category: trump
 ---
 
 * ### 😷 Dept. of We Have It Totally Under Control.

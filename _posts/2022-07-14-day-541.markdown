@@ -1,6 +1,8 @@
 ---
 title: Day 541
 date: 2022-07-14 14:45:00 -07:00
+categories:
+- biden
 description: '"We''re gathering evidence."'
 image: "/uploads/day-541-biden.jpg"
 todayInOneSentence: Texas sued the Biden administration over federal rules requiring
@@ -11,7 +13,6 @@ todayInOneSentence: Texas sued the Biden administration over federal rules requi
   Secret Service erased text messages from Jan. 5 and 6, 2021, shortly after oversight
   officials investigating the agency's response requested the electronic communications;
   and 1% of 18-to-29-year-olds strongly approve of the job Biden is doing as president.
-category: biden
 ---
 
 1/ **Texas sued the Biden administration over federal rules requiring physicians and hospitals to provide abortions in medical emergencies**, even in states with near-total bans. In its lawsuit, Texas claimed that the new guidance “forces hospitals and doctors to commit crimes and risk their licensure under Texas law.” Earlier this week, the Biden administration said the Emergency Medical Treatment and Active Labor Act pre-empts state laws that restrict abortion access in emergency situations. Attorney General Ken Paxton accused Biden of trying "to use federal law to transform every emergency room in the country into a walk-in abortion clinic.” ([Politico](https://www.politico.com/news/2022/07/14/texas-biden-abortion-trump-00045846) / [CNBC](https://www.cnbc.com/2022/07/14/texas-sues-biden-administration-over-abortion-rule.html) / [Washington Post](https://www.washingtonpost.com/nation/2022/07/14/texas-sues-biden-emergency-abortion/) / [New York Times](https://www.nytimes.com/2022/07/14/us/texas-abortion-lawsuit-paxton.html))

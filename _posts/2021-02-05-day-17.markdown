@@ -1,6 +1,8 @@
 ---
 title: Day 17
 date: 2021-02-05 14:15:00 -08:00
+categories:
+- biden
 tags:
 - impeachment
 description: '"Enormous pain."'
@@ -16,7 +18,6 @@ todayInOneSentence: The House and Senate both advanced a budget resolution, sett
   baseless conspiracy theories and supporting violent rhetoric against Democrats,
   including the assassination of Nancy Pelosi; and 47% of Americans believe the Senate
   should vote to convict Trump.
-category: biden
 ---
 
 1/ **The House and Senate both advanced a budget resolution, setting up passage of Biden's $1.9 trillion coronavirus stimulus plan over near unanimous Republican opposition**. The Senate passed the budget blueprint early Friday morning 51-50 on a party line vote after Kamala Harris broke the tie. The House then passed the resolution later Friday in a 219-209 vote. House and Senate committees will now draft legislation using Biden's framework, which calls for money for vaccine distribution, funding for hospitals and schools, $1,400 stimulus checks for most Americans, and expanded unemployment aid. Democrats are eyeing mid-March for final passage of the relief legislation. ([NPR](https://www.npr.org/2021/02/05/964365980/senate-passes-budget-resolution-vice-president-harris-breaks-tie) /  [New York Times](https://www.nytimes.com/2021/02/04/us/politics/biden-stimulus-senate-vote.html) / [Associated Press](https://apnews.com/article/senate-ok-fast-track-coronavirus-aid-c497b8cda93486d9f0a09abb88235291) / [NBC News](https://www.nbcnews.com/politics/politics-news/washington-moves-unison-toward-passing-sweeping-coronavirus-relief-package-n1256855) / [CNN](https://www.cnn.com/2021/02/05/politics/senate-budget-resolution-covid-19-relief/index.html) / [Wall Street Journal](https://www.wsj.com/articles/biden-meets-with-house-democrats-as-covid-19-aid-plan-advances-11612542026?mod=hp_lead_pos3) / [Washington Post](https://www.washingtonpost.com/business/2021/02/04/senate-vote-a-rama-biden-economic-relief-stimulus/) / [Washington Post](https://www.washingtonpost.com/us-policy/2021/02/05/house-biden-stimulus-harris-tiebreaker/) / [Axios](https://www.axios.com/senate-budget-resolution-advances-43b5f08b-bc93-470d-827e-0a1818b026cd.html))

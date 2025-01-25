@@ -1,9 +1,10 @@
 ---
 title: Day 323
 date: 2017-12-08 12:22:00 -08:00
+categories:
+- trump
 description: Puppet.
 image: "/uploads/323.jpg"
-category: trump
 ---
 
 1/ **Trump, Trump Jr., and members of the Trump Organization received an email during the campaign with the decryption key needed to open the hacked DNC documents** that WikiLeaks had posted two months earlier. WikiLeaks contacted Trump Jr. directly on Twitter about the campaign a few weeks after the September 14th email was sent by somebody named Mike Erickson. WikiLeaks began leaking the contents of John Podesta's hacked emails a month later. Trump Jr. told investigators he had no recollection of the email. ([CNN](https://www.cnn.com/2017/12/08/politics/email-effort-give-trump-campaign-wikileaks-documents/index.html) / [Washington Post](https://www.washingtonpost.com/politics/email-offering-trump-campaign-wikileaks-documents-referred-to-information-already-public/2017/12/08/61dc2356-dc37-11e7-a841-2066faf731ef_story.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 211
 date: 2021-08-18 15:02:00 -07:00
+categories:
+- biden
 description: '"A flood of bloodshed."'
 image: "/uploads/day-211-081821.jpg"
 todayInOneSentence: A Texas school district made masks part of their dress code to
@@ -11,7 +13,6 @@ todayInOneSentence: A Texas school district made masks part of their dress code 
   officials are looking into Rep. Lauren Boebert's apparent personal use of campaign
   funds; and the New York AG says the NRA must be dissolved.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **A Texas school district made face masks part of its dress code in order to get around Gov. Abbott's anti-mask mandate order**. Several school districts in Texas have sought to require masks amid an increase in COVID-19 cases. Gov. Greg Abbott has tried to ban mask mandates. ([NBC News](https://www.nbcnews.com/news/us-news/texas-school-district-makes-masks-part-dress-code-get-around-n1277040))

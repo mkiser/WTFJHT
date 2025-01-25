@@ -1,6 +1,8 @@
 ---
 title: Day 659
 date: 2022-11-09 14:11:00 -08:00
+categories:
+- biden
 description: '"A good day for democracy."'
 image: "/uploads/day-659-biden.jpg"
 todayInOneSentence: 'Senate control hinges on three states, while Republicans have
@@ -14,7 +16,6 @@ todayInOneSentence: 'Senate control hinges on three states, while Republicans ha
   all easily won reelection; and Trump was reportedly "fuming" at Mar-a-Lago last
   night after at least 14 of his endorsed candidates were projected to lose in their
   races. '
-category: biden
 ---
 
 1/ **Senate control hinges on three states, while Republicans have picked up fewer seats than predicted in the House**. Republicans, however, are still poised to win a narrow majority in one if not both houses of Congress. In the Senate, Democrat John Fetterman flipped a key seat in Pennsylvania, while Republican Ron Johnson secured reelection in Wisconsin. Democrats currently control 48 seats to the Republicans 49, meaning whoever wins two of the three elections in Arizona, Georgia, and Nevada will control the Senate. In the House, Republicans are expected to win the five seats they needed to take control, but a large number of the most competitive races remain uncalled. In midterm elections since World War II, the president’s party has almost always lost seats, but Democrats seem to have avoided the so-called “red wave” that some strategists predicted was going to be fueled by record inflation and economic woes. Only three times since World War II has inflation been as high as it is today heading into the midterms, and in all three cases the president's party lost between 15 and 48 seats in the House. "It was a good day for democracy," Biden said. "And I think it was a good day for America." ([Politico](https://www.politico.com/news/2022/11/09/uncalled-races-senate-control-hangs-in-balance-as-arizona-nevada-counts-continue-00065905) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-11-09/republicans-limp-toward-house-control-with-senate-still-in-play?srnd=premium&sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/live/2022/11/09/us/election-updates-midterms-results) / [Washington Post](https://www.washingtonpost.com/politics/2022/11/09/election-news-live-updates/?itid=hp-banner-main_p001_f001) / [NPR](https://www.npr.org/live-updates/midterm-election-results-2022-11-09) / [CNN](https://www.cnn.com/politics/live-news/election-results-congress-senate-house-11-09-2022/index.html) / [NBC News](https://www.nbcnews.com/politics/2022-election/live-blog/midterm-elections-live-updates-rcna56065) / [CNBC](https://www.cnbc.com/2022/11/09/live-updates-of-2022-midterm-election-day.html) / [Wall Street Journal](https://www.wsj.com/livecoverage/election-midterms-2022) / [MSNBC](https://www.msnbc.com/2022-midterm-elections/results/live-blog/midterm-elections-live-updates-2022-results-rcna52821) / [ABC News](https://abcnews.go.com/Politics/live-updates/midterm-elections-live-updates/?id=92681028#93009610))

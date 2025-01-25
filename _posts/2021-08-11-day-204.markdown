@@ -1,6 +1,8 @@
 ---
 title: Day 204
 date: 2021-08-11 14:05:00 -07:00
+categories:
+- biden
 description: '"A badge of honor."'
 image: "/uploads/day-204-081121.jpg"
 todayInOneSentence: The Senate passed a $3.5 trillion budget plan along party lines;
@@ -12,7 +14,6 @@ todayInOneSentence: The Senate passed a $3.5 trillion budget plan along party li
   next U.S. Attorney in Manhattan; and YouTube suspended Rand Paul's account over
   a COVID misinformation video he posted about masks.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **The Senate passed a $3.5 trillion budget plan that includes a sweeping expansion of the social safety net.** The 92-page blueprint, which would expand Medicaid, provide free preschool and community college, and fund climate change programs, passed along party lines. The blueprint sets in motion a perilous legislative process aimed at creating the largest expansion of the federal safety net in nearly six decades. ([New York Times](https://www.nytimes.com/2021/08/11/us/politics/senate-budget-plan.html) / [Politico](https://www.politico.com/news/2021/08/10/senate-vote-a-rama-503427))

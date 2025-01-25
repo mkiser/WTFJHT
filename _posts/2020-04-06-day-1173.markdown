@@ -1,6 +1,8 @@
 ---
 title: Day 1173
 date: 2020-04-06 14:38:00 -07:00
+categories:
+- trump
 tags:
 - impeachment
 description: '"Not a big Trump fan."'
@@ -13,7 +15,6 @@ todayInOneSentence: Trump warned "there will be a lot of death" and this will be
   interest rates for the Paycheck Protection Program; and Trump fired the intelligence
   community inspector general at the center of the Ukraine allegations that led to
   Trump's impeachment.
-category: trump
 ---
 
 * ### Daily Damage Report.

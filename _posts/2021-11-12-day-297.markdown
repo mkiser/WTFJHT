@@ -1,6 +1,8 @@
 ---
 title: Day 297
 date: 2021-11-12 15:09:00 -08:00
+categories:
+- biden
 description: '"Beyond the pale."'
 image: "/uploads/biden-297.jpg"
 todayInOneSentence: A federal grand jury indicted Steve Bannon on charges of contempt
@@ -12,7 +14,6 @@ todayInOneSentence: A federal grand jury indicted Steve Bannon on charges of con
   and House Democrats introduced a resolution to censure Republican Paul Gosar for
   tweeting an altered video that depicted him killing Alexandria Ocasio-Cortez and
   swinging two swords at Biden.
-category: biden
 ---
 
 1/ **A federal grand jury indicted Steve Bannon on charges of contempt of Congress** for refusing to comply with a subpoena from the House committee investigating the Jan. 6 Capitol riot. Bannon faces one contempt count for his refusal to appear for a deposition and another for his refusal to produce documents to the congressional investigators, the Justice Department said in a statement. Attorney General Merrick Garland said the indictment reflects the Justice Department’s “steadfast commitment” to ensuring that the department adheres to the rule of law. If convicted, Bannon could face up to a year behind bars and a fine of up to $100,000. Law enforcement expects Bannon to self-surrender on Monday and appear in court that afternoon. ([NBC News](https://www.nbcnews.com/politics/justice-department/former-trump-adviser-steve-bannon-indicted-federal-grand-jury-contempt-n1283834) / [CNN](https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html) / [NPR](https://www.npr.org/2021/11/12/1054309797/steve-bannon-contempt-congress-justice-department) / [Washington Post](https://www.washingtonpost.com/national-security/steve-bannon-indicted/2021/11/12/eebd4726-43fa-11ec-a3aa-0255edc02eb7_story.html?itid=hp-top-table-main) / [ABC News](https://abcnews.go.com/Politics/justice-department-charges-steve-bannon-criminal-contempt-congress/story?id=81138335) / / [Politico](https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177) / [CNBC](https://www.cnbc.com/2021/11/12/trump-ally-steve-bannon-indicted-for-dodging-jan-6-probe-subpoena.html) / [Wall Street Journal](https://www.wsj.com/articles/prosecutors-charge-trump-adviser-steve-bannon-for-defying-jan-6-panel-subpoena-11636751171?mod=hp_lead_pos4) / [Associated Press](https://apnews.com/article/steve-bannon-donald-trump-congress-mark-meadows-subpoenas-70fcf59323df874b4a0def1f4c1222cc))

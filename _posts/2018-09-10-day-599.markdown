@@ -1,6 +1,8 @@
 ---
 title: Day 599
 date: 2018-09-10 13:18:00 -07:00
+categories:
+- trump
 description: Quite enthusiastic.
 image: "/uploads/599.jpg"
 todayInOneSentence: The Trump campaign team was "fully aware" of George Papadopoulos'
@@ -9,7 +11,6 @@ todayInOneSentence: The Trump campaign team was "fully aware" of George Papadopo
   won't enforce the $130,000 hush-money nondisclosure agreement between Stormy Daniels
   and Michael Cohen; and the Trump administration discussed plans for a coup in Venezuela
   last year.
-category: trump
 ---
 
 1/ **The Trump campaign team was "fully aware" of George Papadopoulos' efforts to set up a Trump-Putin meeting**. "I actively sought to leverage my contacts with the professor to host this meeting," Papadopoulos said. "The campaign was fully aware what I was doing" and Trump was "open to this idea," but deferred to Jeff Sessions, who was "quite enthusiastic." ([ABC News](https://abcnews.go.com/Politics/george-papadopoulos-exclusive-interview-week/story?id=57694015) / [NBC News](https://www.nbcnews.com/politics/politics-news/papadopoulos-says-trump-campaign-officials-were-fully-aware-efforts-putin-n907891))

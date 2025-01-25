@@ -1,6 +1,8 @@
 ---
 title: Day 1348
 date: 2020-09-28 15:43:00 -07:00
+categories:
+- trump
 description: '"The Apprentice."'
 image: "/uploads/1348.jpg"
 todayInOneSentence: Trump paid $750 in federal income taxes in 2016 and 2017, and
@@ -14,7 +16,6 @@ todayInOneSentence: Trump paid $750 in federal income taxes in 2016 and 2017, an
   warned a colleague that "everything" Trump's new coronavirus task force adviser
   "says is false"; and the U.S. Postal Service stopped updating the national change
   of address system for three weeks in August.
-category: trump
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Every State.

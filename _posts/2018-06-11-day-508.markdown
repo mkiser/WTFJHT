@@ -1,6 +1,8 @@
 ---
 title: Day 508
 date: 2018-06-11 10:39:00 -07:00
+categories:
+- trump
 description: Sobering and a bit depressing.
 image: "/uploads/508.jpg"
 todayInOneSentence: Trump refused to endorse the G7 statement, threatened to impose
@@ -10,7 +12,6 @@ todayInOneSentence: Trump refused to endorse the G7 statement, threatened to imp
   Jeff Sessions ordered immigration judges to stop granting asylum to most victims
   of domestic abuse and gang violence; and Trump will leave the North Korea summit
   a day early because nuclear negotiations have moved "more quickly than expected."
-category: trump
 ---
 
 1/ **Trump refused to endorse the G7 statement, threatened to impose tariffs on foreign auto imports, and accused Justin Trudeau of being "meek," "very dishonest and weak"** after Canada's prime minister pledged to retaliate against U.S. tariffs on steel and aluminum products. In a pair of tweets aboard Air Force One, Trump said he believes that countries are ripping off the U.S. through high tariffs and threatened to stop all trade with any country that did not lower or eliminate tariffs. The pair of tweets came hours after Trump and European leaders had agreed on a joint communiqué, which included a pledge to engage in "free, fair, and mutually beneficial trade and investment." ([Washington Post](https://www.washingtonpost.com/politics/trump-attacks-canada-to-show-north-korea-hes-strong-aide-says/2018/06/10/afc16c0c-6cba-11e8-bd50-b80389a4e569_story.html?utm_term=.ce195ce33dd7) / [New York Times](https://www.nytimes.com/2018/06/09/world/americas/donald-trump-g7-nafta.html) / [Wall Street Journal](https://www.wsj.com/articles/donald-trump-pitches-tariff-free-trade-zone-to-g-7-allies-1528556581) / [NBC News](https://www.nbcnews.com/politics/white-house/trump-pulls-u-s-out-g-7-communique-accuses-trudeau-n881761))

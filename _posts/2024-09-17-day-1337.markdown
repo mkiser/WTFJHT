@@ -1,6 +1,8 @@
 ---
 title: Day 1337
 date: 2024-09-17 15:27:00 -07:00
+categories:
+- biden
 description: '"Absolute assurances."'
 image: "/uploads/day-1337-biden-harris.jpg"
 todayInOneSentence: Senate Republicans blocked legislation to federally protect access
@@ -12,7 +14,6 @@ todayInOneSentence: Senate Republicans blocked legislation to federally protect 
   government funding plan that is expected to fail, because it’s linked to legislation
   requiring proof of citizenship to register to vote; and Harris leads Trump by a
   record-high 6 percentage points among likely voters.
-category: biden
 ---
 
 1/ **Senate Republicans blocked legislation to federally protect access to in vitro fertilization**. The package, called the Right to IVF Act, would establish a nationwide right "to receive fertility treatment from a health care provider, in accordance with widely accepted and evidence-based medical standards of care," in addition to ensuring insurance coverage for such treatments. It’s the [second time](https://whatthefuckjusthappenedtoday.com/2024/06/13/day-1241/#2-senate-republicans-blocked-a-democ) that Republicans, despite Trump's statements supporting the fertility treatment, have filibustered the Democratic legislation. Kamala Harris said Republicans "have once again made clear that they will not protect access to the fertility treatments many couples need \[and\] their opposition to a woman's freedom to make decisions about her own body is extreme, dangerous, and wrong." ([CBS News](https://www.cbsnews.com/news/senate-ivf-vote-republicans-trump/) / [CNN](https://www.cnn.com/2024/09/17/politics/senate-ivf-bill-vote/) / [Politico](https://www.politico.com/news/2024/09/17/republicans-block-ivf-bill-00179626))

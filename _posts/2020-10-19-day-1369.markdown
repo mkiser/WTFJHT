@@ -1,6 +1,8 @@
 ---
 title: Day 1369
 date: 2020-10-19 14:37:00 -07:00
+categories:
+- trump
 description: '"An absence of national leadership."'
 image: "/uploads/1369.jpg"
 todayInOneSentence: Health experts say the fall surge is here with COVID-19 hospitalizations
@@ -12,7 +14,6 @@ todayInOneSentence: Health experts say the fall surge is here with COVID-19 hosp
   plan to strip food stamps from nearly 700,000 jobless Americans, calling it "arbitrary
   and capricious"; and Trump’s campaign accused the Commission on Presidential Debates
   of “pro-Biden antics” and demanded changes to the format of Thursday's debate.
-category: trump
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

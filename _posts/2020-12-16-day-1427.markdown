@@ -1,6 +1,8 @@
 ---
 title: Day 1427
 date: 2020-12-16 14:08:00 -08:00
+categories:
+- trump
 description: '"We want them infected."'
 image: "/uploads/1427.jpg"
 todayInOneSentence: 'Nearly 8 million Americans fell into poverty over the past five
@@ -12,7 +14,6 @@ todayInOneSentence: 'Nearly 8 million Americans fell into poverty over the past 
   because it could put him in potential legal jeopardy; and Trump has reportedly been
   pushing to have a special counsel appointed to investigate his baseless allegations
   of voter fraud and allegations surrounding Hunter Biden. '
-category: trump
 ---
 
 1/ **Nearly 8 million Americans fell into poverty over the past five months**. The poverty rate jumped to 11.7% in November – up 2.4 percentage points since June. The federal poverty line is $26,200 for a family of four. ([Washington Post](https://www.washingtonpost.com/business/2020/12/16/poverty-rising/))

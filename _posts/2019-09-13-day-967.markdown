@@ -1,6 +1,8 @@
 ---
 title: Day 967
 date: 2019-09-13 10:11:00 -07:00
+categories:
+- trump
 description: 'Moral compass. '
 image: "/uploads/967.jpg"
 todayInOneSentence: A federal appeals court revived a previously-dismissed lawsuit
@@ -8,7 +10,6 @@ todayInOneSentence: A federal appeals court revived a previously-dismissed lawsu
   to pay for his border wall using funds from more than four dozen Air Force construction
   projects poses a variety national security risks; and Trump complained that energy
   efficient light bulbs make him "always look orange."
-category: trump
 ---
 
 1/ **A federal appeals court revived a previously-dismissed lawsuit that accused Trump of violating the Constitution's emoluments clause**. The lawsuit claimed that Trump's "vast, complicated and secret" business arrangements violate the Emoluments Clause, which bars presidents from accepting gifts from foreign governments without the permission of Congress. The case was originally dismissed by a lower-level federal judge in December 2017. Earlier this year, Trump won a separate emoluments suit by the Democratic attorneys general of Maryland and the District of Columbia when the case was dismissed by another federal appeals court's. ([Bloomberg](https://www.bloomberg.com/news/articles/2019-09-13/trump-must-face-suit-by-ethics-watchdog-appeals-court-says) / [Washington Post](https://beta.washingtonpost.com/politics/appeals-court-revives-lawsuit-saying-trump-is-violating-the-constitution-by-doing-business-with-foreign-governments/2019/09/13/0861b010-d632-11e9-9343-40db57cf6abd_story.html) / [Politico](https://www.politico.com/story/2019/09/13/trump-foreign-corruption-lawsuit-1494571) / [CNN](https://www.cnn.com/2019/09/13/politics/donald-trump-ethics-lawsuit/index.html) / [Axios](https://www.axios.com/trump-emoluments-clause-lawsuit-second-circuit-083b5ade-c983-4566-af9c-50e30aedf7a6.html))

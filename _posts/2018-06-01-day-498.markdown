@@ -1,6 +1,8 @@
 ---
 title: Day 498
 date: 2018-06-01 07:00:00 -07:00
+categories:
+- trump
 description: '"Totally unacceptable."'
 image: "/uploads/498.jpg"
 todayInOneSentence: U.S. allies are retaliating against Trump's new metal tariffs
@@ -12,7 +14,6 @@ todayInOneSentence: U.S. allies are retaliating against Trump's new metal tariff
   summit is back on for June 12; and Trump made 3,251 false or misleading statements
   in his first year, an average of 6.5 per day.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **The European Union opened a case at the World Trade Organization in response to Trump's steel and aluminum tariffs.** The EU is also expected to announce retaliatory tariffs against the U.S. on products such as Levi's jeans, bourbon whiskey, cranberries, and peanut butter. "The European Union is not at war with anyone," said the EU high representative on foreign policy. "We don’t want to be; for us this is out of the question … The European Union is a peace project, including on trade." ([The Guardian](https://www.theguardian.com/business/2018/jun/01/eu-starts-retaliation-against-donald-trumps-steel-and-aluminium-tariffs))

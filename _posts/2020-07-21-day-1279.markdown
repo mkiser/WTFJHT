@@ -1,6 +1,8 @@
 ---
 title: Day 1279
 date: 2020-07-21 15:21:00 -07:00
+categories:
+- trump
 description: '"We need everything we can get."'
 image: "/uploads/1279.jpg"
 todayInOneSentence: Trump told Americans that the coronavirus pandemic "will probably,
@@ -12,7 +14,6 @@ todayInOneSentence: Trump told Americans that the coronavirus pandemic "will pro
   plans to deploy federal law enforcement officers to Chicago and threatened to send
   agents to other "Democrat" cities to quell ongoing protests over racism and police
   brutality.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

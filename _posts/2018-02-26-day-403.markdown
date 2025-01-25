@@ -1,9 +1,10 @@
 ---
 title: Day 403
 date: 2018-02-26 09:15:00 -08:00
+categories:
+- trump
 description: They're on our side.
 image: "/uploads/403.jpg"
-category: trump
 ---
 
 1/ **The Supreme Court rejected the Trump administration's request to skip the appeals court process and review a district court judge's ruling requiring the administration to resume renewals of protected status under the Deferred Action for Childhood Arrivals program**. In September, Trump announced that he would shut down DACA on March 5, but two federal judges ordered the administration to allow people to renew their protected status while legal challenges move forward. DACA shields some 700,000 young, undocumented immigrants from deportation. ([New York Times](https://www.nytimes.com/2018/02/26/us/politics/supreme-court-trump-daca-dreamers.html) / [Politico](https://www.politico.com/story/2018/02/26/supreme-court-rejects-trump-request-to-weigh-in-quickly-on-dreamers-424305) / [Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-declines-trump-request-to-take-up-daca-controversy-now/2018/02/26/4fb2e528-132f-11e8-9570-29c9830535e5_story.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 974
 date: 2019-09-20 12:17:00 -07:00
+categories:
+- trump
 description: '"Totally appropriate."'
 image: "/uploads/974.jpg"
 todayInOneSentence: Trump pressured the leader of Ukraine eight times to investigate
@@ -9,7 +11,6 @@ todayInOneSentence: Trump pressured the leader of Ukraine eight times to investi
   Biden immediately before admitting that he actually had; and Trump dismissed the
   whistleblower complaint involving his conversations with Ukraine as a "ridiculous,"
   "partisan" attack.
-category: trump
 ---
 
 1/ **Trump pressured the leader of Ukraine eight times to investigate Joe Biden's son**. Trump used a July 25th phone call with Volodymyr Zelensky to repeatedly pressure the recently elected leader to work with Rudy Giuliani on an investigation that Trump believed would deliver political dirt against Biden. Trump told Zelensky that Ukraine could improve its reputation and "interaction" with the United States by investigating a Ukrainian gas company with ties to Biden's son Hunter, who served on the board of directors. In June and August, Giuliani met with top Ukrainian officials about the prospect of an investigation. Toward the end of August, the White House [considered](https://www.reuters.com/article/us-usa-ukraine/trump-may-block-250-million-in-aid-to-ukraine-officials-idUSKCN1VJ1T8) blocking $250 million to support Ukraine's military in its war against Russian-backed separatists. On Sept. 12, however, that funding was released. Separately, lawmakers have been [investigating](https://www.wsj.com/articles/house-panels-investigate-trump-pressure-on-ukraine-11568066824) whether Trump or Giuliani tried to pressure the Ukrainian government to pursue probes in an effort to benefit Trump's re-election bid. ([Wall Street Journal](https://www.wsj.com/articles/trump-defends-conversation-with-ukraine-leader-11568993176) / [Washington Post](https://www.washingtonpost.com/national-security/trump-pressed-ukrainian-leader-to-investigate-bidens-son-according-to-people-familiar-with-the-matter/2019/09/20/7fa39b20-dbdc-11e9-bfb1-849887369476_story.html) / [New York Times](https://www.nytimes.com/2019/09/20/world/europe/ukraine-trump-zelensky.html) / [Daily Beast](https://www.thedailybeast.com/ukraine-is-ready-to-investigate-bidens-sonbut-only-if-theres-an-official-us-request) / [CNN](https://www.cnn.com/2019/09/20/politics/wsj-trump-ukraine-calls-biden-investigation-giuliani/index.html))

@@ -1,9 +1,10 @@
 ---
 title: Day 368
 date: 2018-01-22 08:42:00 -08:00
+categories:
+- trump
 description: Shutdown shut down.
 image: "/uploads/368.jpg"
-category: trump
 ---
 
 1/ **Senate Democrats voted with Republicans to approve a short-term spending bill to fund the government through February 8th.** The bill will also reauthorize the Children's Health Insurance Program for six years and roll back several health care taxes. Democrats received assurances from Mitch McConnell that the Senate will vote on a bipartisan DACA bill in the coming weeks in exchange for reopening the government. The Senate voted 81-18 to move forward on a bill to fund the government, which the House passed, sending the bill to Trump to sign. ([Washington Post](https://www.washingtonpost.com/powerpost/trump-slams-democrats-as-third-day-of-government-shutdown-begins/2018/01/22/3a3eecf0-ff25-11e7-9d31-d72cf78dbeee_story.html) / [New York Times](https://www.nytimes.com/2018/01/22/us/politics/government-shutdown.html) / [Politico](https://www.politico.com/story/2018/01/22/government-shutdown-2018-senate-vote-354966))

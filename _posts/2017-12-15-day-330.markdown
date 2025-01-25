@@ -1,9 +1,10 @@
 ---
 title: Day 330
 date: 2017-12-15 09:20:00 -08:00
+categories:
+- trump
 description: Shame.
 image: "/uploads/330.jpg"
-category: trump
 ---
 
 **What's in the GOP tax bill.**

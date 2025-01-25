@@ -1,6 +1,8 @@
 ---
 title: Day 307
 date: 2021-11-22 14:45:00 -08:00
+categories:
+- biden
 description: '"Backsliding."'
 image: "/uploads/day-307-biden.jpg"
 todayInOneSentence: The number of U.S. Covid-19 deaths in 2021 surpassed the 2020
@@ -11,7 +13,6 @@ todayInOneSentence: The number of U.S. Covid-19 deaths in 2021 surpassed the 202
   committee investigating the Jan. 6 Capitol insurrection subpoenaed five more people,
   including Roger Stone and Alex Jones; and the United States – for the first time
   – was added to a list of “backsliding democracies.”
-category: biden
 ---
 
 1/ **The number of U.S. Covid-19 deaths in 2021 surpassed the 2020 death toll**. The total number of reported deaths linked to Covid-19 topped 770,800 on Saturday, according to federal data and Johns Hopkins University. New cases, meanwhile, are increasing with the seven-day rolling average ticking up to more than 90,000 cases a day after it dropped to about 70,000 last month. More than 30 states are seeing sustained upticks in infections. ([Wall Street Journal](https://www.wsj.com/articles/u-s-covid-19-deaths-in-2021-surpass-2020-11637426356) / [New York Times](https://www.nytimes.com/live/2021/11/22/world/covid-vaccine-boosters-mandates/as-thanksgiving-approaches-virus-cases-in-the-us-tick-up-once-more))

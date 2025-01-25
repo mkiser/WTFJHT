@@ -1,6 +1,8 @@
 ---
 title: Day 120
 date: 2021-05-19 15:07:00 -07:00
+categories:
+- biden
 description: '"Offensive and humiliating."'
 image: "/uploads/day-120-biden.jpg"
 todayInOneSentence: Mitch McConnell will oppose legislation to create a commission
@@ -11,7 +13,6 @@ todayInOneSentence: Mitch McConnell will oppose legislation to create a commissi
   to post a sign indicating that they allow transgender people to use their bathrooms;
   and U.S. Capitol Police are conducting a criminal investigation related to a subpoena
   for information about a parody Twitter account dedicated to mocking Rep. Devin Nunes.
-category: biden
 ---
 
 1/ **Mitch McConnell will oppose legislation to create a commission tasked with investigating the Jan. 6 attack on the Capitol**, making it clear that the legislation will likely not have the votes to get through the Senate. McConnell called the proposal to create a bipartisan commission – with an equal number of Republicans and Democrats – "slanted and unbalanced." Following McConnell’s remarks, Sen. Mike Rounds, who had previously expressed support for the commission, said he no longer backed the proposal. While the bill is expected to pass the House, the measure will need 10 Senate GOP votes to even start debate and allow amendments. The House is scheduled to vote on the bill today. ([Washington Post](https://www.washingtonpost.com/politics/mcconnell-comes-out-against-jan-6-commission-imperiling-its-chances-of-becoming-law/2021/05/19/60de1f52-b8b3-11eb-a5fe-bb49dc89a248_story.html) / [Politico](https://www.politico.com/news/2021/05/19/mcconnell-opposes-houses-bipartisan-jan-6-commission-bill-489573) / [New York Times](https://www.nytimes.com/2021/05/19/us/politics/riot-commission.html) / [CNN](https://www.cnn.com/2021/05/19/politics/republican-reaction-january-6-probe/))

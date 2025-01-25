@@ -1,6 +1,8 @@
 ---
 title: Day 1245
 date: 2024-06-17 14:13:00 -07:00
+categories:
+- biden
 description: '"Deadly consequences."'
 image: "/uploads/day-1245-biden.jpg"
 todayInOneSentence: The U.S. surgeon general called for social media companies to
@@ -11,7 +13,6 @@ todayInOneSentence: The U.S. surgeon general called for social media companies t
   restrict access to abortion and transgender medical care in the military; and Trump
   confused the name of his former White House physician immediately after demanding
   that Biden “should have to take a cognitive test.”
-category: biden
 ---
 
 1/ **The U.S. surgeon general called for social media companies to include a surgeon general’s warning label stating that the platforms can harm people’s mental health**. Dr. Vivek Murthy, who cannot unilaterally add warning labels, urged Congress to enact legislation requiring the label to “regularly remind parents and adolescents that social media has not been proved safe” and that "social media is associated with significant mental health harms for adolescents." Murthy cited a 2019 American Medical Association study that showed teens who spend three hours a day on social media double their risk of depression. On average, teens spend nearly five hours a day on social media apps. "The mental health crisis among young people is an emergency," Murthy added, "and social media has emerged as an important contributor." ([New York Times](https://www.nytimes.com/2024/06/17/health/surgeon-general-social-media-warning-label.html) / [Washington Post](https://www.washingtonpost.com/technology/2024/06/17/surgeon-general-social-media-warning-labels/) / [Associated Press](https://apnews.com/article/surgeon-general-social-media-mental-health-df321c791493863001754401676f165c) / [ABC News](https://abcnews.go.com/US/surgeon-general-calls-health-warnings-social-media-younger/story?id=110388862) / [CNN](https://www.cnn.com/2024/06/17/media/surgeon-general-social-media-apps-warning-label/) / [Axios](https://www.axios.com/2024/06/17/teen-mental-health-social-media-platforms-warning-labels)) 

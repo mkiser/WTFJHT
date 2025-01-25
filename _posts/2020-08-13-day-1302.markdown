@@ -1,6 +1,8 @@
 ---
 title: Day 1302
 date: 2020-08-13 14:18:00 -07:00
+categories:
+- trump
 description: '"A major milestone."'
 image: "/uploads/1302.jpg"
 todayInOneSentence: Trump vowed to block funding for the U.S. Postal Service so Democrats
@@ -11,7 +13,6 @@ todayInOneSentence: Trump vowed to block funding for the U.S. Postal Service so 
   reported nearly 1,500 deaths from the coronavirus in a single day Wednesday, the
   highest since mid-May; and the director of the CDC warned that the U.S. could have
   "the worst fall [...] we've ever had."
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

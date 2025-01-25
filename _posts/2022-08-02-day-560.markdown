@@ -1,6 +1,8 @@
 ---
 title: Day 560
 date: 2022-08-02 11:45:00 -07:00
+categories:
+- biden
 description: '"Morale, welfare, and recreation."'
 image: "/uploads/day-560-biden.jpg"
 todayInOneSentence: The U.S. killed al Qaeda leader Ayman Al-Zawahri in a drone strike;
@@ -12,7 +14,6 @@ todayInOneSentence: The U.S. killed al Qaeda leader Ayman Al-Zawahri in a drone 
   gun laws limited organizers ability to ban firearms in the public park; and the
   U.S. military runs more than 3,000 slot machines on American military bases overseas
   that earn more than $100 million each year from service members.
-category: biden
 ---
 
 1/ **The U.S. killed al Qaeda leader Ayman Al-Zawahri in a drone strike**. Zawahiri oversaw the attacks of Sept. 11, 2001, alongside the group’s founder, Osama bin Laden. The attack against Zawahiri is the first known counterterrorism strike there since U.S. forces withdrew from Afghanistan last August. ([New York Times](https://www.nytimes.com/2022/08/01/us/politics/al-qaeda-strike-afghanistan.html) / [Washington Post](https://www.washingtonpost.com/national-security/2022/08/01/zawahiri-al-qaeda-killed/) / [Politico](https://www.politico.com/news/2022/08/01/sources-u-s-kills-al-qaeda-leader-ayman-al-zawahri-in-drone-strike-00049089) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-announce-death-top-al-qaeda-leader-al-zawahiri-sources-say-rcna41046))

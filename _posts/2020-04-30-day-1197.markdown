@@ -1,6 +1,8 @@
 ---
 title: Day 1197
 date: 2020-04-30 14:52:00 -07:00
+categories:
+- trump
 description: '"Honestly, I''m really in charge."'
 image: "/uploads/1197.jpg"
 todayInOneSentence: Another 3.8 million Americans filed for first-time unemployment
@@ -13,7 +15,6 @@ todayInOneSentence: Another 3.8 million Americans filed for first-time unemploym
   pressured U.S. intelligence agencies to provide evidence supporting White House
   claims that the coronavirus outbreak originated in state-run laboratory accident
   in China.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

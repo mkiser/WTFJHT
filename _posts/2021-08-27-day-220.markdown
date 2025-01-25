@@ -1,6 +1,8 @@
 ---
 title: Day 220
 date: 2021-08-27 13:34:00 -07:00
+categories:
+- biden
 description: '"The mission will go on."'
 image: "/uploads/day-220-082721.jpg"
 todayInOneSentence: The death toll from the attack on Kabul's airport rose to 169
@@ -10,7 +12,6 @@ todayInOneSentence: The death toll from the attack on Kabul's airport rose to 16
   Court blocked the Biden administration's eviction moratorium; and a Florida judge
   ruled that Gov. DeSantis' ban on mask mandates is unconstitutional.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **The death toll from the bombing attack at the Kabul airport in Afghanistan rose to 169 Afghans and 13 U.S. service members**, a number that could increase as authorities examine fragmented remains. Thursday’s bombing — blamed on Afghanistan’s offshoot of the Islamic State group, an enemy of both the Taliban and the West — marked one of the most lethal terror attacks the country has seen. The U.S. said it was the deadliest day for American forces in Afghanistan since 2011. ([Associated Press](https://apnews.com/article/bombings-evacuations-kabul-bb32ec2b65b54ec24323e021c9b4a553) / [CNN](https://www.cnn.com/2021/08/26/asia/afghanistan-kabul-airport-blast-intl/index.html))

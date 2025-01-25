@@ -1,6 +1,8 @@
 ---
 title: Day 854
 date: 2023-05-23 15:02:00 -07:00
+categories:
+- biden
 description: '"Very substantial."'
 image: "/uploads/day-584-biden.jpg"
 todayInOneSentence: The Texas billionaire and Republican megadonor with close ties
@@ -13,7 +15,6 @@ todayInOneSentence: The Texas billionaire and Republican megadonor with close ti
   will announce his 2024 presidential campaign in a Twitter Spaces livestream with
   Elon Musk on Wednesday; and 62% of Americans say they believe Biden's mental fitness
   is a real concern.
-category: biden
 ---
 
 1/ **The Texas billionaire and Republican megadonor with close ties to Clarence Thomas refused to answer questions from the Senate Judiciary Committee about his gifts to the Supreme Court justice**. Harlan Crow told chairman Dick Durbin that the Senate Judiciary Committee did not have “the authority to investigate Mr. Crow’s personal friendship with Justice Clarence Thomas.” In response, Durbin said Crow “did not provide a credible justification” for refusing to cooperate, saying “Harlan Crow believes the secrecy of his lavish gifts to Justice Thomas is more important than the reputation of the highest court of law in this land.” Recent reporting revealed that Thomas received lavish gifts and luxury travel from Crow, plus favorable real estate transactions and gifts that Thomas never included in his annual financial disclosures. ([CNN](https://www.cnn.com/2023/05/23/politics/harlan-crow-durbin-clarence-thomas/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-05-23/justice-thomas-s-benefactor-crow-rebuffs-senate-on-ethics-probe?sref=MIBMEEoj) / [NBC News](https://www.nbcnews.com/politics/congress/billionaire-harlan-crow-refuses-give-senators-information-relationship-rcna85840) / [Politico](https://www.politico.com/news/2023/05/23/harlan-crow-supreme-court-probe-00098401) / [Washington Post](https://www.washingtonpost.com/politics/2023/05/22/harlan-crow-clarence-thomas-atlantic/))

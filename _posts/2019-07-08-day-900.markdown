@@ -1,6 +1,8 @@
 ---
 title: Day 900
 date: 2019-07-08 11:47:00 -07:00
+categories:
+- trump
 description: 'Pathways. '
 image: "/uploads/900.jpg"
 todayInOneSentence: New York Gov. Andrew Cuomo signed a bill allowing congressional
@@ -9,7 +11,6 @@ todayInOneSentence: New York Gov. Andrew Cuomo signed a bill allowing congressio
   Trump is "very seriously" considering an executive order to get the citizenship
   question on the 2020 census; and a White House correspondent for Breitbart has joined
   the Trump administration.
-category: trump
 ---
 
 1/ **New York Gov. Andrew Cuomo signed a bill allowing congressional committees to access Trump's New York state tax returns**. The bill requires state tax officials to release the state returns for any "specified and legitimate legislative purpose" on the request of the House Ways and Means Committee, the Senate Finance Committee, or the Joint Committee on Taxation. Trump's personal lawyer, Jay Sekulow, called the bill "more presidential harassment." The House Ways and Means Committee has unsuccessfully tried to access six years of Trump's personal and business tax returns. The House sued the Treasury Department and the Internal Revenue Service last week to try to force them to release the returns. ([New York Times](https://www.nytimes.com/2019/07/08/nyregion/trump-ny-taxes-cuomo.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/ny-gov-cuomo-signs-bill-allowing-congress-access-trump-s-n1027396))

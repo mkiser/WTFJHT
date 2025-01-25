@@ -1,6 +1,8 @@
 ---
 title: Day 582
 date: 2018-08-24 09:49:00 -07:00
+categories:
+- trump
 description: You can do it.
 image: "/uploads/582.jpg"
 todayInOneSentence: 'The CFO at the Trump Organization was given immunity by federal
@@ -9,7 +11,6 @@ todayInOneSentence: 'The CFO at the Trump Organization was given immunity by fed
   all of the corruption on the ''other side''" after Sessions said he would not be
   influenced by Trump''s politics; and CIA informants close to the Kremlin have gone
   silent ahead of the midterms. '
-category: trump
 ---
 
 1/ **The chief financial officer at the Trump Organization was given immunity by federal prosecutors in New York** as part of their criminal investigation into hush-money payments to Stormy Daniels and Karen McDougal during the 2016 presidential campaign. Allen Weisselberg, who is identified in court filings as "Executive-1," helped authorize $420,000 in reimbursements to Michael Cohen and was granted immunity last month in exchange for his grand jury testimony about his role in the payments. According to prosecutors, Cohen – then Trump's attorney – sent an invoice to Weisselberg in January 2017 for "Payment for services rendered for the month of January and February, 2017," which reflected Cohen's $130,000 payment to Stormy Daniels in October 2016, as well as an additional $50,000 for "tech services." Weisselberg directed another Trump Organization executive to "pay from the Trust" and to "post to legal expenses." Executives at the Trump Organization "'grossed up' for tax purposes" the reimbursement, doubling the invoice to $360,000, adding a $60,000 bonus. After he was elected, Trump handed over control of his financial assets and business interests to Eric Trump, Trump Jr., and Weisselberg. ([Wall Street Journal](https://www.wsj.com/articles/allen-weisselberg-longtime-trump-organization-cfo-is-granted-immunity-by-federal-prosecutors-in-michael-cohen-investigation-1535121992) / [NBC News](https://www.nbcnews.com/news/crime-courts/trump-org-cfo-allen-weisselberg-given-immunity-prosecutors-testify-n903566) / [Washington Post](https://www.washingtonpost.com/politics/trump-organization-executive-allen-weisselberg-who-allegedly-helped-arrange-hush-money-reimbursement-to-cohen-granted-immunity/2018/08/24/404ebdf2-a7b1-11e8-97ce-cc9042272f07_story.html))

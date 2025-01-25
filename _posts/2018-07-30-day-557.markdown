@@ -1,6 +1,8 @@
 ---
 title: Day 557
 date: 2018-07-30 13:38:00 -07:00
+categories:
+- trump
 description: '"Trump Derangement Syndrome."'
 image: "/uploads/557.jpg"
 todayInOneSentence: Rudy Giuliani said that "collusion is not a crime"; Trump meanwhile
@@ -8,7 +10,6 @@ todayInOneSentence: Rudy Giuliani said that "collusion is not a crime"; Trump me
   journalists of being "driven insane by their Trump Derangement Syndrome"; and threatened
   to shut down the government if Democrats don't agree to pay for his proposed border
   wall.
-category: trump
 ---
 
 1/ **Rudy Giuliani: "Collusion is not a crime."** Trump's lawyer told Fox and Friends "I don't even know if that's a crime, colluding about Russians," and that he's been "looking in the federal code trying to find collusion as a crime." Giuliani asserted that "the hacking is the crime. The president didn't hack. He didn't pay them for hacking," suggesting that Trump would have had to pay for Russia to interfere on his behalf. Trump has argued for more than a year that there was "no collusion" – not that collusion wasn't a crime. On Sunday, Trump tweeted that "There is No Collusion!" and that "the Witch Hunt is an illegal Scam!" ([The Hill](http://thehill.com/homenews/administration/399461-giuliani-collusion-is-not-a-crime) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/07/30/rudy-giuliani-obliterates-the-goal-posts-on-trump-russia-collusion/) / [CNN](https://www.cnn.com/2018/07/30/politics/rudy-giuliani-collusion-crime-cnntv/index.html))

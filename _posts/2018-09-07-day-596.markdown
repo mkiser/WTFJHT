@@ -1,6 +1,8 @@
 ---
 title: Day 596
 date: 2018-09-07 09:18:00 -07:00
+categories:
+- trump
 description: 'Your fault. '
 image: "/uploads/596.jpg"
 todayInOneSentence: Trump called on Jeff Sessions and the Justice Department to investigate
@@ -9,7 +11,6 @@ todayInOneSentence: Trump called on Jeff Sessions and the Justice Department to 
   Warren called on officials to invoke the 25th Amendment and begin the process of
   removing Trump from office; Trump told his supporters it'll be "your fault" if he
   gets impeached; and Obama called Trump a "threat to democracy."
-category: trump
 ---
 
 1/ **Trump called on Jeff Sessions and the Justice Department to investigate and uncover the author of the anonymous op-ed** that described an effort by members of the administration to subvert his agenda. "Jeff should be investigating who the author of that piece was because I really believe it's national security," Trump told reporters aboard Air Force One. He added that he's also "looking at" possible legal action against The New York Times, though he did not elaborate. ([ABC News](https://abcnews.go.com/Politics/trump-calls-justice-department-investigate-author-times-op/story?id=57673138) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-calls-sessions-investigate-anonymous-author-resistance-op-ed-n907536) / [CNBC](https://www.cnbc.com/2018/09/07/trump-wants-jeff-sessions-to-investigate-writer-of-anonymous-nyt-op-ed.html) / [CNN](https://www.cnn.com/2018/09/07/politics/donald-trump-jeff-sessions-investigation/index.html) / [New York Times](https://www.nytimes.com/2018/09/07/us/politics/trump-investigation-times-op-ed.html))

@@ -1,9 +1,10 @@
 ---
 title: Day 468
 date: 2018-05-02 10:08:00 -07:00
+categories:
+- trump
 description: A setup and a trap.
 image: "/uploads/468.jpg"
-category: trump
 ---
 
 1/ **Robert Mueller warned Trump's legal team that he could subpoena the president to appear before a grand jury if he refuses to speak to federal investigators** involved in the Russia probe. Mueller raised the possibility of a subpoena during a tense meeting in March after Trump's attorneys insisted that Trump was under no obligation to speak with investigators. Unlike an interview with the special counsel, Trump would not be allowed to bring his lawyers to a grand jury hearing. ([Washington Post](https://www.washingtonpost.com/politics/mueller-raised-possibility-of-presidential-subpoena-in-meeting-with-trumps-legal-team/2018/05/01/2bdec08e-4d51-11e8-af46-b1d6dc0d9bfe_story.html?utm_term=.37a657b7e0c9))

@@ -1,6 +1,8 @@
 ---
 title: Day 1448
 date: 2021-01-06 15:03:00 -08:00
+categories:
+- trump
 description: '"Death spiral."'
 image: "/uploads/1448.jpg"
 todayInOneSentence: Pence rejected Trump's demand to block certification of Biden's
@@ -12,7 +14,6 @@ todayInOneSentence: Pence rejected Trump's demand to block certification of Bide
   stormed the Capitol as "very special," saying “we can’t play into the hands of these
   people"; and Democrats won control of the Senate with victories in Georgia’s two
   runoff elections.
-category: trump
 ---
 
 1/ **Pence rejected Trump's demand to block certification of Biden's win**, saying only lawmakers can decide whether to accept or reject the Electoral College votes. On Tuesday, Pence told Trump that he does not have the authority to reject the electoral votes from states he lost. The meeting came hours after Trump inaccurately tweeted “The Vice President has the power to reject fraudulently chosen electors.” This statement is not true and the vice president does not have the unilateral power to alter the results sent to Congress. On Wednesday, Pence informed lawmakers that he was rebuffing Trump's demand as lawmakers gathered for a joint session of Congress to count the electoral votes, saying "It is my considered judgment that my oath to support and defend the Constitution constrains me from claiming unilateral authority to determine which electoral votes should be counted and which should not." ([Politico](https://www.politico.com/news/2021/01/06/congress-confirms-bidens-win-trump-455253) / [CNN](https://www.cnn.com/2021/01/05/politics/mike-pence-donald-trump-congress-election/index.html) / [New York Times](https://www.nytimes.com/2021/01/05/us/politics/pence-trump-election-results.html) / [Axios](https://www.axios.com/trump-pence-electoral-college-fa6456c7-b143-4582-8d2d-da5a8b33e3ec.html) / [USA Today](https://www.usatoday.com/story/news/politics/elections/2021/01/06/pence-defies-trump-says-he-cant-change-electoral-college-votes/6566014002/))

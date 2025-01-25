@@ -1,6 +1,8 @@
 ---
 title: Day 105
 date: 2021-05-04 13:53:00 -07:00
+categories:
+- biden
 description: '"New normal."'
 image: "/uploads/105-biden-new-normal.jpg"
 todayInOneSentence: The FDA is expected to authorize Pfizer’s Covid-19 vaccine for
@@ -9,7 +11,6 @@ todayInOneSentence: The FDA is expected to authorize Pfizer’s Covid-19 vaccine
   vaccinated people; the White House will reallocate some Covid-19 vaccine doses away
   from states with lower demand to those where demand remains high; and America’s
   "new normal" temperature is one degree hotter than it was two decades ago.
-category: biden
 ---
 
 1/ **The FDA is expected to authorize Pfizer’s Covid-19 vaccine for children as young as 12 by next week**. The Pfizer vaccine was authorized by the FDA for people 16 and older in December, while Moderna is currently authorized for ages 18 and up. Children now account for 22.4% of new coronavirus cases in the U.S. ([New York Times](https://www.nytimes.com/2021/05/03/us/politics/coronavirus-vaccine-teenagers.html) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/2021/05/03/993141036/children-now-account-for-22-of-new-u-s-covid-cases-why-is-that) / [Washington Post](https://www.washingtonpost.com/health/2021/05/03/pfizer-vaccine-for-adolescents/) / [Associated Press](https://apnews.com/article/coronavirus-business-coronavirus-vaccine-health-government-and-politics-cf218f1f24fdccd4e06c024b0a869d20))

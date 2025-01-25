@@ -1,6 +1,8 @@
 ---
 title: Day 1215
 date: 2020-05-18 15:18:00 -07:00
+categories:
+- trump
 description: '"I seem to be okay."'
 image: "/uploads/1215.jpg"
 todayInOneSentence: The first coronavirus vaccine to be tested in people appears to
@@ -12,7 +14,6 @@ todayInOneSentence: The first coronavirus vaccine to be tested in people appears
   to help prop up large segments of the U.S. economy has barely lent any money; and
   cellphone location data suggests that demonstrators at anti-lockdown protests may
   have spread coronavirus hundreds of miles.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

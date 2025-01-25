@@ -1,6 +1,8 @@
 ---
 title: Day 664
 date: 2022-11-14 15:04:00 -08:00
+categories:
+- biden
 description: '"Simply by saying so."'
 image: "/uploads/day-664-biden.jpg"
 todayInOneSentence: Democrats won the Senate while Republicans appear on track for
@@ -12,7 +14,6 @@ todayInOneSentence: Democrats won the Senate while Republicans appear on track f
   he said so; and officials from six nations spent more than $750,000 at Trump’s hotel
   in Washington while they were trying to influence U.S. foreign policy in 2017 and
   2018.
-category: biden
 ---
 
 1/ **Democrats won the Senate while Republicans appear on track for a narrow majority in the House**. As of Monday morning, 20 House seats remain uncalled, with 212 seats projected for Republicans and 203 for Democrats. To retain the House majority, Democrats would have to win 15 of the last 20 seats. Biden [told](https://www.politico.com/news/2022/11/14/democrats-house-midterm-elections-00066765) reporters: “I think we’re going to get very close in the House \[...\] but I don’t think we’re going to make it.” Meanwhile, in the Senate, Democratic incumbents Mark Kelly and Catherine Cortez Masto won re-election in Arizona and Nevada, respectively. The two victories mean Democrats will not only be able to [unilaterally](https://www.politico.com/news/2022/11/12/democratic-senate-biden-judges-00066623) confirm Biden’s judges and executive branch nominees for two more years, but they have the chance to expand their Senate majority with a win in Georgia's Senate run-off election next month. Biden, [however](https://apnews.com/article/abortion-biden-voting-rights-filibusters-government-and-politics-a3b53867ffcbddcda13105891dbcdeec), said that Democrats still lack the votes needed to codify abortion rights into law. ([Politico](https://www.politico.com/news/2022/11/12/senate-control-midterm-elections-results-2022-00066547) / [NBC News](https://www.nbcnews.com/politics/2022-election/cortez-masto-defeats-laxalt-nevada-handing-democrats-control-s-rcna54936) / [CNBC](https://www.cnbc.com/2022/11/11/arizona-senate-mark-kelly-beats-trump-gop-pick-blake-masters-nbc-news-projects.html) / [New York Times](https://www.nytimes.com/2022/11/11/us/politics/arizona-senator-mark-kelly-blake-masters.html) / [NPR](https://www.npr.org/2022/11/09/1135690671/house-senate-republican-democrat-midterm-election-results))

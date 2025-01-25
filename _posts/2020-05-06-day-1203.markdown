@@ -1,6 +1,8 @@
 ---
 title: Day 1203
 date: 2020-05-06 14:26:00 -07:00
+categories:
+- trump
 description: '"We''ve solved every problem."'
 image: "/uploads/1203.jpg"
 todayInOneSentence: Trump contradicted his plan to shut down the coronavirus task
@@ -13,7 +15,6 @@ todayInOneSentence: Trump contradicted his plan to shut down the coronavirus tas
   and K-12 schools should handle complaints of sexual assault and misconduct; and
   Trump ordered Jared Kushner to move forward with the painting his border wall black,
   which is projected to add at least $500 million in costs.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

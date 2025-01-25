@@ -1,9 +1,10 @@
 ---
 title: Day 267
 date: 2017-10-13 09:33:00 -07:00
+categories:
+- trump
 description: Imploding broken mess.
 image: "/uploads/267.jpg"
-category: trump
 ---
 
 1/ **Trump will cut off essential subsidy payments to <a href="{{ site.url }}{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a> insurers**. The subsidies are used to pay out-of-pocket costs for low-income people and represent an estimated $7 billion this year. A White House statement directed Congress to "repeal and replace the disastrous Obamacare law and provide real relief to the American people" because "the government cannot lawfully make the cost-sharing reduction payments." Trump said the ACA was "imploding" and called it a "broken mess" in a pair of tweets. Chuck Schumer and Nancy Pelosi responded, saying Trump had “apparently decided to punish the American people for his inability to improve our health care system.”  Nearly 6 million enrollees qualify for the cost-sharing payments this year. ([Politico](http://www.politico.com/story/2017/10/12/trump-obamacare-subsidy-243736) / [New York Times](https://www.nytimes.com/2017/10/12/us/politics/trump-obamacare-executive-order-health-insurance.html) / [CNN](http://www.cnn.com/2017/10/12/politics/obamacare-subsidies/index.html))

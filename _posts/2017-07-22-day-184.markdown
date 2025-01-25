@@ -1,6 +1,8 @@
 ---
 title: Day 184
 date: 2017-07-22 11:11:00 -07:00
+categories:
+- trump
 tags:
 - pardon
 description: Complete power.
@@ -10,7 +12,6 @@ tag_excerpts:
     communications director, called Democrats obstructionist, and declared Obamacare
     dead.
 image: "/uploads/184.jpg"
-category: trump
 ---
 
 1/ **Trump lost his shit on Twitter today**. In a two hour rant he asserted his "complete power" to pardon himself, decried "illegal leaks," blamed Hillary, defended Trump Jr. and his new communications director, called Democrats obstructionist, and declared Obamacare dead. ([The Daily Beast](http://www.thedailybeast.com/trump-loses-saturday-morning-cool-fires-off-multiple-tweets-in-long-rant) / [ABC News](http://abcnews.go.com/Politics/trump-twitter-tirade-blasts-leak-sessions-refers-presidential/story?id=48790289) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/07/22/trump-denounces-illegal-leaks-in-new-accounts-of-his-campaigns-contact-with-russia/) / [New York Magazine](http://nymag.com/daily/intelligencer/2017/07/trump-asserts-complete-pardon-power.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 1245
 date: 2020-06-17 15:20:00 -07:00
+categories:
+- trump
 description: '"Obstruction of justice as a way of life."'
 image: "/uploads/1245.jpg"
 todayInOneSentence: At least 10 states reported either new single-day highs or set
@@ -11,7 +13,6 @@ todayInOneSentence: At least 10 states reported either new single-day highs or s
   publishing her tell-all book about him; and Officials in Tulsa have asked the Trump
   campaign to cancel his campaign rally on Saturday, calling it "the perfect storm
   of potential over-the-top disease transmission."
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

@@ -1,6 +1,8 @@
 ---
 title: Day 1
 date: 2021-01-20 14:04:00 -08:00
+categories:
+- biden
 tags:
 - pardon
 description: '"Democracy has prevailed."'
@@ -22,7 +24,6 @@ todayInOneSentence: Biden was sworn as the 46th president of the United States, 
   his administration's ethics pledge intended to "drain the swamp"; and Biden plans
   to make immediate and extensive use of executive orders to undo much of the last
   four years under Trump.
-category: biden
 ---
 
 1/ **Biden was sworn as the 46th president of the United States**, moments after Kamala Harris took her oath of office, making her the first woman and the first woman of color to serve as vice president. “This is America’s day,” Biden said as he began his Inaugural Address. “This is democracy’s day.” Biden – the oldest man to be sworn in as president at 78 – described today as "our historic moment of crisis and challenge,” as he called on the nation to end its “uncivil war" and embrace “Unity \[as\] the path forward. And we must meet this moment as the United States of America. If we do that, I guarantee you we will not fail.” Four years after Trump [attacked](https://whatthefuckjusthappenedtoday.com/2017/01/20/Day-1/#7-trump-attacked-the-washington-esta) the Washington establishment throughout his Inaugural Address, declaring that the “American carnage stops right here and stops right now,” Biden offered a direct rebuttal: “We’ve learned again that democracy is precious, democracy is fragile — and at this hour, my friends, democracy has prevailed.” ([New York Times](https://www.nytimes.com/live/2021/01/20/us/biden-inauguration/biden-sworn-in) / [Washington Post](https://www.washingtonpost.com/politics/joe-biden-sworn-in/2021/01/20/13465c90-5a7c-11eb-a976-bad6431e03e2_story.html) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-harris-inauguration-amid-covid-pandemic-d-c-lockdown-n1254732) / [Wall Street Journal](https://www.wsj.com/articles/joe-biden-presidential-inauguration-2021-11611095413) / [CNN](https://www.cnn.com/2021/01/20/politics/joe-biden-presidential-inauguration/index.html) / [Politico](https://www.politico.com/news/2021/01/20/biden-inauguration-america-dystopia-460840))

@@ -1,6 +1,8 @@
 ---
 title: Day 893
 date: 2019-07-01 08:56:00 -07:00
+categories:
+- trump
 description: Unforeseen.
 image: "/uploads/893.jpg"
 todayInOneSentence: A federal judge ordered Customs and Border Patrol to let health
@@ -10,7 +12,6 @@ todayInOneSentence: A federal judge ordered Customs and Border Patrol to let hea
   Trump from using $2.5 billion in military funding to build a wall at the southern
   border; and Trump requested tanks as a prop for his planned "Salute to America"
   Fourth of July address to the nation.
-category: trump
 ---
 
 1/ **A federal judge ordered Customs and Border Patrol to let health experts into detention facilities holding migrant children** in order to assess the children's needs and ensure the facilities are "safe and sanitary." The order includes all CBP facilities in the El Paso and Rio Grande Valley sectors. U.S. District Judge Dolly Gee made the ruling despite requests from Attorney General William Barr and others that the court "set a schedule for briefing these issues that provides defendants with a full and fair opportunity to respond to the allegations that plaintiffs have lodged against them." Last week, lawyers asked Judge Gee to hold the Trump administration in contempt and to order immediate improvements at the facilities. ([CNN](https://www.cnn.com/2019/06/30/us/child-migrant-detention-center-doctors-federal-judge/index.html) / [The Hill](https://thehill.com/homenews/administration/451075-federal-judge-orders-cbp-to-let-doctor-into-border-facilities))

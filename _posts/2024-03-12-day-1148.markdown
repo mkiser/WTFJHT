@@ -1,6 +1,8 @@
 ---
 title: Day 1148
 date: 2024-03-12 14:35:00 -07:00
+categories:
+- biden
 description: '"Requisite intent."'
 image: "/uploads/day1148-biden.jpg"
 todayInOneSentence: A group of senators urged Biden to suspend U.S. military aid to
@@ -11,7 +13,6 @@ todayInOneSentence: A group of senators urged Biden to suspend U.S. military aid
   were involved; and a bipartisan panel of North Carolina judges ruled that a Republican-led
   effort to restructure the state's election boards is unconstitutional.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **A group of Independent and Democratic senators led by Bernie Sanders urged Biden to suspend U.S. military aid to Israel until it allows humanitarian assistance to reach Gaza.** In a letter, the senators argued that blocking aid violates the Foreign Assistance Act. The senators insisted that more leverage is needed to change Israel's policy. ([New York Times](https://www.nytimes.com/2024/03/12/us/politics/democrats-biden-israel-letter.html) / [New Republic](https://newrepublic.com/post/179764/bernie-sanders-democratic-senators-letter-biden-israel))

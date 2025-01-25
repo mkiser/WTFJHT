@@ -1,9 +1,10 @@
 ---
 title: Day 706
 date: 2018-12-26 10:32:00 -08:00
+categories:
+- trump
 description: Favors.
 image: "/uploads/706.jpg"
-category: trump
 ---
 
 1/ **Trump's partial government shutdown entered its fifth day** as the White House and lawmakers remain at odds over Trump's demand for $5 billion in border wall funding. "I can't tell you when the government is going to be open," Trump said in the Oval Office after a Christmas call with U.S. troops. "I can tell you it's not going to be open until we have a wall, a fence, whatever they would like to call it." About 25% of the federal government has been shutdown, with an estimated 400,000 federal employees working without pay with 350,000 furloughed. Democrats will take control of the House on Jan. 3 and are expected to pass a bill to fund the government without additional wall funding. This is the third shutdown of 2018, with Mick Mulvaney, acting chief of staff and director of the Office of Management and Budget, predicting that "it's very possible" the shutdown will extend into the new year. ([Washington Post](https://www.washingtonpost.com/business/2018/12/26/partial-government-shutdown-enters-fifth-day-with-no-end-sight/) / [Wall Street Journal](https://www.wsj.com/articles/u-s-government-shutdown-enters-fifth-day-11545835573) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-12-26/shutdown-enters-fifth-day-amid-impasse-over-trump-s-border-wall) / [CNN](https://www.cnn.com/2018/12/25/politics/trump-shutdown-wall-january/index.html) / [The Guardian](https://www.theguardian.com/us-news/2018/dec/25/donald-trump-government-shutdown-will-not-end-unless-congress-funds-border-wall))

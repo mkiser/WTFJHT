@@ -1,6 +1,8 @@
 ---
 title: Day 1307
 date: 2020-08-18 14:27:00 -07:00
+categories:
+- trump
 description: '"A grave counterintelligence threat."'
 image: "/uploads/1307.jpg"
 todayInOneSentence: Postmaster General Louis DeJoy announced that he is temporarily
@@ -9,7 +11,6 @@ todayInOneSentence: Postmaster General Louis DeJoy announced that he is temporar
   plan to sue the U.S. Postal Service and DeJoy; Paul Manafort's interactions with
   Russian intelligence services during the 2016 presidential election posed a "grave
   counterintelligence threat"; and Trump retweeted Russian propaganda about Joe Biden.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

@@ -1,6 +1,8 @@
 ---
 title: Day 125
 date: 2021-05-24 14:51:00 -07:00
+categories:
+- biden
 description: '"We have to be ready."'
 image: "/uploads/125-biden.jpg"
 todayInOneSentence: Biden doubled FEMA's budget for extreme weather preparation ahead
@@ -12,7 +14,6 @@ todayInOneSentence: Biden doubled FEMA's budget for extreme weather preparation 
   a dissident journalist; the Trump administration secretly obtained the 2017 phone
   and email records of a CNN correspondent; and 53% of Republicans believe Trump is
   the actual President, not Biden.
-category: biden
 ---
 
 1/ **Biden doubled FEMA's budget for extreme weather preparation ahead of hurricane and wildfire season**, saying "We're going to spare no expense, no effort, to keep Americans safe and respond to crises when they arise." The $1 billion for the Building Resilient Infrastructure and Communities program will help communities prepare for hurricanes, wildfires, and other natural disasters. The U.S., however, logged 22 separate weather and climate-related disasters in 2020 that each exceeded $1 billion in damages. The administration will also start a new NASA initiative to develop "next generation climate data systems" to track the impact of climate change. “We all know that the storms are coming, and we’re going to be prepared,” Biden added. “We have to be ready.” ([CNN](https://www.cnn.com/2021/05/24/politics/fema-climate-change-biden-funding/index.html) / [Washington Post](https://www.washingtonpost.com/climate-environment/2021/05/24/biden-hurricanes-fema/) / [ABC News](https://abcnews.go.com/Politics/biden-doubles-funding-prepare-natural-disasters-keeping-climate/story?id=77874588) / [New York Times](https://www.nytimes.com/2021/05/24/climate/biden-fema-disasters.html))

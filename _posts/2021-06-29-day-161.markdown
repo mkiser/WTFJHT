@@ -1,6 +1,8 @@
 ---
 title: Day 161
 date: 2021-06-29 14:19:00 -07:00
+categories:
+- biden
 description: '"Take the win."'
 image: "/uploads/day-161-biden.jpg"
 todayInOneSentence: Joe Manchin agreed to support the use of budget reconciliation
@@ -12,7 +14,6 @@ todayInOneSentence: Joe Manchin agreed to support the use of budget reconciliati
   prosecutors to argue why Trump's company should not be criminally charged; and the
   Justice Department is investigating Rudy Giuliani over possible foreign lobbying
   for Turkish interests.
-category: biden
 ---
 
 1/ **Joe Manchin agreed to support the use of budget reconciliation to pass a broader tax and social spending bill**. Manchin said he believes a Democratic-only infrastructure bill "can be done," but hasn't agreed on how big it will be, adding that it shouldn't be linked to the separate bipartisan agreement. Manchin's comments, however, come as the Progressive Caucus told the White House and party leaders that they would withhold their support for the bipartisan infrastructure bill if the bigger, broader tax and social spending package wasn't passed in tandem. Manchin, meanwhile, urged progressive Democrats to "take the win" on the bipartisan agreement. ([The Hill](https://thehill.com/homenews/senate/560686-manchin-says-hes-on-board-with-democratic-only-infrastructure-bill?rl=1) / [Politico](https://www.politico.com/news/2021/06/29/infrastructure-bill-spending-496992) / [New York Times](https://www.nytimes.com/live/2021/06/29/us/joe-biden-news/progressive-democrats-threaten-to-derail-a-bipartisan-infrastructure-deal) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-06-29/biden-team-pivots-to-brokering-democratic-deal-on-budget-bill?srnd=politics-vp&sref=MIBMEEoj) / [Business Insider](https://www.businessinsider.com/senator-manchin-says-he-agreed-on-democratic-reconciliation-bill-2021-6?op=1&scrolla=5eb6d68b7fedc32c19ef33b4))

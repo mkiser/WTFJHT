@@ -1,6 +1,8 @@
 ---
 title: Day 861
 date: 2019-05-30 10:39:00 -07:00
+categories:
+- trump
 tags:
 - impeachment
 description: Essentially.
@@ -11,7 +13,6 @@ todayInOneSentence: Trump tweeted that Russia helped "me to get elected"; Trump 
   atleast 49 Democrats and one Republican support starting an impeachment inquiry
   against Trump; and Trump administration deliberately concealed evidence about the
   decision to add a citizenship question to the 2020 Census.
-category: trump
 ---
 
 1/ **Trump tweeted that Russia helped "me to get elected" – his first acknowledgement that Russia worked to get him elected in 2016**. Trump later retracted the statement, telling reporters that, "No, Russia did not help me get elected. \[...\] I got me elected." Trump has previously denied that Russia interfered in the election, rejecting the conclusions by American intelligence agencies and federal prosecutors that Russia worked to help him defeat Hillary Clinton in the 2016 election campaign. ([New York Times](https://www.nytimes.com/2019/05/30/us/politics/trump-russia-help-elected.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-attacks-mueller-says-he-would-have-brought-charges-if-he-had-evidence-of-a-crime/2019/05/30/bf8ab798-82ca-11e9-bce7-40b4105f7ca0_story.html) / [Associated Press](https://apnews.com/2c973fabb59446cf852edda6ffa7174a) / [The Guardian](https://www.theguardian.com/us-news/2019/may/30/trump-russia-2016-election-helped-elect-president) / [CNN](https://www.cnn.com/2019/05/30/politics/trump-russia-election-interference-help/index.html))

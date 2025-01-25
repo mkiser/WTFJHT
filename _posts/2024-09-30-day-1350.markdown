@@ -1,6 +1,8 @@
 ---
 title: Day 1350
 date: 2024-09-30 15:16:00 -07:00
+categories:
+- biden
 description: '"One really violent day."'
 image: "/uploads/day-1350-biden-harris.jpg"
 todayInOneSentence: Biden may call Congress in for a special session to pass supplemental
@@ -14,7 +16,6 @@ todayInOneSentence: Biden may call Congress in for a special session to pass sup
   is involved in more than 120 lawsuits across 26 states as part of a strategy to
   preemptively challenge potential losses, undercut the legitimacy of the election,
   and lay the groundwork to challenge results after the Nov. 5 vote.
-category: biden
 ---
 
 1/ **Biden may call Congress in for a special session to pass supplemental disaster funding to address the “broad and devastating impacts” of Hurricane Helene**, a Category 4 storm that left at least 128 people dead and hundreds more unaccounted for across six states. Congress left last week for its preelection recess, and the House and Senate aren’t expected to return until Nov. 12 – after Election Day. Biden said it’s his “expectation” to ask for a supplemental funding bill, but that he didn’t have a price tag for it yet, adding “this is a historic storm, its devastating.” He added: “They’ve never seen anything like this before.” Trump, meanwhile, repeatedly lied and politicized the disaster, claiming that Biden was “sleeping” and not responding to Georgia Gov. Brian Kemp. Trump repeated the claim after being told Kemp had spoken to Biden. Despite claiming that “we’re not talking about politics now,” Trump said he had asked Elon Musk about using Starlink to help restore communication in the region. The Department of Homeland Security, however, has already provided 40 Starlink satellite systems to aid communications and recovery in North Carolina. ([Politico](https://www.politico.com/news/2024/09/30/biden-hurricane-disaster-funding-00181667) / [New York Times ](https://www.nytimes.com/2024/09/30/us/politics/biden-helene-congress.html)/ [USA Today](https://www.usatoday.com/story/news/politics/2024/09/30/helene-biden-response-fema/75449109007/) / [The Hill](https://thehill.com/homenews/campaign/4907140-biden-expects-supplemental-bill-hurricane-relief/) / [CNN](https://www.cnn.com/weather/live-news/hurricane-helene-florida-north-carolina-georgia-09-30-24/index.html) / [Associated Press](https://apnews.com/article/kamala-harris-donald-trump-hurricane-helene-3097f1706455929adf5a4eb67f9cdf0f) / [ABC News](https://abcnews.go.com/Politics/trump-harris-change-campaign-plans-address-hurricane-helene/story?id=114346629) / [Washington Post](https://www.washingtonpost.com/politics/2024/09/30/trump-harris-hurricane-helene-politics/) / [CNBC](https://www.cnbc.com/2024/09/30/hurricane-helene-trump-georgia-harris-biden.html))

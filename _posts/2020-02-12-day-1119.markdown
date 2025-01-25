@@ -1,6 +1,8 @@
 ---
 title: Day 1119
 date: 2020-02-12 12:01:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: '"Ought to apologize."'
@@ -11,7 +13,6 @@ todayInOneSentence: 'Trump defended Roger Stone in a series of tweets while atta
   of her office’s handling of the Roger Stone and Michael Flynn cases; and Trump suggested
   that the military will likely look at disciplinary action against Lt. Col. Alexander
   S. Vindman. '
-category: trump
 ---
 
 1/ **Trump defended Roger Stone in a series of tweets while attacking the federal judge and prosecutors involved in the case**. Trump also "congratulated" Attorney General William Barr for "taking charge of the case" – confirming that Barr intervened in Stone’s sentencing recommendation. Trump claimed that Stone was treated “very badly” and suggested that prosecutors “ought to apologize to him.” Trump also implied that U.S. District Judge Amy Berman Jackson, who is presiding over the case, was biased because of her role in the sentencing of Paul Manafort and dismissal of a lawsuit against Hillary Clinton. Stone is scheduled to be sentenced on Feb. 20. When asked if he would pardon Stone, Trump replied: “I don’t want to say that yet, but I tell you what, people were hurt viciously and badly by these corrupt people.” ([Washington Post](https://www.washingtonpost.com/nation/2020/02/12/trump-stone-judge/) / [New York Times](https://www.nytimes.com/2020/02/12/us/politics/trump-stone.html))

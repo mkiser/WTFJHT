@@ -1,6 +1,8 @@
 ---
 title: Day 1001
 date: 2023-10-17 12:55:00 -07:00
+categories:
+- biden
 description: '"Whatever it takes."'
 image: "/uploads/day-1001-biden.jpg"
 todayInOneSentence: Biden will travel to Israel to meet with Prime Minister Benjamin
@@ -9,7 +11,6 @@ todayInOneSentence: Biden will travel to Israel to meet with Prime Minister Benj
   for the first time; the Supreme Court – again – allowed the federal government to
   ban "ghost guns"; and Jim Jordan failed to win the House speakership in the first
   round of voting after 20 of his Republicans colleagues voted against him.
-category: biden
 ---
 
 1/ **Biden will travel to Israel to meet with Prime Minister Benjamin Netanyahu and show solidarity with the U.S. ally “in the face of Hamas’s brutal terrorist attack.”** It's the first time a U.S. president has visited Israel while it's actively at war, and comes ahead of Israel's expected ground offensive against Hamas in Gaza as international pressure builds over the humanitarian crisis – and rising civilian death toll – developing in the enclave. The Rafah border crossing between Egypt and Gaza – the only way out of Gaza – will reopen to humanitarian aid for Palestinian civilians currently under siege by Israeli forces. The corridor, however, remains closed – for now – for hundreds of thousands of displaced Palestinian civilians hoping to leave the bombarded territory. Biden, meanwhile, deployed two aircraft carrier strike groups to the region to deter Iran and proxy militant groups from joining a wider regional war. ([CNN](https://www.cnn.com/middleeast/live-news/israel-news-hamas-war-10-17-23/index.html) / [New York Times](https://www.nytimes.com/live/2023/10/17/world/israel-hamas-war-biden-gaza) / [Washington Post](https://www.washingtonpost.com/world/2023/10/17/israel-hamas-war-news-gaza/) / [NPR](https://www.npr.org/2023/10/15/1206006186/israel-defense-forces-says-its-in-formation-to-strike-gaza-city?ft=nprml&f=1205445976) / [NBC News](https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna120747) / [Politico](https://www.politico.com/news/2023/10/16/joe-biden-visit-israel-00121867) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-10-17/blinken-s-whirlwind-israel-diplomacy-hits-hard-mideast-realities?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/world/middle-east/bidens-trip-to-israel-carries-risks-for-u-s-policyand-his-own-legacy-9962b2a2))

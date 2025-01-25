@@ -1,6 +1,8 @@
 ---
 title: Day 1177
 date: 2024-04-10 16:15:00 -07:00
+categories:
+- biden
 description: '"Out of step."'
 image: "/uploads/day-1177-biden.jpg"
 todayInOneSentence: 'The EPA finalized the first-ever national limits on toxic “forever
@@ -12,7 +14,6 @@ todayInOneSentence: 'The EPA finalized the first-ever national limits on toxic �
   surveillance program after Trump urged lawmakers to “kill” it; and Trump’s former
   chief financial officer was to five months in jail after admitting that he had lied
   under oath about helping Trump inflate his net worth to win favorable loan terms. '
-category: biden
 ---
 
 1/ **The EPA finalized the first-ever national limits on toxic “forever chemicals” in drinking water**, a group of human-made chemicals that are considered especially harmful because they don't degrade, can accumulate in the body and the environment, and pose a health risk to people at even the smallest detectable levels of exposure. The new rule is expected to reduce drinking water exposure to these per- and polyfluoroalkyl substances, or PFAS, for about 100 million people and prevent thousands of related illnesses and deaths. This is the first time the EPA has set a drinking water standard for a new contaminant since 1996. ([Associated Press](https://apnews.com/article/forever-chemicals-pfas-pollution-epa-drinking-water-1c8804288413a73bb7b99fc866c8fa51) / [NPR](https://www.npr.org/sections/health-shots/2024/04/10/1243775736/epa-pfas-forever-chemicals-drinking-water-limits) / [Axios](https://www.axios.com/2024/04/10/forever-chemicals-drinking-water-epa) / [Washington Post](https://www.washingtonpost.com/wellness/2024/04/10/pfas-drinking-water-epa-safety/) / [New York Times](https://www.nytimes.com/2024/04/10/climate/epa-pfas-drinking-water.html) / [The Verge](https://www.theverge.com/2024/4/10/24125488/epa-pfas-forever-chemicals-drinking-water-standards) / [Politico](https://www.politico.com/news/2024/04/10/biden-rule-targets-toxic-chemicals-in-us-drinking-water-00151435) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-04-10/epa-sets-us-s-first-drinking-water-standards-to-limit-toxic-pfas?sref=MIBMEEoj))

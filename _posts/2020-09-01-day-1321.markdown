@@ -1,6 +1,8 @@
 ---
 title: Day 1321
 date: 2020-09-01 14:13:00 -07:00
+categories:
+- trump
 description: '"Sounds like conspiracy theory."'
 image: "/uploads/1321.jpg"
 todayInOneSentence: Trump compared police officers who shoot unarmed people to golfers
@@ -13,7 +15,6 @@ todayInOneSentence: Trump compared police officers who shoot unarmed people to g
   because he had "suffered a series of mini-strokes"; and Pence was put on “standby
   to take over the powers of the presidency temporarily” if Trump needed to be anesthetized
   during the unscheduled hospital visit.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

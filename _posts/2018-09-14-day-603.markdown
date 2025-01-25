@@ -1,6 +1,8 @@
 ---
 title: Day 603
 date: 2018-09-14 10:36:00 -07:00
+categories:
+- trump
 description: Full cooperation.
 image: "/uploads/day-603.png"
 todayInOneSentence: Manafort pleaded guilty to conspiracy and agreed to fully cooperate
@@ -9,7 +11,6 @@ todayInOneSentence: Manafort pleaded guilty to conspiracy and agreed to fully co
   defended the nominee's character; and the commander of the bin Laden raid resigned
   from a Pentagon post over Trump's revocation of John Brennan's security clearance.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **Paul Manafort pleaded guilty to financial crimes, violating foreign lobbying laws, and attempting to obstruct justice.** He agreed to fully cooperate with Robert Mueller, though the details surrounding what kind of information Manafort agreed to provide the special counsel remain unclear. Manafort also agreed to forfeit multiple properties and bank accounts, participate in interviews, provide documents, and testify to the grand jury. Analysts noted the plea deal is "pardon proof" and that the $47 million forfeiture pays for the entire Mueller investigation. ([ABC News](https://abcnews.go.com/Politics/paul-manafort-plead-guilty-forfeit-assets-special-counsel/story?id=57823235) / [NBC News](https://www.nbcnews.com/politics/politics-news/paul-manafort-pleads-guilty-mueller-probe-n909576) / [Washington Post](https://www.washingtonpost.com/world/national-security/manafort-plans-to-plead-guilty-to-second-set-of-charges/2018/09/14/a1541068-b5c9-11e8-a7b5-adaaa5b2a57f_story.html?utm_term=.b488b63dce33) / [emptywheel](https://www.emptywheel.net/2018/09/14/the-manafort-plea-is-pardon-proof/))

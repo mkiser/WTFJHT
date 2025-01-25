@@ -1,6 +1,8 @@
 ---
 title: Day 782
 date: 2019-03-12 10:21:00 -07:00
+categories:
+- trump
 description: Deteriorating situation.
 image: "/uploads/782.jpg"
 todayInOneSentence: The New York attorney general's office opened an investigation
@@ -8,7 +10,6 @@ todayInOneSentence: The New York attorney general's office opened an investigati
   indicted when he leaves office; there might be a second Mueller report; and House
   Democrats introduced an immigration proposal that would provide as many as 2.5 million
   immigrants a path to citizenship.
-category: trump
 ---
 
 1/ **The New York attorney general's office opened an investigation into three Trump Organization loans from Deutsche Bank, as well as Trump's failed attempt to buy the Buffalo Bills**. New York AG Letitia James issued subpoenas to Deutsche Bank and Investors Bank for loan applications, mortgages, lines of credit and other financing transactions in connection with the Trump International Hotel in Washington, the Trump National Doral outside Miami, and the Trump International Hotel and Tower in Chicago, as well as the unsuccessful purchase of the NFL team in 2014. The new inquiry was prompted by Michael Cohen's congressional testimony, who suggested that Trump had inflated his assets in financial statements and provided documents to back up his claims. The inquiry is a civil investigation, not a criminal one. ([New York Times](https://www.nytimes.com/2019/03/11/nyregion/deutsche-bank-trump.html) / [Washington Post](https://www.washingtonpost.com/politics/new-york-attorney-general-subpoenas-deutsche-bank-for-information-related-to-loans-to-trump-signaling-new-inquiry/2019/03/12/2d39bc56-44d4-11e9-aaf8-4512a6fe3439_story.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-deutsche-bank-idUSKBN1QT0NU) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-03-12/trump-lenders-said-to-be-subpoenaed-by-n-y-ag-in-new-probe) / [ABC News](https://abcnews.go.com/Politics/deutsche-bank-investors-bank-subpoenaed-trump-organization-records/story?id=61621091) / [NBC News](https://www.nbcnews.com/politics/donald-trump/new-york-attorney-general-subpoenas-banks-about-trump-projects-n982291))

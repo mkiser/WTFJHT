@@ -1,6 +1,8 @@
 ---
 title: Day 1364
 date: 2020-10-14 14:51:00 -07:00
+categories:
+- trump
 description: '"Dr. Johnny Bananas."'
 image: "/uploads/1364.jpg"
 todayInOneSentence: U.S. coronavirus cases are rising again; the White House supported
@@ -13,7 +15,6 @@ todayInOneSentence: U.S. coronavirus cases are rising again; the White House sup
   of all documents related to the Russia investigation should not be considered a
   real declassification order; and Trump refused to say if he would keep Barr as his
   attorney general in a potential second term, saying "I'm not happy."
-category: trump
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

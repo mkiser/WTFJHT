@@ -1,9 +1,10 @@
 ---
 title: Day 306
 date: 2017-11-21 10:16:00 -08:00
+categories:
+- trump
 description: A great, big, beautiful Christmas present.
 image: "/uploads/306.jpg"
-category: trump
 ---
 
 1/ **The FCC announced plans to roll back net neutrality regulations**, clearing the way for companies to charge more and slow or block access to some websites. Net neutrality rules are aimed at giving consumers equal access to web content and prevent broadband providers from charging consumers more for certain content. The commission will vote December 14th on the new rules, which include a transparency provision requiring internet service providers to inform customers about their blocking and throttling practices. ([New York Times](https://www.nytimes.com/2017/11/21/technology/fcc-repeal-net-neutrality.html?_r=0) / [Reuters](https://www.reuters.com/article/us-usa-internet-exclusive/exclusive-u-s-agency-to-vote-to-repeal-net-neutrality-rules-fcc-chief-idUSKBN1DL21A) / [Politico](https://www.politico.com/story/2017/11/20/net-neutrality-repeal-fcc-251824))

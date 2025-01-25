@@ -1,6 +1,8 @@
 ---
 title: Day 1150
 date: 2024-03-14 16:31:00 -07:00
+categories:
+- biden
 description: '"Serious consideration."'
 image: " /uploads/day1150-biden.jpg"
 todayInOneSentence: The Manhattan DA agreed to delay the start of the hush money case
@@ -12,7 +14,6 @@ todayInOneSentence: The Manhattan DA agreed to delay the start of the hush money
   informant Alexander Smirnov $600,000 in 2020 has ties to a UK firm owned by Trump
   business associates in Dubai.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **The Manhattan DA's office agreed to delay the start of the hush money case against Trump by 30 days.** "Specifically, yesterday the USAO produced approximately 31,000 pages of additional records and represented that there will be another production of documents by next week," the DA's office wrote in a motion to the court. The newly disclosed evidence relates to Trump's former attorney, Michael Cohen, who pleaded guilty and served time for various offenses in a separate case in 2018. Trump's defense attorneys had sought a longer postponement of up to 90 days and have asked the judge to sanction the DA's office over the late disclosure of documents, claiming that the DA's office engaged in "widespread misconduct" to improve their position in the potential trial. The trial was initially set to begin with jury selection on March 25. ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-trial-delay-rcna143481) / [ABC News](https://abcnews.go.com/US/manhattan-da-asks-delay-start-trumps-hush-money/story?id=108122637) / [New York Times](https://www.nytimes.com/2024/03/14/nyregion/alvin-bragg-trump-trial-delay.html))

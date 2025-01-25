@@ -1,6 +1,8 @@
 ---
 title: Day 1210
 date: 2024-05-13 14:47:00 -07:00
+categories:
+- biden
 description: '"Just do it."'
 image: "/uploads/day-1210-biden.jpg"
 todayInOneSentence: Michael Cohen testified that Trump directed him to personally
@@ -14,7 +16,6 @@ todayInOneSentence: Michael Cohen testified that Trump directed him to personall
   court upheld Steve Bannon’s criminal contempt of Congress conviction; and Biden
   called Trump "clearly unhinged" after Trump praised the fictional serial killer
   Hannibal Lecter as a "wonderful man."
-category: biden
 ---
 
 1/ **Michael Cohen testified that Trump directed him to personally make the $130,000 hush payment to Stormy Daniels because her story would be “catastrophic” for his campaign**. During testimony in Trump’s election interference trial involving falsified business records, Cohen described his role at the Trump Organization as essentially "whatever" Trump "wanted." Cohen testified that Trump instructed him to "just do it" – referring to the $130,000 payment to Stormy Daniels – when he learned that Daniels was looking to sell her story about their alleged affair in 2006. "I thought you took care of this," Trump told Cohen. "I thought this was under control. This is a disaster, a total disaster. Women will hate me [...] this is going to be a disaster for the campaign." Trump later instructed Cohen to “just take care of it,” but to drag out negotiations as long as possible to “just get past the election. I win, it has no relevance because I’m president, and if I lose, I don’t really care.” ([New York Times](https://www.nytimes.com/live/2024/05/13/nyregion/trump-trial-michael-cohen) / [NBC News](https://www.nbcnews.com/politics/donald-trump/live-blog/trump-hush-money-trial-day-16-michael-cohen-live-updates-rcna151898) / [CNN](https://www.cnn.com/politics/live-news/trump-hush-money-trial-05-13-24/index.html?tab=Catch+Up) / [Washington Post](https://www.washingtonpost.com/politics/2024/05/13/trump-hush-money-trial-live-updates/) / [Politico](https://www.politico.com/live-updates/2024/05/13/trump-hush-money-criminal-trial/a-critical-line-of-testimony-00157625) / [Bloomberg](https://www.bloomberg.com/news/live-blog/2024-05-13/donald-trump-criminal-trial-may-13?srnd=homepage-americas&sref=MIBMEEoj) / [Associated Press](https://apnews.com/live/trump-trial-updates-michael-cohen-day-16))

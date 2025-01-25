@@ -1,6 +1,8 @@
 ---
 title: Day 895
 date: 2023-07-03 14:53:00 -07:00
+categories:
+- biden
 description: '"A serious moment."'
 image: "/uploads/day-895-biden.jpg"
 todayInOneSentence: 'A civil rights group demanded that the federal government end
@@ -12,7 +14,6 @@ todayInOneSentence: 'A civil rights group demanded that the federal government e
   warned that "there is a national movement afoot to attack hard won and hard fought
   freedoms"; and 52% of Americans approve of the Supreme Court''s decision restricting
   the use of race as a factor in college admissions. '
-category: biden
 ---
 
 1/ **A civil rights group demanded that the federal government end Harvard’s special admissions treatment for children of alumni, saying the policy discriminates against applicants of color in favor of less qualified white candidates**. Following last week’s Supreme Court ruling that rejected race-based affirmative action, three civil rights groups filed a complaint with the Education Department claiming that Harvard's preferences for "legacy" applicants violates a provision of the Civil Rights Act of 1964 that bans racial discrimination in programs that receive federal funds. 70% of legacy admissions to Harvard are White, compared with about 40% of regular applicants. Further, legacy applicants are more than five times as likely to be admitted than non-legacy applicants. [Washington Post](https://www.washingtonpost.com/education/2023/07/03/harvard-university-legacy-admissions-civil-rights-complaint/) / [New York Times](https://www.nytimes.com/2023/07/03/us/harvard-alumni-children-affirmative-action.html) / [Wall Street Journal](https://www.wsj.com/articles/harvards-legacy-admissions-challenged-after-affirmative-action-ruling-c5aff91b?mod=hp_lead_pos3) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-07-03/harvard-legacy-admissions-targeted-in-minority-groups-complaint?srnd=premium&sref=MIBMEEoj) / [Associated Press](https://apnews.com/article/legacy-admissions-affirmative-action-colleges-4a4e1191274e91e695e0631ff5156875) / [Reuters](https://www.reuters.com/world/us/harvard-legacy-policy-challenged-heels-affirmative-action-ruling-2023-07-03/))

@@ -1,6 +1,8 @@
 ---
 title: Day 595
 date: 2022-09-06 14:44:00 -07:00
+categories:
+- biden
 description: '"The appearance of fairness and integrity."'
 image: "/uploads/day-595-biden.jpg"
 todayInOneSentence: The FBI found 48 empty folders that contained classified information  at
@@ -13,7 +15,6 @@ todayInOneSentence: The FBI found 48 empty folders that contained classified inf
   deny the legitimacy of the 2020 election, and an additional 61 candidates have raised
   questions around the results; and 64% of Americans said they think the potential
   for political violence will  increase in the coming years.
-category: biden
 ---
 
 1/ **The FBI found 48 empty folders that contained classified information  at Mar-a-Lago**. Agents also found 42 empty folders of sensitive documents labeled with instructions to return to the staff secretary or a military aide. In all, the Justice Department's search inventory list said the FBI seized 18 documents marked as top secret, 54 marked as secret, 31 marked as confidential, and 11,179 government documents without classification markings. The Justice Department did not say whether all the contents of the folders had been recovered. ([New York Times](https://www.nytimes.com/2022/09/02/us/politics/trump-fbi-folders-classified.html) / [CNN](https://www.cnn.com/2022/09/02/politics/judge-releases-full-detailed-inventory-from-the-mar-a-lago-search/index.html) / [Associated Press](https://apnews.com/article/donald-trump-mar-a-lago-government-and-politics-6bd103a8e418166b17a34d77e8d9102d))

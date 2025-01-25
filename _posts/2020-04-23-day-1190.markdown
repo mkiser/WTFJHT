@@ -1,6 +1,8 @@
 ---
 title: Day 1190
 date: 2020-04-23 14:26:00 -07:00
+categories:
+- trump
 description: '"The worst is yet to come."'
 image: "/uploads/1190.jpg"
 todayInOneSentence: More than 26 million Americans filed for unemployment benefits
@@ -14,7 +16,6 @@ todayInOneSentence: More than 26 million Americans filed for unemployment benefi
   however, said he was "accurately quoted"; and the Pentagon is planning a multicity
   tour of the Blue Angels and the Thunderbirds to “champion national unity” amid the
   coronavirus pandemic.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

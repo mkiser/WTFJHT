@@ -1,6 +1,8 @@
 ---
 title: Day 931
 date: 2023-08-08 14:30:00 -07:00
+categories:
+- biden
 description: '"Right the wrongs of the past."'
 image: "/uploads/day-931-biden.jpg"
 todayInOneSentence: Ohio voters will decide whether to make it harder to amend the
@@ -11,7 +13,6 @@ todayInOneSentence: Ohio voters will decide whether to make it harder to amend t
   for the third time in less than a month; and 64% of Americans say they disapprove
   of last year’s Supreme Court ruling that women do not have a constitutional right
   to an abortion.
-category: biden
 ---
 
 1/ **Ohio voters will decide whether to make it harder to amend the state constitution in a special election that has implications over the future of abortion rights in the state**. If Issue 1 passes, it would raise the threshold for passing future changes to the Ohio constitution from a simple majority to 60%. And then, three months after that, voters will consider a constitutional amendment that would enshrine abortion access in the state constitution. Meaning: If Issue 1 passes, the referendum to amend the state constitution to protect abortion rights would have to get at least 60% of the vote, rather than a simple majority, to go into effect. The Republican-led State Legislature ordered the special election to front run the November effort to add an abortion rights amendment to the constitution. Republican Secretary of State Frank LaRose previously acknowledged that the purpose of the summertime ballot measure was “100% about keeping a radical pro-abortion amendment out of our constitution.” ([New York Times](https://www.nytimes.com/2023/08/08/us/ohio-referendum-constitution-abortion.html) / [Washington Post](https://www.washingtonpost.com/politics/2023/08/08/ohio-election-issue-1-abortion/) / [CNN](https://www.cnn.com/2023/08/08/politics/ohio-special-election-abortion-rights/) / [Politico](https://www.politico.com/news/2023/08/07/ohio-abortion-proxy-war-00110170) / [Wall Street Journal](https://www.wsj.com/articles/ohio-election-abortion-issue-one-vote-d7df6402) / [NBC News](https://www.nbcnews.com/politics/elections/ohio-ballot-election-sets-stage-major-abortion-fight-november-rcna97372) / [Associated Press](https://www.pbs.org/newshour/politics/ohio-voters-to-decide-on-constitutional-change-before-determining-abortion-rights) / [ABC News](https://abcnews.go.com/Politics/ohio-voters-abortion-access-measure-harder-pass/story?id=101772035) / [Columbus Dispatch](https://www.dispatch.com/story/news/politics/elections/state/2023/08/07/issue-1-early-voting-closes-in-ohio-bringing-high-turnout-ahead-of-aug-8/70512342007/) / [USA Today](https://www.usatoday.com/story/news/nation/2023/08/08/ohio-special-election-issue-1-abortion-2024-election/70550016007/) / [NPR](https://www.npr.org/2023/08/08/1192550481/ohio-issue-1-ballot-special-election-abortion-constitutional-amendment))

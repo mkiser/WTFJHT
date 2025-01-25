@@ -1,6 +1,8 @@
 ---
 title: Day 588
 date: 2022-08-30 14:35:00 -07:00
+categories:
+- biden
 description: '"The minimal solution."'
 image: "/uploads/day-588-biden.jpg"
 todayInOneSentence: Weather models are warning of a "very dangerous" and "prolonged
@@ -11,7 +13,6 @@ todayInOneSentence: Weather models are warning of a "very dangerous" and "prolon
   classified government documents to Mar-a-Lago; Trump demanded that the 2020 presidential
   election be declared “irreparably compromised” and that a new one be held “immediately!”;
   and 43% of Americans believe a civil war is somewhat likely in the next 10 years.
-category: biden
 ---
 
 1/ **Weather models are warning of a "very dangerous" and "prolonged heat wave" over western states this week and into the Labor Day weekend**. More than 55 million people are currently under heat alerts in the west, including 20 of the most populated cities. More than 100 records could be broken. “We will very likely be in the midst of a full-fledged and potentially dangerous heat wave by midweek,” the National Weather Service in Los Angeles said. "Record breaking or not, this prolonged heat wave is going to be very dangerous." ([Washington Post](https://www.washingtonpost.com/climate-environment/2022/08/29/western-california-heatwave-fires-forecast/) / [CNN](https://www.cnn.com/2022/08/30/weather/record-heat-west-labor-day-forecast-tropics/index.html))

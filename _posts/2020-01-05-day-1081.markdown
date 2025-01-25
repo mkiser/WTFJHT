@@ -1,6 +1,8 @@
 ---
 title: Day 1081
 date: 2020-01-05 21:37:00 -08:00
+categories:
+- trump
 description: '"Reign of terror."'
 image: "/uploads/1081.jpg"
 todayInOneSentence: Trump authorized a drone strike at Baghdad International Airport
@@ -9,7 +11,6 @@ todayInOneSentence: Trump authorized a drone strike at Baghdad International Air
   vowed "severe revenge" and "harsh retaliation"; Trump threatened – twice – to target
   Iranian cultural sites if Iran retaliated; and Trump ordered the strike killing
   Soleimani without the consultation of Congress.
-category: trump
 ---
 
 1/ **Trump authorized a drone strike at Baghdad International Airport that killed Iran's top security and intelligence commander late Thursday**. Defense Secretary Mark Esper said the Pentagon had taken "decisive defensive action" and killed Qasem Soleimani, who led the Quds Force of the Islamic Revolutionary Guards Corps, because he "was actively developing plans to attack American diplomats and service members in Iraq and throughout the region." Soleimani was the architect of nearly every significant operation by Iranian intelligence and military forces over the past two decades.Esper also accused Soleimani of approving the attacks on the U.S. Embassy in Baghdad earlier this week. Speaking to reporters while on vacation at Mar-a-Lago on Tuesday – hours after the attack on the American Embassy in Baghdad – Trump insisted that he did not want war, saying "I want to have peace. I like peace." ([Washington Post](https://www.washingtonpost.com/world/national-security/defense-secretary-says-iran-and-its-proxies-may-be-planning-fresh-attacks-on-us-personnel-in-iraq/2020/01/02/53b63f00-2d89-11ea-bcb3-ac6482c4a92f_story.html) / [New York Times](https://www.nytimes.com/2020/01/02/world/middleeast/qassem-soleimani-iraq-iran-attack.html) / [Associated Press](https://apnews.com/5597ff0f046a67805cc233d5933a53ed) / [NBC News](https://www.nbcnews.com/news/world/was-it-legal-donald-trump-order-killing-top-iranian-general-n1109961) /

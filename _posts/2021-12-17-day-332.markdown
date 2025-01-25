@@ -1,6 +1,8 @@
 ---
 title: Day 332
 date: 2021-12-17 14:49:00 -08:00
+categories:
+- biden
 description: '"Deliberate efforts."'
 image: "/uploads/day-332-biden.jpg"
 todayInOneSentence: Biden acknowledged that the Build Back Better bill will not clear
@@ -10,7 +12,6 @@ todayInOneSentence: Biden acknowledged that the Build Back Better bill will not 
   for political purposes; New York state reported its highest number of new Covid-19
   cases in a single day of the entire pandemic; and the Republican National Committee
   agreed to pay up to $1.6 million of Trump’s personal legal bills.
-category: biden
 ---
 
 1/ **Biden acknowledged that the Build Back Better bill will not clear Congress this year** despite efforts and pledges by Democrats to pass the $1.75 trillion social spending and climate bill before Christmas. “It takes time to finalize these agreements, prepare the legislative changes, and finish all the parliamentary and procedural steps needed to enable a Senate vote,” Biden said after it became clear that his team, so far, has failed to secure Joe Manchin's vote. Pushing back the Build Back Better bill until next year means that the Dec. 15 child tax credit payments, which have been sent to families for the past six months but expired Wednesday, will be the last ones until the program is renewed. White House Press Secretary Jen Psaki said the administration has “talked to Treasury officials and others about doing double-payments in February as an option,” if the Build Back Better Act passes in January. ([Politico](https://www.politico.com/news/2021/12/16/biden-concedes-bbb-bill-wont-get-passed-this-year-525194) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-12-17/child-tax-credit-may-get-paid-out-twice-in-february-psaki-says?sref=MIBMEEoj) / [CNBC](https://www.cnbc.com/2021/12/15/the-december-child-tax-credit-payment-may-be-the-last-.html) / [Business Insider](https://www.businessinsider.com/child-tax-credit-white-house-direct-payments-families-february-2021-12) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-12-17/manchin-s-hard-line-has-democrats-scrapping-to-save-biden-agenda?sref=MIBMEEoj))

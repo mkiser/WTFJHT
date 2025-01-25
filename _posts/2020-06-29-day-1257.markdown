@@ -1,6 +1,8 @@
 ---
 title: Day 1257
 date: 2020-06-29 16:05:00 -07:00
+categories:
+- trump
 description: '"Nobody told me."'
 image: "/uploads/1257.jpg"
 todayInOneSentence: Russian intelligence officers offered bounties to Taliban militants
@@ -13,7 +15,6 @@ todayInOneSentence: Russian intelligence officers offered bounties to Taliban mi
   channel and Reddit banned its biggest community devoted to Trump; and the World
   Health Organization warned that the coronavirus pandemic is "speeding up" and the
   “worst is yet to come.”
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

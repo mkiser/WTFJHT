@@ -1,6 +1,8 @@
 ---
 title: Day 512
 date: 2018-06-15 09:42:00 -07:00
+categories:
+- trump
 description: 'Fickle. '
 image: "/uploads/512.jpg"
 todayInOneSentence: A federal judge revoked Manafort's bail and sent him to jail;
@@ -9,7 +11,6 @@ todayInOneSentence: A federal judge revoked Manafort's bail and sent him to jail
   Avenatti; federal prosecutors have pieced together 16 pages of shredded documents
   seized from Michael Cohen and recovered 731 pages of encrypted text messages; and
   Homeland Security has separated at least 2,000 children from parents at the border.
-category: trump
 ---
 
 1/ **A federal judge revoked Paul Manafort's bail and sent him to jail while he awaits trial** after Robert Mueller accused Trump's former campaign chief of witness tampering. "I cannot turn a blind eye to this," Judge Amy Berman Jackson said. Manafort had posted a $10 million bond to remain at home while awaiting his September trial on charges that include money laundering and false statements. He will now remain in pretrial detention until his trial. ([New York Times](https://www.nytimes.com/2018/06/15/us/politics/manafort-bail-revoked-jail.html) / [NBC News](https://www.nbcnews.com/news/crime-courts/paul-manafort-headed-jail-after-witness-tampering-allegation-n883596) / [Washington Post](https://www.washingtonpost.com/local/public-safety/manafort-ordered-to-jail-after-witness-tampering-charges/2018/06/15/ccc526cc-6e68-11e8-afd5-778aca903bbe_story.html))

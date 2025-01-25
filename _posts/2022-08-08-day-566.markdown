@@ -1,6 +1,8 @@
 ---
 title: Day 566
 date: 2022-08-08 14:45:00 -07:00
+categories:
+- biden
 description: '"The Senate is making history."'
 image: "/uploads/day-566-biden.jpg"
 todayInOneSentence: 'The Senate passed the largest investment in U.S. history to counter
@@ -12,7 +14,6 @@ todayInOneSentence: 'The Senate passed the largest investment in U.S. history to
   the Jan. 6 committee received about two years'' worth of Alex Jones'' text messages;
   and the FBI confirmed that it sent tips the agency had collected about Supreme Court
   Justice Brett Kavanaugh to the Trump White House without investigation. '
-category: biden
 ---
 
 1/ **The Senate passed the largest investment in U.S. history to counter climate change, putting the nation on a path to reduce greenhouse gas emissions by up to 40% below their 2005 levels by 2030**. The Inflation Reduction Act would also lower health-care costs, reduce the federal deficit, and be paid for through new taxes – including a 15% minimum tax on large corporations and a 1% tax on stock buybacks – and funding to boost IRS tax law enforcement. “After more than a year of hard work, the Senate is making history,” Chuck Schumer said shortly before final passage. “This bill will kickstart the era of affordable clean energy in America, it’s a game changer, it’s a turning point and it’s been a long time coming.” Senate Democrats passed the $740 billion packaged on a 51-50 vote – with all Republicans voting no – after Harris cast the tie-breaking vote. Republican lawmakers, [however](https://www.washingtonpost.com/nation/2022/08/07/insulin-cap-budget-congress/), successfully stripped a $35 price cap on the cost of insulin for private insurers from the package. More than 1 in 5 insulin users on private medical insurance pay more than $35 per month for the medicine. The bill now heads to the House, which is expected to pass it later this week, and send it to Biden for his signature. ([New York Times](https://www.nytimes.com/2022/08/07/us/politics/climate-tax-bill-passes-senate.html?smid=url-share) / [Washington Post](https://www.washingtonpost.com/us-policy/2022/08/07/senate-inflation-reduction-act-climate/) / [Politico](https://www.politico.com/news/2022/08/07/democrats-senate-reconciliation-votearama-00050222) / [NBC News](https://www.nbcnews.com/politics/congress/senate-passes-sweeping-climate-health-tax-package-putting-democrats-cu-rcna41653) / [CNN](https://www.cnn.com/2022/08/07/politics/senate-democrats-climate-health-care-bill-vote/) / [Wall Street Journal](https://www.wsj.com/articles/democrats-climate-plan-gets-early-green-light-11659798389?mod=politics_lead_pos4) / [USA Today](https://www.usatoday.com/story/news/politics/2022/08/07/senate-climate-inflation-vote/10238641002/) / [Reuters](https://www.reuters.com/world/us/us-senate-democrats-fend-off-amendments-430-bln-climate-drug-bill-2022-08-07/) / [Associated Press](https://apnews.com/article/senate-climate-tax-deal-vote-dbdb3107c4c5e3e0e5af8a58d56c7bc1?taid=62f01090414f930001ed7a35) / [NPR](https://www.npr.org/2022/08/08/1116246874/senate-delivers-a-major-boost-to-bidens-agenda))

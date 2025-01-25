@@ -1,6 +1,8 @@
 ---
 title: Day 877
 date: 2023-06-15 14:22:00 -07:00
+categories:
+- biden
 description: '"A bad thing."'
 image: "/uploads/day-877-biden.jpg"
 todayInOneSentence: Multiple federal agencies were hacked; the White House will continue
@@ -9,7 +11,6 @@ todayInOneSentence: Multiple federal agencies were hacked; the White House will 
   Native tribes when American Indian children are adopted; FDA advisers unanimously
   recommend that the COVID-19 vaccine be updated to target emerging subvariants of
   omicron; and 61% of Americans say overturning Roe v. Wade was a "bad thing."
-category: biden
 ---
 
 * ***Programming note**: This is the last update until Monday, June 26. I'll be spending time with family next week, unless something truly wtf-y happens, in which case I'll publish an emergency update. Sound good? Stay safe and I'm glad you're here.*

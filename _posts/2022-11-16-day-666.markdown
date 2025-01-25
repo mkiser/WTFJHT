@@ -1,6 +1,8 @@
 ---
 title: Day 666
 date: 2022-11-16 14:43:00 -08:00
+categories:
+- biden
 description: '"The gravest threat to our civilization."'
 image: "/uploads/day-666-biden.jpg"
 todayInOneSentence: 'Trump — the twice-impeached former president who tried to overturn
@@ -12,7 +14,6 @@ todayInOneSentence: 'Trump — the twice-impeached former president who tried to
   at the nation’s Southern; and the Biden administration warned of a "historically
   large increase" in federal student loan delinquency and defaults without its forgiveness
   plan. '
-category: biden
 ---
 
 1/ **Trump — the twice-impeached former president who tried to overturn the 2020 presidential election, encouraged a deadly insurrection at the Capitol, and is the subject of multiple criminal investigations — filed to run for president for a third consecutive time**. “In order to make America great and glorious again, I am tonight announcing my candidacy for president of the United States,” Trump said from Mar-a-Lago despite some Republicans blaming him for the party's disappointing midterm election results. “We are a nation in decline. We are a failing nation for millions of Americans,” Trump said, adding that the “gravest threat to our civilization” was what he called the weaponization of the Justice Department and the FBI. Trump enters the race facing multiple ongoing civil and criminal investigations in multiple states related to tax fraud, his efforts to overturn the 2020 election, and the mishandling of classified documents stored at Mar-a-Lago. ([Politico](https://www.politico.com/news/2022/11/15/trump-presidency-2024-candidate-00067130) / [Associated Press](https://apnews.com/article/donald-trump-2024-updates-cd5339d48064a149527e8f9a1aa7614e) / [NPR](https://www.npr.org/2022/11/15/1044234232/trump-announces-run-president-2024) / [Washington Post](https://www.washingtonpost.com/politics/2022/11/15/trump-2024-announcement-running-president/) / [New York Times](https://www.nytimes.com/2022/11/16/us/politics/trump-candidate-biden-strategy.html) / [CNN](https://www.cnn.com/2022/11/15/politics/trump-2024-presidential-bid) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-11-16/trump-makes-his-2024-run-official-defying-calls-to-step-aside?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/donald-trump-set-to-announce-2024-presidential-bid-11668508202?mod=article_inline) / [CNBC](https://www.cnbc.com/2022/11/15/trump-news-trump-launches-2024-presidential-campaign-in-a-bid-to-seize-early-momentum.html))

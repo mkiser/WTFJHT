@@ -1,6 +1,8 @@
 ---
 title: Day 736
 date: 2023-01-25 14:30:00 -08:00
+categories:
+- biden
 description: '"Integrity matters."'
 image: "/uploads/biden-736-biden.jpg"
 todayInOneSentence: Kevin McCarthy blocked Adam Schiff and Eric Swalwell from serving
@@ -12,7 +14,6 @@ todayInOneSentence: Kevin McCarthy blocked Adam Schiff and Eric Swalwell from se
   Germany to deliver 14 of its Leopard 2 tanks; the Doomsday Clock moved up to 90
   seconds to midnight; and Facebook will reinstate Trump's Facebook and Instagram
   accounts "in coming weeks."
-category: biden
 ---
 
 1/ **Kevin McCarthy blocked Adam Schiff and Eric Swalwell from serving on the House Intelligence Committee** in retribution for the Democratic-led House stripping Marjorie Taylor Greene and Paul Gosar of their committee assignments in 2021 for embracing violence against Democratic members of Congress. McCarthy accused Schiff of lying when he served as chairman of the panel and “severely undermined its primary national security and oversight missions – ultimately leaving our nation less safe.”McCarthy also argued that Swalwell was unfit to serve on the committee because he was targeted by a suspected Chinese spy as part of an influence campaign in 2014, before he served on the intelligence panel. There's no evidence of wrongdoing in relation to the allegation against Swalwell. Nevertheless, McCarthy said he made the decision “because integrity matters to me.” ([Bloomberg](https://www.bloomberg.com/news/articles/2023-01-25/mccarthy-blocks-democrats-schiff-swalwell-from-house-intelligence-panel?sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/politics/2023/01/24/mccarthy-will-block-democrats-schiff-eric-swalwell-intelligence-committee/) / [New York Times](https://www.nytimes.com/2023/01/24/us/politics/mccarthy-schiff-swalwell-committee.html) / [CNN](https://www.cnn.com/2023/01/24/politics/mccarthy-democrats-schiff-swalwell-intelligence-committee) / [Wall Street Journal](https://www.wsj.com/articles/mccarthy-kicks-two-democrats-off-house-intelligence-panel-11674618668?mod=djemalertNEWS))

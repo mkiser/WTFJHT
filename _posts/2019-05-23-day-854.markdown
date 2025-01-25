@@ -1,6 +1,8 @@
 ---
 title: Day 854
 date: 2019-05-23 07:40:00 -07:00
+categories:
+- trump
 description: Intentional.
 image: "/uploads/854.jpg"
 todayInOneSentence: The Senate passed a $19 billion dollar disaster relief package
@@ -11,7 +13,6 @@ todayInOneSentence: The Senate passed a $19 billion dollar disaster relief packa
   high-risk home loans; and the DOJ indicted Julian Assange on 17 counts of violating
   the Espionage Act of 1917.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **The Senate passed a $19.1 billion bipartisan disaster relief spending bill that does not include the $4.5 billion in funding for Trump's border wall.** After months of negotiation, the bill passed with a vote of 85-8 just a few hours after both sides reached an agreement. The bill provides roughly $900 million for Puerto Rico, and includes a provision that would require the Trump administration to release another $9 billion in aid, which had previously been withheld from the U.S. territory. The House will vote on the bill when it returns from recess and the bill will be sent to Trump's desk. "I totally support it," Trump said. ([CNN](https://www.cnn.com/2019/05/23/politics/disaster-relief-vote-senate/index.html) / [BuzzFeed News](https://www.buzzfeednews.com/article/paulmcleod/congress-deal-puerto-rico-disaster-relief-trump-wall) / [Wall Street Journal](https://www.wsj.com/articles/senate-reaches-19-1-billion-deal-on-disaster-aid-republicans-say-11558635696) / [New York Times](https://www.nytimes.com/2019/05/23/us/politics/congress-disaster-relief.html) / [NBC News](https://www.nbcnews.com/politics/congress/senate-strikes-deal-19-billion-disaster-relief-bill-excludes-border-n1009396))

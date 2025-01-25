@@ -1,6 +1,8 @@
 ---
 title: Day 195
 date: 2021-08-02 14:57:00 -07:00
+categories:
+- biden
 description: '"Flu-like symptoms."'
 image: "/uploads/day-195-080221.jpg"
 todayInOneSentence: A third D.C. police officer who responded to the 1/6 insurrection
@@ -11,7 +13,6 @@ todayInOneSentence: A third D.C. police officer who responded to the 1/6 insurre
   Treasury Department is preparing "extraordinary measures" after Congress miss the
   deadline to raise the debt ceiling.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **A third police officer who responded to the U.S. Capitol insurrection has died by suicide**, according to the Metropolitan Police Department. Officer Gunther Hashida was found dead in his residence on Thursday, July 29. This is the third known suicide of an officer who responded to the Capitol during the attack, and it is the second known suicide by a D.C. officer specifically. ([CNN](https://www.cnn.com/2021/08/02/politics/dc-metropolitan-police-officer-suicide-january-6-capitol-riot/index.html))

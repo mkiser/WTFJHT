@@ -1,6 +1,8 @@
 ---
 title: Day 1334
 date: 2020-09-14 15:03:00 -07:00
+categories:
+- trump
 description: '"Reckless and selfish."'
 image: "/uploads/1334.jpg"
 todayInOneSentence: Political appointees at the Department of Health and Human Services
@@ -13,7 +15,6 @@ todayInOneSentence: Political appointees at the Department of Health and Human S
   regulations and his own administration's pandemic health guidelines; and Trump claimed
   – without evidence – that climate change has nothing to do with the wildfires in
   California, Oregon, and Washington.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

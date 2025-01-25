@@ -1,6 +1,8 @@
 ---
 title: Day 932
 date: 2019-08-09 09:54:00 -07:00
+categories:
+- trump
 tags:
 - impeachment
 description: '"Not a photo op."'
@@ -10,7 +12,6 @@ todayInOneSentence: The House Judiciary Committee is officially conducting an im
   target was "Mexicans"; the Trumps posed for a photo with an orphaned two-month-old,
   whose parents were shot dead in El Paso; and the State Department suspended a foreign
   affairs official after his ties to a white nationalist group were revealed.
-category: trump
 ---
 
 1/ **The House Judiciary Committee is officially conducting an impeachment inquiry into Trump** and will decide by the end of the year whether to refer articles of impeachment to the House floor. In a July court filing to get the full, unredacted Mueller report, the Judiciary Committee argued that it needed the information because it "is conducting an investigation to determine whether to recommend articles of impeachment." Today, chairman Jerry Nadler clarified that "This is formal impeachment proceedings." That timeline would put an impeachment battle in the middle of the Democratic presidential primary contests. ([Washington Post](https://www.washingtonpost.com/politics/2019/08/09/impeachment-inquiry-trump-has-feared-is-here/) / [Politico](https://www.politico.com/story/2019/08/08/nadler-this-is-formal-impeachment-proceedings-1454360))

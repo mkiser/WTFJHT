@@ -1,6 +1,8 @@
 ---
 title: Day 176
 date: 2021-07-14 14:33:00 -07:00
+categories:
+- biden
 description: '"Conversations with folks."'
 image: "/uploads/day-176-072421.jpg"
 todayInOneSentence: Senate Democrats are moving forward with a $3.5 trillion spending
@@ -10,7 +12,6 @@ todayInOneSentence: Senate Democrats are moving forward with a $3.5 trillion spe
   Barr left office; Chuck Schumer wants to federally decriminalize marijuana; and
   Tennessee has abandoned all vaccine outreach efforts to minors.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **Senate Democrats revealed a $3.5 trillion plan to invest in health care, climate change, and more**. The measure, which would include money to address climate change, expand Medicare and fulfill other Democratic priorities, is intended to deliver on President Biden’s economic proposal. "If we pass this, this is the most profound change to help American families in generations," said Senate Majority Leader Chuck Schumer. ([NBC News](https://www.nbcnews.com/politics/congress/senate-democrats-reveal-3-5-trillion-plan-invest-health-care-n1273893) / [New York Times](https://www.nytimes.com/2021/07/13/us/politics/democrats-economic-plan.html) / [Politico](https://www.politico.com/news/2021/07/13/democrats-spending-plan-biden-agenda-499593))

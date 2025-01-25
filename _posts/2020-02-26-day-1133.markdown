@@ -1,6 +1,8 @@
 ---
 title: Day 1133
 date: 2020-02-26 16:39:00 -08:00
+categories:
+- trump
 description: '"We''re very, very ready for this."'
 image: "/uploads/1133.jpg"
 todayInOneSentence: Trump’s re-election campaign sued the New York Times for libel
@@ -13,7 +15,6 @@ todayInOneSentence: Trump’s re-election campaign sued the New York Times for l
   to spread; and a federal appeals court ruled that the Trump administration can withhold
   law enforcement grant money from so-called sanctuary cities and states that don't
   cooperate with U.S. immigration enforcement.
-category: trump
 ---
 
 1/ **Trump’s re-election campaign sued the New York Times for libel over a 2019 opinion article**, accusing the newspaper of intentionally publishing a false story about a “quid pro quo” between Russian officials and Trump’s 2016 campaign. The suit alleges that the Times “has engaged in a systematic pattern of bias” against Trump by falsely reporting “as fact a conspiracy with Russia” with the "intentional purpose" of damaging Trump’s chances for reelection. Trump's campaign argues that the op-ed conclusion “is false” and that the Times published the essay “knowing it would misinform and mislead its own readers.” To win the lawsuit, however, the Trump campaign will have to prove that the Times knew in March 2019 that the op-ed was false because of what was later confirmed in the Mueller report, which was published in April 2019. ([CNBC](https://www.cnbc.com/2020/02/26/trump-campaign-sues-new-york-times-for-libel-over-opinion-article.html) / [Reuters](https://www.reuters.com/article/us-usa-election-trump-idUSKCN20K2X3) / [Mediate](https://www.mediaite.com/news/trump-sues-ny-times-for-libel-over-opinion-piece-on-russia/) / [New York Times](https://www.nytimes.com/2020/02/26/business/media/trump-new-york-times-lawsuit.html))

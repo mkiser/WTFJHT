@@ -1,10 +1,11 @@
 ---
 title: Day 244
 date: 2017-09-20 00:00:00 -07:00
+categories:
+- trump
 description: Nothing there.
 image: "/uploads/244.jpg"
 author: Clayton Aldern
-category: trump
 ---
 
 1/ **Paul Manafort's spokesman responded to reports of Manafort's [wiretapping](https://whatthefuckjusthappenedtoday.com/2017/09/19/day-243/#1-paul-manafort-was-wiretapped-follo), arguing "it is a felony to reveal the existence of a FISA warrant."** Jason Maloni said DOJ should "immediately conduct an investigation into these leaks and to examine the motivations behind a previous administration's effort to surveil a political opponent." The original FISA warrant was granted before Trump declared his candidacy. ([CBS News](https://www.cbsnews.com/news/paul-manafort-spokesman-responds-to-wiretapping-report/))

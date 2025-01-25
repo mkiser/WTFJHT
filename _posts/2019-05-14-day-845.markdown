@@ -1,6 +1,8 @@
 ---
 title: Day 845
 date: 2019-05-14 03:40:00 -07:00
+categories:
+- trump
 description: Echoes.
 image: "/uploads/845.jpg"
 todayInOneSentence: The White House is reviewing plans to attack Iran; global stocks
@@ -10,7 +12,6 @@ todayInOneSentence: The White House is reviewing plans to attack Iran; global st
   Hungary's authoritarian leader; and newly obtained photos show migrant children
   and families sleeping on the ground at a detention camp in Texas.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **The White House reviewed military plans to attack Iran, in echoes of the Iraq War**. The plans call for up to 120,000 American troops but not a land invasion of Iran. They were updated at the request of John Bolton, Trump's national security adviser, who has been calling for the U.S. to go to war with Iran for nearly two decades. ([New York Times](https://www.nytimes.com/2019/05/13/world/middleeast/us-military-plans-iran.html))

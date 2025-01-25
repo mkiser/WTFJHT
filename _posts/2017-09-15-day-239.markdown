@@ -1,10 +1,11 @@
 ---
 title: Day 239
 date: 2017-09-15 00:00:00 -07:00
+categories:
+- trump
 description: Sick and demented.
 image: "/uploads/239.jpg"
 author: Clayton Aldern
-category: trump
 ---
 
 1/ **In response to a London subway attack, Trump touted his travel ban and claimed Scotland Yard had failed to be "proactive."** British officials called Trump's tweets about "loser terrorists" unproductive. Said Theresa May: "I never think it’s helpful for anybody to speculate on what is an ongoing investigation." The train bomb injured 22 people. ([Politico](http://www.politico.com/story/2017/09/15/trump-london-bombing-terrorists-scotland-yard-242761))

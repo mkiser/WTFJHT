@@ -1,6 +1,8 @@
 ---
 title: Day 1092
 date: 2024-01-16 13:42:00 -08:00
+categories:
+- biden
 description: '"The situation sucks."'
 image: "/uploads/day1092biden.jpg"
 todayInOneSentence: 'Congressional leaders agreed on a short-term funding bill to
@@ -12,7 +14,6 @@ todayInOneSentence: 'Congressional leaders agreed on a short-term funding bill t
   after a woman and two children drowned in the Rio Grande; and Trump returned to
   a New York courtroom for the start of his second civil trial over a defamation lawsuit
   filed by E. Jean Carroll. '
-category: biden
 ---
 
 1/ **Congressional leaders agreed on a short-term funding bill to avert a partial government shutdown**. The House, however, canceled votes on the spending bill due to a winter storm despite several agencies and government functions set to run out of funding on Friday. The continuing resolution will extend the current two-tier funding deadline structure through March 1 and March 8 to give lawmakers more time to write and pass all 12 spending bills for the current fiscal year. ([Politico](https://www.politico.com/news/2024/01/13/congress-readies-laddered-march-funding-patch-as-shutdown-looms-00135476) / [Axios](https://www.axios.com/2024/01/16/house-cancels-vote-snowstorm-government-shutdown) / [NPR](https://www.npr.org/2024/01/14/1224729654/top-congressional-leaders-prepare-for-votes-on-a-stop-gap-spending-bill) / [CBS News](https://www.cbsnews.com/news/congress-deal-continuing-resolution-government-shutdown/) / [NBC News](https://www.nbcnews.com/politics/congress/congressional-leaders-reach-short-term-spending-deal-keep-government-o-rcna133833))

@@ -1,6 +1,8 @@
 ---
 title: Day 1274
 date: 2020-07-16 14:22:00 -07:00
+categories:
+- trump
 description: '"Red zones."'
 image: "/uploads/1274.jpg"
 todayInOneSentence: Another 1.3 million people filed unemployment last week; the U.K.,
@@ -13,7 +15,6 @@ todayInOneSentence: Another 1.3 million people filed unemployment last week; the
   to go before the presidential election; and the White House’s presidential personnel
   office has been conducting “loyalty tests” with health officials and political appointees
   across federal agencies.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

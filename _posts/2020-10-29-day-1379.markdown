@@ -1,6 +1,8 @@
 ---
 title: Day 1379
 date: 2020-10-29 14:04:00 -07:00
+categories:
+- trump
 description: '"Defeat despair and inspire hope."'
 image: "/uploads/1379.jpg"
 todayInOneSentence: The U.S. economy is about 3.5% smaller than it was before the
@@ -9,7 +11,6 @@ todayInOneSentence: The U.S. economy is about 3.5% smaller than it was before th
   sites to receive and distribute a coronavirus vaccine whenever the FDA authorizes
   one; and Secretary of State Mike Pompeo, his wife, and his son repeatedly emailed
   State Department officials about personal matters.
-category: trump
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

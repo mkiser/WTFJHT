@@ -1,6 +1,8 @@
 ---
 title: Day 685
 date: 2018-12-05 10:48:00 -08:00
+categories:
+- trump
 description: 'Substantial assistance. '
 image: "/uploads/685.jpg"
 todayInOneSentence: Mueller's office recommended that Michael Flynn serve no jail
@@ -8,7 +10,6 @@ todayInOneSentence: Mueller's office recommended that Michael Flynn serve no jai
   have reached the highest levels on record; and Trump traveled 250 yards in a limo
   with an eight-vehicle motorcade to visit with George W. Bush for 23 minutes across
   the street.
-category: trump
 ---
 
 1/ **Robert Mueller's office recommended that Michael Flynn serve no jail time because he provided "substantial assistance" with the Russian probe.** A court filing submitted by the special counsel's office says Flynn provided "firsthand information about the content and context of interactions between the transition team and Russian government officials." Flynn gave 19 interviews to Mueller's team and other investigators and, as a result, Mueller asked a federal judge not to sentence Flynn to prison. Flynn also provided details about other criminal investigations, but those details were heavily redacted from the court filing in order to keep information about ongoing probes secret. The redactions suggest there is more to come in the probe into Russian election interference. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-flynn-idUSKBN1O3169) / [New York Times](https://www.nytimes.com/2018/12/04/us/politics/michael-flynn-special-counsel-sentencing-memo.html) / [CNN](https://www.cnn.com/2018/12/04/politics/flynn-mueller-filing/index.html) / [Axios](https://www.axios.com/flynn-mueller-no-prison-time-0626eb4a-ce8d-4795-b020-263ed3ead57c.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/special-counsel-robert-mueller-s-office-recommends-little-no-jail-n943446) / [Washington Post](https://www.washingtonpost.com/politics/mueller-seeks-no-prison-time-for-former-national-security-adviser-michael-flynn-citing-his-substantial-assistance/2018/12/04/a5c56a5a-f72a-11e8-863c-9e2f864d47e7_story.html) / [CNBC](https://www.cnbc.com/2018/12/05/michael-flynn-developments-suggest-muellers-russia-probe-has-more-in-store.html))

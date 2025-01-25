@@ -1,6 +1,8 @@
 ---
 title: Day 784
 date: 2023-03-14 13:29:00 -07:00
+categories:
+- biden
 description: '"Reckless."'
 image: "/uploads/day-784-biden.jpg"
 todayInOneSentence: 'Inflation eased for the eighth straight month; the Justice Department
@@ -9,7 +11,6 @@ todayInOneSentence: 'Inflation eased for the eighth straight month; the Justice 
   signed an executive order designed to increase background checks before firearm
   sales; and Russian fighter jets intercepted and collided with a U.S. drone over
   the Black Sea.    '
-category: biden
 ---
 
 1/ **Inflation eased for the eighth straight month**. Consumer prices increased 6% in February from a year earlier, down from 6.4% in January and a 40-year peak of 9.1% in June. Inflation, however, remains far above the Federal Reserve's 2% annual inflation target. On a monthly basis, prices increased 0.4%. Just before the collapse of two major banks – which in some ways is the result of the Fed’s efforts to raise borrowing costs after years of near-zero interest rates – Chair Jerome Powell had opened the door to re-accelerating the pace of rate hikes if inflation remained high. Many economists, however, now expect the Fed to either slow its rate hikes or stop them altogether when it meets next week. ([USA Today](https://www.usatoday.com/story/money/economy/2023/03/14/cpi-inflation-data-today-live-updates/11443449002/) / [Associated Press](https://apnews.com/article/inflation-federal-reserve-interest-rates-banks-economy-40c98d52a8bc71e21a228ed5c1cbde86) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-03-14/fed-rate-pause-is-a-tough-call-after-inflation-reaccelerates?srnd=premium&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/inflation-report-arrives-as-fed-confronts-bank-failures-5f0e10ae) / [Washington Post](https://www.washingtonpost.com/business/2023/03/14/cpi-inflation-february-fed/) / [Politico](https://www.politico.com/news/2023/03/14/u-s-inflation-eases-but-stays-high-putting-fed-in-tough-spot-00086939) / [NBC News](https://www.nbcnews.com/business/business-news/svb-collapse-cpi-report-us-economy-rcna74747) / [CNBC](https://www.cnbc.com/2023/03/14/cpi-inflation-february-2023-.html) / [New York Times](https://www.nytimes.com/live/2023/03/14/business/svb-banks-inflation-economy-news) / [CNN](https://www.cnn.com/2023/03/14/economy/cpi-inflation-february))

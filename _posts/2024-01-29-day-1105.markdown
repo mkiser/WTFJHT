@@ -1,6 +1,8 @@
 ---
 title: Day 1105
 date: 2024-01-29 15:34:00 -08:00
+categories:
+- biden
 description: '"Something Donald Trump hates."'
 image: "/uploads/day1105biden.jpg"
 todayInOneSentence: 'House Republicans released two articles of impeachment against
@@ -12,7 +14,6 @@ todayInOneSentence: 'House Republicans released two articles of impeachment agai
   and American air defenses failed to intercept a drone attack that killed three U.S.
   troops in Jordan because it was confused with a U.S. drone that was returning to
   base at the same time. '
-category: biden
 ---
 
 1/ **House Republicans released two articles of impeachment against Homeland Security Secretary Alejandro Mayorkas**, accusing him of "willful and systemic refusal to comply with the law" and "breach of public trust." Republicans have repeatedly accused Mayorkas of failing to enforce immigration laws as a record number of migrants arrived at the U.S.-Mexico border, as well as obstructing congressional oversight, and rolling back Trump-era policies, including the construction on the U.S.-Mexico border wall. The articles of impeachment will be reviewed in committee on Tuesday. If they pass the committee, they then go to the full House for an impeachment vote. It would then be up to the Democratic-led Senate on whether to convict and potentially remove Mayorkas. ([ABC News](https://abcnews.go.com/Politics/house-republicans-release-articles-impeachment-alejandro-mayorkas-border/story?id=106743803) / [CBS News](https://www.cbsnews.com/news/mayorkas-impeachment-articles-house-republicans/) / [Axios](https://www.axios.com/2024/01/28/house-gop-impeachment-articles-mayorkas-border-immigration) / [Politico](https://www.politico.com/news/2024/01/28/house-republicans-mayorkas-impeachment-articles-00138235) / [NPR](https://www.npr.org/2024/01/28/1227459949/house-gop-impeachment-articles-homeland-security-mayorkas-border-immigration) / [NBC News](https://www.nbcnews.com/politics/immigration/house-republicans-unveil-articles-impeachment-dhs-secretary-alejandro-rcna135972) / [Associated Press](https://apnews.com/article/congress-mayorkas-immigration-border-republicans-impeachment-3cc41becd7ef3d8b91ccd29433321d63))

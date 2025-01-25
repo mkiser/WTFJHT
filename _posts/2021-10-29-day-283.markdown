@@ -1,6 +1,8 @@
 ---
 title: Day 283
 date: 2021-10-29 14:35:00 -07:00
+categories:
+- biden
 description: '"The world wonders whether we can function."'
 image: "/uploads/day-283-biden-bif.jpg"
 todayInOneSentence: House Democrats – again – postponed a vote on the $1 trillion
@@ -12,7 +14,6 @@ todayInOneSentence: House Democrats – again – postponed a vote on the $1 tri
   charges for former White House chief of staff Mark Meadows and any other witness
   who defies a subpoena; and the Supreme Court agreed to consider limiting the EPA's
   authority to restrict greenhouse gas emissions from power plants.
-category: biden
 ---
 
 1/ **House Democrats – again – postponed a vote on the $1 trillion Senate-approved infrastructure bill**, pushing off its consideration until at least next week. The delay followed a visit to Capitol Hill by Biden, who asked House Democrats to support both the infrastructure plan and the separate social policy and climate change framework, saying: "We are at an inflection point. The rest of the world wonders whether we can function \[...\] I don’t think it’s hyperbole to say that the House and Senate majorities – and my presidency – will be determined by what happens in the next week." Progressive Democrats, however, blocked the scheduled vote, saying they wanted to review the written legislative text of the $1.75 trillion social spending outline – and receive assurances that Joe Manchin and Kyrsten Sinema would vote for it, which neither have outright given. The House, meanwhile, passed another temporary extension for highway funding until Dec. 3 – the same deadline to address government funding and a debt ceiling default. The Senate unanimously approved that extension after it passed the House. ([Politico](https://www.politico.com/news/2021/10/28/biden-house-democrats-517416) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-10-29/biden-s-1-75-trillion-outline-leaves-democrats-to-sort-details?srnd=politics-vp&sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html) / [ABC News](https://abcnews.go.com/Politics/biden-makes-minute-push-agenda-heading-overseas/story?id=80832593) / [Washington Post](https://www.washingtonpost.com/politics/biden-to-announce-democratic-agreement-on-social-spending-deal/2021/10/28/2781863c-37d3-11ec-91dc-551d44733e2d_story.html) / [NBC News](https://www.nbcnews.com/politics/congress/biden-expects-win-full-democratic-support-new-proposal-sweeping-spending-n1282608))

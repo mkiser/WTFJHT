@@ -1,6 +1,8 @@
 ---
 title: Day 77
 date: 2021-04-06 14:04:00 -07:00
+categories:
+- biden
 description: '"Irritating."'
 image: "/uploads/day-77-biden.jpg"
 todayInOneSentence: All adults in the U.S. should be eligible to receive the Covid-19
@@ -11,7 +13,6 @@ todayInOneSentence: All adults in the U.S. should be eligible to receive the Cov
   Mitch McConnell warned businesses critical of state voting restrictions to "stay
   out of politics"; and carbon dioxide topped 420 parts per million in the atmosphere
   for the first time – the halfway point to doubling preindustrial CO2 levels.
-category: biden
 ---
 
 1/ **All adults in the U.S. should be eligible to receive the Covid-19 vaccine by April 19**, almost two weeks sooner than Biden's original May 1 deadline. All but two states – Oregon and Hawaii – are already set to meet the new target date. "That doesn't mean they will get it that day, that means they can join the line that day if they have not already done that beforehand," White House press secretary Jen Psaki said. As of last week, about half of states had already opened vaccinations to everyone 16 and older, which is expected to rise to 36 states by the end of this week. The Biden administration also said that 150 million coronavirus vaccine doses have been administered to Americans. ([CNN](https://www.cnn.com/2021/04/06/politics/coronavirus-vaccine-deadline-biden/index.html) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-announce-april-19-deadline-making-all-adults-eligible-covid-n1263133) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/2021/04/06/984745020/biden-will-direct-states-to-make-all-adults-vaccine-eligible-by-april-19) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-04-06/biden-to-urge-making-vaccines-open-to-all-adults-by-april-19?sref=MIBMEEoj) / [Associated Press](https://apnews.com/article/biden-move-vaccine-eligibility-date-april-19-021157c7bdf964181e3b63f51b89601e))

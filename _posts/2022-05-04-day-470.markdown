@@ -1,6 +1,8 @@
 ---
 title: Day 470
 date: 2022-05-04 14:15:00 -07:00
+categories:
+- biden
 description: '"Not going to be easy."'
 image: "/uploads/day-470-biden.jpg"
 todayInOneSentence: 'Oklahoma’s Republican Gov. Kevin Stitt signed a Texas-style abortion
@@ -12,7 +14,6 @@ todayInOneSentence: 'Oklahoma’s Republican Gov. Kevin Stitt signed a Texas-sty
   report about Russian interference in the 2020 election; the Federal Reserve raised
   interest rates by half a percentage point to combat the highest inflation in 40
   years; and the U.S. surpassed 1 million Covid-19 deaths. '
-category: biden
 ---
 
 1/ **Oklahoma’s Republican Gov. Kevin Stitt signed a Texas-style abortion ban into law**, which prohibits abortions after about six weeks of pregnancy and allows private citizens to sue abortion providers to enforce the law. The "Oklahoma Heartbeat Act" takes effect immediately and prohibits abortions once cardiac activity can be detected in an embryo, which can be as early as six weeks into a pregnancy – before many women even know that they're pregnant. The Oklahoma Supreme Court denied an emergency request to temporarily halt the bill. The measure provides exceptions for medical emergencies, but not for rape or incest. ([CNN](https://www.cnn.com/2022/05/03/politics/oklahoma-heartbeat-act-abortion-governor-stitt-signs/index.html) / [Associated Press](https://apnews.com/article/abortion-us-supreme-court-health-texas-oklahoma-528aede70223d68dd5ed09160098445f))

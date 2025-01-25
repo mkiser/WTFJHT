@@ -1,6 +1,8 @@
 ---
 title: Day 1045
 date: 2023-11-30 14:44:00 -08:00
+categories:
+- biden
 description: '"Lead the way."'
 image: "/uploads/day1045biden.jpg"
 todayInOneSentence: The United Nations World Meteorological Organization declared
@@ -15,7 +17,6 @@ todayInOneSentence: The United Nations World Meteorological Organization declare
   some Supreme Court justices; and an appeals court reinstated Trump's gag order prohibiting
   him from attacking court staff in his ongoing $250 million civil fraud trial in
   New York.
-category: biden
 ---
 
 1/ **The United Nations World Meteorological Organization declared 2023 the warmest year ever recorded**. Data from January through October showed global temperatures were around 1.4C (2.5F) above the pre-industrial average from 1850 to 1990, according to the provisional findings in the 2023 State of the Global Climate Report. “Record global heating should send shivers down the spines of world leaders and it should trigger them to act,” U.N. Secretary-General António Guterres said. “We are living through climate collapse in real time, and the impact is devastating.” The nine years from 2015 to 2023 have been the warmest nine in 174 years of scientific recording, with 2023 breaking the previous single-year records set in 2020 and 2016. Petteri Taalas, the secretary general of the World Meteorological Organization, called it "a deafening cacophony of broken records." July was Earth’s hottest month ever observed and may have been warmer than any time in the last 125,000 years. ([New York Times](https://www.nytimes.com/2023/11/30/climate/2023-hottest-year-cop28.html) / [Washington Post](https://www.washingtonpost.com/weather/2023/11/30/earth-hottest-year-wmo/) / [ABC News](https://abcnews.go.com/International/2023-set-hottest-year-record-united-nations/story?id=105268460) / [Bloomberg](https://www.bloomberg.com/news/features/2023-11-30/united-nations-calls-2023-hottest-year-ever-at-dubai-cop28-climate-talks?srnd=premium&sref=MIBMEEoj) / [Associated Press](https://apnews.com/article/climate-changetemperature-increase-424df9320b443a311727f0733631974b))

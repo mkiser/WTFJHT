@@ -1,6 +1,8 @@
 ---
 title: Day 1082
 date: 2020-01-06 14:22:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: Get this done.
@@ -12,7 +14,6 @@ todayInOneSentence: 'Former national security adviser John Bolton said he is "pr
   from entering the U.S. to address the United Nations Security Council about the
   assassination of Iran''s top military official in Baghdad; and Trump spent at least
   86 days at a golf club in 2019. '
-category: trump
 ---
 
 1/ **Former national security adviser John Bolton said he is "prepared to testify" in Trump's impeachment trial if subpoenaed by the Senate**. Bolton, who so far has complied with a White House directive to not cooperate in the inquiry, has direct knowledge of Trump's actions and conversations regarding Ukraine that could fill in blanks in the impeachment case. A Senate subpoena requires at least 51 votes, which means four Republicans would need to vote with Democrats to call a witness. ([New York Times](https://www.nytimes.com/2020/01/06/us/politics/bolton-testify-impeachment-trial.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-impeachment-live-updates/2020/01/06/1540f98e-3074-11ea-9313-6cba89b1b9fb_story.html) / [Politico](https://www.politico.com/news/2020/01/06/john-bolton-willing-to-testify-in-trumps-impeachment-trial-094757) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/bolton-willing-testify-senate-impeachment-trial-if-subpoenaed-n1111256) / [CNN](https://www.cnn.com/2020/01/06/politics/john-bolton-testify-impeachment-subpoena/index.html) / [ABC News](https://abcnews.go.com/Politics/bolton-prepared-testify-trump-impeachment-trial-subpoenaed/story?id=68097771) / [Axios](https://www.axios.com/john-bolton-testify-trump-impeachment-trial-subpoena-485bbf06-344e-4140-a2d2-dacb14f10f26.html) / [Associated Press](https://apnews.com/a64ea4327e68348f2cb923da7d191d94))

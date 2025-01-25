@@ -1,6 +1,8 @@
 ---
 title: Day 1265
 date: 2020-07-07 14:36:00 -07:00
+categories:
+- trump
 description: '"Gave up and didn''t try."'
 image: "/uploads/1265.jpg"
 todayInOneSentence: Trump administration officially notified the United Nations that
@@ -10,7 +12,6 @@ todayInOneSentence: Trump administration officially notified the United Nations 
   rate in the U.S. a “false narrative"; and companies tied to Trump family members
   and associates were approved for up to $21 million in loans from the Paycheck Protection
   Program, which are meant to help small businesses survive the coronavirus pandemic.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

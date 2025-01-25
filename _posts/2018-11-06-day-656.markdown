@@ -1,9 +1,10 @@
 ---
 title: Day 656
 date: 2018-11-06 08:11:00 -08:00
+categories:
+- trump
 description: 'Setting a tone. '
 image: "/uploads/656.jpg"
-category: trump
 ---
 
 ## 🗳 Dept. of Midterms 2018.

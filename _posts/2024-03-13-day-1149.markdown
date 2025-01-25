@@ -1,6 +1,8 @@
 ---
 title: Day 1149
 date: 2024-03-13 14:37:00 -07:00
+categories:
+- biden
 description: '"Lack of detail."'
 image: "/uploads/day1149-biden.jpg"
 todayInOneSentence: A Georgia judge threw out six charges in the Georgia election
@@ -10,7 +12,6 @@ todayInOneSentence: A Georgia judge threw out six charges in the Georgia electio
   in the 2024 election; and 63% of respondents blame recent price increases on "large
   corporations taking advantage of inflation" — up from 54% in November.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **A Georgia judge threw out six charges in the Georgia election meddling case against Trump and his allies.** The decision by Fulton County Superior Court Judge Scott McAfee marks the first time any charges have been dropped in the four criminal cases Trump faces. Most of the charges still stand, however, including claims that Trump and his team broke the law by trying to stay in power after he lost the 2020 election. The tossed charges were related to Trump's efforts to pressure officials to violate election laws, like when he called Georgia Secretary of State Brad Raffensperger and told him to "find" enough votes for Trump to win. In his decision, Judge McAfee wrote that prosecutors could seek a reindictment to supplement the six dismissed counts, but said the "lack of detail" regarding the essential legal elements of the charges did not give the defendants "enough information to prepare their defenses intelligently." ([ABC News](https://abcnews.go.com/US/wireStory/judge-overseeing-georgia-election-interference-case-dismisses-charges-108079857) / [Washington Post](https://www.washingtonpost.com/national-security/2024/03/13/trump-georgia-election-case-charges-dropped/) / [Axios](https://www.axios.com/2024/03/13/trump-georgia-case-judge-dismiss-charges))

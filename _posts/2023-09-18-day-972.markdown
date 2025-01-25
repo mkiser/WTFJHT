@@ -1,6 +1,8 @@
 ---
 title: Day 972
 date: 2023-09-18 14:50:00 -07:00
+categories:
+- biden
 description: '"Make better choices."'
 image: "/uploads/day-972-biden.jpg"
 todayInOneSentence: 'Kevin McCarthy’s latest short-term funding proposal to avert
@@ -13,7 +15,6 @@ todayInOneSentence: 'Kevin McCarthy’s latest short-term funding proposal to av
   sent acting Labor Secretary Julie Su and White House senior advisor Gene Sperling
   to Detroit to help mediate negotiations between the United Auto Workers and the
   Big Three automakers; and 75% of Americans said they support the United Auto Workers. '
-category: biden
 ---
 
 1/ **Kevin McCarthy’s latest short-term funding proposal to avert a government shutdown doesn't have enough votes to pass**. McCarthy can only lose four Republican votes on a continuing resolution deal without relying on Democratic support. However, more than a dozen conservatives have already vowed to not support the plan – negotiated by the House Freedom Caucus and the more moderate Republican Main Street Caucus – to keep the government running until Oct. 31. The measure, which would cut most federal agency budgets by about 8% and resume construction of wall on the southern border, had little chance of passing the Democratic-controlled Senate. Government funding will run out in less than 13 days. ([Axios](https://www.axios.com/2023/09/18/house-gop-struggles-stopgap-funding-plan) / [Politico](https://www.politico.com/news/2023/09/18/gop-spending-plan-government-shutdown-mccarthy-deal-00116508) / [Washington Post](https://www.washingtonpost.com/politics/2023/09/17/gop-continuing-resolution/) / [New York Times](https://www.nytimes.com/2023/09/18/us/politics/mccarthy-shutdown-spending.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-09-18/mccarthy-plan-to-avert-us-government-shutdown-faces-backlash-from-gop-hardliners?srnd=politics-vp&sref=MIBMEEoj) / [CNN](https://www.cnn.com/2023/09/18/politics/kevin-mccarthy-shutdown-negotiations-latest/index.html) / [Wall Street Journal](https://www.wsj.com/politics/policy/republican-groups-craft-short-term-bill-to-keep-government-open-da3325e))

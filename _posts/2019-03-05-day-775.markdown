@@ -1,6 +1,8 @@
 ---
 title: Day 775
 date: 2019-03-05 09:00:00 -08:00
+categories:
+- trump
 tags:
 - pardon
 description: 'Stone cold crazy. '
@@ -13,7 +15,6 @@ todayInOneSentence: Trump accused House Democratic leaders of going "stone cold 
   to the Trump Organization's insurance broker; the White House rejected a House Oversight
   Committee request for documents about Jared Kushner's security clearance; and former
   White House attorney Ty Cobb called Robert Mueller "an American hero."
-category: trump
 ---
 
 1/ **Trump accused House Democratic leaders of going "stone cold CRAZY" by opening an oversight investigation into his administration and allies**, arguing that the lawmakers are needlessly harassing 81 "innocent people" and groups with demands for documents. Trump claimed the Democrats are conducting a "big, fat, fishing expedition" which amounts to "PRESIDENTIAL HARASSMENT!" ([Politico](https://www.politico.com/story/2019/03/05/trump-house-democrats-corruption-probe-1203583) / [Washington Post](https://www.washingtonpost.com/politics/trump-says-democrats-investigating-him-have-gone-stone-cold-crazy/2019/03/05/1164eb30-3f49-11e9-922c-64d6b7840b82_story.html))

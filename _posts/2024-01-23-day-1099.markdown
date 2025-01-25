@@ -1,6 +1,8 @@
 ---
 title: Day 1099
 date: 2024-01-23 13:55:00 -08:00
+categories:
+- biden
 description: '"An atmosphere of fear."'
 image: "/uploads/day1099biden.jpg"
 todayInOneSentence: 'Nikki Haley vowed to continue her presidential campaign even
@@ -13,7 +15,6 @@ todayInOneSentence: 'Nikki Haley vowed to continue her presidential campaign eve
   senior leaders to leave Gaza as part of an agreement for a two-month ceasefire in
   exchange for the release of all remaining hostages; and the Bulletin of the Atomic
   Scientists set their “Doomsday Clock” at 90 seconds to midnight. '
-category: biden
 ---
 
 1/ **Nikki Haley vowed to continue her presidential campaign even if Trump wins New Hampshire’s first-in-the-nation Republican primary**, saying “This has always been a marathon. It’s never been a sprint.” Most polls, however, showed Haley trailing Trump going into today’s primary by double digits. Voting is scheduled to close statewide at 8 p.m. Eastern. New Hampshire is the second state on the Republican electoral calendar after the Iowa caucuses, which Trump [won](https://whatthefuckjusthappenedtoday.com/2024/01/16/day-1092/#2-trump-won-the-iowa-republican-cauc) last week. The Nevada Republicans will hold caucuses Feb. 8, followed by South Carolina’s primary Feb. 24. ([NBC News](https://www.nbcnews.com/politics/2024-election/live-blog/new-hampshire-primary-live-updates-rcna134576) / [CNN](https://www.cnn.com/politics/live-news/new-hampshire-primary-01-23-24/index.html) / [Washington Post](https://www.washingtonpost.com/politics/2024/01/23/new-hampshire-primary-live-updates/) / [New York Times](https://www.nytimes.com/live/2024/01/23/us/new-hampshire-primary-updates) / [Associated Press](https://apnews.com/live/%20new-hampshire-primary-results-updates) / [NPR](https://www.npr.org/live-updates/election-2024-nh-primary-results) / [Politico](https://www.politico.com/live-updates/2024/01/23/new-hampshire-primary-2024/nikki-haley-nh-primary-00137136) / [Bloomberg](https://www.bloomberg.com/news/live-blog/2024-01-23/new-hampshire-gop-primary?srnd=premium&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/livecoverage/new-hampshire-gop-primary-election-2024?mod=hp_lead_pos1))

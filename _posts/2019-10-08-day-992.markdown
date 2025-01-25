@@ -1,6 +1,8 @@
 ---
 title: Day 992
 date: 2019-10-08 13:23:00 -07:00
+categories:
+- trump
 tags:
 - impeachment
 description: '"Further acts of obstruction."'
@@ -15,7 +17,6 @@ todayInOneSentence: A bipartisan Senate report concluded that the Kremlin direct
   and Turkey's vice president warned that his country won't be threatened by Trump
   and will carry out a planned attack against the Kurds on Turkey's own terms.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **A new bipartisan Senate report found that Russian actors were directed by the Kremlin to help Trump win the 2016 presidential election**. The Senate Intelligence Committee released the 85-page report, which is the second volume of the committee’s investigation into election interference by Moscow. The report concludes that Russia deliberately singled out African Americans and the black community as prominent targets of its disinformation and social disruption campaign. "By far," the panel concluded, "race and related issues were the preferred target of the information warfare campaign designed to divide the country in 2016." The report's findings mirror those of former special counsel Robert Mueller's own report from earlier this year, which also found that the Kremlin directed Russian actors to help Trump win in 2016. The Senate report also includes recommendations for Congress: it urges lawmakers to pass new legislation to increase the transparency of political advertisements on social media and calls on Congress to examine "whether any existing laws may hinder cooperation and whether information sharing should be formalized" between U.S. counter-interference efforts. ([The Hill](https://thehill.com/homenews/senate/464865-senate-intel-report-finds-kremlin-directed-russian-social-media-meddling-in) / [Daily Beast](https://www.thedailybeast.com/senate-intel-russian-propaganda-exploits-american-racism?ref=wrap) / [NBC News](https://www.nbcnews.com/politics/congress/gop-dem-senators-ask-laws-block-foreign-interference-elections-social-n1063716) / [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/trump-russia-2016-intelligence-report-read-kremlin-facebook-a9148036.html) / [Reuters](https://www.reuters.com/article/us-russia-disinformation-senate/russian-propaganda-increased-after-2016-u-s-election-senate-committee-idUSKBN1WN23T) / [Washington Post](https://www.washingtonpost.com/technology/2019/10/08/bipartisan-senate-report-calls-sweeping-effort-prevent-russian-interference-election/) / [Politico](https://www.politico.com/news/2019/10/08/intelligence-committee-russia-trump-report-040736))

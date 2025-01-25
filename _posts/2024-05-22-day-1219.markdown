@@ -1,6 +1,8 @@
 ---
 title: Day 1219
 date: 2024-05-22 14:22:00 -07:00
+categories:
+- biden
 description: '"Locked and loaded."'
 image: "/uploads/day-1219-biden.jpg"
 todayInOneSentence: 'Biden canceled $7.7 billion in student loans for another 160,000
@@ -12,7 +14,6 @@ todayInOneSentence: 'Biden canceled $7.7 billion in student loans for another 16
   – falsely claimed that Biden was “locked & loaded ready to take me out” during the
   2022 search of Mar-a-Lago for classified documents; and 49% of swing state voters
   say they’re worried about violence surrounding the November election. '
-category: biden
 ---
 
 1/ **Biden canceled $7.7 billion in student loans for another 160,000 borrowers**. This latest round of forgiveness brings the total student debt relief approved by the Biden administration to $167 billion. More than one in 10 Americans with federal student loans have been approved for some form of debt relief under Biden. ([Axios](https://www.axios.com/2024/05/22/student-loan-forgiveness-biden-administration) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-05-22/student-loan-forgiveness-biden-widens-relief-to-over-10-of-borrowers?sref=MIBMEEoj) / [Associated Press](https://apnews.com/article/biden-student-loan-cancellation-debt-forgiveness-60ffeaec17737d6317b4aee188893cc4))

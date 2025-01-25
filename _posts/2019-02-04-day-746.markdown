@@ -1,6 +1,8 @@
 ---
 title: Day 746
 date: 2019-02-04 10:56:00 -08:00
+categories:
+- trump
 description: Willful ignorance.
 image: "/uploads/746.jpg"
 todayInOneSentence: Trump said he doesn't "have to agree" with his intelligence chiefs'
@@ -8,7 +10,6 @@ todayInOneSentence: Trump said he doesn't "have to agree" with his intelligence 
   report public; Trump claimed to have "set the table beautifully" for his next fight
   with Democrats over his border wall; and Trump spent about nearly 60% of his time
   in unstructured "Executive Time."
-category: trump
 ---
 
 1/ **Trump said he doesn't "have to agree" with his intelligence chiefs on worldwide threats**. Trump, agitated after intelligence officials contradicted him several times during congressional testimony last week, said he wants "them to give me their opinion," but not to share them publicly with Congress. Trump later called the intelligence officials naive and suggested they might need to go back to "school." Senior intelligence analysts who prepare Trump's briefs and the briefers themselves say Trump displays "willful ignorance" when presented with analysis, and that the use of visual aids, confining briefings to two or three sentences, and repeating his name and title as frequently as possible all fail to keep his attention. Two intelligence officers say they have been warned to avoid giving Trump intelligence assessments that contradict stances he has taken in public. ([CBS News](https://www.cbsnews.com/news/donald-trump-face-the-nation-interview-margaret-brennan-today-super-bowl-2019-02-03/) / [Time](http://time.com/5518947/donald-trump-intelligence-briefings-national-security/))

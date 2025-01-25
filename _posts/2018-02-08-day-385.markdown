@@ -1,9 +1,10 @@
 ---
 title: Day 385
 date: 2018-02-08 10:15:00 -08:00
+categories:
+- trump
 description: Clear evidence.
 image: "/uploads/385.jpg"
-category: trump
 ---
 
 1/ **Russian hackers penetrated voter registration rolls in several U.S. states before the 2016 presidential election.** A Homeland Security Department official said that of the 21 states that were targeted, a "small number" were successfully penetrated. Officials maintain that there is no evidence that voter rolls were altered. ([NBC News](https://www.cnbc.com/2018/02/07/russians-penetrated-us-voter-systems-nbc-citing-top-us-official.html))

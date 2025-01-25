@@ -1,6 +1,8 @@
 ---
 title: Day 244
 date: 2021-09-20 14:59:00 -07:00
+categories:
+- biden
 description: '"Irreparable harm."'
 image: "/uploads/biden-day-244.jpg"
 todayInOneSentence: House Democrats plan to combine a short-term government spending
@@ -9,7 +11,6 @@ todayInOneSentence: House Democrats plan to combine a short-term government spen
   social and climate package to provide a path to citizenship for an estimated 8 million
   immigrants; more than 675,000 people in the U.S. have died of Covid-19; and the
   Supreme Court will hear arguments Dec. 1 on Mississippi’s restrictive abortion law.
-category: biden
 ---
 
 1/ **House Democrats plan to combine a short-term government spending bill with the suspension of the debt limit in an effort to avert a government shutdown**. The stopgap funding bill would last through Dec. 3, 2021, and the debt ceiling would be suspended through Dec. 2022. Mitch McConnell, however, reiterated that Republicans “will not support legislation that raises the debt limit.” The Republican threat is in protest of the Democrats decision to pursue trillions in new spending to overhaul federal healthcare, education, climate, immigration, and tax laws. McConnell called it “an effort to exploit this terrible yet temporary pandemic as a trojan horse for permanent socialism.” Nancy Pelosi and Chuck Schumer, meanwhile, warned that “a reckless Republican-forced default could plunge the country into a recession.” Congress has until the end of September to ratify a new spending agreement or risk a shutdown. Treasury Secretary Janet Yellen previously warned that, under current conditions, the department will reach its borrowing limit some time in October, which would cause “irreparable harm” to the U.S. economy. The House is expected to vote on the package this week. ([Wall Street Journal](https://www.wsj.com/articles/house-to-vote-on-spending-measure-that-includes-debt-limit-suspension-11632164472?mod=politics_lead_pos2) / [The Hill](https://thehill.com/policy/finance/573054-democrats-to-add-debt-limit-hike-to-short-term-government-spending-bill?rl=1) / [Politico](https://www.politico.com/news/2021/09/20/democrats-government-shutdown-debt-limit-513008) / [Washington Post](https://www.washingtonpost.com/us-policy/2021/09/20/congress-shutdown-debt-ceiling-biden/?location=alert&wpmk=1&wpisrc=al_news__alert-economy--alert-politics--alert-national&pwapi_token) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-09-20/democrats-link-debt-limit-to-vital-spending-bill-in-risky-move?sref=MIBMEEoj) / [CNN](https://www.cnn.com/2021/09/20/politics/congress-democrats-debt-limit-shutdown-deadlines/index.html))

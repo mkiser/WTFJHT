@@ -1,6 +1,8 @@
 ---
 title: Day 248
 date: 2021-09-24 14:37:00 -07:00
+categories:
+- biden
 description: '"Delays and excuses."'
 image: "/uploads/day-248-biden.jpg"
 todayInOneSentence: The House select committee investigating the Jan. 6 attack on
@@ -12,7 +14,6 @@ todayInOneSentence: The House select committee investigating the Jan. 6 attack o
   illness due to frequent exposure to the coronavirus at their jobs; and the House
   passed legislation that would create a statutory right for health care professionals
   to provide abortions.
-category: biden
 ---
 
 1/ **The House select committee investigating the Jan. 6 attack on the Capitol subpoenaed four of Trump’s closest advisers**, including Mark Meadows and Steve Bannon. The panel also issued subpoenas to Dan Scavino and Kash Patel. The subpoenas compel the four to produce documents relevant to the deadly attack by Oct. 7, and then sit for a deposition the following week. The committee said it was seeking information about Trump’s actions leading up to and during the riot. In a statement, Trump called the panel the "Unselect Committee" and promised to "fight the Subpoenas on Executive Privilege and other grounds, for the good of our Country." ([NPR](https://www.npr.org/2021/09/23/1040297881/jan-6-panel-subpoenas-former-trump-officials-including-mark-meadows-steve-bannon) / [New York Times](https://www.nytimes.com/2021/09/23/us/politics/jan-6-committee-trump-white-house.html) / [Politico](https://www.politico.com/news/2021/09/23/jan-6-committee-subpoenas-four-from-trumps-inner-circle-513989))

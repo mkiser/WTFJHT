@@ -1,6 +1,8 @@
 ---
 title: Day 874
 date: 2023-06-12 14:17:00 -07:00
+categories:
+- biden
 description: '"They''re coming after you."'
 image: "/uploads/day-874-biden.jpg"
 todayInOneSentence: Trump vowed to continue running for president even if he's convicted
@@ -12,7 +14,6 @@ todayInOneSentence: Trump vowed to continue running for president even if he's c
   that Trump should've been indicted by a federal grand jury related to his handling
   of classified documents; and 61% of likely Republican primary voters said the federal
   indictment charging Trump with 37 felonies won't change their view of him.
-category: biden
 ---
 
 1/ **Trump vowed to continue running for president even if he's convicted as part of the 37-count federal felony indictment**, saying “I’ll never leave.” Trump, who is not legally prohibited from running for president from prison or as a convicted felon, cast the charges as part of his “final battle” with a “corrupt” and "weaponized Department of Injustice." Trump's remarks at the Georgia Republican Party’s annual convention came one day after special counsel Jack Smith unsealed the 37-count federal indictment, which he called "a political hit job" by a "deranged" Smith. "In the end, they're not coming after me. They're coming after you," Trump said. "I'm just standing in their way." ([Politico](https://www.politico.com/news/2023/06/10/trump-vows-to-stay-in-the-race-even-if-convicted-00101403) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-deliver-fiery-post-indictment-speech-georgia-rcna88561) / [New York Times](https://www.nytimes.com/2023/06/10/us/politics/trump-georgia-north-carolina.html) / [CNN](https://www.cnn.com/2023/06/10/politics/trump-campaign-indictment-georgia-north-carolina/))

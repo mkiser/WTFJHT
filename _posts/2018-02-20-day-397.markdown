@@ -1,9 +1,10 @@
 ---
 title: Day 397
 date: 2018-02-20 09:17:00 -08:00
+categories:
+- trump
 description: Criminal information.
 image: "/uploads/397.jpg"
-category: trump
 ---
 
 1/ **Robert Mueller charged an attorney with making a false statement to federal authorities** as part of the probe into Russian interference in the 2016 presidential election. Prosecutors charged Alex Van Der Zwaan with lying to the FBI and Mueller's office about conversations he had with Rick Gates, the former Trump campaign aide who is cooperating in the Mueller probe, about work done in Ukraine six years ago.  Van Der Zwaan was charged by criminal information, which typically precedes a guilty plea because it can only be filed with a defendant's permission and usually indicates the person is cooperating with investigators. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-02-20/trump-defiant-despite-mueller-s-warning-shot-on-russia-meddling) / [New York Times](https://www.nytimes.com/2018/02/20/us/politics/alex-van-der-zwaan-gates-russia-mueller.html) / [Washington Post](https://www.washingtonpost.com/local/public-safety/mueller-probe-london-based-son-of-russian-businessman-to-plead-guilty-to-false-statements/2018/02/20/142f4d2e-164b-11e8-b681-2d4d462a1921_story.html))

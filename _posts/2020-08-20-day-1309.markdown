@@ -1,6 +1,8 @@
 ---
 title: Day 1309
 date: 2020-08-20 12:37:00 -07:00
+categories:
+- trump
 tags:
 - pardon
 description: '"Donald Trump hasn''t grown into the job because he can''t."'
@@ -19,7 +21,6 @@ todayInOneSentence: More than 1.1 million people filed for unemployment last wee
   warning that Trump represents an existential threat to American democracy; and Trump
   praised supporters of the QAnon internet conspiracy theory because he heard "they
   like me very much, which I appreciate."
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

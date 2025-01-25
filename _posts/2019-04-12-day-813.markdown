@@ -1,6 +1,8 @@
 ---
 title: Day 813
 date: 2019-04-12 10:01:00 -07:00
+categories:
+- trump
 description: 'Nonstory. '
 image: "/uploads/813.jpg"
 todayInOneSentence: Trump pressured Kirstjen Nielsen into busing detained immigrants
@@ -11,7 +13,6 @@ todayInOneSentence: Trump pressured Kirstjen Nielsen into busing detained immigr
   if he were sent to jail for blocking asylum seekers from entering the U.S. in defiance
   of U.S. law; and Trump's top advisers discussed whether the military could be used
   to build tent city detention camps for migrants at the border.
-category: trump
 ---
 
 1/ **Trump pressured Kirstjen Nielsen into busing detained immigrants to "sanctuary cities" located in the congressional districts of Democratic members of Congress**. The plan was first raised in a Nov. 16, 2018, email asking whether members of a migrant caravan could be arrested when they reached the border and then transported "to small- and mid-sized sanctuary cities" where local officials have refused to cooperate with ICE. The White House claimed that the proposal would free up ICE detention space, as well as send a message to Democrats. One top official responded to the plan by pointing out budgetary and liability concerns, as well as the "PR risks." The White House called the proposal a "nonstory" and said "this was just a suggestion that was floated and rejected, which ended any further discussion." ([Washington Post](https://www.washingtonpost.com/immigration/white-house-proposed-releasing-immigrant-detainees-in-sanctuary-cities-targeting-political-foes/2019/04/11/72839bc8-5c68-11e9-9625-01d48d50ef75_story.html) / [CNN](https://www.cnn.com/2019/04/11/politics/immigrant-detainees-sanctuary-cities/index.html) / [New York Times](https://www.nytimes.com/2019/04/11/us/politics/sanctuary-cities-trump.html))

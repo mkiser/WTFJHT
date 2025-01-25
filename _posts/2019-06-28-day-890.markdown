@@ -1,6 +1,8 @@
 ---
 title: Day 890
 date: 2019-06-28 08:43:00 -07:00
+categories:
+- trump
 description: Reluctantly.
 image: "/uploads/890.jpg"
 todayInOneSentence: The House passed a $4.6 billion emergency spending bill for the
@@ -9,7 +11,6 @@ todayInOneSentence: The House passed a $4.6 billion emergency spending bill for 
   he'll delay the 2020 Census – "no matter how long" – until the citizenship question
   can be added; and Trump jokingly told Putin "don't meddle in the election" while
   touting his "very, very good relationship" with the Russian leader.
-category: trump
 ---
 
 1/ **The House passed a $4.6 billion emergency spending bill for the humanitarian crisis on the U.S.-Mexico border**. The 305-to-102 vote sends the legislation, passed by the Senate earlier in the week, to Trump, who is expected to sign it. Speaker Nancy Pelosi tried to add additional protections for unaccompanied minors and restrictions on the administration's use of funds to the bill, but was forced to accept the less restrictive Senate bill after the White House made clear it opposed the changes, and Mitch McConnell said he would not take them up. "We will reluctantly pass the Senate bill," Pelosi said in a letter to Democratic lawmakers. ([Washington Post](https://www.washingtonpost.com/business/economy/house-democrats-push-new-version-of-border-spending-bill-that-administration-calls-unacceptable/2019/06/27/63f9074e-98dd-11e9-830a-21b9b36b64ad_story.html) / [New York Times](https://www.nytimes.com/2019/06/27/us/politics/border-funding-immigration.html) / [Politico](https://www.politico.com/story/2019/06/27/house-vote-emergency-border-package-1385222) / [Reuters](https://www.reuters.com/article/us-usa-immigration-idUSKCN1TS1CQ))

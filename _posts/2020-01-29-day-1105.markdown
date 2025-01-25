@@ -1,6 +1,8 @@
 ---
 title: Day 1105
 date: 2020-01-29 10:01:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: Public interest.
@@ -11,7 +13,6 @@ todayInOneSentence: Trump's impeachment trial moved to written questions; Alan D
   Senate Democrats are reportedly undecided on whether to vote to remove Trump from
   office; Rudy Giuliani claimed he "never ever" discussed Ukraine military aid with
   Trump; and the Senate will return Thursday for another question-and-answer session.
-category: trump
 ---
 
 ### ⚖️ Trump’s Senate Impeachment Trial:

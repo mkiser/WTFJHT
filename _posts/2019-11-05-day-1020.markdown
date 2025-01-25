@@ -1,6 +1,8 @@
 ---
 title: Day 1020
 date: 2019-11-05 11:23:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: Orchestrated efforts.
@@ -11,7 +13,6 @@ todayInOneSentence: A key witness in the impeachment inquiry acknowledged there 
   appear for a deposition; an associate of Rudy Giuliani will cooperate with a subpoena
   issued by House investigators; and phone records show that Trump made at least six
   phone calls to a woman who says he sexually assaulted her at the Beverly Hills Hotel.
-category: trump
 ---
 
 1/ **A key witness in the impeachment inquiry acknowledged that there was a quid pro quo linking U.S. aid to Ukraine with an investigation into Trump's political rival**. In revised testimony, Gordon Sondland, the U.S. ambassador to the European Union, said he told Andriy Yermak, a Ukrainian national security adviser, that Ukraine "would likely not" receive military aid until it publicly committed to investigating the 2016 election and Joe Biden. Sondland told Congress that his memory was "refreshed" after reviewing the opening statements by Bill Taylor, the acting ambassador to Ukraine, and Tim Morrison, a former adviser to Trump on Russian and European affairs. Sondland's addendum also recounted a Sept. 1 meeting in Warsaw where Ukrainian President Volodymyr Zelensky raised his concerns to Mike Pence about the suspension of military aid. Sondland said he believed that withholding the $391 million in security assistance was "ill-advised," but claimed he didn't know "when, why or by whom the aid was suspended." The revelation comes after House committees leading the impeachment inquiry released transcripts of witness testimony by Sondland and Kurt Volker, the former special envoy to Ukraine. ([Politico](https://www.politico.com/news/2019/11/05/sondland-reverses-himself-on-ukraine-quid-pro-quo-000318) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/sondland-changes-testimony-acknowledges-delivering-quid-pro-quo-message-ukraine-n1076736) / [New York Times](https://www.nytimes.com/2019/11/05/us/politics/impeachment-trump.html) / [CNN](https://www.cnn.com/2019/11/05/politics/gordon-sondland-kurt-volker-transcripts-impeachment-inquiry/index.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-impeachment-inquiry-live-updates/2019/11/05/a27d7c48-ff4e-11e9-8bab-0fc209e065a8_story.html))

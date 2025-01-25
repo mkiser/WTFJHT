@@ -1,9 +1,10 @@
 ---
 title: Day 428
 date: 2018-03-23 07:35:00 -07:00
+categories:
+- trump
 description: Na na na na, na na na na, hey hey, goodbye.
 image: "/uploads/428.jpg"
-category: trump
 ---
 
 1/ **The Senate passed a $1.3 trillion spending bill late last night**, avoiding another government shutdown with less than a day before the deadline. The bill funds the federal government through the end of September and includes $700 billion for the military ($66 billion more than last year) and $591 billion for domestic agencies ($52 billion more than last year). ([Washington Post](https://www.washingtonpost.com/powerpost/house-prepares-for-rapid-vote-today-on-jam-packed-13-trillion-spending-deal/2018/03/22/2074fe7e-2dd6-11e8-8688-e053ba58f1e4_story.html) / [NBC News](https://www.nbcnews.com/politics/congress/government-spending-deal-clears-house-ahead-friday-deadline-n859101))

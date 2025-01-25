@@ -1,6 +1,8 @@
 ---
 title: Day 1251
 date: 2020-06-23 15:03:00 -07:00
+categories:
+- trump
 description: '"Mixed bag."'
 image: "/uploads/1251.jpg"
 todayInOneSentence: Dr. Anthony Fauci told lawmakers "None of us have ever been told
@@ -12,7 +14,6 @@ todayInOneSentence: Dr. Anthony Fauci told lawmakers "None of us have ever been 
   up to 10 years in prison; and a former Roger Stone prosecutor will testify that
   he and his colleagues were repeatedly pressured to cut Stone "a break" because of
   his relationship with Trump.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

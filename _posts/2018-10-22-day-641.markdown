@@ -1,6 +1,8 @@
 ---
 title: Day 641
 date: 2018-10-22 13:48:00 -07:00
+categories:
+- trump
 description: 'A great mind. '
 image: "/uploads/641.jpg"
 todayInOneSentence: Saudi Arabia's foreign minister denied that the crown prince ordered
@@ -10,7 +12,6 @@ todayInOneSentence: Saudi Arabia's foreign minister denied that the crown prince
   death; the Trump administration plans to redefine the legal definition of gender
   as strictly biological; and Robert Mueller's team continues to pursue conflicting
   accounts about Roger Stone's communication with WikiLeaks.
-category: trump
 ---
 
 1/ **Saudi Arabia's foreign minister denied that Mohammed bin Salman ordered Jamal Khashoggi's killing**, calling it a "rogue operation" by individuals who "made a mistake." Adel al-Jubeir denied that the crown prince had any prior knowledge of the operation and said that the agents involved "weren't people closely tied" to him. ([Washington Post](https://www.washingtonpost.com/world/middle_east/khashoggis-death-was-a-rogue-operation-that-the-crown-prince-was-not-aware-of-saudi-foreign-minister-says/2018/10/21/97ee4c06-d3d2-11e8-a4db-184311d27129_story.html))

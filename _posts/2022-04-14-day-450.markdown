@@ -1,6 +1,8 @@
 ---
 title: Day 450
 date: 2022-04-14 14:26:00 -07:00
+categories:
+- biden
 description: '"Strange."'
 image: "/uploads/day-450-biden.jpg"
 todayInOneSentence: 'Russia threatened to deploy nuclear weapons in the Baltic Sea
@@ -13,7 +15,6 @@ todayInOneSentence: 'Russia threatened to deploy nuclear weapons in the Baltic S
   Debates; Chuck Schumer suggested that Biden "seems more open" to canceling student
   debt "than ever before"; and Biden''s job approval among Generation Z and millennials
   is down roughly 20 points since 2021. '
-category: biden
 ---
 
 1/ **Russia threatened to deploy nuclear weapons in the Baltic Sea region if Finland and Sweden join NATO**. The threat came a day after Finland and Sweden officials suggested that they were stepping up consideration of joining the military alliance in the wake of Russia’s invasion of Ukraine. Lithuanian Defense Minister Arvydas Anusauskas, however, said Russia already has nuclear weapons in the Baltic region. "The current Russian threats look quite strange, when we know that, even without the present security situation, they keep the weapon 100 km from Lithuania's border," Anusauskas said. ([Bloomberg](https://www.bloomberg.com/news/articles/2022-04-14/russia-threatens-nuclear-buildup-if-finland-and-sweden-join-nato?sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/world/2022/04/14/russia-baltic-nuclear-deployment-finland-sweden-nato/) / [Reuters](https://www.reuters.com/world/europe/russia-already-has-nuclear-weapons-baltic-region-says-lithuania-2022-04-14/) / [CNBC](https://www.cnbc.com/2022/04/14/russia-threatens-new-nuclear-deployments-if-sweden-finland-join-nato.html))

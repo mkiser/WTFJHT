@@ -1,6 +1,8 @@
 ---
 title: Day 720
 date: 2023-01-09 15:24:00 -08:00
+categories:
+- biden
 description: '"A direct and foreseeable consequence."'
 image: "/uploads/day-720biden.jpg"
 todayInOneSentence: 'The Georgia special grand jury investigating “coordinated attempts
@@ -14,7 +16,6 @@ todayInOneSentence: 'The Georgia special grand jury investigating “coordinated
   newly sworn-in Congressman George Santos violated campaign finance law; and Justice
   Department is reviewing roughly 10 classified documents found in the office space
   of Biden’s vice-presidential office in Washington. '
-category: biden
 ---
 
 1/ **The Georgia special grand jury investigating “coordinated attempts to unlawfully alter the outcome of the 2020 elections” in the state by Trump and his allies has completed its work**. After eight months of investigation, the special grand jury submitted its report on its findings to Fulton County District Attorney Fani Willis, who will decide whether to seek criminal indictments from a regular grand jury. While the grand jury’s recommendations were not made public, including whether criminal charges should be filed, the grand jury “voted to recommend that its report be published.” A hearing will be held on Jan. 24 to determine whether it will be made public. Willis has informed nearly 20 people that they may face criminal charges as a result of the investigation. Trump lost Georgia by less than 12,000 votes in 2020. ([Atlanta Journal-Constitution](https://www.ajc.com/politics/breaking-fulton-special-grand-jury-completes-trump-investigation/XQXALSAGX5A5HLBJW46JBEHM5Y/) / [NBC News](https://www.nbcnews.com/politics/donald-trump/grand-jury-georgia-trump-election-probe-completes-final-report-judge-s-rcna64891) / [CNN](https://www.cnn.com/2023/01/09/politics/fulton-county-grand-jury-trump-election/index.html) / [Washington Post](https://www.washingtonpost.com/nation/2023/01/09/fulton-county-trump-investigation-ends/) / [New York Times](https://www.nytimes.com/2023/01/09/us/trump-georgia-election-grand-jury.html) / [Politico](https://www.politico.com/news/2023/01/09/atlanta-special-grand-jury-trump-investigation-2020-00077002) / [Associated Press](https://apnews.com/article/politics-georgia-donald-trump-juries-united-states-government-fc08d39209ce3be768d933f96a434abf) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-01-09/georgia-grand-jury-investigating-trump-submits-recommendations-and-disbands?sref=MIBMEEoj) / [CNBC](https://www.cnbc.com/2023/01/09/georgia-grand-jury-probing-trump-for-possible-2020-election-crimes-completes-work-report-says.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 1414
 date: 2020-12-03 14:44:00 -08:00
+categories:
+- trump
 description: '"A tremendous achievement."'
 image: "/uploads/1414.jpg"
 todayInOneSentence: The U.S. recorded over 3,100 COVID-19 deaths in a single day;
@@ -12,7 +14,6 @@ todayInOneSentence: The U.S. recorded over 3,100 COVID-19 deaths in a single day
   that would change the election results; and the White House liaison to the Justice
   Department has been banned from the building after trying to pressure staffers to
   give up information about election fraud.
-category: trump
 ---
 
 1/ **The U.S. recorded over 3,100 COVID-19 deaths in a single day** – marking the single-worst daily death toll since the pandemic began and surpassing the April 15 high of 2,752 deaths. The U.S. also recorded nearly 205,000 new cases of COVID-19 – a month after topping 100,000 cases for the first time – as hospitalizations from the virus reached 100,000 – also the highest reported during the pandemic and more than double the number since the beginning of November. In total, more than 14 million cases in the U.S. have been reported since the start of the pandemic. ([NBC News](https://www.nbcnews.com/news/us-news/covid-surge-200-000-new-cases-100-000-hospitalizations-u-n1249800) / [Associated Press](https://apnews.com/article/us-virus-deaths-top-3000-single-day-cfc242870ccad7a41c3cc858bfe24e49) / [CNN](https://www.cnn.com/2020/12/03/health/us-coronavirus-thursday/index.html) / [New York Times](https://www.nytimes.com/live/2020/12/02/world/covid-19-coronavirus/its-terrible-because-it-was-avoidable-us-virus-deaths-have-passed-the-spring-peak) / [Washington Post](https://www.washingtonpost.com/nation/2020/12/03/coronavirus-covid-live-updates-us/))

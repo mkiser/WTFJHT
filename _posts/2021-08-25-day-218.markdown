@@ -1,6 +1,8 @@
 ---
 title: Day 218
 date: 2021-08-25 14:45:00 -07:00
+categories:
+- biden
 description: '"Communications within."'
 image: "/uploads/day-218-082521.jpg"
 todayInOneSentence: The majority of the federal rental assistance funding has yet
@@ -12,7 +14,6 @@ todayInOneSentence: The majority of the federal rental assistance funding has ye
   and the FCC proposed a $5.1 million fine against conservative activists who made
   unlawful robocalls to spread misinformation about mail-in voting.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **Roughly 89% of the funds from the Emergency Rental Assistance Program have not been distributed, according to the Treasury Department.** Just $1.7 billion of the $46.5 billion in funds intended to prevent eviction were disbursed as of July. Meanwhile, the White House is bracing for a Supreme Court decision that could strike down its eviction moratorium. ([New York Times](https://www.nytimes.com/2021/08/25/us/politics/eviction-rental-assistance.html))

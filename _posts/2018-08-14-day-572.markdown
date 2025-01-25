@@ -1,6 +1,8 @@
 ---
 title: Day 572
 date: 2018-08-14 15:23:00 -07:00
+categories:
+- trump
 description: Lowlife.
 image: "/uploads/572.jpg"
 todayInOneSentence: Omarosa released audio of Trump campaign aides discussing how
@@ -9,7 +11,6 @@ todayInOneSentence: Omarosa released audio of Trump campaign aides discussing ho
   "guarantee" that Trump hasn't been recorded using the n-word; and Trump allegedly
   called Trump Jr. "a fuckup" after he released his emails about the 2016 Trump Tower
   meeting.
-category: trump
 ---
 
 1/ **Omarosa released audio of Trump campaign aides discussing how to handle the potential release of a tape where Trump used the "n-word."** Trump claims he never said the word, tweeting that "I don't have that word in my vocabulary and never have" and that Omarosa "made it up." The audio appears to corroborate Omarosa's claims that Trump aides were aware of the recording and talked about how to handle it. Trump tweeted that, according to "The Apprentice" producer Mark Burnett, the long-rumored tape of him using a racial slur doesn't exist. ([CBS News](https://www.cbsnews.com/news/new-audio-omarosa-trump-campaign-aides-apparently-discussing-fallout-of-n-word/))

@@ -1,6 +1,8 @@
 ---
 title: Day 974
 date: 2023-09-20 14:20:00 -07:00
+categories:
+- biden
 description: '"This is important."'
 image: "/uploads/day-974-biden.jpg"
 todayInOneSentence: 'Increases in wildfire smoke have reversed two decades of improvements
@@ -10,7 +12,6 @@ todayInOneSentence: 'Increases in wildfire smoke have reversed two decades of im
   at a level between 5.25 and 5.5% – the highest level in 22 years; and Attorney General
   Merrick Garland defended the Justice Department''s independence during a House Judiciary
   Committee hearing. '
-category: biden
 ---
 
 1/ **Increases in wildfire smoke have reversed two decades of improvements to air quality in three-quarters of all U.S. states**. New research shows that from 2000 to 2022, "wildfires have undone 25% of previous progress” that resulted from the Clean Air Act of 1963. A noticeable shift in the overall trend began in 2015 with wildfire smoke having a statistically significant effect on PM 2.5 – very small particles that can travel into the lungs and bloodstream – trends in 35 out of 48 continental states. Some states have rolled back 50% or more of their progress since 2000, while others have completely erased their gains. More than two billion people globally were exposed to a day or more of wildfire-related air pollution each year between 2010 and 2019.  ([NBC News](https://www.nbcnews.com/science/environment/wildfires-are-destroying-decades-clean-air-efforts-us-rcna105140) / [New York Times](https://www.nytimes.com/2023/09/20/climate/wildfire-smoke-air-pollution.html) / [Washington Post](https://www.washingtonpost.com/climate-environment/2023/09/20/america-air-quality-wildfire-smoke-warming-climate/))

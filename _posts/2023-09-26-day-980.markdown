@@ -1,6 +1,8 @@
 ---
 title: Day 980
 date: 2023-09-26 14:54:00 -07:00
+categories:
+- biden
 description: '"Stick with it."'
 image: "/uploads/day-980biden.jpg"
 todayInOneSentence: The Senate announced a bipartisan deal to keep the government
@@ -13,7 +15,6 @@ todayInOneSentence: The Senate announced a bipartisan deal to keep the governmen
   inflated the value of assets to obtain favorable loans and lower insurance premiums;
   and Trump claimed he's being "unconstitutionally silence[d]" by special counsel
   Jack Smith.
-category: biden
 ---
 
 1/ **The Senate announced a bipartisan deal to keep the government open through mid-November and provide $6 billion in assistance to Ukraine**. The stopgap measure to avert an Oct. 1 shutdown still needs to clear several procedural hurdles before full Senate approval. It then needs to overcome gridlock in the Republican-controlled House, where conservatives have threatened to remove Kevin McCarthy as speaker and delay the bill over Ukraine funding. ([New York Times](https://www.nytimes.com/2023/09/26/us/politics/senate-bill-government-shutdown.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-09-26/senate-negotiators-announce-bipartisan-bid-to-avert-shutdown?srnd=premium&sref=MIBMEEoj) / [CNN](https://www.cnn.com/2023/09/26/politics/mccarthy-government-shutdown-latest/index.html) / [Politico](https://www.politico.com/live-updates/2023/09/26/congress/senate-unveils-spending-stopgap-00118227) / [Washington Post](https://www.washingtonpost.com/politics/2023/09/26/senate-announces-short-term-deal-avert-government-shutdown-future-house-unclear/))

@@ -1,6 +1,8 @@
 ---
 title: Day 946
 date: 2019-08-23 10:20:00 -07:00
+categories:
+- trump
 description: '"Our bigger enemy."'
 image: "/uploads/946.jpg"
 todayInOneSentence: Trump called the Federal Reserve chairman an "enemy" of the United
@@ -8,7 +10,6 @@ todayInOneSentence: Trump called the Federal Reserve chairman an "enemy" of the 
   "hereby ordered" U.S. companies via Twitter to leave China "immediately"; and the
   Dow dropped more than 600 points after Trump ordered U.S. manufacturers to find
   alternatives to China.
-category: trump
 ---
 
 1/ **Trump called the Federal Reserve chairman an "enemy" of the United States** after Jerome Powell said Trump's trade war is a "complex, turbulent" situation. Powell, whom Trump picked for the role, suggested the trade wars were contributing to a possible global slowdown and that the central bank was facing a "new challenge" as a result. Trump, meanwhile, tweeted that the Fed "did NOTHING" and questioned who "our bigger enemy" is: Powell or China's President Xi Jinping. Trump also tweeted that he'll continue to "work 'brilliantly.'" \[*Editor's note: It's unclear why Trump quoted the word brilliantly in his tweet*.\] ([Washington Post](https://www.washingtonpost.com/business/2019/08/23/fed-chair-powell-vows-sustain-expansion-he-doesnt-commit-deep-interest-rate-cuts-trump-wants/) / [New York Times](https://www.nytimes.com/2019/08/23/business/powell-fed-interest-rates-trump.html) / [Wall Street Journal](https://www.wsj.com/articles/powell-says-fed-prepared-to-provide-stimulus-if-a-slowdown-hits-u-s-economy-11566568965) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-slams-fed-chief-who-our-biggest-enemy-jay-powell-n1045786) / [The Guardian](https://www.theguardian.com/business/2019/aug/23/fed-chair-jerome-powell-trump-trade-policies-new-challenge) / [CNBC](https://www.cnbc.com/2019/08/23/trump-tweets-who-is-our-bigger-enemy-fed-chairman-powell-or-chinese-president-xi.html))

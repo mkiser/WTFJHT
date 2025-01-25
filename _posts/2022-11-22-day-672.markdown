@@ -1,6 +1,8 @@
 ---
 title: Day 672
 date: 2022-11-22 13:30:00 -08:00
+categories:
+- biden
 description: '"Quickly approaching the end."'
 image: "/uploads/day-672-biden.jpg"
 todayInOneSentence: 'The Supreme Court rejected Trump''s legal effort to block the
@@ -9,7 +11,6 @@ todayInOneSentence: 'The Supreme Court rejected Trump''s legal effort to block t
   a tentative labor contract brokered by the White House; and Lindsey Graham testified
   before the Fulton County special grand jury investigating efforts by Trump and his
   allies to overturn the 2020 election. '
-category: biden
 ---
 
 1/ **The Supreme Court rejected Trump's legal effort to block the release of his tax returns to Congress**. Republicans, however, are expected to end the committee's investigation when they take control of the House on Jan. 3, 2023. The order comes after a federal appeals court ruled that the Ways and Means Committee had the right to obtain six years of Trump's tax records, which Chief Justice John Roberts temporarily blocked. The chief lawyer for the House had urged the Supreme Court not to intervene, saying: “Delaying Treasury from providing the requested tax information would leave the Committee and Congress as a whole little or no time to complete their legislative work during this Congress, which is quickly approaching its end.” The committee first sought the tax returns from the IRS in 2019. ([CNBC](https://www.cnbc.com/2022/11/22/supreme-court-rules-on-trump-tax-records-being-given-to-congress.html) / [New York Times](https://www.nytimes.com/2022/11/22/us/supreme-court-trump-taxes-house-democrats.html) / [Washington Post](https://www.washingtonpost.com/politics/2022/11/22/supreme-court-trump-taxes/) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-11-22/supreme-court-clears-house-panel-to-get-trump-s-tax-returns?srnd=premium&sref=MIBMEEoj) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-allows-release-trumps-tax-records-house-democrats-rcna56644) / [Axios](https://www.axios.com/2022/11/22/supreme-court-trump-tax-return-congress) / [CNN](https://www.cnn.com/2022/11/22/politics/supreme-court-clears-way-for-house-to-get-trumps-taxes/index.html) / [Wall Street Journal](https://www.wsj.com/articles/supreme-court-denies-donald-trumps-bid-to-shield-tax-returns-11669147608?mod=hp_lead_pos3))

@@ -1,6 +1,8 @@
 ---
 title: Day 237
 date: 2021-09-13 14:55:00 -07:00
+categories:
+- biden
 description: '"There''s no way."'
 image: "/uploads/237-biden-covid.jpg"
 todayInOneSentence: House Democrats outlined their proposed tax increases on corporations
@@ -13,7 +15,6 @@ todayInOneSentence: House Democrats outlined their proposed tax increases on cor
   rioters to international extremists; and Capitol Police arrested a man armed with
   multiple knives, a bayonet, and a machete near the Democratic National Committee
   headquarters in Washington.
-category: biden
 ---
 
 1/ **House Democrats outlined their proposed tax increases on corporations and wealthy people to help offset the costs of Biden’s $3.5 trillion economic plan**. The House Ways and Means Committee plan calls for raising the corporate tax rate to 26.5% from 21%, a 3-percentage-point surcharge on individual income above $5 million, and raising the capital gains tax from 20% to 25%. White House spokesman Andrew Bates said the proposal “meets two core goals the President laid out at the beginning of this process: it does not raise taxes on Americans earning under $400,000 and it repeals the core elements of the Trump tax giveaways for the wealthy and corporations that have done nothing to strengthen our country’s economic health.” ([Wall Street Journal](https://www.wsj.com/articles/democrats-release-details-of-tax-increase-11631539532?mod=hp_lead_pos1) / [Politico](https://www.politico.com/news/2021/09/12/corporate-tax-rate-511570) / [CNBC](https://www.cnbc.com/2021/09/13/house-democrats-propose-tax-increases-in-3point5-trillion-budget-bill.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-09-12/house-democrats-set-to-propose-corporate-tax-rate-of-26-5?sref=MIBMEEoj))

@@ -1,6 +1,8 @@
 ---
 title: Day 239
 date: 2021-09-15 14:26:00 -07:00
+categories:
+- biden
 description: '"Democracy can be sloppy."'
 image: "/uploads/day-239-covid-biden.jpg"
 todayInOneSentence: 'The Justice Department asked a federal judge to block enforcement
@@ -12,7 +14,6 @@ todayInOneSentence: 'The Justice Department asked a federal judge to block enfor
   year due to the pandemic relief aid Congress enacted; 1 in 500 Americans have died
   from Covid-19 in the 19 months since the nation''s first reported coronavirus infection;
   the FDA declined to endorse Pfizer’s Covid-19 booster shot. '
-category: biden
 ---
 
 1/ **The Justice Department asked a federal judge to block enforcement of a new Texas law that effectively bans almost all abortions**. The Justice Department argued that the state adopted the law, which took effect this month after the Supreme Court refused to block its enforcement, “gravely and irreparably impaired women's ability to exercise their constitutional right to an abortion across the State.” The 45-page emergency motion comes after the Biden administration sued Texas last week, asserting that the law – which allows private citizens to file civil lawsuits against anyone who helps a woman terminate her pregnancy – was passed in "open defiance of the Constitution." ([New York Times](https://www.nytimes.com/2021/09/14/us/politics/texas-abortion-justice-department.html) / [Washington Post](https://www.washingtonpost.com/nation/2021/09/15/texas-abortion-justice-department-block/) / [CNN](https://www.cnn.com/2021/09/14/politics/doj-temporary-restraining-order-texas-abortion-law/index.html) / [Reuters](https://www.reuters.com/world/us/biden-administration-files-motion-block-texas-abortion-ban-2021-09-15/))

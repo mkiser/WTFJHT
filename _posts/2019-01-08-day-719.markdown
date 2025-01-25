@@ -1,6 +1,8 @@
 ---
 title: Day 719
 date: 2019-01-08 14:01:00 -08:00
+categories:
+- trump
 description: Intentionally misleading.
 image: "/uploads/719.jpg"
 todayInOneSentence: Most of the major networks will broadcast Trump's border address;
@@ -8,7 +10,6 @@ todayInOneSentence: Most of the major networks will broadcast Trump's border add
   employee linked to Russian intelligence; and lawyer Natalia Veselnitskaya was revealed
   to be more closely tied to the top Russian prosecutor than previously understood.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **Most major TV networks will broadcast Trump's national address tonight at 9 p.m. Eastern**, during which he will discuss the ongoing partial government shutdown and the southern U.S. border. ABC, CBS, NBC, MSNBC, CNN, Fox News, and Fox Business have all confirmed they will air Trump's remarks. A response from Congressional Democrats will follow. Trump has made 1,130 false statements about immigration since taking office. ([Politico](https://www.politico.com/story/2019/01/07/major-networks-broadcast-trumps-shutdown-address-1086048) / [NBC News](https://www.nbcnews.com/politics/donald-trump/major-networks-will-carry-democratic-response-trump-immigration-speech-n956051))

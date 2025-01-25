@@ -1,6 +1,8 @@
 ---
 title: Day 546
 date: 2018-07-19 12:55:00 -07:00
+categories:
+- trump
 description: 'An incredible offer. '
 image: "/uploads/546.jpg"
 todayInOneSentence: Two weeks before his inauguration, Trump was briefed that Putin
@@ -10,7 +12,6 @@ todayInOneSentence: Two weeks before his inauguration, Trump was briefed that Pu
   Trump and Putin had reached several "important verbal agreements"; and Trump invited
   Putin to visit the White House this fall for a second summit despite his advisers
   struggling to ascertain what Trump and Putin agreed to.
-category: trump
 ---
 
 1/ **Two weeks before his inauguration, Trump was briefed that Putin had personally ordered the cyberattacks to influence the 2016 election**. The intelligence briefing included texts and emails from Russian military officers, as well as evidence from a source close to Putin, who had described how the Kremlin executed the hacking and disinformation campaign. After flip-flopping on whether he believed Putin's denial that Russia interfered in the election, Trump indirectly blamed Putin for meddling, "because he's in charge of the country." ([New York Times](https://www.nytimes.com/2018/07/18/world/europe/trump-intelligence-russian-election-meddling-.html))

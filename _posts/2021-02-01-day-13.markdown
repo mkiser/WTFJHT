@@ -1,6 +1,8 @@
 ---
 title: Day 13
 date: 2021-02-01 14:56:00 -08:00
+categories:
+- biden
 tags:
 - impeachment
 description: '"The time for decisive action is now."'
@@ -18,7 +20,6 @@ todayInOneSentence: 'The Biden administration reached a $231 million deal for 8.
   General Letitia James; and House Democrats introduced a resolution to force Rep.
   Marjorie Taylor Greene from her two committee assignments for her inflammatory and
   false statements. '
-category: biden
 ---
 
 1/ **The Biden administration reached a $231 million deal for 8.5 million at-home, over-the-counter Covid-19 rapid tests**. The test, made by Ellume, "can detect Covid with roughly 95 percent accuracy within 15 minutes." The FDA granted an emergency use authorization in December for the tests, which are expected to cost about $30 each. ([NPR](https://www.npr.org/sections/coronavirus-live-updates/2021/02/01/962828149/u-s-cuts-231-million-deal-to-provide-15-minute-covid-19-at-home-tests) / [NBC News](https://www.nbcnews.com/politics/white-house/u-s-strikes-230-million-deal-over-counter-covid-tests-n1256371) / [Wall Street Journal](https://www.wsj.com/articles/u-s-reaches-deal-with-australian-company-ellume-for-at-home-covid-19-tests-11612198271))

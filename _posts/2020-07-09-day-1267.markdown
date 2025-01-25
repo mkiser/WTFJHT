@@ -1,6 +1,8 @@
 ---
 title: Day 1267
 date: 2020-07-09 14:37:00 -07:00
+categories:
+- trump
 description: '"The pandemic is still accelerating."'
 image: "/uploads/1267.jpg"
 todayInOneSentence: Another 1.3 million workers filed new claims for state unemployment
@@ -10,7 +12,6 @@ todayInOneSentence: Another 1.3 million workers filed new claims for state unemp
   at shutting down"; the CDC will not revise its guidelines for reopening schools
   despite pressure from Trump and the White House; and the World Health Organization
   acknowledged that the coronavirus may become airborne.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

@@ -1,6 +1,8 @@
 ---
 title: Day 1190
 date: 2024-04-23 14:43:00 -07:00
+categories:
+- biden
 description: '"Silly."'
 image: "/uploads/day-1190-biden.jpg"
 todayInOneSentence: 'Trump will likely be found in contempt of court for violating
@@ -13,7 +15,6 @@ todayInOneSentence: 'Trump will likely be found in contempt of court for violati
   within their industry; and 45% of Americans say climate change is a very important
   issue, but only 10% of respondents have heard a lot about what the Biden administration
   has done to address it. '
-category: biden
 ---
 
 1/ **Trump will likely be found in contempt of court for violating his gag order in the election interference case involving falsified business records to conceal a hush money payment during the 2016 campaign**. Prosecutors argued that Trump violated the limited gag order at least 10 times, and asked Judge Juan Merchan to hold Trump in contempt of court, fine Trump $10,000, and force Trump to delete his social media posts. “His disobedience of the order is willful, it’s intentional,” prosecutors said. “He knows what he’s not allowed to do and he does it anyway.” Trump’s attorney Todd Blanche, meanwhile, claimed that Trump was just defending himself online when he posted about witnesses in the case, including Michael Cohen and Stormy Daniels. Merchan, however, characterized the position as “silly” and warned Blanche that he was "losing all credibility with the court" with his argument that Trump was being "careful" about the gag order. While Merchan did not immediately rule on whether Trump had violated the order, minutes after the hearing Trump posted on his personal social media platform that Merchan "should recuse himself" because he’s taking away his “right to free speech” and claiming that he was “not allowed to defend myself.” ([Bloomberg](https://www.bloomberg.com/news/articles/2024-04-23/trump-may-lose-contempt-fight-as-judge-calls-arguments-silly?sref=MIBMEEoj) / [Axios](https://www.axios.com/2024/04/23/trump-new-york-criminal-trial-gag-order-contempt)y / [NBC News](https://www.nbcnews.com/politics/donald-trump/judge-trump-trial-hold-hearing-gag-order-witness-testimony-resumes-rcna148854) / [ABC News](https://abcnews.go.com/US/hearing-trump-hush-money-case-determine-trump-held/story?id=109509803))

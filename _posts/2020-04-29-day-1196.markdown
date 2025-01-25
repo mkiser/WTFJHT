@@ -1,6 +1,8 @@
 ---
 title: Day 1196
 date: 2020-04-29 15:18:00 -07:00
+categories:
+- trump
 description: '"A great success story."'
 image: "/uploads/1196.jpg"
 todayInOneSentence: Trump said existing coronavirus social distancing guidelines –
@@ -15,7 +17,6 @@ todayInOneSentence: Trump said existing coronavirus social distancing guidelines
   coronavirus tests per day "very soon" after a Harvard University study said the
   U.S. needed to carry out at least 5 million tests a day by early June – and 20 million
   per day by late July – in order to safely reopen the economy.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

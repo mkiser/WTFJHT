@@ -1,6 +1,8 @@
 ---
 title: Day 744
 date: 2023-02-02 13:55:00 -08:00
+categories:
+- biden
 description: '"An absolute fool."'
 image: "/uploads/day-744-biden.jpg"
 todayInOneSentence: 'The FBI plans to search Pence''s Indiana home for classified
@@ -12,7 +14,6 @@ todayInOneSentence: 'The FBI plans to search Pence''s Indiana home for classifie
   prosecutors open criminal investigations into who accessed and disseminated his
   personal data; and a federal judge ruled that a wrongful death lawsuit filed by
   the father of a man shot and killed by Kyle Rittenhouse can proceed. '
-category: biden
 ---
 
 1/ **The FBI plans to search Pence‘s Indiana home for classified material in the coming days**. Last month, Pence's lawyers said they had found several classified documents at his home and turned them over to authorities. The investigation into classified documents that Trump took to Mar-a-Lago, meanwhile, has escalated for more than a year to include a criminal investigation into possible obstruction, among other potential crimes, which special counsel Jack Smith is overseeing. ([Wall Street Journal](https://www.wsj.com/articles/fbi-to-search-mike-pences-home-for-additional-classified-materials-11675356965?mod=politics_lead_pos1))

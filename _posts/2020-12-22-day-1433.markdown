@@ -1,6 +1,8 @@
 ---
 title: Day 1433
 date: 2020-12-22 13:59:00 -08:00
+categories:
+- trump
 description: '"It appears to be significant."'
 image: "/uploads/1433.jpg"
 todayInOneSentence: U.S. deaths are expected to top 3 million for the first time,
@@ -10,7 +12,6 @@ todayInOneSentence: U.S. deaths are expected to top 3 million for the first time
   election results; Russian hackers accessed dozens of email accounts used by senior
   officials at the Treasury Department; and Trump’s longtime banker at Deutsche Bank
   resigned and will leave the bank next week.
-category: trump
 ---
 
 1/ **U.S. deaths are expected to top 3 million for the first time**, making this the deadliest year in U.S. history. The U.S. is on track to see at least 400,000 more deaths in 2020 than in 2019 – due mainly to the coronavirus pandemic. ([Associated Press](https://apnews.com/article/us-coronavirus-deaths-top-3-million-e2bc856b6ec45563b84ee2e87ae8d5e7))

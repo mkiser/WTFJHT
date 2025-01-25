@@ -1,6 +1,8 @@
 ---
 title: Day 1315
 date: 2024-08-26 15:08:00 -07:00
+categories:
+- biden
 description: '"Blatant political purposes."'
 image: "/uploads/day-1315-biden-harris.jpg"
 todayInOneSentence: 'Special counsel Jack Smith urged a federal appeals court to reverse
@@ -14,7 +16,6 @@ todayInOneSentence: 'Special counsel Jack Smith urged a federal appeals court to
   he "will be great for women and their reproductive rights; and the Trump and Harris
   campaigns are at odds over whether the microphones will be live throughout the Sept.
   10 presidential debate. '
-category: biden
 ---
 
 1/ **Special counsel Jack Smith urged a federal appeals court to reverse the dismissal of the criminal classified documents case against Trump.** Last month, [Judge Aileen Cannon granted Trump’s request](https://whatthefuckjusthappenedtoday.com/2024/07/15/day-1273/#2-judge-aileen-cannon-dismissed-spec) to dismiss the indictment on the grounds that Smith's appointment as special counsel violated the Constitution's appointments and appropriations clauses. In a brief filed with the 11th US Circuit Court of Appeals in Atlanta, Smith argued that Cannon’s decision ignored decades of "Supreme Court precedent, misconstrued the statutes that authorized the Special Counsel’s appointment, and took inadequate account of the longstanding history of Attorney General appointments of special counsels." It’s unclear how long it will take for the appeals court to decide the matter, but even if it overturns the dismissal, the trial will not take place before the November presidential election – and if Trump wins the 2024 election, he could pressure his Justice Department to drop the appeals effort. Trump appointed Cannon to the federal bench in south Florida in 2020. ([Associated Press](https://apnews.com/article/trump-maralago-classified-documents-411e8e3b4d31923560effdd0d2082af4) / [Washington Post](https://www.washingtonpost.com/national-security/2024/08/26/trump-cannon-classified-documents-appeal/) / [New York Times](https://www.nytimes.com/2024/08/26/us/politics/trump-documents-appeal-jack-smith.html) / [CNN](https://www.cnn.com/2024/08/26/politics/mar-a-lago-classified-documents-appeal-11th-circuit/index.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/special-counsel-urges-appeals-court-revive-trump-documents-case-rcna168297) / [CNBC](https://www.cnbc.com/2024/08/26/trump-classified-documents-case-special-counsel-urges-appeals-court-to-reverse-dismissal.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 178
 date: 2021-07-16 14:46:00 -07:00
+categories:
+- biden
 description: '"I''ve got it covered."'
 image: "/uploads/day-178-071621.jpg"
 todayInOneSentence: Arizona has identified fewer than 200 cases of potential voter
@@ -9,7 +11,6 @@ todayInOneSentence: Arizona has identified fewer than 200 cases of potential vot
   Trump in a tax fraud scheme; Biden selected new ambassadors to the U.K., New Zealand,
   and Samoa; and Matt Gaetz paid $25k to an attorney who defended Jeffrey Epstein.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **Arizona county election officials have identified fewer than 200 cases of potential voter fraud** out of more than 3 million ballots cast in last year's presidential election, undercutting former President Trump's claims of a stolen election as his allies continue a disputed ballot review in the state’s most populous county. ([Associated Press](https://apnews.com/article/business-government-and-politics-arizona-election-2020-e6158cd1b0c6442716064e6791b4c6fc))

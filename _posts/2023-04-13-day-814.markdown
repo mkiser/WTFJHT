@@ -1,6 +1,8 @@
 ---
 title: Day 814
 date: 2023-04-13 13:34:00 -07:00
+categories:
+- biden
 description: '"Continued complications."'
 image: "/uploads/day-814-biden.jpg"
 todayInOneSentence: 'The Justice Department will seek emergency intervention from
@@ -13,7 +15,6 @@ todayInOneSentence: 'The Justice Department will seek emergency intervention fro
   Attorney General Letitia James'' $250 million lawsuit alleging “staggering” fraud
   in his real estate business practices; and Supreme Court Justice Clarence Thomas
   didn''t disclose that he sold real estate to Republican megadonor Harlan Crow. '
-category: biden
 ---
 
 1/ **The Justice Department will seek emergency intervention from the Supreme Court to protect the availability of the widely-used abortion pill mifepristone**. The decision comes after the 5th U.S. Circuit Court of Appeals partially blocked U.S. District Judge Matthew Kacsmaryk’s order, which suspended the FDA's 2000 approval of mifepristone. It was the first time a court had ordered the suspension of a long-approved medication. The court, however, ruled that mifespristone could no longer be prescribed after the seventh week of pregnancy, rolled back mail delivery of the pill, and reimposed doctor visits. Attorney General Merrick Garland said the Justice Department “strongly disagrees” with the 5th Circuit's decision, adding that the administration will “be seeking emergency relief from the Supreme Court to defend the FDA’s scientific judgment and protect Americans’ access to safe and effective reproductive care.” Any filing would go to Justice Samuel Alito, who handles emergency matters from the New Orleans-based 5th Circuit. Alito wrote the Supreme Court's 2022 decision overturning the constitutional right to abortion. ([Bloomberg](https://www.bloomberg.com/news/articles/2023-04-13/doj-to-ask-supreme-court-to-intervene-in-abortion-pill-case?srnd=premium&sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/politics/2023/04/13/abortion-pill-ruling-mifepristone-fda-approval/) / [NPR](https://www.npr.org/2023/04/13/1169690633/abortion-pill-ruling-supreme-court) / [CNBC](https://www.cnbc.com/2023/04/13/abortion-pill-mifepristone-court-keeps-it-on-market-blocks-mail-delivery.html) / [ABC News](https://abcnews.go.com/Politics/justice-department-abortion-pill-fight-supreme-court-garland/story?id=98558136) / [CNN](https://www.cnn.com/2023/04/13/politics/abortion-pill-mifepristone-appeals-court/index.html))

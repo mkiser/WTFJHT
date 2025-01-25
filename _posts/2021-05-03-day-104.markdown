@@ -1,6 +1,8 @@
 ---
 title: Day 104
 date: 2021-05-03 14:37:00 -07:00
+categories:
+- biden
 description: '"America''s values."'
 image: "/uploads/day-104-biden.jpg"
 todayInOneSentence: Scientists and public health experts say that "herd immunity"
@@ -10,7 +12,6 @@ todayInOneSentence: Scientists and public health experts say that "herd immunity
   Biden administration will raise the refugee ceiling to 62,500 this fiscal year;
   and Joe Manchin said he does not support the bill to make D.C. the nation’s 51st
   state.
-category: biden
 ---
 
 1/ **Scientists and public health experts say that "herd immunity" in the U.S. may not be attainable due to vaccine hesitancy**. About 30% of the U.S. population remains reluctant to be vaccinated. The original herd immunity threshold, meanwhile, was estimated to be about 60 to 70% of the population. Experts, however, now estimate that the herd immunity threshold to be at least 80% due to more contagious variants circulating in the U.S. Experts also say the coronavirus will most likely continue to circulate in the U.S., causing hospitalizations and deaths but in much smaller numbers. ([New York Times](https://www.nytimes.com/2021/05/03/health/covid-herd-immunity-vaccine.html))

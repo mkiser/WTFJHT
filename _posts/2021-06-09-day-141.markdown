@@ -1,6 +1,8 @@
 ---
 title: Day 141
 date: 2021-06-09 15:00:00 -07:00
+categories:
+- biden
 description: '"Frustrated."'
 image: "/uploads/day-141-biden-harris.jpg"
 todayInOneSentence: 'Biden ended negotiations with a group of Republicans over infrastructure
@@ -13,7 +15,6 @@ todayInOneSentence: 'Biden ended negotiations with a group of Republicans over i
   and Competition Act; Biden revoked and replaced three Trump executive orders that
   sought to ban TikTok and WeChat from the U.S. over national security concerns; and
   Harris warned Guatemalans thinking of migrating to the U.S.: "Do not come."'
-category: biden
 ---
 
 1/ **Biden ended negotiations with a group of Republicans led by Sen. Shelley Moore Capito over infrastructure legislation**, telling Capito that the latest GOP offer didn't "meet the essential needs of our country to restore our roads and bridges, prepare us for our clean energy future, and create jobs." White House press secretary Jen Psaki said Biden was disappointed that Republicans had "increased their proposed new investments by only $150 billion" after he reduced his plan by more than $1 trillion. The White House and Capito ended up about $700 billion away. Capito, [meanwhile](https://www.politico.com/news/2021/06/09/capito-frustrated-white-house-infrastructure-talks-492443), said she was “frustrated” with the White House and suggested that it “kept moving the goalposts” during negotiations. Biden will now focus on working with a bipartisan group of 20 senators who have been working separately on an alternative infrastructure proposal. Biden also spoke with Chuck Schumer about passing some of the infrastructure provisions through budget reconciliation, a fast-track procedure that would allow Democrats to avoid a filibuster and push through a package without support from Republicans. And, [over in the House](https://www.nytimes.com/2021/06/09/us/politics/house-infrastructure-proposal.html) a bipartisan group calling themselves the Problem Solvers Caucus proposed a $1.249 trillion infrastructure plan that includes $761.8 billion in new spending. ([CBS News](https://www.cbsnews.com/news/biden-infrastructure-bill-ends-negotiations-republican-senators/) / [Washington Post](https://www.washingtonpost.com/us-policy/2021/06/08/white-house-infrastructure-republican/) / [New York Times](https://www.nytimes.com/2021/06/08/us/politics/infrastructure-biden-republicans.html) / [ABC News](https://abcnews.go.com/Politics/biden-capito-infrastructure-negotiations-ended/story?id=78155172) / [Politico](https://www.politico.com/news/2021/06/08/biden-ends-infrastructure-talks-with-senate-gop-starts-engaging-bipartisan-group-492168) / [NBC News](https://www.nbcnews.com/politics/congress/biden-s-infrastructure-talks-gop-collapse-amid-irreconcilable-differences-n1270027))

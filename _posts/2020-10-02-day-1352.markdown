@@ -1,6 +1,8 @@
 ---
 title: Day 1352
 date: 2020-10-02 13:36:00 -07:00
+categories:
+- trump
 description: '"Give me a fucking break."'
 image: "/uploads/1352.jpg"
 todayInOneSentence: Trump tested positive for the coronavirus and was taken to Walter
@@ -9,7 +11,6 @@ todayInOneSentence: Trump tested positive for the coronavirus and was taken to W
   events anyway; Biden and Harris both tested negative for the coronavirus; the Justice
   Department and FBI are preparing for Election Day civil unrest; and Melania Trump
   mocked migrant children separated at the border, saying "give me a fucking break."
-category: trump
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Every State.

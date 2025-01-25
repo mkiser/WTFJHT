@@ -1,6 +1,8 @@
 ---
 title: Day 1308
 date: 2020-08-19 14:55:00 -07:00
+categories:
+- trump
 description: '"Wholly insufficient."'
 image: "/uploads/1308.jpg"
 todayInOneSentence: The Senate Intelligence Committee made criminal referrals of Trump
@@ -12,7 +14,6 @@ todayInOneSentence: The Senate Intelligence Committee made criminal referrals of
   reelection campaign sued New Jersey over the state's decision to mail a ballot to
   all residents; and White House press secretary Kayleigh McEnany declined to say
   whether Trump would accept the election results if he lost.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

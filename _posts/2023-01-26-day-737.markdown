@@ -1,6 +1,8 @@
 ---
 title: Day 737
 date: 2023-01-26 14:39:00 -08:00
+categories:
+- biden
 description: '"The fight of our lives."'
 image: "/uploads/day-737-biden.jpg"
 todayInOneSentence: 'The U.S. economy expanded at a 2.9% annualized rate in the fourth
@@ -11,7 +13,6 @@ todayInOneSentence: 'The U.S. economy expanded at a 2.9% annualized rate in the 
   over his administration''s decision to reject an Advanced Placement African American
   studies course; and 73% of Americans say House Republican leaders haven’t paid enough
   attention to the country’s most important problems. '
-category: biden
 ---
 
 1/ **The U.S. economy expanded at a 2.9% annualized rate in the fourth quarter last year**, beating expectations despite high interest rates and fears of a recession. For the year overall, GDP grew 2.1% after growing 5.7% in 2021. Most economists, however, think the slowing economy will slide into at least a mild recession by midyear, triggered in part by the highest borrowing costs in decades. ([CNBC](https://www.cnbc.com/2023/01/26/gdp-q4-2022-us-gdp-rose-2point9percent-in-the-fourth-quarter-more-than-expected-even-as-recession-fears-loom.html) / [New York Times](https://www.nytimes.com/live/2023/01/26/business/gdp-growth-inflation) / [Wall Street Journal](https://www.wsj.com/articles/us-gdp-economic-growth-fourth-quarter-2022-11674683034) / [Washington Post](https://www.washingtonpost.com/business/2023/01/26/gdp-2022-q4-economy/) / [Politico](https://www.politico.com/news/2023/01/26/joe-biden-economy-recession-00079606) / [Associated Press](https://apnews.com/article/inflation-economic-indicators-economy-business-dd015c396ac2fcd49e426a648e2d2f2e) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-01-26/us-economy-expands-at-a-faster-than-expected-2-9-pace?srnd=premium&sref=MIBMEEoj) / [CBS News](https://www.cbsnews.com/news/economy-grew-2022-q4-gdp-2-9-percent/))

@@ -1,6 +1,8 @@
 ---
 title: Day 608
 date: 2018-09-19 08:22:00 -07:00
+categories:
+- trump
 description: '"What happens at Georgetown Prep, stays at Georgetown Prep."'
 image: "/uploads/day-608.png"
 todayInOneSentence: The Trump administration can't account for another 1,500 migrant
@@ -10,7 +12,6 @@ todayInOneSentence: The Trump administration can't account for another 1,500 mig
   redacted versions of his declassification request; and a new federal court ruling
   requires political nonprofits to reveal more of their political donors.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **The Trump administration is unable to account for nearly 1,500 additional migrant children** who were placed with sponsors after leaving federal shelters. The revelation comes months after a similar admission in April concerning an initial 1,475 children. Since 2016, HHS officials have called sponsors to check on migrant children 30 days after placements. The department has said it is not legally responsible for children after they are released from government custody. ([New York Times](https://www.nytimes.com/2018/09/18/us/politics/us-migrant-children-whereabouts-.html))

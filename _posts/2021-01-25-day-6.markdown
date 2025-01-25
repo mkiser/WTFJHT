@@ -1,6 +1,8 @@
 ---
 title: Day 6
 date: 2021-01-25 14:25:00 -08:00
+categories:
+- biden
 description: '"Attempted sedition."'
 image: "/uploads/biden-harris-day-6.jpg"
 todayInOneSentence: Biden reversed Trump's ban on transgender troops serving in the
@@ -12,7 +14,6 @@ todayInOneSentence: Biden reversed Trump's ban on transgender troops serving in 
   improper attempt to have DOJ seek to alter the outcome" of the 2020 election; Dominion
   Voting Systems filed a defamation lawsuit against Rudy Giuliani; and the Supreme
   Court dismissed two cases over whether Trump illegally profited off his presidency.
-category: biden
 ---
 
 1/ **Biden reversed Trump's ban on transgender troops serving in the military**, restoring protections first put in place by Obama. In 2017, Trump [tweeted](https://whatthefuckjusthappenedtoday.com/2017/07/26/day-188/#5-trump-tweets-that-the-us-will-no-l) that the U.S. would no longer “accept or allow” transgender people in the military, saying the military “must be focused on decisive and overwhelming victory” and it could not afford to accommodate them. As Biden signed the executive order, he said: “What I’m doing is enabling all qualified Americans to serve their country in uniform.” The order provides protection for all transgender service members, stops all involuntary separations or discharges based on gender identity, and directs the secretary of Defense and the secretary of Homeland Security to implement the order and brief Biden within 60 days on their progress. ([New York Times](https://www.nytimes.com/2021/01/25/us/politics/biden-transgender-military.html) / [Washington Post](https://www.washingtonpost.com/national-security/biden-reverses-transgender-military-ban-trump/2021/01/25/38960998-5f1b-11eb-ac8f-4ae05557196e_story.html) / [Politico](https://www.politico.com/news/2021/01/25/biden-repeals-transgender-military-service-ban-462186) / [NPR](https://www.npr.org/sections/president-biden-takes-office/2021/01/25/960338217/biden-repeals-trump-era-ban-on-transgender-soldiers) / [Associated Press](https://apnews.com/article/joe-biden-donald-trump-biden-cabinet-lloyd-austin-confirmation-hearings-82138242acd4b6dad80ff4d82f5b7686) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-reverse-trump-s-transgender-military-ban-n1255522) / [Axios](https://www.axios.com/biden-transgender-military-ban-f376cff3-5631-44c0-9efa-0c586d4d0c35.html))

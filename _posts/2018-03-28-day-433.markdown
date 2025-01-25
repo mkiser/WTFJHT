@@ -1,9 +1,10 @@
 ---
 title: Day 433
 date: 2018-03-28 10:32:00 -07:00
+categories:
+- trump
 description: Pertinent to the investigation.
 image: "/uploads/433.jpg"
-category: trump
 ---
 
 1/ **Rick Gates knowingly communicated with "a former Russian Intelligence Officer" during the 2016 presidential campaign**, according to documents filed by Robert Mueller's investigators. Gates was in frequent contact with "Person A" – who has been identified as Konstantin Kilimnik – during the time he worked for Trump's campaign, including September and October 2016. The documents Mueller filed indicate that the communications between Gates and Kilimnik are "pertinent to the investigation." Kilimnik worked with Paul Manafort for four years on behalf of a Kremlin-aligned Ukrainian political party. ([New York Times](https://www.nytimes.com/2018/03/28/us/politics/rick-gates-trump-campaign-russian-intelligence.html) / [Washington Post](https://www.washingtonpost.com/politics/manafort-associate-had-russian-intelligence-ties-during-2016-campaign-prosecutors-say/2018/03/28/473228e8-3231-11e8-8bdd-cdb33a5eef83_story.html))

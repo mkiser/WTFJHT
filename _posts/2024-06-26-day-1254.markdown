@@ -1,6 +1,8 @@
 ---
 title: Day 1254
 date: 2024-06-26 15:15:00 -07:00
+categories:
+- biden
 description: '"Engaged in critical work."'
 image: "/uploads/day-1254-biden.jpg"
 todayInOneSentence: 'The Supreme Court accidentally posted its draft decision to temporarily
@@ -12,7 +14,6 @@ todayInOneSentence: 'The Supreme Court accidentally posted its draft decision to
   support of Steve Bannon’s appeal of his conviction for defying a congressional subpoena
   related to the Jan. 6 attack; and Trump is leading in 5 of the 7 battleground states
   most likely to determine the outcome of the election. '
-category: biden
 ---
 
 1/ **The Supreme Court accidentally posted its draft decision to temporarily allow medical emergency abortions in Idaho on its website**. The opinion, which was removed, shows that the justices voted 6-3 to reinstate a lower court order that had allowed hospitals in Idaho to perform emergency abortions to protect the health of the mother. Justices Clarence Thomas, Samuel Alito, and Neil Gorsuch voted in dissent. The court said it "inadvertently and briefly" uploaded what it described as a "document" about the case, and said a decision will be issued in “due course.” Idaho state law bans almost all abortions and imposes penalties of up to five years in prison on doctors who perform the procedure, except when necessary to save a woman’s life. The Biden administration [sued the state in 2022](https://whatthefuckjusthappenedtoday.com/2022/08/02/day-560/#2-the-justice-department-sued-idaho), saying its abortion ban conflicts with the federal law. ([Bloomberg](https://www.bloomberg.com/news/articles/2024-06-26/us-supreme-court-poised-to-allow-emergency-abortions-in-idaho) / [New York Times](https://www.nytimes.com/2024/06/26/us/politics/supreme-court-abortion-idaho.html) / [Politico](https://www.politico.com/news/2024/06/26/idaho-restore-abortion-opinion-00165120) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-acknowledges-document-pending-abortion-case-accidentally-rcna159081) / [Washington Post](https://www.washingtonpost.com/politics/2024/06/26/supreme-court-emergency-abortions-idaho-decision/) / [ABC News](https://abcnews.go.com/Politics/supreme-court-inadvertently-uploads-document-ruling-idaho-abortion/story?id=111071015) / [Associated Press](https://apnews.com/article/supreme-court-emergency-abortion-idaho-fda6b6b8cefd026dea95011dfcf11426) / [NPR](https://www.npr.org/2024/06/26/nx-s1-5020548/supreme-court-emtala-abortions-accidental-post) / [CNN](https://www.cnn.com/politics/live-news/supreme-court-emergency-abortion-ruling-06-26-24/index.html) / [Wall Street Journal](https://www.wsj.com/us-news/law/supreme-court-draft-opinion-suggests-it-will-allow-emergency-abortions-62234e5b?mod=hp_lead_pos1))

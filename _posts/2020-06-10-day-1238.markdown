@@ -1,6 +1,8 @@
 ---
 title: Day 1238
 date: 2020-06-10 14:28:00 -07:00
+categories:
+- trump
 description: '"Everything about this is irregular."'
 image: "/uploads/1238.jpg"
 todayInOneSentence: At least 19 states are seeing a rise in the number of new coronavirus
@@ -13,7 +15,6 @@ todayInOneSentence: At least 19 states are seeing a rise in the number of new co
   baseless tweet that a 75-year-old man injured by police "could be an ANTIFA provocateur,"
   saying Trump was just raising "questions that need to be asked"; and Trump's campaign
   demanded that CNN retract and apologize for a poll showing him trailing Joe Biden.
-category: trump
 ---
 
 * ### 😷 Dept. of We Have It Totally Under Control.

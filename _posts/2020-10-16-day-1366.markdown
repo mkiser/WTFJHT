@@ -1,6 +1,8 @@
 ---
 title: Day 1366
 date: 2020-10-16 13:30:00 -07:00
+categories:
+- trump
 description: '"You''re not someone''s crazy uncle who can retweet whatever."'
 image: "/uploads/1366.jpg"
 todayInOneSentence: The U.S. passed 8 million coronavirus cases three weeks after
@@ -12,7 +14,6 @@ todayInOneSentence: The U.S. passed 8 million coronavirus cases three weeks afte
   in instead of a second presidential debate;  and Trump earnestly shared a story
   from a satirical news site claiming that Twitter had “shut down its entire social
   network” to stop the spread of negative news about Biden.
-category: trump
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

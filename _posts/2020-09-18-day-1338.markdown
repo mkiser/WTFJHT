@@ -1,6 +1,8 @@
 ---
 title: Day 1338
 date: 2020-09-18 14:27:00 -07:00
+categories:
+- trump
 tags:
 - pardon
 description: '"You need a test."'
@@ -20,7 +22,6 @@ todayInOneSentence: The Department of Health and Human Services rewrote the CDC 
   the WikiLeaks founder was offered a presidential pardon in return for information
   that would resolve the "ongoing speculation about Russian involvement" in the hacking
   of Democratic National Committee emails.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

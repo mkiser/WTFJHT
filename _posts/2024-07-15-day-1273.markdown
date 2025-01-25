@@ -1,6 +1,8 @@
 ---
 title: Day 1273
 date: 2024-07-15 10:07:00 -07:00
+categories:
+- biden
 description: '"I''m not supposed to be here."'
 image: "/uploads/day-1273-biden.jpg"
 todayInOneSentence: 'What we know about the Trump assassination attempt so far; Biden
@@ -12,7 +14,6 @@ todayInOneSentence: 'What we know about the Trump assassination attempt so far; 
   his running mate; a federal judge dismissed Rudy Giuliani''s bankruptcy protection
   case; Trump said he’ll reveal his choice of running mate later today; and the Republican
   National Convention opens in Milwaukee. '
-category: biden
 ---
 
 *What we know about the Trump assassination attempt so far:*

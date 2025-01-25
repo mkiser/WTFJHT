@@ -1,6 +1,8 @@
 ---
 title: Day 1453
 date: 2021-01-11 14:25:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: '"Significant failures."'
@@ -13,7 +15,6 @@ todayInOneSentence: House Democrats introduced an article of impeachment against
   of violence”; Trump urged Georgia’s lead elections investigator to “find the fraud”
   in a December phone call; and about 2% of the U.S. population has been vaccinated
   since the FDA approved the first two vaccine candidates a month ago.
-category: trump
 ---
 
 1/ **House Democrats introduced an article of impeachment against Trump for “incitement of insurrection”** for his role in the riots at the Capitol that left five people dead last week. The four-page impeachment article charges Trump with “inciting violence against the government of the United States.” Nancy Pelosi said the House will vote to impeach Trump on Wednesday if Pence doesn't seek to remove him under the 25th Amendment or Trump doesn't resign first. The impeachment resolution has [at least 218 co-sponsors](https://www.politico.com/news/2021/01/11/house-trump-impeachment-457440) – enough to ensure passage – which would make Trump the first president in U.S. history to be impeached twice. While it's unlikely that the Senate will hold a trial before Trump leaves office on Jan. 20, a conviction after his term ends would prevent Trump from federal office again. Earlier, during a pro forma session, Democrats attempted to pass a measure by unanimous consent calling on Pence to invoke the 25th Amendment to remove Trump, but House Republicans blocked the request. Pence [reportedly](https://www.cnn.com/2021/01/09/politics/mike-pence-25th-amendment/index.html) hasn't ruled out invoking the 25th Amendment, but wants to preserve the option in case Trump becomes more unstable. ([New York Times](https://www.nytimes.com/2021/01/11/us/pence-impeachment.html) / [Washington Post](https://www.washingtonpost.com/politics/2021/01/11/trump-impeachment-biden-transition-live-updates/) / [NPR](https://www.npr.org/sections/trump-impeachment-effort-live-updates/2021/01/11/954907652/in-wake-of-capitol-attack-house-will-seek-to-impeach-trump-again) / [CNN](https://www.cnn.com/2021/01/11/politics/house-democrats-impeachment-plans/) / [Associated Press](https://apnews.com/article/pelosi-house-impeach-trump-575a4070cbef5441d61fb7e4a497f9b7) / [Wall Street Journal](https://www.wsj.com/articles/house-democrats-to-begin-efforts-seeking-to-remove-trump-from-office-11610375178) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-01-11/house-democrats-set-in-motion-bid-to-remove-trump-from-office?srnd=premium&sref=MIBMEEoj) / [NBC News](https://www.nbcnews.com/politics/congress/house-democrats-consider-impeachment-25th-amendment-measures-n1253693) / [ABC News](https://abcnews.go.com/Politics/house-democrats-file-impeachment-article-charging-trump-incitement/story?id=75178177) / [The Guardian](https://www.theguardian.com/us-news/2021/jan/11/trump-impeachment-house-democrats-charge-president-with-incitement-of-insurrection) / [CNBC](https://www.cnbc.com/2021/01/11/house-prepares-to-impeach-trump-over-capitol-attack.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 1159
 date: 2020-03-23 14:32:00 -07:00
+categories:
+- trump
 description: '"The pandemic is accelerating."'
 image: "/uploads/1159.jpg"
 todayInOneSentence: The World Health Organization warned that "the pandemic is accelerating";
@@ -10,7 +12,6 @@ todayInOneSentence: The World Health Organization warned that "the pandemic is a
   guidance on how hospitals should respond if supplies like masks, face shields, and
   other protective equipment run out; and U.S. intelligence agencies issued classified
   warnings in January and February about the global danger posed by the coronavirus.
-category: trump
 ---
 
 1/ **The World Health Organization: "The pandemic is accelerating."** Tedros Adhanom Ghebreyesus, the director-general of WHO, said “It took 67 days from the first reported case to reach 100,000 cases, 11 days for second 100,000 cases, and just four days for the third 100,000 cases." More than 34,000 people have contracted the virus in the U.S., and at least 485 people have died. Worldwide, the number of confirmed coronavirus cases is nearing 350,000, with at least 15,000 deaths. ([CNBC](https://www.cnbc.com/2020/03/23/coronavirus-pandemic-is-accelerating-as-cases-eclipse-350000-who-says.html) / [CBS News](https://www.cbsnews.com/live-updates/coronavirus-disease-covid-19-latest-news-deaths-2020-03-23/))

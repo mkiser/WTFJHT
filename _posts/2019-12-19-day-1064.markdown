@@ -1,6 +1,8 @@
 ---
 title: Day 1064
 date: 2019-12-19 10:16:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: Counterpunch.
@@ -12,7 +14,6 @@ todayInOneSentence: House Speaker Nancy Pelosi won't commit to sending the artic
   Agreement; the Senate passed a $1.4 trillion spending package to fund the government
   through the rest of the fiscal year; and Trump implied that the late Rep. John Dingell
   is "looking up" from hell while also mocking his widow.
-category: trump
 ---
 
 1/ **House Speaker Nancy Pelosi won't commit to sending the articles of impeachment against Trump to the Senate until she sees "the process that is set forth" to ensure a "fair" trial**. Democrats have questioned the impartiality of the Senate trial after Mitch McConnell said he's coordinating with the White House to quickly acquit Trump. Senior Democratic aides suggested it was "very unlikely" that the House will send the articles to the Senate before January, effectively delaying the impeachment trial well into the new year, in order to pressure Republicans to allow new witnesses and evidence in the proceeding. "We cannot name managers until we see what the process is on the Senate side," Pelosi said. "So far we haven't seen anything that looks fair to us." ([New York Times](https://www.nytimes.com/2019/12/19/us/politics/impeachment-trump-senate-trial.html) / [ABC News](https://abcnews.go.com/Politics/pelosi-sending-impeachment-articles-senate-sees-details-trial/story?id=67824327) / [Politico](https://www.politico.com/news/2019/12/19/pelosi-withhold-impeachment-articles-senate-087936) / [CNN](https://www.cnn.com/2019/12/18/politics/nancy-pelosi-sending-impeachment-articles-senate/index.html) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/pelosi-says-house-will-wait-send-impeachment-articles-senate-clarity-n1104741) / [Washington Post](https://www.washingtonpost.com/politics/trump-impeachment-live-updates/2019/12/19/0b2d8c0c-21fe-11ea-a153-dce4b94e4249_story.html) / [Wall Street Journal](https://www.wsj.com/articles/after-house-impeaches-trump-timing-of-next-steps-is-unclear-11576755097) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-12-19/mcconnell-trump-blast-pelosi-over-possible-impeachment-delay))

@@ -1,9 +1,10 @@
 ---
 title: Day 203
 date: 2017-08-10 08:07:00 -07:00
+categories:
+- trump
 description: Follow the money.
 image: "/uploads/203.jpg"
-category: trump
 ---
 
 1/ **Federal investigators have sought the cooperation of Paul Manafort’s son-in-law** in an effort to gain leverage over Trump’s former campaign chairman and turn him into a cooperating witness. Jeffrey Yohai, who hasn't been accused of wrongdoing, is a business partner of Manafort's. It's unclear if investigators have secured Yohai's cooperation. Manafort is a focus in the investigations into Russian meddling in the 2016 presidential campaign. He and Yohai are also under investigation for some of their business and real estate transactions. ([Politico](http://www.politico.com/story/2017/08/09/manafort-fbi-son-law-241464))

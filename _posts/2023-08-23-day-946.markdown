@@ -1,6 +1,8 @@
 ---
 title: Day 946
 date: 2023-08-23 14:25:00 -07:00
+categories:
+- biden
 description: '"Very, very honored."'
 image: "/uploads/day-946-biden.jpg"
 todayInOneSentence: 'Rudy Giuliani surrendered to Georgia authorities and was booked
@@ -11,7 +13,6 @@ todayInOneSentence: 'Rudy Giuliani surrendered to Georgia authorities and was bo
   after roughly six weeks of pregnancy; the first Republican presidential debate begins
   at 9 p.m. Eastern time tonight; and 12% of potential Republican primary voters support
   Ron DeSantis, while 52% support Trump and 8% support Vivek Ramaswamy. '
-category: biden
 ---
 
 1/ **Rudy Giuliani surrendered to Georgia authorities and was booked on charges that he illegally conspired to overturn Trump’s 2020 election loss in the state**. Giuliani, who was released on $150,000 bond, told reporters that he was "very, very honored to be involved in this case because this case is a fight for our way of life. This indictment is a travesty.” He added: “If they can do this to me, they can do this to you." Meanwhile, Trump-allied Sidney Powell also surrendered to authorities at the Fulton County Jail. Trump is expected to surrender on Thursday. ([Washington Post](https://www.washingtonpost.com/national-security/2023/08/23/trump-indictment-georgia/) / [Associated Press](https://apnews.com/article/trump-giuliani-georgia-election-indictment-fulton-county-203b1e69cbff227a0bf8cc59a6bb645f) / [ABC News](https://abcnews.go.com/US/live-updates/trump-georgia-surrender/?id=102463778) / [NBC News](https://www.nbcnews.com/politics/2020-election/giuliani-surrender-authorities-georgia-election-probe-rcna101372) / [New York Times](https://www.nytimes.com/2023/08/23/us/trump-giuliani-georgia-surrender.html) / [CNN](https://www.cnn.com/2023/08/23/politics/giuliani-fulton-county/index.html) / [CNBC](https://www.cnbc.com/2023/08/23/trump-lawyer-rudy-giuliani-to-surrender-in-georgia-election-case.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-08-23/giuliani-heading-to-atlanta-ahead-of-aug-25-surrender-deadline?srnd=premium&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/us-news/rudy-giuliani-turns-himself-in-for-booking-in-georgia-629a322d?mod=wknd_pos1))

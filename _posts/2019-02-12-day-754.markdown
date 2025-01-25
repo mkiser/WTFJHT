@@ -1,6 +1,8 @@
 ---
 title: Day 754
 date: 2019-02-12 08:18:00 -08:00
+categories:
+- trump
 description: Not happy.
 image: "/uploads/754.jpg"
 todayInOneSentence: Negotiators in the House and Senate reached an agreement to avoid
@@ -8,7 +10,6 @@ todayInOneSentence: Negotiators in the House and Senate reached an agreement to 
   deal; the White House, meanwhile, is working on a plan to redirect federal dollars
   to fund Trump's border wall without invoking a national emergency; and a former
   White House aide is suing Trump.
-category: trump
 ---
 
 1/ **Negotiators in the House and Senate reached an agreement "in principle" to avoid another partial government shutdown.** Details of the agreement have not been released, but the tentative deal includes $1.375 billion for 55 miles of fences along the border, but does not include the $5.7 billion Trump wanted for more than 200 miles of border walls. The border security spending agreement would also provide an additional $1.7 billion for other Homeland Security priorities, like new technology and more customs officers. To avoid another shutdown by the end of the week, the deal needs to be written into final legislation, passed by both the House and Senate, and signed into law by Trump. It's unclear if Trump will accept the deal. ([New York Times](https://www.nytimes.com/2019/02/11/us/politics/shutdown-deal.html) / [CNN](https://www.cnn.com/2019/02/11/politics/shutdown-negotiations-agreement-reached-congress-border-security/index.html) / [Washington Post](http://www.washingtonpost.com/business/economy/top-lawmakers-meet-to-revive-stalled-border-talks-with-shutdown-days-away/2019/02/11/3cd0fc1a-2dff-11e9-813a-0ab2f17e305b_story.html) / [Politico](https://www.politico.com/story/2019/02/11/shutdown-congress-border-security-1163824) / [NBC News](https://www.nbcnews.com/politics/congress/top-appropriators-meet-over-stalled-border-talks-shutdown-deadline-approaches-n970046) / [ABC News](https://abcnews.go.com/Politics/negotiators-reach-agreement-principle-avoid-government-shutdown/story?id=61007755) / [NPR](https://www.npr.org/2019/02/11/693751614/agreement-in-principle-reached-on-border-security-funding-top-republican-says))

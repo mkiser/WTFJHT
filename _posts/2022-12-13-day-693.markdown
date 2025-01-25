@@ -1,6 +1,8 @@
 ---
 title: Day 693
 date: 2022-12-13 14:53:00 -08:00
+categories:
+- biden
 description: '"Point of no return."'
 image: "/uploads/day-693-biden.jpg"
 todayInOneSentence: Biden signed into law a bipartisan bill that codifies same-sex
@@ -10,7 +12,6 @@ todayInOneSentence: Biden signed into law a bipartisan bill that codifies same-s
   involving Trump; the Jan. 6 committee will hold its final public meeting on Monday
   and will vote on whether to refer any individuals to the Justice Department for
   prosecution; and inflation rose less than expected in November.
-category: biden
 ---
 
 1/ **Biden signed into law a bipartisan bill that codifies same-sex and interracial marriages**. The landmark legislation replaces the Defense of Marriage Act – which defined marriage as between a man and a woman – with the Respect for Marriage Act, which prohibits states from denying the validity of out-of-state marriages based on sex, race or ethnicity. The legislation, however, doesn't require states to issue marriage licenses for same-sex couples. “The road to this moment has been long, but those who believe in equality and justice, you never gave up,” Biden said, adding: “We got it done. We’re going to continue the work ahead. I promise you.” ([NPR](https://www.npr.org/2022/12/13/1142331501/biden-to-sign-respect-for-marriage-act-reflecting-his-and-the-countrys-evolution) / [New York Times](https://www.nytimes.com/2022/12/13/us/politics/biden-same-sex-marriage-bill.html) / [Wall Street Journal](https://www.wsj.com/articles/biden-to-sign-legislation-protecting-same-sex-marriage-11670938183?mod=politics_lead_pos2))

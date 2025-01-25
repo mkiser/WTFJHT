@@ -1,6 +1,8 @@
 ---
 title: Day 1019
 date: 2019-11-04 09:32:00 -08:00
+categories:
+- trump
 tags:
 - impeachment
 description: Threatened.
@@ -15,7 +17,6 @@ todayInOneSentence: Interview notes from Robert Mueller's special counsel invest
   and corporate tax returns to Manhattan prosecutors; and the Trump administration
   formally notified the United Nations that the U.S. is withdrawing from the Paris
   climate agreement.
-category: trump
 ---
 
 1/ **Interview notes from Robert Mueller's special counsel investigation were released after CNN and BuzzFeed News sued the government** to see all the work that Mueller's team kept secret. In response to a court order, the Justice Department released the first installment of documents, known as 302s, which memorialize interviews conducted by the office with witnesses and include hundreds of pages of FBI interview summaries. Per the judge's order, the Justice Department will continue to release new tranches of Mueller's investigative notes every month for at least the next eight years. ([CNN](https://www.cnn.com/2019/11/02/politics/mueller-investigation-notes-trump-stolen-emails/index.html) / [BuzzFeed News](https://www.buzzfeednews.com/article/jasonleopold/mueller-report-secret-memos-1))

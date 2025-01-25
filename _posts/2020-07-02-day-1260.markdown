@@ -1,6 +1,8 @@
 ---
 title: Day 1260
 date: 2020-07-02 14:50:00 -07:00
+categories:
+- trump
 description: '"We are not flattening the curve right now."'
 image: "/uploads/1260.jpg"
 todayInOneSentence: The United States set a single-day coronavirus case record for
@@ -9,7 +11,6 @@ todayInOneSentence: The United States set a single-day coronavirus case record f
   Americans filed unemployment claims last week; the Congressional Budget Office's
   10-year forecast expects the U.S. unemployment rate to stay above its pre-pandemic
   levels through the end of 2030; and 50% of voters have ruled out voting for Trump.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

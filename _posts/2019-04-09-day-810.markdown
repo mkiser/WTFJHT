@@ -1,6 +1,8 @@
 ---
 title: Day 810
 date: 2019-04-09 11:04:00 -07:00
+categories:
+- trump
 description: A mess.
 image: "/uploads/810.jpg"
 todayInOneSentence: Trump recently put Stephen Miller "in charge" of the administration's
@@ -11,7 +13,6 @@ todayInOneSentence: Trump recently put Stephen Miller "in charge" of the adminis
   asylum-seekers; and Trump denied that he's planning to resume separating migrant
   families at the U.S.-Mexico border, despite pushing then-Department of Nielsen to
   reinstitute a "zero-tolerance" immigration policy for months.
-category: trump
 ---
 
 1/ **Trump recently put Stephen Miller "in charge" of the administration's immigration policy "and he's executing his plan" to clean house at the Department of Homeland Security**. "There is a near-systematic purge happening," one official said. Miller has been arguing to bring in more like-minded hardline immigration reform advocates, with the senior White House adviser reportedly calling federal departments and agencies to demand that they do more to stop the flow of immigrants. ([Wall Street Journal](https://www.wsj.com/articles/white-house-seeks-tighter-grip-on-immigration-policy-11554757291) / [Politico](https://www.politico.com/story/2019/04/07/stephen-miller-trump-immigration-1260431) / [CNN](https://www.cnn.com/2019/04/08/politics/miller-nielsen-trump-immigration-homeland-security/index.html))

@@ -1,6 +1,8 @@
 ---
 title: Day 1331
 date: 2020-09-11 14:41:00 -07:00
+categories:
+- trump
 description: '"Corrupt and politically motivated favor."'
 image: "/uploads/1331.jpg"
 todayInOneSentence: Trump claimed that the U.S. is “rounding the corner” on the coronavirus
@@ -12,7 +14,6 @@ todayInOneSentence: Trump claimed that the U.S. is “rounding the corner” on 
   a “corrupt and politically motivated favor” done in response to pressure by Trump;
   and 62% of Americans fear that political pressure from Trump will cause the FDA
   to approve a coronavirus vaccine.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

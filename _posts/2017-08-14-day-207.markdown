@@ -1,9 +1,10 @@
 ---
 title: Day 207
 date: 2017-08-14 08:02:00 -07:00
+categories:
+- trump
 description: On many sides.
 image: "/uploads/207.jpg"
-category: trump
 ---
 
 1/ **The White House issued a statement criticizing white supremacists for the violence that led to one death in Charlottesville more than 36 hours after the protests began**. It was meant to clarify Trump's earlier remarks and condemn “all forms of violence, bigotry and hatred” and “of course that includes white supremacists, KKK, Neo-Nazi and all extremist groups.” The statement came in an email sent to reporters and attributed to an unnamed representative. Trump had previously said: "We condemn in the strongest possible terms this egregious display of hatred, bigotry and violence on many sides, on many sides." ([New York Times](https://www.nytimes.com/2017/08/13/us/charlottesville-protests-white-nationalists-trump.html) / [CNN](http://www.cnn.com/2017/08/12/politics/trump-statement-alt-right-protests/index.html))

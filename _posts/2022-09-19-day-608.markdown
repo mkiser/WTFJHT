@@ -1,6 +1,8 @@
 ---
 title: Day 608
 date: 2022-09-19 14:54:00 -07:00
+categories:
+- biden
 description: '"The pandemic is over?"'
 image: "/uploads/day-608-biden.jpg"
 todayInOneSentence: Biden said he believes "the pandemic is over"; Virginia Gov. Glenn
@@ -10,7 +12,6 @@ todayInOneSentence: Biden said he believes "the pandemic is over"; Virginia Gov.
   firm started turning over documents to the House Oversight Committee; and at least
   a dozen Republican candidates for governor and Senate wouldn't commit to accepting
   the results of their contests.
-category: biden
 ---
 
 1/ **Biden said he believes "the pandemic is over"** despite the U.S. [recording](https://coronavirus.jhu.edu/map.html) more than 2 million Covid-19 cases and more than 12,000 deaths  in the last 28 days. The declaration was an apparent off-the-cuff remark and not part of Biden's planned remarks, and come as his administration seeks an additional $22.4 billion from Congress for coronavirus vaccines, tests, and treatments. Biden, however, acknowledged that the U.S. still has a "problem" with the coronavirus that has killed more than 1 million Americans. Further, the federal government still designates Covid-19 a Public Health Emergency, and the WHO says it remains a Public Health Emergency of International Concern. “We are not there yet but the end is in sight,” said Tedros Adhanom Ghebreyesus, director general of the WHO. “We can see the finish line, but now is the worst time to stop running.” ([Politico](https://www.politico.com/news/2022/09/18/joe-biden-pandemic-60-minutes-00057423) / [Washington Post](https://www.washingtonpost.com/health/2022/09/18/biden-covid-pandemic-over/) / [CNN](https://www.cnn.com/2022/09/18/politics/biden-pandemic-60-minutes/index.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/-pandemic-biden-says-rcna48266) / [NPR](https://www.npr.org/2022/09/19/1123767437/joe-biden-covid-19-pandemic-over) / [Wall Street Journal](https://www.wsj.com/articles/biden-draws-criticism-for-saying-pandemic-is-over-11663601633?mod=hp_lead_pos3))

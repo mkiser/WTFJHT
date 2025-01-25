@@ -1,6 +1,8 @@
 ---
 title: Day 1320
 date: 2020-08-31 14:46:00 -07:00
+categories:
+- trump
 description: '"Recklessly encouraging violence."'
 image: "/uploads/1320.jpg"
 todayInOneSentence: The Director of National Intelligence will no longer give Congress
@@ -12,7 +14,6 @@ todayInOneSentence: The Director of National Intelligence will no longer give Co
   with Russia and secretly narrowed the investigation into Russian election interference;
   and Trump praised a right-wing caravan of supporters in Portland who had fired paint
   and pellet guns at protesters.
-category: trump
 ---
 
 💌 ***Send me a handwritten postcard or letter** with advice for the future generation about wtf has happened over the last four years and what needs to be done.*

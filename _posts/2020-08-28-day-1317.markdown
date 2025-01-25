@@ -1,6 +1,8 @@
 ---
 title: Day 1317
 date: 2020-08-28 14:54:00 -07:00
+categories:
+- trump
 description: '"Profoundly."'
 image: "/uploads/1317.jpg"
 todayInOneSentence: Trump's effort to block a subpoena for his financial records would
@@ -13,7 +15,6 @@ todayInOneSentence: Trump's effort to block a subpoena for his financial records
   is going to catch this thing eventually"; and thousands of demonstrators marched
   on Washington demanding an end to systemic racism while honoring the 57th anniversary
   of the Rev. Martin Luther King Jr.’s “I Have a Dream” address.
-category: trump
 ---
 
 💌 ***Send me a handwritten postcard or letter** with advice for the future generation about wtf has happened over the last four years and what needs to be done.*

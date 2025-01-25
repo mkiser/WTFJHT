@@ -1,6 +1,8 @@
 ---
 title: Day 1322
 date: 2020-09-02 15:05:00 -07:00
+categories:
+- trump
 description: '"Why would he do this?"'
 image: "/uploads/1322.jpg"
 todayInOneSentence: The CDC directed states to prepare to distribute a coronavirus
@@ -10,7 +12,6 @@ todayInOneSentence: The CDC directed states to prepare to distribute a coronavir
   face masks and personal protective equipment in nonemergency settings; and the Department
   of Homeland Security withheld an intelligence bulletin warning of a Russian campaign
   to spread misinformation about Joe Biden's mental health.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

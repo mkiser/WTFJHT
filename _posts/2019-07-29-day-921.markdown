@@ -1,6 +1,8 @@
 ---
 title: Day 921
 date: 2019-07-29 09:35:00 -07:00
+categories:
+- trump
 tags:
 - impeachment
 description: Critical.
@@ -12,7 +14,6 @@ todayInOneSentence: Trump called Elijah Cummings a "brutal bully" and his Baltim
   of national intelligence next month; and the Supreme Court ruled that the Trump
   administration can use $2.5 billion in Pentagon money to expand the border wall
   with Mexico.
-category: trump
 ---
 
 1/ **Trump called Elijah Cummings a "brutal bully" and his Baltimore-based district a "disgusting, rat and rodent infested mess"** that "is considered the worst run and most dangerous anywhere in the United States. No human being would want to live there." Trump also called Cummings, a black civil rights icon, a "racist." Trump's tweets appeared to be in response to a Fox & Friends segment on the same topic that ran earlier in the day, which included images of rundown and neglected apartment buildings in Baltimore. As chairman of the House Oversight and Reform Committee, Cummings has initiated most of the investigations into the Trump administration. Last week, Cummings was authorized to subpoena work-related text and emails by White House officials, including Ivanka Trump and Jared Kushner. Trump called Cummings' "radical 'oversight' \[...\] a joke!" ([Baltimore Sun](https://www.baltimoresun.com/politics/bs-md-pol-cummings-trump-20190727-chty2yovtvfzfcjkeaui7wm5zi-story.html) / [New York Times](https://www.nytimes.com/2019/07/27/us/politics/trump-elijah-cummings.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-attacks-rep-cummingss-district-calling-it-a-disgusting-rat-and-rodent-infested-mess/2019/07/27/b93c89b2-b073-11e9-bc5c-e73b603e7f38_story.html) / [Washington Post](https://www.washingtonpost.com/politics/louder-and-more-hateful-big-city-leaders-say-trumps-attacks-on-baltimore-are-escalation-of-his-strategy-to-denigrate-diverse-liberal-areas/2019/07/28/45448ad0-b16a-11e9-951e-de024209545d_story.html) / [The Hill](https://thehill.com/homenews/administration/455034-trump-doubles-down-on-attacks-against-cummings-and-baltimore-area))

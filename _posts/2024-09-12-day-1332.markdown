@@ -1,6 +1,8 @@
 ---
 title: Day 1332
 date: 2024-09-12 13:23:00 -07:00
+categories:
+- biden
 description: '"Void for vagueness."'
 image: "/uploads/day-1332-biden-harris.jpg"
 todayInOneSentence: A North Dakota judge struck down the state's abortion ban; an
@@ -8,7 +10,6 @@ todayInOneSentence: A North Dakota judge struck down the state's abortion ban; a
   case; the New York Court of Appeals rejected Trump’s efforts to overturn the gag
   order in his New York criminal case; and Trump ruled out another debate with Kamala
   Harris.
-category: biden
 ---
 
 1/ **A North Dakota judge struck down the state's abortion ban**, saying the state constitution creates a “fundamental right” to access abortion before a fetus is viable and restrictions on that right is “a violation on medical freedom.” Judge Bruce Romanick ruled that the abortion ban – one of the strictest in the U.S. – was “unconstitutionally void for vagueness.” The law, enacted by the legislature last year, made the procedure illegal in all cases except rape or incest but only when the woman has been pregnant for less than six weeks, or to “prevent the death or health risk to the pregnant female.” It’s the second time in two years that Romanick has overturned the state’s ban on abortion. ([Washington Post](https://www.washingtonpost.com/nation/2024/09/12/north-dakota-abortion-ban-overturned/) / [NBC News](https://www.nbcnews.com/politics/politics-news/north-dakota-judge-strikes-state-abortion-ban-rcna170875) / [New York Times](https://www.nytimes.com/2024/09/12/us/north-dakota-abortion-ban-overturned.html) / [Axios](https://www.axios.com/2024/09/12/north-dakota-abortion-ban))

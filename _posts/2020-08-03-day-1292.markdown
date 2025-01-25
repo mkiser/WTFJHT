@@ -1,6 +1,8 @@
 ---
 title: Day 1292
 date: 2020-08-03 14:57:00 -07:00
+categories:
+- trump
 description: '"Extraordinarily widespread."'
 image: "/uploads/1292.jpg"
 todayInOneSentence: Dr. Deborah Birx warned that the country is in a "new phase" of
@@ -9,7 +11,6 @@ todayInOneSentence: Dr. Deborah Birx warned that the country is in a "new phase"
   District Attorney's office suggested that it's investigating Trump and his company
   for bank and insurance fraud; and Trump threatened legal action after Nevada’s Legislature
   passed a bill to automatically send mail-in ballots to all active voters.
-category: trump
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

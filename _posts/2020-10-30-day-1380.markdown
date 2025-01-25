@@ -1,6 +1,8 @@
 ---
 title: Day 1380
 date: 2020-10-30 14:32:00 -07:00
+categories:
+- trump
 description: '"Shock and awe."'
 image: "/uploads/1380.jpg"
 todayInOneSentence: The U.S. set another pandemic record with 90,456 new COVID-19
@@ -12,7 +14,6 @@ todayInOneSentence: The U.S. set another pandemic record with 90,456 new COVID-1
   political agenda on the coronavirus; and Trump canceled his campaign’s election
   night party at the Trump International Hotel because gatherings of more than 50
   people in Washington are prohibited by the city.
-category: trump
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

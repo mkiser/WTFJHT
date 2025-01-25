@@ -1,6 +1,8 @@
 ---
 title: Day 645
 date: 2022-10-26 14:30:00 -07:00
+categories:
+- biden
 description: '"More bad news for the planet."'
 image: "/uploads/day-645-biden.jpg"
 todayInOneSentence: Earth’s on track to warm above 2 degrees Celsius and  global reductions
@@ -12,7 +14,6 @@ todayInOneSentence: Earth’s on track to warm above 2 degrees Celsius and  glob
   Samuel Alito said the leak of his draft opinion eliminating the constitutional right
   to abortion after almost 50 years made some justices “targets for assassination”;
   and 65% of registered Republican voters don't believe Biden was elected legitimately.
-category: biden
 ---
 
 1/ **Earth’s on track to warm above 2 degrees Celsius and  global reductions in greenhouse gas emissions are "nowhere near the scale" needed**, according to a new report from the United Nations Framework Convention on Climate Change. Under the current, combined climate pledges from the 193 Parties under the Paris Agreement, global temperatures are on track to rise to 2.5 degrees Celsius above pre-industrial averages by the end of the century – a full degree higher than the goal set out in the climate pact, which aimed to limit warming by 1.5 degrees Celsius. The U.N. said that while countries are “bending the curve of global greenhouse gas emissions downward,” the efforts “remain insufficient" and “to keep this goal alive, national governments need to strengthen their climate action plans now and implement them in the next eight years.” ([NBC News](https://www.nbcnews.com/news/world/world-emissions-paris-climate-targets-un-report-rcna54044) / [New York Times](https://www.nytimes.com/2022/10/26/climate/un-climate-pledges-warming.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-10-26/global-warming-to-hit-catastrophic-2c-even-if-governments-meet-climate-targets?srnd=politics-vp&sref=MIBMEEoj) / [CNBC](https://www.cnbc.com/2022/10/26/emissions-reductions-pledges-nowhere-near-whats-needed-un-says-.html))

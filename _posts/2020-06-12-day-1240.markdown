@@ -1,6 +1,8 @@
 ---
 title: Day 1240
 date: 2020-06-12 11:05:00 -07:00
+categories:
+- trump
 description: '"There''s no strategy."'
 image: "/uploads/1240.jpg"
 todayInOneSentence: The Chairman of the Joint Chiefs of Staff did not tell the White
@@ -11,7 +13,6 @@ todayInOneSentence: The Chairman of the Joint Chiefs of Staff did not tell the W
   barred from buying them; Trump's advisers have urged him to fire his campaign manager;
   and people who attend Trump’s rally next week in Tulsa have to sign a waiver promising
   that they will not sue if they contract COVID-19 while at the event.
-category: trump
 ---
 
 * ### 😷 Dept. of We Have It Totally Under Control.

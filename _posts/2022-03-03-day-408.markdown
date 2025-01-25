@@ -1,6 +1,8 @@
 ---
 title: Day 408
 date: 2022-03-03 13:05:00 -08:00
+categories:
+- biden
 description: '"A criminal conspiracy to defraud the United States."'
 image: "/uploads/day-408-03032022.png"
 todayInOneSentence: The Jan. 6 committee says Trump and his allies "engaged in a criminal
@@ -11,7 +13,6 @@ todayInOneSentence: The Jan. 6 committee says Trump and his allies "engaged in a
   announced it would investigate the parents of trans children for child abuse; and
   the White House imposed new sanctions on eight Russian oligarchs and their families.
 author: Joe Amditis
-category: biden
 ---
 
 1/ **The House select committee tasked with investigating the Jan. 6 insurrection says Trump violated multiple laws in an attempt to overturn the 2020 election.** In a major release of its findings filed in federal court late Wednesday, the committee alleges that Trump and his allies "engaged in a criminal conspiracy to defraud the United States" and that Trump himself violated multiple laws by trying to block Congress from certifying the results of the election. In 16 accompanying exhibits, the panel showcased testimony it received from key figures in Trump-world. The release of the findings is part of a legal effort to force John Eastman, a Trump attorney who played a crucial role in crafting Trump’s strategy to subvert the 2020 election, to turn over thousands of emails that the committee believes connect various elements of the scheme. Eastman says turning over the emails would violate attorney-client privilege, but the panel says Eastman’s privilege claim was potentially voided by the "crime/fraud exception," which says communications aren't protected if an attorney is found to be assisting their client in the commission of a crime. The committee has no authority to initiate criminal proceedings. ([Politico](https://www.politico.com/news/2022/03/02/jan6-trump-obstruction-justice-00013440) / [CNN](https://www.cnn.com/2022/03/02/politics/trump-criminal-conspiracy-defraud-january-6-committee/index.html) / [Washington Post](https://www.washingtonpost.com/politics/2022/03/02/eastman-pence-trump-jan-6/) / [Associated Press](https://apnews.com/article/capitol-siege-crime-donald-trump-united-states-presidential-elections-d6f316446682ea36e85e2fc4e0581a87) / [NBC News](https://www.nbcnews.com/politics/donald-trump/jan-6-panel-argues-trump-was-involved-criminal-conspiracy-overturn-ele-rcna18465))

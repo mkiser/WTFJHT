@@ -1,6 +1,8 @@
 ---
 title: Day 1161
 date: 2020-03-25 15:02:00 -07:00
+categories:
+- trump
 description: '"Critical to maintaining national security."'
 image: "/uploads/1161.jpg"
 todayInOneSentence: Senators reached an agreement on a $2 trillion stimulus package
@@ -9,7 +11,6 @@ todayInOneSentence: Senators reached an agreement on a $2 trillion stimulus pack
   coronavirus stimulus package; the Trump administration has not released unemployment
   funds to three states Trump has formally declared coronavirus disaster areas; and
   the global death toll from the new coronavirus surpassed 20,000.
-category: trump
 ---
 
 * ***Editor's note**: The White House coronavirus task force briefing just started and a last-minute dispute over unemployment aid is delaying a Senate vote on the aid package. Per usual, who the f\*ck knows what's going to happen. So instead of waiting indefinitely, here we go instead*.

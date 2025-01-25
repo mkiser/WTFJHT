@@ -1,6 +1,8 @@
 ---
 title: Day 945
 date: 2023-08-22 15:03:00 -07:00
+categories:
+- biden
 description: '"A tremendous courtesy."'
 image: "/uploads/day-945-biden.jpg"
 todayInOneSentence: The Trump lawyer who led efforts to overturn the 2020 election
@@ -14,7 +16,6 @@ todayInOneSentence: The Trump lawyer who led efforts to overturn the 2020 electi
   and puberty blockers for transgender youth; and 51% of likely Iowa Republican caucusgoers
   believe Trump’s claims that he won the 2020 presidential election despite no evidence
   of widespread election fraud.
-category: biden
 ---
 
 1/ **The Trump lawyer who led efforts to overturn the 2020 election surrendered at the Fulton County jail**. John Eastman was the second of 19 co-defendants to turn himself in. He faces nine counts charges, including racketeering, conspiracy to commit forgery, and filing false documents. Eastman maintained that there was “no question in my mind” that the 2020 election was “absolutely” stolen. Trump, meanwhile, said he intends to surrender in Georgia on Thursday to face the 13 felony counts related to efforts to overturn the state's 2020 presidential election result. ([CNBC](https://www.cnbc.com/2023/08/22/trump-ally-john-eastman-surrenders-at-georgia-jail-in-election-case.html) / [The Hill](https://thehill.com/regulation/court-battles/4164272-john-eastman-surrenders-in-georgia-election-case/) / [Associated Press](https://apnews.com/article/trump-bond-georgia-election-indictment-79dbb26a14b5a4ccfc1472d6d3eacd2b) / [NBC News](https://www.nbcnews.com/politics/donald-trump/live-blog/trump-indictment-arrest-live-updates-rcna100650) / [ABC News](https://abcnews.go.com/Politics/bail-bondsman-1st-surrender-georgia-election-interference-case/story?id=102449200) / [Wall Street Journal](https://www.wsj.com/us-news/donald-trumps-bail-set-at-200-000-in-georgia-election-case-8720b5f3?mod=politics_lead_pos1) / [Politico](https://www.politico.com/news/2023/08/21/trump-booked-in-atlanta-00112189) / [NPR](https://www.npr.org/2023/08/21/1195080489/donald-trump-georgia-booking))

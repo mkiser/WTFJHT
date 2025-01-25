@@ -1,6 +1,8 @@
 ---
 title: Day 655
 date: 2018-11-05 13:35:00 -08:00
+categories:
+- trump
 description: Political stunt.
 image: "/uploads/655.jpg"
 todayInOneSentence: Democrats are expected to take control of the House of Representatives
@@ -8,7 +10,6 @@ todayInOneSentence: Democrats are expected to take control of the House of Repre
   control of the House; some polls, however, show the Democratic edge shrinking; at
   least 31 million people have voted early nationwide; and U.S. intelligence officials
   have seen no evidence of any attempts to tamper with the midterm election systems.
-category: trump
 ---
 
 **Today in one sentence**: Democrats are expected to take control of the House of Representatives but fall short in the Senate; national polls show that 55% of voters prefer Democratic control of the House; some polls, however, show the Democratic edge shrinking; at least 31 million people have voted early nationwide; and U.S. intelligence officials have seen no evidence of any attempts to tamper with the midterm election systems.

@@ -1,6 +1,8 @@
 ---
 title: Day 1404
 date: 2020-11-23 14:10:00 -08:00
+categories:
+- trump
 description: '"A monster."'
 image: "/uploads/1404.jpg"
 todayInOneSentence: The General Services Administration formally recognized Biden
@@ -13,7 +15,6 @@ todayInOneSentence: The General Services Administration formally recognized Bide
   foreign policy and national security team; a third COVID-19 vaccine is reportedly
   highly effective; Trump Jr. tested positive for the coronavirus; and Trump skipped
   the G-20 summit’s “Pandemic Preparedness and Response” event to play golf.
-category: trump
 ---
 
 1/ **The General Services Administration formally recognized Biden as the winner of the 2020 presidential election** – more than two weeks after securing the electoral votes necessary to win the White House. Emily Murphy, the Trump appointee who runs the GSA, faced weeks of criticism from Democrats, national security, and health experts, who argued that delaying the formal transition was hampering the incoming Biden administration from receiving classified briefings and preparing for the distribution of a coronavirus vaccine. In a letter to Biden, Murphy said she was “never directly or indirectly pressured by any Executive Branch official — including those who work at the White House or the G.S.A.” Biden is now able to access millions of dollars in federal funds and resources to begin his transition to power. Trump, meanwhile, tweeted that he had recommended that the GSA begin "initial protocols" for the transition. Trump also said he was not conceding. ([Washington Post](https://www.washingtonpost.com/elections/2020/11/23/joe-biden-trump-transition-live-updates/) / [New York Times](https://www.nytimes.com/live/2020/11/23/us/joe-biden-trump/the-gsa-administrator-has-formally-designated-biden-the-apparent-winner-of-the-presidential-election) / [Politico](https://www.politico.com/news/2020/11/23/gsa-acknowledges-biden-victory-kicking-off-transfer-of-power-439875) / [NPR](https://www.npr.org/2020/11/23/937956178/trump-administration-to-begin-biden-transition-protocols) / [NBC News](https://www.nbcnews.com/politics/politics-news/trump-administration-officially-authorizes-biden-transition-n1248726) / [Wall Street Journal](https://www.wsj.com/articles/democrats-pressure-gsa-to-name-biden-winner-start-transition-11606172086?mod=hp_lead_pos1))

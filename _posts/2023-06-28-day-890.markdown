@@ -1,6 +1,8 @@
 ---
 title: Day 890
 date: 2023-06-28 14:41:00 -07:00
+categories:
+- biden
 description: '"Very unhealthy."'
 image: "/uploads/day-890-biden.jpg"
 todayInOneSentence: Roughly 87 million people in 17 states – representing nearly a
@@ -13,7 +15,6 @@ todayInOneSentence: Roughly 87 million people in 17 states – representing near
   Gov. Ron DeSantis; 30% of voters say the economy is the most important to issue
   in the 2024 presidential election; and 60% of Americans say gun violence is a "very
   big problem" in the country.
-category: biden
 ---
 
 1/ **Roughly 87 million people in 17 states – representing nearly a third of the American population – are at risk for poor air quality as smoke from the Canadian wildfires spreads**. Chicago, Detroit, Indianapolis, Milwaukee, Minneapolis, Pittsburgh were among the cities with the worst air quality in the world, leading the EPA to warn “everyone should stay indoors” as the air quality indexes fell into the “very unhealthy” category. The smoke is the result of one of Canada’s worst wildfire seasons in decades, with more than 19 million acres of land already burned this year. There were nearly 500 active wildfires burning in Canada as of this morning, with more than 250 burning out of control. Wildfires in the U.S. have been growing in frequency, duration, and intensity due in part to human-caused climate change. The United Nations has also warned that a similar trend is occurring worldwide. Elsewhere, another 69 million people face heat alerts in the South, Southeast, and parts of the Midwest and California. ([NBC News](https://www.nbcnews.com/news/us-news/live-blog/poor-air-quality-live-updates-rcna91545) / [Wall Street Journal](https://www.wsj.com/articles/air-quality-wildfire-smoke-midwest-east-coast-c0313115?mod=hp_lead_pos10) / [NPR](https://www.npr.org/2023/06/28/1184812177/chicago-detroit-pittsburgh-canada-wildfire-smoke) / [Washington Post](https://www.washingtonpost.com/weather/2023/06/28/canada-wildfire-smoke-detroit-chicago-east-coast/) / [New York Times](https://www.nytimes.com/live/2023/06/28/us/canada-wildfires-air-quality-smoke) / [Associated Press](https://apnews.com/article/canada-wildfire-smoke-832caae1e622b10766521598fccc6e63))

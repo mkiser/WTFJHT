@@ -1,9 +1,10 @@
 ---
 title: Day 417
 date: 2018-03-12 09:10:00 -07:00
+categories:
+- trump
 description: 'Still intends to cooperate. '
 image: "/uploads/417.jpg"
-category: trump
 ---
 
 1/ **Trump still "intends to" meet with special counsel Robert Mueller under oath**, according to White House principal deputy press secretary Raj Shah. He added that Trump doesn't plan on firing Mueller, yet. "There's no intention whatsoever to fire Robert Mueller, the special counsel, right now," he said. "We've been fully cooperative. We respect their process. We're hoping it will come to a conclusion in the near future." ([ABC News](http://abcnews.go.com/Politics/trump-intends-meet-special-counsel-oath-white-house/story?id=53658533))

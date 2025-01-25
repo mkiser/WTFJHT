@@ -1,6 +1,8 @@
 ---
 title: Day 31
 date: 2021-02-19 14:36:00 -08:00
+categories:
+- biden
 description: '"We have a lot to do."'
 image: "/uploads/31-biden-nato.jpg"
 todayInOneSentence: The United States officially returned to the Paris climate accord;
@@ -11,7 +13,6 @@ todayInOneSentence: The United States officially returned to the Paris climate a
   an expert on white-collar crime to investigate Trump and the Trump Organization;
   and the U.S. Capitol Police suspended six officers with pay for their actions during
   the Jan. 6 riot at the Capitol.
-category: biden
 ---
 
 1/ **The United States officially returned to the Paris climate accord**, four years [after](https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/#1-trump-will-withdraw-from-the-paris) the Trump administration abandoned the global climate pact. "This is a global existential crisis," Biden said. "We can no longer delay or do the bare minimum to address climate change." Under the terms of the agreement, the U.S. would reduce its emissions by about 25% by 2025. The country, however, is only on track to achieve about a 17% reduction and Biden has promised to chart a path toward net-zero U.S. emissions by 2050. “We know that just doing Paris is not enough,” John Kerry said, Biden's special envoy for climate. “We feel an obligation to work overtime to try to make up the difference. We have a lot to do.” ([Associated Press](https://apnews.com/article/us-return-paris-climate-world-leaders-ee8eb8b6744394ad41e33f94843b6586) / [NBC News](https://www.nbcnews.com/politics/white-house/u-s-rejoins-paris-climate-agreement-now-comes-daunting-part-n1258304) / [NPR](https://www.npr.org/2021/02/19/969387323/u-s-officially-rejoins-paris-agreement-on-climate-change) / [CNN](https://www.cnn.com/2021/02/19/politics/us-rejoins-paris-agreement-biden-administration/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-02-19/kerry-vows-aggressive-climate-steps-as-u-s-rejoins-paris-accord?srnd=politics-vp&sref=MIBMEEoj) / [The Guardian](https://www.theguardian.com/environment/2021/feb/19/us-official-return-paris-climate-pact) / [Reuters](https://www.reuters.com/article/us-climate-change-usa-idUSKBN2AJ16T))

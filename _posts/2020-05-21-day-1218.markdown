@@ -1,6 +1,8 @@
 ---
 title: Day 1218
 date: 2020-05-21 14:43:00 -07:00
+categories:
+- trump
 description: '"Social and moral responsibility."'
 image: "/uploads/1218.jpg"
 todayInOneSentence: Another 2.4 million workers filed new unemployment claims last
@@ -11,7 +13,6 @@ todayInOneSentence: Another 2.4 million workers filed new unemployment claims la
   if the U.S. is hit by a second wave of coronavirus infections; and Trump refused
   to wear a mask while touring the Ford manufacturing plant in Michigan despite recommendations
   from federal health officials and an executive order from the state’s governor.
-category: trump
 ---
 
 * ### 🔥 Daily Damage Report.

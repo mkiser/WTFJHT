@@ -1,6 +1,8 @@
 ---
 title: Day 960
 date: 2023-09-06 15:27:00 -07:00
+categories:
+- biden
 description: '"We have a responsibility."'
 image: "/uploads/day-960-biden.jpg"
 todayInOneSentence: Biden canceled all seven Trump-issued oil and gas leases in Alaska’s
@@ -12,7 +14,6 @@ todayInOneSentence: Biden canceled all seven Trump-issued oil and gas leases in 
   a New York judge rejected Trump’s request to delay his Oct. 2 civil fraud trial;
   and six voters in Colorado filed a lawsuit seeking to block Trump from the state's
   ballots in 2024 for his role in the insurrection on Jan. 6.
-category: biden
 ---
 
 1/ **Biden canceled all seven Trump-issued oil and gas leases in Alaska’s Arctic National Wildlife Refuge** and prohibited oil drilling in 13 million acres in the federally owned National Petroleum Reserve. “As the climate crisis warms the Arctic more than twice as fast as the rest of the world, we have a responsibility to protect this treasured region for all ages,” Biden said in a statement, adding that the state is full of “breathtaking natural wonders” that need protection. While the new regulations are intended to ensure “maximum protections” for nearly half of the petroleum reserve, it will not block the ConocoPhillips Willow project, which Biden [approved](https://whatthefuckjusthappenedtoday.com/2023/03/13/day-783/#1-the-biden-administration-approved) earlier this year. The Willow project is expected to produce 576 million barrels of oil over 30 years. ([New York Times](https://www.nytimes.com/2023/09/06/climate/biden-drilling-alaska-wildlife-refuge.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-09-06/biden-to-cancel-alaskan-arctic-oil-drilling-rights-sold-by-trump?sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2023/09/06/biden-to-cancel-trumps-oil-drilling-leases-in-alaskan-nature-refuge-00114243) / [Washington Post](https://www.washingtonpost.com/climate-environment/2023/09/06/biden-alaska-oil-drilling-ban-willow/) / [CNN](https://www.cnn.com/2023/09/06/politics/drilling-alaska-national-wildlife-refuge/) / [The Hill](https://thehill.com/policy/energy-environment/4190154-biden-administration-expected-to-cancel-controversial-drilling-leases-in-arctic-refuge/))

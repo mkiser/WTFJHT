@@ -1,6 +1,8 @@
 ---
 title: Day 489
 date: 2018-05-23 05:13:00 -07:00
+categories:
+- trump
 description: 'Taxi King. '
 image: "/uploads/489.jpg"
 todayInOneSentence: Michael Cohen's business partner took a plea deal and agreed to
@@ -11,7 +13,6 @@ todayInOneSentence: Michael Cohen's business partner took a plea deal and agreed
   sailed through the House but likely won't make it to the Senate floor; and a federal
   judge ruled that Trump can't block people on Twitter.
 author: Joe Amditis
-category: trump
 ---
 
 1/ **Michael Cohen's business partner took a plea deal that requires him to cooperate with the government as a potential witness in state and federal investigations**. Evgeny Freidman is a Russian immigrant known as the "Taxi King," and he specifically agreed to assist government prosecutors in state or federal investigations, according to a person briefed on the matter. Freidman was disbarred earlier this month, has been accused of failing to pay $5 million in taxes, and is facing multiple counts of criminal tax fraud and one of grand larceny. Freidman's cooperation is seen as potential leverage to pressure Cohen into working with Mueller's team on the investigation into Russian interference in the 2016 elections. ([New York Times](https://www.nytimes.com/2018/05/22/nyregion/michael-cohen-trump-taxi-cooperation.html) / [Washington Post](https://www.washingtonpost.com/news/the-fix/wp/2018/05/22/a-big-shoe-drops-in-the-mueller-probe-as-the-taxi-king-flips/?noredirect=on) / [Politico](https://www.politico.com/story/2018/05/23/evgeny-freidman-cohen-partner-pleads-guilty-603435) / [CNBC](https://www.cnbc.com/2018/05/22/michael-cohens-business-partner-evgeny-freidman-agrees-to-cooperate-as-part-of-plea-deal-nyt.html) / [Vox](https://www.vox.com/2018/5/22/17382138/michael-cohen-evgeny-freidman-taxi-king))

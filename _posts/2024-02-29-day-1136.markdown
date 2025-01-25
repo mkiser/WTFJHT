@@ -1,6 +1,8 @@
 ---
 title: Day 1136
 date: 2024-02-29 15:18:00 -08:00
+categories:
+- biden
 description: '"Posed a threat."'
 image: "/uploads/day1136biden.jpg"
 todayInOneSentence: 'A state judge in Illinois ruled that Trump had engaged in insurrection
@@ -10,7 +12,6 @@ todayInOneSentence: 'A state judge in Illinois ruled that Trump had engaged in i
   funding bill to avert a partial government shutdown and extend funding for one week;
   and Israeli troops opened fired on a large crowd of Palestinians waiting for humanitarian
   aid, killing more than 112 people and injuring at least 750 others. '
-category: biden
 ---
 
 1/ **A state judge in Illinois ruled that Trump had engaged in insurrection and disqualified him from the state's primary ballot**. Trump appealed Judge Tracie Porter’s decision to ban him for his role in the Jan. 6 attack on the Capitol. Illinois is the third state where Trump has been disqualified under the 14th Amendment, which bars insurrectionists from running for office. Rulings in all three states have been stayed pending appeals, which means Trump will still be on the Republican ballot when Illinois holds its primary March 19. ([Bloomberg](https://www.bloomberg.com/news/articles/2024-02-29/trump-to-remain-on-illinois-ballot-as-judge-to-stay-ruling?sref=MIBMEEoj) / [Axios](https://www.axios.com/2024/02/29/trump-removed-illinois-ballot-14th-amendment) / [CNN](https://www.cnn.com/2024/02/29/politics/trump-appeals-illinois-decision/index.html) / [New York Times](https://www.nytimes.com/2024/02/28/us/trump-removal-illinois-primary-ballot.html) / [NBC News](https://www.nbcnews.com/politics/2024-election/illinois-judge-rules-trump-removed-republican-primary-ballot-jan-6-rio-rcna141065))

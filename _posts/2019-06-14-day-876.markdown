@@ -1,6 +1,8 @@
 ---
 title: Day 876
 date: 2019-06-14 10:40:00 -07:00
+categories:
+- trump
 description: Probably not a good idea.
 image: "/uploads/876.jpg"
 todayInOneSentence: Trump backtracked on his willingness to accept help from foreign
@@ -8,7 +10,6 @@ todayInOneSentence: Trump backtracked on his willingness to accept help from for
   on political opponents; Senate Republicans blocked a bill requiring campaigns to
   tell the FBI about any offers of foreign assistance; and the head of the Federal
   Election Commission reiterated that foreign assistance is illegal in U.S. elections.
-category: trump
 ---
 
 1/ **Trump backtracked on his willingness to accept help from foreign governments, saying "of course" he would "absolutely" report an encounter to the FBI**. Trump, however, added that he'd alert the FBI only after reviewing the material first, "because if you don't look at it, you won't know it's bad." ([New York Times](https://www.nytimes.com/2019/06/14/us/politics/trump-foreign.html) / [Politico](https://www.politico.com/story/2019/06/14/trump-election-foreign-interference-1365247))

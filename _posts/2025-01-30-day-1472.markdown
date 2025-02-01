@@ -1,6 +1,8 @@
 ---
 title: Day 1472
 date: 2025-01-30 14:56:00 -08:00
+categories:
+- trump
 description: '"Because I have common sense."'
 image: "/uploads/day-1472-trump.jpg"
 todayInOneSentence: Trump blamed diversity, equity, and inclusion policies, Obama,

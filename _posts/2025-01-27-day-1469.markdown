@@ -1,6 +1,8 @@
 ---
 title: Day 1469
 date: 2025-01-27 14:28:00 -08:00
+categories:
+- trump
 description: '"A common thing to do."'
 image: "/uploads/day-1469-trump.jpg"
 todayInOneSentence: The Justice Department fired more than a dozen officials who worked

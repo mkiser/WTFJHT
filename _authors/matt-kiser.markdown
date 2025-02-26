@@ -27,7 +27,7 @@ redirect_from:
 
 Matt Kiser is the creator, founder, and publisher of [What The Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com/) – today's essential guide to the daily shock and awe in national politics.
 
-He graduated from California State University, Chico with Bachelors degrees in Journalism and American Studies, and earned a professional certificate from the City University of New York for Entrepreneurial Journalism. Previously, he reported on music industry news for the College Music Journal, and managed news products at Business Insider, Forbes, and SPIN.com/SPIN Magazine.
+He graduated from California State University, Chico with Bachelor's degrees in Journalism and American Studies, and earned a professional certificate from the City University of New York for Entrepreneurial Journalism. Previously, he reported on music industry news for the College Music Journal, and managed news products at Business Insider, Forbes, and SPIN.com/SPIN Magazine.
 
 Explore the origins and mission of WTF Just Happened Today? by visiting my [About page](https://whatthefuckjusthappenedtoday.com/about/) and [FAQ section](https://whatthefuckjusthappenedtoday.com/faq/) for details.
 

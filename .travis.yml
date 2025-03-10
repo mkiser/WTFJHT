@@ -3,7 +3,7 @@ language: ruby
 cache: bundler
 dist: focal
 rvm:
-  - 3.1.2
+  - 3.3.5
 addons:
   apt:
     packages:

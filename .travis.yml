@@ -13,6 +13,7 @@ before_install:
   - rm Gemfile.lock
   - gem update --system 3.5.8
   - gem install bundler -v 2.4.22
+  - bundler -v
   - gem --version
   - bundle config set force_ruby_platform true
 before_script:

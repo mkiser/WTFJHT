@@ -11,6 +11,7 @@ vendor
 .siteleaf.yml
 wtftest.com
 wtftestsite.com
+# Gemfile.lock
 
 # Numerous always-ignore extensions
 *.diff

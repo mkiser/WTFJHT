@@ -7,9 +7,8 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
 gem 'jekyll-archives', '2.1.1'
-# gem 'logger', '= 1.6.0'
-gem 'base64'
-gem 'ostruct'
+# gem 'base64'
+# gem 'ostruct'
 
 group :jekyll_plugins do
   gem 'jekyll-include-cache'

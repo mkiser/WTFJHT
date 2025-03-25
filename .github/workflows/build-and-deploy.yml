@@ -54,16 +54,17 @@ jobs:
         shell: bash
 
       - name: Deploy to S3
-        uses: jakejarvis/s3-sync-action@master
-        timeout-minutes: 10
+        uses: reggionick/s3-deploy@v4
         with:
-          args: --acl public-read --follow-symlinks --exact-timestamps
+          folder: _site
+          bucket: whatthefuckjusthappenedtoday.com
+          bucket-region: us-east-1
+          delete-removed: true
+          no-cache: true
+          private: false
         env:
-          AWS_S3_BUCKET: whatthefuckjusthappenedtoday.com
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_REGION: us-east-1
-          SOURCE_DIR: _site
 
       - name: Purge Cloudflare cache
         run: |

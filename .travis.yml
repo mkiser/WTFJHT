@@ -6,11 +6,11 @@ rvm:
 cache:
   bundler: true
 
-addons:
-  apt:
-    packages:
-      - cmake
-      # - libcurl4-openssl-dev
+# addons:
+#   apt:
+#     packages:
+#       - cmake
+#       - libcurl4-openssl-dev
 
 before_install:
   # - gem update --system

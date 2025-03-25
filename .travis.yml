@@ -14,6 +14,8 @@ addons:
 before_install:
   - gem update --system
   - gem install bundler
+  - gem install nokogiri
+  - gem install logger
   - bundle config set path 'vendor/bundle'
   - bundle config set force_ruby_platform true
   - ruby -v

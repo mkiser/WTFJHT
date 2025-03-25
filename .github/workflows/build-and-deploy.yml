@@ -1,0 +1,77 @@
+name: Build and Deploy WTF Just Happened Today? Jekyll Site
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 9 * * *'  # daily at 9 AM UTC (2 AM PT / 5 AM ET)
+  workflow_dispatch:
+    
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    env:
+      JEKYLL_ENV: production
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3.5
+          bundler-cache: true
+
+      - name: Install bundler and configure
+        run: |
+          gem install bundler -v 2.6.6
+          bundle config set path 'vendor/bundle'
+          bundle config set force_ruby_platform true
+          ruby -v
+          bundler -v
+          gem -v
+          gem environment
+
+      - name: Install dependencies
+        run: |
+          bundle install --jobs=3 --retry=3
+          bundle clean --force
+
+      - name: Make scripts executable
+        run: chmod +x ./script/*
+
+      - name: Run cron build (Algolia)
+        if: github.event_name == 'schedule'
+        run: ./script/cibuildindex
+        shell: bash
+
+      - name: Run regular build
+        if: github.event_name != 'schedule'
+        run: ./script/cibuild
+        shell: bash
+
+      - name: Deploy to S3
+        uses: jakejarvis/s3-sync-action@master
+        with:
+          args: --acl public-read --follow-symlinks
+        env:
+          AWS_S3_BUCKET: whatthefuckjusthappenedtoday.com
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: us-east-1
+          SOURCE_DIR: _site
+
+      - name: Purge Cloudflare cache
+        run: |
+          curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache" \
+          -H "X-Auth-Email: ${{ secrets.CLOUD_FLARE_EMAIL }}" \
+          -H "X-Auth-Key: ${{ secrets.CLOUD_FLARE_API_KEY }}" \
+          -H "Content-Type: application/json" \
+          --data '{"purge_everything":true}'
+
+      - name: Ping search engines
+        run: |
+          curl https://www.google.com/webmasters/tools/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
+          curl http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml

@@ -17,9 +17,9 @@ before_install:
   - gem install bundler
 
   # Install AWS CLI v2
-  - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-  - unzip awscliv2.zip
-  - sudo ./aws/install
+  - mkdir -p /tmp/awscli && curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "/tmp/awscli/awscliv2.zip"
+  - unzip /tmp/awscli/awscliv2.zip -d /tmp/awscli
+  - sudo /tmp/awscli/aws/install
   - export PATH=$PATH:/usr/local/bin  # Ensure aws is available
 
   # Setup Bundler

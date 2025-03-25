@@ -12,9 +12,11 @@ addons:
 before_install:
   - gem update --system 3.5.8
   - gem install bundler -v 2.5.8
+  - bundle config set force_ruby_platform true
+  - bundle config set deployment true
+  - bundle config set path 'vendor/bundle'
   - bundler -v
   - gem -v
-  - bundle config set force_ruby_platform true
 before_script:
   - rm -rf vendor/bundle
   - chmod +x ./script/*

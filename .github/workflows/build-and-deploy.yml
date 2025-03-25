@@ -36,6 +36,7 @@ jobs:
 
       - name: Install dependencies
         run: |
+          bundle lock --add-platform ruby
           bundle install --jobs=3 --retry=3
           bundle clean --force
 
@@ -49,13 +50,14 @@ jobs:
 
       - name: Run regular build
         if: github.event_name != 'schedule'
-        run: ./script/cibuild
+        run: bundle exec jekyll build --trace
         shell: bash
 
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@master
+        timeout-minutes: 10
         with:
-          args: --acl public-read --follow-symlinks
+          args: --acl public-read --follow-symlinks --exact-timestamps
         env:
           AWS_S3_BUCKET: whatthefuckjusthappenedtoday.com
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}

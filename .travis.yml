@@ -10,7 +10,7 @@ addons:
   apt:
     packages:
       - cmake
-      - libcurl4-openssl-dev
+      # - libcurl4-openssl-dev
 
 before_install:
   # - gem update --system

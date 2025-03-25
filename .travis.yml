@@ -13,7 +13,7 @@ addons:
       - libcurl4-openssl-dev
 
 before_install:
-  - gem update --system
+  # - gem update --system
   - gem install bundler
   - bundle config set path 'vendor/bundle'
   - bundle config set force_ruby_platform true

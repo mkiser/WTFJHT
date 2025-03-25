@@ -1,7 +1,7 @@
 language: ruby
 dist: focal
 rvm:
-  - 3.3.5
+  - 3.2.4
 
 cache:
   bundler: true
@@ -13,8 +13,8 @@ addons:
       - libcurl4-openssl-dev
 
 before_install:
-  - gem update --system 3.5.8
-  - gem install bundler -v 2.5.8
+  - gem update --system
+  - gem install bundler -v 2.6.6
   - bundle config set path 'vendor/bundle'
   - bundle config set force_ruby_platform true
   - ruby -v

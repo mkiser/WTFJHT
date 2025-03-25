@@ -74,10 +74,11 @@ jobs:
           -H "Content-Type: application/json" \
           --data '{"purge_everything":true}'
 
-      - name: Ping search engines
+      - name: Ping search engines and Internet Archive
         run: |
           curl https://www.google.com/webmasters/tools/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
           curl http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
+          curl https://web.archive.org/save/https://whatthefuckjusthappenedtoday.com
 
       - name: Notify Slack
         if: always()
@@ -89,11 +90,3 @@ jobs:
           SLACK_TITLE: GitHub Actions Build
           SLACK_COLOR: ${{ job.status == 'success' && '#36a64f' || '#ff0000' }}
           SLACK_MESSAGE: "${{ github.workflow }} #${{ github.run_number }} by ${{ github.actor }} - ${{ job.status }}"
-  
-  archive-site:
-    runs-on: ubuntu-latest
-    if: github.event_name != 'schedule'
-    steps:
-      - name: Submit site to Internet Archive
-        run: |
-          curl https://web.archive.org/save/https://whatthefuckjusthappenedtoday.com

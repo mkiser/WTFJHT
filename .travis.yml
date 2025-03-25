@@ -1,7 +1,8 @@
 language: ruby
 dist: jammy
 rvm:
-  - 3.4.1
+  # - 3.4.1
+  - 3.3.5
 
 cache:
   bundler: true

@@ -11,12 +11,13 @@ addons:
     - libcurl4-openssl-dev
 before_install:
   - rm Gemfile.lock
-  - gem update --system 3.5.8
+  - gem update --system 3.4.22
   - gem install bundler -v 2.4.22
   - bundler -v
   - gem --version
   - bundle config set force_ruby_platform true
 before_script:
+  - rm -rf vendor/bundle
   - chmod +x ./script/*
 script: 
 - if [ $TRAVIS_EVENT_TYPE = cron ]; then echo -e "# cibuildindex via cron" ; fi

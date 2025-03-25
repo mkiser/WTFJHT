@@ -16,6 +16,7 @@ before_install:
   - gem install bundler
   - gem install nokogiri
   - gem install logger
+  - gem install dpl -v 2.0.5.1
   - bundle config set path 'vendor/bundle'
   - bundle config set force_ruby_platform true
   - ruby -v

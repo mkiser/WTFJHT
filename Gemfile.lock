@@ -135,6 +135,7 @@ DEPENDENCIES
   jekyll_pages_api
   liquid-c
   siteleaf
+  webrick
 
 BUNDLED WITH
-   2.6.6
+   2.6.2

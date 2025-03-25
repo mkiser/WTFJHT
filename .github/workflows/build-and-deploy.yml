@@ -89,3 +89,11 @@ jobs:
           SLACK_TITLE: GitHub Actions Build
           SLACK_COLOR: ${{ job.status == 'success' && '#36a64f' || '#ff0000' }}
           SLACK_MESSAGE: "${{ github.workflow }} #${{ github.run_number }} by ${{ github.actor }} - ${{ job.status }}"
+  
+  archive-site:
+    runs-on: ubuntu-latest
+    if: github.event_name != 'schedule'
+    steps:
+      - name: Submit site to Internet Archive
+        run: |
+          curl https://web.archive.org/save/https://whatthefuckjusthappenedtoday.com

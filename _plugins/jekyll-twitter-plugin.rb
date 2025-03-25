@@ -4,6 +4,7 @@ require "uri"
 require "ostruct"
 require "json"
 require "digest"
+require 'logger'
 
 ##
 # A Liquid tag plugin for Jekyll that renders Tweets from Twitter API.

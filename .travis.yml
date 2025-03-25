@@ -22,6 +22,8 @@ before_install:
   - gem -v
   - gem list logger
   - gem list bundler
+  - gem environment
+  - bundle list
   - bundle env
 
 install:

@@ -9,6 +9,7 @@ GEM
     algoliasearch (1.27.5)
       httpclient (~> 2.8, >= 2.8.3)
       json (>= 1.5.1)
+    base64 (0.2.0)
     bigdecimal (3.1.9)
     colorator (1.1.0)
     commonmarker (0.23.11)
@@ -19,14 +20,6 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.1)
-    ffi (1.17.1-aarch64-linux-gnu)
-    ffi (1.17.1-aarch64-linux-musl)
-    ffi (1.17.1-arm-linux-gnu)
-    ffi (1.17.1-arm-linux-musl)
-    ffi (1.17.1-arm64-darwin)
-    ffi (1.17.1-x86_64-darwin)
-    ffi (1.17.1-x86_64-linux-gnu)
-    ffi (1.17.1-x86_64-linux-musl)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
     htmlentities (4.3.4)
@@ -94,6 +87,7 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.6.0)
     mercenary (0.3.6)
     mini_mime (1.1.5)
     mini_portile2 (2.8.8)
@@ -103,22 +97,7 @@ GEM
     nokogiri (1.18.6)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
-    nokogiri (1.18.6-aarch64-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.6-aarch64-linux-musl)
-      racc (~> 1.4)
-    nokogiri (1.18.6-arm-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.6-arm-linux-musl)
-      racc (~> 1.4)
-    nokogiri (1.18.6-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.18.6-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.18.6-x86_64-linux-gnu)
-      racc (~> 1.4)
-    nokogiri (1.18.6-x86_64-linux-musl)
-      racc (~> 1.4)
+    ostruct (0.6.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     progressbar (1.13.0)
@@ -144,18 +123,10 @@ GEM
     webrick (1.9.1)
 
 PLATFORMS
-  aarch64-linux-gnu
-  aarch64-linux-musl
-  arm-linux-gnu
-  arm-linux-musl
-  arm64-darwin
   ruby
-  x86_64-darwin
-  x86_64-linux
-  x86_64-linux-gnu
-  x86_64-linux-musl
 
 DEPENDENCIES
+  base64
   jekyll
   jekyll-algolia
   jekyll-archives (= 2.1.1)
@@ -167,7 +138,9 @@ DEPENDENCIES
   jekyll-sitemap
   jekyll_pages_api
   liquid-c
+  logger (= 1.6.0)
+  ostruct
   siteleaf
 
 BUNDLED WITH
-   2.5.8
+   2.6.6

@@ -6,8 +6,8 @@ on:
       - master
   schedule:
     - cron: '0 9 * * *'  # daily at 9 AM UTC (2 AM PT / 5 AM ET)
-  workflow_dispatch:
-    
+  workflow_dispatch:  # allow manual triggering
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -75,3 +75,14 @@ jobs:
         run: |
           curl https://www.google.com/webmasters/tools/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
           curl http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
+
+      - name: Notify Slack
+        if: always()
+        uses: rtCamp/action-slack-notify@v2
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
+          SLACK_USERNAME: WTFJHT Bot
+          SLACK_ICON_EMOJI: ':newspaper:'
+          SLACK_TITLE: GitHub Actions Build
+          SLACK_COLOR: ${{ job.status == 'success' && '#36a64f' || '#ff0000' }}
+          SLACK_MESSAGE: "${{ github.workflow }} #${{ github.run_number }} by ${{ github.actor }} - ${{ job.status }}"

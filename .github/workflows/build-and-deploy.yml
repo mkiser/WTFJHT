@@ -59,7 +59,7 @@ jobs:
           folder: _site
           bucket: whatthefuckjusthappenedtoday.com
           bucket-region: us-east-1
-          delete-removed: true
+          delete-removed: false
           no-cache: true
           private: false
         env:

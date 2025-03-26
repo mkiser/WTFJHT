@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-set -e # halt script on error
-
-JEKYLL_ENV=production bundle exec jekyll build --trace
-# JEKYLL_ENV=production bundle exec jekyll build --profile --verbose --trace
-echo '# cibuild'

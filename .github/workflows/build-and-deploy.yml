@@ -40,9 +40,6 @@ jobs:
           bundle install --jobs=3 --retry=3
           bundle clean --force
 
-      - name: Make scripts executable
-        run: chmod +x ./script/*
-
       - name: Run cron build (Algolia)
         if: github.event_name == 'schedule'
         run: |
@@ -55,6 +52,7 @@ jobs:
         shell: bash
 
       - name: Deploy to S3
+        if: github.event_name != 'schedule'
         uses: reggionick/s3-deploy@v4
         with:
           folder: _site
@@ -68,6 +66,7 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
       - name: Purge Cloudflare cache
+        if: github.event_name != 'schedule'
         run: |
           curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache" \
           -H "X-Auth-Email: ${{ secrets.CLOUD_FLARE_EMAIL }}" \
@@ -76,6 +75,7 @@ jobs:
           --data '{"purge_everything":true}'
 
       - name: Ping search engines and Internet Archive
+        if: github.event_name != 'schedule'
         run: |
           curl https://www.google.com/webmasters/tools/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
           curl http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml

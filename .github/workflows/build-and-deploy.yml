@@ -44,8 +44,9 @@ jobs:
         run: chmod +x ./script/*
 
       - name: Run cron build (Algolia)
-        if: github.event_name == 'schedule'
-        run: ./script/cibuildindex
+        if: github.event_name != 'push'
+        run: |
+          JEKYLL_ENV=production ALGOLIA_API_KEY=${{ secrets.ALGOLIA_API_KEY }} ALGOLIA_APPLICATION_ID=${{ secrets.ALGOLIA_APPLICATION_ID }} bundle exec jekyll algolia
         shell: bash
 
       - name: Run regular build

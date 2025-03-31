@@ -77,9 +77,7 @@ jobs:
       - name: Ping search engines and Internet Archive
         if: github.event_name != 'schedule'
         run: |
-          curl https://www.google.com/webmasters/tools/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
           curl http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
-          curl https://web.archive.org/save/https://whatthefuckjusthappenedtoday.com/
 
       - name: Notify Slack
         if: always()

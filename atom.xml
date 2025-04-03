@@ -32,6 +32,10 @@ layout:
       {% include away_mode.html %}
     {% endif %}
 
+    {% if post.todayInOneSentence and post.todayInOneSentence != '' %}
+        &lt;p&gt;&lt;em&gt;&lt;strong&gt;Today in one sentence&lt;/strong&gt;: {{ post.todayInOneSentence }}&lt;/em&gt;&lt;/p&gt;
+    {% endif %}
+
     {{ post.content | xml_escape }}
     
     &lt;p&gt;&lt;strong&gt;Support today&#39;s essential newsletter and resist the daily shock and awe:&lt;/strong&gt; &lt;a href=&quot;{{ site.url }}{{ site.baseurl }}/membership&quot;&gt;Become a member&lt;/a&gt; &lt;/p&gt;

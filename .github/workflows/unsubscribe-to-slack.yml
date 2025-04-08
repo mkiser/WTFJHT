@@ -1,0 +1,66 @@
+name: Mailchimp Unsubs to Slack
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Every 6 hours
+  workflow_dispatch:       # Allows manual triggering
+
+jobs:
+  notify-unsubs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run unsubscribe notifier inline
+        env:
+          MAILCHIMP_API_KEY: ${{ secrets.MAILCHIMP_API_KEY }}
+          MAILCHIMP_SERVER_PREFIX: ${{ secrets.MAILCHIMP_SERVER_PREFIX }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          python -m pip install --quiet --upgrade pip
+          pip install --quiet mailchimp-marketing requests
+
+          python - <<EOF
+          import os
+          import json
+          import requests
+          import mailchimp_marketing as MailchimpMarketing
+          from mailchimp_marketing.api_client import ApiClientError
+
+          try:
+              client = MailchimpMarketing.Client()
+              client.set_config({
+                  "api_key": os.environ["MAILCHIMP_API_KEY"],
+                  "server": os.environ["MAILCHIMP_SERVER_PREFIX"]
+              })
+
+              messages = []
+              campaign_reports = client.reports.get_all_campaign_reports(count=10)
+
+              for campaign in campaign_reports["reports"]:
+                  campaign_id = campaign["id"]
+                  campaign_title = campaign.get("campaign_title", "Unknown Campaign")
+
+                  unsubs = client.reports.get_unsubscribed_list_for_campaign(campaign_id, count=1000)
+                  reasons = unsubs["unsubscribes"]
+
+                  for unsub in reasons:
+                      reason = unsub.get("reason", "")
+                      unsub_date = unsub.get("timestamp", "")
+                      if reason.startswith(("None given", "No longer interested", "Spammy content", "Did not signup for list", "Inappropriate content")):
+                          continue
+                      else:
+                          messages.append(f"• *{unsub_date}* — {reason} _(from “{campaign_title}”)_")
+
+              if messages:
+                  slack_text = "*📤 New Unsubscribe Reasons:*\n" + "\n".join(messages)
+              else:
+                  slack_text = "✅ No new meaningful unsubscribe reasons found."
+
+              slack_webhook_url = os.environ["SLACK_WEBHOOK_URL"]
+              requests.post(slack_webhook_url, data=json.dumps({"text": slack_text}), headers={"Content-Type": "application/json"})
+
+          except ApiClientError as error:
+              print("Mailchimp Error:", error.text)
+          except Exception as e:
+              print("General Error:", e)
+          EOF

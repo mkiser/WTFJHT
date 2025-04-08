@@ -63,7 +63,11 @@ jobs:
                       blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": msg["text"]}})
                       blocks.append({"type": "context", "elements": [{"type": "mrkdwn", "text": " "}]})  # spacing
 
-                  slack_payload = {"blocks": blocks}
+                  slack_payload = {
+                      "text": "📤 New unsubscribe reasons",
+                      "blocks": blocks
+                  }
+
               else:
                   slack_payload = {"text": "✅ No new meaningful unsubscribe reasons found."}
 

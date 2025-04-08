@@ -22,6 +22,7 @@ jobs:
           python - <<EOF
           import os
           import json
+          import re
           import requests
           import mailchimp_marketing as MailchimpMarketing
           from mailchimp_marketing.api_client import ApiClientError
@@ -41,7 +42,12 @@ jobs:
 
               for campaign in campaign_reports["reports"]:
                   campaign_id = campaign["id"]
-                  campaign_title = escape(campaign.get("campaign_title", "Unknown Campaign"))
+                  raw_title = campaign.get("campaign_title", "Unknown Campaign")
+
+                  # Extract just the date and day (everything before the first colon)
+                  match = re.match(r"^([^:]+)", raw_title)
+                  short_title = match.group(1).strip() if match else raw_title
+                  short_title = escape(short_title)
 
                   unsubs = client.reports.get_unsubscribed_list_for_campaign(campaign_id, count=1000)
                   reasons = unsubs.get("unsubscribes", [])
@@ -55,7 +61,7 @@ jobs:
                           continue
 
                       reason = escape(reason)
-                      msg = f"• *{reason}* (from “{campaign_title}”)"
+                      msg = f"• *{reason}* ({short_title})"
                       messages.append(msg)
 
               if messages:

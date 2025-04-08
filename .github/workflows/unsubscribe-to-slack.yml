@@ -26,6 +26,9 @@ jobs:
           import mailchimp_marketing as MailchimpMarketing
           from mailchimp_marketing.api_client import ApiClientError
 
+          def escape(text):
+              return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
           try:
               client = MailchimpMarketing.Client()
               client.set_config({
@@ -38,7 +41,7 @@ jobs:
 
               for campaign in campaign_reports["reports"]:
                   campaign_id = campaign["id"]
-                  campaign_title = campaign.get("campaign_title", "Unknown Campaign")
+                  campaign_title = escape(campaign.get("campaign_title", "Unknown Campaign"))
 
                   unsubs = client.reports.get_unsubscribed_list_for_campaign(campaign_id, count=1000)
                   reasons = unsubs.get("unsubscribes", [])
@@ -51,28 +54,38 @@ jobs:
                       )):
                           continue
 
-                      # Clean up campaign title if needed
+                      reason = escape(reason)
                       campaign_info = f"_> {campaign_title}_"
                       messages.append({
-                          "text": f"*“{reason}”*\n{campaign_info}"
+                          "text": f"*{reason}*\n{campaign_info}"
                       })
 
               if messages:
                   blocks = [{"type": "section", "text": {"type": "mrkdwn", "text": "*📤 New Unsubscribe Reasons:*"}}]
                   for msg in messages:
                       blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": msg["text"]}})
-                      blocks.append({"type": "context", "elements": [{"type": "mrkdwn", "text": " "}]})  # spacing
-
+                      blocks.append({"type": "context", "elements": [{"type": "mrkdwn", "text": " "}]})
+              
                   slack_payload = {
                       "text": "📤 New unsubscribe reasons",
                       "blocks": blocks
                   }
-
               else:
-                  slack_payload = {"text": "✅ No new meaningful unsubscribe reasons found."}
+                  slack_payload = {
+                      "text": "✅ No new meaningful unsubscribe reasons found.",
+                      "blocks": [
+                          {
+                              "type": "section",
+                              "text": {"type": "mrkdwn", "text": "✅ No new meaningful unsubscribe reasons found."}
+                          }
+                      ]
+                  }
 
+              print("SLACK PAYLOAD:\n", json.dumps(slack_payload, indent=2))
+              
+              slack_webhook_url = os.environ["SLACK_WEBHOOK_URL"]
               response = requests.post(
-                  os.environ["SLACK_WEBHOOK_URL"],
+                  slack_webhook_url,
                   data=json.dumps(slack_payload),
                   headers={"Content-Type": "application/json"}
               )

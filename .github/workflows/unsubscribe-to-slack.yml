@@ -60,7 +60,13 @@ jobs:
                           "text": f"*{reason}*\n{campaign_info}"
                       })
 
-              if messages:
+              max_messages = 20
+              trimmed = False
+              
+              if len(messages) > max_messages:
+                  messages = messages[:max_messages]
+                  trimmed = True
+
                   blocks = [{"type": "section", "text": {"type": "mrkdwn", "text": "*📤 New Unsubscribe Reasons:*"}}]
 
                   for msg in messages:

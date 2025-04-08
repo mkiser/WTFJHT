@@ -49,7 +49,7 @@ jobs:
                       if reason.startswith(("None given", "No longer interested", "Spammy content", "Did not signup for list", "Inappropriate content")):
                           continue
                       else:
-                          messages.append(f"• *{unsub_date}* — {reason} _(from “{campaign_title}”)_")
+                          messages.append(f"• {reason.strip()}\n(from “{campaign_title}”)\n")
 
               if messages:
                   slack_text = "*📤 New Unsubscribe Reasons:*\n" + "\n".join(messages)

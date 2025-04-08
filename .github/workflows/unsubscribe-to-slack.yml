@@ -55,52 +55,23 @@ jobs:
                           continue
 
                       reason = escape(reason)
-                      campaign_info = f"_> {campaign_title}_"
-                      messages.append({
-                          "text": f"*{reason}*\n{campaign_info}"
-                      })
+                      msg = f"• *{reason}* (from “{campaign_title}”)"
+                      messages.append(msg)
 
-              max_messages = 20
-              trimmed = False
-              
-              if len(messages) > max_messages:
-                  messages = messages[:max_messages]
-                  trimmed = True
+              if messages:
+                  max_messages = 30
+                  if len(messages) > max_messages:
+                      messages = messages[:max_messages]
+                      messages.append("_…list trimmed to 30 unsubscribes._")
 
-                  blocks = [{"type": "section", "text": {"type": "mrkdwn", "text": "*📤 New Unsubscribe Reasons:*"}}]
-
-                  for msg in messages:
-                      blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": msg["text"]}})
-                      blocks.append({"type": "context", "elements": [{"type": "mrkdwn", "text": " "}]})
-                  
-                  
-                  if trimmed:
-                      blocks.append({
-                          "type": "context",
-                          "elements": [{"type": "mrkdwn", "text": "_List trimmed to 20 most recent unsubscribes due to Slack block limit._"}]
-                      })
-
-                  slack_payload = {
-                      "text": "📤 New unsubscribe reasons",
-                      "blocks": blocks
-                  }
+                  slack_text = "*📤 New Unsubscribe Reasons:*\n" + "\n".join(messages)
               else:
-                  slack_payload = {
-                      "text": "✅ No new meaningful unsubscribe reasons found.",
-                      "blocks": [
-                          {
-                              "type": "section",
-                              "text": {"type": "mrkdwn", "text": "✅ No new meaningful unsubscribe reasons found."}
-                          }
-                      ]
-                  }
+                  slack_text = "✅ No new meaningful unsubscribe reasons found."
 
-              print("SLACK PAYLOAD:\n", json.dumps(slack_payload, indent=2))
-              
               slack_webhook_url = os.environ["SLACK_WEBHOOK_URL"]
               response = requests.post(
                   slack_webhook_url,
-                  data=json.dumps(slack_payload),
+                  data=json.dumps({"text": slack_text}),
                   headers={"Content-Type": "application/json"}
               )
               response.raise_for_status()

@@ -62,10 +62,18 @@ jobs:
 
               if messages:
                   blocks = [{"type": "section", "text": {"type": "mrkdwn", "text": "*📤 New Unsubscribe Reasons:*"}}]
+
                   for msg in messages:
                       blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": msg["text"]}})
                       blocks.append({"type": "context", "elements": [{"type": "mrkdwn", "text": " "}]})
-              
+                  
+                  
+                  if trimmed:
+                      blocks.append({
+                          "type": "context",
+                          "elements": [{"type": "mrkdwn", "text": "_List trimmed to 20 most recent unsubscribes due to Slack block limit._"}]
+                      })
+
                   slack_payload = {
                       "text": "📤 New unsubscribe reasons",
                       "blocks": blocks

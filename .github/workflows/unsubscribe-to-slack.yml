@@ -3,7 +3,7 @@ name: Mailchimp Unsubs to Slack
 on:
   schedule:
     - cron: "0 */6 * * *"  # Every 6 hours
-  workflow_dispatch:       # Allows manual triggering
+  workflow_dispatch:       # Manual trigger
 
 jobs:
   notify-unsubs:
@@ -41,35 +41,38 @@ jobs:
                   campaign_title = campaign.get("campaign_title", "Unknown Campaign")
 
                   unsubs = client.reports.get_unsubscribed_list_for_campaign(campaign_id, count=1000)
-                  reasons = unsubs["unsubscribes"]
+                  reasons = unsubs.get("unsubscribes", [])
 
                   for unsub in reasons:
-                      reason = unsub.get("reason", "")
-                      unsub_date = unsub.get("timestamp", "")
-                      if reason.startswith(("None given", "No longer interested", "Spammy content", "Did not signup for list", "Inappropriate content")):
+                      reason = unsub.get("reason", "").strip()
+                      if reason.startswith((
+                          "None given", "No longer interested", "Spammy content",
+                          "Did not signup for list", "Inappropriate content"
+                      )):
                           continue
-                      else:
-                          messages.append(f"*{reason.strip()}*\n_from “{campaign_title}”_")
+
+                      # Clean up campaign title if needed
+                      campaign_info = f"_> {campaign_title}_"
+                      messages.append({
+                          "text": f"*“{reason}”*\n{campaign_info}"
+                      })
 
               if messages:
-                  slack_text = "*📤 New Unsubscribe Reasons:*\n" + "\n".join(messages)
+                  blocks = [{"type": "section", "text": {"type": "mrkdwn", "text": "*📤 New Unsubscribe Reasons:*"}}]
+                  for msg in messages:
+                      blocks.append({"type": "section", "text": {"type": "mrkdwn", "text": msg["text"]}})
+                      blocks.append({"type": "context", "elements": [{"type": "mrkdwn", "text": " "}]})  # spacing
+
+                  slack_payload = {"blocks": blocks}
               else:
-                  slack_text = "✅ No new meaningful unsubscribe reasons found."
+                  slack_payload = {"text": "✅ No new meaningful unsubscribe reasons found."}
 
-              slack_webhook_url = os.environ["SLACK_WEBHOOK_URL"]
-              blocks = [{"type": "section", "text": {"type": "mrkdwn", "text": "*📤 New Unsubscribe Reasons:*"}}]
-
-              for msg in messages:
-                  blocks.append({
-                      "type": "section",
-                      "text": {"type": "mrkdwn", "text": f"> {msg}"}
-                  })
-              
-              requests.post(
-                  slack_webhook_url,
-                  data=json.dumps({"blocks": blocks}),
+              response = requests.post(
+                  os.environ["SLACK_WEBHOOK_URL"],
+                  data=json.dumps(slack_payload),
                   headers={"Content-Type": "application/json"}
               )
+              response.raise_for_status()
 
           except ApiClientError as error:
               print("Mailchimp Error:", error.text)

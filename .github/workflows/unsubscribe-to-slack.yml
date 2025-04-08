@@ -61,16 +61,16 @@ jobs:
                           continue
 
                       reason = escape(reason)
-                      msg = f"• *{reason}* ({short_title})"
+                      msg = f"• *{reason}* ({short_title})\n"
                       messages.append(msg)
 
               if messages:
-                  max_messages = 30
+                  max_messages = 50
                   if len(messages) > max_messages:
                       messages = messages[:max_messages]
                       messages.append("_…list trimmed to 30 unsubscribes._")
 
-                  slack_text = "*📤 New Unsubscribe Reasons:*\n" + "\n".join(messages)
+                  slack_text = "\n*📤 New Unsubscribe Reasons:*\n" + "\n".join(messages)
               else:
                   slack_text = "✅ No new meaningful unsubscribe reasons found."
 

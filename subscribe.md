@@ -24,6 +24,7 @@ show_title: false
 * ***I have been on the internet since 1994 and WTFJHT is the best damn political resource I’ve ever come across**. Can’t wait to read it each day. –Larry B.*
 * ***Single subject, distinct tone, clear formatting, total understanding of what its audience wants**. WTF Just Happened Today? is the best email newsletter. —Dave L.*
 * ***The only news-related email that I make a point of reading every day**. –Lorraine N.*
+* ***WTFJHT has changed my relationship to the news and made keeping up with this whole crazy time bearable**. –Julie R.* 
 * ***It's so nice to have found a news resource not bought out by a rich asshat**. –Liz D.*
 * ***A brilliant journalistic response to an urgent civic need**. And it's very depressing. –Jeff J.*
 * ***WTFJHT is the only newsletter I let into my inbox**. It's brief, clear, and covers the perfect selection of news in the perfect amount of words. –Steffi K.*

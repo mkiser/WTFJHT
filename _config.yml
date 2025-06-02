@@ -129,7 +129,7 @@ defaults:
     layout: topics
     seo:
       type: NewsArticle
-is_away_mode: true
+is_away_mode: false
 permalink: pretty
 name: What The Fuck Just Happened Today?
 tagline: Your essential guide to the shock and awe in national politics. A sane, once-a-day

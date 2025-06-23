@@ -436,7 +436,7 @@ h4.pod-lead{
 
 .flex-container {
   display: flex;
-  padding: 1em;
+  /* padding: 1em; */
 }
 
 .flex-item {
@@ -464,14 +464,14 @@ h4.pod-lead{
   .header {
     background-color: #333;
     color: #fff;
-    font-size: 1.25em;
+    font-size: 1em;
   }
 
 
   li {
     background-color: #fff;
     border-bottom: 1px solid #eee;
-    padding: 1.2em;
+    padding: 2em;
     text-align: center;
   }
 }

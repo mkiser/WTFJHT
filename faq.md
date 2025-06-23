@@ -13,7 +13,7 @@ layout: page
 
 **Is this free?** Yes, WTFJHT is free, but 100% sustained entirely through voluntary reader contributions. And, I plan to keep doing this for as long as you keep supporting me (as defined by earning a fair living wage). This is my full-time job. So, if you find my work valuable and find yourself relying on it, [invest in the continued production of WTFJHT by becoming a supporting member](https://whatthefuckjusthappenedtoday.com/membership/).
 
-**What is your publishing schedule?** WTF Just Happened Today? publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including Trump's and Biden's birthdays. Below is the 2025 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
+**What is your publishing schedule?** WTF Just Happened Today? publishes Monday-Thursday, except for federal, market holidays, and some random holidays. Below is the 2025 publishing schedule (and I reserve the right to take additional days off or amend the schedule as needed):
 
 * **2025**
 * New Year's Day – January 1 \

@@ -13,7 +13,30 @@ layout: page
 
 **Is this free?** Yes, WTFJHT is free, but 100% sustained entirely through voluntary reader contributions. And, I plan to keep doing this for as long as you keep supporting me (as defined by earning a fair living wage). This is my full-time job. So, if you find my work valuable and find yourself relying on it, [invest in the continued production of WTFJHT by becoming a supporting member](https://whatthefuckjusthappenedtoday.com/membership/).
 
-**What is your publishing schedule?** WTFJHT currently publishes Monday-Thursday, but in 2025 we’re (finally) introducing the "Well That’s Fantastic" Friday edition – a selection of notable news items that will restore your faith in humanity, with a focus on productive or constructive advancements related to politics, health, science, climate, technology, etc.
+**What is your publishing schedule?** WTF Just Happened Today? publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including Trump's and Biden's birthdays. Below is the 2025 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
+
+* **2025**
+* New Year's Day – January 1 \
+Martin Luther King, Jr. Day – January 20 \
+WTF Just Happened Today?'s Birthday – January 20 \
+President's Day – February 17 \
+Earth Day - April 22 \
+International Workers' Day – May 1 \
+Memorial Day – May 26 \
+Flag Day / Trump's Birthday – June 14 \
+Juneteenth - June 19 \
+Independence Day – July 4 \
+Labor Day – September 1 \
+Indigenous Peoples' Day – October 13 \
+Veterans Day – November 11 \
+Biden's Birthday – November 20 \
+Thanksgiving Eve – November 26 \
+Thanksgiving Day – November 27 \
+Christmas Eve – December 24 \
+Christmas Day – December 25 \
+Boxing Day – December 26 \
+New Year's Eve – December 31 \
+New Year's Day 2026 – January 1 
 
 **How do you decide what's in the daily update?** I try to approach the daily update like a front page editor at a newspaper would: focus on timeliness, impact, prominence, importance, conflict, and unexpectedness. This is further refined by framing WTFJHT's scope of coverage to the curiouser and curiouser news from in and around the Trump and Biden administrations in particular – not politics in general. Together, WTFJHT serves as a single, daily summary of the most important events regarding the Trump and Biden administrations.
 
@@ -44,31 +67,6 @@ layout: page
 **What is the technology behind WTFJHT?** WTFJHT is built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [Travis CI](https://travis-ci.org/mkiser/WTFJHT), [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>. This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 
 **Why don't you publish WTF Just Happened Today? in the morning?** It's not called WTF Just Happened Yesterday.
-
-**What's your publishing schedule?** WTF Just Happened Today? publishes Monday-Thursday, except for federal, market holidays, and some random holidays, including Trump's and Biden's birthdays. Below is the 2024 publishing schedule (and I reserve the right to take additional days off or amend the schedule as I see fit):
-
-* **2025**
-* New Year's Day – January 1 \
-Martin Luther King, Jr. Day – January 20 \
-WTF Just Happened Today?'s Birthday – January 20 \
-President's Day – February 17 \
-Earth Day - April 22 \
-International Workers' Day – May 1 \
-Memorial Day – May 26 \
-Flag Day / Trump's Birthday – June 14 \
-Juneteenth - June 19 \
-Independence Day – July 4 \
-Labor Day – September 1 \
-Indigenous Peoples' Day – October 13 \
-Veterans Day – November 11 \
-Biden's Birthday – November 20 \
-Thanksgiving Eve – November 26 \
-Thanksgiving Day – November 27 \
-Christmas Eve – December 24 \
-Christmas Day – December 25 \
-Boxing Day – December 26 \
-New Year's Eve – December 31 \
-New Year's Day 2026 – January 1 
 
 ---
 

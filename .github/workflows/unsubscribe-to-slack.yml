@@ -78,8 +78,8 @@ jobs:
                           print(f"Error looking up {email}: {lookup_error}")
                           email_link = email  # fallback
 
-                      # Format message with italics and bullet line
-                      msg = f"*{reason}*\n* {email_link} – {short_title}"
+                      # Final formatting: **Reason** – (<email> – short title)
+                      msg = f"*{reason}* – ({email_link} – {short_title})"
                       messages.append(msg)
 
               if messages:
@@ -88,7 +88,7 @@ jobs:
                       messages = messages[:max_messages]
                       messages.append("_…list trimmed to 50 unsubscribes._")
 
-                  slack_text = "\n*📤 New Unsubscribe Reasons:*\n\n" + "\n\n".join(messages)
+                  slack_text = "\n📤 *New Unsubscribe Reasons:*\n\n" + "\n\n".join(messages)
               else:
                   slack_text = "✅ No new meaningful unsubscribe reasons found."
 

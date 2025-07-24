@@ -17,7 +17,7 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
           python -m pip install --quiet --upgrade pip
-          pip install --quiet mailchimp-marketing requests
+          pip install --quiet --upgrade mailchimp-marketing requests
 
           python - <<'EOF'
           import os
@@ -64,9 +64,9 @@ jobs:
                       reason = escape(reason)
                       email = unsub.get("email_address", "unknown@example.com")
 
-                      # Look up full member profile to get contact_id
+                      # ✅ Use the correct Mailchimp SDK method
                       try:
-                          search_result = client.search_members.get_all_search_members(query=email)
+                          search_result = client.search_members.search(query=email)
                           matches = search_result.get("exact_matches", {}).get("members", [])
                           if matches:
                               contact_id = matches[0].get("id")
@@ -78,7 +78,7 @@ jobs:
                           print(f"Error looking up {email}: {lookup_error}")
                           email_link = email  # fallback
 
-                      # Final formatting: **Reason** – (<email> – short title)
+                      # Final message format: **Reason** – (<linked email> – short title)
                       msg = f"*{reason}* – ({email_link} – {short_title})"
                       messages.append(msg)
 
@@ -88,13 +88,12 @@ jobs:
                       messages = messages[:max_messages]
                       messages.append("_…list trimmed to 50 unsubscribes._")
 
-                  slack_text = "\n📤 *New Unsubscribe Reasons:*\n\n" + "\n\n".join(messages)
+                  slack_text = "\n\n📤 *New Unsubscribe Reasons:*\n\n" + "\n\n".join(messages)
               else:
                   slack_text = "✅ No new meaningful unsubscribe reasons found."
 
-              slack_webhook_url = os.environ["SLACK_WEBHOOK_URL"]
               response = requests.post(
-                  slack_webhook_url,
+                  os.environ["SLACK_WEBHOOK_URL"],
                   data=json.dumps({"text": slack_text}),
                   headers={"Content-Type": "application/json"}
               )

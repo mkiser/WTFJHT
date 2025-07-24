@@ -23,7 +23,6 @@ jobs:
           import os
           import json
           import re
-          import hashlib
           import requests
           import mailchimp_marketing as MailchimpMarketing
           from mailchimp_marketing.api_client import ApiClientError
@@ -64,12 +63,23 @@ jobs:
 
                       reason = escape(reason)
                       email = unsub.get("email_address", "unknown@example.com")
-                      email_lower = email.lower().encode('utf-8')
-                      subscriber_hash = hashlib.md5(email_lower).hexdigest()
-                      profile_url = f"https://{dc}.admin.mailchimp.com/audience/contact-profile?contact_id={subscriber_hash}"
-                      email_link = f"<{profile_url}|{email}>"
 
-                      msg = f"> *{reason}*\n> {email_link} – {short_title}"
+                      # Look up full member profile to get contact_id
+                      try:
+                          search_result = client.search_members.search(query=email)
+                          matches = search_result.get("exact_matches", {}).get("members", [])
+                          if matches:
+                              contact_id = matches[0].get("id")
+                              profile_url = f"https://{dc}.admin.mailchimp.com/audience/contact-profile?contact_id={contact_id}"
+                              email_link = f"<{profile_url}|{email}>"
+                          else:
+                              email_link = email  # fallback: plain text
+                      except Exception as lookup_error:
+                          print(f"Error looking up {email}: {lookup_error}")
+                          email_link = email  # fallback
+
+                      # Format message with italics and bullet line
+                      msg = f"*{reason}*\n* {email_link} – {short_title}"
                       messages.append(msg)
 
               if messages:
@@ -78,7 +88,7 @@ jobs:
                       messages = messages[:max_messages]
                       messages.append("_…list trimmed to 50 unsubscribes._")
 
-                  slack_text = "\n*📤 New Unsubscribe Reasons:*\n\n" + "\n".join(messages)
+                  slack_text = "\n*📤 New Unsubscribe Reasons:*\n\n" + "\n\n".join(messages)
               else:
                   slack_text = "✅ No new meaningful unsubscribe reasons found."
 

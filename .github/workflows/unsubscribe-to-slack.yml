@@ -64,12 +64,12 @@ jobs:
                       reason = escape(reason)
                       email = unsub.get("email_address", "unknown@example.com")
 
-                      # ✅ Use the correct Mailchimp SDK method
+                      # ✅ Get contact_id from search_members
                       try:
                           search_result = client.search_members.search(query=email)
                           matches = search_result.get("exact_matches", {}).get("members", [])
                           if matches:
-                              contact_id = matches[0].get("id")
+                              contact_id = matches[0].get("contact_id")
                               profile_url = f"https://{dc}.admin.mailchimp.com/audience/contact-profile?contact_id={contact_id}"
                               email_link = f"<{profile_url}|{email}>"
                           else:

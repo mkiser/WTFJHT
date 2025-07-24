@@ -23,6 +23,7 @@ jobs:
           import os
           import json
           import re
+          import hashlib
           import requests
           import mailchimp_marketing as MailchimpMarketing
           from mailchimp_marketing.api_client import ApiClientError
@@ -37,6 +38,7 @@ jobs:
                   "server": os.environ["MAILCHIMP_SERVER_PREFIX"]
               })
 
+              dc = os.environ["MAILCHIMP_SERVER_PREFIX"]
               messages = []
               campaign_reports = client.reports.get_all_campaign_reports(count=10)
 
@@ -44,7 +46,7 @@ jobs:
                   campaign_id = campaign["id"]
                   raw_title = campaign.get("campaign_title", "Unknown Campaign")
 
-                  # Extract date portion before first colon
+                  # Extract portion before first colon for clean short title
                   match = re.match(r"^([^:]+)", raw_title)
                   short_title = match.group(1).strip() if match else raw_title
                   short_title = escape(short_title)
@@ -62,8 +64,12 @@ jobs:
 
                       reason = escape(reason)
                       email = unsub.get("email_address", "unknown@example.com")
-                      email = escape(email)
-                      msg = f"> *{reason}*\n> {email} – {short_title}\n"
+                      email_lower = email.lower().encode('utf-8')
+                      subscriber_hash = hashlib.md5(email_lower).hexdigest()
+                      profile_url = f"https://{dc}.admin.mailchimp.com/audience/contact-profile?contact_id={subscriber_hash}"
+                      email_link = f"<{profile_url}|{email}>"
+
+                      msg = f"> *{reason}*\n> {email_link} – {short_title}"
                       messages.append(msg)
 
               if messages:
@@ -72,8 +78,7 @@ jobs:
                       messages = messages[:max_messages]
                       messages.append("_…list trimmed to 50 unsubscribes._")
 
-                
-                  slack_text = "\n*📤 New Unsubscribe Reasons:*\n\n" + "\n\n".join(messages)
+                  slack_text = "\n*📤 New Unsubscribe Reasons:*\n\n" + "\n".join(messages)
               else:
                   slack_text = "✅ No new meaningful unsubscribe reasons found."
 

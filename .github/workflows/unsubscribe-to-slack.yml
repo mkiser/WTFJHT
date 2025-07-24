@@ -66,7 +66,7 @@ jobs:
 
                       # ✅ Get contact_id from search_members
                       try:
-                          search_result = client.search_members.search(query=email)
+                          search_result = client.searchMembers.search(query=email)
                           matches = search_result.get("exact_matches", {}).get("members", [])
                           if matches:
                               contact_id = matches[0].get("contact_id")

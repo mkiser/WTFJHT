@@ -2,8 +2,8 @@ name: Mailchimp Unsubs to Slack
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Every 6 hours
-  workflow_dispatch:       # Manual trigger
+    - cron: "0 */12 * * *"  # Every 12 hours
+  workflow_dispatch:
 
 jobs:
   notify-unsubs:
@@ -19,7 +19,7 @@ jobs:
           python -m pip install --quiet --upgrade pip
           pip install --quiet mailchimp-marketing requests
 
-          python - <<EOF
+          python - <<'EOF'
           import os
           import json
           import re
@@ -44,7 +44,7 @@ jobs:
                   campaign_id = campaign["id"]
                   raw_title = campaign.get("campaign_title", "Unknown Campaign")
 
-                  # Extract just the date and day (everything before the first colon)
+                  # Extract date portion before first colon
                   match = re.match(r"^([^:]+)", raw_title)
                   short_title = match.group(1).strip() if match else raw_title
                   short_title = escape(short_title)
@@ -62,6 +62,7 @@ jobs:
 
                       reason = escape(reason)
                       email = unsub.get("email_address", "unknown@example.com")
+                      email = escape(email)
                       msg = f"• *{reason}* — `{email}` ({short_title})\n"
                       messages.append(msg)
 
@@ -69,7 +70,7 @@ jobs:
                   max_messages = 50
                   if len(messages) > max_messages:
                       messages = messages[:max_messages]
-                      messages.append("_…list trimmed to 30 unsubscribes._")
+                      messages.append("_…list trimmed to 50 unsubscribes._")
 
                   slack_text = "\n*📤 New Unsubscribe Reasons:*\n" + "\n".join(messages)
               else:

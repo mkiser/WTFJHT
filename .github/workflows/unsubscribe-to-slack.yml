@@ -61,7 +61,8 @@ jobs:
                           continue
 
                       reason = escape(reason)
-                      msg = f"• *{reason}* ({short_title})\n"
+                      email = unsub.get("email_address", "unknown@example.com")
+                      msg = f"• *{reason}* — `{email}` ({short_title})\n"
                       messages.append(msg)
 
               if messages:

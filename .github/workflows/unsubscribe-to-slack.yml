@@ -66,14 +66,14 @@ jobs:
 
                       # Look up full member profile to get contact_id
                       try:
-                          search_result = client.search_members.search(query=email)
+                          search_result = client.search_members.get_all_search_members(query=email)
                           matches = search_result.get("exact_matches", {}).get("members", [])
                           if matches:
                               contact_id = matches[0].get("id")
                               profile_url = f"https://{dc}.admin.mailchimp.com/audience/contact-profile?contact_id={contact_id}"
                               email_link = f"<{profile_url}|{email}>"
                           else:
-                              email_link = email  # fallback: plain text
+                              email_link = email  # fallback
                       except Exception as lookup_error:
                           print(f"Error looking up {email}: {lookup_error}")
                           email_link = email  # fallback

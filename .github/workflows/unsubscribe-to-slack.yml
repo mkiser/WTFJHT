@@ -63,7 +63,7 @@ jobs:
                       reason = escape(reason)
                       email = unsub.get("email_address", "unknown@example.com")
                       email = escape(email)
-                      msg = f"• *{reason}* — `{email}` ({short_title})\n"
+                      msg = f"> *{reason}*\n> {email} – {short_title}\n"
                       messages.append(msg)
 
               if messages:
@@ -72,7 +72,8 @@ jobs:
                       messages = messages[:max_messages]
                       messages.append("_…list trimmed to 50 unsubscribes._")
 
-                  slack_text = "\n*📤 New Unsubscribe Reasons:*\n" + "\n".join(messages)
+                
+                  slack_text = "\n*📤 New Unsubscribe Reasons:*\n\n" + "\n\n".join(messages)
               else:
                   slack_text = "✅ No new meaningful unsubscribe reasons found."
 

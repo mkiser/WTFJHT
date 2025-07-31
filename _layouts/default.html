@@ -38,6 +38,13 @@
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
     <link rel="alternate" type="application/atom+xml" title="Atom - {{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/atom.xml">
     <link rel='alternate' type='application/rss+xml' title='RSS - {{ site.title }}' href="{{ site.url }}{{ site.baseurl }}/rss.xml">
+
+    <!-- PWA  Tags -->
+    <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+    <meta name="theme-color" content="#000000">
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/icons/icon-192.png">
+    <script src="{{ site.baseurl }}/register-sw.js"></script>
+
     {% if page.type == 'year' %}
       {% seo title=false %}
       <title>{{ page.date | date: "%Y" }} Archive | {{ site.title}}</title>

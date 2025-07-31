@@ -8,14 +8,16 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/uploads/wtfjht-logo192.png",
+      "src": "/uploads/web-app-manifest-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
-      "src": "/uploads/wtfjht-logo512.png",
+      "src": "/uploads/web-app-manifest-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }

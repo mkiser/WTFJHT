@@ -30,20 +30,26 @@
     <style type="text/css">
     #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
     </style>
-    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald|Poppins" type="text/css"> -->
-    <!-- <link href="{{ site.url }}{{ site.baseurl }}/public/css/quiz/slickQuiz.css" media="screen" rel="stylesheet" type="text/css"> -->
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/rrssb.css" />
-    <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/public/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/public/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
+    <link rel="manifest" href="{{ site.url }}{{ site.baseurl }}/manifest.json">
+    <script src="{{ site.url }}{{ site.baseurl }}/register-sw.js"></script>
+    <meta name="theme-color" content="#000000">
+    
+    <!-- <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/public/favicon.ico" type="image/x-icon"> -->
+    <!-- <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/public/favicon.ico" type="image/x-icon"> -->
+
+    <!-- <link rel="apple-touch-icon" href="{{ site.url }}{{ site.baseurl }}/uploads/wtfjht-logo192.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.url }}{{ site.baseurl }}/uploads/wtfjht-logo192.png">
+ -->
+    <link rel="shortcut icon" href="{{ site.url }}{{ site.baseurl }}/uploads/favicon.ico" />
+    <link rel="icon" type="image/svg+xml" href="{{ site.url }}{{ site.baseurl }}/uploads/favicon.svg" />
+    <link rel="icon" type="image/png" href="{{ site.url }}{{ site.baseurl }}/uploads/favicon-96x96.png" sizes="96x96" />
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}{{ site.baseurl }}/uploads/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="WTFJHT" />
+
+    
     <link rel="alternate" type="application/atom+xml" title="Atom - {{ site.title }}" href="{{ site.url }}{{ site.baseurl }}/atom.xml">
     <link rel='alternate' type='application/rss+xml' title='RSS - {{ site.title }}' href="{{ site.url }}{{ site.baseurl }}/rss.xml">
-
-    <!-- PWA  Tags -->
-    <link rel="manifest" href="{{ site.baseurl }}/manifest.json">
-    <meta name="theme-color" content="#000000">
-    <link rel="apple-touch-icon" href="{{ site.baseurl }}/uploads/wtfjht-logo192.png">
-    <script src="{{ site.baseurl }}/register-sw.js"></script>
 
     {% if page.type == 'year' %}
       {% seo title=false %}

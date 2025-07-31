@@ -3,7 +3,7 @@ name: Notify Slack on New File in _posts
 on:
   push:
     branches:
-      - master  # Adjust this if your main branch has a different name
+      - master
     paths:
       - '_posts/**'
   workflow_dispatch:
@@ -24,7 +24,7 @@ jobs:
           echo "Most Recent Commit:"
           git log -1
 
-      - name: Check for new files
+      - name: Check for new files and build message
         id: files
         run: |
           if git rev-parse HEAD^ >/dev/null 2>&1; then
@@ -35,23 +35,30 @@ jobs:
                 TITLE=$(awk '/^---/{f=!f; next} f && /^title:/ {sub(/^title:[ ]*/, "", $0); print $0; exit}' "$FILE")
                 DESCRIPTION=$(awk '/^---/{f=!f; next} f && /^description:/ {sub(/^description:[ ]*/, "", $0); print $0; exit}' "$FILE")
                 URL="https://github.com/mkiser/WTFJHT/blob/master/${FILE}"
-                LINK="<${URL}|*${TITLE}: ${DESCRIPTION}*> → GitHub"
-                MESSAGE+="📦 ${LINK}\n"
+                MESSAGE+="📦 <${URL}|*${TITLE}: ${DESCRIPTION}*> → GitHub\n"
               done
+
+              # Escape for GitHub output
               MESSAGE="${MESSAGE//'%'/'%25'}"
               MESSAGE="${MESSAGE//$'\n'/'%0A'}"
               MESSAGE="${MESSAGE//$'\r'/'%0D'}"
-              echo "::set-output name=message::$MESSAGE"
+
+              echo "message=$MESSAGE" >> $GITHUB_OUTPUT
             else
-              echo "::set-output name=message::No new files added to _posts."
+              echo "message=No new files added to _posts." >> $GITHUB_OUTPUT
             fi
           else
-            echo "::set-output name=message::No previous commit to compare."
+            echo "message=No previous commit to compare." >> $GITHUB_OUTPUT
           fi
 
       - name: Send message to Slack
-        if: steps.files.outputs.message != 'No new files added to _posts.' && steps.files.outputs.message != 'No previous commit to compare.'
+        if: ${{ steps.files.outputs.message != 'No new files added to _posts.' && steps.files.outputs.message != 'No previous commit to compare.' }}
         run: |
+          echo "Sending message:"
+          echo "${{ steps.files.outputs.message }}"
+
+          PAYLOAD=$(jq -nc --arg text "${{ steps.files.outputs.message }}" '{text: $text}')
+
           curl -X POST -H 'Content-type: application/json' \
-            --data '{"text":"${{ steps.files.outputs.message }}"}' \
+            --data "$PAYLOAD" \
             ${{ secrets.SLACK_WEBHOOK_URL }}

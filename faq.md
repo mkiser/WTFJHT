@@ -1,9 +1,7 @@
 ---
 title: WTFAQ
 date: 2017-01-20 21:53:00 -08:00
-image:
-  twitter: "/public/wtfjht-t.jpg"
-  facebook: "/public/wtfjht-f.jpg"
+image: "/uploads/og-image.jpg"
 layout: page
 ---
 

@@ -49,12 +49,12 @@ jobs:
             echo "📌 Title: $TITLE"
             echo "📝 Description: $DESCRIPTION"
             URL="https://github.com/mkiser/WTFJHT/blob/master/${FILE}"
-            MESSAGE+="📦 <${URL}|*${TITLE}: ${DESCRIPTION}*> → GitHub\n"
+            MESSAGE+="📦 *<${URL}|${TITLE}: ${DESCRIPTION}>* → GitHub\n"
           done
 
           echo -e "✅ Slack message:\n$MESSAGE"
 
-          # Escape for GitHub Actions output
+          # Escape special characters for GitHub output
           MESSAGE="${MESSAGE//'%'/'%25'}"
           MESSAGE="${MESSAGE//$'\n'/'%0A'}"
           MESSAGE="${MESSAGE//$'\r'/'%0D'}"
@@ -65,7 +65,9 @@ jobs:
           echo "⏩ Sending to Slack:"
           echo "${{ steps.files.outputs.message }}"
 
-          PAYLOAD=$(jq -nc --arg text "${{ steps.files.outputs.message }}" '{text: $text}')
+          # Escape double quotes for JSON
+          ESCAPED_MESSAGE=$(echo "${{ steps.files.outputs.message }}" | sed 's/"/\\"/g')
+          PAYLOAD="{\"text\": \"${ESCAPED_MESSAGE}\"}"
 
           curl -v -X POST -H 'Content-type: application/json' \
             --data "$PAYLOAD" \

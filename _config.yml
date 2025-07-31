@@ -1,5 +1,9 @@
 ---
 title: What The Fuck Just Happened Today?
+name: What The Fuck Just Happened Today?
+tagline: Political News for Normal People.
+description: Your essential guide to the shock and awe in national politics. A sane,
+  once-a-day newsletter helping normal people make sense of the news.
 timezone: America/Los_Angeles
 collections:
   authors:
@@ -131,11 +135,6 @@ defaults:
       type: NewsArticle
 is_away_mode: false
 permalink: pretty
-name: What The Fuck Just Happened Today?
-tagline: Your essential guide to the shock and awe in national politics. A sane, once-a-day
-  newsletter helping normal people make sense of the news.
-description: Your essential guide to the shock and awe in national politics. A sane,
-  once-a-day newsletter helping normal people make sense of the news.
 url: https://whatthefuckjusthappenedtoday.com
 baseurl: 
 source: "."

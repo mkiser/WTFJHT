@@ -8,12 +8,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "{{ site.baseurl }}/uploads/wtfjht-logo192.png",
+      "src": "/uploads/wtfjht-logo192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "{{ site.baseurl }}/uploads/wtfjht-logo512.png",
+      "src": "/uploads/wtfjht-logo512.png",
       "sizes": "512x512",
       "type": "image/png"
     }

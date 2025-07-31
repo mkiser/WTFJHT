@@ -74,7 +74,7 @@ defaults:
     permalink: "/:year/:month/:day/latest/"
     title: ''
     description: ''
-    image: https://whatthefuckjusthappenedtoday.com/public/wtfjht-f.jpg
+    image: https://whatthefuckjusthappenedtoday.com/uploads/og-image.jpg
     flag: The Latest.
     is_promoted: false
     layout: note
@@ -171,7 +171,7 @@ social:
   - https://www.threads.net/@wtfjht
   - https://mastodon.social/@wtfjht
   - https://www.facebook.com/wtfjht
-logo: "/public/wtfjht-f.jpg"
+logo: "/uploads/og-image.jpg"
 author:
   twitter: matt_kiser
   name: Matt Kiser

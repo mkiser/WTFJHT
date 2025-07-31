@@ -11,6 +11,7 @@ on:
 jobs:
   notify_slack:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
@@ -19,46 +20,51 @@ jobs:
 
       - name: Debug info
         run: |
-          echo "Repository Status:"
-          git status
-          echo "Most Recent Commit:"
+          echo "Triggered by: ${{ github.event_name }}"
+          echo "Most recent commit:"
           git log -1
 
-      - name: Check for new files and build message
+      - name: Determine file(s) and build Slack message
         id: files
         run: |
-          if git rev-parse HEAD^ >/dev/null 2>&1; then
-            NEW_FILES=$(git diff --diff-filter=A --name-only HEAD^ HEAD _posts/)
-            if [[ -n "$NEW_FILES" ]]; then
-              MESSAGE=""
-              for FILE in $NEW_FILES; do
-                TITLE=$(awk '/^---/{f=!f; next} f && /^title:/ {sub(/^title:[ ]*/, "", $0); print $0; exit}' "$FILE")
-                DESCRIPTION=$(awk '/^---/{f=!f; next} f && /^description:/ {sub(/^description:[ ]*/, "", $0); print $0; exit}' "$FILE")
-                URL="https://github.com/mkiser/WTFJHT/blob/master/${FILE}"
-                MESSAGE+="📦 <${URL}|*${TITLE}: ${DESCRIPTION}*> → GitHub\n"
-              done
-
-              # Escape for GitHub output
-              MESSAGE="${MESSAGE//'%'/'%25'}"
-              MESSAGE="${MESSAGE//$'\n'/'%0A'}"
-              MESSAGE="${MESSAGE//$'\r'/'%0D'}"
-
-              echo "message=$MESSAGE" >> $GITHUB_OUTPUT
-            else
-              echo "message=No new files added to _posts." >> $GITHUB_OUTPUT
-            fi
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "🧪 Manual run — using most recent file in _posts/"
+            FILES=$(ls -t _posts/* | head -n 1)
           else
-            echo "message=No previous commit to compare." >> $GITHUB_OUTPUT
+            echo "🔍 Push event — checking for new files"
+            FILES=$(git diff --diff-filter=A --name-only HEAD^ HEAD _posts/)
           fi
 
+          if [[ -z "$FILES" ]]; then
+            echo "message=No new files to process." >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          MESSAGE=""
+          for FILE in $FILES; do
+            echo "🆕 Processing: $FILE"
+
+            TITLE=$(awk '/^---/{f=!f; next} f && /^title:/ {sub(/^title:[ ]*/, "", $0); print $0; exit}' "$FILE")
+            DESCRIPTION=$(awk '/^---/{f=!f; next} f && /^description:/ {sub(/^description:[ ]*/, "", $0); print $0; exit}' "$FILE")
+            URL="https://github.com/mkiser/WTFJHT/blob/master/${FILE}"
+            MESSAGE+="📦 <${URL}|*${TITLE}: ${DESCRIPTION}*> → GitHub\n"
+          done
+
+          echo -e "✅ Slack message:\n$MESSAGE"
+
+          # Escape for GitHub Actions output
+          MESSAGE="${MESSAGE//'%'/'%25'}"
+          MESSAGE="${MESSAGE//$'\n'/'%0A'}"
+          MESSAGE="${MESSAGE//$'\r'/'%0D'}"
+          echo "message=$MESSAGE" >> $GITHUB_OUTPUT
+
       - name: Send message to Slack
-        if: ${{ steps.files.outputs.message != 'No new files added to _posts.' && steps.files.outputs.message != 'No previous commit to compare.' }}
         run: |
-          echo "Sending message:"
+          echo "⏩ Sending to Slack:"
           echo "${{ steps.files.outputs.message }}"
 
           PAYLOAD=$(jq -nc --arg text "${{ steps.files.outputs.message }}" '{text: $text}')
 
-          curl -X POST -H 'Content-type: application/json' \
+          curl -v -X POST -H 'Content-type: application/json' \
             --data "$PAYLOAD" \
             ${{ secrets.SLACK_WEBHOOK_URL }}

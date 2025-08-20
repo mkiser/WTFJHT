@@ -78,6 +78,15 @@ jobs:
         if: github.event_name != 'schedule'
         run: |
           curl http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
+      
+      - name: Ping WebSub hub
+        run: |
+          HUB=https://pubsubhubbub.appspot.com/
+          BASE=https://whatthefuckjusthappenedtoday.com
+          curl -s -X POST "$HUB" -d "hub.mode=publish" \
+            -d "hub.url=$BASE/rss.xml" \
+            -d "hub.url=$BASE/atom.xml" \
+            -d "hub.url=$BASE/feed.json"
 
       - name: Notify Slack
         if: always()

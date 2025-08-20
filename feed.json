@@ -1,0 +1,103 @@
+---
+layout: null
+permalink: /feed.json
+sitemap: false
+---
+
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ site.title | jsonify }},
+  "home_page_url": "{{ site.url }}{{ site.baseurl }}/",
+  "feed_url": "{{ site.url }}{{ site.baseurl }}/feed.json",
+  "description": {{ site.description | jsonify }},
+  "language": "en-US",
+  "icon": "{{ site.url }}{{ site.baseurl }}/uploads/og-image.jpg",
+  "favicon": "{{ site.url }}{{ site.baseurl }}/favicon.ico",
+
+  "authors": [
+    { "name": {{ site.author.name | jsonify }}, "url": "{{ site.url }}{{ site.baseurl }}/" }
+  ],
+
+  "hubs": [
+    { "type": "WebSub", "url": "https://pubsubhubbub.appspot.com/" }
+  ],
+
+  "items": [
+    {% for post in site.posts limit:50 %}
+    {% assign canonical = site.url | append: site.baseurl | append: post.url %}
+    {% assign tios = post.todayInOneSentence %}
+
+    {%- comment -%}
+      Summary: word-based, plain text (no "Today in one sentence:" prefix)
+    {%- endcomment -%}
+    {% capture summary_text -%}
+      {{ tios | default: post.description | default: post.excerpt | strip_html | strip | replace: "\n"," " }}
+    {%- endcapture %}
+
+    {%- comment -%}
+      Make internal links absolute for JSON Feed (no xml:base here)
+    {%- endcomment -%}
+    {% capture href_abs %}href="{{ site.url }}{{ site.baseurl }}/{% endcapture %}
+    {% capture src_abs  %}src="{{ site.url }}{{ site.baseurl }}/{% endcapture %}
+    {% capture post_html -%}
+      {{ post.content
+         | replace: 'href="/', href_abs
+         | replace: 'src="/',  src_abs
+      }}
+    {%- endcapture %}
+
+    {% capture historical_html -%}
+      {% if post.years_ago_links %}
+        <hr>
+        <ul>
+          {% for link in post.years_ago_links %}
+            <li>
+              <strong>
+                {% case link.years_ago %}
+                  {% when 1 %}Today last year:{% when 2 %}Two years ago today:{% when 3 %}Three years ago today:{% when 4 %}Four years ago today:{% when 5 %}Five years ago today:{% when 6 %}Six years ago today:{% when 7 %}Seven years ago today:{% when 8 %}Eight years ago today:{% else %}{{ link.years_ago }} years ago today:
+                {% endcase %}
+              </strong>
+              <a href="{{ link.url | absolute_url }}">{{ link.title }}: {{ link.desc }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {%- endcapture %}
+
+    {% capture ctas_html -%}
+      <hr>
+      <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a></p>
+      <p><strong>Support today’s essential newsletter and resist the daily shock and awe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/membership">Become a member</a></p>
+    {%- endcapture %}
+
+    {% capture full_html -%}
+      {% if site.is_away_mode == true %}
+      {% include away_mode.html %}
+      {% endif %}
+
+      {% if tios and tios != '' %}
+        <p><em><strong>Today in one sentence</strong>: {{ tios }}</em></p>
+        <hr>
+      {% endif %}
+
+      {{ post_html }}
+      {{ historical_html }}
+      {{ ctas_html }}
+    {%- endcapture %}
+
+    {
+      "id": "{{ canonical }}",
+      "url": "{{ canonical }}",
+      "title": {{ post.title | append: ': ' | append: post.description | jsonify }},  
+      "content_html": {{ full_html | strip | jsonify }},
+      "summary": {{ summary_text | truncatewords: 60 | jsonify }},
+      "date_published": "{{ post.date | date_to_xmlschema }}",
+      {% if post.last_modified %}"date_modified": "{{ post.last_modified | date_to_xmlschema }}",{% endif %}
+      "authors": [
+        { "name": {{ site.author.name | jsonify }}, "url": "{{ site.url }}{{ site.baseurl }}/" }
+      ],
+      "tags": ["politics"]
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}

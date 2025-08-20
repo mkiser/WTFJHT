@@ -6,7 +6,8 @@ layout:
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
   xmlns:atom="http://www.w3.org/2005/Atom"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>{{ site.title | xml_escape }}</title>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
@@ -33,17 +34,26 @@ layout:
          | default: post.description
          | default: post.excerpt
          | strip_html | strip
-         | truncatewords: 60 %} 
+         | truncatewords: 60 %}
+      {% assign img_src = site.url | append: site.baseurl | append: post.image %}
 
       <item>
         <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
         <link>{{ canonical }}</link>
         <guid isPermaLink="true">{{ canonical }}</guid>
+        {% if post.image %}
+          <media:content url="{{ img_src }}" medium="image" />
+          <media:thumbnail url="{{ img_src }}" />
+        {% endif %}
         <author>{{ site.author.email }} ({{ site.author.name }})</author>
         <pubDate>{{ post.date | date:"%a, %d %b %Y %T %z" }}</pubDate>
         <category>politics</category>
         <description><![CDATA[{{ summary }}]]></description>
         <content:encoded xml:base="{{ site.url }}{{ site.baseurl }}/"><![CDATA[
+{% if post.image %}
+<p><img src="{{ img_src }}" alt="{{ post.title | xml_escape }}" /></p>
+{% endif %}
+
 {% if site.is_away_mode == true %}
 {% include away_mode.html %}
 {% endif %}

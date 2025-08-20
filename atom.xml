@@ -4,7 +4,9 @@ layout:
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:media="http://search.yahoo.com/mrss/"
+      xml:lang="en-US">
   <title>{{ site.title | xml_escape }}</title>
   <link href="{{ site.url }}{{ site.baseurl }}/atom.xml" rel="self" type="application/atom+xml"/>
   <link href="{{ site.url }}{{ site.baseurl }}/" rel="alternate" type="text/html"/>
@@ -27,13 +29,17 @@ layout:
        | default: post.excerpt
        | strip_html | strip
        | truncatewords: 60 %}
-
+    {% assign img_src = site.url | append: site.baseurl | append: post.image %}
     <entry>
       <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
       <link href="{{ canonical }}" rel="alternate" type="text/html"/>
       <published>{{ post.date | date_to_xmlschema }}</published>
       <updated>{{ post.last_modified | default: post.date | date_to_xmlschema }}</updated>
       <id>{{ canonical }}</id>
+      {% if post.image %}
+        <media:content url="{{ img_src }}" medium="image" />
+        <media:thumbnail url="{{ img_src }}" />
+      {% endif %}
       <author>
         <name>{{ post.author | default: site.author.name }}</name>
         <email>{{ site.author.email }}</email>
@@ -41,6 +47,10 @@ layout:
       </author>
       <summary type="html"><![CDATA[{{ summary }}]]></summary>
       <content type="html" xml:base="{{ site.url }}{{ site.baseurl }}/"><![CDATA[
+{% if post.image %}
+<p><img src="{{ img_src }}" alt="{{ post.title | xml_escape }}" /></p>
+{% endif %}
+
 {% if site.is_away_mode == true %}
 {% include away_mode.html %}
 {% endif %}

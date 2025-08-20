@@ -16,7 +16,7 @@ layout:
     <email>{{ site.author.email }}</email>
   </author>
   <rights>What The Fuck Just Happened Today? content © WTF Just Happened? LLC — CC BY-NC-SA 4.0</rights>
-  <icon>{{ site.url }}{{ site.baseurl }}/uploads/favicon.ico</icon>
+  <icon>{{ site.url }}{{ site.baseurl }}/uploads/web-app-manifest-192x192.png</icon>
   <logo>{{ site.url }}{{ site.baseurl }}/uploads/og-image.jpg</logo>
 
   {% for post in site.posts limit:50 %}

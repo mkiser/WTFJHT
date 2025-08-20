@@ -39,7 +39,7 @@ layout:
         <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
         <link>{{ canonical }}</link>
         <guid isPermaLink="true">{{ canonical }}</guid>
-        <author>{{ site.author.name }} ({{ site.author.email }})</author>
+        <author>{{ site.author.email }} ({{ site.author.name }})</author>
         <pubDate>{{ post.date | date:"%a, %d %b %Y %T %z" }}</pubDate>
         <category>politics</category>
         <description><![CDATA[{{ summary }}]]></description>

@@ -1,40 +1,95 @@
 ---
-layout: 
+layout: null
+permalink: /rss.xml
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>    
-        <title>{{ site.title }}</title>
-        <link>{{ site.url }}{{ site.baseurl }}/rss.xml</link>
-        <atom:link href="{{ site.url }}{{ site.baseurl }}/rss.xml" rel="self" type="application/rss+xml" />
-        <description>{{ site.description }}</description>
-        <language>en-us</language>
-        <copyright>What The Fuck Just Happened Today site content by WTF Just Happened? LLC is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
-        <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <lastBuildDate>{{ site.time | date:"%a, %d %b %Y %T %z" }}</lastBuildDate>
-        <managingEditor>{{ site.author.email }} ({{ site.author.name }})</managingEditor>
-        <webMaster>{{ site.author.email }} ({{ site.author.name }})</webMaster>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ site.title | xml_escape }}</title>
+    <link>{{ site.url }}{{ site.baseurl }}/</link>
+    <atom:link rel="self" type="application/rss+xml" href="{{ site.url }}{{ site.baseurl }}/rss.xml" />
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description>{{ site.description | xml_escape }}</description>
+    <language>en-us</language>
+    <copyright>What The Fuck Just Happened Today site content by WTF Just Happened? LLC is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <lastBuildDate>{{ site.time | date:"%a, %d %b %Y %T %z" }}</lastBuildDate>
+    <managingEditor>{{ site.author.email }} ({{ site.author.name }})</managingEditor>
+    <webMaster>{{ site.author.email }} ({{ site.author.name }})</webMaster>
+    <category>politics</category>
+    <image>
+      <url>{{ site.url }}{{ site.baseurl }}/uploads/og-image.jpg</url>
+      <title>{{ site.title | xml_escape }}</title>
+      <link>{{ site.url }}{{ site.baseurl }}/</link>
+    </image>
+
+    {% for post in site.posts limit:50 %}
+      {% assign canonical = site.url | append: site.baseurl | append: post.url %}
+      {% assign tios = post.todayInOneSentence %}
+      {% assign summary = tios
+         | default: post.description
+         | default: post.excerpt
+         | strip_html | strip
+         | truncatewords: 60 %} 
+
+      <item>
+        <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
+        <link>{{ canonical }}</link>
+        <guid isPermaLink="true">{{ canonical }}</guid>
+        <author>{{ site.author.email }} ({{ site.author.name }})</author>
+        <pubDate>{{ post.date | date:"%a, %d %b %Y %T %z" }}</pubDate>
         <category>politics</category>
-        {% for post in site.posts limit:50 %}
-        <item>
-            <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
-            <description>
-                <![CDATA[{{ post.content | strip_html | truncate: 250 }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>]]>
-            </description>
-            <content:encoded>
-                <![CDATA[<img src="{{ site.url }}{{ site.baseurl }}{{ post.image }}"/> 
-                {% if site.is_away_mode == true %}
-                    {% include away_mode.html %}
-                {% endif %}
-                {{ post.content }} <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p><p><strong>Support today's essential newsletter and resist the daily shock and awe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/membership">Become a member</a></p>]]>
-            </content:encoded>
-            <author>{{ site.author.email }} ({{ site.author.name }})</author>
-            <pubDate>{{ post.date | date:"%a, %d %b %Y %T %z" }}</pubDate>
-            <link>{{ site.url }}{{ site.baseurl }}{{ post.url }}?utm_source=rss&amp;utm_medium=referral&amp;utm_campaign=daily_update</link>
-            <guid isPermaLink="false">{{ site.url }}{{ site.baseurl }}{{ post.url }}</guid>
-            <category>politics</category>
-        </item>
-        {% endfor %}
+        <description><![CDATA[{{ summary }}]]></description>
+        <content:encoded xml:base="{{ site.url }}{{ site.baseurl }}/"><![CDATA[
+{% if site.is_away_mode == true %}
+{% include away_mode.html %}
+{% endif %}
+
+{% if tios and tios != '' %}
+<p><em><strong>Today in one sentence</strong>: {{ tios }}</em></p>
+<hr>
+{% endif %}
+
+{{ post.content | replace: ']]>', ']]]]><![CDATA[>' }}
+
+{% if post.years_ago_links %}
+<hr>
+<ul>
+  {% for link in post.years_ago_links %}
+    {% capture label %}
+      {% if link.years_ago == 1 %}
+        Today last year:
+      {% elsif link.years_ago == 2 %}
+        Two years ago today:
+      {% elsif link.years_ago == 3 %}
+        Three years ago today:
+      {% elsif link.years_ago == 4 %}
+        Four years ago today:
+      {% elsif link.years_ago == 5 %}
+        Five years ago today:
+      {% elsif link.years_ago == 6 %}
+        Six years ago today:
+      {% elsif link.years_ago == 7 %}
+        Seven years ago today:
+      {% elsif link.years_ago == 8 %}
+        Eight years ago today:
+      {% else %}
+        {{ link.years_ago }} years ago today:
+      {% endif %}
+    {% endcapture %}
+  <li><strong>{{ label | strip }}</strong> <a href="{{ link.url | absolute_url }}">{{ link.title }}: {{ link.desc }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}
+
+<hr>
+<p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a></p>
+<p><strong>Support today’s essential newsletter and resist the daily shock and awe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/membership">Become a member</a></p>
+        ]]></content:encoded>
+      </item>
+    {% endfor %}
   </channel>
 </rss>

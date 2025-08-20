@@ -11,7 +11,7 @@ sitemap: false
   "feed_url": "{{ site.url }}{{ site.baseurl }}/feed.json",
   "description": {{ site.description | jsonify }},
   "language": "en-US",
-  "icon": "{{ site.url }}{{ site.baseurl }}/uploads/og-image.jpg",
+  "icon": "{{ site.url }}{{ site.baseurl }}/uploads/web-app-manifest-512x512.png",
   "favicon": "{{ site.url }}{{ site.baseurl }}/uploads/favicon.ico",
 
   "authors": [

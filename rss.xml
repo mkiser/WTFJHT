@@ -1,6 +1,6 @@
 ---
-layout: null
-permalink: /rss.xml
+permalink: "/rss.xml"
+layout: 
 ---
 
 <?xml version="1.0" encoding="utf-8"?>

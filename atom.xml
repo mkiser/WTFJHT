@@ -1,6 +1,6 @@
 ---
-layout: null
-permalink: /atom.xml
+permalink: "/atom.xml"
+layout: 
 ---
 
 <?xml version="1.0" encoding="utf-8"?>

@@ -1,6 +1,6 @@
 ---
-layout: null
-permalink: /feed.json
+permalink: "/feed.json"
+layout: 
 sitemap: false
 ---
 

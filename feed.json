@@ -12,7 +12,7 @@ sitemap: false
   "description": {{ site.description | jsonify }},
   "language": "en-US",
   "icon": "{{ site.url }}{{ site.baseurl }}/uploads/og-image.jpg",
-  "favicon": "{{ site.url }}{{ site.baseurl }}/favicon.ico",
+  "favicon": "{{ site.url }}{{ site.baseurl }}/uploads/favicon.ico",
 
   "authors": [
     { "name": {{ site.author.name | jsonify }}, "url": "{{ site.url }}{{ site.baseurl }}/" }

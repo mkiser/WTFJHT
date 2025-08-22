@@ -1,9 +1,8 @@
-const CACHE_NAME = "wtfjht-lite-cache-v1";
+const CACHE_NAME = "wtfjht-lite-cache-v3";
 
 const urlsToCache = [
-  "/manifest.json",
-  "/uploads/web-app-manifest-192x192.png",
-  "/uploads/web-app-manifest-512x512.png"
+  "/web-app-manifest-192x192.png?v=3",
+  "/web-app-manifest-512x512.png?v=3"
 ];
 
 self.addEventListener("install", event => {

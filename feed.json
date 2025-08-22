@@ -11,8 +11,8 @@ sitemap: false
   "feed_url": "{{ site.url }}{{ site.baseurl }}/feed.json",
   "description": {{ site.description | jsonify }},
   "language": "en-US",
-  "icon": "{{ site.url }}{{ site.baseurl }}/uploads/web-app-manifest-512x512.png?v=2",
-  "favicon": "{{ site.url }}{{ site.baseurl }}/uploads/favicon.ico?v=2",
+  "icon": "{{ site.url }}{{ site.baseurl }}/web-app-manifest-512x512.png?v=3",
+  "favicon": "{{ site.url }}{{ site.baseurl }}/favicon.ico?v=3",
 
   "authors": [
     { "name": {{ site.author.name | jsonify }}, "url": "{{ site.url }}{{ site.baseurl }}/" }

@@ -22,7 +22,7 @@ layout:
     <webMaster>{{ site.author.email }} ({{ site.author.name }})</webMaster>
     <category>politics</category>
     <image>
-      <url>{{ site.url }}{{ site.baseurl }}/uploads/web-app-manifest-512x512.png?v=2</url>
+      <url>{{ site.url }}{{ site.baseurl }}/web-app-manifest-512x512.png?v=3</url>
       <title>{{ site.title | xml_escape }}</title>
       <link>{{ site.url }}{{ site.baseurl }}/</link>
     </image>

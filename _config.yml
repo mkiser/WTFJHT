@@ -74,7 +74,7 @@ defaults:
     permalink: "/:year/:month/:day/latest/"
     title: ''
     description: ''
-    image: https://whatthefuckjusthappenedtoday.com/uploads/og-image.jpg
+    image: https://whatthefuckjusthappenedtoday.com/og-image.jpg
     flag: The Latest.
     is_promoted: false
     layout: note
@@ -170,7 +170,7 @@ social:
   - https://www.threads.net/@wtfjht
   - https://mastodon.social/@wtfjht
   - https://www.facebook.com/wtfjht
-logo: "/uploads/og-image.jpg"
+logo: "/og-image.jpg?v=3"
 author:
   twitter: matt_kiser
   name: Matt Kiser
@@ -309,7 +309,7 @@ plugins:
 - jekyll-archives
 - jekyll-include-cache
 - jekyll-algolia
-podcast_album_art: "/uploads/podcast-3000x3000.png"
+podcast_album_art: "/podcast-3000x3000.png?v=3"
 podcast_title: WTF Just Happened Today?
 podcast_owner: Matt Kiser
 podcast_email: matt@whatthefuckjusthappenedtoday.com

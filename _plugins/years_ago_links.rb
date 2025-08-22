@@ -1,53 +1,61 @@
+require "date"
+
 module Jekyll
   class YearsAgoLinks < Generator
     safe true
+    priority :low  
 
     def generate(site)
-      site.posts.docs.each do |post|
-        generate_years_ago_links(site, post)
+      keep_years = site.config.dig("years_ago", "keep_years") 
+
+      index = {}
+      site.posts.docs.each do |p|
+        d = p.data["date"]
+        index[[d.year, d.month, d.day]] = p
       end
-    end
 
-    private
+      site.posts.docs.each do |post|
+        current_date   = post.data["date"]
+        blog_start_y   = 2017
+        current_year   = Date.today.year
+        max_years_ago  = current_year - blog_start_y
+        years_ago_data = []
 
-    def generate_years_ago_links(site, current_post)
-      current_date = current_post.data['date']
-      blog_start_year = 2017
-      current_year = Date.today.year
-      max_years_ago = current_year - blog_start_year
-      years_ago_data = []
+        (1..max_years_ago).each do |years_ago|
+          next if keep_years && !keep_years.include?(years_ago)
 
-      # Iterate for 1 to 6 years ago
-      (1..max_years_ago).each do |years_ago|
-        target_year = current_date.year - years_ago
-        target_month = current_date.month
-        target_day = current_date.day
-        
-        # Adjust for leap years
-        if target_month == 2 && target_day == 29 && !Date.leap?(target_year)
-          target_day = 28  # Adjust to February 28 for non-leap years
-        end
-        
-        # Find a post with the same month and day in the target year
-        matching_post = site.posts.docs.find do |p|
-          p.data['date'].year == target_year &&
-          p.data['date'].month == target_month &&
-          p.data['date'].day == target_day &&
-          p != current_post
-        end
+          y = current_date.year - years_ago
+          m = current_date.month
+          d = current_date.day
+          d = 28 if m == 2 && d == 29 && !Date.leap?(y)  
 
-        if matching_post
+          match = index[[y, m, d]]
+          next unless match && match != post
+
           years_ago_data << {
-            'years_ago' => years_ago,
-            'title' => matching_post.data['title'],
-            'desc' => matching_post.data['description'] || '',
-            'url' => matching_post.url
+            "years_ago" => years_ago,
+            "title"     => match.data["title"],
+            "desc"      => (match.data["description"] || "").to_s,
+            "url"       => match.url  
           }
         end
-      end
 
-      # Store the collected data in the current post
-      current_post.data['years_ago_links'] = years_ago_data
+        post.data["years_ago_links"] = years_ago_data.sort_by { |h| h["years_ago"].to_i }
+
+        prev = post.respond_to?(:previous) ? post.previous : nil
+        if prev
+          cd = post.data["date"].to_date
+          pd = prev.data["date"].to_date
+          if (cd - pd) == 1
+            post.data["yesterday_link"] = {
+              "label" => "Yesterday's news today",
+              "title" => prev.data["title"],
+              "desc"  => (prev.data["description"] || "").to_s,
+              "url"   => prev.url  
+            }
+          end
+        end
+      end
     end
   end
 end

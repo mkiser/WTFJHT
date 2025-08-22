@@ -133,12 +133,16 @@ seo:
               <strong>Seven years ago today:</strong>
             {% elsif link.years_ago == 8 %}
               <strong>Eight years ago today:</strong>
+            {% elsif link.years_ago == 9 %}
+              <strong>Nine years ago today:</strong>
             {% endif %}
-            <a href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}: {{ link.desc }}</a>
+            <a href="{{ link.url | absolute_url }}">{{ link.title }}: {{ link.desc }}</a>
           </div>
         {% endfor %}
       {% endif %}
     </div>
+
+    
     <hr>
 
     </div>

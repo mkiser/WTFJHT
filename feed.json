@@ -26,17 +26,12 @@ sitemap: false
     {% for post in site.posts limit:50 %}
     {% assign canonical = site.url | append: site.baseurl | append: post.url %}
     {% assign tios = post.todayInOneSentence %}
+    {% assign image = site.url | append: site.baseurl | append: post.image %}
 
-    {%- comment -%}
-      Summary: word-based, plain text (no "Today in one sentence:" prefix)
-    {%- endcomment -%}
     {% capture summary_text -%}
       {{ tios | default: post.description | default: post.excerpt | strip_html | strip | replace: "\n"," " }}
     {%- endcapture %}
 
-    {%- comment -%}
-      Make internal links absolute for JSON Feed (no xml:base here)
-    {%- endcomment -%}
     {% capture href_abs %}href="{{ site.url }}{{ site.baseurl }}/{% endcapture %}
     {% capture src_abs  %}src="{{ site.url }}{{ site.baseurl }}/{% endcapture %}
     {% capture post_html -%}
@@ -89,6 +84,7 @@ sitemap: false
       "id": "{{ canonical }}",
       "url": "{{ canonical }}",
       "title": {{ post.title | append: ': ' | append: post.description | jsonify }},  
+      "image": "{{ image }}",
       "content_html": {{ full_html | strip | jsonify }},
       "summary": {{ summary_text | truncatewords: 60 | jsonify }},
       "date_published": "{{ post.date | date_to_xmlschema }}",

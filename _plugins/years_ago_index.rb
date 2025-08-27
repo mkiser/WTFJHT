@@ -107,7 +107,7 @@ module Jekyll
       page.data["sitemap"] = false
       site.pages << page
 
-      Jekyll.logger.info "years-ago.json", "emitted #{enriched.size} link(s)#{yesterday ? ' + yesterday' : ''}"
+      # Jekyll.logger.info "years-ago.json", "emitted #{enriched.size} link(s)#{yesterday ? ' + yesterday' : ''}"
     end
   end
 end

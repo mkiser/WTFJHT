@@ -70,12 +70,10 @@ New Year's Day 2026 – January 1
 
 _Last updated: Aug 29, 2025_
 
-What The Fuck Just Happened Today? is independent, ad-free, and funded by readers. About 3.5% of readers underwrite this work so everyone else can read for free. Your support pays for the time, tools, and safeguards that keep this thing, well, published. I'm determined to keep it both free and sustainable. 
 
-**TL;DR**: The baseline budget with no operating reserve is **$16,778/month**; The sustainable budget with an operating reserve is **more like ~$18,876/month**.
+***TL;DR***: The baseline budget with no operating reserve is **$16,778/month**; The sustainable budget with an operating reserve is **more like ~$18,876/month**.
 
 ---
-
 
 ***OPERATING COSTS***: 
 1. **Hosting & infrastructure** (S3, Cloudflare, DigitalOcean, etc.): **$200/month**
@@ -89,20 +87,20 @@ _Total Operating Costs: **$41,448/year ($3,454/month)**_
 ---
 
 ***MATT'S LIVING WAGE***: \
-This is a one-person operation, which means your support funds the reporting, writing, editing, fact-checking, production of the newsletter, maintenance of the site and tools, light web development and operations, and audience operations — plus all the unglamorous bits like customer support, vendor wrangling, and fixes when things break. It’s all one job. I publish the math because transparency builds trust, and you deserve to see how your support translates into the product. In short, my living wage is what it takes for me to show up and do the job.
+This is a one-person operation, which means your support funds the reporting, writing, editing, fact-checking, production of the newsletter, maintenance of the site and tools, light web development and operations, and audience development — plus all the unglamorous bits like customer support, vendor wrangling, and fixes when things break. It’s all one job. I publish the math because I believe transparency builds trust and you deserve to see how your support translates into the product. In short, my living wage is what it takes for me to show up and do the job.
 
-I spend about half my time on editorial work, with the other half split between product/tech and operations. To arrive at fair compensation, I blend local labor markets for the roles I actually perform, weighted by time. I don’t tack on a monthly “inflation” line item. Instead, I re-index the base periodically and re-run the math so pay roughly tracks real costs without hiding anything. The blended salaries result in a **base compensation of $109,045/year ($9,087/month)** for someone doing this mix of work in the Seattle, WA area.
+I spend about half my time on editorial work, with the other half split between product/tech and operations. To arrive at fair compensation, I blend local labor markets for the roles I actually perform, weighted by time. I don’t tack on a monthly “inflation” line item. Instead, I re-index the base periodically and re-run the math so my "pay" roughly tracks real costs without hiding anything. The blended salaries result in a **base compensation of $109,045/year ($9,087/month)** for someone doing this mix of work in the Seattle, WA area.
 
 In a normal job, an employer pays for **benefits** like health insurance, retirement match, paid time off, disability and life insurance, professional liability, bookkeeping/tax prep, and admin overhead. As a solo operator, I pay those at “retail” and self-fund PTO. Rather than hiding that inside a bigger salary number, I show it explicitly. Benefits are typically **30–35%** of compensation, so I'll just use the midpoint of **32.5%** because that seems fair: **32.5% × $109,045 = $35,440/year ($2,953/month)**
 
-And then there’s the **self-employment tax**. A regular employer pays payroll taxes on top of salary, but when you’re self-employed, you pay both sides (Social Security + Medicare). I don’t include income taxes because they’re household-specific and not a business operating cost. Self-employment tax is **15.3%** applied to **92.35%** of net earnings: **0.9235 × $109,045 × 15.3% = $15,408/year ($1,284/month)**
+And then there’s the **self-employment tax**. A regular employer pays payroll taxes on top of salary, but when you’re self-employed, you pay both sides (Social Security + Medicare). I don’t include income taxes because they’re household-specific and not a business operating cost anyway. Self-employment tax is **15.3%** applied to **92.35%** of net earnings: **0.9235 × $109,045 × 15.3% = $15,408/year ($1,284/month)**
 
 _Total Living Wage: **$159,892/year ($13,324/month)**_
 
 ---
 
 ***OPERATING RESERVE***: \
-Because reader support is voluntary and variable, a small operating reserve is required to smooth out cash-flow gaps, cover unexpected bills, and account for the general unknown risk associated with running a small business that "sells" a free product. Again, I'd rather publish this explicitly than bury volatility inside “labor.” The suggested range is **10–15%**, so I'll use the midpoint of **12.5%**.
+Because reader support is voluntary and variable, a small operating reserve is required to smooth out cash-flow gaps, cover unexpected bills, and account for the general unknown risk associated with running a small business that "sells" a free product. Again, I'd rather publish this explicitly than bury the volatility inside “labor.” The suggested range is **10–15%**, so I'll use the midpoint of **12.5%**.
 
 _Total Operating Reserve: **$25,168/year ($2,097/month)**_
 
@@ -117,7 +115,7 @@ _Total Operating Reserve: **$25,168/year ($2,097/month)**_
 
 ---
 
-**A note on value**: WTFJHT is free to read and powered by members. Their support unlocks access for everyone else. If you can’t pay right now, that's totally fine! Please stay. Non-financial forms of membership are just as important and impactful as financial forms of membership. The best way to contribute to the success is to share it with your friends and family. It’s free and has a big impact. But if you can, your [membership](https://whatthefuckjusthappenedtoday.com/membership/) keeps this independent, ad-free service alive for all.
+**A note on non-financial forms of membership**: While WTFJHT is free to read, the supporting members unlock access for everyone else. So if you can’t pay right now, that's totally fine! Please stay. Non-financial forms of membership are just as important and impactful as financial forms of membership! The best way to contribute to the success is to share it with your friends and family. It’s free and has a big impact. But if you can, your [membership](https://whatthefuckjusthappenedtoday.com/membership/) keeps this independent, ad-free service alive for all.
 
 
 {% include_cached pledge.html %}

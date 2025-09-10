@@ -164,7 +164,39 @@ footer {
   margin: 1em auto;
   text-align: center;
   max-width: 40rem;
+  h6 {
+    margin-top: 0;
+  }
+
+  p {
+    margin-bottom: 1rem;
+  }
 }
+
+.wtf-plans__grid {
+  &--compact {
+    margin: 1.5rem 0;
+
+    .plan {
+      padding: 1rem;
+      
+      &__price {
+        margin-top: 1.5rem; // Add space for badge
+        font-size: 1.75rem;
+      }
+
+      &__cta {
+        margin-top: 0.5rem;
+      }
+
+      &__bullets,
+      &__impact {
+        display: none;
+      }
+    }
+  }
+}
+
 
 .tout {
   margin: 1em auto;
@@ -434,47 +466,7 @@ h4.pod-lead{
 }
 
 
-.flex-container {
-  display: flex;
-  /* padding: 1em; */
-}
 
-.flex-item {
-  flex: 1;
-  width: 0;
-
-  &:not(:last-child) {
-    margin-right: 1em;
-  }
-}
-
-.package {
-  border: none;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  transition: 0.25s;
-  border-radius: 0;
-
-  &:hover {
-    box-shadow: 0 6px 25px 0 rgba(0, 0, 0, 0.25);
-    transform: scale(1.025);
-  }
-
-  .header {
-    background-color: #333;
-    color: #fff;
-    font-size: 1em;
-  }
-
-
-  li {
-    background-color: #fff;
-    border-bottom: 1px solid #eee;
-    padding: 2em;
-    text-align: center;
-  }
-}
 
 div.flex-item ul.package {
   border: none;
@@ -495,23 +487,346 @@ div.flex-item ul.package {
   }
 }
 
-@media only screen and (max-width: 600px) {
+/*.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+  width: 100%;
+  max-width: 40rem; // Matches other max-width values in your CSS
+  margin: 0 auto;
+}
+
+.flex-item {
+  flex: 0 1 calc(50% - 1em); // Takes up roughly half the container width minus gap
+  min-width: 200px;
+  margin: 0 !important; // Remove existing margin
+}
+
+.package {
+  border: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  transition: 0.25s;
+  border-radius: 0;
+
+  &:hover {
+    @media (min-width: $medium-breakpoint) {
+      box-shadow: 0 6px 25px 0 rgba(0, 0, 0, 0.25);
+      transform: scale(1.025);
+    }
+  }
+
+  .header {
+    background-color: #333;
+    color: #fff;
+    font-size: 1em;
+    padding: 2em;
+    text-align: center;
+  }
+
+  li {
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    padding: 2em;
+    text-align: center;
+  }
+}*/
+
+/*@media (max-width: $medium-breakpoint) {
   .flex-container {
-    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 1em;
   }
 
   .flex-item {
-    flex: 0 0 100%;
-    margin-bottom: 1em;
+    flex: 1 1 100%;
+    margin: 0 0 1em 0 !important;
     width: 100%;
+
+    &:last-child {
+      margin-bottom: 0 !important;
+    }
   }
 
   .package:hover {
     box-shadow: none;
     transform: none;
   }
+}*/
 
-  button {
-    padding: 0.75em 1.5em;
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em; // Consistent spacing
+  justify-content: center;
+  width: 100%;
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.flex-item {
+  flex: 0 1 calc(50% - 1em);
+  min-width: 200px;
+  margin: 0; // Remove all margins from flex items
+}
+
+.package {
+  border: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  transition: 0.25s;
+  border-radius: 0;
+
+  &:hover {
+    @media (min-width: $medium-breakpoint) {
+      box-shadow: 0 6px 25px 0 rgba(0, 0, 0, 0.25);
+      transform: scale(1.025);
+    }
+  }
+
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 1.5em;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+
+    .price {
+      font-size: 1.2em;
+      font-weight: bold;
+    }
+
+    .label {
+      font-size: 0.8em;
+      color: rgba(255, 255, 255, 0.8);
+    }
+  }
+
+  li {
+    background-color: #fff;
+    border-bottom: 1px solid #eee;
+    padding: 2em;
+    text-align: center;
   }
 }
+
+// Media Queries
+@media (max-width: $medium-breakpoint) {
+  .flex-container {
+    flex-direction: column;
+    gap: 1em; // Keep the same gap as desktop
+  }
+
+  .flex-item {
+    flex: 1 1 100%;
+    width: 100%;
+    margin: 0; // Remove all margins
+  }
+
+  .package:hover {
+    box-shadow: none;
+    transform: none;
+  }
+}
+
+
+
+
+/*.wtf-plans {
+  max-width: 40rem; // Matching your existing container width
+  margin: 2rem auto;
+  padding: 0 1rem;
+
+  &__intro {
+    h2 {
+      margin: 0 0 .25rem;
+      color: $gray-5; // Your existing color variable
+    }
+  }
+
+  &__grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(3, minmax(0,1fr));
+    margin-top: 1rem;
+
+    @media (max-width: $medium-breakpoint) {
+      grid-template-columns: 1fr;
+    }
+  }
+}
+
+.plan {
+  background: #fff; // Your existing background color
+  border: 1px solid $border-color; // Your existing border color
+  border-radius: 0; // Matching your existing style
+  padding: 1.25rem;
+  position: relative;
+
+  &--featured {
+    border-color: $link-color; // Your existing accent color
+  }
+
+  &__badge {
+    position: absolute;
+    top: .75rem;
+    left: .75rem;
+    font-size: .75rem;
+    padding: .25rem .5rem;
+
+    &--popular {
+      background: $link-color;
+      color: #fff;
+    }
+
+    &--value {
+      background: $link-color;
+      color: #fff;
+    }
+
+    &--subtle {
+      background: $gray-2;
+      color: $gray-5;
+    }
+  }
+
+  &__price {
+    font-size: 2rem;
+    margin: .75rem 0 .25rem;
+    color: $gray-5;
+
+    span {
+      font-size: .9rem;
+      font-weight: 500;
+      color: $gray-3;
+      margin-left: .15rem;
+    }
+  }
+
+  &__bullets {
+    margin: .75rem 0 1rem;
+    padding-left: 1.1rem;
+
+    li {
+      margin: .25rem 0;
+      color: $gray-3;
+      font-size: .8em;
+    }
+  }
+
+  &__cta {
+    display: inline-block;
+    margin: .25rem 0 .5rem;
+    background: $link-color;
+    color: #fff;
+    text-decoration: none;
+    padding: .65rem 1rem;
+    font-size: .8em;
+
+    &:hover {
+      text-decoration: none;
+      opacity: 0.9;
+    }
+  }
+
+  &__impact {
+    margin: .25rem 0 0;
+    font-size: .75em;
+    color: $gray-3;
+  }
+}
+
+.wtf-drawer {
+  margin-top: 1.25rem;
+  border: 1px solid $border-color;
+
+  &__summary {
+    cursor: pointer;
+    list-style: none;
+    padding: .9rem 1rem;
+    font-weight: 500;
+    color: $gray-5;
+    background: $gray-1;
+  }
+
+  &[open] &__summary {
+    border-bottom: 1px solid $border-color;
+  }
+
+  &__content {
+    padding: 1rem;
+  }
+}
+
+.drawer-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(3, minmax(0,1fr));
+
+  @media (max-width: $medium-breakpoint) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.drawer-item {
+  border: 1px solid $border-color;
+  padding: 1rem;
+
+  h4 {
+    margin-top: 0;
+    color: $gray-5;
+    
+    .muted {
+      color: $gray-3;
+    }
+  }
+}
+
+.drawer__cta {
+  display: inline-block;
+  margin-top: .5rem;
+  background: $gray-2;
+  color: $gray-5;
+  text-decoration: none;
+  padding: .55rem .9rem;
+  font-size: .8em;
+
+  &:hover {
+    text-decoration: none;
+    opacity: 0.9;
+  }
+}
+
+.drawer-links {
+  a {
+    color: $link-color;
+    text-decoration: none;
+    margin-right: .5rem;
+    font-size: .8em;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .sep {
+    margin: 0 .5rem;
+    color: $gray-3;
+  }
+}
+
+.wtf-fineprint {
+  margin: .75rem 0 0;
+  font-size: .75em;
+  color: $gray-3;
+}
+
+.muted {
+  color: $gray-3;
+}*/
+

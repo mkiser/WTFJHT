@@ -70,7 +70,6 @@ New Year's Day 2026 – January 1
 
 _Last updated: Aug 29, 2025_
 
-
 ***TL;DR***: The baseline budget with no operating reserve is **$16,778/month**; The sustainable budget with an operating reserve is **more like ~$18,876/month**.
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Day 1695
 date: 2025-09-11 10:36:00 -07:00
-description: “Pass some gun laws."
+description: '"Pass some gun laws."'
 image: "/uploads/day1695trump.jpg"
 todayInOneSentence: 'Charlie Kirk, the 31-year-old founder of Turning Point USA and
   a central MAGA organizer who built a conservative student network tied to spreading

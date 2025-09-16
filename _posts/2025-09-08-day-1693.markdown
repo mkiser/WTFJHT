@@ -3,12 +3,12 @@ title: Day 1693
 date: 2025-09-08 16:51:00 -07:00
 description: '"A scared man."'
 image: "/uploads/day1692trump.jpg"
-todayInOneSentence: 'House Democrats released Trump’s lewd 2003 letter to Jeffrey
-  Epstein that he insisted was “nonexistent,” “false, malicious, and defamatory”;
-  Trump’s Justice Department asked a judge to keep the names of two people Jeffrey
-  Epstein paid $100,000 and $250,000 in 2018 secret, even though both were protected
-  from prosecution in his 2008 deal; House Speaker Mike Johnson said Trump was “an
-  FBI informant” in the Jeffrey Epstein case, but later walked back the claim, admitting
+todayInOneSentence: House Democrats released Trump’s lewd 2003 letter to Jeffrey Epstein
+  that he insisted was “nonexistent,” “false, malicious, and defamatory”; Trump’s
+  Justice Department asked a judge to keep the names of two people Jeffrey Epstein
+  paid $100,000 and $250,000 in 2018 secret, even though both were protected from
+  prosecution in his 2008 deal; House Speaker Mike Johnson said Trump was “an FBI
+  informant” in the Jeffrey Epstein case, but later walked back the claim, admitting
   he might not have used the “right terminology”; a federal appeals court upheld the
   $83.3 million judgment that Trump repeatedly defamed E. Jean Carroll by calling
   her a liar who would “pay dearly” after he was found liable for sexually abusing
@@ -25,7 +25,7 @@ todayInOneSentence: 'House Democrats released Trump’s lewd 2003 letter to Jeff
   for claiming multiple primary residences, even as his own father and stepmother
   claimed the same exemptions in Michigan and Florida; and U.S. employers added 22,000
   jobs in August, the unemployment rate rose to 4.3% – the highest in nearly four
-  years – and revisions showed the economy actually lost 13,000 jobs in June.'
+  years – and revisions showed the economy actually lost 13,000 jobs in June.
 redirect_from: "/2025/09/08/day-1692/"
 ---
 

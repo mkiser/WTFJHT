@@ -1,9 +1,12 @@
 ---
-title: WTF Is This All About?
+title: About
 date: 2017-01-20 09:47:00 -08:00
 image: "/uploads/og-image.jpg"
 layout: page
+show_title: false
 ---
+
+<h1 class="page-title">About WTF Just Happened Today?</h1>
 
 <p class="lead">A brief history of <a href="https://whatthefuckjusthappenedtoday.com/">WTF Just Happened Today?</a></p> 
 
@@ -40,13 +43,6 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 6. **No strings attached**. There’s no business model trickery here. No ads. No content gates. No selling of data. I have a website and a newsletter, and I never stray from any of the above. To be clear, my business model is as follows: my work is free, but supported entirely by an optional, pay-whatever-you-want membership model where you don’t get anything other than the satisfaction of supporting something you’d like to see exist in the world. As a result, the business model is direclty aligned with the value created for people.  
 
 This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
-
-**FEEDS:**
-
-* <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a> \
-<a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a> \
-<a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a> \
-<a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
 
 
 <p class="lead">-<a href="{{ site.url }}{{ site.baseurl }}/author/matt-kiser/">Matt Kiser</a><br>

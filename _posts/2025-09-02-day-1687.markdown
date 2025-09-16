@@ -1,5 +1,5 @@
 ---
-title: Day 1686
+title: Day 1687
 date: 2025-09-02 17:16:00 -07:00
 description: '"Unhinged."'
 image: "/uploads/day1686trump.jpg"
@@ -18,6 +18,7 @@ todayInOneSentence: A federal judge ruled that Trump’s deployment of the Natio
   he would award Rudy Giuliani the Presidential Medal of Freedom; a D.C. grand jury
   refused to indict two people accused of threatening to kill Trump; and Trump addressed
   online rumors that he was dead, calling them “fake news.”
+redirect_from: "/2025/09/02/day-1686/"
 ---
 
 1/ **A federal judge ruled that Trump’s deployment of the National Guard and Marines to Los Angeles was illegal**, saying the administration “systematically used armed soldiers” and turned them into “a national police force with the President as its chief.” Judge Charles Breyer found the deployment violated the 1878 Posse Comitatus Act, which prohibits the military from carrying out civilian law enforcement. “There were indeed protests in Los Angeles, and some individuals engaged in violence. Yet there was no rebellion, nor was civilian law enforcement unable to respond,” Breyer wrote. He blocked the Trump administration from using troops for arrests, searches, patrols, or crowd control, but delayed enforcement of his order until Sept. 12 to allow an appeal. Gov. Gavin Newsom said: “No president is a king — not even Trump.” ([CalMatters](https://calmatters.org/justice/2025/09/trump-national-guard-posse-comitatus/) / [Politico](https://www.politico.com/news/2025/09/02/trump-los-angeles-national-guard-ruling-00539393) / [New York Times](https://www.nytimes.com/2025/09/02/us/judge-ruling-trump-national-guard-los-angeles.html) / [NBC News](https://www.nbcnews.com/news/us-news/judge-rules-trump-illegally-deployed-national-guard-l-rcna224779) / [CNN](https://www.cnn.com/2025/09/02/politics/national-guard-california-trump-posse-comitatus-act-breyer) / [Washington Post](https://www.washingtonpost.com/politics/2025/09/02/trump-administration-use-national-guard-la-violated-law-judge-rules/) / [Wall Street Journal](https://www.wsj.com/us-news/law/trumps-troop-deployment-to-los-angeles-violated-federal-law-judge-rules-85f4b237) / [NPR](https://www.npr.org/2025/09/02/nx-s1-5525647/a-california-judge-rules-that-trumps-deployment-of-the-guard-to-la-was-illegal))

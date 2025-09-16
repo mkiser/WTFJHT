@@ -1,5 +1,5 @@
 ---
-title: Day 1693
+title: Day 1694
 date: 2025-09-09 17:01:00 -07:00
 description: '"Fully depreciated."'
 image: "/uploads/day1693trump.jpg"
@@ -18,6 +18,7 @@ todayInOneSentence: The Supreme Court agreed to fast-track Trump’s appeal over
   selling a “fully depreciated” woman to Trump for $22,500; and Trump dismissed domestic
   violence as “a little fight with the wife” and said crimes that “take place in the
   home” shouldn’t be counted in crime statistics.
+redirect_from: "/2025/09/09/day-1693/"
 ---
 
 1/ **The Supreme Court agreed to fast-track Trump’s appeal over his global tariffs**, keeping the duties in place while setting arguments for early November. Two lower courts have already struck down most of the tariffs, finding that the 1977 International Emergency Economic Powers Act, or IEEPA, doesn’t give presidents “unlimited authority” to impose global duties. While IEEPA has been used to sanction foreign adversaries, it’s never been used to levy tariffs, which is a power the Constitution assigns to Congress. The administration, meanwhile, warned the justices that without Trump’s tariffs, it would bring the U.S. to the “brink of economic catastrophe.” ([Axios](https://www.axios.com/2025/09/09/trump-tariffs-supreme-court-appeal) / [Associated Press](https://apnews.com/article/trump-tariffs-supreme-court-d1d0dd6ddd83e2c1df1598e468b839f5) / [Washington Post](https://www.washingtonpost.com/politics/2025/09/09/supreme-court-tariffs-trump-emergency-powers/) / [NPR](https://www.npr.org/2025/09/09/nx-s1-5535806/supreme-court-trump-tariffs) / [CBS News](https://www.cbsnews.com/news/supreme-court-trump-tariffs-case/) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-agrees-consider-whether-trumps-tariffs-are-legal-rcna229069))

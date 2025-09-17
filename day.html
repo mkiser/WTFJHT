@@ -5,7 +5,6 @@ sitemap: false
 ---
 
 <div id="day-counter"></div>
-
 <script>
 (async function() {
   const tz = 'America/Los_Angeles';
@@ -47,6 +46,7 @@ sitemap: false
 
     el.innerHTML = `
       🇺🇸 ${row.DATE} - Trump ${row.TRUMP_DAYS}<br>
+      {{ site.posts | size | number_with_commas }} posts all-time.<br>
       ${row.WTF_START} days since starting WTFJHT.<br>
       The midterm elections are in ${row.DAYS_MIDTERMS} days.<br>
       The 2028 presidential elections are in ${row.DAYS_PRESIDENTIAL} days.

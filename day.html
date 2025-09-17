@@ -1,0 +1,59 @@
+---
+title: day counter
+permalink: day.html
+layout: default
+sitemap: false
+---
+
+<div id="day-counter"></div>
+
+<script>
+(async function() {
+  const tz = 'America/Los_Angeles';
+  const now = new Date();
+  const fmt = new Intl.DateTimeFormat('en-US', {
+    timeZone: tz, year: '2-digit', month: 'numeric', day: 'numeric'
+  });
+  const parts = fmt.formatToParts(now);
+  const m = parts.find(p => p.type === 'month').value;
+  const d = parts.find(p => p.type === 'day').value;
+  const y = parts.find(p => p.type === 'year').value;
+
+  const pad2 = n => n < 10 ? '0' + n : '' + n;
+
+  const keyUnpadded = `${+m}/${+d}/${y}`;
+  const keyPadded   = `${pad2(+m)}/${pad2(+d)}/${y}`;
+
+  try {
+    const resp = await fetch('https://whatthefuckjusthappenedtoday.com/uploads/wtf_days.json');
+    if (!resp.ok) {
+      console.error('Failed to fetch JSON', resp.status, resp.statusText);
+      return;
+    }
+    const rows = await resp.json();
+    if (!Array.isArray(rows)) {
+      console.error('JSON not an array', rows);
+      return;
+    }
+
+    let row = rows.find(r => r.DATE === keyUnpadded || r.DATE === keyPadded);
+
+    if (!row) {
+      console.warn('No matching DATE row found for keys:', keyUnpadded, keyPadded);
+      return;
+    }
+
+    const el = document.getElementById('day-counter');
+    if (!el) return;
+
+    el.innerHTML = `
+      🇺🇸 ${row.DATE} - Trump ${row.TRUMP_DAYS}<br>
+      ${row.WTF_START} days since starting WTFJHT.<br>
+      The midterm elections are in ${row.DAYS_MIDTERMS} days.<br>
+      The 2028 presidential elections are in ${row.DAYS_PRESIDENTIAL} days.
+    `;
+  } catch (e) {
+    console.error('Error loading/writing day-counter', e);
+  }
+})();
+</script>

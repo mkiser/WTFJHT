@@ -49,7 +49,8 @@ sitemap: false
       {{ site.posts | size | number_with_commas }} posts all-time.<br>
       ${row.WTF_START} days since starting WTFJHT.<br>
       The midterm elections are in ${row.DAYS_MIDTERMS} days.<br>
-      The 2028 presidential elections are in ${row.DAYS_PRESIDENTIAL} days.
+      The 2028 presidential elections are in ${row.DAYS_PRESIDENTIAL} days.<br>
+      The 2029 inauguration is in ${row.DAY_INAUGURATION} days.
     `;
   } catch (e) {
     console.error('Error loading/writing day-counter', e);

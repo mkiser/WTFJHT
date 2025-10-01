@@ -4,7 +4,7 @@
 
 <div id="shutdown-container" class="shutdown-timer">
     <h2 id="shutdown-status" class="shutdown-status">
-        🚨 Government Shutdown Countdown 🚨
+        🚨 Gov't Shutdown Countdown 🚨
     </h2>
     
     <div id="timer-display" class="timer-display">
@@ -212,7 +212,7 @@
             const { days } = timeUnits;
 
             container.classList.remove("shutdown-active");
-            status.innerHTML = "🚨 Government Shutdown Countdown 🚨";
+            status.innerHTML = "🚨 Gov't Shutdown Countdown 🚨";
 
             // Add urgency for final 24 hours
             if (distance < 24 * 60 * 60 * 1000) {
@@ -232,7 +232,7 @@
             container.classList.add("shutdown-active");
             container.classList.remove("final-countdown");
             
-            status.innerHTML = `🔥 Government Shutdown: Day ${days + 1} 🔥`;
+            status.innerHTML = `🔥 Gov't Shutdown: Day ${days + 1} 🔥`;
 
             if (days === 0) {
                 impact.innerHTML = "Government shutdown began&nbsp;today";

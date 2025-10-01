@@ -40,8 +40,29 @@ Thanksgiving Day – November 27 \
 Christmas Eve – December 24 \
 Christmas Day – December 25 \
 Boxing Day – December 26 \
-New Year's Eve – December 31 \
-New Year's Day 2026 – January 1 
+New Year's Eve – December 31
+* **2026 publishing schedule**
+* New Year's Day – January 1 \
+Martin Luther King, Jr. Day – January 19 \
+WTF Just Happened Today?'s Birthday – January 20 \
+President's Day – February 16 \
+Earth Day - April 22 \
+International Workers' Day – May 1 \
+Memorial Day – May 25 \
+Flag Day / Trump's Birthday – June 14 \
+Juneteenth - June 19 \
+Independence Day – July 4 \
+Labor Day – September 7 \
+Indigenous Peoples' Day – October 12 \
+2026 Midterm Elections - November 3 \
+Veterans Day – November 11 \
+Biden's Birthday – November 20 \
+Thanksgiving Eve – November 25 \
+Thanksgiving Day – November 26 \
+Christmas Eve – December 24 \
+Christmas Day – December 25 \
+Boxing Day – December 26 \
+New Year's Eve – December 31 
 
 **Why don't you publish WTF Just Happened Today? in the morning?** It's not called WTF Just Happened Yesterday.
 

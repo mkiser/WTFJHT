@@ -108,12 +108,11 @@ jobs:
             base_url = f'https://{SERVER_PREFIX}.api.mailchimp.com/3.0'
             auth = ('anystring', API_KEY)
             
-            print(f'\\n📥 Fetching members from {tag_name} segment ({segment_id})...')
+            print(f'📥 Fetching members from {tag_name} segment...')
             
             while True:
                 try:
-                    print(f'  🔄 Fetching members starting at offset: {offset}')
-                    
+                    # Get segment members
                     url = f'{base_url}/lists/{AUDIENCE_A_ID}/segments/{segment_id}/members'
                     params = {
                         'count': GET_BATCH_SIZE,
@@ -127,13 +126,12 @@ jobs:
                     batch_emails = [member['email_address'] for member in data['members']]
                     all_emails.extend(batch_emails)
                     
-                    print(f'  📊 Progress: {len(all_emails)} of {data[\"total_items\"]} total members')
-                    
+                    # Check if we have all members (without revealing counts)
                     if len(all_emails) >= data['total_items']:
                         break
                     
                     offset = len(all_emails)
-                    time.sleep(2)
+                    time.sleep(2)  # Rate limiting pause
                     
                 except requests.exceptions.RequestException as e:
                     print(f'❌ Error fetching members from {tag_name} segment: {str(e)}')
@@ -141,7 +139,7 @@ jobs:
                         print(f'Response: {e.response.text}')
                     raise
             
-            print(f'✅ Successfully collected {len(all_emails)} emails from {tag_name} segment')
+            print(f'✅ Successfully collected members from {tag_name} segment')
             return all_emails
 
         def combine_operations():
@@ -159,6 +157,7 @@ jobs:
                     
                     all_operations[email]['add_tags'].append(tag_name)
                     
+                    # Handle Active/Lapsed mutual exclusion
                     if tag_name == 'Active':
                         all_operations[email]['remove_tags'].append('Lapsed')
                     elif tag_name == 'Lapsed':
@@ -172,15 +171,10 @@ jobs:
             
             operation_list = list(operations.items())
             total_emails = len(operation_list)
-            total_batches = (total_emails + BATCH_SIZE - 1) // BATCH_SIZE
+            total_batches = (total_batches_calc := (total_emails + BATCH_SIZE - 1) // BATCH_SIZE)
             
-            print(f'\\n🚀 Starting to execute tagging operations...')
-            print(f'📧 Total emails: {total_emails}')
-            print(f'📦 Batch size: {BATCH_SIZE}')
-            print(f'🔢 Total batches: {total_batches}')
-            print(f'⏱️  Delay between batches: {BATCH_DELAY} seconds')
-            print(f'⏰ Estimated total time: {(total_batches * BATCH_DELAY) / 60:.1f} minutes')
-            print('🔄 Proceeding with automated tagging operations...')
+            print('🚀 Starting tagging operations...')
+            print('🔄 Processing in batches with rate limiting...')
             
             processed_count = 0
             successful_batches = 0
@@ -191,7 +185,7 @@ jobs:
                 end_idx = min(start_idx + BATCH_SIZE, total_emails)
                 batch_operations = operation_list[start_idx:end_idx]
                 
-                print(f'\\n📦 Processing batch {batch_num + 1} of {total_batches} ({len(batch_operations)} emails)')
+                print(f'📦 Processing batch {batch_num + 1}/{total_batches}...')
                 
                 try:
                     api_operations = []
@@ -224,74 +218,61 @@ jobs:
                         response.raise_for_status()
                         
                         batch_id = response.json()['id']
-                        print(f'  ✅ Submitted batch {batch_num + 1} with ID: {batch_id}')
+                        print(f'  ✅ Batch submitted successfully (ID: {batch_id})')
                         
-                        processed_count += len(batch_operations)
                         successful_batches += 1
                         
                         if batch_num < total_batches - 1:
-                            print(f'  ⏳ Waiting {BATCH_DELAY} seconds before next batch...')
+                            print(f'  ⏳ Waiting {BATCH_DELAY}s before next batch...')
                             time.sleep(BATCH_DELAY)
                 
                 except requests.exceptions.RequestException as e:
-                    print(f'  ❌ Error processing batch {batch_num + 1}: {str(e)}')
+                    print(f'  ❌ Error processing batch: {str(e)}')
                     if hasattr(e, 'response') and hasattr(e.response, 'text'):
                         print(f'  Response: {e.response.text}')
                     
                     failed_batches += 1
-                    print(f'  ⏳ Waiting {BATCH_DELAY * 2} seconds after error...')
+                    print(f'  ⏳ Waiting {BATCH_DELAY * 2}s after error...')
                     time.sleep(BATCH_DELAY * 2)
                     continue
             
-            print(f'\\n🎉 Tagging operations complete!')
-            print(f'📧 Total emails processed: {processed_count}')
+            print('🎉 Tagging operations complete!')
             print(f'✅ Successful batches: {successful_batches}')
-            print(f'❌ Failed batches: {failed_batches}')
             
             if failed_batches > 0:
-                print(f'⚠️  Warning: {failed_batches} batches failed')
+                print(f'❌ Failed batches: {failed_batches}')
                 sys.exit(1)
+            else:
+                print('✅ All operations completed successfully')
 
         def print_summary(operations):
-            print('\\n' + '='*50)
+            print('\\n' + '='*40)
             print('📊 OPERATION SUMMARY')
-            print('='*50)
+            print('='*40)
             
-            total_emails = len(operations)
-            tag_counts = {}
-            remove_counts = {}
+            # Show configured tags without revealing counts
+            configured_tags = set()
+            for segment in SEGMENTS:
+                configured_tags.add(segment['TAG_NAME'])
             
-            for email, ops in operations.items():
-                for tag in ops['add_tags']:
-                    tag_counts[tag] = tag_counts.get(tag, 0) + 1
-                for tag in ops['remove_tags']:
-                    remove_counts[tag] = remove_counts.get(tag, 0) + 1
+            print('🏷️  Configured tags:')
+            for tag in sorted(configured_tags):
+                print(f'  • {tag}')
             
-            print(f'📧 Total unique emails: {total_emails}')
-            print('\\n🏷️  Tags to ADD:')
-            for tag, count in tag_counts.items():
-                print(f'  ➕ {tag}: {count} emails')
+            # Check for overlaps without revealing numbers
+            has_overlaps = any(len(ops['add_tags']) > 1 for ops in operations.values())
+            if has_overlaps:
+                print('⚠️  Some contacts appear in multiple segments')
             
-            print('\\n🗑️  Tags to REMOVE:')
-            for tag, count in remove_counts.items():
-                print(f'  ➖ {tag}: {count} emails')
-            
-            overlaps = 0
-            for email, ops in operations.items():
-                if len(ops['add_tags']) > 1:
-                    overlaps += 1
-            
-            if overlaps > 0:
-                print(f'\\n⚠️  WARNING: {overlaps} emails appear in multiple segments!')
-            
-            print('='*50)
+            print('='*40)
 
         def main():
             try:
                 print('🚀 Starting Mailchimp segment sync...')
                 print(f'📅 Running at: {time.strftime(\"%Y-%m-%d %H:%M:%S UTC\")}')
-                print(f'🔧 Configuration: {len(SEGMENTS)} segments configured')
                 
+                # Show configured segments without revealing IDs
+                print(f'🔧 Configuration: {len(SEGMENTS)} segments configured')
                 for i, segment in enumerate(SEGMENTS, 1):
                     print(f'  📋 Segment {i}: {segment[\"TAG_NAME\"]}')
                 

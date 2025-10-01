@@ -1,17 +1,10 @@
----
-title: The First 100 Days of the Trump Administration
-date: 2017-04-29 00:00:00 -07:00
-layout: default
-description: Logging the first 100 days of the Trump administration.
-image: "/uploads/og-image.jpg"
----
-
-<!-- MailChimp -->
-{% include email.html %}
-
 <div class="posts">
+  {% assign start_date = include.start_date | date: '%s' %}
+  {% assign end_date_obj = include.end_date | date: '%Y-%m-%d 23:59:59' | date: '%s' %}
+  
   {% for post in site.posts reversed %}
-    {% if forloop.index <= 100 %}
+    {% assign post_date = post.date | date: '%s' %}
+    {% if post_date >= start_date and post_date <= end_date_obj %}
     <article class="post">
       <h2 class="post-title">
         <a href="{{ site.baseurl }}{{ post.url }}">
@@ -20,12 +13,11 @@ image: "/uploads/og-image.jpg"
       </h2>
       <time datetime="{{ post.last_modified | date_to_xmlschema }}" class="post-date">
          {{ post.date | date: "%m/%d/%Y" }}
-    </time>
-   <div class="post-content">
-    {{ post.content | extlinks }}
-    </div>
-        </article>
-    {% else %}
+      </time>
+      <div class="post-content">
+        {{ post.content | extlinks }}
+      </div>
+    </article>
     {% endif %}
   {% endfor %} 
-</div> 
+</div>

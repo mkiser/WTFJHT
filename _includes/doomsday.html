@@ -237,8 +237,8 @@
             if (days === 0) {
                 impact.innerHTML = "Government shutdown began&nbsp;today";
             } else {
-                const dayText = days === 1 ? "day" : "days";
-                impact.innerHTML = `Government shutdown has lasted ${days}&nbsp;${dayText}`;
+                const dayText = (days + 1) === 1 ? "day" : "days";
+                impact.innerHTML = `Your government has been shut down for ${days + 1}&nbsp;${dayText}`;
             }
         }
 

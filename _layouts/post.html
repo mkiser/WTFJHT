@@ -26,13 +26,14 @@ layout: default
   {% endif %}
   <div class="post-date">
     <time datetime="{{ page.date | date_to_xmlschema }}">
-      {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
+      {{ page.date | date: "%-m/%-d/%Y" }}
     </time>
+    {% include read_time.html %} 
     <div>
       <small>
-        <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
-      </small>
-    </div>
+      <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
+    </small>
+  </div>
   </div> 
   {% comment %}
 

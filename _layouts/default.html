@@ -294,8 +294,9 @@
           var as = audiojs.createAll();
         });
       </script>
+
       {% if page.layout == 'post' %} 
-        <!-- ANCHORS -->
+        <!-- ANCHORS FOR POSTS -->
         <script>
           document.addEventListener("DOMContentLoaded", function(event) {
             anchors.options = {
@@ -307,7 +308,21 @@
             anchors.remove('.post ol li, ul.rrssb-buttons li, div.post.archive p.archive-year, div.post.archive ul.archive-months li, .tios, .masthead-title, li.header, h3.ft-title');
           });
         </script>
+      {% elsif page.layout == 'page' %}
+        <!-- ANCHORS FOR PAGES -->
+        <script>
+          document.addEventListener("DOMContentLoaded", function(event) {
+            anchors.options = {
+              placement: 'left',
+              visible: 'hover',
+              truncate: "36"
+            };
+            anchors.add('.page > p > strong, .page > p > small > strong');
+            anchors.remove('.tios, .masthead-title, li.header, h3.ft-title');
+          });
+        </script>
       {% endif %}
+
   </body>
 <!--  
          _    _ ___________ ___ _   _ _____ 

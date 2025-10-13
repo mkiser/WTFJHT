@@ -27,11 +27,11 @@
     1 min read
   {% else %}
     {% if minutes_fraction < 0.25 %}
-      {{ minutes_whole }} min read
+      {{ minutes_whole }}-minute read
     {% elsif minutes_fraction < 0.75 %}
-      {{ minutes_whole }}½ min read
+      {{ minutes_whole }}½-minute read
     {% else %}
-      {{ minutes_whole | plus: 1 }} min read
+      {{ minutes_whole | plus: 1 }}-minute read
     {% endif %}
   {% endif %}
 </span>

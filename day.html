@@ -1,5 +1,5 @@
 ---
-title: Days of the WTF.
+title: The Big Dumb Dashboard.
 layout: page
 sitemap: false
 ---
@@ -103,14 +103,14 @@ sitemap: false
   }
 }
 </style>
-
+  <p class="lead" style="font-style: italic;">A counting service of WTF Just Happened Today? dot com.</p>
 <div class="time-dashboard">
-  
   <!-- Main Counters -->
-  <div class="time-section">
+<!--   <div class="time-section">
     <h2>🗓️ Today's Numbers</h2>
     <div class="counter-grid" id="main-counters"></div>
   </div>
+ -->
 
   <!-- Trump Administration -->
   <div class="time-section">
@@ -130,8 +130,8 @@ sitemap: false
     <div class="counter-grid" id="historical-counters"></div>
   </div>
 
+  <p>Built with 🖤 for those still keeping track.</p>
 </div>
-
 <script>
 (async function() {
   const tz = 'America/Los_Angeles';
@@ -183,13 +183,13 @@ sitemap: false
     }
 
     // Main Counters
-    const mainEl = document.getElementById('main-counters');
-    mainEl.innerHTML = `
-      <div class="counter-card wtf">
-        <span class="counter-number">${row.DATE}</span>
-        <span class="counter-label">Today (Pacific Time)</span>
-      </div>
-    `;
+    // const mainEl = document.getElementById('main-counters');
+    // mainEl.innerHTML = `
+    //   <div class="counter-card wtf">
+    //     <span class="counter-number">${row.DATE}</span>
+    //     <span class="counter-label">Today (Pacific Time)</span>
+    //   </div>
+    // `;
 
     // Trump Counters
     const trumpEl = document.getElementById('trump-counters');
@@ -307,17 +307,17 @@ sitemap: false
         <span class="counter-meta">May 31, 2017 - Never Forget</span>
       </div>
 
-      <div class="counter-card">
+      <div class="counter-card wtf">
         <span class="counter-number">${formatNumber(daysSince2017)}</span>
         <span class="counter-label">Days Since 2017 Inauguration</span>
         <span class="counter-meta">January 20, 2017</span>
       </div>
-      <div class="counter-card">
+      <div class="counter-card wtf">
         <span class="counter-number">${formatNumber(daysSince2021)}</span>
         <span class="counter-label">Days Since 2021 Inauguration</span>
         <span class="counter-meta">January 20, 2021</span>
       </div>
-      <div class="counter-card">
+      <div class="counter-card wtf">
         <span class="counter-number">${formatNumber(daysSince2025)}</span>
         <span class="counter-label">Days Since 2025 Inauguration</span>
         <span class="counter-meta">January 20, 2025</span>

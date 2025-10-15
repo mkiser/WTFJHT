@@ -1,5 +1,5 @@
 ---
-title: Day 1930
+title: Day 1730
 date: 2025-10-15 15:04:00 -07:00
 description: '"It’s getting really ugly."'
 image: "/uploads/day1730trump.jpg"

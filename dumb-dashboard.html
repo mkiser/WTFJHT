@@ -105,7 +105,7 @@ redirect_from:
   }
 }
 </style>
-  <p class="lead" style="font-style: italic;">A counting service of WTF Just Happened Today? dot com.</p>
+  <p class="lead" style="font-style: italic;">A counting service for those still keeping track.</p>
 <div class="time-dashboard">
   <!-- Main Counters -->
 <!--   <div class="time-section">
@@ -132,9 +132,6 @@ redirect_from:
     <div class="counter-grid" id="historical-counters"></div>
   </div>
 </div>
-<center>
-  <p style="font-style: italic;">Built with 🖤 for those still keeping track.</p>
-</center>
 <script>
 (async function() {
   const tz = 'America/Los_Angeles';
@@ -289,43 +286,69 @@ redirect_from:
     const histEl = document.getElementById('historical-counters');
     const inaug2017 = new Date('2017-01-20');
     const inaug2021 = new Date('2021-01-20');
+    const charlottesville = new Date('2017-08-12'); // "Very fine people" Charlottesville
+    const shitHole = new Date('2018-01-11'); // "Shithole countries"
+    const sharpiegate = new Date('2019-09-04'); // Hurricane Dorian Sharpiegate
+    const impeachment1 = new Date('2019-12-18'); // First Impeachment
+    const jan6 = new Date('2021-01-06'); // Capitol Attack
+    const impeachment2 = new Date('2021-01-13'); // Second Impeachment
     const daysSince2017 = Math.floor((now - inaug2017) / (1000 * 60 * 60 * 24) + 1);
     const daysSince2021 = Math.floor((now - inaug2021) / (1000 * 60 * 60 * 24) + 1);
     const daysSince2025 = Math.floor((now - inaug2025) / (1000 * 60 * 60 * 24) + 1);
+    const daysSinceCharlottesville = Math.floor((now - charlottesville) / (1000 * 60 * 60 * 24) + 1);
+    const daysSinceshitHole = Math.floor((now - shitHole) / (1000 * 60 * 60 * 24) + 1);
+    const daysSinceSharpiegate = Math.floor((now - sharpiegate) / (1000 * 60 * 60 * 24) + 1);
+    const daysSinceImpeachment1 = Math.floor((now - impeachment1) / (1000 * 60 * 60 * 24) + 1);
+    const daysSinceJan6 = Math.floor((now - jan6) / (1000 * 60 * 60 * 24) + 1);
+    const daysSinceImpeachment2 = Math.floor((now - impeachment2) / (1000 * 60 * 60 * 24) + 1);
 
-    histEl.innerHTML = `
-      <div class="counter-card wtf">
-        <span class="counter-number">${formatNumber(row.WTF_START)}</span>
-        <span class="counter-label">Days Since WTFJHT Started</span>
-        <span class="counter-meta">January 20, 2017</span>
-      </div>
-      <div class="counter-card wtf">
-        <span class="counter-number">{{ site.posts | size | number_with_commas }}</span>
-        <span class="counter-label">WTFJHT posts</span>
-        <span class="counter-meta">All-time</span>
-      </div>
-      <div class="counter-card wtf">
-        <span class="counter-number">${formatNumber(row.COVFEFE)}</span>
-        <span class="counter-label">Days Since "Covfefe"</span>
-        <span class="counter-meta">May 31, 2017 - Never Forget</span>
-      </div>
-
-      <div class="counter-card wtf">
-        <span class="counter-number">${formatNumber(daysSince2017)}</span>
-        <span class="counter-label">Days Since 2017 Inauguration</span>
-        <span class="counter-meta">January 20, 2017</span>
-      </div>
-      <div class="counter-card wtf">
-        <span class="counter-number">${formatNumber(daysSince2021)}</span>
-        <span class="counter-label">Days Since 2021 Inauguration</span>
-        <span class="counter-meta">January 20, 2021</span>
-      </div>
-      <div class="counter-card wtf">
-        <span class="counter-number">${formatNumber(daysSince2025)}</span>
-        <span class="counter-label">Days Since 2025 Inauguration</span>
-        <span class="counter-meta">January 20, 2025</span>
-      </div>
-    `;
+  histEl.innerHTML = `
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(row.WTF_START)}</span>
+      <span class="counter-label">Days Since WTFJHT Started</span>
+      <span class="counter-meta">January 20, 2017</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">{{ site.posts | size | number_with_commas }}</span>
+      <span class="counter-label">WTFJHT Posts</span>
+      <span class="counter-meta">All-time</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(row.COVFEFE)}</span>
+      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/#9-trump-didn%E2%80%99t-expect-so-much-%E2%80%9Ccovfe">Days Since "Covfefe"</a></span>
+      <span class="counter-meta">May 31, 2017</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(daysSinceCharlottesville)}</span>
+      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2017/08/17/day-210/#2-white-house-aides-are-wrestling-wi">Days Since "Very Fine People"</a></span>
+      <span class="counter-meta">Charlottesville - August 12, 2017</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(daysSinceshitHole)}</span>
+      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2018/01/11/day-357/">Days Since "Shithole Countries"</a></span>
+      <span class="counter-meta">January 11, 2018</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(daysSinceSharpiegate)}</span>
+      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2019/09/04/day-958/#1-trump-displayed-a-doctored-nationa">Days Since Sharpiegate</a></span>
+      <span class="counter-meta">Hurricane Dorian - September 4, 2019</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(daysSinceImpeachment1)}</span>
+      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2019/12/18/day-1063/">Days Since First Impeachment</a></span>
+      <span class="counter-meta">December 18, 2019</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(daysSinceJan6)}</span>
+      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2021/01/06/day-1448/">Days Since January 6th Capitol Attack</a></span>
+      <span class="counter-meta">January 6, 2021</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(daysSinceImpeachment2)}</span>
+      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2021/01/13/day-1455/">Days Since Second Impeachment</a></span>
+      <span class="counter-meta">January 13, 2021</span>
+    </div>
+  `;
 
   } catch (e) {
     console.error('Error loading dashboard', e);

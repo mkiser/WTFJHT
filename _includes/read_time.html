@@ -1,4 +1,4 @@
-<span class="reading-time" title="Estimated read time" style="font-style: italic;">
+<span class="reading-time" title="Estimated read time">
   {%- assign words = page.content | strip_html | number_of_words -%}
   {%- assign reading_speed = 200 -%}
     {%- capture word_count -%}{{ words }}{%- endcapture -%}
@@ -21,15 +21,15 @@
   {%- assign minutes_whole = minutes_decimal | floor -%}
   {%- assign minutes_fraction = minutes_decimal | minus: minutes_whole -%}
   
-  &#8226; This edition is {{ comma_separated_words }} words, a&nbsp;
+  &#8226;&nbsp;{{ comma_separated_words }}&nbsp;words&nbsp;&#8226;&nbsp;
   
   {%- if minutes_whole < 1 and minutes_fraction < 0.5 -%}
-    1-minute read.
+    1-minute read
   {%- else -%}
     {%- if minutes_fraction < 0.25 -%}
-      {{ minutes_whole }}-minute read.
+      {{ minutes_whole }}-minute read
     {%- elsif minutes_fraction < 0.75 -%}
-      {{ minutes_whole }}½-minute read.
+      {{ minutes_whole }}½-minute read
     {%- else -%}
       {{ minutes_whole | plus: 1 }}-minute read.
     {%- endif -%}

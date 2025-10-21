@@ -16,6 +16,10 @@ module Jekyll
       latest = site.posts.docs.max_by { |p| p.data["date"] }
       return unless latest
 
+      # Calculate read time for the latest post
+      read_time = YearsAgo::Utils.read_time_string(latest)
+      latest_abs   = YearsAgo::Utils.absolutize(site, latest.url.to_s)
+
       latest_abs   = YearsAgo::Utils.absolutize(site, latest.url.to_s)
       edition_time = latest.data["date"]               # Time object
       edition_iso  = edition_time.iso8601              # e.g., "2025-10-08T15:47:00-07:00"
@@ -150,7 +154,81 @@ module Jekyll
       unified.data["sitemap"] = false
       site.pages << unified
 
-      Jekyll.logger.info "social-feed.json", "emitted #{array.size} items (newest first; run_day=#{run_day})"
+      # ---------- Latest edition updates for Buffer ----------
+      publish_date = edition_time.strftime("%b. %-d, %Y")
+      description = latest.data["description"].to_s.strip
+
+
+      # Dynamic elements for newsletter promos
+      emojis = ["💌", "📬", "📰", "🗞️", "✉️", "📩", "⏱️", "🧭", "🧠", "🇺🇸"]
+      ctas = ["Subscribe to", "Join", "Sign up for", "Get", "Subscribe for free to", "Get the daily briefing from"]
+      descriptors = [
+        "A sane, once-a-day newsletter helping normal people make sense of the news. Read in moderation.",
+        "Your essential guide to the shock and awe in national politics. Read in moderation.",
+        "Independent and ad-free, supported by readers so it stays free for everyone.",
+        "A political newsletter helping normal people make the news make sense.",
+        "A political newsletter helping normal people make sense of the news.",
+        "Your guide to the daily shock and awe in national politics.",
+        "Five minutes to feel informed, not overwhelmed. Read in moderation.",
+        "Your essential guide to the shock and awe in national politics.",
+        "A once-a-day, fact-first briefing on U.S. politics.",
+        "A political newsletter for normal people.",
+        "Political news for normal people.",
+        "Political news that makes sense."
+      ]
+      taglines = [
+        "Make the news make sense.",
+        "Politics for normal people.",
+        "Cut through the noise.",
+        "Informed, not overwhelmed.",
+        "The day, decoded.",
+        "Five minutes to make sense of it all.",
+        "Stop doomscrolling. Start understanding.",
+        "Independent and reader-supported since 2017.",
+        "Scroll less. Know more.",
+        "Context without the chaos.",
+        "Orientation for a disoriented age.",
+        "The news, distilled."
+      ]
+
+      site_url = site.config["url"] || "https://whatthefuckjusthappenedtoday.com/"
+
+      # Generate newsletter promo variations
+      newsletter_promos = []
+
+      # Type 1: Tagline + CTA + Descriptor (5 samples)
+      5.times do
+        newsletter_promos << "#{emojis.sample} #{taglines.sample}\n\n#{ctas.sample} WTF Just Happened Today? – #{descriptors.sample}\n\n#{site_url}"
+      end
+
+      # Type 2: CTA + Descriptor (4 samples)
+      4.times do
+        newsletter_promos << "#{emojis.sample} #{ctas.sample} WTF Just Happened Today?\n\n#{descriptors.sample}\n\n#{site_url}"
+      end
+
+      # Type 3: Tagline + CTA minimal (3 samples)
+      3.times do
+        newsletter_promos << "#{emojis.sample} #{taglines.sample}\n\n#{ctas.sample} WTF Just Happened Today?\n\n#{site_url}"
+      end
+
+      # Clean up formatting (preserve line breaks)
+      newsletter_promos.map! { |promo| promo.gsub(/ +/, ' ').gsub(/\n /, "\n").strip }
+      newsletter_promos.uniq! # Remove any accidental duplicates
+
+
+      # Build Buffer updates object
+      buffer_updates = {
+        "read_time_post" => "#{read_time}\n\n#{latest_abs}",
+        "announcement_post" => "#{latest.data["title"]} – #{publish_date}\n\n✨ #{description}\n\n#{latest_abs}",
+        "newsletter_promos" => newsletter_promos
+      }
+
+      buffer_page = Jekyll::PageWithoutAFile.new(site, site.source, "", "social-updates.json")
+      buffer_page.content = JSON.pretty_generate(buffer_updates)
+      buffer_page.data["layout"]  = nil
+      buffer_page.data["sitemap"] = false
+      site.pages << buffer_page
+
     end
   end
 end

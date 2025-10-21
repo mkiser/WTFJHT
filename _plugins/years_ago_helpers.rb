@@ -142,5 +142,35 @@ module YearsAgo
 
       "#{sentence} #{abs_url}".strip
     end
+    
+    # Calculate read time string from document content
+    def read_time_string(doc, reading_speed: 200)
+      return "" unless doc
+
+      # Strip HTML and count words
+      words = doc.content.to_s.gsub(/<[^>]*>/, "").split.size
+      
+      # Format word count with commas
+      word_count_str = words.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse
+      
+      # Calculate minutes
+      minutes_decimal = words.to_f / reading_speed
+      minutes_whole = minutes_decimal.floor
+      minutes_fraction = minutes_decimal - minutes_whole
+      
+      # Determine minute display
+      minute_str = if minutes_whole < 1 && minutes_fraction < 0.5
+        "1-minute"
+      elsif minutes_fraction < 0.25
+        "#{minutes_whole}-minute"
+      elsif minutes_fraction < 0.75
+        "#{minutes_whole}½-minute"
+      else
+        "#{minutes_whole + 1}-minute"
+      end
+      
+      "Today's edition is #{word_count_str} words, a #{minute_str} read."
+    end
+
   end
 end

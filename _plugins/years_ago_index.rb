@@ -218,6 +218,9 @@ module Jekyll
 
       # Build Buffer updates object
       buffer_updates = {
+        "id" => run_day, 
+        "edition_date" => run_day,
+        "edition_time" => edition_iso,
         "read_time_post" => "#{read_time}\n\n#{latest_abs}",
         "announcement_post" => "#{latest.data["title"]} – #{publish_date}\n\n✨ #{description}\n\n#{latest_abs}",
         "newsletter_promos" => newsletter_promos

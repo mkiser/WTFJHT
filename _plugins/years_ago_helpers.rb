@@ -147,18 +147,30 @@ module YearsAgo
     def read_time_string(doc, reading_speed: 200)
       return "" unless doc
 
-      # Strip HTML and count words
-      words = doc.content.to_s.gsub(/<[^>]*>/, "").split.size
+      # Get content (it's still markdown at this stage)
+      content = doc.content.to_s
       
-      # Format word count with commas
+      # Strip markdown links: [text](url) -> text
+      content = content.gsub(/\[([^\]]+)\]\([^)]+\)/, '\1')
+      # Strip images: ![alt](url) -> empty
+      content = content.gsub(/!\[[^\]]*\]\([^)]+\)/, '')
+      # Strip markdown formatting
+      content = content.gsub(/[*_`~#>]/, '')
+      # Remove any HTML
+      content = content.gsub(/<[^>]*>/, '')
+      # Decode entities
+      content = CGI.unescapeHTML(content)
+      
+      # Now count
+      words = content.split.size
+      
+      # Rest stays the same...
       word_count_str = words.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse
       
-      # Calculate minutes
       minutes_decimal = words.to_f / reading_speed
       minutes_whole = minutes_decimal.floor
       minutes_fraction = minutes_decimal - minutes_whole
       
-      # Determine minute display
       minute_str = if minutes_whole < 1 && minutes_fraction < 0.5
         "1-minute"
       elsif minutes_fraction < 0.25
@@ -171,6 +183,7 @@ module YearsAgo
       
       "Today's edition is #{word_count_str} words, a #{minute_str} read."
     end
+
 
   end
 end

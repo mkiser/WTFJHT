@@ -14,7 +14,7 @@ _Last updated: September 2025_
 
 ---
 
-### *Getting Started*
+### *Getting started*
 
 **Is this free?** Yes, WTFJHT is free and 100% sustained entirely through voluntary reader contributions. And, I plan to keep doing this for as long as you keep supporting me (as defined by earning a fair living wage). This is my full-time job. So, if you find my work valuable and find yourself relying on it, [invest in the continued production of WTFJHT by becoming a supporting member](https://whatthefuckjusthappenedtoday.com/membership/).
 
@@ -70,7 +70,7 @@ New Year's Eve – December 31
 
 ---
 
-### *Editorial Process*
+### *Editorial process*
 
 **How do you decide what's in the daily update?** I try to approach the daily update like a front page editor at a newspaper would: focus on timeliness, impact, prominence, importance, conflict, and unexpectedness. This is further refined by framing WTFJHT's scope of coverage to the curiouser and curiouser news from in and around executive branch politics in particular – not necessarily politics in general. Together, WTFJHT serves as a single, daily summary of the most important events regarding the White House.
 
@@ -86,7 +86,7 @@ New Year's Eve – December 31
 
 ---
 
-### *Site Features*
+### *Site features*
 
 **What does the 📌 mean?** Where possible, I like to "re-up" news from the past to contextulize a current story without having to regurgitate all the past information. By pinning past abstract summaries in a sequential order below a new news story, we can tell a richer narrative without repeating information you may already know. And if you haven't been following along or you forgot, then the most salient background information is right there for ya.
 
@@ -96,7 +96,7 @@ New Year's Eve – December 31
 
 ---
 
-### *Policies & Boundaries*
+### *Policies & boundaries*
 
 **I'm running for office, will you share my campaign with your audience?** No. My promise to readers is that I'll tell them WTF just happened today and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what happened_; not what to think.
 
@@ -109,7 +109,7 @@ New Year's Eve – December 31
 
 ---
 
-### *WTF Does It Cost To Run This Thing?*
+### *WTF does it cost to run this thing?*
 
 _Last updated: August 2025_
 

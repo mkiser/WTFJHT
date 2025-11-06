@@ -234,28 +234,30 @@ sitemap: false
       padding: 1.75em 1.25em;
     }
   }
-  .share-btn {
-    position: absolute;
-    top: 1em;
-    right: 1em;
-    background: rgba(255, 255, 255, 0.9);
-    border: 1px solid #ddd;
-    padding: 0.5em 1em;
-    border-radius: 20px;
-    font-size: 0.75em;
-    cursor: pointer;
-    opacity: 0;
-    transition: opacity 0.3s;
-  }
 
-  .response-postcard:hover .share-btn {
-    opacity: 1;
-  }
+.share-btn {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid #ddd;
+  padding: 0.5em 1em;
+  border-radius: 20px;
+  font-size: 0.75em;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
 
-  .share-btn:hover {
-    background: white;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-  }
+.response-postcard:hover .share-btn {
+  opacity: 1;
+}
+
+.share-btn:hover {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
 
 </style>
 
@@ -500,13 +502,19 @@ sitemap: false
   }
 
   async function shareCard(button) {
-    const card = button.closest('.response-postcard');
+    const originalCard = button.closest('.response-postcard');
     
-    const originalTransform = card.style.transform;
-    const originalBoxShadow = card.style.boxShadow;
+    const card = originalCard.cloneNode(true);
+    card.style.position = 'fixed';
+    card.style.left = '-9999px';
+    document.body.appendChild(card);
+    
+    const shareBtn = card.querySelector('.share-btn');
     card.style.transform = 'rotate(0deg) scale(1)';
     card.style.boxShadow = '0 8px 20px rgba(0,0,0,0.2)';
-    button.style.display = 'none';
+    if (shareBtn) shareBtn.remove();
+    
+    await new Promise(resolve => setTimeout(resolve, 100));
     
     try {
       const cardCanvas = await html2canvas(card, {
@@ -517,7 +525,6 @@ sitemap: false
       });
       
       const CANVAS_SIZE = 1080;
-      
       const finalCanvas = document.createElement('canvas');
       finalCanvas.width = CANVAS_SIZE;
       finalCanvas.height = CANVAS_SIZE;
@@ -530,20 +537,13 @@ sitemap: false
       let scale = Math.min(maxSize / cardCanvas.width, maxSize / cardCanvas.height);
       const scaledWidth = cardCanvas.width * scale;
       const scaledHeight = cardCanvas.height * scale;
-      
       const x = (CANVAS_SIZE - scaledWidth) / 2;
       const y = (CANVAS_SIZE - scaledHeight) / 2;
       
-      ctx.shadowColor = 'rgba(0, 0, 0, 0.3)';
-      ctx.shadowBlur = 20;
-      ctx.shadowOffsetY = 8;
+      ctx.shadowColor = 'rgba(0, 0, 0, 0.25)';
+      ctx.shadowBlur = 25;
+      ctx.shadowOffsetY = 10;
       ctx.drawImage(cardCanvas, x, y, scaledWidth, scaledHeight);
-      
-      // ctx.shadowColor = 'transparent';
-      // ctx.fillStyle = 'rgba(0, 0, 0, 0.4)';
-      // ctx.font = '18px -apple-system, sans-serif';
-      // ctx.textAlign = 'center';
-      // ctx.fillText('Last Year in One Sentence', CANVAS_SIZE / 2, CANVAS_SIZE - 30);
       
       finalCanvas.toBlob(async (blob) => {
         const file = new File([blob], 'election-reflection.png', { type: 'image/png' });
@@ -552,15 +552,9 @@ sitemap: false
         
         if (navigator.share && navigator.canShare && navigator.canShare({ files: [file] })) {
           try {
-            await navigator.share({
-              files: [file],
-              title: 'Last Year in One Sentence',
-              text: 'A reflection on Election Day 2024'
-            });
+            await navigator.share({ files: [file], title: 'Last Year in One Sentence' });
             shareSucceeded = true;
-          } catch (err) {
-            console.log('Share cancelled or failed:', err.name);
-          }
+          } catch (err) {}
         }
         
         if (!shareSucceeded) {
@@ -570,7 +564,6 @@ sitemap: false
           link.href = url;
           link.click();
           URL.revokeObjectURL(url);
-          
           showNotification('✓ Image saved!');
         }
       });
@@ -579,12 +572,10 @@ sitemap: false
       console.error('Screenshot error:', error);
       alert('Unable to create screenshot');
     } finally {
-      // Restore styling
-      card.style.transform = originalTransform;
-      card.style.boxShadow = originalBoxShadow;
-      button.style.display = '';
+      document.body.removeChild(card);
     }
   }
+
 
 
 

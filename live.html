@@ -1,0 +1,132 @@
+---
+title: "WTF Live"
+layout: page
+description: ""
+image: "/uploads/og-image.jpg"
+sitemap: false
+---
+
+<div id="responses-container">
+  <h2>Last Year in One Sentence</h2>
+  <div id="output">Loading responses...</div>
+</div>
+
+<script>
+  const AIRTABLE_API_KEY = 'patco6Ccqt9wVfiIz.d895ee494e0418a3de7c3285cb2cf14a2f7bf58ba02a92de0aacc88966af1b0a';
+  const BASE_ID = 'apphLgQuNqkdP0QJ0';
+  const TABLE_NAME = 'tbl88OIwfrUMLuK7c';
+  
+  // More aggressive whitespace removal
+  function formatFeel(feel) {
+    if (!feel) return '';
+    
+    // Remove ALL leading and trailing whitespace and punctuation
+    let cleaned = feel
+      .trim()
+      .replace(/^[\s.,;:!?…]+/, '')   // Strip leading
+      .replace(/[\s.,;:!?…]+$/, '')   // Strip trailing
+      .trim();                         // Final trim
+    
+    // Make first character lowercase
+    if (cleaned.length > 0) {
+      cleaned = cleaned.charAt(0).toLowerCase() + cleaned.slice(1);
+    }
+    
+    return cleaned;
+  }
+
+  async function fetchAndDisplay() {
+    const output = document.getElementById('output');
+    
+    try {
+      const url = `https://api.airtable.com/v0/${BASE_ID}/${TABLE_NAME}?maxRecords=50&sort[0][field]=Created&sort[0][direction]=desc`;
+      
+      const response = await fetch(url, {
+        headers: {
+          'Authorization': `Bearer ${AIRTABLE_API_KEY}`
+        }
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok && data.records && data.records.length > 0) {
+        const madLibs = data.records.map(record => {
+          const f = record.fields;
+          return `
+            <div class="madlib-response">
+              <p><em><strong>Last year in one sentence:</strong> On Election Day 2024, I was feeling <mark class="gray-highlight">${f.PRIMARY}</mark> and <mark class="gray-highlight">${f.PRIMARY1}</mark>; but right after the results were in, I felt <mark class="gray-highlight">${f.SECONDARY}</mark> and <mark class="gray-highlight">${f.SECONDARY1 || f.SECONDARY}</mark>; now, a year later, I'm feeling <mark class="gray-highlight">${f.NOW}</mark>; and as I think about the future, I feel <mark class="yellow-highlight">${formatFeel(f.FEEL)}</mark>.</em></p>
+            <small class="response-date">${new Date(record.createdTime).toLocaleDateString('en-US', { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })}</small>
+            
+            </div>
+          `;
+        }).join('');
+        
+        output.innerHTML = madLibs;
+      } else {
+        output.innerHTML = '<p class="message">No responses yet. Be the first to share!</p>';
+      }
+      
+    } catch (error) {
+      console.error('Error:', error);
+      output.innerHTML = '<p class="message">Unable to load responses.</p>';
+    }
+  }
+
+  fetchAndDisplay();
+  setInterval(fetchAndDisplay, 30000);
+</script>
+
+<style>
+  .madlib-response {
+    background-color: rgba(49, 49, 49, 0.03);
+    padding: 1.75em;
+    margin: 0 0 1.5em 0;
+    border-left: 5px solid #e74c3c;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+    line-height: 1.7;  /* Increased from 1.58 */
+    max-width: 38rem;  /* Slightly narrower for long lines */
+  }
+  
+  .madlib-response p {
+    font-size: 1.05em;  /* Slightly smaller */
+    color: #515151;
+    margin: 0;
+  }
+  
+  .madlib-response mark {
+    font-weight: 600;
+    padding: 3px 5px 3px 5px;  /* top right bottom left */
+    border-radius: 3px;
+    white-space: normal;
+    word-break: break-word;
+  }
+
+  .madlib-response .gray-highlight {
+    background-color: #e5e5e5;
+    color: #313131;
+  }
+  
+  .madlib-response .yellow-highlight {
+    background-color: #fff9c4;
+    color: #313131;
+    padding-right: 3px;  /* Less padding on the right */
+  }
+
+  
+  /* Optional: Add subtle breaks at semicolons */
+  .madlib-response p::after {
+    content: '';
+    display: block;
+  }
+  
+  #responses-container {
+    margin-top: 1em;
+  }
+
+  .response-date {
+    display: block;
+    margin-top: 0.75em;
+    color: #9a9a9a;
+    font-size: 0.75em;
+  }
+</style>

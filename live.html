@@ -9,14 +9,23 @@ sitemap: false
 <p>
   <em>Election Day 2024 was a year ago, returning Trump to power. And, I want to know how you felt then, how you're feeling now, and where you think we’re headed. Below is a real-time collection of your last year in one sentence reflections.</em>
 </p>
+<p><strong>👉 <a href="https://tally.so/r/jaDyX4">Add your last year in one sentence here</a></strong>.</p>
 <hr>
 <div id="responses-container">
   <div id="output">Loading responses...</div>
 </div>
 
-
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Indie+Flower&family=Permanent+Marker&family=Kalam:wght@400;700&family=Shadows+Into+Light&family=Patrick+Hand&family=Reenie+Beanie&display=swap');
+  
+  /* Prevent clipping */
+  #responses-container {
+    overflow: visible;
+  }
+  
+  #output {
+    overflow: visible;
+  }
   
   .response-postcard {
     margin: 0 auto 4em auto;
@@ -32,9 +41,10 @@ sitemap: false
     z-index: 10;
   }
   
-  .size-small { max-width: 28rem; padding: 2em 1.75em; }
-  .size-medium { max-width: 34rem; padding: 2.5em 2.25em; }
-  .size-large { max-width: 40rem; padding: 3em 2.75em; }
+  /* Reduced sizes to prevent clipping when rotated */
+  .size-small { max-width: 26rem; padding: 2em 1.75em; }
+  .size-medium { max-width: 32rem; padding: 2.5em 2.25em; }
+  .size-large { max-width: 36rem; padding: 3em 2.75em; }
   
   .texture-lined {
     background-image: repeating-linear-gradient(transparent, transparent 1.9em, rgba(160,150,140,0.12) 1.9em, rgba(160,150,140,0.12) 1.95em);
@@ -64,6 +74,22 @@ sitemap: false
   .font-shadows { font-family: 'Shadows Into Light', cursive; }
   .font-patrick { font-family: 'Patrick Hand', cursive; }
   .font-reenie { font-family: 'Reenie Beanie', cursive; }
+
+  .font-caveat .response-body { font-size: 1.4em; }
+  .font-indie .response-body { font-size: 1.35em; }
+  .font-marker .response-body { font-size: 1.1em; }
+  .font-kalam .response-body { font-size: 1.35em; }
+  .font-shadows .response-body { font-size: 1.3em; }
+  .font-patrick .response-body { font-size: 1.3em; }
+  .font-reenie .response-body { font-size: 1.55em; }
+
+  .font-caveat .response-kicker { font-size: 1.6em; }
+  .font-indie .response-kicker { font-size: 1.5em; }
+  .font-marker .response-kicker { font-size: 1.3em; }
+  .font-kalam .response-kicker { font-size: 1.5em; }
+  .font-shadows .response-kicker { font-size: 1.45em; }
+  .font-patrick .response-kicker { font-size: 1.45em; }
+  .font-reenie .response-kicker { font-size: 1.75em; }
   
   .tool-pen .word { border-bottom: 2px solid currentColor; }
   .tool-pencil .word { border-bottom: 1.5px solid currentColor; opacity: 0.8; }
@@ -133,7 +159,7 @@ sitemap: false
   .template-sticky {
     border-radius: 0 0 4px 4px;
     border-top: none;
-    max-width: 30rem !important;
+    max-width: 28rem !important;
     padding: 2.5em 2em 3em 2em !important;
   }
   
@@ -157,14 +183,58 @@ sitemap: false
     border-color: transparent transparent rgba(0,0,0,0.06) transparent;
   }
   
+  .template-torn::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 6px;
+    background: linear-gradient(90deg, 
+      transparent 0px, transparent 4px,
+      currentColor 4px, currentColor 5px,
+      transparent 5px, transparent 9px
+    );
+    background-size: 9px 6px;
+    opacity: 0.08;
+  }
+  
   @media (max-width: 768px) {
     .size-small, .size-medium, .size-large {
-      max-width: 90%;
+      max-width: 85%;
       padding: 2em 1.5em;
+      margin-left: auto;
+      margin-right: auto;
     }
-    .response-postcard .response-body { font-size: 1.3em; }
-    .response-postcard .response-kicker { font-size: 1.4em; }
+    
+    .response-postcard {
+      transform: rotate(0deg) !important;
+    }
+    
+    .font-caveat .response-body { font-size: 1.3em; }
+    .font-indie .response-body { font-size: 1.25em; }
+    .font-marker .response-body { font-size: 1.05em; }
+    .font-kalam .response-body { font-size: 1.25em; }
+    .font-shadows .response-body { font-size: 1.2em; }
+    .font-patrick .response-body { font-size: 1.2em; }
+    .font-reenie .response-body { font-size: 1.45em; }
+    
+    .font-caveat .response-kicker { font-size: 1.4em; }
+    .font-indie .response-kicker { font-size: 1.35em; }
+    .font-marker .response-kicker { font-size: 1.2em; }
+    .font-kalam .response-kicker { font-size: 1.35em; }
+    .font-shadows .response-kicker { font-size: 1.3em; }
+    .font-patrick .response-kicker { font-size: 1.3em; }
+    .font-reenie .response-kicker { font-size: 1.6em; }
+    
     .response-timestamp { margin-top: 1.5em; opacity: 0.4; }
+  }
+
+  @media (max-width: 480px) {
+    .size-small, .size-medium, .size-large {
+      max-width: 92%;
+      padding: 1.75em 1.25em;
+    }
   }
 </style>
 

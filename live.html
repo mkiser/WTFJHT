@@ -18,7 +18,6 @@ sitemap: false
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Indie+Flower&family=Permanent+Marker&family=Kalam:wght@400;700&family=Shadows+Into+Light&family=Patrick+Hand&family=Reenie+Beanie&display=swap');
   
-  /* Prevent clipping */
   #responses-container {
     overflow: visible;
   }
@@ -41,7 +40,6 @@ sitemap: false
     z-index: 10;
   }
   
-  /* Reduced sizes to prevent clipping when rotated */
   .size-small { max-width: 26rem; padding: 2em 1.75em; }
   .size-medium { max-width: 32rem; padding: 2.5em 2.25em; }
   .size-large { max-width: 36rem; padding: 3em 2.75em; }
@@ -245,17 +243,20 @@ sitemap: false
   const AIRTABLE_API_KEY = 'patco6Ccqt9wVfiIz.d895ee494e0418a3de7c3285cb2cf14a2f7bf58ba02a92de0aacc88966af1b0a';
   const BASE_ID = 'apphLgQuNqkdP0QJ0';
   const TABLE_NAME = 'tbl88OIwfrUMLuK7c';
-  
 
   function formatFeel(feel) {
     if (!feel) return '';
-    let cleaned = feel.trim().replace(/^[.,;:!?…\s]+/, '').replace(/[.,;:!?…\s]+$/, '').trim();
+    let cleaned = feel.trim()
+      .replace(/^[.,;:!?…\s]+/, '')   // Strip leading punctuation
+      .replace(/[.,;:!?…\s]+$/, '')   // Strip trailing punctuation
+      .trim();
+    
     if (cleaned.length > 0) {
       cleaned = cleaned.charAt(0).toLowerCase() + cleaned.slice(1);
     }
-    return cleaned;
+    
+    return cleaned ? cleaned + '.' : '';  // Add period at the end
   }
-  
   function formatTimestamp(dateString) {
     if (!dateString) return '';
     const date = new Date(dateString);
@@ -306,7 +307,6 @@ sitemap: false
     const seed = index * 3137;
     
     const variations = [
-      // Light pressure
       {
         angle: 102,
         startFade: '0.5%',
@@ -316,9 +316,8 @@ sitemap: false
         thickness: '0.9em',
         position: '0.68em',
         secondAngle: 185,
-        highlightOpacity: '0.4'  // Now a string for rgba
+        highlightOpacity: '0.4'  
       },
-      // Heavy pressure
       {
         angle: 106,
         startFade: '1.2%',
@@ -330,7 +329,6 @@ sitemap: false
         secondAngle: 181,
         highlightOpacity: '0.65'
       },
-      // Medium pressure
       {
         angle: 108,
         startFade: '0.8%',
@@ -342,7 +340,6 @@ sitemap: false
         secondAngle: 183,
         highlightOpacity: '0.55'
       },
-      // Very light
       {
         angle: 100,
         startFade: '0.3%',
@@ -354,7 +351,6 @@ sitemap: false
         secondAngle: 187,
         highlightOpacity: '0.35'
       },
-      // Bold
       {
         angle: 104,
         startFade: '1.5%',
@@ -366,7 +362,6 @@ sitemap: false
         secondAngle: 180,
         highlightOpacity: '0.7'
       },
-      // Quick swipe
       {
         angle: 110,
         startFade: '0.2%',
@@ -378,7 +373,6 @@ sitemap: false
         secondAngle: 186,
         highlightOpacity: '0.45'
       },
-      // Double-stroke
       {
         angle: 103,
         startFade: '1%',
@@ -390,7 +384,6 @@ sitemap: false
         secondAngle: 182,
         highlightOpacity: '0.75'
       },
-      // Shaky hand
       {
         angle: 107,
         startFade: '1.8%',
@@ -417,10 +410,8 @@ sitemap: false
     
     const classes = `response-postcard ${v.texture} ${v.font} ${v.tool} ${v.size} ${v.template}`;
     
-    // Apply opacity to the highlight color, not the element
     const adjustedHighlight = p.highlight.replace(/[\d.]+\)$/, `${h.highlightOpacity})`);
     
-    // Build custom highlighter CSS
     const highlighterStyle = `
       background-image: 
         linear-gradient(

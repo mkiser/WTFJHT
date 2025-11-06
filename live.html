@@ -234,6 +234,29 @@ sitemap: false
       padding: 1.75em 1.25em;
     }
   }
+  .share-btn {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #ddd;
+    padding: 0.5em 1em;
+    border-radius: 20px;
+    font-size: 0.75em;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  .response-postcard:hover .share-btn {
+    opacity: 1;
+  }
+
+  .share-btn:hover {
+    background: white;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+
 </style>
 
 
@@ -434,6 +457,7 @@ sitemap: false
     return `
       <article class="${classes}" 
                style="transform: rotate(${v.rotation}); background-color: ${p.paperBg}; border-color: ${p.paperBorder}; color: ${p.ink};">
+        <button class="share-btn" onclick="shareCard(this)">📸 Share</button>
         <h3 class="response-prompt">Last year in one sentence:</h3>
         <p class="response-body">
           <span class="text">On Election Day 2024, I was feeling</span>
@@ -455,7 +479,7 @@ sitemap: false
     const output = document.getElementById('output');
     
     try {
-      const url = `https://api.airtable.com/v0/${BASE_ID}/${TABLE_NAME}?maxRecords=50&sort[0][field]=Created&sort[0][direction]=desc`;
+      const url = `https://api.airtable.com/v0/${BASE_ID}/${TABLE_NAME}?maxRecords=100&sort[0][field]=Created&sort[0][direction]=desc`;
       
       const response = await fetch(url, {
         headers: { 'Authorization': `Bearer ${AIRTABLE_API_KEY}` }
@@ -475,8 +499,99 @@ sitemap: false
     }
   }
 
+  async function shareCard(button) {
+    const card = button.closest('.response-postcard');
+    
+    const originalTransform = card.style.transform;
+    const originalBoxShadow = card.style.boxShadow;
+    card.style.transform = 'rotate(0deg) scale(1)';
+    card.style.boxShadow = '0 8px 20px rgba(0,0,0,0.2)';
+    button.style.display = 'none';
+    
+    try {
+      const cardCanvas = await html2canvas(card, {
+        backgroundColor: null,
+        scale: 2,
+        logging: false,
+        useCORS: true
+      });
+      
+      const CANVAS_SIZE = 1080;
+      
+      const finalCanvas = document.createElement('canvas');
+      finalCanvas.width = CANVAS_SIZE;
+      finalCanvas.height = CANVAS_SIZE;
+      const ctx = finalCanvas.getContext('2d');
+      
+      ctx.fillStyle = '#f5f5f5';
+      ctx.fillRect(0, 0, CANVAS_SIZE, CANVAS_SIZE);
+      
+      const maxSize = CANVAS_SIZE * 0.95;
+      let scale = Math.min(maxSize / cardCanvas.width, maxSize / cardCanvas.height);
+      const scaledWidth = cardCanvas.width * scale;
+      const scaledHeight = cardCanvas.height * scale;
+      
+      const x = (CANVAS_SIZE - scaledWidth) / 2;
+      const y = (CANVAS_SIZE - scaledHeight) / 2;
+      
+      ctx.shadowColor = 'rgba(0, 0, 0, 0.3)';
+      ctx.shadowBlur = 20;
+      ctx.shadowOffsetY = 8;
+      ctx.drawImage(cardCanvas, x, y, scaledWidth, scaledHeight);
+      
+      // ctx.shadowColor = 'transparent';
+      // ctx.fillStyle = 'rgba(0, 0, 0, 0.4)';
+      // ctx.font = '18px -apple-system, sans-serif';
+      // ctx.textAlign = 'center';
+      // ctx.fillText('Last Year in One Sentence', CANVAS_SIZE / 2, CANVAS_SIZE - 30);
+      
+      finalCanvas.toBlob(async (blob) => {
+        const file = new File([blob], 'election-reflection.png', { type: 'image/png' });
+        
+        let shareSucceeded = false;
+        
+        if (navigator.share && navigator.canShare && navigator.canShare({ files: [file] })) {
+          try {
+            await navigator.share({
+              files: [file],
+              title: 'Last Year in One Sentence',
+              text: 'A reflection on Election Day 2024'
+            });
+            shareSucceeded = true;
+          } catch (err) {
+            console.log('Share cancelled or failed:', err.name);
+          }
+        }
+        
+        if (!shareSucceeded) {
+          const url = URL.createObjectURL(blob);
+          const link = document.createElement('a');
+          link.download = 'election-reflection-' + Date.now() + '.png';
+          link.href = url;
+          link.click();
+          URL.revokeObjectURL(url);
+          
+          showNotification('✓ Image saved!');
+        }
+      });
+      
+    } catch (error) {
+      console.error('Screenshot error:', error);
+      alert('Unable to create screenshot');
+    } finally {
+      // Restore styling
+      card.style.transform = originalTransform;
+      card.style.boxShadow = originalBoxShadow;
+      button.style.display = '';
+    }
+  }
+
+
+
   fetchAndDisplay();
-  setInterval(fetchAndDisplay, 30000);
+  setInterval(fetchAndDisplay, 300000);
 </script>
  
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
 

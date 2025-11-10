@@ -9,7 +9,7 @@ sitemap: false
 <p>
   <em>Election Day 2024 was a year ago, returning Trump to power. And, I want to know how you felt then, how you're feeling now, and where you think we’re headed. Below is a real-time collection of your last year in one sentence reflections.</em>
 </p>
-<p><strong>👉 <a href="https://tally.so/r/jaDyX4">Add your last year in one sentence here</a></strong>.</p>
+<!-- <p><strong>👉 <a href="https://tally.so/r/jaDyX4">Add your last year in one sentence here</a></strong>.</p> -->
 <hr>
 <div id="responses-container">
   <div id="output">Loading responses...</div>
@@ -481,7 +481,7 @@ sitemap: false
     const output = document.getElementById('output');
     
     try {
-      const url = `https://api.airtable.com/v0/${BASE_ID}/${TABLE_NAME}?maxRecords=100&sort[0][field]=Created&sort[0][direction]=desc`;
+      const url = `https://api.airtable.com/v0/${BASE_ID}/${TABLE_NAME}?maxRecords=150&sort[0][field]=Created&sort[0][direction]=desc`;
       
       const response = await fetch(url, {
         headers: { 'Authorization': `Bearer ${AIRTABLE_API_KEY}` }

@@ -1,0 +1,588 @@
+---
+title: Your "Last Year in One Sentence."
+layout: page
+description: ''
+image: "/uploads/og-image.jpg"
+sitemap: false
+---
+
+<p>
+  <em>Election Day 2024 was a year ago, returning Trump to power. And, I want to know how you felt then, how you're feeling now, and where you think we’re headed. Below is a real-time collection of your last year in one sentence reflections.</em>
+</p>
+<!-- <p><strong>👉 <a href="https://tally.so/r/jaDyX4">Add your last year in one sentence here</a></strong>.</p> -->
+<hr>
+<div id="responses-container">
+  <div id="output">Loading responses...</div>
+</div>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Indie+Flower&family=Permanent+Marker&family=Kalam:wght@400;700&family=Shadows+Into+Light&family=Patrick+Hand&family=Reenie+Beanie&display=swap');
+  
+  #responses-container {
+    overflow: visible;
+  }
+  
+  #output {
+    overflow: visible;
+  }
+  
+  .response-postcard {
+    margin: 0 auto 4em auto;
+    border: 1px solid;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+    position: relative;
+  }
+
+  .response-postcard:hover {
+    transform: rotate(0deg) translateY(-4px) scale(1.02) !important;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    z-index: 10;
+  }
+  
+  .size-small { max-width: 26rem; padding: 2em 1.75em; }
+  .size-medium { max-width: 32rem; padding: 2.5em 2.25em; }
+  .size-large { max-width: 36rem; padding: 3em 2.75em; }
+  
+  .texture-lined {
+    background-image: repeating-linear-gradient(transparent, transparent 1.9em, rgba(160,150,140,0.12) 1.9em, rgba(160,150,140,0.12) 1.95em);
+  }
+  
+  .texture-dotted {
+    background-image: radial-gradient(circle, rgba(160,150,140,0.1) 1px, transparent 1px);
+    background-size: 20px 20px;
+  }
+  
+  .texture-grid {
+    background-image: 
+      repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(160,150,140,0.06) 19px, rgba(160,150,140,0.06) 20px),
+      repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(160,150,140,0.06) 19px, rgba(160,150,140,0.06) 20px);
+  }
+  
+  .texture-aged {
+    background-image: 
+      radial-gradient(circle at 15% 25%, rgba(160,130,100,0.02) 0%, transparent 50%),
+      radial-gradient(circle at 85% 75%, rgba(160,130,100,0.02) 0%, transparent 50%);
+  }
+  
+  .font-caveat { font-family: 'Caveat', cursive; }
+  .font-indie { font-family: 'Indie Flower', cursive; }
+  .font-marker { font-family: 'Permanent Marker', cursive; }
+  .font-kalam { font-family: 'Kalam', cursive; }
+  .font-shadows { font-family: 'Shadows Into Light', cursive; }
+  .font-patrick { font-family: 'Patrick Hand', cursive; }
+  .font-reenie { font-family: 'Reenie Beanie', cursive; }
+
+  .font-caveat .response-body { font-size: 1.4em; }
+  .font-indie .response-body { font-size: 1.35em; }
+  .font-marker .response-body { font-size: 1.1em; }
+  .font-kalam .response-body { font-size: 1.35em; }
+  .font-shadows .response-body { font-size: 1.3em; }
+  .font-patrick .response-body { font-size: 1.3em; }
+  .font-reenie .response-body { font-size: 1.55em; }
+
+  .font-caveat .response-kicker { font-size: 1.6em; }
+  .font-indie .response-kicker { font-size: 1.5em; }
+  .font-marker .response-kicker { font-size: 1.3em; }
+  .font-kalam .response-kicker { font-size: 1.5em; }
+  .font-shadows .response-kicker { font-size: 1.45em; }
+  .font-patrick .response-kicker { font-size: 1.45em; }
+  .font-reenie .response-kicker { font-size: 1.75em; }
+  
+  .tool-pen .word { border-bottom: 2px solid currentColor; }
+  .tool-pencil .word { border-bottom: 1.5px solid currentColor; opacity: 0.8; }
+  .tool-marker .word { background: rgba(255, 235, 59, 0.35); border: none; padding: 2px 6px; font-weight: 700; }
+  .tool-sharpie .word { background: rgba(255, 235, 59, 0.5); border: none; padding: 3px 8px; font-weight: 700; }
+  .tool-crayon .word { background: rgba(255, 235, 59, 0.3); border: none; padding: 2px 6px; font-weight: 700; }
+  
+  .response-postcard .response-prompt {
+    font-size: 1em;
+    font-weight: 700;
+    margin: 0 0 1.5em 0;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+  }
+  
+  .response-postcard .response-body {
+    font-size: 1.4em;
+    line-height: 1.6;
+    margin: 0 0 1.5em 0;
+  }
+  
+  .response-postcard .text {
+    opacity: 0.6;
+    font-weight: 400;
+  }
+  
+  .response-postcard .word {
+    font-weight: 700;
+    padding: 0 2px;
+  }
+  
+  .response-postcard .response-kicker {
+    font-size: 1.6em;
+    font-weight: 700;
+    line-height: 1.7;
+    margin-top: 1.5em;
+    padding: 0.2em 0.4em;
+    display: inline;
+    background-image: 
+      linear-gradient(104deg, rgba(255, 255, 255, 0) 0.9%, var(--highlight-color) 2.4%, var(--highlight-color) 5.8%, var(--highlight-color) 93%, var(--highlight-color) 96%, rgba(255, 255, 255, 0) 98%),
+      linear-gradient(183deg, var(--highlight-color) 0%, var(--highlight-color) 7.9%, rgba(255, 255, 255, 0) 15%);
+    background-size: 100% 0.95em;
+    background-repeat: no-repeat;
+    background-position: 0 0.65em;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+  }
+  
+  .response-timestamp {
+    font-size: 0.85em;
+    display: block;
+    margin-top: 1em;
+    opacity: 0.35;
+    text-align: right;
+  }
+  
+  .template-index::before {
+    content: '';
+    position: absolute;
+    left: 0.5em;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: rgba(200, 180, 160, 0.25);
+  }
+  
+  .template-sticky {
+    border-radius: 0 0 4px 4px;
+    border-top: none;
+    max-width: 28rem !important;
+    padding: 2.5em 2em 3em 2em !important;
+  }
+  
+  .template-sticky::before {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: 0;
+    right: 0;
+    height: 15px;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.12), transparent);
+  }
+  
+  .template-sticky::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-style: solid;
+    border-width: 0 0 20px 20px;
+    border-color: transparent transparent rgba(0,0,0,0.06) transparent;
+  }
+  
+  .template-torn::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 6px;
+    background: linear-gradient(90deg, 
+      transparent 0px, transparent 4px,
+      currentColor 4px, currentColor 5px,
+      transparent 5px, transparent 9px
+    );
+    background-size: 9px 6px;
+    opacity: 0.08;
+  }
+  
+  @media (max-width: 768px) {
+    .size-small, .size-medium, .size-large {
+      max-width: 85%;
+      padding: 2em 1.5em;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    .response-postcard {
+      transform: rotate(0deg) !important;
+    }
+    
+    .font-caveat .response-body { font-size: 1.3em; }
+    .font-indie .response-body { font-size: 1.25em; }
+    .font-marker .response-body { font-size: 1.05em; }
+    .font-kalam .response-body { font-size: 1.25em; }
+    .font-shadows .response-body { font-size: 1.2em; }
+    .font-patrick .response-body { font-size: 1.2em; }
+    .font-reenie .response-body { font-size: 1.45em; }
+    
+    .font-caveat .response-kicker { font-size: 1.4em; }
+    .font-indie .response-kicker { font-size: 1.35em; }
+    .font-marker .response-kicker { font-size: 1.2em; }
+    .font-kalam .response-kicker { font-size: 1.35em; }
+    .font-shadows .response-kicker { font-size: 1.3em; }
+    .font-patrick .response-kicker { font-size: 1.3em; }
+    .font-reenie .response-kicker { font-size: 1.6em; }
+    
+    .response-timestamp { margin-top: 1.5em; opacity: 0.4; }
+  }
+
+  @media (max-width: 480px) {
+    .size-small, .size-medium, .size-large {
+      max-width: 92%;
+      padding: 1.75em 1.25em;
+    }
+  }
+
+.share-btn {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid #ddd;
+  padding: 0.5em 1em;
+  border-radius: 20px;
+  font-size: 0.75em;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.response-postcard:hover .share-btn {
+  opacity: 1;
+}
+
+.share-btn:hover {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+
+</style>
+
+
+
+
+<script>
+  const AIRTABLE_API_KEY = 'patco6Ccqt9wVfiIz.d895ee494e0418a3de7c3285cb2cf14a2f7bf58ba02a92de0aacc88966af1b0a';
+  const BASE_ID = 'apphLgQuNqkdP0QJ0';
+  const TABLE_NAME = 'tbl88OIwfrUMLuK7c';
+
+  function formatFeel(feel) {
+    if (!feel) return '';
+    let cleaned = feel.trim()
+      .replace(/^[.,;:!?…\s]+/, '')   // Strip leading punctuation
+      .replace(/[.,;:!?…\s]+$/, '')   // Strip trailing punctuation
+      .trim();
+    
+    if (cleaned.length > 0) {
+      cleaned = cleaned.charAt(0).toLowerCase() + cleaned.slice(1);
+    }
+    
+    return cleaned ? cleaned + '.' : '';  // Add period at the end
+  }
+  function formatTimestamp(dateString) {
+    if (!dateString) return '';
+    const date = new Date(dateString);
+    return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', hour: 'numeric', minute: '2-digit' });
+  }
+  
+  function getColorPalette(index) {
+    const palettes = [
+      { paperBg: '#faf8f3', paperBorder: '#d8d0c0', ink: '#1e3a5f', highlight: 'rgba(255, 235, 59, 0.6)', isSticky: false },
+      { paperBg: '#fefefe', paperBorder: '#d5d5d5', ink: '#1a1a1a', highlight: 'rgba(255, 148, 194, 0.5)', isSticky: false },
+      { paperBg: '#fcfcf5', paperBorder: '#e0dcd0', ink: '#4a3425', highlight: 'rgba(255, 235, 59, 0.6)', isSticky: false },
+      { paperBg: '#fff9b0', paperBorder: '#e8e098', ink: '#1e3a5f', highlight: 'rgba(255, 148, 194, 0.55)', isSticky: true },
+      { paperBg: '#faf9f5', paperBorder: '#d8d5cc', ink: '#404040', highlight: 'rgba(123, 237, 159, 0.5)', isSticky: false },
+      { paperBg: '#ffeef5', paperBorder: '#e8d5dd', ink: '#2d2d2d', highlight: 'rgba(112, 193, 255, 0.5)', isSticky: true },
+      { paperBg: '#e8f4fd', paperBorder: '#d0dce8', ink: '#1e3a5f', highlight: 'rgba(255, 179, 71, 0.6)', isSticky: true },
+      { paperBg: '#fdfaf3', paperBorder: '#ddd5c8', ink: '#5a4535', highlight: 'rgba(255, 235, 59, 0.6)', isSticky: false },
+      { paperBg: '#e8f8f0', paperBorder: '#d0e0d8', ink: '#4a3425', highlight: 'rgba(255, 148, 194, 0.55)', isSticky: true },
+      { paperBg: '#f8f8f6', paperBorder: '#d5d5d0', ink: '#2b5278', highlight: 'rgba(123, 237, 159, 0.5)', isSticky: false },
+      { paperBg: '#fff0e8', paperBorder: '#e8d8d0', ink: '#2d2d2d', highlight: 'rgba(112, 193, 255, 0.5)', isSticky: true },
+      { paperBg: '#f9f6f0', paperBorder: '#d8d0c5', ink: '#1a1a1a', highlight: 'rgba(255, 235, 59, 0.6)', isSticky: false }
+    ];
+    return palettes[index % palettes.length];
+  }
+  
+  function getRandomVariety(index) {
+    const seed = index * 7919;
+    const textures = ['texture-lined', 'texture-dotted', 'texture-grid', 'texture-aged', '', '', ''];
+    const fonts = ['font-caveat', 'font-indie', 'font-marker', 'font-kalam', 'font-shadows', 'font-patrick', 'font-reenie'];
+    const tools = ['tool-pen', 'tool-pencil', 'tool-marker', 'tool-sharpie', 'tool-crayon'];
+    const sizes = ['size-small', 'size-medium', 'size-large', 'size-medium'];
+    const templates = ['template-index', 'template-sticky', 'template-torn', '', '', ''];
+    const rotations = ['-2.5deg', '-1.8deg', '-1.2deg', '-0.8deg', '-0.4deg', '0.2deg', '0.6deg', '1.0deg', '1.4deg', '1.8deg', '2.2deg'];
+    
+    const palette = getColorPalette(index);
+    
+    return {
+      palette: palette,
+      texture: palette.isSticky ? '' : textures[(seed + index * 3) % textures.length],
+      font: fonts[(seed + index * 7) % fonts.length],
+      tool: tools[(seed + index * 11) % tools.length],
+      size: sizes[(seed + index * 13) % sizes.length],
+      template: palette.isSticky ? 'template-sticky' : templates[(seed + index * 17) % templates.length],
+      rotation: rotations[(seed + index * 19) % rotations.length]
+    };
+  }
+
+  function getHighlighterVariation(index) {
+    const seed = index * 3137;
+    
+    const variations = [
+      {
+        angle: 102,
+        startFade: '0.5%',
+        startSolid: '1.8%',
+        endSolid: '94%',
+        endFade: '97.5%',
+        thickness: '0.9em',
+        position: '0.68em',
+        secondAngle: 185,
+        highlightOpacity: '0.4'  
+      },
+      {
+        angle: 106,
+        startFade: '1.2%',
+        startSolid: '3.5%',
+        endSolid: '91%',
+        endFade: '96%',
+        thickness: '1.05em',
+        position: '0.62em',
+        secondAngle: 181,
+        highlightOpacity: '0.65'
+      },
+      {
+        angle: 108,
+        startFade: '0.8%',
+        startSolid: '2.2%',
+        endSolid: '93.5%',
+        endFade: '98.2%',
+        thickness: '0.95em',
+        position: '0.65em',
+        secondAngle: 183,
+        highlightOpacity: '0.55'
+      },
+      {
+        angle: 100,
+        startFade: '0.3%',
+        startSolid: '1.5%',
+        endSolid: '95%',
+        endFade: '99%',
+        thickness: '0.85em',
+        position: '0.7em',
+        secondAngle: 187,
+        highlightOpacity: '0.35'
+      },
+      {
+        angle: 104,
+        startFade: '1.5%',
+        startSolid: '4%',
+        endSolid: '90%',
+        endFade: '95%',
+        thickness: '1.1em',
+        position: '0.6em',
+        secondAngle: 180,
+        highlightOpacity: '0.7'
+      },
+      {
+        angle: 110,
+        startFade: '0.2%',
+        startSolid: '1%',
+        endSolid: '96%',
+        endFade: '99.5%',
+        thickness: '0.88em',
+        position: '0.69em',
+        secondAngle: 186,
+        highlightOpacity: '0.45'
+      },
+      {
+        angle: 103,
+        startFade: '1%',
+        startSolid: '2.8%',
+        endSolid: '92%',
+        endFade: '97%',
+        thickness: '1.08em',
+        position: '0.63em',
+        secondAngle: 182,
+        highlightOpacity: '0.75'
+      },
+      {
+        angle: 107,
+        startFade: '1.8%',
+        startSolid: '3.2%',
+        endSolid: '91.5%',
+        endFade: '95.5%',
+        thickness: '0.92em',
+        position: '0.67em',
+        secondAngle: 184,
+        highlightOpacity: '0.5'
+      }
+    ];
+    
+    return variations[(seed + index) % variations.length];
+  }
+
+  function formatMadLib(record, index) {
+    const f = record.fields;
+    const kicker = formatFeel(f.FEEL);
+    const timestamp = formatTimestamp(record.createdTime);
+    const v = getRandomVariety(index);
+    const p = v.palette;
+    const h = getHighlighterVariation(index);
+    
+    const classes = `response-postcard ${v.texture} ${v.font} ${v.tool} ${v.size} ${v.template}`;
+    
+    const adjustedHighlight = p.highlight.replace(/[\d.]+\)$/, `${h.highlightOpacity})`);
+    
+    const highlighterStyle = `
+      background-image: 
+        linear-gradient(
+          ${h.angle}deg,
+          rgba(255, 255, 255, 0) ${h.startFade},
+          ${adjustedHighlight} ${h.startSolid},
+          ${adjustedHighlight} ${h.endSolid},
+          rgba(255, 255, 255, 0) ${h.endFade}
+        ),
+        linear-gradient(
+          ${h.secondAngle}deg,
+          ${adjustedHighlight} 0%,
+          ${adjustedHighlight} 7.9%,
+          rgba(255, 255, 255, 0) 15%
+        );
+      background-size: 100% ${h.thickness};
+      background-position: 0 ${h.position};
+    `;
+    
+    return `
+      <article class="${classes}" 
+               style="transform: rotate(${v.rotation}); background-color: ${p.paperBg}; border-color: ${p.paperBorder}; color: ${p.ink};">
+        <button class="share-btn" onclick="shareCard(this)">📸 Share</button>
+        <h3 class="response-prompt">Last year in one sentence:</h3>
+        <p class="response-body">
+          <span class="text">On Election Day 2024, I was feeling</span>
+          <span class="word">${f.PRIMARY}</span>
+          <span class="text">and</span>
+          <span class="word">${f.PRIMARY1}</span><span class="text">; but right after the results were in, I felt</span>
+          <span class="word">${f.SECONDARY}</span>
+          <span class="text">and</span>
+          <span class="word">${f.SECONDARY1 || f.SECONDARY}</span><span class="text">; now, a year later, I'm feeling</span>
+          <span class="word">${f.NOW}</span><span class="text">; and as I think about the future, I feel</span>
+        </p>
+        <span class="response-kicker" style="${highlighterStyle}">${kicker}</span>
+        <div class="response-timestamp">${timestamp}</div>
+      </article>
+    `;
+  }
+
+  async function fetchAndDisplay() {
+    const output = document.getElementById('output');
+    
+    try {
+      const url = `https://api.airtable.com/v0/${BASE_ID}/${TABLE_NAME}?maxRecords=150&sort[0][field]=Created&sort[0][direction]=desc`;
+      
+      const response = await fetch(url, {
+        headers: { 'Authorization': `Bearer ${AIRTABLE_API_KEY}` }
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok && data.records && data.records.length > 0) {
+        const madLibs = data.records.map((record, index) => formatMadLib(record, index)).join('');
+        output.innerHTML = madLibs;
+      } else {
+        output.innerHTML = '<p class="message">No responses yet.</p>';
+      }
+    } catch (error) {
+      console.error('Error:', error);
+      output.innerHTML = '<p>Unable to load responses.</p>';
+    }
+  }
+
+  async function shareCard(button) {
+    const originalCard = button.closest('.response-postcard');
+    
+    const card = originalCard.cloneNode(true);
+    card.style.position = 'fixed';
+    card.style.left = '-9999px';
+    document.body.appendChild(card);
+    
+    const shareBtn = card.querySelector('.share-btn');
+    card.style.transform = 'rotate(0deg) scale(1)';
+    card.style.boxShadow = '0 8px 20px rgba(0,0,0,0.2)';
+    if (shareBtn) shareBtn.remove();
+    
+    await new Promise(resolve => setTimeout(resolve, 100));
+    
+    try {
+      const cardCanvas = await html2canvas(card, {
+        backgroundColor: null,
+        scale: 2,
+        logging: false,
+        useCORS: true
+      });
+      
+      const CANVAS_SIZE = 1080;
+      const finalCanvas = document.createElement('canvas');
+      finalCanvas.width = CANVAS_SIZE;
+      finalCanvas.height = CANVAS_SIZE;
+      const ctx = finalCanvas.getContext('2d');
+      
+      ctx.fillStyle = '#f5f5f5';
+      ctx.fillRect(0, 0, CANVAS_SIZE, CANVAS_SIZE);
+      
+      const maxSize = CANVAS_SIZE * 0.95;
+      let scale = Math.min(maxSize / cardCanvas.width, maxSize / cardCanvas.height);
+      const scaledWidth = cardCanvas.width * scale;
+      const scaledHeight = cardCanvas.height * scale;
+      const x = (CANVAS_SIZE - scaledWidth) / 2;
+      const y = (CANVAS_SIZE - scaledHeight) / 2;
+      
+      ctx.shadowColor = 'rgba(0, 0, 0, 0.25)';
+      ctx.shadowBlur = 25;
+      ctx.shadowOffsetY = 10;
+      ctx.drawImage(cardCanvas, x, y, scaledWidth, scaledHeight);
+      
+      finalCanvas.toBlob(async (blob) => {
+        const file = new File([blob], 'election-reflection.png', { type: 'image/png' });
+        
+        let shareSucceeded = false;
+        
+        if (navigator.share && navigator.canShare && navigator.canShare({ files: [file] })) {
+          try {
+            await navigator.share({ files: [file], title: 'Last Year in One Sentence' });
+            shareSucceeded = true;
+          } catch (err) {}
+        }
+        
+        if (!shareSucceeded) {
+          const url = URL.createObjectURL(blob);
+          const link = document.createElement('a');
+          link.download = 'election-reflection-' + Date.now() + '.png';
+          link.href = url;
+          link.click();
+          URL.revokeObjectURL(url);
+          showNotification('✓ Image saved!');
+        }
+      });
+      
+    } catch (error) {
+      console.error('Screenshot error:', error);
+      alert('Unable to create screenshot');
+    } finally {
+      document.body.removeChild(card);
+    }
+  }
+
+
+
+
+  fetchAndDisplay();
+  setInterval(fetchAndDisplay, 300000);
+</script>
+ 
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+
+

@@ -133,7 +133,7 @@ name: What The Fuck Just Happened Today?
 tagline: Political News for Normal People.
 description: Your essential guide to the shock and awe in national politics. A sane,
   once-a-day newsletter helping normal people make sense of the news.<br>Read in moderation.
-is_away_mode: false
+is_away_mode: true
 permalink: pretty
 url: https://whatthefuckjusthappenedtoday.com
 baseurl: 

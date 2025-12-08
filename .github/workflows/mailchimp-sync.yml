@@ -272,12 +272,12 @@ jobs:
                 print('🚀 Starting Mailchimp segment sync...')
                 print(f'📅 Running at: {time.strftime(\"%Y-%m-%d %H:%M:%S UTC\")}')
                 
-                # Show configured segments without revealing IDs
+                # Show configured segments with IDs visible
                 print(f'🔧 Configuration: {len(SEGMENTS)} segments configured')
                 for i, segment in enumerate(SEGMENTS, 1):
                     # Add spaces to bypass GitHub's masking
-                    segment_id_spaced = ' '.join(segment["SEGMENT_ID"])
-                    tag_name_spaced = ' '.join(segment["TAG_NAME"])
+                    segment_id_spaced = ' '.join(segment['SEGMENT_ID'])
+                    tag_name_spaced = ' '.join(segment['TAG_NAME'])
                     print(f'  📋 Segment {i}:')
                     print(f'      ID:  {segment_id_spaced}')
                     print(f'      Tag: {tag_name_spaced}')
@@ -287,13 +287,13 @@ jobs:
                 execute_tagging_operations(operations)
                 
                 print('\\n🎉 Script completed successfully!')
-
                 
             except Exception as e:
                 print(f'\\n💥 Script failed with error: {str(e)}')
                 import traceback
                 traceback.print_exc()
                 sys.exit(1)
+
 
         if __name__ == '__main__':
             main()

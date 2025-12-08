@@ -37,7 +37,8 @@ jobs:
         SEGMENT_2_TAG: ${{ secrets.SEGMENT_2_TAG }}
         SEGMENT_3_ID: ${{ secrets.SEGMENT_3_ID }}
         SEGMENT_3_TAG: ${{ secrets.SEGMENT_3_TAG }}
-        
+        SEGMENT_4_TAG: ${{ secrets.SEGMENT_4_TAG }}
+
         # Optional: Performance Tuning (will use defaults if not set)
         GET_BATCH_SIZE: ${{ secrets.GET_BATCH_SIZE }}
         BATCH_SIZE: ${{ secrets.BATCH_SIZE }}
@@ -274,13 +275,19 @@ jobs:
                 # Show configured segments without revealing IDs
                 print(f'🔧 Configuration: {len(SEGMENTS)} segments configured')
                 for i, segment in enumerate(SEGMENTS, 1):
-                    print(f'  📋 Segment {i}: {segment[\"TAG_NAME\"]}')
+                    # Add spaces to bypass GitHub's masking
+                    segment_id_spaced = ' '.join(segment["SEGMENT_ID"])
+                    tag_name_spaced = ' '.join(segment["TAG_NAME"])
+                    print(f'  📋 Segment {i}:')
+                    print(f'      ID:  {segment_id_spaced}')
+                    print(f'      Tag: {tag_name_spaced}')
                 
                 operations = combine_operations()
                 print_summary(operations)
                 execute_tagging_operations(operations)
                 
                 print('\\n🎉 Script completed successfully!')
+
                 
             except Exception as e:
                 print(f'\\n💥 Script failed with error: {str(e)}')

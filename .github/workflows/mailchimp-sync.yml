@@ -37,6 +37,7 @@ jobs:
         SEGMENT_2_TAG: ${{ secrets.SEGMENT_2_TAG }}
         SEGMENT_3_ID: ${{ secrets.SEGMENT_3_ID }}
         SEGMENT_3_TAG: ${{ secrets.SEGMENT_3_TAG }}
+        SEGMENT_4_ID: ${{ secrets.SEGMENT_4_ID }}
         SEGMENT_4_TAG: ${{ secrets.SEGMENT_4_TAG }}
 
         # Optional: Performance Tuning (will use defaults if not set)

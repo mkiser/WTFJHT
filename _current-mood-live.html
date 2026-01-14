@@ -1,0 +1,782 @@
+---
+title: Current Moods for 2025
+layout: page
+description: ''
+image: "/uploads/og-image.jpg"
+sitemap: false
+---
+
+<p>Here's how everyone's feeling about 2025:</p>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600;700&family=Kalam:wght@400;700&family=Patrick+Hand&display=swap');
+  
+  /* Combined Stats/Filters */
+  .mood-stats-filters {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    gap: 12px;
+    margin: 25px 0;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+    border: 2px solid #e0e0e0;
+  }
+  
+  .stat-filter-btn {
+    padding: 16px 12px;
+    background: #fafafa;
+    border: 2px solid #e0e0e0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: center;
+  }
+  
+  .stat-filter-btn:hover {
+    border-color: #000;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .stat-filter-btn.active {
+    background: #000;
+    border-color: #000;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  }
+  
+  .stat-filter-btn.active .stat-label,
+  .stat-filter-btn.active .stat-value {
+    color: white;
+  }
+  
+  .stat-emoji {
+    font-size: 28px;
+    display: block;
+    margin-bottom: 4px;
+  }
+  
+  .stat-label {
+    font-size: 13px;
+    font-weight: 700;
+    color: #333;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    transition: color 0.2s;
+  }
+  
+  .stat-value {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1a1a1a;
+    transition: color 0.2s;
+  }
+  
+  .mood-controls {
+    margin: 20px 0;
+    padding: 15px;
+    background: #f9f9f9;
+    border-radius: 5px;
+    border-left: 4px solid #000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .mood-count {
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .refresh-button {
+    background: #000;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .refresh-button:hover {
+    background: #333;
+  }
+  
+  .refresh-button:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+  
+  .loading {
+    text-align: center;
+    padding: 40px;
+    color: #666;
+    font-size: 18px;
+  }
+  
+  .error-state {
+    text-align: center;
+    padding: 40px 20px;
+    color: #d32f2f;
+    background: #ffebee;
+    border-radius: 8px;
+    margin: 20px 0;
+  }
+  
+  .error-state-emoji {
+    font-size: 48px;
+    margin-bottom: 15px;
+  }
+  
+  .masonry-grid {
+    column-count: 3;
+    column-gap: 20px;
+    margin: 30px 0;
+  }
+  
+  .mood-card {
+    border: 2px solid;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    transition: all 0.3s ease;
+    animation: fadeIn 0.5s ease-out;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+  }
+  
+  .mood-card:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    z-index: 10;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .font-caveat { 
+    font-family: 'Caveat', 'Comic Sans MS', cursive, system-ui; 
+  }
+
+  .font-kalam { 
+    font-family: 'Kalam', 'Trebuchet MS', cursive, system-ui; 
+  }
+
+  .font-patrick { 
+    font-family: 'Patrick Hand', 'Arial', sans-serif, system-ui; 
+  }
+
+  .size-xs { padding: 16px 14px; }
+  .size-sm { padding: 22px 18px; }
+  .size-md { padding: 32px 26px; }
+  .size-lg { padding: 42px 34px; }
+  .size-xl { padding: 54px 44px; }
+  
+  .mood-emoji {
+    text-align: center;
+    user-select: none;
+    margin-bottom: 14px;
+  }
+  
+  .size-xs .mood-emoji { font-size: 38px; }
+  .size-sm .mood-emoji { font-size: 48px; }
+  .size-md .mood-emoji { font-size: 58px; }
+  .size-lg .mood-emoji { font-size: 70px; }
+  .size-xl .mood-emoji { font-size: 84px; }
+  
+  .mood-text {
+    text-align: center;
+    word-break: normal;
+    overflow-wrap: normal;
+    hyphens: none;
+    line-height: 1.6;
+    margin-bottom: 12px;
+    white-space: normal;
+    font-weight: 600;
+  }
+
+  .font-caveat .mood-text { 
+    font-size: 1.45em; 
+    font-weight: 700; 
+  }
+
+  .font-kalam .mood-text { 
+    font-size: 1.35em; 
+    font-weight: 700; 
+  }
+
+  .font-patrick .mood-text { 
+    font-size: 1.3em; 
+    font-weight: 600; 
+  }
+
+  .size-xs .mood-text { font-size: 1.1em; }
+  .size-sm .mood-text { font-size: 1.25em; }
+  .size-lg .mood-text { font-size: 1.6em; }
+  .size-xl .mood-text { font-size: 1.85em; }
+  
+  .mood-timestamp {
+    font-size: 0.75em;
+    opacity: 0.6;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif;
+    font-weight: 500;
+    margin-top: 12px;
+  }
+  
+  .empty-state {
+    text-align: center;
+    padding: 60px 20px;
+    color: #666;
+  }
+  
+  .empty-state-emoji {
+    font-size: 64px;
+    margin-bottom: 20px;
+  }
+  
+  .empty-state-text {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .empty-state-link {
+    display: inline-block;
+    background: #000;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background 0.3s;
+  }
+  
+  .empty-state-link:hover {
+    background: #333;
+  }
+  
+  .toast {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    background: #323232;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    font-size: 14px;
+    font-weight: 500;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.3s ease;
+    z-index: 1000;
+  }
+  
+  .toast.show {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  
+  @media (min-width: 601px) and (max-width: 900px) {
+    .masonry-grid {
+      column-count: 2;
+      column-gap: 16px;
+    }
+    
+    .mood-stats-filters {
+      grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      gap: 10px;
+    }
+    
+    .stat-filter-btn {
+      padding: 14px 10px;
+    }
+    
+    .stat-emoji {
+      font-size: 24px;
+    }
+    
+    .stat-value {
+      font-size: 18px;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .masonry-grid {
+      column-count: 1;
+      column-gap: 0;
+    }
+    
+    .mood-card {
+      margin-bottom: 16px;
+    }
+    
+    .mood-stats-filters {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      padding: 15px;
+    }
+    
+    .stat-filter-btn {
+      padding: 12px 8px;
+    }
+    
+    .stat-emoji {
+      font-size: 24px;
+      margin-bottom: 2px;
+    }
+    
+    .stat-label {
+      font-size: 11px;
+    }
+    
+    .stat-value {
+      font-size: 18px;
+    }
+    
+    .size-xs, .size-sm { padding: 20px 16px; }
+    .size-md { padding: 26px 20px; }
+    .size-lg, .size-xl { padding: 32px 24px; }
+    
+    .size-xs .mood-emoji, .size-sm .mood-emoji { font-size: 42px; }
+    .size-md .mood-emoji { font-size: 50px; }
+    .size-lg .mood-emoji, .size-xl .mood-emoji { font-size: 58px; }
+    
+    .mood-text { font-size: 1.2em !important; }
+    
+    .mood-controls {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    
+    .refresh-button {
+      width: 100%;
+    }
+    
+    .toast {
+      left: 16px;
+      right: 16px;
+      bottom: 16px;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .mood-card,
+    .toast,
+    .stat-filter-btn {
+      animation: none;
+      transition: none;
+    }
+    .mood-card:hover,
+    .stat-filter-btn:hover {
+      transform: none;
+    }
+  }
+</style>
+
+<!-- Combined Stats/Filters -->
+<div id="moodStatsFilters" class="mood-stats-filters" style="display: none;">
+  <button class="stat-filter-btn active" data-category="all">
+    <span class="stat-emoji">📊</span>
+    <span class="stat-label">All</span>
+    <span class="stat-value" id="statAll">0</span>
+  </button>
+  
+  <button class="stat-filter-btn" data-category="happy">
+    <span class="stat-emoji">😊</span>
+    <span class="stat-label">Happy</span>
+    <span class="stat-value" id="statHappy">0%</span>
+  </button>
+  
+  <button class="stat-filter-btn" data-category="sad">
+    <span class="stat-emoji">😢</span>
+    <span class="stat-label">Sad</span>
+    <span class="stat-value" id="statSad">0%</span>
+  </button>
+  
+  <button class="stat-filter-btn" data-category="angry">
+    <span class="stat-emoji">😡</span>
+    <span class="stat-label">Angry</span>
+    <span class="stat-value" id="statAngry">0%</span>
+  </button>
+  
+  <button class="stat-filter-btn" data-category="anxious">
+    <span class="stat-emoji">😰</span>
+    <span class="stat-label">Anxious</span>
+    <span class="stat-value" id="statAnxious">0%</span>
+  </button>
+  
+  <button class="stat-filter-btn" data-category="tired">
+    <span class="stat-emoji">🥱</span>
+    <span class="stat-label">Tired</span>
+    <span class="stat-value" id="statTired">0%</span>
+  </button>
+  
+  <button class="stat-filter-btn" data-category="neutral">
+    <span class="stat-emoji">😐</span>
+    <span class="stat-label">Neutral</span>
+    <span class="stat-value" id="statNeutral">0%</span>
+  </button>
+</div>
+
+<div class="mood-controls">
+  <div class="mood-count">
+    <span id="moodCount">Loading...</span> moods displayed
+  </div>
+  <button id="refreshBtn" class="refresh-button" aria-label="Refresh moods">↻ Refresh</button>
+</div>
+
+<div id="loadingState" class="loading" role="status" aria-live="polite">
+  Loading moods...
+</div>
+
+<div id="errorState" class="error-state" style="display: none;" role="alert">
+  <div class="error-state-emoji">⚠️</div>
+  <div id="errorMessage">Unable to load moods. Please try again.</div>
+</div>
+
+<div id="moodGrid" class="masonry-grid" style="display: none;"></div>
+
+<div id="emptyState" class="empty-state" style="display: none;">
+  <div class="empty-state-emoji">🤔</div>
+  <div class="empty-state-text">No moods in this category yet.</div>
+  <a href="/emoji/" class="empty-state-link">Share Your Mood</a>
+</div>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script>
+(function() {
+  'use strict';
+  
+  var EMOJI_CATEGORIES = {
+    happy: ['😀','😃','😄','😁','😆','😅','🤣','😂','🙂','😊','😇','🥰','😍','🤩','😘','😎','🥳','❤️','💚','💙','💜','🌈','✨'],
+    sad: ['😢','😭','😞','😔','😟','🙁','☹️','😕','😣','😖','😫','😩','🥺','😥','💔','🫠'],
+    angry: ['😠','😡','🤬','😤','💢','🤡','💩','👿'],
+    anxious: ['😰','😨','😱','🤯','😳','😵','🫨','💀'],
+    tired: ['🥱','😴','😪','😌'],
+    neutral: ['😐','😑','🤔','🤨','🙄','😶','🤷','👀','🙃','🎭','🔥','💪','🙏']
+  };
+  
+  var DUMMY_MOODS = [
+    { emoji: '😭', comment: 'Started hopeful, ended in chaos', timestamp: '2 minutes ago' },
+    { emoji: '🤯', comment: 'My brain cannot handle any more breaking news', timestamp: '5 minutes ago' },
+    { emoji: '😤', comment: 'Angry but still showing up', timestamp: '12 minutes ago' },
+    { emoji: '🥱', comment: 'Exhausted', timestamp: '18 minutes ago' },
+    { emoji: '❤️', comment: 'Love wins eventually', timestamp: '25 minutes ago' },
+    { emoji: '🙃', comment: 'Everything is fine (it is not)', timestamp: '32 minutes ago' },
+    { emoji: '💀', comment: 'Dead inside but still breathing', timestamp: '45 minutes ago' },
+    { emoji: '🎭', comment: 'Performance art at this point', timestamp: '1 hour ago' },
+    { emoji: '🔥', comment: 'This is fine', timestamp: '1 hour ago' },
+    { emoji: '😎', comment: 'Too cool to care anymore', timestamp: '2 hours ago' },
+    { emoji: '🤷', comment: 'I have no words left', timestamp: '2 hours ago' },
+    { emoji: '💪', comment: 'Still fighting', timestamp: '3 hours ago' },
+    { emoji: '😱', comment: 'Screaming into the void', timestamp: '3 hours ago' },
+    { emoji: '🙏', comment: 'Praying for sanity', timestamp: '4 hours ago' },
+    { emoji: '🤡', comment: 'Welcome to the circus', timestamp: '5 hours ago' },
+    { emoji: '💩', comment: 'Yep', timestamp: '6 hours ago' },
+    { emoji: '👀', comment: 'Just watching it unfold', timestamp: '7 hours ago' },
+    { emoji: '🌈', comment: 'Looking for the bright side', timestamp: '8 hours ago' },
+    { emoji: '🫠', comment: 'Melting', timestamp: '9 hours ago' },
+    { emoji: '😶', comment: 'No comment', timestamp: '10 hours ago' }
+  ];
+  
+  var moodGrid = document.getElementById('moodGrid');
+  var moodStatsFilters = document.getElementById('moodStatsFilters');
+  var loadingState = document.getElementById('loadingState');
+  var errorState = document.getElementById('errorState');
+  var errorMessage = document.getElementById('errorMessage');
+  var emptyState = document.getElementById('emptyState');
+  var moodCount = document.getElementById('moodCount');
+  var refreshBtn = document.getElementById('refreshBtn');
+  var toast = document.getElementById('toast');
+  
+  var allMoods = [];
+  var filteredMoods = [];
+  var currentFilter = 'all';
+  var lastRefreshTime = 0;
+  var REFRESH_COOLDOWN = 3000;
+  
+  function seededRandom(seed) {
+    var x = Math.sin(seed) * 10000;
+    return x - Math.floor(x);
+  }
+  
+  function hashString(str) {
+    var hash = 0;
+    for (var i = 0; i < str.length; i++) {
+      var char = str.charCodeAt(i);
+      hash = ((hash << 5) - hash) + char;
+      hash = hash & hash;
+    }
+    return Math.abs(hash);
+  }
+  
+  function getModernPalette(index) {
+    var palettes = [
+      { bg: '#FFFFFF', border: '#C0C0C0', text: '#1A1A1A' },
+      { bg: '#FFF8E7', border: '#D4C5A0', text: '#3D2F10' },
+      { bg: '#E3F2FD', border: '#90CAF9', text: '#0A3D7A' },
+      { bg: '#E8F5E9', border: '#81C784', text: '#0D4416' },
+      { bg: '#FFE0B2', border: '#FFB74D', text: '#BF360C' },
+      { bg: '#F3E5F5', border: '#CE93D8', text: '#38006B' }
+    ];
+    return palettes[index % palettes.length];
+  }
+  
+  function getRandomVariety(mood, index) {
+    var seed = hashString(mood.emoji + mood.comment);
+    var fonts = ['font-caveat', 'font-kalam', 'font-patrick'];
+    var sizes = ['size-xs', 'size-sm', 'size-sm', 'size-md', 'size-md', 'size-md', 'size-lg', 'size-xl'];
+    var palette = getModernPalette(index);
+    
+    return {
+      palette: palette,
+      font: fonts[(seed + index * 7) % fonts.length],
+      size: sizes[(seed + index * 11) % sizes.length]
+    };
+  }
+  
+  function getEmojiCategory(emoji) {
+    for (var category in EMOJI_CATEGORIES) {
+      if (EMOJI_CATEGORIES[category].indexOf(emoji) !== -1) {
+        return category;
+      }
+    }
+    return 'neutral';
+  }
+  
+  function filterMoodsByCategory(moods, category) {
+    if (category === 'all') return moods;
+    
+    return moods.filter(function(mood) {
+      return getEmojiCategory(mood.emoji) === category;
+    });
+  }
+  
+  function calculateStats(moods) {
+    var categoryCounts = { happy: 0, sad: 0, angry: 0, anxious: 0, tired: 0, neutral: 0 };
+    
+    moods.forEach(function(mood) {
+      var category = getEmojiCategory(mood.emoji);
+      categoryCounts[category]++;
+    });
+    
+    var total = moods.length;
+    
+    return {
+      total: total,
+      happy: total ? Math.round((categoryCounts.happy / total) * 100) : 0,
+      sad: total ? Math.round((categoryCounts.sad / total) * 100) : 0,
+      angry: total ? Math.round((categoryCounts.angry / total) * 100) : 0,
+      anxious: total ? Math.round((categoryCounts.anxious / total) * 100) : 0,
+      tired: total ? Math.round((categoryCounts.tired / total) * 100) : 0,
+      neutral: total ? Math.round((categoryCounts.neutral / total) * 100) : 0
+    };
+  }
+  
+  function updateStats(moods) {
+    var stats = calculateStats(moods);
+    
+    document.getElementById('statAll').textContent = stats.total;
+    document.getElementById('statHappy').textContent = stats.happy + '%';
+    document.getElementById('statSad').textContent = stats.sad + '%';
+    document.getElementById('statAngry').textContent = stats.angry + '%';
+    document.getElementById('statAnxious').textContent = stats.anxious + '%';
+    document.getElementById('statTired').textContent = stats.tired + '%';
+    document.getElementById('statNeutral').textContent = stats.neutral + '%';
+    
+    moodStatsFilters.style.display = 'grid';
+  }
+  
+  function createMoodCard(mood, index) {
+    var v = getRandomVariety(mood, index);
+    
+    var card = document.createElement('article');
+    card.className = 'mood-card ' + v.font + ' ' + v.size;
+    card.setAttribute('role', 'article');
+    card.setAttribute('aria-label', mood.emoji + ' mood: ' + mood.comment);
+    
+    card.style.backgroundColor = v.palette.bg;
+    card.style.borderColor = v.palette.border;
+    card.style.color = v.palette.text;
+    
+    var emojiDiv = document.createElement('div');
+    emojiDiv.className = 'mood-emoji';
+    emojiDiv.setAttribute('aria-hidden', 'true');
+    emojiDiv.textContent = mood.emoji;
+    
+    var textDiv = document.createElement('div');
+    textDiv.className = 'mood-text';
+    textDiv.textContent = mood.comment;
+    
+    var timestampDiv = document.createElement('time');
+    timestampDiv.className = 'mood-timestamp';
+    timestampDiv.textContent = mood.timestamp;
+    
+    card.appendChild(emojiDiv);
+    card.appendChild(textDiv);
+    card.appendChild(timestampDiv);
+    
+    return card;
+  }
+  
+  function showToast(message) {
+    toast.textContent = message;
+    toast.classList.add('show');
+    setTimeout(function() {
+      toast.classList.remove('show');
+    }, 3000);
+  }
+  
+  function showError(message) {
+    loadingState.style.display = 'none';
+    moodGrid.style.display = 'none';
+    emptyState.style.display = 'none';
+    moodStatsFilters.style.display = 'none';
+    errorState.style.display = 'block';
+    errorMessage.textContent = message;
+  }
+  
+  function hideError() {
+    errorState.style.display = 'none';
+  }
+  
+  function renderMoods(moods) {
+    loadingState.style.display = 'none';
+    hideError();
+    
+    if (moods.length === 0) {
+      moodGrid.style.display = 'none';
+      emptyState.style.display = 'block';
+      moodCount.textContent = '0';
+      return;
+    }
+    
+    emptyState.style.display = 'none';
+    moodGrid.style.display = 'block';
+    
+    moodGrid.innerHTML = '';
+    
+    for (var i = 0; i < moods.length; i++) {
+      var card = createMoodCard(moods[i], i);
+      moodGrid.appendChild(card);
+    }
+    
+    moodCount.textContent = moods.length;
+  }
+  
+  function applyFilter(category) {
+    currentFilter = category;
+    filteredMoods = filterMoodsByCategory(allMoods, category);
+    renderMoods(filteredMoods);
+    
+    document.querySelectorAll('.stat-filter-btn').forEach(function(btn) {
+      btn.classList.remove('active');
+    });
+    document.querySelector('[data-category="' + category + '"]').classList.add('active');
+  }
+  
+  function fetchMoods() {
+    return new Promise(function(resolve) {
+      setTimeout(function() {
+        resolve(DUMMY_MOODS);
+      }, 500);
+    });
+  }
+  
+  function init() {
+    fetchMoods()
+      .then(function(moods) {
+        allMoods = moods;
+        filteredMoods = moods;
+        updateStats(allMoods);
+        renderMoods(filteredMoods);
+      })
+      .catch(function(error) {
+        console.error('Error:', error);
+        showError('Unable to load moods. Please refresh to try again.');
+      });
+  }
+  
+  document.querySelectorAll('.stat-filter-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      applyFilter(this.getAttribute('data-category'));
+    });
+  });
+  
+  refreshBtn.addEventListener('click', function() {
+    var now = Date.now();
+    if (now - lastRefreshTime < REFRESH_COOLDOWN) {
+      showToast('Please wait a moment before refreshing again');
+      return;
+    }
+    
+    lastRefreshTime = now;
+    refreshBtn.disabled = true;
+    refreshBtn.textContent = '↻ Refreshing...';
+    
+    fetchMoods()
+      .then(function(moods) {
+        allMoods = moods;
+        filteredMoods = filterMoodsByCategory(allMoods, currentFilter);
+        updateStats(allMoods);
+        renderMoods(filteredMoods);
+        showToast('Moods refreshed!');
+      })
+      .catch(function(error) {
+        console.error('Error:', error);
+        showError('Unable to refresh. Please try again.');
+      })
+      .finally(function() {
+        refreshBtn.disabled = false;
+        refreshBtn.textContent = '↻ Refresh';
+      });
+  });
+  
+  setInterval(function() {
+    fetchMoods()
+      .then(function(moods) {
+        if (moods.length > allMoods.length) {
+          var newCount = moods.length - allMoods.length;
+          allMoods = moods;
+          filteredMoods = filterMoodsByCategory(allMoods, currentFilter);
+          updateStats(allMoods);
+          renderMoods(filteredMoods);
+          
+          if (newCount === 1) {
+            showToast('1 new mood added');
+          } else {
+            showToast(newCount + ' new moods added');
+          }
+        }
+      })
+      .catch(function(error) {
+        console.error('Auto-refresh error:', error);
+      });
+  }, 30000);
+  
+  init();
+  
+})();
+</script>

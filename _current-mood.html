@@ -1,0 +1,476 @@
+---
+title: Current Mood for 2026.
+layout: page
+description: ''
+image: "/uploads/og-image.jpg"
+sitemap: false
+---
+
+<p>Every WTFJHT update ends with a “current mood” emoji that reflects how the day’s news feels. Now it’s your turn: what emoji represents your current mood heading into 2026?</p>
+
+<style>
+  .emoji-form {
+    margin: 30px 0;
+    background: #f9f9f9;
+    padding: 25px;
+    border-radius: 5px;
+    border-left: 4px solid #000;
+  }
+  
+  .emoji-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #333;
+  }
+  
+  .emoji-display-container {
+    margin-bottom: 20px;
+  }
+  
+  .emoji-display {
+    font-size: 64px;
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+  }
+  
+  .emoji-display.empty::before {
+    content: "Select an emoji below";
+    font-size: 14px;
+    color: #999;
+  }
+  
+  .emoji-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+    gap: 8px;
+    padding: 15px;
+    background: white;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    max-height: 300px;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    margin-bottom: 20px;
+    scroll-behavior: smooth;
+  }
+  
+  .emoji-button {
+    font-size: 32px;
+    padding: 8px;
+    border: 2px solid transparent;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    transition: all 0.2s;
+    background: white;
+    line-height: 1;
+    min-width: 44px;
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
+    -webkit-user-select: none;
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  .emoji-button:hover {
+    background: #f0f0f0;
+    transform: scale(1.1);
+    border-color: #ddd;
+  }
+  
+  .emoji-button:active {
+    transform: scale(0.95);
+  }
+  
+  .emoji-button.selected {
+    border-color: #000;
+    background: #f0f0f0;
+  }
+  
+  .emoji-button:focus {
+    outline: 2px solid #000;
+    outline-offset: 2px;
+  }
+  
+  .character-count {
+    font-size: 12px;
+    color: #666;
+    text-align: right;
+    margin-top: -15px;
+    margin-bottom: 15px;
+  }
+  
+  .character-count.warning {
+    color: #ff6b6b;
+    font-weight: 600;
+  }
+  
+  .emoji-form textarea {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 5px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    font-family: inherit;
+    transition: border-color 0.3s;
+    resize: vertical;
+    min-height: 80px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .emoji-form textarea:focus {
+    outline: none;
+    border-color: #000;
+  }
+  
+  .emoji-form textarea.error-border {
+    border-color: #dc3545;
+  }
+  
+  .emoji-form button[type="submit"] {
+    width: 100%;
+    background: #000;
+    color: white;
+    padding: 14px;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s;
+    min-height: 48px;
+  }
+  
+  .emoji-form button[type="submit"]:hover:not(:disabled) {
+    background: #333;
+  }
+  
+  .emoji-form button[type="submit"]:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+    opacity: 0.7;
+  }
+  
+  .emoji-form button[type="submit"]:focus {
+    outline: 2px solid #000;
+    outline-offset: 2px;
+  }
+  
+  .emoji-message {
+    margin-top: 20px;
+    padding: 12px;
+    border-radius: 4px;
+    display: none;
+    font-weight: 500;
+    animation: slideIn 0.3s ease-out;
+  }
+  
+  @keyframes slideIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .emoji-message.success {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+  }
+  
+  .emoji-message.error {
+    background: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+  }
+  
+  @media (min-width: 601px) and (max-width: 900px) {
+    .emoji-grid {
+      grid-template-columns: repeat(auto-fill, minmax(48px, 1fr));
+    }
+    .emoji-button {
+      font-size: 30px;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .emoji-form {
+      padding: 15px;
+      margin: 20px 0;
+    }
+    .emoji-display {
+      font-size: 48px;
+      min-height: 80px;
+      padding: 15px;
+    }
+    .emoji-grid {
+      grid-template-columns: repeat(auto-fill, minmax(45px, 1fr));
+      gap: 6px;
+      max-height: 250px;
+      padding: 12px;
+    }
+    .emoji-button {
+      font-size: 28px;
+      padding: 6px;
+    }
+  }
+  
+  @media (prefers-reduced-motion: reduce) {
+    .emoji-button {
+      transition: none;
+    }
+    .emoji-button:hover {
+      transform: none;
+    }
+    .emoji-message {
+      animation: none;
+    }
+  }
+</style>
+
+<form id="emojiForm" class="emoji-form" novalidate>
+  <div class="emoji-display-container">
+    <label for="emojiDisplay">Your Selected Emoji:</label>
+    <div class="emoji-display empty" id="emojiDisplay" role="status" aria-live="polite"></div>
+  </div>
+
+  <label for="emojiGrid">Choose the emoji that best matches your current mood heading into 2026.</label>
+  <div class="emoji-grid" id="emojiGrid" role="radiogroup" aria-label="Emoji selection"></div>
+  
+  <input type="hidden" id="emoji" name="emoji" required>
+  
+  <label for="comment">Describe your "current mood":</label>
+  <textarea 
+    id="comment" 
+    name="comment" 
+    placeholder="A few words about how 2026 feels..."
+    maxlength="60"
+    aria-describedby="charCount"
+    required></textarea>
+  <div id="charCount" class="character-count">0/60 characters</div>
+  
+  <button type="submit" id="submitBtn" aria-label="Save your mood">Save mood</button>
+  
+  <div id="message" class="emoji-message" role="alert" aria-live="assertive"></div>
+</form>
+
+<script>
+(function() {
+  'use strict';
+  
+  const emojis = [
+    '😀','😃','😄','😁','😆','😅','🤣','😂','🙂','🙃','😉','😊','😇',
+    '🥰','😍','🤩','😘','😗','😚','😙','🥲','😋','😛','😜','🤪','😝',
+    '🤑','🤗','🤭','🤫','🤔','🤐','🤨','😐','😑','😶','😏','😒','🙄',
+    '😬','🤥','😌','😔','😪','🤤','😴','😷','🤒','🤕','🤢','🤮','🤧',
+    '🥵','🥶','🥴','😵','🤯','🤠','🥳','🥸','😎','🤓','🧐','😕','😟',
+    '🙁','☹️','😮','😯','😲','😳','🥺','😦','😧','😨','😰','😥','😢',
+    '😭','😱','😖','😣','😞','😓','😩','😫','🥱','😤','😡','😠','🤬',
+    '😈','👿','💀','☠️','💩','🤡','👹','👺','👻','👽','👾','🤖','😺',
+    '😸','😹','😻','😼','😽','🙀','😿','😾','🙈','🙉','🙊','💋','💌',
+    '💘','💝','💖','💗','💓','💞','💕','💟','❣️','💔','❤️','🧡','💛',
+    '💚','💙','💜','🤎','🖤','🤍','💯','💢','💥','💫','💦','💨','🕳️',
+    '💣','💬','👁️','🗨️','🗯️','💭','💤','👋','🤚','🖐️','✋','🖖','👌',
+    '🤌','🤏','✌️','🤞','🤟','🤘','🤙','👈','👉','👆','🖕','👇','☝️',
+    '👍','👎','✊','👊','🤛','🤜','👏','🙌','👐','🤲','🤝','🙏','✍️',
+    '💅','🤳','💪','🦾','🦿','🦵','🦶','👂','🦻','👃','🧠','🫀','🫁',
+    '🦷','🦴','👀','👁️','👅','👄','🔥','⚡','💥','✨','🌟','⭐','💫',
+    '🎉','🎊','🎈','🎁','🏆','🥇','🥈','🥉','⚽','⚾','🏀','🏈','🎯',
+    '🎲','🎰','🎮','🕹️','🎸','🎹','🎺','🎻','🥁','🎤','🎧','📻','🎬'
+  ];
+
+  const MAX_LENGTH = 60; // Easy to change: 36, 100, 150, 280, or remove limit entirely
+
+  const emojiGrid = document.getElementById('emojiGrid');
+  const emojiDisplay = document.getElementById('emojiDisplay');
+  const emojiInput = document.getElementById('emoji');
+  const commentTextarea = document.getElementById('comment');
+  const charCount = document.getElementById('charCount');
+  const form = document.getElementById('emojiForm');
+  const submitBtn = document.getElementById('submitBtn');
+  const messageDiv = document.getElementById('message');
+
+  const WORKER_URL = 'https://emoji-form-handler.YOUR-SUBDOMAIN.workers.dev';
+
+  function updateCharCount() {
+    const count = commentTextarea.value.length;
+    charCount.textContent = `${count}/${MAX_LENGTH} characters`;
+    
+    if (count >= MAX_LENGTH) {
+      charCount.classList.add('warning');
+    } else {
+      charCount.classList.remove('warning');
+    }
+  }
+
+  commentTextarea.addEventListener('input', updateCharCount);
+  commentTextarea.addEventListener('keyup', updateCharCount);
+
+  emojis.forEach((emoji, index) => {
+    const button = document.createElement('button');
+    button.type = 'button';
+    button.className = 'emoji-button';
+    button.textContent = emoji;
+    button.setAttribute('aria-label', `Select emoji ${emoji}`);
+    button.setAttribute('role', 'radio');
+    button.setAttribute('aria-checked', 'false');
+    button.tabIndex = index === 0 ? 0 : -1;
+    
+    button.addEventListener('click', function() {
+      selectEmoji(emoji, button);
+    });
+    
+    button.addEventListener('keydown', function(e) {
+      if (e.key === 'Enter' || e.key === ' ') {
+        e.preventDefault();
+        selectEmoji(emoji, button);
+      }
+    });
+    
+    emojiGrid.appendChild(button);
+  });
+
+  function selectEmoji(emoji, button) {
+    document.querySelectorAll('.emoji-button').forEach(btn => {
+      btn.classList.remove('selected');
+      btn.setAttribute('aria-checked', 'false');
+      btn.tabIndex = -1;
+    });
+    
+    button.classList.add('selected');
+    button.setAttribute('aria-checked', 'true');
+    button.tabIndex = 0;
+    
+    emojiDisplay.textContent = emoji;
+    emojiDisplay.classList.remove('empty');
+    emojiInput.value = emoji;
+    emojiDisplay.style.borderColor = '#ddd';
+  }
+
+  function validateForm() {
+    let isValid = true;
+    let errorMessage = '';
+    
+    commentTextarea.classList.remove('error-border');
+    emojiDisplay.style.borderColor = '#ddd';
+    
+    if (!emojiInput.value) {
+      isValid = false;
+      errorMessage = 'Please select an emoji first.';
+      emojiDisplay.style.borderColor = '#dc3545';
+    }
+    
+    const comment = commentTextarea.value.trim();
+    if (!comment) {
+      isValid = false;
+      errorMessage = errorMessage || 'Please describe your "current mood."';
+      commentTextarea.classList.add('error-border');
+    } else if (comment.length > MAX_LENGTH) {
+      isValid = false;
+      errorMessage = `Status must be ${MAX_LENGTH} characters or less.`;
+      commentTextarea.classList.add('error-border');
+    }
+    
+    return { isValid, errorMessage };
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    
+    const validation = validateForm();
+    if (!validation.isValid) {
+      showMessage('error', `✗ ${validation.errorMessage}`);
+      return;
+    }
+    
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Saving...';
+    messageDiv.style.display = 'none';
+    
+    const formData = {
+      emoji: emojiInput.value.trim(),
+      comment: commentTextarea.value.trim()
+    };
+    
+    try {
+      const response = await fetch(WORKER_URL, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData)
+      });
+      
+      const data = await response.json();
+      
+      if (response.ok) {
+        showMessage('success', '✓ Mood saved! Thanks for sharing.');
+        
+        form.reset();
+        emojiDisplay.textContent = '';
+        emojiDisplay.classList.add('empty');
+        updateCharCount();
+        
+        document.querySelectorAll('.emoji-button').forEach((btn, index) => {
+          btn.classList.remove('selected');
+          btn.setAttribute('aria-checked', 'false');
+          btn.tabIndex = index === 0 ? 0 : -1;
+        });
+        
+        if (window.innerWidth < 600) {
+          messageDiv.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+      } else {
+        throw new Error(data.error || 'Submission failed');
+      }
+      
+    } catch (error) {
+      showMessage('error', `✗ Error: ${error.message}. Please try again.`);
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Save mood';
+    }
+  });
+  
+  function showMessage(type, text) {
+    messageDiv.className = `emoji-message ${type}`;
+    messageDiv.textContent = text;
+    messageDiv.style.display = 'block';
+    
+    if (type === 'success') {
+      setTimeout(() => {
+        messageDiv.style.display = 'none';
+      }, 5000);
+    }
+  }
+  
+  commentTextarea.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      form.dispatchEvent(new Event('submit'));
+    }
+  });
+  
+})();
+</script>

@@ -20,7 +20,6 @@ layout:
   <copyright>{{ site.podcast_copyright }}</copyright>
   <generator>Jekyll</generator>
   
-  <!-- iTunes Tags -->
   <itunes:summary>{{ site.podcast_summary }}</itunes:summary>
   <itunes:author>{{ site.podcast_author }}</itunes:author>
   <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
@@ -34,11 +33,10 @@ layout:
     <itunes:category text="{{ site.podcast_subcategory }}" />
   </itunes:category>
   
-  <!-- Podcast 2.0 Tags -->
   <podcast:locked>no</podcast:locked>
   <podcast:guid>{{ site.podcast_guid }}</podcast:guid>
   <podcast:medium>podcast</podcast:medium>
-  <podcast:funding url="{{ site.url }}{{ site.baseurl }}/membership/">Support WTF Just Happened Today?</podcast:funding>
+  <podcast:funding url="{{ site.url }}{{ site.baseurl }}/membership/">Support WTF Just Happened Today</podcast:funding>
   
   <image>
     <title>{{ site.podcast_title }}</title>
@@ -62,29 +60,31 @@ layout:
     <dc:creator>{{ site.podcast_owner }}</dc:creator>
     
     <description><![CDATA[
-      <p><strong>{{ post.date | date: "%A, %B %e, %Y" }}</strong></p>
+      <p><strong>{{ post.date | date: "%A, %B %-d, %Y" }}</strong></p>
+      <p>{{ post.todayInOneSentence }}</p>
+      <p><strong>Read more:</strong> <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></p>
       <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a></p>
-      {{ post.todayInOneSentence | strip_html | truncate: 250 }}
-      <p><em>Visit <a href="{{ site.url }}{{ site.baseurl }}/">WTF Just Happened Today?</a> for more.</em></p>
+      <p><strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let us know what you think</a></p>
     ]]></description>
     
     <content:encoded><![CDATA[
-      <p><strong>{{ post.date | date: "%A, %B %e, %Y" }}</strong></p>
-      {{ post.todayInOneSentence | truncate: 4000 }}
+      <p><strong>{{ post.date | date: "%A, %B %-d, %Y" }}</strong></p>
+      <p>{{ post.todayInOneSentence }}</p>
+      <p><strong>Read more:</strong> <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></p>
+      <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a></p>
+      <p><strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let us know what you think</a></p>
     ]]></content:encoded>
 
     <enclosure url="{{ site.cloudfront_url }}{{ post.podcast.file }}" length="{{ post.podcast.length }}" type="audio/mpeg" />
 
-    <!-- iTunes Episode Tags -->
     <itunes:title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</itunes:title>
-    <itunes:summary><![CDATA[{{ post.todayInOneSentence | strip_html | truncate: 250 }}]]></itunes:summary>
+    <itunes:summary><![CDATA[{{ post.date | date: "%A, %B %-d, %Y" }} — {{ post.todayInOneSentence }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
     <itunes:duration>{{ post.podcast.duration }}</itunes:duration>
     <itunes:episodeType>full</itunes:episodeType>
     
-    <!-- Podcast 2.0 Episode Tags -->
     {%- if post.podcast.transcript and post.podcast.transcript != '' -%}
     <podcast:transcript url="{{ site.cloudfront_url }}{{ post.podcast.transcript }}" type="text/vtt" />
     {%- endif -%}

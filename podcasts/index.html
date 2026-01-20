@@ -22,10 +22,12 @@ redirect_from: "/podcast/"
       <a href="{{ site.podcast_links.youtube }}">YouTube</a>, 
       <a href="{{ site.url }}{{ site.baseurl }}{{ site.podcast_links.rss }}">RSS</a>
     </p>
+    <p class="pod-subscribe">
+      <strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let us know what you think</a>
+    </p>
   </div>
 </div>
 
-{%- comment -%} Build episodes array from posts with podcast data {%- endcomment -%}
 {%- assign episodes = "" | split: "" -%}
 {%- for post in site.posts -%}
   {%- if post.podcast.file and post.podcast.file != '' -%}
@@ -40,7 +42,10 @@ redirect_from: "/podcast/"
 
 <div>
   <h2 class="pod-lead"><a href="{{ site.baseurl }}{{ latest.url }}">{{ latest.title }}: {{ latest.description }}</a></h2>
-  <p class="pod-desc">{{ latest.date | date: "%A, %B %d, %Y" }}</p>
+  <p class="pod-desc">{{ latest.date | date: "%A, %B %-d, %Y" }}</p>
+  {% if latest.todayInOneSentence %}
+  <p class="pod-summary">{{ latest.todayInOneSentence }}</p>
+  {% endif %}
   <div class="pod">
     <audio src="{{ site.cloudfront_url }}{{ latest.podcast.file }}" preload="none" />
   </div>
@@ -52,7 +57,10 @@ redirect_from: "/podcast/"
   {% for post in episodes limit:10 offset:1 %}
   <li>
     <h3 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></h3>
-    <p class="pod-desc">{{ post.date | date: "%A, %B %d, %Y" }}</p>
+    <p class="pod-desc">{{ post.date | date: "%A, %B %-d, %Y" }}</p>
+    {% if post.todayInOneSentence %}
+    <p class="pod-summary">{{ post.todayInOneSentence | truncate: 150 }}</p>
+    {% endif %}
     <div class="pod">
       <audio src="{{ site.cloudfront_url }}{{ post.podcast.file }}" preload="none" />
     </div>

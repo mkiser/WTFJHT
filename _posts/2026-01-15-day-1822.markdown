@@ -3,6 +3,10 @@ title: Day 1822
 date: 2026-01-15 15:42:00 -08:00
 description: '"Turn the temperature down."'
 image: "/uploads/day1822trump.jpg"
+podcast:
+  file: '/uploads/Day 1822 Turn the temperature down.mp3'
+  duration: '00:03:52'
+  length: '3724477'
 todayInOneSentence: Trump threatened to “institute the INSURRECTION ACT” after an
   ICE officer shot a Venezuelan man in the leg during an arrest; Trump delayed a decision
   on U.S. strikes on Iran after senior advisers warned him that even a large-scale

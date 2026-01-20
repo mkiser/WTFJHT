@@ -64,20 +64,20 @@ layout:
     <description><![CDATA[
       <p><strong>{{ post.date | date: "%A, %B %e, %Y" }}</strong></p>
       <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a></p>
-      {{ post.content | strip_html | truncate: 250 }}
+      {{ post.todayInOneSentence | strip_html | truncate: 250 }}
       <p><em>Visit <a href="{{ site.url }}{{ site.baseurl }}/">WTF Just Happened Today?</a> for more.</em></p>
     ]]></description>
     
     <content:encoded><![CDATA[
       <p><strong>{{ post.date | date: "%A, %B %e, %Y" }}</strong></p>
-      {{ post.content | truncate: 4000 }}
+      {{ post.todayInOneSentence | truncate: 4000 }}
     ]]></content:encoded>
 
     <enclosure url="{{ site.cloudfront_url }}{{ post.podcast.file }}" length="{{ post.podcast.length }}" type="audio/mpeg" />
 
     <!-- iTunes Episode Tags -->
     <itunes:title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</itunes:title>
-    <itunes:summary><![CDATA[{{ post.content | strip_html | truncate: 250 }}]]></itunes:summary>
+    <itunes:summary><![CDATA[{{ post.todayInOneSentence | strip_html | truncate: 250 }}]]></itunes:summary>
     <itunes:author>{{ site.podcast_author }}</itunes:author>
     <itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
     <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>

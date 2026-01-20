@@ -4,7 +4,7 @@ date: 2026-01-13 15:46:00 -08:00
 description: '"That jerk will be gone soon."'
 image: "/uploads/day1820trump.jpg"
 podcast:
-  file: '/uploads/Day 1820 That jerk will be gone soon.mp3'
+  file: "/uploads/Day 1820 That jerk will be gone soon.mp3"
   duration: '00:03:40'
   length: '3524692'
 todayInOneSentence: 'At least six federal prosecutors in Minnesota and at least five

@@ -335,9 +335,9 @@ podcast_summary: A sane, once-a-day update on today’s essential political news
 podcast_subtitle: 
 podcast_copyright: CC BY-NC-SA 4.0
 cloudfront_url: https://d3ur8zm5qs6awd.cloudfront.net
-podcast_guid: "0C736D1F-59A8-4176-AFDA-D4111EF9DC61"
+podcast_guid: 0C736D1F-59A8-4176-AFDA-D4111EF9DC61
 podcast_links:
-  apple: "https://podcasts.apple.com/us/podcast/wtf-just-happened-today/id1206537023"
-  spotify: "https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3"
-  youtube: "https://www.youtube.com/@WTFJHT/podcasts"
+  apple: https://podcasts.apple.com/us/podcast/wtf-just-happened-today/id1206537023
+  spotify: https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3
+  youtube: https://www.youtube.com/@WTFJHT/podcasts
   rss: "/podcasts/index.xml"

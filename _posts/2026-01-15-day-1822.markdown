@@ -4,7 +4,7 @@ date: 2026-01-15 15:42:00 -08:00
 description: '"Turn the temperature down."'
 image: "/uploads/day1822trump.jpg"
 podcast:
-  file: '/uploads/Day 1822 Turn the temperature down.mp3'
+  file: "/uploads/Day 1822 Turn the temperature down.mp3"
   duration: '00:03:52'
   length: '3724477'
 todayInOneSentence: Trump threatened to “institute the INSURRECTION ACT” after an

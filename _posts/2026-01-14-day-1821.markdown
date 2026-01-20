@@ -4,7 +4,7 @@ date: 2026-01-14 15:15:00 -08:00
 description: '"Definitely no regrets whatsoever."'
 image: "/uploads/day1821trump.jpg"
 podcast:
-  file: '/uploads/Day 1821 Definitely no regrets whatsoever_v1.mp3'
+  file: "/uploads/Day 1821 Definitely no regrets whatsoever_v1.mp3"
   duration: '00:03:50'
   length: '3688532'
 todayInOneSentence: 'FBI agents searched the Virginia home of a Washington Post reporter;

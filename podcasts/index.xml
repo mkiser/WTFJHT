@@ -76,7 +76,7 @@ layout:
       <p><strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let us know what you think</a></p>
     ]]></content:encoded>
 
-    <enclosure url="{{ site.cloudfront_url }}{{ post.podcast.file }}" length="{{ post.podcast.length }}" type="audio/mpeg" />
+    <enclosure url="{{ site.cloudfront_url }}{{ post.podcast.file | replace: ' ', '%20' }}" length="{{ post.podcast.length }}" type="audio/mpeg" />
 
     <itunes:title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</itunes:title>
     <itunes:summary><![CDATA[{{ post.date | date: "%A, %B %-d, %Y" }} — {{ post.todayInOneSentence }}]]></itunes:summary>

@@ -27,7 +27,7 @@ layout:
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
         <guid isPermaLink="false">{{ site.url }}{{ post.url }}</guid>
         <description>{{ post.date | date: "%A, %B %-d, %Y" }} — {{ post.todayInOneSentence | strip_html | truncate: 200 }} Feedback? Visit wtfjht.com/feedback</description>
-        <enclosure url="{{ site.cloudfront_url }}{{ post.podcast.file }}" length="{{ post.podcast.length }}" type="audio/mpeg" />
+        <enclosure url="{{ site.cloudfront_url }}{{ post.podcast.file | replace: ' ', '%20' }}" length="{{ post.podcast.length }}" type="audio/mpeg" />
       </item>
       {%- break -%}
     {%- endif -%}

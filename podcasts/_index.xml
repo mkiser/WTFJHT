@@ -1,0 +1,93 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:media="http://search.yahoo.com/mrss/">
+ 
+
+<channel>
+<title>{{ site.podcast_title }}</title>
+<atom:link href="{{ site.url }}{{ site.baseurl }}/podcasts/index.xml" rel="self" type="application/rss+xml" />
+<link>{{ site.url }}{{ site.baseurl }}</link>
+
+<description>{{ site.podcast_description }}</description>
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+<language>en-US</language>
+<copyright>{{ site.podcast_copyright }}</copyright>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<ttl>1440</ttl>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary>{{ site.podcast_summary }}</itunes:summary>
+<itunes:author>{{ site.podcast_author }}</itunes:author>
+<itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
+<itunes:block>No</itunes:block>
+<itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
+<itunes:owner>
+    <itunes:name>{{ site.podcast_owner }}</itunes:name>
+    <itunes:email>{{ site.podcast_email }}</itunes:email>
+</itunes:owner>
+<managingEditor>{{ site.podcast_email }} ({{ site.podcast_owner }})</managingEditor>
+<itunes:subtitle>{{ site.podcast_subtitle }}</itunes:subtitle>
+<image>
+    <title>{{ site.podcast_title }}</title>
+    <url>{{ site.cloudfront_url }}{{ site.podcast_album_art }}</url>
+    <link>{{ site.url }}{{ site.baseurl }}</link>
+    <width>144</width>
+    <height>144</height>
+</image>
+<itunes:category text="{{ site.podcast_category }}">
+  <itunes:category text="{{ site.podcast_subcategory }}" />
+</itunes:category>
+<category>{{ site.podcast_category }}</category>
+
+{%- assign episodes = site.podcasts | reverse -%}
+{% for ep in episodes limit:50  %}
+
+  <item>
+    <title>{{ ep.title | xml_escape }}</title>
+    <guid isPermaLink="false">{{ ep.url }}</guid>
+    <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+    <category>politics</category>
+    <category>news</category>
+    <dc:creator>{{ site.podcast_owner }}</dc:creator>
+
+    {% assign post = site.posts | where: 'title', ep.post %}
+    {% for link in post limit:1 %}
+    <link>{{ site.url }}{{ site.baseurl }}{{ link.url }}</link>
+    <description>    
+        <![CDATA[
+            <p><strong>{{ ep.date | date: "%A, %B %e, %Y" }}</strong></p>
+            <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>
+            {{ link.content | strip_html | truncate: 250 }}
+            <p><i>Visit <a href="{{ site.url }}{{ site.baseurl }}/" target="_blank">WTF Just Happened Today?</a> for more news and headlines, brought to you by <a href="https://twitter.com/Matt_Kiser" target="_blank">Matt Kiser</a>. The <a href="https://whatthefuckjusthappenedtoday.com/podcasts/" target="_blank">WTFJHT Podcast</a> is narrated and produced by <a href="https://twitter.com/jsamditis" target="_blank">Joe Amditis</a>.</i></p>
+            ]]>
+    </description>
+    <content:encoded>
+        <![CDATA[
+            <p><strong>{{ ep.date | date: "%A, %B %e, %Y" }}</strong></p>
+            <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/" target="_blank">Get the Daily Update in your inbox for free</a></p>
+            {{ link.content | truncate: 4000 }}
+            <p><i>Visit <a href="{{ site.url }}{{ site.baseurl }}/" target="_blank">WTF Just Happened Today?</a> for more news and headlines, brought to you by <a href="https://twitter.com/Matt_Kiser" target="_blank">Matt Kiser</a>. The <a href="https://whatthefuckjusthappenedtoday.com/podcasts/" target="_blank">WTFJHT Podcast</a> is narrated and produced by <a href="https://twitter.com/jsamditis" target="_blank">Joe Amditis</a>.</i></p>
+            ]]>
+    </content:encoded>
+
+    <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
+
+    <itunes:subtitle>{{ link.content | strip_html | truncate: 250 | expand_urls: site.url }}</itunes:subtitle>
+    <itunes:summary><![CDATA[{{ link.content | truncate: 4000 }}]]></itunes:summary>
+    <itunes:author>{{ site.podcast_author }}</itunes:author>
+    <itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
+    <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
+    <itunes:duration>{{ ep.duration }}</itunes:duration>
+    <media:content url="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" medium="image">
+        <media:title type="html">{{ ep.title }}</media:title>
+    </media:content>
+    {% endfor %}
+  </item>
+{% endfor %}
+
+</channel>
+</rss>

@@ -8,73 +8,61 @@ redirect_from: "/podcast/"
 <article class="page">
 
 <div class="pod-header">
-	<div class="pod-cover">
-	  <img src="{{ site.url }}{{ site.baseurl }}{{ site.podcast_album_art }}" class="pod-image">
-	</div>
+  <div class="pod-cover">
+    <img src="{{ site.url }}{{ site.baseurl }}{{ site.podcast_album_art }}" class="pod-image">
+  </div>
 
-	<div class="pod-box">
-		<h1 class="pod-title">{{ site.podcast_title }} Podcast</h1>
-		<p class="pod-desc">{{ site.podcast_description }}</p>
-		<p class="pod-subscribe">
-			<strong>Subscribe:</strong> <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple</a>, <a href="https://www.youtube.com/@WTFJHT">YouTube</a>, <a href="https://music.youtube.com/playlist?list=PLS83VlkxVvjWkQx0eDHsJvqTUjj_f45y5">Google</a>, <a href="https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3?si=3bkunuqCT2-GltqAEhX9pA">Spotify</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
-		</p>
-	</div>
+  <div class="pod-box">
+    <h1 class="pod-title">{{ site.podcast_title }} Podcast</h1>
+    <p class="pod-desc">{{ site.podcast_description }}</p>
+    <p class="pod-subscribe">
+      <strong>Subscribe:</strong> 
+      <a href="{{ site.podcast_links.apple }}">Apple Podcasts</a>, 
+      <a href="{{ site.podcast_links.spotify }}">Spotify</a>, 
+      <a href="{{ site.podcast_links.youtube }}">YouTube</a>, 
+      <a href="{{ site.url }}{{ site.baseurl }}{{ site.podcast_links.rss }}">RSS</a>
+    </p>
+  </div>
 </div>
 
+{%- comment -%} Build episodes array from posts with podcast data {%- endcomment -%}
+{%- assign episodes = "" | split: "" -%}
+{%- for post in site.posts -%}
+  {%- if post.podcast.file and post.podcast.file != '' -%}
+    {%- assign episodes = episodes | push: post -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{% assign latest = episodes | first %}
+
+{% if latest %}
 <h4>Latest Episode</h4>
 
-{% assign ep = site.podcasts.last %}
-{% assign post = site.posts | where: 'title', ep.post | first %}
-
 <div>
-	<h2 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ ep.title }}</a></h2>
-	<p class="pod-desc">{{ ep.date | date: "%A, %B %d, %Y" }}</p>
-	<div class="pod">
-       <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
-  	</div>
+  <h2 class="pod-lead"><a href="{{ site.baseurl }}{{ latest.url }}">{{ latest.title }}: {{ latest.description }}</a></h2>
+  <p class="pod-desc">{{ latest.date | date: "%A, %B %d, %Y" }}</p>
+  <div class="pod">
+    <audio src="{{ site.cloudfront_url }}{{ latest.podcast.file }}" preload="none" />
+  </div>
 </div>
 
 <hr> 
 <ul>
-	<h4 class="pod-lead">Recent Episodes</h4>
-{% assign pod = site.podcasts | reverse %}
-{% for ep in pod limit:10 offset:1 %}
-{% assign post = site.posts | where: 'title', ep.post | first %}
-    <li>
-    	<h3 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ ep.title }}</a></h3>
-		<p class="pod-desc">{{ ep.date | date: "%A, %B %d, %Y" }}</p>
-		<div class="pod">
-        	<audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
-      </div>
-	</li>
-	<hr>
-{% endfor %}
+  <h4 class="pod-lead">Recent Episodes</h4>
+  {% for post in episodes limit:10 offset:1 %}
+  <li>
+    <h3 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></h3>
+    <p class="pod-desc">{{ post.date | date: "%A, %B %d, %Y" }}</p>
+    <div class="pod">
+      <audio src="{{ site.cloudfront_url }}{{ post.podcast.file }}" preload="none" />
+    </div>
+  </li>
+  <hr>
+  {% endfor %}
 </ul>
+{% else %}
+<h4>Latest Episode</h4>
+<p>No episodes yet. Check back soon!</p>
+{% endif %}
 
-<hr>
-
-<h2>About the Host</h2>
-
-{% assign author = site.authors | where: "title", "Joe Amditis" | first %}
-{% if author %}
-
-<div class="pod-header">
-	<div class="pod-cover">
-	  <img src="{{ site.url }}{{ site.baseurl }}{{ author.image }}" class="pod-image">
-	</div>
-
-	<div class="pod-box">
-		<h2 class="pod-title">{{ author.title }}</h2>
-		<p class="pod-desc">{{ site.podcast_description }}</p>
-		<p class="pod-subscribe">
-			{% if author.email %}<i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ author.email }}?Subject=Hello%20there" target="_top">{{ author.email }}</a><br>
-    		{% endif %}
-    	</p>
-		<p class="pod-subscribe">
-			<i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ author.twitter }}" target="_blank">@{{ author.twitter }}</a> 
-    	</p>
-	</div>
-</div>
-<div class="bio">{{ author.content }}</div>
- {% endif %}
 </article>

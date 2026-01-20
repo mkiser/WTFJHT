@@ -53,6 +53,11 @@ defaults:
     layout: post
     tag_excerpts: ''
     category: trump
+    podcast:
+      file: ''
+      duration: ''
+      length: ''
+      transcript: ''
     seo:
       type: NewsArticle
       name: What The Fuck Just Happened Today?
@@ -60,7 +65,7 @@ defaults:
         A sane, once-a-day newsletter helping normal people make sense of the news.
       links:
       - https://whatthefuckjusthappenedtoday.com/
-      - https://twitter.com/WTFJHT
+      - https://x.com/WTFJHT
       - https://www.instagram.com/wtfjht/
       - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
       - https://www.threads.net/@wtfjht
@@ -91,7 +96,7 @@ defaults:
       type: Person
       links:
       - https://whatthefuckjusthappenedtoday.com/
-      - https://twitter.com/WTFJHT
+      - https://x.com/WTFJHT
       - https://www.instagram.com/wtfjht/
       - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
       - https://www.threads.net/@wtfjht
@@ -107,7 +112,7 @@ defaults:
     post: 
     duration: 
     length: 
-    author: Joe Amditis
+    author: 
     image: "/public/wtf-pod.jpg"
     tags:
     - politics
@@ -164,7 +169,7 @@ social:
   - https://www.linkedin.com/in/mattkiser
   - https://github.com/mkiser
   - https://whatthefuckjusthappenedtoday.com/
-  - https://twitter.com/WTFJHT
+  - https://x.com/WTFJHT
   - https://www.instagram.com/wtfjht/
   - https://bsky.app/profile/wtfjht.bsky.social
   - https://www.threads.net/@wtfjht
@@ -182,7 +187,7 @@ author:
   - https://www.linkedin.com/in/mattkiser
   - https://github.com/mkiser
   - https://whatthefuckjusthappenedtoday.com/
-  - https://twitter.com/WTFJHT
+  - https://x.com/WTFJHT
   - https://www.instagram.com/wtfjht/
   - https://bsky.app/profile/wtfjht.bsky.social
   - https://www.threads.net/@wtfjht
@@ -316,7 +321,7 @@ plugins:
 - jekyll-include-cache
 - jekyll-algolia
 podcast_album_art: "/podcast-3000x3000.png?v=3"
-podcast_title: WTF Just Happened Today?
+podcast_title: WTF Just Happened Today? – Audio Edition
 podcast_owner: Matt Kiser
 podcast_email: matt@whatthefuckjusthappenedtoday.com
 podcast_category: News
@@ -328,6 +333,11 @@ podcast_description: A sane, once-a-day update on today’s essential political 
 podcast_summary: A sane, once-a-day update on today’s essential political news. Chronicling
   the daily shock and awe since 2017.
 podcast_subtitle: 
-podcast_copyright: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-  License.
+podcast_copyright: CC BY-NC-SA 4.0
 cloudfront_url: https://d3ur8zm5qs6awd.cloudfront.net
+podcast_guid: "0C736D1F-59A8-4176-AFDA-D4111EF9DC61"
+podcast_links:
+  apple: "https://podcasts.apple.com/us/podcast/wtf-just-happened-today/id1206537023"
+  spotify: "https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3"
+  youtube: "https://www.youtube.com/@WTFJHT/podcasts"
+  rss: "/podcasts/index.xml"

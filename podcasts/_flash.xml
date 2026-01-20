@@ -1,0 +1,39 @@
+---
+layout: 
+---
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>{{ site.podcast_title }}</title>
+    <link>http://wtfjusthappenedtoday.com/</link>
+    <description>{{ site.podcast_description }}</description>
+    <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+    <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <language>en-US</language>
+    <copyright>{{ site.podcast_copyright }}</copyright>
+    <ttl>30</ttl>
+    <image>
+        <title>{{ site.podcast_title }}</title>
+        <url>{{ site.cloudfront_url }}{{ site.podcast_album_art }}</url>
+        <link>http://wtfjusthappenedtoday.com/</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <category>{{ site.podcast_category }}</category>
+        {% assign pods = site.podcasts | sort: date | reverse %}        
+        {% for ep in pods limit:1 %}
+        <item>
+            <title>{{ ep.title }}</title>
+            {% assign post = site.posts | where: 'title', ep.post %}
+            {% for link in post limit:1 %}
+            <link>http://wtfjusthappenedtoday.com{{ link.url }}</link>
+            <pubDate>{{ ep.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+            <guid isPermaLink="false">{{ ep.url }}</guid>
+            <description>{{ link.content | strip_html | truncate: 250 }}</description>
+            {% endfor %}
+            <enclosure url="{{ site.cloudfront_url }}{{ ep.file }}" length="{{ ep.length }}" type="audio/mpeg" />
+      </item>
+    {% endfor %}
+</channel>
+</rss>

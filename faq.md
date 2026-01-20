@@ -18,29 +18,8 @@ _Last updated: September 2025_
 
 **Is this free?** Yes, WTFJHT is free and 100% sustained entirely through voluntary reader contributions. And, I plan to keep doing this for as long as you keep supporting me (as defined by earning a fair living wage). This is my full-time job. So, if you find my work valuable and find yourself relying on it, [invest in the continued production of WTFJHT by becoming a supporting member](https://whatthefuckjusthappenedtoday.com/membership/).
 
-**What is your publishing schedule?** WTF Just Happened Today? publishes Monday-Thursday, except for federal, market holidays, and some random holidays. Below is the 2025 publishing schedule (and I reserve the right to take additional days off or amend the schedule as needed):
+**What is your publishing schedule?** WTF Just Happened Today? publishes Monday-Thursday, except for federal, market holidays, and some random holidays. Below is the 2026 publishing schedule (and I reserve the right to take additional days off or amend the schedule as needed):
 
-* **2025 publishing schedule**
-* New Year's Day – January 1 \
-Martin Luther King, Jr. Day – January 20 \
-WTF Just Happened Today?'s Birthday – January 20 \
-President's Day – February 17 \
-Earth Day - April 22 \
-International Workers' Day – May 1 \
-Memorial Day – May 26 \
-Flag Day / Trump's Birthday – June 14 \
-Juneteenth - June 19 \
-Independence Day – July 4 \
-Labor Day – September 1 \
-Indigenous Peoples' Day – October 13 \
-Veterans Day – November 11 \
-Biden's Birthday – November 20 \
-Thanksgiving Eve – November 26 \
-Thanksgiving Day – November 27 \
-Christmas Eve – December 24 \
-Christmas Day – December 25 \
-Boxing Day – December 26 \
-New Year's Eve – December 31
 * **2026 publishing schedule**
 * New Year's Day – January 1 \
 Martin Luther King, Jr. Day – January 19 \
@@ -80,7 +59,15 @@ New Year's Eve – December 31
 
 **When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?** I try to cite the primary source of reported news whenever possible. After citing the primary sources, I also include secondary sources that either confirm the news or add original reporting. I then “rank” the sources in parentheses based on how much they influenced my summary (e.g. the outlet that broke the news first, then those that expanded or confirmed it). As for why you rarely see conservative-leaning sites cited by WTFJHT: most don’t actually break news. They typically offer commentary or "alternative facts" framing of stories originally reported elsewhere.
 
-**Is this written by an AI?** No. All content is researched, written, and curated by Matt, an irl human working out of his basement in Seattle, WA. I don’t use AI to generate the blurbs. I may, however, use AI tools for tasks like organizing ideas, copy editing, and improving the writing for clarity in ways no different than using grammar and spell checkers. These tools help sharpen my writing, but the ideas, reporting, and approach are my own. Understanding complex political events and making meaningful connections requires a human approach grounded in journalistic ethics, curiosity, and accountability. And lastly, you'll note that the typos are a dead giveaway that a human wrote it.
+**Why is the podcast narrated with an AI voice?** Because WTFJHT is a one-person operation. An AI clone of my voice is the only way I can bring back a consistent, sustainable daily audio edition without compromising the core work.
+
+**Why not record it yourself?** Time and energy. Recording, editing, and producing a daily show adds a lot of work to an already full plate. This is how the podcast can exist and remain something I can reliably produce.
+
+**Is this replacing the newsletter?** No. The newsletter remains the primary product. The podcast is simply an additional format of the same work.
+
+**Why do you use serif font and not sans-serif? Don't you know sans-serif is the superior typeface? And, yo, what's up with the red links? Blue links are the standard on the web.** Like a newspaper, WTFJHT is black and white and read all over. 
+
+**What is the technology behind WTFJHT?** WTFJHT is built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [GitHub](https://github.com/) and GitHub Actions, [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>. This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 
 **Why I use "genocide" rather than "war" to describe what’s happening in Gaza**. I use the word “genocide” because the most authoritative international bodies that have formally investigated events in Gaza have concluded that Israel’s conduct meets the 1948 Genocide Convention standard. To be clear, this isn’t a personal opinion. Instead, it reflects my deference to the official findings reached by several independent investigations. It’s also worth noting that many who object to the use of “genocide” to describe what’s happened in Gaza typically point to media aligned with Israeli perspectives. While not inherently wrong, I do find that narrowing the debate to partisan media coverage risks trading confirmation bias for evidence, reinforcing preexisting beliefs rather than objectively engaging in the underlying legal and factual record. In an era where “bias” is breathlessly invoked to discredit nearly all reporting, it’s especially important to distinguish between the formal findings from independent investigations, human rights organizations, and legal institutions that operate across ideological lines and the media narratives shaped by politics. That said, the UN-mandated Commission of Inquiry concluded in Sept. 2025 that Israel has committed genocide, identifying four of the five acts listed in the 1948 Genocide Convention and citing statements by Israeli officials as direct evidence of intent. Amnesty International reached the same conclusion after its own investigation, and the International Association of Genocide Scholars passed a resolution stating that Israel’s actions meet the legal definition. Major Israeli human-rights groups, including B’Tselem and Physicians for Human Rights – Israel, have issued similar findings. While the International Court of Justice hasn’t ruled yet on whether Israel has committed genocide, it has found that the rights Palestinians hold under the Genocide Convention appear both plausibly and seriously at risk of violation. On that basis, the Court issued binding emergency orders requiring Israel to prevent genocidal acts, and later instructed it to immediately stop its offensive in Rafah and to allow life-saving humanitarian aid into the region. Further, the Convention itself makes genocide a crime “whether committed in time of peace or in time of war,” and international law imposes a duty to prevent genocide once serious risk is evident. So to describe what is happening in Gaza – more than 67,000 people killed and 169,000 injured as of Oct. 2025, with roughly 90% of Gaza’s 2.1 million people displaced into conditions of famine and facing life‑threatening circumstances – as merely a “war” risks repeating the same minimization that enabled the very atrocities the Convention was created to prevent in the first place. To be clear, acknowledging genocide in Gaza doesn’t excuse or diminish Hamas’s Oct. 7 terror attacks and war crimes that killed over 1,200 people and took 251 people hostage. These are two independent legal tracks that both require accountability. The Genocide Convention simply makes no exception for self‑defense or counterterrorism, and history shows that waiting for conclusive court rulings, which often take years or decades, has too often meant ignoring atrocities in real time. My responsibility, then, is to use language that’s consistent with the determinations of the UN, leading human rights organizations, and genocide scholars who have already found that the threshold for genocide has been met.
 
@@ -100,9 +87,11 @@ New Year's Eve – December 31
 
 **I'm running for office, will you share my campaign with your audience?** No. My promise to readers is that I'll tell them WTF just happened today and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what happened_; not what to think.
 
-**Why do you use serif font and not sans-serif? Don't you know sans-serif is the superior typeface? And, yo, what's up with the red links? Blue links are the standard on the web.** Like a newspaper, WTFJHT is black and white and read all over. 
+**Is this written by an AI?** No. All content is researched, written, and curated by Matt, an irl human working out of his basement in Seattle, WA. The editorial judgement, sourcing, writing, and editing of WTFJHT, as well as the personal accountability for corrections, errors, and omissions will always be uniquely human. That’s my job and my responsibility. Understanding complex political events and making meaningful connections requires a human approach grounded in journalistic ethics, curiosity, and accountability. And lastly, you'll note that the typos are a dead giveaway that a human wrote it.
 
-**What is the technology behind WTFJHT?** WTFJHT is built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [GitHub](https://github.com/) and GitHub Actions, [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>. This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
+**Here’s what AI is NOT allowed to do**: (1) write WTFJHT, (2) decide what’s news or replace my editorial judgement, (3) “fact check” my work, or (4) publish anything automatically without my review and approval.
+
+**Here’s what I am willing to use AI for**: (1) narrate an audio edition using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize ideas.
 
 **I don't like the word "fuck."** If you're offended by the word "fuck" on the internet in today's political climate, then I don't know what to tell ya. 
 

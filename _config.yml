@@ -5,17 +5,8 @@ collections:
   authors:
     title: Authors
     output: true
-  notes:
-    title: Notes
-    output: false
-  podcasts:
-    title: Podcasts
-    output: false
   posts:
     title: Posts
-    output: true
-  topics:
-    title: Topics
     output: true
   uploads:
     title: Uploads
@@ -74,18 +65,6 @@ defaults:
       - https://github.com/mkiser/WTFJHT
 - scope:
     path: ''
-    type: notes
-  values:
-    permalink: "/:year/:month/:day/latest/"
-    title: ''
-    description: ''
-    image: https://whatthefuckjusthappenedtoday.com/og-image.jpg
-    flag: The Latest.
-    is_promoted: false
-    layout: note
-    sitemap: false
-- scope:
-    path: ''
     type: authors
   values:
     permalink: "/author/:title/"
@@ -103,21 +82,6 @@ defaults:
       - https://mastodon.social/@wtfjht
       - https://www.facebook.com/wtfjht
       - https://github.com/mkiser/WTFJHT
-- scope:
-    path: ''
-    type: podcasts
-  values:
-    title: 
-    file: 
-    post: 
-    duration: 
-    length: 
-    author: 
-    image: "/public/wtf-pod.jpg"
-    tags:
-    - politics
-    - news
-    sitemap: false
 - scope:
     path: page
   values:
@@ -212,6 +176,8 @@ exclude:
 - README.md
 - meta
 - guide
+- _podcasts
+- _topics
 algolia:
   application_id: UI0QYYDNB1
   index_name: WTFJHT

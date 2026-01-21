@@ -360,60 +360,6 @@ footer {
   content: none;
 }
 
-.pod-header {
-  display: flex;
-  width: 100%;
-  border-bottom: 1px solid #e2e2e2;
-  padding-bottom: 20px;
-  margin-bottom: 15px;
-}
-
-.pod-cover {
-  max-width: 150px;
-  margin-right: 25px;
-}
-
-.pod-img {
-  width: 100%;  
-}
-
-.pod-box {
-  display: flex;
-  align-items: stretch;
-  flex-direction: column;
-}
-
-.pod-title {
-  font-size: 1.75em;
-  margin-top: 0;
-}
-
-.pod-desc {
-  margin: 0em 0 1em 0;
-  display: block;
-  color: #9a9a9a;
-}
-
-.pod-box>.pod-subscribe {
-  font-weight: 300;
-  margin: 0em 0 1em 0;
-}
-
-h2.pod-lead{
-  margin-top: 0em;
-}
-
-h3.pod-lead{
-  margin-top: 0em;
-}
-
-h4.pod-lead{
-  margin-top: 0em;  
-}
-
-.pod {
-  margin: 1em 0 2em 0;
-}
 
 .audiojs {
     display: table;

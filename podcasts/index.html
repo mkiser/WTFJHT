@@ -5,72 +5,71 @@ image: "/public/wtf-pod.jpg"
 redirect_from: "/podcast/"
 ---
 
-<article class="page">
+<article class="page podcast-page">
 
-<div class="pod-header">
-  <div class="pod-cover">
+  <div class="pod-header">
     <img src="{{ site.url }}{{ site.baseurl }}{{ site.podcast_album_art }}" class="pod-image">
-  </div>
-
-  <div class="pod-box">
-    <h1 class="pod-title">{{ site.podcast_title }} Podcast</h1>
-    <p class="pod-desc">{{ site.podcast_description }}</p>
-    <p class="pod-subscribe">
-      <strong>Subscribe:</strong> 
-      <a href="{{ site.podcast_links.apple }}">Apple Podcasts</a>, 
-      <a href="{{ site.podcast_links.spotify }}">Spotify</a>, 
-      <a href="{{ site.podcast_links.youtube }}">YouTube</a>, 
-      <a href="{{ site.url }}{{ site.baseurl }}{{ site.podcast_links.rss }}">RSS</a>
-    </p>
-    <p class="pod-subscribe">
-      <strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let us know what you think</a>
-    </p>
-  </div>
-</div>
-
-{%- assign episodes = "" | split: "" -%}
-{%- for post in site.posts -%}
-  {%- if post.podcast.file and post.podcast.file != '' -%}
-    {%- assign episodes = episodes | push: post -%}
-  {%- endif -%}
-{%- endfor -%}
-
-{% assign latest = episodes | first %}
-
-{% if latest %}
-<h4>Latest Episode</h4>
-
-<div>
-  <h2 class="pod-lead"><a href="{{ site.baseurl }}{{ latest.url }}">{{ latest.title }}: {{ latest.description }}</a></h2>
-  <p class="pod-desc">{{ latest.date | date: "%A, %B %-d, %Y" }}</p>
-  {% if latest.todayInOneSentence %}
-  <p class="pod-summary">{{ latest.todayInOneSentence }}</p>
-  {% endif %}
-  <div class="pod">
-    <audio src="{{ site.cloudfront_url }}{{ latest.podcast.file }}" preload="none" />
-  </div>
-</div>
-
-<hr> 
-<ul>
-  <h4 class="pod-lead">Recent Episodes</h4>
-  {% for post in episodes limit:10 offset:1 %}
-  <li>
-    <h3 class="pod-lead"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></h3>
-    <p class="pod-desc">{{ post.date | date: "%A, %B %-d, %Y" }}</p>
-    {% if post.todayInOneSentence %}
-    <p class="pod-summary">{{ post.todayInOneSentence | truncate: 150 }}</p>
-    {% endif %}
-    <div class="pod">
-      <audio src="{{ site.cloudfront_url }}{{ post.podcast.file }}" preload="none" />
+    <div class="pod-info">
+      <h1 class="pod-show-title">{{ site.podcast_title }} Podcast</h1>
+      <p class="pod-show-desc">{{ site.podcast_description }}</p>
+      <p class="pod-subscribe"><strong>Subscribe:</strong> <a href="{{ site.podcast_links.apple }}">Apple Podcasts</a> / <a href="{{ site.podcast_links.spotify }}">Spotify</a> / <a href="{{ site.podcast_links.youtube }}">YouTube</a> / <a href="{{ site.url }}{{ site.baseurl }}{{ site.podcast_links.rss }}">RSS</a></p>
+     
     </div>
-  </li>
+  </div>
+
+  {%- assign episodes = "" | split: "" -%}
+  {%- for post in site.posts -%}
+    {%- if post.podcast.file and post.podcast.file != '' -%}
+      {%- assign episodes = episodes | push: post -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+  {% assign latest = episodes | first %}
+
+  {% if latest %}
+
   <hr>
-  {% endfor %}
-</ul>
-{% else %}
-<h4>Latest Episode</h4>
-<p>No episodes yet. Check back soon!</p>
-{% endif %}
+
+  <p class="pod-label">Latest Episode</p>
+
+  <h2 class="pod-headline">
+    <a href="{{ site.baseurl }}{{ latest.url }}">{{ latest.title }}: {{ latest.description }}</a>
+  </h2>
+  <p class="pod-date">{{ latest.date | date: "%B %-d, %Y" }}</p>
+  
+  {% if latest.todayInOneSentence %}
+  <p class="pod-summary"><strong>In this episode:</strong> {{ latest.todayInOneSentence }}</p>
+  {% endif %}
+  
+  <div class="pod">
+    <audio src="{{ site.cloudfront_url }}{{ latest.podcast.file }}" preload="none"></audio>
+  </div>
+  
+  <hr>
+
+  <p class="pod-label">Recent Episodes</p>
+
+  <div class="pod-list">
+    {% for post in episodes limit:10 offset:1 %}
+    <div class="pod-item">
+      <h3 class="pod-item-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a>
+      </h3>
+      <p class="pod-item-date">{{ post.date | date: "%B %-d, %Y" }}</p>
+      
+      {% if post.todayInOneSentence %}
+      <p class="pod-item-summary"><strong>In this episode:</strong> {{ post.todayInOneSentence | truncate: 200 }}</p>
+      {% endif %}
+      
+      <div class="pod">
+        <audio src="{{ site.cloudfront_url }}{{ post.podcast.file }}" preload="none"></audio>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  {% else %}
+  <p>No episodes yet. Check back soon!</p>
+  {% endif %}
 
 </article>

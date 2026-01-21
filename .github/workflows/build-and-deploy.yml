@@ -86,8 +86,21 @@ jobs:
           curl -s -X POST "$HUB" -d "hub.mode=publish" \
             -d "hub.url=$BASE/rss.xml" \
             -d "hub.url=$BASE/atom.xml" \
-            -d "hub.url=$BASE/feed.json"
+            -d "hub.url=$BASE/feed.json" \
+            -d "hub.url=$BASE/podcasts/index.xml"
 
+      - name: Ping Podcast Index (PodPing)
+        if: github.event_name != 'schedule'
+        run: |
+          AUTH_DATE=$(date +%s)
+          AUTH_HASH=$(echo -n "${{ secrets.PODCAST_INDEX_API_KEY }}${{ secrets.PODCAST_INDEX_API_SECRET }}${AUTH_DATE}" | sha1sum | awk '{print $1}')
+          curl -s -X POST "https://api.podcastindex.org/api/1.0/hub/pubnotify" \
+            -H "Content-Type: application/x-www-form-urlencoded" \
+            -H "X-Auth-Key: ${{ secrets.PODCAST_INDEX_API_KEY }}" \
+            -H "X-Auth-Date: ${AUTH_DATE}" \
+            -H "Authorization: ${AUTH_HASH}" \
+            -d "url=https://whatthefuckjusthappenedtoday.com/podcasts/index.xml"
+            
       - name: Notify Slack
         if: always()
         uses: rtCamp/action-slack-notify@v2

@@ -1,0 +1,122 @@
+// ==========================================================================
+// Navigation
+// ==========================================================================
+
+.site-nav {
+  background-color: #222;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.nav-container {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0.75rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-home {
+  display: flex;
+  align-items: center;
+  padding: 0.25rem;
+  
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.nav-logo {
+  width: 32px;
+  height: 32px;
+  display: block;
+}
+
+.nav-links {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  
+  li {
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    border: none;
+  }
+  
+  a {
+    color: rgba(255, 255, 255, 0.9);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 0.5rem 0;
+    
+    &:hover {
+      color: #fff;
+      text-decoration: underline;
+    }
+    
+    &:focus {
+      outline: 2px solid #fff;
+      outline-offset: 2px;
+    }
+  }
+}
+
+// Tablet
+@media (max-width: 768px) {
+  .nav-links {
+    gap: 1.25rem;
+    
+    a {
+      font-size: 0.8rem;
+    }
+  }
+}
+
+// Mobile
+@media (max-width: 500px) {
+  .nav-container {
+    padding: 0.6rem 1rem;
+  }
+  
+  .nav-logo {
+    width: 28px;
+    height: 28px;
+  }
+  
+  .nav-links {
+    gap: 1rem;
+    
+    a {
+      font-size: 0.75rem;
+      padding: 0.75rem 0; // Larger tap target
+    }
+    
+    // Hide the span containing "Become a " on mobile
+    li:last-child a span {
+      display: none;
+    }
+  }
+}
+
+// Very small mobile - wrap if needed
+@media (max-width: 380px) {
+  .nav-container {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  
+  .nav-home {
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .nav-links {
+    width: 100%;
+    justify-content: center;
+  }
+}

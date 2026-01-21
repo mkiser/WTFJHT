@@ -92,19 +92,30 @@
   </head>
   <body>
     <div class="container content">
-      <nav class="wtf-pagination">
+      <!-- <nav class="wtf-pagination">
         <div class="menu">
           <div><a href="{{ site.url }}{{ site.baseurl }}/">Home</a> | </div>
           {% include_cached todayYesterday.html %}
-          <div><a href="#" onclick="randomPost();">Random WTF</a> | </div>
-          <div><a href="{{ site.url }}{{ site.baseurl }}/dumb-dashboard/">Dumb Dashboard</a> | </div>
-          <!-- <div><a href="https://currentstatus.io/">Current Status</a> | </div> -->
           <div><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a> | </div>
           <div><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a> | </div>
-          <div><a href="https://cottonbureau.com/people/wtf-just-happened-today">Merch</a> | </div>
           <div><a href="{{ site.url }}{{ site.baseurl }}/membership/">Become a Member</a></div>
         </div>
-      </nav>  
+      </nav> -->
+
+      <nav class="site-nav" aria-label="Main navigation">
+        <div class="nav-container">
+          <a href="{{ site.url }}{{ site.baseurl }}/" class="nav-home" aria-label="WTF Just Happened Today Home">
+            <img src="https://whatthefuckjusthappenedtoday.com/favicon-32x32.png?v=3" alt="WTFJHT" class="nav-logo">
+          </a>
+          
+          <ul class="nav-links" role="list">
+            <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/membership/"><span>Become a </span>Member</a></li>
+          </ul>
+        </div>
+      </nav>
+
       <header class="masthead">
         <h2 class="masthead-title">
           <a href="{{ site.url }}{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a>
@@ -155,9 +166,10 @@
               <li><a href="{{ site.url }}{{ site.baseurl }}/faq/">FAQ</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/membership/">Membership</a></li>
-              <li><a href="https://wtfjht.memberful.com/account">Member Sign-in</a></li>
               <li><a href="https://cottonbureau.com/people/wtf-just-happened-today">Merch</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/membership/">Membership</a></li>
+              <br>
+              <li><a href="https://wtfjht.memberful.com/account">Member Sign-in</a></li>
             </ul>
           </div>
 
@@ -219,6 +231,7 @@
             <h3 class="ft-title">Resources</h3>
             <ul>
               <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY">Recommended Books</a></li>
+              <li><a href="#" onclick="randomPost();">Random WTF</a></li>
               <li><a href="https://currentstatus.io/">Current Status News Aggregator</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/dumb-dashboard/">The Dumb Dashboard</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/trump-first-100-days/">Trump's First 100 Days (2017)</a></li>

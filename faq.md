@@ -89,7 +89,7 @@ New Year's Eve – December 31
 
 **Here’s what I am willing to use AI for**: (1) narrate my work using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize business-related ideas (non-editorial).
 
-**Why is the podcast narrated with an AI voice? Why not record it yourself?** Using a clone of my voice to then read my words to make my work available to more people in more places — all for free and without ads – is about scaling my labor; not replacing it. My time and money aren’t resources I can scale. Using a clone of my voice is the only way I can bring back the audio edition a consistent and sustainable way without compromising the core work.
+**Why is the podcast narrated with an AI voice? Why not record it yourself?** Using a clone of my voice to then read my words to make my work available to more people in more places — all for free and without ads – is about scaling my labor; not replacing it. My time and money aren’t resources I can scale. Using a clone of my voice is one way I can bring back the audio edition a consistent and sustainable way without compromising the core work.
 
 **Is this replacing the newsletter?** No. The newsletter remains the primary product from which everything else flows. The podcast is simply an extension of my work made available in an additional format.
 

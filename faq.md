@@ -87,7 +87,7 @@ New Year's Eve – December 31
 
 **Here’s what AI is NOT allowed to do**: (1) research, write, or edit WTFJHT, (2) decide what’s news or replace my editorial judgement, (3) “fact check” my work, or (4) publish anything automatically without my review and approval. 
 
-**Here’s what I am willing to use AI for**: (1) narrate my work using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize ideas (e.g. tracking feedback, editorial calendar and planning, etc).
+**Here’s what I am willing to use AI for**: (1) narrate my work using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize business-related ideas (non-editorial).
 
 **Why is the podcast narrated with an AI voice? Why not record it yourself?** Using a clone of my voice to then read my words to make my work available to more people in more places — all for free and without ads – is about scaling my labor; not replacing it. My time and money aren’t resources I can scale. Using a clone of my voice is the only way I can bring back the audio edition a consistent and sustainable way without compromising the core work.
 

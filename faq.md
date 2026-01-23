@@ -10,7 +10,7 @@ show_title: false
 
 <p class="lead"> A living guide to what WTFJHT is, who it’s for, why it matters, and how it works.</p> 
 
-_Last updated: September 2025_
+_Last updated: January 2026_
 
 ---
 
@@ -47,6 +47,14 @@ New Year's Eve – December 31
 
 **I don't have any money. How can I help?** The best way to contribute to the success is to share it with your friends and family. It's free and has a big impact. <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F" target="_blank">Tweet about it</a> or <a href="https://www.facebook.com/sharer/sharer.php?u=https://whatthefuckjusthappenedtoday.com" target="_blank">share it on Facebook</a>. The next best way to contribute is to submit copyedits and fact checks using the "Improve this article" link on every blog post. 
 
+**Why do you use serif font and not sans-serif? Don't you know sans-serif is the superior typeface? And, yo, what's up with the red links? Blue links are the standard on the web.** Like a newspaper, WTFJHT is black and white and read all over. 
+
+**What is the technology behind WTFJHT?** WTFJHT is built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [GitHub](https://github.com/) and GitHub Actions, [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>. This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
+
+**I'm running for office, will you share my campaign with your audience?** No. My promise to readers is that I'll tell them WTF just happened today and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what happened_; not what to think.
+
+**I don't like the word "fuck."** If you're offended by the word "fuck" on the internet in today's political climate, then I don't know what to tell ya.
+
 ---
 
 ### *Editorial process*
@@ -57,17 +65,7 @@ New Year's Eve – December 31
 
 **Why do you include polls? Don't you know that polls are biased/inaccurate/not to be trusted/unreliable/fake???** Polls are not a crystal ball. They’re just probabilities. They provide directional evidence about the opinions, preferences, and attitudes of a representative group of people at a given point in time. That makes polling nothing more than a point-in-time temperature check on reality. To me, it’s no different than your local weather report. Sometimes it’s accurate, sometimes it’s less so, but it’s still useful information you didn’t have before. Just don’t put too much stock in it. (e.g. Except clear skies with highs in the low-70s. Wind will be light and variable out of the North-Northeast at 5 mph.) If nothing else, polls are useful to gut check and challenge your worldview.
 
-**When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?** I try to cite the primary source of reported news whenever possible. After citing the primary sources, I also include secondary sources that either confirm the news or add original reporting. I then “rank” the sources in parentheses based on how much they influenced my summary (e.g. the outlet that broke the news first, then those that expanded or confirmed it). As for why you rarely see conservative-leaning sites cited by WTFJHT: most don’t actually break news. They typically offer commentary or "alternative facts" framing of stories originally reported elsewhere.
-
-**Why is the podcast narrated with an AI voice?** Because WTFJHT is a one-person operation. An AI clone of my voice is the only way I can bring back a consistent, sustainable daily audio edition without compromising the core work.
-
-**Why not record it yourself?** Time and energy. Recording, editing, and producing a daily show adds a lot of work to an already full plate. This is how the podcast can exist and remain something I can reliably produce.
-
-**Is this replacing the newsletter?** No. The newsletter remains the primary product. The podcast is simply an additional format of the same work.
-
-**Why do you use serif font and not sans-serif? Don't you know sans-serif is the superior typeface? And, yo, what's up with the red links? Blue links are the standard on the web.** Like a newspaper, WTFJHT is black and white and read all over. 
-
-**What is the technology behind WTFJHT?** WTFJHT is built using <a href="http://jekyllrb.com/">Jekyll</a>, <a href="https://www.cloudflare.com">Cloudflare</a>, [GitHub](https://github.com/) and GitHub Actions, [Amazon S3](https://aws.amazon.com/s3/), and <a href="https://mailchimp.com/">MailChimp</a>. This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
+**When you link to multiple articles, how do you choose the order of the links? What is your criteria for doing so?** I try to cite the primary source of reported news whenever possible. After citing the primary sources, I also include secondary sources that either confirm the news or add original reporting. I then “rank” the sources in parentheses based on how much they influenced my summary (e.g. the outlet that broke the news first, then those that expanded or confirmed it). As for why you rarely see conservative-leaning sites cited by WTFJHT: most don’t actually break news. They typically offer commentary or "alternative facts" framing of stories originally reported elsewhere. 
 
 **Why I use "genocide" rather than "war" to describe what’s happening in Gaza**. I use the word “genocide” because the most authoritative international bodies that have formally investigated events in Gaza have concluded that Israel’s conduct meets the 1948 Genocide Convention standard. To be clear, this isn’t a personal opinion. Instead, it reflects my deference to the official findings reached by several independent investigations. It’s also worth noting that many who object to the use of “genocide” to describe what’s happened in Gaza typically point to media aligned with Israeli perspectives. While not inherently wrong, I do find that narrowing the debate to partisan media coverage risks trading confirmation bias for evidence, reinforcing preexisting beliefs rather than objectively engaging in the underlying legal and factual record. In an era where “bias” is breathlessly invoked to discredit nearly all reporting, it’s especially important to distinguish between the formal findings from independent investigations, human rights organizations, and legal institutions that operate across ideological lines and the media narratives shaped by politics. That said, the UN-mandated Commission of Inquiry concluded in Sept. 2025 that Israel has committed genocide, identifying four of the five acts listed in the 1948 Genocide Convention and citing statements by Israeli officials as direct evidence of intent. Amnesty International reached the same conclusion after its own investigation, and the International Association of Genocide Scholars passed a resolution stating that Israel’s actions meet the legal definition. Major Israeli human-rights groups, including B’Tselem and Physicians for Human Rights – Israel, have issued similar findings. While the International Court of Justice hasn’t ruled yet on whether Israel has committed genocide, it has found that the rights Palestinians hold under the Genocide Convention appear both plausibly and seriously at risk of violation. On that basis, the Court issued binding emergency orders requiring Israel to prevent genocidal acts, and later instructed it to immediately stop its offensive in Rafah and to allow life-saving humanitarian aid into the region. Further, the Convention itself makes genocide a crime “whether committed in time of peace or in time of war,” and international law imposes a duty to prevent genocide once serious risk is evident. So to describe what is happening in Gaza – more than 67,000 people killed and 169,000 injured as of Oct. 2025, with roughly 90% of Gaza’s 2.1 million people displaced into conditions of famine and facing life‑threatening circumstances – as merely a “war” risks repeating the same minimization that enabled the very atrocities the Convention was created to prevent in the first place. To be clear, acknowledging genocide in Gaza doesn’t excuse or diminish Hamas’s Oct. 7 terror attacks and war crimes that killed over 1,200 people and took 251 people hostage. These are two independent legal tracks that both require accountability. The Genocide Convention simply makes no exception for self‑defense or counterterrorism, and history shows that waiting for conclusive court rulings, which often take years or decades, has too often meant ignoring atrocities in real time. My responsibility, then, is to use language that’s consistent with the determinations of the UN, leading human rights organizations, and genocide scholars who have already found that the threshold for genocide has been met.
 
@@ -83,18 +81,17 @@ New Year's Eve – December 31
 
 ---
 
-### *Policies & boundaries*
-
-**I'm running for office, will you share my campaign with your audience?** No. My promise to readers is that I'll tell them WTF just happened today and not push my personal politics. In exchange, members invest in WTFJHT to tell them _what happened_; not what to think.
+### *AI policies & boundaries*
 
 **Is this written by an AI?** No. All content is researched, written, and curated by Matt, an irl human working out of his basement in Seattle, WA. The editorial judgement, sourcing, writing, and editing of WTFJHT, as well as the personal accountability for corrections, errors, and omissions will always be uniquely human. That’s my job and my responsibility. Understanding complex political events and making meaningful connections requires a human approach grounded in journalistic ethics, curiosity, and accountability. And lastly, you'll note that the typos are a dead giveaway that a human wrote it.
 
-**Here’s what AI is NOT allowed to do**: (1) write WTFJHT, (2) decide what’s news or replace my editorial judgement, (3) “fact check” my work, or (4) publish anything automatically without my review and approval.
+**Here’s what AI is NOT allowed to do**: (1) research, write, or edit WTFJHT, (2) decide what’s news or replace my editorial judgement, (3) “fact check” my work, or (4) publish anything automatically without my review and approval. 
 
-**Here’s what I am willing to use AI for**: (1) narrate an audio edition using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize ideas.
+**Here’s what I am willing to use AI for**: (1) narrate my work using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize ideas (e.g. tracking feedback, editorial calendar and planning, etc).
 
-**I don't like the word "fuck."** If you're offended by the word "fuck" on the internet in today's political climate, then I don't know what to tell ya. 
+**Why is the podcast narrated with an AI voice? Why not record it yourself?** Using a clone of my voice to then read my words to make my work available to more people in more places — all for free and without ads – is about scaling my labor; not replacing it. My time and money aren’t resources I can scale. Using a clone of my voice is the only way I can bring back the audio edition a consistent and sustainable way without compromising the core work.
 
+**Is this replacing the newsletter?** No. The newsletter remains the primary product from which everything else flows. The podcast is simply an extension of my work made available in an additional format.
 
 ---
 

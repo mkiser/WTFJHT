@@ -71,6 +71,20 @@ New Year's Eve – December 31
 
 ---
 
+### *AI policy & boundaries*
+
+**Is this written by an AI?** No. All content is researched, written, and curated by Matt, an irl human working out of his basement in Seattle, WA. The editorial judgement, sourcing, writing, and editing of WTFJHT, as well as the personal accountability for corrections, errors, and omissions will always be uniquely human. That’s my job and my responsibility. Understanding complex political events and making meaningful connections requires a human approach grounded in journalistic ethics, curiosity, and accountability. And lastly, you'll note that the typos are a dead giveaway that a human wrote it.
+
+**Here’s what AI is NOT allowed to do**: (1) research, write, or edit WTFJHT, (2) decide what’s news or replace my editorial judgement, (3) “fact check” my work, or (4) publish anything automatically without my review and approval. 
+
+**Here’s what I am willing to use AI for**: (1) narrate my work using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize business-related ideas (non-editorial).
+
+**Why is the podcast narrated with an AI voice? Why not record it yourself?** Using a clone of my voice to then read my words to make my work available to more people in more places — all for free and without ads – is about scaling my labor; not replacing it. My time and money aren’t resources I can scale. Using a clone of my voice is one way I can bring back the audio edition a consistent and sustainable way without compromising the core work.
+
+**Is this replacing the newsletter?** No. The newsletter remains the primary product from which everything else flows. The podcast is simply an extension of my work made available in an additional format.
+
+---
+
 ### *Site features*
 
 **What does the 📌 mean?** Where possible, I like to "re-up" news from the past to contextulize a current story without having to regurgitate all the past information. By pinning past abstract summaries in a sequential order below a new news story, we can tell a richer narrative without repeating information you may already know. And if you haven't been following along or you forgot, then the most salient background information is right there for ya.
@@ -78,20 +92,6 @@ New Year's Eve – December 31
 **What are the ✏️ Notables?** WTFJHT is (usually) comprised of two parts: the main section, which is a numbered list of abstract summaries, and the Notables. The main section is typically your largest, most impactful stories of the day threaded together to form some sort of narrative. The Notables, however, are a _noting_ of all the other important stories that happened, but didn't fit the larger daily narrative. The Notables section was created following reader feedback for more stories in the daily update. 
 
 **Is there an RSS feed?** Yep! Here are links to the <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>, <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>, and <a href="https://whatthefuckjusthappenedtoday.com/feed.json">JSON</a> feeds.
-
----
-
-### *AI policies & boundaries*
-
-**Is this written by an AI?** No. All content is researched, written, and curated by Matt, an irl human working out of his basement in Seattle, WA. The editorial judgement, sourcing, writing, and editing of WTFJHT, as well as the personal accountability for corrections, errors, and omissions will always be uniquely human. That’s my job and my responsibility. Understanding complex political events and making meaningful connections requires a human approach grounded in journalistic ethics, curiosity, and accountability. And lastly, you'll note that the typos are a dead giveaway that a human wrote it.
-
-**Here’s what AI is NOT allowed to do**: (1) research, write, or edit WTFJHT, (2) decide what’s news or replace my editorial judgement, (3) “fact check” my work, or (4) publish anything automatically without my review and approval. 
-
-**Here’s what I am willing to use AI for**: (1) narrate my work using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize ideas (e.g. tracking feedback, editorial calendar and planning, etc).
-
-**Why is the podcast narrated with an AI voice? Why not record it yourself?** Using a clone of my voice to then read my words to make my work available to more people in more places — all for free and without ads – is about scaling my labor; not replacing it. My time and money aren’t resources I can scale. Using a clone of my voice is the only way I can bring back the audio edition a consistent and sustainable way without compromising the core work.
-
-**Is this replacing the newsletter?** No. The newsletter remains the primary product from which everything else flows. The podcast is simply an extension of my work made available in an additional format.
 
 ---
 

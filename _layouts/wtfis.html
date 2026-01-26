@@ -3,29 +3,42 @@ layout: default
 ---
 
 <article class="post">
-   <div style="padding: 1rem;border: 1px solid black;"> 
-    {% include_cached emailpromo.html %}
-    {% include_cached email.html %}
-    </div>
+  {% include_cached emailpromo.html %}
  <h1 class="post-title">
   <a href="{{ site.baseurl }}{{ page.url }}">
     {{ page.title }}</a>
   </h1>
 
   {% assign author = site.authors | where: 'title', page.author | first %}
-  {% if author and author.title == "Matt Kiser" %}
-  <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
-  {% elsif author %}
-  <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
-  {% endif %}
-  <div class="post-date">
-    <time datetime="{{ page.date | date_to_xmlschema }}">
-      {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
-    </time>
-    <div>
-      <small>
-{% include_cached icons.html icon="pencil" %} <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; {% include_cached icons.html icon="history" %} <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
-      </small>
+  <div class="post-meta">
+    <div class="post-meta__main">
+      {% if author and author.title == "Matt Kiser" %}
+      <span class="post-meta__author">By <a href="{{ author.url }}">{{ author.title }}</a></span>
+      {% elsif author %}
+      <span class="post-meta__author">By <a href="{{ author.url }}">{{ author.title }}</a></span>
+      {% endif %}
+      <div class="post-meta__details">
+        <time class="post-meta__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
+        <span class="post-meta__read-time">{% include read_time.html %}</span>
+      </div>
+    </div>
+    <div class="post-meta__actions">
+      {% include social.html %}
+      <div class="more-menu">
+        <button type="button" class="more-menu__trigger" aria-label="More options" aria-expanded="false">
+          {% include_cached icons.html icon="ellipsis" %}
+        </button>
+        <div class="more-menu__card" aria-hidden="true">
+          <a class="more-menu__option" href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank" rel="noopener">
+            <span class="more-menu__icon">{% include_cached icons.html icon="pencil" %}</span>
+            <span class="more-menu__label">Improve this article</span>
+          </a>
+          <a class="more-menu__option" href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank" rel="noopener">
+            <span class="more-menu__icon">{% include_cached icons.html icon="history" %}</span>
+            <span class="more-menu__label">Revision history</span>
+          </a>
+        </div>
+      </div>
     </div>
   </div> 
 
@@ -59,10 +72,7 @@ layout: default
 
   </div>
 <hr>
-<div style="padding: 1rem;border: 1px solid black;"> 
-    {% include_cached emailpromo.html %}
-    {% include_cached email.html %}
-    </div>
+  {% include_cached emailpromo.html %}
   {% include_cached pledge.html %}
 
 </article>

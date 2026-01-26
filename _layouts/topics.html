@@ -2,10 +2,7 @@
 layout: default
 ---
 
-<div style="margin: 20px auto 0 auto; max-width: 40rem; padding: 1rem;"> 
 {% include_cached emailpromo.html %}
-{% include_cached email.html %}
-</div>
 <article class="post">
   <h1 class="post-title">
     <a href="{{ site.baseurl }}{{ page.url }}">
@@ -16,7 +13,7 @@ layout: default
     {{ page.content | extlinks }}
   </div>
   
-  {% include_cached email.html %}
+  {% include_cached emailpromo.html %}
 
   {% include social.html %}
 

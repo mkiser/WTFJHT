@@ -47,10 +47,7 @@ seo:
       {% include away_mode.html %}
     {% endif %}
 
-    <div style="padding: 1rem;border: 1px solid black;"> 
     {% include_cached emailpromo.html %}
-    {% include_cached email.html %}
-    </div>
     <hr>
 
     <h1 class="post-title">
@@ -60,21 +57,38 @@ seo:
     </h1>
 
     {% assign author = site.authors | where: 'title', page.author | first %}
-    {% if author and author.title == "Matt Kiser" %}
-      <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a>, Founder of WTF Just Happened Today?</div>
-    {% elsif author %}
-      <div class="byline">By <a href="{{ author.url }}">{{ author.title }}</a></div>
-    {% endif %}
-    <div class="post-date">
-      <time datetime="{{ page.date | date_to_xmlschema }}">
-        {{ page.date | date: "%-m/%-d/%Y" }} {% include read_time.html %} 
-      </time>
-      <div>
-        <small>
-{% include_cached icons.html icon="pencil" %} <a href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank">Improve this article</a> &nbsp; {% include_cached icons.html icon="history" %} <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank">Revision history</a> 
-      </small>
+    <div class="post-meta">
+      <div class="post-meta__main">
+        {% if author and author.title == "Matt Kiser" %}
+        <span class="post-meta__author">By <a href="{{ author.url }}">{{ author.title }}</a></span>
+        {% elsif author %}
+        <span class="post-meta__author">By <a href="{{ author.url }}">{{ author.title }}</a></span>
+        {% endif %}
+        <div class="post-meta__details">
+          <time class="post-meta__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
+          <span class="post-meta__read-time">{% include read_time.html %}</span>
+        </div>
+      </div>
+      <div class="post-meta__actions">
+        {% include social.html %}
+        <div class="more-menu">
+          <button type="button" class="more-menu__trigger" aria-label="More options" aria-expanded="false">
+            {% include_cached icons.html icon="ellipsis" %}
+          </button>
+          <div class="more-menu__card" aria-hidden="true">
+            <a class="more-menu__option" href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank" rel="noopener">
+              <span class="more-menu__icon">{% include_cached icons.html icon="pencil" %}</span>
+              <span class="more-menu__label">Improve this article</span>
+            </a>
+            <a class="more-menu__option" href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank" rel="noopener">
+              <span class="more-menu__icon">{% include_cached icons.html icon="history" %}</span>
+              <span class="more-menu__label">Revision history</span>
+            </a>
+          </div>
+        </div>
       </div>
     </div> 
+    <hr>
     {% comment %}
 
     <!--
@@ -102,56 +116,41 @@ seo:
          <hr>
         {% endif %}
       {{ page.content | extlinks }}
-
-    <hr>
-    <div class="pagination"> 
-      <div class="next-prev">
-        {% if page.previous.url %}
-          <a href="{{page.previous.url}}">&laquo; Previous edition</a>
-        {% endif %}
-      </div>
     </div>
-    {% include social.html %}
-    <hr>
-    <div class="historical-posts">  
-      {% if page.years_ago_links %}
-        {% for link in page.years_ago_links %}
-          <div>
-            {% if link.years_ago == 1 %}
-              <strong>Last year today:</strong>
-            {% elsif link.years_ago == 2 %}
-              <strong>Two years ago today:</strong>
-            {% elsif link.years_ago == 3 %}
-              <strong>Three years ago today:</strong> 
-            {% elsif link.years_ago == 4 %}
-              <strong>Four years ago today:</strong>
-            {% elsif link.years_ago == 5 %}
-              <strong>Five years ago today:</strong>
-            {% elsif link.years_ago == 6 %}
-              <strong>Six years ago today:</strong>
-            {% elsif link.years_ago == 7 %}
-              <strong>Seven years ago today:</strong>
-            {% elsif link.years_ago == 8 %}
-              <strong>Eight years ago today:</strong>
-            {% elsif link.years_ago == 9 %}
-              <strong>Nine years ago today:</strong>
+
+    {% include_cached emailpromo.html %}
+
+    {% if page.years_ago_links %}
+    <div class="historical-posts">
+      <h3 class="historical-posts__title">On this day</h3>
+      {% for link in page.years_ago_links %}
+        <a href="{{ link.url | absolute_url }}" class="historical-posts__item">
+          <span class="historical-posts__years">
+            {% if link.years_ago == 1 %}1 year ago
+            {% elsif link.years_ago == 2 %}2 years ago
+            {% elsif link.years_ago == 3 %}3 years ago
+            {% elsif link.years_ago == 4 %}4 years ago
+            {% elsif link.years_ago == 5 %}5 years ago
+            {% elsif link.years_ago == 6 %}6 years ago
+            {% elsif link.years_ago == 7 %}7 years ago
+            {% elsif link.years_ago == 8 %}8 years ago
+            {% elsif link.years_ago == 9 %}9 years ago
             {% endif %}
-            <a href="{{ link.url | absolute_url }}">{{ link.title }}: {{ link.desc }}</a>
-          </div>
-        {% endfor %}
-      {% endif %}
+          </span>
+          <span class="historical-posts__headline">{{ link.title }}: {{ link.desc }}</span>
+        </a>
+      {% endfor %}
     </div>
+    {% endif %}
 
-    
-    <hr>
-
-    </div>
- <div style="padding: 1rem;border: 1px solid black;"> 
-  {% include_cached emailpromo.html %}
-  {% include_cached email.html %}
-  </div>
-
-    {% include_cached pledge.html %}
+    {% if page.previous.url %}
+    <nav class="post-nav">
+      <a href="{{ page.previous.url }}" class="post-nav__link post-nav__link--prev">
+        <span class="post-nav__label">Previous</span>
+        <span class="post-nav__title">{{ page.previous.title }}</span>
+      </a>
+    </nav>
+    {% endif %}
 
   </article>
 </div> 

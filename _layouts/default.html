@@ -282,6 +282,81 @@
         </script>
       {% endif %}
 
+    <!-- Dropdown menus (share widget & more menu) -->
+    <script>
+    (function() {
+      // Close all dropdown cards
+      function closeAllCards() {
+        document.querySelectorAll('.share-widget__card.is-open, .more-menu__card.is-open').forEach(function(card) {
+          card.classList.remove('is-open');
+          card.setAttribute('aria-hidden', 'true');
+          var trigger = card.previousElementSibling;
+          if (trigger) trigger.setAttribute('aria-expanded', 'false');
+        });
+      }
+
+      // Event delegation
+      document.addEventListener('click', function(e) {
+        // Toggle share card
+        var shareTrigger = e.target.closest('.share-widget__trigger');
+        if (shareTrigger) {
+          e.preventDefault();
+          var card = shareTrigger.nextElementSibling;
+          var isOpen = card.classList.contains('is-open');
+          closeAllCards();
+          if (!isOpen) {
+            card.classList.add('is-open');
+            card.setAttribute('aria-hidden', 'false');
+            shareTrigger.setAttribute('aria-expanded', 'true');
+          }
+          return;
+        }
+
+        // Toggle more menu card
+        var moreTrigger = e.target.closest('.more-menu__trigger');
+        if (moreTrigger) {
+          e.preventDefault();
+          var card = moreTrigger.nextElementSibling;
+          var isOpen = card.classList.contains('is-open');
+          closeAllCards();
+          if (!isOpen) {
+            card.classList.add('is-open');
+            card.setAttribute('aria-hidden', 'false');
+            moreTrigger.setAttribute('aria-expanded', 'true');
+          }
+          return;
+        }
+
+        // Copy link
+        var copyBtn = e.target.closest('[data-action="copy"]');
+        if (copyBtn) {
+          e.preventDefault();
+          var widget = copyBtn.closest('.share-widget');
+          var url = widget.dataset.shareUrl;
+          navigator.clipboard.writeText(url).then(function() {
+            var span = copyBtn.querySelector('.share-widget__label');
+            var original = span.textContent;
+            span.textContent = 'Copied!';
+            setTimeout(function() { span.textContent = original; }, 1500);
+          }).catch(function() {
+            prompt('Copy this link:', url);
+          });
+          return;
+        }
+
+        // Close cards when clicking outside
+        if (!e.target.closest('.share-widget') && !e.target.closest('.more-menu')) {
+          closeAllCards();
+        }
+      });
+
+      // Close on escape key
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') closeAllCards();
+      });
+    })();
+    </script>
+
   </body>
 <!--  
          _    _ ___________ ___ _   _ _____ 

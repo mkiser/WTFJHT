@@ -9,10 +9,9 @@ redirect_from: "/newsletter/"
 show_title: false
 ---
 
-<div style="padding: 1rem;border: 1px solid black;"> 
-  <h1 class="newspromo" style="font-size: 1.5rem;">A political newsletter for normal people</h1>
-  <p class="lead">WTF Just Happened Today? is a sane,
-      once-a-day newsletter helping normal people make sense of the news. Curated daily by <a href="{{ site.url }}{{ site.baseurl }}/author/matt-kiser/">Matt Kiser</a> and delivered to 200,000+ people every afternoon around 3 pm Pacific.</p>
+<div class="subscribe-box">
+  <h1 class="subscribe-box__title">A political newsletter for normal people</h1>
+  <p class="lead">WTF Just Happened Today? is a sane, once-a-day newsletter helping normal people make sense of the news. Curated daily by <a href="{{ site.url }}{{ site.baseurl }}/author/matt-kiser/">Matt Kiser</a> and delivered to 200,000+ people every afternoon around 3 pm Pacific.</p>
   {% include email.html %}
 </div>
 

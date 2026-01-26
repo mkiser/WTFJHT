@@ -8,94 +8,190 @@
 }
 
 footer {
-  padding: 1em 0em 1em 0em;
   background-color: #222;
-  color: $gray-3;
+  color: #9a9a9a; // WCAG AA compliant
   margin-top: 2em;
-
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-  flex: 1;
-
-  .ft-main {
-    padding: 1rem 0 1rem 0;
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .ft-main-item {
-      padding: 1rem;
-      min-width: 12.5rem /*200px*/;
-  }
-  h2.ft-title {
-    font-size: 1.375rem;
-    padding-bottom: 0.625rem;
-    color: $gray-1;
-  }
-  h3.ft-title {
-    font-size: 1.375rem;
-    padding-bottom: 0.625rem;
-    color: #f9f9f9;
-    margin: 1rem 0 .5rem 0;
-  }
-  .ft-social {
-      padding: 0 1rem 1rem;
-  }
-  .ft-social-list {
-      display: flex;
-      justify-content: center;
-      border-top: 1px #777 solid; 
-      padding-top: 1.25rem;
-  }
-  .ft-social-list li {
-      margin: 0.5rem;
-      font-size: 1.25rem;
-  }  
-
-  .ft-legal {
-      padding: 1rem 1rem;
-      background-color: #333;
-  }
-  .ft-legal-list {
-      width: 100%;
-      display: flex;
-      flex-wrap: wrap;
-  }
-  .ft-legal-list li {
-      margin: 0.125rem 0.625rem;
-      white-space: normal;
-  }
-  .ft-legal-list li:nth-last-child(2) {
-      flex: 1;      
-  }
-
+  padding: 0;
 
   a {
-    color: $gray-1;
+    color: #f9f9f9;
+    text-decoration: none;
+
+    &:hover {
+      color: #fff;
+    }
+
+    &:focus {
+      outline: 2px solid #9a9a9a;
+      outline-offset: 2px;
+    }
   }
 
-  p, span {
-    font-size: .7em;
+  // Main columns (About, Resources)
+  .ft-main {
+    max-width: 60rem;
+    margin: 0 auto;
+    padding: 2rem 1rem 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
   }
 
-  ul {
-    margin: 0;
-    list-style: none;
+  .ft-main-item {
+    min-width: 10rem;
+  }
+
+  h3.ft-title {
+    font-size: 0.7rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #666;
+    margin: 0 0 0.6rem 0;
     padding: 0;
+  }
+
+  .ft-main ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 
     li {
-      /*display: inline;*/
-/*      padding-right: 1em;
-*/      font-size: .75em;
+      margin-bottom: 0.4rem;
+      font-size: 0.875rem;
+    }
+  }
 
-      a {
-        text-decoration: none;
+  // Follow & Feeds rows
+  .ft-connect {
+    border-top: 1px solid #333;
+    padding: 1.25rem 1rem;
+  }
 
-        &:hover {
-          color: #fff;
-        }
+  .ft-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 0.75rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  .ft-row-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #666;
+    min-width: 3rem;
+  }
+
+  .ft-icon-list {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+    li {
+      margin: 0;
+    }
+
+    a {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 2.25rem;
+      height: 2.25rem;
+      border-radius: 50%;
+      background: #333;
+      color: #9a9a9a;
+      font-size: 1rem;
+      transition: background-color 0.15s ease, color 0.15s ease;
+
+      &:hover {
+        background: #444;
+        color: #fff;
       }
     }
+  }
+
+  // Feeds row (text links instead of icons)
+  .ft-feeds {
+    a {
+      width: auto;
+      height: auto;
+      padding: 0.35rem 0.75rem;
+      border-radius: 1rem;
+      font-size: 0.75rem;
+      background: #333;
+    }
+  }
+
+  // Legal section
+  .ft-legal {
+    background-color: #1a1a1a;
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.75rem;
+
+    p {
+      margin: 0;
+      color: #666;
+    }
+
+    a {
+      color: #888;
+
+      &:hover {
+        color: #fff;
+      }
+    }
+  }
+
+  // Easter egg (© link)
+  .easter-egg {
+    color: #666;
+    cursor: pointer;
+
+    &:hover {
+      color: #888;
+    }
+  }
+}
+
+// Mobile footer
+@media (max-width: 600px) {
+  footer {
+    .ft-main {
+      padding: 1.5rem 1rem 1rem;
+      gap: 1.5rem;
+    }
+
+    .ft-row {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    .ft-row-label {
+      min-width: auto;
+    }
+
+    .ft-icon-list {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
+}
+
+// Reduced motion
+@media (prefers-reduced-motion: reduce) {
+  footer .ft-icon-list a {
+    transition: none;
   }
 }
 

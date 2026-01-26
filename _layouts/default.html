@@ -27,7 +27,6 @@
     <meta name="apple-mobile-web-app-title" content="WTFJHT" />
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/styles.css" type="text/css">
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/algolia.css" type="text/css">
-    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/font-awesome/css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" type="text/css">
     <style type="text/css">
     #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
@@ -101,7 +100,7 @@
           
           <ul class="nav-links" role="list">
             <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/about/">About</a></li>
             <li><a href="{{ site.url }}{{ site.baseurl }}/membership/" class="nav-cta">Become a Member</a></li>
           </ul>
         </div>
@@ -121,7 +120,7 @@
         <div class="wtf-search" role="search">
           <div class="outer-wrapper">
             <div class="input-wrapper">
-              <i class="fa fa-search" aria-hidden="true"></i>
+              {% include_cached icons.html icon="search" %}
               <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search articles..." aria-label="Search articles" />
             </div>
           </div>
@@ -153,94 +152,58 @@
             <ul>
               <li><a href="{{ site.url }}{{ site.baseurl }}/about/">About</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/faq/">FAQ</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
-              <li><a href="https://cottonbureau.com/people/wtf-just-happened-today">Merch</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/membership/">Membership</a></li>
-              <br>
               <li><a href="https://wtfjht.memberful.com/account">Member Sign-in</a></li>
-            </ul>
-          </div>
-
-
-         
-          <div class="ft-main-item">
-            <h3 class="ft-title">Archives</h3>
-            <ul>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2017/">Season 1: 2017</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2018/">Season 2: 2018</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2019/">Season 3: 2019</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2020/">Season 4: 2020</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2021/">Season 5: 2021</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2022/">Season 6: 2022</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2023/">Season 7: 2023</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2024/">Season 8: 2024</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2025/">Season 9: 2025</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/2026/">Season 10: 2026</a></li>
-              <br>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/">All Archives</a></li>
-            </ul>
-          </div>
-          
-          <div class="ft-main-item">            
-            <h3 class="ft-title">Connect</h3>
-            <ul>
-              <li><a href="https://bsky.app/profile/whatthefuckjusthappenedtoday.com">Bluesky</a></li>
-              <li><a href="https://www.threads.net/@wtfjht">Threads</a></li>
-              <li><a href="https://x.com/wtfjht">Twitter</a></li>
-              <li><a href="https://mastodon.social/@wtfjht">Mastodon</a></li>
-              <li><a href="https://www.instagram.com/wtfjht/">Instagram</a></li>
-              <li><a href="https://www.facebook.com/wtfjht">Facebook</a></li>
-              <li><a href="https://github.com/mkiser/WTFJHT">GitHub</a></li>
-            </ul>
-          </div>
-
-
-
-          <div class="ft-main-item">
-            <h3 class="ft-title">Listen</h3>
-            <ul>
-              <li><a href="{{ site.podcast_links.apple }}">Apple Podcasts</a></li>
-              <li><a href="{{ site.podcast_links.spotify }}">Spotify</a></li>
-              <li><a href="{{ site.podcast_links.youtube }}">YouTube</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}{{ site.podcast_links.rss }}">Podcast RSS</a></li>
+              <li><a href="https://cottonbureau.com/people/wtf-just-happened-today">Merch</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/">Archives</a></li>
             </ul>
           </div>
 
           <div class="ft-main-item">
-            <h3 class="ft-title">Feeds</h3>
-            <ul>
-              <li><a href="https://apple.news/TY25m8I8nQie1NYhQVG5yCQ">Apple News</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/rss.xml">RSS</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/atom.xml">Atom</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/feed.json">JSON Feed</a></li>
-            </ul>
-          </div>
-          <div class="ft-main-item">            
             <h3 class="ft-title">Resources</h3>
             <ul>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
               <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY">Recommended Books</a></li>
-              <li><a href="#" onclick="randomPost();">Random WTF</a></li>
-              <li><a href="https://currentstatus.io/">Current Status News Aggregator</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/dumb-dashboard/">The Dumb Dashboard</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/trump-first-100-days/">Trump's First 100 Days (2017)</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/biden-first-100-days/">Biden's First 100 Days (2021)</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/trump-second-100-days/">Trump's Second 100 Days (2025)</a></li>               
+              <li><a href="{{ site.url }}{{ site.baseurl }}/trump-first-100-days/">Trump's First 100 Days</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/biden-first-100-days/">Biden's First 100 Days</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/trump-second-100-days/">Trump's Second 100 Days</a></li>
             </ul>
           </div>
-         
+        </section>
 
-          </section>
+        <section class="ft-connect">
+          <div class="ft-row">
+            <span class="ft-row-label">Follow</span>
+            <ul class="ft-icon-list">
+              <li><a href="https://bsky.app/profile/whatthefuckjusthappenedtoday.com" aria-label="Bluesky">{% include_cached icons.html icon="bluesky" %}</a></li>
+              <li><a href="https://www.threads.net/@wtfjht" aria-label="Threads">{% include_cached icons.html icon="threads" %}</a></li>
+              <li><a href="https://x.com/wtfjht" aria-label="Twitter/X">{% include_cached icons.html icon="twitter" %}</a></li>
+              <li><a href="https://mastodon.social/@wtfjht" aria-label="Mastodon">{% include_cached icons.html icon="mastodon" %}</a></li>
+              <li><a href="https://www.instagram.com/wtfjht/" aria-label="Instagram">{% include_cached icons.html icon="instagram" %}</a></li>
+              <li><a href="https://www.facebook.com/wtfjht" aria-label="Facebook">{% include_cached icons.html icon="facebook" %}</a></li>
+              <li><a href="https://github.com/mkiser/WTFJHT" aria-label="GitHub">{% include_cached icons.html icon="github" %}</a></li>
+            </ul>
+          </div>
+          <div class="ft-row">
+            <span class="ft-row-label">Feeds</span>
+            <ul class="ft-icon-list ft-feeds">
+              <li><a href="{{ site.url }}{{ site.baseurl }}/rss.xml">RSS</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/atom.xml">Atom</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/feed.json">JSON</a></li>
+            </ul>
+          </div>
+        </section>
 
-          <!-- Footer legal -->
-          <section class="ft-legal">
+        <section class="ft-legal">
           <p>
-            <a href="{{ site.url }}{{ site.baseurl }}/license/">License</a>: 
-            Content by <a href="{{ site.url }}{{ site.baseurl }}/about/">WTF Just Happened? LLC</a> 
-            is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+            <a href="#" onclick="randomPost(); return false;" class="easter-egg" aria-label="Random post">©</a>
+            <a href="{{ site.url }}{{ site.baseurl }}/about/">WTF Just Happened? LLC</a>
+            · Licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+            · <a href="{{ site.url }}{{ site.baseurl }}/license/">License</a>
           </p>
-          </section>
-
+        </section>
       </footer>
     </div>      
       <!-- ALGOLIA -->

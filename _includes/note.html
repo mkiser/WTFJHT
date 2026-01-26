@@ -15,7 +15,7 @@
         </div>
       <div>
         <small>
-          <i class="fa fa-pencil" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ note.path }}" target="_blank">Improve this article</a> &nbsp; <i class="fa fa-history" aria-hidden="true"></i> <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ note.path }}" target="_blank">Revision history</a> &nbsp; <i class="fa fa-user" aria-hidden="true"></i>
+{% include_cached icons.html icon="pencil" %} <a href="https://github.com/mkiser/WTFJHT/edit/master/{{ note.path }}" target="_blank">Improve this article</a> &nbsp; {% include_cached icons.html icon="history" %} <a href="https://github.com/mkiser/WTFJHT/commits/master/{{ note.path }}" target="_blank">Revision history</a> &nbsp; {% include_cached icons.html icon="user" %}
           {% if note.contributors == "1" %}{{ note.contributors }} Contributor{% else %}{{ note.contributors }} Contributors{% endif %}
         </small>
       </div>

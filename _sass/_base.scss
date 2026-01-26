@@ -78,6 +78,13 @@ img {
   max-width: 100%
 }
 
+// SVG icons - base styling for inline use
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  flex-shrink: 0;
+}
+
 /*.menu {
   display: flex;
   align-items: center;

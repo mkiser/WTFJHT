@@ -100,13 +100,13 @@
       position: relative;
     }
 
-    .fa-search {
+    // Search icon (SVG)
+    .icon {
       position: absolute;
       left: 1rem;
       top: 50%;
       transform: translateY(-50%);
       color: #666;
-      font-size: 0.875rem;
       pointer-events: none;
     }
   }

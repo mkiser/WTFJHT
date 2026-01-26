@@ -91,27 +91,18 @@
 
   </head>
   <body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
     <div class="container content">
-      <!-- <nav class="wtf-pagination">
-        <div class="menu">
-          <div><a href="{{ site.url }}{{ site.baseurl }}/">Home</a> | </div>
-          {% include_cached todayYesterday.html %}
-          <div><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a> | </div>
-          <div><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a> | </div>
-          <div><a href="{{ site.url }}{{ site.baseurl }}/membership/">Become a Member</a></div>
-        </div>
-      </nav> -->
-
       <nav class="site-nav" aria-label="Main navigation">
         <div class="nav-container">
           <a href="{{ site.url }}{{ site.baseurl }}/" class="nav-home" aria-label="WTF Just Happened Today Home">
-            <img src="https://whatthefuckjusthappenedtoday.com/favicon-32x32.png?v=3" alt="WTFJHT" class="nav-logo">
+            <img src="https://whatthefuckjusthappenedtoday.com/favicon.svg?v=3" alt="WTFJHT" class="nav-logo">
           </a>
           
           <ul class="nav-links" role="list">
             <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
             <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
-            <li><a href="{{ site.url }}{{ site.baseurl }}/membership/"><span>Become a </span>Member</a></li>
+            <li><a href="{{ site.url }}{{ site.baseurl }}/membership/" class="nav-cta">Become a Member</a></li>
           </ul>
         </div>
       </nav>
@@ -120,20 +111,18 @@
         <h2 class="masthead-title">
           <a href="{{ site.url }}{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a>
         </h2>
-        <div class="wtf-tagline">
-          <p><small>{{ site.description }}</small></p>
-          <p>
-            <small>Curated by <a href="{{ site.url }}{{ site.baseurl }}/author/matt-kiser/">Matt Kiser</a></small>
-            <br> 
-            <span class="site-updated">Last updated: <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%-m/%-d/%Y %l:%M %p %Z" }}</time></span>
-          </p>
-         </div>
+        <p class="masthead-description">{{ site.description }}</p>
+        <p class="masthead-meta">
+          Curated by <a href="{{ site.url }}{{ site.baseurl }}/author/matt-kiser/">Matt Kiser</a>
+          <!-- <span class="meta-separator">·</span>
+          <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%b %-d, %Y" }}</time> -->
+        </p>
 
-        <div class="wtf-search">
+        <div class="wtf-search" role="search">
           <div class="outer-wrapper">
             <div class="input-wrapper">
-              <i class="fa fa-search fa-css" aria-hidden="true"></i>
-              <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search WTF..." />
+              <i class="fa fa-search" aria-hidden="true"></i>
+              <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search articles..." aria-label="Search articles" />
             </div>
           </div>
         </div>
@@ -143,7 +132,7 @@
        {% include_cached doomsday.html date="Sep 30, 2025 23:59:59 -0400" %}
       {%- endcomment -%}
       
-      <main> 
+      <main id="main-content">
         <!-- ALGOLIA -->
         <div class="wtf-search-results">
           <div class="algolia__search-content js-algolia__search-content">

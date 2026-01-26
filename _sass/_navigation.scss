@@ -2,9 +2,27 @@
 // Navigation
 // ==========================================================================
 
+// Skip link for accessibility (keyboard users)
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  z-index: 1000;
+  background: #fff;
+  color: #000;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+
+  &:focus {
+    left: 1rem;
+    top: 0.5rem;
+  }
+}
+
 .site-nav {
-  background-color: #222;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: #2a2a2a;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .nav-container {
@@ -20,7 +38,8 @@
   display: flex;
   align-items: center;
   padding: 0.25rem;
-  
+  transition: opacity 0.15s ease;
+
   &:hover {
     opacity: 0.8;
   }
@@ -39,26 +58,30 @@
   margin: 0;
   padding: 0;
   align-items: center;
-  
+
   li {
     margin: 0;
     padding: 0;
     background: transparent;
     border: none;
   }
-  
+
   a {
     color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
-    font-size: 0.85rem;
+    font-size: clamp(0.75rem, 2.5vw, 0.875rem);
     font-weight: 500;
     padding: 0.5rem 0;
-    
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    transition: color 0.15s ease;
+
     &:hover {
       color: #fff;
       text-decoration: underline;
     }
-    
+
     &:focus {
       outline: 2px solid #fff;
       outline-offset: 2px;
@@ -66,40 +89,50 @@
   }
 }
 
-// Tablet
-@media (max-width: 768px) {
-  .nav-links {
-    gap: 1.25rem;
-    
-    a {
-      font-size: 0.8rem;
-    }
+// CTA button styling for Membership
+.nav-cta {
+  background: $link-color;
+  color: #fff !important;
+  padding: 0.5rem 1rem !important;
+  border-radius: 4px;
+
+  &:hover {
+    background: lighten($link-color, 5%);
+    text-decoration: none !important;
+  }
+
+  &:focus {
+    outline: 2px solid #fff;
+    outline-offset: 2px;
+  }
+}
+
+// Reduced motion support
+@media (prefers-reduced-motion: reduce) {
+  .nav-links a,
+  .nav-home,
+  .nav-cta {
+    transition: none;
   }
 }
 
 // Mobile
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .nav-container {
-    padding: 0.6rem 1rem;
+    padding: 0.5rem 1rem;
   }
-  
+
   .nav-logo {
     width: 28px;
     height: 28px;
   }
-  
+
   .nav-links {
-    gap: 1rem;
-    
-    a {
-      font-size: 0.75rem;
-      padding: 0.75rem 0; // Larger tap target
-    }
-    
-    // Hide the span containing "Become a " on mobile
-    li:last-child a span {
-      display: none;
-    }
+    gap: 0.75rem;
+  }
+
+  .nav-cta {
+    padding: 0.4rem 0.75rem !important;
   }
 }
 
@@ -109,12 +142,12 @@
     flex-wrap: wrap;
     gap: 0.5rem;
   }
-  
+
   .nav-home {
     width: 100%;
     justify-content: center;
   }
-  
+
   .nav-links {
     width: 100%;
     justify-content: center;

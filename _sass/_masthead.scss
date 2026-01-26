@@ -1,83 +1,139 @@
 // Masthead
 //
-// Super small header above the content for site name and short description.
+// Site header with title, description, meta info, and search.
 
 .masthead {
   background-color: #000;
-  padding-bottom: .5em;
-  -webkit-font-smoothing: antialiased;
+  padding: 1.5rem 1rem 1rem;
+  text-align: center;
 
-
+  // Primary: Site title
   .masthead-title {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 0 0 0.5rem;
     color: #fff;
-    text-align: center;
-    font-size: 2em;
-    padding: .7em 1em .3em 1em;
+    font-size: 2rem;
+    line-height: 1.2;
 
     a {
       color: inherit;
+      text-decoration: none;
+
+      &:hover {
+        opacity: 0.85;
+      }
     }
   }
 
-    .wtf-tagline {
-      margin: 0 auto;
-      text-align: center;
-      max-width: 35rem;
-      padding: 0 1em;
-      line-height: 1.15em;
-      font-size: 1.15em;
+  // Secondary: Site description
+  .masthead-description {
+    margin: 0 auto 0.75rem;
+    max-width: 35rem;
+    color: #9a9a9a; // 4.8:1 contrast on black (WCAG AA)
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.4;
+  }
 
-      small {
-        font-weight: 400;
-        color: $gray-3;
+  // Tertiary: Author and date
+  .masthead-meta {
+    margin: 0 0 1.25rem;
+    color: #9a9a9a; // 4.8:1 contrast on black (WCAG AA)
+    font-size: 0.875rem;
 
-        a {
-          color: $link-color;
-        }
+    a {
+      color: #f05545; // Lighter red for 4.5:1 contrast on black (WCAG AA)
+      text-decoration: underline;
+      text-decoration-color: rgba(240, 85, 69, 0.4);
+      text-underline-offset: 2px;
+
+      &:hover {
+        color: #ff6b5b;
+        text-decoration-color: currentColor;
       }
-      .site-updated {
-        font-size: .6em;
-        padding: .5em 1em;
-        color: $gray-3;
+
+      &:focus {
+        outline: 2px solid #f05545;
+        outline-offset: 2px;
       }
     }
 
-
-
-  .post-small {
-    color: $gray-4;
-    font-weight: 500;
+    time {
+      color: #9a9a9a; // 4.8:1 contrast on black (WCAG AA)
+    }
   }
-  
+
+  .meta-separator {
+    margin: 0 0.5rem;
+    opacity: 0.6;
+  }
+
+  // Search
   .wtf-search {
-    margin: 1em auto;
-    max-width: 40rem;
-    padding: 0 1rem;
+    margin: 0 auto;
+    max-width: 24rem;
 
     input {
-      background-color: #222;
-      border-radius: 25px;
-      border: 1px solid $gray-4;
+      -webkit-appearance: none;
+      appearance: none;
+      width: 100%;
+      padding: 0.625rem 1rem 0.625rem 2.5rem;
+      background-color: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 2rem;
       color: #fff;
+      font-size: 0.9rem;
+      transition: border-color 0.15s ease, background-color 0.15s ease;
+
+      &::placeholder {
+        color: #666;
+      }
+
+      &:focus {
+        outline: 2px solid #9a9a9a;
+        outline-offset: 2px;
+        border-color: #555;
+        background-color: #222;
+      }
+    }
+
+    .input-wrapper {
+      position: relative;
+    }
+
+    .fa-search {
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #666;
+      font-size: 0.875rem;
+      pointer-events: none;
     }
   }
 }
 
-  .social-icons {
-    margin: 1em auto;
-    text-align: center;
-    margin-bottom: 0;
+// Mobile adjustments
+@media (max-width: 600px) {
+  .masthead {
+    padding: 1.25rem 1rem 0.75rem;
 
-    .icon {
-      margin: 2em .25em 0 .25em;
-      display: inline;
-
-      img {
-        width: 35px;
-      }
-
+    .masthead-title {
+      font-size: 2rem;
     }
 
+    .masthead-description {
+      font-size: 1rem;
+    }
+
+    .masthead-meta {
+      font-size: 0.8rem;
+    }
   }
+}
+
+// Reduced motion
+@media (prefers-reduced-motion: reduce) {
+  .masthead .wtf-search input {
+    transition: none;
+  }
+}

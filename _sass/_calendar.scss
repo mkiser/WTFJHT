@@ -1,0 +1,274 @@
+// ==========================================================================
+// Calendar Heatmap Page - Vertical weekly grid
+// ==========================================================================
+
+.calendar-page {
+  max-width: 48rem;
+  margin: 0 auto;
+  padding: 1rem;
+
+  h1 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+}
+
+.calendar-subtitle {
+  text-align: center;
+  color: $gray-3;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.calendar-legend {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+  color: $gray-4;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.legend-box {
+  width: 12px;
+  height: 12px;
+  border-radius: 2px;
+
+  &.legend-filled {
+    background-color: $red;
+  }
+
+  &.legend-empty {
+    background-color: $gray-1;
+    border: 1px solid $gray-2;
+  }
+}
+
+.calendar-wrapper > .calendar-container {
+  border: 1px solid $gray-2;
+  border-radius: 6px;
+  background: #fff;
+  padding: 1rem;
+}
+
+// Header with day labels
+.calendar-header {
+  display: grid;
+  grid-template-columns: 4.5rem repeat(7, 1fr);
+  gap: 2px;
+  margin-bottom: 2px;
+  font-size: 0.7rem;
+  color: $gray-3;
+  text-align: center;
+  font-weight: 500;
+
+  .calendar-month-col {
+    text-align: left;
+  }
+}
+
+// Grid of weeks
+.calendar-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+// Each week is a row
+.calendar-week {
+  display: grid;
+  grid-template-columns: 4.5rem repeat(7, 1fr);
+  gap: 2px;
+}
+
+// Month/year label on left
+.calendar-month-col {
+  font-size: 0.65rem;
+  color: $gray-3;
+  display: flex;
+  align-items: center;
+  padding-right: 0.5rem;
+  white-space: nowrap;
+}
+
+// Individual day cells
+.calendar-day {
+  aspect-ratio: 1;
+  border-radius: 2px;
+  background-color: $gray-1;
+  border: 1px solid rgba(0, 0, 0, 0.04);
+
+  &.outside-range {
+    background-color: transparent;
+    border-color: transparent;
+  }
+
+  &.has-post {
+    background-color: $red;
+    border-color: darken($red, 8%);
+    cursor: pointer;
+
+    &:hover {
+      background-color: darken($red, 15%);
+      outline: 2px solid $gray-5;
+      outline-offset: -1px;
+    }
+  }
+}
+
+// Tooltip
+.calendar-tooltip {
+  display: none;
+  position: fixed;
+  background: $gray-5;
+  color: #fff;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  max-width: 320px;
+  z-index: 1000;
+  pointer-events: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+
+  strong {
+    color: #fff;
+    font-size: 0.7rem;
+  }
+
+  em {
+    color: $gray-2;
+  }
+
+  .tooltip-title {
+    color: #fff;
+    font-weight: 600;
+    display: block;
+    margin-top: 0.25rem;
+  }
+
+  .tooltip-desc {
+    color: rgba(255, 255, 255, 0.75);
+    font-weight: 400;
+  }
+}
+
+// Tablet and below
+@media (max-width: $medium-breakpoint) {
+  .calendar-page {
+    padding: 0.75rem;
+  }
+
+  .calendar-container {
+    padding: 0.75rem;
+  }
+
+  .calendar-header {
+    grid-template-columns: 3.5rem repeat(7, 1fr);
+    font-size: 0.6rem;
+  }
+
+  .calendar-week {
+    grid-template-columns: 3.5rem repeat(7, 1fr);
+  }
+
+  .calendar-month-col {
+    font-size: 0.55rem;
+  }
+}
+
+// Small mobile
+@media (max-width: 380px) {
+  .calendar-header {
+    grid-template-columns: 2.5rem repeat(7, 1fr);
+  }
+
+  .calendar-week {
+    grid-template-columns: 2.5rem repeat(7, 1fr);
+  }
+
+  .calendar-month-col {
+    font-size: 0.5rem;
+  }
+}
+
+// ==========================================================================
+// Minimap - Sublime Text style overview
+// ==========================================================================
+
+.calendar-wrapper {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.calendar-container {
+  flex: 1;
+  min-width: 0;
+}
+
+.calendar-minimap {
+  position: sticky;
+  top: 1rem;
+  flex-shrink: 0;
+  display: flex;
+  gap: 0.25rem;
+  align-self: flex-start;
+  align-items: flex-start;
+
+  // Hide on smaller screens
+  @media (max-width: $medium-breakpoint) {
+    display: none;
+  }
+}
+
+.minimap-canvas-wrap {
+  position: relative;
+}
+
+.minimap-years {
+  position: relative;
+  width: 2rem;
+  font-size: 0.55rem;
+  color: $gray-3;
+
+  span {
+    position: absolute;
+    right: 0;
+    white-space: nowrap;
+  }
+}
+
+#minimap-canvas {
+  border-radius: 3px;
+  background: #fff;
+  border: 1px solid $gray-2;
+  cursor: pointer;
+
+  &:hover {
+    border-color: $gray-3;
+  }
+}
+
+.minimap-viewport {
+  position: absolute;
+  left: 0;
+  right: 0;
+  background: rgba($red, 0.15);
+  border: 1px solid rgba($red, 0.4);
+  border-radius: 2px;
+  pointer-events: none;
+}
+
+// Reduce motion
+@media (prefers-reduced-motion: reduce) {
+  .calendar-day.has-post:hover {
+    outline: none;
+  }
+}

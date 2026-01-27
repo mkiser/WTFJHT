@@ -1,0 +1,275 @@
+---
+title: Every WTF Since Day 1
+layout: default
+image:
+  twitter: "/public/wtfjht-t.jpg"
+  facebook: "/public/wtfjht-f.jpg"
+---
+
+<div class="calendar-page">
+  <h1>Every WTF Post Since Jan. 20, 2017</h1>
+  <p class="calendar-subtitle">{{ site.posts | size }} posts across {{ site.time | date: "%Y" | minus: 2017 | plus: 0 }}+ years. Each square is one day.</p>
+
+  <div class="calendar-legend">
+    <span class="legend-item"><span class="legend-box legend-filled"></span> Post</span>
+    <span class="legend-item"><span class="legend-box legend-empty"></span> No post</span>
+  </div>
+
+  <div class="calendar-wrapper">
+    <div class="calendar-container">
+      <div class="calendar-header">
+        <span class="calendar-month-col"></span>
+        <span>S</span>
+        <span>M</span>
+        <span>T</span>
+        <span>W</span>
+        <span>T</span>
+        <span>F</span>
+        <span>S</span>
+      </div>
+      <div id="calendar-grid" class="calendar-grid"></div>
+    </div>
+
+    <div class="calendar-minimap" id="calendar-minimap">
+      <div class="minimap-years" id="minimap-years"></div>
+      <div class="minimap-canvas-wrap">
+        <canvas id="minimap-canvas"></canvas>
+        <div class="minimap-viewport" id="minimap-viewport"></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="calendar-tooltip" class="calendar-tooltip"></div>
+</div>
+
+<script>
+(function() {
+  const posts = {
+    {% for post in site.posts %}
+    "{{ post.date | date: '%Y-%m-%d' }}": {
+      url: "{{ post.url }}",
+      title: "{{ post.title | escape }}",
+      description: "{{ post.description | escape | strip_newlines }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+
+  const startDate = new Date(2017, 0, 20);
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+
+  const grid = document.getElementById('calendar-grid');
+  const tooltip = document.getElementById('calendar-tooltip');
+  const minimapCanvas = document.getElementById('minimap-canvas');
+  const minimapViewport = document.getElementById('minimap-viewport');
+  const minimapYears = document.getElementById('minimap-years');
+  const ctx = minimapCanvas.getContext('2d');
+
+  // Start from the Sunday of the week containing startDate
+  const gridStart = new Date(startDate);
+  gridStart.setDate(gridStart.getDate() - gridStart.getDay());
+
+  // Store week data for minimap
+  const weeksData = [];
+  let current = new Date(gridStart);
+  let lastMonthLabel = '';
+
+  // Build main calendar and collect data
+  while (current <= today) {
+    const weekRow = document.createElement('div');
+    weekRow.className = 'calendar-week';
+
+    const monthCol = document.createElement('span');
+    monthCol.className = 'calendar-month-col';
+
+    let showLabel = false;
+    let labelDate = null;
+
+    for (let d = 0; d < 7; d++) {
+      const checkDate = new Date(current);
+      checkDate.setDate(checkDate.getDate() + d);
+      if (checkDate.getDate() === 1 && checkDate >= startDate && checkDate <= today) {
+        showLabel = true;
+        labelDate = checkDate;
+        break;
+      }
+    }
+
+    if (current.getTime() === gridStart.getTime()) {
+      showLabel = true;
+      labelDate = startDate;
+    }
+
+    if (showLabel && labelDate) {
+      const monthYear = labelDate.toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+      if (monthYear !== lastMonthLabel) {
+        monthCol.textContent = monthYear;
+        lastMonthLabel = monthYear;
+      }
+    }
+
+    weekRow.appendChild(monthCol);
+
+    const weekData = [];
+
+    for (let d = 0; d < 7; d++) {
+      const date = new Date(current);
+      date.setDate(date.getDate() + d);
+
+      const dateStr = date.toISOString().split('T')[0];
+      const post = posts[dateStr];
+      const isBeforeStart = date < startDate;
+      const isAfterToday = date > today;
+
+      // Store for minimap
+      weekData.push({
+        hasPost: !!post,
+        outside: isBeforeStart || isAfterToday
+      });
+
+      const day = document.createElement('span');
+      day.className = 'calendar-day';
+
+      if (isBeforeStart || isAfterToday) {
+        day.classList.add('outside-range');
+      } else if (post) {
+        day.classList.add('has-post');
+        day.addEventListener('click', () => {
+          window.location.href = post.url;
+        });
+      }
+
+      if (!isBeforeStart && !isAfterToday) {
+        day.addEventListener('mouseenter', (e) => {
+          const formattedDate = date.toLocaleDateString('en-US', {
+            weekday: 'short',
+            year: 'numeric',
+            month: 'short',
+            day: 'numeric'
+          });
+          tooltip.innerHTML = post
+            ? `<strong>${formattedDate}</strong><br><span class="tooltip-title">${post.title}:${post.description ? ` <span class="tooltip-desc">${post.description}</span>` : ''}</span>`
+            : `<strong>${formattedDate}</strong><br><em>No post</em>`;
+          tooltip.style.display = 'block';
+
+          const rect = day.getBoundingClientRect();
+          tooltip.style.left = (rect.left + rect.width / 2) + 'px';
+          tooltip.style.top = (rect.bottom + 8) + 'px';
+          tooltip.style.transform = 'translateX(-50%)';
+        });
+
+        day.addEventListener('mouseleave', () => {
+          tooltip.style.display = 'none';
+        });
+      }
+
+      weekRow.appendChild(day);
+    }
+
+    weeksData.push({ weekData, year: current.getFullYear() });
+    grid.appendChild(weekRow);
+    current.setDate(current.getDate() + 7);
+  }
+
+  // Draw minimap - scale to fit viewport with padding
+  function drawMinimap() {
+    const dpr = window.devicePixelRatio || 1;
+    const maxHeight = window.innerHeight - 120; // 60px padding top and bottom
+    const naturalHeight = weeksData.length * 2;
+    const scale = Math.min(1, maxHeight / naturalHeight);
+
+    const width = 50;
+    const height = Math.round(naturalHeight * scale);
+
+    minimapCanvas.width = width * dpr;
+    minimapCanvas.height = height * dpr;
+    minimapCanvas.style.width = width + 'px';
+    minimapCanvas.style.height = height + 'px';
+
+    ctx.scale(dpr, dpr);
+    ctx.clearRect(0, 0, width, height);
+
+    const cellWidth = 5;
+    const cellHeight = 2 * scale;
+    const gap = 0.5;
+    const startX = (width - (7 * cellWidth + 6 * gap)) / 2;
+
+    weeksData.forEach((week, weekIndex) => {
+      const y = weekIndex * cellHeight;
+
+      week.weekData.forEach((day, dayIndex) => {
+        const x = startX + dayIndex * (cellWidth + gap);
+
+        if (day.outside) {
+          // transparent
+        } else if (day.hasPost) {
+          ctx.fillStyle = '#e74c3c';
+          ctx.fillRect(x, y, cellWidth, Math.max(1, cellHeight - 0.5 * scale));
+        } else {
+          ctx.fillStyle = '#e5e5e5';
+          ctx.fillRect(x, y, cellWidth, Math.max(1, cellHeight - 0.5 * scale));
+        }
+      });
+    });
+
+    // Year markers - match canvas height
+    minimapYears.style.height = height + 'px';
+    minimapYears.innerHTML = '';
+    let lastYear = null;
+    weeksData.forEach((week, weekIndex) => {
+      if (week.year !== lastYear) {
+        const marker = document.createElement('span');
+        marker.textContent = week.year;
+        marker.style.top = Math.round(weekIndex * cellHeight) + 'px';
+        minimapYears.appendChild(marker);
+        lastYear = week.year;
+      }
+    });
+
+    // Store scale for viewport calculations
+    minimapCanvas.dataset.scale = scale;
+  }
+
+  // Update viewport indicator
+  function updateViewport() {
+    const gridRect = grid.getBoundingClientRect();
+    const scale = parseFloat(minimapCanvas.dataset.scale) || 1;
+    const totalHeight = weeksData.length * 2 * scale;
+
+    // Calculate visible portion relative to grid
+    const viewportTop = Math.max(0, -gridRect.top);
+    const viewportHeight = Math.min(window.innerHeight, gridRect.height);
+
+    const minimapTop = (viewportTop / gridRect.height) * totalHeight;
+    const minimapHeight = Math.max(15, (viewportHeight / gridRect.height) * totalHeight);
+
+    minimapViewport.style.top = minimapTop + 'px';
+    minimapViewport.style.height = minimapHeight + 'px';
+  }
+
+  // Click minimap to scroll
+  minimapCanvas.addEventListener('click', (e) => {
+    const rect = minimapCanvas.getBoundingClientRect();
+    const clickY = e.clientY - rect.top;
+    const ratio = clickY / rect.height;
+
+    const gridRect = grid.getBoundingClientRect();
+    const targetY = grid.offsetTop + (ratio * gridRect.height) - (window.innerHeight / 2);
+
+    window.scrollTo({
+      top: targetY,
+      behavior: 'smooth'
+    });
+  });
+
+  // Initialize
+  drawMinimap();
+  updateViewport();
+
+  window.addEventListener('scroll', updateViewport);
+  window.addEventListener('resize', () => {
+    drawMinimap();
+    updateViewport();
+  });
+})();
+</script>

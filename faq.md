@@ -73,15 +73,21 @@ New Year's Eve – December 31
 
 ### *AI policy & boundaries*
 
-**Is this written by an AI?** No. All content is researched, written, and curated by Matt, an irl human working out of his basement in Seattle, WA. The editorial judgement, sourcing, writing, and editing of WTFJHT, as well as the personal accountability for corrections, errors, and omissions will always be uniquely human. That’s my job and my responsibility. Understanding complex political events and making meaningful connections requires a human approach grounded in journalistic ethics, curiosity, and accountability. And lastly, you'll note that the typos are a dead giveaway that a human wrote it.
+**Is WTFJHT written by AI?** No. All content is researched, written, and curated by Matt, an IRL human working out of his basement in Seattle, WA. The editorial judgment, sourcing, writing, and editing of WTFJHT, as well as the personal accountability for corrections, errors, and omissions, will always be uniquely human. Also, the typos are a giveaway that a human wrote it.
 
-**Here’s what AI is NOT allowed to do**: (1) research, write, or edit WTFJHT, (2) decide what’s news or replace my editorial judgement, (3) “fact check” my work, or (4) publish anything automatically without my review and approval. 
+**Where do you draw the line? What is your AI policy?** I’m clear on the distinction between using AI to extend my personal capacity versus using AI to do the work for me.
+1. **What AI is NOT allowed to do**: (1) Research, write, or edit WTFJHT, (2) decide what’s news or replace my editorial judgment, (3) "fact check" my work, (4) or publish anything automatically without my review.
+2. **What I am willing to use AI for**: (1) Narrate the audio edition using a text-to-speech clone of my voice, (2) check for typos/grammar cleanup, (3) debug technical/code issues, (4) organize non-editorial business ideas.
 
-**Here’s what I am willing to use AI for**: (1) narrate my work using a clone of my voice, (2) check for typos and grammar cleanup, (3) help me debug the occasional tech issues I have, and (4) organize business-related ideas (non-editorial).
+**Why didn't you hire a human voice actor for the podcast?** I did. For eight years, I paid a human to read the podcast. I paid them well, spending over $150,000 during that period to produce an audio edition. It generated no direct revenue and, ultimately, it wasn’t a financially viable way to run a small business. I exhausted that avenue (for now, at least). The choice wasn’t between "Human Actor" and "AI Voice." The choice was between "AI Voice" or "No Audio Edition at all."
 
-**Why is the podcast narrated with an AI voice? Why not record it yourself?** Using a clone of my voice to then read my words to make my work available to more people in more places — all for free and without ads – is about scaling my labor; not replacing it. My time and money aren’t resources I can scale. Using a clone of my voice is one way I can bring back the audio edition a consistent and sustainable way without compromising the core work.
+**Why not just record it yourself?** My time and money aren’t resources I can scale. As a one-person operation, I spend my entire day doomscrolling the news, writing, and editing the daily edition. Adding the time required to record, edit, and produce/publish an audio version is physically impossible without sacrificing... well, something. Using a voice clone allows me to scale my labor, which allows me to scale my capacities.
 
-**Is this replacing the newsletter?** No. The newsletter remains the primary product from which everything else flows. The podcast is simply an extension of my work made available in an additional format.
+**Why not use volunteers?** Volunteers aren’t free. They require management: finding people, coordinating their schedules, quality control, and daily production, etc. is a job. That shifts the cost of labor back onto me as a manager, which I don’t have time for. 
+
+**Why use a voice clone instead of standard text-to-speech?** Standard text-to-speech is painfully functional and robotic. But, more importantly, I want to represent my work on every surface WTFJHT comes into contact with, even if that requires using a clone of my voice to get there. My goal with WTFJHT is to help people establish a better relationship with the news. And, readers had asked for the podcast to return because they want to consume the news while commuting, doing chores, exercising, whatever.
+
+**What is your stance on the ethics of generative AI?** My honest take is that it’s kinda lame today, but there are some useful things it can do, and it will only get better and more capable tomorrow. The ethical and moral dilemmas in and around AI are pretty profound, and I won't pretend to have arrived at any sort of coherent personal point of view. However, my guiding principle is this: I use this technology to scale my labor, not replace it. I don’t use AI to create thoughts, opinions, or journalism. I use AI as a sort of extensible tool to take the work I’ve already done and make it available to more people in more places — all for free and without ads. 
 
 ---
 

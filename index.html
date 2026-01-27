@@ -120,7 +120,7 @@ seo:
 
     {% include_cached emailpromo.html %}
 
-    {% if page.years_ago_links %}
+    {% if page.years_ago_links and page.years_ago_links.size > 0 %}
     <div class="historical-posts">
       <h3 class="historical-posts__title">On this day</h3>
       {% for link in page.years_ago_links %}

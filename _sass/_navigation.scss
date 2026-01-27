@@ -89,15 +89,17 @@
   }
 }
 
-// CTA button styling for Membership
+// CTA button styling for Membership (ghost/outline style)
 .nav-cta {
-  background: $link-color;
+  background: transparent;
   color: #fff !important;
   padding: 0.5rem 1rem !important;
+  border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 4px;
 
   &:hover {
-    background: lighten($link-color, 5%);
+    background: rgba(255, 255, 255, 0.1);
+    border-color: rgba(255, 255, 255, 0.6);
     text-decoration: none !important;
   }
 

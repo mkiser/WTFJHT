@@ -64,16 +64,18 @@ layout:
       <p><strong>{{ post.date | date: "%A, %B %-d, %Y" }}</strong></p>
       <p><strong>In this episode:</strong> {{ post.todayInOneSentence }}</p>
       <p><strong>Read more:</strong> <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></p>
-      <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a></p>
-      <p><strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let us know what you think</a></p>
+      <p><strong>Newsletter:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the daily edition of WTFJHT in your inbox</a></p>
+      <p><strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let me know what you think</a></p>
+      <p><strong>AI Policy:</strong> <a href="https://wtfjht.com/ai">My AI policy</a></p>
     ]]></description>
-    
+
     <content:encoded><![CDATA[
       <p><strong>{{ post.date | date: "%A, %B %-d, %Y" }}</strong></p>
       <p><strong>In this episode:</strong> {{ post.todayInOneSentence }}</p>
       <p><strong>Read more:</strong> <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a></p>
-      <p><strong>Subscribe:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the Daily Update in your inbox for free</a></p>
-      <p><strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let us know what you think</a></p>
+      <p><strong>Newsletter:</strong> <a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Get the daily edition of WTFJHT in your inbox</a></p>
+      <p><strong>Feedback?</strong> <a href="https://wtfjht.com/feedback">Let me know what you think</a></p>
+      <p><strong>AI Policy:</strong> <a href="https://wtfjht.com/ai">My AI policy</a></p>
     ]]></content:encoded>
 
     <enclosure url="{{ site.cloudfront_url }}{{ post.podcast.file | replace: ' ', '%20' }}" length="{{ post.podcast.length }}" type="audio/mpeg" />

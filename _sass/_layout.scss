@@ -866,7 +866,7 @@ div.flex-item ul.package {
   display: flex;
   align-items: center;
   font-size: 0.8rem;
-  color: #888;
+  color: $gray-3;  // #767676 - WCAG AA compliant
 }
 
 .post-meta__sep {
@@ -1122,12 +1122,12 @@ div.flex-item ul.package {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: #999;
+  color: $gray-3;  // WCAG AA compliant
 }
 
 .historical-posts__years {
   font-size: 0.8rem;
-  color: #999;
+  color: $gray-3;  // WCAG AA compliant
   white-space: nowrap;
 }
 
@@ -1176,7 +1176,7 @@ div.flex-item ul.package {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: #888;
+  color: $gray-3;  // WCAG AA compliant
 }
 
 .post-nav__title {

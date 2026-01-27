@@ -94,10 +94,17 @@
     <div class="container content">
       <nav class="site-nav" aria-label="Main navigation">
         <div class="nav-container">
-          <a href="{{ site.url }}{{ site.baseurl }}/" class="nav-home" aria-label="WTF Just Happened Today Home">
-            <img src="https://whatthefuckjusthappenedtoday.com/favicon.svg?v=3" alt="WTFJHT" class="nav-logo">
-          </a>
-          
+          <div class="nav-left">
+            <a href="{{ site.url }}{{ site.baseurl }}/" class="nav-home" aria-label="WTF Just Happened Today Home">
+              <img src="https://whatthefuckjusthappenedtoday.com/favicon.svg?v=3" alt="WTFJHT" class="nav-logo">
+            </a>
+            <span class="nav-quick">
+              <a href="{{ site.posts.first.url | relative_url }}">Latest</a>
+              <span class="nav-quick__sep">·</span>
+              <a href="{{ site.posts[1].url | relative_url }}">Previous</a>
+            </span>
+          </div>
+
           <ul class="nav-links" role="list">
             <li><a href="{{ site.url }}{{ site.baseurl }}/about/">About</a></li>
             <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
@@ -130,7 +137,7 @@
       {%- comment -%}
        {% include_cached doomsday.html date="Sep 30, 2025 23:59:59 -0400" %}
       {%- endcomment -%}
-      
+
       <main id="main-content">
         <!-- ALGOLIA -->
         <div class="wtf-search-results">
@@ -146,6 +153,12 @@
         <!-- END ALGOLIA -->
       </main>
       <footer class="footer">
+        <section class="ft-subscribe">
+          <h3 class="ft-subscribe__title">A political newsletter for normal people</h3>
+          <p class="ft-subscribe__desc">A sane, once-a-day newsletter helping normal people make sense of the news. </p>
+          {% include email.html %}
+        </section>
+
         <section class="ft-main">
           <div class="ft-main-item">
             <h3 class="ft-title">About</h3>
@@ -155,7 +168,7 @@
               <li><a href="{{ site.url }}{{ site.baseurl }}/membership/">Membership</a></li>
               <li><a href="https://wtfjht.memberful.com/account">Member Sign-in</a></li>
               <li><a href="https://cottonbureau.com/people/wtf-just-happened-today">Merch</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/">Archives</a></li>
+              
             </ul>
           </div>
 
@@ -164,8 +177,17 @@
             <ul>
               <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
+              <li><a href="https://currentstatus.io/">Current Status</a></li>
               <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY">Recommended Books</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/dumb-dashboard/">The Dumb Dashboard</a></li>
+
+            </ul>
+          </div>
+
+          <div class="ft-main-item">
+            <h3 class="ft-title">Archives</h3>
+            <ul>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/archive/">Archives</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/trump-first-100-days/">Trump's First 100 Days</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/biden-first-100-days/">Biden's First 100 Days</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/trump-second-100-days/">Trump's Second 100 Days</a></li>
@@ -263,8 +285,8 @@
               visible: 'hover',
               truncate: "36"
             };
-            anchors.add('.post-content > p, .post > p, .post li, .post blockquote p, h3');
-            anchors.remove('.post ol li, ul.rrssb-buttons li, div.post.archive p.archive-year, div.post.archive ul.archive-months li, .tios, .masthead-title, li.header, h3.ft-title');
+            anchors.add('.post-content > p, .post > p, .post li, .post blockquote p, .post-content h3');
+            anchors.remove('.post ol li, ul.rrssb-buttons li, div.post.archive p.archive-year, div.post.archive ul.archive-months li, .tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
           });
         </script>
       {% elsif page.layout == 'page' %}
@@ -276,8 +298,8 @@
               visible: 'hover',
               truncate: "36"
             };
-            anchors.add('.page > p > strong, .page > p > small > strong, h3 > em');
-            anchors.remove('.tios, .masthead-title, li.header, h3.ft-title');
+            anchors.add('.page > p > strong, .page > p > small > strong, .page h3 > em');
+            anchors.remove('.tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
           });
         </script>
       {% endif %}

@@ -66,8 +66,8 @@ seo:
         {% endif %}
         <div class="post-meta__details">
           <time class="post-meta__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
-          <span class="post-meta__read-time">{% include read_time.html %}</span>
         </div>
+        <p class="post-meta__read-sentence">{% include read_time_sentence.html %}</p>
       </div>
       <div class="post-meta__actions">
         {% include social.html %}
@@ -118,7 +118,7 @@ seo:
       {{ page.content | extlinks }}
     </div>
 
-    {% include_cached emailpromo.html %}
+    {% include recent-posts.html %}
 
     {% if page.years_ago_links and page.years_ago_links.size > 0 %}
     <div class="historical-posts">
@@ -141,15 +141,6 @@ seo:
         </a>
       {% endfor %}
     </div>
-    {% endif %}
-
-    {% if page.previous.url %}
-    <nav class="post-nav">
-      <a href="{{ page.previous.url }}" class="post-nav__link post-nav__link--prev">
-        <span class="post-nav__label">Previous</span>
-        <span class="post-nav__title">{{ page.previous.title }}</span>
-      </a>
-    </nav>
     {% endif %}
 
   </article>

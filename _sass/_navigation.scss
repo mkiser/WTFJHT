@@ -34,6 +34,12 @@
   align-items: center;
 }
 
+.nav-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
 .nav-home {
   display: flex;
   align-items: center;
@@ -49,6 +55,27 @@
   width: 32px;
   height: 32px;
   display: block;
+}
+
+.nav-quick {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+
+  a {
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    transition: color 0.15s ease;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  &__sep {
+    color: rgba(255, 255, 255, 0.3);
+  }
 }
 
 .nav-links {
@@ -118,10 +145,20 @@
   }
 }
 
-// Mobile
+// Mobile - two row layout
 @media (max-width: 600px) {
   .nav-container {
-    padding: 0.5rem 1rem;
+    flex-wrap: wrap;
+    padding: 0.5rem 1rem 0.4rem;
+  }
+
+  // Break out nav-left children to participate in flex directly
+  .nav-left {
+    display: contents;
+  }
+
+  .nav-home {
+    order: 1;
   }
 
   .nav-logo {
@@ -129,29 +166,35 @@
     height: 28px;
   }
 
+  .nav-quick {
+    order: 3;
+    width: 100%;
+    justify-content: center;
+    padding-top: 0.5rem;
+    margin-top: 0.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    font-size: 0.75rem;
+  }
+
   .nav-links {
-    gap: 0.75rem;
+    order: 2;
+    gap: 0.6rem;
   }
 
   .nav-cta {
-    padding: 0.4rem 0.75rem !important;
+    padding: 0.35rem 0.6rem !important;
+    font-size: 0.7rem !important;
   }
 }
 
-// Very small mobile - wrap if needed
+// Very small mobile
 @media (max-width: 380px) {
-  .nav-container {
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-
-  .nav-home {
-    width: 100%;
-    justify-content: center;
-  }
-
   .nav-links {
-    width: 100%;
-    justify-content: center;
+    gap: 0.4rem;
+
+    // Hide "About" on very small screens to save space
+    li:first-child {
+      display: none;
+    }
   }
 }

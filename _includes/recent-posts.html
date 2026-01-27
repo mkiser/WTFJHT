@@ -1,0 +1,14 @@
+{%- if page.previous.url or page.next.url -%}
+<nav class="post-footer-nav" aria-label="Post navigation">
+  {%- if page.previous.url -%}
+  <a href="{{ page.previous.url }}" class="post-footer-nav__link post-footer-nav__link--prev">
+    ← Previous: {{ page.previous.title }}
+  </a>
+  {%- endif -%}
+  {%- if page.next.url -%}
+  <a href="{{ page.next.url }}" class="post-footer-nav__link post-footer-nav__link--next">
+    Next: {{ page.next.title }} →
+  </a>
+  {%- endif -%}
+</nav>
+{%- endif -%}

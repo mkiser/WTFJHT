@@ -145,20 +145,10 @@
   }
 }
 
-// Mobile - two row layout
+// Mobile - simplified single row
 @media (max-width: 600px) {
   .nav-container {
-    flex-wrap: wrap;
-    padding: 0.5rem 1rem 0.4rem;
-  }
-
-  // Break out nav-left children to participate in flex directly
-  .nav-left {
-    display: contents;
-  }
-
-  .nav-home {
-    order: 1;
+    padding: 0.5rem 1rem;
   }
 
   .nav-logo {
@@ -166,18 +156,12 @@
     height: 28px;
   }
 
+  // Hide Latest/Previous on mobile - users have sequential nav at bottom
   .nav-quick {
-    order: 3;
-    width: 100%;
-    justify-content: center;
-    padding-top: 0.5rem;
-    margin-top: 0.5rem;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    font-size: 0.75rem;
+    display: none;
   }
 
   .nav-links {
-    order: 2;
     gap: 0.6rem;
   }
 

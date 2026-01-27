@@ -282,8 +282,13 @@ footer {
 }
 
 .wtf-search-results {
-  max-width: 38rem;
+  max-width: 40rem;
   margin: 0 auto;
+  padding: 0 1rem;
+
+  .algolia__search-content h6 {
+    margin-top: 1rem;
+  }
 
   .algolia__result a {
     font-size: .75em;
@@ -992,6 +997,12 @@ div.flex-item ul.package {
   z-index: 100;
   min-width: 140px;
 
+  // On mobile, open from left to stay in viewport
+  @media (max-width: 600px) {
+    right: auto;
+    left: 0;
+  }
+
   &.is-open {
     display: flex;
   }
@@ -1089,6 +1100,12 @@ div.flex-item ul.package {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   z-index: 100;
   min-width: 180px;
+
+  // On mobile, open from left to stay in viewport
+  @media (max-width: 600px) {
+    right: auto;
+    left: 0;
+  }
 
   &.is-open {
     display: flex;

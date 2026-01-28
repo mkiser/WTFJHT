@@ -40,7 +40,10 @@
   background-color: rgba(38,139,210,0.2);
 }
 .algolia__result-text .ais-Highlight {
-  font-weight:bold;
+  font-weight: bold;
+  background-color: rgba(200, 50, 50, 0.15);
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
 }
 
 /* Theming */
@@ -73,6 +76,37 @@
   background-color: rgba(170,117,159,0.2);
 }
 .theme-base-0f .algolia__result-link .algolia__result-highlight {
-  background-color: #E9DDD6; 
+  background-color: #E9DDD6;
   background-color: rgba(143,85,54,0.2);
+}
+
+/* Search UI states */
+.search-loading,
+.search-hint {
+  color: #767676;
+  font-style: italic;
+  padding: 1rem 0;
+}
+
+/* Load more button */
+.search-load-more {
+  display: block;
+  width: 100%;
+  padding: 0.75rem 1.5rem;
+  margin: 1.5rem 0;
+  font-family: inherit;
+  font-size: 0.9rem;
+  color: #515151;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+.search-load-more:hover {
+  background: #eee;
+  border-color: #ccc;
+}
+.search-load-more:active {
+  background: #e5e5e5;
 }

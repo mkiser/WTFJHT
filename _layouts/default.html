@@ -26,12 +26,11 @@
     <meta name="theme-color" content="#000000">
     <meta name="apple-mobile-web-app-title" content="WTFJHT" />
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/styles.css" type="text/css">
-    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/algolia.css" type="text/css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/search.css" type="text/css">
     <link rel="stylesheet" href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" type="text/css">
     <style type="text/css">
     #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
     </style>
-    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/rrssb.css" />
     <link rel="manifest" href="{{ site.url }}{{ site.baseurl }}/manifest.json?v=3">
     <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico?v=3">
     <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}{{ site.baseurl }}/favicon-96x96.png?v=3">
@@ -228,38 +227,11 @@
         </section>
       </footer>
     </div>      
-      <!-- ALGOLIA -->
-      <script>
-        window.ALGOLIA_CONFIG = {
-          'applicationId': '{{ site.algolia.application_id }}',
-          'indexName': '{{ site.algolia.index_name }}',
-          'apiKey': '{{ site.algolia.read_only_api_key }}',
-          'baseurl': '{{ site.baseurl }}'
-        }
-      </script>
-      <script id="algolia__template" type="text/template">
-      {% raw %}
-        <div class="algolia__result">
-          <h1 class="post-title"><a href="{{ full_url }}">{{{ title }}}: {{{ description }}}</a></h1>
-          {{#posted_at}}
-          <div class="algolia__result-date">{{ posted_at_readable }}</div>
-          {{/posted_at}}
-          <div class="algolia__result-text">{{{ _highlightResult.content.value }}}</div>
-        </div>
-      {% endraw %}
-      </script>
-      <script id="algolia__template--no-results" type="text/template">
-        Fake news not found.
-      </script>
+      <!-- SEARCH -->
+      <script src="https://cdn.jsdelivr.net/npm/minisearch@6.3.0/dist/umd/index.min.js"></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/jquery.min.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/algoliasearch.min.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/algoliasearch.helper.min.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/hogan.min.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/moment.min.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/algolia.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/rrssb.min.js"></script>
       <!-- PWA SERVICE WORKER -->
       <script>
         window.addEventListener('load', function() {
@@ -286,7 +258,7 @@
               truncate: "36"
             };
             anchors.add('.post-content > p, .post > p, .post li, .post blockquote p, .post-content h3');
-            anchors.remove('.post ol li, ul.rrssb-buttons li, div.post.archive p.archive-year, div.post.archive ul.archive-months li, .tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
+            anchors.remove('.post ol li, div.post.archive p.archive-year, div.post.archive ul.archive-months li, .tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
           });
         </script>
       {% elsif page.layout == 'page' %}

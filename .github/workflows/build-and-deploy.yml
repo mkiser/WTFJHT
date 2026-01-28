@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - master
-  schedule:
-    - cron: '0 9 * * *'  # daily at 9 AM UTC (2 AM PT / 5 AM ET)
   workflow_dispatch:  # allow manual triggering
 
 jobs:
@@ -18,41 +16,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Ruby
+      - name: Set up Ruby with caching
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.3.5
           bundler-cache: true
 
-      - name: Install bundler and configure
-        run: |
-          gem install bundler -v 2.6.6
-          bundle config set path 'vendor/bundle'
-          bundle config set force_ruby_platform true
-          ruby -v
-          bundler -v
-          gem -v
-          gem environment
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
 
-      - name: Install dependencies
-        run: |
-          bundle lock --add-platform ruby
-          bundle install --jobs=3 --retry=3
-          bundle clean --force
-
-      - name: Run cron build (Algolia)
-        if: github.event_name == 'schedule'
-        run: |
-          JEKYLL_ENV=production ALGOLIA_API_KEY=${{ secrets.ALGOLIA_API_KEY }} ALGOLIA_APPLICATION_ID=${{ secrets.ALGOLIA_APPLICATION_ID }} bundle exec jekyll algolia
-        shell: bash
-
-      - name: Run regular build
-        if: github.event_name != 'schedule'
-        run: bundle exec jekyll build --trace
-        shell: bash
+      - name: Compress search index
+        run: gzip -9 _site/search-index.json
 
       - name: Deploy to S3
-        if: github.event_name != 'schedule'
         uses: reggionick/s3-deploy@v4
         with:
           folder: _site
@@ -66,7 +42,6 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
 
       - name: Purge Cloudflare cache
-        if: github.event_name != 'schedule'
         run: |
           curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache" \
           -H "X-Auth-Email: ${{ secrets.CLOUD_FLARE_EMAIL }}" \
@@ -74,32 +49,34 @@ jobs:
           -H "Content-Type: application/json" \
           --data '{"purge_everything":true}'
 
-      - name: Ping search engines and Internet Archive
-        if: github.event_name != 'schedule'
+      - name: Ping search engines and feeds
         run: |
-          curl http://www.bing.com/ping?sitemap=https://whatthefuckjusthappenedtoday.com/sitemap.xml
-      
-      - name: Ping WebSub hub
-        run: |
-          HUB=https://pubsubhubbub.appspot.com/
+          # Run all pings in parallel
           BASE=https://whatthefuckjusthappenedtoday.com
+          HUB=https://pubsubhubbub.appspot.com/
+          AUTH_DATE=$(date +%s)
+          AUTH_HASH=$(echo -n "${{ secrets.PODCAST_INDEX_API_KEY }}${{ secrets.PODCAST_INDEX_API_SECRET }}${AUTH_DATE}" | sha1sum | awk '{print $1}')
+
+          # Bing
+          curl -s "http://www.bing.com/ping?sitemap=$BASE/sitemap.xml" &
+
+          # WebSub hub
           curl -s -X POST "$HUB" -d "hub.mode=publish" \
             -d "hub.url=$BASE/rss.xml" \
             -d "hub.url=$BASE/atom.xml" \
             -d "hub.url=$BASE/feed.json" \
-            -d "hub.url=$BASE/podcasts/index.xml"
+            -d "hub.url=$BASE/podcasts/index.xml" &
 
-      - name: Ping Podcast Index (PodPing)
-        if: github.event_name != 'schedule'
-        run: |
-          AUTH_DATE=$(date +%s)
-          AUTH_HASH=$(echo -n "${{ secrets.PODCAST_INDEX_API_KEY }}${{ secrets.PODCAST_INDEX_API_SECRET }}${AUTH_DATE}" | sha1sum | awk '{print $1}')
+          # Podcast Index
           curl -s -X POST "https://api.podcastindex.org/api/1.0/hub/pubnotify" \
             -H "Content-Type: application/x-www-form-urlencoded" \
             -H "X-Auth-Key: ${{ secrets.PODCAST_INDEX_API_KEY }}" \
             -H "X-Auth-Date: ${AUTH_DATE}" \
             -H "Authorization: ${AUTH_HASH}" \
-            -d "url=https://whatthefuckjusthappenedtoday.com/podcasts/index.xml"
+            -d "url=$BASE/podcasts/index.xml" &
+
+          # Wait for all background jobs
+          wait
             
       - name: Notify Slack
         if: always()

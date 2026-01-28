@@ -3,12 +3,6 @@ GEM
   specs:
     addressable (2.8.7)
       public_suffix (>= 2.0.2, < 7.0)
-    algolia_html_extractor (2.6.4)
-      json (~> 2.0)
-      nokogiri (~> 1.10)
-    algoliasearch (1.27.5)
-      httpclient (~> 2.8, >= 2.8.3)
-      json (>= 1.5.1)
     base64 (0.2.0)
     bigdecimal (3.1.9)
     colorator (1.1.0)
@@ -28,7 +22,6 @@ GEM
     ffi (1.17.1-x86_64-darwin)
     ffi (1.17.1-x86_64-linux-gnu)
     ffi (1.17.1-x86_64-linux-musl)
-    filesize (0.2.0)
     forwardable-extended (2.6.0)
     htmlentities (4.3.4)
     http_parser.rb (0.8.0)
@@ -36,8 +29,6 @@ GEM
       csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
-    httpclient (2.9.0)
-      mutex_m
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
     jekyll (3.10.0)
@@ -55,15 +46,6 @@ GEM
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
       webrick (>= 1.0)
-    jekyll-algolia (1.7.1)
-      algolia_html_extractor (~> 2.6)
-      algoliasearch (~> 1.26)
-      filesize (~> 0.1)
-      jekyll (>= 3.6, < 5.0)
-      json (~> 2.0)
-      nokogiri (~> 1.6)
-      progressbar (~> 1.9)
-      verbal_expressions (~> 0.1.5)
     jekyll-archives (2.1.1)
       jekyll (>= 2.4)
     jekyll-commonmark (1.4.0)
@@ -86,7 +68,6 @@ GEM
     jekyll_pages_api (0.1.6)
       htmlentities (~> 4.3)
       jekyll (>= 2.0, < 4.0)
-    json (2.10.2)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     liquid (4.0.4)
@@ -101,7 +82,6 @@ GEM
     mini_portile2 (2.8.8)
     multi_xml (0.7.1)
       bigdecimal (~> 3.1)
-    mutex_m (0.3.0)
     nokogiri (1.18.6)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -124,7 +104,6 @@ GEM
     ostruct (0.6.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    progressbar (1.13.0)
     public_suffix (6.0.1)
     racc (1.8.1)
     rack (3.1.12)
@@ -143,7 +122,6 @@ GEM
       httparty (>= 0.16.0)
       jekyll (>= 1.4.1)
       rack
-    verbal_expressions (0.1.5)
     webrick (1.9.1)
 
 PLATFORMS
@@ -160,7 +138,6 @@ PLATFORMS
 DEPENDENCIES
   base64
   jekyll
-  jekyll-algolia
   jekyll-archives (= 2.1.1)
   jekyll-commonmark
   jekyll-extlinks

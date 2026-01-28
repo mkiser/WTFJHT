@@ -19,7 +19,6 @@ layout: default
       {% endif %}
       <div class="post-meta__details">
         <time class="post-meta__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
-        <span class="post-meta__read-time">{% include read_time.html %}</span>
       </div>
     </div>
     <div class="post-meta__actions">

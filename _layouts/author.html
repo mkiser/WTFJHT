@@ -1,38 +1,165 @@
 ---
 layout: default
-seo:
-  type: Person
 ---
+{% assign post_count = site.posts | where: 'author', page.title | size %}
+{% assign recent_posts = site.posts | where: 'author', page.title | slice: 0, 12 %}
 
-<article class="page">
+<!-- Enhanced Person Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "{{ site.url }}{{ page.url }}#person",
+  "name": "{{ page.title }}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "image": "{{ site.url }}{{ page.image }}",
+  "description": "{{ page.tagline | strip_html | strip_newlines | escape }}",
+  "jobTitle": "{{ page.job_title | default: 'Founder & Publisher' }}",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "What The Fuck Just Happened Today?",
+    "url": "{{ site.url }}"
+  },
+  {% if page.alumni_of %}
+  "alumniOf": [
+    {% for school in page.alumni_of %}
+    {
+      "@type": "CollegeOrUniversity",
+      "name": "{{ school }}"
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  {% endif %}
+  "knowsAbout": ["Political journalism", "Newsletter publishing", "Media entrepreneurship", "News curation"],
+  "sameAs": [
+    {% for link in page.seo.links %}"{{ link }}"{% unless forloop.last %},{% endunless %}{% endfor %}
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  }
+}
+</script>
 
-<div class="author-avatar">
-  <img src="{{ site.baseurl }}{{ page.image }}" class="author-image">
-</div>
+<article class="author-page" itemscope itemtype="https://schema.org/Person">
+  <meta itemprop="url" content="{{ site.url }}{{ page.url }}">
 
-<div class="author-box">
-  <h1 class="name">{{ page.title }}</h1>
-  <!-- <div class="post-date">
-    <small>
-    {% if page.email %}<i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:{{ page.email }}?Subject=Hello%20there" target="_top">{{ page.email }}</a><br>
-    {% endif %}
-    <i class="fa fa-twitter" aria-hidden="true"></i> <a href="https://twitter.com/{{ page.twitter }}" target="_blank">@{{ page.twitter }}</a> 
-  </small>
-  </div>
--->
-</div>
-<div class="bio">{{ page.content }}</div>
-<hr>
-<h3>Latest articles:</h3>
-{% assign posts = site.posts | where: 'author', page.title %}
-{% for post in posts %}
-  <h2 class="post-title">
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}:
-    <span class="post-small">{{ post.description }}</span></a>
-  </h2>
-  <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
-     {{ post.date | date: "%m/%d/%Y" }}
-  </time>
-  <hr>
-{% endfor %}
+  <!-- Hero Section -->
+  <header class="author-hero">
+    <div class="author-hero__image">
+      <img src="{{ site.url }}{{ page.image }}"
+           alt="{{ page.title }}"
+           itemprop="image"
+           width="200"
+           height="200"
+           loading="eager">
+    </div>
+
+    <div class="author-hero__content">
+      <h1 class="author-hero__name" itemprop="name">{{ page.title }}</h1>
+      <p class="author-hero__title" itemprop="jobTitle">{{ page.job_title | default: "Founder & Publisher" }}</p>
+      <p class="author-hero__tagline" itemprop="description">{{ page.tagline }}</p>
+
+      <div class="author-hero__stats">
+        <span class="stat">
+          <strong>{{ post_count | plus: 0 }}</strong> articles published
+        </span>
+        <span class="stat">
+          <strong>Since 2017</strong>
+        </span>
+      </div>
+
+      <nav class="author-hero__social" aria-label="Social links">
+        {% if page.social.bluesky %}<a href="{{ page.social.bluesky }}" rel="me noopener" target="_blank" aria-label="Bluesky">{% include_cached icons.html icon="bluesky" %}</a>{% endif %}
+        {% if page.social.threads %}<a href="{{ page.social.threads }}" rel="me noopener" target="_blank" aria-label="Threads">{% include_cached icons.html icon="threads" %}</a>{% endif %}
+        {% if page.social.mastodon %}<a href="{{ page.social.mastodon }}" rel="me noopener" target="_blank" aria-label="Mastodon">{% include_cached icons.html icon="mastodon" %}</a>{% endif %}
+        {% if page.social.twitter %}<a href="{{ page.social.twitter }}" rel="me noopener" target="_blank" aria-label="X/Twitter">{% include_cached icons.html icon="twitter" %}</a>{% endif %}
+        {% if page.social.linkedin %}<a href="{{ page.social.linkedin }}" rel="me noopener" target="_blank" aria-label="LinkedIn">{% include_cached icons.html icon="user" %}</a>{% endif %}
+        {% if page.social.github %}<a href="{{ page.social.github }}" rel="me noopener" target="_blank" aria-label="GitHub">{% include_cached icons.html icon="github" %}</a>{% endif %}
+        {% if page.social.instagram %}<a href="{{ page.social.instagram }}" rel="me noopener" target="_blank" aria-label="Instagram">{% include_cached icons.html icon="instagram" %}</a>{% endif %}
+        {% if page.social.facebook %}<a href="{{ page.social.facebook }}" rel="me noopener" target="_blank" aria-label="Facebook">{% include_cached icons.html icon="facebook" %}</a>{% endif %}
+      </nav>
+    </div>
+  </header>
+
+  <!-- Bio Section -->
+  <section class="author-bio">
+    <h2 class="sr-only">About {{ page.title }}</h2>
+    <div class="author-bio__content" itemprop="description">
+      {{ page.bio | markdownify }}
+    </div>
+
+    <div class="author-bio__links">
+      <a href="{{ site.url }}/about/" class="author-bio__link">About WTFJHT</a>
+      <a href="{{ site.url }}/faq/" class="author-bio__link">FAQ</a>
+      <a href="mailto:{{ page.email }}" class="author-bio__link">Contact</a>
+    </div>
+  </section>
+
+  <!-- Social Proof / Featured Press -->
+  {% if page.featured_press %}
+  <section class="author-proof">
+    <h2 class="author-section__title">Featured In</h2>
+    <div class="author-proof__logos">
+      {% for outlet in page.featured_press %}
+      <span class="author-proof__outlet">{{ outlet }}</span>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- Newsletter CTA -->
+  <section class="author-cta">
+    {% include emailpromo.html %}
+  </section>
+
+  <!-- Recent Articles -->
+  <section class="author-posts">
+    <h2 class="author-section__title">Recent Articles</h2>
+    <div class="author-posts__list">
+      {% for post in recent_posts %}
+      <article class="author-posts__item">
+        <a href="{{ post.url | relative_url }}" class="author-posts__link">
+          <time datetime="{{ post.date | date_to_xmlschema }}" class="author-posts__date">
+            {{ post.date | date: "%b %-d, %Y" }}
+          </time>
+          <h3 class="author-posts__title">{{ post.title }}</h3>
+          <p class="author-posts__desc">{{ post.description }}</p>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+    <div class="author-posts__more">
+      <a href="{{ site.url }}/archive/" class="btn">View all {{ post_count }} articles →</a>
+    </div>
+  </section>
+
+  <!-- Full Press Section -->
+  {% if page.press %}
+  <section class="author-press">
+    <h2 class="author-section__title">Press & Recognition</h2>
+    <ol class="author-press__list">
+      {% for item in page.press %}
+      <li class="author-press__item">
+        <blockquote class="author-press__quote">
+          <p>{{ item.quote }}</p>
+          <cite>— <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.source }}</a></cite>
+        </blockquote>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+  {% endif %}
+
+  <!-- Contact Section -->
+  <section class="author-contact">
+    <h2 class="author-section__title">Contact</h2>
+    <address class="author-contact__info">
+      <p><strong>Email:</strong> <a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+      {% if page.mailing_address %}
+      <p><strong>Mail:</strong><br>{{ page.mailing_address | newline_to_br }}</p>
+      {% endif %}
+    </address>
+  </section>
+
 </article>

@@ -1,135 +1,201 @@
 ---
 title: Matt Kiser
-twitter: matt_kiser
+job_title: Founder & Publisher
 email: matt@whatthefuckjusthappenedtoday.com
+image: /public/author-imgs/matt.jpg
+tagline: Creator of What The Fuck Just Happened Today? – a daily guide to the shock and awe in national politics, read by over 200,000 people.
+
+# Education for schema
+alumni_of:
+  - California State University, Chico
+  - City University of New York
+
+# Social links (used in hero section)
+social:
+  bluesky: https://bsky.app/profile/whatthefuckjusthappenedtoday.com
+  threads: https://www.threads.net/@wtfjht
+  mastodon: https://mastodon.social/@wtfjht
+  twitter: https://x.com/matt_kiser
+  linkedin: https://www.linkedin.com/in/mattkiser/
+  github: https://github.com/mkiser/WTFJHT
+  instagram: https://www.instagram.com/wtfjht/
+  facebook: https://www.facebook.com/wtfjht
+
+# Mailing address
+mailing_address: |
+  WTF Just Happened Today?
+  505 Broadway E #211
+  Seattle, WA 98102 USA
+
+# Featured press outlets (shown as social proof)
+featured_press:
+  - New York Times
+  - Columbia Journalism Review
+  - Nieman Lab
+  - Poynter
+  - The Seattle Times
+  - Mashable
+
+# SEO structured data
 seo:
   type: Person
-  links:
-  - https://www.linkedin.com/in/mattkiser/
-  - https://twitter.com/matt_Kiser/
-  - https://github.com/mkiser
-  - https://github.com/mkiser/wtfjht
-  - https://whatthefuckjusthappenedtoday.com/
-  - https://twitter.com/WTFJHT
-  - https://www.instagram.com/wtfjht/
-  - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
-  - https://www.threads.net/@wtfjht
-  - https://mastodon.social/@wtfjht
-  - https://www.facebook.com/wtfjht
   name: Matt Kiser
-image: "/public/author-imgs/matt.jpg"
-tagline: Matt Kiser is the creator, founder, and publisher of What The Fuck Just Happened
-  Today? – today's essential guide to the daily shock and awe in national politics.
+  links:
+    - https://www.linkedin.com/in/mattkiser/
+    - https://twitter.com/matt_kiser
+    - https://github.com/mkiser
+    - https://whatthefuckjusthappenedtoday.com/
+    - https://x.com/WTFJHT
+    - https://www.instagram.com/wtfjht/
+    - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
+    - https://www.threads.net/@wtfjht
+    - https://mastodon.social/@wtfjht
+    - https://www.facebook.com/wtfjht
+
+# Redirects from old URLs
 redirect_from:
-- "/press/"
-- "/team/"
+  - /press/
+  - /team/
+
+# Bio (rendered via markdownify)
+bio: |
+  Matt Kiser is a journalist and media entrepreneur who created [What The Fuck Just Happened Today?](/) in January 2017 as a personal project to chronicle the daily shock and awe of national politics.
+
+  He graduated from California State University, Chico with degrees in Journalism and American Studies, and earned a professional certificate in Entrepreneurial Journalism from the City University of New York. Previously, he reported on music industry news for the College Music Journal and managed news products at Business Insider, Forbes, and SPIN Magazine.
+
+  What started as a 100-day experiment has become his full-time job, supported entirely by readers through an optional membership model with no ads, no content gates, and no data selling.
+
+# Press coverage (structured for the press section)
+press:
+  - quote: "In fact, the edgier younger sibling of Dr. Richardson's 'Letters From an American' is a newsletter that's called 'WTF Just Happened Today?' Its founder, Matt Kiser, says he reaches more than 200,000 subscribers a day."
+    source: New York Times
+    url: https://www.nytimes.com/2020/12/27/business/media/heather-cox-richardson-substack-boston-college.html
+
+  - quote: "A new entrant that displays perhaps the most accurate encapsulation of this peculiar moment takes the form of an independent email blast."
+    source: Columbia Journalism Review
+    url: http://www.cjr.org/criticism/donald-trump-news-cycle-slow-news-day.php
+
+  - quote: "Meet the wildly popular blogger chronicling President Trump one day at a time. The site is easy to read, easy to parse and easy to share."
+    source: Poynter
+    url: https://www.poynter.org/tech-tools/2017/meet-the-wildly-popular-blogger-chronicling-president-trump-one-day-at-a-time/
+
+  - quote: "My constant companion in the past 100 days has been What the Fuck Just Happened Today? Don't let the crass title fool you. The site is the best daily collection of the news out there."
+    source: Rands in Repose
+    url: http://randsinrepose.com/archives/100-days-of-wtf-just-happened-today/
+
+  - quote: "Seattle man's website helps millions figure out the daily tumult in the other Washington."
+    source: The Seattle Times
+    url: https://www.seattletimes.com/seattle-news/seattle-mans-website-helps-millions-figure-out-the-daily-tumult-in-the-other-washington/
+
+  - quote: "How WTF Just Happened Today? is Rethinking Membership. Transparency and an approachable tone, as well as his efforts to engage with his audience, are central to his newsletter's success."
+    source: The Lenfest Institute for Journalism
+    url: https://www.lenfestinstitute.org/solutions-resources/wtf-just-happened-today-rethinking-membership/
+
+  - quote: "This email newsletter tries to make sense of Trump's America. A daily email newsletter has emerged to help keep everyone's heads from spinning off."
+    source: Mashable
+    url: https://mashable.com/article/wtf-just-happened-today-email-newsletter
+
+  - quote: "Combine an 'editorially responsible' algorithm + political news, and you have Current Status."
+    source: Nieman Lab
+    url: http://www.niemanlab.org/2018/04/combine-an-editorially-responsible-algorithm-political-news-and-you-have-current-status/
+
+  - quote: "Popular newsletter uses open-source techniques to cover 'WTF' is happening with Trump. Anybody can edit a file and submit a pull request."
+    source: GeekWire
+    url: https://www.geekwire.com/2017/popular-newsletter-uses-open-source-techniques-cover-wtf-happening-trump/
+
+  - quote: "Seattle's Tech Community Is Fighting Trump One Piece of Code at a Time."
+    source: The Stranger
+    url: https://www.thestranger.com/features/2017/04/26/25106297/seattles-tech-community-is-fighting-trump-one-piece-of-code-at-a-time
+
+  - quote: "Your Guide to the Sprawling New Anti-Trump Resistance Movement. An explosion of new activism offers a ray of hope in these dark political times."
+    source: The Nation
+    url: https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/
+
+  - quote: "'What The Fuck Just Happened Today?' Chronicles Our Daily Political Insanity."
+    source: Fast Company
+    url: https://www.fastcompany.com/3068185/what-the-fck-just-happened-today-chronicles-our-daily-political-insanity
+
+  - quote: "How to use tech to fight back in the Trump era. The Daily WTF collects all of the most important events into a bearable daily newsletter."
+    source: Newsweek
+    url: http://www.newsweek.com/resistance-apps-562666
+
+  - quote: "Follow these newsletters by journalists and never miss a thing."
+    source: The Next Web
+    url: https://thenextweb.com/news/the-best-newsletters-by-journalists
+
+  - quote: "Here's What Therapists Want You To Know About Being Politically Active."
+    source: BuzzFeed
+    url: https://www.buzzfeed.com/annaborges/recharge-then-resist
+
+  - quote: "11 Simple Ways to Change the World That Won't Totally Overwhelm You."
+    source: Glamour
+    url: http://www.glamour.com/story/these-11-apps-make-it-super-easy-to-make-a-difference
+
+  - quote: "Why Donald Trump is the undisputed king of all media. Within four weeks Kiser's chronicle had more than 48,000 newsletter subscribers."
+    source: Irish Times
+    url: http://www.irishtimes.com/culture/tv-radio-web/why-donald-trump-is-the-undisputed-king-of-all-media-1.2987823
+
+  - quote: "One of the OG independent newsletter creators on consistency, platform independence and stamina."
+    source: Project C
+    url: https://projectc.substack.com/p/creator-spotlight-matt-kiser-of-wtf
+
+  - quote: "Pro Tips: Matt Kiser on keeping expenses down."
+    source: Project C
+    url: https://projectc.substack.com/p/pro-tips-matt-kiser-on-keeping-expenses
+
+  - quote: "Here are some of the ways you might be doing email newsletters inefficiently (and how to do them better)."
+    source: Nieman Lab
+    url: https://www.niemanlab.org/2018/06/here-are-some-of-the-ways-you-might-be-doing-email-newsletters-inefficiently-and-how-to-do-them-better/
+
+  - quote: "WTF Just Happened Today and Reciprocal Relationships with Audiences."
+    source: Gather
+    url: https://letsgather.in/lightning-chats/lightning-chat-summary-wtf-just-happened-today-and-reciprocal-relationships-with-audiences/
+
+  - quote: "What does it take to have 'members' of a news organization rather than consumers?"
+    source: Membership Puzzle Project
+    url: https://membershippuzzle.org/articles-overview/members-vs-consumers
+
+  - quote: "How to staff a membership strategy if you are a one-person newsroom."
+    source: IJNet
+    url: https://ijnet.org/en/story/how-staff-membership-strategy-if-you-are-one-person-newsroom
+
+  - quote: "How growing an independent news site is 'like punk rock with a blog.'"
+    source: Membership Puzzle Project
+    url: https://membershippuzzle.org/articles-overview/punk-rock-with-a-blog
+
+  - quote: "Is your journalism valuable? You have to listen to the people you're trying to serve."
+    source: Poynter
+    url: https://www.poynter.org/news/your-journalism-valuable
+
+  - quote: "What your site can learn from 100 news organizations with robust membership programs."
+    source: Membership Puzzle Project
+    url: https://membershippuzzle.org/articles-overview/what-your-site-can-learn
+
+  - quote: "WTF, Kiser? Each day is posted with its overriding theme followed by a numbered and sourced list."
+    source: Chico News and Review
+    url: https://www.newsreview.com/chico/arts-devo/content?oid=23646690
+
+  - quote: "WTF Just Happened Today available as an Amazon skill."
+    source: Boing Boing
+    url: https://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html
+
+  - quote: "The Trump Era's Anti-Anxiety Pill Is a Newsletter Out of Seattle. It looks like facts, but it feels like coping."
+    source: The Observer
+    url: https://observer.com/2017/05/what-the-fuck-just-happened-today/
+
+  - quote: "WTF Just Happened Today - daily newsletter."
+    source: Boing Boing
+    url: https://boingboing.net/2017/02/02/wtf-just-happened-today-dail.html
+
+  - quote: "Best New Website: Read 'What The Fuck Just Happened' every day."
+    source: Liberal America
+    url: http://www.liberalamerica.org/2017/02/10/best-new-website-read-what-fck-happened-every-day/
+
+  - quote: "5 Career Questions: WTF Just Happened Today? founder on taking the leap to full time."
+    source: Explore Your Career River
+    url: https://www.mycareerriver.com/5-career-questions-wtf-just-happened-today-founder-on-taking-the-leap-to-full-time/
+
+  - quote: "2018 Webby Award Honoree"
+    source: Webby Awards
+    url: https://vote.webbyawards.com
 ---
-
-Matt Kiser is the creator, founder, and publisher of [What The Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com/) – today's essential guide to the daily shock and awe in national politics.
-
-He graduated from California State University, Chico with Bachelor's degrees in Journalism and American Studies, and earned a professional certificate from the City University of New York for Entrepreneurial Journalism. Previously, he reported on music industry news for the College Music Journal, and managed news products at Business Insider, Forbes, and SPIN.com/SPIN Magazine.
-
-Explore the origins and mission of WTF Just Happened Today? by visiting my [About page](https://whatthefuckjusthappenedtoday.com/about/) and [FAQ section](https://whatthefuckjusthappenedtoday.com/faq/) for details.
-
-* ### Contact Me
-
-* **Email**: [matt@whatthefuckjusthappenedtoday.com](mailto:matt@whatthefuckjusthappenedtoday.com?Subject=Hello%20there)
-
-* **Bluesky**: [@whatthefuckjusthappenedtoday.com](https://bsky.app/profile/whatthefuckjusthappenedtoday.com)
-
-* **LinkedIn**: [Matt Kiser](https://www.linkedin.com/in/mattkiser/)
-
-* **Facebook**: [@WTFJHT](https://www.facebook.com/wtfjht)
-
-* **Instagram**: [@WTFJHT](https://www.instagram.com/wtfjht/)
-
-* **Mastodon**: [@WTFJHT](https://mastodon.social/@wtfjht)
-
-* **Threads**: [@WTFJHT](https://www.threads.net/@wtfjht)
-
-* **X**: [@matt_kiser](https://twitter.com/matt_Kiser/)
-
-* **X**: [@WTFJHT](https://twitter.com/WTFJHT/)
-
-* **GitHub**: [Matt Kiser / WTFJHT](https://github.com/mkiser/wtfjht)
-
-* **Mailing address**: WTF Just Happened Today? 505 Broadway E #211 Seattle, WA 98102 USA
-
-### Praise for WTFJHT
-
- 1. [2018 Webby Award Honoree](https://vote.webbyawards.com)
-
- 2. **Meet the wildly popular blogger chronicling President Trump one day at a time**. The site is easy to read, easy to parse and easy to share. There are no ads, and WTF Happened Today makes it easy to see news in context with what happened yesterday and the day before that. ([Poynter](https://www.poynter.org/tech-tools/2017/meet-the-wildly-popular-blogger-chronicling-president-trump-one-day-at-a-time/))
-
- 3. **A new entrant that displays perhaps the most accurate encapsulation of this peculiar moment** takes the form of an independent email blast: “What The Fuck Just Happened Today?” The aptly named roundup does the yeoman’s work. ([Columbia Journalism Review](http://www.cjr.org/criticism/donald-trump-news-cycle-slow-news-day.php))
-
- 4. **How WTF Just Happened Today? is Rethinking Membership**. It feels like a million years ago now, but in January 2017 the headlines were dominated by discussions over the size of the crowd at President Trump’s inauguration, “alternative facts,” the Women’s March, the Travel Ban, and more. What started as a side project for Kiser had unexpectedly grown into a more substantial undertaking. Kiser quit his job and began working on WTFJHT full time. The project has continued past the 100-day mark. Now he had to make a living from it. And he had to figure out how to grow it. ([The Lenfest Institute for Journalism](https://www.lenfestinstitute.org/solutions-resources/wtf-just-happened-today-rethinking-membership/))
-
- 5. **Combine an “editorially responsible” algorithm \+ political news, and you have Current Status**. “I see my role as a sort of reinforcement editor, ensuring that the good stuff is always percolating to the top. Sometimes the news isn’t as neat as an algorithm wants to make it.” ([Nieman Lab](http://www.niemanlab.org/2018/04/combine-an-editorially-responsible-algorithm-political-news-and-you-have-current-status/))
-
- 6. **100 Days of WTF Just Happened Today?** My constant companion in the past 100 days has been [What the Fuck Just Happened Today?](https://whatthefuckjusthappenedtoday.com/) Don’t let the crass title fool you. The site is the best daily collection of the news out there. My favorite feature: the site is currently run by one guy. Matt Kiser is both reading the news and hand-picking the stories you need to read. ([Rands in Repose](http://randsinrepose.com/archives/100-days-of-wtf-just-happened-today/))
-
- 7. **Your Guide to the Sprawling New Anti-Trump Resistance Movement**. An explosion of new activism offers a ray of hope in these dark political times. ([The Nation](https://www.thenation.com/article/your-guide-to-the-sprawling-new-anti-trump-resistance-movement/))
-
- 8. **“What The Fuck Just Happened Today?” Chronicles Our Daily Political Insanity**. In case you’re sick of just checking Twitter 24 hours a day, now you can get all your Trump news in one convenient package. ([FastCoExist](https://www.fastcompany.com/3068185/what-the-fck-just-happened-today-chronicles-our-daily-political-insanity))
-
- 9. **This email newsletter tries to make sense of Trump’s America**. A daily email newsletter has emerged to help keep everyone’s heads from spinning off trying to keep up. Most importantly it answers the perpetual question of “WTF just happened today?” ([Mashable](https://mashable.com/article/wtf-just-happened-today-email-newsletter))
-
-10. **Here’s What Therapists Want You To Know About Being Politically Active**. Catching up on the news via digests at the end of the day. Newsletters like “What The Fuck Just Happened Today?” or the BuzzFeed News newsletter (shameless plug) put everything in a convenient place so you don’t have to waste time surfing around. ([BuzzFeed](https://www.buzzfeed.com/annaborges/recharge-then-resist))
-
-11. **How to use tech to fight back in the Trump era**. In an attempt to make the daily fire hose of news and outrage slightly more manageable, The Daily WTF collects all of the most important events into a bearable daily newsletter. Plus, it has a pretty great novelty. ([Newsweek](http://www.newsweek.com/resistance-apps-562666))
-
-12. **Follow these newsletters by journalists and never miss a thing**. A very unique concept for a daily update of what’s happening and a very spot on title for it, given how crazy things can get these days. Matt Kiser makes sure that you receive a concise daily report of the most important events from the intense world of politics. Every piece of news is described with a single sentence, which pretty much summarizes the gist of it all. ([The Next Web](https://thenextweb.com/news/the-best-newsletters-by-journalists))
-
-13. **Seattle’s Tech Community Is Fighting Trump One Piece of Code at a Time**. Every day since Trump took office, Matt Kiser has woken up at six in the morning. He grabs a coffee and scans thousands of news sources on the administration’s latest exploits. It sounds like a shitty way to start the day. ([The Stranger](https://www.thestranger.com/features/2017/04/26/25106297/seattles-tech-community-is-fighting-trump-one-piece-of-code-at-a-time))
-
-14. **Popular newsletter uses open-source techniques to cover ‘WTF’ is happening with Trump**. Anybody can edit a file and submit a pull request. Kiser is essentially crowdsourcing a newsroom where readers can act as editors or fact-checkers and tweak pieces on WTF or create their own. Kiser hopes it will allow him to touch on more topics throughout the day. ([GeekWire](https://www.geekwire.com/2017/popular-newsletter-uses-open-source-techniques-cover-wtf-happening-trump/))
-
-15. **Why Donald Trump is the undisputed king of all media**. The US president dominates the news cycle like no one before him. Within four weeks Kiser’s chronicle of “the daily shock and awe in Trump’s America” had more than 48,000 newsletter subscribers and is now getting more than 2.5 million pageviews a month. ([Irish Times](http://www.irishtimes.com/culture/tv-radio-web/why-donald-trump-is-the-undisputed-king-of-all-media-1.2987823))
-
-16. **Don’t get raked, keep abreast of daily shock and awe from DC**. Kiser does an ace job of the old blogger skill called “curating.” His lists surface themes and suggest lines that might connect dots. His headlines make dark poetry of careering developments. ([Colorado Statesman](https://www.coloradostatesman.com/dont-get-raked-keep-abreast-with-darkly-entertaining-news-from-dc/))
-
-17. **11 Simple Ways to Change the World That Won’t Totally Overwhelm You**. This site has a funny name but a serious purpose: What The F-ck Just Happened Today recaps the news every single day with a thorough summary of the Trump administration’s actions. If your head spins from trying to follow the news cycle, then you need to bookmark What The F-ck Just Happened Today. ([Glamour](http://www.glamour.com/story/these-11-apps-make-it-super-easy-to-make-a-difference))
-
-18. **Happy Not My President’s Day weekend! Here’s where to show up & protest**. I feel like that’s the thought that crosses my mind every time I sit down to write this little intro, but the sheer amount of news is dizzying. It is important, however, to make sure you’re at least getting a taste of all the week’s events, even if you don’t have time to read 600 articles. I recommend site/newsletter What The Fuck Just Happened Today? produced by Matt Kiser for this exact purpose. ([Resistible](http://tinyletter.com/RESISTABLE/letters/happy-not-my-president-s-day-weekend-here-s-where-to-show-up-protest))
-
-19. **WTF Just Happened Today - daily newsletter**. Matt Kiser has started a good newsletter. ([Boing Boing](https://boingboing.net/2017/02/02/wtf-just-happened-today-dail.html))
-
-20. **WTF, Kiser?** Each day is posted with its overriding theme followed by a numbered and sourced list of WTF went down that day. It’s such a simple and logical approach to keeping tabs on the state of the country. ([Chico News and Review](https://www.newsreview.com/chico/arts-devo/content?oid=23646690))
-
-21. **Best New Website: Read “What The Fuck Just Happened” every day**. The site is really fun, in a sort of masochistic, sicko way. Unlike the White House and its staff, Kiser is dedicated to facts and to accuracy. Every entry on the site includes a link to the news source that first reported it. ([Liberal America](http://www.liberalamerica.org/2017/02/10/best-new-website-read-what-fck-happened-every-day/))
-
-22. **WTF Just Happened Today available as an Amazon skill**. The seven-day-a-week newsletter that summarizes the most important political stories of the day is now available on Amazon Echo! ([Boing Boing](https://boingboing.net/2017/04/12/wtf-just-happened-today-availa.html))
-
-23. **The Trump Era’s Anti-Anxiety Pill Is a Newsletter Out of Seattle**. It looks like facts, but it feels like coping. ([The Observer](https://observer.com/2017/05/what-the-fuck-just-happened-today/))
-
-24. **Is your journalism valuable?** You have to listen to the people you’re trying to serve to figure out what’s valuable to them. ([Poynter](https://www.poynter.org/news/your-journalism-valuable))
-
-25. **What your site can learn from 100 news organizations with robust membership programs**. Transparency and an approachable tone, as well as his efforts to engage with his audience, are central to his newsletter’s success. ([Membership Puzzle Project](https://membershippuzzle.org/articles-overview/what-your-site-can-learn))
-
-26. **How growing an independent news site is “like punk rock with a blog”**. “\[Engaging\] with people who take the effort to subscribe and give feedback creates trust, shows transparency, humanizes the whole thing. The more I show I’m just human, that I’m fallible, the more trust I build. That’s what it comes down to: creating value and building trust.” ([Membership Puzzle Project](https://membershippuzzle.org/articles-overview/punk-rock-with-a-blog))
-
-27. **WTF just happened today? Ask Matt Kiser.** “I think there’s a lot of people who give a shit about what’s going on and feel really shitty \[about not understanding\],” he says. “That’s a big part of what I do: Help them check in on their own terms.” ([The Evergrey](https://theevergrey.com/wtf-just-happened-today-trump-white-house-matt-kiser/))
-
-28. **Seattle man’s website helps millions figure out the daily tumult in the other Washington**. There was a break in the recent impeachment proceedings, which is why Matt Kiser could come out for coffee. He was temporarily free from the political news cycle for the first time in a very long time. “It feels like it never stops,” Kiser said. “I have an abundance of information and a scarcity of time.” ([The Seattle Times](https://www.seattletimes.com/seattle-news/seattle-mans-website-helps-millions-figure-out-the-daily-tumult-in-the-other-washington/))
-
-29. **Here’s how Matt Kiser runs What the Fuck Just Happened Today full time entirely on reader support**: Making a direct ask with a clear revenue target motivates contributions. Matt is radically transparent about his costs and his goals. Combining that approach with dedicated emails to readers means you can shake the trees more effectively and get some of that loose cash out! Your readers want you to convince them they should give you their money. ([Journalists Pay Themselves](https://journalistspaythemselves.com/p/this-newsletter-went-100-percent-reader-funded-in-90-days))
-
-30. **What does it take to have "members" of a news organization rather than consumers of its products?** “When you're member-funded, you're obligated to ask for permission when shifting course, because you work for your members – you're in the relationship business." ([Membership Puzzle Project](https://membershippuzzle.org/articles-overview/members-vs-consumers))
-
-31. **How to staff a membership strategy if you are a one-person newsroom**. “You’re in the relationship business, so approach your membership program with the same authenticity that earned you your reader’s attention in the first place." ([IJNet](https://ijnet.org/en/story/how-staff-membership-strategy-if-you-are-one-person-newsroom))
-
-32. **Heather Cox Richardson Offers a Break From the Media Maelstrom. It’s Working.** "In fact, the edgier younger sibling of Dr. Richardson’s “Letters From an American” is a newsletter that’s called “WTF Just Happened Today?” Its founder, Matt Kiser, says he reaches more than 200,000 subscribers a day and is supporting the business on voluntary contributions." ([New York Times](https://www.nytimes.com/2020/12/27/business/media/heather-cox-richardson-substack-boston-college.html))
-
-33. **Creator Spotlight: Matt Kiser of WTF Just Happened Today?** One of the OG independent newsletter creators on consistency, platform independence and stamina. ([Project C](https://projectc.substack.com/p/creator-spotlight-matt-kiser-of-wtf))
-
-34. **Pro Tips: Matt Kiser on keeping expenses down**. Plus: Why it's important to keep re-introducing yourself to the audience ([Project C](https://projectc.substack.com/p/pro-tips-matt-kiser-on-keeping-expenses))
-
-35. **Here are some of the ways you might be doing email newsletters inefficiently (and how to do them better)**. Matt Kiser of What the Fuck Just Happened Today formally started using the Osmosys tool about three weeks ago, but had been able to beta test and work with Yellow Brim on tailoring the way the tool works to suit his workflow earlier. ([Nieman Lab](https://www.niemanlab.org/2018/06/here-are-some-of-the-ways-you-might-be-doing-email-newsletters-inefficiently-and-how-to-do-them-better/))
-
-36. **WTF Just Happened Today and Reciprocal Relationships with Audiences**. On his community page, Matt Kiser describes WTF Just Happened Today as “your guide to the daily shock and awe in national politics.” What started as a personal project to chronicle the new administration has turned into Kiser’s full-time job, and he couldn’t do it without the help of his readers. ([Gather](https://letsgather.in/lightning-chats/lightning-chat-summary-wtf-just-happened-today-and-reciprocal-relationships-with-audiences/))
-
-37. **Reclaiming “the edge.”** Seek out content with a clear beginning and end, something you can pick up and put down at will. An NPR podcast has edges, for instance; an NPR livestream doesn’t. Kiser’s newsletter has edges, too, though the homepages he tabs through each morning are edgeless. Incidentally, this recommendation mirrors the advice of many psychologists, who encourage overwhelmed news consumers to establish “boundaries” around their media diets. ([Links I Would Gchat You If We Were Friends](https://linksiwouldgchatyou.substack.com/p/how-to-stay-sane-and-informed))
-
-38. **5 Career Questions: WTF Just Happened Today? founder on taking the leap to full time**. When Matt Kiser launched What The Fuck Just Happened Today?, the political news roundup was supposed to last the first 100 days of the Trump administration. Eight years later, WTFJHT is his full-time job. ([Explore Your Career River](https://www.mycareerriver.com/5-career-questions-wtf-just-happened-today-founder-on-taking-the-leap-to-full-time/))
-

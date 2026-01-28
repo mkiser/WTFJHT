@@ -13,7 +13,7 @@ collections:
     output: false
   wtf-is:
     title: WTFis
-    output: true
+    output: false
 defaults:
 - scope:
     path: ''
@@ -54,15 +54,7 @@ defaults:
       name: What The Fuck Just Happened Today?
       description: Your essential guide to the shock and awe in national politics.
         A sane, once-a-day newsletter helping normal people make sense of the news.
-      links:
-      - https://whatthefuckjusthappenedtoday.com/
-      - https://x.com/WTFJHT
-      - https://www.instagram.com/wtfjht/
-      - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
-      - https://www.threads.net/@wtfjht
-      - https://mastodon.social/@wtfjht
-      - https://www.facebook.com/wtfjht
-      - https://github.com/mkiser/WTFJHT
+      links: *site_social_links
 - scope:
     path: ''
     type: authors
@@ -73,15 +65,7 @@ defaults:
     email: 
     seo:
       type: Person
-      links:
-      - https://whatthefuckjusthappenedtoday.com/
-      - https://x.com/WTFJHT
-      - https://www.instagram.com/wtfjht/
-      - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
-      - https://www.threads.net/@wtfjht
-      - https://mastodon.social/@wtfjht
-      - https://www.facebook.com/wtfjht
-      - https://github.com/mkiser/WTFJHT
+      links: *site_social_links
 - scope:
     path: page
   values:
@@ -125,38 +109,33 @@ commonmark:
   - UNSAFE
   - FOOTNOTES
 incremental: true
-social:
-  name: Matt Kiser
-  links:
+# Social links - defined once and reused via YAML anchors
+_site_social_links: &site_social_links
+  - https://whatthefuckjusthappenedtoday.com/
+  - https://x.com/WTFJHT
+  - https://www.instagram.com/wtfjht/
+  - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
+  - https://www.threads.net/@wtfjht
+  - https://mastodon.social/@wtfjht
+  - https://www.facebook.com/wtfjht
+  - https://github.com/mkiser/WTFJHT
+
+_author_links: &author_links
   - https://twitter.com/matt_kiser
   - https://www.facebook.com/mattkiser
   - https://www.linkedin.com/in/mattkiser
   - https://github.com/mkiser
-  - https://whatthefuckjusthappenedtoday.com/
-  - https://x.com/WTFJHT
-  - https://www.instagram.com/wtfjht/
-  - https://bsky.app/profile/wtfjht.bsky.social
-  - https://www.threads.net/@wtfjht
-  - https://mastodon.social/@wtfjht
-  - https://www.facebook.com/wtfjht
+
+social:
+  name: Matt Kiser
+  links: *author_links
 logo: "/og-image.jpg?v=3"
 author:
   twitter: matt_kiser
   name: Matt Kiser
   url: https://whatthefuckjusthappenedtoday.com
   email: matt@whatthefuckjusthappenedtoday.com
-  links:
-  - https://twitter.com/matt_kiser
-  - https://www.facebook.com/mattkiser
-  - https://www.linkedin.com/in/mattkiser
-  - https://github.com/mkiser
-  - https://whatthefuckjusthappenedtoday.com/
-  - https://x.com/WTFJHT
-  - https://www.instagram.com/wtfjht/
-  - https://bsky.app/profile/wtfjht.bsky.social
-  - https://www.threads.net/@wtfjht
-  - https://mastodon.social/@wtfjht
-  - https://www.facebook.com/wtfjht
+  links: *author_links
 facebook:
   app_id: 601457263382211
   publisher: 1415262761838827

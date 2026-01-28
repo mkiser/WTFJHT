@@ -27,7 +27,7 @@
     <meta name="apple-mobile-web-app-title" content="WTFJHT" />
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/styles.css" type="text/css">
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/search.css" type="text/css">
-    <link rel="stylesheet" href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" type="text/css">
+    <link rel="stylesheet" href="https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" type="text/css">
     <style type="text/css">
     #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
     </style>
@@ -76,17 +76,6 @@
       gtag('config', 'G-P3G02CXQXW');
     </script>
     
-<!--     <script type="text/javascript">
-      (function(c) {
-        var script = document.createElement("script");
-        script.src = "https://js.memberful.com/embed.js";
-        script.onload = function() { Memberful.setup(c) };
-        document.head.appendChild(script);
-      })({
-        site: ["https://wtfjht.memberful.com"]
-      });
-    </script> -->
-
   </head>
   <body>
     <a href="#main-content" class="skip-link">Skip to main content</a>
@@ -230,8 +219,8 @@
       <!-- SEARCH -->
       <script src="https://cdn.jsdelivr.net/npm/minisearch@6.3.0/dist/umd/index.min.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js"></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js"></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js" defer></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js" defer></script>
       <!-- PWA SERVICE WORKER -->
       <script>
         window.addEventListener('load', function() {

@@ -77,7 +77,7 @@ New Year's Eve – December 31
 
 **Where do you draw the line? What is your AI policy?** I’m clear on the distinction between using AI to extend my personal capacity versus using AI to do the work for me.
 1. **What AI is NOT allowed to do**: (1) Research, write, or edit WTFJHT, (2) decide what’s news or replace my editorial judgment, (3) "fact check" my work, (4) or publish anything automatically without my review.
-2. **What I am willing to use AI for**: (1) Narrate the audio edition using a text-to-speech clone of my voice, (2) check for typos/grammar cleanup (i.e. spellcheck), (3) debug technical/code issues, (4) organize non-editorial business ideas.
+2. **What I am willing to use AI for**: (1) Narrate the audio edition using text-to-speech and a clone of my voice, (2) check for typos/grammar cleanup (i.e. spellcheck), (3) debug technical/code issues, (4) organize non-editorial business ideas.
 
 **Why didn't you hire a human voice actor for the podcast?** I did. For eight years, I paid a human to read the podcast. I paid them well, spending over $150,000 during that period to produce an audio edition. It generated no direct revenue and, ultimately, it wasn’t a financially viable way to run a small business. So I feel like I exhausted that avenue (for now, at least), and in Jan. 2025 I paused the podcast until I could find a sustainable way of publishing it regularly. In that time AI voice clone technology emerged. The choice was never between "Human Actor" and "AI Voice." The choice was between "AI Voice" or "No Audio Edition at all."
 

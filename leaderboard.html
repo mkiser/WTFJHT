@@ -1,0 +1,122 @@
+---
+layout: page
+title: Sources Leaderboard
+description: "Where WTFJHT gets its news: a breakdown of every external link by source."
+show_title: false
+---
+
+<div class="leaderboard-page">
+  <div class="leaderboard-header">
+    <h1>Sources Leaderboard</h1>
+    <p class="lead">Where WTFJHT gets its news. Every external link since 2017, ranked by how often each source appears.</p>
+  </div>
+
+  <div id="content" class="leaderboard-loading">Loading...</div>
+</div>
+
+<script>
+(function() {
+  fetch('/sources-leaderboard.json')
+    .then(function(r) { return r.json(); })
+    .then(render)
+    .catch(function() {
+      document.getElementById('content').innerHTML = '<p>Failed to load data.</p>';
+    });
+
+  function render(data) {
+    var html = '';
+
+    // Stats
+    html += '<div class="stats-row">';
+    html += '<div class="stat"><div class="stat-value">' + fmt(data.total_links) + '</div><div class="stat-label">External Links</div></div>';
+    html += '<div class="stat"><div class="stat-value">' + data.unique_domains + '</div><div class="stat-label">Unique Sources</div></div>';
+    html += '</div>';
+
+    // Year chart
+    var maxY = Math.max.apply(null, data.years.map(function(y) { return y.total; }));
+    html += '<div class="year-section"><h2>Links Per Year</h2>';
+    html += '<div class="year-chart">';
+    data.years.forEach(function(y) {
+      var h = Math.round(y.total / maxY * 100);
+      html += '<div class="year-col"><div class="year-bar" style="height:' + h + 'px" title="' + y.year + ': ' + fmt(y.total) + '"></div></div>';
+    });
+    html += '</div><div class="year-labels">';
+    data.years.forEach(function(y) {
+      var label = '\'' + y.year.slice(2);
+      if (y.year === '2026') label += ' <em>(YTD)</em>';
+      html += '<div class="year-label">' + label + '<strong>' + fmt(y.total) + '</strong></div>';
+    });
+    html += '</div></div>';
+
+    // Top sources
+    html += '<div class="sources-section"><h2>Top 20 Sources</h2>';
+    data.sources.forEach(function(s, i) {
+      var classes = 'source-item';
+      if (i < 3) classes += ' top-3 rank-' + (i + 1);
+      html += '<div class="' + classes + '">';
+      html += '<div class="source-rank">' + (i + 1) + '</div>';
+      html += '<div class="source-info"><div class="source-name">' + s.name + '</div><div class="source-domain">' + s.domain + '</div></div>';
+      html += '<div class="source-stats"><div class="source-pct">' + s.percent.toFixed(1) + '%</div><div class="source-count">' + fmt(s.count) + ' links</div></div>';
+      html += '<div class="source-sparkline">' + sparkline(s.yearly, data.years) + '</div>';
+      html += '</div>';
+    });
+    html += '</div>';
+
+    // Trends
+    html += '<div class="trends-section"><h2>Top 10 Over Time</h2>';
+    html += '<p class="note">Share of each year\'s total links</p>';
+    html += '<div class="trends-wrapper"><table class="trends-table"><thead><tr><th>Source</th>';
+    data.years.forEach(function(y) { html += '<th>\'' + y.year.slice(2) + '</th>'; });
+    html += '</tr></thead><tbody>';
+
+    data.sources.slice(0, 10).forEach(function(s) {
+      html += '<tr><td>' + s.name + '</td>';
+      var prev = null;
+      data.years.forEach(function(y) {
+        var pct = s.yearly[y.year] || 0;
+        var cls = '';
+        if (prev !== null && Math.abs(pct - prev) > 1.5) {
+          cls = pct > prev ? ' class="trend-up"' : ' class="trend-down"';
+        }
+        html += '<td' + cls + '>' + pct.toFixed(1) + '</td>';
+        prev = pct;
+      });
+      html += '</tr>';
+    });
+    html += '</tbody></table></div>';
+    html += '<div class="trends-legend"><span class="legend-item"><span class="legend-dot up"></span> Up &gt;1.5 pts from prior year</span><span class="legend-item"><span class="legend-dot down"></span> Down &gt;1.5 pts from prior year</span></div></div>';
+
+    // Footer
+    html += '<div class="leaderboard-footer">Sparklines show each source\'s share of links from 2017 → present, normalized to their own range to highlight trend shape. Data updated on each site build. Social media, Wikipedia, and non-news sites excluded.</div>';
+
+    document.getElementById('content').innerHTML = html;
+  }
+
+  function fmt(n) {
+    return n.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+  }
+
+  function sparkline(yearly, years) {
+    var values = years.map(function(y) { return yearly[y.year] || 0; });
+    var max = Math.max.apply(null, values);
+    var min = Math.min.apply(null, values);
+    var range = max - min || 1;
+
+    var w = 200;
+    var h = 40;
+    var pad = 4;
+
+    // Generate points
+    var points = values.map(function(v, i) {
+      var x = pad + (i / (values.length - 1)) * (w - pad * 2);
+      var y = h - pad - ((v - min) / range) * (h - pad * 2);
+      return [x.toFixed(1), y.toFixed(1)];
+    });
+
+    // Build SVG path
+    var d = 'M ' + points.map(function(p) { return p[0] + ' ' + p[1]; }).join(' L ');
+
+    return '<svg viewBox="0 0 ' + w + ' ' + h + '" preserveAspectRatio="none"><path d="' + d + '"/></svg>';
+  }
+})();
+</script>

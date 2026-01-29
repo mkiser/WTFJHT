@@ -84,6 +84,11 @@
       font-size: 0.9rem;
       transition: border-color 0.15s ease, background-color 0.15s ease;
 
+      // Prevent iOS Safari auto-zoom on focus (requires 16px minimum)
+      @media (max-width: 600px) {
+        font-size: 16px;
+      }
+
       &::placeholder {
         color: #666;
       }

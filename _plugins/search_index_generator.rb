@@ -26,7 +26,9 @@ end
 Jekyll::Hooks.register :site, :post_write do |site|
   Jekyll.logger.info "Search Index:", "Generating paragraph-level search index..."
 
-  records = []
+  posts = []      # Deduplicated post metadata
+  records = []    # Paragraphs with post index reference
+  post_index = {} # Map URL to post array index
   record_id = 0
 
   # Process posts in reverse chronological order (newest first)
@@ -54,6 +56,19 @@ Jekyll::Hooks.register :site, :post_write do |site|
     post_content = doc.at_css('.post-content')
     next unless post_content
 
+    # Add post to posts array if not already added
+    unless post_index.key?(url)
+      post_index[url] = posts.length
+      posts << {
+        'u' => url,
+        't' => title,
+        'd' => description,
+        'dt' => date,
+        'ts' => timestamp
+      }
+    end
+    current_post_idx = post_index[url]
+
     # Track position within post
     position = 0
 
@@ -74,8 +89,8 @@ Jekyll::Hooks.register :site, :post_write do |site|
       # Skip poll elements
       next if element.parent&.name == 'poll'
 
-      # Determine element type
-      element_type = element.name == 'p' ? 'p' : 'li'
+      # Determine element type (1 = paragraph, 0 = list item)
+      element_type = element.name == 'p' ? 1 : 0
 
       # Clean up the text content
       content = clean_text(text)
@@ -83,29 +98,21 @@ Jekyll::Hooks.register :site, :post_write do |site|
       # Skip if content is still too short after cleaning
       next if content.length < 20
 
-      records << {
-        'id' => "#{post.data['slug'] || post.basename_without_ext}-#{record_id}",
-        'url' => url,
-        'title' => title,
-        'description' => description,
-        'date' => date,
-        'timestamp' => timestamp,
-        'content' => content,
-        'type' => element_type,
-        'position' => position
-      }
+      # Compact record format: [postIndex, content, type]
+      records << [current_post_idx, content, element_type]
 
       record_id += 1
       position += 1
     end
   end
 
-  Jekyll.logger.info "Search Index:", "Generated #{records.length} records from #{site.posts.docs.length} posts"
+  Jekyll.logger.info "Search Index:", "Generated #{records.length} records from #{posts.length} posts"
 
-  # Create the index data
+  # Create the index data with deduplicated structure
   index_data = {
-    'records' => records,
-    'version' => 1,
+    'p' => posts,     # Post metadata array
+    'r' => records,   # Record arrays: [postIdx, content, type, position]
+    'v' => 2,         # Version 2 = deduplicated format
     'generated' => Time.now.utc.iso8601
   }
 
@@ -117,6 +124,16 @@ Jekyll::Hooks.register :site, :post_write do |site|
   end
 
   Jekyll.logger.info "Search Index:", "Wrote #{File.size(index_path)} bytes to search-index.json"
+
+  # Write version file for efficient cache checking
+  version_path = File.join(site.dest, 'search-version.json')
+  version_data = { 'generated' => index_data['generated'] }
+
+  File.open(version_path, 'w') do |f|
+    f.write(JSON.generate(version_data))
+  end
+
+  Jekyll.logger.info "Search Index:", "Wrote search-version.json"
 end
 
 def clean_text(text)

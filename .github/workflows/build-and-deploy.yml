@@ -26,7 +26,9 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Compress search index
-        run: gzip -9 _site/search-index.json
+        run: |
+          # Keep original for Cloudflare Brotli, create gzip fallback
+          gzip -9 -k _site/search-index.json
 
       - name: Deploy to S3
         uses: reggionick/s3-deploy@v4

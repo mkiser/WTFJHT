@@ -94,32 +94,58 @@
       });
   }
 
-  // Load index from cache or network
+  // Load index from cache or network (with version checking)
   function loadIndex() {
     return loadFromIndexedDB()
       .then(function(cached) {
-        if (cached) {
-          console.log('Search: Loaded from IndexedDB cache');
-          return cached;
+        if (cached && cached.generated) {
+          // Check if server has a newer version
+          return checkVersion(cached.generated)
+            .then(function(isStale) {
+              if (isStale) {
+                console.log('Search: Cache is stale, fetching fresh index');
+                return fetchIndex();
+              }
+              console.log('Search: Loaded from IndexedDB cache (version current)');
+              return cached;
+            })
+            .catch(function() {
+              // If version check fails, use cached data
+              console.log('Search: Version check failed, using cached data');
+              return cached;
+            });
         }
         return fetchIndex();
       });
   }
 
+  // Check if cached version is stale
+  function checkVersion(cachedGenerated) {
+    return fetch('/search-version.json', { cache: 'no-store' })
+      .then(function(response) {
+        if (!response.ok) throw new Error('Version file not found');
+        return response.json();
+      })
+      .then(function(data) {
+        return data.generated !== cachedGenerated;
+      });
+  }
+
   // Fetch index from network
   function fetchIndex() {
-    // Try compressed version first, fall back to uncompressed
-    return fetch('/search-index.json.gz')
+    // Try uncompressed first (Cloudflare serves Brotli automatically)
+    // Fall back to pre-compressed .gz for environments without Brotli
+    return fetch('/search-index.json')
       .then(function(response) {
-        if (!response.ok) throw new Error('Compressed index not found');
-        return response.blob().then(decompressGzip);
+        if (!response.ok) throw new Error('Index not found');
+        return response.json();
       })
       .catch(function() {
-        console.log('Search: Falling back to uncompressed index');
-        return fetch('/search-index.json')
+        console.log('Search: Falling back to gzip version');
+        return fetch('/search-index.json.gz')
           .then(function(response) {
-            if (!response.ok) throw new Error('Index not found');
-            return response.json();
+            if (!response.ok) throw new Error('Compressed index not found');
+            return response.blob().then(decompressGzip);
           });
       })
       .then(function(data) {

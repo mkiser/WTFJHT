@@ -18,7 +18,14 @@ self.onmessage = function(e) {
 
 // Initialize the search index
 function initIndex(data) {
-  allRecords = data.records;
+  // Handle both v1 (legacy) and v2 (deduplicated) formats
+  if (data.v === 2 || data.p) {
+    // V2 deduplicated format: expand records
+    allRecords = expandRecords(data);
+  } else {
+    // V1 legacy format: use records directly
+    allRecords = data.records;
+  }
 
   // Build lookup map
   allRecords.forEach(function(r) {
@@ -28,11 +35,38 @@ function initIndex(data) {
   // Initialize MiniSearch
   miniSearch = new MiniSearch({
     fields: ['content'],
-    storeFields: ['url', 'title', 'description', 'date', 'timestamp', 'content', 'type']
+    storeFields: ['id']  // Only store ID, lookup full record from recordMap
   });
   miniSearch.addAll(allRecords);
 
   self.postMessage({ type: 'ready' });
+}
+
+// Expand deduplicated v2 format into full records
+function expandRecords(data) {
+  var posts = data.p;
+  var compactRecords = data.r;
+  var expanded = [];
+
+  for (var i = 0; i < compactRecords.length; i++) {
+    var rec = compactRecords[i];
+    // rec = [postIndex, content, type]
+    var postIdx = rec[0];
+    var post = posts[postIdx];
+
+    expanded.push({
+      id: i,  // Use array index as ID
+      url: post.u,
+      title: post.t,
+      description: post.d,
+      date: post.dt,
+      timestamp: post.ts,
+      content: rec[1],
+      type: rec[2] === 1 ? 'p' : 'li'
+    });
+  }
+
+  return expanded;
 }
 
 // Perform search and return results

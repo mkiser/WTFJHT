@@ -55,14 +55,14 @@ defaults:
       description: Your essential guide to the shock and awe in national politics.
         A sane, once-a-day newsletter helping normal people make sense of the news.
       links:
-        - https://whatthefuckjusthappenedtoday.com/
-        - https://x.com/WTFJHT
-        - https://www.instagram.com/wtfjht/
-        - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
-        - https://www.threads.net/@wtfjht
-        - https://mastodon.social/@wtfjht
-        - https://www.facebook.com/wtfjht
-        - https://github.com/mkiser/WTFJHT
+      - https://whatthefuckjusthappenedtoday.com/
+      - https://x.com/WTFJHT
+      - https://www.instagram.com/wtfjht/
+      - https://bsky.app/profile/whatthefuckjusthappenedtoday.com
+      - https://www.threads.net/@wtfjht
+      - https://mastodon.social/@wtfjht
+      - https://www.facebook.com/wtfjht
+      - https://github.com/mkiser/WTFJHT
 - scope:
     path: ''
     type: authors
@@ -117,27 +117,24 @@ commonmark:
   - UNSAFE
   - FOOTNOTES
 incremental: true
-
 social:
   name: Matt Kiser
   links:
-    - https://twitter.com/matt_kiser
-    - https://www.facebook.com/mattkiser
-    - https://www.linkedin.com/in/mattkiser
-    - https://github.com/mkiser
-
+  - https://twitter.com/matt_kiser
+  - https://www.facebook.com/mattkiser
+  - https://www.linkedin.com/in/mattkiser
+  - https://github.com/mkiser
 logo: "/og-image.jpg?v=3"
-
 author:
   twitter: matt_kiser
   name: Matt Kiser
   url: https://whatthefuckjusthappenedtoday.com
   email: matt@whatthefuckjusthappenedtoday.com
   links:
-    - https://twitter.com/matt_kiser
-    - https://www.facebook.com/mattkiser
-    - https://www.linkedin.com/in/mattkiser
-    - https://github.com/mkiser
+  - https://twitter.com/matt_kiser
+  - https://www.facebook.com/mattkiser
+  - https://www.linkedin.com/in/mattkiser
+  - https://github.com/mkiser
 facebook:
   app_id: 601457263382211
   publisher: 1415262761838827

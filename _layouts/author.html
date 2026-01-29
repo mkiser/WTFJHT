@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 {% assign post_count = site.posts | where: 'author', page.title | size %}
 {% assign recent_posts = site.posts | where: 'author', page.title | slice: 0, 12 %}
 

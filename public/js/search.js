@@ -33,8 +33,15 @@
     return;
   }
 
-  // Initialize on first interaction
-  searchInput.addEventListener('focus', initSearch, { once: true });
+  // Initialize on first real user interaction
+  var focusHandler = function(e) {
+    // Only initialize on trusted user events, not programmatic focus
+    if (e.isTrusted) {
+      searchInput.removeEventListener('focus', focusHandler);
+      initSearch();
+    }
+  };
+  searchInput.addEventListener('focus', focusHandler);
   searchInput.addEventListener('input', debounce(onQueryChange, DEBOUNCE_MS));
 
   // Show/hide results

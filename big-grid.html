@@ -1,17 +1,18 @@
 ---
 title: The Big Grid.™
 description: A visualized history of every WTFJHT post since Day 1.
-layout: default
+layout: page
+show_title: false
 redirect_from: "/calendar/"
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
 ---
 
-<div class="calendar-page">
+<div class="board-header">
   <h1>The Big Grid.™</h1>
-
-  <p class="calendar-subtitle"> A visualized history of the {{ site.posts | size }} WTFJHT posts since launching {{ site.time | date: "%Y" | minus: 2017 | plus: 0 }}+ years ago on Jan. 20, 2017.</p>
+  <p class="lead">A visualized history of the {{ site.posts | size }} WTFJHT posts since launching {{ site.time | date: "%Y" | minus: 2017 | plus: 0 }}+ years ago on Jan. 20, 2017.</p>
+</div>
 
   <div class="calendar-legend">
     <span class="legend-item"><span class="legend-box legend-filled"></span> Post</span>
@@ -42,8 +43,7 @@ image:
     </div>
   </div>
 
-  <div id="calendar-tooltip" class="calendar-tooltip"></div>
-</div>
+<div id="calendar-tooltip" class="calendar-tooltip"></div>
 
 <script>
 (function() {

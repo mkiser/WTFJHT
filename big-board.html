@@ -1,18 +1,19 @@
 ---
 layout: page
-title: Sources Leaderboard
+title: The Big Board.™
 description: "Where WTFJHT gets its news: a breakdown of every external link by source."
 show_title: false
+redirect_from:
+  - "/leaderboard/"
+  - "/sources/"
 ---
 
-<div class="leaderboard-page">
-  <div class="leaderboard-header">
-    <h1>Sources Leaderboard</h1>
-    <p class="lead">Where WTFJHT gets its news. Every external link since 2017, ranked by how often each source appears.</p>
-  </div>
-
-  <div id="content" class="leaderboard-loading">Loading...</div>
+<div class="board-header">
+  <h1>The Big Board.™</h1>
+  <p class="lead">Where WTFJHT gets its news. Every external link since 2017, ranked by how often each source has appeared over time.</p>
 </div>
+
+<div id="leaderboard-content" class="leaderboard-loading">Loading...</div>
 
 <script>
 (function() {
@@ -20,7 +21,7 @@ show_title: false
     .then(function(r) { return r.json(); })
     .then(render)
     .catch(function() {
-      document.getElementById('content').innerHTML = '<p>Failed to load data.</p>';
+      document.getElementById('leaderboard-content').innerHTML = '<p>Failed to load data.</p>';
     });
 
   function render(data) {
@@ -87,9 +88,9 @@ show_title: false
     html += '<div class="trends-legend"><span class="legend-item"><span class="legend-dot up"></span> Up &gt;1.5 pts from prior year</span><span class="legend-item"><span class="legend-dot down"></span> Down &gt;1.5 pts from prior year</span></div></div>';
 
     // Footer
-    html += '<div class="leaderboard-footer">Sparklines show each source\'s share of links from 2017 → present, normalized to their own range to highlight trend shape. Data updated on each site build. Social media, Wikipedia, and non-news sites excluded.</div>';
+    html += '<div class="leaderboard-footer">Sparklines show each source\'s share of links from 2017 to present, normalized to their own range to highlight the trend shape. Data is updated after every new edition of WTFJHT. Social media, Wikipedia, and other non-news sites are excluded.</div>';
 
-    document.getElementById('content').innerHTML = html;
+    document.getElementById('leaderboard-content').innerHTML = html;
   }
 
   function fmt(n) {

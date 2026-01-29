@@ -1,0 +1,106 @@
+// ==========================================================================
+// Dashboard page styles (The Big Dumb Dashboard)
+// ==========================================================================
+
+.dashboard-section {
+  background-color: rgba(49, 49, 49, 0.03);
+  padding: 1.5rem 1rem;
+  margin: 1.5rem 0;
+
+  h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid $gray-2;
+  }
+}
+
+.counter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.counter-card {
+  background: #fff;
+  padding: 1rem;
+  border-left: 4px solid $red;
+  transition: box-shadow 0.25s;
+
+  &:hover {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  &.trump { border-left-color: $red; }
+  &.biden { border-left-color: #268bd2; }
+  &.election { border-left-color: #90a959; }
+  &.wtf { border-left-color: $gray-5; }
+}
+
+.counter-number {
+  font-size: 2rem;
+  font-weight: 600;
+  color: $gray-5;
+  display: block;
+  line-height: 1.25;
+}
+
+.counter-label {
+  color: $gray-3;
+  font-size: 0.8em;
+  margin-top: 0.5rem;
+  display: block;
+
+  a {
+    color: $gray-3;
+    text-decoration: underline;
+    text-decoration-color: rgba(0, 0, 0, 0.2);
+
+    &:hover {
+      color: $gray-5;
+    }
+  }
+}
+
+.counter-meta {
+  font-size: 0.75em;
+  color: $gray-4;
+  font-style: italic;
+  margin-top: 0.5rem;
+  display: block;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 6px;
+  background: $gray-1;
+  border-radius: 3px;
+  margin-top: 0.75rem;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: $red;
+  transition: width 0.3s ease;
+
+  &.biden { background: #268bd2; }
+  &.election { background: #90a959; }
+}
+
+// Mobile
+@media (max-width: 600px) {
+  .counter-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .counter-number {
+    font-size: 1.75rem;
+  }
+
+  .dashboard-section {
+    padding: 1rem;
+    margin: 1rem 0;
+  }
+}

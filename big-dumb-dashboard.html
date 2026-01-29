@@ -1,137 +1,42 @@
 ---
 title: The Big Dumb Dashboard.™
 layout: page
+show_title: false
 sitemap: false
 redirect_from:
 - "/day/"
+- "/dumb-dashboard/"
 ---
 
-<style>
-.time-dashboard {
-  max-width: 40rem;
-  margin: 0 auto;
-  padding: 1rem;
-}
-
-.time-section {
-  background-color: rgba(49, 49, 49, 0.03);
-  border-radius: 0;
-  padding: 1.5rem 1rem;
-  margin: 1.5rem 0;
-}
-
-.time-section h2 {
-  margin-top: 0;
-  margin-bottom: 1rem;
-  color: #313131;
-  font-size: 1.6rem;
-  font-weight: 600;
-  border-bottom: 1px solid #e5e5e5;
-  padding-bottom: 0.5rem;
-}
-
-.counter-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
-.counter-card {
-  background: #fff;
-  padding: 1rem;
-  border-left: 4px solid #e74c3c;
-  transition: all 0.25s;
-}
-
-.counter-card:hover {
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-}
-
-.counter-card.trump { border-left-color: #e74c3c; }
-.counter-card.biden { border-left-color: #268bd2; }
-.counter-card.election { border-left-color: #90a959; }
-.counter-card.wtf { border-left-color: #313131; }
-
-.counter-number {
-  font-size: 2rem;
-  font-weight: 600;
-  color: #313131;
-  display: block;
-  line-height: 1.25;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-}
-
-.counter-label {
-  color: #767676;
-  font-size: 0.8em;
-  margin-top: 0.5rem;
-  display: block;
-}
-
-.counter-meta {
-  font-size: 0.75em;
-  color: #9a9a9a;
-  font-style: italic;
-  margin-top: 0.5rem;
-  display: block;
-}
-
-.progress-bar {
-  width: 100%;
-  height: 6px;
-  background: #f9f9f9;
-  border-radius: 3px;
-  margin-top: 0.75rem;
-  overflow: hidden;
-}
-
-.progress-fill {
-  height: 100%;
-  background: #e74c3c;
-  transition: width 0.3s ease;
-}
-
-.progress-fill.biden { background: #268bd2; }
-.progress-fill.election { background: #90a959; }
-
-@media (max-width: 600px) {
-  .counter-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .counter-number {
-    font-size: 1.75rem;
-  }
-}
-</style>
-  <p class="lead" style="font-style: italic;">A counting service for those still keeping track.</p>
-<div class="time-dashboard">
+<div class="board-header">
+  <h1>The Big Dumb Dashboard.™</h1>
+  <p class="lead">A counting service for those still keeping track.</p>
+</div>
   <!-- Main Counters -->
-<!--   <div class="time-section">
+<!--   <div class="dashboard-section">
     <h2>🗓️ Today's Numbers</h2>
     <div class="counter-grid" id="main-counters"></div>
   </div>
  -->
 
   <!-- Trump Administration -->
-  <div class="time-section">
+  <div class="dashboard-section">
     <h2>🔴 Trump Administration</h2>
     <div class="counter-grid" id="trump-counters"></div>
   </div>
 
   <!-- Election Countdowns -->
-  <div class="time-section">
+  <div class="dashboard-section">
     <h2>🗳️ Election Countdowns</h2>
     <div class="counter-grid" id="election-counters"></div>
   </div>
 
-  <!-- Historical Markers -->
-  <div class="time-section">
-    <h2>📍 Historical Markers</h2>
-    <div class="counter-grid" id="historical-counters"></div>
-  </div>
+<!-- Historical Markers -->
+<div class="dashboard-section">
+  <h2>📍 Historical Markers</h2>
+  <div class="counter-grid" id="historical-counters"></div>
 </div>
+
 <script>
 (async function() {
   const tz = 'America/Los_Angeles';

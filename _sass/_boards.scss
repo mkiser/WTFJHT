@@ -1,0 +1,106 @@
+// ==========================================================================
+// Shared styles for "Big Board" pages (Leaderboard, Dashboard, Grid)
+// ==========================================================================
+
+// Common header pattern
+.board-header {
+  margin-bottom: 2rem;
+
+  h1 {
+    color: $gray-5;
+    margin-bottom: 0.5rem;
+  }
+
+  .lead {
+    color: $gray-3;
+    font-size: 1.1rem;
+    margin-bottom: 0;
+  }
+}
+
+// Stats row - used by leaderboard and dashboard
+.stats-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: rgba(49,49,49,0.03);
+  border-radius: 4px;
+  margin-bottom: 2rem;
+}
+
+.stat {
+  text-align: center;
+  flex: 1;
+}
+
+.stat-value {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: $gray-5;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: $gray-3;
+  margin-top: 0.25rem;
+}
+
+// Section headers
+.board-section h2,
+.dashboard-section h2,
+.year-section h2,
+.sources-section h2,
+.trends-section h2 {
+  font-size: 1.25rem;
+  color: $gray-5;
+  margin-bottom: 1rem;
+  font-weight: 600;
+}
+
+// Footer note pattern
+.board-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid $gray-2;
+  font-size: 0.8rem;
+  color: $gray-4;
+}
+
+// Mobile
+@media (max-width: 600px) {
+  .board-header {
+    h1 {
+      font-size: 1.75rem;
+    }
+
+    .lead {
+      font-size: 1rem;
+    }
+  }
+
+  .stats-row {
+    padding: 1rem;
+    gap: 0.5rem;
+  }
+
+  .stat-value {
+    font-size: 1.35rem;
+  }
+
+  .stat-label {
+    font-size: 0.7rem;
+  }
+
+  .board-section h2,
+  .dashboard-section h2,
+  .year-section h2,
+  .sources-section h2,
+  .trends-section h2 {
+    font-size: 1.1rem;
+  }
+
+  .board-footer {
+    font-size: 0.7rem;
+  }
+}

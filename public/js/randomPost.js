@@ -1,8 +1,13 @@
-function randomPost(){
-   $.getJSON("/api/v1/random.json", function(data) {
-    console.log("[search.json loaded for random posts]");
-
-    var i = parseInt(Math.random() * data.length);
-    location.href = data[i].href;
+function randomPost() {
+  fetch('/api/v1/random.json')
+    .then(function(response) {
+      return response.json();
+    })
+    .then(function(data) {
+      var i = Math.floor(Math.random() * data.length);
+      location.href = data[i].href;
+    })
+    .catch(function(error) {
+      console.error('Error loading random posts:', error);
     });
-};
+}

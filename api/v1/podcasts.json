@@ -1,19 +1,6 @@
 ---
 ---
-
-[
-  {% for ep in site.podcasts reversed %}
-  {
-    "title"     : {{ ep.title | jsonify }},
-    "desc"      : {{ ep.content | jsonify }},
-    "href"      : "{{ site.cloudfront_url }}{{ ep.file }}",
-    "length"    : "{{ ep.length }}",
-    "duration"  : "{{ ep.duration }}",
-    "post"      : "{{ ep.post }}",
-    "pubDate"   : "{{ ep.date | date: '%a, %d %b %Y %T %z' }}",
-    "fullDate"  : "{{ ep.date }}",
-    "date"      : "{{ ep.date | date: '%Y-%m-%d' }}"
-  }
-  {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
+{
+  "deprecated": true,
+  "message": "The podcast is currently on hiatus. Check /podcasts/ for updates."
+}

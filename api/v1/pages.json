@@ -1,0 +1,10 @@
+---
+---
+{
+  "deprecated": true,
+  "message": "This endpoint has been removed. Contact matt@whatthefuckjusthappenedtoday.com if you need access.",
+  "alternatives": {
+    "posts": "/api/v1/posts.json",
+    "search": "/search-index.json"
+  }
+}

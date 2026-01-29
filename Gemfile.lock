@@ -23,7 +23,6 @@ GEM
     ffi (1.17.1-x86_64-linux-gnu)
     ffi (1.17.1-x86_64-linux-musl)
     forwardable-extended (2.6.0)
-    htmlentities (4.3.4)
     http_parser.rb (0.8.0)
     httparty (0.22.0)
       csv
@@ -65,9 +64,6 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    jekyll_pages_api (0.1.6)
-      htmlentities (~> 4.3)
-      jekyll (>= 2.0, < 4.0)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     liquid (4.0.4)
@@ -145,7 +141,6 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll_pages_api
   liquid-c
   logger
   ostruct

@@ -14,7 +14,7 @@ gem "ostruct"
 
 group :jekyll_plugins do
   gem 'jekyll-include-cache'
-  gem 'jekyll_pages_api'
+  # gem 'jekyll_pages_api'  # Removed - was generating 14MB /api/v1/pages.json with ~100 hits/month
   gem 'jekyll-commonmark'
 end
 

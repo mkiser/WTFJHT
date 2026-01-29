@@ -2,7 +2,7 @@
 title: Matt Kiser
 job_title: Founder & Publisher
 email: matt@whatthefuckjusthappenedtoday.com
-image: /public/author-imgs/matt.jpg
+image: https://whatthefuckjusthappenedtoday.com/public/author-imgs/matt.jpg
 tagline: Creator of What The Fuck Just Happened Today? – a daily guide to the shock and awe in national politics, read by over 200,000 people.
 
 # Education for schema

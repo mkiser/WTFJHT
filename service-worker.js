@@ -1,14 +1,21 @@
 const CACHE_NAME = "wtfjht-lite-cache-v3";
 
 const urlsToCache = [
-  "/web-app-manifest-192x192.png?v=3",
-  "/web-app-manifest-512x512.png?v=3"
+  "https://whatthefuckjusthappenedtoday.com/web-app-manifest-192x192.png?v=3",
+  "https://whatthefuckjusthappenedtoday.com/web-app-manifest-512x512.png?v=3"
 ];
 
 self.addEventListener("install", event => {
   self.skipWaiting();
   event.waitUntil(
-    caches.open(CACHE_NAME).then(cache => cache.addAll(urlsToCache))
+    caches.open(CACHE_NAME).then(cache => {
+      // Cache each URL individually, ignoring failures (e.g., in local dev)
+      return Promise.all(
+        urlsToCache.map(url =>
+          cache.add(url).catch(() => {})
+        )
+      );
+    })
   );
 });
 
@@ -17,9 +24,9 @@ self.addEventListener("activate", event => {
 });
 
 self.addEventListener("fetch", event => {
-  const requestPath = new URL(event.request.url).pathname;
+  const requestUrl = event.request.url;
 
-  if (urlsToCache.includes(requestPath)) {
+  if (urlsToCache.some(url => requestUrl.includes(new URL(url).pathname))) {
     event.respondWith(
       caches.match(event.request).then(response => {
         return response || fetch(event.request);

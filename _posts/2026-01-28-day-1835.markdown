@@ -1,7 +1,7 @@
 ---
 title: Day 1835
 date: 2026-01-28 16:40:00 -08:00
-description: "More relaxed."
+description: More relaxed.
 image: "/uploads/day1835trump.jpg"
 todayInOneSentence: FBI agents executed a search warrant at Fulton County’s election
   facility near Atlanta, seeking records related to the 2020 election; Senate Democrats

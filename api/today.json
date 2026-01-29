@@ -1,5 +1,6 @@
 ---
 ---
+
 {
   "deprecated": true,
   "message": "This endpoint has been removed. Use /api/v1/posts.json instead.",

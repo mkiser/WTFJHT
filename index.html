@@ -65,7 +65,8 @@ seo:
         <span class="post-meta__author">By <a href="{{ author.url }}">{{ author.title }}</a></span>
         {% endif %}
         <div class="post-meta__details">
-          <time class="post-meta__date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-m/%-d/%Y" }}</time>
+          {% assign time_check = page.date | date: "%H:%M" %}
+          <time class="post-meta__date" datetime="{{ page.date | date_to_xmlschema }}">{% if time_check == "00:00" %}{{ page.date | date: "%b %-d, %Y" }}{% else %}{{ page.date | date: "%b %-d, %Y, %-I:%M%P" }} PT{% endif %}</time>
         </div>
         <p class="post-meta__read-sentence">{% include read_time_sentence.html %}</p>
       </div>

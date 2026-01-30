@@ -209,6 +209,13 @@ footer {
   }
 }
 
+// Tablet footer - when 3rd column wraps, align left
+@media (max-width: 768px) {
+  footer .ft-main {
+    justify-content: flex-start;
+  }
+}
+
 // Mobile footer
 @media (max-width: 600px) {
   footer {

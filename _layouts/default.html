@@ -268,6 +268,13 @@
     <!-- Dropdown menus (share widget & more menu) -->
     <script>
     (function() {
+      // Show native share button if supported
+      if (navigator.share) {
+        document.querySelectorAll('.share-widget__native').forEach(function(btn) {
+          btn.removeAttribute('hidden');
+        });
+      }
+
       // Close all dropdown cards
       function closeAllCards() {
         document.querySelectorAll('.share-widget__card.is-open, .more-menu__card.is-open').forEach(function(card) {
@@ -323,6 +330,22 @@
             setTimeout(function() { span.textContent = original; }, 1500);
           }).catch(function() {
             prompt('Copy this link:', url);
+          });
+          return;
+        }
+
+        // Native share
+        var nativeShareBtn = e.target.closest('[data-action="native-share"]');
+        if (nativeShareBtn && navigator.share) {
+          e.preventDefault();
+          var widget = nativeShareBtn.closest('.share-widget');
+          var url = widget.dataset.shareUrl;
+          var title = widget.dataset.shareTitle || document.title;
+          navigator.share({ title: title, url: url }).then(function() {
+            closeAllCards();
+          }).catch(function(err) {
+            // User cancelled or error - silently ignore
+            if (err.name !== 'AbortError') console.log('Share failed:', err);
           });
           return;
         }

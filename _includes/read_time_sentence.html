@@ -21,4 +21,4 @@
 {%- assign minutes_whole = minutes_decimal | floor -%}
 {%- assign minutes_fraction = minutes_decimal | minus: minutes_whole -%}
 
-Today's edition is {{ comma_separated_words }}&nbsp;words, {% if minutes_whole < 1 and minutes_fraction < 0.5 %}a&nbsp;1&#8209;minute&nbsp;read{% else %}{% if minutes_fraction < 0.25 %}a&nbsp;{{ minutes_whole }}&#8209;minute&nbsp;read{% elsif minutes_fraction < 0.75 %}a&nbsp;{{ minutes_whole }}½&#8209;minute&nbsp;read{% else %}a&nbsp;{{ minutes_whole | plus: 1 }}&#8209;minute&nbsp;read{% endif %}{% endif %}.
+This edition is {{ comma_separated_words }}&nbsp;words, {% if minutes_whole < 1 and minutes_fraction < 0.5 %}a&nbsp;1&#8209;minute&nbsp;read{% else %}{% if minutes_fraction < 0.25 %}a&nbsp;{{ minutes_whole }}&#8209;minute&nbsp;read{% elsif minutes_fraction < 0.75 %}a&nbsp;{{ minutes_whole }}½&#8209;minute&nbsp;read{% else %}a&nbsp;{{ minutes_whole | plus: 1 }}&#8209;minute&nbsp;read{% endif %}{% endif %}.

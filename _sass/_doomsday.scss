@@ -1,0 +1,133 @@
+// WTFJHT Government Shutdown Timer Styles
+
+.shutdown-timer {
+    background: #222;
+    color: #f9f9f9;
+    text-align: center;
+    margin: 0;
+    padding: 1.5rem 1rem;
+    border-top: 1px solid #777;
+    border-bottom: 1px solid #777;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
+    min-height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}
+
+.shutdown-status {
+    color: #e74c3c;
+    margin: 0 0 1.5rem 0;
+    font-size: 1.6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 1.25;
+}
+
+.timer-display {
+    font-family: Menlo, Monaco, 'Courier New', monospace;
+    font-size: 3.5rem;
+    font-weight: bold;
+    color: #f9f9f9;
+    margin: 1rem 0 1.5rem 0;
+    letter-spacing: 2px;
+    line-height: 1;
+}
+
+.impact-message {
+    color: #767676;
+    font-size: 0.85rem;
+    margin: 0;
+    font-weight: 400;
+    line-height: 1.4;
+    max-width: 500px;
+    word-spacing: 0.1em;
+    hyphens: none;
+}
+
+// Animation Keyframes
+@keyframes text-pulse {
+    0%, 100% { color: #e74c3c; }
+    50% { color: #c0392b; }
+}
+
+@keyframes urgent-background {
+    0%, 100% {
+        background-color: #222;
+        border-top-color: #777;
+        border-bottom-color: #777;
+    }
+    50% {
+        background-color: #2a1a1a;
+        border-top-color: #e74c3c;
+        border-bottom-color: #e74c3c;
+    }
+}
+
+// State Classes
+.final-countdown .shutdown-status {
+    animation: text-pulse 1s ease-in-out infinite;
+}
+
+.final-countdown .timer-display {
+    color: #e74c3c !important;
+}
+
+.shutdown-active {
+    animation: urgent-background 3s ease-in-out infinite;
+}
+
+.shutdown-active .shutdown-status {
+    animation: text-pulse 2s ease-in-out infinite;
+}
+
+.shutdown-active .timer-display {
+    color: #ff4444 !important;
+}
+
+// Responsive Design
+@media (max-width: 834px) {
+    .shutdown-timer {
+        min-height: 180px !important;
+        padding: 1.2rem 0.5rem !important;
+    }
+
+    .shutdown-status {
+        font-size: 1.4rem !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .timer-display {
+        font-size: 2.5rem !important;
+        margin: 0.8rem 0 1.2rem 0 !important;
+    }
+
+    .impact-message {
+        font-size: 0.8rem !important;
+        max-width: 90% !important;
+    }
+}
+
+@media (max-width: 425px) {
+    .timer-display {
+        font-size: 2rem !important;
+        letter-spacing: 1px !important;
+    }
+
+    .shutdown-status {
+        font-size: 1.2rem !important;
+    }
+}
+
+// Respect reduced motion preferences
+@media (prefers-reduced-motion: reduce) {
+    .final-countdown .shutdown-status,
+    .shutdown-active,
+    .shutdown-active .shutdown-status {
+        animation: none;
+    }
+}

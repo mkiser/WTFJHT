@@ -122,9 +122,7 @@
         </div>
       </header>
 
-      {%- comment -%}
-       {% include_cached doomsday.html date="Sep 30, 2025 23:59:59 -0400" %}
-      {%- endcomment -%}
+      {% include_cached doomsday.html date="Jan 31, 2026 00:00:00 -0500" %}
 
       <main id="main-content">
         <!-- ALGOLIA -->
@@ -221,6 +219,7 @@
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js"></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js" defer></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js" defer></script>
       <!-- PWA SERVICE WORKER -->
       <script>
         window.addEventListener('load', function() {

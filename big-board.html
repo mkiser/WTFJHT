@@ -37,17 +37,18 @@ redirect_from:
     var maxY = Math.max.apply(null, data.years.map(function(y) { return y.total; }));
     html += '<div class="year-section"><h2>Links Per Year</h2>';
     html += '<div class="year-chart">';
-    data.years.forEach(function(y) {
+    data.years.forEach(function(y, i) {
       var h = Math.round(y.total / maxY * 100);
-      html += '<div class="year-col"><div class="year-bar" style="height:' + h + 'px" title="' + y.year + ': ' + fmt(y.total) + '"></div></div>';
+      var ytd = y.year === '2026' ? ' (YTD)' : '';
+      html += '<div class="year-col" data-index="' + i + '" data-year="' + y.year + '" data-count="' + fmt(y.total) + ytd + '"><div class="year-bar" style="height:' + h + 'px"></div></div>';
     });
     html += '</div><div class="year-labels">';
-    data.years.forEach(function(y) {
+    data.years.forEach(function(y, i) {
       var label = '\'' + y.year.slice(2);
       if (y.year === '2026') label += ' <em>(YTD)</em>';
-      html += '<div class="year-label">' + label + '<strong>' + fmt(y.total) + '</strong></div>';
+      html += '<div class="year-label" data-index="' + i + '">' + label + '<strong>' + fmt(y.total) + '</strong></div>';
     });
-    html += '</div></div>';
+    html += '</div><div class="year-tooltip"></div></div>';
 
     // Top sources
     html += '<div class="sources-section"><h2>Top 20 Sources</h2>';
@@ -91,6 +92,73 @@ redirect_from:
     html += '<div class="leaderboard-footer">Sparklines show each source\'s share of links from 2017 to present, normalized to their own range to highlight the trend shape. Data is updated after every new edition of WTFJHT. Social media, Wikipedia, and other non-news sites are excluded.</div>';
 
     document.getElementById('leaderboard-content').innerHTML = html;
+
+    // Mobile tooltip for year chart
+    initYearTooltip();
+  }
+
+  function initYearTooltip() {
+    var tooltip = document.querySelector('.year-tooltip');
+    var cols = document.querySelectorAll('.year-col');
+    var labels = document.querySelectorAll('.year-label');
+    var activeIndex = null;
+
+    function showTooltip(index) {
+      var col = cols[index];
+      var label = labels[index];
+      if (!col || !tooltip) return;
+
+      activeIndex = index;
+      col.classList.add('active');
+      label.classList.add('active');
+
+      tooltip.textContent = col.dataset.year + ': ' + col.dataset.count + ' links';
+      tooltip.classList.add('visible');
+
+      // Position above the label
+      var labelRect = label.getBoundingClientRect();
+      var sectionRect = document.querySelector('.year-section').getBoundingClientRect();
+      tooltip.style.left = (labelRect.left + labelRect.width / 2 - sectionRect.left) + 'px';
+    }
+
+    function hideTooltip() {
+      if (activeIndex !== null) {
+        cols[activeIndex].classList.remove('active');
+        labels[activeIndex].classList.remove('active');
+      }
+      activeIndex = null;
+      tooltip.classList.remove('visible');
+    }
+
+    // Handle clicks on columns and labels
+    cols.forEach(function(col) {
+      col.addEventListener('click', function(e) {
+        e.stopPropagation();
+        var idx = parseInt(col.dataset.index);
+        if (activeIndex === idx) {
+          hideTooltip();
+        } else {
+          hideTooltip();
+          showTooltip(idx);
+        }
+      });
+    });
+
+    labels.forEach(function(label) {
+      label.addEventListener('click', function(e) {
+        e.stopPropagation();
+        var idx = parseInt(label.dataset.index);
+        if (activeIndex === idx) {
+          hideTooltip();
+        } else {
+          hideTooltip();
+          showTooltip(idx);
+        }
+      });
+    });
+
+    // Dismiss on click elsewhere
+    document.addEventListener('click', hideTooltip);
   }
 
   function fmt(n) {

@@ -6,6 +6,7 @@
 // Year chart
 .year-section {
   margin-bottom: 2.5rem;
+  position: relative;
 }
 
 .year-chart {
@@ -62,6 +63,30 @@
     font-style: normal;
     font-size: 0.55rem;
     color: $gray-4;
+  }
+}
+
+// Year tooltip (mobile tap to show)
+.year-tooltip {
+  position: absolute;
+  bottom: 0;
+  transform: translateX(-50%);
+  background: $gray-5;
+  color: #fff;
+  padding: 0.35rem 0.6rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  font-weight: 500;
+  white-space: nowrap;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s, visibility 0.15s;
+  pointer-events: none;
+  z-index: 10;
+
+  &.visible {
+    opacity: 1;
+    visibility: visible;
   }
 }
 
@@ -254,6 +279,15 @@
     gap: 2px;
   }
 
+  .year-col {
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+
+    &.active .year-bar {
+      opacity: 0.7;
+    }
+  }
+
   .year-labels {
     gap: 2px;
   }
@@ -261,6 +295,12 @@
   .year-label {
     font-size: 0.55rem;
     line-height: 1.2;
+    cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+
+    &.active {
+      color: $gray-5;
+    }
 
     strong {
       display: none;

@@ -249,6 +249,105 @@ div.topic-date {
   margin-top: 2.15em;
 }
 
+// Highlight-to-share tooltip
+.share-tooltip {
+  position: absolute;
+  z-index: 1000;
+  display: flex;
+  gap: 0.25rem;
+  padding: 0.4rem 0.5rem;
+  background: #222;
+  border-radius: 6px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  animation: tooltipIn 0.15s ease;
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid #222;
+  }
+
+  button {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.3rem 0.5rem;
+    background: transparent;
+    border: none;
+    color: #fff;
+    font-size: 0.8rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.15s ease;
+
+    &:hover {
+      background: rgba(255,255,255,0.15);
+    }
+
+    svg {
+      width: 14px;
+      height: 14px;
+    }
+  }
+}
+
+@keyframes tooltipIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Toast notification
+.share-toast {
+  position: fixed;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 0.75em 1.5em;
+  background: #333;
+  color: #fff;
+  font-size: 0.9em;
+  border-radius: 6px;
+  z-index: 1000;
+  animation: toastIn 0.3s ease;
+
+  &.fade-out {
+    animation: toastOut 0.3s ease forwards;
+  }
+}
+
+@keyframes toastIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+@keyframes toastOut {
+  from {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(-50%) translateY(1rem);
+  }
+}
+
 
 // Historical posts
 .historical-posts div {

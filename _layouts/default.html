@@ -236,7 +236,7 @@
         });
       </script>
 
-      {% if page.layout == 'post' %} 
+      {% if page.layout == 'post' %}
         <!-- ANCHORS FOR POSTS -->
         <script>
           document.addEventListener("DOMContentLoaded", function(event) {
@@ -248,6 +248,153 @@
             anchors.add('.post-content > p, .post > p, .post li, .post blockquote p, .post-content h3');
             anchors.remove('.post ol li, div.post.archive p.archive-year, div.post.archive ul.archive-months li, .tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
           });
+        </script>
+
+        <!-- Highlight-to-share -->
+        <script>
+        (function() {
+          var tooltip = null;
+          var selectedText = '';
+
+          // Create tooltip element
+          function createTooltip() {
+            var el = document.createElement('div');
+            el.className = 'share-tooltip';
+            el.innerHTML =
+              '<button type="button" data-action="copy">' +
+                '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>' +
+                'Copy' +
+              '</button>' +
+              '<button type="button" data-action="share">' +
+                '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" x2="12" y1="2" y2="15"/></svg>' +
+                'Share' +
+              '</button>';
+            return el;
+          }
+
+          // Show tooltip above selection
+          function showTooltip(rect) {
+            if (!tooltip) {
+              tooltip = createTooltip();
+              document.body.appendChild(tooltip);
+            }
+
+            var top = rect.top + window.scrollY - tooltip.offsetHeight - 10;
+            var left = rect.left + window.scrollX + (rect.width / 2) - (tooltip.offsetWidth / 2);
+
+            // Keep tooltip within viewport
+            left = Math.max(10, Math.min(left, window.innerWidth - tooltip.offsetWidth - 10));
+
+            tooltip.style.top = top + 'px';
+            tooltip.style.left = left + 'px';
+          }
+
+          // Hide tooltip
+          function hideTooltip() {
+            if (tooltip && tooltip.parentNode) {
+              tooltip.parentNode.removeChild(tooltip);
+              tooltip = null;
+            }
+            selectedText = '';
+          }
+
+          // Get URL for selection (try to find anchor, fallback to page URL)
+          function getShareUrl() {
+            var selection = window.getSelection();
+            if (!selection.rangeCount) return window.location.href;
+
+            var node = selection.anchorNode;
+            while (node && node !== document.body) {
+              if (node.nodeType === 1 && node.id) {
+                return window.location.origin + window.location.pathname + '#' + node.id;
+              }
+              node = node.parentNode;
+            }
+            return window.location.href;
+          }
+
+          // Show toast
+          function showToast(message) {
+            var existing = document.querySelector('.share-toast');
+            if (existing) existing.remove();
+
+            var toast = document.createElement('div');
+            toast.className = 'share-toast';
+            toast.textContent = message;
+            document.body.appendChild(toast);
+            setTimeout(function() {
+              toast.classList.add('fade-out');
+              setTimeout(function() { toast.remove(); }, 300);
+            }, 1500);
+          }
+
+          // Handle text selection
+          document.addEventListener('mouseup', function(e) {
+            // Ignore if clicking inside tooltip
+            if (e.target.closest('.share-tooltip')) return;
+
+            setTimeout(function() {
+              var selection = window.getSelection();
+              var text = selection.toString().trim();
+
+              // Only show tooltip for selections within post content
+              if (text.length > 5) {
+                var range = selection.getRangeAt(0);
+                var container = range.commonAncestorContainer;
+
+                // Check if selection is within post content
+                while (container && container !== document.body) {
+                  if (container.classList && container.classList.contains('post-content')) {
+                    selectedText = text;
+                    showTooltip(range.getBoundingClientRect());
+                    return;
+                  }
+                  container = container.parentNode;
+                }
+              }
+
+              hideTooltip();
+            }, 10);
+          });
+
+          // Handle tooltip button clicks
+          document.addEventListener('click', function(e) {
+            var btn = e.target.closest('.share-tooltip button');
+            if (!btn) return;
+
+            var action = btn.dataset.action;
+            var url = getShareUrl();
+            var quotedText = '"' + selectedText + '"';
+            if (quotedText.length > 280) {
+              quotedText = '"' + selectedText.substring(0, 250) + '..."';
+            }
+            // Combine text + URL for better compatibility
+            var fullText = quotedText + '\n\n' + url;
+
+            if (action === 'share' && navigator.share) {
+              navigator.share({
+                text: fullText
+              }).catch(function(err) {
+                if (err.name !== 'AbortError') console.log('Share failed:', err);
+              });
+            } else {
+              navigator.clipboard.writeText(fullText).then(function() {
+                showToast('Copied to clipboard!');
+              }).catch(function() {
+                prompt('Copy this:', fullText);
+              });
+            }
+
+            hideTooltip();
+            window.getSelection().removeAllRanges();
+          });
+
+          // Hide tooltip on scroll or escape
+          document.addEventListener('scroll', hideTooltip);
+          document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') hideTooltip();
+          });
+        })();
         </script>
       {% elsif page.layout == 'page' %}
         <!-- ANCHORS FOR PAGES -->
@@ -359,6 +506,7 @@
       document.addEventListener('keydown', function(e) {
         if (e.key === 'Escape') closeAllCards();
       });
+
     })();
     </script>
 

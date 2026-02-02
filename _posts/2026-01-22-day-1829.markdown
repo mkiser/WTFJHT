@@ -23,6 +23,10 @@ podcast:
   file: "/uploads/Day 1829 Exploit the violence.mp3"
   duration: '00:05:15'
   length: 5055259
+tags:
+  - immigration
+  - national-security
+  - lawsuit
 ---
 
 1/ **An internal ICE memo signed by acting director Todd Lyons authorized immigration officers to forcibly enter a person’s home to arrest someone with a final order of removal using only an administrative warrant**, according to a copy of the memo and a whistleblower complaint shared with Congress. The May 2025 document instructs officers to knock and identify themselves, operate between 6 a.m. and 10 p.m., give occupants a “reasonable chance to act lawfully,” and then use a “necessary and reasonable amount of force” if refused entry. The memo claims DHS counsel found the practice consistent with the Fourth Amendment and immigration law, but cites no case law or statutory authority. And, according to the whistleblower disclosure, the directive directly conflicts with longstanding ICE and DHS training materials that administrative warrants don’t authorize nonconsensual entry into a residence. ([Associated Press](https://apnews.com/article/ice-arrests-warrants-minneapolis-trump-00d0ab0338e82341fd91b160758aeb2d) / [ABC News](https://abcnews.go.com/US/ice-memo-allows-agents-enter-homes-judicial-warrant/story?id=129436766) / [NBC News](https://www.nbcnews.com/news/us-news/ice-policy-officers-enter-homes-immigration-without-judicial-warrant-rcna255305) / [CBS News](https://www.cbsnews.com/news/immigration-officers-power-enter-homes-without-judge-warrant/) / [Washington Post](https://www.washingtonpost.com/immigration/2026/01/22/ice-memo-enter-homes-warrant/) / [The Hill](https://thehill.com/homenews/5700861-trump-immigration-enforcement-sweeping-power-memo/))

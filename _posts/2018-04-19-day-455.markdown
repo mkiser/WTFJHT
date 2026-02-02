@@ -5,6 +5,10 @@ categories:
 - trump
 description: Clean up the mess.
 image: "/uploads/455.jpg"
+tags:
+  - mueller-investigation
+  - sanctions
+  - national-security
 ---
 
 1/ **Rod Rosenstein told Trump last week that he isn't a target of any part of Robert Mueller's investigation**. Following the meeting, Trump told his advisers that it's not the right time to remove Rosenstein or Mueller since he's not a target of the probe. Yesterday, at Mar-a-Lago, Trump told reporters "they've been saying I'm going to get rid of \[Rosenstein and Mueller\] for the last three months, four months, five months." He added: "And they're still here." While Trump may not officially be a target now, he could become one in the future. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-04-19/rosenstein-said-to-tell-trump-he-s-not-target-in-mueller-probe))

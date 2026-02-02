@@ -14,6 +14,10 @@ todayInOneSentence: The U.S. reported an average of about 14,500 daily coronavir
   order on New York Times executives over an attempt to obtain four NYT reporters'
   email logs from Google; and Earth's atmospheric carbon dioxide hit levels not seen
   in more than 4 million years.
+tags:
+  - covid
+  - voting-rights
+  - jan-6
 ---
 
 1/ **The U.S. reported an average of about 14,500 daily coronavirus cases over the past week** with about 960,000 vaccinations administered each day. While more than half of Americans have received at least one vaccine dose, less than a quarter of Black Americans have received their first shot. 42% of Americans overall are fully vaccinated. ([CNBC](https://www.cnbc.com/2021/06/07/covid-19-cases-deaths-vaccinations-daily-update.html) / [Politico](https://www.politico.com/news/2021/06/07/vaccine-equity-black-americans-biden-491973))

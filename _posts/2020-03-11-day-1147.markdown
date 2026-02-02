@@ -10,6 +10,9 @@ todayInOneSentence: The World Health Organization declared the coronavirus outbr
   the U.S. is "going to get worse"; since mid-January, the White House has ordered
   all meetings discussing coronavirus to be classified; the Dow entered a bear market;
   and Trump will address the nation at 9 p.m. ET.
+tags:
+  - covid
+  - immigration
 ---
 
 1/ **The World Health Organization declared the coronavirus outbreak a pandemic**, saying “We are deeply concerned both by the alarming levels of spread and severity and by the alarming levels of inaction." The declaration came as the number of known cases surpassed 120,000 worldwide with at least 4,369 deaths, and has spread to more than 100 countries. ([Politico](https://www.politico.com/news/2020/03/11/who-declares-coronavirus-outbreak-a-pandemic-125799) / [NBC News](https://www.nbcnews.com/health/health-news/coronavirus-outbreak-labeled-pandemic-world-health-organization-n1155741) / [Washington Post](https://www.washingtonpost.com/world/2020/03/11/coronavirus-live-updates/) / [New York Times](https://www.nytimes.com/2020/03/11/world/coronavirus-news.html))

@@ -13,6 +13,9 @@ todayInOneSentence: Trump was briefed about the whistleblower complaint before l
   and allegations that Ukraine, not Russia, had interfered in the 2016 election; and
   The Trump Organization reported conflicting information to New York City property
   tax officials and a lender who arranged financing for Trump Tower in Manhattan.
+tags:
+  - impeachment
+  - judiciary
 ---
 
 1/ **Trump was briefed about the whistleblower complaint before lifting the hold on military aid to Ukraine in September**. White House lawyers discussed the complaint with Trump in late august – after the inspector general for the intelligence community concluded that the administration needed to send it to Congress – and explained they were trying to determine whether they were legally required to give it to lawmakers. The two lawyers, Pat Cipollone and John Eisenberg, told Trump they would ask the Justice Department's Office of Legal Counsel to determine whether they had to disclose the complaint. A week later, the OLC concluded that the administration did not have to hand it over. In early September (either Sept. 7 or 9), Trump told Gordon Sondland, the U.S. ambassador to the European Union, that he was not seeking "a quid pro quo" with the Ukrainian government by withholding the aid. Three House committees opened an investigation into Trump's dealings with Ukraine on Sept. 9, and the administration lifted the freeze on $391 million in security assistance to Ukraine on Sept. 11. ([New York Times](https://www.nytimes.com/2019/11/26/us/politics/trump-whistle-blower-complaint-ukraine.html) / [Wall Street Journal](https://www.wsj.com/articles/trump-was-briefed-on-whistleblower-complaint-before-ukraine-aid-released-11574827150) / [CNN](https://edition.cnn.com/2019/11/27/politics/trump-impeachment-revelations/))

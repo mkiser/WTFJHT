@@ -1,30 +1,61 @@
 ---
-title: Archive
+title: Browse the Archive
 layout: default
+permalink: /archive/
 image:
   twitter: "/public/wtfjht-t.jpg"
   facebook: "/public/wtfjht-f.jpg"
 ---
 
-<h1 style="text-align: center;">Archive of All {{ site.posts | size | number_with_commas }} Posts</h1>
+<div class="browse-archive">
+  <h1 class="browse-archive__heading">Browse the Archive</h1>
+  <p class="browse-archive__summary">{{ site.posts | size | number_with_commas }} posts since January 2017</p>
 
-<p style="text-align: center; margin-bottom: 1.5rem;">
-  <a href="/calendar/">View as calendar heatmap &rarr;</a>
-</p>
+  <p class="browse-archive__calendar">
+    <a href="/big-grid/">View as calendar heatmap &rarr;</a>
+  </p>
 
-{% include archive-nav.html %}
+  <section class="browse-archive__section">
+    <h2 class="browse-archive__section-title">By Date</h2>
+    {% assign years = site.archives | where:"type", "year" %}
+    {% for year in years reversed %}
+      <div class="browse-archive__year">
+        <a href="{{ year.url }}" class="browse-archive__year-link">{{ year.posts[0].date | date:"%Y" }}</a>
+        {% assign months = site.archives | where:"type", "month" %}
+        <span class="browse-archive__months">
+        {%- assign first_month = true -%}
+        {%- for month in months reversed -%}
+          {%- assign monthYear = month.posts[0].date | date:"%Y" -%}
+          {%- assign yearYear = year.posts[0].date | date:"%Y" -%}
+          {%- if monthYear == yearYear -%}
+            {%- unless first_month -%}<span class="browse-archive__sep"> · </span>{%- endunless -%}
+            <a href="{{ month.url }}" class="browse-archive__month">{{ month.posts[0].date | date:"%b" }}</a>
+            {%- assign first_month = false -%}
+          {%- endif -%}
+        {%- endfor -%}
+        </span>
+      </div>
+    {% endfor %}
+  </section>
 
-<div class="posts">
-  <article class="post">
-  {% for post in site.posts %}
-    <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}:
-      <span class="post-small">{{ post.description }}</span></a>
-    </h2>
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
-       {{ post.date | date: "%m/%d/%Y" }}
-  </time>
-  {% endfor %} 
-  </article>
-</div> 
+  <section class="browse-archive__section">
+    <h2 class="browse-archive__section-title">By Topic</h2>
+    {% assign sorted_tags = site.tags | sort %}
+    <ul class="browse-archive__tags">
+      {% for tag in sorted_tags %}
+        {% assign tag_name = tag[0] %}
+        {% assign tag_posts = tag[1] %}
+        {% assign tag_words = tag_name | split: '-' %}
+        {% assign capitalized_words = '' | split: '' %}
+        {% for word in tag_words %}
+          {% assign cap_word = word | capitalize %}
+          {% assign capitalized_words = capitalized_words | push: cap_word %}
+        {% endfor %}
+        {% assign tag_display = capitalized_words | join: ' ' %}
+        <li class="browse-archive__tag">
+          <a href="/tags/{{ tag_name }}/">{{ tag_display }} <span class="browse-archive__tag-count">{{ tag_posts | size }}</span></a>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>

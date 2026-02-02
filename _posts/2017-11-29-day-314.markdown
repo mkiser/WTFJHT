@@ -5,6 +5,10 @@ categories:
 - trump
 description: 'Wrong. '
 image: "/uploads/314.jpg"
+tags:
+  - mueller-investigation
+  - national-security
+  - disinformation
 ---
 
 1/ **Trump retweeted three anti-Muslim videos on Twitter**, which were initially shared by a far-right British activist who has previously been charged in the UK with "religious aggravated harassment." The unverified videos, posted by Jayda Fransen, the deputy leader of Britain First, depict purported Muslims committing acts of violence and were titled: "Muslim migrant beats up Dutch boy on crutches!" "Muslim Destroys a Statue of Virgin Mary!" and "Islamist mob pushes teenage boy off roof and beats him to death!" Theresa May, the British prime minister, said Trump was "wrong" to share the videos, while Sarah Huckabee Sanders defended the tweets as part of a conversation about the need for national security and military spending. ([New York Times](https://www.nytimes.com/2017/11/29/us/politics/trump-anti-muslim-videos-jayda-fransen.html) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/11/29/trump-retweets-inflammatory-and-unverified-anti-muslim-videos/) / [CNN](https://www.cnn.com/2017/11/29/politics/donald-trump-retweet-jayda-fransen/index.html))

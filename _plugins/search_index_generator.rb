@@ -5,6 +5,7 @@
 require 'jekyll'
 require 'json'
 require 'nokogiri'
+require 'yaml'
 
 module Jekyll
   class SearchIndexGenerator < Generator
@@ -25,6 +26,14 @@ end
 # Use a hook that runs after the site is written
 Jekyll::Hooks.register :site, :post_write do |site|
   Jekyll.logger.info "Search Index:", "Generating paragraph-level search index..."
+
+  # Load tag taxonomy for indexing
+  tag_taxonomy_path = File.join(site.source, '_data', 'tag_taxonomy.yml')
+  tag_taxonomy = YAML.safe_load(File.read(tag_taxonomy_path))
+  all_tags = tag_taxonomy.values.flatten
+  tag_to_idx = all_tags.each_with_index.to_h
+
+  Jekyll.logger.info "Search Index:", "Loaded #{all_tags.length} tags from taxonomy"
 
   posts = []      # Deduplicated post metadata
   records = []    # Paragraphs with post index reference
@@ -59,12 +68,15 @@ Jekyll::Hooks.register :site, :post_write do |site|
     # Add post to posts array if not already added
     unless post_index.key?(url)
       post_index[url] = posts.length
+      # Get tag indices for this post
+      post_tags = (post.data['tags'] || []).map { |t| tag_to_idx[t] }.compact
       posts << {
         'u' => url,
         't' => title,
         'd' => description,
         'dt' => date,
-        'ts' => timestamp
+        'ts' => timestamp,
+        'g' => post_tags
       }
     end
     current_post_idx = post_index[url]
@@ -111,8 +123,9 @@ Jekyll::Hooks.register :site, :post_write do |site|
   # Create the index data with deduplicated structure
   index_data = {
     'p' => posts,     # Post metadata array
-    'r' => records,   # Record arrays: [postIdx, content, type, position]
-    'v' => 2,         # Version 2 = deduplicated format
+    'r' => records,   # Record arrays: [postIdx, content, type]
+    'g' => all_tags,  # Tag lookup array
+    'v' => 3,         # Version 3 = with tags
     'generated' => Time.now.utc.iso8601
   }
 

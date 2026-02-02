@@ -5,6 +5,10 @@ categories:
 - trump
 description: 'Back to work. '
 image: "/uploads/343.jpg"
+tags:
+  - mueller-investigation
+  - disinformation
+  - voting-rights
 ---
 
 1/ **Robert Mueller is investigating whether the Trump campaign and the RNC coordinated their voter outreach using Russian-acquired information**. Russian hackers [stole](http://time.com/4828306/russian-hacking-election-widespread-private-data/) voter information from election databases in several states in 2016. Mueller's prosecutors want to know if the Trump campaign used that information to target voters in key swing states and determine if the joint RNC-Trump campaign data operation effort was related to the activities of Russian trolls and bots aimed at influencing the election. Jared Kushner was in charge of the campaign's digital operation and has recently searched for a crisis public relations firm to handle press inquiries. ([Yahoo News](https://finance.yahoo.com/news/mueller-probe-outgrows-witch-hunt-phase-100045988.html) / [Business Insider](http://www.businessinsider.com/mueller-questions-rnc-digital-operation-trump-campaign-russia-2017-12))

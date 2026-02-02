@@ -12,6 +12,10 @@ todayInOneSentence: 'Biden stood behind his decision to withdraw U.S. forces fro
   and Pelosi says she wants to pass the infrastructure bill and the broader budget
   framework simultaneously. '
 author: Joe Amditis
+tags:
+  - foreign-policy
+  - covid
+  - infrastructure
 ---
 
 1/ **Biden said he stands behind his decision to withdraw from Afghanistan after the Taliban regained control over the country.** During an address from the White House, Biden said the U.S. mission in Afghanistan was always “narrowly focused on counterterrorism, not counterinsurgency or nation-building." Biden also said he did not move to evacuate people sooner to avoid a "crisis of confidence." ([Axios](https://www.axios.com/afghanistan-biden-taliban-speech-545742c8-085b-474f-b43e-20b5a9c5e625.html) / [NPR](https://www.npr.org/2021/08/16/1028086877/biden-is-returning-to-the-white-house-to-give-an-address-on-afghanistan) / [Washington Post](https://www.washingtonpost.com/politics/biden-afghanistan-pullout-defensive/2021/08/15/fbcda2d8-fdd4-11eb-ba7e-2cf966e88e93_story.html))

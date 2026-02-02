@@ -9,6 +9,10 @@ todayInOneSentence: Scott Pruitt resigned from the EPA; Charles Schumer urged Tr
   to nominate Judge Merrick Garland to replace Justice Anthony Kennedy; Trump asked
   his advisers last August why the U.S. couldn't invade Venezuela; and Trump hired
   former Fox News executive Bill Shine to lead his communications team.
+tags:
+  - resignation
+  - nomination
+  - foreign-policy
 ---
 
 1/ **Scott Pruitt resigned from the EPA** following months of controversies regarding his spending, ethics and management at the agency. Andrew Wheeler will take over as acting administrator. In his resignation letter, Pruitt blamed "unrelenting attacks" on himself and his family. ([New York Times](https://www.nytimes.com/2018/07/05/climate/scott-pruitt-epa-trump.html) / [Washington Post](https://www.washingtonpost.com/news/energy-environment/wp/2018/07/05/embattled-epa-chief-scott-pruitt-resigns/) / [The Hill](http://thehill.com/policy/energy-environment/395667-embattled-epa-head-pruitt-resigns) / [Vox](https://www.vox.com/platform/amp/2018/7/5/17538086/scott-pruitt-resignation-why-letter))

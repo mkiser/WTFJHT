@@ -12,6 +12,9 @@ todayInOneSentence: 'Trump – again – downplayed the severity of the coronavi
   coming in contact with a confirmed carrier of the coronavirus;  and a federal appeals
   court granted House Democrats permission to access grand jury material from Robert
   Mueller’s Russia investigation. '
+tags:
+  - covid
+  - economy
 ---
 
 1/ **Trump – again – downplayed the severity of the coronavirus epidemic, saying "everything is working out" and that "it will go away, just stay calm."** There have been more than 800 cases of coronavirus in the U.S., including 27 deaths. And, despite markets showing continued volatility following Wall Street's worst day since the 2008 financial crisis, Trump suggested that “The consumer has never been in a better position than they are right now.” ([Washington Post](https://www.washingtonpost.com/business/2020/03/10/markets-economy-coronavirus-live-updates/) / [New York Times](https://www.nytimes.com/2020/03/10/business/stock-market-today.html))

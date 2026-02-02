@@ -5,6 +5,10 @@ categories:
 - trump
 description: Ready, larger, and more lethal.
 image: "/uploads/389.jpg"
+tags:
+  - national-security
+  - infrastructure
+  - lgbtq-rights
 ---
 
 1/ **Rachel Brand quit the Justice Department in part over fears that she'd have to take over the Russia investigation** if Trump fired Deputy Attorney General Rod Rosenstein. The Justice Department's No. 3 attorney had been unhappy with her job for months, telling friends that she felt overwhelmed and unsupported in her job, primarily because four of the 13 divisions she oversaw as the associate attorney general remained unfilled. ([NBC News](https://www.nbcnews.com/politics/justice-department/justice-department-official-brand-leaves-partly-over-fear-she-might-n847156))

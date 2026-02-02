@@ -5,6 +5,10 @@ categories:
 - trump
 description: Leverage.
 image: "/uploads/407.jpg"
+tags:
+  - mueller-investigation
+  - tariffs
+  - disinformation
 ---
 
 1/ **A Kremlin-linked Russian politician spent six years building leverage and connections in order to influence the NRA and gain access to American politics**. Alexander Torshin, a Putin ally, also claimed that his ties to the NRA afforded him access to Trump. Robert Mueller's team is investigating whether Torshin, who serves as the deputy governor of the Bank of Russia, illegally funneled money to the NRA in order to help the Trump campaign in the 2016 presidential election. ([NPR](https://www.npr.org/2018/03/01/590076949/depth-of-russian-politicians-cultivation-of-nra-ties-revealed))

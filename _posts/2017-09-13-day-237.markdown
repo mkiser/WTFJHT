@@ -6,6 +6,9 @@ categories:
 description: Even lower.
 image: "/uploads/237.jpg"
 author: Clayton Aldern
+tags:
+  - mueller-investigation
+  - voting-rights
 ---
 
 1/ **Congressional Democrats told special counsel Robert Mueller that Michael Flynn failed to disclose a summer 2015 Middle East trip** to broker a Saudi–Russian nuclear power deal. Upon returning to the States, the Democrats say, Flynn omitted his contacts with foreign nationals during his reapplication for security clearance, which includes paperwork and an FBI interview. ([CNN](http://www.cnn.com/2017/09/13/politics/democrats-mueller-flynn-middle-east-trip-disclosure/index.html))

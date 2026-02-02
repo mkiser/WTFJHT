@@ -5,6 +5,9 @@ categories:
 - trump
 description: Gag order.
 image: "/uploads/363.jpg"
+tags:
+  - mueller-investigation
+  - government-shutdown
 ---
 
 1/ **Trump accused Russia of helping North Korea evade sanctions** and claimed that Pyongyang is getting "closer every day" to being able to deliver a long-range missile to the United States. Russian tankers were caught supplying fuel to North Korea on at least three occasions in recent months. North Korea requires imported fuel to keep its intercontinental ballistic missile and nuclear program functioning. "Russia is not helping us at all with North Korea," Trump said. ([Reuters](https://www.reuters.com/article/us-usa-trump-exclusive/exclusive-trump-says-russia-helping-north-korea-skirt-sanctions-pyongyang-getting-close-on-missile-idUSKBN1F62KO))

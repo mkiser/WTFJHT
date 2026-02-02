@@ -14,6 +14,11 @@ todayInOneSentence: 'FBI Director Christopher Wray warned that Chinese hackers a
   he were found guilty of a crime; 50% of voters said they vote for Biden if the presidential
   election were held today; and Trump and his MAGA allies have declared a “holy war”
   on Taylor Swift. '
+tags:
+  - national-security
+  - israel-palestine
+  - economy
+  - media
 ---
 
 1/ **FBI Director Christopher Wray warned that Chinese hackers are preparing to “wreak havoc and cause real-world harm” to critical U.S. infrastructure**, including water treatment plants, electrical grids, oil and natural gas pipelines, and transportation systems. Wray, appearing before the House Select Committee on the Chinese Communist Party, argued that “there has been far too little public focus” that Chinese hackers are targeting U.S. infrastructure, adding: “And the risk that poses to every American requires our attention — now." During congressional testimony, Jen Easterly, director of the U.S. Cybersecurity and Infrastructure Security Agency, said: “This is a world where a major crisis halfway across the planet could well endanger the lives of Americans here at home through the disruption of our pipelines, the severing of our telecommunications, the pollution of our water facilities, the crippling of our transportation modes—all to ensure they can incite societal panic and chaos and to deter our ability to marshal military might and civilian will.” ([NBC News](https://www.nbcnews.com/politics/national-security/fbi-director-warn-chinese-hackers-aim-wreak-havoc-us-critical-infrastr-rcna136524) / [Wall Street Journal](https://www.wsj.com/politics/national-security/u-s-disables-chinese-hacking-operation-that-targeted-critical-infrastructure-184bb407?mod=hp_lead_pos2) / [CNN](https://www.cnn.com/2024/01/31/politics/china-hacking-infrascture-fbi-director-christopher-wray/index.html))

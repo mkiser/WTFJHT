@@ -12,6 +12,9 @@ todayInOneSentence: A federal appeals court blocked Trump's “Remain in Mexico�
   major U.S. stock indexes suffered their worst weekly decline since the 2008 financial
   crisis; and a federal appeals court ruled that former White House counsel Donald
   McGahn does not have to comply with a subpoena seeking his testimony.
+tags:
+  - immigration
+  - covid
 ---
 
 1/ **A federal appeals court blocked Trump's “Remain in Mexico” immigration policy**, which required people applying for asylum at the border to wait in Mexico while their claims for protection were reviewed. The court ruled that the policy “is invalid in its entirety due to its inconsistency with” federal law, and “should be enjoined in its entirety.” Some 59,000 people have been sent back to Mexico since January 2019. The Ninth Circuit Court of Appeals also issued a separate ruling that upheld a lower court's block on an administration policy denying asylum to those who crossed the southern border illegally. ([Washington Post](https://www.washingtonpost.com/immigration/trump-remain-in-mexico-halted-federal-court/2020/02/28/87bbf85e-e481-11e9-b403-f738899982d2_story.html) / [New York Times](https://www.nytimes.com/2020/02/28/us/migrants-court-remain-in-mexico-mpp-injunction.html) / [ABC News](https://abcnews.go.com/Politics/wireStory/court-temporarily-halts-trumps-remain-mexico-policy-69286717) / [CNN](https://www.cnn.com/2020/02/28/politics/asylum-seekers-mexico-appeals-court/) / [Reuters](https://www.reuters.com/article/us-usa-immigration-mexico/u-s-appeals-court-blocks-trump-policy-forcing-migrants-to-wait-in-mexico-idUSKCN20M2SC))

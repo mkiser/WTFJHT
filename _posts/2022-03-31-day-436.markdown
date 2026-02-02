@@ -13,6 +13,10 @@ todayInOneSentence: 'Senators reached a bipartisan deal "in principle" for $10 b
   6 attack, which was not reflected in the official presidential call log; and a federal
   judge ruled that sections of Florida''s new election law were unconstitutional and
   racially motivated. '
+tags:
+  - covid
+  - energy
+  - jan-6
 ---
 
 1/ **Senators reached a bipartisan deal "in principle" for $10 billion in new Covid-19 funding**. The scaled-back compromise, however, is less than half the White House’s original $22.5 billion request. Lawmakers hope Congress can approve the legislation next week before leaving for the two-week April recess. ([New York Times](https://www.nytimes.com/live/2022/03/31/world/covid-19-mandates-cases-vaccine/senators-near-a-deal-to-slash-the-stalled-covid-aid-package-to-10-billion) / [CNN](https://www.cnn.com/2022/03/31/politics/covid-relief-negotiations-congress-mitt-romney/index.html) / [ABC News](https://abcnews.go.com/Politics/wireStory/mcconnell-covid-spending-package-shrink-10b-83785608))

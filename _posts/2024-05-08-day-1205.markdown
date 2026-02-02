@@ -11,6 +11,10 @@ todayInOneSentence: 'A Georgia court agreed to hear Trump’s appeal of a decisi
   to build a new artificial intelligence center in Wisconsin as evidence of a “historic
   boom” in U.S. manufacturing; and a Los Angeles man launched an independent campaign
   for president after discovering a dead worm in his brain. '
+tags:
+  - indictment
+  - economy
+  - presidential-election
 ---
 
 1/ **A Georgia court agreed to hear Trump’s appeal of a decision allowing Fulton County District Attorney Fani Willis to continue the election interference case involving Trump and others**. The decision makes it unlikely that the case will go to trial before the November election. In March, Judge Scott McAfee declined to remove Willis following revelations that she was engaged in a romantic relationship with a member of her legal team. McAfee ruled that Willis could keep the case if Nathan Wade resign, which he did a few hours later. Nevertheless, nearly six weeks later the Georgia Court of Appeals “granted” a request for appeal and ordered Trump and his co-defendants to file a “notice of appeal” within 10 days. ([Washington Post](https://www.washingtonpost.com/national-security/2024/05/08/georgia-appeals-court-fani-willis-trump/) / [NPR](https://www.npr.org/2024/05/08/1249920941/fani-wade-disqualification-appeal-trump-georgia-case) / [Associated Press](https://apnews.com/article/trump-fani-willis-georgia-election-indictment-31ca3234b244126cbe412dc279fd0562) / [NBC News](https://www.nbcnews.com/politics/donald-trump/georgia-appeals-court-grants-trumps-request-consider-whether-fani-will-rcna151231) / [New York Times](https://www.nytimes.com/2024/05/08/us/trump-fani-willis-appeals-court.html) / [Axios](https://www.axios.com/2024/05/08/georgia-trump-2020-election-case-fani-willis) / [CNBC](https://www.cnbc.com/2024/05/08/georgia-appeals-court-will-hear-trump-bid-to-disqualify-da-fani-willis-in-election-case.html) / [Politico](https://www.politico.com/news/2024/05/08/trump-wins-delay-in-georgia-criminal-cases-00156791) / [ABC News](https://abcnews.go.com/US/georgia-court-takes-trumps-appeal-willis-disqualification-ruling/story?id=110024047))

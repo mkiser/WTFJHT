@@ -5,6 +5,10 @@ categories:
 - trump
 description: 'Grand jury. '
 image: "/uploads/196.jpg"
+tags:
+  - mueller-investigation
+  - national-security
+  - immigration
 ---
 
 1/ **Special Counsel Robert Mueller has launched a grand jury to investigate Russia’s interference** in the 2016 elections and whether Trump or any of his team colluded during the campaign. A grand jury will allow prosecutors to subpoena documents, put witnesses under oath and seek indictments, if there is evidence of a crime. The decision to impanel a grand jury suggests he believes he will need to subpoena records and take testimony from witnesses. Trump has denied any collusion with Russia, calling the investigation a "witch hunt." ([Wall Street Journal](https://www.wsj.com/articles/special-counsel-mueller-impanels-washington-grand-jury-in-russia-probe-1501788287) / [CNN](http://www.cnn.com/2017/08/03/politics/mueller-grand-jury/))

@@ -5,6 +5,9 @@ categories:
 - trump
 description: 'Alert the daycare staff. '
 image: "/uploads/278.jpg"
+tags:
+  - mueller-investigation
+  - media
 ---
 
 1/ **The Clinton campaign and the DNC helped fund research that resulted in the Trump dossier**. A lawyer representing the Clinton campaign and the DNC retained Fusion GPS in April 2016 to conduct the research. Prior to that agreement, Fusion GPS’s research into Trump was funded by a still unknown Republican client during the GOP primary. ([Washington Post](https://www.washingtonpost.com/world/national-security/clinton-campaign-dnc-paid-for-research-that-led-to-russia-dossier/2017/10/24/226fabf0-b8e4-11e7-a908-a3470754bbb9_story.html))

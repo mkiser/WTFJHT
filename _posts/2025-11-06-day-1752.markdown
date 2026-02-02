@@ -17,6 +17,11 @@ todayInOneSentence: 'A federal judge ordered the Trump administration to fully f
   re-election and retire when her term ends in early 2027; and the Supreme Court allowed
   Trump to enforce a policy requiring that sex markers on U.S. passports match birth
   certificates while litigation continues. '
+tags:
+  - government-shutdown
+  - healthcare
+  - economy
+  - national-security
 ---
 
 

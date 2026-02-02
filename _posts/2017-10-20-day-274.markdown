@@ -5,6 +5,10 @@ categories:
 - trump
 description: 'Elected by the American people. '
 image: "/uploads/274.jpg"
+tags:
+  - taxes
+  - national-security
+  - pardon
 ---
 
 1/ **The Senate approved its budget by a 51 to 49 vote**. The spending blueprint will allow Republicans to use a procedural maneuver to pass tax reform in the Senate with just 50 votes while avoiding a Democratic filibuster. The House and Senate need to pass identical budgets in order for Republicans to sidestep the Senate’s typical 60-vote threshold for passage. Trump tweeted: "We got ZERO Democrat votes with only Rand Paul (he will vote for Tax Cuts) voting against. This now allows for the passage of large scale Tax Cuts (and Reform), which will be the biggest in the history of our country!" ([New York Times](https://www.nytimes.com/2017/10/19/us/politics/budget-vote-senate.html) / [Washington Post](https://www.washingtonpost.com/news/powerpost/wp/2017/10/19/republicans-have-the-budget-votes-they-need-but-democrats-prepare-to-make-it-painful/) / [Politico](http://www.politico.com/story/2017/10/19/house-senate-leaders-budget-deal-243971))

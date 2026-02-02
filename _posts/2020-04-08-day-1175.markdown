@@ -13,6 +13,10 @@ todayInOneSentence: Trump attacked the World Health Organization and threatened 
   CDC removed its dosing information for doctors on how to prescribe hydroxychloroquine
   and chloroquine; and Trump signed an executive order encouraging the U.S. to mine
   the moon for minerals.
+tags:
+  - covid
+  - foreign-policy
+  - energy
 ---
 
 * ### Daily Damage Report.

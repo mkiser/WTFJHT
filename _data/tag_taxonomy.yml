@@ -1,0 +1,83 @@
+# _data/tag_taxonomy.yml
+#
+# Allowed tags for WTFJHT posts.
+# Add new tags as needed - tagging tools only use tags from this list.
+# Posts should have 2-5 tags max.
+
+policy:
+  - immigration
+  - healthcare
+  - economy
+  - taxes
+  - climate
+  - foreign-policy
+  - education
+  - voting-rights
+  - reproductive-rights
+  - gun-policy
+  - civil-rights
+  - lgbtq-rights
+  - labor
+  - housing
+  - trade
+  - national-security
+  - criminal-justice
+  - social-security
+  - infrastructure
+  - tech-policy
+  - energy
+  - opioids
+  - veterans
+
+legal:
+  - supreme-court
+  - judiciary
+  - indictment
+  - lawsuit
+  - pardon
+  - subpoena
+  - ethics
+
+government:
+  - executive-order
+  - congress
+  - nomination
+  - cabinet
+  - resignation
+  - oversight
+  - sanctions
+  - tariffs
+
+elections:
+  - presidential-election
+  - midterm-election
+  - special-election
+  - primary
+  - debate
+
+recurring-events:
+  - government-shutdown
+  - state-of-the-union
+  - confirmation-hearing
+  - debt-ceiling
+
+major-investigations:
+  - mueller-investigation
+  - impeachment
+  - jan-6
+  - classified-documents
+
+regions:
+  - russia
+  - china
+  - ukraine
+  - israel-palestine
+
+other:
+  - covid
+  - corruption
+  - polling
+  - protests
+  - media
+  - disinformation
+  - census

@@ -18,6 +18,11 @@ podcast:
   file: "/uploads/Day 1836_Moment of truth.mp3"
   duration: '00:05:09'
   length: 4949933
+tags:
+  - immigration
+  - government-shutdown
+  - congress
+  - polling
 ---
 
 1/ **Trump and Senate Democrats said they reached a tentative agreement to fund most federal agencies through Sept. 30 while splitting Department of Homeland Security funding from the broader government spending package**. Senate Minority Leader Chuck Schumer said the deal would advance five spending bills to fund the government and extend DHS funding at current levels for two weeks as lawmakers negotiate new restrictions on immigration enforcement operations, including proposals to bar masks and require body cameras. “This is a moment of truth," Schumer said. "What the nation witnessed \[...\] in the streets of Minneapolis was a moral abomination \[...\] And Congress has the authority and the moral obligation to act.” Trump urged lawmakers support the deal, saying “Hopefully, both Republicans and Democrats will give a very much needed Bipartisan ‘YES’ Vote.” Senate leaders are setting up a Thursday night vote, but the package would require unanimous consent from all 100 senators and still needs to go through the House, which is in recess until Monday, before it can be sent to Trump's desk for his signature. Federal funding is set to expire Friday at midnight, meaning a partial shutdown could begin early Saturday. ([Axios](https://www.axios.com/2026/01/29/government-funding-deal-shutdown-dhs-schumer-trump) / [NBC News](https://www.nbcnews.com/politics/congress/trump-says-democrats-are-getting-close-deal-resolve-shutdown-fight-rcna256507) / [New York Times](https://www.nytimes.com/live/2026/01/29/us/trump-news) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-01-29/trump-democrats-make-some-progress-in-talks-to-avert-shutdown) / [Politico](https://www.politico.com/news/2026/01/29/shutdown-spending-deal-trump-00756372) / [CNN](https://www.cnn.com/politics/live-news/trump-news-01-29-26) / [CBS News](https://www.cbsnews.com/news/senate-reaches-deal-ahead-of-shutdown-deadline-to-fund-government-continue-ice-talks-source-says/) / [The Hill](https://thehill.com/homenews/senate/5713935-senate-deal-shutdown-funding/) / [Associated Press](https://apnews.com/live/donald-trump-news-updates-1-29-2026))

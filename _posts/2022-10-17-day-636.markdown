@@ -17,6 +17,11 @@ todayInOneSentence: 'The Biden administration launched the online application fo
   be sentenced to six months in jail and a $200,000 fine after he defied a subpoena
   to testify before the Jan. 6 committee; and 49% of likely voters said they plan
   to vote a Republican in this year''s election for Congress. '
+tags:
+  - education
+  - economy
+  - classified-documents
+  - jan-6
 ---
 
 1/ **The Biden administration launched the online application for student loan forgiveness**. The plan is expected to provide debt relief to as many as 43 million borrowers. “This is a game changer for millions of Americans,” Biden said. The application can be found at [studentaid.gov](https://studentaid.gov/), and qualifying borrowers have until Dec. 31. to fill out the online form to receive up to $20,000 in federal student debt cancelation. During a test of the Education Department's student debt relief portal this weekend, more than 8 million Americans signed up to have some of their student loans forgiven. The Education Department holds $1.6 trillion in student loan debt. ([CNN](https://www.cnn.com/2022/10/17/politics/biden-student-loan-forgiveness-launch/index.html) / [NBC News](https://www.nbcnews.com/politics/biden-administration-officially-opens-application-student-debt-cancela-rcna52612) / [Wall Street Journal](https://www.wsj.com/articles/biden-administration-launches-application-portal-for-student-loan-forgiveness-11666037285?mod=hp_listb_pos2) / [Washington Post](https://www.washingtonpost.com/politics/2022/10/17/debates-georgia-ohio-utah-biden-hearing-aids/#link-ZJFA5ITPPNHT3GODAK2LVIXCPY) / [CNBC](https://www.cnbc.com/2022/10/17/student-loan-forgiveness-application-officially-launches.html) / [New York Times](https://www.nytimes.com/2022/10/17/business/student-loans-cancel-debt-applications.html))

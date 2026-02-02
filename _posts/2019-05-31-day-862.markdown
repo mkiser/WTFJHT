@@ -10,6 +10,10 @@ todayInOneSentence: Trump threatened to impose a 5% tariff on all Mexican goods;
   Agreement and undermine the economy; Trump's Treasury secretary and top trade advisor
   both opposed the plan to impose tariffs on Mexico; and House Republicans blocked
   the $19.1 billion disaster aid package for a third time.
+tags:
+  - trade
+  - immigration
+  - oversight
 ---
 
 1/ **Trump threatened to impose a 5% tariff on all Mexican goods unless the country stops all "illegal migrants coming through Mexico,"** linking his immigration policy to trade. The tariffs would begin on June 10th and "gradually increase" to 10% on July 1st, followed by an additional 5% each month for the next three months. Tariffs would remain at 25% "if the crisis persists." The National Foreign Trade Council called the move "a colossal blunder," as U.S. companies pay the import penalties and pass some costs along to consumers. The White House defended the legality of the move, saying Trump was acting under the powers granted to him by the International Emergency Economic Powers Act, which gives the president broad power to take action to address any "unusual or extraordinary threat." ([Washington Post](https://www.washingtonpost.com/immigration/trump-prepares-to-threaten-mexico-with-new-tariffs-in-attempt-to-force-migrant-crackdown/2019/05/30/0f05f01e-8314-11e9-bce7-40b4105f7ca0_story.html) / [New York Times](https://www.nytimes.com/2019/05/30/us/politics/trump-mexico-tariffs.html) / [The Guardian](https://www.theguardian.com/us-news/2019/may/30/trump-mexico-tariffs-migration) / [Reuters](https://www.reuters.com/article/us-usa-immigration-trump-idUSKCN1T01GJ))

@@ -1,0 +1,33 @@
+name: Generate Tag Pages
+
+on:
+  schedule:
+    # Run daily at 6am UTC (10pm PT / 1am ET)
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+
+      - name: Generate tag pages
+        run: ruby scripts/generate_tag_pages.rb
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update tag pages"
+          file_pattern: 'tags/*.html'
+          branch: master

@@ -244,7 +244,11 @@
   function doSearch(query) {
     searchRequestId++;
     resultsContainer.innerHTML = '<div class="search-loading">Searching...</div>';
-    worker.postMessage({ type: 'search', query: query, id: searchRequestId });
+    worker.postMessage({
+      type: 'search',
+      query: query,
+      id: searchRequestId
+    });
   }
 
   // Render results

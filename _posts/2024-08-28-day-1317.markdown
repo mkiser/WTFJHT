@@ -14,6 +14,10 @@ todayInOneSentence: 'Trump’s economic proposals would increase the national de
   once accused teachers without children of "trying to brainwash the minds of our
   children"; and an environmental group called on federal authorities to investigate
   the co-chair of Trump’s presidential transition team. '
+tags:
+  - economy
+  - education
+  - corruption
 ---
 
 1/ **Trump’s economic proposals would increase the national debt by $5.8 trillion over 10 years** – almost five times more than Kamala Harris' policy plans, which would add $1.2 trillion. According to nonpartisan estimates, Trump’s plan to permanently extend the 2017 tax cuts, eliminate taxes on Social Security benefits, and reduce the corporate income tax rate, would add a net $5.8 trillion deficits over the next 10 years. The Harris analysis, meanwhile, showed that her plan to expand the child tax credit, the earned income tax credit, extend enhanced premium tax credits, provide support to first-time homebuyers, and raise the corporate tax income rate to 28% would cost $1.2 trillion over 10 years. The Harris campaign called Trump’s agenda “an inflation and deficit bomb,” while the Trump campaign blaming her for a “Biden-Harris inflation tax.” ([CNBC](https://www.cnbc.com/2024/08/27/trump-harris-budget-deficit-economy-election.html) / [Axios](https://www.axios.com/2024/08/28/trump-harris-national-debt-election) / [NBC News](https://www.nbcnews.com/politics/2024-election/harris-campaign-slams-trump-agenda-deficit-bomb-fiscal-responsibility-rcna168107) / [The Hill](https://thehill.com/business/budget/4849727-trump-economic-proposals-deficit-analysis/))

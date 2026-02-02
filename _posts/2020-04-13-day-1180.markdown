@@ -12,6 +12,10 @@ todayInOneSentence: Trump was warned about the potential for a pandemic in Janua
   social distancing practices to combat the coronavirus; and Trump threatened to veto
   the $2 trillion CARES Act if the legislation contained any funding for the U.S.
   Postal Service.
+tags:
+  - covid
+  - oversight
+  - corruption
 ---
 
 * ### Daily Damage Report.

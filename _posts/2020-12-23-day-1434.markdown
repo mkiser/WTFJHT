@@ -12,6 +12,10 @@ todayInOneSentence: 'Trump vetoed a $741 billion defense spending bill; Trump su
   who pleaded guilty in Robert Mueller''s Russia inquiry; and the White House sent
   staffers a memo that they “will start departing” the week of Jan. 4., but were later
   instructed to “please disregard” the email. '
+tags:
+  - covid
+  - pardon
+  - congress
 ---
 
 1/ **Trump vetoed a $741 billion defense spending bill**, which the House and Senate passed with veto-proof majorities. Trump refused to sign the legislation, saying it includes “provisions that fail to respect our veterans’ and military’s history” – a reference to a provision instructing the military to strip the names of Confederate leaders from military bases.  Trump suggested that the bill was a "'gift' to China and Russia" and complained that the bill limited his authority to remove troops from Afghanistan and Germany. Trump also demanded a repeal of Section 230, which protects companies from legal responsibility for content posted on their websites. A repeal of Section 230 was not included in the National Defense Authorization Act. Both chambers plan to return the week after Christmas and are expected to vote to override the veto, making it the first successful veto override of Trump's presidency. ([Washington Post](https://www.washingtonpost.com/national-security/trump-vetoes-defense-bill-ndaa/2020/12/23/ceedffaa-407f-11eb-8db8-395dedaaa036_story.html) / [Politico](https://www.politico.com/news/2020/12/23/trump-ndaa-veto-defense-bill-450286) / [New York Times](https://www.nytimes.com/2020/12/23/us/politics/trump-veto-defense-spending-bill.html) / [Axios](https://www.axios.com/trump-vetoes-defense-bill-ndaa-0efb8628-81ad-4dcc-9bec-3d0b79988dd8.html))

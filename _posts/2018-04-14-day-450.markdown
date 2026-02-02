@@ -5,6 +5,11 @@ categories:
 - trump
 description: Mission accomplished.
 image: "/uploads/450.jpg"
+tags:
+  - mueller-investigation
+  - national-security
+  - russia
+  - foreign-policy
 ---
 
 *Welcome to a rare Saturday edition of WTF Just Happened Today*.

@@ -12,6 +12,11 @@ todayInOneSentence: Federal prosecutors in New York requested interviews with Tr
   been interviewing witnesses about foreign money flowing to three lobbying firms
   recruited by Paul Manafort; and Trump and Jared Kushner met with contractors at
   the White House to discuss building the border wall last week.
+tags:
+  - indictment
+  - oversight
+  - immigration
+  - russia
 ---
 
 1/ **Federal prosecutors in New York requested interviews with Trump Organization executives**. New York federal prosecutors are running at least two investigations into Trump-related entities: the first centers on Cohen's possible campaign-finance violations for the hush-money payments made or organized to silence women who claimed affairs with Trump. The second concerns the Trump inaugural committee. ([CNN](https://www.cnn.com/2019/02/05/politics/new-york-federal-prosecutors-trump-organization-executives/index.html))

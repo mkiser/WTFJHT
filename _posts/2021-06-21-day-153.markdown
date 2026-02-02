@@ -13,6 +13,10 @@ todayInOneSentence: Nearly 10 million Americans enrolled in Medicaid during the 
   suggested sending Americans infected with Covid-19 to Guantanamo Bay; and Joe Manchin
   told an electric utility trade group that the Biden administration’s pledge to cut
   carbon emissions is too "aggressive."
+tags:
+  - healthcare
+  - immigration
+  - indictment
 ---
 
 1/ **Nearly 10 million Americans enrolled in Medicaid during the coronavirus pandemic**. Roughly 80 million people are now covered by Medicaid – nearly a quarter of the entire U.S. population. Federal health officials attributed the boost in enrollment to the Families First Coronavirus Response Act, approved by Congress in March 2020. That law gave states extra federal money to help cover Medicaid costs as long as the states didn't remove any enrollees until after the coronavirus public health emergency was declared over. ([Washington Post](https://www.washingtonpost.com/health/medicaid-enrollment-during-the-pandemic/2021/06/21/8ee670d6-d27e-11eb-9f29-e9e6c9e843c6_story.html) / [The Hill](https://thehill.com/policy/healthcare/559428-medicaid-enrollment-reaches-high-of-74m-americans-during-pandemic) / [New York Times](https://www.nytimes.com/2021/06/21/us/politics/medicaid-covid-pandemic.html))

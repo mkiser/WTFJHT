@@ -5,6 +5,10 @@ categories:
 - trump
 description: Do not worry.
 image: "/uploads/460.jpg"
+tags:
+  - mueller-investigation
+  - nomination
+  - foreign-policy
 ---
 
 1/ **Jeff Sessions will not recuse himself from the ongoing criminal investigation of Michael Cohen**. By staying involved in the Cohen case, Sessions will receive briefings on the investigation, which puts Sessions in the position of being asked by Trump for information about the Cohen investigation. Trump condemned the FBI raid on his longtime lawyer and has called Sessions weak for recusing himself from the Robert Mueller probe. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-04-24/sessions-declines-to-recuse-himself-from-probe-into-trump-lawyer) / [CNBC](https://www.cnbc.com/2018/04/24/ag-jeff-sessions-will-not-recuse-himself-from-michael-cohen-case.html))

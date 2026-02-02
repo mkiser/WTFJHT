@@ -5,6 +5,10 @@ categories:
 - trump
 description: Refreshed.
 image: "/uploads/293.jpg"
+tags:
+  - taxes
+  - healthcare
+  - special-election
 ---
 
 1/ **Trump told 12 Senate Democrats that he would "get killed" financially by the GOP tax bill** in an attempt to increase Democratic support by claiming the bill would hurt wealthy taxpayers like himself. Trump wants Democrats to support repealing the estate tax, because they need to give something to rich people. Repealing the estate tax would provide an additional $300 billion dollar tax break to the wealthy.

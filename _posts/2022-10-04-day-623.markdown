@@ -12,6 +12,11 @@ todayInOneSentence: The United Nations warned that the world is “on the edge o
   Trump's lawyer refused his instructions to tell the National Archives that all the
   records had been returned; and Trump sued CNN for alleged defamation and is seeking
   at least $475 million in damages.
+tags:
+  - economy
+  - classified-documents
+  - media
+  - lawsuit
 ---
 
 1/ **The United Nations warned that the world is “on the edge of a recession.”** In a new report, the United Nations Conference on Trade Development [said](https://unctad.org/news/unctad-warns-policy-induced-global-recession) that tightening monetary policy meant to fight inflation by central banks in the U.S., Europe, and the U.K. risks "pushing the world towards global recession and prolonged stagnation, inflicting worse damage than the financial crisis in 2008" and the Covid-19 contraction in economic activity. “Today we need to warn that we may be on the edge of a policy-induced global recession,” Secretary-General of UNCTAD Rebeca Grynspan said in a statement. “We still have time to step back from the edge of recession. Nothing is inevitable. We must change course.” The Federal Reserve, meanwhile, reaffirmed that bringing inflation down from its 40-year high will require a slowdown in economic growth and reduced demand for workers by employers. Interest rates are currently set in a range between 3 and 3.25%, and the Fed's most recent projections suggest they'll climb to 4.6% by the end of 2023. On the other hand, U.S. national debt [exceeded](https://www.nytimes.com/2022/10/04/business/national-debt.html) $31 trillion for the first time, and the higher rates could add an additional $1 trillion to federal government interest payments this decade. ([CNBC](https://www.cnbc.com/2022/10/04/unctad-warns-that-asia-global-economy-headed-for-a-recession.html) / [CNN](https://www.cnn.com/2022/10/04/investing/premarket-trading-stocks/index.html) / [Wall Street Journal](https://www.wsj.com/articles/fed-official-says-inflation-fight-will-take-time-despite-signs-of-progress-11664898319) / [Yahoo News](https://www.yahoo.com/now/worse-damage-financial-crisis-2008-213208344.html))

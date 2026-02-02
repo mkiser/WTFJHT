@@ -5,6 +5,10 @@ categories:
 - trump
 description: A long winter.
 image: "/uploads/305.jpg"
+tags:
+  - sanctions
+  - infrastructure
+  - special-election
 ---
 
 1/ **Trump designated North Korea as a state sponsor of terrorism** and said the Treasury Department will announce new sanctions on the country. He described the move as "a very large one." Trump said the designation will impose "further sanctions and penalties" on North Korea in support of his administration's "maximum pressure campaign to isolate the murderous regime." The designation was rescinded by George W. Bush in 2008 in an attempt to negotiate a nuclear deal. ([New York Times](https://www.nytimes.com/2017/11/20/us/politics/north-korea-trump-terror.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-11-20/trump-says-u-s-will-designate-north-korea-a-state-sponsor-of-terror) / [CNN](https://www.cnn.com/2017/11/20/politics/trump-latest/index.html) / [Politico](https://www.politico.com/story/2017/11/20/trump-says-hell-designate-north-korea-as-state-sponsor-of-terrorism-250344))

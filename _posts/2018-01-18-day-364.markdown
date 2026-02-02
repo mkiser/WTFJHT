@@ -5,6 +5,10 @@ categories:
 - trump
 description: Irresponsible.
 image: "/uploads/364.jpg"
+tags:
+  - government-shutdown
+  - healthcare
+  - immigration
 ---
 
 1/ **Trump will back a short-term funding legislation after causing confusion on Twitter**. Hours earlier Trump tweeted: "CHIP should be part of a long term solution, not a 30 Day, or short term, extension!" Trump contradicted the Republican legislative strategy by calling for a separate, long-term extension of the Children's Health Insurance Program with less than 48 hours before a shutdown. The Republican proposal included a six-year extension of CHIP as part of their short-term spending bill, which would fund the government through February 16. ([Politico](https://www.politico.com/story/2018/01/18/government-shutdown-2018-trump-republicans-345532) / [Washington Post](https://www.washingtonpost.com/powerpost/trump-upends-gop-strategy-to-avoid-shutdown-with-call-to-settle-childhood-insurance-impasse/2018/01/18/be61af62-fc56-11e7-a46b-a3614530bd87_story.html) / [New York Times](https://www.nytimes.com/2018/01/18/us/politics/trump-upsets-republican-strategy-to-avoid-shutdown.html))

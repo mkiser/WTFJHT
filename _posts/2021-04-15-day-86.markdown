@@ -14,6 +14,11 @@ todayInOneSentence: The Biden administration imposed sanctions on Russia; Paul M
   Democrats introduced legislation to expand the Supreme Court from nine justices
   to 13; and Biden reportedly hasn't raised the Trump-era refugee cap because of political
   optics.
+tags:
+  - sanctions
+  - disinformation
+  - russia
+  - immigration
 ---
 
 1/ **The Biden administration imposed sanctions on Russia for alleged interference in the 2020 presidential election**, the cyberattack against U.S. government and corporate networks, the illegal annexation and occupation of Crimea, and human rights abuses. The administration sanctioned six Russian technology companies that supported hacking operations run by Russia's intelligence services and expelled 10 intelligence officers working under diplomatic cover in the U.S. The White House formally said the Russian intelligence service SVR was responsible for the hacking operation known as SolarWinds. The Treasury Department also sanctioned 32 entities and individuals for “carrying out Russian government-directed attempts to influence the 2020 U.S. presidential election, and other acts of disinformation and interference," as well as eight individuals and entities associated with Russia's actions in Crimea. The White House said the sanctions were intended “to impose costs on Russia for actions by its government and intelligence services against U.S. sovereignty and interests.” ([Politico](https://www.politico.com/news/2021/04/15/biden-sanctions-russia-election-interference-481794) / [Associated Press](https://apnews.com/article/us-expel-russia-diplomats-sanctions-6a8a54c7932ee8cbe51b0ce505121995) / [New York Times](https://www.nytimes.com/2021/04/14/us/politics/biden-russia-sanctions.html) / [Washington Post](https://www.washingtonpost.com/national-security/biden-to-announce-tough-sanctions-on-russia-over-cyber-spying/2021/04/15/a4c1d260-746e-11eb-948d-19472e683521_story.html) / [NBC News](https://www.nbcnews.com/news/world/u-s-sanction-russia-alleged-election-interference-solarwinds-hack-n1264142) / [CNBC](https://www.cnbc.com/2021/04/15/biden-administration-sanctions-russia-for-cyber-attacks-election-interference.html))

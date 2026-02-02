@@ -14,6 +14,11 @@ todayInOneSentence: 'The House passed a Republican bill requiring documentary pr
   and two Democratic senators called for a federal investigation into possible insider
   trading after Trump urged investors to “buy” hours before announcing a major tariff
   rollback that sent markets soaring. '
+tags:
+  - voting-rights
+  - disinformation
+  - economy
+  - executive-order
 ---
 
 1/ **The House passed a Republican bill requiring documentary proof of citizenship to register to vote in federal elections, despite noncitizen voting already being illegal and extremely rare**. The vote was 220-208, with four Democrats joining all Republicans. The SAVE Act would force voters to show a passport, birth certificate, or naturalization papers in person. Critics warned it would block access for millions, including an estimated 69 million women who changed their names after marriage or divorce and may not have matching documents – requiring marriage certificates or court orders to register. Rural and low-income voters without easy access to government offices could also be shut out. The bill now heads to the Senate, where it’s unlikely to clear the 60-vote filibuster threshold. Republicans would need at least seven Democrats to join them – an unlikely outcome given unified Democratic opposition and warnings the bill “would disenfranchise millions.” ([NPR](https://www.npr.org/2025/03/12/nx-s1-5301676/save-act-explainer-voter-registration) / [Associated Press](https://apnews.com/article/congress-save-act-citizenship-voting-elections-a37c139461d11eb5f82086680b67ffe7) / [NBC News](https://www.nbcnews.com/politics/congress/house-passes-bill-requiring-proof-citizenship-vote-federal-elections-rcna200586) / [CNN](https://www.cnn.com/2025/04/10/politics/save-act-noncitizen-voting-bill-house/index.html) / [Axios](https://www.axios.com/2025/02/11/save-act-what-to-know) / [Wall Street Journal](https://www.wsj.com/politics/policy/house-vote-save-act-citizenship-passed-692d292b) / [Washington Post](https://www.washingtonpost.com/politics/2025/04/10/trump-presidency-news-tariffs/#link-2IK67WRP4VHSLGTUDCMRNWDWKA) / [The Hill](https://thehill.com/homenews/house/5242559-house-republicans-pass-bill-requiring-proof-of-citizenship-to-vote/))

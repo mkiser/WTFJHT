@@ -5,6 +5,10 @@ categories:
 - trump
 description: Moron.
 image: "/uploads/258.jpg"
+tags:
+  - russia
+  - disinformation
+  - ethics
 ---
 
 1/ **Rex Tillerson reportedly called Trump a "[fucking moron](https://twitter.com/KenDilanianNBC/status/915596886807138305)" and nearly resigned this summer**. The comment came during a July meeting at the Pentagon with members of Trump’s national security team and Cabinet officials. Mike Pence reportedly counseled Tillerson on how to ease tensions with Trump, with other top administration officials urging him to remain in the job until the end of the year. ([NBC News](https://www.nbcnews.com/politics/white-house/tillerson-s-fury-trump-required-intervention-pence-n806451))

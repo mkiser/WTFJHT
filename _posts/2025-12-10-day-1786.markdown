@@ -23,6 +23,11 @@ todayInOneSentence: During Trump’s first stop on his “affordability” tour 
   state House seat; and nearly half of Americans said they struggle to afford groceries,
   utilities, health care, housing, and transportation, and half said they find it
   difficult to pay for food.
+tags:
+  - economy
+  - immigration
+  - housing
+  - special-election
 ---
 
 1/ **During Trump’s first stop on his “affordability” tour in Mount Pocono, Pennsylvania, he claimed he’s "crushing it" on inflation and delivering “lower prices” and “bigger paychecks.”** Throughout the 90-minute, rally-style event, Trump blamed Democrats for “the high prices,” mocked “affordability” as a new political word, and claimed his tariffs prove “America is winning again,” and that “Pennsylvania is prospering again.” Government figures, however, show inflation running around 3% a year, similar to the end of the Biden administration and above the Federal Reserve’s 2% target, while grocery and rent costs are up roughly 30% over the last five years. Nevertheless, Trump pointed to the strong stock market and new factory investments as evidence of his success, even though manufacturing has lost about 30,000 jobs since February and economists have warned that his tariffs could weaken business investment and long-term growth. ([New York Times](https://www.nytimes.com/2025/12/09/us/politics/trump-affordability-economy-pennsylvania.html) / [NPR](https://www.npr.org/2025/12/10/g-s1-101506/trumps-speech-grievances-about-immigrants) / [Washington Post](https://www.washingtonpost.com/politics/2025/12/09/trump-affordability-pennsylvania/) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-economy-campaign-speech-pennsylvania-rcna248291) / [CBS News](https://www.cbsnews.com/news/trump-affordability-speech-economy-pennsylvania/))

@@ -5,6 +5,10 @@ categories:
 - trump
 description: Shame.
 image: "/uploads/330.jpg"
+tags:
+  - taxes
+  - pardon
+  - healthcare
 ---
 
 **What's in the GOP tax bill.**

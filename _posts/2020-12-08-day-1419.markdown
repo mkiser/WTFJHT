@@ -14,6 +14,10 @@ todayInOneSentence: The FDA said Pfizer's COVID-19 vaccine “met the prescribed
   week; the Supreme Court rejected a last-minute attempt by Trump’s allies to overturn
   Biden’s victory in Pennsylvania; and a federal judge dismissed Michael Flynn’s prosecution
   after Trump’s pardon.
+tags:
+  - covid
+  - pardon
+  - presidential-election
 ---
 
 1/ **The FDA said Pfizer's COVID-19 vaccine “met the prescribed success criteria” for emergency authorization in a clinical study**, saying the shot showed “a favorable safety profile, with no specific safety concerns." The FDA noted that the two-dose vaccine reduced the risk of getting COVID-19 by about half after the first injection. The vaccine was found to be 95% effective after the second dose, three weeks later. The vaccine had several tolerable, short-term side effects, including sore arms, fatigue, headaches, muscle pain, and chills that typically resolved within one to two days. The FDA will meet Thursday to discuss the data and make recommendations in advance of a vote on whether to recommend authorization of the Pfizer vaccine. ([Wall Street Journal](https://www.wsj.com/articles/fda-set-to-release-analyses-of-the-pfizer-biontech-covid-19-vaccine-11607423403) / [New York Times](https://www.nytimes.com/2020/12/08/health/covid-vaccine-pfizer.html) / [Washington Post](https://www.washingtonpost.com/graphics/2020/health/pfizer-vaccine-trial-results/?itid=hp-top-table-main) / [Politico](https://www.politico.com/news/2020/12/08/fda-pfizer-coronavirus-vaccine-safe-443587) / [NBC News](https://www.nbcnews.com/health/health-news/fda-pfizer-s-covid-19-vaccine-safe-effective-after-one-n1250337) / [ABC News](https://abcnews.go.com/Politics/fda-scientists-report-pfizer-vaccine-safe-effective-confirming/story?id=74602903))

@@ -13,6 +13,10 @@ todayInOneSentence: The Biden administration extended the pause on federal stude
   from obtaining his Jan. 6 phone records; and a member of the Proud Boys pleaded
   guilty for his role in the Capitol riot.
 author: Joe Amditis
+tags:
+  - healthcare
+  - covid
+  - jan-6
 ---
 
 1/ **Biden announced that pandemic relief for federal student loan borrowers will be extended once again until May 1, 2022.** The extension affects about 41 million borrowers, including nearly 27 million who haven’t been paying their monthly bill since early in 2020. ([New York Times](https://www.nytimes.com/2021/12/22/your-money/student-loan-pause.html) / [NPR](https://www.npr.org/2021/12/22/1066879033/biden-federal-student-loan-payment-freeze-extension-borrowers) / [CNN](https://www.cnn.com/2021/12/22/politics/student-loan-pause-biden/index.html) / [CNBC](https://www.cnbc.com/2021/12/22/biden-administration-extends-payment-pause-for-student-loan-borrowers-until-may-1.html) / [Associated Press](https://apnews.com/article/federal-student-loan-moratorium-extended-256eec88f8dbdaf24e276bff699ebfb4))

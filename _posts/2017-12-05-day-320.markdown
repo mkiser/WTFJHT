@@ -5,6 +5,10 @@ categories:
 - trump
 description: Willingness to comply.
 image: "/uploads/320.jpg"
+tags:
+  - mueller-investigation
+  - national-security
+  - israel-palestine
 ---
 
 1/ **Robert Mueller issued a subpoena for the banking records of people affiliated with Trump**. The move forced Deutsche Bank – Trump's biggest lender – to turn over documents related to certain credit transactions and the $300 million Trump owes the lender. Legal experts said it showed Mueller was "following the money" in search of links between the campaign and the Kremlin since Deutsche Bank may have sold some of Trump's mortgage or loans to Russian-owned banks, which could potentially give Russia leverage over Trump. Jay Sekulow, one of Trump's personal lawyers, denied that a subpoena had been issued. Since 1998, Deutsche has helped loan at least $2.5 billion to companies affiliated with Trump, which he used to build or purchase highest-profile projects in Washington, New York, Chicago and Florida. ([The Guardian](https://www.theguardian.com/us-news/2017/dec/05/donald-trump-bank-records-handed-over-robert-mueller) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-12-05/deutsche-bank-is-said-to-have-received-subpoena-on-client-trump) / [Reuters](https://www.reuters.com/article/us-usa-trump-deutsche-bank/deutsche-bank-gets-subpoena-from-mueller-on-trump-accounts-source-idUSKBN1DZ0XN) / [Wall Street Journal](https://www.wsj.com/articles/trumps-deutsche-bank-records-subpoenaed-by-mueller-1512480154))

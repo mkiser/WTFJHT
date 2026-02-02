@@ -14,6 +14,10 @@ todayInOneSentence: 'Senate Republicans blocked voting rights legislation for th
   pages of his White House records related to the Jan. 6 attack on the Capitol; the
   Jan. 6 Committee requested voluntary testimony from Ivanka Trump; and 5% of Americans
   say Biden''s presidency has been better than expected. '
+tags:
+  - voting-rights
+  - criminal-justice
+  - jan-6
 ---
 
 1/ **Senate Republicans blocked voting rights legislation for the fifth time and then Democrats failed to unite behind changing the Senate’s filibuster rules to pass it anyway – despite all 50 Democrats supporting the voting rights bill**. First, Democrats fell 10 votes short of the 60 needed to break the Republican filibuster. Then, Democrats Joe Manchin and Kyrsten Sinema joined with Republicans in rejecting an effort to reinstate the "talking filibuster," which would have allowed the elections legislation to pass by a simple majority vote. It is unclear how Democrats will proceed after the twin defeats, though some Republicans have appeared open to reforming the narrower election-related issue about how Congress deals with disputes over presidential election results. Biden, meanwhile, said he was "profoundly disappointed that the United States Senate has failed to stand up for our democracy." ([New York Times](https://www.nytimes.com/2022/01/19/us/politics/senate-voting-rights-filibuster.html) / [Washington Post](https://www.washingtonpost.com/politics/democrats-brace-for-likely-defeat-of-voting-rights-push-due-to-gop-filibuster/2022/01/19/2f9a734c-792d-11ec-bf97-6eac6f77fba2_story.html) / [Politico](https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366) / [NBC News](https://www.nbcnews.com/politics/congress/democrats-voting-rights-bill-heads-toward-defeat-amid-gop-blockade-n1287685) / [Wall Street Journal](https://www.wsj.com/articles/senate-democrats-brace-for-defeat-on-elections-bill-filibuster-changes-11642617597?mod=hp_lead_pos4))

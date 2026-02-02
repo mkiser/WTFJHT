@@ -17,6 +17,12 @@ todayInOneSentence: 'The Supreme Court dismissed Louisiana’s effort to block t
   have violated federal ethics laws by failing to disclose a luxury fishing trip to
   Alaska in 2008 with a Republican billionaire who later had cases before the Supreme
   Court. '
+tags:
+  - voting-rights
+  - jan-6
+  - infrastructure
+  - immigration
+  - ethics
 ---
 
 1/ **The Supreme Court dismissed Louisiana’s effort to block the creation of a second Black-majority congressional district**, restoring a federal court’s ruling that the state's congressional lines diluted the power of Black voters in violation of the federal Voting Rights Act. The court order noted that the case should be resolved "in advance of the 2024 congressional elections in Louisiana." Louisiana state officials were sued last year for a new congressional map that the Republican-led state legislature adopted after overriding Democratic Gov. John Bel Edwards’s veto. The new map made one of the state's six districts majority Black, despite the 2020 census showing that the state’s population is 33% Black. ([Associated Press](https://apnews.com/article/supreme-court-redistricting-louisiana-race-voting-rights-168774be5a995c6c34225b666ad81851) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-paves-way-louisiana-congressional-districts-redrawn-rcna88555) / [CNN](https://www.cnn.com/2023/06/26/politics/supreme-court-louisiana-congressional-redistricting/index.html) / [Wall Street Journal](https://www.wsj.com/articles/supreme-court-rejects-louisianas-defense-of-gerrymandered-congressional-map-5ba1064d?mod=hp_lead_pos7) / [Politico](https://www.politico.com/news/2023/06/26/supreme-court-louisiana-racial-gerrymandering-00103631))

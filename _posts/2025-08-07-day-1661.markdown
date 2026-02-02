@@ -14,6 +14,11 @@ todayInOneSentence: Trump’s “Liberation Day” tariffs, first announced in A
   the Capitol; the FBI fired several senior agents who had worked on investigations
   involving Trump or his allies; and Israeli Prime Minister Benjamin Netanyahu said
   Israel will move to occupy all of Gaza.
+tags:
+  - tariffs
+  - census
+  - voting-rights
+  - oversight
 ---
 
 1/ **Trump’s “Liberation Day” tariffs, first announced in April and delayed for months during talks on “90 deals in 90 days,” took effect**, raising average rates from the usual 2–3% to 18.6% – the highest since 1933 – with some imports from Brazil and India reaching 50%. Since April, the Trump administration has announced eight trade agreements, but only two – with the UK and China – are finalized, leaving most others, including with Japan, South Korea, the EU, Vietnam, and Indonesia, incomplete or without key details. The tariffs are collected from U.S. importers, who typically raise prices to cover the added costs. The White House claims the duties will bring in $50 billion a month, but that revenue comes directly from Americans, with the Yale Budget Lab projecting an extra $2,400 in costs per household this year. June inflation data already show price increases in tariff-affected categories such as clothing, appliances, and furniture. Economists have warned the impact will accelerate as pre-tariff inventories run out, forcing more businesses to pass on the full cost of the higher import taxes to consumers. Trump, meanwhile, celebrated the rollout of his tax on Americans, writing: “BILLIONS OF DOLLARS IN TARIFFS ARE NOW FLOWING INTO THE UNITED STATES OF AMERICA!” ([Bloomberg](https://www.bloomberg.com/news/articles/2025-08-07/trump-s-tariffs-take-effect-in-fresh-test-for-global-economy) / [CNN](https://www.cnn.com/2025/08/06/business/trump-tariffs-in-effect) / [NPR](https://www.npr.org/2025/07/29/nx-s1-5477470/prices-trump-tariffs) / [Washington Post](https://www.washingtonpost.com/business/2025/08/07/trump-tariffs-global-trade/) / [ABC News](https://abcnews.go.com/Business/trumps-sweeping-new-tariffs-set-effect/story?id=124410014) / [New York Times](https://www.nytimes.com/2025/08/07/business/economy/trump-tariffs-trade-war.html) / [Wall Street Journal](https://www.wsj.com/economy/trade/trump-tariff-exemption-rush-9fc28db5))

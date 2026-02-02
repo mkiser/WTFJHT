@@ -11,6 +11,10 @@ todayInOneSentence: The White House refused requests by Homeland Security for mo
   protesters outside his home; the NRA warned Trump against endorsing extensive background
   checks for gun sales; and climate change is putting pressure on the ability of humanity
   to feed itself.
+tags:
+  - national-security
+  - gun-policy
+  - tech-policy
 ---
 
 1/ **White House officials refused requests by the Department of Homeland Security for more than a year to make combating domestic terror a greater priority**. While the [National Strategy for Counterterrorism](https://www.dni.gov/files/NCTC/documents/news_documents/NSCT.pdf), issued last fall, stated that "Radical Islamist terrorists remain the primary transnational terrorist threat to the United States and its vital national interests," it included one paragraph about domestic terrorism and made no mention of white supremacists. FBI Director Christopher Wray testified in July that there have been almost as many domestic terror arrests in the last nine months – about 100 – as there have been arrests connected to international terror. Wray also noted that most of the domestic terrorism cases were motivated by white supremacist violence. ([CNN](https://www.cnn.com/2019/08/07/politics/white-house-domestic-terrorism/index.html))

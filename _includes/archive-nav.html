@@ -1,20 +1,20 @@
+<nav class="archive-nav">
+  <p class="archive-nav__title">Browse archives</p>
   {% assign years = site.archives | where:"type", "year" %}
-  
-  {% for year in years reversed %}
-    <div class="post archive">
-      <p class="archive-year">
-        <strong><a href="{{ year.url }}">{{ year.posts[0].date | date:"%Y" }}</a></strong>
-      </p>
 
-        {% assign months = site.archives | where:"type", "month" %}
-        <ul class="archive-months">
-        {% for month in months reversed %}
-          {% assign monthYear = month.posts[0].date | date:"%Y" %}
-          {% assign yearYear = year.posts[0].date | date:"%Y" %}
-          {% if monthYear == yearYear %}
-            <li><a href="{{ month.url }}">{{ month.posts[0].date | date:"%b" }}</a></li>
-          {% endif %}
-        {% endfor %}
-       </ul>  
+  {% for year in years reversed %}
+    <div class="archive-nav__year-group">
+      <a href="{{ year.url }}" class="archive-nav__year-link">{{ year.posts[0].date | date:"%Y" }}</a>
+      {% assign months = site.archives | where:"type", "month" %}
+      <ul class="archive-nav__months">
+      {%- for month in months reversed -%}
+        {%- assign monthYear = month.posts[0].date | date:"%Y" -%}
+        {%- assign yearYear = year.posts[0].date | date:"%Y" -%}
+        {%- if monthYear == yearYear -%}
+        <li class="archive-nav__month"><a href="{{ month.url }}">{{ month.posts[0].date | date:"%b" }}</a></li>
+        {%- endif -%}
+      {%- endfor -%}
+      </ul>
     </div>
   {% endfor %}
+</nav>

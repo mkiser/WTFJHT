@@ -14,6 +14,10 @@ todayInOneSentence: The Senate advanced a bill that would provide $52 billion in
   elector plan to reverse Trump's election defeat;  the Justice Department urged a
   federal judge to reject efforts by leaders of the Oath Keepers to delay their September
   trial; and Attorney General Merrick Garland did not rule out prosecuting Trump.
+tags:
+  - tech-policy
+  - jan-6
+  - subpoena
 ---
 
 1/ **The Senate advanced a bill that would provide $52 billion in subsidies to domestic semiconductor manufacturers to boost U.S. competitiveness with China**. The package, known as “CHIPS-plus,” would also invest billions in science and technology innovation, and provide grants, incentives and tax breaks to the sector. If the Senate passes the bill, as expected, it would then move to the House, where it also has the support needed for passage. ([Washington Post](https://www.washingtonpost.com/politics/2022/07/26/senate-semiconductor-chips-bill/) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-07-26/senate-sets-up-vote-on-52-billion-for-semiconductor-industry?srnd=politics-vp&sref=MIBMEEoj) / [CNBC](https://www.cnbc.com/2022/07/26/bill-to-boost-us-chip-production-and-competition-with-china-clears-key-senate-hurdle.html))

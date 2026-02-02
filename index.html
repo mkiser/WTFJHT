@@ -119,6 +119,21 @@ seo:
       {{ page.content | extlinks }}
     </div>
 
+    {% if page.tags and page.tags.size > 0 %}
+    <div class="post-tags">
+      {% for tag in page.tags %}
+        {% assign tag_words = tag | split: '-' %}
+        {% assign capitalized_words = '' | split: '' %}
+        {% for word in tag_words %}
+          {% assign cap_word = word | capitalize %}
+          {% assign capitalized_words = capitalized_words | push: cap_word %}
+        {% endfor %}
+        {% assign tag_display = capitalized_words | join: ' ' %}
+      <a href="/tags/{{ tag }}/" class="post-tag">{{ tag_display }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     {% include recent-posts.html %}
 
     {% if page.years_ago_links and page.years_ago_links.size > 0 %}

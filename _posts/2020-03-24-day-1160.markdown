@@ -13,6 +13,10 @@ todayInOneSentence: Congressional negotiators signaled that they are nearing a b
   private businesses have shut down six of its top seven revenue-producing clubs and
   hotels because of social distancing restrictions meant to slow the spread of the
   coronavirus.
+tags:
+  - covid
+  - congress
+  - corruption
 ---
 
 1/ **Congressional negotiators signaled that they are nearing a bipartisan agreement on an estimated $2 trillion emergency stimulus package** to address economic fallout from the coronavirus pandemic. Mitch McConnell, Chuck Schumer, and Treasury Secretary Steven Mnuchin all said they expected an agreement later Tuesday. The Senate bill would direct payments of $1,200 to most American adults and $500 to most children, create a $500 billion lending program for companies, states, and cities, and extend another $367 billion to help small businesses make payroll. White House officials agreed to allow an independent inspector general, and an oversight board to scrutinize the lending decisions after Trump said he would "be the oversight.” ([Politico](https://www.politico.com/news/2020/03/24/congress-coronavirus-emergency-package-146066) / [Washington Post](https://www.washingtonpost.com/us-policy/2020/03/24/trump-coronavirus-congress-economic-stimulus/) / [Wall Street Journal](https://www.wsj.com/articles/negotiators-aim-to-wrap-up-talks-tuesday-on-u-s-stimulus-package-11585053060) / [New York Times](https://www.nytimes.com/2020/03/24/us/politics/coronavirus-stimulus-bill.html))

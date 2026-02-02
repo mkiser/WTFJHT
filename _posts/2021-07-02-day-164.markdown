@@ -11,6 +11,10 @@ todayInOneSentence: The U.S. military vacated Bagram Airfield in Afghanistan aft
   and prosecuting sexual assault cases from the chain of command; about 11% of people
   in the U.S. have missed their second dose of the coronavirus vaccine – nearly 15
   million people; and 67% of Americans believe democracy in the U.S. is under threat.
+tags:
+  - foreign-policy
+  - criminal-justice
+  - military
 ---
 
 1/ **The U.S. military vacated Bagram Airfield in Afghanistan after nearly 20 years**. The base was the epicenter of the U.S. military's counterterrorism campaign in Afghanistan, with fighter jets, drones, and cargo planes taking off from the twin runways day and night. The airfield was handed over to the Afghan National Security and Defense Force, effectively ending America's longest foreign war. The U.S., however, will continue to pay nearly $4 billion annually until 2024 to finance the Afghan security forces. ([Associated Press](https://apnews.com/article/taliban-afghanistan-f6da97f3bde5b50b6d029185c9eb385d) / [New York Times](https://www.nytimes.com/2021/07/02/world/asia/afghanistan-bagram-us-withdrawal.html) / [Washington Post](https://www.washingtonpost.com/national-security/2021/07/02/bagram-afghanistan-biden-war/))

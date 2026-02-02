@@ -5,6 +5,11 @@ categories:
 - trump
 description: TOTALLY under siege.
 image: "/uploads/442.jpg"
+tags:
+  - mueller-investigation
+  - national-security
+  - tariffs
+  - trade
 ---
 
 1/ **Trump is informally preparing for a potential interview with Robert Mueller**. The preparation efforts were described as "in its infancy" and include going over potential topics with Trump that Mueller would likely ask in an interview. Trump has not formally agreed to sit for an interview with Mueller. ([CNN](https://www.cnn.com/2018/04/06/politics/trump-robert-mueller-lawyers/index.html))

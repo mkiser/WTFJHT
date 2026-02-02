@@ -4,6 +4,7 @@ importScripts('https://cdn.jsdelivr.net/npm/minisearch@6.3.0/dist/umd/index.min.
 var miniSearch = null;
 var allRecords = null;
 var recordMap = {};
+var tagLookup = [];
 
 // Handle messages from main thread
 self.onmessage = function(e) {
@@ -12,14 +13,20 @@ self.onmessage = function(e) {
   if (msg.type === 'init') {
     initIndex(msg.data);
   } else if (msg.type === 'search') {
-    performSearch(msg.query, msg.id);
+    performSearch(msg.query, msg.id, msg.filters);
   }
 };
 
 // Initialize the search index
 function initIndex(data) {
-  // Handle both v1 (legacy) and v2 (deduplicated) formats
-  if (data.v === 2 || data.p) {
+  // Store tag lookup array
+  tagLookup = data.g || [];
+
+  // Handle v1 (legacy), v2 (deduplicated), and v3 (with tags) formats
+  if (data.v >= 3 || data.g) {
+    // V3 format with tags: expand records with tag data
+    allRecords = expandRecordsV3(data);
+  } else if (data.v === 2 || data.p) {
     // V2 deduplicated format: expand records
     allRecords = expandRecords(data);
   } else {
@@ -39,7 +46,7 @@ function initIndex(data) {
   });
   miniSearch.addAll(allRecords);
 
-  self.postMessage({ type: 'ready' });
+  self.postMessage({ type: 'ready', tagCount: tagLookup.length });
 }
 
 // Expand deduplicated v2 format into full records
@@ -62,11 +69,78 @@ function expandRecords(data) {
       date: post.dt,
       timestamp: post.ts,
       content: rec[1],
-      type: rec[2] === 1 ? 'p' : 'li'
+      type: rec[2] === 1 ? 'p' : 'li',
+      tags: []  // No tags in v2
     });
   }
 
   return expanded;
+}
+
+// Expand v3 format with tags into full records
+function expandRecordsV3(data) {
+  var posts = data.p;
+  var compactRecords = data.r;
+  var expanded = [];
+
+  for (var i = 0; i < compactRecords.length; i++) {
+    var rec = compactRecords[i];
+    // rec = [postIndex, content, type]
+    var postIdx = rec[0];
+    var post = posts[postIdx];
+    // Resolve tag indices to tag names
+    var tags = (post.g || []).map(function(idx) { return tagLookup[idx]; });
+
+    expanded.push({
+      id: i,
+      url: post.u,
+      title: post.t,
+      description: post.d,
+      date: post.dt,
+      timestamp: post.ts,
+      content: rec[1],
+      type: rec[2] === 1 ? 'p' : 'li',
+      tags: tags
+    });
+  }
+
+  return expanded;
+}
+
+// Parse tag: syntax from query
+function parseQuery(query) {
+  var tagPattern = /tag:(\S+)/gi;
+  var tags = [];
+  var match;
+  while ((match = tagPattern.exec(query)) !== null) {
+    tags.push(match[1].toLowerCase());
+  }
+  var textQuery = query.replace(tagPattern, '').trim();
+  return { textQuery: textQuery, queryTags: tags };
+}
+
+// Check if record tags match filter tags
+function matchesTags(recordTags, filterTags) {
+  if (!recordTags || recordTags.length === 0) return false;
+  return filterTags.every(function(ft) {
+    return recordTags.some(function(rt) {
+      return rt.toLowerCase().indexOf(ft) !== -1;
+    });
+  });
+}
+
+// Calculate boost based on tag matches with search terms
+function calculateTagBoost(tags, queryTerms) {
+  if (!tags || tags.length === 0 || queryTerms.length === 0) return 1.0;
+  var boost = 1.0;
+  queryTerms.forEach(function(term) {
+    if (tags.some(function(t) { return t.toLowerCase() === term; })) {
+      boost *= 1.5;  // Exact tag match
+    } else if (tags.join(' ').toLowerCase().indexOf(term) !== -1) {
+      boost *= 1.2;  // Partial tag match
+    }
+  });
+  return Math.min(boost, 2.5);  // Cap boost
 }
 
 // Perform search and return results
@@ -76,19 +150,43 @@ function performSearch(query, requestId) {
     return;
   }
 
-  var results = miniSearch.search(query, {
-    fuzzy: 0.2,
-    prefix: true,
-    boost: { content: 1 }
-  });
+  // Parse tag: syntax from query (kept for future use)
+  var parsed = parseQuery(query);
+  var results;
+
+  if (parsed.textQuery.length >= 2) {
+    // Text search
+    results = miniSearch.search(parsed.textQuery, {
+      fuzzy: 0.2,
+      prefix: true,
+      boost: { content: 1 }
+    });
+  } else if (parsed.queryTags.length > 0) {
+    // Tag-only search (no text query)
+    results = allRecords
+      .filter(function(r) { return matchesTags(r.tags, parsed.queryTags); })
+      .map(function(r) { return { id: r.id, score: 1 }; });
+  } else {
+    // Query too short and no tags
+    self.postMessage({ type: 'results', results: [], id: requestId });
+    return;
+  }
+
+  // Apply tag filters from tag: syntax if present
+  if (parsed.queryTags.length > 0 && parsed.textQuery.length >= 2) {
+    results = results.filter(function(result) {
+      var record = recordMap[result.id];
+      return matchesTags(record.tags, parsed.queryTags);
+    });
+  }
 
   // Limit results for performance
   if (results.length > 500) {
     results = results.slice(0, 500);
   }
 
-  // Extract search terms for phrase matching
-  var searchTerms = query.toLowerCase().split(/\s+/).filter(function(t) { return t.length > 1; });
+  // Extract search terms for phrase matching (exclude tag: syntax)
+  var searchTerms = parsed.textQuery.toLowerCase().split(/\s+/).filter(function(t) { return t.length > 1; });
 
   // Apply custom scoring
   var now = Date.now() / 1000;
@@ -103,10 +201,13 @@ function performSearch(query, requestId) {
     // Phrase/proximity boost
     var phraseBoost = calculatePhraseBoost(record.content, searchTerms);
 
+    // Tag boost - boost results where search terms match tag names
+    var tagBoost = calculateTagBoost(record.tags, searchTerms);
+
     return {
       id: result.id,
       score: result.score,
-      finalScore: result.score * recencyBoost * typeBoost * phraseBoost,
+      finalScore: result.score * recencyBoost * typeBoost * phraseBoost * tagBoost,
       record: record
     };
   });

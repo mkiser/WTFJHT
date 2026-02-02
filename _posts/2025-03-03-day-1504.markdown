@@ -17,6 +17,11 @@ todayInOneSentence: 'Trump confirmed that 25% tariffs on imports from Mexico and
   of Trump’s job performance; 53% of Americans believe the state of the union is not
   strong; and 80% of Americans want Trump to focus more on inflation and the economy,
   but only 29% say he’s prioritizing inflation “a lot.” '
+tags:
+  - tariffs
+  - ukraine
+  - national-security
+  - immigration
 ---
 
 1/ **Trump confirmed that 25% tariffs on imports from Mexico and Canada would take effect Tuesday**, ending a one-month delay. “The tariffs, you know, they’re all set,” Trump said. “They go into effect tomorrow.” He added there was “No room left for Mexico or for Canada” for further negotiations and linked the tariffs to efforts to curb fentanyl trafficking. Trump also announced an additional 10% tariff on Chinese imports, doubling a levy he imposed last month. “Tariffs are easy, they’re fast, they’re efficient and they bring fairness,” Trump said. “It’s going to be very costly for people to take advantage of this country. They can’t come in and steal our money and steal our jobs and take our factories and take our businesses and expect not to be punished — and they’re being punished by tariffs.” The Dow fell 1.48%, the S&P 500 dropped 1.76%, and the Nasdaq declined 2.64% as investors braced for economic fallout. ([Associated Press](https://apnews.com/article/trump-tariffs-mexico-canada-b19e004dddb579c373b247037e04424b) / [Washington Post](https://www.washingtonpost.com/business/2025/03/03/trump-tariffs-canada-mexico/) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-02/trump-barrels-toward-tariff-barrage-on-canada-mexico-and-china) / [CNBC](https://www.cnbc.com/2025/03/03/trump-dashes-hope-for-last-minute-canada-and-mexico-deal-ahead-of-25percent-tariffs.html) / [New York Times](https://www.nytimes.com/2025/03/03/business/economy/trump-tariffs-china-mexico-canada.html?smid=url-share))

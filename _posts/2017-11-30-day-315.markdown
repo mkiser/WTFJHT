@@ -5,6 +5,10 @@ categories:
 - trump
 description: 'Rexit. '
 image: "/uploads/315.jpg"
+tags:
+  - cabinet
+  - opioids
+  - taxes
 ---
 
 1/ **The White House plans to force Secretary of State Rex Tillerson out and replace him with Mike Pompeo**, the current CIA director, at the end of the year. Pompeo would be replaced by Senator Tom Cotton. It's unclear if Trump has signed off on the plan, which was devised by John Kelly. ([New York Times](https://www.nytimes.com/2017/11/30/us/politics/state-department-tillerson-pompeo-trump.html) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/11/30/white-house-readies-plan-to-replace-tillerson-with-pompeo-install-cotton-at-cia/))

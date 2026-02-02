@@ -5,6 +5,10 @@ categories:
 - trump
 description: No guarantees.
 image: "/uploads/252.jpg"
+tags:
+  - taxes
+  - mueller-investigation
+  - disinformation
 ---
 
 1/ **Trump's top economic adviser "can't guarantee" taxes won't go up for the middle class**. Gary Cohn said Trump's tax plan is "purely aimed at middle-class families," but "it depends which state you live in." He added that the rich will not benefit under the plan. Trump wanted to propose a 15% corporate rate rather than the 20% announced, which is down from the current 35%. ([ABC News](http://abcnews.go.com/Politics/trump-adviser-guarantee-taxes-middle-class/story?id=50149729) / [Axios](https://www.axios.com/the-gops-nightmare-scenario-2490500624.html))

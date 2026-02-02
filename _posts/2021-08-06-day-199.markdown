@@ -13,6 +13,10 @@ todayInOneSentence: Biden is considering withholding federal funds in order to s
   is considering whether to ask for the White House call logs from the day of the
   insurrection.
 author: Joe Amditis
+tags:
+  - vaccine-mandate
+  - jan-6
+  - national-security
 ---
 
 1/ **The Biden administration is considering withholding federal funds, among other measures, in order to spur vaccinations**. The moves, if adopted, would amount to a dramatic escalation in the effort to vaccinate the roughly 90 million Americans who are eligible for shots but remain unvaccinated. ([Washington Post](https://www.washingtonpost.com/politics/biden-vaccines-delta/2021/08/05/4359ac76-f567-11eb-a49b-d96f2dac0942_story.html))

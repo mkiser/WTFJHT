@@ -13,6 +13,11 @@ todayInOneSentence: A Trump-appointed federal judge blocked the administration f
   trials; and the Trump administration cut $1 billion in mental health grants for
   schools, ending a key part of a bipartisan law passed after the Uvalde school shooting
   that killed 21 people.
+tags:
+  - immigration
+  - tariffs
+  - national-security
+  - healthcare
 ---
 
 1/ **A Trump-appointed federal judge blocked the administration from using the Alien Enemies Act to deport Venezuelan migrants**, calling the move unlawful and outside of Trump’s authority. Judge Fernando Rodriguez Jr. said Trump’s claim of an “invasion” by the Venezuelan gang Tren de Aragua “exceeds the scope of the statute” and misrepresents the law’s original meaning. “The Proclamation makes no reference to \[...\] an organized, armed group of individuals entering the United States,” Rodriguez wrote. The decision marks the first permanent ruling against the administration’s use of the 18th-century wartime law to carry out peacetime mass deportations without hearings. ([NPR](https://www.npr.org/2025/05/01/g-s1-63830/trump-appointed-federal-judge-blocks-use-of-alien-enemies-act-for-venezuelans-in-south-texas) / [Politico](https://www.politico.com/news/2025/05/01/trump-deportations-court-ruling-00321455) / [CNN](https://www.cnn.com/2025/05/01/politics/alien-enemies-act-trump-rodriguez-ruling) / [Axios](https://www.axios.com/2025/05/01/trump-alien-enemies-act-unlawful-judge) / [Washington Post](https://www.washingtonpost.com/immigration/2025/05/01/trump-texas-alien-enemies-act-block/) / [New York Times](https://www.nytimes.com/2025/05/01/us/texas-judge-trump-alien-enemies-act.html) / [Associated Press](https://apnews.com/article/trump-deportations-alien-enemies-act-venezuelans-texas-e0dda59f64b1f5752fb92a91ff7878f8) / [NBC News](https://www.nbcnews.com/politics/immigration/trump-appointed-federal-district-judge-rejects-use-alien-enemies-act-v-rcna204150) / [Reuters](https://www.reuters.com/world/us/trump-cannot-use-alien-enemies-act-deport-venezuelans-judge-rules-2025-05-01/))

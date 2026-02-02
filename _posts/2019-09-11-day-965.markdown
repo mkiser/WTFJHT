@@ -11,6 +11,9 @@ todayInOneSentence: Trump ordered his staff to have NOAA repudiate a tweet by we
   of NOAA into supporting Trump's false claim about Hurricane Dorian; the Trump administration
   will not grant temporary protected status to Bahamians displaced by Hurricane Dorian;
   and Trump's trade war with China has reduced U.S. employment by 300,000 jobs.
+tags:
+  - disinformation
+  - oversight
 ---
 
 1/ **Trump ordered Mick Mulvaney to have NOAA repudiate a tweet by weather forecasters that contradicted his statement that Hurricane Dorian posed a significant threat to Alabama**. Mulvaney then called Commerce Secretary Wilbur Ross to tell him to have the forecasters disavow their position that Alabama was not at risk. Ross, in turn, threatened to fire top employees at NOAA if the situation was not addressed. Trump, meanwhile, denied ordering Mulvaney to direct Ross to pressure NOAA to rebuke scientists who contradicted his hurricane claim, saying "I never did that — I never did that," dismissing the situation as "a hoax by the fake news media." ([New York Times](https://www.nytimes.com/2019/09/11/us/politics/trump-alabama-noaa.html) / [Washington Post](https://www.washingtonpost.com/weather/2019/09/11/lawmakers-commerce-department-launch-investigations-into-noaas-decision-back-presidents-trump-over-forecasters/) / [Politico](https://www.politico.com/story/2019/09/11/trump-mick-mulvaney-hurricane-dorian-claims-1489686))

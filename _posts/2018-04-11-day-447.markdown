@@ -5,6 +5,11 @@ categories:
 - trump
 description: Get ready.
 image: "/uploads/447.jpg"
+tags:
+  - mueller-investigation
+  - national-security
+  - resignation
+  - tech-policy
 ---
 
 1/ **Trump tweets that "smart" missiles "will be coming" toward Syria in response to a chemical attack, taunting Russia to "get ready."** Russia's ambassador to Lebanon [said](https://www.nytimes.com/reuters/2018/04/11/world/middleeast/11reuters-mideast-crisis-syria-russia-diplomat.html) any U.S. missiles fired at Syria would be shot down and the launch sites targeted. Trump also condemned Moscow's backing of Bashar al-Assad, saying: "You shouldn't be partners with a Gas Killing Animal who kills his people and enjoys it!" In a pair of subsequent tweets, Trump said relations between the U.S. and Russia are "worse now than it has ever been" and the "Fake and Corrupt Russia Investigation," Democrats, and everybody that worked for Obama are to blame. ([New York Times](https://www.nytimes.com/2018/04/11/world/middleeast/trump-syria-attack.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-says-missiles-will-be-coming-to-syria-taunts-russia-for-vowing-to-block-them/2018/04/11/7dc52fa0-3d7a-11e8-8d53-eba0ed2371cc_story.html))

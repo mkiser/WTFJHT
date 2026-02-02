@@ -5,6 +5,10 @@ categories:
 - trump
 description: The United States is under attack.
 image: "/uploads/390.jpg"
+tags:
+  - russia
+  - disinformation
+  - midterm-election
 ---
 
 1/ **U.S. intelligence agencies expect Russia to meddle in the 2018 midterm elections through hacking and social media manipulation**. During testimony at the Senate Intelligence Committee's annual hearing on worldwide threats, Director of National Intelligence Dan Coats told the committee: "Frankly, the United States is under attack" and that Russia will continue to engage in cyber attacks to "degrade our democratic values and weaken our alliances." He added: "There should be no doubt that Russia perceives its past efforts as successful and views the 2018 U.S. midterm elections as a potential target for Russian influence operations." ([New York Times](https://www.nytimes.com/2018/02/13/us/politics/russia-sees-midterm-elections-as-chance-to-sow-fresh-discord-intelligence-chiefs-warn.html) / [USA Today](https://www.usatoday.com/story/news/politics/2018/02/13/intelligence-director-coats-says-u-s-under-attack-putin-targeting-2018-elections/332566002/) / [NBC News](https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-expect-russia-escalate-election-meddling-efforts-n847551))

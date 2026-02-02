@@ -15,6 +15,11 @@ todayInOneSentence: 'The Federal Reserve held interest rates steady at 4.25% to 
   country the State Department describes as plagued by “crime, terrorism, kidnapping
   and armed conflict; and Trump teased an “earth-shattering” announcement ahead of
   his Middle East trip next week, but refused to provide details. '
+tags:
+  - economy
+  - tariffs
+  - immigration
+  - healthcare
 ---
 
 1/ **The Federal Reserve held interest rates steady at 4.25% to 4.5%, warning that Trump’s tariffs risk both higher unemployment and higher inflation**. “It’s really not at all clear what it is we should do,” Chair Jerome Powell said, calling the economic outlook “extremely elevated” in uncertainty. Trump’s 145% tariff on Chinese imports and a universal 10% duty have disrupted trade flows, rattled markets, and complicated the Fed’s efforts to balance price stability with job growth. The U.S. economy contracted last quarter, prompting fears of stagflation. Despite pressure from Trump to cut rates, the Fed signaled no immediate move. Powell said the cost of waiting was “fairly low,” adding that political pressure “doesn’t affect doing our job at all.” ([Wall Street Journal](https://www.wsj.com/economy/central-banking/fed-keeps-rates-steady-as-tariff-uncertainty-roils-outlook-55ebe99f) / [Associated Press](https://apnews.com/article/federal-reserve-powell-rate-inflation-tariff-7b96cf47c986602db51ce87055ca5f24) / [Washington Post](https://www.washingtonpost.com/business/2025/05/29/fed-powell-trump-interest-rates-pause/) / [New York Times](https://www.nytimes.com/live/2025/05/07/business/fed-interest-rates) / [CNN](https://www.cnn.com/2025/05/07/economy/fed-rate-decision-may) / [CNBC](https://www.cnbc.com/2025/05/07/fed-rate-decision-may-2025.html) / [Bloomberg](https://www.bloomberg.com/news/live-blog/2025-05-07/fed-rate-decision-and-powell-news-conference) / [NBC News](https://www.nbcnews.com/business/economy/federal-reserve-interest-rate-decision-may-2025-what-to-know-rcna204854) / [Politico](https://www.politico.com/news/2025/05/07/trump-fed-powell-rates-economy-tariffs-00332819) / [Axios](https://www.axios.com/2025/05/07/fed-rates-powell-trump-tariffs))

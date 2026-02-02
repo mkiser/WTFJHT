@@ -1,0 +1,45 @@
+<nav class="browse-nav">
+  <p class="browse-nav__back"><a href="/archive/">← Browse the Archive</a></p>
+
+  <div class="browse-nav__section">
+    <h3 class="browse-nav__title">By Date</h3>
+    {% assign years = site.archives | where:"type", "year" %}
+    {% for year in years reversed %}
+      <div class="browse-nav__year">
+        <a href="{{ year.url }}" class="browse-nav__year-link">{{ year.posts[0].date | date:"%Y" }}</a>
+        {% assign months = site.archives | where:"type", "month" %}
+        <span class="browse-nav__months">
+        {%- assign first_month = true -%}
+        {%- for month in months reversed -%}
+          {%- assign monthYear = month.posts[0].date | date:"%Y" -%}
+          {%- assign yearYear = year.posts[0].date | date:"%Y" -%}
+          {%- if monthYear == yearYear -%}
+            {%- unless first_month -%}<span class="browse-nav__sep"> · </span>{%- endunless -%}
+            <a href="{{ month.url }}" class="browse-nav__month">{{ month.posts[0].date | date:"%b" }}</a>
+            {%- assign first_month = false -%}
+          {%- endif -%}
+        {%- endfor -%}
+        </span>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="browse-nav__section">
+    <h3 class="browse-nav__title">By Topic</h3>
+    {% assign sorted_tags = site.tags | sort %}
+    <ul class="browse-nav__tags">
+      {% for tag in sorted_tags %}
+        {% assign tag_name = tag[0] %}
+        {% assign tag_posts = tag[1] %}
+        {% assign tag_words = tag_name | split: '-' %}
+        {% assign capitalized_words = '' | split: '' %}
+        {% for word in tag_words %}
+          {% assign cap_word = word | capitalize %}
+          {% assign capitalized_words = capitalized_words | push: cap_word %}
+        {% endfor %}
+        {% assign tag_display = capitalized_words | join: ' ' %}
+        <li class="browse-nav__tag"><a href="/tags/{{ tag_name }}/">{{ tag_display }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>

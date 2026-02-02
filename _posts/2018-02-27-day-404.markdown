@@ -5,6 +5,10 @@ categories:
 - trump
 description: Taking things seriously.
 image: "/uploads/404.jpg"
+tags:
+  - mueller-investigation
+  - disinformation
+  - immigration
 ---
 
 1/ **Jared Kushner's security clearance was downgraded** from "Interim Top Secret" to "Interim Secret." The Interim Top Secret clearance, which Kushner has been operating under for about a year, allowed him to attend classified briefings and read the President's Daily Brief, among other things. ([Politico](https://www.politico.com/story/2018/02/27/jared-kushner-security-clearance-downgrade-427178) / [Reuters](https://www.reuters.com/article/us-usa-trump-kushner/trump-close-adviser-kushner-loses-access-to-coveted-intelligence-briefing-sources-idUSKCN1GB2VE) / [Axios](https://www.axios.com/jared-kushner-security-clearance-john-kelly-81ce8cf6-f0b8-47c2-ba73-1a5a375a3edc.html?stream=politics&utm_source=alert&utm_medium=email&utm_campaign=alerts_politics))

@@ -5,6 +5,10 @@ categories:
 - trump
 description: 'Virtually unexplained. '
 image: "/uploads/461.jpg"
+tags:
+  - immigration
+  - housing
+  - ethics
 ---
 
 1/ **A federal judge ruled that the Trump administration must resume accepting new DACA applications**, saying the Department of Homeland Security's legal explanation for ending the Deferred Action for Childhood Arrivals program was "arbitrary," "capricious," and predicated on "virtually unexplained" grounds and therefore "unlawful." DHS now has 90 days to better explain its reasoning for canceling the program, or the judge will rescind the government memo that terminated the program. ([New York Times](https://www.nytimes.com/2018/04/24/us/daca-dreamers-trump.html) / [Politico](https://www.politico.com/story/2018/04/24/third-judge-rules-against-trump-daca-550092) / [Washington Post](https://www.washingtonpost.com/local/immigration/2018/04/24/cfb41578-4816-11e8-8b5a-3b1697adcc2a_story.html) / [NBC News](https://www.nbcnews.com/storyline/immigration-reform/third-federal-judge-issues-strongest-order-yet-backing-daca-n868866))

@@ -11,6 +11,8 @@ todayInOneSentence: 'The Senate voted 51-49 to advance Brett Kavanaugh''s Suprem
   that he "might have been too emotional" during his testimony before the Senate Judiciary
   Committee; and Trump mocked Al Franken for folding "like a wet rag" when faced with
   sexual misconduct allegations. '
+tags:
+  - supreme-court
 ---
 
 1/ **The Senate voted 51-49 to advance Brett Kavanaugh's Supreme Court nomination**. Republican Lisa Murkowski voted not to advance the nomination. She called the cloture vote "a mistake," saying Kavanaugh is "not the best man for the court at this time." Flake told reporters he would support Kavanaugh on the final vote, "unless something big changes." A final floor vote is expected to take place on Saturday. ([New York Times](https://www.nytimes.com/2018/10/05/us/politics/brett-kavanaugh-vote-confirmed.html) / [Washington Post](https://www.washingtonpost.com/politics/kavanaugh-vote-hours-before-a-key-test-grassley-says-he-doesnt-know-how-it-will-go/2018/10/05/a71d92ba-c886-11e8-b1ed-1d2d65b86d0c_story.html) / [Politico](https://www.politico.com/story/2018/10/05/kavanaugh-votes-confirmed-872713) / [NBC News](https://www.nbcnews.com/politics/congress/senate-take-critical-procedural-vote-kavanaugh-friday-n917036) / [Wall Street Journal](https://www.wsj.com/livecoverage/kavanaugh))

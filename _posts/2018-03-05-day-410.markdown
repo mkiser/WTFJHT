@@ -5,6 +5,11 @@ categories:
 - trump
 description: President for life.
 image: "/uploads/410.jpg"
+tags:
+  - mueller-investigation
+  - subpoena
+  - disinformation
+  - china
 ---
 
 1/ **Robert Mueller's grand jury issued a subpoena requesting all communications involving Trump's associates**, including Carter Page, Corey Lewandowski, Hope Hicks, Paul Manafort, Rick Gates, Roger Stone, Steve Bannon, Keith Schiller, Michael Cohen, and Sam Nunberg. Investigators are asking for emails, texts, working papers, telephone records, and more from November 1st, 2015, to the present. ([NBC News](https://www.nbcnews.com/politics/white-house/special-counsel-wants-documents-trump-numerous-campaign-associates-n853386) / [Axios](https://www.axios.com/robert-muller-questions-list-trump-russia-54d00d1c-f008-457c-b304-ee601a98d78c.html))

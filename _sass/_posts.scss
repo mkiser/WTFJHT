@@ -411,3 +411,488 @@ div.topic-date {
 
 
 */
+
+// Post tags
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 2rem 0 1.5rem 0;
+  padding-top: 1.5rem;
+  border-top: 1px solid #eee;
+}
+
+.post-tag {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.8rem;
+  color: #515151;
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 1rem;
+  text-decoration: none;
+  transition: all 0.15s ease;
+
+  &:hover {
+    background: #eee;
+    border-color: #ccc;
+    color: #303030;
+    text-decoration: none;
+  }
+
+  &:active {
+    background: #e5e5e5;
+    border-color: #bbb;
+  }
+}
+
+// Tag index page
+.tag-index {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+
+  &__heading {
+    margin-bottom: 0.5rem;
+  }
+
+  &__summary {
+    color: #767676;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  &__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  &__item {
+    margin: 0;
+  }
+
+  &__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.8rem;
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 1rem;
+    text-decoration: none;
+    color: #515151;
+    font-size: 0.85rem;
+    transition: all 0.15s ease;
+
+    &:hover {
+      background: #eee;
+      border-color: #ccc;
+      color: #303030;
+      text-decoration: none;
+    }
+
+    &:active {
+      background: #e5e5e5;
+      border-color: #bbb;
+    }
+  }
+
+  &__count {
+    background: #ddd;
+    padding: 0.1rem 0.4rem;
+    border-radius: 0.5rem;
+    font-size: 0.75rem;
+    color: #666;
+  }
+}
+
+// Tag archive page (individual tag)
+.tag-archive {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+
+  &__heading {
+    margin-bottom: 0.25rem;
+  }
+
+  &__count {
+    color: #767676;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  &__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  &__post {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  &__link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+
+    &:hover .tag-archive__title {
+      text-decoration: underline;
+    }
+  }
+
+  &__title {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+  }
+
+  &__date {
+    display: block;
+    font-size: 0.8rem;
+    color: #767676;
+  }
+
+  &__back {
+    margin-top: 2rem;
+    font-size: 0.9rem;
+
+    a {
+      color: #515151;
+      text-decoration: none;
+
+      &:hover {
+        color: $link-color;
+      }
+    }
+  }
+
+  // Mobile: better readability
+  @media (max-width: 600px) {
+    &__post {
+      margin-bottom: 1.25rem;
+      padding-bottom: 1.25rem;
+    }
+
+    &__title {
+      font-size: 0.95rem;
+      line-height: 1.4;
+    }
+  }
+}
+
+// Unified archive pages (year/month archives) - matches tag-archive style
+.archive-page {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+
+  &__heading {
+    margin-bottom: 0.25rem;
+  }
+
+  &__count {
+    color: #767676;
+    font-size: 0.9rem;
+    margin-bottom: 2rem;
+  }
+
+  &__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  &__item {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  &__link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+
+    &:hover .archive-page__title {
+      text-decoration: underline;
+    }
+  }
+
+  &__title {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+  }
+
+  &__description {
+    font-weight: normal;
+    color: #515151;
+  }
+
+  &__date {
+    display: block;
+    font-size: 0.8rem;
+    color: #767676;
+  }
+}
+
+// Browse archive page (unified /archive)
+.browse-archive {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+
+  &__heading {
+    margin-bottom: 0.25rem;
+  }
+
+  &__summary {
+    color: #767676;
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+  }
+
+  &__calendar {
+    margin-bottom: 2rem;
+
+    a {
+      color: #515151;
+
+      &:hover {
+        color: $link-color;
+      }
+    }
+  }
+
+  &__section {
+    margin-bottom: 2rem;
+  }
+
+  &__section-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #303030;
+  }
+
+  &__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  &__tag {
+    margin: 0;
+
+    a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 0.3rem 0.6rem;
+      background: #f5f5f5;
+      border: 1px solid #ddd;
+      border-radius: 1rem;
+      text-decoration: none;
+      color: #515151;
+      font-size: 0.8rem;
+      transition: all 0.15s ease;
+
+      &:hover {
+        background: #eee;
+        border-color: #ccc;
+      }
+    }
+  }
+
+  &__tag-count {
+    color: #999;
+    font-size: 0.75rem;
+  }
+
+  &__year {
+    margin-bottom: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem 0;
+  }
+
+  &__year-link {
+    font-weight: 600;
+    color: #303030;
+    text-decoration: none;
+    margin-right: 0.5rem;
+    flex-shrink: 0;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &__months {
+    font-size: 0.85rem;
+  }
+
+  &__month {
+    color: #767676;
+    text-decoration: none;
+
+    &:hover {
+      color: #303030;
+      text-decoration: underline;
+    }
+  }
+
+  &__sep {
+    color: #ccc;
+  }
+
+  // Mobile: larger tap targets for tags
+  @media (max-width: 600px) {
+    &__tags {
+      gap: 0.5rem;
+    }
+
+    &__tag a {
+      padding: 0.4rem 0.7rem;
+      font-size: 0.85rem;
+    }
+  }
+}
+
+// Browse navigation (bottom of tag/archive pages)
+.browse-nav {
+  max-width: 40rem;
+  margin: 2rem auto 0;
+  padding: 1.5rem 1rem;
+  border-top: 1px solid #eee;
+
+  &__back {
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+
+    a {
+      color: #515151;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  &__section {
+    margin-bottom: 1.5rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &__title {
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    color: #303030;
+  }
+
+  &__year {
+    margin-bottom: 0.4rem;
+    font-size: 0.85rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.2rem 0;
+  }
+
+  &__year-link {
+    font-weight: 600;
+    color: #303030;
+    text-decoration: none;
+    margin-right: 0.25rem;
+    flex-shrink: 0;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &__months {
+    font-size: 0.8rem;
+  }
+
+  &__month {
+    color: #767676;
+    text-decoration: none;
+
+    &:hover {
+      color: #303030;
+      text-decoration: underline;
+    }
+  }
+
+  &__sep {
+    color: #ccc;
+  }
+
+  &__tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  &__tag {
+    margin: 0;
+
+    a {
+      display: inline-block;
+      padding: 0.2rem 0.5rem;
+      background: #f5f5f5;
+      border: 1px solid #ddd;
+      border-radius: 1rem;
+      text-decoration: none;
+      color: #515151;
+      font-size: 0.75rem;
+      transition: all 0.15s ease;
+
+      &:hover {
+        background: #eee;
+        border-color: #ccc;
+      }
+    }
+  }
+
+  // Mobile: larger tap targets for tags
+  @media (max-width: 600px) {
+    &__tags {
+      gap: 0.5rem;
+    }
+
+    &__tag a {
+      padding: 0.35rem 0.6rem;
+      font-size: 0.8rem;
+    }
+  }
+}

@@ -21,6 +21,11 @@ todayInOneSentence: 'A classified U.S. intelligence report found that Trump’s 
   forest land since 2001; a fired Justice Department lawyer accused top officials
   of planning to ignore federal court orders to carry out Trump’s deportation plan;
   and ICE is detaining 59,000 immigrants nationwide – the highest number ever recorded. '
+tags:
+  - national-security
+  - foreign-policy
+  - congress
+  - oversight
 ---
 
 

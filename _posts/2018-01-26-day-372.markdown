@@ -5,6 +5,9 @@ categories:
 - trump
 description: Confrontation.
 image: "/uploads/372.jpg"
+tags:
+  - mueller-investigation
+  - immigration
 ---
 
 1/ **Trump tried to fire Robert Mueller in June, but backed down after Don McGahn threatened to quit if Trump went through with it.** After receiving the order from Trump, the White House counsel refused to ask the Justice Department to fire Mueller and said he would resign instead. Mueller learned about Trump's intention in recent months through interviews with current and former senior White House officials. ([New York Times](https://www.nytimes.com/2018/01/25/us/politics/trump-mueller-special-counsel-russia.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-moved-to-fire-mueller-in-june-bringing-white-house-counsel-to-the-brink-of-leaving/2018/01/25/9184a49e-0238-11e8-bb03-722769454f82_story.html?utm_term=.3a2d7d44c963))

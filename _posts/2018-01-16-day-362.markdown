@@ -5,6 +5,9 @@ categories:
 - trump
 description: Subpoenaed.
 image: "/uploads/362.jpg"
+tags:
+  - mueller-investigation
+  - government-shutdown
 ---
 
 1/ **Steve Bannon was subpoenaed to testify in front of a grand jury as part of special counsel Robert Mueller's <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia probe</a>**. It's the first time Mueller has used a grand jury subpoena to get information from someone in Trump's inner circle. Mueller, however, may end up letting Bannon forgo the grand jury appearance if he allows investigators to question him at the special counsel's offices in Washington. ([New York Times](https://www.nytimes.com/2018/01/16/us/politics/steve-bannon-mueller-russia-subpoena.html?_r=0&smid=tw-nytimes&smtyp=cur))

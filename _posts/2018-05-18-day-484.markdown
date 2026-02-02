@@ -5,6 +5,10 @@ categories:
 - trump
 description: Really bad stuff.
 image: "/uploads/484.jpg"
+tags:
+  - mueller-investigation
+  - reproductive-rights
+  - gun-policy
 ---
 
 1/ **The Trump administration will withhold federal funding for family planning clinics that provide abortions or refer patients to places that perform them** in a change to how Title X family planning funds are awarded. The rule will resurrect a Reagan-era policy that requires abortion services to have "separate personnel" and require a "bright line" of "physical separation" from other family planning services. Title X serves about 4 million women a year and costs taxpayers about $260 million. ([New York Times](https://www.nytimes.com/2018/05/17/us/politics/trump-funding-abortion-restrictions.html) / [Washington Post](https://www.washingtonpost.com/news/to-your-health/wp/2018/05/18/planned-parenthood-likely-to-lose-millions-under-trump-administrations-new-title-x-family-planning-rules/) / [Associated Press](https://apnews.com/a777f010d69347468e8b2945ab339348))

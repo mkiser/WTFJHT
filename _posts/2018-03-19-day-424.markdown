@@ -5,6 +5,11 @@ categories:
 - trump
 description: Brilliant and courageous.
 image: "/uploads/424.jpg"
+tags:
+  - mueller-investigation
+  - judiciary
+  - disinformation
+  - corruption
 ---
 
 1/ **Trump's legal team recently turned over documents to Robert Mueller** in hopes of limiting the scope of a possible presidential interview and minimizing Trump's exposure to the special counsel. The documents include summaries of internal White House memos and communication about key moments, including the firings of Michael Flynn and James Comey. ([Washington Post](https://www.washingtonpost.com/politics/trumps-lawyers-have-turned-over-documents-to-mueller-with-hopes-of-limiting-interview-scope/2018/03/19/9174cd54-2b9f-11e8-b0b0-f706877db618_story.html))

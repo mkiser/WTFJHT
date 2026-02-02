@@ -11,6 +11,10 @@ todayInOneSentence: The FDA granted full approval to the Pfizer vaccine; the Pen
   House plans to request phone records from that day from members of Congress; and
   Democrats are planning a vote on Biden's $3.5 trillion budget package.
 author: Joe Amditis
+tags:
+  - covid
+  - national-security
+  - jan-6
 ---
 
 1/ **The FDA granted full approval to the Pfizer-BioNTech’s COVID-19 vaccine**, clearing the path to more vaccine mandates at hospitals, colleges, corporations and other organizations across the country. The vaccine is now officially approved for all people 16 and older, making it the first to move beyond emergency-use status in the United States. ([New York Times](https://www.nytimes.com/2021/08/23/us/politics/fda-approval-pfizer-vaccine.html) / [CNBC](https://www.cnbc.com/2021/08/23/fda-pfizer-biontech-covid-vaccine-wins-full-approval-clearing-path-to-mandates.html))

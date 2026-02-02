@@ -5,6 +5,9 @@ categories:
 - trump
 description: Tag teamed.
 image: "/uploads/224.jpg"
+tags:
+  - mueller-investigation
+  - immigration
 ---
 
 1/ **Robert Mueller and the New York attorney general have teamed up to investigate Paul Manafort and his financial transactions**. Mueller and Eric Schneiderman have been sharing evidence on potential financial crimes, including potential money laundering, as well as attempting to get Manafort to cooperate by approaching his family members and former business partners. Several firms and people who have worked with him have received subpoenas. Mueller working with New York state is important because Trump's pardon power does not extend to state crimes. If Manafort or anyone else is charged under New York law, there will be nothing Trump can do about it. ([Politico](http://www.politico.com/story/2017/08/30/manafort-mueller-probe-attorney-general-242191) / [Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2017/08/31/trump-and-manafort-get-big-reminder-that-pardon-power-does-not-extend-to-state-crimes/))

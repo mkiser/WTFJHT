@@ -10,6 +10,9 @@ todayInOneSentence: 'The FBI hasn''t interviewed Brett Kavanaugh or Christine Bl
   to wrap up its investigation today; the FBI has not contacted at least 40 potential
   corroborators or character witnesses about the allegations made against Kavanaugh;
   and Trump repeatedly mocked Christine Blasey Ford at a Mississippi rally. '
+tags:
+  - supreme-court
+  - oversight
 ---
 
 1/ **The FBI hasn't interviewed Brett Kavanaugh or Christine Blasey Ford because it doesn't have authority from the White House**, despite Trump's comment Monday that "the FBI should interview anybody that they want, within reason." The White House has indicated to the FBI that testimony from Kavanaugh and Ford is sufficient. ([Bloomberg](https://www.bloomberg.com/news/articles/2018-10-03/fbi-said-to-lack-white-house-approval-to-talk-to-kavanaugh-ford))

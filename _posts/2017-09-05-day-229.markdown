@@ -5,6 +5,10 @@ categories:
 - trump
 description: Rescinded.
 image: "/uploads/229.jpg"
+tags:
+  - immigration
+  - national-security
+  - climate
 ---
 
 1/ **Trump rescinded DACA and called on Congress to replace the policy before it expires on March 5, 2018**. The Department of Homeland Security will no longer accept new applications for Deferred Action for Childhood Arrivals, which has provided renewable, two-year work permits to nearly 800,000 dreamers. Jeff Sessions formally announced the shift of responsibility, saying DACA "was implemented unilaterally, to great controversy and legal concern.” He called the Obama-era policy an “open-ended circumvention of immigration laws” and an unconstitutional use of executive authority. “The executive branch through DACA deliberately sought to achieve what the legislative branch specifically refused to authorize on multiple occasions." ([New York Times](https://www.nytimes.com/2017/09/05/us/politics/trump-daca-dreamers-immigration.html) / [Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/09/05/trump-administration-announces-end-of-immigration-protection-program-for-dreamers/) / [Politico](http://www.politico.com/story/2017/09/03/trump-dreamers-immigration-daca-immigrants-242301))

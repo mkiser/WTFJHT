@@ -5,6 +5,11 @@ categories:
 - trump
 description: Malicious.
 image: "/uploads/420.jpg"
+tags:
+  - mueller-investigation
+  - national-security
+  - sanctions
+  - trade
 ---
 
 1/ **Robert Mueller subpoenaed the Trump Organization to turn over documents related to Russia** and other topics he's investigating. The subpoena was delivered in "recent weeks" and is the first known order directly related to Trump's businesses. ([New York Times](https://www.nytimes.com/2018/03/15/us/politics/trump-organization-subpoena-mueller-russia.html))

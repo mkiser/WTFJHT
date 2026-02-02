@@ -5,6 +5,9 @@ categories:
 - trump
 description: 'The 11th hour. '
 image: "/uploads/365.jpg"
+tags:
+  - government-shutdown
+  - immigration
 ---
 
 1/ **The Senate is heading toward a showdown vote on spending legislation to keep the government open past midnight**. Democrats appear ready to vote against the short-term spending bill in an effort to secure concessions that would offer protections for young undocumented immigrants, increase domestic spending, provide aid to Puerto Rico, and more. The Senate adjourned Thursday night without scheduling a vote. ([New York Times](https://www.nytimes.com/2018/01/19/us/politics/senate-showdown-government-shutdown-trump.html) / [Politico](https://www.politico.com/story/2018/01/19/senate-dissaray-government-shutdown-349298))

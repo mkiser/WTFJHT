@@ -13,6 +13,11 @@ todayInOneSentence: 'The U.S. economy shrank 0.3% in the first quarter of 2025 a
   judge ordered the release of Columbia student Mohsen Mahdawi, who was detained by
   ICE during his citizenship interview; and Trump said he “could” bring Kilmar Abrego
   Garcia back from El Salvador but won’t.'
+tags:
+  - economy
+  - tariffs
+  - immigration
+  - judiciary
 ---
 
 1/ **The U.S. economy shrank 0.3% in the first quarter of 2025 as Trump’s tariffs triggered a surge in imports and dragged down growth**. The Commerce Department said the decline was “primarily” driven by a 41% jump in imports, as businesses rushed to stockpile goods ahead of the new tariffs. That trade imbalance subtracted nearly five percentage points from GDP – the largest hit from net exports since records began in 1947. Consumer spending rose just 1.8% – less than half the pace of the previous quarter – while federal spending fell 5.1%. The stock market logged its worst start to a presidency in more than 50 years, and consumer confidence dropped for the fifth straight month. ([NPR](https://www.npr.org/2025/04/30/nx-s1-5380204/trump-economy-gdp-tariffs-recession-consumers) / [ABC News](https://abcnews.go.com/Business/us-economy-expected-slowed-sharply-start-trumps-2nd/story?id=121271040) / [CNBC](https://www.cnbc.com/2025/04/30/gdp-q1-2025-.html) / [Washington Post](https://www.washingtonpost.com/business/2025/04/30/gdp-q1-economy-tariffs/) / [Axios](https://www.axios.com/2025/04/30/gdp-trump-tariffs-economy) / [Wall Street Journal](https://www.wsj.com/economy/us-gdp-q1-2025-1f82f689) / [CNN](https://www.cnn.com/2025/04/30/economy/us-gdp-q1))

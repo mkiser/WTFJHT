@@ -12,6 +12,10 @@ todayInOneSentence: 'House Republicans failed to impeach Homeland Security Secre
   Trump; Nikki Haley lost Nevada’s presidential primary to “None of These Candidates”;
   and Israeli Prime Minister Benjamin Netanyahu rejected Hamas’s terms for a cease-fire
   and hostage-release agreement. '
+tags:
+  - impeachment
+  - national-security
+  - presidential-election
 ---
 
 1/ **House Republicans failed to impeach Homeland Security Secretary Alejandro Mayorkas** after four Republicans joined Democrats in voting against what would have been the second-ever impeachment of a Cabinet official. Although the vote failed 214-216, Republicans immediately moved to bring back the resolution up for another vote, but it's unclear when or if that will happen. ([New York Times](https://www.nytimes.com/live/2024/02/06/us/mayorkas-impeachment) / [NPR](https://www.npr.org/2024/02/06/1229642634/house-fails-to-pass-articles-of-impeachment-for-homeland-security-secretary-mayo) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-02-06/republicans-fail-in-drive-to-impeach-homeland-security-chief?sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/politics/2024/02/06/house-republicans-yell-gallagher-impeachment-vote/) / [CNN](https://www.cnn.com/2024/02/06/politics/house-vote-mayorkas-impeachment/index.html) / [Associated Press](https://apnews.com/article/mayorkas-border-impeachment-immigration-d5f6a7d91ea725768e27b9b2bc5391a4))

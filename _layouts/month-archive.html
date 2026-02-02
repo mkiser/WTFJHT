@@ -4,21 +4,20 @@ layout: default
 image: "/uploads/og-image.jpg"
 ---
 
-<h1 style="text-align: center;">Archive of posts from {{ page.date | date: "%B %Y" }}</h1>
+<div class="archive-page">
+  <h1 class="archive-page__heading">{{ page.date | date: "%B %Y" }}</h1>
+  <p class="archive-page__count">{{ page.posts.size }} post{% if page.posts.size != 1 %}s{% endif %}</p>
 
-{% include_cached archive-nav.html %}
-
-<div class="posts">
-  <article class="post">
+  <ul class="archive-page__list">
   {% for post in page.posts reversed %}
-    <h2 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}:
-      <span class="post-small">{{ post.description }}</span></a>
-    </h2>
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">
-       {{ post.date | date: "%m/%d/%Y" }}
-  </time>
-  {% endfor %} 
-  </article>
-</div> 
+    <li class="archive-page__item">
+      <a href="{{ site.baseurl }}{{ post.url }}" class="archive-page__link">
+        <span class="archive-page__title">{{ post.title }}: <span class="archive-page__description">{{ post.description }}</span></span>
+        <span class="archive-page__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+
+{% include browse-nav.html %}

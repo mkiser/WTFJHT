@@ -14,6 +14,10 @@ todayInOneSentence: More than 6.6 million Americans applied for unemployment ben
   aboard the USS Theodore Roosevelt; and the Secret Service signed a $45,000 contract
   this week to rent a fleet of golf carts in Northern Virginia – home to one of Trump’s
   golf clubs.
+tags:
+  - covid
+  - economy
+  - oversight
 ---
 
 * **Daily Damage Report.**

@@ -16,6 +16,11 @@ podcast:
   file: "/uploads/Day 1828 In the midst of a rupture.mp3"
   duration: '00:04:44'
   length: 4554544
+tags:
+  - tariffs
+  - national-security
+  - immigration
+  - government-shutdown
 ---
 
 

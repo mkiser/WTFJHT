@@ -5,6 +5,10 @@ categories:
 - trump
 description: Suicide squad.
 image: "/uploads/259.jpg"
+tags:
+  - national-security
+  - lgbtq-rights
+  - foreign-policy
 ---
 
 1/ **Russian hackers stole NSA data about US cyber defense** after an employee removed the highly classified material, put it on his home computer, and used an antivirus app made by Russia-based Kaspersky Lab. The US government had previously [banned the use of Kaspersky Lab software](https://whatthefuckjusthappenedtoday.com/2017/09/13/day-237/#2-the-u-s-government-has-banned-the) over concerns of Russian cyberespionage. The stolen material includes details about how the NSA penetrates foreign computer networks, the code it uses, and how it defends networks inside the US. ([Wall Street Journal](https://www.wsj.com/articles/russian-hackers-stole-nsa-data-on-u-s-cyber-defense-1507222108))

@@ -11,6 +11,10 @@ todayInOneSentence: A record 3.28 million Americans filed for unemployment benef
   relief package; U.S. stocks had their best three-day rally since 1931; and the Trump
   administration ignored a White House playbook that was created in 2016 to help fight
   back against a potential pandemic.
+tags:
+  - covid
+  - congress
+  - economy
 ---
 
 1/ **A record 3.28 million Americans filed for unemployment benefits last week** – the largest number of unemployment claims ever recorded for a single week since the government began collecting data in 1967. The number shatters the Great Recession peak of 665,000 claims in March 2009 and the all-time mark of 695,000 in October 1982. As a result, the U.S. unemployment rate has likely already risen to 5.5% from 3.5% in February – a level not seen since 2015. A similarly large number of initial unemployment claims is expected next week when the Labor Department releases its report on claims filed this week. In the prior Labor Department report, for the week ended March 14, initial claims totaled 282,000. ([NPR](https://www.npr.org/2020/03/26/821580191/unemployment-claims-expected-to-shatter-records) / [CNBC](https://www.cnbc.com/2020/03/26/weekly-jobless-claims.html) / [Washington Post](https://www.washingtonpost.com/business/2020/03/26/unemployment-claims-coronavirus-3-million/) / [CNN](https://www.cnn.com/2020/03/26/economy/unemployment-benefits-coronavirus/) / [New York Times](https://www.nytimes.com/2020/03/26/business/economy/coronavirus-unemployment-claims.html) / [Politico](https://www.politico.com/news/2020/03/26/unemployment-claims-numbers-release-150052) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-03-26/u-s-jobless-claims-surged-to-record-3-28-million-last-week?srnd=premium))

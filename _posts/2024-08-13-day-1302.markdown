@@ -14,6 +14,11 @@ todayInOneSentence: 'The FBI is investigating the suspected hacking attempts by 
   workers who engage in protected labor activity, such as strikes; and Trump spent
   the weekend traveling from Montana to Wyoming to Colorado for campaign events on
   a private jet previously owned by sex trafficker Jeffrey Epstein. '
+tags:
+  - national-security
+  - reproductive-rights
+  - labor
+  - corruption
 ---
 
 1/ **The FBI is investigating the suspected hacking attempts by Iran that targeted both the Trump and the Biden-Harris campaigns**. The investigation includes attempted hacks targeting three Biden-Harris campaign staffers, as well as Roger Stone, who said he’d been contacted by authorities about unauthorized use of his email account. The hackers reportedly used access to Stone’s email account to try to gain access to the account of a senior Trump campaign official. The FBI has not released any information about the hacking attempts other than to say it was investigating “a campaign cyberintrusion,” but Microsoft issued a public report last week warning that Iranian hackers had tried to break into the email account of a “high-ranking official” on a U.S. presidential campaign in June. The report prompted Trump to accuse Iran of hacking his 2024 campaign, but he never alerted the FBI due to his distrust of the agency. ([Washington Post](https://www.washingtonpost.com/national-security/2024/08/12/trump-hack-iran-fbi/) / [Politico](https://www.politico.com/news/2024/08/12/fbi-trump-campaign-hack-00173708) / [NBC News](https://www.nbcnews.com/tech/security/fbi-says-s-investigating-trump-campaign-claim-hacked-files-rcna166197) / [CNN](https://www.cnn.com/2024/08/12/politics/trump-campaign-hack-personal-email-account-fbi/) / [New York Times](https://www.nytimes.com/2024/08/12/us/politics/fbi-trump-campaign-hacking.html) / [NPR](https://www.npr.org/2024/08/12/g-s1-16687/fbi-trump-campaign-iran-hack-investigation) / [Axios](https://www.axios.com/2024/08/12/trump-campaign-hack-fbi) / [The Guardian](https://www.theguardian.com/us-news/article/2024/aug/13/roger-stone-email-hack-iran-trump) / [CBS News](https://www.cbsnews.com/news/harris-campaign-trump-fbi-investigating-hacking-attempts/))

@@ -18,6 +18,11 @@ todayInOneSentence: 'The FDA revoked emergency use authorizations for COVID-19 v
   Guard troops to police Washington, D.C.; 56% of voters oppose Trump’s deployment
   of the National Guard to Washington, D.C.; and Democrats flipped a Republican-held
   Iowa Senate seat in a district Trump won by 11 points last year. '
+tags:
+  - healthcare
+  - oversight
+  - corruption
+  - nomination
 ---
 
 1/ **The FDA revoked emergency use authorizations for COVID-19 vaccines and restricted access to new shots**, limiting eligibility to people 65 and older and to those ages 6 months to 64 with health conditions. Health Secretary Robert F. Kennedy Jr. said the EUAs “once used to justify broad mandates on the general public during the Biden administration, are now rescinded.” Under the new policy, Moderna is cleared for ages 6 months and up with a condition, Pfizer for ages 5 and up, and Novavax for ages 12 and up. The American Academy of Pediatrics called the move “deeply troubling,” and the Infectious Diseases Society of America warned it “puts millions of lives at risk.” ([Reuters](https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-narrows-under-65-covid-vaccine-eligibility-maintains-full-access-older-2025-08-27/) / [Associated Press](https://apnews.com/article/vaccines-covid-shots-fda-kennedy-pfizer-children-9ce19908ae7afb354732aa162fd28532) / [Washington Post](https://www.washingtonpost.com/health/2025/08/27/fda-approves-covid-vaccines/) / [New York Times](https://www.nytimes.com/2025/08/27/health/fda-covid-vaccines-rfk-jr.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-08-27/us-approves-latest-covid-shots-with-new-limits-on-who-gets-them) / [The Hill](https://thehill.com/policy/healthcare/5473277-covid-vaccine-emergency-use-fda-rfk/) / [Axios](https://www.axios.com/2025/08/27/covid-vaccine-2025-fda-recommendation-rfk))

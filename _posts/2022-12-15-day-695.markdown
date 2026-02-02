@@ -14,6 +14,11 @@ todayInOneSentence: The Biden administration restarted its free Covid-19 test pr
   to overturn a California law that banned new oil and gas wells near homes, schools,
   and hospitals; and 31% of voters hold a favorable view of Trump – his lowest favorability
   rating in more than seven years.
+tags:
+  - covid
+  - judiciary
+  - energy
+  - climate
 ---
 
 1/ **The Biden administration restarted its free Covid-19 test program as cases have increased roughly 55% since Thanksgiving**. Households can order four free tests at [covidtests.gov](https://www.covid.gov/tests). The program was paused in September after distributing over 600 million tests, which put the administration on pace to deplete its stockpile before winter without new funding from Congress. ([Politico](https://www.politico.com/news/2022/12/14/free-covid-home-test-program-restart-00073962) / [NPR](https://www.npr.org/2022/12/15/1142926180/free-covid-tests-mail-order) / [New York Times](https://www.nytimes.com/2022/12/15/us/politics/free-covid-tests-biden.html) / [Associated Press](https://apnews.com/article/white-house-reveals-winter-covid-plans-test-kits-2b015ef4e3c97520a3981c47d00467c3))

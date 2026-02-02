@@ -17,6 +17,11 @@ todayInOneSentence: Trump threatened to impose a 100% tariff on all semiconducto
   to intimidate noncitizen reporters into silence over Israel and Gaza; and key sections
   of the U.S. Constitution, including the ban on unlawful detention, disappeared from
   a government website run by the Library of Congress.
+tags:
+  - tariffs
+  - tech-policy
+  - foreign-policy
+  - healthcare
 ---
 
 1/ **Trump threatened to impose a 100% tariff on all semiconductor and chip imports unless companies shift production to the U.S. or have “committed to build” domestically**. Trump, however didn’t say when the tariff would take effect or define what level of investment qualifies for exemption. “But the good news for companies like Apple is, if you’re building in the United States [...] there will be no charge,” Trump said during a meeting with Apple CEO Tim Cook. Hours later, Apple announced an additional $100 billion U.S. investment – on top of its earlier $500 billion pledge – and a new domestic manufacturing program that includes plans to produce over 19 billion chips in 24 factories across 12 states. The move followed Trump’s earlier threat to slap a 25% tariff on iPhones, which are still assembled abroad. In 2023, the U.S. imported $64 billion worth of semiconductors while producing only about 10–12% of the global supply. ([CNBC](https://www.cnbc.com/2025/08/06/trump-tariffs-chips-companies.html) / [Associated Press](https://apnews.com/article/apple-trump-computer-tariff-c01b5ce0265b0d294dd10b8966be4436) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-08-06/trump-plans-100-tariff-on-chips-with-carveout-for-apple-others) / [Wall Street Journal](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2025) / [Reuters](https://www.reuters.com/world/china/trump-says-us-will-charge-tariff-about-100-semiconductor-imports-2025-08-06/) / [New York Times](https://www.nytimes.com/2025/08/06/us/politics/trump-apple-investment.html) / [Axios](https://www.axios.com/2025/08/06/apple-trump-tariffs-iphone) / [CNN](https://www.cnn.com/2025/08/06/tech/apple-investment-us-trump) / [Washington Post](https://www.washingtonpost.com/politics/2025/08/06/trump-presidency-news/) / [Wall Street Journal](https://www.wsj.com/tech/apple-invest-american-manufacturing-trump-5c2c35a7))

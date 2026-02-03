@@ -17,9 +17,9 @@ todayInOneSentence: 'Biden called Texas Gov. Greg Abbott''s decision to relax co
   and took Ambien while working that prompted concerns about his ability to provide
   proper care. '
 tags:
-  - covid
-  - economy
-  - jan-6
+- covid
+- economy
+- jan-6
 ---
 
 1/ **Biden called Texas Gov. Greg Abbott's decision to relax coronavirus restrictions "Neanderthal thinking”** and that it was a “big mistake” for people to stop wearing masks. Other states, including Mississippi, have also begun to relax restrictions and end requirements to wear masks citing vaccination rates and lower numbers of Covid-19 cases. Rochelle Walensky, director of the CDC, criticized the decision by governors of Texas and Mississippi to lift mask requirements and other restrictions to slow the spread of the coronavirus, saying “We have been very clear now is not the time to release all restrictions. The next month or two is really pivotal in terms of how this pandemic goes." White House press secretary Jennifer Psaki added: “This entire country has paid the price for political leaders who ignored the science when it comes to the pandemic." ([USA Today](https://www.usatoday.com/story/news/politics/2021/03/03/joe-biden-texas-other-states-lifting-mask-rules-neanderthal-thinking/6907426002/) / [ABC News](https://abcnews.go.com/Politics/biden-calls-texas-decision-reopen-neanderthal-thinking/story?id=76229294) / [New York Times](https://www.nytimes.com/live/2021/03/03/world/covid-19-coronavirus/biden-calls-states-relaxing-virus-restrictions-including-mask-mandates-neanderthal-thinking) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-03-03/cdc-director-urges-mask-wearing-regardless-of-governor-orders?srnd=politics-vp&sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/nation/2021/03/03/texas-mississippi-mask-mandate-backlash/))

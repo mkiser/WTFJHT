@@ -14,9 +14,9 @@ todayInOneSentence: 'The U.S. expects to have a large enough supply of coronavir
   Manhattan district attorney''s office has increased its focus on the Trump Organization''s
   chief financial officer as part of their financial fraud investigation. '
 tags:
-  - covid
-  - jan-6
-  - voting-rights
+- covid
+- jan-6
+- voting-rights
 ---
 
 1/ **Biden said the U.S. expects to have a large enough supply of coronavirus vaccines to vaccinate every adult in the nation by the end of May – two months earlier than anticipated**. The White House said it was increasing supply of the Moderna and Pfizer vaccines to states next week to 15.2 million doses per week – up from 14.5 million. States will also receive 2.8 million doses of Johnson & Johnson’s vaccine this week, with the supply climbing to 4-6 million by the end of March and 5-6 million by the end of April. White House coronavirus coordinator Jeff Zients said states should prepare to administer 17-18 million total weekly doses of Pfizer and Moderna vaccines by early April. ([Associated Press](https://apnews.com/article/merck-help-make-johnson-johnson-vaccine-9ca6f1f4c502b095531926a53abe7262) / [CNBC](https://www.cnbc.com/2021/03/02/white-house-moves-up-vaccine-supply-timeline-says-us-will-have-enough-for-every-adult-by-end-of-may.html))

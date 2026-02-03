@@ -16,9 +16,9 @@ todayInOneSentence: The United States recorded more than 3,100 COVID-19 deaths i
   results; and More than two dozen states filed motions with the Supreme Court opposing
   Texas' bid to invalidate Biden's win in Georgia, Wisconsin, Michigan, and Pennsylvania.
 tags:
-  - covid
-  - oversight
-  - presidential-election
+- covid
+- oversight
+- presidential-election
 ---
 
 1/ **The United States recorded more than 3,100 COVID-19 deaths in a single day**, exceeding the record set one week earlier. It's the first time the U.S. recorded more than 3,000 deaths in a single day and it comes two weeks after Thanksgiving. The U.S. also reported 222,994 new coronavirus cases – another pandemic record. ([New York Times](https://www.nytimes.com/live/2020/12/10/world/covid-19-coronavirus/us-sets-record-for-daily-deaths-as-hospitals-nationwide-near-or-exceed-capacity) / [Washington Post](https://www.washingtonpost.com/world/pfizer-allergic-warnings-vaccine/2020/12/09/4e79ec72-3a16-11eb-aad9-8959227280c4_story.html) / [NBC News](https://www.nbcnews.com/news/us-news/live-blog/2020-12-10-covid-live-updates-vaccine-news-n1250668) / [The Guardian](https://www.theguardian.com/world/2020/dec/10/us-3000-covid-deaths-coronavirus-day-first-time))

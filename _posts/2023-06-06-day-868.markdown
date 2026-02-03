@@ -15,10 +15,10 @@ todayInOneSentence: 'The Human Rights Campaign issued a state of emergency for L
   to multiple witnesses associated with the classified documents investigation involving
   Trump. '
 tags:
-  - lgbtq-rights
-  - indictment
-  - immigration
-  - education
+- lgbtq-rights
+- indictment
+- immigration
+- education
 ---
 
 1/ **The Human Rights Campaign issued a state of emergency for LGBTQ+ people living in the U.S.** The declaration – a first in the organization's more than 40-year history – comes after state legislatures have passed more than 75 anti-LGBTQ bills this year, more than double last year’s number, which was previously the worst year on record. "The multiplying threats facing millions in our community are not just perceived — they are real, tangible and dangerous," the president of the Human Rights Campaign said in a statement. The organization also released a [guidebook](https://hrc-prod-requests.s3-us-west-2.amazonaws.com/LGBTQ-Guidebook-for-Action.pdf) summarizing state-by-state anti-LGBTQ laws, as well as a “know your rights” guide for LGBTQ+ travelers and those living in hostile states. ([NBC News](https://www.nbcnews.com/nbc-out/out-politics-and-policy/nations-largest-lgbtq-advocacy-group-declares-state-emergency-rcna87938) / [Axios](https://www.axios.com/2023/06/06/state-of-emergency-lgbtq-human-rights-campaign) / [CNN](https://www.cnn.com/2023/06/06/us/hrc-lgbtq-emergency-declared/index.html) / [USA Today](https://www.usatoday.com/story/news/nation/2023/06/06/hrc-declares-state-of-emergency-over-laws-targeting-lgbtq-rights/70292212007/) / [ABC News](https://abcnews.go.com/US/wireStory/lgbtq-state-emergency-declared-americans-fight-back-guidebook-99866463))

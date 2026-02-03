@@ -6,9 +6,9 @@ categories:
 description: Significant concerns.
 image: "/uploads/281.jpg"
 tags:
-  - sanctions
-  - russia
-  - disinformation
+- sanctions
+- russia
+- disinformation
 ---
 
 1/ **Trump hasn't imposed sanctions on Russia because Rex Tillerson dissolved the office that implements them**. After the Coordinator for Sanctions Policy office was eliminated just one mid-level official is now responsible for coordinating the implementation of sanctions across the State Department and other government agencies. The administration missed the [October 1st deadline](https://whatthefuckjusthappenedtoday.com/2017/10/26/day-280/#6-its-been-more-than-three-weeks-sin) to implement new penalties against Russia, which were adopted by Congress in August. ([Foreign Policy](http://foreignpolicy.com/2017/10/26/state-department-scraps-sanctions-office/) / [The Hill](http://thehill.com/policy/international/357445-tillerson-eliminates-key-state-department-sanctions-office-report))

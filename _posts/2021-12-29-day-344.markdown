@@ -16,9 +16,9 @@ todayInOneSentence: 'U.S. Covid-19 cases hit their highest level of the pandemic
   Reagan; and 52% of Republicans disapprove of the job Mitch McConnell is doing as
   Senate minority leader. '
 tags:
-  - covid
-  - national-security
-  - judiciary
+- covid
+- national-security
+- judiciary
 ---
 
 1/ **U.S. Covid-19 cases hit their highest level of the pandemic**. The U.S. reported 441,278 new Covid-19 cases Tuesday – the highest single-day total – and surpassing the previous daily record by nearly 150,000. The seven-day average of U.S. cases topped 267,000 – more than double the rate in early December – exceeding the previous high mark of about 252,000 average daily cases set on Jan. 11, 2021. Hospitalizations and deaths, meanwhile, have been rising, but remain far below peak levels. The CDC reported that Omicron accounted for 58.6% of all Covid-19 cases in the U.S., while the Delta variant accounted for 41.1% of cases. ([Politico](https://www.politico.com/news/2021/12/28/us-new-daily-high-covid-526223) / [New York Times](https://www.nytimes.com/2021/12/28/world/us-covid-case-record-omicron.html) / [NBC News](https://www.nbcnews.com/news/world/omicron-surges-us-uk-others-shatter-covid-records-rcna10279) / [CNBC](https://www.cnbc.com/2021/12/29/us-covid-cases-rise-to-pandemic-high-as-delta-and-omicron-circulate.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-12-28/omicron-causes-fewer-u-s-hospitalizations-than-prior-waves?sref=MIBMEEoj))

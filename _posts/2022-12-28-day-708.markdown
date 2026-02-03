@@ -14,10 +14,10 @@ todayInOneSentence: 'The Supreme Court temporarily blocked the Biden administrat
   will lose Medicaid coverage starting in April; and Texas bused about 130 migrants
   to Harris’ residence in Washington on Christmas Eve in 18 degree weather. '
 tags:
-  - immigration
-  - jan-6
-  - healthcare
-  - oversight
+- immigration
+- jan-6
+- healthcare
+- oversight
 ---
 
 1/ **The Supreme Court temporarily blocked the Biden administration’s plans to end a Trump-era immigration policy used to quickly expel millions of asylum seekers at the southern border**. In November, a federal judge ruled that Title 42 was unlawful, and scheduled the policy to expire on Dec. 21. The Supreme Court, however, paused that ruling, and said the policy would remain in place while a legal challenge by 19 Republican state attorneys general played out. Title 42 has been used to expel about 2.5 million migrants since being implemented in March 2020. ([Washington Post](https://www.washingtonpost.com/politics/2022/12/27/title-42-supreme-court-decision/) / [Politico](https://www.politico.com/news/2022/12/27/supreme-court-blocks-lifting-of-title-42-border-policy-00075650) / [NPR](https://www.npr.org/2022/12/27/1144475541/supreme-court-decision-title-42-migrants-asylum) / [Associated Press](https://apnews.com/article/title-42-immigration-limits-supreme-court-updates-0494c30834fad66ce9c6057ea1605d89) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-keeps-place-trump-era-immigration-policy-allowing-asylum-rcna62560) / [New York Times](https://www.nytimes.com/2022/12/27/us/politics/title-42-border-supreme-court.html) / [CNN](https://www.cnn.com/2022/12/27/politics/supreme-court-title-42/index.html))

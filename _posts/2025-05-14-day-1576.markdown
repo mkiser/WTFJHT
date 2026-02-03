@@ -16,10 +16,10 @@ todayInOneSentence: 'Trump scaled back tariffs on Chinese imports after being wa
   pessimistic about the state of politics in the U.S.; and 40% approve of Americans
   Trump’s job performance, while 56% disapprove. '
 tags:
-  - tariffs
-  - corruption
-  - impeachment
-  - polling
+- tariffs
+- corruption
+- impeachment
+- polling
 ---
 
 1/ **Trump scaled back tariffs on Chinese imports after being warned that his trade policies were hurting “Trump’s people."** White House aides warned that the 145% duties imposed in April were hurting truckers, longshoremen, and manufacturers. Polling also showed Trump underwater on the economy for the first time, and business leaders warned of price hikes, canceled orders, and job losses. “The key argument was that this was beginning to hurt Trump’s supporters,” one official said. As a result, Trump agreed to a deal cutting tariffs to 30%, while China lowered its own to 10%. The pact delivered no major wins beyond a pledge to keep talking, but gave Trump political cover to back down. ([Washington Post](https://www.washingtonpost.com/business/2025/05/14/trump-tariffs-china-trade/) / [New York Times](https://www.nytimes.com/2025/05/12/business/economy/trump-trade-china-tariffs.html))

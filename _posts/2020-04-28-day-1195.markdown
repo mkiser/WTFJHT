@@ -14,9 +14,9 @@ todayInOneSentence: U.S. reported 1 million confirmed coronavirus cases; the U.S
   Trump takes no responsibility for any increase in the number of people misusing
   disinfectants.
 tags:
-  - covid
-  - economy
-  - corruption
+- covid
+- economy
+- corruption
 ---
 
 * ### 🔥 Daily Damage Report.

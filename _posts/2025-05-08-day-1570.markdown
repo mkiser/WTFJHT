@@ -16,10 +16,10 @@ todayInOneSentence: Trump announced a trade deal with the U.K., calling it “a 
   Kilmar Abrego Garcia, citing national security; and Trump claimed credit for the
   election of Pope Leo XIV, calling it “a Great Honor for our Country.”
 tags:
-  - trade
-  - tariffs
-  - jan-6
-  - judiciary
+- trade
+- tariffs
+- jan-6
+- judiciary
 ---
 
 1/ **Trump announced a trade deal with the U.K., calling it “a great deal for both countries” despite no signed agreement and unresolved terms**. The 10% blanket tariff also remains in place. Nevertheless, Trump said that “They made a good deal,” and claimed the U.K. was picked first because “they always treated us with great respect.” He added that “Things are going to move very quickly both ways,” and that the agreement would “cement the relationship \[...\] for many years to come.” Commerce Secretary Howard Lutnick, meanwhile, said the U.S. would ease tariffs on British steel, aluminum, and cars – but only within limited quotas. British Prime Minister Starmer called it “historic,” while U.S. officials gave no timeline for expanded access to beef, ethanol, and machinery. Sen. Ron Wyden dismissed the deal, saying "The details aren’t even finalized. There’s not much THERE, there." ([New York Times](https://www.nytimes.com/2025/05/08/business/economy/heres-the-latest.html) / [Axios](https://www.axios.com/2025/05/08/trump-britain-trade-deal-tariffs-keir-starmer) / [Wall Street Journal](https://www.wsj.com/economy/trade/trump-to-announce-trade-agreement-with-britain-bf937c67) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-05-08/trump-announces-trade-framework-with-uk-lowering-barriers) / [Associated Press](https://apnews.com/article/us-uk-trump-starmer-trade-deal-79d55b8ade0dd8c9265ada9400d079db) / [Politico](https://www.politico.com/news/2025/05/08/trump-announces-very-large-trade-deal-with-u-k-final-details-tbd-00335534) / [CNBC](https://www.cnbc.com/2025/05/08/trump-uk-trade-deal-tariffs.html) / [NBC News](https://www.nbcnews.com/politics/white-house/trump-says-major-trade-deal-will-discussed-white-house-event-thursday-rcna205509) / [NPR](https://www.npr.org/2025/05/07/nx-s1-5389973/trump-trade-deal-uk-tariffs) / [Washington Post](https://www.washingtonpost.com/business/2025/05/07/uk-trump-trade-deal/))

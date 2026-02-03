@@ -12,9 +12,9 @@ todayInOneSentence: The Biden administration increased financial pressure on Rus
   require him to testify about his company's business practices.
 author: Joe Amditis
 tags:
-  - russia
-  - ukraine
-  - sanctions
+- russia
+- ukraine
+- sanctions
 ---
 
 1/ **The Biden administration expanded sanctions against Russia, cutting off U.S. transactions with the country's central bank**. The new sanctions effectively prohibit Americans from doing any business with Russia's central bank as well as freezes its assets within the United States. The new measures also target the National Wealth Fund of the Russian Federation and the Ministry of Finance of the Russian Federation. ([CNBC](https://www.cnbc.com/2022/02/28/biden-administration-expands-russia-sanctions-cuts-off-us-transactions-with-central-bank.html) / [CNN](https://www.cnn.com/2022/02/28/politics/sanctions-russia-putin-rainy-day-fund/index.html))

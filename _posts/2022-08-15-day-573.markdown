@@ -16,10 +16,10 @@ todayInOneSentence: The House passed the Inflation Reduction Act over unanimous 
   access voting equipment and sensitive voting data in at least three battleground
   states as part of the effort to overturn the 2020 election.
 tags:
-  - climate
-  - energy
-  - classified-documents
-  - jan-6
+- climate
+- energy
+- classified-documents
+- jan-6
 ---
 
 1/ **The House passed the Inflation Reduction Act over unanimous Republican opposition**, sending the multibillion-dollar climate, health, and tax bill to Biden’s desk to be signed into law. The legislation marks the single largest federal investment in addressing climate change and the most substantial change to national health care policy since the Affordable Care Act. In total, more than $370 billion will be dedicated to climate and energy programs aimed at reducing U.S. greenhouse gas emissions by 40% below 2005 levels by the end of the decade. ([Washington Post](https://www.washingtonpost.com/us-policy/2022/08/12/inflation-reduction-act-house-vote/) / [New York Times](https://www.nytimes.com/2022/08/12/us/politics/house-climate-tax-bill.html) / [ABC News](https://abcnews.go.com/Politics/democrats-pass-health-climate-tax-bill-party-lines/story?id=88314105) / [NBC News](https://www.nbcnews.com/politics/congress/house-democrats-are-poised-send-sweeping-climate-health-care-bill-bide-rcna42647) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-08-12/house-set-to-send-biden-landmark-tax-climate-health-bill?srnd=premium-canada&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/house-set-to-pass-democrats-climate-healthcare-and-tax-package-11660296604?mod=hp_lead_pos2))

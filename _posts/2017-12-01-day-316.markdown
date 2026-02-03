@@ -6,8 +6,8 @@ categories:
 description: Full cooperation.
 image: "/uploads/316.jpg"
 tags:
-  - mueller-investigation
-  - taxes
+- mueller-investigation
+- taxes
 ---
 
 1/ **Michael Flynn pleaded guilty to lying to the FBI** about conversations he had with Russian Ambassador Sergey Kislyak during the presidential transition last December. Flynn is the fourth Trump associate to be charged in Robert Mueller's investigation into Russian interference in the 2016 election. ([New York Times](https://www.nytimes.com/2017/12/01/us/politics/michael-flynn-guilty-russia-investigation.html))

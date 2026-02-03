@@ -12,8 +12,8 @@ todayInOneSentence: 'More than 370 former federal prosecutors asserted that Trum
   Treasury Secretary Steven Mnuchin rejected House Democrats'' request for six years
   of Trump''s tax returns. '
 tags:
-  - mueller-investigation
-  - oversight
+- mueller-investigation
+- oversight
 ---
 
 1/ **More than 370 former federal prosecutors asserted that Trump would have been charged with obstruction of justice if he was not president**. Robert Mueller declined to exonerate Trump in his report, citing a Justice Department legal opinion that a sitting president cannot be indicted. The former career government employees who worked in Republican and Democratic administrations signed on to a statement saying, "Each of us believes that the conduct of President Trump described in Special Counsel Robert Mueller's report would, in the case of any other person not covered by the Office of Legal Counsel policy against indicting a sitting President, result in multiple felony charges for obstruction of justice." ([Washington Post](https://www.washingtonpost.com/world/national-security/trump-would-have-been-charged-with-obstruction-were-he-not-president-hundreds-of-former-federal-prosecutors-assert/2019/05/06/e4946a1a-7006-11e9-9f06-5fc2ee80027a_story.html))

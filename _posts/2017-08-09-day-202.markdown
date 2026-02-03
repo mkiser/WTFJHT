@@ -6,9 +6,9 @@ categories:
 description: An absurd red line.
 image: "/uploads/202.jpg"
 tags:
-  - national-security
-  - mueller-investigation
-  - healthcare
+- national-security
+- mueller-investigation
+- healthcare
 ---
 
 1/ **The Pentagon has prepared a plan for a preemptive strike on North Korea's missile sites should Trump order an attack**. The plan calls for B-1B heavy bombers originating from Andersen Air Force Base in Guam to attack approximately two-dozen North Korean missile-launch sites, testing grounds, and support facilities. The B-1 bomber plan is one of several options under consideration. ([NBC News](http://www.nbcnews.com/news/north-korea/b-1-bombers-key-u-s-plan-strike-north-korean-n791221))

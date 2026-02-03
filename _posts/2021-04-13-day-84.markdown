@@ -12,10 +12,10 @@ todayInOneSentence: 'The CDC and the FDA recommended a “pause” in the use of
   begin enriching uranium to 60% purity for the first time; and the police officer
   who fatally shot Daunte Wright resigned. '
 tags:
-  - covid
-  - nomination
-  - national-security
-  - foreign-policy
+- covid
+- nomination
+- national-security
+- foreign-policy
 ---
 
 1/ **The CDC and the FDA recommended a “pause” in the use of the Johnson & Johnson coronavirus vaccine after six women developed an "extremely rare" disorder involving blood clots and one died**. More than 6.8 million people in the U.S. have received the vaccine without any other serious adverse reactions. In a statement, the two health agencies said that the move to temporarily halt administration of the shots was out of an "abundance of caution." Scientists will examine possible links between the vaccine and the blood clot disorder and determine whether the FDA should continue to authorize the use of the vaccine or modify the authorization. The White House said the pause would "not have a significant impact on our vaccination plan" to administer 200 million shots by the end of April. White House Covid-19 coordinator Jeff Zients added that the "Johnson & Johnson vaccine makes up less than 5% of the recorded shots in arms in the United States to date." ([New York Times](https://www.nytimes.com/2021/04/13/us/politics/johnson-johnson-vaccine-blood-clots-fda-cdc.html) / [Associated Press](https://apnews.com/article/us-pause-j-and-j-vaccine-blood-clot-reports-2dde2aacf486bab59844ef907a28cbce) / [NBC News](https://www.nbcnews.com/news/us-news/johnson-johnson-vaccine-should-be-paused-u-s-after-extremely-n1263898) / [CNN](https://www.cnn.com/2021/04/13/politics/white-house-johnson-and-johnson/index.html) / [Wall Street Journal](https://www.wsj.com/articles/u-s-seeks-to-pause-j-j-covid-19-vaccine-use-amid-clotting-reports-11618313210) / [Politico](https://www.politico.com/news/2021/04/13/j-j-vaccine-supply-disruption-481180))

@@ -14,11 +14,11 @@ todayInOneSentence: 'Kevin McCarthy and Chuck Schumer are planning a vote on a b
   House, authors, parents, and a free speech group sued a Florida school district
   for removing 10 books related to race and the LGBTQ community. '
 tags:
-  - debt-ceiling
-  - lgbtq-rights
-  - reproductive-rights
-  - indictment
-  - civil-rights
+- debt-ceiling
+- lgbtq-rights
+- reproductive-rights
+- indictment
+- civil-rights
 ---
 
 1/ **Kevin McCarthy and Chuck Schumer are planning a vote on a bipartisan deal to lift the federal debt limit ahead of a potential June 1 default deadline**. “I see the path that we can come to an agreement,” McCarthy said. “And I think we have a structure now and everybody’s working hard.” Schumer said the Senate would take up the legislation after House passage, alerting senators they need to be prepared to return to the Capitol within 24 hours if the House passes legislation. In order to avoid a historic U.S. default, a deal needs to pass the Republican majority House and the Democratic-controlled Senate by the June 1 deadline. Hakeem Jeffries, meanwhile, warned that any "so-called extreme work requirements" for federal benefits like SNAP or Medicaid "that MAGA Republicans want to try to impose as a ransom note are a non-starter. Period. Full stop.” ([Bloomberg](https://www.bloomberg.com/news/articles/2023-05-18/mccarthy-predicts-us-debt-limit-deal-on-house-floor-next-week?srnd=premium&sref=MIBMEEoj) / [CNBC](https://www.cnbc.com/2023/05/18/mccarthy-says-house-could-vote-on-debt-ceiling-deal-as-soon-as-next-week.html) / [Politico](https://www.politico.com/news/2023/05/18/mccarthy-debt-ceiling-vote-00097660) / [CNN](https://www.cnn.com/2023/05/18/politics/debt-ceiling-talks-optimism/index.html))

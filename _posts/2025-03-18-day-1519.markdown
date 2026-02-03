@@ -17,10 +17,10 @@ todayInOneSentence: 'A federal judge ruled that Elon Musk’s attempt to unilate
   people in the deadliest attack since the war began; and the Trump administration
   is considering eliminating the EPA’s Office of Research and Development.'
 tags:
-  - impeachment
-  - ukraine
-  - israel-palestine
-  - immigration
+- impeachment
+- ukraine
+- israel-palestine
+- immigration
 ---
 
 1/ **A federal judge ruled that Elon Musk’s attempt to unilaterally dismantle the U.S. Agency for International Development likely violated the Constitution in "multiple ways,"** but left room for the Trump administration to achieve the same goal through official channels. Judge Theodore Chuang wrote that Musk “exercised significant authority” over the agency despite lacking a formal government appointment. The ruling blocks Musk and the Department of Government Efficiency from taking further action, but doesn’t prevent USAID’s leadership from proceeding with the closure. Chuang called the administration’s claim that Musk had no decision-making authority “highly suspicious,” pointing to Trump’s own statements about putting Musk “in charge.” Musk dismissed the ruling as partisan, responding “indeed” to a Twitter post suggesting it was a partisan ruling by a Democrat-appointed judge. ([Associated Press](https://apnews.com/article/usaid-federal-judge-trump-administration-bdc919a5d98eda5ab72a32fdfe2f147d) / [Washington Post](https://www.washingtonpost.com/dc-md-va/2025/03/18/maryland-judge-blocks-doge/) / [ABC News](https://abcnews.go.com/Politics/judge-dismantling-usaid-unconstitutional-orders-musk-restore-access/story?id=119923733) / [NBC News ](https://www.nbcnews.com/politics/doge/elon-musk-doge-efforts-close-usaid-unconstitutional-agency-systems-mus-rcna196961)/ [Politico](https://www.politico.com/news/2025/03/18/musk-doge-usaid-00236634) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-18/judge-finds-musk-role-in-usaid-closure-likely-unconstitutional))

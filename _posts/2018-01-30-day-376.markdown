@@ -6,9 +6,9 @@ categories:
 description: Serving as a deterrent.
 image: "/uploads/376.jpg"
 tags:
-  - mueller-investigation
-  - sanctions
-  - state-of-the-union
+- mueller-investigation
+- sanctions
+- state-of-the-union
 ---
 
 ### The State of the Fucking Union. 

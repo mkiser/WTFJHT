@@ -6,9 +6,9 @@ categories:
 description: Doesn't work that way.
 image: "/uploads/748.jpg"
 tags:
-  - oversight
-  - mueller-investigation
-  - climate
+- oversight
+- mueller-investigation
+- climate
 ---
 
 1/ **Nancy Pelosi declared that House Democrats would not be intimidated by Trump's "all-out threat"** during his State of the Union to stop investigating his administration. Pelosi called it Democrats' "congressional responsibility" to investigate Trump, "and if we didn't do it, we would be delinquent in that." During his address, Trump claimed that "If there is going to be peace and legislation, there cannot be war and investigation." He added: "It just doesn't work that way!" Pelosi called Trump's rhetoric a false choice. ([New York Times](https://www.nytimes.com/2019/02/06/us/politics/trump-pelosi-house-investigations.html))

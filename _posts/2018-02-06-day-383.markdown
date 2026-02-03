@@ -6,8 +6,8 @@ categories:
 description: Total cooperation mode.
 image: "/uploads/383.jpg"
 tags:
-  - mueller-investigation
-  - government-shutdown
+- mueller-investigation
+- government-shutdown
 ---
 
 1/ **Trump's lawyers want him to refuse an interview with Robert Mueller**, because they're concerned that he could be charged with lying to investigators. Trump, however, has said that he is "looking forward" to speaking with Mueller as part of the investigation into possible collusion between his campaign and Russia's election interference, and whether he obstructed justice. Ty Cobb, the White House lawyer Trump tapped to deal with Mueller's investigation, has said the White House is in "total cooperation mode." ([New York Times](https://www.nytimes.com/2018/02/05/us/politics/trump-lawyers-special-counsel-interview.html))

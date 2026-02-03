@@ -6,9 +6,9 @@ categories:
 description: Trump Vs. Everybody.
 image: "/uploads/266.jpg"
 tags:
-  - healthcare
-  - executive-order
-  - national-security
+- healthcare
+- executive-order
+- national-security
 ---
 
 1/ **Trump signed an executive order eliminating some <a href="{{ site.url }}{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a> insurance rules** for small businesses that band together to buy health insurance as an association. The order will also lift limits on limited coverage, short-term insurance, and expand ways workers could use employer-funded accounts to buy their own insurance policies. Critics say that by relaxing standards, Trump would be creating low-cost insurance options for healthier, younger consumers, which would result in higher costs for the sick and potentially destabilize and undermine the ACA insurance marketplace. ([New York Times](https://www.nytimes.com/2017/10/11/us/politics/trump-obamacare-executive-order.html) / [Washington Post](https://www.washingtonpost.com/national/health-science/trump-to-sign-executive-order-to-gut-aca-insurance-rules-and-undermine-marketplaces/2017/10/11/40abf774-ae97-11e7-9e58-e6288544af98_story.html) / [Wall Street Journal](https://www.wsj.com/articles/in-start-to-unwinding-the-health-law-trump-to-ease-insurance-rules-1507771015?mod=e2tw))

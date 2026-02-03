@@ -18,10 +18,10 @@ todayInOneSentence: 'A federal judge ordered the Trump administration to fully f
   Trump to enforce a policy requiring that sex markers on U.S. passports match birth
   certificates while litigation continues. '
 tags:
-  - government-shutdown
-  - healthcare
-  - economy
-  - national-security
+- government-shutdown
+- healthcare
+- economy
+- national-security
 ---
 
 

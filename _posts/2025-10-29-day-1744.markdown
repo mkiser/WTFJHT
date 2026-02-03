@@ -20,10 +20,10 @@ todayInOneSentence: 'The nonpartisan Congressional Budget Office said the govern
   that “it’s pretty clear, I’m not allowed to run” for a third, unconstitutional term,
   after months of suggesting he might try anyway. '
 tags:
-  - government-shutdown
-  - economy
-  - healthcare
-  - national-security
+- government-shutdown
+- economy
+- healthcare
+- national-security
 ---
 
 1/ **The nonpartisan Congressional Budget Office said the government shutdown will permanently reduce U.S. economic output by up to $14 billion if it continues through November**. As the government shutdown nears its fifth week, the CBO estimates that a four-week shutdown would erase $7 billion in GDP, rising to $11 billion after six weeks and $14 billion after eight. The CBO also projected that GDP will fall by up to 2 percentage points in the fourth quarter of 2025, with roughly 650,000 federal employees furloughed each week. ([NBC News](https://www.nbcnews.com/politics/congress/us-government-shutdown-cost-7-billion-month-cbo-rcna240562) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-10-29/government-shutdown-has-already-cost-us-economy-18-billion-this-year-cbo-says) / [Politico](https://www.politico.com/live-updates/2025/10/29/congress/government-shutdown-2025-cbo-cost-estimates-00627727) / [CNBC](https://www.cnbc.com/2025/10/29/government-shutdown-economy-cbo-trump-congress.html) / [Washington Post](https://www.washingtonpost.com/business/2025/10/29/government-shutdown-economic-impact/))

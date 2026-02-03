@@ -17,9 +17,9 @@ todayInOneSentence: The director of the federal agency responsible for developin
   minimal public health experience to lead the agency’s day-to-day response to COVID-19
   in the pandemic’s early days.
 tags:
-  - covid
-  - oversight
-  - corruption
+- covid
+- oversight
+- corruption
 ---
 
 * ### 🔥 Daily Damage Report.

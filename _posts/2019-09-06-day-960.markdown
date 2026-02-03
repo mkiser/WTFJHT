@@ -13,8 +13,8 @@ todayInOneSentence: The Trump administration is considering a drastic reduction 
   four automakers who rejected the Trump administration's relaxed air pollution and
   mileage regulations.
 tags:
-  - immigration
-  - healthcare
+- immigration
+- healthcare
 ---
 
 1/ **The Trump administration is considering a drastic reduction in refugee admissions for next year**. One plan would zero out the refugee program altogether, while another would cut refugee admissions by half or more, to 10,000 to 15,000 people. Senior officials plan to discuss what Trump should set the refugee admissions at for the coming year in a meeting next week. ([New York Times](https://www.nytimes.com/2019/09/06/us/politics/trump-refugees-united-states.html))

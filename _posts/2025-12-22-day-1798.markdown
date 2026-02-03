@@ -18,10 +18,10 @@ todayInOneSentence: 'On Friday, the Justice Department released a limited batch 
   for five offshore wind projects already under construction along the East Coast,
   citing unspecified national security risks. '
 tags:
-  - judiciary
-  - oversight
-  - corruption
-  - disinformation
+- judiciary
+- oversight
+- corruption
+- disinformation
 ---
 
 1/ **On Friday, the Justice Department released a limited batch of records from its Jeffrey Epstein investigations, conceding it didn’t meet the legal deadline to disclose the full file as required by the Epstein Files Transparency Act**. The material included photos, phone logs, and interview records, many heavily redacted Deputy Attorney General Todd Blanche told Congress the department needed more time, writing that “the volume of materials to be reviewed” made full compliance impossible by the deadline. Lawmakers from both parties, meanwhile, rejected that explanation, calling the disclosure “disappointing” and warning that Congress was weighing legal options to force compliance. Nevertheless, the White House defended the partial rollout as evidence of transparency, claiming it was doing more than prior administrations to make the files public. ([Associated Press](https://apnews.com/live/donald-trump-news-updates-12-19-2025) / [Washington Post](https://www.washingtonpost.com/nation/2025/12/19/epstein-files-trump-administration-doj/) / [New York Times](https://www.nytimes.com/live/2025/12/19/us/epstein-files-release) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-12-19/epstein-files-released-after-years-of-political-legal-acrimony))

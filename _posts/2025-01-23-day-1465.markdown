@@ -19,10 +19,10 @@ todayInOneSentence: A federal judge in Seattle temporarily blocked Trump’s exe
   nomination as Secretary of Defense, despite allegations of sexual assault, financial
   misconduct, and excessive drinking.
 tags:
-  - immigration
-  - civil-rights
-  - supreme-court
-  - cabinet
+- immigration
+- civil-rights
+- supreme-court
+- cabinet
 ---
 
 1/ **A federal judge in Seattle temporarily blocked Trump’s executive order to end birthright citizenship**, calling it "blatantly unconstitutional" and issuing a 14-day nationwide restraining order while the legal challenge proceeds. U.S. District Judge John Coughenour, a Reagan appointee, criticized the order as legally indefensible, saying: “I have been on the bench for over four decades. I can’t remember another case where the question presented was as clear.” He added, “It just boggles my mind” that the administration’s lawyers would argue its constitutionality. Four Democratic-led states, led by Washington, filed the lawsuit, arguing the order violates the 14th Amendment, which guarantees citizenship to all children born on U.S. soil. The group argued that Trump’s order would create a “Presidentially-created underclass” by denying rights and benefits for more than 150,000 children born annually, leaving them “undocumented, subject to removal or detention, and many stateless.” The case – one of five lawsuits being brought by 22 states – is expected to land in the Supreme Court. ([NBC News](https://www.nbcnews.com/politics/immigration/trump-administration-defends-birthright-citizenship-order-court-first-rcna188851) / [Associated Press](https://apnews.com/article/birthright-citizenship-donald-trump-lawsuit-immigration-9ac27b234c854a68a9b9f8c0d6cd8a1c) / [New York Times](https://www.nytimes.com/2025/01/23/us/politics/judge-blocks-birthright-citizenship.html) / [Washington Post](https://www.washingtonpost.com/immigration/2025/01/23/trump-judge-birthright-citizenship-block/) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-01-23/us-judge-temporarily-blocks-trump-birthright-citizenship-order) / [ABC News](https://abcnews.go.com/US/judge-challenge-trumps-executive-order-ending-birthright-citizenship/story?id=118005855) / [CNN](https://www.cnn.com/2025/01/23/politics/birthright-citizenship-lawsuit-hearing-seattle/index.html))

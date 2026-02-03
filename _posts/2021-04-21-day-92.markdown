@@ -12,10 +12,10 @@ todayInOneSentence: The Justice Department will investigate whether the Minneapo
   and the U.S. Postal Service is running a covert internet surveillance program that
   tracks and collects Americans’ social media posts.
 tags:
-  - civil-rights
-  - protests
-  - covid
-  - national-security
+- civil-rights
+- protests
+- covid
+- national-security
 ---
 
 1/ **The Justice Department will investigate whether the Minneapolis Police Department "engages in a pattern or practice of unconstitutional or unlawful policing,"** including the use of excessive force, discriminatory conduct, or the abuse of those with mental health illness or physical disabilities. Attorney General Merrick Garland announced the investigation one day after former Minneapolis police officer Derek Chauvin was convicted of murder in the death of George Floyd. The investigation is separate from the previously announced federal criminal inquiry into whether Chauvin violated Floyd’s civil rights during his arrest and death last May. ([Washington Post](https://www.washingtonpost.com/national-security/merrick-garland-george-floyd-minneapolis-police-investigation/2021/04/21/57bf90ca-a2a8-11eb-a774-7b47ceb36ee8_story.html) / [New York Times](https://www.nytimes.com/2021/04/21/us/justice-department-investigation-minneapolis-police.html) / [NPR](https://www.npr.org/sections/trial-over-killing-of-george-floyd/2021/04/21/989446758/doj-to-investigate-minneapolis-police-for-possible-patterns-of-excessive-force) / [Associated Press](https://apnews.com/article/george-floyd-verdict-police-reform-doj-e24dd1a390a781af3495fa1e0271f492) / [Wall Street Journal](https://www.wsj.com/articles/u-s-to-probe-minneapolis-police-practices-after-floyds-killing-11619013633))

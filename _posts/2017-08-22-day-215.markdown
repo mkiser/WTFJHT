@@ -6,8 +6,8 @@ categories:
 description: Principled realism.
 image: "/uploads/215.jpg"
 tags:
-  - foreign-policy
-  - national-security
+- foreign-policy
+- national-security
 ---
 
 1/ **Mitch McConnell has privately expressed uncertainty that Trump can salvage his administration**. The two have not spoken to each other in weeks and in offhand remarks, McConnell questioned whether Trump will be in a position to lead the Republican Party into next year’s elections and beyond. ([New York Times](https://www.nytimes.com/2017/08/22/us/politics/mitch-mcconnell-trump.html))

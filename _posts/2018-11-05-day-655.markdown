@@ -11,7 +11,7 @@ todayInOneSentence: Democrats are expected to take control of the House of Repre
   least 31 million people have voted early nationwide; and U.S. intelligence officials
   have seen no evidence of any attempts to tamper with the midterm election systems.
 tags:
-  - midterm-election
+- midterm-election
 ---
 
 **Today in one sentence**: Democrats are expected to take control of the House of Representatives but fall short in the Senate; national polls show that 55% of voters prefer Democratic control of the House; some polls, however, show the Democratic edge shrinking; at least 31 million people have voted early nationwide; and U.S. intelligence officials have seen no evidence of any attempts to tamper with the midterm election systems.

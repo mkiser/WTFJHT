@@ -6,9 +6,9 @@ categories:
 description: Power of the pen.
 image: "/uploads/264.jpg"
 tags:
-  - healthcare
-  - executive-order
-  - national-security
+- healthcare
+- executive-order
+- national-security
 ---
 
 1/ **Trump plans to go around Congress to provide new insurance options for Americans**. The White House is finalizing an executive order, which Trump is expected to sign this week, that would expand health care plans offered by associations and allow individuals to pool together to buy insurance outside their states. “Since Congress can’t get its act together on HealthCare, I will be using the power of the pen to give great HealthCare to many people – FAST,” Trump tweeted. By banding together to buy coverage, associations could join the large group insurance market, which is [exempt from the ACA’s requirement](https://www.washingtonpost.com/news/powerpost/paloma/the-health-202/2017/10/10/the-health-202-trump-has-a-backdoor-way-to-lift-obamacare-regulations/59db9b4630fb0468cea81e13/) that plans cover essential health benefits. ([Washington Post](https://www.washingtonpost.com/politics/federal_government/white-house-to-order-health-care-alternatives/2017/10/08/5f1d7970-ac9f-11e7-9b93-b97043e57a22_story.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2017-10-10/trump-pledges-new-action-on-health-care-using-power-of-the-pen))

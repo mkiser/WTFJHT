@@ -14,10 +14,10 @@ todayInOneSentence: 'Trump filed a class-action lawsuit against Google, Facebook
   and Americans'' life ratings are at a record high. '
 author: Joe Amditis
 tags:
-  - tech-policy
-  - national-security
-  - climate
-  - jan-6
+- tech-policy
+- national-security
+- climate
+- jan-6
 ---
 
 1/ **Trump sued Google, Facebook, and Twitter**. He filed a class action lawsuit seeking "punitive damages" to represent broader complaints about social media policies. ([Axios](https://www.axios.com/trump-lawsuit-facebook-twitter-82323cf3-b8ce-48ed-8cab-cafe31f0bae7.html) / [Associated Press](https://apnews.com/article/lawsuits-business-government-and-politics-c7e26858dcb553f92d98706d12ad510c) / [Washington Post](https://www.washingtonpost.com/technology/2021/07/07/trump-lawsuit-social-media/) / [BBC](https://www.bbc.com/news/world-us-canada-57754435))

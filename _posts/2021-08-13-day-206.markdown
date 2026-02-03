@@ -13,9 +13,9 @@ todayInOneSentence: Russia is once again trying to interfere in U.S. elections; 
   bill passes.
 author: Joe Amditis
 tags:
-  - russia
-  - covid
-  - congress
+- russia
+- covid
+- congress
 ---
 
 1/ **New intelligence reports indicate Russia is making fresh efforts to interfere in the 2022 election**. The Biden administration is receiving regular intelligence reports indicating Russian efforts to interfere in US elections are evolving and ongoing, current and former officials say, and in fact, never stopped, despite President Joe Biden's warnings to Russian President Vladimir Putin over the summer and a new round of sanctions imposed in the spring. ([CNN](https://www.cnn.com/2021/08/13/politics/intel-report-russia-election-interference-2022/index.html))

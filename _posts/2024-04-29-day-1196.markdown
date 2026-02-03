@@ -18,9 +18,9 @@ todayInOneSentence: 'Senior State Department officials warned that they don’t 
   53% of voters who don’t follow political news say they support Trump; and 55% of
   Americans say they see Trump’s presidency as a success. '
 tags:
-  - israel-palestine
-  - economy
-  - jan-6
+- israel-palestine
+- economy
+- jan-6
 ---
 
 1/ **Senior State Department officials warned that they don’t have "credible or reliable" assurances that Israel is using U.S.-provided weapons in accordance with international law**. Under a National Security Memorandum that Biden issued in February, Secretary of State Antony Blinken must determine whether Israel is using U.S. weapons “in a manner consistent with all applicable international and domestic law and policy, including international humanitarian law and international human rights law.” Blinken must tell Congress by May 8 whether he has certified the assurances to be credible and reliable. Four bureaus – Democracy, Human Rights and Labor; Population, Refugees and Migration; Global Criminal Justice; and International Organization Affairs – raised “serious concern over non-compliance” with international humanitarian law during the war. Their assessment cited eight examples of Israeli military actions that raise "serious questions" about potential violations of international humanitarian law, such as repeatedly striking protected sites and civilian infrastructure, "unconscionably high levels of civilian harm to military advantage," and "killing humanitarian workers and journalists at an unprecedented rate." The assessment also cited 11 instances of Israeli military actions that "arbitrarily restrict humanitarian aid," including rejecting aid trucks due to a single "dual-use" item, "artificial" limitations on inspections, and repeated attacks on humanitarian sites that should be protected. Meanwhile, a coalition of lawyers called on [Biden to cut off military aid to Israel](https://www.politico.com/news/2024/04/29/lawyers-israel-arm-sales-biden-00154958), arguing that its actions in Gaza violate U.S. law, including the Arms Export Control Act and Leahy Laws, as well as international humanitarian law prohibiting disproportionate attacks on civilian populations. ([Reuters](https://www.reuters.com/world/middle-east/some-us-officials-say-internal-memo-israel-may-be-violating-international-law-2024-04-27/) / [CNN](https://www.cnn.com/2024/04/28/politics/state-department-israel-gaza-international-law-us-weapons))

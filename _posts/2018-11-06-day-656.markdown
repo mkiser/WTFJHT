@@ -6,7 +6,7 @@ categories:
 description: 'Setting a tone. '
 image: "/uploads/656.jpg"
 tags:
-  - midterm-election
+- midterm-election
 ---
 
 ## 🗳 Dept. of Midterms 2018.

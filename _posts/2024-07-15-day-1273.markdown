@@ -15,9 +15,9 @@ todayInOneSentence: 'What we know about the Trump assassination attempt so far; 
   case; Trump said he’ll reveal his choice of running mate later today; and the Republican
   National Convention opens in Milwaukee. '
 tags:
-  - national-security
-  - classified-documents
-  - presidential-election
+- national-security
+- classified-documents
+- presidential-election
 ---
 
 *What we know about the Trump assassination attempt so far:*

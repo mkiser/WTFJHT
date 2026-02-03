@@ -12,9 +12,9 @@ todayInOneSentence: The EPA plans to roll back regulation of methane emissions; 
   for sharing memos that detailed his interactions with Trump; and Trump attacked
   Puerto Rico as it braces for Hurricane Dorian.
 tags:
-  - energy
-  - immigration
-  - judiciary
+- energy
+- immigration
+- judiciary
 ---
 
 1/ **The EPA plans to roll back regulation of methane emissions** – a major contributor to climate change – by eliminating the federal requirements that oil and gas companies install technology to monitor and limit leaks from wells, tanks, and pipeline networks. Trump administration officials suggested that because the oil and gas industry can't profit from leaks, they already have an economic incentive to limit their methane emissions. Several of the world's largest fossil fuel companies, however, opposed the rollback and urged the Trump administration to leave the current standards in place. ([New York Times](https://www.nytimes.com/2019/08/29/climate/epa-methane-greenhouse-gas.html) / [Washington Post](https://www.washingtonpost.com/climate-environment/2019/08/29/trump-administration-reverse-limits-methane-powerful-greenhouse-gas/) / [Wall Street Journal](https://www.wsj.com/articles/energy-companies-set-to-get-reprieve-on-methane-rules-11567051201) / [The Guardian](https://www.theguardian.com/environment/2019/aug/29/trump-administration-roll-back-methane-regulations) / [NBC News](https://www.nbcnews.com/politics/politics-news/trump-admin-roll-back-rules-climate-changing-methane-n1047656))

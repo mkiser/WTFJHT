@@ -14,10 +14,10 @@ todayInOneSentence: 'A federal court blocked Texas from using its newly drawn co
   and college programs to other federal agencies; and 47% of Americans say they prefer
   Democrats in the 2026 House races, while 42% prefer Republicans. '
 tags:
-  - voting-rights
-  - judiciary
-  - media
-  - foreign-policy
+- voting-rights
+- judiciary
+- media
+- foreign-policy
 ---
 
 1/ **A federal court blocked Texas from using its newly drawn congressional map for the 2026 elections and ordered the state to revert to its 2021 districts**. The judges wrote that “substantial evidence shows that Texas racially gerrymandered the 2025 Map,” pointing to the state’s response to a Justice Department letter focused on districts’ racial makeup. Gov. Greg Abbott said Texas would appeal to the Supreme Court and argued the map was drawn to reflected “Texans’ conservative voting preferences" and not race. The ruling stop a Trump-backed effort to add up to five Republican House seats. Texas faces a Dec. 8 candidate filing deadline under the 2021 map. ([New York Times](https://www.nytimes.com/2025/11/18/us/politics/texas-map-ruling-redistricting.html) / [Washington Post](https://www.washingtonpost.com/politics/2025/11/18/texas-redistricting-house-judge/) / [Axios](https://www.axios.com/2025/11/18/senate-uc-epstein-files-passes-trump-desk) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-11-18/texas-redistricting-shot-down-weakening-path-to-gop-gains) / [NBC News](https://www.nbcnews.com/politics/elections/federal-court-blocks-texas-redrawn-congressional-map-rcna244673) / [CNN](https://www.cnn.com/2025/11/18/politics/texas-redistricting-trump-court-ruling) / [Wall Street Journal](https://www.wsj.com/politics/policy/texas-new-congressional-map-blocked-by-court-02bac844) / [Associated Press](https://apnews.com/article/redistricting-texas-map-blocked-lawsuit-trump-ab4dc519717c6661c63e116c9f26d899) / [Axios](https://www.axios.com/local/san-antonio/2025/11/18/texas-redistricting-gop-blocked-map-judge) / [Politico](https://www.politico.com/news/2025/11/18/federal-judges-block-new-texas-congressional-map-00656680))

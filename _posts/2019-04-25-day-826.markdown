@@ -11,9 +11,9 @@ todayInOneSentence: The White House rejected a House Oversight Committee request
   McGahn to fire Robert Mueller despite the Mueller report showing otherwise; and
   Trump's re-election campaign refused to rule out using hacked information.
 tags:
-  - mueller-investigation
-  - oversight
-  - disinformation
+- mueller-investigation
+- oversight
+- disinformation
 ---
 
 1/ **The White House rejected a House Oversight Committee request for Stephen Miller to testify about his role in Trump's immigration policies**, including a plan to bus migrants to "sanctuary cities." White House counsel Pat Cipollone said blocking Miller from appearing before the committee follows "long-standing precedent" established by previous administrations. Cipollone said Cabinet secretaries and other executive branch officials would instead provide "reasonable accommodation" for requests and questions from the committee on immigration policy issues. ([CNN](https://www.cnn.com/2019/04/24/politics/white-house-stephen-miller-testify-immigration/index.html) / [Politico](https://www.politico.com/story/2019/04/25/stephen-miller-testify-house-1289871) / [ABC News](https://abcnews.go.com/Politics/white-house-blocks-senior-aide-testifying-congress-immigration/story?id=62623091))

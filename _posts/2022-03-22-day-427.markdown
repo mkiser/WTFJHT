@@ -14,9 +14,9 @@ todayInOneSentence: The Biden administration has exhausted the funds needed to p
   restricted U.S. Capitol grounds on Jan. 6; and Biden confirmed that Russia has used
   a hypersonic missile in Ukraine.
 tags:
-  - covid
-  - nomination
-  - russia
+- covid
+- nomination
+- russia
 ---
 
 1/ **The Biden administration has exhausted the funds needed to purchase a potential fourth coronavirus vaccine dose for all Americans**, unless lawmakers pass the $15 billion funding package. “Right now, we don’t have enough money for fourth doses, if they’re called for,” White House coronavirus coordinator Jeff Zients said. While federal regulators have secured enough doses to cover a fourth shot for Americans age 65 and older as well as the initial doses for children under age 5, analysts say the U.S. would need to purchase hundreds of millions of additional doses to ensure that every American could receive four shots, if necessary. In the United Kingdom, Covid-19 cases have jumped more than 36% over the past week, while in the U.S. the omicron subvariant BA.2 now represents between 50% to 70% of all Covid cases. Meanwhile, the number of at-home Covid-19 tests shipped each week by manufacturers in the U.S. has fallen by more than 50% over the last month. ([Washington Post](https://www.washingtonpost.com/health/2022/03/22/funding-fourth-vaccine-doses/) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-03-22/ba-2-variant-of-covid-is-gaining-ground-in-the-us-as-cdc-to-update-data?sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2022/03/22/tests-short-supply-if-covid-surges-00019046))

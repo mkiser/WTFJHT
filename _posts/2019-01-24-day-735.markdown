@@ -11,9 +11,9 @@ todayInOneSentence: The Senate failed to advance a pair of proposals to reopen t
   taking out loans; and the Senate Intelligence Committee issued a subpoena for Michael
   Cohen to testify.
 tags:
-  - government-shutdown
-  - immigration
-  - oversight
+- government-shutdown
+- immigration
+- oversight
 ---
 
 1/ **The Senate failed to advance a pair of competing proposals to reopen the government** and end the partial shutdown, which is now in its 34th day. The first vote was on a Republican-backed proposal to allocate $5.7 billion for Trump's border wall. The second vote was on a Democratic-backed proposal to temporarily reopen the shuttered government agencies without providing any money for a wall. Both measures fell short of the 60 votes needed to advance. The two votes were the first the Senate has taken to reopen the government since the shutdown began on Dec. 22. ([Politico](https://www.politico.com/story/2019/01/23/senate-government-funding-votes-fail-1121640) / [CNN](https://www.cnn.com/2019/01/24/politics/senate-votes-shutdown-congress/index.html) / [Wall Street Journal](https://www.wsj.com/articles/senate-prepares-votes-on-measures-to-end-shutdown-11548339694) / [New York Times](https://www.nytimes.com/2019/01/24/us/politics/government-shutdown-senate-vote.html)  / [Washington Post](https://www.washingtonpost.com/politics/senators-hope-defeat-of-dueling-plans-produces-a-solution-to-shutdown/2019/01/23/fe01a04c-1f40-11e9-8b59-0a28f2191131_story.html) / [NBC News](https://www.nbcnews.com/politics/congress/senate-vote-thursday-competing-bills-end-shutdown-n962191) / [ABC News](https://abcnews.go.com/Politics/day-34-senate-vote-competing-shutdown-bills-expected/story?id=60592616))

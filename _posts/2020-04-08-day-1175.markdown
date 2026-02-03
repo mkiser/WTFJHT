@@ -14,9 +14,9 @@ todayInOneSentence: Trump attacked the World Health Organization and threatened 
   and chloroquine; and Trump signed an executive order encouraging the U.S. to mine
   the moon for minerals.
 tags:
-  - covid
-  - foreign-policy
-  - energy
+- covid
+- foreign-policy
+- energy
 ---
 
 * ### Daily Damage Report.

@@ -14,9 +14,9 @@ todayInOneSentence: 'The Supreme Court rejected the Republican-drawn congression
   eavesdropping and intelligence-gathering facility on the island in exchange for
   billions in foreign aid. '
 tags:
-  - voting-rights
-  - classified-documents
-  - national-security
+- voting-rights
+- classified-documents
+- national-security
 ---
 
 1/ **The Supreme Court rejected the Republican-drawn congressional maps in Alabama that illegally diluted the political power of its Black residents**. Chief Justice John Roberts and Justice Brett Kavanaugh joined the court’s three liberal members in the majority, ordering the State Legislature to draw a second Black-majority congressional district. Alabama has seven congressional districts, but only one with a majority of Black voters even though African Americans make up more than a quarter of the state’s population. The ruling was unexpected in part because the court has repeatedly chipped away at the Voting Rights Act, and will likely lead to challenges of maps drawn by Republican-led legislatures elsewhere. ([NPR](https://www.npr.org/2023/06/08/1181002182/supreme-court-voting-rights) / [Associated Press](https://apnews.com/article/supreme-court-redistricting-race-voting-rights-alabama-af0d789ec7498625d344c0a4327367fe) / [New York Times](https://www.nytimes.com/2023/06/08/us/supreme-court-voting-rights-act-alabama.html) / [Washington Post](https://www.washingtonpost.com/politics/2023/06/08/supreme-court-alabama-redistricting-voting-rights/) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-strikes-alabama-congressional-map-voting-rights-dispute-rcna64476) / [Politico](https://www.politico.com/news/2023/06/08/voting-rights-act-dodges-bullet-at-supreme-court-00101004) / [Wall Street Journal](https://www.wsj.com/articles/supreme-court-blocks-gop-drawn-alabama-voting-map-challenged-by-black-voters-33f10297?mod=hp_lead_pos2) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-08/supreme-court-bolsters-voting-rights-act-backs-black-district?srnd=premium&sref=MIBMEEoj))

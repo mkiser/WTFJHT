@@ -12,9 +12,9 @@ todayInOneSentence: Biden told Putin to take action against Russian cyberattacks
   of Education is urging the White House to extend pandemic-related student loan relief.
 author: Joe Amditis
 tags:
-  - national-security
-  - tech-policy
-  - education
+- national-security
+- tech-policy
+- education
 ---
 
 1/ **Biden told Putin the U.S. will take "any necessary action" after the latest massive ransomware attack.** The White House says Biden has warned Putin that the United States would hold Moscow responsible for cyberattacks originating from Russia even if they cannot be directly linked to the Kremlin. ([Washington Post](https://www.washingtonpost.com/politics/russia-united-states-ransomware-attacks-biden/2021/07/09/034ac07e-e0d7-11eb-b507-697762d090dd_story.html))

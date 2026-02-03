@@ -6,8 +6,8 @@ categories:
 description: 'Just a coffee boy. '
 image: "/uploads/348.jpg"
 tags:
-  - mueller-investigation
-  - energy
+- mueller-investigation
+- energy
 ---
 
 1/ **A drunk George Papadopoulos bragged about the political dirt Russia had on Hillary Clinton to Australia's top diplomat** at a London bar in May 2016. Australian officials passed the information about Papadopoulos to their American counterparts two months later, when leaked Democratic emails began appearing online. The FBI opened its counterintelligence investigation in July 2016 into Russia's attempts to disrupt the election following the revelation that the Trump campaign had information about the DNC's hacked emails Trump and his advisers have dismissed Papadopoulos' campaign role as just a "coffee boy." ([New York Times](https://www.nytimes.com/2017/12/30/us/politics/how-fbi-russia-investigation-began-george-papadopoulos.html))

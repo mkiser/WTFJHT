@@ -15,9 +15,9 @@ todayInOneSentence: The death toll from the coronavirus pandemic surpassed 50,00
   for treating the coronavirus; and Trump is reportedly tens of millions of dollars
   in debt to China.
 tags:
-  - covid
-  - corruption
-  - china
+- covid
+- corruption
+- china
 ---
 
 * ### 🔥 Daily Damage Report.

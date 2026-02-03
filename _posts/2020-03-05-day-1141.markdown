@@ -13,9 +13,9 @@ todayInOneSentence: The Trump administration won’t meet its promised timeline 
   judge criticized Attorney General William Barr’s handling of Robert Mueller's report,
   saying that Barr's public statements about the report were “distorted” and “misleading."
 tags:
-  - covid
-  - disinformation
-  - judiciary
+- covid
+- disinformation
+- judiciary
 ---
 
 1/ **The Trump administration won’t meet its promised timeline of having a million coronavirus tests available by the end of the week**. Lawmakers said the government is “in the process” of sending test kits out and that people will then need to be trained on how to use them, saying that the process could take days or weeks. Earlier this week, the FDA said the U.S. would have the “capacity” to perform up to 1 million tests by the end of this week, which was backed up by Health and Human Services Secretary Alex Azar. Mike Pence also said that 1.5 million tests would be going out. The Senate, meanwhile, passed an $8.3 billion emergency funding bill to fight the coronavirus. The package will be sent to the White House for Trump's signature after passing the House yesterday. ([Bloomberg](https://www.bloomberg.com/news/articles/2020-03-05/u-s-won-t-meet-coronavirus-test-rollout-goal-senators-say) / [Politico](https://www.politico.com/news/2020/03/05/senate-approves-83-billion-emergency-coronavirus-package-122266) / [CNBC](https://www.cnbc.com/2020/03/05/senate-passes-8point3-billion-coronavirus-bill-sending-it-to-trumps-desk.html) / [CNN](https://www.cnn.com/2020/03/05/politics/coronavirus-senate-vote-response-funding-package/index.html))

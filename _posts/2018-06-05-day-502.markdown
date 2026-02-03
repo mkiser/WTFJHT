@@ -13,9 +13,9 @@ todayInOneSentence: 'Trump blamed Jeff Sessions for the ongoing Russia investiga
   that the White House''s school safety commission will not examine the role of guns
   in school violence. '
 tags:
-  - mueller-investigation
-  - national-security
-  - subpoena
+- mueller-investigation
+- national-security
+- subpoena
 ---
 
 1/ **Trump blamed Jeff Sessions for the ongoing Russia investigation into possible collusion**, lamented asking Sessions to lead the Justice Department, and suggested that the probe would have been shut down by now if Sessions had not recused himself. In a tweet, Trump said the "Russian Witch Hunt Hoax continues, all because Jeff Sessions didn't tell me he was going to recuse himself." ([Washington Post](https://www.washingtonpost.com/politics/trump-blames-sessions-for-russia-probe-suggests-he-could-have-shut-it-down/2018/06/05/19023474-68b2-11e8-bf8c-f9ed2e672adf_story.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia/pressure-builds-on-attorney-general-sessions-as-trump-pours-on-blame-idUSKCN1J11R3) / [Politico](https://www.politico.com/story/2018/06/05/trump-sessions-mueller-russia-624181))

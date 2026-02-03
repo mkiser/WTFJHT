@@ -15,10 +15,10 @@ todayInOneSentence: The Fulton County Sheriff’s Office is investigating online
   Americans say Trump should suspend his presidential campaign; and 42% of American's
   approve of Biden's performance as president.
 tags:
-  - jan-6
-  - indictment
-  - national-security
-  - presidential-election
+- jan-6
+- indictment
+- national-security
+- presidential-election
 ---
 
 1/ **The Fulton County Sheriff’s Office is investigating online threats against the grand jurors who voted to indict Trump on racketeering charges after their names, photographs, phone numbers, and home addresses were purportedly posted on social media**. While Georgia law requires that the names of all the grand jury members be publicly listed, the indictment doesn't include any other personally identifiable information. An anonymous user called the list of jurors' "a hit list," while another user wrote “everyone on that jury should be hung.” One message said: “These jurors have signed their death warrant by falsely indicting President Trump." ([NBC News](https://www.nbcnews.com/politics/donald-trump/names-addresses-grand-jurors-georgia-trump-indictment-posted-online-rcna100239) / [USA Today](https://www.usatoday.com/story/news/politics/2023/08/17/social-media-grand-juror-information-trump-indictment/70609764007/) / [The Hill](https://thehill.com/regulation/court-battles/4156983-grand-jurors-in-trump-georgia-case-face-threats-racist-abuse/) / [CNN](https://www.cnn.com/2023/08/17/politics/fulton-county-grand-jurors-far-right-internet/) / [Axios](https://www.axios.com/2023/08/17/georgia-grand-jurors-threats-trump) / [New York Times](https://www.nytimes.com/2023/08/17/us/trump-georgia-grand-jurors.html))

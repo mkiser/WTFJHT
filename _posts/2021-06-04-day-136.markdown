@@ -17,9 +17,9 @@ todayInOneSentence: The economy added 559,000 jobs last month; CDC Director Roch
   will remain suspended until at least January 2023 and will only be reinstated "if
   the risk to public safety has receded."
 tags:
-  - economy
-  - covid
-  - judiciary
+- economy
+- covid
+- judiciary
 ---
 
 1/ **The economy added 559,000 jobs last month – double April's total**. The unemployment rate fell to 5.8% from 6.1%. Despite the gains, the U.S. has only replaced two-thirds of the jobs lost last year – about 7.4 million jobs shy of where it was February 2020. Biden defended the job gains, which were less than the 650,000 jobs economists had predicted, saying "you can't reboot the world's largest economy like flipping on a light switch \[...\] This is progress that’s pulling our economy out of the worst crisis in the last 100 years." Biden added: "We're on the right track. Our plan is working. And we're not going to let up now." ([CNN](https://www.cnn.com/2021/06/04/politics/biden-may-jobs-report/index.html) / [NPR](https://www.npr.org/2021/06/04/1003035263/hiring-picked-up-last-month-a-relief-for-an-economy-desperate-for-workers) / [NBC News](https://www.nbcnews.com/business/economy/u-s-economy-added-559-000-jobs-may-double-april-n1269609) / [Wall Street Journal](https://www.wsj.com/articles/may-jobs-report-unemployment-rate-2021-11622764467) / [New York Times](https://www.nytimes.com/2021/06/04/business/economy/jobs-report-may-2021.html) / [CNBC](https://www.cnbc.com/2021/06/04/biden-responds-to-the-may-jobs-report-our-plan-is-working.html))

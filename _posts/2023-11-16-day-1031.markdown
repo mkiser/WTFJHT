@@ -13,10 +13,10 @@ todayInOneSentence: 'The Senate approved a temporary funding measure to avert a 
   court judge temporarily lifted Trump''s gag order in the ongoing New York civil
   fraud trial, clearing the way for Trump resume attacking the judge and court staff. '
 tags:
-  - government-shutdown
-  - congress
-  - israel-palestine
-  - lawsuit
+- government-shutdown
+- congress
+- israel-palestine
+- lawsuit
 ---
 
 1/ **The Senate approved a temporary funding measure to avert a government shutdown**, sending the measure to Biden for his signature before the Friday night deadline. The bill sets up two funding deadlines in early 2024, with roughly 20% percent of the federal government running out of money on Jan. 19 and the remaining 80% on Feb. 2. The legislation finances the government at current spending levels and contains no policy conditions – aspects that have enraged far-right Republicans. The “laddered” deadlines are designed to allow the House and Senate to negotiate and pass the 12 full-year spending measures. ([Bloomberg](https://www.bloomberg.com/news/articles/2023-11-16/us-senate-votes-overwhelmingly-to-avert-us-government-shutdown?sref=MIBMEEoj) / [Axios](https://www.axios.com/2023/11/16/senate-continuing-resolution-government-shutdown) / [Politico](https://www.politico.com/live-updates/2023/11/15/congress/senate-shutdown-vote-government-funding-00127494) / [Washington Post](https://www.washingtonpost.com/business/2023/11/15/senate-vote-avert-government-shutdown/) / [New York Times](https://www.nytimes.com/2023/11/15/us/republicans-house-spending.html))

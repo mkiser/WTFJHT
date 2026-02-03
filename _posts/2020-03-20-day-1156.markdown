@@ -13,9 +13,9 @@ todayInOneSentence: Senate Republican and Democratic negotiators, as well as sen
   coronavirus pandemic; and at least four senators sold off millions of dollars’ worth
   of stocks just before the market dropped amid fears of the coronavirus pandemic.
 tags:
-  - covid
-  - economy
-  - ethics
+- covid
+- economy
+- ethics
 ---
 
 1/ **Senate Republican and Democratic negotiators, as well as senior Trump administration officials kicked off talks on a $1 trillion economic stabilization plan** – the third stimulus package Congress has considered this month to confront the coronavirus –  with the goal of having a deal by the end of the day. Mitch McConnell has promised to pass the new stimulus though the chamber by Monday despite multiple disagreements over the structure of the bill, which was released Thursday. The initial plan would have given many Americans $1,200 in a one-time payment, but those without federal tax liability – i.e. the poorest Americans – would get as little as $600. Trump has also promised that the initial payment would be substantially higher than $1,000. ([Politico](https://www.politico.com/news/2020/03/20/senate-coronavirus-emergency-stimulus-deal-friday-138788) / [Washington Post](https://www.washingtonpost.com/us-policy/2020/03/20/trump-coronavirus-senate-economic-plan/) / [New York Times](https://www.nytimes.com/2020/03/20/us/politics/congress-coronavirus-economic-rescue-plan.html))

@@ -13,9 +13,9 @@ todayInOneSentence: Mueller's team has begun writing its final report; Trump has
   ruled that the Trump administration can't end the Deferred Action for Childhood
   Arrivals program.
 tags:
-  - mueller-investigation
-  - media
-  - immigration
+- mueller-investigation
+- media
+- immigration
 ---
 
 1/ **Robert Mueller's team has begun writing its final report**. Trump and his lawyers, meanwhile, have been reviewing his written answers to questions from the special counsel. Mueller is required to produce a "confidential report" at the end of his investigation, which includes "the prosecution or declination decisions reached by the Special Counsel." With Jeff Sessions being replaced with Matt Whitaker, who has been openly critical of Mueller, it is not clear whether the report will release it at all, or in what form. ([CNN](https://www.cnn.com/2018/11/08/politics/trump-reviewing-answers-mueller/index.html))

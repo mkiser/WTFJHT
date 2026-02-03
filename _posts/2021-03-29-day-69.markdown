@@ -14,10 +14,10 @@ todayInOneSentence: CDC Director Rochelle Walensky warned of "impending doom" as
   chief and members of the department’s cybersecurity staff, who were responsible
   for identifying threats from foreign countries.
 tags:
-  - covid
-  - immigration
-  - climate
-  - national-security
+- covid
+- immigration
+- climate
+- national-security
 ---
 
 1/ **CDC Director Rochelle Walensky warned of "impending doom" as Covid-19 cases, hospitalizations, and deaths rise throughout the U.S.** The seven-day average for new daily Covid-19 cases is nearly at 60,000 – up 10% from the prior week. Hospitalizations are up to about 4,800 a day, from 4,600 a week earlier. And, deaths  have also started to rise again. Walensky attributed the rise to the spread of more contagious variants, increased travel, and governors lowering restrictions too quickly. "We have so much to look forward to, so much promise and potential of where we are and so much reason for hope," Walensky said, "but right now I’m scared.” ([NBC News](https://www.nbcnews.com/politics/white-house/cdc-director-warns-impending-doom-covid-cases-rise-n1262355) / [Politico](https://www.politico.com/news/2021/03/29/cdc-chief-covid-cases-surge-478340) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-03-29/cdc-chief-warns-of-impending-doom-as-covid-cases-deaths-rise?sref=MIBMEEoj))

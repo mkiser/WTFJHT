@@ -12,10 +12,10 @@ todayInOneSentence: 'House Republicans narrowly passed a budget resolution advan
   2009 “endangerment finding,” which classifies greenhouse gases as a threat to public
   health. '
 tags:
-  - congress
-  - immigration
-  - climate
-  - executive-order
+- congress
+- immigration
+- climate
+- executive-order
 ---
 
 1/ **House Republicans narrowly passed a budget resolution advancing Trump’s domestic agenda in a 217-215 vote**. Speaker Mike Johnson and Republicans leaders successfully flipped three of four Republican holdouts after Trump personally lobbied them to pass his “big, beautiful bill.” The resolution includes $4.5 trillion in tax cuts, $2 trillion in spending reductions, and increased border security and military funding. The budget sets a target of at least $880 billion in federal spending cuts, including from health programs. While the plan does not explicitly mention Medicaid, it instructs committees to find savings in areas that include entitlement spending. Republicans say the cuts will target inefficiencies, while Democrats warn they will reduce Medicaid benefits. The Senate, which passed a competing budget plan, must now negotiate with House Republicans to reconcile differences, including Medicaid cuts and tax policy. Senate Majority Leader John Thune warned that the House budget is “a first step in what will be a long process.” ([Politico](https://www.politico.com/news/2025/02/25/house-budget-republican-agenda-00206125) / [New York Times](https://www.nytimes.com/2025/02/25/us/politics/mike-johnson-budget-resolution-vote.html) / [ABC News](https://abcnews.go.com/Politics/budget-vote-jeopardy-johnson-plays-republican-whack-mole/story?id=119166111) / [Washington Post](https://www.washingtonpost.com/business/2025/02/25/johnson-reconciliation-trump/) / [Politico](https://www.politico.com/news/2025/02/26/senate-republicans-reject-house-budget-00206244) / [NBC News](https://www.nbcnews.com/politics/congress/house-budget-vote-speaker-johnson-trump-agenda-rcna193626) / [CNN](https://www.cnn.com/2025/02/25/politics/house-gop-budget-trump-agenda/index.html) / [CNBC](https://www.cnbc.com/2025/02/25/house-republicans-advance-trumps-tax-cut-plan.html))

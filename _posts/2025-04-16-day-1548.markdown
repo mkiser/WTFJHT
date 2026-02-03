@@ -16,10 +16,10 @@ todayInOneSentence: 'A federal judge said he found “probable cause” to hold 
   Congress to rescind $1.1 billion in funds for NPR and PBS; and the Justice Department
   sued Maine over its refusal to ban transgender athletes from women’s sports. '
 tags:
-  - judiciary
-  - immigration
-  - tariffs
-  - media
+- judiciary
+- immigration
+- tariffs
+- media
 ---
 
 1/ **A federal judge said he found “probable cause” to hold the Trump administration "in criminal contempt" for its “willful disregard” for his order directing officials to turn around planes carrying deportees to an El Salvador prison**. “The Court does not reach such conclusion lightly or hastily; indeed, it has given Defendants ample opportunity to rectify or explain their actions. None of their responses has been satisfactory,” Judge James Boasberg said, giving the White House until April 23 to respond. The Trump administration claimed the migrants were already airborne and later cited “state secrets” to avoid giving details. Boasberg dismissed the excuses, writing that “Every judicial order must be obeyed — no matter how ‘erroneous’ it ‘may be.’” ([New York Times](https://www.nytimes.com/2025/04/16/us/politics/trump-probable-cause-contempt-deportation-flights.html) / [Washington Post](https://www.washingtonpost.com/politics/2025/04/16/boasberg-trump-contempt-deportations-alien-enemies-planes/) / [Associated Press](https://apnews.com/article/trump-deportees-el-salvador-contempt-boasberg-da282511ac6f5c8dd19af620995ca440) / [Politico](https://www.politico.com/news/2025/04/16/trump-deportation-el-salvador-federal-judge-00293076) / [NPR](https://www.npr.org/2025/04/16/g-s1-60696/judge-contempt-alien-enemies-act) / [NBC News](https://www.nbcnews.com/politics/politics-news/judge-finds-probable-cause-hold-trump-administration-contempt-deportat-rcna201569) / [USA Today](https://www.usatoday.com/story/news/politics/2025/04/16/trump-theatened-with-contempt-deportations/83119848007/) / [Reuters](https://www.reuters.com/legal/judge-finds-trump-administration-disregarded-order-venezuelan-deportations-2025-04-16/) / [Axios](https://www.axios.com/2025/04/16/boasberg-trump-deportation-contempt) / [CNN](https://www.cnn.com/2025/04/16/politics/boasberg-contempt-deportation-flights/index.html))

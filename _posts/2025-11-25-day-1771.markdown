@@ -12,10 +12,10 @@ todayInOneSentence: 'The White House postponed its new Affordable Care Act subsi
   since April; and Trump used his first White House turkey pardon of his second term
   to turn holiday ritual into criticizing Biden and Illinois Gov. JB Pritzker. '
 tags:
-  - healthcare
-  - foreign-policy
-  - ukraine
-  - economy
+- healthcare
+- foreign-policy
+- ukraine
+- economy
 ---
 
 1/ **The White House postponed its new Affordable Care Act subsidy plan after Speaker Mike Johnson said House Republicans wouldn’t support it**. The Trump administration had drafted a framework to extend the enhanced ACA subsidies for two years with new income caps, required minimum premium payments, tighter fraud controls, and options to route some aid into health savings accounts. Republicans, however, rejected the plan because it would still extend ACA subsidies they have long opposed, raised concerns about abortion coverage, and angered some lawmakers who said they first saw the proposal’s details on social media rather than from the administration. Subsidies are set to expire at the end of the year for more than 20 million people, and Democrats have warned that premiums will jump if Congress doesn’t act. ([Wall Street Journal](https://www.wsj.com/politics/policy/speaker-johnson-flashes-red-on-trumps-healthcare-push-11b70dd5) / [New York Times](https://www.nytimes.com/2025/11/24/us/politics/trump-obamacare-subsidies-health-care.html) / [Politico](https://www.politico.com/news/2025/11/24/trump-health-care-subsidies-backlash-00667751) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-11-24/trump-still-working-on-health-care-proposal-white-house-says) / [CNN](https://www.cnn.com/2025/11/24/politics/gop-pushback-trump-health-care-proposal) / [USA Today](https://www.usatoday.com/story/news/politics/2025/11/24/trump-obamacare-aca-subsidies-proposal/87446544007/) / [Associated Press](https://apnews.com/article/trump-affordable-care-act-proposal-subsidies-democrats-dcbd606d8c35f403136b9547d88e0449) / [CBS News](https://www.cbsnews.com/news/house-republicans-health-care-aca-subsidies-trump-johnson/) / [Axios](https://www.axios.com/2025/11/25/white-house-delay-obamacare-subsidy-plan) / [CNBC](https://www.cnbc.com/2025/11/24/republicans-push-obamacare-tax-credit-alternatives-as-deadline-looms.html))

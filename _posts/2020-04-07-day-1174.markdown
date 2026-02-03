@@ -16,9 +16,9 @@ todayInOneSentence: Trump removed the Pentagon’s acting inspector general, who
   brand-name version of hydroxychloroquine; and Trump replaced the White House press
   secretary with his re-election campaign spokeswoman.
 tags:
-  - covid
-  - oversight
-  - corruption
+- covid
+- oversight
+- corruption
 ---
 
 * ### Daily Damage Report.

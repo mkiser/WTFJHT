@@ -16,8 +16,8 @@ todayInOneSentence: 'Judge Aileen Cannon denied convicted felon Trump’s effort
   guilty on three counts related to his illegal purchase of a handgun when he was
   using narcotics. '
 tags:
-  - classified-documents
-  - lgbtq-rights
+- classified-documents
+- lgbtq-rights
 ---
 
 1/ **Judge Aileen Cannon denied convicted felon Trump’s effort to dismiss his classified documents case, but did agree to delete a paragraph in the federal superseding indictment** that alleges he mishandled classified materials after he left the White House and obstructed attempts to retrieve them. Cannon said that special counsel Jack Smith's inclusion of a paragraph, which alleges Trump showed a classified document in September 2021 about an “ongoing military operation” was “not going well" to someone without a security clearance, was “not appropriate,” because it’s not directly related to the charges Trump is facing. Trump isn’t charged with disclosing classified materials; only with illegally retaining them. ([NBC News](https://www.nbcnews.com/politics/donald-trump/judge-cannon-denies-another-motion-trump-dismiss-classified-documents-rcna156482) / [Washington Post](https://www.washingtonpost.com/national-security/2024/06/10/florida-judge-cannon-trump/) / [New York Times](https://www.nytimes.com/2024/06/10/us/politics/trump-documents-charges-cannon.html) / [CNN](https://www.cnn.com/2024/06/10/politics/judge-cannon-trump-classified-documents-charges/index.html))

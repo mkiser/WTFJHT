@@ -17,9 +17,9 @@ todayInOneSentence: 'FBI agents searched the Virginia home of a Washington Post 
   you” while touring a Ford plant in Michigan; and 2025 was the third-warmest on record,
   and the past 11 years have been the 11 warmest. '
 tags:
-  - national-security
-  - immigration
-  - climate
+- national-security
+- immigration
+- climate
 ---
 
 1/ **FBI agents searched the Virginia home of a Washington Post reporter** and seized her phone, two laptops and a Garmin watch as part of an investigation into a Pentagon contractor accused of unlawfully retaining classified national defense information. The search, conducted at the Pentagon’s request, sought evidence of communications between Hannah Natanson and the contractor, Aurelio Perez-Lugones, even though Natanson and the Post were told they aren’t targets and haven’t been accused of wrongdoing. Court papers charge Perez-Lugones only with retaining classified material and don’t accuse him of leaking or sharing information with Natanson. Attorney General Pam Bondi, however, claims that Natanson was “obtaining and reporting classified and illegally leaked information.” Investigators said documents marked “SECRET,” including one found in a lunchbox, were recovered from Perez-Lugones’s home and car. ([Associated Press](https://apnews.com/article/fbi-washington-post-search-warrant-classified-documents-373bd02f4f9ea446dd71c1203da467f3) / [New York Times](https://www.nytimes.com/2026/01/14/us/politics/fbi-washington-post-journalist.html) / [Washington Post](https://www.washingtonpost.com/national-security/2026/01/14/washington-post-reporter-search/) / [NBC News](https://www.nbcnews.com/news/us-news/fbi-searched-washington-post-reporters-home-part-investigation-governm-rcna254008) / [The Guardian](https://www.theguardian.com/us-news/2026/jan/14/fbi-raid-washington-post-hannah-natanson) / [ABC News](https://abcnews.go.com/Politics/fbi-searches-washington-post-reporters-home-alleged-classified/story?id=129205960) / [CNN](https://www.cnn.com/2026/01/14/media/fbi-hannah-natanson-washington-post-search-doj))

@@ -16,9 +16,9 @@ todayInOneSentence: Another 3.8 million Americans filed for first-time unemploym
   claims that the coronavirus outbreak originated in state-run laboratory accident
   in China.
 tags:
-  - covid
-  - corruption
-  - china
+- covid
+- corruption
+- china
 ---
 
 * ### 🔥 Daily Damage Report.

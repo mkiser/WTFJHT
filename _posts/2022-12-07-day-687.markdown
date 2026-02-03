@@ -11,10 +11,10 @@ todayInOneSentence: 'The Supreme Court appeared split on whether state legislato
   runoff election; and Trump''s lawyers found at least two classified documents in
   a Florida storage unit. '
 tags:
-  - voting-rights
-  - supreme-court
-  - special-election
-  - classified-documents
+- voting-rights
+- supreme-court
+- special-election
+- classified-documents
 ---
 
 1/ **The Supreme Court appeared split on whether state legislators can set voting rules for federal elections without oversight from state courts**. The justices are considering a once-fringe legal idea being pressed by North Carolina’s Republican legislative leaders called the “independent state legislature” theory, which argues that an interpretation of the Constitution’s Elections Clause leaves no room for state courts to review election laws. If the justices were to side with the North Carolina Republicans, state lawmakers would have largely unchecked power to set election rules, including reshaping congressional districts through partisan gerrymandering, determining voter eligibility, and mail-in ballot requirements. Justice Elena Kagan called the independent state legislature argument “a theory with big consequences.” ([New York Times](https://www.nytimes.com/2022/12/07/us/supreme-court-federal-elections.html) / [Washington Post](https://www.washingtonpost.com/politics/2022/12/07/election-oversight-supreme-court-north-carolina/) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-12-07/justices-struggle-to-narrow-case-that-could-upend-election-law?cmpid=BBD120722_BIZ&sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2022/12/07/supreme-court-independent-state-legislature-theory-00072713))

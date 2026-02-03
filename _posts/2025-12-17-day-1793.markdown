@@ -18,10 +18,10 @@ todayInOneSentence: 'Four House Republicans broke with Speaker Mike Johnson and 
   claimed that construction of the White House ballroom must continue as a matter
   of national security. '
 tags:
-  - healthcare
-  - economy
-  - classified-documents
-  - congress
+- healthcare
+- economy
+- classified-documents
+- congress
 ---
 
 1/ **Four House Republicans broke with Speaker Mike Johnson and joined Democrats to force a House vote on extending enhanced Affordable Care Act subsidies that are set to expire at the end of the year**. The lapse is projected to raise premiums for more than 20 million people who buy health insurance through the ACA marketplace. Reps. Brian Fitzpatrick, Mike Lawler, Rob Bresnahan, and Ryan Mackenzie signed a discharge petition led by Democratic leader Hakeem Jeffries, pushing it to the 218 signatures required to compel a vote, likely in January after the subsidies have already expired. The Senate, however, has already rejected the plan. Johnson, meanwhile, downplayed the defections saying, “I have not lost control of the House.” Hours later, the House approved a Republican bill that doesn’t renew the ACA tax credits and has little chance of passing through the Senate. The health policy group KFF estimates premiums will rise by an average of $1,016 next year if the subsidies lapse. ([Associated Press](https://apnews.com/article/health-care-subsidies-aca-speaker-johnson-1087a9f64168d66b2acf9082af16c253) / [Axios](https://www.axios.com/2025/12/17/mike-johnson-moderate-republicans-fitzpatrick-health-care-aca) / [Politico](https://www.politico.com/live-updates/2025/12/17/congress/brian-fitzpatrick-joins-house-democrats-health-care-discharge-petition-00694688) / [ABC News](https://abcnews.go.com/Politics/moderate-republicans-buck-leadership-back-democrat-effort-extend/story?id=128485292) / [New York Times](https://www.nytimes.com/2025/12/17/us/politics/obamacare-subsidies-house.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-12-17/moderate-republicans-revolt-to-force-january-obamacare-vote) / [CNBC](https://www.cnbc.com/2025/12/17/johnson-aca-republicans-health.html) / [NBC News](https://www.nbcnews.com/politics/congress/centrist-republicans-revolt-signing-petition-force-vote-obamacare-fund-rcna249693) / [CNN](https://www.cnn.com/2025/12/17/politics/obamacare-subsidies-discharge-petition-johnson-healthcare) / [Washington Post](https://www.washingtonpost.com/politics/2025/12/17/house-republicans-aca-subsidies-vote/) / [Wall Street Journal](https://www.wsj.com/politics/policy/house-gop-dissidents-back-aca-vote-siding-with-democrats-0a879863) / [Politico](https://www.politico.com/live-updates/2025/12/17/congress/house-republicans-obamacare-subsidies-00695982) / [The Hill](https://thehill.com/homenews/house/5653811-house-gop-health-care-bill/))

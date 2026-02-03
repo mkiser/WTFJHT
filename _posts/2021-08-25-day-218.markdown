@@ -15,9 +15,9 @@ todayInOneSentence: The majority of the federal rental assistance funding has ye
   unlawful robocalls to spread misinformation about mail-in voting.
 author: Joe Amditis
 tags:
-  - jan-6
-  - immigration
-  - disinformation
+- jan-6
+- immigration
+- disinformation
 ---
 
 1/ **Roughly 89% of the funds from the Emergency Rental Assistance Program have not been distributed, according to the Treasury Department.** Just $1.7 billion of the $46.5 billion in funds intended to prevent eviction were disbursed as of July. Meanwhile, the White House is bracing for a Supreme Court decision that could strike down its eviction moratorium. ([New York Times](https://www.nytimes.com/2021/08/25/us/politics/eviction-rental-assistance.html))

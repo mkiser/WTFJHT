@@ -12,9 +12,9 @@ todayInOneSentence: Mitch McConnell blocked two bills to re-open the government;
   associate of Paul Manafort. Also the oceans are dying faster than we thought.
 author: Joe Amditis
 tags:
-  - government-shutdown
-  - mueller-investigation
-  - climate
+- government-shutdown
+- mueller-investigation
+- climate
 ---
 
 1/ **Mitch McConnell blocked two bills that would have ended the government shutdown.** The bills had passed the House. McConnell said he will not consider any shutdown-related bills he doesn't believe Trump would sign. He added: "Political stunts are not going to get us anywhere." ([CNN](https://www.cnn.com/2019/01/10/politics/senate-blocks-vote-congress-shutdown/index.html) / [The Hill](https://thehill.com/homenews/senate/424730-mcconnell-blocks-house-bills-to-reopen-government))

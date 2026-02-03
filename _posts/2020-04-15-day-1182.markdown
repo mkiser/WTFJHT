@@ -11,9 +11,9 @@ todayInOneSentence: 'Trump cutoff U.S. funding to the World Health Organization;
   on business and labor leaders to advise him on when and how to restart the U.S.
   economy; and Trump wanted to start a White House talk radio show. '
 tags:
-  - covid
-  - foreign-policy
-  - corruption
+- covid
+- foreign-policy
+- corruption
 ---
 
 * ### Daily Damage Report.

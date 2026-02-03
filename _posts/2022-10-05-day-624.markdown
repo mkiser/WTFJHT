@@ -16,11 +16,11 @@ todayInOneSentence: The World Trade Organization warned that the outlook for glo
   nominee for Senate in Pennsylvania, killed over 320 dogs, 31 pigs, and 661 rabbits
   and other rodents between 1989 and 2010.
 tags:
-  - trade
-  - energy
-  - economy
-  - classified-documents
-  - reproductive-rights
+- trade
+- energy
+- economy
+- classified-documents
+- reproductive-rights
 ---
 
 1/ **The World Trade Organization warned that the outlook for global trade next year has "darkened considerably"** with “multiple shocks” – from higher energy and food prices to rising interest rates – curbing import demand. World trade is now expected grow 1.0% in 2023, compared with a previous forecast of 3.4%. ([Bloomberg](https://www.bloomberg.com/news/articles/2022-10-05/wto-slashes-forecast-for-merchandise-trade-growth-in-2023?cmpId=google&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/sharp-slowdown-in-global-trade-points-to-possible-recession-lower-inflation-11664964002?mod=hp_lead_pos1) / [Reuters](https://www.reuters.com/markets/wto-sees-sharp-slowdown-global-trade-growth-2023-2022-10-05/))

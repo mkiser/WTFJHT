@@ -6,10 +6,10 @@ categories:
 description: 'Suckers. '
 image: "/uploads/469.jpg"
 tags:
-  - mueller-investigation
-  - subpoena
-  - corruption
-  - ethics
+- mueller-investigation
+- subpoena
+- corruption
+- ethics
 ---
 
 1/ **Rudy Giuliani: Trump reimbursed Michael Cohen for the $130,000 hush payment to Stormy Daniels**, repaying Cohen through a series of payments over several months until the transactions were completed either in 2017 or early 2018. "The president repaid it," Giuliani told Sean Hannity, but Trump "didn't know about the specifics of it, as far as I know. But he did know the general arrangement, that Michael would take care of things like this, like I take care of things like this with my clients." Giuliani said that Cohen had "settled several problems for" Trump, and the payment was one of them. ([Washington Post](https://www.washingtonpost.com/world/national-security/giuliani-trump-repaid-lawyer-cohen-for-stormy-daniels-settlement/2018/05/02/526cde54-4e76-11e8-84a0-458a1aa9ac0a_story.html?utm_term=.953346ab1072))

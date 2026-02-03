@@ -6,9 +6,9 @@ categories:
 description: Shame.
 image: "/uploads/330.jpg"
 tags:
-  - taxes
-  - pardon
-  - healthcare
+- taxes
+- pardon
+- healthcare
 ---
 
 **What's in the GOP tax bill.**

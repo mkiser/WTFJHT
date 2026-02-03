@@ -21,10 +21,10 @@ podcast:
   duration: '00:04:10'
   length: 4014123
 tags:
-  - immigration
-  - government-shutdown
-  - national-security
-  - voting-rights
+- immigration
+- government-shutdown
+- national-security
+- voting-rights
 ---
 
 1/ **FBI agents executed a search warrant at Fulton County’s election facility near Atlanta, seeking records related to the 2020 election**. While FBI only said it was carrying out a “court authorized law enforcement action,” Fulton County said the warrant “sought a number of records related to 2020 elections.” The search comes a week after Trump repeated his false claim at Davos that the 2020 vote was “rigged” and that “people will soon be prosecuted for what they did.” It also follows the Justice Department’s civil lawsuit against court clerk Ché Alexander seeking the 2020 “physical ballots, stubs and absentee ballot envelopes.” ([Associated Press](https://apnews.com/article/fbi-georgia-elections-office-fulton-county-28e736037521b17197760d2394f0ab43) / [Reuters](https://www.reuters.com/world/us/fbi-executing-search-warrant-election-office-georgia-related-2020-vote-fox-news-2026-01-28/) / [Politico](https://www.politico.com/news/2026/01/28/fbi-raid-georgia-elections-trump-2020-00753249) / [New York Times](https://www.nytimes.com/2026/01/28/us/politics/fbi-search-election-center-georgia.html) / [Washington Post](https://www.washingtonpost.com/national-security/2026/01/28/fbi-fulton-2020-election-fraud/) / [ABC News](https://abcnews.go.com/Politics/fbi-conducting-court-ordered-activity-georgia-election-site/story?id=129644345) / [NBC News](https://www.nbcnews.com/politics/justice-department/fbi-shows-fulton-county-election-hub-days-trump-referenced-possible-20-rcna256351) / [Wall Street Journal](https://www.wsj.com/politics/elections/fbi-agents-search-election-office-in-georgias-fulton-county-8d4d274d))

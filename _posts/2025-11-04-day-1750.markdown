@@ -20,10 +20,10 @@ todayInOneSentence: At 35 days, the federal shutdown has tied the record for the
   weapons” (it hadn’t), and that Americans would be “greeted as liberators” (they
   weren’t), died November 3, 2025, at 84 from pneumonia and heart complications.
 tags:
-  - government-shutdown
-  - healthcare
-  - congress
-  - economy
+- government-shutdown
+- healthcare
+- congress
+- economy
 ---
 
 1/ **At 35 days, the federal shutdown has tied the record for the longest in U.S. history**, matching the 2018–19 closure during Trump’s first term. The Senate rejected a Republican stopgap bill for the 14th time, leaving Congress no closer to reopening the government. The shutdown has left hundreds of thousands of federal workers without pay and disrupted food aid for millions. The Trump administration, meanwhile, circulated notices implying that only employees who worked during the shutdown will be paid once it ends, despite a 2019 law guaranteeing back pay for all furloughed staff. Press Secretary Karoline Leavitt said the White House is “open to discussing” back pay with Democrats, indicating it could be used as leverage in negotiations. ([NBC News](https://www.nbcnews.com/politics/politics-news/35-days-government-shutdown-record-longest-history-election-day-rcna241576) / [The Hill](https://thehill.com/homenews/senate/5588295-spending-bill-government-shutdown-vote/) / [Politico](https://www.politico.com/live-updates/2025/11/04/congress/senate-stopgap-vote-00634799) / [CNN](https://www.cnn.com/2025/11/04/politics/shutdown-congress-tied-longest-bipartisan-talks) / [New York Times](https://www.nytimes.com/live/2025/11/04/us/trump-shutdown-news#furlough-notices-to-federal-workers-leave-out-any-mention-of-back-pay) / [Wall Street Journal](https://www.wsj.com/politics/policy/lawmakers-see-hope-for-ending-shutdown-as-record-nears-863df59d) / [Associated Press](https://apnews.com/article/longest-government-shutdown-trump-schumer-elections-183a80e0bb9ab6a2ee6ddd5e8367f100) / [Washington Post](https://www.washingtonpost.com/business/2025/11/04/shutdown-back-pay-federal-workers/))

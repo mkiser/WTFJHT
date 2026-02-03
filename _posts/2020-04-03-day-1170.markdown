@@ -14,9 +14,9 @@ todayInOneSentence: The CDC recommends all Americans wear simple “non-medical,
   of the coronavirus testing data; and the Trump administration ended a pandemic early-warning
   program in China two months before the coronavirus started spreading in Wuhan.
 tags:
-  - covid
-  - oversight
-  - corruption
+- covid
+- oversight
+- corruption
 ---
 
 * ### Daily Damage Report.

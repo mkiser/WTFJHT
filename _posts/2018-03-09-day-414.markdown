@@ -6,10 +6,10 @@ categories:
 description: 'But his emails. '
 image: "/uploads/414.jpg"
 tags:
-  - mueller-investigation
-  - gun-policy
-  - national-security
-  - supreme-court
+- mueller-investigation
+- gun-policy
+- national-security
+- supreme-court
 ---
 
 1/ **Michael Cohen used his Trump Organization email to arrange the $130,000 transfer to Stormy Daniels** in exchange for her silence about her affair with Trump. Trump's personal attorney regularly used the same email account during 2016 negotiations with the actress – whose legal name is Stephanie Clifford – before she signed a nondisclosure agreement. Daniels filed a civil suit against Trump alleging the contract she signed is invalid because it's intentionally missing Trump's signature "so he could later, if need be, publicly disavow any knowledge of the 'Hush Agreement'" or the affair. ([NBC News](https://www.nbcnews.com/news/us-news/michael-cohen-used-trump-org-email-stormy-daniels-arrangements-n855021) / [NPR](https://www.npr.org/sections/thetwo-way/2018/03/09/592008811/white-house-acknowledges-trump-ties-to-stormy-legal-battle-over-alleged-affair))

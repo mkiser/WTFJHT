@@ -13,9 +13,9 @@ todayInOneSentence: 'Georgia''s governor signed new voting restrictions into law
   a piece of Postmaster General Louis DeJoy’s 10-year restructuring plan for the U.S.
   Postal Service. '
 tags:
-  - voting-rights
-  - covid
-  - media
+- voting-rights
+- covid
+- media
 ---
 
 1/ **Georgia's governor signed new voting restrictions into law**. The overhaul of the state's election laws would impose rigid absentee voter identification requirements, limit drop boxes, shortens state runoffs, and expand the Legislature’s power over elections. Republican Gov. Brian Kemp signed the measure into law just over an hour after the bill passed both chambers of the legislature, calling it "common sense" legislation that ensure Georgia's elections "are secure, accessible and fair.” Dozens of state legislatures are considering similar restrictions on voting following the 2020 presidential election. ([Atlanta Journal-Constitution](https://www.ajc.com/politics/bill-changing-georgia-voting-rules-passes-state-house/EY2MATS6SRA77HTOBVEMTJLIT4/?xx) / [NBC News](https://www.nbcnews.com/politics/elections/georgia-passes-vast-restrictive-voting-law-limiting-early-voting-ballot-n1262101) / [Washington Post](https://www.washingtonpost.com/politics/georgia-voting-restrictions/2021/03/25/91009e72-8da1-11eb-9423-04079921c915_story.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-03-25/georgia-governor-signs-sweeping-overhaul-of-state-elections?sref=MIBMEEoj) / [CNN](https://www.cnn.com/2021/03/25/politics/georgia-state-house-voting-bill-passage/index.html) / [New York Times](https://www.nytimes.com/2021/03/25/us/politics/georgia-voting-law-republicans.html))

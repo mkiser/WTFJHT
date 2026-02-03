@@ -13,9 +13,9 @@ todayInOneSentence: 'The U.S. economy grew in the third quarter, marking its fir
   that are still 12 days away; and 40% of 18-to-29-year-olds said they will “definitely"
   vote in the Nov. 8 midterm elections. '
 tags:
-  - economy
-  - housing
-  - voting-rights
+- economy
+- housing
+- voting-rights
 ---
 
 1/ **The U.S. economy grew in the third quarter, marking its first increase in 2022 after two straight quarters of decline**. GDP, a sum of all the goods and services produced from July through September, increased at a 2.6% annualized pace for the period. However, the inflation-adjusted GDP last quarter was about the same as where it was at the end of 2021. The Commerce Department also reported that consumer spending – which makes up more than two-thirds of the economy – grew but at a slower pace than in the prior quarter, and investments in residential housing fell at an annual rate of about 26%. The Federal Reserve, meanwhile, has raised interest rates five times this year and is set to do so again next week and in December as inflation remains near a 40-year high. ([Politico](https://www.politico.com/news/2022/10/27/us-economy-growth-expanding-housing-investment-00063742) / [Wall Street Journal](https://www.wsj.com/articles/us-gdp-economic-growth-third-quarter-2022-11666830253) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-10-27/us-economy-shows-worst-yet-to-come-with-cooling-just-starting?srnd=premium&sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/business/2022/10/27/gdp-2022-q3-economy/) / [New York Times](https://www.nytimes.com/2022/10/27/business/economy/us-economy-gdp.html) / [CNBC](https://www.cnbc.com/2022/10/27/us-gdp-accelerated-at-2point6percent-pace-in-q3-better-than-expected-as-growth-turns-positive.html) / [NPR](https://www.npr.org/2022/10/27/1131605558/gdp-economy-growth-inflation-employment-spending-housing-interest-rates) / [CNN](https://www.cnn.com/2022/10/27/economy/us-gdp-third-quarter-initial/index.html))

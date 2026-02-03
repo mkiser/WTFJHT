@@ -13,9 +13,9 @@ todayInOneSentence: Merrick Garland prohibited the seizure of reporters' records
   in $2.4 billion while he was president.
 author: Joe Amditis
 tags:
-  - media
-  - national-security
-  - jan-6
+- media
+- national-security
+- jan-6
 ---
 
 1/ **Attorney General Merrick Garland formally prohibited the seizure of reporters' records.** Reversing years of department policy, Garland formally prohibited federal prosecutors from seizing the records of journalists in leak investigations, with limited exceptions. ([Associated Press](https://apnews.com/article/justice-department-reporters-records-merrick-garland-e2348419815ef84dc75cbecd7e546b39))

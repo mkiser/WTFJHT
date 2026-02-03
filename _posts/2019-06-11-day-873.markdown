@@ -11,8 +11,8 @@ todayInOneSentence: The White House will review and decide what evidence from Ro
   will be interviewed by Senate Intelligence Committee behind closed doors on Wednesday;
   and Speaker Nancy Pelosi said impeachment is "not off the table."
 tags:
-  - oversight
-  - subpoena
+- oversight
+- subpoena
 ---
 
 1/ **The White House will review and decide what evidence from Robert Mueller's report the House Judiciary Committee gets to see**. The Trump administration will work with the Justice Department and is expected to assert executive privilege to limit the documents the committee has access to. ([Daily Beast](https://www.thedailybeast.com/white-house-will-preview-mueller-evidence-before-nadler-review-admin-officials))

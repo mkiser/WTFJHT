@@ -6,7 +6,7 @@ categories:
 description: 'Executive time. '
 image: "/uploads/354.jpg"
 tags:
-  - mueller-investigation
+- mueller-investigation
 ---
 
 1/ **Trump's legal team anticipates that Special Counsel Robert Mueller will try to directly interview Trump as part of the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia probe</a>**. The team wants to submit written responses to Mueller's questions instead of having Trump appear for a formal, one-on-one sit-down. Mueller informed Trump's lawyers last month that he may want to interview Trump "soon." A person with direct knowledge of the discussions described them as "preliminary and ongoing." ([NBC News](https://www.nbcnews.com/politics/donald-trump/initial-talks-underway-about-trump-interview-mueller-russia-probe-n835506) / [Wall Street Journal](https://www.wsj.com/articles/special-counsel-mueller-weighs-seeking-interview-with-trump-1515445766) / [Washington Post](https://www.washingtonpost.com/politics/mueller-indicates-he-will-likely-seek-interview-with-trump/2018/01/08/86100bb2-f473-11e7-beb6-c8d48830c54d_story.html))

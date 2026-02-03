@@ -12,9 +12,9 @@ todayInOneSentence: House Democrats approved a bill to reopen the federal govern
   years"; meanwhile, hundreds of senior Trump administration officials are scheduled
   to receive a $10,000 raise tomorrow.
 tags:
-  - government-shutdown
-  - immigration
-  - executive-order
+- government-shutdown
+- immigration
+- executive-order
 ---
 
 1/ **House Democrats approved a series of spending bills to reopen the federal government without Trump's border wall money**, but the legislative spending package is expected to be dead on arrival in the Senate where Mitch McConnell has vowed to not "waste its time" with proposals that Trump will veto. Congressional Republicans called the effort pointless political theater. ([CNN](https://www.cnn.com/2019/01/03/politics/house-votes-shutdown-wall-spending-bills/index.html) / [CNBC](https://www.cnbc.com/2019/01/04/house-passes-bill-to-end-government-shutdown-without-border-wall-money.html) / [New York Times](https://www.nytimes.com/2019/01/03/us/politics/new-congress.html) / [Wall Street Journal](https://www.wsj.com/articles/house-passes-spending-package-to-end-shutdown-11546570946) / [USA Today](https://www.usatoday.com/story/news/politics/2019/01/03/government-shutdown-house-democrats-want-reopen-shuttered-agencies/2463374002/))

@@ -15,10 +15,10 @@ todayInOneSentence: 'The U.S. voted against a U.N. resolution condemning Russia�
   past week or risk termination; and 57% of Americans believe Trump has exceeded his
   authority. '
 tags:
-  - foreign-policy
-  - ukraine
-  - immigration
-  - tariffs
+- foreign-policy
+- ukraine
+- immigration
+- tariffs
 ---
 
 1/ **The U.S. voted against a U.N. resolution condemning Russia’s invasion of Ukraine**, aligning itself with Russia and not its European allies. The resolution, backed by Ukraine and major European nations, demanded Russia’s withdrawal, with Ukrainian Deputy Foreign Minister Mariana Betsa calling it a “moment of truth” for the democratic world. The U.S. instead pushed its own resolution that omitted blame on Moscow, but then abstained from voting on it after amendments added strong language against Russia. Trump defended the U.S. position, saying Ukraine must “move fast” to negotiate peace or risk “not having a nation to lead.” ([NBC News](https://www.nbcnews.com/politics/national-security/us-standoff-ukraine-europe-competing-un-resolutions-russia-ukraine-war-rcna193458) / [New York Times](https://www.nytimes.com/2025/02/24/world/middleeast/us-un-russia-ukraine-war.html) / [Washington Post](https://www.washingtonpost.com/national-security/2025/02/24/united-nations-ukraine-russia-trump/) / [Associated Press](https://apnews.com/article/un-russia-ukraine-war-resolution-trump-zelenskyy-cde221e5850196776525403e788c272c) / [Politico](https://www.politico.com/news/2025/02/24/united-nations-ukraine-resolutions-00205744) / [CNN](https://www.cnn.com/2025/02/24/politics/us-joins-russia-ukraine-un-vote/index.html) / [Axios](https://www.axios.com/2025/02/24/ukraine-russia-un-resolution-trump))

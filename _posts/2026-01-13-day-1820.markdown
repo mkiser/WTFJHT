@@ -20,9 +20,9 @@ todayInOneSentence: 'At least six federal prosecutors in Minnesota and at least 
   and about 1.4 million fewer people have enrolled in Affordable Care Act health plans
   so far this year. '
 tags:
-  - immigration
-  - national-security
-  - healthcare
+- immigration
+- national-security
+- healthcare
 ---
 
 1/ **At least six federal prosecutors in Minnesota and at least five senior prosecutors in the Justice Department’s Civil Rights Division resigned over the Trump administration’s handling of the fatal shooting of Renée Good by an ICE officer**. In Minnesota, at least five prosecutors from the U.S. attorney’s office in Minneapolis, including the office’s second-in-command, stepped down after the Justice Department wanted to investigate Good’s widow for possible ties to activist groups protesting immigration enforcement – rather than open a civil rights investigation into the shooting. And in Washington, five senior prosecutors in the criminal section of the Civil Rights Division said they were leaving after the department declined to pursue a criminal civil rights probe, even as Trump administration officials publicly described Good as a “domestic terrorist” without providing evidence. The Justice Department, however, said the Civil Rights Division leaders had requested early retirement before the shooting and said “any suggestion to the contrary is false.” ([New York Times](https://www.nytimes.com/2026/01/13/us/prosecutors-doj-resignation-ice-shooting.html) / [Minnesota Public Radio](https://www.mprnews.org/story/2026/01/13/us-attorney-on-minnesota-fraud-joe-thompson-resigns-from-office) / [Washington Post](https://www.mprnews.org/story/2026/01/13/us-attorney-on-minnesota-fraud-joe-thompson-resigns-from-office) / [MS Now](https://www.ms.now/news/doj-civil-rights-division-officials-quit-harmeet-dhillon) / [Axios](https://www.ms.now/news/doj-civil-rights-division-officials-quit-harmeet-dhillon) / [New York Times](https://www.nytimes.com/2026/01/12/us/politics/fbi-renee-good-ice-shooting.html))

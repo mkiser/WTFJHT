@@ -6,10 +6,10 @@ categories:
 description: Very unhappy.
 image: "/uploads/413.jpg"
 tags:
-  - tariffs
-  - mueller-investigation
-  - ethics
-  - trade
+- tariffs
+- mueller-investigation
+- ethics
+- trade
 ---
 
 1/ **Trump authorized tariffs on aluminum and steel imports, exempting Canada and Mexico**, and leaving the door open for other countries to be excluded. The moves will impose a 25% levy on steel and 10% charge on aluminum. The tariffs will take effect in 15 days. ([New York Times](https://www.nytimes.com/2018/03/08/us/politics/trump-tariff-announcement.html) / [CNBC](https://www.cnbc.com/2018/03/08/trump-signs-tariffs-that-exempt-canada-and-mexico-open-door-to-others.html))

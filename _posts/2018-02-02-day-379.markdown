@@ -6,8 +6,8 @@ categories:
 description: Disgrace.
 image: "/uploads/379.jpg"
 tags:
-  - mueller-investigation
-  - national-security
+- mueller-investigation
+- national-security
 ---
 
 1/ **Trump approved the release of the Nunes memo after first attacking both the FBI and the Justice Department in an early-morning tweet**. He accused them of having "politicized the sacred investigative process in favor of Democrats." The memo, which alleges anti-Trump bias at the FBI and DOJ, was approved for release without the redactions that the FBI and the Justice Department had lobbied for. The House Intelligence Committee then [made the memo public](http://docs.house.gov/meetings/IG/IG00/20180129/106822/HMTG-115-IG00-20180129-SD001.pdf). Trump told reporters, "I think it's a disgrace what's happening in our country ... A lot of people should be ashamed of themselves and much worse than that." ([New York Times](https://www.nytimes.com/2018/02/02/us/politics/trump-fbi-memo.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/president-approves-release-of-gop-memo-criticizing-fbi-surveillance/2018/02/02/699eb988-06cf-11e8-b48c-b07fea957bd5_story.html))

@@ -13,10 +13,10 @@ todayInOneSentence: 'Trump is preparing an executive order directing Education S
   high in February; 49% of Americans believe the country is on the wrong track; and
   10% of voters believe Democrats have a solid plan to counter Trump. '
 tags:
-  - education
-  - tariffs
-  - economy
-  - social-security
+- education
+- tariffs
+- economy
+- social-security
 ---
 
 1/ **Trump is preparing an executive order directing Education Secretary Linda McMahon to take steps toward closing the Department of Education**. The draft order says that McMahon must "take all necessary steps to facilitate the closure" while staying within legal limits. Fully dissolving the department, however, would require congressional approval, which is unlikely given the 60-vote threshold in the Senate. The department, created in 1979, administers key federal education programs, including student loans and funding for low-income schools. The White House has not confirmed when Trump will sign the order. ([Wall Street Journal](https://www.wsj.com/politics/policy/draft-of-trump-executive-order-aims-to-eliminate-education-department-5315c3a4) / [Washington Post](https://www.washingtonpost.com/education/2025/03/05/trump-close-education-department-executive-order/) / [New York Times](https://www.nytimes.com/2025/03/06/us/politics/trump-education-department-executive-order.html) / [Associated Press](https://apnews.com/article/education-department-trump-ab509ad5778497dfbd6d53b9eef692b5) / [NPR](https://www.npr.org/2025/03/05/nx-s1-5316227/trump-order-dismantling-education-department) / [CNN](https://www.cnn.com/2025/03/06/politics/trump-education-department-shut-down-order/index.html) / [ABC News](https://abcnews.go.com/US/trump-preparing-executive-order-telling-education-secretary-dissolve/story?id=119499614))

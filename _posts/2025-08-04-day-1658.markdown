@@ -15,10 +15,10 @@ todayInOneSentence: 'White House adviser Kevin Hassett defended Trump’s firing
   and Congress eliminated its federal funding; and Trump’s Transportation Secretary
   ordered NASA to fast-track plans to build a nuclear reactor on the moon by 2030. '
 tags:
-  - economy
-  - congress
-  - voting-rights
-  - disinformation
+- economy
+- congress
+- voting-rights
+- disinformation
 ---
 
 1/ **White House adviser Kevin Hassett defended Trump’s firing of the Bureau of Labor Statistics chief, but offered no evidence to support the claim that jobs data was "rigged."** He called the routine revisions “hard evidence” and admitted that Trump just “wants his own people there” to make the numbers “more transparent and more reliable.” Hassett described the data as “very unreliable” and blamed lingering pandemic issues, but didn’t explain how a new appointee would fix it. Nevertheless, he claimed the agency failed to justify the changes, saying, “I’ve never seen revisions like this,” but didn’t say whether the White House asked for clarification before removing Bureau of Labor Statistics Commissioner Erika McEntarfer, who he still called “a terrific person.” ([Washington Post](https://www.washingtonpost.com/politics/2025/08/03/bureau-labor-statistics-firing-fallout/) / [CNN](https://www.cnn.com/2025/08/03/business/kevin-hassett-trump-tariffs-bls-fired) / [CNBC](https://www.cnbc.com/2025/08/03/white-house-trump-bls-chief-firing.html) / [NBC News](https://www.nbcnews.com/politics/economics/economic-adviser-kevin-hassett-defends-trumps-firing-labor-jobs-report-rcna222725) / [Axios](https://www.axios.com/2025/08/03/trump-jobs-labor-statistics-fired) / [The Hill](https://thehill.com/business/economy/5434158-hassett-on-trumps-next-fed-chair-well-have-to-see-if-he-chooses-me/) / [Washington Post](https://www.washingtonpost.com/business/2025/08/04/jobs-report-controversy-trump/))

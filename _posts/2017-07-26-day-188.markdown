@@ -6,9 +6,9 @@ categories:
 description: The most presidential.
 image: "/uploads/188.jpg"
 tags:
-  - healthcare
-  - russia
-  - lgbtq-rights
+- healthcare
+- russia
+- lgbtq-rights
 ---
 
 1/ **Senate Republicans shot down their own repeal-and-replace bill** last night as nine of the 52 Republicans voted against it. The repeal-and-replace bill was a compromise measure meant to appeal to both conservatives and moderate Republicans. Mitch McConnell needed 60 votes to pass the bill. Instead, the vote failed 43-57 just hours after the Senate had narrowly voted to begin debate on a bill to repeal the <a href="{{ site.url }}{{ site.baseurl }}/trump-health-care/">Affordable Care Act</a>. ([New York Times](https://www.nytimes.com/2017/07/25/us/politics/senate-health-care.html) / [Washington Post](https://www.washingtonpost.com/powerpost/gop-leaders-press-ahead-with-health-care-vote-in-hopes-of-sustaining-repeal-effort/2017/07/25/2525470c-7126-11e7-8839-ec48ec4cae25_story.html) / [Reuters](https://www.reuters.com/article/us-usa-healthcare-idUSKBN1AB19G) / [CNN](http://www.cnn.com/2017/07/25/politics/senate-health-care-vote/index.html))

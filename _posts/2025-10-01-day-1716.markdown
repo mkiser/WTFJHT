@@ -15,10 +15,10 @@ todayInOneSentence: 'The federal government shut down after Trump and Republican
   pledging a U.S. security guarantee to Qatar after Israel’s strike in Doha last month
   targeting Hamas leaders. '
 tags:
-  - government-shutdown
-  - healthcare
-  - economy
-  - oversight
+- government-shutdown
+- healthcare
+- economy
+- oversight
 ---
 
 1/ **The federal government shut down after Trump and Republicans refused to extend Affordable Care Act subsidies and Democrats blocked a temporary funding bill**. Each side blamed the other, with Democrats insisting the subsidies are a “moral” issue and Republicans demanding the government reopen first. About 750,000 federal workers, meanwhile, face furloughs or firings. Senate votes Wednesday on both Republican and Democratic plans failed to reach the 60-vote threshold, despite three Democrats breaking ranks. No new negotiations were scheduled, leaving federal services disrupted and health care subsidies for millions at risk of expiring in Trump’s third shutdown. ([New York Times](https://www.nytimes.com/live/2025/10/01/us/government-shutdown-trump-news) / [Politico](https://www.politico.com/news/2025/10/01/government-shutdown-2025-whats-still-open-00195598) / [Associated Press](https://apnews.com/article/government-shutdown-congress-trump-health-care-54b2a584657a0b619bc8326708a05604) / [Washington Post](https://www.washingtonpost.com/politics/2025/10/01/democrats-republicans-government-shutdown-health-care/) / [The Hill](https://thehill.com/homenews/senate/5531239-senate-funding-bill-shutdown-vote/) / [Politico](https://www.politico.com/live-updates/2025/10/01/congress/senators-vote-down-bills-to-fund-the-government-again-00589785) / [Wall Street Journal](https://www.wsj.com/politics/policy/white-house-lawmakers-float-ideas-for-ending-government-shutdown-a5f137ab))

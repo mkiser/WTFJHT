@@ -7,8 +7,8 @@ description: Wiretapped.
 image: "/uploads/243.jpg"
 author: Clayton Aldern
 tags:
-  - mueller-investigation
-  - national-security
+- mueller-investigation
+- national-security
 ---
 
 1/ **Paul Manafort was wiretapped following an FBI investigation in 2014, and the surveillance continued through this year (albeit interrupted)**. A Foreign Intelligence Surveillance Act (FISA) warrant was originally granted for Manafort's work for the former Ukrainian government and later discontinued due to lack of evidence. A second FISA warrant—concerning the <a href="{{ site.baseurl }}/trump-russia-investigation/">Russia investigation</a>—was obtained at some point last year. The details of the recorded communications have been provided to special counsel Robert Mueller. ([CNN](http://www.cnn.com/2017/09/18/politics/paul-manafort-government-wiretapped-fisa-russians/index.html))

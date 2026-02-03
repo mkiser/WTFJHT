@@ -16,11 +16,11 @@ todayInOneSentence: 'A federal judge in Florida struck down the Biden administra
   education department rejected 54 math books for its K-12 curriculum because they
   “contained prohibited subjects,” including critical race theory. '
 tags:
-  - covid
-  - gun-policy
-  - ukraine
-  - national-security
-  - energy
+- covid
+- gun-policy
+- ukraine
+- national-security
+- energy
 ---
 
 1/ **A federal judge in Florida struck down the Biden administration’s Covid-19 mask mandate for public transportation**. U.S. District Judge Kathryn Kimball Mizelle, a Trump appointee, said the CDC exceeded its authority and had incorrectly claimed the mask mandate was a form of “sanitation.” Mizelle wrote that “Wearing a mask cleans nothing. At most, it traps virus droplets. But it neither ‘sanitizes’ the person wearing the mask or ‘sanitizes’ the conveyance.” The White House, meanwhile, said the CDC continues to recommend that people wear masks on public transportation and that the Justice Department will determine whether it will appeal the ruling. ([CNN](https://www.cnn.com/2022/04/18/politics/cdc-mask-mandate-ruling/index.html) / [CNBC](https://www.cnbc.com/2022/04/18/florida-judge-overturns-cdc-mask-mandate-for-public-transit-planes.html) / [Associated Press](https://apnews.com/article/biden-health-business-travel-tampa-3408cc825582126fbda5fbedd3a49dd3) / [Washington Post](https://www.washingtonpost.com/transportation/2022/04/18/mask-mandate-transportation-airplanes/) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-04-18/mask-mandate-for-planes-trains-overturned-by-florida-judge?sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/2022/04/18/us/politics/federal-mask-mandate-airplanes.html) / [NPR](https://www.npr.org/2022/04/18/1093364146/a-florida-judge-overturns-the-cdcs-mask-mandate-for-planes-and-other-public-tran) / [Politico](https://www.politico.com/news/2022/04/18/judge-strikes-cdc-mask-mandate-travel-00025900))

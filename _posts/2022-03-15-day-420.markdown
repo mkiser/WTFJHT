@@ -18,9 +18,9 @@ todayInOneSentence: 'The White House will wind down a Covid-19 program that pays
   to see the proliferation of electric vehicles; and 52% of Americans don’t expect
   Biden to run for re-election in 2024. '
 tags:
-  - covid
-  - ukraine
-  - jan-6
+- covid
+- ukraine
+- jan-6
 ---
 
 1/ **The White House will wind down a Covid-19 program that pays to test, treat, and vaccinate people who don't have health insurance unless Congress approves more funding**. The Biden administration also warned that the U.S. will soon run out of funding for future Covid-19 booster shots, new treatments, and testing efforts if the spending legislation remains stuck in Congress. Last week, lawmakers declined to add $22.5 billion in pandemic funding to the government spending bill because of a dispute over whether $7 billion should come from funds already allocated to states. As a result, uninsured Americans will no longer be able to submit claims for tests or Covid treatments starting next week. The government will also cut supplies of monoclonal antibody treatments to states by 30% after cancelling an order for hundreds of thousands of treatments. “We want to be clear, waiting to provide funding until we’re in a worse spot with the virus will be too late,” a senior administration official said. “Importantly, when you consider the cost of all these investments compared to the cost of what we will prevent in terms of hospitalizations, death and damage to our health care system and our economy, it is not a close call.” ([NPR](https://www.npr.org/2022/03/15/1086653838/the-white-house-says-its-running-out-of-money-to-cover-covid-tests-and-vaccines) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-03-15/white-house-says-covid-treatments-to-run-out-without-new-funding?sref=MIBMEEoj) / [ABC News](https://abcnews.go.com/Politics/white-house-stop-critical-covid-response-efforts-funding/story?id=83447485) / [NBC News](https://www.nbcnews.com/politics/white-house/white-house-warns-covid-treatment-vaccine-cuts-added-funding-rcna20097) / [Politico](https://www.politico.com/news/2022/03/15/congress-white-house-covid-funding-00017312) / [New York Times](https://www.nytimes.com/live/2022/03/15/world/covid-19-mandates-cases-vaccine/the-white-house-says-its-already-scaling-back-some-covid-response-plans-amid-uncertainty-in-funding))

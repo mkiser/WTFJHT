@@ -15,10 +15,10 @@ todayInOneSentence: 'The Biden administration named the first 10 medicines that 
   fell for the third consecutive month; and 57% of likely Georgia Republican primary
   voters support Trump, while 15% support Ron DeSantis. '
 tags:
-  - healthcare
-  - climate
-  - energy
-  - economy
+- healthcare
+- climate
+- energy
+- economy
 ---
 
 1/ **The Biden administration named the first 10 medicines that will be subject to price negotiations between Medicare and pharmaceutical companies under the Inflation Reduction Act**. The medications are some of the most widely used and costliest drugs older Americans use for heart disease, diabetes, cancer, and autoimmune conditions. Medicare spent $50.5 billion on the drugs last year, and the negotiations are projected to save the government an estimated $98.5 billion over a decade. Makers of the drugs have 30 days to participate in the negotiations or face excise taxes. As a provision of IRA mandates that a certain number of drugs will be added annually to the negotiations. ([Politico](https://www.politico.com/news/2023/08/29/first-10-drugs-chosen-for-medicare-negotiations-00113273) / [NBC News](https://www.nbcnews.com/health/health-care/medicare-names-first-10-drugs-price-negotiation-government-rcna101166) / [New York Times](https://www.nytimes.com/2023/08/29/us/politics/medicare-drug-pricing-negotiations.html) / [CNN](https://www.cnn.com/2023/08/29/politics/medicare-drug-price-negotiations/index.html) / [ABC News](https://abcnews.go.com/Politics/biden-administration-names-10-prescription-drugs-medicare-price/story?id=102643930) / [Washington Post](https://www.washingtonpost.com/health/2023/08/29/medicare-drug-price-negotiations/) / [CNBC](https://www.cnbc.com/2023/08/29/10-drugs-to-face-medicare-price-negotiations-see-the-list.html) / [Wall Street Journal](https://www.wsj.com/health/pharma/expensive-drugs-from-pfizer-other-companies-targeted-for-first-u-s-price-negotiations-9942b20b?mod=hp_lead_pos1) / [USA Today](https://www.usatoday.com/story/news/health/2023/08/29/biden-eliquis-jardiance-xarelto-drug-price-negotiations/70705825007/))

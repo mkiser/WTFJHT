@@ -6,9 +6,9 @@ categories:
 description: 'Locked and loaded, or whatever. '
 image: "/uploads/204.jpg"
 tags:
-  - mueller-investigation
-  - national-security
-  - healthcare
+- mueller-investigation
+- national-security
+- healthcare
 ---
 
 1/ **Congressional investigators want to question Trump’s personal secretary** as part of their ongoing probe into the meeting between Trump Jr. and the Russian lawyer. Rhona Graff worked at Trump Tower for nearly 30 years. Graff's name was mentioned in the June 2016 email exchange between publicist Rob Goldstone and Trump Jr. leading up to the meeting with Russian attorney Natalia Veselnitskaya at Trump Tower. “Since her name is in the email, people will want her to answer questions,” said Peter King, a member of the House Intelligence Committee. ([ABC News](http://abcnews.go.com/Politics/trumps-longtime-secretary-scrutinized-russia-investigators/story?id=49146540))

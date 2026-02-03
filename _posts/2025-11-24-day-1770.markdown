@@ -24,10 +24,10 @@ todayInOneSentence: 'A federal judge ruled that interim U.S. attorney Lindsey Ha
   are "the most challenging" to afford, followed by housing (38%), health care (34%),
   and utility bills (31%). '
 tags:
-  - judiciary
-  - foreign-policy
-  - ukraine
-  - economy
+- judiciary
+- foreign-policy
+- ukraine
+- economy
 ---
 
 1/ **A federal judge ruled that interim U.S. attorney Lindsey Halligan was unlawfully appointed and dismissed the criminal cases against former FBI Director James Comey and New York Attorney General Letitia James**, writing that “all actions flowing from Ms. Halligan’s defective appointment [...] must be set aside.” Judge Cameron McGowan Currie said Halligan had no authority to present either case to a grand jury, so all actions she took, including securing both indictments, were void. The Justice Department said it would appeal, while the White House called the ruling “a technical” decision and insisted Halligan was “legally appointed.” Currie dismissed the cases without prejudice but noted the statute of limitations on Comey’s charges has now expired. The ruling followed Trump’s removal of the prior interim U.S. attorney and his installation of Halligan, who acted alone in both grand jury presentations despite having no prosecutorial experience. ([CNN](https://www.cnn.com/2025/11/24/politics/james-comey-letitia-james-indictments-dismissed) / [Wall Street Journal](https://www.wsj.com/us-news/law/james-comey-letitia-james-cases-dismissed-7b732d17) / [Associated Press](https://apnews.com/article/comey-james-justice-department-5ec1a59d152bc1fd000ade15e20745b5) / [Politico](https://www.politico.com/news/2025/11/24/james-comey-letitia-james-cases-lindsey-halligan-00666896) / [NPR](https://www.npr.org/2025/11/24/g-s1-98612/trump-us-attorney-lindsey-halligan) / [Washington Post](https://www.washingtonpost.com/national-security/2025/11/24/halligan-appointment-comey-james/) / [New York Times](https://www.nytimes.com/2025/11/24/nyregion/james-comey-case-dismissed.html) / [ABC News](https://abcnews.go.com/US/judge-dismisses-criminal-cases-comey-james/story?id=127732668) / [Axios](https://www.axios.com/2025/11/24/trump-comey-case-charges-dismissed-judge) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-11-24/james-comey-letitia-james-charges-dismissed-by-federal-judge) / [NBC News](https://www.nbcnews.com/politics/justice-department/judge-dismisses-cases-james-comey-letitia-james-finding-prosecutor-was-rcna244775))

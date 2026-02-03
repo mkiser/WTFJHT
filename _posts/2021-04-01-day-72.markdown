@@ -13,10 +13,10 @@ todayInOneSentence: The Texas Senate passed new voting restrictions in the state
   a review of his legal authority to cancel student debt; and another 719,000 people
   applied for unemployment benefits.
 tags:
-  - voting-rights
-  - covid
-  - education
-  - labor
+- voting-rights
+- covid
+- education
+- labor
 ---
 
 1/ **The Texas Senate passed new voting restrictions in the state**. Senate Bill 7 would limit extended early voting hours, prohibit drive-thru voting, and make it illegal for election officials to send applications to vote by mail to voters, even if they qualify. The bill now heads to the House for consideration. ([Texas Tribune](https://www.texastribune.org/2021/04/01/texas-voting-restrictions-legislature/) / [NBC News](https://www.nbcnews.com/politics/elections/texas-senate-passes-restrictive-new-voting-bill-n1262743) / [Associated Press](https://apnews.com/article/legislature-bills-voting-rights-elections-greg-abbott-18c254a6597e7a13ea45205cb35b3dd2))

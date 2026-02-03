@@ -17,10 +17,10 @@ todayInOneSentence: The House passed a short-term funding bill to keep the gover
   bid, saying he's "all in" on the twice-impeached former president, who is facing
   91 felony charges stemming from four indictments.
 tags:
-  - government-shutdown
-  - indictment
-  - congress
-  - presidential-election
+- government-shutdown
+- indictment
+- congress
+- presidential-election
 ---
 
 1/ **The House passed a short-term funding bill to keep the government open after Democrats stepped in to rescue Speaker Mike Johnson and his spending plan that many Republicans opposed**. The bill would fund some government departments until mid-January and the rest through early February, but it does not include spending cuts or policy changes that the House Freedom Caucus had demanded. Democrats, meanwhile, are dissatisfied that the measure doesn’t include emergency aid for Israel or Ukraine, and it also threatens a two-step shutdown next year. The bill still needs to pass the Senate and be signed into law by Biden before midnight on Friday to avert a shutdown. ([CNN](https://www.cnn.com/politics/live-news/federal-government-shutdown-funding-11-14-23) / [NBC News](https://www.nbcnews.com/politics/congress/live-blog/house-vote-government-shutdown-live-updates-rcna125094) / [Washington Post](https://www.washingtonpost.com/politics/2023/11/14/government-shutdown-updates/) / [New York Times](https://www.nytimes.com/2023/11/14/us/politics/government-shutdown-vote-mike-johnson.html) / [Politico](https://www.politico.com/live-updates/2023/11/14/congress/house-gop-spending-shutdown-laddered-cr-johnson-00127005) / [NPR](https://www.npr.org/2023/11/14/1212856464/house-will-vote-on-speaker-mike-johnsons-plan-to-avert-a-government-shutdown) / [ABC News](https://abcnews.go.com/Politics/house-set-vote-johnson-plan-avert-shutdown-hell/story?id=104877426) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-11-14/us-shutdown-risk-drops-as-more-democrats-back-gop-speaker-s-plan?srnd=premium&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/politics/speaker-mike-johnson-faces-big-test-in-averting-government-shutdown-41138170?mod=hp_lead_pos5))

@@ -12,9 +12,9 @@ todayInOneSentence: Federal Reserve officials expressed concern that elevated in
   bankrupt; and the IRS audited former FBI Director James Comey and former FBI Deputy
   Director Andrew McCabe.
 tags:
-  - economy
-  - taxes
-  - healthcare
+- economy
+- taxes
+- healthcare
 ---
 
 1/ **Federal Reserve officials expressed concern that elevated inflation posed a “significant risk” of becoming "entrenched" in the economy**. According to minutes from the Federal Open Market Committee’s June meeting, officials said inflation had become "more persistent than they had previously anticipated," emphasizing the need to raise interest rates faster and to levels high enough to slow economic growth and control cost-of-living increases running at their highest levels since 1981 – even if it meant causing a recession. In June, officials voted to raise their benchmark rate 0.75 percentage point, the largest increase since 1994. Members said the July meeting would likely result in another .50 or .75 percentage point increase, and warned "that an even more restrictive stance could be appropriate if elevated inflation pressures were to persist.” ([Bloomberg](https://www.bloomberg.com/news/articles/2022-07-06/fed-sees-more-restrictive-rates-possible-if-inflation-persists?srnd=premium&sref=MIBMEEoj) / [NBC News](https://www.nbcnews.com/business/economy/federal-reserve-minutes-rate-hikes-june-2022-rcna36981) / [Wall Street Journal](https://www.wsj.com/articles/inflation-fears-drove-larger-fed-rate-increase-in-june-11657130611?mod=hp_lead_pos1) / [New York Times](https://www.nytimes.com/2022/07/06/business/fed-minutes-inflation-interest-rates.html) / [CNBC](https://www.cnbc.com/2022/07/06/fed-minutes-june-2022.html))

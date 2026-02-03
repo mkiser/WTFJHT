@@ -14,10 +14,10 @@ todayInOneSentence: Biden signed a short-term spending bill to keep the governme
   for the coronavirus; and starting today, the U.S. Postal Service will begin slowing
   mail service.
 tags:
-  - infrastructure
-  - reproductive-rights
-  - economy
-  - covid
+- infrastructure
+- reproductive-rights
+- economy
+- covid
 ---
 
 1/ **Biden signed a short-term spending bill to keep the government running through Dec. 3**. The House initially passed a funding bill last week on a party-line vote of 220-211, which Senate Republicans then blocked on Monday because it included an extension of the debt ceiling. The Senate and House, however, finally approved the funding legislation after Democrats stripped out the provision to suspend the debt ceiling, which lawmakers still need to address before Oct. 18 in order to prevent a default on the more than $28 trillion in U.S. debt. The stopgap funding bill also provides emergency aid to support the resettlement of Afghan refugees and aid to help communities rebuild from hurricanes, wildfires, and other recent natural disasters. ([Politico](https://www.politico.com/news/2021/09/30/senate-9-week-funding-patch-shutdown-514810) / [New York Times](https://www.nytimes.com/2021/09/30/us/politics/senate-spending-bill-government-shutdown.html) / [CNBC](https://www.cnbc.com/2021/09/30/government-shutdown-congress-moves-to-pass-funding-bill.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/senate-reaches-deal-avoid-government-shutdown-schumer-announces-n1280395))

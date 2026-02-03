@@ -15,9 +15,9 @@ todayInOneSentence: Rosenstein announced 12 indictments against Russian intellig
   — without charging them with a crime.
 author: Joe Amditis
 tags:
-  - mueller-investigation
-  - russia
-  - national-security
+- mueller-investigation
+- russia
+- national-security
 ---
 
 1/ **Deputy Attorney General Rod Rosenstein announced that a grand jury returned indictments against 12 Russian intelligence officials on charges of hacking into the DNC, DCCC, and state election offices to steal and release documents in an attempt to influence the 2016 presidential election.** The defendants worked for the Russian intelligence service known as the GRU. They used a tactic called "spearphishing" to trick users into revealing their account information. They used keystroke loggers and other malicious software to obtain account information and access sensitive U.S. computer systems and email accounts, which they later released to the public. ([Washington Post](https://www.washingtonpost.com/world/national-security/rod-rosenstein-expected-to-announce-new-indictment-by-mueller/2018/07/13/bc565582-86a9-11e8-8553-a3ce89036c78_story.html) / [New York Times](https://www.nytimes.com/2018/07/13/us/politics/mueller-indictment-russian-intelligence-hacking.html) / [Daily Beast](https://www.thedailybeast.com/mueller-indicts-12-russian-officers-for-hacking-dems-in-2016) / [BuzzFeed News](https://www.buzzfeed.com/zoetillman/russian-intelligence-officers-have-been-indicted-for?utm_term=.fhew75WlmW#.whW17PDzlD) / [USA Today](https://www.usatoday.com/story/news/politics/2018/07/13/russia-investigation-12-russian-nationals-indicted-2016-hacking/782471002/) / [Law & Crime](https://lawandcrime.com/high-profile/mueller-slaps-12-russians-with-indictments-for-2016-dnc-hack-heres-what-we-know/) / [ABC News](https://abcnews.go.com/Politics/12-russian-intel-officers-indicted-dnc-hacking-mueller/story?id=56564708) / [Politico](https://www.politico.com/story/2018/07/13/mueller-indicts-12-russians-for-hacking-into-dnc-718805))

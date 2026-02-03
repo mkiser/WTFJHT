@@ -6,9 +6,9 @@ categories:
 description: Crimes of violence.
 image: "/uploads/453.jpg"
 tags:
-  - supreme-court
-  - immigration
-  - mueller-investigation
+- supreme-court
+- immigration
+- mueller-investigation
 ---
 
 1/ **The Supreme Court ruled that a law subjecting immigrants to deportation for some "crimes of violence" is unconstitutionally vague**. Justice Neil Gorsuch – Trump's pick for the Supreme Court – joined with the court's liberal justices, providing the swing vote for the first time in a 5-4 ruling that invalidated the federal statute. ([CNN](https://www.cnn.com/2018/04/17/politics/supreme-court-federal-law-deportation-immigrants/index.html) / [Politico](https://www.politico.com/story/2018/04/17/immigration-ruling-gorsuch-528749) / [USA Today](https://www.usatoday.com/story/news/politics/2018/04/17/supreme-court-immigration-law-threatening-deportattosses-out-immigration-law-leading-deportatio/840229001/))

@@ -18,10 +18,10 @@ todayInOneSentence: 'A federal magistrate judge ordered the Justice Department t
   Texans who perform abortions now face up to life in prison after the state’s trigger
   law went into effect. '
 tags:
-  - classified-documents
-  - jan-6
-  - reproductive-rights
-  - covid
+- classified-documents
+- jan-6
+- reproductive-rights
+- covid
 ---
 
 1/ **A federal magistrate judge ordered the Justice Department to release a redacted version of the affidavit used to justified the FBI's search of Trump’s Mar-a-Lago home**. Judge Bruce Reinhart accepted the Justice Department’s redactions to keep secret the identities of witnesses, law enforcement agents, people who haven’t been charged, grand jury information, as well as details about “the investigation’s strategy, direction, scope, sources, and methods.” Reinhart ordered the government to release the redacted version by noon Friday. ([Washington Post](https://www.washingtonpost.com/national-security/2022/08/25/trump-affidavit-mar-a-lago/) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-08-25/judge-approves-unsealing-doj-s-redacted-trump-search-affidavit?srnd=premium&sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/2022/08/25/us/politics/trump-justice-dept-affidavit.html) / [Politico](https://www.politico.com/news/2022/08/25/justice-department-proposes-deletions-for-mar-a-lago-search-warrant-00053724) / [Wall Street Journal](https://www.wsj.com/articles/justice-department-to-file-redacted-mar-a-lago-affidavit-to-judge-11661433643?mod=hp_lead_pos1))

@@ -13,10 +13,10 @@ todayInOneSentence: Biden pledged to reduce U.S. greenhouse gas emissions by at 
   an outline for their own $568 billion infrastructure plan, which Democrats rejected
   as "totally anemic."
 tags:
-  - climate
-  - civil-rights
-  - congress
-  - economy
+- climate
+- civil-rights
+- congress
+- economy
 ---
 
 1/ **Biden pledged to reduce U.S. greenhouse gas emissions by at least 50% by 2030** – double the country’s prior commitment under the 2015 Paris climate agreement – saying "the signs are unmistakable, the science is undeniable and the cost of inaction keeps mounting." As of 2019, U.S. emissions were about 13% below 2005 levels. “This is the decisive decade,” Biden said during an Earth Day summit with 40 world leaders. “This is the decade that we must make decisions to avoid the worst consequences of the climate crisis. This is a moral imperative. An economic imperative. A moment of peril, but also a moment of extraordinary possibilities." About 85% of current global emissions come from outside the U.S. The United Kingdom recently announced plans to reduce its emissions by 78% by 2035, while the European Union pledged to cut 55% of its emissions by 2030. China, the world’s largest emitter, pledged to reduce coal consumption starting in 2025 as part of an effort to reach net zero emissions by 2060. ([NPR](https://www.npr.org/2021/04/22/988051091/biden-makes-new-pledge-for-u-s-greenhouse-gas-emissions-a-50-cut) / [New York Times](https://www.nytimes.com/live/2021/04/22/us/biden-earth-day-climate-summit) / [CNBC](https://www.cnbc.com/2021/04/22/biden-pledges-to-slash-greenhouse-gas-emissions-in-half-by-2030.html) / [Washington Post](https://www.washingtonpost.com/climate-environment/2021/04/22/global-emissions-52-percent-biden/) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-04-22/biden-pushes-carbon-plan-to-world-burned-by-trump-leery-of-risk?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/biden-to-urge-climate-action-at-world-leaders-summit-11619085614))

@@ -12,10 +12,10 @@ todayInOneSentence: Biden will send 1,500 active duty troops to the southern bor
   lowest level in nearly two years; and some Republicans dismissed a Senate Judiciary
   Committee hearing about the Supreme Court's ethics as a partisan spectacle.
 tags:
-  - immigration
-  - debt-ceiling
-  - economy
-  - ethics
+- immigration
+- debt-ceiling
+- economy
+- ethics
 ---
 
 1/ **Biden will send 1,500 active duty troops to the southern border ahead of an expected surge of migrants when Title 42 restrictions end**. They will join the 2,500 National Guard members already at the border. The military members, however, will not serve in a law enforcement capacity and will not interact with migrants, but instead "fill critical capability gaps, such as ground-based detection and monitoring, data entry, and warehouse support,” the Pentagon said. The troops will carry out this support for 90 days. Title 42, which was invoked at the onset of the Covid-19 pandemic, expires on May 11. It permitted the U.S., for public health reasons, to quickly expel migrants seeking asylum. ([Politico](https://www.politico.com/news/2023/05/02/1500-more-troops-southern-border-00094850) / [NBC News](https://www.nbcnews.com/politics/joe-biden/biden-expected-send-active-duty-troops-southern-border-covid-restricti-rcna82429) / [New York Times](https://www.nytimes.com/2023/05/02/us/politics/biden-troops-border.html) / [Associated Press](https://apnews.com/article/biden-immigration-troops-southern-border-68ec4d25fb87b41265019a0ffd20a784) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-05-02/biden-administration-seeking-1-500-troops-for-southern-border?sref=MIBMEEoj) / [CNN](https://www.cnn.com/2023/05/02/politics/us-troops-border-migrant-surge/) / [ABC News](https://abcnews.go.com/Politics/1500-active-duty-troops-southern-border-ahead-expected/story?id=99012795) / [Wall Street Journal](https://www.wsj.com/articles/biden-to-deploy-active-duty-troops-to-southern-border-for-end-of-title-42-edd78577?mod=lead_feature_below_a_pos1))

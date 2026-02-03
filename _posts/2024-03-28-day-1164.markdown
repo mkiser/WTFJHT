@@ -15,10 +15,10 @@ todayInOneSentence: 'The International Court of Justice ordered Israel to “tak
   legal strategy to overturn the 2020 election; and Biden restored a series of Endangered
   Species Act protections that were stripped by Trump. '
 tags:
-  - israel-palestine
-  - voting-rights
-  - indictment
-  - climate
+- israel-palestine
+- voting-rights
+- indictment
+- climate
 ---
 
 1/ **The International Court of Justice ordered Israel to “take all necessary and effective measures” to improve the humanitarian situation in Gaza as famine sets in**, including opening more land crossings to allow food, water, fuel, and medical supplies into the enclave. The court's order comes in response to a case brought by South Africa, which accuses Israel of state-sanctioned genocide in Gaza. The legally binding order instructs Israel to take measures “without delay” to ensure “the unhindered provision” of basic services and humanitarian assistance "at scale." In a separate order, the judges called for Israel to ensure that its military “does not commit acts which constitute a violation” of Palestinians’ rights under the Genocide Convention. International aid organizations have said Israel’s restrictions on humanitarian supplies into Gaza have led to a man-made famine. ([Axios](https://www.axios.com/2024/03/28/icj-order-israel-famine-gaza-strip) / [New York Times](https://www.nytimes.com/live/2024/03/28/world/israel-hamas-war-gaza-news#icj-israel-gaza-aid-famine) / [Washington Post](https://www.washingtonpost.com/world/2024/03/28/israel-hamas-war-news-gaza-palestine/) / [Associated Press](https://apnews.com/article/un-court-israel-land-crossings-gaza-7f2cb03fa2ec6736315a32e9ee291dbd))

@@ -18,9 +18,9 @@ podcast:
   duration: '00:04:27'
   length: 4284542
 tags:
-  - immigration
-  - impeachment
-  - economy
+- immigration
+- impeachment
+- economy
 ---
 
 1/ **Trump said he’ll be “watching over” an “honest investigation” into the killing of Alex Pretti by federal agents in Minneapolis before blaming Pretti for carrying a gun he was legally permitted to have**. “You can’t walk in with guns,” Trump said. “You can’t do that.” Minnesota's gun laws permit open carrying a handgun as long as the gun owner has a valid permit, which Minneapolis Police said Pretti had. Even the NRA, a longtime Trump ally, called the Trump administration’s rhetoric that officers could be “legally justified” in shooting an armed citizen “dangerous and wrong,” urging a full investigation instead of “demonizing law-abiding citizens.” Trump added that you’d have to be a “stupid person” not to think what happened to Pretti was “very unfortunate.” ([New York Times](https://www.nytimes.com/live/2026/01/27/us/minneapolis-shooting-ice-minnesota) / [CNBC](https://www.cnbc.com/2026/01/27/alex-pretti-trump-investigation-greg-bovino-homan-minnesota.html) / [Politico](https://www.politico.com/news/2026/01/27/gun-rights-groups-blast-trump-over-minnesota-response-00748217) / [Associated Press](https://apnews.com/live/minneapolis-shooting-immigration-updates-1-27-2026) / [The Guardian](https://www.theguardian.com/us-news/live/2026/jan/27/gregory-bovino-tim-walz-donald-trump-minnesota-minneapolis-ice-alex-pretti-us-politics-live-news))

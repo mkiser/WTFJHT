@@ -6,8 +6,8 @@ categories:
 description: The only one that matters.
 image: "/uploads/288.jpg"
 tags:
-  - mueller-investigation
-  - oversight
+- mueller-investigation
+- oversight
 ---
 
 Current Status: **Trump and Jeff Sessions have denied knowing about the Trump campaign's contacts with Russia**. Court documents suggest otherwise. Records show that at a March 31, 2016, meeting between Trump, Sessions, and the campaign's foreign policy team, George Papadopoulos introduced himself and said "that he had connections that could help arrange a meeting between then-candidate Trump and President Putin." ([New York Times](https://www.nytimes.com/2017/11/02/us/politics/trump-jeff-sessions-russia.html))

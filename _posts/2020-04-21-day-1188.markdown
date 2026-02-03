@@ -18,9 +18,9 @@ todayInOneSentence: The White House and congressional leaders reached agreement 
   conclusions that Russia interfered in the 2016 presidential election with the goal
   of putting Trump in the Oval Office.
 tags:
-  - covid
-  - immigration
-  - russia
+- covid
+- immigration
+- russia
 ---
 
 * ### 🔥 Daily Damage Report.

@@ -11,9 +11,9 @@ todayInOneSentence: The United States reported its deadliest day of the pandemic
   is preparing for the possibility of a short government shutdown; and suspected Russian
   hackers accessed the networks that maintain the U.S. nuclear weapons stockpile.
 tags:
-  - covid
-  - economy
-  - national-security
+- covid
+- economy
+- national-security
 ---
 
 1/ **The United States reported a record 247,403 new coronavirus cases and 3,656 COVID-19 deaths – the deadliest day of the pandemic to date**. Three times as many people in the U.S. are dying every day now than three months ago, and the number of new cases is six times what it was then. ([New York Times](https://www.nytimes.com/live/2020/12/17/world/covid-19-coronavirus/us-virus-deaths-and-cases-set-records-as-vaccines-bring-a-glint-of-hope-to-a-dark-holiday-season) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/12/17/947417443/u-s-surpasses-3-600-coronavirus-deaths-breaks-prior-hospitalization-record) / [The Guardian](https://www.theguardian.com/us-news/2020/dec/17/us-coronavirus-cases-deaths-record-vaccine))

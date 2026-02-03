@@ -6,9 +6,9 @@ categories:
 description: Clear evidence.
 image: "/uploads/385.jpg"
 tags:
-  - russia
-  - disinformation
-  - climate
+- russia
+- disinformation
+- climate
 ---
 
 1/ **Russian hackers penetrated voter registration rolls in several U.S. states before the 2016 presidential election.** A Homeland Security Department official said that of the 21 states that were targeted, a "small number" were successfully penetrated. Officials maintain that there is no evidence that voter rolls were altered. ([NBC News](https://www.cnbc.com/2018/02/07/russians-penetrated-us-voter-systems-nbc-citing-top-us-official.html))

@@ -12,10 +12,10 @@ todayInOneSentence: Trump stormed out of a meeting with congressional leaders; t
   Also the government has been shut down for 18 days.
 author: Joe Amditis
 tags:
-  - government-shutdown
-  - mueller-investigation
-  - sanctions
-  - russia
+- government-shutdown
+- mueller-investigation
+- sanctions
+- russia
 ---
 
 1/ **Trump abruptly walked out of a closed-door meeting with congressional leaders**, who were at the White House to discuss the partial government shutdown. He reportedly left after Nancy Pelosi reiterated she wouldn't fund his border wall. In a tweet, Trump called the meeting "a total waste of time," writing: "I asked what is going to happen in 30 days if I quickly open things up, are you going to approve Border Security which includes a Wall or Steel Barrier? Nancy said, NO. I said bye-bye, nothing else works!" ([NBC News](https://www.nbcnews.com/politics/white-house/shutdown-showdown-pelosi-says-no-trump-says-bye-bye-n956836) / [BBC](https://www.bbc.com/news/world-us-canada-46818218) / [CNN](https://www.cnn.com/2019/01/09/politics/chuck-schumer-nancy-pelosi-trump/index.html))

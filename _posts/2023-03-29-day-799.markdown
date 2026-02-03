@@ -19,10 +19,10 @@ todayInOneSentence: 'Kevin McCarthy suggested that lawmakers need to see “all 
   money; and 31% of Americans say the economy is the most important issue facing the
   country – the top issue for respondents in the survey. '
 tags:
-  - gun-policy
-  - reproductive-rights
-  - indictment
-  - foreign-policy
+- gun-policy
+- reproductive-rights
+- indictment
+- foreign-policy
 ---
 
 1/ **Kevin McCarthy suggested that lawmakers need to see “all the facts” before they consider any gun legislation following the shooting in Nashville where seven people were killed**. The Nashville shooting was the 130th mass shooting incident in this U.S. this year, so far. Democrats planned to introduce a measure to boost federal research into the cause of gun violence, but it has little chance of passing the Republican-controlled House. Republican congressman Tim Burchett, [meanwhile](https://www.theguardian.com/us-news/2023/mar/28/tim-burchett-republican-nashville-shooting), said Congress is "not gonna fix" the problem of school shootings and that he doesn’t see a role for Congress in preventing future shootings "other than mess things up." Instead, the three-term congressman from Tennessee [suggested](https://www.nbcnews.com/politics/congress/tennessee-rep-burchett-says-school-shootings-re-not-gonna-fix-rcna77185) that Americans should focus on more thoughts and prayers, saying: “If you want to legislate evil, it’s just not going to happen. We need a real revival in this country. Let’s call on our Christian ministers and our people of faith.” ([CNN](https://www.cnn.com/2023/03/29/politics/kevin-mccarthy-reaction-nashville) / [Washington Post](https://www.washingtonpost.com/politics/2023/03/29/congress-little-urgency-address-gun-violence-with-legislation/))

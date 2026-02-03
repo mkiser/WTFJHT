@@ -13,9 +13,9 @@ todayInOneSentence: The U.S. accused Russia of planning to fabricate a video sho
   to find evidence of election fraud and foreign interference; and Rudy Giuliani was
   unmasked as a contestant on "The Masked Singer."
 tags:
-  - russia
-  - ukraine
-  - national-security
+- russia
+- ukraine
+- national-security
 ---
 
 1/ **The U.S. accused Russia of planning to fabricate a video showing an attack by Ukraine on Russia or Russian-speaking people as a pretext for an invasion**. Defense Department press secretary John Kirby said the scheme to stage and film a fabricated attack, which could include “graphic scenes of a staged false explosion with corpses,” would be used to accuse Ukraine of conducting a genocide against Russian-speaking people. A senior Biden administration official said Russian intelligence is intimately involved in the effort, and that Moscow has already recruited people who would be involved in the fake attack. The White House declassified the intelligence to deny Russia the chance to use the video as a reason to mount an invasion. ([Washington Post](https://www.washingtonpost.com/national-security/2022/02/03/russia-ukraine-staged-attack/) / [New York Times](https://www.nytimes.com/2022/02/03/us/politics/russia-ukraine-invasion-pretext.html) / [Associated Press](https://apnews.com/article/russia-ukraine-business-europe-belarus-jens-stoltenberg-43c9151532de706a2edec5684dfcf07d) / [NBC News](https://www.nbcnews.com/politics/national-security/russia-has-plan-stage-attack-pretext-ukraine-invasion-u-s-n1288557) / [Wall Street Journal](https://www.wsj.com/articles/u-s-says-russia-is-planning-to-fabricate-a-pretext-for-invasion-of-ukraine-11643918087?mod=hp_lead_pos3) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-02-03/russia-weighed-staged-video-to-justify-ukraine-attack-u-s-says?sref=MIBMEEoj) / [ABC News](https://abcnews.go.com/Politics/us-russia-planning-video-fake-ukrainian-attack-corpses/story?id=82651966) / [CNN](https://www.cnn.com/2022/02/03/politics/us-alleges-russian-false-flag-ukraine/index.html))

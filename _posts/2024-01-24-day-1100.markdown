@@ -3,6 +3,11 @@ title: Day 1100
 date: 2024-01-24 15:42:00 -08:00
 categories:
 - biden
+tags:
+- presidential-election
+- primary
+- labor
+- healthcare
 description: '"Disruptive consequences."'
 image: "/uploads/day1100biden.jpg"
 todayInOneSentence: Trump won New Hampshire’s primary, defeating Nikki Haley and advancing
@@ -12,11 +17,6 @@ todayInOneSentence: Trump won New Hampshire’s primary, defeating Nikki Haley a
   Court preserve full access to a widely used abortion pill; and more than 64,500
   pregnancies have resulted from rape in the 14 states that banned abortion since
   Roe v. Wade was overturned.
-tags:
-- presidential-election
-- primary
-- labor
-- healthcare
 ---
 
 1/ **Trump won New Hampshire’s primary**, defeating Nikki Haley and advancing closer to the Republican nomination. It was the first time a non-incumbent Republican candidate in the modern era won both the Iowa and New Hampshire Republican contests. Trump, however, used his victory speech to attack Haley after she refused to drop out of the race, calling her "DELUSIONAL!!!," and an "imposter" who "had a very bad night." He added: "I don't get too angry. I get even." Nevertheless, Haley vowed to continue her campaign and challenged Trump to debate her. “I have news for all of them. New Hampshire is first in the nation. It is not the last,” Haley said. “This race is far from over." ([Washington Post](https://www.washingtonpost.com/elections/2024/01/23/trump-haley-new-hampshire-primary-election/) / [Politico](https://www.politico.com/live-updates/2024/01/23/new-hampshire-primary-2024/trumps-victory-speech-00137480) / [NBC News](https://www.nbcnews.com/politics/2024-election/haley-refuse-drop-out-loss-new-hampshire-trump-rcna134767) / [New York Times](https://www.nytimes.com/live/2024/01/24/us/new-hampshire-primary-updates) / [CNN](https://www.cnn.com/politics/live-news/new-hampshire-primary-01-23-24/index.html) / [Associated Press](https://apnews.com/article/trump-new-hampshire-primary-two-candidate-race-72a59c4133879eaeec63d6ed30e91e01) / [NPR](https://www.npr.org/2024/01/24/1226514570/new-hampshire-primary-analysis-results) / [Wall Street Journal](https://www.wsj.com/politics/elections/trump-new-hampshire-biden-november-election-50c8a007?mod=hp_lead_pos1))

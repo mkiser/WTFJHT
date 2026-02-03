@@ -3,6 +3,11 @@ title: Day 959
 date: 2023-09-05 15:43:00 -07:00
 categories:
 - biden
+tags:
+- voting-rights
+- jan-6
+- indictment
+- lawsuit
 description: '"Deeply troubled."'
 image: "/uploads/day-959-biden.jpg"
 todayInOneSentence: 'A federal court struck down Alabama’s congressional map; all
@@ -14,11 +19,6 @@ todayInOneSentence: 'A federal court struck down Alabama’s congressional map; 
   a judge to impose $20,000 in sanctions on Trump, Trump Jr, Eric Trump, their lawyers,
   and other co-defendants; and 59% of Republican primary voters plan to support Trump
   for the GOP presidential nomination – up 11 percentage points since April. '
-tags:
-- voting-rights
-- jan-6
-- indictment
-- lawsuit
 ---
 
 1/ **A federal court struck down Alabama’s congressional map**. The three-judge panel wrote that it was “deeply troubled” that the state legislature refused to comply with the Voting Rights Act and a [Supreme Court order](https://whatthefuckjusthappenedtoday.com/2023/06/08/day-870/#1-the-supreme-court-rejected-the-rep) to create a second district with either a Black majority “or something quite close to it” to give Black voters an opportunity to elect a representative of their choice. [Nevertheless](https://whatthefuckjusthappenedtoday.com/2023/07/24/day-916/#3-alabama-republicans-defied-a-supre), the Republican-controlled legislature approved a new map with just one majority-Black seat and increased the share of Black voters in one of the state’s six majority-white congressional districts to about 40%, from about 30%. For the 2024 elections, the judges ordered that a new map be independently drawn, stripping the Republican-controlled legislature of the responsibility because it “ultimately did not even nurture the ambition to provide the required remedy.” State Republicans are expected to appeal the decision. ([NPR](https://www.npr.org/2023/09/05/1193749552/alabama-congressional-map) / [Associated Press](https://apnews.com/article/alabama-redistricting-ruling-black-population-affd7b662f65b0b28da42fb88f72207e) / [Politico](https://www.politico.com/news/2023/09/05/court-throws-out-alabama-gop-congressional-map-for-violating-voting-rights-act-00113962) / [NBC News](https://www.nbcnews.com/politics/elections/judges-strike-alabama-congressional-map-diluting-power-black-voters-rcna103393) / [New York Times](https://www.nytimes.com/2023/09/05/us/politics/alabama-congressional-map.html) / [Washington Post](https://www.washingtonpost.com/politics/2023/09/05/alabama-congressional-map/) / [CNN](https://www.cnn.com/2023/09/05/politics/alabama-congressional-district/index.html))

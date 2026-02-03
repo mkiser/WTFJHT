@@ -3,6 +3,10 @@ title: Day 314
 date: 2021-11-29 15:02:00 -08:00
 categories:
 - biden
+tags:
+- covid
+- jan-6
+- reproductive-rights
 description: '"A cause for concern."'
 image: "/uploads/day-314-covid.jpg"
 todayInOneSentence: Biden called the new Omicron variant of the coronavirus “a cause
@@ -14,10 +18,6 @@ todayInOneSentence: Biden called the new Omicron variant of the coronavirus “a
   at the Capitol plans to vote on holding a second Trump ally in contempt of Congress;
   the Supreme Court will take up a direct challenge to Roe v. Wade on Wednesday; and
   government funding runs out Friday.
-tags:
-- covid
-- jan-6
-- reproductive-rights
 ---
 
 1/ **Biden called the new Omicron variant of the coronavirus “a cause for concern, not a cause for panic,”** urging Americans to get vaccinated, obtain booster shots, and to wear masks in indoor public places. Biden added that he didn't believe there would be a need for lockdowns, saying “We’re throwing everything we have at this virus, tracking it from every angle; I’m sparing no effort, removing all roadblocks to keep the American people safe.” While administration officials believe the current vaccines likely provide protection against the new variant, it’ll be a few weeks until scientists know how effective they are against Omicron. Drugmakers, however, cautioned that existing vaccines could be less effective and the CDC [now](https://www.wsj.com/articles/u-s-watches-for-omicron-as-covid-19-infections-remain-high-11638206760) recommends that all adults "should" get a booster shot. The new Covid-19 variant has been detected in more than a dozen countries, though not yet in the U.S. Biden, meanwhile, announced travel bans on South Africa and seven other countries, warning that it’s “almost inevitable” that the variant will turn up in the U.S. “at some point.” ([NPR](https://www.npr.org/2021/11/29/1059786378/biden-omicron-variant-coronavirus-concern-not-panic-travel-restrictions) / [New York Times](https://www.nytimes.com/2021/11/29/us/politics/biden-vaccines-omicron.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-11-29/biden-cautions-against-panic-over-omicron-urges-boosters?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/omicron-variant-has-covid-19-vaccine-makers-preparing-for-worst-case-11638209132) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-urge-booster-shots-amid-growing-alarm-over-omicron-variant-n1284935) / [Politico](https://www.politico.com/news/2021/11/29/biden-omicron-523449) / [ABC News](https://abcnews.go.com/Health/live-updates/coronavirus/?id=81441585#81453484) / [CNBC](https://www.cnbc.com/2021/11/29/biden-says-he-doesnt-expect-more-travel-restrictions-or-lockdowns-as-omicron-covid-variant-spreads.html))

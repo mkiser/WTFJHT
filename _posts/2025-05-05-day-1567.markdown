@@ -1,6 +1,11 @@
 ---
 title: Day 1567
 date: 2025-05-05 15:06:00 -07:00
+tags:
+- immigration
+- national-security
+- foreign-policy
+- healthcare
 description: '"The best, safest and most cost-effective way."'
 image: "/uploads/day-1567-trump.jpg"
 todayInOneSentence: 'Trump said he doesn’t know if he’s required to uphold the Constitution
@@ -18,11 +23,6 @@ todayInOneSentence: 'Trump said he doesn’t know if he’s required to uphold t
   using drugs and vitamins as the U.S. faces its worst outbreak in decades; and the
   Trump administration asked the Supreme Court to let Elon Musk’s Department of Government
   Efficiency access millions of Americans’ Social Security data. '
-tags:
-- immigration
-- national-security
-- foreign-policy
-- healthcare
 ---
 
 1/ **Trump said he doesn’t know if he’s required to uphold the Constitution as president, saying, “I don’t know. I’m not a lawyer.”** Despite the Constitution’s Fifth Amendment says that “no person” shall be “deprived of life, liberty, or property, without due process of law,” Trump accused the courts of blocking his efforts to remove “some of the worst people on Earth. I was elected to get them the hell out of here, and the courts are holding me from doing it.” When asked on whether due process applies to everyone in the U.S., Trump replied that “It might say that,” but added: “We’d have to have a million or 2 million or 3 million trials.” Trump also dismissed the 9-0 Supreme Court ruling ordering the return of Kilmar Abrego Garcia, a man wrongly deported to El Salvador, saying Attorney General Pam Bondi and the Justice Department “don’t view it that way at all.” ([NBC News](https://www.nbcnews.com/politics/trump-administration/trump-asked-uphold-constitution-says-dont-know-rcna204580) / [Associated Press](https://apnews.com/article/trump-due-process-canada-greenland-military-action-8da3e853b6cec944ec373fae4d317ac4) / [Wall Street Journal](https://www.wsj.com/politics/policy/trump-says-i-dont-know-when-asked-if-he-must-uphold-the-constitution-da6fd937) / [Politico](https://www.politico.com/news/2025/05/04/i-dont-know-trump-constitution-00326040) / [Washington Post](https://www.washingtonpost.com/politics/2025/05/04/trump-nbc-interview-constitution-economy/) / [Reuters](https://www.reuters.com/world/us/trump-says-hes-unsure-whether-people-us-are-entitled-due-process-2025-05-04/) / [CBS News](https://www.cbsnews.com/news/trump-due-process-comment-nbc-interview/))

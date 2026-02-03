@@ -3,12 +3,12 @@ title: Day 336
 date: 2017-12-21 07:51:00 -08:00
 categories:
 - trump
-description: A formula for success.
-image: "/uploads/336.jpg"
 tags:
 - healthcare
 - energy
 - mueller-investigation
+description: A formula for success.
+image: "/uploads/336.jpg"
 ---
 
 1/ **Nearly 2 million children will lose health coverage if Congress doesn't fund the Children's Health Insurance Program by Friday**. CHIP covers 9 million children across the country, but Congress failed to authorize new funding in September. ([NBC News](https://www.nbcnews.com/health/health-news/2-million-kids-will-lose-chip-coverage-right-away-report-n831606))

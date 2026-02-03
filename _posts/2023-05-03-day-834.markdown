@@ -3,6 +3,11 @@ title: Day 834
 date: 2023-05-03 15:00:00 -07:00
 categories:
 - biden
+tags:
+- economy
+- climate
+- education
+- lawsuit
 description: '"A national concern."'
 image: "/uploads/day-834-biden.jpg"
 todayInOneSentence: The Federal Reserve raised interest rates for the 10th time in
@@ -11,11 +16,6 @@ todayInOneSentence: The Federal Reserve raised interest rates for the 10th time 
   her; New York state banned natural gas and other fossil fuels in most new buildings;
   and test scores in U.S. history and civics for eighth graders fell to the lowest
   levels on record.
-tags:
-- economy
-- climate
-- education
-- lawsuit
 ---
 
 1/ **The Federal Reserve raised interest rates for the 10th time in just over a year but signaled that it could be done lifting rates**. The quarter percentage point increase brings its benchmark rate to between 5 and 5.25% – the highest level in 16 years. Although inflation has cooled since last year’s peak of 7% to 4.2% as of March, it's still more than double the Fed's target of 2%. Economists at the Fed, meanwhile, are projecting a mild recession later this year. ([Wall Street Journal](https://www.wsj.com/articles/federal-reserve-raises-rates-signals-potential-pause-eb264784?mod=hp_lead_pos1) / [CNBC](https://www.cnbc.com/2023/05/03/fed-rate-decision-may-2023-.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-05-03/fed-raises-rates-by-a-quarter-point-and-hints-at-possible-pause?srnd=premium&sref=MIBMEEoj) / [NPR](https://www.npr.org/2023/05/03/1173371788/the-fed-raises-interest-rates-again-in-what-could-be-its-final-attack-on-inflati) / [Politico](https://www.politico.com/news/2023/05/03/fed-powell-rates-inflation-00095092) / [New York Times](https://www.nytimes.com/live/2023/05/03/business/fed-interest-rates) / [Washington Post](https://www.washingtonpost.com/business/2023/05/03/fed-rate-hike-powell-banks/))

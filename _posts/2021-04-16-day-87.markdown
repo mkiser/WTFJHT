@@ -3,6 +3,11 @@ title: Day 87
 date: 2021-04-16 13:49:00 -07:00
 categories:
 - biden
+tags:
+- immigration
+- covid
+- jan-6
+- civil-rights
 description: '"Disastrous."'
 image: "/uploads/87.jpg"
 todayInOneSentence: Biden will keep Trump's historically low refugee admissions target
@@ -12,11 +17,6 @@ todayInOneSentence: Biden will keep Trump's historically low refugee admissions 
   the Oath Keepers arrested in the Jan. 6 riot at the Capitol pleaded guilty and agreed
   to cooperate; and 59% of Americans approve of the way Biden is handling his job
   as president.
-tags:
-- immigration
-- covid
-- jan-6
-- civil-rights
 ---
 
 1/ **Biden will keep Trump's historically low refugee admissions target at 15,000**, walking back his pledge to lift the cap to 62,500 this year and push it to 125,000 for the fiscal year that starts Oct. 1. Biden, however, signed an emergency determination to speed refugee admissions to the U.S and adjust the allocation limits set by Trump, who placed strict restrictions on accepting refugees from certain African and majority-Muslim countries. Rep. Ilhan Omar called Biden's decision "shameful," while Rep. Pramila Jayapal said it was "disastrous." ([New York Times](https://www.nytimes.com/2021/04/16/us/biden-refugees-cap.html) / [Washington Post](https://www.washingtonpost.com/politics/biden-administration-to-keep-refugee-cap-at-trumps-level-far-less-than-what-it-proposed-to-congress/2021/04/16/02c099da-9ece-11eb-b7a8-014b14aeb9e4_story.html) / [Associated Press](https://apnews.com/article/joe-biden-donald-trump-middle-east-africa-central-america-e692d180232fdd3cc2125bdb9cc1278f) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-administration-will-keep-cap-refugees-trump-administration-levels-n1264320))

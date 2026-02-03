@@ -3,12 +3,12 @@ title: Day 337
 date: 2017-12-22 09:04:00 -08:00
 categories:
 - trump
-description: Very intense.
-image: "/uploads/337.jpg"
 tags:
 - taxes
 - midterm-election
 - immigration
+description: Very intense.
+image: "/uploads/337.jpg"
 ---
 
 *WTF Just Happened Today will be back on Tuesday, December 26th. Until then, join me in the [community forum](https://talk.whatthefuckjusthappenedtoday.com/) to share and discuss what the fuck is going on*. ✌️

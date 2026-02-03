@@ -3,6 +3,10 @@ title: Day 488
 date: 2018-05-22 06:00:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- national-security
+- media
 description: Too inconvenient.
 image: "/uploads/488.jpg"
 todayInOneSentence: 'Trump doesn''t take recommended security precautions  for his
@@ -12,10 +16,6 @@ todayInOneSentence: 'Trump doesn''t take recommended security precautions  for h
   the GAO approved Trump''s proposed cuts to CHIP; and lawmakers want to stop Trump''s
   deal with ZTE. '
 author: Joe Amditis
-tags:
-- mueller-investigation
-- national-security
-- media
 ---
 
 1/ **Trump uses White House cellphones that lack the proper security features required to protect his communications**, thus leaving him open to potential hacking or surveillance. Trump uses at least two different iPhones — one for calls and one for Twitter and news — and has resisted staff efforts to beef up phone security. Aides have urged Trump to swap out his Twitter phone on a monthly basis, but Trump argues the disruption is "too inconvenient." Trump has gone as long as five months without a Twitter-phone security check-up. ([Politico](https://www.politico.com/story/2018/05/21/trump-phone-security-risk-hackers-601903))

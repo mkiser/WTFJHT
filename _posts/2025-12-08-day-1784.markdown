@@ -1,6 +1,11 @@
 ---
 title: Day 1784
 date: 2025-12-08 13:58:00 -08:00
+tags:
+- supreme-court
+- pardon
+- foreign-policy
+- ukraine
 description: '"Massive, uncontrolled, unchecked power."'
 image: "/uploads/day1784trump.jpg"
 todayInOneSentence: The Supreme Court appeared ready to make it easier for Trump to
@@ -18,11 +23,6 @@ todayInOneSentence: The Supreme Court appeared ready to make it easier for Trump
   the company; days after pardoning Rep. Henry Cuellar and his wife in a federal bribery
   and conspiracy case, Trump said Cuellar showed “a lack of LOYALTY”; and 42% of Americans
   approved of the job Trump was doing as president, while 55% disapproved.
-tags:
-- supreme-court
-- pardon
-- foreign-policy
-- ukraine
 ---
 
 1/ **The Supreme Court appeared ready to make it easier for Trump to fire independent government officials despite federal law restricting the president from removing them without cause** – a major expansion of presidential power. During arguments over Trump’s removal of Federal Trade Commission member Rebecca Kelly Slaughter, the conservative majority cast doubt on the 1935 Humphrey’s Executor precedent that prevents at-will firings of commissioners. Several justices called that precedent a “dried husk,” and Justice Neil Gorsuch said it was “poorly reasoned,” while the three liberal justices warned the move would “destroy the structure of government” and hand presidents “massive, uncontrolled, unchecked power.” The court has already allowed Trump’s dismissal of Slaughter and other commissioners to take effect and is expected to issue a full ruling next year. ([NBC News](https://www.nbcnews.com/politics/supreme-court/trumps-battle-independent-agencies-back-supreme-court-rcna247407) / [New York Times](https://www.nytimes.com/2025/12/08/us/politics/supreme-court-trump-presidential-power.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-12-08/supreme-court-signals-it-backs-trump-s-firing-of-agency-leaders) / [Politico](https://www.politico.com/news/2025/12/08/supreme-court-slaughter-trump-firings-00681078) / [CNN](https://www.cnn.com/2025/12/08/politics/supreme-court-to-hear-separation-of-powers-dispute-over-fired-ftc-commissioner) / [Wall Street Journal](https://www.wsj.com/us-news/law/supreme-court-trump-firings-federal-workers-075c1ab0) / [ABC News](https://abcnews.go.com/Politics/landmark-case-supreme-court-rule-trumps-bid-control/story?id=128073464) / [Axios](https://www.axios.com/2025/12/08/supreme-court-trump-independent-commissioners-ftc))

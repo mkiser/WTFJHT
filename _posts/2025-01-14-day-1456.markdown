@@ -3,6 +3,12 @@ title: Day 1456
 date: 2025-01-14 15:33:00 -08:00
 categories:
 - biden
+tags:
+- jan-6
+- indictment
+- cabinet
+- lgbtq-rights
+- tariffs
 description: '"Nothing more and nothing less."'
 image: "/uploads/day-1456-biden-trump.jpg"
 todayInOneSentence: Special Counsel Jack Smith's final report made clear that Trump
@@ -21,12 +27,6 @@ todayInOneSentence: Special Counsel Jack Smith's final report made clear that Tr
   of terrorism, citing a lack of credible evidence to support the designation; and
   Trump announced plans to create an “External Revenue Service” to collect tariffs
   and other forms of revenue that come from foreign sources.
-tags:
-- jan-6
-- indictment
-- cabinet
-- lgbtq-rights
-- tariffs
 ---
 
 1/ **Special Counsel Jack Smith's final report made clear that Trump has not been exonerated for his “unprecedented criminal effort to overturn the legitimate results of the election in order to retain power” and that the evidence would have secured a conviction had the case gone to trial**. Smith’s 137-page report, released early Tuesday, detailed Trump’s alleged actions, including how he "inspired his supporters to commit acts of physical violence" on Jan. 6 and knowingly spread "demonstrably and, in many cases, obviously false" claims of voter fraud. The prosecution, however, was dropped due to Trump’s 2024 reelection and longstanding Justice Department policy prohibiting the indictment of sitting presidents. Smith wrote, “Indeed, but for Mr. Trump’s election and imminent return to the Presidency, the Office assessed that the admissible evidence was sufficient to obtain and sustain a conviction at trial.” Smith’s report also directly countered Trump’s claims of political bias: “To all who know me well, the claim from Mr. Trump that my decisions as a prosecutor were influenced or directed by the Biden administration or other political actors is, in a word, laughable.” Smith emphasized that the investigation adhered strictly to facts and the law, asserting, “My Office had one north star: to follow the facts and law wherever they led. Nothing more and nothing less.” Trump, meanwhile, dismissed the report as a “political hit job,” repeating his unsubstantiated claims of election fraud while accusing Smith of failing to bring the case to trial before the election. Nevertheless, Smith defended the effort, stating, “While we were not able to bring the cases we charged to trial, I believe the fact that our team stood up for the rule of law matters.” ([Politico](https://www.politico.com/news/2025/01/14/jack-smith-trump-report-00198025) / [NPR](https://www.npr.org/2025/01/14/g-s1-42358/trump-jack-smith-election-report) / [NBC News](https://www.nbcnews.com/politics/justice-department/justice-dept-sends-congress-jack-smiths-report-trumps-effort-overturn-rcna187492) / [New York Times](https://www.nytimes.com/2025/01/14/us/politics/trump-special-counsel-report-election-jan-6.html) / [Washington Post](https://www.washingtonpost.com/national-security/2025/01/13/trump-jan-6-classified-documents-investigations-report-jack-smith/) / [Wall Street Journal](https://www.wsj.com/politics/elections/jack-smith-donald-trump-election-interference-report-f2ecf0fa) / [The Guardian](https://www.theguardian.com/us-news/2025/jan/14/donald-trump-2020-election-conviction-special-counsel-report-jack-smith) / [Axios](https://www.theguardian.com/us-news/2025/jan/14/donald-trump-2020-election-conviction-special-counsel-report-jack-smith))

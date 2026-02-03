@@ -3,6 +3,11 @@ title: Day 827
 date: 2023-04-26 14:54:00 -07:00
 categories:
 - biden
+tags:
+- supreme-court
+- ethics
+- judiciary
+- indictment
 description: '"Mundane matters."'
 image: "/uploads/day-827-biden.jpg"
 todayInOneSentence: Chief Justice John Roberts declined to testify before the Senate
@@ -14,11 +19,6 @@ todayInOneSentence: Chief Justice John Roberts declined to testify before the Se
   top legislative accomplishments in exchange for a one-year increase to the U.S.
   debt ceiling; and E. Jean Carroll, in her civil lawsuit accusing Trump of battery
   and defamation, testified that “I’m here because Donald Trump raped me.”
-tags:
-- supreme-court
-- ethics
-- judiciary
-- indictment
 ---
 
 1/ **Chief Justice John Roberts declined to testify before the Senate Judiciary Committee about the Supreme Court's ethics practices**, calling such testimony "exceedingly rare" for what he called "mundane matters." Instead, Roberts released a statement that was meant to provide “new clarity” to the public about the court's ethics principles and practices. The statement said all nines justices "reaffirm and restate foundational ethics principles and practices to which they subscribe in carrying out their responsibilities" as Supreme Court justices. The committee had planned to hold a hearing to examine "common sense proposals" to hold Supreme Court justices to the same ethical standards as the rest of the federal judiciary after it was reported that Justice Clarence Thomas hadn't disclosed several luxury trips he received from a Republican megadonor. ([NPR](https://www.npr.org/2023/04/25/1172083875/chief-justice-roberts-declines-to-testify-before-senate-panel) / [CNN](https://www.cnn.com/2023/04/25/politics/john-roberts-congress-supreme-court-ethics/index.html) / [Politico](https://www.politico.com/news/2023/04/25/roberts-declines-to-appear-at-ethics-hearing-00093815) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-draws-fire-ethics-inaction-rcna81544))

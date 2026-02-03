@@ -3,6 +3,11 @@ title: Day 1065
 date: 2023-12-20 15:01:00 -08:00
 categories:
 - biden
+tags:
+- immigration
+- jan-6
+- judiciary
+- disinformation
 description: '"Destroying the fabric of our country."'
 image: "/uploads/day-1065b.jpeg"
 todayInOneSentence: 'Trump doubled down on his racist and xenophobic comments that
@@ -12,11 +17,6 @@ todayInOneSentence: 'Trump doubled down on his racist and xenophobic comments th
   ruled that Trump was disqualified from the state’s 2024 ballot; and Trump urged
   the Supreme Court to hold off on deciding whether he is entitled to immunity from
   federal criminal charges for his efforts to overturn the 2020 presidential election. '
-tags:
-- immigration
-- jan-6
-- judiciary
-- disinformation
 ---
 
 1/ **Trump doubled down on his racist and xenophobic comments that undocumented immigrants are “poisoning the blood of our country” and rebuffed bipartisan criticism that his rhetoric echos Hitler**. "They’re destroying the blood of our country," Trump said about undocumented immigrants at a speech in Iowa. "That’s what they’re doing. They’re destroying our country. They don’t like it when I said that — and I never read 'Mein Kampf.' They said, ‘Oh, Hitler said that.’” Hitler used the term "blood poisoning" to denigrate immigration in his manifesto “Mein Kampf." Nevertheless, Trump brushed off the Hitler comparison and claimed that Hitler meant it “in a much different way,” without making his meaning clear. Undocumented immigrants, Trump added, were “destroying the blood of our country” and “destroying the fabric of our country.” Trump is the frontrunner for the Republican presidential nomination. ([New York Times](https://www.nytimes.com/2023/12/19/us/politics/trump-immigrants-hitler-mein-kampf.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-12-20/trump-in-iowa-says-immigrants-ruining-the-fabric-of-us?sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2023/12/19/trump-immigration-comments-hitler-00132613) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-doubles-immigrant-blood-remark-says-never-read-mein-kampf-rcna130535) / [Associated Press](https://apnews.com/article/donald-trump-immigration-iowa-dff7f632948fa6511fb7d1955a28610c) / [ABC News](https://abcnews.go.com/Politics/trump-claims-read-hitlers-mein-kampf-doubles-anti/story?id=105794639))

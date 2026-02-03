@@ -1,6 +1,11 @@
 ---
 title: Day 1500
 date: 2025-02-27 15:04:00 -08:00
+tags:
+- foreign-policy
+- tariffs
+- healthcare
+- national-security
 description: '"Flawed democracy."'
 image: "/uploads/day-1500-trump.jpg"
 todayInOneSentence: 'A federal judge ruled that the Trump administration can fire
@@ -14,11 +19,6 @@ todayInOneSentence: 'A federal judge ruled that the Trump administration can fir
   rose to 242,000 last week; and the FAA is considering canceling a $2.4 billion contract
   with Verizon to modernize air traffic control communications and awarding it to
   Elon Musk’s Starlink. '
-tags:
-- foreign-policy
-- tariffs
-- healthcare
-- national-security
 ---
 
 1/ **A federal judge ruled that the Trump administration can fire dozens of CIA and intelligence officers who had worked on diversity programs**. Judge Anthony Trenga said the decision was "a difficult situation," but said the law grants CIA Director John Ratcliffe broad authority to dismiss employees "in the interests of the United States." The officers had sued to be reassigned to other positions instead of being terminated. The ruling clears the way for at least 51 intelligence officers to be dismissed, though the judge suggested they be allowed to apply for other jobs. ([NBC News](https://www.nbcnews.com/politics/national-security/federal-judge-rules-trump-administration-can-fire-career-intel-officer-rcna194036) / [New York Times](https://www.nytimes.com/2025/02/27/us/politics/cia-firing-diversity.html) / [Washington Post](https://www.washingtonpost.com/dc-md-va/2025/02/27/cia-fires-dei-officers-trenga/))

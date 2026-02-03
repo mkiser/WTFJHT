@@ -3,6 +3,10 @@ title: Day 811
 date: 2019-04-10 09:41:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- russia
+- oversight
 description: Genesis.
 image: "/uploads/811.jpg"
 todayInOneSentence: Attorney General William Barr assembled a team to examine the
@@ -11,10 +15,6 @@ todayInOneSentence: Attorney General William Barr assembled a team to examine th
   campaign; Trump claimed the Russia investigation was "an attempted coup"; and the
   FBI discussed the possibility that Trump fired FBI Director James Comey "at the
   behest of" the Russian government.
-tags:
-- mueller-investigation
-- russia
-- oversight
 ---
 
 1/ **Attorney General William Barr assembled a team to examine the origins of the counterintelligence investigation into the Trump campaign's possible ties to Russia**. Barr is pursuing allegations by Republican lawmakers of anti-Trump bias at the Justice Department and FBI. Robert Mueller took over the counterintelligence investigation when he was appointed special counsel. Separately, the Justice Department's inspector general is reviewing whether the FBI and federal prosecutors abused their authority when obtaining FISA warrants to surveil Trump campaign adviser Carter Page. ([Bloomberg](https://www.bloomberg.com/news/articles/2019-04-09/barr-said-to-form-team-to-review-fbi-s-actions-in-trump-probe) / [Wall Street Journal](https://www.wsj.com/articles/justice-department-examining-origins-of-probe-into-trump-campaigns-possible-ties-to-russia-11554902215))

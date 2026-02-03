@@ -3,6 +3,11 @@ title: Day 601
 date: 2022-09-12 15:00:00 -07:00
 categories:
 - biden
+tags:
+- classified-documents
+- jan-6
+- economy
+- education
 description: '"The burden."'
 image: "/uploads/day-601-biden.jpg"
 todayInOneSentence: 'Trump asked a federal judge to deny the Justice Department’s
@@ -15,11 +20,6 @@ todayInOneSentence: 'Trump asked a federal judge to deny the Justice Department�
   a group of 22 Republican governors urged Biden to withdraw his student loan forgiveness
   plan; and 33% of Americans said they prefer strong, unelected leaders to weak elected
   ones. '
-tags:
-- classified-documents
-- jan-6
-- economy
-- education
 ---
 
 1/ **Trump asked a federal judge to deny the Justice Department’s request to limit the role of a special master in its review of classified documents seized from Mar-a-Lago as part of its criminal investigation**. Last week, federal prosecutors – citing the risk of "irreparable harm" to national security – requested that District Judge Aileen Cannon stay the portion of her ruling blocking the government from reviewing about 100 documents with classification markings that were taken during the Aug. 8 FBI search of Mar-a-Lago. In a 21-page filing, Trump’s lawyers called the Justice Department's investigation into Trump "unprecedented and misguided," and  referring to the seized documents as “purported ‘classified records,’” they claimed that the government “has not proven” that the materials marked classified are actually still classified. Instead, they argued, Trump might actually have the right to keep the materials in his possession. ([Washington Post](https://www.washingtonpost.com/national-security/2022/09/12/trump-classified-special-master/) / [New York Times](https://www.nytimes.com/2022/09/12/us/politics/trump-doj-special-master.html) / [Politico](https://www.politico.com/news/2022/09/12/trump-fights-back-against-doj-in-dispute-over-classified-records-00056129) / [Associated Press](https://apnews.com/article/donald-trump-mar-a-lago-criminal-investigations-government-and-politics-4400379ff118bdaf16ffd7a51bb2c4e9) / [Wall Street Journal](https://www.wsj.com/articles/trump-lawyers-to-address-dojs-bid-to-review-classified-documents-11662980400?mod=djemalertNEWS) / [CNN](https://www.cnn.com/2022/09/12/politics/trump-filing/index.html) / [NBC News](https://www.nbcnews.com/politics/justice-department/trump-asks-judge-block-doj-viewing-classified-records-seized-mar-lago-rcna47288) / [ABC News](https://abcnews.go.com/Politics/trump-legal-team-responds-justice-department-mar-lago/story?id=89744700))

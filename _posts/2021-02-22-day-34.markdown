@@ -3,6 +3,11 @@ title: Day 34
 date: 2021-02-22 14:00:00 -08:00
 categories:
 - biden
+tags:
+- covid
+- economy
+- indictment
+- nomination
 description: '"The work continues."'
 image: "/uploads/34-biden.jpg"
 todayInOneSentence: The U.S. death toll from the coronavirus topped 500,000; Biden
@@ -13,11 +18,6 @@ todayInOneSentence: The U.S. death toll from the coronavirus topped 500,000; Bid
   lead the Office of Management and Budget is in doubt after two Republicans and a
   Democrat said they will vote against her nomination; and 17% of Trump voters believe
   Biden was legitimately elected president.
-tags:
-- covid
-- economy
-- indictment
-- nomination
 ---
 
 1/ **The U.S. death toll from the coronavirus topped 500,000 with more than 28,000,000 confirmed cases**. More Americans have died from Covid-19 than in World War I, World War II, and the Vietnam War combined – and public health officials have said the actual death toll is likely significantly higher. Dr. Anthony Fauci called the death toll a "stunning," "terrible," "really horrible," and "historic" figure, adding that the U.S. had "done worse than most any other country" despite being a "highly developed, rich country." On February 23, 2020, Trump [suggested](https://whatthefuckjusthappenedtoday.com/2020/02/25/day-1132/#2-trump-suggested-that-the-coronavir) that the coronavirus is “going to go away,” because "we’ve had no deaths" and "we have it very much under control in this country." The coronavirus has killed more than 2,462,000 people worldwide. ([NBC News](https://www.nbcnews.com/news/us-news/u-s-reaches-500-000-deaths-coronavirus-n1257992) / [New York Times](https://www.nytimes.com/2021/02/21/us/coronavirus-deaths-us-half-a-million.html) / [ABC News](https://abcnews.go.com/US/fauci-covid-19-fight-us-worse-country/story?id=76041230) / [Politico](https://www.politico.com/news/2021/02/21/fauci-500-000-covid-deaths-terrible-470556) / [Washington Post](https://www.washingtonpost.com/nation/interactive/2021/500000-covid-deaths-visualized/?itid=hp-top-table-main) / [CNN](https://www.cnn.com/2021/02/22/politics/president-joe-biden-coronavirus-500000-deaths-trump-fauci/index.html) / [The Guardian](https://www.theguardian.com/us-news/2021/feb/22/biden-covid-deaths-memorial) / [Wall Street Journal](https://www.wsj.com/livecoverage/covid-2021-02-22))

@@ -3,12 +3,12 @@ title: Day 319
 date: 2017-12-04 08:42:00 -08:00
 categories:
 - trump
-description: Tatters.
-image: "/uploads/319.jpg"
 tags:
 - mueller-investigation
 - special-election
 - judiciary
+description: Tatters.
+image: "/uploads/319.jpg"
 ---
 
 1/ **Trump tweeted that he fired Michael Flynn because he lied to the FBI** about his conversations with Russian Ambassador Sergey Kislyak during the presidential transition last December. "I had to fire General Flynn because he lied to the Vice President and the FBI. He has pled guilty to those lies," Trump tweeted. ([New York Times)](https://www.nytimes.com/2017/12/02/us/politics/trump-michael-flynn.html)

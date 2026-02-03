@@ -3,6 +3,8 @@ title: Day 1148
 date: 2020-03-12 14:40:00 -07:00
 categories:
 - trump
+tags:
+- covid
 description: Canceled.
 image: "/uploads/1148.jpg"
 todayInOneSentence: Trump banned foreign visitors from most of Europe for 30-days
@@ -13,8 +15,6 @@ todayInOneSentence: Trump banned foreign visitors from most of Europe for 30-day
   the coronavirus is similar to the seasonal flu; and the Trump administration and
   House Democrats are negotiating a bipartisan deal on an economic coronavirus relief
   package.
-tags:
-- covid
 ---
 
 1/ **Trump banned foreign visitors from most of Europe for 30-days in an effort to curb the growing COVID-19 pandemic**. Trump blamed European and Chinese travelers for bringing the "foreign virus" to the U.S., while accusing the European Union of “\[failing\] to take the same precautions” the U.S. had implemented to contain the coronavirus outbreak. The ban, which begins Friday at midnight, does not apply to the United Kingdom or to U.S. citizens, and there are waivers under multiple circumstances. Reading from a prepared script, Trump incorrectly described his own policy, saying that the travel restrictions would impact a "tremendous amount" of trade and cargo. The White House later clarified that the ban would not include cargo. Trump urged Americans to heed the CDC's guidelines for Americans to protect themselves and others from the spread of the virus – instructions he has repeatedly contradicted, ignored, or downplayed over the last few weeks – and claimed the government was moving “very quickly” to fix a chronic shortage of coronavirus test kits. Trump, however, provided no specifics about how many Americans would be able to be tested, and when and where those tests could occur. ([Washington Post](https://www.washingtonpost.com/politics/besieged-trump-announces-drastic-measures-in-effort-to-stem-coronavirus-pandemic/2020/03/11/e99983a4-63dc-11ea-acca-80c22bbee96f_story.html) / [New York Times](https://www.nytimes.com/2020/03/12/us/politics/trump-coronavirus-address.html) / [Politico](https://www.politico.com/news/2020/03/11/trump-oval-office-coronavirus-address-126121) / [CNN](https://www.cnn.com/2020/03/11/politics/coronavirus-trump-foreign-virus/) / [ABC News](https://abcnews.go.com/Politics/trump-announces-travel-europe-restricted-amid-coronavirus-threat/story?id=69543646) / [The Intercept](https://theintercept.com/2020/03/12/trump-mistakenly-announces-ban-travel-imports-europe-backtracks/))

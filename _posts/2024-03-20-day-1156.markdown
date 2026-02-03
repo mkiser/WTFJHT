@@ -3,6 +3,12 @@ title: Day 1156
 date: 2024-03-20 14:30:00 -07:00
 categories:
 - biden
+tags:
+- immigration
+- climate
+- infrastructure
+- economy
+- civil-rights
 description: '"Historic progress."'
 image: "/uploads/day1156-biden.jpg"
 todayInOneSentence: 'A federal appeals court blocked a Texas law allowing state police
@@ -16,12 +22,6 @@ todayInOneSentence: 'A federal appeals court blocked a Texas law allowing state 
   times in 2024; and Alabama Republicans passed legislation that bans state funding
   for diversity, equity, and inclusion programs in public schools, universities, and
   state agencies. '
-tags:
-- immigration
-- climate
-- infrastructure
-- economy
-- civil-rights
 ---
 
 1/ **A federal appeals court blocked a Texas law allowing state police to arrest people suspected of illegally crossing the Texas-Mexico border** — hours after the Supreme Court had allowed it to go into effect. The appeals court judges are now considering whether the law should remain on hold while its constitutionality is being challenged in court. A district court ruled last month that the measure conflicts with federal immigration law. The law, known as Senate Bill 4, was signed by Republican Gov. Greg Abbott in December and allows law enforcement to arrest and deport migrants if they’re suspected of crossing the border illegally. However, Mexico’s government said it would not “under any circumstances” accept the return of any migrants from Texas. Those who reenter illegally after a deportation could face felony charges and a 10-to-20-year prison sentence. ([New York Times](https://www.nytimes.com/live/2024/03/20/us/texas-immigration-law-sb4) / [Washington Post](https://www.washingtonpost.com/immigration/2024/03/20/texas-immigration-law-sb4-appeals-court/) / [Texas Tribune](https://www.texastribune.org/2024/03/20/texas-immigration-law-court-hearing/) / [Associated Press](https://apnews.com/article/supreme-court-migrant-arrests-texas-13ffaed316d16f42e928f6958f0658f2) / [CNN](https://www.cnn.com/2024/03/19/politics/texas-immigration-law-blocked-appeals) / [NBC News](https://www.nbcnews.com/politics/immigration/appeals-court-blocks-texas-immigration-law-supreme-court-action-rcna144193) / [Politico](https://www.politico.com/news/2024/03/19/texas-arrest-migrants-supreme-court-mexico-border-00147825) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-03-20/texas-deportation-law-gets-skeptical-reception-from-key-judge?srnd=politics-vp&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/us-news/law/appeals-court-judges-question-both-sides-on-texas-immigration-law-8bf64de4?mod=hp_lead_pos5))

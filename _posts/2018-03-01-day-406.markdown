@@ -3,13 +3,13 @@ title: Day 406
 date: 2018-03-01 09:22:00 -08:00
 categories:
 - trump
-description: No one listened.
-image: "/uploads/406.jpg"
 tags:
 - national-security
 - russia
 - tariffs
 - gun-policy
+description: No one listened.
+image: "/uploads/406.jpg"
 ---
 
 1/ **The White House is preparing to replace H.R. McMaster as national security adviser** as early as next month. The move, orchestrated by John Kelly and Defense Secretary James Mattis, comes after months of strained relations between Trump and McMaster. ([NBC News](https://www.nbcnews.com/politics/donald-trump/white-house-preparing-mcmaster-exit-early-next-month-n852371))

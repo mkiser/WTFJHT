@@ -1,6 +1,11 @@
 ---
 title: Day 1605
 date: 2025-06-12 16:05:00 -07:00
+tags:
+- congress
+- economy
+- immigration
+- polling
 description: '"Trump and his shock troops are out of control."'
 image: "/uploads/day1605trump.jpg"
 todayInOneSentence: 'House Republicans’ tax and spending bill would cut $1,600 a year
@@ -13,11 +18,6 @@ todayInOneSentence: 'House Republicans’ tax and spending bill would cut $1,600
   his mental fitness, saying: “He’s not all there”; Trump admitted that his immigration
   policy is hurting farms and hotels; 53% of voters oppose Trump’s tax and spending
   bill; and 39% of Americans approve of the way Trump is handling his job as president. '
-tags:
-- congress
-- economy
-- immigration
-- polling
 ---
 
 1/ **House Republicans’ tax and spending bill would cut $1,600 a year from the poorest U.S. households while giving the richest a $12,000 boost**, the Congressional Budget Office reported. The bottom 10% of households, with incomes around $23,000, would lose nearly 4% of their income, mostly due to cuts to Medicaid and food assistance. At the other end, households earning around $692,000 would gain 2.3% from permanent extensions of the 2017 tax law and new tax breaks on tips, overtime, and investment income. Middle-income households would see a gain of $500 to $1,000 – or less than 1%. “Republicans are stealing hard-earned money from working people to enrich billionaires,” Rep. Brendan Boyle said, who requested the CBO analysis. ([Politico](https://www.politico.com/live-updates/2025/06/12/congress/gop-megabill-cbo-distributional-effects-00402674) / [Wall Street Journal](https://www.wsj.com/politics/policy/gop-tax-spending-megabill-cbo-dbedad8c) / [NPR](https://www.npr.org/2025/06/12/nx-s1-5431638/republican-gop-mega-bill-tax-cuts-cbo) / [CBS News](https://www.cbsnews.com/news/big-beautiful-bill-tax-medicaid-snap-impact-cbo/) / [Washington Post](https://www.washingtonpost.com/politics/2025/06/12/trump-presidency-news/#link-3OWRTJS53FBGBMMRCZCOHFASV4))

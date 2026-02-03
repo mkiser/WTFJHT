@@ -3,6 +3,10 @@ title: Day 1426
 date: 2020-12-15 14:39:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- presidential-election
+- corruption
 description: '"A modicum of grace and dignity."'
 image: "/uploads/1426.jpg"
 todayInOneSentence: The FDA confirmed that Moderna's two-dose COVID-19 vaccine was
@@ -11,10 +15,6 @@ todayInOneSentence: The FDA confirmed that Moderna's two-dose COVID-19 vaccine w
   as president-elect for the first time, six weeks after the November election; and
   the White House refused to follow Mitch McConnell in acknowledging Trump's election
   defeat.
-tags:
-- covid
-- presidential-election
-- corruption
 ---
 
 1/ **The FDA confirmed that Moderna's two-dose COVID-19 vaccine was “highly effective” and safe for adults**, setting it up for an emergency authorization later this week to become the country's second authorized COVID-19 shot. The FDA said the vaccine is 94.5% effective at preventing COVID-19 cases at least 14 days after vaccination and that there were no significant safety concerns. An FDA document also shows that asymptomatic infection was reduced by 63% after the first shot. Between the Moderna and Pfizer vaccines, the U.S. has acquired 300 million doses in the first quarter of 2021 – enough doses for 150 million people. ([ABC News](https://abcnews.go.com/Politics/fda-raises-concerns-safety-efficacy-moderna-covid-19/story?id=74735461) / [Politico](https://www.politico.com/news/2020/12/15/fda-second-vaccine-moderna-445418) / [NBC News](https://www.nbcnews.com/health/health-news/moderna-vaccine-appears-protect-against-coronavirus-infection-n1251237) / [New York Times](https://www.nytimes.com/2020/12/15/health/covid-moderna-vaccine.html) / [Washington Post](https://www.washingtonpost.com/health/2020/12/15/moderna-vaccine-found-safe-effective/) / [Wall Street Journal](https://www.wsj.com/articles/modernas-covid-19-vaccine-is-next-in-line-for-authorization-11608028201))

@@ -3,6 +3,10 @@ title: Day 567
 date: 2018-08-09 10:33:00 -07:00
 categories:
 - trump
+tags:
+- national-security
+- supreme-court
+- immigration
 description: 'Space Force all the way. '
 image: "/uploads/567.jpg"
 todayInOneSentence: Pence detailed Trump's proposal to create a "Space Force"; Russia
@@ -12,10 +16,6 @@ todayInOneSentence: Pence detailed Trump's proposal to create a "Space Force"; R
   and a federal judge threatened to hold Jeff Sessions in contempt after learning
   that the Trump administration had put two asylum seekers on a plane to El Salvador
   and deported them while their appeal was underway.
-tags:
-- national-security
-- supreme-court
-- immigration
 ---
 
 1/ **Mike Pence detailed Trump's proposal to create a "Space Force" as the sixth branch of the U.S. military by 2020.** Pence said the creation of the Space Force, the first new branch of the military since 1947, represented a response to new and emerging threats. The new  branch would require a significant reorganization of the Department of Defense and how it handles space operations. Pence said that the U.S. must not only increase its involvement in space-related affairs, but that "we must have American dominance in space." After the announcement, Trump tweeted: "Space Force all the way!" ([Washington Post](https://www.washingtonpost.com/business/economy/pence-details-plan-for-creation-of-space-force-in-what-would-be-the-sixth-branch-of-the-military/2018/08/09/0b40b8d0-9bdc-11e8-8d5e-c6c594024954_story.html?utm_term=.d3e7e1360484) / [USA Today](https://www.usatoday.com/story/news/politics/2018/08/09/space-force-pentagon-announces-plan-create-sixth-armed-service/945365002/) / [Fox News](http://www.foxnews.com/politics/2018/08/09/pence-calls-for-space-force-to-be-established-by-2020.html) / [Associated Press](https://apnews.com/4df1085b19d54e9b864e857012fecbb6/Pence-outlines-plan-for-new-Space-Force-by-2020) / [ABC News](https://abcnews.go.com/Politics/pentagon-vice-president-lay-groundwork-future-space-force/story?id=57122728))

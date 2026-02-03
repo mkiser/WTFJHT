@@ -3,6 +3,12 @@ title: Day 469
 date: 2022-05-03 14:39:00 -07:00
 categories:
 - biden
+tags:
+- supreme-court
+- reproductive-rights
+- midterm-election
+- ethics
+- corruption
 description: '"An egregious breach of trust."'
 image: "/uploads/day-469-biden.jpg"
 todayInOneSentence: The Supreme Court voted to strike down Roe v. Wade, according
@@ -16,12 +22,6 @@ todayInOneSentence: The Supreme Court voted to strike down Roe v. Wade, accordin
   Roe v. Wade with calls for the FBI to investigate and pursue criminal charges against
   those responsible for the leak; and 54% of Americans say the Supreme Court should
   uphold Roe v. Wade.
-tags:
-- supreme-court
-- reproductive-rights
-- midterm-election
-- ethics
-- corruption
 ---
 
 1/ **The Supreme Court voted to strike down Roe v. Wade, according to a leaked draft opinion written by Justice Samuel Alito**. While the draft could change before it's finalized, the document was circulated among the justices in February and at least five justices – including all of three of Trump’s nominees – voted to overturn Roe, which established a constitutional right to an abortion 49 years ago. Alito writes that “Roe was egregiously wrong from the start,” adding that "It is time to heed the Constitution and return the issue of abortion to the people’s elected representatives.” The Alito draft is related to the Dobbs v. Jackson Women's Health Organization case, which challenges a Mississippi law that bans abortions after 15 weeks. Clarence Thomas, Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett voted with Alito after hearing oral arguments in December, while Stephen Breyer, Sonia Sotomayor, and Elena Kagan are working on one or more dissents. It's unclear how Chief Justice John Roberts will ultimately vote, and whether he will join an opinion or draft his own, but he is [reportedly](https://www.cnn.com/2022/05/02/politics/roe-v-wade-supreme-court/index.html) willing to uphold the Mississippi law. A final opinion is expected later this Spring or early summer, and if the draft opinion is adopted, the court would let individual states determine abortion’s legality. ([Politico](https://www.politico.com/news/2022/05/02/supreme-court-abortion-draft-opinion-00029473) / [New York Times](https://www.nytimes.com/live/2022/05/03/us/roe-wade-abortion-supreme-court/leaked-draft-of-supreme-court-ruling-signals-a-seismic-shift-in-american-politics-and-law?smid=url-copy) / [Washington Post](https://www.washingtonpost.com/politics/2022/05/02/roe-v-wade-supreme-court-draft-politico/))

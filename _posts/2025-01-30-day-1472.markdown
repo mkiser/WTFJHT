@@ -3,6 +3,12 @@ title: Day 1472
 date: 2025-01-30 14:56:00 -08:00
 categories:
 - trump
+tags:
+- cabinet
+- healthcare
+- tariffs
+- civil-rights
+- economy
 description: '"Because I have common sense."'
 image: "/uploads/day-1472-trump.jpg"
 todayInOneSentence: Trump blamed diversity, equity, and inclusion policies, Obama,
@@ -19,12 +25,6 @@ todayInOneSentence: Trump blamed diversity, equity, and inclusion policies, Obam
   2024; House Republicans are considering cutting benefits for low-income Americans
   to offset the cost of Trump-backed tax cuts;  and Trump directed universities to
   monitor and report international students involved in pro-Palestinian protests.
-tags:
-- cabinet
-- healthcare
-- tariffs
-- civil-rights
-- economy
 ---
 
 1/ **Trump blamed diversity, equity, and inclusion policies, Obama, and Biden for the midair collision over the Potomac River that killed all 67 on board**. An ongoing investigation has yet to determine the cause of the American Airlines passenger jet colliding with a U.S. Army Black Hawk helicopter on a routine training flight. Trump called the moment “an hour of anguish for our nation,” but then abruptly pivoted to claiming – without evidence – that FAA diversity hiring weakened aviation safety and suggested the helicopter crew and air traffic controllers may have been at fault. "I put safety first, Obama, Biden and the Democrats put policy first, and they put politics at a level that nobody's ever seen," Trump said. When asked how he came to the conclusion that diversity had something to do with the crash, Trump replied, "because I have common sense, OK? Unfortunately, a lot of people don’t.” Later in the Oval Office, Trump told reporters "Incompetence might have played a role \[...\] You’re talking about extremely complex things, and If they don’t have a great brain, a great power of the brain, they’re not going to be very good at what they do and bad things will happen." A preliminary FAA report, meanwhile, found that air traffic control tower staffing was "not normal" for the amount of air traffic and for the time of day. The incident was the first mass casualty event involving a commercial aircraft in the U.S. in at least 15 years. ([CNN](https://www.cnn.com/2025/01/30/politics/donald-trump-dc-plane-crash/index.html) / [ABC News](https://abcnews.go.com/Politics/trump-evidence-appears-blame-faa-diversity-initiatives-factor/story?id=118272015) / [New York Times](https://www.nytimes.com/2025/01/30/us/politics/trump-plane-crash-dei-faa-diversity.html) / [CBS News](https://www.cbsnews.com/news/watch-live-trump-to-speak-on-dc-plane-crash/) / [Wall Street Journal](https://www.wsj.com/politics/policy/trump-dc-plane-crash-dei-democrats-83d71aae) / [NBC News](https://www.nbcnews.com/news/us-news/live-blog/live-updates-plane-crashes-potomac-river-collision-helicopter-reagan-n-rcna189942) / [CNBC](https://www.cnbc.com/2025/01/30/trump-lashes-out-at-biden-dei-efforts-after-dc-plane-crash.html) / [Washington Post](https://www.washingtonpost.com/politics/2025/01/30/trump-dei-plane-crash/) / [Associated Press](https://apnews.com/article/trump-crash-reagan-washington-buttigieg-diversity-biden-ef1e07684bbc845e9e7981c1ae060af2) / [Axios](https://www.axios.com/2025/01/30/trump-dc-plane-crash) / [NPR](https://www.npr.org/live-updates/plane-helicopter-crash-dc-airport-potomac) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-01-30/trump-attacks-faa-diversity-programs-following-mid-air-collision) / [Politico](https://www.politico.com/news/2025/01/30/trump-chris-rocheleau-faa-administrator-00201551))

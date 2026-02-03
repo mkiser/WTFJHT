@@ -3,6 +3,12 @@ title: Day 478
 date: 2022-05-12 14:41:00 -07:00
 categories:
 - biden
+tags:
+- jan-6
+- classified-documents
+- ukraine
+- energy
+- subpoena
 description: '"Headlines and sensationalization."'
 image: "/uploads/day-478-biden.jpg"
 todayInOneSentence: 'The Jan. 6 committee subpoenaed five House Republicans, including
@@ -12,12 +18,6 @@ todayInOneSentence: 'The Jan. 6 committee subpoenaed five House Republicans, inc
   that Trump took with him to Mar-a-Lago; the Biden administration canceled the sale
   of oil and gas leases in the Gulf of Mexico and the coast of Alaska; and Finland
   moved to join NATO "without delay" in response to Putin’s invasion of Ukraine. '
-tags:
-- jan-6
-- classified-documents
-- ukraine
-- energy
-- subpoena
 ---
 
 1/ **The Jan. 6 committee subpoenaed five House Republicans, including Kevin McCarthy**. In addition to McCarthy, the panel sent summons to Jim Jordan, Scott Perry, Andy Biggs, and Mo Brooks. Committee Chairman Bennie Thompson said the Republican lawmakers have information relevant to its investigation and that the panel was forced to issue the subpoenas after all five rejected requests to voluntarily testify. McCarthy indicated he might not comply with the subpoena, while Perry suggested that the subpoenas were "for headlines and sensationalization." The move marked the first time that the bipartisan investigation has issued subpoenas to sitting members of Congress. The committee’s public hearings are scheduled to begin June 9. ([Politico](https://www.politico.com/news/2022/05/12/mccarthy-jordan-jan-6-subpoena-00032115) / [CBS News](https://www.cbsnews.com/news/january-6-committee-subpoenas-kevin-mccarthy-jim-jordan-mo-brooks-scott-perry-andy-biggs/) / [Washington Post](https://www.washingtonpost.com/politics/2022/05/12/jan6-committee-subpoenas-mccarthy/) / [New York Times](https://www.nytimes.com/2022/05/12/us/politics/house-subpoenas-jan-6.html) / [Associated Press](https://apnews.com/article/jan-6-investigation-mccarthy-subpoena-2312def9243c505e22ce9d0f2f152db9) / [NBC News](https://www.nbcnews.com/politics/donald-trump/jan-6-committee-subpoenas-five-gop-house-members-minority-leader-kevin-rcna28569) / [CNN](https://www.cnn.com/2022/05/12/politics/republican-lawmakers-subpoena-january-6/index.html) / [NPR](https://www.npr.org/2022/05/12/1098509467/mccarthy-jan-6-panel-subpoena-republicans) / [CNBC](https://www.cnbc.com/2022/05/12/capitol-riot-probe-subpoenas-trump-house-gop-allies-kevin-mccarthy-jim-jordan.html) / [Wall Street Journal](https://www.wsj.com/articles/kevin-mccarthy-subpoenaed-by-committee-investigating-jan-6-capitol-riot-11652376657))

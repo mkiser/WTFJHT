@@ -3,6 +3,10 @@ title: Day 1198
 date: 2024-05-01 13:41:00 -07:00
 categories:
 - biden
+tags:
+- economy
+- special-election
+- reproductive-rights
 description: '"Absolutely calling it."'
 image: "/uploads/day-1198-biden.jpg"
 todayInOneSentence: 'Biden will cancel $6 billion in student loans for people who
@@ -16,10 +20,6 @@ todayInOneSentence: 'Biden will cancel $6 billion in student loans for people wh
   War-era ban on nearly all abortions; Florida’s ban on most abortions after six weeks
   of pregnancy went into effect; and 49% of Americans want politicians to pass laws
   ensuring national abortion access. '
-tags:
-- economy
-- special-election
-- reproductive-rights
 ---
 
 1/ **Biden will cancel $6 billion in student loans for people who attended the Art Institutes**, a shuttered group of private for-profit colleges accused of fraud. “This institution falsified data, knowingly misled students, and cheated borrowers into taking on mountains of debt without leading to promising career prospects at the end of their studies,” Biden said in a statement. The move will provide relief for 317,0000 people who enrolled in the colleges between 2004 and 2017. This latest round of student loan forgiveness brings the total approved by the Biden Administration to almost $160 billion for nearly 4.6 million borrowers – an average of nearly $35,000 per student. ([NPR](https://www.npr.org/2024/05/01/1248473475/art-institutes-student-loan-forgiveness-debt-relief) / [Associated Press](https://apnews.com/article/student-loan-cancellation-art-institutes-debt-forgiveness-cf6aea3b2d545dd80c8927059f6c3ce6) / [New York Times](https://www.nytimes.com/2024/05/01/us/politics/biden-student-debt-borrowers.html) / [CBS News](https://www.cbsnews.com/news/student-loan-forgiveness-6-1-billion-art-institutes-who-qualifies/) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-05-01/student-loan-forgiveness-biden-clears-6b-for-art-institutes-attendees?sref=MIBMEEoj))

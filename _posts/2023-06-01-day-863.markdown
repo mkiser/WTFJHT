@@ -3,6 +3,11 @@ title: Day 863
 date: 2023-06-01 16:08:00 -07:00
 categories:
 - biden
+tags:
+- debt-ceiling
+- education
+- climate
+- housing
 description: '"Time is a luxury."'
 image: "/uploads/day-863-biden.jpg"
 todayInOneSentence: A group of Republicans threatened to delay plans to fast-track
@@ -14,11 +19,6 @@ todayInOneSentence: A group of Republicans threatened to delay plans to fast-tra
   Earth past seven of the eight safety limits related to planetary health and human
   well-being; and two Alabama congressional representatives want to block funding
   for U.S. Space Command's temporary headquarters in Colorado.
-tags:
-- debt-ceiling
-- education
-- climate
-- housing
 ---
 
 1/ **A group of Republicans threatened to delay plans to fast-track the House-passed bill to suspend the debt ceiling and limit federal spending before Monday's default deadline**.  Lindsey Graham said he'd keep the Senate tied up “until Tuesday” unless he received assurances that there would be a supplemental funding bill to spend more money on the military than the debt limit deal allowed. Under the bill, defense spending would be capped at $886 billion next year – a 3% increase – which Susan Collins called “woefully inadequate.” Biden needs to sign the debt ceiling bill into law by Monday to avoid a default. “Time is a luxury the Senate does not have if we want to prevent default,” Chuck Schumer said. “June 5 is less than four days away. At this point, any needless delay or any last-minute holdups would be an unnecessary and even dangerous risk." ([CNBC](https://www.cnbc.com/2023/06/01/debt-ceiling-bill-updates.html) / [Washington Post](https://www.washingtonpost.com/politics/2023/06/01/senate-debt-ceiling-bill/) / [New York Times](https://www.nytimes.com/2023/06/01/us/politics/debt-limit-senate.html) / [Associated Press](https://apnews.com/article/debt-limit-biden-mccarthy-senate-house-default-b8c3566b0c9cb168d9706aa256e327f7) / [NBC News](https://www.nbcnews.com/politics/congress/senate-racing-vote-debt-ceiling-deal-soon-thursday-night-rcna87281) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-01/senate-racing-to-pass-debt-bill-to-avert-monday-default-deadline?srnd=premium&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/senators-seek-to-fast-track-debt-ceiling-vote-62dfeac4?mod=hp_lead_pos2))

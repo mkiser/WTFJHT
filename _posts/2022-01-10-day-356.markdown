@@ -3,6 +3,11 @@ title: Day 356
 date: 2022-01-10 15:02:00 -08:00
 categories:
 - biden
+tags:
+- covid
+- jan-6
+- climate
+- lawsuit
 description: '"By a clear margin."'
 image: "/uploads/day-356-biden.jpg"
 todayInOneSentence: More than 5,400 K-12 schools stopped in-person instruction at
@@ -12,11 +17,6 @@ todayInOneSentence: More than 5,400 K-12 schools stopped in-person instruction a
   judge to dismiss three lawsuits alleging that they incited the Jan. 6 Capitol riot;
   and the past seven years have been the warmest on record “by a clear margin” and
   2021 was the fifth-hottest ever.
-tags:
-- covid
-- jan-6
-- climate
-- lawsuit
 ---
 
 1/ **More than 5,400 K-12 schools stopped in-person instruction at some point last week due to the coronavirus pandemic**. Coronavirus-related shutdowns during the 2021-2022 school year had previously peaked at about 2,800 in November. Meanwhile, classes in Chicago’s school district, the third largest in the country, have been canceled since last Tuesday after 73% of teachers voted to stop reporting to work amid concerns over the rapidly spreading Omicron variant. ([Washington Post](https://www.washingtonpost.com/nation/2022/01/10/covid-omicron-variant-live-updates/#link-DHB5BUKPFRCKBORGNBWIXJEWVA) / [New York Times](https://www.nytimes.com/2022/01/09/us/chicago-public-schools-classes-cancelled.html))

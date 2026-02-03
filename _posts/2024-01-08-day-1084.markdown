@@ -3,6 +3,11 @@ title: Day 1084
 date: 2024-01-08 14:20:00 -08:00
 categories:
 - biden
+tags:
+- presidential-election
+- jan-6
+- reproductive-rights
+- government-shutdown
 description: '"Fair notice."'
 image: "/uploads/1084bidenday.jpg"
 todayInOneSentence: The Supreme Court agreed to review the Colorado Supreme Court’s
@@ -15,11 +20,6 @@ todayInOneSentence: The Supreme Court agreed to review the Colorado Supreme Cour
   until the end of the fiscal year; and three years after the Jan. 6 attack on the
   Capitol, 32% of Republicans disapprove of those who forced their way into the Capitol
   to disrupt the peaceful transfer of power.
-tags:
-- presidential-election
-- jan-6
-- reproductive-rights
-- government-shutdown
 ---
 
 1/ **The Supreme Court agreed to review the Colorado Supreme Court’s decision to remove Trump from that state’s ballot**. The court will hear the case on an expedited basis with arguments starting Feb. 8. The Colorado Republican Party urged the justices to rule by March 5, when many states, including Colorado, hold their primaries. Last month, Colorado’s top court [disqualified](https://whatthefuckjusthappenedtoday.com/2023/12/19/day-1064/#1-the-colorado-supreme-court-removed) Trump from the ballot, finding he engaged in an insurrection before and during the Jan. 6, 2021, attack on the U.S. Capitol. Maine’s secretary of state [also](https://whatthefuckjusthappenedtoday.com/2024/01/02/day-1078/#1-maine%E2%80%99s-secretary-of-state-removed) barred Trump from that ballot over his role in the Capitol attack. Trump is separately appealing that ruling to a state court in Maine. The Republican National Committee and the National Republican Congressional Committee, [meanwhile](https://www.politico.com/news/2024/01/05/rnc-nrcc-supreme-court-amicus-brief-trump-00134069), filed an amicus brief with the Supreme Court supporting Trump’s efforts to remain on the 2024 ballot. ([New York Times](https://www.nytimes.com/2024/01/05/us/trump-supreme-court-colorado-ballot.html) / [NPR](https://www.npr.org/2024/01/05/1222859510/supreme-court-colorado-ballots) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-agrees-weigh-whether-trump-can-kicked-ballot-colorado-rcna132058) / [Washington Post](https://www.washingtonpost.com/politics/2024/01/05/supreme-court-trump-colorado-ballot-insurrection/) / [Associated Press](https://apnews.com/article/supreme-court-trump-insurrection-2024-election-0baac5ba0c1868e437e365af17eeab24) /[ CBS News](https://www.cbsnews.com/news/trump-colorado-case-2024-ballot-supreme-court/) / [CNN](https://www.cnn.com/2024/01/05/politics/supreme-court-trump-colorado-14th-amendment-insurrectionist-clause/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-01-05/supreme-court-agrees-to-hear-trump-colorado-ballot-appeal?sref=MIBMEEoj))

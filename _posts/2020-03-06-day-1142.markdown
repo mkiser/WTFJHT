@@ -3,6 +3,9 @@ title: Day 1142
 date: 2020-03-06 15:05:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- immigration
 description: '"Contained."'
 image: "/uploads/1142.jpg"
 todayInOneSentence: The Trump administration claimed that the coronavirus outbreak
@@ -14,9 +17,6 @@ todayInOneSentence: The Trump administration claimed that the coronavirus outbre
   relief to help workers and businesses economically vulnerable to the outbreak; and
   the Trump administration plans to collect DNA samples from undocumented immigrants
   held in U.S. detention facilities.
-tags:
-- covid
-- immigration
 ---
 
 1/ **The Trump administration claimed that the coronavirus outbreak was "contained"** even as the number of U.S. cases have surpassed 250 – more than double since Monday – and test kits remain in short supply. Federal officials initially said nearly 1 million tests were expected to be available by the end of this week. While the CDC has refused to share how many people have been tested for COVID-19, a survey of public health agencies in every state could only verify 1,895 Americans who had been tested for the virus. About 10% of them tested positive. In California – population 40 million – has the capacity to test about 7,400 people through the weekend. About 1,250 Californians were possibly exposed to coronavirus on a cruise ship – 21 people have tested positive for coronavirus out of the 46 tested so far – and there are more than 9,000 people in California who recently returned from countries experiencing severe outbreaks. California, however, has only tested 516 people for COVID-19 to date. Nevertheless, Kellyanne Conway told reporters that “It is being contained,” challenging a reporter who suggested it isn’t. “Are you a doctor aware of it not being contained?” Trump’s top economic adviser, Larry Kudlow, echoed Conway, saying the outbreak “looks relatively contained.” ([Bloomberg](https://www.bloomberg.com/news/articles/2020-03-06/trump-aides-say-virus-is-contained-while-u-s-count-grows) / [The Atlantic](https://www.theatlantic.com/health/archive/2020/03/how-many-americans-have-been-tested-coronavirus/607597/) / [Los Angeles Times](https://www.latimes.com/science/story/2020-03-06/chaos-at-hospitals-due-to-shortage-of-coronavirus-tests) / [Washington Post](https://www.washingtonpost.com/health/dozens-of-passengers-on-a-stranded-cruise-ship-are-infected-by-coronavirus-that-number-could-soon-grow/2020/03/06/17cf1974-5fdb-11ea-b014-4fafa866bb81_story.html))

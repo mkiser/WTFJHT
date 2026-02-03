@@ -3,6 +3,11 @@ title: Day 1464
 date: 2025-01-22 15:37:00 -08:00
 categories:
 - trump
+tags:
+- civil-rights
+- immigration
+- jan-6
+- national-security
 description: '"To speak a truth."'
 image: "/uploads/day-1464-trump.jpg"
 todayInOneSentence: The Trump administration ordered all federal diversity, equity,
@@ -19,11 +24,6 @@ todayInOneSentence: The Trump administration ordered all federal diversity, equi
   and during an inaugural prayer service at Washington National Cathedral, Bishop
   Mariann Edgar Budde urged Trump to "have mercy" on immigrants, LGBTQ individual
   and "the people in our country who are scared now.”
-tags:
-- civil-rights
-- immigration
-- jan-6
-- national-security
 ---
 
 1/ **The Trump administration ordered all federal diversity, equity, and inclusion employees to be placed on paid leave and directed agencies to dismantle DEI offices and programs entirely**. The Office of Personnel Management instructed federal agencies to shut down DEI-related initiatives, remove public references to the programs, and prepare plans for staff layoffs by the end of the month. Trump described DEI programs as "radical and wasteful" and claimed they “undermine our national unity” by prioritizing identity over merit. The order also required agencies to investigate private sector practices and federal contractors for potential “illegal discrimination” linked to DEI programs. ([Associated Press](https://apnews.com/article/dei-trump-executive-order-diversity-834a241a60ee92722ef2443b62572540) / [New York Times](https://www.nytimes.com/2025/01/22/us/politics/trump-dei-diversity-officials-orders.html) / [NBC News](https://www.nbcnews.com/politics/white-house/trump-orders-federal-diversity-equity-inclusion-employees-placed-paid-rcna188679) / [Axios](https://www.axios.com/2025/01/22/trump-dei-staff-leave-offices-close) / [Washington Post](https://www.washingtonpost.com/politics/2025/01/22/dei-federal-employees-trump/) / [NPR](https://www.npr.org/2025/01/22/nx-s1-5270081/trump-executive-orders-dei) / [CNN](https://www.cnn.com/2025/01/21/politics/white-house-government-dei-employees-on-leave/index.html) / [Wall Street Journal](https://www.wsj.com/politics/policy/trumps-war-on-dei-freezes-diversity-work-across-federal-government-9a596d29))

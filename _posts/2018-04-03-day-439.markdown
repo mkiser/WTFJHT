@@ -3,13 +3,13 @@ title: Day 439
 date: 2018-04-03 09:24:00 -07:00
 categories:
 - trump
-description: We've got your back.
-image: "/uploads/439.jpg"
 tags:
 - mueller-investigation
 - energy
 - immigration
 - national-security
+description: We've got your back.
+image: "/uploads/439.jpg"
 ---
 
 1/ **Rod Rosenstein authorized Robert Mueller to investigate Paul Manafort for allegedly "colluding with Russian government officials"** in a classified August 2017 memo. Mueller was also given authority to probe Manafort's work for the Ukrainian government. The memo was disclosed in a court filing as Mueller's prosecutors seek to counter arguments by Manafort's lawyers that his indictment should be thrown out. ([CNN](https://www.cnn.com/2018/04/03/politics/mueller-manafort-rosenstein-memo/index.html) / [Wall Street Journal](https://www.wsj.com/articles/mueller-was-authorized-to-investigate-paul-manaforts-work-for-ukraine-1522754850))

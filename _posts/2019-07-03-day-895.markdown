@@ -3,6 +3,10 @@ title: Day 895
 date: 2019-07-03 10:37:00 -07:00
 categories:
 - trump
+tags:
+- immigration
+- census
+- mueller-investigation
 description: Moving forward.
 image: "/uploads/895.jpg"
 todayInOneSentence: A report from found the squalid conditions at migrant detention
@@ -10,10 +14,6 @@ todayInOneSentence: A report from found the squalid conditions at migrant detent
   General William Barr's order to indefinitely detain immigrants seeking asylum; Trump
   claimed that he is "absolutely moving forward" with including the citizenship question
   on the 2020 census; and 41% approve the job Trump is doing as president.
-tags:
-- immigration
-- census
-- mueller-investigation
 ---
 
 1/ **A report from the Department of Homeland Security's independent watchdog found the squalid conditions at migrant detention camps were more widespread than initially revealed**. The report describes standing-room-only cells, children without access to showers or hot meals, and detainees desperately begging to be released. Inspectors visited five facilities in June, where they found many migrants are given only wet wipes to clean themselves and bologna sandwiches to eat, leading to additional health problems. Children at two of the camps were not given hot meals until inspectors arrived. Overcrowding was so severe that migrants were banging on cell walls and pressing notes up against the windows begging for help. ([New York Times](https://www.nytimes.com/2019/07/02/us/politics/border-center-migrant-detention.html) / [Reuters](https://www.reuters.com/article/us-usa-immigration-idUSKCN1TY1A5))

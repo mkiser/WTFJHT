@@ -3,6 +3,11 @@ title: Day 64
 date: 2021-03-24 13:51:00 -07:00
 categories:
 - biden
+tags:
+- immigration
+- gun-policy
+- voting-rights
+- jan-6
 description: '"An existential threat."'
 image: "/uploads/day-64-biden.jpg"
 todayInOneSentence: Kamala Harris will takeover efforts to address illegal immigration
@@ -13,11 +18,6 @@ todayInOneSentence: Kamala Harris will takeover efforts to address illegal immig
   Senate Rules Committee hearing on a Democratic plan to overhaul federal elections
   and expand voting rights; and the U.S. dropped 11 points in a global ranking of
   political rights and civil liberties over the last decade.
-tags:
-- immigration
-- gun-policy
-- voting-rights
-- jan-6
 ---
 
 1/ **Kamala Harris will takeover efforts to address illegal immigration at the U.S.-Mexico border**. Harris will work in the near term to slow the flow of “irregular migrants” by addressing “the root causes” that prompt them to leave their home countries. Long-term, Harris will be responsible for establishing a "strategic partnership" with Mexico and countries in the Northern Triangle – El Salvador, Honduras, and Guatemala – that is "based on respect and shared values, to enhance prosperity, combat current corruption, and strengthen the rule of law." ([ABC News](https://abcnews.go.com/Politics/biden-taps-harris-stem-migration-flow-central-america/story?id=76657373) / [Politico](https://www.politico.com/news/2021/03/24/kamala-harris-immigration-border-surge-477810) / [New York Times](https://www.nytimes.com/2021/03/24/us/politics/harris-immigration-central-america.html) / [Axios](https://www.axios.com/biden-harris-border-crisis-d749a52a-2de3-4cc4-aaca-6a7dbc9df25a.html) / [CNBC](https://www.cnbc.com/2021/03/24/vice-president-harris-to-oversee-effort-to-resolve-problems-at-us-mexico-border.html))

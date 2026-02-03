@@ -1,6 +1,11 @@
 ---
 title: Day 1513
 date: 2025-03-12 12:58:00 -07:00
+tags:
+- tariffs
+- government-shutdown
+- education
+- social-security
 description: '"This is not a game."'
 image: "/uploads/day-1513-trump.jpg"
 todayInOneSentence: The House passed a Republican spending bill to fund the government
@@ -23,11 +28,6 @@ todayInOneSentence: The House passed a Republican spending bill to fund the gove
   while 45% disapprove; and 69% of voters say Democrats are “too focused on being
   politically correct,” 56% believe Democrats don’t look out for working people, and
   only 39% think the party values work.
-tags:
-- tariffs
-- government-shutdown
-- education
-- social-security
 ---
 
 1/ **The House passed a Republican spending bill to fund the government through September and avoid a shutdown**. It passed 217-213. The measure keeps spending mostly flat, but increases military funding by $6 billion while cutting $13 billion from nondefense programs, including a $1 billion reduction to Washington, D.C.’s budget. House Republicans largely supported the bill after pressure from Trump and JD Vance, arguing it gives the administration flexibility to reshape federal spending through Elon Musk’s Department of Government Efficiency. Speaker Mike Johnson compared passage of the funding bill to "the Super Bowl,” saying: “This is the moment we’ve all been waiting for our entire careers and finally, the stars have aligned.” In the Senate, Democrats are divided and face a Friday deadline on whether to oppose the bill and risk a shutdown or allow Trump broad control over federal funds. Senate Democrats “need to hold strong on this,” Rep. Alexandria Ocasio-Cortez said. “This is not a game. This is extremely serious,” adding that the money provided in the bill is “an unfettered slush fund” for Trump. Republicans will need at least eight Senate Democrats to vote for the bill. ([New York Times](https://www.nytimes.com/2025/03/11/us/politics/house-stopgap-funding-bill-vote-government-shutdown.html) / [Wall Street Journal](https://www.wsj.com/politics/policy/gop-house-spending-bill-vote-shutdown-a73f7f14) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-11/house-gop-passes-stopgap-daring-senate-democrats-on-shutdown) / [Associated Press](https://apnews.com/article/congress-budget-funding-government-shutdown-e027a644af4152377b8cf99f6a91102f) / [Wall Street Journal](https://www.wsj.com/politics/policy/government-shutdown-democrats-funding-deadline-bcb67826) / [Washington Post](https://www.washingtonpost.com/politics/2025/03/12/government-shutdown-democrats-senate/) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-12/senate-democrats-wobble-as-republicans-dare-them-on-us-shutdown) / [Politico](https://www.politico.com/live-updates/2025/03/12/congress/senate-democrats-continuing-resolution-00226028) / [NPR](https://www.npr.org/2025/03/11/nx-s1-5324612/house-spending-vote) / [Axios](https://www.axios.com/2025/03/12/senate-democrats-government-shutdown))

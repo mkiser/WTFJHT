@@ -3,6 +3,10 @@ title: Day 799
 date: 2019-03-29 09:04:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- healthcare
+- immigration
 description: Not playing games.
 image: "/uploads/799.jpg"
 todayInOneSentence: The Justice Department plans to release a redacted copy of Robert
@@ -10,10 +14,6 @@ todayInOneSentence: The Justice Department plans to release a redacted copy of R
   the U.S.-Mexico border as early as "next week"; and a federal judge blocked a Trump
   administration rule allowing millions of Americans to buy health insurance that
   doesn't conform to Affordable Care Act coverage requirements.
-tags:
-- mueller-investigation
-- healthcare
-- immigration
 ---
 
 1/ **The Justice Department plans to release a redacted copy of Robert Mueller's report "by mid-April, if not sooner,"** according to Attorney General William Barr. In a letter to the chairmen of the House and Senate judiciary committees, Barr noted that the report is "nearly 400 pages long" and the Justice Department needs to redact sensitive portions of it, including secret grand jury testimony, classified materials and information about other ongoing federal investigations. Barr added that the White House would not see the report before he sent it to Congress. Barr offered to testify after the report is released, suggesting May 1 for the Senate committee and May 2 for the House committee. ([Washington Post](https://www.washingtonpost.com/world/national-security/mueller-report-will-be-delivered-by-mid-april-if-not-sooner-attorney-general-tells-congress/2019/03/29/288a3692-524c-11e9-a3f7-78b7525a8d5f_story.html) / [New York Times](https://www.nytimes.com/2019/03/29/us/politics/barr-mueller-report.html) / [Politico](https://www.politico.com/story/2019/03/29/attorney-general-doj-to-release-mueller-report-by-mid-april-if-not-sooner-1243851) / [CNN](https://www.cnn.com/2019/03/29/politics/william-barr-robert-mueller-special-counsel-report/index.html)) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia/u-s-attorney-general-barr-to-release-redacted-copy-of-mueller-report-in-mid-april-idUSKCN1RA2CN))

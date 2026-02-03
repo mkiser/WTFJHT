@@ -1,6 +1,11 @@
 ---
 title: Day 1541
 date: 2025-04-09 15:41:00 -07:00
+tags:
+- tariffs
+- trade
+- economy
+- congress
 description: '"Be cool."'
 image: "/uploads/day-1541-trump.jpg"
 todayInOneSentence: Trump paused his "reciprocal" tariffs for 90 days for most countries,
@@ -13,11 +18,6 @@ todayInOneSentence: Trump paused his "reciprocal" tariffs for 90 days for most c
   key step to advancing Trump’s tax and spending agenda – despite being at least a
   dozen votes short; and 56% of Americans said that Trump's tariffs have "gone too
   far."
-tags:
-- tariffs
-- trade
-- economy
-- congress
 ---
 
 1/ **Trump paused his "reciprocal" tariffs for 90 days for most countries, except China, hours after Trump posted online urging investors to “BE COOL” and that “THIS IS A GREAT TIME TO BUY!!!”** The move lowers the tariff rate to a 10% baseline, which is still higher than previous levels, but below the tariffs that took effect days earlier. Following the announcement, markets soared: the S&P 500 jumped 9.5%, the Nasdaq rose 12%, and the Dow gained nearly 3,000 points – reversing the sharp declines triggered by Trump’s tariff rollout last week. The Trump administration claimed that this was a long-planned strategy, but Trump told reporters the decision came together “early this morning” and that he acted because people were “getting a little bit yippy” and “afraid” over market declines. He also said he’s “going to take a look at” tariff exemptions for U.S. companies and would decide “on instinct.” Tariffs on autos, steel, aluminum, and some pharmaceuticals remain in place. Treasury Secretary Scott Bessent insisted the tariffs had been a negotiation tactic from the start, saying Trump “created maximum negotiating leverage.” ([Associated Press](https://apnews.com/article/trump-tariffs-stock-market-china-recession-deals-e8e54a68397e6829e1d27552a1d7bfb9) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-04-09/trump-pauses-higher-duties-on-most-nations-hikes-china-tariffs) / [NBC News](https://www.nbcnews.com/business/economy/trump-tariffs-president-announces-90-day-pause-what-to-know-rcna200463) / [Wall Street Journal](https://www.wsj.com/politics/elections/trump-authorizes-90-day-pause-on-reciprocal-tariffs-f31d5097) / [Politico](https://www.politico.com/news/2025/04/09/trump-pauses-tariffs-00281494) / [NPR](https://www.npr.org/2025/04/09/nx-s1-5357645/trump-tariffs-paused) / [Washington Post](https://www.washingtonpost.com/business/2025/04/09/tariffs-stocks-bonds-markets/) / [New York Times](https://www.nytimes.com/2025/04/08/business/trump-tariffs-stock-markets.html) / [Axios](https://www.axios.com/2025/04/09/trump-tariffs-pause-china-stocks-recession) / [ABC News](https://abcnews.go.com/Business/asian-markets-us-futures-slide-trumps-new-china/story?id=120626507) / [Politico](https://www.politico.com/news/2025/04/09/trump-cool-bond-markets-00280856) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-04-09/trump-urges-calm-after-tariffs-imposed-says-great-time-to-buy))

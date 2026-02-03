@@ -3,6 +3,9 @@ title: Day 1093
 date: 2020-01-17 11:08:00 -08:00
 categories:
 - trump
+tags:
+- impeachment
+- cabinet
 description: '"Dopes and babies."'
 image: "/uploads/1093.jpg"
 todayInOneSentence: Trump added celebrity lawyer Alan Dershowitz and former independent
@@ -11,9 +14,6 @@ todayInOneSentence: Trump added celebrity lawyer Alan Dershowitz and former inde
   Ukraine Marie Yovanovitch; the Trump administration proposed rolling back school
   nutrition standards; and the Trump administration is exploring making changes to
   an anti-bribery law.
-tags:
-- impeachment
-- cabinet
 ---
 
 1/ **Trump added celebrity lawyer Alan Dershowitz and former independent counsel Ken Starr to his Senate impeachment trial defense team**. Starr investigated Bill Clinton, and Dershowitz's past clients include Jeffrey Epstein and O.J. Simpson. The team will be led by White House counsel Pat Cipollone, Trump's personal lawyer, Jay Sekulow, and Starr's successor at the Office of Independent Counsel during the Clinton administration, Robert Ray. Former Florida Attorney General Pam Bondi and Trump's longtime personal counsel Jane Raskin will also supplement the impeachment team. ([New York Times](https://www.nytimes.com/2020/01/17/us/politics/trump-impeachment-lawyers-starr-dershowitz.html) / [Washington Post](https://www.washingtonpost.com/politics/impeachment-trial-live-updates/2020/01/17/df59d410-3917-11ea-bb7b-265f4554af6d_story.html) / [Wall Street Journal](https://www.wsj.com/articles/trump-impeachment-team-for-trial-to-include-ken-starr-alan-dershowitz-11579273273) / [CNN](https://www.cnn.com/2020/01/17/politics/donald-trump-impeachment-legal-team-alan-dershowitz-ken-starr/) / [Politico](https://www.politico.com/news/2020/01/17/trump-impeachment-team-kenneth-starr-alan-dershowitz-100429) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/trump-impeachment-defense-team-expected-include-ken-starr-alan-dershowitz-n1117746) / [Axios](https://www.axios.com/donald-trump-impeachment-legal-team-8132aac5-544e-433c-83c5-e9262286e612.html))

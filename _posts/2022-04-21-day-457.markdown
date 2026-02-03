@@ -3,6 +3,12 @@ title: Day 457
 date: 2022-04-21 14:55:00 -07:00
 categories:
 - biden
+tags:
+- ukraine
+- covid
+- jan-6
+- voting-rights
+- lgbtq-rights
 description: '"A critical window."'
 image: "/uploads/day-457-biden.jpg"
 todayInOneSentence: Biden announced another $800 million in military resources to
@@ -20,12 +26,6 @@ todayInOneSentence: Biden announced another $800 million in military resources t
   issues in public school up to third grade; and the Supreme Court ruled that Congress
   can continue excluding residents of Puerto Rico from a federal disability insurance
   program.
-tags:
-- ukraine
-- covid
-- jan-6
-- voting-rights
-- lgbtq-rights
 ---
 
 1/ **Biden announced another $800 million in military resources to Ukraine**, calling it an “unmistakable message” to Putin that “he will never succeed in dominating and occupying all of Ukraine.” Biden added that the war was entering “a critical window.” The package, which includes heavy artillery and tactical drones, brings the U.S. support to over $2 billion since the war’s start eight weeks ago. Biden also said the U.S. will no longer allow Russian-affiliated ships to enter American ports. ([New York Times](https://www.nytimes.com/2022/04/21/world/europe/biden-ukraine-aid.html) / [Washington Post](https://www.washingtonpost.com/world/2022/04/21/russia-ukraine-war-news-mariupol-live-updates/#link-JVLVCYP4YRDNJKY64YOQ3IFOJE) / [Associated Press](https://apnews.com/article/russia-ukraine-war-biden-announces-new-military-aid-e78a7db76215a84f86586bb56122cd04) / [Wall Street Journal](https://www.wsj.com/articles/biden-says-u-s-to-send-ukraine-800-million-in-military-aid-11650550623))

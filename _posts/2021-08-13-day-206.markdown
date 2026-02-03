@@ -3,6 +3,10 @@ title: Day 206
 date: 2021-08-13 17:06:00 -07:00
 categories:
 - biden
+tags:
+- russia
+- covid
+- congress
 description: Moderates.
 image: "/uploads/day-206-081321.jpg"
 todayInOneSentence: Russia is once again trying to interfere in U.S. elections; the
@@ -12,10 +16,6 @@ todayInOneSentence: Russia is once again trying to interfere in U.S. elections; 
   and nine Democrats in the House say they'll block a budget vote until the infrastructure
   bill passes.
 author: Joe Amditis
-tags:
-- russia
-- covid
-- congress
 ---
 
 1/ **New intelligence reports indicate Russia is making fresh efforts to interfere in the 2022 election**. The Biden administration is receiving regular intelligence reports indicating Russian efforts to interfere in US elections are evolving and ongoing, current and former officials say, and in fact, never stopped, despite President Joe Biden's warnings to Russian President Vladimir Putin over the summer and a new round of sanctions imposed in the spring. ([CNN](https://www.cnn.com/2021/08/13/politics/intel-report-russia-election-interference-2022/index.html))

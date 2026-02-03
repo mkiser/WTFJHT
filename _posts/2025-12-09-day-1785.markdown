@@ -1,6 +1,11 @@
 ---
 title: Day 1785
 date: 2025-12-09 13:57:00 -08:00
+tags:
+- foreign-policy
+- ukraine
+- energy
+- tech-policy
 description: '"A colossal economic and national security failure."'
 image: "/uploads/day1785trump.jpg"
 todayInOneSentence: 'Trump called Europe "weak" and “decaying,” warning that some
@@ -18,11 +23,6 @@ todayInOneSentence: 'Trump called Europe "weak" and “decaying,” warning that
   plan; and Texas announced a partnership with Turning Point USA to establish “Club
   America” chapters in every high school in the state and warned schools not to block
   the clubs. '
-tags:
-- foreign-policy
-- ukraine
-- energy
-- tech-policy
 ---
 
 1/ **Trump called Europe "weak" and “decaying,” warning that some countries may no longer be “viable”** while praising authoritarian leaders like Hungary’s Viktor Orbán and Turkey’s Recep Tayyip Erdoğan. In an interview with Politico, Trump argued that immigration and political correctness, not Russia, are Europe’s real threat, bragged that “NATO calls me ‘Daddy’,” questioned further NATO expansion, and said Ukraine is losing the war and President Volodymyr Zelenskyy must “start accepting things.” At the same time, Trump gave his economic performance an “A-plus-plus-plus-plus-plus” grade, made support for immediate interest rate cuts a litmus test for his next Federal Reserve chair, floated more targeted tariff carveouts while promising higher duties elsewhere, and refused to say whether he will back extending expiring Affordable Care Act subsidies that would prevent premium hikes. Democrats, meanwhile, accused Trump of “dishonor[ing] the decades-long bipartisan commitment” to NATO and Ukraine and of misunderstanding that “Putin is driving this war.” ([Politico](https://www.politico.com/news/2025/12/09/trump-dasha-burns-interview-europe-immigration-ukraine-00682016) / [The Guardian](https://www.theguardian.com/us-news/2025/dec/09/trump-hints-walking-away-ukraine-calls-europe-weak-decaying) / [New York Times](https://www.nytimes.com/2025/12/09/us/politics/trump-europe-decaying-weak-ukraine.html) / [Axios](https://www.axios.com/2025/12/09/trump-europe-decaying-orban-erdogan-interview))

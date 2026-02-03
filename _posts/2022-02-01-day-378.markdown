@@ -3,6 +3,10 @@ title: Day 378
 date: 2022-02-01 14:38:00 -08:00
 categories:
 - biden
+tags:
+- economy
+- covid
+- indictment
 description: '"Dead."'
 image: "/uploads/day-378-biden.jpg"
 todayInOneSentence: Joe Manchin called Biden’s $2 trillion Build Back Better plan
@@ -15,10 +19,6 @@ todayInOneSentence: Joe Manchin called Biden’s $2 trillion Build Back Better p
   college votes from several states that Biden won; and some of the Trump White House
   documents preserved by the National Archives had been ripped up and then taped back
   together.
-tags:
-- economy
-- covid
-- indictment
 ---
 
 1/ **Joe Manchin called Biden’s $2 trillion Build Back Better plan “dead.”** When asked about the legislation, Manchin replied: “What Build Back Better bill? It’s dead.” Manchin, however, has said he remains open to a smaller bill aimed at reducing carbon emissions, creating free pre-Kindergarten programs, and increasing federal health care subsidies, but that he hasn't yet taken part in any negotiations with the White House. In December, Manchin abruptly announced his opposition to the 10-year, roughly $2 trillion social and climate spending package, which had already passed the House. ([Associated Press](https://apnews.com/article/joe-biden-business-environment-and-nature-environment-joe-manchin-c2e743dbb3978a9e780779fa4fec09b7) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-02-01/manchin-says-biden-plan-dead-talks-must-start-from-scratch?sref=MIBMEEoj) / [NBC News](https://www.nbcnews.com/politics/congress/manchin-says-build-back-better-its-current-form-dead-leaves-n1288359))

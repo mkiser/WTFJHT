@@ -3,6 +3,13 @@ title: Day 981
 date: 2023-09-27 14:43:00 -07:00
 categories:
 - biden
+tags:
+- government-shutdown
+- indictment
+- tech-policy
+- covid
+- lawsuit
+- debate
 description: '"Total annihilation."'
 image: "/uploads/day-981-biden.jpg"
 todayInOneSentence: A federal government shutdown looks increasingly likely as Kevin
@@ -14,13 +21,6 @@ todayInOneSentence: A federal government shutdown looks increasingly likely as K
   – nearly 7% of all U.S. adults – have had long COVID; Hunter Biden sued Rudy Giuliani
   and his former attorney, claiming they violated computer fraud and data access laws;
   and the second Republican debate will take place at 9 p.m. ET today.
-tags:
-- government-shutdown
-- indictment
-- tech-policy
-- covid
-- lawsuit
-- debate
 ---
 
 1/ **A federal government shutdown looks increasingly likely as Kevin McCarthy lacks the votes needed to pass a short-term spending bill and House Republicans have indicated they won't consider the Senate's bipartisan plan to fund the government**. Far-right conservatives in the House have pushed for deep spending cuts – that won't pass the Democratic-controlled Senate – while also threatening to remove McCarthy as speaker. And although the Senate advanced a bipartisan continuing resolution, McCarthy rejected the idea because the proposal contains aid to Ukraine, which a number of House Republicans oppose. The Senate bill, however, would likely pass the House with Democratic votes, but McCarthy would risk fracturing the Republican conference that has repeatedly threatened to remove him as speaker. The government will shut down at 12:01 a.m. ET Sunday if Congress doesn't pass a funding bill. ([Washington Post](https://www.washingtonpost.com/business/2023/09/27/government-shutdown-house-rejects-senate-spending-bill/) / [Associated Press](https://apnews.com/article/government-shutdown-mccarthy-biden-trump-18ef8a03363d31742c5b4c5ecb23506f) / [The Hill](https://thehill.com/homenews/house/4225849-mccarthy-told-conference-he-wont-allow-vote-on-senate-stopgap-gop-lawmakers/) / [CNN](https://www.cnn.com/2023/09/27/politics/government-shutdown-negotiations-latest/) / [NBC News](https://www.nbcnews.com/politics/congress/live-blog/government-shutdown-begin-sunday-live-updates-rcna105685) / [Wall Street Journal](https://www.wsj.com/politics/policy/standoff-in-congress-brings-government-to-brink-of-shutdown-97d1ddcd) / [Politico](https://www.politico.com/live-updates/2023/09/27/congress/mccarthys-spending-strategy-falls-flat-00118384))

@@ -3,6 +3,10 @@ title: Day 1232
 date: 2024-06-04 15:19:00 -07:00
 categories:
 - biden
+tags:
+- jan-6
+- immigration
+- israel-palestine
 description: '"Will not be intimidated."'
 image: "/uploads/day-1232-biden.jpg"
 todayInOneSentence: 'Wisconsin charged three people involved in the “fake elector”
@@ -16,10 +20,6 @@ todayInOneSentence: 'Wisconsin charged three people involved in the “fake elec
   threshold; and Biden suggested that there is "every reason for people" to conclude
   that Israeli Prime Minister Benjamin Netanyahu is dragging out the war in Gaza to
   cling to power. '
-tags:
-- jan-6
-- immigration
-- israel-palestine
 ---
 
 1/ **Wisconsin charged three people involved in the “fake elector” scheme to overturn the results of the 2020 election to keep now-convicted felon Trump in office**. Attorney General Josh Kaul charged Kenneth Chesebro, Jim Troupis, and Michael Roman with one felony count each of conspiracy to commit forgery. The three will make their initial appearances in Dane County Circuit Court on Sept. 19. Each charge carries a sentence of up to six years in prison and a fine of up to $10,000. Chesebro is also one of the 18 co-defendants named in Trump’s criminal racketeering case in Georgia. Similar slates of fake electors to overturn the results of the 2020 election to keep Trump in office were organized in several states and charges have been brought in Arizona, Michigan, Nevada, and Georgia. ([Washington Post](https://www.washingtonpost.com/politics/2024/06/04/wisconsin-charges-2020-trump-electors/) / [New York Times](https://www.nytimes.com/2024/06/04/us/politics/wisconsin-charges-3-trump-allies-in-fake-electors-scheme.html) / [CNN](https://www.cnn.com/2024/06/04/politics/wisconsin-2020-fake-electors-scheme/) / [Associated Press](https://apnews.com/article/wisconsin-fake-electors-trump-2020-charges-77d00919fc8d8e07438076610090a9b1) / [CBS News](https://www.cbsnews.com/news/wisconsin-fake-elector-trump-allies-charged/) / [NBC News](https://www.nbcnews.com/politics/2024-election/key-trump-allies-charged-fake-electors-scheme-wisconsin-rcna155395) / [Politico](https://www.politico.com/news/2024/06/04/trump-operatives-charged-wisconsin-2020-election-00161436) / [Axios](https://www.axios.com/2024/06/04/kenneth-chesebro-wisconsin-2020-election-trump))

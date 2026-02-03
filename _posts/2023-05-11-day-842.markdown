@@ -3,6 +3,11 @@ title: Day 842
 date: 2023-05-11 13:41:00 -07:00
 categories:
 - biden
+tags:
+- immigration
+- climate
+- energy
+- disinformation
 description: '"It''s hard to see how America was served by the spectacle of lies that
   aired on CNN."'
 image: "/uploads/day-842-biden.jpg"
@@ -15,11 +20,6 @@ todayInOneSentence: The pandemic-era border policy used more than 2.8 million ti
   her first Judiciary Committee meeting since she was hospitalized with shingles in
   February; and in a hypothetical 2024 matchup, 44% of voters said they'd vote for
   Trump while 38% said they'd vote for Biden.
-tags:
-- immigration
-- climate
-- energy
-- disinformation
 ---
 
 1/ **The pandemic-era border policy used more than 2.8 million times to quick expel migrants without providing asylum hearings expires tonight**. The Trump administration invoked the use of Title 42 as a Covid-19 precaution in March 2020. The Biden administration will revert to processing illegal border crossings as was done before the pandemic under Title 8 of the U.S. Code, which carries strict penalties, including five- and 10-year bans on reentry for those deported. Migrants, however, are being offered new legal pathways to enter the country if they apply online and meet certain conditions. Homeland Security officials predict as many as 13,000 migrants per day will try to cross into the U.S. after Title 42 expires – up from about 6,000 on a typical day. ([New York Times](https://www.nytimes.com/live/2023/05/11/us/title-42-immigration) / [Wall Street Journal](https://www.wsj.com/articles/migrant-influx-overwhelms-southern-border-as-title-42-winds-down-da4e1e99?mod=hp_lead_pos6) / [ABC News](https://abcnews.go.com/Politics/title-8-immigration-law/story?id=99226848) / [NBC News](https://www.nbcnews.com/news/latino/live-blog/live-updates-title-42-immigration-policy-set-expire-midnight-rcna83908) / [Associated Press](https://apnews.com/article/immigration-border-title-42-mexico-asylum-8c239766c2cb6e257c0220413b8e9cf9))

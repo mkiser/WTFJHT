@@ -3,6 +3,11 @@ title: Day 1161
 date: 2024-03-25 13:18:00 -07:00
 categories:
 - biden
+tags:
+- israel-palestine
+- indictment
+- lawsuit
+- reproductive-rights
 description: '"A bit surprising and unfortunate."'
 image: "/uploads/day-1161-biden.jpg"
 todayInOneSentence: The U.N. Security Council passed a resolution demanding an immediate
@@ -14,11 +19,6 @@ todayInOneSentence: The U.N. Security Council passed a resolution demanding an i
   Johnson after the House passed a $1.2 trillion government funding deal with mostly
   Democratic votes; and the Supreme Court will hear arguments this week on whether
   to roll back the availability of the abortion pill mifepristone.
-tags:
-- israel-palestine
-- indictment
-- lawsuit
-- reproductive-rights
 ---
 
 1/ **The U.N. Security Council passed a resolution demanding an immediate ceasefire in Gaza during the month of Ramadan and the release of all hostages**. The U.S., however, abstained, which allowed the resolution to pass 14-0. This is the first ceasefire resolution to pass after four previous failures: The U.S. has vetoed three previous resolutions since the conflict began, while Russia and China vetoed a U.S.-sponsored resolution last week. After the resolution passed, Prime Minister Benjamin Netanyahu accused the U.S. of “retreating” from a “principled position” and that the U.S. abstention “harms the war effort as well as the effort to liberate the hostages.” Netanyahu then canceled a diplomatic visit to Washington, which Biden had requested to discuss Netanyahu’s planned ground invasion of Rafah. The U.S. had intended to use the meeting to offer alternatives to reduce civilian casualties. The State Department called the decision “a bit surprising and unfortunate.” ([NPR](https://www.npr.org/2024/03/25/1240669997/united-nations-security-council-cease-fire-resolution-gaza-israel-war) / [New York Times](https://www.nytimes.com/live/2024/03/25/world/israel-hamas-war-gaza-news) / [Wall Street Journal](https://www.wsj.com/world/middle-east/hostage-talks-stall-as-israeli-defense-minister-arrives-in-washington-ea36821d?mod=hp_lead_pos3) / [NBC News](https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna144870) / [CNN](https://www.cnn.com/2024/03/25/middleeast/un-security-council-gaza-israel-ceasefire-intl/index.html) / [Politico](https://www.politico.com/news/2024/03/25/us-un-resolution-cease-fire-row-with-israel-00148813) / [Washington Post](https://www.washingtonpost.com/world/2024/03/25/israel-hamas-war-news-gaza-palestine/) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-03-25/un-security-council-demands-gaza-cease-fire-as-the-us-abstains?sref=MIBMEEoj) / [Associated Press](https://apnews.com/article/un-gaza-ceasefire-resolution-vote-ramadan-b7985fede65e5477aba2c8d2e62a6632) / [Axios](https://www.axios.com/2024/03/25/gaza-ceasefire-resolution-un-security-council-veto))

@@ -3,6 +3,10 @@ title: Day 930
 date: 2023-08-07 15:39:00 -07:00
 categories:
 - biden
+tags:
+- jan-6
+- indictment
+- lawsuit
 description: '"Deranged."'
 image: "/uploads/day-930-biden-trump-indictments.jpg"
 todayInOneSentence: 'Special counsel Jack Smith asked a federal judge to place Trump
@@ -14,10 +18,6 @@ todayInOneSentence: 'Special counsel Jack Smith asked a federal judge to place T
   and unconstitutional means; 59% of Americans think the multiple indictments and
   investigations against Trump are an effort to stop his 2024 campaign; and 69% of
   Republicans say Biden’s win was not legitimate.'
-tags:
-- jan-6
-- indictment
-- lawsuit
 ---
 
 1/ **Special counsel Jack Smith asked a federal judge to place Trump under a protective order after Trump posted a message to his social media platform saying: “IF YOU GO AFTER ME, I’M COMING AFTER YOU!”** Prosecutors said Trump's post “specifically or by implication” referenced those involved in his criminal case, which "could have a harmful chilling effect on witnesses." Prosecutors also raised concerns that Trump might improperly share evidence in the case on his social media account. The message was posted hours after Trump swore in court that he would not attempt to intimidate witnesses. A protective order would limit what Trump could publicly say about the case. Trump, [meanwhile](https://www.axios.com/2023/08/07/trump-protective-order-jan-6-doj), asked for narrower limits on the protective order, arguing that "the government seeks to restrict First Amendment rights." ([Axios](https://www.axios.com/2023/08/05/trump-jan-6-public-comments-doj) / [NBC News](https://www.nbcnews.com/politics/justice-department/special-counsel-cites-threatening-trump-post-request-protective-order-rcna98288) / [The Hill](https://thehill.com/regulation/court-battles/4138737-doj-prosecutors-request-protective-order-in-trump-election-case/) / [Politico](https://www.politico.com/news/2023/08/04/feds-alert-judge-to-trumps-if-you-go-after-me-im-coming-after-you-post-00109944) / [ABC News](https://abcnews.go.com/Politics/special-counsel-alerts-court-trumps-social-media-post/story?id=102037053) / [CNN](https://www.cnn.com/2023/08/06/politics/trump-legal-team-protective-order/index.html))

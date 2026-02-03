@@ -3,6 +3,10 @@ title: Day 734
 date: 2019-01-23 08:47:00 -08:00
 categories:
 - trump
+tags:
+- russia
+- mueller-investigation
+- oversight
 description: Unforced errors.
 image: "/uploads/734.jpg"
 todayInOneSentence: Giuliani claimed that "no plans were ever made" for Trump Tower
@@ -11,10 +15,6 @@ todayInOneSentence: Giuliani claimed that "no plans were ever made" for Trump To
   "furious" with Giuliani; Michael Cohen indefinitely postponed his plan to testify
   before Congress; and Pelosi blocked Trump from delivering the State of the Union
   from the House chamber.
-tags:
-- russia
-- mueller-investigation
-- oversight
 ---
 
 1/ **Rudy Giuliani claimed that "no plans were ever made" for Trump Tower Moscow, despite hundreds of pages of business documents, emails, text messages, and architectural plans proving otherwise**. For instance, by September 2015, an architect had completed plans for a 100 story high tower, and when Trump signed a finalized letter of intent on Oct. 28 2015, the tower would have "approximately 250 first class, luxury residential condominiums" and "approximately 15 floors" and contain "not fewer than 150 hotel rooms." The Trump team also considered an option to open "The Spa By Ivanka Trump," as well as giving a "$50 million penthouse to Putin." Trump's lawyer characterized this by saying "the proposal was in the earliest stage" and later adding "There were no drafts. Nothing in the file." ([BuzzFeed News](https://www.buzzfeednews.com/article/azeenghorayshi/here-are-the-trump-moscow-plans))

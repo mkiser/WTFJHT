@@ -1,6 +1,11 @@
 ---
 title: Day 1597
 date: 2025-06-04 15:29:00 -07:00
+tags:
+- economy
+- tariffs
+- foreign-policy
+- healthcare
 description: '"A very bad situation."'
 image: "/uploads/day1597trump.jpg"
 todayInOneSentence: 'Trump’s tax and spending bill would add $2.4 trillion to the
@@ -16,11 +21,6 @@ todayInOneSentence: 'Trump’s tax and spending bill would add $2.4 trillion to 
   “within 24 hours” of taking office; and the Trump administration revoked federal
   guidance requiring hospitals to provide emergency abortions when needed to stabilize
   a patient’s condition. '
-tags:
-- economy
-- tariffs
-- foreign-policy
-- healthcare
 ---
 
 1/ **Trump’s tax and spending bill would add $2.4 trillion to the federal deficit and push 10.9 million more Americans off health insurance by 2034**, according to a new estimate by the Congressional Budget Office. The bill extends Trump’s 2017 tax cuts, eliminates taxes on tips, and imposes deep cuts to Medicaid and the Affordable Care Act. The CBO projects $3.7 trillion in lost revenue and $1.3 trillion in spending cut – a $2.4 trillion increase in the deficit. The agency also said 7.8 million people would lose Medicaid coverage, including 5.2 million under new work requirements, and another 1.4 million would lose coverage due to immigration restrictions. Speaker Mike Johnson, nevertheless, dismissed the findings, saying, “We’re not buying the CBO estimates,” while Sen. Ron Johnson called the package “grotesque” and said: “I refuse to accept $2 trillion-plus deficits as far as the eye can see as the new normal.” Trump, meanwhile, continues to demand passage by July 4, while Elon Musk [urged](https://www.washingtonpost.com/politics/2025/06/04/trump-presidency-news/#link-32HRCV5IWNFLZCBCFCRYRSRBR4) his followers to call their lawmakers and encourage them to “KILL the BILL.”([Associated Press](https://apnews.com/article/cbo-deficits-tax-cuts-trumps-big-beautiful-bill-64d7de49aef62ba07b7f6f45c1ca73d1) / [ABC News](https://abcnews.go.com/Politics/trumps-big-beautiful-bill-projected-add-24-trillion/story?id=122488067) / [New York Times](https://www.nytimes.com/2025/06/04/us/politics/trump-policy-bill-deficit-estimate.html) / [Wall Street Journal](https://www.wsj.com/politics/policy/senate-trump-tax-bill-deficit-cbo-b4b0a70a) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-06-04/cbo-says-republican-tax-bill-adds-2-4-trillion-to-us-deficits) / [Politico](https://www.politico.com/news/2025/06/04/house-gop-gets-megabills-official-price-tag-2-4t-00384596) / [NBC News](https://www.nbcnews.com/politics/congress/gop-bill-trumps-agenda-add-24-trillion-debt-budget-office-says-rcna210749) / [CNBC](https://www.cnbc.com/2025/06/04/trump-tax-bill-debt.html))

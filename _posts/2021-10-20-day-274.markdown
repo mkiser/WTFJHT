@@ -3,6 +3,10 @@ title: Day 274
 date: 2021-10-20 15:34:00 -07:00
 categories:
 - biden
+tags:
+- voting-rights
+- economy
+- jan-6
 description: '"The same rotten core."'
 image: "/uploads/day-274-biden.jpg"
 todayInOneSentence: Senate Republicans blocked a federal voting rights bill for the
@@ -14,10 +18,6 @@ todayInOneSentence: Senate Republicans blocked a federal voting rights bill for 
   the Trump administration discussed sending 250,000 troops to the southwest border
   at the start of the coronavirus pandemic; and 78% of Republicans say they want to
   see Trump run for president in 2024.
-tags:
-- voting-rights
-- economy
-- jan-6
 ---
 
 1/ **Senate Republicans blocked a federal voting rights bill for the third time**. All 50 Republicans voted against bringing the Freedom to Vote Act to the floor, a compromise version of the For the People Act, which Joe Manchin helped negotiate in an effort to win Republican support. Democrats remain at least 10 votes short of the 60 needed to overcome a filibuster to advance the bill without changing the Senate filibuster rule. Kyrsten Sinema and Manchin, however, remain reluctant to change the filibuster rules, saying any election overhaul needs bipartisan support. “If there’s anything worthy of the Senate’s attention, if there’s any issue that merits debate on this floor, it’s protecting our democracy from the forces that are trying to unravel it from the inside out,” Chuck Schumer said after switching his vote to “no” at the last moment in order to allow him to request another vote in the future. The Freedom to Vote Act would set federal standards for early and mail-in voting, allow for same-day voter registration, make Election Day a national holiday, and mandate that voters provide some form of identification before casting a ballot. Mitch McConnell, meanwhile, denounced the compromise legislation, saying: “The same rotten core is all still there." ([New York Times](https://www.nytimes.com/2021/10/20/us/senate-voting-rights-filibuster.html) / [Washington Post](https://www.washingtonpost.com/politics/voting-rights-manchin-senate/2021/10/20/caba5168-31a6-11ec-a1e5-07223c50280a_story.html) / [NBC News](https://www.nbcnews.com/politics/congress/senate-vote-major-voting-rights-bill-republicans-promise-block-n1281966) / [ABC News](https://abcnews.go.com/Politics/senate-republicans-defeat-voting-rights-reform-bill/story?id=80643465) / [CBS News](https://www.cbsnews.com/news/freedom-to-vote-act-senate-voting-rights/))

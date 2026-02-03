@@ -3,6 +3,8 @@ title: Day 1155
 date: 2020-03-19 15:42:00 -07:00
 categories:
 - trump
+tags:
+- covid
 description: '"Nobody knew."'
 image: "/uploads/1155.jpg"
 todayInOneSentence: The chairman of the Senate Intelligence Committee warned constituents
@@ -17,8 +19,6 @@ todayInOneSentence: The chairman of the Senate Intelligence Committee warned con
   bandanas or scarves when face masks are not available; and the State Department
   warned Americans against all international travel and advised those abroad to return
   to the U.S. or prepare to shelter in place "for an indefinite timeframe."
-tags:
-- covid
 ---
 
 1/ **The chairman of the Senate Intelligence Committee warned constituents three weeks ago to prepare for dire economic and societal effects from the coronavirus**. "There's one thing that I can tell you about this: It is much more aggressive in its transmission than anything that we have seen in recent history," Sen. Richard Burr said on Feb. 27, according to a secret recording of the remarks. "It is probably more akin to the 1918 pandemic." On that same day, Trump suggested that the virus is "going to disappear. One day, it's like a miracle. It will disappear," before adding, "it could get worse before it gets better. It could maybe go away. We'll see what happens." On Feb 13., Burr sold off between $582,029 and $1.56 million of his holdings despite reassuring the public at the time that the government had the coronavirus outbreak under control. A week later, the stock market began a sharp decline and has lost about 30% since. ([NPR](https://www.npr.org/2020/03/19/818192535/burr-recording-sparks-questions-about-private-comments-on-covid-19) / [Politico](https://www.politico.com/news/2020/03/19/senate-intel-chair-warned-of-coronavirus-disruption-in-private-137407) / [ProPublica](https://www.propublica.org/article/senator-dumped-up-to-1-6-million-of-stock-after-reassuring-public-about-coronavirus-preparedness))

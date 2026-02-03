@@ -3,6 +3,9 @@ title: Day 1134
 date: 2020-02-27 14:41:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- oversight
 description: Muzzled.
 image: "/uploads/1134.jpg"
 todayInOneSentence: A whistleblower alleges that the Department of Health and Human
@@ -14,9 +17,6 @@ todayInOneSentence: A whistleblower alleges that the Department of Health and Hu
   to “corner the market” on a new antidepressant drug that was promoted by a group
   of unofficial advisers at Mar-a-Lago; and 34% of Americans are confident that their
   votes in the presidential election will be accurately counted.
-tags:
-- covid
-- oversight
 ---
 
 1/ **A whistleblower alleges that the Department of Health and Human Services “improperly deployed” more than a dozen workers to coronavirus quarantine locations who were “not properly trained or equipped to operate in a public health emergency situation.”** The complaint alleges that the workers, who were not trained in wearing personal protective equipment, had face-to-face contact with repatriated Americans from China and were potentially exposed to coronavirus. The repatriated Americans were quarantined on military bases in California and Texas because they were considered at high risk for contracting the flu-like illness. The workers, however, returned to their normal duties, with some taking commercial flights back to their offices throughout the country. The complaint states that “appropriate steps were not taken to quarantine, monitor, or test \[the workers\] during their deployment and upon their return home.” ([Washington Post](https://www.washingtonpost.com/health/2020/02/27/us-workers-without-protective-gear-assisted-coronavirus-evacuees-hhs-whistleblower-says/) / [Wall Street Journal](https://www.wsj.com/articles/whistleblower-says-federal-employees-flown-from-coronavirus-sites-didnt-follow-safety-protocols-11582840144) / [New York Times](https://www.nytimes.com/2020/02/27/us/politics/coronavirus-us-whistleblower.html))

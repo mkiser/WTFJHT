@@ -3,6 +3,10 @@ title: Day 915
 date: 2019-07-23 10:19:00 -07:00
 categories:
 - trump
+tags:
+- oversight
+- social-security
+- national-security
 description: Still at it.
 image: "/uploads/915.jpg"
 todayInOneSentence: Trump sued the House Ways and Means Committee and the New York
@@ -13,10 +17,6 @@ todayInOneSentence: Trump sued the House Ways and Means Committee and the New Yo
   new Commission on Unalienable Rights be abolished; and FBI Director Christopher
   Wray said Russia is "absolutely intent" on interfering in the 2020 presidential
   election.
-tags:
-- oversight
-- social-security
-- national-security
 ---
 
 1/ **Trump sued the House Ways and Means Committee and the New York state officials to block his state tax returns from being turned over to the committee**. In May, New York passed a bill that allowed the Ways and Means Committee chairman to obtainTrump's state tax returns. The lawsuit seeks an injunction to would block the application of the new state law. ([CNBC](https://www.cnbc.com/2019/07/23/trump-sues-house-ways-and-means-panel-to-block-disclosure-of-his-tax-returns.html) / [Wall Street Journal](https://www.wsj.com/articles/trump-sues-house-panel-new-york-officials-to-protect-his-state-tax-returns-11563907003) / [CNN](https://www.cnn.com/2019/07/23/politics/trump-sues-tax-returns/index.html))

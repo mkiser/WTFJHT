@@ -3,6 +3,10 @@ title: Day 1343
 date: 2024-09-23 14:11:00 -07:00
 categories:
 - biden
+tags:
+- government-shutdown
+- voting-rights
+- presidential-election
 description: '"Balance of power."'
 image: "/uploads/day-1343-biden-harris.jpg"
 todayInOneSentence: The House unveiled a bipartisan spending bill to temporarily fund
@@ -19,10 +23,6 @@ todayInOneSentence: The House unveiled a bipartisan spending bill to temporarily
   “a small number" of troops to the Middle East following Israeli airstrikes in Lebanon
   on Hezbollah targets that killed at least 490 people, including dozens of women
   and children, and wounded more than 1,645 others.
-tags:
-- government-shutdown
-- voting-rights
-- presidential-election
 ---
 
 1/ **The House unveiled a bipartisan spending bill to temporarily fund the government through Dec. 20**. It doesn’t include the SAVE Act, the Trump-backed election security proposal that would require people to show proof of citizenship to register as a voter. Speaker Mike Johnson plans to vote on the legislation by Wednesday. It would then head to the Senate ahead of the Sept. 30 shutdown deadline. The bill generally funds agencies at current levels, but directs an additional $231 million to the Secret Service. Last week, House Republicans rejected their own funding bill after Trump demanded that the government be shut down if legislation requiring proof of citizenship to register to vote isn’t passed. ([Associated Press](https://apnews.com/article/congress-government-shutdown-trump-johnson-budget-deal-d51de0cd895db687a6f5b35fc0dab13e) / [CBS News](https://www.cbsnews.com/news/government-shutdown-mike-johnson-continuing-resolution-plan/) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-09-22/house-stopgap-funding-proposal-seeks-boost-for-us-secret-service) / [NPR](https://www.npr.org/2024/09/22/nx-s1-5122524/house-government-funding) / [Axios](https://www.axios.com/2024/09/22/house-unveils-three-month-stopgap-funding-bill) / [New York Times](https://www.nytimes.com/2024/09/22/us/congress-spending-deal-johnson.html))

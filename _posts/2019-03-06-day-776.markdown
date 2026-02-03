@@ -3,6 +3,10 @@ title: Day 776
 date: 2019-03-06 10:49:00 -08:00
 categories:
 - trump
+tags:
+- ethics
+- trade
+- judiciary
 description: Unusual.
 image: "/uploads/776.jpg"
 todayInOneSentence: Trump pressured John Kelly and Don McGahn to give Ivanka a security
@@ -10,10 +14,6 @@ todayInOneSentence: Trump pressured John Kelly and Don McGahn to give Ivanka a s
   time Trump issued personal checks to Michael Cohen; the U.S. trade deficit on goods
   ballooned to $891.3 billion in 2018 – the highest ever; and 40% of Florida voters
   believed Trump should be reelected.
-tags:
-- ethics
-- trade
-- judiciary
 ---
 
 1/ **Trump pressured John Kelly and White House counsel Don McGahn to give Ivanka a security clearance against their recommendations.** While Trump does have the legal authority to grant clearances to anyone he wants, those decisions are typically left to the White House personnel security office, which raised concerns. Trump wanted Kelly and McGahn to make the final decision so it wouldn't look like he had a hand in the process. After both of them refused, Trump granted the clearance anyway. ([CNN](https://www.cnn.com/2019/03/05/politics/ivanka-trump-security-clearance-pressure/index.html))

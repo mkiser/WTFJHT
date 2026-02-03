@@ -3,6 +3,10 @@ title: Day 846
 date: 2019-05-15 04:25:00 -07:00
 categories:
 - trump
+tags:
+- oversight
+- foreign-policy
+- reproductive-rights
 description: Escalating tensions.
 image: "/uploads/846.jpg"
 todayInOneSentence: The White House rejected Congress' authority and demands for documents
@@ -12,10 +16,6 @@ todayInOneSentence: The White House rejected Congress' authority and demands for
   with no exceptions for case that involve rape or incest; and Trump Tower is now
   one of the least desirable luxury buildings in New York City.
 author: Joe Amditis
-tags:
-- oversight
-- foreign-policy
-- reproductive-rights
 ---
 
 1/ **The White House rejected Congress' demands for records and staff testimony, saying the investigations amount to an "unauthorized do-over" of the Mueller investigation**. The letter also rejected the committee’s standing to investigate Trump for possible obstruction of justice. "Unfortunately, it appears that you have already decided to press ahead with a duplicative investigation," White House counsel Pat Cipollone wrote. ([NBC News](https://www.nbcnews.com/politics/donald-trump/white-house-rejects-congress-demands-says-investigations-amount-unauthorized-do-n1006016) / [Washington Post](https://www.washingtonpost.com/politics/no-do-over-on-mueller-probe-white-house-lawyer-tells-house-panel-saying-demands-for-records-staff-testimony-will-be-refused/2019/05/15/1ad19728-7715-11e9-b3f5-5673edf2d127_story.html))

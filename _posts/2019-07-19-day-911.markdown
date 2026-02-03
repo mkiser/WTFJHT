@@ -3,6 +3,10 @@ title: Day 911
 date: 2019-07-19 12:16:00 -07:00
 categories:
 - trump
+tags:
+- immigration
+- mueller-investigation
+- nomination
 description: '"The gravity of the president''s misconduct."'
 image: "/uploads/911.jpg"
 todayInOneSentence: The Trump administration is considering admitting zero refugees
@@ -11,10 +15,6 @@ todayInOneSentence: The Trump administration is considering admitting zero refug
   testimony after newly unsealed documents showed "apparent inconsistencies"; and
   the House Intelligence and Judiciary Committees intend to press Robert Mueller to
   tell a "much clearer narrative" about "the gravity of the president's misconduct."
-tags:
-- immigration
-- mueller-investigation
-- nomination
 ---
 
 1/ **The Trump administration is considering admitting zero refugees next year**. The idea was floated during a recent meeting with officials from the Department of Homeland Security, State Department, and the Pentagon. Homeland Security officials at the meeting suggested making the level anywhere from 3,000 to 10,000. The Trump administration cut refugee admissions from 110,000 in fiscal year 2017 to 30,000 in 2018. ([Politico](https://www.politico.com/story/2019/07/18/trump-officials-refugee-zero-1603503) / [CNN](https://www.cnn.com/2019/07/19/politics/trump-admin-zero-refugees/index.html))

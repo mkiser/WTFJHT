@@ -3,15 +3,15 @@ title: Day 886
 date: 2019-06-24 09:00:00 -07:00
 categories:
 - trump
+tags:
+- immigration
+- oversight
 description: Restraint.
 image: "/uploads/886.jpg"
 todayInOneSentence: Trump signed an executive order imposing new sanctions on Iran;
   Trump delayed planned nationwide ICE raids for two weeks; the Trump administration
   stopped promoting dozens of taxpayer-funded studies about the impacts of climate
   change; and nearly 100 internal Trump transition team vetting documents were leaked.
-tags:
-- immigration
-- oversight
 ---
 
 1/ **Trump signed an executive order imposing new, "hard-hitting" sanctions on Iran** in response to the downing of an unmanned U.S. drone last week. The new sanctions will deny Supreme Leader Ayatollah Ali Khamenei and eight Iranian military commanders access to "key financial resources and support." Trump also warned that U.S. "restraint" has limits. ([New York Times](https://www.nytimes.com/2019/06/24/us/politics/iran-sanctions.html) / [Washington Post](https://www.washingtonpost.com/world/iran-warns-us-it-could-down-more-drones-as-pompeo-arrives-in-persian-gulf/2019/06/24/c7d59330-967c-11e9-a027-c571fd3d394d_story.html) / [NBC News](https://www.nbcnews.com/news/world/u-s-set-announce-significant-sanctions-iran-tensions-simmer-n1020856) / [Wall Street Journal](https://www.wsj.com/articles/trump-to-impose-new-sanctions-on-iran-11561391817) / [CNBC](https://www.cnbc.com/2019/06/24/trump-sanctions-iran-over-downed-drone.html))

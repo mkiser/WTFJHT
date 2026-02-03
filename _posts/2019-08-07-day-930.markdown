@@ -3,6 +3,10 @@ title: Day 930
 date: 2019-08-07 10:28:00 -07:00
 categories:
 - trump
+tags:
+- oversight
+- gun-policy
+- civil-rights
 description: Do something.
 image: "/uploads/930.jpg"
 todayInOneSentence: The House Judiciary Committee sued to force former White House
@@ -13,10 +17,6 @@ todayInOneSentence: The House Judiciary Committee sued to force former White Hou
   online message board 8chan was called to testify before Congress after the website
   was linked to the terrorist attack in El Paso; and a U.S. State Department official
   oversaw a Washington, D.C.-area chapter of a white nationalist organization.
-tags:
-- oversight
-- gun-policy
-- civil-rights
 ---
 
 1/ **The House Judiciary Committee sued to force former White House counsel Donald McGahn to testify before Congress**. The Judiciary Committee claimed that McGahn is "the most important witness, other than the president," in their investigation into possible obstruction of justice by Trump. They asked a federal judge to strike down the Trump administration's claim that McGahn and other aides are "absolutely immune" from the committee's subpoenas. McGahn spent more than 30 hours with Robert Mueller's investigators and his name appears more than 500 times in the redacted version of Mueller's report. ([New York Times](https://www.nytimes.com/2019/08/07/us/politics/house-mcgahn-lawsuit.html) / [NBC News](https://www.nbcnews.com/politics/white-house/house-panel-filing-suit-force-testimony-former-trump-white-house-n1039746) / [ABC News](https://abcnews.go.com/Politics/house-democrats-ready-lawsuit-enforce-subpoena-mcgahn-testimony/story?id=64825821))

@@ -3,6 +3,9 @@ title: Day 1075
 date: 2019-12-30 11:09:00 -08:00
 categories:
 - trump
+tags:
+- foreign-policy
+- national-security
 description: Admired.
 image: "/uploads/1075.jpg"
 todayInOneSentence: Acting White House chief of staff Mick Mulvaney was warned that
@@ -11,9 +14,6 @@ todayInOneSentence: Acting White House chief of staff Mick Mulvaney was warned t
   diplomatic effort aimed at removing President Nicolas Maduro from power; Trump's
   tariffs backfired and led to job losses and higher prices; and Trump and Barack
   Obama tied for America's most admired man in 2019.
-tags:
-- foreign-policy
-- national-security
 ---
 
 1/ **Acting White House chief of staff Mick Mulvaney was warned by a senior adviser last summer that he should "expect Congress to become unhinged" if the White House withheld security aid to Ukraine**. In a June 27 email, Mulvaney wrote Robert Blair: "Did we ever find out about the money for Ukraine and whether we can hold it back?" Blair replied that it was possible, but to "Expect Congress to become unhinged" if the White House tried to rescind spending passed by the House and Senate. Blair also warned that withholding the aid could add to the narrative that Trump was pro-Russia. Mulvaney's email came a week after Trump initially asked about holding back the Ukraine assistance and around the same time Rudy Giuliani was pushing Ukraine to conduct internal investigations into Joe Biden and his son. ([New York Times](https://www.nytimes.com/2019/12/29/us/politics/trump-ukraine-military-aid.html) / [CNN](https://www.cnn.com/2019/12/30/politics/mick-mulvaney-robert-blair-ukraine-aid/))

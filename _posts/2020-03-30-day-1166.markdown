@@ -3,6 +3,10 @@ title: Day 1166
 date: 2020-03-30 15:40:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- oversight
+- corruption
 description: Ill informed, misleading, and downright wrong.
 image: "/uploads/1166.jpg"
 todayInOneSentence: The U.S. could see 100,000 to 200,000 coronavirus deaths even
@@ -11,10 +15,6 @@ todayInOneSentence: The U.S. could see 100,000 to 200,000 coronavirus deaths eve
   it hours later; Trump blamed hospitals for the shortage of masks and ventilators;
   Trump bragged about the ratings of his coronavirus task force briefings; and the
   EPA stopped enforcing environmental regulations because of the coronavirus pandemic.
-tags:
-- covid
-- oversight
-- corruption
 ---
 
 1/ **The U.S. could see 100,000 to 200,000 coronavirus deaths even "if we do things almost perfectly."** Dr. Deborah Birx, the White House's coronavirus response coordinator, said "no state, no metro area will be spared from the virus" and the projections by Dr. Anthony Fauci that U.S. deaths could range from 1.6 million to 2.2 million is a worst case scenario if the country did "nothing" to contain the outbreak. Birx added that “we’re not sure all of America is responding in a uniform way.” Dr. Fauci, meanwhile, warned that the COVID-19 outbreak is still on track to overwhelm hospitals and kill tens of thousands of Americans, even with action to slow the spread. ([NBC News](https://www.nbcnews.com/news/us-news/dr-deborah-birx-predicts-200-000-deaths-if-we-do-n1171876) / [TODAY](https://www.today.com/video/dr-deborah-birx-predicts-up-to-200-000-deaths-if-we-do-things-almost-perfectly-81368133527) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-03-29/fauci-warns-100-000-200-000-coronavirus-deaths-possible-in-u-s) / [ABC News](https://abcnews.go.com/Politics/coronavirus-government-response-updates-trump-extends-guidelines-april/story?id=69871923) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/03/29/823517467/fauci-estimates-that-100-000-to-200-000-americans-could-die-from-the-coronavirus))

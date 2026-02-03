@@ -3,6 +3,11 @@ title: Day 839
 date: 2023-05-08 15:00:00 -07:00
 categories:
 - biden
+tags:
+- debt-ceiling
+- criminal-justice
+- jan-6
+- covid
 description: '"Calamity."'
 image: "/uploads/day-839-biden.jpg"
 todayInOneSentence: Treasury Secretary Janet Yellen warned that the only way for the
@@ -15,11 +20,6 @@ todayInOneSentence: Treasury Secretary Janet Yellen warned that the only way for
   civil battery and defamation trial against Trump; the World Health Organization
   declared Covid-19 the global public health emergency over; and 47% of Democrats
   want the party to nominate “someone other than Biden.”
-tags:
-- debt-ceiling
-- criminal-justice
-- jan-6
-- covid
 ---
 
 1/ **Treasury Secretary Janet Yellen warned that the only way for the U.S. to avoid an unprecedented default is for Congress to pass legislation to raise the debt ceiling**, saying there are “no good options” and “these negotiations should not take place with a gun \[...\] to the head of the American people.” Yellen urged congressional Republicans to drop their demand that Biden cut spending in exchange for raising the debt limit, saying failure to raise the debt ceiling will cause a “steep economic downturn” and "economic calamity" in the U.S. The U.S. is projected to default on its debt as early as June 1. Some legal experts contend that the White House can ignore Congress and invoke the 14th Amendment, which says “the validity of the public debt, authorized by law \[...\] shall not be questioned,” to keep borrowing money past the limit, and to issue more federal debt to keep the government funded. Yellen, however, said invoking the 14th Amendment to get around the debt ceiling would risk a "constitutional crisis." Biden and the Democrats, meanwhile, say Congress should simply increase the borrowing limit, which Republicans have refused unless it also cuts future federal spending. Some 43 Senate Republicans, including Minority Leader Mitch McConnell, say they oppose a "clean" debt limit bill and support the Kevin McCarthy's “spending cuts and structural budget reform as a starting point for negotiations on the debt ceiling.” Democrats do not have the votes to overcome a Republican filibuster on legislation in the Senate. ([Washington Post](https://www.washingtonpost.com/politics/2023/05/07/yellen-gop-biden-debt-ceiling/) / [ABC News](https://abcnews.go.com/Politics/14th-amendment-solve-debt-ceiling-crisis-good-option/story?id=99140989) / [Politico](https://www.politico.com/news/2023/05/07/senate-republicans-debt-ceiling-mike-lee-00095686) / [NPR](https://www.npr.org/2023/05/08/1174703720/debt-ceiling-standoff-economic-calamity-yellen) / [CNBC](https://www.cnbc.com/2023/05/07/yellen-warns-of-economic-chaos-unless-congress-resolves-debt-ceiling.html) / [Washington Post](https://www.washingtonpost.com/business/2023/05/08/debt-ceiling-14th-amendment-biden/) / [New York Times](https://www.nytimes.com/2023/05/08/us/politics/biden-mccarthy-debt-limit-meeting.html) / [ABC News](https://abcnews.go.com/Politics/biden-mccarthy-face-time-crunch-reach-debt-ceiling/story?id=99109305))

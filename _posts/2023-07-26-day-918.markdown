@@ -3,6 +3,10 @@ title: Day 918
 date: 2023-07-26 15:47:00 -07:00
 categories:
 - biden
+tags:
+- lawsuit
+- criminal-justice
+- economy
 description: '"A long way to go."'
 image: "/uploads/day-918-biden.jpg"
 todayInOneSentence: 'Rudy Giuliani conceded that he made "false" and defamatory statements
@@ -12,10 +16,6 @@ todayInOneSentence: 'Rudy Giuliani conceded that he made "false" and defamatory 
   Federal Reserve raised interest rates to the highest level in 22 years; and a former
   national intelligence official turned-whistleblower testified that the U.S. is concealing
   a longstanding program that retrieves and reverse engineers UFOs. '
-tags:
-- lawsuit
-- criminal-justice
-- economy
 ---
 
 1/ **Rudy Giuliani conceded that he made "false" and defamatory statements that two Georgia election workers had mishandled ballots while counting votes in Atlanta during the 2020 election**. Although Giuliani is no longer contesting the accusations by Ruby Freeman and Shaye Moss, he argued that his false claims were "constitutionally protected" speech and didn't damage the women. In 2021, Freeman and Moss sued Giuliani, accusing him of defaming them when he falsely claimed they had engaged in fraud while counting ballots at State Farm Arena in Atlanta. The lawsuit also accused Giuliani of promoting a selectively edited video that purportedly showed the two women manipulating ballots, which made them the targets of a conspiracy theory spread by Trump and his allies. ([Associated Press](https://apnews.com/article/giuliani-georgia-election-workers-lawsuit-false-statements-afc64a565ee778c6914a1a69dc756064) / [NPR](https://www.npr.org/2023/07/26/1190173929/rudy-giuliani-georgia-election-workers) / [CNN](https://www.cnn.com/2023/07/26/politics/rudy-giuliani-georgia-election-workers/index.html) / [Washington Post](https://www.washingtonpost.com/politics/2023/07/26/rudy-giuliani-false-statements-georgia/) / [New York Times](https://www.nytimes.com/2023/07/26/us/politics/giuliani-georgia-election-workers.html) / [NBC News](https://www.nbcnews.com/politics/2020-election/rudy-giuliani-concedes-made-false-statements-georgia-election-workers-rcna96395) / [Wall Street Journal](https://www.wsj.com/articles/rudy-giuliani-says-he-wont-contest-that-he-made-false-statements-ad706fd6?mod=hp_lista_pos1))

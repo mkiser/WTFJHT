@@ -3,15 +3,15 @@ title: Day 179
 date: 2017-07-17 08:01:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- healthcare
+- russia
 description: White collar crimes.
 image: "/public/179-f.jpg"
 seo:
   type: NewsArticle
 layout: post
-tags:
-- mueller-investigation
-- healthcare
-- russia
 ---
 
 1/ **The Trump reelection campaign paid $50,000 to Trump Jr.'s attorney two weeks before the release of his emails**. Alan Futerfas started representing Trump Jr. on July 10th, but was paid at least $50,000 on June 27th. Futerfas’s expertise is in white collar criminal defense, not political or election law. In total, Trump disclosed $677,826 in payments described as “legal consulting” between April and June. ([Politico](http://www.politico.com/story/2017/07/15/trump-campaign-paid-jr-attorney-240592) / [The Daily Beast](http://www.thedailybeast.com/trump-campaign-paid-don-jrs-lawyer-dollar50000-two-weeks-before-email-scandal))

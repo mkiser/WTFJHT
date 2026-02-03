@@ -3,6 +3,10 @@ title: Day 1199
 date: 2024-05-02 14:22:00 -07:00
 categories:
 - biden
+tags:
+- presidential-election
+- indictment
+- national-security
 description: '"What have we done."'
 image: "/uploads/day-1199-biden.jpg"
 todayInOneSentence: 'Trump refused to unconditionally accept the results of the 2024
@@ -12,10 +16,6 @@ todayInOneSentence: 'Trump refused to unconditionally accept the results of the 
   is continuing to violate his gag order; Biden defended "the right to protest but
   not the right to cause chaos," demanding that “order must prevail”; and the U.S.
   accused Russia of using chemical weapons against Ukrainian soldiers. '
-tags:
-- presidential-election
-- indictment
-- national-security
 ---
 
 1/ **Trump refused to unconditionally accept the results of the 2024 presidential election if he doesn’t win**. In an interview with the Milwaukee Journal Sentinel, Trump said he was prepared "to fight for the right of the country" – an echo to his speech on the Ellipse on Jan. 6, where he [urged](https://whatthefuckjusthappenedtoday.com/2021/01/12/day-1454/#1-trump-refused-to-take-responsibili) his supporters to "fight like hell" and march to the Capitol. “If everything’s honest," Trump added, "I’ll gladly accept the results." In 2020, Wisconsin was one of several states where Trump and his allies attempted to undermine election results through baseless accusations of widespread fraud. Nevertheless, Trump repeated his lie that he beat Biden in Wisconsin, saying: “If you go back and look at all of the things that had been found out, it showed that I won the election in Wisconsin. It also showed I won the election in other locations.” ([Milwaukee Journal Sentinel](https://www.jsonline.com/story/news/politics/elections/2024/05/02/trump-doesnt-commit-to-accepting-wisconsin-election-results/73520131007/) / [Reuters](https://www.reuters.com/world/us/trump-warns-he-may-not-accept-wisconsin-election-results-2024-05-02/) / [NBC News](https://www.nbcnews.com/politics/2024-election/trump-wont-commit-accepting-presidential-election-results-rcna150354) / [CNN](https://www.cnn.com/2024/05/02/politics/donald-trump-accept-2024-election-results/index.html) / [New York Times](https://www.nytimes.com/live/2024/05/02/us/biden-trump-campaign) / [Rolling Stone](https://www.rollingstone.com/politics/politics-news/trump-refuses-commit-accepting-2024-election-results-1235013997/))

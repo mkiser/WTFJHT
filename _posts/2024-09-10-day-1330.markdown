@@ -3,6 +3,11 @@ title: Day 1330
 date: 2024-09-10 14:48:00 -07:00
 categories:
 - biden
+tags:
+- government-shutdown
+- national-security
+- voting-rights
+- debate
 description: '"A dangerous escalation."'
 image: "/uploads/day-1330-biden-harris.jpg"
 todayInOneSentence: 'House Speaker Mike Johnson doesn’t have the votes to pass a spending
@@ -13,11 +18,6 @@ todayInOneSentence: 'House Speaker Mike Johnson doesn’t have the votes to pass
   a Holocaust denier on his podcast; 67% of Republicans trust Trump more on the election
   results than the official government-certified results; and Harris and Trump will
   face off for their first presidential debate tonight at 9pm ET on ABC. '
-tags:
-- government-shutdown
-- national-security
-- voting-rights
-- debate
 ---
 
 1/ **House Speaker Mike Johnson doesn’t have the votes to pass a spending bill to avert a government shutdown**. Although the House voted 209-206 to approve a rule to debate the funding plan, which includes the SAVE Act, which would bar noncitizens from registering to vote in federal elections, which is already illegal, at least 10 Republicans have indicated they’ll vote "no." Meaning, Johnson will need Democratic support to pass his plan to push the shutdown deadline into March through the House. Republicans control the House 221-210. The bill, however, is considered dead-on-arrival in the Democratic-controlled Senate with Chuck Schumer saying they’d only take up legislation that is “free of poison pills.” The Biden administration also threatened to veto the measure. Government funding runs out on Sept. 30, but Congress is only in session through Sept. 27. ([Politico](https://www.politico.com/live-updates/2024/09/10/congress) / [NBC News](https://www.nbcnews.com/politics/congress/house-republicans-plan-vote-government-shutdown-bill-trump-rcna170402) / [CNN](https://www.cnn.com/2024/09/10/politics/house-funding-plan-clears-hurdle-risks-failing/index.html) / [New York Times](https://www.nytimes.com/2024/09/10/us/politics/johnson-spending-bill-republicans.html) / [Washington Post](https://www.washingtonpost.com/business/2024/09/10/republicans-defect-government-shutdown/) / [Axios](https://www.axios.com/2024/09/09/mike-johnsons-shutdown-strategy-is-crumbling))

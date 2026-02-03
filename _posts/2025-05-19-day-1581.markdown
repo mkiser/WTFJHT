@@ -1,6 +1,11 @@
 ---
 title: Day 1581
 date: 2025-05-19 13:47:00 -07:00
+tags:
+- congress
+- economy
+- tariffs
+- immigration
 description: '"This isn’t ''The Hunger Games.''"'
 image: "/uploads/day-1581trump.jpg"
 todayInOneSentence: 'House Republicans advanced Trump’s tax and immigration bill in
@@ -17,15 +22,6 @@ todayInOneSentence: 'House Republicans advanced Trump’s tax and immigration bi
   of a Jan. 6 rioter who was shot by Capitol Police while trying to climb through
   a barricaded door near the House chamber as lawmakers were being evacuated during
   the disrupted certification of the 2020 election. '
-tags:
-- congress
-- economy
-- tariffs
-- immigration
-- congress
-- economy
-- immigration
-- tariffs
 ---
 
 1/ **House Republicans advanced Trump’s tax and immigration bill in a 17–16 committee vote after four Republican holdouts dropped their opposition but refused to endorse it** – instead they voted “present.” The move came after closed-door talks over Medicaid work rules and energy cuts, though Rep. Chip Roy warned, “The bill does not yet meet the moment.” The bill, dubbed “The One Big Beautiful Bill,” would extend Trump’s 2017 tax cuts, end taxes on tips and overtime, and direct billions toward defense and immigration. The Committee for a Responsible Federal Budget estimated it would add $3.3 trillion to the debt. The Congressional Budget Office hasn’t released a score and House Republicans acknowledged the bill is still being negotiated. Senate Republicans, meanwhile, have already raised objections. Speaker Mike Johnson, nevertheless, called the outcome a “big win” but admitted “there’s a lot more work to do.” ([NBC News](https://www.nbcnews.com/politics/congress/key-house-committee-advances-trump-agenda-bill-conservatives-rcna207555) / [NPR](https://www.npr.org/2025/05/19/nx-s1-5403378/trump-house-conservatives-budget-bill) / [New York Times](https://www.nytimes.com/2025/05/18/us/politics/house-republicans-budget-vote-trump-agenda.html) / [Washington Post](https://www.washingtonpost.com/politics/2025/05/19/trump-budget-bill-vote/))

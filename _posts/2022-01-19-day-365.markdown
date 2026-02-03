@@ -3,6 +3,11 @@ title: Day 365
 date: 2022-01-19 15:11:00 -08:00
 categories:
 - biden
+tags:
+- voting-rights
+- economy
+- jan-6
+- russia
 description: '"A great misleading of the American people."'
 image: "/uploads/day-365-biden.jpg"
 todayInOneSentence: 'Senate Democrats are pressing ahead on voting rights despite
@@ -14,11 +19,6 @@ todayInOneSentence: 'Senate Democrats are pressing ahead on voting rights despit
   assets to get loans and tax benefits; the House committee investigating the Jan.
   6 attack on the Capitol subpoenaed Rudy Giuliani, Sidney Powell, and two other members
   of Trump''s legal team; and Biden said he expects Putin to invade Ukraine. '
-tags:
-- voting-rights
-- economy
-- jan-6
-- russia
 ---
 
 1/ **Senate Democrats are pressing ahead on voting rights despite unified opposition from Joe Manchin, Kyrsten Sinema, and Senate Republicans**. A vote on voting rights legislation is expected to happen tonight. Republicans are expected to block the bill, which will prompt Chuck Schumer to then hold a vote to change Senate rules to allow for a "talking filibuster" that only covers the voting package, allowing it to pass by a simple majority in the evenly divided Senate. Manchin and Sinema, however, are expected to oppose the proposed changes. Manchin, meanwhile, admonished Democrats' effort to change the filibuster rules in order to pass voting rights legislation, calling it "a great misleading of the American people" and a "perilous course" for the nation, while accusing his Democratic colleagues of trying to take the “easy way out” by "break\[ing\] the rules to change the rules." ([Politico](https://www.politico.com/news/2022/01/19/democrats-senate-rules-change-527366) / [CNN](https://www.cnn.com/2022/01/19/politics/senate-voting-legislation-filibuster/index.html) / [CNBC](https://www.cnbc.com/2022/01/19/senate-vote-on-voting-rights-bills-filibuster-rules-change.html) / [Wall Street Journal](https://www.wsj.com/articles/senate-democrats-brace-for-defeat-on-elections-bill-filibuster-changes-11642617597?mod=politics_lead_pos2) / [New York Times](https://www.nytimes.com/live/2022/01/19/us/biden-voting-rights-filibuster) / [CNN](https://www.cnn.com/politics/live-news/voting-rights-bill-senate-vote-01-19-22/index.html))

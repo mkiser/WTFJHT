@@ -3,6 +3,12 @@ title: Day 965
 date: 2023-09-11 13:56:00 -07:00
 categories:
 - biden
+tags:
+- covid
+- media
+- ethics
+- indictment
+- lawsuit
 description: '"Personal grievances."'
 image: "/uploads/day-965-biden.jpg"
 todayInOneSentence: 'The FDA approved updated Covid-19 vaccines targeting the omicron
@@ -15,12 +21,6 @@ todayInOneSentence: 'The FDA approved updated Covid-19 vaccines targeting the om
   2020 presidential election  recommended criminal indictments for 21 additional people
   who were not ultimately charged; and Trump inflated his net worth by at least $3.6
   billion a year from 2011 to 2021. '
-tags:
-- covid
-- media
-- ethics
-- indictment
-- lawsuit
 ---
 
 1/ **The FDA approved updated Covid-19 vaccines targeting the omicron XBB.1.5 subvariant**. The new vaccines are authorized for people 12 and older and are under emergency use for children 6 months through 11 years old. The CDC is expected to sign off Tuesday on the new boosters,  meaning the vaccines could become available in pharmacies, clinics, and doctor’s offices by the end of the week. (The FDA decides who can get a shot; the CDC that recommends who should get it.) Although the XBB.1.5 subvariant accounts for about 3% of new Covid cases, the new shot does protect against EG.5 – the most prevalent variant at the moment which accounts for about 22% of new cases – and similar variants, health officials said. This is the first time the federal government is not buying all the shots, though most Americans with private health insurance or coverage through Medicare or Medicaid should still be able to get the vaccine for free. The estimated 30 million people without health insurance should still be able to a booster for free at community health centers or through the CDC’s Bridge Access Program. ([Washington Post](https://www.washingtonpost.com/health/2023/09/11/covid-vaccine-new-booster/) / [New York Times](https://www.nytimes.com/2023/09/11/health/covid-vaccine-boosters-fda-pfizer-moderna.html) / [NBC News](https://www.nbcnews.com/health/health-news/fda-clears-new-covid-boosters-5-things-know-rcna102577) / [CNN](https://www.cnn.com/2023/09/11/health/fda-signs-off-on-updated-covid-19-vaccines/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-09-11/updated-covid-vaccines-from-pfizer-and-moderna-approved-by-fda?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/health/healthcare/fda-approves-newest-covid-19-boosters-c69f85e2) / [CNBC](https://www.cnbc.com/2023/09/11/covid-vaccines-fda-approves-new-shots-from-pfizer-moderna.html))

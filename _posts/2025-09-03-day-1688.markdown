@@ -1,6 +1,11 @@
 ---
 title: Day 1688
 date: 2025-09-03 16:40:00 -07:00
+tags:
+- healthcare
+- oversight
+- corruption
+- disinformation
 description: '"This is a train wreck."'
 image: "/uploads/day1687-trump.jpg"
 todayInOneSentence: More than 1,000 current and former HHS employees called on Health
@@ -16,11 +21,6 @@ todayInOneSentence: More than 1,000 current and former HHS employees called on H
   grants; House Republicans voted to form a new subcommittee to re-investigate the
   Jan. 6 attack on the Capitol; and Newsmax sued Fox News.
 redirect_from: "/2025/09/03/day-1687/"
-tags:
-- healthcare
-- oversight
-- corruption
-- disinformation
 ---
 
 1/ **More than 1,000 current and former HHS employees called on Health Secretary Robert F. Kennedy Jr. to resign**, warning he “continues to endanger the nation’s health” and is “compromising the health of this nation.” In a letter to him and Congress, the signatories cited Kennedy’s firing of CDC Director Susan Monarez, the resignations of four senior CDC leaders, and appointments they called “political ideologues who pose as scientific experts.” They urged Trump and Congress to replace him, saying the nation’s health policy must be “informed by independent and unbiased peer-reviewed science.” HHS, meanwhile, responded that “the CDC has been broken for a long time” and that restoring trust will take “sustained reform and more personnel changes,” adding that Kennedy and his team have “accomplished more than any health secretary in history \[...\] to Make America Healthy Again.” ([ABC News](https://abcnews.go.com/Health/1000-current-former-hhs-employees-sign-letter-calling/story?id=125184233) / [CNN](https://www.cnn.com/2025/09/03/health/hhs-employees-letter-rfk-jr) / [Axios](https://www.axios.com/2025/09/03/rfk-jr-resign-hhs-employees-letter-trump-cdc) / [USA Today](https://www.usatoday.com/story/news/politics/2025/09/03/hhs-employees-letter-rfk-jr-resignation/85952068007/) / [The Hill](https://thehill.com/policy/healthcare/5483021-hhs-employees-call-for-rfk-resignation/))

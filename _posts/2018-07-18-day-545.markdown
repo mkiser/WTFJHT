@@ -3,6 +3,10 @@ title: Day 545
 date: 2018-07-18 09:58:00 -07:00
 categories:
 - trump
+tags:
+- russia
+- national-security
+- mueller-investigation
 description: 'Big results. '
 image: "/uploads/545.jpg"
 todayInOneSentence: Trump said "no," he does not believe Russia is still targeting
@@ -12,10 +16,6 @@ todayInOneSentence: Trump said "no," he does not believe Russia is still targeti
   charged with secretly acting as a Russian intelligence official offered "sex in
   exchange" for influence; and Trump's military parade will cost nearly as much as
   the "tremendously expensive" canceled military exercises with South Korea.
-tags:
-- russia
-- national-security
-- mueller-investigation
 ---
 
 1/ **Trump said "no," he does not believe Russia is still targeting the U.S. with efforts to undermine American democracy, contradicting his director of national intelligence**. [Last week](https://whatthefuckjusthappenedtoday.com/2018/07/16/day-543/#4-trump-called-robert-muellers-probe), Dan Coats said that "the digital infrastructure that serves this country is literally under attack." And, in particular, Russia is the "most aggressive foreign actor, no question. And they continue their efforts to undermine our democracy." Coats described Russia as one of the "worst offenders." Sarah Sanders said the Russian "threat still exists" and that Trump was saying "no" to answering more questions. Intelligence officials in the U.S. and U.K. also believe Russia is planning to ramp up digital operations targeting western countries now that the World Cup and the Trump-Putin Helsinki summit have ended. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia/asked-if-russia-still-targeting-u-s-trump-says-no-idUSKBN1K82AV) / [CNN](https://www.cnn.com/2018/07/17/politics/intelligence-agencies-concerned-russian-aggression/index.html) / [New York Times](https://www.nytimes.com/2018/07/18/us/politics/trump-putin-higher-intelligence.html) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-essential-washington-updates-white-house-walks-back-trump-s-comments-1531940736-htmlstory.html))

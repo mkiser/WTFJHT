@@ -1,6 +1,11 @@
 ---
 title: Day 1743
 date: 2025-10-28 16:09:00 -07:00
+tags:
+- government-shutdown
+- healthcare
+- judiciary
+- national-security
 description: '"Whether people like that or not, that''s what we''re doing."'
 image: "/uploads/day1743trump.jpg"
 todayInOneSentence: 'Twenty-five states and the District of Columbia sued the Trump
@@ -15,11 +20,6 @@ todayInOneSentence: 'Twenty-five states and the District of Columbia sued the Tr
   to influence the 2016 presidential election; and House Republicans declared all
   executive actions signed by Biden’s autopen “void” unless proven to have his direct
   approval. '
-tags:
-- government-shutdown
-- healthcare
-- judiciary
-- national-security
 ---
 
 1/ **Twenty-five states and the District of Columbia sued the Trump administration for stopping food stamp payments during the government shutdown**, now in its 28th day. The states asked a federal court to force the Agriculture Department to use roughly $6 billion in contingency funds to keep the Supplemental Nutrition Assistance Program running after Nov. 1, when benefits for 42 million people are set to lapse. The USDA claimed those funds were “not legally available” during a shutdown and blamed Senate Democrats for refusing to pass a stopgap spending bill. House Speaker Mike Johnson, meanwhile, called separate legislation to restore food stamp funding “a waste of our time,” saying Democrats should instead vote to reopen the government. ([New York Times](https://www.nytimes.com/2025/10/28/us/politics/trump-food-stamps-snap-lawsuit.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/states-sue-agriculture-department-snap-benefits-rcna240261) / [CBS News](https://www.cbsnews.com/news/snap-food-stamps-lawsuit-25-states-trump-administration/) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-10-28/trump-administration-sued-over-food-aid-cutoff-during-shutdown) / [Politico](https://www.politico.com/live-updates/2025/10/28/congress/mike-johnson-shutdown-snap-00625211) / [CNBC](https://www.cnbc.com/2025/10/28/trump-snap-benefits-government-shutdown.html) / [NPR](https://www.npr.org/2025/10/27/nx-s1-5587255/snap-benefit-shutdown-contingency-fund-food-stamps) / [The Hill](https://thehill.com/homenews/house/5576931-mike-johnson-dismisses-shutdown-pay-snap-bills/) / [CNN](https://www.cnn.com/2025/10/28/politics/democratic-states-snap-lawsuit) / [Washington Post](https://www.washingtonpost.com/business/2025/10/28/snap-payments-shutdown-lawsuit-trump/))

@@ -3,6 +3,10 @@ title: Day 784
 date: 2019-03-14 10:39:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- oversight
+- lawsuit
 description: Sending a signal.
 image: "/uploads/784.jpg"
 todayInOneSentence: The Senate voted to overturn Trump's national emergency declaration;
@@ -12,10 +16,6 @@ todayInOneSentence: The Senate voted to overturn Trump's national emergency decl
   alleged "back channel" discussion with Rudy Giuliani about the possibility of a
   pardon; and a New York appellate court ruled that a former contestant on The Apprentice
   can proceed with her defamation lawsuit against Trump.
-tags:
-- mueller-investigation
-- oversight
-- lawsuit
 ---
 
 1/ **The Senate voted to overturn Trump's national emergency declaration at the southern border, setting up Trump to issue the first veto of his presidency**. The resolution passed 59-41 – with 12 Republicans joining every Democrat. The measure, which already passed the House, now heads to Trump, who has promised to veto the legislation and effectively kill it. Lawmakers don't have enough votes to override a veto. Ahead of the vote, Trump warned Republicans that "a vote for today's resolution by Republican Senators is a vote for Nancy Pelosi, Crime, and the Open Border Democrats!" After the vote, Trump [tweeted](https://twitter.com/realDonaldTrump/status/1106272915488686080): "VETO!" ([New York Times](https://www.nytimes.com/2019/03/14/us/politics/national-emergency-vote.html)/ [CNBC](https://www.cnbc.com/2019/03/14/senate-votes-to-block-trump-border-wall-national-emergency-declaration.html) / [Washington Post](https://www.washingtonpost.com/politics/trump-renews-veto-threat-as-senate-prepares-to-rebuke-him-on-national-emergency/2019/03/14/2efbea36-4647-11e9-aaf8-4512a6fe3439_story.html) / [Politico](https://www.politico.com/story/2019/03/14/romney-alexander-national-emergency-1221317) / [Associated Press](https://apnews.com/57d35e5635dd47b3a736d2fbe0066e05) / [CNN](https://www.cnn.com/2019/03/14/politics/senate-vote-trump-national-emergency-declaration-resolution/index.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-congress-emergency-idUSKCN1QV1A8) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-vows-veto-resolution-terminating-his-national-emergency-declaration-n983106))

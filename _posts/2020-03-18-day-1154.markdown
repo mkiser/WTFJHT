@@ -3,15 +3,15 @@ title: Day 1154
 date: 2020-03-18 15:27:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- economy
 description: '"Just in case we need it."'
 image: "/uploads/1154.jpg"
 todayInOneSentence: The Senate approved a coronavirus relief package; Treasury Secretary
   Steve Mnuchin warned lawmakers that unemployment could reach as high as 20%; the
   Dow closed below 20,000 points for the first time since February 2017; and 18% of
   Americans have experienced layoffs and reduced hours due to the coronavirus pandemic.
-tags:
-- covid
-- economy
 ---
 
 1/ **The Senate approved a coronavirus relief package to provide sick leave, unemployment benefits, free testing, and food and medical aid to people impacted by the pandemic**. The bill now goes to Trump, who is expected to sign it. The Senate’s approval of the House-passed coronavirus bill, known as “phase two,” comes as senators are expected to begin negotiations on a $1.3 trillion “phase three” stimulus package. ([USA Today](https://www.usatoday.com/story/news/politics/2020/03/18/coronavirus-senate-vote-expected-house-sick-leave-testing-bill/5076063002/) / [Politico](https://www.politico.com/news/2020/03/18/congress-emergency-coronavirus-stimulus-package-135444) / [Washington Post](https://www.washingtonpost.com/business/2020/03/18/trump-coronavirus-economic-plan/) / [CNBC](https://www.cnbc.com/2020/03/18/coronavirus-updates-senate-passes-paid-leave-relief-bill.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-03-18/senate-passes-virus-relief-bill-plans-for-even-bigger-stimulus?srnd=premium&sref=MIBMEEoj))

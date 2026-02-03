@@ -3,6 +3,10 @@ title: Day 1420
 date: 2020-12-09 14:42:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- congress
+- economy
 description: '"That might not go over well."'
 image: "/uploads/1420.jpg"
 todayInOneSentence: The U.S. recorded 2,249 COVID-19 deaths on average over the last
@@ -12,10 +16,6 @@ todayInOneSentence: The U.S. recorded 2,249 COVID-19 deaths on average over the 
   House passed a $741 billion defense authorization bill by a veto-proof margin; and
   Biden named Gen. Lloyd Austin, a retired four-star Army general, as his choice to
   lead the Department of Defense.
-tags:
-- covid
-- congress
-- economy
 ---
 
 1/ **The U.S. recorded 2,249 COVID-19 deaths on average over the last seven days** – breaking the previous mark of 2,232 set on April 17. Coronavirus cases per day, meanwhile, have surpassed 200,000 on average for the first time – an increase of 15% from the average two weeks earlier. ([Associated Press](https://apnews.com/article/us-coronavirus-deaths-hit-record-levels-9ce64924281ff1058fbf391407c8ba50) / [New York Times](https://www.nytimes.com/live/2020/12/07/world/covid-19-coronavirus/the-us-has-recorded-its-most-covid-19-deaths-in-a-week))

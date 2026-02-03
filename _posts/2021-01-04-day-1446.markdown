@@ -3,6 +3,9 @@ title: Day 1446
 date: 2021-01-04 14:13:00 -08:00
 categories:
 - trump
+tags:
+- corruption
+- voting-rights
 description: '"No way."'
 image: "/uploads/1446.jpg"
 todayInOneSentence: Trump pressured Georgia's secretary of state to “find” him enough
@@ -13,9 +16,6 @@ todayInOneSentence: Trump pressured Georgia's secretary of state to “find” h
   plan to challenge Biden’s Electoral College win; and Covid-19 cases in the United
   States eclipsed 20 million as Trump falsely tweeted that the coronavirus cases and
   deaths are "exaggerated."
-tags:
-- corruption
-- voting-rights
 ---
 
 1/ **Trump pressured Georgia's secretary of state to “find” him enough votes to overturn the state's presidential election results**. Trump told Brad Raffensperger in an hourlong phone call, which also included Chief of Staff Mark Meadows and legal advisers, “We have won the election in Georgia based on all of this. And there’s nothing wrong with saying that, Brad.” Raffensperger pushed back, telling Trump “the challenge that you have is, the data you have is wrong.” Trump, however, continued to push his debunked theories of election fraud, like "stuffed ballot boxes," and, at one point said: “So look. All I want to do is this. I just want to find 11,780 votes, which is one more than we have. Because we won the state.” Trump later added: “So what are we going to do here, folks? I only need 11,000 votes. Fellas, I need 11,000 votes. Give me a break.” At one point, Trump warned that Raffensperger was taking “a big risk” by not pursuing his false claims and threatened him with "a criminal offense." Throughout the call, Trump repeated that “There’s no way I lost Georgia \[...\] There’s no way. We won by hundreds of thousands of votes.” Trump lost to Biden by 11,779 votes. Since the election, there have been [18 attempted calls](https://www.cnn.com/2021/01/04/politics/trump-brad-raffensperger-calls-georgia/index.html) from the White House to the Georgia secretary of state's office. An intern monitoring the line, [however](https://www.bloomberg.com/news/articles/2021-01-04/trump-splinters-gop-with-doomed-bid-for-congress-to-subvert-vote?sref=MIBMEEoj), thought the calls were a prank and hung up. ([Washington Post](https://www.washingtonpost.com/politics/trump-raffensperger-call-georgia-vote/2021/01/03/d45acb92-4dc4-11eb-bda4-615aaefd0555_story.html) / [Atlanta Journal-Constitution](https://www.ajc.com/politics/politics-blog/trump-demands-georgia-elections-official-overturn-his-defeat-in-hourlong-call/6MRGK445JNAGHBL2HXLZ3FIVZU/) / [New York Times](https://www.nytimes.com/2021/01/03/us/politics/trump-raffensperger-call-georgia.html) / [NPR](https://www.npr.org/2021/01/03/953012128/this-was-a-scam-in-recorded-call-trump-pushed-official-to-overturn-georgia-vote) / [Politico](https://www.politico.com/news/2021/01/03/trump-georgia-election-454122))

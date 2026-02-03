@@ -3,6 +3,10 @@ title: Day 669
 date: 2018-11-19 08:00:00 -08:00
 categories:
 - trump
+tags:
+- foreign-policy
+- mueller-investigation
+- oversight
 description: A failure to abide.
 image: "/uploads/669.jpg"
 todayInOneSentence: The CIA concluded that Saudi Crown Prince Mohammed bin Salman
@@ -10,10 +14,6 @@ todayInOneSentence: The CIA concluded that Saudi Crown Prince Mohammed bin Salma
   an in-person interview with Robert Mueller; a group of Senate Democrats are suing
   to block Whitaker from serving as acting attorney general; and the White House reversed
   course and "fully restored" Jim Acosta's credentials.
-tags:
-- foreign-policy
-- mueller-investigation
-- oversight
 ---
 
 1/ **The CIA concluded that Saudi Crown Prince Mohammed bin Salman ordered the assassination of Jamal Khashoggi**, contradicting the Saudi government's claims that he was not involved in the killing. The evidence included an intercept showing a member of the 15-person team calling an aide to Prince Mohammed and saying "tell your boss" that the mission was accomplished. Trump called Saudi Arabia a "truly spectacular ally," telling senior White House officials that he wants Prince Mohammed to remain in power as a check on Iran. Trump also claimed that the CIA "haven't assessed anything yet," but "as of this moment we were told that \[Prince Mohammed\] did not play a role." ([Washington Post](https://www.washingtonpost.com/world/national-security/cia-concludes-saudi-crown-prince-ordered-jamal-khashoggis-assassination/2018/11/16/98c89fe6-e9b2-11e8-a939-9469f1166f9d_story.html) / [New York Times](https://www.nytimes.com/2018/11/16/us/politics/cia-saudi-crown-prince-khashoggi.html) / [CNN](https://www.cnn.com/2018/11/16/politics/cia-assessment-khashoggi-assassination-saudi-arabia/index.html) / [Politico](https://www.politico.com/story/2018/11/17/trump-saudis-khashoggi-cia-gulen-1000487))

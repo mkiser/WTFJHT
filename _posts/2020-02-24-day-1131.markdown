@@ -3,6 +3,9 @@ title: Day 1131
 date: 2020-02-24 14:17:00 -08:00
 categories:
 - trump
+tags:
+- disinformation
+- covid
 description: Snakes.
 image: "/uploads/1131.jpg"
 todayInOneSentence: Trump's national security advisor disputed reports of Russian
@@ -11,9 +14,6 @@ todayInOneSentence: Trump's national security advisor disputed reports of Russia
   people working in the White House and only loyalists working in certain administration
   positions; and the Trump administration is privately worried that a coronavirus
   outbreak in the U.S. could hurt Trump's 2020 reelection bid.
-tags:
-- disinformation
-- covid
 ---
 
 1/ **Trump's national security advisor disputed reports of Russian interference in the 2020 election, saying there's "no intelligence behind" such claims**. Robert O'Brien suggested that the House Intelligence Committee either misheard or misinterpreted part of last week's briefing, and that the Office of the Director of National Intelligence did not mean to say that it believes the Russians are currently intervening in the election to help Trump. The U.S. intelligence community also clarified that Russia is interfering in the 2020 election and has separately assessed that Russia views Trump as a preferred leader. The intelligence community, however, says it does not have evidence that Russia's interference is aimed at reelecting Trump. ([CBS News](https://www.cbsnews.com/news/national-security-adviser-says-no-intelligence-showing-russia-helping-trump-reelection/) / [New York Times](https://www.nytimes.com/2020/02/23/us/politics/russia-2020-election-interference.html) / [CNN](https://www.cnn.com/2020/02/23/politics/intelligence-briefer-russian-interference-trump-sanders/index.html))

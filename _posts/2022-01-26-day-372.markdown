@@ -3,6 +3,10 @@ title: Day 372
 date: 2022-01-26 15:03:00 -08:00
 categories:
 - biden
+tags:
+- nomination
+- russia
+- energy
 description: '"The ball is in their court."'
 image: "/uploads/day-372.jpg"
 todayInOneSentence: Justice Stephen Breyer will retire at the end of the current Supreme
@@ -12,10 +16,6 @@ todayInOneSentence: Justice Stephen Breyer will retire at the end of the current
   under the Trump administration; the Federal Reserve said it would "soon" raise interest
   rates in order to tackle the highest inflation in a generation; and 46% of Americans
   believe Biden's Build Back Better plan could lead to more inflation.
-tags:
-- nomination
-- russia
-- energy
 ---
 
 1/ **Justice Stephen Breyer will retire at the end of the current Supreme Court term**. Breyer, at age 83, is the oldest member of the court and one of the three remaining liberal justices. After the death of Justice Ruth Bader Ginsburg in 2020 and the appointment of Justice Amy Coney Barrett by Trump, Breyer's been under pressure to retire while Democrats control the Senate. Although Biden's pick will not change the balance of the court, currently split 6-3 between conservative and liberal justices, the new nominee is expected to be a much younger liberal who could serve on the court for decades. The White House, [meanwhile](https://www.cnn.com/2022/01/26/politics/white-house-reaction-breyer-retirement/index.html), said Biden remains committed to nominating the first Black woman to the Supreme Court. ([NBC News](https://www.nbcnews.com/politics/supreme-court/justice-stephen-breyer-retire-supreme-court-paving-way-biden-appointment-n1288042) / [CNN](https://www.cnn.com/2022/01/26/politics/stephen-breyer/index.html) / [Politico](https://www.politico.com/news/2022/01/26/stephen-breyer-retirement-00002393) / [New York Times](https://www.nytimes.com/live/2022/01/26/us/stephen-breyer-retirement/stephen-breyer-retire-supreme-court) / [Washington Post](https://www.washingtonpost.com/politics/courts_law/stephen-breyer-supreme-court-retire/2022/01/26/02a47db0-ace1-11eb-b476-c3b287e52a01_story.html))

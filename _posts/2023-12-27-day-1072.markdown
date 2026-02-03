@@ -3,6 +3,11 @@ title: Day 1072
 date: 2023-12-27 07:45:00 -08:00
 categories:
 - biden
+tags:
+- indictment
+- presidential-election
+- lawsuit
+- voting-rights
 description: '"Dictatorship," "revenge," and "power."'
 image: "/uploads/day-1072-b.jpg"
 todayInOneSentence: The Supreme Court rejected special counsel Jack Smith's request
@@ -18,11 +23,6 @@ todayInOneSentence: The Supreme Court rejected special counsel Jack Smith's requ
   defaming two former Georgia election workers; and the Wisconsin Supreme Court ruled
   that the state’s legislative maps, which favor Republicans, are unconstitutional
   and ordered new maps ahead of the 2024 elections.
-tags:
-- indictment
-- presidential-election
-- lawsuit
-- voting-rights
 ---
 
 1/ **The Supreme Court rejected special counsel Jack Smith's request to immediately decide whether Trump is immune from prosecution for bid to overturn his 2020 election loss**. The decision raises the possibility that Trump's federal 2020 election trial will be delayed beyond its scheduled March 4 start date – the day before the Super Tuesday primary contests. A federal appeals court, meanwhile, is simultaneously considering the issue. Arguments before the court are set for Jan. 9, and the losing party will likely appeal and send the matter right back to the Supreme Court early in the new year. ([New York Times](https://www.nytimes.com/2023/12/22/us/politics/trump-supreme-court-immunity.html) / [Washington Post](https://www.washingtonpost.com/national-security/2023/12/22/supreme-court-trump-immunity-expedition-denied/) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-sidesteps-decision-trump-presidential-immunity-claim-fed-rcna130769) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-12-22/supreme-court-refuses-to-put-trump-immunity-clash-on-fast-track?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/politics/elections/supreme-court-donald-trump-immunity-case-7031b946) [NPR](https://www.npr.org/2023/12/22/1221334637/supreme-court-trump-immunity) / [Axios](https://www.axios.com/2023/12/22/trump-supreme-court-immunity-election) / [Politico](https://www.politico.com/news/2023/12/22/supreme-court-trump-immunity-question-00133117))

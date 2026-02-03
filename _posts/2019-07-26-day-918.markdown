@@ -3,6 +3,10 @@ title: Day 918
 date: 2019-07-26 09:49:00 -07:00
 categories:
 - trump
+tags:
+- impeachment
+- national-security
+- economy
 description: Warriors.
 image: "/uploads/918.jpg"
 todayInOneSentence: The House Judiciary Committee will petition a federal judge to
@@ -10,10 +14,6 @@ todayInOneSentence: The House Judiciary Committee will petition a federal judge 
   systems in all 50 states in 2016; U.S. economic growth didn't hit Trump's 2018 target
   of 3%; and Trump attacked Fox News after the network's pollsters showed him losing
   a handful of hypothetical matchups against 2020 Democratic candidates.
-tags:
-- impeachment
-- national-security
-- economy
 ---
 
 1/ **The House Judiciary Committee said it would petition a federal judge to unseal Robert Mueller's secret grand jury evidence**. Chairman Jerry Nadler argued that it's essential that Congress "have access to all the relevant facts" – including witness testimony – in order to fully investigate potential abuses of power by Trump and his inner circle before deciding whether to recommend articles of impeachment. The petition does not seek the public release of the grand jury evidence. The committee will also continue its investigation during the House's six-week summer recess and is working to obtain testimony from former White House counsel Don McGahn. Nadler said he is going to court today and again next week to file a lawsuit to force McGahn to testify. ([New York Times](https://www.nytimes.com/2019/07/26/us/politics/donald-trump-impeachment.html) / [Politico](https://www.politico.com/story/2019/07/26/mueller-report-secret-grand-jury-evidence-1436846) / [Washington Post](https://www.washingtonpost.com/politics/nadler-says-hes-going-to-court-today-next-week-to-enforce-mueller-related-subpoenas/2019/07/26/6b5733c2-afa2-11e9-8e77-03b30bc29f64_story.html))

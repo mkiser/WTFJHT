@@ -1,6 +1,11 @@
 ---
 title: Day 1485
 date: 2025-02-12 13:54:00 -08:00
+tags:
+- executive-order
+- foreign-policy
+- nomination
+- economy
 description: '"What democracy is all about."'
 image: "/uploads/day-1485-trump.jpg"
 todayInOneSentence: 'Elon Musk, standing behind the Resolute Desk with Trump in the
@@ -21,11 +26,6 @@ todayInOneSentence: 'Elon Musk, standing behind the Resolute Desk with Trump in 
   $4.5 trillion in tax cuts, at least $1.5 trillion in spending reductions, and a
   $4 trillion debt limit increase; and Trump, who promised to lower prices on “Day
   1,” is now acknowledging that inflation relief will take longer than expected. '
-tags:
-- executive-order
-- foreign-policy
-- nomination
-- economy
 ---
 
 1/ **Elon Musk, standing behind the Resolute Desk with Trump in the Oval Office, justified his aggressive push to downsize the federal government**, saying: “The people voted for major government reform, and that’s what the people are going to get.” Musk, however, dismissed concerns about his unchecked power, insisting his so-called Department of Government Efficiency was “maximally transparent” despite operating in secrecy. Musk, who is an unelected official, described the federal workforce as “an unelected, fourth, unconstitutional branch of government” that he claimed had more power than elected representatives. He framed his efforts as a fight for democracy, saying: “If the bureaucracy’s in charge, then what meaning does democracy actually have?” Musk, who contributed more than $250 million to help get Trump elected, added: "That's what democracy is all about." Trump agreed with Musk’s criticisms, arguing that federal workers had too much influence over policy and called Musk’s cuts a fulfillment of his campaign promises. “It seems hard to believe that judges want to try and stop us from looking for corruption,” Trump said, after courts temporarily blocked parts of DOGE’s work, including access to Treasury Department data. White House press secretary Karoline Leavitt, meanwhile, claimed that court rulings against the Trump administration are coming from “judicial activists” who are creating a “constitutional crisis.” ([New York Times](https://www.nytimes.com/2025/02/11/us/politics/trump-musk-oval-office.html) / [Associated Press](https://apnews.com/article/trump-downsizing-federal-workers-doge-00683abc4de44a151f26aaa6cb0d0f30) / [ABC News](https://abcnews.go.com/Politics/elon-musk-faces-1st-questions-doges-transparency-joins/story?id=118705771) / [Wall Street Journal](https://www.wsj.com/politics/policy/elon-musk-donald-trump-doge-executive-order-f6ed32d9) / [NPR](https://www.npr.org/2025/02/11/nx-s1-5293504/trump-musk-doge-oval-office) / [CBS News](https://www.cbsnews.com/news/elon-musk-trump-doge-cuts/) / [CNBC](https://www.cnbc.com/2025/02/11/trump-musk-oval-office-doge-order.html) / [Politico](https://www.politico.com/news/2025/02/11/trump-musk-congress-vote-016399) / [Associated Press](https://apnews.com/article/trump-judges-rulings-constitutional-crisis-presidential-power-a9c593cf3f9faec23a03f4a5123fefdb) / [The Hill](https://thehill.com/homenews/administration/5141267-trump-judges-constitutional-crisis/))

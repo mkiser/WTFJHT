@@ -3,12 +3,12 @@ title: Day 376
 date: 2018-01-30 09:13:00 -08:00
 categories:
 - trump
-description: Serving as a deterrent.
-image: "/uploads/376.jpg"
 tags:
 - mueller-investigation
 - sanctions
 - state-of-the-union
+description: Serving as a deterrent.
+image: "/uploads/376.jpg"
 ---
 
 ### The State of the Fucking Union. 

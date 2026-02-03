@@ -3,6 +3,9 @@ title: Day 1118
 date: 2020-02-11 14:07:00 -08:00
 categories:
 - trump
+tags:
+- indictment
+- criminal-justice
 description: Excessive.
 image: "/uploads/1118.jpg"
 todayInOneSentence: Trump’s Justice Department will overrule its own prosecutors and
@@ -11,9 +14,6 @@ todayInOneSentence: Trump’s Justice Department will overrule its own prosecuto
   the Pentagon's concerns about Trump’s hold on Ukraine funding and attempted to bury
   them; and Senate Republicans blocked an effort by Democrats to unanimously pass
   three election security-related bills.
-tags:
-- indictment
-- criminal-justice
 ---
 
 1/ **Trump’s Justice Department will overrule its own prosecutors and reduce Roger Stone's sentencing recommendation**, calling it “extreme and excessive and disproportionate to Stone’s offenses.” Federal prosecutors initially recommended that Stone serve up to nine years in prison for obstruction of justice, lying to Congress, and witness tampering. The Justice Department’s reversal came hours after Trump tweeted that the recommended sentence was “horrible and very unfair” and a “disgraceful” “miscarriage of justice” that should not be allowed to happen. In the sentencing memo, federal prosecutors said Stone “obstructed Congress’ investigation into Russian interference in the 2016 election, lied under oath, and tampered with a witness,” and that Stone “displayed contempt for this Court and the rule of law” after he was indicted. ([Washington Post](https://www.washingtonpost.com/national-security/justice-dept-to-reduce-sentencing-recommendation-for-trump-associate-roger-stone-official-says-after-president-calls-it-unfair/2020/02/11/ad81fd36-4cf0-11ea-bf44-f5043eb3918a_story.html) / [New York Times](https://www.nytimes.com/2020/02/11/us/politics/roger-stone-sentencing.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/doj-backpedalling-sentencing-recommendation-trump-ally-roger-stone-n1134961) / [Wall Street Journal](https://www.wsj.com/articles/justice-department-to-ask-for-less-prison-time-for-roger-stone-after-trump-criticism-11581444764) / [NPR](https://www.npr.org/2020/02/11/804888522/doj-to-revise-sentencing-request-for-roger-stone-following-trump-tweet) / [Politico](https://www.politico.com/news/2020/02/11/justice-department-backs-away-stiff-sentence-roger-stone-114006) / [CNBC](https://www.cnbc.com/2020/02/11/trump-ally-roger-stone-will-get-lower-prison-sentence-recommendation.html) / [ABC News](https://abcnews.go.com/Politics/prosecutors-roger-stone-sentenced-years-prison/story?id=68893294) / [Axios](https://www.axios.com/roger-stone-sentencing-memo-wikileaks-0660e47c-dd6f-40e5-ab1d-b298ffc6fd14.html) / [CNN](https://www.cnn.com/2020/02/10/politics/federal-prosecutors-roger-stone-sentencing/index.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia-stone-idUSKBN2042LO))

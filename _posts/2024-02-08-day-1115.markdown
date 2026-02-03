@@ -3,6 +3,11 @@ title: Day 1115
 date: 2024-02-08 14:58:00 -08:00
 categories:
 - biden
+tags:
+- national-security
+- energy
+- classified-documents
+- presidential-election
 description: '"A good first step."'
 image: "/uploads/day1115biden.jpg"
 todayInOneSentence: 'The Senate advanced a $95 billion aid package for Ukraine, Israel,
@@ -15,11 +20,6 @@ todayInOneSentence: 'The Senate advanced a $95 billion aid package for Ukraine, 
   skeptical that Colorado had the power to disqualify Trump from the ballot for engaging
   in an insurrection in an attempt to remain in the White House after losing the 2020
   election. '
-tags:
-- national-security
-- energy
-- classified-documents
-- presidential-election
 ---
 
 1/ **The Senate advanced a $95 billion aid package for Ukraine, Israel, and Taiwan** after Republicans rejected a version of the bill that included the border policy changes they had demanded. The vote of 67-32 allows the Senate to begin consideration of the legislation, which would provide $60.1 billion for Ukraine, $14.1 billion for Israel, and $10 billion in humanitarian aid for civilians in global conflicts. The bill, however, still faces an uncertain future, and it's unclear if the final package will clear the 60-vote threshold in Democratic-led Senate. It’s also expected to be even more difficult to win approval in the Republican-controlled House. Nevertheless, Chuck Schumer described the vote as a “good first step," adding: “Failure to pass this bill would only embolden autocrats like Putin and Xi, who want nothing more than America’s decline." ([NBC News](https://www.nbcnews.com/politics/congress/senate-expected-vote-ukraine-israel-aid-gop-blocked-border-bill-rcna137861) / [Politico](https://www.politico.com/live-updates/2024/02/08/congress/senate-gop-gets-on-board-foreign-aid-00140431) / [Washington Post](https://www.washingtonpost.com/politics/2024/02/08/senate-ukraine-israel-aid-border-deal/) / [New York Times](https://www.nytimes.com/2024/02/08/us/politics/ukraine-israel-aid-bill-senate.html) / [Wall Street Journal](https://www.wsj.com/politics/policy/ukraine-israel-aid-package-clears-major-hurdle-in-senate-6bf9e289?mod=hp_lead_pos2) / [Axios](https://www.axios.com/2024/02/08/senate-foreign-aid-package-vote-border))

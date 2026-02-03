@@ -3,6 +3,10 @@ title: Day 756
 date: 2019-02-14 11:30:00 -08:00
 categories:
 - trump
+tags:
+- executive-order
+- mueller-investigation
+- nomination
 description: Emergency declaration.
 image: "/uploads/756.jpg"
 todayInOneSentence: Trump will declare a national emergency to build his border wall
@@ -11,10 +15,6 @@ todayInOneSentence: Trump will declare a national emergency to build his border 
   lying; the Senate confirmed William Barr as attorney general; and the former deputy
   F.B.I. director said Justice Department officials discussed recruiting cabinet members
   to invoke the 25th Amendment and remove Trump from office.
-tags:
-- executive-order
-- mueller-investigation
-- nomination
 ---
 
 1/ **Trump will declare a national emergency to bypass Congress and build his border wall after signing the spending legislation to prevent another government shutdown**. The border security compromise provides $1.375 billion for 55 miles of steel-post fencing – basically the same deal Trump rejected in December – instead of the $5.7 billion he demanded for more than 200 miles of steel or concrete wall. The emergency declaration would allow Trump to redirect funds from other parts of the government without congressional approval. The Senate advanced the spending package in an 81-16 vote. The House is expected to approve the package later tonight. ([Washington Post](https://www.washingtonpost.com/business/economy/mcconnell-predicts-senate-passage-of-border-security-bill-hopes-trump-signs-it/2019/02/14/2f6e2cba-306f-11e9-8ad3-9a5b113ecd3c_story.html) / [New York Times](https://www.nytimes.com/2019/02/14/us/politics/trump-national-emergency-border.html) / [CNBC](https://www.cnbc.com/2019/02/14/trump-decides-whether-to-sign-border-security-deal-to-avoid-shutdown.html) / [CNN](https://www.cnn.com/2019/02/14/politics/donald-trump-wall-funding-bill/index.html) / [NBC News](https://www.nbcnews.com/politics/congress/government-shutdown-vote-border-bill-trump-n971576) / [Wall Street Journal](https://www.wsj.com/articles/lawmakers-set-to-vote-on-spending-package-to-keep-government-open-11550157589) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-02-14/trump-seeks-clarification-on-border-deal-as-senate-prepares-vote))

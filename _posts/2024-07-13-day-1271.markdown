@@ -3,13 +3,13 @@ title: Day 1271
 date: 2024-07-13 22:14:00 -07:00
 categories:
 - biden
+tags:
+- presidential-election
+- protests
 description: '"We cannot be like this."'
 image: "/uploads/day-1271-biden.jpg"
 todayInOneSentence: 'The shooting at Trump’s rally in Butler, Pennsylvania is being
   investigated as an attempted assassination. '
-tags:
-- presidential-election
-- protests
 ---
 
 *What we know about the Trump rally shooting so far:*

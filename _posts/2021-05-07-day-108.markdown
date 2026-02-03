@@ -3,6 +3,11 @@ title: Day 108
 date: 2021-05-07 15:24:00 -07:00
 categories:
 - biden
+tags:
+- economy
+- voting-rights
+- criminal-justice
+- media
 description: '"We have a long way to go."'
 image: "/uploads/108-biden-trump.jpg"
 todayInOneSentence: The U.S. economy added 266,000 jobs in April; Texas and Florida
@@ -11,11 +16,6 @@ todayInOneSentence: The U.S. economy added 266,000 jobs in April; Texas and Flor
   police officers in connection with the death of George Floyd; the top respiratory
   disease official at the CDC resigned; and Trump's Justice Department secretly obtained
   the phone records of three Washington Post journalists.
-tags:
-- economy
-- voting-rights
-- criminal-justice
-- media
 ---
 
 1/ **The U.S. economy added 266,000 jobs in April** – short of the one million that economists had forecast and a sharp drop-off from the 770,000 jobs added in March. The April unemployment rate remained unchanged at 6.1%. The U.S. Chamber of Commerce blamed the weaker-than-expected jobs report on the $300-per-week federal jobless benefit. Biden, however, argued that the disappointing employment numbers are evidence that Congress should pass his $4 trillion infrastructure and jobs package, saying: "Today's report just underscores, in my view, how vital the actions we're taking are – checks to people who are hurting, support for small businesses, for child care and school reopening, support to help families put food on the table." Biden added: "Today there is more evidence our economy is moving in the right direction, but it is clear we have a long way to go.” ([Wall Street Journal](https://www.wsj.com/articles/april-jobs-report-unemployment-rate-2021-11620332156) / [New York Times](https://www.nytimes.com/2021/05/07/business/economy/jobs-report-april-2021.html) / [CNBC](https://www.cnbc.com/2021/05/07/us-chamber-of-commerce-rips-300-jobless-benefit-calls-for-repeal.html) / [ABC News](https://abcnews.go.com/Politics/biden-respond-disappointing-jobs-report/story?id=77554168) / [Axios](https://www.axios.com/april-jobs-report-economy-f56e27dc-7048-43b2-a0ee-5845bb01a7f8.html) / [Washington Post](https://www.washingtonpost.com/business/2021/05/07/april-jobs-report-economy-unemployment/) / [Politico](https://www.politico.com/news/2021/05/07/jobs-report-federal-aid-unemployment-benefits-485716) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-seizes-disappointing-job-numbers-make-case-his-4-trillion-n1266675))

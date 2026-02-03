@@ -3,6 +3,10 @@ title: Day 325
 date: 2021-12-10 14:44:00 -08:00
 categories:
 - biden
+tags:
+- reproductive-rights
+- jan-6
+- economy
 description: '"No basis."'
 image: "/uploads/day-325-biden.jpg"
 todayInOneSentence: The Supreme Court allowed abortion providers in Texas to challenge
@@ -14,10 +18,6 @@ todayInOneSentence: The Supreme Court allowed abortion providers in Texas to cha
   the New York attorney general is seeking to depose Trump early next year as part
   of her investigation into potential fraud inside the Trump Organization; and inflation
   hit a 39-year high in November.
-tags:
-- reproductive-rights
-- jan-6
-- economy
 ---
 
 1/ **The Supreme Court allowed abortion providers in Texas to challenge the new state law that essentially bans abortions after about six weeks**. The law – the most restrictive in the country – remains in place while abortion providers challenge the law in federal court. But at the same time, the court limited which state officials could be sued by abortion providers to four licensing officials who are involved with enforcement of SB8. Separately, the court also dismissed a challenge to the law brought by the Justice Department. White House press secretary Jen Psaki, meanwhile, said Biden was "very concerned" about the ruling, which is "a reminder of how much these rights are at risk." ([NPR](https://www.npr.org/2021/12/10/1053628779/supreme-court-refuse-to-block-texas-abortion-law-as-legal-fights-move-forward) / [CNN](https://www.cnn.com/2021/12/10/politics/texas-abortion-law-scotus/index.html) / [New York Times](https://www.nytimes.com/2021/12/10/us/politics/texas-abortion-supreme-court.html) / [Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-texas-abortion-ban/2021/12/10/de0ade80-59c5-11ec-a808-3197a22b19fa_story.html) / [Politico](https://www.politico.com/news/2021/12/10/supreme-court-allows-clinics-challenge-to-texas-abortion-ban-to-proceed-rebuffs-biden-admin-524083) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-says-challenge-texas-near-total-ban-abortion-can-n1285732) / [ABC News](https://abcnews.go.com/Politics/supreme-court-challenge-texas-abortion-law-continue-lets/story?id=80973461) / [CBS News](https://www.cbsnews.com/news/supreme-court-texas-abortion-law-clinics-can-challenge/) / [USA Today](https://www.usatoday.com/story/news/politics/2021/12/10/supreme-court-challengers-may-continue-fighting-texas-abortion-law/6242096001/) / [Associated Press](https://apnews.com/article/us-supreme-court-texas-56fe96917e21b53b581005cb30db66e0))

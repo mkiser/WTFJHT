@@ -1,6 +1,11 @@
 ---
 title: Day 1828
 date: 2026-01-21 14:59:00 -08:00
+tags:
+- tariffs
+- national-security
+- immigration
+- government-shutdown
 description: '"In the midst of a rupture."'
 image: "/uploads/day1828trump.jpg"
 todayInOneSentence: 'Trump said he would drop planned tariffs on eight European countries,
@@ -16,13 +21,7 @@ podcast:
   file: "/uploads/Day 1828 In the midst of a rupture.mp3"
   duration: '00:04:44'
   length: 4554544
-tags:
-- tariffs
-- national-security
-- immigration
-- government-shutdown
 ---
-
 
 1/ **Trump said he would drop planned tariffs on eight European countries, claiming he had “the framework of a future deal” on Greenland and Arctic security**. He said the 10% tariffs scheduled for Feb. 1 were no longer needed after meeting with NATO Secretary General Mark Rutte. While Trump didn’t release any details of the framework, the compromise reportedly involves Denmark giving the U.S. sovereignty over small areas of Greenland’s territory to build military bases. Trump claims he needs Greenland for his proposed "golden dome," a missile defense system that could cover North America. NATO spokeswoman Allison Hart only confirmed that negotiations between Denmark, Greenland, and the U.S. “will go forward” focused on Arctic security and limiting Russia and China influence. Danish officials, meanwhile, publicly reiterated that sovereignty is a red line. ([Associated Press](https://apnews.com/article/trump-davos-housing-greenland-gaza-a2f3f4c18ba321c8025a3e208fc0ddf6) / [NBC News](https://www.nbcnews.com/business/economy/trump-pauses-greenland-tariffs-rcna255270) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-01-21/trump-holding-off-on-greenland-tariffs-citing-framework-deal) / [New York Times](https://www.nytimes.com/2026/01/21/us/politics/trump-greenland-threats-diplomacy-force.html) / [Wall Street Journal](https://www.wsj.com/livecoverage/greenland-trump-tariffs-trade-eu) / [Washington Post](https://www.washingtonpost.com/politics/2026/01/21/trump-speech-davos-greenland/) / [Politico](https://www.politico.com/news/2026/01/21/trump-greenland-tariffs-nato-00739429) / [Axios](https://www.axios.com/2026/01/21/trump-drops-greenland-tariff-invasion-threats) / [CNN](https://www.cnn.com/politics/live-news/trump-administration-news-01-21-26) / [CNBC](https://www.cnbc.com/2026/01/21/trump-tariffs-nato-greenland-davos.html))
 

@@ -1,6 +1,11 @@
 ---
 title: Day 1555
 date: 2025-04-23 14:58:00 -07:00
+tags:
+- economy
+- tariffs
+- trade
+- foreign-policy
 description: '"Too erratic."'
 image: "/uploads/day1555-trump.jpg"
 todayInOneSentence: 'Trump reversed course and said he would not fire Fed Chair Jerome
@@ -17,11 +22,6 @@ todayInOneSentence: 'Trump reversed course and said he would not fire Fed Chair 
   are barely getting by financially; 53% of Americans say their financial situation
   has gotten worse; and 37% of Americans approve of Trump''s handling of the economy
   – his worst rating ever. '
-tags:
-- economy
-- tariffs
-- trade
-- foreign-policy
 ---
 
 1/ **Trump reversed course and said he would not fire Fed Chair Jerome Powell and that his 145% tariffs on Chinese goods would “come down substantially.”** The shift follows warnings from top executives at Walmart, Target, and major financial firms about inflation, economic fallout, and product shortages. “We’re going to have a fair deal with China,” Trump said, though Treasury Secretary Scott Bessent made clear there would be “no unilateral reduction in tariffs” and that any deal would require action from both sides. China, meanwhile, dismissed Trump’s remarks and rejected his “threats and coercion,” saying talks would only happen under “mutual respect and reciprocity.” Despite Trump’s claim that negotiations are “active,” no formal discussions with Beijing have begun. The reversal follows weeks of market volatility and internal pressure from Trump’s own advisers. Business leaders have also warned that Trump’s tariffs could disrupt summer inventories and wreck the holiday supply chain. Powell also cautioned that the tariffs would raise prices and said the Fed would keep interest rates steady while watching for inflation. Nevertheless, Trump said he had “no intention” of firing Powell – days after calling him a “major loser” and that his removal “cannot come fast enough.” When pressed, Trump added: “Never did.” Powell’s term runs through May 2026, and current law bars his removal without cause. ([Wall Street Journal](https://www.wsj.com/politics/policy/white-house-considers-slashing-china-tariffs-to-de-escalate-trade-war-6f875d69) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-04-23/bessent-says-no-unilateral-offer-from-trump-to-cut-china-tariffs) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-04-22/trump-says-he-has-no-intention-of-firing-fed-chief-powell) / [Washington Post](https://www.washingtonpost.com/business/2025/04/23/trump-china-tariffs/) / [Wall Street Journal](https://www.wsj.com/politics/elections/trump-says-he-has-no-intention-of-firing-fed-chair-powell-eda4c6a7) / [CNN](https://www.cnn.com/2025/04/22/business/trump-china-trade-war-reduction-hnk-intl) / [Associated Press](https://apnews.com/article/federal-reserve-trump-jerome-powel-4710172f1fd4d6493769ac0b81703c01) / [NPR](https://www.npr.org/2025/04/22/nx-s1-5369542/trump-federal-reserve-jerome-powell-tariffs) / [CNBC](https://www.nbcnews.com/business/markets/markets-jump-higher-trump-softens-rhetoric-china-fed-chair-rcna202547) / [Wall Street Journal](https://www.wsj.com/livecoverage/stock-market-trump-tariffs-trade-war-04-23-25/card/bessent-says-trump-hasn-t-made-unilateral-offer-to-cut-tariffs-on-china-n8sKxjv7p22b6KJFcVyz) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-04-22/bessent-sees-de-escalation-with-china-situation-unsustainable) / [New York Times](https://www.nytimes.com/2025/04/23/us/politics/trump-jerome-powell-fed.html) / [CNBC](https://www.cnbc.com/2025/04/22/trump-says-he-has-no-intention-of-firing-fed-chair-powell.html) / [Axios](https://www.axios.com/2025/04/23/trump-china-tariffs-bessent))

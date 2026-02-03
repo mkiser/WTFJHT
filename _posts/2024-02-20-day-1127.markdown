@@ -3,6 +3,11 @@ title: Day 1127
 date: 2024-02-20 14:43:00 -08:00
 categories:
 - biden
+tags:
+- israel-palestine
+- sanctions
+- civil-rights
+- indictment
 description: '"Wishful and irresponsible."'
 image: "/uploads/day1127-biden.jpg"
 todayInOneSentence: For the third time, the U.S. vetoed a United Nations Security
@@ -15,11 +20,6 @@ todayInOneSentence: For the third time, the U.S. vetoed a United Nations Securit
   a Manhattan judge ordered Trump to pay $355 million (plus interest) and barred him
   from serving in a top role of any New York company for three years for fraudulently
   inflating the values of his properties.
-tags:
-- israel-palestine
-- sanctions
-- civil-rights
-- indictment
 ---
 
 1/ **For the third time, the U.S. vetoed a United Nations Security Council resolution calling for an immediate ceasefire in Gaza**. The vote in the 15-member Security Council was 13 in favor with the U.S. against. The U.K. abstained from voting.  The U.S. ambassador to the U.N. called the resolution “wishful and irresponsible," adding that "demanding an immediate, unconditional ceasefire without an agreement requiring Hamas to release the hostages will not bring about a durable peace." The U.S., meanwhile, proposed its own resolution, which instead calls for a “temporary ceasefire” linked to the release of hostages held by Hamas. ([NPR](https://www.npr.org/2024/02/20/1232636543/un-security-council-gaza-cease-fire-vote) / [CNN](https://www.cnn.com/2024/02/20/politics/un-gaza-ceasefire-algeria-resolution-vote-intl) / [Washington Post](https://www.washingtonpost.com/world/2024/02/20/israel-hamas-war-news-gaza-palestine/#link-WFZGMWGGWNDNNOK4AAH2CTEXVY) / [New York Times](https://www.nytimes.com/live/2024/02/20/world/israel-hamas-war-gaza-news) / [NBC News](https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna139513) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-02-20/us-vetoes-un-security-council-resolution-urging-gaza-cease-fire?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/world/middle-east/u-s-drafts-u-n-resolution-calling-for-temporary-cease-fire-in-gaza-ad5c58ce) / [Associated Press](https://apnews.com/article/un-israel-palestinians-gaza-ceasefire-resolution-vote-350c86ef261bf1a00a2515cf22764de5))

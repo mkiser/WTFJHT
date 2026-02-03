@@ -3,6 +3,12 @@ title: Day 1016
 date: 2023-11-01 14:41:00 -07:00
 categories:
 - biden
+tags:
+- israel-palestine
+- economy
+- healthcare
+- energy
+- infrastructure
 description: '"Proceeding carefully."'
 image: "/uploads/day1016-biden.jpg"
 todayInOneSentence: The Rafah border crossing opened for the first time since Israel
@@ -13,12 +19,6 @@ todayInOneSentence: The Rafah border crossing opened for the first time since Is
   will spend $1.3 billion to build three large electrical transmission lines across
   six states to upgrade the nation’s power grid; and infant mortality rates in the
   U.S. increased 3% last year – the largest increase in two decades.
-tags:
-- israel-palestine
-- economy
-- healthcare
-- energy
-- infrastructure
 ---
 
 1/ **The Rafah border crossing opened for the first time since Israel imposed a siege on the Gaza Strip**, allowing for up to 500 foreign nationals and seriously injured Palestinian civilians a day to enter into Egypt. Dozens of people were wounded during an Israeli airstrike on Jabalya – the most populous refugee camp in the region. It was the third strike on the camp in 24 hours. The United Nation's Human Rights Office expressed concern that the airstrikes "could amount to war crimes." U.N. Secretary-General Antonio Guterres added that he's “appalled over the escalating violence in Gaza,” including the killing of civilians by Israeli airstrikes in the refugee camp, and reiterated that "all parties must abide by international law, international humanitarian law including the principles of distinction, proportionality and precaution." Meanwhile, Gaza’s more than two million residents faced another communication blackout – the second major outage in five days – after a "complete interruption" of internet and phone service. Communication services are gradually being restored. The Biden administration [reportedly](https://www.politico.com/news/2023/11/01/biden-administration-thinks-netanyahu-may-not-last-politically-00124849) believes that Israeli Prime Minister Benjamin Netanyahu's political future may only "last a matter of months" due to growing international opposition to the current Israeli military campaign in Gaza and anger over failures by Israel's intelligence community to prevent the Hamas Oct. 7 terror attack. Nevertheless, Netanyahu vowed to press on with the military campaign in Gaza, saying: “We are in a difficult war. It will also be a long war. We have important achievements, but also painful losses.” ([New York Times](https://www.nytimes.com/live/2023/11/01/world/israel-hamas-war-gaza-news) / [NBC News](https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna123108) / [Washington Post](https://www.washingtonpost.com/world/2023/11/01/israel-war-hamas-news-gaza-palestine/) / [Associated Press](https://apnews.com/article/israel-hamas-war-live-updates-11-1-2023-7016eb9ebd6a7852c0ed71bc97f14d92) / [CNN](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-01-23/index.html) / [Politico](https://www.politico.com/news/2023/11/01/gaza-refugee-camp-israeli-strikes-00124706) / [ABC News](https://abcnews.go.com/International/live-updates/israel-gaza-egypt-russia-airport/?id=104468652))

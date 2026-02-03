@@ -3,6 +3,13 @@ title: Day 995
 date: 2023-10-11 15:01:00 -07:00
 categories:
 - biden
+tags:
+- congress
+- indictment
+- foreign-policy
+- ukraine
+- voting-rights
+- climate
 description: '"Less likely than ever."'
 image: "/uploads/day-995-biden.jpg"
 todayInOneSentence: 'Republicans nominated Steve Scalise to be the next speaker, but
@@ -13,13 +20,6 @@ todayInOneSentence: 'Republicans nominated Steve Scalise to be the next speaker,
   governor’s veto of two election bills and enacted vote-count restrictions and weakened
   the governor''s ability to oversee elections; and the world is "less likely than
   ever" to meet the Paris Agreement goal of limiting global warming to 1.5C. '
-tags:
-- congress
-- indictment
-- foreign-policy
-- ukraine
-- voting-rights
-- climate
 ---
 
 1/ **Republicans nominated Steve Scalise to be the next speaker, but then the House recessed without voting**. Although a majority of the 221 Republicans nominated Scalise for speaker, too many Republicans still plan to vote for Kevin McCarthy, which makes it unlikely that Scalise can win the 217 votes he needs on the House floor to win the speakership. If the House does elect Scalise, the chamber will then be able to restart legislative work – which stalled after McCarthy’s removal – including aid for Israel and funding measures to keep the government open after Nov. 17. ([New York Times](https://www.nytimes.com/live/2023/10/11/us/house-speaker-vote-news) / [Washington Post](https://www.washingtonpost.com/politics/2023/10/11/house-speaker-vote/) / [The Hill](https://thehill.com/homenews/house/4250062-steve-scalise-wins-gop-speaker-nomination/) / [ABC News](https://abcnews.go.com/Politics/steve-scalise-nominated-gop-run-speaker/story?id=103892270) / [NBC News](https://www.nbcnews.com/politics/congress/live-blog/house-speaker-live-updates-rcna119455) / [CNN](https://www.cnn.com/politics/live-news/house-speaker-race-10-11-23/index.html) / [CNBC](https://www.cnbc.com/2023/10/11/steve-scalise-and-jim-jordan-vie-to-become-house-speaker-with-gop-set-to-vote-on-candidate.html) / [Axios](https://www.axios.com/2023/10/11/steve-scalise-republican-speaker-nominee) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-10-11/republicans-nominate-steve-scalise-to-be-next-us-house-speaker?srnd=premiumhttps%3A%2F%2Fwww.wsj.com%2Fpolitics%2Frepublican-speaker-vote-jim-jordan-stevescalise-2419cbf6%3Fmod&sref=MIBMEEoj))

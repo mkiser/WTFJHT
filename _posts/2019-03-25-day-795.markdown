@@ -3,6 +3,10 @@ title: Day 795
 date: 2019-03-25 08:21:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- congress
+- judiciary
 description: No conclusion.
 image: "/uploads/795.jpg"
 todayInOneSentence: Attorney General William Barr concluded that Robert Mueller's
@@ -13,10 +17,6 @@ todayInOneSentence: Attorney General William Barr concluded that Robert Mueller'
   obstructed justice; Trump said it "wouldn't bother me at all" for Mueller's report
   to be released in full; and Mitch McConnell blocked a non-binding resolution to
   make Mueller's full report public.
-tags:
-- mueller-investigation
-- congress
-- judiciary
 ---
 
 1/ **Attorney General William Barr concluded that Robert Mueller's investigation found no evidence that the Trump campaign "conspired or coordinated" with Russia during the 2016 election.** Barr submitted [a four-page summary](https://www.documentcloud.org/documents/5779699-Letter-to-Congress-detailing-Robert-Mueller-s.html) of Mueller's key findings to Congress for review, noting that Mueller didn't find conspiracy "despite multiple offers from Russia-affiliated individuals to assist the Trump campaign." While Mueller's team drew no conclusions about whether Trump obstructed justice, Barr and Rod Rosenstein independently concluded that the evidence was "not sufficient to establish that the President committed an obstruction-of-justice offense." Democrats are calling for full report to be made public and are questioning Barr's conclusions. ([New York Times](https://www.nytimes.com/2019/03/24/us/politics/mueller-report-summary.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/republicans-and-democrats-brace-for-renewed-battles-over-mueller-report/2019/03/23/56d9f214-4db3-11e9-b79a-961983b7e0cd_story.html) / [Politico](https://www.politico.com/story/2019/03/24/breaking-news-barr-to-release-summary-of-mueller-report-1233771) / [The Guardian](https://www.theguardian.com/us-news/2019/mar/24/mueller-report-donald-trump-barr-congress-russia) / [CNBC](https://www.cnbc.com/2019/03/24/fight-over-mueller-report-and-trump-russia-investigation-isnt-over.html) / [NPR](https://www.npr.org/2019/03/24/706318191/trump-white-house-havent-seen-or-been-briefed-on-mueller-investigation-report) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia-barr/mueller-does-not-find-trump-campaign-knowingly-conspired-with-russia-idUSKCN1R50RG) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-03-24/mueller-made-no-conclusion-on-obstruction-by-trump-barr-says) / [Associated Press](https://apnews.com/ea617240fe264947a967f8d13ed9a9a5))

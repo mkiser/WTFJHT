@@ -3,6 +3,10 @@ title: Day 1425
 date: 2020-12-14 15:24:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- presidential-election
+- resignation
 description: '"Congratulations USA!"'
 image: "/uploads/1425.jpg"
 todayInOneSentence: The Electoral College affirmed Joe Biden as the 46th president
@@ -14,10 +18,6 @@ todayInOneSentence: The Electoral College affirmed Joe Biden as the 46th preside
   to receive the coronavirus vaccine early; Russian government hackers breached the
   Treasury, Commerce, and Homeland Security departments; and Attorney General William
   Barr resigned.
-tags:
-- covid
-- presidential-election
-- resignation
 ---
 
 1/ **The Electoral College affirmed Joe Biden as the 46th president of the United States after the Supreme Court rejected a lawsuit by Texas** seeking to throw out the election results in Georgia, Michigan, Pennsylvania, and Wisconsin that Trump lost in November. All 538 electors cast their votes for president based on the election results that were recently certified by all 50 states and Washington, D.C. The president-elect is expected to speak in prime time after surpassing 270 electoral votes needed to win. On Friday, the Supreme Court issued a short, unsigned order that said Texas had "not demonstrated a judicially cognizable interest in the manner in which another state conducts its elections.” It dismissed all pending motions about the case. All six battleground states – Michigan, Arizona, Georgia, Nevada, Pennsylvania, and Wisconsin – that Trump contested cast their votes for Biden. ([Politico](https://www.politico.com/news/2020/12/14/electoral-college-biden-victory-444952) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-12-14/biden-s-nod-from-electors-could-seal-his-win-with-some-in-gop?sref=MIBMEEoj) / [NBC News](https://www.nbcnews.com/politics/2020-election/electoral-college-set-vote-make-biden-s-2020-victory-official-n1251076) / [CNBC](https://www.cnbc.com/2020/12/14/election-results-biden-electoral-votes.html) / [Wall Street Journal](https://www.wsj.com/articles/electoral-college-meets-in-formal-step-toward-biden-presidency-11607941801) / [New York Times](https://www.nytimes.com/2020/12/11/us/politics/supreme-court-election-texas.html) / [CNN](https://www.cnn.com/2020/12/11/politics/supreme-court-texas-trump-biden/index.html) / [Washington Post](https://www.washingtonpost.com/politics/courts_law/supreme-court-texas-election-trump/2020/12/11/bf462f22-3bc6-11eb-bc68-96af0daae728_story.html) / [Politico](https://www.politico.com/news/2020/12/11/supreme-court-rejects-texas-led-effort-to-overturn-bidens-victory-444638) / [NPR](https://www.npr.org/2020/12/11/945617913/supreme-court-shuts-door-on-trump-election-prospects) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-12-11/supreme-court-rejects-trump-bid-to-overturn-election-results?sref=MIBMEEoj))

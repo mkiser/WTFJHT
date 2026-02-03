@@ -1,6 +1,11 @@
 ---
 title: Day 1595
 date: 2025-06-02 15:17:00 -07:00
+tags:
+- healthcare
+- immigration
+- supreme-court
+- disinformation
 description: '"We deserve better."'
 image: "/uploads/day-1595-trump.jpg"
 todayInOneSentence: Republican Sen. Joni Ernst dismissed concerns that Medicaid cuts
@@ -15,11 +20,6 @@ todayInOneSentence: Republican Sen. Joni Ernst dismissed concerns that Medicaid 
   a centralized system that merges Americans’ personal data across federal agencies;
   and Trump reposted a baseless claim that Biden was “executed in 2020” and replaced
   by “clones doubles & robotic engineered soulless mindless entities.”
-tags:
-- healthcare
-- immigration
-- supreme-court
-- disinformation
 ---
 
 1/ **Republican Sen. Joni Ernst dismissed concerns that Medicaid cuts in Trump’s tax bill would lead to deaths, saying “Well, we all are going to die.”** Ernst later mocked criticism of her comments in a video filmed at a cemetery, saying: “I made an incorrect assumption that everyone [...] understood that yes, we are all going to perish from this Earth.” Meanwhile, House Speaker Mike Johnson also downplayed the cuts, claiming that “4.8 million people will not lose their Medicaid unless they choose to do so.” The Congressional Budget Office, however, has projected that 7.6 million would lose coverage due to new work and reporting rules – not because they’re ineligible but because they fail to meet stricter documentation requirements. Johnson called the changes “common sense,” though past data shows similar rules caused eligible people to lose coverage for failing to complete or navigate complex paperwork. The bill, titled the “One Big Beautiful Bill,” would cut $723 billion from Medicaid while extending trillions in tax breaks for the wealthy. ([NBC News](https://www.nbcnews.com/politics/congress/republican-sen-joni-ernst-defends-proposed-medicaid-cuts-are-going-die-rcna209972) / [Washington Post](https://www.washingtonpost.com/politics/2025/06/01/joni-ernst-medicaid-comments/) / [NPR](https://www.npr.org/2025/05/31/nx-s1-5418932/we-all-are-going-to-die-ernst-joni-town-hall-iowa-senator) / [Salon](https://www.salon.com/2025/05/30/well-were-all-going-to-die-joni-ernst-dismisses-concern-over-medicaid-cuts/) / [Des Moines Register](https://www.desmoinesregister.com/story/news/politics/2025/05/30/joni-ernst-town-hall-medicaid/83885078007/) / [Politico](https://www.politico.com/news/2025/05/30/joni-ernst-town-hall-00376747) / [New York Times](https://www.nytimes.com/2025/05/30/us/politics/medicaid-cuts-joni-ernst-iowa-town-hall.html) / [The Hill](https://thehill.com/homenews/sunday-talk-shows/5327723-mike-johnson-gop-bill-medicaid-cuts/) / [Rolling Stone](https://www.rollingstone.com/politics/politics-news/joni-ernst-medicaid-cuts-all-going-to-die-1235351274/) / [NBC News](https://www.nbcnews.com/politics/congress/mike-johnson-medicaid-recipients-will-choose-whether-lose-healthcare-rcna210207) / [USA Today](https://www.usatoday.com/story/news/politics/2025/06/02/johnson-medicaid-work-requirements-tax-bill/83991762007/))

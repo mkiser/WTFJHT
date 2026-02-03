@@ -1,6 +1,11 @@
 ---
 title: Day 1787
 date: 2025-12-11 13:31:00 -08:00
+tags:
+- healthcare
+- immigration
+- economy
+- covid
 description: '"Wasting your time."'
 image: "/uploads/day1787trump.jpg"
 todayInOneSentence: The Senate rejected competing Democratic and Republican health
@@ -19,11 +24,6 @@ todayInOneSentence: The Senate rejected competing Democratic and Republican heal
   growth “may actually be negative”; 31% of Americans approve of how Trump is handling
   the economy; and 46% of U.S. voters 50 and older say they plan to vote for the Republican
   in their congressional district, compared with 38% who say they will vote Democratic.
-tags:
-- healthcare
-- immigration
-- economy
-- covid
 ---
 
 1/ **The Senate rejected competing Democratic and Republican health care bills, all but ensuring that enhanced Affordable Care Act subsidies used by more than 20 million Americans will expire at the end of the year**. Both the Democratic proposal to extend the Covid-era subsidies for three years and the Republican plan to replace them with expanded health savings accounts failed in 51-48 votes, short of the 60 needed to advance. Four Republicans crossed party lines to support the Democratic bill, while Sen. Rand Paul was the lone Republican to oppose his party’s proposal. “Our bill is the last train leaving the station,” Senate Minority Leader Chuck Schumer said, as lawmakers acknowledged time had nearly run out for a deal before Congress adjourns. If Congress doesn’t act by Jan. 1, the subsidies will revert to pre-pandemic levels, causing average premiums for subsidized ACA enrollees to more than double, while raising annual costs by about $1,000 or more for many families. The Congressional Budget Office estimates that 1 to 2 million people could lose coverage next year. ([Politico](https://www.politico.com/live-updates/2025/12/11/congress/senate-rejects-health-care-bills-00686855) / [New York Times](https://www.nytimes.com/2025/12/11/us/politics/health-care-senate-affordable-care-act.html) / [ABC News](https://abcnews.go.com/Politics/senate-poised-cast-votes-competing-health-care-proposals/story?id=128290170) / [Washington Post](https://www.washingtonpost.com/politics/2025/12/11/republicans-divisions-affordable-care-act/) / [Axios](https://www.axios.com/2025/12/11/senate-aca-subsidies-vote-obamacare) / [The Guardian](https://www.theguardian.com/us-news/2025/dec/11/senate-vote-obamacare-tax-credit-bills) / [NBC News](https://www.nbcnews.com/politics/congress/senate-rejects-aca-funding-republican-alternative-premiums-set-spike-rcna248497) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-12-11/senate-rejects-gop-health-plan-as-insurance-premium-spike-looms) / [Wall Street Journal](https://www.wsj.com/politics/policy/senate-to-vote-on-dueling-healthcare-proposals-2f6af573) / [Associated Press](https://apnews.com/article/health-care-affordable-care-act-senate-vote-e143b36cc01b4d7f27a1c07e17d1583c))

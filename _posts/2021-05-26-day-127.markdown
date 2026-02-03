@@ -3,6 +3,10 @@ title: Day 127
 date: 2021-05-26 15:16:00 -07:00
 categories:
 - biden
+tags:
+- covid
+- indictment
+- foreign-policy
 description: '"Closer to a definitive conclusion."'
 image: "/uploads/biden-day-127.jpg"
 todayInOneSentence: Biden directed the intelligence community to "redouble" its efforts
@@ -12,10 +16,6 @@ todayInOneSentence: Biden directed the intelligence community to "redouble" its 
   grand jury testimony; U.S. troops and their NATO allies are set to be out of Afghanistan
   by early to mid-July; and 85% of Republicans would prefer to see candidates running
   for office that mostly agree with Trump.
-tags:
-- covid
-- indictment
-- foreign-policy
 ---
 
 1/ **Biden directed the intelligence community to "redouble" its efforts to determine the origin of the coronavirus pandemic** after a [new report](https://www.wsj.com/articles/wuhan-lab-leak-question-chinese-mine-covid-pandemic-11621871125) highlighted how three scientists at the Wuhan Institute of Virology were hospitalized in November 2019 after developing symptoms consistent with Covid-19. Biden tasked the intelligence community with preparing a report within 90 days "on their most up-to-date analysis of the origins of Covid-19, including whether it emerged from human contact with an infected animal or from a laboratory accident," in order to "bring us closer to a definitive conclusion." In the statement Biden said the majority of the intelligence community had “coalesced” around those two scenarios, but “do not believe there is sufficient information to assess one to be more likely than the other.” ([Washington Post](https://www.washingtonpost.com/politics/biden-covid-china-virus-origins/2021/05/26/4f574a24-be44-11eb-9c90-731aff7d9a0d_story.html) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-asks-intelligence-community-redouble-efforts-determine-origins-covid-19-n1268657) / [Associated Press](https://apnews.com/article/coronavirus-pandemic-health-f98d73476a1a4942ca5528fa5dfff70f) / [CNBC](https://www.cnbc.com/2021/05/26/biden-orders-us-intelligence-to-intensify-investigation-into-covid-19-origins.html) / [Politico](https://www.politico.com/news/2021/05/26/democrats-covid-lab-leak-theory-490951))

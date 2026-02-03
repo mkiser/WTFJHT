@@ -3,12 +3,12 @@ title: Day 333
 date: 2017-12-18 08:57:00 -08:00
 categories:
 - trump
-description: Not looking good.
-image: "/uploads/333.jpg"
 tags:
 - mueller-investigation
 - national-security
 - tech-policy
+description: Not looking good.
+image: "/uploads/333.jpg"
 ---
 
 1/ **The FBI warned Trump in 2016 that Russia would try to infiltrate his campaign**. Both Trump and Hillary Clinton received counterintelligence briefings by senior FBI officials, which advised them to alert the FBI to any "suspicious overtures to their campaigns." Trump was "briefed and warned" at the session about potential espionage threats from Russia. ([NBC News](https://www.nbcnews.com/news/us-news/fbi-warned-trump-2016-russians-would-try-infiltrate-his-campaign-n830596))

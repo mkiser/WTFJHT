@@ -3,6 +3,10 @@ title: Day 871
 date: 2023-06-09 13:10:00 -07:00
 categories:
 - biden
+tags:
+- indictment
+- classified-documents
+- national-security
 description: '"Nothing more, nothing less."'
 image: "/uploads/day-871-biden-trump-indictment.jpg"
 todayInOneSentence: The Justice Department charged Trump with 37 felony counts over
@@ -15,10 +19,6 @@ todayInOneSentence: The Justice Department charged Trump with 37 felony counts o
   documents; and a federal judge in Florida who handled Trump’s previous dispute with
   the Justice Department over classified documents will – initially – oversee the
   new criminal case.
-tags:
-- indictment
-- classified-documents
-- national-security
 ---
 
 1/ **The Justice Department charged Trump with 37 felony counts over his refusal to return classified documents found at Mar-a-Lago**, including 31 counts under the Espionage Act of "willful retention" of national defense information, making false statements, and conspiracy to obstruct justice. The 49-page indictment says that even after the federal grand jury in Miami issued a subpoena demanding the return of all documents, Trump resisted and instead suggested that his attorney should either lie to the FBI, “hide or destroy documents,” or just show the FBI some of the documents and “conceal his continued retention of classified documents.” The indictment also indicates that some of the documents Trump took to Mar-a-Lago included “information regarding defense and weapons capabilities” of the U.S. and foreign countries, as well as U.S. nuclear programs. The classified documents, which “Trump was not authorized to possess or retain," were allegedly stored "in a ballroom, a bathroom and shower, an office space, his bedroom, and a storage room," and their "unauthorized disclosure \[...\] could put at risk the national security of the United States." After unsealing the indictment against Trump, special counsel Jack Smith said: "We have one set of laws in this country and they apply to everyone. Adhering to and applying the laws is what determines the outcome of an investigation. Nothing more, nothing less." Trump, meanwhile, confirmed the indictment on his personal social media site, writing: "The corrupt Biden Administration has informed my attorneys that I have been Indicted, seemingly over the Boxes Hoax, even though Joe Biden has 1850 Boxes at the University of Delaware, additional Boxes in Chinatown, D.C., with even more Boxes at the University of Pennsylvania, and documents strewn all over his garage floor where he parks his Corvette, and which is 'secured' by only a garage door that is paper thin, and open much of the time." It's the first time a former president has faced federal charges. It's the second time Trump has been indicted. [Earlier this year](https://whatthefuckjusthappenedtoday.com/2023/03/30/day-800/#1-the-manhattan-grand-jury-voted-to), a grand jury in New York indicted Trump on state charges for falsifying business records related to the hush-money payment to a porn star during his 2016 campaign. ([New York Times](https://www.nytimes.com/live/2023/06/09/us/trump-indictment-documents-news) / [Washington Post](https://www.washingtonpost.com/national-security/2023/06/09/trump-indicted-charges-classified-documents/) / [NPR](https://www.npr.org/live-updates/trump-indictment-documents-grand-jury) / [Wall Street Journal](https://www.wsj.com/articles/trump-associate-also-indicted-in-mar-a-lago-documents-case-759cbb17) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-06-09/trump-indictment-unsealed-in-secret-documents-case?srnd=premium&sref=MIBMEEoj) / [NBC News](https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-indictment-classified-documents-rcna88494) / [CNN](https://www.cnn.com/politics/live-news/trump-indictment-classified-documents-06-09-23/index.html) / [CNBC](https://www.cnbc.com/2023/06/08/trump-indicted-live-updates.html) / [ABC News](https://abcnews.go.com/US/trump-federal-indictment-unsealed-classified-documents-probe/story?id=99963920) / [Politico](https://www.npr.org/live-updates/trump-indictment-documents-grand-jury) / [Associated Press](https://apnews.com/article/donald-trump-classified-documents-indictment-live-updates-d50264cc69b9a6eefd8e47821359ff5e))

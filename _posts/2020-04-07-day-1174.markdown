@@ -3,6 +3,10 @@ title: Day 1174
 date: 2020-04-07 14:42:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- oversight
+- corruption
 description: '"Too naive or too stupid."'
 image: "/uploads/1174.jpg"
 todayInOneSentence: Trump removed the Pentagon’s acting inspector general, who was
@@ -15,10 +19,6 @@ todayInOneSentence: Trump removed the Pentagon’s acting inspector general, who
   Americans"; Trump has a personal financial interest in the company that makes the
   brand-name version of hydroxychloroquine; and Trump replaced the White House press
   secretary with his re-election campaign spokeswoman.
-tags:
-- covid
-- oversight
-- corruption
 ---
 
 * ### Daily Damage Report.

@@ -3,6 +3,11 @@ title: Day 1253
 date: 2024-06-25 14:19:00 -07:00
 categories:
 - biden
+tags:
+- gun-policy
+- reproductive-rights
+- indictment
+- classified-documents
 description: '"A deep sense of fear."'
 image: "/uploads/day-1253-biden.jpg"
 todayInOneSentence: The U.S. surgeon general declared gun violence a public health
@@ -14,11 +19,6 @@ todayInOneSentence: The U.S. surgeon general declared gun violence a public heal
   Jack Smith revealed new photos in a court filing that depict how haphazardly Trump
   stored classified materials at Mar-a-Lago, with golf shirts stuffed into boxes alongside
   the sensitive materials, newspaper clippings and other mementos.
-tags:
-- gun-policy
-- reproductive-rights
-- indictment
-- classified-documents
 ---
 
 1/ **The U.S. surgeon general declared gun violence a public health crisis**. In a first-of-its-kind advisory, Dr. Vivek Murthy warned that gun violence poses a “serious threat to the health and well-being of our country.” The 39-page advisory underscores the physical and mental toll of gun violence and called on Congress to pass laws to require safe and secure firearm storage, implement universal background checks, ban assault weapons and large capacity magazines for civilian use, increase mental health care, and regulate the safety of firearms like any other consumer products. “Gun violence has now become the leading cause of death among kids and teens,” Murthy said. More than 4,600 deaths under the age of 19 were caused by gun violence in 2022, 54% of adults say they or a relative have experienced a firearm-related incident, nearly 80% of adults report being anxious about the prospect of a mass shooting, and more than a third of adults say they don’t go to certain places or events for fear of being shot. About 60% of Americans are worried about losing someone they care about to gun violence. "For too long, this issue has been mired in polarization and politics, but our goal, my goal, is to take this issue out of the realm of politics and put it into the realm of public health, which is where it belongs," Murthy said, adding that "a deep sense of fear” now pervades American society. ([NBC News](https://www.nbcnews.com/news/us-news/us-surgeon-general-declares-firearm-violence-public-health-crisis-land-rcna158776) / [Politico](https://www.politico.com/news/2024/06/25/gun-violence-is-fueling-national-trauma-surgeon-general-warns-00164756) / [Washington Post](https://www.washingtonpost.com/health/2024/06/26/surgeon-general-firearm-deaths/) / [New York Times](https://www.nytimes.com/2024/06/25/health/gun-violence-surgeon-general.html) / [NPR](https://www.npr.org/2024/06/25/nx-s1-5018625/surgeon-general-vivek-murthy-gun-violence-public-health-crisis) / [Wall Street Journal](https://www.wsj.com/us-news/u-s-gun-violence-is-a-public-health-crisis-surgeon-general-warns-7869ede2) / [Associated Press](https://apnews.com/article/surgeon-general-gun-control-violence-deaths-murthy-24b53f1aaace068e0cb24ae809853f66) / [Axios](https://www.axios.com/2024/06/25/surgeon-general-gun-violence-advisory) / [STAT News](https://www.statnews.com/2024/06/25/gun-violence-public-health-crisis-surgeon-general-declaration/))

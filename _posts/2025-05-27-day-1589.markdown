@@ -1,6 +1,11 @@
 ---
 title: Day 1589
 date: 2025-05-27 15:37:00 -07:00
+tags:
+- congress
+- tariffs
+- trade
+- healthcare
 description: '"Wimpy and anemic."'
 image: "/uploads/day1589trump.jpg"
 todayInOneSentence: Senate Republicans threatened to block Trump’s tax and spending
@@ -13,11 +18,6 @@ todayInOneSentence: Senate Republicans threatened to block Trump’s tax and spe
   ordered federal agencies to cancel all remaining contracts with Harvard University;
   and Health Secretary Robert F. Kennedy Jr. announced that Covid-19 vaccines are
   no longer recommended for healthy children or pregnant women.
-tags:
-- congress
-- tariffs
-- trade
-- healthcare
 ---
 
 1/ **Senate Republicans threatened to block Trump’s tax and spending bill**, saying it would add trillions to the national debt and gut safety net programs. “We have enough to stop the process until the president gets serious about spending reduction and reducing the deficit,” Sen. Ron Johnson said, calling the $1.5 trillion in proposed cuts “a rounding error.” The bill, which passed the House by one vote, includes a $4 trillion debt ceiling hike and would cut nearly $700 billion from Medicaid, disqualifying over 8 million people. Sen. Rand Paul added that the plan’s cuts are “wimpy and anemic” and would “explode the debt.” Trump, however, said he expects “significant” Senate changes, but claimed the bill remains “the most significant piece of legislation” ever. Speaker Mike Johnson also insisted that the bill doesn’t cut Medicaid, but instead targets “fraud, waste, and abuse,” though nonpartisan analysts said some claims about ineligible recipients were false. ([NBC News](https://www.nbcnews.com/politics/congress/ron-johnson-says-enough-opposition-senate-hold-trumps-spending-bill-rcna208973) / [The Guardian](https://www.theguardian.com/us-news/2025/may/25/trump-beautiful-bill-republicans) / [New York Times](https://www.nytimes.com/2025/05/25/us/politics/fiscal-hawks-senate-house-bill.html) / [USA Today](https://www.usatoday.com/story/news/politics/2025/05/25/republicans-senate-trump-tax-bill/83851469007/) / [Politico](https://www.politico.com/news/2025/05/25/ron-johnson-megabill-spending-reductions-00369429) / [Washington Post](https://www.washingtonpost.com/politics/2025/05/25/big-beautiful-bill-midterms-trump/) / [ABC News](https://abcnews.go.com/Politics/gop-senator-resistance-trumps-big-beautiful-bill-stop/story?id=122179072) / [The Hill](https://thehill.com/homenews/sunday-talk-shows/5317970-mike-johnson-big-beautiful-bill-spending/))

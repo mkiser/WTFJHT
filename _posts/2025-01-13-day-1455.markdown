@@ -3,6 +3,12 @@ title: Day 1455
 date: 2025-01-13 14:32:00 -08:00
 categories:
 - biden
+tags:
+- classified-documents
+- indictment
+- disinformation
+- cabinet
+- tech-policy
 description: '"They know how to do it."'
 image: "/uploads/day-1455-biden-trump.jpg"
 todayInOneSentence: 'A federal judge ruled that the Justice Department may release
@@ -19,12 +25,6 @@ todayInOneSentence: 'A federal judge ruled that the Justice Department may relea
   Trump administration has questioned National Security Council staff about their
   political affiliations, voting history, and social media activity, raising concerns
   about loyalty to Trump. '
-tags:
-- classified-documents
-- indictment
-- disinformation
-- cabinet
-- tech-policy
 ---
 
 1/ **A federal judge ruled that the Justice Department may release the portion of special counsel Jack Smith’s report on Trump’s efforts to overturn the 2020 election**. The release is expected as early as Tuesday. Judge Aileen Cannon, however, maintained a block on sharing the section of the report on Trump’s classified documents case, citing concerns over potential prejudice to Trump’s former co-defendants, Walt Nauta and Carlos De Oliveira, whose charges remain pending. Smith’s report concludes his investigations into Trump’s efforts to overturn the 2020 election and mishandle classified materials, with legal challenges continuing over the release of remaining sections. ([Associated Press](https://apnews.com/article/trump-special-counsel-aileen-cannon-d7be86dad89227f12a6f5aac3433b202) / [Politico](https://www.politico.com/news/2025/01/13/jack-smith-report-release-2020-election-00197871) / [NPR](https://www.npr.org/2025/01/13/nx-s1-5258382/special-counsel-report-aileen-cannon-jack-smith) / [Washington Post](https://www.washingtonpost.com/national-security/2025/01/13/jack-smith-report-trump-cannon-garland-jan-6/) / [New York Times](https://www.nytimes.com/2025/01/13/us/politics/trump-jan-6-report-aileen-cannon-jack-smith.html) / [NBC News](https://www.nbcnews.com/politics/justice-department/judge-allow-release-jack-smiths-report-trump-election-interference-cas-rcna186829) / [ABC News](https://abcnews.go.com/US/trumps-former-defendants-continue-push-block-release-jack/story?id=117620958) / [CNN](https://www.cnn.com/2025/01/13/politics/special-counsel-trump-january-6-report-judge-cannon/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-01-13/judge-clears-release-of-trump-special-counsel-report-on-election) / [CBS News](https://www.cbsnews.com/news/jack-smith-trump-report-special-counsel-2020-election/))

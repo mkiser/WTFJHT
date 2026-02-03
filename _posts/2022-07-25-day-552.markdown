@@ -3,6 +3,11 @@ title: Day 552
 date: 2022-07-25 11:24:00 -07:00
 categories:
 - biden
+tags:
+- covid
+- jan-6
+- economy
+- subpoena
 description: '"Moment of truth."'
 image: "/uploads/day-552-biden.jpg"
 todayInOneSentence: 'Biden continues to “improve significantly” from his coronavirus
@@ -12,11 +17,6 @@ todayInOneSentence: 'Biden continues to “improve significantly” from his cor
   to consider subpoenaing Virginia Thomas; Trump’s top allies are preparing to radically
   reshape the federal government if he''s re-elected; and 67% of Americans favor term
   limits for Supreme Court justices instead of life terms. '
-tags:
-- covid
-- jan-6
-- economy
-- subpoena
 ---
 
 1/ **Biden continues to “improve significantly” from his coronavirus infection**. “The president is responding to therapy as expected,” Dr. Kevin O’Connor wrote, adding that Biden still has a sore throat, though his cough, runny nose, and body aches “have diminished considerably.” Biden has been taking Paxlovid, an antiviral drug that helps reduce the chance of severe illness. ([Associated Press](https://apnews.com/article/biden-covid-health-government-and-politics-e7a24a9dfb0cacd26937286cb0a2b625) / [NPR](https://www.npr.org/2022/07/24/1113263372/biden-coronavirus-symptoms-update))

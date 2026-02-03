@@ -1,6 +1,11 @@
 ---
 title: Day 1518
 date: 2025-03-17 15:26:00 -07:00
+tags:
+- government-shutdown
+- immigration
+- media
+- economy
 description: '"Overdrive."'
 image: "/uploads/day1518trump.jpg"
 todayInOneSentence: 'Trump signed a six-month government funding bill on Saturday,
@@ -13,11 +18,6 @@ todayInOneSentence: 'Trump signed a six-month government funding bill on Saturda
   U.S. District Judge James Boasberg blocked the deportations, but the Trump administration
   refused to comply; the Democratic Party’s favorability dropped to 27% while Trump’s
   approval rating hit 47%; and U.S. consumer sentiment fell 11% in March. '
-tags:
-- government-shutdown
-- immigration
-- media
-- economy
 ---
 
 1/ **Trump signed a six-month government funding bill on Saturday, preventing a shutdown but exposing deep fractures among Democrats**. The Senate passed the $1.7 trillion measure 54-46, with 10 Democrats breaking ranks to help Republicans overcome a filibuster despite weeks of opposition from House Democrats. The bill includes $13 billion in domestic spending cuts and a $6 billion defense boost, handing the Trump administration broad discretion over the budget. Senate Minority Leader Chuck Schumer, who initially opposed the bill for giving Trump unchecked power to slash federal programs, abruptly reversed course and backed it, arguing that “as bad as passing the \[continuing resolution\] is, allowing Donald Trump to take even more power via a government shutdown is a far worse option.” House Democrats, who saw blocking the bill as their best leverage, reacted with outrage. Rep. Alexandria Ocasio-Cortez called the move a “slap in the face,” warning it gave Trump and Elon Musk’s Department of Government Efficiency a “blank check” to gut social services. Schumer, however, defended his decision, claiming a shutdown would have allowed Trump to “shift into overdrive” in slashing federal programs and “nonessential” workers. House Minority Leader Hakeem Jeffries refused to defend Schumer’s leadership, dismissing questions with “Next question.” Trump, meanwhile, celebrated the bill’s passage, praising Schumer for showing “guts and courage.” ([NPR](https://www.npr.org/2025/03/14/nx-s1-5328229/senate-spending-bill-vote-government-shutdown) / [Associated Press](https://apnews.com/article/government-shutdown-funding-59d49f0e358d0f68bba47716f37bc3a6) / [NBC News](https://www.nbcnews.com/politics/congress/senate-vote-republican-funding-bill-government-shutdown-rcna196412) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-15/trump-signs-government-funding-bill-to-avert-federal-shutdown) / [New York Times](https://www.nytimes.com/live/2025/03/14/us/trump-government-shutdown-news) / [Wall Street Journal](https://www.wsj.com/politics/policy/government-shutdown-vote-democrats-schumer-71d05db7) / [Wall Street Journal](https://www.wsj.com/politics/policy/schumers-shutdown-u-turn-deepens-democratic-party-divide-db279a95) / [Axios](https://www.axios.com/2025/03/14/house-democrats-chuck-schumer-shutdown) / [Washington Post](https://www.washingtonpost.com/politics/2025/03/14/senate-democrats-government-shutdown-cr/) / [Associated Press](https://apnews.com/article/democrats-congress-chuck-schumer-government-funding-shutdown-43d1acea20c34ad28d848edc08ad6375) / [NBC News](https://www.nbcnews.com/politics/congress/democratic-anger-schumer-surrender-shows-partys-deep-divisions-take-tr-rcna196370) / [Politico](https://www.politico.com/news/2025/03/14/schumer-democrats-anger-shutdown-fight-00231908) / [Politico](https://www.politico.com/news/2025/03/13/chuck-schumer-surrender-shutdown-00230481) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-14/pelosi-comes-out-against-schumer-s-government-shutdown-retreat) / [Wall Street Journal](https://www.wsj.com/politics/policy/why-schumer-broke-with-democrats-in-shutdown-fight-071f993b) / [Daily Beast](https://www.thedailybeast.com/dem-civil-war-erupts-over-government-shutdown-as-aoc-and-chuck-schumer-go-at-it/) / [HuffPost](https://www.huffpost.com/entry/nancy-pelosi-chuck-schumer-hakeem-jeffries-government-shutdown_n_67d473ece4b034e451a5db9f))

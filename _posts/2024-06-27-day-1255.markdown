@@ -3,6 +3,9 @@ title: Day 1255
 date: 2024-06-27 15:35:00 -07:00
 categories:
 - biden
+tags:
+- classified-documents
+- energy
 description: '"Irreparable harm."'
 image: "/uploads/day-1255-biden.jpg"
 todayInOneSentence: 'Judge Aileen Cannon rejected convicted felon Trump’s claim that
@@ -12,9 +15,6 @@ todayInOneSentence: 'Judge Aileen Cannon rejected convicted felon Trump’s clai
   official actions; the Supreme Court stripped the Securities and Exchange Commission
   of its main tool for enforcing rules against securities fraud; and the Supreme Court
   limited the EPA’s ability to regulate air quality. '
-tags:
-- classified-documents
-- energy
 ---
 
 1/ **Judge Aileen Cannon rejected convicted felon Trump’s claim that the FBI misled the court in order to obtain a search warrant for Mar-a-Lago** related to his mishandling of national security secrets. In an 11-page ruling, Cannon said Trump’s argument that the FBI misrepresented facts to a federal judge in order to secure the search warrant were meritless. FBI agents found 103 classified documents, which eventually led to Trump’s indictment, after searching Mar-a-Lago in 2022. Cannon, however, agreed to schedule additional hearings to resolve "pertinent factual disputes" related to key evidence in the case. Prosecutors expressed concern that holding evidentiary hearings would result in a “mini-trial” that would subject some key witnesses to cross-examination before the actual trial. “There is a difference between a resource-wasting and delay-producing ‘mini-trial,’ on the one hand,” Cannon wrote, “and an evidentiary hearing geared to adjudicating the contested factual and legal issues.” ([Politico](https://www.politico.com/news/2024/06/27/trum-fbi-mar-a-lago-00165373) / [Washington Post](https://www.washingtonpost.com/national-security/2024/06/27/judge-cannon-trump-challenge-search-warrant/) / [New York Times](https://www.nytimes.com/2024/06/27/us/politics/trump-lawyer-documents-case.html) / [Associated Press](https://apnews.com/article/trump-classified-documents-maralago-cannon-8f91da1d6983abdf304be657df3c5ec1) / [CNN](https://www.cnn.com/2024/06/27/politics/aileen-cannon-trump-mar-a-lago-search-warrant-hearing/index.html) / [ABC News](https://abcnews.go.com/US/judge-orders-hearing-tossing-key-evidence-trump-classified/story?id=111489112) / [USA Today](https://www.usatoday.com/story/news/politics/2024/06/27/donald-trump-classified-documents-fbi-search/74237051007/) / [The Hill](https://thehill.com/regulation/court-battles/4743684-judge-cannon-rejects-trump-claims/))

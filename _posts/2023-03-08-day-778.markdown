@@ -3,6 +3,11 @@ title: Day 778
 date: 2023-03-08 15:24:00 -08:00
 categories:
 - biden
+tags:
+- economy
+- jan-6
+- foreign-policy
+- tech-policy
 description: '"No blank checks."'
 image: "/uploads/day-778-biden.jpg"
 todayInOneSentence: Biden’s budget blueprint aims to cut federal budget deficits by
@@ -11,11 +16,6 @@ todayInOneSentence: Biden’s budget blueprint aims to cut federal budget defici
   Tucker Carlson claimed that he "passionately" hated Trump; Kevin McCarthy rejected
   President Volodymyr Zelenskyy's invitation to visit Ukraine; and a bipartisan group
   of 12 senators introduced a bill that could be used to ban TikTok.
-tags:
-- economy
-- jan-6
-- foreign-policy
-- tech-policy
 ---
 
 1/ **Biden’s budget blueprint aims to cut federal budget deficits by nearly $3 trillion over the next decade**. As part of the budget, Biden wants to increase the Medicare payroll tax on people making more than $400,000 per year, as well as impose a tax on households worth more than $100 million. Biden will release his fiscal 2024 budget plan tomorrow and has faced pressure to cut spending by House Republicans, who have refused to raise the nation’s debt limit – setting up the risk of a national default. House Republicans, however, have yet to offer a blueprint to balance the federal budget, but nevertheless are reportedly [planning](https://www.nytimes.com/2023/03/08/us/politics/house-republicans-deficit-budget-biden.html) to pursue cuts to the foreign aid budget, as well as health care, food assistance, and housing programs for poor Americans. ([Associated Press](https://apnews.com/article/biden-budget-deficit-trillion-republicans-economy-810ff80dcd8812f2138eef571f2444f3) / [Wall Street Journal](https://www.wsj.com/articles/biden-budget-to-propose-saving-hundreds-of-billions-by-cutting-drug-prices-fraud-5fa0f927?mod=hp_lead_pos1) / [New York Times](https://www.nytimes.com/2023/03/08/us/biden-deficit-reduction.html) / [CNN](https://www.cnn.com/2023/03/08/politics/joe-biden-budget/))

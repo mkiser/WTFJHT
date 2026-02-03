@@ -3,6 +3,11 @@ title: Day 52
 date: 2021-03-12 13:50:00 -08:00
 categories:
 - biden
+tags:
+- covid
+- jan-6
+- oversight
+- immigration
 description: '"Changes the paradigm."'
 image: "/uploads/day-52-biden.jpg"
 todayInOneSentence: Biden directed states to make all adults eligible for coronavirus
@@ -14,11 +19,6 @@ todayInOneSentence: Biden directed states to make all adults eligible for corona
   for unaccompanied migrant children; and the Manhattan district attorney leading
   the criminal investigation against Trump and the Trump Organization will not run
   for re-election.
-tags:
-- covid
-- jan-6
-- oversight
-- immigration
 ---
 
 1/ **Biden directed states to make all adults eligible for coronavirus vaccinations no later than May 1**, and set a July 4th goal to "mark our independence from this virus." The White House has [promised](https://whatthefuckjusthappenedtoday.com/2021/03/02/day-42/#1-biden-said-the-u-s-expects-to-have) that the country will have enough vaccine supply for all adults by the end of May – meaning not all adults will be able to get a vaccine on May 1, but instead they will be able to get in line for one. Biden also said he was doubling the number of pharmacies and the number of federally run mass vaccination centers to administer doses. The U.S., meanwhile, has administered more than 100 million Covid-19 shots so far, with 35 million people have been fully vaccinated and 66 million having received at least a first dose. The U.S. is now averaging of over 2 million doses a day. And at a Rose Garden event celebrating the $1.9 trillion American Rescue Plan, Biden said the legislation "changes the paradigm. For the first time in a long time, this bill puts working people in this nation first.” ([NBC News](https://www.nbcnews.com/politics/white-house/biden-use-covid-shutdown-anniversary-speech-preview-post-pandemic-future-n1260706) / [NPR](https://www.npr.org/sections/coronavirus-live-updates/2021/03/11/975420676/biden-to-address-the-nation-marking-1-year-of-coronavirus-pandemic) / [Washington Post](https://www.washingtonpost.com/politics/biden-address-vaccine/2021/03/11/2cde7132-8278-11eb-9ca6-54e187ee4939_story.html) / [Vox](https://www.vox.com/2021/3/11/22326478/biden-speech-covid-19-vaccine-may-adults) / [CBS News](https://www.cbsnews.com/news/covid-vaccine-100-million-shots-americans/) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-03-12/u-s-hits-100-million-dose-mark-three-months-into-vaccine-push?sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/2021/03/12/us/biden-stimulus.html) / [CNBC](https://www.cnbc.com/2021/03/11/covid-vaccine-biden-will-direct-states-to-make-all-adults-eligible-by-may-1.html) / [The Guardian](https://www.theguardian.com/world/2021/mar/11/joe-biden-covid-vaccine-us-adults-1-may))

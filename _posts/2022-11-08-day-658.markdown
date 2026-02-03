@@ -3,6 +3,10 @@ title: Day 658
 date: 2022-11-08 15:01:00 -08:00
 categories:
 - biden
+tags:
+- midterm-election
+- voting-rights
+- climate
 description: '"The things Americans value most are at risk."'
 image: "/uploads/day-658-biden.jpg"
 todayInOneSentence: Polls opened across the country today with control of Congress
@@ -12,10 +16,6 @@ todayInOneSentence: Polls opened across the country today with control of Congre
   Ron DeSantis refused to allow Justice Department election monitors to go inside
   polling locations; and the effects of climate change are already “far-reaching and
   worsening” throughout every region of the U.S.
-tags:
-- midterm-election
-- voting-rights
-- climate
 ---
 
 1/ **Polls opened across the country today with control of Congress at stake in the first national election since the Jan. 6, 2021, attack on the Capitol**. Republicans are favored to regain control of the House, where all 435 House seats are up for grabs. Control of the Senate, which is currently split 50-50, will likely be decided a handful of races in Georgia, Pennsylvania, Wisconsin, Arizona, New Hampshire, and North Carolina despite 35 seats up for election this cycle. As of Tuesday afternoon, nearly 45 million ballots had been [cast](https://www.nbcnews.com/politics/2022-elections/early-vote) nationwide. While the earliest polls close at 6 p.m. Eastern today, we probably won’t know all the results of the midterm elections [for days](https://www.axios.com/2022/11/07/midterm-election-results-battleground-states) – or weeks – after voting concludes. ([Washington Post](https://www.washingtonpost.com/politics/2022/11/08/election-live-results-updates-2022/) / [Associated Press](https://apnews.com/article/2022-midterm-elections-congress-b8394711a1b0550da394ed06b32263d3) / [CNN](https://www.cnn.com/2022/11/08/politics/midterm-election-results-recap/index.html) / [New York Times](https://www.nytimes.com/live/2022/11/08/us/election-midterms))

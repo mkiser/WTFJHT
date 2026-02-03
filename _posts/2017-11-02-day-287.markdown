@@ -3,12 +3,12 @@ title: Day 287
 date: 2017-11-02 09:46:00 -07:00
 categories:
 - trump
-description: 'Cut, cut, cut. '
-image: "/uploads/287.jpg"
 tags:
 - taxes
 - mueller-investigation
 - climate
+description: 'Cut, cut, cut. '
+image: "/uploads/287.jpg"
 ---
 
 1/ **House Republicans unveiled the Tax Cuts and Jobs Act**, which reduces the number of tax brackets from seven to five, maintains the top tax rate at 39.6%, raises the standard deduction from $6,350 to $12,000 for individuals and from $12,700 to $24,000 for married couples. The bill reduces the corporate tax rate from 35% to 20%, repeals the state and local income tax deductions, limits the property tax deduction to $10,000, and expands the child tax credit from $1,000 to $1,600. The treatment of pre-tax contributions to 401(k) and IRA would be preserved. Homeowners can keep their mortgage interest deduction, but the bill caps the deduction for new mortgages at $500,000, while also repealing the estate tax in 2024. The bill is [estimated](http://thehill.com/policy/finance/358521-panel-tax-bill-would-cost-1487-trillion-over-10-years) to cost $1.487 trillion over a decade, but lawmakers must keep the cost of the bill to $1.5 trillion if they want to pass it along party lines and avoid a filibuster by Democrats. ([NBC News](https://www.nbcnews.com/politics/congress/gop-unveils-massive-tax-cut-plan-n816881) / [New York Times](https://www.nytimes.com/2017/11/02/us/politics/tax-plan-republicans.html?_r=0) / [Wall Street Journal](https://www.wsj.com/articles/republicans-stick-with-big-corporate-tax-cuts-in-house-bill-1509629510))

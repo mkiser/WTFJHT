@@ -3,6 +3,9 @@ title: Day 1016
 date: 2019-11-01 11:37:00 -07:00
 categories:
 - trump
+tags:
+- impeachment
+- oversight
 description: Sensitive.
 image: "/uploads/1016.jpg"
 todayInOneSentence: A senior White House lawyer instructed the national security official
@@ -11,9 +14,6 @@ todayInOneSentence: A senior White House lawyer instructed the national security
   the transcript from his July 25 call; Democratic leaders directing the impeachment
   investigation see the Trump administration's stonewalling as obstruction of Congress;
   and 49% of Americans agree that Trump should be impeached and removed from office.
-tags:
-- impeachment
-- oversight
 ---
 
 1/ **A senior White House lawyer instructed the national security official who heard Trump's July 25 conversation with the Ukraine president to keep his concerns secret**. Following the call, in which Trump asked Ukrainian President Volodymyr Zelensky for a "favor" to investigate the Bidens, Lt. Col. Alexander Vindman went to John Eisenberg to register his concerns about the call, who recorded Vindman's complaints in notes on a yellow legal pad. Eisenberg also restricted access to the rough transcript of the call by moving it into the NSC's top-secret codeword system. Eisenberg then directed Vindman to not discuss his concerns with anyone after the White House learned on July 29 that a CIA employee had anonymously filed a whistleblower complaint about the call. Vindman also testified that he conferred with his deputy Michael Ellis at the time about how to handle the conversation because it was clearly "sensitive." ([Washington Post](https://www.washingtonpost.com/politics/white-house-official-who-heard-trumps-call-with-ukraine-leader-testified-that-he-was-told-to-keep-quiet/2019/11/01/dbed7fae-fc07-11e9-ac8c-8eced29ca6ef_story.html) / [Politico](https://www.politico.com/news/2019/11/01/white-house-vindman-ukraine-call-063892))

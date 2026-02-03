@@ -3,6 +3,10 @@ title: Day 839
 date: 2019-05-08 07:50:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- oversight
+- congress
 description: 'Sport. '
 image: "/uploads/839.jpg"
 todayInOneSentence: Trump asserted executive privilege over Robert Mueller's full,
@@ -10,10 +14,6 @@ todayInOneSentence: Trump asserted executive privilege over Robert Mueller's ful
   of Congress; Trump lost $1.17 billion between 1985 and 1994; and New York state
   Senate passed a bill that would allow Trump's state tax returns to be turned over
   to congressional committees.
-tags:
-- mueller-investigation
-- oversight
-- congress
 ---
 
 1/ **Trump asserted executive privilege over Robert Mueller's full, unredacted report**. Yesterday, Attorney General William Barr and the Justice Department advised Trump to make a "protective assertion of executive privilege" in response to Democratic plans to hold Barr in contempt of Congress over his refusal to turn over Mueller's report or underlying materials to Congress. House Judiciary Committee Chairman Jerrold Nadler said Trump's "decision \[to assert privilege\] represents a clear escalation in the Trump administration's blanket defiance of Congress's constitutionally mandated duties." The move will not have a direct impact on possible testimony from Mueller, but it could limit the scope of what he can say by putting some subjects off limits. ([ABC News](https://abcnews.go.com/Politics/democrats-prepare-hold-attorney-general-bill-barr-contempt/story?id=62888034) / [New York Times](https://www.nytimes.com/2019/05/08/us/politics/congress-contempt-barr.html) / [Washington Post](https://www.washingtonpost.com/politics/barr-to-trump-invoke-executive-privileged-over-redacted-mueller-materials/2019/05/07/51c52600-713e-11e9-b5ca-3d72a9fa8ff1_story.html) / [Politico](https://www.politico.com/story/2019/05/08/trump-invokes-executive-privilege-to-block-release-of-unredacted-mueller-report-1311738) / [CNN](https://www.cnn.com/2019/05/08/politics/trump-mueller-report-executive-privilege/index.html))

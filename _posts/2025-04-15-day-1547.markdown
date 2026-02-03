@@ -1,6 +1,11 @@
 ---
 title: Day 1547
 date: 2025-04-15 15:59:00 -07:00
+tags:
+- immigration
+- judiciary
+- education
+- ethics
 description: '"No tolerance for gamesmanship or grandstanding."'
 image: "/uploads/day-1547-trump.jpg"
 todayInOneSentence: 'Federal immigration agents arrested a Columbia student when he
@@ -19,11 +24,6 @@ todayInOneSentence: 'Federal immigration agents arrested a Columbia student when
   foreign bribery, money laundering, and crypto; roughly 22,000 IRS employees have
   signed up for a Trump administration buyout offer; and JD Vance fumbled Ohio State’s
   national championship trophy at the White House. '
-tags:
-- immigration
-- judiciary
-- education
-- ethics
 ---
 
 1/ **Federal immigration agents arrested a Columbia student when he arrived for his citizenship interview in Vermont, despite his legal residency and lack of any criminal charge**. Mohsen Mahdawi, a Palestinian-born activist, helped lead pro-Palestinian protests on campus and was publicly named by Betar USA, a hardline pro-Israel group that posted online that Mahdawi was “on our deport list.” Mahdawi’s lawyers said the Trump administration is using a rarely invoked immigration law that allows the Secretary of State to deport legal residents deemed harmful to U.S. foreign policy. They called the arrest “retaliation for his advocacy.” A federal judge blocked Mahdawi’s deportation or transfer out of state, saying, “He was clearly eligible for naturalization. There’s no need to detain a lawful permanent resident incommunicado.” ([New York Times](https://www.nytimes.com/2025/04/14/nyregion/columbia-student-palestinian-arrested-ice.html) / [CBS News](https://www.cbsnews.com/news/mohsen-mahdawi-palestinian-columbia-activist-arrested-trump-administration-mahmoud-khalil/) / [Associated Press](https://apnews.com/article/immigration-palestine-protest-trump-deportation-columbia-fca7e73fe2cbd616c1eacf3bdececdbe) / [The Hill](https://thehill.com/homenews/education/5248506-columbia-student-mohsen-mahdawi-dhs-ice/) / [Washington Post](https://www.washingtonpost.com/immigration/2025/04/14/columbia-mohsen-mahdawi-arrested-ice/) / [Axios](https://www.axios.com/2025/04/14/columbia-activist-detained-citizenship-appointment) / [NBC News](https://www.nbcnews.com/news/us-news/mohsen-mahdawi-columbia-detained-naturalization-rcna201214) / [Wall Street Journal](https://www.wsj.com/us-news/palestinian-columbia-student-detained-by-ice-at-u-s-citizenship-interview-94855355))

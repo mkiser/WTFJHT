@@ -1,6 +1,11 @@
 ---
 title: Day 1728
 date: 2025-10-13 15:42:00 -07:00
+tags:
+- government-shutdown
+- healthcare
+- tariffs
+- polling
 description: '"A new beginning."'
 image: "/uploads/day1728trump.jpg"
 todayInOneSentence: The Trump administration fired more than 4,000 employees across
@@ -14,11 +19,6 @@ todayInOneSentence: The Trump administration fired more than 4,000 employees acr
   worry about China, it will all be fine!"; and Trump declared “the war is over” after
   Hamas freed all 20 surviving hostages in exchange for nearly 2,000 Palestinian prisoners,
   calling the U.S.-brokered ceasefire “a new beginning for the Middle East.”
-tags:
-- government-shutdown
-- healthcare
-- tariffs
-- polling
 ---
 
 1/ **The Trump administration fired more than 4,000 employees across at least seven agencies on Friday as the government shutdown entered its second week**. A Justice Department filing confirmed cuts at Treasury, Health and Human Services, Education, Housing and Urban Development, Commerce, Energy, and Homeland Security. Trump told reporters the layoffs would target “people that the Democrats want,” adding, “It’ll be Democrat-oriented because we figure, you know, they started this thing.” Unions, meanwhile, sued to block the firings, calling them illegal under shutdown law, while even some Republicans, including Sen. Susan Collins, said the layoffs were “arbitrary” and harmful to government operations. ([The Hill](https://thehill.com/homenews/administration/5550505-trump-administration-layoffs-shutdown/) / [Washington Post](https://www.washingtonpost.com/business/2025/10/10/trump-federal-workers-layoffs-government-shutdown/) / [NPR](https://www.npr.org/2025/10/10/nx-s1-5570933/shutdown-federal-workers-rifs-layoffs-vought) / [Axios](https://www.axios.com/2025/10/10/trump-officials-federal-layoffs) / [Politico](https://www.politico.com/news/2025/10/10/vought-sounds-layoff-siren-the-rifs-have-begun-00602262) / [Wall Street Journal](https://www.wsj.com/politics/policy/trump-federal-employee-layoffs-government-shutdown-d28b0acc) / [Associated Press](https://apnews.com/article/government-shutdown-federal-worker-firings-0439e8d0979d9a32e021c5c851fea1cf) / [Axios](https://www.axios.com/2025/10/10/shutdown-layoffs-vought-congress-trump))

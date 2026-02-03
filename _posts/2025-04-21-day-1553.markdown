@@ -1,6 +1,11 @@
 ---
 title: Day 1553
 date: 2025-04-21 14:50:00 -07:00
+tags:
+- economy
+- national-security
+- immigration
+- oversight
 description: '"Doing a great job."'
 image: "/uploads/day-1553-trump.jpg"
 todayInOneSentence: Markets fell sharply after Trump escalated his attack on Federal
@@ -17,11 +22,6 @@ todayInOneSentence: Markets fell sharply after Trump escalated his attack on Fed
   and shutting down many U.S. embassies in sub-Saharan Africa; and the Trump administration
   removed federal COVID-19 resource sites and replaced them with a White House webpage
   promoting the lab leak theory as the “true origins” of the pandemic.
-tags:
-- economy
-- national-security
-- immigration
-- oversight
 ---
 
 1/ **Markets fell sharply after Trump escalated his attack on Federal Reserve Chair Jerome Powell, calling him a “major loser” and threatening to fire him unless interest rates are cut immediately**. The S&P 500 dropped 2.4%, the Nasdaq fell 2.5%, the Dow lost nearly 1,000 points, and the dollar hit a three-year low. “Unless Mr. Too Late, a major loser, lowers interest rates, NOW,” Trump said, adding, “If I want him out, he’ll be out of there real fast, believe me.”  Economic adviser Kevin Hassett confirmed the White House is studying “whether Powell can be removed,” despite legal limits and Powell’s repeated assertion that “we’re not removable except for cause.” The law doesn’t clearly allow a president to remove a Fed chair over policy disputes, and legal scholars say any attempt would likely trigger a constitutional challenge. The Fed last cut rates in December, but Powell has warned last week Trump’s trade war is “highly likely” to raise inflation and slow growth, undermining the case for new rate cuts. “Preemptive cuts are being called for by many,” Trump claimed, without evidence. Nevertheless, Hassett said the Trump administration will “continue to study” Powell’s removal, while investors and analysts warned that the “risk to Fed independence is negative for all major U.S. asset classes.” ([NBC News](https://www.nbcnews.com/business/economy/trump-taunts-jerome-powell-waiting-long-cut-rates-rcna202123) / [New York Times](https://www.nytimes.com/2025/04/21/business/trump-tariffs-stock-markets.html) / [Washington Post](https://www.washingtonpost.com/business/2025/04/21/trump-federal-reserve-powell-interest-rates-inflation/) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-04-21/trump-warns-us-economy-could-slow-if-powell-doesn-t-cut-rates) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-04-20/asian-stocks-set-for-mixed-open-us-futures-dip-markets-wrap) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-04-18/trump-studying-whether-removing-powell-is-option-hassett-says) / [The Hill](https://thehill.com/business/5256173-trump-exploring-firing-fed-chair/) / [CNBC](https://www.cnbc.com/2025/04/18/trump-will-study-whether-to-fire-fed-chair-powell-adviser-says.html) / [Wall Street Journal](https://www.wsj.com/economy/central-banking/trump-powell-fed-interest-rate-48ced029))

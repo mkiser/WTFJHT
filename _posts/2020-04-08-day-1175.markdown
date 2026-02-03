@@ -3,6 +3,10 @@ title: Day 1175
 date: 2020-04-08 15:21:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- foreign-policy
+- energy
 description: '"It''s time to intensify."'
 image: "/uploads/1175.jpg"
 todayInOneSentence: Trump attacked the World Health Organization and threatened to
@@ -13,10 +17,6 @@ todayInOneSentence: Trump attacked the World Health Organization and threatened 
   CDC removed its dosing information for doctors on how to prescribe hydroxychloroquine
   and chloroquine; and Trump signed an executive order encouraging the U.S. to mine
   the moon for minerals.
-tags:
-- covid
-- foreign-policy
-- energy
 ---
 
 * ### Daily Damage Report.

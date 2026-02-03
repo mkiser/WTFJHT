@@ -3,6 +3,10 @@ title: Day 1180
 date: 2020-04-13 14:23:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- oversight
+- corruption
 description: '"A lot of instincts."'
 image: "/uploads/1180.jpg"
 todayInOneSentence: Trump was warned about the potential for a pandemic in January;
@@ -12,10 +16,6 @@ todayInOneSentence: Trump was warned about the potential for a pandemic in Janua
   social distancing practices to combat the coronavirus; and Trump threatened to veto
   the $2 trillion CARES Act if the legislation contained any funding for the U.S.
   Postal Service.
-tags:
-- covid
-- oversight
-- corruption
 ---
 
 * ### Daily Damage Report.

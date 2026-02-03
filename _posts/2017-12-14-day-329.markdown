@@ -3,11 +3,11 @@ title: Day 329
 date: 2017-12-14 08:51:00 -08:00
 categories:
 - trump
-description: 'Break the internet. '
-image: "/uploads/329.jpg"
 tags:
 - tech-policy
 - taxes
+description: 'Break the internet. '
+image: "/uploads/329.jpg"
 ---
 
 1/ **The FCC voted to repeal net neutrality**, which required internet service providers to treat all web traffic equally. The measure passed 3-2 with the Republican appointees supporting repeal and the Democratic appointees opposing. 83% of Americans supported the rules that are in place. Internet providers are now free to speed up services for some apps and websites, while blocking or slowing down others. In Ajit Pai's first 11 months as FCC chairman, he's lifted media ownership limits, eased caps on how much broadband providers can charge business customers, and cut back on a low-income broadband program that was supposed to be expanded. ([Washington Post](https://www.washingtonpost.com/news/the-switch/wp/2017/12/14/the-fcc-is-expected-to-repeal-its-net-neutrality-rules-today-in-a-sweeping-act-of-deregulation/) / [New York Times](https://www.nytimes.com/2017/12/14/technology/net-neutrality-repeal-vote.html))

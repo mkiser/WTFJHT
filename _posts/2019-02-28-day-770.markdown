@@ -3,6 +3,10 @@ title: Day 770
 date: 2019-02-28 13:26:00 -08:00
 categories:
 - trump
+tags:
+- foreign-policy
+- oversight
+- congress
 description: Options.
 image: "/uploads/770.jpg"
 todayInOneSentence: Trump and Kim Jong-Un abruptly ended their summit over nuclear
@@ -11,10 +15,6 @@ todayInOneSentence: Trump and Kim Jong-Un abruptly ended their summit over nucle
   committee; the House Intelligence Committee intends to call the Trump Organization's
   chief financial officer to testify; and the House Oversight Committee plans to interview
   Trump Jr. and Ivanka Trump.
-tags:
-- foreign-policy
-- oversight
-- congress
 ---
 
 1/ **Trump and Kim Jong-Un abruptly ended their summit in Vietnam after negotiations over North Korea's nuclear disarmament collapsed.** The two leaders were unable to agree on steps toward denuclearization or any measures to ease tensions between North and South Korea. Trump said the main issue was the sanctions, which Kim wanted Trump to remove entirely. "We had some options," Trump said, "but at this time we decided not to do any of the options." He added, "Sometimes you have to walk, and this was just one of those times." ([Politico](https://www.politico.com/story/2019/02/28/trump-north-korea-summit-1195227) / [New York Times](https://www.nytimes.com/2019/02/28/world/asia/trump-kim-vietnam-summit.html) / [NBC News](https://www.nbcnews.com/news/world/trump-begins-one-one-kim-jong-un-tempering-expectations-n977466) / [Washington Post](http://www.washingtonpost.com/politics/trump-and-kim-downplay-expectations-as-key-summit-talks-begin/2019/02/28/d77d752c-3ac5-11e9-aaae-69364b2ed137_story.html))

@@ -3,6 +3,10 @@ title: Day 188
 date: 2021-07-26 14:44:00 -07:00
 categories:
 - biden
+tags:
+- covid
+- jan-6
+- foreign-policy
 description: Mandate.
 image: "/uploads/day-188-072621.jpg"
 todayInOneSentence: The VA issued a vaccine mandate for all healthcare workers; Biden
@@ -12,10 +16,6 @@ todayInOneSentence: The VA issued a vaccine mandate for all healthcare workers; 
   funds they used to pay their own bonuses; and Trump urged Senate Republicans to
   abandon bipartisan infrastructure talks until after the midterms.
 author: Joe Amditis
-tags:
-- covid
-- jan-6
-- foreign-policy
 ---
 
 1/ **The VA issued a vaccine mandate for all health care workers, the first federal agency to do so.** Employees who provide direct patient care have eight weeks to get inoculated against COVID-19 or face penalties, including possible removal. ([New York Times](https://www.nytimes.com/2021/07/26/us/politics/veterans-affairs-coronavirus-covid-19.html))

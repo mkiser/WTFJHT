@@ -3,6 +3,10 @@ title: Day 126
 date: 2021-05-25 13:57:00 -07:00
 categories:
 - biden
+tags:
+- judiciary
+- covid
+- national-security
 description: '"Appalling."
 
 '
@@ -15,10 +19,6 @@ todayInOneSentence: The Justice Department appealed a district court ruling that
   comparing Covid-19 safety measures to the treatment of Jews during the Holocaust;
   Moderna said its Covid-19 vaccine provided strong protection in teens ages 12 to
   17; and half of the adults in the U.S. are now fully vaccinated against the coronavirus.
-tags:
-- judiciary
-- covid
-- national-security
 ---
 
 1/ **The Justice Department appealed a district court ruling that ordered it to release the entire memo used in 2019 to justify not charging Trump with obstruction of justice in the Russia investigation**. [Earlier this month](https://whatthefuckjusthappenedtoday.com/2021/05/05/day-106/#1-a-federal-judge-accused-the-justic), U.S. District Judge Amy Berman Jackson accused the Justice Department and then-Attorney General William Barr of being "disingenuous to this court" when describing Robert Mueller’s findings about why he decided not to pursue obstruction charges. Jackson ordered the entire document released. The Justice Department, however, released a partially unredacted version of the Office of Legal Counsel memo – a page and a half were made public. ([Washington Post](https://www.washingtonpost.com/national-security/justice-department-memo-mueller-trump/2021/05/24/50b0f580-b432-11eb-a980-a60af976ed44_story.html) / [New York Times](https://www.nytimes.com/2021/05/25/us/politics/trump-obstruction-barr-russia.html) / [NBC News](https://www.nbcnews.com/politics/justice-department/doj-partially-discloses-memo-barr-used-clear-trump-obstruction-russia-n1268445) / [Politico](https://www.politico.com/news/2021/05/24/biden-justice-memo-prosecuting-trump-490707))

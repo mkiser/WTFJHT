@@ -3,6 +3,12 @@ title: Day 512
 date: 2022-06-15 15:30:00 -07:00
 categories:
 - biden
+tags:
+- economy
+- covid
+- ukraine
+- indictment
+- jan-6
 description: '"Substantial."'
 image: "/uploads/day-512-biden.jpg"
 todayInOneSentence: The Federal Reserve raised interest rates by 75 basis points;
@@ -15,12 +21,6 @@ todayInOneSentence: The Federal Reserve raised interest rates by 75 basis points
   committee; and a Republican member of Congress led an unofficial tour through the
   Capitol complex on Jan. 5, which included at least one person who marched to the
   Capitol the following day.
-tags:
-- economy
-- covid
-- ukraine
-- indictment
-- jan-6
 ---
 
 1/ **The Federal Reserve raised interest rates by 75 basis points – the biggest increase since 1994 – to tackle the fastest inflation in four decades**. Chairman Jerome Powell called the move “an unusually large one,” adding that he expects either a 50 basis point or 75 basis point increase at the Fed’s July meeting. Economic data showed that inflation unexpectedly rose to 8.6% in May. The Fed now expect prices to increase 5.2% in 2022, compared to an earlier forecast for 4.3%, with inflation dropping to 2.6% in 2023 – still above its 2% target rate. On average, Fed policymakers expect interest rates to rise to 3.4% by December, and 3.8% by the end of 2023 – up from the 1.9% they projected in March. And, as a result of its policies, the Fed now expects the unemployment rate to increase to 3.7% this year and to 4.1% by 2024. “We’re not trying to induce a recession now,” Powell said. “Let’s be clear about that. We’re trying to achieve 2% inflation.” ([Wall Street Journal](https://www.wsj.com/articles/fed-raises-rates-by-0-75-percentage-point-largest-increase-since-1994-11655316170?mod=djemalertNEWS) / [New York Times](https://www.nytimes.com/2022/06/15/business/economy/the-federal-reserve-is-set-to-lift-interest-rates-again-as-concern-about-the-economy-grows.html?smid=url-share) / [NPR](https://www.npr.org/2022/06/15/1105026915/federal-reserve-interest-rates-inflation) / [Associated Press](https://apnews.com/article/fed-interest-rates-inflation-be1b698e48327d3a33847be25aba3e3d) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-06-15/fed-hikes-rates-75-basis-points-intensifying-inflation-fight?srnd=premium&sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/us-policy/2022/06/15/fed-rate-hike-inflation/) / [CBS News](https://www.cbsnews.com/news/interest-rate-hike-federal-reserve-inflation-june-2022/) / [Politico](https://www.politico.com/news/2022/06/15/fed-announces-supersized-interest-rate-hike-00039921))

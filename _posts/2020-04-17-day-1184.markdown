@@ -3,6 +3,10 @@ title: Day 1184
 date: 2020-04-17 12:33:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- protests
+- corruption
 description: '"Never fear."'
 image: "/uploads/1184.jpg"
 todayInOneSentence: Trump issued broad guidelines for states to consider as they decide
@@ -13,10 +17,6 @@ todayInOneSentence: Trump issued broad guidelines for states to consider as they
   to hold rallies leading up to November's election, despite public health experts
   warning that large gatherings should be put on hold; and smugglers sawed into new
   sections of Trump’s border wall 18 times in one month.
-tags:
-- covid
-- protests
-- corruption
 ---
 
 * ### 🔥 Daily Damage Report.

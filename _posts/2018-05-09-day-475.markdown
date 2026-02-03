@@ -3,12 +3,12 @@ title: Day 475
 date: 2018-05-09 09:38:00 -07:00
 categories:
 - trump
-description: Unprecedented and coordinated.
-image: "/uploads/475.jpg"
 tags:
 - mueller-investigation
 - disinformation
 - media
+description: Unprecedented and coordinated.
+image: "/uploads/475.jpg"
 ---
 
 1/ **A report from the Senate Intelligence Committee concludes that Russia conducted an "unprecedented, coordinated cyber campaign" in order to undermine confidence in U.S. voting systems** starting as early as 2014 and continuing through Election Day 2016. Senators report that the Russians targeted at least 18 states looking for vulnerabilities, and in six states they tried to gain access to voting websites. In "a small number of states" they actually breached election computer defenses. The committee said it found no evidence that vote tallies or voter registration information were changed, but that Russian hackers were "in a position to, at a minimum, alter or delete voter registration data." ([New York Times](https://www.nytimes.com/2018/05/08/us/politics/russia-2016-election-hackers.html) / [The Hill](http://thehill.com/policy/cybersecurity/386833-senate-intel-report-says-russia-waged-unprecedented-cyber-campaign))

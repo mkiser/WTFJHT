@@ -3,11 +3,11 @@ title: Day 386
 date: 2018-02-09 11:14:00 -08:00
 categories:
 - trump
-description: Fully aware.
-image: "/uploads/386.jpg"
 tags:
 - resignation
 - government-shutdown
+description: Fully aware.
+image: "/uploads/386.jpg"
 ---
 
 1/ **The Justice Department's No. 3 official resigned**. Rachel Brand was next in line behind Rod Rosenstein, who is overseeing the special counsel's inquiry into Russian influence in the 2016 election. Trump has called the investigation a witch hunt and even considered firing Rosenstein. ([New York Times](https://www.nytimes.com/2018/02/09/us/politics/rachel-brand-justice-department.html) / [CNN](https://www.cnn.com/2018/02/09/politics/rachel-brand-resigns/index.html))

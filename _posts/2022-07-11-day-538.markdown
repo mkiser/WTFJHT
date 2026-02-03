@@ -3,6 +3,11 @@ title: Day 538
 date: 2022-07-11 15:10:00 -07:00
 categories:
 - biden
+tags:
+- jan-6
+- subpoena
+- reproductive-rights
+- voting-rights
 description: '"Out of control."'
 image: "/uploads/day-538-biden.jpg"
 todayInOneSentence: 'A federal judge refused to delay Stephen Bannon’s trial on charges
@@ -13,11 +18,6 @@ todayInOneSentence: 'A federal judge refused to delay Stephen Bannon’s trial o
   most ballot drop boxes aren''t allowed in the state; the latest Omicron subvariant
   has quickly become dominant in the U.S.; and 64% of Democratic voters want someone
   other than Biden to run for president in 2024. '
-tags:
-- jan-6
-- subpoena
-- reproductive-rights
-- voting-rights
 ---
 
 1/ **A federal judge refused to delay Stephen Bannon’s trial on charges of criminal contempt of Congress**. After refusing to cooperate with a congressional subpoena from the Jan. 6 committee for nearly nine months, Bannon informed the panel over the weekend that he was willing to testify. Bannon's reversal came after he suggested that Trump had “waived” his claim of executive privilege and permitted him to testify. Prosecutors, however, disclosed Monday that Trump’s attorney Justin Clark told them Trump “never invoked executive privilege over any particular information or materials” and that Bannon’s lawyer “misrepresented to the committee what the former president’s counsel had told the defendant’s attorney.” The Justice Department told the federal judge that Bannon’s last-minute offer to testify was a “last-ditch attempt to avoid accountability” and “irrelevant” to whether he will be prosecuted for contempt. Bannon’s trial is set to begin July 18 on two counts of criminal contempt. ([Washington Post](https://www.washingtonpost.com/dc-md-va/2022/07/11/bannon-trial-hearing/) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-07-11/bannon-fails-to-push-back-criminal-contempt-trial-over-hearings?srnd=politics-vp&sref=MIBMEEoj) / [CNN](https://www.cnn.com/2022/07/11/politics/steve-bannon-donald-trump-executive-privilege/index.html) / [Politico](https://www.politico.com/news/2022/07/11/trump-attorney-justin-clark-fbi-00045073) / [The Guardian](https://www.theguardian.com/us-news/2022/jul/10/steve-bannon-discussions-january-6-committee-capitol-attack) / [New York Times](https://www.nytimes.com/2022/07/10/us/politics/bannon-jan-6-trump.html) / [NBC News](https://www.nbcnews.com/politics/justice-department/steve-bannons-eleventh-hour-reversal-jan-6-testimony-stunt-doj-says-rcna37585) / [Associated Press](https://apnews.com/article/capitol-siege-steve-bannon-donald-trump-congress-government-and-politics-d7f38a2e00b2947c4f553ef81d78790a) / [Wall Street Journal](https://www.wsj.com/articles/prosecutors-say-steve-bannon-should-still-face-trial-11657544368?mod=politics_lead_pos1))

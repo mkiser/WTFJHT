@@ -3,6 +3,10 @@ title: Day 1218
 date: 2024-05-21 14:53:00 -07:00
 categories:
 - biden
+tags:
+- indictment
+- media
+- disinformation
 description: '"An act of madness."'
 image: "/uploads/day-1218-biden.jpg"
 todayInOneSentence: 'Israel’s Communications Ministry confiscated camera and broadcasting
@@ -11,10 +15,6 @@ todayInOneSentence: 'Israel’s Communications Ministry confiscated camera and b
   president again; Trump’s defense team rested its case without calling him to testify;
   and the U.S. said Russia "likely" launched a counterspace weapon capable of attacking
   other satellites in low Earth orbit last week. '
-tags:
-- indictment
-- media
-- disinformation
 ---
 
 1/ **Israel’s Communications Ministry confiscated camera and broadcasting equipment from the Associated Press**, claiming the news agency had violated a new broadcasting law for providing a live feed of Gaza to Al Jazeera. The Associated Press said the seizure was “not based on the content of the feed but rather an abusive use by the Israeli government of the country’s new foreign broadcaster law.” Following swift condemnation from the Biden administration and journalism organizations, Israeli officials said the equipment would be returned. Israeli opposition leader Yair Lapid also denounced the decision to seize press equipment, calling it "an act of madness." Lapid added: “This government acts as if it has decided to make sure at any cost that Israel will be shunned all over the world. They went crazy.” [Earlier this month](https://whatthefuckjusthappenedtoday.com/2024/05/06/day-1203/#3-the-israel-defense-forces-dropped), Israel shut down Al Jazeera’s operations in the country, accusing the Qatari-based news network of harming Israel’s security and inciting violence against its soldiers. ([Associated Press](https://apnews.com/article/live-transmission-israel-associated-press-57e8f662907334ba3599156276381190) / [CNN](https://www.cnn.com/2024/05/21/media/israel-gaza-live-camera-shut-down/index.html) / [Axios](https://www.axios.com/2024/05/21/israel-ap-equipment-seized-al-jazeera) / [Washington Post](https://www.washingtonpost.com/world/2024/05/21/israel-hamas-war-gaza-news-palestine-rafah/) / [New York Times](https://www.nytimes.com/2024/05/21/world/middleeast/israel-ap-al-jazeera-cameras.html))

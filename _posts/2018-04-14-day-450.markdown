@@ -3,13 +3,13 @@ title: Day 450
 date: 2018-04-14 09:32:00 -07:00
 categories:
 - trump
-description: Mission accomplished.
-image: "/uploads/450.jpg"
 tags:
 - mueller-investigation
 - national-security
 - russia
 - foreign-policy
+description: Mission accomplished.
+image: "/uploads/450.jpg"
 ---
 
 *Welcome to a rare Saturday edition of WTF Just Happened Today*.

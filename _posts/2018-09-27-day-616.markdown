@@ -3,6 +3,8 @@ title: Day 616
 date: 2018-09-27 11:46:00 -07:00
 categories:
 - trump
+tags:
+- supreme-court
 description: '"I am terrified."'
 image: "/uploads/616.jpg"
 todayInOneSentence: Christine Blasey Ford testified that she is "100%" certain that
@@ -11,8 +13,6 @@ todayInOneSentence: Christine Blasey Ford testified that she is "100%" certain t
   was "riveted" watching his opening statement but that he could "always be convinced"
   otherwise; and some Republicans hoping the White House pulls Kavanaugh's nomination,
   calling today a "total disaster."
-tags:
-- supreme-court
 ---
 
 1/ **Christine Blasey Ford testified that she is "100%" certain that Brett Kavanaugh was her attacker**, and that she believed he "was going to rape me" and "was going to accidentally kill me." Ford began her testimony before the Senate Judiciary Committee by telling senators: "I am here today not because I want to be. I am terrified." ([Politico](https://www.politico.com/story/2018/09/27/kavanaugh-ford-hearing-supreme-court-847090) / [New York Times](https://www.nytimes.com/2018/09/27/us/politics/dr-blasey-ford-testimony-kavanaugh.html) / [Washington Post](https://www.washingtonpost.com/politics/kavanaugh-hearing-christine-blasey-ford-to-give-senate-testimony-about-sexual-assault-allegation/2018/09/27/fc216170-c1c3-11e8-b338-a3289f6cb742_story.html) / [CNN](https://www.cnn.com/2018/09/27/politics/blasey-ford-kavanaugh-hearing-notable-moments/index.html))

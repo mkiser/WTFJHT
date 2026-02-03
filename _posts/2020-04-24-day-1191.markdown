@@ -3,6 +3,10 @@ title: Day 1191
 date: 2020-04-24 14:44:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- corruption
+- china
 description: '"Just to see what would happen."'
 image: "/uploads/1191.jpg"
 todayInOneSentence: The death toll from the coronavirus pandemic surpassed 50,000
@@ -14,10 +18,6 @@ todayInOneSentence: The death toll from the coronavirus pandemic surpassed 50,00
   coronavirus; the FDA warned doctors against prescribing hydroxychloroquine and chloroquine
   for treating the coronavirus; and Trump is reportedly tens of millions of dollars
   in debt to China.
-tags:
-- covid
-- corruption
-- china
 ---
 
 * ### 🔥 Daily Damage Report.

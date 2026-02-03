@@ -3,6 +3,10 @@ title: Day 197
 date: 2021-08-04 14:30:00 -07:00
 categories:
 - biden
+tags:
+- covid
+- resignation
+- ethics
 description: '"Unwelcome and nonconsensual touching."'
 image: "/uploads/day-197-080421.jpg"
 todayInOneSentence: The FDA plans to fully approve the Pfizer vaccine by next month;
@@ -13,10 +17,6 @@ todayInOneSentence: The FDA plans to fully approve the Pfizer vaccine by next mo
   Mexico is planning to sue U.S.-based gun manufacturers over the flow of weapons
   coming across the border.
 author: Joe Amditis
-tags:
-- covid
-- resignation
-- ethics
 ---
 
 1/ **The FDA plans to fully approve the Pfizer vaccine by the start of next month.** Giving final approval to the Pfizer vaccine — rather than relying on the emergency authorization granted late last year — could help increase inoculation rates at a moment when the highly transmissible Delta variant of the virus is sharply driving up the number of new cases. ([New York Times](https://www.nytimes.com/2021/08/03/us/politics/pfizer-vaccine-approval.html))

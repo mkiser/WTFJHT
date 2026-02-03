@@ -1,6 +1,10 @@
 ---
 title: Day 1526
 date: 2025-03-25 14:30:00 -07:00
+tags:
+- national-security
+- ukraine
+- social-security
 description: '"Just something that can happen."'
 image: "/uploads/day-1526-trump.jpg"
 todayInOneSentence: Trump dismissed concerns over a potential national security breach
@@ -18,10 +22,6 @@ todayInOneSentence: Trump dismissed concerns over a potential national security 
   privatizing the agency; a White House adviser claimed the U.S. could sell gold reserves
   to fund large-scale Bitcoin purchases; and Trump family's crypto firm announced
   the launch of a stablecoin backed by U.S. Treasurys, dollar deposits, and cash equivalents.
-tags:
-- national-security
-- ukraine
-- social-security
 ---
 
 1/ **Trump dismissed concerns over a potential national security breach after an editor at The Atlantic was added to a Signal group chat where top officials discussed U.S. airstrikes in Yemen**. Trump stood by national security adviser Mike Waltz – who reportedly created the chat – saying, “Michael Waltz has learned a lesson, and he’s a good man.” Despite mounting criticism, Trump claimed the incident had “no impact at all” and refused to consider firings, saying: “It’s just something that can happen.” The National Security Council, meanwhile, confirmed the chat “appears to be authentic,” contradicting Defense Secretary Pete Hegseth’s denial that “nobody was texting war plans.” But The Atlantic’s Jeffrey Goldberg said the group exchanged “attack sequence, weapons packages, targets” – details he withheld for national security reasons. ([NBC News](https://www.nbcnews.com/politics/white-house/trump-stands-national-security-adviser-leaked-military-plans-saying-mi-rcna197944) / [Politico](https://www.politico.com/news/2025/03/25/trump-michael-waltz-signal-chat-00246911) / [ABC News](https://abcnews.go.com/Politics/white-house-denies-war-plans-classified-information-discussed/story?id=120126088) / [Axios](https://www.axios.com/2025/03/25/trump-administration-atlantic-houthi-war-messages) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-03-25/trump-backs-waltz-after-breach-on-houthi-strike-plans) / [Politico](https://www.politico.com/news/2025/03/24/hegseth-disputes-he-texted-war-plans-00246825) / [Axios](https://www.axios.com/2025/03/24/hegseth-trump-atlantic-yemen-houthis-text-war-plan) / [CNBC](https://www.cnbc.com/2025/03/25/trump-signal-war-plans-texts-waltz.html))

@@ -3,16 +3,16 @@ title: Day 847
 date: 2019-05-16 04:45:00 -07:00
 categories:
 - trump
+tags:
+- immigration
+- foreign-policy
+- reproductive-rights
 description: On fire.
 image: "/uploads/847.jpg"
 todayInOneSentence: The U.S. military will build six tent cities near border for migrants;
   Trump's immigration plan will emphasizes immigrants' skills over their family ties;
   Trump, frustrated by advisers, is not convinced the time is right to attack Iran;
   and the Missouri Senate passed a bill to ban abortions at 8 weeks.
-tags:
-- immigration
-- foreign-policy
-- reproductive-rights
 ---
 
 1/ **The U.S. military will build six tent cities near border for migrants**. The tents will likely not be on military bases, and ICE — not the military — will be responsible for migrant detention and custodial support. ([NBC News](https://www.nbcnews.com/politics/immigration/u-s-military-build-6-tent-cities-border-migrants-n1006161))

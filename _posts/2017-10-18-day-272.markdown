@@ -3,11 +3,11 @@ title: Day 272
 date: 2017-10-18 09:26:00 -07:00
 categories:
 - trump
-description: Knew what he signed up for.
-image: "/uploads/272.jpg"
 tags:
 - executive-order
 - reproductive-rights
+description: Knew what he signed up for.
+image: "/uploads/272.jpg"
 ---
 
 1/ **Trump denied telling the widow of a fallen soldier "he knew what he signed up for,"** contradicting a Florida congresswoman who was with the woman at the time. "Basically, he said, 'Well, I guess he knew what he signed up for," Congresswoman Frederica Wilson said, recounting the conversation she heard on speakerphone. "But I guess it still hurt.' That's what he said." 

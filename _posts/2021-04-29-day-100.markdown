@@ -3,6 +3,10 @@ title: Day 100
 date: 2021-04-29 13:56:00 -07:00
 categories:
 - biden
+tags:
+- infrastructure
+- criminal-justice
+- climate
 description: '"Crisis into opportunity."'
 image: "/uploads/100-days-biden-news.jpg"
 todayInOneSentence: Biden declared that “America is rising anew” in his first address
@@ -12,10 +16,6 @@ todayInOneSentence: Biden declared that “America is rising anew” in his firs
   to reduce climate-changing methane emissions from oil and gas fields; and federal
   agencies are investigating at least two incidents on U.S. soil that appear similar
   to the “Havana syndrome” attack.
-tags:
-- infrastructure
-- criminal-justice
-- climate
 ---
 
 1/ **Biden declared that “America is rising anew” in his first address to Congress**, calling for a $4 trillion investment in infrastructure, children, families, and education to help rebuild the economy and compete with rising global competitors. Biden pointed to the nation’s emergence from the coronavirus and events that, in his view, tested American democracy, saying “We have stared into an abyss of insurrection and autocracy — of pandemic and pain — and ‘we the people’ did not flinch.” Biden delivered his remarks with Nancy Pelosi and Kamala Harris sitting behind him – the first president to deliver an address to Congress with two women behind him – representing the line of succession to his office. “Now, after just 100 days, I can report to the nation: America is on the move again,” he added. “Turning peril into possibility. Crisis into opportunity. Setback into strength.” ([Associated Press](https://apnews.com/article/biden-joint-address-congress-a157a7355bfc5c189fdc1040722fb652) / [Washington Post](https://www.washingtonpost.com/politics/biden-speech-congress/2021/04/28/f33615ac-a7a2-11eb-bca5-048b2759a489_story.html) / [New York Times](https://www.nytimes.com/2021/04/28/us/politics/joe-biden-government-plans.html) / [NBC News](https://www.nbcnews.com/politics/white-house/move-biden-urges-congress-turn-crisis-opportunity-n1265814))

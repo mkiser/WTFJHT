@@ -1,6 +1,11 @@
 ---
 title: Day 1653
 date: 2025-07-30 16:03:00 -07:00
+tags:
+- voting-rights
+- economy
+- oversight
+- judiciary
 description: '"Keep the door open."'
 image: "/uploads/day1653-trump.jpg"
 todayInOneSentence: 'Texas Republicans proposed a new congressional map that would
@@ -14,11 +19,6 @@ todayInOneSentence: 'Texas Republicans proposed a new congressional map that wou
   Epstein and Ghislaine Maxwell only heard testimony from two law enforcement officials
   – not the victims, alleged accomplices, or associates; and Kamala Harris said she
   will not run for California governor in 2026. '
-tags:
-- voting-rights
-- economy
-- oversight
-- judiciary
 ---
 
 1/ **Texas Republicans proposed a new congressional map that would give them five additional U.S. House seats by redrawing Democratic districts in major metro areas and South Texas**. The map, pushed by Trump and introduced during a special session called by Gov. Abbott, would give Republicans control of 30 of Texas’ 38 House seats – nearly 80% of the delegation – each in districts Trump won by double digits in 2024. By consolidating Democratic voters and redrawing competitive or minority-heavy districts, the map could help lock in Republican control of the House through 2026. It includes four new majority-Hispanic seats redrawn to favor Republicans. Democrats called it “outrageously gerrymandered,” with Rep. Greg Casar accusing Republicans of “illegal voter suppression of Black and Latino Central Texans.” Rep. Lloyd Doggett said the plan “relies on crooked lines instead of honest votes.” The map could be approved next week, but is almost certain to face court challenges. ([NPR](https://www.npr.org/2025/07/30/nx-s1-5485293/texas-redistricting-proposed-congressional-map) / [New York Times](https://www.nytimes.com/2025/07/30/us/politics/texas-republican-redistricting.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-07-30/texas-republicans-propose-new-map-for-trump-backed-redistricting) / [NBC News](https://www.nbcnews.com/politics/2026-election/map-texas-congressional-districts-change-republicans-new-proposal-rcna221953) / [Texas Tribune](https://www.texastribune.org/2025/07/30/texas-redistricting-congressional-maps-house-republicans/) / [CNN](https://www.cnn.com/2025/07/30/politics/texas-redistricting-republicans) / [Politico](https://www.politico.com/news/2025/07/30/new-congressional-texas-map-redistricting-00483086) / [Punchbowl News](https://punchbowl.news/article/campaigns/texas-sized-gamble/) / [Semafor](https://www.semafor.com/article/07/30/2025/democrats-struggle-to-choose-their-weapons-in-a-trump-waged-redistricting-battle) / [Washington Post](https://www.washingtonpost.com/politics/2025/07/30/texas-redistricting-map-republican-proposal/) / [Associated Press](https://apnews.com/article/texas-republicans-democrats-redistricting-72f02ef1eeb04240cc8431e8f962fa10))

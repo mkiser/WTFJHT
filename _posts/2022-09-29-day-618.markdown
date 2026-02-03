@@ -3,6 +3,11 @@ title: Day 618
 date: 2022-09-29 14:45:00 -07:00
 categories:
 - biden
+tags:
+- education
+- government-shutdown
+- economy
+- jan-6
 description: '"A work in progress."'
 image: "/uploads/day-618-biden.jpg"
 todayInOneSentence: 'The Education Department scaled back eligibility for its student
@@ -13,11 +18,6 @@ todayInOneSentence: 'The Education Department scaled back eligibility for its st
   for "substantial loss of life"; and Ginni Thomas, the wife of Supreme Court Justice
   Clarence Thomas, testified before the Jan. 6 committee for about four and a half
   hours. '
-tags:
-- education
-- government-shutdown
-- economy
-- jan-6
 ---
 
 1/ **The Education Department scaled back eligibility for its student loan forgiveness plan after six Republican-led states sued to stop Biden from canceling up to $20,000 in student debt for millions of borrowers**. The lawsuit filed in a federal court in Missouri by state attorneys general from Missouri, Arkansas, Kansas, Nebraska, and South Carolina, as well as legal representatives from Iowa argue that student loan servicers would see a drop in revenue because borrowers are likely to consolidate their loans under the Federal Family Education Loan program – FFEL are loans that were originally made by private lenders but are guaranteed by the federal government. In response, the Biden administration said it would exclude FFEL from the loan forgiveness program. The move disqualifies roughly 2 million of the 44 million otherwise eligible borrowers. ([Politico](https://www.politico.com/news/2022/09/29/biden-administration-scales-back-student-debt-relief-for-millions-amid-legal-concerns-00059522) / [Washington Post](https://www.washingtonpost.com/us-policy/2022/09/29/republicans-student-loan-forgiveness-lawsuit/) / [Associated Press](https://apnews.com/article/biden-health-lawsuits-covid-missouri-862d783188de45b698c54b00820d3616) / [NPR](https://www.npr.org/2022/09/29/1125923528/biden-student-loans-debt-cancellation-ffel-perkins) / [CNN](https://www.cnn.com/2022/09/29/politics/biden-student-loan-forgiveness-plan-lawsuit/index.html))

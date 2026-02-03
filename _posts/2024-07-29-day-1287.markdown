@@ -3,6 +3,9 @@ title: Day 1287
 date: 2024-07-29 15:15:00 -07:00
 categories:
 - biden
+tags:
+- supreme-court
+- tech-policy
 description: '"It''ll be fine."'
 image: "/uploads/day-1287-biden-harris.jpg"
 todayInOneSentence: 'Biden called for a constitutional amendment to reform the Supreme
@@ -13,9 +16,6 @@ todayInOneSentence: 'Biden called for a constitutional amendment to reform the S
   capital of the planet and the Bitcoin superpower of the world” by picking crypto-friendly
   regulators if he returns to the White House; Trump leads Harris 48% to 47% among
   likely voters; and Harris’s favorability rating increased to 43% from 35% last week. '
-tags:
-- supreme-court
-- tech-policy
 ---
 
 1/ **Biden called for a constitutional amendment to reform the Supreme Court**, pressing Congress to establish 18-year term limits and a binding, enforceable code of conduct for the court’s nine justices. Biden, [in an op-ed](https://www.washingtonpost.com/opinions/2024/07/29/joe-biden-reform-supreme-court-presidential-immunity-plan-announcement/), said “no one” including “a justice on the Supreme Court of the United States” is above the law. He added: "What is happening now is not normal, and it undermines the public’s confidence in the court’s decisions, including those impacting personal freedoms. We now stand in a breach.” Biden also called for a constitutional amendment to limit the Supreme Court’s “dangerous and extreme” decision to grant blanket immunity to presidents for crimes they commit in office. A constitutional amendment requires two-thirds support from both chambers of Congress, or through a constitutional convention by two-thirds of the states. Ratification requires support from three-fourths of state legislatures. Speaker Mike Johnson called Biden's proposals an effort to "delegitimize the court," and said plan "is dead on arrival in the House." ([Washington Post](https://www.washingtonpost.com/politics/2024/07/29/biden-supreme-court-reform-ethics-code-term-limits/) / [New York Times](https://www.nytimes.com/2024/07/29/us/politics/biden-supreme-court-austin-texas.html) / [Associated Press](https://apnews.com/article/supreme-court-reform-biden-harris-trump-ffd48f3a2023aeca841bb53c2147ef03) / [Reuters](https://www.reuters.com/world/us/biden-propose-supreme-court-term-limits-binding-code-conduct-2024-07-29/) / [NPR](https://www.npr.org/2024/07/29/nx-s1-5055094/biden-supreme-court) / [NBC News](https://www.nbcnews.com/politics/supreme-court/biden-call-supreme-court-reforms-constitutional-limits-presidential-im-rcna163970) / [Axios](https://www.axios.com/2024/07/29/biden-supreme-court-reform-term-limits-ethics-code) / [ABC News](https://abcnews.go.com/Politics/biden-calls-supreme-court-reforms-amendment-strip-presidents/story?id=112356142) / [Politico](https://www.politico.com/news/2024/07/29/biden-supreme-court-reform-announcement-00171594) / [Wall Street Journal](https://www.wsj.com/politics/policy/biden-to-call-for-supreme-court-reforms-and-overturn-of-presidential-immunity-fe7ce648) / [CNN](https://www.cnn.com/2024/07/29/politics/biden-supreme-court-reform/index.html) / [CBS News](https://www.cbsnews.com/news/biden-supreme-court-reform/))

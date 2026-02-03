@@ -1,6 +1,11 @@
 ---
 title: Day 1759
 date: 2025-11-13 16:13:00 -08:00
+tags:
+- voting-rights
+- government-shutdown
+- immigration
+- judiciary
 description: '"This is no way to run a country."'
 image: "/uploads/day1759trump.jpg"
 todayInOneSentence: 'The Justice Department sued to block California’s new voter-approved
@@ -22,11 +27,6 @@ todayInOneSentence: 'The Justice Department sued to block California’s new vot
   be “tossed into the seventh circle of hell” and admitted he had “a Nazi streak,”
   moved to the General Services Administration as deputy general counsel; and 40%
   of U.S. women aged 15 to 44 say they want to leave the country permanently. '
-tags:
-- voting-rights
-- government-shutdown
-- immigration
-- judiciary
 ---
 
 1/ **The Justice Department sued to block California’s new voter-approved congressional map, which created five Democratic-leaning districts ahead of the 2026 midterm elections**. The department said the plan “manipulates district lines in the name of bolstering the voting power of Hispanic Californians because of their race” and called it a racial gerrymander that violates the Constitution. The Justice Department, however, hasn’t brought comparable lawsuits against the new Republican-drawn maps in Texas, Missouri and North Carolina, even though civil rights advocates say those plans also disadvantage minority voters. Nevertheless, Attorney General Pam Bondi claimed California’s redistricting scheme was a “brazen power grab that tramples on civil rights,” while Gov. Gavin Newsom’s office responded: “These losers lost at the ballot box and soon they will also lose in court.” The lawsuit asks a federal judge to block the state from using the map in the 2026 elections. ([Associated Press](https://apnews.com/article/california-redistricting-justice-department-lawsuit-025b00f0b3490a5fa8219c4376bcb9d2) / [Sacramento Bee](https://www.sacbee.com/news/politics-government/capitol-alert/article312906418.html) / [Politico](https://www.politico.com/news/2025/11/13/department-of-justice-california-redistricting-00651021) / [Washington Post](https://www.washingtonpost.com/politics/2025/11/13/doj-lawsuit-california-congessional-map/) / [Axios](https://www.axios.com/2025/11/13/trump-redistricting-maps-california-suit) / [Wall Street Journal](https://www.wsj.com/politics/policy/california-redistricting-doj-lawsuit-8d5e80f9) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-11-13/trump-s-doj-seeks-to-block-california-s-new-congressional-maps) / [NBC News](https://www.nbcnews.com/politics/justice-department/justice-department-joins-lawsuit-californias-redrawn-house-map-rcna243771) / [The Guardian](https://www.theguardian.com/us-news/live/2025/nov/13/donald-trump-jeffrey-epstein-files-us-government-shutdown-latest-news-updates) / [CNN](https://www.cnn.com/2025/11/13/politics/california-trump-redistricting-lawsuit))

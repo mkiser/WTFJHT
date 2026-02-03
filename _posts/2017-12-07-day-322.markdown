@@ -3,12 +3,12 @@ title: Day 322
 date: 2017-12-07 10:08:00 -08:00
 categories:
 - trump
-description: Making a deal.
-image: "/uploads/322.jpg"
 tags:
 - government-shutdown
 - israel-palestine
 - civil-rights
+description: Making a deal.
+image: "/uploads/322.jpg"
 ---
 
 1/ **Trump Jr. cited attorney-client privilege and refused to discuss a phone call he had with his father** about how to handle the fallout from his June 2016 meeting at Trump Tower with a Russian lawyer. He told the House Intelligence Committee that a lawyer was in the room during the call. Adam Schiff, the top Democrat on the committee, told reporters: "I don't believe you can shield communications between individuals merely by having an attorney present," adding "that's not the purpose of attorney-client privilege" and that "the presence of counsel does not make communications between father and son a privilege." ([Politico](https://www.politico.com/story/2017/12/06/donald-trump-privilege-questions-284841) / [New York Times](https://www.nytimes.com/2017/12/06/us/donald-trump-jr-intel-committee.html) / [Wall Street Journal](https://www.wsj.com/articles/donald-trump-jr-refuses-to-discuss-father-son-talk-with-investigators-1512612451))

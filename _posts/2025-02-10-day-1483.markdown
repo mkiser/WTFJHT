@@ -1,6 +1,11 @@
 ---
 title: Day 1483
 date: 2025-02-10 13:27:00 -08:00
+tags:
+- judiciary
+- tariffs
+- immigration
+- israel-palestine
 description: '"The most serious constitutional crisis the country has faced since
   Watergate."'
 image: "/uploads/day-1483-trump.jpg"
@@ -18,11 +23,6 @@ todayInOneSentence: A federal judge ruled that the Trump administration violated
   at the Department of Education, including email systems and potentially sensitive
   databases; and Trump’s approval rating stands at 53%, with supporters describing
   him as “tough,” “focused,” and “effective.”
-tags:
-- judiciary
-- tariffs
-- immigration
-- israel-palestine
 ---
 
 1/ **A federal judge ruled that the Trump administration violated his order to unfreeze billions in federal grants and directed the White House to restore the funds immediately**. U.S. District Judge John McConnell found that despite his prior ruling, the White House continued to withhold money for Medicaid, school lunches, clean energy projects, and other federally approved programs. The Justice Department argued that some funding was exempt, but McConnell rejected that claim, saying the freeze was unconstitutional and caused “irreparable harm.” The ruling follows a lawsuit by 22 states challenging the administration’s attempt to tie federal grants to Trump’s policy priorities. While McConnell did not hold officials in contempt, he warned that continued defiance could lead to further legal action. ([Associated Press](https://apnews.com/article/funding-freeze-trump-federal-grants-loans-judge-ec9bf2700c41ec0ba4085d375599d295) / [New York Times](https://www.nytimes.com/2025/02/10/us/trump-unfreezing-federal-grants-judge-ruling.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/judge-finds-trump-administration-violated-court-order-halting-funding-rcna191528) / [Wall Street Journal](https://www.wsj.com/us-news/judge-orders-trump-administration-to-comply-with-order-on-frozen-funds-22a53ff3) / [Politico](https://www.politico.com/news/2025/02/10/spending-freeze-donald-trump-015514) / [ABC News](https://abcnews.go.com/Politics/live-updates/trump-2nd-term-tariffs-trade-war/?id=118643360))

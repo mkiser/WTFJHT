@@ -3,6 +3,10 @@ title: Day 903
 date: 2019-07-11 10:03:00 -07:00
 categories:
 - trump
+tags:
+- immigration
+- census
+- healthcare
 description: Collateral damage.
 image: "/uploads/903.jpg"
 todayInOneSentence: The Trump administration is scheduled to begin coordinated raids
@@ -11,10 +15,6 @@ todayInOneSentence: The Trump administration is scheduled to begin coordinated r
   hosted a "social media summit" at the White House for his political allies, including
   a conspiracy theorist, a meme creator, and a plagiarist; and the Trump administration
   withdrew a proposal to lower prescription drug prices.
-tags:
-- immigration
-- census
-- healthcare
 ---
 
 1/ **The Trump administration is scheduled to begin coordinated raids to arrest at least 2,000 immigrants who have been ordered deported**. The raids – scheduled to begin on Sunday after initially being postponed in part to resistance at Immigration and Customs Enforcement – will be conducted by ICE agents over multiple days. The raids are expected to include "collateral" deportations, where ICE agents might detain any immigrants present when the raid occurs. Agents have expressed unease about arresting babies and young children, noting that the raids could have limited success since word has already spread among immigrant communities about how to avoid arrest. ([New York Times](https://www.nytimes.com/2019/07/11/us/politics/ice-families-deport.html) / [Wall Street Journal](https://www.wsj.com/articles/ice-to-launch-round-up-of-undocumented-immigrants-sunday-11562849273) / [CNN](https://www.cnn.com/2019/07/11/politics/ice-raids-undocumented-immigrants/index.html) / [Associated Press](https://apnews.com/040b015baf0b4292bc141cd888df6602))

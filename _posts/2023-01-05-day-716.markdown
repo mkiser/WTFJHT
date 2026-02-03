@@ -3,6 +3,10 @@ title: Day 716
 date: 2023-01-05 14:39:00 -08:00
 categories:
 - biden
+tags:
+- congress
+- labor
+- foreign-policy
 description: '"The Republicans haven''t been serious about this."'
 image: "/uploads/day-716-biden.jpg"
 todayInOneSentence: 'The Biden administration expanded its use of a Trump-era Covid-19
@@ -14,10 +18,6 @@ todayInOneSentence: 'The Biden administration expanded its use of a Trump-era Co
   said it expects interest rates to remain high for "some time" as it tries to bring
   down inflation; and the U.S. and Germany will send Ukraine armored combat vehicles
   and an additional Patriot air defense system. '
-tags:
-- congress
-- labor
-- foreign-policy
 ---
 
 1/ **The Biden administration expanded its use of a Trump-era Covid-19 immigration policy to immediately turn away migrants from Cuba, Haiti, Nicaragua, and Venezuela crossing the border from Mexico illegally to claim asylum**. As part of the new immigration rules, the Biden administration will allow up to 30,000 migrants from Cuba, Haiti, Nicaragua, and Venezuela to legally apply for entry each month, as long as a U.S. sponsor applies for them first. “The failure to pass and fund this comprehensive plan has increased the challenges that we’re seeing at the Southwest border,” Biden said. “The Republicans haven’t been serious about this at all.” [Last month](https://whatthefuckjusthappenedtoday.com/2022/12/28/day-708/#1-the-supreme-court-temporarily-bloc), the Supreme Court allowed Title 42 to remain in effect while a legal challenge by 19 Republican state attorneys general played out. In November, a federal judge ruled that Title 42 was unlawful, and scheduled the policy to expire on Dec. 21. ([NBC News](https://www.nbcnews.com/politics/immigration/title-42-block-nicaraguans-cubans-haitians-rcna64418) / [New York Times](https://www.nytimes.com/2023/01/05/us/politics/biden-border-crossings.html) / [NPR](https://www.npr.org/2023/01/05/1146976334/biden-border-security-immigration) / [Washington Post](https://www.washingtonpost.com/politics/2023/01/05/biden-border-security-immigration/) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-01-05/biden-restricting-nicaraguans-cubans-and-haitians-at-border?leadSource=uverify%20wall&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/biden-administration-expands-title-42-migrant-expulsions-to-more-countries-11672934432?mod=djemalertNEWS) / [CNN](https://www.cnn.com/2023/01/05/politics/biden-border-programs/))

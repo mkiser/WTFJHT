@@ -3,6 +3,12 @@ title: Day 975
 date: 2023-09-21 14:09:00 -07:00
 categories:
 - biden
+tags:
+- government-shutdown
+- national-security
+- immigration
+- classified-documents
+- jan-6
 description: '"Burn the whole place down."'
 image: "/uploads/day-975-biden.jpg"
 todayInOneSentence: Kevin McCarthy canceled House votes and sent members home for
@@ -16,12 +22,6 @@ todayInOneSentence: Kevin McCarthy canceled House votes and sent members home fo
   day of the Jan. 6 Capitol riot; and 28% of Americans say they don't like either
   political party – more than quadruple the share that said the same thing 30 years
   ago.
-tags:
-- government-shutdown
-- national-security
-- immigration
-- classified-documents
-- jan-6
 ---
 
 1/ **Kevin McCarthy canceled House votes and sent members home for the weekend despite nine days remaining until a shutdown and no plan to fund the government**. For the second time in three days five conservative Republicans tanked a procedural vote to start debate on a key military funding bill. McCarthy had planned to pass the defense bill – one of the 12 fiscal 2024 appropriations bills that both the House and Senate need to pass to fund the government – and begin work on a short-term funding bill to keep the entire government funded beyond Sept. 30. The House Freedom Caucus, however, has continued to demand even lower spending levels and no more aid for Ukraine – two proposals that would be dead on arrival in the Democratic-controlled Senate. “This is a whole new concept of individuals that just want to burn the whole place down,” McCarthy said. “It doesn’t work.” Trump, [meanwhile](https://www.axios.com/2023/09/21/trump-lobs-new-grenade-into-gops-government-shutdown-debate), called on Republicans to "defund all aspects" of the "weaponized" Biden administration, claiming it's their "last chance" to stop his "political prosecutions." ([CNBC](https://www.cnbc.com/2023/09/21/house-speaker-mccarthy-squeezed-in-shutdown-fight-markets-worry.html) / [Axios](https://www.axios.com/2023/09/21/kevin-mccarthy-house-republicans-shutdown-likely) / [CNN](https://www.cnn.com/2023/09/21/politics/house-government-shutdown-negotiations-latest/index.html) / [Wall Street Journal](https://www.wsj.com/politics/kevin-mccarthy-gop-government-shutdown-a3884c74) / [Washington Post](https://www.washingtonpost.com/politics/2023/09/21/house-republicans-spending/) / [New York Times](https://www.nytimes.com/2023/09/21/us/politics/mccarthy-spending-house-republicans.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-09-21/mccarthy-ambushed-as-republican-hardliners-change-course-on-spending-plan?srnd=premium&sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2023/09/21/house-gop-conservatives-block-defense-bill-00117400) / [NBC News](https://www.nbcnews.com/politics/congress/house-republicans-still-dont-votes-government-shutdown-looms-rcna111338))

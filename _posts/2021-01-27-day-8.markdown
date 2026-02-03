@@ -3,6 +3,11 @@ title: Day 8
 date: 2021-01-27 14:13:00 -08:00
 categories:
 - biden
+tags:
+- covid
+- executive-order
+- climate
+- judicial-reform
 description: '"It''s time to act."'
 image: "/uploads/day-8-biden-harris-trump.jpg"
 todayInOneSentence: The Department of Health and Human Services diverted millions
@@ -14,11 +19,6 @@ todayInOneSentence: The Department of Health and Human Services diverted million
   started staffing a bipartisan commission to study reforms to the Supreme Court and
   the federal judiciary; and Biden warned the climate crisis poses an “existential
   threat” that needs to be addressed "with a greater sense of urgency."
-tags:
-- covid
-- executive-order
-- climate
-- judicial-reform
 ---
 
 1/ **The Department of Health and Human Services diverted millions of dollars in federal funds intended for vaccines research and public health emergencies to pay for unrelated salaries, administrative expenses, the removal of furniture, news subscriptions, and legal services**. In 2018, an unidentified whistleblower alleged the Office of the Assistant Secretary for Preparedness and Response had been misusing money since at least 2010 that Congress had allocated for the Biomedical Advanced Research and Development Authority. A HHS inspector general report says the agency couldn’t account for $517.8 million from 2007 to 2016. And, as recently as fiscal year 2019, more than $25 million was improperly taken from BARDA. ([Washington Post](https://www.washingtonpost.com/health/2021/01/27/barda-health-funds-misappropiated/) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-01-27/trump-trial-without-chief-justice-lets-gop-talk-optics-not-riot?sref=MIBMEEoj) / [CNN](https://www.cnn.com/2021/01/27/politics/hhs-inspector-report-general-vaccine-development-funds/index.html) / [Axios](https://www.axios.com/hhs-misused-millions-dollars-intended-public-health-vaccine-research-d9756b89-05ad-4126-9f97-a7e91123c23b.html))

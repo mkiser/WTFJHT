@@ -3,6 +3,10 @@ title: Day 657
 date: 2022-11-07 14:36:00 -08:00
 categories:
 - biden
+tags:
+- climate
+- voting-rights
+- disinformation
 description: '"Chronicle of chaos."'
 image: "/uploads/day-657-biden.jpg"
 todayInOneSentence: 'Earth is on track to see its 5th or 6th warmest year on record
@@ -14,10 +18,6 @@ todayInOneSentence: 'Earth is on track to see its 5th or 6th warmest year on rec
   as “Vladimir Putin’s chef” admitted that Russia had interfered in U.S. elections
   and would continue to do so; and Trump is reportedly planning to announce his 2024
   presidential campaign before Thanksgiving. '
-tags:
-- climate
-- voting-rights
-- disinformation
 ---
 
 1/ **Earth is on track to see its 5th or 6th warmest year on record in 2022**, with global average temperatures currently running about 1.15°C above the preindustrial average. "We just had the 8 warmest years on record," the World Meteorological Organization said, calling its latest State of the Global Climate report a "chronicle of climate chaos." The agency noted that "the warming continues" with accelerating sea level rise, record-breaking glacier melting, and extreme weather. Temperatures in Europe have increased at an average rate of 0.5 degrees Celsius per decade over the past 30 years – more than twice the global average. ([Bloomberg](https://www.bloomberg.com/news/articles/2022-11-06/global-warming-turned-2022-into-a-chronicle-of-climate-chaos?sref=MIBMEEoj) / [Washington Post](https://www.washingtonpost.com/climate-environment/2022/11/03/europe-heating-faster-global-warming/) / Axios / [CBS News](https://www.cbsnews.com/news/climate-change-8-warmest-years-record-cop27-world-meteorological-organization-united-nations/))

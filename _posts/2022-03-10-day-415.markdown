@@ -3,6 +3,11 @@ title: Day 415
 date: 2022-03-10 15:01:00 -08:00
 categories:
 - biden
+tags:
+- russia
+- ukraine
+- economy
+- jan-6
 description: '"Preposterous."'
 image: "/uploads/day-415-biden.jpg"
 todayInOneSentence: 'The Biden administration warned that Russia could be preparing
@@ -12,11 +17,6 @@ todayInOneSentence: 'The Biden administration warned that Russia could be prepar
   the Jan. 6 committee; Michael Flynn testified before the House committee investigating
   the Jan. 6 attack but didn''t answer any questions, exercising his 5th Amendment
   right. '
-tags:
-- russia
-- ukraine
-- economy
-- jan-6
 ---
 
 1/ **The Biden administration warned that Russia could be preparing to use chemical or biological weapons in Ukraine** after Russian officials accused the U.S. of funding “secret biological experiments” at laboratories in two Ukrainian cities. The State Department responded to the allegations, warning that “Russia is inventing false pretexts in an attempt to justify its own horrific actions in Ukraine.” White House press secretary Jen Psaki added that Russia’s accusations were  “preposterous,” saying "Russia has a history also of inventing outright lies like this." ([Washington Post](https://www.washingtonpost.com/world/2022/03/10/ukraine-russia-disinformation-us-biolabs-chemical-weapons/) / [NBC News](https://www.nbcnews.com/politics/national-security/us-warns-russia-use-chemical-weapons-false-flag-operation-ukraine-rcna19391) / [New York Times](https://www.nytimes.com/live/2022/03/10/world/ukraine-russia-war/accusations-fly-over-russian-disinformation-about-biological-weapons) / [Associated Press](https://apnews.com/article/russia-ukraine-europe-jen-psaki-chemical-weapons-weapons-of-mass-destruction-f01cedf434ec697034b2912696a3448b) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-03-10/u-s-spy-chiefs-reject-russia-s-claims-of-ukraine-bioweapons?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/russian-accusations-of-biological-weapons-research-in-ukraine-stir-fears-of-broader-conflict-11646939931))

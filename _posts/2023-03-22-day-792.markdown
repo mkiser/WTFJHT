@@ -3,6 +3,11 @@ title: Day 792
 date: 2023-03-22 13:58:00 -07:00
 categories:
 - biden
+tags:
+- indictment
+- classified-documents
+- economy
+- healthcare
 description: '"Sufficient."'
 image: "/uploads/biden-day-792.jpg"
 todayInOneSentence: The Manhattan grand jury hearing evidence about Trump’s involvement
@@ -12,11 +17,6 @@ todayInOneSentence: The Manhattan grand jury hearing evidence about Trump’s in
   the Federal Reserve raised interest rates by a quarter of a percentage point; drug
   shortages in the U.S. are increasing in frequency and duration, which represent
   an "unacceptable national security risk."
-tags:
-- indictment
-- classified-documents
-- economy
-- healthcare
 ---
 
 1/ **The Manhattan grand jury hearing evidence about Trump’s involvement in the hush-money payment to Stormy Daniels did not meet today as scheduled**. The reason for the grand jury adjournment, which typically meets on Mondays, Wednesdays, and Thursdays, wasn’t immediately clear. The pause comes after [unexpected](https://www.cnn.com/2023/03/20/politics/michael-cohen-robert-costello-manhattan-grand-jury/index.html) testimony from Robert Costello, appearing on behalf of Trump, who called into question Michael Cohen's testimony. Cohen, who has admitted to paying $130,000 to Daniels just before the 2016 election to stop her from going public about an alleged affair with Trump, had spent two days of testimony walking grand jurors through the chronology of Trump's involvement in the payment. Any potential indictment against Trump will not be issued by the panel until Thursday at the earliest. Trump, meanwhile, has reportedly told advisers that he wants to be handcuffed when he makes an appearance in court, if he is indicted. Trump – apparently – wants to be handcuffed behind his back for a perp walk because he thinks any special arrangements would make him look weak. ([Insider](https://www.businessinsider.com/trump-indictment-hush-money-grand-jury-cancelled-wednesday-sources-2023-3?op=1) / [New York Times](https://www.nytimes.com/2023/03/22/nyregion/trump-grand-jury-delay.html) / [The Guardian](https://www.theguardian.com/us-news/2023/mar/22/trump-wants-to-be-handcuffed-for-court-appearance-in-stormy-daniels-case-sources-say) / [CNN](https://www.cnn.com/2023/03/22/politics/legal-drama-surrounding-trump-reaches-a-fever-pitch) / [Associated Press](https://apnews.com/article/trump-stormy-daniels-hush-money-grand-jury-7f3b3a8da083a8fcd98986c5c6a3bab1) / [Washington Post](https://www.washingtonpost.com/national-security/2023/03/22/trump-grand-jury-new-york/) / [ABC News](https://abcnews.go.com/US/live-updates/trump-charges/?id=97888515) / [CNBC](https://www.cnbc.com/2023/03/22/trump-grand-jury-live-updates-awaiting-indictment-in-porn-star-payoff.html) / [Politico](https://www.politico.com/news/2023/03/22/trump-grand-jury-called-off-for-wednesday-00088306))

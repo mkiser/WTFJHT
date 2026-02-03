@@ -3,13 +3,13 @@ title: Day 301
 date: 2017-11-16 11:02:00 -08:00
 categories:
 - trump
-description: 'Bring it on. '
-image: "/uploads/301.jpg"
 tags:
 - taxes
 - ethics
 - national-security
 - energy
+description: 'Bring it on. '
+image: "/uploads/301.jpg"
 ---
 
 1/ **House Republicans passed their tax bill**, which would cut taxes by $1.5 trillion over 10 years in a rewrite of the tax code. The bill also cuts the corporate tax rate to 20% from 35%, collapses the number of tax brackets from seven to four, and eliminates or scales back many popular deductions of individuals, including the state and local tax deduction, medical expenses deduction, and student loan deductions but would double the standard deduction. The bill passed with 227 votes in favor and 205 against. ([New York Times](https://www.nytimes.com/2017/11/16/us/politics/house-tax-overhaul-bill.html) / [Washington Post](https://www.washingtonpost.com/business/economy/house-poised-to-pass-its-tax-bill-as-senate-plan-suffers-setbacks/2017/11/16/62d92fa4-cad7-11e7-8321-481fd63f174d_story.html) / [Politico](https://www.politico.com/story/2017/11/16/trump-rally-house-republicans-tax-vote-244965))

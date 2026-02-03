@@ -1,6 +1,11 @@
 ---
 title: Day 1484
 date: 2025-02-11 14:41:00 -08:00
+tags:
+- judiciary
+- executive-order
+- immigration
+- israel-palestine
 description: '"Will end badly."'
 image: "/uploads/day-1484-trump.jpg"
 todayInOneSentence: A federal judge temporarily blocked the Trump administration’s
@@ -22,11 +27,6 @@ todayInOneSentence: A federal judge temporarily blocked the Trump administration
   Trump removed the director of the Office of Government Ethics; and Elon Musk will
   submit a financial disclosure report to the White House, but it will not be made
   public.
-tags:
-- judiciary
-- executive-order
-- immigration
-- israel-palestine
 ---
 
 1/ **A federal judge temporarily blocked the Trump administration’s plan to cut $4 billion in medical research funding**, following lawsuits from 22 states and major universities that argued the cuts would disrupt research on cancer, Alzheimer’s, and other diseases. The cuts would have capped indirect cost reimbursements at 15%, limiting funds for lab maintenance, utilities, and administrative support. Judge Angel Kelley issued a temporary restraining order and scheduled a hearing for Feb. 21. A separate lawsuit from universities seeks a nationwide block, while the Trump administration has defended the policy as a measure to reduce waste. ([Washington Post](https://www.washingtonpost.com/education/2025/02/10/lawsuit-halts-nih-research-overhead-funding-cut/) / [New York Times](https://www.nytimes.com/2025/02/10/us/politics/nih-trump-lawsuit-medical-research.html) / [Politico](https://www.politico.com/news/2025/02/10/judge-blocks-trump-cuts-health-research-grants-00203447) / [NBC News](https://www.nbcnews.com/science/science-news/trump-administration-sued-22-states-funding-cuts-research-projects-rcna191529) / [ABC News](https://abcnews.go.com/Politics/trump-reignites-legal-fight-freezing-billions-federal-funding/story?id=118695690) / [The Hill](https://thehill.com/policy/healthcare/5138712-nih-research-funding-pause-trump/))

@@ -3,6 +3,9 @@ title: Day 1213
 date: 2024-05-16 14:52:00 -07:00
 categories:
 - biden
+tags:
+- classified-documents
+- climate
 description: '"Restoring sanity."'
 image: "/uploads/day-1213-biden.jpg"
 todayInOneSentence: Biden asserted executive privilege over the audio of his interview
@@ -11,9 +14,6 @@ todayInOneSentence: Biden asserted executive privilege over the audio of his int
   dangerous drug; and despite facing powerful hurricanes, extreme heat, worsening
   toxic algae blooms, and rising sea levels, Florida eliminated climate change as
   a state priority.
-tags:
-- classified-documents
-- climate
 ---
 
 1/ **Biden asserted executive privilege over the audio of his interview with special counsel Robert Hur**, who investigated Biden's handling of classified documents. Republicans had sought the audio recording of Hur's interview with Biden as part of their stalled impeachment probe. Hur’s [report](https://whatthefuckjusthappenedtoday.com/2024/02/08/day-1115/#3-the-special-counsel-examining-bide) recommended “no criminal charges,” but described Biden as someone who is “sympathetic, well-meaning elderly man with a poor memory.” Attorney General Merrick Garland advised Biden to assert executive privilege, arguing that releasing the audio would "damage future law enforcement efforts" and that House Republicans haven’t provided a compelling reason to override those concerns. In a letter to Republican House leaders, White House Counsel Ed Siskel added that “demanding such sensitive and constitutionally-protected law enforcement materials from the Executive Branch because you want to manipulate them for potential political gain is inappropriate.” Hours later, the House Judiciary Committee voted 18-15 to move forward with its effort Garland in contempt of Congress for his failure to comply with a subpoena to turn over the recordings. ([ABC News](https://abcnews.go.com/Politics/biden-asserts-executive-privilege-audio-interview-special-counsel/story?id=110298904) / [Associated Press](https://apnews.com/article/biden-robert-hur-classified-documents-justice-department-edf67af3810ab877c7c195956b49b3a6) / [Axios](https://www.axios.com/2024/05/16/biden-executive-privilege-house-republicans) / [Politico](https://www.politico.com/news/2024/05/16/biden-moves-to-block-house-from-getting-his-classified-docs-interview-tapes-00158323) / [NPR](https://www.npr.org/2024/05/16/1251759154/garland-house-contempt) / [NBC News](https://www.nbcnews.com/politics/justice-department/biden-asserts-executive-privilege-robert-hurs-classified-documents-pro-rcna152550) / [New York Times](https://www.nytimes.com/2024/05/16/us/politics/republicans-merrick-garland-contempt.html) / [Wall Street Journal](https://www.wsj.com/politics/biden-executive-privilege-classified-documents-interview-439bf861?mod=hp_lead_pos2) / [CNN](https://www.cnn.com/2024/05/16/politics/house-panels-contempt-garland-biden-audio/index.html))

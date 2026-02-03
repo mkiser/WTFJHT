@@ -3,6 +3,10 @@ title: Day 762
 date: 2019-02-20 13:15:00 -08:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- disinformation
+- media
 description: Retribution.
 image: "/uploads/762.jpg"
 todayInOneSentence: The Justice Department will potentially announce the completion
@@ -12,10 +16,6 @@ todayInOneSentence: The Justice Department will potentially announce the complet
   2020 campaign coverage; and Trump – angered by a New York Times report that he tried
   to influence and undermine the investigations surrounding him – attacked the New
   York Times as the "true ENEMY OF THE PEOPLE"
-tags:
-- mueller-investigation
-- disinformation
-- media
 ---
 
 1/ **The Justice Department will potentially announce the completion of Robert Mueller's Russia investigation as early as next week**. When that happens, Attorney General Bill Barr will likely submit a summary of Mueller's confidential report to Congress. Mueller is required to submit a "confidential" report to the attorney general, which is not required to be shared with Congress or the public. Barr suggested during his confirmation hearing last month that the report might not become public, and has made clear that the Justice Department generally guards against publicizing "derogatory" information about uncharged individuals. Trump, meanwhile, will travel overseas next week for a summit with North Korean leader Kim Jong Un, and Justice officials don't want to interfere with the White House's diplomatic efforts. Trump said "totally up to Bill Barr" as to whether Mueller's report comes out while he is overseas. ([CNN](https://www.cnn.com/2019/02/20/politics/special-counsel-conclusion-announcement/index.html) / [NBC News](https://www.nbcnews.com/politics/white-house/trump-says-it-s-attorney-general-release-pending-mueller-report-n973696) / [Washington Post](https://www.washingtonpost.com/world/national-security/justice-department-preparing-for-mueller-report-in-coming-days/2019/02/20/c472691c-354b-11e9-af5b-b51b7ff322e9_story.html))

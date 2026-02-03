@@ -3,6 +3,10 @@ title: Day 806
 date: 2019-04-05 10:06:00 -07:00
 categories:
 - trump
+tags:
+- oversight
+- corruption
+- mueller-investigation
 description: Tougher direction.
 image: "/uploads/806.jpg"
 todayInOneSentence: Trump asked Mitch McConnell to prioritize confirming the chief
@@ -11,10 +15,6 @@ todayInOneSentence: Trump asked Mitch McConnell to prioritize confirming the chi
   access to 14 million files that could have "significant value" to congressional
   investigators; and Barr was invited to meet justice department officials the same
   day he submitted his unsolicited memo criticizing Robert Mueller's investigation.
-tags:
-- oversight
-- corruption
-- mueller-investigation
 ---
 
 1/ **Trump asked Mitch McConnell to prioritize confirming the chief counsel of the IRS earlier this year**. White House aides reportedly insisted that the confirmation of Michael Desmond was more important than the 2017 tax cuts and the nomination of William Barr as attorney general. Trump told McConnell on February 5th that he was worried Desmond would withdraw his nomination if the Senate didn't act soon. Desmond was confirmed two weeks later. ([New York Times](https://www.nytimes.com/2019/04/04/us/politics/trump-michael-desmond-irs.html))

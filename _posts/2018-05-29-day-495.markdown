@@ -3,6 +3,11 @@ title: Day 495
 date: 2018-05-29 05:15:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- corruption
+- national-security
+- immigration
 description: 1,475 children.
 image: "/uploads/495.jpg"
 todayInOneSentence: 'Trump is still preparing for the cancelled-but-still-possible
@@ -18,11 +23,6 @@ todayInOneSentence: 'Trump is still preparing for the cancelled-but-still-possib
 
 '
 author: Joe Amditis
-tags:
-- mueller-investigation
-- corruption
-- national-security
-- immigration
 ---
 
 1/ **The U.S. Office of Refugee Resettlement lost track of nearly 1,500 unaccompanied immigrant children between October and December of 2017.** The acting assistant secretary of the Administration of Children and Families, Steven Wagner, claimed during testimony in April that the agency was not legally responsible for the 1,475 missing children. "I understand that it has been \[the Department of Health and Human Service's\] long-standing interpretation of the law that ORR is not legally responsible for children after they are released from ORR care," Wagner said. The children are not lost, said Deputy HHS Secretary Eric Hargan, their sponsors "simply did not respond or could not be reached when this voluntary call was made." The comments come as the Trump administration have been defending the policy of separating immigrant children from their families as part of increased border enforcement efforts at the U.S.-Mexico border. ([CNN](https://www.cnn.com/2018/05/26/politics/hhs-lost-track-1500-immigrant-children/index.html) / [Reuters](https://www.reuters.com/article/us-usa-immigration-children/u-s-official-says-agency-did-not-lose-immigrant-children-idUSKCN1IU061) / [NPR](https://www.npr.org/2018/05/28/615010170/how-the-trump-administrations-family-separation-policy-is-playing-out))

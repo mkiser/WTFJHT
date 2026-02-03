@@ -1,6 +1,10 @@
 ---
 title: Day 1528
 date: 2025-03-27 13:59:00 -07:00
+tags:
+- healthcare
+- tariffs
+- tech-policy
 description: '"It’s not a big deal."'
 image: "/uploads/day-1528-trump.jpg"
 todayInOneSentence: The Department of Health and Human Services will cut 10,000 jobs;
@@ -13,10 +17,6 @@ todayInOneSentence: The Department of Health and Human Services will cut 10,000 
   Gabbard, and Pete Hegseth – were publicly accessible online; Trump suggested that
   he may lower tariffs on China to help secure a deal for the sale of TikTok’s U.S.
   operations.
-tags:
-- healthcare
-- tariffs
-- tech-policy
 ---
 
 1/ **The Department of Health and Human Services will cut 10,000 jobs**. Combined with earlier buyouts and retirements, HHS will shrink its workforce from 82,000 to 62,000 – about a 25% reduction. The cuts will affect key agencies like the CDC, FDA, NIH, and CMS, and will consolidate 28 divisions into 15, including the formation of a new “Administration for a Healthy America.” Health Secretary Robert F. Kennedy Jr. said the overhaul will “eliminate an entire alphabet soup of departments” and claimed it would save $1.8 billion annually. Kennedy called HHS a “sprawling bureaucracy” that had failed to improve health outcomes. ([Wall Street Journal](https://www.wsj.com/politics/policy/rfk-jr-job-cuts-health-human-services-bdec28b0) / [NPR](https://www.npr.org/sections/shots-health-news/2025/03/27/nx-s1-5342414/hhs-doge-rif-rfk-job-cuts) / [Axios](https://www.axios.com/2025/03/27/rfk-hhs-job-cuts-fda-cdc-nih-trump) / [Washington Post](https://www.washingtonpost.com/health/2025/03/27/hhs-cuts-layoffs-rfk-cdc-fda/) / [New York Times](https://www.nytimes.com/2025/03/27/us/politics/health-department-job-layoffs-rfk-jr.html) / [Associated Press](https://apnews.com/article/health-human-services-layoffs-restructuring-rfk-jr-fa4e89285e668a3939e20b6cf4c26fd4) / [Politico](https://www.politico.com/news/2025/03/27/hhs-to-cut-thousands-of-workers-in-sweeping-reorganization-00253359) / [ABC News](https://abcnews.go.com/Politics/hhs-cut-10000-full-time-employees/story?id=120216337) / [NBC News](https://www.nbcnews.com/health/health-news/hhs-plans-shutter-downsize-several-health-agencies-cdc-rcna198254))

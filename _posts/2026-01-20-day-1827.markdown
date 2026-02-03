@@ -1,6 +1,10 @@
 ---
 title: Day 1827
 date: 2026-01-20 17:05:00 -08:00
+tags:
+- tariffs
+- national-security
+- subpoena
 description: '"The World is not secure unless we have Complete and Total Control."'
 image: "/uploads/day1827trump.jpg"
 todayInOneSentence: 'Global markets fell sharply after Trump threatened 10% tariffs
@@ -20,10 +24,6 @@ podcast:
     Control.mp3"
   duration: '00:04:20'
   length: 4166678
-tags:
-- tariffs
-- national-security
-- subpoena
 ---
 
 1/ **Global markets fell sharply after Trump threatened 10% tariffs on imports from Denmark and seven other European countries if they refuse to support his effort to acquire Greenland**. Trump said the duties would increase to 25% if a deal isn’t reached by June. European Union officials said they’re preparing retaliatory tariffs exceeding $100 billion and are considering activating the bloc’s anti-coercion instrument, which could restrict U.S. companies’ access to EU markets. Meanwhile, it remains unclear whether Trump can even legally impose the proposed tariffs at all as the Supreme Court is set to rule on whether the International Emergency Economic Powers Act authorizes country-specific tariffs. ([NBC News](https://www.nbcnews.com/business/markets/stock-market-trump-tariffs-greenland-rcna254918) / [Washington Post](https://www.washingtonpost.com/business/2026/01/20/stocks-trump-tariffs-greenland/) / [Associated Press](https://apnews.com/article/stock-markets-trump-greenland-inflation-58a6fed13a1e04afd57f0a22a2c9cfb0) / [New York Times](https://www.nytimes.com/2026/01/17/us/politics/trump-eu-tariffs-greenland.html) / [NBC News](https://www.nbcnews.com/business/economy/trump-denmark-european-tariffs-greenland-deal-rcna254551) / [CNBC](https://www.cnbc.com/2026/01/19/stock-market-today-live-updates.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-01-17/eu-set-to-halt-us-trade-deal-over-trump-s-latest-tariff-threat) / [CNN](https://www.cnn.com/2026/01/17/europe/protesters-denmark-greenland-trump-intl) / [Wall Street Journal](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-netflix-01-20-2026))

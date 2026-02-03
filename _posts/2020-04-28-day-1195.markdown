@@ -3,6 +3,10 @@ title: Day 1195
 date: 2020-04-28 15:09:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- economy
+- corruption
 description: '"Can''t imagine why."'
 image: "/uploads/1195.jpg"
 todayInOneSentence: U.S. reported 1 million confirmed coronavirus cases; the U.S.
@@ -13,10 +17,6 @@ todayInOneSentence: U.S. reported 1 million confirmed coronavirus cases; the U.S
   Trump urged governors to "seriously consider" reopening their public schools; and
   Trump takes no responsibility for any increase in the number of people misusing
   disinfectants.
-tags:
-- covid
-- economy
-- corruption
 ---
 
 * ### 🔥 Daily Damage Report.

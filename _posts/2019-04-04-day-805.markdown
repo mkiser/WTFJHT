@@ -3,6 +3,9 @@ title: Day 805
 date: 2019-04-04 10:21:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- foreign-policy
 description: Alarming and significant.
 image: "/uploads/805.jpg"
 todayInOneSentence: Mueller's investigators gathered "alarming and significant" evidence
@@ -10,9 +13,6 @@ todayInOneSentence: Mueller's investigators gathered "alarming and significant" 
   report; and Trump accused the New York Times of being a "Fake News paper" with no
   "legitimate sources" after it reported that Mueller's team believes that the report
   is more damaging than Barr has indicated.
-tags:
-- mueller-investigation
-- foreign-policy
 ---
 
 1/ **Robert Mueller's investigators gathered "alarming and significant" evidence of obstruction by Trump that was "much more acute than \[Attorney General William\] Barr suggested"** in his four-page letter to Congress. Members of the special counsel team told associates they believe their findings are potentially more damaging for Trump than Barr explained, and are frustrated that Barr did not adequately portray their work. The team had also prepared summaries for different sections of their 400-page report, which Barr did not use. Lawyers and FBI agents on Mueller's team reportedly could not reach an agreement about whether Trump's conduct amounted to obstruction of justice, but Barr, after consulting with Rod Rosenstein, went ahead and cleared Trump. ([New York Times](https://www.nytimes.com/2019/04/03/us/politics/william-barr-mueller-report.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/limited-information-barr-has-shared-about-russia-investigation-frustrated-some-on-muellers-team/2019/04/03/c98e8a02-567a-11e9-814f-e2f46684196e_story.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/barr-didn-t-do-justice-mueller-report-officials-tell-new-n990776) / [Bloomberg](https://www.bloomberg.com/news/articles/2019-04-04/justice-department-defends-process-for-handling-mueller-report))

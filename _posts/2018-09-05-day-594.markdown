@@ -3,6 +3,11 @@ title: Day 594
 date: 2018-09-05 10:26:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- supreme-court
+- russia
+- midterm-election
 description: The worst mood.
 image: "/uploads/594.jpg"
 todayInOneSentence: A senior Trump administration official published an anonymous
@@ -10,11 +15,6 @@ todayInOneSentence: A senior Trump administration official published an anonymou
   presidency; Trump called the unsigned op-ed a "disgrace" and "gutless" while Sarah
   Huckabee Sanders called the author of the op-ed a "coward"; and Trump is "in the
   worst mood of his presidency."
-tags:
-- mueller-investigation
-- supreme-court
-- russia
-- midterm-election
 ---
 
 1/ **A senior Trump administration official published an anonymous essay in the New York Times claiming cabinet members discussed removing Trump from office early in his presidency "given the instability many witnessed."** The official criticized Trump's "amorality" and reckless decision-making, saying "there is a quiet resistance within the administration of people choosing to put country first" and that "Americans should know that there are adults in the room" who "fully recognize what is happening. And we are trying to do what’s right even when Donald Trump won't." ([New York Times](https://www.nytimes.com/2018/09/05/opinion/trump-white-house-anonymous-resistance.html) / [CNN](https://www.cnn.com/2018/09/05/politics/nyt-trump-resistance-op-ed/index.html))

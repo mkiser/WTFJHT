@@ -3,6 +3,9 @@ title: Day 650
 date: 2018-10-31 14:23:00 -07:00
 categories:
 - trump
+tags:
+- national-security
+- corruption
 description: Maximum harm.
 image: "/uploads/650.jpg"
 todayInOneSentence: The suspect in the shooting that left 11 people dead at a Pittsburgh
@@ -10,9 +13,6 @@ todayInOneSentence: The suspect in the shooting that left 11 people dead at a Pi
   bomb suspect Cesar Sayoc "conducted a domestic terror attack"; the Trump administration
   doesn't plan to renew the anti-domestic terror program; and Trump blamed former
   White House Counsel Don McGahn for Robert Mueller's appointment.
-tags:
-- national-security
-- corruption
 ---
 
 1/ **The suspect in the shooting that left 11 people dead at a Pittsburgh synagogue was charged in a 44-count indictment with murder**, hate crimes and other offenses that could bring the death penalty. Robert Bowers entered the Tree of Life synagogue armed armed with Glock .357 handguns and a Colt AR-15 rifle, and told police he was there to "kill Jews." ([Washington Post](https://www.washingtonpost.com/world/national-security/suspect-in-pittsburgh-synagogue-shooting-charged-in-44-count-hate-crime-indictment/2018/10/31/bf2be61c-dd36-11e8-b3f0-62607289efee_story.html) / [Associated Press](https://apnews.com/84f773e3dc26491dbc5e2f01a64ac2a5))

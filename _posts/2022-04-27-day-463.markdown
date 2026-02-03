@@ -3,6 +3,12 @@ title: Day 463
 date: 2022-04-27 14:55:00 -07:00
 categories:
 - biden
+tags:
+- economy
+- covid
+- education
+- voting-rights
+- energy
 description: '"Last chance."'
 image: "/uploads/day-463-biden.jpg"
 todayInOneSentence: The White House is attempting to cobble together a narrower version
@@ -12,12 +18,6 @@ todayInOneSentence: The White House is attempting to cobble together a narrower 
   New York’s highest court rejected the state’s new congressional map as unconstitutional;
   and Biden reversed a Trump-era policy that relaxed requirements for energy efficient
   light bulbs.
-tags:
-- economy
-- covid
-- education
-- voting-rights
-- energy
 ---
 
 1/ **The White House is attempting to cobble together a narrower version of Biden's Build Back Better bill that would win Joe Manchin's support ahead of November’s elections**. “There’s real fear inside the building that Manchin’s stonewalling will run out the clock on Biden’s legislative agenda throughout the rest of the year, leading the administration and congressional Democrats into November without anything else to offer voters,” one White House adviser said. Lawmakers in Congress view July 4 as the deadline for action – even if leaves out most of what Biden had initially hoped to accomplish. Manchin, meanwhile, hasn't told the White House what, exactly, he would support in a final agreement, but privately told lawmakers recently that he wants Congress to approve a bipartisan energy deal in response to Russia’s invasion of Ukraine, and wants Biden to restart new offshore oil and gas lease sales to boost domestic fossil fuel production. Manchin also met with Chuck Schumer to discuss a party-line package focused on raising taxes and reducing the budget deficit to combat inflation. Climate advocates, meanwhile, have scaled back their expectations, saying "this is the last chance" for legislation that speeds the growth of clean energy – even if it requires a short-term boost in fossil fuels – fearing that any chance for climate action will be blocked if Republicans win control of Congress in the midterm elections. ([Washington Post](https://www.washingtonpost.com/us-policy/2022/04/26/white-house-manchin-biden/) / [Wall Street Journal](https://www.wsj.com/articles/democrats-launch-attempt-to-rescue-bidens-economic-agenda-11651074250) / [Politico](https://www.politico.com/news/2022/04/26/greens-push-climate-compromise-manchin-00027511) / [Bloomberg](https://www.bloomberg.com/news/articles/2022-04-26/manchin-schumer-discuss-new-tax-hike-deficit-cut-proposal?sref=MIBMEEoj))

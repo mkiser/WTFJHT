@@ -3,6 +3,9 @@ title: Day 959
 date: 2019-09-05 10:44:00 -07:00
 categories:
 - trump
+tags:
+- national-security
+- foreign-policy
 description: The ultimate deal.
 image: "/uploads/959.jpg"
 todayInOneSentence: The Pentagon will divert funding from military construction projects
@@ -10,9 +13,6 @@ todayInOneSentence: The Pentagon will divert funding from military construction 
   a federal judge ruled that 11 parents who were deported from the U.S. without their
   children will be allowed to return to the country; and the U.S. and China will resume
   trade talks aimed at ending the trade war.
-tags:
-- national-security
-- foreign-policy
 ---
 
 1/ **The Pentagon will divert funding from military construction projects in 23 states, three territories, and 19 countries to pay for Trump's border wall**. Among the projects being defunded to pay for Trump's border wall, include nine schools for military children on bases in the U.S. and abroad, a daycare center at Joint Base Andrews, Hurricane Maria recovery projects at military installations in Puerto Rico and the U.S. Virgin Islands, construction projects in Europe designed to help allies deter Russia. In total, $3.6 billion will be taken from 127 projects to fund 11 border barrier projects in Arizona, New Mexico, and Texas. ([New York Times](https://www.nytimes.com/2019/09/04/us/politics/pentagon-projects-border-wall.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/pentagon-tells-congress-which-projects-it-will-defund-to-pay-for-trumps-wall/2019/09/04/5b2a50fe-cf34-11e9-9031-519885a08a86_story.html) / [Reuters](https://www.reuters.com/article/us-usa-immigration-pentagon-idUSKCN1VP2VY))

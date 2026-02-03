@@ -3,6 +3,11 @@ title: Day 813
 date: 2023-04-12 14:43:00 -07:00
 categories:
 - biden
+tags:
+- climate
+- economy
+- indictment
+- lawsuit
 description: '"Credibility problems."'
 image: "/uploads/biden-day-813.jpg"
 todayInOneSentence: 'The EPA proposed tougher tailpipe emissions limits that could
@@ -13,11 +18,6 @@ todayInOneSentence: 'The EPA proposed tougher tailpipe emissions limits that cou
   their attorney-client relationship and breached a confidentiality agreement; and
   a Delaware Superior Court judge sanctioned Fox News for withholding evidence in
   the $1.6 billion defamation lawsuit by Dominion Voting Systems. '
-tags:
-- climate
-- economy
-- indictment
-- lawsuit
 ---
 
 1/ **The EPA proposed tougher tailpipe emissions limits that could require up to 67% of new vehicles sold in the U.S. to be all-electric by 2032** – the nation’s most ambitious climate regulations to date. The new rules are expected to eliminate 7.3 billion tons of CO2 through 2055 – the equivalent of eliminating all greenhouse gas emissions from the entire U.S. transportation sector for four years. The limits would also surpass Biden’s previous commitment to have EVs make up roughly 50% of cars sold by 2030. Last year, EVs accounted for 5.8% of the 13.8 million new vehicles sold in the U.S. The White House has also set aside $7.5 billion to expand the EV charging network – as part of the 2021 [$1 trillion bipartisan infrastructure bill](https://whatthefuckjusthappenedtoday.com/2021/11/15/day-300/#1-biden-signed-the-1-trillion-bipart). And, the 2022 [Inflation Reduction Act](https://whatthefuckjusthappenedtoday.com/2022/08/16/day-574/#2-biden-signed-the-democrats%E2%80%99-landma) will provide tax credits up to $7,500 for car buyers to incentive EV adoption and affordability. The U.S. is the world’s third-largest market for EVs behind China and Europe. ([New York Times](https://www.nytimes.com/2023/04/12/climate/biden-electric-cars-epa.html) / [Wall Street Journal](https://www.wsj.com/articles/epa-seeks-to-boost-evs-with-toughest-ever-rules-on-tailpipe-emissions-5658217d?mod=hp_lead_pos1) / [CNBC](https://www.cnbc.com/2023/04/12/epa-proposes-auto-pollution-limits-to-aggressively-boost-ev-sales-.html) / [NPR](https://www.npr.org/2023/04/12/1169269936/electric-vehicles-emission-standards-tailpipes-fuel-economy))

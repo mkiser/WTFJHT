@@ -1,6 +1,11 @@
 ---
 title: Day 1624
 date: 2025-07-01 15:30:00 -07:00
+tags:
+- congress
+- economy
+- taxes
+- healthcare
 description: '"Agonizing."'
 image: "/uploads/day1624trump.jpg"
 todayInOneSentence: 'Senate Republicans passed Trump’s $3.3 trillion tax and spending
@@ -13,11 +18,6 @@ todayInOneSentence: 'Senate Republicans passed Trump’s $3.3 trillion tax and s
   cut interest rates this year if Trump hadn’t imposed tariffs; and Trump’s dismantling
   of the U.S. Agency for International Development could lead to more than 14 million
   additional deaths by 2030. '
-tags:
-- congress
-- economy
-- taxes
-- healthcare
 ---
 
 1/ **Senate Republicans passed Trump’s $3.3 trillion tax and spending bill by a 51-50 vote after JD Vance cast the tie-breaking vote**. The legislation makes Trump’s 2017 tax cuts permanent, expands deductions for high earners, adds new breaks for tips and overtime, lifts the SALT cap to $40,000, and raises the debt ceiling by $5 trillion. A Yale study found low-income Americans would lose $560 a year on average, while the wealthiest gain over $118,000. The bill cuts over $1 trillion from Medicaid and other health programs and makes major changes to SNAP, adding work rules and paperwork that experts say will drop at least 17 million from health coverage and push millions more off food aid. Vance, nevertheless, dismissed concerns over the health cuts, saying, “Everything else \[...\] is immaterial compared to the ICE money.” The bill includes more than $290 billion for border enforcement, immigration detention, and ICE operations. It also eliminates the $7,500 electric vehicle tax credit after September and phases out renewable energy credits starting in 2028. Republicans struggled for 27 hours to pass the bill before securing Alaska Sen. Lisa Murkowski’s support with carveouts for Alaska, $50 billion for rural hospitals, and the removal of a solar and wind tax she opposed. Murkowski called the process “agonizing,” admitted she “struggled mightily with the cuts to Medicaid,” but said the bill “still needs work” — minutes after voting for it. Speaker Mike Johnson said the House would move quickly, but warned the Senate bill “went further than many of us preferred,” and several Republicans are threatening to vote no. ([Politico](https://www.politico.com/news/2025/07/01/senate-passes-big-beautiful-bill-00434918) / [Washington Post](https://www.washingtonpost.com/business/2025/07/01/senate-vote-big-beautiful-bill-trump/) / [New York Times](https://www.nytimes.com/2025/07/01/us/politics/senate-trump-bill.html) / [NBC News](https://www.nbcnews.com/politics/congress/senate-final-vote-trump-big-beautiful-bill-republicans-rcna216096) / [NPR](https://www.npr.org/2025/07/01/nx-s1-5450367/senate-republicans-trump-tax-bill-medicaid) / [CNN](https://www.cnn.com/2025/07/01/politics/senate-vote-trump-agenda-bill) / [Reuters](https://www.reuters.com/world/us/senate-vote-a-rama-pass-trumps-33-trillion-bill-extends-into-second-day-2025-07-01/) / Axios / [Semafor](https://www.semafor.com/article/07/01/2025/senate-passes-trumps-tax-and-spending-cuts-bill) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-07-01/trump-s-one-big-beautiful-bill-passes-senate-as-republicans-notch-tax-win) / [Wall Street Journal](https://www.wsj.com/politics/policy/senate-vote-trump-tax-bill-022bd480) / [CNBC](https://www.cnbc.com/2025/07/01/trump-bill-senate-vote.html) / [Politico](https://www.politico.com/news/2025/07/01/senate-republicans-supercharge-megabill-00435873) / [New Republic](https://newrepublic.com/post/197460/jd-vance-medicaid-budget) / [Axios](https://www.axios.com/2025/07/01/mike-johnson-trump-big-beautiful-bill) / [Washington Post](https://www.washingtonpost.com/politics/2025/07/01/least-17-million-americans-would-lose-insurance-under-trump-plan/) / [Politico](https://www.politico.com/live-updates/2025/07/01/congress/senate-bill-to-ease-wind-and-solar-phaseout-00434983) / [CNBC](https://www.cnbc.com/2025/07/01/senate-republican-bill-salt-tax.html))

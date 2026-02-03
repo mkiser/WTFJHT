@@ -3,13 +3,13 @@ title: Day 245
 date: 2017-09-21 00:00:00 -07:00
 categories:
 - trump
-description: Innocuous.
-image: "/uploads/245.jpg"
-author: Clayton Aldern
 tags:
 - mueller-investigation
 - foreign-policy
 - climate
+description: Innocuous.
+image: "/uploads/245.jpg"
+author: Clayton Aldern
 ---
 
 1/ **Writing through an intermediary, Paul Manafort offered to give private briefings to a Russian billionaire during the 2016 campaign**. Oleg Deripaska is an aluminum magnate and former business associate of Manafort's with close ties to the Kremlin. It is unclear if Deripaska received or acted on the offer. ([Washington Post](https://www.washingtonpost.com/politics/manafort-offered-to-give-russian-billionaire-private-briefings-on-2016-campaign/2017/09/20/399bba1a-9d48-11e7-8ea1-ed975285475e_story.html))

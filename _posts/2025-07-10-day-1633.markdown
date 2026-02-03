@@ -1,6 +1,11 @@
 ---
 title: Day 1633
 date: 2025-07-10 14:42:00 -07:00
+tags:
+- supreme-court
+- immigration
+- judiciary
+- oversight
 description: '"Absolutely trash."'
 image: "/uploads/day1633trump.jpg"
 todayInOneSentence: A federal judge blocked Trump’s executive order ending birthright
@@ -12,11 +17,6 @@ todayInOneSentence: A federal judge blocked Trump’s executive order ending bir
   appeals court upheld a $5 million civil verdict against Trump for sexually abusing
   and defaming writer E. Jean Carroll; and FEMA couldn’t deploy rescue teams to the
   Texas floods without Homeland Security Secretary Kristi Noem’s sign-off.
-tags:
-- supreme-court
-- immigration
-- judiciary
-- oversight
 ---
 
 1/ **A federal judge blocked Trump’s executive order ending birthright citizenship, approving a class-action lawsuit to sidestep a recent Supreme Court ruling that limited nationwide injunctions**. Judge Joseph Laplante said denying citizenship would cause “irreparable harm” and that the case wasn’t “a close call.” Laplante approved a class-action lawsuit on behalf of all babies born after Feb. 20 who could lose citizenship under Trump’s order, and temporarily blocked the policy nationwide. The Justice Department called the ruling “an obvious and unlawful attempt to circumvent the Supreme Court’s clear order,” which barred broad injunctions but allowed class actions. The judge paused the injunction for seven days for an appeal. Trump's order is set to take effect July 27 if no court blocks it before then. ([New York Times](https://www.nytimes.com/2025/07/10/us/politics/trump-birthright-citizenship-lawsuit.html) / [CNN](https://www.cnn.com/2025/07/10/politics/birthright-citizenship-hearing-rhode-island) / [Politico](https://www.politico.com/news/2025/07/10/birthright-citizenship-class-action-lawsuit-00447144) / [Washington Post](https://www.washingtonpost.com/immigration/2025/07/10/judge-birthright-citizenship-class-action-blocked/) / [Axios](https://www.axios.com/2025/07/10/judge-blocks-birthright-citizenship-order-scotus-ruling) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-07-10/trump-s-birthright-citizenship-limits-are-blocked-again-by-judge) / [Reuters](https://www.reuters.com/legal/government/judge-weigh-blocking-trump-birthright-citizenship-despite-supreme-court-ruling-2025-07-10/) / [ABC News](https://abcnews.go.com/Politics/federal-judge-blocks-trumps-eo-birthright-citizenship-after/story?id=123649226) / [NBC News](https://www.nbcnews.com/news/us-news/judge-blocks-trumps-order-restricting-birthright-citizenship-rcna217996) / [Wall Street Journal](https://www.wsj.com/us-news/law/trump-birthright-citizenship-order-block-f848aca3))

@@ -3,6 +3,11 @@ title: Day 1043
 date: 2023-11-28 14:21:00 -08:00
 categories:
 - biden
+tags:
+- israel-palestine
+- oversight
+- presidential-election
+- jan-6
 description: '"The situation remains catastrophic."'
 image: "/uploads/day-1043-biden.jpg"
 todayInOneSentence: 'The truce between Israel and Hamas entered its fifth day after
@@ -12,11 +17,6 @@ todayInOneSentence: 'The truce between Israel and Hamas entered its fifth day af
   of the Koch network endorsed Nikki Haley for the 2024 Republican nomination; and
   Pence told investigators he originally planned to skip the electoral certification
   on Jan. 6. '
-tags:
-- israel-palestine
-- oversight
-- presidential-election
-- jan-6
 ---
 
 1/ **The truce between Israel and Hamas entered its fifth day** after 12 more hostages held in the Gaza Strip were released in exchange for 30 Palestinians detained in Israeli prisons. Under the current truce, Hamas has released 81 hostages, while Israel has freed 180 Palestinians from prison – many of whom were detained but never charged. The U.S., meanwhile, urged Israel that any offensive in southern Gaza after the truce must be designed to avoid "significant further displacement" of Palestinian civilians. More than 1.7 million people have been displaced in Gaza, where health officials say the death toll has surpassed 14,500 since the start of the conflict. The World Health Organization also warned that disease may kill more Gazans than Israel’s bombardment if the enclave's health system is not repaired. The United Nations added: "The humanitarian situation in Gaza remains catastrophic." ([NBC News](https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna126940) / [CNN](https://www.cnn.com/middleeast/live-news/israel-hamas-war-gaza-news-11-28-23/index.html) / [Washington Post](https://www.washingtonpost.com/world/2023/11/28/israel-hamas-war-news-gaza-hostages-palestine/) / [New York Times](https://www.nytimes.com/live/2023/11/28/world/israel-hamas-gaza-war-news) / [Associated Press](https://apnews.com/article/israel-hamas-war-live-updates-11-28-2023-d11ff273b41ac9fcb37cf8d043e802dd) / [ABC News](https://abcnews.go.com/International/live-updates/israel-gaza-hostage-release-deal?id=105171244))

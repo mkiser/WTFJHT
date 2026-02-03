@@ -3,6 +3,10 @@ title: Day 281
 date: 2021-10-27 15:05:00 -07:00
 categories:
 - biden
+tags:
+- economy
+- covid
+- jan-6
 description: '"Just can''t do it."'
 image: "/uploads/281-biden.jpg"
 todayInOneSentence: Joe Manchin panned a proposed billionaire income tax to help pay
@@ -14,10 +18,6 @@ todayInOneSentence: Joe Manchin panned a proposed billionaire income tax to help
   prevented more than 130,000 American deaths during the early stages of the pandemic;
   and a Wisconsin judge ruled that the three men Kyle Rittenhouse shot during a protest
   against police brutality can't be called "victims" during the trial.
-tags:
-- economy
-- covid
-- jan-6
 ---
 
 1/ **Joe Manchin panned a proposed billionaire income tax to help pay for the social safety net and climate change bill**, which is expected to cost about $1.75 trillion. Manchin called the plan “convoluted,” saying he didn't like "targeting different people” with higher taxes just because they're wealthy. Instead, Manchin floated a 15% “patriotic tax" on corporations. The billionaire tax idea gained traction after Kyrsten Sinema blocked conventional tax rate increases for corporations and individuals. Sinema had reportedly supported the proposed tax on the 700 people in the U.S. with more than $1 billion in assets. Together, Manchin and Sinema’s objections have injected uncertainty into Biden's domestic agenda and halved what had been a $3.5 trillion package. ([New York Times](https://www.nytimes.com/2021/10/27/us/politics/manchin-billionaires-tax.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-10-27/billionaires-levy-out-millionaires-surtax-on-table-neal-says?sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2021/10/27/top-dems-social-spending-deal-manchin-sinema-517332) / [Associated Press](https://apnews.com/article/joe-biden-business-congress-319a4fe155a72dce4f71bc617547e3fe) / [Axios](https://www.axios.com/manchin-billionaires-tax-6dd769da-3eb4-4551-b5ad-0e96eb3e792c.html) / [ABC News](https://abcnews.go.com/Politics/manchin-raises-concerns-billionaires-tax-democrats-scramble-close/story?id=80814051))

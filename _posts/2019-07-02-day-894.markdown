@@ -3,6 +3,10 @@ title: Day 894
 date: 2019-07-02 09:58:00 -07:00
 categories:
 - trump
+tags:
+- oversight
+- census
+- immigration
 description: Surreal.
 image: "/uploads/894.jpg"
 todayInOneSentence: 'House Democrats sued for Trump''s tax returns; the Trump administration
@@ -10,10 +14,6 @@ todayInOneSentence: 'House Democrats sued for Trump''s tax returns; the Trump ad
   of Homeland Security sent out fines for nearly $500,000 to some immigrants who are
   in the U.S. illegally; and Trump threatened to increase ICE raids and deportations
   of undocumented immigrants after the Fourth of July holiday. '
-tags:
-- oversight
-- census
-- immigration
 ---
 
 1/ **House Democrats sued for Trump's tax returns**, challenging the administration's refusal to comply with a subpoena for the records. The Ways and Means Committee accused the Trump administration of "an extraordinary attack on the authority of Congress to obtain information needed to conduct oversight," naming the Treasury Department, IRS, Treasury Secretary Steven Mnuchin, and IRS Commissioner Charles Rettig in the suit. The Trump administration has argued that Congress's power to access the returns is limited to information that would serve "legitimate" legislative purposes. ([Politico](https://www.politico.com/story/2019/07/02/donald-trump-tax-returns-democrats-lawsuit-1394959) / [Washington Post](https://www.washingtonpost.com/business/2019/07/02/house-democrats-sue-trump-administration-over-presidents-tax-returns/) / [New York Times](https://www.nytimes.com/2019/07/02/us/politics/trump-taxes-lawsuit.html) / [NBC News](https://www.nbcnews.com/politics/congress/house-democrats-sue-trump-administration-effort-secure-president-s-tax-n1025721) / [ABC News](https://abcnews.go.com/Politics/house-democrats-sue-trump-administration-presidents-tax-returns/story?id=64083967))

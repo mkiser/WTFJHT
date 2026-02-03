@@ -3,6 +3,9 @@ title: Day 384
 date: 2022-02-07 14:10:00 -08:00
 categories:
 - biden
+tags:
+- education
+- jan-6
 description: '"Legitimate political discourse."'
 image: "/uploads/day-384.jpg"
 todayInOneSentence: Jill Biden said that two years of tuition-free community college
@@ -14,9 +17,6 @@ todayInOneSentence: Jill Biden said that two years of tuition-free community col
   the 2020 election; and National Archives retrieved 15 boxes of documents from Trump's
   Mar-a-Lago residence that should have been turned over to the agency when he left
   the White House.
-tags:
-- education
-- jan-6
 ---
 
 1/ **Jill Biden said that two years of tuition-free community college – her signature legislative initiative – is “no longer” part of the Build Back Better agenda**, telling a group of educators that she is “disappointed” that the provision was dropped because of necessary “compromises.” In October, Joe Biden told lawmakers that community college would likely not be in the bill. Democrats also didn't include it in the roughly $2 trillion version that passed the House last year. “Congress hasn’t passed the Build Back Better legislation yet. And free community college is no longer part of that package,” the first lady said during an appearance in Washington before the Community College National Legislative Summit. ([New York Times](https://www.nytimes.com/2022/02/07/us/politics/jill-biden-free-community-college.html) / [Washington Post](https://www.washingtonpost.com/politics/2022/02/07/jill-biden-says-free-community-college-out-of-bbb/) / [Wall Street Journal](https://www.wsj.com/articles/jill-biden-says-free-community-college-off-table-for-build-back-better-bill-11644257891))

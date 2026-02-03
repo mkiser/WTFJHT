@@ -3,6 +3,10 @@ title: Day 1184
 date: 2024-04-17 15:27:00 -07:00
 categories:
 - biden
+tags:
+- foreign-policy
+- israel-palestine
+- reproductive-rights
 description: '"Make our own decisions."'
 image: "/uploads/day-1184-biden.jpg"
 todayInOneSentence: Speaker Mike Johnson defied threats from his Republican colleagues
@@ -12,10 +16,6 @@ todayInOneSentence: Speaker Mike Johnson defied threats from his Republican coll
   blocked an attempt to repeal the state’s 160-year-old near total ban on abortion,
   which was reinstated last week by the state Supreme Court; and the Senate dismissed
   the impeachment case against Homeland Security Secretary Alejandro Mayorkas.
-tags:
-- foreign-policy
-- israel-palestine
-- reproductive-rights
 ---
 
 1/ **Speaker Mike Johnson defied threats from his Republican colleagues to oust him and scheduled a vote on individual bills to fund Israel, Ukraine, and Taiwan**. Johnson plans to have the House vote on three individual foreign aid bills, a fourth bill sanctioning Russia, China, and Iran, and a fifth bill addressing border security measures. The package largely mirrors the Senate-passed $95 billion aid package, with the exception for the border security provisions. Johnson, however, will almost certainly need Democratic votes to get the package to the floor, as well as to save his job if he faces a motion to vacate. Biden endorsed the plan and urged Congress to work quickly. The House is expected to vote Saturday evening. ([NBC News](https://www.nbcnews.com/politics/congress/house-republican-aid-bills-ukraine-israel-rcna148025) / [Associated Press](https://apnews.com/article/ukraine-aid-house-speaker-f08102e171dcac2d66d513980d828d49) / [CNN](https://www.cnn.com/2024/04/17/politics/mike-johnson-ukraine-aid/index.html) / [Politico](https://www.politico.com/live-updates/2024/04/17/congress/johnson-outlines-foreign-aid-plan-00152767) / [New York Times](https://www.nytimes.com/2024/04/17/us/politics/johnson-ukraine-israel-aid-house.html) / [Washington Post](https://www.washingtonpost.com/politics/2024/04/17/house-speaker-mike-johnson-ukraine-israel-motion-to-vacate/) / [Wall Street Journal](https://www.wsj.com/politics/policy/mike-johnsons-ukraine-israel-aid-plan-implodes-as-republicans-rebel-c5da23af?mod=hp_lead_pos1) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-04-17/speaker-johnson-defies-hardliners-presses-ahead-on-ukraine-plan?srnd=politics-vp&sref=MIBMEEoj) / [NPR](https://www.npr.org/2024/04/17/1245290743/johnson-ukraine-israel-aid-motion-to-vacate-border) / [Axios](https://www.axios.com/2024/04/16/mike-johnson-motion-to-vacate-live-updates) / [CNBC](https://www.cnbc.com/2024/04/15/speaker-johnson-israel-ukraine-taiwan-bills.html))

@@ -3,12 +3,12 @@ title: Day 251
 date: 2017-09-27 08:29:00 -07:00
 categories:
 - trump
-description: Middle class miracle.
-image: "/uploads/251.jpg"
 tags:
 - taxes
 - immigration
 - disinformation
+description: Middle class miracle.
+image: "/uploads/251.jpg"
 ---
 
 1/ **Trump's tax plan will cut rates for businesses and the wealthy, while eliminating widely used exemptions and deductions**. He dubbed the plan a "middle class miracle," which would collapse the tax brackets from seven down to three while raising the lowest rate from 10% to 12% and cut the top rate from 39.6% to 35%. The standard deduction would double to $12,000 for individuals and to $24,000 for married couples. The White House and the Republicans haven't said what loopholes would be closed in order to offset the trillions of dollars in revenue lost by cutting tax rates. Republicans want to pass a tax bill by the end of the year, which would be their first major legislative achievement this year. ([Washington Post](https://www.washingtonpost.com/business/economy/gop-tax-document-reveals-plan-for-massive-tax-cuts-preserves-key-deductions/2017/09/27/684ea40e-a387-11e7-ade1-76d061d56efa_story.html) / [Reuters](https://www.reuters.com/article/us-usa-tax/trumps-tax-plan-to-propose-deep-u-s-rate-cuts-lacks-revenue-details-idUSKCN1C213M) / [New York Times](https://www.nytimes.com/2017/09/27/us/politics/trump-tax-cut-plan-middle-class-deficit.html))

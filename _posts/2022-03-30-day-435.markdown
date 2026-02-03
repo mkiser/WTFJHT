@@ -3,6 +3,10 @@ title: Day 435
 date: 2022-03-30 14:54:00 -07:00
 categories:
 - biden
+tags:
+- russia
+- energy
+- healthcare
 description: '"The Achilles'' heel of autocracies."'
 image: "/uploads/Day-435-biden-ukraine.jpg"
 todayInOneSentence: U.S. intelligence officials believe Putin is "being misinformed
@@ -20,10 +24,6 @@ todayInOneSentence: U.S. intelligence officials believe Putin is "being misinfor
   the goal of making them more energy efficient; and 30% of Americans say inflation
   is the most urgent issue facing the country today, followed by Russia's invasion
   of Ukraine (14%), immigration (9%), climate change (7%), and Covid-19 (3%).
-tags:
-- russia
-- energy
-- healthcare
 ---
 
 1/ **U.S. intelligence officials believe Putin is "being misinformed by his advisers" who "are too afraid to tell him the truth" about his military’s struggles in Ukraine and the effect of sanctions on the Russian economy**. “We have information that Putin felt misled by the Russian military which has resulted in persistent tension between Putin and his military leadership,” White House Communications Director Kate Bedingfield said, adding that the U.S. was sharing this information now to show “this has been a strategic error for Russia." Pentagon spokesman John Kirby added that Putin hasn’t been kept informed by his Defense Ministry, saying: “It is his military. It is his war. He chose it. So the fact that he may not have all the context, that he may not fully understand the degree to which his forces are failing in Ukraine, that’s a little discomforting." Secretary of State Antony Blinken also acknowledged that Putin has been misinformed by his advisers, saying "\[...\] one of the Achilles' heel of autocracies is that you don’t have people in those systems who speak truth to power or who have the ability to speak truth to power. And I think that is something that we’re seeing in Russia.” ([Bloomberg](https://www.bloomberg.com/news/articles/2022-03-30/putin-misinformed-by-advisers-on-ukraine-war-white-house-says?sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/2022/03/30/world/europe/putin-advisers-ukraine.html) / [Associated Press](https://apnews.com/article/russia-ukraine-putin-europe-00716c99579afeff701af31b32ef7c8c) / [Reuters](https://www.reuters.com/world/putin-advisers-too-afraid-tell-him-truth-ukraine-us-official-2022-03-30/))

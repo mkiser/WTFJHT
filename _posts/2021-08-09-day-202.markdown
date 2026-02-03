@@ -3,6 +3,11 @@ title: Day 202
 date: 2021-08-09 14:51:00 -07:00
 categories:
 - biden
+tags:
+- covid
+- voting-rights
+- economy
+- jan-6
 description: '"Force protection and readiness."'
 image: "/uploads/day-202-080921.jpg"
 todayInOneSentence: The Pentagon will require all U.S. servicemembers to get vaccinated;
@@ -11,11 +16,6 @@ todayInOneSentence: The Pentagon will require all U.S. servicemembers to get vac
   general testified that Trump tried to subvert the 2020 election; and a top aide
   to Gov. Andrew Cuomo resigned.
 author: Joe Amditis
-tags:
-- covid
-- voting-rights
-- economy
-- jan-6
 ---
 
 1/ **The Pentagon will require all members of the U.S. military to get the COVID vaccine by September 15.** Defense Secretary Lloyd Austin said the mid-September deadline could be accelerated if the vaccine receives final FDA approval or infection rates continue to rise. “Getting vaccinated against COVID-19 is a key force protection and readiness issue,” Gen. Mark Milley wrote. ([Associated Press](https://apnews.com/article/joe-biden-business-health-coronavirus-pandemic-3975940c732352f72e41f6e34a3a2669))

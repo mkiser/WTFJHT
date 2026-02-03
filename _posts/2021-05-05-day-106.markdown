@@ -3,6 +3,10 @@ title: Day 106
 date: 2021-05-05 14:46:00 -07:00
 categories:
 - biden
+tags:
+- judiciary
+- covid
+- media
 description: '"Disingenuous."'
 image: "/uploads/106-biden-usa.jpg"
 todayInOneSentence: A federal judge accused the Justice Department and then-Attorney
@@ -12,10 +16,6 @@ todayInOneSentence: A federal judge accused the Justice Department and then-Atto
   it's authority and should be vacated; the Biden administration said it supports
   waiving intellectual property protections for Covid-19 vaccines; and Trump’s Facebook
   account will remain suspended for the time being.
-tags:
-- judiciary
-- covid
-- media
 ---
 
 1/ **A federal judge accused the Justice Department and then-Attorney General William Barr of misleading the court about how they decided that Trump should not be charged with obstructing Robert Mueller’s Russia investigation**. In a 35-page opinion ordering the release of a March 2019 Office of Legal Counsel memo, Judge Amy Berman Jackson called Barr and department lawyers “disingenuous” for withholding the document, saying the department tried to “obfuscate” the purpose of the memo because Barr and his advisers had already decided they wouldn't charge Trump with a crime before getting the written advice. “The review of the document reveals that the Attorney General was not then engaged in making a decision about whether the President should be charged with obstruction of justice," Jackson wrote. "The fact that he would not be prosecuted was a given.” Barr and Justice Department attorneys had argued that the memo was part of the department’s decision-making process that helped Barr decide not to prosecute Trump for obstruction of justice. Jackson said because Barr had already decided against charging Trump before he got the written advice, the memo could be made public. ([Washington Post](https://www.washingtonpost.com/local/legal-issues/barr-memo-russia-investigation/2021/05/05/c5d0c286-ada8-11eb-ab4c-986555a1c511_story.html) / [New York Times](https://www.nytimes.com/2021/05/04/us/politics/barr-trump-obstruction-russia-inquiry.html) / [Politico](https://www.politico.com/news/2021/05/04/trump-obstruction-justice-doj-485360) / [CNN](https://www.cnn.com/2021/05/04/politics/william-barr-memo-trump-memo/index.html))

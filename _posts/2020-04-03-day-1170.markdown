@@ -3,6 +3,10 @@ title: Day 1170
 date: 2020-04-03 15:02:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- oversight
+- corruption
 description: '"You don''t have to do it."'
 image: "/uploads/1170.jpg"
 todayInOneSentence: The CDC recommends all Americans wear simple “non-medical, cloth”
@@ -13,10 +17,6 @@ todayInOneSentence: The CDC recommends all Americans wear simple “non-medical,
   that the stockpile wasn’t meant for states to use; the White House is missing 50%
   of the coronavirus testing data; and the Trump administration ended a pandemic early-warning
   program in China two months before the coronavirus started spreading in Wuhan.
-tags:
-- covid
-- oversight
-- corruption
 ---
 
 * ### Daily Damage Report.

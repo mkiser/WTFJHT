@@ -3,6 +3,11 @@ title: Day 1147
 date: 2024-03-11 14:43:00 -07:00
 categories:
 - biden
+tags:
+- taxes
+- social-security
+- lawsuit
+- presidential-election
 description: '"Not on my watch."'
 image: "/uploads/day1147-biden.jpg"
 todayInOneSentence: 'Biden proposed a $7.3 trillion budget for the next fiscal year
@@ -14,11 +19,6 @@ todayInOneSentence: 'Biden proposed a $7.3 trillion budget for the next fiscal y
   Court rules on whether "presidential immunity" protects him from criminal prosecution;
   and the Republican National Committee voted to install a new leadership team that
   was hand-picked by Trump, completing his takeover of the national party. '
-tags:
-- taxes
-- social-security
-- lawsuit
-- presidential-election
 ---
 
 1/ **Biden proposed a $7.3 trillion budget for the next fiscal year that would raise taxes on high earners and corporations to keep Social Security and Medicare from hitting insolvency within the next decade**. Additionally, the budget calls for restoring the expanded Child Tax Credit, fully funding nutrition assistance for women, infants and children through the WIC program, and allowing Medicare to negotiate more aggressively to bring down the cost of prescription drugs. Biden's budget would cut the deficit by $3 trillion over the next 10 years through changes to the tax code that target the ultra-wealthy and cutting to "wasteful subsidies." The fiscal 2025 budget would cut the deficit by $3 trillion over the next decade, and raise taxes by a net total of $4.9 trillion – more than 7% above what the government would collect without any policy changes. The plan, however, stand almost no chance of becoming law, given that Republicans control the House and have been unable to pass a budget for the current fiscal year, which began Oct. 1. ([ABC News](https://abcnews.go.com/Politics/biden-unveils-2025-budget-proposal-highlighting-election-year/story?id=108010977) / [Politico](https://www.politico.com/live-updates/2024/03/11/congress/bidens-budget-bashes-gop-00146255) / [Axios](https://www.axios.com/2024/03/11/biden-budget-2025-priorities-plans-credits) / [Associated Press](https://apnews.com/article/biden-budget-deficit-9ac66a99e741dab656c15116408060a5) / [NPR](https://www.npr.org/2024/03/10/1237398034/biden-2025-budget-proposal) / [Washington Post](https://www.washingtonpost.com/business/2024/03/11/biden-budget-campaign-taxes/) / [New York Times](https://www.nytimes.com/2024/03/11/us/politics/biden-budget-tax-proposal.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-03-11/biden-s-7-3-trillion-budget-sets-spending-tax-fight-with-trump?srnd=homepage-americas&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/politics/policy/joe-biden-budget-released-fcd2b0d2?mod=hp_lead_pos1))

@@ -3,6 +3,9 @@ title: Day 972
 date: 2019-09-18 10:27:00 -07:00
 categories:
 - trump
+tags:
+- impeachment
+- oversight
 description: Dastardly.
 image: "/uploads/972.jpg"
 todayInOneSentence: Secretary of State Mike Pompeo accused Iran of having carried
@@ -12,9 +15,6 @@ todayInOneSentence: Secretary of State Mike Pompeo accused Iran of having carrie
   the acting director of national intelligence refused testify before Congress or
   hand over a whistleblower complaint to lawmakers; and the Federal Reserve cut interest
   rates by a quarter percentage point.
-tags:
-- impeachment
-- oversight
 ---
 
 1/ **Secretary of State Mike Pompeo accused Iran of having carried out an "act of war" with strikes on oil facilities in Saudi Arabia**. Trump, however, pushed back against American military response in the Middle East, saying wars are "very easy to start," but that "there are many options. There's the ultimate option and there are options a lot less than that." U.S. military leaders have, however, presented Trump with a range of options for a retaliatory strike against Iran, including a cyber attack or a strike on Iranian oil facilities. Another option includes a strike by Saudi Arabia, with the U.S. providing intelligence, targeting information, and surveillance capabilities, but the U.S. refraining from actually firing any weapons. Other options include strikes on missile launch sites, bases, or other assets of the Islamic Revolutionary Guard Corps. There are currently no indications that any U.S. military action is imminent. Pompeo was scheduled to meet with Crown Prince Mohammed bin Salman to discuss the attack and "coordinate efforts to counter Iranian aggression in the region." ([New York Times](https://www.nytimes.com/2019/09/18/world/middleeast/us-iran-saudi-arabia.html) / [CNN](https://www.cnn.com/2019/09/18/politics/donald-trump-iran-sanctions-treasury/index.html) / [NBC News](https://www.nbcnews.com/news/world/pompeo-heads-saudi-arabia-middle-east-tensions-grow-n1055206) / [NBC News](https://www.nbcnews.com/politics/national-security/trump-admin-weighing-retaliatory-action-against-iran-after-saudi-oil-n1055531))

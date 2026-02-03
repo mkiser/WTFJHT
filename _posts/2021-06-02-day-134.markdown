@@ -3,6 +3,10 @@ title: Day 134
 date: 2021-06-02 14:35:00 -07:00
 categories:
 - biden
+tags:
+- covid
+- voting-rights
+- media
 description: '"My Republican friends."'
 image: "/uploads/134-biden-harris.jpg"
 todayInOneSentence: Biden declared June a “national month of action” to meet his goal
@@ -15,10 +19,6 @@ todayInOneSentence: Biden declared June a “national month of action” to meet
   Sinema for aligning too closely with Republicans and blocking efforts to pass the
   voting rights bill; and Trump permanently shut down his blog after 29 days, frustrated
   by the lack of readership.
-tags:
-- covid
-- voting-rights
-- media
 ---
 
 1/ **Biden declared June a “national month of action” to meet his goal of having 70% of U.S. adults at least partially vaccinated and 160 million adults fully vaccinated by the Fourth of July**. Just under 63% of American adults have received at least one dose of the vaccine. The administration announced a raft of new initiatives to encourage Americans to get vaccinated, including free child care for parents and caregivers while they get their shots, as well as a national canvassing effort to work with churches, colleges, businesses, and celebrities. ([Washington Post](https://www.washingtonpost.com/health/2021/06/02/biden-barbershop-salon-coronavirus-vaccine-initiative/) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-06-02/biden-renews-vaccination-push-to-counter-faltering-u-s-demand?srnd=premium&sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/live/2021/06/02/us/biden-news-today/facing-his-july-4-vaccination-deadline-biden-announces-an-aggressive-campaign) / [CNBC](https://www.cnbc.com/2021/06/02/biden-to-double-down-on-us-efforts-to-get-more-americans-vaccinated-by-the-fourth-of-july.html))

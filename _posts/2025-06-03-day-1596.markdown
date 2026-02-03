@@ -1,6 +1,11 @@
 ---
 title: Day 1596
 date: 2025-06-03 15:36:00 -07:00
+tags:
+- economy
+- congress
+- tariffs
+- polling
 description: '"Making America bankrupt."'
 image: "/uploads/day-1596-trump.jpg"
 todayInOneSentence: 'Elon Musk publicly denounced Trump’s “One Big Beautiful Bill,"
@@ -17,11 +22,6 @@ todayInOneSentence: 'Elon Musk publicly denounced Trump’s “One Big Beautiful
   dropped from 43% in February to 39% in May; and National Intelligence Director Tulsi
   Gabbard is exploring a plan to turn Trump’s daily intelligence briefing into a video
   resembling a Fox News broadcast to better match Trump’s media habits. '
-tags:
-- economy
-- congress
-- tariffs
-- polling
 ---
 
 1/ **Elon Musk publicly denounced Trump’s “One Big Beautiful Bill," calling it a “disgusting abomination” and warning that “Congress is making America bankrupt.”** The Congressional Budget Office projects that the bill, which passed the House last month, will add $2.3 to $3.8 trillion to the deficit over the next decade, despite Republican claims it would encourage growth. Musk, who left the Trump administration last week, said the package was “massive, outrageous, pork-filled” and targeted lawmakers who supported it: “Shame on those who voted for it: you know you did wrong.” Meanwhile, House Speaker Mike Johnson, who pushed the bill through, said Musk was “terribly wrong” and claimed that the billionaire “seemed to understand” the legislation during a 20-minute call Monday. “It’s not personal,” Johnson said, blaming Musk’s opposition on EV subsidy cuts that would impact Tesla. White House press secretary Karoline Leavitt also dismissed Musk’s criticism: “The president already knows where Elon Musk stood on this bill. It doesn’t change the president’s opinion.” Musk’s comments were echoed by Rand Paul, who said, “We know another $5 trillion in debt is a huge mistake.” ([Politico](https://www.politico.com/news/2025/06/03/elon-musk-trump-bill-00382653) / [New York Times](https://www.nytimes.com/2025/06/03/technology/elon-musk-criticizes-republican-legislation.html) / [CNN](https://www.cnn.com/2025/06/03/politics/elon-musk-trump-republican-bill) / [Wall Street Journal](https://www.wsj.com/politics/policy/elon-musk-trump-republican-tax-spending-bill-b4dd9a3b) / [Axios](https://www.axios.com/2025/06/03/elon-musk-trump-bill-deficit-spending) / [ABC News](https://abcnews.go.com/Politics/musk-attacks-trumps-funding-bill-disgusting-abomination/story?id=122457870) / [Washington Post](https://www.washingtonpost.com/politics/2025/06/03/trump-presidency-news/) / [CNBC](https://www.cnbc.com/2025/06/03/musk-trump-budget-bill.html) / [NBC News](https://www.nbcnews.com/politics/trump-administration/elon-musk-trump-spending-tax-bill-disgusting-abomination-rcna210690))

@@ -3,6 +3,10 @@ title: Day 241
 date: 2021-09-17 14:23:00 -07:00
 categories:
 - biden
+tags:
+- covid
+- climate
+- foreign-policy
 description: '"A catastrophic pathway."'
 image: "/uploads/day-241-biden.jpg"
 todayInOneSentence: An FDA advisory panel rejected a plan to offer Pfizer Covid-19
@@ -11,10 +15,6 @@ todayInOneSentence: An FDA advisory panel rejected a plan to offer Pfizer Covid-
   the Pentagon admitted that the Aug. 29 drone strike in Kabul, which killed 10 civilians,
   including 7 children, was "a tragic mistake"; and 44% of Americans approve of Biden’s
   job performance – the lowest level of his presidency.
-tags:
-- covid
-- climate
-- foreign-policy
 ---
 
 1/ **An FDA advisory panel rejected a plan to offer Pfizer Covid-19 boosters shots for everyone 16 and older**. Members of the FDA's Vaccines and Related Biological Products Advisory Committee voted 16 to 2 against approving the booster shot after scrutinizing new data from Israel and questioning whether the data justified boosters for the general population when the current vaccines still offer robust protection against severe Covid-19 disease and hospitalization. The panel, however, recommended booster shots for older Americans and other high-risk groups. The votes are non-binding and the FDA is expected make a final decision on boosters by early next week. An outside advisory panel to the CDC, meanwhile, has scheduled a two-day meeting next week to discuss plans to distribute booster shots in the U.S. ([New York Times](https://www.nytimes.com/2021/09/17/us/politics/fda-booster-shots-meeting-covid.html) / [CNBC](https://www.cnbc.com/2021/09/17/fda-panel-begins-voting-on-pfizers-covid-booster-doses-rejecting-shots-for-general-public.html) / [Associated Press](https://apnews.com/article/fda-panel-rejects-widespread-pfizer-booster-shots-1cd1cf6a5c5c02b63f8a7324807a59f1) / [Washington Post](https://www.washingtonpost.com/health/2021/09/17/covid-booster-shots-fda-recommendation/) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-09-17/two-fda-panel-members-question-need-for-broad-booster-approval?sref=MIBMEEoj) / [Politico](https://www.politico.com/news/2021/09/17/tensions-rise-as-fda-advisory-panel-weighs-evidence-on-pfizer-booster-512543) / [Wall Street Journal](https://www.wsj.com/articles/fda-panel-to-weigh-covid-19-booster-shots-as-health-officials-debate-need-11631871003) / [ABC News](https://abcnews.go.com/Politics/fda-cusp-deciding-now-time-vaccine-boosters/story?id=80076547) / [CNN](https://www.cnn.com/world/live-news/coronavirus-vaccine-booster-news-09-17-21/h_3b0565c31f2e8529cfdc252f07bc6671))

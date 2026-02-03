@@ -1,6 +1,11 @@
 ---
 title: Day 1603
 date: 2025-06-10 15:49:00 -07:00
+tags:
+- national-security
+- immigration
+- economy
+- protests
 description: '"This is what America voted for."'
 image: "/uploads/day1603trump.jpg"
 todayInOneSentence: 'Trump deployed 700 Marines and ordered 2,000 more National Guard
@@ -13,11 +18,6 @@ todayInOneSentence: 'Trump deployed 700 Marines and ordered 2,000 more National 
   the World Bank cut its U.S. growth forecast to 1.4% for 2025 – down from 2.8% in
   2024 – citing “a substantial rise in trade barriers” from Trump’s tariff policies;
   and 47% of Americans disapprove of Trump deploying the Marines to Los Angeles. '
-tags:
-- national-security
-- immigration
-- economy
-- protests
 ---
 
 1/ **Trump deployed 700 Marines and ordered 2,000 more National Guard troops to Los Angeles**, raising the total federal force in the city to nearly 5,000 amid protests over ICE immigration raids. The state of California sued to "immediately" block the deployments, arguing they were unconstitutional, but a federal judge denied the request for an emergency restraining order and set a hearing for Thursday. California Gov. Gavin Newsom called Trump’s moves “reckless” and said troops [arrived](https://www.axios.com/2025/06/10/national-guard-troops-los-angeles-sleeping-floor-newsom-trump) “without fuel, food, water or a place to sleep,” adding that “If we have to, we will clean up his mess.” Trump, meanwhile, described Los Angeles as a “trash heap” and claimed “entire neighborhoods” were controlled by “transnational gangs and criminal networks,” saying: “We will liberate Los Angeles and make it free, clean, and safe again.” Attorney General Pam Bondi [added](https://www.politico.com/news/2025/06/09/bondi-says-federal-charges-coming-for-violent-protesters-in-la-00396019) that protesters who assaulted federal agents would face prosecution. “You spit on a federal law enforcement officer, we are going to charge you with a crime federally." At least nine people have been charged so far. The Pentagon is [still finalizing rules](https://apnews.com/article/marines-protests-california-deployed-trump-503e1de25b45c760218d8ae879c8d2d3) on the use of force by Marines against civilians on U.S. soil. ([New York Times](https://www.nytimes.com/2025/06/09/us/politics/trump-pentagon-marines-protests.html) / [Wall Street Journal](https://www.wsj.com/us-news/trump-marines-los-angeles-protests-fe9a4ed6) / [Politico](https://www.politico.com/news/2025/06/10/california-restraining-order-national-guard-00397401) / [Associated Press](https://apnews.com/article/los-angeles-protests-national-guard-trump-14c9dda32663d7d2c45f2b1c5a1d219c) / [CNN](https://www.cnn.com/2025/06/09/politics/marines-mobilized-los-angeles-protests) / [CBS News](https://www.cbsnews.com/news/trump-administration-mobilizing-2000-more-national-guard-troops-for-los-angeles-protests/) / [Associated Press](https://apnews.com/article/los-angeles-protests-ice-national-guard-9dfd2d025070bb6060d908dd3cf9b1f0) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-06-10/marines-arrive-in-la-as-police-chief-warns-over-lack-of-notice))

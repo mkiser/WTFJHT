@@ -3,6 +3,10 @@ title: Day 1454
 date: 2021-01-12 15:23:00 -08:00
 categories:
 - trump
+tags:
+- jan-6
+- impeachment
+- protests
 description: No regrets.
 image: "/uploads/1454.jpg"
 todayInOneSentence: Trump refused to take responsibility for inciting the deadly riot
@@ -13,10 +17,6 @@ todayInOneSentence: Trump refused to take responsibility for inciting the deadly
   House Democrats about three more planned demonstrations in the coming days; and
   Trump declared a state of emergency in Washington, D.C., citing the “emergency conditions”
   surrounding Biden’s inauguration.
-tags:
-- jan-6
-- impeachment
-- protests
 ---
 
 1/ **Trump refused to take responsibility for inciting the deadly riot at the Capitol, offered no regrets, and defended his pre-riot speech as "totally appropriate."** In his first public remarks since the violence last week that left five people dead, including a Capitol Police officer, Trump deflected blame and called the effort by House Democrats to impeach him for a second time a “witch hunt” that was "causing tremendous anger." The attack on the Capitol came after Trump encouraged a crowd of supporters to march to the building and "fight like hell," saying: "You'll never take back our country with weakness. You have to show strength and you have to be strong." Trump also took aim at social media sites that have banned him, saying they had made a “catastrophic mistake” and acted in a “divisive” manner. Trump then left Washington to travel to Alamo, Tex., to tour a section of his border wall. ([New York Times](https://www.nytimes.com/2021/01/12/us/trump-capitol.html) / [NBC News](https://www.nbcnews.com/politics/congress/house-set-vote-resolution-calling-pence-invoke-25th-amendment-n1253873) / [Washington Post](https://www.washingtonpost.com/politics/2021/01/12/trump-impeachment-biden-transition-live-updates/#link-JZECTMV6DZAPHATZHZTGJP4OMY) / [CNN](https://www.cnn.com/2021/01/12/politics/donald-trump-riot-impeachment/index.html) / [ABC News](https://abcnews.go.com/Politics/trump-lashes-impeachment-effort-claims-causing-tremendous-anger/story?id=75199061) / [Politico](https://www.politico.com/news/2021/01/12/trump-defends-pre-riot-speech-458129) / [NPR](https://www.npr.org/sections/congress-electoral-college-tally-live-updates/2021/01/12/956018842/trump-says-his-comments-ahead-of-capitol-riot-were-totally-appropriate) / [Bloomberg](https://www.bloomberg.com/news/articles/2021-01-12/trump-says-rally-before-capitol-riot-was-totally-appropriate?sref=MIBMEEoj) / [The Guardian](https://www.theguardian.com/us-news/2021/jan/12/donald-trump-texas-impeachment-effort) / [Wall Street Journal](https://www.wsj.com/articles/republicans-weigh-trump-censure-impeachment-11610460924))

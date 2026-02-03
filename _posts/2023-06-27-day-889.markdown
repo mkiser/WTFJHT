@@ -3,6 +3,11 @@ title: Day 889
 date: 2023-06-27 14:26:00 -07:00
 categories:
 - biden
+tags:
+- voting-rights
+- jan-6
+- classified-documents
+- climate
 description: '"Now we have a problem."'
 image: "/uploads/day-889-biden.jpg"
 todayInOneSentence: 'The Supreme Court rejected a legal theory that state legislatures
@@ -15,11 +20,6 @@ todayInOneSentence: 'The Supreme Court rejected a legal theory that state legisl
   a “highly confidential” document he kept with an interviewer after leaving office
   leaked; and the current record heatwave across the U.S. South was made at least
   five times more likely due to human-caused climate change. '
-tags:
-- voting-rights
-- jan-6
-- classified-documents
-- climate
 ---
 
 1/ **The Supreme Court rejected a legal theory that state legislatures have the power to decide the rules for federal elections and draw partisan congressional maps**. The justices ruled in a 6-3 vote that the North Carolina Supreme Court was acting within its authority when it struck down a congressional districting plan as excessively partisan under state law. In doing so, the court rejected the so-called “independent state legislature” theory, a fringe legal theory that Republicans claims limits the authority of state courts to question state legislatures on election laws for federal contests. Chief Justice John Roberts wrote for the majority that “state courts retain the authority to apply state constitutional restraints when legislatures act under the power conferred upon them by the Elections Clause. But federal courts must not abandon their own duty to exercise judicial review.” Roberts added: "The Elections Clause does not insulate state legislatures from the ordinary exercise of state judicial review." Justices Clarence Thomas, Samuel Alito, and Neil Gorsuch dissented. Trump and his allies [used](https://www.cnn.com/2023/06/27/politics/supreme-court-2020-2024-legal-theory/index.html) the now-rejected “independent state legislature” theory to justify their attempts to overturn the 2020 election. ([Washington Post](https://www.washingtonpost.com/politics/2023/06/27/moore-v-harper-supreme-court-rejects/) / [NBC News](https://www.nbcnews.com/politics/supreme-court/supreme-court-rules-republicans-north-carolina-elections-dispute-rcna68630) / [NPR](https://www.npr.org/2023/06/27/1181152636/independent-state-legislature-theory-supreme-court-decision) / [New York Times](https://www.nytimes.com/2023/06/27/us/politics/supreme-court-state-legislature-elections.html) / [Associated Press](https://apnews.com/article/supreme-court-elections-state-legislatures-a620db8c1ad30fc34b3ab0c81b29b87c) / [Politico](https://www.politico.com/news/2023/06/27/supreme-court-rejects-independent-state-legislature-theory-00103793) / [CNN](https://www.cnn.com/2023/06/27/politics/supreme-court-election-clause-case/index.html))

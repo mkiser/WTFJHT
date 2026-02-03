@@ -3,6 +3,10 @@ title: Day 525
 date: 2018-06-28 09:41:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- russia
+- immigration
 description: Completely unacceptable.
 image: "/uploads/525.jpg"
 todayInOneSentence: Paul Manafort owed $10 million to a Russian oligarch who was sanctioned
@@ -10,10 +14,6 @@ todayInOneSentence: Paul Manafort owed $10 million to a Russian oligarch who was
   Trump will warn Putin that it is "completely unacceptable" to interfere in U.S.
   elections; and immigrant children as young as three are being ordered to appear
   in court for their own deportation hearings without legal representation.
-tags:
-- mueller-investigation
-- russia
-- immigration
 ---
 
 1/ **Paul Manafort owed $10 million to Russian oligarch Oleg Deripaska, who was sanctioned by the U.S. in April 2018**. The unsealed search warrant application from July 2017 shows that Deripaska financially backed Manafort's consulting work in Ukraine when it started in 2005-06. Robert Mueller also indicted Konstantin Kilimnik, a political operative who served as an intermediary between Manafort and Deripaska, as well as allegedly having ties to Russian spy agencies. The search warrant also confirmed that Mueller has been investigating Manafort's role in the June 2016 meeting at Trump Tower between Trump Jr. and a Russian lawyer. ([Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort/manafort-had-10-million-loan-from-russian-oligarch-court-filing-idUSKBN1JN2YF))

@@ -3,6 +3,9 @@ title: Day 1030
 date: 2019-11-15 14:45:00 -08:00
 categories:
 - trump
+tags:
+- impeachment
+- oversight
 description: Rooting out corruption.
 image: "/uploads/1030.jpg"
 todayInOneSentence: The former U.S. ambassador to Ukraine testified that Trump's comment
@@ -13,9 +16,6 @@ todayInOneSentence: The former U.S. ambassador to Ukraine testified that Trump's
   readout from April 21; federal prosecutors in New York are investigating Rudy Giuliani
   for possible campaign finance violations and a failure to register as a foreign
   agent; and Roger Stone was found guilty on all seven counts.
-tags:
-- impeachment
-- oversight
 ---
 
 1/ **The former U.S. ambassador to Ukraine testified that Trump's comment to the Ukraine president – that she was "bad news" and is "going to go through some things" – "sounded like a threat."** Marie Yovanovitch, testifying before the House Intelligence Committee, said she was "shocked, absolutely shocked, and devastated" when she read the rough transcript released by the White House of Trump's July 25 call with Ukrainian President Volodymyr Zelensky. Yovanovitch also testified that Trump and Rudy Giuliani ran "the smear campaign against" her in tandem with corrupt Ukrainians, which undermined U.S. national security and emboldened Russia. Yovanovitch said Giuliani's "campaign of disinformation" was influenced by "individuals with questionable motives," who believed their "political and financial ambitions would be stymied by our anti-corruption policy in Ukraine." Yovanovitch was recalled from her posting on April 24 – three days after Trump's first call with Zelensky – while in the middle of hosting an event honoring an anti-corruption activist in Ukraine. Yovanovitch also criticized Secretary of State Mike Pompeo for the State Department's failed efforts to publicly support her after Trump removed her as ambassador. ([New York Times](https://www.nytimes.com/2019/11/15/us/politics/impeachment-hearings.html#link-44c04ece) / [Washington Post](https://www.washingtonpost.com/politics/impeachment-hearings-live-updates/2019/11/15/c4b9f0f4-0726-11ea-8292-c46ee8cb3dce_story.html) / [Politico](https://www.politico.com/news/2019/11/15/trump-yovanovitch-impeachment-070988) / [Wall Street Journal](https://www.wsj.com/livecoverage/yovanovitch-impeachment-hearing) / [CNN](https://www.cnn.com/politics/live-news/impeachment-hearing-11-15-19/index.html) / [NBC News](https://www.nbcnews.com/politics/trump-impeachment-inquiry/live-blog/impeachment-hearings-live-updates-yovanovitch-s-testimony-n1082501))

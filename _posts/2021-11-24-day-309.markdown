@@ -3,6 +3,10 @@ title: Day 309
 date: 2021-11-24 14:49:00 -08:00
 categories:
 - biden
+tags:
+- covid
+- economy
+- jan-6
 description: '"Taking action."'
 image: "/uploads/day-309.jpg"
 todayInOneSentence: The Biden administration will require all foreign travelers crossing
@@ -14,10 +18,6 @@ todayInOneSentence: The Biden administration will require all foreign travelers 
   the RNC paid $121,670 to a lawyer representing Trump in the criminal investigations
   into his real estate company's financial practices; and 42% of Americans approve
   of the job Biden is doing as president – his lowest since taking office.
-tags:
-- covid
-- economy
-- jan-6
 ---
 
 1/ **The Biden administration will require all foreign travelers crossing U.S. borders to be fully vaccinated by Jan. 22**. The administration previously announced that fully vaccinated nonessential foreign travelers could enter the U.S. beginning Nov. 8. The White House, however, delayed the requirement for essential foreign travelers, such as truck drivers and government officials, to allow more time to get vaccinated and not disrupt trade. The Biden administration also asked a federal appeals court to reinstate its workplace rule requiring employees at larger companies to be vaccinated against Covid-19 or face weekly testing. Republican-led states, private employers, and conservative groups challenged the requirement, arguing that OSHA lacked the authority to mandate vaccines. The Justice Department said in its filing that the federal government should be permitted to address “the grave danger of Covid-19 in the workplace.” ([NBC News](https://www.nbcnews.com/politics/national-security/biden-administration-require-all-foreigners-entering-u-s-be-vaccinated-n1284572) / [Washington Post](https://www.washingtonpost.com/politics/courts_law/biden-vaccine-mandate/2021/11/23/fc823aa4-4c71-11ec-b73b-a00d6e559a6e_story.html) / [Associated Press](https://apnews.com/article/coronavirus-pandemic-business-health-occupational-safety-and-health-administration-bdc9a9881423cc03ca870038bb423bff))

@@ -3,6 +3,11 @@ title: Day 1108
 date: 2024-02-01 14:57:00 -08:00
 categories:
 - biden
+tags:
+- taxes
+- sanctions
+- israel-palestine
+- national-security
 description: '"This is a dangerous moment."'
 image: "/uploads/day1108biden.jpg"
 todayInOneSentence: 'The House passed a bipartisan tax package that pairs a temporary
@@ -13,11 +18,6 @@ todayInOneSentence: 'The House passed a bipartisan tax package that pairs a temp
   Houthi rebels in Yemen; and Trump’s lawsuit over the dossier that alleged he engaged
   in “perverted sexual acts” and paid bribes to Russian officials was dismissed by
   a British High Court judge. '
-tags:
-- taxes
-- sanctions
-- israel-palestine
-- national-security
 ---
 
 1/ **The House passed a bipartisan tax package that pairs a temporary expansion of the child tax credit with a trio of business tax breaks**. The bill includes $33 billion to expand the child tax credit for three years. The bill is estimated to benefit roughly 16 million children in low-income families in the first year, and lift half a million children out of poverty. The legislation would also revive some expired parts of the 2017 Republican tax cuts for businesses, including deductions for research and development, interest expenses, and investments in equipment. The vote was 357 to 70, with 188 Democrats and 169 Republicans voting in favor and 23 Democrats and 47 Republicans opposed. The bill will next go to the Senate, where Republicans can block the bill with a filibuster.  ([NPR](https://www.npr.org/2024/01/31/1228209266/house-passes-child-tax-credit-expansion) / [Politico](https://www.politico.com/news/2024/01/31/congress-tax-vote-00138968) / [Washington Post](https://www.washingtonpost.com/business/2024/01/31/child-tax-credit-vote-congress/) / [NBC News](https://www.nbcnews.com/politics/congress/house-vote-expanded-child-tax-credit-bill-rcna136545) / [Associated Press](https://apnews.com/article/child-tax-credit-house-republicans-speaker-johnson-4da25a4188ad27693e9d8755e7481b76))

@@ -3,6 +3,10 @@ title: Day 736
 date: 2019-01-25 08:52:00 -08:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- indictment
+- government-shutdown
 description: '"Nothing to do with the president."'
 image: "/uploads/736.jpg"
 todayInOneSentence: Roger Stone was arrested on seven counts of obstruction, lying
@@ -10,10 +14,6 @@ todayInOneSentence: Roger Stone was arrested on seven counts of obstruction, lyi
   is the unidentified "high-ranking Trump campaign official" in Mueller's indictment;
   Trump agreed to reopen the government for three weeks without border wall funding;
   and 38% of voters gave Trump a failing grade for his first two years as president.
-tags:
-- mueller-investigation
-- indictment
-- government-shutdown
 ---
 
 1/ **Roger Stone was arrested on seven counts of obstruction, lying to Congress and witness tampering as part of Robert Mueller's investigation** into Russian interference in the election. Between June and July of 2016, Stone told a "senior Trump Campaign official" that he had information that WikiLeaks would release documents that would hurt the Clinton campaign. On July 22, 2016, WikiLeaks released its first batch of Democratic emails. After that the "senior Trump Campaign official was directed to contact Stone about any additional releases and what other damaging information" that WikiLeaks had about the Clinton campaign. Then, in October of 2016, a "high-ranking Trump Campaign official" asked Stone about "future releases by" WikiLeaks. Stone replied that WikiLeaks would release "a load every week going forward." In total, Stone interacted with at least four people close to the Trump campaign about WikiLeaks. The indictment also accused Stone of attempting to intimidate Randy Credico, who was in contact with Julian Assange in 2016. Separately, FBI agents were seen carrying hard drives and other evidence from Stone's apartment in New York City. ([Washington Post](https://www.washingtonpost.com/politics/longtime-trump-adviser-roger-stone-indicted-by-special-counsel-in-russia-investigation/2019/01/25/93a4d8fa-2093-11e9-8e21-59a09ff1e2a1_story.html) / [New York Times](https://www.nytimes.com/2019/01/25/us/politics/roger-stone-trump-mueller.html) / [CNBC](https://www.cnbc.com/2019/01/25/us-special-counsels-office-trump-ally-roger-stone-arrested-in-florida.html) / [The Guardian](https://www.theguardian.com/us-news/2019/jan/25/roger-stone-trump-ally-arrested-on-seven-charges) / [Politico](https://www.politico.com/story/2019/01/25/roger-stone-arrested-following-mueller-indictment-1125445) / [CNN](https://www.cnn.com/2019/01/25/politics/roger-stone-arrested/index.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/ex-trump-adviser-roger-stone-arrested-part-mueller-probe-n962601) / [Washington Post](https://www.washingtonpost.com/politics/roger-stone-was-in-close-contact-with-trump-campaign-about-wikileaks-indictment-shows/2019/01/25/65d9ad1a-20a2-11e9-8e21-59a09ff1e2a1_story.html) / [Department of Justice](https://www.justice.gov/file/1124706/download))

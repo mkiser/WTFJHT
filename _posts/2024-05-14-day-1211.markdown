@@ -3,6 +3,11 @@ title: Day 1211
 date: 2024-05-14 14:54:00 -07:00
 categories:
 - biden
+tags:
+- trade
+- climate
+- indictment
+- jan-6
 description: '"It''s cheating."'
 image: "/uploads/day-1211-biden.jpg"
 todayInOneSentence: Biden announced new tariffs on $18 billion in Chinese imports,
@@ -15,11 +20,6 @@ todayInOneSentence: Biden announced new tariffs on $18 billion in Chinese import
   to order Steve Bannon to begin serving his four-month jail sentence for contempt
   of Congress; and Arizona prosecutors have been unable to serve Rudy Giuliani his
   indictment.
-tags:
-- trade
-- climate
-- indictment
-- jan-6
 ---
 
 1/ **Biden announced new tariffs on $18 billion in Chinese imports**, including electric vehicles, semiconductors, steel and aluminum products, and medical products. Notably, levies on imported Chinese electric vehicles will quadruple, from 25% to 100%, while tariffs on solar cells and semiconductors will double from 25% to 50%, and certain medical equipment (including PPE, surgical gloves and respirators) will be subject to a 25% tariff. “American workers can outwork and outcompete anyone as long as the competition is fair,” Biden said. “But for too long, it hasn’t been fair. For years, the Chinese government has poured state money into Chinese companies [...] it’s not competition, it’s cheating.” Biden will also keep in place Trump’s $300 billion in tariffs on Chinese goods. ([Associated Press](https://apnews.com/article/biden-china-tariffs-electric-vehicles-evs-solar-2024ba735c47e04a50898a88425c5e2c) / [NPR](https://www.npr.org/2024/05/14/1250987721/biden-china-tariffs-electric-vehicles) / [Washington Post](https://www.washingtonpost.com/business/2024/05/14/biden-china-tariff-ev-solar/) / [New York Times](https://www.nytimes.com/2024/05/14/us/politics/biden-china-tariffs.html) / [ABC News](https://abcnews.go.com/Politics/biden-announce-new-china-tariffs-electric-vehicles-solar/story?id=110217430) / [NBC News](https://www.nbcnews.com/politics/white-house/biden-moves-ahead-tariff-hikes-numerous-chinese-goods-rcna152090) / [CNN](https://www.cnn.com/2024/05/14/politics/biden-tariffs-chinese-imports/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-05-14/biden-imposes-sweeping-tariffs-on-chinese-chips-minerals-evs?srnd=homepage-americas&sref=MIBMEEoj))

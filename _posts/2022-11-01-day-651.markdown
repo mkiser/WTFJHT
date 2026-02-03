@@ -3,6 +3,11 @@ title: Day 651
 date: 2022-11-01 14:36:00 -07:00
 categories:
 - biden
+tags:
+- judiciary
+- voting-rights
+- media
+- social-security
 description: '"Mega-MAGA."'
 image: "/uploads/day-651-biden.jpg"
 todayInOneSentence: Chief Justice John Roberts temporarily blocked a House committee
@@ -15,11 +20,6 @@ todayInOneSentence: Chief Justice John Roberts temporarily blocked a House commi
   policies ahead of the midterm elections; and Biden warned that Republicans will
   put entitlement programs, including Social Security and Medicare, at risk if they
   take control of Congress.
-tags:
-- judiciary
-- voting-rights
-- media
-- social-security
 ---
 
 1/ **Chief Justice John Roberts temporarily blocked a House committee from accessing Trump’s tax records**. On Monday, Trump asked the Supreme Court to intervene in the case, claiming the Ways and Means Committee doesn't have a valid legislative purpose for obtaining his tax documents. Lower courts, however, have ruled that the committee has broad authority to obtain tax returns and rejected Trump’s claims that it was overstepping. Roberts said the case would remain on hold until the Supreme Court acts. He asked the committee to respond by noon on Nov. 10. ([New York Times](https://www.nytimes.com/2022/11/01/us/politics/trump-taxes-release-delay.html) / [Washington Post](https://www.washingtonpost.com/politics/2022/11/01/supreme-court-trump-taxes-roberts/) / [NPR](https://www.npr.org/2022/11/01/1133189894/supreme-court-house-way-and-means-trump-tax-records) / [CNN](https://www.cnn.com/2022/11/01/politics/trump-tax-returns-supreme-court-john-roberts/) / [Associated Press](https://apnews.com/article/us-supreme-court-donald-trump-business-john-roberts-congress-1b2241b1ddae3c9bbc7af28f372fe8a0) / [NBC News](https://www.nbcnews.com/politics/supreme-court/chief-justice-roberts-temporarily-blocks-release-trumps-tax-records-ho-rcna55019))

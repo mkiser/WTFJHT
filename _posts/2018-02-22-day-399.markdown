@@ -3,11 +3,11 @@ title: Day 399
 date: 2018-02-22 09:39:00 -08:00
 categories:
 - trump
-description: '"ATTACKS WOULD END!"'
-image: "/uploads/399.jpg"
 tags:
 - mueller-investigation
 - gun-policy
+description: '"ATTACKS WOULD END!"'
+image: "/uploads/399.jpg"
 ---
 
 1/ **National Security Adviser H. R. McMaster could leave the White House** after months of personal tension between him and Trump. The Pentagon is searching for a "four-star military job suited for McMaster." This is not the first time that speculation has been floated over the future of McMaster's role in the Trump administration. ([CNN](https://www.cnn.com/2018/02/22/politics/hr-mcmaster-future-trump-white-house/index.html))

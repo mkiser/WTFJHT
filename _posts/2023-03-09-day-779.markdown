@@ -3,6 +3,11 @@ title: Day 779
 date: 2023-03-09 15:04:00 -08:00
 categories:
 - biden
+tags:
+- indictment
+- jan-6
+- economy
+- labor
 description: '"Undermining the American public''s confidence."'
 image: "/uploads/day-779-biden.jpg"
 todayInOneSentence: A Trump attorney admitted to knowingly making 10 public “misrepresentations”
@@ -11,11 +16,6 @@ todayInOneSentence: A Trump attorney admitted to knowingly making 10 public “m
   Mitch McConnell was hospitalized and is being treated for a concussion after falling;
   and U.S. companies cut nearly 80,000 job last month – up from 15,245 in February
   2022.
-tags:
-- indictment
-- jan-6
-- economy
-- labor
 ---
 
 1/ **A Trump attorney admitted to knowingly making 10 public “misrepresentations” about the 2020 presidential election being stolen**. On November 20, 2020, Jenna Ellis claimed on Newsmax that “with all those states (Nevada, Michigan, Pennsylvania, Wisconsin, Georgia) combined we know that the election was stolen from President Trump and we can prove that.” Ellis later claimed on Fox News show on Dec. 5, 2020 that “we have over 500,000 votes (in Arizona) that were cast illegally,” adding on Dec. 15 on Newsmax that Trump was “the true and proper victor.” Ellis was censured for misconduct by Colorado legal officials for the repeated false statements about the election. As part of the public censure, Ellis agreed that her legal work for Trump “caused actual harm by undermining the American public’s confidence in the presidential election.” ([Colorado Newsline](https://coloradonewsline.com/briefs/former-trump-lawyer-jenna-ellis-censured-in-colorado-for-false-election-claims/) / [Associated Press](https://apnews.com/article/donald-trump-jenna-ellis-lawyer-censure-2020-election-falsehoods-fd6d72667a1f3bd01cd2249747bbbd85) / [NBC News](https://www.nbcnews.com/politics/donald-trump/former-trump-lawyer-jenna-ellis-censured-colorado-2020-statements-rcna74092) / [Politico](https://www.politico.com/news/2023/03/08/trump-lawyer-misrepresented-jenna-ellis-00086256) / [New York Times](https://www.nytimes.com/2023/03/09/us/politics/jenna-ellis-trump-2020-election.html) / [CNN](https://www.cnn.com/2023/03/09/politics/jenna-ellis-former-trump-attorney/))

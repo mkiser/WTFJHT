@@ -3,6 +3,11 @@ title: Day 1098
 date: 2024-01-22 15:20:00 -08:00
 categories:
 - biden
+tags:
+- reproductive-rights
+- presidential-election
+- immigration
+- disinformation
 description: '"A total failure to launch."'
 image: "/uploads/day1098biden.jpg"
 todayInOneSentence: 'The Biden administration announced new steps to expand access
@@ -16,11 +21,6 @@ todayInOneSentence: 'The Biden administration announced new steps to expand acce
   suspended his presidential campaign and endorsed Trump; and the New Hampshire attorney
   general''s office is investigating an "unlawful attempt" at voter suppression after
   voters received a robocall that appears to be an AI voice clone of Biden. '
-tags:
-- reproductive-rights
-- presidential-election
-- immigration
-- disinformation
 ---
 
 1/ **The Biden administration announced new steps to expand access to contraception, abortion medication, and emergency abortion care at hospitals on the 51st anniversary of Roe v. Wade**. Eighteen months after the Supreme Court overruled Roe v. Wade, Biden called on Congress to “stop playing politics with a woman’s life and freedom” and codify Roe v. Wade into law. The Departments of Treasury, Labor, and Health and Human Services announced new guidance to "clarify standards" and make sure FDA-approved contraceptive medications are available for free under the Affordable Care Act. The Office of Personnel Management will offer new guidance to insurers to strengthen access to contraception for federal workers, retirees, and family members. HHS also announced a “comprehensive plan” to increase awareness and understanding about the Emergency Medical Treatment and Labor Act, which requires patients to receive emergency medical care regardless of their ability to pay. "We need to understand the horrific reality that women face every single day," Harris said. "As we face this crisis and as we are clear-eyed about the harm, let us also understand who is responsible, shall we? The former president handpicked three Supreme Court justices because he intended for them to overturn Roe. He intended for them to take away your freedoms. And it is a decision he brags about.” ([NBC News](https://www.nbcnews.com/politics/joe-biden/biden-administration-announces-new-abortion-initiatives-roe-anniversar-rcna134954) / [Washington Post](https://www.washingtonpost.com/health/2024/01/22/biden-abortion-contraception/) / [New York Times](https://www.nytimes.com/2024/01/22/us/politics/harris-reproductive-rights-tour.html) / [ABC News](https://abcnews.go.com/Health/biden-administration-new-steps-protect-contraceptives-abortion-medication/story?id=106562383) / [CNN](https://www.cnn.com/2024/01/21/politics/biden-campaign-abortion-rights-donald-trump/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-01-22/-this-is-not-over-biden-vows-to-fight-for-abortion-access?srnd=premium&sref=MIBMEEoj))

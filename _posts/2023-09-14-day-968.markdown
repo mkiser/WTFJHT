@@ -3,6 +3,11 @@ title: Day 968
 date: 2023-09-14 14:50:00 -07:00
 categories:
 - biden
+tags:
+- climate
+- immigration
+- indictment
+- criminal-justice
 description: '"Frustrated with some people."'
 image: "/uploads/day-968-biden.jpg"
 todayInOneSentence: The world needs to invest $2.7 trillion a year to achieve net
@@ -14,11 +19,6 @@ todayInOneSentence: The world needs to invest $2.7 trillion a year to achieve ne
   October; Hunter Biden was indicted on three criminal counts related to his possession
   of a gun while using narcotics; and 77% of Americans think there should be a maximum
   age limit for elected officials, including 76% of Democrats and 79% of Republicans.
-tags:
-- climate
-- immigration
-- indictment
-- criminal-justice
 ---
 
 1/ **The world needs to invest $2.7 trillion a year to achieve net zero emissions by 2050 and keep temperatures from rising above 1.5 degrees Celsius this century**, according to a [new report](https://www.woodmac.com/market-insights/topics/energy-transition-outlook/) by Wood Mackenzie. While governments' existing net zero pledges cover 88% of annual global emissions, no major country is currently on track to even meet their emissions targets by 2030 – let alone 2050 – likely putting the world on track to warm by 2.5C by 2050. Staying below 1.5C, however, is still possible but requires wind and solar to become the world's main source of power twice as fast while decreasing dependency on fossil fuels from the current 80% to 50%. Demand for fossil fuels are expected to peak around 2030 and fall roughly 25% by 2050 from 2019 levels. ([Axios](https://www.axios.com/2023/09/14/climate-change-paris-accord) / [Reuters](https://www.reuters.com/sustainability/climate-energy/world-needs-27-trillion-annually-net-zero-emissions-by-2050-wood-mackenzie-2023-09-14/) / [Recharge News](https://www.rechargenews.com/energy-transition/world-still-has-credible-pathway-to-net-zero-but-it-will-cost-2-7trn-a-year-wood-mackenzie/2-1-1517804) / [Wood Mackenzie](https://www.woodmac.com/press-releases/energy-transition-outlook-2023/#:\~:text=In%20Wood%20Mackenzie's%20base%20case,88%25%20of%20annual%20global%20emissions) / [NBC News](https://www.nbcnews.com/science/environment/peak-oil-horizon-new-fossil-fuel-projects-are-pushing-ahead-rcna104960))

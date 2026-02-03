@@ -3,6 +3,9 @@ title: Day 973
 date: 2019-09-19 12:10:00 -07:00
 categories:
 - trump
+tags:
+- impeachment
+- oversight
 description: Credible and urgent.
 image: "/uploads/973.jpg"
 todayInOneSentence: The whistleblower complaint by an intelligence officer was triggered
@@ -12,9 +15,6 @@ todayInOneSentence: The whistleblower complaint by an intelligence officer was t
   over its refusal to turn over the whistleblower complaint; and Trump sued his accounting
   firm and the New York district attorney to block eight years of his personal and
   corporate tax returns from being sent to state prosecutors.
-tags:
-- impeachment
-- oversight
 ---
 
 1/ **The whistleblower complaint by an intelligence officer was triggered by a "promise" Trump made to a foreign leader** and involves a series of actions that goes beyond any single discussion. The formal complaint was filed with Intelligence Community Inspector General Michael Atkinson, who "determined that this complaint is both credible and urgent." The acting director of national intelligence, Joseph Maguire, however, has refused to turn it over to Congress. While it's unclear to whom Trump was speaking at the time, White House records show Trump spoke to or interacted with Putin, Kim Jong Un, Pakistani Prime Minister Imran Khan, Dutch Prime Minister Mark Rutte, and the Emir of Qatar in the five weeks prior to the complaint being filed on August 12th. Trump, meanwhile, denied that he made any "promise" to a foreign leader, calling the formal complaint "Presidential Harassment!" and rhetorically asking if there is "anybody dumb enough to believe that \[he\] would say something inappropriate with a foreign leader." ([Washington Post](https://www.washingtonpost.com/national-security/trumps-communications-with-foreign-leader-are-part-of-whistleblower-complaint-that-spurred-standoff-between-spy-chief-and-congress-former-officials-say/2019/09/18/df651aa2-da60-11e9-bfb1-849887369476_story.html) / [New York Times](https://www.nytimes.com/2019/09/19/us/politics/intelligence-whistle-blower-complaint-trump.html) / [CNN](https://www.cnn.com/2019/09/19/politics/donald-trump-espionage-congress-spy-agencies-oversight/index.html) / [ABC News](https://abcnews.go.com/Politics/trump-calls-report-promise-foreign-leader-prompted-intel/story?id=65719390) / [NBC News](https://www.nbcnews.com/politics/national-security/trump-communication-reportedly-center-whistleblower-complaint-n1056196))

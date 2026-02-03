@@ -3,6 +3,11 @@ title: Day 897
 date: 2023-07-05 15:28:00 -07:00
 categories:
 - biden
+tags:
+- climate
+- gun-policy
+- jan-6
+- economy
 description: '"See you in hell."'
 image: "/uploads/day-897-biden.jpg"
 todayInOneSentence: July 4th was Earth's hottest day on record; at least 17 mass shootings
@@ -11,11 +16,6 @@ todayInOneSentence: July 4th was Earth's hottest day on record; at least 17 mass
   his investigation into Jan. 6 insurrection; Federal Reserve officials signaled that
   they’re not done raising interest rates; and the Secret Service is investigating
   how a small baggie of cocaine ended up in the White House.
-tags:
-- climate
-- gun-policy
-- jan-6
-- economy
 ---
 
 1/ **July 4th was Earth's hottest day on record**, with the global average temperature reaching 62.92 degrees Fahrenheit. Although it was the highest temperature since records began in 1979, some scientists believe July 4 may have been one of the hottest days on Earth in around 125,000 years. “It’s a death sentence for people and ecosystems,” Friederike Otto said, a senior lecturer at the Grantham Institute for Climate Change and the Environment. The World Meteorological Organization added that “The onset of El Niño will greatly increase the likelihood of breaking temperature records and triggering more extreme heat in many parts of the world and in the ocean.” El Niño is a naturally occurring climate pattern associated with warming of the ocean surface temperatures in the Pacific Ocean. Meanwhile, June 2023 appears to have been the hottest June on record since the late 1800s, according to preliminary global data. ([Associated Press](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0) / [Washington Post](https://www.washingtonpost.com/climate-environment/2023/07/05/hottest-day-ever-recorded/) / [USA Today](https://www.usatoday.com/story/news/weather/2023/07/05/was-july-4-earths-hottest-day-heres-what-scientists-say/70383436007/) / [Bloomberg](https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3?sref=MIBMEEoj) / [NPR](https://www.npr.org/2023/07/05/1186003959/el-nino-plus-climate-change-means-record-breaking-heat) / [Axios](https://www.axios.com/2023/07/05/warmest-june-global-temperatures-hottest-day))

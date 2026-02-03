@@ -3,6 +3,10 @@ title: Day 258
 date: 2021-10-04 14:50:00 -07:00
 categories:
 - biden
+tags:
+- debt-ceiling
+- reproductive-rights
+- media
 description: '"Just get out of the way."'
 image: "/uploads/258-biden.jpg"
 todayInOneSentence: Mitch McConnell demanded that Biden pressure congressional Democratic
@@ -16,10 +20,6 @@ todayInOneSentence: Mitch McConnell demanded that Biden pressure congressional D
   ending their pregnancies; and Rudy Giuliani admitted under oath that his "evidence"
   of voter fraud in the 2020 election came from unvetted posts on Facebook and other
   social media platforms.
-tags:
-- debt-ceiling
-- reproductive-rights
-- media
 ---
 
 1/ **Mitch McConnell demanded that Biden pressure congressional Democratic leaders into raising the debt ceiling unilaterally because Republicans will not support the effort to lift the borrowing limit**. McConnell wants Democrats to use budget reconciliation to lift the debt ceiling with only 50 votes instead of the normal 60-vote threshold – the same process Democrats are using to advance Biden's $3.5 trillion social spending package. “Since mid-July, Republicans have clearly stated that Democrats will need to raise the debt limit on their own,” McConnell wrote in a letter to Biden. “We have simply warned that since your party wishes to govern alone, it must handle the debt limit alone as well.” Treasury Secretary Janet Yellen previously said the government will run out of cash in about two weeks, which could cause a catastrophic debt default. Budget experts, however, say the reconciliation process would take at least two weeks to complete. ([Bloomberg](https://www.bloomberg.com/news/articles/2021-10-04/mcconnell-tells-biden-republicans-won-t-cooperate-on-debt-limit?srnd=premium) / [Politico](https://www.politico.com/news/2021/10/04/mcconnell-biden-connection-514901))

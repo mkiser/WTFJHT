@@ -3,6 +3,11 @@ title: Day 777
 date: 2023-03-07 14:09:00 -08:00
 categories:
 - biden
+tags:
+- immigration
+- reproductive-rights
+- jan-6
+- healthcare
 description: '"Dangerous and just unacceptable."'
 image: "/uploads/biden-day-777.jpg"
 todayInOneSentence: 'The Biden administration is reportedly considering restarting
@@ -13,11 +18,6 @@ todayInOneSentence: 'The Biden administration is reportedly considering restarti
   earning more than $400,000 in an attempt to ensure that Medicare is funded for at
   least the next 25 years; and Capitol Police Chief Thomas Manger denounced Tucker
   Carlson for airing an “offensive and misleading” portrayal of the Jan. 6 insurrection. '
-tags:
-- immigration
-- reproductive-rights
-- jan-6
-- healthcare
 ---
 
 1/ **The Biden administration is reportedly considering restarting the practice of detaining migrant families who cross the border illegally**. Although Biden ended the policy after taking office, saying he wanted a more humane immigration system, the White House and Department of Homeland Security officials have met multiple times to discuss various border-policy proposals when Title 42 ends May 11. Title 42 – invoked by the Trump administration in 2020 during the Covid-19 pandemic – is a public health law that allowed border agents to rapidly expel asylum-seeking migrants who crossed the border illegally. More than 2.3 million people have been expelled under Title 42, which ends May 11 with the expiration of a national emergency for the Covid-19 pandemic. ([New York Times](https://www.nytimes.com/2023/03/06/us/politics/biden-immigration-family-detention.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/biden-administration-considering-restarting-family-detention-migrants-rcna73695) / [Wall Street Journal](https://www.wsj.com/articles/biden-administration-considers-detaining-migrant-families-to-stem-expected-border-surge-25a75667?mod=djemalertNEWS))

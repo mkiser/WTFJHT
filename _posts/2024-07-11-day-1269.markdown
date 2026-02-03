@@ -3,6 +3,10 @@ title: Day 1269
 date: 2024-07-11 14:28:00 -07:00
 categories:
 - biden
+tags:
+- foreign-policy
+- supreme-court
+- economy
 description: '"This is going to get worse."'
 image: "/uploads/day-1269-biden.jpg"
 todayInOneSentence: Trump claims he has nothing to do with Project 2025 – the plan
@@ -21,10 +25,6 @@ todayInOneSentence: Trump claims he has nothing to do with Project 2025 – the 
   of voters; 67% of Americans say Biden should end his reelection campaign “given
   his performance in the debate"; and 49% of Americans would prefer Kamala Harris
   to Trump (46%) if she were to replace Biden as the Democratic nominee.
-tags:
-- foreign-policy
-- supreme-court
-- economy
 ---
 
 1/ **Trump claims he has nothing to do with Project 2025** – the plan developed by the ultra-conservative Heritage Foundation to transform the American government – despite the fact that at least 140 people from his administration were involved in putting together the 900-page playbook, including six Cabinet members and four of his ambassadors. The first 20 pages of the document were written by his first deputy chief of staff, Rick Dearborn; more than half of the authors, editors, and contributors to the playbook were Trump administration staffer; dozens more Project 2025 advisers staffed Trump’s government, including Mark Meadows and Stephen Miller. In total, nearly 240 people have ties to both Trump and Project 2025. Nevertheless, Trump claimed: “I have no idea who is behind it." Meanwhile, a group of self-described “gay furry hackers” [took credit](https://www.salon.com/2024/07/10/gay-furry-hackers-claim-credit-for-heritage-foundation-cyberattack/) for hacking into the Heritage Foundation, gaining access to the names, passwords, email addresses, and "other juicy info" from "every user" of the database, including Heritage President Kevin Roberts. Following the breach, Heritage Executive Director Mike Howell threatened the gay furry hacktivists [via text message](https://newrepublic.com/post/183710/project-2025-heritage-foundation-exec-threatens-gay-furry-hackers-texts): “Are you aware that you won’t be able to wear a furry tiger costume when you’re getting pounded in the ass in the federal prison I put you in next year? Please share widely.” A member of the group who identified themselves as “vio” responded: “meow :3" ([CNN](https://www.cnn.com/2024/07/11/politics/trump-allies-project-2025/index.html) / [The New Republic](https://newrepublic.com/post/183706/report-trump-ties-project-2025))

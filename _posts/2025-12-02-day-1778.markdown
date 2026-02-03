@@ -1,6 +1,11 @@
 ---
 title: Day 1778
 date: 2025-12-02 16:48:00 -08:00
+tags:
+- immigration
+- national-security
+- executive-order
+- disinformation
 description: '"Garbage."'
 image: "/uploads/day1778trump.jpg"
 todayInOneSentence: 'Trump said he doesn’t want Somali immigrants in the U.S., calling
@@ -19,11 +24,6 @@ todayInOneSentence: 'Trump said he doesn’t want Somali immigrants in the U.S.,
   accounts” for children; Trump, 79, posted more than 150 messages on Truth Social
   between 7 p.m. and midnight; and Trump appeared to repeatedly fall asleep during
   a televised Cabinet meeting. '
-tags:
-- immigration
-- national-security
-- executive-order
-- disinformation
 ---
 
 1/ **Trump said he doesn’t want Somali immigrants in the U.S., calling them “garbage,” saying they “contribute nothing,” and claiming they “ripped off that state for billions of dollars” and should “go back to where they came from and fix it” after he was asked if Minnesota’s governor should resign over a state fraud case**. He then tied the issue to the National Guard shooting in Washington, even though the suspect was Afghan and the case had no connection to Somalia, a country more than 1,700 miles away. Trump comments came as the administration prepared to send about 100 ICE officers into the Minneapolis–St. Paul area to arrest Somalis with final deportation orders. Minnesota officials warned the operation could sweep up citizens in a state where most residents of Somali descent are U.S. citizens. ([New York Times](https://www.nytimes.com/2025/12/02/us/politics/trump-somalia.html) / [Washington Post](https://www.washingtonpost.com/politics/2025/12/02/somalis-minnesota-trump-walz-immigration-enforcement/) / [Associated Press](https://apnews.com/article/trump-somalia-immigration-afghanistan-421eaa7ff218c43ccaed3cbab8ed37f5) / [CBS News](https://www.cbsnews.com/minnesota/news/ice-target-undocumented-somali-immigrants-minneapolis-st-paul-trump/) / [CNN](https://www.cnn.com/2025/12/02/us/ice-operation-somali-migrants-minneapolis) / [Wall Street Journal](https://www.wsj.com/politics/policy/ice-plans-major-operation-targeting-somali-immigrants-in-minneapolis-e74d4c9a) / [Axios](https://www.axios.com/2025/12/02/trump-ice-minneapolis-somalis))

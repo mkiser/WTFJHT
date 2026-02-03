@@ -3,6 +3,10 @@ title: Day 406
 date: 2022-03-01 13:17:00 -08:00
 categories:
 - biden
+tags:
+- russia
+- ukraine
+- jan-6
 description: '"Let history so note."'
 image: "/uploads/day-406-03012022.png"
 todayInOneSentence: Russian forces shelled Ukraine's second-largest city and U.S.
@@ -11,10 +15,6 @@ todayInOneSentence: Russian forces shelled Ukraine's second-largest city and U.S
   privilege for two former Trump officials; and Biden is scheduled to deliver his
   first State of the Union speech tonight.
 author: Joe Amditis
-tags:
-- russia
-- ukraine
-- jan-6
 ---
 
 1/ **Russian forces bombed Ukraine’s second-largest city and closed in on the capital on Monday**. A 40-mile convoy consisting of hundreds of tanks and other vehicles moved on the capital Kyiv and the northeastern city of Kharkiv, shelling a residential neighborhood and forcing Ukrainian president Volodymyr Zelensky to considering making some concessions. The Kremlin also threatened the prospect of using nuclear weapons for the second day in a row, announcing that its nuclear-capable intercontinental ballistic missiles, submarines and long-range bombers had all been put on high alert. ([Associated Press](https://apnews.com/article/russia-ukraine-war-016cc6cbc65ae95286d825a4ebebd1c5))

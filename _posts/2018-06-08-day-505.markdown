@@ -3,16 +3,16 @@ title: Day 505
 date: 2018-06-08 08:39:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- healthcare
+- national-security
 description: We have a world to run.
 image: "/uploads/505.jpg"
 todayInOneSentence: The Trump administration will not defend the Affordable Care Act's
   individual mandate; a former Senate Intelligence Committee aide was arrested and
   charged with lying to the FBI; Trump called on the G7 to reinstate Russia; and ICE
   is temporarily sending about 1,600 detainees to five federal prisons.
-tags:
-- mueller-investigation
-- healthcare
-- national-security
 ---
 
 1/ **Robert Mueller filed witness tampering criminal charges against Paul Manafort and Russian national Konstantin Kilimnik**. The superseding indictment charges the two men with obstructing justice, conspiracy to obstruct justice, and witness tampering. Kilimnik was indicted as part of the existing money laundering case against Manafort, who is also accused of illegal foreign lobbying and lying to federal officials. It's the first time Kilimnik was named, who was referred to as "Person A" and described as having links to Russian spy agencies in previous court filings. ([CNBC](https://www.cnbc.com/2018/06/08/special-counsel-robert-mueller-files-new-indictment-against-paul-manafort-nbc-news.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-06-08/manafort-s-ukraine-fixer-indicted-by-u-s-special-counsel) / [New York Times](https://www.nytimes.com/2018/06/08/us/politics/manafort-obstruction-kilimnik-charges.html) / [Washington Post](https://www.washingtonpost.com/world/national-security/special-counsel-mueller-indicts-associate-of-paul-manafort/2018/06/08/507ae696-6b44-11e8-bf8c-f9ed2e672adf_story.html) / [CNN](https://www.cnn.com/2018/06/08/politics/paul-manafort-indictment-robert-mueller/index.html) / [Reuters](https://www.reuters.com/article/us-usa-trump-russia-manafort/u-s-special-counsel-files-new-charges-vs-manafort-adds-defendant-idUSKCN1J42LJ))

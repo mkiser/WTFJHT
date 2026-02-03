@@ -1,6 +1,11 @@
 ---
 title: Day 1582
 date: 2025-05-20 15:13:00 -07:00
+tags:
+- congress
+- ukraine
+- israel-palestine
+- corruption
 description: '"I’ve done enough."'
 image: "/uploads/day-1582-trump.jpg"
 todayInOneSentence: 'Trump demanded that House Republicans support his tax and spending
@@ -12,11 +17,6 @@ todayInOneSentence: 'Trump demanded that House Republicans support his tax and s
   charged Rep. LaMonica McIver with assaulting federal law enforcement officers during
   a confrontation outside a Newark ICE facility; and Trump’s nominee to lead the IRS
   promoted a tax credit the IRS confirmed does not exist. '
-tags:
-- congress
-- ukraine
-- israel-palestine
-- corruption
 ---
 
 1/ **Trump demanded that House Republicans support his tax and spending bill or risk facing primary challengers backed by him**. The legislation would extend Trump’s 2017 tax cuts, eliminate taxes on tips and overtime, and boost defense and border spending. To offset the cost, it would reduce federal support for Medicaid, roll back clean energy tax credits, and cuts SNAP benefits. The Congressional Budget Office estimates at least 7.6 million people would lose Medicaid coverage under the bill. “Don’t fuck around with Medicaid,” Trump privately told members, urging them to stop pushing for deeper cuts to the program. Trump also criticized Republicans from high-tax states like New York for holding out over the SALT (state and local tax) deduction cap, telling them to “let it go.” Speaker Mike Johnson can only afford to lose three Republican votes and has set a Memorial Day deadline. Despite Trump’s pressure, lawmakers said the bill is “still a long ways away” and that he “didn’t convince enough people the bill is adequate.” ([Washington Post](https://www.washingtonpost.com/politics/2025/05/20/trump-tries-persuade-threaten-gop-back-his-budget-bill/) / [New York Times](https://www.nytimes.com/2025/05/20/us/politics/trump-big-beautiful-bill.html) / [Wall Street Journal](https://www.wsj.com/politics/policy/trump-gop-budget-tax-bill-e497de1b) / [CNBC](https://www.cnbc.com/2025/05/20/trump-medicaid-congress-bill.html) / [CNN](https://www.cnn.com/2025/05/20/politics/trump-agenda-bill-house-republicans) / [NPR](https://www.npr.org/2025/05/20/nx-s1-5400480/house-republicans-trump-tax-bill) / [Axios](https://www.axios.com/2025/05/20/trump-house-republicans-medicaid-salt) / [Politico](https://www.politico.com/live-updates/2025/05/20/congress/johnson-woos-the-senate-00360400) / [Bloomberg](https://www.bloomberg.com/news/articles/2025-05-20/salt-agreement-remains-elusive-for-house-gop-on-trump-tax-bill) / [NBC News](https://www.nbcnews.com/politics/congress/trump-pushes-house-gop-holdouts-get-massive-bill-agenda-rcna207812) / [Politico](https://www.politico.com/news/2025/05/20/trump-megabill-opposition-medicaid-00358394) / [Axios](https://www.axios.com/2025/05/20/mike-johnson-thune-republican-senators) / [The Hill](https://thehill.com/homenews/administration/5309356-trump-house-gop-bill-capitol/) / [Associated Press](https://apnews.com/article/congress-republicans-tax-cuts-trump-johnson-ebc172c76ac51434e9bfa28d867bd9a0))

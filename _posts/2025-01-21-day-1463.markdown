@@ -3,6 +3,12 @@ title: Day 1463
 date: 2025-01-21 14:37:00 -08:00
 categories:
 - trump
+tags:
+- jan-6
+- pardon
+- immigration
+- energy
+- national-security
 description: '"An ongoing threat."'
 image: "/uploads/day-1463-trump.jpg"
 redirect_from: "/2025/01/21/day-1463.markdown/"
@@ -23,12 +29,6 @@ todayInOneSentence: Trump marked the start of his second presidential term by si
   employees to return to in-person work five days a week and removing job protections
   for senior government workers; and Trump revoked a Biden-era executive order that
   directed federal agencies to promote voter registration.
-tags:
-- jan-6
-- pardon
-- immigration
-- energy
-- national-security
 ---
 
 ***Orientation and expectation setting**: Ok, so this week is undeniably a weird one – there’s a lot happening, and it’s moving fast. You could call it the “shock and awe in national politics” that I’ve been urging people to “read in moderation” for the past eight years...*

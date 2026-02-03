@@ -3,6 +3,10 @@ title: Day 183
 date: 2021-07-21 14:36:00 -07:00
 categories:
 - biden
+tags:
+- jan-6
+- indictment
+- covid
 description: '"Extremely enthusiastic."'
 image: "/uploads/day-183-072121.jpg"
 todayInOneSentence: Nancy Pelosi rejected two of the five Republicans selected to
@@ -11,10 +15,6 @@ todayInOneSentence: Nancy Pelosi rejected two of the five Republicans selected t
   U.S. life expectancy fell by a year and a half in 2020; and Senate Republicans blocked
   a vote on a $1.2 trillion bipartisan infrastructure bill.
 author: Joe Amditis
-tags:
-- jan-6
-- indictment
-- covid
 ---
 
 1/ **Nancy Pelosi rejected two of the five GOP members who were selected to serve on the 1/6 committee**. House Speaker Pelosi on Wednesday rejected the appointment of Reps. Jim Jordan of Ohio and Jim Banks of Indiana, both of whom objected to the certification of the November 2020 election in the House, to serve on the commission. In response, House Minority Leader Kevin McCarthy pulled the remaining three GOP members. ([CNN](https://www.cnn.com/2021/07/21/politics/nancy-pelosi-rejects-republicans-from-committee/index.html) / [The Hill](https://thehill.com/homenews/house/564122-pelosi-rejects-jordan-banks-for-jan-6-committee) / [Washington Post](https://www.washingtonpost.com/politics/pelosi-mccarthy-jan6-committee/2021/07/21/21722d44-ea41-11eb-84a2-d93bc0b50294_story.html) /  [Politico](https://www.politico.com/news/2021/07/21/pelosi-vetoes-banks-jordan-for-jan-6-select-committee-500424))

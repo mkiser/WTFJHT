@@ -3,11 +3,11 @@ title: Day 321
 date: 2017-12-06 10:30:00 -08:00
 categories:
 - trump
-description: Good to go.
-image: "/uploads/321.jpg"
 tags:
 - mueller-investigation
 - voting-rights
+description: Good to go.
+image: "/uploads/321.jpg"
 ---
 
 1/ **Michael Flynn promised that sanctions against Russia would be "ripped up" as one of the Trump administration's first acts**, according to a whistleblower. Flynn worked with Russia until June 2016 on a business venture to build nuclear power plants in the Middle East. Ending the sanctions would have allowed the project to move forward. During Trump's inaugural address, Flynn sent the whistleblower a text message directing him to tell those involved in the nuclear project to continue developing their plans and that the project was "good to go." The whistleblower approached the House Oversight Committee in June, but Robert Mueller's investigators asked him to "hold on the public release of this information until they completed certain investigative steps." ([New York Times](https://www.nytimes.com/2017/12/06/us/politics/michael-flynn-russia-sanctions-ripped-up-whistleblower.html) / [Politico](https://www.politico.com/story/2017/12/06/michael-flynn-texted-nuclear-plans-whistleblower-282070) / [CNN](https://www.cnn.com/2017/12/06/politics/whistleblower-flynn-told-colleague-removing-russia-sanctions-priority/index.html))

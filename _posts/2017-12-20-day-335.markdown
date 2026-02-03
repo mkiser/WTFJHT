@@ -3,11 +3,11 @@ title: Day 335
 date: 2017-12-20 08:36:00 -08:00
 categories:
 - trump
-description: Taking names.
-image: "/uploads/335.jpg"
 tags:
 - taxes
 - foreign-policy
+description: Taking names.
+image: "/uploads/335.jpg"
 ---
 
 1/ **The Republican tax bill passed the Senate in a 51 to 48 vote**. No Democrats backed the bill. The House, forced to vote a second time on the $1.5 trillion tax bill, approved it in a 224 to 201 vote. The Tax Cuts and Jobs Act is expected to head to Trump's desk in the coming days. ([New York Times](https://www.nytimes.com/2017/12/19/us/politics/tax-bill-vote-congress.html?_r=0) / [Washington Post](https://www.washingtonpost.com/business/economy/gop-tax-bill-headed-for-quick-passage-in-house-senate-on-tuesday/2017/12/19/61f83dac-e4cf-11e7-9ec2-518810e7d44d_story.html))

@@ -3,6 +3,10 @@ title: Day 318
 date: 2021-12-03 14:49:00 -08:00
 categories:
 - biden
+tags:
+- government-shutdown
+- economy
+- immigration
 description: '"Bare minimum."'
 image: "/uploads/day-318-biden.jpg"
 todayInOneSentence: Biden signed legislation to keep the government funded through
@@ -13,10 +17,6 @@ todayInOneSentence: Biden signed legislation to keep the government funded throu
   spreading more than twice as quickly as Delta; the Biden administration reinstated
   the Trump-era "Remain in Mexico" policy; and the attorney who helped Trump pressure
   Pence to overturn the 2020 election asserted his Fifth Amendment right against self-incrimination.
-tags:
-- government-shutdown
-- economy
-- immigration
 ---
 
 1/ **Biden signed legislation to keep the government funded through Feb. 18 after Republicans dropped a threat to force a shutdown over the administration’s vaccine mandates**. The House passed the measure 221-212, sending it to the Senate, where a handful of Republican senators threatened to hold up the measure over the Biden administration’s vaccine-or-test mandate on private employers. Senators, however, voted down an amendment on the issue on a 48-to-50 vote, with two Republicans absent. The Senate then voted 69-28 to approve the spending bill. "Funding the government isn't a great achievement," Biden said. "It's a bare minimum of what we need to get done." Democrats and Republicans will now turn to several must-pass items in the coming weeks, which include increasing the debt limit and passing the annual National Defense Authorization Act. Chuck Schumer has also promised a vote before Christmas on Biden's roughly $2 trillion Build Back Better legislation. ([NPR](https://www.npr.org/2021/12/03/1061199740/congress-biden-signs-cr-shutdown-senate-house-debt-limit-bbb) / [Wall Street Journal](https://www.wsj.com/articles/lawmakers-reach-deal-to-prevent-government-shutdown-11638454923) / [New York Times](https://www.nytimes.com/2021/12/02/us/politics/government-shutdown-congress-spending-deal.html) / [ABC News](https://abcnews.go.com/Politics/biden-signs-short-term-funding-bill-averting-government/story?id=81542888) / [Washington Post](https://www.washingtonpost.com/us-policy/2021/12/02/government-funding-shutdown-vaccine/) / [CNBC](https://www.cnbc.com/2021/12/02/government-shutdown-house-strikes-deal-on-funding-bill.html))

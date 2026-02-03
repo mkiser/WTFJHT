@@ -3,16 +3,16 @@ title: Day 764
 date: 2019-02-22 12:22:00 -08:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- pardon
+- reproductive-rights
 description: Infinitely better.
 image: "/uploads/764.jpg"
 todayInOneSentence: Mueller's sentencing memorandum is due to today in the prosecution
   of Paul Manafort; Mueller is not expected deliver a final report to the attorney
   general next week after all; and New York state prosecutors, meanwhile, are prepared
   to charge Manafort if Trump issues a presidential pardon for his federal crimes.
-tags:
-- mueller-investigation
-- pardon
-- reproductive-rights
 ---
 
 1/ **Robert Mueller's sentencing memorandum is due to today before midnight in the prosecution of Paul Manafort**. In filings like these, prosecutors typically outline all of the defendant's crimes, convictions, and their cooperation, which could also shed more light on how Manafort fits into Mueller's larger Russian investigation. *\[Editor's note: I've basically been waiting all day for this to drop. I'll update the blog when this is filed to reflect the latest.\]* ([CNN](https://www.cnn.com/2019/02/22/politics/manafort-sentecing-memo-preview/index.html) / [Associated Press](https://www.apnews.com/284652f3b06d478bb16b90d1f957e29c))

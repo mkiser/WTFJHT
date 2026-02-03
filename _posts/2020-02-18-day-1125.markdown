@@ -3,6 +3,9 @@ title: Day 1125
 date: 2020-02-18 14:22:00 -08:00
 categories:
 - trump
+tags:
+- indictment
+- oversight
 description: '"Openly and repeatedly flouted."'
 image: "/uploads/1125.jpg"
 todayInOneSentence: More than 2,000 former federal prosecutors and Justice Department
@@ -12,9 +15,6 @@ todayInOneSentence: More than 2,000 former federal prosecutors and Justice Depar
   Stone’s criminal trial refused delay his sentencing despite Trump tweet that Stone’s
   conviction "should be thrown out"; and Trump’s top trade adviser has been conducting
   his own investigation to uncover the identity of the person known as “Anonymous."
-tags:
-- indictment
-- oversight
 ---
 
 1/ **More than 2,000 former federal prosecutors and Justice Department officials called on Attorney General William Barr to resign**, claiming that his handling of Roger Stone's case "openly and repeatedly flouted" the principle of equal justice when he intervened in Stone's sentencing recommendation. A national association of federal judges also called an emergency meeting to address the intervention in politically sensitive cases by Trump and Barr after more than 1,100 life-term federal judges said the issue “could not wait.” ([USA Today](https://www.usatoday.com/story/news/politics/2020/02/17/roger-stone-sentence-judges-worried-political-interference/4788155002/) / [Washington Post](https://www.washingtonpost.com/nation/2020/02/18/judges-meeting-trump/) / [New York Times](https://www.nytimes.com/2020/02/16/us/politics/barr-trump-justice-department.html) / [Axios](https://www.axios.com/justice-department-statement-barr-stone-case-14c8880c-6f07-460f-a190-6f2a2f7e78e8.html))

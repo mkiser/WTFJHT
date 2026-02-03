@@ -3,6 +3,8 @@ title: Day 1283
 date: 2024-07-25 14:46:00 -07:00
 categories:
 - biden
+tags:
+- presidential-election
 description: '"Bring it on."'
 image: "/uploads/day-1283-biden-harris.jpg"
 todayInOneSentence: Biden, speaking to the American public from the Oval Office, said
@@ -17,8 +19,6 @@ todayInOneSentence: Biden, speaking to the American public from the Oval Office,
   of the Supreme Court’s code of conduct; Trump leads Harris 48% to 47% among likely
   voters in a head-to-head match; and 60% of 18- to 34-year-olds prefer Harris to
   Trump (40%).
-tags:
-- presidential-election
 ---
 
 1/ **Biden, speaking to the American public from the Oval Office, said he ended his re-election campaign because there is “a time and a place for new voices, fresh voices — yes, younger voices.”** He said that “saving our democracy” was “more important than any title,” and that “The best way forward is to pass the torch to a new generation. That is the best way to unite our nation.” Biden never mentioned Trump by name, but instead framed his decision to step aside by saying, “Americans are going to have to choose between moving forward or backward, between hope and hate, between unity and division. We have to decide — do we still believe in honesty, decency, respect, freedom, justice and democracy.” Biden, who entered political life as one of the youngest U.S. senators in history and is leaving as the nation’s oldest president in history, praised Kamala Harris and ended by saying “it’s been the privilege of my life to serve this nation for over 50 years.” ([Associated Press](https://apnews.com/article/biden-oval-office-speech-2024-d7a5e913e4e9c347ed314e5879db3480) / [Washington Post](https://www.washingtonpost.com/politics/2024/07/24/biden-oval-office-farewell/) / [New York Times](https://www.nytimes.com/2024/07/24/us/politics/biden-address.html) / [Politico](https://www.politico.com/news/2024/07/24/biden-bows-out-speech-00171046) / [CNN](https://www.cnn.com/2024/07/24/politics/biden-oval-office-address-2024/index.html) / [Axios](https://www.axios.com/2024/07/24/biden-speech-2024-election-campaign-harris) / [NPR](https://www.npr.org/2024/07/25/g-s1-12556/biden-presidency-oval-office-legacy-history-trump-harris-democracy))

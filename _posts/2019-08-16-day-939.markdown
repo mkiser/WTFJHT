@@ -3,6 +3,10 @@ title: Day 939
 date: 2019-08-16 13:32:00 -07:00
 categories:
 - trump
+tags:
+- economy
+- immigration
+- foreign-policy
 description: 'Hate and war. '
 image: "/uploads/939.jpg"
 todayInOneSentence: The impact of Trump's 2017 Tax Cuts and Jobs Act has not generated
@@ -11,10 +15,6 @@ todayInOneSentence: The impact of Trump's 2017 Tax Cuts and Jobs Act has not gen
   for him in 2020 because the stock market will collapse otherwise; Trump body shamed
   one of his supporters at a campaign rally; and Trump and his national security advisers
   are considering a deal with the Taliban.
-tags:
-- economy
-- immigration
-- foreign-policy
 ---
 
 1/ **The impact of Trump's 2017 Tax Cuts and Jobs Act, which Trump called "the biggest reform of all time" to the tax code, has not generated an increase in overall economic growth, business investment, or worker pay**. Half of corporate chief financial officers expect the economy to shrink by the second quarter of 2020 with two-thirds expecting a recession by the end of next year. Despite an uptick in the second quarter of 2018, growth declined the following two quarters to end up at 2.9% for the year – falling short of the promised 3% growth. ([CNBC](https://www.cnbc.com/2019/08/16/trumps-tax-cut-isnt-giving-the-us-economy-the-boost-it-needs.html))

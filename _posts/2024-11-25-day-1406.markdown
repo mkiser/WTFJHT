@@ -3,6 +3,11 @@ title: Day 1406
 date: 2024-11-25 13:35:00 -08:00
 categories:
 - biden
+tags:
+- indictment
+- cabinet
+- ethics
+- nomination
 description: '"Still going to be in the fight."'
 image: "/uploads/day-1406-biden-trump.jpg"
 todayInOneSentence: 'Special counsel Jack Smith dropped all federal charges against
@@ -20,11 +25,6 @@ todayInOneSentence: 'Special counsel Jack Smith dropped all federal charges agai
   on the TSA’s “Quiet Skies” list for additional screening due to flagged travel patterns
   and foreign connections; and 55% of Americans report feeling happy or at least satisfied
   with Trump’s election victory. '
-tags:
-- indictment
-- cabinet
-- ethics
-- nomination
 ---
 
 1/ **Special counsel Jack Smith dropped all federal charges against Trump**, citing the Justice Department’s longstanding policy against prosecuting a sitting president. "That prohibition is categorical and does not turn on the gravity of the crimes charged, the strength of the Government’s proof, or the merits of the prosecution, which the Government stands fully behind," Smith wrote in his six-page motion seeking to dismiss the case without prejudice. "The Government’s position on the merits of the defendant’s prosecution has not changed. But the circumstances have." In both cases, Smith requested that the dismissals be “without prejudice,” meaning prosecutors could decide to charge Trump again after he leaves office in January 2029. [Trump was first indicted in June 2023](https://whatthefuckjusthappenedtoday.com/2023/06/09/day-871/#1-the-justice-department-charged-tru) on 37 felony counts of unlawfully retaining classified documents after leaving office, making false statements, and conspiracy to obstruct justice. Trump was separately [indicted on four felonies in August 2023](https://whatthefuckjusthappenedtoday.com/2023/08/01/day-924/#1-trump-was-indicted-by-special-coun) for his attempt to overturn his 2020 election loss, conspiracy to defraud the U.S., conspiracy to obstruct an official proceeding, obstruction of and attempting to obstruct an official proceeding, and conspiracy against rights. Smith asked that the classified documents case against Trump's two co-defendants, Walt Nauta and Carlos De Olivera, be allowed to continue. Earlier this year, the judge ruled that Smith’s appointment was unconstitutional and dismissed the indictment. Smith’s office is appealing that decision. ([Washington Post](https://www.washingtonpost.com/national-security/2024/11/25/trump-cases-motion-to-dismiss-jack-smith/) / [NBC News](https://www.nbcnews.com/politics/justice-department/jack-smith-files-drop-jan-6-charges-donald-trump-rcna181667) / [New York Times](https://www.nytimes.com/live/2024/11/25/us/trump-news) / [Axios](https://www.axios.com/2024/11/25/jack-smith-trump-dc-case-dismissed) / [CBS News](https://www.cbsnews.com/news/jack-smith-dismiss-charges-trump-d-c-election-case/) / [ABC News](https://abcnews.go.com/US/special-counsel-jack-smith-moves-dismiss-election-interference/story?id=116207758) / [CNN](https://www.cnn.com/2024/11/25/politics/trump-special-counsel-jack-smith/index.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2024-11-25/doj-formally-moves-to-drop-trump-2020-obstruction-case-in-dc) / [Wall Street Journal](https://www.wsj.com/us-news/law/special-counsel-moves-to-dismiss-election-interference-charges-against-trump-625b315c) / [Associated Press](https://apnews.com/article/trump-capitol-riot-justice-department-jack-smith-d6172cf98d8e03e099571c908267456c) / [Politico](https://www.politico.com/news/2024/11/25/jack-smith-drops-case-trump-election-00191514))

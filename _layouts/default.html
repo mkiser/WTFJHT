@@ -125,7 +125,7 @@
         </div>
       </header>
 
-      {% include_cached doomsday.html date="Jan 31, 2026 00:00:00 -0500" %}
+      {% if site.is_doomsday_counter == true %}{% include_cached doomsday.html date="Jan 31, 2026 00:00:00 -0500" %}{% endif %}
 
       <main id="main-content">
         <!-- ALGOLIA -->

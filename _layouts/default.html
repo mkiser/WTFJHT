@@ -48,15 +48,8 @@
     {% elsif page.type == 'month' %}
       {% seo title=false %}
       <title>{{ page.date | date: "%B %Y" }} Archive | {{ site.title}}</title>
-    {% elsif page.layout == 'post' %}
-      {% seo title=false %}
-      <title>{{ page.title }}: {{ page.description }} | {{ site.title}}</title>
-      {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
-      <meta name="description" content="{{ page.todayInOneSentence | truncate: 160 }}" />
-      {% endif %}
-
     {% else %}
-      {% seo %} 
+      {% seo %}
     {% endif %}
     {% if page.path contains '_posts' %}
       {% if page.last_modified %}

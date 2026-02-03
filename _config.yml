@@ -182,7 +182,7 @@ jekyll-archives:
 plugins:
 - jekyll-redirect-from
 - jekyll-commonmark
-- jekyll-seo-tag
+# jekyll-seo-tag is vendored in _plugins/ for customization
 - jekyll-sitemap
 - jekyll-extlinks
 - jekyll-archives

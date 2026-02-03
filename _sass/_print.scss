@@ -1,0 +1,234 @@
+// Print stylesheet for WTFJHT posts
+// Simple document formatting - like printing a Google Doc
+
+@media print {
+  @page {
+    margin: 1in;
+    size: letter;
+  }
+
+  // Hide everything except content
+  .site-nav,
+  .wtf-search,
+  .wtf-search-results,
+  .doomsday-container,
+  .shutdown-timer,
+  #shutdown-container,
+  .share-widget,
+  .more-menu,
+  .post-meta__actions,
+  .post-tags,
+  .recent-posts,
+  .historical-posts,
+  .post-footer-nav,
+  .footer,
+  .skip-link,
+  .emailpromo,
+  .ft-subscribe,
+  .subscribe-box,
+  .subscribe-form,
+  .share-tooltip,
+  .anchorjs-link,
+  .post-navigation,
+  .pagination,
+  .nav-logo,
+  hr {
+    display: none !important;
+  }
+
+  // Reset everything
+  * {
+    background: none !important;
+    background-color: white !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 11pt;
+    line-height: 1.5;
+    color: black !important;
+  }
+
+  .container {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  // Simple header
+  .masthead {
+    text-align: center;
+    margin: 0 0 1.5em 0 !important;
+    padding: 0 !important;
+    border: none !important;
+
+    &-title {
+      font-size: 16pt;
+      font-weight: bold;
+      margin: 0 0 0.25em 0;
+
+      a {
+        color: black !important;
+        text-decoration: none !important;
+      }
+    }
+
+    &-description {
+      font-size: 10pt;
+      color: #555 !important;
+      margin: 0;
+      font-style: italic;
+    }
+
+    &-meta {
+      display: none !important;
+    }
+  }
+
+  // Post title
+  .post-title {
+    font-size: 14pt;
+    font-weight: bold;
+    margin: 1.5em 0 0.5em 0;
+    text-align: left;
+
+    a {
+      color: black !important;
+      text-decoration: none !important;
+    }
+  }
+
+  .post-small {
+    font-weight: normal;
+  }
+
+  // Byline
+  .post-meta {
+    font-size: 10pt;
+    color: #333 !important;
+    margin-bottom: 1em;
+    padding: 0;
+    border: none !important;
+
+    &__main {
+      display: block;
+    }
+
+    &__author {
+      display: inline;
+
+      a {
+        color: black !important;
+        text-decoration: none !important;
+      }
+    }
+
+    &__date {
+      display: inline;
+
+      &::before {
+        content: " · ";
+      }
+    }
+
+    &__read-sentence {
+      display: block;
+      font-style: italic;
+      color: #555 !important;
+      margin-top: 0.25em;
+    }
+
+    &__details {
+      display: inline;
+    }
+  }
+
+  // Content - consistent sizing
+  .post-content {
+    font-size: 11pt;
+    line-height: 1.5;
+
+    p {
+      margin: 0 0 1em 0;
+      text-align: left;
+      font-size: 11pt;
+      orphans: 3;
+      widows: 3;
+    }
+
+    // Today in one sentence - just italic
+    .tios {
+      background: none !important;
+      border: none !important;
+      padding: 0 !important;
+      margin: 0 0 1em 0 !important;
+      font-style: italic;
+      font-size: 11pt;
+    }
+
+    // Links - plain text
+    a {
+      color: black !important;
+      text-decoration: none !important;
+    }
+
+    // Lists - same size as paragraphs
+    ol, ul {
+      margin: 0 0 1em 1.5em;
+      padding: 0;
+      font-size: 11pt;
+    }
+
+    li {
+      margin-bottom: 0.5em;
+      font-size: 11pt;
+    }
+
+    // Blockquotes - same size, just indented
+    blockquote {
+      background: none !important;
+      border: none !important;
+      margin: 1em 0 1em 1em !important;
+      padding: 0 !important;
+      font-size: 11pt;
+      color: black !important;
+
+      p, li {
+        font-size: 11pt;
+      }
+    }
+
+    strong {
+      font-weight: bold;
+    }
+
+    // Section headers
+    h2, h3 {
+      font-size: 12pt;
+      font-weight: bold;
+      margin: 1.5em 0 0.5em 0;
+    }
+  }
+
+  // Page breaks
+  h1, h2, h3, h4 {
+    page-break-after: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+    page-break-inside: avoid;
+  }
+
+  // Simple footer
+  .post::after {
+    content: "whatthefuckjusthappenedtoday.com";
+    display: block;
+    margin-top: 2em;
+    font-size: 9pt;
+    color: #666;
+    text-align: center;
+  }
+}

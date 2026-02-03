@@ -25,6 +25,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#000000">
     <meta name="apple-mobile-web-app-title" content="WTFJHT" />
+
+    <!-- Preconnect to external origins for faster resource loading -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://cdn-images.mailchimp.com" crossorigin>
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="dns-prefetch" href="https://cdn-images.mailchimp.com">
+
+    <!-- Preload critical above-the-fold image -->
+    <link rel="preload" href="{{ site.url }}{{ site.baseurl }}/favicon.svg?v=3" as="image" type="image/svg+xml">
+
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/styles.css" type="text/css">
     <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/search.css" type="text/css">
     <link rel="stylesheet" href="https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" type="text/css">
@@ -77,7 +87,7 @@
         <div class="nav-container">
           <div class="nav-left">
             <a href="{{ site.url }}{{ site.baseurl }}/" class="nav-home" aria-label="WTF Just Happened Today Home">
-              <img src="https://whatthefuckjusthappenedtoday.com/favicon.svg?v=3" alt="WTFJHT" class="nav-logo">
+              <img src="{{ site.url }}{{ site.baseurl }}/favicon.svg?v=3" alt="WTFJHT" class="nav-logo" width="32" height="32">
             </a>
             <span class="nav-quick">
               <a href="{{ site.posts.first.url | relative_url }}">Latest</a>
@@ -489,6 +499,15 @@
           return;
         }
 
+        // Print
+        var printBtn = e.target.closest('[data-action="print"]');
+        if (printBtn) {
+          e.preventDefault();
+          closeAllCards();
+          window.print();
+          return;
+        }
+
         // Close cards when clicking outside
         if (!e.target.closest('.share-widget') && !e.target.closest('.more-menu')) {
           closeAllCards();
@@ -500,6 +519,39 @@
         if (e.key === 'Escape') closeAllCards();
       });
 
+    })();
+    </script>
+
+    <!-- Keyboard navigation: j/Right = newer, k/Left = older -->
+    <script>
+    (function() {
+      document.addEventListener('keydown', function(e) {
+        // Ignore if user is typing in an input
+        if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.isContentEditable) {
+          return;
+        }
+
+        // Get nav links for homepage navigation
+        var navLinks = document.querySelector('.nav-quick');
+        var latestLink = navLinks ? navLinks.querySelector('a:first-of-type') : null;
+        var prevLink = navLinks ? navLinks.querySelectorAll('a')[1] : null;
+
+        if (e.key === 'j' || e.key === 'ArrowRight') {
+          // j/Right = go to newer post
+          {% if page.layout == 'post' and page.next %}
+          window.location.href = '{{ page.next.url | relative_url }}';
+          {% elsif page.url == '/' or page.url == '/index.html' %}
+          if (latestLink) window.location.href = latestLink.href;
+          {% endif %}
+        } else if (e.key === 'k' || e.key === 'ArrowLeft') {
+          // k/Left = go to older post
+          {% if page.layout == 'post' and page.previous %}
+          window.location.href = '{{ page.previous.url | relative_url }}';
+          {% elsif page.url == '/' or page.url == '/index.html' %}
+          if (prevLink) window.location.href = prevLink.href;
+          {% endif %}
+        }
+      });
     })();
     </script>
 

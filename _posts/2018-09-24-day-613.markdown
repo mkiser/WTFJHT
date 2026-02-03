@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - supreme-court
+- immigration
+- mueller-investigation
+- congress
+- tech-policy
 description: Lingering stench.
 image: "/uploads/613.jpg"
 todayInOneSentence: A second woman publicly accused Brett Kavanaugh of sexual assault;

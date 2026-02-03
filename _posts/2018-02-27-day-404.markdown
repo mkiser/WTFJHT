@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - disinformation
 - immigration
+- national-security
+- congress
 description: Taking things seriously.
 image: "/uploads/404.jpg"
 ---

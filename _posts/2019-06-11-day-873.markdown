@@ -6,6 +6,9 @@ categories:
 tags:
 - oversight
 - subpoena
+- mueller-investigation
+- congress
+- russia
 description: Not off the table.
 image: "/uploads/873.jpg"
 todayInOneSentence: The White House will review and decide what evidence from Robert

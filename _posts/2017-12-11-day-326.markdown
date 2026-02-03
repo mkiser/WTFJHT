@@ -7,6 +7,8 @@ tags:
 - special-election
 - mueller-investigation
 - taxes
+- congress
+- national-security
 description: 'Heard. '
 image: "/uploads/326.jpg"
 ---

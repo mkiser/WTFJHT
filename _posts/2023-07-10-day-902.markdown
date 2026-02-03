@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - national-security
 - reproductive-rights
+- congress
+- ukraine
 description: '"Bomblets."'
 image: "/uploads/day-902-biden.jpg"
 todayInOneSentence: The Biden administration will send cluster bombs to Ukraine, as

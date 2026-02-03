@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - media
 - corruption
+- congress
+- russia
 description: Under open assault.
 image: "/uploads/459.jpg"
 ---

@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - gun-policy
+- education
+- national-security
+- congress
 description: They're on our side.
 image: "/uploads/403.jpg"
 ---

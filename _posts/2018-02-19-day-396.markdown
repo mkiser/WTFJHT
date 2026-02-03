@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - gun-policy
+- national-security
+- congress
+- protests
 description: Incontrovertible.
 image: "/uploads/396.jpg"
 ---

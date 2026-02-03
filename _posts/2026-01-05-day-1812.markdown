@@ -5,6 +5,8 @@ tags:
 - foreign-policy
 - national-security
 - indictment
+- covid
+- congress
 description: '"We’re going to have to do something."'
 image: "/uploads/day1812trump.jpg"
 todayInOneSentence: 'Venezuela''s captured President Nicolás Maduro pleaded not guilty

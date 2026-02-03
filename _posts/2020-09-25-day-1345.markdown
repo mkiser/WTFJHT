@@ -13,6 +13,12 @@ todayInOneSentence: The United States surpassed 7 million confirmed cases of COV
   and orders the active-duty military to quell protests during the election; and Trump
   will nominate Judge Amy Coney Barrett to fill the Supreme Court vacancy left by
   the death of Justice Ruth Bader Ginsburg.
+tags:
+- covid
+- voting-rights
+- national-security
+- congress
+- media
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Every State.

@@ -15,6 +15,12 @@ todayInOneSentence: Trump threatened military violence against U.S. citizens in 
   and led away by police in Minneapolis while reporting live on-air; and Trump announced
   that he is "terminating" U.S. membership with the World Health Organization as the
   global coronavirus pandemic continues.
+tags:
+- covid
+- protests
+- china
+- media
+- tech-policy
 ---
 
 * ### 😷 Dept. of We Have It Totally Under Control.

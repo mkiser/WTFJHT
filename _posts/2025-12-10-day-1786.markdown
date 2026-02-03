@@ -6,6 +6,7 @@ tags:
 - immigration
 - housing
 - special-election
+- national-security
 description: '"Crushing it."'
 image: "/uploads/day1786trump.jpg"
 todayInOneSentence: During Trump’s first stop on his “affordability” tour in Mount

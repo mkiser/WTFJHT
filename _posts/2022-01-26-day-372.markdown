@@ -7,6 +7,8 @@ tags:
 - nomination
 - russia
 - energy
+- economy
+- foreign-policy
 description: '"The ball is in their court."'
 image: "/uploads/day-372.jpg"
 todayInOneSentence: Justice Stephen Breyer will retire at the end of the current Supreme

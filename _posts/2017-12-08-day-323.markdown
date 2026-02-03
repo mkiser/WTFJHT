@@ -7,6 +7,8 @@ tags:
 - disinformation
 - special-election
 - healthcare
+- congress
+- taxes
 description: Puppet.
 image: "/uploads/323.jpg"
 ---

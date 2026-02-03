@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- jan-6
+- impeachment
+- ukraine
+- lawsuit
 description: '"Ambitious but doable."'
 image: "/uploads/day-379-biden.jpg"
 tag_excerpts:

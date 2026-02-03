@@ -7,6 +7,8 @@ tags:
 - executive-order
 - mueller-investigation
 - congress
+- russia
+- indictment
 description: Swiftly.
 image: "/uploads/763.jpg"
 todayInOneSentence: House Democrats will file a resolution rejecting Trump's national

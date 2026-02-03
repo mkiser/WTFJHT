@@ -8,6 +8,7 @@ tags:
 - economy
 - covid
 - jan-6
+- congress
 description: Brat attacks.
 image: "/uploads/45-thumbs-down-biden.jpg"
 todayInOneSentence: Senate Democrats agreed to lower the federal unemployment benefits

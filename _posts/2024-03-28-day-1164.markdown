@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - indictment
 - climate
+- supreme-court
 description: '"The ideal must bend to the practical."'
 image: "/uploads/day-1164-biden.jpg"
 todayInOneSentence: 'The International Court of Justice ordered Israel to “take all

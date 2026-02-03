@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- congress
+- economy
+- polling
 description: '"America is back."'
 image: "/uploads/biden-harris-16.jpg"
 todayInOneSentence: 'U.S. Covid-19 hospitalizations are at the lowest point since

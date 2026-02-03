@@ -8,6 +8,7 @@ tags:
 - pardon
 - trade
 - corruption
+- congress
 description: '"Irresponsible."'
 image: "/uploads/day-847-biden.jpg"
 todayInOneSentence: 'Biden will cut his trip to Asia short and return to Washington

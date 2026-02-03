@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - congress
 - climate
+- education
 description: '"Irritating."'
 image: "/uploads/day-77-biden.jpg"
 todayInOneSentence: All adults in the U.S. should be eligible to receive the Covid-19

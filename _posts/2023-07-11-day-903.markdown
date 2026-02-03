@@ -7,6 +7,8 @@ tags:
 - indictment
 - jan-6
 - lawsuit
+- classified-documents
+- national-security
 description: '"Racism bad."'
 image: "/uploads/day-903-biden.jpg"
 todayInOneSentence: Trump asked a federal judge to postpone his trial on charges of

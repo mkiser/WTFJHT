@@ -10,6 +10,12 @@ todayInOneSentence: 'Trump vowed to "protect" women “whether the women like it
   since February 2021; North Korea launched a new intercontinental ballistic missile
   intended to send a message to "rivals" who have "escalated" regional tensions; and
   Gen Z is shocked by Trump’s Access Hollywood video. '
+tags:
+- economy
+- voting-rights
+- presidential-election
+- foreign-policy
+- tech-policy
 ---
 
 * **The presidential election is in 5 days**.

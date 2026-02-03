@@ -8,6 +8,7 @@ tags:
 - economy
 - national-security
 - jan-6
+- congress
 description: '"Uncertainty is high."'
 image: "/uploads/day-812-biden.jpg"
 todayInOneSentence: Manhattan District Attorney Alvin Bragg sued Jim Jordan to keep

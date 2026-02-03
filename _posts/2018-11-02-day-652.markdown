@@ -7,6 +7,8 @@ tags:
 - civil-rights
 - sanctions
 - immigration
+- national-security
+- media
 description: Too stupid.
 image: "/uploads/652.jpg"
 todayInOneSentence: Trump once told Michael Cohen that he thinks black people are

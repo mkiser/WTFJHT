@@ -8,6 +8,7 @@ tags:
 - covid
 - education
 - labor
+- congress
 description: '"Based on a lie."'
 image: "/uploads/day-72-biden.jpg"
 todayInOneSentence: The Texas Senate passed new voting restrictions in the state;

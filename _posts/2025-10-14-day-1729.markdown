@@ -6,6 +6,7 @@ tags:
 - voting-rights
 - national-security
 - media
+- economy
 description: '"Common sense."'
 image: "/uploads/day1729trump.jpg"
 todayInOneSentence: Trump threatened to permanently cut more “Democrat programs” as

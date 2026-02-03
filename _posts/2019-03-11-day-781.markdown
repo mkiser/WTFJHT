@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- economy
+- congress
+- media
+- mueller-investigation
 description: 'Sanity. '
 image: "/uploads/781.jpg"
 todayInOneSentence: Trump proposed a $4.75 trillion budget; Trump claimed that "the

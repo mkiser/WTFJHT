@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - national-security
 - media
+- trade
+- tariffs
 description: '"Totally unacceptable."'
 image: "/uploads/498.jpg"
 todayInOneSentence: U.S. allies are retaliating against Trump's new metal tariffs

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - immigration
+- congress
+- russia
+- national-security
 description: 'Revisit. '
 image: "/uploads/230.jpg"
 ---

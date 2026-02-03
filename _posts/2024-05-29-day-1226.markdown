@@ -7,6 +7,8 @@ tags:
 - ethics
 - indictment
 - jan-6
+- supreme-court
+- protests
 description: '"A subversion of democracy."'
 image: "/uploads/day-1226-biden.jpg"
 todayInOneSentence: Supreme Court Justice Samuel Alito refused to recuse himself from

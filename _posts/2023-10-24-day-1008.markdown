@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- indictment
+- israel-palestine
+- voting-rights
+- mueller-investigation
 description: '"Collective punishment."'
 image: "/uploads/day-1008-biden.jpg"
 todayInOneSentence: 'The Biden administration is reportedly worried that Israel lacks

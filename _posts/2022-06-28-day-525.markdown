@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- jan-6
+- congress
+- covid
+- protests
 description: '"Real, real bad."'
 image: "/uploads/day-525-biden.jpg"
 tag_excerpts:

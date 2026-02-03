@@ -8,6 +8,7 @@ tags:
 - ethics
 - lawsuit
 - economy
+- congress
 description: '"A ticking time bomb."'
 image: "/uploads/day-818-biden.jpg"
 todayInOneSentence: The Supreme Court temporarily preserved access to the abortion

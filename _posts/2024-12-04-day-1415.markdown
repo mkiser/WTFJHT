@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - doge
+- congress
+- supreme-court
+- nomination
+- national-security
 description: '"They’re coming after you."'
 image: "/uploads/day-1415-biden-trump.jpg"
 tag_excerpts:

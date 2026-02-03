@@ -7,6 +7,8 @@ tags:
 - classified-documents
 - israel-palestine
 - corruption
+- national-security
+- lawsuit
 description: '"Fundamentally flawed."'
 image: "/uploads/day-1170-biden.jpg"
 todayInOneSentence: 'Special Counsel Jack Smith warned the judge overseeing Trump’s

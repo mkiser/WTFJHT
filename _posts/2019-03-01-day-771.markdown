@@ -6,6 +6,9 @@ categories:
 tags:
 - foreign-policy
 - mueller-investigation
+- immigration
+- congress
+- media
 description: Alarming.
 image: "/uploads/771.jpg"
 todayInOneSentence: Otto Warmbier's family blamed Kim Jong Un for the death of their

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- national-security
+- media
+- indictment
 description: '"Historic nightmare."'
 image: "/uploads/1083.jpg"
 todayInOneSentence: Mitch McConnell told Republicans he had the votes needed to begin

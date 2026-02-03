@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - congress
+- education
+- oversight
+- national-security
 description: Scum.
 image: "/uploads/1056.jpg"
 todayInOneSentence: The Justice Department Inspector General Michael Horowitz testified

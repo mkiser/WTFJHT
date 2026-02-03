@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- ukraine
+- oversight
+- national-security
+- indictment
 description: Orchestrated efforts.
 image: "/uploads/1020.jpg"
 todayInOneSentence: A key witness in the impeachment inquiry acknowledged there was

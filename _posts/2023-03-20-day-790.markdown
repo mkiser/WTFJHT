@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - reproductive-rights
 - climate
+- congress
 description: '"A final warning."'
 image: "/uploads/day-790-biden.jpg"
 todayInOneSentence: 'Trump claimed he will be arrested Tuesday and urged his supporters

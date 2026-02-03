@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- climate
+- congress
+- immigration
+- national-security
 description: '"Do us a favor."'
 image: "/uploads/979.jpg"
 todayInOneSentence: Trump urged President Volodymyr Zelensky to "do us a favor" and

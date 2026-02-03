@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- congress
+- mueller-investigation
+- oversight
 description: Time to act.
 image: "/uploads/1050.jpg"
 todayInOneSentence: Speaker Nancy Pelosi instructed the key chairmen in the House

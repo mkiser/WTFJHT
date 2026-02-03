@@ -5,6 +5,8 @@ tags:
 - tariffs
 - national-security
 - subpoena
+- immigration
+- economy
 description: '"The World is not secure unless we have Complete and Total Control."'
 image: "/uploads/day1827trump.jpg"
 todayInOneSentence: 'Global markets fell sharply after Trump threatened 10% tariffs

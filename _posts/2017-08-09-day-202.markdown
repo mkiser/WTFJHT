@@ -7,6 +7,8 @@ tags:
 - national-security
 - mueller-investigation
 - healthcare
+- foreign-policy
+- congress
 description: An absurd red line.
 image: "/uploads/202.jpg"
 ---

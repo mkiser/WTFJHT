@@ -6,6 +6,7 @@ tags:
 - economy
 - media
 - corruption
+- congress
 description: '"This is all just going away."'
 image: "/uploads/day1644trump.jpg"
 todayInOneSentence: Trump’s “big, beautiful bill” will add $3.4 trillion to the national

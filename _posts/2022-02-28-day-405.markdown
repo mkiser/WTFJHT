@@ -7,6 +7,8 @@ tags:
 - russia
 - ukraine
 - sanctions
+- economy
+- foreign-policy
 description: '"Not satisfactory."'
 image: "/uploads/day-405-022822.jpg"
 todayInOneSentence: The Biden administration increased financial pressure on Russia

@@ -8,6 +8,7 @@ tags:
 - congress
 - indictment
 - national-security
+- voting-rights
 description: '"The other team."'
 image: "/uploads/day-1002-biden.jpg"
 todayInOneSentence: 'The latest U.S. intelligence assessment concludes that Israel

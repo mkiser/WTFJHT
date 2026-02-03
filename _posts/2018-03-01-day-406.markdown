@@ -8,6 +8,7 @@ tags:
 - russia
 - tariffs
 - gun-policy
+- mueller-investigation
 description: No one listened.
 image: "/uploads/406.jpg"
 ---

@@ -6,6 +6,7 @@ tags:
 - judiciary
 - oversight
 - corruption
+- lgbtq-rights
 description: '"Integrity."'
 image: "/uploads/day1722trump.jpg"
 todayInOneSentence: Trump floated invoking the Insurrection Act to “get around” court

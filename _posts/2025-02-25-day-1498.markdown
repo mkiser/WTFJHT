@@ -6,6 +6,7 @@ tags:
 - tariffs
 - economy
 - media
+- immigration
 description: '"Stay tuned."'
 image: "/uploads/day-1498-trump.jpg"
 todayInOneSentence: 'House Speaker Mike Johnson lacks the Republican support needed

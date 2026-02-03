@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - healthcare
 - economy
+- voting-rights
 description: '"Inaccurate and unsubstantiated."'
 image: "/uploads/day-1304-biden-harris.jpg"
 todayInOneSentence: 'Trump asked the judge overseeing his election interference trial

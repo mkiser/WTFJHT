@@ -7,6 +7,8 @@ tags:
 - supreme-court
 - immigration
 - oversight
+- congress
+- economy
 description: 12,800 children.
 image: "/uploads/day-602.png"
 todayInOneSentence: Sen. Feinstein referred a letter to the FBI about potential sexual

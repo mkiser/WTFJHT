@@ -8,6 +8,7 @@ tags:
 - subpoena
 - national-security
 - reproductive-rights
+- congress
 description: A setup and a trap.
 image: "/uploads/468.jpg"
 ---

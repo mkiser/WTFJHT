@@ -7,6 +7,8 @@ tags:
 - taxes
 - mueller-investigation
 - climate
+- national-security
+- congress
 description: 'Cut, cut, cut. '
 image: "/uploads/287.jpg"
 ---

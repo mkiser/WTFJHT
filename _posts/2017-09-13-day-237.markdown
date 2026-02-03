@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - voting-rights
+- congress
+- national-security
+- media
 description: Even lower.
 image: "/uploads/237.jpg"
 author: Clayton Aldern

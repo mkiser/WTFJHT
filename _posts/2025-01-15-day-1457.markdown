@@ -8,6 +8,7 @@ tags:
 - cabinet
 - economy
 - polling
+- nomination
 description: '"Out of sight or out of mind."'
 image: "/uploads/day-1457-biden-trump.jpg"
 todayInOneSentence: 'Israel and Hamas agreed to a 42-day ceasefire; a recap of today’s

@@ -6,6 +6,7 @@ tags:
 - immigration
 - healthcare
 - energy
+- covid
 description: '"Very talented people."'
 image: "/uploads/day-1630-trump.jpg"
 todayInOneSentence: Trump threatened tariffs of 25% to 40% on imports from 14 countries

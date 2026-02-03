@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- congress
+- russia
+- indictment
 description: High crimes and misdemeanors.
 image: "/uploads/774.jpg"
 todayInOneSentence: The House Judiciary Committee launched a broad investigation into

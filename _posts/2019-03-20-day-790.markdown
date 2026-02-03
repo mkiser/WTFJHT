@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - trade
 - energy
+- congress
+- taxes
 description: Nuts.
 image: "/uploads/790.jpg"
 todayInOneSentence: Trump called Mueller's report illegitimate because he was never

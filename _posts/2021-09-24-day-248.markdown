@@ -7,6 +7,8 @@ tags:
 - jan-6
 - reproductive-rights
 - covid
+- immigration
+- congress
 description: '"Delays and excuses."'
 image: "/uploads/day-248-biden.jpg"
 todayInOneSentence: The House select committee investigating the Jan. 6 attack on

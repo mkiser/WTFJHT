@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- oversight
+- ukraine
+- media
+- subpoena
 description: No doubt.
 image: "/uploads/1023.jpg"
 todayInOneSentence: The top Ukraine expert at the National Security Council testified

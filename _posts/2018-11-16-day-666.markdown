@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - media
+- congress
+- national-security
+- voting-rights
 description: Decorum.
 image: "/uploads/666.jpg"
 todayInOneSentence: Trump answered Robert Mueller's written questions himself "very

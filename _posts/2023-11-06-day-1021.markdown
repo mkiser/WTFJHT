@@ -8,6 +8,7 @@ tags:
 - indictment
 - lawsuit
 - presidential-election
+- national-security
 description: '"An unfolding catastrophe."'
 image: "/uploads/biden-1021.jpg"
 todayInOneSentence: 'Trump repeatedly provided off topic testimony, lost his temper,

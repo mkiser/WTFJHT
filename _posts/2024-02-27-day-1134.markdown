@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - government-shutdown
 - lgbtq-rights
+- congress
 description: '"You can''t do both."'
 image: "/uploads/day1134biden.jpg"
 todayInOneSentence: 'Biden suggested that a ceasefire between Israel and Hamas could

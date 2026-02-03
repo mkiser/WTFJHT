@@ -6,6 +6,9 @@ categories:
 tags:
 - foreign-policy
 - taxes
+- voting-rights
+- economy
+- congress
 description: 'Who cares. '
 image: "/uploads/634.jpg"
 todayInOneSentence: Trump suggested that "rogue killers" may be responsible for the

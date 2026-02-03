@@ -7,6 +7,8 @@ tags:
 - taxes
 - mueller-investigation
 - judiciary
+- congress
+- voting-rights
 description: '"The single worst piece of legislation."'
 image: "/uploads/334.jpg"
 ---

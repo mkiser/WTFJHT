@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - tariffs
 - immigration
+- trade
+- media
 description: 'Fickle. '
 image: "/uploads/512.jpg"
 todayInOneSentence: A federal judge revoked Manafort's bail and sent him to jail;

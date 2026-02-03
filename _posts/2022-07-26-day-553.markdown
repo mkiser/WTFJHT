@@ -7,6 +7,8 @@ tags:
 - tech-policy
 - jan-6
 - subpoena
+- congress
+- nomination
 description: '"Kind of wild."'
 image: "/uploads/day-553-biden.jpg"
 todayInOneSentence: The Senate advanced a bill that would provide $52 billion in subsidies

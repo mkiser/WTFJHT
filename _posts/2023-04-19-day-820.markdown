@@ -8,6 +8,7 @@ tags:
 - supreme-court
 - lgbtq-rights
 - gun-policy
+- education
 description: '"The result will be chaos."'
 image: "/uploads/day-820-biden.jpg"
 todayInOneSentence: 'The Supreme Court temporarily extended access to the abortion

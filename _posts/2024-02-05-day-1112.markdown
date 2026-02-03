@@ -7,6 +7,8 @@ tags:
 - immigration
 - national-security
 - indictment
+- congress
+- israel-palestine
 description: '"Playing politics."'
 image: "/uploads/day1112biden.jpg"
 todayInOneSentence: 'House Republicans vowed to kill the Senate’s bipartisan $118.3

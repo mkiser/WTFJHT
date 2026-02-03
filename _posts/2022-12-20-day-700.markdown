@@ -8,6 +8,7 @@ tags:
 - infrastructure
 - immigration
 - oversight
+- taxes
 description: '"A new political weapon."'
 image: "/uploads/day-700-biden.jpg"
 todayInOneSentence: The Jan. 6 Committee is cooperating with the Justice Department's

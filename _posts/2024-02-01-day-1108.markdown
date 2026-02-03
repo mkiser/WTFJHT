@@ -8,6 +8,7 @@ tags:
 - sanctions
 - israel-palestine
 - national-security
+- congress
 description: '"This is a dangerous moment."'
 image: "/uploads/day1108biden.jpg"
 todayInOneSentence: 'The House passed a bipartisan tax package that pairs a temporary

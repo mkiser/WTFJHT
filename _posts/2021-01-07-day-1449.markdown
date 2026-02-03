@@ -8,6 +8,7 @@ tags:
 - congress
 - pardon
 - covid
+- voting-rights
 description: '"A horror show for America."'
 image: "/uploads/1449.jpg"
 tag_excerpts:

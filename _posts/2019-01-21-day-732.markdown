@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - russia
 - immigration
+- congress
+- media
 description: So what.
 image: "/uploads/732.jpg"
 todayInOneSentence: The special counsel's office disputed aspects of the report that

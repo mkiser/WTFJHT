@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - national-security
+- education
+- immigration
+- congress
 description: Nothing to worry about.
 image: "/uploads/231.jpg"
 ---

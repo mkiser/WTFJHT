@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - supreme-court
+- congress
+- media
+- trade
+- economy
 description: 'Rock bottom. '
 image: "/uploads/624.jpg"
 todayInOneSentence: 'The Senate voted 51-49 to advance Brett Kavanaugh''s Supreme

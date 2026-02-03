@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- taxes
+- oversight
+- education
 description: Locked and loaded.
 image: "/uploads/970.jpg"
 todayInOneSentence: The Manhattan District Attorney subpoenaed eight years of Trump's

@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - immigration
 - judiciary
+- congress
+- education
 description: A little longer.
 image: "/uploads/789.jpg"
 todayInOneSentence: 'Mueller obtained warrants to search Michael Cohen''s emails and

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - national-security
+- russia
+- congress
+- healthcare
 description: Step aside.
 image: "/uploads/298.jpg"
 ---

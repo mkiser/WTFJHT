@@ -6,6 +6,9 @@ categories:
 tags:
 - supreme-court
 - census
+- immigration
+- media
+- congress
 description: Contrived.
 image: "/uploads/889.jpg"
 todayInOneSentence: The Supreme Court blocked the citizenship question from being

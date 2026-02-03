@@ -7,6 +7,8 @@ tags:
 - indictment
 - voting-rights
 - presidential-election
+- lawsuit
+- covid
 description: '"The alternative is untenable."'
 image: "/uploads/day-1316-biden-harris-trump.jpg"
 todayInOneSentence: Special counsel Jack Smith charged Trump in a superseding indictment

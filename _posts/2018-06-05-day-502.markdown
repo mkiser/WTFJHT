@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - national-security
 - subpoena
+- oversight
+- congress
 description: Witness tampering.
 image: "/uploads/502.jpg"
 todayInOneSentence: 'Trump blamed Jeff Sessions for the ongoing Russia investigation

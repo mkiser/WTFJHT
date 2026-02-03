@@ -7,6 +7,8 @@ tags:
 - census
 - corruption
 - mueller-investigation
+- media
+- congress
 description: Radiating insecurity.
 image: "/uploads/901.jpg"
 todayInOneSentence: A federal judge rejected a Trump administration request to assign

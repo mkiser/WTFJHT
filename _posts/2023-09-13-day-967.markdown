@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- economy
+- classified-documents
+- judiciary
+- indictment
 description: '"Step up."'
 image: "/uploads/day-967-biden.jpg"
 todayInOneSentence: Inflation accelerated for a second consecutive month; a federal

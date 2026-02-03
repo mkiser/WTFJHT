@@ -8,6 +8,7 @@ tags:
 - national-security
 - climate
 - jan-6
+- covid
 description: '"A lot of good things."'
 image: "/uploads/day-169-070721.jpg"
 todayInOneSentence: 'Trump filed a class-action lawsuit against Google, Facebook,

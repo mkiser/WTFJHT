@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - corruption
 - immigration
+- nomination
+- media
 description: Inconvenient facts.
 image: "/uploads/659.jpg"
 todayInOneSentence: Trump was involved in "nearly every step" of the hush-money payments

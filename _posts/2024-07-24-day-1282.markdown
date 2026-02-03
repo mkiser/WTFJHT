@@ -6,6 +6,9 @@ categories:
 tags:
 - israel-palestine
 - presidential-election
+- voting-rights
+- protests
+- congress
 description: '"A clash."'
 image: "/uploads/day-1282-biden-harris.jpg"
 todayInOneSentence: 'Israeli Prime Minister Benjamin Netanyahu defended Israel’s war

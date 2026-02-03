@@ -58,7 +58,6 @@ elections:
 recurring-events:
   - government-shutdown
   - state-of-the-union
-  - confirmation-hearing
   - debt-ceiling
 
 major-investigations:
@@ -72,6 +71,9 @@ regions:
   - china
   - ukraine
   - israel-palestine
+
+administration:
+  - doge
 
 other:
   - covid

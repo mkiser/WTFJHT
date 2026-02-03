@@ -7,6 +7,8 @@ tags:
 - climate
 - immigration
 - israel-palestine
+- voting-rights
+- national-security
 description: '"We have to be ready."'
 image: "/uploads/125-biden.jpg"
 todayInOneSentence: Biden doubled FEMA's budget for extreme weather preparation ahead

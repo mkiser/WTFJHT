@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - russia
 - immigration
+- congress
+- oversight
 description: Completely unacceptable.
 image: "/uploads/525.jpg"
 todayInOneSentence: Paul Manafort owed $10 million to a Russian oligarch who was sanctioned

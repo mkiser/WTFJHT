@@ -7,6 +7,8 @@ tags:
 - debt-ceiling
 - immigration
 - jan-6
+- congress
+- economy
 description: '"Playing with fire."'
 image: "/uploads/day-246-biden-debt.jpg"
 todayInOneSentence: The House passed legislation to fund the government through Dec.

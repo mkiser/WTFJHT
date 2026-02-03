@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- immigration
+- media
+- voting-rights
 description: Aesthetics.
 image: "/uploads/868.jpg"
 todayInOneSentence: Mexico proposed sending about 6,000 National Guard troops to the

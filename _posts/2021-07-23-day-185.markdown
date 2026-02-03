@@ -7,6 +7,8 @@ tags:
 - corruption
 - covid
 - reproductive-rights
+- indictment
+- congress
 description: '"The unvaccinated folks."'
 image: "/uploads/day-185-072321.jpg"
 todayInOneSentence: Trump's PAC collected $75 million this year but is spending it

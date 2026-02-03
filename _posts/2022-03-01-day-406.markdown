@@ -7,6 +7,8 @@ tags:
 - russia
 - ukraine
 - jan-6
+- covid
+- subpoena
 description: '"Let history so note."'
 image: "/uploads/day-406-03012022.png"
 todayInOneSentence: Russian forces shelled Ukraine's second-largest city and U.S.

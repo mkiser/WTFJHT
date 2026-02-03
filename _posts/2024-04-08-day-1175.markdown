@@ -7,6 +7,8 @@ tags:
 - education
 - infrastructure
 - disinformation
+- reproductive-rights
+- economy
 description: '"The cruelty and the chaos."'
 image: "/uploads/day-1175-biden.jpg"
 todayInOneSentence: 'Biden announced a new student loan forgiveness plan that would

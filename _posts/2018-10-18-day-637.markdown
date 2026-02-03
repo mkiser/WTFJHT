@@ -6,6 +6,9 @@ categories:
 tags:
 - foreign-policy
 - sanctions
+- congress
+- mueller-investigation
+- national-security
 description: Personal commitments.
 image: "/uploads/637.jpg"
 todayInOneSentence: Trump said it "certainly looks" as if Jamal Khashoggi is dead;

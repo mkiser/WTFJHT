@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - oversight
 - national-security
+- congress
+- immigration
 description: '"Enough is enough."'
 image: "/uploads/553.jpg"
 todayInOneSentence: House Freedom Caucus leaders introduced articles of impeachment

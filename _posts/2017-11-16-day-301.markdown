@@ -8,6 +8,7 @@ tags:
 - ethics
 - national-security
 - energy
+- congress
 description: 'Bring it on. '
 image: "/uploads/301.jpg"
 ---

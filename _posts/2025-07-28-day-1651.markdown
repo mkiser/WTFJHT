@@ -6,6 +6,7 @@ tags:
 - trade
 - foreign-policy
 - corruption
+- media
 description: '"You can''t fake that."'
 image: "/uploads/day1651trump.jpg"
 todayInOneSentence: The U.S. and European Union reached a trade deal that sets a 15%

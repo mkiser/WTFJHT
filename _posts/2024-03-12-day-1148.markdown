@@ -8,6 +8,7 @@ tags:
 - foreign-policy
 - lawsuit
 - voting-rights
+- congress
 description: '"Requisite intent."'
 image: "/uploads/day1148-biden.jpg"
 todayInOneSentence: A group of senators urged Biden to suspend U.S. military aid to

@@ -13,6 +13,12 @@ todayInOneSentence: Another 2.4 million workers filed new unemployment claims la
   if the U.S. is hit by a second wave of coronavirus infections; and Trump refused
   to wear a mask while touring the Ford manufacturing plant in Michigan despite recommendations
   from federal health officials and an executive order from the state’s governor.
+tags:
+- economy
+- covid
+- congress
+- labor
+- media
 ---
 
 * ### 🔥 Daily Damage Report.

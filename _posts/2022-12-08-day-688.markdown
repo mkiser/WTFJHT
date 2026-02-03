@@ -7,6 +7,8 @@ tags:
 - lgbtq-rights
 - classified-documents
 - jan-6
+- congress
+- national-security
 description: '"Hope and dignity."'
 image: "/uploads/day-688-biden.jpg"
 todayInOneSentence: The House passed legislation to enshrine federal protections for

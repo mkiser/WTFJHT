@@ -8,6 +8,7 @@ tags:
 - jan-6
 - reproductive-rights
 - covid
+- mueller-investigation
 description: '"Obstructive acts."'
 image: "/uploads/day-583-biden.jpg"
 todayInOneSentence: 'A federal magistrate judge ordered the Justice Department to

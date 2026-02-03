@@ -8,6 +8,7 @@ tags:
 - jan-6
 - economy
 - education
+- taxes
 description: '"The burden."'
 image: "/uploads/day-601-biden.jpg"
 todayInOneSentence: 'Trump asked a federal judge to deny the Justice Department’s

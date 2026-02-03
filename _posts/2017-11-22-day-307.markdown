@@ -7,6 +7,8 @@ tags:
 - taxes
 - ethics
 - tech-policy
+- congress
+- mueller-investigation
 description: IT WAS ME.
 image: "/uploads/307.jpg"
 ---

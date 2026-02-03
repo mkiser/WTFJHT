@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- oversight
+- mueller-investigation
+- taxes
+- congress
 description: '"BULLSHIT."'
 image: "/uploads/986.jpg"
 todayInOneSentence: The House threatened to subpoena the White House if it doesn't

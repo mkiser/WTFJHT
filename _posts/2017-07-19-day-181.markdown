@@ -7,6 +7,8 @@ tags:
 - russia
 - healthcare
 - sanctions
+- congress
+- national-security
 description: Secret dinner.
 image: "/uploads/181.jpg"
 ---

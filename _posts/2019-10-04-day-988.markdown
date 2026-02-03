@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- oversight
+- congress
+- ukraine
+- taxes
 description: Smoking texts.
 image: "/uploads/988.jpg"
 todayInOneSentence: Text messages reveal how two U.S. ambassadors coordinated with

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- congress
+- immigration
+- ukraine
 description: '"The President abused his office for personal gain."'
 image: "/uploads/980.jpg"
 todayInOneSentence: The whistleblower complaint accused Trump of "abus[ing] his office

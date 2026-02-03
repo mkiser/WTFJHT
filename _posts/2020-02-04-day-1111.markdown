@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- polling
+- national-security
+- state-of-the-union
 description: An unmitigated disaster.
 image: "/uploads/1111.jpg"
 todayInOneSentence: Trump will deliver his State of the Union address tonight at 9

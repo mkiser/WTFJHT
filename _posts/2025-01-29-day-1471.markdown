@@ -8,6 +8,7 @@ tags:
 - immigration
 - classified-documents
 - national-security
+- economy
 description: '"Fork in the road."'
 image: "/uploads/day-1471-trump.jpg"
 todayInOneSentence: The White House rescinded an order freezing federal grants and

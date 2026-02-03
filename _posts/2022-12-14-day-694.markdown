@@ -7,6 +7,8 @@ tags:
 - economy
 - jan-6
 - civil-rights
+- supreme-court
+- indictment
 description: '"That time is now."'
 image: "/uploads/day-694biden.jpg"
 todayInOneSentence: 'The House is expected to pass a temporary spending measure tonight

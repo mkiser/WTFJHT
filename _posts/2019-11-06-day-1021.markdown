@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- ukraine
+- voting-rights
+- foreign-policy
 description: 'A clear understanding. '
 image: "/uploads/1021.jpg"
 todayInOneSentence: The top U.S. diplomat in Ukraine told House impeachment investigators

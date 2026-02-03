@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - mueller-investigation
+- national-security
+- congress
+- media
+- voting-rights
 description: Looking forward to it.
 image: "/uploads/370.jpg"
 ---

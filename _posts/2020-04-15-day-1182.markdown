@@ -7,6 +7,8 @@ tags:
 - covid
 - foreign-policy
 - corruption
+- economy
+- congress
 description: '"As dangerous as it sounds."'
 image: "/uploads/1182.jpg"
 todayInOneSentence: 'Trump cutoff U.S. funding to the World Health Organization; the

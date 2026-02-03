@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - impeachment
 - corruption
+- media
+- oversight
 description: 'Your fault. '
 image: "/uploads/596.jpg"
 todayInOneSentence: Trump called on Jeff Sessions and the Justice Department to investigate

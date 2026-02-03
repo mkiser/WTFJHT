@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - supreme-court
+- congress
+- trade
+- economy
+- subpoena
 description: '"A total low-life."'
 image: "/uploads/615.jpg"
 todayInOneSentence: A third accuser said she witnessed efforts by Brett Kavanaugh

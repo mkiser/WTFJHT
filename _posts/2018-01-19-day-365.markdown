@@ -6,6 +6,9 @@ categories:
 tags:
 - government-shutdown
 - immigration
+- congress
+- economy
+- mueller-investigation
 description: 'The 11th hour. '
 image: "/uploads/365.jpg"
 ---

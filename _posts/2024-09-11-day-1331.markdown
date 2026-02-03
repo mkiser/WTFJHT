@@ -7,6 +7,8 @@ tags:
 - presidential-election
 - debate
 - government-shutdown
+- economy
+- voting-rights
 description: '"Concepts of a plan."'
 image: "/uploads/day-1331-biden-harris-trump.jpg"
 todayInOneSentence: 'Trump had a bad night; Trump demanded that ABC News be shut down

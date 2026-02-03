@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - immigration
 - congress
+- economy
+- oversight
 description: Other methods.
 image: "/uploads/755.jpg"
 todayInOneSentence: Trump intends to sign the bipartisan border security deal; Paul

@@ -2,12 +2,13 @@
 title: Day 1470
 date: 2025-01-28 13:55:00 -08:00
 categories:
-- trumps
+- trump
 tags:
 - executive-order
 - immigration
 - healthcare
 - labor
+- congress
 description: '"Lawless."'
 image: "/uploads/day1470-trump.jpg"
 todayInOneSentence: The Trump administration ordered a temporary freeze on all federal

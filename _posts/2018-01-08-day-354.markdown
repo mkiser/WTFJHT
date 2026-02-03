@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - mueller-investigation
+- tech-policy
+- media
+- congress
+- russia
 description: 'Executive time. '
 image: "/uploads/354.jpg"
 ---

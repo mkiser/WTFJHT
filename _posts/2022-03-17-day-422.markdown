@@ -8,6 +8,7 @@ tags:
 - ukraine
 - tariffs
 - climate
+- covid
 description: '"Consequences and implications."'
 image: "/uploads/day-422-biden.jpg"
 todayInOneSentence: The House passed legislation to revoke Russia’s “most-favored-nation”

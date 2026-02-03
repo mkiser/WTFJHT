@@ -8,6 +8,7 @@ tags:
 - national-security
 - reproductive-rights
 - energy
+- congress
 description: '"Persistent and lethal."'
 image: "/uploads/day-678-biden.jpg"
 todayInOneSentence: 'Biden renewed his call for a ban on assault weapons following

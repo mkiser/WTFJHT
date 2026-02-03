@@ -6,6 +6,7 @@ tags:
 - judiciary
 - education
 - ethics
+- corruption
 description: '"No tolerance for gamesmanship or grandstanding."'
 image: "/uploads/day-1547-trump.jpg"
 todayInOneSentence: 'Federal immigration agents arrested a Columbia student when he

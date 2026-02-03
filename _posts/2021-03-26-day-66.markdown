@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - covid
 - media
+- lawsuit
+- congress
 description: '"Outrageous."'
 image: "/uploads/biden-66.jpg"
 todayInOneSentence: 'Georgia''s governor signed new voting restrictions into law;

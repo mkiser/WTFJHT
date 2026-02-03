@@ -7,6 +7,8 @@ tags:
 - economy
 - gun-policy
 - healthcare
+- immigration
+- trade
 description: Fundamentals.
 image: "/uploads/943.jpg"
 todayInOneSentence: Trump confirmed that he is considering "various tax reductions"

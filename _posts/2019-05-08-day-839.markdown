@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - oversight
 - congress
+- taxes
+- media
 description: 'Sport. '
 image: "/uploads/839.jpg"
 todayInOneSentence: Trump asserted executive privilege over Robert Mueller's full,

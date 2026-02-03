@@ -4,8 +4,9 @@ date: 2025-10-02 15:03:00 -07:00
 tags:
 - government-shutdown
 - disinformation
-- agriculture
+- economy
 - protests
+- congress
 description: '"Confusion and concern."'
 image: "/uploads/day1717trump.jpg"
 todayInOneSentence: 'Trump called the shutdown an “unprecedented opportunity” to slash

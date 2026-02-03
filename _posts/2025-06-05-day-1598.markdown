@@ -6,6 +6,7 @@ tags:
 - supreme-court
 - gun-policy
 - civil-rights
+- economy
 description: '"Have a nice day, DJT!"'
 image: "/uploads/day-1598-trump.jpg"
 todayInOneSentence: Trump threatened to cancel Elon Musk’s federal contracts, called

@@ -7,6 +7,8 @@ tags:
 - jan-6
 - indictment
 - presidential-election
+- voting-rights
+- classified-documents
 description: '"An unprecedented assault on the seat of American democracy."'
 image: "/uploads/day-924-biden-trump-indictment.jpg"
 todayInOneSentence: Trump was indicted by special counsel Jack Smith on federal charges

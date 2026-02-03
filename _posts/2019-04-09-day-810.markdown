@@ -7,6 +7,8 @@ tags:
 - immigration
 - resignation
 - mueller-investigation
+- congress
+- national-security
 description: A mess.
 image: "/uploads/810.jpg"
 todayInOneSentence: Trump recently put Stephen Miller "in charge" of the administration's

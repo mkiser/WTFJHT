@@ -8,6 +8,7 @@ tags:
 - indictment
 - reproductive-rights
 - lgbtq-rights
+- congress
 description: '"Offensive and humiliating."'
 image: "/uploads/day-120-biden.jpg"
 todayInOneSentence: Mitch McConnell will oppose legislation to create a commission

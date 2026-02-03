@@ -7,6 +7,8 @@ tags:
 - taxes
 - mueller-investigation
 - media
+- national-security
+- congress
 description: 'Your favorite president. '
 image: "/uploads/312.jpg"
 ---

@@ -6,6 +6,7 @@ tags:
 - judiciary
 - media
 - foreign-policy
+- congress
 description: '"Things happen."'
 image: "/uploads/day1764trump.jpg"
 todayInOneSentence: 'A federal court blocked Texas from using its newly drawn congressional

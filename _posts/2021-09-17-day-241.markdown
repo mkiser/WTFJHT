@@ -7,6 +7,8 @@ tags:
 - covid
 - climate
 - foreign-policy
+- jan-6
+- national-security
 description: '"A catastrophic pathway."'
 image: "/uploads/day-241-biden.jpg"
 todayInOneSentence: An FDA advisory panel rejected a plan to offer Pfizer Covid-19

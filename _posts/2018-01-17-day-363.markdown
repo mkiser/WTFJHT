@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - government-shutdown
+- congress
+- immigration
+- media
 description: Gag order.
 image: "/uploads/363.jpg"
 ---

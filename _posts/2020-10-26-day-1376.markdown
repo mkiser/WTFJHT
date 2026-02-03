@@ -12,6 +12,12 @@ todayInOneSentence: The U.S. hit an all-time high in new coronavirus cases two d
   least five of Pence's aides, including his chief of staff and his senior political
   adviser, tested positive for COVID-19; and the Senate is expected to confirm Amy
   Coney Barrett to the Supreme Court this evening
+tags:
+- covid
+- economy
+- voting-rights
+- congress
+- disinformation
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

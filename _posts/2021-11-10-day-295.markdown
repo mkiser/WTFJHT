@@ -7,6 +7,8 @@ tags:
 - jan-6
 - ethics
 - economy
+- covid
+- congress
 description: '"Willful disregard for the law."'
 image: "/uploads/295-biden-infrastructure.jpg"
 todayInOneSentence: The House committee investigating the Jan. 6 Capitol riot issued

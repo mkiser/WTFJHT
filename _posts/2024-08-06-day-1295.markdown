@@ -7,6 +7,8 @@ tags:
 - presidential-election
 - nomination
 - indictment
+- voting-rights
+- taxes
 description: '"It’s personal."'
 image: "/uploads/day-1295-biden-harris.jpg"
 todayInOneSentence: 'Kamala Harris officially secured the 2024 Democratic presidential

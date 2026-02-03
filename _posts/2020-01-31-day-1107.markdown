@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- immigration
+- ukraine
+- national-security
 description: '"A grand tragedy."'
 image: "/uploads/1107.jpg"
 todayInOneSentence: 'The Senate voted to block new new witnesses in Trump''s impeachment

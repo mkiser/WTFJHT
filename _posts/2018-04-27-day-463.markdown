@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - media
 - disinformation
+- congress
+- national-security
 description: Very sick or very dumb.
 image: "/uploads/463.jpg"
 ---

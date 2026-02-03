@@ -6,7 +6,9 @@ categories:
 tags:
 - economy
 - resignation
-- vaccination-policy
+- covid
+- covid
+- congress
 description: '"A badge of honor."'
 image: "/uploads/day-204-081121.jpg"
 todayInOneSentence: The Senate passed a $3.5 trillion budget plan along party lines;

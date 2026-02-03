@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - disinformation
+- indictment
+- national-security
+- tech-policy
 description: 'Information warfare. '
 image: "/uploads/393.jpg"
 ---

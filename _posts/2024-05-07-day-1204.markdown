@@ -7,6 +7,8 @@ tags:
 - israel-palestine
 - indictment
 - classified-documents
+- national-security
+- congress
 description: '"Blacked out."'
 image: "/uploads/day-1204-biden.jpg"
 todayInOneSentence: 'Israeli forces seized the Gaza side of the Rafah border crossing

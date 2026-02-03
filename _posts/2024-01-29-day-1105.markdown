@@ -8,6 +8,7 @@ tags:
 - immigration
 - lawsuit
 - israel-palestine
+- congress
 description: '"Something Donald Trump hates."'
 image: "/uploads/day1105biden.jpg"
 todayInOneSentence: 'House Republicans released two articles of impeachment against

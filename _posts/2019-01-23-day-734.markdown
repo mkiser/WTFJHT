@@ -7,6 +7,8 @@ tags:
 - russia
 - mueller-investigation
 - oversight
+- congress
+- media
 description: Unforced errors.
 image: "/uploads/734.jpg"
 todayInOneSentence: Giuliani claimed that "no plans were ever made" for Trump Tower

@@ -8,6 +8,7 @@ tags:
 - indictment
 - national-security
 - presidential-election
+- tech-policy
 description: '"We need to worry."'
 image: "/uploads/day-940-biden.jpg"
 todayInOneSentence: The Fulton County Sheriff’s Office is investigating online threats

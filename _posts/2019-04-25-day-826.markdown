@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - oversight
 - disinformation
+- media
+- subpoena
 description: Inherent contempt.
 image: "/uploads/826.jpg"
 todayInOneSentence: The White House rejected a House Oversight Committee request for

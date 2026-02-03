@@ -8,6 +8,7 @@ tags:
 - infrastructure
 - immigration
 - israel-palestine
+- congress
 description: '"A clear message."'
 image: "/uploads/day-1163-biden.jpg"
 todayInOneSentence: 'An Alabama Democrat won a special election in the state Legislature

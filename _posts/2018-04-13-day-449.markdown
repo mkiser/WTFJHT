@@ -8,6 +8,7 @@ tags:
 - pardon
 - judiciary
 - corruption
+- media
 description: Slime ball.
 image: "/uploads/449.jpg"
 ---

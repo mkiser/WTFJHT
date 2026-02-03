@@ -7,6 +7,8 @@ tags:
 - reproductive-rights
 - indictment
 - judiciary
+- voting-rights
+- national-security
 description: '"Void for vagueness."'
 image: "/uploads/day-1332-biden-harris.jpg"
 todayInOneSentence: A North Dakota judge struck down the state's abortion ban; an

@@ -6,6 +6,9 @@ categories:
 tags:
 - classified-documents
 - israel-palestine
+- national-security
+- criminal-justice
+- congress
 description: '"Lacking in substance and professional courtesy."'
 image: "/uploads/day-1225-biden.jpg"
 todayInOneSentence: 'The judge presiding over Trump’s classified documents case denied

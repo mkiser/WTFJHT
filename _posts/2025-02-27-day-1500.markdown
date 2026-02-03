@@ -6,6 +6,7 @@ tags:
 - tariffs
 - healthcare
 - national-security
+- economy
 description: '"Flawed democracy."'
 image: "/uploads/day-1500-trump.jpg"
 todayInOneSentence: 'A federal judge ruled that the Trump administration can fire

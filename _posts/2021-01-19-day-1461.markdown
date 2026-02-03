@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- covid
+- jan-6
+- immigration
+- protests
 description: How it ended.
 image: "/uploads/1461.jpg"
 todayInOneSentence: Trump claimed that he “took on the tough battles” during his four

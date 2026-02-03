@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - foreign-policy
 - economy
+- national-security
 description: '"Numerous acts of fraud."'
 image: "/uploads/day-610-biden.jpg"
 todayInOneSentence: New York Attorney General Letitia James sued Trump, Trump Jr.,

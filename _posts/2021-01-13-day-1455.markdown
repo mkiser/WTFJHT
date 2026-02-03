@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- covid
+- immigration
+- jan-6
 description: '"He must go."'
 image: "/uploads/1455.jpg"
 todayInOneSentence: The House voted to impeach Trump, making him the only American

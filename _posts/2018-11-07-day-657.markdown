@@ -6,6 +6,9 @@ categories:
 tags:
 - oversight
 - cabinet
+- mueller-investigation
+- voting-rights
+- congress
 description: Presidential harassment.
 image: "/uploads/657.jpg"
 todayInOneSentence: Democrats won back the House; Republicans increased their majority

@@ -12,6 +12,12 @@ todayInOneSentence: The Russian disinformation and influence campaign during the
   arrested and charged with conspiring to "covertly and unlawfully" influence politicians;
   and Trump doesn't plan to support a funding extension to avert a partial government
   shutdown over the holidays.
+tags:
+- mueller-investigation
+- tech-policy
+- congress
+- indictment
+- healthcare
 ---
 
 1/ **The Russian disinformation and influence campaign during the 2016 presidential election was more far-reaching than originally understood**, according to the findings of two independent groups of researchers tasked by the bipartisan Senate Intelligence Committee. The report found that "active and ongoing interference operations remain on several platforms," including one campaign to support for Syrian President Bashar al-Assad and influence opinions on the Syrian Civil War. The Internet Research Agency created social media accounts under fake names and spread its messages across Facebook, Instagram, Twitter, YouTube, Reddit, Tumblr, Pinterest, Vine and Google\+, and other platforms. As attention was focused on Facebook and Twitter in 2017, the Russians shifted much of their activity to Instagram. The Internet Research Agency is owned by Yevgeny Prigozhin, an ally of Putin's. Prigozhin and a dozen Internet Research Agency employees were indicted last February as part of Robert Mueller's investigation. In particular, the campaigns urged the African-American community "to boycott the election and focus on other issues instead," while messaging to conservative and right-wing voters "patriotic and anti-immigrant slogans" designed to "elicit outrage \[...\] about liberal appeasement of 'others' at the expense of U.S. citizens, and \[to\] encourage them to vote for Trump." The report concludes: "What is clear is that all of the messaging clearly sought to benefit the Republican Party — and specifically Donald Trump." ([New York Times](https://www.nytimes.com/2018/12/17/us/politics/russia-2016-influence-campaign.html) / [Washington Post](https://www.washingtonpost.com/technology/2018/12/16/new-report-russian-disinformation-prepared-senate-shows-operations-scale-sweep/?utm_term=.a20f408179bc) / [Associated Press](https://apnews.com/8890210ce2ce4256a7df6e4ab65c33d3) / [Bloomberg](https://www.bloomberg.com/news/articles/2018-12-17/russia-waged-vast-pro-trump-social-media-plan-senate-panel-told))

@@ -6,6 +6,7 @@ tags:
 - tariffs
 - national-security
 - healthcare
+- congress
 description: '"Not clued in."'
 image: "/uploads/day1563-trump.jpg"
 todayInOneSentence: A Trump-appointed federal judge blocked the administration from

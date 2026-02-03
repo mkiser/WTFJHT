@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - mueller-investigation
+- congress
+- economy
+- national-security
+- media
 description: 'Never get out. '
 image: "/uploads/378.jpg"
 ---

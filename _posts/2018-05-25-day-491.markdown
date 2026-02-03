@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - national-security
+- immigration
+- media
+- congress
 description: A colossal waste.
 image: "/uploads/491.jpg"
 author: Joe Amditis

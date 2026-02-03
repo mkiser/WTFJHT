@@ -8,6 +8,7 @@ tags:
 - tech-policy
 - gun-policy
 - protests
+- media
 description: 'Conflicts. '
 image: "/uploads/431.jpg"
 ---

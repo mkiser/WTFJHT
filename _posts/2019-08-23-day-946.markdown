@@ -7,6 +7,8 @@ tags:
 - tariffs
 - economy
 - trade
+- immigration
+- china
 description: '"Our bigger enemy."'
 image: "/uploads/946.jpg"
 todayInOneSentence: Trump called the Federal Reserve chairman an "enemy" of the United

@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - oversight
+- congress
+- media
+- foreign-policy
 description: White House confessional.
 image: "/uploads/1002.jpg"
 todayInOneSentence: Mick Mulvaney tried to walk-back his claim that Trump's decision

@@ -7,6 +7,8 @@ tags:
 - covid
 - immigration
 - russia
+- congress
+- economy
 description: '"A new way of living."'
 image: "/uploads/1188.jpg"
 todayInOneSentence: The White House and congressional leaders reached agreement on

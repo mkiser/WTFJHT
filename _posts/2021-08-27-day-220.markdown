@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - jan-6
 - covid
+- housing
+- lawsuit
 description: '"The mission will go on."'
 image: "/uploads/day-220-082721.jpg"
 todayInOneSentence: The death toll from the attack on Kabul's airport rose to 169

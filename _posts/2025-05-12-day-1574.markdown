@@ -6,6 +6,7 @@ tags:
 - trade
 - healthcare
 - immigration
+- israel-palestine
 description: '"Total reset."'
 image: "/uploads/day1574trump.jpg"
 todayInOneSentence: The U.S. and China agreed to a 90-day pause on reciprocal tariffs;

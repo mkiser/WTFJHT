@@ -6,6 +6,7 @@ tags:
 - tariffs
 - immigration
 - israel-palestine
+- lawsuit
 description: '"The most serious constitutional crisis the country has faced since
   Watergate."'
 image: "/uploads/day-1483-trump.jpg"

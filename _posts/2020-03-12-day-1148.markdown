@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - covid
+- economy
+- congress
+- media
+- education
 description: Canceled.
 image: "/uploads/1148.jpg"
 todayInOneSentence: Trump banned foreign visitors from most of Europe for 30-days

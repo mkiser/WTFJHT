@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - resignation
+- congress
+- foreign-policy
+- national-security
 description: Parasite.
 image: "/uploads/1117.jpg"
 todayInOneSentence: The Justice Department is reviewing information Rudy Giuliani

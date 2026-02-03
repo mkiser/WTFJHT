@@ -7,7 +7,7 @@ tags:
 - economy
 - climate
 - jan-6
-- elections
+- presidential-election
 - national-security
 description: '"Heightened threat environment."'
 image: "/uploads/day-504-biden.jpg"

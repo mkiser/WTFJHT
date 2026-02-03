@@ -6,6 +6,9 @@ categories:
 tags:
 - economy
 - jan-6
+- congress
+- infrastructure
+- media
 description: '"On fire."'
 image: "/uploads/day-387-biden.jpg"
 todayInOneSentence: 'U.S. inflation accelerated to the steepest year-over-year increase

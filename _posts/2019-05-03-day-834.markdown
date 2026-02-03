@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - russia
 - energy
+- taxes
+- congress
 description: Sweeping and systematic.
 image: "/uploads/834.jpg"
 todayInOneSentence: Trump discussed the "Russian Hoax" with Putin; House Judiciary

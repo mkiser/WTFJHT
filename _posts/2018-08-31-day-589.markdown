@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- media
+- national-security
+- indictment
 description: Over a barrel.
 image: "/uploads/589.jpg"
 todayInOneSentence: Canada and the U.S. are "not there yet" on a NAFTA deal; Trump

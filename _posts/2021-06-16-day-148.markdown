@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - lgbtq-rights
 - immigration
+- congress
+- media
 description: '"A partisan circus."'
 image: "/uploads/biden-day-148.jpg"
 todayInOneSentence: After blocking major voting rights legislation for weeks, Sen.

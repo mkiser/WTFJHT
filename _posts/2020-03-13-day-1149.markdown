@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - covid
+- congress
+- healthcare
+- education
+- cabinet
 description: '"Full-scale disaster."'
 image: "/uploads/1149.jpg"
 todayInOneSentence: Trump declared a national emergency, blamed the Obama administration

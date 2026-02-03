@@ -7,6 +7,8 @@ tags:
 - russia
 - mueller-investigation
 - national-security
+- congress
+- trade
 description: A disaster for our country.
 image: "/uploads/543.jpg"
 todayInOneSentence: Trump rejected U.S. intelligence that Russia interfered in the

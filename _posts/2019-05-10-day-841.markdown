@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - oversight
 - trade
+- housing
+- media
 description: No Rush.
 image: "/uploads/841.jpg"
 todayInOneSentence: The House Ways and Mean Committee subpoenaed Treasury Secretary

@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - indictment
 - media
+- oversight
+- congress
 description: Morally unfit.
 image: "/uploads/452.jpg"
 ---

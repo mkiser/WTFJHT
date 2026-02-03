@@ -6,6 +6,9 @@ categories:
 tags:
 - midterm-election
 - reproductive-rights
+- voting-rights
+- lgbtq-rights
+- economy
 description: '"A good day for democracy."'
 image: "/uploads/day-659-biden.jpg"
 todayInOneSentence: 'Senate control hinges on three states, while Republicans have

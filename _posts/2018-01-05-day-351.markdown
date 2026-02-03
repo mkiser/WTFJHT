@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - mueller-investigation
+- congress
+- national-security
+- economy
+- oversight
 description: Possible obstruction.
 image: "/uploads/351.jpg"
 ---

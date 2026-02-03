@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - special-election
 - judiciary
+- congress
+- russia
 description: Tatters.
 image: "/uploads/319.jpg"
 ---

@@ -4,9 +4,11 @@ date: 2021-08-06 15:13:00 -07:00
 categories:
 - biden
 tags:
-- vaccine-mandate
+- covid
 - jan-6
 - national-security
+- covid
+- oversight
 description: Extended.
 image: "/uploads/day-199-080621.jpg"
 todayInOneSentence: Biden is considering withholding federal funds in order to spur

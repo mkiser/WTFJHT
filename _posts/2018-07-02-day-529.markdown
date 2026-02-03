@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - national-security
 - trade
+- media
+- russia
 description: Art of the FART.
 image: "/uploads/529.jpg"
 todayInOneSentence: Michael Cohen will "put family and country first," saying his

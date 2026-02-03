@@ -6,6 +6,7 @@ tags:
 - economy
 - executive-order
 - corruption
+- media
 description: '"Blood in the water."'
 image: "/uploads/day-1647trump.jpg"
 todayInOneSentence: Deputy Attorney General Todd Blanche met with Ghislaine Maxwell

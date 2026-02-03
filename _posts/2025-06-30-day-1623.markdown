@@ -6,6 +6,7 @@ tags:
 - congress
 - tariffs
 - trade
+- immigration
 description: '"Insane and destructive."'
 image: "/uploads/day1623-trump.jpg"
 todayInOneSentence: Senate Republicans’ current version of Trump’s “big, beautiful

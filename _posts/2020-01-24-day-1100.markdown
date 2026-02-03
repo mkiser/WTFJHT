@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- ukraine
+- oversight
+- national-security
 description: '"What our framers feared most."'
 image: "/uploads/1100.jpg"
 todayInOneSentence: House managers used their final day of opening arguments to conclude

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- climate
+- immigration
+- economy
+- ethics
 description: '"You''ll see."'
 image: "/uploads/1114.jpg"
 todayInOneSentence: The White House fired a national security official who testified

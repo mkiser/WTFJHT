@@ -7,6 +7,8 @@ tags:
 - russia
 - mueller-investigation
 - national-security
+- congress
+- immigration
 description: Back to school.
 image: "/uploads/741.jpg"
 todayInOneSentence: Trump attacked the U.S. intelligence community; Trump met Putin

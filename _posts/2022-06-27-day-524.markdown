@@ -8,6 +8,7 @@ tags:
 - supreme-court
 - jan-6
 - media
+- voting-rights
 description: '"Bedrock constitutional principles."'
 image: "/uploads/day-524-biden.jpg"
 todayInOneSentence: A Louisiana judge temporarily blocked enforcement of a statewide

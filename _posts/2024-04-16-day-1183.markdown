@@ -8,6 +8,7 @@ tags:
 - congress
 - impeachment
 - jan-6
+- indictment
 description: '"A clusterfuck."'
 image: "/uploads/day-1183-biden.jpg"
 todayInOneSentence: The House will vote on three individual bills to fund Israel,

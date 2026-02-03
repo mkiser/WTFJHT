@@ -7,6 +7,8 @@ tags:
 - oversight
 - foreign-policy
 - reproductive-rights
+- congress
+- mueller-investigation
 description: Escalating tensions.
 image: "/uploads/846.jpg"
 todayInOneSentence: The White House rejected Congress' authority and demands for documents

@@ -7,6 +7,8 @@ tags:
 - classified-documents
 - supreme-court
 - presidential-election
+- indictment
+- congress
 description: '"You got this problem."'
 image: "/uploads/day-1275-biden.jpg"
 todayInOneSentence: Special Counsel Jack Smith appealed Judge Aileen Cannon’s decision

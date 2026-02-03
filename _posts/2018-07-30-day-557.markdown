@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - national-security
 - immigration
+- media
+- taxes
 description: '"Trump Derangement Syndrome."'
 image: "/uploads/557.jpg"
 todayInOneSentence: Rudy Giuliani said that "collusion is not a crime"; Trump meanwhile

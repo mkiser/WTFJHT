@@ -6,6 +6,9 @@ categories:
 tags:
 - classified-documents
 - lgbtq-rights
+- indictment
+- national-security
+- congress
 description: '"The stakes just couldn’t be higher."'
 image: "/uploads/day-1239-biden.jpg"
 todayInOneSentence: 'Judge Aileen Cannon denied convicted felon Trump’s effort to

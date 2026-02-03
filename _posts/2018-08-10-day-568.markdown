@@ -7,6 +7,8 @@ tags:
 - supreme-court
 - mueller-investigation
 - tariffs
+- education
+- indictment
 description: 'Be happy, be cool. '
 image: "/uploads/568.jpg"
 todayInOneSentence: Brett Kavanaugh's confirmation hearing is set to begin September

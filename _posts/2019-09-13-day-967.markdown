@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - foreign-policy
+- education
+- judiciary
+- immigration
 description: 'Moral compass. '
 image: "/uploads/967.jpg"
 todayInOneSentence: A federal appeals court revived a previously-dismissed lawsuit

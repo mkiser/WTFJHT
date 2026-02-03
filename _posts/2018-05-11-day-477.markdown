@@ -8,6 +8,7 @@ tags:
 - corruption
 - national-security
 - immigration
+- congress
 description: Big mistake.
 image: "/uploads/477.jpg"
 ---

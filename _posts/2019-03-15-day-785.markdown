@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - executive-order
 - gun-policy
+- congress
+- national-security
 description: Dangerous and reckless.
 image: "/uploads/785.jpg"
 todayInOneSentence: Trump warned that his "tough" supporters could turn violent as

@@ -6,6 +6,7 @@ tags:
 - tariffs
 - voting-rights
 - economy
+- israel-palestine
 description: '"Fully depreciated."'
 image: "/uploads/day1693trump.jpg"
 todayInOneSentence: The Supreme Court agreed to fast-track Trump’s appeal over his

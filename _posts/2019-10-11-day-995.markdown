@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- immigration
+- subpoena
+- judiciary
+- congress
 description: '"Repugnant to the American Dream."'
 image: "/uploads/995.jpg"
 todayInOneSentence: Federal district and appellate judges rejected Trump's attempt

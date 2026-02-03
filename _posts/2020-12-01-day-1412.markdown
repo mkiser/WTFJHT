@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- covid
+- congress
+- economy
+- mueller-investigation
 description: '"We just don’t have time to waste time."'
 image: "/uploads/1412.jpg"
 tag_excerpts:

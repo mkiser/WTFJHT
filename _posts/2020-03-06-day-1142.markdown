@@ -6,6 +6,9 @@ categories:
 tags:
 - covid
 - immigration
+- education
+- media
+- national-security
 description: '"Contained."'
 image: "/uploads/1142.jpg"
 todayInOneSentence: The Trump administration claimed that the coronavirus outbreak

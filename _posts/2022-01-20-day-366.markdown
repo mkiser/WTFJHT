@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - criminal-justice
 - jan-6
+- congress
+- covid
 description: '"Profoundly disappointed."'
 image: "/uploads/day-366-biden.jpg"
 todayInOneSentence: 'Senate Republicans blocked voting rights legislation for the

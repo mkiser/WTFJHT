@@ -6,6 +6,7 @@ tags:
 - congress
 - tariffs
 - polling
+- immigration
 description: '"Making America bankrupt."'
 image: "/uploads/day-1596-trump.jpg"
 todayInOneSentence: 'Elon Musk publicly denounced Trump’s “One Big Beautiful Bill,"

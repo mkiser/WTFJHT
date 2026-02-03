@@ -6,6 +6,7 @@ tags:
 - voting-rights
 - corruption
 - oversight
+- congress
 description: '"The authoritarian march."'
 image: "/uploads/day1723trump.jpg"
 todayInOneSentence: Trump demanded that Chicago Mayor Brandon Johnson and Illinois

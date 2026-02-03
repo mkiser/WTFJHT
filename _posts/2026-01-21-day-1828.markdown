@@ -6,6 +6,7 @@ tags:
 - national-security
 - immigration
 - government-shutdown
+- congress
 description: '"In the midst of a rupture."'
 image: "/uploads/day1828trump.jpg"
 todayInOneSentence: 'Trump said he would drop planned tariffs on eight European countries,

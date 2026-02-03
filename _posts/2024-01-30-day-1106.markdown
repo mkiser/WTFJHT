@@ -8,6 +8,7 @@ tags:
 - presidential-election
 - voting-rights
 - labor
+- congress
 description: '"That''s absurd."'
 image: "/uploads/day1106biden.jpg"
 todayInOneSentence: 'Republicans – who have for months insisted on changes to border

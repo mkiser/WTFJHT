@@ -8,6 +8,7 @@ tags:
 - criminal-justice
 - jan-6
 - covid
+- congress
 description: '"Calamity."'
 image: "/uploads/day-839-biden.jpg"
 todayInOneSentence: Treasury Secretary Janet Yellen warned that the only way for the

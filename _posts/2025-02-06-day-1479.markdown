@@ -6,6 +6,7 @@ tags:
 - immigration
 - national-security
 - foreign-policy
+- congress
 description: '"Sheer chaos."'
 image: "/uploads/day-1479-trump.jpg"
 todayInOneSentence: A federal judge temporarily blocked the Trump administration’s

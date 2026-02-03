@@ -6,6 +6,7 @@ tags:
 - judiciary
 - criminal-justice
 - corruption
+- economy
 description: '"Why is that such a big deal?"'
 image: "/uploads/day1710trump.jpg"
 todayInOneSentence: Defense Secretary Pete Hegseth ordered hundreds of U.S. generals

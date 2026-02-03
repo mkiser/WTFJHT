@@ -6,6 +6,7 @@ tags:
 - judiciary
 - immigration
 - national-security
+- supreme-court
 description: '"Muddy the waters."'
 image: "/uploads/day1619trump.jpg"
 todayInOneSentence: 'The Senate parliamentarian ruled that key Medicaid cuts in Trump’s

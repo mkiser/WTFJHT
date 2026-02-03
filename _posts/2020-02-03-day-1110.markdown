@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- indictment
+- veterans
+- oversight
 description: '"History will not be kind to Donald Trump."'
 image: "/uploads/1110.jpg"
 todayInOneSentence: House impeachment managers and Trump’s lawyers delivered their

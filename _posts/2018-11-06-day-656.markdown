@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - midterm-election
+- voting-rights
+- immigration
+- protests
+- criminal-justice
 description: 'Setting a tone. '
 image: "/uploads/656.jpg"
 ---

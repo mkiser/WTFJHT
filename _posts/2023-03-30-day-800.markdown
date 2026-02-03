@@ -8,6 +8,7 @@ tags:
 - healthcare
 - energy
 - gun-policy
+- congress
 description: '"Dead on arrival."'
 image: "/uploads/day-800-biden.jpg"
 todayInOneSentence: 'The Manhattan grand jury voted to indict Trump for his role in

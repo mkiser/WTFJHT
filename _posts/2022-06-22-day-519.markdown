@@ -7,6 +7,8 @@ tags:
 - jan-6
 - gun-policy
 - economy
+- congress
+- national-security
 description: '"Breathing room."'
 image: "/uploads/day-519-biden.jpg"
 todayInOneSentence: The Jan. 6 committee will delay its public hearings for several

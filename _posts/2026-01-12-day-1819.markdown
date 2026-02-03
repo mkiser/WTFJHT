@@ -5,6 +5,8 @@ tags:
 - judiciary
 - national-security
 - voting-rights
+- economy
+- protests
 description: '"Well, I should have."'
 image: "/uploads/day1819trump.jpg"
 todayInOneSentence: The Justice Department opened a criminal investigation into Federal

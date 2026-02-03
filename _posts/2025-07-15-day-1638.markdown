@@ -6,6 +6,7 @@ tags:
 - tariffs
 - foreign-policy
 - nomination
+- congress
 description: '"Make them feel the pain."'
 image: "/uploads/day1638trump.jpg"
 todayInOneSentence: Inflation rose to 2.7% in June – up from 2.4% in May – as prices

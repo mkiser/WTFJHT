@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- covid
+- protests
+- congress
+- media
 description: '"Act of expressing hope and optimism for the future."'
 image: "/uploads/1285.jpg"
 todayInOneSentence: Trump's national security adviser tested positive for COVID-19;

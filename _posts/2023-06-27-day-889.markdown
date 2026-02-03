@@ -8,6 +8,7 @@ tags:
 - jan-6
 - classified-documents
 - climate
+- supreme-court
 description: '"Now we have a problem."'
 image: "/uploads/day-889-biden.jpg"
 todayInOneSentence: 'The Supreme Court rejected a legal theory that state legislatures

@@ -7,6 +7,8 @@ tags:
 - indictment
 - lawsuit
 - climate
+- supreme-court
+- mueller-investigation
 description: '"A rule for the ages."'
 image: "/uploads/day-1192-biden.jpg"
 todayInOneSentence: 'Former National Enquirer publisher David Pecker returned to the

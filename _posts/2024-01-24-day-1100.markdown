@@ -8,6 +8,7 @@ tags:
 - primary
 - labor
 - healthcare
+- reproductive-rights
 description: '"Disruptive consequences."'
 image: "/uploads/day1100biden.jpg"
 todayInOneSentence: Trump won New Hampshire’s primary, defeating Nikki Haley and advancing

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- subpoena
+- oversight
+- russia
 description: Demands.
 image: "/uploads/852.jpg"
 todayInOneSentence: 'A federal judge ordered Trump''s accounting firm to hand over

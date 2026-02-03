@@ -6,6 +6,7 @@ tags:
 - foreign-policy
 - ukraine
 - jan-6
+- israel-palestine
 description: '"Hell to pay."'
 image: "/uploads/day1805.jpg"
 todayInOneSentence: Trump threatened military strikes on Iran if it rebuilds its nuclear

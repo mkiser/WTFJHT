@@ -6,6 +6,7 @@ tags:
 - immigration
 - climate
 - executive-order
+- israel-palestine
 description: '"Is anyone unhappy with Elon?"'
 image: "/uploads/day-1499trump.jpg"
 todayInOneSentence: 'House Republicans narrowly passed a budget resolution advancing

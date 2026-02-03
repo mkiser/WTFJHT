@@ -7,6 +7,8 @@ tags:
 - jan-6
 - judiciary
 - nomination
+- covid
+- impeachment
 description: '"Planned in plain sight."'
 image: "/uploads/day-140-biden-trump-wtf.jpg"
 todayInOneSentence: Biden's Justice Department will continue to defend Trump in a

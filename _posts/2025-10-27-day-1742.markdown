@@ -6,6 +6,7 @@ tags:
 - labor
 - trade
 - voting-rights
+- congress
 description: '"You’ll go down as a wimp."'
 image: "/uploads/day1742trump.jpg"
 todayInOneSentence: The Trump administration will stop providing food assistance on

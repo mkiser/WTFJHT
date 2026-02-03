@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- mueller-investigation
+- russia
+- gun-policy
 description: '"NOTHING TO DO WITH ME"'
 image: "/uploads/963.jpg"
 todayInOneSentence: An Air National Guard crew stayed at Trump's Turnberry golf resort

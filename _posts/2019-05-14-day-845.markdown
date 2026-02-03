@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - trade
 - mueller-investigation
+- immigration
+- congress
 description: Echoes.
 image: "/uploads/845.jpg"
 todayInOneSentence: The White House is reviewing plans to attack Iran; global stocks

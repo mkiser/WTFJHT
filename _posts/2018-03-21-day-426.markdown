@@ -8,6 +8,7 @@ tags:
 - russia
 - disinformation
 - midterm-election
+- national-security
 description: No sense of urgency.
 image: "/uploads/426.jpg"
 ---

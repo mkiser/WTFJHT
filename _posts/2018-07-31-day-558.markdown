@@ -6,7 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - disinformation
-- elections
+- presidential-election
+- russia
+- tech-policy
 description: Unhinged.
 image: "/uploads/558.jpg"
 todayInOneSentence: Trump repeated Rudy Giuliani's defense that "Collusion is not

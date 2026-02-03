@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- congress
+- media
+- russia
+- oversight
 description: Complete power.
 tag_excerpts:
   pardon: In a two hour rant on Twitter, Trump asserted his "complete power" to pardon

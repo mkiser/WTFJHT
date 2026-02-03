@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- healthcare
+- congress
+- climate
 description: That's a crime.
 image: "/uploads/833.jpg"
 todayInOneSentence: Pelosi accused Barr of "not telling the truth"; Democrats threatened

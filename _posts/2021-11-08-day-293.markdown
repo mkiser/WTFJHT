@@ -8,6 +8,7 @@ tags:
 - infrastructure
 - covid
 - presidential-election
+- congress
 description: '"Appropriate and necessary."'
 image: "/uploads/day-293-biden.jpg"
 todayInOneSentence: The House committee investigating the Jan. 6 attack on the Capitol

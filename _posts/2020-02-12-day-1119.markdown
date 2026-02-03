@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- national-security
+- indictment
+- congress
 description: '"Ought to apologize."'
 image: "/uploads/1119.jpg"
 todayInOneSentence: 'Trump defended Roger Stone in a series of tweets while attacking

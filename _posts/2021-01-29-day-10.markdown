@@ -7,6 +7,8 @@ tags:
 - covid
 - voting-rights
 - jan-6
+- national-security
+- oversight
 description: '"Wake-up call."'
 image: "/uploads/bidenharris-day-10.jpg"
 todayInOneSentence: Johnson and Johnson’s single-dose Covid-19 vaccine was 66% effective

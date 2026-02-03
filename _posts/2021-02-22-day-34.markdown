@@ -8,6 +8,7 @@ tags:
 - economy
 - indictment
 - nomination
+- voting-rights
 description: '"The work continues."'
 image: "/uploads/34-biden.jpg"
 todayInOneSentence: The U.S. death toll from the coronavirus topped 500,000; Biden

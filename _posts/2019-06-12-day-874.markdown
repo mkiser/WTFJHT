@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- congress
+- immigration
+- media
 description: Not at all worried.
 image: "/uploads/874.jpg"
 todayInOneSentence: Trump asserted executive privilege over subpoenaed documents about

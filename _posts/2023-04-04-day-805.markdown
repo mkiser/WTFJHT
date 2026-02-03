@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - gun-policy
 - economy
+- congress
 description: '"Can''t believe this is happening in America."'
 image: "/uploads/trump-biden-805-day.jpg"
 todayInOneSentence: Trump pleaded not guilty to 34 felony counts related to hush money

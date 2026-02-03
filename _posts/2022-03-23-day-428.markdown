@@ -7,6 +7,8 @@ tags:
 - russia
 - ukraine
 - nomination
+- supreme-court
+- congress
 description: '"Saber rattling."'
 image: "/uploads/day-428-biden.jpg"
 todayInOneSentence: The U.S. government formally accused Russia of committing war

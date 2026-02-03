@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- mueller-investigation
+- congress
+- protests
 description: Defensive.
 image: "/uploads/827.jpg"
 todayInOneSentence: Trump defended his 2017 comment that there were "very fine people

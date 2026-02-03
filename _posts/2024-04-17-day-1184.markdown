@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - israel-palestine
 - reproductive-rights
+- congress
+- impeachment
 description: '"Make our own decisions."'
 image: "/uploads/day-1184-biden.jpg"
 todayInOneSentence: Speaker Mike Johnson defied threats from his Republican colleagues

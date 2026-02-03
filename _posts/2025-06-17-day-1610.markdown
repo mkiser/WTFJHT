@@ -6,6 +6,7 @@ tags:
 - foreign-policy
 - congress
 - economy
+- taxes
 description: '"Whacked out."'
 image: "/uploads/day-1610-trump.jpg"
 todayInOneSentence: Trump abruptly left the G7 summit in Canada and returned to Washington

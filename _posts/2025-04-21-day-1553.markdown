@@ -6,6 +6,7 @@ tags:
 - national-security
 - immigration
 - oversight
+- covid
 description: '"Doing a great job."'
 image: "/uploads/day-1553-trump.jpg"
 todayInOneSentence: Markets fell sharply after Trump escalated his attack on Federal

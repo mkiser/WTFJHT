@@ -7,6 +7,8 @@ tags:
 - executive-order
 - mueller-investigation
 - nomination
+- national-security
+- congress
 description: Emergency declaration.
 image: "/uploads/756.jpg"
 todayInOneSentence: Trump will declare a national emergency to build his border wall

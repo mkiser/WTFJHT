@@ -5,6 +5,8 @@ tags:
 - national-security
 - ukraine
 - social-security
+- congress
+- economy
 description: '"Just something that can happen."'
 image: "/uploads/day-1526-trump.jpg"
 todayInOneSentence: Trump dismissed concerns over a potential national security breach

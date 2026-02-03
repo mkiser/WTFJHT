@@ -6,6 +6,9 @@ categories:
 tags:
 - supreme-court
 - covid
+- economy
+- congress
+- tech-policy
 description: '"This might be bad."'
 image: "/uploads/1132.jpg"
 todayInOneSentence: Trump demanded that Supreme Court Justices Sonia Sotomayor and

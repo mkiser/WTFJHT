@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - energy
+- national-security
+- immigration
+- congress
 description: 'Just a coffee boy. '
 image: "/uploads/348.jpg"
 ---

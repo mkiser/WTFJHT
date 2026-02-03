@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- immigration
+- mueller-investigation
+- congress
+- national-security
 description: Hello darkness, my old friend.
 image: "/uploads/692.jpg"
 todayInOneSentence: Michael Cohen was sentenced to three years in prison; Trump blamed

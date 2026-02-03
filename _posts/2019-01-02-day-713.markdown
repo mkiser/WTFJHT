@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - immigration
 - russia
+- congress
+- national-security
 description: Enjoy the ride.
 image: "/uploads/713.jpg"
 todayInOneSentence: Trump invited congressional leaders to the White House for a briefing

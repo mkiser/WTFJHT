@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - disinformation
 - cabinet
+- climate
+- taxes
 description: 'Hidden genius. '
 image: "/uploads/628.jpg"
 todayInOneSentence: Rick Gates requested proposals in 2016 from an Israeli company

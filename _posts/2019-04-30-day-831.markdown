@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - congress
 - oversight
+- national-security
+- russia
 description: Meritless.
 image: "/uploads/831.jpg"
 todayInOneSentence: The Justice Department and the House Judiciary Committee are at

@@ -6,6 +6,7 @@ tags:
 - national-security
 - immigration
 - executive-order
+- tech-policy
 description: '"Do not give in to him."'
 image: "/uploads/day1604-trump.jpg"
 todayInOneSentence: 'California Gov. Gavin Newsom called Trump’s deployment of 4,000

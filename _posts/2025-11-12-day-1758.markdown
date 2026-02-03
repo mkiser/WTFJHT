@@ -6,6 +6,7 @@ tags:
 - congress
 - government-shutdown
 - corruption
+- economy
 description: '"Of course he knew about the girls."'
 image: "/uploads/day1758trump.jpg"
 todayInOneSentence: Jeffrey Epstein wrote that “of course [Trump] knew about the girls”;

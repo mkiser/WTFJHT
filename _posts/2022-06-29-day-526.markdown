@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - economy
 - supreme-court
+- congress
 description: '"A better justification."'
 image: "/uploads/day-526-biden.jpg"
 todayInOneSentence: 'Virginia Thomas – the conservative activist and wife of Supreme

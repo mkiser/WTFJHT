@@ -7,6 +7,8 @@ tags:
 - climate
 - foreign-policy
 - mueller-investigation
+- russia
+- media
 description: 'A path forward. '
 image: "/uploads/214.jpg"
 ---

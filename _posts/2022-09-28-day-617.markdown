@@ -8,6 +8,7 @@ tags:
 - social-security
 - foreign-policy
 - voting-rights
+- congress
 description: '"Obscene."'
 image: "/uploads/day-617-biden.jpg"
 todayInOneSentence: Biden promised to end hunger in the U.S. by the end of the decade;

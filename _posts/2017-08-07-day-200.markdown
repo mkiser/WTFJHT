@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - media
 - national-security
+- congress
+- nomination
 description: A case of the Mondays.
 image: "/uploads/200.jpg"
 ---

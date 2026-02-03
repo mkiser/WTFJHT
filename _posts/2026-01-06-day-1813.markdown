@@ -6,6 +6,7 @@ tags:
 - oversight
 - jan-6
 - impeachment
+- congress
 description: '"Governed by power."'
 image: "/uploads/day1813trump.jpg"
 todayInOneSentence: Trump is “discussing a range of options” to acquire Greenland,

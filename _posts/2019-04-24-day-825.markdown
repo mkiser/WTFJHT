@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- national-security
+- congress
+- taxes
 description: Transparency.
 image: "/uploads/825.jpg"
 todayInOneSentence: Trump vowed to "fight all the subpoenas" by House Democrats and

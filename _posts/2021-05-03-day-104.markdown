@@ -8,6 +8,7 @@ tags:
 - climate
 - immigration
 - congress
+- jan-6
 description: '"America''s values."'
 image: "/uploads/day-104-biden.jpg"
 todayInOneSentence: Scientists and public health experts say that "herd immunity"

@@ -7,6 +7,8 @@ tags:
 - civil-rights
 - covid
 - immigration
+- nomination
+- labor
 description: '"Accidental discharge."'
 image: "/uploads/day93-biden.jpg"
 todayInOneSentence: The White House put the creation a national police oversight commission

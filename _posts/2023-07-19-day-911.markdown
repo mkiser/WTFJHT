@@ -8,6 +8,7 @@ tags:
 - foreign-policy
 - energy
 - polling
+- china
 description: '"Significant negative effect."'
 image: "/uploads/day-911-biden.jpg"
 todayInOneSentence: 'The U.S. and China need more time to “break new ground” to reach

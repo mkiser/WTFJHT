@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- education
+- media
+- voting-rights
 description: '"Ordinary political rhetoric."'
 image: "/uploads/trump-impeachment-biden-day-24.jpg"
 todayInOneSentence: Trump's legal team concluded its defense, accusing House impeachment

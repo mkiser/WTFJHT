@@ -7,6 +7,8 @@ tags:
 - taxes
 - mueller-investigation
 - disinformation
+- congress
+- tech-policy
 description: No guarantees.
 image: "/uploads/252.jpg"
 ---

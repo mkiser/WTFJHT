@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- oversight
+- ukraine
+- national-security
 description: '"Do impartial justice."'
 image: "/uploads/1092.jpg"
 todayInOneSentence: The Senate opened the impeachment trial; Parnas said Trump "knew

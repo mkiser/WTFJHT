@@ -7,6 +7,8 @@ tags:
 - resignation
 - cabinet
 - national-security
+- congress
+- infrastructure
 description: '100% safe. '
 image: "/uploads/421.jpg"
 ---

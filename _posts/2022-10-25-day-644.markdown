@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - voting-rights
 - climate
+- russia
+- energy
 description: '"Serious mistake."'
 image: "/uploads/day-644-biden.jpg"
 todayInOneSentence: 'Biden warned Russia against using nuclear or radioactive weapons

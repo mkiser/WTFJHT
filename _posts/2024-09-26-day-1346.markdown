@@ -7,6 +7,8 @@ tags:
 - corruption
 - supreme-court
 - israel-palestine
+- congress
+- indictment
 description: '"This is the policy."'
 image: "/uploads/day-1346-biden-harris.jpg"
 todayInOneSentence: Federal prosecutors charged New York City Mayor Eric Adams with

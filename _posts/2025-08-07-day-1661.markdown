@@ -6,6 +6,7 @@ tags:
 - census
 - voting-rights
 - oversight
+- israel-palestine
 description: '"I regret nothing."'
 image: "/uploads/day1661trump.jpg"
 todayInOneSentence: Trump’s “Liberation Day” tariffs, first announced in April and

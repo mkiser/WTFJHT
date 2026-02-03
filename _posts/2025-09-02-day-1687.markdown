@@ -6,6 +6,7 @@ tags:
 - immigration
 - tariffs
 - israel-palestine
+- congress
 description: '"Unhinged."'
 image: "/uploads/day1686trump.jpg"
 todayInOneSentence: A federal judge ruled that Trump’s deployment of the National

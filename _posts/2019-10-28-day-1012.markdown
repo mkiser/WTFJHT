@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- national-security
+- mueller-investigation
+- ukraine
 description: '"Eliminate any doubt."'
 image: "/uploads/1012.jpg"
 todayInOneSentence: The House of Representatives will vote on the Trump impeachment

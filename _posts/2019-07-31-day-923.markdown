@@ -7,6 +7,8 @@ tags:
 - immigration
 - economy
 - national-security
+- congress
+- russia
 description: Animosity.
 image: "/uploads/923.jpg"
 todayInOneSentence: The Trump administration separated more than 900 migrant children

@@ -7,6 +7,8 @@ tags:
 - immigration
 - pardon
 - civil-rights
+- congress
+- media
 description: Looking for a way out.
 image: "/uploads/216.jpg"
 ---

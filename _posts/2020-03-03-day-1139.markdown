@@ -7,6 +7,8 @@ tags:
 - supreme-court
 - reproductive-rights
 - covid
+- healthcare
+- economy
 description: Not good.
 image: "/uploads/1139.jpg"
 todayInOneSentence: The Supreme Court heard oral arguments in the first major abortion

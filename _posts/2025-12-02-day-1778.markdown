@@ -6,6 +6,7 @@ tags:
 - national-security
 - executive-order
 - disinformation
+- congress
 description: '"Garbage."'
 image: "/uploads/day1778trump.jpg"
 todayInOneSentence: 'Trump said he doesn’t want Somali immigrants in the U.S., calling

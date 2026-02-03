@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - foreign-policy
+- oversight
+- media
+- national-security
 description: '"Devastating for the good guys."'
 image: "/uploads/991.jpg"
 todayInOneSentence: Trump announced that he plans to withdraw U.S. troops from northeastern

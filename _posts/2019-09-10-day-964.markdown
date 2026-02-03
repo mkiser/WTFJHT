@@ -6,6 +6,9 @@ categories:
 tags:
 - resignation
 - foreign-policy
+- national-security
+- russia
+- immigration
 description: Extremely complete.
 image: "/uploads/964.jpg"
 todayInOneSentence: Trump announced that he fired his national security adviser; Trump

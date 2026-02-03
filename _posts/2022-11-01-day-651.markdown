@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - media
 - social-security
+- supreme-court
 description: '"Mega-MAGA."'
 image: "/uploads/day-651-biden.jpg"
 todayInOneSentence: Chief Justice John Roberts temporarily blocked a House committee

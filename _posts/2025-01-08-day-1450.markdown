@@ -7,6 +7,8 @@ tags:
 - indictment
 - classified-documents
 - disinformation
+- economy
+- voting-rights
 description: '"Presumptuous."'
 image: "/uploads/day-1450-biden-trump.jpg"
 todayInOneSentence: 'Trump asked the Supreme Court to block his sentencing in the

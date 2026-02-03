@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- oversight
+- congress
+- foreign-policy
+- ukraine
 description: Duty.
 image: "/uploads/1034.jpg"
 todayInOneSentence: Two national security officials testified publicly that Trump's

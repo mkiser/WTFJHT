@@ -6,6 +6,7 @@ tags:
 - foreign-policy
 - ukraine
 - economy
+- russia
 description: '"Standard negotiation."'
 image: "/uploads/day1771trump.jpg"
 todayInOneSentence: 'The White House postponed its new Affordable Care Act subsidy

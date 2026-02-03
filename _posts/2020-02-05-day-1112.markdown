@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- ukraine
+- congress
+- media
+- oversight
 description: A giant asterisk.
 image: "/uploads/1112.jpg"
 todayInOneSentence: The Senate voted to acquit Trump on both articles of impeachment,

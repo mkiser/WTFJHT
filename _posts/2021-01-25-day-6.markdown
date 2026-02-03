@@ -7,6 +7,8 @@ tags:
 - lgbtq-rights
 - executive-order
 - indictment
+- covid
+- congress
 description: '"Attempted sedition."'
 image: "/uploads/biden-harris-day-6.jpg"
 todayInOneSentence: Biden reversed Trump's ban on transgender troops serving in the

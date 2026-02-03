@@ -8,6 +8,7 @@ tags:
 - gun-policy
 - climate
 - presidential-election
+- supreme-court
 description: '"Right the wrongs of the past."'
 image: "/uploads/day-931-biden.jpg"
 todayInOneSentence: Ohio voters will decide whether to make it harder to amend the

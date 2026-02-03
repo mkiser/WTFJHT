@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- immigration
+- voting-rights
+- mueller-investigation
+- media
 description: Humanitarian catastrophe.
 image: "/uploads/777.jpg"
 tag_excerpts:

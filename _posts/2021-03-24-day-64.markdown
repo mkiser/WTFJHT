@@ -8,6 +8,7 @@ tags:
 - gun-policy
 - voting-rights
 - jan-6
+- congress
 description: '"An existential threat."'
 image: "/uploads/day-64-biden.jpg"
 todayInOneSentence: Kamala Harris will takeover efforts to address illegal immigration

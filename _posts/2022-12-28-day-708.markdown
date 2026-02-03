@@ -8,6 +8,7 @@ tags:
 - jan-6
 - healthcare
 - oversight
+- covid
 description: '"A cruel, dangerous, and shameful stunt."'
 image: "/uploads/day-708-biden.jpg"
 todayInOneSentence: 'The Supreme Court temporarily blocked the Biden administration’s

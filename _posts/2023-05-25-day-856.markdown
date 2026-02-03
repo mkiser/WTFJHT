@@ -8,6 +8,7 @@ tags:
 - indictment
 - supreme-court
 - climate
+- voting-rights
 description: '"An ongoing threat."'
 image: "/uploads/day-856-biden.jpg"
 todayInOneSentence: 'The leader of the far-right Oath Keepers militia was sentenced

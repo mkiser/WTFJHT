@@ -7,6 +7,8 @@ tags:
 - infrastructure
 - climate
 - national-security
+- covid
+- congress
 description: '"We''re finally getting this done."'
 image: "/uploads/day-300-biden-infrastructure.jpg"
 todayInOneSentence: Biden signed the $1 trillion bipartisan infrastructure plan into

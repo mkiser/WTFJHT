@@ -13,6 +13,12 @@ todayInOneSentence: 'U.S. COVID-19 hospitalizations reached an all-time high of 
   Biden with intelligence reports until the General Services Administration recognizes
   that Biden won the election; and 86% of Trump voters don''t think Biden legitimately
   won the election. '
+tags:
+- covid
+- voting-rights
+- presidential-election
+- national-security
+- nomination
 ---
 
 1/ **U.S. COVID-19 hospitalizations reached an all-time high of 61,964, as new daily cases passed 139,000 for the first time**. The previous record for hospitalizations was 59,780 on April 12. The U.S., meanwhile, recorded more than 1 million new coronavirus cases in the past 10 days and is averaging more than 111,000 new cases a day – a record. More than 1,440 new deaths were also reported, pushing the the seven-day average to more than 1,000 new deaths a day for the first time since August 19. Public health experts, meanwhile, warn that the U.S. is heading for a “dark winter,” a “Covid hell,” and the “darkest days of the pandemic" – aka the next few months of the coronavirus pandemic will be unlike anything the nation has seen yet. ([New York Times](https://www.nytimes.com/live/2020/11/10/world/covid-19-coronavirus-live-updates/us-hospitalizations-reach-a-record-high-as-medical-facilities-are-under-strain) / [CNBC](https://www.cnbc.com/2020/11/11/us-prepares-for-worst-four-months-of-the-pandemic-as-it-stares-down-the-darkest-days-yet.html) / [The Guardian](https://www.theguardian.com/us-news/2020/nov/11/us-covid-cases-deaths-record-texas) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-11-11/this-covid-surge-is-america-s-longest-and-it-s-getting-longer?sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/articles/covid-19-surge-strains-hospitals-once-again-11605100312) / [Washington Post](https://www.washingtonpost.com/health/with-coronavirus-cases-spiking-nationwide-all-signs-point-to-a-harrowing-autumn/2020/11/10/d61fa050-238b-11eb-a688-5298ad5d580a_story.html))

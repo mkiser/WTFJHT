@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - immigration
+- gun-policy
+- congress
+- national-security
 description: 'White lies. '
 image: "/uploads/405.jpg"
 ---

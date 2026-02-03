@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - foreign-policy
 - immigration
+- oversight
+- congress
 description: Go it alone.
 image: "/uploads/539.jpg"
 todayInOneSentence: FBI agent Peter Strzok rejected accusations that he let his personal

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- mueller-investigation
+- immigration
+- voting-rights
+- congress
 description: 'Blameless. '
 image: "/uploads/778.jpg"
 tag_excerpts:

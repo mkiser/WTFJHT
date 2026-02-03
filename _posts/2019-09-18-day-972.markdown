@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - oversight
+- economy
+- national-security
+- media
 description: Dastardly.
 image: "/uploads/972.jpg"
 todayInOneSentence: Secretary of State Mike Pompeo accused Iran of having carried

@@ -7,6 +7,8 @@ tags:
 - healthcare
 - russia
 - lgbtq-rights
+- congress
+- immigration
 description: The most presidential.
 image: "/uploads/188.jpg"
 ---

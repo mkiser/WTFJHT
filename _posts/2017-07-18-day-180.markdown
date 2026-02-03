@@ -7,6 +7,8 @@ tags:
 - healthcare
 - congress
 - voting-rights
+- protests
+- economy
 description: Dead on arrival.
 image: "/uploads/180.jpg"
 ---

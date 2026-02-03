@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - immigration
 - civil-rights
+- national-security
+- protests
 description: 'Must do better. '
 image: "/uploads/218.jpg"
 ---

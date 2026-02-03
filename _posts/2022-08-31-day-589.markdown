@@ -8,6 +8,7 @@ tags:
 - covid
 - housing
 - reproductive-rights
+- national-security
 description: '"Very disturbing."'
 image: "/uploads/day-589-biden.jpg"
 todayInOneSentence: 'The Justice Department obtained the search warrant for Trump’s

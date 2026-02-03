@@ -7,6 +7,8 @@ tags:
 - russia
 - disinformation
 - climate
+- national-security
+- congress
 description: Clear evidence.
 image: "/uploads/385.jpg"
 ---

@@ -6,6 +6,7 @@ tags:
 - government-shutdown
 - congress
 - polling
+- media
 description: '"Moment of truth."'
 image: "/uploads/day1836trump.jpg"
 todayInOneSentence: 'Trump and Senate Democrats said they reached a tentative agreement

@@ -8,6 +8,7 @@ tags:
 - ukraine
 - subpoena
 - jan-6
+- oversight
 description: '"Hysteria."'
 image: "/uploads/day-394-biden.jpg"
 todayInOneSentence: Biden warned that "every indication" is that Putin will carry

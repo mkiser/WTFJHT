@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- national-security
+- trade
+- oversight
 description: We must act.
 image: "/uploads/1055.jpg"
 todayInOneSentence: The House Judiciary Committee introduced two articles of impeachment

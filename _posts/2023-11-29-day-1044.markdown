@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - healthcare
 - jan-6
+- congress
 description: '"Repeated attempts to undermine our democracy are unacceptable."'
 image: "/uploads/day-1044-biden.jpg"
 todayInOneSentence: 'About 90 House Republicans plan to support the vote to expel

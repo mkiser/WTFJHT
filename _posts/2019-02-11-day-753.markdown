@@ -8,6 +8,7 @@ tags:
 - immigration
 - mueller-investigation
 - taxes
+- congress
 description: 'Generally working. '
 image: "/uploads/753.jpg"
 todayInOneSentence: Negotiations to avoid another partial government shutdown fell

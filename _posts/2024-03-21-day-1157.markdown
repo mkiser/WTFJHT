@@ -8,6 +8,7 @@ tags:
 - government-shutdown
 - lawsuit
 - israel-palestine
+- indictment
 description: '"Enough is enough."'
 image: "/uploads/day-1157-biden.jpg"
 todayInOneSentence: 'The Biden administration will cancel nearly $6 billion in federal

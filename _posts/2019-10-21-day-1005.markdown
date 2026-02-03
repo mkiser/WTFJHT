@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- media
+- ukraine
+- national-security
+- congress
 description: '"We prefer peace to war."'
 image: "/uploads/1005.jpg"
 todayInOneSentence: Mick Mulvaney – again – tried to deny his public assertion of

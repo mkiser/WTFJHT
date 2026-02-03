@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- indictment
+- mueller-investigation
+- criminal-justice
 description: An open war on American Democracy.
 image: "/uploads/1062.jpg"
 todayInOneSentence: Mitch McConnell rejected Democrats requests to have four White

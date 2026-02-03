@@ -7,6 +7,8 @@ tags:
 - indictment
 - sanctions
 - presidential-election
+- israel-palestine
+- congress
 description: '"Annoyance."'
 image: "/uploads/day-1185-biden.jpg"
 todayInOneSentence: 'On the third day of Trump’s election interference case involving

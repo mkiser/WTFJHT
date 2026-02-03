@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- oversight
+- congress
+- ukraine
+- subpoena
 description: A campaign of lies.
 image: "/uploads/1022.jpg"
 todayInOneSentence: 'Trump asked Attorney General William Barr to hold a press conference

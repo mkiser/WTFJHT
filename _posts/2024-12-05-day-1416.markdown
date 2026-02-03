@@ -6,6 +6,9 @@ categories:
 tags:
 - doge
 - pardon
+- congress
+- immigration
+- economy
 description: '"Government does almost nothing well."'
 image: "/uploads/day-1416-biden-harris.jpg"
 tag_excerpts:

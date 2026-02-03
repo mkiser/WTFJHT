@@ -8,6 +8,7 @@ tags:
 - covid
 - jan-6
 - taxes
+- healthcare
 description: '"Risky business."'
 image: "/uploads/day-55-risky-business.jpg"
 todayInOneSentence: Biden deployed FEMA to the U.S.-Mexico border to help shelter

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - national-security
+- russia
+- oversight
+- media
 description: Disgrace.
 image: "/uploads/379.jpg"
 ---

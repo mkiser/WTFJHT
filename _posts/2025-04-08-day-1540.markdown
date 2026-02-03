@@ -6,6 +6,7 @@ tags:
 - immigration
 - supreme-court
 - economy
+- national-security
 description: '"Somewhat explosive."'
 image: "/uploads/day-1540-trump.jpg"
 todayInOneSentence: 'China warned it would “fight to the end” and said the U.S. “will

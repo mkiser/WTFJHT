@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- tech-policy
+- media
+- immigration
 description: Entirely prudent.
 image: "/uploads/1047.jpg"
 todayInOneSentence: The White House will not participate in the Judiciary Committee's

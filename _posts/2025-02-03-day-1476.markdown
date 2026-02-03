@@ -6,6 +6,7 @@ tags:
 - national-security
 - tech-policy
 - climate
+- economy
 description: '"Worth the price."'
 image: "/uploads/day-1476-trump.jpg"
 todayInOneSentence: 'Trump signed executive orders imposing tariffs on Canada, Mexico,

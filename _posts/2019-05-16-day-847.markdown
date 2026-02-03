@@ -7,6 +7,8 @@ tags:
 - immigration
 - foreign-policy
 - reproductive-rights
+- mueller-investigation
+- congress
 description: On fire.
 image: "/uploads/847.jpg"
 todayInOneSentence: The U.S. military will build six tent cities near border for migrants;

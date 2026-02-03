@@ -7,6 +7,8 @@ tags:
 - oversight
 - mueller-investigation
 - census
+- supreme-court
+- israel-palestine
 description: Defiant.
 image: "/uploads/824.jpg"
 todayInOneSentence: The White House instructed a former security clearance official

@@ -6,6 +6,7 @@ tags:
 - government-shutdown
 - national-security
 - voting-rights
+- economy
 description: '"More relaxed."'
 image: "/uploads/day1835trump.jpg"
 todayInOneSentence: FBI agents executed a search warrant at Fulton County’s election

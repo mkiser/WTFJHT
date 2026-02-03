@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - climate
 - covid
+- congress
 description: '"Not the case."'
 image: "/uploads/day-121-biden.jpg"
 todayInOneSentence: The House voted to create an independent commission to investigate

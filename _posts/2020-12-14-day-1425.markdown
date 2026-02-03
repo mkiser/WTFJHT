@@ -7,6 +7,8 @@ tags:
 - covid
 - presidential-election
 - resignation
+- national-security
+- nomination
 description: '"Congratulations USA!"'
 image: "/uploads/1425.jpg"
 todayInOneSentence: The Electoral College affirmed Joe Biden as the 46th president

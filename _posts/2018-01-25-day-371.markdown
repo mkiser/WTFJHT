@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - immigration
+- national-security
+- congress
+- russia
 description: Extraordinarily reckless.
 image: "/uploads/371.jpg"
 ---

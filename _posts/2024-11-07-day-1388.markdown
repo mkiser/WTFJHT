@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - doge
+- economy
+- climate
+- immigration
+- voting-rights
 description: '"The agenda."'
 image: "/uploads/day-1388-biden-harris-trump.jpg"
 tag_excerpts:

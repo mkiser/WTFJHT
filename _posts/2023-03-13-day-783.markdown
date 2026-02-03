@@ -8,6 +8,7 @@ tags:
 - economy
 - indictment
 - reproductive-rights
+- climate
 description: '"Substantial concerns."'
 image: "/uploads/day-783-biden.jpg"
 todayInOneSentence: 'The Biden administration approved the Willow oil-drilling project

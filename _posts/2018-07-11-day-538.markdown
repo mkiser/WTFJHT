@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - tariffs
 - immigration
+- congress
+- russia
 description: Tremendous relationships.
 image: "/uploads/538.jpg"
 todayInOneSentence: Trump accused Germany of being "totally controlled" and "a captive

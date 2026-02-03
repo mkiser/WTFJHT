@@ -8,6 +8,7 @@ tags:
 - indictment
 - congress
 - presidential-election
+- impeachment
 description: '"All in."'
 image: "/uploads/day-1029-biden.jpg"
 todayInOneSentence: The House passed a short-term funding bill to keep the government

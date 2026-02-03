@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - foreign-policy
 - reproductive-rights
+- congress
+- national-security
 description: Full and complete authority.
 image: "/uploads/855.jpg"
 todayInOneSentence: 'Trump gave William Barr "full and complete authority" unilaterally

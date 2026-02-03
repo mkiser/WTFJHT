@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - doge
+- congress
+- economy
+- nomination
+- voting-rights
 description: '"Drastic change."'
 image: "/uploads/day-1394-biden-harris-trump.jpg"
 tag_excerpts:

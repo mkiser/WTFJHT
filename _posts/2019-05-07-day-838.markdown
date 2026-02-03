@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- congress
+- national-security
+- criminal-justice
 description: Privilege.
 image: "/uploads/838.jpg"
 todayInOneSentence: The White House invoked executive privilege and ordered Donald

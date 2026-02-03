@@ -2,10 +2,11 @@
 title: Day 1751
 date: 2025-11-05 15:33:00 -08:00
 tags:
-- elections
+- presidential-election
 - voting-rights
 - congress
 - polling
+- supreme-court
 description: '"Good luck, losers."'
 image: "/uploads/day1751trump.jpg"
 todayInOneSentence: Democrats won elections across several states Tuesday, taking

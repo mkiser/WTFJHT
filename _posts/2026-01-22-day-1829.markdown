@@ -5,6 +5,8 @@ tags:
 - immigration
 - national-security
 - lawsuit
+- congress
+- polling
 description: '"Exploit the violence."'
 image: "/uploads/day1829trump.jpg"
 todayInOneSentence: 'An internal ICE memo signed by acting director Todd Lyons authorized

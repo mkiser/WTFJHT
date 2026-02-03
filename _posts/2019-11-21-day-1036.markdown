@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- national-security
+- ukraine
+- oversight
 description: 'Weaponized falsehoods. '
 image: "/uploads/1036.jpg"
 todayInOneSentence: The former White House adviser on Russia accused Republican lawmakers

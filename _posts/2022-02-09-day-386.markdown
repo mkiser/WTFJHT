@@ -7,6 +7,8 @@ tags:
 - covid
 - jan-6
 - russia
+- congress
+- voting-rights
 description: '"A new phase."'
 image: "/uploads/day-386-biden.jpg"
 todayInOneSentence: New York, Massachusetts, and Illinois will ease mask requirements

@@ -7,6 +7,8 @@ tags:
 - indictment
 - classified-documents
 - national-security
+- judiciary
+- oversight
 description: '"Nothing more, nothing less."'
 image: "/uploads/day-871-biden-trump-indictment.jpg"
 todayInOneSentence: The Justice Department charged Trump with 37 felony counts over

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- congress
+- russia
+- nomination
 description: The only one that matters.
 image: "/uploads/288.jpg"
 ---

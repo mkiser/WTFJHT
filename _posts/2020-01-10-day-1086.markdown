@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- foreign-policy
+- congress
+- national-security
+- economy
 description: Destabilizing activities.
 image: "/uploads/1086.jpg"
 todayInOneSentence: Nancy Pelosi will transmit articles of impeachment against Trump

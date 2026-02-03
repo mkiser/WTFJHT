@@ -7,6 +7,8 @@ tags:
 - lgbtq-rights
 - labor
 - jan-6
+- congress
+- indictment
 description: '"Today is a very good day."'
 image: "/uploads/day-679-biden.jpg"
 todayInOneSentence: 'The Senate passed the Respect for Marriage Act to codify federal

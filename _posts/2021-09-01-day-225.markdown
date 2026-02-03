@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - jan-6
 - covid
+- congress
 description: '"Catastrophic."'
 image: "/uploads/day-225-biden.jpg"
 todayInOneSentence: Texas enacted the nation’s the most restrictive abortion ban;

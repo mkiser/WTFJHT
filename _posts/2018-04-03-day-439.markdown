@@ -8,6 +8,7 @@ tags:
 - energy
 - immigration
 - national-security
+- voting-rights
 description: We've got your back.
 image: "/uploads/439.jpg"
 ---

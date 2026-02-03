@@ -7,6 +7,8 @@ tags:
 - jan-6
 - indictment
 - presidential-election
+- voting-rights
+- classified-documents
 description: '"A very sad day for America."'
 image: "/uploads/day-926-biden-trump-indictment.jpg"
 todayInOneSentence: 'Trump pleaded not guilty to charges that he conspired to overturn

@@ -6,7 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - russia
-- elections
+- presidential-election
+- congress
+- media
 description: '"Never even heard about it."'
 image: "/uploads/554.jpg"
 todayInOneSentence: Michael Cohen says Trump knew in advance about Trump Jr.'s meeting

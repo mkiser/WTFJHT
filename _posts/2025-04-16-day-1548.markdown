@@ -6,6 +6,7 @@ tags:
 - immigration
 - tariffs
 - media
+- voting-rights
 description: '"Do your job."'
 image: "/uploads/day-1548-trump.jpg"
 todayInOneSentence: 'A federal judge said he found “probable cause” to hold the Trump

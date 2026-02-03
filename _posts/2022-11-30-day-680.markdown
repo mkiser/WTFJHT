@@ -8,6 +8,7 @@ tags:
 - labor
 - economy
 - climate
+- infrastructure
 description: '"Until the job is done."'
 image: "/uploads/day-680-biden.jpg"
 todayInOneSentence: House Democrats elected Hakeem Jeffries to lead their caucus;

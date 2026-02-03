@@ -8,6 +8,7 @@ tags:
 - oversight
 - ethics
 - jan-6
+- taxes
 description: '"Asleep at the wheel."'
 image: "/uploads/day-701-biden.jpg"
 todayInOneSentence: The Biden administration announced a new $1.85 billion military

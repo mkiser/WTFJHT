@@ -6,6 +6,7 @@ tags:
 - healthcare
 - labor
 - congress
+- voting-rights
 description: '"Did nothing but complain."'
 image: "/uploads/day1756-trump.jpg"
 todayInOneSentence: 'The Senate voted to advance a bipartisan bill to end the nation’s

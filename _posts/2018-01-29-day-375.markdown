@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - sanctions
+- immigration
+- congress
+- russia
 description: Stepping aside.
 image: "/uploads/375.jpg"
 ---

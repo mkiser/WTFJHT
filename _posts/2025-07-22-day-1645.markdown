@@ -6,6 +6,7 @@ tags:
 - oversight
 - corruption
 - executive-order
+- congress
 description: '"The constant nonsense and misinformation flowing out of this White
   House."'
 image: "/uploads/day-1645-trump.jpg"

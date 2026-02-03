@@ -8,6 +8,7 @@ tags:
 - indictment
 - impeachment
 - presidential-election
+- congress
 description: '"A prompt and efficient resolution."'
 image: "/uploads/day-951-biden.png"
 todayInOneSentence: Trump’s trial on federal charges that he conspired to overturn

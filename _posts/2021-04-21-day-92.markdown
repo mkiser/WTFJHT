@@ -8,6 +8,7 @@ tags:
 - protests
 - covid
 - national-security
+- criminal-justice
 description: '"An American achievement."'
 image: "/uploads/day-92-biden.jpg"
 todayInOneSentence: The Justice Department will investigate whether the Minneapolis

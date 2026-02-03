@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - classified-documents
 - national-security
+- supreme-court
+- congress
 description: '"Blindsided."'
 image: "/uploads/day-870-biden.jpg"
 todayInOneSentence: 'The Supreme Court rejected the Republican-drawn congressional

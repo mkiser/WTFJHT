@@ -8,6 +8,7 @@ tags:
 - jan-6
 - education
 - economy
+- covid
 description: '"Sufficient basis."'
 image: "/uploads/day-590-biden.jpg"
 todayInOneSentence: The wife of Supreme Court Justice Clarence Thomas pressed lawmakers

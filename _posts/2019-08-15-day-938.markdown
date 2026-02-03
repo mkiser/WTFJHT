@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- protests
+- israel-palestine
+- mueller-investigation
+- congress
 description: Fantastic.
 image: "/uploads/938.jpg"
 todayInOneSentence: The House Judiciary Committee subpoenaed Corey Lewandowski; Trump

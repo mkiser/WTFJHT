@@ -7,6 +7,8 @@ tags:
 - reproductive-rights
 - covid
 - economy
+- congress
+- supreme-court
 description: '"Almost un-American."'
 image: "/uploads/day-227.jpg"
 todayInOneSentence: Joe Manchin demanded that Democrats "pause" on advancing Biden’s

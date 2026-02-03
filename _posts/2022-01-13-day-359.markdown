@@ -7,6 +7,8 @@ tags:
 - climate
 - voting-rights
 - supreme-court
+- covid
+- congress
 description: '"Doomed to fail."'
 image: "/uploads/day-359-biden.jpg"
 todayInOneSentence: The global average surface temperature in 2021 was the sixth-highest

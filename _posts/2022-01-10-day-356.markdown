@@ -8,6 +8,7 @@ tags:
 - jan-6
 - climate
 - lawsuit
+- congress
 description: '"By a clear margin."'
 image: "/uploads/day-356-biden.jpg"
 todayInOneSentence: More than 5,400 K-12 schools stopped in-person instruction at

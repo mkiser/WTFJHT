@@ -7,6 +7,8 @@ tags:
 - immigration
 - census
 - healthcare
+- mueller-investigation
+- tech-policy
 description: Collateral damage.
 image: "/uploads/903.jpg"
 todayInOneSentence: The Trump administration is scheduled to begin coordinated raids

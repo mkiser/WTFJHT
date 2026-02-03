@@ -6,6 +6,7 @@ tags:
 - tariffs
 - ethics
 - congress
+- economy
 description: '"We call this corruption."'
 image: "/uploads/day1577trump.jpg"
 todayInOneSentence: 'Trump’s tax bill would add at least $2.5 trillion to the deficit;

@@ -6,6 +6,7 @@ tags:
 - reproductive-rights
 - lgbtq-rights
 - israel-palestine
+- national-security
 description: '"Never say never."'
 image: "/uploads/day1568-trump.jpg"
 todayInOneSentence: Canadian Prime Minister Mark Carney told Trump that Canada “won’t

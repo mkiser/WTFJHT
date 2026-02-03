@@ -6,6 +6,7 @@ tags:
 - healthcare
 - voting-rights
 - immigration
+- economy
 description: '"To shake down the American people."'
 image: "/uploads/day1739trump.jpg"
 todayInOneSentence: The Senate rejected two bills to pay federal workers during the

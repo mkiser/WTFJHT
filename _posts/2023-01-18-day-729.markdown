@@ -14,6 +14,12 @@ todayInOneSentence: 'George Santos reportedly scammed a disabled veteran out of 
   Legislature to permanently ban Covid-19 health measures; Trump’s 2024 presidential
   campaign asked Facebook to reinstate his account; and parts of Greenland are now
   hotter than at any time in the past 1,000 years. '
+tags:
+- covid
+- education
+- immigration
+- climate
+- voting-rights
 ---
 
 1/ **George Santos reportedly scammed a disabled veteran out of $3,000 by using a fake animal charity to raise money for the veteran's service dog's cancer treatment**. In May 2016, a veterinary technician connected U.S. Navy veteran Richard Osthoff with someone named Anthony Devolder, who ran a pet charity called "Friends of Pets United," to set up a GoFundMe for his service dog Sapphire. Anthony Devolder, however, is an alias that Santos used for years before entering politics in 2020. After raising $3,000 for Sapphire's lifesaving surgery, Osthoff says “Devolder” made excuses and became uncooperative before disappearing with the funds. Sapphire died Jan. 15, 2017. When asked for a comment, Santos replied: “Fake. No clue who this is.” ([Patch.com](https://patch.com/new-york/oysterbay/disabled-veteran-george-santos-took-3k-dying-dogs-gofundme) / [Semafor](https://www.semafor.com/article/01/17/2023/george-santos-denies-swindling-a-disabled-veteran-while-their-dog-died-of-cancer) / [CNN](https://www.cnn.com/2023/01/18/politics/george-santos-veteran-dog-gofundme/index.html))

@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - voting-rights
 - economy
+- congress
+- polling
 description: '"Disappointed."'
 image: "/uploads/day-1339-biden-harris.jpg"
 todayInOneSentence: House Republicans rejected their own funding bill after Trump

@@ -1,0 +1,1400 @@
+# _data/tag_synonyms.yml
+#
+# Synonym mappings for WTFJHT tags.
+# Maps canonical tags to terms/concepts that should trigger that tag when tagging posts.
+# Used by Claude and editors to ensure consistent, comprehensive tagging.
+#
+# Last updated: 2026-02-03
+# See docs/tag-taxonomy-audit.md for audit methodology
+#
+# Usage: When tagging a post, if content contains any synonym term,
+# consider applying the canonical tag.
+
+# =============================================================================
+# POLICY
+# =============================================================================
+
+immigration:
+  - deportation
+  - deport
+  - ICE
+  - Immigration and Customs Enforcement
+  - border patrol
+  - CBP
+  - Customs and Border Protection
+  - asylum
+  - asylum seekers
+  - refugee
+  - refugees
+  - DACA
+  - dreamer
+  - dreamers
+  - travel ban
+  - muslim ban
+  - family separation
+  - zero tolerance
+  - sanctuary city
+  - sanctuary cities
+  - green card
+  - visa
+  - visas
+  - H-1B
+  - border wall
+  - border fence
+  - migrant
+  - migrants
+  - migration
+  - undocumented
+  - illegal immigrant
+  - illegal immigration
+  - Title 42
+  - remain in Mexico
+  - MPP
+  - detention center
+  - immigration detention
+  - birthright citizenship
+  - chain migration
+  - family reunification
+  - naturalization
+  - citizenship
+
+healthcare:
+  - ACA
+  - Affordable Care Act
+  - Obamacare
+  - Medicare
+  - Medicaid
+  - health insurance
+  - pre-existing condition
+  - pre-existing conditions
+  - prescription drug
+  - drug prices
+  - insulin
+  - pharmaceutical
+  - pharma
+  - single payer
+  - Medicare for All
+  - public option
+  - health coverage
+  - uninsured
+  - HHS
+  - Health and Human Services
+  - CDC
+  - NIH
+  - FDA
+  - mental health
+  - Planned Parenthood
+  - birth control
+  - contraception
+
+reproductive-rights:
+  - abortion
+  - Roe v Wade
+  - Roe v. Wade
+  - Dobbs
+  - pro-choice
+  - pro-life
+  - fetal
+  - pregnancy
+  - pregnant
+  - trimester
+  - abortion ban
+  - abortion pill
+  - mifepristone
+  - reproductive health
+  - reproductive freedom
+  - family planning
+  - conception
+  - heartbeat bill
+  - six-week ban
+  - late-term abortion
+
+lgbtq-rights:
+  - LGBT
+  - LGBTQ
+  - LGBTQ+
+  - gay
+  - lesbian
+  - bisexual
+  - transgender
+  - trans
+  - trans rights
+  - trans people
+  - transsexual
+  - nonbinary
+  - non-binary
+  - queer
+  - same-sex
+  - same-sex marriage
+  - gay marriage
+  - marriage equality
+  - civil union
+  - don't ask don't tell
+  - DADT
+  - conversion therapy
+  - gender identity
+  - gender affirming
+  - gender-affirming care
+  - drag
+  - drag ban
+  - drag queen
+  - Pride
+  - sexual orientation
+  - GLAAD
+  - HRC
+  - Human Rights Campaign
+  - bathroom bill
+  - Title IX transgender
+
+climate:
+  - climate change
+  - global warming
+  - greenhouse gas
+  - emissions
+  - carbon
+  - carbon dioxide
+  - CO2
+  - Paris Agreement
+  - Paris climate
+  - EPA
+  - Environmental Protection Agency
+  - fossil fuel
+  - fossil fuels
+  - coal
+  - oil drilling
+  - offshore drilling
+  - fracking
+  - pipeline
+  - Keystone
+  - Dakota Access
+  - renewable energy
+  - solar
+  - wind power
+  - clean energy
+  - green new deal
+  - electric vehicle
+  - EV
+  - methane
+  - pollution
+  - air quality
+  - water quality
+  - endangered species
+  - deforestation
+  - wildfire
+  - hurricane
+  - flood
+  - drought
+  - sea level
+
+economy:
+  - economic
+  - GDP
+  - recession
+  - inflation
+  - unemployment
+  - jobs report
+  - job growth
+  - stock market
+  - Dow Jones
+  - S&P 500
+  - NASDAQ
+  - Wall Street
+  - Federal Reserve
+  - Fed
+  - interest rate
+  - interest rates
+  - stimulus
+  - bailout
+  - deficit
+  - national debt
+  - debt ceiling
+  - budget
+  - spending
+  - fiscal
+  - consumer
+  - retail
+  - manufacturing
+  - supply chain
+  - small business
+  - minimum wage
+  - wage
+  - wages
+  - income
+  - poverty
+  - inequality
+  - wealth gap
+
+taxes:
+  - tax
+  - taxation
+  - tax cut
+  - tax cuts
+  - tax reform
+  - tax return
+  - tax returns
+  - IRS
+  - Internal Revenue Service
+  - income tax
+  - corporate tax
+  - capital gains
+  - estate tax
+  - death tax
+  - tax bracket
+  - tax loophole
+  - tax evasion
+  - tax fraud
+  - audit
+  - deduction
+  - tax deduction
+  - tax credit
+  - child tax credit
+
+voting-rights:
+  - voting
+  - voter
+  - voters
+  - vote
+  - ballot
+  - ballots
+  - election integrity
+  - voter fraud
+  - voter suppression
+  - voter ID
+  - voter registration
+  - gerrymandering
+  - redistricting
+  - electoral
+  - Electoral College
+  - mail-in voting
+  - absentee ballot
+  - early voting
+  - polling place
+  - poll worker
+  - election official
+  - Voting Rights Act
+  - voter roll
+  - voter purge
+  - disenfranchise
+  - franchise
+
+civil-rights:
+  - civil liberties
+  - discrimination
+  - segregation
+  - equality
+  - equal rights
+  - racial justice
+  - racial equality
+  - racism
+  - racist
+  - hate crime
+  - hate crimes
+  - police brutality
+  - police shooting
+  - George Floyd
+  - Black Lives Matter
+  - BLM
+  - affirmative action
+  - diversity
+  - DEI
+  - NAACP
+  - ACLU
+  - civil rights act
+  - desegregation
+  - Jim Crow
+  - reparations
+  - systemic racism
+
+gun-policy:
+  - gun
+  - guns
+  - firearm
+  - firearms
+  - Second Amendment
+  - 2nd Amendment
+  - NRA
+  - gun control
+  - gun violence
+  - gun safety
+  - mass shooting
+  - school shooting
+  - assault weapon
+  - assault rifle
+  - AR-15
+  - bump stock
+  - background check
+  - gun show loophole
+  - red flag law
+  - concealed carry
+  - open carry
+  - ammunition
+  - ammo
+  - magazine capacity
+  - gun rights
+  - gun lobby
+
+foreign-policy:
+  - foreign affairs
+  - diplomacy
+  - diplomatic
+  - ambassador
+  - embassy
+  - State Department
+  - international relations
+  - NATO
+  - United Nations
+  - UN
+  - G7
+  - G20
+  - treaty
+  - alliance
+  - summit
+  - bilateral
+  - multilateral
+  - foreign aid
+  - humanitarian aid
+  - intervention
+  - troops
+  - military deployment
+  - peace talks
+  - nuclear deal
+  - arms deal
+  - weapons sale
+
+national-security:
+  - security
+  - intelligence
+  - CIA
+  - NSA
+  - FBI
+  - DHS
+  - Department of Homeland Security
+  - counterterrorism
+  - terrorism
+  - terrorist
+  - national defense
+  - Pentagon
+  - Defense Department
+  - DOD
+  - military
+  - armed forces
+  - classified
+  - classified information
+  - top secret
+  - security clearance
+  - espionage
+  - spy
+  - spying
+  - surveillance
+  - wiretap
+  - FISA
+  - cybersecurity
+  - cyber attack
+  - hacking
+  - election interference
+
+education:
+  - school
+  - schools
+  - public school
+  - private school
+  - charter school
+  - teacher
+  - teachers
+  - student
+  - students
+  - college
+  - university
+  - higher education
+  - student loan
+  - student debt
+  - tuition
+  - Department of Education
+  - DeVos
+  - school choice
+  - voucher
+  - curriculum
+  - critical race theory
+  - CRT
+  - book ban
+  - library
+  - Title IX
+  - campus
+  - graduation
+
+labor:
+  - worker
+  - workers
+  - union
+  - unions
+  - labor union
+  - strike
+  - collective bargaining
+  - NLRB
+  - National Labor Relations Board
+  - AFL-CIO
+  - Teamsters
+  - UAW
+  - minimum wage
+  - overtime
+  - workplace
+  - workplace safety
+  - OSHA
+  - gig economy
+  - gig worker
+  - contractor
+  - independent contractor
+  - employment
+  - layoff
+  - layoffs
+  - furlough
+
+trade:
+  - tariff
+  - tariffs
+  - trade war
+  - trade deal
+  - trade agreement
+  - NAFTA
+  - USMCA
+  - TPP
+  - Trans-Pacific Partnership
+  - import
+  - export
+  - trade deficit
+  - trade surplus
+  - WTO
+  - World Trade Organization
+  - free trade
+  - protectionism
+  - dumping
+  - trade representative
+  - USTR
+
+tech-policy:
+  - technology
+  - tech
+  - Silicon Valley
+  - Big Tech
+  - Facebook
+  - Meta
+  - Google
+  - Apple
+  - Amazon
+  - Microsoft
+  - Twitter
+  - X
+  - TikTok
+  - social media
+  - antitrust
+  - monopoly
+  - data privacy
+  - privacy
+  - Section 230
+  - algorithm
+  - artificial intelligence
+  - AI
+  - net neutrality
+  - broadband
+  - internet
+  - encryption
+  - content moderation
+
+infrastructure:
+  - infrastructure bill
+  - roads
+  - bridges
+  - highways
+  - transit
+  - public transit
+  - rail
+  - railroad
+  - Amtrak
+  - airport
+  - ports
+  - broadband
+  - water system
+  - sewer
+  - electric grid
+  - power grid
+  - construction
+  - public works
+  - transportation
+
+energy:
+  - oil
+  - natural gas
+  - petroleum
+  - gasoline
+  - gas prices
+  - OPEC
+  - drilling
+  - refinery
+  - nuclear power
+  - nuclear energy
+  - solar power
+  - wind energy
+  - hydroelectric
+  - energy independence
+  - strategic petroleum reserve
+  - SPR
+  - utility
+  - utilities
+  - power plant
+  - blackout
+  - brownout
+
+housing:
+  - housing market
+  - home prices
+  - mortgage
+  - rent
+  - rental
+  - eviction
+  - eviction moratorium
+  - affordable housing
+  - public housing
+  - Section 8
+  - HUD
+  - homelessness
+  - homeless
+  - foreclosure
+  - housing crisis
+  - zoning
+  - real estate
+
+criminal-justice:
+  - prison
+  - jail
+  - incarceration
+  - inmate
+  - prisoner
+  - sentencing
+  - mandatory minimum
+  - death penalty
+  - capital punishment
+  - execution
+  - parole
+  - probation
+  - criminal justice reform
+  - police
+  - policing
+  - law enforcement
+  - prosecutor
+  - district attorney
+  - public defender
+  - bail
+  - bail reform
+  - recidivism
+  - rehabilitation
+  - solitary confinement
+
+social-security:
+  - Social Security
+  - SSA
+  - retirement
+  - pension
+  - COLA
+  - cost of living adjustment
+  - retirement age
+  - Social Security trust fund
+  - disability
+  - SSDI
+  - SSI
+  - supplemental security income
+
+veterans:
+  - veteran
+  - veterans
+  - VA
+  - Veterans Affairs
+  - military veteran
+  - service member
+  - GI Bill
+  - veteran healthcare
+  - veteran benefits
+  - wounded warrior
+  - PTSD
+  - veteran suicide
+  - veteran housing
+  - veteran employment
+
+opioids:
+  - opioid
+  - opioid crisis
+  - opioid epidemic
+  - fentanyl
+  - heroin
+  - overdose
+  - OxyContin
+  - Purdue Pharma
+  - Sackler
+  - drug addiction
+  - addiction
+  - naloxone
+  - Narcan
+  - drug overdose
+  - pain medication
+  - prescription opioid
+
+# =============================================================================
+# LEGAL
+# =============================================================================
+
+supreme-court:
+  - Supreme Court
+  - SCOTUS
+  - Chief Justice
+  - Justice
+  - Supreme Court Justice
+  - court ruling
+  - court decision
+  - constitutional
+  - unconstitutional
+  - judicial review
+  - Roberts
+  - Alito
+  - Thomas
+  - Sotomayor
+  - Kagan
+  - Gorsuch
+  - Kavanaugh
+  - Barrett
+  - Jackson
+  - oral argument
+  - court term
+
+judiciary:
+  - judge
+  - judges
+  - federal judge
+  - federal court
+  - appeals court
+  - circuit court
+  - district court
+  - judicial
+  - judicial nominee
+  - judicial nomination
+  - bench
+  - court appointment
+  - lifetime appointment
+  - Federalist Society
+
+indictment:
+  - indicted
+  - indict
+  - criminal charges
+  - charged
+  - arraignment
+  - arraigned
+  - grand jury
+  - criminal case
+  - prosecution
+  - prosecuted
+  - prosecutor
+  - defendant
+  - felony
+  - misdemeanor
+  - plea
+  - plea deal
+  - guilty plea
+  - trial
+  - verdict
+  - conviction
+  - convicted
+  - acquittal
+  - acquitted
+  - sentencing
+  - prison sentence
+
+lawsuit:
+  - sued
+  - suing
+  - lawsuit
+  - legal action
+  - civil suit
+  - plaintiff
+  - defendant
+  - settlement
+  - damages
+  - class action
+  - litigation
+  - litigate
+  - court filing
+  - legal challenge
+  - injunction
+  - restraining order
+
+pardon:
+  - pardoned
+  - pardoning
+  - clemency
+  - commute
+  - commutation
+  - sentence commuted
+  - presidential pardon
+  - full pardon
+  - blanket pardon
+  - self-pardon
+
+subpoena:
+  - subpoenaed
+  - subpoenaing
+  - congressional subpoena
+  - testimony
+  - testify
+  - testifying
+  - deposition
+  - sworn testimony
+  - under oath
+  - contempt of Congress
+  - contempt of court
+  - compel testimony
+
+ethics:
+  - ethics violation
+  - conflict of interest
+  - emoluments
+  - emoluments clause
+  - nepotism
+  - self-dealing
+  - disclosure
+  - financial disclosure
+  - ethics complaint
+  - Office of Government Ethics
+  - OGE
+  - gift
+  - bribery
+  - kickback
+  - quid pro quo
+  - pay to play
+
+# =============================================================================
+# GOVERNMENT
+# =============================================================================
+
+executive-order:
+  - executive action
+  - presidential order
+  - presidential directive
+  - presidential memorandum
+  - EO
+  - executive authority
+  - executive power
+  - unilateral action
+
+congress:
+  - congressional
+  - House of Representatives
+  - House
+  - Senate
+  - Senator
+  - Senators
+  - Representative
+  - Congressman
+  - Congresswoman
+  - legislator
+  - legislation
+  - bill
+  - resolution
+  - filibuster
+  - cloture
+  - veto
+  - override
+  - Speaker
+  - Speaker of the House
+  - Majority Leader
+  - Minority Leader
+  - Whip
+  - committee
+  - subcommittee
+  - hearing
+  - markup
+  - floor vote
+  - roll call
+  - bipartisan
+  - partisan
+
+nomination:
+  - nominee
+  - nominate
+  - nominated
+  - appointment
+  - appointed
+  - appointee
+  - confirmation
+  - confirmed
+  - Senate confirmation
+  - confirmation vote
+  - recess appointment
+  - acting
+
+cabinet:
+  - cabinet member
+  - cabinet secretary
+  - Secretary of State
+  - Attorney General
+  - Secretary of Defense
+  - Treasury Secretary
+  - cabinet official
+  - administration official
+  - White House staff
+  - chief of staff
+  - national security advisor
+  - press secretary
+
+resignation:
+  - resigned
+  - resigning
+  - stepping down
+  - step down
+  - departure
+  - ousted
+  - fired
+  - firing
+  - termination
+  - removal
+  - removed from office
+
+oversight:
+  - congressional oversight
+  - investigation
+  - inquiry
+  - probe
+  - investigating
+  - investigative
+  - hearing
+  - oversight hearing
+  - oversight committee
+  - accountability
+  - whistleblower
+  - inspector general
+  - IG
+  - GAO
+  - Government Accountability Office
+  - audit
+  - document request
+  - records request
+
+sanctions:
+  - sanctioned
+  - economic sanctions
+  - trade sanctions
+  - embargo
+  - asset freeze
+  - travel ban
+  - OFAC
+  - Treasury sanctions
+  - sanctions relief
+  - sanctions waiver
+  - Magnitsky
+
+tariffs:
+  - tariff
+  - import tax
+  - import duty
+  - customs duty
+  - trade barrier
+  - retaliatory tariff
+  - steel tariff
+  - aluminum tariff
+  - China tariff
+
+# =============================================================================
+# ELECTIONS
+# =============================================================================
+
+presidential-election:
+  - presidential race
+  - presidential campaign
+  - presidential candidate
+  - White House race
+  - general election
+  - Electoral College
+  - electoral vote
+  - swing state
+  - battleground state
+  - red state
+  - blue state
+  - election night
+  - election results
+  - transition
+  - president-elect
+  - inauguration
+
+midterm-election:
+  - midterm
+  - midterms
+  - congressional election
+  - House race
+  - Senate race
+  - gubernatorial
+  - governor race
+  - state legislature
+  - down-ballot
+  - wave election
+  - blue wave
+  - red wave
+
+primary:
+  - primary election
+  - caucus
+  - delegate
+  - delegates
+  - superdelegate
+  - nominating contest
+  - nomination race
+  - Iowa caucus
+  - New Hampshire primary
+  - Super Tuesday
+  - front-runner
+  - dark horse
+  - dropout
+  - suspended campaign
+  - endorsement
+
+special-election:
+  - special election
+  - by-election
+  - vacancy
+  - fill vacancy
+  - runoff
+  - runoff election
+  - recall
+  - recall election
+
+debate:
+  - presidential debate
+  - debate stage
+  - debate night
+  - debate performance
+  - debate moderator
+  - town hall
+  - candidate forum
+
+# =============================================================================
+# RECURRING EVENTS
+# =============================================================================
+
+government-shutdown:
+  - shutdown
+  - government closure
+  - furlough
+  - furloughed
+  - continuing resolution
+  - CR
+  - appropriations
+  - spending bill
+  - budget standoff
+  - budget impasse
+  - essential employees
+  - non-essential
+
+state-of-the-union:
+  - State of the Union
+  - SOTU
+  - address to Congress
+  - joint session
+  - joint address
+  - annual address
+  - response to State of the Union
+
+confirmation-hearing:
+  - confirmation hearing
+  - Senate hearing
+  - Senate testimony
+  - nominee testimony
+  - vetting
+  - background check
+  - FBI background check
+  - advise and consent
+
+debt-ceiling:
+  - debt limit
+  - borrowing limit
+  - default
+  - Treasury default
+  - debt crisis
+  - fiscal cliff
+  - extraordinary measures
+  - X-date
+
+# =============================================================================
+# MAJOR INVESTIGATIONS
+# =============================================================================
+
+mueller-investigation:
+  - Mueller
+  - Robert Mueller
+  - special counsel
+  - Russia investigation
+  - Russia probe
+  - Russian interference
+  - Russian collusion
+  - collusion
+  - obstruction of justice
+  - obstruction
+  - Flynn
+  - Michael Flynn
+  - Manafort
+  - Paul Manafort
+  - Roger Stone
+  - Papadopoulos
+  - Rick Gates
+  - Cohen
+  - Michael Cohen
+  - Comey
+  - James Comey
+  - Comey firing
+  - Rosenstein
+  - Rod Rosenstein
+  - Barr
+  - William Barr
+  - Mueller report
+  - redacted
+  - unredacted
+
+impeachment:
+  - impeach
+  - impeached
+  - impeachment inquiry
+  - impeachment trial
+  - impeachment vote
+  - articles of impeachment
+  - high crimes
+  - misdemeanors
+  - abuse of power
+  - Ukraine
+  - Zelensky
+  - phone call
+  - quid pro quo
+  - whistleblower
+  - whistleblower complaint
+  - Adam Schiff
+  - House managers
+  - Senate trial
+  - acquittal
+  - removal from office
+
+jan-6:
+  - January 6
+  - January 6th
+  - Capitol riot
+  - Capitol attack
+  - Capitol insurrection
+  - insurrection
+  - Capitol breach
+  - Stop the Steal
+  - election denial
+  - election denier
+  - Big Lie
+  - Proud Boys
+  - Oath Keepers
+  - QAnon
+  - seditious conspiracy
+  - J6
+  - January 6 committee
+  - Select Committee
+  - Liz Cheney
+  - Capitol Police
+  - rioter
+  - rioters
+  - Pence
+  - hang Mike Pence
+  - electoral count
+  - certification
+  - fake electors
+  - alternate electors
+  - Eastman memo
+  - coup
+
+classified-documents:
+  - classified documents
+  - classified materials
+  - classified records
+  - Mar-a-Lago
+  - Mar-a-Lago raid
+  - Mar-a-Lago search
+  - boxes
+  - document retention
+  - Presidential Records Act
+  - NARA
+  - National Archives
+  - Jack Smith
+  - special counsel
+  - obstruction
+  - espionage
+  - Espionage Act
+  - top secret
+  - SCI
+  - secure facility
+  - SCIF
+
+# =============================================================================
+# REGIONS
+# =============================================================================
+
+russia:
+  - Russia
+  - Russian
+  - Moscow
+  - Kremlin
+  - Putin
+  - Vladimir Putin
+  - Soviet
+  - USSR
+  - oligarch
+  - oligarchs
+  - Russian government
+  - Russian military
+  - Russian intelligence
+  - FSB
+  - GRU
+  - Navalny
+  - Lavrov
+  - Medvedev
+  - troll farm
+  - Internet Research Agency
+
+china:
+  - China
+  - Chinese
+  - Beijing
+  - CCP
+  - Chinese Communist Party
+  - Xi Jinping
+  - Xi
+  - Taiwan
+  - Hong Kong
+  - Uyghur
+  - Xinjiang
+  - South China Sea
+  - Huawei
+  - TikTok
+  - spy balloon
+  - Chinese military
+  - PLA
+
+ukraine:
+  - Ukraine
+  - Ukrainian
+  - Kyiv
+  - Kiev
+  - Zelensky
+  - Volodymyr Zelensky
+  - Crimea
+  - Donbas
+  - Russian invasion
+  - Ukraine war
+  - Ukraine invasion
+  - military aid
+  - weapons
+  - HIMARS
+  - Javelin
+  - aid package
+  - Bucha
+  - Mariupol
+  - Kherson
+  - Bakhmut
+  - counteroffensive
+
+israel-palestine:
+  - Israel
+  - Israeli
+  - Palestine
+  - Palestinian
+  - Gaza
+  - Gaza Strip
+  - West Bank
+  - Jerusalem
+  - Tel Aviv
+  - Hamas
+  - Hezbollah
+  - Netanyahu
+  - Benjamin Netanyahu
+  - IDF
+  - Israeli military
+  - two-state solution
+  - peace process
+  - Middle East
+  - ceasefire
+  - October 7
+  - hostage
+  - hostages
+  - humanitarian aid
+  - Rafah
+  - settler
+  - settlement
+  - occupation
+
+# =============================================================================
+# OTHER
+# =============================================================================
+
+covid:
+  - COVID
+  - COVID-19
+  - coronavirus
+  - pandemic
+  - virus
+  - SARS-CoV-2
+  - vaccine
+  - vaccination
+  - vaccinated
+  - Pfizer
+  - Moderna
+  - Johnson & Johnson
+  - J&J
+  - booster
+  - booster shot
+  - mask
+  - mask mandate
+  - social distancing
+  - lockdown
+  - quarantine
+  - Fauci
+  - Anthony Fauci
+  - CDC
+  - WHO
+  - World Health Organization
+  - variant
+  - Delta
+  - Omicron
+  - hospitalization
+  - ventilator
+  - ICU
+  - death toll
+  - case count
+  - positivity rate
+  - testing
+  - contact tracing
+  - herd immunity
+  - long COVID
+  - Wuhan
+  - lab leak
+  - origin
+  - Operation Warp Speed
+  - EUA
+  - emergency use authorization
+
+corruption:
+  - corrupt
+  - graft
+  - bribery
+  - bribe
+  - kickback
+  - embezzlement
+  - fraud
+  - money laundering
+  - self-dealing
+  - pay-to-play
+  - influence peddling
+  - public corruption
+  - abuse of office
+  - malfeasance
+  - misappropriation
+  - slush fund
+
+polling:
+  - poll
+  - polls
+  - survey
+  - approval rating
+  - disapproval
+  - favorability
+  - favorable
+  - unfavorable
+  - pollster
+  - Gallup
+  - Pew
+  - Quinnipiac
+  - Monmouth
+  - margin of error
+  - likely voters
+  - registered voters
+  - head-to-head
+  - horse race
+  - tracking poll
+
+protests:
+  - protest
+  - protester
+  - protesters
+  - demonstration
+  - demonstrators
+  - rally
+  - march
+  - riot
+  - unrest
+  - civil unrest
+  - tear gas
+  - pepper spray
+  - National Guard
+  - curfew
+  - looting
+  - vandalism
+  - activist
+  - activists
+  - grassroots
+  - movement
+
+media:
+  - press
+  - journalist
+  - journalists
+  - reporter
+  - reporters
+  - news media
+  - mainstream media
+  - MSM
+  - fake news
+  - press conference
+  - press briefing
+  - press secretary
+  - freedom of the press
+  - First Amendment
+  - leak
+  - leaker
+  - source
+  - anonymous source
+  - off the record
+  - on the record
+  - interview
+  - exclusive
+
+disinformation:
+  - misinformation
+  - false information
+  - conspiracy theory
+  - conspiracy theories
+  - hoax
+  - debunked
+  - fact check
+  - fact-check
+  - propaganda
+  - foreign influence
+  - bot
+  - bots
+  - troll
+  - trolls
+  - deep fake
+  - deepfake
+  - viral
+  - misleading
+  - false claim
+  - baseless claim
+  - unsubstantiated
+  - spreads false
+
+census:
+  - Census
+  - census count
+  - Census Bureau
+  - population count
+  - decennial census
+  - census data
+  - apportionment
+  - redistricting
+  - undercount
+  - citizenship question
+  - census form

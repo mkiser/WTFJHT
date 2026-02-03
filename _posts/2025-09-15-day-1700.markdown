@@ -6,6 +6,7 @@ tags:
 - oversight
 - national-security
 - corruption
+- covid
 description: '"im sorry for all of this."'
 image: "/uploads/day1699trump.jpg"
 todayInOneSentence: Utah authorities booked Tyler Robinson on suspicion of aggravated

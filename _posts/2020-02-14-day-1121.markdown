@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- immigration
+- mueller-investigation
+- ukraine
+- national-security
 description: '"Crime fighters." '
 image: "/uploads/1121.jpg"
 todayInOneSentence: 'Trump declared that he has the “legal right” to ask Attorney

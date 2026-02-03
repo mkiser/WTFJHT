@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- russia
+- national-security
+- media
+- mueller-investigation
 description: Dread.
 image: "/uploads/951.jpg"
 tag_excerpts:

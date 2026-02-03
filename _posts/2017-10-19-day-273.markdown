@@ -7,6 +7,8 @@ tags:
 - disinformation
 - media
 - taxes
+- congress
+- russia
 description: Who knows.
 image: "/uploads/273.jpg"
 ---

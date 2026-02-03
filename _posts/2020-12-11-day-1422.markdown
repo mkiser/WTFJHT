@@ -7,6 +7,8 @@ tags:
 - covid
 - oversight
 - presidential-election
+- congress
+- indictment
 description: '"The dam vaccines."'
 image: "/uploads/1422.jpg"
 todayInOneSentence: The White House ordered the FDA commissioner to grant emergency

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- oversight
+- congress
+- subpoena
 description: '"Never took place."'
 image: "/uploads/1037.jpg"
 todayInOneSentence: Trump's aides have discussed removing some impeachment witnesses

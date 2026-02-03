@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - immigration
 - executive-order
+- congress
+- mueller-investigation
 description: Embarrassing.
 image: "/uploads/722.jpg"
 todayInOneSentence: The government shutdown entered day 21 as Congress left for the

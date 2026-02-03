@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - oversight
 - disinformation
+- immigration
+- congress
 description: Hateful and inflammatory.
 image: "/uploads/816.jpg"
 todayInOneSentence: A redacted version of Mueller's report will be released to both

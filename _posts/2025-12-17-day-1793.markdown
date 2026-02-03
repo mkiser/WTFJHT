@@ -6,6 +6,7 @@ tags:
 - economy
 - classified-documents
 - congress
+- media
 description: '"So much thinking out loud."'
 image: "/uploads/day1793.jpg"
 todayInOneSentence: 'Four House Republicans broke with Speaker Mike Johnson and joined

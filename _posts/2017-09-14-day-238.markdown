@@ -7,6 +7,8 @@ tags:
 - immigration
 - ethics
 - national-security
+- media
+- energy
 description: Betrayed.
 image: "/uploads/238.jpg"
 author: Clayton Aldern

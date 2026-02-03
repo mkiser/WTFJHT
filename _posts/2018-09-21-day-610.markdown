@@ -7,6 +7,8 @@ tags:
 - supreme-court
 - mueller-investigation
 - oversight
+- congress
+- national-security
 description: As bad as she says.
 image: "/uploads/610.jpg"
 todayInOneSentence: Trump questioned Dr. Ford's credibility; the Senate Judiciary

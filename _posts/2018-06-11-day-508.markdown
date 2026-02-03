@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - national-security
 - immigration
+- foreign-policy
+- media
 description: Sobering and a bit depressing.
 image: "/uploads/508.jpg"
 todayInOneSentence: Trump refused to endorse the G7 statement, threatened to impose

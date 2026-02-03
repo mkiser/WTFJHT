@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- national-security
+- foreign-policy
+- media
 description: '"No president has abused his power in this way."'
 image: "/uploads/1099.jpg"
 todayInOneSentence: Senators reconvened in the Capitol for the third day of Trump’s

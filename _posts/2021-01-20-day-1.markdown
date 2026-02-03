@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- covid
+- climate
+- economy
+- national-security
 description: '"Democracy has prevailed."'
 image: "/uploads/biden-harris-day-1.jpg"
 tag_excerpts:

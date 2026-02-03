@@ -8,6 +8,7 @@ tags:
 - tariffs
 - trade
 - national-security
+- media
 description: Short-term pain.
 image: "/uploads/440.jpg"
 ---

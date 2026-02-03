@@ -6,6 +6,7 @@ tags:
 - national-security
 - oversight
 - corruption
+- congress
 description: '"It can happen to anyone."'
 image: "/uploads/day1682trump.jpg"
 todayInOneSentence: 'Three senior CDC leaders resigned after the White House fired

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- mueller-investigation
+- oversight
+- congress
 description: Justified.
 image: "/uploads/1054.jpg"
 todayInOneSentence: The Justice Department inspector general's report concluded that

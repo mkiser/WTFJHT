@@ -8,6 +8,7 @@ tags:
 - russia
 - immigration
 - corruption
+- labor
 description: Any way, shape or form.
 image: "/uploads/728.jpg"
 todayInOneSentence: Rudy Giuliani claimed that "I never said there was no collusion"

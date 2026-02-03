@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- congress
+- voting-rights
+- media
 description: '"It was all bullshit."'
 image: "/uploads/1113.jpg"
 todayInOneSentence: Trump celebrated his impeachment acquittal at the White House

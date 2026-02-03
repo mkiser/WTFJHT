@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- congress
+- ukraine
+- russia
 description: Profound.
 image: "/uploads/981.jpg"
 todayInOneSentence: The White House and the Justice Department learned about the whistleblower

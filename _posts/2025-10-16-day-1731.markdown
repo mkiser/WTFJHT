@@ -6,6 +6,7 @@ tags:
 - oversight
 - corruption
 - national-security
+- congress
 description: '"Profoundly concerned."'
 image: "/uploads/day1731trump.jpg"
 todayInOneSentence: A federal judge in Chicago ordered ICE agents involved in Operation

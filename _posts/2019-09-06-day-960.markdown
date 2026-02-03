@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - healthcare
+- economy
+- labor
+- oversight
 description: Looking for acknowledgment.
 image: "/uploads/960.jpg"
 todayInOneSentence: The Trump administration is considering a drastic reduction in

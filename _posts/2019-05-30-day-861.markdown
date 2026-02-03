@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- national-security
+- russia
+- voting-rights
 description: Essentially.
 image: "/uploads/861.jpg"
 todayInOneSentence: Trump tweeted that Russia helped "me to get elected"; Trump attacked

@@ -8,6 +8,7 @@ tags:
 - jan-6
 - tech-policy
 - national-security
+- taxes
 description: '"Another day in paradise."'
 image: "/uploads/day-567-biden.jpg"
 todayInOneSentence: The FBI executed a federal search warrant at Mar-a-Lago connected

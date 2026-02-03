@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - classified-documents
 - climate
+- congress
 description: '"Repercussions."'
 image: "/uploads/day-848-biden.jpg"
 todayInOneSentence: Biden said he is "confident" the U.S. will avert a default as

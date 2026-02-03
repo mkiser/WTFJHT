@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - immigration
 - classified-documents
+- climate
 description: '"Doing things."'
 image: "/uploads/day-916-biden.jpg"
 todayInOneSentence: 'Biden will establish a national monument honoring Emmett Till

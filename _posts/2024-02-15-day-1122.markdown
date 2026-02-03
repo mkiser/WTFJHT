@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - presidential-election
 - climate
+- foreign-policy
 description: '"Unprecedented stress."'
 image: "/uploads/day1122biden.jpg"
 todayInOneSentence: The first of Trump’s four criminal trials will start March 25;

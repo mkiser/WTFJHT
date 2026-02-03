@@ -7,6 +7,8 @@ tags:
 - covid
 - lgbtq-rights
 - jan-6
+- housing
+- criminal-justice
 description: '"A critical step."'
 image: "/uploads/94-biden.jpg"
 todayInOneSentence: The U.S. death rate in 2020 was the highest above normal ever

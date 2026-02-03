@@ -8,6 +8,7 @@ tags:
 - gun-policy
 - national-security
 - russia
+- oversight
 description: '"Reckless."'
 image: "/uploads/day-784-biden.jpg"
 todayInOneSentence: 'Inflation eased for the eighth straight month; the Justice Department

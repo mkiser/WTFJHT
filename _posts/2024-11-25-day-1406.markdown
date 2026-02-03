@@ -8,6 +8,7 @@ tags:
 - cabinet
 - ethics
 - nomination
+- voting-rights
 description: '"Still going to be in the fight."'
 image: "/uploads/day-1406-biden-trump.jpg"
 todayInOneSentence: 'Special counsel Jack Smith dropped all federal charges against

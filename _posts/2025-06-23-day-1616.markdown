@@ -6,6 +6,7 @@ tags:
 - national-security
 - congress
 - energy
+- immigration
 description: '"This is not Constitutional."'
 image: "/uploads/day1616trump.jpg"
 todayInOneSentence: Iran launched a missile strike on the U.S. Al Udeid Air Base in

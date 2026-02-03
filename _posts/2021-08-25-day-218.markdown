@@ -7,6 +7,8 @@ tags:
 - jan-6
 - immigration
 - disinformation
+- housing
+- oversight
 description: '"Communications within."'
 image: "/uploads/day-218-082521.jpg"
 todayInOneSentence: The majority of the federal rental assistance funding has yet

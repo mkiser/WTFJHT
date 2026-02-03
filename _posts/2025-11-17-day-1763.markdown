@@ -3,9 +3,10 @@ title: Day 1763
 date: 2025-11-17 16:23:00 -08:00
 tags:
 - tariffs
-- agriculture
+- economy
 - voting-rights
 - corruption
+- congress
 description: '"Sort of made up my mind."'
 image: "/uploads/day1763trump.jpg"
 todayInOneSentence: Trump rolled back reciprocal tariffs on beef, coffee, bananas,

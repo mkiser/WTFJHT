@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- covid
+- economy
+- jan-6
+- congress
 description: '"Self-pity mode."'
 image: "/uploads/1456.jpg"
 todayInOneSentence: Biden released a $1.9 trillion economic and health care rescue

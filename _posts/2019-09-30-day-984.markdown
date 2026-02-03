@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- russia
+- foreign-policy
+- oversight
 description: Fractures.
 image: "/uploads/984.jpg"
 todayInOneSentence: Trump called the whistleblower "a fraud," suggested that House

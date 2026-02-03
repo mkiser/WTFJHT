@@ -6,6 +6,9 @@ categories:
 tags:
 - supreme-court
 - mueller-investigation
+- congress
+- immigration
+- oversight
 description: Such an outstanding man.
 image: "/uploads/609.jpg"
 todayInOneSentence: Christine Blasey Ford is "prepared to testify next week"; Senate

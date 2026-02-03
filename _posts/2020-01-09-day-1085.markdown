@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- national-security
+- media
+- mueller-investigation
 description: Reckless.
 image: "/uploads/1085.jpg"
 todayInOneSentence: Nancy Pelosi said she would send the articles of impeachment to

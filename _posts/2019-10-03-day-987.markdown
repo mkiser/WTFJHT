@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- ukraine
+- mueller-investigation
+- oversight
+- congress
 description: '"China, if you''re listening."'
 image: "/uploads/987.jpg"
 todayInOneSentence: Trump urged China to investigate Joe Biden and his son despite

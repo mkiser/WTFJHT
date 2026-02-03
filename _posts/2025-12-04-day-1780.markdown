@@ -6,6 +6,7 @@ tags:
 - jan-6
 - voting-rights
 - economy
+- oversight
 description: '"A bloated, useless entity."'
 image: "/uploads/day1780trump.jpg"
 todayInOneSentence: The Supreme Court allowed Texas to use its new congressional map

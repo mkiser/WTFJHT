@@ -7,6 +7,8 @@ tags:
 - jan-6
 - oversight
 - media
+- congress
+- covid
 description: '"Beyond the pale."'
 image: "/uploads/biden-297.jpg"
 todayInOneSentence: A federal grand jury indicted Steve Bannon on charges of contempt

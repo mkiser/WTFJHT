@@ -6,6 +6,7 @@ tags:
 - judiciary
 - voting-rights
 - national-security
+- protests
 description: '"It’s getting really ugly."'
 image: "/uploads/day1730trump.jpg"
 todayInOneSentence: The Senate failed to pass funding bill for the ninth time as the

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- immigration
+- mueller-investigation
+- economy
 description: An unindicted co-conspirator.
 image: "/uploads/914.jpg"
 todayInOneSentence: The Trump administration plans to use a fast-track deportation

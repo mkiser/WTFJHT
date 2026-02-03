@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- economy
+- congress
+- national-security
 description: '"Enormous pain."'
 image: "/uploads/17-biden-harris.jpg"
 todayInOneSentence: The House and Senate both advanced a budget resolution, setting

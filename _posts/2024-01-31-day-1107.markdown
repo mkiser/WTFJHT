@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - economy
 - media
+- voting-rights
 description: '"A holy war."'
 image: "/uploads/day1107biden.jpg"
 todayInOneSentence: 'FBI Director Christopher Wray warned that Chinese hackers are

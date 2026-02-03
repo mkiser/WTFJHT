@@ -8,6 +8,7 @@ tags:
 - immigration
 - lawsuit
 - oversight
+- mueller-investigation
 description: Not happy.
 image: "/uploads/754.jpg"
 todayInOneSentence: Negotiators in the House and Senate reached an agreement to avoid

@@ -6,6 +6,9 @@ categories:
 tags:
 - foreign-policy
 - corruption
+- mueller-investigation
+- congress
+- indictment
 description: Highly unusual.
 image: "/uploads/630.jpg"
 todayInOneSentence: The Saudi crown prince ordered an operation to coax Jamal Khashoggi

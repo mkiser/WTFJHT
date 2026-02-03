@@ -6,6 +6,7 @@ tags:
 - civil-rights
 - ethics
 - corruption
+- immigration
 description: '"The ultimate betrayal."'
 image: "/uploads/day-1583-trump.png"
 todayInOneSentence: 'Trump warned House Republicans that failure to pass his tax and

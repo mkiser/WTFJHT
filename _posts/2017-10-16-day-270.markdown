@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - lgbtq-rights
+- congress
+- healthcare
+- russia
 description: Season of war.
 image: "/uploads/270.jpg"
 ---

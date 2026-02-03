@@ -7,6 +7,8 @@ tags:
 - economy
 - special-election
 - reproductive-rights
+- congress
+- voting-rights
 description: '"Absolutely calling it."'
 image: "/uploads/day-1198-biden.jpg"
 todayInOneSentence: 'Biden will cancel $6 billion in student loans for people who

@@ -7,6 +7,8 @@ tags:
 - oversight
 - gun-policy
 - civil-rights
+- mueller-investigation
+- congress
 description: Do something.
 image: "/uploads/930.jpg"
 todayInOneSentence: The House Judiciary Committee sued to force former White House

@@ -6,7 +6,9 @@ categories:
 tags:
 - immigration
 - healthcare
-- surveillance
+- national-security
+- congress
+- polling
 description: To surveil and abuse.
 image: "/uploads/357.jpg"
 ---

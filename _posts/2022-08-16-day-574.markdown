@@ -8,6 +8,7 @@ tags:
 - energy
 - classified-documents
 - covid
+- indictment
 description: '"Never had a doubt."'
 image: "/uploads/day-574-biden.jpg"
 todayInOneSentence: The Lower Colorado River Basin crossed an unprecedented water

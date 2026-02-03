@@ -6,6 +6,9 @@ categories:
 tags:
 - corruption
 - voting-rights
+- covid
+- congress
+- disinformation
 description: '"No way."'
 image: "/uploads/1446.jpg"
 todayInOneSentence: Trump pressured Georgia's secretary of state to “find” him enough

@@ -7,6 +7,8 @@ tags:
 - judiciary
 - economy
 - voting-rights
+- covid
+- civil-rights
 description: '"Trailblazing."'
 image: "/uploads/day-70-biden.jpg"
 todayInOneSentence: Biden announced a “trailblazing” set of 11 judicial nominees;

@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- congress
+- indictment
+- economy
+- nomination
 description: '"Competing constitutional interests."'
 image: "/uploads/day-1414-biden-harris-trump.jpg"
 tag_excerpts:

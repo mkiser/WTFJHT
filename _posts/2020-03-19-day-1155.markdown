@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - covid
+- economy
+- congress
+- media
+- national-security
 description: '"Nobody knew."'
 image: "/uploads/1155.jpg"
 todayInOneSentence: The chairman of the Senate Intelligence Committee warned constituents

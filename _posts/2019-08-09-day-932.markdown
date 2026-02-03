@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- media
+- oversight
+- congress
 description: '"Not a photo op."'
 image: "/uploads/932.jpg"
 todayInOneSentence: The House Judiciary Committee is officially conducting an impeachment

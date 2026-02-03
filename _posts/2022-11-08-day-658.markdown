@@ -7,6 +7,8 @@ tags:
 - midterm-election
 - voting-rights
 - climate
+- congress
+- polling
 description: '"The things Americans value most are at risk."'
 image: "/uploads/day-658-biden.jpg"
 todayInOneSentence: Polls opened across the country today with control of Congress

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- oversight
+- education
+- tech-policy
 description: '"Further acts of obstruction."'
 image: "/uploads/992.jpg"
 todayInOneSentence: A bipartisan Senate report concluded that the Kremlin directed

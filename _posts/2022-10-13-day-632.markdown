@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - indictment
 - economy
+- congress
 description: '"A question about accountability."'
 image: "/uploads/day-632-biden.jpg"
 todayInOneSentence: The Jan. 6 committee voted unanimously to subpoena Trump; the

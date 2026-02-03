@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - congress
 - oversight
+- media
+- subpoena
 description: 'No choice. '
 image: "/uploads/840.jpg"
 todayInOneSentence: Mick Mulvaney criticized Republicans for not informing him that

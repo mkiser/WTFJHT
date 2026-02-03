@@ -8,6 +8,7 @@ tags:
 - energy
 - classified-documents
 - jan-6
+- national-security
 description: '"Extraordinary impacts."'
 image: "/uploads/day-573-biden.jpg"
 todayInOneSentence: The House passed the Inflation Reduction Act over unanimous Republican

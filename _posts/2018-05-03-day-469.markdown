@@ -8,6 +8,7 @@ tags:
 - subpoena
 - corruption
 - ethics
+- media
 description: 'Suckers. '
 image: "/uploads/469.jpg"
 ---

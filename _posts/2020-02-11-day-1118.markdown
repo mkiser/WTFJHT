@@ -6,6 +6,9 @@ categories:
 tags:
 - indictment
 - criminal-justice
+- congress
+- mueller-investigation
+- oversight
 description: Excessive.
 image: "/uploads/1118.jpg"
 todayInOneSentence: Trump’s Justice Department will overrule its own prosecutors and

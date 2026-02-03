@@ -7,6 +7,8 @@ tags:
 - immigration
 - voting-rights
 - corruption
+- covid
+- congress
 description: '"Democracy is having a hard time functioning."'
 image: "/uploads/57-biden.jpg"
 todayInOneSentence: 'Biden discouraged potential migrants hoping to enter the United

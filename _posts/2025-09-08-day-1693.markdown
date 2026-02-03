@@ -6,6 +6,7 @@ tags:
 - oversight
 - corruption
 - media
+- immigration
 description: '"A scared man."'
 image: "/uploads/day1692trump.jpg"
 todayInOneSentence: House Democrats released Trump’s lewd 2003 letter to Jeffrey Epstein

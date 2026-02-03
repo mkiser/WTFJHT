@@ -6,7 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - corruption
-- obstruction
+- mueller-investigation
+- congress
+- trade
 description: Compromised.
 image: "/uploads/683.jpg"
 todayInOneSentence: Trump called for a "full and complete" sentence for Michael Cohen

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- national-security
+- oversight
+- media
 description: Without reason.
 image: "/uploads/1040.jpg"
 todayInOneSentence: A federal judge ruled that the former White House counsel must

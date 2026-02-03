@@ -7,6 +7,8 @@ tags:
 - lawsuit
 - israel-palestine
 - presidential-election
+- jan-6
+- congress
 description: '"A practical impossibility."'
 image: "/uploads/day1154-biden.jpg"
 todayInOneSentence: Trump doesn't have enough money to post the $464 million appeal

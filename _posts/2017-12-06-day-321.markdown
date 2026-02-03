@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - voting-rights
+- oversight
+- congress
+- national-security
 description: Good to go.
 image: "/uploads/321.jpg"
 ---

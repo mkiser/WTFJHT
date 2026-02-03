@@ -8,6 +8,7 @@ tags:
 - national-security
 - sanctions
 - trade
+- israel-palestine
 description: Malicious.
 image: "/uploads/420.jpg"
 ---

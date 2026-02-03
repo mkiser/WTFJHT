@@ -7,6 +7,8 @@ tags:
 - debate
 - voting-rights
 - foreign-policy
+- economy
+- congress
 description: '"Ready to rumble."'
 image: "/uploads/day-1212-biden.jpg"
 todayInOneSentence: 'Biden and Trump agreed to a pair of presidential debates before

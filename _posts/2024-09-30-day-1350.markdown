@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - immigration
 - voting-rights
+- national-security
 description: '"One really violent day."'
 image: "/uploads/day-1350-biden-harris.jpg"
 todayInOneSentence: Biden may call Congress in for a special session to pass supplemental

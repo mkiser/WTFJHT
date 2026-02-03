@@ -7,6 +7,8 @@ tags:
 - indictment
 - media
 - disinformation
+- israel-palestine
+- immigration
 description: '"An act of madness."'
 image: "/uploads/day-1218-biden.jpg"
 todayInOneSentence: 'Israel’s Communications Ministry confiscated camera and broadcasting

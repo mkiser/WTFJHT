@@ -8,6 +8,7 @@ tags:
 - lawsuit
 - economy
 - climate
+- national-security
 description: '"They hate Donald Trump."'
 image: "/uploads/day-875-biden.jpg"
 todayInOneSentence: Trump surrendered to authorities and pleaded not guilty to 37

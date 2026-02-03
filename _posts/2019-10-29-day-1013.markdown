@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- immigration
+- mueller-investigation
+- congress
+- media
 description: '"Extremely, extremely, extremely disturbing."'
 image: "/uploads/1013.jpg"
 todayInOneSentence: House Democrats released their impeachment resolution; the top

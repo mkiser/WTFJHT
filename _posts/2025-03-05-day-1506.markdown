@@ -6,6 +6,7 @@ tags:
 - economy
 - ukraine
 - executive-order
+- labor
 description: '"Let him stew in his own juice."'
 image: "/uploads/trump-day-1506.jpg"
 todayInOneSentence: 'Trump delivered a 100-minute address to Congress – the longest

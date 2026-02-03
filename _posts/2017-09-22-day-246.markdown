@@ -7,6 +7,8 @@ tags:
 - national-security
 - mueller-investigation
 - executive-order
+- tech-policy
+- media
 description: Dotard.
 image: "/uploads/246.jpg"
 author: Clayton Aldern

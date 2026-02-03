@@ -7,6 +7,8 @@ tags:
 - reproductive-rights
 - covid
 - jan-6
+- congress
+- supreme-court
 description: '"Survive the stench."'
 image: "/uploads/day-316-biden.jpg"
 todayInOneSentence: The Supreme Court appeared likely to uphold a Mississippi law

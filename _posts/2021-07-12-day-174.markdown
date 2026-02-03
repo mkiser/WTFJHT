@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - covid
 - foreign-policy
+- climate
+- congress
 description: '"Speculation and conjecture."'
 image: "/uploads/day-174-071221.jpg"
 todayInOneSentence: Texas Democrats plan to risk arrest by fleeing the state in order

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- voting-rights
+- immigration
+- congress
 description: Legitimacy.
 image: "/uploads/837.jpg"
 todayInOneSentence: 'More than 370 former federal prosecutors asserted that Trump

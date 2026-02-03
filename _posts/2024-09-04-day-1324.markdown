@@ -7,6 +7,8 @@ tags:
 - gun-policy
 - national-security
 - immigration
+- voting-rights
+- education
 description: '"It doesn’t have to be this way."'
 image: "/uploads/day-1324-biden-harris.jpg"
 todayInOneSentence: 'A 14-year-old killed two students, two teachers, and left at

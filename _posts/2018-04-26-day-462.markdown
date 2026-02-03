@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - nomination
 - oversight
+- congress
+- voting-rights
 description: Extremely opposed.
 image: "/uploads/462.jpg"
 ---

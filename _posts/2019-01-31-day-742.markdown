@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - immigration
 - mueller-investigation
+- congress
+- voting-rights
 description: Waste of time.
 image: "/uploads/742.jpg"
 todayInOneSentence: Trump called any plan to avoid a government shutdown a "waste

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - foreign-policy
+- congress
+- national-security
+- media
 description: Alarming and significant.
 image: "/uploads/805.jpg"
 todayInOneSentence: Mueller's investigators gathered "alarming and significant" evidence

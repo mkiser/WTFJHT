@@ -5,6 +5,8 @@ tags:
 - national-security
 - immigration
 - climate
+- media
+- labor
 description: '"Definitely no regrets whatsoever."'
 image: "/uploads/day1821trump.jpg"
 podcast:

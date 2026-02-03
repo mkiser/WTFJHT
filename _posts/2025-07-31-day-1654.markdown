@@ -6,6 +6,7 @@ tags:
 - trade
 - healthcare
 - economy
+- israel-palestine
 description: '"Clumsy."'
 image: "/uploads/day1654trump.jpg"
 todayInOneSentence: Only 10 of about 60 countries have secured trade deals with the

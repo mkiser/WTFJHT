@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - lawsuit
 - classified-documents
+- voting-rights
 description: '"What comes next."'
 image: "/uploads/day1009b.jpg"
 todayInOneSentence: After 22 days and three failed nominees, House Republicans elected

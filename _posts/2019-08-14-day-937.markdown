@@ -7,6 +7,8 @@ tags:
 - reproductive-rights
 - civil-rights
 - lgbtq-rights
+- economy
+- congress
 description: 'Clueless. '
 image: "/uploads/937.jpg"
 todayInOneSentence: The Trump administration formally proposed regulation allowing

@@ -8,6 +8,7 @@ tags:
 - debt-ceiling
 - economy
 - ethics
+- congress
 description: '"Step up and fix this."'
 image: "/uploads/day-833-biden.jpg"
 todayInOneSentence: Biden will send 1,500 active duty troops to the southern border

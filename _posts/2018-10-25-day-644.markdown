@@ -6,6 +6,9 @@ categories:
 tags:
 - national-security
 - china
+- mueller-investigation
+- immigration
+- congress
 description: Boring.
 image: "/uploads/644.jpg"
 todayInOneSentence: Trump called a report that Chinese and Russian spies were eavesdropping

@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- israel-palestine
+- congress
+- protests
+- voting-rights
 description: '"Enough is enough."'
 image: "/uploads/day-1413-biden-harris-trump.jpg"
 tag_excerpts:

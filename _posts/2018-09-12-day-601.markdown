@@ -8,6 +8,7 @@ tags:
 - immigration
 - corruption
 - national-security
+- indictment
 description: '"Totally incompetent."'
 image: "/uploads/day-601.png"
 todayInOneSentence: DHS diverted $10 million from FEMA to ICE; Trump called the mayor

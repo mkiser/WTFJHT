@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- national-security
+- economy
+- immigration
 description: 'Simply unacceptable. '
 image: "/uploads/966.jpg"
 todayInOneSentence: The Trump administration repealed Obama's landmark clean water

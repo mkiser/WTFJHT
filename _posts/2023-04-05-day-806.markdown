@@ -8,6 +8,7 @@ tags:
 - jan-6
 - reproductive-rights
 - lgbtq-rights
+- climate
 description: '"Seems accurate."'
 image: "/uploads/day-806-biden-trump.jpg"
 todayInOneSentence: Roughly six hours after pleading not guilty to 34 counts of filing

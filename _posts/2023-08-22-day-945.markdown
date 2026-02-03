@@ -7,6 +7,8 @@ tags:
 - indictment
 - lgbtq-rights
 - presidential-election
+- judiciary
+- voting-rights
 description: '"A tremendous courtesy."'
 image: "/uploads/day-945-biden.jpg"
 todayInOneSentence: The Trump lawyer who led efforts to overturn the 2020 election

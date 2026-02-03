@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - national-security
+- media
+- congress
+- voting-rights
 description: Wiretapped.
 image: "/uploads/243.jpg"
 author: Clayton Aldern

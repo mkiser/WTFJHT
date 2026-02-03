@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - pardon
 - russia
+- media
+- congress
 description: 'Speaks for himself. '
 image: "/uploads/221.jpg"
 ---

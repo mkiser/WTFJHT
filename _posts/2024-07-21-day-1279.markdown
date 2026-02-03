@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - presidential-election
+- congress
+- immigration
+- voting-rights
+- polling
 description: '"Let’s do this."'
 image: "/uploads/day-1279-biden-harris.jpg"
 todayInOneSentence: 'Following intense pressure from nearly 40 Democratic members

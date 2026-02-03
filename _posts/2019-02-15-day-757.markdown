@@ -7,6 +7,8 @@ tags:
 - executive-order
 - mueller-investigation
 - census
+- congress
+- media
 description: Didn't need to do this.
 image: "/uploads/757.jpg"
 todayInOneSentence: Trump declared a national emergency; the Justice Department warned

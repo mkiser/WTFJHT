@@ -6,6 +6,9 @@ categories:
 tags:
 - gun-policy
 - mueller-investigation
+- congress
+- immigration
+- taxes
 description: '"You guys are the adults."'
 image: "/uploads/392.jpg"
 ---

@@ -7,6 +7,8 @@ tags:
 - economy
 - impeachment
 - oversight
+- congress
+- covid
 description: '"We need to act."'
 image: "/uploads/biden-harris-15.jpg"
 todayInOneSentence: Biden urged congressional Democrats to press ahead with the $1.9

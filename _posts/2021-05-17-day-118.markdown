@@ -7,6 +7,8 @@ tags:
 - reproductive-rights
 - covid
 - israel-palestine
+- supreme-court
+- congress
 description: '"Grave concern."'
 image: "/uploads/day-118-biden.jpg"
 todayInOneSentence: The Supreme Court will hear a challenge to a Mississippi law that

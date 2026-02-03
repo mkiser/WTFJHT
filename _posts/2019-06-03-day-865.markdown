@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- national-security
+- trade
+- disinformation
 description: Presidential obstruction and other crimes.
 image: "/uploads/865.jpg"
 todayInOneSentence: Trump tweeted that the mayor of London was a "stone cold loser";

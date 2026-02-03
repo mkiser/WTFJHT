@@ -8,6 +8,7 @@ tags:
 - supreme-court
 - primary
 - presidential-election
+- voting-rights
 description: '"Earn the votes."'
 image: "/uploads/day1142-biden.jpg"
 todayInOneSentence: The House passed a $460 billion package of spending bills; the

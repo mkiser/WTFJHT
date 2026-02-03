@@ -7,6 +7,8 @@ tags:
 - infrastructure
 - covid
 - tech-policy
+- congress
+- economy
 description: '"Frustrated."'
 image: "/uploads/day-141-biden-harris.jpg"
 todayInOneSentence: 'Biden ended negotiations with a group of Republicans over infrastructure

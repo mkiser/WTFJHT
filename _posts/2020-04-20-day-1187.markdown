@@ -7,6 +7,8 @@ tags:
 - covid
 - corruption
 - oversight
+- healthcare
+- mueller-investigation
 description: '"Complaining."'
 image: "/uploads/1187.jpg"
 todayInOneSentence: U.S. manufacturers shipped just over a billion face masks and

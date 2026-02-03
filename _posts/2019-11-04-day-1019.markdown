@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- ukraine
+- congress
+- subpoena
 description: Threatened.
 image: "/uploads/1019.jpg"
 todayInOneSentence: Interview notes from Robert Mueller's special counsel investigation

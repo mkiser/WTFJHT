@@ -7,6 +7,8 @@ tags:
 - oversight
 - mueller-investigation
 - climate
+- congress
+- indictment
 description: Doesn't work that way.
 image: "/uploads/748.jpg"
 ---

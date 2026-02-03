@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- economy
+- voting-rights
+- foreign-policy
 description: Out of step.
 image: "/uploads/1014.jpg"
 todayInOneSentence: Two career diplomats testified before House impeachment investigators

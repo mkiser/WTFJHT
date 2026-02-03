@@ -6,6 +6,9 @@ categories:
 tags:
 - presidential-election
 - veterans
+- voting-rights
+- economy
+- labor
 description: '"Pretty sad."'
 image: "/uploads/day-1318-biden-harris.jpg"
 todayInOneSentence: 'The Army defended the Arlington National Cemetery official involved

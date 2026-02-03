@@ -6,6 +6,9 @@ categories:
 tags:
 - supreme-court
 - climate
+- russia
+- mueller-investigation
+- nomination
 description: '"An insult to the American public."'
 image: "/uploads/627.jpg"
 todayInOneSentence: The Senate confirmed Brett Kavanaugh;  Trump called the allegations

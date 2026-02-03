@@ -5,6 +5,8 @@ tags:
 - healthcare
 - immigration
 - special-election
+- congress
+- covid
 description: '"Good trouble."'
 image: "/uploads/1533-trump.jpg"
 todayInOneSentence: The Trump administration laid off 10,000 federal health workers

@@ -7,6 +7,8 @@ tags:
 - infrastructure
 - criminal-justice
 - climate
+- congress
+- covid
 description: '"Crisis into opportunity."'
 image: "/uploads/100-days-biden-news.jpg"
 todayInOneSentence: Biden declared that “America is rising anew” in his first address

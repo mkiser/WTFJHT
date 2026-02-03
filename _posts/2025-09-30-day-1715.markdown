@@ -6,6 +6,7 @@ tags:
 - executive-order
 - foreign-policy
 - civil-rights
+- israel-palestine
 description: '"A war from within."'
 image: "/uploads/day1715trump.jpg"
 todayInOneSentence: Defense Secretary Pete Hegseth assembled hundreds of the U.S.

@@ -7,6 +7,8 @@ tags:
 - jan-6
 - economy
 - supreme-court
+- education
+- congress
 description: '"A direct and personal role."'
 image: "/uploads/day-518-biden.jpg"
 todayInOneSentence: Treasury Secretary Janet Yellen backed Biden's position that a

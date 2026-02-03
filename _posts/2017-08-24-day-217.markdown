@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - lgbtq-rights
+- national-security
+- congress
+- media
 description: 'Nonsense. '
 image: "/uploads/217.jpg"
 ---

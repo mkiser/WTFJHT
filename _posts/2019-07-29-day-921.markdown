@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- national-security
+- infrastructure
+- mueller-investigation
 description: Critical.
 image: "/uploads/921.jpg"
 todayInOneSentence: Trump called Elijah Cummings a "brutal bully" and his Baltimore-based

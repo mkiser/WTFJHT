@@ -7,6 +7,8 @@ tags:
 - covid
 - disinformation
 - judiciary
+- congress
+- mueller-investigation
 description: Confusion.
 image: "/uploads/1141.jpg"
 todayInOneSentence: The Trump administration won’t meet its promised timeline of having

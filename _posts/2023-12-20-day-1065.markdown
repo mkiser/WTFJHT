@@ -8,6 +8,7 @@ tags:
 - jan-6
 - judiciary
 - disinformation
+- congress
 description: '"Destroying the fabric of our country."'
 image: "/uploads/day-1065b.jpeg"
 todayInOneSentence: 'Trump doubled down on his racist and xenophobic comments that

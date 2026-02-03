@@ -8,6 +8,7 @@ tags:
 - immigration
 - jan-6
 - national-security
+- healthcare
 description: '"To speak a truth."'
 image: "/uploads/day-1464-trump.jpg"
 todayInOneSentence: The Trump administration ordered all federal diversity, equity,

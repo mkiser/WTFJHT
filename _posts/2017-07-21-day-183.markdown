@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- russia
+- mueller-investigation
+- congress
+- taxes
 description: Pardon power.
 image: "/uploads/183.jpg"
 tag_excerpts:

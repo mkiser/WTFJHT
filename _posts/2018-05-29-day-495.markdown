@@ -8,6 +8,7 @@ tags:
 - corruption
 - national-security
 - immigration
+- congress
 description: 1,475 children.
 image: "/uploads/495.jpg"
 todayInOneSentence: 'Trump is still preparing for the cancelled-but-still-possible

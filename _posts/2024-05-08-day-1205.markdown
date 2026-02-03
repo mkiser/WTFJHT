@@ -7,6 +7,8 @@ tags:
 - indictment
 - economy
 - presidential-election
+- covid
+- tech-policy
 description: '"Problems, clearly."'
 image: "/uploads/day-1205-biden.jpg"
 todayInOneSentence: 'A Georgia court agreed to hear Trump’s appeal of a decision allowing

@@ -8,6 +8,7 @@ tags:
 - ukraine
 - nomination
 - supreme-court
+- congress
 description: '"Massive consequences."'
 image: "/uploads/day-370-biden.jpg"
 todayInOneSentence: The Pentagon put 8,500 American troops on “high alert” as NATO

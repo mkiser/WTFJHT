@@ -6,6 +6,7 @@ tags:
 - government-shutdown
 - immigration
 - judiciary
+- economy
 description: '"This is no way to run a country."'
 image: "/uploads/day1759trump.jpg"
 todayInOneSentence: 'The Justice Department sued to block California’s new voter-approved

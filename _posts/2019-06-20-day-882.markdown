@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- congress
+- national-security
+- media
 description: The best is yet to come.
 image: "/uploads/882.jpg"
 todayInOneSentence: Trump warned that Iran "made a very big mistake"; the Senate voted

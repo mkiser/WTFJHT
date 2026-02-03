@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- congress
+- indictment
+- covid
+- media
 description: '"A disgraceful dereliction of duty."'
 image: "/uploads/biden-harris-27.jpg"
 todayInOneSentence: Trump was acquitted for the second time in 13 months; before the

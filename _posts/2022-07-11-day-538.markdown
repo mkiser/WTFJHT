@@ -8,6 +8,7 @@ tags:
 - subpoena
 - reproductive-rights
 - voting-rights
+- covid
 description: '"Out of control."'
 image: "/uploads/day-538-biden.jpg"
 todayInOneSentence: 'A federal judge refused to delay Stephen Bannon’s trial on charges

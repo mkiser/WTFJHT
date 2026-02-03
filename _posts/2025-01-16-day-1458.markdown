@@ -8,6 +8,7 @@ tags:
 - tech-policy
 - cabinet
 - national-security
+- congress
 description: '"An oligarchy is taking shape in America of extreme wealth."'
 image: "/uploads/day-1458-biden-trump.jpg"
 todayInOneSentence: Biden, in his farewell address, warned of the rise of an oligarchy

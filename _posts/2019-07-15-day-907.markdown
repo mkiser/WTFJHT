@@ -7,6 +7,8 @@ tags:
 - immigration
 - civil-rights
 - ethics
+- congress
+- resignation
 description: 'Racist in chief. '
 image: "/uploads/907.jpg"
 todayInOneSentence: Trump told four liberal congresswomen of color to "go back" and

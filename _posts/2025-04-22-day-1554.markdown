@@ -3,9 +3,10 @@ title: Day 1554
 date: 2025-04-22 14:42:00 -07:00
 tags:
 - national-security
-- government
+- oversight
 - immigration
 - economy
+- congress
 description: '"Creating their own preferred version of reality."'
 image: "/uploads/day-1554-trump.jpg"
 todayInOneSentence: 'Defense Secretary Pete Hegseth shared real-time strike details

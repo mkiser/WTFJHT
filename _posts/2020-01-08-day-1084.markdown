@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- foreign-policy
+- polling
+- economy
 description: Standing down.
 image: "/uploads/1084.jpg"
 todayInOneSentence: Iran launched more than a dozen ballistic missiles at two Iraqi

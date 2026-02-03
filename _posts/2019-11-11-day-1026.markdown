@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- ukraine
+- taxes
+- congress
 description: '"This issue."'
 image: "/uploads/1026.jpg"
 todayInOneSentence: A senior defense official told House impeachment investigators

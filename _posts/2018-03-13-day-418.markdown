@@ -8,6 +8,7 @@ tags:
 - cabinet
 - russia
 - national-security
+- immigration
 description: 'You''re fired. '
 image: "/uploads/418.jpg"
 ---

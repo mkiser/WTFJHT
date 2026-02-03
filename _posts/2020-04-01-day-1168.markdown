@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- covid
+- media
+- national-security
+- healthcare
 description: '"A very heavy price."'
 image: "/uploads/1168.jpg"
 todayInOneSentence: The national emergency stockpile of respirator masks, gloves,

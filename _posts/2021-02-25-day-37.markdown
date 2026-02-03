@@ -8,6 +8,7 @@ tags:
 - immigration
 - covid
 - corruption
+- congress
 description: '"A critical step."'
 image: "/uploads/day-37-biden-equality-act.jpg"
 todayInOneSentence: The House passed the Equality Act; Biden ended Trump's ban on

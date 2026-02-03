@@ -8,6 +8,7 @@ tags:
 - climate
 - energy
 - disinformation
+- congress
 description: '"It''s hard to see how America was served by the spectacle of lies that
   aired on CNN."'
 image: "/uploads/day-842-biden.jpg"

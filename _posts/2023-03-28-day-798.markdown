@@ -8,6 +8,7 @@ tags:
 - ethics
 - economy
 - corruption
+- supreme-court
 description: '"No plausible conflict of interest."'
 image: "/uploads/day-798-biden.jpg"
 todayInOneSentence: 'A federal judge ordered Pence to testify to a grand jury investigating

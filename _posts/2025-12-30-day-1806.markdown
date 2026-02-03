@@ -6,6 +6,7 @@ tags:
 - sanctions
 - economy
 - foreign-policy
+- national-security
 description: '"The guy is just incompetent."'
 image: "/uploads/day1806trump.jpg"
 todayInOneSentence: A federal judge ordered the Trump administration to continue funding

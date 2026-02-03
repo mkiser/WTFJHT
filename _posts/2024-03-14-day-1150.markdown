@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - israel-palestine
 - jan-6
+- national-security
 description: '"Serious consideration."'
 image: " /uploads/day1150-biden.jpg"
 todayInOneSentence: The Manhattan DA agreed to delay the start of the hush money case

@@ -6,6 +6,7 @@ tags:
 - healthcare
 - judiciary
 - national-security
+- labor
 description: '"Whether people like that or not, that''s what we''re doing."'
 image: "/uploads/day1743trump.jpg"
 todayInOneSentence: 'Twenty-five states and the District of Columbia sued the Trump

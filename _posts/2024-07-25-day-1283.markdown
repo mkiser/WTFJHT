@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - presidential-election
+- congress
+- supreme-court
+- education
+- voting-rights
 description: '"Bring it on."'
 image: "/uploads/day-1283-biden-harris.jpg"
 todayInOneSentence: Biden, speaking to the American public from the Oval Office, said

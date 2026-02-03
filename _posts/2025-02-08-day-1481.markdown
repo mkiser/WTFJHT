@@ -5,6 +5,8 @@ tags:
 - judiciary
 - executive-order
 - national-security
+- labor
+- media
 description: '"The single greatest insider threat."'
 image: "/uploads/day-1481-trump.jpg"
 todayInOneSentence: 'A federal judge temporarily blocked Elon Musk’s Department of

@@ -7,6 +7,8 @@ tags:
 - covid
 - voting-rights
 - jan-6
+- media
+- congress
 description: '"A country that''s divided."'
 image: "/uploads/day-139-biden.jpg"
 todayInOneSentence: The U.S. reported an average of about 14,500 daily coronavirus

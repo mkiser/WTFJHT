@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- protests
+- congress
+- economy
 description: '"The most powerful and heartbreaking example of the cruelty that preceded
   this administration."'
 image: "/uploads/41-biden.jpg"

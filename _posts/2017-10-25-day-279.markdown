@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - criminal-justice
+- congress
+- climate
+- economy
 description: Drain the swamp.
 image: "/uploads/279.jpg"
 ---

@@ -7,6 +7,8 @@ tags:
 - national-security
 - healthcare
 - mueller-investigation
+- congress
+- oversight
 description: Sick and demented.
 image: "/uploads/239.jpg"
 author: Clayton Aldern

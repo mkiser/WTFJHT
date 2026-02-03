@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- covid
+- economy
+- congress
+- national-security
 description: '"Badge of honor."'
 image: "/uploads/1216.jpg"
 todayInOneSentence: Trump called the high number of US COVID-19 cases a “badge of

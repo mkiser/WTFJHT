@@ -6,6 +6,7 @@ tags:
 - economy
 - taxes
 - healthcare
+- immigration
 description: '"Agonizing."'
 image: "/uploads/day1624trump.jpg"
 todayInOneSentence: 'Senate Republicans passed Trump’s $3.3 trillion tax and spending

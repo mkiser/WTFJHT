@@ -7,6 +7,8 @@ tags:
 - immigration
 - mueller-investigation
 - corruption
+- congress
+- healthcare
 description: 'Infestation. '
 image: "/uploads/516.jpg"
 todayInOneSentence: Michael Cohen has signaled that he is "willing to give" investigators

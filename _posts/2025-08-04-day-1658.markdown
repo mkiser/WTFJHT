@@ -6,6 +6,7 @@ tags:
 - congress
 - voting-rights
 - disinformation
+- russia
 description: '"More transparent and more reliable."'
 image: "/uploads/day1658trump.jpg"
 todayInOneSentence: 'White House adviser Kevin Hassett defended Trump’s firing of

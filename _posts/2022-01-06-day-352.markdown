@@ -8,6 +8,7 @@ tags:
 - jan-6
 - judiciary
 - criminal-justice
+- indictment
 description: '"A perpetual state of emergency."'
 image: "/uploads/day-352-biden-jan-6.jpg"
 todayInOneSentence: Biden condemned Trump and his allies of holding "a dagger at the

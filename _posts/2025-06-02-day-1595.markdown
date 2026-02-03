@@ -6,6 +6,7 @@ tags:
 - immigration
 - supreme-court
 - disinformation
+- congress
 description: '"We deserve better."'
 image: "/uploads/day-1595-trump.jpg"
 todayInOneSentence: Republican Sen. Joni Ernst dismissed concerns that Medicaid cuts

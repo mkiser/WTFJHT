@@ -7,6 +7,8 @@ tags:
 - presidential-election
 - indictment
 - corruption
+- israel-palestine
+- voting-rights
 description: '"Whoever heard you get indicted for interfering with a presidential
   election where you have every right to do it."'
 image: "/uploads/day-1323-biden-harris.jpg"

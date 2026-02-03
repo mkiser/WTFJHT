@@ -7,6 +7,8 @@ tags:
 - covid
 - congress
 - economy
+- tech-policy
+- voting-rights
 description: '"That might not go over well."'
 image: "/uploads/1420.jpg"
 todayInOneSentence: The U.S. recorded 2,249 COVID-19 deaths on average over the last

@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - healthcare
 - immigration
+- congress
+- national-security
 description: Not playing games.
 image: "/uploads/799.jpg"
 todayInOneSentence: The Justice Department plans to release a redacted copy of Robert

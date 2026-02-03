@@ -7,6 +7,8 @@ tags:
 - jan-6
 - gun-policy
 - voting-rights
+- congress
+- economy
 description: '"Never been more optimistic."'
 image: "/uploads/day-511-biden.jpg"
 todayInOneSentence: Attorney General William Barr told the Jan. 6 committee that Trump

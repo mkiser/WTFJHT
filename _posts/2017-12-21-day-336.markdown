@@ -7,6 +7,8 @@ tags:
 - healthcare
 - energy
 - mueller-investigation
+- congress
+- taxes
 description: A formula for success.
 image: "/uploads/336.jpg"
 ---

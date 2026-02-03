@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- mueller-investigation
+- oversight
+- healthcare
 description: '"Join us in condemning the president''s racist tweets."'
 image: "/uploads/908.jpg"
 todayInOneSentence: 'Republicans temporarily blocked a resolution denouncing Trump''s

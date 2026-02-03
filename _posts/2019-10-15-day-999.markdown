@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- oversight
+- congress
+- economy
+- national-security
 description: An abomination.
 image: "/uploads/999.jpg"
 todayInOneSentence: The White House's former top Russia adviser told impeachment investigators

@@ -7,6 +7,8 @@ tags:
 - nomination
 - immigration
 - corruption
+- mueller-investigation
+- supreme-court
 description: 'Piece of trash. '
 image: "/uploads/536.jpg"
 todayInOneSentence: Trump will announce his Supreme Court nominee tonight at 9 p.m.;

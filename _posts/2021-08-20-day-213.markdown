@@ -7,6 +7,8 @@ tags:
 - jan-6
 - ethics
 - foreign-policy
+- media
+- tech-policy
 description: '"Strategic ambiguity."'
 image: "/uploads/day-213-082021.jpg"
 todayInOneSentence: 'A North Carolina man who threatened to blow up the U.S. Capitol

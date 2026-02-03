@@ -7,6 +7,8 @@ tags:
 - russia
 - energy
 - healthcare
+- covid
+- congress
 description: '"The Achilles'' heel of autocracies."'
 image: "/uploads/Day-435-biden-ukraine.jpg"
 todayInOneSentence: U.S. intelligence officials believe Putin is "being misinformed

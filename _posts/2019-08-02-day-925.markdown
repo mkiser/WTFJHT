@@ -8,6 +8,7 @@ tags:
 - national-security
 - tariffs
 - sanctions
+- congress
 description: LameStream.
 image: "/uploads/925.jpg"
 ---

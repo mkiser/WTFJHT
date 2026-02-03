@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- voting-rights
+- national-security
+- congress
+- education
 description: '"One god-awful mess."'
 image: "/uploads/day-101-biden.jpg"
 tag_excerpts:

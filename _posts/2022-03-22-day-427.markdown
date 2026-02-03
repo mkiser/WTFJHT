@@ -7,6 +7,8 @@ tags:
 - covid
 - nomination
 - russia
+- indictment
+- congress
 description: '"Sickening and egregious."'
 image: "/uploads/day-427-biden.jpg"
 todayInOneSentence: The Biden administration has exhausted the funds needed to purchase

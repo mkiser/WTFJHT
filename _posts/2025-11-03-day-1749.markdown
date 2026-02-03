@@ -6,6 +6,7 @@ tags:
 - healthcare
 - voting-rights
 - judiciary
+- congress
 description: '"I don’t want to embarrass you."'
 image: "/uploads/day1749trump.jpg"
 todayInOneSentence: The Trump administration will restart SNAP payments but only at

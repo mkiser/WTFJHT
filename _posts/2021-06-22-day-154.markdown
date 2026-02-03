@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - covid
 - media
+- congress
+- economy
 description: '"Our great democracy."'
 image: "/uploads/day-154-biden-voting-rights.jpg"
 todayInOneSentence: Senate Republicans blocked debate on the For the People Act; Sen.

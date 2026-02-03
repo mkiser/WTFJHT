@@ -8,6 +8,7 @@ tags:
 - civil-rights
 - supreme-court
 - cabinet
+- economy
 description: '"Boggles my mind."'
 image: "/uploads/day-1465-trump.jpg"
 todayInOneSentence: A federal judge in Seattle temporarily blocked Trump’s executive

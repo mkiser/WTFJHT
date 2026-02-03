@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - lawsuit
 - oversight
+- immigration
 description: '"Dire and perilous."'
 image: "/uploads/day1028biden.jpg"
 todayInOneSentence: With four days until a government shutdown, House Republicans,

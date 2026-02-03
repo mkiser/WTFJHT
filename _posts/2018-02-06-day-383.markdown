@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - government-shutdown
+- immigration
+- media
+- congress
 description: Total cooperation mode.
 image: "/uploads/383.jpg"
 ---

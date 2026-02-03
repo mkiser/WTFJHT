@@ -6,6 +6,7 @@ tags:
 - climate
 - immigration
 - corruption
+- economy
 description: '"Stupid people."'
 image: "/uploads/day1708trump.jpg"
 todayInOneSentence: In a combative 56-minute address to the United Nations General

@@ -6,6 +6,7 @@ tags:
 - foreign-policy
 - healthcare
 - trade
+- congress
 description: '"Daddy."'
 image: "/uploads/day1618-trump.jpg"
 todayInOneSentence: Trump will restrict classified briefings to Congress after a leaked

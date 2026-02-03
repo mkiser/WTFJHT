@@ -7,6 +7,8 @@ tags:
 - lgbtq-rights
 - russia
 - climate
+- immigration
+- mueller-investigation
 description: Hypothetical.
 image: "/uploads/733.jpg"
 todayInOneSentence: The Supreme Court granted the Trump administration's request to

@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - reproductive-rights
 - energy
+- climate
 description: '"We have a long road ahead."'
 image: "/uploads/day-1052-biden.jpg"
 todayInOneSentence: 'Prosecutors in the Georgia election fraud case signaled they''re

@@ -8,6 +8,7 @@ tags:
 - lawsuit
 - ethics
 - criminal-justice
+- supreme-court
 description: '"A mountain of undisputed evidence."'
 image: "/uploads/day-954-biden.jpg"
 todayInOneSentence: Trump pleaded not guilty to 13 felony charges alleging his role

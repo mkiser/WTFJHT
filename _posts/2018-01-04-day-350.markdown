@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - healthcare
 - energy
+- national-security
+- congress
 description: Cease and desist.
 image: "/uploads/350.jpg"
 ---

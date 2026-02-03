@@ -7,6 +7,8 @@ tags:
 - covid
 - economy
 - voting-rights
+- congress
+- protests
 description: '"Chaos as a consequence."'
 image: "/uploads/day-65-biden.jpg"
 todayInOneSentence: The Biden administration expects to distribute 200 million doses

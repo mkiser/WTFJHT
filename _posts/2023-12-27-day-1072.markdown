@@ -8,6 +8,7 @@ tags:
 - presidential-election
 - lawsuit
 - voting-rights
+- supreme-court
 description: '"Dictatorship," "revenge," and "power."'
 image: "/uploads/day-1072-b.jpg"
 todayInOneSentence: The Supreme Court rejected special counsel Jack Smith's request

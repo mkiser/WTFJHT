@@ -7,6 +7,8 @@ tags:
 - debate
 - disinformation
 - economy
+- media
+- voting-rights
 description: '"He cannot unite America."'
 image: "/uploads/day-1289-biden-harris.jpg"
 todayInOneSentence: 'Trump questioned Kamala Harris’ racial identity at the National

@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - sanctions
 - oversight
+- indictment
+- economy
 description: Principal conclusions.
 image: "/uploads/792.jpg"
 todayInOneSentence: Robert Mueller submitted his full report on Trump and Russia to

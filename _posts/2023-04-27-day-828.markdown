@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - lgbtq-rights
 - economy
+- congress
 description: '"This issue is too important."'
 image: "/uploads/day-828-biden.jpg"
 todayInOneSentence: Pence testified before the federal grand jury investigating Trump’s

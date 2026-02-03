@@ -6,6 +6,7 @@ tags:
 - judiciary
 - corruption
 - oversight
+- indictment
 description: '"Can we forget about this?"'
 image: "/uploads/day1675-trump.jpg"
 todayInOneSentence: The Supreme Court allowed the Trump administration to cut nearly

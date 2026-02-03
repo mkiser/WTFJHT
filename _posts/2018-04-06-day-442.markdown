@@ -8,6 +8,7 @@ tags:
 - national-security
 - tariffs
 - trade
+- congress
 description: TOTALLY under siege.
 image: "/uploads/442.jpg"
 ---

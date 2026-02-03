@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- ukraine
+- national-security
+- indictment
 description: '"He gave us no choice."'
 image: "/uploads/1063.jpg"
 todayInOneSentence: The House of Representatives voted to impeach Trump for abusing

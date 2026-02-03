@@ -7,6 +7,8 @@ tags:
 - russia
 - national-security
 - mueller-investigation
+- congress
+- tech-policy
 description: 'Big results. '
 image: "/uploads/545.jpg"
 todayInOneSentence: Trump said "no," he does not believe Russia is still targeting

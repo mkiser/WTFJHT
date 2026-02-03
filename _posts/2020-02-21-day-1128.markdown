@@ -6,6 +6,9 @@ categories:
 tags:
 - russia
 - disinformation
+- trade
+- covid
+- congress
 description: 'Presidential preference. '
 image: "/uploads/1128.jpg"
 todayInOneSentence: Trump dismissed the intelligence community's assessment that Russia

@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - national-security
 - voting-rights
+- congress
+- supreme-court
 description: '"I am your protector."'
 image: "/uploads/day-1345-biden-harris.jpg"
 todayInOneSentence: The House passed a short-term spending bill to avert a government

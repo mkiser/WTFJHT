@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - israel-palestine
 - immigration
+- congress
 description: '"Playing games."'
 image: "/uploads/day-1024-biden.jpg"
 todayInOneSentence: With eight days until a government shutdown, House Republicans

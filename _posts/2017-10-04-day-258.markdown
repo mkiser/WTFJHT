@@ -7,6 +7,8 @@ tags:
 - russia
 - disinformation
 - ethics
+- immigration
+- climate
 description: Moron.
 image: "/uploads/258.jpg"
 ---

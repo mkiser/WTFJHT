@@ -7,6 +7,8 @@ tags:
 - covid
 - corruption
 - china
+- congress
+- economy
 description: '"Just to see what would happen."'
 image: "/uploads/1191.jpg"
 todayInOneSentence: The death toll from the coronavirus pandemic surpassed 50,000

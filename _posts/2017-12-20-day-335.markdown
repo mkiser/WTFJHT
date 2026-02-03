@@ -6,6 +6,9 @@ categories:
 tags:
 - taxes
 - foreign-policy
+- congress
+- voting-rights
+- polling
 description: Taking names.
 image: "/uploads/335.jpg"
 ---

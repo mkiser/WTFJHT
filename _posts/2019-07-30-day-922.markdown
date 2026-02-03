@@ -7,6 +7,8 @@ tags:
 - national-security
 - foreign-policy
 - civil-rights
+- congress
+- immigration
 description: An emblem of hate.
 image: "/uploads/922.jpg"
 todayInOneSentence: Mitch McConnell defended his decision to block an election security

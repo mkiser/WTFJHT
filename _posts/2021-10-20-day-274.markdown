@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - economy
 - jan-6
+- congress
+- covid
 description: '"The same rotten core."'
 image: "/uploads/day-274-biden.jpg"
 todayInOneSentence: Senate Republicans blocked a federal voting rights bill for the

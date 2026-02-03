@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- congress
+- immigration
+- foreign-policy
 description: Possibly catastrophic.
 image: "/uploads/872.jpg"
 todayInOneSentence: The Justice Department agreed to provide Congress with "key evidence"

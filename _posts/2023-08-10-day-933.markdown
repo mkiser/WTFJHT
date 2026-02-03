@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - economy
 - trade
+- indictment
 description: '"Serious concern."'
 image: "/uploads/day-933-biden.jpg"
 todayInOneSentence: Supreme Court Justice Clarence Thomas accepted at least 38 vacations,

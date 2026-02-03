@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- covid
+- economy
+- mueller-investigation
+- national-security
 description: '"A very dangerous place."'
 image: "/uploads/1413.jpg"
 tag_excerpts:

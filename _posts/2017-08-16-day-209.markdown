@@ -7,6 +7,8 @@ tags:
 - protests
 - voting-rights
 - mueller-investigation
+- congress
+- tech-policy
 description: Stunned and disheartened.
 image: "/uploads/209.jpg"
 ---

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - immigration
+- media
+- supreme-court
+- oversight
 description: Too bombastic.
 image: "/uploads/235.jpg"
 author: Clayton Aldern

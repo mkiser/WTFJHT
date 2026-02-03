@@ -8,6 +8,7 @@ tags:
 - immigration
 - national-security
 - taxes
+- economy
 description: '"A beautiful day."'
 image: "/uploads/day98-biden.jpg"
 todayInOneSentence: Americans fully vaccinated against the coronavirus no longer need

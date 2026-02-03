@@ -8,6 +8,7 @@ tags:
 - government-shutdown
 - russia
 - national-security
+- congress
 description: Big fat hoax.
 image: "/uploads/725.jpg"
 todayInOneSentence: The FBI opened a counterintelligence investigation into whether

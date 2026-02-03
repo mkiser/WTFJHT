@@ -8,6 +8,7 @@ tags:
 - energy
 - infrastructure
 - ethics
+- congress
 description: '"Lead the way."'
 image: "/uploads/day1045biden.jpg"
 todayInOneSentence: The United Nations World Meteorological Organization declared

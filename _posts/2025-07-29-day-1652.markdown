@@ -6,6 +6,7 @@ tags:
 - judiciary
 - gun-policy
 - corruption
+- israel-palestine
 description: '"A dagger."'
 image: "/uploads/day1652trump.jpg"
 todayInOneSentence: 'The Trump administration moved to repeal the scientific finding

@@ -7,6 +7,8 @@ tags:
 - covid
 - corruption
 - china
+- media
+- voting-rights
 description: '"Honestly, I''m really in charge."'
 image: "/uploads/1197.jpg"
 todayInOneSentence: Another 3.8 million Americans filed for first-time unemployment

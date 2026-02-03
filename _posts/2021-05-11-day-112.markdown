@@ -7,6 +7,8 @@ tags:
 - covid
 - healthcare
 - energy
+- economy
+- labor
 description: '"A lifeline."'
 image: "/uploads/112-biden.jpg"
 todayInOneSentence: The FDA authorized Pfizer's coronavirus vaccine for children ages

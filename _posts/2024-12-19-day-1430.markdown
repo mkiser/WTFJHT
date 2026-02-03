@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - economy
 - presidential-election
+- congress
+- indictment
 description: '"A deeply unserious party."'
 image: "/uploads/day-1430-biden-harris.jpg"
 todayInOneSentence: Trump killed the bipartisan spending deal to avert a shutdown,

@@ -6,6 +6,7 @@ tags:
 - ukraine
 - israel-palestine
 - immigration
+- judiciary
 description: '"This is just the beginning."'
 image: "/uploads/day1519-trump.jpg"
 todayInOneSentence: 'A federal judge ruled that Elon Musk’s attempt to unilaterally

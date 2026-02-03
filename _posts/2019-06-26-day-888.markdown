@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- congress
+- immigration
+- foreign-policy
 description: Terminated.
 image: "/uploads/888.jpg"
 todayInOneSentence: Robert Mueller agreed to testify in July; Trump attacked Mueller

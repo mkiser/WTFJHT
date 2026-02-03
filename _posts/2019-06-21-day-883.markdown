@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - oversight
+- media
+- mueller-investigation
+- russia
 description: '"Cocked and loaded."'
 image: "/uploads/883.jpg"
 todayInOneSentence: Trump authorized a retaliatory military strike on Iran but called

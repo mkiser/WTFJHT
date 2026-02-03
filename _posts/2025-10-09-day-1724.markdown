@@ -6,6 +6,7 @@ tags:
 - national-security
 - judiciary
 - corruption
+- congress
 description: '"Simply unreliable."'
 image: "/uploads/day1724trump.jpg"
 todayInOneSentence: Trump threatened to use the ongoing government shutdown, now in

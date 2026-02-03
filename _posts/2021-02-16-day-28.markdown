@@ -7,6 +7,8 @@ tags:
 - jan-6
 - oversight
 - economy
+- covid
+- congress
 description: '"Get to the truth."'
 image: "/uploads/28-days-biden.jpg"
 todayInOneSentence: The chairman of the House Homeland Security Committee sued Trump,

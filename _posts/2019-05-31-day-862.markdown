@@ -7,6 +7,8 @@ tags:
 - trade
 - immigration
 - oversight
+- mueller-investigation
+- congress
 description: A colossal blunder.
 image: "/uploads/862.jpg"
 todayInOneSentence: Trump threatened to impose a 5% tariff on all Mexican goods; Republicans

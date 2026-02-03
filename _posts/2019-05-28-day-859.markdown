@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - congress
 - foreign-policy
+- national-security
+- indictment
 description: '"False narrative."'
 image: "/uploads/859.jpg"
 todayInOneSentence: Mueller reportedly drafted a three-count obstruction of justice

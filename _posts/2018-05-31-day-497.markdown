@@ -6,6 +6,9 @@ categories:
 tags:
 - pardon
 - mueller-investigation
+- media
+- oversight
+- voting-rights
 description: Third-party status.
 image: "/uploads/497.jpg"
 tag_excerpts:

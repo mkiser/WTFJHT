@@ -7,6 +7,8 @@ tags:
 - healthcare
 - executive-order
 - national-security
+- climate
+- congress
 description: Trump Vs. Everybody.
 image: "/uploads/266.jpg"
 ---

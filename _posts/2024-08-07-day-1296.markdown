@@ -7,6 +7,8 @@ tags:
 - presidential-election
 - indictment
 - classified-documents
+- voting-rights
+- tech-policy
 description: '"Bringing back the joy."'
 image: "/uploads/day-1296-biden-harris.jpg"
 todayInOneSentence: Minnesota Gov. Tim Walz introduced himself as Kamala Harris’ running

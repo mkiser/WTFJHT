@@ -8,6 +8,7 @@ tags:
 - ukraine
 - sanctions
 - criminal-justice
+- indictment
 description: '"Share the pain."'
 image: "/uploads/day-399-biden.jpg"
 todayInOneSentence: Biden announced “the first tranche” of new sanctions against Russia

@@ -7,6 +7,8 @@ tags:
 - tariffs
 - economy
 - impeachment
+- congress
+- national-security
 description: Dramatic impact.
 image: "/uploads/924.jpg"
 todayInOneSentence: Trump unexpectedly announced that he will impose a new 10% tariff

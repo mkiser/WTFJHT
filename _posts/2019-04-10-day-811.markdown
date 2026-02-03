@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - russia
 - oversight
+- national-security
+- congress
 description: Genesis.
 image: "/uploads/811.jpg"
 todayInOneSentence: Attorney General William Barr assembled a team to examine the

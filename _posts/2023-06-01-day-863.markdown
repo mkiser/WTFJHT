@@ -8,6 +8,7 @@ tags:
 - education
 - climate
 - housing
+- congress
 description: '"Time is a luxury."'
 image: "/uploads/day-863-biden.jpg"
 todayInOneSentence: A group of Republicans threatened to delay plans to fast-track

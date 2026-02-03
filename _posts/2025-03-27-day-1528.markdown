@@ -5,6 +5,8 @@ tags:
 - healthcare
 - tariffs
 - tech-policy
+- congress
+- national-security
 description: '"It’s not a big deal."'
 image: "/uploads/day-1528-trump.jpg"
 todayInOneSentence: The Department of Health and Human Services will cut 10,000 jobs;

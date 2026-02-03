@@ -8,6 +8,7 @@ tags:
 - lgbtq-rights
 - indictment
 - presidential-election
+- congress
 description: '"Clarifying."'
 image: "/uploads/day1133biden.jpg"
 todayInOneSentence: Alabama lawmakers are considering “clarifying” legislation that

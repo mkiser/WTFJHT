@@ -6,6 +6,7 @@ tags:
 - healthcare
 - judiciary
 - media
+- israel-palestine
 description: '"Maybe they’ll have to go after you."'
 image: "/uploads/day1701trump.jpg"
 todayInOneSentence: House Republicans released a stopgap bill to fund the government

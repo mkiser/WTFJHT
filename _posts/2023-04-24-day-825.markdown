@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - supreme-court
 - climate
+- covid
 description: '"We thank him for his service."'
 image: "/uploads/day-825-biden.jpg"
 todayInOneSentence: 'Fox News parted ways with Tucker Carlson, effective immediately;

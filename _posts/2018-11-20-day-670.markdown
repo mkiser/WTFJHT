@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - mueller-investigation
 - immigration
+- congress
+- oversight
 description: Steadfast.
 image: uploads/670.jpg
 todayInOneSentence: Trump won't take action against Saudi Arabia or Crown Prince Mohammed

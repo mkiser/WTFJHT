@@ -6,6 +6,9 @@ categories:
 tags:
 - pardon
 - impeachment
+- indictment
+- immigration
+- media
 description: '"Maximum level."'
 image: "/uploads/day-1423-biden-trum.jpg"
 todayInOneSentence: Trump pledged to use the first hours of his second presidency

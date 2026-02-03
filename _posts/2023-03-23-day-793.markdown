@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - lgbtq-rights
 - healthcare
+- congress
 description: '"False expectations."'
 image: "/uploads/day-793-biden.jpg"
 todayInOneSentence: The Manhattan grand jury hearing evidence about Trump’s role in

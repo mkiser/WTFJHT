@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - oversight
+- voting-rights
+- congress
+- lawsuit
 description: Credible and urgent.
 image: "/uploads/973.jpg"
 todayInOneSentence: The whistleblower complaint by an intelligence officer was triggered

@@ -8,6 +8,7 @@ tags:
 - indictment
 - national-security
 - corruption
+- media
 description: '"Brink of collapse."'
 image: "/uploads/biden-786-day.jpg"
 todayInOneSentence: The Biden administration threatened to ban TikTok if the app's

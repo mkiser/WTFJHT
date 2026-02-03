@@ -6,6 +6,7 @@ tags:
 - education
 - supreme-court
 - lgbtq-rights
+- immigration
 description: '"The Constitution requires more."'
 image: "/uploads/day1556-trump.jpg"
 todayInOneSentence: A federal judge blocked part of Trump’s executive order that would

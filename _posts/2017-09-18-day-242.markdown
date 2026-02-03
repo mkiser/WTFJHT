@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - national-security
 - climate
+- foreign-policy
+- congress
 description: Rocket man.
 image: "/uploads/242.jpg"
 author: Clayton Aldern

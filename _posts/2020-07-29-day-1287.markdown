@@ -10,6 +10,12 @@ todayInOneSentence: More than 150,000 people have died in the United States from
   that baselessly claimed that there is a "cure" for the coronavirus; Trump falsely
   claimed that large portions of the U.S. are "corona-free"; and Trump wondered aloud
   why "nobody likes me."
+tags:
+- covid
+- immigration
+- media
+- national-security
+- tech-policy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

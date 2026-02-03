@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- media
+- ukraine
+- congress
+- oversight
 description: '"It doesn''t matter."'
 image: "/uploads/977.jpg"
 todayInOneSentence: Trump admitted that he discussed getting dirt on Joe Biden with

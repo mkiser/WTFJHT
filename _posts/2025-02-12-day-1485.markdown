@@ -6,6 +6,7 @@ tags:
 - foreign-policy
 - nomination
 - economy
+- congress
 description: '"What democracy is all about."'
 image: "/uploads/day-1485-trump.jpg"
 todayInOneSentence: 'Elon Musk, standing behind the Resolute Desk with Trump in the

@@ -8,6 +8,7 @@ tags:
 - oversight
 - corruption
 - national-security
+- congress
 description: '"Why don''t I just fire Mueller?"'
 image: "/uploads/446.jpg"
 ---

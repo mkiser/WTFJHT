@@ -8,6 +8,7 @@ tags:
 - climate
 - energy
 - economy
+- voting-rights
 description: '"Greatest external threat."'
 image: "/uploads/day09520biden.jpg"
 todayInOneSentence: 'The Biden administration named the first 10 medicines that will

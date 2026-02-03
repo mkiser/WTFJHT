@@ -8,6 +8,7 @@ tags:
 - climate
 - economy
 - civil-rights
+- housing
 description: '"Deplorable and dangerous."'
 image: "/uploads/day-569-biden.jpg"
 todayInOneSentence: A group of historians warned Biden that the current moment in

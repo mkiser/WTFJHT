@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - media
 - oversight
+- congress
+- national-security
 description: '"A gross abuse of power."'
 image: "/uploads/143-biden-trump.jpg"
 todayInOneSentence: Attorney General Merrick Garland pledged to double the size of

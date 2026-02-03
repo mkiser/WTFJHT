@@ -7,6 +7,8 @@ tags:
 - immigration
 - civil-rights
 - disinformation
+- congress
+- supreme-court
 description: '"The least racist person."'
 image: "/uploads/929.jpg"
 todayInOneSentence: Trump attacked Obama after the former president called on Americans

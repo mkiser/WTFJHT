@@ -7,6 +7,8 @@ tags:
 - education
 - classified-documents
 - jan-6
+- congress
+- judiciary
 description: '"Simply by saying so."'
 image: "/uploads/day-664-biden.jpg"
 todayInOneSentence: Democrats won the Senate while Republicans appear on track for

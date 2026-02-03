@@ -6,6 +6,7 @@ tags:
 - immigration
 - tariffs
 - impeachment
+- economy
 description: '"We have to get our children educated."'
 image: "/uploads/day1521-trump.jpg"
 todayInOneSentence: Trump signed an executive order to "eliminate" the Department

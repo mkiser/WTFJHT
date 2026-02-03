@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - foreign-policy
 - climate
+- congress
+- russia
 description: Innocuous.
 image: "/uploads/245.jpg"
 author: Clayton Aldern

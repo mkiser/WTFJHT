@@ -8,6 +8,7 @@ tags:
 - jan-6
 - supreme-court
 - voting-rights
+- oversight
 description: '"More bad news for the planet."'
 image: "/uploads/day-645-biden.jpg"
 todayInOneSentence: Earth’s on track to warm above 2 degrees Celsius and  global reductions

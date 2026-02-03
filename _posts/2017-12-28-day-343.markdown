@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - disinformation
 - voting-rights
+- congress
+- resignation
 description: 'Back to work. '
 image: "/uploads/343.jpg"
 ---

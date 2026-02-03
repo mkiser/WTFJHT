@@ -7,6 +7,8 @@ tags:
 - healthcare
 - voting-rights
 - covid
+- congress
+- education
 description: '"This is a big fucking deal."'
 image: "/uploads/day-149-biden.jpg"
 todayInOneSentence: The Supreme Court upheld the Affordable Care Act for the third

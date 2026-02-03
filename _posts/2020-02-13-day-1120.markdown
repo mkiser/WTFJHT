@@ -6,6 +6,9 @@ categories:
 tags:
 - indictment
 - oversight
+- congress
+- mueller-investigation
+- national-security
 description: Impossible.
 image: "/uploads/1120.jpg"
 todayInOneSentence: Attorney General Bill Barr said Trump's "constant background commentary"

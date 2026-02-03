@@ -517,7 +517,14 @@ div.topic-date {
   padding: 1rem;
 
   &__heading {
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
+  }
+
+  &__summary {
+    color: #444;
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
   }
 
   &__count {

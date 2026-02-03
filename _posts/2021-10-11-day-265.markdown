@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - immigration
 - corruption
+- covid
 description: '"Failures."'
 image: "/uploads/265-biden.jpg"
 todayInOneSentence: A Capitol Police whistleblower accused the agency’s two senior

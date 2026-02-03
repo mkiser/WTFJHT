@@ -8,6 +8,7 @@ tags:
 - economy
 - indictment
 - lawsuit
+- congress
 description: '"Credibility problems."'
 image: "/uploads/biden-day-813.jpg"
 todayInOneSentence: 'The EPA proposed tougher tailpipe emissions limits that could

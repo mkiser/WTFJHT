@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - corruption
 - foreign-policy
+- congress
+- russia
 description: Damage.
 image: "/uploads/727.jpg"
 todayInOneSentence: The government shutdown is causing more economic damage than previously

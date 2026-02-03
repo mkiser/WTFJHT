@@ -7,6 +7,8 @@ tags:
 - covid
 - congress
 - economy
+- labor
+- national-security
 description: '"Critical to maintaining national security."'
 image: "/uploads/1161.jpg"
 todayInOneSentence: Senators reached an agreement on a $2 trillion stimulus package

@@ -7,6 +7,8 @@ tags:
 - jan-6
 - infrastructure
 - gun-policy
+- congress
+- economy
 description: '"No excuse."'
 image: "/uploads/day-128-biden.jpg"
 todayInOneSentence: Senate Republicans are expected to use the filibuster to block

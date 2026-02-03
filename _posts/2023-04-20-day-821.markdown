@@ -8,6 +8,7 @@ tags:
 - voting-rights
 - ethics
 - lgbtq-rights
+- education
 description: '"Great."'
 image: "/uploads/day-821-biden.jpg"
 todayInOneSentence: 'An arbitration panel ordered the MyPillow Guy to pay $5 million

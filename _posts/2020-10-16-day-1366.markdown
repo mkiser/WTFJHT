@@ -14,6 +14,12 @@ todayInOneSentence: The U.S. passed 8 million coronavirus cases three weeks afte
   in instead of a second presidential debate;  and Trump earnestly shared a story
   from a satirical news site claiming that Twitter had “shut down its entire social
   network” to stop the spread of negative news about Biden.
+tags:
+- covid
+- economy
+- national-security
+- mueller-investigation
+- voting-rights
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

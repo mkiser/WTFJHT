@@ -8,6 +8,7 @@ tags:
 - primary
 - indictment
 - jan-6
+- congress
 description: '"The nominee."'
 image: "/uploads/day1101biden.jpg"
 todayInOneSentence: Trump threatened anyone who donates to Nikki Haley "will be permanently

@@ -6,6 +6,9 @@ categories:
 tags:
 - oversight
 - mueller-investigation
+- education
+- media
+- nomination
 description: Grandstanding.
 image: "/uploads/663.jpg"
 todayInOneSentence: CNN sued Trump to restore Jim Acosta's access to the White House;

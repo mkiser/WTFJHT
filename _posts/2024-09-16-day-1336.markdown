@@ -6,6 +6,9 @@ categories:
 tags:
 - presidential-election
 - national-security
+- voting-rights
+- indictment
+- supreme-court
 description: '"A piece of garbage."'
 image: "/uploads/day-1336-biden-harris.jpg"
 todayInOneSentence: A man waited with a rifle for 12 hours at Trump’s golf course

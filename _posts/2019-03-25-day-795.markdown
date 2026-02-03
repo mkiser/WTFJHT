@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - congress
 - judiciary
+- israel-palestine
+- russia
 description: No conclusion.
 image: "/uploads/795.jpg"
 todayInOneSentence: Attorney General William Barr concluded that Robert Mueller's

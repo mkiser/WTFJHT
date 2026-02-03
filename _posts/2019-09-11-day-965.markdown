@@ -6,6 +6,9 @@ categories:
 tags:
 - disinformation
 - oversight
+- economy
+- polling
+- tech-policy
 description: Boneheads.
 image: "/uploads/965.jpg"
 todayInOneSentence: Trump ordered his staff to have NOAA repudiate a tweet by weather

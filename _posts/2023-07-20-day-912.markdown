@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- voting-rights
+- supreme-court
+- judiciary
+- congress
 description: '"Personal benefit."'
 image: "/uploads/day-912-biden.jpg"
 todayInOneSentence: The Senate Judiciary Committee advanced legislation that would

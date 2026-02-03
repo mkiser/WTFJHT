@@ -8,6 +8,7 @@ tags:
 - census
 - covid
 - russia
+- congress
 description: '"We''re going to vote."'
 image: "/uploads/day-364-biden.jpg"
 todayInOneSentence: The Senate started debate on voting rights legislation even though

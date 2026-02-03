@@ -8,6 +8,7 @@ tags:
 - energy
 - lawsuit
 - jan-6
+- voting-rights
 description: '"We have a responsibility."'
 image: "/uploads/day-960-biden.jpg"
 todayInOneSentence: Biden canceled all seven Trump-issued oil and gas leases in Alaska’s

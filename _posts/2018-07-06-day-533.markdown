@@ -7,6 +7,8 @@ tags:
 - immigration
 - trade
 - tariffs
+- protests
+- national-security
 description: Totally prepared.
 image: "/uploads/533.jpg"
 todayInOneSentence: 'Trump mocked the #MeToo movement; challenged Elizabeth Warren

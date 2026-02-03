@@ -7,6 +7,8 @@ tags:
 - presidential-election
 - jan-6
 - israel-palestine
+- indictment
+- supreme-court
 description: '"Such chaos."'
 image: "/uploads/day1140biden.jpg"
 todayInOneSentence: 'The Supreme Court unanimously reversed the Colorado Supreme Court

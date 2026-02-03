@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - subpoena
 - jan-6
+- indictment
 description: '"Misrepresentations."'
 image: "/uploads/day-961-biden.jpg"
 todayInOneSentence: 'Fulton County District Attorney Fani Willis accused Jim Jordan

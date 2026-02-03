@@ -7,6 +7,8 @@ tags:
 - covid
 - oversight
 - corruption
+- economy
+- congress
 description: '"Too naive or too stupid."'
 image: "/uploads/1174.jpg"
 todayInOneSentence: Trump removed the Pentagon’s acting inspector general, who was

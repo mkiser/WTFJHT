@@ -7,6 +7,8 @@ tags:
 - immigration
 - judiciary
 - trade
+- congress
+- voting-rights
 description: A flawed legal premise.
 image: "/uploads/356.jpg"
 ---

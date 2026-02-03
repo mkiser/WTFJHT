@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - voting-rights
 - presidential-election
+- congress
+- israel-palestine
 description: '"Balance of power."'
 image: "/uploads/day-1343-biden-harris.jpg"
 todayInOneSentence: The House unveiled a bipartisan spending bill to temporarily fund

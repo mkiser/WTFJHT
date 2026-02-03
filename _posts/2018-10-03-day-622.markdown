@@ -6,6 +6,9 @@ categories:
 tags:
 - supreme-court
 - oversight
+- congress
+- foreign-policy
+- mueller-investigation
 description: Appalling.
 image: "/uploads/622.jpg"
 todayInOneSentence: 'The FBI hasn''t interviewed Brett Kavanaugh or Christine Blasey

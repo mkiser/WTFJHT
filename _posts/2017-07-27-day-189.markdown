@@ -7,6 +7,8 @@ tags:
 - lgbtq-rights
 - healthcare
 - mueller-investigation
+- congress
+- media
 description: No modifications.
 image: "/uploads/189.jpg"
 ---

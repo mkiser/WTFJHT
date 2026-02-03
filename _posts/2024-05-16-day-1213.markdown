@@ -6,6 +6,9 @@ categories:
 tags:
 - classified-documents
 - climate
+- congress
+- supreme-court
+- media
 description: '"Restoring sanity."'
 image: "/uploads/day-1213-biden.jpg"
 todayInOneSentence: Biden asserted executive privilege over the audio of his interview

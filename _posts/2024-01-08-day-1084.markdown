@@ -8,6 +8,7 @@ tags:
 - jan-6
 - reproductive-rights
 - government-shutdown
+- indictment
 description: '"Fair notice."'
 image: "/uploads/1084bidenday.jpg"
 todayInOneSentence: The Supreme Court agreed to review the Colorado Supreme Court’s

@@ -6,6 +6,7 @@ tags:
 - economy
 - ukraine
 - government-shutdown
+- immigration
 description: '"Detox period."'
 image: "/uploads/day-1511-trump.jpg"
 todayInOneSentence: 'Trump declined to rule out a recession, but instead called the

@@ -8,6 +8,7 @@ tags:
 - oversight
 - presidential-election
 - jan-6
+- indictment
 description: '"The situation remains catastrophic."'
 image: "/uploads/day-1043-biden.jpg"
 todayInOneSentence: 'The truce between Israel and Hamas entered its fifth day after

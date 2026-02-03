@@ -6,6 +6,7 @@ tags:
 - voting-rights
 - tariffs
 - debt-ceiling
+- immigration
 description: '"Listening to what our community needs and cares about."'
 image: "/uploads/day-1527-trump.jpg"
 todayInOneSentence: The Supreme Court upheld federal regulations on “ghost guns”;

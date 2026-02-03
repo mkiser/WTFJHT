@@ -7,6 +7,8 @@ tags:
 - trade
 - immigration
 - corruption
+- economy
+- supreme-court
 description: 'Totally screwed. '
 image: "/uploads/526.jpg"
 todayInOneSentence: Trump wants the US to withdraw from the World Trade Organization;

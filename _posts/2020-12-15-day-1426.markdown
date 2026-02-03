@@ -7,6 +7,8 @@ tags:
 - covid
 - presidential-election
 - corruption
+- congress
+- national-security
 description: '"A modicum of grace and dignity."'
 image: "/uploads/1426.jpg"
 todayInOneSentence: The FDA confirmed that Moderna's two-dose COVID-19 vaccine was

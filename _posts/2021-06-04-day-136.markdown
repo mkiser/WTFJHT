@@ -7,6 +7,8 @@ tags:
 - economy
 - covid
 - judiciary
+- tech-policy
+- civil-rights
 description: '"This is progress."'
 image: "/uploads/day-136-biden.jpg"
 todayInOneSentence: The economy added 559,000 jobs last month; CDC Director Rochelle

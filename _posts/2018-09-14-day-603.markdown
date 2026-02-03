@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - supreme-court
 - israel-palestine
+- congress
+- voting-rights
 description: Full cooperation.
 image: "/uploads/day-603.png"
 todayInOneSentence: Manafort pleaded guilty to conspiracy and agreed to fully cooperate

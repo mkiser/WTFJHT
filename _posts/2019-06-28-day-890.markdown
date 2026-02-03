@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - oversight
+- congress
+- media
+- russia
 description: Reluctantly.
 image: "/uploads/890.jpg"
 todayInOneSentence: The House passed a $4.6 billion emergency spending bill for the

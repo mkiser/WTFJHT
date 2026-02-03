@@ -8,6 +8,7 @@ tags:
 - covid
 - infrastructure
 - debt-ceiling
+- congress
 description: '"Flu-like symptoms."'
 image: "/uploads/day-195-080221.jpg"
 todayInOneSentence: A third D.C. police officer who responded to the 1/6 insurrection

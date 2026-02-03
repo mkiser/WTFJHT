@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - lgbtq-rights
 - gun-policy
+- education
 description: '"Morale, welfare, and recreation."'
 image: "/uploads/day-560-biden.jpg"
 todayInOneSentence: The U.S. killed al Qaeda leader Ayman Al-Zawahri in a drone strike;

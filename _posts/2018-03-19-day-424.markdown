@@ -8,6 +8,7 @@ tags:
 - judiciary
 - disinformation
 - corruption
+- congress
 description: Brilliant and courageous.
 image: "/uploads/424.jpg"
 ---

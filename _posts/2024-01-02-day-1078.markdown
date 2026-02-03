@@ -8,6 +8,7 @@ tags:
 - presidential-election
 - voting-rights
 - israel-palestine
+- congress
 description: '"Of course."'
 image: "/uploads/day-1078-biden.jpg"
 todayInOneSentence: Maine’s secretary of state removed Trump from the state’s presidential

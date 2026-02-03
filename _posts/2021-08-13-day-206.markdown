@@ -7,6 +7,8 @@ tags:
 - russia
 - covid
 - congress
+- education
+- infrastructure
 description: Moderates.
 image: "/uploads/day-206-081321.jpg"
 todayInOneSentence: Russia is once again trying to interfere in U.S. elections; the

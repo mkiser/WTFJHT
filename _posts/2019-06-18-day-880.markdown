@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - oversight
+- media
+- economy
+- mueller-investigation
 description: Let's see.
 image: "/uploads/880.jpg"
 todayInOneSentence: Trump threatened to arrest and deport "millions of illegal aliens"

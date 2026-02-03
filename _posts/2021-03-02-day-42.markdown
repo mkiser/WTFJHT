@@ -7,6 +7,8 @@ tags:
 - covid
 - jan-6
 - voting-rights
+- media
+- protests
 description: '"It''s not going away anytime soon."'
 image: "/uploads/42-biden.jpg"
 todayInOneSentence: 'The U.S. expects to have a large enough supply of coronavirus

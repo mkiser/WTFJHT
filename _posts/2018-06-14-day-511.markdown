@@ -7,6 +7,8 @@ tags:
 - lawsuit
 - corruption
 - mueller-investigation
+- voting-rights
+- oversight
 description: Persistent illegal conduct.
 image: "/uploads/511.jpg"
 ---

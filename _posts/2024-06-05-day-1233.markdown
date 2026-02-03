@@ -7,6 +7,8 @@ tags:
 - indictment
 - classified-documents
 - reproductive-rights
+- congress
+- national-security
 description: '"It’s going to have to happen to them."'
 image: "/uploads/day-1233-biden-trump.jpg"
 todayInOneSentence: 'Convicted felon Trump – again – suggested that he’d prosecute

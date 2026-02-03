@@ -6,6 +6,7 @@ tags:
 - criminal-justice
 - media
 - foreign-policy
+- israel-palestine
 description: '"That is un-American."'
 image: "/uploads/day1709trump.jpg"
 todayInOneSentence: A shooter opened fire from a nearby rooftop at a Dallas ICE field

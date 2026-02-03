@@ -7,6 +7,8 @@ tags:
 - corruption
 - mueller-investigation
 - immigration
+- national-security
+- congress
 description: Breakdown-level anxiety.
 image: "/uploads/817.jpg"
 todayInOneSentence: House Democrats subpoenaed Deutsche Bank for Trump's personal

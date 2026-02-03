@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - healthcare
 - corruption
+- voting-rights
 description: '"Looking at alternatives."'
 image: "/uploads/day-1042biden.jpg"
 todayInOneSentence: Biden won’t attend the United Nations climate summit in Dubai;

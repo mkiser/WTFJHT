@@ -7,6 +7,8 @@ tags:
 - presidential-election
 - voting-rights
 - labor
+- economy
+- protests
 description: '"Do something."'
 image: "/uploads/day-1310-biden-harris.jpg"
 todayInOneSentence: Barack and Michelle Obama delivered back-to-back speeches on the

@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - reproductive-rights
 - immigration
+- climate
 description: '"On the verge of complete failure."'
 image: "/uploads/day-1056-biden-trump.jpg"
 todayInOneSentence: Special counsel Jack Smith urged the Supreme Court to immediately

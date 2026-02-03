@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - covid
 - jan-6
+- national-security
+- education
 description: '"The forever war."'
 image: "/uploads/day-223-083021.jpg"
 todayInOneSentence: The U.S. completed its withdrawal from Afghanistan; The U.S. averaged

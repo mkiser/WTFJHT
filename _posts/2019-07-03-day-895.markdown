@@ -7,6 +7,8 @@ tags:
 - immigration
 - census
 - mueller-investigation
+- national-security
+- congress
 description: Moving forward.
 image: "/uploads/895.jpg"
 todayInOneSentence: A report from found the squalid conditions at migrant detention

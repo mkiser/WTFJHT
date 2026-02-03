@@ -8,6 +8,7 @@ tags:
 - energy
 - reproductive-rights
 - jan-6
+- economy
 description: '"The Senate is making history."'
 image: "/uploads/day-566-biden.jpg"
 todayInOneSentence: 'The Senate passed the largest investment in U.S. history to counter

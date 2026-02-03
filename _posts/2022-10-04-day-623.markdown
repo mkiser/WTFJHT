@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - media
 - lawsuit
+- labor
 description: '"We must change course."'
 image: "/uploads/day-623-biden.jpg"
 todayInOneSentence: The United Nations warned that the world is “on the edge of a

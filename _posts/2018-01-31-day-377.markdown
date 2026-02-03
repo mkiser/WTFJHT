@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - state-of-the-union
+- national-security
+- oversight
+- climate
 description: Grave concerns.
 image: "/uploads/377.jpg"
 ---

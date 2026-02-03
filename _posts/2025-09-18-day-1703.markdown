@@ -6,6 +6,7 @@ tags:
 - judiciary
 - oversight
 - corruption
+- congress
 description: '"We''re not done yet."'
 image: "/uploads/day1703trump.jpg"
 todayInOneSentence: 'FCC Chairman Brendan Carr threatened ABC stations with “remedies”

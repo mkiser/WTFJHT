@@ -8,6 +8,7 @@ tags:
 - climate
 - china
 - corruption
+- covid
 description: '"Seriousness and urgency."'
 image: "/uploads/day-90-biden.jpg"
 todayInOneSentence: The White House abruptly reversed course on the number of refugees

@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - pardon
 - reproductive-rights
+- indictment
+- congress
 description: Infinitely better.
 image: "/uploads/764.jpg"
 todayInOneSentence: Mueller's sentencing memorandum is due to today in the prosecution

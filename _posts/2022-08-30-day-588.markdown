@@ -8,6 +8,7 @@ tags:
 - education
 - economy
 - corruption
+- labor
 description: '"The minimal solution."'
 image: "/uploads/day-588-biden.jpg"
 todayInOneSentence: Weather models are warning of a "very dangerous" and "prolonged

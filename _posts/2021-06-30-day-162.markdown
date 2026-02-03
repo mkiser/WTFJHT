@@ -7,6 +7,8 @@ tags:
 - jan-6
 - housing
 - indictment
+- congress
+- covid
 description: '"A more stable and secure world."'
 image: "/uploads/day-162-biden.jpg"
 todayInOneSentence: The House voted to establish a 13-member committee to investigate

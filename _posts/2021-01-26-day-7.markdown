@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- immigration
+- congress
+- supreme-court
 description: '"Down into the gutter of rancor and vitriol."'
 image: "/uploads/binde-harris-day-7.jpg"
 todayInOneSentence: Global Covid-19 cases topped 100 million; the Biden administration

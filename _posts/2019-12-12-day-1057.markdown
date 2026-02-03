@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- oversight
+- ukraine
+- national-security
 description: Crazy.
 image: "/uploads/1057.jpg"
 todayInOneSentence: After more than eight hours of impeachment debate, the House Judiciary

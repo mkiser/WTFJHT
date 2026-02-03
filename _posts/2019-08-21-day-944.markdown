@@ -7,6 +7,8 @@ tags:
 - immigration
 - civil-rights
 - foreign-policy
+- economy
+- voting-rights
 description: Absurd.
 image: "/uploads/944.jpg"
 todayInOneSentence: The Trump administration will terminate the 20-day cap for detaining

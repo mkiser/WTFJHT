@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- indictment
+- national-security
+- protests
 description: '"The Framers'' worst nightmare."'
 image: "/uploads/1096.jpg"
 todayInOneSentence: The Senate impeachment trial is set to begin tomorrow; Trump's

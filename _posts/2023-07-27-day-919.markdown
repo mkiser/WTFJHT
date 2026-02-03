@@ -8,6 +8,7 @@ tags:
 - presidential-election
 - economy
 - energy
+- congress
 description: '"Productive."'
 image: "/uploads/day-919-biden.jpg"
 todayInOneSentence: 'Trump''s attorneys met with prosecutors from special counsel

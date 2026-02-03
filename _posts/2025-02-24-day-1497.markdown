@@ -6,6 +6,7 @@ tags:
 - ukraine
 - immigration
 - tariffs
+- labor
 description: '"Moment of truth."'
 image: "/uploads/day-1497-trump.jpg"
 todayInOneSentence: 'The U.S. voted against a U.N. resolution condemning Russia’s

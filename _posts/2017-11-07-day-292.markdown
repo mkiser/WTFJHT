@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - gun-policy
 - climate
+- congress
+- national-security
 description: Incredible insights.
 image: "/uploads/292.jpg"
 ---

@@ -7,6 +7,8 @@ tags:
 - national-security
 - classified-documents
 - presidential-election
+- indictment
+- nomination
 description: '"I''m not supposed to be here."'
 image: "/uploads/day-1273-biden.jpg"
 todayInOneSentence: 'What we know about the Trump assassination attempt so far; Biden

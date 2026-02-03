@@ -6,6 +6,9 @@ categories:
 tags:
 - indictment
 - supreme-court
+- voting-rights
+- polling
+- criminal-justice
 description: '"The American people must decide."'
 image: "/uploads/day-1260-biden.jpg"
 todayInOneSentence: Biden denounced the Supreme Court's decision to grant convicted

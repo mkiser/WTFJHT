@@ -5,8 +5,10 @@ categories:
 - trump
 tags:
 - russia
-- election-interference
+- disinformation
 - mueller-investigation
+- national-security
+- congress
 description: 'An incredible offer. '
 image: "/uploads/546.jpg"
 todayInOneSentence: Two weeks before his inauguration, Trump was briefed that Putin

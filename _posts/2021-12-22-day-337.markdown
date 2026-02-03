@@ -7,6 +7,8 @@ tags:
 - healthcare
 - covid
 - jan-6
+- lawsuit
+- congress
 description: '"It checks all the boxes."'
 image: "/uploads/day-337-122221.jpg"
 todayInOneSentence: The Biden administration extended the pause on federal student

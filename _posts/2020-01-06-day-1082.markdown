@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- immigration
+- mueller-investigation
+- congress
+- media
 description: Get this done.
 image: "/uploads/1082.jpg"
 todayInOneSentence: 'Former national security adviser John Bolton said he is "prepared

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - corruption
+- oversight
+- indictment
+- criminal-justice
 description: Gaming the system.
 image: "/uploads/783.jpg"
 ---

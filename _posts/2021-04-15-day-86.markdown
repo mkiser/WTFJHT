@@ -8,6 +8,7 @@ tags:
 - disinformation
 - russia
 - immigration
+- congress
 description: '"Disinformation and interference."'
 image: "/uploads/day-86-biden.jpg"
 todayInOneSentence: The Biden administration imposed sanctions on Russia; Paul Manafort's

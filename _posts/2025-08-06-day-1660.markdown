@@ -6,6 +6,7 @@ tags:
 - tech-policy
 - foreign-policy
 - healthcare
+- covid
 description: '"They don’t care."'
 image: "/uploads/day1660trump.jpg"
 todayInOneSentence: Trump threatened to impose a 100% tariff on all semiconductor

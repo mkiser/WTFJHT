@@ -6,6 +6,7 @@ tags:
 - government-shutdown
 - healthcare
 - congress
+- national-security
 description: '"Tyranny has already arrived."'
 image: "/uploads/day1737trump.jpg"
 todayInOneSentence: 'Arizona Attorney General Kris Mayes sued the House in federal

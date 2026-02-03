@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- media
+- congress
+- economy
 description: Always good to be prepared.
 image: "/uploads/957.jpg"
 todayInOneSentence: The House Judiciary Committee is preparing to investigate Trump's

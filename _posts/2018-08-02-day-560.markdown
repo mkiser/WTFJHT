@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - russia
 - sanctions
+- congress
+- national-security
 description: 'A low point. '
 image: "/uploads/560.jpg"
 todayInOneSentence: Mueller offered to reduce the number of obstruction of justice-related

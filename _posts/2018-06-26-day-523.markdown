@@ -7,6 +7,8 @@ tags:
 - supreme-court
 - mueller-investigation
 - reproductive-rights
+- tech-policy
+- national-security
 description: 'Common ground. '
 image: "/uploads/523.jpg"
 todayInOneSentence: The Supreme Court upheld the third iteration of Trump's travel

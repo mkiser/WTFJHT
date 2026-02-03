@@ -7,6 +7,8 @@ tags:
 - healthcare
 - immigration
 - indictment
+- covid
+- russia
 description: '"The path of progress."'
 image: "/uploads/153-biden.jpg"
 todayInOneSentence: Nearly 10 million Americans enrolled in Medicaid during the coronavirus

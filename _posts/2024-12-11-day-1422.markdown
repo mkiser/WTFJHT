@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- national-security
+- congress
+- lgbtq-rights
+- economy
 description: '"Focus on our mission."'
 tag_excerpts:
   pardon: 22% of Americans approve of Biden’s decision to pardon his son Hunter.

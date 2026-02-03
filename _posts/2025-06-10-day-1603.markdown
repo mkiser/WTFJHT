@@ -6,6 +6,7 @@ tags:
 - immigration
 - economy
 - protests
+- voting-rights
 description: '"This is what America voted for."'
 image: "/uploads/day1603trump.jpg"
 todayInOneSentence: 'Trump deployed 700 Marines and ordered 2,000 more National Guard

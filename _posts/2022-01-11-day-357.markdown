@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - covid
 - reproductive-rights
+- congress
+- national-security
 description: '"This is the moment."'
 image: "/uploads/day-357-biden.jpg"
 todayInOneSentence: Biden endorsed "getting rid of the filibuster" in order to pass

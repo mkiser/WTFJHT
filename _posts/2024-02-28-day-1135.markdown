@@ -8,6 +8,7 @@ tags:
 - supreme-court
 - indictment
 - presidential-election
+- congress
 description: '"Bait."'
 image: "/uploads/day1135biden.jpg"
 todayInOneSentence: 'Mitch McConnell will step down as the Senate Republican leader

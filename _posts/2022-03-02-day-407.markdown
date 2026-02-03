@@ -8,6 +8,7 @@ tags:
 - ukraine
 - state-of-the-union
 - covid
+- congress
 description: '"Badly miscalculated."'
 image: "/uploads/day-407-03022022.png"
 todayInOneSentence: Biden gave his first State of the Union address, which covered

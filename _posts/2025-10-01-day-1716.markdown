@@ -6,6 +6,7 @@ tags:
 - healthcare
 - economy
 - oversight
+- labor
 description: '"Consequential."'
 image: "/uploads/day1716trump.jpg"
 todayInOneSentence: 'The federal government shut down after Trump and Republicans

@@ -6,6 +6,7 @@ tags:
 - tariffs
 - foreign-policy
 - tech-policy
+- congress
 description: '"Hubristic and senseless."'
 image: "/uploads/day1631trump.jpg"
 todayInOneSentence: 'The Supreme Court allowed Trump to proceed with firing tens of

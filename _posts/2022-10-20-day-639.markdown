@@ -8,6 +8,7 @@ tags:
 - jan-6
 - judiciary
 - voting-rights
+- supreme-court
 description: '"Democracy is working well."'
 image: "/uploads/day-639-biden.jpg"
 todayInOneSentence: Supreme Court Justice Amy Coney Barrett rejected a challenge to

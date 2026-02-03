@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- covid
+- congress
+- jan-6
+- resignation
 description: '"Incitement of insurrection."'
 image: "/uploads/1450.jpg"
 todayInOneSentence: House Democrats plan to introduce articles of impeachment against

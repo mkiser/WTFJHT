@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - russia
+- media
+- indictment
+- cabinet
 description: Inadequate.
 image: "/uploads/819.jpg"
 ---

@@ -7,6 +7,8 @@ tags:
 - lgbtq-rights
 - jan-6
 - economy
+- congress
+- classified-documents
 description: '"Point of no return."'
 image: "/uploads/day-693-biden.jpg"
 todayInOneSentence: Biden signed into law a bipartisan bill that codifies same-sex

@@ -14,6 +14,12 @@ todayInOneSentence: Negotiations over a new coronavirus relief package failed af
   and "prefers" that he not win reelection; and in 2017, Trump's advisers were hesitant
   to give him military options amid escalating tensions with both North Korea and
   Iran fearing he might accidentally take the U.S. to war.
+tags:
+- covid
+- economy
+- education
+- tech-policy
+- national-security
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

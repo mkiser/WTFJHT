@@ -6,6 +6,7 @@ tags:
 - foreign-policy
 - ukraine
 - economy
+- congress
 description: '"Defective."'
 image: "/uploads/day1770trump.jpg"
 todayInOneSentence: 'A federal judge ruled that interim U.S. attorney Lindsey Halligan

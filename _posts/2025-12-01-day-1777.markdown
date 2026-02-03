@@ -6,6 +6,7 @@ tags:
 - immigration
 - judiciary
 - oversight
+- congress
 description: '"Perfectly normal."'
 image: "/uploads/day1777trump.jpg"
 todayInOneSentence: 'The White House said Navy Adm. Frank Bradley ordered a second

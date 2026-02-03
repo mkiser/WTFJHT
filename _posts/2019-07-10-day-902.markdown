@@ -7,6 +7,8 @@ tags:
 - immigration
 - ethics
 - economy
+- congress
+- trade
 description: A worthwhile cause.
 image: "/uploads/902.jpg"
 todayInOneSentence: Migrant children at an overcrowded detention facility in Arizona

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- voting-rights
+- indictment
+- immigration
+- media
 description: Desperate.
 image: "/uploads/1127.jpg"
 tag_excerpts:

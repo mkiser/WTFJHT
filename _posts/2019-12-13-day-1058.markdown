@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- oversight
+- mueller-investigation
+- national-security
 description: '"No chance."'
 image: "/uploads/1058.jpg"
 todayInOneSentence: The House Judiciary Committee voted to advance two articles of

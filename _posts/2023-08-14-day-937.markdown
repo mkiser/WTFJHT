@@ -7,6 +7,8 @@ tags:
 - climate
 - jan-6
 - classified-documents
+- indictment
+- economy
 description: '"Special treatment."'
 image: "/uploads/day-937-biden.jpg"
 todayInOneSentence: A Montana judge ruled that the state's oil and gas policies failed

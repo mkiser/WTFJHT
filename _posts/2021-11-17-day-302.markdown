@@ -7,6 +7,8 @@ tags:
 - jan-6
 - oversight
 - covid
+- indictment
+- voting-rights
 description: '"We must draw the line."'
 image: "/uploads/302-biden.jpg"
 todayInOneSentence: The House voted to censure Rep. Paul Gosar for posting an animated

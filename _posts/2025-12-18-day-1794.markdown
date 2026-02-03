@@ -6,6 +6,7 @@ tags:
 - healthcare
 - presidential-election
 - congress
+- voting-rights
 description: '"Does this help us win?"'
 image: "/uploads/day1794trump.jpg"
 todayInOneSentence: 'Trump used an 18-minute prime time address to the nation largely

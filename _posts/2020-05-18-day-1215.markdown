@@ -14,6 +14,12 @@ todayInOneSentence: The first coronavirus vaccine to be tested in people appears
   to help prop up large segments of the U.S. economy has barely lent any money; and
   cellphone location data suggests that demonstrators at anti-lockdown protests may
   have spread coronavirus hundreds of miles.
+tags:
+- covid
+- oversight
+- congress
+- protests
+- economy
 ---
 
 * ### 🔥 Daily Damage Report.

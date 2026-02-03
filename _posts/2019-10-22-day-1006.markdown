@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- oversight
+- media
+- foreign-policy
 description: Direct line.
 image: "/uploads/1006.jpg"
 todayInOneSentence: The top U.S. diplomat in Ukraine told House impeachment investigators

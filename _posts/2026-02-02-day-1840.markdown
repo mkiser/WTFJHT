@@ -19,6 +19,12 @@ podcast:
   file: "/uploads/Day 1840 An unfolding emergency.mp3"
   duration: '00:07:04'
   length: 6785610
+tags:
+- voting-rights
+- congress
+- economy
+- indictment
+- mueller-investigation
 ---
 
 1/ **The partial federal government shutdown entered its third day after funding lapsed Saturday morning, and the House still doesn’t have the votes needed to pass the Senate-approved bill to reopen agencies**. The Senate measure would fund most of the government through the end of the fiscal year and extend Department of Homeland Security funding for two weeks. House Democrats, however, said they won’t help fast-track it and Speaker Mike Johnson has faced internal resistance from Republicans demanding changes, even as Trump warned that there can be “NO CHANGES at this time.” With Democrats withholding procedural votes, Johnson can only afford one Republican defection. Meaning, if two Republicans vote no, or one defects and another is absent, the bill will fail without Democratic support. The shutdown has already delayed the January jobs report and other labor market data until funding is restored. ([ABC News](https://abcnews.go.com/Politics/graham-blockade-stalls-government-funding-deal-hours-shutdown/story?id=129712452) / [Politico](https://www.politico.com/live-updates/2026/02/02/congress/mike-johnson-save-act-spending-00760523) / [Washington Post](https://www.washingtonpost.com/politics/2026/02/02/house-gop-funding-bill/) / [New York Times](https://www.nytimes.com/2026/02/02/us/politics/government-shutdown-deal.html) / [CNN](https://www.cnn.com/2026/02/02/economy/us-shutdown-january-jobs-report-bls) / [CNBC](https://www.cnbc.com/2026/02/02/fridays-jobs-report-will-be-delayed-because-of-the-partial-government-shutdown.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-02/january-jobs-report-will-be-delayed-due-to-shutdown-bls-says) / [Wall Street Journal](https://www.wsj.com/politics/policy/federal-shutdown-delays-fridays-jobs-report-5397e815) / [Axios](https://www.axios.com/2026/02/02/jobs-report-postponed-shutdown))

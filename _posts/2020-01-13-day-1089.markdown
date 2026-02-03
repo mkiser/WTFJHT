@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- national-security
+- congress
+- foreign-policy
+- economy
 description: Interpretations.
 image: "/uploads/1089.jpg"
 todayInOneSentence: 'Defense Secretary Mark Esper "didn''t see" intelligence backing

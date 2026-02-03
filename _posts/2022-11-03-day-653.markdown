@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - social-security
 - classified-documents
+- polling
+- economy
 description: '"A defining moment."'
 image: "/uploads/day-653-biden.jpg"
 todayInOneSentence: Biden called the midterms "a defining moment" for democracy; Obama

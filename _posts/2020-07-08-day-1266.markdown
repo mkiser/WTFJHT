@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- education
+- covid
+- healthcare
+- lawsuit
 description: '"A campaign of bullying, intimidation, and retaliation."'
 image: "/uploads/1266.jpg"
 todayInOneSentence: Trump threatened to cut federal funding if schools don't fully

@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - jan-6
 - judiciary
+- subpoena
 description: '"Appalling and unacceptable."'
 image: "/uploads/day-643-biden.jpg"
 todayInOneSentence: 'Fourth- and eighth-graders in most states and across almost all

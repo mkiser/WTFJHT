@@ -5,6 +5,8 @@ tags:
 - tariffs
 - economy
 - tech-policy
+- congress
+- trade
 description: '"Trump has chosen to blow up the system."'
 image: "/uploads/day-1534-trump.jpg"
 todayInOneSentence: Trump imposed a 10% blanket tariff on all U.S. imports and steeper

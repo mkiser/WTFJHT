@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - mueller-investigation
 - climate
+- national-security
+- congress
 description: A credible account.
 image: "/uploads/721.jpg"
 todayInOneSentence: Mitch McConnell blocked two bills to re-open the government; the

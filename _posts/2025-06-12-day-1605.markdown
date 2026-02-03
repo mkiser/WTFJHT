@@ -6,6 +6,7 @@ tags:
 - economy
 - immigration
 - polling
+- labor
 description: '"Trump and his shock troops are out of control."'
 image: "/uploads/day1605trump.jpg"
 todayInOneSentence: 'House Republicans’ tax and spending bill would cut $1,600 a year

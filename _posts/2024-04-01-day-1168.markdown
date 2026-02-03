@@ -7,6 +7,8 @@ tags:
 - israel-palestine
 - media
 - disinformation
+- congress
+- jan-6
 description: '"Outrageous and abhorrent."'
 image: "/uploads/day-1168-biden.jpg"
 todayInOneSentence: The Biden administration authorized another weapons transfer to

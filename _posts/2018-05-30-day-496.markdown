@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - national-security
+- media
+- immigration
+- china
 description: '"An absolute, total tool."'
 image: "/uploads/496.jpg"
 author: Joe Amditis

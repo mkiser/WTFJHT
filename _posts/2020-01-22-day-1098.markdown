@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- economy
+- national-security
+- tech-policy
+- congress
 description: '"Protect our democracy."'
 image: "/uploads/1098.jpg"
 todayInOneSentence: House Democratic managers began formal arguments in Trump's  Senate

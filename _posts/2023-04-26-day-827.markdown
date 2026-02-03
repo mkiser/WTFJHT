@@ -8,6 +8,7 @@ tags:
 - ethics
 - judiciary
 - indictment
+- congress
 description: '"Mundane matters."'
 image: "/uploads/day-827-biden.jpg"
 todayInOneSentence: Chief Justice John Roberts declined to testify before the Senate

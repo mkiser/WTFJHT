@@ -8,6 +8,7 @@ tags:
 - energy
 - jan-6
 - indictment
+- congress
 description: '"We''re all going to die."'
 image: "/uploads/day-545-biden.jpg"
 todayInOneSentence: Joe Manchin abandoned negotiations with Democrats on an economic

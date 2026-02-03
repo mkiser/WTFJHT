@@ -6,6 +6,9 @@ categories:
 tags:
 - covid
 - oversight
+- immigration
+- veterans
+- economy
 description: Muzzled.
 image: "/uploads/1134.jpg"
 todayInOneSentence: A whistleblower alleges that the Department of Health and Human

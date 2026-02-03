@@ -6,6 +6,7 @@ tags:
 - healthcare
 - tariffs
 - polling
+- israel-palestine
 description: '"A new beginning."'
 image: "/uploads/day1728trump.jpg"
 todayInOneSentence: The Trump administration fired more than 4,000 employees across

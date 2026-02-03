@@ -6,6 +6,9 @@ categories:
 tags:
 - tech-policy
 - taxes
+- congress
+- national-security
+- voting-rights
 description: 'Break the internet. '
 image: "/uploads/329.jpg"
 ---

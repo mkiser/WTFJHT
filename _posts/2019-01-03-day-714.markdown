@@ -8,6 +8,7 @@ tags:
 - congress
 - indictment
 - russia
+- national-security
 description: Foolish.
 image: "/uploads/714.jpg"
 todayInOneSentence: The partial government shutdown stretched into its 13th day; the

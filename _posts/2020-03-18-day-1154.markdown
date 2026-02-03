@@ -6,6 +6,9 @@ categories:
 tags:
 - covid
 - economy
+- labor
+- congress
+- media
 description: '"Just in case we need it."'
 image: "/uploads/1154.jpg"
 todayInOneSentence: The Senate approved a coronavirus relief package; Treasury Secretary

@@ -9,6 +9,12 @@ todayInOneSentence: The United States coronavirus cases set new a daily record; 
   almost took responsibility for his administration's failure on COVID-19 during the
   second and final debate; and the Trump administration pressured the CDC to support
   the use of hotels to hold migrant children before deporting them.
+tags:
+- covid
+- healthcare
+- protests
+- immigration
+- economy
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

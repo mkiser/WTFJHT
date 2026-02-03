@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- indictment
+- covid
+- media
+- voting-rights
 description: '"Donald Trump hasn''t grown into the job because he can''t."'
 image: "/uploads/1309.jpg"
 tag_excerpts:

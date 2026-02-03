@@ -7,6 +7,8 @@ tags:
 - taxes
 - national-security
 - disinformation
+- immigration
+- congress
 description: Pettiness.
 image: "/uploads/313.jpg"
 ---

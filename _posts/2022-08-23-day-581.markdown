@@ -8,6 +8,7 @@ tags:
 - jan-6
 - civil-rights
 - education
+- indictment
 description: '"Mine."'
 image: "/uploads/day-581-biden.jpg"
 todayInOneSentence: The National Archives said it found more than 700 pages of classified

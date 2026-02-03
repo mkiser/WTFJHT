@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - midterm-election
+- voting-rights
+- national-security
+- congress
+- polling
 description: Political stunt.
 image: "/uploads/655.jpg"
 todayInOneSentence: Democrats are expected to take control of the House of Representatives

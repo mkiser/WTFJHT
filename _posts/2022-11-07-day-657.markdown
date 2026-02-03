@@ -7,6 +7,8 @@ tags:
 - climate
 - voting-rights
 - disinformation
+- russia
+- tech-policy
 description: '"Chronicle of chaos."'
 image: "/uploads/day-657-biden.jpg"
 todayInOneSentence: 'Earth is on track to see its 5th or 6th warmest year on record

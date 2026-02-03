@@ -7,6 +7,8 @@ tags:
 - immigration
 - housing
 - ethics
+- congress
+- voting-rights
 description: 'Virtually unexplained. '
 image: "/uploads/461.jpg"
 ---

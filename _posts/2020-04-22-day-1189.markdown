@@ -7,6 +7,8 @@ tags:
 - covid
 - oversight
 - corruption
+- economy
+- national-security
 description: '"Dangerous and provocative."'
 image: "/uploads/1189.jpg"
 todayInOneSentence: The director of the federal agency responsible for developing

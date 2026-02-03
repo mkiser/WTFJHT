@@ -7,6 +7,8 @@ tags:
 - national-security
 - infrastructure
 - lgbtq-rights
+- economy
+- congress
 description: Ready, larger, and more lethal.
 image: "/uploads/389.jpg"
 ---

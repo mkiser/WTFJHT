@@ -8,6 +8,7 @@ tags:
 - national-security
 - russia
 - disinformation
+- congress
 description: An act of pure evil.
 image: "/uploads/256.jpg"
 ---

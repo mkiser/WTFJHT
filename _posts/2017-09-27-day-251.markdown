@@ -7,6 +7,8 @@ tags:
 - taxes
 - immigration
 - disinformation
+- media
+- tech-policy
 description: Middle class miracle.
 image: "/uploads/251.jpg"
 ---

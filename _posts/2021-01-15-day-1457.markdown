@@ -6,6 +6,9 @@ categories:
 tags:
 - jan-6
 - covid
+- protests
+- media
+- indictment
 description: '"Justice is coming."'
 image: "/uploads/1457.jpg"
 todayInOneSentence: Federal prosecutors said there was "strong evidence" the pro-Trump

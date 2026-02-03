@@ -7,6 +7,8 @@ tags:
 - oversight
 - corruption
 - mueller-investigation
+- taxes
+- russia
 description: Tougher direction.
 image: "/uploads/806.jpg"
 todayInOneSentence: Trump asked Mitch McConnell to prioritize confirming the chief

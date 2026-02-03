@@ -8,6 +8,7 @@ tags:
 - infrastructure
 - gun-policy
 - foreign-policy
+- healthcare
 description: '"Good faith negotiations."'
 image: "/uploads/78-biden-days.jpg"
 todayInOneSentence: The CDC said the coronavirus variant first identified in the U.K.

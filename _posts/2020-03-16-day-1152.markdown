@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - covid
+- economy
+- indictment
+- nomination
+- congress
 description: '"This is bad."'
 image: "/uploads/1152.jpg"
 todayInOneSentence: Trump recommended all Americans avoid groups for 10 or more people,

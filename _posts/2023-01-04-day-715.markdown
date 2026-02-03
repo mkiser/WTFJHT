@@ -7,6 +7,8 @@ tags:
 - congress
 - reproductive-rights
 - covid
+- voting-rights
+- healthcare
 description: '"Not my problem."'
 image: "/uploads/Day-715-Biden.jpg"
 todayInOneSentence: House Republicans, despite being in the majority, were unable

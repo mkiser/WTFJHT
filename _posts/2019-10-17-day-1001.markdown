@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- foreign-policy
+- ukraine
+- congress
+- media
 description: '"Get over it."'
 image: "/uploads/1001.jpg"
 todayInOneSentence: Mick Mulvaney confirmed that Trump blocked military aid to Ukraine

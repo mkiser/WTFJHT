@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- ukraine
+- oversight
+- foreign-policy
 description: A colorful distraction.
 image: "/uploads/1103.jpg"
 todayInOneSentence: Trump’s team continued with their opening statements, arguing

@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - oversight
+- national-security
+- ukraine
+- cabinet
 description: '"At the express direction of the president of the United States."'
 image: "/uploads/1035.jpg"
 todayInOneSentence: The U.S. ambassador to the European Union testified that he and

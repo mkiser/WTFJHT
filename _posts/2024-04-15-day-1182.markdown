@@ -7,6 +7,8 @@ tags:
 - indictment
 - israel-palestine
 - civil-rights
+- supreme-court
+- protests
 description: '"Take the win."'
 image: "/uploads/day-1182-biden.jpg"
 todayInOneSentence: 'Jury selection in Trump’s criminal hush money trial began, marking

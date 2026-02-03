@@ -8,6 +8,7 @@ tags:
 - education
 - tech-policy
 - ethics
+- congress
 description: '"They will cost us a lot more in the future."'
 image: "/uploads/1015biden.jpg"
 todayInOneSentence: 'Speaker Mike Johnson and House Republicans unveiled a $14.3 billion

@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- economy
+- lgbtq-rights
+- supreme-court
+- indictment
 description: '"A heated fight."'
 image: "/uploads/day-513-biden.jpg"
 tag_excerpts:

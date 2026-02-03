@@ -5,6 +5,8 @@ tags:
 - immigration
 - impeachment
 - economy
+- gun-policy
+- covid
 description: '"A very good job."'
 image: "/uploads/day1834trump.jpg"
 todayInOneSentence: 'Trump said he’ll be “watching over” an “honest investigation”

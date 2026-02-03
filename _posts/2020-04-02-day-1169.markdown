@@ -7,6 +7,8 @@ tags:
 - covid
 - economy
 - oversight
+- congress
+- national-security
 description: '"Here we go again."'
 image: "/uploads/1169.jpg"
 todayInOneSentence: More than 6.6 million Americans applied for unemployment benefits

@@ -6,6 +6,9 @@ categories:
 tags:
 - national-security
 - foreign-policy
+- immigration
+- israel-palestine
+- judiciary
 description: The ultimate deal.
 image: "/uploads/959.jpg"
 todayInOneSentence: The Pentagon will divert funding from military construction projects

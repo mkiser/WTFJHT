@@ -7,6 +7,8 @@ tags:
 - russia
 - immigration
 - foreign-policy
+- congress
+- polling
 description: Seriously flawed.
 image: "/uploads/195.jpg"
 ---

@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- congress
+- labor
+- immigration
 description: '"The gravest damage."'
 image: "/uploads/biden-harris-day-2.jpg"
 todayInOneSentence: Biden marked the start of his presidency by signing or finalizing

@@ -6,6 +6,9 @@ categories:
 tags:
 - lawsuit
 - israel-palestine
+- criminal-justice
+- mueller-investigation
+- indictment
 description: '"Not serving as a deterrent."'
 image: "/uploads/day-1203-biden.jpg"
 todayInOneSentence: Judge Juan Merchan threatened Trump with jail and fined him $1,000

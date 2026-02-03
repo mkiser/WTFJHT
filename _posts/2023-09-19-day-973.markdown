@@ -8,6 +8,7 @@ tags:
 - ukraine
 - government-shutdown
 - impeachment
+- congress
 description: '"Lots of luck."'
 image: "/uploads/day-973-biden.jpg"
 todayInOneSentence: 'Biden and Ukrainian President Volodymyr Zelensky called on world

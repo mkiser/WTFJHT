@@ -7,6 +7,8 @@ tags:
 - debt-ceiling
 - classified-documents
 - reproductive-rights
+- congress
+- economy
 description: '"No margin for error."'
 image: "/uploads/day-862-biden.jpg"
 todayInOneSentence: The bipartisan deal to suspend the debt ceiling and limit federal

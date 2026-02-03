@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- media
+- ukraine
+- oversight
+- foreign-policy
 description: '"The investigations."'
 image: "/uploads/1028.jpg"
 todayInOneSentence: The first public hearings in the Trump impeachment inquiry started

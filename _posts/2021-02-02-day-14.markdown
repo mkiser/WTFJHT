@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- congress
+- national-security
+- voting-rights
 description: '"Moral failing."'
 image: "/uploads/biden-harris-14.jpg"
 todayInOneSentence: House impeachment managers accused Trump of whipping the crowd

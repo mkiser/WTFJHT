@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - supreme-court
+- congress
+- mueller-investigation
+- media
+- nomination
 description: '"I am terrified."'
 image: "/uploads/616.jpg"
 todayInOneSentence: Christine Blasey Ford testified that she is "100%" certain that

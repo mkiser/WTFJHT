@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - oversight
+- media
+- mueller-investigation
+- nomination
 description: Restraint.
 image: "/uploads/886.jpg"
 todayInOneSentence: Trump signed an executive order imposing new sanctions on Iran;

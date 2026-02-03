@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- oversight
+- indictment
+- ukraine
 description: Meltdown.
 image: "/uploads/1000.jpg"
 todayInOneSentence: The White House is conducting its own investigation into why a

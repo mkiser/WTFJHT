@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- ukraine
+- oversight
+- congress
 description: Clear and present danger.
 image: "/uploads/1048.jpg"
 todayInOneSentence: The House Intelligence Committee concluded that Trump tried to

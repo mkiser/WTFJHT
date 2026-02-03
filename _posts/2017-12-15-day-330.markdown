@@ -7,6 +7,8 @@ tags:
 - taxes
 - pardon
 - healthcare
+- tech-policy
+- mueller-investigation
 description: Shame.
 image: "/uploads/330.jpg"
 ---

@@ -8,6 +8,7 @@ tags:
 - economy
 - jan-6
 - corruption
+- congress
 description: '"Now the real work begins."'
 image: "/uploads/day-575-biden.jpg"
 todayInOneSentence: The director of the CDC announced a restructuring of the agency

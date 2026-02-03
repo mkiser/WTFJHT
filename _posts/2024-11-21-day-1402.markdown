@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - doge
+- israel-palestine
+- congress
+- national-security
+- voting-rights
 description: '"A wonderful future."'
 image: "/uploads/day-1402-biden-harris-trump.jpg"
 tag_excerpts:

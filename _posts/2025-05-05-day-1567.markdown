@@ -6,6 +6,7 @@ tags:
 - national-security
 - foreign-policy
 - healthcare
+- israel-palestine
 description: '"The best, safest and most cost-effective way."'
 image: "/uploads/day-1567-trump.jpg"
 todayInOneSentence: 'Trump said he doesn’t know if he’s required to uphold the Constitution

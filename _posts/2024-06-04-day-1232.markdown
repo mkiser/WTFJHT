@@ -7,6 +7,8 @@ tags:
 - jan-6
 - immigration
 - israel-palestine
+- congress
+- indictment
 description: '"Will not be intimidated."'
 image: "/uploads/day-1232-biden.jpg"
 todayInOneSentence: 'Wisconsin charged three people involved in the “fake elector”

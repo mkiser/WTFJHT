@@ -7,6 +7,8 @@ tags:
 - indictment
 - jan-6
 - classified-documents
+- media
+- national-security
 description: '"A culture of fraud and deception."'
 image: "/uploads/day-686-biden.jpg"
 todayInOneSentence: The Trump organization was found guilty on all 17 counts of criminal

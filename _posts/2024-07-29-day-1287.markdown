@@ -6,6 +6,9 @@ categories:
 tags:
 - supreme-court
 - tech-policy
+- voting-rights
+- polling
+- congress
 description: '"It''ll be fine."'
 image: "/uploads/day-1287-biden-harris.jpg"
 todayInOneSentence: 'Biden called for a constitutional amendment to reform the Supreme

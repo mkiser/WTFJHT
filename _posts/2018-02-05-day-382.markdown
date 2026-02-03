@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - voting-rights
+- congress
+- national-security
+- mueller-investigation
 description: A total waste of time.
 image: "/uploads/382.jpg"
 ---

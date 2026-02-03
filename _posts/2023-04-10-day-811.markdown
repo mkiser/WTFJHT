@@ -8,6 +8,7 @@ tags:
 - gun-policy
 - ethics
 - supreme-court
+- judiciary
 description: '"Extraordinary and unprecedented."'
 image: "/uploads/day-811-biden.jpg"
 todayInOneSentence: 'The Biden administration appealed a ruling by a federal judge

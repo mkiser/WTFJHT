@@ -7,6 +7,8 @@ tags:
 - covid
 - jan-6
 - foreign-policy
+- congress
+- veterans
 description: Mandate.
 image: "/uploads/day-188-072621.jpg"
 todayInOneSentence: The VA issued a vaccine mandate for all healthcare workers; Biden

@@ -7,6 +7,8 @@ tags:
 - oversight
 - mueller-investigation
 - corruption
+- congress
+- taxes
 description: 'Not inclined. '
 image: "/uploads/804.jpg"
 todayInOneSentence: House Democrats formally requested six years of Trump's personal

@@ -6,6 +6,9 @@ categories:
 tags:
 - national-security
 - immigration
+- media
+- russia
+- mueller-investigation
 description: '"They''re not innocent."'
 image: "/uploads/490.jpg"
 todayInOneSentence: Trump canceled the North Korean nuclear summit; he said migrant

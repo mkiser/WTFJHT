@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - economy
 - covid
+- congress
 description: '"Ain’t going to happen."'
 image: "/uploads/biden-day-255-infrastructure.jpg"
 todayInOneSentence: Biden signed a short-term spending bill to keep the government

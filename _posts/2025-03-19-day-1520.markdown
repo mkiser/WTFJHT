@@ -6,6 +6,7 @@ tags:
 - ukraine
 - israel-palestine
 - social-security
+- economy
 description: '"Common sense."'
 image: "/uploads/day-1520-trump.jpg"
 todayInOneSentence: 'A federal judge blocked Trump’s executive order banning transgender

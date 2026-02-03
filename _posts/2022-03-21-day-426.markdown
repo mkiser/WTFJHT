@@ -7,6 +7,8 @@ tags:
 - nomination
 - supreme-court
 - russia
+- congress
+- oversight
 description: '"Civility and grace."'
 image: "/uploads/day-426-biden.jpg"
 todayInOneSentence: 'The Senate Judiciary Committee held the first day of confirmation

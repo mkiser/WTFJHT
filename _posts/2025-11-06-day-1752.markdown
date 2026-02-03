@@ -6,6 +6,7 @@ tags:
 - healthcare
 - economy
 - national-security
+- congress
 description: '"Falling behind."'
 image: "/uploads/day1752trump.jpg"
 todayInOneSentence: 'A federal judge ordered the Trump administration to fully fund

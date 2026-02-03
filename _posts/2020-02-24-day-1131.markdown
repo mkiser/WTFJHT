@@ -6,6 +6,9 @@ categories:
 tags:
 - disinformation
 - covid
+- national-security
+- media
+- mueller-investigation
 description: Snakes.
 image: "/uploads/1131.jpg"
 todayInOneSentence: Trump's national security advisor disputed reports of Russian

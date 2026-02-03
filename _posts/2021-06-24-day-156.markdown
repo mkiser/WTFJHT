@@ -7,6 +7,8 @@ tags:
 - infrastructure
 - jan-6
 - housing
+- congress
+- national-security
 description: '"Root causes."'
 image: "/uploads/day-156-biden.jpg"
 todayInOneSentence: Biden agreed to a bipartisan infrastructure deal; the chairman

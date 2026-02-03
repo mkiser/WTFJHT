@@ -6,6 +6,7 @@ tags:
 - pardon
 - foreign-policy
 - ukraine
+- immigration
 description: '"Massive, uncontrolled, unchecked power."'
 image: "/uploads/day1784trump.jpg"
 todayInOneSentence: The Supreme Court appeared ready to make it easier for Trump to

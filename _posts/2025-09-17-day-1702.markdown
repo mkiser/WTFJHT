@@ -6,6 +6,7 @@ tags:
 - economy
 - voting-rights
 - oversight
+- congress
 description: '"It’s not incredibly obvious what to do."'
 image: "/uploads/day1702trump.jpg"
 todayInOneSentence: Former CDC director Susan Monarez told senators she was fired

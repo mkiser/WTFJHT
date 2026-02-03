@@ -7,6 +7,8 @@ tags:
 - special-election
 - civil-rights
 - voting-rights
+- congress
+- mueller-investigation
 description: 'Sexist smear. '
 image: "/uploads/327.jpg"
 ---

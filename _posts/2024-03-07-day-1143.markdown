@@ -7,6 +7,8 @@ tags:
 - israel-palestine
 - national-security
 - climate
+- foreign-policy
+- voting-rights
 description: '"We''re not waiting."'
 image: "/uploads/day1143biden.jpg"
 todayInOneSentence: 'Biden will order the U.S. military to build a temporary port

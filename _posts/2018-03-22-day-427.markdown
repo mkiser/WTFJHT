@@ -8,6 +8,7 @@ tags:
 - tariffs
 - trade
 - opioids
+- congress
 description: Another one bites the dust.
 image: "/uploads/427.jpg"
 ---

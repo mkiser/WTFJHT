@@ -6,6 +6,9 @@ categories:
 tags:
 - jan-6
 - national-security
+- voting-rights
+- economy
+- congress
 description: '"The illegality was obvious."'
 image: "/uploads/day433-biden.jpg"
 todayInOneSentence: 'A federal judge asserted that Trump "more likely than not" committed

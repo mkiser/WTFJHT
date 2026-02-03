@@ -8,6 +8,7 @@ tags:
 - economy
 - labor
 - jan-6
+- congress
 description: '"The stakes are high."'
 image: "/uploads/day-350-biden.jpg"
 todayInOneSentence: The U.S. reported more than 1 million new Covid-19 infections;

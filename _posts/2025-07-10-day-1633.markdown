@@ -6,6 +6,7 @@ tags:
 - immigration
 - judiciary
 - oversight
+- national-security
 description: '"Absolutely trash."'
 image: "/uploads/day1633trump.jpg"
 todayInOneSentence: A federal judge blocked Trump’s executive order ending birthright

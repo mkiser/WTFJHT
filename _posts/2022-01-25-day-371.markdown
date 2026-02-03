@@ -8,6 +8,7 @@ tags:
 - russia
 - ukraine
 - indictment
+- media
 description: '"Profound concern."'
 image: "/uploads/day-371-biden.jpg"
 todayInOneSentence: The seven-day average of Covid-19 deaths reached 2,188 a day;

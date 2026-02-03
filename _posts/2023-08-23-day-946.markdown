@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - reproductive-rights
 - debate
+- media
 description: '"Very, very honored."'
 image: "/uploads/day-946-biden.jpg"
 todayInOneSentence: 'Rudy Giuliani surrendered to Georgia authorities and was booked

@@ -12,6 +12,12 @@ todayInOneSentence: Coronavirus deaths in the U.S. could reach 200,000 by early 
   and Trump will hold a campaign rally on Juneteenth, a holiday marking the emancipation
   of slaves, in Tulsa, Oklahoma, the site of the 1921 massacre of hundreds of African
   Americans.
+tags:
+- covid
+- protests
+- national-security
+- congress
+- economy
 ---
 
 * ### 😷 Dept. of We Have It Totally Under Control.

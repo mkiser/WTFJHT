@@ -6,6 +6,7 @@ tags:
 - tariffs
 - economy
 - social-security
+- congress
 description: '"The essence of the American dream."'
 image: "/uploads/day-1507-trump.jpg"
 todayInOneSentence: 'Trump is preparing an executive order directing Education Secretary

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- mueller-investigation
+- civil-rights
+- national-security
 description: 'Smell ya later. '
 image: "/uploads/211.jpg"
 ---

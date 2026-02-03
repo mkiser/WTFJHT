@@ -6,6 +6,9 @@ categories:
 tags:
 - jan-6
 - special-election
+- protests
+- covid
+- voting-rights
 description: '"Death spiral."'
 image: "/uploads/1448.jpg"
 todayInOneSentence: Pence rejected Trump's demand to block certification of Biden's

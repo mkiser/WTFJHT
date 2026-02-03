@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - gun-policy
 - national-security
+- russia
+- education
 description: Bit of a bonus.
 image: "/uploads/400.jpg"
 ---

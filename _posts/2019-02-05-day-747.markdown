@@ -8,6 +8,7 @@ tags:
 - oversight
 - immigration
 - russia
+- congress
 description: Hysteria.
 image: "/uploads/747.jpg"
 todayInOneSentence: Federal prosecutors in New York requested interviews with Trump

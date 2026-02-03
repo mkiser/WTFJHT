@@ -7,6 +7,8 @@ tags:
 - covid
 - jan-6
 - reproductive-rights
+- congress
+- judiciary
 description: '"A cause for concern."'
 image: "/uploads/day-314-covid.jpg"
 todayInOneSentence: Biden called the new Omicron variant of the coronavirus “a cause

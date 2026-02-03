@@ -7,6 +7,8 @@ tags:
 - economy
 - education
 - corruption
+- taxes
+- voting-rights
 description: '"Just normal day-to-day stuff."'
 image: "/uploads/day-1317-biden-harris.jpg"
 todayInOneSentence: 'Trump’s economic proposals would increase the national debt by

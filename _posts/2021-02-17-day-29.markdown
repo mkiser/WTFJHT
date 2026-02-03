@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- education
+- congress
+- voting-rights
 description: '"I''m tired of talking about Donald Trump."'
 image: "/uploads/day-29-biden.jpg"
 todayInOneSentence: Biden suggested that anyone in the country who wants a vaccine

@@ -6,6 +6,9 @@ categories:
 tags:
 - resignation
 - government-shutdown
+- national-security
+- economy
+- oversight
 description: Fully aware.
 image: "/uploads/386.jpg"
 ---

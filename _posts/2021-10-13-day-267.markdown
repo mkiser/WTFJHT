@@ -7,6 +7,8 @@ tags:
 - jan-6
 - immigration
 - infrastructure
+- covid
+- congress
 description: '"Not even within the realm of possibility."'
 image: "/uploads/Day-267-Biden.jpg"
 todayInOneSentence: The House select committee investigating the Jan. 6 attack subpoenaed

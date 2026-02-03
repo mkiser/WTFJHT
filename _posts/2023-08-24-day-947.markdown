@@ -7,6 +7,8 @@ tags:
 - indictment
 - oversight
 - russia
+- classified-documents
+- national-security
 description: '"A man of difficult fate."'
 image: "/uploads/day-947-biden.png"
 todayInOneSentence: Trump surrendered at the Fulton County jail on 13 state charges

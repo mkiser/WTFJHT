@@ -8,6 +8,7 @@ tags:
 - corruption
 - israel-palestine
 - jan-6
+- taxes
 description: '"Just do it."'
 image: "/uploads/day-1210-biden.jpg"
 todayInOneSentence: Michael Cohen testified that Trump directed him to personally

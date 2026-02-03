@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - immigration
+- economy
+- congress
+- tech-policy
 description: Confrontation.
 image: "/uploads/372.jpg"
 ---

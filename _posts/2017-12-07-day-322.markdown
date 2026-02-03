@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - israel-palestine
 - civil-rights
+- congress
+- mueller-investigation
 description: Making a deal.
 image: "/uploads/322.jpg"
 ---

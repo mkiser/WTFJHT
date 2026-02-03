@@ -8,6 +8,7 @@ tags:
 - immigration
 - voting-rights
 - foreign-policy
+- indictment
 description: '"Low risk."'
 image: "/uploads/day-73-biden.jpg"
 todayInOneSentence: One U.S. Capitol Police officer was killed and another hospitalized

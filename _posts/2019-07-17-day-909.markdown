@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- immigration
+- voting-rights
+- congress
+- economy
 description: '"Not unhappy."'
 image: "/uploads/909.jpg"
 todayInOneSentence: The House will vote to hold Attorney General William Barr and

@@ -8,6 +8,7 @@ tags:
 - jan-6
 - economy
 - labor
+- congress
 description: '"Undermining the American public''s confidence."'
 image: "/uploads/day-779-biden.jpg"
 todayInOneSentence: A Trump attorney admitted to knowingly making 10 public “misrepresentations”

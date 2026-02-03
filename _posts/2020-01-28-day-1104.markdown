@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- media
+- ukraine
+- economy
 description: A diversion.
 image: "/uploads/1104.jpg"
 todayInOneSentence: Trump's legal team concluded its oral arguments; the Senate will

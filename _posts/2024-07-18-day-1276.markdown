@@ -6,6 +6,9 @@ categories:
 tags:
 - presidential-election
 - covid
+- polling
+- voting-rights
+- infrastructure
 description: '"We''re close to the end."'
 image: "/uploads/day-1276-biden.jpg"
 todayInOneSentence: Obama privately told allies that Biden needs to seriously reconsider

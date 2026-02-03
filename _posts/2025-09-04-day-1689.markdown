@@ -6,6 +6,7 @@ tags:
 - congress
 - oversight
 - corruption
+- national-security
 description: '"America loses."'
 image: "/uploads/day1688-trump.jpg"
 todayInOneSentence: Senators from both parties confronted Health Secretary Robert

@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - presidential-election
+- voting-rights
+- nomination
+- polling
+- covid
 description: '"Weird."'
 image: "/uploads/day-1288-biden-harris.jpg"
 todayInOneSentence: Trump repeated his assertion that if Christians "vote for me,

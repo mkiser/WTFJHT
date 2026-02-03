@@ -7,6 +7,8 @@ tags:
 - reproductive-rights
 - voting-rights
 - government-shutdown
+- congress
+- polling
 description: '"Absolute assurances."'
 image: "/uploads/day-1337-biden-harris.jpg"
 todayInOneSentence: Senate Republicans blocked legislation to federally protect access

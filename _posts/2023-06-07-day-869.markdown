@@ -8,6 +8,7 @@ tags:
 - classified-documents
 - ethics
 - presidential-election
+- supreme-court
 description: '"A tragic day in the life of our nation."'
 image: "/uploads/day-869-biden.jpg"
 todayInOneSentence: Mark Meadows testified to a federal grand jury as part of special

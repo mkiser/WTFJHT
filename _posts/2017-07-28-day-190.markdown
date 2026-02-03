@@ -7,6 +7,8 @@ tags:
 - healthcare
 - resignation
 - sanctions
+- congress
+- economy
 description: Backfired.
 image: "/uploads/190.jpg"
 ---

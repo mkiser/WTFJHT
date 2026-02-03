@@ -8,6 +8,7 @@ tags:
 - criminal-justice
 - indictment
 - presidential-election
+- voting-rights
 description: '"Unprecedented weaponization."'
 image: "/uploads/day-944-biden.jpg"
 todayInOneSentence: 'The House Freedom Caucus threatened to oppose a stopgap funding

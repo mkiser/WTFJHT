@@ -7,6 +7,8 @@ tags:
 - covid
 - labor
 - climate
+- congress
+- immigration
 description: '"Restore common sense."'
 image: "/uploads/biden-30.jpg"
 todayInOneSentence: The coronavirus pandemic cut life expectancy in the U.S. by an

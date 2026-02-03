@@ -6,6 +6,7 @@ tags:
 - tariffs
 - immigration
 - healthcare
+- congress
 description: '"Not at all clear what it is we should do."'
 image: "/uploads/day-1569-trump.jpg"
 todayInOneSentence: 'The Federal Reserve held interest rates steady at 4.25% to 4.5%,

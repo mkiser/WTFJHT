@@ -8,6 +8,7 @@ tags:
 - covid
 - foreign-policy
 - climate
+- healthcare
 description: '"No reason to panic."'
 image: "/uploads/1138.jpg"
 todayInOneSentence: The Supreme Court agreed to take up a legal challenge to the Affordable

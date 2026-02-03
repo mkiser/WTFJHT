@@ -7,6 +7,8 @@ tags:
 - national-security
 - gun-policy
 - tech-policy
+- climate
+- congress
 description: '"Hostile actions."'
 image: "/uploads/931.jpg"
 todayInOneSentence: The White House refused requests by Homeland Security for more

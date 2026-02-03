@@ -8,6 +8,7 @@ tags:
 - foreign-policy
 - israel-palestine
 - impeachment
+- supreme-court
 description: '"Pivotal moment."'
 image: "/uploads/day-1268-biden.jpg"
 todayInOneSentence: Nancy Pelosi urged Biden to make a decision about whether to stay

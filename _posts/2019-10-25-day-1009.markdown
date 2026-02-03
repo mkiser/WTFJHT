@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- indictment
+- congress
+- national-security
 description: '"Potentially impeachable conduct."'
 image: "/uploads/1009.jpg"
 todayInOneSentence: A federal judge directed the Justice Department hand over Robert

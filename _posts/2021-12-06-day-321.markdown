@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - voting-rights
 - disinformation
+- covid
+- china
 description: '"Crimes against humanity."'
 image: "/uploads/day-321-biden.jpg"
 todayInOneSentence: The Biden administration announced a diplomatic boycott of the

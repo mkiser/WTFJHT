@@ -6,6 +6,7 @@ tags:
 - gun-policy
 - media
 - disinformation
+- economy
 description: '"Pass some gun laws."'
 image: "/uploads/day1695trump.jpg"
 todayInOneSentence: 'Charlie Kirk, the 31-year-old founder of Turning Point USA and

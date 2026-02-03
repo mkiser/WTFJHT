@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- judiciary
+- nomination
+- economy
 description: Counterpunch.
 image: "/uploads/1064.jpg"
 todayInOneSentence: House Speaker Nancy Pelosi won't commit to sending the articles

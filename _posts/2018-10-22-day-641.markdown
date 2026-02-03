@@ -6,6 +6,9 @@ categories:
 tags:
 - foreign-policy
 - mueller-investigation
+- voting-rights
+- economy
+- media
 description: 'A great mind. '
 image: "/uploads/641.jpg"
 todayInOneSentence: Saudi Arabia's foreign minister denied that the crown prince ordered

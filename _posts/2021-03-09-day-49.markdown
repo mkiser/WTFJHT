@@ -8,6 +8,7 @@ tags:
 - healthcare
 - immigration
 - voting-rights
+- congress
 description: '"110% confident."'
 image: "/uploads/day-49-biden.jpg"
 todayInOneSentence: House Democrats plan to pass the $1.9 trillion coronavirus relief

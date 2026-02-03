@@ -8,6 +8,7 @@ tags:
 - jan-6
 - economy
 - subpoena
+- indictment
 description: '"Moment of truth."'
 image: "/uploads/day-552-biden.jpg"
 todayInOneSentence: 'Biden continues to “improve significantly” from his coronavirus

@@ -8,6 +8,7 @@ tags:
 - energy
 - classified-documents
 - presidential-election
+- voting-rights
 description: '"A good first step."'
 image: "/uploads/day1115biden.jpg"
 todayInOneSentence: 'The Senate advanced a $95 billion aid package for Ukraine, Israel,

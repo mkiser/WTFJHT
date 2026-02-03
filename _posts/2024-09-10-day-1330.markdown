@@ -8,6 +8,7 @@ tags:
 - national-security
 - voting-rights
 - debate
+- israel-palestine
 description: '"A dangerous escalation."'
 image: "/uploads/day-1330-biden-harris.jpg"
 todayInOneSentence: 'House Speaker Mike Johnson doesn’t have the votes to pass a spending

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - voting-rights
+- congress
+- tech-policy
+- media
 description: Under pressure.
 image: "/uploads/369.jpg"
 ---

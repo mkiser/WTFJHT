@@ -6,6 +6,7 @@ tags:
 - tariffs
 - trade
 - foreign-policy
+- media
 description: '"Too erratic."'
 image: "/uploads/day1555-trump.jpg"
 todayInOneSentence: 'Trump reversed course and said he would not fire Fed Chair Jerome

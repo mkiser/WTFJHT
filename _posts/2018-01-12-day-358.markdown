@@ -7,6 +7,8 @@ tags:
 - immigration
 - civil-rights
 - corruption
+- foreign-policy
+- voting-rights
 description: Racist.
 image: "/uploads/358.jpg"
 ---

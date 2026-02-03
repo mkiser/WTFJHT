@@ -6,6 +6,7 @@ tags:
 - corruption
 - nomination
 - judiciary
+- congress
 description: '"It sort of looks bad."'
 image: "/uploads/day1736trump.jpg"
 todayInOneSentence: 'A man pardoned by Trump for his role in the Jan. 6 riot was arrested

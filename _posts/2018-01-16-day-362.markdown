@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - government-shutdown
+- congress
+- tech-policy
+- immigration
 description: Subpoenaed.
 image: "/uploads/362.jpg"
 ---

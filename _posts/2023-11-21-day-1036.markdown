@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - disinformation
 - media
+- tech-policy
 description: '"Such absurd results."'
 image: "/uploads/day-1036-biden.jpg"
 todayInOneSentence: A Colorado judge ruled that Trump "engaged in an insurrection,"

@@ -7,6 +7,8 @@ tags:
 - indictment
 - education
 - reproductive-rights
+- voting-rights
+- supreme-court
 description: '"Increasingly desperate."'
 image: "/uploads/day-1352-biden-harris.jpg"
 todayInOneSentence: Trump “resorted to crimes” after losing the 2020 election; Trump

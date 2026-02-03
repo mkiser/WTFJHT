@@ -8,6 +8,7 @@ tags:
 - healthcare
 - nomination
 - russia
+- covid
 description: '"Little optimism."'
 image: "/uploads/day-373-biden.jpg"
 todayInOneSentence: The U.S. economy grew 5.7% in 2021; the Biden administration’s

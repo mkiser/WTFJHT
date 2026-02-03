@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - immigration
 - economy
+- labor
+- russia
 description: Wrong track.
 image: "/uploads/739.jpg"
 todayInOneSentence: The shutdown cost the economy $11 billion; Nancy Pelosi invited

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- national-security
+- congress
+- ukraine
+- media
 description: Cleaning house.
 image: "/uploads/1126.jpg"
 tag_excerpts:

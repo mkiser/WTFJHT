@@ -8,6 +8,7 @@ tags:
 - census
 - government-shutdown
 - nomination
+- mueller-investigation
 description: Everyone's favorite.
 image: "/uploads/726.jpg"
 todayInOneSentence: 'Trump discussed withdrawing the U.S. from NATO; a federal judge

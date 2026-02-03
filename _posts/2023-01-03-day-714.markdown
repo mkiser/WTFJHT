@@ -7,6 +7,8 @@ tags:
 - congress
 - ethics
 - corruption
+- taxes
+- voting-rights
 description: '"We better come together."'
 image: "/uploads/biden-714.jpg"
 todayInOneSentence: The House adjourned without a speaker because Kevin McCarthy failed

@@ -7,6 +7,8 @@ tags:
 - economy
 - covid
 - indictment
+- congress
+- voting-rights
 description: '"Dead."'
 image: "/uploads/day-378-biden.jpg"
 todayInOneSentence: Joe Manchin called Biden’s $2 trillion Build Back Better plan

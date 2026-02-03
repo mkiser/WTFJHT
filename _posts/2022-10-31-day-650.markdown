@@ -8,6 +8,7 @@ tags:
 - jan-6
 - media
 - economy
+- covid
 description: '"Hellscape."'
 image: "/uploads/day-650-biden.jpg"
 todayInOneSentence: 'Federal prosecutors charged the man accused of breaking into

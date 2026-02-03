@@ -8,6 +8,7 @@ tags:
 - debt-ceiling
 - gun-policy
 - voting-rights
+- economy
 description: '"The bridge."'
 image: "/uploads/day-826-dark-brandon.jpg"
 todayInOneSentence: 'Biden formally announced his 2024 re-election campaign; Biden

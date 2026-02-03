@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - russia
 - national-security
+- media
+- congress
 description: Unwelcome.
 image: "/uploads/540.jpg"
 todayInOneSentence: Rosenstein announced 12 indictments against Russian intelligence

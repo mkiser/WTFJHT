@@ -8,6 +8,7 @@ tags:
 - education
 - corruption
 - immigration
+- congress
 description: '"Investments in our future."'
 image: "/uploads/day-99-biden.jpg"
 todayInOneSentence: The White House unveiled a $1.8 trillion spending and tax plan

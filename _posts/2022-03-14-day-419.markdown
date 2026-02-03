@@ -8,6 +8,7 @@ tags:
 - ukraine
 - national-security
 - disinformation
+- congress
 description: '"Fabrication of lies."'
 image: "/uploads/day-419-biden.jpg"
 todayInOneSentence: 'NATO Secretary General warned that Russia’s false claim that

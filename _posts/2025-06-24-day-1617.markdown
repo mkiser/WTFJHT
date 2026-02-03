@@ -6,6 +6,7 @@ tags:
 - foreign-policy
 - congress
 - oversight
+- nomination
 description: '"Low-level loser."'
 image: "/uploads/day1617trump.jpg"
 todayInOneSentence: 'A classified U.S. intelligence report found that Trump’s airstrikes

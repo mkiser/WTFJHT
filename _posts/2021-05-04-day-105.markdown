@@ -7,6 +7,8 @@ tags:
 - covid
 - climate
 - voting-rights
+- congress
+- healthcare
 description: '"New normal."'
 image: "/uploads/105-biden-new-normal.jpg"
 todayInOneSentence: The FDA is expected to authorize Pfizer’s Covid-19 vaccine for

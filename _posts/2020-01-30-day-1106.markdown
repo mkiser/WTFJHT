@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- covid
+- economy
+- subpoena
 description: Bogus claims.
 image: "/uploads/1106.jpg"
 todayInOneSentence: 'The Senate reconvened for the final day of written questions;

@@ -8,6 +8,7 @@ tags:
 - energy
 - foreign-policy
 - classified-documents
+- congress
 description: '"Where''s the beef?"'
 image: "/uploads/day-637-biden.jpg"
 todayInOneSentence: Biden pledged to codify Roe v. Wade into law if Democrats retain

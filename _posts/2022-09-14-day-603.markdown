@@ -8,6 +8,7 @@ tags:
 - labor
 - reproductive-rights
 - jan-6
+- infrastructure
 description: '"It''s all changing."'
 image: "/uploads/day-603-biden.jpg"
 todayInOneSentence: Biden approved the first $900 million in U.S. funding to build

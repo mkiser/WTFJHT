@@ -7,6 +7,8 @@ tags:
 - immigration
 - census
 - mueller-investigation
+- voting-rights
+- congress
 description: 'Optics. '
 image: "/uploads/631.jpg"
 todayInOneSentence: The Trump administration is considering new rules to separate

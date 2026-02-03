@@ -7,6 +7,8 @@ tags:
 - covid
 - corruption
 - oversight
+- media
+- economy
 description: '"Not worth the time and effort."'
 image: "/uploads/1194.jpg"
 todayInOneSentence: Trump tweeted that his daily coronavirus briefings were "not worth

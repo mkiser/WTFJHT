@@ -8,6 +8,7 @@ tags:
 - gun-policy
 - national-security
 - supreme-court
+- congress
 description: 'But his emails. '
 image: "/uploads/414.jpg"
 ---

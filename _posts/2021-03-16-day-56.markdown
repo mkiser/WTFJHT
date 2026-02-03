@@ -8,6 +8,7 @@ tags:
 - jan-6
 - immigration
 - russia
+- congress
 description: '"Exacerbating divisions."'
 image: "/uploads/56-biden-putin.jpg"
 todayInOneSentence: Putin authorized operations to interfere in the 2020 election

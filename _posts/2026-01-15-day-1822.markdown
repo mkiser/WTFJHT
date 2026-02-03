@@ -5,6 +5,8 @@ tags:
 - immigration
 - national-security
 - healthcare
+- congress
+- protests
 description: '"Turn the temperature down."'
 image: "/uploads/day1822trump.jpg"
 podcast:

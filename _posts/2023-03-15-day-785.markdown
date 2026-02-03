@@ -8,6 +8,7 @@ tags:
 - presidential-election
 - foreign-policy
 - supreme-court
+- voting-rights
 description: '"Severe penalties."'
 image: "/uploads/day-785-biden.jpg"
 todayInOneSentence: 'A federal judge in Texas heard arguments in a lawsuit that seeks

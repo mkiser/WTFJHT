@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - supreme-court
+- protests
+- congress
+- media
+- voting-rights
 description: But that's okay.
 image: "/uploads/614.jpg"
 todayInOneSentence: Kavanaugh's high school yearbook page list a supposed sexual conquest

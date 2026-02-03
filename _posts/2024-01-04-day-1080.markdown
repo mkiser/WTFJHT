@@ -8,6 +8,7 @@ tags:
 - immigration
 - covid
 - indictment
+- impeachment
 description: '"A scandal."'
 image: "/uploads/day-1080biden.jpg"
 todayInOneSentence: Trump’s businesses received at least $7.8 million from foreign

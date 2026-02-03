@@ -6,6 +6,9 @@ categories:
 tags:
 - executive-order
 - reproductive-rights
+- congress
+- mueller-investigation
+- taxes
 description: Knew what he signed up for.
 image: "/uploads/272.jpg"
 ---

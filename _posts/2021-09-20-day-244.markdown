@@ -7,6 +7,8 @@ tags:
 - debt-ceiling
 - immigration
 - reproductive-rights
+- covid
+- congress
 description: '"Irreparable harm."'
 image: "/uploads/biden-day-244.jpg"
 todayInOneSentence: House Democrats plan to combine a short-term government spending

@@ -8,6 +8,7 @@ tags:
 - israel-palestine
 - congress
 - lawsuit
+- voting-rights
 description: '"People are not disposable."'
 image: "/uploads/day-1023-biden.jpg"
 todayInOneSentence: Nearly 17 months after the Supreme Court struck down Roe v. Wade

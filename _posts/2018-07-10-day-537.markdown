@@ -7,6 +7,8 @@ tags:
 - nomination
 - russia
 - supreme-court
+- congress
+- immigration
 description: '"Putin may be the easiest."'
 image: "/uploads/537.jpg"
 todayInOneSentence: Trump nominated federal appeals court judge Brett Kavanaugh to

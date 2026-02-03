@@ -6,6 +6,9 @@ categories:
 tags:
 - pardon
 - impeachment
+- economy
+- ukraine
+- mueller-investigation
 tag_excerpts:
   pardon: Trump ignored Pentagon advice and pardoned three service members convicted
     or accused of war crimes in Afghanistan and Iraq.

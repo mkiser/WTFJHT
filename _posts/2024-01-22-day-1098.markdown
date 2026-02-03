@@ -8,6 +8,7 @@ tags:
 - presidential-election
 - immigration
 - disinformation
+- supreme-court
 description: '"A total failure to launch."'
 image: "/uploads/day1098biden.jpg"
 todayInOneSentence: 'The Biden administration announced new steps to expand access

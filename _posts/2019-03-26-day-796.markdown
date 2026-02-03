@@ -7,6 +7,8 @@ tags:
 - healthcare
 - executive-order
 - mueller-investigation
+- congress
+- national-security
 description: Invalidated.
 image: "/uploads/796.jpg"
 todayInOneSentence: The Trump administration supports a court ruling that the entire

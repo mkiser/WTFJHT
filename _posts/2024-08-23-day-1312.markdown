@@ -6,6 +6,9 @@ categories:
 tags:
 - presidential-election
 - israel-palestine
+- voting-rights
+- indictment
+- polling
 description: '"Kamala Harris, for the people."'
 image: "/uploads/day-1312-biden-harris-trump.jpg"
 todayInOneSentence: Vice President Kamala Harris used her acceptance speech at the

@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - oversight
+- congress
+- immigration
+- climate
 description: False light.
 image: "/uploads/866.jpg"
 todayInOneSentence: The White House directed Hope Hicks not to cooperate with a House

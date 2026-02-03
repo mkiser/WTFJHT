@@ -19,6 +19,7 @@ REPO_ROOT = File.expand_path('..', __dir__)
 POSTS_DIR = File.join(REPO_ROOT, '_posts')
 TAGS_DIR = File.join(REPO_ROOT, 'tags')
 TAG_TAXONOMY_PATH = File.join(REPO_ROOT, '_data', 'tag_taxonomy.yml')
+TAG_DESCRIPTIONS_PATH = File.join(REPO_ROOT, '_data', 'tag_descriptions.yml')
 
 def extract_frontmatter(content)
   return nil unless content.start_with?('---')
@@ -98,8 +99,16 @@ def escape_html(text)
       .gsub('"', '&quot;')
 end
 
-def generate_tag_page(tag, posts)
+def generate_tag_page(tag, posts, tag_descriptions)
   tag_display = format_tag_name(tag)
+
+  # Get SEO description if available
+  tag_desc = tag_descriptions.dig(tag, 'summary')
+  meta_description = if tag_desc
+                       tag_desc.strip.gsub(/\s+/, ' ')
+                     else
+                       "All WTF Just Happened Today posts about #{tag_display.downcase}"
+                     end
 
   # Convert posts to proper format for YAML serialization
   posts_data = posts.map do |post|
@@ -114,7 +123,7 @@ def generate_tag_page(tag, posts)
   frontmatter = {
     'layout' => 'tag-archive',
     'title' => "Posts tagged: #{tag_display}",
-    'description' => "All WTF Just Happened Today posts about #{tag_display.downcase}",
+    'description' => meta_description,
     'tag_display' => tag_display,
     'posts_count' => posts.length,
     'sitemap' => false,
@@ -148,13 +157,21 @@ posts_by_tag = get_posts_by_tag
 
 puts "Found #{posts_by_tag.length} tags with posts"
 
+# Load tag descriptions for SEO
+tag_descriptions = if File.exist?(TAG_DESCRIPTIONS_PATH)
+                     YAML.safe_load(File.read(TAG_DESCRIPTIONS_PATH)) || {}
+                   else
+                     {}
+                   end
+puts "Loaded #{tag_descriptions.length} tag descriptions"
+
 # Create tags directory
 FileUtils.mkdir_p(TAGS_DIR) unless dry_run
 
 # Generate individual tag pages
 posts_by_tag.each do |tag, posts|
   tag_file = File.join(TAGS_DIR, "#{tag}.html")
-  content = generate_tag_page(tag, posts)
+  content = generate_tag_page(tag, posts, tag_descriptions)
 
   if dry_run
     puts "  Would create #{tag}.html (#{posts.length} posts)"

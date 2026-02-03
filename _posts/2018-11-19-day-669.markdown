@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - mueller-investigation
 - oversight
+- congress
+- media
 description: A failure to abide.
 image: "/uploads/669.jpg"
 todayInOneSentence: The CIA concluded that Saudi Crown Prince Mohammed bin Salman

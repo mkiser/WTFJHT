@@ -6,6 +6,7 @@ tags:
 - immigration
 - media
 - economy
+- congress
 description: '"Overdrive."'
 image: "/uploads/day1518trump.jpg"
 todayInOneSentence: 'Trump signed a six-month government funding bill on Saturday,

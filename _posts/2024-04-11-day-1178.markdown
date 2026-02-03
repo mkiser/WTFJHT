@@ -7,6 +7,8 @@ tags:
 - immigration
 - gun-policy
 - israel-palestine
+- congress
+- foreign-policy
 description: '"No guarantee."'
 image: "/uploads/day-1178-biden.jpg"
 todayInOneSentence: 'Biden is reportedly considering an executive order to limit the

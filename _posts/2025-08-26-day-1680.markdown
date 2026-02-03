@@ -6,6 +6,7 @@ tags:
 - national-security
 - immigration
 - voting-rights
+- covid
 description: '"So that''ll be great."'
 image: "/uploads/day1680trump.jpg"
 todayInOneSentence: Trump claimed he fired Federal Reserve Governor Lisa Cook; a whistleblower

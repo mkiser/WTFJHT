@@ -7,6 +7,8 @@ tags:
 - presidential-election
 - indictment
 - national-security
+- education
+- protests
 description: '"What have we done."'
 image: "/uploads/day-1199-biden.jpg"
 todayInOneSentence: 'Trump refused to unconditionally accept the results of the 2024

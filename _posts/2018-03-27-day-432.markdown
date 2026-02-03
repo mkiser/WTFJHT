@@ -8,6 +8,7 @@ tags:
 - immigration
 - gun-policy
 - ethics
+- tech-policy
 description: 'Botched obligations. '
 image: "/uploads/432.jpg"
 ---

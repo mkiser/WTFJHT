@@ -7,6 +7,8 @@ tags:
 - covid
 - pardon
 - presidential-election
+- congress
+- voting-rights
 description: '"I literally don''t know."'
 image: "/uploads/1419.jpg"
 todayInOneSentence: The FDA said Pfizer's COVID-19 vaccine “met the prescribed success

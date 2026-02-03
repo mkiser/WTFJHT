@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - media
+- congress
+- national-security
+- russia
 description: 'Alert the daycare staff. '
 image: "/uploads/278.jpg"
 ---

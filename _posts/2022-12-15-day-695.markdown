@@ -8,6 +8,7 @@ tags:
 - judiciary
 - energy
 - climate
+- polling
 description: '"Clear and convincing."'
 image: "/uploads/day-695-biden.jpg"
 todayInOneSentence: The Biden administration restarted its free Covid-19 test program

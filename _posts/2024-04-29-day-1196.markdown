@@ -7,6 +7,8 @@ tags:
 - israel-palestine
 - economy
 - jan-6
+- protests
+- education
 description: '"Serious questions."'
 image: "/uploads/day-1196-biden.jpg"
 todayInOneSentence: 'Senior State Department officials warned that they don’t have

@@ -8,6 +8,7 @@ tags:
 - climate
 - education
 - lawsuit
+- immigration
 description: '"A national concern."'
 image: "/uploads/day-834-biden.jpg"
 todayInOneSentence: The Federal Reserve raised interest rates for the 10th time in

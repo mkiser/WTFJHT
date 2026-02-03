@@ -7,6 +7,8 @@ tags:
 - covid
 - congress
 - corruption
+- economy
+- media
 description: '"I want America to understand: This week, it''s going to get bad."'
 image: "/uploads/1160.jpg"
 todayInOneSentence: Congressional negotiators signaled that they are nearing a bipartisan

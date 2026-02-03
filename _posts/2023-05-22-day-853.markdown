@@ -8,6 +8,7 @@ tags:
 - energy
 - national-security
 - civil-rights
+- education
 description: '"Openly hostile."'
 image: "/uploads/day-853-biden.jpg"
 todayInOneSentence: 'California, Arizona, and Nevada agreed to reduce their water

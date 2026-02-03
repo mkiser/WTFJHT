@@ -7,6 +7,8 @@ tags:
 - tech-policy
 - immigration
 - taxes
+- economy
+- congress
 description: A great, big, beautiful Christmas present.
 image: "/uploads/306.jpg"
 ---

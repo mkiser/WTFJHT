@@ -8,6 +8,7 @@ tags:
 - national-security
 - resignation
 - tech-policy
+- congress
 description: Get ready.
 image: "/uploads/447.jpg"
 ---

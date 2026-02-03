@@ -8,6 +8,7 @@ tags:
 - mueller-investigation
 - immigration
 - national-security
+- congress
 description: The greatest loser.
 image: "/uploads/743.jpg"
 todayInOneSentence: Trump called negotiating with Congress over his border wall "a

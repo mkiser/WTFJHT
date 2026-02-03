@@ -8,6 +8,7 @@ tags:
 - oversight
 - national-security
 - corruption
+- congress
 description: 'Retroactive privilege. '
 image: "/uploads/448.jpg"
 ---

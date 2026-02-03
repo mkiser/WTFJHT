@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- mueller-investigation
+- voting-rights
+- national-security
+- russia
 description: Obsessed.
 image: "/uploads/503.jpg"
 tag_excerpts:

@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - congress
+- national-security
+- mueller-investigation
+- tech-policy
 description: '"A near perfect example of a human being who is morally lost and confused."'
 image: "/uploads/1065.jpg"
 todayInOneSentence: Acting White House Chief of Staff Mick Mulvaney is expected to

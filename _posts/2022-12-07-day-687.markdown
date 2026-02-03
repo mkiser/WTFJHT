@@ -8,6 +8,7 @@ tags:
 - supreme-court
 - special-election
 - classified-documents
+- congress
 description: '"Big consequences."'
 image: "/uploads/day-687-biden.jpg"
 todayInOneSentence: 'The Supreme Court appeared split on whether state legislators

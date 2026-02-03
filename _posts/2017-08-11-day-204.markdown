@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - national-security
 - healthcare
+- congress
+- foreign-policy
 description: 'Locked and loaded, or whatever. '
 image: "/uploads/204.jpg"
 ---

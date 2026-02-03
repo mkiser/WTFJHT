@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - immigration
 - nomination
+- taxes
+- congress
 description: 'Prime-time. '
 image: "/uploads/718a.jpg"
 todayInOneSentence: As the partial government shutdown continued into its 17th day,

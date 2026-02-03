@@ -8,6 +8,7 @@ tags:
 - national-security
 - russia
 - foreign-policy
+- economy
 description: Mission accomplished.
 image: "/uploads/450.jpg"
 ---

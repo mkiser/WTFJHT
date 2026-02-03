@@ -7,6 +7,8 @@ tags:
 - jan-6
 - impeachment
 - protests
+- covid
+- national-security
 description: No regrets.
 image: "/uploads/1454.jpg"
 todayInOneSentence: Trump refused to take responsibility for inciting the deadly riot

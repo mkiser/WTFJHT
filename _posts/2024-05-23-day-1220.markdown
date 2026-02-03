@@ -8,6 +8,7 @@ tags:
 - jan-6
 - indictment
 - reproductive-rights
+- voting-rights
 description: '"Not a king."'
 image: "/uploads/day-1220-biden.jpg"
 todayInOneSentence: 'The Supreme Court approved a white-dominated congressional district

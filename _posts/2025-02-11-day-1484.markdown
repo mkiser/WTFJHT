@@ -6,6 +6,7 @@ tags:
 - executive-order
 - immigration
 - israel-palestine
+- congress
 description: '"Will end badly."'
 image: "/uploads/day-1484-trump.jpg"
 todayInOneSentence: A federal judge temporarily blocked the Trump administration’s

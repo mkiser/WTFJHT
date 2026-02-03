@@ -7,6 +7,8 @@ tags:
 - covid
 - oversight
 - presidential-election
+- voting-rights
+- congress
 description: '"Nonsense detrimental to our democracy."'
 image: "/uploads/1421.jpg"
 todayInOneSentence: The United States recorded more than 3,100 COVID-19 deaths in

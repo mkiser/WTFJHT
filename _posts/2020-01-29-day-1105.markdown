@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- national-security
+- economy
+- ukraine
 description: Public interest.
 image: "/uploads/1105.jpg"
 todayInOneSentence: Trump's impeachment trial moved to written questions; Alan Dershowitz

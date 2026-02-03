@@ -7,6 +7,8 @@ tags:
 - gun-policy
 - mueller-investigation
 - russia
+- congress
+- national-security
 description: 'Bad conduct. '
 image: "/uploads/291.jpg"
 ---

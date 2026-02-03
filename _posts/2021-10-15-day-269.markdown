@@ -7,6 +7,8 @@ tags:
 - reproductive-rights
 - jan-6
 - supreme-court
+- covid
+- protests
 description: '"Just looking out!"'
 image: "/uploads/day-269-biden.jpg"
 todayInOneSentence: The Justice Department will ask the Supreme Court to block enforcement

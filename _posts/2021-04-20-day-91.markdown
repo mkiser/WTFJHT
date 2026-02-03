@@ -8,6 +8,7 @@ tags:
 - civil-rights
 - climate
 - russia
+- protests
 description: '"Overwhelming."'
 image: "/uploads/day-91-floyd-biden.jpg"
 todayInOneSentence: Derek Chauvin was convicted of second-degree unintentional murder,

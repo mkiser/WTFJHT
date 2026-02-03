@@ -7,6 +7,8 @@ tags:
 - indictment
 - foreign-policy
 - ethics
+- supreme-court
+- voting-rights
 description: '"The real verdict is going to be Nov. 5."'
 image: "/uploads/day-1227-biden.jpg"
 todayInOneSentence: Trump, a former U.S. president and the presumptive Republican

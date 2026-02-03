@@ -6,6 +6,9 @@ categories:
 tags:
 - impeachment
 - foreign-policy
+- national-security
+- ukraine
+- russia
 description: '"Totally appropriate."'
 image: "/uploads/974.jpg"
 todayInOneSentence: Trump pressured the leader of Ukraine eight times to investigate

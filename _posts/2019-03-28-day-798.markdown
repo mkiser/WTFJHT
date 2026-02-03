@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - congress
 - immigration
+- gun-policy
+- national-security
 description: Bully.
 image: "/uploads/798.jpg"
 todayInOneSentence: Mueller's report is more than 300 pages long and contains "lots

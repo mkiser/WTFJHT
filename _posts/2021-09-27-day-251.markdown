@@ -7,6 +7,8 @@ tags:
 - debt-ceiling
 - immigration
 - criminal-justice
+- congress
+- covid
 description: '"An unnecessary, avoidable disaster."'
 image: "/uploads/day-251-biden.jpg"
 todayInOneSentence: Senate Republicans blocked a House-passed bill to fund the government

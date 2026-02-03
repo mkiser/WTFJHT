@@ -6,7 +6,9 @@ categories:
 tags:
 - economy
 - voting-rights
-- drug-policy
+- healthcare
+- congress
+- media
 description: '"Conversations with folks."'
 image: "/uploads/day-176-072421.jpg"
 todayInOneSentence: Senate Democrats are moving forward with a $3.5 trillion spending

@@ -6,6 +6,9 @@ categories:
 tags:
 - congress
 - foreign-policy
+- national-security
+- immigration
+- ukraine
 description: '"Managing risk."'
 image: "/uploads/day-665-biden.jpg"
 todayInOneSentence: 'Kevin McCarthy won the Republican nomination for speaker; the

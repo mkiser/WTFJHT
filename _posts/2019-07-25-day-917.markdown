@@ -7,6 +7,8 @@ tags:
 - national-security
 - immigration
 - disinformation
+- congress
+- economy
 description: Extensive activity.
 image: "/uploads/917.jpg"
 todayInOneSentence: Senate Republicans blocked two election security bills and a cybersecurity

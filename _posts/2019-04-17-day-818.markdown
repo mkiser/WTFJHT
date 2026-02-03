@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - foreign-policy
 - immigration
+- congress
+- national-security
 description: Weakened authority.
 image: "/uploads/818.jpg"
 todayInOneSentence: Attorney General William Barr directed immigration judges to deny

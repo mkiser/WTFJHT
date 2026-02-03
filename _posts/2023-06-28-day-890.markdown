@@ -8,6 +8,7 @@ tags:
 - lawsuit
 - jan-6
 - gun-policy
+- voting-rights
 description: '"Very unhealthy."'
 image: "/uploads/day-890-biden.jpg"
 todayInOneSentence: Roughly 87 million people in 17 states – representing nearly a

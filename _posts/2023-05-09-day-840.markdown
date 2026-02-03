@@ -8,6 +8,7 @@ tags:
 - ethics
 - debt-ceiling
 - indictment
+- congress
 description: '"Absolutely no idea."'
 image: "/uploads/day-840-biden.jpg"
 todayInOneSentence: A jury unanimously found Trump liable for the sexual abuse, battery,

@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - covid
 - infrastructure
+- congress
+- national-security
 description: '"Crisis of confidence."'
 image: "/uploads/day-209-081621.jpg"
 todayInOneSentence: 'Biden stood behind his decision to withdraw U.S. forces from

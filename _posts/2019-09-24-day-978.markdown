@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- oversight
+- media
+- national-security
 description: '"A betrayal."'
 image: "/uploads/978.jpg"
 todayInOneSentence: House Speaker Nancy Pelosi will announce a formal impeachment

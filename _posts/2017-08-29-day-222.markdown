@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - national-security
+- russia
+- oversight
+- congress
 description: Concealed.
 image: "/uploads/222.jpg"
 ---

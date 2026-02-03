@@ -8,6 +8,7 @@ tags:
 - mueller-investigation
 - sanctions
 - russia
+- labor
 description: Bye-bye.
 image: "/uploads/720.jpg"
 todayInOneSentence: Trump stormed out of a meeting with congressional leaders; the

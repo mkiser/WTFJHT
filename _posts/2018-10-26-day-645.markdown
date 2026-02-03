@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - midterm-election
+- national-security
+- congress
+- mueller-investigation
 description: This "Bomb" stuff.
 image: "/uploads/645.jpg"
 todayInOneSentence: Trump is considering closing the southern border to Central Americans

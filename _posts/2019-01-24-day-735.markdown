@@ -7,6 +7,8 @@ tags:
 - government-shutdown
 - immigration
 - oversight
+- mueller-investigation
+- congress
 description: History and tradition.
 image: "/uploads/735.jpg"
 todayInOneSentence: The Senate failed to advance a pair of proposals to reopen the

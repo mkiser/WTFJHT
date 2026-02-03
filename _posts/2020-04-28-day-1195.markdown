@@ -7,6 +7,8 @@ tags:
 - covid
 - economy
 - corruption
+- education
+- congress
 description: '"Can''t imagine why."'
 image: "/uploads/1195.jpg"
 todayInOneSentence: U.S. reported 1 million confirmed coronavirus cases; the U.S.

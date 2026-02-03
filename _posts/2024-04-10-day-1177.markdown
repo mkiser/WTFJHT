@@ -7,6 +7,8 @@ tags:
 - healthcare
 - classified-documents
 - reproductive-rights
+- national-security
+- congress
 description: '"Out of step."'
 image: "/uploads/day-1177-biden.jpg"
 todayInOneSentence: 'The EPA finalized the first-ever national limits on toxic “forever

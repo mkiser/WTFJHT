@@ -8,6 +8,7 @@ tags:
 - covid
 - jan-6
 - civil-rights
+- congress
 description: '"Disastrous."'
 image: "/uploads/87.jpg"
 todayInOneSentence: Biden will keep Trump's historically low refugee admissions target

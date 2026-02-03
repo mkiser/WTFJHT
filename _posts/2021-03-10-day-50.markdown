@@ -8,6 +8,7 @@ tags:
 - covid
 - immigration
 - nomination
+- congress
 description: '"Help is on the way."'
 image: "/uploads/covid-relief-day-50.jpg"
 todayInOneSentence: The House passed Biden's $1.9 trillion Covid-19 relief package;

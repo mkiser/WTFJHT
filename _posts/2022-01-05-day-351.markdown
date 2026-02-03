@@ -8,6 +8,7 @@ tags:
 - jan-6
 - climate
 - voting-rights
+- congress
 description: '"Follow the facts."'
 image: "/uploads/day-351-biden.jpg"
 todayInOneSentence: The CDC's independent vaccine advisory committee recommended booster

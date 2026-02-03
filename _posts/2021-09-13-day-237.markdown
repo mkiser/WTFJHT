@@ -8,6 +8,7 @@ tags:
 - taxes
 - covid
 - jan-6
+- congress
 description: '"There''s no way."'
 image: "/uploads/237-biden-covid.jpg"
 todayInOneSentence: House Democrats outlined their proposed tax increases on corporations

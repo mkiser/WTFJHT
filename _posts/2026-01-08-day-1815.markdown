@@ -5,6 +5,8 @@ tags:
 - oversight
 - healthcare
 - immigration
+- congress
+- economy
 description: '"The only thing that can stop me."'
 image: "/uploads/day1815trump.jpg"
 todayInOneSentence: The Senate voted 52-47 to advance a war powers resolution that

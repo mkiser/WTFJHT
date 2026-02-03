@@ -6,6 +6,7 @@ tags:
 - tariffs
 - national-security
 - foreign-policy
+- congress
 description: '"We’re not going to make everyone drop dead."'
 image: "/uploads/day1745trump.jpg"
 todayInOneSentence: 'Trump and Chinese President Xi Jinping agreed to a one-year trade

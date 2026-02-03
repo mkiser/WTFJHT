@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - gun-policy
 - healthcare
+- indictment
+- congress
 description: Criminal information.
 image: "/uploads/397.jpg"
 ---

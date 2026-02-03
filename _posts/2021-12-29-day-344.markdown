@@ -7,6 +7,8 @@ tags:
 - covid
 - national-security
 - judiciary
+- congress
+- oversight
 description: '"We must adapt."'
 image: "/uploads/day-344-biden.jpg"
 todayInOneSentence: 'U.S. Covid-19 cases hit their highest level of the pandemic;

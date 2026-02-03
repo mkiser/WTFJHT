@@ -6,6 +6,9 @@ categories:
 tags:
 - foreign-policy
 - russia
+- voting-rights
+- immigration
+- national-security
 description: Cover-up.
 image: "/uploads/642.jpg"
 todayInOneSentence: Trump called the Saudi operation to kill Jamal Khashoggi one of

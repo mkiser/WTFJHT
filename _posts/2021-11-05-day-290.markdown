@@ -7,6 +7,8 @@ tags:
 - infrastructure
 - covid
 - voting-rights
+- congress
+- economy
 description: "“We’ll see, won’t we?”"
 image: "/uploads/290-biden-infrastructure.jpg"
 todayInOneSentence: The House will vote on the $1 trillion infrastructure bill tonight

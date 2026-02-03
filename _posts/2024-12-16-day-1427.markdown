@@ -15,6 +15,12 @@ todayInOneSentence: 'Trump downplayed concerns that Robert F. Kennedy Jr. – hi
   U.S. Postal Service; Trump called for ending daylight saving time; 27% of Americans
   have high confident in Trump’s ability to appoint qualified people for his Cabinet;
   and 54% of Americans are “comfortable and prepared to support” Trump as president.  '
+tags:
+- tech-policy
+- congress
+- lawsuit
+- media
+- climate
 ---
 
 1/ **Trump downplayed concerns that Robert F. Kennedy Jr. – his pick to lead the Department of Health and Human Services – will revoke the polio vaccine** despite reports that RFK Jr.’s personal attorney previously lobbied the FDA to suspend its approval of the polio vaccine. Trump said he is a "big believer in the polio vaccine [...] You're not gonna lose the polio vaccine. That's not gonna happen." Trump added that RFK Jr. is "going to be much less radical than you would think." Trump then cited a discredited theory that vaccines cause autism and suggested that Kennedy, a leading anti-vaccine crusader, is "going to find out about it [...] Something bad’s happening." When asked whether schools should mandate vaccines, Trump responded: “I don’t like mandates. I’m not a big mandate person.” ([New York Times](https://www.nytimes.com/2024/12/13/health/aaron-siri-rfk-jr-vaccines.html) / [Washington Post](https://www.washingtonpost.com/politics/2024/12/16/trump-administration-transition/) / [ABC News](https://abcnews.go.com/Politics/trump-announces-softbank-make-100-billion-investment-us/story?id=116824953) / [CNN](https://www.cnn.com/2024/12/16/politics/trump-polio-vaccine-key-lines-news-conference/index.html) / [Associated Press](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca) / [Politico](https://www.politico.com/live-updates/2024/12/16/congress/trump-talks-rfk-at-presser-00194551) / [The Guardian](https://www.theguardian.com/us-news/2024/dec/13/rfk-jr-aaron-siri-polio) / [Axios](https://www.axios.com/2024/12/13/rfk-ally-revoke-polio-vaccine) / [The Hill](https://thehill.com/policy/healthcare/5042497-trump-vaccines-autism-mandates-rfk-jr/))

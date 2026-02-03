@@ -8,6 +8,7 @@ tags:
 - climate
 - reproductive-rights
 - jan-6
+- supreme-court
 description: '"Enough is enough."'
 image: "/uploads/286-biden.jpg"
 todayInOneSentence: Joe Manchin refused to endorse Biden’s $1.75 trillion social policy

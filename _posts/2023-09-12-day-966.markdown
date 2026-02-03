@@ -7,6 +7,8 @@ tags:
 - impeachment
 - jan-6
 - social-security
+- economy
+- voting-rights
 description: '"Blind loyalty to one person."'
 image: "/uploads/day-966-biden.jpg"
 todayInOneSentence: Kevin McCarthy directed three House committees to open an impeachment

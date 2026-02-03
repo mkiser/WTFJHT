@@ -8,6 +8,7 @@ tags:
 - jan-6
 - indictment
 - economy
+- congress
 description: '"I am your retribution."'
 image: "/uploads/day-776-biden.jpg"
 todayInOneSentence: Trump pledged to stay in the 2024 presidential race even if he's

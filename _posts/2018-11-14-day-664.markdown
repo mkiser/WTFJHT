@@ -6,6 +6,9 @@ categories:
 tags:
 - media
 - mueller-investigation
+- congress
+- immigration
+- voting-rights
 description: Discretion.
 image: "/uploads/664.jpg"
 todayInOneSentence: The White House argued that Trump has "broad discretion" to ban

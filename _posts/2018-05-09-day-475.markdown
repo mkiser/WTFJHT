@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - disinformation
 - media
+- congress
+- national-security
 description: Unprecedented and coordinated.
 image: "/uploads/475.jpg"
 ---

@@ -7,6 +7,8 @@ tags:
 - economy
 - immigration
 - foreign-policy
+- protests
+- taxes
 description: 'Hate and war. '
 image: "/uploads/939.jpg"
 todayInOneSentence: The impact of Trump's 2017 Tax Cuts and Jobs Act has not generated

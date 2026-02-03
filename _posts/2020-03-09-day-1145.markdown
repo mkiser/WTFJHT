@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - covid
+- economy
+- congress
+- media
+- tech-policy
 description: '"Nobody is trying to minimize this."'
 image: "/uploads/1145.jpg"
 todayInOneSentence: Trump had contact with two Republican congressmen before they

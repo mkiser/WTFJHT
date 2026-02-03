@@ -5,9 +5,10 @@ categories:
 - trump
 tags:
 - mueller-investigation
-- obstruction
+- mueller-investigation
 - russia
 - oversight
+- congress
 description: Make it happen.
 image: "/uploads/729.jpg"
 todayInOneSentence: Trump directed Michael Cohen to lie to Congress; Democrats vowed

@@ -8,6 +8,7 @@ tags:
 - indictment
 - reproductive-rights
 - oversight
+- voting-rights
 description: '"A weak dictator."'
 image: "/uploads/day-932-biden.jpg"
 todayInOneSentence: 'Special counsel Jack Smith obtained a search warrant for Trump''s

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- voting-rights
+- foreign-policy
+- national-security
 description: That's what impeachment is for.
 image: "/uploads/1051.jpg"
 todayInOneSentence: Trump repeatedly used unsecured cellphones to communicate with

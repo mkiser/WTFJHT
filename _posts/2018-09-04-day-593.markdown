@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - supreme-court
 - corruption
+- congress
+- labor
 description: We're in Crazytown.
 image: "/uploads/593.jpg"
 todayInOneSentence: Bob Woodward's book describes Trump as an "emotionally overwrought,

@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- indictment
+- supreme-court
+- national-security
+- tech-policy
 description: '"The President is now a king above the law."'
 image: "/uploads/day-1259-biden.jpg"
 tag_excerpts:

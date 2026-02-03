@@ -6,6 +6,7 @@ tags:
 - tariffs
 - jan-6
 - judiciary
+- congress
 description: '"Impeccable."'
 image: "/uploads/day1570-trump.jpg"
 todayInOneSentence: Trump announced a trade deal with the U.K., calling it “a great

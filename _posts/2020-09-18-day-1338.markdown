@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- covid
+- media
+- congress
+- voting-rights
 description: '"You need a test."'
 image: "/uploads/1338.jpg"
 tag_excerpts:

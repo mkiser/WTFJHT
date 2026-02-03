@@ -7,6 +7,8 @@ tags:
 - climate
 - energy
 - immigration
+- congress
+- russia
 description: War on coal.
 image: "/uploads/263.jpg"
 ---

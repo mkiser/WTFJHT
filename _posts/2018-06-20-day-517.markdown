@@ -6,7 +6,9 @@ categories:
 tags:
 - immigration
 - executive-order
-- environment
+- climate
+- congress
+- voting-rights
 description: A public relations nightmare.
 image: "/uploads/517.jpg"
 todayInOneSentence: Trump signed an executive order reversing his administration's

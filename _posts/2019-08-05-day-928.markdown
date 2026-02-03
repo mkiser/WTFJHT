@@ -7,6 +7,8 @@ tags:
 - civil-rights
 - gun-policy
 - corruption
+- congress
+- immigration
 description: '"Enabling white supremacy."'
 image: "/uploads/928.jpg"
 ---

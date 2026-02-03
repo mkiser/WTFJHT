@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- congress
+- reproductive-rights
+- economy
+- oversight
 description: '"Sensitive matters."'
 image: "/uploads/day-723-biden.jpg"
 todayInOneSentence: 'Attorney General Merrick Garland appointed a special counsel

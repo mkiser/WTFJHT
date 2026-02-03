@@ -7,6 +7,8 @@ tags:
 - covid
 - congress
 - corruption
+- national-security
+- voting-rights
 description: '"Everything is well under control."'
 image: "/uploads/1432.jpg"
 todayInOneSentence: Trump discussed appointing a lawyer who promoted conspiracy theories

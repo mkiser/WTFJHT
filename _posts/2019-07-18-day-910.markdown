@@ -7,6 +7,8 @@ tags:
 - corruption
 - civil-rights
 - national-security
+- congress
+- mueller-investigation
 description: Imminent danger.
 image: "/uploads/910.jpg"
 todayInOneSentence: The FBI believed that then-candidate Trump was closely involved

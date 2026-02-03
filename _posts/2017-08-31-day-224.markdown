@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - immigration
+- russia
+- congress
+- foreign-policy
 description: Tag teamed.
 image: "/uploads/224.jpg"
 ---

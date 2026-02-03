@@ -8,6 +8,7 @@ tags:
 - education
 - jan-6
 - indictment
+- mueller-investigation
 description: '"A new generation of leaders."'
 image: "/uploads/day-667-bidne.jpg"
 todayInOneSentence: 'Nancy Pelosi will not seek a Democratic leadership role in the

@@ -7,6 +7,8 @@ tags:
 - covid
 - voting-rights
 - taxes
+- congress
+- supreme-court
 description: '"Consequences."'
 image: "/uploads/76-biden.jpg"
 todayInOneSentence: A record 4 million people in the U.S. received a coronavirus vaccine

@@ -6,6 +6,7 @@ tags:
 - economy
 - healthcare
 - foreign-policy
+- taxes
 description: '"One big, ugly bill."'
 image: "/uploads/day1626-trump.jpg"
 todayInOneSentence: 'House Republicans passed Trump’s $4.5 trillion tax-and-spending

@@ -8,6 +8,7 @@ tags:
 - judiciary
 - israel-palestine
 - classified-documents
+- national-security
 description: '"Locked and loaded."'
 image: "/uploads/day-1219-biden.jpg"
 todayInOneSentence: 'Biden canceled $7.7 billion in student loans for another 160,000

@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- covid
+- congress
+- china
+- criminal-justice
 description: '"Playing with fire."'
 image: "/uploads/day-559-biden.jpg"
 tag_excerpts:

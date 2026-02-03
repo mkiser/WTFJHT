@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - gun-policy
+- immigration
+- national-security
+- education
 description: '"ATTACKS WOULD END!"'
 image: "/uploads/399.jpg"
 ---

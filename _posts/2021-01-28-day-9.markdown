@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- congress
+- healthcare
+- economy
 description: '"Beyond the pale."'
 image: "/uploads/biden-harris-day-9.jpg"
 todayInOneSentence: Democrats plan to bypass Republicans and approve a $1.9 trillion

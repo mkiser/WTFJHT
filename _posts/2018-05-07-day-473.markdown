@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- national-security
+- congress
+- media
 description: 'Fighting back. '
 image: "/uploads/473.jpg"
 ---

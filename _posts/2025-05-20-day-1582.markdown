@@ -6,6 +6,7 @@ tags:
 - ukraine
 - israel-palestine
 - corruption
+- covid
 description: '"I’ve done enough."'
 image: "/uploads/day-1582-trump.jpg"
 todayInOneSentence: 'Trump demanded that House Republicans support his tax and spending

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- mueller-investigation
+- congress
+- oversight
+- national-security
 description: 'Stone cold crazy. '
 image: "/uploads/775.jpg"
 tag_excerpts:

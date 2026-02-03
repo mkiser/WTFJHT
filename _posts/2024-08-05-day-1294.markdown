@@ -7,6 +7,8 @@ tags:
 - economy
 - debate
 - ethics
+- congress
+- supreme-court
 description: '"Be careful."'
 image: "/uploads/day-1294-biden.jpg"
 todayInOneSentence: 'Global stock markets fell sharply as worries about the U.S. economy

@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - sanctions
 - national-security
+- indictment
+- congress
 description: Clean up the mess.
 image: "/uploads/455.jpg"
 ---

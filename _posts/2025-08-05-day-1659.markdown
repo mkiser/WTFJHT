@@ -6,6 +6,7 @@ tags:
 - oversight
 - corruption
 - national-security
+- congress
 description: '"Everything is on the table."'
 image: "/uploads/day1659trump.jpg"
 todayInOneSentence: The House Oversight Committee subpoenaed the Justice Department

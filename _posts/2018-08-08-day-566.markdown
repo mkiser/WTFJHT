@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - russia
 - sanctions
+- indictment
+- congress
 description: 'Kiss the ring. '
 image: "/uploads/566.jpg"
 todayInOneSentence: Trump's legal team rejected Mueller's request for a voluntary

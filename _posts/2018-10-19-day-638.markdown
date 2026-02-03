@@ -7,6 +7,8 @@ tags:
 - national-security
 - disinformation
 - midterm-election
+- oversight
+- congress
 description: Discord.
 image: "/uploads/638.jpg"
 todayInOneSentence: The Justice Department charged a Russian national with conspiracy;

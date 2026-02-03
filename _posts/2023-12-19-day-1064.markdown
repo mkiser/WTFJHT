@@ -8,6 +8,7 @@ tags:
 - immigration
 - lawsuit
 - israel-palestine
+- congress
 description: '"Trump is disqualified from holding the office of President."'
 image: "/uploads/day-1064-b.jpeg"
 todayInOneSentence: The Colorado Supreme Court removed Trump from the state's 2024

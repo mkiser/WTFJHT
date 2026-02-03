@@ -7,6 +7,8 @@ tags:
 - covid
 - economy
 - national-security
+- congress
+- mueller-investigation
 description: '"A grave risk."'
 image: "/uploads/1428.jpg"
 todayInOneSentence: The United States reported its deadliest day of the pandemic to

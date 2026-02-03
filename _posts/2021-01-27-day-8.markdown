@@ -7,7 +7,8 @@ tags:
 - covid
 - executive-order
 - climate
-- judicial-reform
+- judiciary
+- congress
 description: '"It''s time to act."'
 image: "/uploads/day-8-biden-harris-trump.jpg"
 todayInOneSentence: The Department of Health and Human Services diverted millions

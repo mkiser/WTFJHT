@@ -7,6 +7,8 @@ tags:
 - oversight
 - census
 - immigration
+- taxes
+- mueller-investigation
 description: Surreal.
 image: "/uploads/894.jpg"
 todayInOneSentence: 'House Democrats sued for Trump''s tax returns; the Trump administration

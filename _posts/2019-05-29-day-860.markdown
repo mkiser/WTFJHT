@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- indictment
+- economy
+- media
 description: Not an option.
 image: "/uploads/860.jpg"
 todayInOneSentence: Mueller said charging Trump with a crime was "not an option";

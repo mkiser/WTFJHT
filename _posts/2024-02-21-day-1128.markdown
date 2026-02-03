@@ -8,6 +8,7 @@ tags:
 - presidential-election
 - indictment
 - economy
+- education
 description: '"The type of chaos that we expected."'
 image: "/uploads/day1128biden.jpg"
 todayInOneSentence: The Alabama Supreme Court ruled that frozen embryos created through

@@ -7,6 +7,8 @@ tags:
 - climate
 - foreign-policy
 - corruption
+- economy
+- covid
 description: '"We have a lot to do."'
 image: "/uploads/31-biden-nato.jpg"
 todayInOneSentence: The United States officially returned to the Paris climate accord;

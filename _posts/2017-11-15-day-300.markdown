@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- economy
+- congress
+- immigration
+- russia
 description: No plans.
 image: "/uploads/300.jpg"
 ---

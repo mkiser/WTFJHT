@@ -6,6 +6,7 @@ tags:
 - disinformation
 - economy
 - executive-order
+- congress
 description: '"A scandal is brewing."'
 image: "/uploads/day-1542-trump.jpg"
 todayInOneSentence: 'The House passed a Republican bill requiring documentary proof

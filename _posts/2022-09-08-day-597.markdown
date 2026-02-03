@@ -8,6 +8,7 @@ tags:
 - jan-6
 - economy
 - climate
+- congress
 description: '"Until the job is done."'
 image: "/uploads/day-597-biden.jpg"
 todayInOneSentence: The Justice Department appealed a federal judge’s decision to

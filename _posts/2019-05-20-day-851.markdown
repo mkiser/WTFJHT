@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- congress
+- climate
+- israel-palestine
 description: '"Threshold for impeachment."'
 image: "/uploads/851.jpg"
 todayInOneSentence: 'Deutsche Bank staff flagged multiple suspicious transactions

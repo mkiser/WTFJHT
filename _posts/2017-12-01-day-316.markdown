@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - taxes
+- congress
+- media
+- oversight
 description: Full cooperation.
 image: "/uploads/316.jpg"
 ---

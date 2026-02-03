@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- voting-rights
+- oversight
+- congress
 description: '"This cannot be our future."'
 image: "/uploads/biden-harris-trump-impeachment-day-21.jpg"
 todayInOneSentence: Trump's impeachment trial kicked off in the Senate with House

@@ -7,6 +7,8 @@ tags:
 - covid
 - ukraine
 - jan-6
+- congress
+- climate
 description: '"Not a close call."'
 image: "/uploads/day-420-biden.jpg"
 todayInOneSentence: 'The White House will wind down a Covid-19 program that pays to

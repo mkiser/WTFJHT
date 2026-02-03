@@ -7,6 +7,8 @@ tags:
 - national-security
 - reproductive-rights
 - covid
+- supreme-court
+- congress
 description: '"A bad thing."'
 image: "/uploads/day-877-biden.jpg"
 todayInOneSentence: Multiple federal agencies were hacked; the White House will continue

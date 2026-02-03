@@ -6,6 +6,7 @@ tags:
 - judiciary
 - oversight
 - economy
+- immigration
 description: '"Weaklings."'
 image: "/uploads/day-1639trump.jpg"
 todayInOneSentence: 'Trump disavowed his supporters demanding the release of the Jeffrey

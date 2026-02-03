@@ -6,6 +6,7 @@ tags:
 - oversight
 - corruption
 - disinformation
+- immigration
 description: '"Covering up things."'
 image: "/uploads/day1798trump.jpg"
 todayInOneSentence: 'On Friday, the Justice Department released a limited batch of

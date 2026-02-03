@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- ukraine
+- oversight
+- national-security
 description: '"Nobody comes to Congress to impeach a president."'
 image: "/uploads/1015.jpg"
 todayInOneSentence: The House approved a resolution to formally authorize and set

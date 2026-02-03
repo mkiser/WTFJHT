@@ -6,6 +6,7 @@ tags:
 - oversight
 - corruption
 - disinformation
+- congress
 description: '"This is a train wreck."'
 image: "/uploads/day1687-trump.jpg"
 todayInOneSentence: More than 1,000 current and former HHS employees called on Health

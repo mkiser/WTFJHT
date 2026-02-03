@@ -7,6 +7,8 @@ tags:
 - covid
 - economy
 - corruption
+- education
+- congress
 description: '"We want them infected."'
 image: "/uploads/1427.jpg"
 todayInOneSentence: 'Nearly 8 million Americans fell into poverty over the past five

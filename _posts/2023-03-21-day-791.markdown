@@ -8,6 +8,7 @@ tags:
 - reproductive-rights
 - lgbtq-rights
 - healthcare
+- congress
 description: '"A necessary step."'
 image: "/uploads/day-791-biden.jpg"
 todayInOneSentence: 'The Senate advanced a bill to repeal the congressional authorization

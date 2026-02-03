@@ -8,6 +8,7 @@ tags:
 - national-security
 - education
 - russia
+- congress
 description: 'Still intends to cooperate. '
 image: "/uploads/417.jpg"
 ---

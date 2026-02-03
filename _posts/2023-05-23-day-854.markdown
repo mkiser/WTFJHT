@@ -8,6 +8,7 @@ tags:
 - lawsuit
 - indictment
 - presidential-election
+- congress
 description: '"Very substantial."'
 image: "/uploads/day-584-biden.jpg"
 todayInOneSentence: The Texas billionaire and Republican megadonor with close ties

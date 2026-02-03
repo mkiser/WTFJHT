@@ -2,8 +2,14 @@
 layout: default
 ---
 
+{% assign tag_slug = page.tag_display | downcase | replace: ' ', '-' %}
+{% assign tag_info = site.data.tag_descriptions[tag_slug] %}
+
 <div class="tag-archive">
   <h1 class="tag-archive__heading">{{ page.tag_display }}</h1>
+  {% if tag_info.summary %}
+  <p class="tag-archive__summary">{{ tag_info.summary }}</p>
+  {% endif %}
   <p class="tag-archive__count">{{ page.posts_count }} post{% if page.posts_count != 1 %}s{% endif %}</p>
 
   <ul class="tag-archive__list">

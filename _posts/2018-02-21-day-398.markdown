@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - gun-policy
+- national-security
+- indictment
+- oversight
 description: Subversion.
 image: "/uploads/398.jpg"
 ---

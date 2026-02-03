@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - corruption
 - indictment
+- media
+- immigration
 description: 'Panic mode. '
 image: "/uploads/466.jpg"
 ---

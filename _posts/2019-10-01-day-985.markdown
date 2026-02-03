@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- mueller-investigation
+- oversight
+- media
+- congress
 description: Entitled.
 image: "/uploads/985.jpg"
 todayInOneSentence: Mike Pompeo told House Democrats that the five State Department

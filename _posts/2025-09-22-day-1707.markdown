@@ -6,6 +6,7 @@ tags:
 - corruption
 - immigration
 - healthcare
+- media
 description: '"Based on what I feel."'
 image: "/uploads/day1707trump.jpg"
 todayInOneSentence: Trump demanded that Attorney General Pam Bondi prosecute his political

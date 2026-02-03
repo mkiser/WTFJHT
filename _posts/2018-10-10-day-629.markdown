@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - healthcare
+- climate
+- economy
+- taxes
+- media
 description: Inevitable.
 image: "/uploads/629.jpg"
 todayInOneSentence: Trump claimed the Democratic Party's push for "Medicare for All"

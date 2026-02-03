@@ -7,6 +7,8 @@ tags:
 - covid
 - corruption
 - economy
+- mueller-investigation
+- nomination
 description: '"A great success story."'
 image: "/uploads/1196.jpg"
 todayInOneSentence: Trump said existing coronavirus social distancing guidelines –

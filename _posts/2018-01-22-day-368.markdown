@@ -6,6 +6,9 @@ categories:
 tags:
 - government-shutdown
 - healthcare
+- voting-rights
+- congress
+- economy
 description: Shutdown shut down.
 image: "/uploads/368.jpg"
 ---

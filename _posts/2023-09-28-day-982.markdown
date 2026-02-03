@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- congress
+- labor
+- voting-rights
+- protests
 description: '"Something dangerous happening in America."'
 image: "/uploads/day-982-biden.jpg"
 todayInOneSentence: 'Instead of negotiating a deal to fund the government, Matt Gaetz

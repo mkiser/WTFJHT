@@ -6,6 +6,7 @@ tags:
 - national-security
 - disinformation
 - jan-6
+- israel-palestine
 description: '"There’ll be others."'
 image: "/uploads/day1714trump.jpg"
 todayInOneSentence: 'Trump and Israeli Prime Minister Benjamin Netanyahu agreed on

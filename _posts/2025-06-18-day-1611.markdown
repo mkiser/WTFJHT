@@ -6,6 +6,7 @@ tags:
 - lgbtq-rights
 - healthcare
 - economy
+- congress
 description: '"Ultimate ultimatum."'
 image: "/uploads/day1611trump.jpg"
 todayInOneSentence: Trump approved U.S. strike plans on Iran but held back a final

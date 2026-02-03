@@ -6,6 +6,7 @@ tags:
 - judiciary
 - foreign-policy
 - trade
+- congress
 description: '"Built different."'
 image: "/uploads/day1735trump.jpg"
 todayInOneSentence: A divided federal appeals court ruled that Trump can deploy National

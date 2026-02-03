@@ -7,6 +7,8 @@ tags:
 - covid
 - voting-rights
 - jan-6
+- congress
+- economy
 description: '"Backsliding."'
 image: "/uploads/day-307-biden.jpg"
 todayInOneSentence: The number of U.S. Covid-19 deaths in 2021 surpassed the 2020

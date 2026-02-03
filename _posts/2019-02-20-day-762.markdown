@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - disinformation
 - media
+- congress
+- oversight
 description: Retribution.
 image: "/uploads/762.jpg"
 todayInOneSentence: The Justice Department will potentially announce the completion

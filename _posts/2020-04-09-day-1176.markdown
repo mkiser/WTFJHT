@@ -7,6 +7,8 @@ tags:
 - covid
 - economy
 - congress
+- immigration
+- cabinet
 description: No deal.
 image: "/uploads/1176.jpg"
 todayInOneSentence: Another 6.6 million Americans filed first-time unemployment claims

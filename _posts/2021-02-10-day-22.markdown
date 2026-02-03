@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - impeachment
+- covid
+- voting-rights
+- congress
+- education
 description: '"Inciter in chief."'
 image: "/uploads/trump-impeachment-day-2.jpg"
 todayInOneSentence: House Democrats opened their impeachment case against Trump arguing

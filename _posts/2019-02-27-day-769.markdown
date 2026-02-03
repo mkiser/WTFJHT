@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - congress
 - oversight
+- media
+- taxes
 description: Spin this.
 image: "/uploads/769.jpg"
 todayInOneSentence: 'During public testimony before the House Oversight Committee,

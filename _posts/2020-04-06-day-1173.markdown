@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- covid
+- economy
+- oversight
+- resignation
 description: '"Not a big Trump fan."'
 image: "/uploads/1173.jpg"
 todayInOneSentence: Trump warned "there will be a lot of death" and this will be "toughest

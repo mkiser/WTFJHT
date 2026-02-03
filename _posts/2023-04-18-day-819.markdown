@@ -8,6 +8,7 @@ tags:
 - congress
 - lawsuit
 - supreme-court
+- judiciary
 description: '"Extremely unusual."'
 image: "/uploads/day-819-biden.jpg"
 todayInOneSentence: Mitch McConnell and Senate Republicans won't allow Democrats to

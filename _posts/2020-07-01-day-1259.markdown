@@ -13,6 +13,12 @@ todayInOneSentence: The number of confirmed U.S. coronavirus deaths is "a substa
   Party"; Trump called New York City’s decision to paint "Black Lives Matter" on Fifth
   Avenue a "symbol of hate"; and Trump recently told people that he regrets following
   some of Jared Kushner's political advice.
+tags:
+- covid
+- economy
+- congress
+- media
+- national-security
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

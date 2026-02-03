@@ -8,6 +8,7 @@ tags:
 - tech-policy
 - national-security
 - corruption
+- economy
 description: Barbaric.
 image: "/uploads/445.jpg"
 ---

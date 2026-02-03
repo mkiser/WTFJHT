@@ -7,6 +7,8 @@ tags:
 - covid
 - economy
 - energy
+- protests
+- congress
 description: '"Call your own shots."'
 image: "/uploads/1183.jpg"
 todayInOneSentence: Trump's new federal guidelines for opening up the country will

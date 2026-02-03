@@ -6,6 +6,7 @@ tags:
 - climate
 - oversight
 - corruption
+- congress
 description: '"One step at a time."'
 image: "/uploads/day-1646-trump.jpg"
 todayInOneSentence: Attorney General Pam Bondi told Trump in May that his name appeared

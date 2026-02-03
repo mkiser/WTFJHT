@@ -6,6 +6,9 @@ categories:
 tags:
 - supreme-court
 - immigration
+- congress
+- national-security
+- media
 description: Unfathomable.
 image: "/uploads/623.jpg"
 todayInOneSentence: The White House is "fully confident" that Brett Kavanaugh will

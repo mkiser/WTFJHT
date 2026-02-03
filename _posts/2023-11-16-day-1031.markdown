@@ -8,6 +8,7 @@ tags:
 - congress
 - israel-palestine
 - lawsuit
+- national-security
 description: '"Cannot be trusted."'
 image: "/uploads/day-1031-biden.jpg"
 todayInOneSentence: 'The Senate approved a temporary funding measure to avert a government

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- media
+- climate
+- congress
+- mueller-investigation
 description: Misplaced certainty.
 image: "/uploads/881.jpg"
 todayInOneSentence: The EPA rolled back Obama's Clean Power Plan; Hope Hicks refused

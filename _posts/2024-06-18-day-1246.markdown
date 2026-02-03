@@ -6,6 +6,9 @@ categories:
 tags:
 - immigration
 - indictment
+- congress
+- national-security
+- oversight
 description: '"A good day."'
 image: "/uploads/day-1246-biden.jpg"
 todayInOneSentence: Biden announced executive actions to protect some 500,000 immigrants

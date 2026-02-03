@@ -6,6 +6,7 @@ tags:
 - voting-rights
 - congress
 - executive-order
+- israel-palestine
 description: '"Done waiting."'
 image: "/uploads/day1672trump.jpg"
 todayInOneSentence: 'Trump paused a meeting with Ukrainian President Volodymyr Zelensky

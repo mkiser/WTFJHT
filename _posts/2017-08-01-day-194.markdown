@@ -6,6 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - indictment
+- congress
+- economy
+- media
 description: Dictated.
 image: "/uploads/194.jpg"
 ---

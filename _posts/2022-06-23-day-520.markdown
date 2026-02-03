@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - pardon
+- education
+- congress
+- gun-policy
+- lgbtq-rights
 description: '"Substantial misconduct."'
 image: "/uploads/day-520-biden.jpg"
 tag_excerpts:

@@ -7,6 +7,8 @@ tags:
 - protests
 - immigration
 - civil-rights
+- polling
+- media
 description: Ripped apart.
 image: "/uploads/210.jpg"
 ---

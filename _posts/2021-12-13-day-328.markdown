@@ -8,6 +8,7 @@ tags:
 - covid
 - jan-6
 - oversight
+- congress
 description: '"No choice."'
 image: "/uploads/day-328-biden.jpg"
 todayInOneSentence: Joe Manchin signaled concerns about inflation and the cost and

@@ -7,6 +7,8 @@ tags:
 - special-election
 - impeachment
 - national-security
+- congress
+- indictment
 description: '"Destabilizing."'
 image: "/uploads/day1121biden.jpg"
 todayInOneSentence: Democrats won a special election and flipped George Santos' seat

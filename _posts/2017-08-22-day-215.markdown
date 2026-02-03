@@ -6,6 +6,9 @@ categories:
 tags:
 - foreign-policy
 - national-security
+- congress
+- immigration
+- economy
 description: Principled realism.
 image: "/uploads/215.jpg"
 ---

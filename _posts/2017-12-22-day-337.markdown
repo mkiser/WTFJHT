@@ -7,6 +7,8 @@ tags:
 - taxes
 - midterm-election
 - immigration
+- congress
+- voting-rights
 description: Very intense.
 image: "/uploads/337.jpg"
 ---

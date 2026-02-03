@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- congress
+- media
+- national-security
+- indictment
 description: '"Are you ready?"'
 image: "/uploads/1049.jpg"
 todayInOneSentence: Trump committed impeachable offenses, according to three constitutional

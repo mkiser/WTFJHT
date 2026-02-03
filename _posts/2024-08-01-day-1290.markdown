@@ -8,6 +8,7 @@ tags:
 - russia
 - presidential-election
 - judiciary
+- media
 description: '"The American people deserve better."'
 image: "/uploads/day-1290-biden-harris.jpg"
 todayInOneSentence: 'Russia freed wrongly convicted journalist Evan Gershkovich and

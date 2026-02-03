@@ -7,6 +7,8 @@ tags:
 - protests
 - mueller-investigation
 - civil-rights
+- national-security
+- media
 description: On many sides.
 image: "/uploads/207.jpg"
 ---

@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - national-security
 - media
+- tech-policy
+- congress
 description: Wrap it up.
 image: "/uploads/476.jpg"
 ---

@@ -6,7 +6,9 @@ categories:
 tags:
 - foreign-policy
 - criminal-justice
-- military
+- national-security
+- national-security
+- covid
 description: '"An affront to our shared humanity."'
 image: "/uploads/day-164-biden.jpg"
 todayInOneSentence: The U.S. military vacated Bagram Airfield in Afghanistan after

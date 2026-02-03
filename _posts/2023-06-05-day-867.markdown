@@ -8,6 +8,7 @@ tags:
 - presidential-election
 - lgbtq-rights
 - immigration
+- indictment
 description: '"Political stunts."'
 image: "/uploads/day-867-biden.jpg"
 todayInOneSentence: 'Trump''s attorneys met with the Justice Department to argue why

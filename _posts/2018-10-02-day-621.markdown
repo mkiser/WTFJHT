@@ -8,6 +8,7 @@ tags:
 - supreme-court
 - corruption
 - lgbtq-rights
+- congress
 description: Tired of winning.
 image: "/uploads/621.jpg"
 todayInOneSentence: Trump inherited his family's wealth through fraud and questionable

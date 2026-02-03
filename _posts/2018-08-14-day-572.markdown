@@ -6,7 +6,9 @@ categories:
 tags:
 - mueller-investigation
 - corruption
-- elections
+- presidential-election
+- taxes
+- polling
 description: Lowlife.
 image: "/uploads/572.jpg"
 todayInOneSentence: Omarosa released audio of Trump campaign aides discussing how

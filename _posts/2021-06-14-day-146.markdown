@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - judiciary
 - oversight
+- mueller-investigation
+- national-security
 description: '"Accountability."'
 image: "/uploads/day-146-biden-trump-doj.jpg"
 todayInOneSentence: Biden reaffirmed NATO’s Article 5 – a central tenet of collective

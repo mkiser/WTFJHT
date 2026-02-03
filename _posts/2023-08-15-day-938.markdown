@@ -7,6 +7,8 @@ tags:
 - indictment
 - education
 - national-security
+- classified-documents
+- congress
 description: '"A criminal enterprise."'
 image: "/uploads/day-938-biden.jpg"
 todayInOneSentence: Trump and 18 others were indicted by an Atlanta grand jury in

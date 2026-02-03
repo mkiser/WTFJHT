@@ -5,6 +5,10 @@ categories:
 - biden
 tags:
 - doge
+- economy
+- voting-rights
+- healthcare
+- immigration
 description: '"Petty tyrant."'
 image: "/uploads/day-1380-biden-harris.jpg"
 tag_excerpts:

@@ -4,10 +4,11 @@ date: 2023-05-15 15:41:00 -07:00
 categories:
 - biden
 tags:
-- violence
+- protests
 - debt-ceiling
 - mueller-investigation
 - education
+- indictment
 description: '"Remain optimistic."'
 image: "/uploads/biden-846.jpg"
 todayInOneSentence: 'A man armed with a metal baseball bat attacked two staff members

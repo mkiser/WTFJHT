@@ -7,6 +7,8 @@ tags:
 - taxes
 - healthcare
 - special-election
+- congress
+- voting-rights
 description: Refreshed.
 image: "/uploads/293.jpg"
 ---

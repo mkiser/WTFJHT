@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - impeachment
+- china
+- congress
+- russia
+- oversight
 description: 'Below average. '
 image: "/uploads/1072.jpg"
 todayInOneSentence: A Republican senator is "disturbed" by the coordination between

@@ -8,6 +8,7 @@ tags:
 - immigration
 - climate
 - national-security
+- media
 description: '"This is deadly serious."'
 image: "/uploads/biden-69.jpg"
 todayInOneSentence: CDC Director Rochelle Walensky warned of "impending doom" as Covid-19

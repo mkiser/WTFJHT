@@ -6,7 +6,9 @@ categories:
 tags:
 - trade
 - supreme-court
-- elections
+- presidential-election
+- media
+- congress
 description: A new dawn.
 image: "/uploads/620.jpg"
 todayInOneSentence: 'The U.S., Mexico, and Canada reached a deal to revise NAFTA;

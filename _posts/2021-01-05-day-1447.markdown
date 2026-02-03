@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - national-security
 - climate
+- covid
+- nomination
 description: '"Save America."'
 image: "/uploads/1447.jpg"
 todayInOneSentence: Trump falsely claimed that Pence has the power to unilaterally

@@ -8,6 +8,7 @@ tags:
 - economy
 - energy
 - tech-policy
+- congress
 description: '"Get it done."'
 image: "/uploads/day-555-biden.jpg"
 todayInOneSentence: Biden hailed the Inflation Reduction Act as “a historic agreement

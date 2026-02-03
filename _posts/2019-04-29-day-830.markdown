@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - gun-policy
 - congress
+- national-security
+- nomination
 description: Personal conversations.
 image: "/uploads/830.jpg"
 todayInOneSentence: Rod Rosenstein resigned; Jerry Nadler threatened to subpoena Attorney

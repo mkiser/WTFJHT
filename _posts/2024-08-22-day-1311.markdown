@@ -7,6 +7,8 @@ tags:
 - presidential-election
 - reproductive-rights
 - voting-rights
+- israel-palestine
+- congress
 description: '"New way forward."'
 image: "/uploads/day-1311-biden-harris.jpg"
 todayInOneSentence: 'Tim Walz formally accepted the Democratic nomination for vice

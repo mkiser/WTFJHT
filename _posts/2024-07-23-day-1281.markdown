@@ -6,6 +6,9 @@ categories:
 tags:
 - presidential-election
 - national-security
+- congress
+- reproductive-rights
+- voting-rights
 description: '"Two different visions."'
 image: "/uploads/day-1281-biden-harris.jpg"
 todayInOneSentence: 'Kamala Harris has the support of enough Democratic delegates

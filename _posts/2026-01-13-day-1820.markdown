@@ -5,6 +5,8 @@ tags:
 - immigration
 - national-security
 - healthcare
+- economy
+- protests
 description: '"That jerk will be gone soon."'
 image: "/uploads/day1820trump.jpg"
 podcast:

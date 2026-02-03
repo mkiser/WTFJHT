@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - foreign-policy
+- economy
+- congress
+- voting-rights
+- supreme-court
 description: Despicable acts.
 image: "/uploads/643.jpg"
 todayInOneSentence: Packages containing "potential explosive devices" were sent to

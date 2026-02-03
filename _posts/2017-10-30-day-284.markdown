@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - indictment
 - lgbtq-rights
+- russia
+- judiciary
 description: '"NO COLLUSION!"'
 image: "/uploads/284.jpg"
 ---

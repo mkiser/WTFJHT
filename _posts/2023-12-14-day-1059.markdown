@@ -8,6 +8,7 @@ tags:
 - russia
 - national-security
 - oversight
+- impeachment
 description: '"Choosing to waste time."'
 image: "/uploads/day1059b.jpeg"
 todayInOneSentence: The White House warned Israel that its "high intensity" war in

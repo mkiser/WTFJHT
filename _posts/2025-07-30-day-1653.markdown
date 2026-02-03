@@ -6,6 +6,7 @@ tags:
 - economy
 - oversight
 - judiciary
+- congress
 description: '"Keep the door open."'
 image: "/uploads/day1653-trump.jpg"
 todayInOneSentence: 'Texas Republicans proposed a new congressional map that would

@@ -5,6 +5,10 @@ categories:
 - trump
 tags:
 - pardon
+- mueller-investigation
+- supreme-court
+- oversight
+- voting-rights
 description: 'Absolute right. '
 image: "/uploads/501.jpg"
 tag_excerpts:

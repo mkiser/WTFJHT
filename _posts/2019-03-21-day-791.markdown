@@ -7,6 +7,8 @@ tags:
 - ethics
 - foreign-policy
 - oversight
+- congress
+- protests
 description: Alternative means.
 image: "/uploads/791.jpg"
 todayInOneSentence: Kushner and Ivanka Trump used WhatsApp and personal email accounts

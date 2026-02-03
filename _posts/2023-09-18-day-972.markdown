@@ -8,6 +8,7 @@ tags:
 - indictment
 - reproductive-rights
 - labor
+- congress
 description: '"Make better choices."'
 image: "/uploads/day-972-biden.jpg"
 todayInOneSentence: 'Kevin McCarthy’s latest short-term funding proposal to avert

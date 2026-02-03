@@ -7,6 +7,8 @@ tags:
 - climate
 - foreign-policy
 - corruption
+- economy
+- mueller-investigation
 description: Magnificent.
 image: "/uploads/949.jpg"
 todayInOneSentence: Trump was the only world leader to skip a session devoted to climate

@@ -7,6 +7,8 @@ tags:
 - mueller-investigation
 - energy
 - climate
+- congress
+- economy
 description: Reckless escalation.
 image: "/uploads/600.jpg"
 todayInOneSentence: Trump began the 17th anniversary of the Sept. 11, 2001, terror

@@ -8,6 +8,7 @@ tags:
 - national-security
 - ethics
 - lawsuit
+- supreme-court
 description: '"Continued complications."'
 image: "/uploads/day-814-biden.jpg"
 todayInOneSentence: 'The Justice Department will seek emergency intervention from

@@ -8,6 +8,7 @@ tags:
 - executive-order
 - veterans
 - jan-6
+- congress
 description: '"America can breathe a sigh of relief."'
 image: "/uploads/day-561-biden.jpg"
 todayInOneSentence: 'Kansas voters rejected a proposed state constitutional amendment

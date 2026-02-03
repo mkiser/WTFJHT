@@ -8,6 +8,7 @@ tags:
 - foreign-policy
 - national-security
 - civil-rights
+- congress
 description: '"It’s called democracy."'
 image: "/uploads/day-1189-biden.jpg"
 todayInOneSentence: 'On the fifth day of Trump’s election interference case involving

@@ -305,8 +305,9 @@ module Jekyll
       end
 
       # Direct access to image path for templates
+      # Falls back to site logo if no page image
       def image_path
-        image&.path
+        image&.path || logo
       end
 
       def date_modified
@@ -324,13 +325,60 @@ module Jekyll
         @type ||= begin
           if page_seo["type"]
             page_seo["type"]
-          elsif homepage_or_about?
+          elsif homepage?
             "WebSite"
-          elsif page["date"]
-            "BlogPosting"
+          elsif page["layout"] == "post" && page["date"]
+            "NewsArticle"
           else
             "WebPage"
           end
+        end
+      end
+
+      # Keywords from post tags for structured data
+      def keywords
+        @keywords ||= begin
+          tags = page["tags"]
+          return nil unless tags.is_a?(Array) && !tags.empty?
+          tags.map { |t| t.to_s.tr("-", " ") }.join(", ")
+        end
+      end
+
+      # Breadcrumbs for navigation schema
+      def breadcrumbs
+        @breadcrumbs ||= begin
+          return nil if homepage_or_about?
+
+          crumbs = [{ "name" => "Home", "url" => site["url"] }]
+
+          if page["date"]
+            # Post: Home > Year > Month > Day Title
+            date = page["date"]
+            year = filters.date(date, "%Y")
+            month = filters.date(date, "%B")
+            month_num = filters.date(date, "%m")
+
+            crumbs << {
+              "name" => year,
+              "url" => "#{site["url"]}/archive/#{year}/"
+            }
+            crumbs << {
+              "name" => month,
+              "url" => "#{site["url"]}/archive/#{year}/#{month_num}/"
+            }
+            crumbs << {
+              "name" => page_title,
+              "url" => canonical_url
+            }
+          else
+            # Page: Home > Page Title
+            crumbs << {
+              "name" => format_string(page["title"]) || "Page",
+              "url" => canonical_url
+            }
+          end
+
+          crumbs
         end
       end
 
@@ -391,6 +439,10 @@ module Jekyll
         page["url"] =~ HOMEPAGE_OR_ABOUT_REGEX
       end
 
+      def homepage?
+        page["url"] =~ %r!^/(index\.html?)?$!
+      end
+
       def page_number
         return unless @context["paginator"] && @context["paginator"]["page"]
         current = @context["paginator"]["page"]
@@ -446,11 +498,12 @@ module Jekyll
       def_delegator :page_drop, :links,          :sameAs
       def_delegator :page_drop, :logo,           :logo
       def_delegator :page_drop, :type,           :type
+      def_delegator :page_drop, :keywords,       :keywords
 
       alias_method :@type, :type
       private :type, :logo
 
-      VALID_ENTITY_TYPES = %w(BlogPosting CreativeWork).freeze
+      VALID_ENTITY_TYPES = %w(BlogPosting CreativeWork NewsArticle).freeze
       VALID_AUTHOR_TYPES = %w(Organization Person).freeze
       private_constant :VALID_ENTITY_TYPES, :VALID_AUTHOR_TYPES
 
@@ -475,11 +528,17 @@ module Jekyll
 
       def image
         return unless page_drop.image
-        return page_drop.image.path if page_drop.image.keys.length == 1
-        hash = page_drop.image.to_h
-        hash["url"] = hash.delete("path")
-        hash["@type"] = "imageObject"
-        hash
+        img_path = page_drop.image.path
+        return nil unless img_path
+        # If image is just a path (no additional properties), return just the URL
+        img_hash = page_drop.image.to_h
+        if img_hash.empty? || img_hash.keys == ["path"]
+          img_path
+        else
+          img_hash["url"] = img_hash.delete("path") || img_path
+          img_hash["@type"] = "ImageObject"
+          img_hash
+        end
       end
 
       def publisher
@@ -495,6 +554,18 @@ module Jekyll
       end
       alias_method :mainEntityOfPage, :main_entity
       private :main_entity
+
+      # NewsArticle-specific: content is free to access
+      def isAccessibleForFree
+        return true if type == "NewsArticle"
+        nil
+      end
+
+      # Article section for NewsArticle
+      def articleSection
+        return "Daily Briefing" if type == "NewsArticle"
+        nil
+      end
 
       def to_json(state = nil)
         keys.sort.each_with_object({}) do |(key, _), result|

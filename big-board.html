@@ -28,9 +28,11 @@ redirect_from:
     var html = '';
 
     // Stats
+    var linksPerEdition = data.total_editions > 0 ? Math.round(data.total_links / data.total_editions) : 0;
     html += '<div class="stats-row">';
     html += '<div class="stat"><div class="stat-value">' + fmt(data.total_links) + '</div><div class="stat-label">External Links</div></div>';
-    html += '<div class="stat"><div class="stat-value">' + data.unique_domains + '</div><div class="stat-label">Unique Sources</div></div>';
+    html += '<div class="stat"><div class="stat-value">' + fmt(data.unique_domains) + '</div><div class="stat-label">Unique Sources</div></div>';
+    html += '<div class="stat"><div class="stat-value">' + linksPerEdition + '</div><div class="stat-label">Citations Per Edition</div></div>';
     html += '</div>';
 
     // Year chart

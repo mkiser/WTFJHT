@@ -10,6 +10,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
 
   domain_counts = Hash.new(0)
   total_links = 0
+  total_editions = 0
   links_by_year = Hash.new { |h, k| h[k] = Hash.new(0) }
   year_totals = Hash.new(0)
   domain_names = {}  # Store display names
@@ -70,6 +71,8 @@ Jekyll::Hooks.register :site, :post_write do |site|
     doc = Nokogiri::HTML(File.read(file))
     post_content = doc.at_css('.post-content')
     next unless post_content
+
+    total_editions += 1
 
     post_content.css('a[href^="http"]').each do |link|
       href = link['href']
@@ -185,6 +188,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
   leaderboard = {
     'generated' => Time.now.utc.iso8601,
     'total_links' => total_links,
+    'total_editions' => total_editions,
     'unique_domains' => domain_counts.size,
     'years' => year_data,
     'sources' => top_sources

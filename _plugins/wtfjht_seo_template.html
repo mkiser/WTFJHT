@@ -125,8 +125,49 @@
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
 
+{% unless page.url == "/" or page.url == "/index.html" %}
 <script type="application/ld+json">
   {{ seo_tag.json_ld | jsonify }}
 </script>
+{% endunless %}
+
+{% if seo_tag.breadcrumbs %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {% for crumb in seo_tag.breadcrumbs %}
+    {
+      "@type": "ListItem",
+      "position": {{ forloop.index }},
+      "name": {{ crumb.name | jsonify }},
+      "item": {{ crumb.url | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.url == "/" or page.url == "/index.html" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site.url | jsonify }},
+  "description": {{ site.description | strip_html | jsonify }},
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ site.url }}/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{% endif %}
 
 <!-- End Jekyll SEO tag -->

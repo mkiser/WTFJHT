@@ -7,43 +7,249 @@ var recordMap = {};
 var tagLookup = [];
 
 // Synonym map: search terms that should boost specific tags
-// Kept minimal for performance - only high-value, non-obvious mappings
+// Organized by category for maintainability
 var synonymToTags = {
-  // LGBTQ terms → lgbtq-rights
+  // === LGBTQ terms → lgbtq-rights ===
   'transgender': ['lgbtq-rights'], 'trans': ['lgbtq-rights'], 'gay': ['lgbtq-rights'],
   'lesbian': ['lgbtq-rights'], 'lgbtq': ['lgbtq-rights'], 'lgbt': ['lgbtq-rights'],
   'same-sex': ['lgbtq-rights'], 'queer': ['lgbtq-rights'], 'nonbinary': ['lgbtq-rights'],
-  'drag': ['lgbtq-rights'], 'gender affirming': ['lgbtq-rights'],
-  // Immigration terms → immigration
+  'drag': ['lgbtq-rights'], 'gender affirming': ['lgbtq-rights'], 'marriage equality': ['lgbtq-rights'],
+  'dont say gay': ['lgbtq-rights'], 'bathroom bill': ['lgbtq-rights'],
+
+  // === Immigration terms → immigration ===
   'daca': ['immigration'], 'dreamer': ['immigration'], 'dreamers': ['immigration'],
   'deportation': ['immigration'], 'deport': ['immigration'], 'ice': ['immigration'],
   'asylum': ['immigration'], 'refugee': ['immigration'], 'border wall': ['immigration'],
-  'family separation': ['immigration'], 'migrant': ['immigration'],
-  // Healthcare terms → healthcare
+  'family separation': ['immigration'], 'migrant': ['immigration'], 'caravan': ['immigration'],
+  'remain in mexico': ['immigration'], 'title 42': ['immigration'], 'cbp': ['immigration'],
+  'border patrol': ['immigration'], 'sanctuary city': ['immigration'], 'undocumented': ['immigration'],
+  'green card': ['immigration'], 'visa ban': ['immigration'], 'travel ban': ['immigration'],
+  'muslim ban': ['immigration'], 'zero tolerance': ['immigration'],
+
+  // === Healthcare terms → healthcare ===
   'obamacare': ['healthcare'], 'aca': ['healthcare'], 'medicaid': ['healthcare'],
-  'medicare': ['healthcare'], 'insulin': ['healthcare'],
-  // Reproductive rights terms
-  'abortion': ['reproductive-rights'], 'roe': ['reproductive-rights'],
-  'dobbs': ['reproductive-rights'], 'pro-choice': ['reproductive-rights'],
-  // Climate terms → climate
+  'medicare': ['healthcare'], 'insulin': ['healthcare'], 'preexisting condition': ['healthcare'],
+  'individual mandate': ['healthcare'], 'public option': ['healthcare'],
+  'drug pricing': ['healthcare'], 'prescription drug': ['healthcare'],
+
+  // === Reproductive rights terms ===
+  'abortion': ['reproductive-rights'], 'roe': ['reproductive-rights'], 'roe v wade': ['reproductive-rights'],
+  'dobbs': ['reproductive-rights'], 'pro-choice': ['reproductive-rights'], 'pro-life': ['reproductive-rights'],
+  'planned parenthood': ['reproductive-rights'], 'mifepristone': ['reproductive-rights'],
+  'heartbeat bill': ['reproductive-rights'], 'fetal': ['reproductive-rights'],
+
+  // === Climate terms → climate ===
   'paris agreement': ['climate'], 'epa': ['climate'], 'emissions': ['climate'],
-  'fossil fuel': ['climate'], 'global warming': ['climate'],
-  // Mueller/Russia terms
+  'fossil fuel': ['climate'], 'global warming': ['climate'], 'climate change': ['climate'],
+  'carbon': ['climate'], 'greenhouse': ['climate'], 'renewable': ['climate'],
+  'clean energy': ['climate'], 'keystone': ['climate'], 'pipeline': ['climate'],
+  'drilling': ['climate'], 'offshore drilling': ['climate'], 'fracking': ['climate'],
+
+  // === Mueller/Russia investigation terms ===
   'mueller': ['mueller-investigation'], 'collusion': ['mueller-investigation'],
   'comey': ['mueller-investigation'], 'manafort': ['mueller-investigation'],
-  // Jan 6 terms
+  'roger stone': ['mueller-investigation'], 'michael flynn': ['mueller-investigation'],
+  'flynn': ['mueller-investigation'], 'papadopoulos': ['mueller-investigation'],
+  'obstruction': ['mueller-investigation', 'oversight'], 'special counsel': ['mueller-investigation'],
+  'rosenstein': ['mueller-investigation'], 'sessions': ['mueller-investigation'],
+  'steele dossier': ['mueller-investigation'], 'russian interference': ['mueller-investigation', 'russia'],
+
+  // === Jan 6 terms ===
   'capitol riot': ['jan-6'], 'insurrection': ['jan-6'], 'january 6': ['jan-6'],
   'proud boys': ['jan-6'], 'oath keepers': ['jan-6'], 'stop the steal': ['jan-6'],
-  // COVID terms
+  'jan 6': ['jan-6'], 'capitol attack': ['jan-6'], 'capitol breach': ['jan-6'],
+  'seditious conspiracy': ['jan-6'], 'enrique tarrio': ['jan-6'], 'stewart rhodes': ['jan-6'],
+  'ray epps': ['jan-6'], 'ashli babbitt': ['jan-6'],
+
+  // === COVID terms ===
   'coronavirus': ['covid'], 'pandemic': ['covid'], 'vaccine': ['covid'],
-  'fauci': ['covid'], 'lockdown': ['covid'],
-  // Other high-value mappings
-  'scotus': ['supreme-court'], 'filibuster': ['congress'], 'subpoena': ['oversight'],
-  'whistleblower': ['oversight'], 'pardon': ['pardon'], 'clemency': ['pardon'],
-  'tariff': ['tariffs'], 'trade war': ['tariffs', 'trade'],
+  'fauci': ['covid'], 'lockdown': ['covid'], 'covid-19': ['covid'], 'covid19': ['covid'],
+  'mask mandate': ['covid'], 'social distancing': ['covid'], 'hydroxychloroquine': ['covid'],
+  'ventilator': ['covid'], 'cdc': ['covid'], 'quarantine': ['covid'], 'wuhan': ['covid'],
+  'operation warp speed': ['covid'],
+
+  // === Impeachment terms ===
+  'impeach': ['impeachment'], 'impeached': ['impeachment'], 'articles of impeachment': ['impeachment'],
+  'high crimes': ['impeachment'], 'misdemeanors': ['impeachment'],
+  'ukraine call': ['impeachment', 'ukraine'], 'perfect call': ['impeachment', 'ukraine'],
+  'quid pro quo': ['impeachment', 'ukraine'], 'burisma': ['impeachment', 'ukraine'],
+  'vindman': ['impeachment'], 'sondland': ['impeachment'], 'yovanovitch': ['impeachment'],
+
+  // === Trump trials/legal terms ===
+  'indictment': ['trump-trials'], 'indicted': ['trump-trials'],
+  'stormy daniels': ['trump-trials'], 'hush money': ['trump-trials'],
+  'alvin bragg': ['trump-trials'], 'manhattan da': ['trump-trials'],
+  'fani willis': ['trump-trials'], 'georgia case': ['trump-trials'],
+  'jack smith': ['trump-trials', 'classified-documents'], 'e jean carroll': ['trump-trials'],
+  'fraud trial': ['trump-trials'], 'civil fraud': ['trump-trials'],
+  'letitia james': ['trump-trials'], 'engoron': ['trump-trials'],
+
+  // === Classified documents ===
   'classified': ['classified-documents'], 'mar-a-lago': ['classified-documents'],
-  'zelensky': ['ukraine', 'impeachment'], 'putin': ['russia'],
-  'hamas': ['israel-palestine'], 'gaza': ['israel-palestine'], 'netanyahu': ['israel-palestine']
+  'classified documents': ['classified-documents'], 'documents case': ['classified-documents'],
+  'archives': ['classified-documents'], 'national archives': ['classified-documents'],
+  'espionage act': ['classified-documents'], 'top secret': ['classified-documents'],
+
+  // === Voting/elections ===
+  'voter fraud': ['voting-rights', 'elections'], 'election fraud': ['voting-rights', 'elections'],
+  'ballot': ['voting-rights', 'elections'], 'gerrymandering': ['voting-rights'],
+  'voter suppression': ['voting-rights'], 'voter id': ['voting-rights'],
+  'electoral college': ['elections'], 'recount': ['elections'],
+  'mail-in voting': ['voting-rights', 'elections'], 'absentee': ['voting-rights', 'elections'],
+  'dominion': ['elections'], 'voting machine': ['elections'],
+  'stop the count': ['elections', 'jan-6'], 'certification': ['elections', 'jan-6'],
+
+  // === Supreme Court ===
+  'scotus': ['supreme-court'], 'kavanaugh': ['supreme-court'], 'barrett': ['supreme-court'],
+  'gorsuch': ['supreme-court'], 'alito': ['supreme-court'], 'thomas': ['supreme-court'],
+  'roberts': ['supreme-court'], 'judicial nomination': ['supreme-court'],
+  'court packing': ['supreme-court'], 'merrick garland': ['supreme-court'],
+
+  // === Congress ===
+  'filibuster': ['congress'], 'debt ceiling': ['congress', 'budget'],
+  'government shutdown': ['congress', 'budget'], 'continuing resolution': ['congress', 'budget'],
+  'reconciliation': ['congress'], 'cloture': ['congress'], 'mcconnell': ['congress'],
+  'pelosi': ['congress'], 'schumer': ['congress'], 'mccarthy': ['congress'],
+
+  // === Oversight/accountability ===
+  'subpoena': ['oversight'], 'whistleblower': ['oversight'], 'contempt': ['oversight'],
+  'testimony': ['oversight'], 'congressional hearing': ['oversight'],
+  'executive privilege': ['oversight'], 'inspector general': ['oversight'],
+  'ethics violation': ['oversight', 'corruption'], 'emoluments': ['oversight', 'corruption'],
+
+  // === Pardons ===
+  'pardon': ['pardon'], 'clemency': ['pardon'], 'commute': ['pardon'],
+  'arpaio': ['pardon'], 'self-pardon': ['pardon'],
+
+  // === Trade/tariffs ===
+  'tariff': ['tariffs'], 'trade war': ['tariffs', 'trade'], 'trade deal': ['trade'],
+  'nafta': ['trade'], 'usmca': ['trade'], 'tpp': ['trade'],
+  'wto': ['trade'], 'trade deficit': ['trade'], 'import': ['tariffs', 'trade'],
+
+  // === Foreign policy - Ukraine ===
+  'zelensky': ['ukraine'], 'kyiv': ['ukraine'], 'kiev': ['ukraine'],
+  'crimea': ['ukraine', 'russia'], 'donbas': ['ukraine'], 'javelin': ['ukraine'],
+  'military aid': ['ukraine'], 'zelenskyy': ['ukraine'],
+
+  // === Foreign policy - Russia ===
+  'putin': ['russia'], 'kremlin': ['russia'], 'sanctions': ['russia'],
+  'oligarch': ['russia'], 'soviet': ['russia'], 'moscow': ['russia'],
+  'election interference': ['russia', 'elections'],
+
+  // === Foreign policy - China ===
+  'xi jinping': ['china'], 'beijing': ['china'], 'taiwan': ['china'],
+  'hong kong': ['china'], 'tiktok': ['china'], 'huawei': ['china'],
+  'uyghur': ['china'], 'xinjiang': ['china'],
+
+  // === Foreign policy - Middle East ===
+  'hamas': ['israel-palestine'], 'gaza': ['israel-palestine'], 'netanyahu': ['israel-palestine'],
+  'west bank': ['israel-palestine'], 'two-state': ['israel-palestine'],
+  'saudi arabia': ['middle-east'], 'mbs': ['middle-east'], 'khashoggi': ['middle-east'],
+  'iran deal': ['iran'], 'jcpoa': ['iran'], 'soleimani': ['iran'],
+
+  // === Foreign policy - North Korea ===
+  'kim jong un': ['north-korea'], 'pyongyang': ['north-korea'],
+  'denuclearization': ['north-korea'], 'icbm': ['north-korea'],
+
+  // === Cabinet/personnel ===
+  'cabinet': ['cabinet'], 'acting': ['cabinet'], 'confirmation': ['cabinet'],
+  'resign': ['cabinet'], 'fired': ['cabinet'], 'tillerson': ['cabinet'],
+  'mattis': ['cabinet'], 'kelly': ['cabinet'], 'nielsen': ['cabinet'],
+  'pompeo': ['cabinet'], 'barr': ['cabinet'], 'bolton': ['cabinet'],
+
+  // === Media ===
+  'fake news': ['media'], 'enemy of the people': ['media'], 'press briefing': ['media'],
+  'cnn': ['media'], 'acosta': ['media'], 'press freedom': ['media'],
+
+  // === Economy ===
+  'jobs report': ['economy'], 'unemployment': ['economy'], 'recession': ['economy'],
+  'inflation': ['economy'], 'interest rate': ['economy'], 'fed': ['economy'],
+  'stock market': ['economy'], 'gdp': ['economy'], 'deficit': ['economy', 'budget'],
+  'stimulus': ['economy', 'covid'], 'bailout': ['economy'],
+
+  // === Taxes ===
+  'tax cut': ['taxes'], 'tax reform': ['taxes'], 'tax return': ['taxes'],
+  'irs': ['taxes'], 'corporate tax': ['taxes']
+};
+
+// Concept clusters: abstract concepts that map to multiple related tags
+// These capture conceptual searches that don't map to specific terminology
+var conceptClusters = {
+  // === Constitutional/governance concepts ===
+  'abuse of power': ['impeachment', 'oversight', 'corruption'],
+  'executive overreach': ['executive-order', 'oversight', 'impeachment'],
+  'constitutional crisis': ['impeachment', 'supreme-court', 'oversight', 'jan-6'],
+  'checks and balances': ['oversight', 'congress', 'supreme-court'],
+  'rule of law': ['oversight', 'trump-trials', 'justice-department'],
+  'separation of powers': ['oversight', 'executive-order', 'congress'],
+  'authoritarianism': ['executive-order', 'democracy', 'media'],
+  'democratic norms': ['democracy', 'elections', 'oversight'],
+
+  // === Corruption/ethics concepts ===
+  'corruption': ['corruption', 'oversight', 'emoluments'],
+  'conflicts of interest': ['corruption', 'emoluments', 'oversight'],
+  'self-dealing': ['corruption', 'emoluments', 'ethics'],
+  'cover-up': ['mueller-investigation', 'oversight', 'impeachment', 'jan-6'],
+  'obstruction of justice': ['mueller-investigation', 'oversight', 'impeachment'],
+  'witness tampering': ['mueller-investigation', 'oversight', 'trump-trials'],
+  'grift': ['corruption', 'emoluments'],
+
+  // === Election integrity concepts ===
+  'election integrity': ['voting-rights', 'elections', 'jan-6'],
+  'big lie': ['elections', 'jan-6', 'voting-rights'],
+  'stolen election': ['elections', 'jan-6', 'voting-rights'],
+  'voter suppression': ['voting-rights'],
+  'election denial': ['elections', 'jan-6'],
+  'democracy': ['voting-rights', 'elections', 'jan-6', 'democracy'],
+
+  // === National security concepts ===
+  'national security': ['russia', 'china', 'classified-documents', 'national-security'],
+  'foreign interference': ['russia', 'elections', 'mueller-investigation'],
+  'espionage': ['classified-documents', 'russia', 'china'],
+  'intelligence': ['national-security', 'classified-documents', 'oversight'],
+
+  // === Civil rights concepts ===
+  'civil rights': ['lgbtq-rights', 'voting-rights', 'reproductive-rights', 'immigration'],
+  'civil liberties': ['lgbtq-rights', 'voting-rights', 'reproductive-rights'],
+  'discrimination': ['lgbtq-rights', 'voting-rights', 'immigration'],
+  'equal rights': ['lgbtq-rights', 'voting-rights', 'reproductive-rights'],
+  'bodily autonomy': ['reproductive-rights', 'healthcare', 'covid'],
+
+  // === Economic concepts ===
+  'economic policy': ['economy', 'taxes', 'tariffs', 'trade'],
+  'trade war': ['tariffs', 'trade', 'china'],
+  'economic inequality': ['economy', 'taxes'],
+  'consumer protection': ['economy', 'healthcare'],
+
+  // === Environmental concepts ===
+  'climate denial': ['climate', 'epa'],
+  'environmental protection': ['climate', 'epa'],
+  'clean air': ['climate', 'epa'],
+  'clean water': ['climate', 'epa'],
+
+  // === Government function concepts ===
+  'government dysfunction': ['congress', 'budget', 'cabinet'],
+  'cabinet chaos': ['cabinet', 'white-house'],
+  'turnover': ['cabinet', 'white-house'],
+  'acting officials': ['cabinet'],
+
+  // === Media/truth concepts ===
+  'disinformation': ['media', 'elections', 'covid', 'disinformation'],
+  'misinformation': ['media', 'elections', 'covid', 'disinformation'],
+  'propaganda': ['media', 'russia', 'disinformation'],
+  'press freedom': ['media'],
+  'truth': ['media', 'disinformation'],
+
+  // === Justice system concepts ===
+  'criminal justice': ['justice-department', 'trump-trials'],
+  'political prosecution': ['trump-trials', 'justice-department'],
+  'weaponization': ['justice-department', 'oversight'],
+
+  // === Foreign policy concepts ===
+  'foreign policy': ['russia', 'china', 'ukraine', 'iran', 'north-korea'],
+  'diplomacy': ['russia', 'china', 'ukraine', 'iran', 'north-korea'],
+  'alliance': ['nato', 'trade'],
+  'war': ['ukraine', 'middle-east', 'iran']
 };
 
 // Handle messages from main thread
@@ -169,16 +375,18 @@ function matchesTags(recordTags, filterTags) {
   });
 }
 
-// Calculate boost based on tag matches with search terms (including synonyms)
+// Calculate boost based on tag matches with search terms (including synonyms and concepts)
 function calculateTagBoost(tags, queryTerms, queryText) {
   if (!tags || tags.length === 0) return 1.0;
   var boost = 1.0;
   var queryLower = queryText.toLowerCase();
+  var matchedTags = {};  // Track which tags already got boosted to avoid double-boosting
 
   // Check direct tag matches
   queryTerms.forEach(function(term) {
     if (tags.some(function(t) { return t.toLowerCase() === term; })) {
       boost *= 1.5;  // Exact tag match
+      matchedTags[term] = true;
     } else if (tags.join(' ').toLowerCase().indexOf(term) !== -1) {
       boost *= 1.2;  // Partial tag match
     }
@@ -189,14 +397,33 @@ function calculateTagBoost(tags, queryTerms, queryText) {
     if (queryLower.indexOf(synonym) !== -1) {
       var targetTags = synonymToTags[synonym];
       targetTags.forEach(function(targetTag) {
-        if (tags.some(function(t) { return t.toLowerCase() === targetTag; })) {
+        if (!matchedTags[targetTag] && tags.some(function(t) { return t.toLowerCase() === targetTag; })) {
           boost *= 1.8;  // Synonym-to-tag match (strong signal)
+          matchedTags[targetTag] = true;
         }
       });
     }
   });
 
-  return Math.min(boost, 3.0);  // Cap boost
+  // Check concept cluster matches - for abstract/conceptual queries
+  Object.keys(conceptClusters).forEach(function(concept) {
+    if (queryLower.indexOf(concept) !== -1) {
+      var relatedTags = conceptClusters[concept];
+      var conceptMatchCount = 0;
+      relatedTags.forEach(function(relatedTag) {
+        if (!matchedTags[relatedTag] && tags.some(function(t) { return t.toLowerCase() === relatedTag; })) {
+          conceptMatchCount++;
+          matchedTags[relatedTag] = true;
+        }
+      });
+      // Boost based on how many related tags match (diminishing returns)
+      if (conceptMatchCount > 0) {
+        boost *= 1 + (0.4 * Math.min(conceptMatchCount, 3));  // Max 2.2x for 3+ matches
+      }
+    }
+  });
+
+  return Math.min(boost, 4.0);  // Cap boost (raised to accommodate concept clusters)
 }
 
 // Perform search and return results

@@ -37,6 +37,7 @@ legal:
   - pardon
   - subpoena
   - ethics
+  - emoluments
 
 government:
   - executive-order
@@ -47,8 +48,12 @@ government:
   - oversight
   - sanctions
   - tariffs
+  - justice-department
+  - budget
+  - white-house
 
 elections:
+  - elections
   - presidential-election
   - midterm-election
   - special-election
@@ -65,12 +70,17 @@ major-investigations:
   - impeachment
   - jan-6
   - classified-documents
+  - trump-trials
 
 regions:
   - russia
   - china
   - ukraine
   - israel-palestine
+  - iran
+  - north-korea
+  - middle-east
+  - nato
 
 administration:
   - doge
@@ -83,3 +93,4 @@ other:
   - media
   - disinformation
   - census
+  - democracy

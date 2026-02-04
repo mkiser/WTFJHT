@@ -3,6 +3,12 @@ title: Day 1264
 date: 2020-07-06 15:46:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- immigration
+- education
+- congress
+- economy
 description: '"Really not good."'
 image: "/uploads/1264.jpg"
 todayInOneSentence: Trump used the Fourth of July weekend to sow division during a
@@ -13,12 +19,6 @@ todayInOneSentence: Trump used the Fourth of July weekend to sow division during
   harmless"; and ICE announced that international students pursuing degrees in the
   United States will have to leave the country if their universities switch to online-only
   courses for the fall semester.
-tags:
-- covid
-- immigration
-- education
-- congress
-- economy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

@@ -3,6 +3,12 @@ title: Day 1198
 date: 2020-05-01 14:50:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- economy
+- media
+- congress
+- protests
 description: '"I will never lie to you."'
 image: "/uploads/1198.jpg"
 todayInOneSentence: The FDA granted Gilead emergency authorization for remdesivir
@@ -12,12 +18,6 @@ todayInOneSentence: The FDA granted Gilead emergency authorization for remdesivi
   assistance to states that are short of money because of the coronavirus; and the
   White House is blocking Dr. Anthony Fauci from testifying before the House Appropriations
   Committee
-tags:
-- covid
-- economy
-- media
-- congress
-- protests
 ---
 
 * ### 🔥 Daily Damage Report.

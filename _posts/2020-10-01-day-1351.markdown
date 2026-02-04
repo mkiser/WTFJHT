@@ -3,6 +3,12 @@ title: Day 1351
 date: 2020-10-01 15:19:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- congress
+- economy
+- voting-rights
+- protests
 description: '"The single largest driver of misinformation."'
 image: "/uploads/1351.jpg"
 todayInOneSentence: Around 837,000 people filed for first-time jobless benefits last
@@ -10,12 +16,6 @@ todayInOneSentence: Around 837,000 people filed for first-time jobless benefits 
   a deal on a new pandemic relief package; Trump is the "single largest driver of
   misinformation" about COVID-19; and Trump suggested that he won't "allow" the non-partisan
   Commission on Presidential Debates to change the format of the debates.
-tags:
-- covid
-- congress
-- economy
-- voting-rights
-- protests
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Every State.

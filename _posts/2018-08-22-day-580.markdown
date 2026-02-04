@@ -3,6 +3,12 @@ title: Day 580
 date: 2018-08-22 13:41:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- protests
+- indictment
+- tech-policy
+- media
 description: Individual-1.
 image: "/uploads/580.jpg"
 todayInOneSentence: Michael Cohen has "knowledge" implicating Trump in a "criminal
@@ -12,12 +18,6 @@ todayInOneSentence: Michael Cohen has "knowledge" implicating Trump in a "crimin
   he directed Cohen to buy the silence of Stormy Daniels and Karen McDougal; and the
   DNC contacted the FBI after detecting an unsuccessful attempt to hack into its voter
   database.
-tags:
-- mueller-investigation
-- protests
-- indictment
-- tech-policy
-- media
 ---
 
 1/ **Michael Cohen has "knowledge" implicating Trump in a "criminal conspiracy" to hack the Democratic emails during the 2016 election**, according to Cohen's attorney. Lanny Davis also said Cohen's knowledge reached beyond "the obvious possibility of a conspiracy to collude" and that Cohen is willing to share "all that he knows" with Robert Mueller's team. ([Washington Post](https://www.washingtonpost.com/news/morning-mix/wp/2018/08/22/cohen-lawyer-lanny-davis-suggests-his-client-has-knowledge-implicating-trump-in-criminal-conspiracy-to-hack-democratic-emails/) / [NBC News](https://www.nbcnews.com/politics/white-house/michael-cohen-willing-share-all-he-knows-mueller-lawyer-says-n902801) / [Los Angeles Times](http://www.latimes.com/politics/la-na-pol-cohen-russia-hacking-knowledge-20180822-story.html) / [Politico](https://www.politico.com/story/2018/08/22/attorney-cohen-has-incriminating-information-about-trump-791277))

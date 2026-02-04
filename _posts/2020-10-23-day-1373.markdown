@@ -3,18 +3,18 @@ title: Day 1373
 date: 2020-10-23 14:47:00 -07:00
 categories:
 - trump
-description: '"A dark winter."'
-image: "/uploads/1373.jpg"
-todayInOneSentence: The United States coronavirus cases set new a daily record; Trump
-  almost took responsibility for his administration's failure on COVID-19 during the
-  second and final debate; and the Trump administration pressured the CDC to support
-  the use of hotels to hold migrant children before deporting them.
 tags:
 - covid
 - healthcare
 - protests
 - immigration
 - economy
+description: '"A dark winter."'
+image: "/uploads/1373.jpg"
+todayInOneSentence: The United States coronavirus cases set new a daily record; Trump
+  almost took responsibility for his administration's failure on COVID-19 during the
+  second and final debate; and the Trump administration pressured the CDC to support
+  the use of hotels to hold migrant children before deporting them.
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

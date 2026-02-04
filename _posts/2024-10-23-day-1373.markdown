@@ -3,6 +3,12 @@ title: Day 1373
 date: 2024-10-23 14:38:00 -07:00
 categories:
 - biden
+tags:
+- voting-rights
+- polling
+- labor
+- judiciary
+- lawsuit
 description: '"What do the American people want?"'
 image: "/uploads/day-1373-biden-harris.jpg"
 todayInOneSentence: 'The presidential election is 13 days away; Trump’s longest-serving
@@ -13,12 +19,6 @@ todayInOneSentence: 'The presidential election is 13 days away; Trump’s longes
   and a federal judge ordered Rudy Giuliani to turn over most of his possessions,
   including cash, jewelry and his New York apartment, as part of the $148 million
   defamation judgement he owes to two former Georgia election workers. '
-tags:
-- voting-rights
-- polling
-- labor
-- judiciary
-- lawsuit
 ---
 
 * **The presidential election is 13 days away**.

@@ -3,6 +3,12 @@ title: Day 1201
 date: 2020-05-04 14:30:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- national-security
+- economy
+- healthcare
+- mueller-investigation
 description: '"It goes up rapidly."'
 image: "/uploads/1201.jpg"
 todayInOneSentence: The CDC projects that by June 1, the coronavirus death toll in
@@ -13,12 +19,6 @@ todayInOneSentence: The CDC projects that by June 1, the coronavirus death toll 
   released a report highlighting supply shortages and testing delays at hospitals
   during the coronavirus pandemic; and Trump is reportedly not happy with FBI director
   Christopher Wray and wants to replace him.
-tags:
-- covid
-- national-security
-- economy
-- healthcare
-- mueller-investigation
 ---
 
 * ### 🔥 Daily Damage Report.

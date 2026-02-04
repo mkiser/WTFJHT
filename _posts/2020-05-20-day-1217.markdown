@@ -3,6 +3,12 @@ title: Day 1217
 date: 2020-05-20 14:23:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- voting-rights
+- oversight
+- media
+- resignation
 description: '"We still have a long way to go."'
 image: "/uploads/1217.jpg"
 todayInOneSentence: Trump threatened to "hold up" federal funds from Michigan and
@@ -14,12 +20,6 @@ todayInOneSentence: Trump threatened to "hold up" federal funds from Michigan an
   sales to Saudi Arabia and the United Arab Emirates; and Republican political operatives
   are recruiting "extremely pro-Trump" doctors to go on TV and make the case for reopening
   the U.S. economy as quickly as possible.
-tags:
-- covid
-- voting-rights
-- oversight
-- media
-- resignation
 ---
 
 * ### 🔥 Daily Damage Report.

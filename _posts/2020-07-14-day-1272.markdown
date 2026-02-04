@@ -3,6 +3,12 @@ title: Day 1272
 date: 2020-07-14 14:55:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- immigration
+- education
+- healthcare
+- economy
 description: '"Find something new."'
 image: "/uploads/1272.jpg"
 todayInOneSentence: The Trump administration rescinded its rule barring international
@@ -12,12 +18,6 @@ todayInOneSentence: The Trump administration rescinded its rule barring internat
   CDC; four former CDC chiefs rebuked Trump's "repeated efforts to subvert" CDC guidelines;
   and the Strategic National Stockpile may not have the capacity to supply medical
   professionals with personal protective equipment;
-tags:
-- covid
-- immigration
-- education
-- healthcare
-- economy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

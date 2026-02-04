@@ -3,6 +3,12 @@ title: Day 1390
 date: 2020-11-09 15:54:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- presidential-election
+- national-security
+- nomination
+- congress
 description: '"A mask is not a political statement."'
 image: "/uploads/1390.jpg"
 todayInOneSentence: More than 10 million people have been infected with the coronavirus
@@ -12,12 +18,6 @@ todayInOneSentence: More than 10 million people have been infected with the coro
   supported Trump’s refusal to concede the election; Trump fired Defense Secretary
   Mark Esper by tweet; and Trump told advisers he's thinking about running for president
   again in 2024.
-tags:
-- covid
-- presidential-election
-- national-security
-- nomination
-- congress
 ---
 
 1/ **More than 10 million people have been infected with the coronavirus in the United States**, which is about one-fifth of the 50 million infections worldwide. At least 105,000 new COVID-19 cases were reported on Sunday, down slightly from the daily record set a day earlier. All but one state had more cases last week than the week before. ([NPR](https://www.npr.org/sections/coronavirus-live-updates/2020/11/09/933023659/u-s-confirmed-coronavirus-infections-hit-10-million) / [ABC News](https://abcnews.go.com/US/number-covid-19-infections-reaches-daily-record-us/story?id=74090045) / [USA Today](https://www.usatoday.com/story/news/health/2020/11/09/covid-news-joe-biden-task-force-alaska-new-jersey-restrictions/6215623002/) / [CNN](https://www.cnn.com/world/live-news/coronavirus-pandemic-11-09-20-intl/h_4cf908fc0569ac8d05444b0b5f4b6620) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-11-08/covid-cases-near-10-million-in-u-s-with-no-slowdown-in-sight?srnd=premium&sref=MIBMEEoj))

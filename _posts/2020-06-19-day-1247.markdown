@@ -3,6 +3,12 @@ title: Day 1247
 date: 2020-06-19 13:34:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- protests
+- voting-rights
+- oversight
+- national-security
 description: 'Priorities. '
 image: "/uploads/1247.jpg"
 todayInOneSentence: Trump threatened the "protesters, anarchists, agitators, looters
@@ -13,12 +19,6 @@ todayInOneSentence: Trump threatened the "protesters, anarchists, agitators, loo
   hasn't distributed a "health and safety" plan for preventing the spread of the coronavirus
   at the rally; and the White House insisted that COVID-19 is “absolutely ... still
   a priority” for the administration despite not holding a public briefing in 53 days.
-tags:
-- covid
-- protests
-- voting-rights
-- oversight
-- national-security
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

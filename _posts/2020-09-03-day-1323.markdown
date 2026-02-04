@@ -3,6 +3,12 @@ title: Day 1323
 date: 2020-09-03 14:52:00 -07:00
 categories:
 - trump
+tags:
+- voting-rights
+- covid
+- congress
+- polling
+- healthcare
 description: '"Playing with fire."'
 image: "/uploads/1323.jpg"
 todayInOneSentence: Another 881,000 people applied for state unemployment benefits
@@ -14,12 +20,6 @@ todayInOneSentence: Another 881,000 people applied for state unemployment benefi
   and Health and Human Services Secretary Alex Azar rejected concerns that the Trump
   administration is rushing the approval of a coronavirus vaccine before Election
   Day.
-tags:
-- voting-rights
-- covid
-- congress
-- polling
-- healthcare
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

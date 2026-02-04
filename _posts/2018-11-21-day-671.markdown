@@ -3,6 +3,12 @@ title: Day 671
 date: 2018-11-21 09:14:00 -08:00
 categories:
 - trump
+tags:
+- climate
+- mueller-investigation
+- congress
+- taxes
+- immigration
 description: Sad irony.
 image: "/uploads/671.jpg"
 todayInOneSentence: The Trump administration authorized troops deployed at the border
@@ -11,12 +17,6 @@ todayInOneSentence: The Trump administration authorized troops deployed at the b
   Committee demanded that Trump say whether Saudi Crown Prince Mohammed bin Salman
   ordered the killing of Jamal Khashoggi; and 15% of Americans say they are "looking
   forward" to talking about politics at Thanksgiving.
-tags:
-- climate
-- mueller-investigation
-- congress
-- taxes
-- immigration
 ---
 
 1/ **The White House authorized U.S. military troops deployed at the Mexican border to use lethal force and conduct law-enforcement operations**. John Kelly's "Cabinet order" expanded the authority of troops at the border to include "a show or use of force (including lethal force, where necessary), crowd control, temporary detention, and cursory search" in order to protect border agents. The order could conflict with the 1878 Posse Comitatus Act, which prohibits the military from acting as law enforcement on U.S. soil. ([Military Times](https://www.militarytimes.com/news/your-military/2018/11/21/white-house-approves-use-of-force-some-law-enforcement-roles-for-border-troops/) / [Axios](https://www.axios.com/border-troops-use-of-force-posse-comitatus-b23bca0a-715d-451a-8c3e-c37ee997fe13.html))

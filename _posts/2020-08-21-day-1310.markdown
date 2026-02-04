@@ -3,6 +3,12 @@ title: Day 1310
 date: 2020-08-21 13:22:00 -07:00
 categories:
 - trump
+tags:
+- voting-rights
+- covid
+- congress
+- oversight
+- tech-policy
 description: '"Season of darkness."'
 image: "/uploads/1310.jpg"
 todayInOneSentence: Biden challenged Americans to overcome Trump's "season of darkness";
@@ -13,12 +19,6 @@ todayInOneSentence: Biden challenged Americans to overcome Trump's "season of da
   nonexistent threat of voter fraud on Election Day; and Postmaster General Louis
   DeJoy testified that he is "extremely highly confident" that mail-in ballots sent
   seven days before Election Day will be properly processed and counted.
-tags:
-- voting-rights
-- covid
-- congress
-- oversight
-- tech-policy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

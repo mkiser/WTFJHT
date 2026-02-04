@@ -3,6 +3,12 @@ title: Day 578
 date: 2018-08-20 12:22:00 -07:00
 categories:
 - trump
+tags:
+- mueller-investigation
+- climate
+- national-security
+- oversight
+- congress
 description: '"Truth isn''t truth."'
 image: "/uploads/578.jpg"
 todayInOneSentence: The White House counsel has cooperated extensively with Robert
@@ -12,12 +18,6 @@ todayInOneSentence: The White House counsel has cooperated extensively with Robe
   Cohen is under investigation for more than $20 million in bank and tax fraud and
   his attorney has been talking to John Dean, the former White House counsel who was
   a witness to Nixon's crimes.
-tags:
-- mueller-investigation
-- climate
-- national-security
-- oversight
-- congress
 ---
 
 1/ **White House counsel Don McGahn has cooperated extensively with Robert Mueller's obstruction of justice investigation and Trump's lawyers don't know what he's told the special counsel**. McGahn has given investigators at least three voluntary interviews lasting a total of 30 hours over the last nine months. McGahn was present for Trump's comments and actions during the firing of James Comey and attempts to fire Mueller, and has provided Trump's lawyers with a limited accounting of what he told investigators. Trump tweeted that he "allowed" McGahn to "fully cooperate" with Mueller's investigation into obstruction of justice. Last fall, Mueller's office asked to interview McGahn, which Trump and his lawyers encouraged. McGahn decided to fully cooperate with Mueller on suspicion that Trump was intent on letting him take the fall for any obstruction of justice-related decisions by claiming that he was only following legal advice from counsel. McGahn's cooperation is also meant to protect himself from becoming the next John Dean, the White House counsel for Nixon, who pleaded guilty to conspiracy to obstruct justice. Trump and McGahn have a strained relationship and rarely speak one on one. Trump questions McGahn's loyalty while McGahn calls Trump "King Kong." In response to the report, Trump tweeted that McGahn "must be a John Dean type 'RAT' \[...\] I have nothing to hide......" ([New York Times](https://www.nytimes.com/2018/08/18/us/politics/don-mcgahn-mueller-investigation.html) / [Wall Street Journal](https://outline.com/efaPdW) / [Politico](https://www.politico.com/story/2018/08/18/trump-mcgahn-mueller-probe-788040))

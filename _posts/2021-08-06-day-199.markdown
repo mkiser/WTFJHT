@@ -7,7 +7,6 @@ tags:
 - covid
 - jan-6
 - national-security
-- covid
 - oversight
 description: Extended.
 image: "/uploads/day-199-080621.jpg"

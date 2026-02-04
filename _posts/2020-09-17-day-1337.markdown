@@ -3,6 +3,12 @@ title: Day 1337
 date: 2020-09-17 15:11:00 -07:00
 categories:
 - trump
+tags:
+- education
+- voting-rights
+- covid
+- protests
+- national-security
 description: '"A steady drumbeat of misinformation."'
 image: "/uploads/1337.jpg"
 todayInOneSentence: Another 860,000 people applied for unemployment insurance; Attorney
@@ -14,12 +20,6 @@ todayInOneSentence: Another 860,000 people applied for unemployment insurance; A
   Christopher Wray warned that "Russia continues to try to influence our elections";
   Trump continued his lies about mail-in voting, tweeting that the results “may NEVER
   BE ACCURATELY DETERMINED”; and another woman accused Trump of sexual assault.
-tags:
-- education
-- voting-rights
-- covid
-- protests
-- national-security
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

@@ -3,6 +3,12 @@ title: Day 1212
 date: 2020-05-15 14:20:00 -07:00
 categories:
 - trump
+tags:
+- education
+- covid
+- economy
+- healthcare
+- congress
 description: '"Inconsistent and incoherent."'
 image: "/uploads/1212.jpg"
 todayInOneSentence: Despite public health experts repeatedly cautioning that developing
@@ -17,12 +23,6 @@ todayInOneSentence: Despite public health experts repeatedly cautioning that dev
   dollars intended for public schools and colleges to private and religious schools;
   and U.S. taxpayers have paid at least $970,000 to the Trump Organization since Trump
   took office.
-tags:
-- education
-- covid
-- economy
-- healthcare
-- congress
 ---
 
 * ### 🔥 Daily Damage Report.

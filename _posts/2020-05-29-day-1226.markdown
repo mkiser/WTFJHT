@@ -3,6 +3,12 @@ title: Day 1226
 date: 2020-05-29 14:47:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- protests
+- china
+- media
+- tech-policy
 description: Fuck this shit.
 image: "/uploads/1226.jpg"
 todayInOneSentence: Trump threatened military violence against U.S. citizens in Minneapolis
@@ -15,12 +21,6 @@ todayInOneSentence: Trump threatened military violence against U.S. citizens in 
   and led away by police in Minneapolis while reporting live on-air; and Trump announced
   that he is "terminating" U.S. membership with the World Health Organization as the
   global coronavirus pandemic continues.
-tags:
-- covid
-- protests
-- china
-- media
-- tech-policy
 ---
 
 * ### 😷 Dept. of We Have It Totally Under Control.

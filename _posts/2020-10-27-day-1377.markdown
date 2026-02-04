@@ -3,6 +3,12 @@ title: Day 1377
 date: 2020-10-27 14:35:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- supreme-court
+- congress
+- nomination
+- voting-rights
 description: '"Decisive actions."'
 image: "/uploads/1377.jpg"
 todayInOneSentence: The Senate confirmed Amy Coney Barrett to the Supreme Court; the
@@ -14,12 +20,6 @@ todayInOneSentence: The Senate confirmed Amy Coney Barrett to the Supreme Court;
   writer E. Jean Carroll; and the Trump Organization has billed taxpayers at least
   $2.5 million in charges stemming from Trump's more than 280 visits to his own properties
   since taking office.
-tags:
-- covid
-- supreme-court
-- congress
-- nomination
-- voting-rights
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

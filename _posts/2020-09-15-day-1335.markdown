@@ -3,6 +3,12 @@ title: Day 1335
 date: 2020-09-15 15:39:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- congress
+- oversight
+- national-security
+- trade
 description: '"Forthcoming."'
 image: "/uploads/1335.jpg"
 todayInOneSentence: The Justice Department opened a criminal investigation and issued
@@ -15,12 +21,6 @@ todayInOneSentence: The Justice Department opened a criminal investigation and i
   claimed that the tapes of Trump privately downplaying the threat of the coronavirus
   in March are an example of him being "very forthcoming with the American people"
   about the dangers of COVID-19.
-tags:
-- covid
-- congress
-- oversight
-- national-security
-- trade
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

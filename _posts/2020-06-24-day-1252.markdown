@@ -3,6 +3,12 @@ title: Day 1252
 date: 2020-06-24 14:16:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- mueller-investigation
+- congress
+- judiciary
+- economy
 description: '"A massive outbreak."'
 image: "/uploads/1252.jpg"
 todayInOneSentence: Coronavirus cases are accelerating across the U.S.; the Trump
@@ -14,12 +20,6 @@ todayInOneSentence: Coronavirus cases are accelerating across the U.S.; the Trum
   a letter saying the attorney general has "failed to fulfill his oath of office to
   'support and defend the Constitution of the United States'"; and 50% of Americans
   say they would vote for Biden over Trump if the election was held today.
-tags:
-- covid
-- mueller-investigation
-- congress
-- judiciary
-- economy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

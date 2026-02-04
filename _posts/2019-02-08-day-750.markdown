@@ -5,7 +5,6 @@ categories:
 - trump
 tags:
 - mueller-investigation
-- mueller-investigation
 - pardon
 - russia
 - congress

@@ -3,6 +3,12 @@ title: Day 1294
 date: 2020-08-05 14:23:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- voting-rights
+- education
+- oversight
+- economy
 description: '"He still doesn''t get it."'
 image: "/uploads/1294.jpg"
 todayInOneSentence: Trump insisted that the coronavirus pandemic "will go away like
@@ -11,12 +17,6 @@ todayInOneSentence: Trump insisted that the coronavirus pandemic "will go away l
   inspector general resigned less than three months after replacing the inspector
   general Trump fired in May; and the Trump campaign sued the state of Nevada over
   its plan to send absentee ballots to all active voters this November.
-tags:
-- covid
-- voting-rights
-- education
-- oversight
-- economy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

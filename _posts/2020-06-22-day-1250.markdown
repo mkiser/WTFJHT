@@ -3,6 +3,12 @@ title: Day 1250
 date: 2020-06-22 15:40:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- media
+- voting-rights
+- protests
+- lawsuit
 description: '"Underwhelming."'
 image: "/uploads/1250.jpg"
 todayInOneSentence: Trump claimed that he told "his people" to "slow the testing down"
@@ -12,12 +18,6 @@ todayInOneSentence: Trump claimed that he told "his people" to "slow the testing
   at his rally in Tulsa; eight members of Trump's team involved in the Tulsa rally
   have tested positive for COVID-19; and Attorney General William Barr said Trump
   fired the federal prosecutor whose office prosecuted several of his associates.
-tags:
-- covid
-- media
-- voting-rights
-- protests
-- lawsuit
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

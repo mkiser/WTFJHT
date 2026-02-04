@@ -3,6 +3,12 @@ title: Day 1336
 date: 2020-09-16 15:39:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- voting-rights
+- immigration
+- protests
+- education
 description: '"Herd mentality."'
 image: "/uploads/1336.jpg"
 todayInOneSentence: Trump – again – claimed that the coronavirus will "disappear"
@@ -14,12 +20,6 @@ todayInOneSentence: Trump – again – claimed that the coronavirus will "disa
   complaint accused an ICE detention center of performing unnecessary hysterectomies
   on immigrant women; and Attorney General William Barr encouraged federal prosecutors
   to consider charging violent protesters with sedition.
-tags:
-- covid
-- voting-rights
-- immigration
-- protests
-- education
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

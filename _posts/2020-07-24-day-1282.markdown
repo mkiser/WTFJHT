@@ -3,6 +3,12 @@ title: Day 1282
 date: 2020-07-24 12:28:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- media
+- protests
+- polling
+- voting-rights
 description: '"Just not right."'
 image: "/uploads/1282.jpg"
 todayInOneSentence: The CDC published new guidance recommending that schools reopen
@@ -11,12 +17,6 @@ todayInOneSentence: The CDC published new guidance recommending that schools reo
   as many as 75,000 federal agents into U.S. cities as part of his "surge" against
   "violent crime"; and Trump repealed a fair housing regulation he claimed would lead
   to “destruction” of the country’s suburbs.
-tags:
-- covid
-- media
-- protests
-- polling
-- voting-rights
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

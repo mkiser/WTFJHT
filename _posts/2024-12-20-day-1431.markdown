@@ -3,6 +3,12 @@ title: Day 1431
 date: 2024-12-20 12:05:00 -08:00
 categories:
 - biden
+tags:
+- congress
+- economy
+- labor
+- government-shutdown
+- voting-rights
 description: '"Do its job."'
 image: "/uploads/day-1431bt.jpg"
 todayInOneSentence: 'The House rejected the Trump-endorsed plan to fund the government
@@ -13,12 +19,6 @@ todayInOneSentence: 'The House rejected the Trump-endorsed plan to fund the gove
   bill at the 11th hour, Trump said any government shutdown “is a Biden problem to
   solve”; and Elon Musk publicly endorsed the Alternative for Germany, a far-right,
   anti-immigration party that’s promoted neo-Nazi rhetoric. '
-tags:
-- congress
-- economy
-- labor
-- government-shutdown
-- voting-rights
 ---
 
 1/ **The House rejected the Trump-endorsed plan to fund the government and avert a shutdown** after 38 Republicans joined 197 Democrats in voting against the alternative funding bill. The package — which included funding the government through March 14, suspending the debt ceiling until 2027, and disaster relief — was quickly put together Thursday afternoon after Trump and Musk urged Republicans to kill the bipartisan package. Government funding expires at the end of the day on Friday. ([Politico](https://www.politico.com/live-updates/2024/12/19/congress/government-shutdown-house-vote-00195479) / [New York Times](https://www.nytimes.com/2024/12/19/us/politics/trump-johnson-spending-bill-shutdown.html) / [Washington Post](https://www.washingtonpost.com/politics/2024/12/20/why-some-republicans-bucked-trump/) / [New York Times](https://www.nytimes.com/2024/12/19/us/politics/trump-republicans-spending-bill.html) / [Axios](https://www.axios.com/2024/12/20/spending-bill-fails-trump-mike-johnson-democrats) / [CNN](https://www.cnn.com/2024/12/19/politics/government-shutdown-vote-congress/index.html))

@@ -3,6 +3,12 @@ title: Day 1300
 date: 2020-08-11 15:10:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- media
+- immigration
+- economy
+- polling
 description: '"A tragic mistake."'
 image: "/uploads/1300.jpg"
 todayInOneSentence: Joe Biden selected Kamala Harris as his running mate hours after
@@ -14,12 +20,6 @@ todayInOneSentence: Joe Biden selected Kamala Harris as his running mate hours a
   considering new immigration rules to temporarily block entry by citizens and legal
   residents from returning to the United States if authorities believe they may be
   infected with the coronavirus.
-tags:
-- covid
-- media
-- immigration
-- economy
-- polling
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

@@ -3,6 +3,12 @@ title: Day 1287
 date: 2020-07-29 14:33:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- immigration
+- media
+- national-security
+- tech-policy
 description: '"Nobody likes me."'
 image: "/uploads/1287.jpg"
 todayInOneSentence: More than 150,000 people have died in the United States from the
@@ -10,12 +16,6 @@ todayInOneSentence: More than 150,000 people have died in the United States from
   that baselessly claimed that there is a "cure" for the coronavirus; Trump falsely
   claimed that large portions of the U.S. are "corona-free"; and Trump wondered aloud
   why "nobody likes me."
-tags:
-- covid
-- immigration
-- media
-- national-security
-- tech-policy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

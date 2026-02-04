@@ -3,6 +3,12 @@ title: Day 1385
 date: 2020-11-04 13:51:00 -08:00
 categories:
 - trump
+tags:
+- voting-rights
+- covid
+- congress
+- disinformation
+- polling
 description: '"Every vote must be counted."'
 image: "/uploads/1385.jpg"
 todayInOneSentence: Biden holds a 253 to 213 Electoral College advantage over Trump
@@ -13,12 +19,6 @@ todayInOneSentence: Biden holds a 253 to 213 Electoral College advantage over Tr
   seat, with five races yet to be called; Biden is currently winning the popular vote
   by nearly 3 million; and Trump falsely claimed he won the presidential election
   and vowed to take legal action to stop "all voting."
-tags:
-- voting-rights
-- covid
-- congress
-- disinformation
-- polling
 ---
 
 ***Today in one sentence**: Biden holds a 253 to 213 Electoral College advantage over Trump after narrowly winning both Wisconsin and Michigan; the Trump campaign, however, said it would request a recount; Biden holds a lead in Arizona and Nevada, while Trump is up in Alaska, Pennsylvania, North Carolina, and Georgia; Democrats are still projected to win the House but in the Senate, Democrats have only gained one seat, with five races yet to be called; Biden is currently winning the popular vote by nearly 3 million; and Trump falsely claimed he won the presidential election and vowed to take legal action to stop "all voting."*

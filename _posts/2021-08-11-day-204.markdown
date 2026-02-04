@@ -7,7 +7,6 @@ tags:
 - economy
 - resignation
 - covid
-- covid
 - congress
 description: '"A badge of honor."'
 image: "/uploads/day-204-081121.jpg"

@@ -3,6 +3,12 @@ title: Day 1398
 date: 2020-11-17 14:48:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- voting-rights
+- national-security
+- labor
+- presidential-election
 description: '"Move on."'
 image: "/uploads/1398.jpg"
 todayInOneSentence: The leaders of three major medical associations urged Trump to
@@ -14,12 +20,6 @@ todayInOneSentence: The leaders of three major medical associations urged Trump 
   aides that he's concerned that Trump investigations would consume his presidency
   and divide the nation; and Trump asked his top national security aides what options
   were available to taking action against Iran’s main nuclear site in the coming weeks.
-tags:
-- covid
-- voting-rights
-- national-security
-- labor
-- presidential-election
 ---
 
 1/ **The leaders of three major medical associations urged Trump to share "all critical information related to COVID-19" with the incoming Biden administration “as soon as possible” in order to "save countless lives."** The CEOs of the American Hospital Association, the American Medical Association, and the American Nurses Association urged the Trump administration to share "real-time data and information on the supply of therapeutics, testing supplies, personal protective equipment, ventilators, hospital bed capacity \[...\] the capacity of the Strategic National Stockpile, the assets from Operation Warp Speed, and plans for dissemination of therapeutics and vaccines \[...\] so that there is no lapse in our ability to care for patients.” Biden, meanwhile, noted that getting a coronavirus vaccine to more than 300 million Americans is a “huge, huge, huge undertaking” that would be further complicated by a continued delay in the presidential transition. Over the past 14 days, coronavirus cases have increased in all 50 states plus Washington, D.C., the U.S. Virgin Islands, and Guam. There has also been a 100% or more increase in confirmed cases over 14 days in Vermont, Maine, Minnesota, New Hampshire, Iowa, Ohio, Colorado, Michigan, Nebraska, Kansas, Pennsylvania, and New York. The seven-day average of new deaths in the U.S., meanwhile, eclipsed the Aug. 2 peak of 1,150. And, more than 73,000 people are currently hospitalized with COVID-19 as of Monday – a new record. Dr. Anthony Fauci, meanwhile, called for the nation to adopt “a uniform approach” to the coronavirus pandemic, rather than the current “disjointed” state-by-state response. ([NBC News](https://www.nbcnews.com/politics/politics-news/biden-harris-receive-national-security-briefing-not-gov-t-officials-n1247970) / [Washington Post](https://www.washingtonpost.com/nation/2020/11/17/coronavirus-covid-live-updates-us/#link-VZ7V6QCDG5BWHPAYZPPUWPTNVI) / [New York Times](https://www.nytimes.com/live/2020/11/17/world/covid-19-coronavirus/fauci-calls-for-a-uniform-approach-rather-than-a-disjointed-state-by-state-pandemic-response) / [NBC News](https://www.nbcnews.com/news/us-news/covid-19-cases-are-rise-all-50-states-nbc-news-n1248006) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-11-17/biden-virus-advisers-say-they-need-to-work-with-trump-agencies?srnd=premium&sref=MIBMEEoj) / [Wall Street Journal](https://www.wsj.com/livecoverage/covid-2020-11-17))

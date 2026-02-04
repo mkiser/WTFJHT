@@ -3,6 +3,12 @@ title: Day 1383
 date: 2020-11-02 14:13:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- media
+- voting-rights
+- congress
+- protests
 description: '"A whole lot of hurt."'
 image: "/uploads/1383.jpg"
 todayInOneSentence: Trump told associates he intends to declare premature victory
@@ -13,12 +19,6 @@ todayInOneSentence: Trump told associates he intends to declare premature victor
   more poorly"; Trump threatened to fire Dr. Anthony Fauci after Election Day; and
   Trump approved of his supporters surrounding a Biden campaign bus and attempting
   to run it off the highway in Texas.
-tags:
-- covid
-- media
-- voting-rights
-- congress
-- protests
 ---
 
 1/ **Trump told associates he intends to declare premature victory on Election Night in order to cast doubt on the integrity of the election and undermine the validity of uncounted mail-in ballots in the days after**. Many states, however, won't be done counting mail ballots by Tuesday night and it's common for some states to take several days to finalize vote counts. Trump, nevertheless, told confidants he'll declare victory on election night if it looks like he's "ahead." Speaking to reporters later, Trump first denied that he would declare victory prematurely, before confirming that he would try to shut down tabulating votes after polls close. "I think it's a terrible thing when ballots can be collected after an election \[...\] when states are allowed to tabulate ballots for a long period of time after the election is over \[...\] that we can't know the results of an election the night of the election. As soon as that election's over, we're going in with our lawyers." ([Axios](https://www.axios.com/trump-claim-election-victory-ballots-97eb12b9-5e35-402f-9ea3-0ccfb47f613f.html) / [CNN](https://www.cnn.com/2020/11/02/politics/election-2020-donald-trump-joe-biden-kamala-harris-battleground-states/index.html) / [The Guardian](https://www.theguardian.com/us-news/2020/nov/01/donald-trump-us-election-final-campaign-sprint) / [Bloomberg](https://www.bloomberg.com/news/articles/2020-11-01/biden-warns-trump-against-declaring-an-early-white-house-victory?sref=MIBMEEoj) / [New York Times](https://www.nytimes.com/2020/10/31/us/politics/trump-dismisses-virus-coverage-and-biden-dismisses-virus-leadership-this-week-in-the-2020-race.html?smid=tw-nytimes&smtyp=cur))

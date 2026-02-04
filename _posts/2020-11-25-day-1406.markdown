@@ -3,6 +3,12 @@ title: Day 1406
 date: 2020-11-25 14:18:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- mueller-investigation
+- national-security
+- cabinet
+- labor
 description: '"A truly fantastic Thanksgiving!"'
 image: "/uploads/1406.jpg"
 todayInOneSentence: Trump pardoned for Michael Flynn; Biden dismissed pursuing investigations
@@ -11,12 +17,6 @@ todayInOneSentence: Trump pardoned for Michael Flynn; Biden dismissed pursuing i
   six months; and Biden's pick for Secretary of State and a top contender for defense
   secretary co-founded a Washington consulting firm where at least 21 of the 38 employees
   donated to his campaign.
-tags:
-- covid
-- mueller-investigation
-- national-security
-- cabinet
-- labor
 ---
 
 1/ **Trump pardoned Michael Flynn**, his first national security advisor, who pleaded guilty – twice – to lying to the FBI about his Russian contacts during the presidential transition in late 2016 and early 2017. Trump announced the news on Twitter and wished Flynn "a truly fantastic Thanksgiving!” The pardon was issued before a judge ruled on a Justice Department motion to dismiss charges and undo Flynn’s guilty plea to lying to the FBI. Since last year, Flynn’s lawyers have sought to withdraw his guilty plea. In May, Attorney General William Barr and the Justice Department sought to dismiss its charges, declaring that prosecutors should not have brought the case against Flynn. The request to withdraw charges has been pending before a federal judge, who has been reviewing the case. Flynn's pardon is expected to be part of a series of pardons that Trump issues between now and when he leaves office, [including](https://www.nytimes.com/2020/11/25/us/politics/trump-pardons.html) former Trump campaign advisers Rick Gates and George Papadopoulos. ([CNBC](https://www.cnbc.com/2020/11/25/trump-pardons-michael-flynn-in-fbi-lie-case.html) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-pardons-michael-flynn-who-twice-pleaded-guilty-lying-fbi-n1249031) / [Washington Post](https://www.washingtonpost.com/politics/michael-flynn-trump-pardon/2020/11/25/3cd79198-2e65-11eb-bae0-50bb17126614_story.html) / [NPR](https://www.npr.org/2020/11/25/823893821/trump-pardons-michael-flynn-who-pleaded-guilty-to-lying-about-russia-contact) / [Axios](https://www.axios.com/trump-pardon-michael-flynn-131c78e2-eb58-4294-9ca1-3c5fb00bf96e.html) / [New York Times](https://www.nytimes.com/2020/11/25/us/politics/michael-flynn-pardon.html) / [Politico](https://www.politico.com/news/2020/11/25/trump-pardons-former-national-security-adviser-flynn-440649) / [The Guardian](https://www.theguardian.com/us-news/2020/nov/25/donald-trump-pardons-michael-flynn) / [CNN](https://www.cnn.com/2020/11/24/politics/michael-flynn-pardon-discussion-white-house/index.html))

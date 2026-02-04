@@ -3,6 +3,12 @@ title: Day 1316
 date: 2020-08-27 14:47:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- voting-rights
+- media
+- labor
+- national-security
 description: '"This is his America."'
 image: "/uploads/1316.jpg"
 todayInOneSentence: 'Another 1 million Americans applied for unemployment benefits
@@ -14,12 +20,6 @@ todayInOneSentence: 'Another 1 million Americans applied for unemployment benefi
   to be "able to take a night off from work"; Biden accused Trump of "rooting for
   more violence, not less"; and Trump''s 271 visits to his own properties has cost
   taxpayers more than $900,000 since he took office. '
-tags:
-- covid
-- voting-rights
-- media
-- labor
-- national-security
 ---
 
 💌 ***Send me a handwritten postcard or letter** with advice for the future generation about wtf has happened over the last four years and what needs to be done.*

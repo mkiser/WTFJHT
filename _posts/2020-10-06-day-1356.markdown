@@ -3,6 +3,12 @@ title: Day 1356
 date: 2020-10-06 15:19:00 -07:00
 categories:
 - trump
+tags:
+- economy
+- covid
+- polling
+- voting-rights
+- cabinet
 description: '"Tragic."'
 image: "/uploads/1356.jpg"
 todayInOneSentence: Trump ordered negotiators to stop talks with Democrats on a new
@@ -14,12 +20,6 @@ todayInOneSentence: Trump ordered negotiators to stop talks with Democrats on a 
   the agency unilaterally published the guidelines; and Trump left Walter Reed Medical
   Center and returned to the White House where he stood outside and removed his mask,
   despite the fact that he is still infected and contagious.
-tags:
-- economy
-- covid
-- polling
-- voting-rights
-- cabinet
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Every State.

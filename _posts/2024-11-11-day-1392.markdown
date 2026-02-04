@@ -3,6 +3,12 @@ title: Day 1392
 date: 2024-11-11 11:30:00 -08:00
 categories:
 - biden
+tags:
+- immigration
+- economy
+- voting-rights
+- nomination
+- congress
 description: '"The worst of the worst."'
 image: "/uploads/day-1392-biden-harris-trump.jpg"
 todayInOneSentence: Trump demanded that the next Senate Republican leader allow him
@@ -18,12 +24,6 @@ todayInOneSentence: Trump demanded that the next Senate Republican leader allow 
   Russia; and a Manhattan judge will rule on whether Trump’s hush money conviction
   stands under the Supreme Court’s ruling that presidents are immune from prosecution
   for crimes committed while in office.
-tags:
-- immigration
-- economy
-- voting-rights
-- nomination
-- congress
 ---
 
 1/ **Trump demanded that the next Senate Republican leader allow him to make appointments to his administration and the courts without Senate approval**. Trump, who has promised to be dictator “for Day One,” insisted that the next Senate Republican leader make it possible for him to fast-track his nominations over any opposition. "Any Republican Senator seeking the coveted LEADERSHIP position in the United States Senate must agree to Recess Appointments (in the Senate!), without which we will not be able to get people confirmed in a timely manner,” Trump tweeted. “Sometimes the votes can take two years, or more. This is what they did four years ago, and we cannot let it happen again.” Recess appointments allow a president to temporarily install a cabinet or other nominee for the rest of the two-year session. Elon Musk, meanwhile, has been advising Trump on staffing decisions. ([Washington Post](https://www.washingtonpost.com/politics/2024/11/10/trump-rick-scott-senate-cornyn-thune-mcconnell/) / [Wall Street Journal](https://www.wsj.com/politics/trump-demands-republicans-allow-some-nominees-to-bypass-senate-1b59c08c) / [Politico](https://www.politico.com/news/2024/11/10/trump-presses-next-republican-senate-leader-recess-appointments-00188640) / [The Guardian](https://www.theguardian.com/us-news/2024/nov/11/trump-senate-administration-hearings) / [ABC News](https://abcnews.go.com/Politics/elon-musk-weighing-trump-staffing-decisions-sources/story?id=115730434))

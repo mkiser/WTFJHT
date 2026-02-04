@@ -3,6 +3,12 @@ title: Day 1268
 date: 2020-07-10 14:50:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- media
+- education
+- national-security
+- immigration
 description: '"An unbelievable thing."'
 image: "/uploads/1268.jpg"
 todayInOneSentence: The United States set another single-day record for coronavirus
@@ -12,12 +18,6 @@ todayInOneSentence: The United States set another single-day record for coronavi
   for the use of hydroxychloroquine to treat COVID-19; and Trump claimed that he "aced"
   a cognitive test and that the doctors "were very surprised" and called it "an unbelievable
   thing."
-tags:
-- covid
-- media
-- education
-- national-security
-- immigration
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

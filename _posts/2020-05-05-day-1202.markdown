@@ -3,6 +3,12 @@ title: Day 1202
 date: 2020-05-05 15:30:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- media
+- oversight
+- economy
+- mueller-investigation
 description: '"Weaker and sicker and poorer."'
 image: "/uploads/1202.jpg"
 todayInOneSentence: Dr. Anthony Fauci, contradicting both Trump and Secretary of State
@@ -13,12 +19,6 @@ todayInOneSentence: Dr. Anthony Fauci, contradicting both Trump and Secretary of
   coronavirus task force, because “of the tremendous progress we’ve made as a country";
   and Trump promised to resume the White House coronavirus briefings, saying “everybody”
   enjoyed them — including himself.
-tags:
-- covid
-- media
-- oversight
-- economy
-- mueller-investigation
 ---
 
 * ### 🔥 Daily Damage Report.

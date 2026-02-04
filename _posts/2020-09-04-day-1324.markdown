@@ -3,6 +3,12 @@ title: Day 1324
 date: 2020-09-04 11:29:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- media
+- veterans
+- national-security
+- voting-rights
 description: '"Losers."'
 image: "/uploads/1324.jpg"
 todayInOneSentence: Trump disparaged members of the U.S. military who had been captured
@@ -11,12 +17,6 @@ todayInOneSentence: Trump disparaged members of the U.S. military who had been c
   the World Health Organization does not expect widespread COVID-19 vaccinations until
   mid-2021; and Trump mocked Biden for wearing a face mask and observing social distancing
   measures.
-tags:
-- covid
-- media
-- veterans
-- national-security
-- voting-rights
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

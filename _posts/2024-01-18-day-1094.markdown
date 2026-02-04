@@ -3,6 +3,12 @@ title: Day 1094
 date: 2024-01-18 14:52:00 -08:00
 categories:
 - biden
+tags:
+- education
+- lgbtq-rights
+- congress
+- government-shutdown
+- protests
 description: '"Cascading failures."'
 image: "/uploads/day-1094-b.jpg"
 todayInOneSentence: The House and Senate passed a stopgap spending bill to prevent
@@ -14,12 +20,6 @@ todayInOneSentence: The House and Senate passed a stopgap spending bill to preve
   Patrol agents from accessing a public park; and Florida House Republicans introduced
   legislation that would ban flags that depict a “racial, sexual orientation and gender,
   or political ideology viewpoint” in government buildings and schools.
-tags:
-- education
-- lgbtq-rights
-- congress
-- government-shutdown
-- protests
 ---
 
 1/ **The House and Senate passed a stopgap spending bill to prevent a partial government shutdown this weekend**, sending the measure to Biden as Congress continues to struggle with approving all 12 appropriations bills that fund the government. The short-term spending package – the third since September – will extend current funding for the FDA, Energy, Agriculture, and Veterans Affairs through March 1, with funding for the rest of the government, including the Pentagon, continuing through March 8. Lawmakers, however, are in session together for six days prior to the March 1 deadline, and for 10 days before the March 8 deadline. The Senate passed the legislation, 77-18, followed by the House, 314-108, hours later, after 13 hardline Republicans – who have [repeatedly](https://whatthefuckjusthappenedtoday.com/2024/01/11/day-1087/#3-the-house-freedom-caucus-continued) held the chamber hostage in retaliation for the spending deal Speaker Mike Johnson reached with Democrats – launched a last-minute campaign to attach partisan border security measures to the funding package. ([Politico](https://www.politico.com/news/2024/01/18/senate-passes-funding-patch-00136326) / [Washington Post](https://www.washingtonpost.com/business/2024/01/18/government-shutdown-bill-senate-house/) / [New York Times](https://www.nytimes.com/2024/01/18/us/politics/senate-spending-bill.html) / [Wall Street Journal](https://www.wsj.com/politics/senate-house-cr-spending-deal-government-shutdown-4bebb74a?mod=hp_lead_pos1) / [NBC News](https://www.nbcnews.com/politics/congress/congress-vote-prevent-government-shutdown-one-day-deadline-rcna134368))

@@ -3,6 +3,12 @@ title: Day 1295
 date: 2020-08-06 14:32:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- economy
+- labor
+- lawsuit
+- tech-policy
 description: '"It wouldn''t hurt."'
 image: "/uploads/1295.jpg"
 todayInOneSentence: Nearly 1.2 million people filed for unemployment benefits last
@@ -10,12 +16,6 @@ todayInOneSentence: Nearly 1.2 million people filed for unemployment benefits la
   relief agreement; Trump claimed – without evidence– that it was possible the U.S.
   could have a coronavirus vaccine before the Nov. 3 election; and the New York prosecutors
   seeking Trump’s tax records have also subpoenaed Deutsche Bank.
-tags:
-- covid
-- economy
-- labor
-- lawsuit
-- tech-policy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

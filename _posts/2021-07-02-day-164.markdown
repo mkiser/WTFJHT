@@ -7,7 +7,6 @@ tags:
 - foreign-policy
 - criminal-justice
 - national-security
-- national-security
 - covid
 description: '"An affront to our shared humanity."'
 image: "/uploads/day-164-biden.jpg"

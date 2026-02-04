@@ -3,6 +3,12 @@ title: Day 1280
 date: 2020-07-22 15:02:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- protests
+- national-security
+- immigration
+- media
 description: '"Surge."'
 image: "/uploads/1280.jpg"
 todayInOneSentence: The U.S. reported more than 1,000 daily deaths from the coronavirus
@@ -11,12 +17,6 @@ todayInOneSentence: The U.S. reported more than 1,000 daily deaths from the coro
   has been detaining migrant children in hotels and then deporting them despite federal
   anti-trafficking laws; and Trump offered the accomplice of accused sex trafficker
   and pedophile Jeffrey Epstein well-wishes.
-tags:
-- covid
-- protests
-- national-security
-- immigration
-- media
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

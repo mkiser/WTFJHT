@@ -3,6 +3,12 @@ title: Day 1293
 date: 2020-08-04 14:48:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- media
+- voting-rights
+- congress
+- lgbtq-rights
 description: '"It is what it is."'
 image: "/uploads/1293.jpg"
 todayInOneSentence: Trump insisted that the coronavirus pandemic is “under control"
@@ -14,12 +20,6 @@ todayInOneSentence: Trump insisted that the coronavirus pandemic is “under con
   than previously announced; and Trump claimed he has the authority to issue an executive
   order addressing mail-in voting in the November election despite the Constitution
   expressly giving states the right to run their elections.
-tags:
-- covid
-- media
-- voting-rights
-- congress
-- lgbtq-rights
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

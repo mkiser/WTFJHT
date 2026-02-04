@@ -3,6 +3,12 @@ title: Day 1387
 date: 2020-11-06 12:21:00 -08:00
 categories:
 - trump
+tags:
+- covid
+- voting-rights
+- disinformation
+- tech-policy
+- congress
 description: '"I don''t like losers."'
 image: "/uploads/1387.jpg"
 todayInOneSentence: Biden is on the verge of winning the presidency after taking the
@@ -10,12 +16,6 @@ todayInOneSentence: Biden is on the verge of winning the presidency after taking
   to question the integrity of the election and promised legal action; and the U.S.
   recorded at least 121,000 new coronavirus cases a day after hitting 100,000 for
   the first time since the pandemic began.
-tags:
-- covid
-- voting-rights
-- disinformation
-- tech-policy
-- congress
 ---
 
 ***Today in one sentence**: Biden is on the verge of winning the presidency after taking the lead in the vote count in Pennsylvania and Georgia; Trump – citing no evidence – continued to question the integrity of the election and promised legal action; and the U.S. recorded at least 121,000 new coronavirus cases a day after hitting 100,000 for the first time since the pandemic began.*

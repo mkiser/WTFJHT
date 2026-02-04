@@ -3,6 +3,12 @@ title: Day 1379
 date: 2024-10-29 14:52:00 -07:00
 categories:
 - biden
+tags:
+- voting-rights
+- national-security
+- protests
+- supreme-court
+- congress
 description: '"Turn the page."'
 image: "/uploads/day-1379-biden-harris.jpg"
 todayInOneSentence: Kamala Harris will challenge Americans to “turn the page” on Trump
@@ -16,12 +22,6 @@ todayInOneSentence: Kamala Harris will challenge Americans to “turn the page�
   a request to recuse herself in the case; and 86% of voters said they’re personally
   prepared to accept the outcome of the 2024 presidential election – regardless of
   who wins – while 66% said Trump is not prepared to accept the results of the election.
-tags:
-- voting-rights
-- national-security
-- protests
-- supreme-court
-- congress
 ---
 
 * **The presidential election is 7 days away**.

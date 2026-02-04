@@ -3,6 +3,12 @@ title: Day 1393
 date: 2024-11-12 14:59:00 -08:00
 categories:
 - biden
+tags:
+- voting-rights
+- indictment
+- supreme-court
+- immigration
+- congress
 description: '"Unprecedented circumstances."'
 image: "/uploads/day-1393-biden-harris-trump.jpg"
 todayInOneSentence: 'A New York judge postponed his decision on whether to dismiss
@@ -18,12 +24,6 @@ todayInOneSentence: 'A New York judge postponed his decision on whether to dismi
   Lake in Arizona’s U.S. Senate race; and Justice Samuel Alito intends to remain on
   the Supreme Court, dismissing speculation that he might step down to allow Trump
   to appoint a younger conservative successor. '
-tags:
-- voting-rights
-- indictment
-- supreme-court
-- immigration
-- congress
 ---
 
 1/ **A New York judge postponed his decision on whether to dismiss Trump’s 34 felony convictions of orchestrating an illegal conspiracy to influence the 2016 presidential election by falsifying business records**. Trump has argued that his return to the White House means the verdict should be set aside  because the Supreme Court granted immunity to presidents for all official acts in office. Trump’s lawyers asked to throw out the case, saying it’s “necessary to avoid unconstitutional impediments to President Trump’s ability to govern.”  Prosecutors said they needed time to assess the “unprecedented circumstances” of a convicted felon being elected president, including whether they want to keep the verdict intact and proceed with sentencing that is scheduled for Nov. 26. Justice Juan Merchan agreed to pause all proceedings until Nov. 19. The ruling is a win for Trump, the nation’s first former president to become a felon, and its first felon to become a president-elect. ([New York Times](https://www.nytimes.com/2024/11/12/nyregion/trump-criminal-conviction-overturn-manhattan.html) / [Washington Post](https://www.washingtonpost.com/national-security/2024/11/12/trump-immunity-ruling-delay-hush-money-case/) / [Politico](https://www.politico.com/news/2024/11/12/trump-lawyers-ask-judge-dismiss-hush-money-case-00188992) / [CBS News](https://www.cbsnews.com/news/trump-new-york-presidential-immunity-hush-money/) / [Associated Press](https://apnews.com/article/trump-hush-money-immunity-ruling-1b555b96443f38d35e995b8b4853a32c) / [The Guardian](https://www.theguardian.com/us-news/2024/nov/12/trump-hush-money-conviction-presidential-immunity) / [NBC News](https://www.nbcnews.com/politics/donald-trump/judge-trump-hush-money-case-delays-key-ruling-ahead-sentencing-rcna179763) / [Axios](https://www.axios.com/2024/11/12/judge-trumps-hush-money-immunity))

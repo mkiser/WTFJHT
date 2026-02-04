@@ -6,7 +6,6 @@ categories:
 tags:
 - mueller-investigation
 - corruption
-- mueller-investigation
 - congress
 - trade
 description: Compromised.

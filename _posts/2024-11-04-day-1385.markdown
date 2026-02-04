@@ -3,6 +3,12 @@ title: Day 1385
 date: 2024-11-04 14:01:00 -08:00
 categories:
 - biden
+tags:
+- voting-rights
+- presidential-election
+- jan-6
+- congress
+- tech-policy
 description: '"A petty, vindictive, cruel, unstable man who wants to be a tyrant."'
 image: "/uploads/day-1385-biden.jpg"
 todayInOneSentence: Trump, who tried to overturn his 2020 election loss, said he “shouldn’t
@@ -16,12 +22,6 @@ todayInOneSentence: Trump, who tried to overturn his 2020 election loss, said he
   control Congress and Trump wins the White House; and at a rally hours before the
   election, the Republican Party’s presidential candidate used a microphone holder
   on his podium to pantomime the act of giving fellatio.
-tags:
-- voting-rights
-- presidential-election
-- jan-6
-- congress
-- tech-policy
 ---
 
 * **The presidential election is tomorrow**.

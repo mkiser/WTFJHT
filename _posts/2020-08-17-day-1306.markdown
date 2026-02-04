@@ -3,6 +3,12 @@ title: Day 1306
 date: 2020-08-17 14:28:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- voting-rights
+- congress
+- media
+- polling
 description: '"Widespread and expanding."'
 image: "/uploads/1306.jpg"
 todayInOneSentence: Nancy Pelosi recalled the House from summer recess to vote on
@@ -13,12 +19,6 @@ todayInOneSentence: Nancy Pelosi recalled the House from summer recess to vote o
   to the U.S. Postal Service that could affect voting in the 2020 presidential election;
   and Trump suggested that the FDA should approve an untested experimental coronavirus
   treatment.
-tags:
-- covid
-- voting-rights
-- congress
-- media
-- polling
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

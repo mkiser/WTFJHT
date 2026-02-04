@@ -3,6 +3,12 @@ title: Day 1341
 date: 2020-09-21 16:02:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- voting-rights
+- nomination
+- congress
+- mueller-investigation
 description: '"Without delay."'
 image: "/uploads/1341.jpg"
 todayInOneSentence: Trump urged Senate Republicans to replace Justice Ruth Bader Ginsburg
@@ -12,12 +18,6 @@ todayInOneSentence: Trump urged Senate Republicans to replace Justice Ruth Bader
   country"; the CDC reversed its previous guidance about how the coronavirus is transmitted;
   and 62% of Americans want the winner of the November presidential election to name
   a successor to Ruth Bader Ginsburg on the Supreme Court.
-tags:
-- covid
-- voting-rights
-- nomination
-- congress
-- mueller-investigation
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

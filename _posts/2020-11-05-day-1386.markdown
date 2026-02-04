@@ -3,6 +3,12 @@ title: Day 1386
 date: 2020-11-05 16:25:00 -08:00
 categories:
 - trump
+tags:
+- voting-rights
+- covid
+- media
+- congress
+- disinformation
 description: '"Democracy is sometimes messy."'
 image: "/uploads/1386.jpg"
 todayInOneSentence: There was no conclusion to the U.S. presidential election (so
@@ -16,12 +22,6 @@ todayInOneSentence: There was no conclusion to the U.S. presidential election (s
   declaration that he won the election and falsely claimed that "they" are trying
   "to steal the election"; and, oh by the way, the U.S. reported more than 100,000
   new coronavirus cases in a single day for the first time.
-tags:
-- voting-rights
-- covid
-- media
-- congress
-- disinformation
 ---
 
 ***Today in one sentence**: There was no conclusion to the U.S. presidential election (so far); Biden currently leads in several undecided states but votes continue to be counted in Nevada, Georgia, Pennsylvania, and Arizona; Biden remains six electoral votes away from 270; Trump’s campaign pushed officials in Arizona to ensure all ballots were counted but sued in Pennsylvania, Michigan, and Georgia to stop the counts; Biden urged Americans "to stay calm" and reiterated that "every vote must be counted," while Trump, after a 14-hour Twitter silence, tweeted that states must “STOP THE COUNT!” and at a press conference later in the day repeated his false declaration that he won the election and falsely claimed that "they" are trying "to steal the election"; and, oh by the way, the U.S. reported more than 100,000 new coronavirus cases in a single day for the first time.*

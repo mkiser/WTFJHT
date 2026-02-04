@@ -3,6 +3,12 @@ title: Day 1208
 date: 2020-05-11 15:00:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- media
+- national-security
+- mueller-investigation
+- congress
 description: '"It''s scary to go to work."'
 image: "/uploads/1208.jpg"
 todayInOneSentence: Three members of the White House coronavirus task force will self-quarantine
@@ -14,12 +20,6 @@ todayInOneSentence: Three members of the White House coronavirus task force will
   for reopening communities during the coronavirus pandemic; and Trump spent Mother's
   Day sending 126 tweets, retweets, and quote-tweets about the Russia investigation
   while the U.S. coronavirus death toll crossed 80,000.
-tags:
-- covid
-- media
-- national-security
-- mueller-investigation
-- congress
 ---
 
 * ### 🔥 Daily Damage Report.

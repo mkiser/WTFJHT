@@ -3,6 +3,12 @@ title: Day 1303
 date: 2020-08-14 14:05:00 -07:00
 categories:
 - trump
+tags:
+- voting-rights
+- covid
+- oversight
+- media
+- national-security
 description: '"Do you regret at all the lying?"'
 image: "/uploads/1303.jpg"
 todayInOneSentence: Trump’s top two officials at the Department of Homeland Security
@@ -12,12 +18,6 @@ todayInOneSentence: Trump’s top two officials at the Department of Homeland Se
   cast by mail will arrive in time to be counted; USPS proposed removing 20% of letter
   sorting machines; and the internal USPS watchdog is reviewing recent policy changes
   and examining the new postmaster general's compliance with federal ethics rules.
-tags:
-- voting-rights
-- covid
-- oversight
-- media
-- national-security
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

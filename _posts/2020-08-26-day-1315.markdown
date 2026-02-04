@@ -3,6 +3,12 @@ title: Day 1315
 date: 2020-08-26 15:31:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- healthcare
+- voting-rights
+- immigration
+- cabinet
 description: '"Extreme action."'
 image: "/uploads/1315.jpg"
 todayInOneSentence: The CDC abruptly changed its COVID-19 testing guidance to exclude
@@ -14,12 +20,6 @@ todayInOneSentence: The CDC abruptly changed its COVID-19 testing guidance to ex
   are "engaged in any kind of activity to undermine any part of the mail-in vote";
   and Trump said he will send federal law enforcement and the National Guard to to
   Kenosha, Wisconsin to "restore law and order."
-tags:
-- covid
-- healthcare
-- voting-rights
-- immigration
-- cabinet
 ---
 
 💌 ***Send me a handwritten postcard or letter** with advice for the future generation about wtf has happened over the last four years and what needs to be done.* 

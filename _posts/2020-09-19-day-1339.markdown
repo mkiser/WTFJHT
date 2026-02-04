@@ -3,17 +3,17 @@ title: Day 1339
 date: 2020-09-19 05:09:00 -07:00
 categories:
 - trump
-description: RIP RBG.
-image: "/uploads/1339.jpg"
-todayInOneSentence: Justice Ruth Bader Ginsburg died of metastatic pancreatic cancer;
-  following news of Ginsburg's death, Mitch McConnell released a statement announcing
-  that "Trump’s nominee will receive a vote on the floor of the United States Senate."
 tags:
 - voting-rights
 - covid
 - supreme-court
 - congress
 - protests
+description: RIP RBG.
+image: "/uploads/1339.jpg"
+todayInOneSentence: Justice Ruth Bader Ginsburg died of metastatic pancreatic cancer;
+  following news of Ginsburg's death, Mitch McConnell released a statement announcing
+  that "Trump’s nominee will receive a vote on the floor of the United States Senate."
 ---
 
 **The Supreme Court announced Friday that Justice Ruth Bader Ginsburg has died of metastatic pancreatic cancer**, setting up a fight over filling a Supreme Court seat with less than 50 days until the election. “Our nation has lost a jurist of historic stature,” Chief Justice John Roberts said in a statement. “Today we mourn, but with confidence that future generations will remember Ruth Bader Ginsburg as we knew her — a tireless and resolute champion of justice.”

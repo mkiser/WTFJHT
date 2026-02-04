@@ -3,6 +3,12 @@ title: Day 1362
 date: 2020-10-12 14:43:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- nomination
+- congress
+- voting-rights
+- judiciary
 description: Swamp things.
 image: "/uploads/1362.jpg"
 todayInOneSentence: More than 200 companies, special interest groups and foreign governments
@@ -15,12 +21,6 @@ todayInOneSentence: More than 200 companies, special interest groups and foreign
   and Trump delivered a short speech from the Blue Room balcony overlooking the South
   Lawn on Saturday after Dr. Sean Conley issued a doctor’s note saying Trump was "no
   longer considered a transmission risk to others."
-tags:
-- covid
-- nomination
-- congress
-- voting-rights
-- judiciary
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

@@ -3,6 +3,12 @@ title: Day 1253
 date: 2020-06-25 15:14:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- immigration
+- congress
+- nomination
+- oversight
 description: '"An explosion."'
 image: "/uploads/1253.jpg"
 todayInOneSentence: The CDC estimated that the number of Americans infected with the
@@ -11,12 +17,6 @@ todayInOneSentence: The CDC estimated that the number of Americans infected with
   checks to over a million dead people; unemployment claims topped one million for
   the 14th week in a row; and the Supreme Court ruled that people seeking asylum from
   persecution have no right to a federal court hearing.
-tags:
-- covid
-- immigration
-- congress
-- nomination
-- oversight
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

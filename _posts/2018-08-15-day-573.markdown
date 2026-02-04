@@ -3,6 +3,12 @@ title: Day 573
 date: 2018-08-15 14:23:00 -07:00
 categories:
 - trump
+tags:
+- national-security
+- voting-rights
+- congress
+- education
+- russia
 description: Erratic.
 image: "/uploads/573.jpg"
 todayInOneSentence: Trump revoked John Brennan's security clearance; the FBI has investigated
@@ -10,12 +16,6 @@ todayInOneSentence: Trump revoked John Brennan's security clearance; the FBI has
   Dana Rohrabacher; the Treasury Department has delayed turning over financial records
   related to the Russia probe; and Sarah Huckabee Sanders apologized for claiming
   that Trump has created three times as many jobs for black people as Obama did.
-tags:
-- national-security
-- voting-rights
-- congress
-- education
-- russia
 ---
 
 1/ **Trump revoked former CIA director John Brennan's security clearance, citing what he called Brennan's "erratic conduct and behavior."** Brennan has been one of Trump's most prominent critics. Last month, the White House threatened to revoke the clearances for Brennan, Susan Rice, and James Clapper. Trump is also reviewing James Comey's security clearance. Revoking their access to classified information could impact their ability to work as consultants, lobbyists and advisers in Washington. ([Washington Post](https://www.washingtonpost.com/politics/trump-revokes-security-clearance-of-former-cia-director-john-brennan/2018/08/15/043b6fc4-a0bb-11e8-8e87-c869fe70a721_story.html) / [New York Times](https://www.nytimes.com/2018/08/15/us/politics/john-brennan-security-clearance.html) / [CNBC](https://www.cnbc.com/2018/08/15/trump-revokes-former-cia-director-john-brennans-security-clearance.html))

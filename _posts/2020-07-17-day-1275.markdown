@@ -3,6 +3,12 @@ title: Day 1275
 date: 2020-07-17 13:45:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- congress
+- education
+- lawsuit
+- economy
 description: '"Science should not stand in the way."'
 image: "/uploads/1275.jpg"
 todayInOneSentence: The U.S. recorded more than 75,600 new coronavirus cases on Thursday;
@@ -12,12 +18,6 @@ todayInOneSentence: The U.S. recorded more than 75,600 new coronavirus cases on 
   to school in the fall; the Trump reelection campaign is investigating spending irregularities
   during Brad Parscale's tenure as campaign manager; and Trump’s properties have made
   over $17 million from the Trump campaign and his fundraising committees since 2016.
-tags:
-- covid
-- congress
-- education
-- lawsuit
-- economy
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

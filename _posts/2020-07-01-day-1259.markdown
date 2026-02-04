@@ -3,6 +3,12 @@ title: Day 1259
 date: 2020-07-01 15:37:00 -07:00
 categories:
 - trump
+tags:
+- covid
+- economy
+- congress
+- media
+- national-security
 description: '"It''s going to sort of just disappear, I hope."'
 image: "/uploads/1259.jpg"
 todayInOneSentence: The number of confirmed U.S. coronavirus deaths is "a substantial
@@ -13,12 +19,6 @@ todayInOneSentence: The number of confirmed U.S. coronavirus deaths is "a substa
   Party"; Trump called New York City’s decision to paint "Black Lives Matter" on Fifth
   Avenue a "symbol of hate"; and Trump recently told people that he regrets following
   some of Jared Kushner's political advice.
-tags:
-- covid
-- economy
-- congress
-- media
-- national-security
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

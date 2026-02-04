@@ -1828,3 +1828,203 @@ div.flex-item ul.package {
   border: 0;
 }
 
+// Search styles (merged from public/css/search.css)
+.algolia__input {
+  font-size: 1em;
+  padding: 0 15px 0 45px;
+  height: 42px;
+  border: 1px solid #ddd;
+  width: 100%;
+}
+
+.algolia__initial-content {
+  display: block;
+
+  &--hidden {
+    display: none;
+  }
+}
+
+.algolia__search-content {
+  display: none;
+
+  &--active {
+    display: block;
+  }
+}
+
+.algolia__result {
+  margin-bottom: 1rem;
+}
+
+.algolia__result-link {
+  font-size: 1.25rem;
+  font-weight: bold;
+
+  .algolia__result-highlight {
+    background-color: rgba(38, 139, 210, 0.2);
+  }
+}
+
+.algolia__result-date {
+  font-size: 0.8rem;
+}
+
+.algolia__result-text .ais-Highlight {
+  font-weight: bold;
+  background-color: rgba(200, 50, 50, 0.15);
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
+}
+
+.search-loading,
+.search-hint {
+  color: $gray-3;
+  font-style: italic;
+  padding: 1rem 0;
+}
+
+.search-load-more {
+  display: block;
+  width: 100%;
+  padding: 0.75rem 1.5rem;
+  margin: 1.5rem 0;
+  font-family: inherit;
+  font-size: 0.9rem;
+  color: #515151;
+  background: #f9f9f9;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+
+  &:hover {
+    background: #eee;
+    border-color: #ccc;
+  }
+
+  &:active {
+    background: #e5e5e5;
+  }
+}
+
+// Mailchimp embed form (self-hosted, was external CSS)
+#mc_embed_signup {
+  background: #fff;
+  clear: left;
+  font: 14px Helvetica, Arial, sans-serif;
+  width: 100%;
+
+  form {
+    text-align: center;
+    padding: 10px 0;
+  }
+
+  .mc-field-group {
+    display: inline-block;
+  }
+
+  input.email {
+    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;
+    font-size: 15px;
+    border: 1px solid #ABB0B2;
+    border-radius: 3px;
+    color: #343434;
+    background-color: #fff;
+    box-sizing: border-box;
+    height: 32px;
+    padding: 0 0.4em;
+    display: inline-block;
+    margin: 0;
+    width: 350px;
+    vertical-align: top;
+  }
+
+  label {
+    display: block;
+    font-size: 16px;
+    padding-bottom: 10px;
+    font-weight: bold;
+  }
+
+  .clear {
+    display: inline-block;
+  }
+
+  .button {
+    font-size: 13px;
+    border: none;
+    border-radius: 3px;
+    letter-spacing: 0.03em;
+    color: #fff;
+    background-color: #aaa;
+    box-sizing: border-box;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 18px;
+    display: inline-block;
+    margin: 0;
+    transition: all 0.23s ease-in-out;
+
+    &:hover {
+      background-color: #777;
+      cursor: pointer;
+    }
+  }
+
+  div#mce-responses {
+    float: left;
+    top: -1.4em;
+    padding: 0 0.5em;
+    overflow: hidden;
+    width: 90%;
+    margin: 0 5%;
+    clear: both;
+  }
+
+  div.response {
+    margin: 1em 0;
+    padding: 1em 0.5em 0.5em 0;
+    font-weight: bold;
+    float: left;
+    top: -1.5em;
+    z-index: 1;
+    width: 80%;
+  }
+
+  #mce-error-response {
+    display: none;
+  }
+
+  #mce-success-response {
+    color: #529214;
+    display: none;
+  }
+
+  label.error {
+    display: block;
+    float: none;
+    width: auto;
+    margin-left: 1.05em;
+    text-align: left;
+    padding: 0.5em 0;
+  }
+
+  @media (max-width: 768px) {
+    input.email {
+      width: 100%;
+      margin-bottom: 5px;
+    }
+
+    .clear {
+      display: block;
+      width: 100%;
+    }
+
+    .button {
+      width: 100%;
+      margin: 0;
+    }
+  }
+}
+

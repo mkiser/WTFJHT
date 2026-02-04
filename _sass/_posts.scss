@@ -11,6 +11,17 @@ article.post div.post-content > p {
   font-style: normal;
   font-size: 1.1rem;
 }
+
+// "Today in one sentence" summary box
+.tios {
+  padding: 1rem;
+  margin: 0 0 2em 0;
+  background-color: rgba(49, 49, 49, 0.03);
+  font-size: 1rem;
+  line-height: 1.6;
+  border-radius: 4px;
+}
+
 .posts {
   margin-top: 1em;
 }
@@ -51,15 +62,16 @@ article.post div.post-content > p {
   }
   
   li {
-    font-size: .8em;
-    color: $gray-3;
+    font-size: 0.95em;
+    color: $gray-4;
     list-style: none;
-      
+    line-height: 1.5;
+
       .jekyll-twitter-plugin,
       blockquote {
         margin-left: 0;
       }
-      
+
     a {
       color: $link-color;
     }
@@ -123,13 +135,14 @@ article.post div.post-content > p {
   }
 
   blockquote {
-    font-size: .8em;
-    color: #767676;
-    padding: .8rem;
+    font-size: 0.95em;
+    color: $gray-4;
+    padding: 1rem;
     margin: 0 0 1em 1rem;
     border: none;
-    border-left: 5px solid #e9e9e9;
+    border-left: 4px solid #ddd;
     background-color: rgba(49,49,49,0.03);
+    line-height: 1.5;
 
     strong {
       color: #303030;
@@ -139,17 +152,7 @@ article.post div.post-content > p {
       font-size: 1em;
       margin-top: 0;
       margin-bottom: 1rem;
-
-  /*    &:first-of-type {
-        color: #FFB600;
-        font-size: .65em;
-        font-weight: bold;
-      }*/
     }
-
-  /*  p + p {
-      margin-top: -1em;
-    }*/
   }
 
 }

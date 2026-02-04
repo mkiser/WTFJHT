@@ -71,7 +71,18 @@
       gtag('js', new Date());
       gtag('config', 'G-P3G02CXQXW');
     </script>
-    
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        document.querySelectorAll('form[action*="list-manage.com/subscribe"]').forEach(function(form) {
+          form.addEventListener('submit', function() {
+            gtag('event', 'sign_up', {
+              method: 'newsletter'
+            });
+          });
+        });
+      });
+    </script>
+
   </head>
   <body>
     <a href="#main-content" class="skip-link">Skip to main content</a>

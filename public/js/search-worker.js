@@ -6,6 +6,46 @@ var allRecords = null;
 var recordMap = {};
 var tagLookup = [];
 
+// Synonym map: search terms that should boost specific tags
+// Kept minimal for performance - only high-value, non-obvious mappings
+var synonymToTags = {
+  // LGBTQ terms → lgbtq-rights
+  'transgender': ['lgbtq-rights'], 'trans': ['lgbtq-rights'], 'gay': ['lgbtq-rights'],
+  'lesbian': ['lgbtq-rights'], 'lgbtq': ['lgbtq-rights'], 'lgbt': ['lgbtq-rights'],
+  'same-sex': ['lgbtq-rights'], 'queer': ['lgbtq-rights'], 'nonbinary': ['lgbtq-rights'],
+  'drag': ['lgbtq-rights'], 'gender affirming': ['lgbtq-rights'],
+  // Immigration terms → immigration
+  'daca': ['immigration'], 'dreamer': ['immigration'], 'dreamers': ['immigration'],
+  'deportation': ['immigration'], 'deport': ['immigration'], 'ice': ['immigration'],
+  'asylum': ['immigration'], 'refugee': ['immigration'], 'border wall': ['immigration'],
+  'family separation': ['immigration'], 'migrant': ['immigration'],
+  // Healthcare terms → healthcare
+  'obamacare': ['healthcare'], 'aca': ['healthcare'], 'medicaid': ['healthcare'],
+  'medicare': ['healthcare'], 'insulin': ['healthcare'],
+  // Reproductive rights terms
+  'abortion': ['reproductive-rights'], 'roe': ['reproductive-rights'],
+  'dobbs': ['reproductive-rights'], 'pro-choice': ['reproductive-rights'],
+  // Climate terms → climate
+  'paris agreement': ['climate'], 'epa': ['climate'], 'emissions': ['climate'],
+  'fossil fuel': ['climate'], 'global warming': ['climate'],
+  // Mueller/Russia terms
+  'mueller': ['mueller-investigation'], 'collusion': ['mueller-investigation'],
+  'comey': ['mueller-investigation'], 'manafort': ['mueller-investigation'],
+  // Jan 6 terms
+  'capitol riot': ['jan-6'], 'insurrection': ['jan-6'], 'january 6': ['jan-6'],
+  'proud boys': ['jan-6'], 'oath keepers': ['jan-6'], 'stop the steal': ['jan-6'],
+  // COVID terms
+  'coronavirus': ['covid'], 'pandemic': ['covid'], 'vaccine': ['covid'],
+  'fauci': ['covid'], 'lockdown': ['covid'],
+  // Other high-value mappings
+  'scotus': ['supreme-court'], 'filibuster': ['congress'], 'subpoena': ['oversight'],
+  'whistleblower': ['oversight'], 'pardon': ['pardon'], 'clemency': ['pardon'],
+  'tariff': ['tariffs'], 'trade war': ['tariffs', 'trade'],
+  'classified': ['classified-documents'], 'mar-a-lago': ['classified-documents'],
+  'zelensky': ['ukraine', 'impeachment'], 'putin': ['russia'],
+  'hamas': ['israel-palestine'], 'gaza': ['israel-palestine'], 'netanyahu': ['israel-palestine']
+};
+
 // Handle messages from main thread
 self.onmessage = function(e) {
   var msg = e.data;
@@ -129,10 +169,13 @@ function matchesTags(recordTags, filterTags) {
   });
 }
 
-// Calculate boost based on tag matches with search terms
-function calculateTagBoost(tags, queryTerms) {
-  if (!tags || tags.length === 0 || queryTerms.length === 0) return 1.0;
+// Calculate boost based on tag matches with search terms (including synonyms)
+function calculateTagBoost(tags, queryTerms, queryText) {
+  if (!tags || tags.length === 0) return 1.0;
   var boost = 1.0;
+  var queryLower = queryText.toLowerCase();
+
+  // Check direct tag matches
   queryTerms.forEach(function(term) {
     if (tags.some(function(t) { return t.toLowerCase() === term; })) {
       boost *= 1.5;  // Exact tag match
@@ -140,7 +183,20 @@ function calculateTagBoost(tags, queryTerms) {
       boost *= 1.2;  // Partial tag match
     }
   });
-  return Math.min(boost, 2.5);  // Cap boost
+
+  // Check synonym matches - if query contains a synonym term, boost posts with that tag
+  Object.keys(synonymToTags).forEach(function(synonym) {
+    if (queryLower.indexOf(synonym) !== -1) {
+      var targetTags = synonymToTags[synonym];
+      targetTags.forEach(function(targetTag) {
+        if (tags.some(function(t) { return t.toLowerCase() === targetTag; })) {
+          boost *= 1.8;  // Synonym-to-tag match (strong signal)
+        }
+      });
+    }
+  });
+
+  return Math.min(boost, 3.0);  // Cap boost
 }
 
 // Perform search and return results
@@ -201,8 +257,8 @@ function performSearch(query, requestId) {
     // Phrase/proximity boost
     var phraseBoost = calculatePhraseBoost(record.content, searchTerms);
 
-    // Tag boost - boost results where search terms match tag names
-    var tagBoost = calculateTagBoost(record.tags, searchTerms);
+    // Tag boost - boost results where search terms or synonyms match tags
+    var tagBoost = calculateTagBoost(record.tags, searchTerms, parsed.textQuery);
 
     return {
       id: result.id,

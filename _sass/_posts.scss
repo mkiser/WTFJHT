@@ -193,8 +193,27 @@ article.post div.post-content > p {
 
 }
 
+// Page-specific styles (About, FAQ, Subscribe, etc.)
 .page {
-  border-top: 0px;
+  border-top: 0;
+
+  // Better paragraph rhythm for long-form content
+  p {
+    line-height: 1.6;
+    margin-bottom: 1.25em;
+  }
+
+  // Blockquotes - cleaner for pages
+  blockquote {
+    font-size: 1em;
+    color: $gray-4;
+    margin: 1.5em 0 1.5em 1em;
+  }
+
+  // Horizontal rules as section breaks
+  hr {
+    margin: 2em 0;
+  }
 }
 
 // Blog post or page title

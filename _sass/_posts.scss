@@ -90,7 +90,10 @@ article.post div.post-content > p {
     margin: 0 1em 2em 1em;
     background-color: rgba(49,49,49, 0.03);
   }
-
+  ol {
+    padding: 0 0 0 1em;
+    margin: 0 1em 1em 1em;
+  }
   ol {
     li {
       list-style: circle;

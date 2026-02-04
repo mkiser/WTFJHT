@@ -8,6 +8,19 @@ sitemap: false
 
 <div class="page">
   <h1 class="page-title">404: Fake news not found</h1>
-  <p class="lead"><a href="{{ site.baseurl }}/">Head back to the homepage</a> and try again.</p>
+  <p class="lead">The page you're looking for doesn't exist or has moved.</p>
+
+  <p>Try searching above, or check out a recent post:</p>
+
+  <ul class="not-found-posts">
+    {% for post in site.posts limit:5 %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}: {{ post.description }}</a>
+      <span class="not-found-posts__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+  <p style="margin-top: 2em;"><a href="{{ site.baseurl }}/">← Back to homepage</a></p>
 </div>
 

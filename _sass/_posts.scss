@@ -22,6 +22,42 @@ article.post div.post-content > p {
   border-radius: 4px;
 }
 
+// 404 page recent posts
+.not-found-posts {
+  list-style: none;
+  padding: 0;
+  margin: 1.5em 0;
+  background: none;
+
+  li {
+    padding: 0.75em 0;
+    border-bottom: 1px solid #eee;
+    font-size: 0.95rem;
+    color: $gray-4;
+    background: none;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  a {
+    color: $gray-5;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &__date {
+    display: block;
+    font-size: 0.8rem;
+    color: $gray-3;
+    margin-top: 0.25em;
+  }
+}
+
 .posts {
   margin-top: 1em;
 }

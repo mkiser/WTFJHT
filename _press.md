@@ -13,7 +13,7 @@ Don't believe the hype? How about some social proof. Here's what the smartest pe
 {% twitter https://twitter.com/markskogan/status/992201281392570370 hide_media=true hide_thread=true %}
 
 <div class="author-avatar">
-<img src="https://whatthefuckjusthappenedtoday.com/uploads/BW_Honoree.png" class="author-image">
+<img src="https://whatthefuckjusthappenedtoday.com/uploads/BW_Honoree.png" class="author-image" alt="2018 Webby Award Honoree badge">
 </div>
 <div class="author-box">
 <h3 class="name"><a href="https://vote.webbyawards.com/PublicVoting#/2018/websites/general/news-politics?honoree" target="_blank">A 2018 Webby Award Honoree</a></h3>

@@ -219,7 +219,7 @@
       </footer>
     </div>      
       <!-- SEARCH (lazy-loaded on first interaction) -->
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js"></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js" defer></script>
@@ -232,10 +232,14 @@
         });
       </script>
       <!-- AUDIO PLAYER -->
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js"></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js" defer></script>
       <script>
-        audiojs.events.ready(function() {
-          var as = audiojs.createAll();
+        document.addEventListener('DOMContentLoaded', function() {
+          if (typeof audiojs !== 'undefined') {
+            audiojs.events.ready(function() {
+              audiojs.createAll();
+            });
+          }
         });
       </script>
 

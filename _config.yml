@@ -11,6 +11,7 @@ collections:
   uploads:
     title: Uploads
     output: false
+defaults:
 - scope:
     path: ''
     type: posts

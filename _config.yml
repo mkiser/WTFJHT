@@ -78,18 +78,6 @@ defaults:
     path: page
   values:
     sitemap: false
-- scope:
-    path: ''
-    type: topics
-  values:
-    permalink: "/:title/"
-    title: ''
-    description: ''
-    image: ''
-    author: Matt Kiser
-    layout: topics
-    seo:
-      type: NewsArticle
 name: What The Fuck Just Happened Today?
 tagline: Political News for Normal People.
 description: Your essential guide to the shock and awe in national politics. A sane,
@@ -156,7 +144,6 @@ exclude:
 - meta
 - guide
 - _podcasts
-- _topics
 extlinks:
   attributes:
     target: _blank

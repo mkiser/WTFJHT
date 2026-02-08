@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQ – How WTFJHT Works
 date: 2017-01-20 21:53:00 -08:00
 image: "/uploads/og-image.jpg"
 layout: page

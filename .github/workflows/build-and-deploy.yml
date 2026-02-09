@@ -25,6 +25,13 @@ jobs:
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
+      - name: Commit new tweet cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .tweet-cache/
+          git diff --staged --quiet || git commit -m "Update tweet cache [skip ci]" && git push
+
       - name: Compress search index
         run: |
           # Keep original for Cloudflare Brotli, create gzip fallback

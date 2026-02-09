@@ -3,7 +3,6 @@ _gh_pages
 .jekyll-metadata
 .jekyll-cache
 .sass-cache
-.tweet-cache
 _site
 _algolia_api_key
 vendor

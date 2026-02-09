@@ -4,7 +4,6 @@ gem "jekyll"
 gem "webrick" 
 gem "liquid-c"
 gem 'jekyll-sitemap'
-# gem 'jekyll-seo-tag'  # Vendored in _plugins/ for customization
 gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
 gem 'jekyll-archives', '2.1.1'

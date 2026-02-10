@@ -1,0 +1,63 @@
+# Dashboard configuration
+# All counters are calculated client-side from these dates
+
+# Key political dates
+dates:
+  wtf_start: "2017-01-20"
+  trump_term1_start: "2017-01-20"
+  trump_term1_end: "2021-01-20"
+  trump_term2_start: "2025-01-20"
+  covfefe: "2017-05-31"
+  midterms_2026: "2026-11-03"
+  presidential_2028: "2028-11-07"
+  inauguration_2029: "2029-01-20"
+
+# Historical markers - events to track "days since"
+# Each gets a card in the Historical Markers section
+historical_markers:
+  - id: wtf_start
+    date: "2017-01-20"
+    label: "Days Since WTFJHT Started"
+    meta: "January 20, 2017"
+
+  - id: covfefe
+    date: "2017-05-31"
+    label: "Days Since \"Covfefe\""
+    link: "https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/#9-trump-didn%E2%80%99t-expect-so-much-%E2%80%9Ccovfe"
+    meta: "May 31, 2017"
+
+  - id: charlottesville
+    date: "2017-08-12"
+    label: "Days Since \"Very Fine People\""
+    link: "https://whatthefuckjusthappenedtoday.com/2017/08/17/day-210/#2-white-house-aides-are-wrestling-wi"
+    meta: "Charlottesville - August 12, 2017"
+
+  - id: shithole
+    date: "2018-01-11"
+    label: "Days Since \"Shithole Countries\""
+    link: "https://whatthefuckjusthappenedtoday.com/2018/01/11/day-357/"
+    meta: "January 11, 2018"
+
+  - id: sharpiegate
+    date: "2019-09-04"
+    label: "Days Since Sharpiegate"
+    link: "https://whatthefuckjusthappenedtoday.com/2019/09/04/day-958/#1-trump-displayed-a-doctored-nationa"
+    meta: "Hurricane Dorian - September 4, 2019"
+
+  - id: impeachment1
+    date: "2019-12-18"
+    label: "Days Since First Impeachment"
+    link: "https://whatthefuckjusthappenedtoday.com/2019/12/18/day-1063/"
+    meta: "December 18, 2019"
+
+  - id: jan6
+    date: "2021-01-06"
+    label: "Days Since January 6th Capitol Attack"
+    link: "https://whatthefuckjusthappenedtoday.com/2021/01/06/day-1448/"
+    meta: "January 6, 2021"
+
+  - id: impeachment2
+    date: "2021-01-13"
+    label: "Days Since Second Impeachment"
+    link: "https://whatthefuckjusthappenedtoday.com/2021/01/13/day-1455/"
+    meta: "January 13, 2021"

@@ -12,12 +12,6 @@ redirect_from:
   <h1>The Big Dumb Dashboard.™</h1>
   <p class="lead">A counting service for those still keeping track.</p>
 </div>
-  <!-- Main Counters -->
-<!--   <div class="dashboard-section">
-    <h2>🗓️ Today's Numbers</h2>
-    <div class="counter-grid" id="main-counters"></div>
-  </div>
- -->
 
   <!-- Trump Administration -->
   <div class="dashboard-section">
@@ -38,225 +32,198 @@ redirect_from:
 </div>
 
 <script>
-(async function() {
-  const tz = 'America/Los_Angeles';
-  const now = new Date();
-  
-  const fmt = new Intl.DateTimeFormat('en-US', {
-    timeZone: tz, year: '2-digit', month: 'numeric', day: 'numeric'
-  });
-  const parts = fmt.formatToParts(now);
-  const m = parts.find(p => p.type === 'month').value;
-  const d = parts.find(p => p.type === 'day').value;
-  const y = parts.find(p => p.type === 'year').value;
+(function() {
+  // Config injected at build time from _data/dashboard.yml
+  const config = {{ site.data.dashboard | jsonify }};
 
-  const pad2 = n => n < 10 ? '0' + n : '' + n;
-  const keyUnpadded = `${+m}/${+d}/${y}`;
-  const keyPadded = `${pad2(+m)}/${pad2(+d)}/${y}`;
+  // Get current date in Pacific time
+  const todayParts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'America/Los_Angeles',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
+  }).formatToParts(new Date());
+  // Parse a date string (YYYY-MM-DD) to UTC timestamp (avoids DST issues)
+  function parseDate(dateStr) {
+    const [year, month, day] = dateStr.split('-').map(Number);
+    return Date.UTC(year, month - 1, day);
+  }
 
-  const formatNumber = (num) => {
-    if (!num && num !== 0) return 'N/A';
-    return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-  };
+  // Get today as UTC timestamp
+  const todayUTC = Date.UTC(
+    parseInt(todayParts.find(p => p.type === 'year').value),
+    parseInt(todayParts.find(p => p.type === 'month').value) - 1,
+    parseInt(todayParts.find(p => p.type === 'day').value)
+  );
+  const msPerDay = 1000 * 60 * 60 * 24;
 
-  const parseNumber = (val) => {
-    if (!val && val !== 0) return 0;
-    return parseInt(val.toString().replace(/,/g, ''));
-  };
+  // Calculate days between two dates (inclusive of start date as day 1)
+  function daysSince(startDateStr) {
+    const start = parseDate(startDateStr);
+    return Math.floor((todayUTC - start) / msPerDay) + 1;
+  }
 
-  const calculateProgress = (current, total) => {
+  // Calculate days until a future date
+  function daysUntil(endDateStr) {
+    const end = parseDate(endDateStr);
+    return Math.floor((end - todayUTC) / msPerDay);
+  }
+
+  // Format number with commas
+  function formatNumber(num) {
+    if (num === null || num === undefined || isNaN(num)) return 'N/A';
+    return num.toLocaleString('en-US');
+  }
+
+  // Calculate progress percentage
+  function calculateProgress(current, total) {
     return Math.min(100, Math.max(0, (current / total) * 100));
-  };
+  }
 
-  // Calculate days between two dates
-  const daysBetween = (startDate, endDate) => {
-    return Math.floor((endDate - startDate) / (1000 * 60 * 60 * 24));
-  };
+  // Calculate Trump days (using UTC timestamps)
+  const term1Start = parseDate(config.dates.trump_term1_start);
+  const term1End = parseDate(config.dates.trump_term1_end);
+  const term2Start = parseDate(config.dates.trump_term2_start);
 
-  try {
-    const resp = await fetch('https://whatthefuckjusthappenedtoday.com/uploads/wtf_days.json');
-    if (!resp.ok) {
-      console.error('Failed to fetch JSON', resp.status, resp.statusText);
-      return;
-    }
-    const rows = await resp.json();
-    const row = rows.find(r => r.DATE === keyUnpadded || r.DATE === keyPadded);
+  // Term 1 duration: Jan 20, 2017 through Jan 19, 2021 = 1461 days
+  // (Jan 20, 2021 was Biden's first day, not a Trump day)
+  const term1Days = Math.floor((term1End - term1Start) / msPerDay);
 
-    if (!row) {
-      console.warn('No matching DATE row found');
-      return;
-    }
+  // Term 2 days so far
+  let term2Days = 0;
+  if (todayUTC >= term2Start) {
+    term2Days = Math.floor((todayUTC - term2Start) / msPerDay) + 1;
+  }
 
-    // Main Counters
-    // const mainEl = document.getElementById('main-counters');
-    // mainEl.innerHTML = `
-    //   <div class="counter-card wtf">
-    //     <span class="counter-number">${row.DATE}</span>
-    //     <span class="counter-label">Today (Pacific Time)</span>
-    //   </div>
-    // `;
+  const trumpDaysTotal = term1Days + term2Days;
+  const trumpDaysCurrent = term2Days;
+  const scaramuccis = (trumpDaysTotal / 11).toFixed(2);
 
-    // Trump Counters
-    const trumpEl = document.getElementById('trump-counters');
-    const trumpTerm2Total = 1461; // 4 years
-    const trumpTerm2Total8Years = 2922; // 8 years
-    const trumpProgress = calculateProgress(parseNumber(row.TRUMP_DAYS_CURRENT) || 0, trumpTerm2Total);
-    const trumpProgressTotal = calculateProgress(parseNumber(row.TRUMP_DAYS_TOTAL) || 0, trumpTerm2Total8Years);
-    
-    trumpEl.innerHTML = `
-      <div class="counter-card trump">
-        <span class="counter-number">${formatNumber(row.TRUMP_DAYS_TOTAL)}</span>
-        <span class="counter-label">Total Trump Days (Both Terms)</span>
-        <div class="progress-bar">
-            <div class="progress-fill" style="width: ${trumpProgressTotal}%;"></div>
-        </div>
-        <span class="counter-meta">${trumpProgressTotal.toFixed(1)}% of both terms complete</span>
+  // Trump Administration Section
+  const trumpEl = document.getElementById('trump-counters');
+  const trumpTerm2Total = 1461; // 4 years
+  const trumpTerm2Total8Years = 2922; // 8 years total
+  const trumpProgress = calculateProgress(trumpDaysCurrent, trumpTerm2Total);
+  const trumpProgressTotal = calculateProgress(trumpDaysTotal, trumpTerm2Total8Years);
+
+  trumpEl.innerHTML = `
+    <div class="counter-card trump">
+      <span class="counter-number">${formatNumber(trumpDaysTotal)}</span>
+      <span class="counter-label">Total Trump Days (Both Terms)</span>
+      <div class="progress-bar">
+        <div class="progress-fill" style="width: ${trumpProgressTotal}%;"></div>
       </div>
-      <div class="counter-card trump">
-        <span class="counter-number">${formatNumber(row.TRUMP_DAYS_CURRENT)}</span>
-        <span class="counter-label">Trump Days (Current Term)</span>
-        <div class="progress-bar">
-          <div class="progress-fill" style="width: ${trumpProgress}%;"></div>
-        </div>
-        <span class="counter-meta">${trumpProgress.toFixed(1)}% of current term complete</span>
+      <span class="counter-meta">${trumpProgressTotal.toFixed(1)}% of both terms complete</span>
+    </div>
+    <div class="counter-card trump">
+      <span class="counter-number">${formatNumber(trumpDaysCurrent)}</span>
+      <span class="counter-label">Trump Days (Current Term)</span>
+      <div class="progress-bar">
+        <div class="progress-fill" style="width: ${trumpProgress}%;"></div>
       </div>
-      <div class="counter-card trump">
-        <span class="counter-number">${formatNumber(row.SCARAMUCCIS)}</span>
-        <span class="counter-label">Scaramuccis</span>
-        <span class="counter-meta">1 Scaramucci = 11 days</span>
-      </div>
-     
-    `;
+      <span class="counter-meta">${trumpProgress.toFixed(1)}% of current term complete</span>
+    </div>
+    <div class="counter-card trump">
+      <span class="counter-number">${formatNumber(parseFloat(scaramuccis))}</span>
+      <span class="counter-label">Scaramuccis</span>
+      <span class="counter-meta">1 Scaramucci = 11 days</span>
+    </div>
+  `;
 
-    // Election Counters with Progress Bars
-    const electionEl = document.getElementById('election-counters');
-    
-    // Calculate election progress (showing how much time has passed since Trump's second term started)
-    const inaug2025 = new Date('2025-01-20');
-    const midterms2026 = new Date('2026-11-03');
-    const presidential2028 = new Date('2028-11-07');
-    const inaug2029 = new Date('2029-01-20');
-    
-    // Total days from Trump's second inauguration to each event
-    const totalDaysToMidterms = daysBetween(inaug2025, midterms2026);
-    const totalDaysToPresidential = daysBetween(inaug2025, presidential2028);
-    const totalDaysToInauguration = daysBetween(inaug2025, inaug2029);
-    
-    // Days elapsed since Trump's second inauguration
-    const daysElapsedSinceInauguration = daysBetween(inaug2025, now);
-    
-    // Calculate progress (how much time has passed toward each event)
-    const midtermsProgress = calculateProgress(daysElapsedSinceInauguration, totalDaysToMidterms);
-    const presidentialProgress = calculateProgress(daysElapsedSinceInauguration, totalDaysToPresidential);
-    const inaugurationProgress = calculateProgress(daysElapsedSinceInauguration, totalDaysToInauguration);
-    
-    electionEl.innerHTML = `
-      ${row.DAYS_MIDTERMS !== undefined && row.DAYS_MIDTERMS !== '' ? `
-      <div class="counter-card election">
-        <span class="counter-number">${formatNumber(row.DAYS_MIDTERMS)}</span>
-        <span class="counter-label">Days Until 2026 Midterm Elections</span>
-        <div class="progress-bar">
-          <div class="progress-fill election" style="width: ${midtermsProgress}%;"></div>
-        </div>
-        <span class="counter-meta">${midtermsProgress.toFixed(1)}% complete</span>
-        <span class="counter-meta">November 3, 2026</span>
-      </div>
-      ` : ''}
-      ${row.DAYS_PRESIDENTIAL !== undefined && row.DAYS_PRESIDENTIAL !== '' ? `
-      <div class="counter-card election">
-        <span class="counter-number">${formatNumber(row.DAYS_PRESIDENTIAL)}</span>
-        <span class="counter-label">Days Until 2028 Presidential Election</span>
-        <div class="progress-bar">
-          <div class="progress-fill election" style="width: ${presidentialProgress}%;"></div>
-        </div>
-        <span class="counter-meta">${presidentialProgress.toFixed(1)}% complete</span>
-        <span class="counter-meta">November 7, 2028</span>
-      </div>
-      ` : ''}
-      ${row.DAY_INAUGURATION !== undefined && row.DAY_INAUGURATION !== '' ? `
-      <div class="counter-card election">
-        <span class="counter-number">${formatNumber(row.DAY_INAUGURATION)}</span>
-        <span class="counter-label">Days Until 2029 Inauguration</span>
-        <div class="progress-bar">
-          <div class="progress-fill election" style="width: ${inaugurationProgress}%;"></div>
-        </div>
-        <span class="counter-meta">${inaugurationProgress.toFixed(1)}% complete</span>
-        <span class="counter-meta">January 20, 2029</span>
+  // Election Countdowns Section
+  const electionEl = document.getElementById('election-counters');
+  const inaug2025 = parseDate(config.dates.trump_term2_start);
+  const midterms2026 = parseDate(config.dates.midterms_2026);
+  const presidential2028 = parseDate(config.dates.presidential_2028);
+  const inaug2029 = parseDate(config.dates.inauguration_2029);
 
+  const daysToMidterms = daysUntil(config.dates.midterms_2026);
+  const daysToPresidential = daysUntil(config.dates.presidential_2028);
+  const daysToInauguration = daysUntil(config.dates.inauguration_2029);
+
+  // Calculate progress (days elapsed since term 2 start / total days to event)
+  const totalDaysToMidterms = Math.floor((midterms2026 - inaug2025) / msPerDay);
+  const totalDaysToPresidential = Math.floor((presidential2028 - inaug2025) / msPerDay);
+  const totalDaysToInauguration = Math.floor((inaug2029 - inaug2025) / msPerDay);
+
+  const daysElapsed = Math.max(0, Math.floor((todayUTC - inaug2025) / msPerDay));
+
+  const midtermsProgress = calculateProgress(daysElapsed, totalDaysToMidterms);
+  const presidentialProgress = calculateProgress(daysElapsed, totalDaysToPresidential);
+  const inaugurationProgress = calculateProgress(daysElapsed, totalDaysToInauguration);
+
+  electionEl.innerHTML = `
+    ${daysToMidterms > 0 ? `
+    <div class="counter-card election">
+      <span class="counter-number">${formatNumber(daysToMidterms)}</span>
+      <span class="counter-label">Days Until 2026 Midterm Elections</span>
+      <div class="progress-bar">
+        <div class="progress-fill election" style="width: ${midtermsProgress}%;"></div>
       </div>
-      ` : ''}
-    `;
+      <span class="counter-meta">${midtermsProgress.toFixed(1)}% complete</span>
+      <span class="counter-meta">November 3, 2026</span>
+    </div>
+    ` : ''}
+    ${daysToPresidential > 0 ? `
+    <div class="counter-card election">
+      <span class="counter-number">${formatNumber(daysToPresidential)}</span>
+      <span class="counter-label">Days Until 2028 Presidential Election</span>
+      <div class="progress-bar">
+        <div class="progress-fill election" style="width: ${presidentialProgress}%;"></div>
+      </div>
+      <span class="counter-meta">${presidentialProgress.toFixed(1)}% complete</span>
+      <span class="counter-meta">November 7, 2028</span>
+    </div>
+    ` : ''}
+    ${daysToInauguration > 0 ? `
+    <div class="counter-card election">
+      <span class="counter-number">${formatNumber(daysToInauguration)}</span>
+      <span class="counter-label">Days Until 2029 Inauguration</span>
+      <div class="progress-bar">
+        <div class="progress-fill election" style="width: ${inaugurationProgress}%;"></div>
+      </div>
+      <span class="counter-meta">${inaugurationProgress.toFixed(1)}% complete</span>
+      <span class="counter-meta">January 20, 2029</span>
+    </div>
+    ` : ''}
+  `;
 
-    // Historical Markers
-    const histEl = document.getElementById('historical-counters');
-    const inaug2017 = new Date('2017-01-20');
-    const inaug2021 = new Date('2021-01-20');
-    const charlottesville = new Date('2017-08-12'); // "Very fine people" Charlottesville
-    const shitHole = new Date('2018-01-11'); // "Shithole countries"
-    const sharpiegate = new Date('2019-09-04'); // Hurricane Dorian Sharpiegate
-    const impeachment1 = new Date('2019-12-18'); // First Impeachment
-    const jan6 = new Date('2021-01-06'); // Capitol Attack
-    const impeachment2 = new Date('2021-01-13'); // Second Impeachment
-    const daysSince2017 = Math.floor((now - inaug2017) / (1000 * 60 * 60 * 24) + 1);
-    const daysSince2021 = Math.floor((now - inaug2021) / (1000 * 60 * 60 * 24) + 1);
-    const daysSince2025 = Math.floor((now - inaug2025) / (1000 * 60 * 60 * 24) + 1);
-    const daysSinceCharlottesville = Math.floor((now - charlottesville) / (1000 * 60 * 60 * 24) + 1);
-    const daysSinceshitHole = Math.floor((now - shitHole) / (1000 * 60 * 60 * 24) + 1);
-    const daysSinceSharpiegate = Math.floor((now - sharpiegate) / (1000 * 60 * 60 * 24) + 1);
-    const daysSinceImpeachment1 = Math.floor((now - impeachment1) / (1000 * 60 * 60 * 24) + 1);
-    const daysSinceJan6 = Math.floor((now - jan6) / (1000 * 60 * 60 * 24) + 1);
-    const daysSinceImpeachment2 = Math.floor((now - impeachment2) / (1000 * 60 * 60 * 24) + 1);
+  // Historical Markers Section
+  const histEl = document.getElementById('historical-counters');
+  const wtfDays = daysSince(config.dates.wtf_start);
+  const postCount = {{ site.posts | size }};
 
-  histEl.innerHTML = `
+  let histHTML = `
     <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(row.WTF_START)}</span>
+      <span class="counter-number">${formatNumber(wtfDays)}</span>
       <span class="counter-label">Days Since WTFJHT Started</span>
       <span class="counter-meta">January 20, 2017</span>
     </div>
     <div class="counter-card wtf">
-      <span class="counter-number">{{ site.posts | size | number_with_commas }}</span>
+      <span class="counter-number">${formatNumber(postCount)}</span>
       <span class="counter-label">WTFJHT Posts</span>
       <span class="counter-meta">All-time</span>
     </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(row.COVFEFE)}</span>
-      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2017/05/31/Day-132/#9-trump-didn%E2%80%99t-expect-so-much-%E2%80%9Ccovfe">Days Since "Covfefe"</a></span>
-      <span class="counter-meta">May 31, 2017</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(daysSinceCharlottesville)}</span>
-      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2017/08/17/day-210/#2-white-house-aides-are-wrestling-wi">Days Since "Very Fine People"</a></span>
-      <span class="counter-meta">Charlottesville - August 12, 2017</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(daysSinceshitHole)}</span>
-      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2018/01/11/day-357/">Days Since "Shithole Countries"</a></span>
-      <span class="counter-meta">January 11, 2018</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(daysSinceSharpiegate)}</span>
-      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2019/09/04/day-958/#1-trump-displayed-a-doctored-nationa">Days Since Sharpiegate</a></span>
-      <span class="counter-meta">Hurricane Dorian - September 4, 2019</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(daysSinceImpeachment1)}</span>
-      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2019/12/18/day-1063/">Days Since First Impeachment</a></span>
-      <span class="counter-meta">December 18, 2019</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(daysSinceJan6)}</span>
-      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2021/01/06/day-1448/">Days Since January 6th Capitol Attack</a></span>
-      <span class="counter-meta">January 6, 2021</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(daysSinceImpeachment2)}</span>
-      <span class="counter-label"><a href="https://whatthefuckjusthappenedtoday.com/2021/01/13/day-1455/">Days Since Second Impeachment</a></span>
-      <span class="counter-meta">January 13, 2021</span>
-    </div>
   `;
 
-  } catch (e) {
-    console.error('Error loading dashboard', e);
-  }
+  // Add markers from config (skip wtf_start since we handle it above)
+  config.historical_markers.forEach(marker => {
+    if (marker.id === 'wtf_start') return;
+
+    const days = daysSince(marker.date);
+    const labelHTML = marker.link
+      ? `<a href="${marker.link}">${marker.label}</a>`
+      : marker.label;
+
+    histHTML += `
+      <div class="counter-card wtf">
+        <span class="counter-number">${formatNumber(days)}</span>
+        <span class="counter-label">${labelHTML}</span>
+        <span class="counter-meta">${marker.meta}</span>
+      </div>
+    `;
+  });
+
+  histEl.innerHTML = histHTML;
 })();
 </script>

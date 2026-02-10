@@ -1,0 +1,14 @@
+{% if include.podcast_file and include.podcast_file != '' %}
+<div class="audio-player__bar">
+  <button type="button" class="audio-player__playpause" aria-label="Pause">
+    {% include icons.html icon="pause" %}
+  </button>
+  <div class="audio-player__progress">
+    <div class="audio-player__progress-fill"></div>
+  </div>
+  <div class="audio-player__time">
+    <span class="audio-player__current">0:00</span>
+    <span class="audio-player__remaining">-0:00</span>
+  </div>
+</div>
+{% endif %}

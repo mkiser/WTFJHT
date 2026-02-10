@@ -10,7 +10,7 @@ vendor
 .siteleaf.yml
 wtftest.com
 wtftestsite.com
-claude.md
+CLAUDE.md
 # Gemfile.lock
 
 # Numerous always-ignore extensions
@@ -39,6 +39,7 @@ nbproject
 *.sublime-workspace
 .idea
 .claude
+docs/
 
 # Komodo
 *.komodoproject

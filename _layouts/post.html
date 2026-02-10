@@ -30,6 +30,7 @@ layout: default
       <p class="post-meta__read-sentence">{% include read_time_sentence.html %}</p>
     </div>
     <div class="post-meta__actions">
+      {% include audio-player-trigger.html podcast_file=page.podcast.file %}
       {% include social.html %}
       <div class="more-menu">
         <button type="button" class="more-menu__trigger" aria-label="More options" aria-expanded="false">
@@ -48,6 +49,7 @@ layout: default
       </div>
     </div>
   </div>
+  {% include audio-player-bar.html podcast_file=page.podcast.file %}
   <hr>
   {% comment %}
 
@@ -117,5 +119,7 @@ layout: default
     {% endfor %}
   </div>
   {% endif %}
+
+  {% include audio-player-script.html podcast_file=page.podcast.file %}
 
 </article>

@@ -1162,6 +1162,134 @@ div.flex-item ul.package {
   }
 }
 
+// Audio player
+.audio-player__trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  height: 32px;
+  padding: 0 0.875rem;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: #333;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
+
+  &:hover {
+    background: #f9f9f9;
+    border-color: #ccc;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  }
+
+  &.is-playing {
+    background: #f5f5f5;
+    border-color: #ccc;
+  }
+
+  .icon {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+// Audio player bar
+.audio-player__bar {
+  display: none;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.625rem 0;
+  animation: slideDown 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+
+  &.is-open {
+    display: flex;
+  }
+
+  &.is-closing {
+    display: flex;
+    animation: slideUp 0.2s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateY(-8px);
+  }
+}
+
+.audio-player__playpause {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  background: none;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  cursor: pointer;
+  flex-shrink: 0;
+  transition: background-color 0.15s, border-color 0.15s;
+
+  &:hover {
+    background: #f5f5f5;
+    border-color: #ccc;
+  }
+
+  .icon {
+    width: 14px;
+    height: 14px;
+  }
+}
+
+.audio-player__progress {
+  flex: 1;
+  height: 4px;
+  background: #e5e5e5;
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative;
+}
+
+.audio-player__progress-fill {
+  height: 100%;
+  background: #333;
+  border-radius: 2px;
+  width: 0%;
+  transition: width 0.1s linear;
+}
+
+.audio-player__time {
+  display: flex;
+  gap: 0.25rem;
+  font-size: 0.75rem;
+  font-variant-numeric: tabular-nums;
+  color: #666;
+  flex-shrink: 0;
+}
+
+.audio-player__remaining {
+  color: #999;
+}
+
 // Historical posts (years ago links)
 .historical-posts {
   margin: 2rem 0;

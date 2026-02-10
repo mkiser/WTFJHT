@@ -6,28 +6,33 @@ layout: page
 show_title: false
 ---
 
-<h1 class="page-title">About WTF Just Happened Today?</h1>
-
-<p class="lead">A brief history of <a href="https://whatthefuckjusthappenedtoday.com/">WTF Just Happened Today?</a></p> 
+<h1 class="page-title">About WTF Just Happened Today? A brief history.</h1>
 
 ---
 
-***tl;dr** I doomscroll so you don’t have to. And then I compress the chaos into a sane, once-a-day update that helps normal people make the news make sense.*
+<p class="lead"><em><strong>tl;dr</strong> I doomscroll so you don’t have to. And then I compress the chaos into a sane, once-a-day update that helps normal people make the news make sense.</em></p> 
 
-**About**: Like many, I found the 2016 election cycle to be deeply confusing and frustrating. Even though I'm a news junkie, I struggled to keep up with all the articles, blogs, tweets, Facebook posts, newsletters, podcasts, and broadcast news segments – and still make sense of everything. I still don't see how any "normal" person can actually stay informed when we have a scarcity of time available to consume news, but the media environment is optimized for an abundance of information. So in response I started WTFJHT as a personal project to establish a better, healthier relationship with the news by logging, organizing, and summarizing the biggest stories of the day so that I could make the news make sense. While it was supposed to be a personal challenge to chronicle the daily shock and awe of the Trump administration's first 100 days, but it quickly <a href="https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/">became my full-time job</a>. 
+---
+
+
+**About**: Like many, I found the 2016 election cycle to be deeply confusing and frustrating. Even though I'm a news junkie, I struggled to keep up with all the articles, blogs, tweets, Facebook posts, newsletters, podcasts, and randomly clipped broadcast news segments floating around social media – and still make sense of everything. I still don't see how any "normal" person can actually stay informed. We have a scarcity of time available to consume news, but the media environment is optimized for an abundance of information. So in response I started WTFJHT as a personal project to establish a better, healthier relationship with the news by logging, organizing, and summarizing the biggest stories of the day so that I could make the news make sense. While it was supposed to be a personal challenge to chronicle the daily shock and awe of the Trump administration's first 100 days, but it quickly <a href="https://whatthefuckjusthappenedtoday.com/meta/trump-creates-one-new-job/">became my full-time job</a>. 
 
 **Orientation and expectation setting**: My job is to help distill news that deserves attention into a clear, understandable, and accurate first draft of history – even if it is uncomfortable, unpopular, or upsetting! – for normal people who might not otherwise engage with the news. And while I rely on verified facts as reported by multiple trusted news sources – which I carefully cite!! – as with any historical narrative the first draft will necessarily require future revisions as more information becomes available. Practically speaking, WTFJHT covers the news through the lens of the executive branch specifically – and the president in particular – followed by the legislative and judicial branches in general, and in that order. Naturally people will demand more from me than this scope and framing allows for, and that’s fine. But if your politics, religion, or ideology dictate that you pick a side and expect me to cater to it, then you might be disappointed.
 
-**Editorial policy**:
-This is the news through the lens of one person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. There's a natural tension here: First, humans making decisions about the relative importance of information is inherently biased. And second, journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. My goal with WTF Just Happened Today? is to acknowledge my personal bias, reflect journalistic standards, and apply the following standards and practices:
 
-1. WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary source, and moving on. Bias is the byproduct of being a human making decisions. 
+**Editorial standards & practices**  
+The premise of WTFJHT is simple: answer what happened, what the facts are, cite the source, and move on.
 
-2. WTFJHT **does not offer commentary, opinion, or analysis**. Adjectives and adverbs are generally stripped out of the writing so facts can speak for themselves. For example, it's unncessary to add a "just" in front of _38% of Americans approve of the job the president is doing_. Any reasonable person can understand that that's probably not a good job approval rating, right?
+This is the news through the lens of one person making decisions about coverage, much the same way a front page editor does for a newspaper. With every blurb, I’m making a news-value judgment about what changed and what has consequences.
 
-3. WTFJHT's **value is derived from its reputation** and keeping its promise to readers. The voice, tone, and fair, evenhanded approach all represent the brand, as does consistently publishing nearly every day since 2017. If I break this promise, I break the trust of the reader.
+Here’s what you can expect:
 
-With WTFJHT, you will find an independent voice that is personally accountable and considerate for how the editorial choices impact others. I go to great lengths to cite the original source of news and draw from a diversity of sources. I'm always open to your feedback and constructive criticism.
+- **Neutral-ish on purpose.** It’s not intentionally partisan. It’s purposefully fact-based.
+- **No commentary, opinion, or analysis.** I focus on clearly and concisely saying what happened, citing the primary sources, and moving on.
+- **Clear uncertainty.** When details are disputed, unverified, or still developing, I say so.
+- **Corrections happen.** If I get something wrong or something changes, I update and correct it. The goal is a clean record of what happened rather than a perfect performance.
+
+The longer version, including how I choose stories, how sourcing works, how I handle updates, and what “neutral-ish” means in practice, lives in the [FAQ](https://whatthefuckjusthappenedtoday.com/faq/#editorial-standards-practices).
 
 **Core values:**
 

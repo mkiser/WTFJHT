@@ -71,6 +71,7 @@ seo:
         <p class="post-meta__read-sentence">{% include read_time_sentence.html %}</p>
       </div>
       <div class="post-meta__actions">
+        {% include audio-player-trigger.html podcast_file=page.podcast.file %}
         {% include social.html %}
         <div class="more-menu">
           <button type="button" class="more-menu__trigger" aria-label="More options" aria-expanded="false">
@@ -88,7 +89,8 @@ seo:
           </div>
         </div>
       </div>
-    </div> 
+    </div>
+    {% include audio-player-bar.html podcast_file=page.podcast.file %}
     <hr>
     {% comment %}
 
@@ -159,8 +161,10 @@ seo:
     </div>
     {% endif %}
 
+    {% include audio-player-script.html podcast_file=page.podcast.file %}
+
   </article>
-</div> 
+</div>
 
 {% endfor %} 
 

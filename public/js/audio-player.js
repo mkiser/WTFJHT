@@ -6,6 +6,8 @@
   if (!trigger || !bar) return;
 
   const audioSrc = trigger.dataset.audioSrc;
+  const audioTitle = trigger.dataset.audioTitle || document.title;
+  const audioArtwork = trigger.dataset.audioArtwork;
   const playPauseBtn = bar.querySelector('.audio-player__playpause');
   const progressContainer = bar.querySelector('.audio-player__progress');
   const progressFill = bar.querySelector('.audio-player__progress-fill');
@@ -17,6 +19,29 @@
   audio.preload = 'metadata';
 
   let isPlaying = false;
+
+  // Media Session API for lock screen / notification controls
+  function updateMediaSession() {
+    if ('mediaSession' in navigator) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: audioTitle,
+        artist: 'WTF Just Happened Today?',
+        album: 'Daily Newsletter',
+        artwork: audioArtwork ? [
+          { src: audioArtwork, sizes: '512x512', type: 'image/jpeg' }
+        ] : []
+      });
+
+      navigator.mediaSession.setActionHandler('play', function() { play(); });
+      navigator.mediaSession.setActionHandler('pause', function() { pause(); });
+      navigator.mediaSession.setActionHandler('seekto', function(details) {
+        if (details.seekTime) {
+          audio.currentTime = details.seekTime;
+          updateProgress();
+        }
+      });
+    }
+  }
 
   function formatTime(seconds) {
     if (isNaN(seconds)) return '0:00';
@@ -46,6 +71,7 @@
     bar.classList.add('is-open');
     playPauseBtn.innerHTML = pauseIconSmall;
     playPauseBtn.setAttribute('aria-label', 'Pause');
+    updateMediaSession();
   }
 
   function pause() {

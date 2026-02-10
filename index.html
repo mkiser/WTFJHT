@@ -71,7 +71,7 @@ seo:
         <p class="post-meta__read-sentence">{% include read_time_sentence.html %}</p>
       </div>
       <div class="post-meta__actions">
-        {% include audio-player-trigger.html podcast_file=page.podcast.file %}
+        {% include audio-player-trigger.html podcast_file=page.podcast.file title=page.title description=page.description image=page.image %}
         {% include social.html %}
         <div class="more-menu">
           <button type="button" class="more-menu__trigger" aria-label="More options" aria-expanded="false">

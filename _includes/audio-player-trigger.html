@@ -1,5 +1,9 @@
 {% if include.podcast_file and include.podcast_file != '' %}
-<button type="button" class="audio-player__trigger" data-audio-src="{{ site.cloudfront_url }}{{ include.podcast_file }}" aria-label="Listen to this article">
+<button type="button" class="audio-player__trigger"
+  data-audio-src="{{ site.cloudfront_url }}{{ include.podcast_file }}"
+  data-audio-title="{{ include.title }}: {{ include.description | escape }}"
+  data-audio-artwork="{{ site.url }}{{ include.image | default: '/public/wtfjht-share.jpg' }}"
+  aria-label="Listen to this article">
   {% include icons.html icon="play" %} Listen
 </button>
 {% endif %}

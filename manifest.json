@@ -1,7 +1,9 @@
 {
   "name": "WTF Just Happened Today?",
   "short_name": "WTFJHT",
-  "start_url": "/",
+  "id": "wtfjht",
+  "start_url": "/?source=pwa",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",

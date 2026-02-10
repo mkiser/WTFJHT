@@ -12,7 +12,7 @@ layout: default
  <h1 class="post-title">
   <a href="{{ site.baseurl }}{{ page.url }}">
     {{ page.title }}:
-    <span class="post-small">{{ page.description }}</span></a>
+    <span class="post-small">{{ page.description | smartify }}</span></a>
   </h1>
 
   {% assign author = site.authors | where: 'title', page.author | first %}
@@ -72,7 +72,7 @@ layout: default
   <div class="post-content">
     {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
     <p class="tios">
-      <em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence }}</em>
+      <em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence | smartify }}</em>
     </p>
     <hr>
     {% endif %}

@@ -33,12 +33,12 @@ layout:
       {% assign summary = tios
          | default: post.description
          | default: post.excerpt
-         | strip_html | strip
+         | strip_html | strip | smartify
          | truncatewords: 60 %}
       {% assign img_src = site.url | append: site.baseurl | append: post.image %}
 
       <item>
-        <title>{{ post.title | xml_escape }}: {{ post.description | xml_escape }}</title>
+        <title>{{ post.title | smartify | xml_escape }}: {{ post.description | smartify | xml_escape }}</title>
         <link>{{ canonical }}</link>
         <guid isPermaLink="true">{{ canonical }}</guid>
         {% if post.image %}
@@ -59,7 +59,7 @@ layout:
 {% endif %}
 
 {% if tios and tios != '' %}
-<p><em><strong>Today in one sentence</strong>: {{ tios }}</em></p>
+<p><em><strong>Today in one sentence</strong>: {{ tios | smartify }}</em></p>
 <hr>
 {% endif %}
 

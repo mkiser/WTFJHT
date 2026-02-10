@@ -29,7 +29,7 @@ sitemap: false
     {% assign image = site.url | append: site.baseurl | append: post.image %}
 
     {% capture summary_text -%}
-      {{ tios | default: post.description | default: post.excerpt | strip_html | strip | replace: "\n"," " }}
+      {{ tios | default: post.description | default: post.excerpt | strip_html | strip | smartify | replace: "\n"," " }}
     {%- endcapture %}
 
     {% capture href_abs %}href="{{ site.url }}{{ site.baseurl }}/{% endcapture %}
@@ -71,7 +71,7 @@ sitemap: false
       {% endif %}
 
       {% if tios and tios != '' %}
-        <p><em><strong>Today in one sentence</strong>: {{ tios }}</em></p>
+        <p><em><strong>Today in one sentence</strong>: {{ tios | smartify }}</em></p>
         <hr>
       {% endif %}
 
@@ -83,7 +83,7 @@ sitemap: false
     {
       "id": "{{ canonical }}",
       "url": "{{ canonical }}",
-      "title": {{ post.title | append: ': ' | append: post.description | jsonify }},  
+      "title": {{ post.title | append: ': ' | append: post.description | smartify | jsonify }},  
       "image": "{{ image }}",
       "content_html": {{ full_html | strip | jsonify }},
       "summary": {{ summary_text | truncatewords: 60 | jsonify }},

@@ -3,10 +3,10 @@
 
 {
   "version": "1.1",
-  "Last updated" : "{{ 'now' | date: '%Y-%m-%d' }}",
-  "today" : "{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ site.posts.first.url | uri_escape }}",
-  "yesterday" : "{%- for post in site.posts limit:1 offset:1 -%}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{%- endfor -%}",
-  "allPosts" : [
+  "lastUpdated" : "{{ 'now' | date: '%Y-%m-%d' }}",
+  "todayLink": {{ site.url | append: site.baseurl | append: site.posts.first.url | jsonify }},
+  "yesterdayLink": {%- for p in site.posts limit:1 offset:1 -%}{{ site.url | append: site.baseurl | append: p.url | jsonify }}{%- endfor -%},
+  "posts" : [
     {%- for post in site.posts limit:15 -%}
     {%- assign abs = post.url | absolute_url -%}
     {%- assign enc_url = abs | uri_escape -%}
@@ -23,6 +23,11 @@
     {%- assign full_share_text = full_share_text | append: '
 ' | append: '
 ' -%}
+    {%- assign title_display = norm_title -%}
+    {%- if norm_desc != '' -%}
+      {%- assign title_display = title_display | append: ': ' | append: norm_desc -%}
+    {%- endif -%}
+    {%- assign day_number = post.slug | remove: 'day-' -%}
 
     {%- assign tracked_url = abs -%}
     {%- if site.share_ref -%}
@@ -79,9 +84,12 @@
       "id"   : {{ post.id | jsonify }},
       "slug" : {{ post.slug | jsonify }},
       "title" : {{ post.title | jsonify }},
-      "desc"  : {{ post.description | jsonify }},
-      "content"  : {{ post.content | jsonify }},
-      "href"  : "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
+      "description"  : {{ post.description | jsonify }},
+      "titleDisplay": {{ title_display | jsonify }},
+      "contentHtml"  : {{ post.content | jsonify }},
+      "dayLabel": {{ norm_title | jsonify }},
+      "dayNumber": {{ day_number | jsonify }},
+      "url"  : "{{ site.url }}{{ site.baseurl }}{{ post.url }}",
       {%- if post.image contains '/uploads/' -%}
       "image" : "{{ site.url }}{{ site.baseurl }}{{ post.image }}",
       {%- else -%}
@@ -93,16 +101,7 @@
       {%- if post.author -%}
       "author" : "{{ post.author }}",
       {%- endif -%}
-      {%- if post.last_modified_at -%}
-      "lastModified": "{{ post.last_modified_at | date_to_xmlschema }}",
-      {%- endif -%}
-
       "copyText": {{ full_share_text | append: tracked_url | jsonify }},
-
-      "fbShare" : "https://www.facebook.com/sharer/sharer.php?u={{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}",
-      "twitterShare" : "https://twitter.com/intent/tweet?url={{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}&via=WTFJHT&text=What%20the%20fuck%20just%20happened%20today%3F%20%0A%0A%E2%9A%A1%20{{ post.title | uri_escape }}%3A%20{{ post.description | uri_escape }}%0A%0A",
-      "emailShare": "mailto:?subject={{ enc_mail_subject }}&body={{ enc_mail_body }}",
-
       "share": {
         "x": "https://twitter.com/intent/tweet?text={{ enc_full_share_text }}&url={{ enc_tracked_url }}&via=WTFJHT",
         "bluesky": "https://bsky.app/intent/compose?text={{ enc_full_share_with_url }}",
@@ -149,11 +148,11 @@
       {%- endif -%}
 
       "date"  : {
-        "day"   : "{{ post.date | date: '%d' }}",
-        "month" : "{{ post.date | date: '%B' }}",
-        "year"  : "{{ post.date | date: '%Y' }}",
-        "fullDate"  : "{{ post.date }}",
-        "date"  : "{{ post.date | date: '%Y-%m-%d' }}"
+        "isoDate": "{{ post.date | date: '%Y-%m-%d' }}",
+        "isoDateTime": "{{ post.date }}",
+        "day": "{{ post.date | date: '%d' }}",
+        "month": "{{ post.date | date: '%B' }}",
+        "year": "{{ post.date | date: '%Y' }}"
       }
     }{%- unless forloop.last -%},{%- endunless -%}
     {%- endfor -%}

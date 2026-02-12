@@ -24,6 +24,8 @@ defaults:
     author: Matt Kiser
     layout: post
     tag_excerpts: ''
+    currentMood: ''
+    editorsNote: ''
     category: trump
     podcast:
       file: ''

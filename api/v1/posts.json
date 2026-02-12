@@ -7,7 +7,7 @@
   "today" : "{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ site.posts.first.url | uri_escape }}",
   "yesterday" : "{%- for post in site.posts limit:1 offset:1 -%}{{ site.url | uri_escape }}{{ site.baseurl | uri_escape }}{{ post.url | uri_escape }}{%- endfor -%}",
   "allPosts" : [
-    {%- for post in site.posts -%}
+    {%- for post in site.posts limit:15 -%}
     {%- assign abs = post.url | absolute_url -%}
     {%- assign enc_url = abs | uri_escape -%}
     {%- assign norm_title = post.title | strip -%}
@@ -60,6 +60,12 @@
     {%- endif -%}
     {%- assign enc_mail_subject = mail_subject_raw | uri_escape -%}
 
+    {%- assign reddit_title = norm_title -%}
+    {%- if norm_desc != '' -%}
+      {%- assign reddit_title = reddit_title | append: ': ' | append: norm_desc -%}
+    {%- endif -%}
+    {%- assign enc_reddit_title = reddit_title | uri_escape -%}
+
     {%- assign enc_body_line1 = "From today's edition WTF Just Happened Today?" | uri_escape -%}
     {%- assign enc_mail_body = enc_body_line1 -%}
     {%- if post.todayInOneSentence -%}
@@ -98,13 +104,49 @@
       "emailShare": "mailto:?subject={{ enc_mail_subject }}&body={{ enc_mail_body }}",
 
       "share": {
-        "facebook": "https://www.facebook.com/sharer/sharer.php?u={{ enc_tracked_url }}",
         "x": "https://twitter.com/intent/tweet?text={{ enc_full_share_text }}&url={{ enc_tracked_url }}&via=WTFJHT",
         "bluesky": "https://bsky.app/intent/compose?text={{ enc_full_share_with_url }}",
-        "mastodon": "https://tootpick.org/#text={{ enc_full_share_with_url }}",
-        "threads": "https://www.threads.net/intent/post?text={{ enc_full_share_with_url_threads }}",
+        "threads": "https://threads.com/intent/post?text={{ enc_full_share_with_url_threads }}",
+        "mastodon": "https://mastodonshare.com/?text={{ enc_full_share_text }}&url={{ enc_tracked_url }}",
+        "facebook": "https://www.facebook.com/sharer/sharer.php?u={{ enc_tracked_url }}",
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url={{ enc_tracked_url }}",
+        "reddit": "https://www.reddit.com/submit?url={{ enc_tracked_url }}&title={{ enc_reddit_title }}",
+        "whatsapp": "https://wa.me/?text={{ enc_full_share_with_url }}",
+        "telegram": "https://t.me/share/url?url={{ enc_tracked_url }}&text={{ enc_full_share_text }}",
         "email": "mailto:?subject={{ enc_mail_subject }}&body={{ enc_mail_body }}"
       },
+
+      {%- if post.podcast.file and post.podcast.file != '' -%}
+      "audio": {
+        "url": "{{ site.cloudfront_url }}{{ post.podcast.file }}",
+        "duration": {{ post.podcast.duration | default: '' | jsonify }},
+        "length": {{ post.podcast.length | default: 0 }}
+      },
+      {%- endif -%}
+
+      {%- assign _words = post.content | strip_html | number_of_words -%}
+      {%- assign _reading_speed = 200 -%}
+      {%- assign _minutes_decimal = _words | times: 1.0 | divided_by: _reading_speed -%}
+      {%- assign _minutes_whole = _minutes_decimal | floor -%}
+      {%- assign _minutes_fraction = _minutes_decimal | minus: _minutes_whole -%}
+      {%- if _minutes_whole < 1 and _minutes_fraction < 0.5 -%}{%- assign _display_minutes = 1 -%}{%- assign _half = false -%}
+      {%- elsif _minutes_fraction < 0.25 -%}{%- assign _display_minutes = _minutes_whole -%}{%- assign _half = false -%}
+      {%- elsif _minutes_fraction < 0.75 -%}{%- assign _display_minutes = _minutes_whole -%}{%- assign _half = true -%}
+      {%- else -%}{%- assign _display_minutes = _minutes_whole | plus: 1 -%}{%- assign _half = false -%}
+      {%- endif -%}
+      {%- capture _read_sentence -%}This edition is {{ _words }} words, a {% if _half %}{{ _display_minutes }}½-minute{% else %}{{ _display_minutes }}-minute{% endif %} read.{%- endcapture -%}
+      "readTime": {
+        "words": {{ _words }},
+        "minutes": {%- if _half -%}{{ _display_minutes }}.5{%- else -%}{{ _display_minutes }}{%- endif -%},
+        "sentence": {{ _read_sentence | strip | normalize_whitespace | jsonify }}
+      },
+
+      {%- if post.currentMood and post.currentMood != '' -%}
+      "currentMood": {{ post.currentMood | jsonify }},
+      {%- endif -%}
+      {%- if post.editorsNote and post.editorsNote != '' -%}
+      "editorsNote": {{ post.editorsNote | jsonify }},
+      {%- endif -%}
 
       "date"  : {
         "day"   : "{{ post.date | date: '%d' }}",

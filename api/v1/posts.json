@@ -133,7 +133,7 @@
       {%- elsif _minutes_fraction < 0.75 -%}{%- assign _display_minutes = _minutes_whole -%}{%- assign _half = true -%}
       {%- else -%}{%- assign _display_minutes = _minutes_whole | plus: 1 -%}{%- assign _half = false -%}
       {%- endif -%}
-      {%- capture _read_sentence -%}This edition is {{ _words }} words, a {% if _half %}{{ _display_minutes }}½-minute{% else %}{{ _display_minutes }}-minute{% endif %} read.{%- endcapture -%}
+      {%- capture _read_sentence -%}Today's edition is {{ _words }} words, a {% if _half %}{{ _display_minutes }}½-minute{% else %}{{ _display_minutes }}-minute{% endif %} read.{%- endcapture -%}
       "readTime": {
         "words": {{ _words }},
         "minutes": {%- if _half -%}{{ _display_minutes }}.5{%- else -%}{{ _display_minutes }}{%- endif -%},

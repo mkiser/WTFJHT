@@ -21,17 +21,17 @@ defaults:
     description: ''
     image: ''
     todayInOneSentence: ''
-    author: Matt Kiser
-    layout: post
-    tag_excerpts: ''
     currentMood: ''
     editorsNote: ''
-    category: trump
     podcast:
       file: ''
       duration: ''
       length: ''
       transcript: ''
+    author: Matt Kiser
+    layout: post
+    tag_excerpts: ''
+    category: trump
     seo:
       type: NewsArticle
       name: What The Fuck Just Happened Today?

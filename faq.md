@@ -22,7 +22,7 @@ show_title: false
 * New Year's Day – January 1 \
 Martin Luther King, Jr. Day – January 19 \
 WTF Just Happened Today?'s Birthday – January 20 \
-President's Day – February 16 \
+Presidents' Day – February 16 \
 Earth Day - April 22 \
 International Workers' Day – May 1 \
 Memorial Day – May 25 \

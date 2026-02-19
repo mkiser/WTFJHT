@@ -1118,7 +1118,8 @@ div.flex-item ul.package {
     display: flex;
   }
 
-  a {
+  a,
+  button {
     display: flex !important;
     flex-direction: row !important;
     flex-wrap: nowrap !important;
@@ -1135,6 +1136,9 @@ div.flex-item ul.package {
     cursor: pointer;
     text-decoration: none !important;
     white-space: nowrap;
+    width: 100%;
+    text-align: left;
+    font-family: inherit;
 
     &:hover {
       background: #f5f5f5;

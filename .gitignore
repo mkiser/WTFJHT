@@ -52,4 +52,5 @@ validation-report.json
 node_modules
 
 _scripts/
+_config_dev.yml
 downloads/yearbooks/

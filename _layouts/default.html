@@ -227,6 +227,7 @@
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js" defer></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/carousel.js" defer></script>
       <!-- PWA SERVICE WORKER -->
       <script>
         window.addEventListener('load', function() {
@@ -538,6 +539,8 @@
         if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.isContentEditable) {
           return;
         }
+
+        if (document.body.classList.contains('carousel-open')) return;
 
         // Get nav links for homepage navigation
         var navLinks = document.querySelector('.nav-quick');

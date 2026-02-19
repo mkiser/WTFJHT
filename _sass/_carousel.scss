@@ -1,0 +1,340 @@
+// ==========================================================================
+// Carousel — Instagram-style card reading experience
+// Typography-forward. Hierarchy through size, weight, and whitespace.
+// ==========================================================================
+
+body.carousel-open {
+  overflow: hidden;
+}
+
+// --------------------------------------------------------------------------
+// Overlay
+// --------------------------------------------------------------------------
+.carousel-overlay {
+  --card-bg: #fff;
+  --card-bg-end: #f9f8f6;
+  --card-text: #313131;
+  --card-muted: #9a9a9a;
+  --card-accent: #e74c3c;
+  --card-heading-font: Georgia, Cambria, "Times New Roman", Times, serif;
+  --card-body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+
+  --progress-bg: rgba(255,255,255,0.15);
+  --progress-active: rgba(255,255,255,0.7);
+  --counter-color: rgba(255,255,255,0.35);
+
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  background: rgba(0,0,0,0.93);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding-top: 0.75rem;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease, visibility 0.25s ease;
+
+  &.is-open {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Themes
+// --------------------------------------------------------------------------
+.carousel-overlay.theme-contrast {
+  --card-bg: #fff;
+  --card-bg-end: #f5f5f5;
+  --card-text: #1a1a1a;
+  --card-muted: #888;
+  --card-accent: #1a1a1a;
+  --card-heading-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  --card-body-font: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.carousel-overlay.theme-bold {
+  --card-bg: #0f0f0f;
+  --card-bg-end: #141313;
+  --card-text: #e8e8e8;
+  --card-muted: #555;
+  --card-accent: #e74c3c;
+  --card-heading-font: Georgia, Cambria, "Times New Roman", Times, serif;
+  --card-body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", sans-serif;
+
+  .carousel-card__bg-number {
+    opacity: 0.06;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Header
+// --------------------------------------------------------------------------
+.carousel-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  max-width: 520px;
+  padding: 0.4rem 1rem 0;
+  box-sizing: border-box;
+}
+
+.carousel-progress {
+  display: flex;
+  gap: 2px;
+  flex: 1;
+}
+
+.carousel-progress__segment {
+  flex: 1;
+  height: 2px;
+  background: var(--progress-bg);
+  border-radius: 1px;
+  transition: background 0.2s ease;
+
+  &.is-active {
+    background: var(--progress-active);
+  }
+}
+
+.carousel-header__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  border: none;
+  padding: 0.2rem 0.3rem;
+  cursor: pointer;
+  color: rgba(255,255,255,0.3);
+  border-radius: 3px;
+  transition: color 0.15s ease;
+  flex-shrink: 0;
+  font-size: 0.6rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  &:hover {
+    color: rgba(255,255,255,0.65);
+  }
+}
+
+// --------------------------------------------------------------------------
+// Counter
+// --------------------------------------------------------------------------
+.carousel-counter {
+  font-size: 0.6rem;
+  color: var(--counter-color);
+  text-align: center;
+  padding: 0.35rem 0 0.1rem;
+  user-select: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  letter-spacing: 0.1em;
+}
+
+// --------------------------------------------------------------------------
+// Card container
+// --------------------------------------------------------------------------
+.carousel-container {
+  position: relative;
+  width: calc(100% - 1.5rem);
+  max-width: 520px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+// --------------------------------------------------------------------------
+// Card
+// --------------------------------------------------------------------------
+.carousel-card {
+  position: relative;
+  background: linear-gradient(168deg, var(--card-bg) 50%, var(--card-bg-end));
+  color: var(--card-text);
+  border-radius: 6px;
+  overflow: hidden;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+
+  aspect-ratio: 4 / 5;
+  max-height: 85vh;
+}
+
+.ratio-square .carousel-card {
+  aspect-ratio: 1 / 1;
+}
+
+// --------------------------------------------------------------------------
+// Card: title — vertically centered as a cover card
+// --------------------------------------------------------------------------
+.carousel-card--title {
+  justify-content: center;
+  padding: 2rem;
+}
+
+.carousel-card__title {
+  font-family: var(--card-heading-font);
+  font-weight: 700;
+  font-size: 2rem;
+  margin: 0 0 0.75rem;
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+}
+
+.carousel-card__description {
+  font-family: var(--card-body-font);
+  font-style: italic;
+  color: var(--card-muted);
+  margin: 0 0 1rem;
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.carousel-card__date {
+  font-family: var(--card-body-font);
+  font-size: 0.7rem;
+  color: var(--card-muted);
+  margin: 0;
+  letter-spacing: 0.03em;
+}
+
+// --------------------------------------------------------------------------
+// Card: story — equal padding, top-aligned text
+// --------------------------------------------------------------------------
+.carousel-card--story {
+  padding: 2rem;
+}
+
+// Background number — typographic texture
+.carousel-card__bg-number {
+  position: absolute;
+  bottom: -0.1em;
+  right: 0.05em;
+  font-family: var(--card-heading-font);
+  font-size: 12rem;
+  font-weight: 800;
+  line-height: 0.8;
+  color: var(--card-text);
+  opacity: 0.03;
+  user-select: none;
+  pointer-events: none;
+}
+
+// Text block — top-aligned; base font-size controls all child em units
+.carousel-card__text {
+  position: relative;
+  z-index: 1;
+  font-size: 0.8rem;
+}
+
+// Lede sentence — serif, bold — the headline
+.carousel-card__lede {
+  font-family: var(--card-heading-font);
+  font-size: 1.3em;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0 0 1.25em;
+  letter-spacing: -0.01em;
+}
+
+// Body sentences — sans-serif, smaller — easy scanning
+.carousel-card__sentence {
+  font-family: var(--card-body-font);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.6;
+  margin: 0 0 0.7em;
+  color: var(--card-text);
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Navigation
+// --------------------------------------------------------------------------
+.carousel-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255,255,255,0.06);
+  border: none;
+  color: rgba(255,255,255,0.4);
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+  z-index: 2;
+
+  &:hover {
+    background: rgba(255,255,255,0.12);
+    color: rgba(255,255,255,0.7);
+  }
+}
+
+.carousel-nav--prev { left: -50px; }
+.carousel-nav--next { right: -50px; }
+
+// --------------------------------------------------------------------------
+// Desktop
+// --------------------------------------------------------------------------
+@media (min-width: 600px) {
+  .carousel-overlay {
+    padding-top: 1.25rem;
+  }
+
+  .carousel-card {
+    border-radius: 8px;
+  }
+
+  .carousel-card--title {
+    padding: 2.5rem;
+  }
+
+  .carousel-card__title {
+    font-size: 2.25rem;
+  }
+
+  .carousel-card--story {
+    padding: 2.5rem;
+  }
+
+  .carousel-card__text {
+    font-size: 0.85rem;
+  }
+
+  .carousel-card__bg-number {
+    font-size: 15rem;
+  }
+
+  .carousel-nav {
+    display: flex;
+  }
+
+  .carousel-container {
+    width: 100%;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Reduced motion
+// --------------------------------------------------------------------------
+@media (prefers-reduced-motion: reduce) {
+  .carousel-overlay,
+  .carousel-progress__segment,
+  .carousel-header__btn,
+  .carousel-toggle,
+  .carousel-nav {
+    transition: none;
+  }
+}

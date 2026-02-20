@@ -16,7 +16,7 @@ todayInOneSentence: Trump used the first meeting of his Board of Peace to announ
 currentMood: "⚠️⚠️⚠️"
 podcast:
   file: "/uploads/Day 1857_ _Bad things will happen._.mp3"
-  duration: 00:05:18"
+  duration: '00:05:18'
   length: 5100398
 ---
 

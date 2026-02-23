@@ -3,7 +3,7 @@ title: Day 1857
 date: 2026-02-19 16:09:00 -08:00
 description: '"Bad things will happen."'
 image: "/uploads/day1857trump.jpg"
-todayInOneSentence: 'Trump used the first meeting of his Board of Peace to announce
+todayInOneSentence: Trump used the first meeting of his Board of Peace to announce
   that he’ll decide "over the next probably 10 days" whether to continue nuclear talks
   with Iran or order a U.S. military strike; Trump is reportedly weighing an initial
   limited strike on Iran, hitting a small set of military or government targets to
@@ -12,7 +12,7 @@ todayInOneSentence: 'Trump used the first meeting of his Board of Peace to annou
   status yet; the FCC opened an investigation into ABC’s “The View” over potential
   violations of the Equal Time Rule after the show booked Texas Democratic Senate
   candidate James Talarico; and Trump signed an executive order invoking the Defense
-  Production Act to increase domestic production of glyphosate and elemental phosphorus.'
+  Production Act to increase domestic production of glyphosate and elemental phosphorus.
 currentMood: "⚠️⚠️⚠️"
 podcast:
   file: "/uploads/Day 1857_ _Bad things will happen._.mp3"

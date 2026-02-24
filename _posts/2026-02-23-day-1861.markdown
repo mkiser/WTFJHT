@@ -15,7 +15,7 @@ todayInOneSentence: The European Union demanded that the U.S. honor last summer�
   32% of Americans said Trump has had the right priorities, while 68% said he hasn’t
   paid enough attention to the country’s most important problems; and 39% of Americans
   said they approve of Trump’s job performance, while 60% said they disapprove.
-currentMood: "😵‍💫🥴🤯"
+currentMood: "\U0001F635‍\U0001F4AB\U0001F974\U0001F92F"
 podcast:
   file: "/uploads/Day 1861_ _Obnoxious._.mp3"
   duration: '00:04:37'

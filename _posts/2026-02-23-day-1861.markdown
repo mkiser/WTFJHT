@@ -3,7 +3,7 @@ title: Day 1861
 date: 2026-02-23 16:31:27 -08:00
 description: '"Obnoxious."'
 image: "/uploads/day1861trump.jpg"
-todayInOneSentence: 'The European Union demanded that the U.S. honor last summer’s
+todayInOneSentence: The European Union demanded that the U.S. honor last summer’s
   EU-U.S. trade deal, saying “a deal is a deal,” after the Supreme Court struck down
   Trump’s emergency tariffs and he moved to replace them with new, temporary global
   levies; U.S. economic growth slowed in the fourth quarter, with real GDP up at a
@@ -14,8 +14,8 @@ todayInOneSentence: 'The European Union demanded that the U.S. honor last summer
   can sue fossil fuel companies for climate-damages in state court under state law;
   32% of Americans said Trump has had the right priorities, while 68% said he hasn’t
   paid enough attention to the country’s most important problems; and 39% of Americans
-  said they approve of Trump’s job performance, while 60% said they disapprove. '
-currentMood: "\U0001F635‍\U0001F4AB\U0001F974\U0001F92F"
+  said they approve of Trump’s job performance, while 60% said they disapprove.
+currentMood: "😵‍💫🥴🤯"
 podcast:
   file: "/uploads/Day 1861_ _Obnoxious._.mp3"
   duration: '00:04:37'

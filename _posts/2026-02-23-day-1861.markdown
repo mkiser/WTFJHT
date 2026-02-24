@@ -1,7 +1,6 @@
 ---
 title: Day 1861
 date: 2026-02-23 16:31:27 -08:00
-published: false
 description: '"Obnoxious."'
 image: "/uploads/day1861trump.jpg"
 todayInOneSentence: 'The European Union demanded that the U.S. honor last summer’s

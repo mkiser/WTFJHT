@@ -6,6 +6,11 @@
   "lastUpdated" : "{{ 'now' | date: '%Y-%m-%d' }}",
   "todayLink": {{ site.url | append: site.baseurl | append: site.posts.first.url | jsonify }},
   "yesterdayLink": {%- for p in site.posts limit:1 offset:1 -%}{{ site.url | append: site.baseurl | append: p.url | jsonify }}{%- endfor -%},
+  "socialLinks": [
+    {%- for link in site.posts.first.seo.links -%}
+    {{ link | jsonify }}{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ],
   "posts" : [
     {%- for post in site.posts limit:15 -%}
     {%- assign abs = post.url | absolute_url -%}

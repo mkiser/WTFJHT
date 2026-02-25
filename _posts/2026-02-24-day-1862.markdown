@@ -22,6 +22,7 @@ todayInOneSentence: Trump will deliver his first State of the Union of his secon
   change is needed.
 podcast:
   file: "/uploads/Day 1862_ _Brink of disaster._.mp3"
+  duration: '00:05:50'
   length: 5601532
 ---
 

@@ -2,7 +2,7 @@
 title: Day 1863
 date: 2026-02-25 17:13:35 -08:00
 description: '"Is the president working for you? We all know the answer is no."'
-image: uploads/1772068380094-day1863trump.jpg
+image: "/uploads/1772068380094-day1863trump.jpg"
 todayInOneSentence: Trump used his first State of the Union of his second term to
   insist that “our nation is back,” calling it “a turnaround for the ages,” and that
   “the roaring economy is roaring like never before,” even as 39% of Americans say
@@ -17,7 +17,7 @@ todayInOneSentence: Trump used his first State of the Union of his second term t
   blocked the Trump administration from deporting migrants to “third countries” they’re
   not from; and a White House staffer appears to have operated a large anonymous pro-Trump
   X account that amplified official Trump administration messaging.
-editorsNote: "CORRECTION: Okay, time for my first correction of 2026 \U0001F389. In
+editorsNote: "CORRECTION: Okay, time for my first correction of 2026 🎉. In
   yesterday’s edition I wrote that \"the 2028 presidential election is in 287 days,\"
   which would make it some 35 days after the 2026 midterms... That was, of course,
   a typo. The 2028 presidential election is November 7, 2028, which makes it 986 days

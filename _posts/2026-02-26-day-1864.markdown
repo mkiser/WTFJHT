@@ -19,6 +19,10 @@ todayInOneSentence: Pro-Trump activists circulated a 17-page draft executive ord
   support deporting unauthorized immigrants, but 60% say ICE agents have “gone too
   far"; and  56% of Americans say they don’t trust Trump to make the right decisions
   about using military force overseas.
+podcast:
+  file: "/uploads/Day-1864_-_The-politics-are-a-lot-better._-7d11c1.mp3"
+  duration: '00:04:08'
+  length: 3961460
 ---
 
 1/ **Pro-Trump activists circulated a 17-page draft executive order urging Trump to declare an election emergency and use it to impose federal voting rules, including limits on mail ballots and voting machines**. The draft, promoted by activists who said they had “certain coordination” with the White House, cited alleged Chinese interference in 2020 as the basis to declare a national emergency. Trump has said he’ll act by executive order on voter ID and mail voting if Congress doesn’t pass the SAVE Act, which would require proof of citizenship to register. A U.S. intelligence review found China considered influence efforts in 2020, but didn’t carry them out, and courts have already blocked parts of Trump’s earlier election order. ([Washington Post](https://www.washingtonpost.com/politics/2026/02/26/trump-elections-executive-order-activists/) / [New York Times](https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html))

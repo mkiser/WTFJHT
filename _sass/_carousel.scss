@@ -1,6 +1,7 @@
 // ==========================================================================
-// Carousel — Instagram-style card reading experience
-// Typography-forward. Hierarchy through size, weight, and whitespace.
+// Carousel v4.3 — Instagram-style card reading experience
+// 4 card types: cover, story, countdown, CTA
+// Responsive scaling via --s (cardWidth / 1080)
 // ==========================================================================
 
 body.carousel-open {
@@ -8,25 +9,28 @@ body.carousel-open {
 }
 
 // --------------------------------------------------------------------------
+// Design tokens (matching prototype)
+// --------------------------------------------------------------------------
+$carousel-white:  #ffffff;
+$carousel-cream:  #faf9f7;
+$carousel-text:   #333333;
+$carousel-text2:  #555555;
+$carousel-dim:    #888888;
+$carousel-red:    #c0392b;
+$carousel-rule:   #e0ddd8;
+$carousel-ruled:  #cccccc;
+$carousel-serif:  Georgia, 'Times New Roman', Times, serif;
+$carousel-sans:   -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+$carousel-mono:   'JetBrains Mono', monospace;
+
+// --------------------------------------------------------------------------
 // Overlay
 // --------------------------------------------------------------------------
 .carousel-overlay {
-  --card-bg: #fff;
-  --card-bg-end: #f9f8f6;
-  --card-text: #313131;
-  --card-muted: #9a9a9a;
-  --card-accent: #e74c3c;
-  --card-heading-font: Georgia, Cambria, "Times New Roman", Times, serif;
-  --card-body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
-
-  --progress-bg: rgba(255,255,255,0.15);
-  --progress-active: rgba(255,255,255,0.7);
-  --counter-color: rgba(255,255,255,0.35);
-
   position: fixed;
   inset: 0;
   z-index: 9999;
-  background: rgba(0,0,0,0.93);
+  background: rgba(0,0,0,0.97);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -39,33 +43,6 @@ body.carousel-open {
   &.is-open {
     opacity: 1;
     visibility: visible;
-  }
-}
-
-// --------------------------------------------------------------------------
-// Themes
-// --------------------------------------------------------------------------
-.carousel-overlay.theme-contrast {
-  --card-bg: #fff;
-  --card-bg-end: #f5f5f5;
-  --card-text: #1a1a1a;
-  --card-muted: #888;
-  --card-accent: #1a1a1a;
-  --card-heading-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
-  --card-body-font: Georgia, Cambria, "Times New Roman", Times, serif;
-}
-
-.carousel-overlay.theme-bold {
-  --card-bg: #0f0f0f;
-  --card-bg-end: #141313;
-  --card-text: #e8e8e8;
-  --card-muted: #555;
-  --card-accent: #e74c3c;
-  --card-heading-font: Georgia, Cambria, "Times New Roman", Times, serif;
-  --card-body-font: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", sans-serif;
-
-  .carousel-card__bg-number {
-    opacity: 0.06;
   }
 }
 
@@ -91,12 +68,12 @@ body.carousel-open {
 .carousel-progress__segment {
   flex: 1;
   height: 2px;
-  background: var(--progress-bg);
+  background: rgba(255,255,255,0.15);
   border-radius: 1px;
   transition: background 0.2s ease;
 
   &.is-active {
-    background: var(--progress-active);
+    background: rgba(255,255,255,0.7);
   }
 }
 
@@ -115,7 +92,7 @@ body.carousel-open {
   font-size: 0.6rem;
   font-weight: 600;
   letter-spacing: 0.04em;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: $carousel-sans;
 
   &:hover {
     color: rgba(255,255,255,0.65);
@@ -127,11 +104,11 @@ body.carousel-open {
 // --------------------------------------------------------------------------
 .carousel-counter {
   font-size: 0.6rem;
-  color: var(--counter-color);
+  color: rgba(255,255,255,0.35);
   text-align: center;
   padding: 0.35rem 0 0.1rem;
   user-select: none;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: $carousel-sans;
   letter-spacing: 0.1em;
 }
 
@@ -145,15 +122,16 @@ body.carousel-open {
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow: visible;
 }
 
 // --------------------------------------------------------------------------
-// Card
+// Card base
 // --------------------------------------------------------------------------
 .carousel-card {
+  --s: 0.48;  // default fallback, JS overrides
+
   position: relative;
-  background: linear-gradient(168deg, var(--card-bg) 50%, var(--card-bg-end));
-  color: var(--card-text);
   border-radius: 6px;
   overflow: hidden;
   width: 100%;
@@ -165,94 +143,284 @@ body.carousel-open {
   max-height: 85vh;
 }
 
-.ratio-square .carousel-card {
-  aspect-ratio: 1 / 1;
+// --------------------------------------------------------------------------
+// Watermark — shared across card types, positioned on .carousel-card
+// --------------------------------------------------------------------------
+.carousel-card__watermark {
+  position: absolute;
+  bottom: calc(32 * var(--s) * 1px);
+  right: calc(48 * var(--s) * 1px);
+  opacity: 0.15;
+  pointer-events: none;
+  z-index: 1;
+
+  img {
+    width: calc(100 * var(--s) * 1px);
+    height: auto;
+  }
 }
 
 // --------------------------------------------------------------------------
-// Card: title — vertically centered as a cover card
+// Card: COVER
 // --------------------------------------------------------------------------
-.carousel-card--title {
-  justify-content: center;
-  padding: 2rem;
-}
+.carousel-card--cover {
+  background: $carousel-white;
+  border: calc(1 * var(--s) * 1px) solid $carousel-rule;
 
-.carousel-card__title {
-  font-family: var(--card-heading-font);
-  font-weight: 700;
-  font-size: 2rem;
-  margin: 0 0 0.75rem;
-  line-height: 1.1;
-  letter-spacing: -0.02em;
-}
+  .carousel-card__inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: calc(64 * var(--s) * 1px);
+    padding-bottom: calc(80 * var(--s) * 1px);
+    position: relative;
+  }
 
-.carousel-card__description {
-  font-family: var(--card-body-font);
-  font-style: italic;
-  color: var(--card-muted);
-  margin: 0 0 1rem;
-  font-size: 0.85rem;
-  line-height: 1.5;
-}
+  .carousel-card__wm {
+    font-family: $carousel-serif;
+    font-size: calc(30 * var(--s) * 1px);
+    font-weight: 700;
+    color: $carousel-text;
+    margin-bottom: calc(48 * var(--s) * 1px);
+  }
 
-.carousel-card__date {
-  font-family: var(--card-body-font);
-  font-size: 0.7rem;
-  color: var(--card-muted);
-  margin: 0;
-  letter-spacing: 0.03em;
+  .carousel-card__day {
+    font-family: $carousel-sans;
+    font-size: calc(140 * var(--s) * 1px);
+    font-weight: 900;
+    line-height: 0.85;
+    color: $carousel-text;
+    margin-bottom: calc(28 * var(--s) * 1px);
+  }
+
+  .carousel-card__qt {
+    font-family: $carousel-serif;
+    font-size: calc(48 * var(--s) * 1px);
+    font-style: italic;
+    line-height: 1.28;
+    color: $carousel-text2;
+    margin-bottom: calc(36 * var(--s) * 1px);
+    max-width: calc(880 * var(--s) * 1px);
+  }
+
+  .carousel-card__meta {
+    font-family: $carousel-mono;
+    font-size: calc(24 * var(--s) * 1px);
+    color: $carousel-dim;
+    letter-spacing: 0.04em;
+  }
+
+  .carousel-card__logo {
+    position: absolute;
+    bottom: calc(48 * var(--s) * 1px);
+    right: calc(64 * var(--s) * 1px);
+
+    img {
+      width: calc(120 * var(--s) * 1px);
+      height: auto;
+    }
+  }
 }
 
 // --------------------------------------------------------------------------
-// Card: story — equal padding, top-aligned text
+// Card: STORY
 // --------------------------------------------------------------------------
 .carousel-card--story {
-  padding: 2rem;
+  background: $carousel-white;
+  border: calc(1 * var(--s) * 1px) solid $carousel-rule;
+
+  .carousel-card__inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: calc(64 * var(--s) * 1px);
+    padding-bottom: calc(24 * var(--s) * 1px);
+    position: relative;
+  }
+
+  .carousel-card__sn {
+    font-family: $carousel-mono;
+    font-size: calc(32 * var(--s) * 1px);
+    font-weight: 500;
+    color: $carousel-red;
+    margin-bottom: calc(20 * var(--s) * 1px);
+    flex-shrink: 0;
+  }
+
+  .carousel-card__cl {
+    font-family: $carousel-mono;
+    font-size: calc(28 * var(--s) * 1px);
+    font-weight: 500;
+    color: $carousel-dim;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: calc(24 * var(--s) * 1px);
+    flex-shrink: 0;
+  }
+
+  .carousel-card__hl {
+    font-family: $carousel-serif;
+    font-size: calc(48 * var(--s) * 1px);
+    font-weight: 700;
+    line-height: 1.2;
+    color: $carousel-text;
+    margin-bottom: calc(22 * var(--s) * 1px);
+  }
+
+  .carousel-card__rl {
+    width: calc(48 * var(--s) * 1px);
+    height: calc(2 * var(--s) * 1px);
+    background: $carousel-red;
+    margin-bottom: calc(24 * var(--s) * 1px);
+    flex-shrink: 0;
+  }
+
+  .carousel-card__bd {
+    font-family: $carousel-serif;
+    font-size: calc(38 * var(--s) * 1px);
+    line-height: 1.52;
+    color: $carousel-text2;
+
+    p {
+      margin-bottom: calc(20 * var(--s) * 1px);
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .carousel-card__more {
+    font-family: $carousel-mono;
+    font-size: calc(28 * var(--s) * 1px);
+    color: $carousel-red;
+    margin-top: calc(28 * var(--s) * 1px);
+    flex-shrink: 0;
+  }
+
+  // Footer stamp — in normal flow, pushed to bottom via margin-top:auto
+  .carousel-card__ft {
+    margin-top: auto;
+    padding-top: calc(16 * var(--s) * 1px);
+    flex-shrink: 0;
+  }
+
+  .carousel-card__stamp {
+    font-family: $carousel-mono;
+    font-size: calc(24 * var(--s) * 1px);
+    color: $carousel-dim;
+    letter-spacing: 0.02em;
+  }
 }
 
-// Background number — typographic texture
-.carousel-card__bg-number {
-  position: absolute;
-  bottom: -0.1em;
-  right: 0.05em;
-  font-family: var(--card-heading-font);
-  font-size: 12rem;
-  font-weight: 800;
-  line-height: 0.8;
-  color: var(--card-text);
-  opacity: 0.03;
-  user-select: none;
-  pointer-events: none;
+// --------------------------------------------------------------------------
+// Card: COUNTDOWN
+// --------------------------------------------------------------------------
+.carousel-card--countdown {
+  background: $carousel-white;
+  border: calc(1 * var(--s) * 1px) solid $carousel-rule;
+
+  .carousel-card__inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .carousel-card__n {
+    font-family: $carousel-sans;
+    font-size: calc(192 * var(--s) * 1px);
+    font-weight: 900;
+    color: $carousel-text;
+    line-height: 0.85;
+    margin-bottom: calc(12 * var(--s) * 1px);
+  }
+
+  .carousel-card__l {
+    font-family: $carousel-serif;
+    font-size: calc(36 * var(--s) * 1px);
+    color: $carousel-text2;
+  }
+
+  .carousel-card__dv {
+    width: calc(48 * var(--s) * 1px);
+    height: calc(2 * var(--s) * 1px);
+    background: $carousel-ruled;
+    margin: calc(44 * var(--s) * 1px) auto;
+  }
 }
 
-// Text block — top-aligned; base font-size controls all child em units
-.carousel-card__text {
-  position: relative;
-  z-index: 1;
-  font-size: 0.8rem;
-}
+// --------------------------------------------------------------------------
+// Card: CTA
+// --------------------------------------------------------------------------
+.carousel-card--cta {
+  background: #0f0f0f;
+  border: none;
 
-// Lede sentence — serif, bold — the headline
-.carousel-card__lede {
-  font-family: var(--card-heading-font);
-  font-size: 1.3em;
-  font-weight: 700;
-  line-height: 1.4;
-  margin: 0 0 1.25em;
-  letter-spacing: -0.01em;
-}
+  .carousel-card__inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: calc(64 * var(--s) * 1px) calc(80 * var(--s) * 1px);
+    position: relative;
+  }
 
-// Body sentences — sans-serif, smaller — easy scanning
-.carousel-card__sentence {
-  font-family: var(--card-body-font);
-  font-size: 1em;
-  font-weight: 400;
-  line-height: 1.6;
-  margin: 0 0 0.7em;
-  color: var(--card-text);
+  .carousel-card__ch {
+    font-family: $carousel-sans;
+    font-size: calc(64 * var(--s) * 1px);
+    font-weight: 900;
+    color: #ffffff;
+    line-height: 1.18;
+    margin-bottom: calc(40 * var(--s) * 1px);
+  }
 
-  &:last-child {
-    margin-bottom: 0;
+  .carousel-card__desc {
+    font-family: $carousel-serif;
+    font-size: calc(36 * var(--s) * 1px);
+    color: rgba(255,255,255,0.7);
+    line-height: 1.7;
+    margin-bottom: calc(40 * var(--s) * 1px);
+  }
+
+  .carousel-card__cc {
+    font-family: $carousel-mono;
+    font-size: calc(26 * var(--s) * 1px);
+    color: rgba(255,255,255,0.4);
+    letter-spacing: 0.08em;
+    margin-bottom: calc(44 * var(--s) * 1px);
+  }
+
+  .carousel-card__btn {
+    display: inline-block;
+    font-family: $carousel-serif;
+    font-size: calc(32 * var(--s) * 1px);
+    font-weight: 700;
+    color: white;
+    background: $carousel-red;
+    padding: calc(24 * var(--s) * 1px) calc(56 * var(--s) * 1px);
+    border-radius: calc(4 * var(--s) * 1px);
+    text-decoration: none;
+  }
+
+  .carousel-card__logo {
+    position: absolute;
+    bottom: calc(48 * var(--s) * 1px);
+
+    img {
+      width: calc(120 * var(--s) * 1px);
+      height: auto;
+    }
   }
 }
 
@@ -263,9 +431,9 @@ body.carousel-open {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.08);
   border: none;
-  color: rgba(255,255,255,0.4);
+  color: rgba(255,255,255,0.5);
   width: 34px;
   height: 34px;
   border-radius: 50%;
@@ -277,8 +445,8 @@ body.carousel-open {
   z-index: 2;
 
   &:hover {
-    background: rgba(255,255,255,0.12);
-    color: rgba(255,255,255,0.7);
+    background: rgba(255,255,255,0.15);
+    color: rgba(255,255,255,0.8);
   }
 }
 
@@ -295,26 +463,6 @@ body.carousel-open {
 
   .carousel-card {
     border-radius: 8px;
-  }
-
-  .carousel-card--title {
-    padding: 2.5rem;
-  }
-
-  .carousel-card__title {
-    font-size: 2.25rem;
-  }
-
-  .carousel-card--story {
-    padding: 2.5rem;
-  }
-
-  .carousel-card__text {
-    font-size: 0.85rem;
-  }
-
-  .carousel-card__bg-number {
-    font-size: 15rem;
   }
 
   .carousel-nav {

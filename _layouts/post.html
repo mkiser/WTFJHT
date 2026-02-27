@@ -2,7 +2,10 @@
 layout: default
 ---
 
-<article class="post">
+<article class="post"
+  data-carousel-day="{{ page.title | remove: 'Day ' }}"
+  data-carousel-desc="{{ page.description | smartify | xml_escape }}"
+  data-carousel-date="{{ page.date | date: '%b %-d, %Y' }}">
  {% if site.is_away_mode == true %}
  {% include away_mode.html %}
  {% endif %}
@@ -109,7 +112,7 @@ layout: default
   {% include recent-posts.html %}
 
   {% if page.years_ago_links and page.years_ago_links.size > 0 %}
-  <div class="historical-posts">
+  <div class="historical-posts" data-years-ago='{{ page.years_ago_links | jsonify }}'>
     <h3 class="historical-posts__title">On this day</h3>
     {% for link in page.years_ago_links %}
       <a href="{{ link.url | absolute_url }}" class="historical-posts__item">

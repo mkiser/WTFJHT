@@ -10,7 +10,7 @@ show_title: false
 
 ---
 
-<p class="lead"><em><strong>tl;dr</strong> I doomscroll so you don’t have to. And then I compress the chaos into a sane, once-a-day update that helps normal people make the news make sense.</em></p> 
+<p class="lead"><em><strong>tl;dr</strong> I doomscroll the news so you don’t have to. And then I compress the chaos into a sane, once-a-day update that helps normal people make the news make sense.</em></p> 
 
 ---
 

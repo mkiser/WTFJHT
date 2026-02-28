@@ -1,5 +1,5 @@
 // ==========================================================================
-// Carousel v4.3 — Instagram-style card reading experience
+// Carousel v4.5 — Instagram-style card reading experience
 // 4 card types: cover, story, countdown, CTA
 // Responsive scaling via --s (cardWidth / 1080)
 // ==========================================================================
@@ -70,6 +70,7 @@ $carousel-mono:   'JetBrains Mono', monospace;
   height: 2px;
   background: rgba(255,255,255,0.15);
   border-radius: 1px;
+  cursor: pointer;
   transition: background 0.2s ease;
 
   &.is-active {
@@ -123,6 +124,33 @@ $carousel-mono:   'JetBrains Mono', monospace;
   flex-direction: column;
   align-items: center;
   overflow: visible;
+}
+
+// --------------------------------------------------------------------------
+// Slide wrapper (directional slide animation)
+// --------------------------------------------------------------------------
+.carousel-card__slide {
+  position: absolute;
+  inset: 0;
+}
+
+.carousel-card__slide.is-animating {
+  transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+// --------------------------------------------------------------------------
+// Screen reader only (for aria-live announcements)
+// --------------------------------------------------------------------------
+.carousel-sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 // --------------------------------------------------------------------------
@@ -434,8 +462,8 @@ $carousel-mono:   'JetBrains Mono', monospace;
   background: rgba(255,255,255,0.08);
   border: none;
   color: rgba(255,255,255,0.5);
-  width: 34px;
-  height: 34px;
+  width: 44px;
+  height: 44px;
   border-radius: 50%;
   display: none;
   align-items: center;
@@ -443,6 +471,14 @@ $carousel-mono:   'JetBrains Mono', monospace;
   cursor: pointer;
   transition: background 0.15s ease, color 0.15s ease;
   z-index: 2;
+
+  // Extend tap target with transparent pseudo-element
+  &::after {
+    content: '';
+    position: absolute;
+    inset: -8px;
+    border-radius: 50%;
+  }
 
   &:hover {
     background: rgba(255,255,255,0.15);
@@ -482,7 +518,8 @@ $carousel-mono:   'JetBrains Mono', monospace;
   .carousel-progress__segment,
   .carousel-header__btn,
   .carousel-toggle,
-  .carousel-nav {
+  .carousel-nav,
+  .carousel-card__slide {
     transition: none;
   }
 }

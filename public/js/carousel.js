@@ -1,5 +1,5 @@
 /**
- * WTFJHT Carousel v4.3 — Instagram-style card reading experience
+ * WTFJHT Carousel v4.5 — Instagram-style card reading experience
  *
  * 4 card types: cover, story (with continuation), countdown, CTA
  * Responsive scaling via --s custom property (cardWidth / 1080).
@@ -176,9 +176,11 @@
       }
     }
 
-    // --- Countdown card ---
-    var midterms = new Date(2026, 10, 3);   // Nov 3, 2026
-    var presidential = new Date(2028, 10, 7); // Nov 7, 2028
+    // --- Countdown card (data-driven dates with hardcoded fallbacks) ---
+    var midtermsStr = article.getAttribute('data-carousel-midterms');
+    var presidentialStr = article.getAttribute('data-carousel-presidential');
+    var midterms = midtermsStr ? new Date(midtermsStr + 'T00:00:00') : new Date(2026, 10, 3);
+    var presidential = presidentialStr ? new Date(presidentialStr + 'T00:00:00') : new Date(2028, 10, 7);
     var now = new Date();
     now.setHours(0, 0, 0, 0);
     var daysMid = Math.ceil((midterms - now) / 86400000);
@@ -257,6 +259,12 @@
     }
     header.appendChild(progress);
 
+    var shareBtn = document.createElement('button');
+    shareBtn.className = 'carousel-header__btn';
+    shareBtn.setAttribute('aria-label', 'Share card');
+    shareBtn.innerHTML = '<svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V13H12V9"/><polyline points="8 10 8 2"/><polyline points="5 5 8 2 11 5"/></svg>';
+    header.appendChild(shareBtn);
+
     var closeBtn = document.createElement('button');
     closeBtn.className = 'carousel-header__btn';
     closeBtn.setAttribute('aria-label', 'Close card view');
@@ -290,6 +298,14 @@
     container.appendChild(nextBtn);
 
     overlay.appendChild(container);
+
+    // Screen reader announcements
+    var liveRegion = document.createElement('div');
+    liveRegion.className = 'carousel-sr-only';
+    liveRegion.setAttribute('aria-live', 'polite');
+    liveRegion.setAttribute('aria-atomic', 'true');
+    overlay.appendChild(liveRegion);
+
     document.body.appendChild(overlay);
 
     overlay.offsetHeight;
@@ -298,11 +314,13 @@
     return {
       overlay: overlay,
       progress: progress,
+      shareBtn: shareBtn,
       closeBtn: closeBtn,
       counter: counter,
       cardEl: cardEl,
       prevBtn: prevBtn,
       nextBtn: nextBtn,
+      liveRegion: liveRegion,
       cards: cards,
       currentIndex: 0
     };
@@ -476,56 +494,115 @@
   // Card Content + Scale
   // ========================================================================
 
-  function renderCardContent(cardEl, card) {
-    cardEl.innerHTML = '';
-    cardEl.classList.remove(
-      'carousel-card--cover',
-      'carousel-card--story',
-      'carousel-card--countdown',
-      'carousel-card--cta'
-    );
-
-    cardEl.classList.add('carousel-card--' + card.type);
-
-    var inner = document.createElement('div');
-    inner.className = 'carousel-card__inner';
-
-    switch (card.type) {
-      case 'cover':
-        renderCoverCard(inner, card);
-        break;
-      case 'story':
-        renderStoryCard(inner, card);
-        break;
-      case 'countdown':
-        renderCountdownCard(inner, card);
-        break;
-      case 'cta':
-        renderCtaCard(inner, card);
-        break;
+  function renderCardContent(cardEl, card, direction) {
+    // Clean up stale slides from interrupted animations (keep only the last)
+    var staleSlides = cardEl.querySelectorAll('.carousel-card__slide');
+    for (var si = 0; si < staleSlides.length - 1; si++) {
+      cardEl.removeChild(staleSlides[si]);
     }
 
-    cardEl.appendChild(inner);
+    var oldSlide = cardEl.querySelector('.carousel-card__slide');
+    var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var shouldAnimate = !!oldSlide && direction !== 0 && !reducedMotion;
 
-    // Add watermark on story cards — as direct child of cardEl (outside inner)
-    // so it isn't affected by fitTextToCard scaling
-    if (card.type === 'story') {
-      var logoSrc = getLogoSrc();
-      var wmk = document.createElement('div');
-      wmk.className = 'carousel-card__watermark';
-      var img = document.createElement('img');
-      img.src = logoSrc;
-      img.alt = '';
-      img.setAttribute('aria-hidden', 'true');
-      wmk.appendChild(img);
-      cardEl.appendChild(wmk);
+    function buildSlide() {
+      cardEl.classList.remove(
+        'carousel-card--cover',
+        'carousel-card--story',
+        'carousel-card--countdown',
+        'carousel-card--cta'
+      );
+      cardEl.classList.add('carousel-card--' + card.type);
+
+      var slide = document.createElement('div');
+      slide.className = 'carousel-card__slide';
+
+      var inner = document.createElement('div');
+      inner.className = 'carousel-card__inner';
+
+      switch (card.type) {
+        case 'cover':
+          renderCoverCard(inner, card);
+          break;
+        case 'story':
+          renderStoryCard(inner, card);
+          break;
+        case 'countdown':
+          renderCountdownCard(inner, card);
+          break;
+        case 'cta':
+          renderCtaCard(inner, card);
+          break;
+      }
+
+      slide.appendChild(inner);
+
+      // Add watermark on story cards — inside slide, outside inner
+      // so it isn't affected by fitTextToCard scaling
+      if (card.type === 'story') {
+        var logoSrc = getLogoSrc();
+        var wmk = document.createElement('div');
+        wmk.className = 'carousel-card__watermark';
+        var img = document.createElement('img');
+        img.src = logoSrc;
+        img.alt = '';
+        img.setAttribute('aria-hidden', 'true');
+        wmk.appendChild(img);
+        slide.appendChild(wmk);
+      }
+
+      return { slide: slide, inner: inner };
     }
 
-    updateScale(cardEl);
+    if (shouldAnimate) {
+      var enterFrom = direction > 0 ? '100%' : '-100%';
+      var exitTo = direction > 0 ? '-100%' : '100%';
 
-    // Post-render overflow safety for story cards
-    if (card.type === 'story') {
-      fitTextToCard(cardEl);
+      var built = buildSlide();
+      var newSlide = built.slide;
+      var newInner = built.inner;
+
+      // Position new slide offscreen
+      newSlide.style.transform = 'translateX(' + enterFrom + ')';
+      cardEl.appendChild(newSlide);
+
+      updateScale(cardEl);
+      if (card.type === 'story') {
+        fitTextToCard(cardEl, newInner);
+      }
+
+      // Force reflow then animate
+      newSlide.offsetHeight;
+      oldSlide.classList.add('is-animating');
+      newSlide.classList.add('is-animating');
+      oldSlide.style.transform = 'translateX(' + exitTo + ')';
+      newSlide.style.transform = 'translateX(0)';
+
+      var cleaned = false;
+      function cleanup() {
+        if (cleaned) return;
+        cleaned = true;
+        if (oldSlide.parentNode) oldSlide.parentNode.removeChild(oldSlide);
+        newSlide.classList.remove('is-animating');
+      }
+      newSlide.addEventListener('transitionend', function handler(e) {
+        if (e.propertyName === 'transform') {
+          newSlide.removeEventListener('transitionend', handler);
+          cleanup();
+        }
+      });
+      setTimeout(cleanup, 400);
+    } else {
+      // Non-animated: initial render, jump, or reduced-motion
+      while (cardEl.firstChild) cardEl.removeChild(cardEl.firstChild);
+
+      var built = buildSlide();
+      cardEl.appendChild(built.slide);
+
+      updateScale(cardEl);
+      if (card.type === 'story') {
+        fitTextToCard(cardEl, built.inner);
+      }
     }
   }
 
@@ -540,8 +617,8 @@
    * If story text overflows the card, scale down the inner container.
    * Uses binary search for accuracy since text reflows non-linearly.
    */
-  function fitTextToCard(cardEl) {
-    var inner = cardEl.querySelector('.carousel-card__inner');
+  function fitTextToCard(cardEl, inner) {
+    if (!inner) inner = cardEl.querySelector('.carousel-card__inner');
     if (!inner) return;
 
     var cardH = cardEl.clientHeight;
@@ -571,10 +648,11 @@
   // Navigation
   // ========================================================================
 
-  function goToCard(ui, index) {
+  function goToCard(ui, index, direction) {
     if (index < 0 || index >= ui.cards.length) return;
+    if (direction === undefined) direction = 0;
     ui.currentIndex = index;
-    renderCardContent(ui.cardEl, ui.cards[index]);
+    renderCardContent(ui.cardEl, ui.cards[index], direction);
 
     var segments = ui.progress.querySelectorAll('.carousel-progress__segment');
     for (var i = 0; i < segments.length; i++) {
@@ -584,22 +662,61 @@
     ui.counter.textContent = (index + 1) + ' / ' + ui.cards.length;
     ui.prevBtn.style.display = (index === 0) ? 'none' : '';
     ui.nextBtn.style.display = (index === ui.cards.length - 1) ? 'none' : '';
+
+    // Announce card change to screen readers
+    if (ui.liveRegion) {
+      var card = ui.cards[index];
+      var label = card.type;
+      if (card.type === 'story') label = 'story ' + card.number;
+      ui.liveRegion.textContent = 'Card ' + (index + 1) + ' of ' + ui.cards.length + ', ' + label;
+    }
+
     updateUrlState(index);
   }
 
   function goNext(ui) {
-    if (ui.currentIndex < ui.cards.length - 1) goToCard(ui, ui.currentIndex + 1);
+    if (ui.currentIndex < ui.cards.length - 1) goToCard(ui, ui.currentIndex + 1, 1);
   }
 
   function goPrev(ui) {
-    if (ui.currentIndex > 0) goToCard(ui, ui.currentIndex - 1);
+    if (ui.currentIndex > 0) goToCard(ui, ui.currentIndex - 1, -1);
   }
 
   function attachNavigation(ui) {
     ui.prevBtn.addEventListener('click', function() { goPrev(ui); });
     ui.nextBtn.addEventListener('click', function() { goNext(ui); });
 
+    // Progress bar click-to-jump
+    var segments = ui.progress.querySelectorAll('.carousel-progress__segment');
+    for (var pi = 0; pi < segments.length; pi++) {
+      (function(index) {
+        segments[index].addEventListener('click', function() {
+          var dir = index > ui.currentIndex ? 1 : (index < ui.currentIndex ? -1 : 0);
+          goToCard(ui, index, dir);
+        });
+      })(pi);
+    }
+
+    // Keyboard navigation with focus trapping
     function onKeydown(e) {
+      if (e.key === 'Tab') {
+        var focusable = ui.overlay.querySelectorAll('button, a, [tabindex]:not([tabindex="-1"])');
+        if (focusable.length === 0) return;
+        var first = focusable[0];
+        var last = focusable[focusable.length - 1];
+        if (e.shiftKey) {
+          if (document.activeElement === first) {
+            e.preventDefault();
+            last.focus();
+          }
+        } else {
+          if (document.activeElement === last) {
+            e.preventDefault();
+            first.focus();
+          }
+        }
+        return;
+      }
       switch (e.key) {
         case 'ArrowLeft': case 'ArrowUp':
           e.preventDefault(); goPrev(ui); break;
@@ -612,27 +729,143 @@
     document.addEventListener('keydown', onKeydown);
     ui._onKeydown = onKeydown;
 
+    // Card tap zones — shift left zone inward on mobile to avoid iOS swipe-back
     ui.cardEl.addEventListener('click', function(e) {
+      if (ui._dragMoved) { ui._dragMoved = false; return; }
       if (e.target.tagName === 'A' || e.target.closest('a')) return;
       var rect = ui.cardEl.getBoundingClientRect();
       var x = e.clientX - rect.left;
-      var third = rect.width / 3;
-      if (x < third) goPrev(ui);
-      else if (x > third * 2) goNext(ui);
-    });
-
-    var startX = 0, startY = 0;
-    ui.cardEl.addEventListener('pointerdown', function(e) { startX = e.clientX; startY = e.clientY; });
-    ui.cardEl.addEventListener('pointerup', function(e) {
-      var dx = e.clientX - startX, dy = e.clientY - startY;
-      if (Math.abs(dx) > 50 && Math.abs(dx) > Math.abs(dy)) {
-        if (dx < 0) goNext(ui); else goPrev(ui);
+      var w = rect.width;
+      if (window.innerWidth < 600) {
+        var ratio = x / w;
+        if (ratio > 0.15 && ratio < 0.4) goPrev(ui);
+        else if (ratio > 0.67) goNext(ui);
+      } else {
+        var third = w / 3;
+        if (x < third) goPrev(ui);
+        else if (x > third * 2) goNext(ui);
       }
     });
 
+    // Swipe drag feedback with proportional threshold
+    var dragStartX = 0, dragStartY = 0, isDragging = false, dragLocked = false, dragIsHorizontal = false;
+    ui.cardEl.addEventListener('pointerdown', function(e) {
+      dragStartX = e.clientX;
+      dragStartY = e.clientY;
+      isDragging = true;
+      dragLocked = false;
+      dragIsHorizontal = false;
+      ui._dragMoved = false;
+      ui.cardEl.setPointerCapture(e.pointerId);
+    });
+    ui.cardEl.addEventListener('pointermove', function(e) {
+      if (!isDragging) return;
+      var dx = e.clientX - dragStartX;
+      var dy = e.clientY - dragStartY;
+      if (!dragLocked) {
+        if (Math.abs(dx) > 10 || Math.abs(dy) > 10) {
+          dragLocked = true;
+          dragIsHorizontal = Math.abs(dx) >= Math.abs(dy);
+        } else {
+          return;
+        }
+      }
+      if (dragIsHorizontal) {
+        var slide = ui.cardEl.querySelector('.carousel-card__slide');
+        if (slide) {
+          slide.classList.remove('is-animating');
+          slide.style.transform = 'translateX(' + dx + 'px)';
+        }
+        ui._dragMoved = true;
+      }
+    });
+    ui.cardEl.addEventListener('pointerup', function(e) {
+      if (!isDragging) return;
+      isDragging = false;
+      var dx = e.clientX - dragStartX;
+      var threshold = Math.max(30, ui.cardEl.offsetWidth * 0.08);
+      if (dragLocked && dragIsHorizontal && Math.abs(dx) > threshold) {
+        if (dx < 0) goNext(ui); else goPrev(ui);
+      } else if (dragLocked && dragIsHorizontal) {
+        // Snap back
+        var slide = ui.cardEl.querySelector('.carousel-card__slide');
+        if (slide) {
+          slide.classList.add('is-animating');
+          slide.style.transform = 'translateX(0)';
+          var snapCleaned = false;
+          function snapCleanup() {
+            if (snapCleaned) return;
+            snapCleaned = true;
+            slide.classList.remove('is-animating');
+          }
+          slide.addEventListener('transitionend', function handler(ev) {
+            if (ev.propertyName === 'transform') {
+              slide.removeEventListener('transitionend', handler);
+              snapCleanup();
+            }
+          });
+          setTimeout(snapCleanup, 400);
+        }
+      }
+    });
+    ui.cardEl.addEventListener('pointercancel', function() { isDragging = false; });
+
+    // Pull-to-dismiss gesture (vertical swipe down)
+    var pullStartX = 0, pullStartY = 0, pullActive = false;
+    ui.overlay.addEventListener('pointerdown', function(e) {
+      pullStartX = e.clientX;
+      pullStartY = e.clientY;
+      pullActive = true;
+    });
+    ui.overlay.addEventListener('pointerup', function(e) {
+      if (!pullActive) return;
+      pullActive = false;
+      var dy = e.clientY - pullStartY;
+      var dx = e.clientX - pullStartX;
+      if (dy > 100 && Math.abs(dy) > Math.abs(dx)) {
+        closeCarousel(ui);
+      }
+    });
+    ui.overlay.addEventListener('pointercancel', function() { pullActive = false; });
+
     ui.closeBtn.addEventListener('click', function() { closeCarousel(ui); });
+
+    // Share button
+    var shareSvgOriginal = ui.shareBtn.innerHTML;
+    var shareCheckSvg = '<svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 9 7 13 13 3"/></svg>';
+    ui.shareBtn.addEventListener('click', function() {
+      var url = new URL(window.location);
+      url.searchParams.set('view', 'cards');
+      url.searchParams.set('s', ui.currentIndex.toString());
+      var shareUrl = url.toString();
+      var title = document.title || 'WTF Just Happened Today?';
+
+      function showFeedback() {
+        ui.shareBtn.innerHTML = shareCheckSvg;
+        setTimeout(function() { ui.shareBtn.innerHTML = shareSvgOriginal; }, 1500);
+      }
+
+      if (navigator.share) {
+        navigator.share({ title: title, url: shareUrl }).catch(function() {});
+      } else if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(shareUrl).then(showFeedback).catch(function() {});
+      }
+    });
+
+    // Overlay click-to-close with generous margin around container to prevent
+    // accidental dismissal from near-miss clicks on nav arrows
     ui.overlay.addEventListener('click', function(e) {
-      if (e.target === ui.overlay) closeCarousel(ui);
+      if (e.target === ui.overlay) {
+        var containerRect = ui.overlay.querySelector('.carousel-container').getBoundingClientRect();
+        var margin = 60;
+        var inContainer = (
+          e.clientX >= containerRect.left - margin &&
+          e.clientX <= containerRect.right + margin &&
+          e.clientY >= containerRect.top - margin &&
+          e.clientY <= containerRect.bottom + margin
+        );
+        if (!inContainer) closeCarousel(ui);
+      }
     });
 
     // Debounced resize handler to update --s scale

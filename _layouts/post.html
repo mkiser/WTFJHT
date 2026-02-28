@@ -5,7 +5,9 @@ layout: default
 <article class="post"
   data-carousel-day="{{ page.title | remove: 'Day ' }}"
   data-carousel-desc="{{ page.description | smartify | xml_escape }}"
-  data-carousel-date="{{ page.date | date: '%b %-d, %Y' }}">
+  data-carousel-date="{{ page.date | date: '%b %-d, %Y' }}"
+  data-carousel-midterms="{{ site.data.dashboard.dates.midterms_2026 }}"
+  data-carousel-presidential="{{ site.data.dashboard.dates.presidential_2028 }}">
  {% if site.is_away_mode == true %}
  {% include away_mode.html %}
  {% endif %}

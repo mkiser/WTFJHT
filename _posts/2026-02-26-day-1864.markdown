@@ -19,6 +19,11 @@ todayInOneSentence: Pro-Trump activists circulated a 17-page draft executive ord
   support deporting unauthorized immigrants, but 60% say ICE agents have “gone too
   far"; and  56% of Americans say they don’t trust Trump to make the right decisions
   about using military force overseas.
+editorsNote: "<p><em><strong>Editor's note</strong>: Okay, that’s it for me this week,
+  unless of course Trump bombs Iran or... worse? I’m putting together my quarterly
+  reader update this weekend (i.e. the state of WTFJHT, what’s working, what needs
+  work, and what’s keeping me up at night). If you’ve got questions you want me to
+  answer, hit reply and send 'em over.</em></p>"
 podcast:
   file: "/uploads/Day-1864_-_The-politics-are-a-lot-better._-7d11c1.mp3"
   duration: '00:04:08'

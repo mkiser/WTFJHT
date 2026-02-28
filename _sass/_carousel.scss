@@ -6,6 +6,10 @@
 
 body.carousel-open {
   overflow: hidden;
+  // Lock viewport on mobile to prevent peek-a-boo when browser chrome hides.
+  // JS sets top:-Npx to preserve scroll position.
+  position: fixed;
+  width: 100%;
 }
 
 // --------------------------------------------------------------------------
@@ -36,6 +40,8 @@ $carousel-mono:   'JetBrains Mono', monospace;
   align-items: center;
   justify-content: flex-start;
   padding-top: 0.75rem;
+  overflow: hidden;
+  overscroll-behavior: none;
   opacity: 0;
   visibility: hidden;
   transition: opacity 0.25s ease, visibility 0.25s ease;
@@ -43,6 +49,17 @@ $carousel-mono:   'JetBrains Mono', monospace;
   &.is-open {
     opacity: 1;
     visibility: visible;
+  }
+
+  // Extend background well beyond viewport to prevent peek-a-boo
+  // on mobile browsers when browser chrome hides/shows
+  &::after {
+    content: '';
+    position: fixed;
+    inset: -200px;
+    background: inherit;
+    z-index: -1;
+    pointer-events: none;
   }
 }
 
@@ -171,6 +188,12 @@ $carousel-mono:   'JetBrains Mono', monospace;
   max-height: 85vh;
 }
 
+// Prevent SVG/image flash at full size before --s scaling applies
+.carousel-card img {
+  max-width: 100%;
+  height: auto;
+}
+
 // --------------------------------------------------------------------------
 // Watermark — shared across card types, positioned on .carousel-card
 // --------------------------------------------------------------------------
@@ -201,9 +224,10 @@ $carousel-mono:   'JetBrains Mono', monospace;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    box-sizing: border-box;
     padding: calc(64 * var(--s) * 1px);
-    padding-bottom: calc(80 * var(--s) * 1px);
-    position: relative;
+    // Push content above the 1:1 IG grid crop line (135px from bottom).
+    padding-bottom: calc(180 * var(--s) * 1px);
   }
 
   .carousel-card__wm {
@@ -234,6 +258,7 @@ $carousel-mono:   'JetBrains Mono', monospace;
   }
 
   .carousel-card__meta {
+    position: relative;
     font-family: $carousel-mono;
     font-size: calc(24 * var(--s) * 1px);
     color: $carousel-dim;
@@ -242,13 +267,12 @@ $carousel-mono:   'JetBrains Mono', monospace;
 
   .carousel-card__logo {
     position: absolute;
-    bottom: calc(48 * var(--s) * 1px);
-    right: calc(64 * var(--s) * 1px);
-
-    img {
-      width: calc(120 * var(--s) * 1px);
-      height: auto;
-    }
+    right: 0;
+    // SVG has 26.5% whitespace below the visible content (68/256px).
+    // Shift down to align visible logo bottom with text bottom.
+    bottom: calc(-25 * var(--s) * 1px);
+    width: calc(120 * var(--s) * 1px);
+    height: auto;
   }
 }
 
@@ -335,6 +359,7 @@ $carousel-mono:   'JetBrains Mono', monospace;
     margin-top: auto;
     padding-top: calc(16 * var(--s) * 1px);
     flex-shrink: 0;
+    position: relative;
   }
 
   .carousel-card__stamp {
@@ -342,6 +367,17 @@ $carousel-mono:   'JetBrains Mono', monospace;
     font-size: calc(24 * var(--s) * 1px);
     color: $carousel-dim;
     letter-spacing: 0.02em;
+  }
+
+  .carousel-card__ft-logo {
+    position: absolute;
+    right: 0;
+    // SVG has 26.5% whitespace below visible content.
+    // At 100px design width: offset = 100 * 68/256 ≈ 27
+    bottom: calc(-15 * var(--s) * 1px);
+    width: calc(100 * var(--s) * 1px);
+    height: auto;
+    opacity: 0.15;
   }
 }
 

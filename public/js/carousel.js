@@ -352,19 +352,18 @@
 
     var meta = document.createElement('div');
     meta.className = 'carousel-card__meta';
+    var metaText = document.createElement('span');
     var parts = [card.dateStr];
     if (card.storyCount) parts.push(card.storyCount + ' stories');
     if (card.readTime) parts.push(card.readTime);
-    meta.textContent = parts.join(' \u00B7 ');
-    inner.appendChild(meta);
-
-    var logo = document.createElement('div');
-    logo.className = 'carousel-card__logo';
+    metaText.textContent = parts.join(' \u00B7 ');
+    meta.appendChild(metaText);
     var img = document.createElement('img');
+    img.className = 'carousel-card__logo';
     img.src = logoSrc;
     img.alt = 'WTFJHT';
-    logo.appendChild(img);
-    inner.appendChild(logo);
+    meta.appendChild(img);
+    inner.appendChild(meta);
   }
 
   function renderStoryCard(inner, card) {
@@ -421,6 +420,12 @@
     stamp.className = 'carousel-card__stamp';
     stamp.textContent = 'Day ' + card.dayNum + ' \u00B7 ' + card.dateStr;
     ft.appendChild(stamp);
+    var ftLogo = document.createElement('img');
+    ftLogo.className = 'carousel-card__ft-logo';
+    ftLogo.src = getLogoSrc();
+    ftLogo.alt = '';
+    ftLogo.setAttribute('aria-hidden', 'true');
+    ft.appendChild(ftLogo);
     inner.appendChild(ft);
   }
 
@@ -536,20 +541,6 @@
       }
 
       slide.appendChild(inner);
-
-      // Add watermark on story cards — inside slide, outside inner
-      // so it isn't affected by fitTextToCard scaling
-      if (card.type === 'story') {
-        var logoSrc = getLogoSrc();
-        var wmk = document.createElement('div');
-        wmk.className = 'carousel-card__watermark';
-        var img = document.createElement('img');
-        img.src = logoSrc;
-        img.alt = '';
-        img.setAttribute('aria-hidden', 'true');
-        wmk.appendChild(img);
-        slide.appendChild(wmk);
-      }
 
       return { slide: slide, inner: inner };
     }
@@ -785,7 +776,18 @@
       var dx = e.clientX - dragStartX;
       var threshold = Math.max(30, ui.cardEl.offsetWidth * 0.08);
       if (dragLocked && dragIsHorizontal && Math.abs(dx) > threshold) {
-        if (dx < 0) goNext(ui); else goPrev(ui);
+        var canNav = (dx < 0 && ui.currentIndex < ui.cards.length - 1) ||
+                     (dx > 0 && ui.currentIndex > 0);
+        if (canNav) {
+          if (dx < 0) goNext(ui); else goPrev(ui);
+        } else {
+          // At boundary — snap back
+          var slide = ui.cardEl.querySelector('.carousel-card__slide');
+          if (slide) {
+            slide.classList.add('is-animating');
+            slide.style.transform = 'translateX(0)';
+          }
+        }
       } else if (dragLocked && dragIsHorizontal) {
         // Snap back
         var slide = ui.cardEl.querySelector('.carousel-card__slide');
@@ -907,7 +909,11 @@
       }
     }, 400);
 
+    // Restore scroll position after unlocking body
     document.body.classList.remove('carousel-open');
+    var savedScroll = parseInt(document.body.dataset.carouselScroll || '0', 10);
+    document.body.style.top = '';
+    window.scrollTo(0, savedScroll);
     cleanUrlState();
   }
 
@@ -938,6 +944,10 @@
     if (cards.length === 0) return;
     if (startIndex < 0 || startIndex >= cards.length) startIndex = 0;
 
+    // Lock body scroll position to prevent peek-a-boo on mobile
+    var scrollY = window.scrollY;
+    document.body.dataset.carouselScroll = scrollY;
+    document.body.style.top = '-' + scrollY + 'px';
     document.body.classList.add('carousel-open');
     var ui = renderCarousel(cards);
 

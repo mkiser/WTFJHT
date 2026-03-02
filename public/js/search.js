@@ -242,6 +242,7 @@
 
   // Send search to worker
   function doSearch(query) {
+    if (typeof gtag === 'function') gtag('event', 'search_used');
     searchRequestId++;
     resultsContainer.innerHTML = '<div class="search-loading">Searching...</div>';
     worker.postMessage({

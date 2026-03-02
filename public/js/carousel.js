@@ -3,7 +3,7 @@
  *
  * 4 card types: cover, story (with continuation), countdown, CTA
  * Responsive scaling via --s custom property (cardWidth / 1080).
- * Single canonical visual identity — Georgia serif + JetBrains Mono.
+ * Single canonical visual identity — Georgia serif + system monospace.
  * Fixed 4:5 portrait aspect ratio (IG native carousel size).
  */
 (function() {
@@ -119,9 +119,21 @@
         var fullText = el.textContent.trim().replace(/^(\d+|poll)\/\s*/i, '');
         var innerHTML = el.innerHTML;
         if (innerHTML.match(/\((<a\s[\s\S]+)\)\s*$/)) {
-          var lp = fullText.lastIndexOf('(');
-          if (lp !== -1 && fullText.trim().endsWith(')')) {
-            fullText = fullText.substring(0, lp).trim();
+          // Find the matching open paren for the final close paren
+          var trimmed = fullText.trim();
+          if (trimmed.endsWith(')')) {
+            var depth = 0;
+            var matchPos = -1;
+            for (var pi = trimmed.length - 1; pi >= 0; pi--) {
+              if (trimmed[pi] === ')') depth++;
+              else if (trimmed[pi] === '(') {
+                depth--;
+                if (depth === 0) { matchPos = pi; break; }
+              }
+            }
+            if (matchPos !== -1) {
+              fullText = trimmed.substring(0, matchPos).trim();
+            }
           }
         }
 
@@ -186,11 +198,11 @@
     var daysMid = Math.ceil((midterms - now) / 86400000);
     var daysPres = Math.ceil((presidential - now) / 86400000);
 
-    if (daysMid > 0) {
+    if (daysMid > 0 || daysPres > 0) {
       cards.push({
         type: 'countdown',
-        midterms: daysMid,
-        presidential: daysPres
+        midterms: daysMid > 0 ? daysMid : null,
+        presidential: daysPres > 0 ? daysPres : null
       });
     }
 
@@ -236,6 +248,46 @@
   }
 
   // ========================================================================
+  // Action Bar Icons & Helpers
+  // ========================================================================
+
+  var _actionIcons = {
+    share: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" x2="12" y1="2" y2="15"/></svg>',
+    download: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/></svg>',
+    link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>',
+    send: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4z"/><path d="M22 2 11 13"/></svg>',
+    email: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>',
+    image: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/></svg>',
+    images: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="3" y="3" rx="2"/><path d="M7 21h10a2 2 0 0 0 2-2V7"/></svg>',
+    whatsapp: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51a3.04 3.04 0 0 0-.57-.01c-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413z"/></svg>',
+    facebook: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>',
+    bluesky: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.882 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg>',
+    threads: '<svg viewBox="0 0 192 192" fill="currentColor"><path d="M141.537 88.988c-.827-.396-1.667-.778-2.518-1.143-1.482-27.307-16.403-42.94-41.457-43.1h-.34c-14.986 0-27.449 6.396-35.12 18.036l13.779 9.452c5.73-8.694 14.724-10.548 21.348-10.548h.076c8.25.053 14.474 2.451 18.504 7.129 2.932 3.405 4.893 8.111 5.864 14.05-7.314-1.244-15.224-1.626-23.679-1.14-23.82 1.371-39.134 15.264-38.105 34.568.521 9.792 5.4 18.216 13.735 23.719 7.047 4.652 16.124 6.927 25.557 6.412 12.458-.683 22.23-5.436 29.049-14.127 5.178-6.6 8.453-15.153 9.899-25.93 5.937 3.583 10.337 8.298 12.767 13.966 4.132 9.635 4.373 25.468-8.546 38.376-11.319 11.308-24.925 16.2-44.488 16.351-22.809-.169-40.06-7.484-51.275-21.742C34.236 139.966 28.808 120.682 28.605 96c.203-24.682 5.63-43.966 16.133-57.317C55.954 24.425 73.204 17.11 96.013 16.94c22.975.17 40.526 7.52 52.171 21.848 5.71 7.026 10.015 15.86 12.853 26.162l16.147-4.308c-3.44-12.68-8.853-23.707-16.219-32.768C147.036 9.607 125.202.195 97.07 0h-.113C68.882.194 47.292 9.642 32.788 28.08 19.882 44.486 13.224 67.316 13.001 95.932L13 96l.001.068c.223 28.616 6.881 51.446 19.787 67.853C47.292 182.358 68.882 191.806 96.957 192h.113c24.964-.173 42.558-6.708 57.052-21.189 18.963-18.945 18.392-42.692 12.142-57.27-4.484-10.454-13.033-19.345-24.727-24.953zm-43.096 40.519c-10.44.588-21.286-4.098-21.821-14.135-.396-7.442 5.296-15.746 22.462-16.735 1.966-.114 3.895-.169 5.79-.169 6.235 0 12.068.606 17.371 1.765-1.978 24.702-13.58 28.713-23.802 29.274z"/></svg>',
+    twitter: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>',
+    mastodon: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.268 5.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242 15.792 0 11.813 0h-.03c-3.98 0-4.835.242-5.288.309C3.882.692 1.496 2.518.917 5.127.64 6.412.61 7.837.661 9.143c.074 1.874.088 3.745.26 5.611.118 1.24.325 2.47.62 3.68.55 2.237 2.777 4.098 4.96 4.857 2.336.792 4.849.923 7.256.38.265-.061.527-.132.786-.213.585-.184 1.27-.39 1.774-.753a.057.057 0 0 0 .023-.043v-1.809a.052.052 0 0 0-.02-.041.053.053 0 0 0-.046-.01 20.282 20.282 0 0 1-4.709.545c-2.73 0-3.463-1.284-3.674-1.818a5.593 5.593 0 0 1-.319-1.433.053.053 0 0 1 .066-.054c1.517.363 3.072.546 4.632.546.376 0 .75 0 1.125-.01 1.57-.044 3.224-.124 4.768-.422.038-.008.077-.015.11-.024 2.435-.464 4.753-1.92 4.989-5.604.008-.145.03-1.52.03-1.67.002-.512.167-3.63-.024-5.545zm-3.748 9.195h-2.561V8.29c0-1.309-.55-1.976-1.67-1.976-1.23 0-1.846.79-1.846 2.35v3.403h-2.546V8.663c0-1.56-.617-2.35-1.848-2.35-1.112 0-1.668.668-1.67 1.977v6.218H4.822V8.102c0-1.31.337-2.35 1.011-3.12.696-.77 1.608-1.164 2.74-1.164 1.311 0 2.302.5 2.962 1.498l.638 1.06.638-1.06c.66-.999 1.65-1.498 2.96-1.498 1.13 0 2.043.395 2.74 1.164.675.77 1.012 1.81 1.012 3.12v6.406z"/></svg>',
+    linkedin: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 1 1 0-4.128 2.062 2.062 0 0 1 0 4.128zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>',
+    reddit: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg>'
+  };
+
+  function createActionOption(tag, config) {
+    var el = document.createElement(tag);
+    el.className = 'carousel-actions__option';
+    if (config.action) el.setAttribute('data-action', config.action);
+    if (config.social) el.setAttribute('data-social', config.social);
+    if (config.href) { el.href = config.href; el.target = '_blank'; el.rel = 'noopener'; }
+    if (config.hidden) el.hidden = true;
+    var iconSpan = document.createElement('span');
+    iconSpan.className = 'carousel-actions__icon';
+    iconSpan.innerHTML = config.icon;
+    el.appendChild(iconSpan);
+    var labelSpan = document.createElement('span');
+    labelSpan.className = 'carousel-actions__label';
+    labelSpan.textContent = config.label;
+    el.appendChild(labelSpan);
+    return el;
+  }
+
+  // ========================================================================
   // DOM Renderer
   // ========================================================================
 
@@ -259,12 +311,6 @@
     }
     header.appendChild(progress);
 
-    var shareBtn = document.createElement('button');
-    shareBtn.className = 'carousel-header__btn';
-    shareBtn.setAttribute('aria-label', 'Share card');
-    shareBtn.innerHTML = '<svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V13H12V9"/><polyline points="8 10 8 2"/><polyline points="5 5 8 2 11 5"/></svg>';
-    header.appendChild(shareBtn);
-
     var closeBtn = document.createElement('button');
     closeBtn.className = 'carousel-header__btn';
     closeBtn.setAttribute('aria-label', 'Close card view');
@@ -284,6 +330,62 @@
     var cardEl = document.createElement('div');
     cardEl.className = 'carousel-card';
     container.appendChild(cardEl);
+
+    var actions = document.createElement('div');
+    actions.className = 'carousel-actions';
+
+    // --- Share pill with dropdown ---
+    var shareGroup = document.createElement('div');
+    shareGroup.className = 'carousel-actions__group';
+
+    var sharePill = document.createElement('button');
+    sharePill.className = 'carousel-actions__pill';
+    sharePill.setAttribute('aria-label', 'Share card');
+    sharePill.setAttribute('aria-expanded', 'false');
+    sharePill.innerHTML = _actionIcons.share + '<span>Share</span>';
+    shareGroup.appendChild(sharePill);
+
+    var shareCard = document.createElement('div');
+    shareCard.className = 'carousel-actions__card';
+    shareCard.setAttribute('aria-hidden', 'true');
+
+    shareCard.appendChild(createActionOption('button', { action: 'copy-link', icon: _actionIcons.link, label: 'Copy link' }));
+    if (navigator.share) {
+      shareCard.appendChild(createActionOption('button', { action: 'native-share', icon: _actionIcons.send, label: 'Send' }));
+    }
+    shareCard.appendChild(createActionOption('a', { social: 'email', icon: _actionIcons.email, label: 'Email', href: '#' }));
+    shareCard.appendChild(createActionOption('a', { social: 'whatsapp', icon: _actionIcons.whatsapp, label: 'WhatsApp', href: '#' }));
+    shareCard.appendChild(createActionOption('a', { social: 'facebook', icon: _actionIcons.facebook, label: 'Facebook', href: '#' }));
+    shareCard.appendChild(createActionOption('a', { social: 'bluesky', icon: _actionIcons.bluesky, label: 'Bluesky', href: '#' }));
+    shareCard.appendChild(createActionOption('a', { social: 'threads', icon: _actionIcons.threads, label: 'Threads', href: '#' }));
+    shareCard.appendChild(createActionOption('a', { social: 'x', icon: _actionIcons.twitter, label: 'X', href: '#' }));
+    shareCard.appendChild(createActionOption('a', { social: 'mastodon', icon: _actionIcons.mastodon, label: 'Mastodon', href: '#' }));
+    shareCard.appendChild(createActionOption('a', { social: 'linkedin', icon: _actionIcons.linkedin, label: 'LinkedIn', href: '#' }));
+    shareCard.appendChild(createActionOption('a', { social: 'reddit', icon: _actionIcons.reddit, label: 'Reddit', href: '#' }));
+    shareGroup.appendChild(shareCard);
+    actions.appendChild(shareGroup);
+
+    // --- Save pill with dropdown ---
+    var downloadGroup = document.createElement('div');
+    downloadGroup.className = 'carousel-actions__group';
+
+    var downloadTrigger = document.createElement('button');
+    downloadTrigger.className = 'carousel-actions__pill';
+    downloadTrigger.setAttribute('aria-label', 'Save card as image');
+    downloadTrigger.setAttribute('aria-expanded', 'false');
+    downloadTrigger.innerHTML = _actionIcons.download + '<span>Save</span>';
+    downloadGroup.appendChild(downloadTrigger);
+
+    var downloadCard = document.createElement('div');
+    downloadCard.className = 'carousel-actions__card';
+    downloadCard.setAttribute('aria-hidden', 'true');
+
+    downloadCard.appendChild(createActionOption('button', { action: 'download-card', icon: _actionIcons.image, label: 'This card' }));
+    downloadCard.appendChild(createActionOption('button', { action: 'download-all', icon: _actionIcons.images, label: 'All cards' }));
+    downloadGroup.appendChild(downloadCard);
+    actions.appendChild(downloadGroup);
+
+    container.appendChild(actions);
 
     var prevBtn = document.createElement('button');
     prevBtn.className = 'carousel-nav carousel-nav--prev';
@@ -314,7 +416,10 @@
     return {
       overlay: overlay,
       progress: progress,
-      shareBtn: shareBtn,
+      sharePill: sharePill,
+      shareCard: shareCard,
+      downloadTrigger: downloadTrigger,
+      downloadCard: downloadCard,
       closeBtn: closeBtn,
       counter: counter,
       cardEl: cardEl,
@@ -354,7 +459,7 @@
     meta.className = 'carousel-card__meta';
     var metaText = document.createElement('span');
     var parts = [card.dateStr];
-    if (card.storyCount) parts.push(card.storyCount + ' stories');
+    if (card.storyCount) parts.push(card.storyCount + (card.storyCount === 1 ? ' story' : ' stories'));
     if (card.readTime) parts.push(card.readTime);
     metaText.textContent = parts.join(' \u00B7 ');
     meta.appendChild(metaText);
@@ -430,31 +535,37 @@
   }
 
   function renderCountdownCard(inner, card) {
-    var midBlock = document.createElement('div');
-    var midN = document.createElement('div');
-    midN.className = 'carousel-card__n';
-    midN.textContent = formatNumber(card.midterms);
-    var midL = document.createElement('div');
-    midL.className = 'carousel-card__l';
-    midL.textContent = 'days until the 2026 midterms';
-    midBlock.appendChild(midN);
-    midBlock.appendChild(midL);
-    inner.appendChild(midBlock);
+    if (card.midterms) {
+      var midBlock = document.createElement('div');
+      var midN = document.createElement('div');
+      midN.className = 'carousel-card__n';
+      midN.textContent = formatNumber(card.midterms);
+      var midL = document.createElement('div');
+      midL.className = 'carousel-card__l';
+      midL.textContent = 'days until the 2026 midterms';
+      midBlock.appendChild(midN);
+      midBlock.appendChild(midL);
+      inner.appendChild(midBlock);
+    }
 
-    var dv = document.createElement('div');
-    dv.className = 'carousel-card__dv';
-    inner.appendChild(dv);
+    if (card.midterms && card.presidential) {
+      var dv = document.createElement('div');
+      dv.className = 'carousel-card__dv';
+      inner.appendChild(dv);
+    }
 
-    var presBlock = document.createElement('div');
-    var presN = document.createElement('div');
-    presN.className = 'carousel-card__n';
-    presN.textContent = formatNumber(card.presidential);
-    var presL = document.createElement('div');
-    presL.className = 'carousel-card__l';
-    presL.textContent = 'days until the 2028 presidential election';
-    presBlock.appendChild(presN);
-    presBlock.appendChild(presL);
-    inner.appendChild(presBlock);
+    if (card.presidential) {
+      var presBlock = document.createElement('div');
+      var presN = document.createElement('div');
+      presN.className = 'carousel-card__n';
+      presN.textContent = formatNumber(card.presidential);
+      var presL = document.createElement('div');
+      presL.className = 'carousel-card__l';
+      presL.textContent = 'days until the 2028 presidential election';
+      presBlock.appendChild(presN);
+      presBlock.appendChild(presL);
+      inner.appendChild(presBlock);
+    }
   }
 
   function renderCtaCard(inner, card) {
@@ -636,6 +747,334 @@
   }
 
   // ========================================================================
+  // Image Export
+  // ========================================================================
+
+  var _html2canvasPromise = null;
+  var _jszipPromise = null;
+  var _exportInProgress = false;
+  var _exportAllInProgress = false;
+
+  function loadHtml2Canvas() {
+    if (_html2canvasPromise) return _html2canvasPromise;
+    _html2canvasPromise = new Promise(function(resolve, reject) {
+      var script = document.createElement('script');
+      script.src = '/public/js/html2canvas.min.js';
+      script.onload = function() {
+        if (window.html2canvas) {
+          resolve(window.html2canvas);
+        } else {
+          _html2canvasPromise = null;
+          reject(new Error('html2canvas not found after loading'));
+        }
+      };
+      script.onerror = function() {
+        _html2canvasPromise = null;
+        reject(new Error('Failed to load html2canvas'));
+      };
+      document.head.appendChild(script);
+    });
+    return _html2canvasPromise;
+  }
+
+  function exportCardImage(ui) {
+    if (_exportInProgress || _exportAllInProgress) return;
+
+    // Don't capture mid-animation
+    var animating = ui.cardEl.querySelector('.is-animating');
+    if (animating) return;
+
+    _exportInProgress = true;
+    var card = ui.cards[ui.currentIndex];
+    var downloadIconOriginal = ui.downloadTrigger.innerHTML;
+    var spinnerSvg = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M8 2a6 6 0 1 1-6 6" style="animation:carousel-spin 0.8s linear infinite;transform-origin:center"/></svg>';
+    var checkSvg = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 9 7 13 13 3"/></svg>';
+
+    // Add spinner keyframe if not already present
+    if (!document.getElementById('carousel-spin-style')) {
+      var style = document.createElement('style');
+      style.id = 'carousel-spin-style';
+      style.textContent = '@keyframes carousel-spin{to{transform:rotate(360deg)}}';
+      document.head.appendChild(style);
+    }
+
+    ui.downloadTrigger.innerHTML = spinnerSvg;
+
+    loadHtml2Canvas().then(function(h2c) {
+      return renderOffscreenAndCapture(h2c, card);
+    }).then(function(canvas) {
+      var dayNum = card.dayNum || '0';
+      var cardIndex = ui.currentIndex + 1;
+      return deliverImage(canvas, dayNum, cardIndex);
+    }).then(function() {
+      ui.downloadTrigger.innerHTML = checkSvg;
+      setTimeout(function() { ui.downloadTrigger.innerHTML = downloadIconOriginal; }, 1500);
+    }).catch(function(err) {
+      console.error('Card export failed:', err);
+      ui.downloadTrigger.innerHTML = downloadIconOriginal;
+    }).then(function() {
+      _exportInProgress = false;
+    });
+  }
+
+  function renderOffscreenAndCapture(h2c, card) {
+    var offscreen = document.createElement('div');
+    offscreen.className = 'carousel-export-offscreen';
+    offscreen.style.cssText = 'position:fixed;left:-9999px;top:0;width:1080px;height:1350px;overflow:hidden;z-index:-1;';
+
+    var cardEl = document.createElement('div');
+    cardEl.className = 'carousel-card';
+    cardEl.style.cssText = 'width:1080px;height:1350px;max-width:none;max-height:none;border-radius:0;';
+    cardEl.style.setProperty('--s', '1');
+
+    // Add card type class
+    cardEl.classList.add('carousel-card--' + card.type);
+
+    var slide = document.createElement('div');
+    slide.className = 'carousel-card__slide';
+    slide.style.cssText = 'position:absolute;inset:0;';
+
+    var inner = document.createElement('div');
+    inner.className = 'carousel-card__inner';
+
+    switch (card.type) {
+      case 'cover': renderCoverCard(inner, card); break;
+      case 'story': renderStoryCard(inner, card); break;
+      case 'countdown': renderCountdownCard(inner, card); break;
+      case 'cta': renderCtaCard(inner, card); break;
+    }
+
+    slide.appendChild(inner);
+    cardEl.appendChild(slide);
+    offscreen.appendChild(cardEl);
+    document.body.appendChild(offscreen);
+
+    // Wait for images to load
+    var images = offscreen.querySelectorAll('img');
+    var imagePromises = [];
+    for (var i = 0; i < images.length; i++) {
+      (function(img) {
+        if (img.complete) return;
+        imagePromises.push(new Promise(function(resolve) {
+          img.onload = resolve;
+          img.onerror = resolve;
+        }));
+      })(images[i]);
+    }
+
+    var bgColor = card.type === 'cta' ? '#0f0f0f' : '#ffffff';
+
+    return Promise.all(imagePromises).then(function() {
+      if (card.type === 'story') {
+        fitTextToCard(cardEl, inner);
+      }
+
+      return h2c(offscreen, {
+        scale: 1,
+        width: 1080,
+        height: 1350,
+        backgroundColor: bgColor,
+        useCORS: true,
+        logging: false
+      });
+    }).then(function(canvas) {
+      if (offscreen.parentNode) offscreen.parentNode.removeChild(offscreen);
+      return canvas;
+    }).catch(function(err) {
+      if (offscreen.parentNode) offscreen.parentNode.removeChild(offscreen);
+      throw err;
+    });
+  }
+
+  function deliverImage(canvas, dayNum, cardIndex) {
+    return new Promise(function(resolve) {
+      canvas.toBlob(function(blob) {
+        if (!blob) { resolve(); return; }
+        var filename = 'wtfjht-day-' + dayNum + '-card-' + cardIndex + '.png';
+        var file = new File([blob], filename, { type: 'image/png' });
+
+        if (navigator.canShare && navigator.canShare({ files: [file] })) {
+          navigator.share({ files: [file] }).then(resolve).catch(function() {
+            triggerDownload(blob, filename);
+            resolve();
+          });
+        } else {
+          triggerDownload(blob, filename);
+          resolve();
+        }
+      }, 'image/png');
+    });
+  }
+
+  function triggerDownload(blob, filename) {
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    a.style.display = 'none';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function() { URL.revokeObjectURL(url); }, 1000);
+  }
+
+  function loadJSZip() {
+    if (_jszipPromise) return _jszipPromise;
+    _jszipPromise = new Promise(function(resolve, reject) {
+      var script = document.createElement('script');
+      script.src = '/public/js/jszip.min.js';
+      script.onload = function() {
+        if (window.JSZip) {
+          resolve(window.JSZip);
+        } else {
+          _jszipPromise = null;
+          reject(new Error('JSZip not found after loading'));
+        }
+      };
+      script.onerror = function() {
+        _jszipPromise = null;
+        reject(new Error('Failed to load JSZip'));
+      };
+      document.head.appendChild(script);
+    });
+    return _jszipPromise;
+  }
+
+  function exportAllCards(ui) {
+    if (_exportAllInProgress || _exportInProgress) return;
+    _exportAllInProgress = true;
+
+    var cards = ui.cards;
+    var total = cards.length;
+    var dayNum = cards[0].dayNum || '0';
+    var originalHtml = ui.downloadTrigger.innerHTML;
+    var checkSvg = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 9 7 13 13 3"/></svg>';
+
+    ui.downloadTrigger.textContent = '0/' + total;
+
+    loadHtml2Canvas().then(function(h2c) {
+      var blobs = [];
+      var chain = Promise.resolve();
+
+      for (var i = 0; i < total; i++) {
+        (function(idx) {
+          chain = chain.then(function() {
+            return renderOffscreenAndCapture(h2c, cards[idx]);
+          }).then(function(canvas) {
+            return new Promise(function(resolve) {
+              canvas.toBlob(function(blob) {
+                blobs.push(blob);
+                ui.downloadTrigger.textContent = (idx + 1) + '/' + total;
+                resolve();
+              }, 'image/png');
+            });
+          });
+        })(i);
+      }
+
+      return chain.then(function() { return blobs; });
+    }).then(function(blobs) {
+      // Try native share on mobile
+      if (navigator.canShare) {
+        var files = [];
+        for (var i = 0; i < blobs.length; i++) {
+          var padded = (i + 1).toString();
+          if (padded.length < 2) padded = '0' + padded;
+          var fname = 'wtfjht-day-' + dayNum + '-card-' + padded + '.png';
+          files.push(new File([blobs[i]], fname, { type: 'image/png' }));
+        }
+        if (navigator.canShare({ files: files })) {
+          return navigator.share({ files: files }).catch(function() {
+            return buildAndDownloadZip(blobs, dayNum);
+          });
+        }
+      }
+      return buildAndDownloadZip(blobs, dayNum);
+    }).then(function() {
+      ui.downloadTrigger.innerHTML = checkSvg;
+      setTimeout(function() { ui.downloadTrigger.innerHTML = originalHtml; }, 1500);
+    }).catch(function(err) {
+      console.error('Export all cards failed:', err);
+      ui.downloadTrigger.innerHTML = originalHtml;
+    }).then(function() {
+      _exportAllInProgress = false;
+    });
+  }
+
+  function buildAndDownloadZip(blobs, dayNum) {
+    return loadJSZip().then(function(JSZip) {
+      var zip = new JSZip();
+      for (var i = 0; i < blobs.length; i++) {
+        var padded = (i + 1).toString();
+        if (padded.length < 2) padded = '0' + padded;
+        zip.file('wtfjht-day-' + dayNum + '-card-' + padded + '.png', blobs[i]);
+      }
+      return zip.generateAsync({ type: 'blob' });
+    }).then(function(zipBlob) {
+      triggerDownload(zipBlob, 'wtfjht-day-' + dayNum + '-cards.zip');
+    });
+  }
+
+  // ========================================================================
+  // Action Bar Utilities
+  // ========================================================================
+
+  function getCardShareUrl(ui) {
+    var url = new URL(window.location);
+    url.searchParams.set('view', 'cards');
+    url.searchParams.set('s', ui.currentIndex.toString());
+    return url.toString();
+  }
+
+  function updateShareLinks(ui) {
+    var url = getCardShareUrl(ui);
+    var title = document.title || 'WTF Just Happened Today?';
+    var enc = encodeURIComponent(url);
+    var encTitle = encodeURIComponent(title);
+    var links = ui.shareCard.querySelectorAll('[data-social]');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      switch (link.getAttribute('data-social')) {
+        case 'email':
+          link.href = 'mailto:?subject=' + encTitle + '&body=' + enc; break;
+        case 'whatsapp':
+          link.href = 'https://wa.me/?text=' + encTitle + '%20' + enc; break;
+        case 'facebook':
+          link.href = 'https://www.facebook.com/sharer/sharer.php?u=' + enc; break;
+        case 'bluesky':
+          link.href = 'https://bsky.app/intent/compose?text=' + encTitle + '%0A%0A' + enc; break;
+        case 'threads':
+          link.href = 'https://threads.com/intent/post?text=' + encTitle + '%20' + enc; break;
+        case 'x':
+          link.href = 'https://twitter.com/intent/tweet?text=' + encTitle + '&url=' + enc; break;
+        case 'mastodon':
+          link.href = 'https://mastodonshare.com/?text=' + encTitle + '&url=' + enc; break;
+        case 'linkedin':
+          link.href = 'https://www.linkedin.com/sharing/share-offsite/?url=' + enc; break;
+        case 'reddit':
+          link.href = 'https://www.reddit.com/submit?url=' + enc + '&title=' + encTitle; break;
+      }
+    }
+  }
+
+  function closeActionDropdowns(ui) {
+    var hadOpen = false;
+    if (ui.shareCard && ui.shareCard.classList.contains('is-open')) {
+      ui.shareCard.classList.remove('is-open');
+      ui.shareCard.setAttribute('aria-hidden', 'true');
+      ui.sharePill.setAttribute('aria-expanded', 'false');
+      hadOpen = true;
+    }
+    if (ui.downloadCard && ui.downloadCard.classList.contains('is-open')) {
+      ui.downloadCard.classList.remove('is-open');
+      ui.downloadCard.setAttribute('aria-hidden', 'true');
+      ui.downloadTrigger.setAttribute('aria-expanded', 'false');
+      hadOpen = true;
+    }
+    return hadOpen;
+  }
+
+  // ========================================================================
   // Navigation
   // ========================================================================
 
@@ -662,7 +1101,8 @@
       ui.liveRegion.textContent = 'Card ' + (index + 1) + ' of ' + ui.cards.length + ', ' + label;
     }
 
-    updateUrlState(index);
+    updateUrlState(index, ui._firstNav);
+    ui._firstNav = false;
   }
 
   function goNext(ui) {
@@ -810,7 +1250,14 @@
         }
       }
     });
-    ui.cardEl.addEventListener('pointercancel', function() { isDragging = false; });
+    ui.cardEl.addEventListener('pointercancel', function() {
+      isDragging = false;
+      var slide = ui.cardEl.querySelector('.carousel-card__slide');
+      if (slide) {
+        slide.classList.add('is-animating');
+        slide.style.transform = 'translateX(0)';
+      }
+    });
 
     // Pull-to-dismiss gesture (vertical swipe down)
     var pullStartX = 0, pullStartY = 0, pullActive = false;
@@ -832,31 +1279,100 @@
 
     ui.closeBtn.addEventListener('click', function() { closeCarousel(ui); });
 
-    // Share button
-    var shareSvgOriginal = ui.shareBtn.innerHTML;
-    var shareCheckSvg = '<svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 9 7 13 13 3"/></svg>';
-    ui.shareBtn.addEventListener('click', function() {
-      var url = new URL(window.location);
-      url.searchParams.set('view', 'cards');
-      url.searchParams.set('s', ui.currentIndex.toString());
-      var shareUrl = url.toString();
-      var title = document.title || 'WTF Just Happened Today?';
-
-      function showFeedback() {
-        ui.shareBtn.innerHTML = shareCheckSvg;
-        setTimeout(function() { ui.shareBtn.innerHTML = shareSvgOriginal; }, 1500);
+    // --- Action bar dropdowns ---
+    function toggleDropdown(triggerEl, cardEl) {
+      var isOpen = cardEl.classList.contains('is-open');
+      closeActionDropdowns(ui);
+      if (!isOpen) {
+        if (cardEl === ui.shareCard) updateShareLinks(ui);
+        cardEl.classList.add('is-open');
+        cardEl.setAttribute('aria-hidden', 'false');
+        triggerEl.setAttribute('aria-expanded', 'true');
       }
+    }
 
-      if (navigator.share) {
-        navigator.share({ title: title, url: shareUrl }).catch(function() {});
-      } else if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(shareUrl).then(showFeedback).catch(function() {});
+    ui.sharePill.addEventListener('click', function(e) {
+      e.stopPropagation();
+      toggleDropdown(ui.sharePill, ui.shareCard);
+    });
+
+    ui.downloadTrigger.addEventListener('click', function(e) {
+      e.stopPropagation();
+      if (_exportInProgress || _exportAllInProgress) return;
+      toggleDropdown(ui.downloadTrigger, ui.downloadCard);
+    });
+
+    // Share: Copy link
+    ui.shareCard.querySelector('[data-action="copy-link"]').addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      if (typeof gtag === 'function') gtag('event', 'carousel_share', { method: 'copy_link' });
+      var url = getCardShareUrl(ui);
+      var label = this.querySelector('.carousel-actions__label');
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(function() {
+          var orig = label.textContent;
+          label.textContent = 'Copied!';
+          setTimeout(function() { label.textContent = orig; closeActionDropdowns(ui); }, 800);
+        }).catch(function() {
+          prompt('Copy this link:', url);
+          closeActionDropdowns(ui);
+        });
+      } else {
+        prompt('Copy this link:', url);
+        closeActionDropdowns(ui);
       }
+    });
+
+    // Share: Native share
+    var nativeShareOpt = ui.shareCard.querySelector('[data-action="native-share"]');
+    if (nativeShareOpt) {
+      nativeShareOpt.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var url = getCardShareUrl(ui);
+        var title = document.title || 'WTF Just Happened Today?';
+        if (typeof gtag === 'function') gtag('event', 'carousel_share', { method: 'native' });
+        navigator.share({ title: title, url: url }).then(function() {
+          closeActionDropdowns(ui);
+        }).catch(function() {});
+      });
+    }
+
+    // Share: Social links close dropdown on click
+    var socialLinks = ui.shareCard.querySelectorAll('[data-social]');
+    for (var sli = 0; sli < socialLinks.length; sli++) {
+      socialLinks[sli].addEventListener('click', function() {
+        if (typeof gtag === 'function') gtag('event', 'carousel_share', { method: this.getAttribute('data-social') });
+        setTimeout(function() { closeActionDropdowns(ui); }, 100);
+      });
+    }
+
+    // Download: This card
+    ui.downloadCard.querySelector('[data-action="download-card"]').addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      closeActionDropdowns(ui);
+      if (typeof gtag === 'function') gtag('event', 'carousel_download', { type: 'single' });
+      exportCardImage(ui);
+    });
+
+    // Download: All cards
+    ui.downloadCard.querySelector('[data-action="download-all"]').addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      closeActionDropdowns(ui);
+      if (typeof gtag === 'function') gtag('event', 'carousel_download', { type: 'all' });
+      exportAllCards(ui);
     });
 
     // Overlay click-to-close with generous margin around container to prevent
     // accidental dismissal from near-miss clicks on nav arrows
     ui.overlay.addEventListener('click', function(e) {
+      // Close dropdowns on any click outside action groups
+      if (!e.target.closest('.carousel-actions__group')) {
+        if (closeActionDropdowns(ui)) return;
+      }
       if (e.target === ui.overlay) {
         var containerRect = ui.overlay.querySelector('.carousel-container').getBoundingClientRect();
         var margin = 60;
@@ -886,7 +1402,10 @@
   // Close
   // ========================================================================
 
-  function closeCarousel(ui) {
+  function closeCarousel(ui, skipHistory) {
+    if (!ui) return;
+    activeUI = null;
+
     if (ui._onKeydown) {
       document.removeEventListener('keydown', ui._onKeydown);
       ui._onKeydown = null;
@@ -914,18 +1433,31 @@
     var savedScroll = parseInt(document.body.dataset.carouselScroll || '0', 10);
     document.body.style.top = '';
     window.scrollTo(0, savedScroll);
-    cleanUrlState();
+
+    // If closed via back button, history already popped — don't push/replace again
+    if (!skipHistory) {
+      // Pop the carousel state we pushed
+      history.back();
+    }
+
+    // Restore focus to the trigger button
+    var trigger = document.querySelector('.carousel-toggle');
+    if (trigger) trigger.focus();
   }
 
   // ========================================================================
   // URL State
   // ========================================================================
 
-  function updateUrlState(index) {
+  function updateUrlState(index, push) {
     var url = new URL(window.location);
     url.searchParams.set('view', 'cards');
     url.searchParams.set('s', index.toString());
-    history.replaceState(null, '', url.toString());
+    if (push) {
+      history.pushState({ carouselOpen: true }, '', url.toString());
+    } else {
+      history.replaceState({ carouselOpen: true }, '', url.toString());
+    }
   }
 
   function cleanUrlState() {
@@ -939,7 +1471,12 @@
   // Init
   // ========================================================================
 
+  var activeUI = null;
+
   function openCarousel(startIndex) {
+    // Guard against double-open
+    if (activeUI) return;
+
     var cards = parseCards();
     if (cards.length === 0) return;
     if (startIndex < 0 || startIndex >= cards.length) startIndex = 0;
@@ -950,9 +1487,16 @@
     document.body.style.top = '-' + scrollY + 'px';
     document.body.classList.add('carousel-open');
     var ui = renderCarousel(cards);
+    ui._firstNav = true;
+
+    if (typeof gtag === 'function') gtag('event', 'carousel_open');
 
     attachNavigation(ui);
     goToCard(ui, startIndex);
+    activeUI = ui;
+
+    // Move focus into the dialog
+    ui.closeBtn.focus();
   }
 
   document.addEventListener('DOMContentLoaded', function() {
@@ -967,6 +1511,15 @@
     if (params.get('view') === 'cards') {
       try { openCarousel(parseInt(params.get('s'), 10) || 0); } catch (e) { console.error('Carousel error:', e); }
     }
+
+    // Close carousel on browser back button
+    window.addEventListener('popstate', function() {
+      if (activeUI) {
+        closeCarousel(activeUI, true);
+      }
+      // Clean URL params in case we landed on a ?view=cards URL
+      cleanUrlState();
+    });
   });
 
 })();

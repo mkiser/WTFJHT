@@ -63,6 +63,7 @@
   var pauseIconSmall = '<svg class="icon" width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>';
 
   function play() {
+    if (typeof gtag === 'function') gtag('event', 'audio_play');
     audio.play();
     isPlaying = true;
     trigger.classList.add('is-playing');

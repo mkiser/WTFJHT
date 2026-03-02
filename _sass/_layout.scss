@@ -989,6 +989,34 @@ div.flex-item ul.package {
   }
 }
 
+// Carousel "Cards" icon button
+.carousel-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  color: #666;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
+
+  &:hover {
+    background: #f9f9f9;
+    border-color: #ccc;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+    color: #333;
+  }
+
+  .icon {
+    width: 16px;
+    height: 16px;
+  }
+}
+
 .share-widget__card {
   display: none;
   flex-direction: column;

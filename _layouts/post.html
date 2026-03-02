@@ -37,22 +37,14 @@ layout: default
     <div class="post-meta__actions">
       {% include audio-player-trigger.html podcast_file=page.podcast.file title=page.title description=page.description image=page.image %}
       {% include social.html %}
+      <button type="button" class="carousel-toggle" aria-label="View as cards" title="View as cards">
+        {% include_cached icons.html icon="cards" %}
+      </button>
       <div class="more-menu">
         <button type="button" class="more-menu__trigger" aria-label="More options" aria-expanded="false">
           {% include_cached icons.html icon="ellipsis" %}
         </button>
         <div class="more-menu__card" aria-hidden="true">
-          <button type="button" class="carousel-toggle more-menu__option">
-            <span class="more-menu__icon">
-              <svg width="14" height="14" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-                <rect x="1" y="1" width="7" height="7" rx="1"/>
-                <rect x="10" y="1" width="7" height="7" rx="1"/>
-                <rect x="1" y="10" width="7" height="7" rx="1"/>
-                <rect x="10" y="10" width="7" height="7" rx="1"/>
-              </svg>
-            </span>
-            <span class="more-menu__label">Carousel</span>
-          </button>
           <a class="more-menu__option" href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank" rel="noopener">
             <span class="more-menu__icon">{% include_cached icons.html icon="pencil" %}</span>
             <span class="more-menu__label">Improve this article</span>

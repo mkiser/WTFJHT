@@ -1,4 +1,5 @@
 function randomPost() {
+  if (typeof gtag === 'function') gtag('event', 'random_post');
   fetch('/api/v1/random.json')
     .then(function(response) {
       return response.json();

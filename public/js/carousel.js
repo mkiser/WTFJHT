@@ -146,8 +146,8 @@
     var readEl = document.querySelector('.post-meta__read-sentence');
     var readTime = '';
     if (readEl) {
-      var readMatch = readEl.textContent.match(/(\d+)[\s-]*min/i);
-      if (readMatch) readTime = readMatch[1] + '-min read';
+      var readMatch = readEl.textContent.match(/(\d+)(½?)[\s\u2011\u2010\u00AD-]*min/i);
+      if (readMatch) readTime = readMatch[1] + (readMatch[2] ? '\u00BD' : '') + '-min read';
     }
 
     // --- Cover card ---
@@ -579,16 +579,16 @@
     var desc = document.createElement('div');
     desc.className = 'carousel-card__desc';
     var parts = [];
-    if (card.storyCount) parts.push(card.storyCount + ' stories.');
-    if (card.readTime) parts.push(card.readTime.replace('-', '\u2011') + '.');
-    parts.push('Every day at 3pm Pacific.');
-    parts.push('Free. No spam. No ads.');
+    // if (card.storyCount) parts.push(card.storyCount + ' stories.');
+    // if (card.readTime) parts.push(card.readTime.replace('-', '\u2011') + '.');
+    parts.push('Subscribe to the political newsletter for normal people.');
+    parts.push('Curated daily and delivered to 200,000+ people every afternoon around 3 pm Pacific.');
     desc.innerHTML = parts.join('<br>');
     inner.appendChild(desc);
 
     var cc = document.createElement('div');
     cc.className = 'carousel-card__cc';
-    cc.textContent = '200,000+ subscribers';
+    cc.textContent = 'Free. No spam. Unsubscribe anytime.';
     inner.appendChild(cc);
 
     var btn = document.createElement('a');

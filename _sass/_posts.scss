@@ -12,14 +12,52 @@ article.post div.post-content > p {
   font-size: 1.1rem;
 }
 
-// "Today in one sentence" summary box
+// "Today in one sentence" summary block
 .tios {
-  padding: 1rem;
-  margin: 0 0 2em 0;
-  background-color: rgba(49, 49, 49, 0.03);
-  font-size: 1rem;
-  line-height: 1.6;
-  border-radius: 4px;
+  padding: 0.15rem 0 0.15rem 1.25rem;
+  margin: 0.75em 0 1.25em 0;
+  background: none;
+  border-left: 3px solid #c0392b;
+  font-size: 0.9rem;
+  line-height: 1.45;
+
+  .tios__title {
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.05rem;
+    line-height: 1.2;
+    margin-bottom: 0.1rem;
+  }
+
+  .tios__prefix {
+    font-style: italic;
+    font-weight: 400;
+    opacity: 0.75;
+  }
+
+  .tios__dot {
+    color: #c0392b;
+    font-weight: 400;
+  }
+
+  .tios__divider {
+    display: block;
+    width: 28px;
+    height: 2px;
+    background: #c0392b;
+    margin: 0.4rem 0 0.5rem;
+  }
+
+  .tios__body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: #666;
+  }
+
+  .tios__pilcrow {
+    color: #c0392b;
+    font-weight: 500;
+  }
 }
 
 // 404 page recent posts

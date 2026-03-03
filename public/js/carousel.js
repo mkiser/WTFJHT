@@ -220,6 +220,49 @@
     return cards;
   }
 
+  // ========================================================================
+  // TIOS Content Parser
+  // ========================================================================
+
+  function parseTiosCards() {
+    var cards = [];
+    var article = document.querySelector('article.post');
+    if (!article) return cards;
+
+    var tiosRaw = article.getAttribute('data-carousel-tios');
+    if (!tiosRaw || !tiosRaw.trim()) return cards;
+
+    // Decode XML entities using textarea (safe: content comes from our own
+    // server-rendered data attribute, not user input)
+    var tmp = document.createElement('textarea');
+    tmp.innerHTML = tiosRaw;
+    var tiosText = tmp.value;
+
+    var dayNum = article.getAttribute('data-carousel-day') || '';
+    var desc = article.getAttribute('data-carousel-desc') || '';
+    tmp.innerHTML = desc;
+    desc = tmp.value;
+    var dateStr = article.getAttribute('data-carousel-date') || '';
+
+    // Cover card
+    cards.push({
+      type: 'tios-cover',
+      dayNum: dayNum,
+      desc: desc,
+      dateStr: dateStr
+    });
+
+    // Sentence card
+    cards.push({
+      type: 'tios-sentence',
+      tiosText: tiosText,
+      dayNum: dayNum,
+      dateStr: dateStr
+    });
+
+    return cards;
+  }
+
   /**
    * Group body sentences into card-sized chunks based on character budget.
    */
@@ -296,12 +339,12 @@
   // DOM Renderer
   // ========================================================================
 
-  function renderCarousel(cards) {
+  function renderCarousel(cards, ariaLabel) {
     var overlay = document.createElement('div');
     overlay.className = 'carousel-overlay';
     overlay.setAttribute('role', 'dialog');
     overlay.setAttribute('aria-modal', 'true');
-    overlay.setAttribute('aria-label', 'Story cards');
+    overlay.setAttribute('aria-label', ariaLabel || 'Story cards');
 
     var header = document.createElement('div');
     header.className = 'carousel-header';
@@ -386,12 +429,8 @@
     downloadCard.setAttribute('aria-hidden', 'true');
 
     downloadCard.appendChild(createActionOption('button', { action: 'download-card', icon: _actionIcons.image, label: 'This card' }));
-    downloadCard.appendChild(createActionOption('button', { action: 'download-all', icon: _actionIcons.images, label: 'All cards' }));
-
-    var downloadSep = document.createElement('div');
-    downloadSep.className = 'carousel-actions__separator';
-    downloadCard.appendChild(downloadSep);
-    downloadCard.appendChild(createActionOption('button', { action: 'download-all-story', icon: _actionIcons.story, label: 'All cards (Story)' }));
+    downloadCard.appendChild(createActionOption('button', { action: 'download-all', icon: _actionIcons.images, label: 'All cards (4:5)' }));
+    downloadCard.appendChild(createActionOption('button', { action: 'download-all-story', icon: _actionIcons.story, label: 'All cards (9:16)'}));
 
     downloadGroup.appendChild(downloadCard);
     actions.appendChild(downloadGroup);
@@ -469,10 +508,7 @@
     var meta = document.createElement('div');
     meta.className = 'carousel-card__meta';
     var metaText = document.createElement('span');
-    var parts = [card.dateStr];
-    if (card.storyCount) parts.push(card.storyCount + (card.storyCount === 1 ? ' story' : ' stories'));
-    if (card.readTime) parts.push(card.readTime);
-    metaText.textContent = parts.join(' \u00B7 ');
+    metaText.textContent = card.dateStr + ' \u00B7 wtfjht.com';
     meta.appendChild(metaText);
     var img = document.createElement('img');
     img.className = 'carousel-card__logo';
@@ -618,6 +654,150 @@
   }
 
   // ========================================================================
+  // TIOS Card Renderers
+  // ========================================================================
+
+  function renderTiosCoverCard(inner, card) {
+    var logoSrc = '/favicon.svg?v=3';
+
+    var eyebrow = document.createElement('div');
+    eyebrow.className = 'carousel-card__tios-eyebrow';
+    eyebrow.textContent = 'WTF Just Happened Today?';
+    inner.appendChild(eyebrow);
+
+    var prefix = document.createElement('div');
+    prefix.className = 'carousel-card__tios-prefix';
+    prefix.textContent = 'Today in';
+    inner.appendChild(prefix);
+
+    var hero = document.createElement('div');
+    hero.className = 'carousel-card__tios-hero';
+    hero.textContent = 'One\nSentence';
+    var dot = document.createElement('span');
+    dot.className = 'carousel-card__tios-dot';
+    dot.textContent = '.';
+    hero.appendChild(dot);
+    inner.appendChild(hero);
+
+    var stroke = document.createElement('div');
+    stroke.className = 'carousel-card__tios-stroke';
+    inner.appendChild(stroke);
+
+    var dayquote = document.createElement('div');
+    dayquote.className = 'carousel-card__tios-dayquote';
+    var quoteText = card.desc ? card.desc.replace(/^["'\u201C\u201D]+|["'\u201C\u201D]+$/g, '') : '';
+    dayquote.textContent = 'Day ' + card.dayNum + ': \u201C' + quoteText + '\u201D';
+    inner.appendChild(dayquote);
+
+    var meta = document.createElement('div');
+    meta.className = 'carousel-card__tios-meta';
+    var metaText = document.createElement('span');
+    metaText.textContent = card.dateStr + ' \u00B7 wtfjht.com';
+    meta.appendChild(metaText);
+    var img = document.createElement('img');
+    img.className = 'carousel-card__tios-logo';
+    img.src = logoSrc;
+    img.alt = 'WTFJHT';
+    meta.appendChild(img);
+    inner.appendChild(meta);
+  }
+
+  function renderTiosSentenceCard(inner, card) {
+    var logoSrc = '/favicon.svg?v=3';
+
+    var header = document.createElement('div');
+    header.className = 'carousel-card__tios-s-header';
+    header.textContent = 'WTF Just Happened Today?';
+    inner.appendChild(header);
+
+    var title = document.createElement('div');
+    title.className = 'carousel-card__tios-s-title';
+    var titlePrefix = document.createElement('span');
+    titlePrefix.className = 'carousel-card__tios-s-prefix';
+    titlePrefix.textContent = 'Today in ';
+    title.appendChild(titlePrefix);
+    title.appendChild(document.createTextNode('One Sentence'));
+    var titleDot = document.createElement('span');
+    titleDot.className = 'carousel-card__tios-dot';
+    titleDot.textContent = '.';
+    title.appendChild(titleDot);
+    inner.appendChild(title);
+
+    var divider = document.createElement('div');
+    divider.className = 'carousel-card__tios-s-divider';
+    inner.appendChild(divider);
+
+    // Body: replace semicolons with red pilcrow separators, red concluding period
+    var body = document.createElement('div');
+    body.className = 'carousel-card__tios-s-body';
+
+    var text = card.tiosText || '';
+    // Split on semicolons
+    var parts = text.split(/;\s*/);
+    for (var i = 0; i < parts.length; i++) {
+      var part = parts[i];
+      if (i > 0) {
+        var sc = document.createElement('span');
+        sc.className = 'carousel-card__tios-sc';
+        sc.textContent = ' \u00B6 ';
+        body.appendChild(sc);
+      }
+      // For the last part, check if it ends with a period and make it red
+      if (i === parts.length - 1) {
+        var trimmed = part.replace(/\.\s*$/, '');
+        body.appendChild(document.createTextNode(trimmed));
+        var endDot = document.createElement('span');
+        endDot.className = 'carousel-card__tios-dot';
+        endDot.textContent = '.';
+        body.appendChild(endDot);
+      } else {
+        body.appendChild(document.createTextNode(part));
+      }
+    }
+    inner.appendChild(body);
+
+    var footer = document.createElement('div');
+    footer.className = 'carousel-card__tios-s-footer';
+    var footerText = document.createElement('span');
+    footerText.textContent = 'Day ' + card.dayNum + ' \u00B7 ' + card.dateStr + ' \u00B7 wtfjht.com';
+    footer.appendChild(footerText);
+    var ftLogo = document.createElement('img');
+    ftLogo.className = 'carousel-card__tios-logo';
+    ftLogo.src = logoSrc;
+    ftLogo.alt = '';
+    ftLogo.setAttribute('aria-hidden', 'true');
+    footer.appendChild(ftLogo);
+    inner.appendChild(footer);
+  }
+
+  /**
+   * Bidirectional font-size fitting for TIOS sentence body.
+   * Binary-searches for the largest font size (in design units) where the
+   * inner container's content still fits within the card height.  Works for
+   * both the small card viewer (scales down) and the full-size export
+   * (scales up to fill whitespace).
+   */
+  function fitTiosText(cardEl, inner) {
+    if (!inner) inner = cardEl.querySelector('.carousel-card__inner');
+    var bodyEl = inner ? inner.querySelector('.carousel-card__tios-s-body') : null;
+    if (!inner || !bodyEl) return;
+
+    var cardH = cardEl.clientHeight;
+
+    var lo = 16, hi = 52;
+    for (var i = 0; i < 14; i++) {
+      var mid = (lo + hi) / 2;
+      bodyEl.style.fontSize = 'calc(' + mid + ' * var(--s) * 1px)';
+      if (inner.scrollHeight > cardH) {
+        hi = mid;
+      } else {
+        lo = mid;
+      }
+    }
+    bodyEl.style.fontSize = 'calc(' + lo + ' * var(--s) * 1px)';
+  }
+
+  // ========================================================================
   // Card Content + Scale
   // ========================================================================
 
@@ -637,7 +817,9 @@
         'carousel-card--cover',
         'carousel-card--story',
         'carousel-card--countdown',
-        'carousel-card--cta'
+        'carousel-card--cta',
+        'carousel-card--tios-cover',
+        'carousel-card--tios-sentence'
       );
       cardEl.classList.add('carousel-card--' + card.type);
 
@@ -659,6 +841,12 @@
           break;
         case 'cta':
           renderCtaCard(inner, card);
+          break;
+        case 'tios-cover':
+          renderTiosCoverCard(inner, card);
+          break;
+        case 'tios-sentence':
+          renderTiosSentenceCard(inner, card);
           break;
       }
 
@@ -682,6 +870,9 @@
       updateScale(cardEl);
       if (card.type === 'story') {
         fitTextToCard(cardEl, newInner);
+      }
+      if (card.type === 'tios-sentence') {
+        fitTiosText(cardEl, newInner);
       }
 
       // Force reflow then animate
@@ -715,6 +906,9 @@
       updateScale(cardEl);
       if (card.type === 'story') {
         fitTextToCard(cardEl, built.inner);
+      }
+      if (card.type === 'tios-sentence') {
+        fitTiosText(cardEl, built.inner);
       }
     }
   }
@@ -816,7 +1010,8 @@
     }).then(function(canvas) {
       var dayNum = card.dayNum || '0';
       var cardIndex = ui.currentIndex + 1;
-      return deliverImage(canvas, dayNum, cardIndex);
+      var slug = ui._viewMode === 'tios' ? 'tios' : 'card';
+      return deliverImage(canvas, dayNum, cardIndex, slug);
     }).then(function() {
       ui.downloadTrigger.innerHTML = checkSvg;
       setTimeout(function() { ui.downloadTrigger.innerHTML = downloadIconOriginal; }, 1500);
@@ -858,12 +1053,31 @@
       case 'story': renderStoryCard(inner, card); break;
       case 'countdown': renderCountdownCard(inner, card); break;
       case 'cta': renderCtaCard(inner, card); break;
+      case 'tios-cover': renderTiosCoverCard(inner, card); break;
+      case 'tios-sentence': renderTiosSentenceCard(inner, card); break;
     }
 
     slide.appendChild(inner);
     cardEl.appendChild(slide);
     offscreen.appendChild(cardEl);
     document.body.appendChild(offscreen);
+
+    // Fix logo sizes for html2canvas — it may not resolve calc() with CSS
+    // custom properties on some mobile browsers, causing SVGs to render at
+    // their intrinsic size (256×256) instead of the intended dimensions.
+    var logoImgs = offscreen.querySelectorAll('img.carousel-card__logo, img.carousel-card__ft-logo, img.carousel-card__tios-logo');
+    for (var li = 0; li < logoImgs.length; li++) {
+      var logoW = logoImgs[li].classList.contains('carousel-card__ft-logo') ? 100 : 120;
+      if (logoImgs[li].classList.contains('carousel-card__tios-logo')) logoW = 100;
+      logoImgs[li].style.width = logoW + 'px';
+      logoImgs[li].style.height = logoW + 'px';
+    }
+    // CTA card wraps the logo img in a div.carousel-card__logo
+    var ctaLogos = offscreen.querySelectorAll('.carousel-card--cta .carousel-card__logo img');
+    for (var ci = 0; ci < ctaLogos.length; ci++) {
+      ctaLogos[ci].style.width = '120px';
+      ctaLogos[ci].style.height = '120px';
+    }
 
     // Wait for images to load
     var images = offscreen.querySelectorAll('img');
@@ -878,11 +1092,15 @@
       })(images[i]);
     }
 
-    var bgColor = card.type === 'cta' ? '#0f0f0f' : '#ffffff';
+    var bgColor = (card.type === 'cta' || card.type === 'tios-cover' || card.type === 'tios-sentence')
+      ? '#0a0a0a' : '#ffffff';
 
     return Promise.all(imagePromises).then(function() {
       if (card.type === 'story') {
         fitTextToCard(cardEl, inner);
+      }
+      if (card.type === 'tios-sentence') {
+        fitTiosText(cardEl, inner);
       }
 
       return h2c(offscreen, {
@@ -902,11 +1120,12 @@
     });
   }
 
-  function deliverImage(canvas, dayNum, cardIndex) {
+  function deliverImage(canvas, dayNum, cardIndex, slug) {
+    slug = slug || 'card';
     return new Promise(function(resolve) {
       canvas.toBlob(function(blob) {
         if (!blob) { resolve(); return; }
-        var filename = 'wtfjht-day-' + dayNum + '-card-' + cardIndex + '.png';
+        var filename = 'wtfjht-day-' + dayNum + '-' + slug + '-' + cardIndex + '.png';
         var file = new File([blob], filename, { type: 'image/png' });
 
         if (navigator.canShare && navigator.canShare({ files: [file] })) {
@@ -1006,16 +1225,17 @@
         for (var i = 0; i < blobs.length; i++) {
           var padded = (i + 1).toString();
           if (padded.length < 2) padded = '0' + padded;
-          var fname = 'wtfjht-day-' + dayNum + '-card-' + padded + format.suffix + '.png';
+          var slug = ui._viewMode === 'tios' ? 'tios' : 'card';
+          var fname = 'wtfjht-day-' + dayNum + '-' + slug + '-' + padded + format.suffix + '.png';
           files.push(new File([blobs[i]], fname, { type: 'image/png' }));
         }
         if (navigator.canShare({ files: files })) {
           return navigator.share({ files: files }).catch(function() {
-            return buildAndDownloadZip(blobs, dayNum, format.suffix);
+            return buildAndDownloadZip(blobs, dayNum, format.suffix, ui._viewMode);
           });
         }
       }
-      return buildAndDownloadZip(blobs, dayNum, format.suffix);
+      return buildAndDownloadZip(blobs, dayNum, format.suffix, ui._viewMode);
     }).then(function() {
       ui.downloadTrigger.textContent = '';
       ui.downloadTrigger.appendChild(checkSvg);
@@ -1036,18 +1256,20 @@
     });
   }
 
-  function buildAndDownloadZip(blobs, dayNum, suffix) {
+  function buildAndDownloadZip(blobs, dayNum, suffix, viewMode) {
     suffix = suffix || '';
+    var slug = viewMode === 'tios' ? 'tios' : 'card';
     return loadJSZip().then(function(JSZip) {
       var zip = new JSZip();
       for (var i = 0; i < blobs.length; i++) {
         var padded = (i + 1).toString();
         if (padded.length < 2) padded = '0' + padded;
-        zip.file('wtfjht-day-' + dayNum + '-card-' + padded + suffix + '.png', blobs[i]);
+        zip.file('wtfjht-day-' + dayNum + '-' + slug + '-' + padded + suffix + '.png', blobs[i]);
       }
       return zip.generateAsync({ type: 'blob' });
     }).then(function(zipBlob) {
-      triggerDownload(zipBlob, 'wtfjht-day-' + dayNum + '-cards' + suffix + '.zip');
+      var zipName = viewMode === 'tios' ? 'tios' : 'cards';
+      triggerDownload(zipBlob, 'wtfjht-day-' + dayNum + '-' + zipName + suffix + '.zip');
     });
   }
 
@@ -1057,7 +1279,7 @@
 
   function getCardShareUrl(ui) {
     var url = new URL(window.location);
-    url.searchParams.set('view', 'cards');
+    url.searchParams.set('view', ui._viewMode || 'cards');
     url.searchParams.set('s', ui.currentIndex.toString());
     return url.toString();
   }
@@ -1134,10 +1356,12 @@
       var card = ui.cards[index];
       var label = card.type;
       if (card.type === 'story') label = 'story ' + card.number;
+      if (card.type === 'tios-cover') label = 'Today in One Sentence cover';
+      if (card.type === 'tios-sentence') label = 'Today in One Sentence';
       ui.liveRegion.textContent = 'Card ' + (index + 1) + ' of ' + ui.cards.length + ', ' + label;
     }
 
-    updateUrlState(index, ui._firstNav);
+    updateUrlState(index, ui._firstNav, ui._viewMode);
     ui._firstNav = false;
   }
 
@@ -1486,17 +1710,22 @@
     }
 
     // Restore focus to the trigger button
-    var trigger = document.querySelector('.carousel-toggle');
-    if (trigger) trigger.focus();
+    if (ui._viewMode === 'tios') {
+      var moreTrigger = document.querySelector('.more-menu__trigger');
+      if (moreTrigger) moreTrigger.focus();
+    } else {
+      var trigger = document.querySelector('.carousel-toggle');
+      if (trigger) trigger.focus();
+    }
   }
 
   // ========================================================================
   // URL State
   // ========================================================================
 
-  function updateUrlState(index, push) {
+  function updateUrlState(index, push, viewMode) {
     var url = new URL(window.location);
-    url.searchParams.set('view', 'cards');
+    url.searchParams.set('view', viewMode || 'cards');
     url.searchParams.set('s', index.toString());
     if (push) {
       history.pushState({ carouselOpen: true }, '', url.toString());
@@ -1544,6 +1773,33 @@
     ui.closeBtn.focus();
   }
 
+  function openTiosCarousel(startIndex) {
+    if (activeUI) return;
+
+    var cards = parseTiosCards();
+    if (cards.length === 0) return;
+    if (startIndex < 0 || startIndex >= cards.length) startIndex = 0;
+
+    var scrollY = window.scrollY;
+    document.body.dataset.carouselScroll = scrollY;
+    document.body.style.top = '-' + scrollY + 'px';
+    document.body.classList.add('carousel-open');
+    var ui = renderCarousel(cards, 'Today in One Sentence');
+    ui._firstNav = true;
+    ui._viewMode = 'tios';
+
+    if (typeof gtag === 'function') gtag('event', 'tios_carousel_open');
+
+    attachNavigation(ui);
+    goToCard(ui, startIndex);
+    activeUI = ui;
+
+    ui.closeBtn.focus();
+  }
+
+  // Expose for click handler in default.html (separate script scope)
+  window.openTiosCarousel = openTiosCarousel;
+
   document.addEventListener('DOMContentLoaded', function() {
     var toggle = document.querySelector('.carousel-toggle');
     if (!toggle) return;
@@ -1555,6 +1811,8 @@
     var params = new URLSearchParams(window.location.search);
     if (params.get('view') === 'cards') {
       try { openCarousel(parseInt(params.get('s'), 10) || 0); } catch (e) { console.error('Carousel error:', e); }
+    } else if (params.get('view') === 'tios') {
+      try { openTiosCarousel(parseInt(params.get('s'), 10) || 0); } catch (e) { console.error('TIOS carousel error:', e); }
     }
 
     // Close carousel on browser back button

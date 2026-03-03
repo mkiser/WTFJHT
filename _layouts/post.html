@@ -7,7 +7,8 @@ layout: default
   data-carousel-desc="{{ page.description | smartify | xml_escape }}"
   data-carousel-date="{{ page.date | date: '%b %-d, %Y' }}"
   data-carousel-midterms="{{ site.data.dashboard.dates.midterms_2026 }}"
-  data-carousel-presidential="{{ site.data.dashboard.dates.presidential_2028 }}">
+  data-carousel-presidential="{{ site.data.dashboard.dates.presidential_2028 }}"
+  {% if page.todayInOneSentence and page.todayInOneSentence != '' %}data-carousel-tios="{{ page.todayInOneSentence | smartify | xml_escape }}"{% endif %}>
  {% if site.is_away_mode == true %}
  {% include away_mode.html %}
  {% endif %}
@@ -53,6 +54,12 @@ layout: default
             <span class="more-menu__icon">{% include_cached icons.html icon="history" %}</span>
             <span class="more-menu__label">Revision history</span>
           </a>
+          {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
+          <button type="button" class="more-menu__option" data-action="open-tios">
+            <span class="more-menu__icon">{% include_cached icons.html icon="cards" %}</span>
+            <span class="more-menu__label">Today in One Sentence</span>
+          </button>
+          {% endif %}
         </div>
       </div>
     </div>
@@ -79,9 +86,11 @@ layout: default
   {% endcomment %}
   <div class="post-content">
     {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
-    <p class="tios">
-      <em><strong>Today in one sentence</strong>: {{ page.todayInOneSentence | smartify }}</em>
-    </p>
+    <div class="tios">
+      <span class="tios__title"><span class="tios__prefix">Today in </span><strong>One Sentence</strong><span class="tios__dot">.</span></span>
+      <span class="tios__divider"></span>
+      {% assign tios_raw = page.todayInOneSentence | smartify | strip %}{% assign tios_last = tios_raw | slice: -1 %}{% if tios_last == '.' %}{% assign tios_len = tios_raw.size | minus: 1 %}{% assign tios_text = tios_raw | truncate: tios_len, '' | replace: '; ', ' <span class="tios__pilcrow">¶</span> ' %}{% else %}{% assign tios_text = tios_raw | replace: '; ', ' <span class="tios__pilcrow">¶</span> ' %}{% endif %}<span class="tios__body">{{ tios_text }}<span class="tios__dot">.</span></span>
+    </div>
     <hr>
     {% endif %}
 

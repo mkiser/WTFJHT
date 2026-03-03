@@ -490,6 +490,178 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
 }
 
 // --------------------------------------------------------------------------
+// Card: TIOS COVER
+// --------------------------------------------------------------------------
+.carousel-card--tios-cover {
+  background: #0a0a0a;
+  border: none;
+
+  .carousel-card__inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    padding: calc(64 * var(--s) * 1px);
+    padding-bottom: calc(140 * var(--s) * 1px);
+  }
+
+  .carousel-card__tios-eyebrow {
+    font-family: $carousel-mono;
+    font-size: calc(18 * var(--s) * 1px);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: rgba(245, 241, 235, 0.6);
+    margin-bottom: calc(48 * var(--s) * 1px);
+  }
+
+  .carousel-card__tios-prefix {
+    font-family: $carousel-serif;
+    font-size: calc(72 * var(--s) * 1px);
+    font-style: italic;
+    color: rgba(245, 241, 235, 0.75);
+    line-height: 1;
+  }
+
+  .carousel-card__tios-hero {
+    font-family: $carousel-serif;
+    font-size: calc(162 * var(--s) * 1px);
+    font-weight: 700;
+    color: #f5f1eb;
+    letter-spacing: -0.03em;
+    line-height: 0.87;
+    white-space: pre-line;
+    margin-bottom: calc(36 * var(--s) * 1px);
+  }
+
+  .carousel-card__tios-dot {
+    color: #e04a3e;
+    font-size: calc(72 * var(--s) * 1px);
+    font-weight: 700;
+  }
+
+  .carousel-card__tios-stroke {
+    width: calc(140 * var(--s) * 1px);
+    height: calc(4 * var(--s) * 1px);
+    background: #e04a3e;
+    margin-bottom: calc(36 * var(--s) * 1px);
+  }
+
+  .carousel-card__tios-dayquote {
+    font-family: $carousel-serif;
+    font-size: calc(38 * var(--s) * 1px);
+    font-style: italic;
+    color: rgba(245, 241, 235, 0.55);
+    line-height: 1.35;
+    margin-bottom: calc(40 * var(--s) * 1px);
+  }
+
+  .carousel-card__tios-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-family: $carousel-mono;
+    font-size: calc(20 * var(--s) * 1px);
+    color: rgba(245, 241, 235, 0.25);
+    letter-spacing: 0.04em;
+  }
+
+  .carousel-card__tios-logo {
+    width: calc(100 * var(--s) * 1px);
+    height: auto;
+    opacity: 0.25;
+  }
+}
+
+// --------------------------------------------------------------------------
+// Card: TIOS SENTENCE
+// --------------------------------------------------------------------------
+.carousel-card--tios-sentence {
+  background: #0a0a0a;
+  border: none;
+
+  .carousel-card__inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 0;
+  }
+
+  .carousel-card__tios-s-header {
+    font-family: $carousel-mono;
+    font-size: calc(18 * var(--s) * 1px);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: rgba(245, 241, 235, 0.6);
+    padding: calc(44 * var(--s) * 1px) calc(64 * var(--s) * 1px) 0;
+  }
+
+  .carousel-card__tios-s-title {
+    font-family: $carousel-serif;
+    font-size: calc(44 * var(--s) * 1px);
+    font-weight: 700;
+    color: #f5f1eb;
+    padding: calc(16 * var(--s) * 1px) calc(64 * var(--s) * 1px) calc(16 * var(--s) * 1px);
+    line-height: 1.2;
+  }
+
+  .carousel-card__tios-s-prefix {
+    font-style: italic;
+    font-weight: 400;
+    opacity: 0.75;
+  }
+
+  .carousel-card__tios-dot {
+    color: #e04a3e;
+    font-weight: 400;
+  }
+
+  .carousel-card__tios-s-divider {
+    width: calc(44 * var(--s) * 1px);
+    height: calc(3 * var(--s) * 1px);
+    background: #e04a3e;
+    margin-left: calc(64 * var(--s) * 1px);
+    margin-bottom: calc(24 * var(--s) * 1px);
+    flex-shrink: 0;
+  }
+
+  .carousel-card__tios-s-body {
+    font-family: $carousel-serif;
+    font-size: calc(34 * var(--s) * 1px);
+    line-height: 1.52;
+    color: rgba(245, 241, 235, 0.82);
+    padding: 0 calc(64 * var(--s) * 1px);
+  }
+
+  .carousel-card__tios-sc {
+    color: #e04a3e;
+    font-weight: 500;
+  }
+
+  .carousel-card__tios-s-footer {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-family: $carousel-mono;
+    font-size: calc(20 * var(--s) * 1px);
+    color: rgba(245, 241, 235, 0.25);
+    letter-spacing: 0.04em;
+    padding: calc(20 * var(--s) * 1px) calc(64 * var(--s) * 1px) calc(48 * var(--s) * 1px);
+    flex-shrink: 0;
+  }
+
+  .carousel-card__tios-logo {
+    width: calc(100 * var(--s) * 1px);
+    height: auto;
+    opacity: 0.25;
+  }
+}
+
+// --------------------------------------------------------------------------
 // Action bar (below card)
 // --------------------------------------------------------------------------
 .carousel-actions {
@@ -756,6 +928,42 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
     .carousel-card__btn {
       font-size: calc(36 * var(--s) * 1px);
       padding: calc(28 * var(--s) * 1px) calc(64 * var(--s) * 1px);
+    }
+  }
+
+  // TIOS cover card
+  .carousel-card--tios-cover {
+    .carousel-card__inner {
+      padding: calc(96 * var(--s) * 1px);
+      padding-bottom: calc(200 * var(--s) * 1px);
+    }
+    .carousel-card__tios-hero {
+      font-size: calc(180 * var(--s) * 1px);
+    }
+    .carousel-card__tios-dayquote {
+      font-size: calc(42 * var(--s) * 1px);
+      margin-bottom: calc(52 * var(--s) * 1px);
+    }
+  }
+
+  // TIOS sentence card
+  .carousel-card--tios-sentence {
+    .carousel-card__tios-s-header {
+      padding: calc(60 * var(--s) * 1px) calc(80 * var(--s) * 1px) 0;
+    }
+    .carousel-card__tios-s-title {
+      padding-left: calc(80 * var(--s) * 1px);
+      padding-right: calc(80 * var(--s) * 1px);
+    }
+    .carousel-card__tios-s-divider {
+      margin-left: calc(80 * var(--s) * 1px);
+    }
+    .carousel-card__tios-s-body {
+      padding-left: calc(80 * var(--s) * 1px);
+      padding-right: calc(80 * var(--s) * 1px);
+    }
+    .carousel-card__tios-s-footer {
+      padding: calc(28 * var(--s) * 1px) calc(80 * var(--s) * 1px) calc(60 * var(--s) * 1px);
     }
   }
 }

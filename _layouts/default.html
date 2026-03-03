@@ -532,6 +532,17 @@
           return;
         }
 
+        // Open TIOS carousel
+        var tiosBtn = e.target.closest('[data-action="open-tios"]');
+        if (tiosBtn) {
+          e.preventDefault();
+          closeAllCards();
+          if (typeof openTiosCarousel === 'function') {
+            try { openTiosCarousel(0); } catch (err) { console.error('TIOS carousel error:', err); }
+          }
+          return;
+        }
+
         // Copy link
         var copyBtn = e.target.closest('[data-action="copy"]');
         if (copyBtn) {

@@ -523,7 +523,7 @@
     ft.className = 'carousel-card__ft';
     var stamp = document.createElement('span');
     stamp.className = 'carousel-card__stamp';
-    stamp.textContent = 'Day ' + card.dayNum + ' \u00B7 ' + card.dateStr;
+    stamp.textContent = 'Day ' + card.dayNum + ' \u00B7 ' + card.dateStr + ' \u00B7 wtfjht.com';
     ft.appendChild(stamp);
     var ftLogo = document.createElement('img');
     ftLogo.className = 'carousel-card__ft-logo';

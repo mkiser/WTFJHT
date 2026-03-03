@@ -13,6 +13,10 @@
   var CHARS_FIRST = 400;
   var CHARS_CONT  = 450;
 
+  // Export format presets
+  var FORMAT_POST  = { width: 1080, height: 1350, suffix: '' };
+  var FORMAT_STORY = { width: 1080, height: 1920, suffix: '-story' };
+
   var ABBREVIATIONS = [
     'Rev', 'Dr', 'Mr', 'Mrs', 'Ms', 'St', 'Jr', 'Sr', 'Prof',
     'Rep', 'Sen', 'Gov', 'Gen', 'Sgt', 'Lt', 'Col', 'Maj', 'Capt', 'Cmdr', 'Adm',
@@ -259,6 +263,7 @@
     email: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>',
     image: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/></svg>',
     images: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="3" y="3" rx="2"/><path d="M7 21h10a2 2 0 0 0 2-2V7"/></svg>',
+    story: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="20" x="5" y="2" rx="2"/><line x1="12" x2="12.01" y1="18" y2="18"/></svg>',
     whatsapp: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51a3.04 3.04 0 0 0-.57-.01c-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413z"/></svg>',
     facebook: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>',
     bluesky: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.882 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg>',
@@ -382,6 +387,12 @@
 
     downloadCard.appendChild(createActionOption('button', { action: 'download-card', icon: _actionIcons.image, label: 'This card' }));
     downloadCard.appendChild(createActionOption('button', { action: 'download-all', icon: _actionIcons.images, label: 'All cards' }));
+
+    var downloadSep = document.createElement('div');
+    downloadSep.className = 'carousel-actions__separator';
+    downloadCard.appendChild(downloadSep);
+    downloadCard.appendChild(createActionOption('button', { action: 'download-all-story', icon: _actionIcons.story, label: 'All cards (Story)' }));
+
     downloadGroup.appendChild(downloadCard);
     actions.appendChild(downloadGroup);
 
@@ -817,14 +828,19 @@
     });
   }
 
-  function renderOffscreenAndCapture(h2c, card) {
+  function renderOffscreenAndCapture(h2c, card, format) {
+    format = format || FORMAT_POST;
+    var w = format.width;
+    var h = format.height;
+
     var offscreen = document.createElement('div');
     offscreen.className = 'carousel-export-offscreen';
-    offscreen.style.cssText = 'position:fixed;left:-9999px;top:0;width:1080px;height:1350px;overflow:hidden;z-index:-1;';
+    if (format === FORMAT_STORY) offscreen.classList.add('carousel-export--story');
+    offscreen.style.cssText = 'position:fixed;left:-9999px;top:0;width:' + w + 'px;height:' + h + 'px;overflow:hidden;z-index:-1;';
 
     var cardEl = document.createElement('div');
     cardEl.className = 'carousel-card';
-    cardEl.style.cssText = 'width:1080px;height:1350px;max-width:none;max-height:none;border-radius:0;';
+    cardEl.style.cssText = 'width:' + w + 'px;height:' + h + 'px;max-width:none;max-height:none;border-radius:0;';
     cardEl.style.setProperty('--s', '1');
 
     // Add card type class
@@ -871,8 +887,8 @@
 
       return h2c(offscreen, {
         scale: 1,
-        width: 1080,
-        height: 1350,
+        width: w,
+        height: h,
         backgroundColor: bgColor,
         useCORS: true,
         logging: false
@@ -940,15 +956,25 @@
     return _jszipPromise;
   }
 
-  function exportAllCards(ui) {
+  function exportAllCards(ui, format) {
     if (_exportAllInProgress || _exportInProgress) return;
     _exportAllInProgress = true;
+    format = format || FORMAT_POST;
 
     var cards = ui.cards;
     var total = cards.length;
     var dayNum = cards[0].dayNum || '0';
-    var originalHtml = ui.downloadTrigger.innerHTML;
-    var checkSvg = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 9 7 13 13 3"/></svg>';
+    var originalContent = ui.downloadTrigger.cloneNode(true);
+    var checkSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+    checkSvg.setAttribute('viewBox', '0 0 16 16');
+    checkSvg.setAttribute('fill', 'none');
+    checkSvg.setAttribute('stroke', 'currentColor');
+    checkSvg.setAttribute('stroke-width', '2');
+    checkSvg.setAttribute('stroke-linecap', 'round');
+    checkSvg.setAttribute('stroke-linejoin', 'round');
+    var polyline = document.createElementNS('http://www.w3.org/2000/svg', 'polyline');
+    polyline.setAttribute('points', '3 9 7 13 13 3');
+    checkSvg.appendChild(polyline);
 
     ui.downloadTrigger.textContent = '0/' + total;
 
@@ -959,7 +985,7 @@
       for (var i = 0; i < total; i++) {
         (function(idx) {
           chain = chain.then(function() {
-            return renderOffscreenAndCapture(h2c, cards[idx]);
+            return renderOffscreenAndCapture(h2c, cards[idx], format);
           }).then(function(canvas) {
             return new Promise(function(resolve) {
               canvas.toBlob(function(blob) {
@@ -980,38 +1006,48 @@
         for (var i = 0; i < blobs.length; i++) {
           var padded = (i + 1).toString();
           if (padded.length < 2) padded = '0' + padded;
-          var fname = 'wtfjht-day-' + dayNum + '-card-' + padded + '.png';
+          var fname = 'wtfjht-day-' + dayNum + '-card-' + padded + format.suffix + '.png';
           files.push(new File([blobs[i]], fname, { type: 'image/png' }));
         }
         if (navigator.canShare({ files: files })) {
           return navigator.share({ files: files }).catch(function() {
-            return buildAndDownloadZip(blobs, dayNum);
+            return buildAndDownloadZip(blobs, dayNum, format.suffix);
           });
         }
       }
-      return buildAndDownloadZip(blobs, dayNum);
+      return buildAndDownloadZip(blobs, dayNum, format.suffix);
     }).then(function() {
-      ui.downloadTrigger.innerHTML = checkSvg;
-      setTimeout(function() { ui.downloadTrigger.innerHTML = originalHtml; }, 1500);
+      ui.downloadTrigger.textContent = '';
+      ui.downloadTrigger.appendChild(checkSvg);
+      setTimeout(function() {
+        ui.downloadTrigger.textContent = '';
+        while (originalContent.firstChild) {
+          ui.downloadTrigger.appendChild(originalContent.firstChild);
+        }
+      }, 1500);
     }).catch(function(err) {
       console.error('Export all cards failed:', err);
-      ui.downloadTrigger.innerHTML = originalHtml;
+      ui.downloadTrigger.textContent = '';
+      while (originalContent.firstChild) {
+        ui.downloadTrigger.appendChild(originalContent.firstChild);
+      }
     }).then(function() {
       _exportAllInProgress = false;
     });
   }
 
-  function buildAndDownloadZip(blobs, dayNum) {
+  function buildAndDownloadZip(blobs, dayNum, suffix) {
+    suffix = suffix || '';
     return loadJSZip().then(function(JSZip) {
       var zip = new JSZip();
       for (var i = 0; i < blobs.length; i++) {
         var padded = (i + 1).toString();
         if (padded.length < 2) padded = '0' + padded;
-        zip.file('wtfjht-day-' + dayNum + '-card-' + padded + '.png', blobs[i]);
+        zip.file('wtfjht-day-' + dayNum + '-card-' + padded + suffix + '.png', blobs[i]);
       }
       return zip.generateAsync({ type: 'blob' });
     }).then(function(zipBlob) {
-      triggerDownload(zipBlob, 'wtfjht-day-' + dayNum + '-cards.zip');
+      triggerDownload(zipBlob, 'wtfjht-day-' + dayNum + '-cards' + suffix + '.zip');
     });
   }
 
@@ -1364,6 +1400,15 @@
       closeActionDropdowns(ui);
       if (typeof gtag === 'function') gtag('event', 'carousel_download', { type: 'all' });
       exportAllCards(ui);
+    });
+
+    // Download: All cards (Story 9:16)
+    ui.downloadCard.querySelector('[data-action="download-all-story"]').addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      closeActionDropdowns(ui);
+      if (typeof gtag === 'function') gtag('event', 'carousel_download', { type: 'all_story' });
+      exportAllCards(ui, FORMAT_STORY);
     });
 
     // Overlay click-to-close with generous margin around container to prevent

@@ -596,6 +596,12 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   display: inline !important;
 }
 
+.carousel-actions__separator {
+  height: 1px;
+  background: rgba(255,255,255,0.1);
+  margin: 0.25rem 0.6rem;
+}
+
 // --------------------------------------------------------------------------
 // Navigation
 // --------------------------------------------------------------------------
@@ -662,6 +668,96 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
 // --------------------------------------------------------------------------
 .carousel-export-offscreen .carousel-card {
   aspect-ratio: auto;
+}
+
+// --------------------------------------------------------------------------
+// 9:16 Story export overrides (1080×1920)
+// Uses same content, more vertical breathing room.
+// --------------------------------------------------------------------------
+.carousel-export--story {
+
+  // Cover card
+  .carousel-card--cover {
+    .carousel-card__inner {
+      padding: calc(96 * var(--s) * 1px);
+      padding-bottom: calc(240 * var(--s) * 1px);
+    }
+    .carousel-card__wm {
+      margin-bottom: calc(64 * var(--s) * 1px);
+    }
+    .carousel-card__day {
+      font-size: calc(160 * var(--s) * 1px);
+      margin-bottom: calc(40 * var(--s) * 1px);
+    }
+    .carousel-card__qt {
+      font-size: calc(52 * var(--s) * 1px);
+      margin-bottom: calc(48 * var(--s) * 1px);
+    }
+  }
+
+  // Story card
+  .carousel-card--story {
+    .carousel-card__inner {
+      padding: calc(96 * var(--s) * 1px);
+      padding-bottom: calc(48 * var(--s) * 1px);
+    }
+    .carousel-card__sn {
+      margin-bottom: calc(28 * var(--s) * 1px);
+    }
+    .carousel-card__cl {
+      margin-bottom: calc(32 * var(--s) * 1px);
+    }
+    .carousel-card__hl {
+      font-size: calc(52 * var(--s) * 1px);
+      margin-bottom: calc(32 * var(--s) * 1px);
+    }
+    .carousel-card__rl {
+      margin-bottom: calc(32 * var(--s) * 1px);
+    }
+    .carousel-card__bd {
+      font-size: calc(42 * var(--s) * 1px);
+      line-height: 1.58;
+    }
+    .carousel-card__more {
+      margin-top: calc(36 * var(--s) * 1px);
+    }
+  }
+
+  // Countdown card
+  .carousel-card--countdown {
+    .carousel-card__n {
+      font-size: calc(220 * var(--s) * 1px);
+      margin-bottom: calc(16 * var(--s) * 1px);
+    }
+    .carousel-card__l {
+      font-size: calc(40 * var(--s) * 1px);
+    }
+    .carousel-card__dv {
+      margin: calc(56 * var(--s) * 1px) auto;
+    }
+  }
+
+  // CTA card
+  .carousel-card--cta {
+    .carousel-card__inner {
+      padding: calc(96 * var(--s) * 1px) calc(96 * var(--s) * 1px);
+    }
+    .carousel-card__ch {
+      font-size: calc(72 * var(--s) * 1px);
+      margin-bottom: calc(52 * var(--s) * 1px);
+    }
+    .carousel-card__desc {
+      font-size: calc(40 * var(--s) * 1px);
+      margin-bottom: calc(52 * var(--s) * 1px);
+    }
+    .carousel-card__cc {
+      margin-bottom: calc(56 * var(--s) * 1px);
+    }
+    .carousel-card__btn {
+      font-size: calc(36 * var(--s) * 1px);
+      padding: calc(28 * var(--s) * 1px) calc(64 * var(--s) * 1px);
+    }
+  }
 }
 
 // --------------------------------------------------------------------------

@@ -1023,6 +1023,47 @@
     });
   }
 
+  /**
+   * Pre-rasterize SVG <img> elements to PNG data URIs.
+   * html2canvas cannot reliably render SVGs (especially on mobile), and
+   * fails entirely on SVGs that embed raster images via <image xlink:href>.
+   * Drawing them to a temporary canvas first gives h2c plain PNGs at the
+   * correct pixel dimensions.
+   */
+  function rasterizeSvgImages(container) {
+    var imgs = container.querySelectorAll('img');
+    var promises = [];
+    for (var i = 0; i < imgs.length; i++) {
+      (function(img) {
+        var src = img.getAttribute('src') || '';
+        if (src.indexOf('.svg') === -1) return;
+
+        var w = parseInt(img.style.width) || 120;
+        var h = parseInt(img.style.height) || 120;
+
+        promises.push(new Promise(function(resolve) {
+          var tempImg = new Image();
+          tempImg.onload = function() {
+            try {
+              var canvas = document.createElement('canvas');
+              canvas.width = w * 2;
+              canvas.height = h * 2;
+              var ctx = canvas.getContext('2d');
+              ctx.drawImage(tempImg, 0, 0, canvas.width, canvas.height);
+              img.src = canvas.toDataURL('image/png');
+            } catch (e) {
+              // Canvas tainted — leave original src
+            }
+            resolve();
+          };
+          tempImg.onerror = resolve;
+          tempImg.src = src;
+        }));
+      })(imgs[i]);
+    }
+    return promises.length > 0 ? Promise.all(promises) : Promise.resolve();
+  }
+
   function renderOffscreenAndCapture(h2c, card, format) {
     format = format || FORMAT_POST;
     var w = format.width;
@@ -1096,6 +1137,9 @@
       ? '#0a0a0a' : '#ffffff';
 
     return Promise.all(imagePromises).then(function() {
+      // Rasterize SVG images to PNG data URIs before html2canvas runs
+      return rasterizeSvgImages(offscreen);
+    }).then(function() {
       if (card.type === 'story') {
         fitTextToCard(cardEl, inner);
       }
@@ -1421,11 +1465,9 @@
     ui._onKeydown = onKeydown;
 
     // Card tap zones — shift left zone inward on mobile to avoid iOS swipe-back
-    ui.cardEl.addEventListener('click', function(e) {
-      if (ui._dragMoved) { ui._dragMoved = false; return; }
-      if (e.target.tagName === 'A' || e.target.closest('a')) return;
+    function handleTapZone(clientX) {
       var rect = ui.cardEl.getBoundingClientRect();
-      var x = e.clientX - rect.left;
+      var x = clientX - rect.left;
       var w = rect.width;
       if (window.innerWidth < 600) {
         var ratio = x / w;
@@ -1436,6 +1478,13 @@
         if (x < third) goPrev(ui);
         else if (x > third * 2) goNext(ui);
       }
+    }
+
+    // Click handler (fallback for desktop mouse clicks)
+    ui.cardEl.addEventListener('click', function(e) {
+      if (ui._dragMoved) { ui._dragMoved = false; return; }
+      if (e.target.tagName === 'A' || e.target.closest('a')) return;
+      handleTapZone(e.clientX);
     });
 
     // Swipe drag feedback with proportional threshold
@@ -1508,6 +1557,13 @@
           });
           setTimeout(snapCleanup, 400);
         }
+      } else if (!dragLocked) {
+        // No significant movement — treat as tap.
+        // Handles mobile where setPointerCapture can suppress the click event.
+        if (e.target.tagName !== 'A' && !e.target.closest('a')) {
+          handleTapZone(e.clientX);
+        }
+        ui._dragMoved = true; // Suppress redundant click if it also fires
       }
     });
     ui.cardEl.addEventListener('pointercancel', function() {

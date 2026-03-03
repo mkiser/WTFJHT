@@ -102,6 +102,7 @@
       {%- endif -%}
       {%- if post.todayInOneSentence -%}
       "todayInOneSentence" : {{ post.todayInOneSentence | jsonify }},
+      "todayInOneSentenceFormatted" : {{ post.todayInOneSentence | replace: '; ', ' ¶ ' | jsonify }},
       {%- endif -%}
       {%- if post.author -%}
       "author" : "{{ post.author }}",

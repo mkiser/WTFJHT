@@ -10,8 +10,8 @@
   'use strict';
 
   // Characters-per-card budget for story continuation
-  var CHARS_FIRST = 400;
-  var CHARS_CONT  = 450;
+  var CHARS_FIRST = 650;
+  var CHARS_CONT  = 750;
 
   // Export format presets
   var FORMAT_POST  = { width: 1080, height: 1350, suffix: '' };
@@ -291,6 +291,18 @@
     }
     if (current.length > 0) chunks.push(current);
 
+    // Merge sparse trailing chunks back into the previous card
+    if (chunks.length > 1) {
+      var lastLen = 0;
+      var lastChunk = chunks[chunks.length - 1];
+      for (var j = 0; j < lastChunk.length; j++) lastLen += lastChunk[j].length;
+      if (lastLen < 200) {
+        var prev = chunks[chunks.length - 2];
+        for (var k = 0; k < lastChunk.length; k++) prev.push(lastChunk[k]);
+        chunks.pop();
+      }
+    }
+
     return chunks;
   }
 
@@ -428,9 +440,10 @@
     downloadCard.className = 'carousel-actions__card';
     downloadCard.setAttribute('aria-hidden', 'true');
 
-    downloadCard.appendChild(createActionOption('button', { action: 'download-card', icon: _actionIcons.image, label: 'This card' }));
-    downloadCard.appendChild(createActionOption('button', { action: 'download-all', icon: _actionIcons.images, label: 'All cards (4:5)' }));
-    downloadCard.appendChild(createActionOption('button', { action: 'download-all-story', icon: _actionIcons.story, label: 'All cards (9:16)'}));
+    downloadCard.appendChild(createActionOption('button', { action: 'save-card', icon: _actionIcons.image, label: 'This card (4:5)' }));
+    downloadCard.appendChild(createActionOption('button', { action: 'save-card-story', icon: _actionIcons.story, label: 'This card (9:16)' }));
+    downloadCard.appendChild(createActionOption('button', { action: 'save-all', icon: _actionIcons.images, label: 'All cards (4:5)' }));
+    downloadCard.appendChild(createActionOption('button', { action: 'save-all-story', icon: _actionIcons.story, label: 'All cards (9:16)' }));
 
     downloadGroup.appendChild(downloadCard);
     actions.appendChild(downloadGroup);
@@ -782,19 +795,27 @@
     var bodyEl = inner ? inner.querySelector('.carousel-card__tios-s-body') : null;
     if (!inner || !bodyEl) return;
 
+    // Force reflow to ensure dimensions are available
     var cardH = cardEl.clientHeight;
+    if (!cardH) {
+      void cardEl.offsetHeight;
+      cardH = cardEl.clientHeight;
+    }
+    if (!cardH) return;
 
     var lo = 16, hi = 52;
     for (var i = 0; i < 14; i++) {
       var mid = (lo + hi) / 2;
       bodyEl.style.fontSize = 'calc(' + mid + ' * var(--s) * 1px)';
-      if (inner.scrollHeight > cardH) {
+      void inner.offsetHeight; // force layout recalc
+      if (inner.scrollHeight > cardH + 1) {
         hi = mid;
       } else {
         lo = mid;
       }
     }
-    bodyEl.style.fontSize = 'calc(' + lo + ' * var(--s) * 1px)';
+    // Step down slightly to absorb sub-pixel rounding from calc()
+    bodyEl.style.fontSize = 'calc(' + (lo - 0.5) + ' * var(--s) * 1px)';
   }
 
   // ========================================================================
@@ -982,7 +1003,7 @@
     return _html2canvasPromise;
   }
 
-  function exportCardImage(ui) {
+  function exportCardImage(ui, format) {
     if (_exportInProgress || _exportAllInProgress) return;
 
     // Don't capture mid-animation
@@ -990,8 +1011,10 @@
     if (animating) return;
 
     _exportInProgress = true;
+    format = format || FORMAT_POST;
+    var trigger = ui.downloadTrigger;
     var card = ui.cards[ui.currentIndex];
-    var downloadIconOriginal = ui.downloadTrigger.innerHTML;
+    var triggerOriginal = trigger.innerHTML;
     var spinnerSvg = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M8 2a6 6 0 1 1-6 6" style="animation:carousel-spin 0.8s linear infinite;transform-origin:center"/></svg>';
     var checkSvg = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="3 9 7 13 13 3"/></svg>';
 
@@ -1003,21 +1026,22 @@
       document.head.appendChild(style);
     }
 
-    ui.downloadTrigger.innerHTML = spinnerSvg;
+    trigger.innerHTML = spinnerSvg;
 
     loadHtml2Canvas().then(function(h2c) {
-      return renderOffscreenAndCapture(h2c, card);
+      return renderOffscreenAndCapture(h2c, card, format);
     }).then(function(canvas) {
       var dayNum = card.dayNum || '0';
       var cardIndex = ui.currentIndex + 1;
       var slug = ui._viewMode === 'tios' ? 'tios' : 'card';
-      return deliverImage(canvas, dayNum, cardIndex, slug);
+      var suffix = format.suffix || '';
+      return deliverImage(canvas, dayNum, cardIndex + suffix, slug);
     }).then(function() {
-      ui.downloadTrigger.innerHTML = checkSvg;
-      setTimeout(function() { ui.downloadTrigger.innerHTML = downloadIconOriginal; }, 1500);
+      trigger.innerHTML = checkSvg;
+      setTimeout(function() { trigger.innerHTML = triggerOriginal; }, 1500);
     }).catch(function(err) {
       console.error('Card export failed:', err);
-      ui.downloadTrigger.innerHTML = downloadIconOriginal;
+      trigger.innerHTML = triggerOriginal;
     }).then(function() {
       _exportInProgress = false;
     });
@@ -1164,6 +1188,47 @@
     });
   }
 
+  /**
+   * Show a "Tap to save" button when navigator.share() fails due to
+   * expired user gesture (common when rendering many cards takes time).
+   */
+  function shareWithGestureFallback(files) {
+    function tryShare() {
+      return navigator.share({ files: files });
+    }
+
+    if (!navigator.canShare || !navigator.canShare({ files: files })) {
+      return Promise.reject(new Error('Share not supported'));
+    }
+
+    return tryShare().catch(function(err) {
+      if (err.name === 'NotAllowedError' || err.name === 'AbortError') {
+        // Gesture expired or blocked — show a tap-to-share prompt
+        return new Promise(function(resolve, reject) {
+          var btn = document.createElement('button');
+          btn.className = 'carousel-share-ready';
+          btn.textContent = 'Tap to save';
+          var overlay = document.querySelector('.carousel-overlay');
+          if (!overlay) { reject(err); return; }
+          overlay.appendChild(btn);
+          void btn.offsetHeight;
+          btn.classList.add('is-visible');
+
+          btn.addEventListener('click', function() {
+            btn.classList.remove('is-visible');
+            setTimeout(function() { btn.remove(); }, 200);
+            tryShare().then(resolve).catch(function(e) {
+              if (e.name === 'AbortError') resolve(); // user cancelled
+              else reject(e);
+            });
+          });
+        });
+      }
+      if (err.name === 'AbortError') return Promise.resolve(); // user cancelled
+      throw err;
+    });
+  }
+
   function deliverImage(canvas, dayNum, cardIndex, slug) {
     slug = slug || 'card';
     return new Promise(function(resolve) {
@@ -1171,16 +1236,10 @@
         if (!blob) { resolve(); return; }
         var filename = 'wtfjht-day-' + dayNum + '-' + slug + '-' + cardIndex + '.png';
         var file = new File([blob], filename, { type: 'image/png' });
-
-        if (navigator.canShare && navigator.canShare({ files: [file] })) {
-          navigator.share({ files: [file] }).then(resolve).catch(function() {
-            triggerDownload(blob, filename);
-            resolve();
-          });
-        } else {
+        shareWithGestureFallback([file]).then(resolve).catch(function() {
           triggerDownload(blob, filename);
           resolve();
-        }
+        });
       }, 'image/png');
     });
   }
@@ -1223,11 +1282,12 @@
     if (_exportAllInProgress || _exportInProgress) return;
     _exportAllInProgress = true;
     format = format || FORMAT_POST;
+    var trigger = ui.downloadTrigger;
 
     var cards = ui.cards;
     var total = cards.length;
     var dayNum = cards[0].dayNum || '0';
-    var originalContent = ui.downloadTrigger.cloneNode(true);
+    var originalContent = trigger.cloneNode(true);
     var checkSvg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
     checkSvg.setAttribute('viewBox', '0 0 16 16');
     checkSvg.setAttribute('fill', 'none');
@@ -1239,7 +1299,7 @@
     polyline.setAttribute('points', '3 9 7 13 13 3');
     checkSvg.appendChild(polyline);
 
-    ui.downloadTrigger.textContent = '0/' + total;
+    trigger.textContent = '0/' + total;
 
     loadHtml2Canvas().then(function(h2c) {
       var blobs = [];
@@ -1253,7 +1313,7 @@
             return new Promise(function(resolve) {
               canvas.toBlob(function(blob) {
                 blobs.push(blob);
-                ui.downloadTrigger.textContent = (idx + 1) + '/' + total;
+                trigger.textContent = (idx + 1) + '/' + total;
                 resolve();
               }, 'image/png');
             });
@@ -1263,37 +1323,32 @@
 
       return chain.then(function() { return blobs; });
     }).then(function(blobs) {
-      // Try native share on mobile
-      if (navigator.canShare) {
-        var files = [];
-        for (var i = 0; i < blobs.length; i++) {
-          var padded = (i + 1).toString();
-          if (padded.length < 2) padded = '0' + padded;
-          var slug = ui._viewMode === 'tios' ? 'tios' : 'card';
-          var fname = 'wtfjht-day-' + dayNum + '-' + slug + '-' + padded + format.suffix + '.png';
-          files.push(new File([blobs[i]], fname, { type: 'image/png' }));
-        }
-        if (navigator.canShare({ files: files })) {
-          return navigator.share({ files: files }).catch(function() {
-            return buildAndDownloadZip(blobs, dayNum, format.suffix, ui._viewMode);
-          });
-        }
+      // Use share sheet with gesture fallback; falls back to zip download
+      var files = [];
+      for (var i = 0; i < blobs.length; i++) {
+        var padded = (i + 1).toString();
+        if (padded.length < 2) padded = '0' + padded;
+        var slug = ui._viewMode === 'tios' ? 'tios' : 'card';
+        var fname = 'wtfjht-day-' + dayNum + '-' + slug + '-' + padded + format.suffix + '.png';
+        files.push(new File([blobs[i]], fname, { type: 'image/png' }));
       }
-      return buildAndDownloadZip(blobs, dayNum, format.suffix, ui._viewMode);
+      return shareWithGestureFallback(files).catch(function() {
+        return buildAndDownloadZip(blobs, dayNum, format.suffix, ui._viewMode);
+      });
     }).then(function() {
-      ui.downloadTrigger.textContent = '';
-      ui.downloadTrigger.appendChild(checkSvg);
+      trigger.textContent = '';
+      trigger.appendChild(checkSvg);
       setTimeout(function() {
-        ui.downloadTrigger.textContent = '';
+        trigger.textContent = '';
         while (originalContent.firstChild) {
-          ui.downloadTrigger.appendChild(originalContent.firstChild);
+          trigger.appendChild(originalContent.firstChild);
         }
       }, 1500);
     }).catch(function(err) {
       console.error('Export all cards failed:', err);
-      ui.downloadTrigger.textContent = '';
+      trigger.textContent = '';
       while (originalContent.firstChild) {
-        ui.downloadTrigger.appendChild(originalContent.firstChild);
+        trigger.appendChild(originalContent.firstChild);
       }
     }).then(function() {
       _exportAllInProgress = false;
@@ -1618,6 +1673,7 @@
       toggleDropdown(ui.downloadTrigger, ui.downloadCard);
     });
 
+
     // Share: Copy link
     ui.shareCard.querySelector('[data-action="copy-link"]').addEventListener('click', function(e) {
       e.preventDefault();
@@ -1664,32 +1720,42 @@
       });
     }
 
-    // Download: This card
-    ui.downloadCard.querySelector('[data-action="download-card"]').addEventListener('click', function(e) {
+    // Save: This card (4:5)
+    ui.downloadCard.querySelector('[data-action="save-card"]').addEventListener('click', function(e) {
       e.preventDefault();
       e.stopPropagation();
       closeActionDropdowns(ui);
-      if (typeof gtag === 'function') gtag('event', 'carousel_download', { type: 'single' });
-      exportCardImage(ui);
+      if (typeof gtag === 'function') gtag('event', 'carousel_save', { type: 'single', format: '4x5' });
+      exportCardImage(ui, FORMAT_POST);
     });
 
-    // Download: All cards
-    ui.downloadCard.querySelector('[data-action="download-all"]').addEventListener('click', function(e) {
+    // Save: This card (9:16)
+    ui.downloadCard.querySelector('[data-action="save-card-story"]').addEventListener('click', function(e) {
       e.preventDefault();
       e.stopPropagation();
       closeActionDropdowns(ui);
-      if (typeof gtag === 'function') gtag('event', 'carousel_download', { type: 'all' });
-      exportAllCards(ui);
+      if (typeof gtag === 'function') gtag('event', 'carousel_save', { type: 'single', format: '9x16' });
+      exportCardImage(ui, FORMAT_STORY);
     });
 
-    // Download: All cards (Story 9:16)
-    ui.downloadCard.querySelector('[data-action="download-all-story"]').addEventListener('click', function(e) {
+    // Save: All cards (4:5)
+    ui.downloadCard.querySelector('[data-action="save-all"]').addEventListener('click', function(e) {
       e.preventDefault();
       e.stopPropagation();
       closeActionDropdowns(ui);
-      if (typeof gtag === 'function') gtag('event', 'carousel_download', { type: 'all_story' });
+      if (typeof gtag === 'function') gtag('event', 'carousel_save', { type: 'all', format: '4x5' });
+      exportAllCards(ui, FORMAT_POST);
+    });
+
+    // Save: All cards (9:16)
+    ui.downloadCard.querySelector('[data-action="save-all-story"]').addEventListener('click', function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      closeActionDropdowns(ui);
+      if (typeof gtag === 'function') gtag('event', 'carousel_save', { type: 'all', format: '9x16' });
       exportAllCards(ui, FORMAT_STORY);
     });
+
 
     // Overlay click-to-close with generous margin around container to prevent
     // accidental dismissal from near-miss clicks on nav arrows

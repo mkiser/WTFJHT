@@ -852,6 +852,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   .carousel-card--cover {
     .carousel-card__inner {
       padding: calc(96 * var(--s) * 1px);
+      padding-top: calc(220 * var(--s) * 1px);    // IG story safe area
       padding-bottom: calc(240 * var(--s) * 1px);
     }
     .carousel-card__wm {
@@ -871,6 +872,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   .carousel-card--story {
     .carousel-card__inner {
       padding: calc(96 * var(--s) * 1px);
+      padding-top: calc(220 * var(--s) * 1px);    // IG story safe area
       padding-bottom: calc(48 * var(--s) * 1px);
     }
     .carousel-card__sn {
@@ -912,7 +914,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   // CTA card
   .carousel-card--cta {
     .carousel-card__inner {
-      padding: calc(96 * var(--s) * 1px) calc(96 * var(--s) * 1px);
+      padding: calc(220 * var(--s) * 1px) calc(96 * var(--s) * 1px) calc(96 * var(--s) * 1px);  // IG story safe area top
     }
     .carousel-card__ch {
       font-size: calc(72 * var(--s) * 1px);
@@ -935,6 +937,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   .carousel-card--tios-cover {
     .carousel-card__inner {
       padding: calc(96 * var(--s) * 1px);
+      padding-top: calc(220 * var(--s) * 1px);    // IG story safe area
       padding-bottom: calc(200 * var(--s) * 1px);
     }
     .carousel-card__tios-hero {
@@ -949,7 +952,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   // TIOS sentence card
   .carousel-card--tios-sentence {
     .carousel-card__tios-s-header {
-      padding: calc(60 * var(--s) * 1px) calc(80 * var(--s) * 1px) 0;
+      padding: calc(220 * var(--s) * 1px) calc(80 * var(--s) * 1px) 0;  // IG story safe area top
     }
     .carousel-card__tios-s-title {
       padding-left: calc(80 * var(--s) * 1px);
@@ -965,6 +968,35 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
     .carousel-card__tios-s-footer {
       padding: calc(28 * var(--s) * 1px) calc(80 * var(--s) * 1px) calc(60 * var(--s) * 1px);
     }
+  }
+}
+
+// --------------------------------------------------------------------------
+// Share gesture fallback button
+// --------------------------------------------------------------------------
+.carousel-share-ready {
+  position: fixed;
+  bottom: 120px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  z-index: 100002;
+  background: #e04a3e;
+  color: #fff;
+  border: none;
+  border-radius: 28px;
+  padding: 14px 36px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+
+  &.is-visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
   }
 }
 

@@ -1340,18 +1340,7 @@
 
       return chain.then(function() { return blobs; });
     }).then(function(blobs) {
-      // Use share sheet with gesture fallback; falls back to zip download
-      var files = [];
-      for (var i = 0; i < blobs.length; i++) {
-        var padded = (i + 1).toString();
-        if (padded.length < 2) padded = '0' + padded;
-        var slug = ui._viewMode === 'tios' ? 'tios' : 'card';
-        var fname = 'wtfjht-day-' + dayNum + '-' + slug + '-' + padded + format.suffix + '.png';
-        files.push(new File([blobs[i]], fname, { type: 'image/png' }));
-      }
-      return shareWithGestureFallback(files).catch(function() {
-        return buildAndDownloadZip(blobs, dayNum, format.suffix, ui._viewMode);
-      });
+      return buildAndDownloadZip(blobs, dayNum, format.suffix, ui._viewMode);
     }).then(function() {
       trigger.textContent = '';
       trigger.appendChild(checkSvg);

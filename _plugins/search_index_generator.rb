@@ -25,6 +25,11 @@ end
 
 # Use a hook that runs after the site is written
 Jekyll::Hooks.register :site, :post_write do |site|
+  if ENV['SKIP_SEARCH_INDEX'] == 'true'
+    Jekyll.logger.info "Search Index:", "Skipping generation (SKIP_SEARCH_INDEX=true, existing index on S3 unchanged)"
+    next
+  end
+
   Jekyll.logger.info "Search Index:", "Generating paragraph-level search index..."
 
   # Load tag taxonomy for indexing

@@ -6,6 +6,9 @@ on:
       - master
   workflow_dispatch:  # allow manual triggering
 
+permissions:
+  contents: read
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
@@ -15,6 +18,22 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check for post changes
+        id: check
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "full_build=true" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
+            echo "full_build=true" >> "$GITHUB_OUTPUT"
+          elif git diff --name-only ${{ github.event.before }} HEAD | grep -q '^_posts/'; then
+            echo "full_build=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "full_build=false" >> "$GITHUB_OUTPUT"
+          fi
+          echo "Full build: $(cat "$GITHUB_OUTPUT")"
 
       - name: Set up Ruby with caching
         uses: ruby/setup-ruby@v1
@@ -24,8 +43,12 @@ jobs:
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
+        env:
+          SKIP_SEARCH_INDEX: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
+          SKIP_LEADERBOARD: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
 
       - name: Compress search index
+        if: steps.check.outputs.full_build == 'true'
         run: |
           # Keep original for Cloudflare Brotli, create gzip fallback
           gzip -9 -k _site/search-index.json

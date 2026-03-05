@@ -6,6 +6,11 @@ require 'json'
 require 'uri'
 
 Jekyll::Hooks.register :site, :post_write do |site|
+  if ENV['SKIP_LEADERBOARD'] == 'true'
+    Jekyll.logger.info "Sources Leaderboard:", "Skipping generation (SKIP_LEADERBOARD=true, existing data on S3 unchanged)"
+    next
+  end
+
   Jekyll.logger.info "Sources Leaderboard:", "Analyzing external links..."
 
   domain_counts = Hash.new(0)

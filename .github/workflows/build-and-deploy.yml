@@ -39,7 +39,7 @@ jobs:
 
       - name: Deploy to S3
         run: |
-          aws s3 sync _site/ s3://whatthefuckjusthappenedtoday.com \
+          aws s3 cp _site/ s3://whatthefuckjusthappenedtoday.com/ --recursive \
             --acl public-read \
             --cache-control "no-cache, no-store, must-revalidate"
 

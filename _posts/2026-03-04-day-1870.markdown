@@ -15,6 +15,10 @@ todayInOneSentence: 'The Republican-led House Oversight Committee voted to subpo
   had a sexual relationship with a subordinate who later died by suicide; and 54%
   of voters disapproved of Trump’s handling of Iran, and 52% said the U.S. shouldn’t
   have taken military action. '
+podcast:
+  file: "/uploads/Day-1870_-_Why-are-we-doing-this__-d1b478.mp3"
+  duration: '00:05:35'
+  length: 5356190
 ---
 
 1/ **The Republican-led House Oversight Committee voted to subpoena Attorney General Pam Bondi for a closed-door deposition about the Justice Department’s handling of records tied to Jeffrey Epstein**. Five Republicans joined Democrats to approve the subpoena after Rep. Nancy Mace said Bondi’s claim that the Justice Department released “all of the Epstein files” was “not” supported by the record. The department to date has released more than 3 million pages to comply with the Epstein Files Transparency Act, but the Justice Department has also acknowledged that it’s withholding millions more documents under claims of privilege. Lawmakers in both parties, however, have criticized the department’s process as both incomplete and sloppy, pointing to heavy redactions and episodes where victims’ information appeared in public releases. ([NBC News](https://www.nbcnews.com/politics/justice-department/pam-bondi-subpoenaed-testify-epstein-files-house-oversight-committee-rcna261779) / [Politico](https://www.politico.com/news/2026/03/04/pam-bondi-subpoena-epstien-00812960) / [CNN](https://www.cnn.com/2026/03/04/politics/bondi-epstein-files-subpoena-oversight-committee) / [New York Times](https://www.nytimes.com/2026/03/04/us/politics/house-panel-votes-to-subpoena-pam-bondi-over-epstein-files.html) / [CBS News](https://www.cbsnews.com/news/pam-bondi-subpoena-jeffrey-epstein-house-oversight-committee/) / [CNBC](https://www.cnbc.com/2026/03/04/epstein-files-nancy-mace-pam-bondi-subpoena-doj.html) / [The Hill](https://thehill.com/homenews/house/5767681-pam-bondi-subpoena-epstein-files-oversight/) / [Associated Press](https://apnews.com/article/bondi-subpoena-epstein-files-house-committee-b16a5ab68c4a37a3a533e5f2412d7a57))

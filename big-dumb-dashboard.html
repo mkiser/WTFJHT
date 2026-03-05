@@ -193,6 +193,13 @@ redirect_from:
   const wtfDays = daysSince(config.dates.wtf_start);
   const postCount = {{ site.posts | size }};
 
+  // Post counts by administration (computed at build time via Liquid)
+  {% assign trump1_posts = 0 %}{% assign biden_posts = 0 %}{% assign trump2_posts = 0 %}
+  {% for post in site.posts %}{% assign post_date = post.date | date: "%Y-%m-%d" %}{% if post_date >= "2017-01-20" and post_date < "2021-01-20" %}{% assign trump1_posts = trump1_posts | plus: 1 %}{% elsif post_date >= "2021-01-20" and post_date < "2025-01-20" %}{% assign biden_posts = biden_posts | plus: 1 %}{% elsif post_date >= "2025-01-20" %}{% assign trump2_posts = trump2_posts | plus: 1 %}{% endif %}{% endfor %}
+  const trump1Posts = {{ trump1_posts }};
+  const bidenPosts = {{ biden_posts }};
+  const trump2Posts = {{ trump2_posts }};
+
   let histHTML = `
     <div class="counter-card wtf">
       <span class="counter-number">${formatNumber(wtfDays)}</span>
@@ -203,6 +210,21 @@ redirect_from:
       <span class="counter-number">${formatNumber(postCount)}</span>
       <span class="counter-label">WTFJHT Posts</span>
       <span class="counter-meta">All-time</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(trump1Posts)}</span>
+      <span class="counter-label">Trump 1st Term Posts</span>
+      <span class="counter-meta">Jan 20, 2017 – Jan 19, 2021</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(bidenPosts)}</span>
+      <span class="counter-label">Biden Term Posts</span>
+      <span class="counter-meta">Jan 20, 2021 – Jan 19, 2025</span>
+    </div>
+    <div class="counter-card wtf">
+      <span class="counter-number">${formatNumber(trump2Posts)}</span>
+      <span class="counter-label">Trump 2nd Term Posts</span>
+      <span class="counter-meta">Jan 20, 2025 – present</span>
     </div>
   `;
 

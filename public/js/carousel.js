@@ -115,12 +115,28 @@
 
         var storyMatch = text.match(/^(\d+)\/\s/);
         var pollMatch = text.match(/^poll\/\s/i);
+
+        // Handle eyebrow headers (e.g. "🔴🔵 PRIMARIES" before <br> then "4/ ...")
+        if (!storyMatch && !pollMatch && el.querySelector('br')) {
+          var br = el.querySelector('br');
+          var afterText = '';
+          var node = br.nextSibling;
+          while (node) {
+            afterText += node.textContent;
+            node = node.nextSibling;
+          }
+          afterText = afterText.trim();
+          storyMatch = afterText.match(/^(\d+)\/\s/);
+          pollMatch = afterText.match(/^poll\/\s/i);
+          if (storyMatch || pollMatch) text = afterText;
+        }
+
         if (!storyMatch && !pollMatch) continue;
 
         var cardNumber = storyMatch ? storyMatch[1] : 'poll';
 
         // Full blurb text, stripped of prefix and sources
-        var fullText = el.textContent.trim().replace(/^(\d+|poll)\/\s*/i, '');
+        var fullText = text.replace(/^(\d+|poll)\/\s*/i, '');
         var innerHTML = el.innerHTML;
         if (innerHTML.match(/\((<a\s[\s\S]+)\)\s*$/)) {
           // Find the matching open paren for the final close paren
@@ -942,34 +958,35 @@
   }
 
   /**
-   * If story text overflows the card, scale down the inner container.
-   * Uses binary search for accuracy since text reflows non-linearly.
+   * Fit story card text by adjusting only the body font size.
+   * Binary-searches for the largest body size (28-44 scaled px) that
+   * keeps inner.scrollHeight within the card, so headlines, story
+   * numbers, and footers stay at a consistent size across all cards.
    */
   function fitTextToCard(cardEl, inner) {
     if (!inner) inner = cardEl.querySelector('.carousel-card__inner');
-    if (!inner) return;
+    var bodyEl = inner ? inner.querySelector('.carousel-card__bd') : null;
+    if (!inner || !bodyEl) return;
 
     var cardH = cardEl.clientHeight;
-    if (inner.scrollHeight <= cardH) return;
+    if (!cardH) {
+      void cardEl.offsetHeight;
+      cardH = cardEl.clientHeight;
+    }
+    if (!cardH) return;
 
-    // Binary search for a transform scale that fits
-    var lo = 0.5;
-    var hi = 1.0;
-    for (var i = 0; i < 10; i++) {
+    var lo = 28, hi = 44;
+    for (var i = 0; i < 14; i++) {
       var mid = (lo + hi) / 2;
-      inner.style.transform = 'scale(' + mid + ')';
-      inner.style.transformOrigin = 'top left';
-      inner.style.width = (100 / mid) + '%';
-      inner.style.height = (100 / mid) + '%';
-      if (inner.scrollHeight * mid > cardH) {
+      bodyEl.style.fontSize = 'calc(' + mid + ' * var(--s) * 1px)';
+      void inner.offsetHeight;
+      if (inner.scrollHeight > cardH + 1) {
         hi = mid;
       } else {
         lo = mid;
       }
     }
-    inner.style.transform = 'scale(' + lo + ')';
-    inner.style.width = (100 / lo) + '%';
-    inner.style.height = (100 / lo) + '%';
+    bodyEl.style.fontSize = 'calc(' + (lo - 0.5) + ' * var(--s) * 1px)';
   }
 
   // ========================================================================

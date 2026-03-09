@@ -1,0 +1,167 @@
+---
+title: Just Asking Questions.
+layout: page
+description: "Got a question, topic request, or feedback? Submit it anonymously."
+show_title: true
+---
+
+<div id="jaq-content">
+<p>I'm always trying to get better and would love your help. Got a question you want answered? A topic you think I should cover more? Feedback on how WTFJHT could serve you better? Just want to file a complaint? This is the place.</p>
+
+<p>I read every one of these. I also do periodic mailbag roundups where I answer reader questions in the newsletter.</p>
+
+<p>Prefer email? You can always reach me at <a href="mailto:matt@whatthefuckjusthappenedtoday.com">matt@whatthefuckjusthappenedtoday.com</a>.</p>
+
+<form id="jaq-form" class="jaq-form" novalidate>
+  <div class="jaq-field">
+    <label class="jaq-label" for="jaq-category">What kind of question is this?</label>
+    <select class="jaq-select" id="jaq-category" name="category" required>
+      <option value="" disabled selected>Choose one…</option>
+      <option value="A question for Matt">A question for Matt</option>
+      <option value="A topic I want covered more">A topic I want covered more</option>
+      <option value="Feedback or complaint">Feedback or complaint</option>
+      <option value="Something else entirely">Something else entirely</option>
+    </select>
+    <span class="jaq-field-error" id="jaq-category-error" aria-live="polite"></span>
+  </div>
+
+  <div class="jaq-field">
+    <label class="jaq-label" for="jaq-location">Where are you writing from?</label>
+    <input class="jaq-input" type="text" id="jaq-location" name="location"
+      maxlength="100" placeholder="e.g., Portland, OR">
+  </div>
+
+  <div class="jaq-field">
+    <label class="jaq-label" for="jaq-message">What's your question?</label>
+    <textarea class="jaq-textarea" id="jaq-message" name="message" required
+      minlength="10" maxlength="5000"
+      placeholder="No wrong answers. Well, almost."></textarea>
+    <span class="jaq-counter" id="jaq-counter">0 / 5,000</span>
+    <span class="jaq-field-error" id="jaq-message-error" aria-live="polite"></span>
+  </div>
+
+  <!-- Honeypot -->
+  <div class="jaq-hp" aria-hidden="true">
+    <label for="jaq-website">Website</label>
+    <input type="text" id="jaq-website" name="website" tabindex="-1" autocomplete="off">
+  </div>
+
+  <!-- Hidden tracking fields -->
+  <input type="hidden" id="jaq-ref" name="ref" value="">
+  <input type="hidden" id="jaq-edition" name="edition" value="">
+  <input type="hidden" id="jaq-rendered" name="_rendered" value="">
+
+  <div class="jaq-field">
+    <button type="submit" class="jaq-btn" id="jaq-submit">Submit</button>
+    <div class="jaq-error" id="jaq-form-error" role="alert" aria-live="polite"></div>
+  </div>
+</form>
+</div>
+
+<div id="jaq-confirmation" class="jaq-confirmation" style="display:none;">
+  <p>Got it! Thanks!</p>
+</div>
+
+<script>
+(function () {
+  var WORKER_URL = 'https://whatthefuckjusthappenedtoday.com/api/submit';
+
+  var form = document.getElementById('jaq-form');
+  var content = document.getElementById('jaq-content');
+  var confirmation = document.getElementById('jaq-confirmation');
+  var submitBtn = document.getElementById('jaq-submit');
+  var formError = document.getElementById('jaq-form-error');
+  var messageField = document.getElementById('jaq-message');
+  var counter = document.getElementById('jaq-counter');
+  var categoryError = document.getElementById('jaq-category-error');
+  var messageError = document.getElementById('jaq-message-error');
+
+  // On load: set rendered timestamp and read URL params
+  document.getElementById('jaq-rendered').value = Date.now();
+
+  var params = new URLSearchParams(window.location.search);
+  document.getElementById('jaq-ref').value = params.get('ref') || '';
+  document.getElementById('jaq-edition').value = params.get('edition') || '';
+
+  // Character counter
+  messageField.addEventListener('input', function () {
+    var len = this.value.length;
+    counter.textContent = len.toLocaleString() + ' / 5,000';
+  });
+
+  // Clear field errors on interaction
+  document.getElementById('jaq-category').addEventListener('change', function () {
+    categoryError.textContent = '';
+  });
+  messageField.addEventListener('input', function () {
+    messageError.textContent = '';
+  });
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    formError.textContent = '';
+    categoryError.textContent = '';
+    messageError.textContent = '';
+
+    var category = document.getElementById('jaq-category').value;
+    var message = messageField.value.trim();
+
+    // Client-side validation
+    var valid = true;
+    if (!category) {
+      categoryError.textContent = 'Please choose a category.';
+      valid = false;
+    }
+    if (message.length < 10) {
+      messageError.textContent = 'Your question needs to be at least 10 characters.';
+      valid = false;
+    } else if (message.length > 5000) {
+      messageError.textContent = 'Please keep your question under 5,000 characters.';
+      valid = false;
+    }
+    if (!valid) return;
+
+    // Disable button
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending\u2026';
+
+    var payload = {
+      category: category,
+      message: message,
+      location: document.getElementById('jaq-location').value.trim(),
+      ref: document.getElementById('jaq-ref').value,
+      edition: document.getElementById('jaq-edition').value,
+      website: document.getElementById('jaq-website').value,
+      _rendered: parseInt(document.getElementById('jaq-rendered').value, 10)
+    };
+
+    fetch(WORKER_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    })
+      .then(function (res) {
+        return res.json().then(function (data) { return { status: res.status, data: data }; });
+      })
+      .then(function (result) {
+        if (result.data.ok) {
+          content.style.display = 'none';
+          confirmation.style.display = 'block';
+        } else if (result.status === 429) {
+          formError.textContent = result.data.error || 'Too many submissions. Please try again in a few minutes.';
+          submitBtn.disabled = false;
+          submitBtn.textContent = 'Submit';
+        } else {
+          formError.textContent = result.data.error || 'Something went wrong. Try again?';
+          submitBtn.disabled = false;
+          submitBtn.textContent = 'Submit';
+        }
+      })
+      .catch(function () {
+        formError.textContent = "Couldn\u2019t reach the server. Try again?";
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Submit';
+      });
+  });
+})();
+</script>

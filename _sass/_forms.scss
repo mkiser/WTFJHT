@@ -1,0 +1,121 @@
+// Forms
+//
+// Styles for form pages (Just Asking Questions, future audience tools)
+
+.jaq-subtitle {
+  font-style: italic;
+  color: $gray-3;
+  font-size: 0.95em;
+  margin-top: -0.5em;
+}
+
+.jaq-field {
+  margin-bottom: 1.25em;
+}
+
+.jaq-label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.35em;
+  color: $gray-5;
+}
+
+.jaq-input,
+.jaq-select,
+.jaq-textarea {
+  width: 100%;
+  padding: 0.5em 0.6em;
+  font-family: $root-font-family;
+  font-size: 1em;
+  color: $gray-4;
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  box-sizing: border-box;
+
+  &:focus {
+    outline: none;
+    border-color: $gray-3;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.05);
+  }
+}
+
+.jaq-select {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23515151' stroke-width='1.5'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.6em center;
+  padding-right: 2em;
+}
+
+.jaq-textarea {
+  min-height: 8em;
+  resize: vertical;
+  line-height: 1.5;
+}
+
+.jaq-counter {
+  display: block;
+  text-align: right;
+  font-size: 0.8em;
+  color: $gray-3;
+  margin-top: 0.25em;
+}
+
+.jaq-hint {
+  display: block;
+  font-size: 0.85em;
+  color: $gray-3;
+  margin-top: 0.25em;
+}
+
+.jaq-btn {
+  display: inline-block;
+  padding: 0.65em 1.5em;
+  font-family: $root-font-family;
+  font-size: 1em;
+  font-weight: 600;
+  color: #fff;
+  background-color: $red;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: opacity 0.15s ease;
+
+  &:hover {
+    opacity: 0.9;
+  }
+
+  &:focus {
+    outline: 2px solid $red;
+    outline-offset: 2px;
+  }
+
+  &:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+}
+
+.jaq-error {
+  color: $red;
+  font-size: 0.9em;
+  margin-top: 0.5em;
+}
+
+.jaq-field-error {
+  color: $red;
+  font-size: 0.85em;
+  margin-top: 0.25em;
+}
+
+.jaq-hp {
+  display: none;
+}
+
+.jaq-confirmation {
+  p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+}

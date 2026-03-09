@@ -209,14 +209,25 @@
     }
 
     // --- Countdown card (data-driven dates with hardcoded fallbacks) ---
-    var midtermsStr = article.getAttribute('data-carousel-midterms');
-    var presidentialStr = article.getAttribute('data-carousel-presidential');
-    var midterms = midtermsStr ? new Date(midtermsStr + 'T00:00:00') : new Date(2026, 10, 3);
-    var presidential = presidentialStr ? new Date(presidentialStr + 'T00:00:00') : new Date(2028, 10, 7);
-    var now = new Date();
-    now.setHours(0, 0, 0, 0);
-    var daysMid = Math.ceil((midterms - now) / 86400000);
-    var daysPres = Math.ceil((presidential - now) / 86400000);
+    var midtermsStr = article.getAttribute('data-carousel-midterms') || '2026-11-03';
+    var presidentialStr = article.getAttribute('data-carousel-presidential') || '2028-11-07';
+
+    // Use Pacific time for "today" and UTC math to match big-dumb-dashboard
+    function parseCountdownDate(str) {
+      var parts = str.split('-');
+      return Date.UTC(+parts[0], +parts[1] - 1, +parts[2]);
+    }
+    var todayParts = new Intl.DateTimeFormat('en-US', {
+      timeZone: 'America/Los_Angeles',
+      year: 'numeric', month: '2-digit', day: '2-digit'
+    }).formatToParts(new Date());
+    var todayUTC = Date.UTC(
+      +todayParts.find(function(p) { return p.type === 'year'; }).value,
+      +todayParts.find(function(p) { return p.type === 'month'; }).value - 1,
+      +todayParts.find(function(p) { return p.type === 'day'; }).value
+    );
+    var daysMid = Math.floor((parseCountdownDate(midtermsStr) - todayUTC) / 86400000);
+    var daysPres = Math.floor((parseCountdownDate(presidentialStr) - todayUTC) / 86400000);
 
     if (daysMid > 0 || daysPres > 0) {
       cards.push({

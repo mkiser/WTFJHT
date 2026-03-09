@@ -1,6 +1,14 @@
 ---
 title: Day 1843
 date: 2026-02-05 15:54:00 -08:00
+tags:
+- economy
+- national-security
+- labor
+- congress
+- judiciary
+- impeachment
+- subpoena
 description: '"Two things can be true."'
 image: "/uploads/day1843trump.jpg"
 todayInOneSentence: Democrats threatened to block the Homeland Security funding bill
@@ -17,14 +25,6 @@ podcast:
   file: "/uploads/Day 1843_ _Two things can be true._.mp3"
   duration: '00:05:05'
   length: 4886403
-tags:
-- economy
-- national-security
-- labor
-- congress
-- judiciary
-- impeachment
-- subpoena
 ---
 
 1/ **Democrats threatened to block the Homeland Security funding bill unless Republicans accepted “dramatic changes” to ICE oversight and operations**, setting up a shutdown deadline on Feb. 13. Senate Majority Leader John Thune called the Democratic demands “unrealistic,” while Democrats said they would withhold votes without new limits after the Minneapolis shootings. The Democratic proposal seeks judicial warrant requirements in certain cases, rules on masks and identification, and limits on stops based on race, language, or location, but Republicans said they’d reject most of those demands. Thune said he was prepared to move another stopgap funding bill if negotiations don’t produce a deal before the deadline. ([NBC News](https://apnews.com/article/homeland-security-shutdown-ice-democrats-demands-ff3aadec8eeab250aea5bf8a8ecdb960) / [Bloomberg](https://apnews.com/article/homeland-security-shutdown-ice-democrats-demands-ff3aadec8eeab250aea5bf8a8ecdb960) / [Wall Street Journal](https://apnews.com/article/homeland-security-shutdown-ice-democrats-demands-ff3aadec8eeab250aea5bf8a8ecdb960) / [Associated Press](https://apnews.com/article/homeland-security-shutdown-ice-democrats-demands-ff3aadec8eeab250aea5bf8a8ecdb960) / [Politico](https://www.politico.com/live-updates/2026/02/05/congress/dhs-negotiations-thune-shutdown-00767076) / [Axios](https://www.axios.com/2026/02/05/democrats-schumer-ice-government-shutdown))

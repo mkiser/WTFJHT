@@ -1,6 +1,14 @@
 ---
 title: Day 1855
 date: 2026-02-17 16:19:00 -08:00
+tags:
+- immigration
+- national-security
+- congress
+- lawsuit
+- judiciary
+- resignation
+- media
 description: '"Dissemble and disassemble historical truths."'
 image: "/uploads/day1855trump.jpg"
 todayInOneSentence: Congressional Democrats sent the White House a new counterproposal
@@ -25,14 +33,6 @@ podcast:
   file: "/uploads/Day 1855_ _Dissemble and disassemble historical truths._.mp3"
   duration: '00:04:19'
   length: 4157483
-tags:
-- immigration
-- national-security
-- congress
-- lawsuit
-- judiciary
-- resignation
-- media
 ---
 
 1/ **Congressional Democrats sent the White House a new counterproposal to reopen the Department of Homeland Security after the agency’s funding lapsed Saturday**. Democrats have demanded new limits on ICE and Customs and Border Protection, including a ban on agents wearing masks, mandatory body cameras, and stricter judicial warrant requirements. The White House, however, said the sides remained “pretty far apart.” Even with DHS currently unfunded, operations tied to immigration enforcement, however, are expected to continue largely unaffected because ICE has separate funding from last year’s “One Big Beautiful Bill.” ([CNBC](https://www.cnbc.com/2026/02/17/dhs-shutdown-democrats-trump-counteroffer-funding-homeland.html) / [New York Times](https://www.nytimes.com/2026/02/17/us/politics/trump-dhs-shutdown-democrats.html) / [The Hill](https://thehill.com/homenews/senate/5740751-department-homeland-security-shutdown/) / [Politico](https://www.politico.com/news/2026/02/17/white-house-on-dhs-funding-talks-parties-are-still-pretty-far-apart-00784599))

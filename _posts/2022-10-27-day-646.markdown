@@ -9,6 +9,7 @@ tags:
 - voting-rights
 - gun-policy
 - lawsuit
+- congress
 description: '"The great stagnation."'
 image: "/uploads/day-646-biden.jpg"
 todayInOneSentence: 'The U.S. economy grew in the third quarter, marking its first

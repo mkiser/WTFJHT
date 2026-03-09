@@ -9,6 +9,8 @@ tags:
 - indictment
 - national-security
 - labor
+- trump-trials
+- judiciary
 description: '"There will be a change."'
 image: "/uploads/day-1171-biden.jpg"
 todayInOneSentence: 'Biden called for "an immediate ceasefire" in Gaza to "protect

@@ -9,6 +9,8 @@ tags:
 - energy
 - protests
 - tech-policy
+- congress
+- climate
 layout: post
 description: Provocation.
 image:

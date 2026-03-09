@@ -9,6 +9,8 @@ tags:
 - indictment
 - congress
 - protests
+- national-security
+- labor
 description: '"Very concerning."'
 image: "/uploads/day115-biden.jpg"
 todayInOneSentence: The House Homeland Security Committee agreed to create a bipartisan,

@@ -9,6 +9,8 @@ tags:
 - corruption
 - economy
 - national-security
+- nomination
+- immigration
 description: '"Contingencies and speculation."'
 image: "/uploads/1429.jpg"
 todayInOneSentence: Congress plans to try and pass a two-day government funding extension

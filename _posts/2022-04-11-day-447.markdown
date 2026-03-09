@@ -9,6 +9,8 @@ tags:
 - covid
 - energy
 - gun-policy
+- economy
+- indictment
 description: '"We control them all."'
 image: "/uploads/day-447-biden.jpg"
 todayInOneSentence: 'The Jan. 6 committee reportedly has enough evidence to refer

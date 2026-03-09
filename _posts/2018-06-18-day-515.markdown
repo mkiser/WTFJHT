@@ -9,6 +9,8 @@ tags:
 - russia
 - national-security
 - congress
+- foreign-policy
+- oversight
 description: Not on my watch.
 image: "/uploads/515.jpg"
 todayInOneSentence: Hundreds of children separated from their parents are living inside

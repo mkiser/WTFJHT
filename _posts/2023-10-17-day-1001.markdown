@@ -9,6 +9,8 @@ tags:
 - ukraine
 - gun-policy
 - congress
+- impeachment
+- russia
 description: '"Whatever it takes."'
 image: "/uploads/day-1001-biden.jpg"
 todayInOneSentence: Biden will travel to Israel to meet with Prime Minister Benjamin

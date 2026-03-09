@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - healthcare
+- lgbtq-rights
+- foreign-policy
 description: '"Just can''t do it."'
 image: "/uploads/281-biden.jpg"
 todayInOneSentence: Joe Manchin panned a proposed billionaire income tax to help pay

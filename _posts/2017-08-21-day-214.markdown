@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - russia
 - media
+- protests
+- voting-rights
 description: 'A path forward. '
 image: "/uploads/214.jpg"
 ---

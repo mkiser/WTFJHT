@@ -9,6 +9,8 @@ tags:
 - energy
 - media
 - national-security
+- criminal-justice
+- russia
 description: Looks bad.
 image: "/uploads/344.jpg"
 ---

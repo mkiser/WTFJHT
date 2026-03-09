@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - indictment
+- healthcare
+- protests
 description: '"Alarming."'
 image: "/uploads/day-377-biden.jpg"
 todayInOneSentence: A bipartisan group of governors told Biden that the country needs

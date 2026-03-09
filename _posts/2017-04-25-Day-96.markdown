@@ -9,6 +9,8 @@ tags:
 - healthcare
 - lgbtq-rights
 - congress
+- trade
+- foreign-policy
 layout: post
 description: Confident.
 image:

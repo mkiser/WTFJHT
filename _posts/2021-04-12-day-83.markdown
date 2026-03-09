@@ -9,6 +9,8 @@ tags:
 - immigration
 - nomination
 - labor
+- criminal-justice
+- indictment
 description: '"Accidental discharge."'
 image: "/uploads/day93-biden.jpg"
 todayInOneSentence: The White House put the creation a national police oversight commission

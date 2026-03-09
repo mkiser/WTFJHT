@@ -9,6 +9,8 @@ tags:
 - covid
 - reproductive-rights
 - lgbtq-rights
+- national-security
+- education
 description: '"Deeply concerning."'
 image: "/uploads/day-448-biden.jpg"
 todayInOneSentence: U.S. inflation hit a 40-year high of 8.5% in March; the Biden

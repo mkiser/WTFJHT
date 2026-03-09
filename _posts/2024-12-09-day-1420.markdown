@@ -9,6 +9,8 @@ tags:
 - immigration
 - covid
 - economy
+- congress
+- ukraine
 description: '"Can’t guarantee anything."'
 tag_excerpts:
   pardon: Trump confirmed that he will "most likely" pardon his supporters involved

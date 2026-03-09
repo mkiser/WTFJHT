@@ -9,6 +9,8 @@ tags:
 - immigration
 - economy
 - labor
+- national-security
+- education
 description: '"Contempt for the norms of decent, ethical and lawful behavior."'
 image: "/uploads/day-1338-biden-harrios.jpg"
 todayInOneSentence: The Springfield City School District has received 36 shooting

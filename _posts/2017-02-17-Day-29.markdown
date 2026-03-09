@@ -9,6 +9,8 @@ tags:
 - healthcare
 - national-security
 - media
+- oversight
+- climate
 layout: post
 description: Mobilized.
 image:

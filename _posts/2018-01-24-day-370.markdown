@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - voting-rights
+- immigration
+- economy
 description: Looking forward to it.
 image: "/uploads/370.jpg"
 ---

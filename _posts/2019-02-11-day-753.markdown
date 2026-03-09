@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - taxes
 - congress
+- russia
+- ukraine
 description: 'Generally working. '
 image: "/uploads/753.jpg"
 todayInOneSentence: Negotiations to avoid another partial government shutdown fell

@@ -9,6 +9,8 @@ tags:
 - polling
 - congress
 - media
+- judiciary
+- reproductive-rights
 description: '"Not the worst case scenario."'
 image: "/uploads/day-1360-biden-harris.jpg"
 todayInOneSentence: Hurricane Milton left at least 12 people dead, and more than 3

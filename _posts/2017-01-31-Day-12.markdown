@@ -9,6 +9,8 @@ tags:
 - judiciary
 - lgbtq-rights
 - supreme-court
+- media
+- voting-rights
 description: Controversy.
 image:
   twitter: "/public/12-t.jpg"

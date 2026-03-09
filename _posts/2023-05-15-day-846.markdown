@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - education
 - indictment
+- economy
+- civil-rights
 description: '"Remain optimistic."'
 image: "/uploads/biden-846.jpg"
 todayInOneSentence: 'A man armed with a metal baseball bat attacked two staff members

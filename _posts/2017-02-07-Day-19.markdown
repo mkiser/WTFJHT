@@ -9,6 +9,8 @@ tags:
 - education
 - media
 - congress
+- nomination
+- climate
 layout: post
 description: Challenged.
 image:

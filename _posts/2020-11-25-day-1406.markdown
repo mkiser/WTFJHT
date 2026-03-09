@@ -9,6 +9,8 @@ tags:
 - national-security
 - cabinet
 - labor
+- economy
+- indictment
 description: '"A truly fantastic Thanksgiving!"'
 image: "/uploads/1406.jpg"
 todayInOneSentence: Trump pardoned for Michael Flynn; Biden dismissed pursuing investigations

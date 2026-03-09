@@ -9,6 +9,8 @@ tags:
 - media
 - lawsuit
 - congress
+- nomination
+- supreme-court
 description: '"Outrageous."'
 image: "/uploads/biden-66.jpg"
 todayInOneSentence: 'Georgia''s governor signed new voting restrictions into law;

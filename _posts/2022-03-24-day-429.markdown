@@ -9,6 +9,8 @@ tags:
 - indictment
 - nomination
 - congress
+- covid
+- foreign-policy
 description: '"What will stop him."'
 image: "/uploads/day-429-biden.jpg"
 todayInOneSentence: The U.S. and its allies imposed new sanctions on more than 400

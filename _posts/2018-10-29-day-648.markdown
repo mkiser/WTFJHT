@@ -9,6 +9,8 @@ tags:
 - polling
 - congress
 - immigration
+- national-security
+- education
 description: Purveyor of hate speech.
 image: "/uploads/648.jpg"
 todayInOneSentence: A man armed with a semiautomatic assault-style rifle shot and

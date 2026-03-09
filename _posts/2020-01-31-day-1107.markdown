@@ -9,6 +9,8 @@ tags:
 - immigration
 - ukraine
 - national-security
+- covid
+- voting-rights
 description: '"A grand tragedy."'
 image: "/uploads/1107.jpg"
 todayInOneSentence: 'The Senate voted to block new new witnesses in Trump''s impeachment

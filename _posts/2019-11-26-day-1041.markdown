@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - ukraine
 - mueller-investigation
+- congress
+- national-security
 description: Bleak.
 image: "/uploads/1041.jpg"
 todayInOneSentence: The House Judiciary Committee will hold its first hearing next

@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - mueller-investigation
+- foreign-policy
+- national-security
 description: Misplaced certainty.
 image: "/uploads/881.jpg"
 todayInOneSentence: The EPA rolled back Obama's Clean Power Plan; Hope Hicks refused

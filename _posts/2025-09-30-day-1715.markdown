@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - civil-rights
 - israel-palestine
+- congress
+- labor
 description: '"A war from within."'
 image: "/uploads/day1715trump.jpg"
 todayInOneSentence: Defense Secretary Pete Hegseth assembled hundreds of the U.S.

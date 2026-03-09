@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - indictment
 - nomination
+- congress
+- supreme-court
 description: '"I''m not supposed to be here."'
 image: "/uploads/day-1273-biden.jpg"
 todayInOneSentence: 'What we know about the Trump assassination attempt so far; Biden

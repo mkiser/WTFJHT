@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - gun-policy
 - congress
+- voting-rights
+- nomination
 description: '"We dissent."'
 image: "/uploads/day-521-biden.jpg"
 todayInOneSentence: In a historic reversal, the Supreme Court overturned Roe v. Wade

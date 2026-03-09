@@ -9,6 +9,8 @@ tags:
 - tech-policy
 - congress
 - immigration
+- voting-rights
+- oversight
 description: Not looking good.
 image: "/uploads/333.jpg"
 ---

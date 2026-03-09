@@ -7,6 +7,8 @@ tags:
 - lgbtq-rights
 - civil-rights
 - national-security
+- media
+- lawsuit
 description: '"Infamous and disgraceful."'
 image: "/uploads/day-1473-trump.jpg"
 todayInOneSentence: Trump’s Justice Department fired dozens of federal prosecutors

@@ -9,6 +9,8 @@ tags:
 - congress
 - voting-rights
 - trade
+- indictment
+- mueller-investigation
 description: A cutthroat death match.
 image: "/uploads/585.jpg"
 todayInOneSentence: The U.S. and Mexico reached an agreement to end NAFTA and replace

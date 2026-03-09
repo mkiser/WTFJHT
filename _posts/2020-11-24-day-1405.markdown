@@ -9,6 +9,8 @@ tags:
 - nomination
 - media
 - presidential-election
+- economy
+- housing
 description: '"Meets this moment."'
 image: "/uploads/1405.jpg"
 todayInOneSentence: Biden introduced six of his top foreign policy and national security

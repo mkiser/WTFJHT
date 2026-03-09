@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - jan-6
 - congress
+- subpoena
+- immigration
 description: '"A new generation of leadership."'
 image: "/uploads/day-756-biden.jpg"
 todayInOneSentence: 'Inflation climbed 6.4% in January, down from 6.5% in December,

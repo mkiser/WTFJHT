@@ -9,6 +9,8 @@ tags:
 - pardon
 - economy
 - immigration
+- congress
+- foreign-policy
 description: 'Retweet rampage. '
 image: "/uploads/208.jpg"
 ---

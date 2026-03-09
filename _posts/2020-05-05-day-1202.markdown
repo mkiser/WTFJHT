@@ -9,6 +9,8 @@ tags:
 - oversight
 - economy
 - mueller-investigation
+- congress
+- impeachment
 description: '"Weaker and sicker and poorer."'
 image: "/uploads/1202.jpg"
 todayInOneSentence: Dr. Anthony Fauci, contradicting both Trump and Secretary of State

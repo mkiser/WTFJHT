@@ -9,6 +9,8 @@ tags:
 - immigration
 - protests
 - criminal-justice
+- national-security
+- lawsuit
 description: 'Setting a tone. '
 image: "/uploads/656.jpg"
 ---

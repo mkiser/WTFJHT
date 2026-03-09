@@ -9,6 +9,8 @@ tags:
 - economy
 - indictment
 - congress
+- taxes
+- national-security
 description: '"The principal obstacles to progress."'
 image: "/uploads/day-276-biden.jpg"
 todayInOneSentence: The Supreme Court – again – refused to block the Texas law that

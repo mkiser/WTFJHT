@@ -9,6 +9,8 @@ tags:
 - oversight
 - indictment
 - congress
+- economy
+- labor
 description: 'Sleep well tonight. '
 image: "/uploads/510.jpg"
 todayInOneSentence: Michael Cohen is expected to cooperate with federal prosecutors

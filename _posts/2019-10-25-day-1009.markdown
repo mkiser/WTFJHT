@@ -9,6 +9,8 @@ tags:
 - indictment
 - congress
 - national-security
+- education
+- ukraine
 description: '"Potentially impeachable conduct."'
 image: "/uploads/1009.jpg"
 todayInOneSentence: A federal judge directed the Justice Department hand over Robert

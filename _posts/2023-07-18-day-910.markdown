@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - judiciary
 - classified-documents
+- trump-trials
+- criminal-justice
 description: '"Extraordinary circumstances."'
 image: "/uploads/day-910-biden.jpg"
 todayInOneSentence: 'Trump has been notified that he''s a target in the Jan. 6 criminal

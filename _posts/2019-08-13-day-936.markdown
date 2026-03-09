@@ -9,6 +9,8 @@ tags:
 - climate
 - immigration
 - trade
+- media
+- taxes
 description: Just in case.
 image: "/uploads/936.jpg"
 todayInOneSentence: Trump delayed imposing tariffs on some Chinese imports until December;

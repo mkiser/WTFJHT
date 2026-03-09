@@ -9,6 +9,8 @@ tags:
 - ethics
 - congress
 - supreme-court
+- indictment
+- taxes
 description: '"Be careful."'
 image: "/uploads/day-1294-biden.jpg"
 todayInOneSentence: 'Global stock markets fell sharply as worries about the U.S. economy

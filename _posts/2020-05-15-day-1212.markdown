@@ -9,6 +9,8 @@ tags:
 - economy
 - healthcare
 - congress
+- voting-rights
+- housing
 description: '"Inconsistent and incoherent."'
 image: "/uploads/1212.jpg"
 todayInOneSentence: Despite public health experts repeatedly cautioning that developing

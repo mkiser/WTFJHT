@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - indictment
+- foreign-policy
+- nomination
 description: Grenades.
 image: "/uploads/761.jpg"
 todayInOneSentence: Trump asked his acting attorney general if a Trump-appointed attorney

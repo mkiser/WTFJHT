@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - indictment
 - healthcare
+- voting-rights
+- supreme-court
 description: '"The fate of our democracy."'
 image: "/uploads/day1079biden.jpg"
 todayInOneSentence: 'Trump asked the Supreme Court to keep his name on Colorado ballot;

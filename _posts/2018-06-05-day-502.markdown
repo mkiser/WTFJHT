@@ -9,6 +9,8 @@ tags:
 - subpoena
 - oversight
 - congress
+- russia
+- indictment
 description: Witness tampering.
 image: "/uploads/502.jpg"
 todayInOneSentence: 'Trump blamed Jeff Sessions for the ongoing Russia investigation

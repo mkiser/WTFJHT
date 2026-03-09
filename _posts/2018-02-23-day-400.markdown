@@ -9,6 +9,8 @@ tags:
 - national-security
 - russia
 - education
+- indictment
+- congress
 description: Bit of a bonus.
 image: "/uploads/400.jpg"
 ---

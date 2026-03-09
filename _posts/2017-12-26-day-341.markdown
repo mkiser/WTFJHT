@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - russia
+- judiciary
+- oversight
 description: 'Pile of garbage. '
 image: "/uploads/341.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - oversight
 - congress
 - mueller-investigation
+- nomination
+- national-security
 description: '"What happens at Georgetown Prep, stays at Georgetown Prep."'
 image: "/uploads/day-608.png"
 todayInOneSentence: The Trump administration can't account for another 1,500 migrant

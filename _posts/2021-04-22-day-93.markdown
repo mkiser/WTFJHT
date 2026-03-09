@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - covid
+- voting-rights
+- labor
 description: '"A moral imperative."'
 image: "/uploads/day-93-biden-yo.jpg"
 todayInOneSentence: Biden pledged to reduce U.S. greenhouse gas emissions by at least

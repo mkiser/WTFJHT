@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - voting-rights
+- healthcare
+- foreign-policy
 description: '"A wonderful future."'
 image: "/uploads/day-1402-biden-harris-trump.jpg"
 tag_excerpts:

@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - jan-6
 - national-security
+- judiciary
+- congress
 description: '"Serious consideration."'
 image: " /uploads/day1150-biden.jpg"
 todayInOneSentence: The Manhattan DA agreed to delay the start of the hush money case

@@ -9,6 +9,8 @@ tags:
 - nomination
 - national-security
 - congress
+- media
+- labor
 description: '"The gravity of the president''s misconduct."'
 image: "/uploads/911.jpg"
 todayInOneSentence: The Trump administration is considering admitting zero refugees

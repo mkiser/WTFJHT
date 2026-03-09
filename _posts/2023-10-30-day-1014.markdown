@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - presidential-election
 - jan-6
+- voting-rights
+- foreign-policy
 description: '"Civil order."'
 image: "/uploads/day-1014-biden.jpg"
 todayInOneSentence: 'The Israel Defense Forces has “expanded” and will "continue and

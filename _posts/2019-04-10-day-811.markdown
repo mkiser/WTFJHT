@@ -9,6 +9,8 @@ tags:
 - oversight
 - national-security
 - congress
+- taxes
+- voting-rights
 description: Genesis.
 image: "/uploads/811.jpg"
 todayInOneSentence: Attorney General William Barr assembled a team to examine the

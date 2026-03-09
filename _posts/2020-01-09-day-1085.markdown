@@ -9,6 +9,8 @@ tags:
 - national-security
 - media
 - mueller-investigation
+- foreign-policy
+- judiciary
 description: Reckless.
 image: "/uploads/1085.jpg"
 todayInOneSentence: Nancy Pelosi said she would send the articles of impeachment to

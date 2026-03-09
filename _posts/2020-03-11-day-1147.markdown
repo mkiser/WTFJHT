@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - media
+- economy
+- education
 description: '"It''s going to get worse."'
 image: "/uploads/1147.jpg"
 todayInOneSentence: The World Health Organization declared the coronavirus outbreak

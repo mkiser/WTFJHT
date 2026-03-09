@@ -9,6 +9,8 @@ tags:
 - covid
 - ukraine
 - voting-rights
+- presidential-election
+- national-security
 description: '"The golden age of America."'
 image: "/uploads/day-1387-biden-harris-trump.jpg"
 todayInOneSentence: 'America elected the first convicted felon to serve as president

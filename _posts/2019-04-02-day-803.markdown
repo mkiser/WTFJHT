@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - media
+- supreme-court
+- judiciary
 description: '"Incompetent or corrupt."'
 image: "/uploads/803.jpg"
 todayInOneSentence: Trump abandoned his plans to dismantle the Affordable Care Act;

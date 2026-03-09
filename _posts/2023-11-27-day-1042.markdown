@@ -9,6 +9,8 @@ tags:
 - healthcare
 - corruption
 - voting-rights
+- economy
+- foreign-policy
 description: '"Looking at alternatives."'
 image: "/uploads/day-1042biden.jpg"
 todayInOneSentence: Biden won’t attend the United Nations climate summit in Dubai;

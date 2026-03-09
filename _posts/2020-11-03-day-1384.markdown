@@ -9,6 +9,8 @@ tags:
 - covid
 - oversight
 - congress
+- economy
+- national-security
 description: '"Fired up, ready to go."'
 image: "/uploads/1384.jpg"
 todayInOneSentence: 'More than 100 million Americans voted early; Biden is favored

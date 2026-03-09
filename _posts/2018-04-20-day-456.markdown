@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - national-security
 - media
+- congress
+- nomination
 description: Unprecedented treachery.
 image: "/uploads/456.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - oversight
+- judiciary
+- national-security
 description: Steadfast.
 image: uploads/670.jpg
 todayInOneSentence: Trump won't take action against Saudi Arabia or Crown Prince Mohammed

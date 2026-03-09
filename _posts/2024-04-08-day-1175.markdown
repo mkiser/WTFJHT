@@ -9,6 +9,8 @@ tags:
 - disinformation
 - reproductive-rights
 - economy
+- voting-rights
+- trump-trials
 description: '"The cruelty and the chaos."'
 image: "/uploads/day-1175-biden.jpg"
 todayInOneSentence: 'Biden announced a new student loan forgiveness plan that would

@@ -9,6 +9,8 @@ tags:
 - judiciary
 - economy
 - mueller-investigation
+- congress
+- media
 description: '"I was right."'
 image: "/uploads/328.jpg"
 ---

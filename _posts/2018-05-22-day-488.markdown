@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - oversight
+- opioids
+- russia
 description: Too inconvenient.
 image: "/uploads/488.jpg"
 todayInOneSentence: 'Trump doesn''t take recommended security precautions  for his

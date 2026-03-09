@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - congress
 - voting-rights
+- supreme-court
+- national-security
 description: '"I literally don''t know."'
 image: "/uploads/1419.jpg"
 todayInOneSentence: The FDA said Pfizer's COVID-19 vaccine “met the prescribed success

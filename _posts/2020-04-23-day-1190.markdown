@@ -9,6 +9,8 @@ tags:
 - economy
 - media
 - immigration
+- labor
+- voting-rights
 description: '"The worst is yet to come."'
 image: "/uploads/1190.jpg"
 todayInOneSentence: More than 26 million Americans filed for unemployment benefits

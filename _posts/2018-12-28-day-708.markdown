@@ -9,6 +9,8 @@ tags:
 - immigration
 - climate
 - labor
+- congress
+- government-shutdown
 description: A profit making operation.
 image: "/uploads/708.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - taxes
 - education
+- russia
+- congress
 description: 'Great credit. '
 image: "/uploads/294.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - congress
+- climate
+- voting-rights
 description: 'Just a coffee boy. '
 image: "/uploads/348.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - economy
 - healthcare
 - mueller-investigation
+- nomination
+- trade
 description: '"It goes up rapidly."'
 image: "/uploads/1201.jpg"
 todayInOneSentence: The CDC projects that by June 1, the coronavirus death toll in

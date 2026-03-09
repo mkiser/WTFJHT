@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - mueller-investigation
 - media
+- indictment
+- congress
 description: Humanitarian catastrophe.
 image: "/uploads/777.jpg"
 tag_excerpts:

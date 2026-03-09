@@ -9,6 +9,8 @@ tags:
 - jan-6
 - gun-policy
 - presidential-election
+- congress
+- voting-rights
 description: '"Critically important work."'
 image: "/uploads/day-497-biden.jpg"
 todayInOneSentence: Biden, calling inflation his “top economic priority,” met with

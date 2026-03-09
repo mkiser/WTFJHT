@@ -9,6 +9,8 @@ tags:
 - economy
 - congress
 - tech-policy
+- immigration
+- healthcare
 description: '"This might be bad."'
 image: "/uploads/1132.jpg"
 todayInOneSentence: Trump demanded that Supreme Court Justices Sonia Sotomayor and

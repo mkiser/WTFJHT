@@ -9,6 +9,8 @@ tags:
 - congress
 - taxes
 - media
+- russia
+- subpoena
 description: 'Sport. '
 image: "/uploads/839.jpg"
 todayInOneSentence: Trump asserted executive privilege over Robert Mueller's full,

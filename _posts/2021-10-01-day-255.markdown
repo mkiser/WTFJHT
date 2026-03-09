@@ -9,6 +9,8 @@ tags:
 - economy
 - covid
 - congress
+- supreme-court
+- lawsuit
 description: '"Ain’t going to happen."'
 image: "/uploads/biden-day-255-infrastructure.jpg"
 todayInOneSentence: Biden signed a short-term spending bill to keep the government

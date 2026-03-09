@@ -9,6 +9,8 @@ tags:
 - covid
 - education
 - congress
+- criminal-justice
+- disinformation
 description: '"Profoundly."'
 image: "/uploads/1317.jpg"
 todayInOneSentence: Trump's effort to block a subpoena for his financial records would

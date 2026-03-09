@@ -9,6 +9,8 @@ tags:
 - cabinet
 - lgbtq-rights
 - tariffs
+- congress
+- tech-policy
 description: '"Nothing more and nothing less."'
 image: "/uploads/day-1456-biden-trump.jpg"
 todayInOneSentence: Special Counsel Jack Smith's final report made clear that Trump

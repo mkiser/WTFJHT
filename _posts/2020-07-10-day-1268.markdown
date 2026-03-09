@@ -9,6 +9,8 @@ tags:
 - education
 - national-security
 - immigration
+- criminal-justice
+- subpoena
 description: '"An unbelievable thing."'
 image: "/uploads/1268.jpg"
 todayInOneSentence: The United States set another single-day record for coronavirus

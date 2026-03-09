@@ -9,6 +9,8 @@ tags:
 - immigration
 - national-security
 - congress
+- oversight
+- russia
 description: Taking things seriously.
 image: "/uploads/404.jpg"
 ---

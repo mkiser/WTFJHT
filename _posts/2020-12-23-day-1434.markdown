@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - voting-rights
+- national-security
+- mueller-investigation
 description: '"Unnecessary."'
 image: "/uploads/1434.jpg"
 todayInOneSentence: 'Trump vetoed a $741 billion defense spending bill; Trump suggested

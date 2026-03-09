@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - jan-6
 - indictment
+- polling
+- voting-rights
 description: '"A game changer."'
 image: "/uploads/day-636-biden.jpg"
 todayInOneSentence: 'The Biden administration launched the online application for

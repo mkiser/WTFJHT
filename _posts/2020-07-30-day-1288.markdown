@@ -9,6 +9,8 @@ tags:
 - congress
 - voting-rights
 - mueller-investigation
+- labor
+- indictment
 description: '"A catastrophic disaster."'
 image: "/uploads/1288.jpg"
 todayInOneSentence: Another 1.43 million Americans filed for unemployment benefits

@@ -9,6 +9,8 @@ tags:
 - indictment
 - russia
 - congress
+- economy
+- media
 description: '"I have nothing to do with Russia."'
 image: "/uploads/690.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - media
 - tech-policy
 - congress
+- russia
+- nomination
 description: Wrap it up.
 image: "/uploads/476.jpg"
 ---

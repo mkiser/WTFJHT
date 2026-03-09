@@ -9,6 +9,8 @@ tags:
 - covid
 - protests
 - economy
+- supreme-court
+- cabinet
 description: '"The time for decisive action is now."'
 image: "/uploads/biden-harris-13.jpg"
 todayInOneSentence: 'The Biden administration reached a $231 million deal for 8.5

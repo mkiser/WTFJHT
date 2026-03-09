@@ -9,6 +9,8 @@ tags:
 - indictment
 - national-security
 - protests
+- oversight
+- ukraine
 description: '"The Framers'' worst nightmare."'
 image: "/uploads/1096.jpg"
 todayInOneSentence: The Senate impeachment trial is set to begin tomorrow; Trump's

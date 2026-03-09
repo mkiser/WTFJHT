@@ -9,6 +9,8 @@ tags:
 - healthcare
 - congress
 - voting-rights
+- education
+- oversight
 description: '"What a great job we''ve done."'
 image: "/uploads/1342.jpg"
 todayInOneSentence: Trump lied and claimed that the coronavirus "affects virtually

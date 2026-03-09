@@ -9,6 +9,8 @@ tags:
 - immigration
 - covid
 - congress
+- media
+- national-security
 description: '"Bare minimum."'
 image: "/uploads/day-318-biden.jpg"
 todayInOneSentence: Biden signed legislation to keep the government funded through

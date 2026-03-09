@@ -9,6 +9,8 @@ tags:
 - immigration
 - media
 - national-security
+- tech-policy
+- congress
 layout: post
 description: Street fighters.
 image:

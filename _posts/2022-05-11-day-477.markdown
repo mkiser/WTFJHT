@@ -9,6 +9,8 @@ tags:
 - ukraine
 - jan-6
 - congress
+- supreme-court
+- oversight
 description: '"Failure."'
 image: "/uploads/day-477-biden.jpg"
 todayInOneSentence: Senate Republicans and Joe Manchin blocked a bill to enshrine

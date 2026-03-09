@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - taxes
+- cabinet
+- judiciary
 description: A way forward.
 image: "/uploads/809.jpg"
 todayInOneSentence: Kirstjen Nielsen resigned after meeting with Trump to plan "a

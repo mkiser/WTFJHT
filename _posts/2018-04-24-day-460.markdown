@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - congress
 - economy
+- voting-rights
+- national-security
 description: Do not worry.
 image: "/uploads/460.jpg"
 ---

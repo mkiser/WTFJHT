@@ -9,6 +9,8 @@ tags:
 - congress
 - mueller-investigation
 - oversight
+- voting-rights
+- national-security
 description: Excessive.
 image: "/uploads/1118.jpg"
 todayInOneSentence: Trump’s Justice Department will overrule its own prosecutors and

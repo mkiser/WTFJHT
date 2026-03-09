@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - presidential-election
 - media
+- taxes
+- immigration
 description: '"Incredible irresponsibility."'
 image: "/uploads/1401.jpg"
 todayInOneSentence: Michigan’s Republican legislative leaders met with Trump at the

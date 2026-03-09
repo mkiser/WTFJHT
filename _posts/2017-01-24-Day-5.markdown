@@ -9,6 +9,8 @@ tags:
 - executive-order
 - media
 - tech-policy
+- taxes
+- voting-rights
 layout: post
 description: Command and control.
 image:

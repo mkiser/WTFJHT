@@ -7,6 +7,8 @@ tags:
 - jan-6
 - judiciary
 - congress
+- immigration
+- tech-policy
 description: '"Impeccable."'
 image: "/uploads/day1570-trump.jpg"
 todayInOneSentence: Trump announced a trade deal with the U.K., calling it “a great

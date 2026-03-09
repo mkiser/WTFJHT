@@ -9,6 +9,8 @@ tags:
 - primary
 - presidential-election
 - voting-rights
+- veterans
+- indictment
 description: '"Earn the votes."'
 image: "/uploads/day1142-biden.jpg"
 todayInOneSentence: The House passed a $460 billion package of spending bills; the

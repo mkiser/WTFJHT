@@ -9,6 +9,8 @@ tags:
 - congress
 - supreme-court
 - criminal-justice
+- voting-rights
+- indictment
 description: '"Can''t be compromised."'
 image: "/uploads/day-1238-biden.jpg"
 todayInOneSentence: Supreme Court Justice Clarence Thomas belatedly disclosed that

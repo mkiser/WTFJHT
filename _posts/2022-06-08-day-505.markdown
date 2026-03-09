@@ -9,6 +9,8 @@ tags:
 - jan-6
 - gun-policy
 - covid
+- congress
+- taxes
 description: '"Transparent."'
 image: "/uploads/day-505-biden.jpg"
 todayInOneSentence: 'A man armed with a pistol, a knife, and other weapons was arrested

@@ -9,6 +9,8 @@ tags:
 - ukraine
 - national-security
 - indictment
+- polling
+- mueller-investigation
 description: '"He gave us no choice."'
 image: "/uploads/1063.jpg"
 todayInOneSentence: The House of Representatives voted to impeach Trump for abusing

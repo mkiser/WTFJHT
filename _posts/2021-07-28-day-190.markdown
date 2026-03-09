@@ -9,6 +9,8 @@ tags:
 - covid
 - congress
 - education
+- oversight
+- polling
 description: '"Moron."'
 image: "/uploads/day-190-072821.jpg"
 todayInOneSentence: The White House and bipartisan group of senators reached a deal

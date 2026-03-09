@@ -9,6 +9,8 @@ tags:
 - national-security
 - economy
 - media
+- cabinet
+- presidential-election
 description: '"Very stressful."'
 image: "/uploads/1393.jpg"
 todayInOneSentence: Dr. Anthony Fauci urged Americans to “double down” on precautions

@@ -9,6 +9,8 @@ tags:
 - national-security
 - taxes
 - economy
+- polling
+- labor
 description: '"A beautiful day."'
 image: "/uploads/day98-biden.jpg"
 todayInOneSentence: Americans fully vaccinated against the coronavirus no longer need

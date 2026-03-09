@@ -9,6 +9,8 @@ tags:
 - national-security
 - labor
 - resignation
+- tech-policy
+- lawsuit
 description: '"On the cusp of losing control."'
 image: "/uploads/1246.jpg"
 todayInOneSentence: Seventy-seven nations have seen a growth in new coronavirus cases

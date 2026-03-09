@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - media
 - congress
+- indictment
+- covid
 description: '"We have a long way to go."'
 image: "/uploads/108-biden-trump.jpg"
 todayInOneSentence: The U.S. economy added 266,000 jobs in April; Texas and Florida

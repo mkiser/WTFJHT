@@ -9,6 +9,8 @@ tags:
 - national-security
 - presidential-election
 - tech-policy
+- trump-trials
+- lgbtq-rights
 description: '"We need to worry."'
 image: "/uploads/day-940-biden.jpg"
 todayInOneSentence: The Fulton County Sheriff’s Office is investigating online threats

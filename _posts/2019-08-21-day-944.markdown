@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - economy
 - voting-rights
+- congress
+- israel-palestine
 description: Absurd.
 image: "/uploads/944.jpg"
 todayInOneSentence: The Trump administration will terminate the 20-day cap for detaining

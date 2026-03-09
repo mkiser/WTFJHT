@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - immigration
+- tech-policy
+- economy
 layout: post
 description: Unveiled.
 image:

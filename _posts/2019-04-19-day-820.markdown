@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - oversight
+- subpoena
+- congress
 description: Total bullshit.
 image: "/uploads/820.png"
 ---

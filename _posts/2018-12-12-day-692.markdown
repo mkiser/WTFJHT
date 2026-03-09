@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - national-security
+- criminal-justice
+- indictment
 description: Hello darkness, my old friend.
 image: "/uploads/692.jpg"
 todayInOneSentence: Michael Cohen was sentenced to three years in prison; Trump blamed

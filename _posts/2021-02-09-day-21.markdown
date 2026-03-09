@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - oversight
 - congress
+- jan-6
+- nomination
 description: '"This cannot be our future."'
 image: "/uploads/biden-harris-trump-impeachment-day-21.jpg"
 todayInOneSentence: Trump's impeachment trial kicked off in the Senate with House

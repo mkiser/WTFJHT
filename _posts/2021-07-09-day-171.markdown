@@ -9,6 +9,8 @@ tags:
 - education
 - covid
 - nomination
+- russia
+- congress
 description: '"Any necessary action."'
 image: "/uploads/day-171-070921.jpg"
 todayInOneSentence: Biden told Putin to take action against Russian cyberattacks;

@@ -7,6 +7,8 @@ tags:
 - education
 - economy
 - labor
+- supreme-court
+- taxes
 description: '"Let this serve as a warning."'
 image: "/uploads/day-1584-trump.jpg"
 todayInOneSentence: 'The House passed Trump’s tax and immigration package by a single

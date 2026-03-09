@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - covid
 - congress
+- national-security
+- immigration
 description: '"No matter how long it takes."'
 image: "/uploads/44-biden-covid.jpg"
 todayInOneSentence: The Senate voted to open debate on Biden’s $1.9 trillion coronavirus

@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - national-security
+- voting-rights
+- foreign-policy
 description: Talking is not the answer.
 image: "/uploads/223.jpg"
 ---

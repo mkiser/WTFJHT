@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - climate
 - judiciary
+- voting-rights
+- education
 description: '"Broken."'
 image: "/uploads/day-533-biden.jpg"
 todayInOneSentence: Trump White House counsel Pat Cipollone agreed to testify after

@@ -9,6 +9,8 @@ tags:
 - corruption
 - congress
 - economy
+- indictment
+- oversight
 description: '"International embarrassment."'
 image: "/uploads/79-biden-guns.jpg"
 todayInOneSentence: 'Biden announced executive actions to address what he called an

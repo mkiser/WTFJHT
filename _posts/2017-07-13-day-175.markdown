@@ -9,6 +9,8 @@ tags:
 - opioids
 - economy
 - russia
+- lgbtq-rights
+- foreign-policy
 description: Health care redux.
 layout: post
 seo:

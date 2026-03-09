@@ -7,6 +7,8 @@ tags:
 - energy
 - tech-policy
 - education
+- economy
+- congress
 description: '"A colossal economic and national security failure."'
 image: "/uploads/day1785trump.jpg"
 todayInOneSentence: 'Trump called Europe "weak" and “decaying,” warning that some

@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - voting-rights
 - media
+- taxes
+- economy
 description: Reluctance.
 image: "/uploads/565.jpg"
 todayInOneSentence: Giuliani tells Mueller he has a "a real reluctance about allowing

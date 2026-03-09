@@ -9,6 +9,8 @@ tags:
 - national-security
 - corruption
 - economy
+- congress
+- veterans
 description: Barbaric.
 image: "/uploads/445.jpg"
 ---

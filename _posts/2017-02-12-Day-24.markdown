@@ -9,6 +9,8 @@ tags:
 - russia
 - immigration
 - congress
+- foreign-policy
+- resignation
 layout: post
 description: Shots fired.
 image:

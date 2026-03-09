@@ -9,6 +9,8 @@ tags:
 - indictment
 - national-security
 - nomination
+- trump-trials
+- voting-rights
 description: '"Qualified and capable."'
 image: "/uploads/day-1440-biden-harris-trump.jpg"
 todayInOneSentence: 'Manhattan District Attorney Alvin Bragg asked to postpone Trump''s

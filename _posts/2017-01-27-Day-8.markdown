@@ -9,6 +9,8 @@ tags:
 - national-security
 - voting-rights
 - healthcare
+- foreign-policy
+- tech-policy
 layout: post
 description: Banned.
 image:

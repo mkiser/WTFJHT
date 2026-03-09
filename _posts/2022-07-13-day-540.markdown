@@ -9,6 +9,8 @@ tags:
 - subpoena
 - voting-rights
 - covid
+- gun-policy
+- labor
 description: '"Everything is in play."'
 image: "/uploads/day-540-biden.jpg"
 todayInOneSentence: Inflation climbed to 9.1% in June compared with a year earlier

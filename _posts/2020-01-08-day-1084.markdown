@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - polling
 - economy
+- national-security
+- cabinet
 description: Standing down.
 image: "/uploads/1084.jpg"
 todayInOneSentence: Iran launched more than a dozen ballistic missiles at two Iraqi

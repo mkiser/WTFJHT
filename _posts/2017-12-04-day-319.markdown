@@ -9,6 +9,8 @@ tags:
 - judiciary
 - congress
 - russia
+- foreign-policy
+- national-security
 description: Tatters.
 image: "/uploads/319.jpg"
 ---

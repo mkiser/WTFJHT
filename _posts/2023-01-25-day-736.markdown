@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - tech-policy
 - indictment
+- congress
+- jan-6
 description: '"Integrity matters."'
 image: "/uploads/biden-736-biden.jpg"
 todayInOneSentence: Kevin McCarthy blocked Adam Schiff and Eric Swalwell from serving

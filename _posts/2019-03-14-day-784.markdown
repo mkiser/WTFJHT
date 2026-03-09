@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - congress
 - national-security
+- taxes
+- voting-rights
 description: Sending a signal.
 image: "/uploads/784.jpg"
 todayInOneSentence: The Senate voted to overturn Trump's national emergency declaration;

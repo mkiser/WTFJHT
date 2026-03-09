@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - oversight
 - healthcare
+- trade
+- reproductive-rights
 description: '"Join us in condemning the president''s racist tweets."'
 image: "/uploads/908.jpg"
 todayInOneSentence: 'Republicans temporarily blocked a resolution denouncing Trump''s

@@ -9,6 +9,8 @@ tags:
 - education
 - tech-policy
 - national-security
+- labor
+- subpoena
 description: '"Shameful."'
 image: "/uploads/1296.jpg"
 todayInOneSentence: Negotiations over a new coronavirus relief package failed after

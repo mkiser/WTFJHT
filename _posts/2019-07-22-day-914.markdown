@@ -9,6 +9,8 @@ tags:
 - immigration
 - mueller-investigation
 - economy
+- voting-rights
+- civil-rights
 description: An unindicted co-conspirator.
 image: "/uploads/914.jpg"
 todayInOneSentence: The Trump administration plans to use a fast-track deportation

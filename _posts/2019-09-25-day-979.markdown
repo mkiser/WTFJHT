@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - national-security
+- indictment
+- oversight
 description: '"Do us a favor."'
 image: "/uploads/979.jpg"
 todayInOneSentence: Trump urged President Volodymyr Zelensky to "do us a favor" and

@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - national-security
 - congress
+- supreme-court
+- indictment
 description: '"Out of step."'
 image: "/uploads/day-1177-biden.jpg"
 todayInOneSentence: 'The EPA finalized the first-ever national limits on toxic “forever

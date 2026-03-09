@@ -9,6 +9,8 @@ tags:
 - climate
 - voting-rights
 - congress
+- protests
+- media
 description: '"Follow the facts."'
 image: "/uploads/day-351-biden.jpg"
 todayInOneSentence: The CDC's independent vaccine advisory committee recommended booster

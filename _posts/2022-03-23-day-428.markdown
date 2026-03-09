@@ -9,6 +9,8 @@ tags:
 - nomination
 - supreme-court
 - congress
+- foreign-policy
+- indictment
 description: '"Saber rattling."'
 image: "/uploads/day-428-biden.jpg"
 todayInOneSentence: The U.S. government formally accused Russia of committing war

@@ -9,6 +9,8 @@ tags:
 - impeachment
 - ukraine
 - lawsuit
+- national-security
+- congress
 description: '"Ambitious but doable."'
 image: "/uploads/day-379-biden.jpg"
 tag_excerpts:

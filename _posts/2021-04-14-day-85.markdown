@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - congress
 - oversight
+- covid
+- indictment
 description: '"We stand for democracy."'
 image: "/uploads/85-biden.jpg"
 todayInOneSentence: The U.S. Capitol Police inspector general found that the agency’s

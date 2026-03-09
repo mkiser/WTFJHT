@@ -9,6 +9,8 @@ tags:
 - subpoena
 - congress
 - voting-rights
+- judiciary
+- lawsuit
 description: '"We''re gathering evidence."'
 image: "/uploads/day-541-biden.jpg"
 todayInOneSentence: Texas sued the Biden administration over federal rules requiring

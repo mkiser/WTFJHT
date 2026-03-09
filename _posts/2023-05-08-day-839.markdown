@@ -9,6 +9,8 @@ tags:
 - jan-6
 - covid
 - congress
+- economy
+- voting-rights
 description: '"Calamity."'
 image: "/uploads/day-839-biden.jpg"
 todayInOneSentence: Treasury Secretary Janet Yellen warned that the only way for the

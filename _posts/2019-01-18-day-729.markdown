@@ -8,6 +8,9 @@ tags:
 - russia
 - oversight
 - congress
+- immigration
+- national-security
+- labor
 description: Make it happen.
 image: "/uploads/729.jpg"
 todayInOneSentence: Trump directed Michael Cohen to lie to Congress; Democrats vowed

@@ -9,6 +9,8 @@ tags:
 - national-security
 - ukraine
 - russia
+- congress
+- oversight
 description: '"Totally appropriate."'
 image: "/uploads/974.jpg"
 todayInOneSentence: Trump pressured the leader of Ukraine eight times to investigate

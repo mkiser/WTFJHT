@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - voting-rights
 - jan-6
+- congress
+- covid
 description: '"Running out of options."'
 image: "/uploads/day-527-biden.jpg"
 todayInOneSentence: The Supreme Court restricted the EPA's ability to limit greenhouse

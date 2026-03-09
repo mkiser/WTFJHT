@@ -9,6 +9,8 @@ tags:
 - executive-order
 - congress
 - foreign-policy
+- supreme-court
+- nomination
 layout: post
 description: Dissent.
 image:

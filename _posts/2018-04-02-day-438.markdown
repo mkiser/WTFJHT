@@ -9,6 +9,8 @@ tags:
 - media
 - trade
 - congress
+- economy
+- veterans
 description: DACA is dead.
 image: "/uploads/438.jpg"
 ---

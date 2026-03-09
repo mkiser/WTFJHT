@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - education
 - economy
+- climate
+- media
 description: '"Rhetoric."'
 image: "/uploads/day-841-biden.jpg"
 todayInOneSentence: George Santos pleaded not guilty to 13 federal criminal charges;

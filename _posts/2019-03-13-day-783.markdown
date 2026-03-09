@@ -9,6 +9,8 @@ tags:
 - oversight
 - indictment
 - criminal-justice
+- voting-rights
+- congress
 description: Gaming the system.
 image: "/uploads/783.jpg"
 ---

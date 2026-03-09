@@ -9,6 +9,8 @@ tags:
 - energy
 - gun-policy
 - congress
+- climate
+- opioids
 description: '"Dead on arrival."'
 image: "/uploads/day-800-biden.jpg"
 todayInOneSentence: 'The Manhattan grand jury voted to indict Trump for his role in

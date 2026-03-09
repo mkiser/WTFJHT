@@ -9,6 +9,8 @@ tags:
 - immigration
 - trade
 - voting-rights
+- media
+- healthcare
 layout: post
 description: '"Super-mighty preemptive strike."'
 image:

@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - healthcare
 - immigration
+- trade
+- china
 description: '"A very bad situation."'
 image: "/uploads/day1597trump.jpg"
 todayInOneSentence: 'Trump’s tax and spending bill would add $2.4 trillion to the

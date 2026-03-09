@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - gun-policy
+- voting-rights
+- energy
 description: '"I don''t know."'
 image: "/uploads/958.jpg"
 todayInOneSentence: Trump displayed a doctored National Weather Service map to "prove"

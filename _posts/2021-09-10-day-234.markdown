@@ -9,6 +9,8 @@ tags:
 - immigration
 - supreme-court
 - lawsuit
+- judiciary
+- education
 description: '"Your refusal has cost all of us."'
 image: "/uploads/day-234-biden-harris.jpg"
 todayInOneSentence: The Justice Department sued Texas over its restrictive new abortion

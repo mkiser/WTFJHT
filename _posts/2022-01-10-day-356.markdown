@@ -9,6 +9,8 @@ tags:
 - climate
 - lawsuit
 - congress
+- education
+- nomination
 description: '"By a clear margin."'
 image: "/uploads/day-356-biden.jpg"
 todayInOneSentence: More than 5,400 K-12 schools stopped in-person instruction at

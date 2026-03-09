@@ -9,6 +9,8 @@ tags:
 - oversight
 - media
 - subpoena
+- nomination
+- national-security
 description: 'No choice. '
 image: "/uploads/840.jpg"
 todayInOneSentence: Mick Mulvaney criticized Republicans for not informing him that

@@ -9,6 +9,8 @@ tags:
 - education
 - russia
 - congress
+- gun-policy
+- media
 description: 'Still intends to cooperate. '
 image: "/uploads/417.jpg"
 ---

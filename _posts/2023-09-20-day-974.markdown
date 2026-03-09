@@ -9,6 +9,8 @@ tags:
 - covid
 - economy
 - oversight
+- congress
+- national-security
 description: '"This is important."'
 image: "/uploads/day-974-biden.jpg"
 todayInOneSentence: 'Increases in wildfire smoke have reversed two decades of improvements

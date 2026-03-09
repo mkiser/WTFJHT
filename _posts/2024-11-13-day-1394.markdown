@@ -9,6 +9,8 @@ tags:
 - economy
 - nomination
 - voting-rights
+- national-security
+- cabinet
 description: '"Drastic change."'
 image: "/uploads/day-1394-biden-harris-trump.jpg"
 tag_excerpts:

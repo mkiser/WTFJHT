@@ -9,6 +9,8 @@ tags:
 - nomination
 - polling
 - congress
+- national-security
+- media
 layout: post
 description: Accusations.
 image:

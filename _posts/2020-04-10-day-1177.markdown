@@ -9,6 +9,8 @@ tags:
 - corruption
 - national-security
 - healthcare
+- education
+- labor
 description: '"The biggest decision."'
 image: "/uploads/1177.jpg"
 todayInOneSentence: The Trump administration continued to push to reopen much of the

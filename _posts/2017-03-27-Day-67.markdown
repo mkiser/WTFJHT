@@ -9,6 +9,8 @@ tags:
 - taxes
 - ethics
 - congress
+- russia
+- economy
 layout: post
 description: Power center.
 image:

@@ -9,6 +9,8 @@ tags:
 - congress
 - nomination
 - oversight
+- economy
+- labor
 description: '"An explosion."'
 image: "/uploads/1253.jpg"
 todayInOneSentence: The CDC estimated that the number of Americans infected with the

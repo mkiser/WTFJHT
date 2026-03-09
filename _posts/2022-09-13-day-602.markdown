@@ -9,6 +9,8 @@ tags:
 - labor
 - ethics
 - congress
+- voting-rights
+- infrastructure
 description: '"Out of step."'
 image: "/uploads/day-602-biden.jpg"
 todayInOneSentence: 'Lindsey Graham introduced a bill that would ban abortions after

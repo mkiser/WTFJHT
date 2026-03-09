@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - resignation
+- indictment
+- climate
 description: Nothing but problems.
 image: "/uploads/571.jpg"
 todayInOneSentence: The FBI fired Peter Strzok; a federal judge appointed by Trump

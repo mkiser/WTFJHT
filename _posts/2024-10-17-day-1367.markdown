@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - supreme-court
 - covid
+- ukraine
+- trump-trials
 description: '"A despicable human being."'
 image: "/uploads/day-1367-biden-harris.jpg"
 todayInOneSentence: Israel Defense Forces killed Hamas leader Yahya Sinwar during

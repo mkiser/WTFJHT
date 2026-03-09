@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - immigration
 - congress
+- voting-rights
+- supreme-court
 description: '"There is only one president at a time."'
 image: "/uploads/day-1451-bt.jpg"
 todayInOneSentence: 'The New York Court of Appeals – the highest court in the state

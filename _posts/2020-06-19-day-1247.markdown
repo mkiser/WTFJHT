@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - oversight
 - national-security
+- tech-policy
+- impeachment
 description: 'Priorities. '
 image: "/uploads/1247.jpg"
 todayInOneSentence: Trump threatened the "protesters, anarchists, agitators, looters

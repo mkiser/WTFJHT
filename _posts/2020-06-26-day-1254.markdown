@@ -9,6 +9,8 @@ tags:
 - healthcare
 - economy
 - polling
+- infrastructure
+- criminal-justice
 description: '"And we have an election coming up."'
 image: "/uploads/1254.jpg"
 todayInOneSentence: The United States set a daily record for new COVID-19 cases for

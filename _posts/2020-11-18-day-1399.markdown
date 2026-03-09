@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - education
+- resignation
+- immigration
 description: '"We did it right."'
 image: "/uploads/1399.jpg"
 todayInOneSentence: More than 3 million people in the United States – about 1% of

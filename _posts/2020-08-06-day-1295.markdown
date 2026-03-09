@@ -9,6 +9,8 @@ tags:
 - labor
 - lawsuit
 - tech-policy
+- trade
+- congress
 description: '"It wouldn''t hurt."'
 image: "/uploads/1295.jpg"
 todayInOneSentence: Nearly 1.2 million people filed for unemployment benefits last

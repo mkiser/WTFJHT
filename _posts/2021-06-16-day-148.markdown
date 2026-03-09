@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - media
+- education
+- oversight
 description: '"A partisan circus."'
 image: "/uploads/biden-day-148.jpg"
 todayInOneSentence: After blocking major voting rights legislation for weeks, Sen.

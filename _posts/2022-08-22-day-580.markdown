@@ -9,6 +9,8 @@ tags:
 - jan-6
 - economy
 - mueller-investigation
+- congress
+- national-security
 description: '"Reliable."'
 image: "/uploads/day-580-biden.jpg"
 todayInOneSentence: Dr. Anthony Fauci will leave the federal government in December

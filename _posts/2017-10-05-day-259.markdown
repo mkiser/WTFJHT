@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - congress
 - gun-policy
+- economy
+- voting-rights
 description: Suicide squad.
 image: "/uploads/259.jpg"
 ---

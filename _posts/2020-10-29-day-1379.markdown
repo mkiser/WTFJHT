@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - healthcare
 - lgbtq-rights
+- economy
+- congress
 description: '"Defeat despair and inspire hope."'
 image: "/uploads/1379.jpg"
 todayInOneSentence: The U.S. economy is about 3.5% smaller than it was before the

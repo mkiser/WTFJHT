@@ -9,6 +9,8 @@ tags:
 - national-security
 - trade
 - media
+- supreme-court
+- congress
 description: 'Hogwash. '
 image: "/uploads/574.jpg"
 todayInOneSentence: Giuliani said Trump's legal team are prepared to fight a subpoena

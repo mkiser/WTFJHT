@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - national-security
+- criminal-justice
+- impeachment
 description: '"Openly and repeatedly flouted."'
 image: "/uploads/1125.jpg"
 todayInOneSentence: More than 2,000 former federal prosecutors and Justice Department

@@ -7,6 +7,8 @@ tags:
 - oversight
 - corruption
 - congress
+- economy
+- indictment
 description: '"Ignored."'
 image: "/uploads/day1766trump.jpg"
 todayInOneSentence: 'Trump accused six Democratic lawmakers of “seditious behavior”

@@ -9,6 +9,8 @@ tags:
 - immigration
 - ethics
 - congress
+- judiciary
+- nomination
 layout: post
 description: Warned.
 image:

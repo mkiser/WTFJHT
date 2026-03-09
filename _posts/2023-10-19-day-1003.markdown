@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - economy
 - voting-rights
+- foreign-policy
+- national-security
 description: '"Be ready."'
 image: "/uploads/day-1003-biden.jpg"
 todayInOneSentence: 'Trump''s co-defendant Sidney Powell pleaded guilty in the Georgia

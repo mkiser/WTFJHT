@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - media
 - congress
+- immigration
+- national-security
 layout: post
 description: "<s>Split.</s> Choice."
 image:

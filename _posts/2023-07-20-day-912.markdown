@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - judiciary
 - congress
+- national-security
+- education
 description: '"Personal benefit."'
 image: "/uploads/day-912-biden.jpg"
 todayInOneSentence: The Senate Judiciary Committee advanced legislation that would

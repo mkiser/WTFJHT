@@ -9,6 +9,8 @@ tags:
 - labor
 - national-security
 - veterans
+- indictment
+- congress
 description: '"We have it totally under control."'
 image: "/uploads/1153.jpg"
 todayInOneSentence: Trump called on Congress "to go big" and approve a $1 trillion

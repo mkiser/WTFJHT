@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - congress
 - judiciary
+- healthcare
+- national-security
 description: If true.
 image: "/uploads/295.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - healthcare
 - climate
 - congress
+- voting-rights
+- taxes
 description: Follow the money.
 image: "/uploads/203.jpg"
 ---

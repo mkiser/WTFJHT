@@ -9,6 +9,8 @@ tags:
 - indictment
 - presidential-election
 - congress
+- supreme-court
+- tech-policy
 description: '"Very substantial."'
 image: "/uploads/day-584-biden.jpg"
 todayInOneSentence: The Texas billionaire and Republican megadonor with close ties

@@ -9,6 +9,8 @@ tags:
 - nomination
 - oversight
 - congress
+- immigration
+- national-security
 layout: post
 description: Save face.
 image:

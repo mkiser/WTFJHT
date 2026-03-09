@@ -9,6 +9,8 @@ tags:
 - economy
 - immigration
 - congress
+- national-security
+- trade
 description: '"We''re very, very ready for this."'
 image: "/uploads/1133.jpg"
 todayInOneSentence: Trump’s re-election campaign sued the New York Times for libel

@@ -9,6 +9,8 @@ tags:
 - economy
 - indictment
 - supreme-court
+- congress
+- judiciary
 description: '"That’s what it is."'
 image: "/uploads/day-1240-biden.jpg"
 todayInOneSentence: The Republican-controlled House voted to hold Attorney General

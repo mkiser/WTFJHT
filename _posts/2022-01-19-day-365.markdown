@@ -9,6 +9,8 @@ tags:
 - jan-6
 - russia
 - congress
+- covid
+- national-security
 description: '"A great misleading of the American people."'
 image: "/uploads/day-365-biden.jpg"
 todayInOneSentence: 'Senate Democrats are pressing ahead on voting rights despite

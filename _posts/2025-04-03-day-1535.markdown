@@ -7,6 +7,8 @@ tags:
 - national-security
 - economy
 - congress
+- trade
+- tech-policy
 description: '"One of the dumbest decisions in history."'
 image: "/uploads/day-1535-trump.jpg"
 todayInOneSentence: 'Trump claimed his tariff plan is “going very well” as global

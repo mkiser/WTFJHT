@@ -9,6 +9,8 @@ tags:
 - tech-policy
 - voting-rights
 - jan-6
+- congress
+- protests
 description: '"Significant failures."'
 image: "/uploads/1453.jpg"
 todayInOneSentence: House Democrats introduced an article of impeachment against Trump

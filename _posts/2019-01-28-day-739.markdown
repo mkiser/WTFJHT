@@ -9,6 +9,8 @@ tags:
 - economy
 - labor
 - russia
+- congress
+- mueller-investigation
 description: Wrong track.
 image: "/uploads/739.jpg"
 todayInOneSentence: The shutdown cost the economy $11 billion; Nancy Pelosi invited

@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - immigration
 - congress
+- covid
+- supreme-court
 description: '"The gravest threat to our civilization."'
 image: "/uploads/day-666-biden.jpg"
 todayInOneSentence: 'Trump — the twice-impeached former president who tried to overturn

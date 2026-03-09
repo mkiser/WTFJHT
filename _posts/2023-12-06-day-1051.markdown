@@ -9,6 +9,8 @@ tags:
 - indictment
 - climate
 - oversight
+- congress
+- voting-rights
 description: '"After that, I''m not a dictator."'
 image: "/uploads/day-1051-biden.jpg"
 todayInOneSentence: Trump refused to rule out abusing power if re-elected president;

@@ -9,6 +9,8 @@ tags:
 - congress
 - israel-palestine
 - mueller-investigation
+- judiciary
+- indictment
 description: '"An absolute fool."'
 image: "/uploads/day-744-biden.jpg"
 todayInOneSentence: 'The FBI plans to search Pence''s Indiana home for classified

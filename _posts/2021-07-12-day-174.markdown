@@ -9,6 +9,7 @@ tags:
 - foreign-policy
 - climate
 - congress
+- china
 description: '"Speculation and conjecture."'
 image: "/uploads/day-174-071221.jpg"
 todayInOneSentence: Texas Democrats plan to risk arrest by fleeing the state in order

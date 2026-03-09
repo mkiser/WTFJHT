@@ -9,6 +9,8 @@ tags:
 - national-security
 - oversight
 - climate
+- voting-rights
+- congress
 description: Grave concerns.
 image: "/uploads/377.jpg"
 ---

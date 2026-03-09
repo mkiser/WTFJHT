@@ -9,6 +9,8 @@ tags:
 - jan-6
 - indictment
 - national-security
+- congress
+- oversight
 description: '"Ready to go."'
 image: "/uploads/day-400-biden.jpg"
 todayInOneSentence: The Pentagon said 80% of the 190,000 Russian troops near Ukraine

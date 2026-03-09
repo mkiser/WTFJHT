@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - protests
+- russia
+- voting-rights
 description: Incontrovertible.
 image: "/uploads/396.jpg"
 ---

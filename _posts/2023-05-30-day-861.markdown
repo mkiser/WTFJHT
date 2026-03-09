@@ -9,6 +9,8 @@ tags:
 - impeachment
 - economy
 - congress
+- voting-rights
+- national-security
 description: '"There''s going to be a reckoning."'
 image: "/uploads/day-861-biden.jpg"
 todayInOneSentence: Biden and Kevin McCarthy reached an agreement in principle to

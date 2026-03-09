@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - healthcare
 - presidential-election
+- economy
+- national-security
 description: '"Shock and awe."'
 image: "/uploads/1380.jpg"
 todayInOneSentence: The U.S. set another pandemic record with 90,456 new COVID-19

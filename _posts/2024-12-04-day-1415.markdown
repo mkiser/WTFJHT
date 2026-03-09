@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - nomination
 - national-security
+- lgbtq-rights
+- economy
 description: '"They’re coming after you."'
 image: "/uploads/day-1415-biden-trump.jpg"
 tag_excerpts:

@@ -9,6 +9,8 @@ tags:
 - education
 - disinformation
 - tech-policy
+- congress
+- foreign-policy
 layout: post
 description: "<s>Stumbles</s> Uninvited."
 image:

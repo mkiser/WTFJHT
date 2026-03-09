@@ -7,6 +7,8 @@ tags:
 - impeachment
 - polling
 - congress
+- immigration
+- economy
 description: '"This is idiotic."'
 image: "/uploads/day1576trump.jpg"
 todayInOneSentence: 'Trump scaled back tariffs on Chinese imports after being warned

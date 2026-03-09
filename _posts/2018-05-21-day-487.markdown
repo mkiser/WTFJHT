@@ -9,6 +9,8 @@ tags:
 - russia
 - education
 - oversight
+- congress
+- gun-policy
 description: Walking into a trap.
 image: "/uploads/487.jpg"
 todayInOneSentence: Trump demanded that the Justice Department investigate whether

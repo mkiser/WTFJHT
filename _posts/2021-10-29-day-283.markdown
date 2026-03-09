@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - climate
+- tech-policy
+- economy
 description: '"The world wonders whether we can function."'
 image: "/uploads/day-283-biden-bif.jpg"
 todayInOneSentence: House Democrats – again – postponed a vote on the $1 trillion

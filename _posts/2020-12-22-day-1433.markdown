@@ -9,6 +9,8 @@ tags:
 - corruption
 - economy
 - education
+- taxes
+- voting-rights
 description: '"It appears to be significant."'
 image: "/uploads/1433.jpg"
 todayInOneSentence: U.S. deaths are expected to top 3 million for the first time,

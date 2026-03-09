@@ -9,6 +9,8 @@ tags:
 - jan-6
 - covid
 - congress
+- oversight
+- voting-rights
 description: '"Climate crisis."'
 image: "/uploads/day-546-biden.jpg"
 todayInOneSentence: Biden is reportedly planning to declare a national climate emergency

@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - congress
 - indictment
+- national-security
+- criminal-justice
 description: '"Will not be intimidated."'
 image: "/uploads/day-1232-biden.jpg"
 todayInOneSentence: 'Wisconsin charged three people involved in the “fake elector”

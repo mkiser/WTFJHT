@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - presidential-election
 - education
+- resignation
+- media
 description: A total loser.
 image: "/uploads/1388.jpg"
 todayInOneSentence: Biden defeated Trump to become the 46th president of the United

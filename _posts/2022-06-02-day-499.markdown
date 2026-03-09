@@ -9,6 +9,8 @@ tags:
 - education
 - energy
 - social-security
+- congress
+- voting-rights
 description: '"Common sense."'
 image: "/uploads/day-499-biden.jpg"
 todayInOneSentence: 'The House will vote on legislation banning military-style “assault”

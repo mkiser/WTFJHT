@@ -7,6 +7,8 @@ tags:
 - jan-6
 - impeachment
 - congress
+- reproductive-rights
+- supreme-court
 description: '"Governed by power."'
 image: "/uploads/day1813trump.jpg"
 todayInOneSentence: Trump is “discussing a range of options” to acquire Greenland,

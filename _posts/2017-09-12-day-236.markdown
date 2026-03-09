@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - voting-rights
+- lgbtq-rights
+- supreme-court
 description: Clandestine efforts.
 image: "/uploads/236.jpg"
 author: Clayton Aldern

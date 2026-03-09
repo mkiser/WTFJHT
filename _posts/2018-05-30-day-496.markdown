@@ -9,6 +9,8 @@ tags:
 - media
 - immigration
 - china
+- tech-policy
+- criminal-justice
 description: '"An absolute, total tool."'
 image: "/uploads/496.jpg"
 author: Joe Amditis

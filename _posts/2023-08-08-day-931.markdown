@@ -9,6 +9,7 @@ tags:
 - climate
 - presidential-election
 - supreme-court
+- voting-rights
 description: '"Right the wrongs of the past."'
 image: "/uploads/day-931-biden.jpg"
 todayInOneSentence: Ohio voters will decide whether to make it harder to amend the

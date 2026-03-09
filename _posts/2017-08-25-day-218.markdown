@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - national-security
 - protests
+- voting-rights
+- judiciary
 description: 'Must do better. '
 image: "/uploads/218.jpg"
 ---

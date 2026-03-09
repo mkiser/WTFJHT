@@ -9,6 +9,8 @@ tags:
 - congress
 - labor
 - immigration
+- nomination
+- national-security
 description: '"The gravest damage."'
 image: "/uploads/biden-harris-day-2.jpg"
 todayInOneSentence: Biden marked the start of his presidency by signing or finalizing

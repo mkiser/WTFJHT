@@ -9,6 +9,8 @@ tags:
 - tariffs
 - protests
 - national-security
+- mueller-investigation
+- economy
 description: Totally prepared.
 image: "/uploads/533.jpg"
 todayInOneSentence: 'Trump mocked the #MeToo movement; challenged Elizabeth Warren

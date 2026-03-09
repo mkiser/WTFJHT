@@ -9,6 +9,8 @@ tags:
 - trade
 - media
 - russia
+- congress
+- economy
 description: Art of the FART.
 image: "/uploads/529.jpg"
 todayInOneSentence: Michael Cohen will "put family and country first," saying his

@@ -9,6 +9,8 @@ tags:
 - ethics
 - congress
 - voting-rights
+- national-security
+- climate
 description: 'Virtually unexplained. '
 image: "/uploads/461.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - immigration
+- media
+- education
 description: '"Enough is enough."'
 image: "/uploads/553.jpg"
 todayInOneSentence: House Freedom Caucus leaders introduced articles of impeachment

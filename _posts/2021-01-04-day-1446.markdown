@@ -9,6 +9,8 @@ tags:
 - covid
 - congress
 - disinformation
+- national-security
+- lawsuit
 description: '"No way."'
 image: "/uploads/1446.jpg"
 todayInOneSentence: Trump pressured Georgia's secretary of state to “find” him enough

@@ -9,6 +9,8 @@ tags:
 - indictment
 - national-security
 - congress
+- trump-trials
+- supreme-court
 description: '"The stakes just couldn’t be higher."'
 image: "/uploads/day-1239-biden.jpg"
 todayInOneSentence: 'Judge Aileen Cannon denied convicted felon Trump’s effort to

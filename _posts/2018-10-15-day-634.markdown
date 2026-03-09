@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - economy
 - congress
+- national-security
+- education
 description: 'Who cares. '
 image: "/uploads/634.jpg"
 todayInOneSentence: Trump suggested that "rogue killers" may be responsible for the

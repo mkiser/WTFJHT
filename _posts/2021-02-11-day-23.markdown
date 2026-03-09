@@ -9,6 +9,8 @@ tags:
 - jan-6
 - indictment
 - congress
+- healthcare
+- disinformation
 description: '"A new terrible standard."'
 image: "/uploads/impeachment-day-3-trump-biden-harris.jpg"
 todayInOneSentence: The House impeachment managers prosecuting Trump rested their

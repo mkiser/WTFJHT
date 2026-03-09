@@ -9,6 +9,8 @@ tags:
 - media
 - supreme-court
 - criminal-justice
+- trump-trials
+- judiciary
 description: '"Sufficient risk."'
 image: "/uploads/day-1162-biden.jpg"
 todayInOneSentence: 'The New York judge presiding over Trump’s hush money criminal

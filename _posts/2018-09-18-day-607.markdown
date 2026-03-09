@@ -9,6 +9,8 @@ tags:
 - tariffs
 - trade
 - congress
+- immigration
+- voting-rights
 description: A great gentleman.
 image: "/uploads/day-607.png"
 todayInOneSentence: Trump declassified Comey's text messages and 20 pages of FISA

@@ -9,6 +9,8 @@ tags:
 - healthcare
 - reproductive-rights
 - congress
+- mueller-investigation
+- immigration
 layout: post
 description: Derogatory information.
 image:

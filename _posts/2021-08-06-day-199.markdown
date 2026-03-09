@@ -8,6 +8,7 @@ tags:
 - jan-6
 - national-security
 - oversight
+- congress
 description: Extended.
 image: "/uploads/day-199-080621.jpg"
 todayInOneSentence: Biden is considering withholding federal funds in order to spur

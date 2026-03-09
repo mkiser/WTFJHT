@@ -9,6 +9,8 @@ tags:
 - congress
 - disinformation
 - polling
+- climate
+- judiciary
 description: '"Every vote must be counted."'
 image: "/uploads/1385.jpg"
 todayInOneSentence: Biden holds a 253 to 213 Electoral College advantage over Trump

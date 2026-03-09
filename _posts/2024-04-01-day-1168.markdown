@@ -9,6 +9,8 @@ tags:
 - disinformation
 - congress
 - jan-6
+- trump-trials
+- lgbtq-rights
 description: '"Outrageous and abhorrent."'
 image: "/uploads/day-1168-biden.jpg"
 todayInOneSentence: The Biden administration authorized another weapons transfer to

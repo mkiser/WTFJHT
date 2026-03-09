@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - congress
 - national-security
+- education
+- covid
 description: '"Pursuit of truth."'
 image: "/uploads/155-biden-truth.jpg"
 todayInOneSentence: Nancy Pelosi plans to appoint a select committee to investigate

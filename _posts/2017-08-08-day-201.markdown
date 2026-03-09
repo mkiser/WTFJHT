@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - media
 - foreign-policy
+- labor
+- supreme-court
 description: Extreme weather.
 image: "/uploads/201.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - climate
 - housing
 - congress
+- economy
+- lgbtq-rights
 description: '"Time is a luxury."'
 image: "/uploads/day-863-biden.jpg"
 todayInOneSentence: A group of Republicans threatened to delay plans to fast-track

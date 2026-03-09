@@ -9,6 +9,8 @@ tags:
 - climate
 - infrastructure
 - national-security
+- immigration
+- healthcare
 description: '"Be prepared for it."'
 image: "/uploads/1167.jpg"
 todayInOneSentence: More than 2,000 people could die every day from COVID-19 in the

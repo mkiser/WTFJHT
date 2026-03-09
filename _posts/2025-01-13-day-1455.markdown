@@ -9,6 +9,8 @@ tags:
 - disinformation
 - cabinet
 - tech-policy
+- voting-rights
+- protests
 description: '"They know how to do it."'
 image: "/uploads/day-1455-biden-trump.jpg"
 todayInOneSentence: 'A federal judge ruled that the Justice Department may release

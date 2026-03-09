@@ -9,6 +9,8 @@ tags:
 - oversight
 - climate
 - congress
+- russia
+- mueller-investigation
 layout: post
 description: Spicey.
 image:

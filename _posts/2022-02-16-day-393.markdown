@@ -9,6 +9,8 @@ tags:
 - energy
 - ethics
 - covid
+- climate
+- voting-rights
 description: '"Give people a break."'
 image: "/uploads/day-393-biden.jpg"
 todayInOneSentence: Secretary of State Antony Blinken said there's been "no meaningful

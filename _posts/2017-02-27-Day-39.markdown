@@ -9,6 +9,8 @@ tags:
 - media
 - healthcare
 - congress
+- voting-rights
+- supreme-court
 layout: post
 description: Spike.
 image:

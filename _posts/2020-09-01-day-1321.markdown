@@ -9,6 +9,8 @@ tags:
 - media
 - protests
 - disinformation
+- healthcare
+- tech-policy
 description: '"Sounds like conspiracy theory."'
 image: "/uploads/1321.jpg"
 todayInOneSentence: Trump compared police officers who shoot unarmed people to golfers

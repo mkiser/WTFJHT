@@ -9,6 +9,8 @@ tags:
 - taxes
 - economy
 - congress
+- oversight
+- national-security
 description: A great, big, beautiful Christmas present.
 image: "/uploads/306.jpg"
 ---

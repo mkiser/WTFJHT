@@ -9,6 +9,8 @@ tags:
 - congress
 - infrastructure
 - media
+- climate
+- national-security
 description: '"On fire."'
 image: "/uploads/day-387-biden.jpg"
 todayInOneSentence: 'U.S. inflation accelerated to the steepest year-over-year increase

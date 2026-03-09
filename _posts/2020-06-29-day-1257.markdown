@@ -9,6 +9,8 @@ tags:
 - immigration
 - protests
 - supreme-court
+- tech-policy
+- media
 description: '"Nobody told me."'
 image: "/uploads/1257.jpg"
 todayInOneSentence: Russian intelligence officers offered bounties to Taliban militants

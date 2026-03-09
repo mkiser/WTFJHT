@@ -9,6 +9,8 @@ tags:
 - immigration
 - media
 - congress
+- national-security
+- labor
 description: Total cooperation mode.
 image: "/uploads/383.jpg"
 ---

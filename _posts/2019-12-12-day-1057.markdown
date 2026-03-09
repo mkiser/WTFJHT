@@ -9,6 +9,8 @@ tags:
 - oversight
 - ukraine
 - national-security
+- indictment
+- economy
 description: Crazy.
 image: "/uploads/1057.jpg"
 todayInOneSentence: After more than eight hours of impeachment debate, the House Judiciary

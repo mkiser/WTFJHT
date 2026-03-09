@@ -9,6 +9,8 @@ tags:
 - indictment
 - immigration
 - media
+- congress
+- national-security
 description: Desperate.
 image: "/uploads/1127.jpg"
 tag_excerpts:

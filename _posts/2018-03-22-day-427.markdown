@@ -9,6 +9,8 @@ tags:
 - trade
 - opioids
 - congress
+- education
+- oversight
 description: Another one bites the dust.
 image: "/uploads/427.jpg"
 ---

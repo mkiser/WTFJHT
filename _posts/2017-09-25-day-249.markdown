@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - protests
 - congress
+- national-security
+- foreign-policy
 description: But her emails.
 image: "/uploads/249.jpg"
 author: Matt Kiser

@@ -9,6 +9,8 @@ tags:
 - healthcare
 - voting-rights
 - labor
+- immigration
+- economy
 description: '"Red zones."'
 image: "/uploads/1274.jpg"
 todayInOneSentence: Another 1.3 million people filed unemployment last week; the U.K.,

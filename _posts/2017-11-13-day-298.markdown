@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - healthcare
+- taxes
+- foreign-policy
 description: Step aside.
 image: "/uploads/298.jpg"
 ---

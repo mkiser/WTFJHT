@@ -9,6 +9,7 @@ tags:
 - climate
 - foreign-policy
 - congress
+- healthcare
 description: Rocket man.
 image: "/uploads/242.jpg"
 author: Clayton Aldern

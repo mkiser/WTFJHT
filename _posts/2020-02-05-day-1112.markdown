@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - oversight
+- indictment
+- voting-rights
 description: A giant asterisk.
 image: "/uploads/1112.jpg"
 todayInOneSentence: The Senate voted to acquit Trump on both articles of impeachment,

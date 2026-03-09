@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - jan-6
 - congress
+- judiciary
+- immigration
 description: '"A practical impossibility."'
 image: "/uploads/day1154-biden.jpg"
 todayInOneSentence: Trump doesn't have enough money to post the $464 million appeal

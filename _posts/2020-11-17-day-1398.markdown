@@ -9,6 +9,8 @@ tags:
 - national-security
 - labor
 - presidential-election
+- nomination
+- foreign-policy
 description: '"Move on."'
 image: "/uploads/1398.jpg"
 todayInOneSentence: The leaders of three major medical associations urged Trump to

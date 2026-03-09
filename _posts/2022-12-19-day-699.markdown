@@ -9,6 +9,8 @@ tags:
 - immigration
 - national-security
 - economy
+- covid
+- congress
 description: '"This can never happen again."'
 image: "/uploads/day-699-biden.jpg"
 todayInOneSentence: 'The Jan. 6 Committee formally accused Trump of inciting an insurrection,

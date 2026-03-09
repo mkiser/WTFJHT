@@ -9,6 +9,8 @@ tags:
 - disinformation
 - mueller-investigation
 - congress
+- climate
+- voting-rights
 description: The end of everything.
 image: "/uploads/257.jpg"
 ---

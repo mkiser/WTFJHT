@@ -9,6 +9,8 @@ tags:
 - judiciary
 - immigration
 - congress
+- foreign-policy
+- indictment
 description: Oh my goodness.
 image: "/uploads/470.jpg"
 ---

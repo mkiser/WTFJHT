@@ -9,6 +9,8 @@ tags:
 - indictment
 - presidential-election
 - congress
+- voting-rights
+- national-security
 description: '"Clarifying."'
 image: "/uploads/day1133biden.jpg"
 todayInOneSentence: Alabama lawmakers are considering “clarifying” legislation that

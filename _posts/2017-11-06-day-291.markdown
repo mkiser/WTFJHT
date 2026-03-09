@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - national-security
+- tech-policy
+- indictment
 description: 'Bad conduct. '
 image: "/uploads/291.jpg"
 ---

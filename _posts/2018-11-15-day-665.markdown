@@ -9,6 +9,8 @@ tags:
 - sanctions
 - indictment
 - voting-rights
+- oversight
+- congress
 description: The envy of the world.
 image: "/uploads/665.jpg"
 todayInOneSentence: Trump accused Mueller of "horribly threatening" witnesses to force

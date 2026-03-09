@@ -9,6 +9,8 @@ tags:
 - ukraine
 - oversight
 - economy
+- taxes
+- national-security
 description: '"Oh well, I’m president!"'
 image: "/uploads/994.jpg"
 todayInOneSentence: Two men who worked with Giuliani to dig up dirt on Biden and his

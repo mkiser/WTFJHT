@@ -9,6 +9,8 @@ tags:
 - indictment
 - criminal-justice
 - congress
+- gun-policy
+- government-shutdown
 description: '"Frustrated with some people."'
 image: "/uploads/day-968-biden.jpg"
 todayInOneSentence: The world needs to invest $2.7 trillion a year to achieve net

@@ -9,6 +9,8 @@ tags:
 - congress
 - labor
 - media
+- national-security
+- polling
 description: '"Social and moral responsibility."'
 image: "/uploads/1218.jpg"
 todayInOneSentence: Another 2.4 million workers filed new unemployment claims last

@@ -9,6 +9,8 @@ tags:
 - climate
 - taxes
 - congress
+- oversight
+- voting-rights
 description: '"Deceitful."'
 image: "/uploads/day-554-biden.jpg"
 todayInOneSentence: The Justice Department is investigating Trump’s actions leading

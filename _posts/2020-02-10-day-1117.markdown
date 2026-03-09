@@ -9,6 +9,8 @@ tags:
 - congress
 - foreign-policy
 - national-security
+- immigration
+- economy
 description: Parasite.
 image: "/uploads/1117.jpg"
 todayInOneSentence: The Justice Department is reviewing information Rudy Giuliani

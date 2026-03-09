@@ -9,6 +9,8 @@ tags:
 - immigration
 - education
 - economy
+- national-security
+- tech-policy
 layout: post
 description: Trading barbs.
 image:

@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - education
 - congress
+- voting-rights
+- indictment
 description: '"A direct and personal role."'
 image: "/uploads/day-518-biden.jpg"
 todayInOneSentence: Treasury Secretary Janet Yellen backed Biden's position that a

@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - ukraine
+- oversight
+- economy
 description: Another state of mind.
 image: "/uploads/1027.jpg"
 todayInOneSentence: Trump considered firing the intelligence community's inspector

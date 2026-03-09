@@ -9,6 +9,8 @@ tags:
 - corruption
 - covid
 - congress
+- education
+- media
 description: '"Democracy is having a hard time functioning."'
 image: "/uploads/57-biden.jpg"
 todayInOneSentence: 'Biden discouraged potential migrants hoping to enter the United

@@ -9,6 +9,8 @@ tags:
 - disinformation
 - israel-palestine
 - immigration
+- economy
+- voting-rights
 description: '"An act of madness."'
 image: "/uploads/day-1218-biden.jpg"
 todayInOneSentence: 'Israel’s Communications Ministry confiscated camera and broadcasting

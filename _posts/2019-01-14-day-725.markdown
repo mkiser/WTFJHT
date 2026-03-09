@@ -9,6 +9,8 @@ tags:
 - russia
 - national-security
 - congress
+- nomination
+- oversight
 description: Big fat hoax.
 image: "/uploads/725.jpg"
 todayInOneSentence: The FBI opened a counterintelligence investigation into whether

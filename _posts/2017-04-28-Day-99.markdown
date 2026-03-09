@@ -9,6 +9,8 @@ tags:
 - economy
 - energy
 - foreign-policy
+- congress
+- mueller-investigation
 layout: post
 description: Weak.
 image:

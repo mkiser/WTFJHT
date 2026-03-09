@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - national-security
+- economy
+- oversight
 description: '"Hope and dignity."'
 image: "/uploads/day-688-biden.jpg"
 todayInOneSentence: The House passed legislation to enshrine federal protections for

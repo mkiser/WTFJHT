@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - polling
 - indictment
+- national-security
+- immigration
 description: '"Deliberately designed to hide the truth."'
 image: "/uploads/1097.jpg"
 todayInOneSentence: 'The first day of Trump''s impeachment trial in the Senate began

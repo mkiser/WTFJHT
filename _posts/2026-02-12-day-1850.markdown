@@ -25,6 +25,14 @@ podcast:
   file: "/uploads/Day 1850_ _Status quo._.mp3"
   duration: '00:07:21'
   length: 7066896
+tags:
+- national-security
+- immigration
+- voting-rights
+- congress
+- climate
+- oversight
+- impeachment
 ---
 
 1/ **The Senate failed to advance a bill to fund the Department of Homeland Security through Sept. 30, leaving the agency headed for a partial shutdown when funding expires Friday night**. After the vote failed, Republicans then tried to pass a short-term extension to keep DHS open while talks continued, but Democrats blocked it, saying they wouldn’t extend the “status quo” without new enforceable limits on immigration operations after DHS immigration agents fatally shot two U.S. citizens in Minneapolis. With no agreement, lawmakers left Washington for a weeklong recess with funding set to lapse at 12:01 a.m. Saturday. ([Politico](https://www.politico.com/live-updates/2026/02/12/congress/dhs-shutdown-all-but-certain-00778721) / [CNN](https://www.cnn.com/2026/02/12/politics/department-homeland-security-government-shutdown) / [Washington Post](https://www.washingtonpost.com/politics/2026/02/12/congress-homeland-security-shutdown/) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-12/dhs-shutdown-looms-as-senate-fails-to-cut-deal-heads-to-recess) / [New York Times](https://www.nytimes.com/2026/02/12/us/politics/homeland-security-shutdown-funding.html) / [Wall Street Journal](https://www.wsj.com/politics/policy/dhs-funding-bill-blocked-ea224391))

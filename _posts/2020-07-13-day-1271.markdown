@@ -9,6 +9,8 @@ tags:
 - media
 - mueller-investigation
 - china
+- indictment
+- tech-policy
 description: '"Highest risk."'
 image: "/uploads/1271.jpg"
 todayInOneSentence: Trump’s advisers anonymously sent media outlets a "lengthy list"

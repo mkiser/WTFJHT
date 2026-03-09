@@ -9,6 +9,8 @@ tags:
 - national-security
 - mueller-investigation
 - judiciary
+- nomination
+- voting-rights
 description: '"Trust the plan."'
 image: "/uploads/day-147-biden-political-news.jpg"
 todayInOneSentence: The number of confirmed U.S. deaths from Covid-19 surpassed 600,000;

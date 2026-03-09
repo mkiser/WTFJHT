@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - media
 - congress
+- veterans
+- national-security
 description: Really bad stuff.
 image: "/uploads/484.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - media
 - covid
 - national-security
+- congress
+- oversight
 description: '"No idea."'
 image: "/uploads/1231.jpg"
 todayInOneSentence: Defense Secretary Mark Esper said he doesn't support sending active

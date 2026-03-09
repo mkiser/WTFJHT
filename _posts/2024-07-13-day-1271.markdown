@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - congress
 - indictment
+- tech-policy
+- resignation
 description: '"We cannot be like this."'
 image: "/uploads/day-1271-biden.jpg"
 todayInOneSentence: 'The shooting at Trump’s rally in Butler, Pennsylvania is being

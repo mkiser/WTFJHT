@@ -7,6 +7,8 @@ tags:
 - national-security
 - labor
 - media
+- tech-policy
+- congress
 description: '"The single greatest insider threat."'
 image: "/uploads/day-1481-trump.jpg"
 todayInOneSentence: 'A federal judge temporarily blocked Elon Musk’s Department of

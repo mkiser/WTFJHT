@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - national-security
+- russia
+- judiciary
 description: The green light.
 image: "/uploads/875.jpg"
 todayInOneSentence: Trump admitted that he'd "want to hear" from foreign governments

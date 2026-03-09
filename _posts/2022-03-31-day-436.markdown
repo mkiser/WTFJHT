@@ -9,6 +9,8 @@ tags:
 - jan-6
 - voting-rights
 - congress
+- supreme-court
+- national-security
 description: '"Fairly significantly."'
 image: "/uploads/day-436-biden.jpg"
 todayInOneSentence: 'Senators reached a bipartisan deal "in principle" for $10 billion

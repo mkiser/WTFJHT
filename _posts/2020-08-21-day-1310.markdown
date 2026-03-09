@@ -9,6 +9,8 @@ tags:
 - congress
 - oversight
 - tech-policy
+- judiciary
+- indictment
 description: '"Season of darkness."'
 image: "/uploads/1310.jpg"
 todayInOneSentence: Biden challenged Americans to overcome Trump's "season of darkness";

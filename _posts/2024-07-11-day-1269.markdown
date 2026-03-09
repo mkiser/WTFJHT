@@ -9,6 +9,8 @@ tags:
 - economy
 - congress
 - ukraine
+- lgbtq-rights
+- voting-rights
 description: '"This is going to get worse."'
 image: "/uploads/day-1269-biden.jpg"
 todayInOneSentence: Trump claims he has nothing to do with Project 2025 – the plan

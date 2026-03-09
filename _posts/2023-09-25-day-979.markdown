@@ -9,6 +9,8 @@ tags:
 - indictment
 - government-shutdown
 - climate
+- voting-rights
+- congress
 description: '"Safer than ever."'
 image: "/uploads/day-979biden.jpg"
 todayInOneSentence: 'Trump vowed to investigate NBC News and MSNBC for “country threatening

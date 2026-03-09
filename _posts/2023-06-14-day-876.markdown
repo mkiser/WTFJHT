@@ -9,6 +9,8 @@ tags:
 - media
 - indictment
 - congress
+- national-security
+- judiciary
 description: '"How far we have come."'
 image: "/uploads/day-876-biden.jpg"
 todayInOneSentence: Federal Reserve officials agreed to hold interest rates steady

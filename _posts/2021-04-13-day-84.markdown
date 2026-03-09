@@ -9,6 +9,8 @@ tags:
 - national-security
 - foreign-policy
 - russia
+- healthcare
+- congress
 description: '"Abundance of caution."'
 image: "/uploads/84-biden-covid.jpg"
 todayInOneSentence: 'The CDC and the FDA recommended a “pause” in the use of the Johnson

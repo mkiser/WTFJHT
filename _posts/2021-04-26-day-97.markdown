@@ -9,6 +9,8 @@ tags:
 - covid
 - gun-policy
 - census
+- voting-rights
+- economy
 description: '"Presidential, focused, and competent."'
 image: "/uploads/day-97-biden.jpg"
 todayInOneSentence: The U.S. Census Bureau released the first set of updated state

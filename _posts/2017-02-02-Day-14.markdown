@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - congress
+- voting-rights
+- lgbtq-rights
 layout: post
 description: Braggadocious.
 image:

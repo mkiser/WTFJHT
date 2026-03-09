@@ -9,6 +9,8 @@ tags:
 - jan-6
 - voting-rights
 - lgbtq-rights
+- congress
+- supreme-court
 description: '"A critical window."'
 image: "/uploads/day-457-biden.jpg"
 todayInOneSentence: Biden announced another $800 million in military resources to

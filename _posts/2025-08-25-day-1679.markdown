@@ -7,6 +7,8 @@ tags:
 - judiciary
 - corruption
 - indictment
+- criminal-justice
+- supreme-court
 description: '"I’m not a dictator. I’m a man with great common sense and a smart person."'
 image: "/uploads/day1679trump.jpg"
 todayInOneSentence: Trump ordered the Pentagon to create "specialized units" in the

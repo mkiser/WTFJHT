@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - media
 - cabinet
+- national-security
+- education
 description: '"Bad position."'
 image: "/uploads/1378.jpg"
 todayInOneSentence: The United States reported another record-high average number

@@ -9,6 +9,8 @@ tags:
 - congress
 - oversight
 - national-security
+- indictment
+- taxes
 description: 'Stone cold crazy. '
 image: "/uploads/775.jpg"
 tag_excerpts:

@@ -9,6 +9,8 @@ tags:
 - indictment
 - energy
 - polling
+- media
+- voting-rights
 description: '"A routine act."'
 image: "/uploads/day-1448-biden-trump-harris.jpg"
 todayInOneSentence: A joint session of Congress certified Trump's 2024 victory without

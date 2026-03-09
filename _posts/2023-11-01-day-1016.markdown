@@ -9,6 +9,8 @@ tags:
 - healthcare
 - energy
 - infrastructure
+- congress
+- labor
 description: '"Proceeding carefully."'
 image: "/uploads/day1016-biden.jpg"
 todayInOneSentence: The Rafah border crossing opened for the first time since Israel

@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - climate
+- trade
+- media
 description: False light.
 image: "/uploads/866.jpg"
 todayInOneSentence: The White House directed Hope Hicks not to cooperate with a House

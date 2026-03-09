@@ -9,6 +9,8 @@ tags:
 - media
 - china
 - supreme-court
+- gun-policy
+- education
 description: '"Our plan is working."'
 image: "/uploads/day-748-biden.jpg"
 todayInOneSentence: The FBI arrested two people and charged them with conspiracy to

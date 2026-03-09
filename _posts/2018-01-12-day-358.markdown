@@ -9,6 +9,8 @@ tags:
 - corruption
 - foreign-policy
 - voting-rights
+- congress
+- education
 description: Racist.
 image: "/uploads/358.jpg"
 ---

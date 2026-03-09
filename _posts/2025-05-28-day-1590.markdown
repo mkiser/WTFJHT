@@ -7,6 +7,8 @@ tags:
 - economy
 - oversight
 - healthcare
+- doge
+- covid
 description: '"Trump Always Chickens Out."'
 image: "/uploads/day1560trump.jpg"
 todayInOneSentence: Elon Musk said he’s “disappointed” with Trump over the House-passed

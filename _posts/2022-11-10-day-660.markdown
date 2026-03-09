@@ -9,6 +9,8 @@ tags:
 - taxes
 - supreme-court
 - congress
+- midterm-election
+- lgbtq-rights
 description: '"Not at all angry."'
 image: "/uploads/day-660-biden.jpg"
 todayInOneSentence: 'Control of Congress continues to hang in the balance two days

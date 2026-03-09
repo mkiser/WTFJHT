@@ -9,6 +9,8 @@ tags:
 - indictment
 - tech-policy
 - media
+- covid
+- national-security
 description: Individual-1.
 image: "/uploads/580.jpg"
 todayInOneSentence: Michael Cohen has "knowledge" implicating Trump in a "criminal

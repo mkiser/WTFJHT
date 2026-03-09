@@ -10,6 +10,7 @@ tags:
 - ukraine
 - voting-rights
 - climate
+- nomination
 description: '"Less likely than ever."'
 image: "/uploads/day-995-biden.jpg"
 todayInOneSentence: 'Republicans nominated Steve Scalise to be the next speaker, but

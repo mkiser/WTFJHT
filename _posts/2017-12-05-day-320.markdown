@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - congress
 - russia
+- voting-rights
+- indictment
 description: Willingness to comply.
 image: "/uploads/320.jpg"
 ---

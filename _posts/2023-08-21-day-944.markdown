@@ -9,6 +9,8 @@ tags:
 - indictment
 - presidential-election
 - voting-rights
+- national-security
+- nomination
 description: '"Unprecedented weaponization."'
 image: "/uploads/day-944-biden.jpg"
 todayInOneSentence: 'The House Freedom Caucus threatened to oppose a stopgap funding

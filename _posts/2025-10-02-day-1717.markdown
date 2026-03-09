@@ -7,6 +7,8 @@ tags:
 - economy
 - protests
 - congress
+- labor
+- national-security
 description: '"Confusion and concern."'
 image: "/uploads/day1717trump.jpg"
 todayInOneSentence: 'Trump called the shutdown an “unprecedented opportunity” to slash

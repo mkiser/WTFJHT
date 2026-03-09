@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - foreign-policy
+- nomination
+- covid
 description: '"Intelligence failures."'
 image: "/uploads/biden-35.jpg"
 todayInOneSentence: Officials in charge of Capitol security on Jan. 6 blamed "intelligence

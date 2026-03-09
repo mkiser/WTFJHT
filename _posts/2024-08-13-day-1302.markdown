@@ -9,6 +9,8 @@ tags:
 - labor
 - corruption
 - tech-policy
+- voting-rights
+- media
 description: '"You’re all gone."'
 image: "/uploads/day-1302-biden-harris.jpg"
 todayInOneSentence: 'The FBI is investigating the suspected hacking attempts by Iran

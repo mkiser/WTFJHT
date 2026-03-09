@@ -7,6 +7,8 @@ tags:
 - lawsuit
 - congress
 - polling
+- education
+- economy
 description: '"Exploit the violence."'
 image: "/uploads/day1829trump.jpg"
 todayInOneSentence: 'An internal ICE memo signed by acting director Todd Lyons authorized

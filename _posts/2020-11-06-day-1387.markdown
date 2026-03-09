@@ -9,6 +9,8 @@ tags:
 - disinformation
 - tech-policy
 - congress
+- economy
+- national-security
 description: '"I don''t like losers."'
 image: "/uploads/1387.jpg"
 todayInOneSentence: Biden is on the verge of winning the presidency after taking the

@@ -9,6 +9,8 @@ tags:
 - sanctions
 - congress
 - economy
+- immigration
+- lgbtq-rights
 description: Backfired.
 image: "/uploads/190.jpg"
 ---

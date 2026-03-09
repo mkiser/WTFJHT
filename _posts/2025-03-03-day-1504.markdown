@@ -7,6 +7,8 @@ tags:
 - national-security
 - immigration
 - economy
+- israel-palestine
+- congress
 description: '"It’s going to be very costly for people."'
 image: "/uploads/day-1504-trump.jpg"
 todayInOneSentence: 'Trump confirmed that 25% tariffs on imports from Mexico and Canada

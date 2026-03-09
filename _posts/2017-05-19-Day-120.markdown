@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - foreign-policy
+- economy
+- national-security
 layout: post
 description: "<s>Kept in the dark.</s> Person of interest."
 image:

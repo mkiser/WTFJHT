@@ -9,6 +9,8 @@ tags:
 - immigration
 - israel-palestine
 - congress
+- supreme-court
+- trump-trials
 description: '"A clear message."'
 image: "/uploads/day-1163-biden.jpg"
 todayInOneSentence: 'An Alabama Democrat won a special election in the state Legislature

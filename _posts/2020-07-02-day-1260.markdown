@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - media
 - foreign-policy
+- education
+- lawsuit
 description: '"We are not flattening the curve right now."'
 image: "/uploads/1260.jpg"
 todayInOneSentence: The United States set a single-day coronavirus case record for

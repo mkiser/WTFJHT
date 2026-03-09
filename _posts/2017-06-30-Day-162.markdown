@@ -10,6 +10,7 @@ tags:
 - national-security
 - lgbtq-rights
 - climate
+- congress
 layout: post
 description: Fraud.
 image:

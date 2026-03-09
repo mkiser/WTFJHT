@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - congress
 - indictment
+- immigration
+- voting-rights
 description: '"This is the policy."'
 image: "/uploads/day-1346-biden-harris.jpg"
 todayInOneSentence: Federal prosecutors charged New York City Mayor Eric Adams with

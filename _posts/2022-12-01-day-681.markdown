@@ -9,6 +9,8 @@ tags:
 - climate
 - classified-documents
 - jan-6
+- congress
+- supreme-court
 description: '"A complete doomsday scenario."'
 image: "/uploads/day-681-biden.jpg"
 todayInOneSentence: The Supreme Court agreed to an expedited review of the Biden administration's

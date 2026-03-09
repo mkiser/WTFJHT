@@ -9,6 +9,8 @@ tags:
 - jan-6
 - education
 - congress
+- indictment
+- economy
 description: '"A fork in the road."'
 image: "/uploads/62-biden.jpg"
 todayInOneSentence: Homeland Security Secretary Alejandro Mayorkas defended Biden’s

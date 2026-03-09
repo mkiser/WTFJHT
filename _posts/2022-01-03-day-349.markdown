@@ -9,6 +9,8 @@ tags:
 - subpoena
 - voting-rights
 - congress
+- tech-policy
+- oversight
 description: '"A symptom of a broader illness."'
 image: "/uploads/day-349-biden.jpg"
 todayInOneSentence: The U.S. reported a pandemic record 403,385 Covid-19 cases over

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - protests
 - economy
+- national-security
+- oversight
 description: Dead on arrival.
 image: "/uploads/180.jpg"
 ---

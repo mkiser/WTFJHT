@@ -7,6 +7,8 @@ tags:
 - israel-palestine
 - immigration
 - judiciary
+- labor
+- supreme-court
 description: '"This is just the beginning."'
 image: "/uploads/day1519-trump.jpg"
 todayInOneSentence: 'A federal judge ruled that Elon Musk’s attempt to unilaterally

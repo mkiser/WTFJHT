@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - indictment
+- voting-rights
+- oversight
 description: Disgusting, illegal and unwarranted.
 image: "/uploads/483.jpg"
 todayInOneSentence: Trump marked Mueller's one-year anniversary as special counsel

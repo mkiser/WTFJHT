@@ -7,6 +7,8 @@ tags:
 - national-security
 - media
 - economy
+- protests
+- labor
 description: '"Common sense."'
 image: "/uploads/day1729trump.jpg"
 todayInOneSentence: Trump threatened to permanently cut more “Democrat programs” as

@@ -9,6 +9,8 @@ tags:
 - healthcare
 - immigration
 - congress
+- economy
+- taxes
 layout: post
 description: Explicit.
 image:

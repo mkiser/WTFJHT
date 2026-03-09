@@ -9,6 +9,8 @@ tags:
 - tariffs
 - trade
 - congress
+- russia
+- economy
 description: TOTALLY under siege.
 image: "/uploads/442.jpg"
 ---

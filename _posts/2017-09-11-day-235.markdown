@@ -9,6 +9,8 @@ tags:
 - media
 - supreme-court
 - oversight
+- foreign-policy
+- national-security
 description: Too bombastic.
 image: "/uploads/235.jpg"
 author: Clayton Aldern

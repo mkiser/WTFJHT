@@ -9,6 +9,8 @@ tags:
 - national-security
 - mueller-investigation
 - voting-rights
+- tech-policy
+- congress
 description: '"You''re not someone''s crazy uncle who can retweet whatever."'
 image: "/uploads/1366.jpg"
 todayInOneSentence: The U.S. passed 8 million coronavirus cases three weeks after

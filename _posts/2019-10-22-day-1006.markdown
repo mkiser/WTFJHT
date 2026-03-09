@@ -9,6 +9,8 @@ tags:
 - oversight
 - media
 - foreign-policy
+- national-security
+- cabinet
 description: Direct line.
 image: "/uploads/1006.jpg"
 todayInOneSentence: The top U.S. diplomat in Ukraine told House impeachment investigators

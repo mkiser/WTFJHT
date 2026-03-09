@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - ukraine
+- national-security
+- indictment
 description: Rooting out corruption.
 image: "/uploads/1030.jpg"
 todayInOneSentence: The former U.S. ambassador to Ukraine testified that Trump's comment

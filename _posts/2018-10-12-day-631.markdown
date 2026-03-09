@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - voting-rights
 - congress
+- judiciary
+- lawsuit
 description: 'Optics. '
 image: "/uploads/631.jpg"
 todayInOneSentence: The Trump administration is considering new rules to separate

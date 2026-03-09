@@ -9,6 +9,8 @@ tags:
 - congress
 - education
 - labor
+- economy
+- jan-6
 description: '"Transparent, open and honest."'
 image: "/uploads/biden-harris-day-3.jpg"
 todayInOneSentence: Nancy Pelosi will transmit the article of impeachment charging

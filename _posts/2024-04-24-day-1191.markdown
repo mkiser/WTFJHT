@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - jan-6
 - ukraine
+- indictment
+- congress
 description: '"Everyone knows it."'
 image: "/uploads/day-1191-biden.jpg"
 todayInOneSentence: Biden signed the $95 billion national security package into law,

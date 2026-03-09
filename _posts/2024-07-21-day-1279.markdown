@@ -9,6 +9,8 @@ tags:
 - immigration
 - voting-rights
 - polling
+- nomination
+- primary
 description: '"Let’s do this."'
 image: "/uploads/day-1279-biden-harris.jpg"
 todayInOneSentence: 'Following intense pressure from nearly 40 Democratic members

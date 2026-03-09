@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - oversight
 - lawsuit
+- national-security
+- nomination
 description: '"Trying to survive."'
 image: "/uploads/1394.jpg"
 todayInOneSentence: The U.S. topped more than 153,000 coronavirus cases for the first

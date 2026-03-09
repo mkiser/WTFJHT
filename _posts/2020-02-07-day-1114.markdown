@@ -9,6 +9,8 @@ tags:
 - immigration
 - economy
 - ethics
+- lawsuit
+- gun-policy
 description: '"You''ll see."'
 image: "/uploads/1114.jpg"
 todayInOneSentence: The White House fired a national security official who testified

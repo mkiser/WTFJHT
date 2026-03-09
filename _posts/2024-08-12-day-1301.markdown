@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - israel-palestine
 - voting-rights
+- congress
+- tech-policy
 description: '"Thought experiment."'
 image: "/uploads/day-1301-biden-harris.jpg"
 todayInOneSentence: 'Trump’s presidential campaign was hacked; U.S. intelligence warned

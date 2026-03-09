@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - tech-policy
 - disinformation
+- oversight
+- china
 description: 100,000 dead.
 image: "/uploads/1224.jpg"
 todayInOneSentence: Coronavirus deaths in the U.S. have passed 100,000; Twitter added

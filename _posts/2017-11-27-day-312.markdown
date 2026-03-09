@@ -9,6 +9,8 @@ tags:
 - media
 - national-security
 - congress
+- economy
+- nomination
 description: 'Your favorite president. '
 image: "/uploads/312.jpg"
 ---

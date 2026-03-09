@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - national-security
+- economy
+- judiciary
 description: Not playing games.
 image: "/uploads/799.jpg"
 todayInOneSentence: The Justice Department plans to release a redacted copy of Robert

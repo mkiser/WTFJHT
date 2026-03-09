@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - mueller-investigation
+- china
+- foreign-policy
 layout: post
 description: Incited violence.
 image:

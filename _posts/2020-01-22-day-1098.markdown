@@ -9,6 +9,8 @@ tags:
 - national-security
 - tech-policy
 - congress
+- foreign-policy
+- immigration
 description: '"Protect our democracy."'
 image: "/uploads/1098.jpg"
 todayInOneSentence: House Democratic managers began formal arguments in Trump's  Senate

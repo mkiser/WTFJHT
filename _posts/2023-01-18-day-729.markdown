@@ -9,6 +9,8 @@ tags:
 - immigration
 - climate
 - voting-rights
+- tech-policy
+- civil-rights
 description: '"Distorted."'
 image: "/uploads/day-729-biden.jpg"
 todayInOneSentence: 'George Santos reportedly scammed a disabled veteran out of $3,000

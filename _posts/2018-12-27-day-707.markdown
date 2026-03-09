@@ -9,6 +9,8 @@ tags:
 - russia
 - government-shutdown
 - congress
+- education
+- labor
 description: 'Whatever it takes. '
 image: "/uploads/707.jpg"
 ---

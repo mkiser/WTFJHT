@@ -9,6 +9,8 @@ tags:
 - corruption
 - national-security
 - lawsuit
+- trump-trials
+- judiciary
 description: '"Fundamentally flawed."'
 image: "/uploads/day-1170-biden.jpg"
 todayInOneSentence: 'Special Counsel Jack Smith warned the judge overseeing Trump’s

@@ -9,6 +9,8 @@ tags:
 - national-security
 - russia
 - tech-policy
+- congress
+- nomination
 description: The lowest point.
 image: "/uploads/286.jpg"
 ---

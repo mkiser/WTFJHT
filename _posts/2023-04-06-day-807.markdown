@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - economy
 - congress
+- supreme-court
+- education
 description: '"Something is going to go boom."'
 image: "/uploads/day-807-biden.jpg"
 todayInOneSentence: Supreme Court Justice Clarence Thomas accepted secret luxury vacations

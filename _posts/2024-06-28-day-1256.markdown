@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - supreme-court
 - indictment
+- immigration
+- housing
 description: '"There''s nothing to debate."'
 image: "/uploads/day-1256-biden.jpg"
 todayInOneSentence: The first presidential debate between the two oldest candidates

@@ -9,6 +9,8 @@ tags:
 - indictment
 - jan-6
 - lgbtq-rights
+- trump-trials
+- national-security
 description: '"Bad things."'
 image: "/uploads/day-671-biden.jpg"
 todayInOneSentence: 'A gunman killed five people and injured 18 others at an LGBTQ

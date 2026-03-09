@@ -9,6 +9,8 @@ tags:
 - oversight
 - national-security
 - russia
+- foreign-policy
+- immigration
 description: Meritless.
 image: "/uploads/831.jpg"
 todayInOneSentence: The Justice Department and the House Judiciary Committee are at

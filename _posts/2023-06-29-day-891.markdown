@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - supreme-court
 - civil-rights
+- lgbtq-rights
+- economy
 description: '"Let them eat cake."'
 image: "/uploads/day-891-biden.jpg"
 todayInOneSentence: 'The Supreme Court struck down affirmative action in college admissions,

@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - covid
+- immigration
+- voting-rights
 description: '"Landmark progress."'
 image: "/uploads/day-304-bbb-biden.jpg"
 todayInOneSentence: The House passed Biden's roughly $2 trillion social and climate

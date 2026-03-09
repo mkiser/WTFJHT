@@ -9,6 +9,8 @@ tags:
 - indictment
 - classified-documents
 - economy
+- national-security
+- congress
 description: '"A deep sense of fear."'
 image: "/uploads/day-1253-biden.jpg"
 todayInOneSentence: The U.S. surgeon general declared gun violence a public health

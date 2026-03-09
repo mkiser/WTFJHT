@@ -9,6 +9,8 @@ tags:
 - ethics
 - trade
 - media
+- voting-rights
+- foreign-policy
 description: Very unhappy.
 image: "/uploads/413.jpg"
 ---

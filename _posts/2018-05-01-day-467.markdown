@@ -9,6 +9,8 @@ tags:
 - ethics
 - energy
 - healthcare
+- oversight
+- media
 description: So disgraceful.
 image: "/uploads/467.jpg"
 ---

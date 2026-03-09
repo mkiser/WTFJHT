@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - national-security
 - debt-ceiling
+- cabinet
+- media
 description: '"Be prepared."'
 image: "/uploads/biden-day-728.jpg"
 todayInOneSentence: Treasury Secretary Janet Yellen notified Congress that the U.S.

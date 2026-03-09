@@ -9,6 +9,8 @@ tags:
 - jan-6
 - media
 - voting-rights
+- healthcare
+- economy
 description: '"Bedrock constitutional principles."'
 image: "/uploads/day-524-biden.jpg"
 todayInOneSentence: A Louisiana judge temporarily blocked enforcement of a statewide

@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - oversight
+- economy
+- foreign-policy
 description: Full cooperation.
 image: "/uploads/316.jpg"
 ---

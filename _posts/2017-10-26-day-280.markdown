@@ -9,6 +9,8 @@ tags:
 - sanctions
 - congress
 - national-security
+- economy
+- voting-rights
 description: 'Bullet. '
 image: "/uploads/280.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - economy
 - taxes
 - media
+- congress
+- judiciary
 description: Inevitable.
 image: "/uploads/629.jpg"
 todayInOneSentence: Trump claimed the Democratic Party's push for "Medicare for All"

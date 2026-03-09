@@ -9,6 +9,8 @@ tags:
 - economy
 - media
 - voting-rights
+- labor
+- tech-policy
 description: Damaging to our democracy.
 image: "/uploads/942.jpg"
 todayInOneSentence: Trump claimed – without evidence – that Google "manipulated" votes

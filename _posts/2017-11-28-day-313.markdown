@@ -9,6 +9,8 @@ tags:
 - disinformation
 - immigration
 - congress
+- media
+- economy
 description: Pettiness.
 image: "/uploads/313.jpg"
 ---

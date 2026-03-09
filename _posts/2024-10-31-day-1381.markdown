@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - foreign-policy
 - tech-policy
+- china
+- polling
 description: '"Like it or not."'
 image: "/uploads/day-1381-biden-harris.jpg"
 todayInOneSentence: 'Trump vowed to "protect" women “whether the women like it or

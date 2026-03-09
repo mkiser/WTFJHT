@@ -9,6 +9,8 @@ tags:
 - media
 - oversight
 - protests
+- taxes
+- economy
 layout: post
 description: Crackdown.
 image:

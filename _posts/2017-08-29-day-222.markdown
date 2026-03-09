@@ -9,6 +9,8 @@ tags:
 - russia
 - oversight
 - congress
+- climate
+- foreign-policy
 description: Concealed.
 image: "/uploads/222.jpg"
 ---

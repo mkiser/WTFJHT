@@ -9,6 +9,8 @@ tags:
 - economy
 - trade
 - media
+- national-security
+- labor
 description: '"Too much, too late."'
 image: "/uploads/day-1366-biden-harris.jpg"
 todayInOneSentence: 'A Georgia judge blocked a new state rule that would have required

@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - media
+- russia
+- foreign-policy
 description: Sunk.
 image: "/uploads/355.jpg"
 ---

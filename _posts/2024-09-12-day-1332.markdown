@@ -9,6 +9,8 @@ tags:
 - judiciary
 - voting-rights
 - national-security
+- trump-trials
+- supreme-court
 description: '"Void for vagueness."'
 image: "/uploads/day-1332-biden-harris.jpg"
 todayInOneSentence: A North Dakota judge struck down the state's abortion ban; an

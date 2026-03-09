@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - media
 - education
+- healthcare
+- national-security
 description: '"Why would he do this?"'
 image: "/uploads/1322.jpg"
 todayInOneSentence: The CDC directed states to prepare to distribute a coronavirus

@@ -9,6 +9,8 @@ tags:
 - congress
 - nomination
 - voting-rights
+- judiciary
+- lawsuit
 description: '"Decisive actions."'
 image: "/uploads/1377.jpg"
 todayInOneSentence: The Senate confirmed Amy Coney Barrett to the Supreme Court; the

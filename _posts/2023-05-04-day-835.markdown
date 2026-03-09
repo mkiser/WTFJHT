@@ -9,6 +9,8 @@ tags:
 - ethics
 - reproductive-rights
 - indictment
+- supreme-court
+- congress
 description: '"An insidious plot."'
 image: "/uploads/day-835-biden.jpg"
 todayInOneSentence: Four members of the Proud Boys were found guilty of seditious

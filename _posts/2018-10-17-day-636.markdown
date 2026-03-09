@@ -9,6 +9,8 @@ tags:
 - indictment
 - economy
 - education
+- criminal-justice
+- congress
 description: 'Natural instinct. '
 image: "/uploads/636.jpg"
 todayInOneSentence: Mueller is expected to issue findings after the midterm elections

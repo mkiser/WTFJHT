@@ -9,6 +9,8 @@ tags:
 - economy
 - jan-6
 - covid
+- voting-rights
+- congress
 description: '"Preposterous."'
 image: "/uploads/day-415-biden.jpg"
 todayInOneSentence: 'The Biden administration warned that Russia could be preparing

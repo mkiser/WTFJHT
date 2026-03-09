@@ -10,6 +10,7 @@ tags:
 - indictment
 - voting-rights
 - climate
+- national-security
 description: '"We cannot accept it."'
 image: "/uploads/day-1010b.jpg"
 todayInOneSentence: A manhunt for the gunman suspected of killing 18 people and injuring

@@ -7,6 +7,8 @@ tags:
 - voting-rights
 - corruption
 - congress
+- israel-palestine
+- national-security
 description: '"Sort of made up my mind."'
 image: "/uploads/day1763trump.jpg"
 todayInOneSentence: Trump rolled back reciprocal tariffs on beef, coffee, bananas,

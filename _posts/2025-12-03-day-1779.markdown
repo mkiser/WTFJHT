@@ -7,6 +7,8 @@ tags:
 - immigration
 - energy
 - congress
+- oversight
+- climate
 description: '"Wake-up call."'
 image: "/uploads/day1779trupm.jpg"
 todayInOneSentence: Republican Matt Van Epps won a House special election in Tennessee’s

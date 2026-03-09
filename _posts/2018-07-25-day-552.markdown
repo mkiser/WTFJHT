@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - media
+- voting-rights
+- economy
 description: All the stuff.
 image: "/uploads/552.jpg"
 todayInOneSentence: A federal judge ruled for a second time that Trump must face a

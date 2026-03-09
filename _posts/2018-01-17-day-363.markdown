@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - media
+- foreign-policy
+- national-security
 description: Gag order.
 image: "/uploads/363.jpg"
 ---

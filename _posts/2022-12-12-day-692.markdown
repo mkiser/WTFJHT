@@ -9,6 +9,8 @@ tags:
 - energy
 - climate
 - congress
+- voting-rights
+- judiciary
 description: '"Chaos."'
 image: "/uploads/day-692-biden.jpg"
 todayInOneSentence: A federal judge declined to hold Trump or his office in contempt

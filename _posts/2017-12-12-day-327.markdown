@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - mueller-investigation
+- polling
+- judiciary
 description: 'Sexist smear. '
 image: "/uploads/327.jpg"
 ---

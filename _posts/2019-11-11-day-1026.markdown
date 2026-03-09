@@ -9,6 +9,8 @@ tags:
 - ukraine
 - taxes
 - congress
+- lawsuit
+- subpoena
 description: '"This issue."'
 image: "/uploads/1026.jpg"
 todayInOneSentence: A senior defense official told House impeachment investigators

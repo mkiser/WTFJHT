@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - media
 - immigration
+- national-security
+- lawsuit
 description: Quite enthusiastic.
 image: "/uploads/599.jpg"
 todayInOneSentence: The Trump campaign team was "fully aware" of George Papadopoulos'

@@ -9,6 +9,8 @@ tags:
 - disinformation
 - corruption
 - lawsuit
+- congress
+- labor
 description: Shuffling the deck.
 image: "/uploads/425.jpg"
 ---

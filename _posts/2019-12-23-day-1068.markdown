@@ -9,6 +9,8 @@ tags:
 - national-security
 - mueller-investigation
 - congress
+- media
+- voting-rights
 description: Hold off.
 image: "/uploads/1068.jpg"
 todayInOneSentence: A White House official directed the Defense Department to "hold

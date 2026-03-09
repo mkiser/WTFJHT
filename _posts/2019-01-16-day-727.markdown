@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - congress
 - russia
+- labor
+- mueller-investigation
 description: Damage.
 image: "/uploads/727.jpg"
 todayInOneSentence: The government shutdown is causing more economic damage than previously

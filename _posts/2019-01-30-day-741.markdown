@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - immigration
+- foreign-policy
+- voting-rights
 description: Back to school.
 image: "/uploads/741.jpg"
 todayInOneSentence: Trump attacked the U.S. intelligence community; Trump met Putin

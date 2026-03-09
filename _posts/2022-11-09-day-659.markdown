@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - lgbtq-rights
 - economy
+- supreme-court
+- congress
 description: '"A good day for democracy."'
 image: "/uploads/day-659-biden.jpg"
 todayInOneSentence: 'Senate control hinges on three states, while Republicans have

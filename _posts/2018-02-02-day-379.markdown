@@ -9,6 +9,8 @@ tags:
 - russia
 - oversight
 - media
+- foreign-policy
+- indictment
 description: Disgrace.
 image: "/uploads/379.jpg"
 ---

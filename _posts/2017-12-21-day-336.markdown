@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - taxes
+- voting-rights
+- foreign-policy
 description: A formula for success.
 image: "/uploads/336.jpg"
 ---

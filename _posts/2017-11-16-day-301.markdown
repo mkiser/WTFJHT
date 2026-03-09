@@ -9,6 +9,8 @@ tags:
 - national-security
 - energy
 - congress
+- climate
+- gun-policy
 description: 'Bring it on. '
 image: "/uploads/301.jpg"
 ---

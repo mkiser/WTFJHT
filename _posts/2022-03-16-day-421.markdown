@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - economy
+- foreign-policy
+- polling
 description: '"Do more."'
 image: "/uploads/day-421-biden.jpg"
 todayInOneSentence: Ukraine President Zelensky invoked Pearl Harbor and the Sept.

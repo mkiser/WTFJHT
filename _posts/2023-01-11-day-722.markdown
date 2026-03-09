@@ -9,6 +9,8 @@ tags:
 - impeachment
 - tech-policy
 - oversight
+- supreme-court
+- gun-policy
 description: '"MAGA extremists have hijacked the Republican Party."'
 image: "/uploads/day-722-bidenn.jpg"
 todayInOneSentence: House Republicans approved the formation of the Weaponization

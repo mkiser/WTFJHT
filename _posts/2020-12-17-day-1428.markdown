@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - mueller-investigation
+- labor
+- tech-policy
 description: '"A grave risk."'
 image: "/uploads/1428.jpg"
 todayInOneSentence: The United States reported its deadliest day of the pandemic to

@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - national-security
 - tech-policy
+- voting-rights
+- criminal-justice
 description: '"The President is now a king above the law."'
 image: "/uploads/day-1259-biden.jpg"
 tag_excerpts:

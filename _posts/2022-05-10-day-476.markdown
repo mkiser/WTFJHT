@@ -9,6 +9,8 @@ tags:
 - climate
 - media
 - jan-6
+- congress
+- voting-rights
 description: '"The bottom line."'
 image: "/uploads/day-476.jpg"
 todayInOneSentence: Biden said that tackling inflation is his "top domestic priority"

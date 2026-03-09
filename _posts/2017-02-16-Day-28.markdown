@@ -9,6 +9,8 @@ tags:
 - national-security
 - russia
 - immigration
+- congress
+- supreme-court
 layout: post
 description: "<s>Intel.</s> Dumpster fire."
 image:

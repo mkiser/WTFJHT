@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - cabinet
+- voting-rights
+- tech-policy
 description: '"That should never have happened."'
 image: "/uploads/1355.jpg"
 todayInOneSentence: On Saturday, White House physician Dr. Sean Conley said Trump

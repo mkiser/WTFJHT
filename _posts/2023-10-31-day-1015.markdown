@@ -9,6 +9,8 @@ tags:
 - tech-policy
 - ethics
 - congress
+- supreme-court
+- economy
 description: '"They will cost us a lot more in the future."'
 image: "/uploads/1015biden.jpg"
 todayInOneSentence: 'Speaker Mike Johnson and House Republicans unveiled a $14.3 billion

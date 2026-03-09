@@ -9,6 +9,8 @@ tags:
 - executive-order
 - congress
 - economy
+- national-security
+- judiciary
 description: Contentious.
 image: "/uploads/715.jpg"
 todayInOneSentence: House Democrats approved a bill to reopen the federal government

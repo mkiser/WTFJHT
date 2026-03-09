@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - polling
+- voting-rights
+- tech-policy
 description: To surveil and abuse.
 image: "/uploads/357.jpg"
 ---

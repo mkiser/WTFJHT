@@ -9,6 +9,8 @@ tags:
 - ukraine
 - oversight
 - taxes
+- judiciary
+- immigration
 description: Not even a little bit.
 image: "/uploads/1029.jpg"
 todayInOneSentence: A federal appeals court ruled that Trump's accounting firm must

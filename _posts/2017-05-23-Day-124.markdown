@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - national-security
 - congress
+- mueller-investigation
+- oversight
 layout: post
 description: Cuts for the poor.
 image:

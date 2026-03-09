@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - indictment
 - civil-rights
+- congress
+- education
 description: '"Extreme."'
 image: "/uploads/day-849-biden.jpg"
 todayInOneSentence: 'Kevin McCarthy and Chuck Schumer are planning a vote on a bipartisan

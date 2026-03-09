@@ -9,6 +9,8 @@ tags:
 - immigration
 - government-shutdown
 - labor
+- tech-policy
+- voting-rights
 description: Tailspin.
 image: "/uploads/701.jpg"
 todayInOneSentence: A partial shutdown is assured after House lawmakers left the Capitol

@@ -9,6 +9,8 @@ tags:
 - subpoena
 - judiciary
 - congress
+- national-security
+- taxes
 description: '"Repugnant to the American Dream."'
 image: "/uploads/995.jpg"
 todayInOneSentence: Federal district and appellate judges rejected Trump's attempt

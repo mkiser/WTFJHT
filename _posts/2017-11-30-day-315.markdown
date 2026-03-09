@@ -9,6 +9,8 @@ tags:
 - taxes
 - mueller-investigation
 - congress
+- economy
+- national-security
 description: 'Rexit. '
 image: "/uploads/315.jpg"
 ---

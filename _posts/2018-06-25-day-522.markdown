@@ -9,6 +9,8 @@ tags:
 - trade
 - indictment
 - national-security
+- economy
+- russia
 description: Inhumane and unethical.
 image: "/uploads/522.jpg"
 todayInOneSentence: Trump wants to "immediately" send immigrants who illegally enter

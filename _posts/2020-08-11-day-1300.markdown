@@ -9,6 +9,8 @@ tags:
 - immigration
 - economy
 - polling
+- voting-rights
+- nomination
 description: '"A tragic mistake."'
 image: "/uploads/1300.jpg"
 todayInOneSentence: Joe Biden selected Kamala Harris as his running mate hours after

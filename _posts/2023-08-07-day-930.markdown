@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - media
 - supreme-court
+- judiciary
+- trump-trials
 description: '"Deranged."'
 image: "/uploads/day-930-biden-trump-indictments.jpg"
 todayInOneSentence: 'Special counsel Jack Smith asked a federal judge to place Trump

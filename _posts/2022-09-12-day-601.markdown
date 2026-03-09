@@ -9,6 +9,8 @@ tags:
 - economy
 - education
 - taxes
+- national-security
+- congress
 description: '"The burden."'
 image: "/uploads/day-601-biden.jpg"
 todayInOneSentence: 'Trump asked a federal judge to deny the Justice Department’s

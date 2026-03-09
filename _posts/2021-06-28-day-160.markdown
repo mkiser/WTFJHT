@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - congress
 - supreme-court
+- tech-policy
+- education
 description: '"Not my intent."'
 image: "/uploads/day-160-biden.jpg"
 todayInOneSentence: Biden walked back his threat to veto the bipartisan infrastructure

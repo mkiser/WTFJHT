@@ -9,6 +9,8 @@ tags:
 - executive-order
 - tech-policy
 - infrastructure
+- lawsuit
+- national-security
 layout: post
 description: Unreal.
 image:

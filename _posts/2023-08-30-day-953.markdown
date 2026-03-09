@@ -9,6 +9,8 @@ tags:
 - labor
 - congress
 - indictment
+- polling
+- media
 description: '"We''re gonna need a minute."'
 image: "/uploads/day-953-biden.jpg"
 todayInOneSentence: 'Georgia Senate Republicans are considering ways to punish District

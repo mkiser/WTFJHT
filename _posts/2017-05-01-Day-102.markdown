@@ -9,6 +9,8 @@ tags:
 - national-security
 - education
 - media
+- immigration
+- congress
 layout: post
 description: Bizarre.
 image:

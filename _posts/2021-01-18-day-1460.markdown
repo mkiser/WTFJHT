@@ -9,6 +9,8 @@ tags:
 - national-security
 - protests
 - nomination
+- immigration
+- voting-rights
 description: '"Indefensible."'
 image: "/uploads/1460.jpg"
 tag_excerpts:

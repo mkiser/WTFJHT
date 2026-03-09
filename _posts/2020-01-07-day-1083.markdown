@@ -9,6 +9,8 @@ tags:
 - national-security
 - media
 - indictment
+- foreign-policy
+- criminal-justice
 description: '"Historic nightmare."'
 image: "/uploads/1083.jpg"
 todayInOneSentence: Mitch McConnell told Republicans he had the votes needed to begin

@@ -9,6 +9,8 @@ tags:
 - congress
 - education
 - russia
+- mueller-investigation
+- midterm-election
 description: Erratic.
 image: "/uploads/573.jpg"
 todayInOneSentence: Trump revoked John Brennan's security clearance; the FBI has investigated

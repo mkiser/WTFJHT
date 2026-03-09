@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - indictment
+- judiciary
+- foreign-policy
 description: Deteriorating situation.
 image: "/uploads/782.jpg"
 todayInOneSentence: The New York attorney general's office opened an investigation

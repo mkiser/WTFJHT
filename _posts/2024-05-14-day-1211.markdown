@@ -9,6 +9,8 @@ tags:
 - indictment
 - jan-6
 - subpoena
+- criminal-justice
+- judiciary
 description: '"It''s cheating."'
 image: "/uploads/day-1211-biden.jpg"
 todayInOneSentence: Biden announced new tariffs on $18 billion in Chinese imports,

@@ -9,6 +9,8 @@ tags:
 - media
 - russia
 - oversight
+- economy
+- foreign-policy
 description: Complete power.
 tag_excerpts:
   pardon: In a two hour rant on Twitter, Trump asserted his "complete power" to pardon

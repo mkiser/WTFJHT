@@ -9,6 +9,7 @@ tags:
 - national-security
 - polling
 - foreign-policy
+- congress
 layout: post
 description: Embarrassment.
 image:

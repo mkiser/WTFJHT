@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - voting-rights
+- lgbtq-rights
+- foreign-policy
 description: But that's okay.
 image: "/uploads/614.jpg"
 todayInOneSentence: Kavanaugh's high school yearbook page list a supposed sexual conquest

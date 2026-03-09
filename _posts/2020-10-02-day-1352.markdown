@@ -9,6 +9,8 @@ tags:
 - congress
 - voting-rights
 - protests
+- cabinet
+- national-security
 description: '"Give me a fucking break."'
 image: "/uploads/1352.jpg"
 todayInOneSentence: Trump tested positive for the coronavirus and was taken to Walter

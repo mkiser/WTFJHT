@@ -9,6 +9,8 @@ tags:
 - oversight
 - climate
 - covid
+- foreign-policy
+- resignation
 layout: post
 description: Complete vindication.
 image:

@@ -9,6 +9,8 @@ tags:
 - judiciary
 - indictment
 - oversight
+- economy
+- taxes
 description: 'Gone rogue. '
 image: "/uploads/677.jpg"
 todayInOneSentence: Paul Manafort violated his cooperation agreement with Robert Mueller

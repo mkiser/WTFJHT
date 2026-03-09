@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - russia
+- presidential-election
+- economy
 layout: post
 description: Nuclear option.
 image:

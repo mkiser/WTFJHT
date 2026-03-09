@@ -9,6 +9,8 @@ tags:
 - energy
 - economy
 - national-security
+- congress
+- media
 description: '"It''s time to intensify."'
 image: "/uploads/1175.jpg"
 todayInOneSentence: Trump attacked the World Health Organization and threatened to

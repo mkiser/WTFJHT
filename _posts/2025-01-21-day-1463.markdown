@@ -9,6 +9,8 @@ tags:
 - immigration
 - energy
 - national-security
+- climate
+- congress
 description: '"An ongoing threat."'
 image: "/uploads/day-1463-trump.jpg"
 redirect_from: "/2025/01/21/day-1463.markdown/"

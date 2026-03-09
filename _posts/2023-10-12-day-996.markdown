@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - economy
 - national-security
+- criminal-justice
+- foreign-policy
 description: '"Even when it''s difficult."'
 image: "/uploads/day-996b.jpg"
 todayInOneSentence: The House remains leaderless as Steve Scalise doesn't have the

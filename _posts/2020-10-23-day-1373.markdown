@@ -9,6 +9,8 @@ tags:
 - protests
 - immigration
 - economy
+- voting-rights
+- congress
 description: '"A dark winter."'
 image: "/uploads/1373.jpg"
 todayInOneSentence: The United States coronavirus cases set new a daily record; Trump

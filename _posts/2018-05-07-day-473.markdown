@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - media
+- presidential-election
+- israel-palestine
 description: 'Fighting back. '
 image: "/uploads/473.jpg"
 ---

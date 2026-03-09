@@ -9,6 +9,8 @@ tags:
 - economy
 - media
 - oversight
+- nomination
+- voting-rights
 description: Totally denied.
 image: "/uploads/635.jpg"
 todayInOneSentence: Saudi Crown Prince Mohammed Bin Salman will support a "thorough,

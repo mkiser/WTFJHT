@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - congress
 - economy
+- voting-rights
+- national-security
 author: matt
 description: '"Incriminate Hillary."'
 image:

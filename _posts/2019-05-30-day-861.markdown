@@ -9,6 +9,8 @@ tags:
 - national-security
 - russia
 - voting-rights
+- trade
+- indictment
 description: Essentially.
 image: "/uploads/861.jpg"
 todayInOneSentence: Trump tweeted that Russia helped "me to get elected"; Trump attacked

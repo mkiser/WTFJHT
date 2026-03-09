@@ -9,6 +9,8 @@ tags:
 - economy
 - voting-rights
 - congress
+- indictment
+- ukraine
 description: '"Practically impossible."'
 image: "/uploads/day-1057bdiden.jpg"
 todayInOneSentence: 'Biden warned Prime Minister Benjamin Netanyahu that Israel was

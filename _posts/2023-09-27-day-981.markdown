@@ -10,6 +10,7 @@ tags:
 - covid
 - lawsuit
 - debate
+- congress
 description: '"Total annihilation."'
 image: "/uploads/day-981-biden.jpg"
 todayInOneSentence: A federal government shutdown looks increasingly likely as Kevin

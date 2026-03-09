@@ -9,6 +9,8 @@ tags:
 - judiciary
 - voting-rights
 - congress
+- immigration
+- national-security
 layout: post
 description: Supreme.
 image:

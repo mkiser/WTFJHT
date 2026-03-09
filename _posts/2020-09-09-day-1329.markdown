@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - education
+- economy
+- voting-rights
 description: '"This is deadly stuff."'
 image: "/uploads/1329.jpg"
 todayInOneSentence: Top Trump appointees at the Department of Homeland Security repeatedly

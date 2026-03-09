@@ -9,6 +9,8 @@ tags:
 - immigration
 - climate
 - healthcare
+- opioids
+- judiciary
 layout: post
 description: Abrupt.
 image:

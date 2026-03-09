@@ -9,6 +9,8 @@ tags:
 - state-of-the-union
 - congress
 - russia
+- education
+- oversight
 description: Serving as a deterrent.
 image: "/uploads/376.jpg"
 ---

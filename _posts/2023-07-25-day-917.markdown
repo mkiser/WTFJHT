@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - climate
 - voting-rights
+- congress
+- oversight
 description: '"Tipping point."'
 image: "/uploads/day-917-biden.jpg"
 todayInOneSentence: 'Kevin McCarthy suggested that House Republicans may pursue an

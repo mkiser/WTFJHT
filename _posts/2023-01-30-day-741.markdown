@@ -9,6 +9,8 @@ tags:
 - economy
 - supreme-court
 - oversight
+- media
+- criminal-justice
 description: '"Reasonable and responsible."'
 image: "/uploads/biden-day-741.jpg"
 todayInOneSentence: 'A sixth Memphis police officer “has been relieved of duty” for

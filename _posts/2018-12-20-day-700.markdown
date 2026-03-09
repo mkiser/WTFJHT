@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - media
+- economy
+- nomination
 description: Fatally misconceived.
 image: "/uploads/700.jpg"
 todayInOneSentence: Trump won't sign the funding measure to avoid a partial government

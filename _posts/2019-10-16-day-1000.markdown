@@ -9,6 +9,8 @@ tags:
 - oversight
 - indictment
 - ukraine
+- foreign-policy
+- national-security
 description: Meltdown.
 image: "/uploads/1000.jpg"
 todayInOneSentence: The White House is conducting its own investigation into why a

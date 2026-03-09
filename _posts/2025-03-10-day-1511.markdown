@@ -7,6 +7,8 @@ tags:
 - ukraine
 - government-shutdown
 - immigration
+- israel-palestine
+- lgbtq-rights
 description: '"Detox period."'
 image: "/uploads/day-1511-trump.jpg"
 todayInOneSentence: 'Trump declined to rule out a recession, but instead called the

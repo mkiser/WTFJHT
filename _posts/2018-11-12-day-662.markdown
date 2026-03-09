@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - indictment
+- economy
+- taxes
 description: Infected.
 image: "/uploads/662.jpg"
 todayInOneSentence: Trump called for Florida to suspend its legally required recount

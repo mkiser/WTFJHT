@@ -9,6 +9,8 @@ tags:
 - economy
 - labor
 - mueller-investigation
+- indictment
+- national-security
 description: '"Overly prescriptive."'
 image: "/uploads/1204.jpg"
 todayInOneSentence: An additional 3.2 million Americans filed unemployment claims

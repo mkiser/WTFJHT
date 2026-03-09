@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - disinformation
+- labor
+- supreme-court
 description: '"Covid, Covid. Covid, Covid, Covid, Covid."'
 image: "/uploads/1376.jpg"
 todayInOneSentence: The U.S. hit an all-time high in new coronavirus cases two days

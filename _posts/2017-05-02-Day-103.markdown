@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - trade
 - congress
+- russia
+- economy
 layout: post
 description: Floundering.
 image:

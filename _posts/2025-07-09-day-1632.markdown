@@ -7,6 +7,8 @@ tags:
 - oversight
 - corruption
 - congress
+- russia
+- china
 description: '"Treating democracy like a suggestion."'
 image: "/uploads/day1632-trump.jpg"
 todayInOneSentence: Trump notified seven more countries they’ll face new tariffs and

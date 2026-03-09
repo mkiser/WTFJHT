@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - criminal-justice
+- reproductive-rights
+- taxes
 description: Privilege.
 image: "/uploads/838.jpg"
 todayInOneSentence: The White House invoked executive privilege and ordered Donald

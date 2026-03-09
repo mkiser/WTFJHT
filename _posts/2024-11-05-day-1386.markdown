@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - lgbtq-rights
+- trade
+- tech-policy
 description: '"America is ready for a fresh start."'
 image: "/uploads/day-1386-biden-harris.jpg"
 todayInOneSentence: The presidential election is today; more than 83 million Americans

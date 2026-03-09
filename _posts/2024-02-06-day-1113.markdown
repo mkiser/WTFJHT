@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - indictment
+- judiciary
+- immigration
 description: '"Show some spine."'
 image: "/uploads/day1113biden.jpg"
 todayInOneSentence: A federal appeals court rejected Trump’s claim that he’s immune

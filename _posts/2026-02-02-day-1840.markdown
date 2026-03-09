@@ -7,6 +7,8 @@ tags:
 - economy
 - indictment
 - mueller-investigation
+- immigration
+- national-security
 description: '"An unfolding emergency."'
 image: "/uploads/day1840trump.jpg"
 todayInOneSentence: The partial federal government shutdown entered its third day

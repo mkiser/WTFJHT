@@ -9,6 +9,8 @@ tags:
 - congress
 - protests
 - labor
+- national-security
+- tech-policy
 description: '"Out of whack."'
 image: "/uploads/1372.jpg"
 todayInOneSentence: Another 787,000 workers filed new unemployment claims last week;

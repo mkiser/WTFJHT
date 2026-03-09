@@ -9,6 +9,8 @@ tags:
 - economy
 - national-security
 - congress
+- judiciary
+- covid
 description: '"Big action."'
 image: "/uploads/1225.jpg"
 todayInOneSentence: 2.1 million more Americans filed for first-time unemployment benefits

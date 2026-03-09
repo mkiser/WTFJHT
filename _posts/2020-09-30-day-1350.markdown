@@ -9,6 +9,8 @@ tags:
 - education
 - russia
 - voting-rights
+- national-security
+- supreme-court
 description: '"A national embarrassment."'
 image: "/uploads/1350.jpg"
 todayInOneSentence: Trump refused to condemn white supremacists during the first presidential

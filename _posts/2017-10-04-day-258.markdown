@@ -9,6 +9,8 @@ tags:
 - ethics
 - immigration
 - climate
+- voting-rights
+- tech-policy
 description: Moron.
 image: "/uploads/258.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - media
+- russia
+- nomination
 layout: post
 description: Back off.
 image:

@@ -9,6 +9,8 @@ tags:
 - economy
 - mueller-investigation
 - media
+- congress
+- national-security
 description: '"Deeply troubling."'
 image: "/uploads/1135.jpg"
 todayInOneSentence: A federal appeals court blocked Trump's “Remain in Mexico” immigration

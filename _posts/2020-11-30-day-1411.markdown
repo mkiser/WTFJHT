@@ -9,6 +9,8 @@ tags:
 - national-security
 - criminal-justice
 - census
+- economy
+- oversight
 description: '"Hapless."'
 image: "/uploads/1411.jpg"
 todayInOneSentence: Hospitalizations of COVID-19 patients in the United States reached

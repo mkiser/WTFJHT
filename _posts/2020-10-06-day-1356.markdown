@@ -9,6 +9,8 @@ tags:
 - polling
 - voting-rights
 - cabinet
+- national-security
+- congress
 description: '"Tragic."'
 image: "/uploads/1356.jpg"
 todayInOneSentence: Trump ordered negotiators to stop talks with Democrats on a new

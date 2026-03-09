@@ -9,6 +9,7 @@ tags:
 - national-security
 - russia
 - oversight
+- lawsuit
 description: '"Reckless."'
 image: "/uploads/day-784-biden.jpg"
 todayInOneSentence: 'Inflation eased for the eighth straight month; the Justice Department

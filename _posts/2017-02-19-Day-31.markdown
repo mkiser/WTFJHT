@@ -9,6 +9,8 @@ tags:
 - immigration
 - national-security
 - congress
+- mueller-investigation
+- foreign-policy
 layout: post
 description: Last night in Sweden.
 image:

@@ -7,6 +7,8 @@ tags:
 - china
 - congress
 - trade
+- supreme-court
+- judiciary
 description: '"He’s at the peak of just not giving a fuck anymore."'
 image: "/uploads/day-1539-trump.jpg"
 todayInOneSentence: 'Trump insisted that he would not reverse course on his tariffs

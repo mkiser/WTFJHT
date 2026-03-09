@@ -9,6 +9,8 @@ tags:
 - immigration
 - voting-rights
 - supreme-court
+- congress
+- special-election
 layout: post
 description: Ridiculous standard.
 image:

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - foreign-policy
 - national-security
+- supreme-court
+- nomination
 description: That's what impeachment is for.
 image: "/uploads/1051.jpg"
 todayInOneSentence: Trump repeatedly used unsecured cellphones to communicate with

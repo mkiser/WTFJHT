@@ -9,6 +9,8 @@ tags:
 - indictment
 - congress
 - national-security
+- foreign-policy
+- economy
 description: Intentional.
 image: "/uploads/854.jpg"
 todayInOneSentence: The Senate passed a $19 billion dollar disaster relief package

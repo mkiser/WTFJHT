@@ -8,6 +8,9 @@ tags:
 - pardon
 - russia
 - congress
+- supreme-court
+- national-security
+- indictment
 description: No crimes whatsoever.
 image: "/uploads/750.jpg"
 todayInOneSentence: The acting attorney general claimed he has not spoken to Trump

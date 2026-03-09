@@ -9,6 +9,8 @@ tags:
 - ukraine
 - media
 - subpoena
+- congress
+- national-security
 description: No doubt.
 image: "/uploads/1023.jpg"
 todayInOneSentence: The top Ukraine expert at the National Security Council testified

@@ -9,6 +9,8 @@ tags:
 - government-shutdown
 - congress
 - polling
+- immigration
+- national-security
 description: '"Absolute assurances."'
 image: "/uploads/day-1337-biden-harris.jpg"
 todayInOneSentence: Senate Republicans blocked legislation to federally protect access

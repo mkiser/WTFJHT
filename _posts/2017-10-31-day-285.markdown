@@ -9,6 +9,8 @@ tags:
 - disinformation
 - congress
 - indictment
+- tech-policy
+- voting-rights
 description: Covfefe boy.
 image: "/uploads/285.jpg"
 ---

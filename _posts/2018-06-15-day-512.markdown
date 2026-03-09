@@ -9,6 +9,8 @@ tags:
 - immigration
 - trade
 - media
+- indictment
+- economy
 description: 'Fickle. '
 image: "/uploads/512.jpg"
 todayInOneSentence: A federal judge revoked Manafort's bail and sent him to jail;

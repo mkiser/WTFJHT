@@ -7,6 +7,8 @@ tags:
 - tariffs
 - healthcare
 - economy
+- labor
+- doge
 description: '"How much democracy have they achieved lately?"'
 image: "/uploads/day-1486-trump.jpg"
 todayInOneSentence: Senate Republicans confirmed Robert F. Kennedy Jr. as health secretary,

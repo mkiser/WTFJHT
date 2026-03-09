@@ -9,6 +9,8 @@ tags:
 - disinformation
 - economy
 - voting-rights
+- trump-trials
+- judiciary
 description: '"Presumptuous."'
 image: "/uploads/day-1450-biden-trump.jpg"
 todayInOneSentence: 'Trump asked the Supreme Court to block his sentencing in the

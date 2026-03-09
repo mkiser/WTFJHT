@@ -9,6 +9,8 @@ tags:
 - indictment
 - congress
 - israel-palestine
+- trump-trials
+- supreme-court
 description: '"Playing politics."'
 image: "/uploads/day1112biden.jpg"
 todayInOneSentence: 'House Republicans vowed to kill the Senate’s bipartisan $118.3

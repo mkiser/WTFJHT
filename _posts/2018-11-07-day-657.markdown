@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - voting-rights
 - congress
+- indictment
+- lgbtq-rights
 description: Presidential harassment.
 image: "/uploads/657.jpg"
 todayInOneSentence: Democrats won back the House; Republicans increased their majority

@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - taxes
+- immigration
+- reproductive-rights
 description: '"Context, nature, and substance."'
 image: "/uploads/832.jpg"
 todayInOneSentence: Mueller twice objected to Barr's summary to Congress, saying the

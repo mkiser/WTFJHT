@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - protests
 - congress
+- civil-rights
+- polling
 description: '"A clash."'
 image: "/uploads/day-1282-biden-harris.jpg"
 todayInOneSentence: 'Israeli Prime Minister Benjamin Netanyahu defended Israel’s war

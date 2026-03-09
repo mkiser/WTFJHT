@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - foreign-policy
+- trade
+- subpoena
 description: Possibly catastrophic.
 image: "/uploads/872.jpg"
 todayInOneSentence: The Justice Department agreed to provide Congress with "key evidence"

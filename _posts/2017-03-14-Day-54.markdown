@@ -9,6 +9,8 @@ tags:
 - climate
 - executive-order
 - national-security
+- immigration
+- congress
 layout: post
 description: "<s>Alias.</s> <s>Salvage.</s> Taxed."
 image:

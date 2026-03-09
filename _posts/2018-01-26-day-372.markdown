@@ -9,6 +9,8 @@ tags:
 - economy
 - congress
 - tech-policy
+- resignation
+- oversight
 description: Confrontation.
 image: "/uploads/372.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - immigration
 - voting-rights
 - national-security
+- government-shutdown
+- economy
 description: '"The situation sucks."'
 image: "/uploads/day1092biden.jpg"
 todayInOneSentence: 'Congressional leaders agreed on a short-term funding bill to

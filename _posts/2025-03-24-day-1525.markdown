@@ -7,6 +7,8 @@ tags:
 - tariffs
 - debt-ceiling
 - congress
+- economy
+- education
 description: '"Unavoidable uncertainty."'
 image: "/uploads/day-1525-trump.jpg"
 todayInOneSentence: Top Trump administration officials planned military strikes on

@@ -9,6 +9,8 @@ tags:
 - national-security
 - infrastructure
 - mueller-investigation
+- nomination
+- immigration
 description: Critical.
 image: "/uploads/921.jpg"
 todayInOneSentence: Trump called Elijah Cummings a "brutal bully" and his Baltimore-based

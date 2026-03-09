@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - voting-rights
+- economy
+- national-security
 description: '"Betrayed the nation."'
 image: "/uploads/1061.jpg"
 todayInOneSentence: The House Judiciary Committee accused Trump of "multiple federal

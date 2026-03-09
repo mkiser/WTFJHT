@@ -7,6 +7,8 @@ tags:
 - immigration
 - supreme-court
 - labor
+- doge
+- education
 description: '"Unequivocal rejection."'
 image: "/uploads/day-1478-trump.jpg"
 todayInOneSentence: Trump proposed that the U.S. "take over" and have a “long-term

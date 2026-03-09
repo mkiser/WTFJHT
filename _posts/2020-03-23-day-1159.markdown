@@ -9,6 +9,8 @@ tags:
 - economy
 - healthcare
 - national-security
+- labor
+- judiciary
 description: '"The pandemic is accelerating."'
 image: "/uploads/1159.jpg"
 todayInOneSentence: The World Health Organization warned that "the pandemic is accelerating";

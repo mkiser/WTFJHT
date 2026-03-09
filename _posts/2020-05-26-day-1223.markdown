@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - oversight
+- national-security
+- disinformation
 description: '"Shutdown mood."'
 image: "/uploads/1223.jpg"
 todayInOneSentence: Trump spent Memorial Day Weekend mocking female politicians, tweeting

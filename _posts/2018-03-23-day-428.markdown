@@ -9,6 +9,8 @@ tags:
 - immigration
 - tech-policy
 - russia
+- congress
+- resignation
 description: Na na na na, na na na na, hey hey, goodbye.
 image: "/uploads/428.jpg"
 ---

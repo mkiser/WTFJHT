@@ -9,6 +9,8 @@ tags:
 - jan-6
 - covid
 - subpoena
+- congress
+- national-security
 description: '"Let history so note."'
 image: "/uploads/day-406-03012022.png"
 todayInOneSentence: Russian forces shelled Ukraine's second-largest city and U.S.

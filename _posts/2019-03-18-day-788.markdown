@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - congress
 - oversight
+- immigration
+- russia
 description: 'Pathetic. '
 image: "/uploads/788.jpg"
 todayInOneSentence: Trump attacked the late John McCain; Trump called "the fake news

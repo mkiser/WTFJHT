@@ -7,6 +7,8 @@ tags:
 - polling
 - national-security
 - israel-palestine
+- congress
+- education
 description: '"We are not backing down."'
 image: "/uploads/day1609-trump.jpg"
 todayInOneSentence: Trump’s $45 million military parade to celebrate the Army’s 250th

@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - jan-6
 - climate
+- congress
+- education
 description: '"Unprecedented."'
 image: "/uploads/day-616-biden.jpg"
 todayInOneSentence: 'The Senate is set to vote on a short-term spending bill to keep

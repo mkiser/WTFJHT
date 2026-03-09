@@ -9,6 +9,8 @@ tags:
 - energy
 - congress
 - national-security
+- economy
+- indictment
 layout: post
 description: Contraction.
 image:

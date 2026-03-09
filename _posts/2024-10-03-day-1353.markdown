@@ -9,6 +9,8 @@ tags:
 - disinformation
 - lawsuit
 - mueller-investigation
+- immigration
+- national-security
 description: '"Everything was nice."'
 image: "/uploads/day-1353-biden-harris.jpg"
 todayInOneSentence: Biden's student loan forgiveness program can proceed after a federal

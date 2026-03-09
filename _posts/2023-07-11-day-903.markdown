@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - classified-documents
 - national-security
+- judiciary
+- trump-trials
 description: '"Racism bad."'
 image: "/uploads/day-903-biden.jpg"
 todayInOneSentence: Trump asked a federal judge to postpone his trial on charges of

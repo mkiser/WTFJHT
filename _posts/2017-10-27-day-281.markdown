@@ -9,6 +9,8 @@ tags:
 - disinformation
 - mueller-investigation
 - congress
+- media
+- taxes
 description: Significant concerns.
 image: "/uploads/281.jpg"
 ---

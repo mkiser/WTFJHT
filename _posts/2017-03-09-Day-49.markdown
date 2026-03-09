@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - infrastructure
+- economy
+- immigration
 layout: post
 description: Flurry.
 image:

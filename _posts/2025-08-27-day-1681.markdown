@@ -7,6 +7,8 @@ tags:
 - corruption
 - nomination
 - covid
+- congress
+- voting-rights
 description: '"There are different things we could be doing."'
 image: "/uploads/day1681trump.jpg"
 todayInOneSentence: 'The FDA revoked emergency use authorizations for COVID-19 vaccines

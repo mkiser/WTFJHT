@@ -9,6 +9,8 @@ tags:
 - judiciary
 - ethics
 - supreme-court
+- congress
+- covid
 description: '"Hardship to American families."'
 image: "/uploads/day-832-biden.jpg"
 todayInOneSentence: Treasury Secretary Janet Yellen warned that the U.S. could default

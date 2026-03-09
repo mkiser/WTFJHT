@@ -9,6 +9,8 @@ tags:
 - climate
 - russia
 - energy
+- congress
+- ukraine
 description: '"Serious mistake."'
 image: "/uploads/day-644-biden.jpg"
 todayInOneSentence: 'Biden warned Russia against using nuclear or radioactive weapons

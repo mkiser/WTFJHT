@@ -7,6 +7,8 @@ tags:
 - housing
 - labor
 - congress
+- economy
+- foreign-policy
 description: '"Propaganda machine."'
 image: "/uploads/day1814trump.jpg"
 todayInOneSentence: An ICE agent fired three shots into a car and killed 37-year-old

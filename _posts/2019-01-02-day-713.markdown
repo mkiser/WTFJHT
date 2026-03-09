@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - national-security
+- mueller-investigation
+- media
 description: Enjoy the ride.
 image: "/uploads/713.jpg"
 todayInOneSentence: Trump invited congressional leaders to the White House for a briefing

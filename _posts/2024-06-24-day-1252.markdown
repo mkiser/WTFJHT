@@ -9,6 +9,8 @@ tags:
 - jan-6
 - lgbtq-rights
 - supreme-court
+- indictment
+- polling
 description: '"Combustible atmosphere."'
 image: "/uploads/day-1252-biden.jpg"
 todayInOneSentence: The Supreme Court upheld a federal law that prohibits anyone subject

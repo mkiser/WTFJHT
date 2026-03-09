@@ -9,6 +9,8 @@ tags:
 - congress
 - civil-rights
 - foreign-policy
+- national-security
+- criminal-justice
 description: '"We''re still at the beginning."'
 image: "/uploads/1237.jpg"
 todayInOneSentence: Trump tweeted an unfounded conspiracy theory that the 75-year-old

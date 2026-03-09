@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - congress
 - national-security
+- education
+- indictment
 description: 'White lies. '
 image: "/uploads/405.jpg"
 ---

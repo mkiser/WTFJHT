@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - protests
+- cabinet
+- polling
 description: '"I will never lie to you."'
 image: "/uploads/1198.jpg"
 todayInOneSentence: The FDA granted Gilead emergency authorization for remdesivir

@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - climate
 - supreme-court
+- national-security
+- congress
 description: '"Now we have a problem."'
 image: "/uploads/day-889-biden.jpg"
 todayInOneSentence: 'The Supreme Court rejected a legal theory that state legislatures

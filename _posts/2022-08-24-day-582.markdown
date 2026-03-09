@@ -9,6 +9,8 @@ tags:
 - climate
 - energy
 - gun-policy
+- covid
+- voting-rights
 description: '"A tsunami."'
 image: "/uploads/day-582-biden.jpg"
 todayInOneSentence: 'Biden canceled up to $20,000 in student debt for Pell Grant recipients,

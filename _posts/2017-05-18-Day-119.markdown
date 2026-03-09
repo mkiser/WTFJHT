@@ -9,6 +9,8 @@ tags:
 - congress
 - trade
 - national-security
+- foreign-policy
+- resignation
 layout: post
 description: Undisclosed.
 image:

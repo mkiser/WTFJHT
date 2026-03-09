@@ -9,6 +9,8 @@ tags:
 - nomination
 - labor
 - cabinet
+- resignation
+- government-shutdown
 description: All alone.
 image: "/uploads/704.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - tech-policy
+- media
+- voting-rights
 description: A complete fabrication.
 image: "/uploads/564.jpg"
 todayInOneSentence: Trump admitted that the 2016 Trump Tower meeting was to get dirt

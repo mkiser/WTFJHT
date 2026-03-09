@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - congress
+- gun-policy
+- healthcare
 description: 1,475 children.
 image: "/uploads/495.jpg"
 todayInOneSentence: 'Trump is still preparing for the cancelled-but-still-possible

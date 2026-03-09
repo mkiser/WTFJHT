@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - jan-6
 - education
+- judiciary
+- congress
 description: '"The pandemic is over?"'
 image: "/uploads/day-608-biden.jpg"
 todayInOneSentence: Biden said he believes "the pandemic is over"; Virginia Gov. Glenn

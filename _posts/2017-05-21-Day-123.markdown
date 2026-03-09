@@ -9,6 +9,8 @@ tags:
 - ethics
 - economy
 - mueller-investigation
+- congress
+- healthcare
 layout: post
 description: Will not comply.
 image:

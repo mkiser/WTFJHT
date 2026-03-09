@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - congress
 - national-security
+- judiciary
+- trump-trials
 description: '"Big mistake."'
 image: "/uploads/day-1000-biden.jpg"
 todayInOneSentence: 'A federal judge imposed a narrow gag order on Trump; the Biden

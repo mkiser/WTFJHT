@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - foreign-policy
+- russia
+- healthcare
 description: Do not recall.
 image: "/uploads/299.jpg"
 ---

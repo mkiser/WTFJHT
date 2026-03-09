@@ -7,6 +7,8 @@ tags:
 - ukraine
 - economy
 - russia
+- national-security
+- trade
 description: '"Standard negotiation."'
 image: "/uploads/day1771trump.jpg"
 todayInOneSentence: 'The White House postponed its new Affordable Care Act subsidy

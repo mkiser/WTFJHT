@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - taxes
+- indictment
+- immigration
 description: Cover-up.
 image: "/uploads/853.jpg"
 todayInOneSentence: Nancy Pelosi accused Trump of "engaging in a cover-up" after Trump

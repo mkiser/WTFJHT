@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - mueller-investigation
+- national-security
+- nomination
 description: '"We just don’t have time to waste time."'
 image: "/uploads/1412.jpg"
 tag_excerpts:

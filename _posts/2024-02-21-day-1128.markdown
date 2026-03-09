@@ -9,6 +9,8 @@ tags:
 - indictment
 - economy
 - education
+- supreme-court
+- media
 description: '"The type of chaos that we expected."'
 image: "/uploads/day1128biden.jpg"
 todayInOneSentence: The Alabama Supreme Court ruled that frozen embryos created through

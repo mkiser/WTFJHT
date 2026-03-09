@@ -9,6 +9,8 @@ tags:
 - healthcare
 - indictment
 - congress
+- climate
+- lgbtq-rights
 description: Criminal information.
 image: "/uploads/397.jpg"
 ---

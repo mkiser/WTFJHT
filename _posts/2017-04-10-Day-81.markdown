@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - economy
 - congress
+- national-security
+- voting-rights
 layout: post
 description: Partially responsible.
 image:

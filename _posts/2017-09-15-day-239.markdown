@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - oversight
+- climate
+- taxes
 description: Sick and demented.
 image: "/uploads/239.jpg"
 author: Clayton Aldern

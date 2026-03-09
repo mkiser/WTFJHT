@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - civil-rights
 - national-security
+- supreme-court
+- cabinet
 description: 'Smell ya later. '
 image: "/uploads/211.jpg"
 ---

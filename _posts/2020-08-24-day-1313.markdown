@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - national-security
 - congress
+- tech-policy
+- nomination
 description: '"I am not engaged in sabotaging the election."'
 image: "/uploads/1313.jpg"
 todayInOneSentence: The New York Attorney General’s Office is investigating whether

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - protests
+- national-security
+- education
 description: '"A whole lot of hurt."'
 image: "/uploads/1383.jpg"
 todayInOneSentence: Trump told associates he intends to declare premature victory

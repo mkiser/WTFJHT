@@ -9,6 +9,8 @@ tags:
 - covid
 - supreme-court
 - congress
+- economy
+- education
 description: '"A bad thing."'
 image: "/uploads/day-877-biden.jpg"
 todayInOneSentence: Multiple federal agencies were hacked; the White House will continue

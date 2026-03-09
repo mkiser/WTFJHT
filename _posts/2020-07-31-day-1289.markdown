@@ -9,6 +9,8 @@ tags:
 - national-security
 - media
 - congress
+- protests
+- economy
 description: '"We cannot test our way out of this pandemic."'
 image: "/uploads/1289.jpg"
 todayInOneSentence: Nearly 30 million Americans are set to lose $600 per week in federal

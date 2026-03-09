@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - immigration
 - congress
+- indictment
+- taxes
 description: Legitimacy.
 image: "/uploads/837.jpg"
 todayInOneSentence: 'More than 370 former federal prosecutors asserted that Trump

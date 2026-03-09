@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - education
 - midterm-election
+- congress
+- foreign-policy
 description: '"Strange."'
 image: "/uploads/day-450-biden.jpg"
 todayInOneSentence: 'Russia threatened to deploy nuclear weapons in the Baltic Sea

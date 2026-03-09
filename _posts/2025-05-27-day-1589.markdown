@@ -7,6 +7,8 @@ tags:
 - trade
 - healthcare
 - education
+- economy
+- indictment
 description: '"Wimpy and anemic."'
 image: "/uploads/day1589trump.jpg"
 todayInOneSentence: Senate Republicans threatened to block Trump’s tax and spending

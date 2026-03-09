@@ -9,6 +9,8 @@ tags:
 - disinformation
 - corruption
 - congress
+- immigration
+- media
 description: Brilliant and courageous.
 image: "/uploads/424.jpg"
 ---

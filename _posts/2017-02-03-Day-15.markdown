@@ -9,6 +9,8 @@ tags:
 - education
 - economy
 - congress
+- national-security
+- tech-policy
 layout: post
 description: The massacre.
 image:

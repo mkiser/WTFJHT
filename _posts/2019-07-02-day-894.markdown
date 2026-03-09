@@ -9,6 +9,8 @@ tags:
 - immigration
 - taxes
 - mueller-investigation
+- national-security
+- cabinet
 description: Surreal.
 image: "/uploads/894.jpg"
 todayInOneSentence: 'House Democrats sued for Trump''s tax returns; the Trump administration

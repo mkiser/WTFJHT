@@ -9,6 +9,8 @@ tags:
 - media
 - economy
 - education
+- reproductive-rights
+- voting-rights
 description: '"Unlikely."'
 image: "/uploads/1359.jpg"
 todayInOneSentence: House Democrats introduced legislation to create a bipartisan

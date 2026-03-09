@@ -9,6 +9,8 @@ tags:
 - national-security
 - economy
 - foreign-policy
+- criminal-justice
+- russia
 description: 'The Diplomacy Project. '
 image: "/uploads/693.jpg"
 todayInOneSentence: Maria Butina pleaded guilty to conspiring to act as a foreign

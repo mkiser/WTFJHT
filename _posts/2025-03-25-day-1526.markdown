@@ -7,6 +7,8 @@ tags:
 - social-security
 - congress
 - economy
+- labor
+- climate
 description: '"Just something that can happen."'
 image: "/uploads/day-1526-trump.jpg"
 todayInOneSentence: Trump dismissed concerns over a potential national security breach

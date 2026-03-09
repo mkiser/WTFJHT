@@ -9,6 +9,8 @@ tags:
 - immigration
 - voting-rights
 - national-security
+- criminal-justice
+- indictment
 description: '"One really violent day."'
 image: "/uploads/day-1350-biden-harris.jpg"
 todayInOneSentence: Biden may call Congress in for a special session to pass supplemental

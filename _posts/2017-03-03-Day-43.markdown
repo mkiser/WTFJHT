@@ -9,6 +9,8 @@ tags:
 - climate
 - national-security
 - media
+- congress
+- lgbtq-rights
 layout: post
 description: Blame game.
 image:

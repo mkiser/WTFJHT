@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - immigration
 - congress
+- national-security
+- oversight
 description: Echoes.
 image: "/uploads/845.jpg"
 todayInOneSentence: The White House is reviewing plans to attack Iran; global stocks

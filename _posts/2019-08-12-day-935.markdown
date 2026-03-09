@@ -9,6 +9,8 @@ tags:
 - corruption
 - economy
 - israel-palestine
+- congress
+- climate
 description: Irregularities.
 image: "/uploads/935.jpg"
 todayInOneSentence: The Trump administration made it harder for legal immigrants who

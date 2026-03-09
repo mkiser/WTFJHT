@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - media
 - mueller-investigation
+- voting-rights
+- russia
 description: Open debate.
 image: "/uploads/187.jpg"
 ---

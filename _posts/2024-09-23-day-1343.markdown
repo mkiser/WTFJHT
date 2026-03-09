@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - congress
 - israel-palestine
+- lgbtq-rights
+- economy
 description: '"Balance of power."'
 image: "/uploads/day-1343-biden-harris.jpg"
 todayInOneSentence: The House unveiled a bipartisan spending bill to temporarily fund

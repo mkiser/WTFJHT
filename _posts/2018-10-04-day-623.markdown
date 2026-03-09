@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - media
+- nomination
+- oversight
 description: Unfathomable.
 image: "/uploads/623.jpg"
 todayInOneSentence: The White House is "fully confident" that Brett Kavanaugh will

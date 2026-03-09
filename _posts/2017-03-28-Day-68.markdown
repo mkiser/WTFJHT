@@ -9,6 +9,8 @@ tags:
 - tech-policy
 - ethics
 - congress
+- russia
+- energy
 layout: post
 description: Tarnished.
 image:

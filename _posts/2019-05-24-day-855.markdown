@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - congress
 - national-security
+- lgbtq-rights
+- tech-policy
 description: Full and complete authority.
 image: "/uploads/855.jpg"
 todayInOneSentence: 'Trump gave William Barr "full and complete authority" unilaterally

@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - national-security
 - oversight
+- taxes
+- voting-rights
 layout: post
 description: Failure.
 image:

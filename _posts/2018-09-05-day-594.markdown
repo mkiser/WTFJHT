@@ -9,6 +9,8 @@ tags:
 - russia
 - midterm-election
 - national-security
+- protests
+- voting-rights
 description: The worst mood.
 image: "/uploads/594.jpg"
 todayInOneSentence: A senior Trump administration official published an anonymous

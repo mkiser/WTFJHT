@@ -9,6 +9,8 @@ tags:
 - national-security
 - education
 - voting-rights
+- congress
+- economy
 layout: post
 description: Will to survive.
 image:

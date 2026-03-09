@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - supreme-court
 - judiciary
+- healthcare
+- foreign-policy
 description: '"Extremely unusual."'
 image: "/uploads/day-819-biden.jpg"
 todayInOneSentence: Mitch McConnell and Senate Republicans won't allow Democrats to

@@ -9,6 +9,8 @@ tags:
 - national-security
 - criminal-justice
 - congress
+- trump-trials
+- voting-rights
 description: '"Lacking in substance and professional courtesy."'
 image: "/uploads/day-1225-biden.jpg"
 todayInOneSentence: 'The judge presiding over Trump’s classified documents case denied

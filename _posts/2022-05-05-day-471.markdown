@@ -9,6 +9,8 @@ tags:
 - economy
 - covid
 - congress
+- judiciary
+- healthcare
 description: '"Appropriate next steps."'
 image: "/uploads/day-471-biden.jpg"
 todayInOneSentence: Senate Democrats moved to vote on a bill to codify abortion rights

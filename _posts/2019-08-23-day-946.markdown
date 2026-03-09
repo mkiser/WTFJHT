@@ -9,6 +9,8 @@ tags:
 - trade
 - immigration
 - china
+- supreme-court
+- judiciary
 description: '"Our bigger enemy."'
 image: "/uploads/946.jpg"
 todayInOneSentence: Trump called the Federal Reserve chairman an "enemy" of the United

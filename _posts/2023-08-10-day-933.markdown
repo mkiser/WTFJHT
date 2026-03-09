@@ -9,6 +9,8 @@ tags:
 - economy
 - trade
 - indictment
+- national-security
+- tech-policy
 description: '"Serious concern."'
 image: "/uploads/day-933-biden.jpg"
 todayInOneSentence: Supreme Court Justice Clarence Thomas accepted at least 38 vacations,

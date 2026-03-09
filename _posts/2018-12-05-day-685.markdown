@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - national-security
+- economy
+- criminal-justice
 description: 'Substantial assistance. '
 image: "/uploads/685.jpg"
 todayInOneSentence: Mueller's office recommended that Michael Flynn serve no jail

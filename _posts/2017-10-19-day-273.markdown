@@ -9,6 +9,8 @@ tags:
 - taxes
 - congress
 - russia
+- tech-policy
+- national-security
 description: Who knows.
 image: "/uploads/273.jpg"
 ---

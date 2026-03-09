@@ -9,6 +9,8 @@ tags:
 - labor
 - tech-policy
 - lawsuit
+- congress
+- supreme-court
 description: '"Stick with it."'
 image: "/uploads/day-980biden.jpg"
 todayInOneSentence: The Senate announced a bipartisan deal to keep the government

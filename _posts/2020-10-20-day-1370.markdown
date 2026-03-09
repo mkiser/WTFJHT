@@ -9,6 +9,8 @@ tags:
 - polling
 - congress
 - labor
+- supreme-court
+- lawsuit
 description: '"Open discussion."'
 image: "/uploads/1370.jpg"
 todayInOneSentence: Mitch McConnell warned the White House not to strike a coronavirus

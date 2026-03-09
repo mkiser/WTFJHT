@@ -9,6 +9,8 @@ tags:
 - ethics
 - jan-6
 - lawsuit
+- voting-rights
+- supreme-court
 description: '"Inexcusable."'
 image: "/uploads/day-631-a-biden.jpg"
 todayInOneSentence: The FDA authorized updated coronavirus booster shots for children

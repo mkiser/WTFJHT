@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - congress
 - media
+- indictment
+- voting-rights
 description: 'Taxi King. '
 image: "/uploads/489.jpg"
 todayInOneSentence: Michael Cohen's business partner took a plea deal and agreed to

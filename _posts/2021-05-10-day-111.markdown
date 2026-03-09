@@ -9,6 +9,8 @@ tags:
 - labor
 - covid
 - climate
+- economy
+- infrastructure
 description: '"Step up."'
 image: "/uploads/day-111-biden.jpg"
 todayInOneSentence: The Biden administration announced new protections against discrimination

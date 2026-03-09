@@ -9,6 +9,8 @@ tags:
 - congress
 - mueller-investigation
 - economy
+- national-security
+- education
 description: '"Death wish."'
 image: "/uploads/1440.jpg"
 todayInOneSentence: Mitch McConnell blocked a House-passed bill to increase stimulus

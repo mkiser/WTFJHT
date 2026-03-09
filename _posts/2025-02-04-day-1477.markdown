@@ -7,6 +7,8 @@ tags:
 - immigration
 - congress
 - israel-palestine
+- education
+- lawsuit
 description: '"The American people can see what’s happening."'
 image: "/uploads/day-1477-trump.jpg"
 todayInOneSentence: Robert F Kennedy Jr.’s nomination for Health and Human Services

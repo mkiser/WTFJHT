@@ -9,6 +9,8 @@ tags:
 - ethics
 - foreign-policy
 - mueller-investigation
+- congress
+- nomination
 layout: post
 description: Ruh roh.
 image:

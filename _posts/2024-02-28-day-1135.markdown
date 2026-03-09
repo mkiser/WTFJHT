@@ -9,6 +9,8 @@ tags:
 - indictment
 - presidential-election
 - congress
+- israel-palestine
+- judiciary
 description: '"Bait."'
 image: "/uploads/day1135biden.jpg"
 todayInOneSentence: 'Mitch McConnell will step down as the Senate Republican leader

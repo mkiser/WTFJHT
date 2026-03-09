@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - media
+- economy
+- russia
 description: 'Nonsense. '
 image: "/uploads/217.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - immigration
+- media
+- civil-rights
 description: '"We need everything we can get."'
 image: "/uploads/1279.jpg"
 todayInOneSentence: Trump told Americans that the coronavirus pandemic "will probably,

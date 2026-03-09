@@ -9,6 +9,8 @@ tags:
 - disinformation
 - supreme-court
 - congress
+- voting-rights
+- russia
 description: '"Callousness."'
 image: "/uploads/day-1358-biden-harris.jpg"
 todayInOneSentence: 'FEMA warned that false claims and conspiracy theories pushed

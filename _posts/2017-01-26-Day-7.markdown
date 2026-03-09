@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - voting-rights
 - tech-policy
+- congress
+- polling
 layout: post
 description: Shut it.
 image:

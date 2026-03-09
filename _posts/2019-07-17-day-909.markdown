@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - economy
+- media
+- foreign-policy
 description: '"Not unhappy."'
 image: "/uploads/909.jpg"
 todayInOneSentence: The House will vote to hold Attorney General William Barr and

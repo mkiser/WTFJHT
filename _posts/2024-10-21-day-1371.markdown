@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - media
 - polling
+- economy
+- national-security
 description: '"Exhausted."'
 image: "/uploads/day-1371-biden-harris.jpg"
 todayInOneSentence: With 15 days until the 2024 election, Harris and Trump are essentially

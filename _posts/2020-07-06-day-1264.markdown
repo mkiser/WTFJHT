@@ -9,6 +9,8 @@ tags:
 - education
 - congress
 - economy
+- civil-rights
+- infrastructure
 description: '"Really not good."'
 image: "/uploads/1264.jpg"
 todayInOneSentence: Trump used the Fourth of July weekend to sow division during a

@@ -9,6 +9,8 @@ tags:
 - labor
 - taxes
 - infrastructure
+- supreme-court
+- covid
 description: '"Quickly approaching the end."'
 image: "/uploads/day-672-biden.jpg"
 todayInOneSentence: 'The Supreme Court rejected Trump''s legal effort to block the

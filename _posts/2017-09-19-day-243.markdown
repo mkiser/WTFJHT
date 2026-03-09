@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - voting-rights
+- oversight
+- immigration
 description: Wiretapped.
 image: "/uploads/243.jpg"
 author: Clayton Aldern

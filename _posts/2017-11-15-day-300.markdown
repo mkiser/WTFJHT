@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - russia
+- healthcare
+- voting-rights
 description: No plans.
 image: "/uploads/300.jpg"
 ---

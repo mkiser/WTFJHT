@@ -9,6 +9,8 @@ tags:
 - congress
 - protests
 - economy
+- healthcare
+- national-security
 description: '"I seem to be okay."'
 image: "/uploads/1215.jpg"
 todayInOneSentence: The first coronavirus vaccine to be tested in people appears to

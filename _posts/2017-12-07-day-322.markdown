@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - congress
 - mueller-investigation
+- taxes
+- national-security
 description: Making a deal.
 image: "/uploads/322.jpg"
 ---

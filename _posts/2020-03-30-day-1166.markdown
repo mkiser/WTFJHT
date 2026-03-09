@@ -9,6 +9,8 @@ tags:
 - corruption
 - congress
 - national-security
+- economy
+- healthcare
 description: Ill informed, misleading, and downright wrong.
 image: "/uploads/1166.jpg"
 todayInOneSentence: The U.S. could see 100,000 to 200,000 coronavirus deaths even

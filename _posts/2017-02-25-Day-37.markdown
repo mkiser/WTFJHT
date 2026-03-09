@@ -9,6 +9,8 @@ tags:
 - media
 - climate
 - russia
+- congress
+- nomination
 layout: post
 description: Doubt.
 image:

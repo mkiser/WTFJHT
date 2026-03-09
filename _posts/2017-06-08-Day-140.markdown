@@ -9,6 +9,8 @@ tags:
 - climate
 - ethics
 - mueller-investigation
+- congress
+- media
 layout: post
 description: No fuzz.
 image:

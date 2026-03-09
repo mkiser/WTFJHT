@@ -7,6 +7,8 @@ tags:
 - economy
 - corruption
 - israel-palestine
+- indictment
+- covid
 description: '"A diversion."'
 image: "/uploads/day1674trump.jpg"
 todayInOneSentence: A federal judge refused to release the Jeffrey Epstein grand jury

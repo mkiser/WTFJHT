@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - congress
 - media
+- foreign-policy
+- voting-rights
 description: Looking for a way out.
 image: "/uploads/216.jpg"
 ---

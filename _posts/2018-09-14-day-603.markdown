@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - congress
 - voting-rights
+- national-security
+- indictment
 description: Full cooperation.
 image: "/uploads/day-603.png"
 todayInOneSentence: Manafort pleaded guilty to conspiracy and agreed to fully cooperate

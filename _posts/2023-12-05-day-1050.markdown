@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - national-security
 - congress
+- economy
+- voting-rights
 description: '"An even more hellish scenario is about to unfold."'
 image: "/uploads/day-1050biden.jpg"
 todayInOneSentence: Special counsel Jack Smith accused Trump of a pattern of lying

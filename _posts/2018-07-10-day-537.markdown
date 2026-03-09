@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - congress
 - immigration
+- national-security
+- mueller-investigation
 description: '"Putin may be the easiest."'
 image: "/uploads/537.jpg"
 todayInOneSentence: Trump nominated federal appeals court judge Brett Kavanaugh to

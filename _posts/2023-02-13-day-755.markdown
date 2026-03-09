@@ -9,6 +9,8 @@ tags:
 - subpoena
 - oversight
 - covid
+- indictment
+- trump-trials
 description: '"A growing wave of violence and trauma."'
 image: "/uploads/day-755-biden.jpg"
 todayInOneSentence: 'The U.S. shot down three “unidentified object” flying over Alaska,

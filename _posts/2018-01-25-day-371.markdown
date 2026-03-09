@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - russia
+- voting-rights
+- trade
 description: Extraordinarily reckless.
 image: "/uploads/371.jpg"
 ---

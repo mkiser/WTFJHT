@@ -9,6 +9,8 @@ tags:
 - oversight
 - congress
 - national-security
+- immigration
+- criminal-justice
 layout: post
 description: Worse off.
 image:

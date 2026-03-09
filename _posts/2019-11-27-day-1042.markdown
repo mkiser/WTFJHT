@@ -9,6 +9,8 @@ tags:
 - national-security
 - mueller-investigation
 - oversight
+- indictment
+- congress
 description: Dissenting opinions.
 image: "/uploads/1042.jpg"
 todayInOneSentence: Trump was briefed about the whistleblower complaint before lifting

@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - media
+- foreign-policy
+- healthcare
 description: '"Surge."'
 image: "/uploads/1280.jpg"
 todayInOneSentence: The U.S. reported more than 1,000 daily deaths from the coronavirus

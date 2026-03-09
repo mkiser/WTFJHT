@@ -9,6 +9,8 @@ tags:
 - congress
 - mueller-investigation
 - oversight
+- taxes
+- supreme-court
 description: Time to act.
 image: "/uploads/1050.jpg"
 todayInOneSentence: Speaker Nancy Pelosi instructed the key chairmen in the House

@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - classified-documents
 - covid
+- trump-trials
+- voting-rights
 description: '"Crystal clear."'
 image: "/uploads/day-804-biden.jpg"
 todayInOneSentence: The Justice Department obtained new evidence in the Mar-a-Lago

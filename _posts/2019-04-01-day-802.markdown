@@ -9,6 +9,8 @@ tags:
 - immigration
 - healthcare
 - cabinet
+- supreme-court
+- congress
 description: Meaningless.
 image: "/uploads/802.jpg"
 todayInOneSentence: Senior Trump administration officials overturned and granted at

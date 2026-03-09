@@ -9,6 +9,8 @@ tags:
 - cabinet
 - national-security
 - immigration
+- education
+- congress
 layout: post
 description: Tumultuous.
 image:

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - education
 - media
+- covid
+- economy
 description: '"Wholly insufficient."'
 image: "/uploads/1308.jpg"
 todayInOneSentence: The Senate Intelligence Committee made criminal referrals of Trump

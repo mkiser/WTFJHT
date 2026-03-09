@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - presidential-election
 - indictment
+- trump-trials
+- national-security
 description: '"Any day now."'
 image: "/uploads/day-923-biden.jpg"
 todayInOneSentence: A Georgia judge denied an effort by Trump to toss out evidence

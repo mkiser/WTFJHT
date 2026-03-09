@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - infrastructure
 - criminal-justice
+- subpoena
+- national-security
 description: '"Indifference and betrayal."'
 image: "/uploads/day-764-biden.jpg"
 todayInOneSentence: 'Trump – who repealed an Obama-era rule that required “high-hazard”

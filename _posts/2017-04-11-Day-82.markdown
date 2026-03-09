@@ -9,6 +9,8 @@ tags:
 - national-security
 - trade
 - china
+- oversight
+- polling
 layout: post
 description: Sean Spicer.
 image:

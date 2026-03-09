@@ -9,6 +9,8 @@ tags:
 - national-security
 - nomination
 - foreign-policy
+- tech-policy
+- congress
 layout: post
 description: Au revoir.
 image:

@@ -9,6 +9,8 @@ tags:
 - national-security
 - economy
 - ukraine
+- foreign-policy
+- trade
 description: Public interest.
 image: "/uploads/1105.jpg"
 todayInOneSentence: Trump's impeachment trial moved to written questions; Alan Dershowitz

@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - supreme-court
+- indictment
+- economy
 description: Difficult decisions.
 image: "/uploads/797.jpg"
 todayInOneSentence: Trump pledged to have a plan "far better than Obamacare" because

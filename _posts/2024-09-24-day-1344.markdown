@@ -9,6 +9,8 @@ tags:
 - disinformation
 - israel-palestine
 - voting-rights
+- taxes
+- foreign-policy
 description: '"Inflection point."'
 image: "/uploads/day-1344-biden-harris.jpg"
 todayInOneSentence: Kamala Harris said she supports ending the Senate filibuster to

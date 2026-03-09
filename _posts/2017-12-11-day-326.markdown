@@ -9,6 +9,8 @@ tags:
 - taxes
 - congress
 - national-security
+- lgbtq-rights
+- foreign-policy
 description: 'Heard. '
 image: "/uploads/326.jpg"
 ---

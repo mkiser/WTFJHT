@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - climate
+- supreme-court
+- protests
 description: '"A turning point."'
 image: "/uploads/day-288-biden.jpg"
 todayInOneSentence: 'The Biden administration announced plans to heavily regulate

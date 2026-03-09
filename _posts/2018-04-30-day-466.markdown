@@ -9,6 +9,8 @@ tags:
 - indictment
 - media
 - immigration
+- voting-rights
+- energy
 description: 'Panic mode. '
 image: "/uploads/466.jpg"
 ---

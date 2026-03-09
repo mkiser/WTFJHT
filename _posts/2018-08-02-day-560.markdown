@@ -9,6 +9,8 @@ tags:
 - sanctions
 - congress
 - national-security
+- economy
+- indictment
 description: 'A low point. '
 image: "/uploads/560.jpg"
 todayInOneSentence: Mueller offered to reduce the number of obstruction of justice-related

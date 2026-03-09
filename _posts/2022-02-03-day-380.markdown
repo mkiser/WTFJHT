@@ -9,6 +9,8 @@ tags:
 - national-security
 - lawsuit
 - congress
+- cabinet
+- covid
 description: '"Amateur hour."'
 image: "/uploads/day-380-biden.jpg"
 todayInOneSentence: The U.S. accused Russia of planning to fabricate a video showing

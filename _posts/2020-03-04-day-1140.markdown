@@ -9,6 +9,8 @@ tags:
 - immigration
 - foreign-policy
 - national-security
+- congress
+- healthcare
 description: '"A perfect storm."'
 image: "/uploads/1140.jpg"
 todayInOneSentence: Congress reached an agreement on a $8.3 billion emergency spending

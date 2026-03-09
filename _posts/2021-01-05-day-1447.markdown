@@ -9,6 +9,8 @@ tags:
 - climate
 - covid
 - nomination
+- presidential-election
+- media
 description: '"Save America."'
 image: "/uploads/1447.jpg"
 todayInOneSentence: Trump falsely claimed that Pence has the power to unilaterally

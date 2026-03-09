@@ -9,6 +9,8 @@ tags:
 - congress
 - russia
 - national-security
+- economy
+- voting-rights
 description: 'Revisit. '
 image: "/uploads/230.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - economy
 - voting-rights
 - healthcare
+- education
+- taxes
 description: '"Absurdly unconstitutional."'
 image: "/uploads/1299.jpg"
 todayInOneSentence: Trump signed four executive actions at his Bedminster golf club

@@ -7,6 +7,8 @@ tags:
 - oversight
 - corruption
 - national-security
+- economy
+- impeachment
 description: '"America loses."'
 image: "/uploads/day1688-trump.jpg"
 todayInOneSentence: Senators from both parties confronted Health Secretary Robert

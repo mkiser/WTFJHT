@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - russia
+- foreign-policy
+- oversight
 description: Animosity.
 image: "/uploads/923.jpg"
 todayInOneSentence: The Trump administration separated more than 900 migrant children

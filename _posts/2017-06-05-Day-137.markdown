@@ -9,6 +9,8 @@ tags:
 - oversight
 - foreign-policy
 - mueller-investigation
+- congress
+- climate
 layout: post
 description: Blindsided.
 image:

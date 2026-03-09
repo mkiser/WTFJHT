@@ -9,6 +9,8 @@ tags:
 - education
 - congress
 - mueller-investigation
+- national-security
+- foreign-policy
 description: Shredded.
 image: "/uploads/530.jpg"
 todayInOneSentence: The Trump administration will rescind Obama-era guidelines that

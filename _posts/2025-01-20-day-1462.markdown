@@ -9,6 +9,8 @@ tags:
 - energy
 - immigration
 - executive-order
+- israel-palestine
+- congress
 description: '"Welcome home."'
 image: "/uploads/day-1462-trump.jpg"
 todayInOneSentence: Trump was sworn in as the 47th president of the United States

@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - climate
+- russia
+- covid
 description: '"Short-term political gain."'
 image: "/uploads/day-129-biden-trump.jpg"
 todayInOneSentence: Senate Republicans blocked the creation of an independent, bipartisan

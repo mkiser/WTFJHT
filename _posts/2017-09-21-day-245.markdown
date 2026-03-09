@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - russia
+- national-security
+- labor
 description: Innocuous.
 image: "/uploads/245.jpg"
 author: Clayton Aldern

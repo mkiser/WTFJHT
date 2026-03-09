@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - congress
 - impeachment
+- national-security
+- supreme-court
 description: '"Make our own decisions."'
 image: "/uploads/day-1184-biden.jpg"
 todayInOneSentence: Speaker Mike Johnson defied threats from his Republican colleagues

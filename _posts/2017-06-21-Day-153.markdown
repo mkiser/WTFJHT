@@ -9,6 +9,8 @@ tags:
 - climate
 - presidential-election
 - mueller-investigation
+- congress
+- voting-rights
 layout: post
 description: Vulnerable.
 image:

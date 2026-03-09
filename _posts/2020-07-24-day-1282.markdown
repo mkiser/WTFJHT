@@ -9,6 +9,8 @@ tags:
 - protests
 - polling
 - voting-rights
+- national-security
+- education
 description: '"Just not right."'
 image: "/uploads/1282.jpg"
 todayInOneSentence: The CDC published new guidance recommending that schools reopen

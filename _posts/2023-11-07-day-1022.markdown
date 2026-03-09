@@ -9,6 +9,8 @@ tags:
 - congress
 - presidential-election
 - voting-rights
+- national-security
+- government-shutdown
 description: '"Trust us."'
 image: "/uploads/day-1022-biden.jpg"
 todayInOneSentence: Trump "stands alone in American history" for his efforts to overturn

@@ -9,6 +9,8 @@ tags:
 - jan-6
 - covid
 - congress
+- economy
+- criminal-justice
 description: '"The country is watching."'
 image: "/uploads/day-260-debt-biden.jpg"
 todayInOneSentence: The Senate postponed a vote to suspend the nation's debt limit

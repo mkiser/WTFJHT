@@ -9,6 +9,8 @@ tags:
 - climate
 - national-security
 - congress
+- immigration
+- voting-rights
 description: Clear evidence.
 image: "/uploads/385.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - media
 - mueller-investigation
 - russia
+- national-security
+- congress
 description: '"Cocked and loaded."'
 image: "/uploads/883.jpg"
 todayInOneSentence: Trump authorized a retaliatory military strike on Iran but called

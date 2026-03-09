@@ -9,6 +9,8 @@ tags:
 - sanctions
 - congress
 - national-security
+- voting-rights
+- foreign-policy
 description: Secret dinner.
 image: "/uploads/181.jpg"
 ---

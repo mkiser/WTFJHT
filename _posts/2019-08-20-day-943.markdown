@@ -9,6 +9,8 @@ tags:
 - healthcare
 - immigration
 - trade
+- labor
+- taxes
 description: Fundamentals.
 image: "/uploads/943.jpg"
 todayInOneSentence: Trump confirmed that he is considering "various tax reductions"

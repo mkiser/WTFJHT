@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - tech-policy
+- media
+- economy
 description: '"Everything to divide us."'
 image: "/uploads/1230.jpg"
 todayInOneSentence: Trump threatened to deploy “thousands and thousands of heavily

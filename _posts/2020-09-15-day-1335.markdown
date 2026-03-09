@@ -9,6 +9,8 @@ tags:
 - oversight
 - national-security
 - trade
+- economy
+- media
 description: '"Forthcoming."'
 image: "/uploads/1335.jpg"
 todayInOneSentence: The Justice Department opened a criminal investigation and issued

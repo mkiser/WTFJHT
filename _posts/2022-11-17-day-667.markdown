@@ -9,6 +9,8 @@ tags:
 - jan-6
 - indictment
 - mueller-investigation
+- supreme-court
+- economy
 description: '"A new generation of leaders."'
 image: "/uploads/day-667-bidne.jpg"
 todayInOneSentence: 'Nancy Pelosi will not seek a Democratic leadership role in the

@@ -9,6 +9,8 @@ tags:
 - russia
 - climate
 - congress
+- immigration
+- national-security
 description: Intentionally misleading.
 image: "/uploads/719.jpg"
 todayInOneSentence: Most of the major networks will broadcast Trump's border address;

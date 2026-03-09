@@ -9,6 +9,8 @@ tags:
 - congress
 - oversight
 - media
+- national-security
+- ukraine
 description: 'Human scum. '
 image: "/uploads/1008.jpg"
 todayInOneSentence: House Democrats could take impeachment inquiry public as soon

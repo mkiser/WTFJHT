@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - supreme-court
+- indictment
+- subpoena
 description: 'Grand jury. '
 image: "/uploads/196.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - national-security
 - cabinet
 - congress
+- mueller-investigation
+- nomination
 layout: post
 description: "<s>Misleading</s>. Recused."
 image:

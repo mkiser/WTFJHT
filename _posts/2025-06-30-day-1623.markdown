@@ -7,6 +7,8 @@ tags:
 - tariffs
 - trade
 - immigration
+- supreme-court
+- media
 description: '"Insane and destructive."'
 image: "/uploads/day1623-trump.jpg"
 todayInOneSentence: Senate Republicans’ current version of Trump’s “big, beautiful

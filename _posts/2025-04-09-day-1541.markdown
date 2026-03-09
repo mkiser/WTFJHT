@@ -7,6 +7,8 @@ tags:
 - economy
 - congress
 - immigration
+- national-security
+- labor
 description: '"Be cool."'
 image: "/uploads/day-1541-trump.jpg"
 todayInOneSentence: Trump paused his "reciprocal" tariffs for 90 days for most countries,

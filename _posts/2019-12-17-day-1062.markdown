@@ -9,6 +9,8 @@ tags:
 - indictment
 - mueller-investigation
 - criminal-justice
+- oversight
+- media
 description: An open war on American Democracy.
 image: "/uploads/1062.jpg"
 todayInOneSentence: Mitch McConnell rejected Democrats requests to have four White

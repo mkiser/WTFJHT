@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - education
+- russia
+- infrastructure
 description: '"One god-awful mess."'
 image: "/uploads/day-101-biden.jpg"
 tag_excerpts:

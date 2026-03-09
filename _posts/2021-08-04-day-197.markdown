@@ -9,6 +9,8 @@ tags:
 - ethics
 - taxes
 - oversight
+- foreign-policy
+- congress
 description: '"Unwelcome and nonconsensual touching."'
 image: "/uploads/day-197-080421.jpg"
 todayInOneSentence: The FDA plans to fully approve the Pfizer vaccine by next month;

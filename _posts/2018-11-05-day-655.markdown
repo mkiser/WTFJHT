@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - polling
+- trade
+- immigration
 description: Political stunt.
 image: "/uploads/655.jpg"
 todayInOneSentence: Democrats are expected to take control of the House of Representatives

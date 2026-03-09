@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - national-security
+- trade
+- immigration
 description: '"It''s going to sort of just disappear, I hope."'
 image: "/uploads/1259.jpg"
 todayInOneSentence: The number of confirmed U.S. coronavirus deaths is "a substantial

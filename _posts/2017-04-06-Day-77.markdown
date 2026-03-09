@@ -9,6 +9,8 @@ tags:
 - oversight
 - ethics
 - national-security
+- tech-policy
+- judiciary
 layout: post
 description: Filibustered.
 image:

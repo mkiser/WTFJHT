@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - congress
 - supreme-court
+- covid
+- economy
 description: '"Sensitive and high-profile."'
 image: "/uploads/day-685-biden.jpg"
 todayInOneSentence: Early turnout in Georgia's Senate runoff between Raphael Warnock

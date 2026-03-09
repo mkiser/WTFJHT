@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - disinformation
 - mueller-investigation
+- oversight
+- trade
 description: Unforeseen.
 image: "/uploads/893.jpg"
 todayInOneSentence: A federal judge ordered Customs and Border Patrol to let health

@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - mueller-investigation
 - congress
+- national-security
+- voting-rights
 description: On fire.
 image: "/uploads/847.jpg"
 todayInOneSentence: The U.S. military will build six tent cities near border for migrants;

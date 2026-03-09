@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - polling
 - voting-rights
+- climate
+- lawsuit
 description: '"Obstruction of justice as a way of life."'
 image: "/uploads/1245.jpg"
 todayInOneSentence: At least 10 states reported either new single-day highs or set

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - national-security
 - media
+- economy
+- russia
 description: '"Phraseology."'
 image: "/uploads/1330.jpg"
 todayInOneSentence: Russia, China, and Iran have all recently attempted to hack people

@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - economy
+- national-security
+- china
 description: Reckless escalation.
 image: "/uploads/600.jpg"
 todayInOneSentence: Trump began the 17th anniversary of the Sept. 11, 2001, terror

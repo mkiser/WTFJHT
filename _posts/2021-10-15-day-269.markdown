@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - covid
 - protests
+- indictment
+- congress
 description: '"Just looking out!"'
 image: "/uploads/day-269-biden.jpg"
 todayInOneSentence: The Justice Department will ask the Supreme Court to block enforcement

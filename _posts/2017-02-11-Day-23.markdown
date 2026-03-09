@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - energy
 - congress
+- climate
+- protests
 layout: post
 description: Targeted.
 image:

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - supreme-court
+- reproductive-rights
+- economy
 description: '"I am your protector."'
 image: "/uploads/day-1345-biden-harris.jpg"
 todayInOneSentence: The House passed a short-term spending bill to avert a government

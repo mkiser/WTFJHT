@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - immigration
 - cabinet
+- national-security
+- protests
 description: '"Extreme action."'
 image: "/uploads/1315.jpg"
 todayInOneSentence: The CDC abruptly changed its COVID-19 testing guidance to exclude

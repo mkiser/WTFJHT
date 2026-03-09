@@ -9,6 +9,8 @@ tags:
 - national-security
 - israel-palestine
 - foreign-policy
+- indictment
+- congress
 description: 'Hindsight. '
 image: "/uploads/481.jpg"
 ---

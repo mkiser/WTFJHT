@@ -9,6 +9,8 @@ tags:
 - economy
 - covid
 - corruption
+- congress
+- national-security
 description: '"Not going to be easy."'
 image: "/uploads/day-470-biden.jpg"
 todayInOneSentence: 'Oklahoma’s Republican Gov. Kevin Stitt signed a Texas-style abortion

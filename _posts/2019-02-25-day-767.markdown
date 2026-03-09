@@ -9,6 +9,8 @@ tags:
 - trade
 - congress
 - national-security
+- criminal-justice
+- oversight
 description: Super-creepy and inappropriate.
 image: "/uploads/767.jpg"
 todayInOneSentence: Paul Manafort "repeatedly and brazenly" broke the law; Trump asked

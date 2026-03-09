@@ -9,6 +9,8 @@ tags:
 - disinformation
 - china
 - congress
+- russia
+- economy
 description: President for life.
 image: "/uploads/410.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - russia
+- congress
+- ethics
 description: A fucked-up feedback loop.
 image: "/uploads/480.jpg"
 ---

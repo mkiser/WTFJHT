@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - tech-policy
+- media
+- immigration
 description: '"A petty, vindictive, cruel, unstable man who wants to be a tyrant."'
 image: "/uploads/day-1385-biden.jpg"
 todayInOneSentence: Trump, who tried to overturn his 2020 election loss, said he “shouldn’t

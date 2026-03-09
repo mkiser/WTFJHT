@@ -9,6 +9,8 @@ tags:
 - national-security
 - media
 - indictment
+- trade
+- congress
 description: We have a world to run.
 image: "/uploads/505.jpg"
 todayInOneSentence: The Trump administration will not defend the Affordable Care Act's

@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - indictment
+- disinformation
+- media
 description: A terrible situation.
 image: "/uploads/559.jpg"
 todayInOneSentence: Trump urged Sessions to end the Mueller investigation "right now";

@@ -9,6 +9,8 @@ tags:
 - congress
 - lawsuit
 - national-security
+- trump-trials
+- immigration
 description: '"The new normal."'
 image: "/uploads/day-1017-b.jpg"
 todayInOneSentence: Biden called for a humanitarian “pause” in the Israel-Hamas war

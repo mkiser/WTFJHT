@@ -9,6 +9,8 @@ tags:
 - education
 - jan-6
 - voting-rights
+- china
+- supreme-court
 description: '"A conspiracy to defraud the United States."'
 image: "/uploads/day-638-biden.jpg"
 todayInOneSentence: 'Putin declared martial law in the four Russian-occupied regions

@@ -9,6 +9,8 @@ tags:
 - congress
 - russia
 - indictment
+- lawsuit
+- media
 description: Swiftly.
 image: "/uploads/763.jpg"
 todayInOneSentence: House Democrats will file a resolution rejecting Trump's national

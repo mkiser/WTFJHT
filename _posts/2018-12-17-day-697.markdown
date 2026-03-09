@@ -9,6 +9,8 @@ tags:
 - congress
 - indictment
 - healthcare
+- russia
+- economy
 description: A form of compromise.
 image: "/uploads/697.jpg"
 todayInOneSentence: The Russian disinformation and influence campaign during the 2016

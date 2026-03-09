@@ -9,6 +9,8 @@ tags:
 - tech-policy
 - congress
 - mueller-investigation
+- russia
+- media
 description: IT WAS ME.
 image: "/uploads/307.jpg"
 ---

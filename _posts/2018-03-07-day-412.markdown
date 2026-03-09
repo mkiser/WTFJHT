@@ -9,6 +9,8 @@ tags:
 - immigration
 - gun-policy
 - congress
+- trade
+- infrastructure
 description: Hush agreement.
 image: "/uploads/412.jpg"
 ---

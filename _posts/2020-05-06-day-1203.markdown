@@ -9,6 +9,8 @@ tags:
 - media
 - healthcare
 - economy
+- immigration
+- national-security
 description: '"We''ve solved every problem."'
 image: "/uploads/1203.jpg"
 todayInOneSentence: Trump contradicted his plan to shut down the coronavirus task

@@ -9,6 +9,8 @@ tags:
 - economy
 - oversight
 - resignation
+- healthcare
+- voting-rights
 description: '"Not a big Trump fan."'
 image: "/uploads/1173.jpg"
 todayInOneSentence: Trump warned "there will be a lot of death" and this will be "toughest

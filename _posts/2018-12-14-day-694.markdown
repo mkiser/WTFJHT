@@ -9,6 +9,8 @@ tags:
 - media
 - economy
 - oversight
+- immigration
+- national-security
 description: '"Of course."'
 image: "/uploads/694.jpg"
 todayInOneSentence: Prosecutors are investigating whether Trump's inaugural committee

@@ -9,6 +9,8 @@ tags:
 - climate
 - nomination
 - foreign-policy
+- healthcare
+- economy
 description: '"Clear and present risk."'
 image: "/uploads/day-392-biden.jpg"
 todayInOneSentence: Biden warned that a Russian invasion of Ukraine "remains distinctly

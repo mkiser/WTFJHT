@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - taxes
 - polling
+- subpoena
+- russia
 description: Lowlife.
 image: "/uploads/572.jpg"
 todayInOneSentence: Omarosa released audio of Trump campaign aides discussing how

@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - national-security
 - congress
+- media
+- climate
 description: Calm before the storm.
 image: "/uploads/260.jpg"
 ---

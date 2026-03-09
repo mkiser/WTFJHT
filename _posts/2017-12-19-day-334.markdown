@@ -9,6 +9,8 @@ tags:
 - judiciary
 - congress
 - voting-rights
+- russia
+- supreme-court
 description: '"The single worst piece of legislation."'
 image: "/uploads/334.jpg"
 ---

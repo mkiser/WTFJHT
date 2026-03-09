@@ -9,6 +9,8 @@ tags:
 - education
 - lgbtq-rights
 - congress
+- economy
+- media
 layout: post
 description: Health care?
 image:

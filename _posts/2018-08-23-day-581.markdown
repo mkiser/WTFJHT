@@ -9,6 +9,8 @@ tags:
 - indictment
 - voting-rights
 - education
+- economy
+- taxes
 description: '"It''s not fair."'
 image: "/uploads/581.jpg"
 todayInOneSentence: Trump "would consider" pardoning Paul Manafort and complained

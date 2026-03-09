@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - classified-documents
 - national-security
+- gun-policy
+- congress
 description: '"Focused on solutions."'
 image: "/uploads/day-1374-biden-harris.jpg"
 todayInOneSentence: Kamala Harris called Trump a fascist, saying "the American people

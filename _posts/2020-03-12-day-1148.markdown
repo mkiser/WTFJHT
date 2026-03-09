@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - education
+- labor
+- nomination
 description: Canceled.
 image: "/uploads/1148.jpg"
 todayInOneSentence: Trump banned foreign visitors from most of Europe for 30-days

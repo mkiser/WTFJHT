@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - oversight
 - congress
+- voting-rights
+- foreign-policy
 description: Justified.
 image: "/uploads/1054.jpg"
 todayInOneSentence: The Justice Department inspector general's report concluded that

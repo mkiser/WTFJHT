@@ -9,6 +9,8 @@ tags:
 - economy
 - taxes
 - voting-rights
+- tech-policy
+- trump-trials
 description: '"An essential foundation."'
 image: "/uploads/day-1325-biden-harris.jpg"
 tag_excerpts:

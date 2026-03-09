@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - congress
 - immigration
+- national-security
+- voting-rights
 description: The most presidential.
 image: "/uploads/188.jpg"
 ---

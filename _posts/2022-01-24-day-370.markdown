@@ -9,6 +9,8 @@ tags:
 - nomination
 - supreme-court
 - congress
+- foreign-policy
+- education
 description: '"Massive consequences."'
 image: "/uploads/day-370-biden.jpg"
 todayInOneSentence: The Pentagon put 8,500 American troops on “high alert” as NATO

@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - media
 - congress
+- immigration
+- voting-rights
 description: A new dawn.
 image: "/uploads/620.jpg"
 todayInOneSentence: 'The U.S., Mexico, and Canada reached a deal to revise NAFTA;

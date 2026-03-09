@@ -9,6 +9,8 @@ tags:
 - media
 - economy
 - covid
+- voting-rights
+- congress
 description: '"Hellscape."'
 image: "/uploads/day-650-biden.jpg"
 todayInOneSentence: 'Federal prosecutors charged the man accused of breaking into

@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - congress
+- healthcare
+- foreign-policy
 layout: post
 description: An honor to be with you.
 image:

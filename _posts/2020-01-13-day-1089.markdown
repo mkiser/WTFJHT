@@ -9,6 +9,8 @@ tags:
 - congress
 - foreign-policy
 - economy
+- cabinet
+- voting-rights
 description: Interpretations.
 image: "/uploads/1089.jpg"
 todayInOneSentence: 'Defense Secretary Mark Esper "didn''t see" intelligence backing

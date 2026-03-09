@@ -9,6 +9,8 @@ tags:
 - ethics
 - congress
 - economy
+- resignation
+- protests
 layout: post
 description: Shifting blame.
 image:

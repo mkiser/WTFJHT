@@ -9,6 +9,8 @@ tags:
 - corruption
 - economy
 - national-security
+- education
+- congress
 description: '"Dangerous and provocative."'
 image: "/uploads/1189.jpg"
 todayInOneSentence: The director of the federal agency responsible for developing

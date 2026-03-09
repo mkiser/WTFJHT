@@ -9,6 +9,8 @@ tags:
 - corruption
 - economy
 - congress
+- tech-policy
+- oversight
 description: '"As dangerous as it sounds."'
 image: "/uploads/1182.jpg"
 todayInOneSentence: 'Trump cutoff U.S. funding to the World Health Organization; the

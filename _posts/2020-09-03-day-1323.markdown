@@ -9,6 +9,8 @@ tags:
 - congress
 - polling
 - healthcare
+- economy
+- national-security
 description: '"Playing with fire."'
 image: "/uploads/1323.jpg"
 todayInOneSentence: Another 881,000 people applied for state unemployment benefits

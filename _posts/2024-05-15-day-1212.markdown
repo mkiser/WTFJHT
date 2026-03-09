@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - economy
 - congress
+- israel-palestine
+- national-security
 description: '"Ready to rumble."'
 image: "/uploads/day-1212-biden.jpg"
 todayInOneSentence: 'Biden and Trump agreed to a pair of presidential debates before

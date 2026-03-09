@@ -9,6 +9,8 @@ tags:
 - education
 - oversight
 - economy
+- national-security
+- resignation
 description: '"He still doesn''t get it."'
 image: "/uploads/1294.jpg"
 todayInOneSentence: Trump insisted that the coronavirus pandemic "will go away like

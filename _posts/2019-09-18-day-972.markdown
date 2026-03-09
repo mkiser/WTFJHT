@@ -9,6 +9,8 @@ tags:
 - economy
 - national-security
 - media
+- gun-policy
+- congress
 description: Dastardly.
 image: "/uploads/972.jpg"
 todayInOneSentence: Secretary of State Mike Pompeo accused Iran of having carried

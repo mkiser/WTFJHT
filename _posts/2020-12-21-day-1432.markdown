@@ -9,6 +9,8 @@ tags:
 - corruption
 - national-security
 - voting-rights
+- healthcare
+- economy
 description: '"Everything is well under control."'
 image: "/uploads/1432.jpg"
 todayInOneSentence: Trump discussed appointing a lawyer who promoted conspiracy theories

@@ -9,6 +9,8 @@ tags:
 - national-security
 - economy
 - oversight
+- russia
+- trade
 description: Fully aware.
 image: "/uploads/386.jpg"
 ---

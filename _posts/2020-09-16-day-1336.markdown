@@ -9,6 +9,8 @@ tags:
 - immigration
 - protests
 - education
+- congress
+- healthcare
 description: '"Herd mentality."'
 image: "/uploads/1336.jpg"
 todayInOneSentence: Trump – again – claimed that the coronavirus will "disappear"

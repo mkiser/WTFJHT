@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - classified-documents
 - voting-rights
+- foreign-policy
+- subpoena
 description: '"What comes next."'
 image: "/uploads/day1009b.jpg"
 todayInOneSentence: After 22 days and three failed nominees, House Republicans elected

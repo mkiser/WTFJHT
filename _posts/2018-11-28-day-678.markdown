@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - media
+- labor
+- national-security
 description: Guts.
 image: "/uploads/678.jpg"
 todayInOneSentence: Trump told Mueller that Roger Stone did not tell him about WikiLeaks

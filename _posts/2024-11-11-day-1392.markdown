@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - nomination
 - congress
+- indictment
+- presidential-election
 description: '"The worst of the worst."'
 image: "/uploads/day-1392-biden-harris-trump.jpg"
 todayInOneSentence: Trump demanded that the next Senate Republican leader allow him

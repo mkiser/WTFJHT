@@ -7,6 +7,8 @@ tags:
 - oversight
 - climate
 - congress
+- polling
+- trade
 description: '"America’s greatness."'
 image: "/uploads/day-1561-trump.jpg"
 todayInOneSentence: Amazon denied it would post tariff-related price hikes after the

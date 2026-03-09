@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - national-security
+- voting-rights
+- cabinet
 description: Weakened authority.
 image: "/uploads/818.jpg"
 todayInOneSentence: Attorney General William Barr directed immigration judges to deny

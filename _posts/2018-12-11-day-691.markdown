@@ -9,6 +9,8 @@ tags:
 - national-security
 - indictment
 - mueller-investigation
+- economy
+- education
 description: This wall thing.
 image: "/uploads/691.jpg"
 todayInOneSentence: Trump claimed he'd be "proud to shut down the government"; Pelosi

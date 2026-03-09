@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - covid
 - energy
+- indictment
+- oversight
 description: '"Delivering for the American people."'
 image: "/uploads/day-503-biden.jpg"
 todayInOneSentence: Biden invoked the Defense Production Act to boost the domestic

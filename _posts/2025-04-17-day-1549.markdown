@@ -7,6 +7,8 @@ tags:
 - economy
 - education
 - congress
+- judiciary
+- resignation
 description: '"A matter of law."'
 image: "/uploads/day-1549-trump.jpg"
 todayInOneSentence: The Supreme Court agreed to hear arguments over whether Trump

@@ -18,6 +18,14 @@ podcast:
   file: "/uploads/Day 1856_ _An embarrassment._.mp3"
   duration: '00:05:32'
   length: 5313558
+tags:
+- economy
+- covid
+- healthcare
+- trade
+- nomination
+- congress
+- labor
 ---
 
 1/ **The White House installed a critic of the CDC as the acting director of the CDC**. Dr. Jay Bhattacharya, the head of the National Institutes of Health, will keep his NIH job while he temporarily runs the CDC, which has lacked a Senate-confirmed leader since August, when Health Secretary Robert F. Kennedy Jr. fired Susan Monarez weeks into her tenure. Monarez told Congress she was removed after refusing to approve vaccine guidance changes without reviewing the underlying science. Bhattacharya replaces Jim O’Neill, who’s been serving as acting CDC director while also holding the deputy HHS secretary job. The White House said it plans to nominate O’Neill to lead the National Science Foundation. Bhattacharya, meanwhile, rose to prominence during the pandemic as a critic of the CDC’s lockdown and masking policies and as a co-author of the [Great Barrington Declaration](https://en.wikipedia.org/wiki/Great_Barrington_Declaration), and he’s accused the agency of peddling “pseudo science” during Covid. ([Washington Post](https://www.washingtonpost.com/politics/2026/02/18/jay-bhattacharya-cdc-director/) / [New York Times](https://www.nytimes.com/2026/02/18/us/politics/bhattacharya-kennedy-cdc-director.html) / [Politico](https://www.politico.com/news/2026/02/18/bhattacharya-cdc-director-oneill-rfk-00786582) / [Wall Street Journal](https://www.wsj.com/politics/policy/rfk-jr-cdc-acting-director-jay-bhattacharya-fd24632c) / [Axios](https://www.axios.com/2026/02/18/nih-jay-bhattacharya-cdc-director) / [NBC News](https://www.nbcnews.com/health/health-news/nih-director-jay-bhattacharya-lead-cdc-temporarily-rcna259596))

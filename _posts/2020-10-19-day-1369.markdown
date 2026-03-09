@@ -9,6 +9,8 @@ tags:
 - national-security
 - healthcare
 - immigration
+- voting-rights
+- oversight
 description: '"An absence of national leadership."'
 image: "/uploads/1369.jpg"
 todayInOneSentence: Health experts say the fall surge is here with COVID-19 hospitalizations

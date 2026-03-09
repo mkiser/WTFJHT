@@ -9,6 +9,8 @@ tags:
 - national-security
 - mueller-investigation
 - congress
+- economy
+- indictment
 description: '"It''s scary to go to work."'
 image: "/uploads/1208.jpg"
 todayInOneSentence: Three members of the White House coronavirus task force will self-quarantine

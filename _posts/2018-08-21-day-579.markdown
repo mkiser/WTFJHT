@@ -9,6 +9,8 @@ tags:
 - russia
 - mueller-investigation
 - indictment
+- taxes
+- economy
 description: For the "purpose of influencing the election."
 image: "/uploads/579.jpg"
 todayInOneSentence: Michael Cohen pleaded guilty to campaign finance violations for

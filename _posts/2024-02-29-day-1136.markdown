@@ -9,6 +9,8 @@ tags:
 - government-shutdown
 - israel-palestine
 - congress
+- economy
+- supreme-court
 description: '"Posed a threat."'
 image: "/uploads/day1136biden.jpg"
 todayInOneSentence: 'A state judge in Illinois ruled that Trump had engaged in insurrection

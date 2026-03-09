@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - tech-policy
 - congress
+- ukraine
+- national-security
 description: '"No blank checks."'
 image: "/uploads/day-778-biden.jpg"
 todayInOneSentence: Biden’s budget blueprint aims to cut federal budget deficits by

@@ -7,6 +7,8 @@ tags:
 - supreme-court
 - judiciary
 - protests
+- lawsuit
+- congress
 description: '"To cause chaos."'
 image: "/uploads/day1721trump.jpg"
 todayInOneSentence: Illinois and Chicago sued to block Trump’s deployment of 300 federalized

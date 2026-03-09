@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - indictment
+- foreign-policy
+- lawsuit
 description: Doesn't work that way.
 image: "/uploads/748.jpg"
 ---

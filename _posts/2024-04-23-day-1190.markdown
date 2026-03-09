@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - energy
+- trump-trials
+- labor
 description: '"Silly."'
 image: "/uploads/day-1190-biden.jpg"
 todayInOneSentence: 'Trump will likely be found in contempt of court for violating

@@ -9,6 +9,8 @@ tags:
 - opioids
 - education
 - foreign-policy
+- congress
+- voting-rights
 description: '"We''ve made that very clear."'
 image: "/uploads/day-615-biden.jpg"
 todayInOneSentence: 'An Arizona judge ruled that a 1864 ban on nearly all abortions

@@ -9,6 +9,8 @@ tags:
 - government-shutdown
 - economy
 - voting-rights
+- media
+- disinformation
 description: '"Concepts of a plan."'
 image: "/uploads/day-1331-biden-harris-trump.jpg"
 todayInOneSentence: 'Trump had a bad night; Trump demanded that ABC News be shut down

@@ -9,6 +9,8 @@ tags:
 - ukraine
 - economy
 - congress
+- nomination
+- media
 description: Sensitive.
 image: "/uploads/1016.jpg"
 todayInOneSentence: A senior White House lawyer instructed the national security official

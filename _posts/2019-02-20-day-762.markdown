@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - oversight
+- foreign-policy
+- national-security
 description: Retribution.
 image: "/uploads/762.jpg"
 todayInOneSentence: The Justice Department will potentially announce the completion

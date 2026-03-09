@@ -9,6 +9,8 @@ tags:
 - energy
 - lgbtq-rights
 - congress
+- national-security
+- trade
 layout: post
 description: '"Climate change."'
 image:

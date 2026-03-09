@@ -9,6 +9,8 @@ tags:
 - economy
 - media
 - congress
+- voting-rights
+- oversight
 description: '"I feel great."'
 image: "/uploads/1357.jpg"
 todayInOneSentence: A federal appeals court ruled that Manhattan's district attorney

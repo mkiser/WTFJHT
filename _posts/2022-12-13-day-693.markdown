@@ -9,6 +9,8 @@ tags:
 - economy
 - congress
 - classified-documents
+- national-security
+- indictment
 description: '"Point of no return."'
 image: "/uploads/day-693-biden.jpg"
 todayInOneSentence: Biden signed into law a bipartisan bill that codifies same-sex

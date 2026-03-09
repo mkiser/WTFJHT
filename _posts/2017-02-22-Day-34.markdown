@@ -9,6 +9,8 @@ tags:
 - energy
 - healthcare
 - education
+- congress
+- voting-rights
 layout: post
 description: Handcuffed.
 image:

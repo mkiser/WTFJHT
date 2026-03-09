@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - congress
 - protests
+- economy
+- tech-policy
 description: RIP RBG.
 image: "/uploads/1339.jpg"
 todayInOneSentence: Justice Ruth Bader Ginsburg died of metastatic pancreatic cancer;

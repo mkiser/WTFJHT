@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - economy
+- voting-rights
+- lawsuit
 description: Destabilizing activities.
 image: "/uploads/1086.jpg"
 todayInOneSentence: Nancy Pelosi will transmit articles of impeachment against Trump

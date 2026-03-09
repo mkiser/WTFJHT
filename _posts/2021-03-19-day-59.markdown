@@ -9,6 +9,8 @@ tags:
 - covid
 - china
 - education
+- congress
+- media
 description: '"Wasting time."'
 image: "/uploads/59-biden.jpg"
 todayInOneSentence: The House passed two immigration bills that would establish a

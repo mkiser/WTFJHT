@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - indictment
 - congress
+- voting-rights
+- national-security
 description: '"You got this problem."'
 image: "/uploads/day-1275-biden.jpg"
 todayInOneSentence: Special Counsel Jack Smith appealed Judge Aileen Cannon’s decision

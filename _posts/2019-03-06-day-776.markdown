@@ -9,6 +9,8 @@ tags:
 - judiciary
 - immigration
 - mueller-investigation
+- media
+- national-security
 description: Unusual.
 image: "/uploads/776.jpg"
 todayInOneSentence: Trump pressured John Kelly and Don McGahn to give Ivanka a security

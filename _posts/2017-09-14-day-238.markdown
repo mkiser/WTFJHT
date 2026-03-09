@@ -9,6 +9,8 @@ tags:
 - national-security
 - media
 - energy
+- congress
+- oversight
 description: Betrayed.
 image: "/uploads/238.jpg"
 author: Clayton Aldern

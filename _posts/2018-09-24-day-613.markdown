@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - tech-policy
+- voting-rights
+- russia
 description: Lingering stench.
 image: "/uploads/613.jpg"
 todayInOneSentence: A second woman publicly accused Brett Kavanaugh of sexual assault;

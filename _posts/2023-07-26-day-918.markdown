@@ -9,6 +9,8 @@ tags:
 - economy
 - indictment
 - congress
+- national-security
+- voting-rights
 description: '"A long way to go."'
 image: "/uploads/day-918-biden.jpg"
 todayInOneSentence: 'Rudy Giuliani conceded that he made "false" and defamatory statements

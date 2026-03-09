@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - reproductive-rights
 - congress
+- healthcare
+- voting-rights
 description: '"A bit surprising and unfortunate."'
 image: "/uploads/day-1161-biden.jpg"
 todayInOneSentence: The U.N. Security Council passed a resolution demanding an immediate

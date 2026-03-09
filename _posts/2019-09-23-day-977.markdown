@@ -9,6 +9,8 @@ tags:
 - ukraine
 - congress
 - oversight
+- economy
+- voting-rights
 description: '"It doesn''t matter."'
 image: "/uploads/977.jpg"
 todayInOneSentence: Trump admitted that he discussed getting dirt on Joe Biden with

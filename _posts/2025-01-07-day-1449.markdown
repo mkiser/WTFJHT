@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - disinformation
 - tech-policy
+- israel-palestine
+- national-security
 description: '"All hell will break out."'
 image: "/uploads/day-1449-biden-trump.jpg"
 todayInOneSentence: 'A federal judge in Florida temporarily blocked the Justice Department

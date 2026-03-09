@@ -9,6 +9,8 @@ tags:
 - economy
 - classified-documents
 - reproductive-rights
+- congress
+- climate
 description: '"Shortsighted."'
 image: "/uploads/day-624-biden.jpg"
 todayInOneSentence: The World Trade Organization warned that the outlook for global

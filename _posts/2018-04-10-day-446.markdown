@@ -9,6 +9,8 @@ tags:
 - corruption
 - national-security
 - congress
+- voting-rights
+- economy
 description: '"Why don''t I just fire Mueller?"'
 image: "/uploads/446.jpg"
 ---

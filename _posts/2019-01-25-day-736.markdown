@@ -9,6 +9,8 @@ tags:
 - government-shutdown
 - congress
 - national-security
+- labor
+- voting-rights
 description: '"Nothing to do with the president."'
 image: "/uploads/736.jpg"
 todayInOneSentence: Roger Stone was arrested on seven counts of obstruction, lying

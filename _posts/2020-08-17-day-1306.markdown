@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - polling
+- tech-policy
+- mueller-investigation
 description: '"Widespread and expanding."'
 image: "/uploads/1306.jpg"
 todayInOneSentence: Nancy Pelosi recalled the House from summer recess to vote on

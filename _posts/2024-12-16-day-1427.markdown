@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - media
 - climate
+- doge
+- infrastructure
 description: '"That’s not gonna happen."'
 image: "/uploads/day-1427-biden.jpg"
 todayInOneSentence: 'Trump downplayed concerns that Robert F. Kennedy Jr. – his pick

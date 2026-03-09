@@ -9,6 +9,8 @@ tags:
 - immigration
 - national-security
 - voting-rights
+- climate
+- indictment
 description: We've got your back.
 image: "/uploads/439.jpg"
 ---

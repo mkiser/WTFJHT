@@ -9,6 +9,8 @@ tags:
 - media
 - trade
 - tech-policy
+- indictment
+- economy
 description: 'Serious situation. '
 image: "/uploads/586.jpg"
 todayInOneSentence: North Carolina's congressional district maps were unconstitutionally

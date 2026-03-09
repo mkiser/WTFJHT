@@ -9,6 +9,8 @@ tags:
 - media
 - mueller-investigation
 - presidential-election
+- immigration
+- congress
 description: '"The darkest winter in modern history."'
 image: "/uploads/1210.jpg"
 todayInOneSentence: Trump and the coronavirus task force is pushing the CDC to change

@@ -9,6 +9,8 @@ tags:
 - pardon
 - congress
 - russia
+- climate
+- economy
 description: 'Elected by the American people. '
 image: "/uploads/274.jpg"
 ---

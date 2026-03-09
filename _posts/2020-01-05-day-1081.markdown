@@ -9,6 +9,8 @@ tags:
 - sanctions
 - tech-policy
 - media
+- infrastructure
+- congress
 description: '"Reign of terror."'
 image: "/uploads/1081.jpg"
 todayInOneSentence: Trump authorized a drone strike at Baghdad International Airport

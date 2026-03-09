@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - voting-rights
 - climate
+- congress
+- supreme-court
 description: '"Thinking about it."'
 image: "/uploads/day-611-biden.jpg"
 todayInOneSentence: A federal appeals court ruled that the Justice Department could

@@ -9,6 +9,8 @@ tags:
 - covid
 - congress
 - voting-rights
+- nomination
+- foreign-policy
 description: '"Extremely enthusiastic."'
 image: "/uploads/day-183-072121.jpg"
 todayInOneSentence: Nancy Pelosi rejected two of the five Republicans selected to

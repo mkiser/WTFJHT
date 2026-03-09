@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - voting-rights
 - national-security
+- indictment
+- congress
 description: '"We have to be ready."'
 image: "/uploads/125-biden.jpg"
 todayInOneSentence: Biden doubled FEMA's budget for extreme weather preparation ahead

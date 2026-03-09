@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - healthcare
+- reproductive-rights
+- taxes
 description: '"Deliberate efforts."'
 image: "/uploads/day-332-biden.jpg"
 todayInOneSentence: Biden acknowledged that the Build Back Better bill will not clear

@@ -9,6 +9,8 @@ tags:
 - judiciary
 - congress
 - oversight
+- jan-6
+- healthcare
 description: '"We must adapt."'
 image: "/uploads/day-344-biden.jpg"
 todayInOneSentence: 'U.S. Covid-19 cases hit their highest level of the pandemic;

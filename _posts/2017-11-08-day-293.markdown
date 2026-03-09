@@ -9,6 +9,8 @@ tags:
 - special-election
 - congress
 - voting-rights
+- judiciary
+- climate
 description: Refreshed.
 image: "/uploads/293.jpg"
 ---

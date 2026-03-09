@@ -9,6 +9,8 @@ tags:
 - covid
 - media
 - voting-rights
+- supreme-court
+- congress
 description: '"Seemed political."'
 image: "/uploads/day-1357-biden-harris.jpg"
 todayInOneSentence: 'The Supreme Court refused to require doctors in Texas to perform

@@ -9,6 +9,8 @@ tags:
 - congress
 - covid
 - classified-documents
+- foreign-policy
+- tech-policy
 description: '"Legitimate political discourse."'
 image: "/uploads/day-384.jpg"
 todayInOneSentence: Jill Biden said that two years of tuition-free community college

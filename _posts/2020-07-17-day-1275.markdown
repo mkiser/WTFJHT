@@ -9,6 +9,8 @@ tags:
 - education
 - lawsuit
 - economy
+- national-security
+- subpoena
 description: '"Science should not stand in the way."'
 image: "/uploads/1275.jpg"
 todayInOneSentence: The U.S. recorded more than 75,600 new coronavirus cases on Thursday;

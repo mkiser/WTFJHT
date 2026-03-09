@@ -9,6 +9,8 @@ tags:
 - judiciary
 - ethics
 - national-security
+- supreme-court
+- congress
 description: '"They''re all laughing at us."'
 image: "/uploads/day-1063bbiden.jpeg"
 todayInOneSentence: 'Trump approvingly quoted Putin to support his unfounded claim

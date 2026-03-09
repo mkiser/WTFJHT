@@ -9,6 +9,8 @@ tags:
 - immigration
 - disinformation
 - supreme-court
+- healthcare
+- voting-rights
 description: '"A total failure to launch."'
 image: "/uploads/day1098biden.jpg"
 todayInOneSentence: 'The Biden administration announced new steps to expand access

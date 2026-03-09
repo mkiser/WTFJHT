@@ -9,6 +9,8 @@ tags:
 - congress
 - russia
 - nomination
+- tech-policy
+- healthcare
 description: The only one that matters.
 image: "/uploads/288.jpg"
 ---

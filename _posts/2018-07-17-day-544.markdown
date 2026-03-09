@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - protests
+- economy
+- foreign-policy
 description: Strange and uncertain times.
 image: "/uploads/544.jpg"
 todayInOneSentence: Trump backtracked and tried to spin his Helsinki comments by claiming

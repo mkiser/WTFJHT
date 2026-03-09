@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - tech-policy
+- healthcare
+- taxes
 description: '"Nobody is trying to minimize this."'
 image: "/uploads/1145.jpg"
 todayInOneSentence: Trump had contact with two Republican congressmen before they

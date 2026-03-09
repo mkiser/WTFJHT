@@ -9,6 +9,8 @@ tags:
 - indictment
 - veterans
 - oversight
+- voting-rights
+- tech-policy
 description: '"History will not be kind to Donald Trump."'
 image: "/uploads/1110.jpg"
 todayInOneSentence: House impeachment managers and Trump’s lawyers delivered their

@@ -9,6 +9,8 @@ tags:
 - immigration
 - national-security
 - education
+- congress
+- judiciary
 description: '"ATTACKS WOULD END!"'
 image: "/uploads/399.jpg"
 ---

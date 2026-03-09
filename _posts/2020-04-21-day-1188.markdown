@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - economy
+- voting-rights
+- healthcare
 description: '"A new way of living."'
 image: "/uploads/1188.jpg"
 todayInOneSentence: The White House and congressional leaders reached agreement on

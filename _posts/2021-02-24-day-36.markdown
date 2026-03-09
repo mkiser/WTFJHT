@@ -9,6 +9,8 @@ tags:
 - nomination
 - congress
 - education
+- oversight
+- polling
 description: '"More must be done."'
 image: "/uploads/36-biden-covid.jpg"
 todayInOneSentence: House Democrats plan to pass the $1.9 trillion coronavirus relief

@@ -9,6 +9,8 @@ tags:
 - corruption
 - taxes
 - voting-rights
+- national-security
+- congress
 description: '"Just normal day-to-day stuff."'
 image: "/uploads/day-1317-biden-harris.jpg"
 todayInOneSentence: 'Trump’s economic proposals would increase the national debt by

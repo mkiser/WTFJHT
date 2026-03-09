@@ -9,6 +9,8 @@ tags:
 - labor
 - congress
 - economy
+- voting-rights
+- cabinet
 description: '"The American way."'
 image: "/uploads/1400.jpg"
 todayInOneSentence: The CDC warned Americans against traveling for Thanksgiving, citing

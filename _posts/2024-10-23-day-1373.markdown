@@ -9,6 +9,8 @@ tags:
 - labor
 - judiciary
 - lawsuit
+- congress
+- cabinet
 description: '"What do the American people want?"'
 image: "/uploads/day-1373-biden-harris.jpg"
 todayInOneSentence: 'The presidential election is 13 days away; Trump’s longest-serving

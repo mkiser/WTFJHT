@@ -9,6 +9,8 @@ tags:
 - disinformation
 - russia
 - gun-policy
+- trade
+- congress
 description: Leverage.
 image: "/uploads/407.jpg"
 ---

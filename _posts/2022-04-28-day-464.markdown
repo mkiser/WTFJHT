@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - education
 - corruption
+- national-security
+- congress
 description: '"A small price to pay."'
 image: "/uploads/day-464-biden-fruit.jpg"
 todayInOneSentence: 'Biden asked Congress for $33 billion in additional funding for

@@ -9,6 +9,8 @@ tags:
 - special-election
 - mueller-investigation
 - taxes
+- congress
+- russia
 description: A long winter.
 image: "/uploads/305.jpg"
 ---

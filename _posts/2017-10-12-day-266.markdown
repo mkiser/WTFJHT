@@ -9,6 +9,8 @@ tags:
 - national-security
 - climate
 - congress
+- economy
+- media
 description: Trump Vs. Everybody.
 image: "/uploads/266.jpg"
 ---

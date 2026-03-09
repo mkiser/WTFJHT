@@ -9,6 +9,8 @@ tags:
 - economy
 - voting-rights
 - mueller-investigation
+- education
+- labor
 description: '"Hustlers."'
 image: "/uploads/1349.jpg"
 todayInOneSentence: More than 1 million people have died from the coronavirus worldwide

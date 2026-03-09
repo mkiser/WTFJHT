@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - national-security
 - nomination
+- oversight
+- healthcare
 description: '"Covid hell."'
 image: "/uploads/1392.jpg"
 todayInOneSentence: 'U.S. COVID-19 hospitalizations reached an all-time high of 61,964,

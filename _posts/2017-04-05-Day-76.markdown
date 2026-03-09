@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - oversight
 - national-security
+- congress
+- media
 layout: post
 description: Demoted.
 image:

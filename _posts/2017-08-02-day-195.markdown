@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - congress
 - polling
+- education
+- nomination
 description: Seriously flawed.
 image: "/uploads/195.jpg"
 ---

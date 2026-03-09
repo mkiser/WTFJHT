@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - voting-rights
 - congress
+- taxes
+- oversight
 description: Height of hypocrisy.
 image: "/uploads/250.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - ukraine
 - oversight
 - national-security
+- foreign-policy
+- healthcare
 description: '"What our framers feared most."'
 image: "/uploads/1100.jpg"
 todayInOneSentence: House managers used their final day of opening arguments to conclude

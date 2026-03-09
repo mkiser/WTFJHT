@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - resignation
+- indictment
+- taxes
 description: '"Grim."'
 image: "/uploads/1415.jpg"
 tag_excerpts:

@@ -9,6 +9,8 @@ tags:
 - corruption
 - national-security
 - indictment
+- voting-rights
+- congress
 description: '"The future is here."'
 image: "/uploads/day-1309-biden-harris.jpg"
 todayInOneSentence: 'Biden passed the torch to Vice President Kamala Harris on the

@@ -9,6 +9,8 @@ tags:
 - media
 - voting-rights
 - disinformation
+- tech-policy
+- nomination
 description: '"Reckless and selfish."'
 image: "/uploads/1334.jpg"
 todayInOneSentence: Political appointees at the Department of Health and Human Services

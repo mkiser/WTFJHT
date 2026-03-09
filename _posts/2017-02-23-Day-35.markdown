@@ -9,6 +9,8 @@ tags:
 - national-security
 - foreign-policy
 - education
+- congress
+- infrastructure
 layout: post
 description: "<s>Frayed.</s> Rejected."
 image:

@@ -9,6 +9,8 @@ tags:
 - media
 - covid
 - tech-policy
+- congress
+- education
 description: '"Just get out of the way."'
 image: "/uploads/258-biden.jpg"
 todayInOneSentence: Mitch McConnell demanded that Biden pressure congressional Democratic

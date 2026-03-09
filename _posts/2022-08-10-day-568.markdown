@@ -9,6 +9,8 @@ tags:
 - veterans
 - national-security
 - voting-rights
+- congress
+- media
 description: '"Absolutely no choice."'
 image: "/uploads/day-568-biden.jpg"
 todayInOneSentence: Trump invoked his Fifth Amendment right against self-incrimination

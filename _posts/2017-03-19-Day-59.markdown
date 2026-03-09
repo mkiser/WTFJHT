@@ -9,6 +9,8 @@ tags:
 - oversight
 - national-security
 - congress
+- immigration
+- russia
 layout: post
 description: Collusion.
 image:

@@ -9,6 +9,8 @@ tags:
 - media
 - national-security
 - tech-policy
+- congress
+- russia
 description: '"Nobody likes me."'
 image: "/uploads/1287.jpg"
 todayInOneSentence: More than 150,000 people have died in the United States from the

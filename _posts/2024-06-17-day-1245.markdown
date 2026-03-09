@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - civil-rights
 - education
+- congress
+- national-security
 description: '"Deadly consequences."'
 image: "/uploads/day-1245-biden.jpg"
 todayInOneSentence: The U.S. surgeon general called for social media companies to

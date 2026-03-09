@@ -9,6 +9,8 @@ tags:
 - ukraine
 - nomination
 - covid
+- congress
+- immigration
 description: '"It’s now or never."'
 image: "/uploads/day-440-biden.jpg"
 todayInOneSentence: The Intergovernmental Panel on Climate Change report warned that

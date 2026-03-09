@@ -9,6 +9,8 @@ tags:
 - education
 - oversight
 - national-security
+- israel-palestine
+- mueller-investigation
 description: Scum.
 image: "/uploads/1056.jpg"
 todayInOneSentence: The Justice Department Inspector General Michael Horowitz testified

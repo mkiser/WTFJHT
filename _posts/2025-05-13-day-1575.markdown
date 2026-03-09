@@ -7,6 +7,8 @@ tags:
 - corruption
 - judiciary
 - immigration
+- national-security
+- congress
 description: '"A chance at greatness."'
 image: "/uploads/day1575trump.jpg"
 todayInOneSentence: 'Trump will lift all U.S. sanctions on Syria, ending a decades-long

@@ -9,6 +9,8 @@ tags:
 - economy
 - media
 - china
+- healthcare
+- housing
 description: '"Gave up and didn''t try."'
 image: "/uploads/1265.jpg"
 todayInOneSentence: Trump administration officially notified the United Nations that

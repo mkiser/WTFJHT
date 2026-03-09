@@ -9,6 +9,8 @@ tags:
 - judiciary
 - nomination
 - economy
+- foreign-policy
+- trade
 description: Counterpunch.
 image: "/uploads/1064.jpg"
 todayInOneSentence: House Speaker Nancy Pelosi won't commit to sending the articles

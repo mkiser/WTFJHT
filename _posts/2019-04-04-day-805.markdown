@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - media
+- trade
+- immigration
 description: Alarming and significant.
 image: "/uploads/805.jpg"
 todayInOneSentence: Mueller's investigators gathered "alarming and significant" evidence

@@ -9,6 +9,8 @@ tags:
 - corruption
 - national-security
 - immigration
+- voting-rights
+- congress
 description: '"Nullifying the will of the people."'
 image: "/uploads/1418.jpg"
 todayInOneSentence: 'Trump called Georgia Gov. Brian Kemp and urged him to call a

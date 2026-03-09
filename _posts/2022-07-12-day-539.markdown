@@ -9,6 +9,8 @@ tags:
 - nomination
 - covid
 - congress
+- voting-rights
+- supreme-court
 description: '"In no uncertain terms."'
 image: "/uploads/day-539.jpg"
 todayInOneSentence: 'The Jan. 6 committee detailed how divisions between White House

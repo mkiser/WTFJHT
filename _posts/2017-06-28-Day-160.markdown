@@ -9,6 +9,8 @@ tags:
 - media
 - oversight
 - mueller-investigation
+- congress
+- tech-policy
 layout: post
 description: Failing fake news.
 image:

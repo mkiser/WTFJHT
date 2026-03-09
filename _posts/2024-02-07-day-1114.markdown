@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - israel-palestine
 - congress
+- voting-rights
+- immigration
 description: '"Delusional."'
 image: "/uploads/day1114biden.jpg"
 todayInOneSentence: 'House Republicans failed to impeach Homeland Security Secretary

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - protests
 - jan-6
+- civil-rights
+- congress
 description: '"An assault on democracy."'
 image: "/uploads/day-133-biden.jpg"
 todayInOneSentence: Biden issued a presidential proclamation recognizing June as Pride

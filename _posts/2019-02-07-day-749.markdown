@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - climate
+- indictment
+- national-security
 description: Political hack.
 image: "/uploads/749.jpg"
 ---

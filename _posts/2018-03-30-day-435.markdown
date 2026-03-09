@@ -9,6 +9,8 @@ tags:
 - immigration
 - mueller-investigation
 - russia
+- national-security
+- foreign-policy
 description: 'Climate of change. '
 image: "/uploads/435.jpg"
 ---

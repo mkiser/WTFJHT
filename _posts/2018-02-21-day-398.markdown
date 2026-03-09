@@ -9,6 +9,8 @@ tags:
 - national-security
 - indictment
 - oversight
+- education
+- veterans
 description: Subversion.
 image: "/uploads/398.jpg"
 ---

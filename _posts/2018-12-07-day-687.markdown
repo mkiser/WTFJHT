@@ -9,6 +9,8 @@ tags:
 - nomination
 - indictment
 - foreign-policy
+- national-security
+- criminal-justice
 description: Undisciplined.
 image: "/uploads/687.jpg"
 todayInOneSentence: Mueller's office is expected to reveal details about Michael Cohen

@@ -9,6 +9,8 @@ tags:
 - climate
 - economy
 - national-security
+- indictment
+- jan-6
 description: '"Democracy has prevailed."'
 image: "/uploads/biden-harris-day-1.jpg"
 tag_excerpts:

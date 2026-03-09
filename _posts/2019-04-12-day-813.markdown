@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - national-security
 - polling
+- nomination
+- voting-rights
 description: 'Nonstory. '
 image: "/uploads/813.jpg"
 todayInOneSentence: Trump pressured Kirstjen Nielsen into busing detained immigrants

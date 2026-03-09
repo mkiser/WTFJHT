@@ -9,6 +9,8 @@ tags:
 - disinformation
 - indictment
 - voting-rights
+- congress
+- judiciary
 description: 'Wrong. '
 image: "/uploads/314.jpg"
 ---

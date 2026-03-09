@@ -9,6 +9,8 @@ tags:
 - cabinet
 - israel-palestine
 - congress
+- immigration
+- media
 layout: post
 description: Inappropriate.
 image:

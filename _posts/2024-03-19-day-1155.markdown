@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - jan-6
 - israel-palestine
+- congress
+- judiciary
 description: '"Further chaos."'
 image: "/uploads/day-1155-biden.jpg"
 todayInOneSentence: Biden and House Republicans reached a deal to fund the government,

@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - lgbtq-rights
 - congress
+- national-security
+- voting-rights
 layout: post
 description: Nauseous.
 image:

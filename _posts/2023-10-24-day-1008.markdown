@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - voting-rights
 - mueller-investigation
+- criminal-justice
+- lawsuit
 description: '"Collective punishment."'
 image: "/uploads/day-1008-biden.jpg"
 todayInOneSentence: 'The Biden administration is reportedly worried that Israel lacks

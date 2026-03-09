@@ -9,6 +9,8 @@ tags:
 - congress
 - supreme-court
 - judiciary
+- economy
+- taxes
 description: '"A pawn."'
 image: "/uploads/1363.jpg"
 todayInOneSentence: Trump tested negative for the coronavirus "on consecutive days";

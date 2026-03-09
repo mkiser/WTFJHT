@@ -7,6 +7,8 @@ tags:
 - corruption
 - nomination
 - congress
+- resignation
+- immigration
 description: '"A tyrant."'
 image: "/uploads/day-1640-trump.jpg"
 todayInOneSentence: 'The Justice Department fired the federal prosecutor who led the

@@ -9,6 +9,8 @@ tags:
 - congress
 - ukraine
 - russia
+- oversight
+- foreign-policy
 description: Profound.
 image: "/uploads/981.jpg"
 todayInOneSentence: The White House and the Justice Department learned about the whistleblower

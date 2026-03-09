@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - media
+- oversight
+- impeachment
 description: '"Everything is working out."'
 image: "/uploads/1146.jpg"
 todayInOneSentence: 'Trump – again – downplayed the severity of the coronavirus epidemic,

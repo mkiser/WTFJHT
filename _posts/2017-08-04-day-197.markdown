@@ -9,6 +9,8 @@ tags:
 - disinformation
 - national-security
 - media
+- voting-rights
+- lawsuit
 description: That "totally made-up Russia story."
 image: "/uploads/197.jpg"
 ---

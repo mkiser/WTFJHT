@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - foreign-policy
+- national-security
+- trade
 description: Terminated.
 image: "/uploads/888.jpg"
 todayInOneSentence: Robert Mueller agreed to testify in July; Trump attacked Mueller

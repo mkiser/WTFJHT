@@ -9,6 +9,8 @@ tags:
 - veterans
 - national-security
 - voting-rights
+- criminal-justice
+- jan-6
 description: '"Losers."'
 image: "/uploads/1324.jpg"
 todayInOneSentence: Trump disparaged members of the U.S. military who had been captured

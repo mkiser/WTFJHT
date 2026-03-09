@@ -9,6 +9,8 @@ tags:
 - disinformation
 - media
 - tech-policy
+- climate
+- protests
 layout: post
 description: Heart of the US.
 image:

@@ -9,6 +9,8 @@ tags:
 - disinformation
 - midterm-election
 - national-security
+- congress
+- oversight
 description: No sense of urgency.
 image: "/uploads/426.jpg"
 ---

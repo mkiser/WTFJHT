@@ -9,6 +9,8 @@ tags:
 - nomination
 - congress
 - mueller-investigation
+- healthcare
+- economy
 description: '"Without delay."'
 image: "/uploads/1341.jpg"
 todayInOneSentence: Trump urged Senate Republicans to replace Justice Ruth Bader Ginsburg

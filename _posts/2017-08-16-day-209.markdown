@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - tech-policy
+- economy
+- judiciary
 description: Stunned and disheartened.
 image: "/uploads/209.jpg"
 ---

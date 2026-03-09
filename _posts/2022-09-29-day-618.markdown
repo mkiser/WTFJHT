@@ -9,6 +9,8 @@ tags:
 - economy
 - jan-6
 - covid
+- congress
+- supreme-court
 description: '"A work in progress."'
 image: "/uploads/day-618-biden.jpg"
 todayInOneSentence: 'The Education Department scaled back eligibility for its student

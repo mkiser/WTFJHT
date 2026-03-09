@@ -9,6 +9,8 @@ tags:
 - national-security
 - israel-palestine
 - trade
+- voting-rights
+- supreme-court
 description: '"A game changer."'
 image: "/uploads/day-1407-biden-trump.jpg"
 todayInOneSentence: 'Trump threatened to impose 25% tariffs on all goods from Mexico

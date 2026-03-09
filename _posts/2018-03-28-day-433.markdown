@@ -9,6 +9,8 @@ tags:
 - census
 - climate
 - congress
+- indictment
+- trade
 description: Pertinent to the investigation.
 image: "/uploads/433.jpg"
 ---

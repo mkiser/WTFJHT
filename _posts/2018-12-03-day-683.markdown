@@ -8,6 +8,9 @@ tags:
 - corruption
 - congress
 - trade
+- russia
+- national-security
+- indictment
 description: Compromised.
 image: "/uploads/683.jpg"
 todayInOneSentence: Trump called for a "full and complete" sentence for Michael Cohen

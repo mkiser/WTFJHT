@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - congress
 - immigration
+- taxes
+- mueller-investigation
 description: An emblem of hate.
 image: "/uploads/922.jpg"
 todayInOneSentence: Mitch McConnell defended his decision to block an election security

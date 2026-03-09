@@ -9,6 +9,8 @@ tags:
 - subpoena
 - congress
 - voting-rights
+- oversight
+- census
 description: '"An emergency."'
 image: "/uploads/day-547-biden.jpg"
 todayInOneSentence: A bipartisan group of senators reached a deal to reform the 135-year-old

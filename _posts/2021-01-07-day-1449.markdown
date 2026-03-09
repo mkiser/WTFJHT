@@ -9,6 +9,8 @@ tags:
 - pardon
 - covid
 - voting-rights
+- national-security
+- tech-policy
 description: '"A horror show for America."'
 image: "/uploads/1449.jpg"
 tag_excerpts:

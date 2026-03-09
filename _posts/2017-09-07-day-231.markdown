@@ -9,6 +9,8 @@ tags:
 - education
 - immigration
 - congress
+- economy
+- protests
 description: Nothing to worry about.
 image: "/uploads/231.jpg"
 ---

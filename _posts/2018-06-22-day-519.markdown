@@ -9,6 +9,8 @@ tags:
 - media
 - mueller-investigation
 - national-security
+- congress
+- trade
 description: 'Phony stories. '
 image: "/uploads/519.jpg"
 todayInOneSentence: Trump told Republicans to "stop wasting their time on Immigration"

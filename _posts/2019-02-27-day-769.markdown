@@ -9,6 +9,8 @@ tags:
 - oversight
 - media
 - taxes
+- national-security
+- cabinet
 description: Spin this.
 image: "/uploads/769.jpg"
 todayInOneSentence: 'During public testimony before the House Oversight Committee,

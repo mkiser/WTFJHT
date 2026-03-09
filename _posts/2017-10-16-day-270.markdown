@@ -9,6 +9,8 @@ tags:
 - congress
 - healthcare
 - russia
+- education
+- taxes
 description: Season of war.
 image: "/uploads/270.jpg"
 ---

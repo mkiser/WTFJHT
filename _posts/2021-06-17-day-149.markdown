@@ -9,6 +9,8 @@ tags:
 - covid
 - congress
 - education
+- supreme-court
+- taxes
 description: '"This is a big fucking deal."'
 image: "/uploads/day-149-biden.jpg"
 todayInOneSentence: The Supreme Court upheld the Affordable Care Act for the third

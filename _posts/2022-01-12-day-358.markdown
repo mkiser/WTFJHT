@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - media
+- subpoena
+- voting-rights
 description: '"It''s hard to process what''s actually happening right now."'
 image: "/uploads/day-358-biden.jpg"
 todayInOneSentence: The White House will provide 10 million free coronavirus tests

@@ -9,6 +9,8 @@ tags:
 - economy
 - oversight
 - media
+- housing
+- impeachment
 description: '"Irrelevant matters."'
 image: "/uploads/day1086bidentrump.jpg"
 todayInOneSentence: 'House Republicans revolted against a bipartisan spending deal,

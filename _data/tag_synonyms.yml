@@ -4,7 +4,7 @@
 # Maps canonical tags to terms/concepts that should trigger that tag when tagging posts.
 # Used by Claude and editors to ensure consistent, comprehensive tagging.
 #
-# Last updated: 2026-02-03
+# Last updated: 2026-03-09
 # See docs/tag-taxonomy-audit.md for audit methodology
 #
 # Usage: When tagging a post, if content contains any synonym term,
@@ -1026,14 +1026,12 @@ debt-ceiling:
 mueller-investigation:
   - Mueller
   - Robert Mueller
-  - special counsel
+  - Mueller report
   - Russia investigation
   - Russia probe
   - Russian interference
   - Russian collusion
   - collusion
-  - obstruction of justice
-  - obstruction
   - Flynn
   - Michael Flynn
   - Manafort
@@ -1048,11 +1046,6 @@ mueller-investigation:
   - Comey firing
   - Rosenstein
   - Rod Rosenstein
-  - Barr
-  - William Barr
-  - Mueller report
-  - redacted
-  - unredacted
 
 impeachment:
   - impeach
@@ -1112,23 +1105,42 @@ classified-documents:
   - classified documents
   - classified materials
   - classified records
-  - Mar-a-Lago
   - Mar-a-Lago raid
   - Mar-a-Lago search
-  - boxes
   - document retention
   - Presidential Records Act
   - NARA
   - National Archives
-  - Jack Smith
-  - special counsel
-  - obstruction
-  - espionage
   - Espionage Act
-  - top secret
   - SCI
   - secure facility
   - SCIF
+
+trump-trials:
+  - Jack Smith
+  - hush money
+  - Stormy Daniels
+  - Manhattan DA
+  - Alvin Bragg
+  - Fani Willis
+  - Fulton County
+  - Georgia indictment
+  - Georgia case
+  - Mar-a-Lago documents
+  - classified documents case
+  - federal indictment
+  - Trump indictment
+  - Trump trial
+  - Trump arraignment
+  - Trump convicted
+  - Trump verdict
+  - gag order
+  - Aileen Cannon
+  - Juan Merchan
+  - Tanya Chutkan
+  - election interference case
+  - January 6 indictment
+  - superseding indictment
 
 # =============================================================================
 # REGIONS
@@ -1385,6 +1397,19 @@ disinformation:
   - baseless claim
   - unsubstantiated
   - spreads false
+
+doge:
+  - DOGE
+  - Department of Government Efficiency
+  - Elon Musk
+  - Vivek Ramaswamy
+  - government efficiency
+  - federal workforce
+  - mass firings
+  - agency cuts
+  - government waste
+  - federal employees
+  - federal workers
 
 census:
   - Census

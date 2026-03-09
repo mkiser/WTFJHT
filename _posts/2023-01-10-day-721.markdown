@@ -9,6 +9,8 @@ tags:
 - education
 - climate
 - classified-documents
+- national-security
+- economy
 description: '"Damage assessment."'
 image: "/uploads/day-721-biden.jpg"
 todayInOneSentence: House Republicans pushed through a rules package for the new Congress

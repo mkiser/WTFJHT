@@ -9,6 +9,8 @@ tags:
 - indictment
 - disinformation
 - national-security
+- voting-rights
+- nomination
 description: '"The appearance of fairness and integrity."'
 image: "/uploads/day-595-biden.jpg"
 todayInOneSentence: The FBI found 48 empty folders that contained classified information  at

@@ -9,6 +9,8 @@ tags:
 - indictment
 - climate
 - supreme-court
+- national-security
+- judiciary
 description: '"The ideal must bend to the practical."'
 image: "/uploads/day-1164-biden.jpg"
 todayInOneSentence: 'The International Court of Justice ordered Israel to “take all

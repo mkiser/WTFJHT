@@ -9,6 +9,8 @@ tags:
 - education
 - national-security
 - congress
+- judiciary
+- protests
 description: They're on our side.
 image: "/uploads/403.jpg"
 ---

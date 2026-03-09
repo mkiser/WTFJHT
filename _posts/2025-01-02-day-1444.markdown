@@ -9,6 +9,8 @@ tags:
 - congress
 - supreme-court
 - tech-policy
+- judiciary
+- oversight
 description: '"Violence, intimidation and defiance undermine our Republic."'
 image: "/uploads/day-1444-biden-harris-trump.jpg"
 todayInOneSentence: Trump blamed "criminal" immigrants for the New Year’s Day attack

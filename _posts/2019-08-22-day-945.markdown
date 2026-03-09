@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - national-security
+- immigration
+- taxes
 description: '"Frankly ridiculous."'
 image: "/uploads/945.jpg"
 todayInOneSentence: The economy added 501,000 fewer jobs since 2018 than previously

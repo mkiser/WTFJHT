@@ -9,6 +9,8 @@ tags:
 - congress
 - jan-6
 - resignation
+- labor
+- voting-rights
 description: '"Incitement of insurrection."'
 image: "/uploads/1450.jpg"
 todayInOneSentence: House Democrats plan to introduce articles of impeachment against

@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - labor
 - supreme-court
+- judiciary
+- indictment
 description: '"It’s going to be bumpy."'
 image: "/uploads/day-749-biden-sotu.jpg"
 todayInOneSentence: A federal judge suggested that the federal right to abortion might

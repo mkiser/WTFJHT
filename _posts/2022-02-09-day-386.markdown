@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - voting-rights
+- economy
+- national-security
 description: '"A new phase."'
 image: "/uploads/day-386-biden.jpg"
 todayInOneSentence: New York, Massachusetts, and Illinois will ease mask requirements

@@ -9,6 +9,8 @@ tags:
 - china
 - media
 - tech-policy
+- economy
+- education
 description: Fuck this shit.
 image: "/uploads/1226.jpg"
 todayInOneSentence: Trump threatened military violence against U.S. citizens in Minneapolis

@@ -9,6 +9,8 @@ tags:
 - corruption
 - classified-documents
 - covid
+- voting-rights
+- indictment
 description: '"A brazen scheme of staggering proportions."'
 image: "/uploads/day-609-biden.jpg"
 todayInOneSentence: A Texas sheriff opened a criminal investigation into Florida Gov.

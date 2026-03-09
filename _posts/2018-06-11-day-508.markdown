@@ -9,6 +9,8 @@ tags:
 - immigration
 - foreign-policy
 - media
+- voting-rights
+- tech-policy
 description: Sobering and a bit depressing.
 image: "/uploads/508.jpg"
 todayInOneSentence: Trump refused to endorse the G7 statement, threatened to impose

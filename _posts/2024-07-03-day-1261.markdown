@@ -9,6 +9,7 @@ tags:
 - voting-rights
 - supreme-court
 - polling
+- congress
 description: '"He sees the moment."'
 image: "/uploads/day-1261-biden.jpg"
 todayInOneSentence: Biden privately acknowledged that he’s keeping an "open mind"

@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - disinformation
+- cabinet
+- housing
 description: '"Democracy is sometimes messy."'
 image: "/uploads/1386.jpg"
 todayInOneSentence: There was no conclusion to the U.S. presidential election (so

@@ -9,6 +9,8 @@ tags:
 - economy
 - national-security
 - media
+- indictment
+- resignation
 description: 'Never get out. '
 image: "/uploads/378.jpg"
 ---

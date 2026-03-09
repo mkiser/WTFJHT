@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - nomination
 - congress
+- national-security
+- labor
 description: Regime survival.
 image: "/uploads/740.jpg"
 todayInOneSentence: Trump dismissed climate change as a hoax; U.S. intelligence chiefs

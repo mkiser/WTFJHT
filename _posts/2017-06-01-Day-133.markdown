@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - congress
 - media
+- national-security
+- russia
 layout: post
 description: It's heating up.
 image:

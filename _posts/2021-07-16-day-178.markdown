@@ -9,6 +9,8 @@ tags:
 - indictment
 - congress
 - taxes
+- foreign-policy
+- judiciary
 description: '"I''ve got it covered."'
 image: "/uploads/day-178-071621.jpg"
 todayInOneSentence: Arizona has identified fewer than 200 cases of potential voter

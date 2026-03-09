@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - resignation
+- indictment
+- russia
 description: 'Back to work. '
 image: "/uploads/343.jpg"
 ---

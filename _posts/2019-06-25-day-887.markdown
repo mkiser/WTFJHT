@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - media
+- national-security
+- foreign-policy
 description: Overwhelming force.
 image: "/uploads/887.jpg"
 todayInOneSentence: Trump – again – denied the rape allegations against him, claiming

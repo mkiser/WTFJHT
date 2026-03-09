@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - climate
 - voting-rights
+- russia
+- lgbtq-rights
 layout: post
 description: Strategic patience.
 image:

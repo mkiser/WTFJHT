@@ -9,6 +9,8 @@ tags:
 - corruption
 - foreign-policy
 - mueller-investigation
+- congress
+- education
 layout: post
 description: Show them a body.
 image:

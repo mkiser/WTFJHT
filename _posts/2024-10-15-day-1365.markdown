@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - voting-rights
 - media
+- lgbtq-rights
+- economy
 description: '"Let''s just listen to music."'
 image: "/uploads/day-1365-biden-harris.jpg"
 todayInOneSentence: 'The Biden administration threatened to suspend military assistance

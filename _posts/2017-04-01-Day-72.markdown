@@ -9,6 +9,8 @@ tags:
 - cabinet
 - mueller-investigation
 - congress
+- russia
+- media
 layout: post
 description: Disclosures.
 image:

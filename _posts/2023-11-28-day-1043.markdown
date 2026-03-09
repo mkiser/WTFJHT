@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - jan-6
 - indictment
+- voting-rights
+- criminal-justice
 description: '"The situation remains catastrophic."'
 image: "/uploads/day-1043-biden.jpg"
 todayInOneSentence: 'The truce between Israel and Hamas entered its fifth day after

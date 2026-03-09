@@ -9,6 +9,8 @@ tags:
 - oversight
 - congress
 - voting-rights
+- national-security
+- media
 description: Extremely opposed.
 image: "/uploads/462.jpg"
 ---

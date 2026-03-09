@@ -9,6 +9,8 @@ tags:
 - sanctions
 - russia
 - labor
+- supreme-court
+- congress
 description: Bye-bye.
 image: "/uploads/720.jpg"
 todayInOneSentence: Trump stormed out of a meeting with congressional leaders; the

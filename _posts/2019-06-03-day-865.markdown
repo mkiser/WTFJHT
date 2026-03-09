@@ -9,6 +9,8 @@ tags:
 - national-security
 - trade
 - disinformation
+- infrastructure
+- indictment
 description: Presidential obstruction and other crimes.
 image: "/uploads/865.jpg"
 todayInOneSentence: Trump tweeted that the mayor of London was a "stone cold loser";

@@ -9,6 +9,8 @@ tags:
 - oversight
 - mueller-investigation
 - national-security
+- congress
+- supreme-court
 description: '"Accountability."'
 image: "/uploads/day-146-biden-trump-doj.jpg"
 todayInOneSentence: Biden reaffirmed NATO’s Article 5 – a central tenet of collective

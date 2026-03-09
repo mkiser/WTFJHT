@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - national-security
+- tech-policy
+- voting-rights
 description: Unprecedented and coordinated.
 image: "/uploads/475.jpg"
 ---

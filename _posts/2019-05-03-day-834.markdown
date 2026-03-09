@@ -9,6 +9,8 @@ tags:
 - energy
 - taxes
 - congress
+- economy
+- voting-rights
 description: Sweeping and systematic.
 image: "/uploads/834.jpg"
 todayInOneSentence: Trump discussed the "Russian Hoax" with Putin; House Judiciary

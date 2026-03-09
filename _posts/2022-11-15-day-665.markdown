@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - ukraine
+- media
+- voting-rights
 description: '"Managing risk."'
 image: "/uploads/day-665-biden.jpg"
 todayInOneSentence: 'Kevin McCarthy won the Republican nomination for speaker; the

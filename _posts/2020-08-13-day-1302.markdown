@@ -9,6 +9,8 @@ tags:
 - labor
 - economy
 - media
+- congress
+- education
 description: '"A major milestone."'
 image: "/uploads/1302.jpg"
 todayInOneSentence: Trump vowed to block funding for the U.S. Postal Service so Democrats

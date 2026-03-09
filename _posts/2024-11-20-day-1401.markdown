@@ -9,6 +9,8 @@ tags:
 - covid
 - voting-rights
 - nomination
+- national-security
+- doge
 description: '"Weapons of obedience."'
 image: "/uploads/day-1401-biden-harris-trump.jpg"
 todayInOneSentence: 'Trump nominated Linda McMahon, the co-founder of World Wrestling

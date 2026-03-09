@@ -9,6 +9,8 @@ tags:
 - protests
 - supreme-court
 - congress
+- judiciary
+- presidential-election
 description: '"Turn the page."'
 image: "/uploads/day-1379-biden-harris.jpg"
 todayInOneSentence: Kamala Harris will challenge Americans to “turn the page” on Trump

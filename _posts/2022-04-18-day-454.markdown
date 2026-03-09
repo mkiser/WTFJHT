@@ -9,6 +9,8 @@ tags:
 - ukraine
 - national-security
 - energy
+- education
+- infrastructure
 description: '"We must prepare for that​."'
 image: "/uploads/day-454-biden.jpg"
 todayInOneSentence: 'A federal judge in Florida struck down the Biden administration’s

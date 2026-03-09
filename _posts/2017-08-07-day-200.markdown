@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - nomination
+- supreme-court
+- oversight
 description: A case of the Mondays.
 image: "/uploads/200.jpg"
 ---

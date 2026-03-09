@@ -9,6 +9,8 @@ tags:
 - energy
 - indictment
 - national-security
+- congress
+- trump-trials
 description: '"None of this is inevitable."'
 image: "/uploads/day1030biden.jpg"
 todayInOneSentence: 'Israel Defense Forces raided and seized the largest hospital

@@ -9,6 +9,8 @@ tags:
 - taxes
 - oversight
 - education
+- supreme-court
+- subpoena
 description: Locked and loaded.
 image: "/uploads/970.jpg"
 todayInOneSentence: The Manhattan District Attorney subpoenaed eight years of Trump's

@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - voting-rights
 - covid
+- climate
+- lawsuit
 description: '"By whatever means necessary."'
 image: "/uploads/day-622-biden.jpg"
 todayInOneSentence: 'The National Archives told the House Oversight Committee that

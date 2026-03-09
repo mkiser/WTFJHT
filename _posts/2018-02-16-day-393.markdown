@@ -9,6 +9,8 @@ tags:
 - indictment
 - national-security
 - tech-policy
+- congress
+- criminal-justice
 description: 'Information warfare. '
 image: "/uploads/393.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - corruption
 - congress
 - russia
+- voting-rights
+- housing
 description: Under open assault.
 image: "/uploads/459.jpg"
 ---

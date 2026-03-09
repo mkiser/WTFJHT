@@ -9,6 +9,8 @@ tags:
 - disinformation
 - congress
 - national-security
+- foreign-policy
+- supreme-court
 description: Very sick or very dumb.
 image: "/uploads/463.jpg"
 ---

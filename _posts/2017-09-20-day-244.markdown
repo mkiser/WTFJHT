@@ -9,6 +9,8 @@ tags:
 - healthcare
 - congress
 - voting-rights
+- gun-policy
+- protests
 description: Nothing there.
 image: "/uploads/244.jpg"
 author: Clayton Aldern

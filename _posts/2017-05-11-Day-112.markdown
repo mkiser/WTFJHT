@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - national-security
 - mueller-investigation
+- media
+- congress
 layout: post
 description: Contradicting the White House.
 image:

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - healthcare
 - immigration
+- protests
+- taxes
 description: '"Petty tyrant."'
 image: "/uploads/day-1380-biden-harris.jpg"
 tag_excerpts:

@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - china
+- immigration
+- indictment
 description: Lordy, I hope there are tapes.
 image: "/uploads/547.jpg"
 todayInOneSentence: Michael Cohen recorded a conversation with Trump discussing payments

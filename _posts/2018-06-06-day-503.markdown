@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - national-security
 - russia
+- congress
+- trade
 description: Obsessed.
 image: "/uploads/503.jpg"
 tag_excerpts:

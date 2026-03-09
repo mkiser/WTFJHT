@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - economy
 - congress
+- trade
+- labor
 description: 'Clueless. '
 image: "/uploads/937.jpg"
 todayInOneSentence: The Trump administration formally proposed regulation allowing

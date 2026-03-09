@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - national-security
 - congress
+- economy
+- indictment
 description: 'An incredible offer. '
 image: "/uploads/546.jpg"
 todayInOneSentence: Two weeks before his inauguration, Trump was briefed that Putin

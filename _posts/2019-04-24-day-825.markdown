@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - taxes
+- tech-policy
+- subpoena
 description: Transparency.
 image: "/uploads/825.jpg"
 todayInOneSentence: Trump vowed to "fight all the subpoenas" by House Democrats and

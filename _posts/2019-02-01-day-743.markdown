@@ -9,6 +9,8 @@ tags:
 - immigration
 - national-security
 - congress
+- media
+- economy
 description: The greatest loser.
 image: "/uploads/743.jpg"
 todayInOneSentence: Trump called negotiating with Congress over his border wall "a

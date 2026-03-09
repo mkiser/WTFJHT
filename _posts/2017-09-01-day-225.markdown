@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - tech-policy
+- media
+- taxes
 description: A rigged system.
 image: "/uploads/225.jpg"
 ---

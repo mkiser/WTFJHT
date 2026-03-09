@@ -9,6 +9,8 @@ tags:
 - congress
 - indictment
 - voting-rights
+- trump-trials
+- national-security
 description: '"Regrettable."'
 image: "/uploads/day-1206-biden.jpg"
 todayInOneSentence: 'Biden – acknowledging that U.S. weapons have been used to kill

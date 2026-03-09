@@ -9,6 +9,8 @@ tags:
 - healthcare
 - economy
 - oversight
+- lawsuit
+- congress
 description: '"A smooth transition."'
 image: "/uploads/1391.jpg"
 todayInOneSentence: Attorney General William Barr authorized federal prosecutors to

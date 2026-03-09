@@ -9,6 +9,8 @@ tags:
 - labor
 - economy
 - voting-rights
+- tech-policy
+- polling
 description: '"A significant escalation."'
 image: "/uploads/day-1351-biden-harris.jpg"
 todayInOneSentence: Iran fired nearly 200 ballistic missiles at Israel after Israel

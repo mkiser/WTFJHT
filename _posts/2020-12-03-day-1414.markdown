@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - voting-rights
 - media
+- cabinet
+- nomination
 description: '"A tremendous achievement."'
 image: "/uploads/1414.jpg"
 todayInOneSentence: The U.S. recorded over 3,100 COVID-19 deaths in a single day;

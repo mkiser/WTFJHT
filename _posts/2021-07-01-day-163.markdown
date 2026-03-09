@@ -9,6 +9,8 @@ tags:
 - corruption
 - economy
 - jan-6
+- supreme-court
+- congress
 description: '"Sweeping and audacious."'
 image: "/uploads/day-163-biden-cheney.jpg"
 todayInOneSentence: The Supreme Court upheld a pair restrictive election laws in Arizona;

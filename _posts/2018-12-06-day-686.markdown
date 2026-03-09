@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - economy
 - trade
+- energy
+- china
 description: 'Strong signals. '
 image: "/uploads/686.jpg"
 todayInOneSentence: Congress passed a two-week spending bill to extend the government's

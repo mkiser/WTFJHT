@@ -9,6 +9,8 @@ tags:
 - covid
 - immigration
 - indictment
+- national-security
+- judiciary
 description: '"Brain fog."'
 image: "/uploads/day-576-biden.jpg"
 todayInOneSentence: A federal judge ordered the Justice Department to redact the probable

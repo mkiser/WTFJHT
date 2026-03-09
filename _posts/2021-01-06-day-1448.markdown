@@ -9,6 +9,8 @@ tags:
 - protests
 - covid
 - voting-rights
+- nomination
+- presidential-election
 description: '"Death spiral."'
 image: "/uploads/1448.jpg"
 todayInOneSentence: Pence rejected Trump's demand to block certification of Biden's

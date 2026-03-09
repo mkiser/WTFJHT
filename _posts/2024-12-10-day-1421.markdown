@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - healthcare
 - media
+- national-security
+- congress
 description: '"For the health of our Republic."'
 image: "/uploads/day-1421-biden-ahrris.jpg"
 todayInOneSentence: Trump’s first term Justice Department secretly obtained phone

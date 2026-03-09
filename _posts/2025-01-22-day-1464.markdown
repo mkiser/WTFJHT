@@ -9,6 +9,8 @@ tags:
 - jan-6
 - national-security
 - healthcare
+- congress
+- lgbtq-rights
 description: '"To speak a truth."'
 image: "/uploads/day-1464-trump.jpg"
 todayInOneSentence: The Trump administration ordered all federal diversity, equity,

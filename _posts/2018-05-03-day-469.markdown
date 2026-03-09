@@ -9,6 +9,8 @@ tags:
 - corruption
 - ethics
 - media
+- national-security
+- congress
 description: 'Suckers. '
 image: "/uploads/469.jpg"
 ---

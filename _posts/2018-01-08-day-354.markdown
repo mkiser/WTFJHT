@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - russia
+- immigration
+- national-security
 description: 'Executive time. '
 image: "/uploads/354.jpg"
 ---

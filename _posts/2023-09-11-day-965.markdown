@@ -9,6 +9,8 @@ tags:
 - ethics
 - indictment
 - lawsuit
+- healthcare
+- judiciary
 description: '"Personal grievances."'
 image: "/uploads/day-965-biden.jpg"
 todayInOneSentence: 'The FDA approved updated Covid-19 vaccines targeting the omicron

@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - cabinet
+- voting-rights
+- labor
 description: No deal.
 image: "/uploads/1176.jpg"
 todayInOneSentence: Another 6.6 million Americans filed first-time unemployment claims

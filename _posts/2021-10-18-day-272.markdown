@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - voting-rights
+- education
+- supreme-court
 description: '"Untethered."'
 image: "/uploads/day-272-biden.jpg"
 todayInOneSentence: Trump sued the Jan. 6 select committee and the National Archives

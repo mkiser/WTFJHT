@@ -9,6 +9,8 @@ tags:
 - ethics
 - national-security
 - trade
+- indictment
+- congress
 description: 'There is no chaos. '
 image: "/uploads/411.jpg"
 ---

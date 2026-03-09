@@ -9,6 +9,8 @@ tags:
 - oversight
 - immigration
 - national-security
+- indictment
+- congress
 description: '"Changes the paradigm."'
 image: "/uploads/day-52-biden.jpg"
 todayInOneSentence: Biden directed states to make all adults eligible for coronavirus

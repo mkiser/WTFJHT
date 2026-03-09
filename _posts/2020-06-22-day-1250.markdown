@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - protests
 - lawsuit
+- immigration
+- economy
 description: '"Underwhelming."'
 image: "/uploads/1250.jpg"
 todayInOneSentence: Trump claimed that he told "his people" to "slow the testing down"

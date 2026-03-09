@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - nomination
+- oversight
+- economy
 description: Personal conversations.
 image: "/uploads/830.jpg"
 todayInOneSentence: Rod Rosenstein resigned; Jerry Nadler threatened to subpoena Attorney

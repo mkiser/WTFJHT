@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - national-security
+- supreme-court
+- oversight
 description: Invalidated.
 image: "/uploads/796.jpg"
 todayInOneSentence: The Trump administration supports a court ruling that the entire

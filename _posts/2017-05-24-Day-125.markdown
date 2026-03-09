@@ -9,6 +9,8 @@ tags:
 - healthcare
 - ethics
 - congress
+- media
+- foreign-policy
 layout: post
 description: A madman with nukes.
 image:

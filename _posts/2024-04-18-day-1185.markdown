@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - israel-palestine
 - congress
+- immigration
+- voting-rights
 description: '"Annoyance."'
 image: "/uploads/day-1185-biden.jpg"
 todayInOneSentence: 'On the third day of Trump’s election interference case involving

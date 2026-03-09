@@ -9,6 +9,8 @@ tags:
 - national-security
 - tech-policy
 - russia
+- taxes
+- voting-rights
 description: '"Get this done."'
 image: "/uploads/day-279-biden.jpg"
 todayInOneSentence: Biden and Democratic congressional leaders are pushing for a vote

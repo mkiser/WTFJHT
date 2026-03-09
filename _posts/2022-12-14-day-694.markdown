@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - supreme-court
 - indictment
+- congress
+- lgbtq-rights
 description: '"That time is now."'
 image: "/uploads/day-694biden.jpg"
 todayInOneSentence: 'The House is expected to pass a temporary spending measure tonight

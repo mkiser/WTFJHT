@@ -9,6 +9,8 @@ tags:
 - tech-policy
 - media
 - immigration
+- foreign-policy
+- national-security
 description: Entirely prudent.
 image: "/uploads/1047.jpg"
 todayInOneSentence: The White House will not participate in the Judiciary Committee's

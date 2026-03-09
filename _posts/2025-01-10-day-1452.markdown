@@ -9,6 +9,8 @@ tags:
 - immigration
 - climate
 - polling
+- economy
+- covid
 description: '"A very terrible experience."'
 image: "/uploads/day-1452-biden-trump.jpg"
 todayInOneSentence: Trump was sentenced to no punishment for orchestrating an illegal

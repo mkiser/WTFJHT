@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - healthcare
+- economy
+- foreign-policy
 description: '"Out of whack."'
 image: "/uploads/day-80-biden.jpg"
 todayInOneSentence: Biden created a bipartisan commission to study adding seats to

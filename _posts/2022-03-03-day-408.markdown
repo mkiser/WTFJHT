@@ -9,6 +9,8 @@ tags:
 - sanctions
 - russia
 - voting-rights
+- media
+- congress
 description: '"A criminal conspiracy to defraud the United States."'
 image: "/uploads/day-408-03032022.png"
 todayInOneSentence: The Jan. 6 committee says Trump and his allies "engaged in a criminal

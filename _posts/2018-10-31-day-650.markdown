@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - immigration
+- voting-rights
+- criminal-justice
 description: Maximum harm.
 image: "/uploads/650.jpg"
 todayInOneSentence: The suspect in the shooting that left 11 people dead at a Pittsburgh

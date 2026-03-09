@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - oversight
 - education
+- foreign-policy
+- national-security
 tag_excerpts:
   impeachment: Democratic congressman Al Green called for “the impeachment of the
     President of the United States of America for obstruction of justice.”

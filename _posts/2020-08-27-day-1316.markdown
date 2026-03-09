@@ -9,6 +9,8 @@ tags:
 - media
 - labor
 - national-security
+- congress
+- economy
 description: '"This is his America."'
 image: "/uploads/1316.jpg"
 todayInOneSentence: 'Another 1 million Americans applied for unemployment benefits

@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - russia
+- immigration
+- voting-rights
 description: 'Alert the daycare staff. '
 image: "/uploads/278.jpg"
 ---

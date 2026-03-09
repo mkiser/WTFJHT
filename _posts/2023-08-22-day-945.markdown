@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - judiciary
 - voting-rights
+- education
+- criminal-justice
 description: '"A tremendous courtesy."'
 image: "/uploads/day-945-biden.jpg"
 todayInOneSentence: The Trump lawyer who led efforts to overturn the 2020 election

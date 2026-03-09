@@ -9,6 +9,8 @@ tags:
 - education
 - economy
 - covid
+- supreme-court
+- voting-rights
 description: '"Sufficient basis."'
 image: "/uploads/day-590-biden.jpg"
 todayInOneSentence: The wife of Supreme Court Justice Clarence Thomas pressed lawmakers

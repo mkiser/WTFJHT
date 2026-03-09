@@ -9,6 +9,8 @@ tags:
 - trade
 - congress
 - voting-rights
+- national-security
+- mueller-investigation
 description: A flawed legal premise.
 image: "/uploads/356.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - oversight
 - corruption
 - mueller-investigation
+- congress
+- media
 layout: post
 description: Win, win, win.
 image:

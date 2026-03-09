@@ -9,6 +9,8 @@ tags:
 - disinformation
 - immigration
 - congress
+- taxes
+- national-security
 description: Hateful and inflammatory.
 image: "/uploads/816.jpg"
 todayInOneSentence: A redacted version of Mueller's report will be released to both

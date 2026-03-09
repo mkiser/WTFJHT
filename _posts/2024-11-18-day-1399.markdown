@@ -9,6 +9,8 @@ tags:
 - nomination
 - congress
 - voting-rights
+- national-security
+- taxes
 description: '"A terrible precedent."'
 image: "/uploads/day-1399-biden-harris-trump.jpg"
 todayInOneSentence: 'Trump confirmed that he plans to declare a national emergency

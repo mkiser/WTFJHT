@@ -9,6 +9,8 @@ tags:
 - congress
 - foreign-policy
 - mueller-investigation
+- taxes
+- national-security
 description: Appalling.
 image: "/uploads/622.jpg"
 todayInOneSentence: 'The FBI hasn''t interviewed Brett Kavanaugh or Christine Blasey

@@ -9,6 +9,8 @@ tags:
 - healthcare
 - mueller-investigation
 - tech-policy
+- voting-rights
+- congress
 description: Collateral damage.
 image: "/uploads/903.jpg"
 todayInOneSentence: The Trump administration is scheduled to begin coordinated raids

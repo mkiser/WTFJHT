@@ -9,6 +9,8 @@ tags:
 - trade
 - immigration
 - national-security
+- congress
+- economy
 description: Rules and norms.
 image: "/uploads/844.jpg"
 todayInOneSentence: The White House asked Don McGahn to say Trump never obstructed

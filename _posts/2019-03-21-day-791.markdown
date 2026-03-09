@@ -9,6 +9,8 @@ tags:
 - oversight
 - congress
 - protests
+- national-security
+- indictment
 description: Alternative means.
 image: "/uploads/791.jpg"
 todayInOneSentence: Kushner and Ivanka Trump used WhatsApp and personal email accounts

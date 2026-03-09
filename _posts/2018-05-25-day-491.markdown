@@ -9,6 +9,8 @@ tags:
 - immigration
 - media
 - congress
+- nomination
+- foreign-policy
 description: A colossal waste.
 image: "/uploads/491.jpg"
 author: Joe Amditis

@@ -9,6 +9,8 @@ tags:
 - economy
 - oversight
 - national-security
+- judiciary
+- immigration
 description: '"Not an acceptable answer."'
 image: "/uploads/1211.jpg"
 todayInOneSentence: Another 2.98 million people filed unemployment claims last week,

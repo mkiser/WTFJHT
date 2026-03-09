@@ -9,6 +9,8 @@ tags:
 - national-security
 - ethics
 - congress
+- oversight
+- healthcare
 layout: post
 description: Witch hunt.
 image:

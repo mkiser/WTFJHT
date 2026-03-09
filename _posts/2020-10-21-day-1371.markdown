@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - immigration
+- voting-rights
+- healthcare
 description: '"A distressing trend."'
 image: "/uploads/1371.jpg"
 todayInOneSentence: The CDC said it's seeing a "distressing trend" in the United States’

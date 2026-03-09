@@ -9,6 +9,8 @@ tags:
 - healthcare
 - foreign-policy
 - congress
+- voting-rights
+- oversight
 description: An absurd red line.
 image: "/uploads/202.jpg"
 ---

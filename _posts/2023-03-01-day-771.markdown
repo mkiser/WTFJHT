@@ -9,6 +9,8 @@ tags:
 - congress
 - disinformation
 - lgbtq-rights
+- national-security
+- lawsuit
 description: '"To thwart and obfuscate."'
 image: "/uploads/day-771-biden.jpg"
 todayInOneSentence: Rupert Murdoch testified that several Fox News hosts “endorsed”

@@ -9,6 +9,8 @@ tags:
 - russia
 - healthcare
 - media
+- infrastructure
+- nomination
 layout: post
 description: Sweeping.
 image:

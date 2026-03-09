@@ -9,6 +9,8 @@ tags:
 - climate
 - foreign-policy
 - voting-rights
+- trade
+- indictment
 description: '"We''re not waiting."'
 image: "/uploads/day1143biden.jpg"
 todayInOneSentence: 'Biden will order the U.S. military to build a temporary port

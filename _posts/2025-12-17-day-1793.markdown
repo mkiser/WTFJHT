@@ -7,6 +7,8 @@ tags:
 - classified-documents
 - congress
 - media
+- national-security
+- covid
 description: '"So much thinking out loud."'
 image: "/uploads/day1793.jpg"
 todayInOneSentence: 'Four House Republicans broke with Speaker Mike Johnson and joined

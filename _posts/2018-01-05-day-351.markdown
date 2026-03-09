@@ -9,6 +9,8 @@ tags:
 - national-security
 - economy
 - oversight
+- subpoena
+- taxes
 description: Possible obstruction.
 image: "/uploads/351.jpg"
 ---

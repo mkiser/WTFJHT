@@ -7,6 +7,8 @@ tags:
 - congress
 - polling
 - supreme-court
+- indictment
+- media
 description: '"Good luck, losers."'
 image: "/uploads/day1751trump.jpg"
 todayInOneSentence: Democrats won elections across several states Tuesday, taking

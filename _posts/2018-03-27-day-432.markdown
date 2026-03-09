@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - ethics
 - tech-policy
+- national-security
+- congress
 description: 'Botched obligations. '
 image: "/uploads/432.jpg"
 ---

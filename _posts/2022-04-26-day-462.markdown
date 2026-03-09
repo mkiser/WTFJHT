@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - russia
+- media
+- healthcare
 description: '"Bluster."'
 image: "/uploads/day-462-biden.jpg"
 todayInOneSentence: Kamala Harris tested positive for Covid-19; the CDC estimates

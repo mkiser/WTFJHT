@@ -9,6 +9,8 @@ tags:
 - healthcare
 - congress
 - taxes
+- voting-rights
+- national-security
 description: Puppet.
 image: "/uploads/323.jpg"
 ---

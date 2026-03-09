@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - supreme-court
+- tech-policy
+- climate
 description: '"A disservice."'
 image: "/uploads/day-385-biden.jpg"
 todayInOneSentence: The House is scheduled to vote on a short-term funding bill to

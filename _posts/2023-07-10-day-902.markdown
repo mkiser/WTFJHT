@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - congress
 - ukraine
+- lgbtq-rights
+- education
 description: '"Bomblets."'
 image: "/uploads/day-902-biden.jpg"
 todayInOneSentence: The Biden administration will send cluster bombs to Ukraine, as

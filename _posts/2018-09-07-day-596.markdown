@@ -9,6 +9,8 @@ tags:
 - corruption
 - media
 - oversight
+- indictment
+- voting-rights
 description: 'Your fault. '
 image: "/uploads/596.jpg"
 todayInOneSentence: Trump called on Jeff Sessions and the Justice Department to investigate

@@ -9,6 +9,8 @@ tags:
 - congress
 - immigration
 - economy
+- protests
+- tech-policy
 description: Principled realism.
 image: "/uploads/215.jpg"
 ---

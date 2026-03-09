@@ -9,6 +9,8 @@ tags:
 - resignation
 - congress
 - indictment
+- taxes
+- national-security
 description: Not a good one.
 image: "/uploads/904.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - national-security
 - corruption
 - media
+- congress
+- russia
 description: '"Brink of collapse."'
 image: "/uploads/biden-786-day.jpg"
 todayInOneSentence: The Biden administration threatened to ban TikTok if the app's

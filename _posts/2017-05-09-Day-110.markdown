@@ -9,6 +9,8 @@ tags:
 - judiciary
 - congress
 - national-security
+- voting-rights
+- foreign-policy
 layout: post
 description: "<s>Finger pointing.</s> Fired."
 image:

@@ -9,6 +9,8 @@ tags:
 - congress
 - voting-rights
 - polling
+- immigration
+- media
 description: Taking names.
 image: "/uploads/335.jpg"
 ---

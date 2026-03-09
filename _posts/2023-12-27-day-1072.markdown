@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - voting-rights
 - supreme-court
+- russia
+- labor
 description: '"Dictatorship," "revenge," and "power."'
 image: "/uploads/day-1072-b.jpg"
 todayInOneSentence: The Supreme Court rejected special counsel Jack Smith's request

@@ -9,6 +9,8 @@ tags:
 - immigration
 - tech-policy
 - media
+- congress
+- voting-rights
 description: Can't speak to the future of __________.
 image: "/uploads/441.jpg"
 ---

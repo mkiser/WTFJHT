@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - economy
+- taxes
+- immigration
 description: Still at it.
 image: "/uploads/915.jpg"
 todayInOneSentence: Trump sued the House Ways and Means Committee and the New York

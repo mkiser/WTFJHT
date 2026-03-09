@@ -9,6 +9,8 @@ tags:
 - national-security
 - media
 - climate
+- voting-rights
+- energy
 description: Power of the pen.
 image: "/uploads/264.jpg"
 ---

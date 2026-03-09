@@ -9,6 +9,8 @@ tags:
 - indictment
 - national-security
 - congress
+- supreme-court
+- lawsuit
 description: '"Dignity."'
 image: "/uploads/day-596-biden.jpg"
 todayInOneSentence: Chuck Schumer promised a Senate vote on protecting same-sex marriage

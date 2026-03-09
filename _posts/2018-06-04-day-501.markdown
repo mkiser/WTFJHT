@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - oversight
 - voting-rights
+- trade
+- veterans
 description: 'Absolute right. '
 image: "/uploads/501.jpg"
 tag_excerpts:

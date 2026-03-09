@@ -7,6 +7,8 @@ tags:
 - polling
 - media
 - immigration
+- national-security
+- judiciary
 description: '"They know me now."'
 image: "/uploads/day-1560-trump.jpg"
 todayInOneSentence: 'Trump’s first 100 days delivered the worst stock market drop

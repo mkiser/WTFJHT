@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - media
 - nomination
+- subpoena
+- foreign-policy
 description: '"I am terrified."'
 image: "/uploads/616.jpg"
 todayInOneSentence: Christine Blasey Ford testified that she is "100%" certain that

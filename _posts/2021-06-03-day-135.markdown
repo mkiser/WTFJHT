@@ -9,6 +9,8 @@ tags:
 - infrastructure
 - indictment
 - media
+- taxes
+- oversight
 description: '"To no avail."'
 image: "/uploads/135-biden-trump.jpg"
 todayInOneSentence: Confirmed coronavirus cases in the U.S. have fallen to the lowest

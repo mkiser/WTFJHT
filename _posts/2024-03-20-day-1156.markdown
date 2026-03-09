@@ -9,6 +9,8 @@ tags:
 - infrastructure
 - economy
 - civil-rights
+- congress
+- education
 description: '"Historic progress."'
 image: "/uploads/day1156-biden.jpg"
 todayInOneSentence: 'A federal appeals court blocked a Texas law allowing state police

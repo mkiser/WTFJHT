@@ -9,6 +9,8 @@ tags:
 - national-security
 - mueller-investigation
 - congress
+- education
+- labor
 layout: post
 description: Shit list.
 image:

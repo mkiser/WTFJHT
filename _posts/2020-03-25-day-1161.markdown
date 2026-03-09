@@ -9,6 +9,8 @@ tags:
 - economy
 - labor
 - national-security
+- cabinet
+- jan-6
 description: '"Critical to maintaining national security."'
 image: "/uploads/1161.jpg"
 todayInOneSentence: Senators reached an agreement on a $2 trillion stimulus package

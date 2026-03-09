@@ -9,6 +9,8 @@ tags:
 - nomination
 - disinformation
 - healthcare
+- congress
+- oversight
 description: '"Grossly misrepresented."'
 image: "/uploads/1314.jpg"
 todayInOneSentence: The FDA "grossly misrepresented data" about the use of blood plasma

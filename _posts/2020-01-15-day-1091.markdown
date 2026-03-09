@@ -9,6 +9,8 @@ tags:
 - indictment
 - national-security
 - mueller-investigation
+- voting-rights
+- russia
 description: 'Con job. '
 image: "/uploads/1091.jpg"
 todayInOneSentence: The House of Representatives voted to send the Senate two articles

@@ -9,6 +9,8 @@ tags:
 - immigration
 - taxes
 - congress
+- media
+- national-security
 description: 'Pathways. '
 image: "/uploads/900.jpg"
 todayInOneSentence: New York Gov. Andrew Cuomo signed a bill allowing congressional

@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - voting-rights
+- supreme-court
+- judiciary
 description: '"Not in the best interests of the United States."'
 image: "/uploads/day-262-biden.jpg"
 todayInOneSentence: Biden rejected Trump’s request to assert executive privilege over

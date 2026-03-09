@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - national-security
+- taxes
+- cabinet
 description: A mess.
 image: "/uploads/810.jpg"
 todayInOneSentence: Trump recently put Stephen Miller "in charge" of the administration's

@@ -9,6 +9,8 @@ tags:
 - national-security
 - supreme-court
 - congress
+- media
+- foreign-policy
 description: 'But his emails. '
 image: "/uploads/414.jpg"
 ---

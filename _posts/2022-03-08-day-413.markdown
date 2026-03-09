@@ -9,6 +9,8 @@ tags:
 - tariffs
 - criminal-justice
 - lgbtq-rights
+- indictment
+- congress
 description: '"It''s going to cost us as well."'
 image: "/uploads/day-413-biden.jpg"
 todayInOneSentence: Biden banned all imports of oil and natural gas from Russia; Poland

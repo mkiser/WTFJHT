@@ -9,6 +9,8 @@ tags:
 - national-security
 - reproductive-rights
 - congress
+- indictment
+- immigration
 description: A setup and a trap.
 image: "/uploads/468.jpg"
 ---

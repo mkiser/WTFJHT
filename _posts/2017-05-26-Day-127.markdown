@@ -9,6 +9,8 @@ tags:
 - healthcare
 - trade
 - mueller-investigation
+- congress
+- russia
 layout: post
 description: Disinformation.
 image:

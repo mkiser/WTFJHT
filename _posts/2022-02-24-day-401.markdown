@@ -9,6 +9,8 @@ tags:
 - sanctions
 - civil-rights
 - lgbtq-rights
+- congress
+- education
 description: '"Consequences you have never seen in history."'
 image: "/uploads/day-401-biden.jpg"
 todayInOneSentence: 'Putin ordered a full-scale invasion of Ukraine; Biden condemned

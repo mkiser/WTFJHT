@@ -9,6 +9,8 @@ tags:
 - national-security
 - media
 - congress
+- russia
+- foreign-policy
 description: A very special bond.
 image: "/uploads/509.jpg"
 todayInOneSentence: The Justice Department argued that Trump could continue to profit

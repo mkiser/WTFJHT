@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - russia
+- national-security
+- resignation
 description: Stepping aside.
 image: "/uploads/375.jpg"
 ---

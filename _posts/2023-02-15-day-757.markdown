@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - national-security
 - debt-ceiling
+- congress
+- oversight
 description: '"No second chances."'
 image: "/uploads/day-757-biden.jpg"
 todayInOneSentence: The U.S. is track to add nearly $19 trillion in new debt over

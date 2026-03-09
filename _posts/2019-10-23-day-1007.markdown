@@ -9,6 +9,8 @@ tags:
 - national-security
 - foreign-policy
 - ukraine
+- indictment
+- economy
 description: '"This whole thing is about corruption."'
 image: "/uploads/1007.jpg"
 todayInOneSentence: Ukraine knew that Trump had frozen $391 million in security assistance

@@ -9,6 +9,8 @@ tags:
 - oversight
 - judiciary
 - congress
+- media
+- state-of-the-union
 layout: post
 description: Troubling.
 image:

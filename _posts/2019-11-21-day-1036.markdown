@@ -9,6 +9,8 @@ tags:
 - national-security
 - ukraine
 - oversight
+- indictment
+- criminal-justice
 description: 'Weaponized falsehoods. '
 image: "/uploads/1036.jpg"
 todayInOneSentence: The former White House adviser on Russia accused Republican lawmakers

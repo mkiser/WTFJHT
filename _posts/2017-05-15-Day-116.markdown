@@ -9,6 +9,8 @@ tags:
 - healthcare
 - voting-rights
 - congress
+- mueller-investigation
+- economy
 layout: post
 description: "<s>Frustrated and angry.</s> Jeopardized."
 image:

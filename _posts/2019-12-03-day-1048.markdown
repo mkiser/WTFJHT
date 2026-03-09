@@ -9,6 +9,8 @@ tags:
 - ukraine
 - oversight
 - congress
+- foreign-policy
+- indictment
 description: Clear and present danger.
 image: "/uploads/1048.jpg"
 todayInOneSentence: The House Intelligence Committee concluded that Trump tried to

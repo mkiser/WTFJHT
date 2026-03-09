@@ -7,6 +7,8 @@ tags:
 - oversight
 - disinformation
 - immigration
+- foreign-policy
+- congress
 description: '"I think the president was serious."'
 image: "/uploads/day1673trump.jpg"
 todayInOneSentence: The Justice Department opened a criminal investigation into whether

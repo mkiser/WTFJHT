@@ -9,6 +9,8 @@ tags:
 - resignation
 - tech-policy
 - congress
+- oversight
+- voting-rights
 description: Get ready.
 image: "/uploads/447.jpg"
 ---

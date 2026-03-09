@@ -9,6 +9,8 @@ tags:
 - climate
 - oversight
 - congress
+- national-security
+- education
 layout: post
 description: Contradictions.
 image:

@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - lgbtq-rights
+- supreme-court
+- indictment
 description: '"Engaged in critical work."'
 image: "/uploads/day-1254-biden.jpg"
 todayInOneSentence: 'The Supreme Court accidentally posted its draft decision to temporarily

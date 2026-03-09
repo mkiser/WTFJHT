@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - russia
 - mueller-investigation
+- voting-rights
+- israel-palestine
 layout: post
 description: "<s>Undercut.</s> Wow."
 image:

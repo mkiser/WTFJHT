@@ -9,6 +9,8 @@ tags:
 - congress
 - lgbtq-rights
 - economy
+- national-security
+- trade
 description: Weapon of choice.
 image: "/uploads/823.png"
 todayInOneSentence: Trump sued to block a subpoena seeking information about his finances;

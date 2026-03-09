@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - covid
+- cabinet
+- oversight
 description: '"Profoundly disappointed."'
 image: "/uploads/day-366-biden.jpg"
 todayInOneSentence: 'Senate Republicans blocked voting rights legislation for the

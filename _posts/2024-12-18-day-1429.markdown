@@ -9,6 +9,8 @@ tags:
 - congress
 - lgbtq-rights
 - china
+- doge
+- tech-policy
 description: '"Embarrassing, though not criminal."'
 image: "/uploads/day1429-biden-trump.jpg"
 todayInOneSentence: 'The House Ethics Committee secretly voted to release its report

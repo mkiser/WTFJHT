@@ -9,6 +9,8 @@ tags:
 - national-security
 - trade
 - oversight
+- congress
+- nomination
 description: We must act.
 image: "/uploads/1055.jpg"
 todayInOneSentence: The House Judiciary Committee introduced two articles of impeachment

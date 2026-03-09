@@ -9,6 +9,8 @@ tags:
 - trade
 - national-security
 - media
+- tech-policy
+- congress
 description: Short-term pain.
 image: "/uploads/440.jpg"
 ---

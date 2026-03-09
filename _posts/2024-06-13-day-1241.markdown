@@ -9,6 +9,8 @@ tags:
 - congress
 - voting-rights
 - indictment
+- healthcare
+- nomination
 description: '"Outrageous and unacceptable."'
 image: "/uploads/day-1241-biden.jpg"
 todayInOneSentence: The Supreme Court unanimously preserved access to the abortion

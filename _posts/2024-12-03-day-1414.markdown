@@ -9,6 +9,8 @@ tags:
 - indictment
 - economy
 - nomination
+- covid
+- national-security
 description: '"Competing constitutional interests."'
 image: "/uploads/day-1414-biden-harris-trump.jpg"
 tag_excerpts:

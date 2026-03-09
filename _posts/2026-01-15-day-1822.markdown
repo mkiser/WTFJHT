@@ -7,6 +7,8 @@ tags:
 - healthcare
 - congress
 - protests
+- media
+- economy
 description: '"Turn the temperature down."'
 image: "/uploads/day1822trump.jpg"
 podcast:

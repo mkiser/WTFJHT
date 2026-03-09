@@ -9,6 +9,8 @@ tags:
 - economy
 - jan-6
 - congress
+- nomination
+- immigration
 description: '"Self-pity mode."'
 image: "/uploads/1456.jpg"
 todayInOneSentence: Biden released a $1.9 trillion economic and health care rescue

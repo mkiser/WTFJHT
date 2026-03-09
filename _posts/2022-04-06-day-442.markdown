@@ -9,6 +9,8 @@ tags:
 - jan-6
 - supreme-court
 - immigration
+- congress
+- covid
 description: '"Outraged by the atrocities."'
 image: "/uploads/day-442-biden.jpg"
 todayInOneSentence: The U.S. imposed new sanctions on Russia’s largest financial institution,

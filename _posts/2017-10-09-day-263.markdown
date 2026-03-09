@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - russia
+- tech-policy
+- voting-rights
 description: War on coal.
 image: "/uploads/263.jpg"
 ---

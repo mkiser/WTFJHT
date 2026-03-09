@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - media
+- voting-rights
+- national-security
 description: Dictated.
 image: "/uploads/194.jpg"
 ---

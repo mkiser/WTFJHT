@@ -9,6 +9,8 @@ tags:
 - covid
 - criminal-justice
 - media
+- voting-rights
+- tech-policy
 description: American carnage.
 image: "/uploads/1228.jpg"
 todayInOneSentence: Police nationwide responded to protests against police violence

@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - congress
 - russia
+- media
+- education
 description: 'Half-baked nationalism. '
 image: "/uploads/271.jpg"
 ---

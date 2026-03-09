@@ -9,6 +9,8 @@ tags:
 - corruption
 - congress
 - labor
+- taxes
+- protests
 description: We're in Crazytown.
 image: "/uploads/593.jpg"
 todayInOneSentence: Bob Woodward's book describes Trump as an "emotionally overwrought,

@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - foreign-policy
+- healthcare
+- voting-rights
 description: Tag teamed.
 image: "/uploads/224.jpg"
 ---

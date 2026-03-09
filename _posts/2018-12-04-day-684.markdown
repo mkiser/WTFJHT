@@ -9,6 +9,8 @@ tags:
 - media
 - foreign-policy
 - national-security
+- indictment
+- economy
 description: Loose ends.
 image: "/uploads/684.jpg"
 todayInOneSentence: The National Republican Congressional Committee suffered a major

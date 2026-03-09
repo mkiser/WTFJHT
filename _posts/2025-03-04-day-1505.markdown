@@ -7,6 +7,8 @@ tags:
 - ukraine
 - trade
 - education
+- doge
+- covid
 description: '"Very dumb."'
 image: "/uploads/day1505-trump.jpg"
 todayInOneSentence: 'Trump launched a trade war by imposing a 25% tariff on nearly

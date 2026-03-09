@@ -9,6 +9,8 @@ tags:
 - national-security
 - supreme-court
 - congress
+- cabinet
+- media
 layout: post
 description: Tomahawked.
 image:

@@ -9,6 +9,8 @@ tags:
 - sanctions
 - trade
 - israel-palestine
+- russia
+- voting-rights
 description: Malicious.
 image: "/uploads/420.jpg"
 ---

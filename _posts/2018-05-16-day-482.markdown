@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - media
+- oversight
+- tech-policy
 description: Russian assistance.
 image: "/uploads/482.jpg"
 ---

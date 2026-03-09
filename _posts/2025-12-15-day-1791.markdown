@@ -7,6 +7,8 @@ tags:
 - energy
 - economy
 - tech-policy
+- congress
+- foreign-policy
 description: '"A mind crippling disease."'
 image: "/uploads/day1791-trump.jpg"
 todayInOneSentence: 'Trump blamed the stabbing deaths of filmmaker Rob Reiner and

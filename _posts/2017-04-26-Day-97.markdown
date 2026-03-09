@@ -9,6 +9,8 @@ tags:
 - immigration
 - energy
 - congress
+- economy
+- trade
 layout: post
 description: Ridiculous.
 image:

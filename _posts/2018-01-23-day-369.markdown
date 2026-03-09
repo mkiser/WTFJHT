@@ -9,6 +9,8 @@ tags:
 - congress
 - tech-policy
 - media
+- national-security
+- infrastructure
 description: Under pressure.
 image: "/uploads/369.jpg"
 ---

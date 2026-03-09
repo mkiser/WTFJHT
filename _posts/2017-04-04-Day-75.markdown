@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - national-security
+- labor
+- tech-policy
 layout: post
 description: Undermine.
 image:

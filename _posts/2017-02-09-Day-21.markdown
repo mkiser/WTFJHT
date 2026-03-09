@@ -9,6 +9,8 @@ tags:
 - ethics
 - healthcare
 - tech-policy
+- gun-policy
+- national-security
 layout: post
 description: "<s>Ethics.</s> Blocked."
 image:

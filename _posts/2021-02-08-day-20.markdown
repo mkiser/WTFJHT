@@ -9,6 +9,8 @@ tags:
 - covid
 - economy
 - congress
+- indictment
+- taxes
 tag_excerpts:
   pardon: Paul Manafort can’t be prosecuted in New York after Trump’s pardon.
   impeachment: Trump’s attorneys argued that the insurrection at the Capitol was perpetrated

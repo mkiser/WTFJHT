@@ -9,6 +9,8 @@ tags:
 - media
 - congress
 - climate
+- economy
+- voting-rights
 description: Acid-wash.
 image: "/uploads/504.jpg"
 todayInOneSentence: Giuliani says he doesn't "respect" Stormy Daniels because she's

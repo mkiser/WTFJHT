@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - polling
+- civil-rights
+- economy
 description: '"Now that everything is under perfect control."'
 image: "/uploads/1236.jpg"
 todayInOneSentence: Trump ordered National Guard troops to begin withdrawing from

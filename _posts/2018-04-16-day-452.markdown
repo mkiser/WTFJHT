@@ -9,6 +9,8 @@ tags:
 - media
 - oversight
 - congress
+- national-security
+- voting-rights
 description: Morally unfit.
 image: "/uploads/452.jpg"
 ---

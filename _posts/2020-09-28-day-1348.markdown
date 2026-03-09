@@ -9,6 +9,8 @@ tags:
 - congress
 - voting-rights
 - media
+- economy
+- national-security
 description: '"The Apprentice."'
 image: "/uploads/1348.jpg"
 todayInOneSentence: Trump paid $750 in federal income taxes in 2016 and 2017, and

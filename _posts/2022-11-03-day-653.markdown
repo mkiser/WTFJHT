@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - polling
 - economy
+- indictment
+- congress
 description: '"A defining moment."'
 image: "/uploads/day-653-biden.jpg"
 todayInOneSentence: Biden called the midterms "a defining moment" for democracy; Obama

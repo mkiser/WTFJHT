@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - judiciary
+- supreme-court
+- lawsuit
 description: '"Simply by saying so."'
 image: "/uploads/day-664-biden.jpg"
 todayInOneSentence: Democrats won the Senate while Republicans appear on track for

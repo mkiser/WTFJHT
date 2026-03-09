@@ -9,6 +9,8 @@ tags:
 - national-security
 - cabinet
 - immigration
+- economy
+- education
 layout: post
 description: Turbulent.
 image:

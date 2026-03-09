@@ -9,6 +9,8 @@ tags:
 - jan-6
 - indictment
 - congress
+- criminal-justice
+- oversight
 description: Repatriated.
 image: "/uploads/day-181-071921.jpg"
 todayInOneSentence: Merrick Garland prohibited the seizure of reporters' records;

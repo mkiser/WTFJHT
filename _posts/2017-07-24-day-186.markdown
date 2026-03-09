@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - media
+- national-security
+- voting-rights
 description: Beleaguered.
 image: "/uploads/186.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - census
 - nomination
 - congress
+- lgbtq-rights
+- national-security
 layout: post
 description: Unauthorized disclosure.
 image:

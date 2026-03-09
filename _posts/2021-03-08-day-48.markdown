@@ -9,6 +9,8 @@ tags:
 - disinformation
 - immigration
 - lgbtq-rights
+- voting-rights
+- education
 description: '"We just need to hang on a bit longer."'
 image: "/uploads/48-biden-covid.jpg"
 todayInOneSentence: 'The Senate passed the $1.9 trillion coronavirus relief package;

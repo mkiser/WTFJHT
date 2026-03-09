@@ -9,6 +9,8 @@ tags:
 - economy
 - jan-6
 - congress
+- national-security
+- resignation
 description: '"Force protection and readiness."'
 image: "/uploads/day-202-080921.jpg"
 todayInOneSentence: The Pentagon will require all U.S. servicemembers to get vaccinated;

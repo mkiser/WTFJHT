@@ -9,6 +9,8 @@ tags:
 - congress
 - covid
 - protests
+- climate
+- voting-rights
 description: '"Real, real bad."'
 image: "/uploads/day-525-biden.jpg"
 tag_excerpts:

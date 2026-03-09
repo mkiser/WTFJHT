@@ -9,6 +9,8 @@ tags:
 - tariffs
 - climate
 - covid
+- congress
+- trade
 description: '"Tipping point."'
 image: "/uploads/day-412-biden.jpg"
 todayInOneSentence: A bipartisan group of lawmakers reached a deal to ban the import

@@ -9,6 +9,8 @@ tags:
 - immigration
 - voting-rights
 - covid
+- russia
+- economy
 description: '"Food for thought."'
 image: "/uploads/day-456-biden.jpg"
 todayInOneSentence: 'The Biden administration is prepping another $800 million in

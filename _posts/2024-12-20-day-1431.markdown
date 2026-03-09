@@ -9,6 +9,7 @@ tags:
 - labor
 - government-shutdown
 - voting-rights
+- doge
 description: '"Do its job."'
 image: "/uploads/day-1431bt.jpg"
 todayInOneSentence: 'The House rejected the Trump-endorsed plan to fund the government

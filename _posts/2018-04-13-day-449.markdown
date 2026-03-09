@@ -9,6 +9,8 @@ tags:
 - judiciary
 - corruption
 - media
+- oversight
+- congress
 description: Slime ball.
 image: "/uploads/449.jpg"
 ---

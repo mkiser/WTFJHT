@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - national-security
 - nomination
+- economy
+- subpoena
 description: '"Distressed."'
 image: "/uploads/1343.jpg"
 todayInOneSentence: Trump predicted that the election "will end up in the Supreme

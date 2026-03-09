@@ -7,6 +7,8 @@ tags:
 - tariffs
 - foreign-policy
 - economy
+- national-security
+- trade
 description: '"Charade of due process."'
 image: "/uploads/day-1546-trump.jpg"
 todayInOneSentence: Trump suggested that he’ll deport violent U.S. citizens to El

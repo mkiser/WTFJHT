@@ -9,6 +9,8 @@ tags:
 - immigration
 - economy
 - national-security
+- congress
+- oversight
 description: '"Everything about this is irregular."'
 image: "/uploads/1238.jpg"
 todayInOneSentence: At least 19 states are seeing a rise in the number of new coronavirus

@@ -9,6 +9,8 @@ tags:
 - russia
 - national-security
 - immigration
+- veterans
+- congress
 description: 'You''re fired. '
 image: "/uploads/418.jpg"
 ---

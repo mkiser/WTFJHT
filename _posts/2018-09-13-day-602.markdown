@@ -9,6 +9,8 @@ tags:
 - oversight
 - congress
 - economy
+- taxes
+- mueller-investigation
 description: 12,800 children.
 image: "/uploads/day-602.png"
 todayInOneSentence: Sen. Feinstein referred a letter to the FBI about potential sexual

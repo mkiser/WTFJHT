@@ -7,6 +7,8 @@ tags:
 - healthcare
 - national-security
 - indictment
+- congress
+- immigration
 description: '"Winners and losers."'
 image: "/uploads/day1744trump.jpg"
 todayInOneSentence: 'The nonpartisan Congressional Budget Office said the government

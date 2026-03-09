@@ -9,6 +9,8 @@ tags:
 - immigration
 - education
 - media
+- congress
+- voting-rights
 layout: post
 description: Accountable.
 image:

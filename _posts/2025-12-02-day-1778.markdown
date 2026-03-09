@@ -7,6 +7,8 @@ tags:
 - executive-order
 - disinformation
 - congress
+- economy
+- healthcare
 description: '"Garbage."'
 image: "/uploads/day1778trump.jpg"
 todayInOneSentence: 'Trump said he doesn’t want Somali immigrants in the U.S., calling

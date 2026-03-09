@@ -9,6 +9,8 @@ tags:
 - oversight
 - media
 - congress
+- tech-policy
+- economy
 description: Entitled.
 image: "/uploads/985.jpg"
 todayInOneSentence: Mike Pompeo told House Democrats that the five State Department

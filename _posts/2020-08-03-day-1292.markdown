@@ -9,6 +9,8 @@ tags:
 - media
 - nomination
 - economy
+- voting-rights
+- national-security
 description: '"Extraordinarily widespread."'
 image: "/uploads/1292.jpg"
 todayInOneSentence: Dr. Deborah Birx warned that the country is in a "new phase" of

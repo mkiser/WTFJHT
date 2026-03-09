@@ -9,6 +9,8 @@ tags:
 - education
 - congress
 - voting-rights
+- oversight
+- civil-rights
 description: '"A distraction."'
 image: "/uploads/biden-day-743.jpg"
 todayInOneSentence: The FBI conducted a "planned search" of Biden’s beach house in

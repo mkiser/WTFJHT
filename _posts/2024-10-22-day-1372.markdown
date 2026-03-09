@@ -9,6 +9,8 @@ tags:
 - healthcare
 - polling
 - national-security
+- criminal-justice
+- reproductive-rights
 description: '"There’s no point."'
 image: "/uploads/day-1372-biden-harris.jpg"
 todayInOneSentence: '14 days until Election Day; more than 400 doctors and health

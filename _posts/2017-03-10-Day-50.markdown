@@ -9,6 +9,8 @@ tags:
 - ethics
 - congress
 - economy
+- national-security
+- labor
 layout: post
 description: Blow it up.
 image:

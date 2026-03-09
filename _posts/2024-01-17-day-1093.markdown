@@ -9,6 +9,8 @@ tags:
 - national-security
 - supreme-court
 - protests
+- voting-rights
+- indictment
 description: '"Loudly saying things that are false."'
 image: "/uploads/day1093biden.jpg"
 todayInOneSentence: 'A Maine judge delayed ruling on whether Trump’s name can appear

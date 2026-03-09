@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - infrastructure
+- veterans
+- economy
 description: '100% safe. '
 image: "/uploads/421.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - economy
 - voting-rights
 - foreign-policy
+- national-security
+- tech-policy
 description: Out of step.
 image: "/uploads/1014.jpg"
 todayInOneSentence: Two career diplomats testified before House impeachment investigators

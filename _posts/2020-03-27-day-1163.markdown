@@ -9,6 +9,8 @@ tags:
 - executive-order
 - economy
 - labor
+- voting-rights
+- supreme-court
 description: '"Wasting time."'
 image: "/uploads/1163.jpg"
 todayInOneSentence: The House passed the $2.2 trillion coronavirus stimulus package

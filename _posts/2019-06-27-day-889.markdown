@@ -9,6 +9,8 @@ tags:
 - immigration
 - media
 - congress
+- voting-rights
+- foreign-policy
 description: Contrived.
 image: "/uploads/889.jpg"
 todayInOneSentence: The Supreme Court blocked the citizenship question from being

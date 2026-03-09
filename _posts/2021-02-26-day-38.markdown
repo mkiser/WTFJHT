@@ -9,6 +9,8 @@ tags:
 - immigration
 - covid
 - national-security
+- economy
+- congress
 description: '"Too complicated."'
 image: "/uploads/day-38-biden-syria-mbs.jpg"
 todayInOneSentence: The Senate parliamentarian ruled that the $15-an-hour minimum

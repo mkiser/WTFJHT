@@ -7,6 +7,8 @@ tags:
 - corruption
 - oversight
 - congress
+- indictment
+- supreme-court
 description: '"The authoritarian march."'
 image: "/uploads/day1723trump.jpg"
 todayInOneSentence: Trump demanded that Chicago Mayor Brandon Johnson and Illinois

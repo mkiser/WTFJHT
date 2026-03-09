@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - national-security
+- taxes
+- labor
 description: '"Nobody knew."'
 image: "/uploads/1155.jpg"
 todayInOneSentence: The chairman of the Senate Intelligence Committee warned constituents

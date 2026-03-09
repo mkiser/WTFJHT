@@ -9,6 +9,8 @@ tags:
 - disinformation
 - congress
 - supreme-court
+- gun-policy
+- national-security
 description: '"The least racist person."'
 image: "/uploads/929.jpg"
 todayInOneSentence: Trump attacked Obama after the former president called on Americans

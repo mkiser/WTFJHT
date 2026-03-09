@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - immigration
+- taxes
+- climate
 description: Probably not a good idea.
 image: "/uploads/876.jpg"
 todayInOneSentence: Trump backtracked on his willingness to accept help from foreign

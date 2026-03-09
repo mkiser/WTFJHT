@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - russia
 - judiciary
+- congress
+- taxes
 description: '"NO COLLUSION!"'
 image: "/uploads/284.jpg"
 ---

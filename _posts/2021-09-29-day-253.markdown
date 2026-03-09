@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - covid
+- media
+- voting-rights
 description: '"One step at a time."'
 image: "/uploads/day-253-biden.jpg"
 todayInOneSentence: The Senate is expected to vote Thursday on a short-term spending

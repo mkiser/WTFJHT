@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - jan-6
 - covid
+- national-security
+- congress
 description: '"Hard-fought progress."'
 image: "/uploads/day-71-biden.jpg"
 todayInOneSentence: Biden unveiled his $2.25 trillion jobs, infrastructure, and green

@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - economy
 - oversight
+- national-security
+- indictment
 description: '"Sensitive matters."'
 image: "/uploads/day-723-biden.jpg"
 todayInOneSentence: 'Attorney General Merrick Garland appointed a special counsel

@@ -9,6 +9,8 @@ tags:
 - national-security
 - russia
 - oversight
+- immigration
+- infrastructure
 description: '"Deserve the truth."'
 image: "/uploads/1090.jpg"
 todayInOneSentence: The House will vote on Wednesday to transmit articles of impeachment

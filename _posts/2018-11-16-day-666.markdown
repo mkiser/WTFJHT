@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - voting-rights
+- indictment
+- foreign-policy
 description: Decorum.
 image: "/uploads/666.jpg"
 todayInOneSentence: Trump answered Robert Mueller's written questions himself "very

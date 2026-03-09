@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - polling
 - civil-rights
+- covid
+- media
 description: '"A serious moment."'
 image: "/uploads/day-895-biden.jpg"
 todayInOneSentence: 'A civil rights group demanded that the federal government end

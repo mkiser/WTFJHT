@@ -9,6 +9,7 @@ tags:
 - ethics
 - taxes
 - supreme-court
+- protests
 layout: post
 description: Alternative facts.
 image:

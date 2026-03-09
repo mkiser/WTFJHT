@@ -7,6 +7,8 @@ tags:
 - israel-palestine
 - social-security
 - economy
+- national-security
+- immigration
 description: '"Common sense."'
 image: "/uploads/day-1520-trump.jpg"
 todayInOneSentence: 'A federal judge blocked Trump’s executive order banning transgender

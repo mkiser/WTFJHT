@@ -9,6 +9,8 @@ tags:
 - indictment
 - national-security
 - congress
+- ukraine
+- economy
 description: '"Appalling and unhinged."'
 image: "/uploads/day1119biden.jpg"
 todayInOneSentence: 'Trump said he would "encourage" Russia to “do whatever the hell

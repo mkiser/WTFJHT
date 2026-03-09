@@ -9,6 +9,8 @@ tags:
 - immigration
 - oversight
 - taxes
+- congress
+- supreme-court
 description: '"A new political weapon."'
 image: "/uploads/day-700-biden.jpg"
 todayInOneSentence: The Jan. 6 Committee is cooperating with the Justice Department's

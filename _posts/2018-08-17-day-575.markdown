@@ -9,6 +9,8 @@ tags:
 - media
 - judiciary
 - economy
+- foreign-policy
+- supreme-court
 description: A very good person.
 image: "/uploads/575.jpg"
 todayInOneSentence: Advisers are worried that Trump will privatize the war in Afghanistan;

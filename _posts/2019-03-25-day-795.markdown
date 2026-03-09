@@ -9,6 +9,8 @@ tags:
 - judiciary
 - israel-palestine
 - russia
+- indictment
+- oversight
 description: No conclusion.
 image: "/uploads/795.jpg"
 todayInOneSentence: Attorney General William Barr concluded that Robert Mueller's

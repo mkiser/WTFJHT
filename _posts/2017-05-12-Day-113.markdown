@@ -9,6 +9,8 @@ tags:
 - climate
 - energy
 - media
+- congress
+- taxes
 layout: post
 description: Another fucking Twitter tirade.
 image:

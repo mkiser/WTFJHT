@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - national-security
 - economy
+- indictment
+- congress
 description: '"Fork in the road."'
 image: "/uploads/day-1471-trump.jpg"
 todayInOneSentence: The White House rescinded an order freezing federal grants and

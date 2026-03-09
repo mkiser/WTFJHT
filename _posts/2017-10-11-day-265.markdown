@@ -9,6 +9,8 @@ tags:
 - immigration
 - polling
 - oversight
+- voting-rights
+- supreme-court
 description: NBC = CNN
 image: "/uploads/265.jpg"
 ---

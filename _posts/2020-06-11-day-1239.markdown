@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - economy
+- labor
+- cabinet
 description: '"This is not a game."'
 image: "/uploads/1239.jpg"
 todayInOneSentence: Coronavirus deaths in the U.S. could reach 200,000 by early fall;

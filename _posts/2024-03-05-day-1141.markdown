@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - immigration
 - primary
+- congress
+- economy
 description: '"The situation is simply intolerable."'
 image: "/uploads/day1141biden.jpg"
 todayInOneSentence: Today is Super Tuesday; the Supreme Court temporarily blocked

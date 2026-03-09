@@ -9,6 +9,8 @@ tags:
 - jan-6
 - covid
 - congress
+- healthcare
+- labor
 description: '"Catastrophic."'
 image: "/uploads/day-225-biden.jpg"
 todayInOneSentence: Texas enacted the nation’s the most restrictive abortion ban;

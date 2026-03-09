@@ -9,6 +9,8 @@ tags:
 - oversight
 - climate
 - media
+- congress
+- immigration
 layout: post
 description: Delayed.
 image:

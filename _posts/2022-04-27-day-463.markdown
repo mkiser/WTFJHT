@@ -9,6 +9,8 @@ tags:
 - education
 - voting-rights
 - energy
+- congress
+- climate
 description: '"Last chance."'
 image: "/uploads/day-463-biden.jpg"
 todayInOneSentence: The White House is attempting to cobble together a narrower version

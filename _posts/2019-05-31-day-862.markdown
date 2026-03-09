@@ -9,6 +9,8 @@ tags:
 - oversight
 - mueller-investigation
 - congress
+- economy
+- media
 description: A colossal blunder.
 image: "/uploads/862.jpg"
 todayInOneSentence: Trump threatened to impose a 5% tariff on all Mexican goods; Republicans

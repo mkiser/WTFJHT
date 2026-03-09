@@ -9,6 +9,8 @@ tags:
 - climate
 - protests
 - media
+- lgbtq-rights
+- economy
 layout: post
 description: Perspective.
 image:

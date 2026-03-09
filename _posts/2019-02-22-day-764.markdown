@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - indictment
 - congress
+- voting-rights
+- taxes
 description: Infinitely better.
 image: "/uploads/764.jpg"
 todayInOneSentence: Mueller's sentencing memorandum is due to today in the prosecution

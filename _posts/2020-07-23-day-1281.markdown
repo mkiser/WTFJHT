@@ -9,6 +9,8 @@ tags:
 - economy
 - protests
 - congress
+- national-security
+- education
 description: '"Person, woman, man, camera, TV."'
 image: "/uploads/1281.jpg"
 todayInOneSentence: The U.S. surpassed four million coronavirus cases a little over

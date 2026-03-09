@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - taxes
 - congress
+- voting-rights
+- oversight
 layout: post
 description: '"Good press."'
 image:

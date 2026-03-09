@@ -9,6 +9,8 @@ tags:
 - judiciary
 - congress
 - education
+- oversight
+- voting-rights
 description: A little longer.
 image: "/uploads/789.jpg"
 todayInOneSentence: 'Mueller obtained warrants to search Michael Cohen''s emails and

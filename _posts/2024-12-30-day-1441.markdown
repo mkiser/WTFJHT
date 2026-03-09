@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - national-security
 - tech-policy
+- economy
+- supreme-court
 description: '"Mediocrity over excellence."'
 image: "/uploads/day-1441-biden-trump.jpg"
 todayInOneSentence: A federal appeals court upheld the $5 million verdict against

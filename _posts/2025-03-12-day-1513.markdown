@@ -7,6 +7,8 @@ tags:
 - education
 - social-security
 - economy
+- trade
+- congress
 description: '"This is not a game."'
 image: "/uploads/day-1513-trump.jpg"
 todayInOneSentence: The House passed a Republican spending bill to fund the government

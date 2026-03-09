@@ -9,6 +9,8 @@ tags:
 - congress
 - mueller-investigation
 - taxes
+- russia
+- media
 description: Knew what he signed up for.
 image: "/uploads/272.jpg"
 ---

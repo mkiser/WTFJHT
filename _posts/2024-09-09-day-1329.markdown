@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - voting-rights
 - immigration
+- congress
+- criminal-justice
 description: '"The chosen one."'
 image: "/uploads/day-1329-biden-harris.jpg"
 todayInOneSentence: Trump’s sentencing for his criminal conviction related to orchestrating

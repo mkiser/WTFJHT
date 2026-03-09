@@ -9,6 +9,8 @@ tags:
 - sanctions
 - congress
 - economy
+- voting-rights
+- national-security
 description: Total quitters.
 image: "/uploads/193.jpg"
 ---

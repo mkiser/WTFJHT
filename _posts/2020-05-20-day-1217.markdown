@@ -9,6 +9,8 @@ tags:
 - oversight
 - media
 - resignation
+- congress
+- impeachment
 description: '"We still have a long way to go."'
 image: "/uploads/1217.jpg"
 todayInOneSentence: Trump threatened to "hold up" federal funds from Michigan and

@@ -9,6 +9,8 @@ tags:
 - congress
 - tech-policy
 - immigration
+- national-security
+- subpoena
 description: Subpoenaed.
 image: "/uploads/362.jpg"
 ---

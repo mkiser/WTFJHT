@@ -9,6 +9,8 @@ tags:
 - national-security
 - ethics
 - mueller-investigation
+- congress
+- immigration
 layout: post
 description: Travel ban banned.
 image:

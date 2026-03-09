@@ -9,6 +9,8 @@ tags:
 - economy
 - covid
 - congress
+- judiciary
+- supreme-court
 description: '"No basis."'
 image: "/uploads/day-325-biden.jpg"
 todayInOneSentence: The Supreme Court allowed abortion providers in Texas to challenge

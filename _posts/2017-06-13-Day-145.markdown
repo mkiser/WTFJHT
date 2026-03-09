@@ -9,6 +9,8 @@ tags:
 - healthcare
 - criminal-justice
 - congress
+- mueller-investigation
+- media
 layout: post
 description: Haxored.
 image:

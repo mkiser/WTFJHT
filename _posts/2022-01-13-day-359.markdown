@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - covid
 - congress
+- tech-policy
+- labor
 description: '"Doomed to fail."'
 image: "/uploads/day-359-biden.jpg"
 todayInOneSentence: The global average surface temperature in 2021 was the sixth-highest

@@ -9,6 +9,8 @@ tags:
 - covid
 - sanctions
 - reproductive-rights
+- congress
+- foreign-policy
 description: '"The height of hypocrisy."'
 image: "/uploads/day-441-biden.jpg"
 todayInOneSentence: 'Ukrainian President Volodymyr Zelenskyy accused Russia of committing

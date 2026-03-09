@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - lawsuit
 - mueller-investigation
+- education
+- labor
 description: '"The pandemic is still accelerating."'
 image: "/uploads/1267.jpg"
 todayInOneSentence: Another 1.3 million workers filed new claims for state unemployment

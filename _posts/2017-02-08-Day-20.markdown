@@ -9,6 +9,8 @@ tags:
 - judiciary
 - voting-rights
 - congress
+- media
+- national-security
 layout: post
 description: Nevertheless, she persisted.
 image:

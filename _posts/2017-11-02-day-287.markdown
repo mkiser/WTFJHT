@@ -9,6 +9,8 @@ tags:
 - climate
 - national-security
 - congress
+- russia
+- oversight
 description: 'Cut, cut, cut. '
 image: "/uploads/287.jpg"
 ---

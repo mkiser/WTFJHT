@@ -9,6 +9,8 @@ tags:
 - congress
 - government-shutdown
 - protests
+- veterans
+- immigration
 description: '"Cascading failures."'
 image: "/uploads/day-1094-b.jpg"
 todayInOneSentence: The House and Senate passed a stopgap spending bill to prevent

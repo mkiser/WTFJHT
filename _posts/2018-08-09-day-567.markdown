@@ -9,6 +9,8 @@ tags:
 - immigration
 - mueller-investigation
 - judiciary
+- congress
+- economy
 description: 'Space Force all the way. '
 image: "/uploads/567.jpg"
 todayInOneSentence: Pence detailed Trump's proposal to create a "Space Force"; Russia

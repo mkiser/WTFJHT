@@ -9,6 +9,8 @@ tags:
 - national-security
 - immigration
 - congress
+- russia
+- voting-rights
 description: Big mistake.
 image: "/uploads/477.jpg"
 ---

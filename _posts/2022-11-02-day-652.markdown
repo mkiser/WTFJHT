@@ -9,6 +9,8 @@ tags:
 - jan-6
 - judiciary
 - subpoena
+- supreme-court
+- congress
 description: '"The path to chaos."'
 image: "/uploads/day-652-biden.jpg"
 todayInOneSentence: The Federal Reserve approved a fourth consecutive 0.75-point interest

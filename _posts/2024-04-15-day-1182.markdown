@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - supreme-court
 - protests
+- lgbtq-rights
+- criminal-justice
 description: '"Take the win."'
 image: "/uploads/day-1182-biden.jpg"
 todayInOneSentence: 'Jury selection in Trump’s criminal hush money trial began, marking

@@ -9,6 +9,8 @@ tags:
 - congress
 - mueller-investigation
 - national-security
+- ukraine
+- civil-rights
 description: Impossible.
 image: "/uploads/1120.jpg"
 todayInOneSentence: Attorney General Bill Barr said Trump's "constant background commentary"

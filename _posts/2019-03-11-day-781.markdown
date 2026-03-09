@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - mueller-investigation
+- national-security
+- tech-policy
 description: 'Sanity. '
 image: "/uploads/781.jpg"
 todayInOneSentence: Trump proposed a $4.75 trillion budget; Trump claimed that "the

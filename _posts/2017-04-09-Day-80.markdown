@@ -9,6 +9,7 @@ tags:
 - russia
 - civil-rights
 - cabinet
+- covid
 layout: post
 description: Complicit.
 image:

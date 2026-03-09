@@ -9,6 +9,8 @@ tags:
 - congress
 - covid
 - indictment
+- lgbtq-rights
+- voting-rights
 description: '"Reckless."'
 image: "/uploads/day-1231-biden.jpg"
 todayInOneSentence: Biden will issue an executive that would allow him to temporarily

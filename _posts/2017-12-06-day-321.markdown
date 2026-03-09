@@ -9,6 +9,8 @@ tags:
 - oversight
 - congress
 - national-security
+- immigration
+- economy
 description: Good to go.
 image: "/uploads/321.jpg"
 ---

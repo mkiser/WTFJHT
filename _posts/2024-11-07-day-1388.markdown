@@ -9,6 +9,8 @@ tags:
 - climate
 - immigration
 - voting-rights
+- tech-policy
+- national-security
 description: '"The agenda."'
 image: "/uploads/day-1388-biden-harris-trump.jpg"
 tag_excerpts:

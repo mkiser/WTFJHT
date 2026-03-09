@@ -7,6 +7,8 @@ tags:
 - tariffs
 - immigration
 - national-security
+- lawsuit
+- resignation
 description: '"This isn’t ''The Hunger Games.''"'
 image: "/uploads/day-1581trump.jpg"
 todayInOneSentence: 'House Republicans advanced Trump’s tax and immigration bill in

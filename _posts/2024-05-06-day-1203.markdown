@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - mueller-investigation
 - indictment
+- trump-trials
+- national-security
 description: '"Not serving as a deterrent."'
 image: "/uploads/day-1203-biden.jpg"
 todayInOneSentence: Judge Juan Merchan threatened Trump with jail and fined him $1,000

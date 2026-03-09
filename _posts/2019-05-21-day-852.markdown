@@ -9,6 +9,8 @@ tags:
 - subpoena
 - oversight
 - russia
+- national-security
+- mueller-investigation
 description: Demands.
 image: "/uploads/852.jpg"
 todayInOneSentence: 'A federal judge ordered Trump''s accounting firm to hand over

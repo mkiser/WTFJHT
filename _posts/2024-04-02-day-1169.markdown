@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - corruption
 - congress
+- voting-rights
+- supreme-court
 description: '"This happens in war."'
 image: "/uploads/tios-1169-biden.jpg"
 todayInOneSentence: An Israeli airstrike killed seven aid workers, leading to the

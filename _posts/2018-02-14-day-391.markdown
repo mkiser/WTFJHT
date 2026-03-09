@@ -9,6 +9,8 @@ tags:
 - disinformation
 - congress
 - national-security
+- voting-rights
+- veterans
 description: Unconvinced.
 image: "/uploads/391.jpg"
 ---

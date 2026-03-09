@@ -9,6 +9,8 @@ tags:
 - national-security
 - energy
 - russia
+- economy
+- voting-rights
 description: Opposition media.
 image: "/uploads/474.jpg"
 ---

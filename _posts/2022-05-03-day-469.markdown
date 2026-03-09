@@ -9,6 +9,8 @@ tags:
 - midterm-election
 - ethics
 - corruption
+- congress
+- economy
 description: '"An egregious breach of trust."'
 image: "/uploads/day-469-biden.jpg"
 todayInOneSentence: The Supreme Court voted to strike down Roe v. Wade, according

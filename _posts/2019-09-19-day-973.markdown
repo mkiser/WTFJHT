@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - lawsuit
+- taxes
+- national-security
 description: Credible and urgent.
 image: "/uploads/973.jpg"
 todayInOneSentence: The whistleblower complaint by an intelligence officer was triggered

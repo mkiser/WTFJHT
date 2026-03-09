@@ -9,6 +9,8 @@ tags:
 - congress
 - voting-rights
 - judiciary
+- infrastructure
+- supreme-court
 description: Swamp things.
 image: "/uploads/1362.jpg"
 todayInOneSentence: More than 200 companies, special interest groups and foreign governments

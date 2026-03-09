@@ -9,6 +9,8 @@ tags:
 - economy
 - covid
 - congress
+- voting-rights
+- education
 description: '"Get to the truth."'
 image: "/uploads/28-days-biden.jpg"
 todayInOneSentence: The chairman of the House Homeland Security Committee sued Trump,

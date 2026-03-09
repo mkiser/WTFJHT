@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - education
+- criminal-justice
+- indictment
 description: '"Inciter in chief."'
 image: "/uploads/trump-impeachment-day-2.jpg"
 todayInOneSentence: House Democrats opened their impeachment case against Trump arguing

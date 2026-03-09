@@ -9,6 +9,8 @@ tags:
 - russia
 - education
 - tech-policy
+- congress
+- economy
 layout: post
 description: Denied.
 image:

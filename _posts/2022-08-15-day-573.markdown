@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - jan-6
 - national-security
+- oversight
+- subpoena
 description: '"Extraordinary impacts."'
 image: "/uploads/day-573-biden.jpg"
 todayInOneSentence: The House passed the Inflation Reduction Act over unanimous Republican

@@ -9,6 +9,8 @@ tags:
 - indictment
 - congress
 - oversight
+- supreme-court
+- economy
 description: '"Take the win."'
 image: "/uploads/day-161-biden.jpg"
 todayInOneSentence: Joe Manchin agreed to support the use of budget reconciliation

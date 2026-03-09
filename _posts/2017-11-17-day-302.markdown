@@ -9,6 +9,8 @@ tags:
 - media
 - economy
 - polling
+- congress
+- judiciary
 description: What about yours?
 image: "/uploads/302.jpg"
 ---

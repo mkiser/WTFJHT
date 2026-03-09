@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - indictment
+- voting-rights
+- media
 description: '"Destabilizing."'
 image: "/uploads/day1121biden.jpg"
 todayInOneSentence: Democrats won a special election and flipped George Santos' seat

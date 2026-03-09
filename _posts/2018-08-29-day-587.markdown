@@ -9,6 +9,8 @@ tags:
 - education
 - resignation
 - nomination
+- congress
+- voting-rights
 description: 'Don''t let it happen. '
 image: "/uploads/587.jpg"
 todayInOneSentence: White House counsel Don McGahn will step down; Betsy DeVos is

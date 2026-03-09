@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - jan-6
 - tariffs
+- congress
+- oversight
 description: '"A more perfect union."'
 image: "/uploads/day-443-biden.jpg"
 todayInOneSentence: The Senate voted 53 to 47 to confirm Judge Ketanji Brown Jackson

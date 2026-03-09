@@ -7,6 +7,8 @@ tags:
 - economy
 - gun-policy
 - covid
+- national-security
+- congress
 description: '"A very good job."'
 image: "/uploads/day1834trump.jpg"
 todayInOneSentence: 'Trump said he’ll be “watching over” an “honest investigation”

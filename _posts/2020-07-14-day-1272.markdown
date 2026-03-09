@@ -9,6 +9,8 @@ tags:
 - education
 - healthcare
 - economy
+- labor
+- lawsuit
 description: '"Find something new."'
 image: "/uploads/1272.jpg"
 todayInOneSentence: The Trump administration rescinded its rule barring international

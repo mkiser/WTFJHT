@@ -9,6 +9,8 @@ tags:
 - climate
 - foreign-policy
 - subpoena
+- voting-rights
+- congress
 description: '"On the edge of a precipice."'
 image: "/uploads/day-391-biden.jpg"
 todayInOneSentence: The White House said it believes Russia could invade Ukraine at

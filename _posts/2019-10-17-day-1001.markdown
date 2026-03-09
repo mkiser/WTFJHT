@@ -9,6 +9,8 @@ tags:
 - ukraine
 - congress
 - media
+- cabinet
+- oversight
 description: '"Get over it."'
 image: "/uploads/1001.jpg"
 todayInOneSentence: Mick Mulvaney confirmed that Trump blocked military aid to Ukraine

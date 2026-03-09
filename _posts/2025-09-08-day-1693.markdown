@@ -7,6 +7,8 @@ tags:
 - corruption
 - media
 - immigration
+- economy
+- indictment
 description: '"A scared man."'
 image: "/uploads/day1692trump.jpg"
 todayInOneSentence: House Democrats released Trump’s lewd 2003 letter to Jeffrey Epstein

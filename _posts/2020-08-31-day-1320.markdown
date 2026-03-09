@@ -9,6 +9,8 @@ tags:
 - protests
 - media
 - national-security
+- nomination
+- congress
 description: '"Recklessly encouraging violence."'
 image: "/uploads/1320.jpg"
 todayInOneSentence: The Director of National Intelligence will no longer give Congress

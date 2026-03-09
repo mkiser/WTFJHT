@@ -9,6 +9,8 @@ tags:
 - supreme-court
 - congress
 - labor
+- voting-rights
+- civil-rights
 description: Bad idea.
 image: "/uploads/524.jpg"
 todayInOneSentence: Justice Anthony Kennedy will retire;  Mitch McConnell promised

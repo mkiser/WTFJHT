@@ -9,6 +9,8 @@ tags:
 - covid
 - russia
 - congress
+- ukraine
+- foreign-policy
 description: '"We''re going to vote."'
 image: "/uploads/day-364-biden.jpg"
 todayInOneSentence: The Senate started debate on voting rights legislation even though

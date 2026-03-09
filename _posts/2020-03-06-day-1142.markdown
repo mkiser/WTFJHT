@@ -9,6 +9,8 @@ tags:
 - education
 - media
 - national-security
+- congress
+- economy
 description: '"Contained."'
 image: "/uploads/1142.jpg"
 todayInOneSentence: The Trump administration claimed that the coronavirus outbreak

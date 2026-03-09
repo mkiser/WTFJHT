@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - immigration
 - indictment
+- national-security
+- supreme-court
 description: '"Political stunts."'
 image: "/uploads/day-867-biden.jpg"
 todayInOneSentence: 'Trump''s attorneys met with the Justice Department to argue why

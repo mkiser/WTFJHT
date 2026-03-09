@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - russia
+- labor
+- oversight
 description: Irresponsible.
 image: "/uploads/364.jpg"
 ---

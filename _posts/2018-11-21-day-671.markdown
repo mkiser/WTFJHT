@@ -9,6 +9,8 @@ tags:
 - congress
 - taxes
 - immigration
+- supreme-court
+- national-security
 description: Sad irony.
 image: "/uploads/671.jpg"
 todayInOneSentence: The Trump administration authorized troops deployed at the border

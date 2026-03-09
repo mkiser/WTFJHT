@@ -9,6 +9,8 @@ tags:
 - media
 - ukraine
 - economy
+- voting-rights
+- national-security
 description: A diversion.
 image: "/uploads/1104.jpg"
 todayInOneSentence: Trump's legal team concluded its oral arguments; the Senate will

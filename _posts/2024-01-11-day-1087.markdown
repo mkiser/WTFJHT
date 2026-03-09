@@ -9,6 +9,8 @@ tags:
 - congress
 - covid
 - national-security
+- indictment
+- economy
 description: '"One of the greatest shows of hypocrisy in history."'
 image: "/uploads/day-10875biden.jpg"
 todayInOneSentence: Trump defied the judge presiding over his $370 million civil fraud

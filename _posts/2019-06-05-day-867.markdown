@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - mueller-investigation
+- national-security
+- climate
 description: The cleanest climate.
 image: "/uploads/867.jpg"
 todayInOneSentence: Trump said he believes climate change "goes both ways"; Trump

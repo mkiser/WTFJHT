@@ -9,6 +9,8 @@ tags:
 - congress
 - reproductive-rights
 - voting-rights
+- indictment
+- polling
 description: '"Two different visions."'
 image: "/uploads/day-1281-biden-harris.jpg"
 todayInOneSentence: 'Kamala Harris has the support of enough Democratic delegates

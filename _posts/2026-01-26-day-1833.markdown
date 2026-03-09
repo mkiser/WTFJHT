@@ -7,6 +7,8 @@ tags:
 - congress
 - covid
 - national-security
+- healthcare
+- trade
 description: '"Productive."'
 image: "/uploads/day1833trump.jpg"
 todayInOneSentence: 'Trump agreed to “look into reducing the number of federal agents

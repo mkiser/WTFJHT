@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - russia
+- national-security
+- voting-rights
 description: Outdated, unnecessary, ineffective.
 image: "/uploads/277.jpg"
 ---

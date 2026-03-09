@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - russia
 - media
+- veterans
+- oversight
 description: Freewheeling.
 image: "/uploads/434.jpg"
 ---

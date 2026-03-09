@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - mueller-investigation
 - congress
+- trade
+- supreme-court
 description: '"My staff told me not to say this."'
 image: "/uploads/532.jpg"
 todayInOneSentence: Scott Pruitt resigned from the EPA; Charles Schumer urged Trump

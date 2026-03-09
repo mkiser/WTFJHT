@@ -9,6 +9,8 @@ tags:
 - oversight
 - ukraine
 - national-security
+- trade
+- indictment
 description: '"Do impartial justice."'
 image: "/uploads/1092.jpg"
 todayInOneSentence: The Senate opened the impeachment trial; Parnas said Trump "knew

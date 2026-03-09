@@ -9,6 +9,8 @@ tags:
 - judiciary
 - supreme-court
 - economy
+- indictment
+- nomination
 description: '"Mired itself in an ethical crisis of its own making."'
 image: "/uploads/day-1435-biden-harris.jpg"
 todayInOneSentence: 'The House Ethics Committee report on Matt Gaetz found “substantial

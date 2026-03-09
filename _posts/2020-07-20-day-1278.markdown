@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - education
+- voting-rights
+- media
 description: '"I''ll be right eventually."'
 image: "/uploads/1278.jpg"
 todayInOneSentence: The Trump administration is trying to block funding for coronavirus

@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - media
 - tech-policy
+- criminal-justice
+- cabinet
 description: '"Strategic ambiguity."'
 image: "/uploads/day-213-082021.jpg"
 todayInOneSentence: 'A North Carolina man who threatened to blow up the U.S. Capitol

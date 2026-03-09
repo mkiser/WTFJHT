@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - national-security
 - criminal-justice
+- china
+- polling
 description: '"Closer to a definitive conclusion."'
 image: "/uploads/biden-day-127.jpg"
 todayInOneSentence: Biden directed the intelligence community to "redouble" its efforts

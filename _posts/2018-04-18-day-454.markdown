@@ -9,6 +9,8 @@ tags:
 - corruption
 - congress
 - foreign-policy
+- immigration
+- nomination
 description: This Russia thing.
 image: "/uploads/454.jpg"
 todayInOneSentence: Trump denied that he fired Comey because of the Russia investigation,

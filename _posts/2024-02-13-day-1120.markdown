@@ -9,6 +9,8 @@ tags:
 - economy
 - climate
 - congress
+- supreme-court
+- voting-rights
 description: '"It will be devastating."'
 image: "/uploads/day1120biden.jpg"
 todayInOneSentence: The Senate approved $95 billion in aid to Ukraine, Israel, and

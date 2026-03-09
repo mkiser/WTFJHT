@@ -9,6 +9,8 @@ tags:
 - immigration
 - russia
 - climate
+- congress
+- tech-policy
 layout: post
 description: Accused.
 image:

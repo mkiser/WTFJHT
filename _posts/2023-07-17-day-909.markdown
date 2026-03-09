@@ -9,6 +9,8 @@ tags:
 - healthcare
 - disinformation
 - congress
+- national-security
+- education
 description: '"Targeted."'
 image: "/uploads/day-909-biden.jpg"
 todayInOneSentence: An Iowa judge temporarily blocked the state's new six-week abortion

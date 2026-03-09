@@ -9,6 +9,8 @@ tags:
 - national-security
 - indictment
 - congress
+- judiciary
+- media
 description: Clean up the mess.
 image: "/uploads/455.jpg"
 ---

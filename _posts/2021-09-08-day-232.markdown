@@ -9,6 +9,8 @@ tags:
 - climate
 - economy
 - criminal-justice
+- supreme-court
+- congress
 description: '"All options."'
 image: "/uploads/day-232-biden.jpg"
 todayInOneSentence: Attorney General Merrick Garland said the Justice Department is

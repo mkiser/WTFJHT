@@ -9,6 +9,8 @@ tags:
 - immigration
 - education
 - classified-documents
+- supreme-court
+- oversight
 description: '"Know your rights."'
 image: "/uploads/day-868-biden.jpg"
 todayInOneSentence: 'The Human Rights Campaign issued a state of emergency for LGBTQ+

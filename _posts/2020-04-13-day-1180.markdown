@@ -9,6 +9,8 @@ tags:
 - corruption
 - economy
 - congress
+- judiciary
+- nomination
 description: '"A lot of instincts."'
 image: "/uploads/1180.jpg"
 todayInOneSentence: Trump was warned about the potential for a pandemic in January;

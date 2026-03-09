@@ -9,6 +9,8 @@ tags:
 - indictment
 - congress
 - economy
+- taxes
+- national-security
 description: '"A great day for America."'
 image: "/uploads/day-114-biden.jpg"
 todayInOneSentence: The CDC said Americans who are fully vaccinated can safely go

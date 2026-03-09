@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - national-security
+- indictment
+- russia
 description: Incredible insights.
 image: "/uploads/292.jpg"
 ---

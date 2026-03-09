@@ -9,6 +9,8 @@ tags:
 - healthcare
 - national-security
 - classified-documents
+- covid
+- voting-rights
 description: '"They''re coming after you."'
 image: "/uploads/day-874-biden.jpg"
 todayInOneSentence: Trump vowed to continue running for president even if he's convicted

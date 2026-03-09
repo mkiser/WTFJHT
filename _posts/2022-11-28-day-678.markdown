@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - energy
 - congress
+- supreme-court
+- lgbtq-rights
 description: '"Persistent and lethal."'
 image: "/uploads/day-678-biden.jpg"
 todayInOneSentence: 'Biden renewed his call for a ban on assault weapons following

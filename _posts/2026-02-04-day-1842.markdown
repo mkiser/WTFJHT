@@ -18,6 +18,14 @@ podcast:
   file: "/uploads/Day 1842_ _A strategic reset._.mp3"
   duration: '00:05:05'
   length: 4892673
+tags:
+- immigration
+- congress
+- voting-rights
+- criminal-justice
+- national-security
+- supreme-court
+- indictment
 ---
 
 1/ **Trump doubled down on his call to “nationalize” voting, saying the federal government should “get involved” in state elections**. The White House claimed he was referring to the SAVE Act, which would require proof of citizenship to register, however the bill doesn’t federalize elections. It also remains stalled in the Senate after passing the House. And even though the Constitution assigns states to run elections and allows Congress to set the rules, Trump said "I don't know why the federal government doesn't do 'em anyway." He first floated the idea Monday in a podcast interview with ex–FBI deputy director Dan Bongino, urging Republicans to “take over” voting in “at least 15” places. Senate Majority Leader John Thune, meanwhile, said he was “not in favor of federalizing elections,” while Democratic Leader Chuck Schumer called the idea “outlandishly illegal.” ([The Hill](https://thehill.com/homenews/administration/5722063-donald-trump-state-elections-nationalization/) / [New York Times](https://www.nytimes.com/2026/02/03/us/politics/trump-save-act-elections.html) / [ABC News](https://abcnews.go.com/Politics/trump-doubles-suggesting-federal-government-involved-state-elections/story?id=129826521) / [Wall Street Journal](https://www.wsj.com/politics/policy/trump-doubles-down-on-calls-for-republicans-to-nationalize-elections-f0ae3f92) / [NBC News](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-colombia-petro-congress-shutdown-ice-immigration-live-updates-rcna256876#rcrd98532) / [CNBC](https://www.cnbc.com/2026/02/03/trump-election-government-states.html))

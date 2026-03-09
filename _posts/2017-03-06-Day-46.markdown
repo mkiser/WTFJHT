@@ -9,6 +9,8 @@ tags:
 - healthcare
 - judiciary
 - national-security
+- education
+- lgbtq-rights
 layout: post
 description: Revised.
 image:

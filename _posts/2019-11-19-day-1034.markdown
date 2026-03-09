@@ -9,6 +9,8 @@ tags:
 - congress
 - foreign-policy
 - ukraine
+- national-security
+- taxes
 description: Duty.
 image: "/uploads/1034.jpg"
 todayInOneSentence: Two national security officials testified publicly that Trump's

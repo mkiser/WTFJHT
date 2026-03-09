@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - oversight
 - china
+- climate
+- labor
 description: '"The evidence is compelling."'
 image: "/uploads/day-758-biden.jpg"
 todayInOneSentence: 'The special grand jury investigating efforts by Trump and his

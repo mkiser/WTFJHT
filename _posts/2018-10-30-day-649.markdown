@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - media
 - china
+- supreme-court
+- indictment
 description: Blatantly unconstitutional.
 image: "/uploads/649.jpg"
 todayInOneSentence: Local and congressional leaders skipped Trumps' visit to Pittsburgh;

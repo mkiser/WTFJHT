@@ -9,6 +9,8 @@ tags:
 - congress
 - climate
 - economy
+- voting-rights
+- energy
 description: Drain the swamp.
 image: "/uploads/279.jpg"
 ---

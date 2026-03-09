@@ -9,6 +9,8 @@ tags:
 - healthcare
 - congress
 - mueller-investigation
+- oversight
+- national-security
 description: '"Entrenched."'
 image: "/uploads/day-534-biden.jpg"
 todayInOneSentence: Federal Reserve officials expressed concern that elevated inflation

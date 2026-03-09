@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - climate
 - indictment
+- judiciary
+- congress
 description: '"Trump doesn’t give a damn about people."'
 image: "/uploads/day-1085biden.jpg"
 todayInOneSentence: The U.S. Court of Appeals for the D.C. Circuit reacted with skepticism

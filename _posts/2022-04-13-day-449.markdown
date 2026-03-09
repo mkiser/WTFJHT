@@ -9,6 +9,8 @@ tags:
 - national-security
 - jan-6
 - voting-rights
+- russia
+- healthcare
 description: '"Fundamental changes."'
 image: "/uploads/day-449-biden.jpg"
 todayInOneSentence: The Biden administration extended the coronavirus public health

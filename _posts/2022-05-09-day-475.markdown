@@ -9,6 +9,8 @@ tags:
 - economy
 - supreme-court
 - congress
+- tech-policy
+- midterm-election
 description: '"Serious risk."
 
 '

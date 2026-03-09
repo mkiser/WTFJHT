@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - congress
 - tech-policy
+- russia
+- immigration
 layout: post
 description: "<s>Ultimatum.</s> Art of the deal."
 image:

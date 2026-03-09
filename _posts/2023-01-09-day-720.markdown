@@ -9,6 +9,8 @@ tags:
 - congress
 - corruption
 - classified-documents
+- lawsuit
+- oversight
 description: '"A direct and foreseeable consequence."'
 image: "/uploads/day-720biden.jpg"
 todayInOneSentence: 'The Georgia special grand jury investigating “coordinated attempts

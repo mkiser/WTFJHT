@@ -9,6 +9,8 @@ tags:
 - healthcare
 - economy
 - congress
+- lawsuit
+- covid
 description: '"A big deal."'
 image: "/uploads/day-772-biden.jpg"
 todayInOneSentence: 'Trump can be sued by injured Capitol Police officers and Democratic

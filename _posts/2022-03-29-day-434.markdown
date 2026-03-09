@@ -9,6 +9,8 @@ tags:
 - covid
 - subpoena
 - supreme-court
+- congress
+- oversight
 description: '"Do your job."'
 image: "/uploads/day-434-biden.jpg"
 todayInOneSentence: 'Trump''s Jan. 6 White House records are missing seven hours and

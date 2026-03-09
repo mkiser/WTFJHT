@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - economy
 - congress
+- taxes
+- mueller-investigation
 description: Ready, larger, and more lethal.
 image: "/uploads/389.jpg"
 ---

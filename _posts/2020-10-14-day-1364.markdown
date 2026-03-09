@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - oversight
+- nomination
+- healthcare
 description: '"Dr. Johnny Bananas."'
 image: "/uploads/1364.jpg"
 todayInOneSentence: U.S. coronavirus cases are rising again; the White House supported

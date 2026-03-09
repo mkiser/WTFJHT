@@ -9,6 +9,8 @@ tags:
 - immigration
 - veterans
 - economy
+- healthcare
+- voting-rights
 description: Muzzled.
 image: "/uploads/1134.jpg"
 todayInOneSentence: A whistleblower alleges that the Department of Health and Human

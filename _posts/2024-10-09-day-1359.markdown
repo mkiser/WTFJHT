@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - russia
 - polling
+- lawsuit
+- debate
 description: '"Beyond ridiculous."'
 image: "/uploads/day-1359-biden-harris.jpg"
 todayInOneSentence: With landfall by Milton, a major Category 3 hurricane, hours away

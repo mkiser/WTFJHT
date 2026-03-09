@@ -9,6 +9,8 @@ tags:
 - immigration
 - voting-rights
 - congress
+- national-security
+- tech-policy
 description: 'Blameless. '
 image: "/uploads/778.jpg"
 tag_excerpts:

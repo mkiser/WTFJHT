@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - national-security
+- supreme-court
+- lawsuit
 description: Treasonous.
 image: "/uploads/349.jpg"
 ---

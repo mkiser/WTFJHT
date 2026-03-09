@@ -9,6 +9,8 @@ tags:
 - healthcare
 - national-security
 - congress
+- economy
+- immigration
 layout: post
 description: "<s>Blasted.</s> Banned in DC."
 image:

@@ -7,6 +7,8 @@ tags:
 - immigration
 - judiciary
 - congress
+- trade
+- national-security
 description: '"Not afraid of you."'
 image: "/uploads/day-1562-trump.jpg"
 todayInOneSentence: 'The U.S. economy shrank 0.3% in the first quarter of 2025 as

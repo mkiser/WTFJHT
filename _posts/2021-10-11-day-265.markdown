@@ -9,6 +9,8 @@ tags:
 - immigration
 - corruption
 - covid
+- judiciary
+- ethics
 description: '"Failures."'
 image: "/uploads/265-biden.jpg"
 todayInOneSentence: A Capitol Police whistleblower accused the agency’s two senior

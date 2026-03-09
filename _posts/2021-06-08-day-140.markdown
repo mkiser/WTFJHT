@@ -9,6 +9,8 @@ tags:
 - nomination
 - covid
 - impeachment
+- congress
+- indictment
 description: '"Planned in plain sight."'
 image: "/uploads/day-140-biden-trump-wtf.jpg"
 todayInOneSentence: Biden's Justice Department will continue to defend Trump in a

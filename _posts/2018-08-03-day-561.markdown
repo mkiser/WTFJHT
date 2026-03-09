@@ -9,6 +9,8 @@ tags:
 - presidential-election
 - mueller-investigation
 - congress
+- media
+- trade
 description: Pervasive.
 image: "/uploads/561.jpg"
 todayInOneSentence: Trump's national security team said Russia is behind "pervasive"

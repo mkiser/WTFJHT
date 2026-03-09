@@ -9,6 +9,8 @@ tags:
 - oversight
 - media
 - national-security
+- congress
+- russia
 description: '"Do you regret at all the lying?"'
 image: "/uploads/1303.jpg"
 todayInOneSentence: Trump’s top two officials at the Department of Homeland Security

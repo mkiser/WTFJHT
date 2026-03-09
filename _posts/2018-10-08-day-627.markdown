@@ -9,6 +9,8 @@ tags:
 - russia
 - mueller-investigation
 - nomination
+- congress
+- education
 description: '"An insult to the American public."'
 image: "/uploads/627.jpg"
 todayInOneSentence: The Senate confirmed Brett Kavanaugh;  Trump called the allegations

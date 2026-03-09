@@ -9,6 +9,8 @@ tags:
 - climate
 - covid
 - economy
+- healthcare
+- nomination
 description: '"Relentless barrage."'
 image: "/uploads/day-1395-biden-harris-trump.jpg"
 todayInOneSentence: Trump asked Robert F. Kennedy Jr. to serve as secretary of health

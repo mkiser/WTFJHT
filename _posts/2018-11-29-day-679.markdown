@@ -9,6 +9,8 @@ tags:
 - russia
 - veterans
 - oversight
+- trade
+- indictment
 description: '"Stayed away."'
 image: "/uploads/679.jpg"
 todayInOneSentence: 'Michael Cohen pleaded guilty to making false statements to Congress;

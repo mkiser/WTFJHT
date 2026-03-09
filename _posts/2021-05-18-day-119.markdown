@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - congress
 - covid
+- climate
+- protests
 description: '"Legitimatizing a grift."'
 image: "/uploads/biden-day-119.jpg"
 todayInOneSentence: House Minority Leader Kevin McCarthy will oppose a bipartisan

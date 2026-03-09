@@ -9,6 +9,8 @@ tags:
 - lawsuit
 - presidential-election
 - national-security
+- foreign-policy
+- media
 description: '"An unfolding catastrophe."'
 image: "/uploads/biden-1021.jpg"
 todayInOneSentence: 'Trump repeatedly provided off topic testimony, lost his temper,

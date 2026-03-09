@@ -9,6 +9,8 @@ tags:
 - media
 - national-security
 - polling
+- economy
+- education
 description: '"We''re going in the wrong direction."'
 image: "/uploads/12568.jpg"
 todayInOneSentence: Dr. Anthony Fauci warned a Senate committee that the U.S. is "not

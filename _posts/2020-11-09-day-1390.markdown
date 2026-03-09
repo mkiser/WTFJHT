@@ -9,6 +9,8 @@ tags:
 - national-security
 - nomination
 - congress
+- immigration
+- economy
 description: '"A mask is not a political statement."'
 image: "/uploads/1390.jpg"
 todayInOneSentence: More than 10 million people have been infected with the coronavirus

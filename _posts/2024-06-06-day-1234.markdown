@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - indictment
 - protests
+- immigration
+- foreign-policy
 description: '"We don’t seem to be listening."'
 image: "/uploads/day-1234-biden.jpg"
 todayInOneSentence: 'Human activities were responsible for 92% of the warming observed

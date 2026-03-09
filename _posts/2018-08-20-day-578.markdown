@@ -9,6 +9,8 @@ tags:
 - national-security
 - oversight
 - congress
+- indictment
+- media
 description: '"Truth isn''t truth."'
 image: "/uploads/578.jpg"
 todayInOneSentence: The White House counsel has cooperated extensively with Robert

@@ -9,6 +9,8 @@ tags:
 - gun-policy
 - voting-rights
 - education
+- healthcare
+- labor
 description: '"A flood of bloodshed."'
 image: "/uploads/day-211-081821.jpg"
 todayInOneSentence: A Texas school district made masks part of their dress code to

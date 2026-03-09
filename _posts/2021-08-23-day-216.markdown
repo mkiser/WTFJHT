@@ -9,6 +9,7 @@ tags:
 - jan-6
 - education
 - congress
+- media
 description: '"Updated guidance."'
 image: "/uploads/day-216-082321.jpg"
 todayInOneSentence: The FDA granted full approval to the Pfizer vaccine; the Pentagon

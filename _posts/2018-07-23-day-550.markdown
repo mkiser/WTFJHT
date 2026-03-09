@@ -9,6 +9,8 @@ tags:
 - russia
 - congress
 - voting-rights
+- supreme-court
+- judiciary
 description: Reality distortion field.
 image: "/uploads/550.jpg"
 todayInOneSentence: The Justice Department released a previously classified application

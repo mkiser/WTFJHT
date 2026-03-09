@@ -9,6 +9,8 @@ tags:
 - media
 - oversight
 - congress
+- immigration
+- national-security
 layout: post
 description: Low IQ.
 image:

@@ -9,6 +9,8 @@ tags:
 - education
 - media
 - voting-rights
+- congress
+- national-security
 description: '"Ordinary political rhetoric."'
 image: "/uploads/trump-impeachment-biden-day-24.jpg"
 todayInOneSentence: Trump's legal team concluded its defense, accusing House impeachment

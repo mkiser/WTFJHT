@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - immigration
 - economy
+- voting-rights
+- congress
 description: '"Corrupt and politically motivated favor."'
 image: "/uploads/1331.jpg"
 todayInOneSentence: Trump claimed that the U.S. is “rounding the corner” on the coronavirus

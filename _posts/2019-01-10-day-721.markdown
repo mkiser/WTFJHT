@@ -9,6 +9,8 @@ tags:
 - climate
 - national-security
 - congress
+- russia
+- oversight
 description: A credible account.
 image: "/uploads/721.jpg"
 todayInOneSentence: Mitch McConnell blocked two bills to re-open the government; the

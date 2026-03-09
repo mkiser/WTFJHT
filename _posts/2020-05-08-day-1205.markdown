@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - economy
 - immigration
+- labor
+- healthcare
 description: '"Literally off the charts."'
 image: "/uploads/1205.jpg"
 todayInOneSentence: The U.S. unemployment rate jumped to 14.7%; Pence’s press secretary

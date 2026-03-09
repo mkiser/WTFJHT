@@ -9,6 +9,8 @@ tags:
 - trade
 - economy
 - subpoena
+- media
+- voting-rights
 description: '"A total low-life."'
 image: "/uploads/615.jpg"
 todayInOneSentence: A third accuser said she witnessed efforts by Brett Kavanaugh

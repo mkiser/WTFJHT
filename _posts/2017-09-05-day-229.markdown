@@ -9,6 +9,8 @@ tags:
 - climate
 - congress
 - mueller-investigation
+- voting-rights
+- foreign-policy
 description: Rescinded.
 image: "/uploads/229.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - immigration
 - presidential-election
+- foreign-policy
+- national-security
 description: '"A monster."'
 image: "/uploads/1404.jpg"
 todayInOneSentence: The General Services Administration formally recognized Biden

@@ -9,6 +9,8 @@ tags:
 - covid
 - china
 - state-of-the-union
+- congress
+- healthcare
 description: '"You don''t belong."'
 image: "/uploads/day-750-biden.jpg"
 todayInOneSentence: 'Biden’s address to Congress highlighted his accomplishments on

@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - polling
 - media
+- infrastructure
+- economy
 description: Ripped apart.
 image: "/uploads/210.jpg"
 ---

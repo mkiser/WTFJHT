@@ -9,6 +9,8 @@ tags:
 - economy
 - healthcare
 - congress
+- oversight
+- national-security
 description: '"Sufficient."'
 image: "/uploads/biden-day-792.jpg"
 todayInOneSentence: The Manhattan grand jury hearing evidence about Trump’s involvement

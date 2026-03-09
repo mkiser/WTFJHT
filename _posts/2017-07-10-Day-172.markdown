@@ -9,6 +9,8 @@ tags:
 - criminal-justice
 - national-security
 - congress
+- media
+- foreign-policy
 layout: post
 description: Damaging information.
 image:

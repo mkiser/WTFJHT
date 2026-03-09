@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - economy
 - taxes
+- supreme-court
+- nomination
 description: Transgressions.
 image: "/uploads/1244.jpg"
 todayInOneSentence: The FDA revoked the emergency use of hydroxychloroquine to treat

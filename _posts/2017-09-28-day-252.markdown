@@ -9,6 +9,8 @@ tags:
 - disinformation
 - congress
 - tech-policy
+- oversight
+- media
 description: No guarantees.
 image: "/uploads/252.jpg"
 ---

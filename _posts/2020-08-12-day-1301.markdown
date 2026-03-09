@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - economy
+- nomination
+- cabinet
 description: '"Serious consequences."'
 image: "/uploads/1301.jpg"
 todayInOneSentence: For the 16th consecutive day the U.S. has averaged over 1,000

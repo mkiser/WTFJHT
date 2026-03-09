@@ -9,6 +9,8 @@ tags:
 - immigration
 - trade
 - taxes
+- national-security
+- voting-rights
 layout: post
 description: Conflict of interest.
 image:

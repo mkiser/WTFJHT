@@ -9,6 +9,8 @@ tags:
 - climate
 - covid
 - congress
+- education
+- economy
 description: '"Not the case."'
 image: "/uploads/day-121-biden.jpg"
 todayInOneSentence: The House voted to create an independent commission to investigate

@@ -9,6 +9,8 @@ tags:
 - tariffs
 - civil-rights
 - economy
+- congress
+- taxes
 description: '"Because I have common sense."'
 image: "/uploads/day-1472-trump.jpg"
 todayInOneSentence: Trump blamed diversity, equity, and inclusion policies, Obama,

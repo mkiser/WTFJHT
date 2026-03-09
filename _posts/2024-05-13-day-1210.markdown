@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - jan-6
 - taxes
+- judiciary
+- civil-rights
 description: '"Just do it."'
 image: "/uploads/day-1210-biden.jpg"
 todayInOneSentence: Michael Cohen testified that Trump directed him to personally

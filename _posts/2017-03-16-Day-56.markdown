@@ -9,6 +9,8 @@ tags:
 - climate
 - national-security
 - congress
+- russia
+- economy
 layout: post
 description: Slashed.
 image:

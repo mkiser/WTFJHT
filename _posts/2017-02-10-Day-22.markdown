@@ -9,6 +9,8 @@ tags:
 - russia
 - healthcare
 - national-security
+- congress
+- trade
 layout: post
 description: Denials.
 image:

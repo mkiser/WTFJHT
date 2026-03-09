@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - lawsuit
 - government-shutdown
+- labor
+- judiciary
 description: '"Logical and reasonable."'
 image: "/uploads/day-1428-biden-trump.jpg"
 todayInOneSentence: A judge rejected Trump’s effort to have his felony conviction

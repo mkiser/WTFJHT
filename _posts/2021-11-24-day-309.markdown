@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - labor
+- energy
+- supreme-court
 description: '"Taking action."'
 image: "/uploads/day-309.jpg"
 todayInOneSentence: The Biden administration will require all foreign travelers crossing

@@ -9,6 +9,8 @@ tags:
 - resignation
 - congress
 - subpoena
+- immigration
+- economy
 description: 'Marching orders. '
 image: "/uploads/384.jpg"
 ---

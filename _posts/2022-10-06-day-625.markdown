@@ -9,6 +9,8 @@ tags:
 - energy
 - economy
 - covid
+- judiciary
+- supreme-court
 description: '"Historic fragility."'
 image: "/uploads/day-625-biden.jpg"
 todayInOneSentence: 'Biden pardoned anyone convicted of marijuana possession under

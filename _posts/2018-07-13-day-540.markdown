@@ -9,6 +9,8 @@ tags:
 - national-security
 - media
 - congress
+- indictment
+- protests
 description: Unwelcome.
 image: "/uploads/540.jpg"
 todayInOneSentence: Rosenstein announced 12 indictments against Russian intelligence

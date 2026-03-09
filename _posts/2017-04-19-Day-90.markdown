@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - healthcare
 - congress
+- economy
+- cabinet
 layout: post
 description: The sword stands ready.
 image:

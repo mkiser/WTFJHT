@@ -9,6 +9,8 @@ tags:
 - oversight
 - education
 - congress
+- economy
+- voting-rights
 description: '"An American issue."'
 image: "/uploads/day-63-biden.jpg"
 todayInOneSentence: 'Biden called on Congress to "immediately pass" legislation that

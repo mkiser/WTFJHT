@@ -9,6 +9,8 @@ tags:
 - covid
 - congress
 - climate
+- economy
+- national-security
 description: '"We must continue to fight."'
 image: "/uploads/day-414-biden.jpg"
 todayInOneSentence: The Pentagon rejected Poland's offer to transfer its MiG-29 fighter

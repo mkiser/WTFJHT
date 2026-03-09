@@ -9,6 +9,8 @@ tags:
 - healthcare
 - climate
 - mueller-investigation
+- congress
+- voting-rights
 layout: post
 description: Collective self-defense.
 image:

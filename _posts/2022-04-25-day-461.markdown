@@ -9,6 +9,8 @@ tags:
 - ukraine
 - corruption
 - media
+- congress
+- tech-policy
 description: '"Get organized."'
 image: "/uploads/day-461-biden.jpg"
 todayInOneSentence: 'A New York judge held Trump in contempt of court and fined him

@@ -9,6 +9,8 @@ tags:
 - national-security
 - congress
 - media
+- supreme-court
+- nomination
 description: '"Train wreck."'
 image: "/uploads/1345.jpg"
 todayInOneSentence: The United States surpassed 7 million confirmed cases of COVID-19;

@@ -9,6 +9,8 @@ tags:
 - economy
 - congress
 - polling
+- immigration
+- voting-rights
 description: Warriors.
 image: "/uploads/918.jpg"
 todayInOneSentence: The House Judiciary Committee will petition a federal judge to

@@ -9,6 +9,7 @@ tags:
 - russia
 - immigration
 - congress
+- national-security
 layout: post
 description: Planet B.
 image:

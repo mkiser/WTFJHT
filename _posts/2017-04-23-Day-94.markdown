@@ -9,6 +9,8 @@ tags:
 - national-security
 - taxes
 - voting-rights
+- polling
+- economy
 layout: post
 description: Rest easy.
 image:

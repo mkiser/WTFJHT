@@ -9,6 +9,8 @@ tags:
 - national-security
 - civil-rights
 - congress
+- israel-palestine
+- gun-policy
 description: '"It’s called democracy."'
 image: "/uploads/day-1189-biden.jpg"
 todayInOneSentence: 'On the fifth day of Trump’s election interference case involving

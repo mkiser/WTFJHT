@@ -7,6 +7,8 @@ tags:
 - healthcare
 - national-security
 - economy
+- nomination
+- labor
 description: '"Unrestricted power."'
 image: "/uploads/day-1492-trump.jpg"
 todayInOneSentence: Trump claimed that “He who saves his Country does not violate

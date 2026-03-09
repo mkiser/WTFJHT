@@ -9,6 +9,8 @@ tags:
 - oversight
 - congress
 - media
+- lawsuit
+- national-security
 description: A failure to abide.
 image: "/uploads/669.jpg"
 todayInOneSentence: The CIA concluded that Saudi Crown Prince Mohammed bin Salman

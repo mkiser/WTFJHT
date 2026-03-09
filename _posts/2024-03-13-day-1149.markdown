@@ -9,6 +9,7 @@ tags:
 - primary
 - voting-rights
 - congress
+- china
 description: '"Lack of detail."'
 image: "/uploads/day1149-biden.jpg"
 todayInOneSentence: A Georgia judge threw out six charges in the Georgia election

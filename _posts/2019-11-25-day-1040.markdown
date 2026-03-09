@@ -9,6 +9,8 @@ tags:
 - national-security
 - oversight
 - media
+- lawsuit
+- tech-policy
 description: Without reason.
 image: "/uploads/1040.jpg"
 todayInOneSentence: A federal judge ruled that the former White House counsel must

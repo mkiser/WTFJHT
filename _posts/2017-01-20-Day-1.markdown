@@ -9,6 +9,8 @@ tags:
 - healthcare
 - voting-rights
 - congress
+- nomination
+- polling
 layout: post
 description: How it begins.
 image: "/public/wtfjht-t.jpg"

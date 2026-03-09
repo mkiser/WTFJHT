@@ -9,6 +9,8 @@ tags:
 - national-security
 - energy
 - mueller-investigation
+- congress
+- education
 layout: post
 description: You're kidding.
 image:

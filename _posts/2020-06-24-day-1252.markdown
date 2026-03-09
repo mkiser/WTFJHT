@@ -9,6 +9,8 @@ tags:
 - congress
 - judiciary
 - economy
+- nomination
+- oversight
 description: '"A massive outbreak."'
 image: "/uploads/1252.jpg"
 todayInOneSentence: Coronavirus cases are accelerating across the U.S.; the Trump

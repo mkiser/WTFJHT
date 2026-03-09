@@ -9,6 +9,8 @@ tags:
 - tech-policy
 - russia
 - economy
+- indictment
+- media
 description: A shocking pattern of illegality.
 image: "/uploads/698.jpg"
 todayInOneSentence: Trump will close his foundation and give away its remaining $1.7

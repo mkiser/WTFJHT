@@ -9,6 +9,8 @@ tags:
 - corruption
 - voting-rights
 - national-security
+- congress
+- climate
 description: Downhill.
 image: "/uploads/950.jpg"
 todayInOneSentence: The Trump administration is pulling $155 million from FEMA's Disaster

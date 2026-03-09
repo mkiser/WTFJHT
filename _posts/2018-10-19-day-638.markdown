@@ -9,6 +9,8 @@ tags:
 - midterm-election
 - oversight
 - congress
+- indictment
+- mueller-investigation
 description: Discord.
 image: "/uploads/638.jpg"
 todayInOneSentence: The Justice Department charged a Russian national with conspiracy;

@@ -9,6 +9,8 @@ tags:
 - media
 - national-security
 - healthcare
+- economy
+- congress
 description: '"A very heavy price."'
 image: "/uploads/1168.jpg"
 todayInOneSentence: The national emergency stockpile of respirator masks, gloves,

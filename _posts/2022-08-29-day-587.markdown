@@ -9,6 +9,8 @@ tags:
 - jan-6
 - oversight
 - voting-rights
+- congress
+- media
 description: '"A lot of classified records."'
 image: "/uploads/day-587-biden.jpg"
 todayInOneSentence: 'The Justice Department identified "a limited set" of documents

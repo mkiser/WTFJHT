@@ -9,6 +9,8 @@ tags:
 - corruption
 - congress
 - immigration
+- criminal-justice
+- national-security
 description: '"Enabling white supremacy."'
 image: "/uploads/928.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - immigration
 - mueller-investigation
 - climate
+- national-security
+- congress
 description: Abuse of power.
 image: "/uploads/971.jpg"
 todayInOneSentence: The Trump administration will revoke California's right to set

@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - media
 - supreme-court
+- economy
+- foreign-policy
 description: '"There''s no strategy."'
 image: "/uploads/1240.jpg"
 todayInOneSentence: The Chairman of the Joint Chiefs of Staff did not tell the White

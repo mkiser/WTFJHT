@@ -9,6 +9,8 @@ tags:
 - ukraine
 - energy
 - subpoena
+- congress
+- voting-rights
 description: '"Headlines and sensationalization."'
 image: "/uploads/day-478-biden.jpg"
 todayInOneSentence: 'The Jan. 6 committee subpoenaed five House Republicans, including

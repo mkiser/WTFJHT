@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - economy
+- tech-policy
+- taxes
 description: Shutdown shut down.
 image: "/uploads/368.jpg"
 ---

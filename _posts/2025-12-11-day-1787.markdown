@@ -7,6 +7,8 @@ tags:
 - economy
 - covid
 - congress
+- voting-rights
+- nomination
 description: '"Wasting your time."'
 image: "/uploads/day1787trump.jpg"
 todayInOneSentence: The Senate rejected competing Democratic and Republican health

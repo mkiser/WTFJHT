@@ -9,6 +9,8 @@ tags:
 - energy
 - national-security
 - congress
+- voting-rights
+- tech-policy
 description: Cease and desist.
 image: "/uploads/350.jpg"
 ---

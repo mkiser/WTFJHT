@@ -24,6 +24,14 @@ podcast:
   file: "/uploads/Day 1862_ _Brink of disaster._.mp3"
   duration: '00:05:50'
   length: 5601532
+tags:
+- national-security
+- economy
+- congress
+- judiciary
+- trade
+- immigration
+- voting-rights
 ---
 
 1/ **Trump will deliver his first State of the Union of his second term with his approval rating near an all-time low, and polling showing that 55% of Americans disapprove of his job performance**. Trump is expected to use the prime-time speech to argue that the economy is “strong, prosperous and respected,” pointing to last year’s tax cuts, job growth, lower gasoline prices, and stock market gains as he tries to address affordability. The speech comes days after the Supreme Court struck down Trump’s tariffs, forcing him to retreat from his signature economic policy. Trump is also expected to frame his immigration crackdown as a success that "turned our country around from the brink of disaster" even federal agents killed two U.S. citizens in Minneapolis. The midterms are less than nine months away, and Republicans are defending narrow majorities in both the House and Senate. ([Associated Press](https://apnews.com/article/state-of-union-trump-takeaways-fec4b2cf2de394188b4b9e89d2d24de6) / [Wall Street Journal](https://www.wsj.com/politics/policy/trump-to-sell-the-economy-during-state-of-the-union-address-545483f1) / [ABC News](https://abcnews.com/Politics/state-union-trump-expected-tout-achievements-ahead-midterms/story?id=130387697) / [NBC News](https://www.nbcnews.com/politics/trump-administration/trump-heads-state-union-facing-diminished-voter-trust-economy-rcna259972) / [Politico](https://www.politico.com/news/2026/02/24/a-defensive-posture-trump-speaks-to-congress-on-shakier-ground-than-last-year-00793455) / [The Guardian](https://www.theguardian.com/us-news/2026/feb/24/trump-state-of-the-union-address) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-24/trump-to-make-economic-sales-pitch-to-congress-as-headwinds-grow) / [CNBC](https://www.cnbc.com/2026/02/24/sotu-trump-to-deliver-address-as-voters-sour-on-his-economy.html) / [NPR](https://www.npr.org/2026/02/24/nx-s1-5717048/trump-congress-state-union) / [New York Times](https://www.nytimes.com/2026/02/24/us/politics/trump-popularity-agenda-state-of-the-union.html) / [Silver Bulletin](https://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin))

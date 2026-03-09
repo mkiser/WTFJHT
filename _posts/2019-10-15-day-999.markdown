@@ -9,6 +9,8 @@ tags:
 - congress
 - economy
 - national-security
+- taxes
+- voting-rights
 description: An abomination.
 image: "/uploads/999.jpg"
 todayInOneSentence: The White House's former top Russia adviser told impeachment investigators

@@ -21,6 +21,14 @@ podcast:
   file: "/uploads/Day 1848_ _Now I see what the big deal is._.mp3"
   duration: '00:06:32'
   length: 6272356
+tags:
+- voting-rights
+- congress
+- immigration
+- covid
+- oversight
+- climate
+- national-security
 ---
 
 1/ **The Trump administration will rescind the EPA’s 2009 “endangerment finding,” stripping the core legal basis for federal limits on greenhouse gas pollution under the Clean Air Act**. EPA Administrator Lee Zeldin called it “the largest act of deregulation” in U.S. history. The administration said rescinding the 2009 endangerment finding would cut more than $1.3 trillion in regulations and lower costs for new vehicles by an average of more than $2,400 per vehicle, by ending federal requirements related to greenhouse gas standards for cars and trucks. Public health and environmental groups, meanwhile, said the EPA’s greenhouse gas rules have prevented hundreds of thousands of premature deaths each year, and warned that the rollback would increase climate pollution and lead to thousands of avoidable deaths. The rule will be finalized Thursday at a White House event. ([Wall Street Journal](https://www.wsj.com/politics/policy/trump-to-repeal-landmark-climate-finding-in-huge-regulatory-rollback-ff7d58db) / [Associated Press](https://apnews.com/article/trump-climate-change-rule-repeal-233228a5cf2a71f0ecbcd14281530706) / [Reuters](https://www.reuters.com/world/us/trump-repeal-landmark-climate-finding-huge-regulatory-rollback-wsj-reports-2026-02-10/) / [Axios](https://www.axios.com/2026/02/10/epa-endangerment-rescission) / [New York Times](https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html) / [CNBC](https://www.cnbc.com/2026/02/10/epa-revoke-endangerment-finding-climate-regulations.html) / [New York Times](https://www.nytimes.com/2026/02/10/climate/epa-endangerment-supreme-court.html) / [Politico](https://www.politico.com/news/2026/02/10/trump-revoke-climate-change-rules-00773418) / [Semafor](https://www.semafor.com/article/02/10/2026/epa-to-rescind-landmark-us-climate-policy))

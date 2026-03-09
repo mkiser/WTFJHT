@@ -7,6 +7,8 @@ tags:
 - economy
 - corruption
 - congress
+- immigration
+- voting-rights
 description: '"I’m going to fire your ass."'
 image: "/uploads/day1765trump.jpg"
 todayInOneSentence: 'The Justice Department admitted that the full grand jury never

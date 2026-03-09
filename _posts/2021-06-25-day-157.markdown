@@ -9,6 +9,8 @@ tags:
 - covid
 - congress
 - indictment
+- climate
+- media
 description: '"Particular cruelty."'
 image: "/uploads/day-157-biden-infrastructure.jpg"
 todayInOneSentence: The Justice Department filed a federal lawsuit against Georgia,

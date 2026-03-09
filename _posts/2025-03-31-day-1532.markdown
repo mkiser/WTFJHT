@@ -7,6 +7,8 @@ tags:
 - foreign-policy
 - national-security
 - labor
+- doge
+- media
 description: '"We’re going to boom."'
 image: "/uploads/day-1532.jpg"
 todayInOneSentence: 'Trump is “not joking” about seeking a third term; Trump confirmed

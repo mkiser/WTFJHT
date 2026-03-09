@@ -9,6 +9,8 @@ tags:
 - judiciary
 - congress
 - media
+- oversight
+- russia
 description: Very unfair.
 image: "/uploads/182.jpg"
 ---

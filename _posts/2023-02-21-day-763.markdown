@@ -9,6 +9,8 @@ tags:
 - economy
 - russia
 - media
+- foreign-policy
+- education
 description: '"Plot twist."'
 image: "/uploads/day-763-biden.jpg"
 todayInOneSentence: 'The U.S. formally accused Russia of committing crimes against

@@ -9,6 +9,8 @@ tags:
 - impeachment
 - congress
 - national-security
+- trade
+- indictment
 description: Dramatic impact.
 image: "/uploads/924.jpg"
 todayInOneSentence: Trump unexpectedly announced that he will impose a new 10% tariff

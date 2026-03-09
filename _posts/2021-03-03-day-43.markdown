@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - national-security
+- oversight
+- voting-rights
 description: '"Neanderthal thinking."'
 image: "/uploads/43-biden.jpg"
 todayInOneSentence: 'Biden called Texas Gov. Greg Abbott''s decision to relax coronavirus

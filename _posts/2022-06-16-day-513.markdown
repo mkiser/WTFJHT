@@ -9,6 +9,8 @@ tags:
 - lgbtq-rights
 - supreme-court
 - indictment
+- congress
+- oversight
 description: '"A heated fight."'
 image: "/uploads/day-513-biden.jpg"
 tag_excerpts:

@@ -9,6 +9,8 @@ tags:
 - covid
 - media
 - mueller-investigation
+- foreign-policy
+- resignation
 description: 'Bunker boy. '
 image: "/uploads/1229.jpg"
 todayInOneSentence: After a weekend out of sight, Trump emerged from the White House

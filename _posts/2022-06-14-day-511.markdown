@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - economy
+- labor
+- nomination
 description: '"Never been more optimistic."'
 image: "/uploads/day-511-biden.jpg"
 todayInOneSentence: Attorney General William Barr told the Jan. 6 committee that Trump

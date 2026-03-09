@@ -9,6 +9,8 @@ tags:
 - national-security
 - trade
 - congress
+- ukraine
+- media
 description: '"Nothing to see here."'
 image: "/uploads/993.jpg"
 todayInOneSentence: Turkey launched an attack on the Kurds after Trump pulled U.S.

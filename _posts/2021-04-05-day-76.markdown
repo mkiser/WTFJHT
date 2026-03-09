@@ -9,6 +9,8 @@ tags:
 - taxes
 - congress
 - supreme-court
+- economy
+- protests
 description: '"Consequences."'
 image: "/uploads/76-biden.jpg"
 todayInOneSentence: A record 4 million people in the U.S. received a coronavirus vaccine

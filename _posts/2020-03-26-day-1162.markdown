@@ -9,6 +9,8 @@ tags:
 - economy
 - labor
 - national-security
+- lgbtq-rights
+- indictment
 description: '"We may well be in a recession."'
 image: "/uploads/1162.jpg"
 todayInOneSentence: A record 3.28 million Americans filed for unemployment benefits

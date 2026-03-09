@@ -9,6 +9,8 @@ tags:
 - healthcare
 - covid
 - taxes
+- congress
+- debt-ceiling
 description: '"This is bullshit."'
 image: "/uploads/day-330-manchin-biden.jpg"
 todayInOneSentence: Talks between Biden and Joe Manchin reportedly soured over the

@@ -9,6 +9,8 @@ tags:
 - ukraine
 - congress
 - subpoena
+- national-security
+- taxes
 description: Threatened.
 image: "/uploads/1019.jpg"
 todayInOneSentence: Interview notes from Robert Mueller's special counsel investigation

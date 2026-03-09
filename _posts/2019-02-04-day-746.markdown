@@ -9,6 +9,8 @@ tags:
 - immigration
 - nomination
 - oversight
+- ethics
+- congress
 description: Willful ignorance.
 image: "/uploads/746.jpg"
 todayInOneSentence: Trump said he doesn't "have to agree" with his intelligence chiefs'

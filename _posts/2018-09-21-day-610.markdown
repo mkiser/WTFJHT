@@ -9,6 +9,8 @@ tags:
 - oversight
 - congress
 - national-security
+- immigration
+- russia
 description: As bad as she says.
 image: "/uploads/610.jpg"
 todayInOneSentence: Trump questioned Dr. Ford's credibility; the Senate Judiciary

@@ -9,6 +9,8 @@ tags:
 - ethics
 - lawsuit
 - classified-documents
+- national-security
+- media
 description: '"Proportionate."'
 image: "/uploads/day-994-biden.jpg"
 todayInOneSentence: 'Biden condemned Hamas'' attack on Israel, saying “this is terrorism”

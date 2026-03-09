@@ -9,6 +9,8 @@ tags:
 - classified-documents
 - judiciary
 - indictment
+- voting-rights
+- national-security
 description: '"Step up."'
 image: "/uploads/day-967-biden.jpg"
 todayInOneSentence: Inflation accelerated for a second consecutive month; a federal

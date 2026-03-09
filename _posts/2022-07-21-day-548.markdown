@@ -9,6 +9,8 @@ tags:
 - reproductive-rights
 - congress
 - economy
+- oversight
+- media
 description: '"Folks, I''m doing great."'
 image: "/uploads/day-548-biden.jpg"
 todayInOneSentence: 'Biden tested positive for Covid-19; the Jan. 6 committee will

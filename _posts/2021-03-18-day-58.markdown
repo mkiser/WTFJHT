@@ -9,6 +9,8 @@ tags:
 - russia
 - voting-rights
 - oversight
+- national-security
+- congress
 description: '"Strings attached."'
 image: "/uploads/biden-harris-58.jpg"
 todayInOneSentence: The U.S. is on track to surpass Biden's goal of administering

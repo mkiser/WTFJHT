@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - congress
 - nomination
+- primary
+- oversight
 description: '"Excited the country."'
 image: "/uploads/day-1280-biden.jpg"
 todayInOneSentence: Harris applauded Biden and his "legacy of accomplishment over

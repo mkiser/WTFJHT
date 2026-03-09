@@ -9,6 +9,8 @@ tags:
 - voting-rights
 - national-security
 - congress
+- economy
+- presidential-election
 description: '"The party of inclusion."'
 image: "/uploads/day-1378-biden-harris.jpg"
 todayInOneSentence: Trump called the United States a "garbage can for the world";

@@ -9,6 +9,8 @@ tags:
 - foreign-policy
 - israel-palestine
 - national-security
+- covid
+- congress
 description: '"A common thing to do."'
 image: "/uploads/day-1469-trump.jpg"
 todayInOneSentence: The Justice Department fired more than a dozen officials who worked

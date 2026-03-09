@@ -9,6 +9,8 @@ tags:
 - russia
 - disinformation
 - congress
+- mueller-investigation
+- tech-policy
 description: An act of pure evil.
 image: "/uploads/256.jpg"
 ---

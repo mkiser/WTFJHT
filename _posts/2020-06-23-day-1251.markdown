@@ -9,6 +9,8 @@ tags:
 - mueller-investigation
 - indictment
 - protests
+- criminal-justice
+- congress
 description: '"Mixed bag."'
 image: "/uploads/1251.jpg"
 todayInOneSentence: Dr. Anthony Fauci told lawmakers "None of us have ever been told

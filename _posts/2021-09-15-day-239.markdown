@@ -9,6 +9,8 @@ tags:
 - covid
 - economy
 - supreme-court
+- judiciary
+- congress
 description: '"Democracy can be sloppy."'
 image: "/uploads/day-239-covid-biden.jpg"
 todayInOneSentence: 'The Justice Department asked a federal judge to block enforcement

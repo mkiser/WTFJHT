@@ -9,6 +9,8 @@ tags:
 - russia
 - media
 - congress
+- immigration
+- national-security
 description: 'Speaks for himself. '
 image: "/uploads/221.jpg"
 ---

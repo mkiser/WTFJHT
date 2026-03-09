@@ -9,6 +9,8 @@ tags:
 - protests
 - immigration
 - congress
+- voting-rights
+- tech-policy
 description: A movement, not a moment.
 image: "/uploads/419.jpg"
 ---

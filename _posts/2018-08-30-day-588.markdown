@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - china
+- education
+- trade
 description: Shape up.
 image: "/uploads/588.jpg"
 todayInOneSentence: The Trump administration has been denying passports to U.S. citizens;

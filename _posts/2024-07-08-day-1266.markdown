@@ -9,6 +9,8 @@ tags:
 - climate
 - indictment
 - congress
+- voting-rights
+- infrastructure
 description: '"We have one job."'
 image: "/uploads/day-1266-biden.jpg"
 todayInOneSentence: Biden told congressional Democrats that he was committed to “running

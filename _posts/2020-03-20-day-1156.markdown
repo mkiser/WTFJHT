@@ -9,6 +9,8 @@ tags:
 - ethics
 - congress
 - media
+- foreign-policy
+- education
 description: '"The only thing we weren''t prepared for."'
 image: "/uploads/1156.jpg"
 todayInOneSentence: Senate Republican and Democratic negotiators, as well as senior

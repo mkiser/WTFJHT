@@ -9,6 +9,8 @@ tags:
 - healthcare
 - congress
 - foreign-policy
+- polling
+- media
 description: 'Locked and loaded, or whatever. '
 image: "/uploads/204.jpg"
 ---

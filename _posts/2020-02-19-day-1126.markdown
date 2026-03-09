@@ -9,6 +9,8 @@ tags:
 - congress
 - ukraine
 - media
+- cabinet
+- impeachment
 description: Cleaning house.
 image: "/uploads/1126.jpg"
 tag_excerpts:

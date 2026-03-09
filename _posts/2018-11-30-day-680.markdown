@@ -9,6 +9,8 @@ tags:
 - indictment
 - media
 - cabinet
+- congress
+- healthcare
 description: Peripheral awareness.
 image: "/uploads/680.jpg"
 todayInOneSentence: Trump Jr.'s Senate Judiciary Committee testimony conflicts with

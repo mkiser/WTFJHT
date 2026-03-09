@@ -9,6 +9,8 @@ tags:
 - media
 - trade
 - tariffs
+- economy
+- taxes
 description: '"Totally unacceptable."'
 image: "/uploads/498.jpg"
 todayInOneSentence: U.S. allies are retaliating against Trump's new metal tariffs

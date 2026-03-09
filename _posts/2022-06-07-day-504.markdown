@@ -9,6 +9,8 @@ tags:
 - jan-6
 - presidential-election
 - national-security
+- congress
+- covid
 description: '"Heightened threat environment."'
 image: "/uploads/day-504-biden.jpg"
 todayInOneSentence: The World Bank warned that the global economy may be headed for

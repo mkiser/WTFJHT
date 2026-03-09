@@ -9,6 +9,8 @@ tags:
 - national-security
 - disinformation
 - congress
+- economy
+- media
 description: '"Fabrication of lies."'
 image: "/uploads/day-419-biden.jpg"
 todayInOneSentence: 'NATO Secretary General warned that Russia’s false claim that

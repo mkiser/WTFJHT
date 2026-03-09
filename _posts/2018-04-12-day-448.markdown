@@ -9,6 +9,8 @@ tags:
 - national-security
 - corruption
 - congress
+- education
+- judiciary
 description: 'Retroactive privilege. '
 image: "/uploads/448.jpg"
 ---

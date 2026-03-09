@@ -7,6 +7,8 @@ tags:
 - healthcare
 - oversight
 - protests
+- media
+- covid
 description: '"They want a spectacle."'
 image: "/uploads/day1602-trump.jpg"
 todayInOneSentence: California sued the Trump administration for deploying 2,000 National

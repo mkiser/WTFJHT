@@ -9,6 +9,8 @@ tags:
 - media
 - indictment
 - cabinet
+- congress
+- national-security
 description: Inadequate.
 image: "/uploads/819.jpg"
 ---

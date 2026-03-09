@@ -9,6 +9,8 @@ tags:
 - economy
 - media
 - mueller-investigation
+- taxes
+- national-security
 description: '"That''s not prevailing."'
 image: "/uploads/1209.jpg"
 todayInOneSentence: Dr. Anthony Fauci warned the Senate that reopening the country

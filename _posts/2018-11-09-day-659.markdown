@@ -9,6 +9,8 @@ tags:
 - immigration
 - nomination
 - media
+- climate
+- supreme-court
 description: Inconvenient facts.
 image: "/uploads/659.jpg"
 todayInOneSentence: Trump was involved in "nearly every step" of the hush-money payments

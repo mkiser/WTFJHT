@@ -9,6 +9,8 @@ tags:
 - climate
 - immigration
 - economy
+- protests
+- congress
 layout: post
 description: Skepticism.
 image:

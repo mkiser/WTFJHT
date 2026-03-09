@@ -9,6 +9,8 @@ tags:
 - ukraine
 - indictment
 - jan-6
+- congress
+- labor
 description: '"Substantial."'
 image: "/uploads/day-512-biden.jpg"
 todayInOneSentence: The Federal Reserve raised interest rates by 75 basis points;

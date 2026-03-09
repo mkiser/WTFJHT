@@ -9,6 +9,8 @@ tags:
 - census
 - supreme-court
 - israel-palestine
+- congress
+- taxes
 description: Defiant.
 image: "/uploads/824.jpg"
 todayInOneSentence: The White House instructed a former security clearance official

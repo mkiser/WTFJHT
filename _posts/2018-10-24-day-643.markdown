@@ -9,6 +9,8 @@ tags:
 - congress
 - voting-rights
 - supreme-court
+- national-security
+- oversight
 description: Despicable acts.
 image: "/uploads/643.jpg"
 todayInOneSentence: Packages containing "potential explosive devices" were sent to

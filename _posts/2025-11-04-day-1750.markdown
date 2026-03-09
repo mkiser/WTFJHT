@@ -7,6 +7,8 @@ tags:
 - congress
 - economy
 - media
+- voting-rights
+- foreign-policy
 description: '"A living hell."'
 image: "/uploads/day1750trump.jpg"
 todayInOneSentence: At 35 days, the federal shutdown has tied the record for the longest

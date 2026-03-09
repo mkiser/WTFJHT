@@ -9,6 +9,8 @@ tags:
 - immigration
 - congress
 - russia
+- criminal-justice
+- mueller-investigation
 description: Tremendous relationships.
 image: "/uploads/538.jpg"
 todayInOneSentence: Trump accused Germany of being "totally controlled" and "a captive

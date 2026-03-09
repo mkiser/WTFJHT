@@ -9,6 +9,8 @@ tags:
 - civil-rights
 - indictment
 - education
+- russia
+- foreign-policy
 description: '"Wishful and irresponsible."'
 image: "/uploads/day1127-biden.jpg"
 todayInOneSentence: For the third time, the U.S. vetoed a United Nations Security

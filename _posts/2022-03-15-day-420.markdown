@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - climate
+- supreme-court
+- economy
 description: '"Not a close call."'
 image: "/uploads/day-420-biden.jpg"
 todayInOneSentence: 'The White House will wind down a Covid-19 program that pays to

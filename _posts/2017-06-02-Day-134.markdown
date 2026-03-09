@@ -9,6 +9,8 @@ tags:
 - national-security
 - oversight
 - mueller-investigation
+- congress
+- foreign-policy
 layout: post
 description: Showdown supreme.
 image:

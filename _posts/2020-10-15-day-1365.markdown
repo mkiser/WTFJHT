@@ -9,6 +9,8 @@ tags:
 - economy
 - media
 - nomination
+- voting-rights
+- supreme-court
 description: '"Pretty close to airtight."'
 image: "/uploads/1365.jpg"
 todayInOneSentence: Another 898,000 workers filed for unemployment benefits last week;

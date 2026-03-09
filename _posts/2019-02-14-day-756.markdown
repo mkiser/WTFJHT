@@ -9,6 +9,8 @@ tags:
 - nomination
 - national-security
 - congress
+- indictment
+- oversight
 description: Emergency declaration.
 image: "/uploads/756.jpg"
 todayInOneSentence: Trump will declare a national emergency to build his border wall

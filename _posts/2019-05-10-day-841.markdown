@@ -9,6 +9,8 @@ tags:
 - trade
 - housing
 - media
+- taxes
+- national-security
 description: No Rush.
 image: "/uploads/841.jpg"
 todayInOneSentence: The House Ways and Mean Committee subpoenaed Treasury Secretary

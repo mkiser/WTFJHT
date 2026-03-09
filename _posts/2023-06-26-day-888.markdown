@@ -9,6 +9,8 @@ tags:
 - infrastructure
 - immigration
 - ethics
+- congress
+- indictment
 description: '"Extraordinarily unusual."'
 image: "/uploads/day-888-biden-trump.jpg"
 todayInOneSentence: 'The Supreme Court dismissed Louisiana’s effort to block the creation

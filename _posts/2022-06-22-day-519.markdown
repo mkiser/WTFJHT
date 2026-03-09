@@ -9,6 +9,8 @@ tags:
 - economy
 - congress
 - national-security
+- energy
+- supreme-court
 description: '"Breathing room."'
 image: "/uploads/day-519-biden.jpg"
 todayInOneSentence: The Jan. 6 committee will delay its public hearings for several

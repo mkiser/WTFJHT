@@ -9,6 +9,8 @@ tags:
 - tariffs
 - gun-policy
 - mueller-investigation
+- congress
+- economy
 description: No one listened.
 image: "/uploads/406.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - israel-palestine
 - mueller-investigation
 - congress
+- subpoena
+- immigration
 description: Fantastic.
 image: "/uploads/938.jpg"
 todayInOneSentence: The House Judiciary Committee subpoenaed Corey Lewandowski; Trump

@@ -9,6 +9,7 @@ tags:
 - oversight
 - resignation
 - tech-policy
+- media
 description: Cone of uncertainty.
 image: "/uploads/953.jpg"
 todayInOneSentence: Trump's longtime personal assistant was fired after bragging to

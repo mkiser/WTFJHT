@@ -9,6 +9,8 @@ tags:
 - indictment
 - criminal-justice
 - russia
+- immigration
+- judiciary
 description: Everybody out.
 image: "/uploads/699.jpg"
 todayInOneSentence: Document show Trump signed a letter of intent to build a Trump

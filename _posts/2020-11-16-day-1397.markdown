@@ -9,6 +9,8 @@ tags:
 - media
 - presidential-election
 - national-security
+- nomination
+- economy
 description: '"More people may die."'
 image: "/uploads/1397.jpg"
 todayInOneSentence: More than 1 in 400 Americans tested positive for the coronavirus

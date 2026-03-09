@@ -9,6 +9,8 @@ tags:
 - labor
 - economy
 - indictment
+- congress
+- national-security
 description: '"Big problems."'
 image: "/uploads/day-604-biden.jpg"
 todayInOneSentence: 'Florida Gov. Ron DeSantis shipped about 50 migrants to Martha’s

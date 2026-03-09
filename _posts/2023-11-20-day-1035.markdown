@@ -9,6 +9,8 @@ tags:
 - energy
 - israel-palestine
 - foreign-policy
+- national-security
+- judiciary
 description: '"Not enough action."'
 image: "/uploads/day-1035-biden.jpg"
 todayInOneSentence: 'A federal appeals court ruled that only the federal government

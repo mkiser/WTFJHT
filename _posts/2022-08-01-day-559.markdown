@@ -9,6 +9,8 @@ tags:
 - congress
 - china
 - criminal-justice
+- indictment
+- national-security
 description: '"Playing with fire."'
 image: "/uploads/day-559-biden.jpg"
 tag_excerpts:

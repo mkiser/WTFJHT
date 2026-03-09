@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - economy
+- nomination
+- taxes
 description: Aggressive and belligerent.
 image: "/uploads/617.jpg"
 todayInOneSentence: The Senate Judiciary Committee voted 11-10 to approve Kavanaugh's

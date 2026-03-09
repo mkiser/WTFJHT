@@ -9,6 +9,8 @@ tags:
 - corruption
 - congress
 - taxes
+- media
+- healthcare
 description: 'Not inclined. '
 image: "/uploads/804.jpg"
 todayInOneSentence: House Democrats formally requested six years of Trump's personal

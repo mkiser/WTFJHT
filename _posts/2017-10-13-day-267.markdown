@@ -9,6 +9,8 @@ tags:
 - immigration
 - climate
 - congress
+- national-security
+- voting-rights
 description: Imploding broken mess.
 image: "/uploads/267.jpg"
 ---

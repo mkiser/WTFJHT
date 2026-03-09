@@ -7,6 +7,8 @@ tags:
 - tariffs
 - education
 - media
+- trade
+- economy
 description: '"Bribery in plain sight."'
 image: "/uploads/day1625trump.jpg"
 todayInOneSentence: Trump’s $4.5 trillion tax and spending bill stalled in the House

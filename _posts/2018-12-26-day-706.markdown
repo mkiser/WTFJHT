@@ -9,6 +9,7 @@ tags:
 - cabinet
 - congress
 - indictment
+- economy
 description: Favors.
 image: "/uploads/706.jpg"
 ---

@@ -9,6 +9,8 @@ tags:
 - energy
 - lawsuit
 - russia
+- supreme-court
+- judiciary
 description: '"That''s unfortunate."'
 image: "/uploads/day1129biden.jpg"
 todayInOneSentence: A third Alabama fertility clinic stopped its vitro fertilization

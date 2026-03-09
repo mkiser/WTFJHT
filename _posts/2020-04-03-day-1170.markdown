@@ -9,6 +9,8 @@ tags:
 - corruption
 - healthcare
 - economy
+- labor
+- media
 description: '"You don''t have to do it."'
 image: "/uploads/1170.jpg"
 todayInOneSentence: The CDC recommends all Americans wear simple “non-medical, cloth”

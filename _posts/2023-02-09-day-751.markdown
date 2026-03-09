@@ -9,6 +9,8 @@ tags:
 - judiciary
 - foreign-policy
 - supreme-court
+- congress
+- russia
 description: '"Brazen."'
 image: "/uploads/day-751-biden.jpg"
 todayInOneSentence: The Chinese spy balloon carried antennas and sensors for collecting

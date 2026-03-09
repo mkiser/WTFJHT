@@ -9,6 +9,8 @@ tags:
 - russia
 - indictment
 - criminal-justice
+- congress
+- media
 description: You can do it.
 image: "/uploads/582.jpg"
 todayInOneSentence: 'The CFO at the Trump Organization was given immunity by federal

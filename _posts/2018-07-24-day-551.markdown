@@ -9,6 +9,8 @@ tags:
 - russia
 - mueller-investigation
 - national-security
+- polling
+- judiciary
 description: Concerned.
 image: "/uploads/551.jpg"
 todayInOneSentence: The Trump administration will provide over $12 billion in emergency

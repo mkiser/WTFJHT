@@ -9,6 +9,8 @@ tags:
 - congress
 - media
 - oversight
+- national-security
+- tech-policy
 description: '"They knew what was happening and they didn''t tell you."'
 image: "/uploads/1358.jpg"
 todayInOneSentence: 'Pence repeatedly interrupted Kamala Harris, ignored the moderator,

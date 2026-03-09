@@ -9,6 +9,8 @@ tags:
 - congress
 - national-security
 - mueller-investigation
+- economy
+- media
 description: A total waste of time.
 image: "/uploads/382.jpg"
 ---

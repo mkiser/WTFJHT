@@ -9,6 +9,8 @@ tags:
 - tech-policy
 - climate
 - congress
+- immigration
+- resignation
 description: '"Hostile actions."'
 image: "/uploads/931.jpg"
 todayInOneSentence: The White House refused requests by Homeland Security for more

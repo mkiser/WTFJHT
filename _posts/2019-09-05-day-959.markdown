@@ -9,6 +9,8 @@ tags:
 - immigration
 - israel-palestine
 - judiciary
+- education
+- trade
 description: The ultimate deal.
 image: "/uploads/959.jpg"
 todayInOneSentence: The Pentagon will divert funding from military construction projects

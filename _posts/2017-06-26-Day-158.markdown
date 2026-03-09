@@ -9,6 +9,8 @@ tags:
 - national-security
 - healthcare
 - corruption
+- congress
+- russia
 layout: post
 description: Reinstated.
 image:

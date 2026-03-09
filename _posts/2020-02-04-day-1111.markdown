@@ -9,6 +9,8 @@ tags:
 - polling
 - national-security
 - state-of-the-union
+- economy
+- tech-policy
 description: An unmitigated disaster.
 image: "/uploads/1111.jpg"
 todayInOneSentence: Trump will deliver his State of the Union address tonight at 9

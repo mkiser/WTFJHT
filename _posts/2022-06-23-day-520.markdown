@@ -9,6 +9,8 @@ tags:
 - congress
 - gun-policy
 - lgbtq-rights
+- supreme-court
+- voting-rights
 description: '"Substantial misconduct."'
 image: "/uploads/day-520-biden.jpg"
 tag_excerpts:

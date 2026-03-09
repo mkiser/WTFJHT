@@ -9,6 +9,8 @@ tags:
 - ethics
 - mueller-investigation
 - congress
+- russia
+- china
 layout: post
 description: Tweaks.
 image:

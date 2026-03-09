@@ -9,6 +9,8 @@ tags:
 - jan-6
 - congress
 - economy
+- indictment
+- national-security
 description: '"No choice."'
 image: "/uploads/day-323-biden.jpg"
 todayInOneSentence: Preliminary laboratory tests suggest that three doses of the Pfizer

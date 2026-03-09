@@ -9,6 +9,8 @@ tags:
 - russia
 - economy
 - trade
+- congress
+- polling
 description: Admired.
 image: "/uploads/1075.jpg"
 todayInOneSentence: Acting White House chief of staff Mick Mulvaney was warned that

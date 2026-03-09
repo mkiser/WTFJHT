@@ -9,6 +9,8 @@ tags:
 - economy
 - congress
 - supreme-court
+- national-security
+- labor
 description: '"Almost un-American."'
 image: "/uploads/day-227.jpg"
 todayInOneSentence: Joe Manchin demanded that Democrats "pause" on advancing Biden’s

@@ -70,6 +70,7 @@ sitemap: false
   var q = params.get('q') || '';
   var t = params.get('t') || '';
   var v = params.get('v') || '';
+  var p = params.get('p') || '';          
 
   var content = document.getElementById('pulse-content');
   var banner = document.getElementById('pulse-banner');
@@ -145,6 +146,7 @@ sitemap: false
       q: q,
       t: t,
       v: v,
+      p: p,
       note: note,
       website: document.getElementById('pulse-website').value,
       _rendered: pageLoadTime

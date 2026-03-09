@@ -1,0 +1,190 @@
+---
+title: Thanks
+layout: page
+description: Thanks for your feedback.
+show_title: false
+sitemap: false
+---
+
+<div class="pulse-thanks">
+  <noscript>
+    <div class="pulse-banner">
+      {% include icons.html icon="check-circle" %}
+      <span class="pulse-banner-text">Thank you. Your feedback has been recorded.</span>
+    </div>
+  </noscript>
+
+  <div id="pulse-content" style="display:none">
+
+    <!-- Vote confirmation banner -->
+    <div id="pulse-banner" class="pulse-banner">
+      {% include icons.html icon="check-circle" %}
+      <span id="pulse-banner-text" class="pulse-banner-text"></span>
+    </div>
+
+    <!-- Heading with emoji -->
+    <div id="pulse-heading" class="pulse-heading">
+      <span id="pulse-emoji" class="pulse-emoji"></span>
+      <h1 id="pulse-title"></h1>
+    </div>
+
+    <!-- Follow-up form -->
+    <div id="pulse-form-section">
+      <p id="pulse-prompt" class="pulse-prompt"></p>
+      <form id="pulse-form" novalidate>
+        <textarea id="pulse-note" class="pulse-textarea" maxlength="2000"
+          minlength="5" placeholder="Optional — share your thoughts"
+          aria-labelledby="pulse-prompt"></textarea>
+        <div class="pulse-meta">
+          <span id="pulse-counter" class="pulse-counter">2,000 characters remaining</span>
+          <button type="submit" class="pulse-btn" id="pulse-submit" disabled>Send feedback</button>
+        </div>
+        <div class="pulse-hp" aria-hidden="true">
+          <label for="pulse-website">Website</label>
+          <input type="text" id="pulse-website" name="website" tabindex="-1" autocomplete="off">
+        </div>
+      </form>
+      <div id="pulse-error" class="pulse-status" style="display:none"></div>
+    </div>
+
+    <!-- Success state after form submission -->
+    <div id="pulse-success" style="display:none">
+      <div class="pulse-success">
+        {% include icons.html icon="check-circle" %}
+        <span>Thanks! Your feedback has been recorded.</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+(function () {
+  var API_URL = 'https://whatthefuckjusthappenedtoday.com/api/pulse';
+  var pageLoadTime = Date.now();
+  var submitted = false;
+
+  var params = new URLSearchParams(window.location.search);
+  var ed = params.get('ed') || '';
+  var s = params.get('s') || '';
+  var q = params.get('q') || '';
+  var t = params.get('t') || '';
+  var v = params.get('v') || '';
+
+  var content = document.getElementById('pulse-content');
+  var banner = document.getElementById('pulse-banner');
+  var bannerText = document.getElementById('pulse-banner-text');
+  var heading = document.getElementById('pulse-heading');
+  var emojiEl = document.getElementById('pulse-emoji');
+  var titleEl = document.getElementById('pulse-title');
+  var formSection = document.getElementById('pulse-form-section');
+  var form = document.getElementById('pulse-form');
+  var noteField = document.getElementById('pulse-note');
+  var counter = document.getElementById('pulse-counter');
+  var submitBtn = document.getElementById('pulse-submit');
+  var errorEl = document.getElementById('pulse-error');
+  var successEl = document.getElementById('pulse-success');
+
+  var emojiMap = { up: '\uD83D\uDC4D', meh: '\uD83D\uDE10', down: '\uD83D\uDC4E' };
+  var promptMap = {
+    up: 'Glad you liked it! Anything specific that stood out?',
+    meh: 'Fair enough. What would make it better?',
+    down: 'Sorry to hear that. What could we improve?'
+  };
+
+  // No required params — generic message, no form
+  if (!s || !q || !ed) {
+    bannerText.textContent = 'Thanks for reading WTFJHT!';
+    heading.style.display = 'none';
+    formSection.style.display = 'none';
+    content.style.display = 'block';
+    return;
+  }
+
+  // Vote confirmation banner
+  bannerText.textContent = 'Thank you. Your feedback has been recorded.';
+
+  // Emoji + title
+  if (t === 'feedback' && emojiMap[v]) {
+    emojiEl.textContent = emojiMap[v];
+    titleEl.textContent = 'Want to say more?';
+  } else {
+    emojiEl.textContent = '';
+    titleEl.textContent = 'Thanks for voting!';
+  }
+
+  // Follow-up prompt
+  var prompt = document.getElementById('pulse-prompt');
+  prompt.textContent = (t === 'feedback' && promptMap[v]) ? promptMap[v] : 'Want to tell us more about your choice?';
+
+  content.style.display = 'block';
+
+  // Character counter + submit enable/disable
+  noteField.addEventListener('input', function () {
+    var remaining = 2000 - this.value.length;
+    counter.textContent = remaining.toLocaleString() + ' characters remaining';
+    submitBtn.disabled = this.value.trim().length < 5 || submitted;
+  });
+
+  // Form submission
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (submitted) return;
+
+    var note = noteField.value.trim();
+    if (note.length < 5 || note.length > 2000) return;
+
+    submitted = true;
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending\u2026';
+    errorEl.style.display = 'none';
+
+    var payload = {
+      ed: ed,
+      s: s,
+      q: q,
+      t: t,
+      v: v,
+      note: note,
+      website: document.getElementById('pulse-website').value,
+      _rendered: pageLoadTime
+    };
+
+    fetch(API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    })
+      .then(function (res) {
+        return res.json().then(function (data) { return { status: res.status, data: data }; });
+      })
+      .then(function (result) {
+        if (result.data.ok) {
+          banner.style.display = 'none';
+          heading.style.display = 'none';
+          formSection.style.display = 'none';
+          successEl.style.display = 'block';
+        } else if (result.status === 429) {
+          submitted = false;
+          errorEl.textContent = "You\u2019ve sent a few already \u2014 try again later.";
+          errorEl.style.display = 'block';
+          submitBtn.disabled = false;
+          submitBtn.textContent = 'Send feedback';
+        } else {
+          submitted = false;
+          errorEl.textContent = 'Something went wrong. Try again?';
+          errorEl.style.display = 'block';
+          submitBtn.disabled = false;
+          submitBtn.textContent = 'Send feedback';
+        }
+      })
+      .catch(function () {
+        submitted = false;
+        errorEl.textContent = "Couldn\u2019t reach the server. Try again?";
+        errorEl.style.display = 'block';
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Send feedback';
+      });
+  });
+})();
+</script>

@@ -40,7 +40,7 @@
 
   function isAbbreviation(textBefore) {
     var match = textBefore.match(/\b([A-Za-z]+)$/);
-    if (!match) return true;
+    if (!match) return false;
     var word = match[1];
     if (word.length <= 2) return true;
     for (var i = 0; i < ABBREVIATIONS.length; i++) {

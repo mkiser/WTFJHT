@@ -10,6 +10,24 @@ article.post div.post-content > p {
   font-weight: 400;
   font-style: normal;
   font-size: 1.1rem;
+
+  strong {
+    color: #000;
+  }
+
+  a:not(.anchorjs-link) {
+    text-decoration: underline;
+    text-decoration-color: rgba(231, 76, 60, 0.4);
+    text-underline-offset: 0.2em;
+
+    &:hover {
+      text-decoration-color: $link-color;
+    }
+  }
+
+  .anchorjs-link {
+    text-decoration: none;
+  }
 }
 
 // "Today in one sentence" summary block
@@ -140,17 +158,32 @@ article.post div.post-content > p {
   
   li {
     font-size: 0.95em;
-    color: $gray-4;
+    color: $body-color;
     list-style: none;
     line-height: 1.5;
+
+    strong {
+      color: #000;
+    }
 
       .jekyll-twitter-plugin,
       blockquote {
         margin-left: 0;
       }
 
-    a {
+    a:not(.anchorjs-link) {
       color: $link-color;
+      text-decoration: underline;
+      text-decoration-color: rgba(231, 76, 60, 0.4);
+      text-underline-offset: 0.2em;
+
+      &:hover {
+        text-decoration-color: $link-color;
+      }
+    }
+
+    .anchorjs-link {
+      text-decoration: none;
     }
   }
 

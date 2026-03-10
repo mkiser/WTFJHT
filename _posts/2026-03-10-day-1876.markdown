@@ -19,6 +19,10 @@ todayInOneSentence: Seven U.S. service members have been killed and 140 troops h
   and a whistleblower complaint alleges that a former DOGE engineer copied two Social
   Security databases that contain records for more than 500 million Americans and
   took them to his new job at a government contractor.
+podcast:
+  file: "/uploads/Day-1876_-They-have-no-exit-strategy.--e0ff78.mp3"
+  duration: '00:03:51'
+  length: 3702743
 ---
 
 1/ **Seven U.S. service members have been killed and 140 troops have been wounded in the first 10 days of the U.S.-Israeli war against Iran**. Defense Secretary Pete Hegseth, meanwhile, promised the “most intense day of strikes” yet and that the U.S. "will not relent until the enemy is totally and decisively defeated" After a classified Senate briefing, Democrats said the Trump administration doesn’t have a clear objective, timeline, or exit strategy. "Clearly, they do not have a strategic goal," Sen. Mark Kelly said. "They have no exit strategy." The White House, nevertheless, insisted that the operation was a “resounding success” and would end only when Iran no longer posed a credible threat. ([New York Times](https://www.nytimes.com/live/2026/03/10/world/iran-war-trump-us-israel) / [ABC News](https://abcnews.com/International/live-updates/iran-live-updates/?id=130893022) / [The Guardian](https://www.theguardian.com/us-news/live/2026/mar/10/donald-trump-iran-georgia-immigration-mississippi-latest-news-updates) / [Associated Press](https://apnews.com/live/iran-war-israel-trump--03-10-2026) / [NBC News](https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-oil-prices-trump-hormuz-israel-rcna262670) / [Wall Street Journal](https://www.wsj.com/livecoverage/iran-war-us-israel-trump-2026) / [CNBC](https://www.cnbc.com/2026/03/10/iran-war-israel-ending-trump-democrats.html) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-10/us-says-it-s-escalating-war-on-iran-dampening-chance-for-talks))

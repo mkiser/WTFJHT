@@ -50,23 +50,6 @@ $code-color: #9d4450;  // Darkened for WCAG AA compliance (~5.2:1 on #f9f9f9)
 $small-breakpoint: 425px;
 $medium-breakpoint: 600px;
 
-// Component tokens (shared with newsletter via PasteUp)
-$blockquote-bg: #fafafa;
-$blockquote-border-width: 4px;
-$blockquote-border-color: $border-light;
-$blockquote-padding: 1rem;                                                   
-$list-bg: $gray-1;                                                                                                                                 
-$list-padding: 0 20px;                                                           
-$content-font-family: $root-font-family;
-$content-font-size: 16px;
-$content-font-weight: 300;
-$content-line-height: 135%;
-$content-color: $gray-4;
-$content-max-image-width: 580px;
-$table-border-color: #cecece;
-$figcaption-color: #8e8e8e;
-$figcaption-font-size: 13px;
-
 // ==========================================================================
 // Design tokens (extracted from _posts.scss)
 // ==========================================================================
@@ -141,3 +124,54 @@ $link-underline-offset:    unquote("0.2em");
     text-decoration-color: $link-color;
   }
 }
+
+// Component tokens (shared with newsletter via PasteUp)
+$blockquote-bg: #fafafa;
+$blockquote-border-width: 4px;
+$blockquote-border-color: $border-light;
+$blockquote-padding: 1rem;                                                   
+$list-bg: $gray-1;                                                                                                                                 
+$list-padding: 0 20px;                                                           
+$content-font-family: $root-font-family;
+$content-font-size: 16px;
+$content-font-weight: 300;
+$content-line-height: 135%;
+$content-color: $gray-4;
+$content-max-image-width: 580px;
+$table-border-color: #cecece;
+$figcaption-color: #8e8e8e;
+$figcaption-font-size: 13px;
+
+// Component tokens: Post paragraphs
+$post-p-font-family: $root-serif-font-family;
+$post-p-font-size: $font-size-xl;
+$post-p-font-weight: 400;
+$post-p-line-height: $line-height-prose;
+$p-margin-top: 2em;
+
+// Component tokens: UL (sub-stories)
+$ul-border-width: 2px;
+$ul-padding: 0.25em 0 0.25em 1.25em;
+$ul-margin: 0 0 2em 1em;
+$ul-font-size: $font-size-list;
+$ul-line-height: $line-height-relaxed;
+$ul-letter-spacing: $tracking-tight;
+
+// Component tokens: OL (Notables)
+$ol-padding: 0 0 0 1.5em;
+$ol-margin: 0 0 1em 0;
+$ol-font-size: $font-size-list;
+$ol-line-height: $line-height-relaxed;
+$ol-letter-spacing: $tracking-tight;
+
+// Component tokens: LI
+$li-font-size: $font-size-lg-em;
+$li-line-height: $line-height-normal;
+$li-margin-top: 1.25em;
+$ol-li-margin-top: 1.5em;
+
+// Component tokens: Blockquote (additions to existing)
+$blockquote-font-size: $font-size-lg-em;
+$blockquote-margin: 0 0 1em 1rem;
+$blockquote-line-height: $line-height-normal;
+$blockquote-p-margin-bottom: 1rem;

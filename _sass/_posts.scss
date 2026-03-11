@@ -6,24 +6,17 @@
 
 article.post div.post-content > p {
   font-family: $root-serif-font-family;
-  line-height: 1.58;
+  line-height: $line-height-prose;
   font-weight: 400;
   font-style: normal;
-  font-size: 1.1rem;
+  font-size: $font-size-xl;
 
   strong {
     color: $text-strong;
   }
 
   a:not(.anchorjs-link) {
-    text-decoration: underline;
-    text-decoration-color: rgba(231, 76, 60, 0.4);
-    text-decoration-thickness: 0.05em;
-    text-underline-offset: 0.2em;
-
-    &:hover {
-      text-decoration-color: $link-color;
-    }
+    @include link-underline;
   }
 
   .anchorjs-link {
@@ -38,13 +31,13 @@ article.post div.post-content > p {
   background: none;
   border: none;
   font-size: 1rem;
-  line-height: 1.55;
+  line-height: $line-height-relaxed;
 
   .tios__title {
     display: block;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.15rem;
-    line-height: 1.2;
+    font-family: $serif-font-family;
+    font-size: $font-size-2xl;
+    line-height: $line-height-tight;
     margin-bottom: 0.25rem;
   }
 
@@ -68,7 +61,7 @@ article.post div.post-content > p {
   }
 
   .tios__body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: $serif-font-family;
     font-style: normal;
     color: $gray-4;
   }
@@ -89,7 +82,7 @@ article.post div.post-content > p {
   li {
     padding: 0.75em 0;
     border-bottom: 1px solid $border-lighter;
-    font-size: 0.95rem;
+    font-size: $font-size-lg;
     color: $gray-4;
     background: none;
 
@@ -109,7 +102,7 @@ article.post div.post-content > p {
 
   &__date {
     display: block;
-    font-size: 0.8rem;
+    font-size: $font-size-sm;
     color: $gray-3;
     margin-top: 0.25em;
   }
@@ -122,7 +115,7 @@ article.post div.post-content > p {
 .page,
 .post {
   margin: 20px auto 0 auto;
-  max-width: 40rem;
+  max-width: $page-max-width;
   padding: 1rem;
   /* border-top: 1px solid $gray-2; */
 
@@ -137,8 +130,8 @@ article.post div.post-content > p {
   div.away-mode {
     padding: 1em;
     margin: 0 0 2em 0em;
-    background-color: rgba(49,49,49,0.03);
-    font-size: .8em;
+    background-color: $away-mode-bg;
+    font-size: $font-size-sm-em;
     color: $gray-3;
   }
   ul {
@@ -147,18 +140,18 @@ article.post div.post-content > p {
     padding: 0.25em 0 0.25em 1.25em;
     margin: 0 0 2em 1em;
     background: none;
-    font-size: 0.88rem;
-    letter-spacing: 0.015em;
-    line-height: 1.55;
+    font-size: $font-size-list;
+    letter-spacing: $tracking-tight;
+    line-height: $line-height-relaxed;
     color: $gray-4;
   }
   ol {
     padding: 0 0 0 1.5em;
     margin: 0 0 1em 0;
     background: none;
-    font-size: 0.88rem;
-    letter-spacing: 0.015em;
-    line-height: 1.55;
+    font-size: $font-size-list;
+    letter-spacing: $tracking-tight;
+    line-height: $line-height-relaxed;
     color: $gray-4;
   }
   ol {
@@ -168,10 +161,10 @@ article.post div.post-content > p {
   }
   
   li {
-    font-size: 0.95em;
+    font-size: $font-size-lg-em;
     color: $body-color;
     list-style: none;
-    line-height: 1.5;
+    line-height: $line-height-normal;
 
     strong {
       color: $text-strong;
@@ -184,14 +177,7 @@ article.post div.post-content > p {
 
     a:not(.anchorjs-link) {
       color: $link-color;
-      text-decoration: underline;
-      text-decoration-color: rgba(231, 76, 60, 0.4);
-      text-decoration-thickness: 0.05em;
-      text-underline-offset: 0.2em;
-
-      &:hover {
-        text-decoration-color: $link-color;
-      }
+      @include link-underline;
     }
 
     .anchorjs-link {
@@ -235,7 +221,7 @@ article.post div.post-content > p {
      a {
         color: $meta-color;
         text-decoration: none;
-        font-size: .65em;
+        font-size: $font-size-2xs-em;
       }
     }
 
@@ -252,7 +238,7 @@ article.post div.post-content > p {
         margin: 0 0 10px 0;
       }
       p {
-        font-size: .8em;
+        font-size: $font-size-sm-em;
         color: $gray-3;
         margin-top: 0;
         margin-bottom: 4px;
@@ -261,14 +247,14 @@ article.post div.post-content > p {
   }
 
   blockquote {
-    font-size: 0.95em;
+    font-size: $font-size-lg-em;
     color: $gray-4;
     padding: $blockquote-padding;
     margin: 0 0 1em 1rem;
     border: none;
     border-left: $blockquote-border-width solid $blockquote-border-color;
     background-color: $blockquote-bg;
-    line-height: 1.5;
+    line-height: $line-height-normal;
 
     strong {
       color: $text-strong;
@@ -289,7 +275,7 @@ article.post div.post-content > p {
 
   // Better paragraph rhythm for long-form content
   p {
-    line-height: 1.65;
+    line-height: $line-height-loose;
     margin-bottom: 1.25em;
 
     strong {
@@ -297,14 +283,7 @@ article.post div.post-content > p {
     }
 
     a:not(.anchorjs-link) {
-      text-decoration: underline;
-      text-decoration-color: rgba(231, 76, 60, 0.4);
-      text-decoration-thickness: 0.05em;
-      text-underline-offset: 0.2em;
-
-      &:hover {
-        text-decoration-color: $link-color;
-      }
+      @include link-underline;
     }
   }
 
@@ -315,14 +294,7 @@ article.post div.post-content > p {
     margin: 1.5em 0 1.5em 1em;
 
     a:not(.anchorjs-link) {
-      text-decoration: underline;
-      text-decoration-color: rgba(231, 76, 60, 0.4);
-      text-decoration-thickness: 0.05em;
-      text-underline-offset: 0.2em;
-
-      &:hover {
-        text-decoration-color: $link-color;
-      }
+      @include link-underline;
     }
   }
 
@@ -347,14 +319,14 @@ article.post div.post-content > p {
 .post-date {
   display: block;
   color: $meta-color;
-  font-size: .75em;
+  font-size: $font-size-xs-em;
   margin: 0 0 2em 0;
 }
 
 div.topic-date {
   display: block;
   color: $meta-color;
-  font-size: .75em;
+  font-size: $font-size-xs-em;
   margin: 1em 0 .25em 0;
 }
 
@@ -362,7 +334,7 @@ div.topic-date {
 .byline {
   display: block;
   color: $meta-color;
-  font-size: .75em;
+  font-size: $font-size-xs-em;
   margin: 0;
 }
 
@@ -426,13 +398,13 @@ div.topic-date {
 // Highlight-to-share tooltip
 .share-tooltip {
   position: absolute;
-  z-index: 1000;
+  z-index: $z-overlay;
   display: flex;
   gap: 0.25rem;
   padding: 0.4rem 0.5rem;
   background: $bg-darker;
-  border-radius: 6px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  border-radius: $radius-sm;
+  box-shadow: $shadow-tooltip;
   animation: tooltipIn 0.15s ease;
 
   &::after {
@@ -453,14 +425,14 @@ div.topic-date {
     padding: 0.3rem 0.5rem;
     background: transparent;
     border: none;
-    color: #fff;
-    font-size: 0.8rem;
+    color: $text-inverse;
+    font-size: $font-size-sm;
     cursor: pointer;
-    border-radius: 4px;
-    transition: background 0.15s ease;
+    border-radius: $radius-xs;
+    transition: background $transition-fast;
 
     &:hover {
-      background: rgba(255,255,255,0.15);
+      background: $hover-light;
     }
 
     svg {
@@ -489,10 +461,10 @@ div.topic-date {
   transform: translateX(-50%);
   padding: 0.75em 1.5em;
   background: $bg-dark;
-  color: #fff;
-  font-size: 0.9em;
-  border-radius: 6px;
-  z-index: 1000;
+  color: $text-inverse;
+  font-size: $font-size-base-em;
+  border-radius: $radius-sm;
+  z-index: $z-overlay;
   animation: toastIn 0.3s ease;
 
   &.fade-out {
@@ -526,7 +498,7 @@ div.topic-date {
 // Historical posts
 .historical-posts div {
     margin-bottom: 10px;
-    font-size: .8em;
+    font-size: $font-size-sm-em;
 }
 
 .historical-posts strong {
@@ -542,7 +514,7 @@ div.topic-date {
     text-decoration: underline; /* Add underline on hover for accessibility */
 }
 
-@media (min-width: 600px) {
+@media (min-width: $medium-breakpoint) {
     .historical-posts strong,
     .historical-posts a {
         display: inline; /* Align strong and link in one line on larger screens */
@@ -599,13 +571,13 @@ div.topic-date {
 .post-tag {
   display: inline-block;
   padding: 0.25rem 0.75rem;
-  font-size: 0.8rem;
+  font-size: $font-size-sm;
   color: $gray-4;
   background: $gray-1;
   border: 1px solid $border-light;
-  border-radius: 1rem;
+  border-radius: $radius-pill;
   text-decoration: none;
-  transition: all 0.15s ease;
+  transition: all $transition-fast;
 
   &:hover {
     background: $border-lighter;
@@ -622,7 +594,7 @@ div.topic-date {
 
 // Tag index page
 .tag-index {
-  max-width: 40rem;
+  max-width: $page-max-width;
   margin: 0 auto;
   padding: 1rem;
 
@@ -632,7 +604,7 @@ div.topic-date {
 
   &__summary {
     color: $gray-3;
-    font-size: 0.9rem;
+    font-size: $font-size-base;
     margin-bottom: 2rem;
   }
 
@@ -656,11 +628,11 @@ div.topic-date {
     padding: 0.4rem 0.8rem;
     background: $gray-1;
     border: 1px solid $border-light;
-    border-radius: 1rem;
+    border-radius: $radius-pill;
     text-decoration: none;
     color: $gray-4;
-    font-size: 0.85rem;
-    transition: all 0.15s ease;
+    font-size: $font-size-md;
+    transition: all $transition-fast;
 
     &:hover {
       background: $border-lighter;
@@ -678,15 +650,15 @@ div.topic-date {
   &__count {
     background: $border-light;
     padding: 0.1rem 0.4rem;
-    border-radius: 0.5rem;
-    font-size: 0.75rem;
+    border-radius: $radius-tag-count;
+    font-size: $font-size-xs;
     color: $text-dim;
   }
 }
 
 // Tag archive page (individual tag)
 .tag-archive {
-  max-width: 40rem;
+  max-width: $page-max-width;
   margin: 0 auto;
   padding: 1rem;
 
@@ -697,13 +669,13 @@ div.topic-date {
   &__summary {
     color: $gray-4;
     font-size: 1rem;
-    line-height: 1.5;
+    line-height: $line-height-normal;
     margin-bottom: 1rem;
   }
 
   &__count {
     color: $gray-3;
-    font-size: 0.9rem;
+    font-size: $font-size-base;
     margin-bottom: 2rem;
   }
 
@@ -741,13 +713,13 @@ div.topic-date {
 
   &__date {
     display: block;
-    font-size: 0.8rem;
+    font-size: $font-size-sm;
     color: $gray-3;
   }
 
   &__back {
     margin-top: 2rem;
-    font-size: 0.9rem;
+    font-size: $font-size-base;
 
     a {
       color: $gray-4;
@@ -760,22 +732,22 @@ div.topic-date {
   }
 
   // Mobile: better readability
-  @media (max-width: 600px) {
+  @media (max-width: $medium-breakpoint) {
     &__post {
       margin-bottom: 1.25rem;
       padding-bottom: 1.25rem;
     }
 
     &__title {
-      font-size: 0.95rem;
-      line-height: 1.4;
+      font-size: $font-size-lg;
+      line-height: $line-height-snug;
     }
   }
 }
 
 // Unified archive pages (year/month archives) - matches tag-archive style
 .archive-page {
-  max-width: 40rem;
+  max-width: $page-max-width;
   margin: 0 auto;
   padding: 1rem;
 
@@ -785,7 +757,7 @@ div.topic-date {
 
   &__count {
     color: $gray-3;
-    font-size: 0.9rem;
+    font-size: $font-size-base;
     margin-bottom: 2rem;
   }
 
@@ -828,14 +800,14 @@ div.topic-date {
 
   &__date {
     display: block;
-    font-size: 0.8rem;
+    font-size: $font-size-sm;
     color: $gray-3;
   }
 }
 
 // Browse archive page (unified /archive)
 .browse-archive {
-  max-width: 40rem;
+  max-width: $page-max-width;
   margin: 0 auto;
   padding: 1rem;
 
@@ -845,7 +817,7 @@ div.topic-date {
 
   &__summary {
     color: $gray-3;
-    font-size: 0.9rem;
+    font-size: $font-size-base;
     margin-bottom: 1rem;
   }
 
@@ -891,11 +863,11 @@ div.topic-date {
       padding: 0.3rem 0.6rem;
       background: $gray-1;
       border: 1px solid $border-light;
-      border-radius: 1rem;
+      border-radius: $radius-pill;
       text-decoration: none;
       color: $gray-4;
-      font-size: 0.8rem;
-      transition: all 0.15s ease;
+      font-size: $font-size-sm;
+      transition: all $transition-fast;
 
       &:hover {
         background: $border-lighter;
@@ -906,7 +878,7 @@ div.topic-date {
 
   &__tag-count {
     color: $meta-color;
-    font-size: 0.75rem;
+    font-size: $font-size-xs;
   }
 
   &__year {
@@ -930,7 +902,7 @@ div.topic-date {
   }
 
   &__months {
-    font-size: 0.85rem;
+    font-size: $font-size-md;
   }
 
   &__month {
@@ -948,28 +920,28 @@ div.topic-date {
   }
 
   // Mobile: larger tap targets for tags
-  @media (max-width: 600px) {
+  @media (max-width: $medium-breakpoint) {
     &__tags {
       gap: 0.5rem;
     }
 
     &__tag a {
       padding: 0.4rem 0.7rem;
-      font-size: 0.85rem;
+      font-size: $font-size-md;
     }
   }
 }
 
 // Browse navigation (bottom of tag/archive pages)
 .browse-nav {
-  max-width: 40rem;
+  max-width: $page-max-width;
   margin: 2rem auto 0;
   padding: 1.5rem 1rem;
   border-top: 1px solid $border-lighter;
 
   &__back {
     margin-bottom: 1.5rem;
-    font-size: 0.9rem;
+    font-size: $font-size-base;
 
     a {
       color: $gray-4;
@@ -990,7 +962,7 @@ div.topic-date {
   }
 
   &__title {
-    font-size: 0.85rem;
+    font-size: $font-size-md;
     font-weight: 600;
     margin-bottom: 0.75rem;
     color: $text-strong;
@@ -998,7 +970,7 @@ div.topic-date {
 
   &__year {
     margin-bottom: 0.4rem;
-    font-size: 0.85rem;
+    font-size: $font-size-md;
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
@@ -1018,7 +990,7 @@ div.topic-date {
   }
 
   &__months {
-    font-size: 0.8rem;
+    font-size: $font-size-sm;
   }
 
   &__month {
@@ -1052,11 +1024,11 @@ div.topic-date {
       padding: 0.2rem 0.5rem;
       background: $gray-1;
       border: 1px solid $border-light;
-      border-radius: 1rem;
+      border-radius: $radius-pill;
       text-decoration: none;
       color: $gray-4;
-      font-size: 0.75rem;
-      transition: all 0.15s ease;
+      font-size: $font-size-xs;
+      transition: all $transition-fast;
 
       &:hover {
         background: $border-lighter;
@@ -1066,14 +1038,14 @@ div.topic-date {
   }
 
   // Mobile: larger tap targets for tags
-  @media (max-width: 600px) {
+  @media (max-width: $medium-breakpoint) {
     &__tags {
       gap: 0.5rem;
     }
 
     &__tag a {
       padding: 0.35rem 0.6rem;
-      font-size: 0.8rem;
+      font-size: $font-size-sm;
     }
   }
 }

@@ -191,7 +191,7 @@
         <div class="wtf-search-results">
           <div class="algolia__search-content js-algolia__search-content">
             <h6>Search Results</h6>
-            <div class="posts algolia__results"></div>
+            <div class="posts algolia__results" aria-live="polite"></div>
           </div>
         </div>
 
@@ -279,10 +279,7 @@
     </div>      
       <!-- SEARCH (lazy-loaded on first interaction) -->
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js" defer></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js" defer></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js" defer></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/carousel.js" defer></script>
       <!-- PWA SERVICE WORKER -->
       <script>
         window.addEventListener('load', function() {
@@ -291,6 +288,13 @@
           document.body.appendChild(sw);
         });
       </script>
+      {% if page.layout == 'post' %}
+      <!-- POST-ONLY SCRIPTS -->
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js" defer></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js" defer></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/carousel.js" defer></script>
+      {% endif %}
+      {% if page.podcast.file %}
       <!-- AUDIO PLAYER -->
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js" defer></script>
       <script>
@@ -302,6 +306,7 @@
           }
         });
       </script>
+      {% endif %}
 
       {% if page.layout == 'post' %}
         <!-- ANCHORS FOR POSTS -->

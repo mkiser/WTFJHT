@@ -39,6 +39,7 @@ nbproject
 *.sublime-workspace
 .idea
 .claude
+.claude-octopus/
 docs/
 
 # Komodo

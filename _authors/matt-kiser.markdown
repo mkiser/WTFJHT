@@ -46,11 +46,13 @@ redirect_from:
 - "/press/"
 - "/team/"
 bio: |
-  Matt Kiser is a journalist and media entrepreneur who created [What The Fuck Just Happened Today?](/) in January 2017 as a personal project to chronicle the daily shock and awe of national politics.
+  Matt Kiser is the founder and curator of [What The Fuck Just Happened Today?](/), a sane, once-a-day newsletter that helps normal people make sense of the daily shock and awe in U.S. national politics. Launched in 2017 as a personal project to establish a healthier relationship with the news, WTFJHT distills the stories that deserve attention into a clear, understandable, and accurate first draft of history. 
 
   He graduated from California State University, Chico with degrees in Journalism and American Studies, and earned a professional certificate in Entrepreneurial Journalism from the City University of New York. Previously, he reported on music industry news for the College Music Journal and managed news products at Business Insider, Forbes, and SPIN Magazine.
 
-  What started as a 100-day experiment has become his full-time job, supported entirely by readers through an optional membership model with no ads, no content gates, and no data selling.
+  What started as a 100-day experiment has become his full-time job, supported entirely by readers through an optional, pay-whatever-you-want membership model. Independent, member-powered journalism. No ads. No sponsors.
+
+  tl;dr I doomscroll the news so you don’t have to. 
 press:
 - quote: In fact, the edgier younger sibling of Dr. Richardson's 'Letters From an
     American' is a newsletter that's called 'WTF Just Happened Today?' Its founder,

@@ -289,8 +289,23 @@ article.post div.post-content > p {
 
   // Better paragraph rhythm for long-form content
   p {
-    line-height: 1.6;
+    line-height: 1.65;
     margin-bottom: 1.25em;
+
+    strong {
+      color: $text-strong;
+    }
+
+    a:not(.anchorjs-link) {
+      text-decoration: underline;
+      text-decoration-color: rgba(231, 76, 60, 0.4);
+      text-decoration-thickness: 0.05em;
+      text-underline-offset: 0.2em;
+
+      &:hover {
+        text-decoration-color: $link-color;
+      }
+    }
   }
 
   // Blockquotes - cleaner for pages
@@ -298,6 +313,17 @@ article.post div.post-content > p {
     font-size: 1em;
     color: $gray-4;
     margin: 1.5em 0 1.5em 1em;
+
+    a:not(.anchorjs-link) {
+      text-decoration: underline;
+      text-decoration-color: rgba(231, 76, 60, 0.4);
+      text-decoration-thickness: 0.05em;
+      text-underline-offset: 0.2em;
+
+      &:hover {
+        text-decoration-color: $link-color;
+      }
+    }
   }
 
   // Horizontal rules as section breaks

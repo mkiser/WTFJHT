@@ -850,6 +850,8 @@ div.flex-item ul.package {
   padding: 0;
   margin: 2rem 0;
   background: none;
+  border: none;
+  letter-spacing: normal;
 
   li {
     position: relative;
@@ -883,7 +885,7 @@ div.flex-item ul.package {
       strong {
         font-style: normal;
         font-weight: 600;
-        color: #111;
+        color: $text-strong;
       }
     }
   }

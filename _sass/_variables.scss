@@ -51,10 +51,10 @@ $small-breakpoint: 425px;
 $medium-breakpoint: 600px;
 
 // Component tokens (shared with newsletter via PasteUp)
-$blockquote-bg: #fffaf0;                                                                                                                           
-$blockquote-border-width: 3px;
-$blockquote-border-color: $border-color;                                                                                                           
-$blockquote-padding: 5px 20px;                                                   
+$blockquote-bg: #fafafa;
+$blockquote-border-width: 4px;
+$blockquote-border-color: $border-light;
+$blockquote-padding: 1rem;                                                   
 $list-bg: $gray-1;                                                                                                                                 
 $list-padding: 0 20px;                                                           
 $content-font-family: $root-font-family;

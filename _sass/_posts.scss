@@ -263,11 +263,11 @@ article.post div.post-content > p {
   blockquote {
     font-size: 0.95em;
     color: $gray-4;
-    padding: 1rem;
+    padding: $blockquote-padding;
     margin: 0 0 1em 1rem;
     border: none;
-    border-left: 4px solid $border-light;
-    background-color: rgba(49,49,49,0.03);
+    border-left: $blockquote-border-width solid $blockquote-border-color;
+    background-color: $blockquote-bg;
     line-height: 1.5;
 
     strong {

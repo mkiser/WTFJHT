@@ -28,7 +28,7 @@
   .masthead-description {
     margin: 0 auto 0.75rem;
     max-width: 35rem;
-    color: #9a9a9a; // 4.8:1 contrast on black (WCAG AA)
+    color: $meta-color; // 4.8:1 contrast on black (WCAG AA)
     font-size: 1.1rem;
     font-weight: 400;
     line-height: 1.4;
@@ -37,7 +37,7 @@
   // Tertiary: Author and date
   .masthead-meta {
     margin: 0 0 1.25rem;
-    color: #9a9a9a; // 4.8:1 contrast on black (WCAG AA)
+    color: $meta-color; // 4.8:1 contrast on black (WCAG AA)
     font-size: 0.875rem;
 
     a {
@@ -58,7 +58,7 @@
     }
 
     time {
-      color: #9a9a9a; // 4.8:1 contrast on black (WCAG AA)
+      color: $meta-color; // 4.8:1 contrast on black (WCAG AA)
     }
   }
 
@@ -77,8 +77,8 @@
       appearance: none;
       width: 100%;
       padding: 0.625rem 1rem 0.625rem 2.5rem;
-      background-color: #1a1a1a;
-      border: 1px solid #333;
+      background-color: $body-color;
+      border: 1px solid $bg-dark;
       border-radius: 2rem;
       color: #fff;
       font-size: 0.9rem;
@@ -90,14 +90,14 @@
       }
 
       &::placeholder {
-        color: #666;
+        color: $text-dim;
       }
 
       &:focus {
-        outline: 2px solid #9a9a9a;
+        outline: 2px solid $meta-color;
         outline-offset: 2px;
-        border-color: #555;
-        background-color: #222;
+        border-color: $gray-4;
+        background-color: $bg-darker;
       }
     }
 
@@ -111,7 +111,7 @@
       left: 1rem;
       top: 50%;
       transform: translateY(-50%);
-      color: #666;
+      color: $text-dim;
       pointer-events: none;
     }
   }

@@ -12,7 +12,7 @@ article.post div.post-content > p {
   font-size: 1.1rem;
 
   strong {
-    color: #303030;
+    color: $text-strong;
   }
 
   a:not(.anchorjs-link) {
@@ -55,7 +55,7 @@ article.post div.post-content > p {
   }
 
   .tios__dot {
-    color: #c0392b;
+    color: $red-dark;
     font-weight: 400;
   }
 
@@ -63,7 +63,7 @@ article.post div.post-content > p {
     display: block;
     width: 28px;
     height: 2px;
-    background: #c0392b;
+    background: $red-dark;
     margin: 0.4rem 0 0.5rem;
   }
 
@@ -74,7 +74,7 @@ article.post div.post-content > p {
   }
 
   .tios__pilcrow {
-    color: #c0392b;
+    color: $red-dark;
     font-weight: 500;
   }
 }
@@ -88,7 +88,7 @@ article.post div.post-content > p {
 
   li {
     padding: 0.75em 0;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid $border-lighter;
     font-size: 0.95rem;
     color: $gray-4;
     background: none;
@@ -139,11 +139,11 @@ article.post div.post-content > p {
     margin: 0 0 2em 0em;
     background-color: rgba(49,49,49,0.03);
     font-size: .8em;
-    color: #767676;
+    color: $gray-3;
   }
   ul {
     border: none;
-    border-left: 2px solid #ddd;
+    border-left: 2px solid $border-light;
     padding: 0.25em 0 0.25em 1.25em;
     margin: 0 0 2em 1em;
     background: none;
@@ -174,7 +174,7 @@ article.post div.post-content > p {
     line-height: 1.5;
 
     strong {
-      color: #303030;
+      color: $text-strong;
     }
 
       .jekyll-twitter-plugin,
@@ -216,7 +216,7 @@ article.post div.post-content > p {
   }
 
   .onebox {
-    border: 5px solid #e9e9e9;
+    border: 5px solid $border-color;
     margin-bottom: 1em;
     font-size: 1em;
     padding: 12px 25px 12px 12px;
@@ -233,7 +233,7 @@ article.post div.post-content > p {
       }
 
      a {
-        color: #919191;
+        color: $meta-color;
         text-decoration: none;
         font-size: .65em;
       }
@@ -253,7 +253,7 @@ article.post div.post-content > p {
       }
       p {
         font-size: .8em;
-        color: #767676;
+        color: $gray-3;
         margin-top: 0;
         margin-bottom: 4px;
       }
@@ -266,12 +266,12 @@ article.post div.post-content > p {
     padding: 1rem;
     margin: 0 0 1em 1rem;
     border: none;
-    border-left: 4px solid #ddd;
+    border-left: 4px solid $border-light;
     background-color: rgba(49,49,49,0.03);
     line-height: 1.5;
 
     strong {
-      color: #303030;
+      color: $text-strong;
     }
 
     p {
@@ -320,14 +320,14 @@ article.post div.post-content > p {
 // Meta data line below post title
 .post-date {
   display: block;
-  color: #9a9a9a;
+  color: $meta-color;
   font-size: .75em;
   margin: 0 0 2em 0;
 }
 
 div.topic-date {
   display: block;
-  color: #9a9a9a;
+  color: $meta-color;
   font-size: .75em;
   margin: 1em 0 .25em 0;
 }
@@ -335,7 +335,7 @@ div.topic-date {
 
 .byline {
   display: block;
-  color: #9a9a9a;
+  color: $meta-color;
   font-size: .75em;
   margin: 0;
 }
@@ -345,8 +345,8 @@ div.topic-date {
   padding-top: 2rem;
   padding-bottom: 2rem;
   margin-bottom: 2rem;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid $border-lighter;
+  border-bottom: 1px solid $border-lighter;
 }
 
 .related-posts {
@@ -361,11 +361,11 @@ div.topic-date {
   li {
     small {
       font-size: 75%;
-      color: #999;
+      color: $meta-color;
     }
 
     a:hover {
-      color: #268bd2;
+      color: $blue;
       text-decoration: none;
 
       small {
@@ -404,7 +404,7 @@ div.topic-date {
   display: flex;
   gap: 0.25rem;
   padding: 0.4rem 0.5rem;
-  background: #222;
+  background: $bg-darker;
   border-radius: 6px;
   box-shadow: 0 2px 10px rgba(0,0,0,0.2);
   animation: tooltipIn 0.15s ease;
@@ -417,7 +417,7 @@ div.topic-date {
     transform: translateX(-50%);
     border-left: 6px solid transparent;
     border-right: 6px solid transparent;
-    border-top: 6px solid #222;
+    border-top: 6px solid $bg-darker;
   }
 
   button {
@@ -462,7 +462,7 @@ div.topic-date {
   left: 50%;
   transform: translateX(-50%);
   padding: 0.75em 1.5em;
-  background: #333;
+  background: $bg-dark;
   color: #fff;
   font-size: 0.9em;
   border-radius: 6px;
@@ -550,7 +550,7 @@ div.topic-date {
 }
 
 .post-content ul:has(li h3) a {
-    color: #e74c3c;
+    color: $red;
 }
 
 .post-content ul:has(li h3) strong {
@@ -567,30 +567,30 @@ div.topic-date {
   gap: 0.5rem;
   margin: 2rem 0 1.5rem 0;
   padding-top: 1.5rem;
-  border-top: 1px solid #eee;
+  border-top: 1px solid $border-lighter;
 }
 
 .post-tag {
   display: inline-block;
   padding: 0.25rem 0.75rem;
   font-size: 0.8rem;
-  color: #515151;
-  background: #f5f5f5;
-  border: 1px solid #ddd;
+  color: $gray-4;
+  background: $gray-1;
+  border: 1px solid $border-light;
   border-radius: 1rem;
   text-decoration: none;
   transition: all 0.15s ease;
 
   &:hover {
-    background: #eee;
-    border-color: #ccc;
-    color: #303030;
+    background: $border-lighter;
+    border-color: $gray-2;
+    color: $text-strong;
     text-decoration: none;
   }
 
   &:active {
-    background: #e5e5e5;
-    border-color: #bbb;
+    background: $border-color;
+    border-color: darken($gray-2, 7%);
   }
 }
 
@@ -605,7 +605,7 @@ div.topic-date {
   }
 
   &__summary {
-    color: #767676;
+    color: $gray-3;
     font-size: 0.9rem;
     margin-bottom: 2rem;
   }
@@ -628,33 +628,33 @@ div.topic-date {
     align-items: center;
     gap: 0.4rem;
     padding: 0.4rem 0.8rem;
-    background: #f5f5f5;
-    border: 1px solid #ddd;
+    background: $gray-1;
+    border: 1px solid $border-light;
     border-radius: 1rem;
     text-decoration: none;
-    color: #515151;
+    color: $gray-4;
     font-size: 0.85rem;
     transition: all 0.15s ease;
 
     &:hover {
-      background: #eee;
-      border-color: #ccc;
-      color: #303030;
+      background: $border-lighter;
+      border-color: $gray-2;
+      color: $text-strong;
       text-decoration: none;
     }
 
     &:active {
-      background: #e5e5e5;
-      border-color: #bbb;
+      background: $border-color;
+      border-color: darken($gray-2, 7%);
     }
   }
 
   &__count {
-    background: #ddd;
+    background: $border-light;
     padding: 0.1rem 0.4rem;
     border-radius: 0.5rem;
     font-size: 0.75rem;
-    color: #666;
+    color: $text-dim;
   }
 }
 
@@ -669,14 +669,14 @@ div.topic-date {
   }
 
   &__summary {
-    color: #444;
+    color: $gray-4;
     font-size: 1rem;
     line-height: 1.5;
     margin-bottom: 1rem;
   }
 
   &__count {
-    color: #767676;
+    color: $gray-3;
     font-size: 0.9rem;
     margin-bottom: 2rem;
   }
@@ -690,7 +690,7 @@ div.topic-date {
   &__post {
     margin-bottom: 1rem;
     padding-bottom: 1rem;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid $border-lighter;
 
     &:last-child {
       border-bottom: none;
@@ -716,7 +716,7 @@ div.topic-date {
   &__date {
     display: block;
     font-size: 0.8rem;
-    color: #767676;
+    color: $gray-3;
   }
 
   &__back {
@@ -724,7 +724,7 @@ div.topic-date {
     font-size: 0.9rem;
 
     a {
-      color: #515151;
+      color: $gray-4;
       text-decoration: none;
 
       &:hover {
@@ -758,7 +758,7 @@ div.topic-date {
   }
 
   &__count {
-    color: #767676;
+    color: $gray-3;
     font-size: 0.9rem;
     margin-bottom: 2rem;
   }
@@ -772,7 +772,7 @@ div.topic-date {
   &__item {
     margin-bottom: 1rem;
     padding-bottom: 1rem;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid $border-lighter;
 
     &:last-child {
       border-bottom: none;
@@ -797,13 +797,13 @@ div.topic-date {
 
   &__description {
     font-weight: normal;
-    color: #515151;
+    color: $gray-4;
   }
 
   &__date {
     display: block;
     font-size: 0.8rem;
-    color: #767676;
+    color: $gray-3;
   }
 }
 
@@ -818,7 +818,7 @@ div.topic-date {
   }
 
   &__summary {
-    color: #767676;
+    color: $gray-3;
     font-size: 0.9rem;
     margin-bottom: 1rem;
   }
@@ -827,7 +827,7 @@ div.topic-date {
     margin-bottom: 2rem;
 
     a {
-      color: #515151;
+      color: $gray-4;
 
       &:hover {
         color: $link-color;
@@ -843,7 +843,7 @@ div.topic-date {
     font-size: 1rem;
     font-weight: 600;
     margin-bottom: 1rem;
-    color: #303030;
+    color: $text-strong;
   }
 
   &__tags {
@@ -863,23 +863,23 @@ div.topic-date {
       align-items: center;
       gap: 0.3rem;
       padding: 0.3rem 0.6rem;
-      background: #f5f5f5;
-      border: 1px solid #ddd;
+      background: $gray-1;
+      border: 1px solid $border-light;
       border-radius: 1rem;
       text-decoration: none;
-      color: #515151;
+      color: $gray-4;
       font-size: 0.8rem;
       transition: all 0.15s ease;
 
       &:hover {
-        background: #eee;
-        border-color: #ccc;
+        background: $border-lighter;
+        border-color: $gray-2;
       }
     }
   }
 
   &__tag-count {
-    color: #999;
+    color: $meta-color;
     font-size: 0.75rem;
   }
 
@@ -893,7 +893,7 @@ div.topic-date {
 
   &__year-link {
     font-weight: 600;
-    color: #303030;
+    color: $text-strong;
     text-decoration: none;
     margin-right: 0.5rem;
     flex-shrink: 0;
@@ -908,17 +908,17 @@ div.topic-date {
   }
 
   &__month {
-    color: #767676;
+    color: $gray-3;
     text-decoration: none;
 
     &:hover {
-      color: #303030;
+      color: $text-strong;
       text-decoration: underline;
     }
   }
 
   &__sep {
-    color: #ccc;
+    color: $gray-2;
   }
 
   // Mobile: larger tap targets for tags
@@ -939,14 +939,14 @@ div.topic-date {
   max-width: 40rem;
   margin: 2rem auto 0;
   padding: 1.5rem 1rem;
-  border-top: 1px solid #eee;
+  border-top: 1px solid $border-lighter;
 
   &__back {
     margin-bottom: 1.5rem;
     font-size: 0.9rem;
 
     a {
-      color: #515151;
+      color: $gray-4;
       text-decoration: none;
 
       &:hover {
@@ -967,7 +967,7 @@ div.topic-date {
     font-size: 0.85rem;
     font-weight: 600;
     margin-bottom: 0.75rem;
-    color: #303030;
+    color: $text-strong;
   }
 
   &__year {
@@ -981,7 +981,7 @@ div.topic-date {
 
   &__year-link {
     font-weight: 600;
-    color: #303030;
+    color: $text-strong;
     text-decoration: none;
     margin-right: 0.25rem;
     flex-shrink: 0;
@@ -996,17 +996,17 @@ div.topic-date {
   }
 
   &__month {
-    color: #767676;
+    color: $gray-3;
     text-decoration: none;
 
     &:hover {
-      color: #303030;
+      color: $text-strong;
       text-decoration: underline;
     }
   }
 
   &__sep {
-    color: #ccc;
+    color: $gray-2;
   }
 
   &__tags {
@@ -1024,17 +1024,17 @@ div.topic-date {
     a {
       display: inline-block;
       padding: 0.2rem 0.5rem;
-      background: #f5f5f5;
-      border: 1px solid #ddd;
+      background: $gray-1;
+      border: 1px solid $border-light;
       border-radius: 1rem;
       text-decoration: none;
-      color: #515151;
+      color: $gray-4;
       font-size: 0.75rem;
       transition: all 0.15s ease;
 
       &:hover {
-        background: #eee;
-        border-color: #ccc;
+        background: $border-lighter;
+        border-color: $gray-2;
       }
     }
   }

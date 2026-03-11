@@ -6,7 +6,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: 600;
   line-height: 1.25;
-  color: #313131;
+  color: $gray-5;
   text-rendering: optimizeLegibility;
 }
 
@@ -21,7 +21,7 @@ h2 {
 
 h2.dateline {
   font-size: 1.5rem;
-  color: #767676;
+  color: $gray-3;
   font-weight: lighter;
   margin: 2rem 0rem .25rem 0rem;
 }
@@ -63,19 +63,19 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #fff;
+  border-top: 1px solid $border-lighter;
+  border-bottom: 1px solid $body-bg;
 }
 
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #555;
+  color: $gray-4;
   text-transform: uppercase;
 
   &[title] {
     cursor: help;
-    border-bottom: 1px dotted #e5e5e5;
+    border-bottom: 1px dotted $border-color;
   }
 }
 

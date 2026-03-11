@@ -36,7 +36,7 @@
 .calendar-wrapper > .calendar-container {
   border: 1px solid $gray-2;
   border-radius: 6px;
-  background: #fff;
+  background: $body-bg;
   padding: 1rem;
 }
 
@@ -226,7 +226,7 @@
 
 #minimap-canvas {
   border-radius: 3px;
-  background: #fff;
+  background: $body-bg;
   border: 1px solid $gray-2;
   cursor: pointer;
 

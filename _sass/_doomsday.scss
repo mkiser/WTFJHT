@@ -1,8 +1,8 @@
 // WTFJHT Government Shutdown Timer Styles
 
 .shutdown-timer {
-    background: #222;
-    color: #f9f9f9;
+    background: $bg-darker;
+    color: $gray-1;
     text-align: center;
     margin: 0;
     padding: 1.5rem 1rem;
@@ -19,7 +19,7 @@
 }
 
 .shutdown-status {
-    color: #e74c3c;
+    color: $red;
     margin: 0 0 1.5rem 0;
     font-size: 1.6rem;
     font-weight: 600;
@@ -32,14 +32,14 @@
     font-family: Menlo, Monaco, 'Courier New', monospace;
     font-size: 3.5rem;
     font-weight: bold;
-    color: #f9f9f9;
+    color: $gray-1;
     margin: 1rem 0 1.5rem 0;
     letter-spacing: 2px;
     line-height: 1;
 }
 
 .impact-message {
-    color: #767676;
+    color: $gray-3;
     font-size: 0.85rem;
     margin: 0;
     font-weight: 400;
@@ -51,20 +51,20 @@
 
 // Animation Keyframes
 @keyframes text-pulse {
-    0%, 100% { color: #e74c3c; }
-    50% { color: #c0392b; }
+    0%, 100% { color: $red; }
+    50% { color: $red-dark; }
 }
 
 @keyframes urgent-background {
     0%, 100% {
-        background-color: #222;
+        background-color: $bg-darker;
         border-top-color: #777;
         border-bottom-color: #777;
     }
     50% {
         background-color: #2a1a1a;
-        border-top-color: #e74c3c;
-        border-bottom-color: #e74c3c;
+        border-top-color: $red;
+        border-bottom-color: $red;
     }
 }
 
@@ -74,7 +74,7 @@
 }
 
 .final-countdown .timer-display {
-    color: #e74c3c !important;
+    color: $red !important;
 }
 
 .shutdown-active {

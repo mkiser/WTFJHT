@@ -25,6 +25,22 @@ $link-color: $red;
 
 $border-color: #e5e5e5;
 
+// Semantic text colors
+$text-strong: #303030;    // Near-black for strong text, headings (Tufte)
+$meta-color: #9a9a9a;     // Post dates, bylines, secondary meta
+$text-dim: #666;          // Muted/tertiary text
+
+// Semantic accent colors
+$red-dark: #c0392b;       // TIOS accents, carousel red
+
+// Semantic border colors
+$border-light: #ddd;      // Thin rules, sidebar borders
+$border-lighter: #eee;    // Section dividers, subtle separators
+
+// Semantic background colors
+$bg-dark: #333;           // Dark UI backgrounds (tooltips, toasts, footer elements)
+$bg-darker: #222;         // Darker UI backgrounds (pagination, nav overlays)
+
 $large-breakpoint: 38em;
 $large-font-size: 20px;
 
@@ -33,3 +49,20 @@ $code-color: #9d4450;  // Darkened for WCAG AA compliance (~5.2:1 on #f9f9f9)
 
 $small-breakpoint: 425px;
 $medium-breakpoint: 600px;
+
+// Component tokens (shared with newsletter via PasteUp)
+$blockquote-bg: #fffaf0;                                                                                                                           
+$blockquote-border-width: 3px;
+$blockquote-border-color: $border-color;                                                                                                           
+$blockquote-padding: 5px 20px;                                                   
+$list-bg: $gray-1;                                                                                                                                 
+$list-padding: 0 20px;                                                           
+$content-font-family: $root-font-family;
+$content-font-size: 16px;
+$content-font-weight: 300;
+$content-line-height: 135%;
+$content-color: $gray-4;
+$content-max-image-width: 580px;
+$table-border-color: #cecece;
+$figcaption-color: #8e8e8e;
+$figcaption-font-size: 13px;

@@ -8,13 +8,13 @@
 }
 
 footer {
-  background-color: #222;
-  color: #9a9a9a; // WCAG AA compliant
+  background-color: $bg-darker;
+  color: $meta-color; // WCAG AA compliant
   margin-top: 2em;
   padding: 0;
 
   a {
-    color: #f9f9f9;
+    color: $gray-1;
     text-decoration: none;
 
     &:hover {
@@ -33,19 +33,19 @@ footer {
     margin: 0 auto;
     padding: 2rem 1rem;
     text-align: center;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid $bg-dark;
   }
 
   .ft-subscribe__title {
     font-size: 1.1rem;
     font-weight: 600;
-    color: #f9f9f9;
+    color: $gray-1;
     margin: 0 0 0.5rem;
   }
 
   .ft-subscribe__desc {
     font-size: 0.875rem;
-    color: #9a9a9a;
+    color: $meta-color;
     margin: 0 0 1rem;
   }
 
@@ -54,22 +54,22 @@ footer {
   }
 
   .ft-subscribe .subscribe-form__input {
-    background: #333;
+    background: $bg-dark;
     border-color: #444;
-    color: #f9f9f9;
+    color: $gray-1;
 
     &::placeholder {
       color: #777;
     }
 
     &:focus {
-      border-color: #666;
+      border-color: $text-dim;
       background: #3a3a3a;
     }
   }
 
   .ft-subscribe .subscribe-form__trust {
-    color: #666;
+    color: $text-dim;
   }
 
   // Main columns (About, Resources)
@@ -92,7 +92,7 @@ footer {
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: #666;
+    color: $text-dim;
     margin: 0 0 0.6rem 0;
     padding: 0;
   }
@@ -110,7 +110,7 @@ footer {
 
   // Follow & Feeds rows
   .ft-connect {
-    border-top: 1px solid #333;
+    border-top: 1px solid $bg-dark;
     padding: 1.25rem 1rem;
   }
 
@@ -130,7 +130,7 @@ footer {
     font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: #666;
+    color: $text-dim;
     min-width: 3rem;
   }
 
@@ -153,8 +153,8 @@ footer {
       width: 2.25rem;
       height: 2.25rem;
       border-radius: 50%;
-      background: #333;
-      color: #9a9a9a;
+      background: $bg-dark;
+      color: $meta-color;
       font-size: 1rem;
       transition: background-color 0.15s ease, color 0.15s ease;
 
@@ -173,20 +173,20 @@ footer {
       padding: 0.35rem 0.75rem;
       border-radius: 1rem;
       font-size: 0.75rem;
-      background: #333;
+      background: $bg-dark;
     }
   }
 
   // Legal section
   .ft-legal {
-    background-color: #1a1a1a;
+    background-color: $body-color;
     padding: 1rem;
     text-align: center;
     font-size: 0.75rem;
 
     p {
       margin: 0;
-      color: #666;
+      color: $text-dim;
     }
 
     a {
@@ -200,7 +200,7 @@ footer {
 
   // Easter egg (© link)
   .easter-egg {
-    color: #666;
+    color: $text-dim;
     cursor: pointer;
 
     &:hover {
@@ -264,7 +264,7 @@ footer {
 
   footer {
     padding: 0;
-    background-color: #fff; 
+    background-color: $body-bg; 
     margin-top: 0px;
   }
 
@@ -356,7 +356,7 @@ footer {
   text-align: center;
   max-width: 40rem;
   padding: 1rem;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid $gray-2;
 }
 
 .anchorjs-link {
@@ -365,11 +365,11 @@ footer {
 }
 
 .anchorjs-link:before {
-  color: #9a9a9a !important;
+  color: $meta-color !important;
 }
 
 .anchorjs-link:after {
-  color: #9a9a9a !important;
+  color: $meta-color !important;
 }
 
 *:hover > .anchorjs-link {
@@ -396,7 +396,7 @@ footer {
   bottom: 0px;
   left: 0px;
   z-index: 5000;
-  background: #222;
+  background: $bg-darker;
   margin: 0;
   overflow: visible;
   color: #fff;
@@ -427,7 +427,7 @@ footer {
 
 .btn-info {
   color: #fff;
-  background-color: #222;
+  background-color: $bg-darker;
   border-color: #fff;
 }
 
@@ -449,8 +449,8 @@ footer {
 }
 
 .btn-info.btn-outline:hover {
-  color: #222;
-  background-color: #fff;
+  color: $bg-darker;
+  background-color: $body-bg;
   text-decoration: none;
 }
 
@@ -463,7 +463,7 @@ footer {
 }
 
 #close:hover {
-  color: #e74c3c;
+  color: $red;
 }
 
 .author-avatar {
@@ -618,7 +618,7 @@ div.flex-item ul.package {
   }
 
   .header {
-    background-color: #333;
+    background-color: $bg-dark;
     color: #fff;
     font-size: 1em;
     padding: 2em;
@@ -626,8 +626,8 @@ div.flex-item ul.package {
   }
 
   li {
-    background-color: #fff;
-    border-bottom: 1px solid #eee;
+    background-color: $body-bg;
+    border-bottom: 1px solid $border-lighter;
     padding: 2em;
     text-align: center;
   }
@@ -672,7 +672,7 @@ div.flex-item ul.package {
 }
 
 .package {
-  background-color: #333;
+  background-color: $bg-dark;
   text-align: center;
   transition: 0.25s;
   border: 2px solid transparent;
@@ -736,7 +736,7 @@ div.flex-item ul.package {
 // Membership FAQ section
 .membership-faq {
   margin-top: 1.5rem;
-  border: 1px solid #ddd;
+  border: 1px solid $border-light;
   border-radius: 4px;
 
   .faq-header {
@@ -744,8 +744,8 @@ div.flex-item ul.package {
     font-weight: 600;
     margin: 0;
     padding: 0.75rem 1rem;
-    background: #f5f5f5;
-    border-bottom: 1px solid #ddd;
+    background: $gray-1;
+    border-bottom: 1px solid $border-light;
   }
 
   .faq-content {
@@ -777,7 +777,7 @@ div.flex-item ul.package {
 // Subscribe box container
 .subscribe-box {
   padding: 1.5rem;
-  border: 1px solid #ddd;
+  border: 1px solid $border-light;
   border-radius: 4px;
 
   &__title {
@@ -838,7 +838,7 @@ div.flex-item ul.package {
   &__trust {
     margin: 0.75rem 0 0;
     font-size: 0.8rem;
-    color: #666;
+    color: $text-dim;
     text-align: center;
   }
 }
@@ -877,7 +877,7 @@ div.flex-item ul.package {
     em {
       font-style: italic;
       font-size: 1.05rem;
-      color: #333;
+      color: $bg-dark;
       line-height: 1.7;
 
       strong {
@@ -907,7 +907,7 @@ div.flex-item ul.package {
 
 .post-meta__author {
   font-size: 0.9rem;
-  color: #333;
+  color: $bg-dark;
 
   a {
     color: inherit;
@@ -970,16 +970,16 @@ div.flex-item ul.package {
   padding: 0 0.875rem;
   font-size: 0.8125rem;
   font-weight: 500;
-  color: #333;
-  background: #fff;
-  border: 1px solid #ddd;
+  color: $bg-dark;
+  background: $body-bg;
+  border: 1px solid $border-light;
   border-radius: 100px; // Pill shape
   cursor: pointer;
   transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
 
   &:hover {
-    background: #f9f9f9;
-    border-color: #ccc;
+    background: $gray-1;
+    border-color: $gray-2;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
   }
 
@@ -997,18 +997,18 @@ div.flex-item ul.package {
   width: 32px;
   height: 32px;
   padding: 0;
-  color: #666;
-  background: #fff;
-  border: 1px solid #ddd;
+  color: $text-dim;
+  background: $body-bg;
+  border: 1px solid $border-light;
   border-radius: 50%;
   cursor: pointer;
   transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
 
   &:hover {
-    background: #f9f9f9;
-    border-color: #ccc;
+    background: $gray-1;
+    border-color: $gray-2;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-    color: #333;
+    color: $bg-dark;
   }
 
   .icon {
@@ -1025,8 +1025,8 @@ div.flex-item ul.package {
   right: 0;
   margin-top: 0.5rem;
   padding: 0.375rem;
-  background: #fff;
-  border: 1px solid #ddd;
+  background: $body-bg;
+  border: 1px solid $border-light;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   z-index: 100;
@@ -1054,7 +1054,7 @@ div.flex-item ul.package {
     margin: 0;
     font-size: 0.875rem;
     line-height: 1.2;
-    color: #333 !important;
+    color: $bg-dark !important;
     background: none;
     border: none;
     border-radius: 4px;
@@ -1063,9 +1063,9 @@ div.flex-item ul.package {
     white-space: nowrap;
 
     &:hover {
-      background: #f5f5f5;
+      background: $gray-1;
       text-decoration: none !important;
-      color: #333 !important;
+      color: $bg-dark !important;
     }
 
     .share-widget__icon {
@@ -1101,18 +1101,18 @@ div.flex-item ul.package {
   width: 32px;
   height: 32px;
   padding: 0;
-  color: #666;
-  background: #fff;
-  border: 1px solid #ddd;
+  color: $text-dim;
+  background: $body-bg;
+  border: 1px solid $border-light;
   border-radius: 50%; // Circle
   cursor: pointer;
   transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
 
   &:hover {
-    background: #f9f9f9;
-    border-color: #ccc;
+    background: $gray-1;
+    border-color: $gray-2;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-    color: #333;
+    color: $bg-dark;
   }
 
   .icon {
@@ -1129,8 +1129,8 @@ div.flex-item ul.package {
   right: 0;
   margin-top: 0.5rem;
   padding: 0.375rem;
-  background: #fff;
-  border: 1px solid #ddd;
+  background: $body-bg;
+  border: 1px solid $border-light;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
   z-index: 100;
@@ -1157,7 +1157,7 @@ div.flex-item ul.package {
     margin: 0;
     font-size: 0.875rem;
     line-height: 1.2;
-    color: #333 !important;
+    color: $bg-dark !important;
     background: none;
     border: none;
     border-radius: 4px;
@@ -1169,9 +1169,9 @@ div.flex-item ul.package {
     font-family: inherit;
 
     &:hover {
-      background: #f5f5f5;
+      background: $gray-1;
       text-decoration: none !important;
-      color: #333 !important;
+      color: $bg-dark !important;
     }
 
     .more-menu__icon {
@@ -1203,22 +1203,22 @@ div.flex-item ul.package {
   padding: 0 0.875rem;
   font-size: 0.8125rem;
   font-weight: 500;
-  color: #333;
-  background: #fff;
-  border: 1px solid #ddd;
+  color: $bg-dark;
+  background: $body-bg;
+  border: 1px solid $border-light;
   border-radius: 100px;
   cursor: pointer;
   transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
 
   &:hover {
-    background: #f9f9f9;
-    border-color: #ccc;
+    background: $gray-1;
+    border-color: $gray-2;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
   }
 
   &.is-playing {
-    background: #f5f5f5;
-    border-color: #ccc;
+    background: $gray-1;
+    border-color: $gray-2;
   }
 
   .icon {
@@ -1275,15 +1275,15 @@ div.flex-item ul.package {
   height: 32px;
   padding: 0;
   background: none;
-  border: 1px solid #ddd;
+  border: 1px solid $border-light;
   border-radius: 50%;
   cursor: pointer;
   flex-shrink: 0;
   transition: background-color 0.15s, border-color 0.15s;
 
   &:hover {
-    background: #f5f5f5;
-    border-color: #ccc;
+    background: $gray-1;
+    border-color: $gray-2;
   }
 
   .icon {
@@ -1295,7 +1295,7 @@ div.flex-item ul.package {
 .audio-player__progress {
   flex: 1;
   height: 4px;
-  background: #e5e5e5;
+  background: $border-color;
   border-radius: 2px;
   cursor: pointer;
   position: relative;
@@ -1303,7 +1303,7 @@ div.flex-item ul.package {
 
 .audio-player__progress-fill {
   height: 100%;
-  background: #333;
+  background: $bg-dark;
   border-radius: 2px;
   width: 0%;
   transition: width 0.1s linear;
@@ -1314,19 +1314,19 @@ div.flex-item ul.package {
   gap: 0.25rem;
   font-size: 0.75rem;
   font-variant-numeric: tabular-nums;
-  color: #666;
+  color: $text-dim;
   flex-shrink: 0;
 }
 
 .audio-player__remaining {
-  color: #999;
+  color: $meta-color;
 }
 
 // Historical posts (years ago links)
 .historical-posts {
   margin: 2rem 0;
   padding: 1.5rem 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid $border-lighter;
 
   // Target links directly since extlinks filter overwrites classes
   > a {
@@ -1370,7 +1370,7 @@ div.flex-item ul.package {
 .historical-posts__headline {
   font-size: 0.9rem;
   line-height: 1.35;
-  color: #333;
+  color: $bg-dark;
   transition: color 0.15s;
 }
 
@@ -1430,7 +1430,7 @@ div.flex-item ul.package {
 }
 
 .plan {
-  background: #fff; // Your existing background color
+  background: $body-bg; // Your existing background color
   border: 1px solid $border-color; // Your existing border color
   border-radius: 0; // Matching your existing style
   padding: 1.25rem;
@@ -1613,7 +1613,7 @@ div.flex-item ul.package {
   font-weight: 600;
   margin: 0 0 1.5rem;
   padding-bottom: 0.5rem;
-  border-bottom: 2px solid #eee;
+  border-bottom: 2px solid $border-lighter;
 }
 
 // Hero Section
@@ -1679,7 +1679,7 @@ div.flex-item ul.package {
 .author-hero__tagline {
   font-size: 1.1rem;
   line-height: 1.5;
-  color: #333;
+  color: $bg-dark;
   margin: 0 0 1.25rem;
 }
 
@@ -1716,8 +1716,8 @@ div.flex-item ul.package {
     width: 36px;
     height: 36px;
     border-radius: 50%;
-    background: #f5f5f5;
-    color: #333;
+    background: $gray-1;
+    color: $bg-dark;
     transition: background 0.2s, color 0.2s;
 
     &:hover {
@@ -1735,13 +1735,13 @@ div.flex-item ul.package {
 // Bio Section
 .author-bio {
   padding: 2rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid $border-lighter;
 }
 
 .author-bio__content {
   font-size: 1.05rem;
   line-height: 1.7;
-  color: #333;
+  color: $bg-dark;
 
   p {
     margin: 0 0 1rem;
@@ -1772,7 +1772,7 @@ div.flex-item ul.package {
 // Social Proof Section
 .author-proof {
   padding: 2rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid $border-lighter;
 }
 
 .author-proof__logos {
@@ -1788,11 +1788,11 @@ div.flex-item ul.package {
 
 .author-proof__outlet {
   padding: 0.5rem 1rem;
-  background: #f5f5f5;
+  background: $gray-1;
   border-radius: 4px;
   font-size: 0.85rem;
   font-weight: 500;
-  color: #555;
+  color: $gray-4;
 }
 
 // Newsletter CTA
@@ -1800,7 +1800,7 @@ div.flex-item ul.package {
   margin: 2rem 0;
 
   .subscribe-box {
-    background: #f9f9f9;
+    background: $gray-1;
     border: none;
     border-radius: 8px;
     padding: 2rem;
@@ -1833,13 +1833,13 @@ div.flex-item ul.package {
 }
 
 .author-posts__item {
-  background: #fff;
-  border: 1px solid #eee;
+  background: $body-bg;
+  border: 1px solid $border-lighter;
   border-radius: 8px;
   transition: border-color 0.2s, box-shadow 0.2s;
 
   &:hover {
-    border-color: #ddd;
+    border-color: $border-light;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
   }
 }
@@ -1867,7 +1867,7 @@ div.flex-item ul.package {
 
 .author-posts__desc {
   font-size: 0.9rem;
-  color: #555;
+  color: $gray-4;
   margin: 0;
   line-height: 1.4;
 }
@@ -1889,7 +1889,7 @@ div.flex-item ul.package {
   transition: background 0.2s;
 
   &:hover {
-    background: #333;
+    background: $bg-dark;
     text-decoration: none;
   }
 }
@@ -1897,7 +1897,7 @@ div.flex-item ul.package {
 // Press Section
 .author-press {
   padding: 2rem 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid $border-lighter;
 }
 
 .author-press__list {
@@ -1909,7 +1909,7 @@ div.flex-item ul.package {
 
 .author-press__item {
   padding: 1.5rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid $border-lighter;
   counter-increment: press-counter;
 
   &:last-child {
@@ -1926,7 +1926,7 @@ div.flex-item ul.package {
   p {
     font-size: 1rem;
     line-height: 1.6;
-    color: #333;
+    color: $bg-dark;
     margin: 0 0 0.75rem;
 
     &::before {
@@ -1954,7 +1954,7 @@ div.flex-item ul.package {
 // Contact Section
 .author-contact {
   padding: 2rem 0;
-  border-top: 1px solid #eee;
+  border-top: 1px solid $border-lighter;
 }
 
 .author-contact__info {
@@ -1993,7 +1993,7 @@ div.flex-item ul.package {
   font-size: 1em;
   padding: 0 15px 0 45px;
   height: 42px;
-  border: 1px solid #ddd;
+  border: 1px solid $border-light;
   width: 100%;
 }
 
@@ -2051,26 +2051,26 @@ div.flex-item ul.package {
   margin: 1.5rem 0;
   font-family: inherit;
   font-size: 0.9rem;
-  color: #515151;
-  background: #f9f9f9;
-  border: 1px solid #ddd;
+  color: $gray-4;
+  background: $gray-1;
+  border: 1px solid $border-light;
   border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.15s ease, border-color 0.15s ease;
 
   &:hover {
-    background: #eee;
-    border-color: #ccc;
+    background: $border-lighter;
+    border-color: $gray-2;
   }
 
   &:active {
-    background: #e5e5e5;
+    background: $border-color;
   }
 }
 
 // Mailchimp embed form (self-hosted, was external CSS)
 #mc_embed_signup {
-  background: #fff;
+  background: $body-bg;
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
   width: 100%;
@@ -2090,7 +2090,7 @@ div.flex-item ul.package {
     border: 1px solid #ABB0B2;
     border-radius: 3px;
     color: #343434;
-    background-color: #fff;
+    background-color: $body-bg;
     box-sizing: border-box;
     height: 32px;
     padding: 0 0.4em;

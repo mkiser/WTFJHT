@@ -23,7 +23,7 @@
 }
 
 .counter-card {
-  background: #fff;
+  background: $body-bg;
   padding: 1rem;
   border-left: 4px solid $red;
   transition: box-shadow 0.25s;
@@ -33,8 +33,8 @@
   }
 
   &.trump { border-left-color: $red; }
-  &.biden { border-left-color: #268bd2; }
-  &.election { border-left-color: #90a959; }
+  &.biden { border-left-color: $blue; }
+  &.election { border-left-color: $green; }
   &.wtf { border-left-color: $gray-5; }
 }
 
@@ -85,8 +85,8 @@
   background: $red;
   transition: width 0.3s ease;
 
-  &.biden { background: #268bd2; }
-  &.election { background: #90a959; }
+  &.biden { background: $blue; }
+  &.election { background: $green; }
 }
 
 // Mobile

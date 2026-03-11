@@ -17,8 +17,8 @@ body.carousel-open {
 // --------------------------------------------------------------------------
 $carousel-white:  #ffffff;
 $carousel-cream:  #faf9f7;
-$carousel-text:   #333333;
-$carousel-text2:  #555555;
+$carousel-text:   #303030;
+$carousel-text2:  #515151;
 $carousel-dim:    #888888;
 $carousel-red:    #c0392b;
 $carousel-rule:   #e0ddd8;
@@ -536,7 +536,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   }
 
   .carousel-card__tios-dot {
-    color: #e04a3e;
+    color: $carousel-red;
     font-size: calc(72 * var(--s) * 1px);
     font-weight: 700;
   }
@@ -544,7 +544,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   .carousel-card__tios-stroke {
     width: calc(140 * var(--s) * 1px);
     height: calc(4 * var(--s) * 1px);
-    background: #e04a3e;
+    background: $carousel-red;
     margin-bottom: calc(36 * var(--s) * 1px);
   }
 
@@ -615,14 +615,14 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   }
 
   .carousel-card__tios-dot {
-    color: #e04a3e;
+    color: $carousel-red;
     font-weight: 400;
   }
 
   .carousel-card__tios-s-divider {
     width: calc(44 * var(--s) * 1px);
     height: calc(3 * var(--s) * 1px);
-    background: #e04a3e;
+    background: $carousel-red;
     margin-left: calc(64 * var(--s) * 1px);
     margin-bottom: calc(24 * var(--s) * 1px);
     flex-shrink: 0;
@@ -637,7 +637,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   }
 
   .carousel-card__tios-sc {
-    color: #e04a3e;
+    color: $carousel-red;
     font-weight: 500;
   }
 
@@ -980,7 +980,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   left: 50%;
   transform: translateX(-50%) translateY(20px);
   z-index: 100002;
-  background: #e04a3e;
+  background: $carousel-red;
   color: #fff;
   border: none;
   border-radius: 28px;

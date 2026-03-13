@@ -10,26 +10,31 @@ sitemap: false
   <noscript>
     <div class="pulse-banner">
       {% include icons.html icon="check-circle" %}
-      <span class="pulse-banner-text">Thank you. Your feedback has been recorded.</span>
+      <span class="pulse-banner-text">Thanks for reading WTFJHT!</span>
     </div>
   </noscript>
 
   <div id="pulse-content" style="display:none">
 
-    <!-- Vote confirmation banner -->
-    <div id="pulse-banner" class="pulse-banner">
+    <!-- Vote recording state (shown briefly on page load) -->
+    <div id="pulse-recording" class="pulse-banner">
+      <span class="pulse-banner-text">Recording your vote...</span>
+    </div>
+
+    <!-- Vote confirmation banner (shown after successful POST) -->
+    <div id="pulse-banner" class="pulse-banner" style="display:none">
       {% include icons.html icon="check-circle" %}
       <span id="pulse-banner-text" class="pulse-banner-text"></span>
     </div>
 
     <!-- Heading with emoji -->
-    <div id="pulse-heading" class="pulse-heading">
+    <div id="pulse-heading" class="pulse-heading" style="display:none">
       <span id="pulse-emoji" class="pulse-emoji"></span>
       <h1 id="pulse-title"></h1>
     </div>
 
     <!-- Follow-up form -->
-    <div id="pulse-form-section">
+    <div id="pulse-form-section" style="display:none">
       <p id="pulse-prompt" class="pulse-prompt"></p>
       <form id="pulse-form" novalidate>
         <textarea id="pulse-note" class="pulse-textarea" maxlength="2000"
@@ -55,6 +60,13 @@ sitemap: false
       </div>
     </div>
 
+    <!-- Error state if vote recording fails -->
+    <div id="pulse-vote-error" style="display:none">
+      <div class="pulse-banner">
+        <span class="pulse-banner-text">Something went wrong recording your vote. Try clicking the link in your email again.</span>
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -70,9 +82,10 @@ sitemap: false
   var q = params.get('q') || '';
   var t = params.get('t') || '';
   var v = params.get('v') || '';
-  var p = params.get('p') || '';          
+  var p = params.get('p') || '';
 
   var content = document.getElementById('pulse-content');
+  var recording = document.getElementById('pulse-recording');
   var banner = document.getElementById('pulse-banner');
   var bannerText = document.getElementById('pulse-banner-text');
   var heading = document.getElementById('pulse-heading');
@@ -85,6 +98,7 @@ sitemap: false
   var submitBtn = document.getElementById('pulse-submit');
   var errorEl = document.getElementById('pulse-error');
   var successEl = document.getElementById('pulse-success');
+  var voteErrorEl = document.getElementById('pulse-vote-error');
 
   var emojiMap = { up: '\uD83D\uDC4D', meh: '\uD83D\uDE10', down: '\uD83D\uDC4E' };
   var promptMap = {
@@ -93,41 +107,102 @@ sitemap: false
     down: 'Sorry to hear that. What could we improve?'
   };
 
-  // No required params — generic message, no form
+  // No required params — generic message, no form, no vote recording
   if (!s || !q || !ed) {
+    recording.style.display = 'none';
     bannerText.textContent = 'Thanks for reading WTFJHT!';
+    banner.style.display = '';
     heading.style.display = 'none';
     formSection.style.display = 'none';
     content.style.display = 'block';
     return;
   }
 
-  // Vote confirmation banner
-  bannerText.textContent = 'Thank you. Your feedback has been recorded.';
-
-  // Emoji + title
-  if (t === 'feedback' && emojiMap[v]) {
-    emojiEl.textContent = emojiMap[v];
-    titleEl.textContent = 'Want to say more?';
-  } else {
-    emojiEl.textContent = '';
-    titleEl.textContent = 'Thanks for voting!';
-  }
-
-  // Follow-up prompt
-  var prompt = document.getElementById('pulse-prompt');
-  prompt.textContent = (t === 'feedback' && promptMap[v]) ? promptMap[v] : 'Want to tell us more about your choice?';
-
+  // Show the page with "Recording your vote..." state
   content.style.display = 'block';
 
+  // =====================================================================
+  // STAGE 1: Record the vote via POST on page load
+  // =====================================================================
+  // The GET redirect from the email link did NOT record the vote
+  // (to prevent email scanners from registering fake votes).
+  // This POST is what actually records it.
+
+  var votePayload = {
+    ed: ed,
+    s: s,
+    q: q,
+    t: t,
+    v: v,
+    p: p
+  };
+
+  fetch(API_URL, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(votePayload)
+  })
+    .then(function (res) {
+      return res.json().then(function (data) { return { status: res.status, data: data }; });
+    })
+    .then(function (result) {
+      // Hide recording state
+      recording.style.display = 'none';
+
+      if (result.data.ok || result.status === 429) {
+        // Vote recorded (or rate limited, which means a prior vote exists) — show confirmation
+        showConfirmation();
+      } else {
+        // Unexpected error — still show confirmation (vote may have been recorded on a prior click)
+        showConfirmation();
+      }
+    })
+    .catch(function () {
+      // Network error — show error state
+      recording.style.display = 'none';
+      voteErrorEl.style.display = 'block';
+    });
+
+  // =====================================================================
+  // Show confirmation + Stage 2 form
+  // =====================================================================
+
+  function showConfirmation() {
+    // Vote confirmation banner
+    bannerText.textContent = 'Thank you. Your feedback has been recorded.';
+    banner.style.display = '';
+
+    // Emoji + title
+    if (t === 'feedback' && emojiMap[v]) {
+      emojiEl.textContent = emojiMap[v];
+      titleEl.textContent = 'Want to say more?';
+    } else {
+      emojiEl.textContent = '';
+      titleEl.textContent = 'Thanks for voting!';
+    }
+
+    // Follow-up prompt
+    var promptEl = document.getElementById('pulse-prompt');
+    promptEl.textContent = (t === 'feedback' && promptMap[v]) ? promptMap[v] : 'Want to say more about your choice?';
+
+    heading.style.display = '';
+    formSection.style.display = '';
+  }
+
+  // =====================================================================
   // Character counter + submit enable/disable
+  // =====================================================================
+
   noteField.addEventListener('input', function () {
     var remaining = 2000 - this.value.length;
     counter.textContent = remaining.toLocaleString() + ' characters remaining';
     submitBtn.disabled = this.value.trim().length < 5 || submitted;
   });
 
-  // Form submission
+  // =====================================================================
+  // STAGE 2: Note form submission
+  // =====================================================================
+
   form.addEventListener('submit', function (e) {
     e.preventDefault();
     if (submitted) return;

@@ -108,7 +108,7 @@ sitemap: false
   };
 
   // No required params — generic message, no form, no vote recording
-  if (!s || !q || !ed) {
+  if (!s || !q || !ed || !v || !t) {
     recording.style.display = 'none';
     bannerText.textContent = 'Thanks for reading WTFJHT!';
     banner.style.display = '';
@@ -153,8 +153,8 @@ sitemap: false
         // Vote recorded (or rate limited, which means a prior vote exists) — show confirmation
         showConfirmation();
       } else {
-        // Unexpected error — still show confirmation (vote may have been recorded on a prior click)
-        showConfirmation();
+        // Server rejected the request (400/500) — show error state
+        voteErrorEl.style.display = 'block';
       }
     })
     .catch(function () {

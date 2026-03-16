@@ -42,26 +42,6 @@
   animation: pulse-dots 1.2s steps(1) infinite;
 }
 
-// Heading area with emoji
-.pulse-heading {
-  margin-bottom: 1.5em;
-}
-
-.pulse-emoji {
-  font-size: 1.5em;
-  line-height: 1;
-  display: inline-block;
-  vertical-align: middle;
-  margin-right: 0.25em;
-}
-
-.pulse-thanks h1 {
-  font-size: 1.3em;
-  font-weight: 600;
-  color: $gray-5;
-  margin: 0;
-}
-
 // Feedback form area
 .pulse-prompt {
   color: $gray-4;
@@ -101,6 +81,12 @@
   justify-content: space-between;
   align-items: center;
   margin-top: 0.5em;
+}
+
+.pulse-meta__actions {
+  display: flex;
+  align-items: center;
+  gap: 1em;
 }
 
 .pulse-counter {
@@ -151,29 +137,19 @@
 // Live results
 // ==========================================================================
 
-.pulse-rule {
-  border: none;
-  border-top: 1px solid $border-lighter;
-  margin: 2em 0 1.5em;
-}
-
-.pulse-results-toggle {
-  display: inline-block;
-  min-height: 44px;
-  padding: 0.5em 1.2em;
+// Results link — text-style secondary action
+.pulse-results-link {
   font-family: $root-font-family;
   font-size: $font-size-sm-em;
-  font-weight: 600;
-  color: $gray-3;
+  color: $meta-color;
   background: none;
-  border: 1px solid $border-color;
-  border-radius: $radius-xs;
+  border: none;
+  padding: 0;
   cursor: pointer;
-  transition: border-color $transition-fast, color $transition-fast;
+  transition: color $transition-fast;
 
   &:hover {
-    color: $gray-5;
-    border-color: $gray-3;
+    color: $gray-4;
   }
 
   &:disabled {
@@ -182,13 +158,18 @@
   }
 }
 
+// Standalone results link (below banner, when form isn't visible)
+#pulse-results-gate {
+  margin-top: 1em;
+}
+
 .pulse-results-label {
   font-size: $font-size-xs-em;
   font-weight: 600;
   color: $meta-color;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  margin: 0 0 1em;
+  margin: 1.5em 0 1em;
 }
 
 .pulse-result-row {

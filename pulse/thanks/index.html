@@ -27,11 +27,6 @@ sitemap: false
       <span id="pulse-banner-text" class="pulse-banner-text"></span>
     </div>
 
-    <!-- Heading with emoji -->
-    <div id="pulse-heading" class="pulse-heading" style="display:none">
-      <h1><span id="pulse-emoji" class="pulse-emoji" role="img" aria-hidden="true"></span><span id="pulse-title"></span></h1>
-    </div>
-
     <!-- Follow-up form -->
     <div id="pulse-form-section" style="display:none">
       <p id="pulse-prompt" class="pulse-prompt"></p>
@@ -40,8 +35,11 @@ sitemap: false
           minlength="5" placeholder="Share your thoughts (5 characters min)"
           aria-labelledby="pulse-prompt"></textarea>
         <div class="pulse-meta">
-          <span id="pulse-counter" class="pulse-counter">2,000 characters remaining</span>
-          <button type="submit" class="pulse-btn" id="pulse-submit" disabled>Send feedback</button>
+          <span id="pulse-counter" class="pulse-counter" style="display:none"></span>
+          <span class="pulse-meta__actions">
+            <button type="button" id="pulse-show-results" class="pulse-results-link" style="display:none">See how others voted</button>
+            <button type="submit" class="pulse-btn" id="pulse-submit" disabled>Send feedback</button>
+          </span>
         </div>
         <div class="pulse-hp" aria-hidden="true">
           <label for="pulse-website">Website</label>
@@ -57,13 +55,13 @@ sitemap: false
       <span>Thanks for your feedback.</span>
     </div>
 
-    <!-- Live results -->
+    <!-- Standalone results link (shown when form is not visible) -->
     <div id="pulse-results-gate" style="display:none">
-      <hr class="pulse-rule">
-      <button id="pulse-show-results" class="pulse-results-toggle" type="button">See results</button>
+      <button id="pulse-show-results-standalone" class="pulse-results-link" type="button">See how others voted</button>
     </div>
+
+    <!-- Live results -->
     <div id="pulse-results" style="display:none">
-      <hr class="pulse-rule">
       <p class="pulse-results-label">So far</p>
       <div id="pulse-results-bars"></div>
       <p id="pulse-results-total" class="pulse-results-total"></p>
@@ -104,9 +102,6 @@ sitemap: false
   var recording = document.getElementById('pulse-recording');
   var banner = document.getElementById('pulse-banner');
   var bannerText = document.getElementById('pulse-banner-text');
-  var heading = document.getElementById('pulse-heading');
-  var emojiEl = document.getElementById('pulse-emoji');
-  var titleEl = document.getElementById('pulse-title');
   var formSection = document.getElementById('pulse-form-section');
   var form = document.getElementById('pulse-form');
   var noteField = document.getElementById('pulse-note');
@@ -117,6 +112,7 @@ sitemap: false
   var voteErrorEl = document.getElementById('pulse-vote-error');
   var resultsGate = document.getElementById('pulse-results-gate');
   var resultsBtn = document.getElementById('pulse-show-results');
+  var resultsBtnStandalone = document.getElementById('pulse-show-results-standalone');
   var resultsSection = document.getElementById('pulse-results');
   var resultsBars = document.getElementById('pulse-results-bars');
   var resultsTotal = document.getElementById('pulse-results-total');
@@ -124,7 +120,6 @@ sitemap: false
 
   var closed = params.get('closed') === '1';
 
-  var emojiMap = { up: '\uD83D\uDC4D', meh: '\uD83D\uDE10', down: '\uD83D\uDC4E' };
   var promptMap = {
     up: 'Glad you liked it! Anything specific that stood out?',
     meh: 'Fair enough. What would make it better?',
@@ -190,18 +185,9 @@ sitemap: false
     bannerText.textContent = 'Got it \u2014 your vote has been recorded.';
     banner.style.display = '';
 
-    if (t === 'feedback' && emojiMap[v]) {
-      emojiEl.textContent = emojiMap[v];
-      titleEl.textContent = 'Want to say more?';
-    } else {
-      emojiEl.textContent = '';
-      titleEl.textContent = 'Thanks for voting!';
-    }
-
     var promptEl = document.getElementById('pulse-prompt');
     promptEl.textContent = (t === 'feedback' && promptMap[v]) ? promptMap[v] : 'Want to say more about your choice?';
 
-    heading.style.display = '';
     formSection.style.display = '';
   }
 
@@ -210,14 +196,22 @@ sitemap: false
   // =====================================================================
 
   function showResultsGate() {
-    resultsGate.style.display = 'block';
+    // If form is visible, show inline link; otherwise show standalone
+    if (formSection.style.display !== 'none') {
+      resultsBtn.style.display = '';
+    } else {
+      resultsGate.style.display = 'block';
+    }
   }
 
-  resultsBtn.addEventListener('click', function () {
-    resultsBtn.textContent = 'Loading\u2026';
-    resultsBtn.disabled = true;
+  function handleResultsClick(btn) {
+    btn.textContent = 'Loading\u2026';
+    btn.disabled = true;
     fetchResults();
-  });
+  }
+
+  resultsBtn.addEventListener('click', function () { handleResultsClick(resultsBtn); });
+  resultsBtnStandalone.addEventListener('click', function () { handleResultsClick(resultsBtnStandalone); });
 
   function fetchResults() {
     fetch(API_URL + '/results?q=' + encodeURIComponent(q))
@@ -225,11 +219,14 @@ sitemap: false
       .then(function (data) {
         if (!data.showResults || !data.options) return;
         resultsGate.style.display = 'none';
+        resultsBtn.style.display = 'none';
         renderResults(data);
       })
       .catch(function () {
-        resultsBtn.textContent = 'See results';
+        resultsBtn.textContent = 'See how others voted';
         resultsBtn.disabled = false;
+        resultsBtnStandalone.textContent = 'See how others voted';
+        resultsBtnStandalone.disabled = false;
       });
   }
 
@@ -278,7 +275,12 @@ sitemap: false
 
   noteField.addEventListener('input', function () {
     var remaining = 2000 - this.value.length;
-    counter.textContent = remaining.toLocaleString() + ' characters remaining';
+    if (remaining <= 200) {
+      counter.textContent = remaining.toLocaleString() + ' characters remaining';
+      counter.style.display = '';
+    } else {
+      counter.style.display = 'none';
+    }
     submitBtn.disabled = this.value.trim().length < 5 || submitted;
   });
 
@@ -317,9 +319,12 @@ sitemap: false
         if (result.data.ok) {
           // Collapse form, show success banner, keep results
           banner.style.display = 'none';
-          heading.style.display = 'none';
           formSection.style.display = 'none';
           successEl.style.display = '';
+          // Show standalone results link if results not already visible
+          if (resultsSection.style.display === 'none') {
+            resultsGate.style.display = 'block';
+          }
         } else if (result.status === 429) {
           submitted = false;
           errorEl.textContent = "You\u2019ve sent a few already \u2014 try again later.";

@@ -288,7 +288,7 @@
           document.body.appendChild(sw);
         });
       </script>
-      {% if page.layout == 'post' %}
+      {% if page.layout == 'post' or page.url == '/' %}
       <!-- POST-ONLY SCRIPTS -->
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/anchor.min.js" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js" defer></script>
@@ -308,7 +308,7 @@
       </script>
       {% endif %}
 
-      {% if page.layout == 'post' %}
+      {% if page.layout == 'post' or page.url == '/' %}
         <!-- ANCHORS FOR POSTS -->
         <script>
           document.addEventListener("DOMContentLoaded", function(event) {

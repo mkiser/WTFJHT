@@ -17,8 +17,8 @@ sitemap: false
   <div id="pulse-content" style="display:none">
 
     <!-- Vote recording state (shown briefly on page load) -->
-    <div id="pulse-recording" class="pulse-banner">
-      <span class="pulse-banner-text">Recording your vote...</span>
+    <div id="pulse-recording" class="pulse-banner pulse-banner--loading">
+      <span class="pulse-banner-text">Recording your vote</span>
     </div>
 
     <!-- Vote confirmation banner (shown after successful POST) -->
@@ -29,7 +29,7 @@ sitemap: false
 
     <!-- Heading with emoji -->
     <div id="pulse-heading" class="pulse-heading" style="display:none">
-      <h1><span id="pulse-emoji" class="pulse-emoji"></span><span id="pulse-title"></span></h1>
+      <h1><span id="pulse-emoji" class="pulse-emoji" role="img" aria-hidden="true"></span><span id="pulse-title"></span></h1>
     </div>
 
     <!-- Follow-up form -->
@@ -37,7 +37,7 @@ sitemap: false
       <p id="pulse-prompt" class="pulse-prompt"></p>
       <form id="pulse-form" novalidate>
         <textarea id="pulse-note" class="pulse-textarea" maxlength="2000"
-          minlength="5" placeholder="Optional — share your thoughts"
+          minlength="5" placeholder="Share your thoughts (5 characters min)"
           aria-labelledby="pulse-prompt"></textarea>
         <div class="pulse-meta">
           <span id="pulse-counter" class="pulse-counter">2,000 characters remaining</span>

@@ -29,6 +29,19 @@
   color: $gray-3;
 }
 
+// Animated ellipsis for loading states
+@keyframes pulse-dots {
+  0%, 20% { content: ''; }
+  40% { content: '.'; }
+  60% { content: '..'; }
+  80%, 100% { content: '...'; }
+}
+
+.pulse-banner--loading .pulse-banner-text::after {
+  content: '';
+  animation: pulse-dots 1.2s steps(1) infinite;
+}
+
 // Heading area with emoji
 .pulse-heading {
   margin-bottom: 1.5em;
@@ -146,6 +159,7 @@
 
 .pulse-results-toggle {
   display: inline-block;
+  min-height: 44px;
   padding: 0.5em 1.2em;
   font-family: $root-font-family;
   font-size: $font-size-sm-em;

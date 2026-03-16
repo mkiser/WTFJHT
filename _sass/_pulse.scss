@@ -83,12 +83,6 @@
   margin-top: 0.5em;
 }
 
-.pulse-meta__actions {
-  display: flex;
-  align-items: center;
-  gap: 1em;
-}
-
 .pulse-counter {
   font-size: $font-size-xs-em;
   color: $meta-color;
@@ -139,6 +133,8 @@
 
 // Results link — text-style secondary action
 .pulse-results-link {
+  display: block;
+  margin-top: 1em;
   font-family: $root-font-family;
   font-size: $font-size-sm-em;
   color: $meta-color;

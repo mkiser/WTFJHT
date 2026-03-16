@@ -36,10 +36,7 @@ sitemap: false
           aria-labelledby="pulse-prompt"></textarea>
         <div class="pulse-meta">
           <span id="pulse-counter" class="pulse-counter" style="display:none"></span>
-          <span class="pulse-meta__actions">
-            <button type="button" id="pulse-show-results" class="pulse-results-link" style="display:none">See how others voted</button>
-            <button type="submit" class="pulse-btn" id="pulse-submit" disabled>Send feedback</button>
-          </span>
+          <button type="submit" class="pulse-btn" id="pulse-submit" disabled>Send feedback</button>
         </div>
         <div class="pulse-hp" aria-hidden="true">
           <label for="pulse-website">Website</label>
@@ -47,6 +44,7 @@ sitemap: false
         </div>
       </form>
       <div id="pulse-error" class="pulse-status" style="display:none"></div>
+      <button type="button" id="pulse-show-results" class="pulse-results-link" style="display:none">See how others voted</button>
     </div>
 
     <!-- Success state after form submission -->

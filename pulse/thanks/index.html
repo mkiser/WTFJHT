@@ -29,8 +29,7 @@ sitemap: false
 
     <!-- Heading with emoji -->
     <div id="pulse-heading" class="pulse-heading" style="display:none">
-      <span id="pulse-emoji" class="pulse-emoji"></span>
-      <h1 id="pulse-title"></h1>
+      <h1><span id="pulse-emoji" class="pulse-emoji"></span><span id="pulse-title"></span></h1>
     </div>
 
     <!-- Follow-up form -->
@@ -53,16 +52,19 @@ sitemap: false
     </div>
 
     <!-- Success state after form submission -->
-    <div id="pulse-success" style="display:none">
-      <div class="pulse-success">
-        {% include icons.html icon="check-circle" %}
-        <span>Thanks! Your feedback has been recorded.</span>
-      </div>
+    <div id="pulse-success" class="pulse-banner" style="display:none">
+      {% include icons.html icon="check-circle" %}
+      <span>Thanks for your feedback.</span>
     </div>
 
     <!-- Live results -->
+    <div id="pulse-results-gate" style="display:none">
+      <hr class="pulse-rule">
+      <button id="pulse-show-results" class="pulse-results-toggle" type="button">See results</button>
+    </div>
     <div id="pulse-results" style="display:none">
-      <h2 class="pulse-results-title">Results</h2>
+      <hr class="pulse-rule">
+      <p class="pulse-results-label">So far</p>
       <div id="pulse-results-bars"></div>
       <p id="pulse-results-total" class="pulse-results-total"></p>
     </div>
@@ -113,7 +115,8 @@ sitemap: false
   var errorEl = document.getElementById('pulse-error');
   var successEl = document.getElementById('pulse-success');
   var voteErrorEl = document.getElementById('pulse-vote-error');
-
+  var resultsGate = document.getElementById('pulse-results-gate');
+  var resultsBtn = document.getElementById('pulse-show-results');
   var resultsSection = document.getElementById('pulse-results');
   var resultsBars = document.getElementById('pulse-results-bars');
   var resultsTotal = document.getElementById('pulse-results-total');
@@ -128,23 +131,21 @@ sitemap: false
     down: 'Sorry to hear that. What could we improve?'
   };
 
-  // No required params — generic message, no form, no vote recording
+  // No required params — generic message, no vote recording
   if (!s || !q || !ed || !v || !t) {
     recording.style.display = 'none';
     bannerText.textContent = 'Thanks for reading WTFJHT!';
     banner.style.display = '';
-    heading.style.display = 'none';
-    formSection.style.display = 'none';
     content.style.display = 'block';
     return;
   }
 
-  // Closed question — show closed message, no vote, but fetch results
+  // Closed question — show closed message + results gate, no vote
   if (closed) {
     recording.style.display = 'none';
     closedEl.style.display = 'block';
     content.style.display = 'block';
-    fetchResults();
+    showResultsGate();
     return;
   }
 
@@ -154,47 +155,29 @@ sitemap: false
   // =====================================================================
   // STAGE 1: Record the vote via POST on page load
   // =====================================================================
-  // The GET redirect from the email link did NOT record the vote
-  // (to prevent email scanners from registering fake votes).
-  // This POST is what actually records it.
-
-  var votePayload = {
-    ed: ed,
-    s: s,
-    q: q,
-    t: t,
-    v: v,
-    p: p
-  };
 
   fetch(API_URL, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(votePayload)
+    body: JSON.stringify({ ed: ed, s: s, q: q, t: t, v: v, p: p })
   })
     .then(function (res) {
       return res.json().then(function (data) { return { status: res.status, data: data }; });
     })
     .then(function (result) {
-      // Hide recording state
       recording.style.display = 'none';
 
       if (result.data.ok || result.status === 429) {
-        // Vote recorded (or rate limited, which means a prior vote exists) — show confirmation
         showConfirmation();
-        fetchResults();
+        showResultsGate();
       } else if (result.status === 410) {
-        // Question is closed
-        voteErrorEl.style.display = 'none';
         closedEl.style.display = 'block';
-        fetchResults();
+        showResultsGate();
       } else {
-        // Server rejected the request (400/500) — show error state
         voteErrorEl.style.display = 'block';
       }
     })
     .catch(function () {
-      // Network error — show error state
       recording.style.display = 'none';
       voteErrorEl.style.display = 'block';
     });
@@ -204,11 +187,9 @@ sitemap: false
   // =====================================================================
 
   function showConfirmation() {
-    // Vote confirmation banner
-    bannerText.textContent = 'Thank you. Your feedback has been recorded.';
+    bannerText.textContent = 'Got it \u2014 your vote has been recorded.';
     banner.style.display = '';
 
-    // Emoji + title
     if (t === 'feedback' && emojiMap[v]) {
       emojiEl.textContent = emojiMap[v];
       titleEl.textContent = 'Want to say more?';
@@ -217,7 +198,6 @@ sitemap: false
       titleEl.textContent = 'Thanks for voting!';
     }
 
-    // Follow-up prompt
     var promptEl = document.getElementById('pulse-prompt');
     promptEl.textContent = (t === 'feedback' && promptMap[v]) ? promptMap[v] : 'Want to say more about your choice?';
 
@@ -229,21 +209,32 @@ sitemap: false
   // Live results
   // =====================================================================
 
+  function showResultsGate() {
+    resultsGate.style.display = 'block';
+  }
+
+  resultsBtn.addEventListener('click', function () {
+    resultsBtn.textContent = 'Loading\u2026';
+    resultsBtn.disabled = true;
+    fetchResults();
+  });
+
   function fetchResults() {
     fetch(API_URL + '/results?q=' + encodeURIComponent(q))
       .then(function (res) { return res.json(); })
       .then(function (data) {
         if (!data.showResults || !data.options) return;
+        resultsGate.style.display = 'none';
         renderResults(data);
       })
       .catch(function () {
-        // Silently fail — results are optional
+        resultsBtn.textContent = 'See results';
+        resultsBtn.disabled = false;
       });
   }
 
   function renderResults(data) {
     while (resultsBars.firstChild) resultsBars.removeChild(resultsBars.firstChild);
-    var maxCount = Math.max.apply(null, data.options.map(function (o) { return o.count; }));
 
     data.options.forEach(function (opt) {
       var row = document.createElement('div');
@@ -251,39 +242,33 @@ sitemap: false
 
       var isVoted = opt.value === v;
       var pct = opt.pct || 0;
-      var width = maxCount > 0 ? Math.round((opt.count / maxCount) * 100) : 0;
 
-      // Label row
+      // Option label + count on one line
       var labelDiv = document.createElement('div');
       labelDiv.className = 'pulse-result-label';
       var labelSpan = document.createElement('span');
+      labelSpan.className = 'pulse-result-name' + (isVoted ? ' is-voted' : '');
       labelSpan.textContent = opt.label;
-      var pctSpan = document.createElement('span');
-      pctSpan.className = 'pulse-result-pct';
-      pctSpan.textContent = pct.toFixed(1) + '%';
+      var countSpan = document.createElement('span');
+      countSpan.className = 'pulse-result-count';
+      countSpan.textContent = Math.round(pct) + '%';
       labelDiv.appendChild(labelSpan);
-      labelDiv.appendChild(pctSpan);
+      labelDiv.appendChild(countSpan);
 
-      // Bar track
+      // Bar
       var track = document.createElement('div');
       track.className = 'pulse-result-track';
       var bar = document.createElement('div');
       bar.className = 'pulse-result-bar' + (isVoted ? ' is-voted' : '');
-      bar.style.width = width + '%';
+      bar.style.width = Math.max(pct, 2) + '%';
       track.appendChild(bar);
-
-      // Count
-      var countSpan = document.createElement('span');
-      countSpan.className = 'pulse-result-count';
-      countSpan.textContent = opt.count.toLocaleString() + ' vote' + (opt.count !== 1 ? 's' : '');
 
       row.appendChild(labelDiv);
       row.appendChild(track);
-      row.appendChild(countSpan);
       resultsBars.appendChild(row);
     });
 
-    resultsTotal.textContent = data.total.toLocaleString() + ' total vote' + (data.total !== 1 ? 's' : '');
+    resultsTotal.textContent = data.total.toLocaleString() + ' votes';
     resultsSection.style.display = 'block';
   }
 
@@ -314,12 +299,7 @@ sitemap: false
     errorEl.style.display = 'none';
 
     var payload = {
-      ed: ed,
-      s: s,
-      q: q,
-      t: t,
-      v: v,
-      p: p,
+      ed: ed, s: s, q: q, t: t, v: v, p: p,
       note: note,
       website: document.getElementById('pulse-website').value,
       _rendered: pageLoadTime
@@ -335,10 +315,11 @@ sitemap: false
       })
       .then(function (result) {
         if (result.data.ok) {
+          // Collapse form, show success banner, keep results
           banner.style.display = 'none';
           heading.style.display = 'none';
           formSection.style.display = 'none';
-          successEl.style.display = 'block';
+          successEl.style.display = '';
         } else if (result.status === 429) {
           submitted = false;
           errorEl.textContent = "You\u2019ve sent a few already \u2014 try again later.";

@@ -16,6 +16,8 @@
   background-color: $gray-1;
   border-left: 3px solid $gray-3;
   margin-bottom: 2em;
+  font-size: $font-size-base-em;
+  color: $gray-3;
 }
 
 .pulse-banner .icon {
@@ -24,21 +26,20 @@
 }
 
 .pulse-banner-text {
-  font-size: 0.9em;
   color: $gray-3;
 }
 
 // Heading area with emoji
 .pulse-heading {
-  text-align: center;
   margin-bottom: 1.5em;
 }
 
 .pulse-emoji {
-  font-size: 3em;
+  font-size: 1.5em;
   line-height: 1;
-  display: block;
-  margin-bottom: 0.15em;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 0.25em;
 }
 
 .pulse-thanks h1 {
@@ -51,25 +52,25 @@
 // Feedback form area
 .pulse-prompt {
   color: $gray-4;
-  font-size: 0.95em;
+  font-size: $font-size-lg-em;
   margin: 0 0 0.75em;
 }
 
 .pulse-textarea {
   width: 100%;
   min-height: 5em;
-  padding: 0.6em 0.75em;
+  padding: 0.5em 0.6em;
   font-family: $root-font-family;
   font-size: 1em;
   color: $gray-4;
   background: $body-bg;
   border: 1px solid $border-color;
   -webkit-appearance: none;
-  border-radius: 4px;
+  border-radius: $radius-xs;
   box-sizing: border-box;
   resize: vertical;
-  line-height: 1.5;
-  transition: border-color 0.15s ease;
+  line-height: $line-height-normal;
+  transition: border-color $transition-fast;
 
   &:focus {
     outline: none;
@@ -90,8 +91,8 @@
 }
 
 .pulse-counter {
-  font-size: 0.75em;
-  color: $gray-2;
+  font-size: $font-size-xs-em;
+  color: $meta-color;
 }
 
 .pulse-btn {
@@ -99,14 +100,14 @@
   min-height: 44px;
   padding: 0.6em 1.4em;
   font-family: $root-font-family;
-  font-size: 0.9em;
+  font-size: $font-size-base-em;
   font-weight: 600;
   color: #fff;
   background-color: $red;
   border: none;
-  border-radius: 4px;
+  border-radius: $radius-xs;
   cursor: pointer;
-  transition: opacity 0.15s ease;
+  transition: opacity $transition-fast;
 
   &:hover {
     opacity: 0.9;
@@ -123,87 +124,109 @@
   }
 }
 
-// Success banner after form submission — same style as vote banner
-.pulse-success {
-  display: flex;
-  align-items: center;
-  gap: 0.5em;
-  padding: 0.75em 1em;
-  background-color: $gray-1;
-  border-left: 3px solid $gray-3;
-  font-size: 0.9em;
-  color: $gray-3;
-}
-
-.pulse-success .icon {
-  flex-shrink: 0;
-  color: $gray-3;
-}
-
 // Error/rate-limit status
 .pulse-status {
   margin-top: 0.75em;
   padding: 0.6em 0.85em;
-  font-size: 0.9em;
+  font-size: $font-size-base-em;
   color: $gray-4;
   background-color: $gray-1;
-  border-radius: 4px;
+  border-radius: $radius-xs;
 }
 
+// ==========================================================================
 // Live results
-.pulse-results-title {
-  font-size: 1em;
+// ==========================================================================
+
+.pulse-rule {
+  border: none;
+  border-top: 1px solid $border-lighter;
+  margin: 2em 0 1.5em;
+}
+
+.pulse-results-toggle {
+  display: inline-block;
+  padding: 0.5em 1.2em;
+  font-family: $root-font-family;
+  font-size: $font-size-sm-em;
   font-weight: 600;
-  color: $gray-4;
-  margin: 0 0 1em;
+  color: $gray-3;
+  background: none;
+  border: 1px solid $border-color;
+  border-radius: $radius-xs;
+  cursor: pointer;
+  transition: border-color $transition-fast, color $transition-fast;
+
+  &:hover {
+    color: $gray-5;
+    border-color: $gray-3;
+  }
+
+  &:disabled {
+    opacity: 0.6;
+    cursor: wait;
+  }
+}
+
+.pulse-results-label {
+  font-size: $font-size-xs-em;
+  font-weight: 600;
+  color: $meta-color;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.08em;
+  margin: 0 0 1em;
 }
 
 .pulse-result-row {
-  margin-bottom: 0.75em;
+  margin-bottom: 1em;
 }
 
 .pulse-result-label {
   display: flex;
   justify-content: space-between;
-  font-size: 0.9em;
-  color: $gray-4;
-  margin-bottom: 0.25em;
+  align-items: baseline;
+  margin-bottom: 0.3em;
 }
 
-.pulse-result-pct {
+.pulse-result-name {
+  font-size: $font-size-base-em;
+  color: $gray-4;
+
+  &.is-voted {
+    font-weight: 600;
+    color: $gray-5;
+  }
+}
+
+.pulse-result-count {
+  font-size: $font-size-sm-em;
   font-weight: 600;
-  color: $gray-5;
+  color: $gray-4;
+  font-variant-numeric: tabular-nums;
 }
 
 .pulse-result-track {
-  height: 8px;
+  height: 6px;
   background: $gray-1;
-  border-radius: 4px;
+  border-radius: 3px;
   overflow: hidden;
 }
 
 .pulse-result-bar {
   height: 100%;
-  background: $gray-3;
-  border-radius: 4px;
-  transition: width 0.4s ease;
-}
+  background: $gray-2;
+  border-radius: 3px;
+  transition: width 0.5s ease;
 
-.pulse-result-bar.is-voted {
-  background: $red;
-}
-
-.pulse-result-count {
-  font-size: 0.75em;
-  color: $gray-2;
+  &.is-voted {
+    background: $red;
+  }
 }
 
 .pulse-results-total {
-  font-size: 0.8em;
-  color: $gray-2;
-  margin-top: 0.5em;
+  font-size: $font-size-xs-em;
+  color: $meta-color;
+  margin: 0.25em 0 0;
   text-align: right;
 }
 

@@ -150,6 +150,63 @@
   border-radius: 4px;
 }
 
+// Live results
+.pulse-results-title {
+  font-size: 1em;
+  font-weight: 600;
+  color: $gray-4;
+  margin: 0 0 1em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.pulse-result-row {
+  margin-bottom: 0.75em;
+}
+
+.pulse-result-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.9em;
+  color: $gray-4;
+  margin-bottom: 0.25em;
+}
+
+.pulse-result-pct {
+  font-weight: 600;
+  color: $gray-5;
+}
+
+.pulse-result-track {
+  height: 8px;
+  background: $gray-1;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.pulse-result-bar {
+  height: 100%;
+  background: $gray-3;
+  border-radius: 4px;
+  transition: width 0.4s ease;
+}
+
+.pulse-result-bar.is-voted {
+  background: $red;
+}
+
+.pulse-result-count {
+  font-size: 0.75em;
+  color: $gray-2;
+}
+
+.pulse-results-total {
+  font-size: 0.8em;
+  color: $gray-2;
+  margin-top: 0.5em;
+  text-align: right;
+}
+
 // Honeypot
 .pulse-hp {
   display: none;

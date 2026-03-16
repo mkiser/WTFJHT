@@ -60,10 +60,24 @@ sitemap: false
       </div>
     </div>
 
+    <!-- Live results -->
+    <div id="pulse-results" style="display:none">
+      <h2 class="pulse-results-title">Results</h2>
+      <div id="pulse-results-bars"></div>
+      <p id="pulse-results-total" class="pulse-results-total"></p>
+    </div>
+
     <!-- Error state if vote recording fails -->
     <div id="pulse-vote-error" style="display:none">
       <div class="pulse-banner">
         <span class="pulse-banner-text">Something went wrong recording your vote. Try clicking the link in your email again.</span>
+      </div>
+    </div>
+
+    <!-- Closed question state -->
+    <div id="pulse-closed" style="display:none">
+      <div class="pulse-banner">
+        <span class="pulse-banner-text">Voting has ended for this question. Thanks for reading WTFJHT!</span>
       </div>
     </div>
 
@@ -100,6 +114,13 @@ sitemap: false
   var successEl = document.getElementById('pulse-success');
   var voteErrorEl = document.getElementById('pulse-vote-error');
 
+  var resultsSection = document.getElementById('pulse-results');
+  var resultsBars = document.getElementById('pulse-results-bars');
+  var resultsTotal = document.getElementById('pulse-results-total');
+  var closedEl = document.getElementById('pulse-closed');
+
+  var closed = params.get('closed') === '1';
+
   var emojiMap = { up: '\uD83D\uDC4D', meh: '\uD83D\uDE10', down: '\uD83D\uDC4E' };
   var promptMap = {
     up: 'Glad you liked it! Anything specific that stood out?',
@@ -115,6 +136,15 @@ sitemap: false
     heading.style.display = 'none';
     formSection.style.display = 'none';
     content.style.display = 'block';
+    return;
+  }
+
+  // Closed question — show closed message, no vote, but fetch results
+  if (closed) {
+    recording.style.display = 'none';
+    closedEl.style.display = 'block';
+    content.style.display = 'block';
+    fetchResults();
     return;
   }
 
@@ -152,6 +182,12 @@ sitemap: false
       if (result.data.ok || result.status === 429) {
         // Vote recorded (or rate limited, which means a prior vote exists) — show confirmation
         showConfirmation();
+        fetchResults();
+      } else if (result.status === 410) {
+        // Question is closed
+        voteErrorEl.style.display = 'none';
+        closedEl.style.display = 'block';
+        fetchResults();
       } else {
         // Server rejected the request (400/500) — show error state
         voteErrorEl.style.display = 'block';
@@ -187,6 +223,68 @@ sitemap: false
 
     heading.style.display = '';
     formSection.style.display = '';
+  }
+
+  // =====================================================================
+  // Live results
+  // =====================================================================
+
+  function fetchResults() {
+    fetch(API_URL + '/results?q=' + encodeURIComponent(q))
+      .then(function (res) { return res.json(); })
+      .then(function (data) {
+        if (!data.showResults || !data.options) return;
+        renderResults(data);
+      })
+      .catch(function () {
+        // Silently fail — results are optional
+      });
+  }
+
+  function renderResults(data) {
+    while (resultsBars.firstChild) resultsBars.removeChild(resultsBars.firstChild);
+    var maxCount = Math.max.apply(null, data.options.map(function (o) { return o.count; }));
+
+    data.options.forEach(function (opt) {
+      var row = document.createElement('div');
+      row.className = 'pulse-result-row';
+
+      var isVoted = opt.value === v;
+      var pct = opt.pct || 0;
+      var width = maxCount > 0 ? Math.round((opt.count / maxCount) * 100) : 0;
+
+      // Label row
+      var labelDiv = document.createElement('div');
+      labelDiv.className = 'pulse-result-label';
+      var labelSpan = document.createElement('span');
+      labelSpan.textContent = opt.label;
+      var pctSpan = document.createElement('span');
+      pctSpan.className = 'pulse-result-pct';
+      pctSpan.textContent = pct.toFixed(1) + '%';
+      labelDiv.appendChild(labelSpan);
+      labelDiv.appendChild(pctSpan);
+
+      // Bar track
+      var track = document.createElement('div');
+      track.className = 'pulse-result-track';
+      var bar = document.createElement('div');
+      bar.className = 'pulse-result-bar' + (isVoted ? ' is-voted' : '');
+      bar.style.width = width + '%';
+      track.appendChild(bar);
+
+      // Count
+      var countSpan = document.createElement('span');
+      countSpan.className = 'pulse-result-count';
+      countSpan.textContent = opt.count.toLocaleString() + ' vote' + (opt.count !== 1 ? 's' : '');
+
+      row.appendChild(labelDiv);
+      row.appendChild(track);
+      row.appendChild(countSpan);
+      resultsBars.appendChild(row);
+    });
+
+    resultsTotal.textContent = data.total.toLocaleString() + ' total vote' + (data.total !== 1 ? 's' : '');
+    resultsSection.style.display = 'block';
   }
 
   // =====================================================================

@@ -58,6 +58,8 @@
     {% if page.path contains '_posts' %}
       {% if page.last_modified %}
       {% assign modified = page.last_modified %}
+      {% elsif page.last_modified_at %}
+      {% assign modified = page.last_modified_at %}
       {% else %}
       {% assign modified = page.date %}
       {% endif %}

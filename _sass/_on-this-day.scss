@@ -1,0 +1,56 @@
+// On This Day standalone pages (/on-this-day/month-day/)
+
+.otd-page {
+  max-width: $page-max-width;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.otd-year {
+  font-size: $font-size-lg-em;
+  color: $gray-3;
+  margin-bottom: 0.75em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid $border-lighter;
+}
+
+.otd-entry {
+  margin-bottom: 1em;
+
+  &__title {
+    display: block;
+    color: $gray-5;
+    text-decoration: none;
+    font-weight: 500;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &__desc {
+    display: block;
+    color: $gray-3;
+    font-size: $font-size-sm-em;
+    margin-top: 0.25em;
+  }
+}
+
+.otd-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $border-lighter;
+  font-size: $font-size-sm-em;
+
+  a {
+    color: $meta-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $gray-4;
+      text-decoration: underline;
+    }
+  }
+}

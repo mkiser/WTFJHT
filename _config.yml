@@ -33,7 +33,6 @@ defaults:
     tag_excerpts: ''
     category: trump
     seo:
-      type: NewsArticle
       name: What The Fuck Just Happened Today?
       description: Your essential guide to the shock and awe in national politics.
         A sane, once-a-day newsletter helping normal people make sense of the news.
@@ -128,6 +127,7 @@ exclude:
 - meta
 - guide
 - _podcasts
+- downloads
 extlinks:
   attributes:
     target: _blank

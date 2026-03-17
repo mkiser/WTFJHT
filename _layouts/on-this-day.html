@@ -1,0 +1,33 @@
+---
+layout: default
+image: "/uploads/og-image.jpg"
+---
+
+<div class="archive-page">
+  <h1 class="archive-page__heading">{{ page.title }}</h1>
+  <p class="archive-page__count">{{ page.posts.size }} post{% if page.posts.size != 1 %}s{% endif %} spanning {{ page.posts.first.year }}–{{ page.posts.last.year }}</p>
+
+  {% for entry in page.posts %}
+    {% if forloop.first or entry.year != prev_year %}
+    {% unless forloop.first %}</ul></article>{% endunless %}
+    <article class="on-this-day__year-group">
+      <h2 class="on-this-day__year">{{ entry.year }}</h2>
+      <ul class="archive-page__list">
+    {% endif %}
+
+        <li class="archive-page__item">
+          <a href="{{ site.baseurl }}{{ entry.url }}" class="archive-page__link">
+            <span class="archive-page__title">{{ entry.title }}{% if entry.description != "" %}: <span class="archive-page__description">{{ entry.description }}</span>{% endif %}</span>
+            <time class="archive-page__date" datetime="{{ entry.date | date_to_xmlschema }}">{{ entry.date | date: "%b %-d, %Y" }}</time>
+          </a>
+        </li>
+
+    {% if forloop.last %}
+      </ul>
+    </article>
+    {% endif %}
+    {% assign prev_year = entry.year %}
+  {% endfor %}
+</div>
+
+{% include browse-nav.html %}

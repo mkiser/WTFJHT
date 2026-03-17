@@ -114,26 +114,19 @@ layout: default
 
   {% include recent-posts.html %}
 
-  {% if page.years_ago_links and page.years_ago_links.size > 0 %}
-  <div class="historical-posts" data-years-ago='{{ page.years_ago_links | jsonify | xml_escape }}'>
+  {% if page.on_this_day_links and page.on_this_day_links.size > 0 %}
+  <div class="historical-posts" data-on-this-day='{{ page.on_this_day_links | jsonify | xml_escape }}'>
     <h3 class="historical-posts__title">On this day</h3>
-    {% for link in page.years_ago_links %}
+    {% for link in page.on_this_day_links %}
       <a href="{{ link.url | absolute_url }}" class="historical-posts__item">
         <span class="historical-posts__years">
-          {% if link.years_ago == 1 %}1 year ago
-          {% elsif link.years_ago == 2 %}2 years ago
-          {% elsif link.years_ago == 3 %}3 years ago
-          {% elsif link.years_ago == 4 %}4 years ago
-          {% elsif link.years_ago == 5 %}5 years ago
-          {% elsif link.years_ago == 6 %}6 years ago
-          {% elsif link.years_ago == 7 %}7 years ago
-          {% elsif link.years_ago == 8 %}8 years ago
-          {% elsif link.years_ago == 9 %}9 years ago
-          {% endif %}
+          {% if link.direction == "ago" %}{% if link.years_ago == 1 %}1 year ago{% else %}{{ link.years_ago }} years ago{% endif %}{% elsif link.direction == "later" %}{% assign abs_years = link.years_ago | times: -1 %}{% if abs_years == 1 %}1 year later{% else %}{{ abs_years }} years later{% endif %}{% endif %}
         </span>
         <span class="historical-posts__headline">{{ link.title }}: {{ link.desc }}</span>
       </a>
     {% endfor %}
+    {% assign month_name = page.date | date: "%B" | downcase %}{% assign day_num = page.date | date: "%-d" %}
+    <a href="/on-this-day/{{ month_name }}-{{ day_num }}/" class="historical-posts__see-all">See all {{ page.date | date: "%B" }} {{ day_num }} posts &rarr;</a>
   </div>
   {% endif %}
 

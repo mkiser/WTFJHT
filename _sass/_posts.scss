@@ -525,6 +525,23 @@ div.topic-date {
     }
 }
 
+.historical-posts .historical-posts__see-all {
+  display: block;
+  margin-top: 0.75em;
+  font-size: $font-size-sm-em;
+  color: $meta-color;
+  background: none;
+  border: none;
+  padding: 0;
+  text-decoration: none;
+  transition: color $transition-fast;
+
+  &:hover {
+    color: $gray-4;
+    text-decoration: none;
+  }
+}
+
 /*
 
 .post-content ul:has(li h3) {
@@ -802,6 +819,26 @@ div.topic-date {
     display: block;
     font-size: $font-size-sm;
     color: $gray-3;
+  }
+}
+
+// On This Day year-group headings (used within .archive-page)
+.on-this-day {
+  &__year-group {
+    margin-bottom: 0.5rem;
+  }
+
+  &__year {
+    font-size: $font-size-lg;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    padding-top: 1rem;
+    border-top: 2px solid $border-lighter;
+
+    .on-this-day__year-group:first-child & {
+      border-top: none;
+      padding-top: 0;
+    }
   }
 }
 

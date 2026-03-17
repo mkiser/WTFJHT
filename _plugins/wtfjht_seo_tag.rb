@@ -328,7 +328,12 @@ module Jekyll
           elsif homepage?
             "WebSite"
           elsif page["layout"] == "post" && page["date"]
-            "NewsArticle"
+            post_date = page["date"].is_a?(String) ? Date.parse(page["date"]) : page["date"].to_date
+            if post_date < (Date.today << 24)
+              "Article"
+            else
+              "NewsArticle"
+            end
           else
             "WebPage"
           end
@@ -503,7 +508,7 @@ module Jekyll
       alias_method :@type, :type
       private :type, :logo
 
-      VALID_ENTITY_TYPES = %w(BlogPosting CreativeWork NewsArticle).freeze
+      VALID_ENTITY_TYPES = %w(Article BlogPosting CreativeWork NewsArticle).freeze
       VALID_AUTHOR_TYPES = %w(Organization Person).freeze
       private_constant :VALID_ENTITY_TYPES, :VALID_AUTHOR_TYPES
 
@@ -555,15 +560,15 @@ module Jekyll
       alias_method :mainEntityOfPage, :main_entity
       private :main_entity
 
-      # NewsArticle-specific: content is free to access
+      # Article/NewsArticle: content is free to access
       def isAccessibleForFree
-        return true if type == "NewsArticle"
+        return true if type == "NewsArticle" || type == "Article"
         nil
       end
 
-      # Article section for NewsArticle
+      # Article section for Article/NewsArticle
       def articleSection
-        return "Daily Briefing" if type == "NewsArticle"
+        return "Daily Briefing" if type == "NewsArticle" || type == "Article"
         nil
       end
 

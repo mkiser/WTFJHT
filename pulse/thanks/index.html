@@ -74,9 +74,11 @@ sitemap: false
 
     <!-- Closed question state -->
     <div id="pulse-closed" style="display:none">
-      <div class="pulse-banner">
+      <div class="pulse-banner pulse-banner--closed">
+        {% include icons.html icon="check-circle" %}
         <span class="pulse-banner-text">Voting has ended for this question. Thanks for reading WTFJHT!</span>
       </div>
+      <button id="pulse-show-results-closed" class="pulse-results-link" type="button">See how others voted</button>
     </div>
 
   </div>
@@ -133,12 +135,11 @@ sitemap: false
     return;
   }
 
-  // Closed question — show closed message + results gate, no vote
+  // Closed question — show closed message + results link, no vote
   if (closed) {
     recording.style.display = 'none';
     closedEl.style.display = 'block';
     content.style.display = 'block';
-    showResultsGate();
     return;
   }
 
@@ -165,7 +166,6 @@ sitemap: false
         showResultsGate();
       } else if (result.status === 410) {
         closedEl.style.display = 'block';
-        showResultsGate();
       } else {
         voteErrorEl.style.display = 'block';
       }
@@ -208,8 +208,11 @@ sitemap: false
     fetchResults();
   }
 
+  var resultsBtnClosed = document.getElementById('pulse-show-results-closed');
+
   resultsBtn.addEventListener('click', function () { handleResultsClick(resultsBtn); });
   resultsBtnStandalone.addEventListener('click', function () { handleResultsClick(resultsBtnStandalone); });
+  resultsBtnClosed.addEventListener('click', function () { handleResultsClick(resultsBtnClosed); });
 
   function fetchResults() {
     fetch(API_URL + '/results?q=' + encodeURIComponent(q))
@@ -218,6 +221,7 @@ sitemap: false
         if (!data.showResults || !data.options) return;
         resultsGate.style.display = 'none';
         resultsBtn.style.display = 'none';
+        resultsBtnClosed.style.display = 'none';
         renderResults(data);
       })
       .catch(function () {
@@ -225,6 +229,8 @@ sitemap: false
         resultsBtn.disabled = false;
         resultsBtnStandalone.textContent = 'See how others voted';
         resultsBtnStandalone.disabled = false;
+        resultsBtnClosed.textContent = 'See how others voted';
+        resultsBtnClosed.disabled = false;
       });
   }
 

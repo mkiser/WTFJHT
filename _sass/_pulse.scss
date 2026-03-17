@@ -154,6 +154,11 @@
   }
 }
 
+// Closed state — tighten spacing between banner and results link
+#pulse-closed .pulse-banner {
+  margin-bottom: 0.5em;
+}
+
 // Standalone results link (below banner, when form isn't visible)
 #pulse-results-gate {
   margin-top: 1em;

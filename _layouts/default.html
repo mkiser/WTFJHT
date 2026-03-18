@@ -34,7 +34,7 @@
     <!-- Preload critical above-the-fold image -->
     <link rel="preload" href="{{ site.url }}{{ site.baseurl }}/favicon.svg?v=3" as="image" type="image/svg+xml">
 
-    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/styles.css" type="text/css">
+    <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/styles.css?v={{ site.time | date: '%s' }}" type="text/css">
     <link rel="manifest" href="{{ site.url }}{{ site.baseurl }}/manifest.json?v=3">
     <link rel="icon" href="{{ site.url }}{{ site.baseurl }}/favicon.ico?v=3">
     <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}{{ site.baseurl }}/favicon-96x96.png?v=3">
@@ -280,8 +280,8 @@
       </footer>
     </div>      
       <!-- SEARCH (lazy-loaded on first interaction) -->
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js" defer></script>
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js" defer></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js?v={{ site.time | date: '%s' }}" defer></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js?v={{ site.time | date: '%s' }}" defer></script>
       <!-- PWA SERVICE WORKER -->
       <script>
         window.addEventListener('load', function() {

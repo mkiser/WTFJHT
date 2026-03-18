@@ -67,21 +67,39 @@ jobs:
             --exclude "*" \
             --include "*.html" \
             --cache-control "public, max-age=300, s-maxage=3600" &
+          PID1=$!
 
-          # Pass 2: Dynamic data (feeds, search index, sitemap) — 1hr like HTML
+          # Pass 2: Search index — short browser cache like HTML (changes on every full build)
+          aws s3 cp _site/search-index.json $BUCKET/search-index.json --only-show-errors \
+            --acl public-read \
+            --cache-control "public, max-age=300, s-maxage=3600" &
+          PID2=$!
+
+          # Pass 3: Other dynamic data (feeds, sitemap) — 1hr cache
           aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
             --acl public-read \
             --exclude "*" \
             --include "*.json" --include "*.xml" \
+            --exclude "search-index.json" \
             --cache-control "public, max-age=3600" &
+          PID3=$!
 
-          # Pass 3: Static assets (CSS, JS, images, fonts) — 1-day cache
+          # Pass 4: Static assets (CSS, JS, images, fonts) — 1-day cache
           aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
             --acl public-read \
             --exclude "*.html" --exclude "*.json" --exclude "*.xml" \
             --cache-control "public, max-age=86400" &
+          PID4=$!
 
-          wait
+          # Wait for all passes and fail if any failed
+          FAILED=0
+          for PID in $PID1 $PID2 $PID3 $PID4; do
+            wait $PID || FAILED=1
+          done
+          if [ $FAILED -ne 0 ]; then
+            echo "ERROR: One or more S3 upload passes failed"
+            exit 1
+          fi
 
       - name: Purge Cloudflare cache
         run: |
@@ -119,6 +137,8 @@ jobs:
             
       - name: Post-deploy smoke test
         run: |
+          echo "Waiting for Cloudflare cache purge to propagate..."
+          sleep 5
           echo "Running smoke tests..."
           curl -sf https://whatthefuckjusthappenedtoday.com/ > /dev/null || { echo "FAIL: Homepage unreachable"; exit 1; }
           curl -sf https://whatthefuckjusthappenedtoday.com/rss.xml > /dev/null || { echo "FAIL: RSS feed unreachable"; exit 1; }

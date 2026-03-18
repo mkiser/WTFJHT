@@ -186,11 +186,11 @@ footer {
 
     p {
       margin: 0;
-      color: #999;
+      color: $footer-text;
     }
 
     a {
-      color: #aaa;
+      color: $footer-link;
 
       &:hover {
         color: #fff;
@@ -297,7 +297,7 @@ footer {
     font-size: $font-size-sm;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: $meta-color;
+    color: $text-dim; // #666 = 5.74:1 on white (WCAG AA)
     margin: 0 0 1rem;
   }
 

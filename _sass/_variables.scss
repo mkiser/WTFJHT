@@ -27,8 +27,10 @@ $border-color: #e5e5e5;
 
 // Semantic text colors
 $text-strong: #303030;    // Near-black for strong text, headings (Tufte)
-$meta-color: #9a9a9a;     // Post dates, bylines, secondary meta
+$meta-color: #9a9a9a;     // Post dates, bylines, secondary meta (4.8:1 on black)
 $text-dim: #666;          // Muted/tertiary text
+$footer-text: #aaa;       // Footer body text on dark bg (7.49:1 on #1a1a1a, WCAG AA)
+$footer-link: #bbb;       // Footer links on dark bg (8.84:1 on #1a1a1a, WCAG AA)
 
 // Semantic accent colors
 $red-dark: #c0392b;       // TIOS accents, carousel red

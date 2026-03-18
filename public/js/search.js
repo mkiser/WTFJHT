@@ -138,41 +138,17 @@
       });
   }
 
-  // Fetch index from network
+  // Fetch index from network (Cloudflare serves Brotli/gzip automatically)
   function fetchIndex() {
-    // Try uncompressed first (Cloudflare serves Brotli automatically)
-    // Fall back to pre-compressed .gz for environments without Brotli
     return fetch('/search-index.json')
       .then(function(response) {
         if (!response.ok) throw new Error('Index not found');
         return response.json();
       })
-      .catch(function() {
-        console.log('Search: Falling back to gzip version');
-        return fetch('/search-index.json.gz')
-          .then(function(response) {
-            if (!response.ok) throw new Error('Compressed index not found');
-            return response.blob().then(decompressGzip);
-          });
-      })
       .then(function(data) {
         saveToIndexedDB(data);
         return data;
       });
-  }
-
-  // Decompress gzipped data
-  function decompressGzip(blob) {
-    if (typeof DecompressionStream !== 'undefined') {
-      var ds = new DecompressionStream('gzip');
-      return new Response(blob.stream().pipeThrough(ds)).json();
-    }
-    if (typeof pako !== 'undefined') {
-      return blob.arrayBuffer().then(function(buffer) {
-        return JSON.parse(pako.inflate(new Uint8Array(buffer), { to: 'string' }));
-      });
-    }
-    throw new Error('No decompression method available');
   }
 
   // IndexedDB operations

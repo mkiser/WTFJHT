@@ -19,8 +19,6 @@ module Jekyll
       # Calculate read time for the latest post
       read_time = YearsAgo::Utils.read_time_string(latest)
       latest_abs   = YearsAgo::Utils.absolutize(site, latest.url.to_s)
-
-      latest_abs   = YearsAgo::Utils.absolutize(site, latest.url.to_s)
       edition_time = latest.data["date"]               # Time object
       edition_iso  = edition_time.iso8601              # e.g., "2025-10-08T15:47:00-07:00"
       run_day      = edition_time.to_date.iso8601      # e.g., "2025-10-08"  (stable per edition)

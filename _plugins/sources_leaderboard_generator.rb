@@ -69,11 +69,20 @@ Jekyll::Hooks.register :site, :post_write do |site|
     'justsecurity.org' => 'Just Security'
   }
 
-  # Process all built posts
-  Dir.glob(File.join(site.dest, '20*/**/*.html')).sort.each do |file|
-    year = file.match(%r{/(\d{4})/})[1] rescue next
+  # Process all built posts via site.posts.docs
+  site.posts.docs.each do |post|
+    next if post.data['draft']
+    next unless post.output
 
-    doc = Nokogiri::HTML(File.read(file))
+    year = post.data['date'].strftime('%Y')
+
+    begin
+      doc = Nokogiri::HTML(post.output)
+    rescue => e
+      Jekyll.logger.warn "Sources Leaderboard:", "Nokogiri parse error for #{post.url}: #{e.message}"
+      next
+    end
+
     post_content = doc.at_css('.post-content')
     next unless post_content
 

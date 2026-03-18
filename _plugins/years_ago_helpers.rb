@@ -63,7 +63,8 @@ module YearsAgo
       end
 
       "" # no match
-    rescue
+    rescue StandardError => e
+      Jekyll.logger.warn "YearsAgo:", "Error extracting today-in-one-sentence: #{e.message}"
       ""
     end
 

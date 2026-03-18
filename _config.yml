@@ -79,6 +79,8 @@ lsi: false
 twitter:
   username: WTFJHT
 encoding: utf-8
+lang: en
+locale: en_US
 markdown: CommonMark
 commonmark:
   extensions:
@@ -128,6 +130,7 @@ exclude:
 - guide
 - _podcasts
 - downloads
+- node_modules
 extlinks:
   attributes:
     target: _blank

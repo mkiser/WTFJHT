@@ -34,7 +34,11 @@ Jekyll::Hooks.register :site, :post_write do |site|
 
   # Load tag taxonomy for indexing
   tag_taxonomy_path = File.join(site.source, '_data', 'tag_taxonomy.yml')
-  tag_taxonomy = YAML.safe_load(File.read(tag_taxonomy_path))
+  unless File.exist?(tag_taxonomy_path)
+    Jekyll.logger.error "Search Index:", "tag_taxonomy.yml not found at #{tag_taxonomy_path}"
+    next
+  end
+  tag_taxonomy = YAML.safe_load(File.read(tag_taxonomy_path)) || {}
   all_tags = tag_taxonomy.values.flatten
   tag_to_idx = all_tags.each_with_index.to_h
 

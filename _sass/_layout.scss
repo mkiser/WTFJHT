@@ -186,11 +186,11 @@ footer {
 
     p {
       margin: 0;
-      color: $text-dim;
+      color: #999;
     }
 
     a {
-      color: #888;
+      color: #aaa;
 
       &:hover {
         color: #fff;
@@ -293,8 +293,12 @@ footer {
   margin: 0 auto;
   padding: 0 1rem;
 
-  .algolia__search-content h6 {
-    margin-top: 1rem;
+  .search-results__title {
+    font-size: $font-size-sm;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: $meta-color;
+    margin: 0 0 1rem;
   }
 
   .algolia__result a {

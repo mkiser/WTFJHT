@@ -28,7 +28,10 @@ jobs:
             echo "full_build=true" >> "$GITHUB_OUTPUT"
           elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
             echo "full_build=true" >> "$GITHUB_OUTPUT"
-          elif git diff --name-only ${{ github.event.before }} HEAD | grep -q '^_posts/'; then
+          elif ! CHANGED=$(git diff --name-only "${{ github.event.before }}" HEAD 2>/dev/null); then
+            # git diff failed (e.g., force-push beyond fetch-depth) — full build as fail-safe
+            echo "full_build=true" >> "$GITHUB_OUTPUT"
+          elif echo "$CHANGED" | grep -qE '^(_posts/|_plugins/(search_index|sources_leaderboard)|_data/tag_taxonomy)'; then
             echo "full_build=true" >> "$GITHUB_OUTPUT"
           else
             echo "full_build=false" >> "$GITHUB_OUTPUT"
@@ -47,12 +50,6 @@ jobs:
           SKIP_SEARCH_INDEX: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
           SKIP_LEADERBOARD: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
 
-      - name: Compress search index
-        if: steps.check.outputs.full_build == 'true'
-        run: |
-          # Keep original for Cloudflare Brotli, create gzip fallback
-          gzip -9 -k _site/search-index.json
-
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
@@ -62,9 +59,29 @@ jobs:
 
       - name: Deploy to S3
         run: |
-          aws s3 cp _site/ s3://whatthefuckjusthappenedtoday.com/ --recursive \
+          BUCKET=s3://whatthefuckjusthappenedtoday.com
+
+          # Pass 1: HTML — browsers revalidate at 5min, CF edge caches 1hr
+          aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
             --acl public-read \
-            --cache-control "no-cache, no-store, must-revalidate"
+            --exclude "*" \
+            --include "*.html" \
+            --cache-control "public, max-age=300, s-maxage=3600" &
+
+          # Pass 2: Dynamic data (feeds, search index, sitemap) — 1hr like HTML
+          aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
+            --acl public-read \
+            --exclude "*" \
+            --include "*.json" --include "*.xml" \
+            --cache-control "public, max-age=3600" &
+
+          # Pass 3: Static assets (CSS, JS, images, fonts) — 1-day cache
+          aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
+            --acl public-read \
+            --exclude "*.html" --exclude "*.json" --exclude "*.xml" \
+            --cache-control "public, max-age=86400" &
+
+          wait
 
       - name: Purge Cloudflare cache
         run: |
@@ -81,9 +98,6 @@ jobs:
           HUB=https://pubsubhubbub.appspot.com/
           AUTH_DATE=$(date +%s)
           AUTH_HASH=$(echo -n "${{ secrets.PODCAST_INDEX_API_KEY }}${{ secrets.PODCAST_INDEX_API_SECRET }}${AUTH_DATE}" | sha1sum | awk '{print $1}')
-
-          # Bing
-          curl -s "http://www.bing.com/ping?sitemap=$BASE/sitemap.xml" &
 
           # WebSub hub
           curl -s -X POST "$HUB" -d "hub.mode=publish" \
@@ -103,13 +117,35 @@ jobs:
           # Wait for all background jobs
           wait
             
+      - name: Post-deploy smoke test
+        run: |
+          echo "Running smoke tests..."
+          curl -sf https://whatthefuckjusthappenedtoday.com/ > /dev/null || { echo "FAIL: Homepage unreachable"; exit 1; }
+          curl -sf https://whatthefuckjusthappenedtoday.com/rss.xml > /dev/null || { echo "FAIL: RSS feed unreachable"; exit 1; }
+          curl -sf https://whatthefuckjusthappenedtoday.com/search-index.json > /dev/null || { echo "FAIL: Search index unreachable"; exit 1; }
+          echo "All smoke tests passed."
+
       - name: Notify Slack
         if: always()
-        uses: rtCamp/action-slack-notify@v2
         env:
-          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
-          SLACK_USERNAME: WTFJHT Bot
-          SLACK_ICON_EMOJI: ':newspaper:'
-          SLACK_TITLE: GitHub Actions Build
-          SLACK_COLOR: ${{ job.status == 'success' && '#36a64f' || '#ff0000' }}
-          SLACK_MESSAGE: "${{ github.workflow }} #${{ github.run_number }} by ${{ github.actor }} - ${{ job.status }}"
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          WORKFLOW_NAME: ${{ github.workflow }}
+          RUN_NUMBER: ${{ github.run_number }}
+          ACTOR: ${{ github.actor }}
+          JOB_STATUS: ${{ job.status }}
+        run: |
+          if [ "$JOB_STATUS" = "success" ]; then COLOR="#36a64f"; else COLOR="#ff0000"; fi
+          jq -n \
+            --arg color "$COLOR" \
+            --arg text "$WORKFLOW_NAME #$RUN_NUMBER by $ACTOR - $JOB_STATUS" \
+            '{
+              "username": "WTFJHT Bot",
+              "icon_emoji": ":newspaper:",
+              "attachments": [{
+                "color": $color,
+                "title": "GitHub Actions Build",
+                "text": $text
+              }]
+            }' | curl -s -X POST "$SLACK_WEBHOOK_URL" \
+              -H 'Content-Type: application/json' \
+              -d @-

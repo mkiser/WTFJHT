@@ -192,13 +192,13 @@
         <!-- ALGOLIA -->
         <div class="wtf-search-results">
           <div class="algolia__search-content js-algolia__search-content">
-            <h6>Search Results</h6>
+            <h2 class="search-results__title">Search Results</h2>
             <div class="posts algolia__results" aria-live="polite"></div>
           </div>
         </div>
 
         <div class="algolia__initial-content js-algolia__initial-content">
-          {{ content | extlinks }}
+          {{ content }}
         </div>
         <!-- END ALGOLIA -->
       </main>
@@ -216,8 +216,8 @@
               <li><a href="{{ site.url }}{{ site.baseurl }}/about/">About</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/faq/">FAQ</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/membership/">Membership</a></li>
-              <li><a href="https://wtfjht.memberful.com/account">Member Sign-in</a></li>
-              <li><a href="https://cottonbureau.com/people/wtf-just-happened-today">Merch</a></li>
+              <li><a href="https://wtfjht.memberful.com/account" target="_blank" rel="noopener">Member Sign-in</a></li>
+              <li><a href="https://cottonbureau.com/people/wtf-just-happened-today" target="_blank" rel="noopener">Merch</a></li>
               
             </ul>
           </div>
@@ -227,8 +227,8 @@
             <ul>
               <li><a href="{{ site.url }}{{ site.baseurl }}/podcasts/">Podcast</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
-              <li><a href="https://currentstatus.io/">Current Status</a></li>
-              <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY">Recommended Books</a></li>
+              <li><a href="https://currentstatus.io/" target="_blank" rel="noopener">Current Status</a></li>
+              <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY" target="_blank" rel="noopener">Recommended Books</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/big-grid/">The Big Grid.™</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/big-board/">The Big Board.™</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/big-dumb-dashboard/">The Big Dumb Dashboard.™</a></li>
@@ -250,13 +250,13 @@
           <div class="ft-row">
             <span class="ft-row-label">Follow</span>
             <ul class="ft-icon-list">
-              <li><a href="https://bsky.app/profile/whatthefuckjusthappenedtoday.com" aria-label="Bluesky">{% include_cached icons.html icon="bluesky" %}</a></li>
-              <li><a href="https://www.threads.net/@wtfjht" aria-label="Threads">{% include_cached icons.html icon="threads" %}</a></li>
-              <li><a href="https://x.com/wtfjht" aria-label="Twitter/X">{% include_cached icons.html icon="twitter" %}</a></li>
-              <li><a href="https://mastodon.social/@wtfjht" aria-label="Mastodon">{% include_cached icons.html icon="mastodon" %}</a></li>
-              <li><a href="https://www.instagram.com/wtfjht/" aria-label="Instagram">{% include_cached icons.html icon="instagram" %}</a></li>
-              <li><a href="https://www.facebook.com/wtfjht" aria-label="Facebook">{% include_cached icons.html icon="facebook" %}</a></li>
-              <li><a href="https://github.com/mkiser/WTFJHT" aria-label="GitHub">{% include_cached icons.html icon="github" %}</a></li>
+              <li><a href="https://bsky.app/profile/whatthefuckjusthappenedtoday.com" target="_blank" rel="noopener" aria-label="Bluesky">{% include_cached icons.html icon="bluesky" %}</a></li>
+              <li><a href="https://www.threads.net/@wtfjht" target="_blank" rel="noopener" aria-label="Threads">{% include_cached icons.html icon="threads" %}</a></li>
+              <li><a href="https://x.com/wtfjht" target="_blank" rel="noopener" aria-label="Twitter/X">{% include_cached icons.html icon="twitter" %}</a></li>
+              <li><a href="https://mastodon.social/@wtfjht" target="_blank" rel="noopener" aria-label="Mastodon">{% include_cached icons.html icon="mastodon" %}</a></li>
+              <li><a href="https://www.instagram.com/wtfjht/" target="_blank" rel="noopener" aria-label="Instagram">{% include_cached icons.html icon="instagram" %}</a></li>
+              <li><a href="https://www.facebook.com/wtfjht" target="_blank" rel="noopener" aria-label="Facebook">{% include_cached icons.html icon="facebook" %}</a></li>
+              <li><a href="https://github.com/mkiser/WTFJHT" target="_blank" rel="noopener" aria-label="GitHub">{% include_cached icons.html icon="github" %}</a></li>
             </ul>
           </div>
           <div class="ft-row">
@@ -273,7 +273,7 @@
           <p>
             <a href="#" onclick="randomPost(); return false;" class="easter-egg" aria-label="Random post">©</a>
             <a href="{{ site.url }}{{ site.baseurl }}/about/">WTF Just Happened? LLC</a>
-            · Licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+            · Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>
             · <a href="{{ site.url }}{{ site.baseurl }}/license/">License</a>
           </p>
         </section>

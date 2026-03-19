@@ -1,11 +1,15 @@
 # _plugins/on_this_day_pages.rb
 #
-# Generates 366 "On This Day" pages (one per calendar date, including Feb 29).
+# Generates "On This Day" pages (one per calendar date, including Feb 29).
 # Each page lists every post published on that month/day across all years.
 #
 # URLs:  /on-this-day/january-1/
 #        /on-this-day/march-17/
 #        /on-this-day/february-29/
+#
+# Performance: On post-only builds, set CHANGED_DATES to a comma-separated
+# list of "month-day" slugs (e.g., "march-18") to only regenerate those pages.
+# Omit or leave empty for a full build (all dates).
 
 require "date"
 
@@ -22,6 +26,16 @@ module Jekyll
     MONTH_DAYS = [31, 29, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31].freeze
 
     def generate(site)
+      # Determine which dates to generate (empty = all)
+      changed = (ENV["CHANGED_DATES"] || "").strip
+      only_slugs = changed.empty? ? nil : changed.split(",").map(&:strip).to_set
+
+      if only_slugs
+        Jekyll.logger.info "On This Day:", "Incremental mode — generating #{only_slugs.size} page(s): #{only_slugs.to_a.join(', ')}"
+      else
+        Jekyll.logger.info "On This Day:", "Full build — generating all pages"
+      end
+
       # Build index: [month, day] -> array of posts (sorted oldest-first)
       index = Hash.new { |h, k| h[k] = [] }
       site.posts.docs.each do |post|
@@ -29,20 +43,24 @@ module Jekyll
         index[[d.month, d.day]] << post
       end
 
-      # Generate one page per calendar date (only if posts exist)
+      # Generate pages
       MONTH_DAYS.each_with_index do |days, month_idx|
         month = month_idx + 1
         month_name = MONTH_NAMES[month_idx]
         month_name_cap = month_name.capitalize
 
         (1..days).each do |day|
+          slug = "#{month_name}-#{day}"
+
+          # In incremental mode, skip dates that didn't change
+          next if only_slugs && !only_slugs.include?(slug)
+
           posts = index[[month, day]]
           next if posts.empty?
 
           # Sort chronologically (oldest first)
           posts.sort_by! { |p| p.data["date"] }
 
-          slug = "#{month_name}-#{day}"
           years = posts.map { |p| p.data["date"].year }
           min_year = years.min
           max_year = years.max

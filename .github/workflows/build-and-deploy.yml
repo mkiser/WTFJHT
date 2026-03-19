@@ -38,6 +38,23 @@ jobs:
           fi
           echo "Full build: $(cat "$GITHUB_OUTPUT")"
 
+          # Extract dates from changed post filenames for incremental OTD generation
+          # Post filenames: _posts/YYYY-MM-DD-*.markdown → "monthname-day" slugs
+          MONTHS="january february march april may june july august september october november december"
+          DATES=""
+          for f in $(echo "$CHANGED" 2>/dev/null | grep '^_posts/' || true); do
+            if echo "$f" | grep -qE '^_posts/[0-9]{4}-[0-9]{2}-[0-9]{2}'; then
+              MM=$(echo "$f" | sed 's|^_posts/[0-9]*-\([0-9]*\)-[0-9]*-.*|\1|')
+              DD=$(echo "$f" | sed 's|^_posts/[0-9]*-[0-9]*-\([0-9]*\)-.*|\1|' | sed 's/^0//')
+              MONTH_NAME=$(echo "$MONTHS" | tr ' ' '\n' | sed -n "${MM##0}p")
+              if [ -n "$MONTH_NAME" ] && [ -n "$DD" ]; then
+                DATES="$DATES${DATES:+,}${MONTH_NAME}-${DD}"
+              fi
+            fi
+          done
+          echo "changed_dates=$DATES" >> "$GITHUB_OUTPUT"
+          echo "Changed dates: $DATES"
+
       - name: Set up Ruby with caching
         uses: ruby/setup-ruby@v1
         with:
@@ -49,6 +66,7 @@ jobs:
         env:
           SKIP_SEARCH_INDEX: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
           SKIP_LEADERBOARD: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
+          CHANGED_DATES: ${{ steps.check.outputs.changed_dates }}
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4

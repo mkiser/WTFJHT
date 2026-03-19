@@ -87,11 +87,15 @@ jobs:
             --cache-control "public, max-age=300, s-maxage=3600" &
           PID1=$!
 
-          # Pass 2: Search index — short browser cache like HTML (changes on every full build)
-          aws s3 cp _site/search-index.json $BUCKET/search-index.json --only-show-errors \
-            --acl public-read \
-            --cache-control "public, max-age=300, s-maxage=3600" &
-          PID2=$!
+          # Pass 2: Search index — short browser cache like HTML (only exists on full builds)
+          if [ -f _site/search-index.json ]; then
+            aws s3 cp _site/search-index.json $BUCKET/search-index.json --only-show-errors \
+              --acl public-read \
+              --cache-control "public, max-age=300, s-maxage=3600" &
+            PID2=$!
+          else
+            PID2=""
+          fi
 
           # Pass 3: Other dynamic data (feeds, sitemap) — 1hr cache
           aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
@@ -112,6 +116,7 @@ jobs:
           # Wait for all passes and fail if any failed
           FAILED=0
           for PID in $PID1 $PID2 $PID3 $PID4; do
+            [ -z "$PID" ] && continue
             wait $PID || FAILED=1
           done
           if [ $FAILED -ne 0 ]; then

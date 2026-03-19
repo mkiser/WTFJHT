@@ -1,5 +1,5 @@
 // Search Web Worker - runs search operations in background thread
-importScripts('/public/js/minisearch.min.js');
+importScripts('/public/js/minisearch.min.js?v=7.2.0');
 
 var miniSearch = null;
 var allRecords = null;

@@ -124,6 +124,9 @@ press:
     and stamina.
   source: Project C
   url: https://projectc.substack.com/p/creator-spotlight-matt-kiser-of-wtf
+- quote: How He Built a Newsletter to Fight the Algorithm
+  source: Creator Spotlight
+  url: https://www.creatorspotlight.com/p/matt-kiser
 - quote: 'Pro Tips: Matt Kiser on keeping expenses down.'
   source: Project C
   url: https://projectc.substack.com/p/pro-tips-matt-kiser-on-keeping-expenses

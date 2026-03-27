@@ -42,7 +42,7 @@
     var match = textBefore.match(/\b([A-Za-z]+)$/);
     if (!match) return false;
     var word = match[1];
-    if (word.length <= 2) return true;
+    if (word.length === 1) return true;
     for (var i = 0; i < ABBREVIATIONS.length; i++) {
       if (word === ABBREVIATIONS[i]) return true;
     }

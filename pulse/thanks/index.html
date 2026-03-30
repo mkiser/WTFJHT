@@ -98,6 +98,9 @@ sitemap: false
   var v = params.get('v') || '';
   var p = params.get('p') || '';
 
+  var isOpenEnded = t === 'open-ended';
+  var questionConfig = null;
+
   var content = document.getElementById('pulse-content');
   var recording = document.getElementById('pulse-recording');
   var banner = document.getElementById('pulse-banner');
@@ -127,7 +130,7 @@ sitemap: false
   };
 
   // No required params — generic message, no vote recording
-  if (!s || !q || !ed || !v || !t) {
+  if (!s || !q || !ed || (!v && !isOpenEnded) || !t) {
     recording.style.display = 'none';
     bannerText.textContent = 'Thanks for reading WTFJHT!';
     banner.style.display = '';
@@ -143,37 +146,63 @@ sitemap: false
     return;
   }
 
-  // Show the page with "Recording your vote..." state
+  // Show the page
   content.style.display = 'block';
 
-  // =====================================================================
-  // STAGE 1: Record the vote via POST on page load
-  // =====================================================================
+  if (isOpenEnded) {
+    // =====================================================================
+    // OPEN-ENDED: Skip vote, fetch config, show form immediately
+    // =====================================================================
+    recording.style.display = 'none';
 
-  fetch(API_URL, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ ed: ed, s: s, q: q, t: t, v: v, p: p })
-  })
-    .then(function (res) {
-      return res.json().then(function (data) { return { status: res.status, data: data }; });
+    // Fetch question config for the prompt text
+    fetch(API_URL + '/config?q=' + encodeURIComponent(q))
+      .then(function (res) {
+        if (!res.ok && res.status !== 404 && res.status !== 410) throw new Error('Config fetch failed');
+        return res.json().then(function (data) { return { status: res.status, data: data }; });
+      })
+      .then(function (result) {
+        if (result.status === 404 || result.status === 410 || (result.data && result.data.status === 'archived')) {
+          closedEl.style.display = 'block';
+          return;
+        }
+        questionConfig = result.data;
+        showOpenEndedForm(result.data);
+      })
+      .catch(function () {
+        // Fallback: show generic prompt
+        showOpenEndedForm({ stage2Prompt: 'Share your thoughts.' });
+      });
+  } else {
+    // =====================================================================
+    // STAGE 1: Record the vote via POST on page load
+    // =====================================================================
+
+    fetch(API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ ed: ed, s: s, q: q, t: t, v: v, p: p })
     })
-    .then(function (result) {
-      recording.style.display = 'none';
+      .then(function (res) {
+        return res.json().then(function (data) { return { status: res.status, data: data }; });
+      })
+      .then(function (result) {
+        recording.style.display = 'none';
 
-      if (result.data.ok || result.status === 429) {
-        showConfirmation();
-        showResultsGate();
-      } else if (result.status === 410) {
-        closedEl.style.display = 'block';
-      } else {
+        if (result.data.ok || result.status === 429) {
+          showConfirmation();
+          showResultsGate();
+        } else if (result.status === 410) {
+          closedEl.style.display = 'block';
+        } else {
+          voteErrorEl.style.display = 'block';
+        }
+      })
+      .catch(function () {
+        recording.style.display = 'none';
         voteErrorEl.style.display = 'block';
-      }
-    })
-    .catch(function () {
-      recording.style.display = 'none';
-      voteErrorEl.style.display = 'block';
-    });
+      });
+  }
 
   // =====================================================================
   // Show confirmation + Stage 2 form
@@ -186,6 +215,16 @@ sitemap: false
     var promptEl = document.getElementById('pulse-prompt');
     promptEl.textContent = (t === 'feedback' && promptMap[v]) ? promptMap[v] : 'Want to say more about your choice?';
 
+    formSection.style.display = '';
+  }
+
+  // =====================================================================
+  // Open-ended form (no vote, form is the primary experience)
+  // =====================================================================
+
+  function showOpenEndedForm(config) {
+    var promptEl = document.getElementById('pulse-prompt');
+    if (promptEl) promptEl.textContent = (config && config.stage2Prompt) ? config.stage2Prompt : 'Share your thoughts.';
     formSection.style.display = '';
   }
 
@@ -326,7 +365,7 @@ sitemap: false
           formSection.style.display = 'none';
           successEl.style.display = '';
           // Show standalone results link if results not already visible
-          if (resultsSection.style.display === 'none') {
+          if (resultsSection.style.display === 'none' && !isOpenEnded) {
             resultsGate.style.display = 'block';
           }
         } else if (result.status === 429) {

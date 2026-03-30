@@ -1,0 +1,63 @@
+---
+title: Day 1896
+date: 2026-03-30 15:26:05 -07:00
+description: '"Fraud and waste and abuse."'
+image: "/uploads/day1896trump-b8c556.jpg"
+todayInOneSentence: 'Trump said his “preference” would be to “take the oil in Iran”
+  and floated seizing Kharg Island; hackers linked to Iran accessed FBI Director Kash
+  Patel’s personal email account; House Republicans are considering cutting health
+  care spending to help pay for a reconciliation bill that could provide as much as
+  $200 billion for the Iran war and immigration enforcement; the Department of Homeland
+  Security remained shut down after 44 days, setting a record for the longest partial
+  government shutdown in U.S. history; the Trump administration’s Supreme Court case
+  against birthright citizenship relies in part on legal arguments advanced by white
+  supremacist and anti-Chinese activists in the late 1800s; Trump''s White House ballroom
+  project includes a “massive” military complex under the site of the demolished East
+  Wing; and 33% of Americans approve of the job Trump is doing as president, the lowest
+  rating of his second term in office. '
+currentMood: "🫠🫠🫠"
+editorsNote: "<p><em><strong>Editor's note</strong>: Okay, so, I have to admit that
+  I didn’t even know about the No King Day rally last weekend. You know, the 3,100
+  rallies across all 50 states that an estimated 8 million people participated in.
+  Instead, I learned about it from a freakin' Seattle emergency alert text message
+  about &quot;a major traffic disruption.&quot; While kind of funny, it also revealed
+  something explicitly that I think I've always felt: being informed is not the same
+  thing as participating in the civic process. After all, democracy doesn't run on
+  vibes.</em></p>\n<p><em>And, I suspect that a lot of people have also experienced
+  this sort of &quot;gap&quot; between being informed and concerned with doing something
+  that matters. WTFJHT has always been about helping people develop a better, healthier
+  relationship with the news, but knowing what happened only gets you to the first
+  rung of that ladder.</em></p>\n<p><em>So I guess I'm curious... should I be doing
+  more? Does connecting the news to what's at stake to a specific action or activity
+  result in a better reader experience? Or is that a bridge too far for WTFJHT? Is
+  it really my place to tell people what to do? I'd love get your take on this. <strong>[Let
+  me know here](https://whatthefuckjusthappenedtoday.com/api/pulse?ed=*|DATE:Y-m-d|*&amp;s=*|UNIQID|*&amp;q=no-king-day&amp;t=open-ended&amp;p=heat-check)</strong>.</em></p>\n<p><em><strong>🌡️
+  Last week's Heat Check</strong>: On Thursday, I asked what's been on the mind of
+  WTFJHT readers lately. 1,373 readers responded, with 44% saying the Iran war was
+  top of mind. “I feel like we’re in Schrödinger’s war, and I don’t know if the president
+  even knows if it’s ongoing or not,” one person wrote. 16% named elections and voting-related
+  threats (“I’m in a mail-in vote only state, so I’m really curious to see how this
+  shakes out”), 10% were concerned about the TSA disruptions from the DHS funding
+  lapse (“Between TSA not being paid, ICE overcrowding the terminal, and the recent
+  collision at my home base airport, going to work is very difficult right now”).
+  Everyone else named something else or just wanted to see the results! Thanks for
+  voting!</em></p>"
+---
+
+1/ **Trump said his “preference” would be to “take the oil in Iran” and floated seizing Kharg Island**, the terminal that handles most of Iran’s crude exports. The comments push U.S. oil above $100 a barrel for the first time since 2022 as traders priced in further disruptions to global supply. Trump then warned that unless Iran immediately reopened the Strait of Hormuz and accepted a deal, the U.S. would “completely” destroy Iran’s oil wells, power plants, and Kharg Island. He also argued that “regime change” in Iran was already complete because so many senior leaders had been killed, while insisting that ceasefire talks were making progress because Iran had agreed to let 20 more oil cargo ships pass through Hormuz. Iran, however, publicly denied direct negotiations and rejected Washington’s demands as unreasonable. ([NBC News](https://www.nbcnews.com/politics/donald-trump/trump-says-preference-take-oil-iran-rcna265747) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-30/trump-says-us-could-take-the-oil-in-iran-seize-export-hub-ft) / [CNBC](https://www.cnbc.com/2026/03/30/trump-iran-oil-middle-east-war-israel-us-kuwait-attack-.html) / [CNN](https://www.cnn.com/2026/03/30/business/oil-prices-rise-116-iran-intl) / [New York Times](https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news))
+
+* **Trump is considering a military operation to seize nearly 1,000 pounds of uranium from Iran**. The potential operation would require U.S. forces to fly to two to three sites, secure the perimeter under fire, and bring in excavating equipment to search for the highly enriched uranium. Plus, a makeshift airfield one would need to be set up to bring equipment in and take the nuclear material out. ([Wall Street Journal](https://www.wsj.com/politics/national-security/trump-weighs-military-operation-to-extract-irans-uranium-37427c8b))
+
+2/ **Hackers linked to Iran accessed FBI Director Kash Patel’s personal email account**, posting photos, a résumé, and what appeared to be more than 300 old emails online. The FBI confirmed the breach and said the material was “historical in nature,” but contained no government information. The leaked messages appeared to date from roughly 2010 to 2022 and mostly covered personal matters like travel, housing, and family. It's not clear when the account was breached, whether the hackers are holding back more material, or whether every file they posted is authentic. ([New York Times](https://www.nytimes.com/2026/03/27/us/fbi-director-kash-patel-hacked-email-iran.html) / [CBS News](https://www.cbsnews.com/news/fbi-director-kash-patel-email-hackers-lran/) / [Politico](https://www.politico.com/news/2026/03/27/fbi-kash-patel-email-hacks-handala-00848519) / [Axios](https://www.axios.com/2026/03/27/fbi-kash-patel-iran-cyberattack) / [Reuters](https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-03-27/pro-iran-hacking-group-claims-to-breach-emails-of-fbi-director) / [TechCrunch](https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/) / [CNN](https://www.cnn.com/2026/03/27/politics/iran-linked-hackers-fbi-director-patel))
+
+3/ **House Republicans are considering cutting health care spending to help pay for a reconciliation bill that could provide as much as $200 billion for the Iran war and immigration enforcement**. The options under discussion include proposals Republicans describe as targeting “fraud and waste and abuse,” including a revived Affordable Care Act payment change that the Congressional Budget Office previously said would save more than $30 billion, but leave 300,000 more people uninsured. ([Axios](https://www.axios.com/2026/03/30/gop-health-care-pay-iran-war) / [Rolling Stone](https://www.rollingstone.com/politics/politics-news/republicans-health-care-cuts-fund-iran-war-1235538768/))
+
+4/ **The Department of Homeland Security remained shut down after 44 days, setting a record for the longest partial government shutdown in U.S. history**. Senate Republicans declined to advance the House’s stopgap funding bill, days after House Republicans rejected a bipartisan Senate measure that would have reopened most of DHS but excluded ICE and Border Patrol. Trump, meanwhile, called on Congress to return from recess to "permanently fix this problem," while the White House said he wants lawmakers to "fund and reopen the Department of Homeland Security entirely." ([New York Times](https://www.nytimes.com/2026/03/30/us/senate-republicans-dhs-shutdown.html) / [Associated Press](https://apnews.com/article/congress-shutdown-johnson-thune-dhs-deal-unraveled-4ad4076c09705ca4bbebbdbcac7a0e75) / [NBC News](https://www.nbcnews.com/politics/trump-administration/live-blog/trump-congress-dhs-shutdown-ice-tsa-immigration-election-live-updates-rcna265648) / [Axios](https://www.axios.com/2026/03/27/dhs-shutdown-senate-vote-trump-tsa-ice-cbp-fema) / [NPR](https://www.npr.org/2026/03/30/nx-s1-5766109/the-senate-dhs-funding-deal-fell-apart-now-what) / [Punchbowl](https://punchbowl.news/article/border/immigration/gop-dhs-shutdown/))
+
+5/ **The Trump administration’s Supreme Court case against birthright citizenship relies in part on legal arguments advanced by white supremacist and anti-Chinese activists in the late 1800s**. The administration wants to deny automatic citizenship to U.S.-born children if their parents were in the country illegally or in the U.S. temporarily. The brief cites Alexander Porter Morse, who argued for segregation in Plessy v. Ferguson, and other 19th-century figures who tried to ban citizenship for the children of Chinese immigrants. A ruling is expected by summer, which could affect hundreds of thousands of future U.S.-born children each year. ([Washington Post](https://www.washingtonpost.com/politics/2026/03/30/trump-birthright-citizenship-supreme-court-case/) / [NBC News](https://www.nbcnews.com/politics/supreme-court/trump-birthright-citizenship-supreme-court-native-american-rcna263223) / [Reuters](https://www.reuters.com/world/us/supreme-court-fight-over-birthright-citizenship-great-grandson-hears-echoes-1898-2026-03-29/) / [Wall Street Journal](https://www.wsj.com/us-news/law/trump-supreme-court-relationship-birthright-citizenship-db72ff70) / [Associated Press](https://apnews.com/article/supreme-court-birthright-citizenship-trump-immigration-constitution-e51d13b21b4240f6b8625700abe6030e))
+
+6/ **Trump's White House ballroom project includes a “massive” military complex under the site of the demolished East Wing**. Trump said the ballroom “essentially becomes a shed for what’s being built under.” But what exactly is being built below the ballroom is unclear. The site sits above the Presidential Emergency Operations Center, which is the emergency bunker under the former East Wing. The White House only confirmed that the military is “making some upgrades” to its facilities there. ([NBC News](https://www.nbcnews.com/politics/trump-administration/trump-white-house-ballroom-underground-military-complex-rcna265822) / [Reuters](https://www.reuters.com/world/us/white-house-ballroom-project-include-massive-military-complex-2026-03-30/))
+
+poll/ **33% of Americans approve of the job Trump is doing as president**, the lowest rating of his second term in office. ([University of Massachusetts Amherst Poll](https://www.umass.edu/news/article/president-trumps-approval-sinks-33-new-umass-poll))
+
+*The 2026 midterms are in 218 days; the 2028 presidential election is in 953 days.*

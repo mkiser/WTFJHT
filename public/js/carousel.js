@@ -17,6 +17,15 @@
   var FORMAT_POST  = { width: 1080, height: 1350, suffix: '' };
   var FORMAT_STORY = { width: 1080, height: 1920, suffix: '-story' };
 
+  // Cache reduced-motion preference and listen for changes
+  var _reducedMotionQuery = window.matchMedia('(prefers-reduced-motion: reduce)');
+  var _reducedMotion = _reducedMotionQuery.matches;
+  if (_reducedMotionQuery.addEventListener) {
+    _reducedMotionQuery.addEventListener('change', function(e) { _reducedMotion = e.matches; });
+  } else if (_reducedMotionQuery.addListener) {
+    _reducedMotionQuery.addListener(function(e) { _reducedMotion = e.matches; });
+  }
+
   var ABBREVIATIONS = [
     'Rev', 'Dr', 'Mr', 'Mrs', 'Ms', 'St', 'Jr', 'Sr', 'Prof',
     'Rep', 'Sen', 'Gov', 'Gen', 'Sgt', 'Lt', 'Col', 'Maj', 'Capt', 'Cmdr', 'Adm',
@@ -59,6 +68,9 @@
       var afterIdx = match.index + match[0].length;
       if (afterIdx >= text.length) continue;
       if (!/[A-Z0-9\u201C\u201F"]/.test(text[afterIdx])) continue;
+
+      // Skip ellipses (... followed by space then capital)
+      if (match[1] === '.' && match.index >= 2 && text[match.index - 1] === '.' && text[match.index - 2] === '.') continue;
 
       if (match[1] === '.') {
         var before = text.substring(lastEnd, match.index);
@@ -108,7 +120,6 @@
       for (var c = 0; c < children.length; c++) {
         var el = children[c];
         if (el.tagName !== 'P') continue;
-        if (el.classList.contains('tios')) continue;
 
         var text = el.textContent.trim();
         if (/^The 20\d\d/.test(text)) continue;
@@ -318,15 +329,20 @@
     }
     if (current.length > 0) chunks.push(current);
 
-    // Merge sparse trailing chunks back into the previous card
+    // Merge sparse trailing chunks back into the previous card (if within budget)
     if (chunks.length > 1) {
       var lastLen = 0;
       var lastChunk = chunks[chunks.length - 1];
       for (var j = 0; j < lastChunk.length; j++) lastLen += lastChunk[j].length;
       if (lastLen < 200) {
+        var prevLen = 0;
         var prev = chunks[chunks.length - 2];
-        for (var k = 0; k < lastChunk.length; k++) prev.push(lastChunk[k]);
-        chunks.pop();
+        for (var j2 = 0; j2 < prev.length; j2++) prevLen += prev[j2].length;
+        var prevBudget = (chunks.length === 2) ? firstBudget : contBudget;
+        if (prevLen + lastLen <= prevBudget) {
+          for (var k = 0; k < lastChunk.length; k++) prev.push(lastChunk[k]);
+          chunks.pop();
+        }
       }
     }
 
@@ -589,10 +605,18 @@
     if (card.sentences && card.sentences.length > 0) {
       var bd = document.createElement('div');
       bd.className = 'carousel-card__bd';
-      for (var i = 0; i < card.sentences.length; i++) {
-        var p = document.createElement('p');
-        p.textContent = card.sentences[i];
-        bd.appendChild(p);
+      var para;
+      if (card.continued) {
+        // Continuation cards: join sentences into one flowing paragraph
+        para = document.createElement('p');
+        para.textContent = card.sentences.join(' ');
+        bd.appendChild(para);
+      } else {
+        for (var i = 0; i < card.sentences.length; i++) {
+          para = document.createElement('p');
+          para.textContent = card.sentences[i];
+          bd.appendChild(para);
+        }
       }
       inner.appendChild(bd);
     }
@@ -822,6 +846,11 @@
     var bodyEl = inner ? inner.querySelector('.carousel-card__tios-s-body') : null;
     if (!inner || !bodyEl) return;
 
+    // Clear stale overflow/mask styles from previous fit
+    bodyEl.style.overflow = '';
+    bodyEl.style.maskImage = '';
+    bodyEl.style.webkitMaskImage = '';
+
     // Force reflow to ensure dimensions are available
     var cardH = cardEl.clientHeight;
     if (!cardH) {
@@ -843,6 +872,14 @@
     }
     // Step down slightly to absorb sub-pixel rounding from calc()
     bodyEl.style.fontSize = 'calc(' + (lo - 0.5) + ' * var(--s) * 1px)';
+
+    // If text still overflows at minimum font size, clamp and fade
+    void inner.offsetHeight;
+    if (inner.scrollHeight > cardH + 1) {
+      bodyEl.style.overflow = 'hidden';
+      bodyEl.style.maskImage = 'linear-gradient(to bottom, black 85%, transparent)';
+      bodyEl.style.webkitMaskImage = 'linear-gradient(to bottom, black 85%, transparent)';
+    }
   }
 
   // ========================================================================
@@ -857,7 +894,8 @@
     }
 
     var oldSlide = cardEl.querySelector('.carousel-card__slide');
-    var reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var built;
+    var reducedMotion = _reducedMotion;
     var shouldAnimate = !!oldSlide && direction !== 0 && !reducedMotion;
 
     function buildSlide() {
@@ -907,7 +945,7 @@
       var enterFrom = direction > 0 ? '100%' : '-100%';
       var exitTo = direction > 0 ? '-100%' : '100%';
 
-      var built = buildSlide();
+      built = buildSlide();
       var newSlide = built.slide;
       var newInner = built.inner;
 
@@ -948,7 +986,7 @@
       // Non-animated: initial render, jump, or reduced-motion
       while (cardEl.firstChild) cardEl.removeChild(cardEl.firstChild);
 
-      var built = buildSlide();
+      built = buildSlide();
       cardEl.appendChild(built.slide);
 
       updateScale(cardEl);
@@ -979,6 +1017,11 @@
     var bodyEl = inner ? inner.querySelector('.carousel-card__bd') : null;
     if (!inner || !bodyEl) return;
 
+    // Clear stale overflow/mask styles from previous fit
+    bodyEl.style.overflow = '';
+    bodyEl.style.maskImage = '';
+    bodyEl.style.webkitMaskImage = '';
+
     var cardH = cardEl.clientHeight;
     if (!cardH) {
       void cardEl.offsetHeight;
@@ -998,6 +1041,14 @@
       }
     }
     bodyEl.style.fontSize = 'calc(' + (lo - 0.5) + ' * var(--s) * 1px)';
+
+    // If text still overflows at minimum font size, clamp and fade
+    void inner.offsetHeight;
+    if (inner.scrollHeight > cardH + 1) {
+      bodyEl.style.overflow = 'hidden';
+      bodyEl.style.maskImage = 'linear-gradient(to bottom, black 85%, transparent)';
+      bodyEl.style.webkitMaskImage = 'linear-gradient(to bottom, black 85%, transparent)';
+    }
   }
 
   // ========================================================================
@@ -1199,6 +1250,25 @@
         fitTiosText(cardEl, inner);
       }
 
+      // html2canvas can't render CSS mask-image, so replace with a gradient overlay div
+      var maskedEl = inner.querySelector('[style*="mask-image"], [style*="maskImage"]') ||
+                     (function() {
+                       var els = inner.querySelectorAll('.carousel-card__bd, .carousel-card__tios-s-body');
+                       for (var mi = 0; mi < els.length; mi++) {
+                         if (els[mi].style.maskImage) return els[mi];
+                       }
+                       return null;
+                     })();
+      if (maskedEl) {
+        maskedEl.style.maskImage = '';
+        maskedEl.style.webkitMaskImage = '';
+        var fadeOverlay = document.createElement('div');
+        fadeOverlay.style.cssText = 'position:absolute;left:0;right:0;bottom:0;height:15%;' +
+          'background:linear-gradient(to bottom, transparent, ' + bgColor + ');pointer-events:none;';
+        maskedEl.style.position = 'relative';
+        maskedEl.appendChild(fadeOverlay);
+      }
+
       return h2c(offscreen, {
         scale: 1,
         width: w,
@@ -1378,11 +1448,10 @@
     return loadJSZip().then(function(JSZip) {
       var zip = new JSZip();
       for (var i = 0; i < blobs.length; i++) {
-        var padded = (i + 1).toString();
-        if (padded.length < 2) padded = '0' + padded;
+        var padded = (i + 1).toString().padStart(2, '0');
         zip.file('wtfjht-day-' + dayNum + '-' + slug + '-' + padded + suffix + '.png', blobs[i]);
       }
-      return zip.generateAsync({ type: 'blob' });
+      return zip.generateAsync({ type: 'blob', compression: 'STORE' });
     }).then(function(zipBlob) {
       var zipName = viewMode === 'tios' ? 'tios' : 'cards';
       triggerDownload(zipBlob, 'wtfjht-day-' + dayNum + '-' + zipName + suffix + '.zip');
@@ -1607,6 +1676,19 @@
           if (slide) {
             slide.classList.add('is-animating');
             slide.style.transform = 'translateX(0)';
+            var boundaryCleaned = false;
+            function boundaryCleanup() {
+              if (boundaryCleaned) return;
+              boundaryCleaned = true;
+              slide.classList.remove('is-animating');
+            }
+            slide.addEventListener('transitionend', function handler(ev) {
+              if (ev.propertyName === 'transform') {
+                slide.removeEventListener('transitionend', handler);
+                boundaryCleanup();
+              }
+            });
+            setTimeout(boundaryCleanup, 400);
           }
         }
       } else if (dragLocked && dragIsHorizontal) {
@@ -1644,6 +1726,19 @@
       if (slide) {
         slide.classList.add('is-animating');
         slide.style.transform = 'translateX(0)';
+        var cancelCleaned = false;
+        function cancelCleanup() {
+          if (cancelCleaned) return;
+          cancelCleaned = true;
+          slide.classList.remove('is-animating');
+        }
+        slide.addEventListener('transitionend', function handler(e) {
+          if (e.propertyName === 'transform') {
+            slide.removeEventListener('transitionend', handler);
+            cancelCleanup();
+          }
+        });
+        setTimeout(cancelCleanup, 400);
       }
     });
 
@@ -1794,12 +1889,16 @@
       }
     });
 
-    // Debounced resize handler to update --s scale
+    // Debounced resize handler to update --s scale and re-fit text
     var resizeTimer;
     function onResize() {
       clearTimeout(resizeTimer);
       resizeTimer = setTimeout(function() {
         updateScale(ui.cardEl);
+        if (ui.cardEl.querySelector('.is-animating')) return;
+        var card = ui.cards[ui.currentIndex];
+        if (card && card.type === 'story') fitTextToCard(ui.cardEl);
+        if (card && card.type === 'tios-sentence') fitTiosText(ui.cardEl);
       }, 100);
     }
     window.addEventListener('resize', onResize);
@@ -1901,6 +2000,7 @@
     document.body.classList.add('carousel-open');
     var ui = renderCarousel(cards);
     ui._firstNav = true;
+    ui._viewMode = 'cards';
 
     if (typeof gtag === 'function') gtag('event', 'carousel_open');
 

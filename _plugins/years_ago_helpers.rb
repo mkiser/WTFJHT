@@ -68,6 +68,14 @@ module YearsAgo
       ""
     end
 
+    # Full plain-text content of a post (markdown/HTML/liquid stripped)
+    def full_text_from_doc(doc)
+      s = doc.content.to_s
+      s = s.gsub(/\{%.*?%\}/, "")          # strip liquid tags
+      s = s.gsub(/<[^>]*>/, " ")           # strip HTML tags
+      md_to_plain(s).gsub(/\s+/, " ").strip
+    end
+
     # Fallback summary when no "one sentence" exists
     def fallback_summary_from_doc(site, doc)
       truncate_len = (cfg(site, "years_ago", "fallback_truncate_chars", default: 1000)).to_i

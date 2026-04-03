@@ -63,6 +63,7 @@ module Jekyll
           "one_sentence" => yone,
           "beats"        => ybeats,
           "social_post"  => ypost,
+          "full_text"    => YearsAgo::Utils.full_text_from_doc(ydoc),
           "item_date"    => ydoc.data["date"].iso8601   # the yesterday post's own timestamp
         }
         order << "yesterday"
@@ -114,6 +115,7 @@ module Jekyll
           "one_sentence" => one,
           "beats"        => beats,
           "social_post"  => post,
+          "full_text"    => doc ? YearsAgo::Utils.full_text_from_doc(doc) : "",
           "item_date"    => item_iso
         }
         order << key
@@ -142,6 +144,7 @@ module Jekyll
           "one_sentence" => i["one_sentence"],
           "beats"        => i["beats"] || [],
           "social_post"  => i["social_post"],
+          "full_text"    => i["full_text"] || "",
           "item_date"    => i["item_date"]     # the linked post's own date/time
         }
       end.compact
@@ -150,6 +153,7 @@ module Jekyll
       unified.content = JSON.pretty_generate(array)
       unified.data["layout"]  = nil
       unified.data["sitemap"] = false
+      unified.data["render_with_liquid"] = false
       site.pages << unified
 
       # ---------- Latest edition updates for Buffer ----------

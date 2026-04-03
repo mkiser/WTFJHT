@@ -232,6 +232,7 @@ module Jekyll
       buffer_page.content = JSON.pretty_generate(buffer_updates)
       buffer_page.data["layout"]  = nil
       buffer_page.data["sitemap"] = false
+      buffer_page.data["render_with_liquid"] = false
       site.pages << buffer_page
 
     end

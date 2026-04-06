@@ -153,6 +153,19 @@
       "editorsNote": {{ post.editorsNote | jsonify }},
       {%- endif -%}
 
+      {%- if post.on_this_day_links and post.on_this_day_links.size > 0 -%}
+      "onThisDay": [
+        {%- for link in post.on_this_day_links -%}
+        {
+          "yearsAgo": {{ link.years_ago }},
+          "title": {{ link.title | jsonify }},
+          "description": {{ link.desc | jsonify }},
+          "url": "{{ site.url }}{{ site.baseurl }}{{ link.url }}"
+        }{%- unless forloop.last -%},{%- endunless -%}
+        {%- endfor -%}
+      ],
+      {%- endif -%}
+
       "date"  : {
         "isoDate": "{{ post.date | date: '%Y-%m-%d' }}",
         "isoDateTime": "{{ post.date }}",

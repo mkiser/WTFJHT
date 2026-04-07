@@ -25,6 +25,12 @@ redirect_from:
     <div class="counter-grid" id="election-counters"></div>
   </div>
 
+<!-- By The Numbers -->
+<div class="dashboard-section">
+  <h2>📝 By The Numbers</h2>
+  <div class="counter-grid" id="post-counters"></div>
+</div>
+
 <!-- Historical Markers -->
 <div class="dashboard-section">
   <h2>📍 Historical Markers</h2>
@@ -188,45 +194,76 @@ redirect_from:
     ` : ''}
   `;
 
-  // Historical Markers Section
-  const histEl = document.getElementById('historical-counters');
-  const wtfDays = daysSince(config.dates.wtf_start);
+  // By The Numbers Section
+  const postEl = document.getElementById('post-counters');
   const postCount = {{ site.posts | size }};
 
-  // Post counts by administration (computed at build time via Liquid)
+  // Post counts and word stats (computed at build time via Liquid)
   {% assign trump1_posts = 0 %}{% assign biden_posts = 0 %}{% assign trump2_posts = 0 %}
-  {% for post in site.posts %}{% assign post_date = post.date | date: "%Y-%m-%d" %}{% if post_date >= "2017-01-20" and post_date < "2021-01-20" %}{% assign trump1_posts = trump1_posts | plus: 1 %}{% elsif post_date >= "2021-01-20" and post_date < "2025-01-20" %}{% assign biden_posts = biden_posts | plus: 1 %}{% elsif post_date >= "2025-01-20" %}{% assign trump2_posts = trump2_posts | plus: 1 %}{% endif %}{% endfor %}
+  {% assign total_words = 0 %}{% assign min_words = 999999 %}{% assign max_words = 0 %}
+  {% for post in site.posts %}{% assign post_date = post.date | date: "%Y-%m-%d" %}{% if post_date >= "2017-01-20" and post_date < "2021-01-20" %}{% assign trump1_posts = trump1_posts | plus: 1 %}{% elsif post_date >= "2021-01-20" and post_date < "2025-01-20" %}{% assign biden_posts = biden_posts | plus: 1 %}{% elsif post_date >= "2025-01-20" %}{% assign trump2_posts = trump2_posts | plus: 1 %}{% endif %}{% assign wc = post.content | strip_html | number_of_words %}{% assign total_words = total_words | plus: wc %}{% if wc < min_words %}{% assign min_words = wc %}{% endif %}{% if wc > max_words %}{% assign max_words = wc %}{% endif %}{% endfor %}
+  {% assign avg_words = total_words | divided_by: site.posts.size %}
   const trump1Posts = {{ trump1_posts }};
   const bidenPosts = {{ biden_posts }};
   const trump2Posts = {{ trump2_posts }};
+  const totalWords = {{ total_words }};
+  const avgWords = {{ avg_words }};
+  const shortestPost = {{ min_words }};
+  const longestPost = {{ max_words }};
 
-  let histHTML = `
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(wtfDays)}</span>
-      <span class="counter-label">Days Since WTFJHT Started</span>
-      <span class="counter-meta">January 20, 2017</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(postCount)}</span>
-      <span class="counter-label">WTFJHT Posts</span>
-      <span class="counter-meta">All-time</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(trump1Posts)}</span>
-      <span class="counter-label">Trump 1st Term Posts</span>
-      <span class="counter-meta">Jan 20, 2017 – Jan 19, 2021</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(bidenPosts)}</span>
-      <span class="counter-label">Biden Term Posts</span>
-      <span class="counter-meta">Jan 20, 2021 – Jan 19, 2025</span>
-    </div>
-    <div class="counter-card wtf">
-      <span class="counter-number">${formatNumber(trump2Posts)}</span>
-      <span class="counter-label">Trump 2nd Term Posts</span>
-      <span class="counter-meta">Jan 20, 2025 – present</span>
-    </div>
-  `;
+  // All data here is build-time Liquid output (numeric literals) — no user input
+  postEl.innerHTML =
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(postCount) + '</span>' +
+      '<span class="counter-label">WTFJHT Posts</span>' +
+      '<span class="counter-meta">All-time</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(trump1Posts) + '</span>' +
+      '<span class="counter-label">Trump 1st Term Posts</span>' +
+      '<span class="counter-meta">Jan 20, 2017 – Jan 19, 2021</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(bidenPosts) + '</span>' +
+      '<span class="counter-label">Biden Term Posts</span>' +
+      '<span class="counter-meta">Jan 20, 2021 – Jan 19, 2025</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(trump2Posts) + '</span>' +
+      '<span class="counter-label">Trump 2nd Term Posts</span>' +
+      '<span class="counter-meta">Jan 20, 2025 – present</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(totalWords) + '</span>' +
+      '<span class="counter-label">Total Words Written</span>' +
+      '<span class="counter-meta">All-time</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(avgWords) + '</span>' +
+      '<span class="counter-label">Avg Words Per Post</span>' +
+      '<span class="counter-meta">~' + Math.round(avgWords / 200) + '-minute read</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(shortestPost) + '</span>' +
+      '<span class="counter-label">Shortest Post</span>' +
+      '<span class="counter-meta">Words</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(longestPost) + '</span>' +
+      '<span class="counter-label">Longest Post</span>' +
+      '<span class="counter-meta">Words</span>' +
+    '</div>';
+
+  // Historical Markers Section
+  const histEl = document.getElementById('historical-counters');
+  const wtfDays = daysSince(config.dates.wtf_start);
+
+  let histHTML =
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(wtfDays) + '</span>' +
+      '<span class="counter-label">Days Since WTFJHT Started</span>' +
+      '<span class="counter-meta">January 20, 2017</span>' +
+    '</div>';
 
   // Add markers from config (skip wtf_start since we handle it above)
   config.historical_markers.forEach(marker => {

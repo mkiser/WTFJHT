@@ -1,137 +1,104 @@
 {
   "id": "2026-W16",
-  "week_label": "Apr 13 – Apr 16, 2026",
+  "week_label": "Apr 14 – Apr 16, 2026",
   "status": "published",
   "editions": [
     1913,
     1912,
-    1911,
-    1910
+    1911
   ],
   "questions": [
     {
       "number": 1,
-      "question": "What did the U.S. do after JD Vance failed to secure a peace deal with Iran in Islamabad?",
-      "options": [
-        "Began a naval blockade of ships entering or leaving Iranian ports",
-        "Withdrew all U.S. forces from the Persian Gulf",
-        "Recognized Iran's right to enrich uranium for 20 years",
-        "Opened direct trade talks with Tehran"
-      ],
-      "correct": 0,
-      "explanation": "The U.S. began a naval blockade of ships entering or leaving Iranian ports after the talks failed. Trump said the blockade was meant to stop what he called Iranian \"extortion.\"",
-      "source_day": 1910,
-      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/13/day-1910/",
-      "difficulty": "easy",
-      "type": "what happened"
-    },
-    {
-      "number": 2,
-      "question": "Who did Trump call \"WEAK on Crime\" and \"terrible for Foreign Policy\" after criticism of the U.S.-Israeli war on Iran?",
-      "options": [
-        "Volodymyr Zelensky",
-        "Pope Leo XIV",
-        "António Guterres",
-        "King Abdullah II"
-      ],
-      "correct": 1,
-      "explanation": "Trump attacked Pope Leo XIV after the pope condemned the war and said military action would not create space for freedom or peace. Leo responded that he had \"no fear\" of the Trump administration.",
-      "source_day": 1910,
-      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/13/day-1910/",
-      "difficulty": "easy",
-      "type": "who"
-    },
-    {
-      "number": 3,
-      "question": "What did the divided federal appeals court do in the fight over deportation flights carrying Venezuelan migrants to El Salvador?",
-      "options": [
-        "Ordered the flights to return to the U.S. immediately",
-        "Upheld criminal contempt charges against Trump officials",
-        "Shut down Judge James Boasberg's contempt investigation",
-        "Referred the case directly to the Supreme Court"
-      ],
-      "correct": 2,
-      "explanation": "The 2-1 D.C. Circuit ruling ended Boasberg's contempt investigation for now, calling it an abuse of discretion. The majority said his earlier order was not clear enough to support criminal contempt.",
-      "source_day": 1911,
-      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/14/day-1911/",
-      "difficulty": "medium",
-      "type": "consequence"
-    },
-    {
-      "number": 4,
-      "question": "Who was Trump's nominee to replace Jerome Powell as Federal Reserve chair who disclosed financial holdings worth well over $100 million?",
-      "options": [
-        "Kevin Warsh",
-        "Russell Vought",
-        "Stanley Druckenmiller",
-        "Jerome Powell"
-      ],
-      "correct": 0,
-      "explanation": "Kevin Warsh's Senate ethics filing showed holdings worth well over $100 million. The filing also said he received about $10 million in consulting fees from Stanley Druckenmiller's family office.",
-      "source_day": 1911,
-      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/14/day-1911/",
-      "difficulty": "medium",
-      "type": "who"
-    },
-    {
-      "number": 5,
-      "question": "Which senator was the only Republican to support the Democratic resolution to force Trump to end U.S. military action in Iran without congressional approval?",
+      "question": "Which senator was the only Republican to support the Democratic resolution to force an end to U.S. military action in Iran without congressional approval?",
       "options": [
         "John Thune",
         "Thom Tillis",
         "Rand Paul",
-        "Ted Cruz"
+        "JD Vance"
       ],
       "correct": 2,
-      "explanation": "Rand Paul was the only Republican to back the measure, while John Fetterman was the only Democrat to oppose it. Senate Republicans blocked the resolution for the fourth time.",
+      "explanation": "Rand Paul was the lone Republican to back the resolution, while John Fetterman was the only Democrat to oppose it. The vote marked the fourth time Senate Republicans blocked the measure.",
       "source_day": 1912,
       "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/15/day-1912/",
       "difficulty": "easy",
       "type": "who"
     },
     {
-      "number": 6,
-      "question": "What change were lawmakers demanding before renewing Section 702 of the Foreign Intelligence Surveillance Act?",
+      "number": 2,
+      "question": "Why did House Republicans delay a planned procedural vote on renewing Section 702 of FISA?",
       "options": [
-        "A ban on all foreign intelligence collection during election years",
-        "A requirement that Congress approve each surveillance request individually",
-        "A warrant before agencies can search Americans' communications or buy personal data from brokers",
-        "An end to all intelligence sharing with allied governments"
+        "Democrats filibustered the bill in the Senate",
+        "Their own members threatened to block it over privacy changes",
+        "The White House asked for a one-month delay",
+        "A court ruled the existing law unconstitutional"
       ],
-      "correct": 2,
-      "explanation": "A bipartisan group wanted privacy changes, including a warrant requirement before agencies search Americans' communications or buy personal data from brokers. Opponents argued that requirement would make Section 702 harder to use quickly.",
+      "correct": 1,
+      "explanation": "The vote was delayed after a bipartisan group of lawmakers demanded privacy reforms, including a warrant requirement for searching Americans' communications. Republican leaders and intelligence officials argued those changes would make Section 702 harder to use.",
       "source_day": 1912,
       "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/15/day-1912/",
       "difficulty": "medium",
       "type": "what happened"
     },
     {
-      "number": 7,
-      "question": "During a Pentagon prayer service, Pete Hegseth recited a fake prayer inspired by which movie?",
+      "number": 3,
+      "question": "What did the divided federal appeals court do in the dispute over deportation flights carrying Venezuelan migrants to El Salvador?",
       "options": [
-        "Top Gun",
-        "Saving Private Ryan",
-        "Pulp Fiction",
-        "Black Hawk Down"
+        "It upheld Judge Boasberg's contempt investigation",
+        "It ordered the administration to return the migrants immediately",
+        "It shut down Boasberg's contempt investigation",
+        "It referred the matter directly to the Supreme Court"
       ],
       "correct": 2,
-      "explanation": "Hegseth read a made-up verse the Pentagon later said was \"obviously inspired\" by Pulp Fiction. He referred to it as \"CSAR 25:17,\" echoing the film's fictional version of Ezekiel 25:17.",
+      "explanation": "The D.C. Circuit ruled 2-1 that Boasberg's contempt probe was an abuse of discretion and said his order was not clear enough to support criminal contempt. The decision halted, for now, the effort to determine why the flights went ahead.",
+      "source_day": 1911,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/14/day-1911/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 4,
+      "question": "How much did Kevin Warsh's Senate ethics filing disclose in financial holdings?",
+      "options": [
+        "About $10 million",
+        "About $50 million",
+        "Well over $100 million",
+        "More than $1 billion"
+      ],
+      "correct": 2,
+      "explanation": "Warsh disclosed holdings worth well over $100 million. The filing included about $10 million in consulting fees and two fund stakes valued at more than $50 million each.",
+      "source_day": 1911,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/14/day-1911/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 5,
+      "question": "What movie did Pete Hegseth draw from when he recited a fake prayer during a Pentagon prayer service?",
+      "options": [
+        "Top Gun",
+        "The Godfather",
+        "Pulp Fiction",
+        "Saving Private Ryan"
+      ],
+      "correct": 2,
+      "explanation": "Hegseth read a made-up verse modeled on the line Samuel L. Jackson's character recites in Pulp Fiction. The Pentagon later insisted the prayer was obviously inspired by the film.",
       "source_day": 1913,
       "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/16/day-1913/",
       "difficulty": "easy",
       "type": "quote"
     },
     {
-      "number": 8,
-      "question": "How many Haitians in the U.S. would have Temporary Protected Status restored for three years under the bipartisan bill passed by the House?",
+      "number": 6,
+      "question": "Roughly how many Haitians would have Temporary Protected Status restored for three years under the bipartisan House bill?",
       "options": [
         "About 35,000",
         "About 150,000",
         "About 350,000",
-        "About 1 million"
+        "About 500,000"
       ],
       "correct": 2,
-      "explanation": "The House passed a bill to restore Temporary Protected Status for about 350,000 Haitians for three years. The measure would also reinstate work permits and deportation protections the administration had tried to end.",
+      "explanation": "The bill would restore Temporary Protected Status for about 350,000 Haitians in the United States for three years. It would also reinstate work permits and deportation protections the administration had tried to end.",
       "source_day": 1913,
       "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/16/day-1913/",
       "difficulty": "medium",

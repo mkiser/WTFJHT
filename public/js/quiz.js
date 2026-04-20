@@ -175,8 +175,11 @@
     questionPanel.style.display = '';
     document.querySelector('.quiz-progress-bar').style.display = '';
     document.querySelector('.quiz-counter').style.display = '';
-    var prev = loadPreviousResult();
-    if (prev) showReturningBanner(prev);
+    // Hide the prior-score banner during retake — showing "you scored X/Y
+    // last time" while the user is answering the same questions is noisy.
+    // The banner reappears on the next page load if localStorage still has
+    // a result.
+    hideReturningBanner();
     renderQuestion(0);
     questionPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }

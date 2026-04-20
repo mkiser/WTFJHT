@@ -47,7 +47,7 @@ no matching post, it's omitted and JS falls back to plain text.
 {%- endif -%}
 
 <div class="quiz-header">
-<h1>Weekly News Quiz</h1>
+<h1>Last Week in WTF News Quiz</h1>
 {%- if latest_pair %}
 <p class="quiz-week">{{ latest_pair[1].week_label }}</p>
 <p class="quiz-intro">Test yourself on this week's news.</p>

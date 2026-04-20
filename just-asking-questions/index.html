@@ -33,6 +33,14 @@ sitemap: false
   </div>
 
   <div class="jaq-field">
+    <label class="jaq-label" for="jaq-email">Email (optional)</label>
+    <input class="jaq-input" type="email" id="jaq-email" name="email"
+      maxlength="254" autocomplete="email">
+    <span class="jaq-hint">Only if you want a reply</span>
+    <span class="jaq-field-error" id="jaq-email-error" aria-live="polite"></span>
+  </div>
+
+  <div class="jaq-field">
     <label class="jaq-label" for="jaq-message">What's your question?</label>
     <textarea class="jaq-textarea" id="jaq-message" name="message" required
       minlength="10" maxlength="5000"
@@ -76,6 +84,8 @@ sitemap: false
   var counter = document.getElementById('jaq-counter');
   var categoryError = document.getElementById('jaq-category-error');
   var messageError = document.getElementById('jaq-message-error');
+  var emailField = document.getElementById('jaq-email');
+  var emailError = document.getElementById('jaq-email-error');
 
   // On load: set rendered timestamp and read URL params
   document.getElementById('jaq-rendered').value = Date.now();
@@ -97,15 +107,20 @@ sitemap: false
   messageField.addEventListener('input', function () {
     messageError.textContent = '';
   });
+  emailField.addEventListener('input', function () {
+    emailError.textContent = '';
+  });
 
   form.addEventListener('submit', function (e) {
     e.preventDefault();
     formError.textContent = '';
     categoryError.textContent = '';
     messageError.textContent = '';
+    emailError.textContent = '';
 
     var category = document.getElementById('jaq-category').value;
     var message = messageField.value.trim();
+    var email = emailField.value.trim();
 
     // Client-side validation
     var valid = true;
@@ -120,6 +135,10 @@ sitemap: false
       messageError.textContent = 'Please keep your question under 5,000 characters.';
       valid = false;
     }
+    if (email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+      emailError.textContent = 'Please enter a valid email address.';
+      valid = false;
+    }
     if (!valid) return;
 
     // Disable button
@@ -130,6 +149,7 @@ sitemap: false
       category: category,
       message: message,
       location: document.getElementById('jaq-location').value.trim(),
+      email: email,
       ref: document.getElementById('jaq-ref').value,
       edition: document.getElementById('jaq-edition').value,
       website: document.getElementById('jaq-website').value,

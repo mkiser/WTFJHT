@@ -22,6 +22,13 @@
   --q-accent-dk:   #c0392b; /* red-dark */
   --q-accent-wash: rgba(231, 76, 60, 0.07);
 
+  /* Success signal — muted editorial green, WCAG AA 5:1 on white.
+     Used ONLY on quiz-correct-state chrome to parallel the red wrong state.
+     Do not use elsewhere in the site. */
+  --q-success:      #2f7d5c;
+  --q-success-dk:   #1e5631;
+  --q-success-wash: rgba(47, 125, 92, 0.07);
+
   --q-serif: Georgia, "Times New Roman", Times, serif;
   --q-sans:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
   --q-mono:  Menlo, Monaco, "Courier New", monospace;
@@ -259,13 +266,13 @@
 }
 
 .quiz-option.correct {
-  border-color: var(--q-ink-strong);
-  background: var(--q-surface);
+  border-color: var(--q-success);
+  background: var(--q-success-wash);
   animation: correctPulse 0.5s var(--q-ease);
 }
 
 .quiz-option.correct .quiz-option-letter {
-  background: var(--q-ink-strong);
+  background: var(--q-success);
   color: #fff;
   font-size: 0.85rem;
 }
@@ -283,9 +290,9 @@
 }
 
 @keyframes correctPulse {
-  0%   { box-shadow: 0 0 0 0 rgba(49, 49, 49, 0.18); }
-  60%  { box-shadow: 0 0 0 10px rgba(49, 49, 49, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(49, 49, 49, 0); }
+  0%   { box-shadow: 0 0 0 0 rgba(47, 125, 92, 0.28); }
+  60%  { box-shadow: 0 0 0 10px rgba(47, 125, 92, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(47, 125, 92, 0); }
 }
 
 @keyframes wrongShake {
@@ -344,7 +351,7 @@
   line-height: 1;
 }
 
-.quiz-feedback-result.correct { background: var(--q-ink-strong); }
+.quiz-feedback-result.correct { background: var(--q-success); }
 .quiz-feedback-result.wrong   { background: var(--q-accent); }
 
 /* Small red-dark divider between badge and reveal for wrong answers — mirrors .tios__divider */
@@ -530,8 +537,8 @@
   margin-top: 2px;
 }
 
-.quiz-breakdown-icon.correct { background: var(--q-ink-strong); color: #fff; }
-.quiz-breakdown-icon.wrong   { background: var(--q-accent);     color: #fff; }
+.quiz-breakdown-icon.correct { background: var(--q-success); color: #fff; }
+.quiz-breakdown-icon.wrong   { background: var(--q-accent);  color: #fff; }
 
 .quiz-breakdown-detail {
   grid-column: 2;

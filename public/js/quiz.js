@@ -94,13 +94,17 @@
     var aggEl = document.getElementById('quiz-aggregate');
     var avgEl = document.getElementById('qa-avg');
     var countEl = document.getElementById('qa-count');
+    var nounEl = document.getElementById('qa-count-noun');
     if (!aggEl || !avgEl || !countEl) return;
     // Worker response shape: { completions, averageScore, perQuestion: [pct...] }
     var avg = typeof aggregates.averageScore === 'number' ? aggregates.averageScore : null;
     var count = typeof aggregates.completions === 'number' ? aggregates.completions : null;
-    if (avg !== null && count !== null && count > 0) {
+    // Hide until we have a cohort — below 3 readers, the "average" is
+    // indistinguishable from the current user's own score.
+    if (avg !== null && count !== null && count >= 3) {
       avgEl.textContent = avg.toFixed(1) + '/' + questions.length;
       countEl.textContent = count.toLocaleString();
+      if (nounEl) nounEl.textContent = count === 1 ? 'reader' : 'readers';
       aggEl.style.display = '';
     }
   }

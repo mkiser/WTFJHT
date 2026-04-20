@@ -1,6 +1,6 @@
 ---
 layout: quiz
-title: "Weekly News Quiz"
+title: "Last Week in WTFJHT News Quiz"
 description: "Test your knowledge of this week's news with the WTFJHT Weekly News Quiz"
 permalink: /quiz/
 ---
@@ -50,8 +50,8 @@ no matching post, it's omitted and JS falls back to plain text.
 <h1>Weekly News Quiz</h1>
 {%- if latest_pair %}
 <p class="quiz-week">{{ latest_pair[1].week_label }}</p>
+<p class="quiz-intro">Test yourself on this week's news.</p>
 {%- endif %}
-<p class="quiz-intro">Test yourself on this week's news. Takes about 2 minutes.</p>
 </div>
 
 {%- if latest_pair %}

@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<meta name="referrer" content="no-referrer">
+<link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/public/css/quiz.css">
+
+<div class="quiz-container">
+{{ content }}
+{% include quiz-renderer.html %}
+</div>
+
+<script src="{{ site.url }}{{ site.baseurl }}/public/js/quiz.js?v={{ site.time | date: '%s' }}"></script>

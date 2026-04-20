@@ -1,0 +1,99 @@
+{%- assign q_sorted = site.data.quizzes | sort -%}
+{%- assign q_pair = nil -%}
+{%- for p in q_sorted reversed -%}
+  {%- if p[1].status == "published" -%}
+    {%- assign q_pair = p -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+<div id="quiz-app" class="quiz-app" style="display:none;">
+  <!-- Returning-visitor banner (shown when localStorage has a prior result for this quiz) -->
+  <div id="quiz-returning" class="quiz-returning" style="display:none;" role="status">
+    <span class="quiz-returning__text">
+      You scored <strong><span id="qr-score">0</span>/<span id="qr-total">0</span></strong> last time.
+    </span>
+    <button id="quiz-returning-retake" class="quiz-returning__btn" type="button">Take it again &#x21bb;</button>
+  </div>
+
+  <!-- Progress -->
+  <div class="quiz-progress-bar">
+    <div class="quiz-progress-fill" id="quiz-progress"></div>
+  </div>
+  <div class="quiz-counter">
+    <span class="quiz-counter-label">Question <span id="quiz-current">1</span> of <span id="quiz-total"></span></span>
+    <span class="quiz-difficulty" id="quiz-difficulty"></span>
+  </div>
+
+  <!-- Question -->
+  <div id="quiz-question-panel" class="quiz-question-panel">
+    <h2 id="quiz-question-text" class="quiz-question-text" tabindex="-1"></h2>
+    <div id="quiz-options" class="quiz-options" role="group" aria-label="Answer options">
+      <button class="quiz-option" data-index="0"><span class="quiz-option-letter">A</span><span class="quiz-option-text"></span></button>
+      <button class="quiz-option" data-index="1"><span class="quiz-option-letter">B</span><span class="quiz-option-text"></span></button>
+      <button class="quiz-option" data-index="2"><span class="quiz-option-letter">C</span><span class="quiz-option-text"></span></button>
+      <button class="quiz-option" data-index="3"><span class="quiz-option-letter">D</span><span class="quiz-option-text"></span></button>
+    </div>
+    <p class="quiz-keyboard-hint" id="quiz-keyboard-hint">Press 1&ndash;4 to answer</p>
+  </div>
+
+  <!-- Feedback -->
+  <div id="quiz-feedback" class="quiz-feedback" style="display:none;" role="alert">
+    <div class="quiz-feedback-result" id="quiz-feedback-result"></div>
+    <p class="quiz-feedback-reveal" id="quiz-feedback-reveal" style="display:none;"></p>
+    <p class="quiz-feedback-explanation" id="quiz-feedback-explanation"></p>
+    <p class="quiz-feedback-source" id="quiz-feedback-source"></p>
+    <button id="quiz-next-btn" class="quiz-next-btn">Next question &rarr;</button>
+  </div>
+
+  <!-- Results -->
+  <div id="quiz-results" class="quiz-results" style="display:none;">
+    <div class="sr-only" aria-live="polite" id="quiz-result-announce"></div>
+    <div class="quiz-results-score">
+      <span class="quiz-score-number" id="quiz-score">0</span>
+      <span class="quiz-score-total"></span>
+    </div>
+    <p class="quiz-aggregate" id="quiz-aggregate" style="display:none;">
+      Average <strong><span id="qa-avg">0</span></strong> &middot; <strong><span id="qa-count">0</span></strong> readers
+    </p>
+    <p class="quiz-verdict" id="quiz-verdict"></p>
+    <div class="quiz-breakdown" id="quiz-breakdown"></div>
+    <button id="quiz-share-btn" class="quiz-share-btn">Copy &amp; share your score</button>
+    <button id="quiz-retake-btn" class="quiz-retake-btn">Take it again</button>
+
+    {%- if q_pair and q_pair[1].editions %}
+    <section class="quiz-coverage" aria-label="This week's coverage">
+      <h3 class="quiz-coverage__title">This week's editions</h3>
+      <ul class="quiz-coverage__list">
+        {%- for day_num in q_pair[1].editions %}
+          {%- assign day_title = "Day " | append: day_num %}
+          {%- assign matched = nil %}
+          {%- for post in site.posts %}
+            {%- if post.title == day_title %}
+              {%- assign matched = post %}
+              {%- break %}
+            {%- endif %}
+          {%- endfor %}
+          {%- if matched %}
+          <li class="quiz-coverage__item">
+            <a href="{{ matched.url | relative_url }}" class="quiz-coverage__link">
+              <span class="quiz-coverage__meta">
+                <span class="quiz-coverage__day">Day {{ day_num }}</span>
+                <span class="quiz-coverage__date">{{ matched.date | date: "%a %b %-d" }}</span>
+              </span>
+              <span class="quiz-coverage__tios">{{ matched.todayInOneSentence | default: matched.description | strip_html | truncate: 170 }}</span>
+            </a>
+          </li>
+          {%- endif %}
+        {%- endfor %}
+      </ul>
+    </section>
+    {%- endif %}
+
+    <aside class="quiz-subscribe" aria-labelledby="quiz-subscribe-title">
+      <p class="quiz-subscribe__title" id="quiz-subscribe-title">A political newsletter for normal people</p>
+      {% include email.html %}
+    </aside>
+
+    <p class="quiz-cta">New quiz every Friday. <a href="{{ site.url }}{{ site.baseurl }}/quiz/archive/">See past quizzes &rarr;</a></p>
+  </div>
+</div>

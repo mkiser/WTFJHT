@@ -2,6 +2,5 @@ User-agent: *
 Allow: /
 Disallow: /license/
 Disallow: /team/
-Disallow: /quiz/
 Disallow: /meta/
 Sitemap: https://whatthefuckjusthappenedtoday.com/sitemap.xml

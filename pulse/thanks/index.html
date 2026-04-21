@@ -143,6 +143,16 @@ sitemap: false
     recording.style.display = 'none';
     closedEl.style.display = 'block';
     content.style.display = 'block';
+    // Hide the "See how others voted" button unless showResults is enabled.
+    // The button is inside #pulse-closed and shown-by-default via its own styles;
+    // fetch the flag and hide if disabled.
+    var closedBtn = document.getElementById('pulse-show-results-closed');
+    if (closedBtn) {
+      closedBtn.style.display = 'none';
+      ensureShowResultsKnown().then(function (allowed) {
+        if (allowed) closedBtn.style.display = '';
+      });
+    }
     return;
   }
 
@@ -232,13 +242,33 @@ sitemap: false
   // Live results
   // =====================================================================
 
+  // Cached per-question showResults flag (fetched lazily before revealing buttons)
+  var showResultsFlag = null; // null = unknown, true/false = known
+  function ensureShowResultsKnown() {
+    if (showResultsFlag !== null) return Promise.resolve(showResultsFlag);
+    return fetch(API_URL + '/results?q=' + encodeURIComponent(q))
+      .then(function (res) { return res.json(); })
+      .then(function (data) {
+        showResultsFlag = !!(data && data.showResults);
+        return showResultsFlag;
+      })
+      .catch(function () {
+        showResultsFlag = false;
+        return false;
+      });
+  }
+
   function showResultsGate() {
-    // If form is visible, show inline link; otherwise show standalone
-    if (formSection.style.display !== 'none') {
-      resultsBtn.style.display = '';
-    } else {
-      resultsGate.style.display = 'block';
-    }
+    // Only reveal the "See how others voted" affordance if the question
+    // has showResults enabled. When disabled, don't show the button at all.
+    ensureShowResultsKnown().then(function (allowed) {
+      if (!allowed) return;
+      if (formSection.style.display !== 'none') {
+        resultsBtn.style.display = '';
+      } else {
+        resultsGate.style.display = 'block';
+      }
+    });
   }
 
   function handleResultsClick(btn) {
@@ -364,9 +394,11 @@ sitemap: false
           banner.style.display = 'none';
           formSection.style.display = 'none';
           successEl.style.display = '';
-          // Show standalone results link if results not already visible
+          // Show standalone results link only if this question has showResults enabled
           if (resultsSection.style.display === 'none' && !isOpenEnded) {
-            resultsGate.style.display = 'block';
+            ensureShowResultsKnown().then(function (allowed) {
+              if (allowed) resultsGate.style.display = 'block';
+            });
           }
         } else if (result.status === 429) {
           submitted = false;

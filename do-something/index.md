@@ -1,7 +1,7 @@
 ---
 title: "Do Something: A Normal Person's Guide to Civic Action"
 layout: page
-description: "Start here if you want to vote, call your reps, or figure out who's doing what."
+description: "A practical guide to having your voice heard, engaging your community, and driving change through civic action."
 image: "/uploads/og-image.jpg"
 show_title: false
 ---
@@ -128,14 +128,14 @@ show_title: false
 
 <h1 class="page-title">Do Something.</h1>
 
-<p class="lead">A normal person's guide to doing something.</p>
+<p class="lead">A normal person's guide to civic action.</p>
 
 ---
 
 <div class="ds-reference">
 <div class="ds-reference-body">
 
-<details open>
+<details open name="start-here">
 <summary id="voter-registration">Check or update your voter registration</summary>
 <ul>
 <li><a href="https://vote.gov/register">Vote.gov</a> — The federal government's voter registration site. Start here if you're not sure where to go.</li>
@@ -260,13 +260,16 @@ If you want to go further.
   function openFromHash() {
     var hash = window.location.hash;
     if (!hash) return;
-    var el = document.querySelector(hash);
+    var el = document.getElementById(hash.slice(1));
     if (el && el.tagName === 'SUMMARY') {
       document.querySelectorAll('.ds-reference-body details[open]').forEach(function(d) {
         d.removeAttribute('open');
       });
       var d = el.closest('details');
-      if (d) d.open = true;
+      if (d) {
+        d.open = true;
+        el.scrollIntoView({ block: 'start' });
+      }
     }
   }
 
@@ -275,7 +278,15 @@ If you want to go further.
 
   document.querySelectorAll('.ds-reference-body summary[id]').forEach(function(s) {
     s.addEventListener('click', function() {
-      history.replaceState(null, '', '#' + s.id);
+      requestAnimationFrame(function() {
+        var d = s.closest('details');
+        if (!d) return;
+        if (d.open) {
+          history.replaceState(null, '', '#' + s.id);
+        } else if (window.location.hash === '#' + s.id) {
+          history.replaceState(null, '', window.location.pathname);
+        }
+      });
     });
   });
 })();

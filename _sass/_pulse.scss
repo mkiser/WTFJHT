@@ -232,10 +232,8 @@
 }
 
 // Sweepstakes landing page (/pulse/enter/)
-.pulse-enter {
-  max-width: 560px;
-  margin: 0 auto;
-}
+// Width is governed by the parent .page / article — don't add our own
+// max-width here or it double-constrains inside an already-narrow column.
 
 .pulse-enter-desc {
   margin: 1em 0 1.5em;

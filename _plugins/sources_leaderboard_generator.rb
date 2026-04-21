@@ -19,6 +19,8 @@ Jekyll::Hooks.register :site, :post_write do |site|
   links_by_year = Hash.new { |h, k| h[k] = Hash.new(0) }
   year_totals = Hash.new(0)
   domain_names = {}  # Store display names
+  domain_first_seen = {}
+  domain_last_seen = {}
 
   # Common display name mappings
   display_names = {
@@ -74,7 +76,9 @@ Jekyll::Hooks.register :site, :post_write do |site|
     next if post.data['draft']
     next unless post.output
 
-    year = post.data['date'].strftime('%Y')
+    post_date = post.data['date']
+    year = post_date.strftime('%Y')
+    iso_date = post_date.strftime('%Y-%m-%d')
 
     begin
       doc = Nokogiri::HTML(post.output)
@@ -162,6 +166,13 @@ Jekyll::Hooks.register :site, :post_write do |site|
         links_by_year[year][domain] += 1
         year_totals[year] += 1
         total_links += 1
+
+        if domain_first_seen[domain].nil? || iso_date < domain_first_seen[domain]
+          domain_first_seen[domain] = iso_date
+        end
+        if domain_last_seen[domain].nil? || iso_date > domain_last_seen[domain]
+          domain_last_seen[domain] = iso_date
+        end
       rescue URI::InvalidURIError
         next
       end
@@ -171,7 +182,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
   # Build leaderboard data
   years = links_by_year.keys.sort
 
-  # Top 20 sources with percentages
+  # Top 20 sources with percentages (kept for big-board.html frontend compatibility)
   top_sources = domain_counts.sort_by { |_, count| -count }.first(20).map do |domain, count|
     pct = (count.to_f / total_links * 100).round(2)
 
@@ -191,6 +202,40 @@ Jekyll::Hooks.register :site, :post_write do |site|
     }
   end
 
+  # Top 50 sources with richer per-source fields
+  ranked = domain_counts.sort_by { |_, count| -count }
+  all_sources = ranked.first(50).each_with_index.map do |(domain, count), idx|
+    pct = (count.to_f / total_links * 100).round(2)
+
+    yearly_pct = {}
+    yearly_counts = {}
+    peak_year = nil
+    peak_count = 0
+    years.each do |year|
+      year_count = links_by_year[year][domain] || 0
+      yearly_counts[year] = year_count
+      yearly_pct[year] = year_totals[year] > 0 ? (year_count.to_f / year_totals[year] * 100).round(2) : 0
+      if year_count > peak_count
+        peak_count = year_count
+        peak_year = year
+      end
+    end
+
+    {
+      'rank' => idx + 1,
+      'domain' => domain,
+      'name' => display_names[domain] || domain.split('.').first.capitalize,
+      'count' => count,
+      'percent' => pct,
+      'first_seen' => domain_first_seen[domain],
+      'last_seen' => domain_last_seen[domain],
+      'peak_year' => peak_year,
+      'peak_count' => peak_count,
+      'yearly' => yearly_pct,
+      'yearly_counts' => yearly_counts
+    }
+  end
+
   # Year summaries
   year_data = years.map do |year|
     {
@@ -205,7 +250,8 @@ Jekyll::Hooks.register :site, :post_write do |site|
     'total_editions' => total_editions,
     'unique_domains' => domain_counts.size,
     'years' => year_data,
-    'sources' => top_sources
+    'sources' => top_sources,
+    'all_sources' => all_sources
   }
 
   # Write JSON file

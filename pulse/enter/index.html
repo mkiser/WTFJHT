@@ -1,0 +1,242 @@
+---
+title: Enter a giveaway
+layout: page
+description: Enter a WTFJHT giveaway.
+show_title: false
+sitemap: false
+---
+
+<div class="pulse-enter">
+  <noscript>
+    <div class="pulse-banner">
+      <span class="pulse-banner-text">JavaScript is required to enter this giveaway.</span>
+    </div>
+  </noscript>
+  <div id="giveaway-root"></div>
+</div>
+
+<script>
+(function () {
+  var API_URL = 'https://whatthefuckjusthappenedtoday.com/api/pulse/enter';
+  var CONFIG_URL = 'https://whatthefuckjusthappenedtoday.com/api/pulse/config';
+  var renderedAt = Date.now();
+
+  var params = new URLSearchParams(window.location.search);
+  var q = params.get('q') || '';
+  var ed = params.get('ed') || '';
+  var s = params.get('s') || '';
+
+  var root = document.getElementById('giveaway-root');
+
+  function clearRoot() {
+    while (root.firstChild) root.removeChild(root.firstChild);
+  }
+
+  function el(tag, attrs, children) {
+    var node = document.createElement(tag);
+    if (attrs) {
+      Object.keys(attrs).forEach(function (k) {
+        if (k === 'text') node.textContent = attrs[k];
+        else if (k === 'class') node.className = attrs[k];
+        else node.setAttribute(k, attrs[k]);
+      });
+    }
+    if (children) {
+      children.forEach(function (c) { node.appendChild(c); });
+    }
+    return node;
+  }
+
+  function banner(message, modifier) {
+    var cls = 'pulse-banner' + (modifier ? ' ' + modifier : '');
+    return el('div', { class: cls }, [
+      el('span', { class: 'pulse-banner-text', text: message })
+    ]);
+  }
+
+  function renderBanner(message, modifier) {
+    clearRoot();
+    root.appendChild(banner(message, modifier));
+  }
+
+  function descriptionNodes(text) {
+    var nodes = [];
+    var chunks = String(text || '').split(/\n\s*\n/);
+    chunks.forEach(function (chunk) {
+      var trimmed = chunk.trim();
+      if (!trimmed) return;
+      var p = document.createElement('p');
+      var lines = trimmed.split(/\n/);
+      lines.forEach(function (line, i) {
+        p.appendChild(document.createTextNode(line));
+        if (i < lines.length - 1) p.appendChild(document.createElement('br'));
+      });
+      nodes.push(p);
+    });
+    return nodes;
+  }
+
+  function renderClosed(title, desc) {
+    clearRoot();
+    root.appendChild(el('h1', { text: title || 'Giveaway' }));
+    if (desc) {
+      var descWrap = el('div', { class: 'pulse-enter-desc' });
+      descriptionNodes(desc).forEach(function (n) { descWrap.appendChild(n); });
+      root.appendChild(descWrap);
+    }
+    root.appendChild(banner('Entries are closed.'));
+  }
+
+  function renderForm(cfg) {
+    var title = cfg.text || 'Giveaway';
+    var desc = cfg.prizeDescription || '';
+    var label = cfg.buttonLabel || 'Enter giveaway';
+
+    clearRoot();
+    root.appendChild(el('h1', { text: title }));
+
+    if (desc) {
+      var descWrap = el('div', { class: 'pulse-enter-desc' });
+      descriptionNodes(desc).forEach(function (n) { descWrap.appendChild(n); });
+      root.appendChild(descWrap);
+    }
+
+    var form = el('form', { id: 'giveaway-form', novalidate: 'novalidate' });
+
+    form.appendChild(el('label', { for: 'giveaway-email', class: 'pulse-enter-label', text: 'Email' }));
+
+    var emailInput = el('input', {
+      type: 'email', id: 'giveaway-email', name: 'email',
+      required: 'required', autocomplete: 'email', maxlength: '254',
+      class: 'pulse-enter-input'
+    });
+    form.appendChild(emailInput);
+
+    var meta = el('div', { class: 'pulse-meta' });
+    var submitBtn = el('button', { type: 'submit', class: 'pulse-btn', id: 'giveaway-submit', text: label });
+    meta.appendChild(submitBtn);
+    form.appendChild(meta);
+
+    var hp = el('div', { class: 'pulse-hp', 'aria-hidden': 'true' });
+    hp.appendChild(el('label', { for: 'giveaway-website', text: 'Website' }));
+    hp.appendChild(el('input', { type: 'text', id: 'giveaway-website', name: 'website', tabindex: '-1', autocomplete: 'off' }));
+    form.appendChild(hp);
+
+    root.appendChild(form);
+
+    var status = el('div', { id: 'giveaway-status', class: 'pulse-status', role: 'status', 'aria-live': 'polite' });
+    status.style.display = 'none';
+    root.appendChild(status);
+
+    form.addEventListener('submit', function (e) {
+      e.preventDefault();
+      submit(label);
+    });
+  }
+
+  function renderSuccess() {
+    clearRoot();
+    root.appendChild(banner('Thanks — you’re entered. Good luck.'));
+  }
+
+  function setStatus(message) {
+    var elNode = document.getElementById('giveaway-status');
+    if (!elNode) return;
+    elNode.textContent = message;
+    elNode.style.display = '';
+  }
+
+  function submit(buttonLabel) {
+    var emailField = document.getElementById('giveaway-email');
+    var websiteField = document.getElementById('giveaway-website');
+    var submitBtn = document.getElementById('giveaway-submit');
+    var statusEl = document.getElementById('giveaway-status');
+
+    if (statusEl) statusEl.style.display = 'none';
+
+    var email = (emailField.value || '').trim();
+    if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) || email.length > 254) {
+      setStatus('Please enter a valid email address.');
+      return;
+    }
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Submitting…';
+
+    fetch(API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        q: q, ed: ed, s: s,
+        email: email,
+        website: websiteField.value,
+        _rendered: renderedAt
+      })
+    })
+      .then(function (res) { return res.json().then(function (data) { return { status: res.status, data: data }; }); })
+      .then(function (r) {
+        if (r.status === 200 && r.data && r.data.ok) {
+          renderSuccess();
+          return;
+        }
+        if (r.status === 409) {
+          setStatus('You’re already entered. Good luck!');
+          submitBtn.disabled = true;
+          submitBtn.textContent = buttonLabel;
+          return;
+        }
+        if (r.status === 410) {
+          clearRoot();
+          root.appendChild(banner('Entries are closed.'));
+          return;
+        }
+        if (r.status === 429) {
+          setStatus('Too many attempts. Try again in an hour.');
+          submitBtn.disabled = false;
+          submitBtn.textContent = buttonLabel;
+          return;
+        }
+        setStatus('Something went wrong. Try again?');
+        submitBtn.disabled = false;
+        submitBtn.textContent = buttonLabel;
+      })
+      .catch(function () {
+        setStatus('Something went wrong. Try again?');
+        submitBtn.disabled = false;
+        submitBtn.textContent = buttonLabel;
+      });
+  }
+
+  if (!q || !/^[a-z0-9-]+$/.test(q)) {
+    renderBanner('Sorry, no giveaway here.');
+    return;
+  }
+
+  renderBanner('Loading…', 'pulse-banner--loading');
+
+  fetch(CONFIG_URL + '?q=' + encodeURIComponent(q))
+    .then(function (res) {
+      if (res.status === 404) return { notFound: true };
+      if (!res.ok) throw new Error('config-fetch-failed');
+      return res.json();
+    })
+    .then(function (cfg) {
+      if (!cfg || cfg.notFound) {
+        renderBanner('Sorry, no giveaway here.');
+        return;
+      }
+      if (cfg.type !== 'sweepstakes') {
+        renderBanner('Sorry, no giveaway here.');
+        return;
+      }
+      if (cfg.status === 'archived') {
+        renderClosed(cfg.text, cfg.prizeDescription);
+        return;
+      }
+      renderForm(cfg);
+    })
+    .catch(function () {
+      renderBanner('Sorry, something went wrong loading this giveaway.');
+    });
+})();
+</script>

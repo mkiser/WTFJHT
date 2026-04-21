@@ -230,3 +230,37 @@
 .pulse-hp {
   display: none;
 }
+
+// Sweepstakes landing page (/pulse/enter/)
+.pulse-enter {
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+.pulse-enter-desc {
+  margin: 1em 0 1.5em;
+
+  p {
+    margin: 0 0 1em;
+    line-height: 1.5;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.pulse-enter-label {
+  display: block;
+  margin: 0 0 0.4em;
+  font-weight: 600;
+}
+
+.pulse-enter-input {
+  width: 100%;
+  padding: 0.6em 0.75em;
+  font-size: 1em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}

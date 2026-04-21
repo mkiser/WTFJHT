@@ -87,10 +87,28 @@ sitemap: false
     root.appendChild(banner('Entries are closed.'));
   }
 
+  function formatCountdown(deadlineIso) {
+    if (!deadlineIso) return '';
+    var deadlineMs = new Date(deadlineIso).getTime();
+    if (isNaN(deadlineMs)) return '';
+    var diff = deadlineMs - Date.now();
+    if (diff <= 0) return '';
+    var minutes = Math.floor(diff / 60000);
+    var hours = Math.floor(minutes / 60);
+    var days = Math.floor(hours / 24);
+    if (days >= 2) return 'Giveaway ends in ' + days + ' days.';
+    if (days === 1) return 'Giveaway ends in 1 day.';
+    if (hours >= 2) return 'Giveaway ends in ' + hours + ' hours.';
+    if (hours === 1) return 'Giveaway ends in 1 hour.';
+    if (minutes >= 2) return 'Giveaway ends in ' + minutes + ' minutes.';
+    return 'Giveaway ends soon.';
+  }
+
   function renderForm(cfg) {
     var title = cfg.text || 'Giveaway';
     var desc = cfg.prizeDescription || '';
     var label = cfg.buttonLabel || 'Enter giveaway';
+    var countdown = formatCountdown(cfg.entryDeadline);
 
     clearRoot();
     root.appendChild(el('h1', { text: title }));
@@ -99,6 +117,10 @@ sitemap: false
       var descWrap = el('div', { class: 'pulse-enter-desc' });
       descriptionNodes(desc).forEach(function (n) { descWrap.appendChild(n); });
       root.appendChild(descWrap);
+    }
+
+    if (countdown) {
+      root.appendChild(el('p', { class: 'pulse-enter-deadline', text: countdown }));
     }
 
     var form = el('form', { id: 'giveaway-form', novalidate: 'novalidate' });
@@ -232,6 +254,13 @@ sitemap: false
       if (cfg.status === 'archived') {
         renderClosed(cfg.text, cfg.prizeDescription);
         return;
+      }
+      if (cfg.entryDeadline) {
+        var deadlineMs = new Date(cfg.entryDeadline).getTime();
+        if (!isNaN(deadlineMs) && Date.now() > deadlineMs) {
+          renderClosed(cfg.text, cfg.prizeDescription);
+          return;
+        }
       }
       renderForm(cfg);
     })

@@ -101,6 +101,10 @@ sitemap: false
   var API_URL = 'https://whatthefuckjusthappenedtoday.com/api/pulse';
   var pageLoadTime = Date.now();
   var submitted = false;
+  // Set true after Stage 1 POST succeeds (either Turnstile happy path or
+  // fallback confirm click). When true, Stage 2 skips the fallback banner
+  // on null tokens — user already proved real-ness for this page session.
+  var stage1Confirmed = false;
 
   var params = new URLSearchParams(window.location.search);
   var ed = params.get('ed') || '';
@@ -317,6 +321,10 @@ sitemap: false
         hideTurnstileFallback();
 
         if (result.data.ok || result.status === 429) {
+          // Stage 1 accepted (whether Turnstile path or fallback path). Stage 2
+          // can skip the fallback banner if its Turnstile check also fails —
+          // same user, same session, already proved real-ness.
+          stage1Confirmed = true;
           showConfirmation();
           showResultsGate();
         } else if (result.status === 410) {
@@ -501,8 +509,15 @@ sitemap: false
 
     turnstileReady.then(function (token) {
       if (token === null) {
-        // Turnstile blocked — DO NOT fire POST. Show fallback banner,
-        // re-enable submit button so user can retry if needed.
+        if (stage1Confirmed) {
+          // User already proved real-ness on Stage 1 (either via Turnstile
+          // success or the fallback confirm click). No need to double-prompt
+          // on Stage 2 — POST straight through with fallback: true.
+          stage2Post(note, null, true);
+          return;
+        }
+        // Open-ended or pre-confirmation case: Turnstile blocked on first
+        // submit. DO NOT fire POST. Show fallback banner.
         submitted = false;
         submitBtn.disabled = false;
         submitBtn.textContent = 'Send feedback';
@@ -563,6 +578,8 @@ sitemap: false
           submitBtn.disabled = false;
           submitBtn.textContent = 'Send feedback';
           hideTurnstileFallback();
+          // Token was consumed by siteverify — request a fresh one for retry.
+          if (!isFallback) getFreshTurnstilePromise();
         } else {
           submitted = false;
           errorEl.textContent = 'Something went wrong. Try again?';
@@ -570,6 +587,7 @@ sitemap: false
           submitBtn.disabled = false;
           submitBtn.textContent = 'Send feedback';
           hideTurnstileFallback();
+          if (!isFallback) getFreshTurnstilePromise();
         }
       })
       .catch(function () {
@@ -579,6 +597,8 @@ sitemap: false
         submitBtn.disabled = false;
         submitBtn.textContent = 'Send feedback';
         hideTurnstileFallback();
+        // Network/parse error — token may or may not have been consumed, refresh to be safe.
+        if (!isFallback) getFreshTurnstilePromise();
       });
   }
 })();

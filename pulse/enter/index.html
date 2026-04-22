@@ -50,6 +50,10 @@ sitemap: false
       callback: function (token) { turnstileResolve(token); },
       'error-callback': function () { turnstileResolve(null); },
       'expired-callback': function () {
+        // Mark token used so next getFreshToken() call resets + re-challenges.
+        // Without this flag flip, a stale resolved Promise would be replayed
+        // and siteverify would reject — silent drop.
+        turnstileTokenUsed = true;
         if (turnstileWidgetId !== null && typeof turnstile !== 'undefined') {
           try { turnstile.reset(turnstileWidgetId); } catch (err) {}
         }

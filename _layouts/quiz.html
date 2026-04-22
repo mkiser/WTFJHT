@@ -45,7 +45,11 @@ layout: default
         callback: function (token) { window.turnstileToken = token; window.turnstileResolve(token); },
         'error-callback': function () { window.turnstileResolve(null); },
         'expired-callback': function () {
+          // Mark token used so next getFreshToken() call resets + re-challenges.
+          // Without this flag flip, a stale resolved Promise would be replayed
+          // and siteverify would reject — silent drop.
           window.turnstileToken = null;
+          window.turnstileTokenUsed = true;
           if (window.turnstileWidgetId !== null) {
             try { turnstile.reset(window.turnstileWidgetId); } catch (err) { /* ignore */ }
           }

@@ -13,6 +13,14 @@ sitemap: false
     </div>
   </noscript>
   <div id="giveaway-root"></div>
+  <div id="cf-turnstile" style="display:none"></div>
+  <div id="turnstile-fallback" style="display:none;padding:1em;background:#fff3cd;border-left:3px solid #d6a400;margin:1em 0;font-family:Helvetica,Arial,sans-serif">
+    <p style="margin:0 0 0.6em;color:#333">Your browser's privacy settings blocked our bot check. One tap to enter:</p>
+    <button id="turnstile-fallback-btn" type="button" disabled
+            style="padding:0.6em 1.4em;font-weight:600;color:#fff;background:#e74c3c;border:none;border-radius:4px;cursor:pointer;min-height:44px">
+      Confirm entry
+    </button>
+  </div>
 </div>
 
 <script>
@@ -27,9 +35,52 @@ sitemap: false
   var s = params.get('s') || '';
 
   var root = document.getElementById('giveaway-root');
+  var fallbackEl = document.getElementById('turnstile-fallback');
+  var fallbackBtn = document.getElementById('turnstile-fallback-btn');
+
+  var turnstileWidgetId = null;
+  var turnstileResolve;
+  var turnstileReady = new Promise(function (resolve) { turnstileResolve = resolve; });
+  var turnstileTokenUsed = false;
+
+  window.onTurnstileLoad = function () {
+    if (typeof turnstile === 'undefined') { turnstileResolve(null); return; }
+    turnstileWidgetId = turnstile.render('#cf-turnstile', {
+      sitekey: '0x4AAAAAADAzC0xAFcUN12kn',
+      callback: function (token) { turnstileResolve(token); },
+      'error-callback': function () { turnstileResolve(null); },
+      'expired-callback': function () {
+        if (turnstileWidgetId !== null && typeof turnstile !== 'undefined') {
+          try { turnstile.reset(turnstileWidgetId); } catch (err) {}
+        }
+      }
+    });
+  };
+
+  setTimeout(function () { turnstileResolve(null); }, 10000);
+
+  function getFreshToken() {
+    if (!turnstileTokenUsed) return turnstileReady;
+    turnstileTokenUsed = false;
+    turnstileReady = new Promise(function (resolve) {
+      turnstileResolve = resolve;
+      setTimeout(function () { resolve(null); }, 10000);
+    });
+    if (turnstileWidgetId !== null && typeof turnstile !== 'undefined') {
+      try { turnstile.reset(turnstileWidgetId); } catch (err) { turnstileResolve(null); }
+    } else {
+      turnstileResolve(null);
+    }
+    return turnstileReady;
+  }
 
   function clearRoot() {
     while (root.firstChild) root.removeChild(root.firstChild);
+  }
+
+  function hideFallback() {
+    if (fallbackEl) fallbackEl.style.display = 'none';
+    if (fallbackBtn) fallbackBtn.disabled = true;
   }
 
   function el(tag, attrs, children) {
@@ -157,6 +208,7 @@ sitemap: false
   }
 
   function renderSuccess() {
+    hideFallback();
     clearRoot();
     root.appendChild(banner('Thanks — you’re entered. Good luck.'));
   }
@@ -166,6 +218,73 @@ sitemap: false
     if (!elNode) return;
     elNode.textContent = message;
     elNode.style.display = '';
+  }
+
+  function handleResponse(r, buttonLabel, submitBtn) {
+    if (r.status === 200 && r.data && r.data.ok) {
+      renderSuccess();
+      return;
+    }
+    if (r.status === 409) {
+      hideFallback();
+      setStatus('You’re already entered. Good luck!');
+      if (submitBtn) {
+        submitBtn.disabled = true;
+        submitBtn.textContent = buttonLabel;
+      }
+      return;
+    }
+    if (r.status === 410) {
+      hideFallback();
+      clearRoot();
+      root.appendChild(banner('Entries are closed.'));
+      return;
+    }
+    if (r.status === 429) {
+      setStatus('Too many attempts. Try again in an hour.');
+      if (submitBtn) {
+        submitBtn.disabled = false;
+        submitBtn.textContent = buttonLabel;
+      }
+      if (fallbackBtn) {
+        fallbackBtn.disabled = false;
+        fallbackBtn.textContent = 'Confirm entry';
+      }
+      return;
+    }
+    setStatus('Something went wrong. Try again?');
+    if (submitBtn) {
+      submitBtn.disabled = false;
+      submitBtn.textContent = buttonLabel;
+    }
+    if (fallbackBtn) {
+      fallbackBtn.disabled = false;
+      fallbackBtn.textContent = 'Confirm entry';
+    }
+  }
+
+  function handleError(buttonLabel, submitBtn) {
+    setStatus('Something went wrong. Try again?');
+    if (submitBtn) {
+      submitBtn.disabled = false;
+      submitBtn.textContent = buttonLabel;
+    }
+    if (fallbackBtn) {
+      fallbackBtn.disabled = false;
+      fallbackBtn.textContent = 'Confirm entry';
+    }
+  }
+
+  function postEntry(payload, buttonLabel, submitBtn) {
+    turnstileTokenUsed = true;
+    return fetch(API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    })
+      .then(function (res) { return res.json().then(function (data) { return { status: res.status, data: data }; }); })
+      .then(function (r) { handleResponse(r, buttonLabel, submitBtn); })
+      .catch(function () { handleError(buttonLabel, submitBtn); });
   }
 
   function submit(buttonLabel) {
@@ -185,48 +304,56 @@ sitemap: false
     submitBtn.disabled = true;
     submitBtn.textContent = 'Submitting…';
 
-    fetch(API_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        q: q, ed: ed, s: s,
-        email: email,
-        website: websiteField.value,
-        _rendered: renderedAt
-      })
-    })
-      .then(function (res) { return res.json().then(function (data) { return { status: res.status, data: data }; }); })
-      .then(function (r) {
-        if (r.status === 200 && r.data && r.data.ok) {
-          renderSuccess();
-          return;
-        }
-        if (r.status === 409) {
-          setStatus('You’re already entered. Good luck!');
-          submitBtn.disabled = true;
-          submitBtn.textContent = buttonLabel;
-          return;
-        }
-        if (r.status === 410) {
-          clearRoot();
-          root.appendChild(banner('Entries are closed.'));
-          return;
-        }
-        if (r.status === 429) {
-          setStatus('Too many attempts. Try again in an hour.');
-          submitBtn.disabled = false;
-          submitBtn.textContent = buttonLabel;
-          return;
-        }
-        setStatus('Something went wrong. Try again?');
+    var basePayload = {
+      q: q, ed: ed, s: s,
+      email: email,
+      website: websiteField.value,
+      _rendered: renderedAt
+    };
+
+    getFreshToken().then(function (token) {
+      if (token) {
+        hideFallback();
+        var payload = Object.assign({}, basePayload, { turnstile: token });
+        postEntry(payload, buttonLabel, submitBtn);
+      } else {
+        // Turnstile failed/blocked — show fallback UX.
+        if (fallbackEl) fallbackEl.style.display = '';
+        setTimeout(function () {
+          if (fallbackBtn) fallbackBtn.disabled = false;
+        }, 500);
+        setStatus('');
+        if (statusEl) statusEl.style.display = 'none';
         submitBtn.disabled = false;
         submitBtn.textContent = buttonLabel;
-      })
-      .catch(function () {
-        setStatus('Something went wrong. Try again?');
-        submitBtn.disabled = false;
-        submitBtn.textContent = buttonLabel;
-      });
+
+        if (fallbackBtn && !fallbackBtn._wired) {
+          fallbackBtn._wired = true;
+          fallbackBtn.addEventListener('click', function () {
+            fallbackBtn.disabled = true;
+            fallbackBtn.textContent = 'Submitting…';
+            var currentLabel = (document.getElementById('giveaway-submit') || {}).textContent || buttonLabel;
+            var currentBtn = document.getElementById('giveaway-submit');
+            if (currentBtn) {
+              currentBtn.disabled = true;
+              currentBtn.textContent = 'Submitting…';
+            }
+            var currentEmailField = document.getElementById('giveaway-email');
+            var currentWebsiteField = document.getElementById('giveaway-website');
+            var currentEmail = currentEmailField ? (currentEmailField.value || '').trim() : email;
+            var currentWebsite = currentWebsiteField ? currentWebsiteField.value : websiteField.value;
+            var fbPayload = {
+              q: q, ed: ed, s: s,
+              email: currentEmail,
+              website: currentWebsite,
+              _rendered: renderedAt,
+              fallback: true
+            };
+            postEntry(fbPayload, buttonLabel, currentBtn);
+          });
+        }
+      }
+    });
   }
 
   if (!q || !/^[a-z0-9-]+$/.test(q)) {
@@ -269,3 +396,5 @@ sitemap: false
     });
 })();
 </script>
+
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onTurnstileLoad" async defer></script>

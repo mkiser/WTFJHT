@@ -180,6 +180,10 @@
     // The banner reappears on the next page load if localStorage still has
     // a result.
     hideReturningBanner();
+    // Hide any Turnstile fallback banner from a previous attempt — the next
+    // getFreshToken() call may succeed, so don't leave stale UI visible.
+    var fallbackEl = document.getElementById('turnstile-fallback');
+    if (fallbackEl) fallbackEl.style.display = 'none';
     renderQuestion(0);
     questionPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
@@ -250,8 +254,8 @@
     // Color-independent indicators
     optionBtns.forEach(function (b, i) {
       var letterSpan = b.querySelector('.quiz-option-letter');
-      if (i === correct) letterSpan.textContent = '\u2713';
-      if (i === chosen && !isCorrect) letterSpan.textContent = '\u2717';
+      if (i === correct) letterSpan.textContent = '✓';
+      if (i === chosen && !isCorrect) letterSpan.textContent = '✗';
     });
 
     // Feedback
@@ -304,7 +308,7 @@
       var pct = aggregates.perQuestion[state.current];
       if (typeof pct === 'number' && isFinite(pct)) {
         if (sourceHasContent) {
-          feedbackSource.appendChild(document.createTextNode(' \u00b7 '));
+          feedbackSource.appendChild(document.createTextNode(' · '));
         }
         feedbackSource.appendChild(
           document.createTextNode(Math.round(pct) + '% got this right')
@@ -313,7 +317,7 @@
     }
 
     var isLast = state.current >= questions.length - 1;
-    nextBtn.textContent = isLast ? 'See results' : 'Next question \u2192';
+    nextBtn.textContent = isLast ? 'See results' : 'Next question →';
 
     feedbackPanel.style.display = '';
     feedbackPanel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
@@ -365,7 +369,7 @@
       row.className = 'quiz-breakdown-item';
       var iconSpan = document.createElement('span');
       iconSpan.className = 'quiz-breakdown-icon ' + (a.isCorrect ? 'correct' : 'wrong');
-      iconSpan.textContent = a.isCorrect ? '\u2713' : '\u2717';
+      iconSpan.textContent = a.isCorrect ? '✓' : '✗';
       var textSpan = document.createElement('span');
       textSpan.textContent = questions[i].question;
       row.appendChild(iconSpan);
@@ -387,24 +391,9 @@
     resultsPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
     renderAggregates();
 
-    // Fire-and-forget result submission
-    var apiUrl = quizEl.getAttribute('data-api-url');
-    if (apiUrl) {
-      var selectedAnswers = state.answers.map(function (a) { return a.chosen; });
-      var duration = Math.round((Date.now() - startTime) / 1000);
-      fetch(apiUrl + '/api/quiz/result', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          w: quizData.id || '',
-          s: subscriberId,
-          answers: selectedAnswers,
-          duration: duration,
-          src: source,
-        }),
-      }).catch(function (err) { console.error('Quiz result POST failed:', err); });
-    }
-
+    // gtag fires synchronously — do NOT defer behind Turnstile token. If the
+    // user's browser blocks Turnstile or siteverify rejects a stale token,
+    // we still want complete analytics.
     if (typeof gtag === 'function') {
       gtag('event', 'quiz_complete', {
         score: state.score,
@@ -413,6 +402,80 @@
         week: quizData.id || '',
       });
     }
+
+    // Fire-and-forget result submission, gated on a FRESH Turnstile token.
+    // getFreshToken() resets the widget on retake so each POST carries a
+    // single-use token Cloudflare hasn't seen before. Resolves with either:
+    //   - a token string: normal path, POST with turnstile:token
+    //   - null: Turnstile blocked/unreachable — show fallback banner and
+    //           require one user tap to POST with fallback:true instead
+    var apiUrl = quizEl.getAttribute('data-api-url');
+    if (!apiUrl) return;
+
+    var selectedAnswers = state.answers.map(function (a) { return a.chosen; });
+    var duration = Math.round((Date.now() - startTime) / 1000);
+
+    function postResult(body) {
+      fetch(apiUrl + '/api/quiz/result', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+      }).catch(function (err) { console.error('Quiz result POST failed:', err); });
+      // Mark the current token consumed so the next retake triggers a
+      // widget reset in getFreshToken(). Safe to set on the fallback path
+      // too — it just means the next getFreshToken() will reset anyway.
+      window.turnstileTokenUsed = true;
+    }
+
+    var tokenPromise = (typeof window.getFreshToken === 'function')
+      ? window.getFreshToken()
+      : Promise.resolve(null);
+
+    tokenPromise.then(function (token) {
+      if (token) {
+        postResult({
+          w: quizData.id || '',
+          s: subscriberId,
+          answers: selectedAnswers,
+          duration: duration,
+          src: source,
+          turnstile: token,
+        });
+        return;
+      }
+
+      // Turnstile blocked — show fallback banner. User tap POSTs with
+      // fallback:true (no turnstile field). The 500ms delay before
+      // enabling the button is a light UX beat; without it the button
+      // appears pre-clicked on fast devices.
+      var fallbackEl = document.getElementById('turnstile-fallback');
+      var fallbackBtn = document.getElementById('turnstile-fallback-btn');
+      if (!fallbackEl || !fallbackBtn) return;
+      fallbackEl.style.display = '';
+      fallbackBtn.disabled = true;
+      setTimeout(function () { fallbackBtn.disabled = false; }, 500);
+
+      // One-shot click handler. Replace the node to drop any prior
+      // listener from a previous quiz attempt in the same page load.
+      var freshBtn = fallbackBtn.cloneNode(true);
+      freshBtn.disabled = true;
+      fallbackBtn.parentNode.replaceChild(freshBtn, fallbackBtn);
+      setTimeout(function () { freshBtn.disabled = false; }, 500);
+
+      freshBtn.addEventListener('click', function () {
+        freshBtn.disabled = true;
+        freshBtn.textContent = 'Saving…';
+        postResult({
+          w: quizData.id || '',
+          s: subscriberId,
+          answers: selectedAnswers,
+          duration: duration,
+          src: source,
+          fallback: true,
+        });
+        fallbackEl.style.display = 'none';
+      });
+    });
   }
 
   function confirmShareButton() {

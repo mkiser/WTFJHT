@@ -27,6 +27,15 @@ sitemap: false
       <span id="pulse-banner-text" class="pulse-banner-text"></span>
     </div>
 
+    <!-- Turnstile fallback (shown only when the silent bot check was blocked by the user's browser) -->
+    <div id="turnstile-fallback" style="display:none;padding:1em;background:#fff3cd;border-left:3px solid #d6a400;margin:1em 0;font-family:Helvetica,Arial,sans-serif">
+      <p id="turnstile-fallback-text" style="margin:0 0 0.6em;color:#333">Your browser's privacy settings blocked our bot check. One tap to confirm your vote:</p>
+      <button id="turnstile-fallback-btn" type="button" disabled
+              style="padding:0.6em 1.4em;font-weight:600;color:#fff;background:#e74c3c;border:none;border-radius:4px;cursor:pointer;min-height:44px">
+        Confirm your vote
+      </button>
+    </div>
+
     <!-- Follow-up form -->
     <div id="pulse-form-section" style="display:none">
       <p id="pulse-prompt" class="pulse-prompt"></p>
@@ -81,6 +90,9 @@ sitemap: false
       <button id="pulse-show-results-closed" class="pulse-results-link" type="button">See how others voted</button>
     </div>
 
+    <!-- Cloudflare Turnstile invisible widget (rendered programmatically) -->
+    <div id="cf-turnstile" style="display:none"></div>
+
   </div>
 </div>
 
@@ -120,14 +132,93 @@ sitemap: false
   var resultsBars = document.getElementById('pulse-results-bars');
   var resultsTotal = document.getElementById('pulse-results-total');
   var closedEl = document.getElementById('pulse-closed');
+  var fallbackEl = document.getElementById('turnstile-fallback');
+  var fallbackText = document.getElementById('turnstile-fallback-text');
+  var fallbackBtn = document.getElementById('turnstile-fallback-btn');
 
   var closed = params.get('closed') === '1';
+
+  // =====================================================================
+  // Turnstile: two-token pattern (Stage 1 vote + Stage 2 note each need a
+  // fresh single-use token). Widget renders invisibly; we reset it after
+  // each consumed token to kick off a new background challenge.
+  // =====================================================================
+  var turnstileWidgetId = null;
+  var turnstileResolve;
+  var turnstileReady = new Promise(function (resolve) {
+    turnstileResolve = resolve;
+    setTimeout(function () { resolve(null); }, 10000); // per-promise safety net
+  });
+
+  function getFreshTurnstilePromise() {
+    turnstileReady = new Promise(function (resolve) {
+      turnstileResolve = resolve;
+      setTimeout(function () { resolve(null); }, 10000); // per-promise safety net
+    });
+    if (turnstileWidgetId !== null && typeof turnstile !== 'undefined') {
+      try { turnstile.reset(turnstileWidgetId); } catch (err) { turnstileResolve(null); }
+    } else {
+      turnstileResolve(null); // Turnstile unavailable — resolve null immediately
+    }
+    return turnstileReady;
+  }
+
+  window.onTurnstileLoad = function () {
+    if (typeof turnstile === 'undefined') { turnstileResolve(null); return; }
+    try {
+      turnstileWidgetId = turnstile.render('#cf-turnstile', {
+        sitekey: '0x4AAAAAADAzC0xAFcUN12kn',
+        callback: function (token) { turnstileResolve(token); },
+        'error-callback': function () { turnstileResolve(null); },
+        'expired-callback': function () {
+          // Token expired before use — request a new one.
+          turnstileReady = new Promise(function (resolve) {
+            turnstileResolve = resolve;
+            setTimeout(function () { resolve(null); }, 10000);
+          });
+          try { turnstile.reset(turnstileWidgetId); } catch (err) { turnstileResolve(null); }
+        }
+      });
+    } catch (err) {
+      turnstileResolve(null);
+    }
+  };
 
   var promptMap = {
     up: 'Glad you liked it! Anything specific that stood out?',
     meh: 'Fair enough. What would make it better?',
     down: 'Sorry to hear that. What could we improve?'
   };
+
+  // =====================================================================
+  // Fallback UX helpers — shown when Turnstile resolves null (blocked by
+  // ad blocker / corporate firewall / privacy settings). User taps once,
+  // we POST with { fallback: true } and no turnstile token. The Worker's
+  // belt defenses (UA, origin, Sec-Fetch, honeypot, timing) still apply.
+  // =====================================================================
+
+  function showTurnstileFallback(promptText, buttonText, onClick) {
+    if (fallbackText) fallbackText.textContent = promptText;
+    fallbackBtn.textContent = buttonText;
+    fallbackBtn.disabled = true;
+    fallbackEl.style.display = '';
+    // Scanner defense: require 500ms delay before tap is possible, and
+    // require a real user click (synthetic auto-clicks fail Worker checks).
+    setTimeout(function () { fallbackBtn.disabled = false; }, 500);
+    // Replace handler by cloning the node to purge any prior listener.
+    var fresh = fallbackBtn.cloneNode(true);
+    fallbackBtn.parentNode.replaceChild(fresh, fallbackBtn);
+    fallbackBtn = fresh;
+    fallbackBtn.addEventListener('click', function () {
+      fallbackBtn.disabled = true;
+      fallbackBtn.textContent = 'Sending…';
+      onClick();
+    });
+  }
+
+  function hideTurnstileFallback() {
+    fallbackEl.style.display = 'none';
+  }
 
   // No required params — generic message, no vote recording
   if (!s || !q || !ed || (!v && !isOpenEnded) || !t) {
@@ -186,18 +277,44 @@ sitemap: false
   } else {
     // =====================================================================
     // STAGE 1: Record the vote via POST on page load
+    // Gate on the initial Turnstile token (invisible challenge); if it
+    // resolves null (Turnstile blocked), surface the fallback banner
+    // requiring one user tap.
     // =====================================================================
 
+    turnstileReady.then(function (token) {
+      if (token === null) {
+        // Turnstile blocked — show fallback banner.
+        recording.style.display = 'none';
+        showTurnstileFallback(
+          "Your browser's privacy settings blocked our bot check. One tap to confirm your vote:",
+          'Confirm your vote',
+          function () { stage1Post(null, true); }
+        );
+        return;
+      }
+      stage1Post(token, false);
+    });
+  }
+
+  function stage1Post(token, isFallback) {
+    var body = { ed: ed, s: s, q: q, t: t, v: v, p: p };
+    if (isFallback) {
+      body.fallback = true;
+    } else {
+      body.turnstile = token;
+    }
     fetch(API_URL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ ed: ed, s: s, q: q, t: t, v: v, p: p })
+      body: JSON.stringify(body)
     })
       .then(function (res) {
         return res.json().then(function (data) { return { status: res.status, data: data }; });
       })
       .then(function (result) {
         recording.style.display = 'none';
+        hideTurnstileFallback();
 
         if (result.data.ok || result.status === 429) {
           showConfirmation();
@@ -210,6 +327,7 @@ sitemap: false
       })
       .catch(function () {
         recording.style.display = 'none';
+        hideTurnstileFallback();
         voteErrorEl.style.display = 'block';
       });
   }
@@ -219,13 +337,18 @@ sitemap: false
   // =====================================================================
 
   function showConfirmation() {
-    bannerText.textContent = 'Got it \u2014 your vote has been recorded.';
+    bannerText.textContent = 'Got it — your vote has been recorded.';
     banner.style.display = '';
 
     var promptEl = document.getElementById('pulse-prompt');
     promptEl.textContent = (t === 'feedback' && promptMap[v]) ? promptMap[v] : 'Want to say more about your choice?';
 
     formSection.style.display = '';
+
+    // Kick off a fresh Turnstile challenge for the potential Stage 2 note
+    // submission. User typically takes 15+ seconds to write a note, so the
+    // new token will be ready by submit.
+    getFreshTurnstilePromise();
   }
 
   // =====================================================================
@@ -236,6 +359,8 @@ sitemap: false
     var promptEl = document.getElementById('pulse-prompt');
     if (promptEl) promptEl.textContent = (config && config.stage2Prompt) ? config.stage2Prompt : 'Share your thoughts.';
     formSection.style.display = '';
+    // Open-ended only has one POST (the note submit). The initial
+    // turnstileReady promise is what we'll consume — nothing to reset here.
   }
 
   // =====================================================================
@@ -272,7 +397,7 @@ sitemap: false
   }
 
   function handleResultsClick(btn) {
-    btn.textContent = 'Loading\u2026';
+    btn.textContent = 'Loading…';
     btn.disabled = true;
     fetchResults();
   }
@@ -358,7 +483,8 @@ sitemap: false
   });
 
   // =====================================================================
-  // STAGE 2: Note form submission
+  // STAGE 2: Note form submission (both feedback-with-note and open-ended
+  // go through this handler; both gate on a fresh Turnstile token)
   // =====================================================================
 
   form.addEventListener('submit', function (e) {
@@ -370,8 +496,32 @@ sitemap: false
 
     submitted = true;
     submitBtn.disabled = true;
-    submitBtn.textContent = 'Sending\u2026';
+    submitBtn.textContent = 'Sending…';
     errorEl.style.display = 'none';
+
+    turnstileReady.then(function (token) {
+      if (token === null) {
+        // Turnstile blocked — DO NOT fire POST. Show fallback banner,
+        // re-enable submit button so user can retry if needed.
+        submitted = false;
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Send feedback';
+        showTurnstileFallback(
+          "Your browser's privacy settings blocked our bot check. One tap to confirm your note:",
+          'Send note',
+          function () { stage2Post(note, null, true); }
+        );
+        return;
+      }
+      stage2Post(note, token, false);
+    });
+  });
+
+  function stage2Post(note, token, isFallback) {
+    // Lock the form during the fallback POST too.
+    submitted = true;
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending…';
 
     var payload = {
       ed: ed, s: s, q: q, t: t, v: v, p: p,
@@ -379,6 +529,11 @@ sitemap: false
       website: document.getElementById('pulse-website').value,
       _rendered: pageLoadTime
     };
+    if (isFallback) {
+      payload.fallback = true;
+    } else {
+      payload.turnstile = token;
+    }
 
     fetch(API_URL, {
       method: 'POST',
@@ -391,6 +546,7 @@ sitemap: false
       .then(function (result) {
         if (result.data.ok) {
           // Collapse form, show success banner, keep results
+          hideTurnstileFallback();
           banner.style.display = 'none';
           formSection.style.display = 'none';
           successEl.style.display = '';
@@ -402,25 +558,29 @@ sitemap: false
           }
         } else if (result.status === 429) {
           submitted = false;
-          errorEl.textContent = "You\u2019ve sent a few already \u2014 try again later.";
+          errorEl.textContent = "You’ve sent a few already — try again later.";
           errorEl.style.display = 'block';
           submitBtn.disabled = false;
           submitBtn.textContent = 'Send feedback';
+          hideTurnstileFallback();
         } else {
           submitted = false;
           errorEl.textContent = 'Something went wrong. Try again?';
           errorEl.style.display = 'block';
           submitBtn.disabled = false;
           submitBtn.textContent = 'Send feedback';
+          hideTurnstileFallback();
         }
       })
       .catch(function () {
         submitted = false;
-        errorEl.textContent = "Couldn\u2019t reach the server. Try again?";
+        errorEl.textContent = "Couldn’t reach the server. Try again?";
         errorEl.style.display = 'block';
         submitBtn.disabled = false;
         submitBtn.textContent = 'Send feedback';
+        hideTurnstileFallback();
       });
-  });
+  }
 })();
 </script>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onTurnstileLoad" async defer></script>

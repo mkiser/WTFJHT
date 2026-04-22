@@ -60,6 +60,15 @@ sitemap: false
   <input type="hidden" id="jaq-edition" name="edition" value="">
   <input type="hidden" id="jaq-rendered" name="_rendered" value="">
 
+  <!-- Turnstile fallback banner (shown when bot-check is blocked by browser) -->
+  <div id="turnstile-fallback" style="display:none;padding:1em;background:#fff3cd;border-left:3px solid #d6a400;margin:1em 0;font-family:Helvetica,Arial,sans-serif">
+    <p style="margin:0 0 0.6em;color:#333">Your browser's privacy settings blocked our bot check. One tap to confirm:</p>
+    <button id="turnstile-fallback-btn" type="button" disabled
+            style="padding:0.6em 1.4em;font-weight:600;color:#fff;background:#e74c3c;border:none;border-radius:4px;cursor:pointer;min-height:44px">
+      Confirm and send
+    </button>
+  </div>
+
   <div class="jaq-field">
     <button type="submit" class="jaq-btn" id="jaq-submit">Submit</button>
     <div class="jaq-error" id="jaq-form-error" role="alert" aria-live="polite"></div>
@@ -70,6 +79,9 @@ sitemap: false
 <div id="jaq-confirmation" class="jaq-confirmation" style="display:none;">
   <p>Got it! Thanks!</p>
 </div>
+
+<!-- Cloudflare Turnstile (managed mode). Widget host element kept hidden; managed challenges surface only when needed. -->
+<div id="cf-turnstile" style="display:none"></div>
 
 <script>
 (function () {
@@ -86,6 +98,55 @@ sitemap: false
   var messageError = document.getElementById('jaq-message-error');
   var emailField = document.getElementById('jaq-email');
   var emailError = document.getElementById('jaq-email-error');
+  var fallbackBanner = document.getElementById('turnstile-fallback');
+  var fallbackBtn = document.getElementById('turnstile-fallback-btn');
+
+  // Turnstile: managed mode, programmatic render.
+  // turnstileReady resolves with a token, or null if Turnstile fails to load/errors.
+  // Tokens are single-use: we track usage and call reset() to get a fresh token on retry.
+  // If token resolves null (blocked by browser), fallback banner offers a one-tap submit;
+  // Worker's belt-and-suspenders defenses (honeypot, timing, rate-limit) accept fallback=true.
+  var turnstileWidgetId = null;
+  var turnstileResolve;
+  var turnstileReady = new Promise(function (resolve) { turnstileResolve = resolve; });
+  var turnstileTokenUsed = false;
+
+  window.onTurnstileLoad = function () {
+    if (typeof turnstile === 'undefined') { turnstileResolve(null); return; }
+    try {
+      turnstileWidgetId = turnstile.render('#cf-turnstile', {
+        sitekey: '0x4AAAAAADAzC0xAFcUN12kn',
+        callback: function (token) { turnstileResolve(token); },
+        'error-callback': function () { turnstileResolve(null); },
+        'expired-callback': function () {
+          // Expired before use — request a fresh token on next submit via getFreshToken().
+          turnstileTokenUsed = true;
+        }
+      });
+    } catch (err) {
+      turnstileResolve(null);
+    }
+  };
+
+  // Safety net: if Turnstile script fails to load in 10s, resolve null so submits don't hang.
+  setTimeout(function () { turnstileResolve(null); }, 10000);
+
+  // Request a fresh token for every submit attempt. First attempt returns the initial
+  // promise; subsequent attempts (after a POST) reset the widget and await a new token.
+  function getFreshToken() {
+    if (!turnstileTokenUsed) return turnstileReady;
+    turnstileTokenUsed = false;
+    turnstileReady = new Promise(function (resolve) {
+      turnstileResolve = resolve;
+      setTimeout(function () { resolve(null); }, 10000);
+    });
+    if (turnstileWidgetId !== null && typeof turnstile !== 'undefined') {
+      try { turnstile.reset(turnstileWidgetId); } catch (err) { turnstileResolve(null); }
+    } else {
+      turnstileResolve(null);
+    }
+    return turnstileReady;
+  }
 
   // On load: set rendered timestamp and read URL params
   document.getElementById('jaq-rendered').value = Date.now();
@@ -109,6 +170,75 @@ sitemap: false
   });
   emailField.addEventListener('input', function () {
     emailError.textContent = '';
+  });
+
+  // Snapshot current form values into a payload. Called at submit time and again
+  // on fallback click (in case the user edited a field while the banner was visible).
+  function buildPayload() {
+    return {
+      category: document.getElementById('jaq-category').value,
+      message: messageField.value.trim(),
+      location: document.getElementById('jaq-location').value.trim(),
+      email: emailField.value.trim(),
+      ref: document.getElementById('jaq-ref').value,
+      edition: document.getElementById('jaq-edition').value,
+      website: document.getElementById('jaq-website').value,
+      _rendered: parseInt(document.getElementById('jaq-rendered').value, 10)
+    };
+  }
+
+  function handleResponse(result) {
+    if (result.data && result.data.ok) {
+      content.style.display = 'none';
+      confirmation.style.display = 'block';
+      return;
+    }
+    if (result.status === 429) {
+      formError.textContent = (result.data && result.data.error) || 'Too many submissions. Please try again in a few minutes.';
+    } else {
+      formError.textContent = (result.data && result.data.error) || 'Something went wrong. Try again?';
+    }
+    // Re-enable submit so the user can retry. Next retry will request a fresh token.
+    submitBtn.disabled = false;
+    submitBtn.textContent = 'Submit';
+  }
+
+  function handleError() {
+    formError.textContent = "Couldn’t reach the server. Try again?";
+    submitBtn.disabled = false;
+    submitBtn.textContent = 'Submit';
+  }
+
+  function postPayload(payload) {
+    // Mark the current token as consumed so the next submit pulls a fresh one.
+    turnstileTokenUsed = true;
+    return fetch(WORKER_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload)
+    })
+      .then(function (res) {
+        return res.json().then(function (data) { return { status: res.status, data: data }; });
+      })
+      .then(handleResponse)
+      .catch(handleError);
+  }
+
+  // Fallback click: submit with fallback=true and no Turnstile token.
+  // Worker's belt defenses (honeypot, timing, rate-limit) gate acceptance.
+  fallbackBtn.addEventListener('click', function () {
+    fallbackBtn.disabled = true;
+    var payload = buildPayload();
+    payload.fallback = true;
+    // No turnstile token on fallback path.
+    postPayload(payload).then(function () {
+      // On success, confirmation swap handles UI. On error, handleError re-enables
+      // the main submit button; re-enable the fallback button too in case the user
+      // wants another shot without reloading.
+      if (content.style.display !== 'none') {
+        fallbackBtn.disabled = false;
+      }
+    });
   });
 
   form.addEventListener('submit', function (e) {
@@ -143,46 +273,27 @@ sitemap: false
 
     // Disable button
     submitBtn.disabled = true;
-    submitBtn.textContent = 'Sending\u2026';
+    submitBtn.textContent = 'Sending…';
 
-    var payload = {
-      category: category,
-      message: message,
-      location: document.getElementById('jaq-location').value.trim(),
-      email: email,
-      ref: document.getElementById('jaq-ref').value,
-      edition: document.getElementById('jaq-edition').value,
-      website: document.getElementById('jaq-website').value,
-      _rendered: parseInt(document.getElementById('jaq-rendered').value, 10)
-    };
+    getFreshToken().then(function (token) {
+      if (token) {
+        // Happy path: Turnstile resolved a real token. POST with it.
+        var payload = buildPayload();
+        payload.turnstile = token;
+        postPayload(payload);
+        return;
+      }
 
-    fetch(WORKER_URL, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify(payload)
-    })
-      .then(function (res) {
-        return res.json().then(function (data) { return { status: res.status, data: data }; });
-      })
-      .then(function (result) {
-        if (result.data.ok) {
-          content.style.display = 'none';
-          confirmation.style.display = 'block';
-        } else if (result.status === 429) {
-          formError.textContent = result.data.error || 'Too many submissions. Please try again in a few minutes.';
-          submitBtn.disabled = false;
-          submitBtn.textContent = 'Submit';
-        } else {
-          formError.textContent = result.data.error || 'Something went wrong. Try again?';
-          submitBtn.disabled = false;
-          submitBtn.textContent = 'Submit';
-        }
-      })
-      .catch(function () {
-        formError.textContent = "Couldn\u2019t reach the server. Try again?";
-        submitBtn.disabled = false;
-        submitBtn.textContent = 'Submit';
-      });
+      // Fallback path: Turnstile blocked or timed out. Show the banner and
+      // require one explicit tap before POSTing (form inputs remain locked).
+      fallbackBanner.style.display = 'block';
+      submitBtn.textContent = 'Sending…'; // keep disabled/locked
+      setTimeout(function () { fallbackBtn.disabled = false; }, 500);
+    });
   });
 })();
 </script>
+
+<!-- Cloudflare Turnstile loader. Placed AFTER the inline script so window.onTurnstileLoad
+     is guaranteed to be defined before the Turnstile API calls it. -->
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onTurnstileLoad" async defer></script>

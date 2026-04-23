@@ -1,0 +1,141 @@
+{
+  "id": "2026-W17",
+  "week_label": "Apr 20 – Apr 23, 2026",
+  "status": "published",
+  "editions": [
+    1920,
+    1919,
+    1918,
+    1917
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What did Trump say was \"highly unlikely\" as the Iran conflict continued?",
+      "options": [
+        "Extending the Iran ceasefire",
+        "Sanctioning Iran's shipping sector",
+        "Sending JD Vance to Pakistan",
+        "Keeping the Strait of Hormuz open"
+      ],
+      "correct": 0,
+      "explanation": "Trump said he was \"highly unlikely\" to extend the Iran ceasefire and warned that if it expired, \"then lots of bombs start going off.\"",
+      "source_day": 1917,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/20/day-1917/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 2,
+      "question": "Who resigned minutes before the House Ethics Committee was set to vote on whether to recommend expulsion?",
+      "options": [
+        "Nancy Mace",
+        "Sheila Cherfilus-McCormick",
+        "Cory Mills",
+        "Lori Chavez-DeRemer"
+      ],
+      "correct": 1,
+      "explanation": "Sheila Cherfilus-McCormick resigned just before the committee vote, ending the panel's jurisdiction over her case and avoiding a House vote on expulsion.",
+      "source_day": 1918,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/21/day-1918/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 3,
+      "question": "How much did the Trump administration agree to pay Carter Page to settle his claims over FBI surveillance during the Russia investigation?",
+      "options": [
+        "$250,000",
+        "$1.25 million",
+        "$3 million",
+        "$10 billion"
+      ],
+      "correct": 1,
+      "explanation": "The administration agreed to pay Carter Page $1.25 million to settle his lawsuit over surveillance applications that an inspector general later found contained major errors and omissions.",
+      "source_day": 1919,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/22/day-1919/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 4,
+      "question": "What reason did a Virginia judge give for blocking state officials from certifying the new congressional map?",
+      "options": [
+        "The map failed to meet federal Voting Rights Act standards",
+        "The referendum violated the state constitution and the ballot question was misleading",
+        "The legislature had not funded implementation of the new districts",
+        "The state Supreme Court had already issued a stay"
+      ],
+      "correct": 1,
+      "explanation": "Judge Jack Hurley said the referendum violated the state constitution and called the ballot question \"flagrantly misleading,\" so he blocked certification of the new map.",
+      "source_day": 1920,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/23/day-1920/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 5,
+      "question": "Which official fired Navy Secretary John Phelan?",
+      "options": [
+        "Donald Trump",
+        "Hung Cao",
+        "Pete Hegseth",
+        "Sean Parnell"
+      ],
+      "correct": 2,
+      "explanation": "Defense Secretary Pete Hegseth fired Navy Secretary John Phelan, and Navy Undersecretary Hung Cao was named acting secretary.",
+      "source_day": 1920,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/23/day-1920/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 6,
+      "question": "What did Senate Republicans vote 50-48 to advance?",
+      "options": [
+        "A Supreme Court reform bill",
+        "A budget plan with about $70 billion for ICE and Border Patrol",
+        "A military aid package for Pakistan",
+        "A law permanently changing Virginia's redistricting system"
+      ],
+      "correct": 1,
+      "explanation": "Senate Republicans advanced a budget plan providing about $70 billion in ICE and Border Patrol funding for the rest of Trump's term through reconciliation.",
+      "source_day": 1920,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/23/day-1920/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 7,
+      "question": "Which quote was Trump's response to companies that choose not to seek refunds for tariffs the Supreme Court ruled illegal?",
+      "options": [
+        "\"Don't rush me\"",
+        "\"It has to be clean because it has to be quick\"",
+        "\"It's brilliant if they don't do that\"",
+        "\"There should be zero tolerance\""
+      ],
+      "correct": 2,
+      "explanation": "Trump said, \"It's brilliant if they don't do that,\" and added that he would \"remember\" the companies that declined to seek tariff refunds.",
+      "source_day": 1918,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/21/day-1918/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 8,
+      "question": "What did House Judiciary Democrats demand that FBI Director Kash Patel complete?",
+      "options": [
+        "A cognitive fitness exam",
+        "A World Health Organization alcohol-use screening test",
+        "A polygraph about leaked tax records",
+        "A Treasury ethics disclosure form"
+      ],
+      "correct": 1,
+      "explanation": "House Judiciary Democrats demanded that Patel complete a World Health Organization alcohol-use screening test after reports of excessive drinking and unexplained absences.",
+      "source_day": 1919,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/22/day-1919/",
+      "difficulty": "hard",
+      "type": "what happened"
+    }
+  ]
+}

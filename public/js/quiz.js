@@ -196,11 +196,6 @@
     state.locked = false;
 
     currentEl.textContent = index + 1;
-    var diffEl = document.getElementById('quiz-difficulty');
-    if (diffEl && q.difficulty) {
-      diffEl.textContent = q.difficulty;
-      diffEl.className = 'quiz-difficulty quiz-difficulty-' + q.difficulty;
-    }
     progressFill.style.width = ((index + 1) / questions.length * 100) + '%';
     questionText.textContent = q.question;
 

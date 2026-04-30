@@ -203,6 +203,7 @@ show_title: false
 <li><a href="https://resist.bot/">Resistbot</a> — Text RESIST to 50409 to send letters to your elected officials by email, fax, or postal mail. From your mayor to the president.</li>
 <li><a href="https://www.mobilize.us/">Mobilize</a> — Events near you: phone banks, canvasses, town halls, and volunteer shifts.</li>
 <li><a href="https://indivisible.org/get-involved/take-action/">Indivisible Take Action</a> — They pick one thing and tell you what to do.</li>
+<li><a href="https://indivisible.org/get-involved/campaigns/">Indivisible Campaigns</a> — Learn, act, win.</li>
 <li><a href="https://susanrogan.substack.com/">Rogan's List</a> — Susan Rogan's running list of calls and actions.</li>
 <li><a href="https://chopwoodcarrywaterdailyactions.substack.com/">Chop Wood, Carry Water</a> — Jess Craven's weekday newsletter. Short, specific, weekdays only.</li>
 </ul>

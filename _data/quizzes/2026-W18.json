@@ -1,0 +1,174 @@
+{
+  "id": "2026-W18",
+  "week_label": "Apr 26 – Apr 30, 2026",
+  "status": "published",
+  "editions": [
+    1923,
+    1924,
+    1925,
+    1926,
+    1927
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Florida’s new congressional map approved by the Republican-controlled Legislature could give Republicans up to how many more House seats?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "The map was described as one that could net Republicans up to four additional House seats in the November midterms.",
+      "source_day": 1926,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/29/day-1926/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 2,
+      "question": "What did the Supreme Court do to Louisiana’s second majority-Black congressional district?",
+      "options": [
+        "It ordered the state to add a third majority-Black district",
+        "It struck the district down as an unconstitutional gerrymander",
+        "It postponed the ruling until after the midterms",
+        "It approved the map under Section 2 of the Voting Rights Act"
+      ],
+      "correct": 1,
+      "explanation": "The court struck down Louisiana’s second majority-Black district and in the process narrowed the Voting Rights Act’s main tool against racial vote dilution.",
+      "source_day": 1926,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/29/day-1926/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 3,
+      "question": "Which agencies were left unfunded in the Department of Homeland Security deal Trump signed?",
+      "options": [
+        "TSA and FEMA",
+        "The Coast Guard and Secret Service",
+        "ICE and Border Patrol",
+        "Customs and the Secret Service"
+      ],
+      "correct": 2,
+      "explanation": "The bill restored funding for TSA, FEMA, the Coast Guard, and the Secret Service, but left ICE and Border Patrol out while Republicans pursued a separate immigration enforcement bill.",
+      "source_day": 1927,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/30/day-1927/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 4,
+      "question": "What did Trump say “would never have happened” if it had already been built?",
+      "options": [
+        "A Secret Service staffing shortage",
+        "The White House Correspondents’ Dinner shooting scare",
+        "The government shutdown",
+        "The Supreme Court ruling on Louisiana’s map"
+      ],
+      "correct": 1,
+      "explanation": "Trump said the shooting scare at the Washington Hilton would never have happened with the “Militarily Top Secret Ballroom” under construction at the White House.",
+      "source_day": 1923,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/26/day-1923/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 5,
+      "question": "What did the National Trust for Historic Preservation refuse to do regarding Trump’s White House ballroom plan?",
+      "options": [
+        "Approve the final architectural design",
+        "Drop its lawsuit challenging the project",
+        "Release donor records tied to the lawsuit",
+        "Testify before Congress about preservation rules"
+      ],
+      "correct": 1,
+      "explanation": "The group refused to abandon its lawsuit contesting the proposed $400 million White House ballroom despite pressure from the Justice Department.",
+      "source_day": 1924,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/27/day-1924/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 6,
+      "question": "What was arranged in the Instagram photo that led to James Comey’s indictment?",
+      "options": [
+        "Candles spelling “Stop 47”",
+        "Coffee beans spelling “47 86”",
+        "Seashells arranged as “86 47”",
+        "Pebbles arranged as “46 47”"
+      ],
+      "correct": 2,
+      "explanation": "Federal prosecutors indicted Comey over a 2025 Instagram photo showing seashells arranged to read “86 47.”",
+      "source_day": 1925,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/28/day-1925/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 7,
+      "question": "Who was charged with attempting to assassinate Trump after the White House Correspondents’ Dinner incident?",
+      "options": [
+        "Gannon Ken Van Dyke",
+        "David Morens",
+        "Cole Tomas Allen",
+        "James Comey"
+      ],
+      "correct": 2,
+      "explanation": "The Justice Department charged Cole Tomas Allen in connection with the attempted attack, saying he had planned it for weeks and brought multiple weapons.",
+      "source_day": 1924,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/27/day-1924/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 8,
+      "question": "Who did Trump name after withdrawing Dr. Casey Means as his surgeon general nominee?",
+      "options": [
+        "Dr. Nicole Saphier",
+        "Dr. Jerome Powell",
+        "Dr. Jeanine Pirro",
+        "Dr. Elena Kagan"
+      ],
+      "correct": 0,
+      "explanation": "Trump pulled Casey Means and selected Dr. Nicole Saphier, a radiologist and longtime Fox News contributor, as his new pick for surgeon general.",
+      "source_day": 1927,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/30/day-1927/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 9,
+      "question": "Which government body said it would investigate the Justice Department’s handling of the Jeffrey Epstein files?",
+      "options": [
+        "The Congressional Budget Office",
+        "The Government Accountability Office",
+        "The Office of Special Counsel",
+        "The Federal Election Commission"
+      ],
+      "correct": 1,
+      "explanation": "The Government Accountability Office said it would review how the Justice Department handled, redacted, and released the Epstein records.",
+      "source_day": 1925,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/28/day-1925/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 10,
+      "question": "Why did Sen. Thom Tillis say he would stop blocking Kevin Warsh’s nomination to lead the Federal Reserve?",
+      "options": [
+        "The Justice Department dropped its criminal probe of Federal Reserve Chair Jerome Powell",
+        "Warsh agreed to withdraw support for interest rate cuts before the election",
+        "Trump promised to nominate Tillis for Treasury secretary",
+        "The Senate Banking Committee voted unanimously to fast-track the nomination"
+      ],
+      "correct": 0,
+      "explanation": "Tillis said he would stop blocking Warsh after the Justice Department dropped its criminal probe of Jerome Powell and assured him the review would not be used against Fed independence.",
+      "source_day": 1923,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/04/26/day-1923/",
+      "difficulty": "medium",
+      "type": "why"
+    }
+  ]
+}

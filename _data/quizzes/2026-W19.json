@@ -1,0 +1,157 @@
+{
+  "id": "2026-W19",
+  "week_label": "May 4 – May 7, 2026",
+  "status": "published",
+  "editions": [
+    1931,
+    1932,
+    1933,
+    1934
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "How many incumbents did Trump help defeat in Indiana's Republican primaries?",
+      "options": [
+        "At least three",
+        "At least five",
+        "At least seven",
+        "At least nine"
+      ],
+      "correct": 1,
+      "explanation": "Trump helped defeat at least five incumbents in Indiana after they had blocked his mid-decade redistricting plan.",
+      "source_day": 1933,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/06/day-1933/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 2,
+      "question": "What unusual item did Pete Hegseth joke about when dismissing reports tied to Iran?",
+      "options": [
+        "Stealth camels",
+        "Nuclear pigeons",
+        "Kamikaze dolphins",
+        "Drone sharks"
+      ],
+      "correct": 2,
+      "explanation": "Hegseth mocked the reports by saying he could not confirm or deny whether the U.S. has kamikaze dolphins, but could confirm they do not.",
+      "source_day": 1932,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/05/day-1932/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 3,
+      "question": "What did Tennessee Republicans' new congressional map do to Memphis?",
+      "options": [
+        "Created a new majority-Black district centered on Memphis",
+        "Left Memphis untouched but redrew Nashville",
+        "Broke up majority-Black Memphis, likely eliminating the state's only Democratic House seat",
+        "Merged Memphis with Knoxville to create a competitive district"
+      ],
+      "correct": 2,
+      "explanation": "The new map broke up majority-Black Memphis and was expected to wipe out Tennessee's only Democratic U.S. House seat, giving Republicans a path to all nine seats.",
+      "source_day": 1934,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/07/day-1934/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 4,
+      "question": "Whose office did the FBI search as part of a corruption investigation tied to possible marijuana-related bribery?",
+      "options": [
+        "Hakeem Jeffries",
+        "L. Louise Lucas",
+        "Bill Lee",
+        "Sherrod Brown"
+      ],
+      "correct": 1,
+      "explanation": "The FBI searched the office of Virginia state Sen. L. Louise Lucas, who had helped lead the state's redistricting plan and had not been charged.",
+      "source_day": 1933,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/06/day-1933/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 5,
+      "question": "What did the FBI say about reports that it had launched a criminal leak investigation into an Atlantic writer over reporting on Kash Patel?",
+      "options": [
+        "It confirmed the investigation was active",
+        "It said the matter had been referred to the Justice Department",
+        "It said no such investigation exists",
+        "It declined to comment on an ongoing investigation"
+      ],
+      "correct": 2,
+      "explanation": "The FBI denied the report, saying \"no such investigation\" exists and calling the claim completely false.",
+      "source_day": 1933,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/06/day-1933/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "After pausing Project Freedom, what did Trump say remained \"in full force and effect\"?",
+      "options": [
+        "The sanctions freeze",
+        "The Strait of Hormuz blockade",
+        "The draft peace memo",
+        "The troop withdrawal from Germany"
+      ],
+      "correct": 1,
+      "explanation": "Trump said Project Freedom was paused because of progress toward an agreement with Iran, but the U.S. blockade remained in full force and effect.",
+      "source_day": 1932,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/05/day-1932/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 7,
+      "question": "What did the Supreme Court temporarily restore regarding mifepristone?",
+      "options": [
+        "Over-the-counter sales nationwide",
+        "Federal funding for abortion providers",
+        "Mail and telehealth access",
+        "Insurance coverage mandates"
+      ],
+      "correct": 2,
+      "explanation": "The court temporarily restored access to mifepristone by mail and telehealth after Justice Samuel Alito Jr. paused a lower-court order restricting it.",
+      "source_day": 1931,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/04/day-1931/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "What share of Americans disapprove of the job Trump is doing as president?",
+      "options": [
+        "62%",
+        "48%",
+        "55%",
+        "71%"
+      ],
+      "correct": 0,
+      "explanation": "A record-high 62% of Americans disapprove of Trump's job performance across his two terms in office.",
+      "source_day": 1931,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/04/day-1931/",
+      "difficulty": "medium",
+      "type": "what"
+    },
+    {
+      "number": 9,
+      "question": "What action did the Education Department take against Smith College?",
+      "options": [
+        "It opened a Title IX investigation over the college allowing transgender women to enroll and access women's spaces and sports",
+        "It suspended all federal student aid to the college over antisemitism complaints",
+        "It fined the college for failing to report foreign donations",
+        "It revoked the college's accreditation for violating campus free speech rules"
+      ],
+      "correct": 0,
+      "explanation": "The Education Department opened a Title IX investigation into Smith College, alleging it violated federal sex discrimination law by allowing transgender women to enroll and use women's housing, bathrooms, locker rooms, and sports.",
+      "source_day": 1932,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/05/day-1932/",
+      "difficulty": "medium",
+      "type": "what"
+    }
+  ]
+}

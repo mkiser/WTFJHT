@@ -1,0 +1,141 @@
+{
+  "id": "2026-W20",
+  "week_label": "May 11 – May 14, 2026",
+  "status": "published",
+  "editions": [
+    1941,
+    1940,
+    1939,
+    1938
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What did the Congressional Budget Office estimate Trump’s Golden Dome missile defense system could cost over 20 years?",
+      "options": [
+        "$175 billion",
+        "$400 billion",
+        "$850 billion",
+        "$1.2 trillion"
+      ],
+      "correct": 3,
+      "explanation": "The CBO estimated a 20-year cost of $1.2 trillion, far above Trump’s $175 billion estimate. The report also said the system could still be overwhelmed by a full-scale attack from Russia or China.",
+      "source_day": 1939,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/12/day-1939/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 2,
+      "question": "Why did Trump say the U.S. ceasefire with Iran was on \"massive life support\"?",
+      "options": [
+        "Congress refused to fund naval deployments",
+        "European allies withdrew from negotiations",
+        "Iran rejected inspections of its missile sites only",
+        "Tehran’s latest counterproposal was rejected as \"TOTALLY UNACCEPTABLE\""
+      ],
+      "correct": 3,
+      "explanation": "Trump said the ceasefire was in jeopardy after Iran submitted a counterproposal he called a \"piece of garbage\" and \"TOTALLY UNACCEPTABLE.\" Iranian media said Tehran demanded reparations, sanctions relief, recognition of control over the Strait of Hormuz, and an end to the U.S. blockade.",
+      "source_day": 1938,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/11/day-1938/",
+      "difficulty": "medium",
+      "type": "sequence"
+    },
+    {
+      "number": 3,
+      "question": "Which issue did Xi Jinping warn could lead to \"clashes and even conflicts\" if the U.S. handled it improperly?",
+      "options": [
+        "The South China Sea",
+        "Taiwan",
+        "Trade tariffs",
+        "The Strait of Hormuz"
+      ],
+      "correct": 1,
+      "explanation": "Xi called Taiwan the most important issue in China-U.S. relations and warned that mishandling it could jeopardize the entire relationship. The White House readout of the meeting did not mention Taiwan.",
+      "source_day": 1941,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/14/day-1941/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 4,
+      "question": "What did Trump say was the \"only thing\" that mattered in negotiations with Iran?",
+      "options": [
+        "Lowering gas prices for Americans",
+        "Ending sanctions on China",
+        "Preventing Iran from having a nuclear weapon",
+        "Restoring global oil shipping immediately"
+      ],
+      "correct": 2,
+      "explanation": "Trump said he did not think about Americans’ financial situation \"even a little bit\" and that the sole concern was that Iran could not have a nuclear weapon. He added that every American understands that priority.",
+      "source_day": 1939,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/12/day-1939/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 5,
+      "question": "What did the Supreme Court do with nationwide access to mifepristone by mail and telehealth?",
+      "options": [
+        "Preserved it while the legal challenge continues",
+        "Ended telehealth access nationwide immediately",
+        "Allowed only states with abortion protections to keep it",
+        "Sent the issue directly to Congress for a vote"
+      ],
+      "correct": 0,
+      "explanation": "The court kept the FDA’s 2023 policy in place and blocked a lower court order that would have restored in-person dispensing rules. Access to medication abortion remained unchanged for now.",
+      "source_day": 1941,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/14/day-1941/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "What was one settlement option reportedly under discussion in Trump’s lawsuit against the IRS?",
+      "options": [
+        "Making the Federal Reserve cover Trump’s legal fees",
+        "Having the IRS drop audits of Trump, his family, and his businesses",
+        "Replacing the IRS commissioner with a White House appointee chosen by Trump personally",
+        "Sending the case to the Supreme Court before any district court ruling"
+      ],
+      "correct": 1,
+      "explanation": "Possible terms included the IRS dropping audits of Trump and related entities, paying him taxpayer funds, or providing some other public benefit. The unusual issue is that Trump oversees the agency he is suing.",
+      "source_day": 1940,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/13/day-1940/",
+      "difficulty": "hard",
+      "type": "consequence"
+    },
+    {
+      "number": 7,
+      "question": "How many times had Senate Republicans blocked a resolution to stop Trump’s war with Iran?",
+      "options": [
+        "Five",
+        "Six",
+        "Seven",
+        "Eight"
+      ],
+      "correct": 2,
+      "explanation": "Senate Republicans blocked the measure for the seventh time. It fell one vote short even after Lisa Murkowski joined Rand Paul and Susan Collins in backing it.",
+      "source_day": 1940,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/13/day-1940/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 8,
+      "question": "Who resigned as U.S. Border Patrol chief?",
+      "options": [
+        "Rodney Scott",
+        "Todd Lyons",
+        "Michael Banks",
+        "Gregory Bovino"
+      ],
+      "correct": 2,
+      "explanation": "Michael Banks stepped down after overseeing Border Patrol during Trump’s immigration crackdown and deployment of agents inside U.S. cities. When asked about leaving, he said it was simply time.",
+      "source_day": 1941,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/14/day-1941/",
+      "difficulty": "easy",
+      "type": "who"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "2026-W21",
+  "week_label": "May 18 – May 21, 2026",
+  "status": "published",
+  "editions": [
+    1945,
+    1946,
+    1947,
+    1948
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which three countries asked Trump to \"hold off\" on a previously unannounced attack on Iran?",
+      "options": [
+        "Egypt, Jordan, and Oman",
+        "Qatar, Saudi Arabia, and the United Arab Emirates",
+        "Turkey, Bahrain, and Kuwait",
+        "Israel, the United Kingdom, and France"
+      ],
+      "correct": 1,
+      "explanation": "Trump postponed the planned attack after requests from Qatar, Saudi Arabia, and the United Arab Emirates. He still told military leaders to stay ready for a full assault if talks failed.",
+      "source_day": 1945,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/18/day-1945/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 2,
+      "question": "Which Republican senator Trump helped defeat in Louisiana after the senator voted to convict him following Jan. 6?",
+      "options": [
+        "Bill Cassidy",
+        "John Kennedy",
+        "Tom Cotton",
+        "Susan Collins"
+      ],
+      "correct": 0,
+      "explanation": "Bill Cassidy finished third in Louisiana's Republican Senate primary after Trump backed Rep. Julia Letlow. Trump celebrated Cassidy's loss and said his political career was over.",
+      "source_day": 1945,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/18/day-1945/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 3,
+      "question": "What was the main purpose of the AI executive order Trump postponed hours before a White House signing ceremony?",
+      "options": [
+        "To ban U.S. companies from exporting advanced chips to China",
+        "To create a voluntary federal review process for cybersecurity risks in advanced AI models before release",
+        "To require all federal agencies to use only American-made AI systems",
+        "To criminalize the publication of open-source frontier AI models"
+      ],
+      "correct": 1,
+      "explanation": "The draft order would have created a voluntary federal review process to test advanced AI models for cybersecurity risks before they were released publicly. Trump said he disliked certain aspects and worried it could slow the U.S. against China.",
+      "source_day": 1948,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/21/day-1948/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 4,
+      "question": "Under Trump's Justice Department settlement over leaked tax records, who would receive a formal apology but no money?",
+      "options": [
+        "Only Trump personally",
+        "Trump, his sons, and the Trump Organization",
+        "All Jan. 6 defendants who applied to the commission",
+        "Former IRS employees involved in the leak case"
+      ],
+      "correct": 1,
+      "explanation": "The settlement said Trump, his sons, and the Trump Organization would receive a formal apology but no payout. The broader $1.776 billion fund was created for other people claiming political targeting by the government.",
+      "source_day": 1945,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/18/day-1945/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "What did futures markets put the odds at for at least one Federal Reserve rate hike by year-end?",
+      "options": [
+        "35%",
+        "45%",
+        "60%",
+        "75%"
+      ],
+      "correct": 2,
+      "explanation": "Futures markets put the odds of at least one rate hike by year-end at 60%. The warning came as inflation remained well above the Fed's 2% target.",
+      "source_day": 1947,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/20/day-1947/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 6,
+      "question": "Who did Trump endorse in Texas' Republican Senate runoff, angering Senate Republicans?",
+      "options": [
+        "John Cornyn",
+        "James Talarico",
+        "Ken Paxton",
+        "Ted Cruz"
+      ],
+      "correct": 2,
+      "explanation": "Trump endorsed Texas Attorney General Ken Paxton over Sen. John Cornyn. Republicans worried Paxton could endanger a seat they would normally expect to hold.",
+      "source_day": 1946,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/19/day-1946/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 7,
+      "question": "Why did Senate Republicans abandon plans to pass Trump's $70 billion ICE and Border Patrol funding bill?",
+      "options": [
+        "Democrats filibustered the bill after a floor protest",
+        "The White House withdrew all immigration funding requests",
+        "The Justice Department tried to attach a $1.776 billion anti-weaponization fund that senators said was poorly explained",
+        "The Congressional Budget Office said the bill would increase the deficit by $500 billion"
+      ],
+      "correct": 2,
+      "explanation": "Senate Republicans dropped the bill after the Justice Department tried to add Trump's $1.776 billion anti-weaponization fund. Senators said basic questions about how claims would work went unanswered.",
+      "source_day": 1948,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/21/day-1948/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 8,
+      "question": "What did the Senate vote to advance regarding Trump's military action against Iran?",
+      "options": [
+        "A declaration of war against Iran",
+        "A sanctions package targeting Iran's oil exports",
+        "A war powers resolution requiring Trump to end military action without congressional authorization",
+        "A treaty guaranteeing military support for Israel"
+      ],
+      "correct": 2,
+      "explanation": "The Senate advanced a war powers resolution that would require Trump to end military action against Iran unless Congress authorized it. Four Republicans joined Democrats after seven failed attempts to move it forward.",
+      "source_day": 1946,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/19/day-1946/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 9,
+      "question": "What additional protection for Trump was included in the Justice Department's expanded IRS settlement addendum?",
+      "options": [
+        "It required Congress to approve any future audit of a sitting president",
+        "It permanently barred the IRS from pursuing audits of Trump, related individuals, and affiliated businesses",
+        "It transferred all tax disputes involving Trump to the Supreme Court",
+        "It forgave all federal tax liabilities for the Trump Organization through 2030"
+      ],
+      "correct": 1,
+      "explanation": "The addendum said the IRS is \"FOREVER BARRED and PRECLUDED\" from pursuing examinations of Trump, related or affiliated individuals, and related trusts and businesses. It went beyond the original anti-weaponization fund settlement.",
+      "source_day": 1946,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/19/day-1946/",
+      "difficulty": "hard",
+      "type": "consequence"
+    },
+    {
+      "number": 10,
+      "question": "What did the DNC's draft 2024 election autopsy say Trump’s “Kamala is for they/them” ad did to Harris?",
+      "options": [
+        "It left her boxed in",
+        "It boosted her support with suburban women",
+        "It had little measurable effect on voters",
+        "It helped her reclaim support in rural counties"
+      ],
+      "correct": 0,
+      "explanation": "The draft autopsy said the ad was “very effective” and left Harris “boxed” in. The report also argued that Democrats misread key weaknesses in their campaign.",
+      "source_day": 1948,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/21/day-1948/",
+      "difficulty": "medium",
+      "type": "what"
+    }
+  ]
+}

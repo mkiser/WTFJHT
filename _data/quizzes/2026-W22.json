@@ -1,0 +1,173 @@
+{
+  "id": "2026-W22",
+  "week_label": "May 21 – May 28, 2026",
+  "status": "published",
+  "editions": [
+    1955,
+    1954,
+    1953,
+    1948
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What triggered the Justice Department’s criminal investigation into E. Jean Carroll?",
+      "options": [
+        "Her refusal to testify in a civil case",
+        "Whether she lied under oath about outside funding for her lawsuits against Trump",
+        "An allegation that she destroyed evidence",
+        "Her public comments about the appeals court"
+      ],
+      "correct": 1,
+      "explanation": "The investigation focuses on whether Carroll committed perjury when she said in a 2022 deposition that no one else was paying her legal fees.",
+      "source_day": 1955,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/28/day-1955/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 2,
+      "question": "What was the main sticking point preventing a U.S.-Iran deal from being finalized?",
+      "options": [
+        "Whether Iran would buy U.S. weapons",
+        "Control of the Strait of Hormuz, along with sanctions and enriched uranium",
+        "The location of future peace talks",
+        "A prisoner swap with Oman"
+      ],
+      "correct": 1,
+      "explanation": "Talks remained stuck over the Strait of Hormuz, sanctions, and Iran’s enriched uranium, even as both sides said negotiations were continuing.",
+      "source_day": 1954,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/27/day-1954/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 3,
+      "question": "How did the Trump administration describe its proposed governmentwide nondisclosure agreement for federal employees?",
+      "options": [
+        "Mandatory for all employees immediately",
+        "Limited to national security agencies only",
+        "Voluntary, though refusal could still lead to removal or debarment",
+        "A pilot program for political appointees only"
+      ],
+      "correct": 2,
+      "explanation": "The proposal was described as voluntary, but employees who refused to sign could face removal or debarment.",
+      "source_day": 1953,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/26/day-1953/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 4,
+      "question": "What did the three-judge panel say was wrong with Alabama’s 2023 congressional map?",
+      "options": [
+        "It violated a campaign finance law",
+        "It was drawn too late to be used in an election",
+        "It was tainted by intentional race-based discrimination",
+        "It created too many majority-Republican districts"
+      ],
+      "correct": 2,
+      "explanation": "The court said the map violated the 14th Amendment because lawmakers intentionally diluted Black voting power, calling it tainted by intentional race-based discrimination.",
+      "source_day": 1953,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/26/day-1953/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 5,
+      "question": "Why did a federal judge decline to block Trump’s executive order creating a federal voter list?",
+      "options": [
+        "The judge found the order clearly constitutional",
+        "Congress had already approved the voter list",
+        "The challenge was premature because no one had yet been harmed and key steps had not happened",
+        "States had unanimously agreed to participate"
+      ],
+      "correct": 2,
+      "explanation": "The judge did not decide whether the order was lawful, but said the case was premature because no citizenship lists had been created, no USPS ballot rule had been adopted, and no voter had been harmed.",
+      "source_day": 1955,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/28/day-1955/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 6,
+      "question": "What annual inflation rate was reported for April?",
+      "options": [
+        "2.6%",
+        "3.3%",
+        "3.8%",
+        "4.1%"
+      ],
+      "correct": 2,
+      "explanation": "Inflation accelerated to 3.8% in April, the highest level in nearly three years.",
+      "source_day": 1955,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/28/day-1955/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 7,
+      "question": "What event was the temporary UFC octagon on the White House South Lawn being built for?",
+      "options": [
+        "A July 4 military demonstration",
+        "A charity match between members of Congress",
+        "UFC Freedom Fights 250, tied to the 250th anniversary of the U.S.",
+        "A presidential fitness challenge for federal workers"
+      ],
+      "correct": 2,
+      "explanation": "Construction began for Trump’s planned 'UFC Freedom Fights 250' event to commemorate the 250th anniversary of the United States.",
+      "source_day": 1953,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/26/day-1953/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "What did Trump say was 'very effective' in the Democratic National Committee’s draft autopsy of the 2024 election?",
+      "options": [
+        "His debate strategy against Biden",
+        "His rural turnout operation",
+        "The 'Kamala is for they/them' ad",
+        "His endorsement of down-ballot Republicans"
+      ],
+      "correct": 2,
+      "explanation": "The draft autopsy said Trump’s 'Kamala is for they/them' ad was very effective and left Harris boxed in.",
+      "source_day": 1948,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/21/day-1948/",
+      "difficulty": "hard",
+      "type": "quote"
+    },
+    {
+      "number": 9,
+      "question": "By how many points did Ken Paxton defeat John Cornyn in the Texas Republican Senate primary?",
+      "options": [
+        "12 points",
+        "18 points",
+        "28 points",
+        "38 points"
+      ],
+      "correct": 2,
+      "explanation": "Paxton’s victory was described as a 28-point rejection of Cornyn, a four-term incumbent.",
+      "source_day": 1954,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/27/day-1954/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 10,
+      "question": "What complaint did Senate Republicans have about the Justice Department's proposed 'anti-weaponization' fund that helped derail Trump’s $70 billion border bill?",
+      "options": [
+        "It was too small to matter",
+        "It only covered state-level prosecutions",
+        "Basic questions about eligibility and evidence were unanswered, including whether Jan. 6 assailants could get payouts",
+        "It required support from House Democrats first"
+      ],
+      "correct": 2,
+      "explanation": "Senators said the Justice Department failed to answer basic questions about how claims would work, who would decide them, what evidence would be needed, and whether Jan. 6 defendants who assaulted police could qualify.",
+      "source_day": 1948,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/05/21/day-1948/",
+      "difficulty": "medium",
+      "type": "consequence"
+    }
+  ]
+}

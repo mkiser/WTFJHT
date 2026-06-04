@@ -1,0 +1,173 @@
+{
+  "id": "2026-W23",
+  "week_label": "Jun 1 – Jun 4, 2026",
+  "status": "published",
+  "editions": [
+    1959,
+    1960,
+    1961,
+    1962
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Why did Democrats say renewing the warrantless surveillance program was in jeopardy?",
+      "options": [
+        "The FBI said it no longer needed Section 702 powers",
+        "Bill Pulte was named acting DNI despite having no known intelligence experience",
+        "The Supreme Court ruled Section 702 unconstitutional",
+        "Republicans refused to allow any changes to the program"
+      ],
+      "correct": 1,
+      "explanation": "Democrats warned they would not renew Section 702 under Bill Pulte, a political loyalist with no known intelligence background. He was put in charge of the 18-agency intelligence community as acting DNI.",
+      "source_day": 1961,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/03/day-1961/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 2,
+      "question": "How much money was stripped out of the Senate immigration enforcement bill for Trump's White House ballroom?",
+      "options": [
+        "$500 million",
+        "$750 million",
+        "$1 billion",
+        "$1.8 billion"
+      ],
+      "correct": 2,
+      "explanation": "Senate Republicans removed $1 billion for the White House ballroom after the parliamentarian ruled it violated reconciliation rules. They also forced the administration to drop the anti-weaponization fund.",
+      "source_day": 1961,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/03/day-1961/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 3,
+      "question": "Who is Trump planning to nominate to lead the Justice Department?",
+      "options": [
+        "Pam Bondi",
+        "John Bolton",
+        "Bill Pulte",
+        "Todd Blanche"
+      ],
+      "correct": 3,
+      "explanation": "Trump said he would nominate Todd Blanche, his former criminal defense lawyer and current acting attorney general, to run the Justice Department. Blanche took over after Pam Bondi was fired in April.",
+      "source_day": 1962,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/04/day-1962/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 4,
+      "question": "Which position did Trump give Bill Pulte on an acting basis?",
+      "options": [
+        "Secretary of Homeland Security",
+        "Director of the FBI",
+        "Director of national intelligence",
+        "White House chief of staff"
+      ],
+      "correct": 2,
+      "explanation": "Trump named Bill Pulte acting director of national intelligence, allowing him to bypass Senate confirmation for up to 210 days. Pulte had been running the Federal Housing Finance Agency.",
+      "source_day": 1960,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/02/day-1960/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 5,
+      "question": "What reportedly made Trump yell 'What the fuck are you doing?' at Benjamin Netanyahu?",
+      "options": [
+        "Israel's refusal to share intelligence on Iran",
+        "A planned strike on Beirut that could derail U.S. talks with Iran",
+        "A dispute over aid shipments into Gaza",
+        "Netanyahu's public criticism of Marco Rubio"
+      ],
+      "correct": 1,
+      "explanation": "Trump reportedly demanded that Netanyahu abandon a planned strike on Beirut because it could interfere with U.S. negotiations with Iran. Israel then reportedly dropped plans to strike Hezbollah targets in Beirut.",
+      "source_day": 1960,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/02/day-1960/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "What did Acting Attorney General Todd Blanche say about Trump's $1.8 billion 'Anti-Weaponization Fund'?",
+      "options": [
+        "It would be expanded after the midterms",
+        "It was paused pending a Supreme Court ruling",
+        "It was dead and not moving forward",
+        "It would be funded through private donations instead"
+      ],
+      "correct": 2,
+      "explanation": "Blanche told lawmakers, 'We’re not moving forward with the fund, period.' He still defended the idea behind it, but said the fund itself was dead.",
+      "source_day": 1960,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/02/day-1960/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 7,
+      "question": "What did the House vote to do regarding further U.S. strikes on Iran?",
+      "options": [
+        "Block Trump from ordering further strikes unless Congress authorizes the war",
+        "Authorize a 60-day extension of military operations without congressional approval",
+        "Require NATO approval before any additional U.S. strikes",
+        "Approve new funding for naval operations in the Strait of Hormuz"
+      ],
+      "correct": 0,
+      "explanation": "The House passed a war powers resolution directing Trump to withdraw U.S. forces from hostilities with Iran unless Congress authorizes the war. It was the first successful congressional rebuke of his military campaign.",
+      "source_day": 1961,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/03/day-1961/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "What economic mismatch undercut Kevin Hassett's claim that Americans are better off?",
+      "options": [
+        "Unemployment was rising faster than job openings",
+        "Gas prices had fallen while consumer sentiment worsened",
+        "Mortgage rates were lower than rent increases",
+        "Inflation was 3.8% while wage growth was 3.6%"
+      ],
+      "correct": 3,
+      "explanation": "The latest Labor Department figures showed inflation at 3.8% and wage growth at 3.6%, meaning prices were rising faster than wages. That contradicted Hassett's argument that people had more money after price increases.",
+      "source_day": 1959,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/01/day-1959/",
+      "difficulty": "hard",
+      "type": "numbers"
+    },
+    {
+      "number": 9,
+      "question": "What did Trump say about talks with Iran even as Iranian state-affiliated media reported they had been suspended?",
+      "options": [
+        "They were continuing at a rapid pace",
+        "They had ended permanently",
+        "They would resume only after sanctions relief",
+        "They were being moved to direct talks in Geneva"
+      ],
+      "correct": 0,
+      "explanation": "Trump insisted negotiations were continuing 'at a rapid pace' despite reports from Iranian state-affiliated media that Tehran had suspended them. He also said he 'couldn’t care less' if the negotiations were over.",
+      "source_day": 1959,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/01/day-1959/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 10,
+      "question": "Why did Trump decide not to nominate Bill Pulte permanently as director of national intelligence?",
+      "options": [
+        "Pulte declined the job to remain at FHFA",
+        "A federal judge blocked the appointment",
+        "Bipartisan criticism said he lacked national security experience",
+        "The Senate Intelligence Committee voted unanimously against him"
+      ],
+      "correct": 2,
+      "explanation": "Trump backed away from giving Pulte the job permanently after bipartisan criticism that he lacked the experience to oversee the 18 agencies in the intelligence community. Trump said Pulte was only there 'for a little while.'",
+      "source_day": 1962,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/04/day-1962/",
+      "difficulty": "medium",
+      "type": "consequence"
+    }
+  ]
+}

@@ -104,10 +104,10 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   padding: 0.2rem 0.3rem;
   cursor: pointer;
   color: rgba(255,255,255,0.3);
-  border-radius: 3px;
+  border-radius: 0; // square (Law II)
   transition: color 0.15s ease;
   flex-shrink: 0;
-  font-size: 0.6rem;
+  font-size: 0.7rem; // data floor (D2; board fix #6)
   font-weight: 600;
   letter-spacing: 0.04em;
   font-family: $carousel-sans;
@@ -121,7 +121,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
 // Counter
 // --------------------------------------------------------------------------
 .carousel-counter {
-  font-size: 0.6rem;
+  font-size: 0.7rem; // data floor (D2; board fix #6)
   color: rgba(255,255,255,0.35);
   text-align: center;
   padding: 0.35rem 0 0.1rem;
@@ -298,7 +298,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   .carousel-card__sn {
     font-family: $carousel-mono;
     font-size: calc(32 * var(--s) * 1px);
-    font-weight: 500;
+    font-weight: 600; // share-card furniture, light ground (type migration P1, ruling 6)
     color: $carousel-red;
     margin-bottom: calc(20 * var(--s) * 1px);
     flex-shrink: 0;
@@ -307,7 +307,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   .carousel-card__cl {
     font-family: $carousel-mono;
     font-size: calc(28 * var(--s) * 1px);
-    font-weight: 500;
+    font-weight: 600; // share-card furniture, light ground (type migration P1, ruling 6)
     color: $carousel-dim;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -638,7 +638,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
 
   .carousel-card__tios-sc {
     color: $carousel-red;
-    font-weight: 500;
+    font-weight: 600; // share-card label, light ground (type migration P1, ruling 6)
   }
 
   .carousel-card__tios-s-footer {
@@ -684,11 +684,11 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   height: 28px;
   padding: 0 0.75rem;
   font-size: 0.75rem;
-  font-weight: 500;
+  font-weight: 600; // Share/Save pills are buttons (type migration P1, ruling 6)
   color: rgba(255,255,255,0.5);
   background: transparent;
   border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 100px;
+  border-radius: 0; // square chrome — pills retired (Law II)
   cursor: pointer;
   transition: color 0.15s, border-color 0.15s;
   font-family: $carousel-sans;
@@ -716,8 +716,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   padding: 0.375rem;
   background: $body-color;
   border: 1px solid rgba(255,255,255,0.1);
-  border-radius: 8px;
-  box-shadow: 0 -4px 16px rgba(0,0,0,0.4);
+  border-radius: 0;
   z-index: 100;
   min-width: 140px;
 
@@ -734,12 +733,12 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   gap: 0.5rem;
   padding: 0.45rem 0.6rem;
   margin: 0;
-  font-size: 0.8125rem;
+  font-size: 0.8rem; // meta stop (P2)
   line-height: 1.2;
   color: rgba(255,255,255,0.7) !important;
   background: none;
   border: none;
-  border-radius: 4px;
+  border-radius: 0;
   cursor: pointer;
   text-decoration: none !important;
   white-space: nowrap;
@@ -786,7 +785,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   color: rgba(255,255,255,0.5);
   width: 44px;
   height: 44px;
-  border-radius: 50%;
+  border-radius: 21%; // tile (Law II)
   display: none;
   align-items: center;
   justify-content: center;
@@ -799,7 +798,6 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
     content: '';
     position: absolute;
     inset: -8px;
-    border-radius: 50%;
   }
 
   &:hover {
@@ -980,19 +978,21 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   left: 50%;
   transform: translateX(-50%) translateY(20px);
   z-index: 100002;
-  background: $carousel-red;
-  color: #fff;
+  // Floats over the dark share overlay, so the ink square inverts at rest:
+  // white button, ink text (board fix #18 — was a red pill with a drop shadow)
+  background: #fff;
+  color: #111;
   border: none;
-  border-radius: 28px;
-  padding: 14px 36px;
+  border-radius: 0; // square (Law II)
+  padding: 0.75rem 1.5rem;
+  min-height: 46px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-  font-size: 17px;
+  font-size: 1rem;
   font-weight: 600;
   letter-spacing: 0.02em;
   cursor: pointer;
   opacity: 0;
   transition: opacity 0.2s ease, transform 0.2s ease;
-  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
 
   &.is-visible {
     opacity: 1;

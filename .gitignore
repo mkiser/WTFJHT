@@ -54,6 +54,7 @@ node_modules
 
 _scripts/
 _config_dev.yml
+__pycache__/
 downloads/yearbooks/
 digitalocean
 digitalocean.pub

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<article class="page corrections">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {% assign entries = site.data.corrections.entries | where: "year", page.year %}
+  {% assign groups = entries | group_by_exp: "e", "e.changed_at | date: '%B %Y'" %}
+  {% for g in groups %}
+    <h2 class="corrections__month">{{ g.name }}</h2>
+    {% for entry in g.items %}
+      {% include correction-entry.html entry=entry %}
+    {% endfor %}
+  {% endfor %}
+  <p class="corrections__back"><a href="/corrections/">&larr; All corrections</a></p>
+</article>

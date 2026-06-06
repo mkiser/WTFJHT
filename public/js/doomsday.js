@@ -37,8 +37,15 @@
 
             if (distance > 0) {
                 this.updateCountdownMode(elements, timeUnits, distance);
-            } else {
+            } else if (elements.container.dataset.shutdownActive === "true") {
+                // Counting UP into a shutdown requires explicit opt-in
+                // (data-shutdown-active="true") — a stale config date must
+                // never broadcast a false running shutdown (page-walk M14).
                 this.updateShutdownMode(elements, timeUnits);
+            } else {
+                elements.container.style.display = "none";
+                if (this.timerInterval) clearInterval(this.timerInterval);
+                return;
             }
 
             this.updateTimerDisplay(timeUnits);
@@ -67,7 +74,7 @@
             const { days } = timeUnits;
 
             container.classList.remove("shutdown-active");
-            status.innerHTML = "🚨 Gov't Shutdown Countdown 🚨";
+            status.innerHTML = "Gov't Shutdown Countdown";
 
             // Add urgency for final 24 hours
             if (distance < 24 * 60 * 60 * 1000) {
@@ -87,7 +94,7 @@
             container.classList.add("shutdown-active");
             container.classList.remove("final-countdown");
 
-            status.innerHTML = `🔥 Gov't Shutdown: Day ${days + 1} 🔥`;
+            status.innerHTML = `Gov't Shutdown: Day ${days + 1}`;
 
             if (days === 0) {
                 impact.innerHTML = "Government shutdown began&nbsp;today";

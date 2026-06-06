@@ -20,7 +20,7 @@
 .pod-image {
   width: 125px;
   height: 125px;
-  border-radius: 8px;
+  border-radius: 21%; // the tile — cover art is the show avatar (Law II)
   flex-shrink: 0;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .pod-show-title {
-  font-size: 1.4rem;
+  font-size: 1.2rem; // heading stop (P2)
   line-height: 1.2;
   margin: 0 0 0.4rem 0;
 }
@@ -53,16 +53,16 @@
 }
 
 .pod-label {
-  font-size: 0.65rem;
-  font-weight: 700;
+  font-size: 0.75rem; // label floor (ruling 4; board fix #5)
+  font-weight: 600; // label role
   text-transform: uppercase;
-  letter-spacing: 1.5px;
+  letter-spacing: 0.06em; // label role tracking (was 1.5px)
   color: $gray-3;
   margin: 0 0 0.75rem 0;
 }
 
 .pod-headline {
-  font-size: 1.75rem;
+  font-size: 1.65rem; // title stop (P2)
   line-height: 1.25;
   margin: 0 0 0.35rem 0;
   
@@ -83,7 +83,7 @@
 }
 
 .pod-summary {
-  font-size: 0.95rem;
+  font-size: 1rem; // body stop (P2)
   color: $gray-4;
   line-height: 1.6;
   margin: 0 0 1.25rem 0;
@@ -120,17 +120,11 @@
   padding: 1.5rem 0;
   border-bottom: 1px solid $border-lighter;
   
-  &:first-child {
-    padding-top: 0;
-  }
-  
-  &:last-child {
-    border-bottom: none;
-  }
+
 }
 
 .pod-item-title {
-  font-size: 1.15rem;
+  font-size: 1.2rem; // heading stop (P2)
   font-weight: 600;
   line-height: 1.3;
   margin: 0 0 0.2rem 0;
@@ -180,14 +174,29 @@
   }
   
   .pod-show-title {
-    font-size: 1.25rem;
+    font-size: 1.2rem; // heading stop (P2)
   }
   
   .pod-headline {
-    font-size: 1.4rem;
+    font-size: 1.2rem; // heading stop (P2)
   }
   
   .pod-item-title {
-    font-size: 1.05rem;
+    font-size: 1rem; // body stop (P2)
   }
+}
+
+// re-keyed after ul/li conversion: each .pod-item is the sole child of its <li>
+.pod-list li:first-child .pod-item {
+  padding-top: 0;
+}
+
+.pod-list li:last-child .pod-item {
+  border-bottom: none;
+}
+
+.pod-list li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }

@@ -2,39 +2,46 @@
 //
 // Headings, body text, lists, and other misc typographic elements.
 
-h1, h2, h3, h4, h5, h6 {
+// The role scale (type migration P1; rulings 1 + 2):
+// display 2.5/1.18 · title 1.65/1.25 · heading 1.2/1.3 — all carry 700.
+// The old generic ladder had h1=h2=2.5rem at 600.
+h1, h2 {
   margin-bottom: .5rem;
-  font-weight: 600;
-  line-height: 1.25;
   color: $gray-5;
   text-rendering: optimizeLegibility;
+  font-weight: 700; // bold needs room — 700 belongs to display + title sizes (weight step, 2026-06-06)
+  text-wrap: balance; // no stranded last word in headlines (widow control, 2026-06-06)
+}
+h3, h4, h5, h6 {
+  margin-bottom: .5rem;
+  font-weight: 600; // the weight step: below title size, 700 smudges
+  color: $gray-5;
+  text-rendering: optimizeLegibility;
+  text-wrap: balance; // widow control on sub-heads too (2026-06-06)
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 2.5rem; // display role
+  line-height: 1.18; // ruling 1 — the headline unit
 }
 
 h2 {
   margin-top: 1rem;
-  font-size: 2.5rem;
-}
-
-h2.dateline {
-  font-size: 1.5rem;
-  color: $gray-3;
-  font-weight: lighter;
-  margin: 2rem 0rem .25rem 0rem;
+  font-size: 1.65rem; // title role (was 2.5 — the h1=h2 bug)
+  line-height: 1.25;
 }
 
 h3 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
-  font-size: 1.6rem;
+  font-size: 1.2rem; // heading role
+  line-height: 1.3;
 }
 
 h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
+  line-height: 1.3;
 }
 
 p {
@@ -68,7 +75,7 @@ hr {
 }
 
 abbr {
-  font-size: 85%;
+  font-size: 0.85em; // SANCTIONED inline microtype — rides its prose context
   font-weight: bold;
   color: $gray-4;
   text-transform: uppercase;
@@ -79,22 +86,6 @@ abbr {
   }
 }
 
-/*blockquote {
-  padding: .5rem 1rem;
-  margin: .8rem 0;
-  color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
-
-  p:last-child {
-    margin-bottom: 0;
-  }
-
-  @media (min-width: 30em) {
-    padding-right: 5rem;
-    padding-left: 1.25rem;
-  }
-}
-*/
 
 // Markdown footnotes
 //
@@ -112,7 +103,7 @@ a[href^="#fnref:"] {
 // List of footnotes
 .footnotes {
   margin-top: 2rem;
-  font-size: 85%;
+  font-size: 0.9rem; // secondary stop (P2 — was 85%)
 }
 
 // Custom type
@@ -121,7 +112,7 @@ a[href^="#fnref:"] {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
+  font-weight: 400; // ruling 5 — weight 300 left the system
   line-height: 1.7;
   color: $gray-4;
 }

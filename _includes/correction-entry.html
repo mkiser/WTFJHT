@@ -1,0 +1,30 @@
+{% comment %} One corrections log row. Param: entry.
+    Data contract: scripts/generate_corrections.py (mechanical git-diff pipeline —
+    every displayed word is from the post's two file versions or a fixed template
+    string; no generated text). Inter-segment spaces MUST be {{ " " }} — Liquid
+    silently drops whitespace-only {% raw %}{% unless %}{% endraw %} bodies. {% endcomment %}
+{% if entry.day %}{% capture post_label %}Day {{ entry.day }}{% endcapture %}{% else %}{% capture post_label %}{{ entry.slug | replace: "-", " " }}{% endcapture %}{% endif %}
+<article class="correction">
+  <p class="correction__head">
+    <time class="correction__stamp" datetime="{{ entry.changed_at }}">{{ entry.changed_at | date: "%b %-d, %Y" }}</time>
+    {% if entry.post_url %}<a class="correction__post" href="{{ entry.post_url | escape }}">{{ post_label }}</a>{% else %}<span class="correction__post">{{ post_label }}</span>{% endif %}
+    <a class="correction__commit" href="https://github.com/mkiser/WTFJHT/commit/{{ entry.commit }}" target="_blank" rel="noopener">view this change</a>
+  </p>
+  {% for change in entry.changes %}
+    {% case change.kind %}
+    {% when 'link_change' %}
+      <p class="correction__change correction__change--links">Source links: {{ change.text | escape }}</p>
+    {% when 'deletion' %}
+      <p class="correction__change"><span class="sr-only">Removed: </span><s>{{ change.before | escape }}</s></p>
+    {% else %}
+      {% if change.mode == 'inline' %}
+        <p class="correction__change">{% for seg in change.segments %}{% case seg.t %}{% when 'del' %}<span class="sr-only">removed: </span><s>{{ seg.s | escape }}</s>{% when 'ins' %}<span class="sr-only">now: </span><mark>{{ seg.s | escape }}</mark>{% else %}{{ seg.s | escape }}{% endcase %}{% unless forloop.last %}{{ " " }}{% endunless %}{% endfor %}</p>
+      {% else %}
+        <p class="correction__label">Before</p>
+        <div class="correction__block correction__block--before">{{ change.before | escape }}</div>
+        <p class="correction__label">After</p>
+        <div class="correction__block correction__block--after">{{ change.after | escape }}</div>
+      {% endif %}
+    {% endcase %}
+  {% endfor %}
+</article>

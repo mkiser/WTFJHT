@@ -87,8 +87,17 @@ def get_posts_by_tag
   posts_by_tag
 end
 
+def tag_display_overrides
+  # Display-name overrides (acronyms, small words) — single source of truth
+  # shared with the Liquid side via _data/tag_display.yml.
+  @tag_display_overrides ||= begin
+    path = File.join(__dir__, '..', '_data', 'tag_display.yml')
+    File.exist?(path) ? (YAML.load_file(path) || {}) : {}
+  end
+end
+
 def format_tag_name(tag)
-  tag.split('-').map(&:capitalize).join(' ')
+  tag_display_overrides[tag] || tag.split('-').map(&:capitalize).join(' ')
 end
 
 def escape_html(text)

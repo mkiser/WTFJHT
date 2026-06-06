@@ -16,12 +16,8 @@ body {
 
 html {
   font-family: $root-font-family;
-  font-size: $root-font-size;
+  font-size: unquote("clamp(1.0625rem, 1.0125rem + 0.2vw, 1.125rem)"); // rem: respects user font-size prefs (17-18px at browser default) // caps post body ~19.8px (was 22px via the 20px jump)
   line-height: $root-line-height;
-
-  @media (min-width: $large-breakpoint) {
-    font-size: $large-font-size;
-  }
 }
 
 body {
@@ -50,7 +46,7 @@ a {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  font-size: 85%;
+  font-size: 0.9rem; // secondary stop (P2 — tables read at .9)
   border: 1px solid $border-color;
   border-collapse: collapse;
 }
@@ -71,7 +67,11 @@ tbody tr:nth-child(odd) th {
 }
 
 mark {
-  background-color: rgba(0,147,240,0.1);;
+  background-color: #f6e9e8; // blush wash — search highlight
+  color: #96101d; // 7.43:1
+  border-bottom: 2px solid #e0162b; // the underscore carries the meaning (non-color
+                                    // cue) — a border, not a shadow, so Law V's
+                                    // no-shadow gate stays absolute (board fix #14)
 }
 
 img {
@@ -85,3 +85,6 @@ img {
   flex-shrink: 0;
 }
 
+// Utilities (replace inline styles removed in the rebrand pass)
+.mt-2 { margin-top: 2em; }
+.t-center { text-align: center; }

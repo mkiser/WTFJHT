@@ -49,9 +49,9 @@ redirect_from: "/podcast/"
 
   <p class="pod-label">Recent Episodes</p>
 
-  <div class="pod-list">
+  <ul class="pod-list">
     {% for post in episodes limit:10 offset:1 %}
-    <div class="pod-item">
+    <li><article class="pod-item">
       <h3 class="pod-item-title">
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}: {{ post.description }}</a>
       </h3>
@@ -64,9 +64,9 @@ redirect_from: "/podcast/"
       <div class="pod">
         <audio src="{{ site.cloudfront_url }}{{ post.podcast.file }}" preload="none"></audio>
       </div>
-    </div>
+    </article></li>
     {% endfor %}
-  </div>
+  </ul>
 
   {% else %}
   <p>No episodes yet. Check back soon!</p>

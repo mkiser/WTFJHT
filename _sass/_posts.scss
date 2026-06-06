@@ -4,12 +4,13 @@
 // page is wrapped in `.page` and is only used on the page layout.
 
 
-article.post div.post-content > p {
+article.post div.post-content > p:not(.tios) {
   font-family: $root-serif-font-family;
   line-height: $line-height-prose;
   font-weight: 400;
   font-style: normal;
   font-size: $font-size-xl;
+  text-wrap: pretty; // no orphans/widows in the daily-edition prose (2026-06-06)
 
   strong {
     color: $text-strong;
@@ -68,7 +69,7 @@ article.post div.post-content > p {
 
   .tios__pilcrow {
     color: $red-dark;
-    font-weight: 500;
+    font-weight: 600; // pilcrow furniture, light ground (type migration P1, ruling 6)
   }
 }
 
@@ -121,6 +122,7 @@ article.post div.post-content > p {
 
   p {
     font-size: 1em;
+    text-wrap: pretty; // widow/orphan control on page + post body (2026-06-06)
 
     a {
       color: $link-color;
@@ -131,7 +133,7 @@ article.post div.post-content > p {
     padding: 1em;
     margin: 0 0 2em 0em;
     background-color: $away-mode-bg;
-    font-size: $font-size-sm-em;
+    font-size: 0.8rem; // meta stop (P2 em retirement)
     color: $gray-3;
   }
   ul {
@@ -140,28 +142,26 @@ article.post div.post-content > p {
     padding: 0.25em 0 0.25em 1.25em;
     margin: 0 0 2em 1em;
     background: none;
-    font-size: $font-size-list;
-    letter-spacing: $tracking-tight;
-    line-height: $line-height-relaxed;
+    font-size: 0.9rem;    // aside list — secondary role: notables/related sit BELOW prose
+    line-height: 1.5;
     color: $gray-4;
   }
   ol {
     padding: 0 0 0 1.5em;
     margin: 0 0 1em 0;
     background: none;
-    font-size: $font-size-list;
-    letter-spacing: $tracking-tight;
-    line-height: $line-height-relaxed;
+    font-size: 0.9rem;    // aside list — secondary role (see ul above)
+    line-height: 1.5;
     color: $gray-4;
   }
-  ol {
-    li {
-      list-style: circle;
-    }
+  ol li {
+    list-style: inherit; // real ordered lists — inherits from the ol, so
+                         // type="a"/"i" actually works (board fix #17:
+                         // a hard `decimal` here silently overrode the attribute)
   }
   
   li {
-    font-size: $font-size-lg-em;
+    font-size: 1em;
     color: $body-color;
     list-style: none;
     line-height: $line-height-normal;
@@ -221,7 +221,7 @@ article.post div.post-content > p {
      a {
         color: $meta-color;
         text-decoration: none;
-        font-size: $font-size-2xs-em;
+        font-size: 0.75rem; // label stop (P2 — was .65em, sub-floor in page context)
       }
     }
 
@@ -238,7 +238,7 @@ article.post div.post-content > p {
         margin: 0 0 10px 0;
       }
       p {
-        font-size: $font-size-sm-em;
+        font-size: 0.8rem; // meta stop (P2 em retirement)
         color: $gray-3;
         margin-top: 0;
         margin-bottom: 4px;
@@ -247,7 +247,7 @@ article.post div.post-content > p {
   }
 
   blockquote {
-    font-size: $font-size-lg-em;
+    font-size: 0.95em; // SANCTIONED relative grammar — blockquotes ride their prose context (book Ch.11)
     color: $gray-4;
     padding: $blockquote-padding;
     margin: 0 0 1em 1rem;
@@ -319,14 +319,14 @@ article.post div.post-content > p {
 .post-date {
   display: block;
   color: $meta-color;
-  font-size: $font-size-xs-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   margin: 0 0 2em 0;
 }
 
 div.topic-date {
   display: block;
   color: $meta-color;
-  font-size: $font-size-xs-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   margin: 1em 0 .25em 0;
 }
 
@@ -334,44 +334,16 @@ div.topic-date {
 .byline {
   display: block;
   color: $meta-color;
-  font-size: $font-size-xs-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   margin: 0;
 }
 
 // Related posts
-.related {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-  margin-bottom: 2rem;
-  border-top: 1px solid $border-lighter;
-  border-bottom: 1px solid $border-lighter;
-}
-
-.related-posts {
-  padding-left: 0;
-  list-style: none;
+// .related deleted (P2 — zero template usage)
 
 
-  h3 {
-    margin-top: 0;
-  }
+// .related-posts (the dead Solarized hover went with it) deleted (P2 — zero template usage)
 
-  li {
-    small {
-      font-size: 75%;
-      color: $meta-color;
-    }
-
-    a:hover {
-      color: $blue;
-      text-decoration: none;
-
-      small {
-        color: inherit;
-      }
-    }
-  }
-}
 
 /* responsive videos */
 .video figure {
@@ -403,7 +375,7 @@ div.topic-date {
   gap: 0.25rem;
   padding: 0.4rem 0.5rem;
   background: $bg-darker;
-  border-radius: $radius-sm;
+  border-radius: 0; // square (Law II; page-walk M3)
   box-shadow: $shadow-tooltip;
   animation: tooltipIn 0.15s ease;
 
@@ -428,7 +400,7 @@ div.topic-date {
     color: $text-inverse;
     font-size: $font-size-sm;
     cursor: pointer;
-    border-radius: $radius-xs;
+    border-radius: 0; // square (Law II; page-walk M3)
     transition: background $transition-fast;
 
     &:hover {
@@ -462,8 +434,8 @@ div.topic-date {
   padding: 0.75em 1.5em;
   background: $bg-dark;
   color: $text-inverse;
-  font-size: $font-size-base-em;
-  border-radius: $radius-sm;
+  font-size: 0.9rem; // secondary stop (P2 em retirement)
+  border-radius: 0; // square (Law II; page-walk M3)
   z-index: $z-overlay;
   animation: toastIn 0.3s ease;
 
@@ -498,7 +470,7 @@ div.topic-date {
 // Historical posts
 .historical-posts div {
     margin-bottom: 10px;
-    font-size: $font-size-sm-em;
+    font-size: 0.8rem; // meta stop (P2 em retirement)
 }
 
 .historical-posts strong {
@@ -528,7 +500,7 @@ div.topic-date {
 .historical-posts .historical-posts__see-all {
   display: block;
   margin-top: 0.75em;
-  font-size: $font-size-sm-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   color: $meta-color;
   background: none;
   border: none;
@@ -587,25 +559,18 @@ div.topic-date {
 
 .post-tag {
   display: inline-block;
-  padding: 0.25rem 0.75rem;
   font-size: $font-size-sm;
   color: $gray-4;
-  background: $gray-1;
-  border: 1px solid $border-light;
-  border-radius: $radius-pill;
-  text-decoration: none;
-  transition: all $transition-fast;
+  text-decoration: underline;
+  text-underline-offset: .2em;
+  transition: color $transition-fast;
 
   &:hover {
-    background: $border-lighter;
-    border-color: $gray-2;
-    color: $text-strong;
-    text-decoration: none;
+    color: $link-color; // tags are links — hover speaks crimson
   }
 
   &:active {
-    background: $border-color;
-    border-color: darken($gray-2, 7%);
+    color: $link-color;
   }
 }
 
@@ -642,34 +607,25 @@ div.topic-date {
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
-    padding: 0.4rem 0.8rem;
-    background: $gray-1;
-    border: 1px solid $border-light;
-    border-radius: $radius-pill;
-    text-decoration: none;
+    text-decoration: underline;
+    text-underline-offset: .2em;
     color: $gray-4;
     font-size: $font-size-md;
-    transition: all $transition-fast;
+    transition: color $transition-fast;
 
     &:hover {
-      background: $border-lighter;
-      border-color: $gray-2;
-      color: $text-strong;
-      text-decoration: none;
+      color: $link-color; // tags are links — hover speaks crimson
     }
 
     &:active {
-      background: $border-color;
-      border-color: darken($gray-2, 7%);
+      color: $text-strong;
     }
   }
 
   &__count {
-    background: $border-light;
-    padding: 0.1rem 0.4rem;
-    border-radius: $radius-tag-count;
-    font-size: $font-size-xs;
-    color: $text-dim;
+    font-family: $code-font-family;
+    font-size: unquote("max(.85em, .8rem)"); // data-inline pattern (board fix #19)
+    color: #6b6b6b;
   }
 }
 
@@ -692,7 +648,9 @@ div.topic-date {
 
   &__count {
     color: $gray-3;
-    font-size: $font-size-base;
+    font-family: $code-font-family; // data role — counts wear mono everywhere
+    font-size: 0.85rem;             // (page-walk NICE pile unification)
+    font-variant-numeric: tabular-nums;
     margin-bottom: 2rem;
   }
 
@@ -724,7 +682,7 @@ div.topic-date {
 
   &__title {
     display: block;
-    font-weight: 500;
+    font-weight: 600; // index item title, light ground (type migration P1, ruling 6)
     margin-bottom: 0.25rem;
   }
 
@@ -774,7 +732,9 @@ div.topic-date {
 
   &__count {
     color: $gray-3;
-    font-size: $font-size-base;
+    font-family: $code-font-family; // data role — counts wear mono everywhere
+    font-size: 0.85rem;             // (page-walk NICE pile unification)
+    font-variant-numeric: tabular-nums;
     margin-bottom: 2rem;
   }
 
@@ -806,7 +766,7 @@ div.topic-date {
 
   &__title {
     display: block;
-    font-weight: 500;
+    font-weight: 600; // index item title, light ground (type migration P1, ruling 6)
     margin-bottom: 0.25rem;
   }
 
@@ -897,25 +857,22 @@ div.topic-date {
       display: inline-flex;
       align-items: center;
       gap: 0.3rem;
-      padding: 0.3rem 0.6rem;
-      background: $gray-1;
-      border: 1px solid $border-light;
-      border-radius: $radius-pill;
-      text-decoration: none;
+      text-decoration: underline;
+      text-underline-offset: .2em;
       color: $gray-4;
       font-size: $font-size-sm;
-      transition: all $transition-fast;
+      transition: color $transition-fast;
 
       &:hover {
-        background: $border-lighter;
-        border-color: $gray-2;
+        color: $text-strong;
       }
     }
   }
 
   &__tag-count {
-    color: $meta-color;
-    font-size: $font-size-xs;
+    font-family: $code-font-family;
+    font-size: unquote("max(.85em, .8rem)"); // data-inline pattern (board fix #19)
+    color: #6b6b6b;
   }
 
   &__year {
@@ -1053,37 +1010,61 @@ div.topic-date {
     margin: 0;
   }
 
+  // Typographic, not pills — the master /archive/ "By Topic" grammar
+  // (page-walk fix M1: same data rendered two ways; pills retired per Law II)
   &__tag {
     margin: 0;
 
     a {
-      display: inline-block;
-      padding: 0.2rem 0.5rem;
-      background: $gray-1;
-      border: 1px solid $border-light;
-      border-radius: $radius-pill;
-      text-decoration: none;
+      display: inline-flex;
+      align-items: center;
+      text-decoration: underline;
+      text-underline-offset: .2em;
       color: $gray-4;
-      font-size: $font-size-xs;
-      transition: all $transition-fast;
+      font-size: $font-size-sm;
+      transition: color $transition-fast;
 
       &:hover {
-        background: $border-lighter;
-        border-color: $gray-2;
+        color: $text-strong;
       }
     }
   }
 
-  // Mobile: larger tap targets for tags
   @media (max-width: $medium-breakpoint) {
     &__tags {
-      gap: 0.5rem;
-    }
-
-    &__tag a {
-      padding: 0.35rem 0.6rem;
-      font-size: $font-size-sm;
+      gap: 0.5rem 0.75rem;
     }
   }
 }
 
+
+// reading spec: measure floor >=42 chars at 375px
+@media (max-width: 425px) {
+  .post, .page { padding-left: 0.75rem; padding-right: 0.75rem; }
+}
+
+// AnchorJS glyph is FURNITURE: never inherits bold/italic context, never
+// wears link red. !important mirrors the original site rules, which used it
+// to beat contextual `p a` colors.
+.anchorjs-link {
+  color: $meta-color !important;
+  font-weight: 400;
+  font-style: normal;
+}
+
+// Respect reduced motion (tooltip + toast micro-animations)
+@media (prefers-reduced-motion: reduce) {
+  .share-tooltip,
+  .share-toast,
+  .share-toast.fade-out {
+    animation: none;
+  }
+}
+
+// Pages read at 1rem body — lists match it (the 1.05rem step is a POST
+// reading-spec: one step under 1.1rem Georgia prose; on pages it inverted
+// the ramp: lead-ins rendered smaller than their lists)
+.page ul,
+.page ol {
+  font-size: 1em;
+}

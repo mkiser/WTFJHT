@@ -9,8 +9,7 @@
   const audioTitle = trigger.dataset.audioTitle || document.title;
   const audioArtwork = trigger.dataset.audioArtwork;
   const playPauseBtn = bar.querySelector('.audio-player__playpause');
-  const progressContainer = bar.querySelector('.audio-player__progress');
-  const progressFill = bar.querySelector('.audio-player__progress-fill');
+  const progress = bar.querySelector('.audio-player__progress');
   const currentTimeEl = bar.querySelector('.audio-player__current');
   const remainingTimeEl = bar.querySelector('.audio-player__remaining');
 
@@ -51,8 +50,10 @@
   }
 
   function updateProgress() {
+    if (!audio.duration) return;
     const percent = (audio.currentTime / audio.duration) * 100;
-    progressFill.style.width = percent + '%';
+    progress.value = percent;
+    progress.setAttribute('aria-valuetext', formatTime(audio.currentTime) + ' of ' + formatTime(audio.duration));
     currentTimeEl.textContent = formatTime(audio.currentTime);
     remainingTimeEl.textContent = '-' + formatTime(audio.duration - audio.currentTime);
   }
@@ -117,12 +118,10 @@
     remainingTimeEl.textContent = '-' + formatTime(audio.duration);
   });
 
-  // Click to seek
-  progressContainer.addEventListener('click', function(e) {
-    const rect = progressContainer.getBoundingClientRect();
-    const percent = (e.clientX - rect.left) / rect.width;
-    audio.currentTime = percent * audio.duration;
-    updateProgress();
+  // Seek via range input (click, drag, arrow keys)
+  progress.addEventListener('input', function() {
+    if (!audio.duration) return;
+    audio.currentTime = (progress.value / 100) * audio.duration;
   });
 
   // Start playing immediately since user clicked

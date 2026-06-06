@@ -1,0 +1,1151 @@
+---
+layout: page
+show_title: false
+sitemap: false
+noindex: true
+title: The WTFJHT Design System
+description: "The mark, the laws, the colors, the type, the layout — the complete WTFJHT design system."
+---
+<style>
+  /* This book obeys its own laws: one alarm, flat ink, hairlines, zero webfonts,
+     rounding reserved for the tile, one box deep, motion = color shift only. */
+  .bible {
+    --ink: #1a1a1a; --ink-strong: #313131; --ink-med: #515151; --meta: #767676; --meta-s: #6b6b6b;
+    --line: #e5e5e5; --line-lt: #eee; --paper: #fff; --surface: #f9f9f9;
+    --red: #e0162b; --red-dark: #b50f22; --red-deep: #96101d;
+    --wash: #f6e9e8; --tint: #ebccc9;
+    --night-bg: #16191d; --night-surface: #22262b; --night-line: #2c3138;
+    --night-ink: #cdc9c1; --night-meta: #9aa0a6; --night-link: #e67a75;
+    --night-hover: #ef8d88; --night-acc: #da4b49;
+    --success: #2f7d5c; --success-n: #5cb389; --warning: #b45309; --blue: #0052a5;
+    --grid: #aeb6bd; --axis: #64707a;
+    --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    --serif: Georgia, "Times New Roman", Times, serif;
+    --mono: Menlo, Monaco, "Courier New", monospace;
+  }
+
+  .bible .cover { border-bottom: 3px solid var(--ink); padding: 4.5rem 0 2.25rem; }
+  .bible .ed { font-family: var(--mono); font-size: .75rem; letter-spacing: .12em;
+        text-transform: uppercase; color: var(--meta); }
+  .bible .cover h1 { font-size: 2.5rem; font-weight: 700; line-height: 1.12; margin: .6rem 0 .5rem; }
+  .bible .standfirst { font-family: var(--serif); font-style: italic; font-size: 1.1rem;
+        line-height: 1.62; color: var(--ink-strong); max-width: 38rem; margin: 0 0 .75rem; }
+  .bible .cover .meta { font-size: .8rem; color: var(--meta); }
+
+  .bible .toc { columns: 2; column-gap: 2.5rem; font-size: .9rem; margin: 1.25rem 0 0; padding: 1.25rem 0;
+         border-bottom: 1px solid var(--line); }
+  .bible .toc a { color: var(--ink); text-decoration: none; display: block; padding: .12rem 0; }
+  .bible .toc a:hover { color: var(--red); }
+  .bible .toc .n { font-family: var(--mono); font-size: .75rem; color: var(--red); margin-right: .45em; }
+  .bible .toc .part { font-family: var(--mono); font-size: .75rem; letter-spacing: .12em;
+        text-transform: uppercase; color: var(--meta); margin: .6rem 0 .2rem; break-after: avoid; }
+  @media (max-width: 640px) { .bible .toc { columns: 1; } .bible .vs, .do-dont { grid-template-columns: 1fr !important; } }
+
+  .bible .part-head { margin: 5rem 0 0; border-bottom: 3px solid var(--ink); padding-bottom: .4rem; }
+  .bible .part-head .ed { color: var(--red); }
+  .bible .part-head h2 { font-size: 1.65rem; font-weight: 700; line-height: 1.25; margin: .3rem 0 .2rem; }
+
+  .bible .chap { margin: 3.5rem 0 0; }
+  .bible .chap-no { font-family: var(--mono); font-size: .75rem; letter-spacing: .14em;
+             color: var(--red); text-transform: uppercase; }
+  .bible .chap > h3 { font-size: 1.2rem; font-weight: 700; line-height: 1.3; margin: .3rem 0 .8rem;
+             padding-bottom: .45rem; border-bottom: 1px solid var(--line); }
+  .bible .chap h4 { font-size: 1rem; font-weight: 700; line-height: 1.3; margin: 2rem 0 .5rem; }
+  .bible .lede { font-family: var(--serif); font-size: 1.1rem; line-height: 1.62; color: var(--ink-strong); }
+
+  .bible .law { padding: 1rem 0 1.1rem; margin: 0; border-bottom: 1px solid var(--line); }
+  .bible .law .l-no { font-family: var(--mono); font-size: .75rem; letter-spacing: .14em;
+               color: var(--red); text-transform: uppercase; }
+  .bible .law b { display: block; font-size: 1.02rem; margin: .25rem 0 .2rem; color: var(--ink); }
+  .bible .law p { margin: 0; font-size: .9rem; color: var(--ink-med); }
+
+  .bible .note { background: var(--surface); border-left: 3px solid var(--red);
+          padding: .75rem 1rem; margin: 1.1rem 0; font-size: .9rem; }
+  .bible .note b { color: var(--red-deep); }
+  .bible .open { border-left-color: var(--axis); }
+  .bible .open b { color: var(--axis); }
+
+  .bible table { border-collapse: collapse; width: 100%; margin: 1rem 0; font-size: .9rem; }
+  .bible th { text-align: left; font-family: var(--mono); font-size: .75rem; letter-spacing: .08em;
+       text-transform: uppercase; color: var(--meta-s); border-bottom: 2px solid var(--ink);
+       padding: .42rem .55rem .32rem; } /* meta-s: passes on surface grounds too (4.31 miss fixed) */
+  .bible td { border-bottom: 1px solid var(--line); padding: .48rem .55rem; vertical-align: top; }
+  .bible .mono, .bible td.mono { font-family: var(--mono); font-size: .85rem; }
+  .bible .kill { color: var(--red-deep); background: var(--wash); padding: 0 .3em; }
+  .bible .keep { color: var(--success); font-weight: 600; }
+
+  .bible .swatch-row { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
+  .bible .swatch { width: 132px; border: 1px solid var(--line); }
+  .bible .swatch .chip { height: 64px; }
+  .bible .swatch .info { padding: .4rem .5rem; font-family: var(--mono); font-size: .75rem; line-height: 1.4;
+                  color: var(--meta-s); }
+  .bible .swatch .info b { display: block; color: var(--ink); font-size: .75rem; }
+
+  .bible .spec { border: 1px solid var(--line); margin: 1rem 0; }
+  .bible .spec-head { display: flex; justify-content: space-between; flex-wrap: wrap; gap: .25rem .8rem;
+               background: var(--surface); border-bottom: 1px solid var(--line);
+               padding: .42rem .75rem; font-family: var(--mono); font-size: .75rem;
+               letter-spacing: .03em; color: var(--meta-s); }
+  .bible .spec-body { padding: 1.05rem 1.15rem; }
+  .bible .spec.night .spec-body { background: var(--night-bg); color: var(--night-ink); }
+  .bible .spec.dark .spec-body { background: #222; color: #fff; }
+
+  .bible .vs, .bible .do-dont { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
+  .bible .panel { border: 1px solid var(--line); padding: 1rem 1.1rem; min-width: 0; }
+  .bible .panel-label { font-family: var(--mono); font-size: .75rem; letter-spacing: .12em;
+                 text-transform: uppercase; margin-bottom: .55rem; color: var(--meta); }
+  .bible .do .panel-label { color: var(--success); } .dont .panel-label { color: var(--red-deep); }
+
+  .bible pre.code { background: var(--surface); border: 1px solid var(--line); padding: .9rem 1rem;
+        white-space: pre-wrap; word-break: break-word; font-family: var(--mono); font-size: .85rem;
+        line-height: 1.55; margin: 1rem 0; }
+  .bible code { font-family: var(--mono); font-size: .85em; background: var(--surface); padding: .05em .3em; }
+  .bible pre.code code { background: none; padding: 0; font-size: 1em; } /* no compounding below the floor */
+  .bible .plate-render { border: 1px dashed var(--line); padding: 1rem 1.2rem; margin: .9rem 0; }
+  .bible .plate-render.flush { padding: 0; overflow: hidden; }
+  .bible .plate-static { position: static !important; } /* specimen mount: fixed banners sit in flow */
+  /* Mounts restore native context: production chrome never sits inside an article,
+     so the article's prose-link grammar must not reach chrome specimens. Each rule
+     below restates the component's own declared values — nothing new is invented. */
+  .bible .plate-render .site-nav li a { color: rgba(255,255,255,0.9); text-decoration: none; }
+  .bible .plate-render .site-nav li a:hover { color: #fff; text-decoration: underline; }
+  .bible .plate-render .site-nav .nav-cta { color: #111; }
+  .bible .plate-render .site-nav .nav-cta:hover { text-decoration: none; }
+  .bible .plate-render .masthead-title a { color: inherit; text-decoration: none; }
+  .bible .plate-render .masthead-meta a { color: #fff; text-decoration: underline;
+        text-decoration-color: rgba(255,255,255,0.4); text-underline-offset: 2px; }
+  .bible .plate-render footer a { color: #f9f9f9; text-decoration: none; }
+  .bible .plate-render footer a:hover { color: #fff; }
+  .bible .plate-render .pledge-drive-bottom a { text-decoration: none; }
+  .bible .plate-render .site-nav ul, .bible .plate-render footer ul {
+        border: none; padding: 0; margin: 0; background: none; }
+  .bible .plate-render .site-nav li + li, .bible .plate-render footer li + li { margin-top: 0; }
+  .bible .plate-render footer .ft-main li { margin-bottom: 0.4rem; font-size: 0.875rem; }
+  .bible .plate-render footer .ft-icon-list a { color: #aab0b6; }
+  .bible .plate-render footer .ft-icon-list a:hover { color: #fff; }
+
+
+  /* demo widgets (each obeys the system it documents) */
+  .bible .demo-btn { display: inline-block; padding: 0.75rem 1.5rem; font-weight: 600; font-size: 1rem;
+        min-height: 46px; color: #fff; background: #111; border: 1px solid #111; cursor: pointer;
+        transition: background-color .15s, color .15s; }
+  .bible .demo-btn:hover { background: #fff; color: #111; }
+  .demo-btn--inv { background: #fff; color: #111; border-color: #fff; }
+  .demo-btn--inv:hover { background: #cfcfcf; color: #111; }
+  .bible .demo-input { padding: 0.75rem 1rem; font-size: 1rem; border: 1px solid #000; min-height: 46px;
+        font-family: var(--sans); }
+  .bible .demo-tile { display: inline-flex; align-items: center; justify-content: center; width: 44px;
+        height: 44px; border-radius: 21%; background: #333; color: #aab0b6; font-size: 1rem; }
+  .bible .footer-book { margin-top: 5rem; border-top: 3px solid var(--ink); padding-top: 1rem;
+        font-family: var(--mono); font-size: .75rem; color: var(--meta); letter-spacing: .04em;
+        line-height: 1.7; }
+</style>
+<div class="bible">
+
+<!-- ════════════════ COVER ════════════════ -->
+<header class="cover">
+  <div class="ed">WTFJHT · The Design System · First Edition · June 2026</div>
+  <h1>The Bible.</h1>
+  <p class="standfirst">One canonical system for What The Fuck Just Happened Today? —
+     the mark, the laws, every color, every typeface and type style with its use cases,
+     the layout grid, every element, every surface, and the protocol by which all future
+     design questions get answered. If it isn't in this book, it isn't in the product.</p>
+  <div class="meta">First Edition · June 2026</div>
+</header>
+
+<nav class="toc">
+  <div class="part">I · Foundations</div>
+  <a href="#c1"><span class="n">01</span>The mark &amp; the voice</a>
+  <a href="#c2"><span class="n">02</span>The seven laws</a>
+  <a href="#c3"><span class="n">03</span>The decision protocol</a>
+  <div class="part">II · Color</div>
+  <a href="#c4"><span class="n">04</span>The day palette</a>
+  <a href="#c5"><span class="n">05</span>The night printing</a>
+  <a href="#c6"><span class="n">06</span>The crimson rule</a>
+  <div class="part">III · Typography</div>
+  <a href="#c7"><span class="n">07</span>The three voices</a>
+  <a href="#c8"><span class="n">08</span>The role scale</a>
+  <a href="#c9"><span class="n">09</span>Element specimens — every tag</a>
+  <a href="#c10"><span class="n">10</span>Editorial type — use cases</a>
+  <a href="#c11"><span class="n">11</span>Leading, weights &amp; the em law</a>
+  <div class="part">IV · Layout</div>
+  <a href="#c12"><span class="n">12</span>The container scale</a>
+  <a href="#c13"><span class="n">13</span>The measure</a>
+  <a href="#c14"><span class="n">14</span>One box deep</a>
+  <div class="part">V · Elements</div>
+  <a href="#c15"><span class="n">15</span>Links &amp; focus</a>
+  <a href="#c16"><span class="n">16</span>Buttons</a>
+  <a href="#c17"><span class="n">17</span>Forms &amp; inputs</a>
+  <a href="#c18"><span class="n">18</span>Callouts, tags &amp; statuses</a>
+  <a href="#c19"><span class="n">19</span>Tables, numbers &amp; charts</a>
+  <a href="#c20"><span class="n">20</span>Icon tiles &amp; the anchor</a>
+  <div class="part">VI · Surfaces</div>
+  <a href="#c21"><span class="n">21</span>The post — reference implementation</a>
+  <a href="#c22"><span class="n">22</span>Pages &amp; membership</a>
+  <a href="#c23"><span class="n">23</span>Search &amp; archives</a>
+  <a href="#c24"><span class="n">24</span>The instruments</a>
+  <a href="#c25"><span class="n">25</span>The quiz</a>
+  <a href="#c26"><span class="n">26</span>Newsletter &amp; platforms</a>
+  <a href="#c27"><span class="n">27</span>Print &amp; night</a>
+  <div class="part">VII · Floors &amp; bookkeeping</div>
+  <a href="#c28"><span class="n">28</span>Accessibility floors</a>
+  <a href="#c29"><span class="n">29</span>The retire list</a>
+  <a href="#c30"><span class="n">30</span>The token sheet</a>
+  <a href="#c31"><span class="n">31</span>Governance</a>
+  <div class="part">VIII · The gallery</div>
+  <a href="#c32"><span class="n">32</span>How to read the plates</a>
+  <a href="#c33"><span class="n">I</span>Masthead &amp; nav</a>
+  <a href="#c34"><span class="n">II</span>The post anatomy</a>
+  <a href="#c35"><span class="n">III</span>On This Day</a>
+  <a href="#c36"><span class="n">IV</span>The subscribe module</a>
+  <a href="#c37"><span class="n">V</span>Membership action cards</a>
+  <a href="#c38"><span class="n">VI</span>The footer</a>
+  <a href="#c39"><span class="n">VII</span>The banner &amp; the warning state</a>
+</nav>
+
+<!-- ════════════════ PART I ════════════════ -->
+<div class="part-head"><div class="ed">Part I</div><h2>Foundations</h2></div>
+
+<section class="chap" id="c1">
+  <div class="chap-no">Chapter 01</div>
+  <h3>The mark &amp; the voice</h3>
+  <p class="lede">The favicon is the brand: six rounded tiles — five crimson, one blue —
+     on black. Black 71.5%, crimson #e0162b 18.4%, white, and exactly one blue tile
+     (the W). Everything in this system derives from it: the crimson family, the single
+     blue, the tile's corner geometry, black as a true brand ground.</p>
+
+  <h4>The marks</h4>
+  <div class="spec"><div class="spec-head"><span>the mark · favicon.svg · canonical, on black · scales from favicon to cover art</span></div>
+    <div class="spec-body"><img src="/favicon.svg?v=3" alt="The WTFJHT mark at 120px" width="120" height="120" style="vertical-align:bottom">
+      <img src="/favicon.svg?v=3" alt="" width="64" height="64" style="vertical-align:bottom;margin-left:1rem">
+      <img src="/favicon.svg?v=3" alt="" width="32" height="32" style="vertical-align:bottom;margin-left:1rem">
+      <img src="/favicon.svg?v=3" alt="" width="16" height="16" style="vertical-align:bottom;margin-left:1rem"></div></div>
+  <div class="spec"><div class="spec-head"><span>the light mark · wtfjht-logo.svg · tiles on white · share-card exports and light-ground placements</span></div>
+    <div class="spec-body"><img src="/wtfjht-logo.svg" alt="The WTFJHT light mark at 120px" width="120" height="120" style="vertical-align:bottom">
+      <img src="/wtfjht-logo.svg" alt="" width="64" height="64" style="vertical-align:bottom;margin-left:1rem">
+      <img src="/wtfjht-logo.svg" alt="" width="32" height="32" style="vertical-align:bottom;margin-left:1rem"></div></div>
+  <table>
+    <tr><th>derivative</th><th>path</th><th>use</th></tr>
+    <tr><td>favicon.ico · favicon-96/32/16.png</td><td class="mono">/favicon*.png</td><td>browser tabs, legacy agents</td></tr>
+    <tr><td>apple-touch-icon.png (180)</td><td class="mono">/apple-touch-icon.png</td><td>iOS home screen</td></tr>
+    <tr><td>social cards</td><td class="mono">/public/wtfjht-t.jpg · /public/wtfjht-f.jpg</td><td>link previews (X / Facebook)</td></tr>
+    <tr><td>default share image</td><td class="mono">/uploads/og-image.jpg</td><td>Open Graph fallback</td></tr>
+  </table>
+  <p style="font-size:.9rem">All derivatives are generated from the mark — never redrawn. The wordmark is
+     typographic: the site title set in the chrome voice; there is no separate lettermark.</p>
+
+  <p>The voice is a newspaper that swears: neutral, fact-based reporting in warm serif
+     prose, delivered by blunt sans machinery, with mono instrument readouts. Sane,
+     once a day, read in moderation.</p>
+</section>
+
+<section class="chap" id="c2">
+  <div class="chap-no">Chapter 02</div>
+  <h3>The seven laws</h3>
+  <div class="law"><div class="l-no">Law I — one blue</div><b>Blue #0052a5 appears only as the W-slot and as partisan-D data.</b>
+    <p>Never generic links, never info-semantics, never series-2 chart color. Red vs blue reads R vs D — that meaning is reserved.</p></div>
+  <div class="law"><div class="l-no">Law II — the tile owns the rounding</div><b>The only border-radius in the system is the tile: radius = 0.21 × side.</b>
+    <p>Identity objects wear it (avatars, cover art, icon-only buttons). Everything else — buttons, inputs, cards, chips — is square. No pills.</p></div>
+  <div class="law"><div class="l-no">Law III — one alarm</div><b>Crimson is the only color in editorial content, and it means links and alarm.</b>
+    <p>Dividers, decorations, and furniture are ink-free. The crimson rule exists in exactly one
+    editorial fixture: the TIOS block. Instrument data colors are Chapter 19's domain — trend
+    green/red with direction glyphs lives there, not here.</p></div>
+  <div class="law"><div class="l-no">Law IV — charts survive grayscale</div><b>Every chart must read with color removed.</b>
+    <p>Lightness carries data; direction and category get glyphs (▴/▾) or labels, never hue alone.</p></div>
+  <div class="law"><div class="l-no">Law V — flat ink</div><b>No shadows, no gradients, no hover-lifts.</b>
+    <p>State changes are color changes. Depth is for paper, not pixels.</p></div>
+  <div class="law"><div class="l-no">Law VI — zero webfonts</div><b>No @font-face reaches the reader. Three system stacks, period.</b>
+    <p>The page is readable the instant it arrives. Vendor scripts that try to inject fonts get pre-empted (see Chapter 20).</p></div>
+  <div class="law"><div class="l-no">Law VII — one box deep</div><b>A surface may group content; surfaces never nest.</b>
+    <p>Sections are marked by headings and hairline rules, not containers. A box inside a box means the outer box is wrong.</p></div>
+</section>
+
+<section class="chap" id="c3">
+  <div class="chap-no">Chapter 03</div>
+  <h3>The decision protocol</h3>
+  <p class="lede">How every future design question gets answered — so decisions are
+     defensible, repeatable, and never one-off.</p>
+  <table>
+    <tr><th>step</th><th>rule</th></tr>
+    <tr><td class="mono">1</td><td>Map the question to a <b>law</b>, a <b>token or scale stop</b>, a <b>type role</b>, or a <b>named canon element</b>.</td></tr>
+    <tr><td class="mono">2</td><td>If this book answers it — apply the answer and cite the rule. No taste votes, no invented values.</td></tr>
+    <tr><td class="mono">3</td><td>If the book is silent or wrong — that is a book gap. Propose a <b>principle</b>, never a one-off. The owner ratifies the principle; the book gains the rule; only then does CSS change.</td></tr>
+    <tr><td class="mono">4</td><td>Owner taste enters in exactly one place: ratifying principles into this book.</td></tr>
+    <tr><td class="mono">5</td><td>Any CSS change ships in the same diff as its book update. This book is never stale.</td></tr>
+  </table>
+</section>
+
+<!-- ════════════════ PART II ════════════════ -->
+<div class="part-head"><div class="ed">Part II</div><h2>Color</h2></div>
+
+<section class="chap" id="c4">
+  <div class="chap-no">Chapter 04</div>
+  <h3>The day palette</h3>
+  <p class="lede">Roles, not ramps. Every color names what it does.</p>
+  <div class="swatch-row">
+    <div class="swatch"><div class="chip" style="background:#1a1a1a"></div><div class="info"><b>ink #1a1a1a</b>body text · 16.7:1</div></div>
+    <div class="swatch"><div class="chip" style="background:#313131"></div><div class="info"><b>ink-strong #313131</b>ledes, strong</div></div>
+    <div class="swatch"><div class="chip" style="background:#767676"></div><div class="info"><b>meta #767676</b>dates on white · 4.54:1</div></div>
+    <div class="swatch"><div class="chip" style="background:#6b6b6b"></div><div class="info"><b>meta-surface #6b6b6b</b>meta on #f9f9f9 · 5.06:1</div></div>
+    <div class="swatch"><div class="chip" style="background:#e0162b"></div><div class="info"><b>link / alarm #e0162b</b>the mark's crimson · 4.86:1</div></div>
+    <div class="swatch"><div class="chip" style="background:#b50f22"></div><div class="info"><b>hover / accent #b50f22</b></div></div>
+    <div class="swatch"><div class="chip" style="background:#96101d"></div><div class="info"><b>deep #96101d</b>mark text on wash · 7.41:1</div></div>
+    <div class="swatch"><div class="chip" style="background:#f6e9e8"></div><div class="info"><b>wash #f6e9e8</b>highlight ground</div></div>
+    <div class="swatch"><div class="chip" style="background:#ebccc9"></div><div class="info"><b>tint #ebccc9</b>viewport fills</div></div>
+    <div class="swatch"><div class="chip" style="background:#f9f9f9;border-bottom:1px solid #e5e5e5"></div><div class="info"><b>surface #f9f9f9</b>panels</div></div>
+    <div class="swatch"><div class="chip" style="background:#e5e5e5"></div><div class="info"><b>line #e5e5e5</b>hairlines, card borders</div></div>
+    <div class="swatch"><div class="chip" style="background:#0052a5"></div><div class="info"><b>blue #0052a5</b>Law I only</div></div>
+    <div class="swatch"><div class="chip" style="background:#2f7d5c"></div><div class="info"><b>success #2f7d5c</b>machinery states</div></div>
+    <div class="swatch"><div class="chip" style="background:#b45309"></div><div class="info"><b>warning #b45309</b>machinery states</div></div>
+    <div class="swatch"><div class="chip" style="background:#aeb6bd"></div><div class="info"><b>grid #aeb6bd</b>chart gridlines</div></div>
+    <div class="swatch"><div class="chip" style="background:#64707a"></div><div class="info"><b>axis #64707a</b>chart axes · neutral data</div></div>
+  </div>
+  <p>Dark grounds (masthead black, footer #222): text wears <span class="mono">#9aa0a6</span>
+     (6.0:1 on #222) or <span class="mono">#aab0b6</span> (5.0:1 on #333); focus and the
+     wordmark wear white. Crimson type never sits on black.</p>
+</section>
+
+<section class="chap" id="c5">
+  <div class="chap-no">Chapter 05</div>
+  <h3>The night printing</h3>
+  <p class="lede">Tokenized and contrast-verified; ships when the night toggle ships.
+     Inert until then.</p>
+  <table>
+    <tr><th>role</th><th>value</th><th>contrast</th></tr>
+    <tr><td>ground / surface / line</td><td class="mono">#16191d · #22262b · #2c3138</td><td class="mono">—</td></tr>
+    <tr><td>ink</td><td class="mono">#cdc9c1</td><td class="mono">10.68:1</td></tr>
+    <tr><td>meta</td><td class="mono">#9aa0a6</td><td class="mono">6.68:1</td></tr>
+    <tr><td>link</td><td class="mono">#e67a75</td><td class="mono">6.22:1</td></tr>
+    <tr><td>link hover</td><td class="mono">#ef8d88 — hover goes LIGHTER on dark</td><td class="mono">7.42:1</td></tr>
+    <tr><td>accent (borders/fills only, never text)</td><td class="mono">#da4b49</td><td class="mono">4.27:1 UI</td></tr>
+    <tr><td>success / warning</td><td class="mono">#5cb389 · #e3973f</td><td class="mono">6.94 · 7.36</td></tr>
+    <tr><td>grid / axis / focus</td><td class="mono">#333b42 · #9aa0a6 · #e67a75</td><td class="mono">— · 6.68 · 6.22</td></tr>
+  </table>
+  <div class="spec night"><div class="spec-head"><span>night preview · strong steps 700→600 against halation · scoped grayscale antialiasing</span></div>
+    <div class="spec-body"><div style="font-weight:600;font-size:1.3rem;line-height:1.25">Day 1947: “A little bit nasty.”</div>
+    <div style="font-family:Georgia,serif;font-size:1.02rem;line-height:1.62;margin-top:.5rem">Prose holds 400; <a href="#" style="color:#e67a75">links wear the night crimson</a>.</div></div></div>
+</section>
+
+<section class="chap" id="c6">
+  <div class="chap-no">Chapter 06</div>
+  <h3>The crimson rule</h3>
+  <p class="lede">The mark's crimson is OKLCH hue 24.8. Every red in the system holds
+     that hue ±1° and varies only lightness and chroma. Edit reds in OKLCH, never HSL —
+     lightening in HSL drifts the hue toward pink (the Abney effect), which is how
+     brands go salmon.</p>
+  <p>The family, light to dark: <span class="mono">#f6e9e8 → #ebccc9 → #ef8d88 → #e67a75 →
+     #e0162b → #b50f22 → #96101d</span>. Floor: never below hue 22 or above 27 — beyond
+     that line lives the stock-palette coral this system retired.</p>
+</section>
+
+<!-- ════════════════ PART III ════════════════ -->
+<div class="part-head"><div class="ed">Part III</div><h2>Typography</h2></div>
+
+<section class="chap" id="c7">
+  <div class="chap-no">Chapter 07</div>
+  <h3>The three voices</h3>
+  <div class="spec"><div class="spec-head"><span>THE CHROME — system sans · UI, titles, navigation, furniture</span><span>-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif</span></div>
+    <div class="spec-body" style="font-weight:700;font-size:1.35rem;line-height:1.25">Blunt, modern, invisible. The machine that delivers the news.</div></div>
+  <div class="spec"><div class="spec-head"><span>THE PROSE — Georgia · the news itself</span><span>Georgia, 'Times New Roman', Times, serif</span></div>
+    <div class="spec-body" style="font-family:Georgia,'Times New Roman',serif;font-size:1.1rem;line-height:1.62">Warm, sturdy, screen-native serif. Every paragraph of every daily edition. The texture of Georgia against flat sans chrome <em>is</em> the reading identity.</div></div>
+  <div class="spec"><div class="spec-head"><span>THE INSTRUMENT — system mono · data, counts, keyboard hints</span><span>Menlo, Monaco, "Courier New", monospace</span></div>
+    <div class="spec-body" style="font-family:Menlo,Monaco,monospace;font-size:.85rem;font-variant-numeric:tabular-nums">653 posts · PRESS 1–4 TO ANSWER · 68,469 external links</div></div>
+  <p>The fourth voice is paper: print sets body in Times at 11pt — its own hand-tuned
+     system, exempt from the screen scale (Chapter 27). The root font-size is fluid and
+     rem-based — <span class="mono">clamp(1.0625rem, 1.0125rem + 0.2vw, 1.125rem)</span>
+     (17→18px at browser defaults) — so reader font-size preferences scale the whole site.</p>
+</section>
+
+<section class="chap" id="c8">
+  <div class="chap-no">Chapter 08</div>
+  <h3>The role scale — nine roles, not thirty sizes</h3>
+  <p class="lede">Every piece of text is one of these roles. A new component picks from
+     the table; if none fits, the component is the problem.</p>
+  <div class="spec"><div class="spec-head"><span>display · sans 700 · 2.5rem · lh 1.18 wrapped / 1.12 single-line · the headline, one per page</span><span>42.5–45px</span></div>
+    <div class="spec-body" style="font-size:2.5rem;font-weight:700;line-height:1.18">Day 1947: “A little bit nasty.”</div></div>
+  <div class="spec"><div class="spec-head"><span>title · sans 700 · 1.65rem · lh 1.25 · section heads (h2)</span><span>≈28–29.7px</span></div>
+    <div class="spec-body" style="font-size:1.65rem;font-weight:700;line-height:1.25">Section heads step clearly below the headline</div></div>
+  <div class="spec"><div class="spec-head"><span>heading · sans 700 · 1.2rem · lh 1.3 · sub-heads (h3), card &amp; episode titles</span><span>≈20.4–21.6px</span></div>
+    <div class="spec-body" style="font-size:1.2rem;font-weight:700;line-height:1.3">Notables · episode titles · package groups</div></div>
+  <div class="spec"><div class="spec-head"><span>prose · GEORGIA 400 · 1.1rem · lh 1.62 · the product — locked anchor</span><span>18.7–19.8px · live</span></div>
+    <div class="spec-body" style="font-family:Georgia,'Times New Roman',serif;font-size:1.1rem;line-height:1.62">The reading surface. <a href="#" style="color:#e0162b">Citations wear the crimson underline</a>. (<em>New York Times</em> / <em>Reuters</em>)</div></div>
+  <div class="spec"><div class="spec-head"><span>body · sans 400 · 1rem · lh 1.5 · UI and page text</span><span>17–18px · live</span></div>
+    <div class="spec-body">Form labels, FAQ copy, membership text, button labels.</div></div>
+  <div class="spec"><div class="spec-head"><span>secondary · sans 400 · 0.9rem · lh 1.5 · supporting + ASIDE LISTS</span><span>15.3–16.2px · live</span></div>
+    <div class="spec-body" style="font-size:.9rem">Summaries, helper text, captions, footnotes, search snippets — and the post's aside lists (Chapter 10). Content readers actually read never drops below this tier.</div></div>
+  <div class="spec"><div class="spec-head"><span>meta · sans 400 · 0.8rem · lh 1.4 · short glanceable furniture ONLY</span><span>13.6–14.4px · live</span></div>
+    <div class="spec-body" style="font-size:.8rem;color:#767676">May 20, 2026, 3:39pm PT · 748 words, a 3½-minute read</div></div>
+  <div class="spec"><div class="spec-head"><span>label · sans 600 · 0.75rem · lh 1.25 · CAPS +0.06em · standing labels — the floor</span><span>12.75–13.5px</span></div>
+    <div class="spec-body" style="font-size:.75rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:#6b6b6b">About · Resources · Latest Episode · Follow</div></div>
+  <div class="spec"><div class="spec-head"><span>data · MONO · 0.85rem standalone / max(0.85em, 0.8rem) inline · tabular-nums</span><span>counts, kbd, readouts</span></div>
+    <div class="spec-body"><span style="font-family:Menlo,Monaco,monospace;font-size:.85rem;font-variant-numeric:tabular-nums">1,087</span> · <span style="font-family:Menlo,Monaco,monospace;font-size:.85em">PRESS 1–4 TO ANSWER</span></div></div>
+</section>
+
+<section class="chap" id="c9">
+  <div class="chap-no">Chapter 09</div>
+  <h3>Element specimens — every tag, as it renders</h3>
+  <p class="lede">Each HTML element in its two habitats: inside the news (Georgia) and
+     in the chrome (sans). HTML stops at h6 — structure that wants h7 is flat structure
+     wearing a costume.</p>
+
+  <h4>The heading ladder</h4>
+  <div class="spec"><div class="spec-head"><span>h1 → display · one per page</span></div>
+    <div class="spec-body" style="font-size:2.5rem;font-weight:700;line-height:1.18">Heading one is the page</div></div>
+  <div class="spec"><div class="spec-head"><span>h2 → title</span></div>
+    <div class="spec-body" style="font-size:1.65rem;font-weight:700;line-height:1.25">Heading two sections the page</div></div>
+  <div class="spec"><div class="spec-head"><span>h3 → heading</span></div>
+    <div class="spec-body" style="font-size:1.2rem;font-weight:700;line-height:1.3">Heading three names a group</div></div>
+  <div class="spec"><div class="spec-head"><span>h4 → body 700 · h5 → secondary 700 · h6 → label</span></div>
+    <div class="spec-body"><div style="font-size:1rem;font-weight:700">Heading four is a bold body line</div>
+    <div style="font-size:.9rem;font-weight:700;margin-top:.35rem">Heading five (rare)</div>
+    <div style="font-size:.75rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:#6b6b6b;margin-top:.35rem">Heading six is a label</div></div></div>
+
+  <h4>Inline styles — in the news</h4>
+  <div class="spec"><div class="spec-head"><span>p · strong · em · strong+em · a · mark · s · sub/sup</span><span>Georgia 1.1rem/1.62</span></div>
+    <div class="spec-body" style="font-family:Georgia,'Times New Roman',serif;font-size:1.1rem;line-height:1.62">
+      Plain prose carries the news. <strong style="color:#303030">Bold is the lede device —
+      Georgia 700, ink #303030</strong> — it opens every numbered story.
+      <em>Italic is quoted-title and apparatus voice</em>, and
+      <strong style="color:#303030"><em>bold-italic emphasizes inside a lede</em></strong>,
+      sparingly. <a href="#" style="color:#e0162b">Links are crimson with the 40% underline</a>.
+      <mark style="background:#f6e9e8;color:#96101d">Mark is the red-wash highlight</mark>.
+      <s>Strikethrough is native</s> for corrections, H<sub>2</sub>O and the
+      14<sup>th</sup> Amendment ride browser defaults.</div></div>
+
+  <h4>Lists</h4>
+  <div class="spec"><div class="spec-head"><span>ul · disc bullets · post asides = secondary 0.9rem sans · page lists = body 1em</span></div>
+    <div class="spec-body"><ul style="margin:0;padding-left:1.5em;font-size:.9rem;line-height:1.5;color:#515151;list-style:disc">
+      <li>Unordered lists carry plain disc bullets</li>
+      <li>Notables and related lists sit visibly below the serif body
+        <ul style="margin:.35em 0 0;padding-left:1.2em;list-style:circle"><li>nested points step to circles, same size</li></ul></li>
+    </ul></div></div>
+  <div class="spec"><div class="spec-head"><span>ol · real decimal markers (honors type="a"/"i")</span></div>
+    <div class="spec-body"><ol style="margin:0;padding-left:1.5em;font-size:.9rem;line-height:1.5;color:#515151;list-style:decimal">
+      <li>Ordered lists render true decimals</li>
+      <li>The marker is the browser's, not a styled fake
+        <ol style="margin:.35em 0 0;padding-left:1.4em;list-style:lower-alpha"><li>nested ordered steps to letters</li></ol></li>
+    </ol></div></div>
+
+  <h4>Blocks</h4>
+  <div class="spec"><div class="spec-head"><span>blockquote · 0.95em of prose (a sanctioned em — tracks the reading surface) · #515151</span></div>
+    <div class="spec-body" style="font-family:Georgia,'Times New Roman',serif;font-size:1.1rem;line-height:1.62">
+      <blockquote style="font-size:.95em;color:#515151;margin:.5em 0 .5em 1em;line-height:1.5">“We'll see what happens,” Trump said.</blockquote></div></div>
+  <div class="spec"><div class="spec-head"><span>hr · double hairline · dividers are INK-FREE (Law III)</span></div>
+    <div class="spec-body"><hr style="border:0;border-top:1px solid #eee;border-bottom:1px solid #fff;margin:.75rem 0"></div></div>
+  <div class="spec"><div class="spec-head"><span>dl/dt/dd · abbr · footnote markers</span></div>
+    <div class="spec-body" style="font-size:1rem"><dl style="margin:0 0 .6rem"><dt style="font-weight:700">WebSub</dt><dd style="margin:0">The hub ping that announces a new edition.</dd></dl>
+      <abbr title="What The Fuck Just Happened Today" style="font-size:85%;font-weight:700;color:#515151;text-transform:uppercase;border-bottom:1px dotted #ccc;cursor:help">WTFJHT</abbr> ·
+      footnote marker<a href="#" style="color:#e0162b;font-weight:700;margin-left:.1rem;text-decoration:none">1</a></div></div>
+  <div class="spec"><div class="spec-head"><span>code · mono 85% #9d4450 on surface, square · pre · kbd hints → data role</span></div>
+    <div class="spec-body" style="font-size:1rem">Inline <code style="color:#9d4450;border-radius:0">--c-link: #e0162b</code> ·
+      <span style="font-family:Menlo,Monaco,monospace;font-size:.8rem;letter-spacing:.04em;color:#6b6b6b">PRESS 1–4 TO ANSWER</span></div></div>
+  <p style="font-size:.88rem"><code>small</code>, <code>sub</code>, <code>sup</code>,
+     <code>s</code>, <code>u</code> ride browser defaults inside their context's role —
+     styling them would be a tenth size by the back door.</p>
+</section>
+
+<section class="chap" id="c10">
+  <div class="chap-no">Chapter 10</div>
+  <h3>Editorial type — the use cases</h3>
+  <p class="lede">The scale is plumbing; the voice lives here. These are named patterns —
+     where each face, weight, and style is used, and where it is forbidden.</p>
+  <table>
+    <tr><th>pattern</th><th>setting</th><th>use case</th></tr>
+    <tr><td><b>The headline</b></td><td>display · sans 700</td><td>"Day N: “description.”" — one display unit, the most-read line on the site. The description span belongs to the headline role.</td></tr>
+    <tr><td><b>The lede</b></td><td>Georgia 700 #303030</td><td>Bold opening sentence of every numbered story; the only routine bold in prose.</td></tr>
+    <tr><td><b>TIOS</b> (canon)</td><td>serif-italic kicker + roman bold + crimson period + crimson pilcrows</td><td>"Today in One Sentence." — the signature fixture. Never carded, boxed, or shadowed. The one crimson rule in editorial.</td></tr>
+    <tr><td><b>The aside list</b></td><td>secondary 0.9rem sans</td><td>Notables, related, sub-story lists — subordinate to prose by editorial design. The editor declares hierarchy; the role table supplies the size.</td></tr>
+    <tr><td><b>The sources line</b></td><td>prose, inline</td><td>(<a href="#" style="color:#e0162b">New York Times</a> / <a href="#" style="color:#e0162b">Bloomberg</a>) — parenthesized crimson links at full prose size. Never footnoted, never shrunk.</td></tr>
+    <tr><td><b>Byline / dateline</b></td><td>meta 0.8rem sans</td><td>"By Matt Kiser · May 20, 2026, 3:39pm PT" — quiet furniture under the headline.</td></tr>
+    <tr><td><b>Kicker / eyebrow</b></td><td>label · caps</td><td>LATEST EPISODE · always above the thing it announces, never interactive.</td></tr>
+    <tr><td><b>The deck</b></td><td>1.25rem sans, lh 1.7</td><td>The standing intro paragraph (subscribe module). Serif-italic decks are reserved for editorial pages.</td></tr>
+    <tr><td><b>Georgia italic</b></td><td>—</td><td>Belongs to the editorial apparatus: TIOS kicker, quoted titles, deck moments. Never random emphasis, never UI.</td></tr>
+    <tr><td><b>Captions &amp; footnotes</b></td><td>secondary</td><td>Content, not furniture — 0.9rem floor.</td></tr>
+    <tr><td><b>Counts &amp; readouts</b></td><td>data mono, tabular</td><td>Tag counts, Big Board figures, quiz hints, timers.</td></tr>
+    <tr><td><b>Drop caps</b></td><td colspan="2"><span class="kill">forbidden</span> — magazine cosplay, fragile in archives and email.</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c11">
+  <div class="chap-no">Chapter 11</div>
+  <h3>Leading, weights &amp; the em law</h3>
+  <h4>Five leadings</h4>
+  <table>
+    <tr><th>token</th><th>value</th><th>where</th></tr>
+    <tr><td class="mono">display-tight</td><td class="mono">1.12</td><td>single-line display only</td></tr>
+    <tr><td class="mono">display</td><td class="mono">1.18</td><td>the wrapped headline</td></tr>
+    <tr><td class="mono">title</td><td class="mono">1.25–1.3</td><td>titles &amp; headings</td></tr>
+    <tr><td class="mono">ui</td><td class="mono">1.4</td><td>meta, labels, nav, buttons</td></tr>
+    <tr><td class="mono">body / prose</td><td class="mono">1.5 / 1.62</td><td>sans body / Georgia</td></tr>
+  </table>
+  <p>Tight leading belongs only to text that cannot wrap. Headlines take
+     <code>text-wrap: balance</code> (no stranded last word) and body prose takes
+     <code>text-wrap: pretty</code> (no orphans/widows) — progressive enhancement, 2026-06-06.</p>
+  <h4>Three sans weights (+ Georgia 400/700)</h4>
+  <table>
+    <tr><th>weight</th><th>day</th><th>night</th><th>carries</th></tr>
+    <tr><td class="mono">400</td><td class="mono">400</td><td class="mono">400</td><td>all body, both voices</td></tr>
+    <tr><td class="mono">600</td><td class="mono">600</td><td class="mono">600</td><td>labels, nav, buttons</td></tr>
+    <tr><td class="mono">strong</td><td class="mono">700</td><td class="mono">600–700</td><td>display, titles, headings, prose bold — night may step down one against halation, with scoped grayscale antialiasing</td></tr>
+  </table>
+  <p>Retired: 300, 900, <code>lighter</code>, keyword <code>bold</code> (→700). Existing
+     500s map role-by-role: nav/labels → 600, body-ish copy → 400. The weight step:
+     700 belongs to display and title sizes, where bold has room; the heading role
+     (1.2rem) and below carry 600 — at small sizes, bold counters close up.
+     Inline microtype — code, abbr, blockquotes — is sanctioned relative grammar:
+     it rides its prose context in em, because inheritance is the point.</p>
+  <h4>The em law</h4>
+  <div class="law"><div class="l-no">The em law</div><b>Roles are rem. Em is licensed to exactly two patterns.</b>
+    <p>① data-inline — max(0.85em, 0.8rem): instrument text that rides its parent with a hard floor.
+       ② post blockquotes (0.95em) — deliberately tracking prose. Em font-sizes never nest inside
+       another em font-size. Spacing in em is fine and encouraged.</p></div>
+</section>
+
+<!-- ════════════════ PART IV ════════════════ -->
+<div class="part-head"><div class="ed">Part IV</div><h2>Layout</h2></div>
+
+<section class="chap" id="c12">
+  <div class="chap-no">Chapter 12</div>
+  <h3>The container scale</h3>
+  <p class="lede">Three stops. A page-level width is a scale stop or it doesn't ship.</p>
+  <table>
+    <tr><th>token</th><th>width</th><th>what lives there</th></tr>
+    <tr><td class="mono">module · 32rem</td><td class="mono">≈576px</td><td>focused blocks: masthead inner, footer subscribe</td></tr>
+    <tr><td class="mono">prose · 38rem</td><td class="mono">≈684px</td><td><b>the one content column.</b> Posts, pages, archives, instruments, author — everything a reader scrolls lives in the same column. Consistency outranks grandeur. (Tightened 40→38rem for measure, 2026-06-06.)</td></tr>
+    <tr><td class="mono">stage · 60rem</td><td class="mono">≈1080px</td><td>site chrome only: the nav bar and footer columns</td></tr>
+  </table>
+  <p>Component-internal pixel widths (carousel card 520px, minimap 320px) size things
+     <em>inside</em> a column — they are not containers and stay local.</p>
+</section>
+
+<section class="chap" id="c13">
+  <div class="chap-no">Chapter 13</div>
+  <h3>The measure</h3>
+  <p class="lede">38rem ÷ Georgia 1.1rem ≈ 63–71 characters per line — the calm centre of the
+     classic readable band (tightened from 40rem, 2026-06-06). The prose column is
+     load-bearing: widen it and the measure breaks. Any layout change re-runs this math
+     before it ships.</p>
+  <p>Vertical rhythm hangs off the prose line box (≈31px): paragraph gaps 2em,
+     story-item gaps 1.5em, section rules 2em. No baseline-grid theater.</p>
+</section>
+
+<section class="chap" id="c14">
+  <div class="chap-no">Chapter 14</div>
+  <h3>One box deep — Law VII applied</h3>
+  <div class="vs">
+    <div class="panel dont"><div class="panel-label">Never</div>
+      <div style="background:#f4f4f4;padding:.8rem">
+        <div style="font-weight:700;font-size:.85rem;margin-bottom:.5rem">Section band</div>
+        <div style="background:#fff;border:1px solid #e5e5e5;border-left:4px solid #e0162b;padding:.6rem .7rem;font-size:.8rem">card in a box in a page — with a colored fingernail</div>
+      </div></div>
+    <div class="panel do"><div class="panel-label">Always</div>
+      <div style="font-weight:700;font-size:.85rem;border-bottom:1px solid #e5e5e5;padding-bottom:.3rem;margin-bottom:.5rem">Section heading</div>
+      <div style="background:#fff;border:1px solid #e5e5e5;padding:.6rem .7rem;font-size:.8rem">flat card on the page ground</div></div>
+  </div>
+  <p>Sections are a heading and a hairline. Cards are one hairline border on the page
+     ground. Side color-rails, nested panels, and band-in-band groupings are retired
+     wherever found.</p>
+</section>
+
+<!-- ════════════════ PART V ════════════════ -->
+<div class="part-head"><div class="ed">Part V</div><h2>Elements</h2></div>
+
+<section class="chap" id="c15">
+  <div class="chap-no">Chapter 15</div>
+  <h3>Links &amp; focus</h3>
+  <p>Prose links: crimson with a 40%-crimson underline, full color on hover. Tags and
+     index links are underlined text that hover crimson — links speak link. On dark
+     grounds links wear white with a soft white underline. Focus: 2px crimson outline on
+     light, 2px white on dark, offset 2px — everywhere, no exceptions.</p>
+</section>
+
+<section class="chap" id="c16">
+  <div class="chap-no">Chapter 16</div>
+  <h3>Buttons</h3>
+  <p class="lede">The CTA wears ink, not alarm. One primary button, square, with an
+     inverting hover.</p>
+  <div class="spec"><div class="spec-head"><span>primary — ink square · #111 · hover INVERTS to white/ink (a real state, flat per Law V)</span></div>
+    <div class="spec-body"><button class="demo-btn">Subscribe for free</button>
+      <span style="font-size:.8rem;color:#767676;margin-left:.75rem">hover me</span></div></div>
+  <div class="spec dark"><div class="spec-head"><span>on dark grounds the ink square inverts at rest: white button, ink text, dimming hover</span></div>
+    <div class="spec-body"><button class="demo-btn demo-btn--inv">Subscribe for free</button></div></div>
+  <p>Action cards (membership packages): the whole card is a link to an action, so it
+     takes the button's surface language — ink fill, square, hover lightens the fill —
+     holding data-display content: white serif price, label-role caption. The featured
+     package carries a 2px crimson border, the strongest emphasis pairing on ink.
+     Cards hover by lightening, never inverting: a full surface flashing to white reads
+     as a content panel, not a pressed control — the invert hover belongs to compact
+     buttons. Never pills, never lifts, never shadows.</p>
+</section>
+
+<section class="chap" id="c17">
+  <div class="chap-no">Chapter 17</div>
+  <h3>Forms &amp; inputs</h3>
+  <p class="lede">One input spec: square, 1px border, min-height 46px, body-size text
+     (≥1rem so phones never zoom), focus ring per Chapter 15.</p>
+  <div class="spec"><div class="spec-head"><span>text input + primary button — the subscribe pair</span></div>
+    <div class="spec-body"><input class="demo-input" placeholder="Type your email..." style="margin-right:.4rem"><button class="demo-btn">Subscribe for free</button></div></div>
+  <p>Inline validation on blur; errors sit under their field in deep crimson on wash;
+     success confirms in machinery green. Honeypots and turnstiles stay invisible to
+     readers.</p>
+</section>
+
+<section class="chap" id="c18">
+  <div class="chap-no">Chapter 18</div>
+  <h3>Callouts, tags &amp; statuses</h3>
+  <h4>The four callout tiers</h4>
+  <table>
+    <tr><th>tier</th><th>treatment</th><th>use</th></tr>
+    <tr><td>quiet</td><td>surface panel, no border</td><td>asides, programming notes</td></tr>
+    <tr><td>marked</td><td>surface + 3px ink left rule</td><td>attention without alarm</td></tr>
+    <tr><td>alarm</td><td>surface + 3px crimson rule</td><td>the one alarm — corrections, urgent notes</td></tr>
+    <tr><td>inverse</td><td>ink panel, white text</td><td>rare hard-stop moments — used sparingly, never in sequence</td></tr>
+  </table>
+  <h4>Tags</h4>
+  <p>Typographic, not pills: underlined text in muted ink, mono counts beside them,
+     crimson on hover. Pills, chips, and colored tag tiles are retired.</p>
+  <h4>Statuses &amp; toasts</h4>
+  <p>Machinery states only: success #2f7d5c, warning #b45309, failure crimson — each with
+     a glyph or word, never color alone. Toasts: ink panel, white text, auto-dismiss,
+     no motion beyond fade; respects reduced-motion.</p>
+</section>
+
+<section class="chap" id="c19">
+  <div class="chap-no">Chapter 19</div>
+  <h3>Tables, numbers &amp; charts</h3>
+  <p>Instruments own their tables: mono caps column heads (label role), tabular figures
+     (data role), hairline rows. Direction and category always carry a glyph —
+     <span style="color:#2f7d5c;font-family:Menlo,monospace">▴14.1</span>
+     <span style="color:#b50f22;font-family:Menlo,monospace">▾12.9</span> — because red
+     and green are identical to colorblind readers (Law IV). Chart chrome: gridlines
+     #aeb6bd (quiet, decorative), axes #64707a (must pass), data marks in the crimson
+     family; blue only for partisan-D series (Law I). Every chart legible in grayscale.</p>
+</section>
+
+<section class="chap" id="c20">
+  <div class="chap-no">Chapter 20</div>
+  <h3>Icon tiles &amp; the anchor</h3>
+  <h4>Icon-only buttons wear the tile</h4>
+  <div class="spec dark"><div class="spec-head"><span>44px targets · radius 21% (the mark's geometry) · text chips stay square</span></div>
+    <div class="spec-body"><span class="demo-tile">𝕏</span> <span class="demo-tile" style="margin-left:.4rem">M</span>
+      <span style="display:inline-block;margin-left:.8rem;background:#333;color:#aab0b6;padding:.5rem .85rem;font-size:.75rem">RSS</span></div></div>
+  <h4>The paragraph anchor</h4>
+  <p>AnchorJS (the original library) provides hover anchors: <span class="mono">placement
+     left · visible on hover · truncate 36 · icon '§'</span>. Two system rules make it
+     conform: a pre-supplied <code>style.anchorjs</code> block stops the library from
+     injecting its embedded icon font (Law VI holds — zero font-faces reach the page),
+     and the glyph renders via a data-attribute so it can never leak into selected text
+     or share-card exports. The anchor is <b>furniture</b>: always muted gray, never
+     bold, never italic, never link-red, regardless of context.</p>
+</section>
+
+<!-- ════════════════ PART VI ════════════════ -->
+<div class="part-head"><div class="ed">Part VI</div><h2>Surfaces</h2></div>
+
+<section class="chap" id="c21">
+  <div class="chap-no">Chapter 21</div>
+  <h3>The post — reference implementation</h3>
+  <p class="lede">The product. Everything else serves it.</p>
+  <table>
+    <tr><th>zone</th><th>spec</th></tr>
+    <tr><td>Headline</td><td>display role; "Day N: “description.”" as one unit</td></tr>
+    <tr><td>Byline row</td><td>meta furniture + square share chrome (44px, flat, tile for icon-only)</td></tr>
+    <tr><td>TIOS</td><td>the canon fixture (Ch. 10) — real text pilcrows with screen-reader separators</td></tr>
+    <tr><td>Stories</td><td>Georgia prose, bold ledes, inline crimson sources; real decimal markers on ordered content</td></tr>
+    <tr><td>Notables / related</td><td>aside lists — secondary sans</td></tr>
+    <tr><td>Blockquotes</td><td>0.95em of prose, muted ink</td></tr>
+    <tr><td>Anchors</td><td>§ in the left gutter on hover (Ch. 20)</td></tr>
+    <tr><td>Audio</td><td>native range seek bar, square thumb, flat track; keyboard-seekable</td></tr>
+    <tr><td>Homepage</td><td>the same post plus the subscribe module; one alarm budget — crimson appears as links, pilcrows, and nothing else</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c22">
+  <div class="chap-no">Chapter 22</div>
+  <h3>Pages &amp; membership</h3>
+  <p>Pages read at body size with page lists matching body. Membership: ink-filled
+     action cards in the prose column, whole card is the link, white serif prices,
+     label-role captions, fill-lighten hover, featured package carries the 2px crimson
+     border; checkout copy and prices are editorial and never paraphrased. Tip-jar
+     dividers are plain hairlines (Law III).</p>
+</section>
+
+<section class="chap" id="c23">
+  <div class="chap-no">Chapter 23</div>
+  <h3>Search &amp; archives</h3>
+  <p>Search results render as heading-role titles with secondary snippets; matches
+     highlight in the red wash via <code>mark</code>. Archives are typographic indexes:
+     year displays, underlined month/topic links with CSS-generated separators
+     (decorative, hidden from assistive tech), mono counts. The browse pattern is an
+     index, not a pill garden.</p>
+</section>
+
+<section class="chap" id="c24">
+  <div class="chap-no">Chapter 24</div>
+  <h3>The instruments</h3>
+  <p class="lede">Big Grid, Big Board, Dashboard — data products in the same prose
+     column as everything else. Consistency outranks grandeur.</p>
+  <p>One box deep throughout: section heading + hairline, flat hairline cards, no rails,
+     no bands. The Grid's heatmap: crimson cells on #eceef0 empties (legible in
+     grayscale), solid-crimson minimap viewport. The Board: tabular mono figures,
+     direction glyphs, sparklines in quiet gray. Charts per Chapter 19. On dark
+     instrument grounds, red meaning wears the dark-instrument red #e67a75 (the
+     night-link value) — crimson #e0162b fails contrast on near-black and never
+     sits there. Instrument numerals — counters, timers,
+     stat readouts — are data displays, not text, and may exceed the type stops;
+     their labels and captions hold the role scale. Two brand-chrome sizes are
+     ratified off-scale: the masthead title and the author hero, both 2rem.</p>
+</section>
+
+<section class="chap" id="c25">
+  <div class="chap-no">Chapter 25</div>
+  <h3>The quiz</h3>
+  <p>Plain stylesheet scoped under <code>.quiz-container</code>, outside the main
+     build but inside the system: every <code>--q-*</code> value that mirrors a site
+     token references it directly (<code>var(--c-*, literal)</code>), so the quiz
+     cannot drift from this book. Square throughout, flat throughout, the one button
+     spec with the invert hover, the prose column. Motion is color shift and fade —
+     the score reveal rises, nothing scales. Serif questions at heading scale, crimson
+     selection, success green only as machinery, mono keyboard hints. Every state —
+     unanswered, correct, incorrect, results, retake — passes the contrast floors.</p>
+</section>
+
+<section class="chap" id="c26">
+  <div class="chap-no">Chapter 26</div>
+  <h3>Newsletter &amp; platforms</h3>
+  <p>Email maps the system to client-safe equivalents: Georgia prose 19px fixed, sans
+     stacks for chrome, px sizes (no clamp, no custom properties), the same crimson and
+     ink, single-column module width. The CSS-vanishes contract: when a platform strips
+     styles (RSS readers, reader modes, Apple News), the semantic HTML must still read
+     correctly — real headings, real lists, real decimals, no meaning carried by CSS
+     alone. That contract is why TIOS pilcrows are real text and anchors are empty
+     furniture.</p>
+</section>
+
+<section class="chap" id="c27">
+  <div class="chap-no">Chapter 27</div>
+  <h3>Print &amp; night</h3>
+  <p><b>Print</b> is the fourth voice: Times at 11pt body with its own pt ladder
+     (16/14/11/10/9), links underlined in hairline weight, chrome and anchors hidden,
+     lists and quotes kept intact across page breaks. It is exempt from the screen
+     scale and stays hand-tuned.</p>
+  <p><b>Night</b> ships as a token swap (Ch. 05) plus exactly two type provisions:
+     strong may step 700→600 against halation, and grayscale antialiasing applies under
+     the night theme only. Sizes, leading, and layout never change by theme.</p>
+</section>
+
+<!-- ════════════════ PART VII ════════════════ -->
+<div class="part-head"><div class="ed">Part VII</div><h2>Floors &amp; bookkeeping</h2></div>
+
+<section class="chap" id="c28">
+  <div class="chap-no">Chapter 28</div>
+  <h3>Accessibility floors</h3>
+  <table>
+    <tr><th>floor</th><th>rule</th></tr>
+    <tr><td>Contrast</td><td>4.5:1 text, 3:1 large text and UI states — verified on rendered pages, not just specs</td></tr>
+    <tr><td>Root</td><td>rem-based fluid root: reader font-size preferences scale the site</td></tr>
+    <tr><td>Size floors</td><td>standing text ≥ label (0.75rem); chart axis &amp; data annotation ≥ 0.7rem (the data role's hard floor); content ≥ secondary (0.9rem); nothing under ~12px</td></tr>
+    <tr><td>Touch</td><td>44px minimum targets, 8px spacing</td></tr>
+    <tr><td>Color never alone</td><td>direction, state, and category always carry a glyph or word</td></tr>
+    <tr><td>Motion</td><td>every animation respects prefers-reduced-motion; nothing essential moves</td></tr>
+    <tr><td>Focus</td><td>visible 2px ring everywhere; opacity (never visibility/display) for hover-revealed controls so they stay keyboard-reachable</td></tr>
+    <tr><td>Zoom &amp; spacing</td><td>layouts survive 200% zoom, 320px reflow, and WCAG text-spacing overrides without loss</td></tr>
+    <tr><td>Structure</td><td>one h1 per page, no skipped heading levels, decorative text hidden from assistive tech</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c29">
+  <div class="chap-no">Chapter 29</div>
+  <h3>The retire list</h3>
+  <table>
+    <tr><th>retired</th><th>replaced by</th></tr>
+    <tr><td>stock coral/pomegranate reds, blue links, green UI accents</td><td>the crimson family · Law I blue · machinery states</td></tr>
+    <tr><td>pills, circles, rounded cards, colored side-rails, shadows, gradients</td><td>squares, tiles, hairlines, flat ink (Laws II, V, VII)</td></tr>
+    <tr><td>webfonts and icon fonts</td><td>three system stacks; fontless anchor config</td></tr>
+    <tr><td>weights 300 / 900 / lighter; the 8-step micro size ramp</td><td>the role scale</td></tr>
+    <tr><td>crimson decorative dividers</td><td>hairlines; crimson rule lives only in TIOS</td></tr>
+    <tr><td>emoji as UI icons</td><td>SVG glyphs and labels</td></tr>
+    <tr><td>ad-hoc page widths (35/44/48/50rem…)</td><td>the three-stop container scale</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c30">
+  <div class="chap-no">Chapter 30</div>
+  <h3>The token sheet</h3>
+  <pre class="code"><code>/* color — day (live) + night (inert) */
+bg #fff · surface #f9f9f9 · line #e5e5e5
+ink #1a1a1a · meta #767676 · meta-surface #6b6b6b
+link #e0162b · hover #b50f22 · accent #b50f22
+danger #b50f22 · deep #96101d
+wash #f6e9e8 · tint #ebccc9
+blue #0052a5 · success #2f7d5c · warning #b45309
+grid #aeb6bd · axis #64707a · focus #e0162b
+
+/* night */
+bg #16191d · surface #22262b · line #2c3138
+ink #cdc9c1 · meta #9aa0a6
+link #e67a75 · hover #ef8d88
+accent #da4b49 (borders/fills only)
+success #5cb389 · warning #e3973f · focus #e67a75
+
+/* type roles */
+display 2.5rem/1.18 · title 1.65/1.25
+heading 1.2/1.3 · prose 1.1 Georgia/1.62
+body 1/1.5 · secondary 0.9/1.5
+meta 0.8/1.4 · label 0.75/1.25 caps +.06em
+data mono 0.85rem | max(0.85em, 0.8rem)
+weights 400 / 600 / strong 700
+
+/* layout */
+module 32rem · prose 38rem · stage 60rem
+tile radius 0.21 × side
+root clamp(1.0625rem, 1.0125rem + .2vw, 1.125rem)</code></pre>
+</section>
+
+<section class="chap" id="c31">
+  <div class="chap-no">Chapter 31</div>
+  <h3>Governance</h3>
+  <p class="lede">How to add a color, a size, a width, a radius, a shadow: you don't.</p>
+  <p>New work picks from the roles, tokens, and stops in this book. If nothing fits,
+     follow the decision protocol (Ch. 03): propose a principle, get it ratified, update
+     the book, then ship — in that order, in one change. The gate enforces the laws
+     mechanically — <code>scripts/check_design_system.py</code> scans every compiled
+     build for off-system radii, shadows, weights, widths, sub-floor text, retired
+     colors, and webfonts, against exact, documented whitelists. This book is the
+     single source of truth; anything that contradicts it — including older reference
+     documents — is superseded.</p>
+</section>
+
+
+<!-- ════════════════ PART VIII ════════════════ -->
+<div class="part-head"><div class="ed">Part VIII</div><h2>The gallery</h2></div>
+
+<section class="chap" id="c32">
+  <div class="chap-no">Chapter 32</div>
+  <h3>How to read the plates</h3>
+  <p class="lede">Every plate renders a real component with its real classes from the
+     production stylesheet. The plates cannot drift from the site — they ARE the site.</p>
+  <p>If a plate looks wrong, the site is wrong, and this page is the first place it shows.
+     Each plate carries a rules table naming the type roles, tokens, and laws at work.
+     Dashed frames are book furniture (specimen mounts), not part of any component.
+     Mounts also restore native context for chrome specimens: this page is an article,
+     and the article's prose-link grammar would otherwise reach nav and footer links it
+     never touches in production — the mount restates the chrome's own values, inventing
+     nothing. Chrome plates render at the prose column, narrower than their stage width.
+     The JS-rendered instruments — Big Grid, leaderboard, Big Board — cannot mount
+     statically; their grammar lives in Chapters 19 and 24. The quiz renders under its
+     own stylesheet pending migration (Chapter 25).</p>
+</section>
+
+<section class="chap" id="c33">
+  <div class="chap-no">Plate I</div>
+  <h3>Masthead &amp; nav</h3>
+  <div class="plate-render flush">
+<nav class="site-nav" aria-label="Main navigation">
+        <div class="nav-container">
+          <div class="nav-left">
+            <a href="/" class="nav-home" aria-label="WTF Just Happened Today Home">
+              <img src="/favicon.svg?v=3" alt="WTFJHT" class="nav-logo" width="32" height="32">
+            </a>
+            <ul class="nav-quick">
+              <li><a href="/2026/05/20/day-1947/">Latest</a></li>
+              <li><a href="/2026/05/19/day-1946/">Previous</a></li>
+            </ul>
+          </div>
+
+          <ul class="nav-links" role="list">
+            <li><a href="/about/">About</a></li>
+            <li><a href="/subscribe/">Newsletter</a></li>
+            <li><a href="/membership/" class="nav-cta">Become a Member</a></li>
+          </ul>
+        </div>
+      </nav>
+<header class="masthead">
+        <p class="masthead-title">
+          <a href="/" title="What The Fuck Just Happened Today?">What The Fuck Just Happened Today?</a>
+        </p>
+        <p class="masthead-description">Your essential guide to the shock and awe in national politics. Read in moderation.</p>
+        <p class="masthead-meta">
+          Curated by <a href="/author/matt-kiser/">Matt Kiser</a>
+        </p>
+
+        <div class="wtf-search" role="search">
+          <div class="outer-wrapper">
+            <div class="input-wrapper">
+              
+<svg class="icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+
+
+              <input type="text" class="algolia__input js-algolia__input" autocomplete="off" name="query" placeholder="Search articles..." aria-label="Search articles" />
+            </div>
+          </div>
+        </div>
+      </header>
+  </div>
+  <table>
+    <tr><th>part</th><th>rule</th></tr>
+    <tr><td>Nav links</td><td>white on #000 · 400 — dark grounds map down (irradiation)</td></tr>
+    <tr><td>Become a Member</td><td>dark-ground button: white fill, ink text, square, dimming hover</td></tr>
+    <tr><td>Title</td><td>display voice on ink ground</td></tr>
+    <tr><td>Search field</td><td>the one input spec: square, 46px, body-size text — Law II, zero shape exceptions</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c34">
+  <div class="chap-no">Plate II</div>
+  <h3>The post anatomy</h3>
+  <div class="plate-render">
+    <article class="post" style="margin:0">
+      <h1 class="post-title" style="margin-top:0">Day 3,388: &ldquo;A specimen day.&rdquo;</h1>
+      <div class="post-content">
+        <p class="tios"><strong>Today in one sentence:</strong> A placeholder sentence
+        demonstrating the TIOS fixture with a real pilcrow<span aria-hidden="true"> &para;</span>
+        and the canon treatment from Chapter 10.</p>
+        <p>1/ <strong>A bold lede opens every story in Georgia prose</strong>, set at the
+        reading size with sources cited inline in crimson
+        (<a href="#c34" onclick="return false">Specimen Post</a> /
+        <a href="#c34" onclick="return false">Example Wire</a>). Body text holds the
+        measure; <mark>marked text rides the blush wash with its crimson underscore</mark>.</p>
+        <ul><li>Aside lists are subordinate — secondary sans, never competing with prose.</li>
+            <li>Notables, related reading, programming notes.</li></ul>
+      </div>
+      <div class="post-tags"><span class="post-tag">specimen</span> <span class="post-tag">gallery</span></div>
+    </article>
+  </div>
+  <table>
+    <tr><th>part</th><th>rule</th></tr>
+    <tr><td>Headline</td><td>display role — one unit, 2.5rem/700/1.18</td></tr>
+    <tr><td>Prose</td><td>Georgia 1.1rem/1.62 in the 38rem column — the product</td></tr>
+    <tr><td>Sources</td><td>crimson links, 40% underline — the one alarm budget</td></tr>
+    <tr><td>TIOS</td><td>the canon fixture — Ch. 10</td></tr>
+    <tr><td>Aside lists</td><td>secondary role .9rem/1.5 — ratified</td></tr>
+    <tr><td>Tags</td><td>typographic, square, no pills</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c35">
+  <div class="chap-no">Plate III</div>
+  <h3>On This Day</h3>
+  <div class="plate-render">
+<div class="historical-posts" data-on-this-day='[{&quot;years_ago&quot;:5,&quot;direction&quot;:&quot;ago&quot;,&quot;title&quot;:&quot;Day 43&quot;,&quot;desc&quot;:&quot;Blame game.&quot;,&quot;url&quot;:&quot;/2017/03/03/Day-43/&quot;},{&quot;years_ago&quot;:2,&quot;direction&quot;:&quot;ago&quot;,&quot;title&quot;:&quot;Day 1139&quot;,&quot;desc&quot;:&quot;Not good.&quot;,&quot;url&quot;:&quot;/2020/03/03/day-1139/&quot;},{&quot;years_ago&quot;:1,&quot;direction&quot;:&quot;ago&quot;,&quot;title&quot;:&quot;Day 43&quot;,&quot;desc&quot;:&quot;\&quot;Neanderthal thinking.\&quot;&quot;,&quot;url&quot;:&quot;/2021/03/03/day-43/&quot;},{&quot;years_ago&quot;:-3,&quot;direction&quot;:&quot;later&quot;,&quot;title&quot;:&quot;Day 1504&quot;,&quot;desc&quot;:&quot;\&quot;It’s going to be very costly for people.\&quot;&quot;,&quot;url&quot;:&quot;/2025/03/03/day-1504/&quot;},{&quot;years_ago&quot;:-4,&quot;direction&quot;:&quot;later&quot;,&quot;title&quot;:&quot;Day 1869&quot;,&quot;desc&quot;:&quot;\&quot;A failure of leadership.\&quot;&quot;,&quot;url&quot;:&quot;/2026/03/03/day-1869/&quot;}]'>
+    <h3 class="historical-posts__title">On this day</h3>
+    
+      <a href="/2017/03/03/Day-43/" class="historical-posts__item">
+        <span class="historical-posts__years">
+          5 years ago
+        </span>
+        <span class="historical-posts__headline">Day 43: Blame game.</span>
+      </a>
+    
+      <a href="/2020/03/03/day-1139/" class="historical-posts__item">
+        <span class="historical-posts__years">
+          2 years ago
+        </span>
+        <span class="historical-posts__headline">Day 1139: Not good.</span>
+      </a>
+    
+      <a href="/2021/03/03/day-43/" class="historical-posts__item">
+        <span class="historical-posts__years">
+          1 year ago
+        </span>
+        <span class="historical-posts__headline">Day 43: "Neanderthal thinking."</span>
+      </a>
+    
+      <a href="/2025/03/03/day-1504/" class="historical-posts__item">
+        <span class="historical-posts__years">
+          3 years later
+        </span>
+        <span class="historical-posts__headline">Day 1504: "It’s going to be very costly for people."</span>
+      </a>
+    
+      <a href="/2026/03/03/day-1869/" class="historical-posts__item">
+        <span class="historical-posts__years">
+          4 years later
+        </span>
+        <span class="historical-posts__headline">Day 1869: "A failure of leadership."</span>
+      </a>
+    
+    
+    <a href="/on-this-day/march-3/" class="historical-posts__see-all">See all March 3 posts &rarr;</a>
+  </div>
+  </div>
+  <table>
+    <tr><th>part</th><th>rule</th></tr>
+    <tr><td>&ldquo;ON THIS DAY&rdquo;</td><td>label role — .75/600/caps/+.06em</td></tr>
+    <tr><td>Dates</td><td>meta role — .8rem/1.4</td></tr>
+    <tr><td>Headlines</td><td>secondary role — .9rem/1.5 ink · crimson hover</td></tr>
+    <tr><td>Structure</td><td>hairline rows, no box (Law VII) · see-all on its own line, never in the row grid</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c36">
+  <div class="chap-no">Plate IV</div>
+  <h3>The subscribe module</h3>
+  <div class="plate-render">
+<div class="subscribe-form">
+  <form action="https://whatthefuckjusthappenedtoday.us7.list-manage.com/subscribe/post?u=104aa3abb9fec8b4d037ed51d&amp;id=9813b73b1a" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div class="subscribe-form__row">
+      <label class="sr-only">Email address</label>
+      <input type="email" value="" name="EMAIL" class="subscribe-form__input" placeholder="Type your email..." autocomplete="email" required>
+      <input type="button" value="Subscribe for free" name="subscribe" class="subscribe-form__button">
+    </div>
+    <p class="subscribe-form__trust">Free. No spam. Unsubscribe anytime.</p>
+  </form>
+</div>
+  </div>
+  <table>
+    <tr><th>part</th><th>rule</th></tr>
+    <tr><td>Input</td><td>the one input spec — square, 1px line, 46px, body-size text</td></tr>
+    <tr><td>Button</td><td>THE button — ink square, 0.75&times;1.5rem, 1rem/600, invert hover</td></tr>
+    <tr><td>Trust line</td><td>meta role</td></tr>
+    <tr><td>On the dark footer</td><td>the pair inverts: white button, dimming hover — see Plate VI</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c37">
+  <div class="chap-no">Plate V</div>
+  <h3>Membership action cards</h3>
+  <div class="plate-render">
+    <div class="pkgs">
+      <div class="pkg"><a href="/membership/" onclick="return false"><span class="pkg__price">$5/month</span><span class="pkg__label">Start Here</span></a></div>
+      <div class="pkg pkg--featured"><a href="/membership/" onclick="return false"><span class="pkg__price">$10/month</span><span class="pkg__label">Most Popular</span></a></div>
+      <div class="pkg"><a href="/membership/" onclick="return false"><span class="pkg__price">$50/year</span><span class="pkg__label">Booster</span></a></div>
+      <div class="pkg"><a href="/membership/" onclick="return false"><span class="pkg__price">$100/year</span><span class="pkg__label">Maximum WTF</span></a></div>
+    </div>
+  </div>
+  <table>
+    <tr><th>part</th><th>rule</th></tr>
+    <tr><td>The card</td><td>action card — ink fill, square, whole card is the link (padding rides the anchor)</td></tr>
+    <tr><td>Hover</td><td>lightens the fill, never inverts — the ratified action-card carveout (Ch. 16)</td></tr>
+    <tr><td>Price</td><td>white serif 1.6rem/700 — data display inside an action object</td></tr>
+    <tr><td>Caption</td><td>label role at the floor — .75/600/caps</td></tr>
+    <tr><td>Featured</td><td>2px crimson border — the strongest emphasis pairing on ink</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c38">
+  <div class="chap-no">Plate VI</div>
+  <h3>The footer</h3>
+  <div class="plate-render flush">
+    <footer style="margin-top:0">
+<section class="ft-main">
+          <div class="ft-main-item">
+            <h3 class="ft-title">About</h3>
+            <ul>
+              <li><a href="/about/">About</a></li>
+              <li><a href="/faq/">FAQ</a></li>
+              <li><a href="/membership/">Membership</a></li>
+              <li><a href="https://wtfjht.memberful.com/account" target="_blank" rel="noopener">Member Sign-in</a></li>
+              <li><a href="https://cottonbureau.com/people/wtf-just-happened-today" target="_blank" rel="noopener">Merch</a></li>
+              
+            </ul>
+          </div>
+
+          <div class="ft-main-item">
+            <h3 class="ft-title">Resources</h3>
+            <ul>
+              <li><a href="/podcasts/">Podcast</a></li>
+              <li><a href="/subscribe/">Newsletter</a></li>
+              <li><a href="https://currentstatus.io/" target="_blank" rel="noopener">Current Status</a></li>
+              <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY" target="_blank" rel="noopener">Recommended Books</a></li>
+              <li><a href="/big-grid/">The Big Grid.™</a></li>
+              <li><a href="/big-board/">The Big Board.™</a></li>
+              <li><a href="/big-dumb-dashboard/">The Big Dumb Dashboard.™</a></li>
+            </ul>
+          </div>
+
+          <div class="ft-main-item">
+            <h3 class="ft-title">Archives</h3>
+            <ul>
+              <li><a href="/archive/">Archives</a></li>
+              <li><a href="/trump-first-100-days/">Trump's First 100 Days</a></li>
+              <li><a href="/biden-first-100-days/">Biden's First 100 Days</a></li>
+              <li><a href="/trump-second-100-days/">Trump's Second 100 Days</a></li>
+            </ul>
+          </div>
+        </section>
+<section class="ft-connect">
+          <div class="ft-row">
+            <span class="ft-row-label">Follow</span>
+            <ul class="ft-icon-list">
+              <li><a href="https://bsky.app/profile/whatthefuckjusthappenedtoday.com" target="_blank" rel="noopener" aria-label="Bluesky">
+<svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.882 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg>
+
+</a></li>
+              <li><a href="https://www.threads.net/@wtfjht" target="_blank" rel="noopener" aria-label="Threads">
+<svg class="icon" width="18" height="18" viewBox="0 0 192 192" fill="currentColor"><path d="M141.537 88.9883C140.71 88.5919 139.87 88.2104 139.019 87.8451C137.537 60.5382 122.616 44.905 97.5619 44.745C97.4484 44.7443 97.3355 44.7443 97.222 44.7443C82.2364 44.7443 69.7731 51.1409 62.102 62.7807L75.881 72.2328C81.6116 63.5383 90.6052 61.6848 97.2286 61.6848C97.3051 61.6848 97.3819 61.6848 97.4576 61.6855C105.707 61.7381 111.932 64.1366 115.961 68.814C118.893 72.2193 120.854 76.925 121.825 82.8638C114.511 81.6207 106.601 81.2385 98.145 81.7233C74.3247 83.0954 59.0111 96.9879 60.0396 116.292C60.5615 126.084 65.4397 134.508 73.775 140.011C80.8224 144.663 89.899 146.938 99.3323 146.423C111.79 145.74 121.563 140.987 128.381 132.296C133.559 125.696 136.834 117.143 138.28 106.366C144.217 109.949 148.617 114.664 151.047 120.332C155.179 129.967 155.42 145.8 142.501 158.708C131.182 170.016 117.576 174.908 97.0135 175.059C74.2042 174.89 56.9538 167.575 45.7381 153.317C35.2355 139.966 29.8077 120.682 29.6052 96C29.8077 71.3178 35.2355 52.0336 45.7381 38.6827C56.9538 24.4249 74.2039 17.11 97.0132 16.9405C119.988 17.1113 137.539 24.4614 149.184 38.788C154.894 45.8136 159.199 54.6488 162.037 64.9503L178.184 60.6422C174.744 47.9622 169.331 37.0357 161.965 27.974C147.036 9.60668 125.202 0.195148 97.0695 0H96.9569C68.8816 0.19447 47.2921 9.6418 32.7883 28.0793C19.8819 44.4864 13.2244 67.3157 13.0007 95.9325L13 96L13.0007 96.0675C13.2244 124.684 19.8819 147.514 32.7883 163.921C47.2921 182.358 68.8816 191.806 96.9569 192H97.0695C122.03 191.827 139.624 185.292 154.118 170.811C173.081 151.866 172.51 128.119 166.26 113.541C161.776 103.087 153.227 94.5962 141.537 88.9883ZM98.4405 129.507C88.0005 130.095 77.1544 125.409 76.6196 115.372C76.2232 107.93 81.9158 99.626 99.0812 98.6368C101.047 98.5234 102.976 98.468 104.871 98.468C111.106 98.468 116.939 99.0737 122.242 100.233C120.264 124.935 108.662 128.946 98.4405 129.507Z"/></svg>
+
+</a></li>
+              <li><a href="https://x.com/wtfjht" target="_blank" rel="noopener" aria-label="Twitter/X">
+<svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+
+</a></li>
+              <li><a href="https://mastodon.social/@wtfjht" target="_blank" rel="noopener" aria-label="Mastodon">
+<svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M23.268 5.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242 15.792 0 11.813 0h-.03c-3.98 0-4.835.242-5.288.309C3.882.692 1.496 2.518.917 5.127.64 6.412.61 7.837.661 9.143c.074 1.874.088 3.745.26 5.611.118 1.24.325 2.47.62 3.68.55 2.237 2.777 4.098 4.96 4.857 2.336.792 4.849.923 7.256.38.265-.061.527-.132.786-.213.585-.184 1.27-.39 1.774-.753a.057.057 0 0 0 .023-.043v-1.809a.052.052 0 0 0-.02-.041.053.053 0 0 0-.046-.01 20.282 20.282 0 0 1-4.709.545c-2.73 0-3.463-1.284-3.674-1.818a5.593 5.593 0 0 1-.319-1.433.053.053 0 0 1 .066-.054c1.517.363 3.072.546 4.632.546.376 0 .75 0 1.125-.01 1.57-.044 3.224-.124 4.768-.422.038-.008.077-.015.11-.024 2.435-.464 4.753-1.92 4.989-5.604.008-.145.03-1.52.03-1.67.002-.512.167-3.63-.024-5.545Zm-3.748 9.195h-2.561V8.29c0-1.309-.55-1.976-1.67-1.976-1.23 0-1.846.79-1.846 2.35v3.403h-2.546V8.663c0-1.56-.617-2.35-1.848-2.35-1.112 0-1.668.668-1.67 1.977v6.218H4.822V8.102c0-1.31.337-2.35 1.011-3.12.696-.77 1.608-1.164 2.74-1.164 1.311 0 2.302.5 2.962 1.498l.638 1.06.638-1.06c.66-.999 1.65-1.498 2.96-1.498 1.13 0 2.043.395 2.74 1.164.675.77 1.012 1.81 1.012 3.12v6.406Z"/></svg>
+
+</a></li>
+              <li><a href="https://www.instagram.com/wtfjht/" target="_blank" rel="noopener" aria-label="Instagram">
+<svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+
+</a></li>
+              <li><a href="https://www.facebook.com/wtfjht" target="_blank" rel="noopener" aria-label="Facebook">
+<svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+
+</a></li>
+              <li><a href="https://github.com/mkiser/WTFJHT" target="_blank" rel="noopener" aria-label="GitHub">
+<svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg>
+
+</a></li>
+            </ul>
+          </div>
+          <div class="ft-row">
+            <span class="ft-row-label">Feeds</span>
+            <ul class="ft-icon-list ft-feeds">
+              <li><a href="/rss.xml">RSS</a></li>
+              <li><a href="/atom.xml">Atom</a></li>
+              <li><a href="/feed.json">JSON</a></li>
+            </ul>
+          </div>
+        </section>
+    </footer>
+  </div>
+  <table>
+    <tr><th>part</th><th>rule</th></tr>
+    <tr><td>Column titles</td><td>label role at the floor — .75 caps on the night-meta gray</td></tr>
+    <tr><td>Icon tiles</td><td>44px · 21% radius — the system&rsquo;s only rounding (Law II)</td></tr>
+    <tr><td>Feed chips</td><td>text chips stay square — pills retired</td></tr>
+    <tr><td>Grays</td><td>night-meta family — every pair ≥ 5:1 on #222/#333</td></tr>
+  </table>
+</section>
+
+<section class="chap" id="c39">
+  <div class="chap-no">Plate VII</div>
+  <h3>The banner &amp; the warning state</h3>
+  <div class="plate-render flush">
+    <div class="pledge-drive-bottom plate-static">
+      <div class="t-center">
+        <p>A specimen banner line — promo copy is editorial and never paraphrased.</p>
+        <a href="/membership/" onclick="return false" class="pledge-banner__btn">Specimen action</a>
+      </div>
+    </div>
+  </div>
+  <div class="plate-render">
+    <div style="padding:1em;background:#f9f9f9;border-left:3px solid #b45309">
+      <p style="margin:0 0 0.6em;color:#1a1a1a">A warning callout: surface panel, 3px warning rule, ink text — never yellow boxes.</p>
+      <button type="button" style="padding:0.75rem 1.5rem;font-size:1rem;font-weight:600;color:#fff;background:#111;border:1px solid #111;border-radius:0;cursor:pointer;min-height:46px">The button, even here</button>
+    </div>
+  </div>
+  <table>
+    <tr><th>part</th><th>rule</th></tr>
+    <tr><td>Banner</td><td>dark surface · dark-ground button (white fill) · square</td></tr>
+    <tr><td>Warning</td><td>callout tier three: surface + 3px #b45309 rule (Ch. 18) — color never alone, the words carry it</td></tr>
+  </table>
+</section>
+
+<div class="footer-book">
+  WTFJHT · THE DESIGN SYSTEM · FIRST EDITION · JUNE 2026<br>
+  one alarm · flat ink · one box deep · zero webfonts<br>
+  three voices · nine roles · three containers
+</div>
+
+</div>

@@ -35,7 +35,7 @@
   width: 100%;
   max-width: 50px;
   background: $red;
-  border-radius: 2px 2px 0 0;
+  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
   min-height: 2px;
   transition: opacity 0.15s;
 }
@@ -54,14 +54,14 @@
 
   strong {
     display: block;
-    font-size: 0.65rem;
+    font-size: 0.7rem;
     font-weight: normal;
     color: $gray-4;
   }
 
   em {
     font-style: normal;
-    font-size: 0.55rem;
+    font-size: 0.7rem;
     color: $gray-4;
   }
 }
@@ -74,9 +74,9 @@
   background: $gray-5;
   color: #fff;
   padding: 0.35rem 0.6rem;
-  border-radius: 4px;
+  border-radius: 0; // square (Law II; page-walk M3 sweep)
   font-size: 0.7rem;
-  font-weight: 500;
+  font-weight: 400; // tooltip on #313131 — dark grounds map DOWN (type migration P1, ruling 6)
   white-space: nowrap;
   opacity: 0;
   visibility: hidden;
@@ -116,11 +116,11 @@
     }
 
     .source-name {
-      font-size: 1.05rem;
+      font-size: 1rem; // body stop (P2)
     }
 
     .source-pct {
-      font-size: 1.05rem;
+      font-size: 1rem; // body stop (P2)
     }
   }
 }
@@ -141,7 +141,7 @@
 .source-name {
   font-weight: 600;
   color: $gray-5;
-  font-size: 0.95rem;
+  font-size: 1rem; // body stop (P2)
 }
 
 .source-domain {
@@ -158,7 +158,7 @@
 .source-pct {
   font-weight: 600;
   color: $gray-5;
-  font-size: 0.95rem;
+  font-size: 1rem; // body stop (P2)
 }
 
 .source-count {
@@ -232,7 +232,7 @@
   }
 }
 
-.trend-up { color: #27ae60; }
+.trend-up { color: #2f7d5c; }
 .trend-down { color: $red; }
 
 .trends-legend {
@@ -252,9 +252,9 @@
 .legend-dot {
   width: 8px;
   height: 8px;
-  border-radius: 50%;
+  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
 
-  &.up { background: #27ae60; }
+  &.up { background: #2f7d5c; }
   &.down { background: $red; }
 }
 
@@ -293,7 +293,7 @@
   }
 
   .year-label {
-    font-size: 0.55rem;
+    font-size: 0.7rem;
     line-height: 1.2;
     cursor: pointer;
     -webkit-tap-highlight-color: transparent;
@@ -342,7 +342,7 @@
   }
 
   .source-domain {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
   }
 
   .source-pct {
@@ -350,7 +350,7 @@
   }
 
   .source-count {
-    font-size: 0.6rem;
+    font-size: 0.7rem;
   }
 
   .source-sparkline {
@@ -358,7 +358,7 @@
   }
 
   .trends-table {
-    font-size: 0.65rem;
+    font-size: 0.7rem;
     min-width: 500px;
 
     th,
@@ -376,7 +376,7 @@
   }
 
   .trends-legend {
-    font-size: 0.65rem;
+    font-size: 0.7rem;
   }
 
   .leaderboard-footer {

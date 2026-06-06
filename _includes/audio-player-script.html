@@ -6,7 +6,7 @@
   trigger.addEventListener('click', function handler() {
     trigger.removeEventListener('click', handler);
     var script = document.createElement('script');
-    script.src = '{{ site.baseurl }}/public/js/audio-player.js';
+    script.src = '{{ site.baseurl }}/public/js/audio-player.js?v={{ site.time | date: "%s" }}';
     document.body.appendChild(script);
   }, { once: true });
 })();

@@ -9,7 +9,7 @@
 
 footer {
   background-color: $bg-darker;
-  color: $meta-color; // WCAG AA compliant
+  color: #9aa0a6; // night-meta family · 6.0:1 on #222
   margin-top: 2em;
   padding: 0;
 
@@ -22,14 +22,14 @@ footer {
     }
 
     &:focus {
-      outline: 2px solid #9a9a9a;
+      outline: 2px solid #fff; // focus on dark ground wears white (masthead pattern)
       outline-offset: 2px;
     }
   }
 
   // Subscribe section
   .ft-subscribe {
-    max-width: 32rem;
+    max-width: $w-module;
     margin: 0 auto;
     padding: 2rem 1rem;
     text-align: center;
@@ -44,8 +44,8 @@ footer {
   }
 
   .ft-subscribe__desc {
-    font-size: 0.875rem;
-    color: $meta-color;
+    font-size: 0.9rem; // secondary stop (P2 chrome snap)
+    color: #9aa0a6; // night-meta family · 6.0:1 on #222
     margin: 0 0 1rem;
   }
 
@@ -59,7 +59,7 @@ footer {
     color: $gray-1;
 
     &::placeholder {
-      color: #777;
+      color: #aab0b6; // 5.0:1 on #333
     }
 
     &:focus {
@@ -68,13 +68,24 @@ footer {
     }
   }
 
+  // on the dark footer the ink square inverts: white button, ink text
+  .ft-subscribe .subscribe-form__button {
+    background-color: #fff;
+    color: #111;
+    border-color: #fff;
+
+    &:hover {
+      background-color: #cfcfcf; // dims, stays light — #111 would vanish on #222
+    }
+  }
+
   .ft-subscribe .subscribe-form__trust {
-    color: $text-dim;
+    color: #9aa0a6; // night-meta family · 6.0:1 on #222
   }
 
   // Main columns (About, Resources)
   .ft-main {
-    max-width: 60rem;
+    max-width: $w-stage;
     margin: 0 auto;
     padding: 2rem 1rem 1.5rem;
     display: flex;
@@ -88,11 +99,11 @@ footer {
   }
 
   h3.ft-title {
-    font-size: 0.7rem;
-    font-weight: 500;
+    font-size: 0.75rem; // label floor (ruling 4; board fix #5)
+    font-weight: 400; // footer title on #222 — dark grounds map DOWN (irradiation) (type migration P1, ruling 6)
     text-transform: uppercase;
     letter-spacing: 0.08em;
-    color: $text-dim;
+    color: #9aa0a6; // night-meta family · 6.0:1 on #222
     margin: 0 0 0.6rem 0;
     padding: 0;
   }
@@ -104,7 +115,7 @@ footer {
 
     li {
       margin-bottom: 0.4rem;
-      font-size: 0.875rem;
+      font-size: 0.9rem; // secondary stop (P2 chrome snap)
     }
   }
 
@@ -130,7 +141,7 @@ footer {
     font-size: 0.75rem;
     text-transform: uppercase;
     letter-spacing: 0.05em;
-    color: $text-dim;
+    color: #9aa0a6; // night-meta family · 6.0:1 on #222
     min-width: 3rem;
   }
 
@@ -150,11 +161,11 @@ footer {
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 2.25rem;
-      height: 2.25rem;
-      border-radius: 50%;
+      width: 44px;
+      height: 44px;
+      border-radius: 21%; // the tile — the system's only rounding (Law II)
       background: $bg-dark;
-      color: $meta-color;
+      color: #aab0b6; // 5.0:1 on #333
       font-size: 1rem;
       transition: background-color 0.15s ease, color 0.15s ease;
 
@@ -170,8 +181,9 @@ footer {
     a {
       width: auto;
       height: auto;
+      min-height: 44px;
       padding: 0.35rem 0.75rem;
-      border-radius: 1rem;
+      border-radius: 0; // text chips are square — pills retired
       font-size: 0.75rem;
       background: $bg-dark;
     }
@@ -200,7 +212,12 @@ footer {
 
   // Easter egg (© link)
   .easter-egg {
-    color: $text-dim;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    min-height: 44px;
+    color: #9aa0a6; // 6.7:1 on #1a1a1a
     cursor: pointer;
 
     &:hover {
@@ -268,15 +285,8 @@ footer {
     margin-top: 0px;
   }
 
-  .submit-button {
-    background: #0093f0 !important;
-  }
 }
-.fa-css {
-    left: 15px;
-    position: absolute;
-    top: 11px;
-}    
+// .fa-css deleted (P2 — Font Awesome remnant, zero usage)
 
 .outer-wrapper {
   position: relative;
@@ -289,7 +299,7 @@ footer {
 }
 
 .wtf-search-results {
-  max-width: 40rem;
+  max-width: $w-prose;
   margin: 0 auto;
   padding: 0 1rem;
 
@@ -302,17 +312,17 @@ footer {
   }
 
   .algolia__result a {
-    font-size: .75em;
+    font-size: 0.9rem; // secondary stop (P2 em retirement)
   }
 
   .algolia__result-text {
-    font-size: .85em;
+    font-size: 0.9rem; // secondary stop (P2 em retirement)
   }
 
   .algolia__result-date {
     text-transform: uppercase;
     color: $gray-3;
-    font-size: .7em;
+    font-size: 0.8rem; // meta stop (P2 em retirement)
     margin-bottom: .6em;
   }
 }
@@ -320,7 +330,7 @@ footer {
 .pledge-drive {
   margin: 1em auto;
   text-align: center;
-  max-width: 40rem;
+  max-width: $w-prose;
   h6 {
     margin-top: 0;
   }
@@ -330,57 +340,17 @@ footer {
   }
 }
 
-.wtf-plans__grid {
-  &--compact {
-    margin: 1.5rem 0;
+// .wtf-plans__grid deleted (P2 — zero template usage)
 
-    .plan {
-      padding: 1rem;
-      
-      &__price {
-        margin-top: 1.5rem; // Add space for badge
-        font-size: 1.75rem;
-      }
-
-      &__cta {
-        margin-top: 0.5rem;
-      }
-
-      &__bullets,
-      &__impact {
-        display: none;
-      }
-    }
-  }
-}
 
 
 .tout {
   margin: 1em auto;
   text-align: center;
-  max-width: 40rem;
+  max-width: $w-prose;
   padding: 1rem;
   border-bottom: 1px solid $gray-2;
 }
-
-.anchorjs-link {
-  transition: all .25s linear;
-  text-decoration: none;
-}
-
-.anchorjs-link:before {
-  color: $meta-color !important;
-}
-
-.anchorjs-link:after {
-  color: $meta-color !important;
-}
-
-*:hover > .anchorjs-link {
-  margin-left: -1.125em !important;
-  text-decoration: none !important;
-}
-
 
 .donorbox {
   position: relative;  
@@ -405,57 +375,44 @@ footer {
   overflow: visible;
   color: #fff;
   padding: 10px 10px 45px 10px;
+  padding-bottom: calc(45px + env(safe-area-inset-bottom));
 }
 
-.btn {
-  display: inline;
-  padding: 6px 12px;
+// content never hides under the fixed banner (class set by the include's JS)
+body.has-pledge-banner {
+  padding-bottom: 96px; // banner max-height + clearance
+}
+
+// Banner CTA — dark ground, so the ink square inverts at rest (white button,
+// ink text, dimming hover) per the button chapter. Replaced legacy bootstrap
+// .btn/.btn-info/.btn-outline (board fix #4, 2026-06-05).
+.pledge-banner__btn {
+  display: inline-block;
   margin-top: 10px;
-  margin-bottom: 0;
-  font-size: 14px;
-  font-weight: normal;
-  line-height: 1.428571429;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  min-height: 46px;
   text-align: center;
   white-space: nowrap;
-  vertical-align: middle;
+  color: #111;
+  background-color: #fff;
+  border: 1px solid #fff;
+  border-radius: 0;
   cursor: pointer;
-  background-image: none;
-  border: 1px solid transparent;
-  border-radius: 4px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  -o-user-select: none;
-  user-select: none;
-}
-
-.btn-info {
-  color: #fff;
-  background-color: $bg-darker;
-  border-color: #fff;
-}
-
-@media (max-width: 374px) {
-    .btn {
-      display: inline-block;
-      padding: 2px 12px;
-    }
-}
-
-.btn-outline {
-    background-color: transparent;
-    color: inherit;
-    transition: all .5s;
-}
-
-.btn-info.btn-outline {
-    color: #fff;
-}
-
-.btn-info.btn-outline:hover {
-  color: $bg-darker;
-  background-color: $body-bg;
   text-decoration: none;
+  transition: background-color 0.15s ease;
+
+  &:hover {
+    background-color: #cfcfcf; // dims, stays light — #111 would vanish on #222
+    color: #111;
+    text-decoration: none;
+  }
+}
+
+.pledge-drive-bottom p {
+  padding: 25px 5px 5px;
+  margin: 0;
 }
 
 #close {
@@ -464,33 +421,19 @@ footer {
   text-align: center;
   display: block;
   position: absolute;
+  min-width: 44px;
+  min-height: 44px;
+  line-height: 44px;
+  // now a real <button> (page-walk M10) — strip UA chrome
+  background: none;
+  border: none;
+  padding: 0;
+  font-size: 1rem;
+  cursor: pointer;
 }
 
 #close:hover {
   color: $red;
-}
-
-.author-avatar {
-  display: inline-block;
-  width: 150px;
-  height:150px;
-  margin: 25px auto;
-  overflow: hidden;
-  border-radius:50%;
-  position: relative;
-}
-
-.author-image {
-  position: absolute;
-  top:50%;
-  left:50%;
-  transform: translate(-50%,-50%);
-}
-
-.author-box {
-  display: inline-block;
-  vertical-align: top;
-  padding: 1rem;
 }
 
 .post>ul.archive-months {
@@ -590,158 +533,80 @@ div.flex-item ul.package {
   }
 }
 
-/*.flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1em;
-  justify-content: center;
-  width: 100%;
-  max-width: 40rem; // Matches other max-width values in your CSS
+
+// Membership packages — flat ink cards (Law V), whole card is the link
+// NOTE: 2x2 grid chosen for the four packages (plan CSS assumed three) — flagged for Matt
+.pkgs {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
   margin: 0 auto;
 }
 
-.flex-item {
-  flex: 0 1 calc(50% - 1em); // Takes up roughly half the container width minus gap
-  min-width: 200px;
-  margin: 0 !important; // Remove existing margin
+@media (max-width: 700px) {
+  .pkgs {
+    grid-template-columns: 1fr;
+  }
 }
 
-.package {
-  border: none;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  transition: 0.25s;
-  border-radius: 0;
-
-  &:hover {
-    @media (min-width: $medium-breakpoint) {
-      box-shadow: 0 6px 25px 0 rgba(0, 0, 0, 0.25);
-      transform: scale(1.025);
-    }
-  }
-
-  .header {
-    background-color: $bg-dark;
-    color: #fff;
-    font-size: 1em;
-    padding: 2em;
-    text-align: center;
-  }
-
-  li {
-    background-color: $body-bg;
-    border-bottom: 1px solid $border-lighter;
-    padding: 2em;
-    text-align: center;
-  }
-}*/
-
-/*@media (max-width: $medium-breakpoint) {
-  .flex-container {
-    flex-direction: column;
-    gap: 1em;
-  }
-
-  .flex-item {
-    flex: 1 1 100%;
-    margin: 0 0 1em 0 !important;
-    width: 100%;
-
-    &:last-child {
-      margin-bottom: 0 !important;
-    }
-  }
-
-  .package:hover {
-    box-shadow: none;
-    transform: none;
-  }
-}*/
-
-.flex-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1em; // Consistent spacing
-  justify-content: center;
-  width: 100%;
-  max-width: 40rem;
-  margin: 0 auto;
-}
-
-.flex-item {
-  flex: 0 1 calc(50% - 1em);
-  min-width: 200px;
-  margin: 0; // Remove all margins from flex items
-}
-
-.package {
-  background-color: $bg-dark;
+// Action cards (ruled 2026-06-06): the whole card is a link to checkout — an
+// action object, so it takes button SURFACE language (ink fill, square,
+// fill-lighten hover) holding data-display CONTENT (serif price, caps label).
+.pkg {
+  border: 2px solid transparent; // reserves the featured border's box
+  padding: 0; // padding lives on the link so the WHOLE card is clickable (board fix #2)
+  background: $bg-dark; // ink fill — action object, not content surface
   text-align: center;
-  transition: 0.25s;
-  border: 2px solid transparent;
-
-  a {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5em;
-    padding: 1.5em;
-    color: #fff;
-    text-decoration: none;
-
-    &:hover {
-      text-decoration: none;
-      color: #fff;
-    }
-  }
+  transition: background-color 0.15s ease;
 
   &:hover {
-    @media (min-width: $medium-breakpoint) {
-      box-shadow: 0 6px 25px 0 rgba(0, 0, 0, 0.25);
-      transform: scale(1.025);
-    }
-  }
-
-  .price {
-    font-size: 1.2em;
-    font-weight: bold;
-  }
-
-  .label {
-    font-size: 0.8em;
-    color: rgba(255, 255, 255, 0.8);
+    background: #3a3a3a; // action-card hover: lighten, never invert (D1, ratified)
   }
 }
 
-// Featured pricing card (Most Popular)
-.package--featured {
-  border-color: $link-color;
+.pkg--featured {
+  border-color: $red; // crimson emphasis — strongest pairing on ink
 }
 
-// Media Queries
-@media (max-width: $medium-breakpoint) {
-  .flex-container {
-    flex-direction: column;
-    gap: 1em; // Keep the same gap as desktop
+.pkg__label {
+  font-size: .75rem; // label floor (ruling 4)
+  text-transform: uppercase;
+  letter-spacing: .06em; // label role tracking
+  font-weight: 600; // label role weight (board fix #3)
+  color: rgba(255, 255, 255, 0.75); // ~7.5:1 on #333
+}
+
+.pkg__price {
+  font-family: $serif-font-family;
+  font-weight: 700;
+  font-size: 1.65rem; // title stop (P2)
+  color: #fff;
+  margin: .3rem 0 .35rem;
+}
+
+.pkg > a {
+  display: flex;
+  flex-direction: column;
+  gap: .35rem;
+  padding: 1.4rem 1.1rem 1.6rem; // the card's full padding — no dead click zone
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: none;
   }
 
-  .flex-item {
-    flex: 1 1 100%;
-    width: 100%;
-    margin: 0; // Remove all margins
-  }
-
-  .package:hover {
-    box-shadow: none;
-    transform: none;
+  &:focus-visible {
+    outline: 2px solid #fff; // white focus on dark ground (crimson was 2.65:1 on #333)
+    outline-offset: 2px;
   }
 }
+
 
 // Membership FAQ section
 .membership-faq {
   margin-top: 1.5rem;
   border: 1px solid $border-light;
-  border-radius: 4px;
+  border-radius: 0; // square (Law II; page-walk M3)
 
   .faq-header {
     font-size: 0.9rem;
@@ -761,31 +626,14 @@ div.flex-item ul.package {
   }
 }
 
-// Membership CTA button
-.membership-cta {
-  display: inline-block;
-  background: $link-color;
-  color: #fff;
-  padding: 0.75rem 1.5rem;
-  border-radius: 4px;
-  text-decoration: none;
-  font-weight: 500;
-
-  &:hover {
-    background: lighten($link-color, 5%);
-    text-decoration: none;
-    color: #fff;
-  }
-}
-
 // Subscribe box container
 .subscribe-box {
   padding: 1.5rem;
   border: 1px solid $border-light;
-  border-radius: 4px;
+  border-radius: 0;
 
   &__title {
-    font-size: 1.5rem;
+    font-size: 1.65rem; // title stop (P2)
     margin: 0 0 0.75rem;
   }
 
@@ -812,7 +660,7 @@ div.flex-item ul.package {
     padding: 0.75rem 1rem;
     font-size: 1rem;
     border: 1px solid #000;
-    border-radius: 6px;
+    border-radius: 0;
     min-height: 46px;
 
     &:focus {
@@ -826,16 +674,17 @@ div.flex-item ul.package {
     font-size: 1rem;
     font-weight: 600;
     color: #fff;
-    background-color: $link-color;
-    border: none;
-    border-radius: 6px;
+    background-color: #111; // ink square (ruling: CTA wears ink, not alarm red)
+    border: 1px solid #111;
+    border-radius: 0;
     min-height: 46px;
     cursor: pointer;
     white-space: nowrap;
-    transition: background-color 0.15s ease;
+    transition: background-color 0.15s ease, color 0.15s ease;
 
     &:hover {
-      background-color: darken($link-color, 5%);
+      background-color: #fff; // invert — the flat-ink hover
+      color: #111;
     }
   }
 
@@ -882,8 +731,8 @@ div.flex-item ul.package {
 
     em {
       font-style: italic;
-      font-size: 1.05rem;
-      color: $bg-dark;
+      font-size: 1rem; // body stop (P2)
+      color: $gray-5;
       line-height: 1.7;
 
       strong {
@@ -913,7 +762,7 @@ div.flex-item ul.package {
 
 .post-meta__author {
   font-size: 0.9rem;
-  color: $bg-dark;
+  color: $gray-5;
 
   a {
     color: inherit;
@@ -972,21 +821,20 @@ div.flex-item ul.package {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  height: 32px;
+  min-height: 44px;
   padding: 0 0.875rem;
-  font-size: 0.8125rem;
-  font-weight: 500;
-  color: $bg-dark;
+  font-size: 0.8rem; // meta stop (P2)
+  font-weight: 600; // post chrome trigger, light ground (type migration P1, ruling 6)
+  color: $gray-5;
   background: $body-bg;
   border: 1px solid $border-light;
-  border-radius: 100px; // Pill shape
+  border-radius: 0;
   cursor: pointer;
-  transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
+  transition: background-color 0.15s, border-color 0.15s;
 
   &:hover {
     background: $gray-1;
     border-color: $gray-2;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
   }
 
   .icon {
@@ -1000,21 +848,20 @@ div.flex-item ul.package {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 32px;
-  height: 32px;
+  min-width: 44px;
+  min-height: 44px;
   padding: 0;
   color: $text-dim;
   background: $body-bg;
   border: 1px solid $border-light;
-  border-radius: 50%;
+  border-radius: 0;
   cursor: pointer;
-  transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
+  transition: background-color 0.15s, border-color 0.15s;
 
   &:hover {
     background: $gray-1;
     border-color: $gray-2;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-    color: $bg-dark;
+    color: $gray-5;
   }
 
   .icon {
@@ -1033,8 +880,7 @@ div.flex-item ul.package {
   padding: 0.375rem;
   background: $body-bg;
   border: 1px solid $border-light;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 0;
   z-index: 100;
   min-width: 140px;
 
@@ -1058,12 +904,12 @@ div.flex-item ul.package {
     gap: 0.625rem;
     padding: 0.5rem 0.625rem;
     margin: 0;
-    font-size: 0.875rem;
+    font-size: 0.9rem; // secondary stop (P2 chrome snap)
     line-height: 1.2;
-    color: $bg-dark !important;
+    color: $gray-5 !important;
     background: none;
     border: none;
-    border-radius: 4px;
+    border-radius: 0; // square (Law II; page-walk M3)
     cursor: pointer;
     text-decoration: none !important;
     white-space: nowrap;
@@ -1071,7 +917,7 @@ div.flex-item ul.package {
     &:hover {
       background: $gray-1;
       text-decoration: none !important;
-      color: $bg-dark !important;
+      color: $gray-5 !important;
     }
 
     .share-widget__icon {
@@ -1104,21 +950,20 @@ div.flex-item ul.package {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 32px;
-  height: 32px;
+  min-width: 44px;
+  min-height: 44px;
   padding: 0;
   color: $text-dim;
   background: $body-bg;
   border: 1px solid $border-light;
-  border-radius: 50%; // Circle
+  border-radius: 0;
   cursor: pointer;
-  transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
+  transition: background-color 0.15s, border-color 0.15s;
 
   &:hover {
     background: $gray-1;
     border-color: $gray-2;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-    color: $bg-dark;
+    color: $gray-5;
   }
 
   .icon {
@@ -1137,8 +982,7 @@ div.flex-item ul.package {
   padding: 0.375rem;
   background: $body-bg;
   border: 1px solid $border-light;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 0;
   z-index: 100;
   min-width: 180px;
 
@@ -1161,12 +1005,12 @@ div.flex-item ul.package {
     gap: 0.625rem;
     padding: 0.5rem 0.625rem;
     margin: 0;
-    font-size: 0.875rem;
+    font-size: 0.9rem; // secondary stop (P2 chrome snap)
     line-height: 1.2;
-    color: $bg-dark !important;
+    color: $gray-5 !important;
     background: none;
     border: none;
-    border-radius: 4px;
+    border-radius: 0; // square (Law II; page-walk M3)
     cursor: pointer;
     text-decoration: none !important;
     white-space: nowrap;
@@ -1177,7 +1021,7 @@ div.flex-item ul.package {
     &:hover {
       background: $gray-1;
       text-decoration: none !important;
-      color: $bg-dark !important;
+      color: $gray-5 !important;
     }
 
     .more-menu__icon {
@@ -1205,21 +1049,20 @@ div.flex-item ul.package {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  height: 32px;
+  min-height: 44px;
   padding: 0 0.875rem;
-  font-size: 0.8125rem;
-  font-weight: 500;
-  color: $bg-dark;
+  font-size: 0.8rem; // meta stop (P2)
+  font-weight: 600; // post chrome trigger, light ground (type migration P1, ruling 6)
+  color: $gray-5;
   background: $body-bg;
   border: 1px solid $border-light;
-  border-radius: 100px;
+  border-radius: 0;
   cursor: pointer;
-  transition: background-color 0.15s, border-color 0.15s, box-shadow 0.15s;
+  transition: background-color 0.15s, border-color 0.15s;
 
   &:hover {
     background: $gray-1;
     border-color: $gray-2;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
   }
 
   &.is-playing {
@@ -1277,12 +1120,12 @@ div.flex-item ul.package {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 32px;
-  height: 32px;
+  min-width: 44px;
+  min-height: 44px;
   padding: 0;
   background: none;
   border: 1px solid $border-light;
-  border-radius: 50%;
+  border-radius: 0;
   cursor: pointer;
   flex-shrink: 0;
   transition: background-color 0.15s, border-color 0.15s;
@@ -1300,19 +1143,58 @@ div.flex-item ul.package {
 
 .audio-player__progress {
   flex: 1;
-  height: 4px;
-  background: $border-color;
-  border-radius: 2px;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 44px; // touch target (2.5.8) — the visual track stays 2px below
+  background: transparent;
+  border-radius: 0;
   cursor: pointer;
-  position: relative;
+
+  &::-webkit-slider-runnable-track {
+    height: 2px;
+    background: #ccc;
+  }
+
+  &::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 12px;
+    height: 12px;
+    margin-top: -5px; // centers the 12px thumb on the 2px track
+    background: #111;
+    border: 0;
+    border-radius: 0;
+    cursor: pointer;
+  }
+
+  &::-moz-range-track {
+    height: 2px;
+    background: #ccc;
+  }
+
+  &::-moz-range-thumb {
+    width: 12px;
+    height: 12px;
+    background: #111;
+    border: 0;
+    border-radius: 0;
+    cursor: pointer;
+  }
 }
 
-.audio-player__progress-fill {
-  height: 100%;
-  background: $bg-dark;
-  border-radius: 2px;
-  width: 0%;
-  transition: width 0.1s linear;
+// Focus — post chrome controls (real selectors; spec's __option/__item do not exist)
+.share-widget__trigger:focus-visible,
+.share-widget__card a:focus-visible,
+.share-widget__card button:focus-visible,
+.carousel-toggle:focus-visible,
+.more-menu__trigger:focus-visible,
+.more-menu__card a:focus-visible,
+.more-menu__card button:focus-visible,
+.audio-player__trigger:focus-visible,
+.audio-player__playpause:focus-visible,
+.audio-player__progress:focus-visible {
+  outline: 2px solid #e0162b;
+  outline-offset: 2px;
 }
 
 .audio-player__time {
@@ -1334,25 +1216,50 @@ div.flex-item ul.package {
   padding: 1.5rem 0;
   border-top: 1px solid $border-lighter;
 
-  // Target links directly since extlinks filter overwrites classes
-  > a {
+  // Row links (date + headline). Class selectors — these links are INTERNAL,
+  // so the extlinks filter leaves their classes intact (verified in built DOM;
+  // the old "extlinks overwrites classes" comment only applies to external links).
+  > a.historical-posts__item {
     display: grid !important;
     grid-template-columns: 5.5rem 1fr;
     gap: 0.75rem;
     padding: 0.625rem 0;
     text-decoration: none !important;
-    border-bottom: 1px solid #f5f5f5;
-
-    &:last-of-type {
-      border-bottom: none;
-      padding-bottom: 0;
-    }
+    border-bottom: 1px solid $border-lighter; // one hairline token (was #f5f5f5)
 
     &:first-of-type {
       padding-top: 0;
     }
 
     &:hover .historical-posts__headline {
+      color: $link-color;
+    }
+  }
+
+  // Last row: no hairline between it and the see-all link. Positional only for
+  // this nicety — if the template ever drops the see-all link the worst case is
+  // one stray hairline, not a broken row.
+  > a:nth-last-of-type(2) {
+    border-bottom: none;
+    padding-bottom: 0;
+  }
+
+  // The tense break: a slightly larger gap where "years ago" flips to
+  // "years later" (page-walk NICE pile — the mid-list flip was disorienting)
+  > a.historical-posts__item--first-later {
+    margin-top: 0.6rem;
+  }
+
+  // See-all: full-width meta link, escapes the row grid (it was wrapping
+  // inside the 5.5rem date column)
+  > a.historical-posts__see-all {
+    display: block;
+    margin-top: 0.9rem;
+    font-size: 0.9rem;
+    color: $meta-color;
+    text-decoration: none !important;
+
+    &:hover {
       color: $link-color;
     }
   }
@@ -1363,20 +1270,21 @@ div.flex-item ul.package {
   font-size: 0.75rem;
   font-weight: 600;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.06em; // label role tracking
   color: $gray-3;  // WCAG AA compliant
 }
 
 .historical-posts__years {
   font-size: 0.8rem;
+  line-height: 1.4; // meta role
   color: $gray-3;  // WCAG AA compliant
   white-space: nowrap;
 }
 
 .historical-posts__headline {
   font-size: 0.9rem;
-  line-height: 1.35;
-  color: $bg-dark;
+  line-height: 1.5; // secondary role
+  color: $gray-5; // text-ink token (was $bg-dark — a background token as text)
   transition: color 0.15s;
 }
 
@@ -1411,211 +1319,19 @@ div.flex-item ul.package {
 }
 
 
-/*.wtf-plans {
-  max-width: 40rem; // Matching your existing container width
-  margin: 2rem auto;
-  padding: 0 1rem;
-
-  &__intro {
-    h2 {
-      margin: 0 0 .25rem;
-      color: $gray-5; // Your existing color variable
-    }
-  }
-
-  &__grid {
-    display: grid;
-    gap: 1rem;
-    grid-template-columns: repeat(3, minmax(0,1fr));
-    margin-top: 1rem;
-
-    @media (max-width: $medium-breakpoint) {
-      grid-template-columns: 1fr;
-    }
-  }
-}
-
-.plan {
-  background: $body-bg; // Your existing background color
-  border: 1px solid $border-color; // Your existing border color
-  border-radius: 0; // Matching your existing style
-  padding: 1.25rem;
-  position: relative;
-
-  &--featured {
-    border-color: $link-color; // Your existing accent color
-  }
-
-  &__badge {
-    position: absolute;
-    top: .75rem;
-    left: .75rem;
-    font-size: .75rem;
-    padding: .25rem .5rem;
-
-    &--popular {
-      background: $link-color;
-      color: #fff;
-    }
-
-    &--value {
-      background: $link-color;
-      color: #fff;
-    }
-
-    &--subtle {
-      background: $gray-2;
-      color: $gray-5;
-    }
-  }
-
-  &__price {
-    font-size: 2rem;
-    margin: .75rem 0 .25rem;
-    color: $gray-5;
-
-    span {
-      font-size: .9rem;
-      font-weight: 500;
-      color: $gray-3;
-      margin-left: .15rem;
-    }
-  }
-
-  &__bullets {
-    margin: .75rem 0 1rem;
-    padding-left: 1.1rem;
-
-    li {
-      margin: .25rem 0;
-      color: $gray-3;
-      font-size: .8em;
-    }
-  }
-
-  &__cta {
-    display: inline-block;
-    margin: .25rem 0 .5rem;
-    background: $link-color;
-    color: #fff;
-    text-decoration: none;
-    padding: .65rem 1rem;
-    font-size: .8em;
-
-    &:hover {
-      text-decoration: none;
-      opacity: 0.9;
-    }
-  }
-
-  &__impact {
-    margin: .25rem 0 0;
-    font-size: .75em;
-    color: $gray-3;
-  }
-}
-
-.wtf-drawer {
-  margin-top: 1.25rem;
-  border: 1px solid $border-color;
-
-  &__summary {
-    cursor: pointer;
-    list-style: none;
-    padding: .9rem 1rem;
-    font-weight: 500;
-    color: $gray-5;
-    background: $gray-1;
-  }
-
-  &[open] &__summary {
-    border-bottom: 1px solid $border-color;
-  }
-
-  &__content {
-    padding: 1rem;
-  }
-}
-
-.drawer-grid {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(3, minmax(0,1fr));
-
-  @media (max-width: $medium-breakpoint) {
-    grid-template-columns: 1fr;
-  }
-}
-
-.drawer-item {
-  border: 1px solid $border-color;
-  padding: 1rem;
-
-  h4 {
-    margin-top: 0;
-    color: $gray-5;
-    
-    .muted {
-      color: $gray-3;
-    }
-  }
-}
-
-.drawer__cta {
-  display: inline-block;
-  margin-top: .5rem;
-  background: $gray-2;
-  color: $gray-5;
-  text-decoration: none;
-  padding: .55rem .9rem;
-  font-size: .8em;
-
-  &:hover {
-    text-decoration: none;
-    opacity: 0.9;
-  }
-}
-
-.drawer-links {
-  a {
-    color: $link-color;
-    text-decoration: none;
-    margin-right: .5rem;
-    font-size: .8em;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  .sep {
-    margin: 0 .5rem;
-    color: $gray-3;
-  }
-}
-
-.wtf-fineprint {
-  margin: .75rem 0 0;
-  font-size: .75em;
-  color: $gray-3;
-}
-
-.muted {
-  color: $gray-3;
-}*/
 
 // ===========================================
 // Author Page Styles
 // ===========================================
 
 .author-page {
-  max-width: 48rem;
+  max-width: $w-prose; // same column as every other page
   margin: 0 auto;
   padding: 1rem;
 }
 
 .author-section__title {
-  font-size: 1.25rem;
+  font-size: 1.2rem; // heading stop (P2)
   font-weight: 600;
   margin: 0 0 1.5rem;
   padding-bottom: 0.5rem;
@@ -1642,7 +1358,7 @@ div.flex-item ul.package {
 .author-hero__image {
   width: 150px;
   height: 150px;
-  border-radius: 50%;
+  border-radius: 0; // square — the 21% tile is 44px icon chrome only (page-walk M4)
   overflow: hidden;
   flex-shrink: 0;
   margin-bottom: 1.5rem;
@@ -1679,13 +1395,13 @@ div.flex-item ul.package {
   font-size: 1rem;
   color: $gray-3;
   margin: 0 0 1rem;
-  font-weight: 500;
+  font-weight: 700; // page heading — heading roles carry 700 (ruling 2) (type migration P1, ruling 6)
 }
 
 .author-hero__tagline {
   font-size: 1.1rem;
   line-height: 1.5;
-  color: $bg-dark;
+  color: $gray-5;
   margin: 0 0 1.25rem;
 }
 
@@ -1708,6 +1424,7 @@ div.flex-item ul.package {
 
 .author-hero__social {
   display: flex;
+  flex-wrap: wrap; // 8 icons must wrap on narrow phones (mobile audit, 2026-06-06)
   gap: 0.75rem;
   justify-content: center;
 
@@ -1719,11 +1436,11 @@ div.flex-item ul.package {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
+    width: 44px;
+    height: 44px;
+    border-radius: 21%; // tile (Law II) + 44px touch target
     background: $gray-1;
-    color: $bg-dark;
+    color: $gray-5;
     transition: background 0.2s, color 0.2s;
 
     &:hover {
@@ -1745,9 +1462,9 @@ div.flex-item ul.package {
 }
 
 .author-bio__content {
-  font-size: 1.05rem;
+  font-size: 1rem; // body stop (P2)
   line-height: 1.7;
-  color: $bg-dark;
+  color: $gray-5;
 
   p {
     margin: 0 0 1rem;
@@ -1767,7 +1484,7 @@ div.flex-item ul.package {
 
 .author-bio__link {
   font-size: 0.9rem;
-  font-weight: 500;
+  font-weight: 600; // author link chip, light ground (type migration P1, ruling 6)
   color: $link-color;
 
   &:hover {
@@ -1795,32 +1512,15 @@ div.flex-item ul.package {
 .author-proof__outlet {
   padding: 0.5rem 1rem;
   background: $gray-1;
-  border-radius: 4px;
+  border-radius: 0;
   font-size: 0.85rem;
-  font-weight: 500;
+  font-weight: 600; // author outlet chip, light ground (type migration P1, ruling 6)
   color: $gray-4;
 }
 
-// Newsletter CTA
+// Newsletter CTA — uses the standard subscribe module, no divergence
 .author-cta {
   margin: 2rem 0;
-
-  .subscribe-box {
-    background: $gray-1;
-    border: none;
-    border-radius: 8px;
-    padding: 2rem;
-    text-align: center;
-
-    &__title {
-      font-size: 1.5rem;
-      font-weight: 700;
-    }
-
-    .lead {
-      color: $gray-3;
-    }
-  }
 }
 
 // Recent Articles
@@ -1841,12 +1541,12 @@ div.flex-item ul.package {
 .author-posts__item {
   background: $body-bg;
   border: 1px solid $border-lighter;
-  border-radius: 8px;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  border-radius: 0;
+  transition: border-color 0.2s, background-color 0.2s;
 
   &:hover {
-    border-color: $border-light;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    border-color: #1a1a1a; // flat hover — ink border, surface wash
+    background: $gray-1;
   }
 }
 
@@ -1886,16 +1586,19 @@ div.flex-item ul.package {
 .btn {
   display: inline-block;
   padding: 0.75rem 1.5rem;
-  background: #111;
+  background: #111; // ink square — the one button spec (board fix #4)
   color: #fff;
-  font-size: 0.9rem;
-  font-weight: 500;
-  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 600;
+  min-height: 46px;
+  border: 1px solid #111;
+  border-radius: 0;
   text-decoration: none;
-  transition: background 0.2s;
+  transition: background-color 0.15s ease, color 0.15s ease;
 
   &:hover {
-    background: $bg-dark;
+    background: #fff; // invert — the flat-ink hover
+    color: #111;
     text-decoration: none;
   }
 }
@@ -1932,7 +1635,7 @@ div.flex-item ul.package {
   p {
     font-size: 1rem;
     line-height: 1.6;
-    color: $bg-dark;
+    color: $gray-5;
     margin: 0 0 0.75rem;
 
     &::before {
@@ -2024,11 +1727,11 @@ div.flex-item ul.package {
 }
 
 .algolia__result-link {
-  font-size: 1.25rem;
+  font-size: 1.2rem; // heading stop (P2)
   font-weight: bold;
 
   .algolia__result-highlight {
-    background-color: rgba(38, 139, 210, 0.2);
+    background-color: #f6e9e8; // red wash — engineered opaque (was alpha blue; Law I)
   }
 }
 
@@ -2038,9 +1741,9 @@ div.flex-item ul.package {
 
 .algolia__result-text .ais-Highlight {
   font-weight: bold;
-  background-color: rgba(200, 50, 50, 0.15);
+  background-color: #f6e9e8; // red wash — engineered opaque, never alpha-made
   padding: 0.1em 0.2em;
-  border-radius: 2px;
+  border-radius: 0; // square (Law II)
 }
 
 .search-loading,
@@ -2056,141 +1759,28 @@ div.flex-item ul.package {
   padding: 0.75rem 1.5rem;
   margin: 1.5rem 0;
   font-family: inherit;
-  font-size: 0.9rem;
-  color: $gray-4;
-  background: $gray-1;
-  border: 1px solid $border-light;
-  border-radius: 4px;
+  font-size: 1rem; // one button spec (board fix #4)
+  font-weight: 600;
+  min-height: 46px;
+  color: #fff;
+  background: #111; // ink square
+  border: 1px solid #111;
+  border-radius: 0;
   cursor: pointer;
-  transition: background-color 0.15s ease, border-color 0.15s ease;
+  transition: background-color 0.15s ease, color 0.15s ease;
 
   &:hover {
-    background: $border-lighter;
-    border-color: $gray-2;
+    background: #fff; // invert — the flat-ink hover
+    color: #111;
   }
 
   &:active {
-    background: $border-color;
+    background: #cfcfcf;
+    color: #111;
   }
 }
 
-// Mailchimp embed form (self-hosted, was external CSS)
-#mc_embed_signup {
-  background: $body-bg;
-  clear: left;
-  font: 14px Helvetica, Arial, sans-serif;
-  width: 100%;
+// Mailchimp embed form: DELETED 2026-06-05 (board fix #4) — dead code, no
+// template references #mc_embed_signup; the live form is _includes/email.html.
 
-  form {
-    text-align: center;
-    padding: 10px 0;
-  }
-
-  .mc-field-group {
-    display: inline-block;
-  }
-
-  input.email {
-    font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;
-    font-size: 15px;
-    border: 1px solid #ABB0B2;
-    border-radius: 3px;
-    color: #343434;
-    background-color: $body-bg;
-    box-sizing: border-box;
-    height: 32px;
-    padding: 0 0.4em;
-    display: inline-block;
-    margin: 0;
-    width: 350px;
-    vertical-align: top;
-  }
-
-  label {
-    display: block;
-    font-size: 16px;
-    padding-bottom: 10px;
-    font-weight: bold;
-  }
-
-  .clear {
-    display: inline-block;
-  }
-
-  .button {
-    font-size: 13px;
-    border: none;
-    border-radius: 3px;
-    letter-spacing: 0.03em;
-    color: #fff;
-    background-color: #aaa;
-    box-sizing: border-box;
-    height: 32px;
-    line-height: 32px;
-    padding: 0 18px;
-    display: inline-block;
-    margin: 0;
-    transition: all 0.23s ease-in-out;
-
-    &:hover {
-      background-color: #777;
-      cursor: pointer;
-    }
-  }
-
-  div#mce-responses {
-    float: left;
-    top: -1.4em;
-    padding: 0 0.5em;
-    overflow: hidden;
-    width: 90%;
-    margin: 0 5%;
-    clear: both;
-  }
-
-  div.response {
-    margin: 1em 0;
-    padding: 1em 0.5em 0.5em 0;
-    font-weight: bold;
-    float: left;
-    top: -1.5em;
-    z-index: 1;
-    width: 80%;
-  }
-
-  #mce-error-response {
-    display: none;
-  }
-
-  #mce-success-response {
-    color: #529214;
-    display: none;
-  }
-
-  label.error {
-    display: block;
-    float: none;
-    width: auto;
-    margin-left: 1.05em;
-    text-align: left;
-    padding: 0.5em 0;
-  }
-
-  @media (max-width: 768px) {
-    input.email {
-      width: 100%;
-      margin-bottom: 5px;
-    }
-
-    .clear {
-      display: block;
-      width: 100%;
-    }
-
-    .button {
-      width: 100%;
-      margin: 0;
-    }
-  }
-}
 

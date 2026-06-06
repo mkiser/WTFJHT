@@ -1,0 +1,255 @@
+// Corrections log (/corrections/, /corrections/<year>/)
+//
+// Reads as a LOG, not editorial prose (owner direction, 2026-06-05):
+//  - month dividers = label role on a hairline (quiet ledger rules)
+//  - each row = mono date stamp (data role) + post link + gap, then the diff
+//    as quoted matter — the blockquote grammar (0.95em of prose, muted ink,
+//    a sanctioned em per Ch. 11)
+//  - <s> rides browser defaults (Ch. 9); <mark> styling is GLOBAL (_base.scss
+//    carries the wash + inset-underscore non-color cue) — no override here
+//  - stacked blocks = callout tiers: before marked (ink rule), after alarm
+//    (surface + 3px crimson, the alarm sanctioned for corrections, Ch. 18)
+//  - year index = typographic list, mono counts (Ch. 23); no pills (Ch. 18)
+// Board-review fixes 2026-06-05: hairlines use --c-line (Ch. 4), labels wear
+// --c-meta on white (Ch. 4), alarm rule is --c-link crimson not accent (Ch. 4),
+// links underline + focus ring (Ch. 15), inline counts obey the em law (Ch. 11).
+
+.correction {
+  // prose anchor: the em-based quoted matter below sizes against this
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.1rem;
+  line-height: $line-height-prose; // tracks prose (1.62) — was hardcoded 1.58 (board catch 2026-06-06)
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--c-line);
+
+  &:last-of-type {
+    border-bottom: 0;
+  }
+
+  &__head {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0 0.6rem;
+  }
+
+  &__stamp {
+    font-family: Menlo, Monaco, "Courier New", monospace;
+    font-size: 0.85rem;
+    font-variant-numeric: tabular-nums;
+    color: var(--c-ink);
+  }
+
+  &__post {
+    color: var(--c-ink-medium);
+  }
+
+}
+
+// links speak link (Ch. 15): underlined muted ink, crimson hover, focus ring.
+// Size + color set explicitly — global content-link rules otherwise win
+// specificity and render the day link big and crimson (board follow-up).
+a.correction__post {
+  font-size: 0.85rem;
+  color: var(--c-ink-medium);
+  text-decoration: underline;
+  text-decoration-color: var(--c-line-strong);
+  text-underline-offset: 0.2em;
+
+  &:hover {
+    color: var(--c-link);
+    text-decoration-color: currentColor;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--c-focus);
+    outline-offset: 2px;
+  }
+}
+
+.correction {
+
+  // quoted matter — blockquote grammar: 0.95em of prose, muted ink (Ch. 9/11)
+  &__change {
+    font-size: 0.95em;
+    line-height: 1.5;
+    color: var(--c-ink-medium);
+    margin: 0.4rem 0 0;
+
+    // The global mark (search-highlight) carries a crimson underscore that
+    // reads as a hyperlink here. In the diff context the non-color cue is a
+    // DASHED underline (distinct from solid link underlines); AT users get
+    // the sr-only "now:" label instead.
+    mark {
+      box-shadow: none;
+      text-decoration: underline dashed var(--c-red-tint);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 0.18em;
+    }
+
+    &--links {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 0.8rem;
+      color: var(--c-meta);
+    }
+  }
+
+  &__label {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--c-meta);
+    margin: 0.5rem 0 0.2rem;
+  }
+
+  &__block {
+    background: var(--c-surface);
+    border-left: 3px solid var(--c-ink);       // marked tier (Ch. 18)
+    padding: 0.45rem 0.7rem;
+    font-size: 0.95em;                          // blockquote grammar, not a tenth role
+    line-height: 1.5;
+    color: var(--c-ink-medium);
+
+    &--after {
+      border-left-color: var(--c-link);        // the alarm crimson (Ch. 4/18)
+    }
+  }
+}
+
+.corrections {
+  &__intro {
+    color: var(--c-ink-medium); // blockquote-muted ink (Ch. 9)
+  }
+
+  // month divider — label role on a hairline; deliberately quieter than the
+  // h2->title mapping (Ch. 9): owner direction is a log, not competing heads
+  &__month {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--c-meta);
+    margin: 2.25rem 0 0.1rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 1px solid var(--c-line);
+
+    &:first-of-type {
+      margin-top: 1rem;
+    }
+  }
+
+  &__year-list {
+    list-style: none;
+    margin: 0.5rem 0 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+
+    li {
+      padding: 0.3rem 0;
+    }
+
+    a {
+      // the year token — matches the archive's year grammar (ink-strong 600,
+      // underline arrives on hover); page-walk NICE pile unification
+      color: var(--c-ink-strong);
+      font-weight: 600;
+      text-decoration: none;
+
+      &:hover {
+        color: var(--c-link);
+        text-decoration: underline;
+        text-underline-offset: 0.2em;
+      }
+
+      &:focus-visible {
+        outline: 2px solid var(--c-focus);
+        outline-offset: 2px;
+      }
+    }
+  }
+
+  &__count {
+    font-family: Menlo, Monaco, "Courier New", monospace;
+    font-size: max(0.85em, 0.8rem);             // inline data role — the em law (Ch. 11)
+    font-variant-numeric: tabular-nums;
+    color: var(--c-meta);
+    margin-left: 0.35rem;
+  }
+
+  &__back {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    font-size: 0.9rem;
+    margin-top: 1.5rem;
+  }
+}
+
+// ── Cascade armor ────────────────────────────────────────────────────────
+// _posts.scss styles `.page p` (margins, loose line-height) and
+// `.page p a:not(.anchorjs-link)` (crimson link-underline mixin) at (0,2,2),
+// which outranks bare BEM classes. Mirror those selectors at equal/higher
+// specificity — corrections imports last, so ties resolve here.
+.page p.correction__head {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.page p.correction__change {
+  font-size: 0.95em;
+  line-height: 1.5;
+  margin: 0.4rem 0 0;
+}
+
+.page p.correction__label {
+  font-size: 0.75rem;
+  line-height: 1.25;
+  margin: 0.5rem 0 0.2rem;
+}
+
+.page p a.correction__post {
+  font-size: 0.85rem;
+  color: var(--c-ink-medium);
+  text-decoration: underline;
+  text-decoration-color: var(--c-line-strong);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+
+  &:hover {
+    color: var(--c-link);
+    text-decoration-color: currentColor;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--c-focus);
+    outline-offset: 2px;
+  }
+}
+
+// "view this change" — links the exact diff on GitHub (quiet meta furniture)
+.page p a.correction__commit {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  color: var(--c-meta);
+  text-decoration: underline;
+  text-decoration-color: var(--c-line-strong);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+
+  &:hover {
+    color: var(--c-link);
+    text-decoration-color: currentColor;
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--c-focus);
+    outline-offset: 2px;
+  }
+}

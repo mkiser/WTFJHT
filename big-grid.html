@@ -14,6 +14,9 @@ image:
   <p class="lead">A visualized history of the {{ site.posts | size | number_with_commas }} WTFJHT posts since launching {{ site.time | date: "%Y" | minus: 2017 | plus: 0 }}+ years ago on Jan. 20, 2017.</p>
 </div>
 
+  <noscript><p class="message">The Big Grid is drawn in your browser and needs JavaScript.
+    Browse the same history at <a href="/archive/">the archive</a>.</p></noscript>
+
   <div class="calendar-legend">
     <span class="legend-item"><span class="legend-box legend-filled"></span> Post</span>
     <span class="legend-item"><span class="legend-box legend-empty"></span> No post</span>
@@ -206,10 +209,10 @@ image:
         if (day.outside) {
           // transparent
         } else if (day.hasPost) {
-          ctx.fillStyle = '#e74c3c';
+          ctx.fillStyle = '#e0162b';
           ctx.fillRect(x, y, cellWidth, Math.max(1, cellHeight - 0.5 * scale));
         } else {
-          ctx.fillStyle = '#e5e5e5';
+          ctx.fillStyle = '#eceef0';
           ctx.fillRect(x, y, cellWidth, Math.max(1, cellHeight - 0.5 * scale));
         }
       });

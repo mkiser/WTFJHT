@@ -1,0 +1,8 @@
+{%- comment -%}
+  Renders a tag slug's display name. Overrides live in _data/tag_display.yml
+  (acronyms like LGBTQ, small words like "of the"); everything else falls back
+  to capitalizing each hyphen-separated word. Usage:
+    {% capture tag_display %}{% include tag-name.html tag=tag_name %}{% endcapture %}
+{%- endcomment -%}
+{%- assign tag_name_override = site.data.tag_display[include.tag] -%}
+{%- if tag_name_override -%}{{ tag_name_override }}{%- else -%}{%- assign tag_words = include.tag | split: '-' -%}{%- assign capitalized_words = '' | split: '' -%}{%- for word in tag_words -%}{%- assign cap_word = word | capitalize -%}{%- assign capitalized_words = capitalized_words | push: cap_word -%}{%- endfor -%}{{ capitalized_words | join: ' ' }}{%- endif -%}

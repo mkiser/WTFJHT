@@ -3,9 +3,8 @@
 // ==========================================================================
 
 .dashboard-section {
-  background-color: rgba(49, 49, 49, 0.03);
-  padding: 1.5rem 1rem;
-  margin: 1.5rem 0;
+  // one box deep: sections are marked by heading + rule, never by a container
+  margin: 2.5rem 0;
 
   h2 {
     margin-top: 0;
@@ -25,17 +24,7 @@
 .counter-card {
   background: $body-bg;
   padding: 1rem;
-  border-left: 4px solid $red;
-  transition: box-shadow 0.25s;
-
-  &:hover {
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  }
-
-  &.trump { border-left-color: $red; }
-  &.biden { border-left-color: $blue; }
-  &.election { border-left-color: $green; }
-  &.wtf { border-left-color: $gray-5; }
+  border: 1px solid #e5e5e5; // flat card on the page ground (one box deep)
 }
 
 .counter-number {
@@ -48,7 +37,7 @@
 
 .counter-label {
   color: $gray-3;
-  font-size: 0.8em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   margin-top: 0.5rem;
   display: block;
 
@@ -64,7 +53,7 @@
 }
 
 .counter-meta {
-  font-size: 0.75em;
+  font-size: 0.75rem; // label stop (P2 em retirement)
   color: $gray-4;
   font-style: italic;
   margin-top: 0.5rem;
@@ -75,7 +64,7 @@
   width: 100%;
   height: 6px;
   background: $gray-1;
-  border-radius: 3px;
+  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
   margin-top: 0.75rem;
   overflow: hidden;
 }
@@ -85,8 +74,8 @@
   background: $red;
   transition: width 0.3s ease;
 
-  &.biden { background: $blue; }
-  &.election { background: $green; }
+  &.biden { background: #0052a5; }     // Law I blue
+  &.election { background: #64707a; }  // neutral axis gray
 }
 
 // Mobile

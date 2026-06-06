@@ -2,28 +2,15 @@
 <html lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <!--
-     __    __ _           _     _____ _              ___           _     
-    / / /\ \ \ |__   __ _| |_  /__   \ |__   ___    / __\   _  ___| | __ 
-    \ \/  \/ / '_ \ / _` | __|   / /\/ '_ \ / _ \  / _\| | | |/ __| |/ / 
-     \  /\  /| | | | (_| | |_   / /  | | | |  __/ / /  | |_| | (__|   <  
-      \/  \/ |_| |_|\__,_|\__|  \/   |_| |_|\___| \/    \__,_|\___|_|\_\ 
-                                                                         
-       __            _                                                 _ 
-       \ \ _   _ ___| |_    /\  /\__ _ _ __  _ __   ___ _ __   ___  __| |
-        \ \ | | / __| __|  / /_/ / _` | '_ \| '_ \ / _ \ '_ \ / _ \/ _` |
-     /\_/ / |_| \__ \ |_  / __  / (_| | |_) | |_) |  __/ | | |  __/ (_| |
-     \___/ \__,_|___/\__| \/ /_/ \__,_| .__/| .__/ \___|_| |_|\___|\__,_|
-                                      |_|   |_|                          
-     _____          _             ___                                    
-    /__   \___   __| | __ _ _   _/ _ \                                   
-      / /\/ _ \ / _` |/ _` | | | \// /                                   
-     / / | (_) | (_| | (_| | |_| | \/                                    
-     \/   \___/ \__,_|\__,_|\__, | ()                                    
-                            |___/                                        
-    -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#000000">
+    <meta name="color-scheme" content="light">
+    {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
+    <!-- AnchorJS styles, pre-supplied WITHOUT its embedded icon font: the library
+         only injects its own <style> (incl. @font-face) if style.anchorjs is absent.
+         Icon is a text glyph via data-anchorjs-icon, so it never enters textContent
+         (share cards, selection copy stay clean). -->
+    <style class="anchorjs">.anchorjs-link{opacity:0;text-decoration:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*:hover>.anchorjs-link,.anchorjs-link:focus{opacity:1}[data-anchorjs-icon]::after{content:attr(data-anchorjs-icon)}</style>
     <meta name="apple-mobile-web-app-title" content="WTFJHT" />
 
     <!-- Preconnect to external origins for faster resource loading -->
@@ -150,11 +137,10 @@
             <a href="{{ site.url }}{{ site.baseurl }}/" class="nav-home" aria-label="WTF Just Happened Today Home">
               <img src="{{ site.url }}{{ site.baseurl }}/favicon.svg?v=3" alt="WTFJHT" class="nav-logo" width="32" height="32">
             </a>
-            <span class="nav-quick">
-              <a href="{{ site.posts.first.url | relative_url }}">Latest</a>
-              <span class="nav-quick__sep">·</span>
-              <a href="{{ site.posts[1].url | relative_url }}">Previous</a>
-            </span>
+            <ul class="nav-quick">
+              <li><a href="{{ site.posts.first.url | relative_url }}">Latest</a></li>
+              <li><a href="{{ site.posts[1].url | relative_url }}">Previous</a></li>
+            </ul>
           </div>
 
           <ul class="nav-links" role="list">
@@ -166,14 +152,12 @@
       </nav>
 
       <header class="masthead">
-        <h2 class="masthead-title">
+        <p class="masthead-title">
           <a href="{{ site.url }}{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a>
-        </h2>
+        </p>
         <p class="masthead-description">{{ site.description }}</p>
         <p class="masthead-meta">
           Curated by <a href="{{ site.url }}{{ site.baseurl }}/author/matt-kiser/">Matt Kiser</a>
-          <!-- <span class="meta-separator">·</span>
-          <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%b %-d, %Y" }}</time> -->
         </p>
 
         <div class="wtf-search" role="search">
@@ -189,7 +173,6 @@
       {% if site.is_doomsday_counter == true %}{% include_cached doomsday.html date="Jan 31, 2026 00:00:00 -0500" %}{% endif %}
 
       <main id="main-content">
-        <!-- ALGOLIA -->
         <div class="wtf-search-results">
           <div class="algolia__search-content js-algolia__search-content">
             <h2 class="search-results__title">Search Results</h2>
@@ -200,13 +183,12 @@
         <div class="algolia__initial-content js-algolia__initial-content">
           {{ content }}
         </div>
-        <!-- END ALGOLIA -->
       </main>
       <footer class="footer">
         <section class="ft-subscribe">
-          <h3 class="ft-subscribe__title">A political newsletter for normal people</h3>
+          <h3 class="ft-subscribe__title">A political newsletter for normal people.</h3>
           <p class="ft-subscribe__desc">A sane, once-a-day newsletter helping normal people make sense of the news. </p>
-          {% include email.html %}
+          {% include email.html id_suffix="-ft" %}
         </section>
 
         <section class="ft-main">
@@ -271,7 +253,7 @@
 
         <section class="ft-legal">
           <p>
-            <a href="#" onclick="randomPost(); return false;" class="easter-egg" aria-label="Random post">©</a>
+            <a href="{{ site.url }}{{ site.baseurl }}/archive/" id="random-post-link" class="easter-egg" aria-label="Random post">©</a>
             <a href="{{ site.url }}{{ site.baseurl }}/about/">WTF Just Happened? LLC</a>
             · Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>
             · <a href="{{ site.url }}{{ site.baseurl }}/license/">License</a>
@@ -295,10 +277,13 @@
       {% endif %}
       {% if page.layout == 'post' or page.url == '/' %}
       <!-- POST-ONLY SCRIPTS -->
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js" defer></script>
+      {% if site.is_doomsday_counter == true %}<script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js?v={{ site.time | date: '%s' }}" defer></script>{% endif %}
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/carousel.js" defer></script>
       {% endif %}
-      {% if page.podcast.file %}
+      {% if page.podcast.file and page.podcast.file != '' %}
+      {% comment %} the != '' matters: _config.yml defaults give every post
+         podcast.file: '' and empty string is truthy in Liquid — audiojs was
+         loading on every post (page-walk NICE pile) {% endcomment %}
       <!-- AUDIO PLAYER -->
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js" defer></script>
       <script>
@@ -319,7 +304,8 @@
             anchors.options = {
               placement: 'left',
               visible: 'hover',
-              truncate: "36"
+              truncate: "36",
+              icon: '\u00a7'
             };
             anchors.add('.post-content > p, .post > p, .post li, .post blockquote p, .post-content h3');
             anchors.remove('.post ol li, div.post.archive p.archive-year, div.post.archive ul.archive-months li, .tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
@@ -481,7 +467,8 @@
             anchors.options = {
               placement: 'left',
               visible: 'hover',
-              truncate: "36"
+              truncate: "36",
+              icon: '\u00a7'
             };
             anchors.add('.page > p > strong, .page > p > small > strong, .page h3 > em');
             anchors.remove('.tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
@@ -615,6 +602,12 @@
         if (e.key === 'Escape') closeAllCards();
       });
 
+      // Random post (footer easter egg); falls back to /archive/ if the JS failed to load
+      var rnd = document.getElementById('random-post-link');
+      if (rnd) rnd.addEventListener('click', function (e) {
+        if (typeof randomPost === 'function') { e.preventDefault(); randomPost(); }
+      });
+
     })();
     </script>
 
@@ -658,13 +651,4 @@
     </script>
 
   </body>
-<!--  
-         _    _ ___________ ___ _   _ _____ 
-   ____ | |  | |_   _|  ___|_  | | | |_   _|
-  / __ \| |  | | | | | |_    | | |_| | | |  
- / / _` | |/\| | | | |  _|   | |  _  | | |  
-| | (_| \  /\  / | | | | /\__/ / | | | | |  
- \ \__,_|\/  \/  \_/ \_| \____/\_| |_/ \_/  
-  \____/                                                                       
--->
 </html>

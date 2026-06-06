@@ -78,17 +78,19 @@ redirect_from:
       var prev = null;
       data.years.forEach(function(y) {
         var pct = s.yearly[y.year] || 0;
-        var cls = '';
+        var cls = '', arrow = '';
         if (prev !== null && Math.abs(pct - prev) > 1.5) {
-          cls = pct > prev ? ' class="trend-up"' : ' class="trend-down"';
+          // arrow carries direction for color-blind readers (WCAG 1.4.1)
+          if (pct > prev) { cls = ' class="trend-up"'; arrow = '<span aria-hidden="true">\u25b4</span><span class="sr-only">up </span>'; }
+          else { cls = ' class="trend-down"'; arrow = '<span aria-hidden="true">\u25be</span><span class="sr-only">down </span>'; }
         }
-        html += '<td' + cls + '>' + pct.toFixed(1) + '</td>';
+        html += '<td' + cls + '>' + arrow + pct.toFixed(1) + '</td>';
         prev = pct;
       });
       html += '</tr>';
     });
     html += '</tbody></table></div>';
-    html += '<div class="trends-legend"><span class="legend-item"><span class="legend-dot up"></span> Up &gt;1.5 pts from prior year</span><span class="legend-item"><span class="legend-dot down"></span> Down &gt;1.5 pts from prior year</span></div></div>';
+    html += '<div class="trends-legend"><span class="legend-item"><span class="legend-dot up" aria-hidden="true"></span> \u25b4 Up &gt;1.5 pts from prior year</span><span class="legend-item"><span class="legend-dot down" aria-hidden="true"></span> \u25be Down &gt;1.5 pts from prior year</span></div></div>';
 
     // Footer
     html += '<div class="leaderboard-footer">Sparklines show each source\'s share of links from 2017 to present, normalized to their own range to highlight the trend shape. Data is updated after every new edition of WTFJHT. Social media, Wikipedia, and other non-news sites are excluded.</div>';

@@ -28,7 +28,7 @@ image:
           {%- assign monthYear = month.posts[0].date | date:"%Y" -%}
           {%- assign yearYear = year.posts[0].date | date:"%Y" -%}
           {%- if monthYear == yearYear -%}
-            {%- unless first_month -%}<span class="browse-archive__sep"> · </span>{%- endunless -%}
+            {%- unless first_month -%}<span class="browse-archive__sep" aria-hidden="true"> · </span>{%- endunless -%}
             <a href="{{ month.url }}" class="browse-archive__month">{{ month.posts[0].date | date:"%b" }}</a>
             {%- assign first_month = false -%}
           {%- endif -%}
@@ -45,13 +45,7 @@ image:
       {% for tag in sorted_tags %}
         {% assign tag_name = tag[0] %}
         {% assign tag_posts = tag[1] %}
-        {% assign tag_words = tag_name | split: '-' %}
-        {% assign capitalized_words = '' | split: '' %}
-        {% for word in tag_words %}
-          {% assign cap_word = word | capitalize %}
-          {% assign capitalized_words = capitalized_words | push: cap_word %}
-        {% endfor %}
-        {% assign tag_display = capitalized_words | join: ' ' %}
+        {% capture tag_display %}{% include tag-name.html tag=tag_name %}{% endcapture %}
         <li class="browse-archive__tag">
           <a href="/tags/{{ tag_name }}/">{{ tag_display }} <span class="browse-archive__tag-count">{{ tag_posts | size }}</span></a>
         </li>

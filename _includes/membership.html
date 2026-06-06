@@ -1,19 +1,29 @@
 <div class="pledge-drive-bottom" id="pledgedrive">
-	<span id="close">&#10006;</span>
-	<center>
-		<div>
-			<p style="padding: 25px 5px 5px 5px;">🔥 Limited Edition WTFJHT T-shirts Are Back! Get yours today and resist the shock and awe in style.</p>
+	<button id="close" type="button" aria-label="Dismiss this banner">&#10006;</button>
+	<div class="t-center">
+		<p>🔥 Limited Edition WTFJHT T-shirts Are Back! Get yours today and resist the shock and awe in style.</p>
 
-<!-- 			<a href="{{ site.url }}{{ site.baseurl }}/membership" class="btn btn-info btn-outline">Become a member</a> -->
-			<a href="https://cottonbureau.com/stores/wtf-just-happened-today#/shop" target="_blank" class="btn btn-info btn-outline">Get yours today!</a>
-		</div>
-	</center>
+<!-- 			<a href="{{ site.url }}{{ site.baseurl }}/membership" class="pledge-banner__btn">Become a member</a> -->
+		<a href="https://cottonbureau.com/stores/wtf-just-happened-today#/shop" target="_blank" class="pledge-banner__btn">Get yours today!</a>
+	</div>
 	<script>
-	window.onload = function(){
-	    document.getElementById('close').onclick = function(){
-	        this.parentNode.remove(this.parentNode);
-	        return false;
-	    };
-	};
+	(function() {
+		// Dismissal persists (page-walk M10); key includes a campaign slug so a
+		// future banner shows again. localStorage can throw in private browsing.
+		var KEY = 'wtfjht-pledge-dismissed-tshirts-2026';
+		var banner = document.getElementById('pledgedrive');
+		var dismissed = false;
+		try { dismissed = localStorage.getItem(KEY) === '1'; } catch (e) {}
+		if (dismissed) {
+			banner.parentNode.removeChild(banner);
+			return;
+		}
+		document.body.classList.add('has-pledge-banner');
+		document.getElementById('close').addEventListener('click', function() {
+			try { localStorage.setItem(KEY, '1'); } catch (e) {}
+			banner.parentNode.removeChild(banner);
+			document.body.classList.remove('has-pledge-banner');
+		});
+	})();
 	</script>
 </div>

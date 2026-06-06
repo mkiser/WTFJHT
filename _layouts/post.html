@@ -2,13 +2,14 @@
 layout: default
 ---
 
+{% assign tios_stripped = page.todayInOneSentence | strip %}
 <article class="post"
   data-carousel-day="{{ page.title | remove: 'Day ' }}"
   data-carousel-desc="{{ page.description | smartify | xml_escape }}"
   data-carousel-date="{{ page.date | date: '%b %-d, %Y' }}"
   data-carousel-midterms="{{ site.data.dashboard.dates.midterms_2026 }}"
   data-carousel-presidential="{{ site.data.dashboard.dates.presidential_2028 }}"
-  {% if page.todayInOneSentence and page.todayInOneSentence != '' %}data-carousel-tios="{{ page.todayInOneSentence | smartify | xml_escape }}"{% endif %}>
+  {% if tios_stripped and tios_stripped != '' %}data-carousel-tios="{{ page.todayInOneSentence | smartify | xml_escape }}"{% endif %}>
  {% if site.is_away_mode == true %}
  {% include away_mode.html %}
  {% endif %}
@@ -54,7 +55,7 @@ layout: default
             <span class="more-menu__icon">{% include_cached icons.html icon="history" %}</span>
             <span class="more-menu__label">Revision history</span>
           </a>
-          {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
+          {% if tios_stripped and tios_stripped != '' %}
           <button type="button" class="more-menu__option" data-action="open-tios">
             <span class="more-menu__icon">{% include_cached icons.html icon="cards" %}</span>
             <span class="more-menu__label">Today in One Sentence</span>
@@ -66,31 +67,13 @@ layout: default
   </div>
   {% include audio-player-bar.html podcast_file=page.podcast.file %}
   <hr>
-  {% comment %}
-
-    <!--
-     {% assign episodes = site.podcasts | reverse %}
-     {% assign ep = episodes | where: 'post', page.title | first %}
-     {% if ep %}
-    
-  
-      <div class="pod">
-        <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
-      </div>
-      <small class="post-date pod-subscribe" style="margin-top: -2em; color: #9a9a9a;">
-        Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3?si=3bkunuqCT2-GltqAEhX9pA">Spotify</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aGF0dGhlZnVja2p1c3RoYXBwZW5lZHRvZGF5LmNvbS9wb2RjYXN0cy9pbmRleC54bWw">Google Podcast</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
-      </small>
-    
-    {% endif %}
-  -->
-  {% endcomment %}
   <div class="post-content">
-    {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
-    <div class="tios">
+    {% if tios_stripped and tios_stripped != '' %}
+    <p class="tios">
       <span class="tios__title"><span class="tios__prefix">Today in </span><strong>One Sentence</strong><span class="tios__dot">.</span></span>
       <span class="tios__divider"></span>
-      {% assign tios_raw = page.todayInOneSentence | smartify | strip %}{% assign tios_last = tios_raw | slice: -1 %}{% if tios_last == '.' %}{% assign tios_len = tios_raw.size | minus: 1 %}{% assign tios_text = tios_raw | truncate: tios_len, '' | replace: '; ', ' <span class="tios__pilcrow">¶</span> ' %}{% else %}{% assign tios_text = tios_raw | replace: '; ', ' <span class="tios__pilcrow">¶</span> ' %}{% endif %}<span class="tios__body">{{ tios_text }}<span class="tios__dot">.</span></span>
-    </div>
+      {% assign tios_raw = page.todayInOneSentence | smartify | strip %}{% assign tios_last = tios_raw | slice: -1 %}{% if tios_last == '.' %}{% assign tios_len = tios_raw.size | minus: 1 %}{% assign tios_text = tios_raw | truncate: tios_len, '' | replace: '; ', '<span class="sr-only">; </span> <span class="tios__pilcrow" aria-hidden="true">¶</span> ' %}{% else %}{% assign tios_text = tios_raw | replace: '; ', '<span class="sr-only">; </span> <span class="tios__pilcrow" aria-hidden="true">¶</span> ' %}{% endif %}<span class="tios__body">{{ tios_text }}<span class="tios__dot">.</span></span>
+    </p>
     <hr>
     {% endif %}
 
@@ -100,13 +83,7 @@ layout: default
   {% if page.tags and page.tags.size > 0 %}
   <div class="post-tags">
     {% for tag in page.tags %}
-      {% assign tag_words = tag | split: '-' %}
-      {% assign capitalized_words = '' | split: '' %}
-      {% for word in tag_words %}
-        {% assign cap_word = word | capitalize %}
-        {% assign capitalized_words = capitalized_words | push: cap_word %}
-      {% endfor %}
-      {% assign tag_display = capitalized_words | join: ' ' %}
+      {% capture tag_display %}{% include tag-name.html tag=tag %}{% endcapture %}
     <a href="/tags/{{ tag }}/" class="post-tag">{{ tag_display }}</a>
     {% endfor %}
   </div>
@@ -117,13 +94,15 @@ layout: default
   {% if page.on_this_day_links and page.on_this_day_links.size > 0 %}
   <div class="historical-posts" data-on-this-day='{{ page.on_this_day_links | jsonify | xml_escape }}'>
     <h3 class="historical-posts__title">On this day</h3>
+    {% assign otd_prev_dir = '' %}
     {% for link in page.on_this_day_links %}
-      <a href="{{ link.url | absolute_url }}" class="historical-posts__item">
+      <a href="{{ link.url | absolute_url }}" class="historical-posts__item{% if link.direction == 'later' and otd_prev_dir == 'ago' %} historical-posts__item--first-later{% endif %}">
         <span class="historical-posts__years">
-          {% if link.direction == "ago" %}{% if link.years_ago == 1 %}1 year ago{% else %}{{ link.years_ago }} years ago{% endif %}{% elsif link.direction == "later" %}{% assign abs_years = link.years_ago | times: -1 %}{% if abs_years == 1 %}1 year later{% else %}{{ abs_years }} years later{% endif %}{% endif %}
+          {% if link.direction == "ago" %}{% if link.years_ago == 1 %}1 year ago{% else %}{{ link.years_ago }} years ago{% endif %}{% elsif link.direction == "later" %}{% assign abs_years = link.years_ago | times: -1 %}{% if abs_years == 1 %}1 year later{% else %}{{ abs_years }} years later{% endif %}{% else %}{{ link.years_ago | abs }} years{% endif %}
         </span>
         <span class="historical-posts__headline">{{ link.title }}: {{ link.desc }}</span>
       </a>
+      {% assign otd_prev_dir = link.direction %}
     {% endfor %}
     {% assign month_name = page.date | date: "%B" | downcase %}{% assign day_num = page.date | date: "%-d" %}
     <a href="/on-this-day/{{ month_name }}-{{ day_num }}/" class="historical-posts__see-all">See all {{ page.date | date: "%B" }} {{ day_num }} posts &rarr;</a>

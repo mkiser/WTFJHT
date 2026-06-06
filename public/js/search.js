@@ -88,6 +88,7 @@
     worker.onerror = function(err) {
       console.error('Search worker failed:', err);
       isLoading = false;
+      showSearchError();
     };
 
     // Load index and send to worker
@@ -98,6 +99,7 @@
       .catch(function(err) {
         console.error('Search: Failed to load index', err);
         isLoading = false;
+        showSearchError();
       });
   }
 
@@ -216,6 +218,13 @@
     }
   }
 
+  // Visible failure state — never strand readers on "Loading search..."
+  // (page-walk M9; placeholder copy, Matt may reword)
+  function showSearchError() {
+    if (!resultsContainer) return;
+    resultsContainer.innerHTML = '<div class="search-hint">Search couldn\u2019t load. Refresh the page to try again.</div>';
+  }
+
   // Send search to worker
   function doSearch(query) {
     if (typeof gtag === 'function') gtag('event', 'search_used');
@@ -231,7 +240,7 @@
   // Render results
   function renderResults(query) {
     if (currentResults.length === 0) {
-      resultsContainer.innerHTML = 'Fake news not found.';
+      resultsContainer.innerHTML = '<div class="search-hint">Fake news not found.</div>';
       return;
     }
 
@@ -241,8 +250,8 @@
     var html = toShow.map(function(result) {
       var r = result.record;
       return '<div class="algolia__result">' +
-        '<h1 class="post-title"><a class="algolia__result-link" href="' + escapeHtml(r.url) + '">' +
-        escapeHtml(r.title) + ': ' + escapeHtml(r.description) + '</a></h1>' +
+        '<h3 class="post-title"><a class="algolia__result-link" href="' + escapeHtml(r.url) + '">' +
+        escapeHtml(r.title) + ': ' + escapeHtml(r.description) + '</a></h3>' +
         '<div class="algolia__result-date">' + formatDate(r.date) + '</div>' +
         '<div class="algolia__result-text">' + highlightTerms(r.content, query) + '</div>' +
         '</div>';

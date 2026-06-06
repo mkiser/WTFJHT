@@ -6,8 +6,8 @@
     text-align: center;
     margin: 0;
     padding: 1.5rem 1rem;
-    border-top: 1px solid #777;
-    border-bottom: 1px solid #777;
+    border-top: 1px solid #2c3138;
+    border-bottom: 1px solid #2c3138;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
     min-height: 200px;
     display: flex;
@@ -21,7 +21,7 @@
 .shutdown-status {
     color: $red;
     margin: 0 0 1.5rem 0;
-    font-size: 1.6rem;
+    font-size: 1.65rem; // title stop (P2 — instrument text, not numeral)
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -49,44 +49,13 @@
     hyphens: none;
 }
 
-// Animation Keyframes
-@keyframes text-pulse {
-    0%, 100% { color: $red; }
-    50% { color: $red-dark; }
-}
-
-@keyframes urgent-background {
-    0%, 100% {
-        background-color: $bg-darker;
-        border-top-color: #777;
-        border-bottom-color: #777;
-    }
-    50% {
-        background-color: #2a1a1a;
-        border-top-color: $red;
-        border-bottom-color: $red;
-    }
-}
-
 // State Classes
-.final-countdown .shutdown-status {
-    animation: text-pulse 1s ease-in-out infinite;
-}
-
 .final-countdown .timer-display {
     color: $red !important;
 }
 
-.shutdown-active {
-    animation: urgent-background 3s ease-in-out infinite;
-}
-
-.shutdown-active .shutdown-status {
-    animation: text-pulse 2s ease-in-out infinite;
-}
-
 .shutdown-active .timer-display {
-    color: #ff4444 !important;
+    color: #e67a75 !important;
 }
 
 // Responsive Design
@@ -97,7 +66,7 @@
     }
 
     .shutdown-status {
-        font-size: 1.4rem !important;
+        font-size: 1.2rem; // heading stop (P2; !important removed — same-specificity later rule wins)
         margin-bottom: 1rem !important;
     }
 
@@ -114,7 +83,7 @@
 
 @media (max-width: 425px) {
     .timer-display {
-        font-size: 2rem !important;
+        font-size: 2rem; // instrument numeral, mobile (P2; !important removed)
         letter-spacing: 1px !important;
     }
 
@@ -123,11 +92,4 @@
     }
 }
 
-// Respect reduced motion preferences
-@media (prefers-reduced-motion: reduce) {
-    .final-countdown .shutdown-status,
-    .shutdown-active,
-    .shutdown-active .shutdown-status {
-        animation: none;
-    }
-}
+

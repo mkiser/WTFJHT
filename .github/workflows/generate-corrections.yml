@@ -1,0 +1,32 @@
+name: Generate Corrections Data
+
+on:
+  schedule:
+    # Daily at 6:30am UTC (10:30pm PT / 1:30am ET) — offset from tag pages
+    # (6:00) so the two auto-commit pushes to master never race.
+    - cron: '30 6 * * *'
+  workflow_dispatch:
+    # Allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Full history — the script mines every post diff since 2017.
+          fetch-depth: 0
+
+      - name: Generate corrections data
+        run: python3 scripts/generate_corrections.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update corrections data"
+          file_pattern: '_data/corrections.json'
+          branch: master

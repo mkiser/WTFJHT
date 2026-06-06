@@ -27,8 +27,8 @@
   // Secondary: Site description
   .masthead-description {
     margin: 0 auto 0.75rem;
-    max-width: 35rem;
-    color: $meta-color; // 4.8:1 contrast on black (WCAG AA)
+    max-width: $w-module;
+    color: #9aa0a6; // night-meta family · 6.7:1 on black (old $meta-color was 3.50:1 — failed AA)
     font-size: 1.1rem;
     font-weight: 400;
     line-height: 1.4;
@@ -37,28 +37,28 @@
   // Tertiary: Author and date
   .masthead-meta {
     margin: 0 0 1.25rem;
-    color: $meta-color; // 4.8:1 contrast on black (WCAG AA)
-    font-size: 0.875rem;
+    color: #9aa0a6; // night-meta family · 6.7:1 on black (old $meta-color was 3.50:1 — failed AA)
+    font-size: 0.9rem; // secondary stop (P2 chrome snap)
 
     a {
-      color: #f05545; // Lighter red for 4.5:1 contrast on black (WCAG AA)
+      color: #fff;
       text-decoration: underline;
-      text-decoration-color: rgba(240, 85, 69, 0.4);
+      text-decoration-color: rgba(255, 255, 255, 0.4);
       text-underline-offset: 2px;
 
       &:hover {
-        color: #ff6b5b;
+        color: #fff;
         text-decoration-color: currentColor;
       }
 
       &:focus {
-        outline: 2px solid #f05545;
+        outline: 2px solid #fff;
         outline-offset: 2px;
       }
     }
 
     time {
-      color: $meta-color; // 4.8:1 contrast on black (WCAG AA)
+      color: #9aa0a6; // night-meta family · 6.7:1 on black (old $meta-color was 3.50:1 — failed AA)
     }
   }
 
@@ -70,7 +70,7 @@
   // Search
   .wtf-search {
     margin: 0 auto;
-    max-width: 24rem;
+    max-width: $w-module; // 32rem — container scale stop (was 24rem, off-scale)
 
     input {
       -webkit-appearance: none;
@@ -79,22 +79,18 @@
       padding: 0.625rem 1rem 0.625rem 2.5rem;
       background-color: $body-color;
       border: 1px solid $bg-dark;
-      border-radius: 2rem;
+      border-radius: 0;
+      min-height: 46px; // one input spec: all text inputs share height
       color: #fff;
-      font-size: 0.9rem;
-      transition: border-color 0.15s ease, background-color 0.15s ease;
-
-      // Prevent iOS Safari auto-zoom on focus (requires 16px minimum)
-      @media (max-width: 600px) {
-        font-size: 16px;
-      }
+      font-size: 1rem; // one input spec: body-size text (board fix #8) — ≥16px at
+                       // every root, so iOS never zooms; the old 16px override is gone
 
       &::placeholder {
         color: $text-dim;
       }
 
       &:focus {
-        outline: 2px solid $meta-color;
+        outline: 2px solid #fff;
         outline-offset: 2px;
         border-color: $gray-4;
         background-color: $bg-darker;

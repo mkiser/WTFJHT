@@ -3,9 +3,8 @@
   <button type="button" class="audio-player__playpause" aria-label="Pause">
     {% include icons.html icon="pause" %}
   </button>
-  <div class="audio-player__progress">
-    <div class="audio-player__progress-fill"></div>
-  </div>
+  <input type="range" class="audio-player__progress" value="0" min="0" max="100" step="0.1"
+         aria-label="Seek" aria-valuetext="0:00">
   <div class="audio-player__time">
     <span class="audio-player__current">0:00</span>
     <span class="audio-player__remaining">-0:00</span>

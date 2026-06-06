@@ -4,19 +4,11 @@ $gray-3: #767676;
 $gray-4: #515151;
 $gray-5: #313131;
 
-$red: #e74c3c;
-$orange: #d28445;
-$yellow: #f4bf75;
-$green: #90a959;
-$cyan: #75b5aa;
-/*$blue: #e74c3c;*/
-$blue: #268bd2;
-/*// $blue: #6a9fb5;*/
-$brown: #8f5536;
+$red: #e0162b;        // mirror of --c-link · the mark's crimson (OKLCH H24.8)
 
 $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
 $root-serif-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-$root-font-size: 17px;  // Slightly larger for better mobile readability
+// $root-font-size retired (root is the rem clamp in _base)
 $root-line-height: 1.5;
 
 $body-color: #1a1a1a;
@@ -27,13 +19,14 @@ $border-color: #e5e5e5;
 
 // Semantic text colors
 $text-strong: #303030;    // Near-black for strong text, headings (Tufte)
-$meta-color: #9a9a9a;     // Post dates, bylines, secondary meta (4.8:1 on black)
+$meta-color: #767676;     // mirror of --c-meta · 4.54:1 on white (old #9a9a9a was 2.81:1 — failed AA)
+$meta-color-surface: #6b6b6b; // mirror of --c-meta-surface · 5.06:1 on #f9f9f9
 $text-dim: #666;          // Muted/tertiary text
 $footer-text: #aaa;       // Footer body text on dark bg (7.49:1 on #1a1a1a, WCAG AA)
 $footer-link: #bbb;       // Footer links on dark bg (8.84:1 on #1a1a1a, WCAG AA)
 
 // Semantic accent colors
-$red-dark: #c0392b;       // TIOS accents, carousel red
+$red-dark: #b50f22;   // mirror of --c-accent · TIOS accents, carousel red
 
 // Semantic border colors
 $border-light: #ddd;      // Thin rules, sidebar borders
@@ -44,7 +37,7 @@ $bg-dark: #333;           // Dark UI backgrounds (tooltips, toasts, footer eleme
 $bg-darker: #222;         // Darker UI backgrounds (pagination, nav overlays)
 
 $large-breakpoint: 38em;
-$large-font-size: 20px;
+// retired: root no longer jumps; see _base.scss clamp
 
 $code-font-family: Menlo, Monaco, "Courier New", monospace;
 $code-color: #9d4450;  // Darkened for WCAG AA compliance (~5.2:1 on #f9f9f9)
@@ -63,31 +56,31 @@ $font-size-sm:   unquote("0.8rem");
 $font-size-md:   unquote("0.85rem");
 $font-size-list: unquote("0.88rem");
 $font-size-base: unquote("0.9rem");
-$font-size-lg:   unquote("0.95rem");
+$font-size-lg:   1rem; // body stop (P2 — was 0.95)
 $font-size-xl:   1.1rem;
-$font-size-2xl:  1.15rem;
+$font-size-2xl:  1.2rem; // heading stop (P2 — was 1.15)
 
 // Primitive: Type scale (em-based, relative to parent)
 // unquote format must match original source (some had leading zeros, some didn't)
-$font-size-2xs-em:  unquote(".65em");
-$font-size-xs-em:   unquote(".75em");
-$font-size-sm-em:   unquote(".8em");
-$font-size-base-em: unquote("0.9em");
-$font-size-lg-em:   unquote("0.95em");
+// retired (P2 em retirement)
+// retired (P2 em retirement)
+// retired (P2 em retirement)
+// retired (P2 em retirement)
+// retired (P2 em retirement)
 
 // Primitive: Line heights
 $line-height-tight:   1.2;
 $line-height-snug:    1.4;
 $line-height-normal:  1.5;
 $line-height-relaxed: 1.55;
-$line-height-prose:   1.58;
+$line-height-prose:   1.62;  // reading leading — was 1.58, opened up for sustained Georgia reading (Matt 2026-06-06)
 $line-height-loose:   1.65;
 
 // Primitive: Border radius
-$radius-xs:        4px;
-$radius-sm:        6px;
-$radius-pill:      1rem;
-$radius-tag-count: unquote("0.5rem");
+// retired (P2): $radius-xs:        4px;
+// retired (P2): $radius-sm:        6px;
+// retired (P2): $radius-pill:      1rem;
+// retired (P2): $radius-tag-count: unquote("0.5rem");
 
 // Primitive: Transition
 $transition-fast: unquote("0.15s ease");
@@ -99,14 +92,19 @@ $z-overlay: 1000;
 $tracking-tight: unquote("0.015em");
 
 // Semantic: Colors
-$link-underline-color: rgba(231, 76, 60, 0.4);
+$link-underline-color: rgba(224, 22, 43, 0.4);
 $text-inverse:         #fff;
 $shadow-tooltip:       0 2px 10px rgba(0, 0, 0, 0.2);
 $hover-light:          rgba(255, 255, 255, 0.15);
 $away-mode-bg:         rgba(49, 49, 49, 0.03);
 
 // Semantic: Layout
-$page-max-width: 40rem;
+// Containers — mirrors of --w-* (three stops; component-internal px widths
+// like the carousel card or minimap are NOT containers and stay local)
+$w-module: 32rem;
+$w-prose:  38rem;  // the one content column — was 40rem; tightened to ~63-71 char measure (Matt 2026-06-06)
+$w-stage:  60rem;
+$page-max-width: $w-prose; // legacy alias
 
 // Semantic: Typography (unquote preserves original quoting/spacing in compiled CSS)
 $serif-font-family: unquote("Georgia, 'Times New Roman', Times, serif");
@@ -135,14 +133,14 @@ $blockquote-padding: 1rem;
 $list-bg: $gray-1;                                                                                                                                 
 $list-padding: 0 20px;                                                           
 $content-font-family: $root-font-family;
-$content-font-size: 16px;
-$content-font-weight: 300;
+// $content-font-size retired (P2 — zero consumers)
+// $content-font-weight retired (ruling 5: weight 300 left the system; unused)
 $content-line-height: 135%;
 $content-color: $gray-4;
 $content-max-image-width: 580px;
 $table-border-color: #cecece;
 $figcaption-color: #8e8e8e;
-$figcaption-font-size: 13px;
+// $figcaption-font-size retired (P2 — zero consumers)
 
 // Component tokens: Post paragraphs
 $post-p-font-family: $root-serif-font-family;
@@ -167,13 +165,13 @@ $ol-line-height: $line-height-relaxed;
 $ol-letter-spacing: $tracking-tight;
 
 // Component tokens: LI
-$li-font-size: $font-size-lg-em;
+// retired (P2 — zero consumers)
 $li-line-height: $line-height-normal;
 $li-margin-top: 1.25em;
 $ol-li-margin-top: 1.5em;
 
 // Component tokens: Blockquote (additions to existing)
-$blockquote-font-size: $font-size-lg-em;
+// retired (P2 — zero consumers)
 $blockquote-margin: 0 0 1em 1rem;
 $blockquote-line-height: $line-height-normal;
 $blockquote-p-margin-bottom: 1rem;

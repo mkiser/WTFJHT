@@ -59,8 +59,8 @@ show_title: false
 
 /* Action box */
 .ds-action {
-  border: 2px solid #313131;
-  border-radius: 4px;
+  border: 1px solid #e5e5e5; /* hairline card on the page ground (Law VII; page-walk M5) */
+  border-radius: 0; /* square (Law II) */
   padding: 1.25rem 1.5rem 1rem;
   margin: 2em 0;
 }

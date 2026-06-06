@@ -10,9 +10,9 @@
   background: $body-bg;
   color: #000;
   padding: 0.5rem 1rem;
-  border-radius: 4px;
+  border-radius: 0; // square (Law II)
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 600;
 
   &:focus {
     left: 1rem;
@@ -26,7 +26,7 @@
 }
 
 .nav-container {
-  max-width: 60rem;
+  max-width: $w-stage;
   margin: 0 auto;
   padding: 0.75rem 1rem;
   display: flex;
@@ -43,7 +43,7 @@
 .nav-home {
   display: flex;
   align-items: center;
-  padding: 0.25rem;
+  padding: 0.375rem; // 32px logo + 2x6px = 44px touch target
   transition: opacity 0.15s ease;
 
   &:hover {
@@ -62,6 +62,23 @@
   align-items: center;
   gap: 0.4rem;
   font-size: 0.8rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+  }
+
+  // separator lives in CSS, not markup, so the list reads clean to AT
+  li + li::before {
+    content: "\00b7";
+    color: rgba(255, 255, 255, 0.3);
+    margin-right: 0.4rem;
+  }
 
   a {
     color: rgba(255, 255, 255, 0.6);
@@ -71,10 +88,6 @@
     &:hover {
       color: #fff;
     }
-  }
-
-  &__sep {
-    color: rgba(255, 255, 255, 0.3);
   }
 }
 
@@ -97,7 +110,7 @@
     color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     font-size: clamp(0.75rem, 2.5vw, 0.875rem);
-    font-weight: 500;
+    font-weight: 400; // nav links on #000 — dark grounds map DOWN (type migration P1, ruling 6)
     padding: 0.5rem 0;
     min-height: 44px;
     display: flex;
@@ -116,23 +129,25 @@
   }
 }
 
-// CTA button styling for Membership (ghost/outline style)
+// CTA button for Membership — dark ground, so the ink square inverts at rest:
+// white button, ink text, dimming hover (the button chapter's dark-ground rule)
 .nav-cta {
-  background: transparent;
-  color: #fff !important;
+  background: #fff;
+  color: #111 !important;
   padding: 0.5rem 1rem !important;
-  border: 1px solid rgba(255, 255, 255, 0.4);
-  border-radius: 4px;
+  font-weight: 600;
+  border: 1px solid #fff;
+  border-radius: 0; // square (Law II; board fix #4)
 
   &:hover {
-    background: rgba(255, 255, 255, 0.1);
-    border-color: rgba(255, 255, 255, 0.6);
+    background: #cfcfcf; // dims, stays light
+    border-color: #cfcfcf;
     text-decoration: none !important;
   }
 
   &:focus {
-    outline: 2px solid #fff;
-    outline-offset: 2px;
+    outline: 2px solid #e0162b; // crimson — a white ring vanishes against this
+    outline-offset: 2px;        // white-filled button (4.86:1 on the black masthead)
   }
 }
 
@@ -167,7 +182,7 @@
 
   .nav-cta {
     padding: 0.35rem 0.6rem !important;
-    font-size: 0.7rem !important;
+    font-size: 0.75rem !important; // label floor — never below (board fix #4)
   }
 }
 

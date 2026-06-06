@@ -1,7 +1,7 @@
 // Pulse
 //
 // Styles for the Pulse thank-you / feedback page
-// Lives inside .page container (max-width: 40rem, padding: 1rem)
+// Lives inside .page container (max-width: 38rem, padding: 1rem)
 
 .pulse-thanks {
   margin: 2em 0;
@@ -16,7 +16,7 @@
   background-color: $gray-1;
   border-left: 3px solid $gray-3;
   margin-bottom: 2em;
-  font-size: $font-size-base-em;
+  font-size: 0.9rem; // secondary stop (P2 em retirement)
   color: $gray-3;
 }
 
@@ -45,7 +45,7 @@
 // Feedback form area
 .pulse-prompt {
   color: $gray-4;
-  font-size: $font-size-lg-em;
+  font-size: 1rem; // body stop (P2 em retirement)
   margin: 0 0 0.75em;
 }
 
@@ -54,12 +54,12 @@
   min-height: 5em;
   padding: 0.5em 0.6em;
   font-family: $root-font-family;
-  font-size: 1em;
+  font-size: 1rem; // body stop (P2 em retirement)
   color: $gray-4;
   background: $body-bg;
   border: 1px solid $border-color;
   -webkit-appearance: none;
-  border-radius: $radius-xs;
+  border-radius: 0;
   box-sizing: border-box;
   resize: vertical;
   line-height: $line-height-normal;
@@ -84,7 +84,7 @@
 }
 
 .pulse-counter {
-  font-size: $font-size-xs-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   color: $meta-color;
 }
 
@@ -93,17 +93,18 @@
   min-height: 44px;
   padding: 0.6em 1.4em;
   font-family: $root-font-family;
-  font-size: $font-size-base-em;
+  font-size: 0.9rem; // secondary stop (P2 em retirement)
   font-weight: 600;
   color: #fff;
-  background-color: $red;
-  border: none;
-  border-radius: $radius-xs;
+  background-color: #111; // ink square (ruling: CTA wears ink, not alarm red)
+  border: 1px solid #111;
+  border-radius: 0;
   cursor: pointer;
-  transition: opacity $transition-fast;
+  transition: background-color $transition-fast;
 
   &:hover {
-    opacity: 0.9;
+    background-color: #fff;
+    color: #111;
   }
 
   &:focus {
@@ -121,10 +122,10 @@
 .pulse-status {
   margin-top: 0.75em;
   padding: 0.6em 0.85em;
-  font-size: $font-size-base-em;
+  font-size: 0.9rem; // secondary stop (P2 em retirement)
   color: $gray-4;
   background-color: $gray-1;
-  border-radius: $radius-xs;
+  border-radius: 0;
 }
 
 // ==========================================================================
@@ -136,7 +137,7 @@
   display: block;
   margin-top: 1em;
   font-family: $root-font-family;
-  font-size: $font-size-sm-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   color: $meta-color;
   background: none;
   border: none;
@@ -165,7 +166,7 @@
 }
 
 .pulse-results-label {
-  font-size: $font-size-xs-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   font-weight: 600;
   color: $meta-color;
   text-transform: uppercase;
@@ -185,7 +186,7 @@
 }
 
 .pulse-result-name {
-  font-size: $font-size-base-em;
+  font-size: 0.9rem; // secondary stop (P2 em retirement)
   color: $gray-4;
 
   &.is-voted {
@@ -195,7 +196,7 @@
 }
 
 .pulse-result-count {
-  font-size: $font-size-sm-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   font-weight: 600;
   color: $gray-4;
   font-variant-numeric: tabular-nums;
@@ -204,14 +205,14 @@
 .pulse-result-track {
   height: 6px;
   background: $gray-1;
-  border-radius: 3px;
+  border-radius: 0;
   overflow: hidden;
 }
 
 .pulse-result-bar {
   height: 100%;
   background: $gray-2;
-  border-radius: 3px;
+  border-radius: 0;
   transition: width 0.5s ease;
 
   &.is-voted {
@@ -220,7 +221,7 @@
 }
 
 .pulse-results-total {
-  font-size: $font-size-xs-em;
+  font-size: 0.8rem; // meta stop (P2 em retirement)
   color: $meta-color;
   margin: 0.25em 0 0;
   text-align: right;
@@ -257,15 +258,23 @@
 .pulse-enter-input {
   width: 100%;
   padding: 0.6em 0.75em;
-  font-size: 1em;
+  font-size: 1rem; // body stop (P2 em retirement)
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 0;
   box-sizing: border-box;
 }
 
 .pulse-enter-deadline {
   margin: 0 0 1em;
-  font-size: 0.9em;
+  font-size: 0.9rem; // secondary stop (P2 em retirement)
   color: #666;
   font-style: italic;
+}
+
+// Respect reduced motion (loading ellipsis)
+@media (prefers-reduced-motion: reduce) {
+  .pulse-banner--loading .pulse-banner-text::after {
+    animation: none;
+    content: '\2026'; // static ellipsis
+  }
 }

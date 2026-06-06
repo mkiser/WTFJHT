@@ -106,32 +106,14 @@ seo:
     </div>
     {% include audio-player-bar.html podcast_file=page.podcast.file %}
     <hr>
-    {% comment %}
-
-    <!--
-     {% assign episodes = site.podcasts | reverse %}
-     {% assign ep = episodes | where: 'post', page.title | first %}
-     {% if ep %}
-    
-  
-      <div class="pod">
-        <audio src="{{ site.cloudfront_url }}{{ ep.file }}" preload="none" />
-      </div>
-      <small class="post-date pod-subscribe" style="margin-top: -2em; color: #9a9a9a;">
-        Subscribe for free: <a href="https://itunes.apple.com/us/podcast/wtf-just-happened-today/id1206537023?mt=2">Apple Podcast</a>, <a href="https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3?si=3bkunuqCT2-GltqAEhX9pA">Spotify</a>, <a href="https://podcasts.google.com/feed/aHR0cHM6Ly93aGF0dGhlZnVja2p1c3RoYXBwZW5lZHRvZGF5LmNvbS9wb2RjYXN0cy9pbmRleC54bWw">Google Podcast</a>, <a href="{{ site.baseurl }}/podcasts/index.xml">RSS</a>
-      </small>
-    
-    {% endif %}
-    -->
-    {% endcomment %}
 
     <div class="post-content">
         {% if page.todayInOneSentence and page.todayInOneSentence != '' %}
-        <div class="tios">
+        <p class="tios">
           <span class="tios__title"><span class="tios__prefix">Today in </span><strong>One Sentence</strong><span class="tios__dot">.</span></span>
           <span class="tios__divider"></span>
-          {% assign tios_raw = page.todayInOneSentence | smartify | strip %}{% assign tios_last = tios_raw | slice: -1 %}{% if tios_last == '.' %}{% assign tios_len = tios_raw.size | minus: 1 %}{% assign tios_text = tios_raw | truncate: tios_len, '' | replace: '; ', ' <span class="tios__pilcrow">¶</span> ' %}{% else %}{% assign tios_text = tios_raw | replace: '; ', ' <span class="tios__pilcrow">¶</span> ' %}{% endif %}<span class="tios__body">{{ tios_text }}<span class="tios__dot">.</span></span>
-        </div>
+          {% assign tios_raw = page.todayInOneSentence | smartify | strip %}{% assign tios_last = tios_raw | slice: -1 %}{% if tios_last == '.' %}{% assign tios_len = tios_raw.size | minus: 1 %}{% assign tios_text = tios_raw | truncate: tios_len, '' | replace: '; ', '<span class="sr-only">; </span> <span class="tios__pilcrow" aria-hidden="true">¶</span> ' %}{% else %}{% assign tios_text = tios_raw | replace: '; ', '<span class="sr-only">; </span> <span class="tios__pilcrow" aria-hidden="true">¶</span> ' %}{% endif %}<span class="tios__body">{{ tios_text }}<span class="tios__dot">.</span></span>
+        </p>
         <hr>
         {% endif %}
       {{ page.content | extlinks }}

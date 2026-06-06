@@ -1,0 +1,33 @@
+---
+title: Corrections
+layout: page
+permalink: "/corrections/"
+sitemap: false
+noindex: true
+---
+
+<div class="corrections">
+  {% comment %}<!-- <p class="corrections__intro"><em>[Intro copy: what this page is and how it's generated — Matt to write.]</em></p> -->{% endcomment %}
+
+  {% if site.data.corrections and site.data.corrections.entries %}
+    {% assign recent = site.data.corrections.entries | slice: 0, 50 %}
+    {% assign groups = recent | group_by_exp: "e", "e.changed_at | date: '%B %Y'" %}
+    {% for g in groups %}
+      <h2 class="corrections__month">{{ g.name }}</h2>
+      {% for entry in g.items %}
+        {% include correction-entry.html entry=entry %}
+      {% endfor %}
+    {% endfor %}
+
+    <nav class="corrections__years" aria-label="Corrections by year">
+      <h2 class="corrections__month">Browse by year</h2>
+      <ul class="corrections__year-list">
+        {% for y in site.data.corrections.years %}
+        <li><a href="/corrections/{{ y.year }}/">{{ y.year }}</a> <span class="corrections__count">{{ y.changes | number_with_commas }} changes</span></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  {% else %}
+    <p><em>No corrections data in this build. Run: <code>python3 scripts/generate_corrections.py</code></em></p>
+  {% endif %}
+</div>

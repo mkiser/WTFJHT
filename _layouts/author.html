@@ -13,7 +13,7 @@ layout: default
   "@id": "{{ site.url }}{{ page.url }}#person",
   "name": "{{ page.title }}",
   "url": "{{ site.url }}{{ page.url }}",
-  "image": "{{ site.url }}{{ page.image }}",
+  "image": "{% if page.image contains '://' %}{{ page.image }}{% else %}{{ site.url }}{{ page.image }}{% endif %}",
   "description": "{{ page.tagline | strip_html | strip_newlines | escape }}",
   "jobTitle": "{{ page.job_title | default: 'Founder & Publisher' }}",
   "worksFor": {
@@ -75,7 +75,7 @@ layout: default
         {% if page.social.threads %}<a href="{{ page.social.threads }}" rel="me noopener" target="_blank" aria-label="Threads">{% include_cached icons.html icon="threads" %}</a>{% endif %}
         {% if page.social.mastodon %}<a href="{{ page.social.mastodon }}" rel="me noopener" target="_blank" aria-label="Mastodon">{% include_cached icons.html icon="mastodon" %}</a>{% endif %}
         {% if page.social.twitter %}<a href="{{ page.social.twitter }}" rel="me noopener" target="_blank" aria-label="X/Twitter">{% include_cached icons.html icon="twitter" %}</a>{% endif %}
-        {% if page.social.linkedin %}<a href="{{ page.social.linkedin }}" rel="me noopener" target="_blank" aria-label="LinkedIn">{% include_cached icons.html icon="user" %}</a>{% endif %}
+        {% if page.social.linkedin %}<a href="{{ page.social.linkedin }}" rel="me noopener" target="_blank" aria-label="LinkedIn">{% include_cached icons.html icon="linkedin" %}</a>{% endif %}
         {% if page.social.github %}<a href="{{ page.social.github }}" rel="me noopener" target="_blank" aria-label="GitHub">{% include_cached icons.html icon="github" %}</a>{% endif %}
         {% if page.social.instagram %}<a href="{{ page.social.instagram }}" rel="me noopener" target="_blank" aria-label="Instagram">{% include_cached icons.html icon="instagram" %}</a>{% endif %}
         {% if page.social.facebook %}<a href="{{ page.social.facebook }}" rel="me noopener" target="_blank" aria-label="Facebook">{% include_cached icons.html icon="facebook" %}</a>{% endif %}

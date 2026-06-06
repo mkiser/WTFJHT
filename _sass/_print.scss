@@ -96,7 +96,9 @@
 
     a {
       color: black !important;
-      text-decoration: none !important;
+      text-decoration: underline !important; // citations must survive on paper
+      text-decoration-thickness: .5pt;
+      text-underline-offset: 1.5pt;
     }
   }
 
@@ -171,7 +173,14 @@
     // Links - plain text
     a {
       color: black !important;
-      text-decoration: none !important;
+      text-decoration: underline !important; // citations must survive on paper
+      text-decoration-thickness: .5pt;
+      text-underline-offset: 1.5pt;
+    }
+
+    // Items never split across pages
+    li, blockquote, .tios {
+      break-inside: avoid;
     }
 
     // Lists - same size as paragraphs

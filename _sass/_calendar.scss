@@ -21,21 +21,21 @@
 .legend-box {
   width: 12px;
   height: 12px;
-  border-radius: 2px;
+  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
 
   &.legend-filled {
     background-color: $red;
   }
 
   &.legend-empty {
-    background-color: $gray-1;
+    background-color: #eceef0;
     border: 1px solid $gray-2;
   }
 }
 
 .calendar-wrapper > .calendar-container {
   border: 1px solid $gray-2;
-  border-radius: 6px;
+  border-radius: 0; // square (Law II; page-walk M3 sweep)
   background: $body-bg;
   padding: 1rem;
 }
@@ -49,7 +49,7 @@
   font-size: 0.7rem;
   color: $gray-3;
   text-align: center;
-  font-weight: 500;
+  font-weight: 600; // chart day labels, light ground (type migration P1, ruling 6)
 
   .calendar-month-col {
     text-align: left;
@@ -72,7 +72,7 @@
 
 // Month/year label on left
 .calendar-month-col {
-  font-size: 0.65rem;
+  font-size: 0.7rem; // a11y floor: chart axis labels stay ≥ ~12px
   color: $gray-3;
   display: flex;
   align-items: center;
@@ -83,8 +83,8 @@
 // Individual day cells
 .calendar-day {
   aspect-ratio: 1;
-  border-radius: 2px;
-  background-color: $gray-1;
+  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  background-color: #eceef0;
   border: 1px solid rgba(0, 0, 0, 0.04);
 
   &.outside-range {
@@ -94,11 +94,11 @@
 
   &.has-post {
     background-color: $red;
-    border-color: darken($red, 8%);
+    border-color: #b50f22;
     cursor: pointer;
 
     &:hover {
-      background-color: darken($red, 15%);
+      background-color: #96101d;
       outline: 2px solid $gray-5;
       outline-offset: -1px;
     }
@@ -112,7 +112,7 @@
   background: $gray-5;
   color: #fff;
   padding: 0.5rem 0.75rem;
-  border-radius: 4px;
+  border-radius: 0; // square (Law II; page-walk M3 sweep)
   font-size: 0.75rem;
   line-height: 1.4;
   max-width: 320px;
@@ -150,7 +150,7 @@
 
   .calendar-header {
     grid-template-columns: 3.5rem repeat(7, 1fr);
-    font-size: 0.6rem;
+    font-size: 0.7rem;
   }
 
   .calendar-week {
@@ -158,7 +158,7 @@
   }
 
   .calendar-month-col {
-    font-size: 0.55rem;
+    font-size: 0.7rem;
   }
 }
 
@@ -173,7 +173,7 @@
   }
 
   .calendar-month-col {
-    font-size: 0.5rem;
+    font-size: 0.7rem;
   }
 }
 
@@ -214,7 +214,7 @@
 .minimap-years {
   position: relative;
   width: 2rem;
-  font-size: 0.55rem;
+  font-size: 0.7rem; // a11y floor: >=12.6px axis ticks
   color: $gray-3;
 
   span {
@@ -225,7 +225,7 @@
 }
 
 #minimap-canvas {
-  border-radius: 3px;
+  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
   background: $body-bg;
   border: 1px solid $gray-2;
   cursor: pointer;
@@ -239,9 +239,9 @@
   position: absolute;
   left: 0;
   right: 0;
-  background: rgba($red, 0.15);
-  border: 1px solid rgba($red, 0.4);
-  border-radius: 2px;
+  background: rgba(235, 204, 201, 0.6); // blush tint as functional overlay (content reads through — the one sanctioned alpha)
+  border: 2px solid #e0162b;             // solid grip — the draggable viewport must be findable
+  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
   pointer-events: none;
 }
 

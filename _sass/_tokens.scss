@@ -1,0 +1,94 @@
+// ============================================================
+// Design tokens — CSS custom properties
+// ============================================================
+// The runtime color layer. Values here are the CURRENT production
+// palette (Phase 0: architecture only, zero visual change).
+// Phase 1 swaps these values per the brand book (/brand/).
+//
+// Rules of the road:
+//  - Roles, not ramps: name what a color DOES, not what it is.
+//  - The night block stays empty until the night printing ships;
+//    populating it is the only step needed to activate dark mode.
+//  - Sass variables in _variables.scss continue to exist for
+//    compiled call sites (darken()/rgba() etc.); those call sites
+//    are rewritten to explicit tokens during migration, after
+//    which Sass vars may alias these custom properties.
+// ============================================================
+
+:root {
+  color-scheme: light;
+
+  // grounds & rules
+  --c-bg: #fff;
+  --c-surface: #f9f9f9;
+  --c-line: #e5e5e5;
+  --c-line-light: #eee;
+  --c-line-strong: #ccc;
+
+  // text
+  --c-ink: #1a1a1a;
+  --c-ink-strong: #313131;
+  --c-ink-medium: #515151;
+  --c-meta: #767676;          // 4.54:1 on white (was #9a9a9a, 2.81:1 — failed AA)
+  --c-meta-surface: #6b6b6b;  // 5.06:1 on #f9f9f9
+
+  // brand red family (Phase 1: re-anchors on the mark, see /brand/ ch. 02-03)
+  --c-link: #e0162b;          // the mark's crimson (OKLCH H24.8)
+  --c-link-hover: #b50f22;
+  --c-accent: #b50f22;
+  --c-danger: #b50f22;
+  --c-danger-deep: #96101d;
+  --c-red-wash: #f6e9e8;  // blush — crimson hue 24 at half chroma (light reds are engineered, never alpha-made)
+  --c-red-tint: #ebccc9;
+
+  // brand fixtures
+  --c-brand-black: #000;
+  --c-brand-blue: #0052a5;    // Law I: W-slot + partisan data only
+
+  // machinery states (unused roles carry final values — no visual change)
+  --c-success: #2f7d5c;
+  --c-warning: #b45309;
+
+  // instruments (charts/tables — adopted at migration)
+  --c-grid: #aeb6bd;
+  --c-axis: #64707a;
+
+  // focus
+  --c-focus: #e0162b;
+
+  // the tile — the system's only rounding (Law II): radius = 0.21 x side
+  --tile-radius-ratio: 0.21;
+
+  // ── Containers — three stops, no exceptions ──────────────────
+  // module: focused single-purpose blocks (masthead inner, footer subscribe)
+  // prose:  THE reading column — calibrated to Georgia 1.1rem ≈ 63-71 cpl
+  // stage:  the chrome line — nav and footer columns; instruments fill to it
+  --w-module: 32rem;
+  --w-prose:  38rem;
+  --w-stage:  60rem;
+}
+
+// ------------------------------------------------------------
+// The night printing — populated when dark mode ships (locked
+// values from the brand book; inert until [data-theme="night"]
+// is set on <html> or the prefers-color-scheme bridge is added).
+// ------------------------------------------------------------
+// [data-theme="night"] {
+//   color-scheme: dark;
+//   --c-bg: #16191d;
+//   --c-surface: #22262b;
+//   --c-line: #2c3138;
+//   --c-ink: #cdc9c1;
+//   --c-meta: #9aa0a6;
+//   --c-meta-surface: #9aa0a6;
+//   --c-link: #e67a75;
+//   --c-link-hover: #ef8d88;  // hover goes LIGHTER on dark (7.4:1; #da4b49 as text failed AA at 4.27)
+//   --c-accent: #da4b49;     // borders & fills only — never text
+//   --c-danger: #e67a75;
+//   --c-red-wash: #3c2826;  // engineered opaque, hue 24 (the old alpha spec landed at hue 5.6 — same defect as the quiz)
+//   --c-success: #5cb389;
+//   --c-warning: #e3973f;
+//   --c-grid: #333b42;
+//   --c-axis: #9aa0a6;
+//   --c-focus: #e67a75;
+// }

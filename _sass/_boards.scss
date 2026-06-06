@@ -25,7 +25,7 @@
   gap: 1rem;
   padding: 1.25rem;
   background: rgba(49,49,49,0.03);
-  border-radius: 4px;
+  border-radius: 0; // square (Law II; page-walk M3 sweep)
   margin-bottom: 2rem;
 }
 
@@ -35,9 +35,10 @@
 }
 
 .stat-value {
-  font-size: 1.75rem;
+  font-size: 1.75rem; // instrument numeral (documented exception)
   font-weight: 600;
   color: $gray-5;
+  font-variant-numeric: tabular-nums lining-nums; // data figures align (2026-06-06)
 }
 
 .stat-label {
@@ -52,7 +53,7 @@
 .year-section h2,
 .sources-section h2,
 .trends-section h2 {
-  font-size: 1.25rem;
+  font-size: 1.2rem; // heading stop (P2)
   color: $gray-5;
   margin-bottom: 1rem;
   font-weight: 600;
@@ -71,7 +72,7 @@
 @media (max-width: 600px) {
   .board-header {
     h1 {
-      font-size: 1.75rem;
+      font-size: 1.65rem; // title stop (P2)
     }
 
     .lead {
@@ -85,7 +86,7 @@
   }
 
   .stat-value {
-    font-size: 1.35rem;
+    font-size: 1.35rem; // instrument numeral (documented exception, P2)
   }
 
   .stat-label {

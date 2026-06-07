@@ -324,6 +324,22 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
   <div class="spec night"><div class="spec-head"><span>night preview · strong steps 700→600 against halation · scoped grayscale antialiasing</span></div>
     <div class="spec-body"><div style="font-weight:600;font-size:1.3rem;line-height:1.25">Day 1947: “A little bit nasty.”</div>
     <div style="font-family:Georgia,serif;font-size:1.02rem;line-height:1.62;margin-top:.5rem">Prose holds 400; <a href="#" style="color:#e67a75">links wear the night crimson</a>.</div></div></div>
+  <p><b>The night printing shipped 2026-06-07.</b> The locked sheet (bg #16191d ·
+     surface #22262b · line #2c3138 · ink #cdc9c1 at 10.68:1 · link #e67a75 ·
+     hover #ef8d88, lighter on dark · accent #da4b49, borders and fills only)
+     plus the extension values shipped with it (provisional pending the owner’s
+     localhost ratification): line-light #262b31 · line-strong
+     #3a414a · ink-strong #bfbbb3 · ink-medium #aaa69e · danger-deep #f0938e ·
+     red-tint #4a302d · link-underline rgba(230,122,117,.45) · away-wash
+     rgba(205,201,193,.05). Trigger: OS preference by default, three-state reader
+     override (AUTO · DAY · NIGHT) in the footer legal strip; preference is what
+     the control highlights, never the resolved theme. brand-black and brand-blue
+     do not move at night; the brand-blue fill awaits the instrument slice.</p>
+  <p><b>Hairline family, three stops (2026-06-07):</b> line-light #eee · line
+     #e5e5e5 · line-strong #ccc. The fourth stop ($border-light #ddd) merged into
+     line — ratified via A/B specimen. The merge ledger from the same ship:
+     $text-strong #303030 → ink-strong (+1) · $text-dim #666 → meta-surface (+5) ·
+     $blockquote-bg #fafafa → surface (−1) · $border-light #ddd → line (+8).</p>
 </section>
 
 <section class="chap" id="c6">
@@ -588,6 +604,13 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
   <p>Inline validation on blur; errors sit under their field in deep crimson on wash;
      success confirms in machinery green. Honeypots and turnstiles stay invisible to
      readers.</p>
+  <p><b>Night components (2026-06-07):</b> the ink square inverts at night —
+     white fill, #111 ink, hover dims to #cfcfcf and stays light (the footer
+     button's pattern, extended to every ink square). All text inputs converge on
+     the dark field spec: #333 field · #444 border · #f9f9f9 text · #aab0b6
+     placeholder — input identity beats depth logic. The appearance control wears
+     legal-strip furniture styling: three flat text buttons, current preference
+     underlined in white.</p>
 </section>
 
 <section class="chap" id="c18">
@@ -720,6 +743,19 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      correctly — real headings, real lists, real decimals, no meaning carried by CSS
      alone. That contract is why TIOS pilcrows are real text and anchors are empty
      furniture.</p>
+  <p><b>Implemented &amp; validated 2026-06-06</b> (PasteUp email brand propagation, spec
+     <code>docs/specs/2026-06-06-email-brand-refresh-propagation-design.md</code>): the email
+     mapping is pinned in <code>server/email-brand.json</code> — Georgia prose 19px/162%,
+     serif stack adds <code>'Noto Serif'</code> as the named Android understudy, links carry
+     the 40% crimson underline inline (Gmail keeps color, drops metrics — sanctioned
+     degradation), buttons are the ink square, fluid-hybrid base with the 480px bump as
+     progressive enhancement. A CI sync alarm compares the email's pinned values against this site's live
+     <code>_variables.scss</code> on every PasteUp test run — when the site's brand moves,
+     the email follows deliberately, never silently. Two upstream notes from that work:
+     the heading weight step ships as h1–h2:700 / h3+:600 (this book's Ch. 8 specimen
+     says h3:700 — the shipped CSS is the ruling, per decision D5); and
+     <code>$figcaption-color #8e8e8e</code> sits at ~3.3:1 on white (below the Ch. 28
+     floor) — email uses #767676; the site value awaits its own ruling.</p>
 </section>
 
 <section class="chap" id="c27">
@@ -732,6 +768,11 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
   <p><b>Night</b> ships as a token swap (Ch. 05) plus exactly two type provisions:
      strong may step 700→600 against halation, and grayscale antialiasing applies under
      the night theme only. Sizes, leading, and layout never change by theme.</p>
+  <p><b>Chrome is invariant (2026-06-07):</b> the masthead (#000), nav strip
+     (#2a2a2a), footer, toasts, tooltips, and skip-link never re-theme — paints on
+     chrome are pinned literals, not tokens. At night the footer deepens to #000:
+     the chrome frame bookends the page, masthead above, footer below. The page is
+     paper; chrome is the frame.</p>
 </section>
 
 <!-- ════════════════ PART VII ════════════════ -->
@@ -763,7 +804,7 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
     <tr><td>pills, circles, rounded cards, colored side-rails, shadows, gradients</td><td>squares, tiles, hairlines, flat ink (Laws II, V, VII)</td></tr>
     <tr><td>webfonts and icon fonts</td><td>three system stacks; fontless anchor config</td></tr>
     <tr><td>weights 300 / 900 / lighter; the 8-step micro size ramp</td><td>the role scale</td></tr>
-    <tr><td>crimson decorative dividers</td><td>hairlines; crimson rule lives only in TIOS</td></tr>
+    <tr><td>crimson decorative dividers</td><td>hairlines; crimson rule lives only in TIOS — plus one ratified exception: the quarterly letter's 32×2 title bar carries the accent (#b50f22), per the email propagation decision D3b (2026-06-06)</td></tr>
     <tr><td>emoji as UI icons</td><td>SVG glyphs and labels</td></tr>
     <tr><td>ad-hoc page widths (35/44/48/50rem…)</td><td>the three-stop container scale</td></tr>
   </table>

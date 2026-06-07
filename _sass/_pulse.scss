@@ -259,7 +259,7 @@
   width: 100%;
   padding: 0.6em 0.75em;
   font-size: 1rem; // body stop (P2 em retirement)
-  border: 1px solid #ccc;
+  border: 1px solid var(--c-line-strong);
   border-radius: 0;
   box-sizing: border-box;
 }
@@ -267,7 +267,7 @@
 .pulse-enter-deadline {
   margin: 0 0 1em;
   font-size: 0.9rem; // secondary stop (P2 em retirement)
-  color: #666;
+  color: var(--c-meta-surface); // was #666 (merge family, night spec §3.3)
   font-style: italic;
 }
 

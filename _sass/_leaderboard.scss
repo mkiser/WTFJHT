@@ -232,7 +232,7 @@
   }
 }
 
-.trend-up { color: #2f7d5c; }
+.trend-up { color: var(--c-success); }
 .trend-down { color: $red; }
 
 .trends-legend {
@@ -254,7 +254,7 @@
   height: 8px;
   border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
 
-  &.up { background: #2f7d5c; }
+  &.up { background: var(--c-success); }
   &.down { background: $red; }
 }
 
@@ -370,7 +370,7 @@
     td:first-child {
       position: sticky;
       left: 0;
-      background: #fff;
+      background: var(--c-bg);
       z-index: 1;
     }
   }

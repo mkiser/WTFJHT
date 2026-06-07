@@ -77,7 +77,7 @@
       appearance: none;
       width: 100%;
       padding: 0.625rem 1rem 0.625rem 2.5rem;
-      background-color: $body-color;
+      background-color: #1a1a1a; // pinned — invariant chrome (was $body-color used as dark paint)
       border: 1px solid $bg-dark;
       border-radius: 0;
       min-height: 46px; // one input spec: all text inputs share height
@@ -86,13 +86,13 @@
                        // every root, so iOS never zooms; the old 16px override is gone
 
       &::placeholder {
-        color: $text-dim;
+        color: #666; // pinned — invariant chrome
       }
 
       &:focus {
         outline: 2px solid #fff;
         outline-offset: 2px;
-        border-color: $gray-4;
+        border-color: #515151; // pinned — invariant chrome
         background-color: $bg-darker;
       }
     }
@@ -107,7 +107,7 @@
       left: 1rem;
       top: 50%;
       transform: translateY(-50%);
-      color: $text-dim;
+      color: #666; // pinned — invariant chrome
       pointer-events: none;
     }
   }

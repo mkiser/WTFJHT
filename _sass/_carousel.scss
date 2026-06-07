@@ -15,14 +15,14 @@ body.carousel-open {
 // --------------------------------------------------------------------------
 // Design tokens (matching prototype)
 // --------------------------------------------------------------------------
-$carousel-white:  $body-bg;
+$carousel-white:  #fff;     // pinned literal — exempt surface (was $body-bg; would theme-flip once globals alias tokens)
 $carousel-cream:  #faf9f7;
-$carousel-text:   $text-strong;
-$carousel-text2:  $gray-4;
+$carousel-text:   #303030;  // pinned literal — was $text-strong
+$carousel-text2:  #515151;  // pinned literal — was $gray-4
 $carousel-dim:    #888888;
-$carousel-red:    $red-dark;
+$carousel-red:    #b50f22;  // pinned literal — was $red-dark
 $carousel-rule:   #e0ddd8;
-$carousel-ruled:  $gray-2;
+$carousel-ruled:  #ccc;     // pinned literal — was $gray-2
 $carousel-serif:  Georgia, 'Times New Roman', Times, serif;
 $carousel-sans:   -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;

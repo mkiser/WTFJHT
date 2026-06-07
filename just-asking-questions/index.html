@@ -61,8 +61,13 @@ sitemap: false
   <input type="hidden" id="jaq-rendered" name="_rendered" value="">
 
   <!-- Turnstile fallback banner (shown when bot-check is blocked by browser) -->
-  <div id="turnstile-fallback" style="display:none;padding:1em;background:#f9f9f9;border-left:3px solid #b45309;margin:1em 0;font-family:Helvetica,Arial,sans-serif">
-    <p style="margin:0 0 0.6em;color:#1a1a1a">Your browser's privacy settings blocked our bot check. One tap to confirm:</p>
+  <style>
+    /* Night printing: ink-square fallback button flips to light on dark ground. */
+    /* !important: must outgun the button's inline style attribute */
+    [data-theme="night"] #turnstile-fallback-btn { color: #111 !important; background: #fff !important; border-color: #fff !important; }
+  </style>
+  <div id="turnstile-fallback" style="display:none;padding:1em;background:var(--c-surface, #f9f9f9);border-left:3px solid var(--c-warning, #b45309);margin:1em 0;font-family:Helvetica,Arial,sans-serif">
+    <p style="margin:0 0 0.6em;color:var(--c-ink, #1a1a1a)">Your browser's privacy settings blocked our bot check. One tap to confirm:</p>
     <button id="turnstile-fallback-btn" type="button" disabled
             style="padding:0.75rem 1.5rem;font-size:1rem;font-weight:600;color:#fff;background:#111;border:1px solid #111;border-radius:0;cursor:pointer;min-height:46px">
       Confirm and send

@@ -1,36 +1,36 @@
-$gray-1: #f9f9f9;
-$gray-2: #ccc;
-$gray-3: #767676;
-$gray-4: #515151;
-$gray-5: #313131;
+$gray-1: var(--c-surface);
+$gray-2: var(--c-line-strong);
+$gray-3: var(--c-meta);
+$gray-4: var(--c-ink-medium);
+$gray-5: var(--c-ink-strong);
 
-$red: #e0162b;        // mirror of --c-link · the mark's crimson (OKLCH H24.8)
+$red: var(--c-link);        // mirror of --c-link · the mark's crimson (OKLCH H24.8)
 
 $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
 $root-serif-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
 // $root-font-size retired (root is the rem clamp in _base)
 $root-line-height: 1.5;
 
-$body-color: #1a1a1a;
-$body-bg: #fff;
+$body-color: var(--c-ink);
+$body-bg: var(--c-bg);
 $link-color: $red;
 
-$border-color: #e5e5e5;
+$border-color: var(--c-line);
 
 // Semantic text colors
-$text-strong: #303030;    // Near-black for strong text, headings (Tufte)
-$meta-color: #767676;     // mirror of --c-meta · 4.54:1 on white (old #9a9a9a was 2.81:1 — failed AA)
-$meta-color-surface: #6b6b6b; // mirror of --c-meta-surface · 5.06:1 on #f9f9f9
-$text-dim: #666;          // Muted/tertiary text
+$text-strong: var(--c-ink-strong);  // was #303030 — merged into ink-strong (+1 RGB, night spec §3.3)
+$meta-color: var(--c-meta);     // mirror of --c-meta · 4.54:1 on white (old #9a9a9a was 2.81:1 — failed AA)
+$meta-color-surface: var(--c-meta-surface); // mirror of --c-meta-surface · 5.06:1 on #f9f9f9
+$text-dim: var(--c-meta-surface);   // was #666 — merged into meta-surface (+5 RGB, night spec §3.3)
 $footer-text: #aaa;       // Footer body text on dark bg (7.49:1 on #1a1a1a, WCAG AA)
 $footer-link: #bbb;       // Footer links on dark bg (8.84:1 on #1a1a1a, WCAG AA)
 
 // Semantic accent colors
-$red-dark: #b50f22;   // mirror of --c-accent · TIOS accents, carousel red
+$red-dark: var(--c-accent);   // mirror of --c-accent · TIOS accents, carousel red
 
 // Semantic border colors
-$border-light: #ddd;      // Thin rules, sidebar borders
-$border-lighter: #eee;    // Section dividers, subtle separators
+$border-light: var(--c-line); // was #ddd — merged into line (+8 RGB, Matt ratified 2026-06-07; kills the 4th hairline stop)
+$border-lighter: var(--c-line-light);    // Section dividers, subtle separators
 
 // Semantic background colors
 $bg-dark: #333;           // Dark UI backgrounds (tooltips, toasts, footer elements)
@@ -92,11 +92,11 @@ $z-overlay: 1000;
 $tracking-tight: unquote("0.015em");
 
 // Semantic: Colors
-$link-underline-color: rgba(224, 22, 43, 0.4);
+$link-underline-color: var(--c-link-underline);
 $text-inverse:         #fff;
 $shadow-tooltip:       0 2px 10px rgba(0, 0, 0, 0.2);
 $hover-light:          rgba(255, 255, 255, 0.15);
-$away-mode-bg:         rgba(49, 49, 49, 0.03);
+$away-mode-bg: var(--c-away-wash);
 
 // Semantic: Layout
 // Containers — mirrors of --w-* (three stops; component-internal px widths
@@ -126,7 +126,7 @@ $link-underline-offset:    unquote("0.2em");
 }
 
 // Component tokens (shared with newsletter via PasteUp)
-$blockquote-bg: #fafafa;
+$blockquote-bg: var(--c-surface); // was #fafafa — merged into surface (−1 RGB, night spec §3.3)
 $blockquote-border-width: 4px;
 $blockquote-border-color: $border-light;
 $blockquote-padding: 1rem;                                                   
@@ -138,7 +138,7 @@ $content-font-family: $root-font-family;
 $content-line-height: 135%;
 $content-color: $gray-4;
 $content-max-image-width: 580px;
-$table-border-color: #cecece;
+$table-border-color: var(--c-line-strong); // was #cecece (−2 RGB, night spec §6.3 named exemption)
 $figcaption-color: #8e8e8e;
 // $figcaption-font-size retired (P2 — zero consumers)
 

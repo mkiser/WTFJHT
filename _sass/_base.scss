@@ -67,9 +67,9 @@ tbody tr:nth-child(odd) th {
 }
 
 mark {
-  background-color: #f6e9e8; // blush wash — search highlight
-  color: #96101d; // 7.43:1
-  border-bottom: 2px solid #e0162b; // the underscore carries the meaning (non-color
+  background-color: var(--c-red-wash); // blush wash — search highlight
+  color: var(--c-danger-deep); // 7.43:1 on light wash
+  border-bottom: 2px solid var(--c-link); // the underscore carries the meaning (non-color
                                     // cue) — a border, not a shadow, so Law V's
                                     // no-shadow gate stays absolute (board fix #14)
 }
@@ -88,3 +88,10 @@ img {
 // Utilities (replace inline styles removed in the rebrand pass)
 .mt-2 { margin-top: 2em; }
 .t-center { text-align: center; }
+
+// Theme flips are instant — Law V. The resolver wears .theme-snap on <html>
+// for one frame around any data-theme change to suppress component transitions.
+.theme-snap,
+.theme-snap * {
+  transition: none !important;
+}

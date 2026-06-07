@@ -9,12 +9,17 @@
 
 footer {
   background-color: $bg-darker;
+  // Night printing: the footer deepens to black — the chrome frame bookends the
+  // page (masthead #000 above, footer #000 below). Ratified (Matt, 2026-06-07).
+  [data-theme="night"] & {
+    background-color: #000;
+  }
   color: #9aa0a6; // night-meta family · 6.0:1 on #222
   margin-top: 2em;
   padding: 0;
 
   a {
-    color: $gray-1;
+    color: #f9f9f9; // pinned — invariant chrome (was $gray-1 used as light paint)
     text-decoration: none;
 
     &:hover {
@@ -39,7 +44,7 @@ footer {
   .ft-subscribe__title {
     font-size: 1.1rem;
     font-weight: 600;
-    color: $gray-1;
+    color: #f9f9f9; // pinned — invariant chrome
     margin: 0 0 0.5rem;
   }
 
@@ -56,14 +61,14 @@ footer {
   .ft-subscribe .subscribe-form__input {
     background: $bg-dark;
     border-color: #444;
-    color: $gray-1;
+    color: #f9f9f9; // pinned — invariant chrome
 
     &::placeholder {
       color: #aab0b6; // 5.0:1 on #333
     }
 
     &:focus {
-      border-color: $text-dim;
+      border-color: #666; // pinned — invariant chrome
       background: #3a3a3a;
     }
   }
@@ -191,7 +196,7 @@ footer {
 
   // Legal section
   .ft-legal {
-    background-color: $body-color;
+    background-color: #1a1a1a; // pinned — invariant chrome (was $body-color as dark paint)
     padding: 1rem;
     text-align: center;
     font-size: 0.75rem;
@@ -206,6 +211,46 @@ footer {
 
       &:hover {
         color: #fff;
+      }
+    }
+  }
+
+  // Appearance control (3-state) — lives on the black legal strip: chrome, pinned paints
+  .theme-control {
+    margin: 0.5rem 0 0;
+
+    .theme-control__label {
+      color: $footer-text;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 0.75rem; // label floor
+    }
+
+    .theme-control__btn {
+      background: none;
+      border: none;
+      border-radius: 0;
+      padding: 0.25rem 0.4rem;
+      font: inherit;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: $footer-link;
+      cursor: pointer;
+
+      &[aria-checked="true"] {
+        color: #fff;
+        text-decoration: underline;
+        text-underline-offset: 0.2em;
+      }
+
+      &:hover {
+        color: #fff;
+      }
+
+      &:focus {
+        outline: 2px solid #fff; // focus on dark ground wears white (masthead pattern)
+        outline-offset: 2px;
       }
     }
   }
@@ -1152,7 +1197,7 @@ div.flex-item ul.package {
 
   &::-webkit-slider-runnable-track {
     height: 2px;
-    background: #ccc;
+    background: var(--c-line-strong);
   }
 
   &::-webkit-slider-thumb {
@@ -1161,7 +1206,7 @@ div.flex-item ul.package {
     width: 12px;
     height: 12px;
     margin-top: -5px; // centers the 12px thumb on the 2px track
-    background: #111;
+    background: var(--c-ink); // was #111 (+9, ink merge)
     border: 0;
     border-radius: 0;
     cursor: pointer;
@@ -1169,13 +1214,13 @@ div.flex-item ul.package {
 
   &::-moz-range-track {
     height: 2px;
-    background: #ccc;
+    background: var(--c-line-strong);
   }
 
   &::-moz-range-thumb {
     width: 12px;
     height: 12px;
-    background: #111;
+    background: var(--c-ink); // was #111 (+9, ink merge)
     border: 0;
     border-radius: 0;
     cursor: pointer;
@@ -1193,7 +1238,7 @@ div.flex-item ul.package {
 .audio-player__trigger:focus-visible,
 .audio-player__playpause:focus-visible,
 .audio-player__progress:focus-visible {
-  outline: 2px solid #e0162b;
+  outline: 2px solid var(--c-focus);
   outline-offset: 2px;
 }
 
@@ -1384,7 +1429,7 @@ div.flex-item ul.package {
   font-size: 2rem;
   font-weight: 700;
   margin: 0 0 0.25rem;
-  color: #111;
+  color: var(--c-ink); // was #111 (+9 near-black, night spec exemption)
 
   @media (min-width: 600px) {
     font-size: 2.5rem;
@@ -1418,7 +1463,7 @@ div.flex-item ul.package {
   }
 
   .stat strong {
-    color: #111;
+    color: var(--c-ink);
   }
 }
 
@@ -1444,8 +1489,8 @@ div.flex-item ul.package {
     transition: background 0.2s, color 0.2s;
 
     &:hover {
-      background: #111;
-      color: #fff;
+      background: var(--c-ink);
+      color: var(--c-bg);
     }
   }
 
@@ -1545,7 +1590,7 @@ div.flex-item ul.package {
   transition: border-color 0.2s, background-color 0.2s;
 
   &:hover {
-    border-color: #1a1a1a; // flat hover — ink border, surface wash
+    border-color: var(--c-ink); // flat hover — ink border, surface wash
     background: $gray-1;
   }
 }
@@ -1568,7 +1613,7 @@ div.flex-item ul.package {
   font-size: 1rem;
   font-weight: 600;
   margin: 0 0 0.5rem;
-  color: #111;
+  color: var(--c-ink);
 }
 
 .author-posts__desc {
@@ -1731,7 +1776,7 @@ div.flex-item ul.package {
   font-weight: bold;
 
   .algolia__result-highlight {
-    background-color: #f6e9e8; // red wash — engineered opaque (was alpha blue; Law I)
+    background-color: var(--c-red-wash); // engineered opaque (was alpha blue; Law I)
   }
 }
 
@@ -1741,7 +1786,7 @@ div.flex-item ul.package {
 
 .algolia__result-text .ais-Highlight {
   font-weight: bold;
-  background-color: #f6e9e8; // red wash — engineered opaque, never alpha-made
+  background-color: var(--c-red-wash); // engineered opaque, never alpha-made
   padding: 0.1em 0.2em;
   border-radius: 0; // square (Law II)
 }

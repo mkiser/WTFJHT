@@ -7,6 +7,40 @@
     size: letter;
   }
 
+  // Night never reaches paper: re-pin the full token sheet to day values.
+  // LITERALS ONLY — Ruby Sass 3.7.4 emits un-interpolated $vars inside
+  // custom-property declarations as literal text (verified 2026-06-07).
+  // The [data-theme="night"] selector in the group is what outguns the
+  // night block's specificity.
+  :root,
+  [data-theme="night"] {
+    color-scheme: light;
+    --c-bg: #fff;
+    --c-surface: #f9f9f9;
+    --c-line: #e5e5e5;
+    --c-line-light: #eee;
+    --c-line-strong: #ccc;
+    --c-ink: #1a1a1a;
+    --c-ink-strong: #313131;
+    --c-ink-medium: #515151;
+    --c-meta: #767676;
+    --c-meta-surface: #6b6b6b;
+    --c-link: #e0162b;
+    --c-link-hover: #b50f22;
+    --c-accent: #b50f22;
+    --c-danger: #b50f22;
+    --c-danger-deep: #96101d;
+    --c-red-wash: #f6e9e8;
+    --c-red-tint: #ebccc9;
+    --c-success: #2f7d5c;
+    --c-warning: #b45309;
+    --c-grid: #aeb6bd;
+    --c-axis: #64707a;
+    --c-focus: #e0162b;
+    --c-link-underline: rgba(224, 22, 43, 0.4);
+    --c-away-wash: rgba(49, 49, 49, 0.03);
+  }
+
   // Hide everything except content
   .site-nav,
   .wtf-search,

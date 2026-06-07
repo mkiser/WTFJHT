@@ -56,6 +56,10 @@
   // focus
   --c-focus: #e0162b;
 
+  // functional overlays (alpha sanctioned here — never for light reds)
+  --c-link-underline: rgba(224, 22, 43, 0.4);
+  --c-away-wash: rgba(49, 49, 49, 0.03);
+
   // the tile — the system's only rounding (Law II): radius = 0.21 x side
   --tile-radius-ratio: 0.21;
 
@@ -69,26 +73,36 @@
 }
 
 // ------------------------------------------------------------
-// The night printing — populated when dark mode ships (locked
-// values from the brand book; inert until [data-theme="night"]
-// is set on <html> or the prefers-color-scheme bridge is added).
+// The night printing — ACTIVE. Locked values from the brand
+// book (2026-06-04 rulings) + the 2026-06-07 additions; flipped
+// by [data-theme="night"] on <html> (set by the head resolver).
 // ------------------------------------------------------------
-// [data-theme="night"] {
-//   color-scheme: dark;
-//   --c-bg: #16191d;
-//   --c-surface: #22262b;
-//   --c-line: #2c3138;
-//   --c-ink: #cdc9c1;
-//   --c-meta: #9aa0a6;
-//   --c-meta-surface: #9aa0a6;
-//   --c-link: #e67a75;
-//   --c-link-hover: #ef8d88;  // hover goes LIGHTER on dark (7.4:1; #da4b49 as text failed AA at 4.27)
-//   --c-accent: #da4b49;     // borders & fills only — never text
-//   --c-danger: #e67a75;
-//   --c-red-wash: #3c2826;  // engineered opaque, hue 24 (the old alpha spec landed at hue 5.6 — same defect as the quiz)
-//   --c-success: #5cb389;
-//   --c-warning: #e3973f;
-//   --c-grid: #333b42;
-//   --c-axis: #9aa0a6;
-//   --c-focus: #e67a75;
-// }
+[data-theme="night"] {
+  color-scheme: dark;
+  --c-bg: #16191d;
+  --c-surface: #22262b;
+  --c-line: #2c3138;
+  --c-line-light: #262b31;    // subtler than line, mirrors light relationship
+  --c-line-strong: #3a414a;   // stronger than line
+  --c-ink: #cdc9c1;
+  --c-ink-strong: #bfbbb3;    // heads sit one step under ink (~8.9:1)
+  --c-ink-medium: #aaa69e;    // ~7:1
+  --c-meta: #9aa0a6;
+  --c-meta-surface: #9aa0a6;
+  --c-link: #e67a75;
+  --c-link-hover: #ef8d88;  // hover goes LIGHTER on dark (7.4:1; #da4b49 as text failed AA at 4.27)
+  --c-accent: #da4b49;     // borders & fills only — never text
+  --c-danger: #e67a75;
+  --c-danger-deep: #f0938e;   // text-on-wash role inverts to light (~4.6:1 on night wash)
+  --c-red-wash: #3c2826;  // engineered opaque, hue 24 (the old alpha spec landed at hue 5.6 — same defect as the quiz)
+  --c-red-tint: #4a302d;      // one step deeper than wash
+  // --c-brand-black stays #000 (fixture)
+  // --c-brand-blue stays #0052a5 — FLAGGED: Law I fill on night ground unviewed (instrument slice)
+  --c-success: #5cb389;
+  --c-warning: #e3973f;
+  --c-grid: #333b42;
+  --c-axis: #9aa0a6;
+  --c-focus: #e67a75;
+  --c-link-underline: rgba(230, 122, 117, 0.45);  // derived from night link
+  --c-away-wash: rgba(205, 201, 193, 0.05);       // derived from night ink
+}

@@ -7,7 +7,7 @@
   position: absolute;
   left: -9999px;
   z-index: 1000;
-  background: $body-bg;
+  background: #fff; // pinned — floats over chrome, must read on any ground
   color: #000;
   padding: 0.5rem 1rem;
   border-radius: 0; // square (Law II)
@@ -146,7 +146,7 @@
   }
 
   &:focus {
-    outline: 2px solid #e0162b; // crimson — a white ring vanishes against this
+    outline: 2px solid var(--c-focus); // crimson — a white ring vanishes against this
     outline-offset: 2px;        // white-filled button (4.86:1 on the black masthead)
   }
 }

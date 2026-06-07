@@ -15,14 +15,14 @@ show_title: false
   padding: 0;
 }
 .ds-reference-body details {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid var(--c-line-light, #eee);
 }
 .ds-reference-body details:last-child {
   border-bottom: none;
 }
 .ds-reference-body summary {
   font-weight: 600;
-  color: #313131;
+  color: var(--c-ink-strong, #313131);
   cursor: pointer;
   padding: 0.6em 0;
   font-size: 0.95em;
@@ -33,7 +33,7 @@ show_title: false
 }
 .ds-reference-body summary::before {
   content: "+ ";
-  color: #767676;
+  color: var(--c-meta, #767676);
   font-weight: 400;
   font-size: 0.95em;
 }
@@ -41,7 +41,7 @@ show_title: false
   content: "– ";
 }
 .ds-reference-body summary:focus-visible {
-  outline: 2px solid #313131;
+  outline: 2px solid var(--c-ink-strong, #313131);
   outline-offset: 2px;
 }
 .ds-reference-body ul {
@@ -59,7 +59,7 @@ show_title: false
 
 /* Action box */
 .ds-action {
-  border: 1px solid #e5e5e5; /* hairline card on the page ground (Law VII; page-walk M5) */
+  border: 1px solid var(--c-line, #e5e5e5); /* hairline card on the page ground (Law VII; page-walk M5) */
   border-radius: 0; /* square (Law II) */
   padding: 1.25rem 1.5rem 1rem;
   margin: 2em 0;
@@ -69,7 +69,7 @@ show_title: false
   margin-bottom: 0.1em;
 }
 .ds-action .ds-action-sub {
-  color: #767676;
+  color: var(--c-meta, #767676);
   font-size: 0.9em;
   margin-bottom: 0.75em;
 }
@@ -96,7 +96,7 @@ show_title: false
   font-size: 0.8em;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  color: #767676;
+  color: var(--c-meta, #767676);
   margin: 0 0 0.35em;
   font-weight: 600;
 }
@@ -117,12 +117,12 @@ show_title: false
 .ds-footer {
   margin-top: 2.5em;
   padding-top: 1em;
-  border-top: 1px solid #eee;
+  border-top: 1px solid var(--c-line-light, #eee);
   font-size: 0.8em;
-  color: #767676;
+  color: var(--c-meta, #767676);
 }
 .ds-footer a {
-  color: #767676;
+  color: var(--c-meta, #767676);
 }
 </style>
 

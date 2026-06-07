@@ -11,11 +11,11 @@
   --q-ink:         var(--c-ink, #1a1a1a); /* body-color */
   --q-ink-strong:  var(--c-ink-strong, #313131); /* gray-5 */
   --q-ink-med:     var(--c-ink-medium, #515151); /* gray-4 */
-  --q-ink-mute:    #737373; /* WCAG AA: 4.6:1 on white */
-  --q-ink-meta:    #6b6b6b; /* WCAG AA: 4.74:1 on white (old gray failed at 2.85:1) */
+  --q-ink-mute:    var(--c-meta, #737373); /* +3 vs old literal — night spec named exemption */
+  --q-ink-meta:    var(--c-meta-surface, #6b6b6b);
   --q-line:        var(--c-line, #e5e5e5); /* border-color */
   --q-line-light:  var(--c-line-light, #eeeeee); /* border-lighter */
-  --q-line-soft:   #dddddd; /* border-light */
+  --q-line-soft:   var(--c-line, #e5e5e5); /* border-light merge, ratified 2026-06-07 */
   --q-surface:     var(--c-surface, #f9f9f9); /* gray-1 */
   --q-gray-2:      var(--c-line-strong, #cccccc); /* gray-2 */
   --q-accent:      var(--c-link, #e0162b); /* brand crimson (OKLCH H24.8) */
@@ -28,6 +28,7 @@
   --q-success:      var(--c-success, #2f7d5c);
   --q-success-dk:   #1e5631;
   --q-success-wash: rgba(47, 125, 92, 0.07);
+  --q-success-flash: rgba(47, 125, 92, 0.18); /* correctPulse start frame */
 
   --q-serif: Georgia, "Times New Roman", Times, serif;
   --q-sans:  -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
@@ -219,7 +220,7 @@
   padding: 0.95rem 1.05rem;
   border: 1px solid var(--q-line);
   border-radius: 0; /* square (Law II; quiz migration) */
-  background: #fff;
+  background: var(--c-bg, #fff);
   cursor: pointer;
   text-align: left;
   font-family: var(--q-sans);
@@ -288,7 +289,7 @@
 }
 
 @keyframes correctPulse {
-  0%   { background-color: rgba(47, 125, 92, 0.18); }
+  0%   { background-color: var(--q-success-flash); }
   100% { background-color: var(--q-success-wash); }
 }
 
@@ -655,7 +656,7 @@
   border: 1px solid var(--q-gray-2);
   border-radius: 0; /* square (Law II; quiz migration) */
   min-height: 40px;
-  background: #fff;
+  background: var(--c-bg, #fff);
 }
 
 .quiz-subscribe .subscribe-form__input:focus {
@@ -886,7 +887,7 @@
 
 .quiz-archive-item__editions a:hover {
   border-color: var(--q-gray-2);
-  background: #fff;
+  background: var(--c-bg, #fff);
 }
 
 .quiz-archive-day {
@@ -975,4 +976,25 @@
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border: 0;
+}
+
+/* ── Night printing ─────────────────────────────────────────────
+   Site tokens flip via [data-theme] on <html>; these overrides cover
+   the quiz-local values that have no site token. */
+[data-theme="night"] .quiz-container {
+  --q-success-wash: rgba(92, 179, 137, 0.12);   /* night success wash (from --c-success) */
+  --q-success-flash: rgba(92, 179, 137, 0.18);  /* correctPulse start frame, night */
+}
+[data-theme="night"] .quiz-next-btn,
+[data-theme="night"] .quiz-share-btn,
+[data-theme="night"] .quiz-subscribe .subscribe-form__button {
+  color: #111;
+  background: #fff;
+  border-color: #fff;
+}
+[data-theme="night"] .quiz-next-btn:hover,
+[data-theme="night"] .quiz-share-btn:hover,
+[data-theme="night"] .quiz-subscribe .subscribe-form__button:hover {
+  background: #cfcfcf; /* dims, stays light */
+  color: #111;
 }

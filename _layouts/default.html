@@ -2,9 +2,43 @@
 <html lang="en">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <script>
+    /* Night printing resolver — runs before CSS so first paint is correct.
+       3-state: localStorage "wtfjht-theme" = "day" | "night" | absent (= AUTO, follow OS). */
+    (function () {
+      var KEY = 'wtfjht-theme', root = document.documentElement, mq = null;
+      function stored() {
+        var v = null;
+        try { v = localStorage.getItem(KEY); } catch (e) { return null; }
+        if (v === 'day' || v === 'night') return v;
+        if (v !== null) { try { localStorage.removeItem(KEY); } catch (e) {} }
+        return null;
+      }
+      function apply(pref) {
+        var night = pref ? pref === 'night' : !!(mq && mq.matches);
+        root.classList.add('theme-snap'); // suppress transitions: theme flips are instant (Law V)
+        if (night) root.setAttribute('data-theme', 'night');
+        else root.removeAttribute('data-theme');
+        if (window.requestAnimationFrame) {
+          requestAnimationFrame(function () { requestAnimationFrame(function () { root.classList.remove('theme-snap'); }); });
+        } else { root.classList.remove('theme-snap'); }
+      }
+      try { mq = window.matchMedia('(prefers-color-scheme: dark)'); } catch (e) {}
+      function onOsChange() { if (stored() === null) apply(null); }
+      if (mq) {
+        if (mq.addEventListener) { mq.addEventListener('change', onOsChange); }
+        else if (mq.addListener) { mq.addListener(onOsChange); }
+      }
+      window.addEventListener('storage', function (e) {
+        if (e.key === KEY || e.key === null) { apply(stored()); }
+      });
+      window.WTFTheme = { KEY: KEY, stored: stored, apply: apply };
+      apply(stored());
+    })();
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#000000">
-    <meta name="color-scheme" content="light">
+    <meta name="color-scheme" content="light dark">
     {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
     <!-- AnchorJS styles, pre-supplied WITHOUT its embedded icon font: the library
          only injects its own <style> (incl. @font-face) if style.anchorjs is absent.
@@ -255,9 +289,19 @@
         <section class="ft-legal">
           <p>
             <a href="{{ site.url }}{{ site.baseurl }}/archive/" id="random-post-link" class="easter-egg" aria-label="Random post">©</a>
+            2017–{{ site.time | date: '%Y' }}
             <a href="{{ site.url }}{{ site.baseurl }}/about/">WTF Just Happened? LLC</a>
             · Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener">CC BY-NC-SA 4.0</a>
             · <a href="{{ site.url }}{{ site.baseurl }}/license/">License</a>
+          </p>
+          <p class="theme-control" role="radiogroup" aria-label="Appearance">
+            <!-- PLACEHOLDER COPY — Matt owns the visible wording -->
+            <span class="theme-control__label">Appearance:</span>
+            <button type="button" role="radio" class="theme-control__btn" data-theme-pref="auto">Auto</button>
+            <span aria-hidden="true">·</span>
+            <button type="button" role="radio" class="theme-control__btn" data-theme-pref="day">Day</button>
+            <span aria-hidden="true">·</span>
+            <button type="button" role="radio" class="theme-control__btn" data-theme-pref="night">Night</button>
           </p>
         </section>
       </footer>
@@ -265,6 +309,7 @@
       <!-- SEARCH (lazy-loaded on first interaction) -->
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/search.js?v={{ site.time | date: '%s' }}" defer></script>
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/randomPost.js?v={{ site.time | date: '%s' }}" defer></script>
+      <script src="{{ site.url }}{{ site.baseurl }}/public/js/theme-control.js?v={{ site.time | date: '%s' }}" defer></script>
       <!-- PWA SERVICE WORKER -->
       <script>
         window.addEventListener('load', function() {

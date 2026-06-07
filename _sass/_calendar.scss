@@ -94,11 +94,11 @@
 
   &.has-post {
     background-color: $red;
-    border-color: #b50f22;
+    border-color: var(--c-accent);
     cursor: pointer;
 
     &:hover {
-      background-color: #96101d;
+      background-color: var(--c-danger-deep);
       outline: 2px solid $gray-5;
       outline-offset: -1px;
     }
@@ -240,7 +240,7 @@
   left: 0;
   right: 0;
   background: rgba(235, 204, 201, 0.6); // blush tint as functional overlay (content reads through — the one sanctioned alpha)
-  border: 2px solid #e0162b;             // solid grip — the draggable viewport must be findable
+  border: 2px solid var(--c-link);             // solid grip — the draggable viewport must be findable
   border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
   pointer-events: none;
 }

@@ -24,7 +24,7 @@
 .counter-card {
   background: $body-bg;
   padding: 1rem;
-  border: 1px solid #e5e5e5; // flat card on the page ground (one box deep)
+  border: 1px solid var(--c-line); // flat card on the page ground (one box deep)
 }
 
 .counter-number {
@@ -74,8 +74,8 @@
   background: $red;
   transition: width 0.3s ease;
 
-  &.biden { background: #0052a5; }     // Law I blue
-  &.election { background: #64707a; }  // neutral axis gray
+  &.biden { background: var(--c-brand-blue); }     // Law I blue
+  &.election { background: var(--c-axis); }  // neutral axis gray
 }
 
 // Mobile

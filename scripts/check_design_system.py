@@ -54,6 +54,11 @@ BANNED_COLOR_PATTERNS = [
     r"rgba\(200,\s*50,\s*50", r"rgba\(38,\s*139,\s*210",  # alpha-made highlights
 ]
 
+# Night printing (shipped 2026-06-07): the night block must exist with the
+# locked core values; no Sass var may leak un-interpolated into a custom
+# property (Ruby Sass 3.7.4 emits `--x: $y` literally — verified by test).
+NIGHT_LOCKED_VALUES = ["--c-bg: #16191d", "--c-ink: #cdc9c1", "--c-link: #e67a75"]
+
 # Pages allowed to carry @font-face (D-B ruling 2026-06-05: /live/ stays as-is).
 FONTFACE_EXEMPT_PAGES = {"live/index.html"}
 
@@ -158,6 +163,47 @@ def check(site: Path):
                 failures.append(f"{rel}: @font-face rule in page (Law VI; only /live/ is exempt per D-B)")
         except OSError:
             pass
+
+    # Night printing gates (2026-06-07) — compiled + SOURCE scans (spec §6.7.4)
+    repo = site.parent if (site.parent / "_sass").exists() else Path(".")
+    source_files = sorted((repo / "_sass").glob("*.scss")) + sorted((repo / "public/css").glob("*.css"))
+    page_style_files = [repo / p for p in ("do-something/index.md", "just-asking-questions/index.html",
+                                           "pulse/enter/index.html", "pulse/thanks/index.html")]
+    # Pin whitelist: values that legitimately live as literals in source (chrome + exempt surfaces).
+    # Everything below is documented in the night spec §6.3 / §4 — additions need a ruling.
+    SOURCE_BANNED = {
+        r"#ddd\b": "border-light merge — #ddd retired 2026-06-07",
+        r"#fafafa\b": "blockquote-bg merge — #fafafa retired",
+        r"#dddddd\b": "border-light merge — retired",
+    }
+    for f in source_files + [p for p in page_style_files if p.exists()]:
+        text = f.read_text()
+        for pat, why in SOURCE_BANNED.items():
+            for m in re.finditer(pat, text):
+                # allow inside comments referencing history
+                line = text[:m.start()].split("\n")[-1] + text[m.start():].split("\n")[0]
+                if "//" in line.split(pat.strip("\\b"))[0] or "/*" in line:
+                    continue
+                failures.append(f"{f.name}: retired literal {pat} present ({why})")
+        # self-referential custom properties (--x: var(--x))
+        for m in re.finditer(r"(--[a-z0-9_-]+):\s*var\(\s*\1\s*[,)]", text):
+            failures.append(f"{f.name}: self-referential custom property {m.group(1)}")
+        # un-interpolated Sass vars inside custom props, at SOURCE level
+        if f.suffix == ".scss":
+            for m in re.finditer(r"--[a-z0-9_-]+:\s*\$[a-z0-9_-]+", text):
+                failures.append(f"{f.name}: un-interpolated Sass var in custom property (source): {m.group(0)}")
+
+    # Night printing gates (2026-06-07)
+    main_css = css_texts.get(site / "styles.css", "")
+    if '[data-theme="night"]' not in main_css:
+        failures.append('styles.css: night token block missing ([data-theme="night"])')
+    else:
+        for tok in NIGHT_LOCKED_VALUES:
+            if tok not in main_css:
+                failures.append(f"styles.css: night locked value drifted or missing: {tok}")
+    for path, css in css_texts.items():
+        for m in re.finditer(r"--[a-z0-9_-]+:\s*\$[a-z0-9_-]+", css):
+            failures.append(f"{path.name}: un-interpolated Sass var in custom property: {m.group(0)}")
 
     return failures, notes
 

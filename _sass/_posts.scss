@@ -71,6 +71,16 @@ article.post div.post-content > p:not(.tios) {
     color: $red-dark;
     font-weight: 600; // pilcrow furniture, light ground (type migration P1, ruling 6)
   }
+
+  // Night printing: accent is borders & fills only — never text (night sheet law).
+  // As text glyphs the pilcrow/dot step to danger (#e67a75, 6.2:1); day accent
+  // passes as text (6.0:1 on white) so day keeps $red-dark.
+  [data-theme="night"] & {
+    .tios__dot,
+    .tios__pilcrow {
+      color: var(--c-danger);
+    }
+  }
 }
 
 // 404 page recent posts
@@ -625,7 +635,7 @@ div.topic-date {
   &__count {
     font-family: $code-font-family;
     font-size: unquote("max(.85em, .8rem)"); // data-inline pattern (board fix #19)
-    color: #6b6b6b;
+    color: var(--c-meta-surface);
   }
 }
 
@@ -872,7 +882,7 @@ div.topic-date {
   &__tag-count {
     font-family: $code-font-family;
     font-size: unquote("max(.85em, .8rem)"); // data-inline pattern (board fix #19)
-    color: #6b6b6b;
+    color: var(--c-meta-surface);
   }
 
   &__year {

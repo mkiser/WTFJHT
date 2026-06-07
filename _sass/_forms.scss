@@ -121,3 +121,44 @@
     line-height: 1.6;
   }
 }
+
+// Night printing: the ink-square family inverts (footer precedent — #111
+// vanishes on night ground). One rule, every ink square on themed pages.
+// KEEP IN SYNC with the footer button override in _layout.scss (.ft-subscribe .subscribe-form__button)
+[data-theme="night"] .subscribe-form__button,
+[data-theme="night"] .jaq-btn,
+[data-theme="night"] .pulse-btn,
+[data-theme="night"] .btn,
+[data-theme="night"] .search-load-more {
+  color: #111;
+  background-color: #fff;
+  border-color: #fff;
+
+  &:hover {
+    background-color: #cfcfcf; // dims, stays light
+    color: #111;
+  }
+
+  &:active {
+    background-color: #cfcfcf;
+    color: #111;
+  }
+}
+
+// Night printing: all text inputs converge on the dark field spec (the footer's
+// solved pattern) — one input component, no UA-default fallthrough
+// KEEP IN SYNC with the footer input override in _layout.scss (.ft-subscribe .subscribe-form__input)
+[data-theme="night"] .subscribe-form__input,
+[data-theme="night"] .jaq-input,
+[data-theme="night"] .jaq-select,
+[data-theme="night"] .jaq-textarea,
+[data-theme="night"] .pulse-textarea,
+[data-theme="night"] .pulse-enter-input {
+  background-color: #333;
+  border-color: #444;
+  color: #f9f9f9;
+
+  &::placeholder {
+    color: #aab0b6; // 5.0:1 on #333
+  }
+}

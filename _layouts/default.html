@@ -310,6 +310,17 @@
             };
             anchors.add('.post-content > p, .post > p, .post li, .post blockquote p, .post-content h3');
             anchors.remove('.post ol li, div.post.archive p.archive-year, div.post.archive ul.archive-months li, .tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
+            {% if page.url == '/' %}
+            // Homepage: rewrite anchor hrefs to the canonical post permalink so copied
+            // links survive the next day's publish (a bare /#id rots within 24 hours)
+            var article = document.querySelector('article.post[data-post-url]');
+            if (article) {
+              var postUrl = article.getAttribute('data-post-url');
+              document.querySelectorAll('.anchorjs-link').forEach(function(a) {
+                a.href = postUrl + a.getAttribute('href');
+              });
+            }
+            {% endif %}
           });
         </script>
 
@@ -369,7 +380,11 @@
             var node = selection.anchorNode;
             while (node && node !== document.body) {
               if (node.nodeType === 1 && node.id) {
-                return window.location.origin + window.location.pathname + '#' + node.id;
+                // Prefer the canonical post permalink (homepage article carries
+                // data-post-url) so shared links survive the next day's publish
+                var article = node.closest('article.post[data-post-url]');
+                var base = article ? article.getAttribute('data-post-url') : window.location.pathname;
+                return window.location.origin + base + '#' + node.id;
               }
               node = node.parentNode;
             }

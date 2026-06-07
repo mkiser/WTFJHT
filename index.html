@@ -42,6 +42,7 @@ seo:
 
   {% for page in site.posts limit:1 %}
   <article class="post"
+    data-post-url="{{ site.baseurl }}{{ page.url }}"
     data-carousel-day="{{ page.title | remove: 'Day ' }}"
     data-carousel-desc="{{ page.description | smartify | xml_escape }}"
     data-carousel-date="{{ page.date | date: '%b %-d, %Y' }}"

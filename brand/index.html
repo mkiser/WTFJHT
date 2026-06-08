@@ -109,8 +109,10 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      below restates the component's own declared values — nothing new is invented. */
   .bible .plate-render .site-nav li a { color: rgba(255,255,255,0.9); text-decoration: none; }
   .bible .plate-render .site-nav li a:hover { color: #fff; text-decoration: underline; }
-  .bible .plate-render .site-nav .nav-cta { color: #111; }
-  .bible .plate-render .site-nav .nav-cta:hover { text-decoration: none; }
+  .bible .plate-render .site-nav .nav-cta { color: #fff; font-weight: 600;
+        text-decoration: underline; text-decoration-color: rgba(255,255,255,0.5);
+        text-underline-offset: 3px; }
+  .bible .plate-render .site-nav .nav-cta:hover { text-decoration: underline; text-decoration-color: #fff; }
   .bible .plate-render .masthead-title a { color: inherit; text-decoration: none; }
   .bible .plate-render .masthead-meta a { color: #fff; text-decoration: underline;
         text-decoration-color: rgba(255,255,255,0.4); text-underline-offset: 2px; }
@@ -634,6 +636,13 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      Cards hover by lightening, never inverting: a full surface flashing to white reads
      as a content panel, not a pressed control — the invert hover belongs to compact
      buttons. Never pills, never lifts, never shadows.</p>
+  <p class="note"><b>The masthead CTA is a link, not a button (2026-06-07).</b>
+     “Become a Member” in the nav speaks link-language (Ch.15), not the ink square: it is
+     emphasized to full white at 600 with a persistent soft-white underline that fills to
+     solid on hover. This holds the homepage to <em>one</em> primary button — “Subscribe
+     for free.” The dark-ground inverted button above is the footer subscribe pair, not the
+     nav. A future swap to a framed/ghost secondary button would be a real amendment to this
+     chapter, ratified like everything else here.</p>
 </section>
 
 <section class="chap" id="c17">
@@ -968,7 +977,7 @@ root clamp(1.0625rem, 1.0125rem + .2vw, 1.125rem)</code></pre>
   <table>
     <tr><th>part</th><th>rule</th></tr>
     <tr><td>Nav links</td><td>white on #000 · 400 — dark grounds map down (irradiation)</td></tr>
-    <tr><td>Become a Member</td><td>dark-ground button: white fill, ink text, square, dimming hover</td></tr>
+    <tr><td>Become a Member</td><td>emphasized nav link, <em>not</em> a button — full white, 600, persistent soft-white underline that fills on hover (cedes primary weight to “Subscribe for free”; Ch.16)</td></tr>
     <tr><td>Title</td><td>display voice on ink ground</td></tr>
     <tr><td>Search field</td><td>the one input spec: square, 46px, body-size text — Law II, zero shape exceptions</td></tr>
   </table>

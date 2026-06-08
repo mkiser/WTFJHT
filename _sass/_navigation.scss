@@ -129,25 +129,23 @@
   }
 }
 
-// CTA button for Membership — dark ground, so the ink square inverts at rest:
-// white button, ink text, dimming hover (the button chapter's dark-ground rule)
-.nav-cta {
-  background: #fff;
-  color: #111 !important;
-  padding: 0.5rem 1rem !important;
+// "Become a Member" — emphasized nav LINK, not a button. Brand Book Ch.16 holds
+// "one primary button"; the nav CTA cedes that weight to "Subscribe for free"
+// (the lone ink square) and speaks link-language (Ch.14–15), just heavier: full
+// white, 600, with a persistent soft-white underline that fills to solid on
+// hover. Selector carries .nav-links to clear the base nav-link specificity;
+// size, padding, and focus ring all inherit the base link — it IS a nav link now.
+.nav-links a.nav-cta {
+  color: #fff;
   font-weight: 600;
-  border: 1px solid #fff;
-  border-radius: 0; // square (Law II; board fix #4)
+  text-decoration: underline;
+  text-decoration-color: rgba(255, 255, 255, 0.5);
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.15s ease;
 
   &:hover {
-    background: #cfcfcf; // dims, stays light
-    border-color: #cfcfcf;
-    text-decoration: none !important;
-  }
-
-  &:focus {
-    outline: 2px solid var(--c-focus); // crimson — a white ring vanishes against this
-    outline-offset: 2px;        // white-filled button (4.86:1 on the black masthead)
+    color: #fff;
+    text-decoration-color: #fff;
   }
 }
 
@@ -155,7 +153,7 @@
 @media (prefers-reduced-motion: reduce) {
   .nav-links a,
   .nav-home,
-  .nav-cta {
+  .nav-links a.nav-cta {
     transition: none;
   }
 }
@@ -179,11 +177,8 @@
   .nav-links {
     gap: 0.6rem;
   }
-
-  .nav-cta {
-    padding: 0.35rem 0.6rem !important;
-    font-size: 0.75rem !important; // label floor — never below (board fix #4)
-  }
+  // .nav-cta is a plain nav link now — it tracks its siblings on mobile,
+  // no button padding/size override needed.
 }
 
 // Very small mobile

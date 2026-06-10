@@ -20,9 +20,9 @@
       {% if change.mode == 'inline' %}
         <p class="correction__change">{% for seg in change.segments %}{% case seg.t %}{% when 'del' %}<span class="sr-only">removed: </span><s>{{ seg.s | escape }}</s>{% when 'ins' %}<span class="sr-only">now: </span><mark>{{ seg.s | escape }}</mark>{% else %}{{ seg.s | escape }}{% endcase %}{% unless forloop.last %}{{ " " }}{% endunless %}{% endfor %}</p>
       {% else %}
-        <p class="correction__label">Before</p>
+        <p class="correction__label correction__label--before">Before</p>
         <div class="correction__block correction__block--before">{{ change.before | escape }}</div>
-        <p class="correction__label">After</p>
+        <p class="correction__label correction__label--after">After</p>
         <div class="correction__block correction__block--after">{{ change.after | escape }}</div>
       {% endif %}
     {% endcase %}

@@ -5,6 +5,11 @@ on:
     branches:
       - master
   workflow_dispatch:  # allow manual triggering
+    inputs:
+      incremental:
+        description: 'Data-only refresh: skip the search-index + leaderboard rebuild (used by the corrections / tag-page auto-commit workflows, whose GITHUB_TOKEN pushes cannot trigger this workflow directly).'
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -25,7 +30,14 @@ jobs:
         id: check
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "full_build=true" >> "$GITHUB_OUTPUT"
+            # Data-only refreshes (corrections / tag pages) dispatch with incremental=true:
+            # skip the heavy search-index + leaderboard rebuild. CHANGED_DATES stays empty,
+            # so On-This-Day regenerates fully (cheap, local) — same as any non-post push.
+            if [ "${{ inputs.incremental }}" = "true" ]; then
+              echo "full_build=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "full_build=true" >> "$GITHUB_OUTPUT"
+            fi
           elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
             echo "full_build=true" >> "$GITHUB_OUTPUT"
           elif ! CHANGED=$(git diff --name-only "${{ github.event.before }}" HEAD 2>/dev/null); then

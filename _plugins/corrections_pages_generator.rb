@@ -13,7 +13,7 @@ module Jekyll
       process(@name)
       self.data = {
         "layout"  => "corrections-year",
-        "title"   => "Corrections: #{year}",
+        "title"   => "Corrections and Revisions: #{year}",
         "year"    => year,
         "sitemap" => false,
         "noindex" => true,

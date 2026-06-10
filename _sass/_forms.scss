@@ -162,3 +162,161 @@
     color: #aab0b6; // 5.0:1 on #333
   }
 }
+
+// --- Reader Survey (schema-driven multi-section form, public/js/forms.js) ---
+// Tally-inspired: open, airy, modern — generous whitespace, a quiet section label with the
+// QUESTION as the hero, light-but-defined controls. Stays in the WTFJHT rule set: fully
+// token-driven (--c-* via the $gray-*/$border-color/$body-bg mirrors), SQUARE (no radius),
+// on the rem type scale, system font. No raw hex, no hand-rolled night palette.
+.survey { max-width: var(--w-prose); margin: 0 auto; padding: 1rem 1rem 4rem; }  // prose column + airy gutter
+.survey-header { margin-bottom: 2.5em; }
+.survey-intro { color: $gray-3; font-size: 1rem; line-height: 1.6; margin-top: 0.5em; }
+
+.survey-progress { margin-bottom: 2.75em; }
+.survey-progress-bar { height: 3px; background: $border-color; }
+.survey-progress-fill { height: 100%; width: 0; background: var(--c-ink-strong); transition: width 0.35s ease; }
+.survey-progress-label { font-size: 0.8rem; color: $gray-3; margin: 0.55em 0 0; }
+.survey-saved { font-size: 0.8rem; color: $gray-3; margin: 0.45em 0 0; }
+
+// Section title = quiet grouping label; the question below is the focus (Tally pattern).
+.survey-section-title { font-size: 1rem; font-weight: 600; color: $gray-3; letter-spacing: 0.01em; margin: 0 0 2em; }
+
+.survey-q { border: 0; padding: 0; margin: 0 0 2.5em; }  // generous breathing room between questions
+.survey-q-label { display: block; font-weight: 600; color: $gray-5; padding: 0; margin-bottom: 0.9em; font-size: 1.2rem; line-height: 1.4; }  // the hero — heading stop
+.survey-req { color: var(--c-danger); font-weight: 400; }
+
+.survey-options { display: flex; flex-direction: column; gap: 0.55em; }
+.survey-option {
+  position: relative;
+  display: flex; align-items: flex-start;
+  padding: 0.95em 1.05em;
+  border: 1px solid var(--c-line); background: $body-bg;
+  cursor: pointer; font-size: 1rem; color: $gray-4; line-height: 1.45;
+  transition: border-color 0.14s ease, background 0.14s ease;
+
+  // The whole card is the control. The native checkbox/radio COVERS the card (operable +
+  // findable by touch screen-readers who swipe to its physical position) and is visually
+  // transparent — opacity, NOT 1px-clip / sr-only / display:none (brand Ch28 floor).
+  input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
+  &:hover { border-color: $gray-3; background: var(--c-surface); }
+  &:has(input:checked) { border-color: var(--c-ink-strong); background: var(--c-surface); }
+  // Brand focus ring: 2px crimson outline, offset 2px, "everywhere, no exceptions" (Ch15).
+  &:has(input:focus-visible) { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+
+// AFFORDANCE — single vs multi shown by the INDICATOR SHAPE, not just the text. This is
+// the form-control exception to Law II's no-circles, ratified for the survey because the
+// historical radio=circle / checkbox=square convention is the clearest possible signal:
+//   • multi-select (checkbox) → a SHARP SQUARE tick-box (□ → ink ✓) — the open grid, the many
+//   • single-select (radio)   → a CIRCLE — outline → solid ink — the one
+// Both: leading 1.15rem indicator, flat ink fill (Law V), state carried by shape + glyph,
+// never hue (Law IV). The circle lives ONLY on the radio control — everywhere else stays square.
+.survey-option:has(input[type="checkbox"]),
+.survey-option:has(input[type="radio"]) { padding-left: 3em; }
+
+.survey-option:has(input[type="checkbox"])::before,
+.survey-option:has(input[type="radio"])::before {
+  content: ""; position: absolute; left: 1.05em; top: 1.05em;
+  width: 1.15rem; height: 1.15rem; box-sizing: border-box;
+  border: 1px solid $gray-3; background: var(--c-bg);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.85rem; font-weight: 700; line-height: 1;
+}
+// Radio indicator is a circle — the historical single-select affordance (the one
+// sanctioned exception to Law II, scoped to the radio control).
+.survey-option:has(input[type="radio"])::before { border-radius: 50%; }
+
+// Selected: checkbox fills ink with a ✓; radio fills solid ink.
+.survey-option:has(input[type="checkbox"]:checked)::before {
+  content: "\2713"; border-color: var(--c-ink-strong); background: var(--c-ink-strong); color: var(--c-bg);
+}
+.survey-option:has(input[type="radio"]:checked)::before {
+  border-color: var(--c-ink-strong); background: var(--c-ink-strong);
+}
+.survey-other-input { margin-top: 0.4em; }
+.survey-counter { font-size: 0.8rem; color: $gray-3; margin: 0 0 0.5em; }
+
+// NPS as a STABLE 11-column grid (no ragged flex-wrap) — even, scannable 0→10 scale.
+.survey-nps-row { display: grid; grid-template-columns: repeat(11, 1fr); gap: 0.4em; }
+.survey-nps-btn {
+  min-width: 0; min-height: 46px; padding: 0.4em;
+  font-family: $root-font-family; font-size: 1rem; color: $gray-4;
+  background: $body-bg; border: 1px solid var(--c-line); cursor: pointer;
+  transition: border-color 0.14s ease, background 0.14s ease;
+
+  &:hover { border-color: $gray-3; background: var(--c-surface); }
+  &.is-selected { background: var(--c-ink-strong); color: var(--c-bg); border-color: var(--c-ink-strong); }
+  &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+.survey-nps-labels { display: flex; justify-content: space-between; font-size: 0.8rem; color: $gray-3; margin-top: 0.6em; }
+
+// Inputs inherit the brand input spec from the shared jaq-* base (square · 1px border ·
+// 46px · night converges on the brand's #333/#444/#f9f9f9 field — "input identity beats
+// depth logic", brand Ch17). We add only airier padding + the brand focus ring (Ch15:
+// 2px crimson OUTLINE, offset 2px — never a box-shadow, which Law V / Ch29 retire).
+.survey .jaq-input,
+.survey .jaq-textarea {
+  padding: 0.65em 0.75em;
+  &:focus { outline: 2px solid var(--c-focus); outline-offset: 2px; box-shadow: none; border-color: var(--c-line); }
+}
+
+.survey-error { color: var(--c-danger); font-size: 0.9rem; margin: 0.55em 0 0; min-height: 1px; }
+.survey-q.has-error .survey-q-label { color: var(--c-danger); }
+.survey-q.has-error .survey-option { border-color: var(--c-danger); }
+
+// Visible submit-failure banner (sighted parity with the sr-only live region).
+// Background is the engineered light-red wash (brand law: light reds are engineered, never alpha-made).
+.survey-submit-error {
+  color: var(--c-danger); font-size: 0.95rem; font-weight: 600; margin: 1.25em 0 0;
+  padding: 0.7em 0.9em; border: 1px solid var(--c-danger); background: var(--c-red-wash);
+}
+.survey-checking { color: $gray-3; font-size: 1rem; }
+
+.survey-nav { display: flex; align-items: center; justify-content: space-between; gap: 1em; margin-top: 2.75em; }
+.survey-nav .jaq-btn { padding: 0.8em 1.75em; }  // airier primary button (scoped — shared jaq-btn base untouched)
+// Back = link-language (brand Ch15: underlined muted ink, hover crimson), NOT a second button.
+// Holds Ch16's "one primary button" — the same ruling that made the masthead CTA a link.
+.survey-btn-back {
+  background: none; border: 0; padding: 0.5em 0; min-height: 44px;
+  font-family: $root-font-family; font-size: 1rem; color: $gray-4;
+  text-decoration: underline; text-decoration-color: $border-color; cursor: pointer;
+
+  &:hover { color: var(--c-link); text-decoration-color: var(--c-link); }
+  &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+.survey-thanks-body { color: $gray-4; font-size: 1.1rem; line-height: 1.6; }
+.survey-link-btn {
+  display: inline-block; background: none; border: 0; padding: 0.5em 0; margin-top: 1.25em;
+  min-height: 44px; color: $link-color; text-decoration: underline; cursor: pointer; font-size: 0.95rem;
+
+  &:hover { color: var(--c-link-hover); }
+  &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+
+// Turnstile is invisible/managed (Matt's call); spacing covers the rare visible challenge.
+.survey-turnstile { margin: 1.5em 0 0; }
+
+.survey-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+.survey-sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+@media (max-width: 640px) {
+  // Keep the primary action thumb-reachable: the nav sticks to the viewport bottom on
+  // long scrolling sections. Sticky engages ONLY when content overflows, so short screens
+  // are unaffected (no floating bar). The .survey 4rem bottom padding clears the last item.
+  .survey-nav {
+    position: sticky; bottom: 0; z-index: 1;
+    margin-top: 2em;
+    padding: 0.75em 0 calc(0.75em + env(safe-area-inset-bottom, 0px));
+    background: var(--c-bg); border-top: 1px solid var(--c-line);
+  }
+}
+
+@media (max-width: 420px) {
+  // NPS 0-10 → two even rows (6 + 5) on narrow phones; stays >=44px tall.
+  .survey-nps-row { grid-template-columns: repeat(6, 1fr); }
+  .survey-nps-btn { font-size: 0.9rem; padding: 0.3em; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .survey-progress-fill, .survey-option, .survey-nps-btn { transition: none; }
+}

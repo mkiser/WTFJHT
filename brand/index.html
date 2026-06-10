@@ -248,7 +248,7 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
   <div class="law"><div class="l-no">Law I — one blue</div><b>Blue #0052a5 appears only as the W-slot and as partisan-D data.</b>
     <p>Never generic links, never info-semantics, never series-2 chart color. Red vs blue reads R vs D — that meaning is reserved.</p></div>
   <div class="law"><div class="l-no">Law II — the tile owns the rounding</div><b>The only border-radius in the system is the tile: radius = 0.21 × side.</b>
-    <p>Identity objects wear it (avatars, cover art, icon-only buttons). Everything else — buttons, inputs, cards, chips — is square. No pills.</p></div>
+    <p>Identity objects wear it (avatars, cover art, icon-only buttons). Everything else — buttons, inputs, cards, chips — is square. No pills. <b>One exception (2026-06-09):</b> the form radio control wears a circle — the historical single-select affordance, the clearest &ldquo;pick one.&rdquo; Scoped to the radio indicator only; the checkbox, and everything else, stays square. No other circle enters the system.</p></div>
   <div class="law"><div class="l-no">Law III — one alarm</div><b>Crimson is the only color in editorial content, and it means links and alarm.</b>
     <p>Dividers, decorations, and furniture are ink-free. The crimson rule exists in exactly one
     editorial fixture: the TIOS block. Instrument data colors are Chapter 19's domain — trend
@@ -662,6 +662,20 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      placeholder — input identity beats depth logic. The appearance control wears
      legal-strip furniture styling: three flat text buttons, current preference
      underlined in white.</p>
+  <p><b>Selection cards (surveys, polls) — 2026-06-09:</b> the whole card is the control —
+     square, 1px border, the native input hidden by <i>opacity</i> (never display:none / sr-only,
+     so it stays keyboard- and screen-reader-operable, Ch&nbsp;28). State is border + flat ink
+     fill, never shadow. The indicator carries single-vs-multi, not the label: multi (checkbox) is
+     a leading <b>square</b> tick-box (empty &rarr; ink &#10003;); single (radio) is a leading
+     <b>circle</b> (Law&nbsp;II&rsquo;s form exception) &mdash; outline &rarr; solid ink. Hover
+     lightens the card to surface; the chosen card takes a 1px ink-strong border + surface fill.
+     Shape + glyph, never hue (Law&nbsp;IV).</p>
+  <p><b>Multi-step survey chrome:</b> progress is a hairline track with an ink-strong fill,
+     front-loaded so early steps read fast (a linear bar measurably raises break-off). On phones
+     the nav sticks to the bottom for thumb reach, on a flat ground with a 1px top rule. The
+     section title is a quiet meta label; the question is the role-scale focus. <b>Back</b> speaks
+     link-language (Ch&nbsp;15), not a second button &mdash; one primary button holds (Ch&nbsp;16).
+     &ldquo;Saved&rdquo; is a passive meta line, not a machinery toast. All flat (Law&nbsp;V).</p>
 </section>
 
 <section class="chap" id="c18">
@@ -694,6 +708,13 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      and green are identical to colorblind readers (Law IV). Chart chrome: gridlines
      #aeb6bd (quiet, decorative), axes #64707a (must pass), data marks in the crimson
      family; blue only for partisan-D series (Law I). Every chart legible in grayscale.</p>
+  <p><b>The corrections diff is an instrument (2026-06-10).</b> <code>/corrections/</code>
+     renders a mechanical git-diff readout, not editorial prose, so it carries the instrument
+     palette rather than the one-alarm rule (Law III): <span style="color:#2f7d5c">machinery green
+     = added</span>, <span style="color:#b50f22">crimson = removed</span>. Per Law IV the color
+     never stands alone — additions wear a solid underline, removals a strikethrough (two shapes
+     that survive grayscale), and the Before/After blocks add the <code>+</code>/<code>−</code>
+     glyph. Assistive tech gets sr-only &ldquo;now:&rdquo;/&ldquo;removed:&rdquo; labels.</p>
 </section>
 
 <section class="chap" id="c20">

@@ -79,16 +79,33 @@ a.correction__post {
     line-height: 1.5;
     color: var(--c-ink-medium);
     margin: 0.4rem 0 0;
+    // diffs can quote raw post HTML — long no-space tokens (the pulse href,
+    // the bare domain) otherwise set a min-content width that stretches the
+    // column past the mobile viewport (overflow fix 2026-06-10)
+    overflow-wrap: anywhere;
 
-    // The global mark (search-highlight) carries a crimson underscore that
-    // reads as a hyperlink here. In the diff context the non-color cue is a
-    // DASHED underline (distinct from solid link underlines); AT users get
-    // the sr-only "now:" label instead.
-    mark {
+    // ── Diff coloring — GitHub mental model, instrument palette (Ch. 19) ──
+    // The diff is a mechanical git readout, not editorial prose, so it carries
+    // INSTRUMENT colors (ratified Ch. 19), not the editorial one-alarm rule:
+    // machinery green = added, crimson = removed. Color never carries meaning
+    // alone (Law IV) — inline edits use two distinct SHAPES that survive
+    // grayscale (additions underline, removals strikethrough); the +/− glyph
+    // lives on the Before/After labels only (kept off inline runs to stop dense
+    // edits reading busy). AT users still get the sr-only "now:"/"removed:" labels.
+    mark {                       // additions — the corrected ("now") text
+      background: none;          // drop the global search-highlight wash
+      border-bottom: 0;          // drop the global crimson underscore
       box-shadow: none;
-      text-decoration: underline dashed var(--c-red-tint);
+      color: var(--c-success);
+      text-decoration: underline solid var(--c-success);
       text-decoration-thickness: 1px;
       text-underline-offset: 0.18em;
+    }
+
+    s {                          // removals — the struck ("removed") text
+      color: var(--c-danger);
+      text-decoration: line-through;
+      text-decoration-color: var(--c-danger);
     }
 
     &--links {
@@ -106,18 +123,35 @@ a.correction__post {
     text-transform: uppercase;
     color: var(--c-meta);
     margin: 0.5rem 0 0.2rem;
+
+    // the +/− direction glyph (Ch. 19) — block mode only; mono per the
+    // instrument convention. The "BEFORE"/"AFTER" word + rail color carry the
+    // meaning, so the glyph just reinforces the GitHub read.
+    &--before::before,
+    &--after::before {
+      font-family: Menlo, Monaco, "Courier New", monospace;
+      font-weight: 700;
+      margin-right: 0.4em;
+    }
+    &--before::before { content: "\2212"; color: var(--c-danger); }  // U+2212 minus
+    &--after::before  { content: "+";     color: var(--c-success); }
   }
 
   &__block {
     background: var(--c-surface);
-    border-left: 3px solid var(--c-ink);       // marked tier (Ch. 18)
+    border-left: 3px solid var(--c-ink);       // neutral fallback rail
     padding: 0.45rem 0.7rem;
     font-size: 0.95em;                          // blockquote grammar, not a tenth role
     line-height: 1.5;
     color: var(--c-ink-medium);
+    overflow-wrap: anywhere;                    // see &__change — break long quoted-HTML tokens
+
+    &--before {
+      border-left-color: var(--c-danger);      // old / removed version — crimson (Ch. 19)
+    }
 
     &--after {
-      border-left-color: var(--c-link);        // the alarm crimson (Ch. 4/18)
+      border-left-color: var(--c-success);     // new / corrected version — machinery green (Ch. 19)
     }
   }
 }

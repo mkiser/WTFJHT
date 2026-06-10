@@ -12,7 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write   # commit the regenerated data
+      actions: write    # dispatch build-and-deploy (below)
 
     steps:
       - name: Checkout repository
@@ -25,8 +26,20 @@ jobs:
         run: python3 scripts/generate_corrections.py
 
       - name: Commit and push changes
+        id: commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update corrections data"
           file_pattern: '_data/corrections.json'
           branch: master
+
+      # The commit above is pushed with GITHUB_TOKEN, which GitHub deliberately
+      # prevents from triggering further workflow runs (recursion guard). So the
+      # corrections pages would otherwise wait for the next human push to deploy.
+      # workflow_dispatch is exempt from that guard — fire an incremental build
+      # so /corrections/ refreshes promptly. Gated on an actual data change.
+      - name: Trigger incremental rebuild
+        if: steps.commit.outputs.changes_detected == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run build-and-deploy.yml --ref master -f incremental=true

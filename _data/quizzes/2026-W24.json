@@ -1,0 +1,173 @@
+{
+  "id": "2026-W24",
+  "week_label": "Jun 8 – Jun 11, 2026",
+  "status": "published",
+  "editions": [
+    1966,
+    1967,
+    1968,
+    1969
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What unusual rescue detail was reported after the Apache helicopter incident near the Strait of Hormuz?",
+      "options": [
+        "The crew swam to a commercial tanker and were picked up hours later",
+        "An Israeli helicopter carried out the rescue",
+        "The two crew members were rescued by a Navy surface drone",
+        "Iran returned the crew in a prisoner swap"
+      ],
+      "correct": 2,
+      "explanation": "The two crew members were rescued by a Navy surface drone, described as the first known U.S. military rescue of its kind.",
+      "source_day": 1967,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/09/day-1967/",
+      "difficulty": "hard",
+      "type": "consequence"
+    },
+    {
+      "number": 2,
+      "question": "Why did Trump abruptly end his \"Meet the Press\" interview with Kristen Welker?",
+      "options": [
+        "She asked whether he would pardon Jan. 6 defendants",
+        "She pressed him for evidence that the 2020 election and California’s primary were \"rigged\"",
+        "She questioned the cost of the Ukraine bill",
+        "She asked him about his NBA Finals appearance"
+      ],
+      "correct": 1,
+      "explanation": "Trump ended the interview after Welker repeatedly asked for evidence supporting his claims that the 2020 election and California’s primary were rigged, and he could not provide any.",
+      "source_day": 1966,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/08/day-1966/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 3,
+      "question": "How much did prices rise from a year earlier in the inflation report that pushed inflation above 4%?",
+      "options": [
+        "3.2%",
+        "3.8%",
+        "4.8%",
+        "4.2%"
+      ],
+      "correct": 3,
+      "explanation": "The Labor Department reported that prices rose 4.2% from a year earlier, up from 3.8% in April.",
+      "source_day": 1968,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/10/day-1968/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 4,
+      "question": "What did Trump say he was doing after first threatening to hit Iran \"VERY HARD TONIGHT\"?",
+      "options": [
+        "He ordered Congress to vote on a formal declaration of war",
+        "He cancelled planned strikes and said a peace deal was close",
+        "He announced U.S. troops were withdrawing from the Middle East",
+        "He said Israel would handle the conflict alone"
+      ],
+      "correct": 1,
+      "explanation": "Trump said he had cancelled the scheduled strikes and bombings against Iran and claimed a settlement was close, though Iran had not publicly confirmed an agreement.",
+      "source_day": 1969,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/11/day-1969/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "If Congress does not act, what automatic cut is projected for Social Security retiree and survivor benefits when the retirement trust fund runs out in 2032?",
+      "options": [
+        "12%",
+        "18%",
+        "22%",
+        "27%"
+      ],
+      "correct": 2,
+      "explanation": "The trustees projected that depletion in 2032 would trigger an automatic 22% cut, leaving enough money to pay 78% of scheduled benefits.",
+      "source_day": 1967,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/09/day-1967/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 6,
+      "question": "What number pattern on the National Mall prompted an Interior Department investigation?",
+      "options": [
+        "2028",
+        "8647",
+        "1776",
+        "451"
+      ],
+      "correct": 1,
+      "explanation": "Brown grass patches on the National Mall appeared from above to form \"8647,\" which officials said they were investigating as possible vandalism.",
+      "source_day": 1969,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/11/day-1969/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 7,
+      "question": "Who did Trump say he would nominate as permanent director of national intelligence?",
+      "options": [
+        "Jay Clayton",
+        "Pete Hegseth",
+        "Bill Pulte",
+        "Patrick Davis"
+      ],
+      "correct": 0,
+      "explanation": "Trump said he would nominate Jay Clayton, the Manhattan U.S. attorney and former SEC chair, as permanent DNI, while not withdrawing Bill Pulte as acting DNI.",
+      "source_day": 1969,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/11/day-1969/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 8,
+      "question": "What did Defense Secretary Pete Hegseth say about the strikes on Iran?",
+      "options": [
+        "\"If we need to negotiate with bombs, we’ll negotiate with bombs\"",
+        "\"We will not negotiate under any circumstances\"",
+        "\"This operation is purely symbolic\"",
+        "\"Congress demanded this action\""
+      ],
+      "correct": 0,
+      "explanation": "Hegseth said the strikes would advance U.S. military interests and diplomatic leverage, adding: \"If we need to negotiate with bombs, we’ll negotiate with bombs.\"",
+      "source_day": 1968,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/10/day-1968/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 9,
+      "question": "Who won the Maine Democratic nomination to challenge Susan Collins in a race likely to help decide control of the Senate?",
+      "options": [
+        "Nancy Mace",
+        "Aaron Ford",
+        "Graham Platner",
+        "Joe Lombardo"
+      ],
+      "correct": 2,
+      "explanation": "Maine Democrats nominated Graham Platner to face Susan Collins in one of the cycle’s most important Senate races.",
+      "source_day": 1968,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/10/day-1968/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 10,
+      "question": "What did Trump deny ever promising while defending the war with Iran?",
+      "options": [
+        "That he would cut taxes",
+        "That he would never use sanctions",
+        "That he would keep troops in Europe",
+        "That he would not start a war"
+      ],
+      "correct": 3,
+      "explanation": "Trump said, \"I didn’t guarantee no war\" and \"I didn’t promise anything,\" despite campaign statements that he would not start a war.",
+      "source_day": 1966,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/08/day-1966/",
+      "difficulty": "easy",
+      "type": "what happened"
+    }
+  ]
+}

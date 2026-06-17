@@ -107,6 +107,15 @@ sitemap: false
   var API_URL = 'https://whatthefuckjusthappenedtoday.com/api/pulse';
   var pageLoadTime = Date.now();
   var submitted = false;
+
+  // Idempotency nonce for the Stage-2 NOTE submission (the only Pulse path that
+  // writes a note + fires Slack). Minted once per render, reused across the happy
+  // path, the fallback tap, and any retry, so the Worker collapses a double-fire
+  // / retry-after-lost-response to one row + one Slack. The existing `submitted`
+  // flag is the synchronous in-flight lock; the nonce makes its reset-on-error safe.
+  var noteIdempotencyKey = (window.crypto && crypto.randomUUID)
+    ? crypto.randomUUID()
+    : 'note-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 12);
   // Set true after Stage 1 POST succeeds (either Turnstile happy path or
   // fallback confirm click). When true, Stage 2 skips the fallback banner
   // on null tokens — user already proved real-ness for this page session.
@@ -177,7 +186,7 @@ sitemap: false
     if (typeof turnstile === 'undefined') { turnstileResolve(null); return; }
     try {
       turnstileWidgetId = turnstile.render('#cf-turnstile', {
-        sitekey: '0x4AAAAAADAzC0xAFcUN12kn',
+        sitekey: '{{ site.turnstile_site_key }}',
         callback: function (token) { turnstileResolve(token); },
         'error-callback': function () { turnstileResolve(null); },
         'expired-callback': function () {
@@ -548,7 +557,8 @@ sitemap: false
       ed: ed, s: s, q: q, t: t, v: v, p: p,
       note: note,
       website: document.getElementById('pulse-website').value,
-      _rendered: pageLoadTime
+      _rendered: pageLoadTime,
+      idempotencyKey: noteIdempotencyKey
     };
     if (isFallback) {
       payload.fallback = true;

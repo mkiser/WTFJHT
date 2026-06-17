@@ -116,11 +116,21 @@ sitemap: false
   var turnstileReady = new Promise(function (resolve) { turnstileResolve = resolve; });
   var turnstileTokenUsed = false;
 
+  // Idempotency nonce — minted once per page render, sent with every POST (happy
+  // path + fallback) and reused across retries, so the Worker collapses a
+  // double-fire / retry-after-lost-response to one row + one Slack.
+  var idempotencyKey = (window.crypto && crypto.randomUUID)
+    ? crypto.randomUUID()
+    : 'jaq-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 12);
+  // In-flight guard: blocks a second POST from the same render (double-bound
+  // handler, Enter+click). The stable nonce makes a reset-after-error safe.
+  var posting = false;
+
   window.onTurnstileLoad = function () {
     if (typeof turnstile === 'undefined') { turnstileResolve(null); return; }
     try {
       turnstileWidgetId = turnstile.render('#cf-turnstile', {
-        sitekey: '0x4AAAAAADAzC0xAFcUN12kn',
+        sitekey: '{{ site.turnstile_site_key }}',
         callback: function (token) { turnstileResolve(token); },
         'error-callback': function () { turnstileResolve(null); },
         'expired-callback': function () {
@@ -188,7 +198,8 @@ sitemap: false
       ref: document.getElementById('jaq-ref').value,
       edition: document.getElementById('jaq-edition').value,
       website: document.getElementById('jaq-website').value,
-      _rendered: parseInt(document.getElementById('jaq-rendered').value, 10)
+      _rendered: parseInt(document.getElementById('jaq-rendered').value, 10),
+      idempotencyKey: idempotencyKey
     };
   }
 
@@ -203,18 +214,26 @@ sitemap: false
     } else {
       formError.textContent = (result.data && result.data.error) || 'Something went wrong. Try again?';
     }
-    // Re-enable submit so the user can retry. Next retry will request a fresh token.
+    // Re-enable submit so the user can retry. Next retry will request a fresh
+    // token; the retry reuses the same nonce, so the Worker dedupes if the
+    // original write actually landed.
+    posting = false;
     submitBtn.disabled = false;
     submitBtn.textContent = 'Submit';
   }
 
   function handleError() {
     formError.textContent = "Couldn’t reach the server. Try again?";
+    posting = false;
     submitBtn.disabled = false;
     submitBtn.textContent = 'Submit';
   }
 
   function postPayload(payload) {
+    // In-flight guard — a second dispatch from the same render is a no-op (the
+    // first request carries the same nonce; the Worker would dedupe it anyway).
+    if (posting) return Promise.resolve();
+    posting = true;
     // Mark the current token as consumed so the next submit pulls a fresh one.
     turnstileTokenUsed = true;
     return fetch(WORKER_URL, {

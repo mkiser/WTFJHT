@@ -51,7 +51,7 @@ sitemap: false
   window.onTurnstileLoad = function () {
     if (typeof turnstile === 'undefined') { turnstileResolve(null); return; }
     turnstileWidgetId = turnstile.render('#cf-turnstile', {
-      sitekey: '0x4AAAAAADAzC0xAFcUN12kn',
+      sitekey: '{{ site.turnstile_site_key }}',
       callback: function (token) { turnstileResolve(token); },
       'error-callback': function () { turnstileResolve(null); },
       'expired-callback': function () {

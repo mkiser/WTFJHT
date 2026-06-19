@@ -42,13 +42,15 @@ editorsNote: |-
 
 *The 2026 midterms are in 137 days; the 2028 presidential election is in 872 days.*
 
-**📝 POP QUIZ!!!** It's time for the **[Last Week in WTF News Quiz](https://whatthefuckjusthappenedtoday.com/quiz/?s=*|UNIQID|*&src=newsletter&ed=*|DATE:Y-m-d|*)**. Readers scored 8 out of 10 on last week's quiz. Let's see if you can top that this week.
+<!-- notables:start -->
 
 ---
 
-### 👑 Portrait of a President**.
+### 👑 Portrait of a President
 
 1. **"I'm the president and you're not."** "Seventeen months into his second term, Trump is increasingly relying on his own gut instincts, dismissing the counsel of aides, conservative lawmakers and longtime associates. The result has been a series of decisions that have confounded and frustrated Republicans." ([Wall Street Journal](https://www.wsj.com/politics/policy/im-the-president-and-youre-not-trump-tests-his-power-and-frustrates-the-gop-871732c9))
 2. **"Everyone just needs to copy what I say."** “Trump vented to others that Vance hadn’t repeated his own new phrase that Iran’s nuclear program had been ‘totally obliterated.’ Trump told one associate, ‘Everyone needs to say fucking “obliterated.” [...] That’s the word. Everyone just needs to copy what I say. Obliterated. Obliterated.’” ([Politico](https://www.politico.com/news/2026/06/18/donald-trump-jd-vance-iran-haberman-swan-book-excerpt-00967874))
 3. **Trump from "hunted" to "hunter."** "A thesis that Trump himself believes: Had he not lost the 2020 election, he would not be as powerful in his second term as he is now — emboldening him to trample norms, dismantle established institutions and push the limits of presidential power." ([Associated Press](https://apnews.com/article/trump-haberman-swan-book-epstein-venezuela-vance-cfcccda8461f745a796ae0748b66cb3b))
 4. **A president using super glue**. "One morning, Karoline Leavitt, the White House press secretary, entered the Oval Office to find Trump had a tube of super glue in his hand and was trying to adorn the marble fireplace mantel with new golden decorations. ([New York Times](https://www.nytimes.com/2026/06/18/us/politics/trump-regime-change-book-haberman-swan.html))
+
+<!-- notables:end -->

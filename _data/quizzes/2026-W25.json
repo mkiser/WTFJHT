@@ -1,0 +1,173 @@
+{
+  "id": "2026-W25",
+  "week_label": "Jun 15 – Jun 19, 2026",
+  "status": "published",
+  "editions": [
+    1973,
+    1974,
+    1975,
+    1977
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What authority did Trump invoke to address depleted weapons stockpiles after the Iran war and other conflicts?",
+      "options": [
+        "The War Powers Resolution",
+        "The Defense Production Act",
+        "The Insurrection Act",
+        "The National Emergencies Act"
+      ],
+      "correct": 1,
+      "explanation": "Trump invoked the Defense Production Act to help replenish stockpiles and address shortages in things like rocket motors, igniters, and guidance systems. The memo authorized the Defense Department to pursue voluntary agreements with contractors.",
+      "source_day": 1974,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/16/day-1974/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 2,
+      "question": "Who did Trump direct not to appear at a scheduled confirmation hearing for director of national intelligence?",
+      "options": [
+        "Jay Clayton",
+        "Bill Pulte",
+        "Jamie McDonald",
+        "Tom Cotton"
+      ],
+      "correct": 0,
+      "explanation": "Trump told Jay Clayton not to appear just hours before the hearing was set to begin. That move upended the Senate's plan to quickly confirm his DNI nominee.",
+      "source_day": 1975,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/17/day-1975/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 3,
+      "question": "What was the alleged plan in the foiled attack on the UFC event on the White House lawn?",
+      "options": [
+        "Hack the event's ticketing system and steal donor data",
+        "Launch explosive drones over the arena and open fire on wealthy people and politicians",
+        "Poison food vendors serving the crowd",
+        "Hijack military helicopters providing event security"
+      ],
+      "correct": 1,
+      "explanation": "Investigators said members of a Signal chat planned to stage a demonstration, detonate drones over the arena, and shoot \"wealthy people and politicians\" to try to spark a revolution. Five people were arrested.",
+      "source_day": 1974,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/16/day-1974/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 4,
+      "question": "What remained secret after the U.S. and Iran signed a preliminary framework to end the war?",
+      "options": [
+        "The existence of the deal itself",
+        "The full text of the deal and key unresolved nuclear and sanctions details",
+        "Whether the Strait of Hormuz would reopen",
+        "Trump's position on Israeli strikes in Lebanon"
+      ],
+      "correct": 1,
+      "explanation": "The preliminary framework was announced, but the full text was not released. Questions about Iran's nuclear program, enriched uranium stockpile, sanctions relief, frozen assets, and Lebanon were deferred for 60 days of negotiations.",
+      "source_day": 1973,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/15/day-1973/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "What did Congress want before Trump's U.S.-Iran agreement was formally signed?",
+      "options": [
+        "A Pentagon estimate of reconstruction costs only",
+        "A referendum in Iran on the deal",
+        "The still-secret text of the agreement",
+        "A Supreme Court ruling on war powers"
+      ],
+      "correct": 2,
+      "explanation": "Lawmakers in both parties demanded to see the secret agreement before it was formally signed. The deal was expected to trigger a 60-day ceasefire and negotiating period.",
+      "source_day": 1974,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/16/day-1974/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "What happened to Trump's promised \"American flag blue\" Lincoln Memorial Reflecting Pool days after it reopened?",
+      "options": [
+        "It stayed bright blue, but developed cracks around the edges",
+        "It was drained again after fish died in the water",
+        "Algae turned it green and blue material began peeling off the bottom",
+        "The Park Service fenced it off because the water level was too low"
+      ],
+      "correct": 2,
+      "explanation": "The $14.7 million renovation did not produce the clear blue water Trump promised. Within days, algae had already turned the pool green and blue material was peeling from the bottom.",
+      "source_day": 1977,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/19/day-1977/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 7,
+      "question": "How much did the Pentagon say it needs for the Iran war and other non-war bills?",
+      "options": [
+        "$80 billion",
+        "$8 billion",
+        "$180 billion",
+        "$300 billion"
+      ],
+      "correct": 0,
+      "explanation": "The Pentagon told lawmakers it needs $80 billion to cover operations, pay, ships, munitions, and other bills. The request came even though the administration never sought congressional authorization for the war.",
+      "source_day": 1977,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/19/day-1977/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 8,
+      "question": "Why did Georgia Republicans say they would not move ahead with Gov. Brian Kemp's redistricting plan during the special session?",
+      "options": [
+        "They wanted to wait for a presidential commission to finish its work",
+        "They said they needed more public input and clarity from the courts",
+        "They had already agreed to adopt a Democratic map proposal",
+        "They were blocked by a federal judge from meeting at all"
+      ],
+      "correct": 1,
+      "explanation": "Georgia Republicans said they would not rush new districts for the 2028 election without more public input and clearer guidance from the courts. House Speaker Jon Burns said redistricting was not the right path forward at that time.",
+      "source_day": 1975,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/17/day-1975/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 9,
+      "question": "To what level did the Strategic Petroleum Reserve fall after additional releases during the Iran war?",
+      "options": [
+        "About 500 million barrels",
+        "About 420 million barrels",
+        "About 275 million barrels",
+        "About 340 million barrels"
+      ],
+      "correct": 3,
+      "explanation": "The emergency oil reserve fell to about 340 million barrels, its lowest level since 1983. That was down 75 million barrels, or 18%, since the war began.",
+      "source_day": 1973,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/15/day-1973/",
+      "difficulty": "hard",
+      "type": "numbers"
+    },
+    {
+      "number": 10,
+      "question": "What did the U.S.-Iran memorandum of understanding do?",
+      "options": [
+        "Ended the fighting, reopened the Strait of Hormuz, and began 60 days of nuclear talks",
+        "Required immediate regime change in Tehran before any ceasefire",
+        "Permanently ended all sanctions and recognized Iran as a nuclear state",
+        "Committed Congress to fund a U.S.-run reconstruction authority in Iran"
+      ],
+      "correct": 0,
+      "explanation": "The memorandum ended military operations, reopened the Strait of Hormuz, lifted the blockade, and started a 60-day window for negotiating a final nuclear deal. Major issues like enrichment and inspections were left unresolved.",
+      "source_day": 1975,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/17/day-1975/",
+      "difficulty": "easy",
+      "type": "what happened"
+    }
+  ]
+}

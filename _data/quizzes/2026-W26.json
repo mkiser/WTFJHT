@@ -1,0 +1,173 @@
+{
+  "id": "2026-W26",
+  "week_label": "Jun 22 – Jun 25, 2026",
+  "status": "published",
+  "editions": [
+    1980,
+    1981,
+    1982,
+    1983
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What did the Supreme Court rule about migrants at the U.S.-Mexico border who want to apply for asylum?",
+      "options": [
+        "They can apply only after setting foot in the United States",
+        "They must apply from their home country before traveling",
+        "They can apply only after being detained for 72 hours",
+        "They are automatically entitled to apply at any port of entry"
+      ],
+      "correct": 0,
+      "explanation": "The court ruled that migrants at the border aren’t entitled to apply for asylum until they set foot in the country, allowing the administration to revive asylum metering.",
+      "source_day": 1983,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/25/day-1983/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 2,
+      "question": "How many Republicans joined Democrats when the Senate approved the war powers resolution to block Trump from continuing his war with Iran without congressional authorization?",
+      "options": [
+        "Two",
+        "Four",
+        "Six",
+        "Eight"
+      ],
+      "correct": 1,
+      "explanation": "Four Republicans joined Democrats in the 50-48 vote adopting the House-passed war powers resolution.",
+      "source_day": 1981,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/23/day-1981/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 3,
+      "question": "Which senator said of Trump, “I’m not going to be bullied” after a shouting match over Iran war powers?",
+      "options": [
+        "John Kennedy",
+        "Roger Marshall",
+        "Bill Cassidy",
+        "Lindsey Graham"
+      ],
+      "correct": 2,
+      "explanation": "Sen. Bill Cassidy said Trump raised his voice during their confrontation, and Cassidy responded that he would not be bullied and wanted a briefing before changing his vote.",
+      "source_day": 1982,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/24/day-1982/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 4,
+      "question": "What was true about the Senate Republicans' late-night re-vote on Trump’s Iran war powers?",
+      "options": [
+        "It rescinded the earlier resolution and restored Trump’s full authority",
+        "It approved a stronger measure requiring immediate withdrawal",
+        "It rejected a nearly identical measure but did not undo the resolution adopted the day before",
+        "It sent the war powers resolution to Trump for his signature"
+      ],
+      "correct": 2,
+      "explanation": "The Senate rejected a nearly identical measure in the re-vote, but that did not rescind or supersede the resolution the Senate had already adopted the previous day.",
+      "source_day": 1983,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/25/day-1983/",
+      "difficulty": "hard",
+      "type": "consequence"
+    },
+    {
+      "number": 5,
+      "question": "Which state’s unredacted voter rolls did a federal appeals court block Trump’s Justice Department from obtaining?",
+      "options": [
+        "Wisconsin",
+        "Michigan",
+        "Pennsylvania",
+        "Arizona"
+      ],
+      "correct": 1,
+      "explanation": "The appeals court ruled that the DOJ could not use the 1960 Civil Rights Act to demand Michigan’s state-created voter file containing personal data.",
+      "source_day": 1982,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/24/day-1982/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 6,
+      "question": "About how many Haitians and Syrians were affected when the Supreme Court allowed Trump to end Temporary Protected Status for those groups?",
+      "options": [
+        "About 35,000 Haitians and 600 Syrians",
+        "About 350,000 Haitians and 6,000 Syrians",
+        "About 500,000 Haitians and 60,000 Syrians",
+        "About 1.3 million Haitians and 13,000 Syrians"
+      ],
+      "correct": 1,
+      "explanation": "The ruling allowed the administration to end TPS for about 350,000 Haitians and 6,000 Syrians, exposing them to possible deportation.",
+      "source_day": 1983,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/25/day-1983/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 7,
+      "question": "What did Trump say he would not do until Congress passes the SAVE America Act?",
+      "options": [
+        "Sign a major bipartisan housing affordability bill",
+        "Request emergency spending for Iran",
+        "Hold another cabinet meeting",
+        "Nominate a new attorney general"
+      ],
+      "correct": 0,
+      "explanation": "Trump canceled the signing ceremony for a major bipartisan housing bill and said he would not sign it until Congress passed the unrelated SAVE America Act.",
+      "source_day": 1982,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/24/day-1982/",
+      "difficulty": "medium",
+      "type": "sequence"
+    },
+    {
+      "number": 8,
+      "question": "What election-related change did the Trump administration plan to demand from states in order to avoid losing 20% of homeland security grants?",
+      "options": [
+        "Switch to all-mail elections",
+        "Use ranked-choice voting",
+        "Move to hand-marked paper ballots and run voter rolls through a DHS citizenship database",
+        "Allow federal control of local polling places"
+      ],
+      "correct": 2,
+      "explanation": "The draft rules would withhold part of homeland security grants unless states used hand-marked paper ballots and checked voter rolls through the DHS SAVE database.",
+      "source_day": 1980,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/22/day-1980/",
+      "difficulty": "hard",
+      "type": "consequence"
+    },
+    {
+      "number": 9,
+      "question": "Which judge blocked Trump from using the Postal Service and Homeland Security to restrict who can receive mail ballots?",
+      "options": [
+        "Denise Casper",
+        "Sparkle Sooknanan",
+        "Andre Mathis",
+        "Indira Talwani"
+      ],
+      "correct": 3,
+      "explanation": "U.S. District Judge Indira Talwani ruled that the president has no constitutional authority to create federal voter lists or control ballot delivery that way.",
+      "source_day": 1983,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/25/day-1983/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 10,
+      "question": "What did a federal judge permanently block Trump from requiring for voter registration?",
+      "options": [
+        "A background check by the FBI",
+        "An in-person interview at a county office",
+        "Proof of citizenship",
+        "A notarized affidavit from two witnesses"
+      ],
+      "correct": 2,
+      "explanation": "The judge blocked an executive order that would have required proof of citizenship to register to vote and also tried to force mail ballots to be received by Election Day.",
+      "source_day": 1982,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/06/24/day-1982/",
+      "difficulty": "easy",
+      "type": "what happened"
+    }
+  ]
+}

@@ -12,7 +12,3 @@ noindex: true
   data-form='{{ form | jsonify | xml_escape }}'
   data-api-url="https://whatthefuckjusthappenedtoday.com">
 </div>
-
-{% if site.turnstile_site_key %}
-<div class="survey-turnstile cf-turnstile" data-sitekey="{{ site.turnstile_site_key }}" data-appearance="interaction-only"></div>
-{% endif %}

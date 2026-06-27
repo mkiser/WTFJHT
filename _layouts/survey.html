@@ -9,9 +9,4 @@ layout: default
 <noscript><p>This survey runs in your browser and needs JavaScript enabled.</p></noscript>
 </div>
 
-<!-- Cloudflare Turnstile (anti-spam). forms.js reads the cf-turnstile-response token at submit;
-     the Worker enforces it with a fallback:true escape (JAQ pattern). Loads only if a site key is set. -->
-{% if site.turnstile_site_key %}
-<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
-{% endif %}
 <script src="{{ site.url }}{{ site.baseurl }}/public/js/forms.js?v={{ site.time | date: '%s' }}"></script>

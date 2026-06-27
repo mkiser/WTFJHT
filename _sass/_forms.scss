@@ -293,9 +293,6 @@
   &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
 }
 
-// Turnstile is invisible/managed (Matt's call); spacing covers the rare visible challenge.
-.survey-turnstile { margin: 1.5em 0 0; }
-
 .survey-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 .survey-sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 

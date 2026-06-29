@@ -1,161 +1,552 @@
 {
   "id": "reader-survey-2026",
   "title": "2026 Reader Survey",
-  "intro": "EDIT ME (placeholder): A few minutes, once a year. Your answers shape what WTFJHT becomes. ~4–6 minutes, anonymous unless you add your email at the end.",
+  "intro": "Once a year I like to stop and ask who's out there, who’s reading, and how I can serve you better. This short check-in directly shapes the future of WTFJHT. About 4–6 minutes, and anonymous unless you add your email at the end.",
   "submit_label": "Submit survey",
   "thanks_title": "Thank you.",
-  "thanks_body": "EDIT ME (placeholder): That's it — genuinely appreciated. Your answers go straight into how we plan the year.",
+  "thanks_body": "That's it! Thanks for taking the time to share your thoughts.",
   "already_title": "You're all set.",
-  "already_body": "EDIT ME (placeholder): Our records show you already submitted the 2026 survey. Thank you!",
-  "anon_optout_label": "This isn't me — let me answer anonymously",
-  "_note": "PUBLISHED COPY — do not hand-edit. Source of truth is PasteUp data/forms/reader-survey-2026.json; `npm run publish:survey` regenerates this file (+ pushes the projected schema to Cloudflare KV). Keep option/question `id`s stable after launch (they are the stored data + branch refs); change `label`s freely.",
+  "already_body": "Looks like you already filled this out the reader survey. A+, gold star for you. ",
+  "anon_optout_label": "Let me answer anonymously instead. ",
+  "_note": "SINGLE SOURCE OF TRUTH (PasteUp). Edit here, then run `npm run publish:survey` in PasteUp/server to push the projected schema to Cloudflare KV (the Worker validates against it) + WTFJHT _data/forms/ (the renderer reads it). Keep option/question `id`s stable after launch (they are the stored data + branch refs); change `label`s freely.",
   "sections": [
     {
       "id": "who",
       "title": "Who you are",
       "questions": [
-        { "id": "q1_age", "type": "radio", "label": "What's your age range?", "required": true, "col": "Age Range",
+        {
+          "id": "q1_age",
+          "type": "radio",
+          "label": "What's your age range?",
+          "required": true,
+          "col": "Age Range",
           "options": [
-            {"id": "u18", "label": "Under 18"}, {"id": "18_24", "label": "18–24"},
-            {"id": "25_34", "label": "25–34"}, {"id": "35_44", "label": "35–44"},
-            {"id": "45_54", "label": "45–54"}, {"id": "55_64", "label": "55–64"},
-            {"id": "65p", "label": "65+"}, {"id": "no_say", "label": "Prefer not to say"}
-          ]},
-        { "id": "q2_location", "type": "radio", "label": "Where do you live?", "required": true, "col": "Location",
+            {
+              "id": "u18",
+              "label": "Under 18"
+            },
+            {
+              "id": "18_24",
+              "label": "18–24"
+            },
+            {
+              "id": "25_34",
+              "label": "25–34"
+            },
+            {
+              "id": "35_44",
+              "label": "35–44"
+            },
+            {
+              "id": "45_54",
+              "label": "45–54"
+            },
+            {
+              "id": "55_64",
+              "label": "55–64"
+            },
+            {
+              "id": "65p",
+              "label": "65+"
+            },
+            {
+              "id": "no_say",
+              "label": "Prefer not to say"
+            }
+          ]
+        },
+        {
+          "id": "q2_location",
+          "type": "radio",
+          "label": "Where do you live?",
+          "required": true,
+          "col": "Location",
           "options": [
-            {"id": "us", "label": "US"}, {"id": "canada", "label": "Canada"},
-            {"id": "uk", "label": "UK"}, {"id": "europe", "label": "Europe (other)"},
-            {"id": "anz", "label": "Australia-NZ"}, {"id": "other", "label": "Other"}
-          ]},
-        { "id": "q3_situation", "type": "radio", "label": "What's your current situation?", "required": true, "col": "Employment",
+            {
+              "id": "us",
+              "label": "US"
+            },
+            {
+              "id": "canada",
+              "label": "Canada"
+            },
+            {
+              "id": "uk",
+              "label": "UK"
+            },
+            {
+              "id": "europe",
+              "label": "Europe (other)"
+            },
+            {
+              "id": "anz",
+              "label": "Australia-NZ"
+            },
+            {
+              "id": "other",
+              "label": "Other"
+            }
+          ]
+        },
+        {
+          "id": "q3_situation",
+          "type": "radio",
+          "label": "What best describes your current situation?",
+          "required": true,
+          "col": "Employment",
           "options": [
-            {"id": "fulltime", "label": "Full-time"}, {"id": "parttime", "label": "Part-time or freelance"},
-            {"id": "retired", "label": "Retired"}, {"id": "student", "label": "Student"},
-            {"id": "not_working", "label": "Not currently working"}, {"id": "no_say", "label": "Prefer not to say"}
-          ]}
+            {
+              "id": "fulltime",
+              "label": "Working Full-time"
+            },
+            {
+              "id": "parttime",
+              "label": "Part-time or freelance"
+            },
+            {
+              "id": "retired",
+              "label": "Retired"
+            },
+            {
+              "id": "student",
+              "label": "Student"
+            },
+            {
+              "id": "not_working",
+              "label": "Not currently working"
+            },
+            {
+              "id": "no_say",
+              "label": "Prefer not to say"
+            }
+          ]
+        }
       ]
     },
     {
       "id": "relationship",
       "title": "Your relationship with WTFJHT",
       "questions": [
-        { "id": "q4_tenure", "type": "radio", "label": "How long have you been reading?", "required": true, "col": "Tenure",
+        {
+          "id": "q4_tenure",
+          "type": "radio",
+          "label": "How long have you been reading?",
+          "required": true,
+          "col": "Tenure",
           "options": [
-            {"id": "lt6mo", "label": "Less than 6 months"}, {"id": "6mo_1yr", "label": "6 months–1 year"},
-            {"id": "1_2yr", "label": "1–2 years"}, {"id": "3_5yr", "label": "3–5 years"},
-            {"id": "5yr_plus", "label": "5+ years"}
-          ]},
-        { "id": "q5_frequency", "type": "radio", "label": "How often do you read?", "required": true, "col": "Frequency",
+            {
+              "id": "lt6mo",
+              "label": "Less than 6 months"
+            },
+            {
+              "id": "6mo_1yr",
+              "label": "6 months–1 year"
+            },
+            {
+              "id": "1_2yr",
+              "label": "1–2 years"
+            },
+            {
+              "id": "3_5yr",
+              "label": "3–5 years"
+            },
+            {
+              "id": "5yr_plus",
+              "label": "5+ years"
+            }
+          ]
+        },
+        {
+          "id": "q5_frequency",
+          "type": "radio",
+          "label": "How often do you read?",
+          "required": true,
+          "col": "Frequency",
           "options": [
-            {"id": "every", "label": "Every edition"}, {"id": "most", "label": "Most (3–4x/week)"},
-            {"id": "weekly", "label": "About once a week"}, {"id": "occasionally", "label": "Occasionally"},
-            {"id": "stopped", "label": "Mostly stopped"}
-          ]},
-        { "id": "q6_readmethod", "type": "checkbox", "label": "How do you read? (select all that apply)", "required": true, "has_other": true, "col": "Reading Method",
+            {
+              "id": "every",
+              "label": "Every edition"
+            },
+            {
+              "id": "most",
+              "label": "Most (3–4x/week)"
+            },
+            {
+              "id": "weekly",
+              "label": "About once a week"
+            },
+            {
+              "id": "occasionally",
+              "label": "Occasionally"
+            },
+            {
+              "id": "stopped",
+              "label": "Mostly stopped"
+            }
+          ]
+        },
+        {
+          "id": "q6_readmethod",
+          "type": "checkbox",
+          "label": "How do you read? (select all that apply)",
+          "required": true,
+          "has_other": true,
+          "col": "Reading Method",
           "options": [
-            {"id": "email", "label": "Email"}, {"id": "website", "label": "Website"},
-            {"id": "rss", "label": "RSS"}, {"id": "social", "label": "Social"},
-            {"id": "podcast", "label": "Podcast / audio"}, {"id": "other", "label": "Other"}
-          ]},
-        { "id": "q7_pmf", "type": "radio", "label": "How would you feel if you could no longer receive WTFJHT?", "required": true, "col": "PMF",
+            {
+              "id": "email",
+              "label": "Email"
+            },
+            {
+              "id": "website",
+              "label": "Website"
+            },
+            {
+              "id": "rss",
+              "label": "RSS"
+            },
+            {
+              "id": "social",
+              "label": "Social"
+            },
+            {
+              "id": "podcast",
+              "label": "Podcast / audio"
+            },
+            {
+              "id": "other",
+              "label": "Other"
+            }
+          ]
+        },
+        {
+          "id": "q7_pmf",
+          "type": "radio",
+          "label": "How would you feel if you could no longer receive WTFJHT?",
+          "required": true,
+          "col": "PMF",
           "options": [
-            {"id": "very", "label": "Very disappointed"}, {"id": "somewhat", "label": "Somewhat disappointed"},
-            {"id": "not", "label": "Not disappointed"}
-          ]},
-        { "id": "q8_nps", "type": "nps", "label": "How likely are you to recommend WTFJHT to a friend?", "required": true, "col": "NPS",
-          "min": 0, "max": 10, "min_label": "Not at all likely", "max_label": "Extremely likely" }
+            {
+              "id": "very",
+              "label": "Very disappointed"
+            },
+            {
+              "id": "somewhat",
+              "label": "Somewhat disappointed"
+            },
+            {
+              "id": "not",
+              "label": "Not disappointed"
+            }
+          ]
+        },
+        {
+          "id": "q8_nps",
+          "type": "nps",
+          "label": "How likely are you to recommend WTFJHT to a friend?",
+          "required": true,
+          "col": "NPS",
+          "min": 0,
+          "max": 10,
+          "min_label": "Not at all likely",
+          "max_label": "Extremely likely"
+        }
       ]
     },
     {
       "id": "value",
       "title": "What you value",
       "questions": [
-        { "id": "q9_value", "type": "checkbox", "label": "What do you value most? (choose up to 3)", "required": true, "max_select": 3, "has_other": true, "col": "Values Most",
+        {
+          "id": "q9_value",
+          "type": "checkbox",
+          "label": "What do you value most about WTFJHT? (choose up to 3)",
+          "required": true,
+          "max_select": 3,
+          "has_other": true,
+          "col": "Values Most",
           "options": [
-            {"id": "concise", "label": "Concise — saves me time"},
-            {"id": "sourced", "label": "Sourced and linked"},
-            {"id": "no_doomscroll", "label": "Helps me stay informed without doomscrolling"},
-            {"id": "voice", "label": "I trust the editorial voice"},
-            {"id": "tios", "label": "Today in One Sentence"},
-            {"id": "routine", "label": "Daily routine and consistency"},
-            {"id": "reader_funded", "label": "Independent, reader-funded"},
-            {"id": "covers", "label": "Covers things I'd otherwise miss"},
-            {"id": "other", "label": "Other"}
-          ]},
-        { "id": "q10_unique", "type": "textarea", "label": "In your own words, what does WTFJHT give you that you can't easily get elsewhere?", "required": false, "maxlength": 5000, "col": "Unique Value" }
+            {
+              "id": "concise",
+              "label": "Concise and saves me time"
+            },
+            {
+              "id": "sourced",
+              "label": "Sources clearly cited and linked"
+            },
+            {
+              "id": "no_doomscroll",
+              "label": "Helps me stay informed without doomscrolling"
+            },
+            {
+              "id": "voice",
+              "label": "I trust Matt's decision-making"
+            },
+            {
+              "id": "tios",
+              "label": "Today in One Sentence"
+            },
+            {
+              "id": "routine",
+              "label": "Routine and consistency"
+            },
+            {
+              "id": "reader_funded",
+              "label": "Independent, reader-funded"
+            },
+            {
+              "id": "covers",
+              "label": "Covers things I'd otherwise miss"
+            },
+            {
+              "id": "other",
+              "label": "Other"
+            }
+          ]
+        },
+        {
+          "id": "q10_unique",
+          "type": "textarea",
+          "label": "In your own words, what does WTFJHT give you that you can't easily get elsewhere?",
+          "required": false,
+          "maxlength": 5000,
+          "col": "Unique Value"
+        }
       ]
     },
     {
       "id": "better",
-      "title": "What we could do better",
+      "title": "What I could do better",
       "questions": [
-        { "id": "q11_length", "type": "radio", "label": "How's the current length and format?", "required": true, "col": "Length Feedback",
+        {
+          "id": "q11_length",
+          "type": "radio",
+          "label": "How's the current length and format?",
+          "required": true,
+          "col": "Length Feedback",
           "options": [
-            {"id": "just_right", "label": "Just right"}, {"id": "shorter", "label": "I'd prefer shorter"},
-            {"id": "longer", "label": "I'd prefer longer"}
-          ]},
-        { "id": "q12_change", "type": "textarea", "label": "If you could change one thing, what would it be?", "required": false, "maxlength": 5000, "col": "One Change" }
+            {
+              "id": "just_right",
+              "label": "Just right"
+            },
+            {
+              "id": "shorter",
+              "label": "I'd prefer shorter"
+            },
+            {
+              "id": "longer",
+              "label": "I'd prefer longer"
+            }
+          ]
+        },
+        {
+          "id": "q12_change",
+          "type": "textarea",
+          "label": "If you could change one thing, what would it be?",
+          "required": false,
+          "maxlength": 5000,
+          "col": "One Change"
+        }
       ]
     },
     {
       "id": "membership",
       "title": "Membership and support",
       "questions": [
-        { "id": "q13_member", "type": "radio", "label": "Are you a supporting member?", "required": true, "col": "Member Status",
+        {
+          "id": "q13_member",
+          "type": "radio",
+          "label": "Are you a supporting member?",
+          "required": true,
+          "col": "Member Status",
           "options": [
-            {"id": "member_current", "label": "Yes, currently"},
-            {"id": "member_canceled", "label": "I was, but I canceled"},
-            {"id": "member_no", "label": "No"},
-            {"id": "member_unsure", "label": "I'm not sure"}
-          ]},
-        { "id": "q14a_why_support", "type": "textarea", "label": "What's the main reason you support WTFJHT?", "required": false, "maxlength": 5000, "col": "Member Reason",
-          "show_if": {"field": "q13_member", "in": ["member_current"]} },
-        { "id": "q14b_barriers", "type": "checkbox", "label": "What's kept you from becoming a member? (select all that apply)", "required": false, "has_other": true, "col": "Non-Member Barriers",
-          "show_if": {"field": "q13_member", "in": ["member_no", "member_unsure"]},
+            {
+              "id": "member_current",
+              "label": "Yes, currently"
+            },
+            {
+              "id": "member_canceled",
+              "label": "I was, but I canceled"
+            },
+            {
+              "id": "member_no",
+              "label": "No"
+            },
+            {
+              "id": "member_unsure",
+              "label": "I'm not sure"
+            }
+          ]
+        },
+        {
+          "id": "q14a_why_support",
+          "type": "textarea",
+          "label": "What's the main reason you support WTFJHT?",
+          "required": false,
+          "maxlength": 5000,
+          "col": "Member Reason",
+          "show_if": {
+            "field": "q13_member",
+            "in": [
+              "member_current"
+            ]
+          }
+        },
+        {
+          "id": "q14b_barriers",
+          "type": "checkbox",
+          "label": "What's kept you from becoming a member? (select all that apply)",
+          "required": false,
+          "has_other": true,
+          "col": "Non-Member Barriers",
+          "show_if": {
+            "field": "q13_member",
+            "in": [
+              "member_no",
+              "member_unsure"
+            ]
+          },
           "options": [
-            {"id": "cant_afford", "label": "Can't afford it"},
-            {"id": "been_meaning", "label": "Been meaning to"},
-            {"id": "support_others", "label": "I support other outlets"},
-            {"id": "didnt_know", "label": "Didn't know I could"},
-            {"id": "small_doubt", "label": "Doubt a small amount makes a difference"},
-            {"id": "no_subs", "label": "I prefer not to have subscriptions"},
-            {"id": "not_valuable", "label": "Not valuable enough to me"},
-            {"id": "other", "label": "Other"}
-          ]},
-        { "id": "q14c_why_cancel", "type": "textarea", "label": "What led you to cancel?", "required": false, "maxlength": 5000, "col": "Cancel Reason",
-          "show_if": {"field": "q13_member", "in": ["member_canceled"]} }
+            {
+              "id": "cant_afford",
+              "label": "Can't afford it / too expensive"
+            },
+            {
+              "id": "been_meaning",
+              "label": "Been meaning to, just haven't yet"
+            },
+            {
+              "id": "support_others",
+              "label": "I support other outlets"
+            },
+            {
+              "id": "didnt_know",
+              "label": "Didn't know I could"
+            },
+            {
+              "id": "small_doubt",
+              "label": "Doubt a small amount makes a difference"
+            },
+            {
+              "id": "no_subs",
+              "label": "I prefer not to have paid subscriptions"
+            },
+            {
+              "id": "not_valuable",
+              "label": "Not worth it to me"
+            },
+            {
+              "id": "other",
+              "label": "Other"
+            }
+          ]
+        },
+        {
+          "id": "q14c_why_cancel",
+          "type": "textarea",
+          "label": "What led you to cancel?",
+          "required": false,
+          "maxlength": 5000,
+          "col": "Cancel Reason",
+          "show_if": {
+            "field": "q13_member",
+            "in": [
+              "member_canceled"
+            ]
+          }
+        }
       ]
     },
     {
       "id": "civic",
       "title": "Engagement and civic impact",
       "questions": [
-        { "id": "q15_shared", "type": "radio", "label": "Have you ever shared WTFJHT with someone?", "required": true, "col": "Sharing",
+        {
+          "id": "q15_shared",
+          "type": "radio",
+          "label": "Have you ever shared WTFJHT with someone?",
+          "required": true,
+          "col": "Sharing",
           "options": [
-            {"id": "many", "label": "Yes, many times"}, {"id": "once_twice", "label": "Once or twice"},
-            {"id": "thought", "label": "No, but I've thought about it"}, {"id": "no", "label": "No"}
-          ]},
-        { "id": "q16_actions", "type": "checkbox", "label": "Have you taken any of these actions after reading? (select all that apply)", "required": true, "exclusive": "none", "col": "Civic Actions",
+            {
+              "id": "many",
+              "label": "Yes, many times"
+            },
+            {
+              "id": "once_twice",
+              "label": "Once or twice"
+            },
+            {
+              "id": "thought",
+              "label": "No, but I've thought about it"
+            },
+            {
+              "id": "no",
+              "label": "No"
+            }
+          ]
+        },
+        {
+          "id": "q16_actions",
+          "type": "checkbox",
+          "label": "Have you taken any of these actions after reading? (select all that apply)",
+          "required": true,
+          "exclusive": "none",
+          "col": "Civic Actions",
           "options": [
-            {"id": "called", "label": "Called or emailed an official"},
-            {"id": "donated", "label": "Donated to a cause"},
-            {"id": "shared", "label": "Shared WTFJHT"},
-            {"id": "conversation", "label": "Had a conversation about the news"},
-            {"id": "event", "label": "Attended an event or protest"},
-            {"id": "registered", "label": "Registered to vote or helped someone register"},
-            {"id": "none", "label": "None of these"}
-          ]}
+            {
+              "id": "called",
+              "label": "Called or emailed an elected official"
+            },
+            {
+              "id": "donated",
+              "label": "Donated to a cause"
+            },
+            {
+              "id": "shared",
+              "label": "Shared WTFJHT"
+            },
+            {
+              "id": "conversation",
+              "label": "Had a conversation about the news"
+            },
+            {
+              "id": "event",
+              "label": "Attended an event or protest"
+            },
+            {
+              "id": "registered",
+              "label": "Registered to vote or helped someone register"
+            },
+            {
+              "id": "none",
+              "label": "None of these"
+            }
+          ]
+        }
       ]
     },
     {
       "id": "open",
       "title": "The open door",
       "questions": [
-        { "id": "q17_else", "type": "textarea", "label": "Anything else you'd like us to know?", "required": false, "maxlength": 5000, "col": "Anything Else" }
+        {
+          "id": "q17_else",
+          "type": "textarea",
+          "label": "Anything else you'd like to let Matt know?",
+          "required": false,
+          "maxlength": 5000,
+          "col": "Anything Else"
+        }
       ]
     }
   ],
   "email": {
-    "id": "email", "type": "email", "label": "Optional: leave your email if you'd like us to be able to follow up. We won't add you to anything.", "required": false, "maxlength": 254, "col": "Email"
+    "id": "email",
+    "type": "email",
+    "label": "Optional: leave your email if you'd like Matt to follow up.",
+    "required": false,
+    "maxlength": 254,
+    "col": "Email"
   }
 }

@@ -533,7 +533,7 @@
         {
           "id": "q17_else",
           "type": "textarea",
-          "label": "Anything else you'd like us to know?",
+          "label": "Anything else you'd like to let Matt know?",
           "required": false,
           "maxlength": 5000,
           "col": "Anything Else"
@@ -544,7 +544,7 @@
   "email": {
     "id": "email",
     "type": "email",
-    "label": "Optional: leave your email if you'd like us to be able to follow up. We won't add you to anything.",
+    "label": "Optional: leave your email if you'd like Matt to follow up.",
     "required": false,
     "maxlength": 254,
     "col": "Email"

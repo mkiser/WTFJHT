@@ -13,7 +13,7 @@ module Jekyll
       max_chars = (YearsAgo::Utils.cfg(site, "years_ago", "max_chars", default: 240)).to_i
       max_beats = (YearsAgo::Utils.cfg(site, "years_ago", "max_beats", default: 5)).to_i
 
-      latest = site.posts.docs.max_by { |p| p.data["date"] }
+      latest = site.posts.docs.reject { |p| p.data["post_type"] == "week-in-review" }.max_by { |p| p.data["date"] }
       return unless latest
 
       # Calculate read time for the latest post

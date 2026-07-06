@@ -15,7 +15,7 @@ layout: post
 description: Command and control.
 image:
   twitter: "/public/wtfjht-t.jpg"
-  facebook: "/public/wtfjht.jpg"
+  facebook: "/public/wtfjht-f.jpg"
 ---
 
 1/ **Trump believes millions voted illegally -- but provides no proof.** The claim has long been debunked. ([CNN](http://www.cnn.com/2017/01/24/politics/wh-trump-believes-millions-voted-illegally/))

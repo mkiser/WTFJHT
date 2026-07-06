@@ -12,11 +12,13 @@ module Jekyll
       # O(1) index: [year, month, day] -> post
       index = {}
       site.posts.docs.each do |p|
+        next if p.data["post_type"] == "week-in-review"  # weeklies are never cross-link targets
         d = p.data["date"]
         index[[d.year, d.month, d.day]] = p
       end
 
       site.posts.docs.each do |post|
+        next if post.data["post_type"] == "week-in-review"  # weeklies get no years-ago/on-this-day links
         current_date   = post.data["date"]
         blog_start_y   = 2017
         current_year   = Date.today.year

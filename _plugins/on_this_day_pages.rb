@@ -39,6 +39,7 @@ module Jekyll
       # Build index: [month, day] -> array of posts (sorted oldest-first)
       index = Hash.new { |h, k| h[k] = [] }
       site.posts.docs.each do |post|
+        next if post.data["post_type"] == "week-in-review"  # weeklies don't belong on On This Day pages
         d = post.data["date"]
         index[[d.month, d.day]] << post
       end

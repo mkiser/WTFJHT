@@ -88,6 +88,12 @@ def check(site: Path):
     # the carousel export canvas is an Instagram graphic, not site chrome.
     EXPORT_SELECTOR = re.compile(r"carousel-card|carousel-progress")
 
+    # Law II scoped carve-out: the radio control wears a circle — ratified in
+    # the brand book, Law II "One exception (2026-06-09)" (/brand/, scoped to
+    # the radio indicator only; reconfirmed by Matt 2026-07-06 when this gate
+    # was taught the exception it had never been given).
+    RADIO_CIRCLE_SELECTOR = re.compile(r'survey-option:has\(input\[type="?radio"?\]\)')
+
     for path, css in css_texts.items():
         name = path.name
         # parse into (selector, body) rule blocks for selector-aware checks
@@ -97,6 +103,8 @@ def check(site: Path):
             # Law II — radii
             for m in re.finditer(r"border-radius:\s*([^;]+)", body):
                 v = m.group(1).strip()
+                if v == "50%" and RADIO_CIRCLE_SELECTOR.search(sel):
+                    continue  # ratified radio-circle carve-out (see above)
                 if v not in RADIUS_WHITELIST:
                     failures.append(f"{name}: {sel.strip()[:50]} border-radius '{v}' (Law II)")
             # Law V — shadows

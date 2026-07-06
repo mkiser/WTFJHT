@@ -267,7 +267,7 @@
 // Visible submit-failure banner (sighted parity with the sr-only live region).
 // Background is the engineered light-red wash (brand law: light reds are engineered, never alpha-made).
 .survey-submit-error {
-  color: var(--c-danger); font-size: 0.95rem; font-weight: 600; margin: 1.25em 0 0;
+  color: var(--c-danger); font-size: 0.9rem; font-weight: 600; margin: 1.25em 0 0; // 0.95 → 0.9: role-scale stop (Matt, 2026-07-06)
   padding: 0.7em 0.9em; border: 1px solid var(--c-danger); background: var(--c-red-wash);
 }
 .survey-checking { color: $gray-3; font-size: 1rem; }
@@ -287,7 +287,7 @@
 .survey-thanks-body { color: $gray-4; font-size: 1.1rem; line-height: 1.6; }
 .survey-link-btn {
   display: inline-block; background: none; border: 0; padding: 0.5em 0; margin-top: 1.25em;
-  min-height: 44px; color: $link-color; text-decoration: underline; cursor: pointer; font-size: 0.95rem;
+  min-height: 44px; color: $link-color; text-decoration: underline; cursor: pointer; font-size: 0.9rem; // 0.95 → 0.9: role-scale stop (Matt, 2026-07-06)
 
   &:hover { color: var(--c-link-hover); }
   &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }

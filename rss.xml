@@ -64,15 +64,6 @@ layout:
 {% include away_mode.html %}
 {% endif %}
 
-{% if post.currentMood and post.currentMood != '' %}
-<p><strong>Current mood:</strong> {{ post.currentMood }}</p>
-{% endif %}
-
-{% if post.editorsNote and post.editorsNote != '' %}
-{{ post.editorsNote | replace: ']]>', ']]]]><![CDATA[>' }}
-<hr>
-{% endif %}
-
 {% if tios and tios != '' %}
 <p><em><strong>Today in one sentence</strong>: {{ tios | smartify }}</em></p>
 <hr>

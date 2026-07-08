@@ -35,7 +35,7 @@ class TestStripMarkdown(unittest.TestCase):
         self.assertEqual(strip_markdown("***both***"), "both")
 
     def test_bold_containing_italic(self):
-        # "**a *b* c**" leaked literal asterisks with the old [^*]+ pattern
+        # "**a *b* c**" (bold containing italics) must not leak literal asterisks
         self.assertEqual(strip_markdown("**🤦‍♂️ *Dept. of C'mon Man***"),
                          "🤦‍♂️ Dept. of C'mon Man")
 
@@ -98,7 +98,7 @@ class TestDayFromBasename(unittest.TestCase):
         self.assertEqual(day_from_basename("2017-01-21-Day-2"), 2)
 
     def test_legacy_numeric_slug(self):
-        # Board finding: history contains "2019-11-14-1029.md" (renamed later)
+        # history contains "2019-11-14-1029.md" (all-digit slug = day number)
         self.assertEqual(day_from_basename("2019-11-14-1029"), 1029)
 
     def test_non_day_posts_get_none(self):
@@ -110,16 +110,16 @@ class TestPairHunk(unittest.TestCase):
         self.assertEqual(pair_hunk(["a", "b"], ["A", "B"]), [("a", "A"), ("b", "B")])
 
     def test_rewritten_region_block_joins(self):
-        # Board finding: N:M index-pairing splits multi-line edits into garbage
+        # N:M index-pairing would split multi-line edits into garbage
         self.assertEqual(pair_hunk(["a", "b", "c"], ["A"]), [("a\nb\nc", "A")])
 
     def test_removed_only_become_deletions(self):
         self.assertEqual(pair_hunk(["a", "b"], []), [("a", ""), ("b", "")])
 
     def test_inserted_item_with_renumber_cascade(self):
-        # Matt's screenshot (Day 1939): new item 1 inserted, old item 1 became
-        # item 2. Must pair the surviving line with itself (renumber-only,
-        # filtered downstream) and treat the new item as a pure addition.
+        # New item 1 inserted, old item 1 became item 2. Must pair the surviving
+        # line with itself (renumber-only, filtered downstream) and treat the
+        # new item as a pure addition.
         pairs = pair_hunk(["1/ U.S. inflation rose."],
                           ["1/ Trump said a thing.", "2/ U.S. inflation rose."])
         self.assertEqual(pairs, [("1/ U.S. inflation rose.",
@@ -142,7 +142,7 @@ class TestLinkChangeText(unittest.TestCase):
         self.assertEqual(t, "removed politico.com; added nytimes.com")
 
     def test_same_domain_swap_detected(self):
-        # Board finding: same-domain URL swaps were silently dropped
+        # same-domain URL swaps must not be silently dropped
         t = link_change_text("([A](https://nytimes.com/old))",
                              "([A](https://nytimes.com/new))")
         self.assertEqual(t, "updated nytimes.com")

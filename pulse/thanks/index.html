@@ -158,9 +158,8 @@ sitemap: false
   var closed = params.get('closed') === '1';
 
   // =====================================================================
-  // Turnstile: two-token pattern (Stage 1 vote + Stage 2 note each need a
-  // fresh single-use token). Widget renders invisibly; we reset it after
-  // each consumed token to kick off a new background challenge.
+  // Turnstile bot defense — the Worker verifies server-side. Don't alter
+  // the token timing or flow without checking the Worker.
   // =====================================================================
   var turnstileWidgetId = null;
   var turnstileResolve;
@@ -212,8 +211,9 @@ sitemap: false
   // =====================================================================
   // Fallback UX helpers — shown when Turnstile resolves null (blocked by
   // ad blocker / corporate firewall / privacy settings). User taps once,
-  // we POST with { fallback: true } and no turnstile token. The Worker's
-  // belt defenses (UA, origin, Sec-Fetch, honeypot, timing) still apply.
+  // we POST with { fallback: true } and no turnstile token; the Worker's
+  // server-side bot defense still applies. Don't alter the flow without
+  // checking the Worker.
   // =====================================================================
 
   function showTurnstileFallback(promptText, buttonText, onClick) {
@@ -221,8 +221,8 @@ sitemap: false
     fallbackBtn.textContent = buttonText;
     fallbackBtn.disabled = true;
     fallbackEl.style.display = '';
-    // Scanner defense: require 500ms delay before tap is possible, and
-    // require a real user click (synthetic auto-clicks fail Worker checks).
+    // Bot defense — the tap is briefly gated and the Worker verifies a real
+    // user click. Don't alter the timing or flow without checking the Worker.
     setTimeout(function () { fallbackBtn.disabled = false; }, 500);
     // Replace handler by cloning the node to purge any prior listener.
     var fresh = fallbackBtn.cloneNode(true);
@@ -368,9 +368,8 @@ sitemap: false
 
     formSection.style.display = '';
 
-    // Kick off a fresh Turnstile challenge for the potential Stage 2 note
-    // submission. User typically takes 15+ seconds to write a note, so the
-    // new token will be ready by submit.
+    // Kick off a fresh Turnstile challenge for the potential note
+    // submission so a token is ready by the time the reader submits.
     getFreshTurnstilePromise();
   }
 

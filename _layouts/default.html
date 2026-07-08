@@ -16,7 +16,7 @@
       }
       function apply(pref) {
         var night = pref ? pref === 'night' : !!(mq && mq.matches);
-        root.classList.add('theme-snap'); // suppress transitions: theme flips are instant (Law V)
+        root.classList.add('theme-snap'); // suppress transitions: theme flips are instant
         if (night) root.setAttribute('data-theme', 'night');
         else root.removeAttribute('data-theme');
         if (window.requestAnimationFrame) {
@@ -296,7 +296,6 @@
             · <a href="{{ site.url }}{{ site.baseurl }}/license/">License</a>
           </p>
           <p class="theme-control" role="radiogroup" aria-label="Appearance">
-            <!-- PLACEHOLDER COPY — Matt owns the visible wording -->
             <span class="theme-control__label">Appearance:</span>
             <button type="button" role="radio" class="theme-control__btn" data-theme-pref="auto">Auto</button>
             <span aria-hidden="true">·</span>
@@ -326,22 +325,6 @@
       <!-- POST-ONLY SCRIPTS -->
       {% if site.is_doomsday_counter == true %}<script src="{{ site.url }}{{ site.baseurl }}/public/js/doomsday.js?v={{ site.time | date: '%s' }}" defer></script>{% endif %}
       <script src="{{ site.url }}{{ site.baseurl }}/public/js/carousel.js" defer></script>
-      {% endif %}
-      {% if page.podcast.file and page.podcast.file != '' %}
-      {% comment %} the != '' matters: _config.yml defaults give every post
-         podcast.file: '' and empty string is truthy in Liquid — audiojs was
-         loading on every post (page-walk NICE pile) {% endcomment %}
-      <!-- AUDIO PLAYER -->
-      <script src="{{ site.url }}{{ site.baseurl }}/public/js/audiojs/audio.min.js" defer></script>
-      <script>
-        document.addEventListener('DOMContentLoaded', function() {
-          if (typeof audiojs !== 'undefined') {
-            audiojs.events.ready(function() {
-              audiojs.createAll();
-            });
-          }
-        });
-      </script>
       {% endif %}
 
       {% if page.layout == 'post' or page.url == '/' %}

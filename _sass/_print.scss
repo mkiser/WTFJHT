@@ -9,7 +9,7 @@
 
   // Night never reaches paper: re-pin the full token sheet to day values.
   // LITERALS ONLY — Ruby Sass 3.7.4 emits un-interpolated $vars inside
-  // custom-property declarations as literal text (verified 2026-06-07).
+  // custom-property declarations as literal text.
   // The [data-theme="night"] selector in the group is what outguns the
   // night block's specificity.
   :root,

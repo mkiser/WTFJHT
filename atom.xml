@@ -45,6 +45,13 @@ layout:
         <email>{{ site.author.email }}</email>
         <uri>{{ site.url }}{{ site.baseurl }}/</uri>
       </author>
+      {% if post.tags and post.tags.size > 0 %}
+        {% for tag in post.tags %}
+      <category term="{{ tag | xml_escape }}" />
+        {% endfor %}
+      {% else %}
+      <category term="politics" />
+      {% endif %}
       <summary type="html"><![CDATA[{{ summary }}]]></summary>
       <content type="html" xml:base="{{ site.url }}{{ site.baseurl }}/"><![CDATA[
 {% if post.image %}
@@ -53,6 +60,15 @@ layout:
 
 {% if site.is_away_mode == true %}
 {% include away_mode.html %}
+{% endif %}
+
+{% if post.currentMood and post.currentMood != '' %}
+<p><strong>Current mood:</strong> {{ post.currentMood }}</p>
+{% endif %}
+
+{% if post.editorsNote and post.editorsNote != '' %}
+{{ post.editorsNote | replace: ']]>', ']]]]><![CDATA[>' }}
+<hr>
 {% endif %}
 
 {% if tios and tios != '' %}

@@ -28,7 +28,7 @@
   .masthead-description {
     margin: 0 auto 0.75rem;
     max-width: $w-module;
-    color: #9aa0a6; // night-meta family · 6.7:1 on black (old $meta-color was 3.50:1 — failed AA)
+    color: #9aa0a6; // night-meta family · 6.7:1 on black
     font-size: 1.1rem;
     font-weight: 400;
     line-height: 1.4;
@@ -37,8 +37,8 @@
   // Tertiary: Author and date
   .masthead-meta {
     margin: 0 0 1.25rem;
-    color: #9aa0a6; // night-meta family · 6.7:1 on black (old $meta-color was 3.50:1 — failed AA)
-    font-size: 0.9rem; // secondary stop (P2 chrome snap)
+    color: #9aa0a6; // night-meta family · 6.7:1 on black
+    font-size: 0.9rem; // secondary stop
 
     a {
       color: #fff;
@@ -58,7 +58,7 @@
     }
 
     time {
-      color: #9aa0a6; // night-meta family · 6.7:1 on black (old $meta-color was 3.50:1 — failed AA)
+      color: #9aa0a6; // night-meta family · 6.7:1 on black
     }
   }
 
@@ -70,20 +70,20 @@
   // Search
   .wtf-search {
     margin: 0 auto;
-    max-width: $w-module; // 32rem — container scale stop (was 24rem, off-scale)
+    max-width: $w-module; // 32rem — container scale stop
 
     input {
       -webkit-appearance: none;
       appearance: none;
       width: 100%;
       padding: 0.625rem 1rem 0.625rem 2.5rem;
-      background-color: #1a1a1a; // pinned — invariant chrome (was $body-color used as dark paint)
+      background-color: #1a1a1a; // pinned — invariant chrome
       border: 1px solid $bg-dark;
       border-radius: 0;
       min-height: 46px; // one input spec: all text inputs share height
       color: #fff;
-      font-size: 1rem; // one input spec: body-size text (board fix #8) — ≥16px at
-                       // every root, so iOS never zooms; the old 16px override is gone
+      font-size: 1rem; // one input spec: body-size text — ≥16px at
+                       // every root, so iOS never zooms
 
       &::placeholder {
         color: #666; // pinned — invariant chrome

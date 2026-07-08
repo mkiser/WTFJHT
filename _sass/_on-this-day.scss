@@ -7,7 +7,7 @@
 }
 
 .otd-year {
-  font-size: 1rem; // body stop (P2 em retirement)
+  font-size: 1rem; // body stop
   color: $gray-3;
   margin-bottom: 0.75em;
   padding-bottom: 0.25em;
@@ -21,7 +21,7 @@
     display: block;
     color: $gray-5;
     text-decoration: none;
-    font-weight: 600; // entry title, light ground (type migration P1, ruling 6)
+    font-weight: 600; // entry title, light ground
 
     &:hover {
       text-decoration: underline;
@@ -31,7 +31,7 @@
   &__desc {
     display: block;
     color: $gray-3;
-    font-size: 0.8rem; // meta stop (P2 em retirement)
+    font-size: 0.8rem; // meta stop
     margin-top: 0.25em;
   }
 }
@@ -42,7 +42,7 @@
   margin-top: 2rem;
   padding-top: 1.5rem;
   border-top: 1px solid $border-lighter;
-  font-size: 0.8rem; // meta stop (P2 em retirement)
+  font-size: 0.8rem; // meta stop
 
   a {
     color: $meta-color;

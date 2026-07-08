@@ -16,7 +16,7 @@ body {
 
 html {
   font-family: $root-font-family;
-  font-size: unquote("clamp(1.0625rem, 1.0125rem + 0.2vw, 1.125rem)"); // rem: respects user font-size prefs (17-18px at browser default) // caps post body ~19.8px (was 22px via the 20px jump)
+  font-size: unquote("clamp(1.0625rem, 1.0125rem + 0.2vw, 1.125rem)"); // rem: respects user font-size prefs (17-18px at browser default); caps post body ~19.8px
   line-height: $root-line-height;
 }
 
@@ -46,7 +46,7 @@ a {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  font-size: 0.9rem; // secondary stop (P2 — tables read at .9)
+  font-size: 0.9rem; // secondary stop — tables read at .9
   border: 1px solid $border-color;
   border-collapse: collapse;
 }
@@ -69,9 +69,8 @@ tbody tr:nth-child(odd) th {
 mark {
   background-color: var(--c-red-wash); // blush wash — search highlight
   color: var(--c-danger-deep); // 7.43:1 on light wash
-  border-bottom: 2px solid var(--c-link); // the underscore carries the meaning (non-color
-                                    // cue) — a border, not a shadow, so Law V's
-                                    // no-shadow gate stays absolute (board fix #14)
+  border-bottom: 2px solid var(--c-link); // the underscore carries the meaning — a
+                                    // non-color cue, and a border not a shadow
 }
 
 img {
@@ -89,8 +88,8 @@ img {
 .mt-2 { margin-top: 2em; }
 .t-center { text-align: center; }
 
-// Theme flips are instant — Law V. The resolver wears .theme-snap on <html>
-// for one frame around any data-theme change to suppress component transitions.
+// The resolver wears .theme-snap on <html> for one frame around any data-theme
+// change to suppress component transitions during the flip.
 .theme-snap,
 .theme-snap * {
   transition: none !important;

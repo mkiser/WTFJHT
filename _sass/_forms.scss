@@ -5,7 +5,7 @@
 .jaq-subtitle {
   font-style: italic;
   color: $gray-3;
-  font-size: 1rem; // body stop (P2 em retirement)
+  font-size: 1rem; // body stop
   margin-top: -0.5em;
 }
 
@@ -24,10 +24,10 @@
 .jaq-select,
 .jaq-textarea {
   width: 100%;
-  min-height: 46px; // one input spec (page-walk M6); the textarea grows from here
+  min-height: 46px; // one input spec; the textarea grows from here
   padding: 0.5em 0.6em;
   font-family: $root-font-family;
-  font-size: 1rem; // body stop (P2 em retirement; ≥16px — iOS safe)
+  font-size: 1rem; // body stop (≥16px — iOS safe)
   color: $gray-4;
   background: $body-bg;
   border: 1px solid $border-color;
@@ -58,14 +58,14 @@
 .jaq-counter {
   display: block;
   text-align: right;
-  font-size: 0.8rem; // meta stop (P2 em retirement)
+  font-size: 0.8rem; // meta stop
   color: $gray-3;
   margin-top: 0.25em;
 }
 
 .jaq-hint {
   display: block;
-  font-size: 0.9rem; // secondary stop (P2 em retirement)
+  font-size: 0.9rem; // secondary stop
   color: $gray-3;
   margin-top: 0.25em;
 }
@@ -74,10 +74,10 @@
   display: inline-block;
   padding: 0.65em 1.5em;
   font-family: $root-font-family;
-  font-size: 1rem; // body stop (P2 em retirement; ≥16px — iOS safe)
+  font-size: 1rem; // body stop (≥16px — iOS safe)
   font-weight: 600;
   color: #fff;
-  background-color: #111; // ink square (ruling: CTA wears ink, not alarm red)
+  background-color: #111; // ink square — CTA wears ink, not alarm red
   border: 1px solid #111;
   border-radius: 0;
   cursor: pointer;
@@ -101,13 +101,13 @@
 
 .jaq-error {
   color: $red;
-  font-size: 0.9rem; // secondary stop (P2 em retirement)
+  font-size: 0.9rem; // secondary stop
   margin-top: 0.5em;
 }
 
 .jaq-field-error {
   color: $red;
-  font-size: 0.9rem; // secondary stop (P2 em retirement)
+  font-size: 0.9rem; // secondary stop
   margin-top: 0.25em;
 }
 
@@ -117,7 +117,7 @@
 
 .jaq-confirmation {
   p {
-    font-size: 1.1rem; // prose stop (P2 em retirement)
+    font-size: 1.1rem; // prose stop
     line-height: 1.6;
   }
 }
@@ -196,21 +196,21 @@
 
   // The whole card is the control. The native checkbox/radio COVERS the card (operable +
   // findable by touch screen-readers who swipe to its physical position) and is visually
-  // transparent — opacity, NOT 1px-clip / sr-only / display:none (brand Ch28 floor).
+  // transparent — opacity, NOT 1px-clip / sr-only / display:none.
   input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
   &:hover { border-color: $gray-3; background: var(--c-surface); }
   &:has(input:checked) { border-color: var(--c-ink-strong); background: var(--c-surface); }
-  // Brand focus ring: 2px crimson outline, offset 2px, "everywhere, no exceptions" (Ch15).
+  // Focus ring: 2px crimson outline, offset 2px, everywhere.
   &:has(input:focus-visible) { outline: 2px solid var(--c-focus); outline-offset: 2px; }
 }
 
-// AFFORDANCE — single vs multi shown by the INDICATOR SHAPE, not just the text. This is
-// the form-control exception to Law II's no-circles, ratified for the survey because the
-// historical radio=circle / checkbox=square convention is the clearest possible signal:
+// AFFORDANCE — single vs multi shown by the INDICATOR SHAPE, not just the text. The
+// form-control carve-out to the no-circles rule, because the historical radio=circle /
+// checkbox=square convention is the clearest possible signal:
 //   • multi-select (checkbox) → a SHARP SQUARE tick-box (□ → ink ✓) — the open grid, the many
 //   • single-select (radio)   → a CIRCLE — outline → solid ink — the one
-// Both: leading 1.15rem indicator, flat ink fill (Law V), state carried by shape + glyph,
-// never hue (Law IV). The circle lives ONLY on the radio control — everywhere else stays square.
+// Both: leading 1.15rem indicator, flat ink fill, state carried by shape + glyph,
+// never hue. The circle lives ONLY on the radio control — everywhere else stays square.
 .survey-option:has(input[type="checkbox"]),
 .survey-option:has(input[type="radio"]) { padding-left: 3em; }
 
@@ -223,7 +223,7 @@
   font-size: 0.85rem; font-weight: 700; line-height: 1;
 }
 // Radio indicator is a circle — the historical single-select affordance (the one
-// sanctioned exception to Law II, scoped to the radio control).
+// exception to the no-circles rule, scoped to the radio control).
 .survey-option:has(input[type="radio"])::before { border-radius: 50%; }
 
 // Selected: checkbox fills ink with a ✓; radio fills solid ink.
@@ -250,10 +250,9 @@
 }
 .survey-nps-labels { display: flex; justify-content: space-between; font-size: 0.8rem; color: $gray-3; margin-top: 0.6em; }
 
-// Inputs inherit the brand input spec from the shared jaq-* base (square · 1px border ·
-// 46px · night converges on the brand's #333/#444/#f9f9f9 field — "input identity beats
-// depth logic", brand Ch17). We add only airier padding + the brand focus ring (Ch15:
-// 2px crimson OUTLINE, offset 2px — never a box-shadow, which Law V / Ch29 retire).
+// Inputs inherit the shared jaq-* base (square · 1px border · 46px · night converges on
+// the #333/#444/#f9f9f9 field — input identity beats depth logic). We add only airier
+// padding + the focus ring (2px crimson OUTLINE, offset 2px — never a box-shadow).
 .survey .jaq-input,
 .survey .jaq-textarea {
   padding: 0.65em 0.75em;
@@ -265,17 +264,17 @@
 .survey-q.has-error .survey-option { border-color: var(--c-danger); }
 
 // Visible submit-failure banner (sighted parity with the sr-only live region).
-// Background is the engineered light-red wash (brand law: light reds are engineered, never alpha-made).
+// Background is the engineered light-red wash (light reds are engineered, never alpha-made).
 .survey-submit-error {
-  color: var(--c-danger); font-size: 0.9rem; font-weight: 600; margin: 1.25em 0 0; // 0.95 → 0.9: role-scale stop (Matt, 2026-07-06)
+  color: var(--c-danger); font-size: 0.9rem; font-weight: 600; margin: 1.25em 0 0; // role-scale stop
   padding: 0.7em 0.9em; border: 1px solid var(--c-danger); background: var(--c-red-wash);
 }
 .survey-checking { color: $gray-3; font-size: 1rem; }
 
 .survey-nav { display: flex; align-items: center; justify-content: space-between; gap: 1em; margin-top: 2.75em; }
 .survey-nav .jaq-btn { padding: 0.8em 1.75em; }  // airier primary button (scoped — shared jaq-btn base untouched)
-// Back = link-language (brand Ch15: underlined muted ink, hover crimson), NOT a second button.
-// Holds Ch16's "one primary button" — the same ruling that made the masthead CTA a link.
+// Back = link-language (underlined muted ink, hover crimson), NOT a second button —
+// holds the "one primary button" rule.
 .survey-btn-back {
   background: none; border: 0; padding: 0.5em 0; min-height: 44px;
   font-family: $root-font-family; font-size: 1rem; color: $gray-4;
@@ -287,7 +286,7 @@
 .survey-thanks-body { color: $gray-4; font-size: 1.1rem; line-height: 1.6; }
 .survey-link-btn {
   display: inline-block; background: none; border: 0; padding: 0.5em 0; margin-top: 1.25em;
-  min-height: 44px; color: $link-color; text-decoration: underline; cursor: pointer; font-size: 0.9rem; // 0.95 → 0.9: role-scale stop (Matt, 2026-07-06)
+  min-height: 44px; color: $link-color; text-decoration: underline; cursor: pointer; font-size: 0.9rem; // role-scale stop
 
   &:hover { color: var(--c-link-hover); }
   &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }

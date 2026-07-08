@@ -1,7 +1,7 @@
 {% comment %}
-  Date guard (page-walk M11): the copy below is date-specific (returns Jan. 5, 2026),
-  so the include self-expires the day after — a stale site.away_mode flag can no
-  longer show holiday copy out of season. Update away_end together with the copy.
+  Date guard: the copy below is date-specific, so the include self-expires
+  the day after — a stale site.away_mode flag can no longer show holiday
+  copy out of season. Update away_end together with the copy.
 {% endcomment %}
 {% assign away_end = '2026-07-05' | date: '%s' %}
 {% assign now_epoch = site.time | date: '%s' %}

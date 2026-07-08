@@ -178,6 +178,9 @@ jobs:
           curl -sf https://whatthefuckjusthappenedtoday.com/ > /dev/null || { echo "FAIL: Homepage unreachable"; exit 1; }
           curl -sf https://whatthefuckjusthappenedtoday.com/rss.xml > /dev/null || { echo "FAIL: RSS feed unreachable"; exit 1; }
           curl -sf https://whatthefuckjusthappenedtoday.com/search-index.json > /dev/null || { echo "FAIL: Search index unreachable"; exit 1; }
+          curl -sf https://whatthefuckjusthappenedtoday.com/corrections/ > /dev/null || { echo "FAIL: Corrections page unreachable"; exit 1; }
+          curl -sf https://whatthefuckjusthappenedtoday.com/archive/ > /dev/null || { echo "FAIL: Archive page unreachable"; exit 1; }
+          curl -sf https://whatthefuckjusthappenedtoday.com/podcasts/index.xml > /dev/null || { echo "FAIL: Podcast feed unreachable"; exit 1; }
           echo "All smoke tests passed."
 
       - name: Notify Slack

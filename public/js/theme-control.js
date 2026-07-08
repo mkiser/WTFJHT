@@ -1,5 +1,5 @@
 /* Footer appearance control — 3-state (auto/day/night).
-   Highlight reflects PREFERENCE, not resolved theme (night spec §5.2). */
+   Highlight reflects PREFERENCE, not resolved theme. */
 (function () {
   var KEY = (window.WTFTheme && window.WTFTheme.KEY) || 'wtfjht-theme';
   var btns = Array.prototype.slice.call(document.querySelectorAll('.theme-control__btn'));

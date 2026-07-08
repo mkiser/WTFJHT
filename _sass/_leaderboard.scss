@@ -35,7 +35,7 @@
   width: 100%;
   max-width: 50px;
   background: $red;
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
   min-height: 2px;
   transition: opacity 0.15s;
 }
@@ -74,9 +74,9 @@
   background: $gray-5;
   color: #fff;
   padding: 0.35rem 0.6rem;
-  border-radius: 0; // square (Law II; page-walk M3 sweep)
+  border-radius: 0; // square
   font-size: 0.7rem;
-  font-weight: 400; // tooltip on #313131 — dark grounds map DOWN (type migration P1, ruling 6)
+  font-weight: 400; // tooltip on #313131 — dark grounds map DOWN
   white-space: nowrap;
   opacity: 0;
   visibility: hidden;
@@ -116,11 +116,11 @@
     }
 
     .source-name {
-      font-size: 1rem; // body stop (P2)
+      font-size: 1rem; // body stop
     }
 
     .source-pct {
-      font-size: 1rem; // body stop (P2)
+      font-size: 1rem; // body stop
     }
   }
 }
@@ -141,7 +141,7 @@
 .source-name {
   font-weight: 600;
   color: $gray-5;
-  font-size: 1rem; // body stop (P2)
+  font-size: 1rem; // body stop
 }
 
 .source-domain {
@@ -158,7 +158,7 @@
 .source-pct {
   font-weight: 600;
   color: $gray-5;
-  font-size: 1rem; // body stop (P2)
+  font-size: 1rem; // body stop
 }
 
 .source-count {
@@ -252,7 +252,7 @@
 .legend-dot {
   width: 8px;
   height: 8px;
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
 
   &.up { background: var(--c-success); }
   &.down { background: $red; }

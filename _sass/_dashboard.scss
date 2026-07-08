@@ -37,7 +37,7 @@
 
 .counter-label {
   color: $gray-3;
-  font-size: 0.8rem; // meta stop (P2 em retirement)
+  font-size: 0.8rem; // meta stop
   margin-top: 0.5rem;
   display: block;
 
@@ -53,7 +53,7 @@
 }
 
 .counter-meta {
-  font-size: 0.75rem; // label stop (P2 em retirement)
+  font-size: 0.75rem; // label stop
   color: $gray-4;
   font-style: italic;
   margin-top: 0.5rem;
@@ -64,7 +64,7 @@
   width: 100%;
   height: 6px;
   background: $gray-1;
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
   margin-top: 0.75rem;
   overflow: hidden;
 }
@@ -74,7 +74,7 @@
   background: $red;
   transition: width 0.3s ease;
 
-  &.biden { background: var(--c-brand-blue); }     // Law I blue
+  &.biden { background: var(--c-brand-blue); }     // brand blue (partisan data)
   &.election { background: var(--c-axis); }  // neutral axis gray
 }
 

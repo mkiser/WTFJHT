@@ -7,8 +7,6 @@ noindex: true
 ---
 
 <div class="corrections">
-  {% comment %}<!-- <p class="corrections__intro"><em>[Intro copy: what this page is and how it's generated — Matt to write.]</em></p> -->{% endcomment %}
-
   {% if site.data.corrections and site.data.corrections.entries %}
     {% assign recent = site.data.corrections.entries | slice: 0, 50 %}
     {% assign groups = recent | group_by_exp: "e", "e.changed_at | date: '%B %Y'" %}

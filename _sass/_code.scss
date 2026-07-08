@@ -10,10 +10,10 @@ pre {
 
 code {
   padding: .25em .5em;
-  font-size: 0.85em; // SANCTIONED inline microtype — code rides its prose context
+  font-size: 0.85em; // inline microtype — code rides its prose context
   color: $code-color;
   background-color: $gray-1;
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
 }
 
 pre {
@@ -35,7 +35,7 @@ pre code {
   font-size: .8rem;
   line-height: 1.4;
   background-color: $gray-1;
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
 
   pre {
     margin-bottom: 0;

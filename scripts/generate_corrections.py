@@ -3,7 +3,7 @@
 
 Fully deterministic — no LLM anywhere. Pipeline:
   git log -p -U0 --diff-filter=M -- _posts/   (the repo's own diffs)
-  -> five mechanical filter rules (see docs spec 2026-06-05)
+  -> five mechanical filter rules (below)
   -> word-level diff segments (difflib LCS, same family as git --word-diff)
   -> _data/corrections.json rendered by Liquid templates.
 
@@ -15,7 +15,7 @@ Rules a change must survive:
   5. not renumbering-only ("3/" -> "4/")
 
 Usage:
-  python3 _scripts/generate_corrections.py [--repo .] [--output _data/corrections.json] [--stats-only]
+  python3 scripts/generate_corrections.py [--repo .] [--output _data/corrections.json] [--stats-only]
 """
 import argparse
 import json
@@ -36,8 +36,8 @@ ITEM_NUM_RE = re.compile(r"^\d+/\s*")
 IMG_RE = re.compile(r"!\[([^\]]*)\]\([^)]*\)")
 LINK_RE = re.compile(r"\[([^\]]+)\]\([^)]*\)")
 CODE_RE = re.compile(r"`([^`]*)`")
-# Non-greedy + dot so bold spans CONTAINING italics match ("**a *b* c**" was
-# unmatched by [^*]+ and leaked literal asterisks into the corrections page).
+# Non-greedy + dot so bold spans CONTAINING italics ("**a *b* c**") match;
+# a bare [^*]+ misses them and leaks literal asterisks onto the corrections page.
 BOLD_RE = re.compile(r"\*\*(.+?)\*\*")
 EM_RE = re.compile(r"(?<!\*)\*([^*]+)\*(?!\*)")
 # Diff lines can cut an emphasis span in half, leaving unpaired runs.

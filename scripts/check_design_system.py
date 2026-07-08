@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Design-system governance gate (v2).
 
-Scans the COMPILED build output for values the design system bans — the laws
-enforced mechanically, per /brand/ ch.31 ("The build gates enforce the laws").
+Scans the COMPILED build output for values the design system bans,
+enforcing them mechanically (see /brand/).
 
 Usage:
     python3 scripts/check_design_system.py [--site DIR] [--strict]
@@ -11,9 +11,8 @@ Usage:
     --strict  exit 1 on any failure (for CI; default prints report only)
 
 Every whitelist below is EXACT and documented — a new deviation fails the gate
-even if an old, ratified one looks similar. When a whitelist entry is retired
-(e.g. the quiz island was migrated 2026-06-05), remove it here so regressions
-can't hide behind it.
+even if an old one looks similar. When a whitelist entry no longer applies,
+remove it here so regressions can't hide behind it.
 """
 import argparse
 import re
@@ -21,8 +20,8 @@ import sys
 from pathlib import Path
 
 # ---------------------------------------------------------------- whitelists
-# Law II — the only rounding is the 21% tile. These survivors are the
-# documented instrument/export carve-outs (board minutes 2026-06-05).
+# The only rounding is the 21% tile. These survivors are the documented
+# instrument/export carve-outs.
 RADIUS_WHITELIST = {
     "0", "21%", "0 0 0 0",
     "6px",                      # .carousel-card — Instagram export canvas
@@ -31,7 +30,7 @@ RADIUS_WHITELIST = {
     "8px",                      # carousel export internals
 }
 
-# Law V — flat. Exact surviving shadows: floating overlays (layer disambiguation)
+# Flat. Exact surviving shadows: floating overlays (layer disambiguation)
 # and two soft focus rings. Anything else fails.
 SHADOW_WHITELIST = {
     "none", "none !important",
@@ -41,7 +40,7 @@ SHADOW_WHITELIST = {
 }
 
 # Containers — the three stops, plus documented component-internal rem modules.
-WIDTH_STOPS = {"32rem", "38rem", "60rem"}  # prose 40->38rem (reading measure, Matt 2026-06-06)
+WIDTH_STOPS = {"32rem", "38rem", "60rem"}  # 38rem = prose reading measure
 WIDTH_INTERNAL_WHITELIST = {
     "22rem",  # quiz subscribe form (module inside the column)
     "28rem",  # quiz verdict (module inside the column)
@@ -49,26 +48,26 @@ WIDTH_INTERNAL_WHITELIST = {
 
 # Colors the system retired — must never reappear anywhere in the build.
 BANNED_COLOR_PATTERNS = [
-    r"#ffe6e4", r"#ffc3be",                  # the rejected pinks (pre-B+D)
+    r"#ffe6e4", r"#ffc3be",                  # the rejected pinks
     r"#268bd2",                              # Solarized blue
     r"rgba\(200,\s*50,\s*50", r"rgba\(38,\s*139,\s*210",  # alpha-made highlights
 ]
 
-# Night printing (shipped 2026-06-07): the night block must exist with the
-# locked core values; no Sass var may leak un-interpolated into a custom
-# property (Ruby Sass 3.7.4 emits `--x: $y` literally — verified by test).
+# Night printing: the night block must exist with the locked core values;
+# no Sass var may leak un-interpolated into a custom property (Ruby Sass
+# 3.7.4 emits `--x: $y` literally — verified by test).
 NIGHT_LOCKED_VALUES = ["--c-bg: #16191d", "--c-ink: #cdc9c1", "--c-link: #e67a75"]
 
-# Pages allowed to carry @font-face (D-B ruling 2026-06-05: /live/ stays as-is).
+# Pages allowed to carry @font-face (/live/ stays as-is).
 FONTFACE_EXEMPT_PAGES = {"live/index.html"}
 
 FLOOR_REM = 0.7  # hard floor — nothing under this renders as standing text
 TYPE_STOPS = {"2.5", "1.65", "1.25", "1.2", "1.1", "1", "0.9", "0.85", "0.8", "0.75",
               "0.7", ".9", ".85", ".8", ".75", ".7", "1.0625", "1.0125", "1.125"}  # incl. root clamp parts
-# em survives only where inheritance is the point (bible Ch.11 microtype grammar)
+# em survives only where inheritance is the point (microtype grammar)
 EM_GRAMMAR_SELECTORS = ("abbr", "code", "blockquote", "correction")
 # selectors allowed off-stop: instrument numerals (data displays), decorative glyphs,
-# and the two RATIFIED brand-chrome sizes (masthead title + author hero at 2rem, owner 2026-06-06)
+# and the two brand-chrome sizes (masthead title + author hero at 2rem)
 STOP_EXEMPT_SELECTORS = ("stat-value", "counter-number", "timer-display", "quiz-score-number",
                           "hr+ul li::before", "masthead-title", "author-hero__name", "carousel-card")
 
@@ -88,10 +87,8 @@ def check(site: Path):
     # the carousel export canvas is an Instagram graphic, not site chrome.
     EXPORT_SELECTOR = re.compile(r"carousel-card|carousel-progress")
 
-    # Law II scoped carve-out: the radio control wears a circle — ratified in
-    # the brand book, Law II "One exception (2026-06-09)" (/brand/, scoped to
-    # the radio indicator only; reconfirmed by Matt 2026-07-06 when this gate
-    # was taught the exception it had never been given).
+    # Scoped exception: the radio control wears a circle — scoped to the
+    # radio indicator only (see /brand/).
     RADIO_CIRCLE_SELECTOR = re.compile(r'survey-option:has\(input\[type="?radio"?\]\)')
 
     for path, css in css_texts.items():
@@ -104,7 +101,7 @@ def check(site: Path):
             for m in re.finditer(r"border-radius:\s*([^;]+)", body):
                 v = m.group(1).strip()
                 if v == "50%" and RADIO_CIRCLE_SELECTOR.search(sel):
-                    continue  # ratified radio-circle carve-out (see above)
+                    continue  # radio-circle carve-out (see above)
                 if v not in RADIUS_WHITELIST:
                     failures.append(f"{name}: {sel.strip()[:50]} border-radius '{v}' (Law II)")
             # Law V — shadows
@@ -117,8 +114,8 @@ def check(site: Path):
                 v = m.group(1)
                 if v not in {"400", "600", "700"} and not (is_export and v == "900"):
                     failures.append(f"{name}: {sel.strip()[:50]} font-weight {v} — system is 400/600/700")
-            # Type stops — every rem size sits on the role scale (P2 gate v2.1);
-            # em is sanctioned relative grammar only at enumerated selectors; % banned.
+            # Type stops — every rem size sits on the role scale; em is
+            # sanctioned relative grammar only at enumerated selectors; % banned.
             for m in re.finditer(r"font-size:\s*([^;]+)", body):
                 v = m.group(1).strip()
                 inner = re.findall(r"([\d.]+)rem", v)  # recurses into clamp()/max() args
@@ -168,19 +165,18 @@ def check(site: Path):
             continue
         try:
             if re.search(r"@font-face\s*\{", page.read_text(errors="ignore")):
-                failures.append(f"{rel}: @font-face rule in page (Law VI; only /live/ is exempt per D-B)")
+                failures.append(f"{rel}: @font-face rule in page (Law VI; only /live/ is exempt)")
         except OSError:
             pass
 
-    # Night printing gates (2026-06-07) — compiled + SOURCE scans (spec §6.7.4)
+    # Night printing gates — compiled + SOURCE scans
     repo = site.parent if (site.parent / "_sass").exists() else Path(".")
     source_files = sorted((repo / "_sass").glob("*.scss")) + sorted((repo / "public/css").glob("*.css"))
     page_style_files = [repo / p for p in ("do-something/index.md", "just-asking-questions/index.html",
                                            "pulse/enter/index.html", "pulse/thanks/index.html")]
     # Pin whitelist: values that legitimately live as literals in source (chrome + exempt surfaces).
-    # Everything below is documented in the night spec §6.3 / §4 — additions need a ruling.
     SOURCE_BANNED = {
-        r"#ddd\b": "border-light merge — #ddd retired 2026-06-07",
+        r"#ddd\b": "border-light merge — #ddd retired",
         r"#fafafa\b": "blockquote-bg merge — #fafafa retired",
         r"#dddddd\b": "border-light merge — retired",
     }
@@ -201,7 +197,7 @@ def check(site: Path):
             for m in re.finditer(r"--[a-z0-9_-]+:\s*\$[a-z0-9_-]+", text):
                 failures.append(f"{f.name}: un-interpolated Sass var in custom property (source): {m.group(0)}")
 
-    # Night printing gates (2026-06-07)
+    # Night printing gates
     main_css = css_texts.get(site / "styles.css", "")
     if '[data-theme="night"]' not in main_css:
         failures.append('styles.css: night token block missing ([data-theme="night"])')

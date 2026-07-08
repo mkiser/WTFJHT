@@ -25,6 +25,7 @@ layout:
   <itunes:author>{{ site.podcast_author }}</itunes:author>
   <itunes:explicit>{{ site.podcast_explicit }}</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <itunes:complete>Yes</itunes:complete>
   <itunes:image href="{{ site.cloudfront_url }}{{ site.podcast_album_art }}" />
   <itunes:owner>
     <itunes:name>{{ site.podcast_owner }}</itunes:name>

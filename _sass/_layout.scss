@@ -10,7 +10,7 @@
 footer {
   background-color: $bg-darker;
   // Night printing: the footer deepens to black — the chrome frame bookends the
-  // page (masthead #000 above, footer #000 below). Ratified (Matt, 2026-06-07).
+  // page (masthead #000 above, footer #000 below).
   [data-theme="night"] & {
     background-color: #000;
   }
@@ -19,7 +19,7 @@ footer {
   padding: 0;
 
   a {
-    color: #f9f9f9; // pinned — invariant chrome (was $gray-1 used as light paint)
+    color: #f9f9f9; // pinned — invariant chrome
     text-decoration: none;
 
     &:hover {
@@ -49,7 +49,7 @@ footer {
   }
 
   .ft-subscribe__desc {
-    font-size: 0.9rem; // secondary stop (P2 chrome snap)
+    font-size: 0.9rem; // secondary stop
     color: #9aa0a6; // night-meta family · 6.0:1 on #222
     margin: 0 0 1rem;
   }
@@ -104,8 +104,8 @@ footer {
   }
 
   h3.ft-title {
-    font-size: 0.75rem; // label floor (ruling 4; board fix #5)
-    font-weight: 400; // footer title on #222 — dark grounds map DOWN (irradiation) (type migration P1, ruling 6)
+    font-size: 0.75rem; // label floor
+    font-weight: 400; // footer title on #222 — dark grounds map DOWN (irradiation)
     text-transform: uppercase;
     letter-spacing: 0.08em;
     color: #9aa0a6; // night-meta family · 6.0:1 on #222
@@ -120,7 +120,7 @@ footer {
 
     li {
       margin-bottom: 0.4rem;
-      font-size: 0.9rem; // secondary stop (P2 chrome snap)
+      font-size: 0.9rem; // secondary stop
     }
   }
 
@@ -168,7 +168,7 @@ footer {
       justify-content: center;
       width: 44px;
       height: 44px;
-      border-radius: 21%; // the tile — the system's only rounding (Law II)
+      border-radius: 21%; // the tile — the system's only rounding
       background: $bg-dark;
       color: #aab0b6; // 5.0:1 on #333
       font-size: 1rem;
@@ -188,7 +188,7 @@ footer {
       height: auto;
       min-height: 44px;
       padding: 0.35rem 0.75rem;
-      border-radius: 0; // text chips are square — pills retired
+      border-radius: 0; // text chips are square
       font-size: 0.75rem;
       background: $bg-dark;
     }
@@ -196,7 +196,7 @@ footer {
 
   // Legal section
   .ft-legal {
-    background-color: #1a1a1a; // pinned — invariant chrome (was $body-color as dark paint)
+    background-color: #1a1a1a; // pinned — invariant chrome
     padding: 1rem;
     text-align: center;
     font-size: 0.75rem;
@@ -331,7 +331,6 @@ footer {
   }
 
 }
-// .fa-css deleted (P2 — Font Awesome remnant, zero usage)
 
 .outer-wrapper {
   position: relative;
@@ -357,17 +356,17 @@ footer {
   }
 
   .algolia__result a {
-    font-size: 0.9rem; // secondary stop (P2 em retirement)
+    font-size: 0.9rem; // secondary stop
   }
 
   .algolia__result-text {
-    font-size: 0.9rem; // secondary stop (P2 em retirement)
+    font-size: 0.9rem; // secondary stop
   }
 
   .algolia__result-date {
     text-transform: uppercase;
     color: $gray-3;
-    font-size: 0.8rem; // meta stop (P2 em retirement)
+    font-size: 0.8rem; // meta stop
     margin-bottom: .6em;
   }
 }
@@ -385,7 +384,6 @@ footer {
   }
 }
 
-// .wtf-plans__grid deleted (P2 — zero template usage)
 
 
 
@@ -429,8 +427,7 @@ body.has-pledge-banner {
 }
 
 // Banner CTA — dark ground, so the ink square inverts at rest (white button,
-// ink text, dimming hover) per the button chapter. Replaced legacy bootstrap
-// .btn/.btn-info/.btn-outline (board fix #4, 2026-06-05).
+// ink text, dimming hover).
 .pledge-banner__btn {
   display: inline-block;
   margin-top: 10px;
@@ -469,7 +466,7 @@ body.has-pledge-banner {
   min-width: 44px;
   min-height: 44px;
   line-height: 44px;
-  // now a real <button> (page-walk M10) — strip UA chrome
+  // now a real <button> — strip UA chrome
   background: none;
   border: none;
   padding: 0;
@@ -506,57 +503,6 @@ body.has-pledge-banner {
 }
 
 
-.audiojs {
-    display: table;
-    width: 100%;
-    height: 34px;
-
-    .play-pause, .scrubber, .time {
-        display: table-cell;
-        float: none;
-        height: auto;
-        vertical-align: middle;
-    }
-
-    .play-pause {
-        padding: 0 6px;
-
-        > p {
-            margin: 0;
-            padding: 0;
-            height: 26px;
-        }
-    }
-
-    .scrubber {
-        width: 99%;
-        margin: 0;
-        padding: 0;
-
-        > div {
-            position: relative;
-            margin: 0;
-
-            &.progress {
-                z-index: 2;
-            }
-
-            &.loaded {
-                margin-top: -14px;
-                z-index: 1;
-            }
-        }
-    }
-
-    .time {
-        line-height: normal;
-        margin: 0;
-        padding: 0 12px;
-        width: auto;
-    }
-}
-
-
 
 
 div.flex-item ul.package {
@@ -579,8 +525,8 @@ div.flex-item ul.package {
 }
 
 
-// Membership packages — flat ink cards (Law V), whole card is the link
-// NOTE: 2x2 grid chosen for the four packages (plan CSS assumed three) — flagged for Matt
+// Membership packages — flat ink cards, whole card is the link
+// 2x2 grid for the four packages
 .pkgs {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -594,18 +540,18 @@ div.flex-item ul.package {
   }
 }
 
-// Action cards (ruled 2026-06-06): the whole card is a link to checkout — an
-// action object, so it takes button SURFACE language (ink fill, square,
-// fill-lighten hover) holding data-display CONTENT (serif price, caps label).
+// Action cards: the whole card is a link to checkout — an action object, so it
+// takes button SURFACE language (ink fill, square, fill-lighten hover) holding
+// data-display CONTENT (serif price, caps label).
 .pkg {
   border: 2px solid transparent; // reserves the featured border's box
-  padding: 0; // padding lives on the link so the WHOLE card is clickable (board fix #2)
+  padding: 0; // padding lives on the link so the WHOLE card is clickable
   background: $bg-dark; // ink fill — action object, not content surface
   text-align: center;
   transition: background-color 0.15s ease;
 
   &:hover {
-    background: #3a3a3a; // action-card hover: lighten, never invert (D1, ratified)
+    background: #3a3a3a; // action-card hover: lighten, never invert
   }
 }
 
@@ -614,17 +560,17 @@ div.flex-item ul.package {
 }
 
 .pkg__label {
-  font-size: .75rem; // label floor (ruling 4)
+  font-size: .75rem; // label floor
   text-transform: uppercase;
   letter-spacing: .06em; // label role tracking
-  font-weight: 600; // label role weight (board fix #3)
+  font-weight: 600; // label role weight
   color: rgba(255, 255, 255, 0.75); // ~7.5:1 on #333
 }
 
 .pkg__price {
   font-family: $serif-font-family;
   font-weight: 700;
-  font-size: 1.65rem; // title stop (P2)
+  font-size: 1.65rem; // title stop
   color: #fff;
   margin: .3rem 0 .35rem;
 }
@@ -641,7 +587,7 @@ div.flex-item ul.package {
   }
 
   &:focus-visible {
-    outline: 2px solid #fff; // white focus on dark ground (crimson was 2.65:1 on #333)
+    outline: 2px solid #fff; // white focus on dark ground (crimson only 2.65:1 on #333)
     outline-offset: 2px;
   }
 }
@@ -651,7 +597,7 @@ div.flex-item ul.package {
 .membership-faq {
   margin-top: 1.5rem;
   border: 1px solid $border-light;
-  border-radius: 0; // square (Law II; page-walk M3)
+  border-radius: 0; // square
 
   .faq-header {
     font-size: 0.9rem;
@@ -678,7 +624,7 @@ div.flex-item ul.package {
   border-radius: 0;
 
   &__title {
-    font-size: 1.65rem; // title stop (P2)
+    font-size: 1.65rem; // title stop
     margin: 0 0 0.75rem;
   }
 
@@ -719,7 +665,7 @@ div.flex-item ul.package {
     font-size: 1rem;
     font-weight: 600;
     color: #fff;
-    background-color: #111; // ink square (ruling: CTA wears ink, not alarm red)
+    background-color: #111; // ink square — CTA wears ink, not alarm red
     border: 1px solid #111;
     border-radius: 0;
     min-height: 46px;
@@ -776,7 +722,7 @@ div.flex-item ul.package {
 
     em {
       font-style: italic;
-      font-size: 1rem; // body stop (P2)
+      font-size: 1rem; // body stop
       color: $gray-5;
       line-height: 1.7;
 
@@ -868,8 +814,8 @@ div.flex-item ul.package {
   gap: 0.35rem;
   min-height: 44px;
   padding: 0 0.875rem;
-  font-size: 0.8rem; // meta stop (P2)
-  font-weight: 600; // post chrome trigger, light ground (type migration P1, ruling 6)
+  font-size: 0.8rem; // meta stop
+  font-weight: 600; // post chrome trigger, light ground
   color: $gray-5;
   background: $body-bg;
   border: 1px solid $border-light;
@@ -949,12 +895,12 @@ div.flex-item ul.package {
     gap: 0.625rem;
     padding: 0.5rem 0.625rem;
     margin: 0;
-    font-size: 0.9rem; // secondary stop (P2 chrome snap)
+    font-size: 0.9rem; // secondary stop
     line-height: 1.2;
     color: $gray-5 !important;
     background: none;
     border: none;
-    border-radius: 0; // square (Law II; page-walk M3)
+    border-radius: 0; // square
     cursor: pointer;
     text-decoration: none !important;
     white-space: nowrap;
@@ -1050,12 +996,12 @@ div.flex-item ul.package {
     gap: 0.625rem;
     padding: 0.5rem 0.625rem;
     margin: 0;
-    font-size: 0.9rem; // secondary stop (P2 chrome snap)
+    font-size: 0.9rem; // secondary stop
     line-height: 1.2;
     color: $gray-5 !important;
     background: none;
     border: none;
-    border-radius: 0; // square (Law II; page-walk M3)
+    border-radius: 0; // square
     cursor: pointer;
     text-decoration: none !important;
     white-space: nowrap;
@@ -1096,8 +1042,8 @@ div.flex-item ul.package {
   gap: 0.35rem;
   min-height: 44px;
   padding: 0 0.875rem;
-  font-size: 0.8rem; // meta stop (P2)
-  font-weight: 600; // post chrome trigger, light ground (type migration P1, ruling 6)
+  font-size: 0.8rem; // meta stop
+  font-weight: 600; // post chrome trigger, light ground
   color: $gray-5;
   background: $body-bg;
   border: 1px solid $border-light;
@@ -1206,7 +1152,7 @@ div.flex-item ul.package {
     width: 12px;
     height: 12px;
     margin-top: -5px; // centers the 12px thumb on the 2px track
-    background: var(--c-ink); // was #111 (+9, ink merge)
+    background: var(--c-ink);
     border: 0;
     border-radius: 0;
     cursor: pointer;
@@ -1220,14 +1166,14 @@ div.flex-item ul.package {
   &::-moz-range-thumb {
     width: 12px;
     height: 12px;
-    background: var(--c-ink); // was #111 (+9, ink merge)
+    background: var(--c-ink);
     border: 0;
     border-radius: 0;
     cursor: pointer;
   }
 }
 
-// Focus — post chrome controls (real selectors; spec's __option/__item do not exist)
+// Focus — post chrome controls (real selectors)
 .share-widget__trigger:focus-visible,
 .share-widget__card a:focus-visible,
 .share-widget__card button:focus-visible,
@@ -1262,15 +1208,15 @@ div.flex-item ul.package {
   border-top: 1px solid $border-lighter;
 
   // Row links (date + headline). Class selectors — these links are INTERNAL,
-  // so the extlinks filter leaves their classes intact (verified in built DOM;
-  // the old "extlinks overwrites classes" comment only applies to external links).
+  // so the extlinks filter leaves their classes intact (extlinks only rewrites
+  // external links).
   > a.historical-posts__item {
     display: grid !important;
     grid-template-columns: 5.5rem 1fr;
     gap: 0.75rem;
     padding: 0.625rem 0;
     text-decoration: none !important;
-    border-bottom: 1px solid $border-lighter; // one hairline token (was #f5f5f5)
+    border-bottom: 1px solid $border-lighter; // one hairline token
 
     &:first-of-type {
       padding-top: 0;
@@ -1290,7 +1236,7 @@ div.flex-item ul.package {
   }
 
   // The tense break: a slightly larger gap where "years ago" flips to
-  // "years later" (page-walk NICE pile — the mid-list flip was disorienting)
+  // "years later".
   > a.historical-posts__item--first-later {
     margin-top: 0.6rem;
   }
@@ -1329,7 +1275,7 @@ div.flex-item ul.package {
 .historical-posts__headline {
   font-size: 0.9rem;
   line-height: 1.5; // secondary role
-  color: $gray-5; // text-ink token (was $bg-dark — a background token as text)
+  color: $gray-5; // text-ink token
   transition: color 0.15s;
 }
 
@@ -1376,7 +1322,7 @@ div.flex-item ul.package {
 }
 
 .author-section__title {
-  font-size: 1.2rem; // heading stop (P2)
+  font-size: 1.2rem; // heading stop
   font-weight: 600;
   margin: 0 0 1.5rem;
   padding-bottom: 0.5rem;
@@ -1403,7 +1349,7 @@ div.flex-item ul.package {
 .author-hero__image {
   width: 150px;
   height: 150px;
-  border-radius: 0; // square — the 21% tile is 44px icon chrome only (page-walk M4)
+  border-radius: 0; // square — the 21% tile is 44px icon chrome only
   overflow: hidden;
   flex-shrink: 0;
   margin-bottom: 1.5rem;
@@ -1429,7 +1375,7 @@ div.flex-item ul.package {
   font-size: 2rem;
   font-weight: 700;
   margin: 0 0 0.25rem;
-  color: var(--c-ink); // was #111 (+9 near-black, night spec exemption)
+  color: var(--c-ink);
 
   @media (min-width: 600px) {
     font-size: 2.5rem;
@@ -1440,7 +1386,7 @@ div.flex-item ul.package {
   font-size: 1rem;
   color: $gray-3;
   margin: 0 0 1rem;
-  font-weight: 700; // page heading — heading roles carry 700 (ruling 2) (type migration P1, ruling 6)
+  font-weight: 700; // page heading — heading roles carry 700
 }
 
 .author-hero__tagline {
@@ -1469,7 +1415,7 @@ div.flex-item ul.package {
 
 .author-hero__social {
   display: flex;
-  flex-wrap: wrap; // 8 icons must wrap on narrow phones (mobile audit, 2026-06-06)
+  flex-wrap: wrap; // 8 icons must wrap on narrow phones
   gap: 0.75rem;
   justify-content: center;
 
@@ -1483,7 +1429,7 @@ div.flex-item ul.package {
     justify-content: center;
     width: 44px;
     height: 44px;
-    border-radius: 21%; // tile (Law II) + 44px touch target
+    border-radius: 21%; // tile + 44px touch target
     background: $gray-1;
     color: $gray-5;
     transition: background 0.2s, color 0.2s;
@@ -1507,7 +1453,7 @@ div.flex-item ul.package {
 }
 
 .author-bio__content {
-  font-size: 1rem; // body stop (P2)
+  font-size: 1rem; // body stop
   line-height: 1.7;
   color: $gray-5;
 
@@ -1529,7 +1475,7 @@ div.flex-item ul.package {
 
 .author-bio__link {
   font-size: 0.9rem;
-  font-weight: 600; // author link chip, light ground (type migration P1, ruling 6)
+  font-weight: 600; // author link chip, light ground
   color: $link-color;
 
   &:hover {
@@ -1559,7 +1505,7 @@ div.flex-item ul.package {
   background: $gray-1;
   border-radius: 0;
   font-size: 0.85rem;
-  font-weight: 600; // author outlet chip, light ground (type migration P1, ruling 6)
+  font-weight: 600; // author outlet chip, light ground
   color: $gray-4;
 }
 
@@ -1631,7 +1577,7 @@ div.flex-item ul.package {
 .btn {
   display: inline-block;
   padding: 0.75rem 1.5rem;
-  background: #111; // ink square — the one button spec (board fix #4)
+  background: #111; // ink square — the one button spec
   color: #fff;
   font-size: 1rem;
   font-weight: 600;
@@ -1772,11 +1718,11 @@ div.flex-item ul.package {
 }
 
 .algolia__result-link {
-  font-size: 1.2rem; // heading stop (P2)
+  font-size: 1.2rem; // heading stop
   font-weight: bold;
 
   .algolia__result-highlight {
-    background-color: var(--c-red-wash); // engineered opaque (was alpha blue; Law I)
+    background-color: var(--c-red-wash); // engineered opaque
   }
 }
 
@@ -1788,7 +1734,7 @@ div.flex-item ul.package {
   font-weight: bold;
   background-color: var(--c-red-wash); // engineered opaque, never alpha-made
   padding: 0.1em 0.2em;
-  border-radius: 0; // square (Law II)
+  border-radius: 0; // square
 }
 
 .search-loading,
@@ -1804,7 +1750,7 @@ div.flex-item ul.package {
   padding: 0.75rem 1.5rem;
   margin: 1.5rem 0;
   font-family: inherit;
-  font-size: 1rem; // one button spec (board fix #4)
+  font-size: 1rem; // one button spec
   font-weight: 600;
   min-height: 46px;
   color: #fff;
@@ -1825,7 +1771,5 @@ div.flex-item ul.package {
   }
 }
 
-// Mailchimp embed form: DELETED 2026-06-05 (board fix #4) — dead code, no
-// template references #mc_embed_signup; the live form is _includes/email.html.
 
 

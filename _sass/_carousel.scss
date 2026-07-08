@@ -15,14 +15,14 @@ body.carousel-open {
 // --------------------------------------------------------------------------
 // Design tokens (matching prototype)
 // --------------------------------------------------------------------------
-$carousel-white:  #fff;     // pinned literal — exempt surface (was $body-bg; would theme-flip once globals alias tokens)
+$carousel-white:  #fff;     // pinned literal — exempt surface (a token here would theme-flip once globals alias tokens)
 $carousel-cream:  #faf9f7;
-$carousel-text:   #303030;  // pinned literal — was $text-strong
-$carousel-text2:  #515151;  // pinned literal — was $gray-4
+$carousel-text:   #303030;  // pinned literal
+$carousel-text2:  #515151;  // pinned literal
 $carousel-dim:    #888888;
-$carousel-red:    #b50f22;  // pinned literal — was $red-dark
+$carousel-red:    #b50f22;  // pinned literal
 $carousel-rule:   #e0ddd8;
-$carousel-ruled:  #ccc;     // pinned literal — was $gray-2
+$carousel-ruled:  #ccc;     // pinned literal
 $carousel-serif:  Georgia, 'Times New Roman', Times, serif;
 $carousel-sans:   -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
@@ -104,10 +104,10 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   padding: 0.2rem 0.3rem;
   cursor: pointer;
   color: rgba(255,255,255,0.3);
-  border-radius: 0; // square (Law II)
+  border-radius: 0; // square
   transition: color 0.15s ease;
   flex-shrink: 0;
-  font-size: 0.7rem; // data floor (D2; board fix #6)
+  font-size: 0.7rem; // data floor
   font-weight: 600;
   letter-spacing: 0.04em;
   font-family: $carousel-sans;
@@ -121,7 +121,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
 // Counter
 // --------------------------------------------------------------------------
 .carousel-counter {
-  font-size: 0.7rem; // data floor (D2; board fix #6)
+  font-size: 0.7rem; // data floor
   color: rgba(255,255,255,0.35);
   text-align: center;
   padding: 0.35rem 0 0.1rem;
@@ -298,7 +298,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   .carousel-card__sn {
     font-family: $carousel-mono;
     font-size: calc(32 * var(--s) * 1px);
-    font-weight: 600; // share-card furniture, light ground (type migration P1, ruling 6)
+    font-weight: 600; // share-card furniture, light ground
     color: $carousel-red;
     margin-bottom: calc(20 * var(--s) * 1px);
     flex-shrink: 0;
@@ -307,7 +307,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   .carousel-card__cl {
     font-family: $carousel-mono;
     font-size: calc(28 * var(--s) * 1px);
-    font-weight: 600; // share-card furniture, light ground (type migration P1, ruling 6)
+    font-weight: 600; // share-card furniture, light ground
     color: $carousel-dim;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -638,7 +638,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
 
   .carousel-card__tios-sc {
     color: $carousel-red;
-    font-weight: 600; // share-card label, light ground (type migration P1, ruling 6)
+    font-weight: 600; // share-card label, light ground
   }
 
   .carousel-card__tios-s-footer {
@@ -684,11 +684,11 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   height: 28px;
   padding: 0 0.75rem;
   font-size: 0.75rem;
-  font-weight: 600; // Share/Save pills are buttons (type migration P1, ruling 6)
+  font-weight: 600; // Share/Save pills are buttons
   color: rgba(255,255,255,0.5);
   background: transparent;
   border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 0; // square chrome — pills retired (Law II)
+  border-radius: 0; // square chrome
   cursor: pointer;
   transition: color 0.15s, border-color 0.15s;
   font-family: $carousel-sans;
@@ -733,7 +733,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   gap: 0.5rem;
   padding: 0.45rem 0.6rem;
   margin: 0;
-  font-size: 0.8rem; // meta stop (P2)
+  font-size: 0.8rem; // meta stop
   line-height: 1.2;
   color: rgba(255,255,255,0.7) !important;
   background: none;
@@ -785,7 +785,7 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   color: rgba(255,255,255,0.5);
   width: 44px;
   height: 44px;
-  border-radius: 21%; // tile (Law II)
+  border-radius: 21%; // tile
   display: none;
   align-items: center;
   justify-content: center;
@@ -979,11 +979,11 @@ $carousel-mono:   'SF Mono', 'Menlo', 'Consolas', 'Liberation Mono', monospace;
   transform: translateX(-50%) translateY(20px);
   z-index: 100002;
   // Floats over the dark share overlay, so the ink square inverts at rest:
-  // white button, ink text (board fix #18 — was a red pill with a drop shadow)
+  // white button, ink text.
   background: #fff;
   color: #111;
   border: none;
-  border-radius: 0; // square (Law II)
+  border-radius: 0; // square
   padding: 0.75rem 1.5rem;
   min-height: 46px;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;

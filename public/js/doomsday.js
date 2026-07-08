@@ -40,7 +40,7 @@
             } else if (elements.container.dataset.shutdownActive === "true") {
                 // Counting UP into a shutdown requires explicit opt-in
                 // (data-shutdown-active="true") — a stale config date must
-                // never broadcast a false running shutdown (page-walk M14).
+                // never broadcast a false running shutdown.
                 this.updateShutdownMode(elements, timeUnits);
             } else {
                 elements.container.style.display = "none";

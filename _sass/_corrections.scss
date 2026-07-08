@@ -1,24 +1,13 @@
 // Corrections log (/corrections/, /corrections/<year>/)
 //
-// Reads as a LOG, not editorial prose (owner direction, 2026-06-05):
-//  - month dividers = label role on a hairline (quiet ledger rules)
-//  - each row = mono date stamp (data role) + post link + gap, then the diff
-//    as quoted matter — the blockquote grammar (0.95em of prose, muted ink,
-//    a sanctioned em per Ch. 11)
-//  - <s> rides browser defaults (Ch. 9); <mark> styling is GLOBAL (_base.scss
-//    carries the wash + inset-underscore non-color cue) — no override here
-//  - stacked blocks = callout tiers: before marked (ink rule), after alarm
-//    (surface + 3px crimson, the alarm sanctioned for corrections, Ch. 18)
-//  - year index = typographic list, mono counts (Ch. 23); no pills (Ch. 18)
-// Board-review fixes 2026-06-05: hairlines use --c-line (Ch. 4), labels wear
-// --c-meta on white (Ch. 4), alarm rule is --c-link crimson not accent (Ch. 4),
-// links underline + focus ring (Ch. 15), inline counts obey the em law (Ch. 11).
+// Reads as a log, not editorial prose. <mark> styling is GLOBAL — _base.scss
+// carries the wash + inset-underscore non-color cue, so there is no override here.
 
 .correction {
   // prose anchor: the em-based quoted matter below sizes against this
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.1rem;
-  line-height: $line-height-prose; // tracks prose (1.62) — was hardcoded 1.58 (board catch 2026-06-06)
+  line-height: $line-height-prose; // tracks prose (1.62)
   padding: 0.85rem 0;
   border-bottom: 1px solid var(--c-line);
 
@@ -50,9 +39,8 @@
 
 }
 
-// links speak link (Ch. 15): underlined muted ink, crimson hover, focus ring.
 // Size + color set explicitly — global content-link rules otherwise win
-// specificity and render the day link big and crimson (board follow-up).
+// specificity and render the day link big and crimson.
 a.correction__post {
   font-size: 0.85rem;
   color: var(--c-ink-medium);
@@ -73,7 +61,7 @@ a.correction__post {
 
 .correction {
 
-  // quoted matter — blockquote grammar: 0.95em of prose, muted ink (Ch. 9/11)
+  // quoted matter — blockquote grammar: 0.95em of prose, muted ink
   &__change {
     font-size: 0.95em;
     line-height: 1.5;
@@ -81,14 +69,13 @@ a.correction__post {
     margin: 0.4rem 0 0;
     // diffs can quote raw post HTML — long no-space tokens (the pulse href,
     // the bare domain) otherwise set a min-content width that stretches the
-    // column past the mobile viewport (overflow fix 2026-06-10)
+    // column past the mobile viewport
     overflow-wrap: anywhere;
 
-    // ── Diff coloring — GitHub mental model, instrument palette (Ch. 19) ──
+    // ── Diff coloring — GitHub mental model, instrument palette ──
     // The diff is a mechanical git readout, not editorial prose, so it carries
-    // INSTRUMENT colors (ratified Ch. 19), not the editorial one-alarm rule:
-    // machinery green = added, crimson = removed. Color never carries meaning
-    // alone (Law IV) — inline edits use two distinct SHAPES that survive
+    // instrument colors: machinery green = added, crimson = removed. Color never
+    // carries meaning alone — inline edits use two distinct SHAPES that survive
     // grayscale (additions underline, removals strikethrough); the +/− glyph
     // lives on the Before/After labels only (kept off inline runs to stop dense
     // edits reading busy). AT users still get the sr-only "now:"/"removed:" labels.
@@ -124,9 +111,9 @@ a.correction__post {
     color: var(--c-meta);
     margin: 0.5rem 0 0.2rem;
 
-    // the +/− direction glyph (Ch. 19) — block mode only; mono per the
-    // instrument convention. The "BEFORE"/"AFTER" word + rail color carry the
-    // meaning, so the glyph just reinforces the GitHub read.
+    // the +/− direction glyph — block mode only; mono per the instrument
+    // convention. The "BEFORE"/"AFTER" word + rail color carry the meaning,
+    // so the glyph just reinforces the GitHub read.
     &--before::before,
     &--after::before {
       font-family: Menlo, Monaco, "Courier New", monospace;
@@ -147,22 +134,22 @@ a.correction__post {
     overflow-wrap: anywhere;                    // see &__change — break long quoted-HTML tokens
 
     &--before {
-      border-left-color: var(--c-danger);      // old / removed version — crimson (Ch. 19)
+      border-left-color: var(--c-danger);      // old / removed version — crimson
     }
 
     &--after {
-      border-left-color: var(--c-success);     // new / corrected version — machinery green (Ch. 19)
+      border-left-color: var(--c-success);     // new / corrected version — machinery green
     }
   }
 }
 
 .corrections {
   &__intro {
-    color: var(--c-ink-medium); // blockquote-muted ink (Ch. 9)
+    color: var(--c-ink-medium); // blockquote-muted ink
   }
 
   // month divider — label role on a hairline; deliberately quieter than the
-  // h2->title mapping (Ch. 9): owner direction is a log, not competing heads
+  // h2->title mapping: reads as a log, not competing heads
   &__month {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
     font-size: 0.75rem;
@@ -192,7 +179,7 @@ a.correction__post {
 
     a {
       // the year token — matches the archive's year grammar (ink-strong 600,
-      // underline arrives on hover); page-walk NICE pile unification
+      // underline arrives on hover)
       color: var(--c-ink-strong);
       font-weight: 600;
       text-decoration: none;
@@ -212,7 +199,7 @@ a.correction__post {
 
   &__count {
     font-family: Menlo, Monaco, "Courier New", monospace;
-    font-size: max(0.85em, 0.8rem);             // inline data role — the em law (Ch. 11)
+    font-size: max(0.85em, 0.8rem);             // inline data role
     font-variant-numeric: tabular-nums;
     color: var(--c-meta);
     margin-left: 0.35rem;

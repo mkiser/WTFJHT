@@ -32,6 +32,9 @@ jobs:
           commit_message: "Auto-update corrections data"
           file_pattern: '_data/corrections.json'
           branch: master
+          commit_user_name: Matt
+          commit_user_email: matt@whatthefuckjusthappenedtoday.com
+          commit_author: Matt <matt@whatthefuckjusthappenedtoday.com>
 
       # The commit above is pushed with GITHUB_TOKEN, which GitHub deliberately
       # prevents from triggering further workflow runs (recursion guard). So the

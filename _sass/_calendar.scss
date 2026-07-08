@@ -21,7 +21,7 @@
 .legend-box {
   width: 12px;
   height: 12px;
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
 
   &.legend-filled {
     background-color: $red;
@@ -35,7 +35,7 @@
 
 .calendar-wrapper > .calendar-container {
   border: 1px solid $gray-2;
-  border-radius: 0; // square (Law II; page-walk M3 sweep)
+  border-radius: 0; // square
   background: $body-bg;
   padding: 1rem;
 }
@@ -49,7 +49,7 @@
   font-size: 0.7rem;
   color: $gray-3;
   text-align: center;
-  font-weight: 600; // chart day labels, light ground (type migration P1, ruling 6)
+  font-weight: 600; // chart day labels, light ground
 
   .calendar-month-col {
     text-align: left;
@@ -83,7 +83,7 @@
 // Individual day cells
 .calendar-day {
   aspect-ratio: 1;
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
   background-color: #eceef0;
   border: 1px solid rgba(0, 0, 0, 0.04);
 
@@ -112,7 +112,7 @@
   background: $gray-5;
   color: #fff;
   padding: 0.5rem 0.75rem;
-  border-radius: 0; // square (Law II; page-walk M3 sweep)
+  border-radius: 0; // square
   font-size: 0.75rem;
   line-height: 1.4;
   max-width: 320px;
@@ -225,7 +225,7 @@
 }
 
 #minimap-canvas {
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
   background: $body-bg;
   border: 1px solid $gray-2;
   cursor: pointer;
@@ -239,9 +239,9 @@
   position: absolute;
   left: 0;
   right: 0;
-  background: rgba(235, 204, 201, 0.6); // blush tint as functional overlay (content reads through — the one sanctioned alpha)
+  background: rgba(235, 204, 201, 0.6); // blush tint as functional overlay (content reads through)
   border: 2px solid var(--c-link);             // solid grip — the draggable viewport must be findable
-  border-radius: 0; // square (Law II — carve-out retired 2026-06-06)
+  border-radius: 0; // square
   pointer-events: none;
 }
 

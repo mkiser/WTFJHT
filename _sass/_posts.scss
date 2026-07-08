@@ -10,7 +10,7 @@ article.post div.post-content > p:not(.tios) {
   font-weight: 400;
   font-style: normal;
   font-size: $font-size-xl;
-  text-wrap: pretty; // no orphans/widows in the daily-edition prose (2026-06-06)
+  text-wrap: pretty; // no orphans/widows in the daily-edition prose
 
   strong {
     color: $text-strong;
@@ -69,10 +69,10 @@ article.post div.post-content > p:not(.tios) {
 
   .tios__pilcrow {
     color: $red-dark;
-    font-weight: 600; // pilcrow furniture, light ground (type migration P1, ruling 6)
+    font-weight: 600; // pilcrow furniture, light ground
   }
 
-  // Night printing: accent is borders & fills only — never text (night sheet law).
+  // Night printing: accent is borders & fills only — never text.
   // As text glyphs the pilcrow/dot step to danger (#e67a75, 6.2:1); day accent
   // passes as text (6.0:1 on white) so day keeps $red-dark.
   [data-theme="night"] & {
@@ -132,7 +132,7 @@ article.post div.post-content > p:not(.tios) {
 
   p {
     font-size: 1em;
-    text-wrap: pretty; // widow/orphan control on page + post body (2026-06-06)
+    text-wrap: pretty; // widow/orphan control on page + post body
 
     a {
       color: $link-color;
@@ -143,7 +143,7 @@ article.post div.post-content > p:not(.tios) {
     padding: 1em;
     margin: 0 0 2em 0em;
     background-color: $away-mode-bg;
-    font-size: 0.8rem; // meta stop (P2 em retirement)
+    font-size: 0.8rem; // meta stop
     color: $gray-3;
   }
   ul {
@@ -166,8 +166,8 @@ article.post div.post-content > p:not(.tios) {
   }
   ol li {
     list-style: inherit; // real ordered lists — inherits from the ol, so
-                         // type="a"/"i" actually works (board fix #17:
-                         // a hard `decimal` here silently overrode the attribute)
+                         // type="a"/"i" actually works (a hard `decimal` here
+                         // would silently override the attribute)
   }
   
   li {
@@ -231,7 +231,7 @@ article.post div.post-content > p:not(.tios) {
      a {
         color: $meta-color;
         text-decoration: none;
-        font-size: 0.75rem; // label stop (P2 — was .65em, sub-floor in page context)
+        font-size: 0.75rem; // label stop
       }
     }
 
@@ -248,7 +248,7 @@ article.post div.post-content > p:not(.tios) {
         margin: 0 0 10px 0;
       }
       p {
-        font-size: 0.8rem; // meta stop (P2 em retirement)
+        font-size: 0.8rem; // meta stop
         color: $gray-3;
         margin-top: 0;
         margin-bottom: 4px;
@@ -257,7 +257,7 @@ article.post div.post-content > p:not(.tios) {
   }
 
   blockquote {
-    font-size: 0.95em; // SANCTIONED relative grammar — blockquotes ride their prose context (book Ch.11)
+    font-size: 0.95em; // relative grammar — blockquotes ride their prose context
     color: $gray-4;
     padding: $blockquote-padding;
     margin: 0 0 1em 1rem;
@@ -329,14 +329,14 @@ article.post div.post-content > p:not(.tios) {
 .post-date {
   display: block;
   color: $meta-color;
-  font-size: 0.8rem; // meta stop (P2 em retirement)
+  font-size: 0.8rem; // meta stop
   margin: 0 0 2em 0;
 }
 
 div.topic-date {
   display: block;
   color: $meta-color;
-  font-size: 0.8rem; // meta stop (P2 em retirement)
+  font-size: 0.8rem; // meta stop
   margin: 1em 0 .25em 0;
 }
 
@@ -344,15 +344,13 @@ div.topic-date {
 .byline {
   display: block;
   color: $meta-color;
-  font-size: 0.8rem; // meta stop (P2 em retirement)
+  font-size: 0.8rem; // meta stop
   margin: 0;
 }
 
 // Related posts
-// .related deleted (P2 — zero template usage)
 
 
-// .related-posts (the dead Solarized hover went with it) deleted (P2 — zero template usage)
 
 
 /* responsive videos */
@@ -385,7 +383,7 @@ div.topic-date {
   gap: 0.25rem;
   padding: 0.4rem 0.5rem;
   background: $bg-darker;
-  border-radius: 0; // square (Law II; page-walk M3)
+  border-radius: 0; // square
   box-shadow: $shadow-tooltip;
   animation: tooltipIn 0.15s ease;
 
@@ -410,7 +408,7 @@ div.topic-date {
     color: $text-inverse;
     font-size: $font-size-sm;
     cursor: pointer;
-    border-radius: 0; // square (Law II; page-walk M3)
+    border-radius: 0; // square
     transition: background $transition-fast;
 
     &:hover {
@@ -444,8 +442,8 @@ div.topic-date {
   padding: 0.75em 1.5em;
   background: $bg-dark;
   color: $text-inverse;
-  font-size: 0.9rem; // secondary stop (P2 em retirement)
-  border-radius: 0; // square (Law II; page-walk M3)
+  font-size: 0.9rem; // secondary stop
+  border-radius: 0; // square
   z-index: $z-overlay;
   animation: toastIn 0.3s ease;
 
@@ -480,7 +478,7 @@ div.topic-date {
 // Historical posts
 .historical-posts div {
     margin-bottom: 10px;
-    font-size: 0.8rem; // meta stop (P2 em retirement)
+    font-size: 0.8rem; // meta stop
 }
 
 .historical-posts strong {
@@ -510,7 +508,7 @@ div.topic-date {
 .historical-posts .historical-posts__see-all {
   display: block;
   margin-top: 0.75em;
-  font-size: 0.8rem; // meta stop (P2 em retirement)
+  font-size: 0.8rem; // meta stop
   color: $meta-color;
   background: none;
   border: none;
@@ -634,7 +632,7 @@ div.topic-date {
 
   &__count {
     font-family: $code-font-family;
-    font-size: unquote("max(.85em, .8rem)"); // data-inline pattern (board fix #19)
+    font-size: unquote("max(.85em, .8rem)"); // data-inline pattern
     color: var(--c-meta-surface);
   }
 }
@@ -659,7 +657,7 @@ div.topic-date {
   &__count {
     color: $gray-3;
     font-family: $code-font-family; // data role — counts wear mono everywhere
-    font-size: 0.85rem;             // (page-walk NICE pile unification)
+    font-size: 0.85rem;
     font-variant-numeric: tabular-nums;
     margin-bottom: 2rem;
   }
@@ -692,7 +690,7 @@ div.topic-date {
 
   &__title {
     display: block;
-    font-weight: 600; // index item title, light ground (type migration P1, ruling 6)
+    font-weight: 600; // index item title, light ground
     margin-bottom: 0.25rem;
   }
 
@@ -743,7 +741,7 @@ div.topic-date {
   &__count {
     color: $gray-3;
     font-family: $code-font-family; // data role — counts wear mono everywhere
-    font-size: 0.85rem;             // (page-walk NICE pile unification)
+    font-size: 0.85rem;
     font-variant-numeric: tabular-nums;
     margin-bottom: 2rem;
   }
@@ -776,7 +774,7 @@ div.topic-date {
 
   &__title {
     display: block;
-    font-weight: 600; // index item title, light ground (type migration P1, ruling 6)
+    font-weight: 600; // index item title, light ground
     margin-bottom: 0.25rem;
   }
 
@@ -881,7 +879,7 @@ div.topic-date {
 
   &__tag-count {
     font-family: $code-font-family;
-    font-size: unquote("max(.85em, .8rem)"); // data-inline pattern (board fix #19)
+    font-size: unquote("max(.85em, .8rem)"); // data-inline pattern
     color: var(--c-meta-surface);
   }
 
@@ -1020,8 +1018,7 @@ div.topic-date {
     margin: 0;
   }
 
-  // Typographic, not pills — the master /archive/ "By Topic" grammar
-  // (page-walk fix M1: same data rendered two ways; pills retired per Law II)
+  // Typographic, not pills — matches the master /archive/ "By Topic" grammar.
   &__tag {
     margin: 0;
 
@@ -1048,14 +1045,13 @@ div.topic-date {
 }
 
 
-// reading spec: measure floor >=42 chars at 375px
+// measure floor >=42 chars at 375px
 @media (max-width: 425px) {
   .post, .page { padding-left: 0.75rem; padding-right: 0.75rem; }
 }
 
 // AnchorJS glyph is FURNITURE: never inherits bold/italic context, never
-// wears link red. !important mirrors the original site rules, which used it
-// to beat contextual `p a` colors.
+// wears link red. !important is needed to beat contextual `p a` colors.
 .anchorjs-link {
   color: $meta-color !important;
   font-weight: 400;
@@ -1071,9 +1067,9 @@ div.topic-date {
   }
 }
 
-// Pages read at 1rem body — lists match it (the 1.05rem step is a POST
-// reading-spec: one step under 1.1rem Georgia prose; on pages it inverted
-// the ramp: lead-ins rendered smaller than their lists)
+// Pages read at 1rem body — lists match it (the 1.05rem step is POST-only:
+// one step under 1.1rem Georgia prose; on pages it inverted the ramp,
+// rendering lead-ins smaller than their lists).
 .page ul,
 .page ol {
   font-size: 1em;

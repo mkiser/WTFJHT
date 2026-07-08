@@ -27,19 +27,6 @@ seo:
 ---
 
 <div class="posts">
-  {% comment %}
-  {% assign now = site.time | date: '%Y-%m-%d' %}
-  {% assign note = site.notes.last %}
-  {% assign notedate = note.date | date: '%Y-%m-%d' %}
-  {% assign lastpost = site.posts.first.date | date: '%Y-%m-%d' %}
-  {% if note.is_promoted == true %}
-    {% include note.html %}
-  {% elsif now == notedate and notedate > lastpost %}
-    {% include note.html %}
-  {% endif %}
-
-  {% endcomment %}
-
   {% for page in site.posts limit:1 %}
   <article class="post"
     data-post-url="{{ site.baseurl }}{{ page.url }}"

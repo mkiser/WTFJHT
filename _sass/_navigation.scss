@@ -10,7 +10,7 @@
   background: #fff; // pinned — floats over chrome, must read on any ground
   color: #000;
   padding: 0.5rem 1rem;
-  border-radius: 0; // square (Law II)
+  border-radius: 0; // square
   text-decoration: none;
   font-weight: 600;
 
@@ -110,7 +110,7 @@
     color: rgba(255, 255, 255, 0.9);
     text-decoration: none;
     font-size: clamp(0.75rem, 2.5vw, 0.875rem);
-    font-weight: 400; // nav links on #000 — dark grounds map DOWN (type migration P1, ruling 6)
+    font-weight: 400; // nav links on #000 — dark grounds map DOWN
     padding: 0.5rem 0;
     min-height: 44px;
     display: flex;
@@ -129,12 +129,12 @@
   }
 }
 
-// "Become a Member" — emphasized nav LINK, not a button. Brand Book Ch.16 holds
-// "one primary button"; the nav CTA cedes that weight to "Subscribe for free"
-// (the lone ink square) and speaks link-language (Ch.14–15), just heavier: full
-// white, 600, with a persistent soft-white underline that fills to solid on
-// hover. Selector carries .nav-links to clear the base nav-link specificity;
-// size, padding, and focus ring all inherit the base link — it IS a nav link now.
+// "Become a Member" — emphasized nav LINK, not a button. Holds the "one primary
+// button" rule: the nav CTA cedes that weight to "Subscribe for free" (the lone
+// ink square) and speaks link-language, just heavier: full white, 600, with a
+// persistent soft-white underline that fills to solid on hover. Selector carries
+// .nav-links to clear the base nav-link specificity; size, padding, and focus
+// ring all inherit the base link — it IS a nav link now.
 .nav-links a.nav-cta {
   color: #fff;
   font-weight: 600;

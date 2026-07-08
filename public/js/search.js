@@ -219,7 +219,6 @@
   }
 
   // Visible failure state — never strand readers on "Loading search..."
-  // (page-walk M9; placeholder copy, Matt may reword)
   function showSearchError() {
     if (!resultsContainer) return;
     resultsContainer.innerHTML = '<div class="search-hint">Search couldn\u2019t load. Refresh the page to try again.</div>';

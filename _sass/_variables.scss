@@ -8,7 +8,7 @@ $red: var(--c-link);        // mirror of --c-link · the mark's crimson (OKLCH H
 
 $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
 $root-serif-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
-// $root-font-size retired (root is the rem clamp in _base)
+// root font size: the rem clamp in _base
 $root-line-height: 1.5;
 
 $body-color: var(--c-ink);
@@ -18,10 +18,10 @@ $link-color: $red;
 $border-color: var(--c-line);
 
 // Semantic text colors
-$text-strong: var(--c-ink-strong);  // was #303030 — merged into ink-strong (+1 RGB, night spec §3.3)
-$meta-color: var(--c-meta);     // mirror of --c-meta · 4.54:1 on white (old #9a9a9a was 2.81:1 — failed AA)
+$text-strong: var(--c-ink-strong);  // mirror of --c-ink-strong
+$meta-color: var(--c-meta);     // mirror of --c-meta · 4.54:1 on white
 $meta-color-surface: var(--c-meta-surface); // mirror of --c-meta-surface · 5.06:1 on #f9f9f9
-$text-dim: var(--c-meta-surface);   // was #666 — merged into meta-surface (+5 RGB, night spec §3.3)
+$text-dim: var(--c-meta-surface);   // mirror of --c-meta-surface
 $footer-text: #aaa;       // Footer body text on dark bg (7.49:1 on #1a1a1a, WCAG AA)
 $footer-link: #bbb;       // Footer links on dark bg (8.84:1 on #1a1a1a, WCAG AA)
 
@@ -29,7 +29,7 @@ $footer-link: #bbb;       // Footer links on dark bg (8.84:1 on #1a1a1a, WCAG AA
 $red-dark: var(--c-accent);   // mirror of --c-accent · TIOS accents, carousel red
 
 // Semantic border colors
-$border-light: var(--c-line); // was #ddd — merged into line (+8 RGB, Matt ratified 2026-06-07; kills the 4th hairline stop)
+$border-light: var(--c-line); // mirror of --c-line
 $border-lighter: var(--c-line-light);    // Section dividers, subtle separators
 
 // Semantic background colors
@@ -37,16 +37,15 @@ $bg-dark: #333;           // Dark UI backgrounds (tooltips, toasts, footer eleme
 $bg-darker: #222;         // Darker UI backgrounds (pagination, nav overlays)
 
 $large-breakpoint: 38em;
-// retired: root no longer jumps; see _base.scss clamp
 
 $code-font-family: Menlo, Monaco, "Courier New", monospace;
-$code-color: #9d4450;  // Darkened for WCAG AA compliance (~5.2:1 on #f9f9f9)
+$code-color: #9d4450;  // WCAG AA (~5.2:1 on #f9f9f9)
 
 $small-breakpoint: 425px;
 $medium-breakpoint: 600px;
 
 // ==========================================================================
-// Design tokens (extracted from _posts.scss)
+// Design tokens
 // ==========================================================================
 
 // Primitive: Type scale (rem-based)
@@ -56,31 +55,17 @@ $font-size-sm:   unquote("0.8rem");
 $font-size-md:   unquote("0.85rem");
 $font-size-list: unquote("0.88rem");
 $font-size-base: unquote("0.9rem");
-$font-size-lg:   1rem; // body stop (P2 — was 0.95)
+$font-size-lg:   1rem; // body stop
 $font-size-xl:   1.1rem;
-$font-size-2xl:  1.2rem; // heading stop (P2 — was 1.15)
-
-// Primitive: Type scale (em-based, relative to parent)
-// unquote format must match original source (some had leading zeros, some didn't)
-// retired (P2 em retirement)
-// retired (P2 em retirement)
-// retired (P2 em retirement)
-// retired (P2 em retirement)
-// retired (P2 em retirement)
+$font-size-2xl:  1.2rem; // heading stop
 
 // Primitive: Line heights
 $line-height-tight:   1.2;
 $line-height-snug:    1.4;
 $line-height-normal:  1.5;
 $line-height-relaxed: 1.55;
-$line-height-prose:   1.62;  // reading leading — was 1.58, opened up for sustained Georgia reading (Matt 2026-06-06)
+$line-height-prose:   1.62;  // reading leading — opened up for sustained Georgia reading
 $line-height-loose:   1.65;
-
-// Primitive: Border radius
-// retired (P2): $radius-xs:        4px;
-// retired (P2): $radius-sm:        6px;
-// retired (P2): $radius-pill:      1rem;
-// retired (P2): $radius-tag-count: unquote("0.5rem");
 
 // Primitive: Transition
 $transition-fast: unquote("0.15s ease");
@@ -102,7 +87,7 @@ $away-mode-bg: var(--c-away-wash);
 // Containers — mirrors of --w-* (three stops; component-internal px widths
 // like the carousel card or minimap are NOT containers and stay local)
 $w-module: 32rem;
-$w-prose:  38rem;  // the one content column — was 40rem; tightened to ~63-71 char measure (Matt 2026-06-06)
+$w-prose:  38rem;  // the one content column — ~63-71 char measure
 $w-stage:  60rem;
 $page-max-width: $w-prose; // legacy alias
 
@@ -126,21 +111,18 @@ $link-underline-offset:    unquote("0.2em");
 }
 
 // Component tokens (shared with newsletter via PasteUp)
-$blockquote-bg: var(--c-surface); // was #fafafa — merged into surface (−1 RGB, night spec §3.3)
+$blockquote-bg: var(--c-surface);
 $blockquote-border-width: 4px;
 $blockquote-border-color: $border-light;
 $blockquote-padding: 1rem;                                                   
 $list-bg: $gray-1;                                                                                                                                 
 $list-padding: 0 20px;                                                           
 $content-font-family: $root-font-family;
-// $content-font-size retired (P2 — zero consumers)
-// $content-font-weight retired (ruling 5: weight 300 left the system; unused)
 $content-line-height: 135%;
 $content-color: $gray-4;
 $content-max-image-width: 580px;
-$table-border-color: var(--c-line-strong); // was #cecece (−2 RGB, night spec §6.3 named exemption)
+$table-border-color: var(--c-line-strong);
 $figcaption-color: #8e8e8e;
-// $figcaption-font-size retired (P2 — zero consumers)
 
 // Component tokens: Post paragraphs
 $post-p-font-family: $root-serif-font-family;
@@ -165,13 +147,11 @@ $ol-line-height: $line-height-relaxed;
 $ol-letter-spacing: $tracking-tight;
 
 // Component tokens: LI
-// retired (P2 — zero consumers)
 $li-line-height: $line-height-normal;
 $li-margin-top: 1.25em;
 $ol-li-margin-top: 1.5em;
 
 // Component tokens: Blockquote (additions to existing)
-// retired (P2 — zero consumers)
 $blockquote-margin: 0 0 1em 1rem;
 $blockquote-line-height: $line-height-normal;
 $blockquote-p-margin-bottom: 1rem;

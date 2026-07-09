@@ -1,6 +1,11 @@
 ---
 title: Day 1996
 date: 2026-07-08 16:40:38 -07:00
+tags:
+- foreign-policy
+- iran
+- energy
+- healthcare
 description: '"A lot of love."'
 image: "/uploads/day1996trump-ec0f50.jpg"
 todayInOneSentence: 'The U.S. launched a second round of strikes against Iran after

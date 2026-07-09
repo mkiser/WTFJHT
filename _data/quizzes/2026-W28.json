@@ -1,0 +1,173 @@
+{
+  "id": "2026-W28",
+  "week_label": "Jul 6 – Jul 9, 2026",
+  "status": "published",
+  "editions": [
+    1997,
+    1996,
+    1995,
+    1994
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What price did the White House promote at its announced \"Freedom Fuel\" gas stations?",
+      "options": [
+        "$2.98 a gallon",
+        "$3.47 a gallon",
+        "$3.80 a gallon",
+        "$4.56 a gallon"
+      ],
+      "correct": 1,
+      "explanation": "The White House announced 25 privately owned \"Freedom Fuel\" gas stations selling gas at $3.47 a gallon. That was below the national average of about $3.80, but still above the pre-war average of $2.98.",
+      "source_day": 1996,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/08/day-1996/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 2,
+      "question": "What did Trump say he wanted the Supreme Court to do after it rejected his attempt to end birthright citizenship by executive order?",
+      "options": [
+        "Reconsider and reverse its decision",
+        "Expand the ruling to cover visa holders",
+        "Delay the ruling until next term",
+        "Refer the issue to Congress"
+      ],
+      "correct": 0,
+      "explanation": "Trump said he wanted the Supreme Court to reconsider its ruling upholding birthright citizenship and called the decision \"absolutely insane.\" Rehearings are technically allowed but are almost never granted.",
+      "source_day": 1997,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/09/day-1997/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 3,
+      "question": "By about how much are Affordable Care Act health insurance plans expected to increase next year?",
+      "options": [
+        "About 6%",
+        "About 10%",
+        "About 14%",
+        "About 20%"
+      ],
+      "correct": 2,
+      "explanation": "Affordable Care Act plans are expected to rise about 14% next year. The analysis cited higher hospital prices, specialty drug costs, inflation, and a smaller, sicker risk pool.",
+      "source_day": 1996,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/08/day-1996/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 4,
+      "question": "What did Trump say he would consider doing for Turkey despite legal and political obstacles?",
+      "options": [
+        "Selling F-35 fighter jets and lifting S-400-related sanctions",
+        "Moving U.S. troops from Germany to Turkey",
+        "Backing Turkey's bid to join the EU",
+        "Recognizing Turkey's claim to northern Syria"
+      ],
+      "correct": 0,
+      "explanation": "Trump said he'd consider selling F-35s to Turkey and lifting sanctions tied to its purchase of the Russian S-400 system. A 2020 law blocks the sale unless Turkey gives up the Russian equipment, and Israel strongly opposed the move.",
+      "source_day": 1995,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/07/day-1995/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "Which three vessels did Central Command say were attacked in the Strait of Hormuz before the U.S. launched new strikes on Iran?",
+      "options": [
+        "A U.S. destroyer, a British tanker, and a cargo ship",
+        "A Qatari LNG tanker, a Saudi oil tanker, and a third vessel",
+        "Two Kuwaiti patrol boats and a Jordanian freighter",
+        "An Emirati tanker, an Omani ferry, and a U.S. supply ship"
+      ],
+      "correct": 1,
+      "explanation": "Central Command said a Qatari liquefied natural gas tanker, a Saudi oil tanker, and a third vessel were hit near the Omani route through the strait. The U.S. then launched new strikes on Iran.",
+      "source_day": 1995,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/07/day-1995/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "How many FBI analysts were ordered to help investigate the 2020 election in Fulton County, Georgia?",
+      "options": [
+        "120",
+        "180",
+        "260",
+        "600"
+      ],
+      "correct": 2,
+      "explanation": "The FBI ordered 260 analysts to provide surge support for the Fulton County investigation. The memo described the case as a priority for Director Kash Patel and set a July 17 deadline for reviewing thousands of records.",
+      "source_day": 1994,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/06/day-1994/",
+      "difficulty": "hard",
+      "type": "numbers"
+    },
+    {
+      "number": 7,
+      "question": "Why did Trump say he called FIFA President Gianni Infantino about Folarin Balogun's red card?",
+      "options": [
+        "He wanted Balogun suspended for longer",
+        "He thought the play wasn't a foul and wanted a review",
+        "He wanted FIFA to change the World Cup schedule",
+        "He was protesting the referee assignment for the final"
+      ],
+      "correct": 1,
+      "explanation": "Trump said he asked for a review because he didn't think Balogun's play was a foul. FIFA later reversed the automatic one-game suspension while keeping the red card on Balogun's record and placing him on probation.",
+      "source_day": 1994,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/06/day-1994/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 8,
+      "question": "Who called for an independent investigation after a Mexican national was fatally shot during a traffic stop in Houston?",
+      "options": [
+        "The FBI's Houston office",
+        "The Department of Homeland Security",
+        "The family of Lorenzo Salgado Araujo",
+        "The Houston city council"
+      ],
+      "correct": 2,
+      "explanation": "The family of Lorenzo Salgado Araujo called for an independent investigation into his death after an ICE agent shot him during a traffic stop. Authorities said the DHS inspector general and the FBI were investigating different aspects of the incident.",
+      "source_day": 1997,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/09/day-1997/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 9,
+      "question": "Which country did Trump say the U.S. should stop doing trade business with over its refusal to meet NATO's new 5% defense spending target?",
+      "options": [
+        "Germany",
+        "Italy",
+        "France",
+        "Spain"
+      ],
+      "correct": 3,
+      "explanation": "Trump singled out Spain, calling it a \"terrible partner\" and saying the U.S. should not do trade business with it anymore. The move was unclear in practice because Spain is part of the European Union, which controls trade policy.",
+      "source_day": 1996,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/08/day-1996/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 10,
+      "question": "About how many military targets along Iran's coast did the U.S. strike overnight?",
+      "options": [
+        "About 30",
+        "About 60",
+        "About 90",
+        "About 120"
+      ],
+      "correct": 2,
+      "explanation": "Central Command said the U.S. struck about 90 military targets along Iran's coast. The stated goal was to degrade Tehran's ability to threaten commercial shipping in the Strait of Hormuz.",
+      "source_day": 1997,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/09/day-1997/",
+      "difficulty": "easy",
+      "type": "numbers"
+    }
+  ]
+}

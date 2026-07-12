@@ -1,6 +1,12 @@
 ---
 title: Day 1994
 date: 2026-07-06 12:22:47 -07:00
+tags:
+- economy
+- tariffs
+- ethics
+- voting-rights
+- elections
 description: '"A little bit suspect."'
 image: "/uploads/day1994trump-eb5225.jpg"
 todayInOneSentence: Trump personally called FIFA President Gianni Infantino to ask

@@ -1,6 +1,11 @@
 ---
 title: Day 1989
 date: 2026-07-01 16:18:20 -07:00
+tags:
+- ethics
+- corruption
+- trade
+- national-security
 description: '"We''re all profiting."'
 image: "/uploads/day1989trump-233c4f.jpg"
 todayInOneSentence: Trump reported at least $2.2 billion in income in 2025, including

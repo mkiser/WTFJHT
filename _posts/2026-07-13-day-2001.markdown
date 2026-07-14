@@ -1,6 +1,12 @@
 ---
 title: Day 2001
 date: 2026-07-13 15:39:06 -07:00
+tags:
+- lawsuit
+- taxes
+- immigration
+- foreign-policy
+- iran
 description: '"At best, misleading and, at worst, disingenuous."'
 image: "/uploads/day2001trump-4afaa6.jpg"
 todayInOneSentence: 'A federal judge ruled that Trump filed his $10 billion lawsuit

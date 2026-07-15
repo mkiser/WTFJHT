@@ -1,6 +1,12 @@
 ---
 title: Day 2002
 date: 2026-07-14 16:01:35 -07:00
+tags:
+- foreign-policy
+- iran
+- immigration
+- economy
+- climate
 description: '"Whatever the cost."'
 image: "/uploads/day2002trump-5b8f93.jpg"
 todayInOneSentence: The U.S. resumed its naval blockade of Iranian ports and launched

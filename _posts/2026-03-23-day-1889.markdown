@@ -1,6 +1,12 @@
 ---
 title: Day 1889
 date: 2026-03-23 15:45:49 -07:00
+tags:
+- iran
+- foreign-policy
+- immigration
+- government-shutdown
+- voting-rights
 description: '"Psychological warfare."'
 image: "/uploads/day1889trump-1372c6.jpg"
 todayInOneSentence: 'Trump delayed his threat to “obliterate” Iran’s power plants

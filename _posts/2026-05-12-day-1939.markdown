@@ -1,6 +1,12 @@
 ---
 title: Day 1939
 date: 2026-05-12 15:45:49 -07:00
+tags:
+- foreign-policy
+- iran
+- economy
+- supreme-court
+- voting-rights
 description: '"Every American understands."'
 image: "/uploads/day1939trump-e87a73.jpg"
 todayInOneSentence: Trump said he doesn’t "think about Americans’ financial situation"

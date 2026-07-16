@@ -1,6 +1,12 @@
 ---
 title: Day 1899
 date: 2026-04-02 15:28:38 -07:00
+tags:
+- justice-department
+- foreign-policy
+- iran
+- israel-palestine
+- government-shutdown
 description: '"We can''t take care of day care. We’re fighting wars." '
 image: "/uploads/day1899trump-d11eff.jpg"
 todayInOneSentence: Trump fired Attorney General Pam Bondi and named Deputy Attorney

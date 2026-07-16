@@ -1,6 +1,12 @@
 ---
 title: Day 1885
 date: 2026-03-19 15:54:48 -07:00
+tags:
+- foreign-policy
+- iran
+- healthcare
+- climate
+- subpoena
 description: '"Don''t do that."'
 image: "/uploads/day1885trump-3a4d56.jpg"
 todayInOneSentence: The Pentagon asked for more than $200 billion in additional funding

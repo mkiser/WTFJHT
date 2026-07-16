@@ -1,6 +1,12 @@
 ---
 title: Day 1903
 date: 2026-04-06 16:08:29 -07:00
+tags:
+- foreign-policy
+- iran
+- national-security
+- economy
+- supreme-court
 description: '"An unhinged madman."'
 image: "/uploads/day1903trump-76707d.jpg"
 todayInOneSentence: Trump demanded that Iran “Open the Fuckin’ Strait” in the next

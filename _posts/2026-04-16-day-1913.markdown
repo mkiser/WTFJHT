@@ -1,6 +1,12 @@
 ---
 title: Day 1913
 date: 2026-04-16 18:15:46 -07:00
+tags:
+- foreign-policy
+- iran
+- congress
+- healthcare
+- immigration
 description: '"Ignorant of reality."'
 image: "/uploads/day1913trump-fa3b6b.jpg"
 todayInOneSentence: The Republican-controlled House rejected a Democratic war powers

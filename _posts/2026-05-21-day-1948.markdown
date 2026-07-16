@@ -1,6 +1,12 @@
 ---
 title: Day 1948
 date: 2026-05-21 15:21:07 -07:00
+tags:
+- presidential-election
+- immigration
+- justice-department
+- climate
+- tech-policy
 description: '"A galactic blunder."'
 image: "/uploads/day1948trump-c1c9a4.jpg"
 todayInOneSentence: 'The Democratic National Committee released its 192-page draft

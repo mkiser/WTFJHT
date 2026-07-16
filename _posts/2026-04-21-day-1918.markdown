@@ -1,6 +1,12 @@
 ---
 title: Day 1918
 date: 2026-04-21 15:16:30 -07:00
+tags:
+- foreign-policy
+- iran
+- tariffs
+- supreme-court
+- economy
 description: '"Pretty serious stuff."'
 image: "/uploads/day1918trump-750702.jpg"
 todayInOneSentence: Trump abruptly extended the U.S.-Iran ceasefire hours before it

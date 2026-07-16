@@ -1,6 +1,12 @@
 ---
 title: Day 1917
 date: 2026-04-20 16:14:35 -07:00
+tags:
+- foreign-policy
+- iran
+- energy
+- lawsuit
+- ethics
 description: '"Coming soon."'
 image: "/uploads/day1917trump-b99601.jpg"
 todayInOneSentence: 'Trump said he''s “highly unlikely” to extend the Iran ceasefire,

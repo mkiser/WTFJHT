@@ -1,6 +1,12 @@
 ---
 title: Day 1926
 date: 2026-04-29 16:29:01 -07:00
+tags:
+- supreme-court
+- voting-rights
+- midterm-election
+- reproductive-rights
+- iran
 description: '"Designed and intended to rig outcomes."'
 image: "/uploads/day1926trump-b7ad69.jpg"
 todayInOneSentence: 'The Supreme Court weakened the Voting Rights Act, striking down

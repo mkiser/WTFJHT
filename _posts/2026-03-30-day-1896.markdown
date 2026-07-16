@@ -1,6 +1,12 @@
 ---
 title: Day 1896
 date: 2026-03-30 15:26:05 -07:00
+tags:
+- iran
+- foreign-policy
+- government-shutdown
+- immigration
+- healthcare
 description: '"Fraud and waste and abuse."'
 image: "/uploads/day1896trump-b8c556.jpg"
 todayInOneSentence: 'Trump said his “preference” would be to “take the oil in Iran”

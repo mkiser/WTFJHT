@@ -1,6 +1,12 @@
 ---
 title: Day 1968
 date: 2026-06-10 15:31:52 -07:00
+tags:
+- economy
+- foreign-policy
+- iran
+- immigration
+- national-security
 description: '"I love the inflation."'
 image: "/uploads/day1968trump-ffb25a.jpg"
 todayInOneSentence: Inflation topped 4% for the first time in three years; Trump responded

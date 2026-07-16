@@ -1,6 +1,12 @@
 ---
 title: Day 1892
 date: 2026-03-26 16:41:20 -07:00
+tags:
+- government-shutdown
+- iran
+- energy
+- economy
+- voting-rights
 description: '"We''ve gotta get our priorities straight."'
 image: "/uploads/day1892trump-26e328.jpg"
 todayInOneSentence: Trump, bypassing Congress, ordered Homeland Security Secretary

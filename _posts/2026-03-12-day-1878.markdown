@@ -1,6 +1,12 @@
 ---
 title: Day 1878
 date: 2026-03-12 16:37:38 -07:00
+tags:
+- energy
+- economy
+- iran
+- housing
+- congress
 description: '"We make a lot of money."'
 image: "/uploads/day1878trump-d475bc.jpg"
 todayInOneSentence: 'Trump dismissed rising oil prices caused by the Iran war, saying

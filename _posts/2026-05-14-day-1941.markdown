@@ -1,6 +1,12 @@
 ---
 title: Day 1941
 date: 2026-05-14 16:05:58 -07:00
+tags:
+- supreme-court
+- reproductive-rights
+- immigration
+- china
+- climate
 description: '"Like having a bachelor party at a church."'
 image: "/uploads/day1941trump-d8cc5c.jpg"
 todayInOneSentence: 'The Supreme Court preserved nationwide mail and telehealth access

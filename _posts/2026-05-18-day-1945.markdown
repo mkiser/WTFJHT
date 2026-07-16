@@ -1,6 +1,12 @@
 ---
 title: Day 1945
 date: 2026-05-18 16:22:06 -07:00
+tags:
+- foreign-policy
+- iran
+- justice-department
+- voting-rights
+- immigration
 description: '"Pull the trigger."'
 image: "/uploads/day1945trump-ef5547.jpg"
 todayInOneSentence: Trump postponed a previously unannounced attack on Iran after

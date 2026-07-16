@@ -23,6 +23,9 @@ defaults:
     todayInOneSentence: ''
     currentMood: ''
     editorsNote: ''
+    post_type: ''
+    previewText: ''
+    signoff: ''
     podcast:
       file: ''
       duration: ''

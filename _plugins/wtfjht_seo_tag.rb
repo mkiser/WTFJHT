@@ -274,8 +274,16 @@ module Jekyll
       def description
         @description ||= begin
           if page["layout"] == "post"
+            # Week-in-review posts have no todayInOneSentence by design (checked
+            # strip-empty so a stray whitespace value cannot bypass this branch)
+            # and open with a heading, so the excerpt fallback would emit that
+            # heading as the meta/OG description. Use the frontmatter description
+            # (the week date range) instead. Scoped to week-in-review so archive
+            # posts keep their existing behavior exactly.
+            if page["post_type"] == "week-in-review" && page["todayInOneSentence"].to_s.strip.empty? && page["description"] && !page["description"].to_s.strip.empty?
+              format_string(page["description"])
             # First choice: todayInOneSentence (the real summary)
-            if page["todayInOneSentence"] && !page["todayInOneSentence"].to_s.empty?
+            elsif page["todayInOneSentence"] && !page["todayInOneSentence"].to_s.empty?
               format_string(page["todayInOneSentence"])
             # Second choice: excerpt from content (avoids duplicating title)
             elsif page["excerpt"] && !page["excerpt"].to_s.strip.empty?

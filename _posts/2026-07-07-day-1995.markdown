@@ -1,6 +1,11 @@
 ---
 title: Day 1995
 date: 2026-07-07 15:24:18 -07:00
+tags:
+- foreign-policy
+- iran
+- immigration
+- sanctions
 description: '"This is punishment."'
 image: "/uploads/day1995trump-c68b89.jpg"
 todayInOneSentence: The U.S. launched new strikes against Iran after U.S. Central

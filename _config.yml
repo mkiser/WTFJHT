@@ -66,7 +66,7 @@ defaults:
 name: What The Fuck Just Happened Today?
 tagline: Political News for Normal People.
 description: Your essential guide to the shock and awe in national politics. Read in moderation.
-is_away_mode: true
+is_away_mode: false
 is_doomsday_counter: false
 turnstile_site_key: "0x4AAAAAADAzC0xAFcUN12kn"
 permalink: pretty

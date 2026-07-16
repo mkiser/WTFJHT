@@ -1,6 +1,12 @@
 ---
 title: Day 1977
 date: 2026-06-19 09:46:19 -07:00
+tags:
+- foreign-policy
+- iran
+- economy
+- ethics
+- voting-rights
 description: '"There are no limits."'
 image: "/uploads/day1977trump-3007e0.jpg"
 todayInOneSentence: Trump defended his interim Iran deal as “probably” Iran’s “unconditional

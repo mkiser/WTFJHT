@@ -1,6 +1,12 @@
 ---
 title: Day 1920
 date: 2026-04-23 15:59:58 -07:00
+tags:
+- foreign-policy
+- national-security
+- immigration
+- voting-rights
+- economy
 description: '"Shoot and kill."'
 image: "/uploads/day1920trump-2f85ac.jpg"
 todayInOneSentence: 'Trump ordered the Navy to “shoot and kill” any boat laying mines

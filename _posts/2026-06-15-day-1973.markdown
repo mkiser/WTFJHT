@@ -1,6 +1,12 @@
 ---
 title: Day 1973
 date: 2026-06-15 15:50:39 -07:00
+tags:
+- foreign-policy
+- iran
+- nomination
+- justice-department
+- ethics
 description: '"Start your engines."'
 image: "/uploads/day1973trump-a87e2c.jpg"
 todayInOneSentence: 'The U.S. and Iran signed a preliminary framework to end Trump''s

@@ -1,6 +1,12 @@
 ---
 title: Day 1940
 date: 2026-05-13 16:32:32 -07:00
+tags:
+- foreign-policy
+- iran
+- economy
+- healthcare
+- immigration
 description: '"Major red flags."'
 image: "/uploads/day1940trump-3230e2.jpg"
 todayInOneSentence: Senate Republicans blocked a resolution to stop Trump’s war with

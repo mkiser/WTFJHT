@@ -4,10 +4,20 @@ on:
   push:
     branches:
       - master
+  schedule:
+    # Nightly tag-page refresh (sets BUILD_TAG_PAGES=true): runs after the
+    # ~07:15 UTC nightly tagger commit so new tags get pages same-day. Publish
+    # builds skip tag generation entirely; S3 retains the previously deployed
+    # pages between refreshes (the deploy never deletes).
+    - cron: '45 7 * * *'
   workflow_dispatch:  # allow manual triggering
     inputs:
       incremental:
         description: 'Data-only refresh: skip the search-index + leaderboard rebuild (used by the corrections / tag-page auto-commit workflows, whose GITHUB_TOKEN pushes cannot trigger this workflow directly).'
+        type: boolean
+        default: false
+      tag_pages:
+        description: 'Regenerate tag archive pages this run (sets BUILD_TAG_PAGES=true).'
         type: boolean
         default: false
 
@@ -38,6 +48,10 @@ jobs:
             else
               echo "full_build=true" >> "$GITHUB_OUTPUT"
             fi
+          elif [ "${{ github.event_name }}" = "schedule" ]; then
+            # Nightly tag-page refresh: post content is unchanged since the
+            # tagger's own push build — skip the heavy search/leaderboard rebuild.
+            echo "full_build=false" >> "$GITHUB_OUTPUT"
           elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
             echo "full_build=true" >> "$GITHUB_OUTPUT"
           elif ! CHANGED=$(git diff --name-only "${{ github.event.before }}" HEAD 2>/dev/null); then
@@ -78,6 +92,7 @@ jobs:
         env:
           SKIP_SEARCH_INDEX: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
           SKIP_LEADERBOARD: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
+          BUILD_TAG_PAGES: ${{ (github.event_name == 'schedule' || inputs.tag_pages == true) && 'true' || 'false' }}
           CHANGED_DATES: ${{ steps.check.outputs.changed_dates }}
 
       - name: Configure AWS credentials

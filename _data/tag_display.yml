@@ -1,7 +1,7 @@
 # Display-name overrides for tag slugs whose split-and-capitalize rendering is
 # wrong (acronyms, small words, hyphenated proper nouns). Anything not listed
 # falls back to capitalizing each hyphen-separated word.
-# Rendering goes through _includes/tag-name.html and scripts/generate_tag_pages.rb.
+# Rendering goes through _includes/tag-name.html and _plugins/wtfjht_tag_pages.rb.
 lgbtq-rights: LGBTQ Rights
 state-of-the-union: State of the Union
 covid: COVID

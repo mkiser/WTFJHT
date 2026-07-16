@@ -1,6 +1,12 @@
 ---
 title: Day 1932
 date: 2026-05-05 17:19:06 -07:00
+tags:
+- foreign-policy
+- iran
+- israel-palestine
+- lgbtq-rights
+- subpoena
 description: '"Insane in the brain."'
 image: "/uploads/day1932trump-3edec2.jpg"
 todayInOneSentence: 'Trump paused Project Freedom after one day, citing “Great Progress”

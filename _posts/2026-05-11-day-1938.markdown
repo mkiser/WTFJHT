@@ -1,6 +1,12 @@
 ---
 title: Day 1938
 date: 2026-05-11 13:13:49 -07:00
+tags:
+- foreign-policy
+- iran
+- energy
+- reproductive-rights
+- voting-rights
 description: '"A piece of garbage."'
 image: "/uploads/day1938trump-8731d1.jpg"
 todayInOneSentence: Trump said the U.S. ceasefire with Iran is on “massive life support”

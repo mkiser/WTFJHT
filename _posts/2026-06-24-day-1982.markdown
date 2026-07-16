@@ -1,6 +1,12 @@
 ---
 title: Day 1982
 date: 2026-06-24 15:59:13 -07:00
+tags:
+- voting-rights
+- executive-order
+- housing
+- iran
+- lgbtq-rights
 description: '"Mad as a murder hornet."'
 image: "/uploads/day1982trump-789c6a.jpg"
 todayInOneSentence: A federal judge permanently blocked Trump from enforcing an executive

@@ -1,6 +1,12 @@
 ---
 title: Day 1960
 date: 2026-06-02 15:35:33 -07:00
+tags:
+- justice-department
+- national-security
+- foreign-policy
+- climate
+- tech-policy
 description: '"We need professionals."'
 image: "/uploads/day1960trump-31823e.jpg"
 todayInOneSentence: 'Acting Attorney General Todd Blanche said Trump’s $1.8 billion

@@ -1,6 +1,12 @@
 ---
 title: Day 1934
 date: 2026-05-07 15:55:36 -07:00
+tags:
+- supreme-court
+- voting-rights
+- justice-department
+- tariffs
+- polling
 description: '"Very serious problems."'
 image: "/uploads/day1934trump-033d2f.jpg"
 todayInOneSentence: 'Chief Justice John Roberts claimed that Supreme Court justices

@@ -1,6 +1,12 @@
 ---
 title: Day 1987
 date: 2026-06-29 12:29:53 -07:00
+tags:
+- supreme-court
+- voting-rights
+- immigration
+- iran
+- classified-documents
 description: '"No longer able to be reasonable."'
 image: "/uploads/day1987trump-4d52ba.jpg"
 todayInOneSentence: The Supreme Court rejected Trump’s Justice Department and the

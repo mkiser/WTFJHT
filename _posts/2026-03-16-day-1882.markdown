@@ -1,6 +1,11 @@
 ---
 title: Day 1882
 date: 2026-03-16 16:20:58 -07:00
+tags:
+- foreign-policy
+- iran
+- media
+- healthcare
 description: '"We don’t need anybody."'
 image: "/uploads/day1882trump-e8df7c.jpg"
 todayInOneSentence: Trump demanded that other countries help reopen the Strait of

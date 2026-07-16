@@ -1,6 +1,12 @@
 ---
 title: Day 1961
 date: 2026-06-03 15:53:37 -07:00
+tags:
+- foreign-policy
+- immigration
+- national-security
+- tariffs
+- voting-rights
 description: '"Double down on chaos."'
 image: "/uploads/day1961trump-267d4e.jpg"
 todayInOneSentence: 'The House voted to block Trump from ordering further strikes

@@ -1,6 +1,12 @@
 ---
 title: Day 1933
 date: 2026-05-06 15:23:21 -07:00
+tags:
+- voting-rights
+- primary
+- foreign-policy
+- iran
+- oversight
 description: '"You all started it."'
 image: "/uploads/day1933trump-f1bdf8.jpg"
 todayInOneSentence: 'The FBI searched the office of a Virginia Democratic state lawmaker

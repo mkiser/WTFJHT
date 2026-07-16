@@ -1,6 +1,12 @@
 ---
 title: Day 1980
 date: 2026-06-22 13:53:04 -07:00
+tags:
+- iran
+- foreign-policy
+- immigration
+- voting-rights
+- subpoena
 description: '"You can''t trust anybody''s words."'
 image: "/uploads/day1980trump-ed1946.jpg"
 todayInOneSentence: 'The Treasury Department gave Iran a 60-day waiver to sell oil,

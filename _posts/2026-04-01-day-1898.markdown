@@ -1,6 +1,12 @@
 ---
 title: Day 1898
 date: 2026-04-01 15:23:15 -07:00
+tags:
+- foreign-policy
+- iran
+- immigration
+- supreme-court
+- voting-rights
 description: '"STUPID."'
 image: "/uploads/day1898trump-d0d5e4.jpg"
 todayInOneSentence: Trump threatened to pull the U.S. out of NATO, saying leaving

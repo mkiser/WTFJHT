@@ -1,6 +1,12 @@
 ---
 title: Day 1927
 date: 2026-04-30 16:30:19 -07:00
+tags:
+- government-shutdown
+- voting-rights
+- supreme-court
+- economy
+- energy
 description: '"We had to."'
 image: "/uploads/day1927trump-f127b6.jpg"
 todayInOneSentence: Trump signed legislation funding most of the Department of Homeland

@@ -1,6 +1,12 @@
 ---
 title: Day 1884
 date: 2026-03-18 16:09:52 -07:00
+tags:
+- iran
+- foreign-policy
+- energy
+- economy
+- democracy
 description: '"Nobody knows."'
 image: "/uploads/day1884trump-0fe35b.jpg"
 todayInOneSentence: Tulsi Gabbard refused to say whether U.S. intelligence assessed

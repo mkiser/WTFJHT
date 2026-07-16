@@ -1,6 +1,12 @@
 ---
 title: Day 1946
 date: 2026-05-19 16:04:03 -07:00
+tags:
+- taxes
+- ethics
+- justice-department
+- foreign-policy
+- healthcare
 description: '"There are no conflicts of interest."'
 image: "/uploads/day1946trump-af8c73.jpg"
 todayInOneSentence: Trump’s Justice Department expanded his IRS settlement to include

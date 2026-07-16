@@ -1,6 +1,12 @@
 ---
 title: Day 1954
 date: 2026-05-27 16:36:12 -07:00
+tags:
+- midterm-election
+- primary
+- voting-rights
+- supreme-court
+- lawsuit
 description: '"I don''t care about the midterms."'
 image: "/uploads/day1954trump-ce0ec8.jpg"
 todayInOneSentence: Trump said "I don’t care about the midterms” and wouldn't let

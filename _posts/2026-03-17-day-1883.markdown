@@ -1,6 +1,11 @@
 ---
 title: Day 1883
 date: 2026-03-17 16:02:46 -07:00
+tags:
+- foreign-policy
+- iran
+- national-security
+- subpoena
 description: '"Not afraid of anything."'
 image: "/uploads/day1883trump-556070.jpg"
 todayInOneSentence: Trump said NATO “is making a very foolish mistake” by refusing

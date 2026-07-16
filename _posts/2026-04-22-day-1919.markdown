@@ -1,6 +1,12 @@
 ---
 title: Day 1919
 date: 2026-04-22 16:43:39 -07:00
+tags:
+- voting-rights
+- foreign-policy
+- iran
+- oversight
+- mueller-investigation
 description: '"Totally controlled."'
 image: "/uploads/day1919trump-00f565.jpg"
 todayInOneSentence: 'Virginia voters approved a temporary plan to redraw the state’s

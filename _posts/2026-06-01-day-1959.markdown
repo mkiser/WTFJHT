@@ -1,6 +1,12 @@
 ---
 title: Day 1959
 date: 2026-06-01 13:08:22 -07:00
+tags:
+- foreign-policy
+- iran
+- economy
+- lawsuit
+- voting-rights
 description: '"Very boring."'
 image: "/uploads/day1959trump-cd7060.jpg"
 todayInOneSentence: 'Trump insisted that talks with Iran to extend the April ceasefire,

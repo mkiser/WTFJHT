@@ -1,6 +1,12 @@
 ---
 title: Day 1910
 date: 2026-04-13 16:02:31 -07:00
+tags:
+- foreign-policy
+- iran
+- lgbtq-rights
+- lawsuit
+- midterm-election
 description: '"No fear."'
 image: "/uploads/day1910trump-d73eb2.jpg"
 todayInOneSentence: The U.S. began a naval blockade of ships entering or leaving Iranian

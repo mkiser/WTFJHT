@@ -1,6 +1,12 @@
 ---
 title: Day 1974
 date: 2026-06-16 15:02:48 -07:00
+tags:
+- foreign-policy
+- iran
+- congress
+- national-security
+- education
 description: '"In the rearview mirror."'
 image: "/uploads/day1974trump-5fecf5.jpg"
 todayInOneSentence: 'Congress is demanding to see Trump’s still-secret U.S.-Iran agreement

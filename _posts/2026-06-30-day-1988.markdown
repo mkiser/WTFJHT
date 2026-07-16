@@ -1,6 +1,12 @@
 ---
 title: Day 1988
 date: 2026-06-30 14:36:17 -07:00
+tags:
+- supreme-court
+- immigration
+- housing
+- tech-policy
+- lgbtq-rights
 description: '"Too bad for our Country."'
 image: "/uploads/day1988trump-1019a4.jpg"
 todayInOneSentence: The Supreme Court rejected Trump's attempt to end birthright citizenship

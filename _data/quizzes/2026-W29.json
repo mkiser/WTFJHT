@@ -1,0 +1,173 @@
+{
+  "id": "2026-W29",
+  "week_label": "Jul 13 – Jul 16, 2026",
+  "status": "published",
+  "editions": [
+    2001,
+    2002,
+    2003,
+    2004
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What did House Republicans propose to use to move their $95 billion package funding the Iran war, farm subsidies, and parts of the SAVE America Act?",
+      "options": [
+        "A bipartisan discharge petition",
+        "Budget reconciliation to bypass a Democratic filibuster",
+        "A continuing resolution through the end of the year",
+        "Emergency war powers without congressional action"
+      ],
+      "correct": 1,
+      "explanation": "Republicans hoped to use reconciliation so they could avoid a Democratic filibuster in the Senate. Even so, the package faced resistance from some conservatives and limits under Senate rules.",
+      "source_day": 2003,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/15/day-2003/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 2,
+      "question": "What explanation did four waterproofing experts give for the peeling at the Lincoln Memorial Reflecting Pool?",
+      "options": [
+        "It strongly suggested an installation flaw rather than vandalism",
+        "It was caused by a chemical spill from a maintenance truck",
+        "It resulted from a recent earthquake in Washington",
+        "It was normal wear expected in the first month after installation"
+      ],
+      "correct": 0,
+      "explanation": "The experts said the peeling strongly pointed to an installation flaw, not deliberate vandalism. They found that documented failures tracked seams between sections applied at different times.",
+      "source_day": 2004,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/16/day-2004/",
+      "difficulty": "hard",
+      "type": "consequence"
+    },
+    {
+      "number": 3,
+      "question": "By how much did consumer prices fall in June?",
+      "options": [
+        "0.1%",
+        "0.4%",
+        "0.8%",
+        "1.2%"
+      ],
+      "correct": 1,
+      "explanation": "Consumer prices fell 0.4% in June, the biggest monthly decline since April 2020. Annual inflation also slowed to 3.5% from 4.2% in May.",
+      "source_day": 2002,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/14/day-2002/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 4,
+      "question": "Which came first in the week’s Iran coverage?",
+      "options": [
+        "The U.S. carried out a sixth consecutive day of strikes on Iran",
+        "The U.S. resumed strikes on Iran and reinstated its blockade of Iranian ports",
+        "The House released a $95 billion Iran-war funding plan",
+        "The U.S. disabled its first ship since the blockade resumed"
+      ],
+      "correct": 1,
+      "explanation": "The resumption of strikes and the reinstated blockade happened first, at the start of the week’s coverage. The sixth consecutive day of strikes, the House funding plan, and the first disabled ship all came later.",
+      "source_day": 2001,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/13/day-2001/",
+      "difficulty": "hard",
+      "type": "sequence"
+    },
+    {
+      "number": 5,
+      "question": "What did a federal judge say was the purpose of Trump’s $10 billion lawsuit against the IRS?",
+      "options": [
+        "To recover taxes he said were wrongly collected",
+        "To block the release of his tax returns to Congress",
+        "To manipulate the judicial process and manufacture legitimacy for a deal shielding him from audits",
+        "To challenge the constitutionality of the IRS itself"
+      ],
+      "correct": 2,
+      "explanation": "Judge Kathleen Williams ruled that the lawsuit was filed in bad faith to manipulate the judicial process and make an audit-shielding agreement appear legitimate. She said there was never true adverseness between the parties.",
+      "source_day": 2001,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/13/day-2001/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "How long after 17 federal judges unanimously appointed Roger Rogoff as Seattle’s U.S. attorney did Trump fire him?",
+      "options": [
+        "7 days",
+        "4 hours",
+        "24 hours",
+        "54 minutes"
+      ],
+      "correct": 3,
+      "explanation": "Rogoff was fired just 54 minutes after the judges appointed him. He had been sworn in before 8 a.m. and was removed by email while waiting for a meeting.",
+      "source_day": 2004,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/16/day-2004/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 7,
+      "question": "Who did South Carolina Gov. Henry McMaster appoint to fill Lindsey Graham’s Senate seat?",
+      "options": [
+        "Nancy Mace",
+        "Darline Graham Nordone",
+        "Nikki Haley",
+        "Pam Evette"
+      ],
+      "correct": 1,
+      "explanation": "McMaster appointed Darline Graham Nordone, Lindsey Graham’s sister, to serve the remainder of his Senate term. She became the first woman to represent South Carolina in the Senate.",
+      "source_day": 2001,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/13/day-2001/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 8,
+      "question": "Why did the Trump administration temporarily stop most ICE vehicle stops nationwide?",
+      "options": [
+        "A court ruled the stops unconstitutional",
+        "ICE ran out of detention space",
+        "Agents had fatally shot two immigrants who were not the intended targets",
+        "Congress cut funding for immigration enforcement fuel costs"
+      ],
+      "correct": 2,
+      "explanation": "The administration paused most ICE vehicle stops after two fatal shootings in Texas and Maine involving immigrants who weren’t the intended targets. Officials said the agency was reviewing tactics and providing additional training.",
+      "source_day": 2002,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/14/day-2002/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 9,
+      "question": "Which statement best describes how Trump’s nominee for director of national intelligence answered questions about the 2020 election?",
+      "options": [
+        "He said Trump clearly won and the results were fraudulent",
+        "He refused to discuss the election at all because of pending litigation",
+        "He said Biden was certified and later said he was fairly and duly elected, while avoiding saying Biden “won” at first",
+        "He immediately and repeatedly said Biden won fairly without qualification"
+      ],
+      "correct": 2,
+      "explanation": "Jay Clayton said he was not an election denier, but initially would say only that Biden had been certified. Later, he conceded that Biden was fairly and duly elected under the process.",
+      "source_day": 2003,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/15/day-2003/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 10,
+      "question": "What condition did Sen. Thom Tillis say he wanted before advancing Todd Blanche’s nomination?",
+      "options": [
+        "A public apology from Epstein survivors",
+        "A Supreme Court ruling on executive authority",
+        "Definable, ratified, executed agreements that the anti-weaponization fund cannot be revived",
+        "A written pledge from Trump not to speak about the case"
+      ],
+      "correct": 2,
+      "explanation": "Tillis said he did not want “a wink and a nod and a handshake.” He wanted concrete, formal agreements ensuring the proposed anti-weaponization fund could not be brought back.",
+      "source_day": 2004,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/16/day-2004/",
+      "difficulty": "medium",
+      "type": "quote"
+    }
+  ]
+}

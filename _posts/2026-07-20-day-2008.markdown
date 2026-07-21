@@ -1,6 +1,12 @@
 ---
 title: Day 2008
 date: 2026-07-20 14:56:43 -07:00
+tags:
+- tariffs
+- iran
+- national-security
+- subpoena
+- immigration
 description: '"Maxed out."'
 image: "/uploads/day2008trump-54d4a5.jpg"
 todayInOneSentence: 'Trump imposed 50% tariffs on most Canadian goods, invoking a

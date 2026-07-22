@@ -1,6 +1,12 @@
 ---
 title: Day 2009
 date: 2026-07-21 15:17:43 -07:00
+tags:
+- foreign-policy
+- iran
+- economy
+- voting-rights
+- healthcare
 description: '"Spiraling out of control again."'
 image: "/uploads/day2009trump-d4297a.jpg"
 todayInOneSentence: 'Defense Secretary Pete Hegseth estimated that the war with Iran

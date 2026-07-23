@@ -1,6 +1,12 @@
 ---
 title: Day 2010
 date: 2026-07-22 15:58:53 -07:00
+tags:
+- elections
+- voting-rights
+- government-shutdown
+- foreign-policy
+- iran
 description: '"Own the chaos."'
 image: "/uploads/day2010trump-6d0635.jpg"
 todayInOneSentence: Arizona Republicans nominated three 2020 election deniers for

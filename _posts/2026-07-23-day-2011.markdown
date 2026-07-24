@@ -1,6 +1,12 @@
 ---
 title: Day 2011
 date: 2026-07-23 16:15:05 -07:00
+tags:
+- foreign-policy
+- iran
+- congress
+- tariffs
+- justice-department
 description: '"The clock is ticking."'
 image: "/uploads/day2011trump-fe3bb0.jpg"
 todayInOneSentence: Trump said he's “close” to deciding whether to launch a “massive

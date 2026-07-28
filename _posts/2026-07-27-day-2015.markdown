@@ -1,6 +1,12 @@
 ---
 title: Day 2015
 date: 2026-07-27 17:38:11 -07:00
+tags:
+- voting-rights
+- supreme-court
+- midterm-election
+- congress
+- iran
 description: '"Is this supposed to be fun?"'
 image: "/uploads/day2015trump-a9bd58.jpg"
 todayInOneSentence: The Trump administration asked the Supreme Court to let it impose

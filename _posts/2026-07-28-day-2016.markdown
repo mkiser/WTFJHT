@@ -1,6 +1,12 @@
 ---
 title: Day 2016
 date: 2026-07-28 15:23:17 -07:00
+tags:
+- immigration
+- healthcare
+- covid
+- congress
+- oversight
 description: '"Just a little bit of proof."'
 image: "/uploads/day2016trump-9aab7c.jpg"
 todayInOneSentence: Kentucky Gov. Andy Beshear demanded that Mitch McConnell “directly

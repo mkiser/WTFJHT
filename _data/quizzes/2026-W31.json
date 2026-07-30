@@ -1,0 +1,176 @@
+{
+  "id": "2026-W31",
+  "week_label": "Jul 21 – Jul 30, 2026",
+  "status": "published",
+  "editions": [
+    2018,
+    2017,
+    2016,
+    2015,
+    2011,
+    2010,
+    2009
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What was the House vote on the nonbinding resolution directing Trump to end the war in Iran?",
+      "options": [
+        "198-197",
+        "203-201",
+        "209-204",
+        "214-208"
+      ],
+      "correct": 3,
+      "explanation": "The House passed the nonbinding resolution 214-208, with four House Republicans joining Democrats.",
+      "source_day": 2011,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/23/day-2011/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 2,
+      "question": "What did Dr. Anthony Fauci do during the Senate Homeland Security Committee hearing?",
+      "options": [
+        "He invoked the Fifth Amendment more than 100 times.",
+        "He admitted misleading Congress about COVID-19’s origins.",
+        "He agreed to turn over all of his private emails.",
+        "He resigned from his remaining federal advisory roles."
+      ],
+      "correct": 0,
+      "explanation": "Fauci invoked the Fifth Amendment more than 100 times during the nearly three-hour hearing, refusing to answer questions about COVID-19’s origins, government-funded research in China, school closures, and his diaries.",
+      "source_day": 2017,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/29/day-2017/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 3,
+      "question": "Roughly how many self-identified noncitizens did New Jersey remove from its voter rolls after a software error?",
+      "options": [
+        "About 1,200",
+        "About 3,400",
+        "About 6,600",
+        "About 12,000"
+      ],
+      "correct": 2,
+      "explanation": "New Jersey removed roughly 6,600 self-identified noncitizens from its voter rolls after a software error automatically registered them through the Motor Vehicle Commission.",
+      "source_day": 2009,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/21/day-2009/",
+      "difficulty": "hard",
+      "type": "numbers"
+    },
+    {
+      "number": 4,
+      "question": "Who demanded that Mitch McConnell provide proof of his capacity to serve or resign?",
+      "options": [
+        "Rand Paul",
+        "John Thune",
+        "Andy Beshear",
+        "Mike Johnson"
+      ],
+      "correct": 2,
+      "explanation": "Andy Beshear demanded that Mitch McConnell directly address Kentuckians and provide proof of his capacity to serve, or resign, after McConnell went 43 days without appearing publicly or casting a vote.",
+      "source_day": 2016,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/28/day-2016/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 5,
+      "question": "Which state’s Republicans nominated three 2020 election deniers for statewide offices involved in overseeing and certifying the 2028 presidential election?",
+      "options": [
+        "Nevada",
+        "Arizona",
+        "Georgia",
+        "Wisconsin"
+      ],
+      "correct": 1,
+      "explanation": "Arizona Republicans nominated Andy Biggs for governor, Alexander Kolodin for secretary of state, and Warren Petersen for attorney general — offices that would oversee and certify the 2028 presidential election.",
+      "source_day": 2010,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/22/day-2010/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "Which military installation did the Pentagon direct the Air Force to rename after Lindsey Graham?",
+      "options": [
+        "Fort Jackson",
+        "Joint Base Charleston",
+        "Shaw Air Force Base",
+        "Marine Corps Air Station Beaufort"
+      ],
+      "correct": 1,
+      "explanation": "The Pentagon directed the Air Force to rename Joint Base Charleston as Joint Base Lindsey Graham to honor Graham’s service in Congress and the Air Force.",
+      "source_day": 2016,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/28/day-2016/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 7,
+      "question": "What judgment did Trump ask the Supreme Court to overturn in the E. Jean Carroll case?",
+      "options": [
+        "A $5 million verdict over business fraud",
+        "A $37.5 billion war funding request",
+        "A contempt finding from Congress",
+        "An $83.3 million defamation judgment"
+      ],
+      "correct": 3,
+      "explanation": "Trump asked the Supreme Court to overturn the $83.3 million defamation judgment against him in the E. Jean Carroll case, citing the court’s 2024 presidential immunity decision.",
+      "source_day": 2017,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/29/day-2017/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "What did a federal appeals court do with Trump’s order imposing new mail-in voting restrictions?",
+      "options": [
+        "It declined to lift the injunction blocking the order.",
+        "It upheld the order in full before the midterms.",
+        "It delayed the case until after the 2028 election.",
+        "It ruled that the Postal Service could discard all disputed ballots."
+      ],
+      "correct": 0,
+      "explanation": "A federal appeals court declined to lift an injunction blocking Trump’s mail-in voting order, warning that the unprecedented federal intervention would sow confusion and threaten disenfranchisement.",
+      "source_day": 2015,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/27/day-2015/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 9,
+      "question": "Which two Republican senators demanded written guarantees before supporting Todd Blanche’s attorney general nomination?",
+      "options": [
+        "Susan Collins and John Thune",
+        "John Cornyn and Thom Tillis",
+        "Rand Paul and Tommy Tuberville",
+        "Mike Johnson and Jim Jordan"
+      ],
+      "correct": 1,
+      "explanation": "The Senate Judiciary Committee postponed its vote after John Cornyn and Thom Tillis demanded written guarantees limiting the IRS settlement protections and preventing the Anti-Weaponization Fund from being revived.",
+      "source_day": 2018,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/30/day-2018/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 10,
+      "question": "What was the U.S. economy’s annualized growth rate in the second quarter?",
+      "options": [
+        "0.9%",
+        "1.2%",
+        "1.5%",
+        "2.7%"
+      ],
+      "correct": 2,
+      "explanation": "The U.S. economy slowed to a 1.5% annualized growth rate in the second quarter, down from 2.1%.",
+      "source_day": 2018,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/07/30/day-2018/",
+      "difficulty": "medium",
+      "type": "numbers"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 ---
 title: Day 2017
 date: 2026-07-29 16:38:14 -07:00
+tags:
+- foreign-policy
+- iran
+- national-security
+- covid
+- supreme-court
 description: '"There will be repercussions."'
 image: "/uploads/day2017trump-24d215.jpg"
 todayInOneSentence: Trump threatened to “beat the fucking shit out of” Iran after

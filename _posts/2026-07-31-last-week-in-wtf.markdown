@@ -36,8 +36,8 @@ image: "/uploads/lwiwtf07200724-1a1a07.jpg"
 
 ### 📊 By the numbers.
 
-- **37% of self-identified MAGA voters say the Iran war is worth its economic costs**, down 13 points since May. Nearly one in five self-identified MAGA voters want the U.S. to end the war regardless of cost. [Politico](https://www.politico.com/news/2026/07/22/poll-maga-souring-iran-war-costs-trump-01006976)
-- **50% of registered voters say they’d support Democrats in the generic congressional ballot**, compared with 43% who would back Republicans. Among likely voters, the Democratic lead grows from 7 points to nearly 9 points. The 7-point advantage is enough to flip the House majority. [Strength in Numbers](https://www.gelliottmorris.com/p/2026-07-22-midterm-enthusiasm-gap-july-poll)
+- **37% of self-identified MAGA voters say the Iran war is worth its economic costs**, down 13 points since May. Nearly one in five self-identified MAGA voters want the U.S. to end the war regardless of cost. ([Politico](https://www.politico.com/news/2026/07/22/poll-maga-souring-iran-war-costs-trump-01006976))
+- **50% of registered voters say they’d support Democrats in the generic congressional ballot**, compared with 43% who would back Republicans. Among likely voters, the Democratic lead grows from 7 points to nearly 9 points. The 7-point advantage is enough to flip the House majority. ([Strength in Numbers](https://www.gelliottmorris.com/p/2026-07-22-midterm-enthusiasm-gap-july-poll))
 
 ### Most clicked last week.
 

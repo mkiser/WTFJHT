@@ -1,6 +1,12 @@
 ---
 title: Day 2018
 date: 2026-07-30 15:12:41 -07:00
+tags:
+- nomination
+- taxes
+- immigration
+- iran
+- economy
 description: '"Considerations."'
 image: "/uploads/day2018trump-b63447.jpg"
 todayInOneSentence: Trump threatened to temporarily withdraw Todd Blanche’s nomination

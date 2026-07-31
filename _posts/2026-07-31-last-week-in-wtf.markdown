@@ -1,37 +1,50 @@
 ---
 title: Last Week in WTF
-date: 2026-08-01 06:00:00 -07:00
+date: 2026-07-25 06:00:00 -07:00
 post_type: week-in-review
-previewText: The Trump administration asked the Supreme Court to let it impose new
-  mail-in voting…
+previewText: |-
+  Trump imposed 50% tariffs on most Canadian goods, and 10% tariffs on
+    the European Union, Canada, Mexico, and India, and 12.5% tariffs on goods from China,
+    Japan, South Korea, and dozens of other countries; the House passed a temporary
+    funding bill to avert a possible ​government shutdown ahead ​of the November midterm
+    ⁠elections; Arizona Republicans nominated three 2020 election deniers for statewide
+    offices that would be responsible for overseeing and certifying the 2028 presidential
+    election; the Justice Department submitted its first-ever application asking the
+    Alien Terrorist Removal Court to deport an unnamed noncitizen; the U.S. has reported
+    2,295 measles cases so far in 2026 – the most in 35 years and already more than
+    all of last year; House Republicans passed a $1.15 trillion defense policy bill
+    and advanced a separate $95 billion budget plan to pay for Trump’s unauthorized
+    war in Iran; the House passed a nonbinding resolution directing Trump to end the
+    war in Iran; Senate Republicans blocked a separate measure that could have required
+    Trump to seek congressional authorization or withdraw U.S. forces; Defense Secretary
+    Pete Hegseth estimated that the war with Iran has cost taxpayers $37.5 billion so
+    far; Trump used the dignified transfer of four U.S. soldiers killed in the Iran
+    war to promote his war, claiming that all four had said “we cannot let Iran have
+    a nuclear weapon”; and Bill O’Reilly suggested that Trump should “take the next
+    month off.”
 signoff: And that's what just happened last week. See you Monday.
-description: July 27-31
-image: "/uploads/lwiwtf07270731-f37dc8.jpg"
+description: July 20-24
+image: "/uploads/lwiwtf07200724-ef6162.jpg"
 ---
 
-**Last week in one sentence:** The Trump administration asked the Supreme Court to let it impose new mail-in voting restrictions in 23 states and the District of Columbia; Trump demanded that the Senate cancel its August recess until Republicans pass the SAVE America Act or eliminate the filibuster; Trump threatened to “beat the fucking shit out of” Iran; the Trump administration plans to end a $3.6 billion Medicare drug subsidy program after 2026; Kentucky Gov. Andy Beshear demanded that Mitch McConnell “directly and verbally address the people of Kentucky and provide proof of (his) capacity to serve, or resign”; Trump asked the Supreme Court to overturn the $83.3 million defamation judgment against him for defaming the writer E. Jean Carroll; and Trump threatened to temporarily withdraw Todd Blanche’s nomination for attorney general rather than accept limits on an IRS settlement that protects Trump, his family, and their businesses from tax audits.
+**Last week in one sentence:** Trump imposed 50% tariffs on most Canadian goods, and 10% tariffs on the European Union, Canada, Mexico, and India, and 12.5% tariffs on goods from China, Japan, South Korea, and dozens of other countries; the House passed a temporary funding bill to avert a possible ​government shutdown ahead ​of the November midterm ⁠elections; Arizona Republicans nominated three 2020 election deniers for statewide offices that would be responsible for overseeing and certifying the 2028 presidential election; the Justice Department submitted its first-ever application asking the Alien Terrorist Removal Court to deport an unnamed noncitizen; the U.S. has reported 2,295 measles cases so far in 2026 – the most in 35 years and already more than all of last year; House Republicans passed a $1.15 trillion defense policy bill and advanced a separate $95 billion budget plan to pay for Trump’s unauthorized war in Iran; the House passed a nonbinding resolution directing Trump to end the war in Iran; Senate Republicans blocked a separate measure that could have required Trump to seek congressional authorization or withdraw U.S. forces; Defense Secretary Pete Hegseth estimated that the war with Iran has cost taxpayers $37.5 billion so far; Trump used the dignified transfer of four U.S. soldiers killed in the Iran war to promote his war, claiming that all four had said “we cannot let Iran have a nuclear weapon”; and Bill O’Reilly suggested that Trump should “take the next month off.”
 
 ### Catch up on last week.
 
-- **Monday** — [Day 2015: "Is this supposed to be fun?"](https://whatthefuckjusthappenedtoday.com/2026/07/27/day-2015/)
-- **Tuesday** — [Day 2016: "Just a little bit of proof."](https://whatthefuckjusthappenedtoday.com/2026/07/28/day-2016/)
-- **Wednesday** — [Day 2017: "There will be repercussions."](https://whatthefuckjusthappenedtoday.com/2026/07/29/day-2017/)
-- **Thursday** — [Day 2018: "Considerations."](https://whatthefuckjusthappenedtoday.com/2026/07/30/day-2018/)
+- **Monday** — [Day 2008: “Maxed out.”](https://whatthefuckjusthappenedtoday.com/2026/07/20/day-2008/)
+- **Tuesday** — [Day 2009: “Spiraling out of control again.”](https://whatthefuckjusthappenedtoday.com/2026/07/21/day-2009/)
+- **Wednesday** — [Day 2010: “Own the chaos.”](https://whatthefuckjusthappenedtoday.com/2026/07/22/day-2010/)
+- **Thursday** — [Day 2011: “The clock is ticking.”](https://whatthefuckjusthappenedtoday.com/2026/07/23/day-2011/)
 
 ### 📊 By the numbers.
 
-- **The Federal Reserve held interest rates steady at 3.5% to 3.75%**; the economy slowed to a 1.5% annualized growth rate in the second quarter; and the Federal Reserve’s preferred inflation measure eased to 3.7% in June, but remains nearly twice the Fed’s 2% target.
-
-- **64% of Americans say the war with Iran hasn’t been worth fighting**. 60% of voters oppose U.S. military action against Iran, while 34% support it.
-
-- **32% of Americans said Trump’s One Big Beautiful Bill Act hurt their finances**, while 8% said it helped them a lot. 49%, however, said they couldn’t explain what the “One Big Beautiful Bill Act” does.
-
-- **67% of Americans say they’re concerned that political leaders will pressure election officials into changing election outcomes**, and 80% are concerned political leaders will take actions they know could be illegal.
+- **37% of self-identified MAGA voters say the Iran war is worth its economic costs**, down 13 points since May. Nearly one in five self-identified MAGA voters want the U.S. to end the war regardless of cost. ([Politico](https://www.politico.com/news/2026/07/22/poll-maga-souring-iran-war-costs-trump-01006976))
+- **50% of registered voters say they’d support Democrats in the generic congressional ballot**, compared with 43% who would back Republicans. Among likely voters, the Democratic lead grows from 7 points to nearly 9 points. The 7-point advantage is enough to flip the House majority. ([Strength in Numbers](https://www.gelliottmorris.com/p/2026-07-22-midterm-enthusiasm-gap-july-poll))
 
 ### Most clicked last week.
 
-1. **Trump administration to end Medicare premium subsidy program.** Nearly 25 million people were enrolled in standalone ​Medicare Part D drug plans in 2026. ([Reuters](https://reuters.com/legal/litigation/trump-administration-plans-end-medicare-drug-plan-subsidy-wsj-reports-2026-07-28))
-2. **Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms.** Democratic officials in 23 states and the District of Columbia sued, saying the Constitution gives states and Congress the authority to set election rules, not the president. ([Associated Press](https://apnews.com/article/trump-mail-voting-appeal-executive-order-supreme-court-5482700c21f4945d6991dff24776b525))
-3. **Trump says US will 'beat the f------ s--- out of them' after Iran launches surprise missile strike.** Trump told Fox News "we're going to beat the f---ing s--- out of them" after Iran's fired ballistic missiles at U.S. forces in Jordan in a surprise attack. ([Fox News](https://foxnews.com/politics/trump-says-us-beat-them-after-iran-launches-surprise-missile-strike))
-4. **Speak or resign: Beshear ups demand for McConnell health status.** Kentucky Gov. Andy Beshear demanded that Sen. Mitch McConnell verbally address constituents and demonstrate his ability to serve or resign his seat. ([Axios](https://axios.com/2026/07/28/mcconnell-health-update-beshear-demand-letter))
-5. **Trump says he may pull Todd Blanche's nomination until Cornyn and Tillis leave office.** Trump said Todd Blanche will remain acting attorney general as a holdup on his nomination continues. ([CBS News](https://cbsnews.com/news/trump-todd-blanche-nomination-attorney-general-cornyn-tillis))
+1. **BOOK: "Regime Change: Inside the Imperial Presidency of Donald Trump"** ([Amazon](https://amzn.to/3RLosJo))
+2. **Arizona Republicans once again nominate 2020 election deniers**. "The three top Republican candidates in the Grand Canyon State all played a key role in casting doubt on Joe Biden’s win over Donald Trump six years ago." ([Politico](https://www.politico.com/news/2026/07/22/arizona-republicans-elect-2020-deniers-trump-01007511))
+3. **Trump says he will impose tariffs on generic drugs starting in August 2028**. "If implemented, tariffs on generic drugs would be set at 100 percent and rise to 200 percent a year later." ([Politico](https://www.politico.com/news/2026/07/21/trump-says-he-will-impose-tariffs-on-generic-drugs-starting-in-august-2028-01007137))
+4. **House passes temporary government funding bill months early to avoid election season shutdown**. "The House has moved to head-off a potential government shutdown before this fall’s critical midterm elections." ([Associated Press](https://apnews.com/article/congress-budget-shutdown-house-a808a5428729a70cdc0250ab0a35611a))
+5. **U.S. measles cases hit 35-year record with months left in 2026**. "Data from Johns Hopkins University’s U.S. measles tracker shows the nation reported 2,295 cases as of Tuesday." ([Washington Post](https://www.washingtonpost.com/health/2026/07/21/us-measles-cases-hit-35-year-record-with-months-left-2026/))

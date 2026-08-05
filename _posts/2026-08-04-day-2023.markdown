@@ -1,6 +1,12 @@
 ---
 title: Day 2023
 date: 2026-08-04 16:07:14 -07:00
+tags:
+- foreign-policy
+- iran
+- tariffs
+- immigration
+- primary
 description: '"Things aren''t looking good."'
 image: "/uploads/day2023trump-66ef51.jpg"
 todayInOneSentence: 'The U.S. military has reportedly used “virtually all” of its

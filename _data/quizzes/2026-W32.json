@@ -1,0 +1,173 @@
+{
+  "id": "2026-W32",
+  "week_label": "Aug 3 – Aug 6, 2026",
+  "status": "published",
+  "editions": [
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Who won Michigan’s Democratic Senate primary?",
+      "options": [
+        "Abdul El-Sayed",
+        "Wesley Bell",
+        "Donavan McKinney",
+        "John James"
+      ],
+      "correct": 0,
+      "explanation": "Abdul El-Sayed defeated Rep. Haley Stevens in Michigan’s Democratic Senate primary and will face former Republican Rep. Mike Rogers for the seat being vacated by Sen. Gary Peters.",
+      "source_day": 2024,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/05/day-2024/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 2,
+      "question": "What did Trump say about U.S. Attorney Jeanine Pirro after she dropped the Reflecting Pool case?",
+      "options": [
+        "She “never compromised on the science”",
+        "She was “winning by 9”",
+        "She “folded like an umbrella”",
+        "She was “unlawful on its face”"
+      ],
+      "correct": 2,
+      "explanation": "Trump said Pirro was “totally wrong,” “choked,” and “folded like an umbrella” after she dropped the felony case over damage to the Lincoln Memorial Reflecting Pool.",
+      "source_day": 2024,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/05/day-2024/",
+      "difficulty": "medium",
+      "type": "quotes"
+    },
+    {
+      "number": 3,
+      "question": "What did Trump acknowledge about U.S. munitions supplies while denying that shortages were limiting his options in Iran?",
+      "options": [
+        "Some weapons were in “tighter” supply",
+        "The U.S. had run out of all Patriot interceptors",
+        "The Pentagon had fully rebuilt its stockpiles",
+        "Defense Secretary Pete Hegseth had resigned over the shortages"
+      ],
+      "correct": 0,
+      "explanation": "Trump denied that shortages were limiting his military options in Iran, but acknowledged some weapons were in “tighter” supply. Patriot interceptor and THAAD inventories have fallen sharply during the war.",
+      "source_day": 2025,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/06/day-2025/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 4,
+      "question": "Who did the Senate confirm as CDC director?",
+      "options": [
+        "Jeanine Pirro",
+        "Elaine Luria",
+        "Shannon Taylor",
+        "Erica Schwartz"
+      ],
+      "correct": 3,
+      "explanation": "Erica Schwartz was confirmed as CDC director, becoming the agency’s first permanent leader in nearly a year.",
+      "source_day": 2024,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/05/day-2024/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 5,
+      "question": "How much emergency war funding did the Pentagon ask Congress for to refill weapons stocks?",
+      "options": [
+        "$10 billion",
+        "$22 billion",
+        "$67 billion",
+        "$1.8 billion"
+      ],
+      "correct": 2,
+      "explanation": "The Pentagon was asking Congress for $67 billion in emergency war funding to refill weapons stocks, a process that could take years.",
+      "source_day": 2025,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/06/day-2025/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 6,
+      "question": "Who did the Senate Homeland Security Committee vote to hold in contempt of Congress?",
+      "options": [
+        "Robert F. Kennedy Jr.",
+        "Anthony Fauci",
+        "Rand Paul",
+        "Ron Johnson"
+      ],
+      "correct": 1,
+      "explanation": "The Senate Homeland Security Committee voted to hold Anthony Fauci in contempt of Congress after he invoked the Fifth Amendment more than 100 times and refused to answer questions about Covid-19’s origins.",
+      "source_day": 2025,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/06/day-2025/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 7,
+      "question": "What did Acting Attorney General Todd Blanche do regarding the Justice Department’s $1.8 billion “Anti-Weaponization Fund”?",
+      "options": [
+        "He formally rescinded it in a one-page order",
+        "He expanded it to cover future tax filings",
+        "He transferred it to Capital One",
+        "He asked the FCC to approve it"
+      ],
+      "correct": 0,
+      "explanation": "Acting Attorney General Todd Blanche formally rescinded the Justice Department’s $1.8 billion “Anti-Weaponization Fund,” though the underlying settlement required written agreement from all parties and his order was not signed by Trump or his lawyers.",
+      "source_day": 2022,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/03/day-2022/",
+      "difficulty": "hard",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "What did Capital One say triggered its review of more than 300 accounts linked to Trump and his businesses?",
+      "options": [
+        "A court order requiring the bank to freeze all Trump assets",
+        "A request from the BBC for Trump’s financial records",
+        "Transaction patterns reviewed by the anti-money laundering team",
+        "A new FCC rule on broadcaster ownership"
+      ],
+      "correct": 2,
+      "explanation": "Capital One said transaction patterns triggered the review, but it did not accuse the Trump Organization of money laundering.",
+      "source_day": 2022,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/03/day-2022/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 9,
+      "question": "How many states sued to block Trump’s latest tariffs and recover duties already paid?",
+      "options": [
+        "Seven states",
+        "Twelve states",
+        "Seventeen states",
+        "Twenty-five states"
+      ],
+      "correct": 3,
+      "explanation": "Twenty-five states sued to block Trump’s latest tariffs and recover duties already paid, arguing that forced-labor concerns were being used as a pretext for broad new levies.",
+      "source_day": 2023,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/04/day-2023/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 10,
+      "question": "What share of Patriot interceptors did a CSIS report estimate the U.S. had used during the war with Iran?",
+      "options": [
+        "38%",
+        "65%",
+        "75%",
+        "99%"
+      ],
+      "correct": 1,
+      "explanation": "A Center for Strategic and International Studies report estimated that the U.S. had used about 65% of its Patriot interceptors since February.",
+      "source_day": 2023,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/04/day-2023/",
+      "difficulty": "hard",
+      "type": "numbers"
+    }
+  ]
+}

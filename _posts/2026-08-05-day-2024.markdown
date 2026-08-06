@@ -1,6 +1,12 @@
 ---
 title: Day 2024
 date: 2026-08-05 17:06:00 -07:00
+tags:
+- primary
+- jan-6
+- indictment
+- foreign-policy
+- iran
 description: '"Reluctantly."'
 image: "/uploads/day2024trump-9f08eb.jpg"
 todayInOneSentence: Progressive candidates won Michigan’s Democratic Senate primary

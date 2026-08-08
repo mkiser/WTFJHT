@@ -1,0 +1,75 @@
+---
+title: Manage your WTFJHT support
+description: Manage, update, or cancel your WTFJHT membership or contribution — on Memberful, Patreon, Donorbox, or PayPal. Supporting the newsletter is separate from your email subscription.
+layout: support
+permalink: /support/
+sitemap: true
+redirect_from:
+  - /help/
+  - /manage/
+  - /manage-your-support/
+---
+
+<div class="support">
+  <header class="support-hero">
+    <h1 class="page-title support-hero__title">Manage your WTFJHT support</h1>
+    <p class="support-hero__lead">Membership and one-time contributions fund the free newsletter and keep the reporting public. Your financial support is separate from your email subscription — changing one doesn't change the other.</p>
+    <div class="support-hero__actions">
+      <a class="support-btn support-hero__btn" href="#platforms" data-support-event="known">I know where I pay</a>
+      <a class="support-btn support-btn--ghost support-hero__btn" href="/support/not-sure/" data-support-event="unsure">I'm not sure</a>
+    </div>
+    <p class="support-hero__reassure">You'll manage everything on the platform's own secure page. WTFJHT never asks for your password, full card number, or financial statements.</p>
+  </header>
+
+  <section class="support-platforms" id="platforms" aria-labelledby="platforms-heading">
+    <h2 id="platforms-heading" class="support-section__title">Choose where you pay</h2>
+    <p class="support-section__intro">Match the name on your receipt or bank statement to one of these. Most current members are on the first one.</p>
+
+    <div class="support-platform-grid">
+      {% for p in site.data.support.platforms %}
+      <article class="support-platform{% if p.isCurrentDefault %} support-platform--default{% endif %}" id="{{ p.id }}">
+        <div class="support-platform__head">
+          <h3 class="support-platform__name">{{ p.displayName }}</h3>
+          {% if p.isCurrentDefault %}
+          <span class="support-platform__badge support-platform__badge--current">Current</span>
+          {% elsif p.isLegacy %}
+          <span class="support-platform__badge support-platform__badge--legacy">Legacy</span>
+          {% endif %}
+        </div>
+
+        <p class="support-platform__desc">{{ p.description }}</p>
+
+        <div class="support-platform__block">
+          <p class="support-platform__block-label" id="{{ p.id }}-clues">You may recognize it if&hellip;</p>
+          <ul class="support-platform__list" aria-labelledby="{{ p.id }}-clues">
+            {% for clue in p.recognitionClues %}<li>{{ clue }}</li>{% endfor %}
+          </ul>
+        </div>
+
+        <div class="support-platform__block">
+          <p class="support-platform__block-label" id="{{ p.id }}-actions">What you can do there</p>
+          <ul class="support-platform__list" aria-labelledby="{{ p.id }}-actions">
+            {% for a in p.availableActions %}<li>{{ a }}</li>{% endfor %}
+          </ul>
+        </div>
+
+        <a class="support-btn support-platform__go" href="{{ p.manageUrl }}" rel="noopener" data-platform="{{ p.id }}">{{ p.manageLabel }}</a>
+        {% if p.helpUrl %}
+        <a class="support-platform__help" href="{{ p.helpUrl }}" rel="noopener" data-platform="{{ p.id }}">Step-by-step help for {{ p.displayName }}</a>
+        {% endif %}
+        <a class="support-platform__notthis" href="#platforms">Not this one? See the other platforms</a>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="support-followup" aria-labelledby="followup-heading">
+    <h2 id="followup-heading" class="support-section__title">Not sure which one charged you?</h2>
+    <p>A few quick checks usually settle it — the receipt sender, the description next to the charge, and which email you used. <a href="/support/not-sure/">Walk through the checks</a>, or send a safe support request and I'll help.</p>
+    <p><a class="support-btn support-btn--ghost" href="/support/faq/">Browse the full support FAQ</a></p>
+  </section>
+
+  <aside class="support-note" aria-label="Newsletter and membership are separate">
+    <p><strong>The newsletter is free and always will be.</strong> To start or stop the free daily email, use the <a href="/subscribe/">subscribe page</a> or the unsubscribe link at the bottom of any edition. That's separate from membership — unsubscribing does not cancel a payment, and canceling a payment does not stop the newsletter.</p>
+  </aside>
+</div>

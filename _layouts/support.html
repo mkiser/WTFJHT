@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% comment %}
+  Support portal layout. Mirrors _layouts/page.html (the .page reading column) but
+  renders {{ content }} WITHOUT the `extlinks` filter: extlinks overwrites the class
+  attribute on external <a> tags (class="external"), which would strip the styling
+  off the platform "official destination" buttons. External link target/rel are set
+  explicitly in the page markup instead (same-tab, rel="noopener").
+{% endcomment %}
+<article class="page support-page">
+  {{ content }}
+</article>

@@ -89,6 +89,8 @@ sitemap: false
       "summary": {{ summary_text | truncatewords: 60 | jsonify }},
       "date_published": "{{ post.date | date_to_xmlschema }}",
       {% if post.last_modified %}"date_modified": "{{ post.last_modified | date_to_xmlschema }}",{% endif %}
+      {% if post.onThisDaySummary and post.onThisDaySummary != '' %}"onThisDaySummary": {{ post.onThisDaySummary | jsonify }},{% endif %}
+      {% if post.onThisDayPick and post.onThisDayPick.text %}"onThisDayPick": { "date": {{ post.onThisDayPick.date | date: '%Y-%m-%d' | jsonify }}, "text": {{ post.onThisDayPick.text | jsonify }}, "url": {{ post.onThisDayPick.url | jsonify }} },{% endif %}
       "authors": [
         { "name": {{ site.author.name | jsonify }}, "url": "{{ site.url }}{{ site.baseurl }}/" }
       ],

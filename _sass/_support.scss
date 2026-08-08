@@ -1,0 +1,481 @@
+// Support portal
+//
+// "Manage your WTFJHT support" — landing router, self-diagnosis + safe form, FAQ.
+// Lives inside .page (max-width: 38rem, padding: 1rem). Stays in the WTFJHT rule set:
+// token-driven (--c-* via the $gray-*/$border-color/$body-bg mirrors), SQUARE (no radius),
+// rem type scale, system font, 2px crimson focus rings, ink-square primary buttons.
+
+.support {
+  // shares the .page reading column; per-page rhythm below
+}
+
+// ── Hero ─────────────────────────────────────────────────────
+.support-hero {
+  margin: 0 0 2.5em;
+}
+.support-hero--compact {
+  margin-bottom: 2em;
+}
+.support-breadcrumb {
+  font-size: 0.8rem; // meta stop
+  margin: 0 0 0.75em;
+
+  a { color: $gray-3; }
+}
+.support-hero__title {
+  margin: 0 0 0.4em;
+}
+.support-hero__lead {
+  font-size: 1.1rem; // prose stop
+  line-height: $line-height-relaxed;
+  color: $gray-4;
+  margin: 0 0 1.25em;
+}
+.support-hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75em;
+  margin: 0 0 1em;
+}
+.support-hero__btn {
+  flex: 1 1 14em;
+}
+.support-hero__reassure {
+  font-size: 0.9rem; // secondary stop
+  color: $gray-3;
+  margin: 0;
+}
+
+// ── Buttons — the ink square (matches .jaq-btn), token-safe ghost variant ──
+.support-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 46px;
+  padding: 0.7em 1.4em;
+  font-family: $root-font-family;
+  font-size: 1rem; // body stop (≥16px — iOS safe)
+  font-weight: 600;
+  line-height: 1.3;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #111; // ink square — CTA wears ink, not alarm red
+  border: 1px solid #111;
+  border-radius: 0;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+
+  &:hover { background-color: #fff; color: #111; }
+  &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+// Secondary — bordered, quieter than the ink square. Token-driven so it reads in both themes.
+.support-btn--ghost {
+  color: $gray-5;
+  background-color: transparent;
+  border-color: var(--c-line-strong);
+
+  &:hover { background-color: #111; color: #fff; border-color: #111; }
+}
+.support-btn--sm {
+  min-height: 44px;
+  padding: 0.5em 1em;
+  font-size: 0.9rem; // secondary stop
+}
+
+// Night printing: ink square inverts (#111 vanishes on night ground) — the footer/jaq pattern.
+[data-theme="night"] .support-btn {
+  color: #111;
+  background-color: #fff;
+  border-color: #fff;
+
+  &:hover { background-color: #cfcfcf; color: #111; }
+}
+[data-theme="night"] .support-btn--ghost {
+  color: var(--c-ink);
+  background-color: transparent;
+  border-color: var(--c-line-strong);
+
+  &:hover { background-color: #fff; color: #111; border-color: #fff; }
+}
+
+// ── Section headings ─────────────────────────────────────────
+.support-section__title {
+  font-size: 1.2rem; // heading stop
+  color: $gray-5;
+  margin: 0 0 0.5em;
+}
+.support-section__intro {
+  color: $gray-4;
+  margin: 0 0 1.5em;
+}
+
+// ── Platform cards ───────────────────────────────────────────
+.support-platforms {
+  margin: 0 0 2.5em;
+}
+.support-platform-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+.support-platform {
+  border: 1px solid var(--c-line);
+  background: $body-bg;
+  padding: 1.25em 1.25em 1.5em;
+  transition: border-color 0.15s ease;
+
+  &:hover { border-color: var(--c-line-strong); }
+}
+// Current default gets a stronger left rule — the obvious first choice.
+.support-platform--default {
+  border-left: 3px solid var(--c-ink-strong);
+}
+.support-platform__head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75em;
+  margin: 0 0 0.5em;
+}
+.support-platform__name {
+  font-size: 1.1rem; // prose stop
+  color: $gray-5;
+  margin: 0;
+}
+.support-platform__badge {
+  flex-shrink: 0;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.2em 0.5em;
+  border: 1px solid var(--c-line-strong);
+  color: $gray-3;
+  white-space: nowrap;
+}
+.support-platform__badge--current {
+  color: var(--c-bg);
+  background: var(--c-ink-strong);
+  border-color: var(--c-ink-strong);
+}
+.support-platform__desc {
+  color: $gray-4;
+  margin: 0 0 1em;
+}
+.support-platform__block {
+  margin: 0 0 1em;
+}
+.support-platform__block-label {
+  font-size: 0.8rem; // meta stop
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $gray-3;
+  margin: 0 0 0.4em;
+}
+.support-platform__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  li {
+    position: relative;
+    padding-left: 1.1em;
+    margin: 0 0 0.35em;
+    font-size: 0.9rem;
+    line-height: $line-height-snug;
+    color: $gray-4;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.55em;
+      width: 0.35em;
+      height: 0.35em;
+      background: var(--c-line-strong);
+    }
+  }
+}
+.support-platform__go {
+  // element already carries .support-btn; add layout only
+  width: 100%;
+  margin: 0.5em 0 0;
+}
+.support-platform__help {
+  display: inline-block;
+  margin: 0.85em 0 0;
+  font-size: 0.9rem; // secondary stop
+  color: $gray-4;
+}
+.support-platform__notthis {
+  display: block;
+  margin: 0.85em 0 0;
+  font-size: 0.8rem; // meta stop
+  color: $gray-3;
+}
+
+// ── Follow-up + separation note ──────────────────────────────
+.support-followup {
+  margin: 2.5em 0;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--c-line);
+}
+.support-note {
+  margin: 2em 0 0;
+  padding: 1em 1.15em;
+  background: var(--c-surface);
+  border-left: 3px solid var(--c-line-strong);
+  font-size: 0.9rem;
+  line-height: $line-height-relaxed;
+  color: $gray-4;
+
+  p { margin: 0; }
+}
+
+// ── "Not sure" steps ─────────────────────────────────────────
+.support-steps {
+  margin: 0 0 2.5em;
+}
+.support-steps__list {
+  list-style: none;
+  counter-reset: step;
+  margin: 0;
+  padding: 0;
+}
+.support-step {
+  counter-increment: step;
+  position: relative;
+  padding: 0 0 1.25em 2.75em;
+  margin: 0 0 1.25em;
+  border-bottom: 1px solid var(--c-line-light);
+
+  &::before {
+    content: counter(step);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1.9em;
+    height: 1.9em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--c-bg);
+    background: var(--c-ink-strong);
+  }
+
+  &:last-child { border-bottom: 0; margin-bottom: 0; }
+}
+.support-step__title {
+  font-size: 1.0625rem;
+  color: $gray-5;
+  margin: 0.1em 0 0.4em;
+}
+.support-step p { margin: 0 0 0.6em; }
+.support-steps__foot {
+  font-size: 0.9rem;
+  color: $gray-4;
+  margin: 0.5em 0 0;
+}
+.support-code {
+  font-family: $code-font-family;
+  font-size: 0.85em;
+  padding: 0.1em 0.35em;
+  background: var(--c-surface);
+  border: 1px solid var(--c-line);
+  color: $code-color;
+  white-space: nowrap;
+}
+
+// ── Support form ─────────────────────────────────────────────
+.support-request {
+  margin: 2.5em 0 0;
+  padding-top: 1.5em;
+  border-top: 1px solid var(--c-line);
+}
+.support-form {
+  margin-top: 1.5em;
+}
+.support-form__summary {
+  margin: 0 0 1.25em;
+  padding: 0.75em 0.9em;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--c-danger);
+  border: 1px solid var(--c-danger);
+  background: var(--c-red-wash);
+
+  &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+.support-warning {
+  margin: 0 0 1.5em;
+  padding: 0.85em 1em;
+  background: var(--c-red-wash);
+  border-left: 3px solid var(--c-danger);
+}
+.support-warning__title {
+  font-weight: 700;
+  color: var(--c-danger-deep);
+  margin: 0 0 0.25em;
+}
+.support-warning__body { margin: 0; color: $gray-5; line-height: $line-height-snug; }
+.support-req {
+  font-weight: 400;
+  font-size: 0.85rem;
+  color: var(--c-danger);
+}
+.support-fieldset {
+  margin: 0 0 1.5em;
+  padding: 1em 1.15em 0.5em;
+  border: 1px solid var(--c-line);
+}
+.support-fieldset__legend {
+  padding: 0 0.5em;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: $gray-5;
+}
+.support-fieldset__hint {
+  font-size: 0.9rem; // secondary stop
+  color: $gray-3;
+  margin: 0 0 1em;
+}
+.support-field-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1em;
+
+  .jaq-field { flex: 1 1 8em; }
+}
+.support-fallback {
+  padding: 1em;
+  background: var(--c-surface);
+  border-left: 3px solid var(--c-warning);
+  margin: 0 0 1em;
+
+  &__text { margin: 0 0 0.6em; color: $gray-5; }
+}
+.support-form__privacy {
+  font-size: 0.8rem; // meta stop
+  color: $gray-3;
+  margin: 1em 0 0;
+}
+.support-confirmation {
+  padding: 1.25em;
+  border: 1px solid var(--c-success);
+  background: var(--c-surface);
+
+  &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+.support-confirmation__title {
+  font-size: 1.1rem;
+  color: $gray-5;
+  margin: 0 0 0.5em;
+}
+.support-confirmation p { margin: 0 0 0.75em; }
+.support-confirmation__ref {
+  font-weight: 600;
+  color: $gray-5;
+}
+
+// ── FAQ ──────────────────────────────────────────────────────
+.support-faq__toc {
+  margin: 0 0 2em;
+  padding: 0 0 1.5em;
+  border-bottom: 1px solid var(--c-line);
+
+  ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em 1em;
+    margin: 0;
+    padding: 0;
+  }
+  li { margin: 0; }
+  a { font-size: 0.9rem; color: $gray-4; }
+}
+.support-faq__cat {
+  margin: 0 0 2.5em;
+}
+.support-faq__item {
+  padding: 1.1em 0;
+  border-bottom: 1px solid var(--c-line-light);
+
+  &:last-of-type { border-bottom: 0; }
+}
+.support-faq__q {
+  font-size: 1.0625rem;
+  color: $gray-5;
+  margin: 0 0 0.4em;
+}
+.support-faq__anchor {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover { color: var(--c-link); }
+  &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+.support-faq__short {
+  color: $gray-4;
+  margin: 0 0 0.5em;
+  line-height: $line-height-relaxed;
+}
+.support-faq__more {
+  margin: 0.25em 0 0;
+}
+.support-faq__summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  min-height: 44px;
+  font-size: 0.9rem; // secondary stop
+  font-weight: 600;
+  color: var(--c-link);
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+
+  &::-webkit-details-marker { display: none; }
+  &::before {
+    content: "";
+    width: 0.5em;
+    height: 0.5em;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+    transform: rotate(-45deg);
+    transition: transform 0.15s ease;
+  }
+  &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+}
+.support-faq__more[open] .support-faq__summary::before {
+  transform: rotate(45deg);
+}
+.support-faq__expanded {
+  padding: 0.75em 0 0.25em;
+  color: $gray-4;
+
+  p { margin: 0 0 0.75em; line-height: $line-height-relaxed; }
+}
+.support-faq__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 0.5em 0 0;
+}
+.support-faq__stuck {
+  margin: 1em 0 0;
+  font-size: 0.9rem; // secondary stop
+
+  a { color: $gray-4; }
+}
+
+// Reduced motion — drop the disclosure chevron + button transitions.
+@media (prefers-reduced-motion: reduce) {
+  .support-btn,
+  .support-platform,
+  .support-faq__summary::before { transition: none; }
+}

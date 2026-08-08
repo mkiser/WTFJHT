@@ -67,6 +67,11 @@ layout:
 <hr>
 {% endif %}
 
+{% if post.onThisDayPick and post.onThisDayPick.text %}
+<p><em><strong>On this day</strong>, <a href="{{ post.onThisDayPick.url }}">{{ post.onThisDayPick.date | date: "%B %-d, %Y" }}</a>: {{ post.onThisDayPick.text | smartify }}</em></p>
+<hr>
+{% endif %}
+
 {{ post.content | replace: ']]>', ']]]]><![CDATA[>' }}
 
 {% if post.years_ago_links %}

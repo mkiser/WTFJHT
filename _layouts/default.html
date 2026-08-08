@@ -88,6 +88,10 @@
     {% endif %}
     <meta property="fb:pages" content="1415262761838827" />
     <meta name="google-site-verification" content="ny31Ianz2HLvyY_ynQAoMvX8_F8asoIbuBo3PnnDbRo" />
+    {% if site.turnstile_site_key and site.turnstile_site_key != "" and site.subscribe_api and site.subscribe_api != "" %}
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+    <script src="{{ site.url }}{{ site.baseurl }}/public/js/subscribe.js" defer></script>
+    {% endif %}
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-P3G02CXQXW"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -100,7 +104,9 @@
         document.querySelectorAll('form[action*="list-manage.com/subscribe"]').forEach(function(form) {
           form.addEventListener('submit', function() {
             gtag('event', 'sign_up', {
-              method: 'newsletter'
+              // Split into the STANDARD method param on purpose: a custom param
+              // would need a dimension registered in the GA4 admin to be reportable.
+              method: /^\/unsubscribe(\/|$)/.test(window.location.pathname) ? 'newsletter-resubscribe' : 'newsletter'
             });
           });
         });
@@ -157,6 +163,33 @@
             }
           }, { threshold: 1.0 });
           readObserver.observe(sentinel);
+        }
+
+        // Support portal events (page-scoped; enums/IDs only, never PII).
+        // Form-level events (started/submitted/blocked) fire in the support page's own script.
+        if (location.pathname.indexOf('/support') === 0) {
+          if (typeof gtag === 'function') gtag('event', 'support_page_viewed');
+
+          document.querySelectorAll('[data-support-event="known"]').forEach(function(el) {
+            el.addEventListener('click', function() {
+              if (typeof gtag === 'function') gtag('event', 'support_known_platform_selected');
+            });
+          });
+          document.querySelectorAll('[data-support-event="unsure"]').forEach(function(el) {
+            el.addEventListener('click', function() {
+              if (typeof gtag === 'function') gtag('event', 'support_unsure_selected');
+            });
+          });
+          document.querySelectorAll('a[data-platform]').forEach(function(el) {
+            el.addEventListener('click', function() {
+              if (typeof gtag === 'function') gtag('event', 'support_platform_link_clicked', { platform: this.getAttribute('data-platform') });
+            });
+          });
+          document.querySelectorAll('details[data-faq-id]').forEach(function(el) {
+            el.addEventListener('toggle', function() {
+              if (this.open && typeof gtag === 'function') gtag('event', 'support_faq_expanded', { faq_id: this.getAttribute('data-faq-id') });
+            });
+          });
         }
       });
     </script>
@@ -233,6 +266,7 @@
               <li><a href="{{ site.url }}{{ site.baseurl }}/faq/">FAQ</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/corrections/">Corrections</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/membership/">Membership</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/support/">Manage Support</a></li>
               <li><a href="https://wtfjht.memberful.com/account" target="_blank" rel="noopener">Member Sign-in</a></li>
               <li><a href="https://cottonbureau.com/people/wtf-just-happened-today" target="_blank" rel="noopener">Merch</a></li>
               

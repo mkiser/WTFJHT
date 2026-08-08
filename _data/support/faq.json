@@ -1,0 +1,897 @@
+{
+  "_comment": "GENERATED from Airtable Reader FAQ (base appF0ytLnEhc5G8nl / table tblmJJH8C4yFzsAF2). Public records only: Status=\"Ready to use\" AND Confidence!=\"Low\". Internal fields (Source Gmail IDs, Source Links, Evidence Notes, Personalize, Confidence, Last Reviewed) are never exported. Do not hand-edit; regenerate from source.",
+  "generatedAt": "2026-07-17",
+  "sourceRecordCount": 56,
+  "publishedCount": 45,
+  "gatedOutCount": 11,
+  "categoryOrder": [
+    "Membership",
+    "Account",
+    "Payments and support",
+    "Newsletter delivery",
+    "Editorial",
+    "General"
+  ],
+  "questions": [
+    {
+      "id": "recAxVbkg3VR0Izem",
+      "slug": "are-the-newsletter-subscription-and-paid-membership-the-same",
+      "question": "Are the newsletter subscription and paid membership the same account?",
+      "shortAnswer": "No. The free newsletter subscription and paid membership can be maintained separately.",
+      "expandedAnswer": "The newsletter is free and open to everyone. Paid membership supports the work. Because the records are separate, you can use one email for delivery and another for membership receipts, although using the same address is usually simpler.",
+      "category": "Membership",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "subscriber vs member",
+        "different email",
+        "paid",
+        "free"
+      ],
+      "publicOrder": 1
+    },
+    {
+      "id": "recQIptqW8W9laAWf",
+      "slug": "can-i-change-my-membership-amount-or-billing-interval",
+      "question": "Can I change my membership amount or billing interval?",
+      "shortAnswer": "Yes. Reply with the plan or amount you want and the email address tied to the membership, and I can help.",
+      "expandedAnswer": "I can usually help switch an existing membership to another available monthly or annual option. Tell me the email address on the membership and the exact plan you want. I’ll confirm the requested change before making it.",
+      "category": "Membership",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "upgrade",
+        "downgrade",
+        "monthly",
+        "annual",
+        "change amount",
+        "plan"
+      ],
+      "publicOrder": 2
+    },
+    {
+      "id": "recQYfgj4TY0Uze5v",
+      "slug": "can-i-choose-a-custom-membership-amount",
+      "question": "Can I choose a custom membership amount?",
+      "shortAnswer": "Usually, yes. Use the pay-what-you-want or tip-jar options on the membership page; if the exact amount is unavailable, reply and I can help.",
+      "expandedAnswer": "Start at https://whatthefuckjusthappenedtoday.com/membership/. If the listed options do not match the amount or interval you want, tell me the exact monthly, annual, or one-time amount and the email address on your account. I may be able to configure it manually after confirming the change.",
+      "category": "Membership",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "custom amount",
+        "name a price",
+        "$8 monthly",
+        "increase pledge",
+        "unusual amount"
+      ],
+      "publicOrder": 3
+    },
+    {
+      "id": "recE8QqvQYvehwql3",
+      "slug": "can-i-pause-my-financial-support-without-losing-the",
+      "question": "Can I pause my financial support without losing the newsletter?",
+      "shortAnswer": "Yes. Stopping or pausing paid support does not remove you from the free newsletter.",
+      "expandedAnswer": "Your paid membership and free newsletter subscription are separate. You can disable renewal or cancel financial support and continue receiving the newsletter. You can re-enable support later if you choose.",
+      "category": "Membership",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "pause",
+        "cancel donation",
+        "stop renewal",
+        "keep newsletter",
+        "contribution"
+      ],
+      "publicOrder": 4
+    },
+    {
+      "id": "rec0Wr10Yl9WnOTPT",
+      "slug": "can-i-pause-my-support-instead-of-canceling-it",
+      "question": "Can I pause my support instead of canceling it?",
+      "shortAnswer": "It depends on the platform: Donorbox supports pausing; other platforms may require canceling renewal and rejoining later.",
+      "expandedAnswer": "If the recurring donation is in Donorbox, use the Donor Portal to pause and later resume it. For WTFJHT membership, Patreon, or PayPal, use the available billing controls; if there is no pause option, cancel future renewal and rejoin when ready. Canceling does not remove access to the public site.",
+      "category": "Membership",
+      "platforms": [
+        "patreon",
+        "donorbox",
+        "paypal"
+      ],
+      "keywords": [
+        "pause",
+        "resume",
+        "cancel renewal",
+        "temporary stop"
+      ],
+      "publicOrder": 5
+    },
+    {
+      "id": "rectELOOm7QpfMJIw",
+      "slug": "do-i-need-a-membership-login-to-read-wtfjht",
+      "question": "Do I need a membership login to read WTFJHT?",
+      "shortAnswer": "No. WTFJHT is free to read on the website and through the newsletter; the membership login is only for managing financial support.",
+      "expandedAnswer": "Read WTFJHT at https://whatthefuckjusthappenedtoday.com/. There is no member-only paywall required to access the publication. Use the membership account only to manage billing, payment details, or recurring support.",
+      "category": "Membership",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "access publication",
+        "login to read",
+        "paywall",
+        "member access",
+        "article access"
+      ],
+      "publicOrder": 6
+    },
+    {
+      "id": "recRBOQDdY3zoNDUD",
+      "slug": "does-becoming-a-member-automatically-subscribe-me-to-the",
+      "question": "Does becoming a member automatically subscribe me to the newsletter?",
+      "shortAnswer": "No. Paid membership and the free newsletter mailing list are separate.",
+      "expandedAnswer": "A payment receipt confirms financial support, not necessarily enrollment in the newsletter. If you paid but are not receiving editions, subscribe separately at https://whatthefuckjusthappenedtoday.com/ and complete any confirmation email. I can also check both records if you send the membership and delivery email addresses.",
+      "category": "Membership",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "paid but no emails",
+        "member not subscriber",
+        "receipt",
+        "join mailing list"
+      ],
+      "publicOrder": 7
+    },
+    {
+      "id": "recIV0LCQNZgjvfak",
+      "slug": "does-the-newsletter-cost-money",
+      "question": "Does the newsletter cost money?",
+      "shortAnswer": "No. The newsletter is free; financial support is optional.",
+      "expandedAnswer": "Anyone can subscribe to and read WTFJHT for free. Paid memberships and one-time contributions support the work and help keep it available to everyone, but payment is not required to receive the newsletter.",
+      "category": "Membership",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "free",
+        "cost",
+        "charge",
+        "price",
+        "paywall",
+        "paid subscription"
+      ],
+      "publicOrder": 8
+    },
+    {
+      "id": "recM9LH1Z8BjebeAv",
+      "slug": "how-do-i-cancel-a-legacy-patreon-paypal-or-donorbox",
+      "question": "How do I cancel a legacy Patreon, PayPal, or Donorbox contribution?",
+      "shortAnswer": "Cancel it through the platform named on the charge or original receipt; the current membership login may not control legacy contributions.",
+      "expandedAnswer": "First identify the statement descriptor and the email used on that platform. Patreon pledges must be managed through Patreon, PayPal recurring payments through PayPal, and older Donorbox arrangements through their account flow. Send the platform, charge date and amount, and all possible emails if you cannot locate it.",
+      "category": "Membership",
+      "platforms": [
+        "patreon",
+        "donorbox",
+        "paypal"
+      ],
+      "keywords": [
+        "Patreon cancel",
+        "PayPal recurring",
+        "Donorbox",
+        "legacy donation",
+        "old platform"
+      ],
+      "publicOrder": 9
+    },
+    {
+      "id": "recGiYjBhHAejb2at",
+      "slug": "how-do-i-cancel-my-paid-membership",
+      "question": "How do I cancel my paid membership?",
+      "shortAnswer": "Sign in at https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in to manage or cancel a current membership. Legacy Patreon or PayPal support must be canceled on that platform.",
+      "expandedAnswer": "Enter the email address tied to the membership at https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in and follow the emailed link. If the charge descriptor says Patreon, PayPal, or another legacy service, manage it through that platform instead. Unsubscribing from the free newsletter does not cancel financial support.",
+      "category": "Membership",
+      "platforms": [
+        "patreon",
+        "paypal",
+        "memberful",
+        "newsletter"
+      ],
+      "keywords": [
+        "cancel membership",
+        "stop payment",
+        "recurring",
+        "unsubscribe paid"
+      ],
+      "publicOrder": 10
+    },
+    {
+      "id": "recnu5tMpBH7m8HPh",
+      "slug": "how-do-i-manage-a-legacy-patreon-membership",
+      "question": "How do I manage a legacy Patreon membership?",
+      "shortAnswer": "Sign in to Patreon, open Settings, choose Memberships, and select WTFJHT to change or cancel it.",
+      "expandedAnswer": "Patreon controls its own billing. To update a payment method, use Patreon's Payment Methods settings. To cancel, open Settings, then Memberships, view the WTFJHT membership details, and follow the cancellation prompts. If Patreon used an Apple private-relay address, the account email may not match your usual address.",
+      "category": "Membership",
+      "platforms": [
+        "patreon"
+      ],
+      "keywords": [
+        "Patreon",
+        "legacy",
+        "cancel",
+        "payment method",
+        "private relay"
+      ],
+      "publicOrder": 11
+    },
+    {
+      "id": "recrJ9O1NdPrRvyWu",
+      "slug": "i-unsubscribed-from-the-newsletter-why-am-i-still-being",
+      "question": "I unsubscribed from the newsletter. Why am I still being charged?",
+      "shortAnswer": "Unsubscribing from email does not cancel paid membership; they are separate records.",
+      "expandedAnswer": "Use the account-management link in a membership receipt or sign in at https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in to cancel recurring support. If the charge is from Patreon, PayPal, or another legacy platform, it must be canceled through that platform instead.",
+      "category": "Membership",
+      "platforms": [
+        "patreon",
+        "paypal",
+        "memberful",
+        "newsletter"
+      ],
+      "keywords": [
+        "unsubscribed but charged",
+        "stopped emails",
+        "still billing",
+        "cancel support"
+      ],
+      "publicOrder": 12
+    },
+    {
+      "id": "recCJVAwSLu14goym",
+      "slug": "what-does-membership-mean-if-wtfjht-has-no-paywall-or-member",
+      "question": "What does “membership” mean if WTFJHT has no paywall or member perks?",
+      "shortAnswer": "Membership is a way to fund the work; the core site remains public and membership is not required to read it.",
+      "expandedAnswer": "WTFJHT membership is best understood as reader support and participation in sustaining the publication, not a purchase of gated content. There are no separate login-only articles implied by the term, and joining does not automatically subscribe someone to the newsletter.",
+      "category": "Membership",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "membership meaning",
+        "perks",
+        "paywall",
+        "stakeholder",
+        "public access"
+      ],
+      "publicOrder": 13
+    },
+    {
+      "id": "recQ7BAQ4tXGdNo8I",
+      "slug": "where-do-i-manage-my-current-wtfjht-membership",
+      "question": "Where do I manage my current WTFJHT membership?",
+      "shortAnswer": "Use the WTFJHT membership sign-in page: https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in",
+      "expandedAnswer": "Sign in with the email address used when you joined. From the account page you can review the membership and available billing controls. If no account appears, try other addresses you may have used or contact support with the charge details. Legacy Patreon, Donorbox, and PayPal support must be managed on those platforms.",
+      "category": "Membership",
+      "platforms": [
+        "patreon",
+        "donorbox",
+        "paypal",
+        "memberful"
+      ],
+      "keywords": [
+        "Memberful",
+        "login",
+        "sign in",
+        "current membership",
+        "manage"
+      ],
+      "publicOrder": 14
+    },
+    {
+      "id": "recH7Vd7DTtQxtFgC",
+      "slug": "how-do-i-change-the-email-address-receiving-the-newsletter",
+      "question": "How do I change the email address receiving the newsletter?",
+      "shortAnswer": "Reply with both the old and new email addresses and I can help update it.",
+      "expandedAnswer": "Send me the address currently receiving WTFJHT and the new address you want to use. If you are also a paying member, tell me whether you want the membership account changed too—the newsletter and paid membership records may be separate.",
+      "category": "Account",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "change email",
+        "update email",
+        "old address",
+        "new address"
+      ],
+      "publicOrder": 15
+    },
+    {
+      "id": "recwWu0EBXxmetqPj",
+      "slug": "how-do-i-know-which-platform-manages-my-membership-or",
+      "question": "How do I know which platform manages my membership or donation?",
+      "shortAnswer": "Check the receipt sender and the description next to the charge: it will usually identify WTFJHT/Memberful, Patreon, Donorbox, or PayPal.",
+      "expandedAnswer": "If you know the platform, use its account page to manage the payment. If you are unsure, reply with the email address or addresses you may have used, the charge date and amount, and the exact statement description. It is safe to include the last four digits of the card, but never send a full card number, expiration date, or security code.",
+      "category": "Account",
+      "platforms": [
+        "patreon",
+        "donorbox",
+        "paypal",
+        "memberful"
+      ],
+      "keywords": [
+        "which platform",
+        "statement descriptor",
+        "receipt",
+        "Memberful",
+        "Patreon",
+        "Donorbox",
+        "PayPal"
+      ],
+      "publicOrder": 16
+    },
+    {
+      "id": "recx0EVm2FEOHpWyP",
+      "slug": "how-do-i-log-in-to-my-membership-account",
+      "question": "How do I log in to my membership account?",
+      "shortAnswer": "Go to https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in and enter the email address tied to your membership.",
+      "expandedAnswer": "Use https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in and enter the email address associated with your paid membership. Follow the sign-in link sent to that address. If nothing arrives, check spam and confirm which email is actually on the account.",
+      "category": "Account",
+      "platforms": [
+        "memberful",
+        "newsletter"
+      ],
+      "keywords": [
+        "login",
+        "sign in",
+        "memberful",
+        "account",
+        "access"
+      ],
+      "publicOrder": 17
+    },
+    {
+      "id": "recJQJeqADZqrVGQ3",
+      "slug": "i-dont-know-which-email-address-i-used-for-my-membership",
+      "question": "I don't know which email address I used for my membership. What should I send you?",
+      "shortAnswer": "Send every email address you may have used, plus the charge date, amount, and statement description.",
+      "expandedAnswer": "Accounts are often under an old address, a work address, an Apple private-relay address, or a typo. Send the possible addresses and enough non-sensitive charge information to locate the account. You may include the card's last four digits. Never email the full card number, expiration date, password, or security code.",
+      "category": "Account",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "account not found",
+        "old email",
+        "work email",
+        "private relay",
+        "typo"
+      ],
+      "publicOrder": 18
+    },
+    {
+      "id": "recIbsjqsXA2wktaX",
+      "slug": "why-cant-you-find-my-membership-under-this-email-address",
+      "question": "Why can’t you find my membership under this email address?",
+      "shortAnswer": "The membership may use another personal, work, mistyped, or masked email address.",
+      "expandedAnswer": "Send every address you may have used, including old work or school accounts and Apple Hide My Email/private-relay addresses. The newsletter-delivery address may be different from the billing account. I can then identify the correct account and help consolidate or update it.",
+      "category": "Account",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "account not found",
+        "other email",
+        "work email",
+        "school email",
+        "private relay",
+        "hide my email"
+      ],
+      "publicOrder": 19
+    },
+    {
+      "id": "recYesyaEfRng7ZUN",
+      "slug": "why-didnt-my-membership-sign-in-email-arrive",
+      "question": "Why didn't my membership sign-in email arrive?",
+      "shortAnswer": "Check spam and filtered folders, confirm the email address, and request a fresh link from the WTFJHT membership sign-in page.",
+      "expandedAnswer": "Sign-in links can be delayed, filtered, blocked by a mail provider, or sent to a different address than expected. Request a new link at https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in and check all likely inboxes. If it still does not arrive, contact support with possible account addresses; do not send a password.",
+      "category": "Account",
+      "platforms": [
+        "memberful",
+        "newsletter"
+      ],
+      "keywords": [
+        "magic link",
+        "sign-in email",
+        "login email",
+        "spam",
+        "blocked",
+        "missing"
+      ],
+      "publicOrder": 20
+    },
+    {
+      "id": "rec2dAk6HRttYx6Vq",
+      "slug": "can-i-download-a-receipt-or-invoice-for-my-support",
+      "question": "Can I download a receipt or invoice for my support?",
+      "shortAnswer": "Usually yes: use the account or billing history on the platform that processed the payment, or search for its emailed receipt.",
+      "expandedAnswer": "For current WTFJHT memberships, check the membership account and receipt emails. Patreon provides billing history, Donorbox provides receipts in its Donor Portal, and PayPal records payments in Activity. If you cannot find it, send the payment date, amount, platform or statement description, and account email.",
+      "category": "Payments and support",
+      "platforms": [
+        "patreon",
+        "donorbox",
+        "paypal"
+      ],
+      "keywords": [
+        "receipt",
+        "invoice",
+        "billing history",
+        "proof of payment"
+      ],
+      "publicOrder": 21
+    },
+    {
+      "id": "recQTSEtvTZmYqHpf",
+      "slug": "can-i-make-a-one-time-contribution-instead-of-recurring",
+      "question": "Can I make a one-time contribution instead of recurring support?",
+      "shortAnswer": "Yes. One-time and recurring options are available at https://whatthefuckjusthappenedtoday.com/membership/",
+      "expandedAnswer": "The membership page includes several ways to support WTFJHT, including one-time options: https://whatthefuckjusthappenedtoday.com/membership/ If none of the listed options works for you, reply and tell me what you’re trying to do.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "one time",
+        "tip",
+        "donation",
+        "contribute",
+        "support",
+        "not recurring"
+      ],
+      "publicOrder": 22
+    },
+    {
+      "id": "recgw7EcT0NtdICkp",
+      "slug": "do-i-need-to-add-extra-money-to-cover-payment-processing",
+      "question": "Do I need to add extra money to cover payment-processing fees?",
+      "shortAnswer": "No. Send the amount you intend to contribute; WTFJHT absorbs ordinary processing fees unless a current campaign says otherwise.",
+      "expandedAnswer": "Payment processors deduct fees from contributions. You do not need to calculate or reimburse those fees. Choose the amount that is comfortable for you. This answer should be revisited if WTFJHT's published policy changes.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "processing fee",
+        "cover fees",
+        "transaction fee",
+        "net donation"
+      ],
+      "publicOrder": 23
+    },
+    {
+      "id": "rec9f0kXYsiZkh8W9",
+      "slug": "how-do-i-manage-a-legacy-donorbox-donation",
+      "question": "How do I manage a legacy Donorbox donation?",
+      "shortAnswer": "Use the Donorbox Donor Portal to review receipts and manage recurring donations.",
+      "expandedAnswer": "Donorbox's Donor Portal can update an amount or payment method and can pause, resume, or cancel a recurring plan. If the Donorbox donation was paid through PayPal, manage the recurring payment in PayPal instead.",
+      "category": "Payments and support",
+      "platforms": [
+        "donorbox",
+        "paypal"
+      ],
+      "keywords": [
+        "Donorbox",
+        "donor portal",
+        "recurring donation",
+        "pause",
+        "cancel",
+        "receipt"
+      ],
+      "publicOrder": 24
+    },
+    {
+      "id": "rec3bHR1QMKRb3c6e",
+      "slug": "how-do-i-manage-a-recurring-wtfjht-payment-in-paypal",
+      "question": "How do I manage a recurring WTFJHT payment in PayPal?",
+      "shortAnswer": "In PayPal, open Settings, Payments, then Automatic Payments and select the WTFJHT payment.",
+      "expandedAnswer": "PayPal controls PayPal automatic payments. From the merchant entry you can cancel the automatic payment or change the preferred payment method when PayPal offers that option. Canceling a newsletter does not cancel a PayPal payment.",
+      "category": "Payments and support",
+      "platforms": [
+        "paypal",
+        "newsletter"
+      ],
+      "keywords": [
+        "PayPal",
+        "automatic payment",
+        "subscription",
+        "cancel",
+        "payment method"
+      ],
+      "publicOrder": 25
+    },
+    {
+      "id": "recgtASKYgifb3d9Z",
+      "slug": "how-do-i-update-my-payment-card",
+      "question": "How do I update my payment card?",
+      "shortAnswer": "Sign in at https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in, remove the old card, and add the new one. Never email full card details.",
+      "expandedAnswer": "Enter the email address associated with the membership at https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in and follow the emailed link. Inside the account, remove the old card and add the new one. If the account cannot be found, send every email address you may have used.",
+      "category": "Payments and support",
+      "platforms": [
+        "memberful"
+      ],
+      "keywords": [
+        "card",
+        "payment method",
+        "update billing",
+        "expired card",
+        "failed payment"
+      ],
+      "publicOrder": 26
+    },
+    {
+      "id": "recTfVcq6YQ5CyaDP",
+      "slug": "i-see-two-charges-is-one-only-a-temporary-authorization",
+      "question": "I see two charges. Is one only a temporary authorization?",
+      "shortAnswer": "Compare the dates, amounts, and whether each item is pending or posted; a pending authorization may disappear, but two posted charges need investigation.",
+      "expandedAnswer": "Send a screenshot with sensitive information hidden, or list each charge's date, amount, status, and statement description. Also send possible account emails and the last four digits if useful. Do not send the full card number. If both charges are settled, support can check for duplicate accounts or payments.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "duplicate charge",
+        "pending",
+        "authorization",
+        "posted",
+        "double billing"
+      ],
+      "publicOrder": 27
+    },
+    {
+      "id": "recN2sqCtzyjarzyy",
+      "slug": "i-thought-my-payment-was-one-time-but-the-receipt-says",
+      "question": "I thought my payment was one-time, but the receipt says annual recurring. What now?",
+      "shortAnswer": "I can disable auto-renewal so the current payment remains one-time and you are not charged again.",
+      "expandedAnswer": "Send the receipt or account email and confirm that you want renewal disabled. I’ll verify the plan and turn off auto-renewal where possible. This does not affect your free newsletter subscription.",
+      "category": "Payments and support",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "thought one time",
+        "annual recurring",
+        "auto renewal",
+        "charged next year"
+      ],
+      "publicOrder": 28
+    },
+    {
+      "id": "recqLXz6oQ5RPUK9X",
+      "slug": "i-updated-my-card-how-can-i-confirm-it-worked",
+      "question": "I updated my card. How can I confirm it worked?",
+      "shortAnswer": "Sign in to check the card’s last four digits, or send me the membership email and last four digits so I can verify the account record.",
+      "expandedAnswer": "The safest confirmation is the card summary inside your membership account. If a renewal already succeeded, no further action may be necessary. Do not send the full card number or security code.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "did card update work",
+        "confirm card",
+        "renewal succeeded",
+        "last four"
+      ],
+      "publicOrder": 29
+    },
+    {
+      "id": "recHQ5qSKkTRYLDHK",
+      "slug": "i-was-charged-but-cannot-find-my-membership-or-receipt-what",
+      "question": "I was charged but cannot find my membership or receipt. What information do you need?",
+      "shortAnswer": "Send the charge date and amount plus every email address you may have used.",
+      "expandedAnswer": "Please send the amount and date of the charge, the name on the payment, and every email address you may have used. Memberships and newsletter subscriptions can be under different addresses, and even a typo can make the record difficult to locate.",
+      "category": "Payments and support",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "charged",
+        "receipt",
+        "cannot find",
+        "wrong email",
+        "typo",
+        "duplicate account"
+      ],
+      "publicOrder": 30
+    },
+    {
+      "id": "recN2zJmXO9hFOT0K",
+      "slug": "is-a-contribution-to-wtfjht-tax-deductible",
+      "question": "Is a contribution to WTFJHT tax-deductible?",
+      "shortAnswer": "No. WTFJHT is not a nonprofit, so contributions are not tax-deductible charitable donations.",
+      "expandedAnswer": "WTFJHT is an independent business, not a nonprofit organization. Membership payments, tips, and other contributions should not be treated as tax-deductible charitable donations.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "tax deductible",
+        "nonprofit",
+        "charity",
+        "donation receipt"
+      ],
+      "publicOrder": 31
+    },
+    {
+      "id": "recW9k2w6eMF9EExR",
+      "slug": "my-card-expired-or-was-replaced-what-should-i-do",
+      "question": "My card expired or was replaced. What should I do?",
+      "shortAnswer": "Sign in at https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in, remove the old card, and add the new one. Do not email card details.",
+      "expandedAnswer": "Enter the email address tied to the membership at the sign-in page and follow the emailed link. Inside the account, remove the old card and add the replacement. Some card issuers automatically update recurring merchants, so check the last four digits first if you are unsure whether the change already propagated.",
+      "category": "Payments and support",
+      "platforms": [
+        "memberful"
+      ],
+      "keywords": [
+        "expired card",
+        "replacement card",
+        "new number",
+        "fraud",
+        "update card",
+        "last four digits"
+      ],
+      "publicOrder": 32
+    },
+    {
+      "id": "recn6DaeAH6RI0xWV",
+      "slug": "should-i-send-my-credit-card-number-by-email",
+      "question": "Should I send my credit-card number by email?",
+      "shortAnswer": "No. Never send full card details by email.",
+      "expandedAnswer": "I cannot securely receive or manually enter full credit-card information from an email. Use https://membership.whatthefuckjusthappenedtoday.com/auth/sign_in to update the payment method in your account. If login fails, send only the account email, charge date and amount, and at most the card’s last four digits.",
+      "category": "Payments and support",
+      "platforms": [
+        "memberful"
+      ],
+      "keywords": [
+        "email card number",
+        "credit card details",
+        "security",
+        "last four",
+        "update payment"
+      ],
+      "publicOrder": 33
+    },
+    {
+      "id": "recWBUJhW226VRMyV",
+      "slug": "what-happens-after-a-membership-payment-fails",
+      "question": "What happens after a membership payment fails?",
+      "shortAnswer": "The payment system may retry automatically. Update the card promptly, then check whether a later attempt succeeded before creating another membership.",
+      "expandedAnswer": "A failed attempt does not always mean the membership is permanently canceled. The processor may retry the charge several times. Update the payment method through your account, wait for a success or receipt message, and avoid opening a second membership unless the original account has been identified.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "failed payment",
+        "retry",
+        "declined",
+        "past due",
+        "create another account"
+      ],
+      "publicOrder": 34
+    },
+    {
+      "id": "recpZgXCMeVmd6eFo",
+      "slug": "why-am-i-being-charged-twice",
+      "question": "Why am I being charged twice?",
+      "shortAnswer": "Duplicate charges often come from two membership accounts created under different, mistyped, or masked email addresses.",
+      "expandedAnswer": "Send the amount and date of each charge, the name on the card, and every email address you may have used—including Apple Hide My Email or another private-relay address. I’ll compare the accounts and identify which recurring membership needs to be canceled or corrected.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "double charge",
+        "duplicate charge",
+        "twice",
+        "Apple Hide My Email",
+        "private relay",
+        "two accounts"
+      ],
+      "publicOrder": 35
+    },
+    {
+      "id": "rec9I9OEFO2dMhhYJ",
+      "slug": "why-did-my-membership-renew-when-i-thought-it-was-a-one-time",
+      "question": "Why did my membership renew when I thought it was a one-time payment?",
+      "shortAnswer": "Some checkout options create an annual recurring membership. The receipt or account page should show whether renewal was enabled.",
+      "expandedAnswer": "Sign in to the platform that processed the payment and turn off future renewal if desired. Canceling renewal prevents the next charge but does not automatically reverse the current one. If the original intent was unclear, contact support with the charge date, amount, platform, and account email for review.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "unexpected renewal",
+        "annual",
+        "one-time",
+        "auto-renew",
+        "recurring"
+      ],
+      "publicOrder": 36
+    },
+    {
+      "id": "recavZC17fuUbruoK",
+      "slug": "why-am-i-still-being-charged-after-replacing-my-card",
+      "question": "Why am I still being charged after replacing my card?",
+      "shortAnswer": "Card networks may automatically pass updated card details to recurring merchants, so replacing the physical card does not always stop a subscription.",
+      "expandedAnswer": "To stop future charges, cancel the recurring membership or automatic payment on the platform that manages it. If you cannot identify the platform, send the charge date, amount, statement description, possible account emails, and optionally the last four digits—never the full card details.",
+      "category": "Payments and support",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "replacement card",
+        "card updater",
+        "recurring charge",
+        "still charged"
+      ],
+      "publicOrder": 37
+    },
+    {
+      "id": "rec1LH0JuI6O9o3dL",
+      "slug": "does-wtfjht-publish-on-weekends-or-holidays",
+      "question": "Does WTFJHT publish on weekends or holidays?",
+      "shortAnswer": "Usually not. WTFJHT generally publishes on weekdays, with occasional breaks for holidays or the production schedule.",
+      "expandedAnswer": "The newsletter is generally a weekday publication rather than a seven-day schedule. Holidays, planned breaks, or unusually light news days may affect publication. If you think you missed an edition, check the website archive before troubleshooting delivery.",
+      "category": "Newsletter delivery",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "weekend",
+        "Saturday",
+        "Sunday",
+        "holiday",
+        "no edition",
+        "schedule",
+        "publish"
+      ],
+      "publicOrder": 38
+    },
+    {
+      "id": "recHP0WM0oR5yRqZB",
+      "slug": "how-do-i-subscribe-to-the-newsletter",
+      "question": "How do I subscribe to the newsletter?",
+      "shortAnswer": "You can subscribe here: https://whatthefuckjusthappenedtoday.com/",
+      "expandedAnswer": "The newsletter is free. Enter your email address at https://whatthefuckjusthappenedtoday.com/ and follow the confirmation instructions if prompted.",
+      "category": "Newsletter delivery",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "subscribe",
+        "sign up",
+        "newsletter",
+        "join"
+      ],
+      "publicOrder": 39
+    },
+    {
+      "id": "recX5zokodWyhYdlT",
+      "slug": "how-do-i-unsubscribe-from-the-newsletter",
+      "question": "How do I unsubscribe from the newsletter?",
+      "shortAnswer": "Use the unsubscribe link at the bottom of any WTFJHT newsletter.",
+      "expandedAnswer": "There’s an unsubscribe link in every newsletter. Click it and follow the confirmation steps. If that does not work, reply with the exact email address receiving the newsletter and I can help track it down.",
+      "category": "Newsletter delivery",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "unsubscribe",
+        "stop emails",
+        "remove me"
+      ],
+      "publicOrder": 40
+    },
+    {
+      "id": "rec1nEnCFOFLZAByR",
+      "slug": "when-does-the-newsletter-arrive",
+      "question": "When does the newsletter arrive?",
+      "shortAnswer": "WTFJHT is written and sent near the end of the publishing day, usually in the afternoon Pacific time.",
+      "expandedAnswer": "The edition covers what happened that day, so it is sent later in the day rather than in the morning. The exact time can vary with the news and production schedule.",
+      "category": "Newsletter delivery",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "when",
+        "time",
+        "schedule",
+        "morning",
+        "afternoon",
+        "missing today"
+      ],
+      "publicOrder": 41
+    },
+    {
+      "id": "recaAdSIMVPQRARAo",
+      "slug": "why-am-i-not-receiving-the-newsletter",
+      "question": "Why am I not receiving the newsletter?",
+      "shortAnswer": "First, search your mailbox for matt@whatthefuckjusthappenedtoday.com and check spam, promotions, and other filtered folders.",
+      "expandedAnswer": "You may still be subscribed even when the newsletter is being filtered. Search your entire mailbox for matt@whatthefuckjusthappenedtoday.com, then check spam, promotions, and any rules or filters. Also tell me every email address you may have used so I can check the correct subscription.",
+      "category": "Newsletter delivery",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "missing",
+        "not receiving",
+        "spam",
+        "promotions",
+        "delivery",
+        "inbox"
+      ],
+      "publicOrder": 42
+    },
+    {
+      "id": "recbq3rGasvjk7mTn",
+      "slug": "how-does-wtfjht-source-its-reporting",
+      "question": "How does WTFJHT source its reporting?",
+      "shortAnswer": "WTFJHT summarizes reporting from multiple news organizations and links readers to the underlying sources so they can inspect the reporting themselves.",
+      "expandedAnswer": "The goal is a concise, sourced account of what happened—not an unsupported opinion column. Each item links to underlying reporting, often from multiple outlets, so readers can follow the evidence and read further. If you believe a specific sentence is wrong, send the edition date, the sentence, and the source you think contradicts it.",
+      "category": "Editorial",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "sources",
+        "sourcing",
+        "bias",
+        "links",
+        "evidence",
+        "trustworthy"
+      ],
+      "publicOrder": 43
+    },
+    {
+      "id": "reccP7VtEI6IEDYNT",
+      "slug": "how-do-i-report-a-correction-or-factual-error",
+      "question": "How do I report a correction or factual error?",
+      "shortAnswer": "Reply with the edition date, the exact sentence, and a link to the strongest source showing what is wrong.",
+      "expandedAnswer": "Specificity makes corrections faster. Please identify the edition, quote the relevant wording, explain the suspected error, and include a primary or authoritative source when possible. I’ll review the underlying reporting and correct the record when warranted.",
+      "category": "Editorial",
+      "platforms": [
+        "general"
+      ],
+      "keywords": [
+        "correction",
+        "factual error",
+        "typo",
+        "wrong",
+        "source",
+        "update"
+      ],
+      "publicOrder": 44
+    },
+    {
+      "id": "rec7nbwvD2ThAa3KF",
+      "slug": "can-i-share-or-forward-wtfjht-to-other-people",
+      "question": "Can I share or forward WTFJHT to other people?",
+      "shortAnswer": "Yes—please do. You can forward an edition, and anyone can subscribe free at https://whatthefuckjusthappenedtoday.com/",
+      "expandedAnswer": "WTFJHT is designed to be shared. Forward the newsletter or send the website link to friends, family, and colleagues. They can subscribe directly at https://whatthefuckjusthappenedtoday.com/",
+      "category": "General",
+      "platforms": [
+        "newsletter"
+      ],
+      "keywords": [
+        "share",
+        "forward",
+        "friend",
+        "family",
+        "colleague",
+        "gift subscription"
+      ],
+      "publicOrder": 45
+    }
+  ]
+}

@@ -156,6 +156,17 @@
       "editorsNote": {{ post.editorsNote | jsonify }},
       {%- endif -%}
 
+      {%- if post.onThisDaySummary and post.onThisDaySummary != '' -%}
+      "onThisDaySummary": {{ post.onThisDaySummary | jsonify }},
+      {%- endif -%}
+      {%- if post.onThisDayPick and post.onThisDayPick.text -%}
+      "onThisDayPick": {
+        "date": {{ post.onThisDayPick.date | date: '%Y-%m-%d' | jsonify }},
+        "text": {{ post.onThisDayPick.text | jsonify }},
+        "url": {{ post.onThisDayPick.url | jsonify }}
+      },
+      {%- endif -%}
+
       {%- if post.on_this_day_links and post.on_this_day_links.size > 0 -%}
       "onThisDay": [
         {%- for link in post.on_this_day_links -%}

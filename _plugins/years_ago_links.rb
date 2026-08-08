@@ -43,6 +43,7 @@ module Jekyll
             "direction"  => "ago",
             "title"      => match.data["title"],
             "desc"       => (match.data["description"] || "").to_s,
+            "summary"    => (match.data["onThisDaySummary"] || "").to_s,
             "url"        => match.url  # keep RELATIVE for {{ link.url | absolute_url }} in your template
           }
         end
@@ -63,6 +64,7 @@ module Jekyll
             "direction"  => "later",
             "title"      => match.data["title"],
             "desc"       => (match.data["description"] || "").to_s,
+            "summary"    => (match.data["onThisDaySummary"] || "").to_s,
             "url"        => match.url
           }
         end

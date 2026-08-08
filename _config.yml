@@ -185,3 +185,4 @@ podcast_links:
   spotify: https://open.spotify.com/show/5AjVGcr9p8LZFOjJKOw4b3
   youtube: https://www.youtube.com/@WTFJHT/podcasts
   rss: "/podcasts/index.xml"
+subscribe_api: "https://wtfjht-just-asking-questions.matt-kiser.workers.dev"

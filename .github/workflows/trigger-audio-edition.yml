@@ -1,0 +1,73 @@
+name: Trigger Audio Edition
+
+# DISABLED: manual dispatch only until the PasteUp audio endpoint + the
+# PASTEUP_AUDIO_AUTH repo secret exist. To enable, restore the push trigger:
+#   push:
+#     branches: [master]
+#     paths: ['_posts/**']
+on:
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: 'Post slug to (re)generate, e.g. day-2003'
+        required: true
+      force:
+        description: 'Force regeneration even if an identical job exists'
+        type: boolean
+        default: false
+
+jobs:
+  trigger-audio:
+    runs-on: ubuntu-latest
+    if: "github.event_name == 'workflow_dispatch' || !startsWith(github.event.head_commit.message, 'audio: publish')"
+    steps:
+      - name: Checkout repository
+        if: github.event_name == 'push'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Determine changed post slugs
+        if: github.event_name == 'push'
+        id: changed
+        run: |
+          slugs=$(git diff --name-only HEAD~1 HEAD -- _posts/ \
+            | sed -E 's#^_posts/##; s/\.(md|markdown|mdown)$//; s/^[0-9]{4}-[0-9]{2}-[0-9]{2}-//' \
+            | tr '[:upper:]' '[:lower:]' | sort -u | tr '\n' ' ')
+          echo "slugs=${slugs}" >> "$GITHUB_OUTPUT"
+          echo "Changed post slugs: ${slugs:-none}"
+
+      - name: Trigger generation (changed posts)
+        if: github.event_name == 'push' && steps.changed.outputs.slugs != ''
+        env:
+          PASTEUP_AUDIO_AUTH: ${{ secrets.PASTEUP_AUDIO_AUTH }}
+          SLUGS: ${{ steps.changed.outputs.slugs }}
+        run: |
+          for slug in $SLUGS; do
+            if ! printf '%s' "$slug" | grep -Eq '^[a-z0-9][a-z0-9-]*$'; then
+              echo "Skipping invalid slug: $slug"; continue
+            fi
+            echo "POST /api/audio/generate slug=${slug}"
+            curl --fail-with-body -sS -X POST \
+              -u "${PASTEUP_AUDIO_AUTH}" \
+              -H 'Content-Type: application/json' \
+              -d "$(printf '{"slug":"%s"}' "$slug")" \
+              https://pasteup.whatthefuckjusthappenedtoday.com/api/audio/generate
+            echo
+          done
+
+      - name: Trigger generation (manual)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          PASTEUP_AUDIO_AUTH: ${{ secrets.PASTEUP_AUDIO_AUTH }}
+          SLUG: ${{ inputs.slug }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          if ! printf '%s' "$SLUG" | grep -Eq '^[a-z0-9][a-z0-9-]*$'; then
+            echo "Invalid slug: $SLUG" >&2; exit 1
+          fi
+          curl --fail-with-body -sS -X POST \
+            -u "${PASTEUP_AUDIO_AUTH}" \
+            -H 'Content-Type: application/json' \
+            -d "$(printf '{"slug":"%s","force":%s}' "$SLUG" "${FORCE:-false}")" \
+            https://pasteup.whatthefuckjusthappenedtoday.com/api/audio/generate

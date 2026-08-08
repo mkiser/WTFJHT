@@ -93,6 +93,15 @@ layout: default
 
   {% include recent-posts.html %}
 
+  {% if page.onThisDayPick and page.onThisDayPick.text %}
+  <div class="on-this-day-pick">
+    <h3 class="on-this-day-pick__title">On this day</h3>
+    <p class="on-this-day-pick__text">
+      <a class="on-this-day-pick__link" href="{{ page.onThisDayPick.url }}">{{ page.onThisDayPick.date | date: "%B %-d, %Y" }}</a>: {{ page.onThisDayPick.text | smartify }}
+    </p>
+  </div>
+  {% endif %}
+
   {% if page.on_this_day_links and page.on_this_day_links.size > 0 %}
   <div class="historical-posts" data-on-this-day='{{ page.on_this_day_links | jsonify | xml_escape }}'>
     <h3 class="historical-posts__title">On this day</h3>
@@ -103,6 +112,7 @@ layout: default
           {% if link.direction == "ago" %}{% if link.years_ago == 1 %}1 year ago{% else %}{{ link.years_ago }} years ago{% endif %}{% elsif link.direction == "later" %}{% assign abs_years = link.years_ago | times: -1 %}{% if abs_years == 1 %}1 year later{% else %}{{ abs_years }} years later{% endif %}{% else %}{{ link.years_ago | abs }} years{% endif %}
         </span>
         <span class="historical-posts__headline">{{ link.title }}: {{ link.desc }}</span>
+        {% if link.summary and link.summary != '' %}<span class="historical-posts__summary">{{ link.summary }}</span>{% endif %}
       </a>
       {% assign otd_prev_dir = link.direction %}
     {% endfor %}

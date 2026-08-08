@@ -1,0 +1,194 @@
+---
+title: Unsubscribed
+layout: page
+description: You have been removed from the WTFJHT daily email.
+show_title: false
+sitemap: false
+noindex: true
+---
+
+{% comment %}
+  /unsubscribe/ — the post-unsubscribe landing page.
+
+  DRAFT / NOT READY TO SHIP. Every `[copy — Matt: …]` bracket below is a
+  placeholder awaiting Matt's editorial pass. Form labels and button text are
+  DRAFT functional strings, also his to edit.
+
+  Two contracts worth knowing before editing:
+
+  1. This page CANNOT verify subscription status. Mailchimp does the removal and
+     redirects here; nothing is passed to us and nothing is read back. So the
+     completed state is UNCONDITIONAL — it must never claim to have checked.
+  2. The exit form is anonymous and FIRE-AND-FORGET. No cookies, no identifiers,
+     no query-param reading. The thanks state is shown the instant submit fires,
+     before (and regardless of) the server's answer, so the page behaves the same
+     whether or not /api/unsubscribe-feedback is deployed.
+
+  POST body is { reason, kept_by?, comment? }. `reason` is always present (the
+  submit button gates on it); the two optional fields are omitted when unanswered
+  rather than sent as empty strings.
+
+  Styling is borrowed whole from _sass/_pulse.scss (.pulse-banner) and
+  _sass/_forms.scss (.jaq-*). No new stylesheet.
+
+  Internal links here must be root-relative (/subscribe/), never {{ site.url }}
+  absolute: layout: page pipes content through the extlinks filter, whose
+  rel_exclude only drops the `rel` attribute for our own domain — an absolute
+  self-link still gets target="_blank" class="external" and opens in a new tab.
+
+  Measurement: _layouts/default.html binds a GA4 `sign_up` event to every
+  form[action*="list-manage.com/subscribe"] on the page, so the resubscribe form
+  below fires it automatically. That binding reads window.location.pathname and
+  sends method='newsletter-resubscribe' here, 'newsletter' everywhere else — so
+  resubscribes off this page are separable in GA4. If this page ever moves off
+  the /unsubscribe/ path, update the test in that binding or the split goes
+  silently back to counting these as ordinary signups.
+{% endcomment %}
+
+<h1 class="page-title">[copy — Matt: page heading, e.g. the "you're unsubscribed" state in your voice]</h1>
+
+<div class="pulse-banner">
+  {% include icons.html icon="check-circle" %}
+  <span class="pulse-banner-text">[copy — Matt: one line confirming the address has been removed from the daily email. Note: this page cannot verify it actually happened, so don't let the wording promise more than "Mailchimp says it's done."]</span>
+</div>
+
+<p>[copy — Matt: the membership-separation note. The gist: unsubscribing from the free daily email is separate from a paid membership, and cancelling a membership happens at Memberful, not here. Your own phrasing of this already exists in support/index.html — reuse or rewrite as you like.] <a href="https://wtfjht.memberful.com/account" target="_blank" rel="noopener">[copy — Matt: link text for the Memberful account link]</a></p>
+
+<div id="unsub-form-section">
+  <h2 class="jaq-label" id="unsub-form-heading">Before you go</h2><!-- DRAFT -->
+  <p class="jaq-hint">[copy — Matt: one line explaining the form is optional and anonymous]</p>
+
+  <form id="unsub-form" class="jaq-form" novalidate aria-labelledby="unsub-form-heading">
+    {% comment %}
+      Option `value`s are the stable machine keys the stored data is analyzed on.
+      Change the visible label freely; changing a value splits the historical
+      series and should be a deliberate decision.
+    {% endcomment %}
+    <div class="jaq-field">
+      <label class="jaq-label" for="unsub-reason">Why did you unsubscribe?</label><!-- DRAFT -->
+      <select class="jaq-select" id="unsub-reason" name="reason">
+        <option value="" disabled selected>Choose one…</option><!-- DRAFT -->
+        <option value="too-many-emails">Too many emails</option><!-- DRAFT -->
+        <option value="news-break">Taking a break from the news</option><!-- DRAFT -->
+        <option value="stopped-reading">I stopped reading it / no time</option><!-- DRAFT -->
+        <option value="content-fit">The content wasn't for me</option><!-- DRAFT -->
+        <option value="never-signed-up">I never signed up</option><!-- DRAFT -->
+        <option value="other">Other</option><!-- DRAFT -->
+      </select>
+    </div>
+
+    <div class="jaq-field">
+      <label class="jaq-label" for="unsub-kept-by">Would any of these have kept you? (optional)</label><!-- DRAFT -->
+      <!-- Unlike Q1, this placeholder option is NOT disabled: the question is
+           optional, so a reader who picks by accident must be able to clear it. -->
+      <select class="jaq-select" id="unsub-kept-by" name="kept_by">
+        <option value="" selected>Choose one…</option><!-- DRAFT -->
+        <option value="fewer-emails">Fewer emails per week</option><!-- DRAFT -->
+        <option value="pause-2w">A two-week pause</option><!-- DRAFT -->
+        <option value="weekly-digest">A weekly digest only</option><!-- DRAFT -->
+        <option value="nothing">Nothing — I'm done</option><!-- DRAFT -->
+      </select>
+    </div>
+
+    <div class="jaq-field">
+      <label class="jaq-label" for="unsub-comment">Anything else? (optional)</label><!-- DRAFT -->
+      <textarea class="jaq-textarea" id="unsub-comment" name="comment" maxlength="2000"></textarea>
+    </div>
+
+    <div class="jaq-field">
+      <!-- Starts disabled and stays disabled without JS, matching #pulse-submit.
+           The noscript note below is the explanation for that case. -->
+      <button type="submit" class="jaq-btn" id="unsub-submit" disabled>Send</button><!-- DRAFT -->
+    </div>
+  </form>
+
+  <noscript>
+    <p class="jaq-hint">This form needs JavaScript. You are still unsubscribed either way.</p><!-- DRAFT -->
+  </noscript>
+</div>
+
+<div id="unsub-thanks" class="pulse-banner" style="display:none" role="status" aria-live="polite">
+  {% include icons.html icon="check-circle" %}
+  <span class="pulse-banner-text">[copy — Matt: short thanks-for-the-feedback line]</span>
+</div>
+
+{% comment %}
+  Resubscribe affordance. Deliberately last on the page and deliberately quiet —
+  this is not a CTA banner, and it should not grow into one.
+
+  The form is the shared _includes/email.html, reused as-is rather than
+  replicated: it is fully self-contained (.subscribe-form in _sass/_layout.scss
+  is a top-level class, not scoped to .subscribe-box or .ft-subscribe), and its
+  id_suffix parameter exists for exactly this case. The footer in
+  _layouts/default.html:252 already renders it with id_suffix="-ft" on every
+  page, so a second copy MUST pass its own suffix or the two forms collide on
+  #mce-EMAIL and the <label for> points at the wrong input.
+
+  Its visible strings ("Type your email...", "Subscribe for free", "Free. No
+  spam. Unsubscribe anytime.") are Matt's existing shipped copy, inherited from
+  the include — NOT drafted here. Editing them means editing the shared include,
+  which would also change the homepage, the footer, and /subscribe/.
+{% endcomment %}
+<p class="jaq-hint">[copy — Matt: quiet resubscribe line — deliberately subordinate, not a pitch. Sits directly above the standard signup form.]</p>
+{% include email.html id_suffix="-resub" %}
+
+<script>
+(function () {
+  var ENDPOINT = 'https://pasteup.whatthefuckjusthappenedtoday.com/api/unsubscribe-feedback';
+
+  var form = document.getElementById('unsub-form');
+  var section = document.getElementById('unsub-form-section');
+  var thanks = document.getElementById('unsub-thanks');
+  var reasonField = document.getElementById('unsub-reason');
+  var keptByField = document.getElementById('unsub-kept-by');
+  var commentField = document.getElementById('unsub-comment');
+  var submitBtn = document.getElementById('unsub-submit');
+  var sent = false;
+
+  // Q1 is the required one — gating the button on it keeps `reason` non-empty in
+  // every payload without inventing an error message, and stops an empty submit
+  // from no-opping silently. Q2 and Q3 are optional and never block.
+  function syncSubmitState() {
+    submitBtn.disabled = sent || !reasonField.value;
+  }
+  reasonField.addEventListener('change', syncSubmitState);
+  syncSubmitState();
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    if (sent) return;
+
+    var reason = reasonField.value;
+    if (!reason) return;
+    var keptBy = keptByField.value;
+    var comment = commentField.value.trim();
+
+    // Optional fields are omitted rather than sent empty, so a skipped question
+    // is absent in the stored row instead of an empty string masquerading as one.
+    var payload = { reason: reason };
+    if (keptBy) payload.kept_by = keptBy;
+    if (comment) payload.comment = comment;
+
+    sent = true;
+    submitBtn.disabled = true;
+
+    // Fire and forget. The thanks state is shown unconditionally below, so a
+    // missing endpoint, a CORS rejection, or an offline reader all look the
+    // same to the person on the page. credentials:'omit' keeps it anonymous —
+    // no cookies ride along. keepalive lets it survive an immediate navigation.
+    try {
+      fetch(ENDPOINT, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+        mode: 'cors',
+        credentials: 'omit',
+        keepalive: true
+      })['catch'](function () {});
+    } catch (err) {}
+
+    section.style.display = 'none';
+    thanks.style.display = '';
+  });
+})();
+</script>

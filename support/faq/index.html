@@ -1,0 +1,78 @@
+---
+title: WTFJHT support FAQ
+description: Answers to common questions about WTFJHT membership, payments, receipts, your account, and newsletter delivery — with links to manage or cancel on each platform.
+layout: support
+permalink: /support/faq/
+sitemap: true
+---
+
+<div class="support support-faq">
+  <header class="support-hero support-hero--compact">
+    <p class="support-breadcrumb"><a href="/support/">&larr; Manage your support</a></p>
+    <h1 class="page-title support-hero__title">Support FAQ</h1>
+    <p class="support-hero__lead">Answers to the questions readers ask most about membership, payments, accounts, and delivery. Short answer first — open “More detail” for the full explanation. Still stuck? <a href="/support/not-sure/#support-request">Send a support request</a>.</p>
+  </header>
+
+  {% comment %}Category anchor nav — jump links, works with no JS.{% endcomment %}
+  <nav class="support-faq__toc" aria-label="FAQ categories">
+    <ul>
+      {% for cat in site.data.support.faq.categoryOrder %}
+      <li><a href="#cat-{{ cat | slugify }}">{{ cat }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  {% for cat in site.data.support.faq.categoryOrder %}
+  <section class="support-faq__cat" id="cat-{{ cat | slugify }}" aria-labelledby="cat-{{ cat | slugify }}-h">
+    <h2 id="cat-{{ cat | slugify }}-h" class="support-section__title">{{ cat }}</h2>
+
+    {% assign items = site.data.support.faq.questions | where: "category", cat %}
+    {% for q in items %}
+    <article class="support-faq__item" id="{{ q.slug }}">
+      <h3 class="support-faq__q">
+        <a class="support-faq__anchor" href="#{{ q.slug }}" aria-label="Link to this question">{{ q.question }}</a>
+      </h3>
+      <p class="support-faq__short">{{ q.shortAnswer }}</p>
+
+      <details class="support-faq__more" data-faq-id="{{ q.slug }}">
+        <summary class="support-faq__summary">More detail</summary>
+        <div class="support-faq__expanded">
+          <p>{{ q.expandedAnswer }}</p>
+
+          {% assign hasAction = false %}
+          {% for plat in q.platforms %}
+          {% assign pf = site.data.support.platforms | where: "id", plat | first %}
+          {% if pf %}{% assign hasAction = true %}{% endif %}
+          {% endfor %}
+          {% if hasAction %}
+          <div class="support-faq__actions">
+            {% for plat in q.platforms %}
+            {% assign pf = site.data.support.platforms | where: "id", plat | first %}
+            {% if pf %}
+            <a class="support-btn support-btn--sm" href="{{ pf.manageUrl }}" rel="noopener" data-platform="{{ pf.id }}">{{ pf.manageLabel }}</a>
+            {% endif %}
+            {% endfor %}
+          </div>
+          {% endif %}
+        </div>
+      </details>
+    </article>
+    {% endfor %}
+
+    {% comment %}Per-category "still stuck" — preserves non-sensitive category context.{% endcomment %}
+    {% case cat %}
+      {% when 'Membership' %}{% assign param = 'manage_cancel' %}
+      {% when 'Account' %}{% assign param = 'find_account' %}
+      {% when 'Payments and support' %}{% assign param = 'payments' %}
+      {% when 'Newsletter delivery' %}{% assign param = 'newsletter' %}
+      {% else %}{% assign param = 'other' %}
+    {% endcase %}
+    <p class="support-faq__stuck"><a href="/support/not-sure/?category={{ param }}#support-request">Still stuck on {{ cat | downcase }}? Send a support request &rarr;</a></p>
+  </section>
+  {% endfor %}
+
+  <section class="support-followup" aria-labelledby="faq-foot-heading">
+    <h2 id="faq-foot-heading" class="support-section__title">Didn't find your answer?</h2>
+    <p>Head back to <a href="/support/">Manage your support</a> to reach your platform directly, or <a href="/support/not-sure/#support-request">send a safe support request</a> and I'll help.</p>
+  </section>
+</div>

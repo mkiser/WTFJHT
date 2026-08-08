@@ -1,16 +1,16 @@
 name: Build and Deploy WTF Just Happened Today? Jekyll Site
 
+run-name: ${{ github.event_name == 'repository_dispatch' && format('publish-due-post {0} {1}', github.event.client_payload.post_path, github.event.client_payload.request_id) || '' }}
+
 on:
   push:
     branches:
       - master
+  repository_dispatch:
+    types: [publish_due_post]
   schedule:
-    # Nightly tag-page refresh (sets BUILD_TAG_PAGES=true): runs after the
-    # ~07:15 UTC nightly tagger commit so new tags get pages same-day. Publish
-    # builds skip tag generation entirely; S3 retains the previously deployed
-    # pages between refreshes (the deploy never deletes).
     - cron: '45 7 * * *'
-  workflow_dispatch:  # allow manual triggering
+  workflow_dispatch:  
     inputs:
       incremental:
         description: 'Data-only refresh: skip the search-index + leaderboard rebuild (used by the corrections / tag-page auto-commit workflows, whose GITHUB_TOKEN pushes cannot trigger this workflow directly).'
@@ -48,6 +48,11 @@ jobs:
             else
               echo "full_build=true" >> "$GITHUB_OUTPUT"
             fi
+          elif [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            # PasteUp's future-post publish trigger: a post is entering the
+            # site for the first time, so run the full build (search index +
+            # leaderboard) — same treatment as a _posts/ push.
+            echo "full_build=true" >> "$GITHUB_OUTPUT"
           elif [ "${{ github.event_name }}" = "schedule" ]; then
             # Nightly tag-page refresh: post content is unchanged since the
             # tagger's own push build — skip the heavy search/leaderboard rebuild.

@@ -5,7 +5,6 @@
       <input type="email" value="" name="EMAIL" class="subscribe-form__input" id="mce-EMAIL{{ sfx }}" placeholder="Type your email..." autocomplete="email" required>
       <input type="submit" value="Subscribe for free" name="subscribe" id="mc-embedded-subscribe{{ sfx }}" class="subscribe-form__button">
     </div>
-    {% comment %} Honeypots: "website" matches the subscribe worker's check; the b_ field is Mailchimp's own canonical embed bot-trap for the legacy path. Bots fill them, humans never see them. {% endcomment %}
     <div style="position:absolute;left:-5000px;" aria-hidden="true">
       <input type="text" name="website" tabindex="-1" value="" autocomplete="off">
       <input type="text" name="b_104aa3abb9fec8b4d037ed51d_9813b73b1a" tabindex="-1" value="" autocomplete="off">
@@ -13,6 +12,6 @@
     {% if site.turnstile_site_key and site.turnstile_site_key != "" and site.subscribe_api and site.subscribe_api != "" %}
     <div class="cf-turnstile" data-sitekey="{{ site.turnstile_site_key }}" data-appearance="interaction-only" data-response-field-name="cf-turnstile-response"></div>
     {% endif %}
-    <p class="subscribe-form__trust">Free. No spam. Unsubscribe anytime.</p>
+    <p class="subscribe-form__trust" role="status" aria-live="polite">Free. No spam. Unsubscribe anytime.</p>
   </form>
 </div>

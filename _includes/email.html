@@ -10,7 +10,7 @@
       <input type="text" name="b_104aa3abb9fec8b4d037ed51d_9813b73b1a" tabindex="-1" value="" autocomplete="off">
     </div>
     {% if site.turnstile_site_key and site.turnstile_site_key != "" and site.subscribe_api and site.subscribe_api != "" %}
-    <div class="cf-turnstile" data-sitekey="{{ site.turnstile_site_key }}" data-appearance="interaction-only" data-response-field-name="cf-turnstile-response"></div>
+    <div class="cf-turnstile" data-sitekey="{{ site.turnstile_site_key }}" data-appearance="interaction-only" data-execution="execute" data-callback="wtfjhtSubscribeToken" data-error-callback="wtfjhtSubscribeError" data-response-field-name="cf-turnstile-response"></div>
     {% endif %}
     <p class="subscribe-form__trust" role="status" aria-live="polite">Free. No spam. Unsubscribe anytime.</p>
   </form>

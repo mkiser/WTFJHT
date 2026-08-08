@@ -2,7 +2,7 @@
   'use strict';
 
   var TURNSTILE_SRC = 'https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit';
-  var SUCCESS_URL = '/almost/';
+  var SUCCESS_URL = '/whitelist/?ref=success';
   var READY_POLL_MS = 100;
   var READY_POLL_TRIES = 100;
   var SUBMIT_WAIT_MS = 4000;

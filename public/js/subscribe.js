@@ -130,7 +130,8 @@
         email: email,
         turnstile: token,
         website: honeypot ? honeypot.value : '',
-        _rendered: rendered ? rendered.value : ''
+        _rendered: rendered ? rendered.value : '',
+        page: window.location.pathname
       })
     }).then(function (res) {
       if (!res.ok) throw new Error('subscribe worker HTTP ' + res.status);

@@ -1,6 +1,12 @@
 ---
 title: Day 2033
 date: 2026-08-14 14:17:26 -07:00
+tags:
+- healthcare
+- immigration
+- executive-order
+- national-security
+- sanctions
 description: '"I didn''t really ask too much about it."'
 image: "/uploads/day2033trump-cdd0f1.jpg"
 todayInOneSentence: Trump signed an executive order to scale back the federal childhood

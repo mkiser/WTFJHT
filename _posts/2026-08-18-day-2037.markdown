@@ -1,6 +1,12 @@
 ---
 title: Day 2037
 date: 2026-08-18 15:10:29 -07:00
+tags:
+- foreign-policy
+- climate
+- media
+- ethics
+- voting-rights
 description: '"Open and operating."'
 image: "/uploads/day2037trump-3cb40c.jpg"
 todayInOneSentence: Trump posted a map of the Strait of Hormuz that was labeled as

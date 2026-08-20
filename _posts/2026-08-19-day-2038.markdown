@@ -1,6 +1,12 @@
 ---
 title: Day 2038
 date: 2026-08-19 15:24:21 -07:00
+tags:
+- tariffs
+- primary
+- midterm-election
+- north-korea
+- nomination
 description: '"National security is not my thing."'
 image: "/uploads/day2038trump-c26f2b.jpg"
 todayInOneSentence: Trump paused his 50% tariffs on about $20 billion of Canadian

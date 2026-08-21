@@ -1,0 +1,254 @@
+{
+  "id": "2026-W34",
+  "week_label": "Aug 14 – Aug 20, 2026",
+  "status": "published",
+  "editions": [
+    2039,
+    2038,
+    2037,
+    2036,
+    2033
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Who rejected Trump’s threat to declare the Strait of Hormuz U.S. territory by saying it “will only be opened and closed under Iran’s command”?",
+      "options": [
+        "Supreme Leader Ali Khamenei",
+        "Foreign Minister Abbas Araghchi",
+        "President Masoud Pezeshkian",
+        "Deputy Foreign Minister Kazem Gharibabadi"
+      ],
+      "correct": 3,
+      "explanation": "Deputy Foreign Minister Kazem Gharibabadi said the waterway “will only be opened and closed under Iran’s command” and rejected the idea that the strait could be seized by tweet, aircraft carrier, order, or election speech.",
+      "source_day": 2036,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/17/day-2036/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 2,
+      "question": "What did the Census Bureau’s unsigned analysis claim about the 2020 election?",
+      "options": [
+        "That Social Security numbers proved widespread fraud",
+        "That 24,000 noncitizens voted",
+        "That 128 million noncitizens were registered to vote",
+        "That noncitizen voters gave Trump the popular vote"
+      ],
+      "correct": 1,
+      "explanation": "The unsigned analysis claimed that 24,000 noncitizens voted in 2020, but it relied on an incomplete commercial voter file that did not include Social Security numbers and did not identify which candidates the alleged voters supported.",
+      "source_day": 2039,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/20/day-2039/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 3,
+      "question": "Why did U.S. Customs and Border Protection pause border security construction in Big Bend National Park?",
+      "options": [
+        "A federal judge permanently blocked all patrol roads and vehicle barriers in the park",
+        "The Forest Service determined the park’s terrain could not support any road construction",
+        "Commissioner Rodney Scott ordered a pause for a personal evaluation and meetings with local officials and stakeholders after opposition, protests, and lawsuits",
+        "Congress passed a law banning construction in all national parks along the border"
+      ],
+      "correct": 2,
+      "explanation": "CBP Commissioner Rodney Scott paused construction until he could conduct a personal evaluation and meet with local officials, law enforcement, and stakeholders. The project had drawn bipartisan opposition, protests, and lawsuits over work in the protected landscape.",
+      "source_day": 2037,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/18/day-2037/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 4,
+      "question": "What did Trump do with his 50% tariffs on about $20 billion of Canadian goods?",
+      "options": [
+        "Raised them to 75% after talks with Canada collapsed",
+        "Permanently canceled them after Canada confirmed all U.S. demands",
+        "Expanded them to cover all Canadian imports for the rest of the year",
+        "Paused them for three days while claiming the U.S. and Canada had a deal"
+      ],
+      "correct": 3,
+      "explanation": "Trump paused the 50% tariffs on about $20 billion of Canadian goods for three days and claimed the U.S. and Canada “have a DEAL!” Prime Minister Mark Carney said only that substantial progress had been made and important work remained.",
+      "source_day": 2038,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/19/day-2038/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "What did the 5th U.S. Circuit Court of Appeals do with a challenge to Trump’s use of the Alien Enemies Act?",
+      "options": [
+        "Ordered the government to return the deported plaintiffs to the United States",
+        "Dismissed it as moot because the named plaintiffs had already been deported under other immigration laws",
+        "Ruled that all removals under the act could resume immediately",
+        "Found that the Alien Enemies Act was unconstitutional in all immigration cases"
+      ],
+      "correct": 1,
+      "explanation": "The appeals court dismissed the challenge as moot because the administration had already deported the three named plaintiffs under other immigration laws. The Supreme Court’s injunction blocking removals under the act remained in place while other challenges could proceed.",
+      "source_day": 2033,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/14/day-2033/",
+      "difficulty": "hard",
+      "type": "consequence"
+    },
+    {
+      "number": 6,
+      "question": "Who upset Alex Vindman for the Democratic Senate nomination in Florida?",
+      "options": [
+        "Debbie Wasserman Schultz",
+        "Mary Peltola",
+        "Angie Nixon",
+        "Ashley Moody"
+      ],
+      "correct": 2,
+      "explanation": "Democratic socialist state Rep. Angie Nixon defeated the far better-funded Alex Vindman for Florida’s Democratic Senate nomination and will face Republican Sen. Ashley Moody.",
+      "source_day": 2038,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/19/day-2038/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 7,
+      "question": "How much does ICE plan to spend in a no-bid contract on electric shock gloves?",
+      "options": [
+        "$464 million",
+        "$400 million",
+        "Up to $20 million",
+        "$1 trillion"
+      ],
+      "correct": 2,
+      "explanation": "ICE plans to spend up to $20 million on thousands of CTG-5 G.L.O.V.E. devices for immigration enforcement and criminal investigative officers.",
+      "source_day": 2033,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/14/day-2033/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 8,
+      "question": "What did Trump threaten to do to Oman if it “gets in the way” of U.S. efforts in the Strait of Hormuz?",
+      "options": [
+        "Expel its diplomats from Washington",
+        "Block its ships from entering U.S. ports",
+        "“Bomb the shit out of” it",
+        "Impose a 50% tariff on its exports"
+      ],
+      "correct": 2,
+      "explanation": "Trump threatened to “bomb the shit out of” Oman after Iran said it had reached an understanding with Oman on a route map for ships through the Strait of Hormuz.",
+      "source_day": 2036,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/17/day-2036/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 9,
+      "question": "What milestone did U.S. debt reach for the first time?",
+      "options": [
+        "It topped $11.6 trillion",
+        "It topped $20 trillion",
+        "It topped $432.3 billion",
+        "It topped $40 trillion"
+      ],
+      "correct": 3,
+      "explanation": "The Treasury Department said total public debt outstanding reached $40.047 trillion, more than double the level from a decade earlier.",
+      "source_day": 2039,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/20/day-2039/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 10,
+      "question": "What label appeared on the map of the Strait of Hormuz that Trump posted?",
+      "options": [
+        "“new U.S. territory”",
+        "“Iranian blockade zone”",
+        "“international waters only”",
+        "“temporary naval corridor”"
+      ],
+      "correct": 0,
+      "explanation": "Trump posted a map of the Strait of Hormuz that was labeled “new U.S. territory,” while also claiming the waterway was open and operating.",
+      "source_day": 2037,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/18/day-2037/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 11,
+      "question": "What did Trump’s executive order do to the federal childhood vaccine schedule?",
+      "options": [
+        "Require all states to mandate the combined MMR vaccine before kindergarten",
+        "End federal recommendations for routine childhood vaccination against all diseases",
+        "Approve new individual measles, mumps, and rubella vaccines for immediate use",
+        "Split the measles, mumps, and rubella vaccine into three shots and spread childhood immunizations across separate visits"
+      ],
+      "correct": 3,
+      "explanation": "The order split the MMR vaccine into three shots, spread childhood immunizations across separate doctor visits, recommended routine vaccination against 11 diseases, and directed the Justice Department to challenge some state vaccination laws.",
+      "source_day": 2033,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/14/day-2033/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 12,
+      "question": "What nickname has Natalie Harp reportedly earned because she follows Trump with physical copies of news and social media posts?",
+      "options": [
+        "“human printer”",
+        "“Oval courier”",
+        "“rapid response”",
+        "“shadow chief”"
+      ],
+      "correct": 0,
+      "explanation": "Natalie Harp has been nicknamed the “human printer” because she follows Trump around with physical copies of news and social media posts. She works just outside the Oval Office and helps draft and publish Trump’s Truth Social posts.",
+      "source_day": 2038,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/19/day-2038/",
+      "difficulty": "hard",
+      "type": "quote"
+    },
+    {
+      "number": 13,
+      "question": "What did the Supreme Court do with Trump’s effort to overturn the $5 million E. Jean Carroll verdict?",
+      "options": [
+        "Rejected his request to reconsider its refusal to hear his appeal",
+        "Reduced the verdict to $1 million",
+        "Agreed to hear the appeal during its next term",
+        "Sent the case back for a new trial"
+      ],
+      "correct": 0,
+      "explanation": "The Supreme Court rejected Trump’s request to reconsider its earlier refusal to hear his appeal, leaving the 2023 verdict intact.",
+      "source_day": 2036,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/17/day-2036/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 14,
+      "question": "What did ABC and Disney sue the FCC to block?",
+      "options": [
+        "A fine over Jimmy Kimmel’s joke about Melania Trump",
+        "An early review of eight ABC broadcast licenses",
+        "A ban on airing Trump’s Oval Office addresses",
+        "A requirement that Disney end all diversity programming"
+      ],
+      "correct": 1,
+      "explanation": "ABC and Disney sued to block the FCC’s early review of eight ABC broadcast licenses, calling the review an “existential threat.” The review followed Trump’s attack on ABC and call for Jimmy Kimmel to be fired.",
+      "source_day": 2037,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/18/day-2037/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 15,
+      "question": "What warning did Senate Republicans give AI companies about data center backlash?",
+      "options": [
+        "It could force Congress to ban all new data centers nationwide",
+        "It could cost Republicans an Ohio Senate seat if Democrats successfully blame data centers for local concerns",
+        "It could cause Sen. Jon Husted to switch parties before the election",
+        "It could make the National Republican Senatorial Committee endorse Democrats in Ohio"
+      ],
+      "correct": 1,
+      "explanation": "A National Republican Senatorial Committee memo warned that Democrats had made data centers a centerpiece of their campaign against Sen. Jon Husted and that a loss blamed on data centers could scare politicians away from future projects.",
+      "source_day": 2039,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/20/day-2039/",
+      "difficulty": "medium",
+      "type": "consequence"
+    }
+  ]
+}

@@ -1,6 +1,12 @@
 ---
 title: Day 2039
 date: 2026-08-20 17:58:57 -07:00
+tags:
+- economy
+- sanctions
+- iran
+- census
+- tech-policy
 description: '"We get the best stuff."'
 image: "/uploads/day2039trump-8f3137.jpg"
 todayInOneSentence: U.S. debt topped $40 trillion for the first time; Trump threatened

@@ -1,6 +1,12 @@
 ---
 title: Day 2045
 date: 2026-08-26 15:31:55 -07:00
+tags:
+- voting-rights
+- elections
+- lawsuit
+- economy
+- foreign-policy
 description: '"The solution is relatively simple."'
 image: "/uploads/day2045trump-338a20.jpg"
 todayInOneSentence: 'A federal judge lifted the final nationwide injunction blocking

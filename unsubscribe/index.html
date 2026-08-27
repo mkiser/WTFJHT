@@ -36,13 +36,15 @@ noindex: true
   rel_exclude only drops the `rel` attribute for our own domain — an absolute
   self-link still gets target="_blank" class="external" and opens in a new tab.
 
-  Measurement: _layouts/default.html binds a GA4 `sign_up` event to every
-  form[action*="list-manage.com/subscribe"] on the page, so the resubscribe form
-  below fires it automatically. That binding reads window.location.pathname and
-  sends method='newsletter-resubscribe' here, 'newsletter' everywhere else — so
-  resubscribes off this page are separable in GA4. If this page ever moves off
-  the /unsubscribe/ path, update the test in that binding or the split goes
-  silently back to counting these as ordinary signups.
+  Measurement: the resubscribe form below fires a GA4 `sign_up` event
+  automatically. The Turnstile worker path in public/js/subscribe.js fires it on
+  a confirmed subscribe; the binding in _layouts/default.html fires it on intent
+  for any submit the worker path did not intercept. Both read
+  window.location.pathname and send method='newsletter-resubscribe' here,
+  'newsletter' everywhere else — so resubscribes off this page are separable in
+  GA4. If this page ever moves off the /unsubscribe/ path, update the test in
+  BOTH files or the split goes silently back to counting these as ordinary
+  signups.
 {% endcomment %}
 
 <h1 class="page-title">[copy — Matt: page heading, e.g. the "you're unsubscribed" state in your voice]</h1>

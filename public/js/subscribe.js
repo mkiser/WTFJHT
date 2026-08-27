@@ -141,6 +141,14 @@
       if (data && data.reject === true) {
         showReject(form, data.suggestion);
       } else if (data && data.ok === true) {
+        // _layouts/default.html deliberately skips its intent-based sign_up for
+        // worker-handled forms, so the confirmed subscribe is counted here. Keep
+        // the event name and the method split identical to that binding.
+        if (typeof gtag === 'function') {
+          gtag('event', 'sign_up', {
+            method: /^\/unsubscribe(\/|$)/.test(window.location.pathname) ? 'newsletter-resubscribe' : 'newsletter'
+          });
+        }
         window.location.assign(SUCCESS_URL);
       } else {
         fallbackToLegacy(form);

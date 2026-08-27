@@ -1,0 +1,32 @@
+# Dependabot version updates.
+#
+# This file alone does not enable vulnerability alerts — Dependabot alerts
+# (and, separately, Dependabot security updates) must also be turned on in
+# the repository settings on GitHub (Settings → Code security). That is an
+# operator action outside this file.
+version: 2
+
+updates:
+  # Ruby gems (Gemfile / Gemfile.lock — Jekyll and its plugins).
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    groups:
+      bundler-minor-patch:
+        update-types:
+          - "minor"
+          - "patch"
+
+  # GitHub Actions used by the workflows in .github/workflows/.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    groups:
+      actions-minor-patch:
+        update-types:
+          - "minor"
+          - "patch"

@@ -101,7 +101,12 @@
     <script>
       document.addEventListener('DOMContentLoaded', function() {
         document.querySelectorAll('form[action*="list-manage.com/subscribe"]').forEach(function(form) {
-          form.addEventListener('submit', function() {
+          form.addEventListener('submit', function(event) {
+            // public/js/subscribe.js preventDefaults this submit and fires sign_up
+            // itself once the worker confirms the address, so counting here too
+            // would count the addresses the worker rejects. Anything that still
+            // posts natively to Mailchimp is counted here, on intent.
+            if (event.defaultPrevented) return;
             gtag('event', 'sign_up', {
               // Split into the STANDARD method param on purpose: a custom param
               // would need a dimension registered in the GA4 admin to be reportable.

@@ -1,6 +1,11 @@
 ---
 title: Day 2046
 date: 2026-08-27 16:24:13 -07:00
+tags:
+- foreign-policy
+- national-security
+- russia
+- immigration
 description: '"Nothing unusual."'
 image: "/uploads/day2046trump-962572.jpg"
 todayInOneSentence: CIA Director John Ratcliffe warned Russian officials to not attack

@@ -169,32 +169,6 @@
           readObserver.observe(sentinel);
         }
 
-        // Support portal events (page-scoped; enums/IDs only, never PII).
-        // Form-level events (started/submitted/blocked) fire in the support page's own script.
-        if (location.pathname.indexOf('/support') === 0) {
-          if (typeof gtag === 'function') gtag('event', 'support_page_viewed');
-
-          document.querySelectorAll('[data-support-event="known"]').forEach(function(el) {
-            el.addEventListener('click', function() {
-              if (typeof gtag === 'function') gtag('event', 'support_known_platform_selected');
-            });
-          });
-          document.querySelectorAll('[data-support-event="unsure"]').forEach(function(el) {
-            el.addEventListener('click', function() {
-              if (typeof gtag === 'function') gtag('event', 'support_unsure_selected');
-            });
-          });
-          document.querySelectorAll('a[data-platform]').forEach(function(el) {
-            el.addEventListener('click', function() {
-              if (typeof gtag === 'function') gtag('event', 'support_platform_link_clicked', { platform: this.getAttribute('data-platform') });
-            });
-          });
-          document.querySelectorAll('details[data-faq-id]').forEach(function(el) {
-            el.addEventListener('toggle', function() {
-              if (this.open && typeof gtag === 'function') gtag('event', 'support_faq_expanded', { faq_id: this.getAttribute('data-faq-id') });
-            });
-          });
-        }
       });
     </script>
 
@@ -270,7 +244,6 @@
               <li><a href="{{ site.url }}{{ site.baseurl }}/faq/">FAQ</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/corrections/">Corrections</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/membership/">Membership</a></li>
-              <li><a href="{{ site.url }}{{ site.baseurl }}/support/">Manage Support</a></li>
               <li><a href="https://wtfjht.memberful.com/account" target="_blank" rel="noopener">Member Sign-in</a></li>
               <li><a href="https://cottonbureau.com/people/wtf-just-happened-today" target="_blank" rel="noopener">Merch</a></li>
               

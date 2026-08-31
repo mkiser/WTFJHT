@@ -1,8 +1,3 @@
-# Generates /corrections/<year>/ pages from _data/corrections.json and
-# enriches each entry with its post's real URL (resolved from site.posts —
-# never constructed by hand). Pages set sitemap: false (jekyll-sitemap honors it).
-# Data contract: scripts/generate_corrections.py.
-
 module Jekyll
   class CorrectionsYearPage < PageWithoutAFile
     def initialize(site, year)

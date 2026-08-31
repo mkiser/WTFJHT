@@ -4,6 +4,10 @@ date: 2017-01-20 21:54:00 -08:00
 image: "/uploads/og-image.jpg"
 layout: page
 show_title: false
+redirect_from:
+  - /help/
+  - /manage/
+  - /manage-your-support/
 ---
 
 <h1 class="page-title">Who The F*ck Supports This?</h1>
@@ -100,25 +104,33 @@ show_title: false
 	<li>"Terrific daily digest. Exemplary news curation. Highly recommended." </li>
 </ul>
 
-<div class="membership-faq">
+<div class="membership-faq" id="faq">
 <h2 class="faq-header">Frequently Asked Questions</h2>
 <div class="faq-content">
 
-<p><strong>Can I send you a check?</strong> Yes! My physical address is: WTF Just Happened Today? 505 Broadway E #211, Seattle, WA 98102 USA</p>
+<p id="check"><strong>Can I send you a check?</strong> Yes! My physical address is: WTF Just Happened Today? 505 Broadway E #211, Seattle, WA 98102 USA</p>
 
-<p><strong>How do I login to my membership account?</strong> If you're on the Memberful platform (most members are), you can <a href="https://wtfjht.memberful.com/account">sign-in here</a>. If you're on <a href="https://donorbox.org/user_session/new">DonorBox</a>, this is your sign-in page. And, if you're a Patreon member, <a href="https://www.patreon.com/login">here you go</a>.</p>
+<p id="tax"><strong>Are you a 501(c)(3)? Is my contribution tax-deductible?</strong> No, I'm a for-profit, single-member LLC based in Washington State. There are two reasons for this: 1) this setup makes it easy to manage and keeps my operational overhead low, and 2) I strongly believe media businesses need to be in the business of being in business. Meaning, my ability to fund WTFJHT is a reflection of the value created for the readers. If enough readers don't find WTFJHT valuable enough to pay for, then maybe WTFJHT shouldn't exist anymore.</p>
 
-<p><strong>How do I update my credit card?</strong> Log in to your account, <a href="https://wtfjht.memberful.com/account/credit_card/edit">add your new card and click Update my credit card</a>.</p>
+<p id="cost"><strong>How much does this thing cost to run anyway?</strong> Glad you asked! I did some back of the envelope math and I came up with a baseline estimate of <u>$16,778/month</u>. If you're interested in how I arrived at that number, I've outlined <a href="{{ site.baseurl }}/faq/#wtf-does-it-cost-to-run-this-thing">the cost of running WTFJHT in the FAQ</a>.</p>
 
-<p><strong>Can I update my email address or other personal information?</strong> Yes. <a href="https://wtfjht.memberful.com/account">Log in to your account here</a> to make these changes. </p>
+<p id="sign-in"><strong>How do I login to my membership account?</strong> If you're on the Memberful platform (most members are), you can <a href="https://membership.whatthefuckjusthappenedtoday.com/account">sign-in here</a>. If you're on <a href="https://donorbox.org/user_session/new">DonorBox</a>, this is your sign-in page. And, if you're a Patreon member, <a href="https://www.patreon.com/login">here you go</a>.</p>
 
-<p><strong>Does unsubscribing from the newsletter automatically cancel my recurring membership?</strong> No. If you'd like to cancel or edit your recurring membership, please use the links provided in your receipt emails (or the appropriate link above) to manage your membership. Because WTFJHT is free but supported by optional contributions, it's not possible to make the assumption that someone unsubscribing from the newsletter also wants to cancel their patronage. In many cases, supporting members do not and have never been newsletter subscribers (e.g. a blog reader or Twitter followers). For these reasons, I provide members with the tools to manage their account at any time for any reason.</p>
+<p id="card"><strong>How do I update my credit card?</strong> Log in to your account, <a href="https://membership.whatthefuckjusthappenedtoday.com/account/credit_card/edit">add your new card and click Update my credit card</a>.</p>
 
-<p><strong>How do I cancel my membership?</strong> For Memberful members, log in to your account and <a href="https://wtfjht.memberful.com/account/subscriptions">toggle auto-renew off</a> from the "Subscriptions" menu item.</p>
+<p id="email"><strong>Can I update my email address or other personal information?</strong> Yes. <a href="https://membership.whatthefuckjusthappenedtoday.com/account">Log in to your account here</a> to make these changes.</p>
 
-<p><strong>Are you a 501(c)(3)? Is my contribution tax-deductible?</strong> No, I'm a for-profit, single-member LLC based in Washington State. There are two reasons for this: 1) this setup makes it easy to manage and keeps my operational overhead low, and 2) I strongly believe media businesses need to be in the business of being in business. Meaning, my ability to fund WTFJHT is a reflection of the value created for the readers. If enough readers don't find WTFJHT valuable enough to pay for, then maybe WTFJHT shouldn't exist anymore.</p>
+<p id="cancel"><strong>How do I cancel my membership?</strong> For Memberful members, log in to your account and <a href="https://membership.whatthefuckjusthappenedtoday.com/account/subscriptions">toggle auto-renew off</a> from the "Subscriptions" menu item. For a legacy Patreon, PayPal, or Donorbox contribution: cancel it through the platform named on the charge or original receipt; the current membership login may not control legacy contributions.</p>
 
-<p><strong>How much does this thing cost to run anyway?</strong> Glad you asked! I did some back of the envelope math and I came up with a baseline estimate of <u>$16,778/month</u>. If you're interested in how I arrived at that number, I've outlined <a href="{{ site.baseurl }}/faq/#wtf-does-it-cost-to-run-this-thing">the cost of running WTFJHT in the FAQ</a>.</p>
+<p id="newsletter"><strong>Does unsubscribing from the newsletter automatically cancel my recurring membership?</strong> No. If you'd like to cancel or edit your recurring membership, please use the links provided in your receipt emails (or the appropriate link above) to manage your membership. Because WTFJHT is free but supported by optional contributions, it's not possible to make the assumption that someone unsubscribing from the newsletter also wants to cancel their patronage. In many cases, supporting members do not and have never been newsletter subscribers (e.g. a blog reader or RSS followers). For these reasons, I provide members with the tools to manage their account at any time for any reason.</p>
+
+<p id="which-platform"><strong>Not sure how to access your membership account?</strong> Search your inbox for the receipt (the sender names the platform) or read the description next to the charge on your statement. Still stuck? <a href="mailto:matt@whatthefuckjusthappenedtoday.com?subject=WTFJHT%20support">Email me</a> with any addresses you may have used and I'll find it. Paid through a legacy platform? Manage it there: <a id="patreon" href="https://www.patreon.com/settings/memberships" rel="noopener">Patreon</a> &middot; <a id="donorbox" href="https://donorbox.org/user_session/new" rel="noopener">Donorbox</a> &middot; <a id="paypal" href="https://www.paypal.com/myaccount/autopay/" rel="noopener">PayPal</a>.</p>
+
+<p id="amount"><strong>Can I change my membership amount or billing interval?</strong> Yes. <a href="https://membership.whatthefuckjusthappenedtoday.com/account">Sign in to your membership account</a> and change your level of support at any time.</p>
+
+<p id="pause"><strong>Can I pause my support instead of canceling it?</strong> On the current WTFJHT membership there is no pause button, but if your email me, I can move your next renewal to a later date. Donorbox has a pause in its portal; Patreon and PayPal do not, so cancel renewal and rejoin when you're ready.</p>
+
+<p id="card-safety"><strong>Should I send my credit-card number by email?</strong> No. Never send me your password, full card number, expiration date, or security code! Email me with whatever questions you have and I'll provide you a secure link for accessing your membership account.</p>
 
 </div>
 </div>

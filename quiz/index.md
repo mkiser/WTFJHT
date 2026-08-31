@@ -14,12 +14,6 @@ permalink: /quiz/
 {%- endif -%}
 {%- endfor -%}
 
-{%- comment -%}
-Build a day_number → post_url JSON map for all day numbers referenced by
-editions and question source_days. Passed to JS so per-question feedback
-can auto-link "Covered in Day N" to the actual post. Graceful: if a day has
-no matching post, it's omitted and JS falls back to plain text.
-{%- endcomment -%}
 {%- assign q_day_urls_json = "{}" -%}
 {%- if latest_pair -%}
   {%- assign all_day_nums = latest_pair[1].editions | default: empty -%}

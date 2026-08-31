@@ -1,13 +1,3 @@
-# Generates /tags/<slug>/ archive pages from post frontmatter at build time.
-# Replaces the committed tags/*.html archives + scripts/generate_tag_pages.rb
-# (both retired 2026-07-16). tags/index.html remains a committed static page:
-# jekyll-redirect-from's generator runs at normal priority and must see it.
-# Layout contract (_layouts/tag-archive.html): STRING-keyed page data —
-# tag_display, posts_count, tag_posts[] of {url,title,description,date},
-# with date preformatted "Mon D, YYYY". sitemap: false (jekyll-sitemap honors it).
-# Structural guard only, not taxonomy validation: well-formed off-taxonomy
-# slugs still get pages; malformed values warn + skip so one bad frontmatter
-# edit can never block the daily build.
 module Jekyll
   class TagArchivePage < PageWithoutAFile
     def initialize(site, slug, display, description, posts_data)

@@ -1,8 +1,3 @@
-{% comment %} One corrections log row. Param: entry.
-    Data contract: scripts/generate_corrections.py (mechanical git-diff pipeline —
-    every displayed word is from the post's two file versions or a fixed template
-    string; no generated text). Inter-segment spaces MUST be {{ " " }} — Liquid
-    silently drops whitespace-only {% raw %}{% unless %}{% endraw %} bodies. {% endcomment %}
 {% if entry.day %}{% capture post_label %}Day {{ entry.day }}{% endcapture %}{% else %}{% capture post_label %}{{ entry.slug | replace: "-", " " }}{% endcapture %}{% endif %}
 <article class="correction">
   <p class="correction__head">

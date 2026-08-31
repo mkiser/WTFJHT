@@ -140,7 +140,7 @@
       if (!settle()) return;
       if (data && data.reject === true) {
         showReject(form, data.suggestion);
-      } else if (data && data.ok === true) {
+      } else if (data && data.ok === true && data.subscribed === true) {
         // _layouts/default.html deliberately skips its intent-based sign_up for
         // worker-handled forms, so the confirmed subscribe is counted here. Keep
         // the event name and the method split identical to that binding.

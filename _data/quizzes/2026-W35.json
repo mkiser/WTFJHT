@@ -1,0 +1,173 @@
+{
+  "id": "2026-W35",
+  "week_label": "Aug 24 – Aug 27, 2026",
+  "status": "published",
+  "editions": [
+    2046,
+    2045,
+    2044,
+    2043
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What warning did CIA Director John Ratcliffe deliver to Russian officials during his secret trip to Moscow?",
+      "options": [
+        "End all oil sales to China within 30 days",
+        "Accept Ukraine’s NATO membership before winter",
+        "Withdraw Russian troops from Iran immediately",
+        "Do not attack NATO territory"
+      ],
+      "correct": 3,
+      "explanation": "Ratcliffe warned Russian officials not to attack NATO territory and shared a U.S. assessment that Moscow should negotiate an end to its war in Ukraine before conditions worsen.",
+      "source_day": 2046,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/27/day-2046/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 2,
+      "question": "Who did Trump urge South Carolina Republicans to support in a special Senate runoff?",
+      "options": [
+        "Ralph Norman",
+        "Darline Graham",
+        "Lindsey Graham",
+        "Annie Andrews"
+      ],
+      "correct": 1,
+      "explanation": "Trump urged voters to support interim Sen. Darline Graham over Rep. Ralph Norman and told them to “pretend, please, that I’m on the ballot.”",
+      "source_day": 2044,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/25/day-2044/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 3,
+      "question": "Why did Trump plan to temporarily suspend tariffs on ground beef imports?",
+      "options": [
+        "To punish Canada for retaliatory tariffs",
+        "To replace beef imports lost because of the Iran war",
+        "To lower record-high beef prices",
+        "To meet a new trade commitment with Europe"
+      ],
+      "correct": 2,
+      "explanation": "The plan would allow up to 300,000 metric tons of ground beef into the U.S. in an effort to lower record-high beef prices.",
+      "source_day": 2043,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/24/day-2043/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 4,
+      "question": "What did Judge Indira Talwani do regarding Trump’s mail-voting order?",
+      "options": [
+        "Required Congress to approve it before implementation",
+        "Ordered the Postal Service to delay it until after November",
+        "Ruled that all of its restrictions were unconstitutional",
+        "Lifted the final nationwide injunction blocking it"
+      ],
+      "correct": 3,
+      "explanation": "Talwani lifted her injunction after the Supreme Court ruled that a related challenge was premature, allowing the Postal Service to impose new ballot requirements ahead of the November midterms.",
+      "source_day": 2045,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/26/day-2045/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "How many people did ICE arrest in July?",
+      "options": [
+        "20,000",
+        "49,571",
+        "827,000",
+        "34,000"
+      ],
+      "correct": 1,
+      "explanation": "ICE arrested a record 49,571 people in July, and nearly 34,000 people were deported that month.",
+      "source_day": 2046,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/27/day-2046/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 6,
+      "question": "What did Trump claim about the U.S. war with Iran?",
+      "options": [
+        "The U.S. was “achieving a very big victory” and the conflict would continue as long as necessary",
+        "The U.S. had agreed to restart negotiations within 90 days",
+        "The U.S. would withdraw forces from the region by Labor Day",
+        "The U.S. would pause military operations to clear mines from the Strait of Hormuz"
+      ],
+      "correct": 0,
+      "explanation": "Trump said the U.S. was “achieving a very big victory” in the nearly six-month war and that he had “no time schedule” for ending it.",
+      "source_day": 2045,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/26/day-2045/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 7,
+      "question": "How did Canada respond to Trump’s new tariffs on Canadian goods?",
+      "options": [
+        "It retaliated with duties of up to 50% on U.S. goods",
+        "It filed a lawsuit in U.S. federal court against the tariffs",
+        "It suspended all automobile exports to the United States",
+        "It agreed to reopen trade talks without imposing countermeasures"
+      ],
+      "correct": 0,
+      "explanation": "Canada imposed duties of up to 50% on about $20 billion in American goods, matching Trump’s latest duties “dollar for dollar, rate for rate.”",
+      "source_day": 2044,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/25/day-2044/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "What did Treasury Secretary Scott Bessent call the expanded sanctions campaign against Iran?",
+      "options": [
+        "Operation Tehran Isolation",
+        "Operation Financial Firewall",
+        "Operation Economic Outcast",
+        "Operation Maximum Leverage"
+      ],
+      "correct": 2,
+      "explanation": "Treasury broadened sanctions as part of “Operation Economic Outcast,” which Bessent described as an “economic onslaught against Iran’s financial connections around the globe.”",
+      "source_day": 2043,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/24/day-2043/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 9,
+      "question": "What was the annual U.S. inflation rate in July?",
+      "options": [
+        "3.3%",
+        "5.0%",
+        "3.7%",
+        "2.0%"
+      ],
+      "correct": 2,
+      "explanation": "Annual U.S. inflation was 3.7% in July, unchanged from June and still well above the Fed’s 2% target.",
+      "source_day": 2045,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/26/day-2045/",
+      "difficulty": "hard",
+      "type": "numbers"
+    },
+    {
+      "number": 10,
+      "question": "What did Trump’s executive order rename Lake Ontario?",
+      "options": [
+        "Lake America",
+        "Lake Trump",
+        "Lake Liberty",
+        "Lake North America"
+      ],
+      "correct": 0,
+      "explanation": "Trump signed an executive order requiring the federal government to use the name “Lake America” for Lake Ontario, though it does not compel Canada or others to adopt the change.",
+      "source_day": 2046,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/27/day-2046/",
+      "difficulty": "easy",
+      "type": "what happened"
+    }
+  ]
+}

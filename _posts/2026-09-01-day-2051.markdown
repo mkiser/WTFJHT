@@ -1,6 +1,12 @@
 ---
 title: Day 2051
 date: 2026-09-01 15:14:27 -07:00
+tags:
+- "voting-rights"
+- "midterm-election"
+- "government-shutdown"
+- "iran"
+- "healthcare"
 description: '"A regretful response."'
 image: "/uploads/day2051trump-83647c.jpg"
 todayInOneSentence: A Postal Service whistleblower warned that the agency’s new mail-voting

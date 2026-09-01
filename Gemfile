@@ -6,7 +6,7 @@ gem "liquid-c"
 gem 'jekyll-sitemap'
 gem 'jekyll-redirect-from'
 gem 'jekyll-extlinks'
-gem 'jekyll-archives', '2.1.1'
+gem 'jekyll-archives', '2.3.0'
 gem "base64" 
 gem "logger" 
 gem "ostruct"

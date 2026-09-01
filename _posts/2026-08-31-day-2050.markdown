@@ -1,6 +1,12 @@
 ---
 title: Day 2050
 date: 2026-08-31 15:36:35 -07:00
+tags:
+- supreme-court
+- foreign-policy
+- iran
+- tech-policy
+- media
 description: '"You will only have yourselves to blame."'
 image: "/uploads/day2050trump-e98f26.jpg"
 todayInOneSentence: The Supreme Court allowed Trump to continue construction of his

@@ -33,11 +33,17 @@ sitemap: false
   </div>
 
   <div class="jaq-field">
-    <label class="jaq-label" for="jaq-email">Email (optional)</label>
+    <label class="jaq-label" for="jaq-email">Email</label>
     <input class="jaq-input" type="email" id="jaq-email" name="email"
-      maxlength="254" autocomplete="email">
-    <span class="jaq-hint">Only if you want a reply</span>
+      maxlength="254" autocomplete="email" aria-required="true"
+      aria-describedby="jaq-email-hint">
+    <span class="jaq-hint" id="jaq-email-hint"></span>
     <span class="jaq-field-error" id="jaq-email-error" aria-live="polite"></span>
+
+    <label class="jaq-check" for="jaq-anon">
+      <input type="checkbox" id="jaq-anon" name="anonymous">
+      <span>Send this anonymously instead. I won't be able to reply.</span>
+    </label>
   </div>
 
   <div class="jaq-field">
@@ -103,6 +109,8 @@ sitemap: false
   var messageError = document.getElementById('jaq-message-error');
   var emailField = document.getElementById('jaq-email');
   var emailError = document.getElementById('jaq-email-error');
+  var emailHint = document.getElementById('jaq-email-hint');
+  var anonField = document.getElementById('jaq-anon');
   var fallbackBanner = document.getElementById('turnstile-fallback');
   var fallbackBtn = document.getElementById('turnstile-fallback-btn');
 
@@ -176,6 +184,21 @@ sitemap: false
     counter.textContent = len.toLocaleString() + ' / 5,000';
   });
 
+  function applyAnonState() {
+    var anon = anonField.checked;
+    emailField.disabled = anon;
+    emailField.setAttribute('aria-required', anon ? 'false' : 'true');
+    if (anon) {
+      emailField.value = '';
+      emailError.textContent = '';
+    }
+    emailHint.textContent = anon
+      ? 'Your note still gets read. There is just no way to answer it.'
+      : '';
+  }
+  anonField.addEventListener('change', applyAnonState);
+  applyAnonState();
+
   // Clear field errors on interaction
   document.getElementById('jaq-category').addEventListener('change', function () {
     categoryError.textContent = '';
@@ -194,7 +217,8 @@ sitemap: false
       category: document.getElementById('jaq-category').value,
       message: messageField.value.trim(),
       location: document.getElementById('jaq-location').value.trim(),
-      email: emailField.value.trim(),
+      email: anonField.checked ? '' : emailField.value.trim(),
+      anonymous: anonField.checked,
       ref: document.getElementById('jaq-ref').value,
       edition: document.getElementById('jaq-edition').value,
       website: document.getElementById('jaq-website').value,
@@ -274,7 +298,8 @@ sitemap: false
 
     var category = document.getElementById('jaq-category').value;
     var message = messageField.value.trim();
-    var email = emailField.value.trim();
+    var anonymous = anonField.checked;
+    var email = anonymous ? '' : emailField.value.trim();
 
     // Client-side validation
     var valid = true;
@@ -289,9 +314,14 @@ sitemap: false
       messageError.textContent = 'Please keep your question under 5,000 characters.';
       valid = false;
     }
-    if (email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-      emailError.textContent = 'Please enter a valid email address.';
-      valid = false;
+    if (!anonymous) {
+      if (!email) {
+        emailError.textContent = 'Add your email, or check the box to send this anonymously.';
+        valid = false;
+      } else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+        emailError.textContent = 'Please enter a valid email address.';
+        valid = false;
+      }
     }
     if (!valid) return;
 

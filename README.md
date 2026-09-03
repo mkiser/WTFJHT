@@ -33,12 +33,23 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 
-**FEEDS:**
+**Feeds:**
 
 * <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>
 * <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>
 * <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>
 * <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
+
+**Licensing**
+
+WTFJHT uses different licenses for different kinds of material:
+
+* Eligible original editorial content is licensed under [CC BY-NC-SA 4.0](https://whatthefuckjusthappenedtoday.com/license/).
+* Software is licensed under the GNU General Public License v3.0 where indicated.
+* WHAT THE FUCK JUST HAPPENED TODAY?™, WTF JUST HAPPENED TODAY?™, WTFJHT™, the WTFJHT logos, and other source-identifying branding are not included in those licenses.
+
+See the [WTFJHT license and trademark policy](https://whatthefuckjusthappenedtoday.com/license/) for details.
+
 
 
 <p class="lead">-<a href="https://twitter.com/matt_kiser/">Matt Kiser</a></p>
@@ -49,3 +60,4 @@ This project is open sourced and hosted as a [public GitHub repository](https://
     505 Broadway E #211 <br>
     Seattle, WA 98102 USA
 </p>
+

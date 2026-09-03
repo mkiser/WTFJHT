@@ -15,7 +15,7 @@ layout:
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <description>{{ site.description | xml_escape }}</description>
     <language>en-us</language>
-    <copyright>What The Fuck Just Happened Today site content by WTF Just Happened? LLC is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</copyright>
+    <copyright>© WTF Just Happened? LLC. Eligible original editorial content is licensed under CC BY-NC-SA 4.0. WTFJHT™ names, logos, and other source-identifying branding are not included in that license.</copyright>
     <pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
     <lastBuildDate>{{ site.time | date:"%a, %d %b %Y %T %z" }}</lastBuildDate>
     <managingEditor>{{ site.author.email }} ({{ site.author.name }})</managingEditor>

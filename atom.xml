@@ -17,7 +17,7 @@ layout:
     <name>{{ site.author.name }}</name>
     <email>{{ site.author.email }}</email>
   </author>
-  <rights>What The Fuck Just Happened Today? content © WTF Just Happened? LLC — CC BY-NC-SA 4.0</rights>
+  <rights>© WTF Just Happened? LLC. Eligible original editorial content is licensed under CC BY-NC-SA 4.0. WTFJHT™ names, logos, and other source-identifying branding are not included in that license.</rights>
   <icon>{{ site.url }}{{ site.baseurl }}/web-app-manifest-192x192.png?v=3</icon>
   <logo>{{ site.url }}{{ site.baseurl }}/og-image.jpg?v=3</logo>
 

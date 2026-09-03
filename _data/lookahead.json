@@ -1,57 +1,20 @@
 {
-  "generated_at": "2026-09-02T17:36:38Z",
-  "week_label": "Sep 2–8",
-  "focus": null,
+  "generated_at": "2026-09-03T16:29:44Z",
+  "week_label": "Sep 3–9",
+  "focus": "Sep 3–9 is the key window for ongoing election-related actions: midterm opportunities, vote-by-mail outreach, election protection volunteering, and vote messaging.",
   "actions": [
     {
-      "id": 115,
-      "title": "May Day Strong solidarity schools strategy call",
-      "cta_label": "Join",
-      "action_url": "https://www.mobilize.us/mayday/event/1020077/",
-      "kind": "event",
-      "date_or_deadline": "2026-09-02",
-      "days_left": 0,
-      "theme": null,
-      "rail": "mobilize",
-      "urgency_score": 4,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List"
-        }
-      ]
-    },
-    {
-      "id": 125,
-      "title": "May Day Strong Theory of Change seminar",
-      "cta_label": "Sign up",
-      "action_url": "https://www.mobilize.us/mayday/event/1020077/",
-      "kind": "event",
-      "date_or_deadline": "2026-09-02",
-      "days_left": 0,
-      "theme": null,
-      "rail": "mobilize",
-      "urgency_score": 4,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List"
-        }
-      ]
-    },
-    {
-      "id": 140,
-      "title": "TPS holders support update call",
-      "cta_label": "Sign up",
-      "action_url": "https://us06web.zoom.us/meeting/register/gv3eWROLR72enE5-_lZh1Q#/registration",
-      "kind": "event",
-      "date_or_deadline": "2026-09-02",
-      "days_left": 0,
+      "id": 48,
+      "title": "Midterm action opportunities",
+      "cta_label": "Volunteer",
+      "action_url": "https://susanrogan.substack.com/p/how-to-help-win-the-midterms",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
       "theme": null,
       "rail": "direct",
-      "urgency_score": 4,
+      "urgency_score": 1,
       "status": "active",
       "sources": [
         {
@@ -61,16 +24,17 @@
       ]
     },
     {
-      "id": 150,
-      "title": "Indivisible National General Election program briefing",
-      "cta_label": "Sign up",
-      "action_url": "https://www.mobilize.us/indivisible/event/1009287/?utm_source=threads",
-      "kind": "event",
-      "date_or_deadline": "2026-09-02",
-      "days_left": 0,
+      "id": 59,
+      "title": "Call your senators about Pete Hegseth and vote by mail",
+      "cta_label": "Call",
+      "action_url": "https://www.senate.gov/senators/senators-contact.htm",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
       "theme": null,
-      "rail": "mobilize",
-      "urgency_score": 4,
+      "rail": "direct",
+      "urgency_score": 1,
       "status": "active",
       "sources": [
         {
@@ -80,16 +44,37 @@
       ]
     },
     {
-      "id": 137,
-      "title": "Prayer service for Pierre Damas Bel",
-      "cta_label": "Register",
-      "action_url": "https://us02web.zoom.us/webinar/register/WN_RDNZfr7gT1mYvo_V7xF3zA#/registration",
-      "kind": "event",
-      "date_or_deadline": "2026-09-03",
-      "days_left": 1,
+      "id": 60,
+      "title": "Call your House representative about Pete Hegseth and vote by mail",
+      "cta_label": "Call",
+      "action_url": "https://www.house.gov/representatives/find-your-representative",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
       "theme": null,
       "rail": "direct",
-      "urgency_score": 4,
+      "urgency_score": 1,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "cwcw",
+          "label": "Chop Wood, Carry Water"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Share the newsletter post",
+      "cta_label": "Share",
+      "action_url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen?utm_source=substack&utm_medium=email&utm_content=share&action=share",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
+      "theme": null,
+      "rail": "direct",
+      "urgency_score": 1,
       "status": "active",
       "sources": [
         {
@@ -99,15 +84,16 @@
       ]
     },
     {
-      "id": 142,
-      "title": "Georgia Democratic phonebank daily shifts",
-      "cta_label": "Phonebank",
-      "action_url": "https://www.mobilize.us/mobilize/event/995543/?utm_source=roganslist",
+      "id": 118,
+      "title": "Share graphic honoring Pierre Damas Bel",
+      "cta_label": "Share",
+      "action_url": "https://www.instagram.com/p/DaB0f32mQwU/?img_index=4",
       "kind": "ongoing",
-      "date_or_deadline": "2026-11-03",
-      "days_left": 62,
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
       "theme": null,
-      "rail": "mobilize",
+      "rail": "direct",
       "urgency_score": 1,
       "status": "active",
       "sources": [
@@ -119,11 +105,12 @@
     },
     {
       "id": 119,
-      "title": "Donate to Haitian Community Support Center",
+      "title": "Donate to Haitian Community Support Center in Springfield",
       "cta_label": "Donate",
       "action_url": "https://haitiansupportcenter.org/?emailLog=Y3WHNSWG",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -133,44 +120,6 @@
         {
           "slug": "cwcw",
           "label": "Chop Wood, Carry Water"
-        }
-      ]
-    },
-    {
-      "id": 122,
-      "title": "Working Families Party Georgia phonebanks",
-      "cta_label": "Phonebank",
-      "action_url": "https://www.mobilize.us/mobilize/event/1016035/",
-      "kind": "ongoing",
-      "date_or_deadline": null,
-      "days_left": null,
-      "theme": null,
-      "rail": "mobilize",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List"
-        }
-      ]
-    },
-    {
-      "id": 123,
-      "title": "Midterms action page",
-      "cta_label": "Get engaged",
-      "action_url": "https://susanrogan.substack.com/p/how-to-help-win-the-midterms",
-      "kind": "ongoing",
-      "date_or_deadline": null,
-      "days_left": null,
-      "theme": null,
-      "rail": "direct",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List"
         }
       ]
     },
@@ -178,9 +127,10 @@
       "id": 124,
       "title": "Election protection volunteer opportunities",
       "cta_label": "Volunteer",
-      "action_url": "https://fairelectionscenter.org/map/",
+      "action_url": "https://susanrogan.substack.com/p/how-to-help-protect-the-midterms",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -194,12 +144,13 @@
       ]
     },
     {
-      "id": 126,
-      "title": "Call senators about Hegseth and vote by mail",
-      "cta_label": "Call",
-      "action_url": "https://www.senate.gov/senators/senators-contact.htm",
+      "id": 128,
+      "title": "Share talking points on Pete Hegseth",
+      "cta_label": "Share",
+      "action_url": "https://americanbridgepac.org/pete-hegseths-case-for-president-purges-cover-ups-and-a-war-he-cant-end/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -213,15 +164,16 @@
       ]
     },
     {
-      "id": 127,
-      "title": "Call House representative about Hegseth and vote by mail",
-      "cta_label": "Call",
-      "action_url": "https://www.house.gov/representatives/find-your-representative",
+      "id": 130,
+      "title": "Send Resistbot letter on Haitian TPS",
+      "cta_label": "Send",
+      "action_url": "https://resist.bot/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
-      "rail": "direct",
+      "rail": "resistbot",
       "urgency_score": 1,
       "status": "active",
       "sources": [
@@ -238,6 +190,7 @@
       "action_url": "https://bit.ly/handsoffourvote",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -251,12 +204,13 @@
       ]
     },
     {
-      "id": 136,
-      "title": "Share newsletter post",
+      "id": 132,
+      "title": "Share the video and links",
       "cta_label": "Share",
-      "action_url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen?utm_source=substack&utm_medium=email&utm_content=share&action=share",
+      "action_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/live-with-jess-craven-and-anat-shenker?utm_source=substack&utm_medium=email&utm_content=share&action=share",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -264,18 +218,19 @@
       "status": "active",
       "sources": [
         {
-          "slug": "rogans-list",
-          "label": "Rogan's List"
+          "slug": "cwcw",
+          "label": "Chop Wood, Carry Water"
         }
       ]
     },
     {
-      "id": 138,
-      "title": "Share Pierre Damas Bel graphic",
-      "cta_label": "Share",
-      "action_url": "https://www.instagram.com/p/DaB0f32mQwU/?img_index=4",
+      "id": 134,
+      "title": "Write to your state Attorney General about Flock surveillance cameras",
+      "cta_label": "Write",
+      "action_url": "https://act.perfectunion.us/ss/c/u001.qUXRBnqZ7T8nxbpAcIVwoUsWLkUMWlo_0JmZttSlm385_S0k_kr7yIvkBMqI-t-SyzchXMxHIwGpnNQWEhy8K4w2NGOYXa8iK5vT_IbeXiVywkhTy1qv_SP-zC6du-L8bjQOcNgHaG6rTEK7PxO4lOvff8Xe0q8mE6ewcR62avJWIhyMVAyZ3pYe-zpYA89B3FJgV_CfMs8mYhS8cyoaFq7uwVPRocEGwmYkW-NaMKZNn_kWuT5HEIEjwz1fdsPlbNsbwkJjlUXXbKo66_Spe8x1GfWzaXR-7dsHOBvOKPhkHMgUY7ThVip-B3BmokA1Y73HOYLZvp4atMpq7JjSUeum6k8TTFBWR-a7ZtGh7l9_Kdz1iypWqYRiRfgbd0ctt3S15zX03tJrUdt8fbowarOFJvJskdLhG-7J3K4aqirD130DSOtd84FqAC-TgxxwizSS2Zp1Tg00-W2IpZdzKVIIGZkSaVzPEhapSixNlrM/4tj/ZQk2dm-XS6uxz5HEsAjN9w/h1/h001.SyGwyP4uC2c-W3gydwb69S3PF6cOyTk6hTI3yJ_A5Do",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -283,18 +238,19 @@
       "status": "active",
       "sources": [
         {
-          "slug": "rogans-list",
-          "label": "Rogan's List"
+          "slug": "cwcw",
+          "label": "Chop Wood, Carry Water"
         }
       ]
     },
     {
       "id": 139,
-      "title": "Support Haitian Community Support Center",
-      "cta_label": "Support",
+      "title": "Support Haitians in Springfield",
+      "cta_label": "Donate",
       "action_url": "https://haitiansupportcenter.org/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -308,12 +264,13 @@
       ]
     },
     {
-      "id": 141,
-      "title": "Share the newsletter action list",
-      "cta_label": "Share",
-      "action_url": "https://susanrogan.substack.com/p/what-if-georgia-republicans-had-folded?utm_source=substack&utm_medium=email&utm_content=share&action=share",
+      "id": 172,
+      "title": "Impeach and remove RFK Jr.",
+      "cta_label": "Tell Congress",
+      "action_url": "https://actionnetwork.org/letters/impeach-and-remove-rfk/?redirect=https%3A%2F%2Fnewsletter.peoplepowerunited.org%2F&referrer=group-people-power-united&source=group-people-power-united",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -321,18 +278,19 @@
       "status": "active",
       "sources": [
         {
-          "slug": "rogans-list",
-          "label": "Rogan's List"
+          "slug": "people-power-united",
+          "label": "People Power United"
         }
       ]
     },
     {
-      "id": 143,
-      "title": "Share newsletter actions",
-      "cta_label": "Share",
-      "action_url": "https://susanrogan.substack.com/p/solidarity-school-is-in-session-this?utm_source=substack&utm_medium=email&utm_content=share&action=share",
+      "id": 173,
+      "title": "Investigate law enforcement abuse of Flock surveillance cameras",
+      "cta_label": "Tell",
+      "action_url": "https://actionnetwork.org/letters/flock-surveillance-cameras/?source=group-people-power-united&referrer=group-people-power-united&redirect=https%3A%2F%2Fnewsletter.peoplepowerunited.org%2F",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -340,18 +298,19 @@
       "status": "active",
       "sources": [
         {
-          "slug": "rogans-list",
-          "label": "Rogan's List"
+          "slug": "people-power-united",
+          "label": "People Power United"
         }
       ]
     },
     {
-      "id": 144,
-      "title": "Share Pete Hegseth talking points",
-      "cta_label": "Share",
-      "action_url": "https://americanbridgepac.org/pete-hegseths-case-for-president-purges-cover-ups-and-a-war-he-cant-end/",
+      "id": 174,
+      "title": "Stop Trump and Hegseth from depleting weapons and leaving troops exposed",
+      "cta_label": "Tell",
+      "action_url": "https://www.thepetitionsite.com/850/688/484/?TAP=2954&source_id=LeftActionTrumpHegsethWeapons",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -359,37 +318,19 @@
       "status": "active",
       "sources": [
         {
-          "slug": "cwcw",
-          "label": "Chop Wood, Carry Water"
+          "slug": "people-power-united",
+          "label": "People Power United"
         }
       ]
     },
     {
-      "id": 145,
-      "title": "Send Resistbot letter to extend Haitian TPS",
-      "cta_label": "Send",
-      "action_url": "https://resist.bot/",
+      "id": 175,
+      "title": "Demand accountability for Pete Hegseth",
+      "cta_label": "Demand",
+      "action_url": "https://www.thepetitionsite.com/177/959/489/?TAP=2954&source_id=LeftActionPeteHegseth",
       "kind": "ongoing",
       "date_or_deadline": null,
-      "days_left": null,
-      "theme": null,
-      "rail": "resistbot",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "cwcw",
-          "label": "Chop Wood, Carry Water"
-        }
-      ]
-    },
-    {
-      "id": 146,
-      "title": "Share Live with Jess Craven and Anat Shenker-Osorio",
-      "cta_label": "Share",
-      "action_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/live-with-jess-craven-and-anat-shenker?utm_source=substack&utm_medium=email&utm_content=share&action=share",
-      "kind": "ongoing",
-      "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -397,18 +338,19 @@
       "status": "active",
       "sources": [
         {
-          "slug": "cwcw",
-          "label": "Chop Wood, Carry Water"
+          "slug": "people-power-united",
+          "label": "People Power United"
         }
       ]
     },
     {
-      "id": 147,
-      "title": "Call senators about food safety and Yosemite development",
-      "cta_label": "Call",
-      "action_url": "https://www.senate.gov/senators/senators-contact.htm",
+      "id": 176,
+      "title": "Impeach and convict Trump for launching an illegal war with Iran",
+      "cta_label": "Tell",
+      "action_url": "https://www.thepetitionsite.com/takeaction/913/379/366/?TAP=2954&source_id=TrumpWarIran",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -416,37 +358,19 @@
       "status": "active",
       "sources": [
         {
-          "slug": "cwcw",
-          "label": "Chop Wood, Carry Water"
+          "slug": "people-power-united",
+          "label": "People Power United"
         }
       ]
     },
     {
-      "id": 148,
-      "title": "Call House representative about food safety and Yosemite development",
-      "cta_label": "Call",
-      "action_url": "https://www.house.gov/representatives/find-your-representative",
-      "kind": "ongoing",
-      "date_or_deadline": null,
-      "days_left": null,
-      "theme": null,
-      "rail": "direct",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "cwcw",
-          "label": "Chop Wood, Carry Water"
-        }
-      ]
-    },
-    {
-      "id": 149,
-      "title": "Urge state Attorney General to investigate Flock camera abuse",
+      "id": 177,
+      "title": "Keep Trump’s name off the Kennedy Center",
       "cta_label": "Sign",
-      "action_url": "https://act.perfectunion.us/ss/c/u001.qUXRBnqZ7T8nxbpAcIVwoUsWLkUMWlo_0JmZttSlm385_S0k_kr7yIvkBMqI-t-SyzchXMxHIwGpnNQWEhy8K4w2NGOYXa8iK5vT_IbeXiVywkhTy1qv_SP-zC6du-L8bjQOcNgHaG6rTEK7PxO4lOvff8Xe0q8mE6ewcR62avJWIhyMVAyZ3pYe-zpYA89B3FJgV_CfMs8mYhS8cyoaFq7uwVPRocEGwmYkW-NaMKZNn_kWuT5HEIEjwz1fdsPlbNsbwkJjlUXXbKo66_Spe8x1GfWzaXR-7dsHOBvOKPhkHMgUY7ThVip-B3BmokA1Y73HOYLZvp4atMpq7JjSUeum6k8TTFBWR-a7ZtGh7l9_Kdz1iypWqYRiRfgbd0ctt3S15zX03tJrUdt8fbowarOFJvJskdLhG-7J3K4aqirD130DSOtd84FqAC-TgxxwizSS2Zp1Tg00-W2IpZdzKVIIGZkSaVzPEhapSixNlrM/4tj/ZQk2dm-XS6uxz5HEsAjN9w/h1/h001.SyGwyP4uC2c-W3gydwb69S3PF6cOyTk6hTI3yJ_A5Do",
+      "action_url": "https://www.thepetitionsite.com/948/658/372/?TAP=2954&source_id=TrumpKennedyCenter",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": null,
       "rail": "direct",
@@ -454,8 +378,88 @@
       "status": "active",
       "sources": [
         {
-          "slug": "cwcw",
-          "label": "Chop Wood, Carry Water"
+          "slug": "people-power-united",
+          "label": "People Power United"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "title": "Stop Pentagon funding for Trump’s unauthorized war with Iran",
+      "cta_label": "Tell",
+      "action_url": "https://www.thepetitionsite.com/152/229/127/?TAP=2954&source_id=ODActionPentagonIranWar",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
+      "theme": null,
+      "rail": "direct",
+      "urgency_score": 1,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "people-power-united",
+          "label": "People Power United"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "title": "Share good news",
+      "cta_label": "Share",
+      "action_url": "https://docs.google.com/forms/d/e/1FAIpQLSecluTL3CAT_w3yIg7qxI1fGJ557IdXB2Aqjx8HMu7ohEEswA/viewform?usp=sf_link",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
+      "theme": null,
+      "rail": "direct",
+      "urgency_score": 1,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "americans-of-conscience",
+          "label": "Americans of Conscience Checklist"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "title": "Oppose Todd Blanche’s confirmation for Attorney General",
+      "cta_label": "Contact",
+      "action_url": "https://democracy.io/",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
+      "theme": null,
+      "rail": "direct",
+      "urgency_score": 1,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "americans-of-conscience",
+          "label": "Americans of Conscience Checklist"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "title": "Ask members of Congress about August town halls",
+      "cta_label": "Contact",
+      "action_url": "https://www.usa.gov/elected-officials",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": null,
+      "days_left": null,
+      "theme": null,
+      "rail": "direct",
+      "urgency_score": 1,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "americans-of-conscience",
+          "label": "Americans of Conscience Checklist"
         }
       ]
     },
@@ -466,6 +470,7 @@
       "action_url": "https://5calls.org/issue/abolish-ice/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": "Immigration",
       "rail": "5calls",
@@ -485,6 +490,7 @@
       "action_url": "https://5calls.org/issue/public-lands-sale-drilling/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": "Environment",
       "rail": "5calls",
@@ -504,6 +510,7 @@
       "action_url": "https://5calls.org/issue/state-voter-records-election-interference/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": "Voter Rights",
       "rail": "5calls",
@@ -523,6 +530,7 @@
       "action_url": "https://5calls.org/issue/heidi-overton-fda-commissioner/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": "Nominations",
       "rail": "5calls",
@@ -542,6 +550,7 @@
       "action_url": "https://5calls.org/issue/fda-food-safety-outbreaks/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": "Health",
       "rail": "5calls",
@@ -561,6 +570,7 @@
       "action_url": "https://5calls.org/issue/wild-horses-blm/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": "Environment",
       "rail": "5calls",
@@ -580,6 +590,7 @@
       "action_url": "https://5calls.org/issue/ai-data-centers-blm-public-lands/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
       "theme": "Environment",
       "rail": "5calls",
@@ -593,14 +604,15 @@
       ]
     },
     {
-      "id": 114,
-      "title": "Fight Unlawful ICE Enforcement Tactics",
+      "id": 167,
+      "title": "Impeach Defense Secretary Pete Hegseth",
       "cta_label": "Get a script",
-      "action_url": "https://5calls.org/issue/ice-masks-use-of-force-accountability/",
+      "action_url": "https://5calls.org/issue/impeach-pete-hegseth/",
       "kind": "ongoing",
       "date_or_deadline": null,
+      "until": null,
       "days_left": null,
-      "theme": "Immigration",
+      "theme": "Government Oversight",
       "rail": "5calls",
       "urgency_score": 1,
       "status": "active",
@@ -612,12 +624,53 @@
       ]
     },
     {
-      "id": 79,
-      "title": "📢✊ After We March, We Organize! 🔥 Solidarity Warriors Indivisible Action Group 🗽",
+      "id": 153,
+      "title": "Street Rally to Defend Civil Rights - Redmond",
       "cta_label": "RSVP",
-      "action_url": "https://www.mobilize.us/indivisible/event/790061/",
+      "action_url": "https://www.mobilize.us/indivisible/event/762887/",
       "kind": "event",
-      "date_or_deadline": "2026-09-02",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
+      "days_left": 0,
+      "theme": null,
+      "rail": "mobilize",
+      "urgency_score": 4,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "mobilize-indivisible",
+          "label": "Indivisible (Mobilize)"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "title": "\"Shine The Light\" Weekly Visibility Action",
+      "cta_label": "RSVP",
+      "action_url": "https://www.mobilize.us/indivisible/event/789667/",
+      "kind": "event",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
+      "days_left": 0,
+      "theme": null,
+      "rail": "mobilize",
+      "urgency_score": 4,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "mobilize-indivisible",
+          "label": "Indivisible (Mobilize)"
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "title": "Sorting Soup: Thursday @5: Sorting the Firehose of Information: & Sunday’s Bookclub 9am & 5 CDT Zoom",
+      "cta_label": "RSVP",
+      "action_url": "https://www.mobilize.us/indivisible/event/799992/",
+      "kind": "event",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
       "days_left": 0,
       "theme": "Virtual",
       "rail": "mobilize",
@@ -631,12 +684,13 @@
       ]
     },
     {
-      "id": 80,
-      "title": "Gabe Evans Protest (I-25 Pedestrian Bridge)",
+      "id": 156,
+      "title": "Weekly San Marcos Rallies",
       "cta_label": "RSVP",
-      "action_url": "https://www.mobilize.us/indivisible/event/792990/",
+      "action_url": "https://www.mobilize.us/indivisible/event/801740/",
       "kind": "event",
-      "date_or_deadline": "2026-09-02",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
       "days_left": 0,
       "theme": null,
       "rail": "mobilize",
@@ -650,12 +704,13 @@
       ]
     },
     {
-      "id": 81,
-      "title": "Peace Corner Castro Valley Wednesday Demonstration",
+      "id": 157,
+      "title": "Weekly El Cajon Rallies: Feet on the streets in defense of Democracy",
       "cta_label": "RSVP",
-      "action_url": "https://www.mobilize.us/indivisible/event/794560/",
+      "action_url": "https://www.mobilize.us/indivisible/event/801765/",
       "kind": "event",
-      "date_or_deadline": "2026-09-02",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
       "days_left": 0,
       "theme": null,
       "rail": "mobilize",
@@ -669,12 +724,13 @@
       ]
     },
     {
-      "id": 82,
-      "title": "Tiverton RI Bridge Brigade!",
+      "id": 159,
+      "title": "Indivisible Inland Empire Postcarding Happy Hour",
       "cta_label": "RSVP",
-      "action_url": "https://www.mobilize.us/indivisible/event/797975/",
+      "action_url": "https://www.mobilize.us/indivisible/event/805861/",
       "kind": "event",
-      "date_or_deadline": "2026-09-02",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
       "days_left": 0,
       "theme": null,
       "rail": "mobilize",
@@ -688,12 +744,113 @@
       ]
     },
     {
-      "id": 83,
-      "title": "Weekly Rally for Due Process and the Rule of Law (Kailua, O’ahu)",
+      "id": 160,
+      "title": "India Point Park Bridge Brigade",
       "cta_label": "RSVP",
-      "action_url": "https://www.mobilize.us/indivisible/event/798797/",
+      "action_url": "https://www.mobilize.us/indivisible/event/810610/",
       "kind": "event",
-      "date_or_deadline": "2026-09-02",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
+      "days_left": 0,
+      "theme": null,
+      "rail": "mobilize",
+      "urgency_score": 4,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "mobilize-indivisible",
+          "label": "Indivisible (Mobilize)"
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "title": "Overpass Visibility Brigade Action: Adams St. on I-580 Oakland",
+      "cta_label": "RSVP",
+      "action_url": "https://www.mobilize.us/indivisible/event/817664/",
+      "kind": "event",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
+      "days_left": 0,
+      "theme": null,
+      "rail": "mobilize",
+      "urgency_score": 4,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "mobilize-indivisible",
+          "label": "Indivisible (Mobilize)"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "title": "Honk and Wave Food Drive",
+      "cta_label": "RSVP",
+      "action_url": "https://www.mobilize.us/indivisible/event/819268/",
+      "kind": "event",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
+      "days_left": 0,
+      "theme": null,
+      "rail": "mobilize",
+      "urgency_score": 4,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "mobilize-indivisible",
+          "label": "Indivisible (Mobilize)"
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "title": "Overpass for Democracy!",
+      "cta_label": "RSVP",
+      "action_url": "https://www.mobilize.us/indivisible/event/820560/",
+      "kind": "event",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
+      "days_left": 0,
+      "theme": null,
+      "rail": "mobilize",
+      "urgency_score": 4,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "mobilize-indivisible",
+          "label": "Indivisible (Mobilize)"
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "title": "Heather Cox Richardson Video/Discussion",
+      "cta_label": "RSVP",
+      "action_url": "https://www.mobilize.us/indivisible/event/821566/",
+      "kind": "event",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
+      "days_left": 0,
+      "theme": null,
+      "rail": "mobilize",
+      "urgency_score": 4,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "mobilize-indivisible",
+          "label": "Indivisible (Mobilize)"
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "title": "Visibility Brigade - North Park",
+      "cta_label": "RSVP",
+      "action_url": "https://www.mobilize.us/indivisible/event/824060/",
+      "kind": "event",
+      "date_or_deadline": "2026-09-03",
+      "until": null,
       "days_left": 0,
       "theme": null,
       "rail": "mobilize",
@@ -713,10 +870,11 @@
       "action_url": "https://www.federalregister.gov/documents/2026/08/31/2026-17764/section-898c-transition-rule-for-allocating-foreign-taxes-and-section-960d4-foreign-tax-credit",
       "kind": "deadline",
       "date_or_deadline": "2026-09-17",
-      "days_left": 15,
+      "until": null,
+      "days_left": 14,
       "theme": null,
       "rail": "direct",
-      "urgency_score": 1,
+      "urgency_score": 2,
       "status": "active",
       "sources": [
         {
@@ -732,10 +890,11 @@
       "action_url": "https://www.federalregister.gov/documents/2026/08/27/2026-17503/air-plan-approval-mississippi-2010-1-hour-so2-naaqs-transport-infrastructure",
       "kind": "deadline",
       "date_or_deadline": "2026-09-17",
-      "days_left": 15,
+      "until": null,
+      "days_left": 14,
       "theme": null,
       "rail": "direct",
-      "urgency_score": 1,
+      "urgency_score": 2,
       "status": "active",
       "sources": [
         {
@@ -751,10 +910,11 @@
       "action_url": "https://www.federalregister.gov/documents/2026/08/27/2026-17502/air-plan-approval-kentucky-cincinnati-hamilton-area-limited-maintenance-plan-for-the-1997-8-hour",
       "kind": "deadline",
       "date_or_deadline": "2026-09-17",
-      "days_left": 15,
+      "until": null,
+      "days_left": 14,
       "theme": null,
       "rail": "direct",
-      "urgency_score": 1,
+      "urgency_score": 2,
       "status": "active",
       "sources": [
         {
@@ -770,10 +930,11 @@
       "action_url": "https://www.federalregister.gov/documents/2026/08/27/2026-17501/air-plan-approval-kentucky-louisville-area-limited-maintenance-plan-for-the-1997-8-hour-ozone-naaqs",
       "kind": "deadline",
       "date_or_deadline": "2026-09-17",
-      "days_left": 15,
+      "until": null,
+      "days_left": 14,
       "theme": null,
       "rail": "direct",
-      "urgency_score": 1,
+      "urgency_score": 2,
       "status": "active",
       "sources": [
         {
@@ -783,16 +944,17 @@
       ]
     },
     {
-      "id": 97,
-      "title": "Small Business Size Standards",
+      "id": 165,
+      "title": "Notice of Availability and Request for Comment: Revision to the Voluntary Standard for Products Containing Button Cell or Coin Batteries",
       "cta_label": "Comment",
-      "action_url": "https://www.federalregister.gov/documents/2026/08/20/2026-17042/small-business-size-standards",
+      "action_url": "https://www.federalregister.gov/documents/2026/09/03/2026-18103/notice-of-availability-and-request-for-comment-revision-to-the-voluntary-standard-for-products",
       "kind": "deadline",
-      "date_or_deadline": "2026-09-21",
-      "days_left": 19,
+      "date_or_deadline": "2026-09-17",
+      "until": null,
+      "days_left": 14,
       "theme": null,
       "rail": "direct",
-      "urgency_score": 1,
+      "urgency_score": 2,
       "status": "active",
       "sources": [
         {
@@ -816,5 +978,10 @@
       "url": "https://www.mobilize.us/"
     }
   ],
-  "guide_url": "https://whatthefuckjusthappenedtoday.com/do-something/"
+  "guide_url": "https://whatthefuckjusthappenedtoday.com/do-something/",
+  "focus_provenance": {
+    "kind": "generated",
+    "model": "openai/gpt-5.5",
+    "generation_id": "gen-1788452984-Irwu6K3VpUH9B1B6bqDu"
+  }
 }

@@ -6,8 +6,7 @@
 
 **Orientation and expectation setting**: My job is to help distill news that deserves attention into a clear, understandable, and accurate first draft of history – even if it is uncomfortable, unpopular, or upsetting. Practically speaking, WTFJHT covers the news through the lens of the executive branch specifically – and the president in particular – followed by the legislative and judicial branches in general, and in that order. Naturally people will demand more from me than this scope and framing allows for, and that’s fine. But if your politics, religion, or ideology dictate that you pick a side and expect me to cater to it, then you might be disappointed. Our humanity requires us to rise above picking sides. We are capable of more than rooting for human suffering. We’re talking about people, not politics.
 
-**Editorial Policy**:
-This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. There's a natural tension here: First, humans making decisions about the relative importance of information is inherently biased. And second, journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. My goal with WTF Just Happened Today? is to acknowledge my personal bias, reflect journalistic standards, and apply the following standards and practices:
+**Editorial Policy**: This is the news through the lens of a person making decisions about coverage – much the same way a front page editor does for newspapers. With every blurb I write, I'm make a news-value judgement. There's a natural tension here: First, humans making decisions about the relative importance of information is inherently biased. And second, journalism is a set of ethics based on trust, truthfulness, fairness, integrity, independence, and accountability. My goal with WTF Just Happened Today? is to acknowledge my personal bias, reflect journalistic standards, and apply the following standards and practices:
 
 1. WTFJHT takes a **neutral-ish position**. It's not intentionally partisan. It's purposefully fact-based. It focuses on clearly saying what happened, concisely presenting the facts, citing the primary source, and moving on. Bias is the byproduct of being a human making decisions. 
 
@@ -17,7 +16,7 @@ This is the news through the lens of a person making decisions about coverage �
 
 With WTFJHT, you will find an independent voice that is personally accountable and considerate for how the editorial choices impact others. I go to great lengths to cite the original source of news and draw from a diversity of sources.
 
-**Core Values:**
+**Core Values**:
 
 1. **Transparency**. WTFJHT is open sourced and hosted as a public repository on GitHub. Anybody can view the change log at anytime for any post. They can make pull requests to fix grammar, typos, facts, sources, etc., as well as contribute code.
 
@@ -33,22 +32,9 @@ With WTFJHT, you will find an independent voice that is personally accountable a
 
 This project is open sourced and hosted as a [public GitHub repository](https://github.com/mkiser/WTFJHT). Log new [issues, comments, feedback here](https://github.com/mkiser/WTFJHT/issues).
 
-**Feeds:**
+**Feeds**: <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a> / <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a> / <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a> / <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
 
-* <a href="https://whatthefuckjusthappenedtoday.com/atom.xml">Atom</a>
-* <a href="https://whatthefuckjusthappenedtoday.com/rss.xml">RSS</a>
-* <a href="https://whatthefuckjusthappenedtoday.com/sitemap.xml">Sitemap</a>
-* <a href="https://whatthefuckjusthappenedtoday.com/api/v1/posts.json">API</a>
-
-**Licensing**
-
-WTFJHT uses different licenses for different kinds of material:
-
-* Eligible original editorial content is licensed under [CC BY-NC-SA 4.0](https://whatthefuckjusthappenedtoday.com/license/).
-* Software is licensed under the GNU General Public License v3.0 where indicated.
-* WHAT THE FUCK JUST HAPPENED TODAY?™, WTF JUST HAPPENED TODAY?™, WTFJHT™, the WTFJHT logos, and other source-identifying branding are not included in those licenses.
-
-See the [WTFJHT license and trademark policy](https://whatthefuckjusthappenedtoday.com/license/) for details.
+**Licensing**: WTFJHT uses different licenses for different kinds of material: Eligible original editorial content is licensed under [CC BY-NC-SA 4.0](https://whatthefuckjusthappenedtoday.com/license/). Software is licensed under the GNU General Public License v3.0 where indicated. And, WHAT THE FUCK JUST HAPPENED TODAY?™, WTF JUST HAPPENED TODAY?™, WTFJHT™, the WTFJHT logos, and other source-identifying branding are not included in those licenses. See the [WTFJHT license and trademark policy](https://whatthefuckjusthappenedtoday.com/license/) for details.
 
 
 

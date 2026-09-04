@@ -1,6 +1,12 @@
 ---
 title: Day 2053
 date: 2026-09-03 18:02:23 -07:00
+tags:
+- "voting-rights"
+- "immigration"
+- "supreme-court"
+- "elections"
+- "iran"
 description: '"The reality is I don''t know."'
 image: "/uploads/day2053trump-c745ac.jpg"
 todayInOneSentence: The Trump administration asked the Supreme Court to let it enforce

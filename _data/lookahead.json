@@ -1,49 +1,159 @@
 {
-  "generated_at": "2026-09-04T12:22:02Z",
-  "week_label": "Sep 4–6",
-  "focus": "This week’s clearest action window is Sep 4–6, when ongoing general election and Ground Game Georgia phone banking are available.",
+  "generated_at": "2026-09-05T12:20:38Z",
+  "week_label": "Sep 5–6",
+  "focus": "Sep 8–10 is the week’s key action window, with an Ohio absentee precure phonebank, Michigan voter calls, a Vote Early Kickoff Call, and a planning event scheduled on consecutive days.",
   "actions": [
     {
-      "id": 122,
-      "title": "General Election Phone Bank Party!",
-      "cta_label": "Phonebank",
-      "action_url": "https://www.mobilize.us/mobilize/event/1016035/",
+      "id": 240,
+      "title": "Make Calls for Rae Krantz!",
+      "cta_label": "Sign up",
+      "action_url": "https://www.mobilize.us/mobilize/event/983594/?utm_source=roganslist",
       "kind": "ongoing",
       "date_or_deadline": null,
-      "until": "2026-11-03",
+      "until": "2026-09-10",
       "days_left": null,
       "theme": null,
       "rail": "mobilize",
-      "scope": "national",
+      "scope": "virtual",
       "urgency_score": 1,
       "status": "active",
       "sources": [
         {
           "slug": "rogans-list",
           "label": "Rogan's List",
-          "url": "https://susanrogan.substack.com/p/what-if-georgia-republicans-had-folded"
+          "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
         }
       ]
     },
     {
-      "id": 121,
-      "title": "Zoom Phone Banking with Ground Game Georgia!",
-      "cta_label": "Phonebank",
-      "action_url": "https://www.mobilize.us/mobilize/event/995543/?utm_source=roganslist",
+      "id": 242,
+      "title": "Make Calls with Delaware WFP on Election Day",
+      "cta_label": "Take shift",
+      "action_url": "https://www.mobilize.us/mobilize/event/993486/?utm_source=roganslist",
       "kind": "ongoing",
       "date_or_deadline": null,
-      "until": "2026-11-03",
+      "until": "2026-09-15",
       "days_left": null,
       "theme": null,
       "rail": "mobilize",
-      "scope": "national",
+      "scope": "virtual",
       "urgency_score": 1,
       "status": "active",
       "sources": [
         {
           "slug": "rogans-list",
           "label": "Rogan's List",
-          "url": "https://susanrogan.substack.com/p/what-if-georgia-republicans-had-folded"
+          "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "title": "Phonebank with Copper State Victory - Voter Protection",
+      "cta_label": "Sign up",
+      "action_url": "https://www.mobilize.us/mobilize/event/999139/?utm_source=roganslist",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": "2026-11-03",
+      "days_left": null,
+      "theme": null,
+      "rail": "mobilize",
+      "scope": "virtual",
+      "urgency_score": 1,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "rogans-list",
+          "label": "Rogan's List",
+          "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "title": "Poll Watcher Recruitment Phone Bank",
+      "cta_label": "Sign up",
+      "action_url": "https://www.mobilize.us/mobilize/event/1014943/?utm_source=roganslist",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": "2026-11-03",
+      "days_left": null,
+      "theme": null,
+      "rail": "mobilize",
+      "scope": "virtual",
+      "urgency_score": 1,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "rogans-list",
+          "label": "Rogan's List",
+          "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "title": "Voter Protection Phone Banking",
+      "cta_label": "Sign up",
+      "action_url": "https://www.mobilize.us/mobilize/event/1020702/?utm_source=roganslist",
+      "kind": "ongoing",
+      "date_or_deadline": null,
+      "until": "2026-11-03",
+      "days_left": null,
+      "theme": null,
+      "rail": "mobilize",
+      "scope": "virtual",
+      "urgency_score": 1,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "rogans-list",
+          "label": "Rogan's List",
+          "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "title": "Ohio Democratic Absentee Precure Phonebank",
+      "cta_label": "Sign up",
+      "action_url": "https://www.mobilize.us/mobilize/event/1013180/?utm_source=roganslist",
+      "kind": "event",
+      "date_or_deadline": "2026-09-08",
+      "until": null,
+      "days_left": 3,
+      "theme": null,
+      "rail": "mobilize",
+      "scope": "virtual",
+      "urgency_score": 3,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "rogans-list",
+          "label": "Rogan's List",
+          "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "title": "Calling Voters in Michigan's 4th and 7th Districts!",
+      "cta_label": "Text",
+      "action_url": "https://www.mobilize.us/wethefighters/event/1012922/?utm_source=roganslist",
+      "kind": "event",
+      "date_or_deadline": "2026-09-09",
+      "until": null,
+      "days_left": 4,
+      "theme": null,
+      "rail": "mobilize",
+      "scope": "virtual",
+      "urgency_score": 3,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "rogans-list",
+          "label": "Rogan's List",
+          "url": "https://susanrogan.substack.com/p/no-kings-mass-call-textbanks-ballot"
         }
       ]
     },
@@ -55,10 +165,10 @@
       "kind": "event",
       "date_or_deadline": "2026-09-10",
       "until": null,
-      "days_left": 6,
+      "days_left": 5,
       "theme": null,
       "rail": "mobilize",
-      "scope": "national",
+      "scope": "virtual",
       "urgency_score": 3,
       "status": "active",
       "sources": [
@@ -68,56 +178,188 @@
           "url": "https://susanrogan.substack.com/p/no-kings-mass-call-textbanks-ballot"
         }
       ]
+    },
+    {
+      "id": 220,
+      "title": "What's the Plan with Leah and Ezra",
+      "cta_label": "RSVP",
+      "action_url": "https://www.mobilize.us/indivisible/event/874938/?source=indivisibles",
+      "kind": "event",
+      "date_or_deadline": "2026-09-10",
+      "until": null,
+      "days_left": 5,
+      "theme": null,
+      "rail": "mobilize",
+      "scope": "virtual",
+      "urgency_score": 3,
+      "status": "active",
+      "sources": [
+        {
+          "slug": "cwcw",
+          "label": "Chop Wood, Carry Water",
+          "url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-93-749"
+        }
+      ]
     }
   ],
   "buckets": {
     "this_week": [
       {
-        "id": 122,
-        "title": "General Election Phone Bank Party!",
-        "cta_label": "Phonebank",
-        "action_url": "https://www.mobilize.us/mobilize/event/1016035/",
+        "id": 240,
+        "title": "Make Calls for Rae Krantz!",
+        "cta_label": "Sign up",
+        "action_url": "https://www.mobilize.us/mobilize/event/983594/?utm_source=roganslist",
         "kind": "ongoing",
         "date_or_deadline": null,
-        "until": "2026-11-03",
+        "until": "2026-09-10",
         "days_left": null,
         "theme": null,
         "rail": "mobilize",
-        "scope": "national",
+        "scope": "virtual",
         "urgency_score": 1,
         "status": "active",
         "sources": [
           {
             "slug": "rogans-list",
             "label": "Rogan's List",
-            "url": "https://susanrogan.substack.com/p/what-if-georgia-republicans-had-folded"
+            "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
           }
         ]
       },
       {
-        "id": 121,
-        "title": "Zoom Phone Banking with Ground Game Georgia!",
-        "cta_label": "Phonebank",
-        "action_url": "https://www.mobilize.us/mobilize/event/995543/?utm_source=roganslist",
+        "id": 242,
+        "title": "Make Calls with Delaware WFP on Election Day",
+        "cta_label": "Take shift",
+        "action_url": "https://www.mobilize.us/mobilize/event/993486/?utm_source=roganslist",
         "kind": "ongoing",
         "date_or_deadline": null,
-        "until": "2026-11-03",
+        "until": "2026-09-15",
         "days_left": null,
         "theme": null,
         "rail": "mobilize",
-        "scope": "national",
+        "scope": "virtual",
         "urgency_score": 1,
         "status": "active",
         "sources": [
           {
             "slug": "rogans-list",
             "label": "Rogan's List",
-            "url": "https://susanrogan.substack.com/p/what-if-georgia-republicans-had-folded"
+            "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
+          }
+        ]
+      },
+      {
+        "id": 216,
+        "title": "Phonebank with Copper State Victory - Voter Protection",
+        "cta_label": "Sign up",
+        "action_url": "https://www.mobilize.us/mobilize/event/999139/?utm_source=roganslist",
+        "kind": "ongoing",
+        "date_or_deadline": null,
+        "until": "2026-11-03",
+        "days_left": null,
+        "theme": null,
+        "rail": "mobilize",
+        "scope": "virtual",
+        "urgency_score": 1,
+        "status": "active",
+        "sources": [
+          {
+            "slug": "rogans-list",
+            "label": "Rogan's List",
+            "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
+          }
+        ]
+      },
+      {
+        "id": 217,
+        "title": "Poll Watcher Recruitment Phone Bank",
+        "cta_label": "Sign up",
+        "action_url": "https://www.mobilize.us/mobilize/event/1014943/?utm_source=roganslist",
+        "kind": "ongoing",
+        "date_or_deadline": null,
+        "until": "2026-11-03",
+        "days_left": null,
+        "theme": null,
+        "rail": "mobilize",
+        "scope": "virtual",
+        "urgency_score": 1,
+        "status": "active",
+        "sources": [
+          {
+            "slug": "rogans-list",
+            "label": "Rogan's List",
+            "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
+          }
+        ]
+      },
+      {
+        "id": 215,
+        "title": "Voter Protection Phone Banking",
+        "cta_label": "Sign up",
+        "action_url": "https://www.mobilize.us/mobilize/event/1020702/?utm_source=roganslist",
+        "kind": "ongoing",
+        "date_or_deadline": null,
+        "until": "2026-11-03",
+        "days_left": null,
+        "theme": null,
+        "rail": "mobilize",
+        "scope": "virtual",
+        "urgency_score": 1,
+        "status": "active",
+        "sources": [
+          {
+            "slug": "rogans-list",
+            "label": "Rogan's List",
+            "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
           }
         ]
       }
     ],
     "next_week": [
+      {
+        "id": 239,
+        "title": "Ohio Democratic Absentee Precure Phonebank",
+        "cta_label": "Sign up",
+        "action_url": "https://www.mobilize.us/mobilize/event/1013180/?utm_source=roganslist",
+        "kind": "event",
+        "date_or_deadline": "2026-09-08",
+        "until": null,
+        "days_left": 3,
+        "theme": null,
+        "rail": "mobilize",
+        "scope": "virtual",
+        "urgency_score": 3,
+        "status": "active",
+        "sources": [
+          {
+            "slug": "rogans-list",
+            "label": "Rogan's List",
+            "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
+          }
+        ]
+      },
+      {
+        "id": 211,
+        "title": "Calling Voters in Michigan's 4th and 7th Districts!",
+        "cta_label": "Text",
+        "action_url": "https://www.mobilize.us/wethefighters/event/1012922/?utm_source=roganslist",
+        "kind": "event",
+        "date_or_deadline": "2026-09-09",
+        "until": null,
+        "days_left": 4,
+        "theme": null,
+        "rail": "mobilize",
+        "scope": "virtual",
+        "urgency_score": 3,
+        "status": "active",
+        "sources": [
+          {
+            "slug": "rogans-list",
+            "label": "Rogan's List",
+            "url": "https://susanrogan.substack.com/p/no-kings-mass-call-textbanks-ballot"
+          }
+        ]
+      },
       {
         "id": 185,
         "title": "No Kings: Vote Early Kickoff Call",
@@ -126,10 +368,10 @@
         "kind": "event",
         "date_or_deadline": "2026-09-10",
         "until": null,
-        "days_left": 6,
+        "days_left": 5,
         "theme": null,
         "rail": "mobilize",
-        "scope": "national",
+        "scope": "virtual",
         "urgency_score": 3,
         "status": "active",
         "sources": [
@@ -137,6 +379,28 @@
             "slug": "rogans-list",
             "label": "Rogan's List",
             "url": "https://susanrogan.substack.com/p/no-kings-mass-call-textbanks-ballot"
+          }
+        ]
+      },
+      {
+        "id": 220,
+        "title": "What's the Plan with Leah and Ezra",
+        "cta_label": "RSVP",
+        "action_url": "https://www.mobilize.us/indivisible/event/874938/?source=indivisibles",
+        "kind": "event",
+        "date_or_deadline": "2026-09-10",
+        "until": null,
+        "days_left": 5,
+        "theme": null,
+        "rail": "mobilize",
+        "scope": "virtual",
+        "urgency_score": 3,
+        "status": "active",
+        "sources": [
+          {
+            "slug": "cwcw",
+            "label": "Chop Wood, Carry Water",
+            "url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-93-749"
           }
         ]
       }
@@ -229,6 +493,6 @@
   "focus_provenance": {
     "kind": "generated",
     "model": "openai/gpt-5.5",
-    "generation_id": "gen-1788524522-GJc3FULzcERNdbgWgaph"
+    "generation_id": "gen-1788610839-8GZmmjNSPbtqrYvpEzUN"
   }
 }

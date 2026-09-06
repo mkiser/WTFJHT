@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T12:20:38Z",
-  "week_label": "Sep 5–6",
-  "focus": "Sep 8–10 is the week’s key action window, with an Ohio absentee precure phonebank, Michigan voter calls, a Vote Early Kickoff Call, and a planning event scheduled on consecutive days.",
+  "generated_at": "2026-09-06T12:24:20Z",
+  "week_label": "Sep 6",
+  "focus": "The week's most concentrated action window is September 10, when the No Kings: Vote Early Kickoff Call and What's the Plan with Leah and Ezra are scheduled.",
   "actions": [
     {
       "id": 240,
@@ -121,39 +121,17 @@
       "kind": "event",
       "date_or_deadline": "2026-09-08",
       "until": null,
-      "days_left": 3,
+      "days_left": 2,
       "theme": null,
       "rail": "mobilize",
       "scope": "virtual",
-      "urgency_score": 3,
+      "urgency_score": 4,
       "status": "active",
       "sources": [
         {
           "slug": "rogans-list",
           "label": "Rogan's List",
           "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
-        }
-      ]
-    },
-    {
-      "id": 211,
-      "title": "Calling Voters in Michigan's 4th and 7th Districts!",
-      "cta_label": "Text",
-      "action_url": "https://www.mobilize.us/wethefighters/event/1012922/?utm_source=roganslist",
-      "kind": "event",
-      "date_or_deadline": "2026-09-09",
-      "until": null,
-      "days_left": 4,
-      "theme": null,
-      "rail": "mobilize",
-      "scope": "virtual",
-      "urgency_score": 3,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List",
-          "url": "https://susanrogan.substack.com/p/no-kings-mass-call-textbanks-ballot"
         }
       ]
     },
@@ -165,7 +143,7 @@
       "kind": "event",
       "date_or_deadline": "2026-09-10",
       "until": null,
-      "days_left": 5,
+      "days_left": 4,
       "theme": null,
       "rail": "mobilize",
       "scope": "virtual",
@@ -187,7 +165,7 @@
       "kind": "event",
       "date_or_deadline": "2026-09-10",
       "until": null,
-      "days_left": 5,
+      "days_left": 4,
       "theme": null,
       "rail": "mobilize",
       "scope": "virtual",
@@ -324,39 +302,17 @@
         "kind": "event",
         "date_or_deadline": "2026-09-08",
         "until": null,
-        "days_left": 3,
+        "days_left": 2,
         "theme": null,
         "rail": "mobilize",
         "scope": "virtual",
-        "urgency_score": 3,
+        "urgency_score": 4,
         "status": "active",
         "sources": [
           {
             "slug": "rogans-list",
             "label": "Rogan's List",
             "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
-          }
-        ]
-      },
-      {
-        "id": 211,
-        "title": "Calling Voters in Michigan's 4th and 7th Districts!",
-        "cta_label": "Text",
-        "action_url": "https://www.mobilize.us/wethefighters/event/1012922/?utm_source=roganslist",
-        "kind": "event",
-        "date_or_deadline": "2026-09-09",
-        "until": null,
-        "days_left": 4,
-        "theme": null,
-        "rail": "mobilize",
-        "scope": "virtual",
-        "urgency_score": 3,
-        "status": "active",
-        "sources": [
-          {
-            "slug": "rogans-list",
-            "label": "Rogan's List",
-            "url": "https://susanrogan.substack.com/p/no-kings-mass-call-textbanks-ballot"
           }
         ]
       },
@@ -368,7 +324,7 @@
         "kind": "event",
         "date_or_deadline": "2026-09-10",
         "until": null,
-        "days_left": 5,
+        "days_left": 4,
         "theme": null,
         "rail": "mobilize",
         "scope": "virtual",
@@ -390,7 +346,7 @@
         "kind": "event",
         "date_or_deadline": "2026-09-10",
         "until": null,
-        "days_left": 5,
+        "days_left": 4,
         "theme": null,
         "rail": "mobilize",
         "scope": "virtual",
@@ -493,6 +449,6 @@
   "focus_provenance": {
     "kind": "generated",
     "model": "openai/gpt-5.5",
-    "generation_id": "gen-1788610839-8GZmmjNSPbtqrYvpEzUN"
+    "generation_id": "gen-1788697460-A5e5Vs8FoZZlJNKETHqd"
   }
 }

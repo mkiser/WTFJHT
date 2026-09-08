@@ -59,21 +59,14 @@ Below are the tensions that I'm thinking while operating WTFJHT. They're defined
 - **Use tools**, but don't be used by them.
 - **Scale your labor**, but don't replace it.
 
-**A note on AI, where it fits, and where it doesn't**. To be abundantly clear: AI doesn't decide what's news. It doesn't write, edit, or publish WTFJHT. I do. AI never impersonates, writes, or speaks as me or on my behalf. I do use spellcheck and grammar tools (e.g. Grammarly) to help catch my typos, of which I still miss plenty.
-
-
-But I will allow AI tools to support me with the plumbing and other mechanical tasks that go into running a small business as a solo operator, like: assist with the code and infrastructure that WTFJHT runs on, troubleshoot technical problems, help me organize, analyze, and understand data and analytics, soothe the pains of accounting and managing my books, etc. This is all necessary work, but it distracts from making the main thing the main thing: writing and producing WTFJHT.
+**A note on AI, where it fits, and where it doesn't**. To be abundantly clear: AI doesn't decide what's news. It doesn't write, edit, or publish WTFJHT. I do. But I will allow AI tools to support me with the plumbing and other mechanical tasks that go into running a small business as a solo operator. This is all necessary work, but it distracts from making the main thing the main thing: writing and producing WTFJHT. The full list of what I will and won't use it for is in the [FAQ](https://whatthefuckjusthappenedtoday.com/faq/#ai-use-policy-pledge).
  
 As a solo operator, I view AI tools as a sort of power-up, like when the Fire Flower first gave Mario fireballs in the original Super Mario Bros... Joke aside, the nuance here is that when a newsroom bans AI, a human journalist will still report the news. That's the same deal with WTFJHT. But, if I ban AI from assisting me with all that other mechanical work, nobody gets hired to do the plumbing. It's not like there's an assistant or engineering team to handle these tasks. So the alternative isn't a job saved, it’s work that doesn’t get done. (Well, it DOES get done, but it's mostly my nights and weekends – times I try to protect and prioritize for my family.)
 
 I use these AI tools to save time, but not so I can work less. Instead, they allow me to better allocate my time to the work that matters most. So as a solo operator "scale your labor, but don't replace it" isn’t just a nice slogan, it’s a statement about my capacity and how to best spend my time. Because if I don’t scale my labor, there's no one else to do the work. These tools create time, which goes back into making WTFJHT better – not into an afternoon off.
 
-Again, none of this touches what you read in WTFJHT. The reporting, the writing, and the news-value judgment are all me. That doesn't change. But WTFJHT is more than the daily update these days. 
+The reporting, the writing, and the news-value judgment are all me. That doesn't change. But WTFJHT is more than the daily update these days, and when AI is part of making something else (like the [audio edition](https://whatthefuckjusthappenedtoday.com/faq/#on-the-audio-edition) that used a clone of my voice) I say so on the thing itself.
 
-When I do something where AI was part of making the thing, I'll say so directly on the thing itself: what AI did, why I used it, and how I checked it, etc. The audio edition (while currently paused) is the one that exists today: it’s my words read by a clone of my voice using text-to-speech, labeled as such on every episode. Here’s the [backstory](https://whatthefuckjusthappenedtoday.com/faq/#on-the-audio-edition) on that.
-
-And your data is private and will never be shared with AI tools. You're not data to be trained on. Meanwhile, WTFJHT itself is a different story: the archive is already public and [licensed](https://whatthefuckjusthappenedtoday.com/license/) under Creative Commons, so I assume that AI companies have already slurped it up at this point along with the rest of the internet... 
-	
 I want to note that all of the values above – what I believe in, where this comes from, etc. – don't mention AI because they were true before these tools existed, and they'll be true after these tools have been replaced by whatever comes next.
  
 ### *How you can keep me honest*.
@@ -83,7 +76,7 @@ This page is full of promises, which, as we all know, are cheap to make. That's 
 So let's start with my record:
 
 1. I've published this thing [nearly every day](https://whatthefuckjusthappenedtoday.com/big-grid/) for almost ten years.
-2. The content and the code are open-source, version-controlled, auditable, and licensed under Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+2. The content and the code are open-source, version-controlled, auditable, and [licensed](https://whatthefuckjusthappenedtoday.com/license/): the writing under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), the code under [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.txt). The WTFJHT name and logos aren't part of either.
 3. Every summary includes citations to the underlying reporting, so you can check the accuracy and veracity of my work. 
 4. When I get something wrong, I fix it publicly (viewable on [GitHub](https://github.com/mkiser/WTFJHT) and the [Corrections](https://whatthefuckjusthappenedtoday.com/corrections/) page).
 5. I keep a public ledger of [what it costs to run this thing](https://whatthefuckjusthappenedtoday.com/faq/#wtf-does-it-cost-to-run-this-thing). 

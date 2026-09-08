@@ -44,7 +44,7 @@
          only injects its own <style> (incl. @font-face) if style.anchorjs is absent.
          Icon is a text glyph via data-anchorjs-icon, so it never enters textContent
          (share cards, selection copy stay clean). -->
-    <style class="anchorjs">.anchorjs-link{opacity:0;text-decoration:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*:hover>.anchorjs-link,.anchorjs-link:focus{opacity:1}[data-anchorjs-icon]::after{content:attr(data-anchorjs-icon)}</style>
+    <style class="anchorjs">.anchorjs-link{opacity:0;text-decoration:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*:hover>.anchorjs-link,.anchorjs-link:focus{opacity:1}[data-anchorjs-icon]::after{content:attr(data-anchorjs-icon)}@media(hover:none){.anchorjs-link{opacity:1;padding:.5em .35em}}</style>
     <meta name="apple-mobile-web-app-title" content="WTFJHT" />
 
     <!-- Preconnect to external origins for faster resource loading -->
@@ -520,14 +520,35 @@
         <!-- ANCHORS FOR PAGES -->
         <script>
           document.addEventListener("DOMContentLoaded", function(event) {
+            var touch = window.matchMedia && window.matchMedia('(hover: none)').matches;
             anchors.options = {
-              placement: 'left',
+              placement: touch ? 'right' : 'left',
               visible: 'hover',
               truncate: "36",
               icon: '\u00a7'
             };
-            anchors.add('.page > p > strong, .page > p > small > strong, .page h3 > em');
+            anchors.add('.page > p > strong, .page > p > small > strong, .page h3 > em, .membership-faq p > strong');
             anchors.remove('.tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
+
+            document.addEventListener('click', function (e) {
+              var a = e.target.closest('.anchorjs-link');
+              if (!a) return;
+              var url = window.location.origin + window.location.pathname + a.getAttribute('href');
+              function toast(msg) {
+                var existing = document.querySelector('.share-toast');
+                if (existing) existing.remove();
+                var el = document.createElement('div');
+                el.className = 'share-toast';
+                el.setAttribute('role', 'status');
+                el.textContent = msg;
+                document.body.appendChild(el);
+                setTimeout(function () { el.classList.add('fade-out'); }, 1600);
+                setTimeout(function () { el.remove(); }, 2100);
+              }
+              if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(url).then(function () { toast('Link copied'); }).catch(function () {});
+              }
+            });
           });
         </script>
       {% endif %}

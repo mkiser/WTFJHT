@@ -123,6 +123,9 @@ sitemap: false
 
   var params = new URLSearchParams(window.location.search);
   var ed = params.get('ed') || '';
+  // Campaign id: Mailchimp resolves *|CAMPAIGN_UID|* in tracked links where *|DATE:Y-m-d|*
+  // often stays literal. The Worker prefers a resolved cid as the edition identity.
+  var cid = params.get('cid') || '';
   var s = params.get('s') || '';
   var q = params.get('q') || '';
   var t = params.get('t') || '';
@@ -317,7 +320,7 @@ sitemap: false
   }
 
   function stage1Post(token, isFallback) {
-    var body = { ed: ed, s: s, q: q, t: t, v: v, p: p };
+    var body = { ed: ed, cid: cid, s: s, q: q, t: t, v: v, p: p };
     if (isFallback) {
       body.fallback = true;
     } else {
@@ -553,7 +556,7 @@ sitemap: false
     submitBtn.textContent = 'Sending…';
 
     var payload = {
-      ed: ed, s: s, q: q, t: t, v: v, p: p,
+      ed: ed, cid: cid, s: s, q: q, t: t, v: v, p: p,
       note: note,
       website: document.getElementById('pulse-website').value,
       _rendered: pageLoadTime,

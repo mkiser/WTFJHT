@@ -1054,8 +1054,21 @@ div.topic-date {
 // wears link red. !important is needed to beat contextual `p a` colors.
 .anchorjs-link {
   color: $meta-color !important;
+  font-family: $post-p-font-family;
+  font-size: $font-size-xl;
   font-weight: 400;
   font-style: normal;
+  text-decoration: none !important;
+}
+
+.page p:hover > strong > .anchorjs-link,
+.page p:hover > small > strong > .anchorjs-link,
+.page h3:hover > em > .anchorjs-link {
+  opacity: 1;
+}
+
+.membership-faq .anchorjs-link {
+  margin-left: -1.75em !important;
 }
 
 // Respect reduced motion (tooltip + toast micro-animations)

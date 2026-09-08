@@ -44,7 +44,7 @@
          only injects its own <style> (incl. @font-face) if style.anchorjs is absent.
          Icon is a text glyph via data-anchorjs-icon, so it never enters textContent
          (share cards, selection copy stay clean). -->
-    <style class="anchorjs">.anchorjs-link{opacity:0;text-decoration:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*:hover>.anchorjs-link,.anchorjs-link:focus{opacity:1}[data-anchorjs-icon]::after{content:attr(data-anchorjs-icon)}@media(hover:none){.anchorjs-link{opacity:1;padding:.5em .35em}}</style>
+    <style class="anchorjs">.anchorjs-link{opacity:0;text-decoration:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*:hover>.anchorjs-link,.anchorjs-link:focus{opacity:1}[data-anchorjs-icon]::after{content:attr(data-anchorjs-icon)}</style>
     <meta name="apple-mobile-web-app-title" content="WTFJHT" />
 
     <!-- Preconnect to external origins for faster resource loading -->
@@ -364,165 +364,12 @@
           });
         </script>
 
-        <!-- Highlight-to-share -->
-        <script>
-        (function() {
-          var tooltip = null;
-          var selectedText = '';
-
-          // Create tooltip element
-          function createTooltip() {
-            var el = document.createElement('div');
-            el.className = 'share-tooltip';
-            el.innerHTML =
-              '<button type="button" data-action="copy">' +
-                '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>' +
-                'Copy' +
-              '</button>' +
-              '<button type="button" data-action="share">' +
-                '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" x2="12" y1="2" y2="15"/></svg>' +
-                'Share' +
-              '</button>';
-            return el;
-          }
-
-          // Show tooltip above selection
-          function showTooltip(rect) {
-            if (!tooltip) {
-              tooltip = createTooltip();
-              document.body.appendChild(tooltip);
-            }
-
-            var top = rect.top + window.scrollY - tooltip.offsetHeight - 10;
-            var left = rect.left + window.scrollX + (rect.width / 2) - (tooltip.offsetWidth / 2);
-
-            // Keep tooltip within viewport
-            left = Math.max(10, Math.min(left, window.innerWidth - tooltip.offsetWidth - 10));
-
-            tooltip.style.top = top + 'px';
-            tooltip.style.left = left + 'px';
-          }
-
-          // Hide tooltip
-          function hideTooltip() {
-            if (tooltip && tooltip.parentNode) {
-              tooltip.parentNode.removeChild(tooltip);
-              tooltip = null;
-            }
-            selectedText = '';
-          }
-
-          // Get URL for selection (try to find anchor, fallback to page URL)
-          function getShareUrl() {
-            var selection = window.getSelection();
-            if (!selection.rangeCount) return window.location.href;
-
-            var node = selection.anchorNode;
-            while (node && node !== document.body) {
-              if (node.nodeType === 1 && node.id) {
-                // Prefer the canonical post permalink (homepage article carries
-                // data-post-url) so shared links survive the next day's publish
-                var article = node.closest('article.post[data-post-url]');
-                var base = article ? article.getAttribute('data-post-url') : window.location.pathname;
-                return window.location.origin + base + '#' + node.id;
-              }
-              node = node.parentNode;
-            }
-            return window.location.href;
-          }
-
-          // Show toast
-          function showToast(message) {
-            var existing = document.querySelector('.share-toast');
-            if (existing) existing.remove();
-
-            var toast = document.createElement('div');
-            toast.className = 'share-toast';
-            toast.textContent = message;
-            document.body.appendChild(toast);
-            setTimeout(function() {
-              toast.classList.add('fade-out');
-              setTimeout(function() { toast.remove(); }, 300);
-            }, 1500);
-          }
-
-          // Handle text selection
-          document.addEventListener('mouseup', function(e) {
-            // Ignore if clicking inside tooltip
-            if (e.target.closest('.share-tooltip')) return;
-
-            setTimeout(function() {
-              var selection = window.getSelection();
-              var text = selection.toString().trim();
-
-              // Only show tooltip for selections within post content
-              if (text.length > 5) {
-                var range = selection.getRangeAt(0);
-                var container = range.commonAncestorContainer;
-
-                // Check if selection is within post content
-                while (container && container !== document.body) {
-                  if (container.classList && container.classList.contains('post-content')) {
-                    selectedText = text;
-                    showTooltip(range.getBoundingClientRect());
-                    return;
-                  }
-                  container = container.parentNode;
-                }
-              }
-
-              hideTooltip();
-            }, 10);
-          });
-
-          // Handle tooltip button clicks
-          document.addEventListener('click', function(e) {
-            var btn = e.target.closest('.share-tooltip button');
-            if (!btn) return;
-
-            var action = btn.dataset.action;
-            var url = getShareUrl();
-            var quotedText = '"' + selectedText + '"';
-            if (quotedText.length > 280) {
-              quotedText = '"' + selectedText.substring(0, 250) + '..."';
-            }
-            // Combine text + URL for better compatibility
-            var fullText = quotedText + '\n\n' + url;
-
-            if (typeof gtag === 'function') gtag('event', 'highlight_share', { method: action });
-
-            if (action === 'share' && navigator.share) {
-              navigator.share({
-                text: fullText
-              }).catch(function(err) {
-                if (err.name !== 'AbortError') console.log('Share failed:', err);
-              });
-            } else {
-              navigator.clipboard.writeText(fullText).then(function() {
-                showToast('Copied to clipboard!');
-              }).catch(function() {
-                prompt('Copy this:', fullText);
-              });
-            }
-
-            hideTooltip();
-            window.getSelection().removeAllRanges();
-          });
-
-          // Hide tooltip on scroll or escape
-          document.addEventListener('scroll', hideTooltip);
-          document.addEventListener('keydown', function(e) {
-            if (e.key === 'Escape') hideTooltip();
-          });
-        })();
-        </script>
       {% elsif page.layout == 'page' %}
         <!-- ANCHORS FOR PAGES -->
         <script>
           document.addEventListener("DOMContentLoaded", function(event) {
-            var touch = window.matchMedia && window.matchMedia('(hover: none)').matches;
             anchors.options = {
-              placement: touch ? 'right' : 'left',
+              placement: 'left',
               visible: 'hover',
               truncate: "36",
               icon: '\u00a7'
@@ -550,6 +397,240 @@
               }
             });
           });
+        </script>
+      {% endif %}
+
+      {% if page.layout == 'post' or page.layout == 'page' or page.url == '/' %}
+        <!-- Highlight-to-share -->
+        <script>
+        (function() {
+          var tooltip = null;
+          var selectedText = '';
+          var selectedUrl = '';
+          var mouseDown = false;
+          var interactingUntil = 0;
+          var timer = null;
+          var SHAPE = /^(STRONG|EM|SPAN|H[1-6])$/;
+          var LIST = /^(LI|UL|OL)$/;
+
+          // Create tooltip element
+          function createTooltip() {
+            var el = document.createElement('div');
+            el.className = 'share-tooltip';
+            el.innerHTML =
+              '<button type="button" data-action="copy">' +
+                '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>' +
+                'Copy' +
+              '</button>' +
+              '<button type="button" data-action="share">' +
+                '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" x2="12" y1="2" y2="15"/></svg>' +
+                'Share' +
+              '</button>';
+            el.addEventListener('mousedown', function(e) {
+              e.preventDefault();
+              interactingUntil = Date.now() + 700;
+            });
+            el.addEventListener('touchstart', function() {
+              interactingUntil = Date.now() + 700;
+            }, { passive: true });
+            return el;
+          }
+
+          // Show tooltip above selection
+          function showTooltip(rect) {
+            if (!tooltip) {
+              tooltip = createTooltip();
+              document.body.appendChild(tooltip);
+            }
+
+            var top = rect.top + window.scrollY - tooltip.offsetHeight - 10;
+            if (rect.top - tooltip.offsetHeight - 10 < 0) {
+              top = rect.bottom + window.scrollY + 10;
+            }
+            top = Math.max(window.scrollY + 10, Math.min(top, window.scrollY + window.innerHeight - tooltip.offsetHeight - 10));
+            var left = rect.left + window.scrollX + (rect.width / 2) - (tooltip.offsetWidth / 2);
+
+            // Keep tooltip within viewport
+            left = Math.max(10, Math.min(left, window.innerWidth - tooltip.offsetWidth - 10));
+
+            tooltip.style.top = top + 'px';
+            tooltip.style.left = left + 'px';
+          }
+
+          // Hide tooltip
+          function hideTooltip() {
+            clearTimeout(timer);
+            if (tooltip && tooltip.parentNode) {
+              tooltip.parentNode.removeChild(tooltip);
+              tooltip = null;
+            }
+            selectedText = '';
+            selectedUrl = '';
+          }
+
+          function elementOf(node) {
+            return node.nodeType === 1 ? node : node.parentNode;
+          }
+
+          function childId(el, tag) {
+            for (var c = el.firstElementChild; c; c = c.nextElementSibling) {
+              if (c.tagName === tag && c.id) return c.id;
+              if (tag === 'STRONG' && c.tagName === 'SMALL') {
+                var inner = childId(c, 'STRONG');
+                if (inner) return inner;
+              }
+            }
+            return '';
+          }
+
+          function leadInId(el) {
+            if (el.tagName === 'P') return childId(el, 'STRONG');
+            if (el.tagName === 'H3') return childId(el, 'EM');
+            return '';
+          }
+
+          function pageAnchorId(start, scope) {
+            var node = elementOf(start);
+            while (node && node !== scope && node !== document.body) {
+              if (node.id && SHAPE.test(node.tagName)) return node.id;
+              var id = leadInId(node);
+              if (id) return id;
+              if (LIST.test(node.tagName)) {
+                var list = node;
+                while (list.parentNode && LIST.test(list.parentNode.tagName)) list = list.parentNode;
+                var prev = list.previousElementSibling;
+                for (var i = 0; prev && i < 4; i++, prev = prev.previousElementSibling) {
+                  id = leadInId(prev);
+                  if (id) return id;
+                  if (/^(P|H[1-6])$/.test(prev.tagName)) break;
+                }
+                return '';
+              }
+              node = node.parentNode;
+            }
+            return '';
+          }
+
+          function postAnchorId(start) {
+            var node = elementOf(start);
+            while (node && node !== document.body) {
+              if (node.id) return node.id;
+              node = node.parentNode;
+            }
+            return '';
+          }
+
+          function evaluate() {
+            if (mouseDown || Date.now() < interactingUntil) return;
+            var selection = window.getSelection();
+            var text = selection && selection.rangeCount ? selection.toString().trim() : '';
+
+            if (text.length > 5) {
+              var range = selection.getRangeAt(0);
+              var scope = elementOf(range.commonAncestorContainer);
+              var page = scope && scope.closest ? scope.closest('article.page') : null;
+              var post = page || !scope || !scope.closest ? null : scope.closest('.post-content');
+              var id = page ? pageAnchorId(range.startContainer, page) : (post ? postAnchorId(range.startContainer) : '');
+
+              if (page ? id : post) {
+                var article = scope.closest('article.post[data-post-url]');
+                var base = article ? article.getAttribute('data-post-url') : window.location.pathname;
+                selectedText = text;
+                selectedUrl = id ? window.location.origin + base + '#' + id : window.location.href;
+                showTooltip(range.getBoundingClientRect());
+                return;
+              }
+            }
+
+            hideTooltip();
+          }
+
+          function schedule(delay) {
+            clearTimeout(timer);
+            timer = setTimeout(evaluate, delay);
+          }
+
+          // Show toast
+          function showToast(message) {
+            var existing = document.querySelector('.share-toast');
+            if (existing) existing.remove();
+
+            var toast = document.createElement('div');
+            toast.className = 'share-toast';
+            toast.textContent = message;
+            document.body.appendChild(toast);
+            setTimeout(function() {
+              toast.classList.add('fade-out');
+              setTimeout(function() { toast.remove(); }, 300);
+            }, 1500);
+          }
+
+          // Handle text selection
+          document.addEventListener('mousedown', function() {
+            mouseDown = true;
+          });
+          document.addEventListener('touchend', function() {
+            mouseDown = false;
+          }, { passive: true });
+          window.addEventListener('blur', function() {
+            mouseDown = false;
+          });
+          document.addEventListener('mouseup', function(e) {
+            mouseDown = false;
+            // Ignore if clicking inside tooltip
+            if (e.target.closest('.share-tooltip')) return;
+            schedule(10);
+          });
+          document.addEventListener('selectionchange', function() {
+            if (mouseDown || Date.now() < interactingUntil) return;
+            schedule(120);
+          });
+
+          // Handle tooltip button clicks
+          document.addEventListener('click', function(e) {
+            var btn = e.target.closest('.share-tooltip button');
+            if (!btn) return;
+
+            var action = btn.dataset.action;
+            var url = selectedUrl;
+            var quotedText = '"' + selectedText + '"';
+            if (quotedText.length > 280) {
+              quotedText = '"' + selectedText.substring(0, 250) + '..."';
+            }
+            // Combine text + URL for better compatibility
+            var fullText = quotedText + '\n\n' + url;
+
+            if (typeof gtag === 'function') gtag('event', 'highlight_share', { method: action });
+
+            if (action === 'share' && navigator.share) {
+              navigator.share({
+                text: fullText
+              }).catch(function(err) {
+                if (err.name !== 'AbortError') console.log('Share failed:', err);
+              });
+            } else if (navigator.clipboard && navigator.clipboard.writeText) {
+              navigator.clipboard.writeText(fullText).then(function() {
+                showToast('Copied to clipboard!');
+              }).catch(function() {
+                prompt('Copy this:', fullText);
+              });
+            } else {
+              prompt('Copy this:', fullText);
+            }
+
+            interactingUntil = 0;
+            hideTooltip();
+            window.getSelection().removeAllRanges();
+          });
+
+          // Hide tooltip on scroll or escape
+          document.addEventListener('scroll', function() {
+            if (tooltip) schedule(120);
+          });
+          document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') hideTooltip();
+          });
+        })();
         </script>
       {% endif %}
 
@@ -617,7 +698,7 @@
         }
 
         // Copy link
-        var copyBtn = e.target.closest('[data-action="copy"]');
+        var copyBtn = e.target.closest('.share-widget [data-action="copy"]');
         if (copyBtn) {
           e.preventDefault();
           if (typeof gtag === 'function') gtag('event', 'share_widget', { method: 'copy' });

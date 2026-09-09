@@ -1,301 +1,191 @@
 {
-  "generated_at": "2026-09-07T12:24:38Z",
-  "week_label": "Sep 7–13",
-  "focus": "Sep 7–13 is the key window for ongoing calls and phone banks, including voter protection and poll watcher recruitment efforts.",
-  "actions": [
-    {
-      "id": 240,
-      "title": "Make Calls for Rae Krantz!",
-      "cta_label": "Sign up",
-      "action_url": "https://www.mobilize.us/mobilize/event/983594/?utm_source=roganslist",
-      "kind": "ongoing",
-      "date_or_deadline": null,
-      "until": "2026-09-10",
-      "days_left": null,
-      "theme": null,
-      "rail": "mobilize",
-      "scope": "virtual",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List",
-          "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
-        }
-      ]
-    },
-    {
-      "id": 242,
-      "title": "Make Calls with Delaware WFP on Election Day",
-      "cta_label": "Join",
-      "action_url": "https://www.mobilize.us/mobilize/event/993486/?utm_source=roganslist",
-      "kind": "ongoing",
-      "date_or_deadline": null,
-      "until": "2026-09-15",
-      "days_left": null,
-      "theme": null,
-      "rail": "mobilize",
-      "scope": "virtual",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List",
-          "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
-        }
-      ]
-    },
-    {
-      "id": 216,
-      "title": "Phonebank with Copper State Victory - Voter Protection",
-      "cta_label": "Phonebank",
-      "action_url": "https://www.mobilize.us/mobilize/event/999139/?utm_source=roganslist",
-      "kind": "ongoing",
-      "date_or_deadline": null,
-      "until": "2026-11-03",
-      "days_left": null,
-      "theme": null,
-      "rail": "mobilize",
-      "scope": "virtual",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List",
-          "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
-        }
-      ]
-    },
-    {
-      "id": 217,
-      "title": "Poll Watcher Recruitment Phone Bank",
-      "cta_label": "Phonebank",
-      "action_url": "https://www.mobilize.us/mobilize/event/1014943/?utm_source=roganslist",
-      "kind": "ongoing",
-      "date_or_deadline": null,
-      "until": "2026-11-03",
-      "days_left": null,
-      "theme": null,
-      "rail": "mobilize",
-      "scope": "virtual",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List",
-          "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
-        }
-      ]
-    },
-    {
-      "id": 215,
-      "title": "Voter Protection Phone Banking",
-      "cta_label": "Phonebank",
-      "action_url": "https://www.mobilize.us/mobilize/event/1020702/?utm_source=roganslist",
-      "kind": "ongoing",
-      "date_or_deadline": null,
-      "until": "2026-11-03",
-      "days_left": null,
-      "theme": null,
-      "rail": "mobilize",
-      "scope": "virtual",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
-        {
-          "slug": "rogans-list",
-          "label": "Rogan's List",
-          "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
-        }
-      ]
-    }
-  ],
-  "buckets": {
-    "this_week": [
-      {
-        "id": 240,
-        "title": "Make Calls for Rae Krantz!",
-        "cta_label": "Sign up",
-        "action_url": "https://www.mobilize.us/mobilize/event/983594/?utm_source=roganslist",
-        "kind": "ongoing",
-        "date_or_deadline": null,
-        "until": "2026-09-10",
-        "days_left": null,
-        "theme": null,
-        "rail": "mobilize",
-        "scope": "virtual",
-        "urgency_score": 1,
-        "status": "active",
-        "sources": [
-          {
-            "slug": "rogans-list",
-            "label": "Rogan's List",
-            "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
-          }
-        ]
-      },
-      {
-        "id": 242,
-        "title": "Make Calls with Delaware WFP on Election Day",
-        "cta_label": "Join",
-        "action_url": "https://www.mobilize.us/mobilize/event/993486/?utm_source=roganslist",
-        "kind": "ongoing",
-        "date_or_deadline": null,
-        "until": "2026-09-15",
-        "days_left": null,
-        "theme": null,
-        "rail": "mobilize",
-        "scope": "virtual",
-        "urgency_score": 1,
-        "status": "active",
-        "sources": [
-          {
-            "slug": "rogans-list",
-            "label": "Rogan's List",
-            "url": "https://susanrogan.substack.com/p/labor-day-is-a-celebration-of-solidarity"
-          }
-        ]
-      },
-      {
-        "id": 216,
-        "title": "Phonebank with Copper State Victory - Voter Protection",
-        "cta_label": "Phonebank",
-        "action_url": "https://www.mobilize.us/mobilize/event/999139/?utm_source=roganslist",
-        "kind": "ongoing",
-        "date_or_deadline": null,
-        "until": "2026-11-03",
-        "days_left": null,
-        "theme": null,
-        "rail": "mobilize",
-        "scope": "virtual",
-        "urgency_score": 1,
-        "status": "active",
-        "sources": [
-          {
-            "slug": "rogans-list",
-            "label": "Rogan's List",
-            "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
-          }
-        ]
-      },
-      {
-        "id": 217,
-        "title": "Poll Watcher Recruitment Phone Bank",
-        "cta_label": "Phonebank",
-        "action_url": "https://www.mobilize.us/mobilize/event/1014943/?utm_source=roganslist",
-        "kind": "ongoing",
-        "date_or_deadline": null,
-        "until": "2026-11-03",
-        "days_left": null,
-        "theme": null,
-        "rail": "mobilize",
-        "scope": "virtual",
-        "urgency_score": 1,
-        "status": "active",
-        "sources": [
-          {
-            "slug": "rogans-list",
-            "label": "Rogan's List",
-            "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
-          }
-        ]
-      },
-      {
-        "id": 215,
-        "title": "Voter Protection Phone Banking",
-        "cta_label": "Phonebank",
-        "action_url": "https://www.mobilize.us/mobilize/event/1020702/?utm_source=roganslist",
-        "kind": "ongoing",
-        "date_or_deadline": null,
-        "until": "2026-11-03",
-        "days_left": null,
-        "theme": null,
-        "rail": "mobilize",
-        "scope": "virtual",
-        "urgency_score": 1,
-        "status": "active",
-        "sources": [
-          {
-            "slug": "rogans-list",
-            "label": "Rogan's List",
-            "url": "https://susanrogan.substack.com/p/pierre-damas-bel-another-life-stolen"
-          }
-        ]
-      }
-    ],
-    "next_week": [],
-    "later": []
+  "generated_at": "2026-09-09T15:06:10Z",
+  "sources_checked_at": "2026-09-09T15:05:33Z",
+  "health": {
+    "last_success_at": "2026-09-09T15:06:10Z",
+    "degraded": false,
+    "degraded_reasons": [],
+    "freshness_state": "fresh"
   },
-  "any_day": [
+  "week_label": "Sep 9–13",
+  "list": [],
+  "ongoing": [
     {
-      "id": 30,
-      "title": "Abolish ICE",
-      "cta_label": "Get a script",
-      "action_url": "https://5calls.org/issue/abolish-ice/",
-      "kind": "ongoing",
-      "date_or_deadline": null,
+      "id": 110,
+      "title": "5 Calls: Oppose Anti-Vax Heidi Overton for FDA Commissioner",
+      "description": "[Trump has nominated Dr.",
+      "date": null,
       "until": null,
-      "days_left": null,
-      "theme": "Immigration",
-      "rail": "5calls",
-      "scope": "national",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
+      "kind": "ongoing",
+      "ask_kind": "call",
+      "actions": [
         {
-          "slug": "5calls",
-          "label": "5 Calls",
-          "url": "https://5calls.org/issue/abolish-ice/"
+          "organizer": "5 Calls",
+          "label": "Get a script",
+          "url": "https://5calls.org/issue/heidi-overton-fda-commissioner/"
         }
-      ]
+      ],
+      "attribution": [
+        {
+          "source": "5 Calls",
+          "quote": "[Trump has nominated Dr.",
+          "post_url": "https://5calls.org/issue/heidi-overton-fda-commissioner/"
+        },
+        {
+          "source": "Rogan's List",
+          "quote": "Let's tell our senators to listen to them.",
+          "post_url": "https://susanrogan.substack.com/p/a-few-quick-actions-for-friday-82826"
+        }
+      ],
+      "sources_count": 2,
+      "score": 6
     },
     {
       "id": 108,
-      "title": "Protect Our Public Lands",
-      "cta_label": "Get a script",
-      "action_url": "https://5calls.org/issue/public-lands-sale-drilling/",
-      "kind": "ongoing",
-      "date_or_deadline": null,
+      "title": "5 Calls: Protect Our Public Lands",
+      "description": "The Trump administration has repeatedly acted to weaken protections for our public lands and [sell them to the highest bidder](https://www.americanprogress.org/article/the-trump-administrations-expansive-push-to-sell-out-public-lands-to-the-highest-bidder/).",
+      "date": null,
       "until": null,
-      "days_left": null,
-      "theme": "Environment",
-      "rail": "5calls",
-      "scope": "national",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
+      "kind": "ongoing",
+      "ask_kind": "call",
+      "actions": [
         {
-          "slug": "5calls",
-          "label": "5 Calls",
+          "organizer": "5 Calls",
+          "label": "Get a script",
           "url": "https://5calls.org/issue/public-lands-sale-drilling/"
         }
-      ]
+      ],
+      "attribution": [
+        {
+          "source": "5 Calls",
+          "quote": "The Trump administration has repeatedly acted to weaken protections for our public lands and [sell them to the highest bidder](https://www.americanprogress.org/article/the-trump-administrations-expansive-push-to-sell-out-public-lands-to-the-highest-bidder/).",
+          "post_url": "https://5calls.org/issue/public-lands-sale-drilling/"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
+    },
+    {
+      "id": 114,
+      "title": "5 Calls: Fight Unlawful ICE Enforcement Tactics",
+      "description": null,
+      "date": null,
+      "until": null,
+      "kind": "ongoing",
+      "ask_kind": "call",
+      "actions": [
+        {
+          "organizer": "5 Calls",
+          "label": "Get a script",
+          "url": "https://5calls.org/issue/ice-masks-use-of-force-accountability/"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "5 Calls",
+          "quote": "The Trump administration has made it a priority to expand and accelerate their relentless campaign of immigration enforcement, which has led to skyrocketing numbers of arrests, detentions, and deportations.",
+          "post_url": "https://5calls.org/issue/ice-masks-use-of-force-accountability/"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
     },
     {
       "id": 109,
-      "title": "Fight the Trump Administration's Election Interference",
-      "cta_label": "Get a script",
-      "action_url": "https://5calls.org/issue/state-voter-records-election-interference/",
-      "kind": "ongoing",
-      "date_or_deadline": null,
+      "title": "5 Calls: Fight the Trump Administration's Election Interference",
+      "description": "In an attempt to exert control over our elections, Trump called on Republicans to [“nationalize the voting](https://archive.is/e8uVK).\"",
+      "date": null,
       "until": null,
-      "days_left": null,
-      "theme": "Voter Rights",
-      "rail": "5calls",
-      "scope": "national",
-      "urgency_score": 1,
-      "status": "active",
-      "sources": [
+      "kind": "ongoing",
+      "ask_kind": "call",
+      "actions": [
         {
-          "slug": "5calls",
-          "label": "5 Calls",
+          "organizer": "5 Calls",
+          "label": "Get a script",
           "url": "https://5calls.org/issue/state-voter-records-election-interference/"
         }
-      ]
+      ],
+      "attribution": [
+        {
+          "source": "5 Calls",
+          "quote": "In an attempt to exert control over our elections, Trump called on Republicans to [“nationalize the voting](https://archive.is/e8uVK).\"",
+          "post_url": "https://5calls.org/issue/state-voter-records-election-interference/"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
+    },
+    {
+      "id": 36,
+      "title": "5 Calls: End the War with Iran",
+      "description": "#### Updates > **July 20, 2026:** More than [400 U.S.",
+      "date": null,
+      "until": null,
+      "kind": "ongoing",
+      "ask_kind": "call",
+      "actions": [
+        {
+          "organizer": "5 Calls",
+          "label": "Get a script",
+          "url": "https://5calls.org/issue/iran-war/"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "5 Calls",
+          "quote": "#### Updates > **July 20, 2026:** More than [400 U.S.",
+          "post_url": "https://5calls.org/issue/iran-war/"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
+    }
+  ],
+  "counts": {
+    "candidates": 201,
+    "excluded": 43,
+    "withheld": 14,
+    "merged": 2,
+    "kept": 5,
+    "just_under": 3,
+    "unverifiable_quotes": 0
+  },
+  "sources": [
+    {
+      "identity": "rogans-list",
+      "label": "Rogan's List",
+      "last_post_seen": "2026-08-28T15:01:55Z",
+      "asks_kept": 1
+    },
+    {
+      "identity": "cwcw",
+      "label": "Chop Wood, Carry Water",
+      "last_post_seen": null,
+      "asks_kept": 0
+    },
+    {
+      "identity": "people-power-united",
+      "label": "People Power United",
+      "last_post_seen": null,
+      "asks_kept": 0
+    },
+    {
+      "identity": "hubbell",
+      "label": "Robert Hubbell, Today's Edition",
+      "last_post_seen": null,
+      "asks_kept": 0
+    },
+    {
+      "identity": "americans-of-conscience",
+      "label": "Americans of Conscience Checklist",
+      "last_post_seen": null,
+      "asks_kept": 0
+    },
+    {
+      "identity": "5calls",
+      "label": "5 Calls",
+      "last_post_seen": null,
+      "asks_kept": 5
     }
   ],
   "rail": [
@@ -312,10 +202,5 @@
       "url": "https://www.mobilize.us/"
     }
   ],
-  "guide_url": "https://whatthefuckjusthappenedtoday.com/do-something/",
-  "focus_provenance": {
-    "kind": "generated",
-    "model": "openai/gpt-5.5",
-    "generation_id": "gen-1788783878-XhZ4Qn55GLFdobR28bXP"
-  }
+  "guide_url": "https://whatthefuckjusthappenedtoday.com/do-something/"
 }

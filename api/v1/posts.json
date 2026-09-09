@@ -155,6 +155,12 @@
       {%- if post.editorsNote and post.editorsNote != '' -%}
       "editorsNote": {{ post.editorsNote | jsonify }},
       {%- endif -%}
+      {%- if post.heatCheck and post.heatCheck != '' -%}
+      "heatCheck": {{ post.heatCheck | jsonify }},
+      {%- endif -%}
+      {%- if post.ps and post.ps != '' -%}
+      "ps": {{ post.ps | jsonify }},
+      {%- endif -%}
 
       {%- if post.onThisDaySummary and post.onThisDaySummary != '' -%}
       "onThisDaySummary": {{ post.onThisDaySummary | jsonify }},

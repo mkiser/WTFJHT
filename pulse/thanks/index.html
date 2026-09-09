@@ -243,7 +243,7 @@ sitemap: false
   }
 
   // No required params — generic message, no vote recording
-  if (!s || !q || !ed || (!v && !isOpenEnded) || !t) {
+  if (!s || !q || (!ed && !cid) || (!v && !isOpenEnded) || !t) {
     recording.style.display = 'none';
     bannerText.textContent = 'Thanks for reading WTFJHT!';
     banner.style.display = '';
@@ -556,7 +556,7 @@ sitemap: false
     submitBtn.textContent = 'Sending…';
 
     var payload = {
-      ed: ed, cid: cid, s: s, q: q, t: t, v: v, p: p,
+      ed: ed, cid: cid, s: s, q: q, t: t, p: p,
       note: note,
       website: document.getElementById('pulse-website').value,
       _rendered: pageLoadTime,

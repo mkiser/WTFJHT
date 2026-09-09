@@ -1,6 +1,12 @@
 ---
 title: Day 2058
 date: 2026-09-08 17:06:30 -07:00
+tags:
+- "supreme-court"
+- "voting-rights"
+- "midterm-election"
+- "iran"
+- "tariffs"
 description: '"It''s clear that time is over."'
 image: "/uploads/day2058trump-38a920.jpg"
 todayInOneSentence: The Supreme Court denied Missouri’s request to use a Republican-drawn

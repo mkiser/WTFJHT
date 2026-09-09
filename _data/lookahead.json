@@ -1,73 +1,104 @@
 {
-  "generated_at": "2026-09-09T15:06:10Z",
-  "sources_checked_at": "2026-09-09T15:05:33Z",
+  "generated_at": "2026-09-09T22:44:05Z",
+  "sources_checked_at": "2026-09-09T22:42:33Z",
   "health": {
-    "last_success_at": "2026-09-09T15:06:10Z",
+    "last_success_at": "2026-09-09T22:44:05Z",
     "degraded": false,
     "degraded_reasons": [],
     "freshness_state": "fresh"
   },
   "week_label": "Sep 9–13",
-  "list": [],
-  "ongoing": [
+  "list": [
     {
-      "id": 110,
-      "title": "5 Calls: Oppose Anti-Vax Heidi Overton for FDA Commissioner",
-      "description": "[Trump has nominated Dr.",
-      "date": null,
+      "id": 329,
+      "title": "No Big Bend Wall on Instagram: \"CBP wants to hear from Texans, and this is our",
+      "description": null,
+      "date": "2026-09-09",
       "until": null,
-      "kind": "ongoing",
-      "ask_kind": "call",
+      "kind": "event",
+      "ask_kind": "comment",
       "actions": [
         {
-          "organizer": "5 Calls",
-          "label": "Get a script",
-          "url": "https://5calls.org/issue/heidi-overton-fda-commissioner/"
+          "organizer": "Rogan's List",
+          "label": "Comment",
+          "url": "https://www.instagram.com/p/Db_fT_fDi3R/"
         }
       ],
       "attribution": [
-        {
-          "source": "5 Calls",
-          "quote": "[Trump has nominated Dr.",
-          "post_url": "https://5calls.org/issue/heidi-overton-fda-commissioner/"
-        },
         {
           "source": "Rogan's List",
-          "quote": "Let's tell our senators to listen to them.",
-          "post_url": "https://susanrogan.substack.com/p/a-few-quick-actions-for-friday-82826"
+          "quote": "We can register our opposition by emailing BigBendComments@cbp.dhs.gov",
+          "post_url": "https://susanrogan.substack.com/p/solidarity-school-is-in-session-this"
         }
       ],
-      "sources_count": 2,
-      "score": 6
+      "sources_count": 1,
+      "score": 4
     },
     {
-      "id": 108,
-      "title": "5 Calls: Protect Our Public Lands",
-      "description": "The Trump administration has repeatedly acted to weaken protections for our public lands and [sell them to the highest bidder](https://www.americanprogress.org/article/the-trump-administrations-expansive-push-to-sell-out-public-lands-to-the-highest-bidder/).",
-      "date": null,
+      "id": 185,
+      "title": "No Kings: Vote Early Kickoff Call, Sep 10, 8:00 pm ET",
+      "description": null,
+      "date": "2026-09-10",
       "until": null,
-      "kind": "ongoing",
+      "kind": "event",
       "ask_kind": "call",
       "actions": [
         {
-          "organizer": "5 Calls",
-          "label": "Get a script",
-          "url": "https://5calls.org/issue/public-lands-sale-drilling/"
+          "organizer": "Mobilize (national)",
+          "label": "RSVP",
+          "url": "https://www.mobilize.us/nokings/event/1012262/"
         }
       ],
       "attribution": [
         {
-          "source": "5 Calls",
-          "quote": "The Trump administration has repeatedly acted to weaken protections for our public lands and [sell them to the highest bidder](https://www.americanprogress.org/article/the-trump-administrations-expansive-push-to-sell-out-public-lands-to-the-highest-bidder/).",
-          "post_url": "https://5calls.org/issue/public-lands-sale-drilling/"
+          "source": "Rogan's List",
+          "quote": "We can sign up to join this call here.",
+          "post_url": "https://susanrogan.substack.com/p/no-kings-to-host-national-early-vote"
+        },
+        {
+          "source": "Chop Wood, Carry Water",
+          "quote": "On September 10 at 8PM ET please join Indivisible's No Kings: Vote Early Kickoff Call",
+          "post_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-98-a58"
+        },
+        {
+          "source": "People Power United",
+          "quote": "Join the Kickoff Call",
+          "post_url": "https://newsletter.peoplepowerunited.org/p/no-kings-vote-early-october-17"
+        }
+      ],
+      "sources_count": 3,
+      "score": 10
+    },
+    {
+      "id": 337,
+      "title": "Here is a toolkit",
+      "description": null,
+      "date": "2026-09-28",
+      "until": null,
+      "kind": "event",
+      "ask_kind": "letter",
+      "actions": [
+        {
+          "organizer": "Chop Wood, Carry Water",
+          "label": "Sign",
+          "url": "https://39ebcfaf-721b-4532-ad87-61c9f2e53088.usrfiles.com/ugd/39ebcf_1f4e5023ca00494b9d62c298e2bb8c46.pdf"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "Chop Wood, Carry Water",
+          "quote": "The easiest ask is for you to sign the petition:",
+          "post_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-98-a58"
         }
       ],
       "sources_count": 1,
       "score": 3
-    },
+    }
+  ],
+  "ongoing": [
     {
-      "id": 114,
-      "title": "5 Calls: Fight Unlawful ICE Enforcement Tactics",
+      "id": 59,
+      "title": "U.S. Senate: Contacting U.S. Senators",
       "description": null,
       "date": null,
       "until": null,
@@ -75,66 +106,116 @@
       "ask_kind": "call",
       "actions": [
         {
-          "organizer": "5 Calls",
-          "label": "Get a script",
-          "url": "https://5calls.org/issue/ice-masks-use-of-force-accountability/"
+          "organizer": "Chop Wood, Carry Water",
+          "label": "Call",
+          "url": "https://www.senate.gov/senators/senators-contact.htm"
         }
       ],
       "attribution": [
         {
-          "source": "5 Calls",
-          "quote": "The Trump administration has made it a priority to expand and accelerate their relentless campaign of immigration enforcement, which has led to skyrocketing numbers of arrests, detentions, and deportations.",
-          "post_url": "https://5calls.org/issue/ice-masks-use-of-force-accountability/"
+          "source": "Chop Wood, Carry Water",
+          "quote": "Call Your Senators (find yours here) 📲",
+          "post_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-98-a58"
         }
       ],
       "sources_count": 1,
       "score": 3
     },
     {
-      "id": 109,
-      "title": "5 Calls: Fight the Trump Administration's Election Interference",
-      "description": "In an attempt to exert control over our elections, Trump called on Republicans to [“nationalize the voting](https://archive.is/e8uVK).\"",
+      "id": 60,
+      "title": "Find Your Representative",
+      "description": null,
       "date": null,
       "until": null,
       "kind": "ongoing",
       "ask_kind": "call",
       "actions": [
         {
-          "organizer": "5 Calls",
-          "label": "Get a script",
-          "url": "https://5calls.org/issue/state-voter-records-election-interference/"
+          "organizer": "Chop Wood, Carry Water",
+          "label": "Call",
+          "url": "https://www.house.gov/representatives/find-your-representative"
         }
       ],
       "attribution": [
         {
-          "source": "5 Calls",
-          "quote": "In an attempt to exert control over our elections, Trump called on Republicans to [“nationalize the voting](https://archive.is/e8uVK).\"",
-          "post_url": "https://5calls.org/issue/state-voter-records-election-interference/"
+          "source": "Chop Wood, Carry Water",
+          "quote": "Call Your House Rep (find yours here) 📲",
+          "post_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-98-a58"
         }
       ],
       "sources_count": 1,
       "score": 3
     },
     {
-      "id": 36,
-      "title": "5 Calls: End the War with Iran",
-      "description": "#### Updates > **July 20, 2026:** More than [400 U.S.",
+      "id": 321,
+      "title": "telling MoCs to push for workplace heat safety regulations in the House,",
+      "description": null,
       "date": null,
       "until": null,
       "kind": "ongoing",
       "ask_kind": "call",
       "actions": [
         {
-          "organizer": "5 Calls",
-          "label": "Get a script",
-          "url": "https://5calls.org/issue/iran-war/"
+          "organizer": "AFL-CIO",
+          "label": "Call",
+          "url": "https://act.aflcio.org/call_campaigns/protect-workers-from-extreme-heat/"
         }
       ],
       "attribution": [
         {
-          "source": "5 Calls",
-          "quote": "#### Updates > **July 20, 2026:** More than [400 U.S.",
-          "post_url": "https://5calls.org/issue/iran-war/"
+          "source": "Rogan's List",
+          "quote": "We can use this call tool from the AFL-CIO",
+          "post_url": "https://susanrogan.substack.com/p/the-cause-of-labor-is-the-hope-of"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
+    },
+    {
+      "id": 323,
+      "title": "restoring collective bargaining rights for federal workers in the Senate",
+      "description": null,
+      "date": null,
+      "until": null,
+      "kind": "ongoing",
+      "ask_kind": "call",
+      "actions": [
+        {
+          "organizer": "AFL-CIO",
+          "label": "Call",
+          "url": "https://act.aflcio.org/call_campaigns/call-sign-the-discharge-petition-and-pass-the-protect-americas-workforce-act/"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "Rogan's List",
+          "quote": "We can find a call tool to reach out to our senators",
+          "post_url": "https://susanrogan.substack.com/p/the-cause-of-labor-is-the-hope-of"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
+    },
+    {
+      "id": 322,
+      "title": "Republicans are trying to ban national heat regulations from ever happening",
+      "description": "With 100° temps a new norm, Republicans are trying to stop all federal heat safety protection regs, now or in the future.",
+      "date": null,
+      "until": null,
+      "kind": "ongoing",
+      "ask_kind": "letter",
+      "actions": [
+        {
+          "organizer": "United Farm Workers",
+          "label": "Write",
+          "url": "https://act.seiu.org/a/fedheatregs?%2F%3Futm_source=roganslist"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "Rogan's List",
+          "quote": "and this e-mail tool from the United Farm Workers.",
+          "post_url": "https://susanrogan.substack.com/p/the-cause-of-labor-is-the-hope-of"
         }
       ],
       "sources_count": 1,
@@ -142,32 +223,32 @@
     }
   ],
   "counts": {
-    "candidates": 201,
-    "excluded": 43,
-    "withheld": 14,
-    "merged": 2,
-    "kept": 5,
-    "just_under": 3,
+    "candidates": 420,
+    "excluded": 185,
+    "withheld": 38,
+    "merged": 43,
+    "kept": 8,
+    "just_under": 13,
     "unverifiable_quotes": 0
   },
   "sources": [
     {
       "identity": "rogans-list",
       "label": "Rogan's List",
-      "last_post_seen": "2026-08-28T15:01:55Z",
-      "asks_kept": 1
+      "last_post_seen": "2026-09-08T14:17:36Z",
+      "asks_kept": 5
     },
     {
       "identity": "cwcw",
       "label": "Chop Wood, Carry Water",
-      "last_post_seen": null,
-      "asks_kept": 0
+      "last_post_seen": "2026-09-08T19:23:27Z",
+      "asks_kept": 4
     },
     {
       "identity": "people-power-united",
       "label": "People Power United",
-      "last_post_seen": null,
-      "asks_kept": 0
+      "last_post_seen": "2026-09-08T15:18:25Z",
+      "asks_kept": 1
     },
     {
       "identity": "hubbell",
@@ -185,7 +266,7 @@
       "identity": "5calls",
       "label": "5 Calls",
       "last_post_seen": null,
-      "asks_kept": 5
+      "asks_kept": 0
     }
   ],
   "rail": [

@@ -1,6 +1,11 @@
 ---
 title: Day 2059
 date: 2026-09-09 17:04:25 -07:00
+tags:
+- "census"
+- "immigration"
+- "iran"
+- "reproductive-rights"
 description: '"Tumbling down."'
 image: "/uploads/day2059trump-200a5a.jpg"
 todayInOneSentence: The Census Bureau proposed excluding undocumented immigrants and

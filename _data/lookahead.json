@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-10T04:22:29Z",
-  "sources_checked_at": "2026-09-10T04:20:29Z",
+  "generated_at": "2026-09-10T17:57:35Z",
+  "sources_checked_at": "2026-09-10T17:53:38Z",
   "health": {
-    "last_success_at": "2026-09-10T04:22:29Z",
+    "last_success_at": "2026-09-10T17:57:35Z",
     "degraded": false,
     "degraded_reasons": [],
     "freshness_state": "fresh"
   },
-  "week_label": "Sep 9–13",
+  "week_label": "Sep 10–13",
   "list": [
     {
       "id": 185,
@@ -27,8 +27,8 @@
       "attribution": [
         {
           "source": "Rogan's List",
-          "quote": "join the kickoff call TOMORROW at 8PM ET",
-          "post_url": "https://susanrogan.substack.com/p/medicare-for-all-is-on-the-ballot"
+          "quote": "join the kickoff call TONIGHT at 8PM ET, find events near us or register our own",
+          "post_url": "https://susanrogan.substack.com/p/save-health-care-tax-the-billionaires"
         },
         {
           "source": "Chop Wood, Carry Water",
@@ -77,100 +77,100 @@
       "score": 6
     },
     {
-      "id": 378,
-      "title": "Tell Congress: Disabled Veterans Are Not Budget Bargaining Chips",
-      "description": null,
-      "date": null,
-      "until": null,
-      "kind": "ongoing",
-      "ask_kind": "letter",
-      "actions": [
-        {
-          "organizer": "People Power United",
-          "label": "Write",
-          "url": "https://actionnetwork.org/letters/say-no-to-tcava?referrer=group-people-power-united&redirect=https%3A%2F%2Fnewsletter.peoplepowerunited.org%2F"
-        }
-      ],
-      "attribution": [
-        {
-          "source": "People Power United",
-          "quote": "Tell Congress: Disabled Veterans Are Not Budget Bargaining Chips",
-          "post_url": "https://newsletter.peoplepowerunited.org/p/our-veterans-deserve-better"
-        }
-      ],
-      "sources_count": 1,
-      "score": 3
-    },
-    {
-      "id": 375,
-      "title": "Send a Letter to the Editor to protect Head Start from RFK Jr.’s Attacks!",
-      "description": null,
-      "date": null,
-      "until": null,
-      "kind": "ongoing",
-      "ask_kind": "letter",
-      "actions": [
-        {
-          "organizer": "Moms Rising",
-          "label": "Write",
-          "url": "https://action.momsrising.org/lte/send-letter-editor-urging-congress-protect-head-start-rfk-jrs-attacks/"
-        }
-      ],
-      "attribution": [
-        {
-          "source": "Rogan's List",
-          "quote": "We can help change that with letters to the editor to our local newspapers.",
-          "post_url": "https://susanrogan.substack.com/p/medicare-for-all-is-on-the-ballot"
-        }
-      ],
-      "sources_count": 1,
-      "score": 3
-    },
-    {
-      "id": 322,
-      "title": "Republicans are trying to ban national heat regulations from ever happening",
-      "description": "With 100° temps a new norm, Republicans are trying to stop all federal heat safety protection regs, now or in the future.",
-      "date": null,
-      "until": null,
-      "kind": "ongoing",
-      "ask_kind": "letter",
-      "actions": [
-        {
-          "organizer": "United Farm Workers",
-          "label": "Write",
-          "url": "https://act.seiu.org/a/fedheatregs?%2F%3Futm_source=roganslist"
-        }
-      ],
-      "attribution": [
-        {
-          "source": "Rogan's List",
-          "quote": "and this e-mail tool from the United Farm Workers.",
-          "post_url": "https://susanrogan.substack.com/p/the-cause-of-labor-is-the-hope-of"
-        }
-      ],
-      "sources_count": 1,
-      "score": 3
-    },
-    {
-      "id": 321,
-      "title": "AFL-CIO: Protect workers from extreme heat",
-      "description": null,
+      "id": 423,
+      "title": "Oil surges past $101 to highest closing since May as Middle East conflict",
+      "description": "The price of oil breached the $100 threshold as new flare-ups between the U.S. and Iran stoked fresh concern for global energy markets.",
       "date": null,
       "until": null,
       "kind": "ongoing",
       "ask_kind": "call",
       "actions": [
         {
-          "organizer": "AFL-CIO",
+          "organizer": "Rogan's List",
           "label": "Call",
-          "url": "https://act.aflcio.org/call_campaigns/protect-workers-from-extreme-heat/"
+          "url": "https://www.nbcnews.com/business/business-news/oil-hits-100-barrel-middle-east-conflict-intensifies-us-iran-trump-gas-rcna596752"
         }
       ],
       "attribution": [
         {
           "source": "Rogan's List",
-          "quote": "We can use this call tool from the AFL-CIO",
-          "post_url": "https://susanrogan.substack.com/p/the-cause-of-labor-is-the-hope-of"
+          "quote": "push Congress to get us some relief with a windfall profits tax on Big Oil",
+          "post_url": "https://susanrogan.substack.com/p/save-health-care-tax-the-billionaires"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
+    },
+    {
+      "id": 421,
+      "title": "Judge refuses to toss lawsuit from woman detained by ICE after flying to Boston",
+      "description": null,
+      "date": null,
+      "until": null,
+      "kind": "ongoing",
+      "ask_kind": "letter",
+      "actions": [
+        {
+          "organizer": "Rogan's List",
+          "label": "Write",
+          "url": "https://www.boston.com/news/local-news/2026/09/09/judge-refuses-to-toss-lawsuit-from-woman-detained-by-ice-after-flying-to-boston-for-tall-ships-event/"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "Rogan's List",
+          "quote": "Let's write a note or postcard to thank Judge Joun for not allowing ICE to dismiss an instance",
+          "post_url": "https://susanrogan.substack.com/p/save-health-care-tax-the-billionaires"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
+    },
+    {
+      "id": 422,
+      "title": "Judge orders ex-marine's deported dad be returned to US \"immediately\"",
+      "description": "A judge has admonished the Trump administration, citing “extreme circumstances” in ordering the return of Esteban Rios Sosa.",
+      "date": null,
+      "until": null,
+      "kind": "ongoing",
+      "ask_kind": "letter",
+      "actions": [
+        {
+          "organizer": "Rogan's List",
+          "label": "Write",
+          "url": "https://www.yahoo.com/news/us/articles/judge-orders-ex-marines-deported-113942150.html"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "Rogan's List",
+          "quote": "Let's write a note or postcard to thank Judge Sammartino for insisting that this wrong be made right, immediately.",
+          "post_url": "https://susanrogan.substack.com/p/save-health-care-tax-the-billionaires"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
+    },
+    {
+      "id": 420,
+      "title": "DHS must pay $165K after wrongful deportation, judge rules in MD",
+      "description": "Homeland Security must pay almost $165,000 for the wrongful deportation of a Venezuelan immigrant to an El Salvador prison, a judge ruled in Maryland.",
+      "date": null,
+      "until": null,
+      "kind": "ongoing",
+      "ask_kind": "letter",
+      "actions": [
+        {
+          "organizer": "Rogan's List",
+          "label": "Write",
+          "url": "https://thedailyrecord.com/2026/09/09/dhs-deportation-maryland-federal-court/"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "Rogan's List",
+          "quote": "Let's write a note or postcard to thank Judge Gallagher both for her 2025 ruling that the deportation of Cristian was unlawful",
+          "post_url": "https://susanrogan.substack.com/p/save-health-care-tax-the-billionaires"
         }
       ],
       "sources_count": 1,
@@ -178,10 +178,10 @@
     }
   ],
   "counts": {
-    "candidates": 546,
-    "excluded": 286,
-    "withheld": 67,
-    "merged": 49,
+    "candidates": 525,
+    "excluded": 299,
+    "withheld": 47,
+    "merged": 43,
     "kept": 6,
     "just_under": 12,
     "unverifiable_quotes": 0
@@ -190,8 +190,8 @@
     {
       "identity": "rogans-list",
       "label": "Rogan's List",
-      "last_post_seen": "2026-09-09T13:32:09Z",
-      "asks_kept": 5
+      "last_post_seen": "2026-09-10T13:30:58Z",
+      "asks_kept": 6
     },
     {
       "identity": "cwcw",
@@ -202,8 +202,8 @@
     {
       "identity": "people-power-united",
       "label": "People Power United",
-      "last_post_seen": "2026-09-09T23:29:45Z",
-      "asks_kept": 2
+      "last_post_seen": "2026-09-08T15:18:25Z",
+      "asks_kept": 1
     },
     {
       "identity": "hubbell",

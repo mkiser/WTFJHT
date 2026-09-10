@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T00:55:03Z",
-  "sources_checked_at": "2026-09-10T00:49:37Z",
+  "generated_at": "2026-09-10T04:22:29Z",
+  "sources_checked_at": "2026-09-10T04:20:29Z",
   "health": {
-    "last_success_at": "2026-09-10T00:55:03Z",
+    "last_success_at": "2026-09-10T04:22:29Z",
     "degraded": false,
     "degraded_reasons": [],
     "freshness_state": "fresh"
@@ -43,34 +43,39 @@
       ],
       "sources_count": 3,
       "score": 10
-    },
+    }
+  ],
+  "ongoing": [
     {
-      "id": 376,
-      "title": "Federal Register :: Request Access",
+      "id": 110,
+      "title": "5 Calls: Oppose Anti-Vax Heidi Overton for FDA Commissioner",
       "description": null,
-      "date": "2026-10-06",
+      "date": null,
       "until": null,
-      "kind": "event",
-      "ask_kind": "comment",
+      "kind": "ongoing",
+      "ask_kind": "call",
       "actions": [
         {
-          "organizer": "Rogan's List",
-          "label": "Comment",
-          "url": "https://www.federalregister.gov/documents/2023/11/20/2023-25038/supporting-the-head-start-workforce-and-consistent-quality-programming"
+          "organizer": "5 Calls",
+          "label": "Get a script",
+          "url": "https://5calls.org/issue/heidi-overton-fda-commissioner/"
         }
       ],
       "attribution": [
         {
+          "source": "5 Calls",
+          "quote": "Trump has nominated Dr. Heidi Overton, an anti-vax, anti-abortion extremist, to lead the U.S. Food and Drug Administration (FDA), the agency responsible for regulating the safety of food, drugs, vaccines, and medical devices.",
+          "post_url": "https://5calls.org/issue/heidi-overton-fda-commissioner/"
+        },
+        {
           "source": "Rogan's List",
-          "quote": "Let's register our objections here",
-          "post_url": "https://susanrogan.substack.com/p/medicare-for-all-is-on-the-ballot"
+          "quote": "Let's tell our senators to listen to them.",
+          "post_url": "https://susanrogan.substack.com/p/a-few-quick-actions-for-friday-82826"
         }
       ],
-      "sources_count": 1,
-      "score": 3
-    }
-  ],
-  "ongoing": [
+      "sources_count": 2,
+      "score": 6
+    },
     {
       "id": 378,
       "title": "Tell Congress: Disabled Veterans Are Not Budget Bargaining Chips",
@@ -122,56 +127,6 @@
       "score": 3
     },
     {
-      "id": 321,
-      "title": "We can use this call tool from the AFL-CIO",
-      "description": null,
-      "date": null,
-      "until": null,
-      "kind": "ongoing",
-      "ask_kind": "call",
-      "actions": [
-        {
-          "organizer": "AFL-CIO",
-          "label": "Call",
-          "url": "https://act.aflcio.org/call_campaigns/protect-workers-from-extreme-heat/"
-        }
-      ],
-      "attribution": [
-        {
-          "source": "Rogan's List",
-          "quote": "We can use this call tool from the AFL-CIO",
-          "post_url": "https://susanrogan.substack.com/p/the-cause-of-labor-is-the-hope-of"
-        }
-      ],
-      "sources_count": 1,
-      "score": 3
-    },
-    {
-      "id": 323,
-      "title": "We can find a call tool to reach out to our senators",
-      "description": null,
-      "date": null,
-      "until": null,
-      "kind": "ongoing",
-      "ask_kind": "call",
-      "actions": [
-        {
-          "organizer": "AFL-CIO",
-          "label": "Call",
-          "url": "https://act.aflcio.org/call_campaigns/call-sign-the-discharge-petition-and-pass-the-protect-americas-workforce-act/"
-        }
-      ],
-      "attribution": [
-        {
-          "source": "Rogan's List",
-          "quote": "We can find a call tool to reach out to our senators",
-          "post_url": "https://susanrogan.substack.com/p/the-cause-of-labor-is-the-hope-of"
-        }
-      ],
-      "sources_count": 1,
-      "score": 3
-    },
-    {
       "id": 322,
       "title": "Republicans are trying to ban national heat regulations from ever happening",
       "description": "With 100° temps a new norm, Republicans are trying to stop all federal heat safety protection regs, now or in the future.",
@@ -195,14 +150,39 @@
       ],
       "sources_count": 1,
       "score": 3
+    },
+    {
+      "id": 321,
+      "title": "AFL-CIO: Protect workers from extreme heat",
+      "description": null,
+      "date": null,
+      "until": null,
+      "kind": "ongoing",
+      "ask_kind": "call",
+      "actions": [
+        {
+          "organizer": "AFL-CIO",
+          "label": "Call",
+          "url": "https://act.aflcio.org/call_campaigns/protect-workers-from-extreme-heat/"
+        }
+      ],
+      "attribution": [
+        {
+          "source": "Rogan's List",
+          "quote": "We can use this call tool from the AFL-CIO",
+          "post_url": "https://susanrogan.substack.com/p/the-cause-of-labor-is-the-hope-of"
+        }
+      ],
+      "sources_count": 1,
+      "score": 3
     }
   ],
   "counts": {
     "candidates": 546,
     "excluded": 286,
-    "withheld": 72,
+    "withheld": 67,
     "merged": 49,
-    "kept": 7,
+    "kept": 6,
     "just_under": 12,
     "unverifiable_quotes": 0
   },
@@ -211,7 +191,7 @@
       "identity": "rogans-list",
       "label": "Rogan's List",
       "last_post_seen": "2026-09-09T13:32:09Z",
-      "asks_kept": 6
+      "asks_kept": 5
     },
     {
       "identity": "cwcw",
@@ -241,7 +221,7 @@
       "identity": "5calls",
       "label": "5 Calls",
       "last_post_seen": null,
-      "asks_kept": 0
+      "asks_kept": 1
     }
   ],
   "rail": [

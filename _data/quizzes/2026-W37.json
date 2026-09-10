@@ -1,0 +1,175 @@
+{
+  "id": "2026-W37",
+  "week_label": "Aug 31 – Sep 10, 2026",
+  "status": "published",
+  "editions": [
+    2050,
+    2051,
+    2053,
+    2058,
+    2059,
+    2060
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "About how many educational institutions could be affected by the proposed rules targeting tax-exempt schools that consider race?",
+      "options": [
+        "1,800",
+        "300,000",
+        "18,000",
+        "8,000"
+      ],
+      "correct": 2,
+      "explanation": "The Treasury Department and IRS estimated that as many as 18,000 private schools, colleges, and universities could be affected.",
+      "source_day": 2053,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/03/day-2053/",
+      "difficulty": "hard",
+      "type": "number"
+    },
+    {
+      "number": 2,
+      "question": "What project did the Supreme Court allow Trump to continue constructing at the White House?",
+      "options": [
+        "A data center",
+        "A television studio",
+        "A ballroom",
+        "A military command center"
+      ],
+      "correct": 2,
+      "explanation": "The Supreme Court’s 5-4 decision allowed aboveground construction of Trump’s White House ballroom to continue. The majority concluded that the National Trust for Historic Preservation likely lacked standing.",
+      "source_day": 2050,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/08/31/day-2050/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 3,
+      "question": "Which congressional map did the Supreme Court leave Missouri to use in the November midterms?",
+      "options": [
+        "A new map drawn by a federal court",
+        "The Republican-drawn map used in the August primary",
+        "The map used before the 2020 census",
+        "The state’s 2022 map"
+      ],
+      "correct": 3,
+      "explanation": "The Supreme Court’s unsigned order left Missouri to use its 2022 map. That map preserves a Kansas City-area seat currently held by Democrats.",
+      "source_day": 2060,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/10/day-2060/",
+      "difficulty": "easy",
+      "type": "sequence"
+    },
+    {
+      "number": 4,
+      "question": "What does the 14th Amendment say must be counted when apportioning House seats among the states?",
+      "options": [
+        "All registered voters",
+        "All adults eligible to vote",
+        "The whole number of persons in each state",
+        "All U.S. citizens"
+      ],
+      "correct": 2,
+      "explanation": "The 14th Amendment calls for House seats to be apportioned by counting the “whole number of persons in each State.” That language conflicts with the Census Bureau’s proposal to exclude undocumented immigrants and other noncitizens.",
+      "source_day": 2059,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/09/day-2059/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 5,
+      "question": "How many Iranian oil tankers did U.S. forces destroy after missile attacks targeted a Navy warship?",
+      "options": [
+        "Five",
+        "Three",
+        "Two",
+        "Eight"
+      ],
+      "correct": 0,
+      "explanation": "U.S. forces destroyed five Iranian oil tankers after the Revolutionary Guards targeted a Navy warship twice with ballistic missiles. The warship evaded the attacks, and no American personnel were harmed.",
+      "source_day": 2058,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/08/day-2058/",
+      "difficulty": "easy",
+      "type": "number"
+    },
+    {
+      "number": 6,
+      "question": "Through what date would the House-passed stopgap bill keep the government open?",
+      "options": [
+        "March 31",
+        "December 11",
+        "November 3",
+        "January 20"
+      ],
+      "correct": 1,
+      "explanation": "The stopgap bill would maintain government funding through December 11, postponing full-year funding negotiations until after the midterm elections.",
+      "source_day": 2051,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/01/day-2051/",
+      "difficulty": "medium",
+      "type": "number"
+    },
+    {
+      "number": 7,
+      "question": "What probability was reported for AI potentially killing all humans within the next decade?",
+      "options": [
+        "More than 50%",
+        "Less than 1%",
+        "About 5%",
+        "More than 10%"
+      ],
+      "correct": 3,
+      "explanation": "An Anthropic researcher warned that there was a greater than 10% chance AI could kill all humans within the next decade. Anthropic alignment-science lead Evan Hubinger said the company did not yet have a plan to solve alignment for superintelligence.",
+      "source_day": 2059,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/09/day-2059/",
+      "difficulty": "hard",
+      "type": "number"
+    },
+    {
+      "number": 8,
+      "question": "What prompted the Missouri Supreme Court to put the state’s new congressional districts on hold?",
+      "options": [
+        "Congress rejected the districts",
+        "Citizens submitted more than 300,000 signatures seeking a referendum",
+        "Election officials missed a federal filing deadline",
+        "The governor vetoed the map"
+      ],
+      "correct": 1,
+      "explanation": "More than 300,000 signatures were submitted in support of a referendum. The court ruled that the map could not take effect unless and until voters approved it.",
+      "source_day": 2053,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/03/day-2053/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 9,
+      "question": "Why had a federal judge blocked the SAVE voter data system?",
+      "options": [
+        "It could only process voter records one at a time",
+        "It relied on unreliable citizenship data that had led states to remove U.S. citizens from voter rolls",
+        "It transferred control of voter registration to the Postal Service",
+        "It prevented states from using Social Security data in any government program"
+      ],
+      "correct": 1,
+      "explanation": "The judge found that the government had haphazardly combined and repurposed unreliable citizenship data. States had removed U.S. citizens from voter rolls based on inaccurate information from the system.",
+      "source_day": 2058,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/08/day-2058/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 10,
+      "question": "What did Trump promise every American adult if Republicans retain control of Congress in the midterms?",
+      "options": [
+        "A $5,000 “Trump dividend”",
+        "A $2,000 tariff refund",
+        "A 15% federal income tax cut",
+        "A $500 health insurance rebate"
+      ],
+      "correct": 0,
+      "explanation": "Trump promised every American adult a $5,000 “Trump dividend” if Republicans retain control of Congress. The proposal would cost more than $1 trillion and require congressional approval.",
+      "source_day": 2060,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/10/day-2060/",
+      "difficulty": "easy",
+      "type": "what happened"
+    }
+  ]
+}

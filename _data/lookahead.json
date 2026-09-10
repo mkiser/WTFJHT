@@ -1,39 +1,14 @@
 {
-  "generated_at": "2026-09-09T22:44:05Z",
-  "sources_checked_at": "2026-09-09T22:42:33Z",
+  "generated_at": "2026-09-10T00:55:03Z",
+  "sources_checked_at": "2026-09-10T00:49:37Z",
   "health": {
-    "last_success_at": "2026-09-09T22:44:05Z",
+    "last_success_at": "2026-09-10T00:55:03Z",
     "degraded": false,
     "degraded_reasons": [],
     "freshness_state": "fresh"
   },
   "week_label": "Sep 9–13",
   "list": [
-    {
-      "id": 329,
-      "title": "No Big Bend Wall on Instagram: \"CBP wants to hear from Texans, and this is our",
-      "description": null,
-      "date": "2026-09-09",
-      "until": null,
-      "kind": "event",
-      "ask_kind": "comment",
-      "actions": [
-        {
-          "organizer": "Rogan's List",
-          "label": "Comment",
-          "url": "https://www.instagram.com/p/Db_fT_fDi3R/"
-        }
-      ],
-      "attribution": [
-        {
-          "source": "Rogan's List",
-          "quote": "We can register our opposition by emailing BigBendComments@cbp.dhs.gov",
-          "post_url": "https://susanrogan.substack.com/p/solidarity-school-is-in-session-this"
-        }
-      ],
-      "sources_count": 1,
-      "score": 4
-    },
     {
       "id": 185,
       "title": "No Kings: Vote Early Kickoff Call, Sep 10, 8:00 pm ET",
@@ -52,8 +27,8 @@
       "attribution": [
         {
           "source": "Rogan's List",
-          "quote": "We can sign up to join this call here.",
-          "post_url": "https://susanrogan.substack.com/p/no-kings-to-host-national-early-vote"
+          "quote": "join the kickoff call TOMORROW at 8PM ET",
+          "post_url": "https://susanrogan.substack.com/p/medicare-for-all-is-on-the-ballot"
         },
         {
           "source": "Chop Wood, Carry Water",
@@ -70,25 +45,25 @@
       "score": 10
     },
     {
-      "id": 337,
-      "title": "Here is a toolkit",
+      "id": 376,
+      "title": "Federal Register :: Request Access",
       "description": null,
-      "date": "2026-09-28",
+      "date": "2026-10-06",
       "until": null,
       "kind": "event",
-      "ask_kind": "letter",
+      "ask_kind": "comment",
       "actions": [
         {
-          "organizer": "Chop Wood, Carry Water",
-          "label": "Sign",
-          "url": "https://39ebcfaf-721b-4532-ad87-61c9f2e53088.usrfiles.com/ugd/39ebcf_1f4e5023ca00494b9d62c298e2bb8c46.pdf"
+          "organizer": "Rogan's List",
+          "label": "Comment",
+          "url": "https://www.federalregister.gov/documents/2023/11/20/2023-25038/supporting-the-head-start-workforce-and-consistent-quality-programming"
         }
       ],
       "attribution": [
         {
-          "source": "Chop Wood, Carry Water",
-          "quote": "The easiest ask is for you to sign the petition:",
-          "post_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-98-a58"
+          "source": "Rogan's List",
+          "quote": "Let's register our objections here",
+          "post_url": "https://susanrogan.substack.com/p/medicare-for-all-is-on-the-ballot"
         }
       ],
       "sources_count": 1,
@@ -97,50 +72,50 @@
   ],
   "ongoing": [
     {
-      "id": 59,
-      "title": "U.S. Senate: Contacting U.S. Senators",
+      "id": 378,
+      "title": "Tell Congress: Disabled Veterans Are Not Budget Bargaining Chips",
       "description": null,
       "date": null,
       "until": null,
       "kind": "ongoing",
-      "ask_kind": "call",
+      "ask_kind": "letter",
       "actions": [
         {
-          "organizer": "Chop Wood, Carry Water",
-          "label": "Call",
-          "url": "https://www.senate.gov/senators/senators-contact.htm"
+          "organizer": "People Power United",
+          "label": "Write",
+          "url": "https://actionnetwork.org/letters/say-no-to-tcava?referrer=group-people-power-united&redirect=https%3A%2F%2Fnewsletter.peoplepowerunited.org%2F"
         }
       ],
       "attribution": [
         {
-          "source": "Chop Wood, Carry Water",
-          "quote": "Call Your Senators (find yours here) 📲",
-          "post_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-98-a58"
+          "source": "People Power United",
+          "quote": "Tell Congress: Disabled Veterans Are Not Budget Bargaining Chips",
+          "post_url": "https://newsletter.peoplepowerunited.org/p/our-veterans-deserve-better"
         }
       ],
       "sources_count": 1,
       "score": 3
     },
     {
-      "id": 60,
-      "title": "Find Your Representative",
+      "id": 375,
+      "title": "Send a Letter to the Editor to protect Head Start from RFK Jr.’s Attacks!",
       "description": null,
       "date": null,
       "until": null,
       "kind": "ongoing",
-      "ask_kind": "call",
+      "ask_kind": "letter",
       "actions": [
         {
-          "organizer": "Chop Wood, Carry Water",
-          "label": "Call",
-          "url": "https://www.house.gov/representatives/find-your-representative"
+          "organizer": "Moms Rising",
+          "label": "Write",
+          "url": "https://action.momsrising.org/lte/send-letter-editor-urging-congress-protect-head-start-rfk-jrs-attacks/"
         }
       ],
       "attribution": [
         {
-          "source": "Chop Wood, Carry Water",
-          "quote": "Call Your House Rep (find yours here) 📲",
-          "post_url": "https://chopwoodcarrywaterdailyactions.substack.com/p/chop-wood-carry-water-98-a58"
+          "source": "Rogan's List",
+          "quote": "We can help change that with letters to the editor to our local newspapers.",
+          "post_url": "https://susanrogan.substack.com/p/medicare-for-all-is-on-the-ballot"
         }
       ],
       "sources_count": 1,
@@ -148,7 +123,7 @@
     },
     {
       "id": 321,
-      "title": "telling MoCs to push for workplace heat safety regulations in the House,",
+      "title": "We can use this call tool from the AFL-CIO",
       "description": null,
       "date": null,
       "until": null,
@@ -173,7 +148,7 @@
     },
     {
       "id": 323,
-      "title": "restoring collective bargaining rights for federal workers in the Senate",
+      "title": "We can find a call tool to reach out to our senators",
       "description": null,
       "date": null,
       "until": null,
@@ -223,32 +198,32 @@
     }
   ],
   "counts": {
-    "candidates": 420,
-    "excluded": 185,
-    "withheld": 38,
-    "merged": 43,
-    "kept": 8,
-    "just_under": 13,
+    "candidates": 546,
+    "excluded": 286,
+    "withheld": 72,
+    "merged": 49,
+    "kept": 7,
+    "just_under": 12,
     "unverifiable_quotes": 0
   },
   "sources": [
     {
       "identity": "rogans-list",
       "label": "Rogan's List",
-      "last_post_seen": "2026-09-08T14:17:36Z",
-      "asks_kept": 5
+      "last_post_seen": "2026-09-09T13:32:09Z",
+      "asks_kept": 6
     },
     {
       "identity": "cwcw",
       "label": "Chop Wood, Carry Water",
       "last_post_seen": "2026-09-08T19:23:27Z",
-      "asks_kept": 4
+      "asks_kept": 1
     },
     {
       "identity": "people-power-united",
       "label": "People Power United",
-      "last_post_seen": "2026-09-08T15:18:25Z",
-      "asks_kept": 1
+      "last_post_seen": "2026-09-09T23:29:45Z",
+      "asks_kept": 2
     },
     {
       "identity": "hubbell",

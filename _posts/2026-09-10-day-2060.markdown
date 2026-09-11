@@ -1,6 +1,11 @@
 ---
 title: Day 2060
 date: 2026-09-10 16:18:32 -07:00
+tags:
+- "midterm-election"
+- "voting-rights"
+- "supreme-court"
+- "elections"
 description: '"This nonsense."'
 image: "/uploads/day2060trump-3fe6c5.jpg"
 todayInOneSentence: 'The Supreme Court blocked Missouri from using its Republican-drawn

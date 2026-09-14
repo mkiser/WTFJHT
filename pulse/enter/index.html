@@ -236,11 +236,12 @@ sitemap: false
     }
     if (r.status === 409) {
       hideFallback();
-      setStatus('You’re already entered. Good luck!');
-      if (submitBtn) {
-        submitBtn.disabled = true;
-        submitBtn.textContent = buttonLabel;
-      }
+      clearRoot();
+      var entered = banner('You’re already entered. Good luck!');
+      entered.setAttribute('role', 'status');
+      entered.tabIndex = -1;
+      root.appendChild(entered);
+      entered.focus();
       return;
     }
     if (r.status === 410) {

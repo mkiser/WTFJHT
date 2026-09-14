@@ -49,6 +49,30 @@
   margin: 0 0 0.75em;
 }
 
+.pulse-vote {
+  margin: 1.75em 0 2em;
+  padding: 0.9em 0;
+  border-top: 1px solid $border-lighter;
+  border-bottom: 1px solid $border-lighter;
+}
+
+.pulse-vote-label {
+  margin: 0 0 0.2em;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: $meta-color;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.pulse-vote-value {
+  margin: 0;
+  font-size: 1.65rem;
+  line-height: 1.25;
+  font-weight: 700;
+  color: $gray-5;
+}
+
 .pulse-textarea {
   width: 100%;
   min-height: 5em;
@@ -153,11 +177,6 @@
     opacity: 0.6;
     cursor: wait;
   }
-}
-
-// Closed state — tighten spacing between banner and results link
-#pulse-closed .pulse-banner {
-  margin-bottom: 0.5em;
 }
 
 // Standalone results link (below banner, when form isn't visible)

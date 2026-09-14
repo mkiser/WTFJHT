@@ -22,9 +22,8 @@ sitemap: false
     </div>
 
     <!-- Vote confirmation banner (shown after successful POST) -->
-    <div id="pulse-banner" class="pulse-banner" style="display:none">
-      {% include icons.html icon="check-circle" %}
-      <span id="pulse-banner-text" class="pulse-banner-text"></span>
+    <div id="pulse-banner" style="display:none">
+      <h1 class="page-title" id="pulse-banner-title"></h1>
     </div>
 
     <!-- Turnstile fallback (shown only when the silent bot check was blocked by the user's browser) -->
@@ -40,6 +39,22 @@ sitemap: false
               style="padding:0.75rem 1.5rem;font-size:1rem;font-weight:600;color:#fff;background:#111;border:1px solid #111;border-radius:0;cursor:pointer;min-height:46px">
         Confirm your vote
       </button>
+    </div>
+
+    <div id="pulse-public" style="display:none">
+      <h1 class="page-title">Confirm your vote</h1>
+      <p id="pulse-public-question" class="pulse-prompt"></p>
+      <dl class="pulse-vote">
+        <dt class="pulse-vote-label">Your vote</dt>
+        <dd class="pulse-vote-value" id="pulse-public-choice"></dd>
+      </dl>
+      <div class="pulse-meta">
+        <button type="button" class="pulse-btn" id="pulse-public-submit">Submit</button>
+      </div>
+      <div class="pulse-hp" aria-hidden="true">
+        <label for="pulse-public-website">Website</label>
+        <input type="text" id="pulse-public-website" name="website" tabindex="-1" autocomplete="off">
+      </div>
     </div>
 
     <!-- Follow-up form -->
@@ -63,9 +78,8 @@ sitemap: false
     </div>
 
     <!-- Success state after form submission -->
-    <div id="pulse-success" class="pulse-banner" style="display:none">
-      {% include icons.html icon="check-circle" %}
-      <span>Thanks for your feedback.</span>
+    <div id="pulse-success" style="display:none">
+      <h1 class="page-title">Thanks for your feedback.</h1>
     </div>
 
     <!-- Standalone results link (shown when form is not visible) -->
@@ -82,17 +96,14 @@ sitemap: false
 
     <!-- Error state if vote recording fails -->
     <div id="pulse-vote-error" style="display:none">
-      <div class="pulse-banner">
-        <span class="pulse-banner-text">Something went wrong recording your vote. Try clicking the link in your email again.</span>
-      </div>
+      <h1 class="page-title">Something went wrong recording your vote.</h1>
+      <p class="pulse-prompt">Try again.</p>
     </div>
 
     <!-- Closed question state -->
     <div id="pulse-closed" style="display:none">
-      <div class="pulse-banner pulse-banner--closed">
-        {% include icons.html icon="check-circle" %}
-        <span class="pulse-banner-text">Voting has ended for this question. Thanks for reading WTFJHT!</span>
-      </div>
+      <h1 class="page-title">Voting has ended for this question.</h1>
+      <p class="pulse-prompt">Thanks for reading WTFJHT!</p>
       <button id="pulse-show-results-closed" class="pulse-results-link" type="button">See how others voted</button>
     </div>
 
@@ -135,10 +146,48 @@ sitemap: false
   var isOpenEnded = t === 'open-ended';
   var questionConfig = null;
 
+  function isUnresolvedMergeTag(value) {
+    if (typeof value !== 'string') return false;
+    return /^\s*\*\|[^|]*\|\*\s*$/.test(value);
+  }
+
+  function isEmailClick(subscriberId, campaignId) {
+    return (!!subscriberId && !isUnresolvedMergeTag(subscriberId))
+      || (!!campaignId && !isUnresolvedMergeTag(campaignId));
+  }
+
+  var tokenMemStore = {};
+  function tokenGet(key) {
+    try {
+      var stored = window.localStorage.getItem(key);
+      if (stored != null) return stored;
+    } catch (err) {}
+    return (key in tokenMemStore) ? tokenMemStore[key] : null;
+  }
+  function tokenSet(key, value) {
+    tokenMemStore[key] = value;
+    try { window.localStorage.setItem(key, value); } catch (err) {}
+  }
+  function newDeviceToken() {
+    if (window.crypto && crypto.randomUUID) return crypto.randomUUID();
+    return 'k' + Date.now().toString(36) + Math.random().toString(36).slice(2, 12);
+  }
+  function deviceToken(question) {
+    var key = 'wtfjht-pulse-token-' + question;
+    var existing = tokenGet(key);
+    if (existing) return existing;
+    var minted = newDeviceToken();
+    tokenSet(key, minted);
+    return minted;
+  }
+
+  var anonToken = '';
+  var publicSubmitted = false;
+
   var content = document.getElementById('pulse-content');
   var recording = document.getElementById('pulse-recording');
   var banner = document.getElementById('pulse-banner');
-  var bannerText = document.getElementById('pulse-banner-text');
+  var bannerTitle = document.getElementById('pulse-banner-title');
   var formSection = document.getElementById('pulse-form-section');
   var form = document.getElementById('pulse-form');
   var noteField = document.getElementById('pulse-note');
@@ -157,6 +206,8 @@ sitemap: false
   var fallbackEl = document.getElementById('turnstile-fallback');
   var fallbackText = document.getElementById('turnstile-fallback-text');
   var fallbackBtn = document.getElementById('turnstile-fallback-btn');
+  var publicEl = document.getElementById('pulse-public');
+  var publicSubmitBtn = document.getElementById('pulse-public-submit');
 
   var closed = params.get('closed') === '1';
 
@@ -243,9 +294,9 @@ sitemap: false
   }
 
   // No required params — generic message, no vote recording
-  if (!s || !q || (!ed && !cid) || (!v && !isOpenEnded) || !t) {
+  if (!q || !t || (!v && !isOpenEnded)) {
     recording.style.display = 'none';
-    bannerText.textContent = 'Thanks for reading WTFJHT!';
+    bannerTitle.textContent = 'Thanks for reading WTFJHT!';
     banner.style.display = '';
     content.style.display = 'block';
     return;
@@ -268,6 +319,8 @@ sitemap: false
     }
     return;
   }
+
+  anonToken = deviceToken(q);
 
   // Show the page
   content.style.display = 'block';
@@ -296,7 +349,7 @@ sitemap: false
         // Fallback: show generic prompt
         showOpenEndedForm({ stage2Prompt: 'Share your thoughts.' });
       });
-  } else {
+  } else if (isEmailClick(s, cid)) {
     // =====================================================================
     // STAGE 1: Record the vote via POST on page load
     // Gate on the initial Turnstile token (invisible challenge); if it
@@ -317,10 +370,12 @@ sitemap: false
       }
       stage1Post(token, false);
     });
+  } else {
+    publicVote();
   }
 
   function stage1Post(token, isFallback) {
-    var body = { ed: ed, cid: cid, s: s, q: q, t: t, v: v, p: p };
+    var body = { ed: ed, cid: cid, s: s, q: q, t: t, v: v, p: p, anon: anonToken };
     if (isFallback) {
       body.fallback = true;
     } else {
@@ -358,12 +413,140 @@ sitemap: false
       });
   }
 
+  function publicVote() {
+    recording.style.display = 'none';
+
+    fetch(API_URL + '/config?q=' + encodeURIComponent(q))
+      .then(function (res) {
+        if (!res.ok && res.status !== 404 && res.status !== 410) throw new Error('Config fetch failed');
+        return res.json().then(function (data) { return { status: res.status, data: data }; });
+      })
+      .then(function (result) {
+        if (result.status === 404 || result.status === 410 || (result.data && result.data.status === 'archived')) {
+          closedEl.style.display = 'block';
+          return null;
+        }
+        questionConfig = result.data;
+        return result.data;
+      })
+      .catch(function () { return {}; })
+      .then(function (config) {
+        if (!config) return;
+        publicVoteOptions(config).then(function (options) {
+          showPublicVoteForm(config, options);
+        });
+      });
+  }
+
+  function publicVoteOptions(config) {
+    if (config && config.options && config.options.length) {
+      return Promise.resolve(config.options);
+    }
+    return fetch(API_URL + '/results?q=' + encodeURIComponent(q))
+      .then(function (res) { return res.json(); })
+      .then(function (data) {
+        return (data && data.options && data.options.length) ? data.options : [{ value: v, label: v }];
+      })
+      .catch(function () { return [{ value: v, label: v }]; });
+  }
+
+  function showPublicVoteForm(config, options) {
+    var questionEl = document.getElementById('pulse-public-question');
+    if (config && config.text) {
+      questionEl.textContent = config.text;
+    } else {
+      questionEl.style.display = 'none';
+    }
+
+    var chosen = null;
+    for (var i = 0; i < options.length; i++) {
+      if (options[i].value === v) { chosen = options[i]; break; }
+    }
+    document.getElementById('pulse-public-choice').textContent = (chosen && chosen.label) ? chosen.label : v;
+
+    publicSubmitBtn.addEventListener('click', publicSubmit);
+    publicEl.style.display = '';
+  }
+
+  function publicSubmit() {
+    if (publicSubmitted) return;
+
+    publicSubmitted = true;
+    publicSubmitBtn.disabled = true;
+    publicSubmitBtn.textContent = 'Sending…';
+
+    setTimeout(publicSend, Math.max(0, 2500 - (Date.now() - pageLoadTime)));
+  }
+
+  function publicSend() {
+    turnstileReady.then(function (token) {
+      if (token === null) {
+        publicSubmitted = false;
+        publicSubmitBtn.disabled = false;
+        publicSubmitBtn.textContent = 'Submit';
+        showTurnstileFallback(
+          "Your browser's privacy settings blocked our bot check. One tap to confirm your vote:",
+          'Confirm your vote',
+          function () { publicPost(null, true); }
+        );
+        return;
+      }
+      publicPost(token, false);
+    });
+  }
+
+  function publicPost(token, isFallback) {
+    publicSubmitted = true;
+    publicSubmitBtn.disabled = true;
+    publicSubmitBtn.textContent = 'Sending…';
+
+    var body = {
+      ed: ed, cid: cid, s: s, q: q, t: t, v: v, p: p,
+      anon: anonToken,
+      _rendered: pageLoadTime,
+      website: document.getElementById('pulse-public-website').value
+    };
+    if (isFallback) {
+      body.fallback = true;
+    } else {
+      body.turnstile = token;
+    }
+
+    fetch(API_URL, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(body)
+    })
+      .then(function (res) {
+        return res.json().then(function (data) { return { status: res.status, data: data }; });
+      })
+      .then(function (result) {
+        hideTurnstileFallback();
+        publicEl.style.display = 'none';
+
+        if (result.data.ok || result.status === 429) {
+          stage1Confirmed = true;
+          showConfirmation();
+          showResultsGate();
+        } else if (result.status === 410) {
+          closedEl.style.display = 'block';
+        } else {
+          voteErrorEl.style.display = 'block';
+        }
+      })
+      .catch(function () {
+        hideTurnstileFallback();
+        publicEl.style.display = 'none';
+        voteErrorEl.style.display = 'block';
+      });
+  }
+
   // =====================================================================
   // Show confirmation + Stage 2 form
   // =====================================================================
 
   function showConfirmation() {
-    bannerText.textContent = 'Got it — your vote has been recorded.';
+    bannerTitle.textContent = 'Got it — your vote has been recorded.';
     banner.style.display = '';
 
     var promptEl = document.getElementById('pulse-prompt');
@@ -558,6 +741,7 @@ sitemap: false
     var payload = {
       ed: ed, cid: cid, s: s, q: q, t: t, p: p,
       note: note,
+      anon: anonToken,
       website: document.getElementById('pulse-website').value,
       _rendered: pageLoadTime,
       idempotencyKey: noteIdempotencyKey

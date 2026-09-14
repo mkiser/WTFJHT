@@ -349,10 +349,6 @@
                    : 0;
     verdictEl.textContent = VERDICTS[verdictKey] || '';
 
-    // Screen reader announcement
-    var announce = document.getElementById('quiz-result-announce');
-    if (announce) announce.textContent = 'You scored ' + state.score + ' out of ' + questions.length + '. ' + (VERDICTS[verdictKey] || '');
-
     // Breakdown — safe DOM construction (no innerHTML, prevents XSS via question text)
     breakdownEl.textContent = '';
     state.answers.forEach(function (a, i) {
@@ -379,6 +375,15 @@
     if (totalSpan) totalSpan.textContent = '/ ' + questions.length;
 
     resultsPanel.style.display = '';
+
+    // Screen reader announcement
+    var announce = document.getElementById('quiz-result-announce');
+    if (announce) {
+      setTimeout(function () {
+        announce.textContent = 'You scored ' + state.score + ' out of ' + questions.length + '. ' + (VERDICTS[verdictKey] || '');
+      }, 0);
+    }
+
     resultsPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
     renderAggregates();
 

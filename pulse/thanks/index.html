@@ -210,12 +210,27 @@ sitemap: false
   // =====================================================================
   var turnstileWidgetId = null;
   var turnstileResolve;
+  var TURNSTILE_CAP_MS = 2000;
+  var turnstileStartedAt = null;
   var turnstileReady = new Promise(function (resolve) {
     turnstileResolve = resolve;
     setTimeout(function () { resolve(null); }, 10000); // per-promise safety net
   });
 
+  function cappedTurnstile(promise, startedAt) {
+    var budget = startedAt === null
+      ? TURNSTILE_CAP_MS
+      : Math.max(0, TURNSTILE_CAP_MS - (Date.now() - startedAt));
+    return Promise.race([
+      promise,
+      new Promise(function (resolve) {
+        setTimeout(function () { resolve(null); }, budget);
+      })
+    ]);
+  }
+
   function getFreshTurnstilePromise() {
+    turnstileStartedAt = Date.now();
     turnstileReady = new Promise(function (resolve) {
       turnstileResolve = resolve;
       setTimeout(function () { resolve(null); }, 10000); // per-promise safety net
@@ -231,12 +246,14 @@ sitemap: false
   window.onTurnstileLoad = function () {
     if (typeof turnstile === 'undefined') { turnstileResolve(null); return; }
     try {
+      turnstileStartedAt = Date.now();
       turnstileWidgetId = turnstile.render('#cf-turnstile', {
         sitekey: '{{ site.turnstile_site_key }}',
         callback: function (token) { turnstileResolve(token); },
         'error-callback': function () { turnstileResolve(null); },
         'expired-callback': function () {
           // Token expired before use — request a new one.
+          turnstileStartedAt = Date.now();
           turnstileReady = new Promise(function (resolve) {
             turnstileResolve = resolve;
             setTimeout(function () { resolve(null); }, 10000);
@@ -386,7 +403,7 @@ sitemap: false
         recording.style.display = 'none';
         hideTurnstileFallback();
 
-        if (result.data.ok || result.status === 429) {
+        if (result.data.ok) {
           // Stage 1 accepted (whether Turnstile path or fallback path). Stage 2
           // can skip the fallback banner if its Turnstile check also fails —
           // same user, same session, already proved real-ness.
@@ -477,7 +494,7 @@ sitemap: false
   }
 
   function publicSend() {
-    turnstileReady.then(function (token) {
+    cappedTurnstile(turnstileReady, turnstileStartedAt).then(function (token) {
       if (token === null) {
         publicSubmitted = false;
         publicSubmitBtn.textContent = 'Submit';
@@ -522,7 +539,7 @@ sitemap: false
         hideTurnstileFallback();
         publicEl.style.display = 'none';
 
-        if (result.data.ok || result.status === 429) {
+        if (result.data.ok) {
           stage1Confirmed = true;
           showConfirmation();
           showResultsGate();
@@ -705,7 +722,8 @@ sitemap: false
     submitBtn.textContent = 'Sending…';
     errorEl.style.display = 'none';
 
-    turnstileReady.then(function (token) {
+    var noteTurnstileReady = isEmailClick(s, cid) ? turnstileReady : cappedTurnstile(turnstileReady, turnstileStartedAt);
+    noteTurnstileReady.then(function (token) {
       if (token === null) {
         if (stage1Confirmed) {
           // User already proved real-ness on Stage 1 (either via Turnstile

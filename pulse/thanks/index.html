@@ -26,21 +26,6 @@ sitemap: false
       <h1 class="page-title" id="pulse-banner-title"></h1>
     </div>
 
-    <!-- Turnstile fallback (shown only when the silent bot check was blocked by the user's browser) -->
-    <style>
-      /* Night printing: ink-square fallback button flips to light on dark ground.
-         id-based — survives the cloneNode(true) reset in showTurnstileFallback. */
-      /* !important: must outgun the button's inline style attribute */
-    [data-theme="night"] #turnstile-fallback-btn { color: #111 !important; background: #fff !important; border-color: #fff !important; }
-    </style>
-    <div id="turnstile-fallback" style="display:none;padding:1em;background:var(--c-surface, #f9f9f9);border-left:3px solid var(--c-warning, #b45309);margin:1em 0;font-family:Helvetica,Arial,sans-serif">
-      <p id="turnstile-fallback-text" style="margin:0 0 0.6em;color:var(--c-ink, #1a1a1a)">Your browser's privacy settings blocked our bot check. One tap to confirm your vote:</p>
-      <button id="turnstile-fallback-btn" type="button" disabled
-              style="padding:0.75rem 1.5rem;font-size:1rem;font-weight:600;color:#fff;background:#111;border:1px solid #111;border-radius:0;cursor:pointer;min-height:46px">
-        Confirm your vote
-      </button>
-    </div>
-
     <div id="pulse-public" style="display:none">
       <h1 class="page-title">Confirm your vote</h1>
       <p id="pulse-public-question" class="pulse-prompt"></p>
@@ -54,6 +39,14 @@ sitemap: false
       <div class="pulse-hp" aria-hidden="true">
         <label for="pulse-public-website">Website</label>
         <input type="text" id="pulse-public-website" name="website" tabindex="-1" autocomplete="off">
+      </div>
+    </div>
+
+    <!-- Turnstile fallback (shown only when the silent bot check was blocked by the user's browser) -->
+    <div id="turnstile-fallback" style="display:none">
+      <p id="turnstile-fallback-text" class="pulse-prompt">Your browser's privacy settings blocked our bot check. One tap to confirm your vote:</p>
+      <div class="pulse-meta">
+        <button id="turnstile-fallback-btn" type="button" class="pulse-btn" disabled>Confirm your vote</button>
       </div>
     </div>
 
@@ -464,6 +457,11 @@ sitemap: false
     }
     document.getElementById('pulse-public-choice').textContent = (chosen && chosen.label) ? chosen.label : v;
 
+    publicSubmitBtn.disabled = true;
+    setTimeout(function () {
+      if (!publicSubmitted) publicSubmitBtn.disabled = false;
+    }, Math.max(0, 2500 - (Date.now() - pageLoadTime)));
+
     publicSubmitBtn.addEventListener('click', publicSubmit);
     publicEl.style.display = '';
   }
@@ -482,11 +480,11 @@ sitemap: false
     turnstileReady.then(function (token) {
       if (token === null) {
         publicSubmitted = false;
-        publicSubmitBtn.disabled = false;
         publicSubmitBtn.textContent = 'Submit';
+        publicSubmitBtn.style.display = 'none';
         showTurnstileFallback(
           "Your browser's privacy settings blocked our bot check. One tap to confirm your vote:",
-          'Confirm your vote',
+          'Submit',
           function () { publicPost(null, true); }
         );
         return;

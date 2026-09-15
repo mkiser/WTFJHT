@@ -1,6 +1,12 @@
 ---
 title: Day 2064
 date: 2026-09-14 16:23:57 -07:00
+tags:
+- "tech-policy"
+- "climate"
+- "immigration"
+- "voting-rights"
+- "economy"
 description: '"STRONG AND SMART."'
 image: "/uploads/day2064trump-86985b.jpg"
 todayInOneSentence: Trump rejected the idea of regulating the artificial intelligence

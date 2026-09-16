@@ -1,6 +1,11 @@
 ---
 title: Day 2065
 date: 2026-09-15 15:59:45 -07:00
+tags:
+- "supreme-court"
+- "voting-rights"
+- "midterm-election"
+- "iran"
 description: '"Really let our Country down."'
 image: "/uploads/day2065trump-6d0561.jpg"
 todayInOneSentence: The Supreme Court blocked Trump’s plan to limit mail-in voting

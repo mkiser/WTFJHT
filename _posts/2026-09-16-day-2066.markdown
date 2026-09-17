@@ -1,6 +1,12 @@
 ---
 title: Day 2066
 date: 2026-09-16 15:27:28 -07:00
+tags:
+- "economy"
+- "doge"
+- "iran"
+- "impeachment"
+- "congress"
 description: '"Transformative leader."'
 image: "/uploads/day2066trump-5bef22.jpg"
 todayInOneSentence: The Federal Reserve raised interest rates for the first time since

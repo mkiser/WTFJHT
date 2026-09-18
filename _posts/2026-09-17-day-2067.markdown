@@ -1,6 +1,11 @@
 ---
 title: Day 2067
 date: 2026-09-17 16:35:23 -07:00
+tags:
+- "foreign-policy"
+- "congress"
+- "sanctions"
+- "nomination"
 description: '"Real teeth."'
 image: "/uploads/day2067trump-3f53f0.jpg"
 todayInOneSentence: A federal judge ordered the Kennedy Center to give at least 30

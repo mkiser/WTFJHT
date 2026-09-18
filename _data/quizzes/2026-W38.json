@@ -1,0 +1,173 @@
+{
+  "id": "2026-W38",
+  "week_label": "Sep 14 – Sep 17, 2026",
+  "status": "published",
+  "editions": [
+    2067,
+    2066,
+    2065,
+    2064
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Why did the Supreme Court say applying the new mail-ballot rules during the midterms would be “arbitrary and capricious”?",
+      "options": [
+        "The Postal Service refused to enforce any election rules",
+        "Election officials lacked sufficient time to implement the changes",
+        "States had already finished counting mail ballots",
+        "Congress had prohibited barcodes on ballot envelopes"
+      ],
+      "correct": 1,
+      "explanation": "The court found that election officials did not have enough time to reasonably implement the voter-list and envelope-barcode requirements. The Postal Service’s required online portal was not yet operational.",
+      "source_day": 2065,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/15/day-2065/",
+      "difficulty": "medium",
+      "type": "reason"
+    },
+    {
+      "number": 2,
+      "question": "What did House Speaker Mike Johnson confirm about Trump’s promised $5,000 payments to Americans?",
+      "options": [
+        "They require congressional approval",
+        "Only federal employees would receive them",
+        "They had already been included in the federal budget",
+        "The Federal Reserve would distribute them"
+      ],
+      "correct": 0,
+      "explanation": "Johnson said Congress must approve the payments and had not yet committed to them. Sending $5,000 to every U.S. adult could cost about $1.3 trillion.",
+      "source_day": 2064,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/14/day-2064/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 3,
+      "question": "Who placed a hold on Trump’s proposed $2.8 billion arms sale to Israel?",
+      "options": [
+        "Judge Christopher Cooper",
+        "House Speaker Mike Johnson",
+        "Rep. Thomas Massie",
+        "Rep. Gregory Meeks"
+      ],
+      "correct": 3,
+      "explanation": "Rep. Gregory Meeks, the top Democrat on the House Foreign Affairs Committee, placed the hold over unresolved concerns about compliance with U.S. law and protections for civilians.",
+      "source_day": 2067,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/17/day-2067/",
+      "difficulty": "hard",
+      "type": "who"
+    },
+    {
+      "number": 4,
+      "question": "How much did the Trump administration pay federal employees not to work during 2025 as part of the DOGE effort?",
+      "options": [
+        "$9.5 billion",
+        "$6.7 billion",
+        "$40 billion",
+        "$177 billion"
+      ],
+      "correct": 0,
+      "explanation": "The administration paid federal employees $9.5 billion not to work. Of that amount, an estimated $6.7 billion came from the deferred resignation program.",
+      "source_day": 2066,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/16/day-2066/",
+      "difficulty": "medium",
+      "type": "number"
+    },
+    {
+      "number": 5,
+      "question": "How much did the Congressional Budget Office estimate the war with Iran would continue to cost each month?",
+      "options": [
+        "About $6.7 billion",
+        "Approximately $9.5 billion",
+        "Nearly $38 billion",
+        "Roughly $2 billion to $3 billion"
+      ],
+      "correct": 3,
+      "explanation": "The CBO estimated that the fighting had already cost about $38 billion and would continue costing roughly $2 billion to $3 billion per month.",
+      "source_day": 2065,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/15/day-2065/",
+      "difficulty": "hard",
+      "type": "number"
+    },
+    {
+      "number": 6,
+      "question": "How many articles of impeachment did Rep. Thomas Massie introduce against Defense Secretary Pete Hegseth?",
+      "options": [
+        "Eight",
+        "Five",
+        "Seven",
+        "Three"
+      ],
+      "correct": 0,
+      "explanation": "Massie introduced eight articles accusing Hegseth of offenses including continuing the Iran war without congressional authorization and ordering extrajudicial killings.",
+      "source_day": 2066,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/16/day-2066/",
+      "difficulty": "medium",
+      "type": "number"
+    },
+    {
+      "number": 7,
+      "question": "What did U.N. investigators find about the Feb. 28 U.S. strike on an elementary school in Iran?",
+      "options": [
+        "The school was damaged by a strike on a sports complex",
+        "The strike was outside the mission’s jurisdiction",
+        "The school was the intended point of impact",
+        "U.S. forces had fully verified that the school was a military target"
+      ],
+      "correct": 2,
+      "explanation": "Investigators found “reasonable grounds” to believe the school was the intended point of impact and said the failure to verify it as a military target went beyond negligence. More than 100 children were killed.",
+      "source_day": 2067,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/17/day-2067/",
+      "difficulty": "medium",
+      "type": "finding"
+    },
+    {
+      "number": 8,
+      "question": "What did Trump say were the only “guardrails” the artificial intelligence industry needs?",
+      "options": [
+        "Voluntary standards established by AI companies",
+        "Strict rules written by Congress",
+        "A “STRONG AND SMART (High IQ!) PRESIDENT”",
+        "Independent audits of frontier AI models"
+      ],
+      "correct": 2,
+      "explanation": "Trump rejected AI safety warnings as a “HOAX” and said the technology only needs a “STRONG AND SMART (High IQ!) PRESIDENT.”",
+      "source_day": 2064,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/14/day-2064/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 9,
+      "question": "What benchmark interest-rate range resulted from the Federal Reserve’s quarter-point increase?",
+      "options": [
+        "1% to 1.25%",
+        "3.75% to 4%",
+        "3% to 3.25%",
+        "5% to 5.25%"
+      ],
+      "correct": 1,
+      "explanation": "The unanimous quarter-point increase raised the benchmark rate to a range of 3.75% to 4%, marking the Fed’s first rate hike since 2023.",
+      "source_day": 2066,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/16/day-2066/",
+      "difficulty": "easy",
+      "type": "number"
+    },
+    {
+      "number": 10,
+      "question": "What notice must the Kennedy Center provide before making any major changes to its building?",
+      "options": [
+        "Approval from the National Park Service",
+        "At least 30 days’ notice",
+        "At least seven days’ notice",
+        "Approval from Congress"
+      ],
+      "correct": 1,
+      "explanation": "U.S. District Judge Christopher Cooper ordered the Kennedy Center to provide at least 30 days’ notice before any major building changes. He also required a status report on its closure and emergency repairs.",
+      "source_day": 2067,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/17/day-2067/",
+      "difficulty": "easy",
+      "type": "consequence"
+    }
+  ]
+}

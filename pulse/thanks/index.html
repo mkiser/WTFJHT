@@ -367,18 +367,24 @@ sitemap: false
     // requiring one user tap.
     // =====================================================================
 
+    // Turnstile blocked — show fallback banner.
+    var stage1Blocked = function () {
+      recording.style.display = 'none';
+      showTurnstileFallback(
+        "Your browser's privacy settings blocked our bot check. One tap to confirm your vote:",
+        'Confirm your vote',
+        function () { stage1Post(null, true); }
+      );
+    };
+
     turnstileReady.then(function (token) {
       if (token === null) {
-        // Turnstile blocked — show fallback banner.
-        recording.style.display = 'none';
-        showTurnstileFallback(
-          "Your browser's privacy settings blocked our bot check. One tap to confirm your vote:",
-          'Confirm your vote',
-          function () { stage1Post(null, true); }
-        );
+        stage1Blocked();
         return;
       }
       stage1Post(token, false);
+    }).catch(function () {
+      stage1Blocked();
     });
   } else {
     publicVote();
@@ -494,19 +500,25 @@ sitemap: false
   }
 
   function publicSend() {
+    var publicBlocked = function () {
+      publicSubmitted = false;
+      publicSubmitBtn.textContent = 'Submit';
+      publicSubmitBtn.style.display = 'none';
+      showTurnstileFallback(
+        "Your browser's privacy settings blocked our bot check. One tap to confirm your vote:",
+        'Submit',
+        function () { publicPost(null, true); }
+      );
+    };
+
     cappedTurnstile(turnstileReady, turnstileStartedAt).then(function (token) {
       if (token === null) {
-        publicSubmitted = false;
-        publicSubmitBtn.textContent = 'Submit';
-        publicSubmitBtn.style.display = 'none';
-        showTurnstileFallback(
-          "Your browser's privacy settings blocked our bot check. One tap to confirm your vote:",
-          'Submit',
-          function () { publicPost(null, true); }
-        );
+        publicBlocked();
         return;
       }
       publicPost(token, false);
+    }).catch(function () {
+      publicBlocked();
     });
   }
 
@@ -723,28 +735,34 @@ sitemap: false
     errorEl.style.display = 'none';
 
     var noteTurnstileReady = isEmailClick(s, cid) ? turnstileReady : cappedTurnstile(turnstileReady, turnstileStartedAt);
+    var noteBlocked = function () {
+      if (stage1Confirmed) {
+        // User already proved real-ness on Stage 1 (either via Turnstile
+        // success or the fallback confirm click). No need to double-prompt
+        // on Stage 2 — POST straight through with fallback: true.
+        stage2Post(note, null, true);
+        return;
+      }
+      // Open-ended or pre-confirmation case: Turnstile blocked on first
+      // submit. DO NOT fire POST. Show fallback banner.
+      submitted = false;
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Send feedback';
+      showTurnstileFallback(
+        "Your browser's privacy settings blocked our bot check. One tap to confirm your note:",
+        'Send note',
+        function () { stage2Post(note, null, true); }
+      );
+    };
+
     noteTurnstileReady.then(function (token) {
       if (token === null) {
-        if (stage1Confirmed) {
-          // User already proved real-ness on Stage 1 (either via Turnstile
-          // success or the fallback confirm click). No need to double-prompt
-          // on Stage 2 — POST straight through with fallback: true.
-          stage2Post(note, null, true);
-          return;
-        }
-        // Open-ended or pre-confirmation case: Turnstile blocked on first
-        // submit. DO NOT fire POST. Show fallback banner.
-        submitted = false;
-        submitBtn.disabled = false;
-        submitBtn.textContent = 'Send feedback';
-        showTurnstileFallback(
-          "Your browser's privacy settings blocked our bot check. One tap to confirm your note:",
-          'Send note',
-          function () { stage2Post(note, null, true); }
-        );
+        noteBlocked();
         return;
       }
       stage2Post(note, token, false);
+    }).catch(function () {
+      noteBlocked();
     });
   });
 

@@ -5,6 +5,10 @@ collections:
   authors:
     title: Authors
     output: true
+  dossiers:
+    title: Dossiers
+    output: true
+    permalink: /dossiers/:name/
   posts:
     title: Posts
     output: true
@@ -48,6 +52,18 @@ defaults:
       - https://mastodon.social/@wtfjht
       - https://www.facebook.com/wtfjht
       - https://github.com/mkiser/WTFJHT
+- scope:
+    path: ''
+    type: dossiers
+  values:
+    layout: dossier
+    author: Matt Kiser
+    title: ''
+    description: ''
+    image: ''
+    dek: ''
+    updated: ''
+
 - scope:
     path: ''
     type: authors

@@ -1,4 +1,4 @@
-{%- assign words = page.content | strip_html | number_of_words -%}
+{%- if page.edition_stats and page.edition_stats.word_count -%}{%- assign words = page.edition_stats.word_count -%}{%- else -%}{%- assign words = page.content | strip_html | number_of_words -%}{%- endif -%}
 {%- assign reading_speed = 200 -%}
 {%- capture word_count -%}{{ words }}{%- endcapture -%}
 {%- assign comma_separated_words = '' -%}

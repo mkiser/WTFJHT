@@ -156,22 +156,26 @@ module YearsAgo
     def read_time_string(doc, reading_speed: 200)
       return "" unless doc
 
-      # Get content (it's still markdown at this stage)
-      content = doc.content.to_s
+      words = doc.data["edition_stats"] && doc.data["edition_stats"]["word_count"]
+
+      unless words
+        # Get content (it's still markdown at this stage)
+        content = doc.content.to_s
       
-      # Strip markdown links: [text](url) -> text
-      content = content.gsub(/\[([^\]]+)\]\([^)]+\)/, '\1')
-      # Strip images: ![alt](url) -> empty
-      content = content.gsub(/!\[[^\]]*\]\([^)]+\)/, '')
-      # Strip markdown formatting
-      content = content.gsub(/[*_`~#>]/, '')
-      # Remove any HTML
-      content = content.gsub(/<[^>]*>/, '')
-      # Decode entities
-      content = CGI.unescapeHTML(content)
+        # Strip markdown links: [text](url) -> text
+        content = content.gsub(/\[([^\]]+)\]\([^)]+\)/, '\1')
+        # Strip images: ![alt](url) -> empty
+        content = content.gsub(/!\[[^\]]*\]\([^)]+\)/, '')
+        # Strip markdown formatting
+        content = content.gsub(/[*_`~#>]/, '')
+        # Remove any HTML
+        content = content.gsub(/<[^>]*>/, '')
+        # Decode entities
+        content = CGI.unescapeHTML(content)
       
-      # Now count
-      words = content.split.size
+        # Now count
+        words = content.split.size
+      end
       
       # Rest stays the same...
       word_count_str = words.to_s.reverse.gsub(/(\d{3})(?=\d)/, '\\1,').reverse

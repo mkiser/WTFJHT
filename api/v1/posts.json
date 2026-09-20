@@ -132,7 +132,7 @@
       },
       {%- endif -%}
 
-      {%- assign _words = post.content | strip_html | number_of_words -%}
+      {%- if post.edition_stats and post.edition_stats.word_count -%}{%- assign _words = post.edition_stats.word_count -%}{%- else -%}{%- assign _words = post.content | strip_html | number_of_words -%}{%- endif -%}
       {%- assign _reading_speed = 200 -%}
       {%- assign _minutes_decimal = _words | times: 1.0 | divided_by: _reading_speed -%}
       {%- assign _minutes_whole = _minutes_decimal | floor -%}
@@ -143,10 +143,14 @@
       {%- else -%}{%- assign _display_minutes = _minutes_whole | plus: 1 -%}{%- assign _half = false -%}
       {%- endif -%}
       {%- capture _read_sentence -%}Today's edition is {{ _words | number_with_commas }} words, a {% if _half %}{{ _display_minutes }}½-minute{% else %}{{ _display_minutes }}-minute{% endif %} read.{%- endcapture -%}
+      {%- assign _saved = post.edition_stats.time_saved -%}
+      {%- capture _saved_sentence -%}{% if _saved and _saved > 0 %}About {{ _saved | number_with_commas }} minutes saved.{% endif %}{%- endcapture -%}
       "readTime": {
         "words": {{ _words }},
         "minutes": {%- if _half -%}{{ _display_minutes }}.5{%- else -%}{{ _display_minutes }}{%- endif -%},
-        "sentence": {{ _read_sentence | strip | normalize_whitespace | jsonify }}
+        "sentence": {{ _read_sentence | strip | normalize_whitespace | jsonify }},
+        "saved": {{ _saved | jsonify }},
+        "savedSentence": {{ _saved_sentence | strip | normalize_whitespace | jsonify }}
       },
 
       {%- if post.currentMood and post.currentMood != '' -%}

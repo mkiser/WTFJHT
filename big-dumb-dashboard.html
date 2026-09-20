@@ -199,10 +199,12 @@ redirect_from:
   const postCount = {{ site.posts | size }};
 
   // Post counts and word stats (computed at build time via Liquid)
+  {% assign rollup = site.data.edition_stats_rollup %}
   {% assign trump1_posts = 0 %}{% assign biden_posts = 0 %}{% assign trump2_posts = 0 %}
-  {% assign total_words = 0 %}{% assign min_words = 999999 %}{% assign max_words = 0 %}
-  {% for post in site.posts %}{% assign post_date = post.date | date: "%Y-%m-%d" %}{% if post_date >= "2017-01-20" and post_date < "2021-01-20" %}{% assign trump1_posts = trump1_posts | plus: 1 %}{% elsif post_date >= "2021-01-20" and post_date < "2025-01-20" %}{% assign biden_posts = biden_posts | plus: 1 %}{% elsif post_date >= "2025-01-20" %}{% assign trump2_posts = trump2_posts | plus: 1 %}{% endif %}{% assign wc = post.content | strip_html | number_of_words %}{% assign total_words = total_words | plus: wc %}{% if wc < min_words %}{% assign min_words = wc %}{% endif %}{% if wc > max_words %}{% assign max_words = wc %}{% endif %}{% endfor %}
-  {% assign avg_words = total_words | divided_by: site.posts.size %}
+  {% assign min_words = 999999 %}{% assign max_words = 0 %}
+  {% for post in site.posts %}{% assign post_date = post.date | date: "%Y-%m-%d" %}{% if post_date >= "2017-01-20" and post_date < "2021-01-20" %}{% assign trump1_posts = trump1_posts | plus: 1 %}{% elsif post_date >= "2021-01-20" and post_date < "2025-01-20" %}{% assign biden_posts = biden_posts | plus: 1 %}{% elsif post_date >= "2025-01-20" %}{% assign trump2_posts = trump2_posts | plus: 1 %}{% endif %}{% if post.edition_stats %}{% assign wc = post.edition_stats.word_count %}{% if wc < min_words %}{% assign min_words = wc %}{% endif %}{% if wc > max_words %}{% assign max_words = wc %}{% endif %}{% endif %}{% endfor %}
+  {% assign total_words = rollup.totals.words %}
+  {% assign avg_words = rollup.totals.avg_words_per_edition %}
   const trump1Posts = {{ trump1_posts }};
   const bidenPosts = {{ biden_posts }};
   const trump2Posts = {{ trump2_posts }};
@@ -210,6 +212,11 @@ redirect_from:
   const avgWords = {{ avg_words }};
   const shortestPost = {{ min_words }};
   const longestPost = {{ max_words }};
+  const avgReadMinutes = Math.floor((avgWords / 200) * 2) / 2;
+  const avgMinSaved = {{ rollup.windows.last_12_months.avg_minutes_per_edition }};
+  const avgHoursPerYear = {{ rollup.avg_hours_saved_per_year }};
+  const hoursSavedAllTime = {{ rollup.totals.hours_saved }};
+  const citedItems = {{ rollup.totals.stories }};
 
   // All data here is build-time Liquid output (numeric literals) — no user input
   postEl.innerHTML =
@@ -241,17 +248,37 @@ redirect_from:
     '<div class="counter-card wtf">' +
       '<span class="counter-number">' + formatNumber(avgWords) + '</span>' +
       '<span class="counter-label">Avg Words Per Post</span>' +
-      '<span class="counter-meta">~' + Math.round(avgWords / 200) + '-minute read</span>' +
+      '<span class="counter-meta">All-time</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + avgReadMinutes + '</span>' +
+      '<span class="counter-label">Avg Read Time Per Edition</span>' +
+      '<span class="counter-meta">Minutes, all-time</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(avgMinSaved) + '</span>' +
+      '<span class="counter-label">Avg Minutes Saved Per Edition</span>' +
+      '<span class="counter-meta">Estimated, last 12 months</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(avgHoursPerYear) + '</span>' +
+      '<span class="counter-label">Avg Hours Saved Per Year</span>' +
+      '<span class="counter-meta">Estimated, since January 2017</span>' +
+    '</div>' +
+    '<div class="counter-card wtf">' +
+      '<span class="counter-number">' + formatNumber(hoursSavedAllTime) + '</span>' +
+      '<span class="counter-label">Hours Saved</span>' +
+      '<span class="counter-meta">All-time, across ' + formatNumber(citedItems) + ' cited items. An estimate, not a measurement.</span>' +
     '</div>' +
     '<div class="counter-card wtf">' +
       '<span class="counter-number">' + formatNumber(shortestPost) + '</span>' +
       '<span class="counter-label">Shortest Post</span>' +
-      '<span class="counter-meta">Words</span>' +
+      '<span class="counter-meta">Words, all-time</span>' +
     '</div>' +
     '<div class="counter-card wtf">' +
       '<span class="counter-number">' + formatNumber(longestPost) + '</span>' +
       '<span class="counter-label">Longest Post</span>' +
-      '<span class="counter-meta">Words</span>' +
+      '<span class="counter-meta">Words, all-time</span>' +
     '</div>';
 
   // Historical Markers Section

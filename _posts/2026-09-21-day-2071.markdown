@@ -1,6 +1,11 @@
 ---
 title: Day 2071
 date: 2026-09-21 14:30:50 -07:00
+tags:
+- "media"
+- "white-house"
+- "immigration"
+- "lawsuit"
 description: '"Cherish it, help it, and watch over it, as it grows!"'
 image: "/uploads/day2071trump-6f7d4a.jpg"
 todayInOneSentence: CNN, MS NOW and Politico sued the Trump administration to regain

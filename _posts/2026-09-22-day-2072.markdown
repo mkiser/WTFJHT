@@ -1,6 +1,12 @@
 ---
 title: Day 2072
 date: 2026-09-22 15:09:24 -07:00
+tags:
+- "healthcare"
+- "foreign-policy"
+- "iran"
+- "media"
+- "polling"
 description: '"Potential greatness or obliteration."'
 image: "/uploads/day2072trump-d7dc6e.jpg"
 todayInOneSentence: The Trump administration removed about 760,000 people from Affordable

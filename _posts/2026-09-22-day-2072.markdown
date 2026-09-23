@@ -10,9 +10,9 @@ todayInOneSentence: The Trump administration removed about 760,000 people from A
   from the White House; Sen. John Curtis called on the Senate Judiciary Committee
   to subpoena Trump Jr. and Hunter Biden; Trump renamed artificial intelligence “super
   intelligence” for U.S. government documents days after saying he's creating an “AI
-  Force”; 29% of American approve of Trump's handling of foreign affairs; 55% of voters
-  say Trump's policies have hurt the economy; and 32% of American approve of the job
-  Trump is doing – a record low.
+  Force”; 29% of Americans approve of Trump's handling of foreign affairs; 55% of
+  voters say Trump's policies have hurt the economy; and 32% of Americans approve
+  of the job Trump is doing – a record low.
 currentMood: "😒👀"
 editorsNote: "<p><em><strong>Editor's note</strong>: If you ordered a free WTFJHT
   sticker, I&#39;m happy to report that these are hitting the USPS mailbox tomorrow.
@@ -32,8 +32,8 @@ editorsNote: "<p><em><strong>Editor's note</strong>: If you ordered a free WTFJH
 
 * **“The scientific, technical term is BS.”** Treasury Secretary Scott Bessent proposed an AI safety “notification mechanism” with China is just an open line of communication with Chinese Vice Premier He Lifeng. ([Politico](https://www.politico.com/news/2026/09/22/new-ai-safety-mechanism-is-a-channel-between-bessent-and-his-chinese-counterpart-01086967))
 
-poll/ **29% of American approve of Trump's handling of foreign affairs**, while 71% disapprove. 70% say the Iran war has hurt American interests, 76% say it hasn't been worth the costs, and 78% say that he is not doing enough to end the war. ([CNN](https://www.cnn.com/2026/09/22/politics/cnn-poll-donald-trump-foreign-affairs-iran-war))
+poll/ **29% of Americans approve of Trump's handling of foreign affairs**, while 71% disapprove. 70% say the Iran war has hurt American interests, 76% say it hasn't been worth the costs, and 78% say that he is not doing enough to end the war. ([CNN](https://www.cnn.com/2026/09/22/politics/cnn-poll-donald-trump-foreign-affairs-iran-war))
 
 poll/ **55% of voters say Trump's policies have hurt the economy**. 43% say their vote for Congress in the midterms is to signal opposition to Trump, while 27% say their vote will signal support for him. ([NBC News](https://www.nbcnews.com/politics/2026-election/poll-voters-say-trump-hurt-economy-competitive-midterm-election-looms-rcna597868))
 
-poll/ **32% of American approve of the job Trump is doing – a record low** – while 66% disapprove. Among Republicans, Trump's approval rating dropped to 73% from 82% a week earlier. ([Reuters](https://www.reuters.com/world/us/trump-approval-falls-career-low-32-high-costs-bite-reutersipsos-poll-finds-2026-09-21/))
+poll/ **32% of Americans approve of the job Trump is doing – a record low** – while 66% disapprove. Among Republicans, Trump's approval rating dropped to 73% from 82% a week earlier. ([Reuters](https://www.reuters.com/world/us/trump-approval-falls-career-low-32-high-costs-bite-reutersipsos-poll-finds-2026-09-21/))

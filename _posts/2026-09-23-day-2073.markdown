@@ -1,0 +1,55 @@
+---
+title: Day 2073
+date: 2026-09-23 14:05:27 -07:00
+description: '"Doing the best that he can."'
+image: "/uploads/day2073trump-db04f2.jpg"
+todayInOneSentence: Iran vowed to fight "until our last breath" and “never bow our
+  head or bend at the knee” to Trump’s demands; the Justice Department urged a federal
+  judge to uphold Trump’s ban of CNN, MS NOW, and Politico from the White House, arguing
+  that "access to the White House is a privilege – not a right"; the FBI was hacked
+  and “very sensitive data” on nearly all agents and job applicants was stolen; 17
+  Democratic senators urged Trump to seek an AI agreement with China to establish
+  “guardrails” around development; the first architect for Trump’s White House ballroom
+  resigned after warning that the preliminary design violated building safety codes;
+  Melania Trump said Trump is “doing the best that he can”; and 56% of Americans say
+  the rule of law in the U.S. is weaker now than it was 10 years ago.
+currentMood: "😒"
+editorsNote: "<p><em><strong>Editor's note</strong>: Last week, I asked how you first
+  found WTFJHT. And, after reading through hundreds of your replies, the most common
+  answer was a personal recommendation. “My daughter sent me your link so I would
+  stop doom scrolling,” one reader wrote. “It worked.” Another found WTFJHT after
+  a choir rehearsal when a few people had gone out together and were talking about
+  “the overwhelm of the world on fire right now.” Someone suggested WTFJHT as a way
+  to stay informed and feel less overwhelmed.\n\t\t\nI absolutely love this. To me,
+  these stories are little vignettes that describe small acts of care: someone listening
+  to another person&#39;s struggle, and then sharing something they think could help.
+  Humans caring for humans. That’s what I mean when I say WTFJHT is about people.</em></p>\n<p><em>With
+  the midterms approaching, think of one friend you’ve had this kind of conversation
+  with. Someone who wants to follow the news without being consumed by it. If WTFJHT
+  has helped you, <strong><a href=\"mailto:?subject=Thought%20this%20might%20help&body=I%20read%20WTFJHT%20to%20keep%20up%20with%20the%20news%20without%20spending%20all%20day%20following%20it.%20Thought%20you%20might%20find%20it%20useful.%0D%0A%0D%0Ahttps%3A%2F%2Fwhatthefuckjusthappenedtoday.com%2F\">send
+  it to them and tell them why you thought of them</a></strong>.</em></p>\n<p><em>(The
+  link opens a draft email you can edit. Add their email address and make it your
+  own.)</em></p>"
+---
+
+1/ **Iran vowed to fight "until our last breath" and “never bow our head or bend at the knee” to Trump’s demands**. Iranian President Masoud Pezeshkian, speaking at the United Nations General Assembly, declared that Iran was ready to negotiate with the U.S., but wouldn't give up its civilian nuclear program or accept what he called Washington’s “language of force.” His address came a day after Trump threatened to “annihilate” Iran if the nearly seven-month war ends without a deal. ([New York Times](https://www.nytimes.com/2026/09/23/world/middleeast/iran-president-un-speech.html) / [Washington Post](https://www.washingtonpost.com/world/2026/09/23/irans-president-address-un-general-assembly-after-trump-threatens-annihilation/) / [NBC News](https://www.nbcnews.com/world/iran/irans-president-strikes-defiant-tone-un-trump-threats-rcna599372) / [Wall Street Journal](https://www.wsj.com/world/middle-east/irans-president-says-open-to-talks-but-wont-bow-to-u-s-35f44f25) / [Associated Press](https://apnews.com/article/iran-pezeshkian-united-nations-general-assembly-trump-war-210d432587bb8dc2d7303ca4c8ea67b6) / [CNN](https://www.cnn.com/2026/09/23/world/live-news/united-nations-general-assembly-iran-trump-ukraine))
+
+2/ **The Justice Department urged a federal judge to uphold Trump’s ban of CNN, MS NOW, and Politico from the White House, arguing that “access to the White House is a privilege – not a right.”** The administration claimed the outlets violated “standards of professionalism and decorum” by “trafficking in verifiable falsehoods about national security and other issues, and publishing sensitive or classified information.” The White House cited reporting about the Iran war, U.S. munitions, and White House construction and security as justification for the ban. The Justice Department also asked the courts to overturn a 49-year-old precedent protecting journalists’ access to the White House.([Associated Press](https://apnews.com/article/news-media-ban-cnn-white-house-access-a3471270b8db89f6067c54528ed0a340) / [New York Times](https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html) / [Washington Post](https://www.washingtonpost.com/business/2026/09/23/trump-tells-judge-media-ban-is-necessary-protect-national-security/) / [ABC News](https://abcnews.com/Politics/doj-defends-white-house-news-bans-access-privilege/story?id=136674586) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-23/doj-tells-judge-trump-white-house-media-ban-is-lawful) / [CNN](https://www.cnn.com/2026/09/22/politics/trump-admin-responds-press-lawsuit-white-house-access) / [Politico](https://www.politico.com/news/2026/09/23/trump-press-ban-brief) / [CBS News](https://www.cbsnews.com/news/doj-defends-trump-white-house-media-ban/) / [CNBC](https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html) / [NBC News](https://www.nbcnews.com/politics/politics-news/trump-media-ban-white-house-access-privilege-national-security-doj-rcna599347))
+
+3/ **The FBI was hacked and “very sensitive data” on nearly all agents and job applicants was stolen**, including names, home addresses, Social Security numbers, assignments and, in some cases, information about family members. The bureau hasn't determined "the point of breach" and whether the information came from FBI systems or a third-party provider. ShinyHunters, meanwhile, demanded that the FBI revise or remove a May advisory describing the group as specializing in large-scale data breaches and extortion. ([404 Media](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) / [New York Times](https://www.nytimes.com/2026/09/23/us/politics/fbi-hack-shinyhunters-data.html) / [TechCrunch](https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/) / [Politico](https://www.politico.com/news/2026/09/22/shinyhunters-fbi-cyber-hack-01088494) / [Associated Press](https://apnews.com/article/fbi-criminal-hacking-group-jobs-website-beach-d627cbc6811344e7ad41e9f164cdf1c9) / [Reuters](https://www.reuters.com/world/shinyhunters-hackers-say-they-breached-federal-bureau-investigation-no-immediate-2026-09-22/) / [CNN](https://www.cnn.com/2026/09/22/politics/fbi-investigating-stolen-agents-data-hackers) / [ABC News](https://abcnews.com/US/wireStory/fbi-investigates-apparent-breach-jobs-website-hackers-claim-136686678))
+
+4/ **Seventeen Democratic senators urged Trump to seek an AI agreement with China to establish “guardrails” around development**. The senators argued that “AI technology is too powerful, and its risks too many, for the U.S. and China to forgo discussions,” and urged Trump to discuss slowing or pausing development with Chinese leader Xi Jinping. However, earlier this week, Trump declared that “I’m not going to stifle growth of anything that’s going to be bigger than the Industrial Revolution.” ([Politico](https://www.politico.com/news/2026/09/23/dems-urge-trump-to-seek-ai-deal-with-china-01089253) / [Washington Post](https://www.washingtonpost.com/politics/2026/09/23/trump-xi-jinping-will-talk-about-ai-they-arent-close-deal/))
+
+5/ **The first architect for Trump’s White House ballroom resigned after warning that the preliminary design violated building safety codes**. Trump reportedly responded that no building codes apply to White House construction, because “I am the code.” White House records, however, show officials continued to discuss life-safety issues, like adequate emergency exits and fire-containment measures, after James McCrery II resigned. ([Washington Post](https://www.washingtonpost.com/investigations/2026/09/23/i-am-code-trump-clashed-with-ballroom-architect-over-safety-issues/))
+
+* **Trump administration officials have discussed attaching Trump’s name to Ford’s Theatre**. The federal historic site where Abraham Lincoln was assassinated is owned by the Interior Department, and its name is set by federal law, meaning a formal renaming would require an act of Congress. ([MS Now](https://www.ms.now/news/trump-fords-theatre-name-kennedy-center))
+
+poll/ **56% of Americans say the rule of law in the U.S. is weaker now than it was 10 years ago**. 14% say it's stronger. ([Gallup](https://www.gallup.com/analytics/697985/democracy-for-all.aspx))
+
+poll/ **33% of Americans approve of the job Trump is doing as president**, while 63% disapprove. ([Strength in Numbers](https://www.gelliottmorris.com/p/2026-09-23-september-strength-in-numbers-verasight-poll-release))
+
+poll/ **49% of voters say they’ll support the Democratic candidate for Congress**, compared with 41% who’d support a Republican. 68% call the economy “extremely important,” while 27% of Americans approve of Trump’s handling of the economy and 20% approve of his handling of inflation. Two-thirds say Trump has worsened economic conditions. ([CNN](https://www.cnn.com/2026/09/23/politics/cnn-poll-donald-trump-economy-midterms-vis))
+
+**👍 Well, that's fantastic: Melania Trump said Trump is “doing the best that he can.”** “He’s very focused. He has a lot on his plate,” she said, adding: “It’s very different what’s going on around the world now. But I think he’s doing the best that he can.” Trump, however, faces weak approval ratings and voter dissatisfaction over the Iran war, the economy, and other priorities ahead of the midterms. Melania added that Trump “works nonstop” and “has the most energy than anybody.” ([Axios](https://www.axios.com/2026/09/23/trump-melania-president-fox-news))
+
+*The 2026 midterms are in 41 days; the 2028 presidential election is in 776 days.*

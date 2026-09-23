@@ -1,0 +1,8 @@
+{%- if page.edition_stats and page.edition_stats.word_count -%}{%- assign words = page.edition_stats.word_count -%}{%- else -%}{%- assign words = page.content | strip_html | number_of_words -%}{%- endif -%}
+{%- assign reading_speed = 200 -%}
+{%- assign minutes_decimal = words | times: 1.0 | divided_by: reading_speed -%}
+{%- assign minutes_whole = minutes_decimal | floor -%}
+{%- assign minutes_fraction = minutes_decimal | minus: minutes_whole -%}
+{%- if minutes_whole < 1 and minutes_fraction < 0.5 -%}{%- assign read_time = 1 -%}{%- elsif minutes_fraction < 0.25 -%}{%- assign read_time = minutes_whole -%}{%- elsif minutes_fraction < 0.75 -%}{%- assign read_time = minutes_whole | append: '½' -%}{%- else -%}{%- assign read_time = minutes_whole | plus: 1 -%}{%- endif -%}
+{%- assign saved = page.edition_stats.time_saved -%}
+<span>{{ words | number_with_commas }}&nbsp;words</span><span class="post-meta__sep" aria-hidden="true">·</span><span>{{ read_time }}&#8209;min&nbsp;read</span>{% if saved and saved > 0 %}<span class="post-meta__sep" aria-hidden="true">·</span><span>~{{ saved | number_with_commas }}&nbsp;min&nbsp;saved</span>{% endif %}

@@ -739,20 +739,19 @@ div.flex-item ul.package {
 .post-meta {
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-end;
+  align-items: center;
   justify-content: space-between;
-  gap: 0.5rem 1rem;
+  gap: 0.75rem 1rem;
   margin-bottom: 1.5rem;
 }
 
 .post-meta__main {
+  flex: 1 1 16.25rem;
   display: flex;
   flex-direction: column;
-  gap: 0.125rem;
 }
 
 .post-meta__author {
-  font-size: 0.9rem;
   color: $gray-5;
 
   a {
@@ -765,15 +764,18 @@ div.flex-item ul.package {
   }
 }
 
-.post-meta__details {
+.post-meta__details,
+.post-meta__stats {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   font-size: 0.8rem;
+  line-height: 22px;
   color: $gray-3;  // #767676 - WCAG AA compliant
 }
 
 .post-meta__sep {
-  color: #bbb;
+  color: var(--c-line-strong);
   margin: 0 0.25rem;
 }
 
@@ -783,18 +785,14 @@ div.flex-item ul.package {
   }
 }
 
-.post-meta__read-sentence,
-.post p.post-meta__read-sentence {
-  margin: 0.25rem 0 0;
-  font-size: 0.8rem;
-  font-style: italic;
-  color: $gray-3;
-}
-
 .post-meta__actions {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+
+  @media (max-width: 359px) {
+    gap: 0.25rem;
+  }
 }
 
 // Share widget (Substack-style)

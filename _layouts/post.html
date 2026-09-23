@@ -16,58 +16,7 @@ layout: default
   {% include_cached emailpromo.html %}
   <hr>
 
- <h1 class="post-title">
-  <a href="{{ site.baseurl }}{{ page.url }}">
-    {{ page.title }}:
-    <span class="post-small">{{ page.description | smartify }}</span></a>
-  </h1>
-
-  {% assign author = site.authors | where: 'title', page.author | first %}
-  <div class="post-meta">
-    <div class="post-meta__main">
-      {% if author and author.title == "Matt Kiser" %}
-      <span class="post-meta__author">By <a href="{{ author.url }}">{{ author.title }}</a></span>
-      {% elsif author %}
-      <span class="post-meta__author">By <a href="{{ author.url }}">{{ author.title }}</a></span>
-      {% endif %}
-      <div class="post-meta__details">
-        {% assign time_check = page.date | date: "%H:%M" %}
-        <time class="post-meta__date" datetime="{{ page.date | date_to_xmlschema }}">{% if time_check == "00:00" %}{{ page.date | date: "%b %-d, %Y" }}{% else %}{{ page.date | date: "%b %-d, %Y, %-I:%M%P" }} PT{% endif %}</time>
-      </div>
-      <p class="post-meta__read-sentence">{% include read_time_sentence.html %}{% include time_saved_sentence.html %}</p>
-    </div>
-    <div class="post-meta__actions">
-      {% include audio-player-trigger.html podcast_file=page.podcast.file title=page.title description=page.description image=page.image %}
-      {% include social.html %}
-      {% if page.post_type != 'week-in-review' %}
-      <button type="button" class="carousel-toggle" aria-label="View as cards" title="View as cards">
-        {% include_cached icons.html icon="cards" %}
-      </button>
-      {% endif %}
-      <div class="more-menu">
-        <button type="button" class="more-menu__trigger" aria-label="More options" aria-expanded="false">
-          {% include_cached icons.html icon="ellipsis" %}
-        </button>
-        <div class="more-menu__card" aria-hidden="true">
-          <a class="more-menu__option" href="https://github.com/mkiser/WTFJHT/blob/master/{{ page.path }}" target="_blank" rel="noopener">
-            <span class="more-menu__icon">{% include_cached icons.html icon="pencil" %}</span>
-            <span class="more-menu__label">Improve this article</span>
-          </a>
-          <a class="more-menu__option" href="https://github.com/mkiser/WTFJHT/commits/master/{{ page.path }}" target="_blank" rel="noopener">
-            <span class="more-menu__icon">{% include_cached icons.html icon="history" %}</span>
-            <span class="more-menu__label">Revision history</span>
-          </a>
-          {% if tios_stripped and tios_stripped != '' %}
-          <button type="button" class="more-menu__option" data-action="open-tios">
-            <span class="more-menu__icon">{% include_cached icons.html icon="cards" %}</span>
-            <span class="more-menu__label">Today in One Sentence</span>
-          </button>
-          {% endif %}
-        </div>
-      </div>
-    </div>
-  </div>
-  {% include audio-player-bar.html podcast_file=page.podcast.file %}
+  {% include post-header.html %}
   <hr>
   <div class="post-content">
     {% if tios_stripped and tios_stripped != '' %}

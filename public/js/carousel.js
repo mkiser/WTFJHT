@@ -174,7 +174,7 @@
     }
 
     // Read time from post meta
-    var readEl = document.querySelector('.post-meta__read-sentence');
+    var readEl = document.querySelector('.post-meta__stats');
     var readTime = '';
     if (readEl) {
       var readMatch = readEl.textContent.match(/(\d+)(½?)[\s\u2011\u2010\u00AD-]*min/i);

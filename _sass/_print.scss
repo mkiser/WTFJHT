@@ -161,23 +161,14 @@
       }
     }
 
-    &__date {
-      display: inline;
-
-      &::before {
-        content: " · ";
-      }
-    }
-
-    &__read-sentence {
+    &__stats {
       display: block;
-      font-style: italic;
       color: #555 !important;
       margin-top: 0.25em;
     }
 
     &__details {
-      display: inline;
+      display: block;
     }
   }
 

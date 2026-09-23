@@ -10,7 +10,72 @@ dates:
   covfefe: "2017-05-31"
   midterms_2026: "2026-11-03"
   presidential_2028: "2028-11-07"
-  inauguration_2029: "2029-01-20"
+
+countdowns:
+  - id: midterms
+    section: election
+    label: "Days Until {year} Midterm Elections"
+    dates:
+      - { date: "2026-11-03", from: "2025-01-20" }
+      - { date: "2030-11-05", from: "2026-11-03" }
+      - { date: "2034-11-07", from: "2030-11-05" }
+
+  - id: new_congress
+    section: election
+    label: "Days Until New Congress"
+    dates:
+      - { date: "2027-01-03", from: "2025-01-20" }
+      - { date: "2029-01-03", from: "2027-01-03" }
+      - { date: "2031-01-03", from: "2029-01-03" }
+      - { date: "2033-01-03", from: "2031-01-03" }
+
+  - id: presidential_election
+    section: election
+    label: "Days Until {year} Presidential Election"
+    dates:
+      - { date: "2028-11-07", from: "2025-01-20" }
+      - { date: "2032-11-02", from: "2028-11-07" }
+      - { date: "2036-11-04", from: "2032-11-02" }
+
+  - id: electoral_college_vote
+    section: election
+    label: "Days Until Electoral College Votes"
+    dates:
+      - { date: "2028-12-19", from: "2025-01-20" }
+      - { date: "2032-12-14", from: "2028-12-19" }
+
+  - id: electoral_vote_count
+    section: election
+    label: "Days Until Congress Counts Electoral Votes"
+    dates:
+      - { date: "2029-01-06", from: "2025-01-20" }
+      - { date: "2033-01-06", from: "2029-01-06" }
+
+  - id: inauguration
+    section: election
+    label: "Days Until {year} Inauguration"
+    dates:
+      - { date: "2029-01-20", from: "2025-01-20" }
+      - { date: "2033-01-20", from: "2029-01-20" }
+      - { date: "2037-01-20", from: "2033-01-20" }
+
+  - id: court_new_term
+    section: court
+    label: "Days Until the Supreme Court's New Term"
+    dates:
+      - { date: "2026-10-05", from: "2025-10-06" }
+      - { date: "2027-10-04", from: "2026-10-05" }
+      - { date: "2028-10-02", from: "2027-10-04" }
+      - { date: "2029-10-01", from: "2028-10-02" }
+      - { date: "2030-10-07", from: "2029-10-01" }
+      - { date: "2031-10-06", from: "2030-10-07" }
+      - { date: "2032-10-04", from: "2031-10-06" }
+
+  - id: court_last_session
+    section: court
+    label: "Days Until the Supreme Court's Last Scheduled Session"
+    dates:
+      - { date: "2027-06-24", from: "2026-06-25", meta: "2026–27 term · June 24, 2027" }
 
 # Historical markers - events to track "days since"
 # Each gets a card in the Historical Markers section

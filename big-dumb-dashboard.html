@@ -25,6 +25,11 @@ redirect_from:
     <div class="counter-grid" id="election-counters"></div>
   </div>
 
+  <div class="dashboard-section">
+    <h2>⚖️ Supreme Court</h2>
+    <div class="counter-grid" id="court-counters"></div>
+  </div>
+
 <!-- By The Numbers -->
 <div class="dashboard-section">
   <h2>📝 By The Numbers</h2>
@@ -137,62 +142,50 @@ redirect_from:
   `;
 
   // Election Countdowns Section
-  const electionEl = document.getElementById('election-counters');
-  const inaug2025 = parseDate(config.dates.trump_term2_start);
-  const midterms2026 = parseDate(config.dates.midterms_2026);
-  const presidential2028 = parseDate(config.dates.presidential_2028);
-  const inaug2029 = parseDate(config.dates.inauguration_2029);
+  function formatDate(dateStr) {
+    return new Date(parseDate(dateStr)).toLocaleDateString('en-US', {
+      timeZone: 'UTC',
+      month: 'long',
+      day: 'numeric',
+      year: 'numeric'
+    });
+  }
 
-  const daysToMidterms = daysUntil(config.dates.midterms_2026);
-  const daysToPresidential = daysUntil(config.dates.presidential_2028);
-  const daysToInauguration = daysUntil(config.dates.inauguration_2029);
+  const countdownCards = {};
 
-  // Calculate progress (days elapsed since term 2 start / total days to event)
-  const totalDaysToMidterms = Math.floor((midterms2026 - inaug2025) / msPerDay);
-  const totalDaysToPresidential = Math.floor((presidential2028 - inaug2025) / msPerDay);
-  const totalDaysToInauguration = Math.floor((inaug2029 - inaug2025) / msPerDay);
+  config.countdowns.forEach(countdown => {
+    const next = countdown.dates.find(d => daysUntil(d.date) >= 0);
+    if (!next) return;
 
-  const daysElapsed = Math.max(0, Math.floor((todayUTC - inaug2025) / msPerDay));
+    const days = daysUntil(next.date);
+    const from = parseDate(next.from);
+    const totalDays = Math.floor((parseDate(next.date) - from) / msPerDay);
+    const daysElapsed = Math.max(0, Math.floor((todayUTC - from) / msPerDay));
+    const progress = calculateProgress(daysElapsed, totalDays);
+    const label = countdown.label.replace('{year}', next.date.slice(0, 4));
 
-  const midtermsProgress = calculateProgress(daysElapsed, totalDaysToMidterms);
-  const presidentialProgress = calculateProgress(daysElapsed, totalDaysToPresidential);
-  const inaugurationProgress = calculateProgress(daysElapsed, totalDaysToInauguration);
+    (countdownCards[countdown.section] = countdownCards[countdown.section] || []).push({
+      date: next.date,
+      html: `
+        <div class="counter-card election">
+          <span class="counter-number">${days === 0 ? 'Today' : formatNumber(days)}</span>
+          <span class="counter-label">${label}</span>
+          <div class="progress-bar">
+            <div class="progress-fill election" style="width: ${progress}%;"></div>
+          </div>
+          <span class="counter-meta">${progress.toFixed(1)}% complete</span>
+          <span class="counter-meta">${next.meta || formatDate(next.date)}</span>
+        </div>
+      `
+    });
+  });
 
-  electionEl.innerHTML = `
-    ${daysToMidterms > 0 ? `
-    <div class="counter-card election">
-      <span class="counter-number">${formatNumber(daysToMidterms)}</span>
-      <span class="counter-label">Days Until 2026 Midterm Elections</span>
-      <div class="progress-bar">
-        <div class="progress-fill election" style="width: ${midtermsProgress}%;"></div>
-      </div>
-      <span class="counter-meta">${midtermsProgress.toFixed(1)}% complete</span>
-      <span class="counter-meta">November 3, 2026</span>
-    </div>
-    ` : ''}
-    ${daysToPresidential > 0 ? `
-    <div class="counter-card election">
-      <span class="counter-number">${formatNumber(daysToPresidential)}</span>
-      <span class="counter-label">Days Until 2028 Presidential Election</span>
-      <div class="progress-bar">
-        <div class="progress-fill election" style="width: ${presidentialProgress}%;"></div>
-      </div>
-      <span class="counter-meta">${presidentialProgress.toFixed(1)}% complete</span>
-      <span class="counter-meta">November 7, 2028</span>
-    </div>
-    ` : ''}
-    ${daysToInauguration > 0 ? `
-    <div class="counter-card election">
-      <span class="counter-number">${formatNumber(daysToInauguration)}</span>
-      <span class="counter-label">Days Until 2029 Inauguration</span>
-      <div class="progress-bar">
-        <div class="progress-fill election" style="width: ${inaugurationProgress}%;"></div>
-      </div>
-      <span class="counter-meta">${inaugurationProgress.toFixed(1)}% complete</span>
-      <span class="counter-meta">January 20, 2029</span>
-    </div>
-    ` : ''}
-  `;
+  Object.keys(countdownCards).forEach(section => {
+    document.getElementById(section + '-counters').innerHTML = countdownCards[section]
+      .sort((a, b) => a.date.localeCompare(b.date))
+      .map(card => card.html)
+      .join('');
+  });
 
   // By The Numbers Section
   const postEl = document.getElementById('post-counters');

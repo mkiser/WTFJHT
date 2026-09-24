@@ -1,0 +1,141 @@
+{
+  "id": "2026-W39",
+  "week_label": "Sep 21 – Sep 24, 2026",
+  "status": "published",
+  "editions": [
+    2071,
+    2072,
+    2073,
+    2074
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "About how many people did the Trump administration remove from Affordable Care Act coverage?",
+      "options": [
+        "760,000",
+        "419,000",
+        "560,000",
+        "1.2 million"
+      ],
+      "correct": 0,
+      "explanation": "The administration removed about 760,000 people, claiming they were improperly enrolled or did not exist. Roughly 419,000 others faced additional eligibility verification.",
+      "source_day": 2072,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/22/day-2072/",
+      "difficulty": "easy",
+      "type": "number"
+    },
+    {
+      "number": 2,
+      "question": "Who was the anonymous “senior administration official” quoted in a Politico story that the White House later cited to justify banning the outlet?",
+      "options": [
+        "Steve Witkoff",
+        "Timothy Kelly",
+        "JD Vance",
+        "Donald Trump Jr."
+      ],
+      "correct": 2,
+      "explanation": "JD Vance made the comments during an authorized administration-hosted background briefing. An aide explicitly instructed reporters to attribute the remarks to a “senior administration official.”",
+      "source_day": 2074,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/24/day-2074/",
+      "difficulty": "hard",
+      "type": "who"
+    },
+    {
+      "number": 3,
+      "question": "What information was reportedly stolen in the hack affecting nearly all FBI agents and job applicants?",
+      "options": [
+        "Biometric data from foreign intelligence officers",
+        "Names, home addresses, Social Security numbers, and assignments",
+        "Only work email addresses and office phone numbers",
+        "Sealed court records from ongoing prosecutions"
+      ],
+      "correct": 1,
+      "explanation": "The stolen data included names, home addresses, Social Security numbers, assignments, and sometimes information about family members. The FBI had not determined whether the breach involved its own systems or a third-party provider.",
+      "source_day": 2073,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/23/day-2073/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 4,
+      "question": "Why did CNN, MS NOW, and Politico sue the Trump administration?",
+      "options": [
+        "To obtain credentials for the United Nations",
+        "To regain access to the White House",
+        "To prevent the release of classified documents",
+        "To challenge new campaign finance rules"
+      ],
+      "correct": 1,
+      "explanation": "The outlets sued after Trump revoked their White House access for publishing what he called “purposely negative stuff.” They described the ban as a direct assault on the First Amendment.",
+      "source_day": 2071,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/21/day-2071/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 5,
+      "question": "Who did Sen. John Curtis call on the Senate Judiciary Committee to subpoena?",
+      "options": [
+        "JD Vance and Steve Witkoff",
+        "Eric Trump and Jared Kushner",
+        "Mehmet Oz and Robert F. Kennedy Jr.",
+        "Trump Jr. and Hunter Biden"
+      ],
+      "correct": 3,
+      "explanation": "Curtis sought testimony from Trump Jr. and Hunter Biden as part of an investigation into whether presidential family relationships had been used for personal financial benefit.",
+      "source_day": 2072,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/22/day-2072/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 6,
+      "question": "What was the result of the Senate vote on the resolution directing Trump to end the Iran war and seek congressional authorization?",
+      "options": [
+        "It failed 49-50",
+        "It failed 45-54",
+        "It passed 50-49",
+        "It passed unanimously"
+      ],
+      "correct": 0,
+      "explanation": "The resolution failed 49-50, despite four Republicans joining Democrats in support. It had already passed the House but would not have gone to Trump for his signature.",
+      "source_day": 2074,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/24/day-2074/",
+      "difficulty": "easy",
+      "type": "number"
+    },
+    {
+      "number": 7,
+      "question": "What did Trump reportedly say after the first architect for his White House ballroom warned that its preliminary design violated building safety codes?",
+      "options": [
+        "“Congress can waive the rules.”",
+        "“Safety must always come first.”",
+        "“I am the code.”",
+        "“The architect has final authority.”"
+      ],
+      "correct": 2,
+      "explanation": "Trump reportedly declared “I am the code,” claiming that building codes did not apply to White House construction. Officials nevertheless continued discussing emergency exits and fire-containment measures.",
+      "source_day": 2073,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/23/day-2073/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 8,
+      "question": "What prompted major television networks to suspend their coverage of Trump?",
+      "options": [
+        "Trump refused to attend the United Nations General Assembly",
+        "Congress prohibited cameras inside the White House",
+        "The White House canceled all televised briefings",
+        "The White House barred CNN from serving as the scheduled TV pool representative"
+      ],
+      "correct": 3,
+      "explanation": "ABC, CBS, CNN, Fox News, and NBC declined to establish a replacement pool after the White House barred CNN from fulfilling its scheduled turn.",
+      "source_day": 2071,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/21/day-2071/",
+      "difficulty": "medium",
+      "type": "cause and effect"
+    }
+  ]
+}

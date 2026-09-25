@@ -1,6 +1,12 @@
 ---
 title: Day 2074
 date: 2026-09-24 16:26:38 -07:00
+tags:
+- "congress"
+- "economy"
+- "iran"
+- "media"
+- "voting-rights"
 description: '"Love me."'
 image: "/uploads/day2074trump-6ac8e7.jpg"
 todayInOneSentence: The Senate rejected a resolution directing Trump to end the Iran

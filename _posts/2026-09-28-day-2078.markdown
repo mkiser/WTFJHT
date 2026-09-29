@@ -1,6 +1,12 @@
 ---
 title: Day 2078
 date: 2026-09-28 17:01:42 -07:00
+tags:
+- "supreme-court"
+- "voting-rights"
+- "midterm-election"
+- "immigration"
+- "economy"
 description: '"Take the waste out."'
 image: "/uploads/day2078trump-42ef48.jpg"
 todayInOneSentence: Trump canceled $810 million in spending approved by Congress using

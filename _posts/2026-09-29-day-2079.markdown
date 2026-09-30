@@ -1,6 +1,11 @@
 ---
 title: Day 2079
 date: 2026-09-29 16:13:06 -07:00
+tags:
+- "immigration"
+- "supreme-court"
+- "justice-department"
+- "midterm-election"
 description: '"You make me want to throw up in my mouth."'
 image: "/uploads/day2079trump-f31de8.jpg"
 todayInOneSentence: 'The Supreme Court temporarily allowed the Trump administration

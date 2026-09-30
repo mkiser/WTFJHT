@@ -74,6 +74,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
   # Process all built posts via site.posts.docs
   site.posts.docs.each do |post|
     next if post.data['draft']
+    next if post.data['post_type'] == 'week-in-review'
     next unless post.output
 
     post_date = post.data['date']

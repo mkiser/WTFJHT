@@ -94,9 +94,48 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-P3G02CXQXW"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
+      var gtagHeld = null;
+      function gtag(){ if (gtagHeld) { gtagHeld.push(arguments); } else { dataLayer.push(arguments); } }
       gtag('js', new Date());
-      gtag('config', 'G-P3G02CXQXW');
+      gtagHeld = [];
+      (function() {
+        var humanEvents = ['wheel', 'pointerdown', 'mousedown', 'keydown', 'touchstart', 'click'];
+        var timer = null;
+        function startAnalytics() {
+          if (!gtagHeld) return;
+          var held = gtagHeld;
+          gtagHeld = null;
+          clearTimeout(timer);
+          for (var i = 0; i < humanEvents.length; i++) window.removeEventListener(humanEvents[i], onHumanEvent, true);
+          document.removeEventListener('visibilitychange', armTimer);
+          window.removeEventListener('pageshow', armTimer);
+          gtag('config', 'G-P3G02CXQXW');
+          for (var j = 0; j < held.length; j++) dataLayer.push(held[j]);
+        }
+        function passGate() {
+          try { window.sessionStorage.setItem('wtfjht-ga-human', '1'); } catch (err) {}
+          startAnalytics();
+        }
+        function onHumanEvent(event) {
+          if (event.isTrusted === false) return;
+          passGate();
+        }
+        function armTimer() {
+          clearTimeout(timer);
+          if (document.visibilityState === 'visible') timer = setTimeout(passGate, 10000);
+        }
+        var landedFromEmail = /[?&]utm_medium=email(&|$)/i.test(window.location.search) || /^\/pulse\/thanks(\/|$)/.test(window.location.pathname);
+        var passedInThisTab = false;
+        try { passedInThisTab = window.sessionStorage.getItem('wtfjht-ga-human') === '1'; } catch (err) {}
+        if (!landedFromEmail || passedInThisTab) {
+          startAnalytics();
+        } else {
+          for (var i = 0; i < humanEvents.length; i++) window.addEventListener(humanEvents[i], onHumanEvent, { capture: true, passive: true });
+          document.addEventListener('visibilitychange', armTimer);
+          window.addEventListener('pageshow', armTimer);
+          armTimer();
+        }
+      })();
     </script>
     <script>
       document.addEventListener('DOMContentLoaded', function() {

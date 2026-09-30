@@ -97,9 +97,17 @@
       var gtagHeld = null;
       function gtag(){ if (gtagHeld) { gtagHeld.push(arguments); } else { dataLayer.push(arguments); } }
       gtag('js', new Date());
-      gtagHeld = [];
       (function() {
-        var humanEvents = ['wheel', 'pointerdown', 'mousedown', 'keydown', 'touchstart', 'click'];
+        if (!/(^|\.)whatthefuckjusthappenedtoday\.com$/.test(window.location.hostname)) return;
+        var search = window.location.search;
+        var landingUrl = window.location.href.replace(/([?&])s=[^&#]*(&|(?=#)|$)/, function(match, lead, tail) { return tail === '&' ? lead : ''; });
+        var landedFromEmail = /[?&]utm_medium=email(&|$)/i.test(search) || (/^\/pulse\/thanks(\/|$)/.test(window.location.pathname) && /[?&](s|cid)=[^&*]/.test(search));
+        if (!landedFromEmail) {
+          gtag('config', 'G-P3G02CXQXW', { page_location: landingUrl });
+          return;
+        }
+        gtagHeld = [];
+        var humanEvents = ['wheel', 'pointerdown', 'keydown', 'touchstart', 'click'];
         var timer = null;
         function startAnalytics() {
           if (!gtagHeld) return;
@@ -109,32 +117,21 @@
           for (var i = 0; i < humanEvents.length; i++) window.removeEventListener(humanEvents[i], onHumanEvent, true);
           document.removeEventListener('visibilitychange', armTimer);
           window.removeEventListener('pageshow', armTimer);
-          gtag('config', 'G-P3G02CXQXW');
+          gtag('config', 'G-P3G02CXQXW', { page_location: landingUrl });
           for (var j = 0; j < held.length; j++) dataLayer.push(held[j]);
-        }
-        function passGate() {
-          try { window.sessionStorage.setItem('wtfjht-ga-human', '1'); } catch (err) {}
-          startAnalytics();
         }
         function onHumanEvent(event) {
           if (event.isTrusted === false) return;
-          passGate();
+          startAnalytics();
         }
         function armTimer() {
           clearTimeout(timer);
-          if (document.visibilityState === 'visible') timer = setTimeout(passGate, 10000);
+          if (document.visibilityState === 'visible') timer = setTimeout(startAnalytics, 10000);
         }
-        var landedFromEmail = /[?&]utm_medium=email(&|$)/i.test(window.location.search) || /^\/pulse\/thanks(\/|$)/.test(window.location.pathname);
-        var passedInThisTab = false;
-        try { passedInThisTab = window.sessionStorage.getItem('wtfjht-ga-human') === '1'; } catch (err) {}
-        if (!landedFromEmail || passedInThisTab) {
-          startAnalytics();
-        } else {
-          for (var i = 0; i < humanEvents.length; i++) window.addEventListener(humanEvents[i], onHumanEvent, { capture: true, passive: true });
-          document.addEventListener('visibilitychange', armTimer);
-          window.addEventListener('pageshow', armTimer);
-          armTimer();
-        }
+        for (var i = 0; i < humanEvents.length; i++) window.addEventListener(humanEvents[i], onHumanEvent, { capture: true, passive: true });
+        document.addEventListener('visibilitychange', armTimer);
+        window.addEventListener('pageshow', armTimer);
+        armTimer();
       })();
     </script>
     <script>
@@ -146,7 +143,7 @@
             // would count the addresses the worker rejects. Anything that still
             // posts natively to Mailchimp is counted here, on intent.
             if (event.defaultPrevented) return;
-            gtag('event', 'sign_up', {
+            gtag('event', 'sign_up_attempt', {
               // Split into the STANDARD method param on purpose: a custom param
               // would need a dimension registered in the GA4 admin to be reportable.
               method: /^\/unsubscribe(\/|$)/.test(window.location.pathname) ? 'newsletter-resubscribe' : 'newsletter'
@@ -450,6 +447,7 @@
           var tooltip = null;
           var selectedText = '';
           var selectedUrl = '';
+          var selectedHash = '';
           var mouseDown = false;
           var interactingUntil = 0;
           var timer = null;
@@ -509,6 +507,7 @@
             }
             selectedText = '';
             selectedUrl = '';
+            selectedHash = '';
           }
 
           function elementOf(node) {
@@ -579,7 +578,8 @@
                 var article = scope.closest('article.post[data-post-url]');
                 var base = article ? article.getAttribute('data-post-url') : window.location.pathname;
                 selectedText = text;
-                selectedUrl = id ? window.location.origin + base + '#' + id : window.location.href;
+                selectedUrl = window.location.origin + base;
+                selectedHash = id ? '#' + id : '';
                 showTooltip(range.getBoundingClientRect());
                 return;
               }
@@ -635,7 +635,8 @@
             if (!btn) return;
 
             var action = btn.dataset.action;
-            var url = selectedUrl;
+            var network = action === 'share' && navigator.share ? 'native' : 'copy';
+            var url = selectedUrl + '?utm_source=' + network + '&utm_medium=social&utm_campaign=share' + selectedHash;
             var quotedText = '"' + selectedText + '"';
             if (quotedText.length > 280) {
               quotedText = '"' + selectedText.substring(0, 250) + '..."';
@@ -746,7 +747,7 @@
           e.preventDefault();
           if (typeof gtag === 'function') gtag('event', 'share_widget', { method: 'copy' });
           var widget = copyBtn.closest('.share-widget');
-          var url = widget.dataset.shareUrl;
+          var url = widget.dataset.shareUrl + '?utm_source=copy&utm_medium=social&utm_campaign=share';
           navigator.clipboard.writeText(url).then(function() {
             var span = copyBtn.querySelector('.share-widget__label');
             var original = span.textContent;
@@ -764,7 +765,7 @@
           e.preventDefault();
           if (typeof gtag === 'function') gtag('event', 'share_widget', { method: 'native' });
           var widget = nativeShareBtn.closest('.share-widget');
-          var url = widget.dataset.shareUrl;
+          var url = widget.dataset.shareUrl + '?utm_source=native&utm_medium=social&utm_campaign=share';
           var title = widget.dataset.shareTitle || document.title;
           navigator.share({ title: title, url: url }).then(function() {
             closeAllCards();

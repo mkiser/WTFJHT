@@ -1462,22 +1462,25 @@
   // Action Bar Utilities
   // ========================================================================
 
-  function getCardShareUrl(ui) {
-    var url = new URL(window.location);
+  function getCardShareUrl(ui, network) {
+    var url = new URL(window.location.origin + window.location.pathname);
     url.searchParams.set('view', ui._viewMode || 'cards');
     url.searchParams.set('s', ui.currentIndex.toString());
+    url.searchParams.set('utm_source', network);
+    url.searchParams.set('utm_medium', 'social');
+    url.searchParams.set('utm_campaign', 'share');
     return url.toString();
   }
 
   function updateShareLinks(ui) {
-    var url = getCardShareUrl(ui);
     var title = document.title || 'WTF Just Happened Today?';
-    var enc = encodeURIComponent(url);
     var encTitle = encodeURIComponent(title);
     var links = ui.shareCard.querySelectorAll('[data-social]');
     for (var i = 0; i < links.length; i++) {
       var link = links[i];
-      switch (link.getAttribute('data-social')) {
+      var network = link.getAttribute('data-social');
+      var enc = encodeURIComponent(getCardShareUrl(ui, network));
+      switch (network) {
         case 'email':
           link.href = 'mailto:?subject=' + encTitle + '&body=' + enc; break;
         case 'whatsapp':
@@ -1791,7 +1794,7 @@
       e.preventDefault();
       e.stopPropagation();
       if (typeof gtag === 'function') gtag('event', 'carousel_share', { method: 'copy_link' });
-      var url = getCardShareUrl(ui);
+      var url = getCardShareUrl(ui, 'copy');
       var label = this.querySelector('.carousel-actions__label');
       if (navigator.clipboard && navigator.clipboard.writeText) {
         navigator.clipboard.writeText(url).then(function() {
@@ -1814,7 +1817,7 @@
       nativeShareOpt.addEventListener('click', function(e) {
         e.preventDefault();
         e.stopPropagation();
-        var url = getCardShareUrl(ui);
+        var url = getCardShareUrl(ui, 'native');
         var title = document.title || 'WTF Just Happened Today?';
         if (typeof gtag === 'function') gtag('event', 'carousel_share', { method: 'native' });
         navigator.share({ title: title, url: url }).then(function() {

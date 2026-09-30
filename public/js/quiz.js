@@ -429,9 +429,11 @@
   }
 
   function shareAsText() {
+    var network = navigator.share ? 'native' : 'copy';
     var text = 'I scored ' + state.score + '/' + questions.length +
       ' on the WTF Just Happened Today? Weekly News Quiz.\n' +
-      'https://whatthefuckjusthappenedtoday.com/quiz';
+      window.location.origin + window.location.pathname +
+      '?src=social&utm_source=' + network + '&utm_medium=social&utm_campaign=share';
     if (navigator.share) {
       navigator.share({ text: text }).catch(function () {});
     } else if (navigator.clipboard && navigator.clipboard.writeText) {

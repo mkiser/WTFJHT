@@ -11,39 +11,39 @@
       <span class="share-widget__icon">{% include_cached icons.html icon="send" %}</span>
       <span class="share-widget__label">Send</span>
     </button>
-    <a class="share-widget__option" href="mailto:?subject=From%20WTF%20Just%20Happened%20Today%3A%20{{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}&amp;body={{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <a class="share-widget__option" href="mailto:?subject=From%20WTF%20Just%20Happened%20Today%3A%20{{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}&amp;body={{ site.url }}{{ site.baseurl }}{{ page.url }}%3Futm_source%3Demail%26utm_medium%3Dsocial%26utm_campaign%3Dshare">
       <span class="share-widget__icon">{% include_cached icons.html icon="email" %}</span>
       <span class="share-widget__label">Email</span>
     </a>
-    <a class="share-widget__option" href="https://wa.me/?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}%20{{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">
+    <a class="share-widget__option" href="https://wa.me/?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}%20{{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}%3Futm_source%3Dwhatsapp%26utm_medium%3Dsocial%26utm_campaign%3Dshare" target="_blank" rel="noopener">
       <span class="share-widget__icon">{% include_cached icons.html icon="whatsapp" %}</span>
       <span class="share-widget__label">WhatsApp</span>
     </a>
-    <a class="share-widget__option" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">
+    <a class="share-widget__option" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}%3Futm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dshare" target="_blank" rel="noopener">
       <span class="share-widget__icon">{% include_cached icons.html icon="facebook" %}</span>
       <span class="share-widget__label">Facebook</span>
     </a>
-    <a class="share-widget__option" href="https://bsky.app/intent/compose?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}%0A%0A{{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">
+    <a class="share-widget__option" href="https://bsky.app/intent/compose?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}%0A%0A{{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}%3Futm_source%3Dbluesky%26utm_medium%3Dsocial%26utm_campaign%3Dshare" target="_blank" rel="noopener">
       <span class="share-widget__icon">{% include_cached icons.html icon="bluesky" %}</span>
       <span class="share-widget__label">Bluesky</span>
     </a>
-    <a class="share-widget__option" href="https://threads.com/intent/post?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}%20{{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">
+    <a class="share-widget__option" href="https://threads.com/intent/post?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}%20{{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}%3Futm_source%3Dthreads%26utm_medium%3Dsocial%26utm_campaign%3Dshare" target="_blank" rel="noopener">
       <span class="share-widget__icon">{% include_cached icons.html icon="threads" %}</span>
       <span class="share-widget__label">Threads</span>
     </a>
-    <a class="share-widget__option" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}&amp;url={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">
+    <a class="share-widget__option" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}&amp;url={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}%3Futm_source%3Dx%26utm_medium%3Dsocial%26utm_campaign%3Dshare" target="_blank" rel="noopener">
       <span class="share-widget__icon">{% include_cached icons.html icon="twitter" %}</span>
       <span class="share-widget__label">X</span>
     </a>
-    <a class="share-widget__option" href="https://mastodonshare.com/?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}&amp;url={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">
+    <a class="share-widget__option" href="https://mastodonshare.com/?text={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}&amp;url={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}%3Futm_source%3Dmastodon%26utm_medium%3Dsocial%26utm_campaign%3Dshare" target="_blank" rel="noopener">
       <span class="share-widget__icon">{% include_cached icons.html icon="mastodon" %}</span>
       <span class="share-widget__label">Mastodon</span>
     </a>
-    <a class="share-widget__option" href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}" target="_blank" rel="noopener">
+    <a class="share-widget__option" href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}%3Futm_source%3Dlinkedin%26utm_medium%3Dsocial%26utm_campaign%3Dshare" target="_blank" rel="noopener">
       <span class="share-widget__icon">{% include_cached icons.html icon="linkedin" %}</span>
       <span class="share-widget__label">LinkedIn</span>
     </a>
-    <a class="share-widget__option" href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}&amp;title={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}" target="_blank" rel="noopener">
+    <a class="share-widget__option" href="https://www.reddit.com/submit?url={{ site.url }}{{ site.baseurl }}{{ page.url | uri_escape }}%3Futm_source%3Dreddit%26utm_medium%3Dsocial%26utm_campaign%3Dshare&amp;title={{ page.title | uri_escape }}%3A%20{{ page.description | uri_escape }}" target="_blank" rel="noopener">
       <span class="share-widget__icon">{% include_cached icons.html icon="reddit" %}</span>
       <span class="share-widget__label">Reddit</span>
     </a>

@@ -1,0 +1,173 @@
+{
+  "id": "2026-W40",
+  "week_label": "Sep 28 – Oct 1, 2026",
+  "status": "published",
+  "editions": [
+    2078,
+    2079,
+    2080,
+    2081
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What support will the Pentagon continue providing Iraq after the formal U.S. military withdrawal?",
+      "options": [
+        "Funding for a new four-star autonomous weapons command",
+        "Direct control of operations against Iran-backed militias",
+        "A permanent aircraft carrier strike group",
+        "Targeted training and intelligence support"
+      ],
+      "correct": 3,
+      "explanation": "The Pentagon will continue providing targeted training and intelligence support after ending the 12-year anti-ISIS operation.",
+      "source_day": 2080,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/30/day-2080/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 2,
+      "question": "What fuel-economy target did the Trump administration set for new cars and light trucks by 2031?",
+      "options": [
+        "50.4 miles per gallon",
+        "44.7 miles per gallon",
+        "40.4 miles per gallon",
+        "34.9 miles per gallon"
+      ],
+      "correct": 3,
+      "explanation": "The administration lowered the 2031 target to 34.9 miles per gallon from the Biden-era target of 50.4 mpg.",
+      "source_day": 2078,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/28/day-2078/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 3,
+      "question": "What protection did a lower court require before migrants could be deported to third countries where they had no connections?",
+      "options": [
+        "Notice and a meaningful chance to raise fears of torture or persecution",
+        "Automatic release while their immigration cases proceeded",
+        "Approval from Congress for each deportation",
+        "A jury trial in the country receiving them"
+      ],
+      "correct": 0,
+      "explanation": "The lower court required notice and a meaningful opportunity to raise fears of torture or persecution. The Supreme Court temporarily paused that ruling.",
+      "source_day": 2079,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/29/day-2079/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 4,
+      "question": "How was $20 million redirected before the government awarded a contract for television ads promoting Trump?",
+      "options": [
+        "It was moved from refugee services into vehicle subsidies",
+        "It was moved from military recruiting into election security",
+        "It was moved from border surveillance and drug-trafficking enforcement into an account for commemorative events",
+        "It was moved from grid upgrades into the Federal Reserve renovation"
+      ],
+      "correct": 2,
+      "explanation": "The White House moved money allocated for border surveillance and drug-trafficking enforcement into a Homeland Security account for commemorative events. DHS awarded the $20 million media contract the next day.",
+      "source_day": 2081,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/01/day-2081/",
+      "difficulty": "hard",
+      "type": "sequence"
+    },
+    {
+      "number": 5,
+      "question": "What did the largest portion of Trump’s $810 million “pocket rescission” target?",
+      "options": [
+        "Federal election security operations",
+        "Health and Human Services programs serving refugees, asylum seekers, and other noncitizens",
+        "The Federal Reserve’s headquarters renovation",
+        "Border surveillance and drug-trafficking enforcement"
+      ],
+      "correct": 1,
+      "explanation": "The largest cuts targeted $567 million for Health and Human Services programs serving refugees, asylum seekers, and other noncitizens.",
+      "source_day": 2078,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/28/day-2078/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "What was the Senate vote on the Ratepayer Protection Act, and how many votes did it need to advance?",
+      "options": [
+        "57-43, with 51 votes needed",
+        "57-43, with 60 votes needed",
+        "59-41, with 60 votes needed",
+        "60-40, with 67 votes needed"
+      ],
+      "correct": 1,
+      "explanation": "The measure failed 57-43 because it needed 60 votes to advance.",
+      "source_day": 2080,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/30/day-2080/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 7,
+      "question": "What did Jack Smith say his investigation had developed?",
+      "options": [
+        "Strong indications that foreign actors interfered in the election",
+        "Proof beyond a reasonable doubt that Trump engaged in serious crimes against the nation",
+        "A basis for prosecuting Trump only if Congress approved",
+        "Evidence that widespread fraud determined the 2020 election"
+      ],
+      "correct": 1,
+      "explanation": "Smith said the investigation developed “proof beyond a reasonable doubt” that Trump had engaged in serious crimes against the nation.",
+      "source_day": 2079,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/29/day-2079/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 8,
+      "question": "What is the proposed four-star “AUTOWARCOM” intended to develop and deploy?",
+      "options": [
+        "Border surveillance systems",
+        "Missile defenses for civilian data centers",
+        "Election-security software",
+        "Drones and other autonomous weapons"
+      ],
+      "correct": 3,
+      "explanation": "AUTOWARCOM would focus on developing and deploying drones and other autonomous weapons. The Pentagon needs legislation to establish the command.",
+      "source_day": 2081,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/01/day-2081/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 9,
+      "question": "What disclosure increased the urgency of the FTC’s investigation into AI companies?",
+      "options": [
+        "Anthropic’s models had shut down a federal electricity grid",
+        "AI executives had refused to sign voluntary safety standards",
+        "OpenAI’s AI agents had escaped a testing environment and hacked into Hugging Face",
+        "A data center had transferred its grid-upgrade costs to the Pentagon"
+      ],
+      "correct": 2,
+      "explanation": "OpenAI disclosed that its AI agents broke out of a testing environment and hacked into Hugging Face, increasing the FTC’s urgency.",
+      "source_day": 2080,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/09/30/day-2080/",
+      "difficulty": "hard",
+      "type": "what happened"
+    },
+    {
+      "number": 10,
+      "question": "What immigration detention question did the Supreme Court agree to decide?",
+      "options": [
+        "Whether ICE can detain immigrants who crossed illegally years ago without a bond hearing",
+        "Whether every immigrant is entitled to release during deportation proceedings",
+        "Whether states can deport citizens without federal approval",
+        "Whether Congress can prohibit all third-country deportations"
+      ],
+      "correct": 0,
+      "explanation": "The justices will decide whether ICE can detain immigrants who crossed the border illegally years ago without giving them a bond hearing.",
+      "source_day": 2081,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/01/day-2081/",
+      "difficulty": "easy",
+      "type": "legal question"
+    }
+  ]
+}

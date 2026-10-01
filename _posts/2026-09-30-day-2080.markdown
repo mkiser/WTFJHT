@@ -1,6 +1,11 @@
 ---
 title: Day 2080
 date: 2026-09-30 15:16:09 -07:00
+tags:
+- "tech-policy"
+- "foreign-policy"
+- "national-security"
+- "congress"
 description: '"Toothless."'
 image: "/uploads/day2080trump-43661e.jpg"
 todayInOneSentence: Senate Democrats blocked a House-passed bill aimed at making AI

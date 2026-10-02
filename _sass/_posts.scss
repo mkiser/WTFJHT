@@ -164,12 +164,7 @@ article.post div.post-content > p:not(.tios) {
     line-height: 1.5;
     color: $gray-4;
   }
-  ol li {
-    list-style: inherit; // real ordered lists — inherits from the ol, so
-                         // type="a"/"i" actually works (a hard `decimal` here
-                         // would silently override the attribute)
-  }
-  
+
   li {
     font-size: 1em;
     color: $body-color;
@@ -1086,4 +1081,14 @@ div.topic-date {
 .page ul,
 .page ol {
   font-size: 1em;
+}
+
+.page ol li {
+  list-style: inherit; // real ordered lists — inherits from the ol, so
+                       // type="a"/"i" actually works (a hard `decimal` here
+                       // would silently override the attribute)
+}
+
+.post ol li {
+  list-style: circle;
 }

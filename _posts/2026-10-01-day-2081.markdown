@@ -1,6 +1,12 @@
 ---
 title: Day 2081
 date: 2026-10-01 16:44:09 -07:00
+tags:
+- "national-security"
+- "immigration"
+- "economy"
+- "reproductive-rights"
+- "supreme-court"
 description: '"Normal."'
 image: "/uploads/day2081trump-916638.jpg"
 todayInOneSentence: Defense Secretary Pete Hegseth announced a new, four-star "AUTOWARCOM"

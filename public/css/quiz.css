@@ -37,7 +37,6 @@
   --q-ease:      ease;
   --q-ease-snap: cubic-bezier(0.34, 1.56, 0.64, 1); /* reserved for score reveal only */
 
-  max-width: 38rem; /* the prose column — matches $w-prose (tightened 40->38, 2026-06-06) */
   margin: 0 auto;
   padding: 1rem 1rem 4rem;
   color: var(--q-ink-med);

@@ -343,7 +343,6 @@ footer {
 }
 
 .wtf-search-results {
-  max-width: $w-prose;
   margin: 0 auto;
   padding: 0 1rem;
 
@@ -374,7 +373,6 @@ footer {
 .pledge-drive {
   margin: 1em auto;
   text-align: center;
-  max-width: $w-prose;
   h6 {
     margin-top: 0;
   }
@@ -390,7 +388,6 @@ footer {
 .tout {
   margin: 1em auto;
   text-align: center;
-  max-width: $w-prose;
   padding: 1rem;
   border-bottom: 1px solid $gray-2;
 }
@@ -1314,7 +1311,6 @@ div.flex-item ul.package {
 // ===========================================
 
 .author-page {
-  max-width: $w-prose; // same column as every other page
   margin: 0 auto;
   padding: 1rem;
 }

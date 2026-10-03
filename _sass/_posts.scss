@@ -124,21 +124,27 @@ article.post div.post-content > p:not(.tios) {
 }
 
 .page,
+.post,
+.tag-index,
+.tag-archive,
+.archive-page,
+.browse-archive,
+.browse-nav,
+.author-page,
+.wtf-search-results,
+.pledge-drive,
+.tout,
+.survey,
+.quiz-container {
+  max-width: $w-prose; // same column as every other page
+}
+
+.page,
 .post {
   margin: 20px auto 0 auto;
-  max-width: $page-max-width;
   padding: 1rem;
   /* border-top: 1px solid $gray-2; */
 
-  p {
-    font-size: 1em;
-    text-wrap: pretty; // widow/orphan control on page + post body
-
-    a {
-      color: $link-color;
-    }
-
-  }
   div.away-mode {
     padding: 1em;
     margin: 0 0 2em 0em;
@@ -152,7 +158,6 @@ article.post div.post-content > p:not(.tios) {
     padding: 0.25em 0 0.25em 1.25em;
     margin: 0 0 2em 1em;
     background: none;
-    font-size: 0.9rem;    // aside list — secondary role: notables/related sit BELOW prose
     line-height: 1.5;
     color: $gray-4;
   }
@@ -160,7 +165,6 @@ article.post div.post-content > p:not(.tios) {
     padding: 0 0 0 1.5em;
     margin: 0 0 1em 0;
     background: none;
-    font-size: 0.9rem;    // aside list — secondary role (see ul above)
     line-height: 1.5;
     color: $gray-4;
   }
@@ -168,7 +172,6 @@ article.post div.post-content > p:not(.tios) {
   li {
     font-size: 1em;
     color: $body-color;
-    list-style: none;
     line-height: $line-height-normal;
 
     strong {
@@ -196,10 +199,6 @@ article.post div.post-content > p:not(.tios) {
 
   ol li + li {
     margin-top: 1.5em;
-  }
-
-  p + p {
-    margin-top: 2em;
   }
 
   .jekyll-twitter-plugin {
@@ -252,10 +251,8 @@ article.post div.post-content > p:not(.tios) {
   }
 
   blockquote {
-    font-size: 0.95em; // relative grammar — blockquotes ride their prose context
     color: $gray-4;
     padding: $blockquote-padding;
-    margin: 0 0 1em 1rem;
     border: none;
     border-left: $blockquote-border-width solid $blockquote-border-color;
     background-color: $blockquote-bg;
@@ -267,19 +264,96 @@ article.post div.post-content > p:not(.tios) {
 
     p {
       font-size: 1em;
-      margin-top: 0;
       margin-bottom: 1rem;
     }
   }
 
 }
 
+.post {
+  .post-content p {
+    text-wrap: pretty;
+  }
+
+  @media screen {
+    .post-content > h3 {
+      font-size: 1.65rem;
+      font-weight: 700;
+      line-height: 1.25;
+      margin-top: 1rem;
+      margin-bottom: 0.5rem;
+    }
+  }
+
+  p {
+    font-size: 1em;
+
+    a {
+      color: $link-color;
+    }
+  }
+
+  p + p {
+    margin-top: 2em;
+  }
+
+  ul {
+    font-size: 0.9rem;    // aside list — secondary role: notables/related sit BELOW prose
+  }
+
+  ol {
+    font-size: 0.9rem;    // aside list — secondary role (see ul above)
+  }
+
+  li {
+    list-style: none;
+  }
+
+  ol li,
+  .page & ol li {
+    list-style: circle;
+  }
+
+  blockquote {
+    font-size: 0.95em; // relative grammar — blockquotes ride their prose context
+    margin: 0 0 1em 1rem;
+
+    p {
+      margin-top: 0;
+    }
+  }
+}
+
 // Page-specific styles (About, FAQ, Subscribe, etc.)
 .page {
   border-top: 0;
 
+  p + p {
+    margin-top: 2em;
+  }
+
+  // Pages read at 1rem body — lists match it (the 1.05rem step is POST-only:
+  // one step under 1.1rem Georgia prose; on pages it inverted the ramp,
+  // rendering lead-ins smaller than their lists).
+  ul,
+  ol {
+    font-size: 1em;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  ol li {
+    list-style: inherit; // real ordered lists — inherits from the ol, so
+                         // type="a"/"i" actually works (a hard `decimal` here
+                         // would silently override the attribute)
+  }
+
   // Better paragraph rhythm for long-form content
   p {
+    font-size: 1em;
+    text-wrap: pretty;
     line-height: $line-height-loose;
     margin-bottom: 1.25em;
 
@@ -287,16 +361,23 @@ article.post div.post-content > p:not(.tios) {
       color: $text-strong;
     }
 
-    a:not(.anchorjs-link) {
-      @include link-underline;
+    a {
+      color: $link-color;
+
+      &:not(.anchorjs-link) {
+        @include link-underline;
+      }
     }
   }
 
   // Blockquotes - cleaner for pages
   blockquote {
     font-size: 1em;
-    color: $gray-4;
     margin: 1.5em 0 1.5em 1em;
+
+    p {
+      margin-top: 0;
+    }
 
     a:not(.anchorjs-link) {
       @include link-underline;
@@ -579,7 +660,6 @@ div.topic-date {
 
 // Tag index page
 .tag-index {
-  max-width: $page-max-width;
   margin: 0 auto;
   padding: 1rem;
 
@@ -634,7 +714,6 @@ div.topic-date {
 
 // Tag archive page (individual tag)
 .tag-archive {
-  max-width: $page-max-width;
   margin: 0 auto;
   padding: 1rem;
 
@@ -725,7 +804,6 @@ div.topic-date {
 
 // Unified archive pages (year/month archives) - matches tag-archive style
 .archive-page {
-  max-width: $page-max-width;
   margin: 0 auto;
   padding: 1rem;
 
@@ -807,7 +885,6 @@ div.topic-date {
 
 // Browse archive page (unified /archive)
 .browse-archive {
-  max-width: $page-max-width;
   margin: 0 auto;
   padding: 1rem;
 
@@ -833,105 +910,15 @@ div.topic-date {
     }
   }
 
-  &__section {
-    margin-bottom: 2rem;
-  }
-
-  &__section-title {
-    font-size: 1rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-    color: $text-strong;
-  }
-
-  &__tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  &__tag {
-    margin: 0;
-
-    a {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.3rem;
-      text-decoration: underline;
-      text-underline-offset: .2em;
-      color: $gray-4;
-      font-size: $font-size-sm;
-      transition: color $transition-fast;
-
-      &:hover {
-        color: $text-strong;
-      }
-    }
-  }
-
   &__tag-count {
     font-family: $code-font-family;
     font-size: unquote("max(.85em, .8rem)"); // data-inline pattern
     color: var(--c-meta-surface);
   }
-
-  &__year {
-    margin-bottom: 0.5rem;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: 0.25rem 0;
-  }
-
-  &__year-link {
-    font-weight: 600;
-    color: $text-strong;
-    text-decoration: none;
-    margin-right: 0.5rem;
-    flex-shrink: 0;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  &__months {
-    font-size: $font-size-md;
-  }
-
-  &__month {
-    color: $gray-3;
-    text-decoration: none;
-
-    &:hover {
-      color: $text-strong;
-      text-decoration: underline;
-    }
-  }
-
-  &__sep {
-    color: $gray-2;
-  }
-
-  // Mobile: larger tap targets for tags
-  @media (max-width: $medium-breakpoint) {
-    &__tags {
-      gap: 0.5rem;
-    }
-
-    &__tag a {
-      padding: 0.4rem 0.7rem;
-      font-size: $font-size-md;
-    }
-  }
 }
 
 // Browse navigation (bottom of tag/archive pages)
 .browse-nav {
-  max-width: $page-max-width;
   margin: 2rem auto 0;
   padding: 1.5rem 1rem;
   border-top: 1px solid $border-lighter;
@@ -950,92 +937,106 @@ div.topic-date {
     }
   }
 
-  &__section {
-    margin-bottom: 1.5rem;
-
-    &:last-child {
-      margin-bottom: 0;
-    }
+  &__section:last-child {
+    margin-bottom: 0;
   }
+}
 
-  &__title {
-    font-size: $font-size-md;
-    font-weight: 600;
-    margin-bottom: 0.75rem;
+.browse-archive__section,
+.browse-nav__section {
+  margin-bottom: 2rem;
+}
+
+.browse-archive__section-title,
+.browse-nav__title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: $text-strong;
+}
+
+.browse-archive__year,
+.browse-nav__year {
+  margin-bottom: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.25rem 0;
+}
+
+.browse-archive__year-link,
+.browse-nav__year-link {
+  font-weight: 600;
+  color: $text-strong;
+  text-decoration: none;
+  margin-right: 0.5rem;
+  flex-shrink: 0;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.browse-archive__months,
+.browse-nav__months {
+  font-size: $font-size-md;
+}
+
+.browse-archive__month,
+.browse-nav__month {
+  color: $gray-3;
+  text-decoration: none;
+
+  &:hover {
     color: $text-strong;
+    text-decoration: underline;
   }
+}
 
-  &__year {
-    margin-bottom: 0.4rem;
-    font-size: $font-size-md;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: baseline;
-    gap: 0.2rem 0;
-  }
+.browse-archive__sep,
+.browse-nav__sep {
+  color: $gray-2;
+}
 
-  &__year-link {
-    font-weight: 600;
-    color: $text-strong;
+.browse-archive__tags,
+.browse-nav__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.browse-archive__tag,
+.browse-nav__tag {
+  margin: 0;
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: .2rem .5rem;
+    background: var(--c-surface);
+    border: 1px solid var(--c-line-strong);
+    border-radius: 1rem;
     text-decoration: none;
-    margin-right: 0.25rem;
-    flex-shrink: 0;
-
-    &:hover {
-      text-decoration: underline;
-    }
-  }
-
-  &__months {
+    color: $gray-4;
     font-size: $font-size-sm;
-  }
-
-  &__month {
-    color: $gray-3;
-    text-decoration: none;
+    transition: color $transition-fast;
 
     &:hover {
       color: $text-strong;
-      text-decoration: underline;
     }
   }
+}
 
-  &__sep {
-    color: $gray-2;
-  }
-
-  &__tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.4rem;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-
-  // Typographic, not pills — matches the master /archive/ "By Topic" grammar.
-  &__tag {
-    margin: 0;
-
-    a {
-      display: inline-flex;
-      align-items: center;
-      text-decoration: underline;
-      text-underline-offset: .2em;
-      color: $gray-4;
-      font-size: $font-size-sm;
-      transition: color $transition-fast;
-
-      &:hover {
-        color: $text-strong;
-      }
-    }
-  }
-
-  @media (max-width: $medium-breakpoint) {
-    &__tags {
-      gap: 0.5rem 0.75rem;
-    }
+// Mobile: larger tap targets for tags
+@media (max-width: $medium-breakpoint) {
+  .browse-archive__tag a,
+  .browse-nav__tag a {
+    padding: 0.4rem 0.7rem;
+    font-size: $font-size-md;
   }
 }
 
@@ -1073,22 +1074,4 @@ div.topic-date {
   .share-toast.fade-out {
     animation: none;
   }
-}
-
-// Pages read at 1rem body — lists match it (the 1.05rem step is POST-only:
-// one step under 1.1rem Georgia prose; on pages it inverted the ramp,
-// rendering lead-ins smaller than their lists).
-.page ul,
-.page ol {
-  font-size: 1em;
-}
-
-.page ol li {
-  list-style: inherit; // real ordered lists — inherits from the ol, so
-                       // type="a"/"i" actually works (a hard `decimal` here
-                       // would silently override the attribute)
-}
-
-.post ol li {
-  list-style: circle;
 }

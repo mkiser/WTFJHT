@@ -11,7 +11,7 @@ image: "/uploads/lwitf10226-9b3134.jpg"
 
 **Last week in one sentence:** The Supreme Court temporarily allowed the Trump administration to resume deporting migrants to “third countries” where they have no connections; Trump's taxpayer-funded TV ads were paid for with $20 million in border security funding; Trump canceled $810 million in spending approved by Congress; the U.S. military formally withdrew from Iraq and ended its 12-year anti-ISIS operation; and the Supreme Court allowed the Trump administration to use a federal citizenship database to verify voter rolls ahead of the midterms.
 
-### The Week, Distilled
+---
 
 1/ **The Supreme Court temporarily allowed the Trump administration to resume deporting migrants to “third countries” where they have no connections**. The unsigned order paused a lower-court ruling that migrants must be given notice and a meaningful chance to raise fears of torture or persecution before deportation. The Department of Homeland Security says more than 25,000 people have been deported to third countries under the policy. The justices will hear arguments in December on whether the policy is legal. ([Day 2078](https://whatthefuckjusthappenedtoday.com/2026/09/28/day-2078/) / [Day 2079](https://whatthefuckjusthappenedtoday.com/2026/09/29/day-2079/))
 
@@ -23,14 +23,9 @@ image: "/uploads/lwitf10226-9b3134.jpg"
 
 5/ **The Supreme Court allowed the Trump administration to use a federal citizenship database to verify voter rolls ahead of the midterms**. The order pauses a lower-court ruling that had blocked the system, which combines immigration and Social Security records to check voters’ citizenship status. Federal law, however, prohibits mass removal of voters within 90 days of Election Day. The emergency ruling was unsigned, with the court’s three liberal justices dissenting. ([Day 2078](https://whatthefuckjusthappenedtoday.com/2026/09/28/day-2078/))
 
-### Catch up on last week.
+---
 
-- **Monday** — [Day 2078: "Take the waste out."](https://whatthefuckjusthappenedtoday.com/2026/09/28/day-2078/)
-- **Tuesday** — [Day 2079: "You make me want to throw up in my mouth."](https://whatthefuckjusthappenedtoday.com/2026/09/29/day-2079/)
-- **Wednesday** — [Day 2080: "Toothless."](https://whatthefuckjusthappenedtoday.com/2026/09/30/day-2080/)
-- **Thursday** — [Day 2081: "Normal."](https://whatthefuckjusthappenedtoday.com/2026/10/01/day-2081/)
-
-### By the numbers.
+### 📊 The Dept. of Numbers.
 
 - **17% of Americans approve of Trump’s handling of the cost of living and 65% blame his policies for high prices**. 67% of Republicans, however, say higher prices were due to factors outside his control.
 
@@ -42,7 +37,18 @@ image: "/uploads/lwitf10226-9b3134.jpg"
 
 - **The Trump administration has spent at least $1.7 million on taxpayer-funded advertisements promoting Trump and his policies ahead of the midterms**. The funds came from the Department of Homeland Security and Trump reportedly personally pushed for the ads and helped select the imagery and videos used.
 
-### Most clicked last week.
+---
+
+### 📰 Daily editions.
+
+- **Monday** — [Day 2078: "Take the waste out."](https://whatthefuckjusthappenedtoday.com/2026/09/28/day-2078/)
+- **Tuesday** — [Day 2079: "You make me want to throw up in my mouth."](https://whatthefuckjusthappenedtoday.com/2026/09/29/day-2079/)
+- **Wednesday** — [Day 2080: "Toothless."](https://whatthefuckjusthappenedtoday.com/2026/09/30/day-2080/)
+- **Thursday** — [Day 2081: "Normal."](https://whatthefuckjusthappenedtoday.com/2026/10/01/day-2081/)
+
+---
+
+### 👀 Most clicked.
 
 1. **‘President of the Unites States’: White House’s AI accord includes spelling error.** "Trump and six tech executives voluntarily signed the document, which included a misspelling, committing to safely developing AI." ([The Guardian](https://theguardian.com/us-news/2026/sep/30/trump-ai-accord-spelling-error))
 2. **Eric Schmitt pins down Jack Smith — as a Caitlin Clark fan.** It appeared that the Missouri Republican misinterpreted a text message reference to the "hawks." ([Politico](https://politico.com/live-updates/2026/09/29/congress/jack-smith-senate-judiciary-testimony-caitlin-clark-01096763))
@@ -53,7 +59,9 @@ image: "/uploads/lwitf10226-9b3134.jpg"
 7. **Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military.** Hegseth told hundreds of junior military officers and enlisted leaders on Wednesday that the Trump administration has achieved a cultural shift in the military. ([NPR](https://npr.org/2026/09/30/nx-s1-5986304/hegseth-troops-address))
 8. **States That Ban Abortion Challenge Shield Laws for Providers Who Mail Pills.** ([New York Times](https://nytimes.com/2026/09/30/us/abortion-ban-shield-laws-supreme-court.html))
 
-### The Last Week in WTF News Quiz.
+---
+
+### 🧩 The news quiz.
 
 **Where did the $20 million for TV ads promoting Trump come from?**
 

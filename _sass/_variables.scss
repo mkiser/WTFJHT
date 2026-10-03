@@ -89,7 +89,6 @@ $away-mode-bg: var(--c-away-wash);
 $w-module: 32rem;
 $w-prose:  38rem;  // the one content column — ~63-71 char measure
 $w-stage:  60rem;
-$page-max-width: $w-prose; // legacy alias
 
 // Semantic: Typography (unquote preserves original quoting/spacing in compiled CSS)
 $serif-font-family: unquote("Georgia, 'Times New Roman', Times, serif");

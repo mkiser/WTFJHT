@@ -444,10 +444,10 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      the table; if none fits, the component is the problem.</p>
   <div class="spec"><div class="spec-head"><span>display · sans 700 · 2.5rem · lh 1.18 wrapped / 1.12 single-line · the headline, one per page</span><span>42.5–45px</span></div>
     <div class="spec-body" style="font-size:2.5rem;font-weight:700;line-height:1.18">Day 1947: “A little bit nasty.”</div></div>
-  <div class="spec"><div class="spec-head"><span>title · sans 700 · 1.65rem · lh 1.25 · section heads (h2)</span><span>≈28–29.7px</span></div>
+  <div class="spec"><div class="spec-head"><span>title · sans 700 · 1.65rem · lh 1.25 · section heads (h2, and h3 at the top of a post body)</span><span>≈28–29.7px</span></div>
     <div class="spec-body" style="font-size:1.65rem;font-weight:700;line-height:1.25">Section heads step clearly below the headline</div></div>
-  <div class="spec"><div class="spec-head"><span>heading · sans 700 · 1.2rem · lh 1.3 · sub-heads (h3), card &amp; episode titles</span><span>≈20.4–21.6px</span></div>
-    <div class="spec-body" style="font-size:1.2rem;font-weight:700;line-height:1.3">Notables · episode titles · package groups</div></div>
+  <div class="spec"><div class="spec-head"><span>heading · sans 700 · 1.2rem · lh 1.3 · sub-heads (h3 outside post bodies), module labels, card &amp; episode titles</span><span>≈20.4–21.6px</span></div>
+    <div class="spec-body" style="font-size:1.2rem;font-weight:700;line-height:1.3">Module labels · episode titles · package groups</div></div>
   <div class="spec"><div class="spec-head"><span>prose · GEORGIA 400 · 1.1rem · lh 1.62 · the product — locked anchor</span><span>18.7–19.8px · live</span></div>
     <div class="spec-body" style="font-family:Georgia,'Times New Roman',serif;font-size:1.1rem;line-height:1.62">The reading surface. <a href="#" style="color:#e0162b">Citations wear the crimson underline</a>. (<em>New York Times</em> / <em>Reuters</em>)</div></div>
   <div class="spec"><div class="spec-head"><span>body · sans 400 · 1rem · lh 1.5 · UI and page text</span><span>17–18px · live</span></div>
@@ -474,7 +474,7 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
     <div class="spec-body" style="font-size:2.5rem;font-weight:700;line-height:1.18">Heading one is the page</div></div>
   <div class="spec"><div class="spec-head"><span>h2 → title</span></div>
     <div class="spec-body" style="font-size:1.65rem;font-weight:700;line-height:1.25">Heading two sections the page</div></div>
-  <div class="spec"><div class="spec-head"><span>h3 → heading</span></div>
+  <div class="spec"><div class="spec-head"><span>h3 → heading · at the top of a post body → title</span></div>
     <div class="spec-body" style="font-size:1.2rem;font-weight:700;line-height:1.3">Heading three names a group</div></div>
   <div class="spec"><div class="spec-head"><span>h4 → body 700 · h5 → secondary 700 · h6 → label</span></div>
     <div class="spec-body"><div style="font-size:1rem;font-weight:700">Heading four is a bold body line</div>
@@ -494,15 +494,20 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
       14<sup>th</sup> Amendment ride browser defaults.</div></div>
 
   <h4>Lists</h4>
-  <div class="spec"><div class="spec-head"><span>ul · disc bullets · post asides = secondary 0.9rem sans · page lists = body 1em</span></div>
-    <div class="spec-body"><ul style="margin:0;padding-left:1.5em;font-size:.9rem;line-height:1.5;color:#515151;list-style:disc">
-      <li>Unordered lists carry plain disc bullets</li>
+  <div class="spec"><div class="spec-head"><span>ul · no bullet, set off by a 2px left rule · post asides = secondary 0.9rem sans · page lists = body 1em</span></div>
+    <div class="spec-body"><ul style="margin:0;padding-left:1.25em;border-left:2px solid #e5e5e5;font-size:.9rem;line-height:1.5;color:#515151;list-style:none">
+      <li>Unordered lists carry no bullet; the left rule sets them off</li>
       <li>Notables and related lists sit visibly below the serif body
-        <ul style="margin:.35em 0 0;padding-left:1.2em;list-style:circle"><li>nested points step to circles, same size</li></ul></li>
+        <ul style="margin:.35em 0 0;padding-left:1.2em;list-style:none"><li>nested points indent, same size</li></ul></li>
     </ul></div></div>
-  <div class="spec"><div class="spec-head"><span>ol · real decimal markers (honors type="a"/"i")</span></div>
-    <div class="spec-body"><ol style="margin:0;padding-left:1.5em;font-size:.9rem;line-height:1.5;color:#515151;list-style:decimal">
-      <li>Ordered lists render true decimals</li>
+  <div class="spec"><div class="spec-head"><span>ol in a post · open-circle markers, never numbers · Notables, Most clicked · secondary 0.9rem sans</span></div>
+    <div class="spec-body"><ol style="margin:0;padding-left:1.5em;font-size:.9rem;line-height:1.5;color:#515151;list-style:circle">
+      <li>Post ordered lists use open circles</li>
+      <li>The marker is the browser's, not a styled fake</li>
+    </ol></div></div>
+  <div class="spec"><div class="spec-head"><span>ol in a page · real decimal markers (honors type="a"/"i") · body 1em</span></div>
+    <div class="spec-body"><ol style="margin:0;padding-left:1.5em;line-height:1.5;list-style:decimal">
+      <li>Page ordered lists render true decimals</li>
       <li>The marker is the browser's, not a styled fake
         <ol style="margin:.35em 0 0;padding-left:1.4em;list-style:lower-alpha"><li>nested ordered steps to letters</li></ol></li>
     </ol></div></div>
@@ -768,7 +773,7 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
     <tr><td>Headline</td><td>display role; "Day N: “description.”" as one unit</td></tr>
     <tr><td>Byline row</td><td>meta furniture + square share chrome (44px, flat, tile for icon-only)</td></tr>
     <tr><td>TIOS</td><td>the canon fixture (Ch. 10) — real text pilcrows with screen-reader separators</td></tr>
-    <tr><td>Stories</td><td>Georgia prose, bold ledes, inline crimson sources; real decimal markers on ordered content</td></tr>
+    <tr><td>Stories</td><td>Georgia prose, bold ledes, inline crimson sources; open-circle markers on ordered content</td></tr>
     <tr><td>Notables / related</td><td>aside lists — secondary sans</td></tr>
     <tr><td>Blockquotes</td><td>0.95em of prose, muted ink</td></tr>
     <tr><td>Anchors</td><td>§ in the left gutter on hover (Ch. 20)</td></tr>
@@ -853,9 +858,9 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      serif stack adds <code>'Noto Serif'</code> as the named Android understudy, links carry
      the 40% crimson underline inline (Gmail keeps color, drops metrics — sanctioned
      degradation), buttons are the ink square, fluid-hybrid base with the 480px bump as
-     progressive enhancement. A CI sync alarm compares the email's pinned values against this site's live
-     <code>_variables.scss</code> on every PasteUp test run — when the site's brand moves,
-     the email follows deliberately, never silently. Two upstream notes from that work:
+     progressive enhancement. Relay applies the pinned values over this site's
+     <code>_variables.scss</code>, so when the site's brand moves, the email changes only when
+     someone edits the pinned file in PasteUp. Two upstream notes from that work:
      the heading weight step ships as h1–h2:700 / h3+:600 (this book's Ch. 8 specimen
      says h3:700 — the shipped CSS is the ruling, per decision D5); and
      <code>$figcaption-color #8e8e8e</code> sits at ~3.3:1 on white (below the Ch. 28

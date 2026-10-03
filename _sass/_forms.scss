@@ -233,7 +233,7 @@
 // QUESTION as the hero, light-but-defined controls. Stays in the WTFJHT rule set: fully
 // token-driven (--c-* via the $gray-*/$border-color/$body-bg mirrors), SQUARE (no radius),
 // on the rem type scale, system font. No raw hex, no hand-rolled night palette.
-.survey { max-width: var(--w-prose); margin: 0 auto; padding: 1rem 1rem 4rem; }  // prose column + airy gutter
+.survey { margin: 0 auto; padding: 1rem 1rem 4rem; }  // prose column + airy gutter
 .survey-header { margin-bottom: 2.5em; }
 .survey-intro { color: $gray-3; font-size: 1rem; line-height: 1.6; margin-top: 0.5em; }
 

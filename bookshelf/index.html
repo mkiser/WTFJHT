@@ -1,0 +1,92 @@
+---
+title: The WTFJHT Bookshelf
+description: Books for readers trying to stay oriented without becoming numb.
+permalink: /bookshelf/
+layout: page
+show_title: false
+image: "/uploads/og-image.jpg"
+---
+
+{% assign shelf = site.data.bookshelf %}
+{% assign books = shelf.books %}
+<div class="bookshelf bookshelf--{{ shelf.covers }}">
+
+<h1 class="page-title">The WTFJHT Bookshelf</h1>
+
+<p class="lead">Books for people trying to make sense of the mess without giving up.</p>
+
+<section class="shelf" id="start-here">
+  <h2 class="shelf__title">Start here</h2>
+  <p class="shelf__intro">Not sure where to begin? Pick the question that feels closest to what you’re trying to understand.</p>
+  <div class="wayfinder">
+    <ul class="wayfinder__list" role="list">
+      {% for p in shelf.pathways %}
+      {% assign first = books | where: "slug", p.start | first %}
+      {% assign home = shelf.shelves | where: "slug", first.shelf | first %}
+      {% assign on_home = books | where: "shelf", home.slug %}
+      {% if first.one_sentence and first.one_sentence != '' %}{% assign lede = first.one_sentence %}{% else %}{% assign lede_parts = first.why | split: '. ' %}{% assign lede = lede_parts | first %}{% if lede_parts.size > 1 %}{% assign lede = lede | append: '.' %}{% endif %}{% endif %}
+      <li>
+        <details class="wayfinder__item" name="wayfinder" id="{{ p.slug }}">
+          <summary class="wayfinder__q">{{ p.question }}</summary>
+          <div class="wayfinder__panel">
+            <div class="wayfinder__start">
+              {% unless shelf.covers == 'none' %}<a class="wayfinder__jacket" href="#{{ first.slug }}" tabindex="-1" aria-hidden="true">{% if first.cover %}<img src="{% if first.cover_url and first.cover_url != '' %}{{ first.cover_url }}{% else %}{{ site.url }}{{ site.baseurl }}/uploads/bookshelf/{{ first.slug }}.jpg{% endif %}" width="240" height="360" loading="lazy" decoding="async" alt="">{% else %}<span class="book__cover-fallback">{{ first.title | slice: 0 }}</span>{% endif %}</a>{% endunless %}
+              <div class="wayfinder__start-body">
+                <h3 class="wayfinder__book"><a href="#{{ first.slug }}"><em>{{ first.title }}</em></a></h3>
+                <p class="wayfinder__byline">{{ first.authors | join: ", " }}{% if first.year %} · {{ first.year }}{% endif %}</p>
+                <p class="wayfinder__lede">{{ lede }}</p>
+              </div>
+            </div>
+            {% if p.then.size > 0 %}<ol class="wayfinder__then" start="2">{% for s in p.then %}{% assign n = books | where: "slug", s | first %}<li><a href="#{{ n.slug }}"><em>{{ n.title }}</em></a></li>{% endfor %}</ol>{% endif %}
+            <p class="wayfinder__shelf"><a href="#{{ home.slug }}">{% if home.short and home.short != '' %}{{ home.short }}{% else %}{{ home.title }}{% endif %}&nbsp;<span class="bookshelf__count">{{ on_home.size }}</span></a></p>
+          </div>
+        </details>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+{% assign index_heading = shelf.labels.index_heading %}
+<nav class="bookshelf__index" id="bookshelf-index"{% if index_heading and index_heading != '' %} aria-labelledby="bookshelf-index-title"{% else %} aria-label="Shelves"{% endif %}>
+  {% if index_heading and index_heading != '' %}<h2 class="bookshelf__index-title" id="bookshelf-index-title">{{ index_heading }}</h2>{% endif %}
+  <ul>
+    {% for s in shelf.shelves %}
+    {% assign on_shelf = books | where: "shelf", s.slug %}
+    <li><a href="#{{ s.slug }}">{% if s.short and s.short != '' %}{{ s.short }}{% else %}{{ s.title }}{% endif %}&nbsp;<span class="bookshelf__count">{{ on_shelf.size }}</span></a></li>
+    {% endfor %}
+  </ul>
+  <p class="bookshelf__updated">{{ books.size }} books · Updated {{ shelf.updated | date: "%B %-d, %Y" }}</p>
+</nav>
+
+<!-- <p>WTFJHT is built around a simple daily job: helping readers understand what happened, why it matters, and how today’s news fits into larger patterns. This bookshelf extends that work beyond the daily briefing. These books look at the systems behind the headlines: democratic breakdown, authoritarianism, climate change, inequality, housing, public capacity, political economy, persuasion, information, and civic repair.</p>
+
+<p>The point is not to read everything. The point is to find the next useful book.</p>
+
+ -->
+
+{% assign cutoff = site.time | date: '%s' | minus: 7776000 %}
+{% assign fresh = "" | split: "" %}
+{% for b in books %}{% assign a = b.added | date: '%s' | plus: 0 %}{% if a > cutoff %}{% assign fresh = fresh | push: b %}{% endif %}{% endfor %}
+{% if fresh.size > 0 and fresh.size < 9 %}
+<section class="shelf shelf--new" id="new">
+  <h2 class="shelf__title">New on the shelf</h2>
+  <ul class="bookshelf__list">
+    {% for b in fresh %}<li><a href="#{{ b.slug }}"><em>{{ b.title }}</em></a> — {{ b.authors | join: ", " }}</li>{% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% for s in shelf.shelves %}
+<section class="shelf" id="{{ s.slug }}">
+  <h2 class="shelf__title">{{ s.title }}</h2>
+  <p class="shelf__intro">{{ s.intro }}</p>
+  {% assign on_shelf = books | where: "shelf", s.slug %}
+  {% for b in on_shelf %}{% include book-entry.html book=b %}{% endfor %}
+  {% if shelf.labels.back_to_index and shelf.labels.back_to_index != '' %}<p class="shelf__back"><a href="#bookshelf-index">{{ shelf.labels.back_to_index }}</a></p>{% endif %}
+</section>
+{% endfor %}
+
+<p class="bookshelf__disclosure">Some links on this page are affiliate links. If you buy through them, WTFJHT earns a small commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Every book also links to your library.</p>
+
+</div>

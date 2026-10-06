@@ -1,0 +1,1808 @@
+updated: 2026-09-20
+covers: jackets
+affiliates:
+  bookshop_id: '129015'
+  amazon_tag: wtfjht-20
+labels:
+  back_to_index: ''
+  index_heading: ''
+shelves:
+- slug: climate
+  title: Climate and planetary futures
+  short: 'Climate'
+  intro: 'Climate books often split into two unhelpful camps: doom or denial. This is for the middle perspective: clear-eyed books about risk, power, policy, imagination, adaptation, and the work of building a livable future.'
+- slug: democracy
+  title: Democracy, authoritarianism, and civic survival
+  short: 'Democracy & Authoritarianism'
+  intro: 'These books explain democratic erosion at different scales: institutions, parties, courts, authoritarian networks, political violence, shared reality, civic responsibility, and the norms that make self-government possible.'
+- slug: capacity
+  title: Abundance, housing, and public capacity
+  short: 'Infrastructure'
+  intro: 'This is about the machinery of daily life: housing, permitting, delivery, infrastructure, government technology, public goods, and why good intentions often fail at the point of implementation.'
+- slug: economy
+  title: Political economy, inequality, and the common good
+  short: 'Economy'
+  intro: 'These books connect markets to power: who benefits, who pays, who gets mobility, who gets security, and why inequality is not just an economic condition but a civic problem.'
+- slug: repair
+  title: Persuasion, shared reality, and civic repair
+  short: ''
+  intro: 'This is for the human layer of politics: how people change their minds, why conflict escalates, how identity hardens, and what it takes to keep a civic culture from becoming permanently ungovernable.'
+pathways:
+- slug: how-did-democracy-get-this-fragile
+  question: How did democracy get this fragile?
+  start: tyranny-of-the-minority
+  then:
+  - how-democracies-die
+  - autocracy-inc
+  - the-constitution-of-knowledge
+- slug: how-do-i-think-about-climate-without-spiraling
+  question: How do I think about climate without spiraling?
+  start: not-the-end-of-the-world
+  then:
+  - what-if-we-get-it-right
+  - the-weight-of-nature
+  - all-we-can-save
+  - climate-wayfinding
+- slug: why-does-it-feel-like-america-cant-build-or-fix-anything
+  question: Why does it feel like America can’t build or fix anything?
+  start: abundance
+  then:
+  - why-nothing-works
+  - recoding-america
+  - stuck
+  - arbitrary-lines
+- slug: why-does-the-economy-feel-broken-even-when-the-numbers-say-otherwise
+  question: Why does the economy feel broken even when the numbers say otherwise?
+  start: in-this-economy
+  then:
+  - poverty-by-america
+  - the-sum-of-us
+  - the-tyranny-of-merit
+  - the-big-myth
+- slug: how-do-we-keep-talking-to-one-another
+  question: How do we keep talking to one another?
+  start: i-never-thought-of-it-that-way
+  then:
+  - the-persuaders
+  - high-conflict
+  - how-minds-change
+  - the-bill-of-obligations
+books:
+- slug: whats-left
+  title: What's Left
+  subtitle: Three Paths Through the Planetary Crisis
+  authors:
+  - Malcolm Harris
+  year: 2025
+  publisher: Little, Brown and Company
+  isbn13: '9780316577410'
+  asin: '0316577413'
+  overdrive_id: '11060595'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/whats-left-4637a0.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A climate book about power, not just emissions. Harris frames the planetary crisis through competing political strategies, making it a useful read for people who want climate action connected to labor, capitalism, public power, and the left’s unresolved arguments about how change actually happens.
+  fans_of:
+  - climate politics
+  - Green New Deal debates
+  - political economy
+  - structural arguments
+  try_next:
+  - a-planet-to-win
+  - the-big-myth
+  - the-crisis-of-democratic-capitalism
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '0316577413'
+- slug: possible
+  title: Possible
+  subtitle: Ways to Net Zero
+  authors:
+  - Chris Goodall
+  year: 2024
+  publisher: Profile Books
+  isbn13: '9781800818941'
+  asin: ''
+  overdrive_id: '9935164'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/possible-c24324.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A practical, systems-oriented look at decarbonization. Goodall’s lane is useful for readers who want fewer slogans and more concrete thinking about energy, industry, transport, agriculture, and the actual path to net zero.
+  fans_of:
+  - practical climate policy
+  - energy systems
+  - implementation
+  - “what would it take?” books
+  try_next:
+  - the-big-fix
+  - not-the-end-of-the-world
+  - the-price-is-wrong
+  try_next_elsewhere:
+  - Regeneration
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1800818947'
+- slug: not-the-end-of-the-world
+  title: Not the End of the World
+  subtitle: How We Can Be the First Generation to Build a Sustainable Planet
+  authors:
+  - Hannah Ritchie
+  year: 2024
+  publisher: Little, Brown Spark
+  isbn13: '9780316536752'
+  asin: 031653675X
+  overdrive_id: '10260527'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/not-the-end-of-the-world-d853af.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A data-driven antidote to climate fatalism. Ritchie does not minimize the crisis, but she does push against the idea that despair is the only intellectually honest response.
+  fans_of:
+  - evidence-based optimism
+  - charts
+  - global development
+  - climate progress without denial
+  try_next:
+  - what-if-we-get-it-right
+  - all-we-can-save
+  - the-big-fix
+  try_next_elsewhere:
+  - Factfulness
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 031653675X
+- slug: the-weight-of-nature
+  title: The Weight of Nature
+  subtitle: How a Changing Climate Changes Our Brains
+  authors:
+  - Clayton Page Aldern
+  year: 2024
+  publisher: Dutton
+  isbn13: '9780593472743'
+  asin: 0593472748
+  overdrive_id: '10589610'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-weight-of-nature-51f689.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A book about climate change as a neurological, psychological, and social force. It belongs on this shelf because WTFJHT readers are not only tracking policy and politics; they are living through the stress of the news itself.
+  fans_of:
+  - climate psychology
+  - public health
+  - heat
+  - cognition
+  - mental health
+  - embodied consequences
+  try_next:
+  - the-heat-will-kill-you-first
+  - fire-weather
+  - climate-wayfinding
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593472748
+- slug: what-if-we-get-it-right
+  title: What If We Get It Right?
+  subtitle: Visions of Climate Futures
+  authors:
+  - Ayana Elizabeth Johnson
+  year: 2024
+  publisher: One World
+  isbn13: '9780593229385'
+  asin: '059322938X'
+  overdrive_id: '9493812'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/what-if-we-get-it-right-26dec3.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A hopeful climate book without the usual soft-focus optimism. Johnson’s frame is useful because it asks readers to imagine success in enough detail to make it politically, culturally, and emotionally usable.
+  fans_of:
+  - climate imagination
+  - interviews
+  - civic hope
+  - future-building
+  - pragmatic optimism
+  try_next:
+  - all-we-can-save
+  - saving-us
+  - climate-wayfinding
+  - not-the-end-of-the-world
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 059322938X
+- slug: all-we-can-save
+  title: All We Can Save
+  subtitle: Truth, Courage, and Solutions for the Climate Crisis
+  authors:
+  - Ayana Elizabeth Johnson (ed.)
+  - Katharine K. Wilkinson (ed.)
+  year: 2020
+  publisher: One World
+  isbn13: '9780593237083'
+  asin: '0593237080'
+  overdrive_id: '5340384'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/all-we-can-save-381b64.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A broad, humane collection about climate leadership, grief, justice, repair, and action. It works well for readers who want many entry points into climate work rather than one grand theory.
+  fans_of:
+  - climate essays
+  - women climate leaders
+  - moral imagination
+  - practical hope
+  try_next:
+  - what-if-we-get-it-right
+  - climate-wayfinding
+  - saving-us
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593237080
+- slug: saving-us
+  title: Saving Us
+  subtitle: A Climate Scientist's Case for Hope and Healing in a Divided World
+  authors:
+  - Katharine Hayhoe
+  year: 2021
+  publisher: One Signal Publishers/Atria Books
+  isbn13: '9781982143848'
+  asin: '1982143843'
+  overdrive_id: '5588712'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/saving-us-81fe8f.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A climate communication book for people who are tired of losing arguments and want to have better conversations. Hayhoe’s emphasis on values, trust, and relationship makes this a natural bridge between the climate shelf and the civic repair shelf.
+  fans_of:
+  - persuasion
+  - climate communication
+  - depolarization
+  - faith-and-science conversations
+  try_next:
+  - i-never-thought-of-it-that-way
+  - the-persuaders
+  - all-we-can-save
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1982143843'
+- slug: the-big-fix
+  title: The Big Fix
+  subtitle: Seven Practical Steps to Save Our Planet
+  authors:
+  - Hal Harvey
+  - Justin Gillis
+  year: 2022
+  publisher: Simon & Schuster
+  isbn13: '9781982123994'
+  asin: '1982123990'
+  overdrive_id: '7455107'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-big-fix-0f22d6.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A useful companion for readers who want the climate-solutions shelf to get more specific. This is a practical book about policy levers, sectors, and choices rather than personal virtue alone.
+  fans_of:
+  - climate policy
+  - sector-by-sector solutions
+  - emissions math
+  - practical implementation
+  try_next:
+  - possible
+  - abundance
+  - recoding-america
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1982123990'
+- slug: a-planet-to-win
+  title: A Planet to Win
+  subtitle: Why We Need a Green New Deal
+  authors:
+  - Kate Aronoff
+  - Alyssa Battistoni
+  - Daniel Aldana Cohen
+  - Thea Riofrancos
+  year: 2019
+  publisher: Verso Books
+  isbn13: '9781788738316'
+  asin: '1788738314'
+  overdrive_id: '4716107'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/a-planet-to-win-0095e4.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A sharper political argument for climate action as public investment, economic transformation, and democratic renewal. It is useful for readers who want climate to be treated as a governing project, not a consumer preference.
+  fans_of:
+  - Green New Deal politics
+  - public investment
+  - labor
+  - industrial policy
+  - climate justice
+  try_next:
+  - whats-left
+  - the-big-myth
+  - the-price-is-wrong
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1788738314'
+- slug: the-heat-will-kill-you-first
+  title: The Heat Will Kill You First
+  subtitle: Life and Death on a Scorched Planet
+  authors:
+  - Jeff Goodell
+  year: 2023
+  publisher: Little, Brown and Company
+  isbn13: '9780316497558'
+  asin: '031649755X'
+  overdrive_id: '9384279'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-heat-will-kill-you-first-e57937.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: Heat is one of the most concrete ways climate change enters daily life. Goodell’s book makes the planetary crisis physical, immediate, and unequal.
+  fans_of:
+  - extreme heat
+  - climate reporting
+  - public health
+  - infrastructure risk
+  - disaster politics
+  try_next:
+  - the-weight-of-nature
+  - fire-weather
+  - not-the-end-of-the-world
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 031649755X
+- slug: fire-weather
+  title: Fire Weather
+  subtitle: A True Story from a Hotter World
+  authors:
+  - John Vaillant
+  year: 2023
+  publisher: Knopf
+  isbn13: '9780525434245'
+  asin: '0525434240'
+  overdrive_id: '9173688'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/fire-weather-773e6c.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: 'Narrative climate reporting at its strongest: disaster, fossil fuels, infrastructure, and a hotter world colliding in one specific place. Good for readers who want climate change made tangible through story.'
+  fans_of:
+  - longform reporting
+  - disaster narratives
+  - fossil-fuel history
+  - climate consequences
+  try_next:
+  - the-heat-will-kill-you-first
+  - the-weight-of-nature
+  - how-civil-wars-start
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '0525434240'
+- slug: regenesis
+  title: Regenesis
+  subtitle: Feeding the World Without Devouring the Planet
+  authors:
+  - George Monbiot
+  year: 2022
+  publisher: Penguin Books
+  isbn13: '9780143135968'
+  asin: 0143135961
+  overdrive_id: '6544595'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/regenesis-223797.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: Climate is also food, land, soil, biodiversity, and the political economy of what we eat. Monbiot’s book expands the shelf beyond carbon and into the systems that make daily life possible.
+  fans_of:
+  - food systems
+  - land use
+  - ecology
+  - farming
+  - anti-extractive environmental thinking
+  try_next:
+  - whats-left
+  - possible
+  - not-the-end-of-the-world
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0143135961
+- slug: the-price-is-wrong
+  title: The Price Is Wrong
+  subtitle: Why Capitalism Won't Save the Planet
+  authors:
+  - Brett Christophers
+  year: 2024
+  publisher: Verso Books
+  isbn13: '9781804292310'
+  asin: '1804292311'
+  overdrive_id: '10393934'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-price-is-wrong-6bc829.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A useful corrective to the assumption that cheap renewables automatically produce a clean-energy transition. Christophers puts profit, investment incentives, and political economy back at the center of the climate debate.
+  fans_of:
+  - climate economics
+  - capitalism critiques
+  - energy markets
+  - political economy
+  try_next:
+  - whats-left
+  - the-big-myth
+  - a-planet-to-win
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1804292311'
+- slug: climate-wayfinding
+  title: Climate Wayfinding
+  subtitle: Healing Ourselves and the Planet We Call Home
+  authors:
+  - Katharine K. Wilkinson
+  year: 2026
+  publisher: Andrews McMeel Publishing
+  isbn13: '9781524899899'
+  asin: '1524899895'
+  overdrive_id: '12579469'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/climate-wayfinding-b5c45d.jpg'
+  shelf: climate
+  added: 2026-09-20
+  one_sentence: ''
+  why: A guide for readers who want to do something useful but are overwhelmed by the scale of the crisis. This belongs near the end of the climate shelf because it turns anxiety into direction.
+  fans_of:
+  - climate agency
+  - vocation
+  - grief
+  - practical hope
+  - staying useful
+  try_next:
+  - all-we-can-save
+  - what-if-we-get-it-right
+  - saving-us
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1524899895'
+- slug: tyranny-of-the-minority
+  title: Tyranny of the Minority
+  subtitle: Why American Democracy Reached the Breaking Point
+  authors:
+  - Steven Levitsky
+  - Daniel Ziblatt
+  year: 2023
+  publisher: Crown
+  isbn13: '9780593443095'
+  asin: '0593443098'
+  overdrive_id: '10106099'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/tyranny-of-the-minority-c9e8d9.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A clear map of minority rule, constitutional hardball, veto points, and democratic dysfunction. It is one of the most direct companion books for WTFJHT readers trying to understand why American politics can feel both highly contested and structurally stuck.
+  fans_of:
+  - democratic erosion
+  - minority rule
+  - constitutional reform
+  - institutional analysis
+  try_next:
+  - how-democracies-die
+  - minority-rule
+  - on-tyranny
+  - the-constitution-of-knowledge
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593443098
+- slug: autocracy-inc
+  title: Autocracy, Inc.
+  subtitle: The Dictators Who Want to Run the World
+  authors:
+  - Anne Applebaum
+  year: 2024
+  publisher: Doubleday
+  isbn13: '9780385549943'
+  asin: '0385549946'
+  overdrive_id: '10907722'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/autocracy-inc-eb4888.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: 'A global view of authoritarian cooperation: money, surveillance, propaganda, kleptocracy, and mutual protection among regimes. Useful for readers who want to understand autocracy as a network, not just a personality type.'
+  fans_of:
+  - authoritarianism
+  - Russia
+  - China
+  - kleptocracy
+  - global democracy
+  - propaganda systems
+  try_next:
+  - twilight-of-democracy
+  - strongmen
+  - the-road-to-unfreedom
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0385549946
+- slug: democracy-awakening
+  title: Democracy Awakening
+  subtitle: Notes on the State of America
+  authors:
+  - Heather Cox Richardson
+  year: 2023
+  publisher: Viking
+  isbn13: '9780593652985'
+  asin: '0593652983'
+  overdrive_id: '9580719'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/democracy-awakening-f8330a.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: American history as a way to understand the democratic crisis. Richardson’s book is especially useful for readers who want the present placed inside a longer fight over equality, citizenship, and power.
+  fans_of:
+  - American history
+  - civic narrative
+  - democracy
+  - historical context for present politics
+  try_next:
+  - on-tyranny
+  - on-freedom
+  - how-democracies-die
+  - the-bill-of-obligations
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593652983
+- slug: how-democracies-die
+  title: How Democracies Die
+  subtitle: ''
+  authors:
+  - Steven Levitsky
+  - Daniel Ziblatt
+  year: 2018
+  publisher: Crown
+  isbn13: '9781524762957'
+  asin: '1524762954'
+  overdrive_id: '3359741'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/how-democracies-die-0ce653.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: 'A modern classic on how democracies are weakened from within. Its core value is the playbook: elected leaders, captured parties, weakened norms, and institutions that prove more fragile than expected.'
+  fans_of:
+  - democratic backsliding
+  - comparative politics
+  - political parties
+  - institutional failure
+  try_next:
+  - tyranny-of-the-minority
+  - on-tyranny
+  - twilight-of-democracy
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1524762954'
+- slug: on-tyranny
+  title: On Tyranny
+  subtitle: Twenty Lessons from the Twentieth Century
+  authors:
+  - Timothy Snyder
+  year: 2017
+  publisher: Tim Duggan Books
+  isbn13: '9780804190114'
+  asin: 0804190119
+  overdrive_id: '3108868'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/on-tyranny-16c6eb.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: 'Short, direct, and durable. This is the pocket-sized civic alarm bell: useful not because it explains everything, but because it gives readers a vocabulary for democratic vigilance.'
+  fans_of:
+  - short civic books
+  - historical warning signs
+  - democratic norms
+  - moral clarity
+  try_next:
+  - on-freedom
+  - democracy-awakening
+  - how-democracies-die
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0804190119
+- slug: on-freedom
+  title: On Freedom
+  subtitle: ''
+  authors:
+  - Timothy Snyder
+  year: 2024
+  publisher: Crown
+  isbn13: '9780593728727'
+  asin: 0593728726
+  overdrive_id: '10345052'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/on-freedom-0e1a14.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A companion to the anti-authoritarian shelf that asks what freedom is for, not only what threatens it. Helpful for readers who want an affirmative democratic vocabulary rather than a purely defensive one.
+  fans_of:
+  - civic philosophy
+  - democracy
+  - anti-authoritarianism
+  - moral arguments about freedom
+  try_next:
+  - on-tyranny
+  - the-bill-of-obligations
+  - democracy-awakening
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593728726
+- slug: twilight-of-democracy
+  title: Twilight of Democracy
+  subtitle: The Seductive Lure of Authoritarianism
+  authors:
+  - Anne Applebaum
+  year: 2020
+  publisher: Doubleday
+  isbn13: '9781984899507'
+  asin: '1984899503'
+  overdrive_id: '5067319'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/twilight-of-democracy-af6fdf.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A book about why elites, intellectuals, and political actors drift toward authoritarianism. It pairs well with <em>Autocracy, Inc.</em> because it looks at the social and psychological appeal of anti-democratic politics.
+  fans_of:
+  - elite politics
+  - authoritarian psychology
+  - nationalism
+  - betrayal
+  - social fracture
+  try_next:
+  - autocracy-inc
+  - strongmen
+  - why-were-polarized
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593214781
+- slug: strongmen
+  title: Strongmen
+  subtitle: Mussolini to the Present
+  authors:
+  - Ruth Ben-Ghiat
+  year: 2020
+  publisher: W. W. Norton & Company
+  isbn13: '9780393868418'
+  asin: '0393868419'
+  overdrive_id: '5320751'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/strongmen-ff1995.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: 'A useful pattern book for authoritarian leadership: spectacle, corruption, violence, masculinity, propaganda, and loyalty. Strong fit for readers trying to recognize recurring authoritarian habits.'
+  fans_of:
+  - authoritarian leaders
+  - personality cults
+  - political violence
+  - propaganda
+  - historical patterns
+  try_next:
+  - autocracy-inc
+  - how-democracies-die
+  - the-road-to-unfreedom
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0393868419
+- slug: how-civil-wars-start
+  title: How Civil Wars Start
+  subtitle: And How to Stop Them
+  authors:
+  - Barbara F. Walter
+  year: 2022
+  publisher: Crown
+  isbn13: '9780593137802'
+  asin: '0593137809'
+  overdrive_id: '8027589'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/how-civil-wars-start-8354ef.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A serious book about political violence that avoids both complacency and panic. Walter’s framework helps readers think about factionalism, institutions, and warning signs without turning every headline into a prediction.
+  fans_of:
+  - political violence
+  - democratic instability
+  - polarization
+  - risk analysis
+  try_next:
+  - tyranny-of-the-minority
+  - why-were-polarized
+  - high-conflict
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593137809
+- slug: minority-rule
+  title: Minority Rule
+  subtitle: The Right-Wing Attack on the Will of the People—and the Fight to Resist It
+  authors:
+  - Ari Berman
+  year: 2024
+  publisher: Farrar, Straus and Giroux
+  isbn13: '9780374600228'
+  asin: '0374600228'
+  overdrive_id: '9820365'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/minority-rule-c28e54.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A sharp companion to <em>Tyranny of the Minority</em> focused on voting rights, representation, and anti-majoritarian power. It belongs here because democratic erosion is often procedural before it becomes spectacular.
+  fans_of:
+  - voting rights
+  - democracy reform
+  - courts
+  - redistricting
+  - representation
+  try_next:
+  - tyranny-of-the-minority
+  - democracy-awakening
+  - how-democracies-die
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0374600228
+- slug: the-road-to-unfreedom
+  title: The Road to Unfreedom
+  subtitle: Russia, Europe, America
+  authors:
+  - Timothy Snyder
+  year: 2018
+  publisher: Tim Duggan Books
+  isbn13: '9780525574477'
+  asin: '0525574476'
+  overdrive_id: '3591516'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-road-to-unfreedom-c00145.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A darker systems book about oligarchy, propaganda, Russia, and the collapse of factual politics. Useful for readers interested in the connective tissue between foreign authoritarianism and domestic democratic decay.
+  fans_of:
+  - Russia
+  - propaganda
+  - oligarchy
+  - authoritarian strategy
+  - democratic decline
+  try_next:
+  - autocracy-inc
+  - the-constitution-of-knowledge
+  - on-tyranny
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '0525574476'
+- slug: the-constitution-of-knowledge
+  title: The Constitution of Knowledge
+  subtitle: A Defense of Truth
+  authors:
+  - Jonathan Rauch
+  year: 2021
+  publisher: Brookings Institution Press
+  isbn13: '9780815738862'
+  asin: 0815738862
+  overdrive_id: '5637042'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-constitution-of-knowledge-306311.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: WTFJHT depends on the basic premise that facts, verification, institutions, and shared reality still matter. Rauch’s book explains why knowledge is social, institutional, and vulnerable to attack.
+  fans_of:
+  - journalism
+  - truth
+  - fact-checking
+  - institutions
+  - epistemic democracy
+  - anti-disinformation thinking
+  try_next:
+  - why-were-polarized
+  - the-persuaders
+  try_next_elsewhere:
+  - The Death of Expertise
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0815738862
+- slug: why-were-polarized
+  title: Why We're Polarized
+  subtitle: ''
+  authors:
+  - Ezra Klein
+  year: 2020
+  publisher: Avid Reader Press/Simon & Schuster
+  isbn13: '9781476700366'
+  asin: '1476700362'
+  overdrive_id: '4848523'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/why-were-polarized-fe16ae.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A clear guide to the incentives that made American politics more identity-sorted, nationalized, and conflict-driven. Especially useful for readers who want polarization explained structurally rather than as a failure of manners.
+  fans_of:
+  - parties
+  - media
+  - identity
+  - polarization
+  - political systems
+  - incentives
+  try_next:
+  - uncivil-agreement
+  - high-conflict
+  - how-democracies-die
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1476700362'
+- slug: uncivil-agreement
+  title: Uncivil Agreement
+  subtitle: How Politics Became Our Identity
+  authors:
+  - Lilliana Mason
+  year: 2018
+  publisher: University of Chicago Press
+  isbn13: '9780226524689'
+  asin: '022652468X'
+  overdrive_id: '9546718'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/uncivil-agreement-1afa26.jpg'
+  shelf: democracy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A concise, research-driven explanation of how partisan identity became stacked with race, religion, geography, culture, and social belonging. It helps explain why political conflict feels so personal.
+  fans_of:
+  - political psychology
+  - identity
+  - polarization
+  - social sorting
+  try_next:
+  - why-were-polarized
+  - the-righteous-mind
+  - high-conflict
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 022652468X
+- slug: abundance
+  title: Abundance
+  subtitle: ''
+  authors:
+  - Ezra Klein
+  - Derek Thompson
+  year: 2025
+  publisher: Avid Reader Press (Simon & Schuster)
+  isbn13: '9781668023488'
+  asin: '1668023482'
+  overdrive_id: '9919453'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/abundance-79776c.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: A central book for the “why can’t we build?” question. Whether readers agree with every argument or not, it provides a useful frame for housing, energy, infrastructure, governance, and scarcity politics.
+  fans_of:
+  - state capacity
+  - YIMBY politics
+  - housing
+  - energy
+  - infrastructure
+  - progress
+  - public investment
+  try_next:
+  - why-nothing-works
+  - recoding-america
+  - arbitrary-lines
+  - the-big-fix
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1668023482'
+- slug: why-nothing-works
+  title: Why Nothing Works
+  subtitle: Who Killed Progress—and How to Bring It Back
+  authors:
+  - Marc J. Dunkelman
+  year: 2025
+  publisher: PublicAffairs
+  isbn13: '9781541700239'
+  asin: '1541700236'
+  overdrive_id: '10823127'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/why-nothing-works-3aa707.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: A progress-and-governance book about process, veto points, institutional fragmentation, and why public problem-solving can fail even when the need is obvious.
+  fans_of:
+  - state capacity
+  - implementation
+  - procedural failure
+  - public goods
+  - institutional design
+  try_next:
+  - recoding-america
+  - abundance
+  - the-privatization-of-everything
+  - the-big-myth
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1541700236'
+- slug: stuck
+  title: Stuck
+  subtitle: How the Privileged and the Propertied Broke the Engine of American Opportunity
+  authors:
+  - Yoni Appelbaum
+  year: 2025
+  publisher: Random House
+  isbn13: '9780593449318'
+  asin: '0593449312'
+  overdrive_id: '10995333'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/stuck-98a82b.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: A book about mobility, housing, class, and the rules that protect the already-secure. It belongs on the shelf because opportunity is not just an attitude; it is built or blocked by policy.
+  fans_of:
+  - housing
+  - mobility
+  - zoning
+  - class
+  - opportunity
+  - American political economy
+  try_next:
+  - arbitrary-lines
+  - golden-gates
+  - paved-paradise
+  - poverty-by-america
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593449312
+- slug: recoding-america
+  title: Recoding America
+  subtitle: Why Government Is Failing in the Digital Age and How We Can Do Better
+  authors:
+  - Jennifer Pahlka
+  year: 2023
+  publisher: Metropolitan Books/Henry Holt
+  isbn13: '9781250342737'
+  asin: '1250342732'
+  overdrive_id: '9144556'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/recoding-america-2bd7ca.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: A practical book about implementation failure. Pahlka explains why government programs can fail between the law as written and the service as experienced by the public.
+  fans_of:
+  - government technology
+  - implementation
+  - bureaucracy
+  - public service
+  - civic tech
+  try_next:
+  - why-nothing-works
+  - abundance
+  - the-privatization-of-everything
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1250342732'
+- slug: arbitrary-lines
+  title: Arbitrary Lines
+  subtitle: How Zoning Broke the American City and How to Fix It
+  authors:
+  - M. Nolan Gray
+  year: 2022
+  publisher: Island Press
+  isbn13: '9781642832549'
+  asin: '1642832545'
+  overdrive_id: '8903706'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/arbitrary-lines-f31366.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: A readable case that zoning is not a niche policy issue but a hidden architecture of scarcity, segregation, housing costs, and opportunity.
+  fans_of:
+  - housing policy
+  - zoning
+  - cities
+  - YIMBY arguments
+  - local government
+  try_next:
+  - stuck
+  - golden-gates
+  - paved-paradise
+  - abundance
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1642832545'
+- slug: golden-gates
+  title: Golden Gates
+  subtitle: Fighting for Housing in America
+  authors:
+  - Conor Dougherty
+  year: 2020
+  publisher: Penguin Press (hardcover) / Penguin Books (paperback)
+  isbn13: '9780525560234'
+  asin: '0525560238'
+  overdrive_id: '4754071'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/golden-gates-b0ae39.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: A narrative housing book with characters, organizing, and political stakes. Useful for readers who want the housing crisis explained through people and places, not only charts.
+  fans_of:
+  - housing politics
+  - California
+  - organizing
+  - inequality
+  - local power
+  try_next:
+  - stuck
+  - arbitrary-lines
+  - poverty-by-america
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0525560238
+- slug: paved-paradise
+  title: Paved Paradise
+  subtitle: How Parking Explains the World
+  authors:
+  - Henry Grabar
+  year: 2023
+  publisher: Penguin Press (hardcover) / Penguin Books (paperback, 2024)
+  isbn13: '9781984881151'
+  asin: '1984881159'
+  overdrive_id: '9173421'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/paved-paradise-26774e.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: A deceptively narrow book that reveals a lot about cities, scarcity, cars, housing, climate, local politics, and the absurdity embedded in everyday rules.
+  fans_of:
+  - urbanism
+  - parking
+  - cities
+  - housing
+  - local policy
+  - hidden systems
+  try_next:
+  - arbitrary-lines
+  - golden-gates
+  - abundance
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1984881159'
+- slug: the-privatization-of-everything
+  title: The Privatization of Everything
+  subtitle: How the Plunder of Public Goods Transformed America and How We Can Fight Back
+  authors:
+  - Donald Cohen
+  - Allen Mikaelian
+  year: 2021
+  publisher: The New Press
+  isbn13: '9781620977972'
+  asin: '1620977974'
+  overdrive_id: '5636996'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-privatization-of-everything-03723a.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: A public-goods book about what happens when essential services are treated as profit opportunities. It pairs well with the state-capacity shelf because government can fail by doing too little, outsourcing too much, or forgetting what public goods are for.
+  fans_of:
+  - public goods
+  - anti-privatization arguments
+  - public services
+  - inequality
+  - civic infrastructure
+  try_next:
+  - why-nothing-works
+  - the-big-myth
+  - recoding-america
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1620977974'
+- slug: the-grid
+  title: The Grid
+  subtitle: The Fraying Wires Between Americans and Our Energy Future
+  authors:
+  - Gretchen Bakke
+  year: 2016
+  publisher: Bloomsbury USA (hardcover) / Bloomsbury Publishing USA (paperback, 2017)
+  isbn13: '9781632865687'
+  asin: '1632865688'
+  overdrive_id: '2830008'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-grid-b34333.jpg'
+  shelf: capacity
+  added: 2026-09-20
+  one_sentence: ''
+  why: Infrastructure often becomes visible only when it breaks. This book helps readers understand the electrical grid as politics, engineering, climate policy, and public capacity in one system.
+  fans_of:
+  - infrastructure
+  - energy
+  - climate transition
+  - systems thinking
+  - public goods
+  try_next:
+  - possible
+  - the-big-fix
+  - abundance
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1632865688'
+- slug: in-this-economy
+  title: In This Economy?
+  subtitle: How Money & Markets Really Work
+  authors:
+  - Kyla Scanlon
+  year: 2024
+  publisher: Crown Currency
+  isbn13: '9780593727874'
+  asin: 0593727878
+  overdrive_id: '10784393'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/in-this-economy-fa0512.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A plain-English guide to the economy people experience versus the economy experts describe. Useful for readers trying to understand inflation, vibes, markets, and money without getting buried in jargon.
+  fans_of:
+  - economic explainers
+  - market psychology
+  - financial literacy
+  - “why does this feel off?” books
+  try_next:
+  - poverty-by-america
+  - the-big-myth
+  - the-crisis-of-democratic-capitalism
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593727878
+- slug: the-tyranny-of-merit
+  title: The Tyranny of Merit
+  subtitle: What's Become of the Common Good?
+  authors:
+  - Michael J. Sandel
+  year: 2020
+  publisher: Farrar, Straus and Giroux (hardcover); Picador (paperback)
+  isbn13: '9781250800060'
+  asin: '1250800064'
+  overdrive_id: '5747418'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-tyranny-of-merit-8ddbc2.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A moral and political critique of meritocracy. Sandel’s argument helps explain resentment, elite self-justification, dignity, class, and the collapse of a shared idea of the common good.
+  fans_of:
+  - moral philosophy
+  - inequality
+  - dignity of work
+  - class resentment
+  - common-good politics
+  try_next:
+  - the-meritocracy-trap
+  - winners-take-all
+  - the-sum-of-us
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1250800064'
+- slug: poverty-by-america
+  title: Poverty, by America
+  subtitle: ''
+  authors:
+  - Matthew Desmond
+  year: 2023
+  publisher: Crown
+  isbn13: '9780593239933'
+  asin: 0593239938
+  overdrive_id: '9080553'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/poverty-by-america-ef4176.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A direct argument that poverty persists because many Americans benefit from it. Desmond’s book belongs here because it treats poverty as a policy and power arrangement, not a natural disaster.
+  fans_of:
+  - poverty
+  - housing
+  - inequality
+  - moral clarity
+  - structural analysis
+  try_next:
+  - the-sum-of-us
+  - stuck
+  - the-privatization-of-everything
+  try_next_elsewhere:
+  - Evicted
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593239938
+- slug: the-sum-of-us
+  title: The Sum of Us
+  subtitle: What Racism Costs Everyone and How We Can Prosper Together
+  authors:
+  - Heather McGhee
+  year: 2021
+  publisher: One World
+  isbn13: '9780525509585'
+  asin: 0525509585
+  overdrive_id: '5404245'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-sum-of-us-0f6363.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A public-goods book about race, zero-sum politics, and the costs of disinvestment. It is one of the most useful bridges between inequality, democracy, and civic repair.
+  fans_of:
+  - racial justice
+  - public goods
+  - solidarity
+  - economic policy
+  - zero-sum politics
+  try_next:
+  - poverty-by-america
+  - the-tyranny-of-merit
+  - the-big-myth
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0525509585
+- slug: the-big-myth
+  title: The Big Myth
+  subtitle: How American Business Taught Us to Loathe Government and Love the Free Market
+  authors:
+  - Naomi Oreskes
+  - Erik M. Conway
+  year: 2023
+  publisher: Bloomsbury Publishing
+  isbn13: '9781639734641'
+  asin: '1639734643'
+  overdrive_id: '9082932'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-big-myth-0f4f26.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A history of anti-government ideology and market fundamentalism. This is useful connective tissue for readers trying to understand why public solutions are often treated as suspect before they are even tried.
+  fans_of:
+  - political economy
+  - anti-government ideology
+  - public goods
+  - business power
+  - climate politics
+  try_next:
+  - the-privatization-of-everything
+  - a-planet-to-win
+  - the-price-is-wrong
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1639734643'
+- slug: winners-take-all
+  title: Winners Take All
+  subtitle: The Elite Charade of Changing the World
+  authors:
+  - Anand Giridharadas
+  year: 2018
+  publisher: Knopf
+  isbn13: '9781101972670'
+  asin: 110197267X
+  overdrive_id: '4496543'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/winners-take-all-f5d868.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A skeptical look at elite philanthropy, market-friendly reform, and the language of doing good without changing the underlying distribution of power.
+  fans_of:
+  - elite critique
+  - philanthropy
+  - inequality
+  - TED-talk reform
+  - power analysis
+  try_next:
+  - the-tyranny-of-merit
+  - the-meritocracy-trap
+  - the-persuaders
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 110197267X
+- slug: the-meritocracy-trap
+  title: The Meritocracy Trap
+  subtitle: How America's Foundational Myth Feeds Inequality, Dismantles the Middle Class, and Devours the Elite
+  authors:
+  - Daniel Markovits
+  year: 2019
+  publisher: Penguin Press (hardcover); Penguin Books (paperback)
+  isbn13: '9780735222014'
+  asin: '0735222010'
+  overdrive_id: '4528171'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-meritocracy-trap-29aee0.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A systems-heavy companion to <em>The Tyranny of Merit</em>. Markovits explains how meritocracy harms not only those excluded from elite pathways but also those trapped inside them.
+  fans_of:
+  - inequality
+  - elite education
+  - labor markets
+  - class reproduction
+  - meritocracy critique
+  try_next:
+  - the-tyranny-of-merit
+  - stuck
+  - winners-take-all
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '0735222010'
+- slug: the-crisis-of-democratic-capitalism
+  title: The Crisis of Democratic Capitalism
+  subtitle: ''
+  authors:
+  - Martin Wolf
+  year: 2023
+  publisher: Penguin Press
+  isbn13: '9780735224216'
+  asin: 0735224218
+  overdrive_id: '8988561'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-crisis-of-democratic-capitalism-ea2f77.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A big-picture book about capitalism and democracy as mutually dependent systems under strain. Good for readers who want to connect economic insecurity, political legitimacy, and authoritarian backlash.
+  fans_of:
+  - democracy
+  - capitalism
+  - liberalism
+  - political economy
+  - institutional legitimacy
+  try_next:
+  - in-this-economy
+  - the-big-myth
+  - tyranny-of-the-minority
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0735224218
+- slug: ours-was-the-shining-future
+  title: Ours Was the Shining Future
+  subtitle: The Story of the American Dream
+  authors:
+  - David Leonhardt
+  year: 2023
+  publisher: Random House
+  isbn13: '9780812983333'
+  asin: 0812983335
+  overdrive_id: '9580771'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/ours-was-the-shining-future-7c2dd5.jpg'
+  shelf: economy
+  added: 2026-09-20
+  one_sentence: ''
+  why: A broad narrative about the rise and weakening of American economic mobility. It pairs well with <em>Stuck</em> and <em>The Tyranny of Merit</em> because it treats opportunity as a product of policy, power, and institutions.
+  fans_of:
+  - American dream narratives
+  - unions
+  - middle-class politics
+  - economic history
+  try_next:
+  - stuck
+  - the-sum-of-us
+  - the-tyranny-of-merit
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0812983335
+- slug: i-never-thought-of-it-that-way
+  title: I Never Thought of It That Way
+  subtitle: How to Have Fearlessly Curious Conversations in Dangerously Divided Times
+  authors:
+  - Mónica Guzmán
+  year: 2022
+  publisher: BenBella Books
+  isbn13: '9781637746028'
+  asin: '1637746024'
+  overdrive_id: '6363032'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/i-never-thought-of-it-that-way-59c7c6.jpg'
+  shelf: repair
+  added: 2026-09-20
+  one_sentence: ''
+  why: A practical book about curiosity across divides. It fits the WTFJHT audience because staying informed is not the same thing as staying reachable, and democracy needs both.
+  fans_of:
+  - curiosity
+  - depolarization
+  - hard conversations
+  - listening
+  - civic humility
+  try_next:
+  - the-persuaders
+  - high-conflict
+  - how-minds-change
+  - saving-us
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1637746024'
+- slug: the-persuaders
+  title: The Persuaders
+  subtitle: At the Front Lines of the Fight for Hearts, Minds, and Democracy
+  authors:
+  - Anand Giridharadas
+  year: 2022
+  publisher: Knopf
+  isbn13: '9780593312643'
+  asin: '0593312643'
+  overdrive_id: '8742218'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-persuaders-e9843f.jpg'
+  shelf: repair
+  added: 2026-09-20
+  one_sentence: ''
+  why: A book about persuasion as democratic work, not just messaging strategy. It follows organizers and communicators trying to reach people without giving up on politics.
+  fans_of:
+  - organizing
+  - persuasion
+  - democracy
+  - political communication
+  - civic repair
+  try_next:
+  - i-never-thought-of-it-that-way
+  - high-conflict
+  - winners-take-all
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593312643
+- slug: high-conflict
+  title: High Conflict
+  subtitle: Why We Get Trapped and How We Get Out
+  authors:
+  - Amanda Ripley
+  year: 2021
+  publisher: Simon & Schuster
+  isbn13: '9781982128579'
+  asin: '1982128577'
+  overdrive_id: '5807984'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/high-conflict-8041ea.jpg'
+  shelf: repair
+  added: 2026-09-20
+  one_sentence: ''
+  why: A useful book for understanding when conflict becomes self-reinforcing and identity-driven. It applies beyond politics, but its lessons are highly relevant to a polarized civic culture.
+  fans_of:
+  - conflict resolution
+  - polarization
+  - psychology
+  - escalation
+  - practical de-escalation
+  try_next:
+  - i-never-thought-of-it-that-way
+  - how-minds-change
+  - uncivil-agreement
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1982128577'
+- slug: how-minds-change
+  title: How Minds Change
+  subtitle: The Surprising Science of Belief, Opinion, and Persuasion
+  authors:
+  - David McRaney
+  year: 2022
+  publisher: Portfolio
+  isbn13: '9780593190296'
+  asin: 0593190297
+  overdrive_id: '6244731'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/how-minds-change-cc4937.jpg'
+  shelf: repair
+  added: 2026-09-20
+  one_sentence: ''
+  why: A readable guide to belief change. Useful for readers who want to understand why facts alone often fail, and what actually helps people revise their views.
+  fans_of:
+  - psychology
+  - persuasion
+  - belief change
+  - cognitive science
+  - conversation
+  try_next:
+  - the-persuaders
+  - high-conflict
+  - the-righteous-mind
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593190297
+- slug: the-righteous-mind
+  title: The Righteous Mind
+  subtitle: Why Good People Are Divided by Politics and Religion
+  authors:
+  - Jonathan Haidt
+  year: 2012
+  publisher: Pantheon Books
+  isbn13: '9780307377906'
+  asin: '0307377903'
+  overdrive_id: '601668'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-righteous-mind-4b020d.jpg'
+  shelf: repair
+  added: 2026-09-20
+  one_sentence: ''
+  why: A foundational book in political psychology. It is useful here less as a final answer than as a framework for understanding moral intuition, ideological difference, and why people often reason from identity first.
+  fans_of:
+  - moral psychology
+  - ideology
+  - religion and politics
+  - values-based conflict
+  try_next:
+  - uncivil-agreement
+  - how-minds-change
+  - i-never-thought-of-it-that-way
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0307377903
+- slug: the-bill-of-obligations
+  title: The Bill of Obligations
+  subtitle: The Ten Habits of Good Citizens
+  authors:
+  - Richard Haass
+  year: 2023
+  publisher: Penguin Press
+  isbn13: '9780525560678'
+  asin: '052556067X'
+  overdrive_id: '9157675'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/the-bill-of-obligations-c7c9c2.jpg'
+  shelf: repair
+  added: 2026-09-20
+  one_sentence: ''
+  why: A civic-responsibility book focused on duties, habits, norms, and citizenship. It pairs well with the democracy shelf because institutions alone cannot carry the full burden of self-government.
+  fans_of:
+  - citizenship
+  - civic norms
+  - democratic responsibility
+  - nonpartisan civic repair
+  try_next:
+  - on-freedom
+  - democracy-awakening
+  - i-never-thought-of-it-that-way
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 052556067X
+- slug: good-arguments
+  title: Good Arguments
+  subtitle: How Debate Teaches Us to Listen and Be Heard
+  authors:
+  - Bo Seo
+  year: 2022
+  publisher: Penguin Press
+  isbn13: '9780593299531'
+  asin: '0593299531'
+  overdrive_id: '7347019'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/good-arguments-217827.jpg'
+  shelf: repair
+  added: 2026-09-20
+  one_sentence: ''
+  why: A book about argument as a civic skill rather than a performance of dominance. Useful for readers interested in disagreement that clarifies rather than merely hardens positions.
+  fans_of:
+  - debate
+  - listening
+  - civic education
+  - rhetoric
+  - productive disagreement
+  try_next:
+  - i-never-thought-of-it-that-way
+  - high-conflict
+  - the-persuaders
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: 0593299531
+- slug: youre-more-powerful-than-you-think
+  title: You're More Powerful Than You Think
+  subtitle: A Citizen's Guide to Making Change Happen
+  authors:
+  - Eric Liu
+  year: 2017
+  publisher: PublicAffairs
+  isbn13: '9781541773660'
+  asin: '1541773667'
+  overdrive_id: '2904318'
+  cover: true
+  cover_url: 'https://whatthefuckjusthappenedtoday.com/uploads/youre-more-powerful-than-you-think-e2070e.jpg'
+  shelf: repair
+  added: 2026-09-20
+  one_sentence: ''
+  why: A practical civic-agency book for readers who want to move from awareness to participation. It belongs at the end of the shelf because information should create capacity, not just anxiety.
+  fans_of:
+  - civic action
+  - local power
+  - organizing
+  - democratic participation
+  - agency
+  try_next:
+  - the-persuaders
+  - the-bill-of-obligations
+  - democracy-awakening
+  try_next_elsewhere: []
+  tags: []
+  concepts: []
+  pack: ''
+  mentions: []
+  isbn10: '1541773667'

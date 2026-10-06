@@ -1,0 +1,25 @@
+{% assign b = include.book %}
+{% assign aff = site.data.bookshelf.affiliates %}
+<article class="book{% if b.one_sentence and b.one_sentence != '' %} book--has-sentence{% endif %}">
+  {% unless site.data.bookshelf.covers == 'none' %}
+  <div class="book__cover">
+    {% if b.cover %}<img src="{% if b.cover_url and b.cover_url != '' %}{{ b.cover_url }}{% else %}{{ site.url }}{{ site.baseurl }}/uploads/bookshelf/{{ b.slug }}.jpg{% endif %}" width="240" height="360" loading="lazy" decoding="async" alt="">{% else %}<span class="book__cover-fallback" aria-hidden="true">{{ b.title | slice: 0 }}</span>{% endif %}
+  </div>
+  {% endunless %}
+  <div class="book__body">
+    <h3 class="book__title"><em id="{{ b.slug }}">{{ b.title }}</em>{% if b.subtitle != '' %}<span class="book__subtitle">: {{ b.subtitle }}</span>{% endif %}</h3>
+    <p class="book__byline">{{ b.authors | join: ", " }}{% if b.year %} · {{ b.year }}{% endif %}</p>
+    {% if b.one_sentence and b.one_sentence != '' %}<p class="book__sentence">{{ b.one_sentence }}</p>{% endif %}
+    <p class="book__why">{{ b.why }}</p>
+    <dl class="book__meta">
+      {% if b.fans_of.size > 0 %}<div><dt>For fans of</dt><dd>{{ b.fans_of | join: ", " }}</dd></div>{% endif %}
+      {% if b.try_next.size > 0 or b.try_next_elsewhere.size > 0 %}<div><dt>Try next</dt><dd>{% for s in b.try_next %}{% assign n = site.data.bookshelf.books | where: "slug", s | first %}<a href="#{{ s }}"><em>{{ n.title }}</em></a>{% unless forloop.last and b.try_next_elsewhere.size == 0 %}, {% endunless %}{% endfor %}{% for t in b.try_next_elsewhere %}<em>{{ t }}</em>{% unless forloop.last %}, {% endunless %}{% endfor %}</dd></div>{% endif %}
+    </dl>
+    <p class="book__buy">
+      {% if b.isbn13 != '' %}<span class="book__buy-primary">{% if aff.bookshop_id != '' %}<a href="https://bookshop.org/a/{{ aff.bookshop_id }}/{{ b.isbn13 }}" rel="sponsored noopener" target="_blank">Buy on Bookshop.org <span class="sr-only">{{ b.title }}</span></a>{% else %}<a href="https://bookshop.org/search?keywords={{ b.isbn13 }}" rel="noopener" target="_blank">Buy on Bookshop.org <span class="sr-only">{{ b.title }}</span></a>{% endif %}</span>{% endif %}
+      {% if b.asin != '' %}<a href="https://www.amazon.com/dp/{{ b.asin }}?tag={{ aff.amazon_tag }}&creatorsDisableRedirect=true" rel="sponsored noopener" target="_blank">Amazon <span class="sr-only">{{ b.title }}</span></a>{% elsif b.isbn10 != '' %}<a href="https://www.amazon.com/dp/{{ b.isbn10 }}?tag={{ aff.amazon_tag }}&creatorsDisableRedirect=true" rel="sponsored noopener" target="_blank">Amazon <span class="sr-only">{{ b.title }}</span></a>{% elsif b.isbn13 != '' %}<a href="https://www.amazon.com/s?k={{ b.isbn13 }}&tag={{ aff.amazon_tag }}&creatorsDisableRedirect=true" rel="sponsored noopener" target="_blank">Amazon <span class="sr-only">{{ b.title }}</span></a>{% endif %}
+      {% if b.overdrive_id and b.overdrive_id != '' %}<a href="https://www.overdrive.com/media/{{ b.overdrive_id }}" rel="noopener" target="_blank">Library <span class="sr-only">{{ b.title }}</span></a>
+      <a href="https://share.libbyapp.com/title/{{ b.overdrive_id }}" rel="noopener" target="_blank">Libby <span class="sr-only">{{ b.title }}</span></a>{% endif %}
+    </p>
+  </div>
+</article>

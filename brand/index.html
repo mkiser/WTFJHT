@@ -669,6 +669,12 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      for free.” The dark-ground inverted button above is the footer subscribe pair, not the
      nav. A future swap to a framed/ghost secondary button would be a real amendment to this
      chapter, ratified like everything else here.</p>
+  <p><b>The bookshelf's framed secondary button.</b> On the bookshelf, each entry's
+     Bookshop link is a framed button: a 1px <code>--c-line-strong</code> border, no fill,
+     and <code>--c-ink</code> text at weight 600. On hover and focus-visible it inverts:
+     day takes a #111 fill with white text; night takes a white fill with #111 text. It is
+     scoped to the bookshelf entry; the one primary button rule is unchanged.
+     Proposed; ratified DATE-TBD.</p>
 </section>
 
 <section class="chap" id="c17">
@@ -791,6 +797,29 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      label-role captions, fill-lighten hover, featured package carries the 2px crimson
      border; checkout copy and prices are editorial and never paraphrased. Tip-jar
      dividers are plain hairlines (Law III).</p>
+  <h4>The bookshelf</h4>
+  <p><b>The jacket is a portrait identity object.</b> Jacket art fills a fixed
+     2:3 frame, center-cropped: an entry cover is 5.5rem wide in the prose column and 4rem
+     at 600px and below, and the Start here jacket is 4rem at every width; each frame has
+     square corners, a 1px <code>--c-line</code> border, and
+     <code>--c-surface</code> behind the image. Covers stay
+     <code>grayscale(1)</code> at rest, hover, and focus; at night they render at
+     <code>grayscale(1) brightness(0.8)</code>. A missing jacket shows the title's
+     initial in Georgia inside the same frame.</p>
+  <p><b>The entry is a media object in the prose column.</b> The cover sits beside the
+     text, then floats left so text wraps around it at 600px and below. The flex buy
+     row gives Bookshop a framed secondary button, followed by Amazon, Library and Libby as
+     text links; paid links carry <code>rel="sponsored"</code>, and each buy link's
+     accessible name includes the book title. One surface-backed affiliate disclosure
+     precedes the first shelf, ahead of every paid link, with no cue in each row.</p>
+  <p><b>The jump index is a same-page typographic index.</b> Directly under the lead,
+     each index entry shows the shelf's short label, falling back to its full title
+     while no short label is set, followed by a mono count; the index has no rule
+     beneath it. “Start here” uses question rows as native disclosures with a shared
+     <code>name</code>, so only one opens at a time. An open row shows the starting
+     book’s grayscale jacket, heading-role crimson title, and one lede block, then
+     a numbered path in quieter italic links and a label-role shelf link; the
+     jacket links to the same entry with <code>tabindex="-1"</code> outside the tab order. Proposed; ratified DATE-TBD.</p>
 </section>
 
 <section class="chap" id="c23">
@@ -894,9 +923,12 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      (16/14/11/10/9), links underlined in hairline weight, chrome and anchors hidden,
      lists and quotes kept intact across page breaks. It is exempt from the screen
      scale and stays hand-tuned.</p>
-  <p><b>Night</b> ships as a token swap (Ch. 05) plus exactly two type provisions:
+  <p><b>Night</b> ships as a token swap (Ch. 05) plus exactly two type provisions and
+     one photographic provision:
      strong may step 700→600 against halation, and grayscale antialiasing applies under
      the night theme only. Sizes, leading, and layout never change by theme.</p>
+  <p>Bookshelf covers render at <code>brightness(0.8)</code> at night.
+     Proposed; ratified DATE-TBD.</p>
   <p><b>Chrome is invariant (2026-06-07):</b> the masthead (#000), nav strip
      (#2a2a2a), footer, toasts, tooltips, and skip-link never re-theme — paints on
      chrome are pinned literals, not tokens. At night the footer deepens to #000:

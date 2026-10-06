@@ -100,6 +100,7 @@
         if (!/(^|\.)whatthefuckjusthappenedtoday\.com$/.test(window.location.hostname)) return;
         var landing = new URL(window.location.href);
         landing.searchParams.delete('s');
+        if (window.location.pathname.indexOf('/dear-2040/') === 0) landing.searchParams.delete('id');
         gtag('config', 'G-P3G02CXQXW', { page_location: landing.href });
       })();
     </script>

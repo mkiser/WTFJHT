@@ -1,0 +1,7 @@
+body:has(.arrival) .ft-subscribe {
+  display: none;
+}
+
+body:has(.arrival--member) .nav-links li:has(> a.nav-cta) {
+  display: none;
+}

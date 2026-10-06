@@ -96,6 +96,9 @@
 
   function fallbackToLegacy(form) {
     form.target = '_self';
+    try {
+      if (typeof gtag === 'function') gtag('event', 'sign_up_attempt', { method: 'newsletter-fallback', transport_type: 'beacon' });
+    } catch (e) {}
     form.submit();
   }
 

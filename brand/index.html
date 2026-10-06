@@ -261,7 +261,7 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
   <div class="law"><div class="l-no">Law I — one blue</div><b>Blue #0052a5 appears only as the W-slot and as partisan-D data.</b>
     <p>Never generic links, never info-semantics, never series-2 chart color. Red vs blue reads R vs D — that meaning is reserved.</p></div>
   <div class="law"><div class="l-no">Law II — the tile owns the rounding</div><b>The only border-radius in the system is the tile: radius = 0.21 × side.</b>
-    <p>Identity objects wear it (avatars, cover art, icon-only buttons). Everything else — buttons, inputs, cards, chips — is square. No pills. <b>One exception (2026-06-09):</b> the form radio control wears a circle — the historical single-select affordance, the clearest &ldquo;pick one.&rdquo; Scoped to the radio indicator only; the checkbox, and everything else, stays square. No other circle enters the system.</p></div>
+    <p>Identity objects wear it (avatars, cover art, icon-only buttons). Everything else — buttons, inputs, cards, chips — is square. No pills. <b>First exception (2026-06-09):</b> the form radio control wears a circle — the historical single-select affordance, the clearest &ldquo;pick one.&rdquo; Scoped to the radio indicator only; the checkbox, and everything else, stays square. No other circle enters the system. <b>Second exception (2026-10-03):</b> the browse index — the year, month and tag links on the archive, tag and on-this-day pages — wears rounded chips (1rem radius). It is navigation, not tagging; tags inside a post stay underlined text.</p></div>
   <div class="law"><div class="l-no">Law III — one alarm</div><b>Crimson is the only color in editorial content, and it means links and alarm.</b>
     <p>Dividers, decorations, and furniture are ink-free. The crimson rule exists in exactly one
     editorial fixture: the TIOS block. Instrument data colors are Chapter 19's domain — trend
@@ -446,8 +446,8 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
     <div class="spec-body" style="font-size:2.5rem;font-weight:700;line-height:1.18">Day 1947: “A little bit nasty.”</div></div>
   <div class="spec"><div class="spec-head"><span>title · sans 700 · 1.65rem · lh 1.25 · section heads (h2, and h3 at the top of a post body)</span><span>≈28–29.7px</span></div>
     <div class="spec-body" style="font-size:1.65rem;font-weight:700;line-height:1.25">Section heads step clearly below the headline</div></div>
-  <div class="spec"><div class="spec-head"><span>heading · sans 700 · 1.2rem · lh 1.3 · sub-heads (h3 outside post bodies), module labels, card &amp; episode titles</span><span>≈20.4–21.6px</span></div>
-    <div class="spec-body" style="font-size:1.2rem;font-weight:700;line-height:1.3">Module labels · episode titles · package groups</div></div>
+  <div class="spec"><div class="spec-head"><span>heading · sans 600 · 1.2rem · lh 1.3 · sub-heads (h3 outside post bodies), module labels, card &amp; episode titles</span><span>≈20.4–21.6px</span></div>
+    <div class="spec-body" style="font-size:1.2rem;font-weight:600;line-height:1.3">Module labels · episode titles · package groups</div></div>
   <div class="spec"><div class="spec-head"><span>prose · GEORGIA 400 · 1.1rem · lh 1.62 · the product — locked anchor</span><span>18.7–19.8px · live</span></div>
     <div class="spec-body" style="font-family:Georgia,'Times New Roman',serif;font-size:1.1rem;line-height:1.62">The reading surface. <a href="#" style="color:#e0162b">Citations wear the crimson underline</a>. (<em>New York Times</em> / <em>Reuters</em>)</div></div>
   <div class="spec"><div class="spec-head"><span>body · sans 400 · 1rem · lh 1.5 · UI and page text</span><span>17–18px · live</span></div>
@@ -716,8 +716,9 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
     <tr><td>inverse</td><td>ink panel, white text</td><td>rare hard-stop moments — used sparingly, never in sequence</td></tr>
   </table>
   <h4>Tags</h4>
-  <p>Typographic, not pills: underlined text in muted ink, mono counts beside them,
-     crimson on hover. Pills, chips, and colored tag tiles are retired.</p>
+  <p>Post tags are typographic, not pills: underlined text in muted ink, mono counts beside them,
+     crimson on hover. Colored tag tiles are retired. The browse index is the one place
+     chips appear (Law II, second exception).</p>
   <h4>Statuses &amp; toasts</h4>
   <p>Machinery states only: success #2f7d5c, warning #b45309, failure crimson — each with
      a glyph or word, never color alone. Toasts: ink panel, white text, auto-dismiss,
@@ -836,8 +837,9 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      build but inside the system: every <code>--q-*</code> value that mirrors a site
      token references it directly (<code>var(--c-*, literal)</code>), so the quiz
      cannot drift from this book. Square throughout, flat throughout, the one button
-     spec with the invert hover, the prose column. Motion is color shift and fade —
-     the score reveal rises, nothing scales. Serif questions at heading scale, crimson
+     spec with the invert hover, the prose column. Motion is color shift, fade and
+     short vertical travel: the question panel lifts 6px as it fades out, feedback rises 8px
+     in, the score reveal rises 12px. A wrong answer shakes 4px side to side. Nothing scales. Serif questions at heading scale, crimson
      selection, success green only as machinery, mono keyboard hints. Every state —
      unanswered, correct, incorrect, results, retake — passes the contrast floors.</p>
 </section>
@@ -861,10 +863,28 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      progressive enhancement. Relay applies the pinned values over this site's
      <code>_variables.scss</code>, so when the site's brand moves, the email changes only when
      someone edits the pinned file in PasteUp. Two upstream notes from that work:
-     the heading weight step ships as h1–h2:700 / h3+:600 (this book's Ch. 8 specimen
-     says h3:700 — the shipped CSS is the ruling, per decision D5); and
+     the heading weight step shipped as h1–h2:700 / h3+:600 (decision D5; email headings
+     now follow the role mapping below); and
      <code>$figcaption-color #8e8e8e</code> sits at ~3.3:1 on white (below the Ch. 28
      floor) — email uses #767676; the site value awaits its own ruling.</p>
+  <p><b>Type roles in email, 2026-10-06</b> (PasteUp #639 and #643; board minutes in
+     <code>docs/board-reviews/2026-10-05-email-type-roles-board.md</code>): an email heading
+     takes its size from the Ch. 8 role scale, not from its level or the client's defaults.
+     A heading outside a list is the <b>title</b> role: Helvetica 28px/700, 35px
+     line-height, 20px below. Notables, the weekly's sections and every section head use it.
+     A heading inside a list item is the <b>heading</b> role as a module label: 21px/600,
+     27px line-height, 20px below. The &ldquo;Dept. of&rdquo; asides use it, written as h3;
+     legacy h4 labels render 17px/600. Every list (story sub-bullets, Notables, the Dept.
+     of Numbers, Pulse results) is 16px at 155%, and 17px on phones. Ordered lists keep
+     their open circles. Editor's-note lists stay at prose size. Email rounds to whole
+     pixels at or just under the site's values: title 28px against 28–29.7px, heading 21px
+     against 21.6px, aside list 16px against 16.2px. One difference is deliberate: on
+     phones the email steps lists up to 17px alongside its 19px prose, where the site
+     steps them down to 15.3px.</p>
+  <p><b>The daily and the weekly share one template.</b> Last Week in WTF is built on the
+     daily's template and chrome: &ldquo;-Matt, current mood&rdquo; sits under the
+     one-sentence summary, and the 😳 WTF, right? reaction closes the sign-off. The weekly
+     carries no reading-time line. The daily keeps its reading-time and time-saved line.</p>
 </section>
 
 <section class="chap" id="c27">

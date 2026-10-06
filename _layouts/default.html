@@ -94,44 +94,13 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-P3G02CXQXW"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
-      var gtagHeld = null;
-      function gtag(){ if (gtagHeld) { gtagHeld.push(arguments); } else { dataLayer.push(arguments); } }
+      function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       (function() {
         if (!/(^|\.)whatthefuckjusthappenedtoday\.com$/.test(window.location.hostname)) return;
-        var search = window.location.search;
-        var landingUrl = window.location.href.replace(/([?&])s=[^&#]*(&|(?=#)|$)/, function(match, lead, tail) { return tail === '&' ? lead : ''; });
-        var landedFromEmail = /[?&]utm_medium=email(&|$)/i.test(search) || (/^\/pulse\/thanks(\/|$)/.test(window.location.pathname) && /[?&](s|cid)=[^&*]/.test(search));
-        if (!landedFromEmail) {
-          gtag('config', 'G-P3G02CXQXW', { page_location: landingUrl });
-          return;
-        }
-        gtagHeld = [];
-        var humanEvents = ['wheel', 'pointerdown', 'keydown', 'touchstart', 'click'];
-        var timer = null;
-        function startAnalytics() {
-          if (!gtagHeld) return;
-          var held = gtagHeld;
-          gtagHeld = null;
-          clearTimeout(timer);
-          for (var i = 0; i < humanEvents.length; i++) window.removeEventListener(humanEvents[i], onHumanEvent, true);
-          document.removeEventListener('visibilitychange', armTimer);
-          window.removeEventListener('pageshow', armTimer);
-          gtag('config', 'G-P3G02CXQXW', { page_location: landingUrl });
-          for (var j = 0; j < held.length; j++) dataLayer.push(held[j]);
-        }
-        function onHumanEvent(event) {
-          if (event.isTrusted === false) return;
-          startAnalytics();
-        }
-        function armTimer() {
-          clearTimeout(timer);
-          if (document.visibilityState === 'visible') timer = setTimeout(startAnalytics, 10000);
-        }
-        for (var i = 0; i < humanEvents.length; i++) window.addEventListener(humanEvents[i], onHumanEvent, { capture: true, passive: true });
-        document.addEventListener('visibilitychange', armTimer);
-        window.addEventListener('pageshow', armTimer);
-        armTimer();
+        var landing = new URL(window.location.href);
+        landing.searchParams.delete('s');
+        gtag('config', 'G-P3G02CXQXW', { page_location: landing.href });
       })();
     </script>
     <script>

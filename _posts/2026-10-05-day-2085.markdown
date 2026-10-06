@@ -1,6 +1,11 @@
 ---
 title: Day 2085
 date: 2026-10-05 13:52:12 -07:00
+tags:
+- "supreme-court"
+- "healthcare"
+- "immigration"
+- "national-security"
 description: '"A valuable contribution."'
 image: "/uploads/day2085trump-6a33e0.jpg"
 todayInOneSentence: 'Supreme Court Justice Samuel Alito considered retiring this year,

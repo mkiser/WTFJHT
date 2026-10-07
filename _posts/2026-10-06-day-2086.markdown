@@ -1,6 +1,11 @@
 ---
 title: Day 2086
 date: 2026-10-06 15:55:42 -07:00
+tags:
+- "iran"
+- "ethics"
+- "foreign-policy"
+- "white-house"
 description: '"A rather standard thing to do."'
 image: "/uploads/day2086trump-a41127.jpg"
 todayInOneSentence: Trump suggested letting Iran "take out" Los Angeles and San Diego

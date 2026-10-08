@@ -1,6 +1,11 @@
 ---
 title: Day 2087
 date: 2026-10-07 15:54:35 -07:00
+tags:
+- "tariffs"
+- "economy"
+- "midterm-election"
+- "ethics"
 description: '"Honey please."'
 image: "/uploads/day2087trump-6a766a.jpg"
 todayInOneSentence: Texas Attorney General Ken Paxton privately blamed the Iran war

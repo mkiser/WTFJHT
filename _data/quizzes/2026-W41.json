@@ -1,0 +1,141 @@
+{
+  "id": "2026-W41",
+  "week_label": "Oct 5 – Oct 8, 2026",
+  "status": "published",
+  "editions": [
+    2088,
+    2087,
+    2086,
+    2085
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What did the White House say about reimbursing taxpayers for more than $10 million already spent on Trump’s “Patriotic Ads”?",
+      "options": [
+        "The government would recover the money through tariffs",
+        "Microsoft would reimburse the government",
+        "MAGA Inc. had already repaid the full amount",
+        "Trump’s payment plan applied only to ads moving forward"
+      ],
+      "correct": 3,
+      "explanation": "The White House clarified that MAGA Inc. did not plan to reimburse past spending and would pay only for ads moving forward. Trump said, “We’ll decide,” when asked about repayment.",
+      "source_day": 2086,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/06/day-2086/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 2,
+      "question": "What policy did Michigan Republican Senate nominee Mike Rogers call on Trump to end?",
+      "options": [
+        "Federal support for Michigan’s auto industry",
+        "The naval blockade of Iranian oil exports",
+        "The “tariff war” with Canada",
+        "The H-1B visa program"
+      ],
+      "correct": 2,
+      "explanation": "Rogers called for an end to Trump’s “tariff war” with Canada, saying Michigan residents know that Canada is not their enemy.",
+      "source_day": 2087,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/07/day-2087/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 3,
+      "question": "How many Medicare beneficiaries were slated to receive one-time $90 payments to help offset Part B premiums?",
+      "options": [
+        "About 1 million",
+        "About 20.8 million",
+        "About 6 million",
+        "About 12 million"
+      ],
+      "correct": 1,
+      "explanation": "Trump planned to send $90 to 20.8 million Medicare beneficiaries using money from the Medicare Improvement Fund.",
+      "source_day": 2085,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/05/day-2085/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 4,
+      "question": "What did Trump say would remain “in full force and effect” even though he ruled out attacking Iran before the midterms?",
+      "options": [
+        "The U.S. naval blockade of Iranian oil exports",
+        "The removal of B-1 bombers from Britain",
+        "The tariffs on Canadian goods",
+        "The suspension of technology firms from the H-1B program"
+      ],
+      "correct": 0,
+      "explanation": "Trump said the naval blockade of Iranian oil exports would continue while the United States sent another aircraft carrier and thousands of troops to the region.",
+      "source_day": 2088,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/08/day-2088/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "How much did Trump’s tariffs add to consumer goods inflation at their estimated peak?",
+      "options": [
+        "1.8 percentage points",
+        "0.9 percentage points",
+        "2.9 percentage points",
+        "5 percentage points"
+      ],
+      "correct": 2,
+      "explanation": "The tariffs added an estimated 2.9 percentage points to consumer goods inflation during the 12 months ending in February 2026.",
+      "source_day": 2087,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/07/day-2087/",
+      "difficulty": "hard",
+      "type": "numbers"
+    },
+    {
+      "number": 6,
+      "question": "What happened hours after the administration suspended Microsoft from using the H-1B visa program?",
+      "options": [
+        "Microsoft withdrew all of its visa applications",
+        "JD Vance apologized for accusing Microsoft of fraud",
+        "The administration reinstated Microsoft in the visa program",
+        "Trump awarded Microsoft CEO Satya Nadella the National Medal of Technology and Innovation"
+      ],
+      "correct": 3,
+      "explanation": "Trump awarded Microsoft CEO Satya Nadella the National Medal of Technology and Innovation hours after the company’s H-1B suspension. Nadella once held an H-1B visa himself.",
+      "source_day": 2088,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/08/day-2088/",
+      "difficulty": "medium",
+      "type": "sequence"
+    },
+    {
+      "number": 7,
+      "question": "Which Supreme Court justice decided against retiring because he believed he could still make “a valuable contribution”?",
+      "options": [
+        "Brett Kavanaugh",
+        "Samuel Alito",
+        "John Roberts",
+        "Clarence Thomas"
+      ],
+      "correct": 1,
+      "explanation": "Samuel Alito said he considered retiring but decided to remain on the Supreme Court because he could still make “a valuable contribution.”",
+      "source_day": 2085,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/05/day-2085/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 8,
+      "question": "What did California Gov. Gavin Newsom do after Trump suggested letting Iran “take out” Los Angeles and San Diego?",
+      "options": [
+        "He directed the state’s threat assessment center to monitor foreign actors",
+        "He asked Congress to end the war with Iran",
+        "He closed California’s ports to Iranian cargo",
+        "He ordered the California National Guard to deploy overseas"
+      ],
+      "correct": 0,
+      "explanation": "Newsom called the remarks “deranged and dangerous” and directed California’s threat assessment center to watch for foreign actors interpreting them as an invitation to attack.",
+      "source_day": 2086,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/06/day-2086/",
+      "difficulty": "medium",
+      "type": "consequence"
+    }
+  ]
+}

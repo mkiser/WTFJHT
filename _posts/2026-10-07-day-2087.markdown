@@ -2,10 +2,10 @@
 title: Day 2087
 date: 2026-10-07 15:54:35 -07:00
 tags:
-- "tariffs"
-- "economy"
-- "midterm-election"
-- "ethics"
+- tariffs
+- economy
+- midterm-election
+- ethics
 description: '"Honey please."'
 image: "/uploads/day2087trump-6a766a.jpg"
 todayInOneSentence: Texas Attorney General Ken Paxton privately blamed the Iran war
@@ -13,14 +13,14 @@ todayInOneSentence: Texas Attorney General Ken Paxton privately blamed the Iran 
   nominee Mike Rogers called for an end to Trump's "tariff war" with Canada; the primary
   Senate Republican super PAC plans to spend $5 million to defend Sen. Darline Graham
   in South Carolina; Trump's tariffs added an estimated 2.9 percentage points to consumer
-  goods inflation; companies that Trump Jr. and Eric Trump have invested in have won
-  more than $6 billion in federal contracts; Kimberly Guilfoyle reportedly urged a
-  Trump donor to pay her $100,000 American Express bill; ICE has investigated more
-  than 150 voter-registration groups ahead of the midterm elections; the World Health
-  Organization couldn't assess the risk of a possible plague outbreak after a Russian
-  anti-plague institute researcher died of pneumonia of unknown origin; and Trump
-  proposed turning his West Palm Beach golf club into a Camp David-type presidential
-  retreat for future presidents and visiting foreign leaders.
+  goods inflation; ABC News deleted the report claiming companies backed by Trump’s
+  sons had secured more than $6 billion in government contracts; Kimberly Guilfoyle
+  reportedly urged a Trump donor to pay her $100,000 American Express bill; ICE has
+  investigated more than 150 voter-registration groups ahead of the midterm elections;
+  the World Health Organization couldn't assess the risk of a possible plague outbreak
+  after a Russian anti-plague institute researcher died of pneumonia of unknown origin;
+  and Trump proposed turning his West Palm Beach golf club into a Camp David-type
+  presidential retreat for future presidents and visiting foreign leaders.
 currentMood: "🤔😬🫠"
 ---
 
@@ -36,7 +36,9 @@ currentMood: "🤔😬🫠"
 
 4/ **Trump's tariffs added an estimated 2.9 percentage points to consumer goods inflation**. Without the tariffs, goods prices would have fallen slightly The estimate reflects the 12 months ending in February 2026, when the inflationary effect peaked. Nearly 90% of Trump's 2025 tariffs passed through to U.S. import prices almost immediately. Roughly a third of the increase in consumer goods prices came from American-made goods as manufacturers paid more for imported materials and raised their own prices. ([Axios](https://www.axios.com/2026/10/07/trump-tariffs-fed-inflation-prices) / [Liberty Street Economics](https://libertystreeteconomics.newyorkfed.org/2026/10/how-fast-do-tariffs-pass-through-into-consumer-prices/) / [Washington Post](https://www.washingtonpost.com/business/2026/10/07/tariffs-drove-up-prices-consumer-goods-study-finds/))
 
-5/ **Companies that Trump Jr. and Eric Trump have invested in have won more than $6 billion in federal contracts**. Since then, Trump Jr.’s firm, 1789 Capital, took a stake in Anduril last year, the AI defense company has won 135 government contracts and received about $1.8 billion under those agreements. Yesterday, Trump announced another $2.9 billion in Navy support for an Anduril submarine-parts facility in Maryland. Other Trump Jr.-backed companies secured military contracts for rocket engines and automated submarine factories. Meanwhile, Foundation Future Industries won a $24 million contract for robotics startup, where Eric Trump is the chief strategy adviser. The brothers also hold indirect investments in drone maker Powerus, which also won an Air Force contract worth up to $90 million. ([ABC News](https://abcnews.com/Politics/trump-sons-investments-won-billions-pentagon-contracts-election/story?id=137049598))
+5/ **UPDATE: ABC News deleted the report claiming companies backed by Trump’s sons had secured more than $6 billion in government contracts**. "1789 Capital does not have a 'major stake' in Anduril," a spokesperson for venture capital firm 1789 Capital. "It's false to say Vulcan, Firehawk, and PsiQuantum are 'backed by Don Jr and Eric Trump.'" ([Mediaite](https://www.mediaite.com/media/news/abc-news-mysteriously-deletes-report-on-trump-sons-6b-business-dealings/) / [ABC News - Internet Archive](https://web.archive.org/web/20261007144205/https://abcnews.com/Politics/trump-sons-investments-won-billions-pentagon-contracts-election/story?id=137049598))
+
+* ~~***Companies that Trump Jr. and Eric Trump have invested in have won more than $6 billion in federal contracts**. Since then, Trump Jr.’s firm, 1789 Capital, took a stake in Anduril last year, the AI defense company has won 135 government contracts and received about $1.8 billion under those agreements. Yesterday, Trump announced another $2.9 billion in Navy support for an Anduril submarine-parts facility in Maryland. Other Trump Jr.-backed companies secured military contracts for rocket engines and automated submarine factories. Meanwhile, Foundation Future Industries won a $24 million contract for robotics startup, where Eric Trump is the chief strategy adviser. The brothers also hold indirect investments in drone maker Powerus, which also won an Air Force contract worth up to $90 million. ([ABC News](https://abcnews.com/Politics/trump-sons-investments-won-billions-pentagon-contracts-election/story?id=137049598))*~~
 
 6/ **Kimberly Guilfoyle reportedly urged a Trump donor to pay her $100,000 American Express bill**. “It won’t show up anywhere if you wire money to American Express,” Trump Jr.’s former fiancée texted Eric Deters days before her Senate confirmation hearing as ambassador to Greece. "Honey please I need you to get this done for me today,” she added. The messages also show Guilfoyle forwarding Deters’ tax dispute to the IRS commissioner and updating him on her efforts to lobby the Justice Department on his behalf. Deters never made the payment. ([Wall Street Journal](https://www.wsj.com/politics/policy/guilfoyle-amex-donor-100-000-0e02cdc3))
 

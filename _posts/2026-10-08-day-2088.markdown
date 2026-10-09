@@ -1,6 +1,11 @@
 ---
 title: Day 2088
 date: 2026-10-08 15:12:00 -07:00
+tags:
+- "iran"
+- "immigration"
+- "midterm-election"
+- "foreign-policy"
 description: '"So well deserved."'
 image: "/uploads/day2088trump-6cf5a5.jpg"
 todayInOneSentence: Trump said the U.S. would not attack Iran before the midterm elections;

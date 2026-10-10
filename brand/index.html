@@ -669,12 +669,11 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      for free.” The dark-ground inverted button above is the footer subscribe pair, not the
      nav. A future swap to a framed/ghost secondary button would be a real amendment to this
      chapter, ratified like everything else here.</p>
-  <p><b>The bookshelf's framed secondary button.</b> On the bookshelf, each entry's
+  <p><b>The bookshelf's framed secondary button (2026-10-06):</b> on the bookshelf, each entry's
      Bookshop link is a framed button: a 1px <code>--c-line-strong</code> border, no fill,
      and <code>--c-ink</code> text at weight 600. On hover and focus-visible it inverts:
      day takes a #111 fill with white text; night takes a white fill with #111 text. It is
-     scoped to the bookshelf entry; the one primary button rule is unchanged.
-     Proposed; ratified DATE-TBD.</p>
+     scoped to the bookshelf entry; the one primary button rule is unchanged.</p>
 </section>
 
 <section class="chap" id="c17">
@@ -811,15 +810,18 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      row gives Bookshop a framed secondary button, followed by Amazon, Library and Libby as
      text links; paid links carry <code>rel="sponsored"</code>, and each buy link's
      accessible name includes the book title. One surface-backed affiliate disclosure
-     precedes the first shelf, ahead of every paid link, with no cue in each row.</p>
-  <p><b>The jump index is a same-page typographic index.</b> Directly under the lead,
-     each index entry shows the shelf's short label, falling back to its full title
-     while no short label is set, followed by a mono count; the index has no rule
-     beneath it. “Start here” uses question rows as native disclosures with a shared
+     follows the last shelf, with no cue in each row.</p>
+  <p><b>Start here sits directly under the lead (2026-10-06):</b> the shelf index below it is a
+     centered set of square framed chips with a 1px <code>--c-line-strong</code> border, no
+     fill, and label-role caps, under a centered label-role heading when one is set. Each
+     chip shows the shelf's short label, falling back to its full title, with a mono count.
+     The border and text turn crimson on hover and focus-visible; square frames, not pills,
+     uphold Chapter 23's rule against a pill garden.
+     “Start here” uses question rows as native disclosures with a shared
      <code>name</code>, so only one opens at a time. An open row shows the starting
      book’s grayscale jacket, heading-role crimson title, and one lede block, then
      a numbered path in quieter italic links and a label-role shelf link; the
-     jacket links to the same entry with <code>tabindex="-1"</code> outside the tab order. Proposed; ratified DATE-TBD.</p>
+     jacket links to the same entry with <code>tabindex="-1"</code> outside the tab order.</p>
 </section>
 
 <section class="chap" id="c23">
@@ -927,8 +929,7 @@ description: "The mark, the laws, the colors, the type, the layout — the compl
      one photographic provision:
      strong may step 700→600 against halation, and grayscale antialiasing applies under
      the night theme only. Sizes, leading, and layout never change by theme.</p>
-  <p>Bookshelf covers render at <code>brightness(0.8)</code> at night.
-     Proposed; ratified DATE-TBD.</p>
+  <p><b>Bookshelf covers (2026-10-06):</b> they render at <code>brightness(0.8)</code> at night.</p>
   <p><b>Chrome is invariant (2026-06-07):</b> the masthead (#000), nav strip
      (#2a2a2a), footer, toasts, tooltips, and skip-link never re-theme — paints on
      chrome are pinned literals, not tokens. At night the footer deepens to #000:

@@ -234,7 +234,7 @@
 // token-driven (--c-* via the $gray-*/$border-color/$body-bg mirrors), SQUARE (no radius),
 // on the rem type scale, system font. No raw hex, no hand-rolled night palette.
 .survey { margin: 0 auto; padding: 1rem 1rem 4rem; }  // prose column + airy gutter
-.survey-header { margin-bottom: 2.5em; }
+.survey-header { margin-bottom: 2.5em; overflow-wrap: break-word; }  // long title words wrap at 200% text instead of overflowing 375px
 .survey-intro { color: $gray-3; font-size: 1rem; line-height: 1.6; margin-top: 0.5em; }
 
 .survey-progress { margin-bottom: 2.75em; }
@@ -248,6 +248,7 @@
 
 .survey-q { border: 0; padding: 0; margin: 0 0 2.5em; }  // generous breathing room between questions
 .survey-q-label { display: block; font-weight: 600; color: $gray-5; padding: 0; margin-bottom: 0.9em; font-size: 1.2rem; line-height: 1.4; }  // the hero — heading stop
+.survey-q-hint { color: $gray-3; font-size: 0.9rem; line-height: 1.5; margin: -0.5em 0 1em; }  // optional helper line under the question
 .survey-req { color: var(--c-danger); font-weight: 400; }
 
 .survey-options { display: flex; flex-direction: column; gap: 0.55em; }
@@ -336,12 +337,12 @@
 }
 .survey-checking { color: $gray-3; font-size: 1rem; }
 
-.survey-nav { display: flex; align-items: center; justify-content: space-between; gap: 1em; margin-top: 2.75em; }
-.survey-nav .jaq-btn { padding: 0.8em 1.75em; }  // airier primary button (scoped — shared jaq-btn base untouched)
+.survey-nav { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1em; margin-top: 2.75em; }
+.survey-nav .jaq-btn { padding: 0.8em 1.75em; max-width: 100%; white-space: normal; }  // airier primary button (scoped — shared jaq-btn base untouched); wraps at 200% text
 // Back = link-language (underlined muted ink, hover crimson), NOT a second button —
 // holds the "one primary button" rule.
 .survey-btn-back {
-  background: none; border: 0; padding: 0.5em 0; min-height: 44px;
+  background: none; border: 0; padding: 0.5em 0; min-height: 44px; min-width: 44px;
   font-family: $root-font-family; font-size: 1rem; color: $gray-4;
   text-decoration: underline; text-decoration-color: $border-color; cursor: pointer;
 
@@ -370,6 +371,8 @@
     padding: 0.75em 0 calc(0.75em + env(safe-area-inset-bottom, 0px));
     background: var(--c-bg); border-top: 1px solid var(--c-line);
   }
+  // Keyboard focus scrolled into view must clear the sticky nav (WCAG 2.4.11).
+  html:has(.survey-nav) { scroll-padding-bottom: 6rem; }
 }
 
 @media (max-width: 420px) {

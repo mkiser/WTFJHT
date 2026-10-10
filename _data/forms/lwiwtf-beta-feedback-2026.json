@@ -1,0 +1,227 @@
+{
+  "id": "lwiwtf-beta-feedback-2026",
+  "title": "Last Week in WTF — Beta Feedback",
+  "intro": "Thanks for testing Last Week in WTF. I'm interested in what worked, what didn't, and whether it was, you know, useful.",
+  "submit_label": "Send feedback",
+  "thanks_title": "Thanks. That's useful.",
+  "thanks_body": "Thanks for helping me figure out whether Last Week in WTF is worth doing. ",
+  "sections": [
+    {
+      "id": "use",
+      "title": "Your week",
+      "questions": [
+        {
+          "id": "q1_weekday_coverage",
+          "type": "radio",
+          "label": "How much of this week's daily WTFJHT coverage had you read before Saturday?",
+          "required": true,
+          "col": "Weekday Coverage",
+          "options": [
+            {
+              "id": "none",
+              "label": "None"
+            },
+            {
+              "id": "one",
+              "label": "One edition"
+            },
+            {
+              "id": "two_three",
+              "label": "Two or three editions"
+            },
+            {
+              "id": "all_four",
+              "label": "All four editions"
+            }
+          ]
+        },
+        {
+          "id": "q2_outcome",
+          "type": "radio",
+          "label": "Which best describes what this Saturday edition did for you?",
+          "required": true,
+          "col": "Reported Outcome",
+          "options": [
+            {
+              "id": "caught_up",
+              "label": "Helped me catch up on news I'd missed"
+            },
+            {
+              "id": "bigger_picture",
+              "label": "Helped me understand the bigger picture"
+            },
+            {
+              "id": "both",
+              "label": "Both of those things"
+            },
+            {
+              "id": "repeat",
+              "label": "Mostly repeated things I already knew"
+            },
+            {
+              "id": "no_help",
+              "label": "Didn't really help me"
+            },
+            {
+              "id": "not_read",
+              "label": "I didn't read enough of it to say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quality",
+      "title": "What worked and what didn't",
+      "questions": [
+        {
+          "id": "q3_usefulness",
+          "type": "radio",
+          "label": "How useful was the Saturday edition to you overall?",
+          "required": true,
+          "col": "Usefulness 1-5",
+          "hint": "1 = Not useful; 5 = Extremely useful",
+          "show_if": {
+            "field": "q2_outcome",
+            "in": [
+              "caught_up",
+              "bigger_picture",
+              "both",
+              "repeat",
+              "no_help"
+            ]
+          },
+          "options": [
+            {
+              "id": "1",
+              "label": "1 — Not useful"
+            },
+            {
+              "id": "2",
+              "label": "2"
+            },
+            {
+              "id": "3",
+              "label": "3"
+            },
+            {
+              "id": "4",
+              "label": "4"
+            },
+            {
+              "id": "5",
+              "label": "5 — Extremely useful"
+            }
+          ]
+        },
+        {
+          "id": "q4_sections",
+          "type": "checkbox",
+          "label": "Which parts were most worth your time? Choose up to two, or skip if none.",
+          "required": false,
+          "max_select": 2,
+          "col": "Valued Sections",
+          "show_if": {
+            "field": "q2_outcome",
+            "in": [
+              "caught_up",
+              "bigger_picture",
+              "both",
+              "repeat",
+              "no_help"
+            ]
+          },
+          "options": [
+            {
+              "id": "one_sentence",
+              "label": "Last week in one sentence"
+            },
+            {
+              "id": "main_stories",
+              "label": "The main stories"
+            },
+            {
+              "id": "since_gone",
+              "label": "Dept. of Since I’ve Been Gone"
+            },
+            {
+              "id": "numbers",
+              "label": "The Dept. of Numbers"
+            },
+            {
+              "id": "most_clicked",
+              "label": "Most Clicked"
+            },
+            {
+              "id": "quiz",
+              "label": "The news quiz"
+            },
+            {
+              "id": "daily_links",
+              "label": "Daily edition links"
+            }
+          ]
+        },
+        {
+          "id": "q5_takeaway",
+          "type": "textarea",
+          "label": "What's one thing, if anything, you understand more clearly after reading this edition?",
+          "required": false,
+          "col": "Takeaway",
+          "maxlength": 500,
+          "show_if": {
+            "field": "q2_outcome",
+            "in": [
+              "caught_up",
+              "bigger_picture",
+              "both",
+              "repeat",
+              "no_help"
+            ]
+          }
+        },
+        {
+          "id": "q6_change",
+          "type": "textarea",
+          "label": "What would you cut, change, or make clearer?",
+          "required": false,
+          "col": "Change Request",
+          "maxlength": 1000,
+          "show_if": {
+            "field": "q2_outcome",
+            "in": [
+              "caught_up",
+              "bigger_picture",
+              "both",
+              "repeat",
+              "no_help"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "future",
+      "title": "One last thing",
+      "questions": [
+        {
+          "id": "q7_more",
+          "type": "radio",
+          "label": "Would you like to receive the next three Saturday test editions?",
+          "required": true,
+          "col": "Three-Edition Interest",
+          "options": [
+            {
+              "id": "yes",
+              "label": "Yes, send me the next three"
+            },
+            {
+              "id": "no",
+              "label": "No, thanks"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

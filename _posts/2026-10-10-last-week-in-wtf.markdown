@@ -8,8 +8,10 @@ signoff: And that's what just happened last week. See you Monday.
 description: October 5-8
 image: "/uploads/lwiwtf100508-89646a.jpg"
 currentMood: "🌀"
-editorsNote: "<p><em><strong>Editor's note</strong>: Welcome beta testers to the first
-  edition of Last Week in WTF.</em></p>"
+editorsNote: |-
+  <p><em><strong>Welcome to the beta test of Last Week in WTF</strong>: Thanks for volunteering to help me figure out if this thing is actually worth doing. The idea is simple... You should be able to step away from the news for a few days without feeling like you have to catch up on everything you missed. So what follows is my attempt at a short Saturday reset: the week&#39;s biggest stories, the numbers, the news quiz, and links to dig deeper if you want.</em></p>
+  <p><em>After you read this edition, <strong><a href="https://whatthefuckjusthappenedtoday.com/survey/lwiwtf-beta-feedback-2026/">tell me what you thought</a></strong>. Please be candid! You won&#39;t hurt my feelings. I want to know what works, what doesn&#39;t, what you&#39;d change. But above all else, I want to know whether this is something you&#39;d actually want to receive. Thanks again for helping me work test this!</em></p>
+  <p><em>(I&#39;ll also send the survey link in a separate follow-up email tomorrow)</em></p>
 ---
 
 **Last week in one sentence:** Trump said the U.S. would not attack Iran before the midterm elections; Trump made his third trip to Texas in less than a month to campaign for Republican Senate candidate Ken Paxton, who is trailing Democrat James Talarico in recent polls ahead of the midterms; Trump's super PAC doesn't plan to reimburse taxpayers for the more than $10 million spent on TV ads promoting him; the World Health Organization couldn't assess the risk of a possible plague outbreak after a Russian anti-plague institute researcher died of pneumonia of unknown origin; Supreme Court Justice Samuel Alito considered retiring this year, but decided to stay so he could make "a valuable contribution"; and Trump plans to send $90 to 20.8 million Medicare beneficiaries to help offset their Part B premiums.

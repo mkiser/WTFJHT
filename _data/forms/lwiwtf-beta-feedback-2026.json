@@ -199,29 +199,6 @@
           }
         }
       ]
-    },
-    {
-      "id": "future",
-      "title": "One last thing",
-      "questions": [
-        {
-          "id": "q7_more",
-          "type": "radio",
-          "label": "Would you like to receive the next three Saturday test editions?",
-          "required": true,
-          "col": "Three-Edition Interest",
-          "options": [
-            {
-              "id": "yes",
-              "label": "Yes, send me the next three"
-            },
-            {
-              "id": "no",
-              "label": "No, thanks"
-            }
-          ]
-        }
-      ]
     }
   ]
 }

@@ -1,6 +1,12 @@
 ---
 title: Day 2092
 date: 2026-10-12 15:48:05 -07:00
+tags:
+- "russia"
+- "ukraine"
+- "energy"
+- "foreign-policy"
+- "sanctions"
 description: '"Your absolute worst."'
 image: "/uploads/day2092trump-0407e2.jpg"
 todayInOneSentence: A bipartisan group of seven senators, including four Republicans,

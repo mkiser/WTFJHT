@@ -1,6 +1,11 @@
 ---
 title: Day 2093
 date: 2026-10-13 14:28:50 -07:00
+tags:
+- "white-house"
+- "russia"
+- "supreme-court"
+- "doge"
 description: '"Doing a good job."'
 image: "/uploads/day2093trump-a04121.jpg"
 todayInOneSentence: Twelve senators, including six Republicans, urged Trump to rescind

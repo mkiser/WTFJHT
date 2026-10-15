@@ -1,6 +1,12 @@
 ---
 title: Day 2094
 date: 2026-10-14 15:49:07 -07:00
+tags:
+- "economy"
+- "social-security"
+- "taxes"
+- "media"
+- "lawsuit"
 description: '"Disappointing."'
 image: "/uploads/day2094trump-ccf7f0.jpg"
 todayInOneSentence: ' U.S. inflation rose to 3.7% in September from a year earlier;

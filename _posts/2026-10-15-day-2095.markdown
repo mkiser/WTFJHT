@@ -1,6 +1,12 @@
 ---
 title: Day 2095
 date: 2026-10-15 15:56:28 -07:00
+tags:
+- "voting-rights"
+- "justice-department"
+- "elections"
+- "immigration"
+- "white-house"
 description: '"We''re done."'
 image: "/uploads/day2095trump-cb1fa3.jpg"
 todayInOneSentence: The Justice Department sued California to stop it from counting

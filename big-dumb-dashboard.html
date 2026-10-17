@@ -109,6 +109,7 @@ redirect_from:
   const trumpDaysTotal = term1Days + term2Days;
   const trumpDaysCurrent = term2Days;
   const scaramuccis = (trumpDaysTotal / 11).toFixed(2);
+  const zacharias = (trumpDaysTotal / 5).toFixed(2);
 
   // Trump Administration Section
   const trumpEl = document.getElementById('trump-counters');
@@ -138,6 +139,11 @@ redirect_from:
       <span class="counter-number">${formatNumber(parseFloat(scaramuccis))}</span>
       <span class="counter-label">Scaramuccis</span>
       <span class="counter-meta">1 Scaramucci = 11 days</span>
+    </div>
+    <div class="counter-card trump">
+      <span class="counter-number">${formatNumber(parseFloat(zacharias))}</span>
+      <span class="counter-label">Zacharias</span>
+      <span class="counter-meta">1 Zacharia = 5 days</span>
     </div>
   `;
 

@@ -16,7 +16,7 @@ redirect_from:
   <!-- Trump Administration -->
   <div class="dashboard-section">
     <h2>🔴 Trump Administration</h2>
-    <div class="counter-grid" id="trump-counters"></div>
+    <div class="counter-grid counter-grid--pairs" id="trump-counters"></div>
   </div>
 
   <!-- Election Countdowns -->
@@ -81,9 +81,9 @@ redirect_from:
   }
 
   // Format number with commas
-  function formatNumber(num) {
+  function formatNumber(num, decimals) {
     if (num === null || num === undefined || isNaN(num)) return 'N/A';
-    return num.toLocaleString('en-US');
+    return num.toLocaleString('en-US', { minimumFractionDigits: decimals, maximumFractionDigits: decimals });
   }
 
   // Calculate progress percentage
@@ -108,8 +108,8 @@ redirect_from:
 
   const trumpDaysTotal = term1Days + term2Days;
   const trumpDaysCurrent = term2Days;
-  const scaramuccis = (trumpDaysTotal / 11).toFixed(2);
-  const zacharias = (trumpDaysTotal / 5).toFixed(2);
+  const scaramuccis = trumpDaysTotal / 11;
+  const zacharias = trumpDaysTotal / 5;
 
   // Trump Administration Section
   const trumpEl = document.getElementById('trump-counters');
@@ -136,14 +136,14 @@ redirect_from:
       <span class="counter-meta">${trumpProgress.toFixed(1)}% of current term complete</span>
     </div>
     <div class="counter-card trump">
-      <span class="counter-number">${formatNumber(parseFloat(scaramuccis))}</span>
-      <span class="counter-label">Scaramuccis</span>
-      <span class="counter-meta">1 Scaramucci = 11 days</span>
-    </div>
-    <div class="counter-card trump">
-      <span class="counter-number">${formatNumber(parseFloat(zacharias))}</span>
+      <span class="counter-number">${formatNumber(zacharias, 2)}</span>
       <span class="counter-label">Zacharias</span>
       <span class="counter-meta">1 Zacharia = 5 days</span>
+    </div>
+    <div class="counter-card trump">
+      <span class="counter-number">${formatNumber(scaramuccis, 2)}</span>
+      <span class="counter-label">Scaramuccis</span>
+      <span class="counter-meta">1 Scaramucci = 11 days</span>
     </div>
   `;
 

@@ -21,6 +21,10 @@
   margin-top: 1rem;
 }
 
+.counter-grid--pairs {
+  grid-template-columns: repeat(2, 1fr);
+}
+
 .counter-card {
   background: $body-bg;
   padding: 1rem;

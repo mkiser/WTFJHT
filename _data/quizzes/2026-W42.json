@@ -1,0 +1,141 @@
+{
+  "id": "2026-W42",
+  "week_label": "Oct 12 – Oct 15, 2026",
+  "status": "published",
+  "editions": [
+    2095,
+    2094,
+    2093,
+    2092
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "Who was forced to resign as U.S. ambassador to Greece following allegations involving donors, business interests, and luxury travel?",
+      "options": [
+        "Kimberly Guilfoyle",
+        "Shirley Weber",
+        "Amy Gleason",
+        "Katie Zacharia"
+      ],
+      "correct": 0,
+      "explanation": "The White House forced Kimberly Guilfoyle to resign after a donor alleged she sought payment of a $100,000 credit card bill in exchange for access. She denied wrongdoing, and the State Department inspector general was examining the allegations.",
+      "source_day": 2093,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/13/day-2093/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 2,
+      "question": "How much Russian diesel was expected to be supplied immediately under Trump’s deal with Putin?",
+      "options": [
+        "More than 1 million tons",
+        "More than 30,000 tons",
+        "More than 100,000 tons",
+        "More than 300,000 tons"
+      ],
+      "correct": 3,
+      "explanation": "Russia was expected to supply more than 300,000 tons immediately, with additional shipments planned in the following months.",
+      "source_day": 2092,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/12/day-2092/",
+      "difficulty": "hard",
+      "type": "number"
+    },
+    {
+      "number": 3,
+      "question": "What was the year-over-year U.S. inflation rate in September?",
+      "options": [
+        "0.6%",
+        "3.6%",
+        "3.7%",
+        "2.6%"
+      ],
+      "correct": 2,
+      "explanation": "U.S. inflation reached 3.7% from a year earlier and rose 0.6% from August. Gas prices jumped 9.1% and accounted for more than half of the monthly increase.",
+      "source_day": 2094,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/14/day-2094/",
+      "difficulty": "easy",
+      "type": "number"
+    },
+    {
+      "number": 4,
+      "question": "Why did Los Angeles County Registrar Dean Logan say his office had not accessed the Justice Department’s thumb drive containing a voter list?",
+      "options": [
+        "Using it would conflict with privacy and security protocols because it was not considered secure",
+        "A federal judge prohibited the county from reviewing it",
+        "The Justice Department had withdrawn the list",
+        "The drive arrived after the deadline for reviewing ballots"
+      ],
+      "correct": 0,
+      "explanation": "Logan said accessing the device would conflict with established data privacy and information security protocols. The password-protected drive arrived with its password handwritten on a sticky note attached to the letter.",
+      "source_day": 2095,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/15/day-2095/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "Why did the Trump administration argue that DOGE was exempt from federal public-records laws?",
+      "options": [
+        "DOGE had been dissolved before receiving any records requests",
+        "DOGE was an independent agency outside the executive branch",
+        "DOGE handled only classified military intelligence",
+        "DOGE was merely a presidential advisory body"
+      ],
+      "correct": 3,
+      "explanation": "The administration characterized DOGE as a presidential advisory body and therefore exempt from public-records laws. The Supreme Court agreed to hear its effort to withhold DOGE records sought under the Freedom of Information Act.",
+      "source_day": 2093,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/13/day-2093/",
+      "difficulty": "medium",
+      "type": "legal rationale"
+    },
+    {
+      "number": 6,
+      "question": "What happened hours after Trump declared that Russia and Ukraine had agreed to an “energy ceasefire”?",
+      "options": [
+        "The Treasury Department ended its waiver for Russian diesel",
+        "Ukraine and Russia signed a permanent peace agreement",
+        "Russia attacked Ukraine’s energy infrastructure",
+        "Moscow formally confirmed the ceasefire"
+      ],
+      "correct": 2,
+      "explanation": "Russian drones struck a gas production facility and at least five other energy-related targets in Ukraine. Moscow had not confirmed Trump’s claimed agreement, and Volodymyr Zelensky said he learned about it through the media.",
+      "source_day": 2092,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/12/day-2092/",
+      "difficulty": "easy",
+      "type": "sequence"
+    },
+    {
+      "number": 7,
+      "question": "What is projected to happen if Social Security’s retirement trust fund runs out in 2032 and Congress does not act?",
+      "options": [
+        "The 3.6% cost-of-living increase will be canceled",
+        "Retirement benefits will automatically be cut by 22%",
+        "The retirement age will automatically rise",
+        "Average monthly benefits will fall by exactly $75"
+      ],
+      "correct": 1,
+      "explanation": "Exhaustion of the retirement trust fund would trigger an automatic 22% reduction in retirement benefits unless Congress intervenes.",
+      "source_day": 2094,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/14/day-2094/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 8,
+      "question": "At least how much of the $333 million committed to Trump’s White House ballroom came from donors who requested anonymity?",
+      "options": [
+        "$10 million",
+        "$77 million",
+        "$25 million",
+        "$333 million"
+      ],
+      "correct": 1,
+      "explanation": "At least $77 million came from donors who requested anonymity. Internal records also showed that companies and executives holding federal contracts accounted for about half of the total commitments.",
+      "source_day": 2095,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/15/day-2095/",
+      "difficulty": "hard",
+      "type": "number"
+    }
+  ]
+}

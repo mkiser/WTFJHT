@@ -1,0 +1,45 @@
+---
+title: Day 2094
+date: 2026-10-14 15:49:07 -07:00
+tags:
+- "economy"
+- "social-security"
+- "taxes"
+- "media"
+- "lawsuit"
+description: '"Disappointing."'
+image: "/uploads/day2094trump-ccf7f0.jpg"
+todayInOneSentence: ' U.S. inflation rose to 3.7% in September from a year earlier;
+  wages adjusted for inflation fell for a sixth consecutive month; the Social Security
+  Administration set a 3.6% cost-of-living increase for 2027, the largest adjustment
+  since 2023; the Trump administration delayed the release of IRS data showing how
+  Republicans'' 2025 tax cuts affected millions of Americans; a senior adviser to
+  Trump''s Commodity Futures Trading Commission chairman reportedly told staff to
+  retract a referral recommending an investigation into suspected insider trading;
+  Greenland contradicted Trump''s claim that "massive" oil, gas and mineral exploration
+  is about to begin on the island, saying "we are very far away from ''massive'' exploration";
+  a federal judge extended his order blocking Trump from banning CNN, MS NOW, and
+  Politico reporters from the White House; the BBC asked a federal judge to compel
+  Trump to sit for a deposition in his $10 billion defamation lawsuit after he canceled
+  the agreed-upon session; and 33% of Americans said they trust the executive branch,
+  28% Congress, and 46% the judiciary – all historic lows. '
+currentMood: "💸"
+---
+
+1/ **U.S. inflation rose to 3.7% in September from a year earlier**, and 0.6% from August, the largest monthly increase in five months. Gas prices jumped 9.1% and accounted for more than half the increase. Core inflation, which excludes food and energy, rose to 2.6% annually from 2.4% in August. White House economic adviser Kevin Hassett called the figures "disappointing," blamed the energy shock on the Iran war, and claimed Trump's policies were helping contain inflation. Wages adjusted for inflation, meanwhile, fell in September from a year earlier for a sixth consecutive month. ([CNN](https://www.cnn.com/2026/10/14/economy/us-cpi-inflation-september) / [Axios](https://www.axios.com/2026/10/14/cpi-september-inflation-trump) / [Politico](https://www.politico.com/news/2026/10/14/inflation-fed-rate-hike-energy-01117791) / [CNBC](https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html) / [Associated Press](https://apnews.com/article/cpi-inflation-consumer-prices-affordability-3985019a54c82421e6112fb57baba048) / [Washington Post](https://www.washingtonpost.com/business/2026/10/14/prices-increased-september-last-inflation-report-ahead-elections/) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-14/us-consumer-prices-climb-by-most-since-april-on-fuel-costs) / [NBC News](https://www.nbcnews.com/business/economy/inflation-jumped-september-gas-diesel-prices-squeezed-consumers-ahead-rcna603202) / [Wall Street Journal](https://www.wsj.com/economy/cpi-inflation-report-september-2026-b2037469) / [New York Times](https://www.nytimes.com/2026/10/14/business/economy/inflation-cpi.html))
+
+2/ **The Social Security Administration set a 3.6% cost-of-living increase for 2027, the largest adjustment since 2023**. For roughly 76 million Americans, their average retirement benefits will rise by about $75 a month starting in January. Social Security's retirement trust fund, meanwhile, is projected to run out in 2032, which will trigger an automatic 22% cut in retirement benefits unless Congress acts. ([New York Times](https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html) / [CNBC](https://www.cnbc.com/2026/10/14/social-security-cola-2027.html) / [Associated Press](https://apnews.com/article/social-security-cost-of-living-inflation-cpi-c7c73bbb304205696e7dd1afa27fc850) / [CNN](https://www.cnn.com/2026/10/14/politics/social-security-cola-update-2027) / [NBC News](https://www.nbcnews.com/business/personal-finance/social-security-cola-2027-increase-rcna603284) / [Axios](https://www.axios.com/2026/10/14/social-security-cola-inflation) / [Washington Post](https://www.washingtonpost.com/business/2026/10/14/americans-social-security-will-see-bump-their-checks-next-year/))
+
+3/ **The Trump administration delayed the release of IRS data showing how Republicans' 2025 tax cuts affected millions of Americans**. The IRS was scheduled to publish the figures in July and update them in September, but neither report has been released. The data would show which tax breaks taxpayers across income brackets claimed, including new deductions for tips and overtime, and how much they paid in taxes. ([Politico](https://www.politico.com/news/2026/10/14/administration-delays-irs-data-gop-tax-cuts-01116807))
+
+4/ **A senior adviser to Trump's Commodity Futures Trading Commission chairman reportedly told staff to retract a referral recommending an investigation into suspected insider trading**. Analysts flagged trades involving the sale of oil futures equivalent to at least 6 million barrels and more than $2 billion in stock futures roughly 15 minutes before Trump reversed his threat to attack Iranian power plants. Oil prices then fell as much as 14%, while stocks surged. ([Bloomberg](https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran))  
+
+5/ **Greenland contradicted Trump's claim that "massive" oil, gas and mineral exploration is about to begin on the island, saying "we are very far away from 'massive' exploration."** The security agreement signed last month allows the U.S. to expand its military presence in Greenland, but grants no special rights to explore for oil, gas, or minerals. Nevertheless, Trump announced the supposed plans for "our new and beautiful Greenland," even though the island remains a self-governing territory of Denmark. ([CNN](https://www.cnn.com/2026/10/14/politics/trump-greenland-oil-gas-minerals-intl-hnk) / [Associated Press](https://apnews.com/article/greenland-denmark-trump-oil-security-rare-earths-2974b68aae17d97a69439bd100847d24) / [CBS News](https://www.cbsnews.com/news/greenland-trump-oil-minerals-gas-exploration/) / [NBC News](https://www.nbcnews.com/world/greenland/trump-says-massive-oil-gas-mineral-exploration-begin-greenland-rcna603406))
+
+6/ **A federal judge extended his order blocking Trump from banning CNN, MS NOW, and Politico reporters from the White House**. U.S. District Judge Timothy Kelly said the ban likely violated their free speech and due process rights, citing Trump's comments about "bad story after bad story." Kelly, a Trump appointee, said he took "seriously" the government's interest in protecting classified information, but found "just about no evidence in the record to explain or justify the 'ban' from a national security perspective." ([Associated Press](https://apnews.com/article/cnn-ms-now-politico-white-house-1a023a8890e8d25d5d293862f4cd47af) / [Washington Post](https://www.washingtonpost.com/business/2026/10/13/judge-deals-another-blow-trumps-white-house-media-bans/) / [CNBC](https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html) / [CNN](https://www.cnn.com/2026/10/13/politics/judge-gives-cnn-white-house-access-media-ban) / [CBS News](https://www.cbsnews.com/news/judge-blocks-trump-white-house-ban-cnn-msnow-politico/) / [NPR](https://www.npr.org/2026/10/14/nx-s1-6001398/white-house-media-ban) / [Wall Street Journal](https://www.wsj.com/us-news/law/trump-cant-reinstate-white-house-ban-on-cnn-politico-and-ms-now-judge-rules-de4882c0) / [NBC News](https://www.nbcnews.com/politics/trump-administration/prewrite-not-pub-judge-extends-order-blocking-trump-white-house-media-rcna602264) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-14/trump-appeals-order-restoring-cnn-ms-now-white-house-access))
+
+7/ **The BBC asked a federal judge to compel Trump to sit for a deposition in his $10 billion defamation lawsuit** after he canceled the agreed-upon Oct. 16 session. Trump's lawyers said he was unavailable because of "other matters of national importance" and later suggested January, after the discovery deadline. Trump sued the BBC over a documentary that spliced together remarks from his Jan. 6, 2021, speech. The BBC apologized for the edit, but said it was inadvertent. ([The Guardian](https://www.theguardian.com/media/2026/oct/13/bbc-trump-lawsuit-deposition) / [Politico](https://www.politico.com/news/2026/10/13/Trump-deposition-BBC-lawsuit))
+
+poll/ **33% of Americans said they trust the executive branch, 28% Congress, and 46% the judiciary – all historic lows**. Meanwhile, 51% said they trust their fellow Americans to make democratic decisions, down from 86% in 1976 and the lowest level recorded in more than 50 years. ([Gallup](https://news.gallup.com/poll/715361/trust-federal-government-sinks-new-depths.aspx))
+
+*The 2026 midterms are in 20 days; and the 2028 presidential election is in 755 days.*

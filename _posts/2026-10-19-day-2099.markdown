@@ -1,6 +1,12 @@
 ---
 title: Day 2099
 date: 2026-10-19 15:45:46 -07:00
+tags:
+- "justice-department"
+- "voting-rights"
+- "judiciary"
+- "executive-order"
+- "polling"
 description: '"A crazed lunatic."'
 image: "/uploads/day2099trump-ae294f.jpg"
 todayInOneSentence: The Justice Department charged 28 legal permanent residents in

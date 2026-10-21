@@ -1,6 +1,11 @@
 ---
 title: Day 2100
 date: 2026-10-20 16:29:08 -07:00
+tags:
+- "foreign-policy"
+- "iran"
+- "midterm-election"
+- "ukraine"
 description: '"Very generous."'
 image: "/uploads/day2100trump-c159cb.jpg"
 todayInOneSentence: 'Trump announced a $25 million program to pay whistleblowers up

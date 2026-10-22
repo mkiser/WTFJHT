@@ -1,6 +1,12 @@
 ---
 title: Day 2101
 date: 2026-10-21 15:52:59 -07:00
+tags:
+- "supreme-court"
+- "democracy"
+- "elections"
+- "lgbtq-rights"
+- "climate"
 description: '"A democracy that doesn''t work."'
 image: "/uploads/day2101trump-6063ac.jpg"
 todayInOneSentence: JD Vance told Republicans to "stop whining" about Vivek Ramaswamy's

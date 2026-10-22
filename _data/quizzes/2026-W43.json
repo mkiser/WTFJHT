@@ -1,0 +1,173 @@
+{
+  "id": "2026-W43",
+  "week_label": "Oct 19 – Oct 22, 2026",
+  "status": "published",
+  "editions": [
+    2099,
+    2100,
+    2101,
+    2102
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "If the new farm bailout is funded, what would projected government payments to farmers total for the year?",
+      "options": [
+        "$12 billion",
+        "$30 billion",
+        "$55.4 billion",
+        "$8 billion"
+      ],
+      "correct": 2,
+      "explanation": "The $8 billion bailout would bring projected government payments to farmers to $55.4 billion, or roughly one-third of net farm income.",
+      "source_day": 2100,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/20/day-2100/",
+      "difficulty": "hard",
+      "type": "consequence"
+    },
+    {
+      "number": 2,
+      "question": "What does Trump risk if he fails to sit for a deposition by Dec. 11 in his case against the BBC?",
+      "options": [
+        "Having his $10 billion defamation lawsuit dismissed",
+        "Having the case transferred to a British court",
+        "Being removed from the lawsuit as a witness",
+        "Losing access to BBC broadcasts"
+      ],
+      "correct": 0,
+      "explanation": "A federal judge ordered Trump to be deposed by Dec. 11 or risk dismissal of his $10 billion defamation lawsuit against the BBC.",
+      "source_day": 2102,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/22/day-2102/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 3,
+      "question": "How did likely voters divide between Democratic and Republican congressional candidates?",
+      "options": [
+        "Democrats 41%, Republicans 52%",
+        "Democrats 52%, Republicans 44%",
+        "Democrats 52%, Republicans 41%",
+        "Democrats 44%, Republicans 41%"
+      ],
+      "correct": 2,
+      "explanation": "52% of likely voters favored Democratic candidates in their congressional districts, compared with 41% for Republicans.",
+      "source_day": 2101,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/21/day-2101/",
+      "difficulty": "hard",
+      "type": "poll"
+    },
+    {
+      "number": 4,
+      "question": "What percentage of Americans approved of Trump's job performance?",
+      "options": [
+        "44%",
+        "52%",
+        "71%",
+        "31%"
+      ],
+      "correct": 3,
+      "explanation": "Trump's job approval stood at 31%, while 66% of Americans disapproved.",
+      "source_day": 2099,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/19/day-2099/",
+      "difficulty": "hard",
+      "type": "poll"
+    },
+    {
+      "number": 5,
+      "question": "What is the maximum payment offered to an individual whistleblower under Trump's government fraud tip program?",
+      "options": [
+        "$25,000",
+        "$30,000",
+        "$300,000",
+        "$50,000"
+      ],
+      "correct": 1,
+      "explanation": "The $25 million program offers individual whistleblowers up to $30,000 for tips that lead to a fraud conviction or significant federal enforcement action.",
+      "source_day": 2100,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/20/day-2100/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 6,
+      "question": "What did the Supreme Court require the Trump administration to keep providing to transgender inmates while their lawsuit proceeds?",
+      "options": [
+        "Private health insurance",
+        "Transfers to state-run prisons",
+        "Early-release hearings",
+        "Hormone therapy and other gender-affirming care"
+      ],
+      "correct": 3,
+      "explanation": "The Supreme Court left a lower-court injunction in place requiring continued hormone therapy and other gender-affirming care in federal prisons while the case proceeds.",
+      "source_day": 2101,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/21/day-2101/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 7,
+      "question": "How many midterm polls did The New York Times remove from its election trackers after the polling firm admitted fabricating surveys?",
+      "options": [
+        "11",
+        "15",
+        "28",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "The New York Times removed 15 polls after Wedgewood Polls admitted that its purported polling operation was an experimental project.",
+      "source_day": 2102,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/22/day-2102/",
+      "difficulty": "hard",
+      "type": "numbers"
+    },
+    {
+      "number": 8,
+      "question": "How many legal permanent residents in California did the Justice Department charge with voting-related crimes, and how many were arrested?",
+      "options": [
+        "20 charged and 11 arrested",
+        "11 charged and 28 arrested",
+        "28 charged and 11 arrested",
+        "28 charged and 20 arrested"
+      ],
+      "correct": 2,
+      "explanation": "The Justice Department charged 28 legal permanent residents and arrested 11. All 28 appeared on a list of more than 20,000 voters the administration claimed were likely noncitizens.",
+      "source_day": 2099,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/19/day-2099/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 9,
+      "question": "What did Trump describe as “hitting pay dirt”?",
+      "options": [
+        "Vivek Ramaswamy's attack ad featuring Amy Acton's estranged mother",
+        "The BBC's apology for editing his Jan. 6 speech",
+        "The exposure of fabricated midterm polls",
+        "The restoration of Ukraine's Starlink service"
+      ],
+      "correct": 0,
+      "explanation": "Trump used the phrase to praise Ramaswamy's attack ad featuring the estranged mother of Democratic Ohio gubernatorial candidate Amy Acton.",
+      "source_day": 2102,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/22/day-2102/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 10,
+      "question": "Who called Putin “a humanitarian” after Russia released an American designated as wrongfully detained?",
+      "options": [
+        "Thom Tillis",
+        "Steve Witkoff",
+        "JD Vance",
+        "John Cornyn"
+      ],
+      "correct": 1,
+      "explanation": "Trump special envoy Steve Witkoff praised Putin as “a humanitarian” after Stephen Hubbard's release. Republican senators Thom Tillis and John Cornyn sharply criticized the characterization.",
+      "source_day": 2101,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/21/day-2101/",
+      "difficulty": "medium",
+      "type": "who"
+    }
+  ]
+}

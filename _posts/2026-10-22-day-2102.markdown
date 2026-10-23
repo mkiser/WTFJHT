@@ -1,6 +1,12 @@
 ---
 title: Day 2102
 date: 2026-10-22 16:10:06 -07:00
+tags:
+- "elections"
+- "immigration"
+- "media"
+- "lawsuit"
+- "ukraine"
 description: '"Pay dirt."'
 image: "/uploads/day2102trump-06c0ec.jpg"
 todayInOneSentence: 'Trump urged Vivek Ramaswamy to continue airing an attack ad featuring

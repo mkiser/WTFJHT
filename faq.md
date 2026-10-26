@@ -125,49 +125,51 @@ I try to cite the primary source whenever possible. After that, I include additi
 
 ### <em id="wtf-does-it-cost-to-run-this-thing">WTF does it cost to run this thing?</em>
 
-_Last updated: August 2025_
+_Last updated: October 2026_
 
-***TL;DR***: The baseline budget with no operating reserve is **$16,778/month**; The sustainable budget with an operating reserve is **more like ~$18,876/month**.
+***TL;DR***: The baseline budget with no operating reserve is **$22,289/month**; The sustainable budget with an operating reserve is **more like ~$25,076/month**.
 
 ---
 
 <strong id="operating-costs">OPERATING COSTS</strong>: 
-1. **Hosting & infrastructure** (S3, Cloudflare, DigitalOcean, etc.): **$200/month**
-2. **News subscriptions** (NYT, WaPo, WSJ, Bloomberg, creator journalists, etc.): **$175/month**
-3. **Transaction Fees** (the unavoidable cost of Stripe fees are 2.9% + $0.30 on every credit card transaction): **~$1,000/month**
-4. **Small-business overhead** (depreciation, backups, monitoring, training, and other tools): **$400/month**
-5. **Tools & services** (MailChimp, Memberful, Algolia, Osmosys, S3Stat, GitHub, Buffer, Zapier, etc.): **$1,679/month**
+1. **Hosting & infrastructure** (Namecheap, DigitalOcean, AWS, Cloudflare, PythonAnywhere, S3stat, etc.): **$993/month**
+2. **Mailchimp** (Email newsletter delivery platform): **$1,350/month**
+3. **Other software tools & subscriptions** (Memberful, Donorbox, Mailgun, Buffer, Airtable, GitHub, Raycast, Xero, Google Workspace, storage/security tools, Apple services): **$406/month**
+4. **News subscriptions & memberships** (NYT, WaPo, WSJ, Bloomberg, creator journalists, etc.): **$353/month**
+5. **Transaction fees and credit card processing** (The unavoidable cost of Stripe's fees are 2.9% + $0.30 PLUS Memberful's 4.9% on every credit card transaction): **$3,545/month**
+6. **Small business overhead** (Coaching and training, travel, meals, office supplies, equipment, phone/internet, business taxes/licenses, accounting): **$2,328/month**
 
-_Total Operating Costs: **$41,448/year ($3,454/month)**_
+
+_Total Operating Costs: **$107,705/year ($8,975/month)**_
 
 ---
 
 <strong id="matt’s-living-wage">MATT'S LIVING WAGE</strong>: \
 This is a one-person operation, which means your support funds the reporting, writing, editing, fact-checking, production of the newsletter, maintenance of the site and tools, light web development and operations, and audience development — plus all the unglamorous bits like customer support, vendor wrangling, and fixes when things break. It’s all one job. I publish the math because I believe transparency builds trust and you deserve to see how your support translates into the product. In short, my living wage is what it takes for me to show up and do the job.
 
-I spend about half my time on editorial work, with the other half split between product/tech and operations. To arrive at fair compensation, I blend local labor markets for the roles I actually perform, weighted by time. I don’t tack on a monthly “inflation” line item. Instead, I re-index the base periodically and re-run the math so my "pay" roughly tracks real costs without hiding anything. The blended salaries result in a **base compensation of $109,045/year ($9,087/month)** for someone doing this mix of work in the Seattle, WA area.
+I spend about half my time on editorial work, with the other half split between product/tech and operations. To arrive at fair compensation, I blend local labor markets for the roles I actually perform, weighted by time. I don’t tack on a monthly “inflation” line item. Instead, I re-index the base periodically and re-run the math so my "pay" roughly tracks real costs without hiding anything. The blended salaries result in a **base compensation of $108,953/year ($9,079/month)** for someone doing this mix of work in the Seattle, WA area.
 
-In a normal job, an employer pays for **benefits** like health insurance, retirement match, paid time off, disability and life insurance, professional liability, bookkeeping/tax prep, and admin overhead. As a solo operator, I pay those at “retail” and self-fund PTO. Rather than hiding that inside a bigger salary number, I show it explicitly. Benefits are typically **30–35%** of compensation, so I'll just use the midpoint of **32.5%** because that seems fair: **32.5% × $109,045 = $35,440/year ($2,953/month)**
+In a normal job, an employer pays for **benefits** like health insurance, retirement match, paid time off, disability and life insurance, professional liability, bookkeeping/tax prep, and admin overhead. As a solo operator, I pay those at “retail” and self-fund PTO. Rather than hiding that inside a bigger salary number, I show it explicitly. Benefits are typically **30–35%** of compensation, so I'll just use the midpoint of **32.5%** because that seems fair: **32.51% × $108,953 = $35,421/year ($2,952/month)**
 
-And then there’s the **self-employment tax**. A regular employer pays payroll taxes on top of salary, but when you’re self-employed, you pay both sides (Social Security + Medicare). I don’t include income taxes because they’re household-specific and not a business operating cost anyway. Self-employment tax is **15.3%** applied to **92.35%** of net earnings: **0.9235 × $109,045 × 15.3% = $15,408/year ($1,284/month)**
+And then there’s the **self-employment tax**. A regular employer pays payroll taxes on top of salary, but when you’re self-employed, you pay both sides (Social Security + Medicare). I don’t include income taxes because they’re household-specific and not a business operating cost anyway. Self-employment tax is **15.3%** applied to **92.35%** of net earnings: **0.9235 × $109,045 × 15.3% = $15,394/year ($1,283/month)**
 
-_Total Living Wage: **$159,892/year ($13,324/month)**_
+_Total Living Wage: **$159,768/year ($13,314/month)**_
 
 ---
 
 <strong id="operating-reserve">OPERATING RESERVE</strong>: \
 Because reader support is voluntary and variable, a small operating reserve is required to smooth out cash-flow gaps, cover unexpected bills, and account for the general unknown risk associated with running a small business that "sells" a free product. Again, I'd rather publish this explicitly than bury the volatility inside “labor.” The suggested range is **10–15%**, so I'll use the midpoint of **12.5%**.
 
-_Total Operating Reserve: **$25,168/year ($2,097/month)**_
+_Total Operating Reserve: **$33,434/year ($2,786/month)**_
 
 ---
 
 ***TOTAL ALL-IN COST TO RUN WTFJHT***:
-1. Operating costs: **$41,448/year ($3,454/month)** 
-2. Living wage: **$159,892/year ($13,324/month)** 
-3. Operating Reserve: **$25,168/year ($2,097/month)**
+1. Operating costs: **$107,705/year ($8,975/month)**
+2. Living wage: **$159,768/year ($13,314/month)**
+3. Operating Reserve: **$33,434/year ($2,786/month)**
 
-<strong id="grand-total-226-508-year-18-876-mont">GRAND TOTAL: $226,508/year ($18,876/month)</strong>
+<strong id="grand-total">GRAND TOTAL: $300,907/year ($25,076/month)</strong>
 
 ---
 

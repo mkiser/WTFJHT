@@ -1,6 +1,6 @@
 ---
 title: The WTFJHT Bookshelf
-description: Books for readers trying to stay oriented without becoming numb.
+description: 'Books that explain how we got here: democracy, climate, and an economy that feels broken. For normal people trying to make the news make sense.'
 permalink: /bookshelf/
 layout: page
 show_title: false
@@ -11,13 +11,13 @@ image: "/uploads/og-image.jpg"
 {% assign books = shelf.books %}
 <div class="bookshelf bookshelf--{{ shelf.covers }}">
 
-<h1 class="page-title">The WTFJHT Bookshelf</h1>
+<h1 class="page-title">The WTFJHT Bookshelf.</h1>
 
-<p class="lead">Books for people trying to make sense of the mess without giving up.</p>
+<p class="lead">I cover what happened today. These books cover how we got here and what we might do about it.</p>
 
 <section class="shelf" id="start-here">
-  <h2 class="shelf__title">Start here</h2>
-  <p class="shelf__intro">Not sure where to begin? Pick the question that feels closest to what you’re trying to understand.</p>
+  <h2 class="shelf__title">Start here.</h2>
+  <p class="shelf__intro">Not sure where to start? Pick the question closest to what’s bugging you. Each one comes with a first pick and a few more worth a look.</p>
   <div class="wayfinder">
     <ul class="wayfinder__list" role="list">
       {% for p in shelf.pathways %}
@@ -59,11 +59,11 @@ image: "/uploads/og-image.jpg"
   <p class="bookshelf__updated">{{ books.size }} books · Updated {{ shelf.updated | date: "%B %-d, %Y" }}</p>
 </nav>
 
-<!-- <p>WTFJHT is built around a simple daily job: helping readers understand what happened, why it matters, and how today’s news fits into larger patterns. This bookshelf extends that work beyond the daily briefing. These books look at the systems behind the headlines: democratic breakdown, authoritarianism, climate change, inequality, housing, public capacity, political economy, persuasion, information, and civic repair.</p>
+{% comment %}<p>WTFJHT is built around a simple daily job: helping readers understand what happened, why it matters, and how today’s news fits into larger patterns. This bookshelf extends that work beyond the daily briefing. These books look at the systems behind the headlines: democratic breakdown, authoritarianism, climate change, inequality, housing, public capacity, political economy, persuasion, information, and civic repair.</p>
 
 <p>The point is not to read everything. The point is to find the next useful book.</p>
 
- -->
+{% endcomment %}
 
 {% assign cutoff = site.time | date: '%s' | minus: 7776000 %}
 {% assign fresh = "" | split: "" %}
@@ -80,13 +80,13 @@ image: "/uploads/og-image.jpg"
 {% for s in shelf.shelves %}
 <section class="shelf" id="{{ s.slug }}">
   <h2 class="shelf__title">{{ s.title }}</h2>
-  <p class="shelf__intro">{{ s.intro }}</p>
+  {% if s.intro and s.intro != '' %}<p class="shelf__intro">{{ s.intro }}</p>{% endif %}
   {% assign on_shelf = books | where: "shelf", s.slug %}
   {% for b in on_shelf %}{% include book-entry.html book=b %}{% endfor %}
   {% if shelf.labels.back_to_index and shelf.labels.back_to_index != '' %}<p class="shelf__back"><a href="#bookshelf-index">{{ shelf.labels.back_to_index }}</a></p>{% endif %}
 </section>
 {% endfor %}
 
-<p class="bookshelf__disclosure">Some links on this page are affiliate links. If you buy through them, WTFJHT earns a small commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. Every book also links to your library.</p>
+<p class="bookshelf__disclosure">Some links on this page are affiliate links. If you buy through one, WTFJHT (which is just me) earns a small commission at no extra cost to you. As an Amazon Associate I earn from qualifying purchases. I’m also a Bookshop.org affiliate, and Bookshop shares a cut of every sale with independent bookstores. Every book also links to your library, if you’d rather borrow it.</p>
 
 </div>

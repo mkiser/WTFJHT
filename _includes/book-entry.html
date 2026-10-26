@@ -10,7 +10,7 @@
     <h3 class="book__title"><em id="{{ b.slug }}">{{ b.title }}</em>{% if b.subtitle != '' %}<span class="book__subtitle">: {{ b.subtitle }}</span>{% endif %}</h3>
     <p class="book__byline">{{ b.authors | join: ", " }}{% if b.year %} · {{ b.year }}{% endif %}</p>
     {% if b.one_sentence and b.one_sentence != '' %}<p class="book__sentence">{{ b.one_sentence }}</p>{% endif %}
-    <p class="book__why">{{ b.why }}</p>
+    {% if b.why and b.why != '' %}<p class="book__why">{{ b.why }}</p>{% endif %}
     <dl class="book__meta">
       {% if b.fans_of.size > 0 %}<div><dt>For fans of</dt><dd>{{ b.fans_of | join: ", " }}</dd></div>{% endif %}
       {% if b.try_next.size > 0 or b.try_next_elsewhere.size > 0 %}<div><dt>Try next</dt><dd>{% for s in b.try_next %}{% assign n = site.data.bookshelf.books | where: "slug", s | first %}<a href="#{{ s }}"><em>{{ n.title }}</em></a>{% unless forloop.last and b.try_next_elsewhere.size == 0 %}, {% endunless %}{% endfor %}{% for t in b.try_next_elsewhere %}<em>{{ t }}</em>{% unless forloop.last %}, {% endunless %}{% endfor %}</dd></div>{% endif %}

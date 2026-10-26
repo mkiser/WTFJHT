@@ -263,7 +263,7 @@
               <li><a href="{{ site.url }}{{ site.baseurl }}/subscribe/">Newsletter</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/do-something/">Do Something.</a></li>
               <li><a href="https://currentstatus.io/" target="_blank" rel="noopener">Current Status</a></li>
-              <li><a href="https://www.amazon.com/shop/matt_kiser?listId=MX8CHE4TE8JY" target="_blank" rel="noopener">Recommended Books</a></li>
+              <li><a href="{{ site.url }}{{ site.baseurl }}/bookshelf/">Recommended Books</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/big-grid/">The Big Grid.™</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/big-board/">The Big Board.™</a></li>
               <li><a href="{{ site.url }}{{ site.baseurl }}/big-dumb-dashboard/">The Big Dumb Dashboard.™</a></li>
@@ -383,7 +383,12 @@
               truncate: "36",
               icon: '\u00a7'
             };
-            anchors.add('.page > p > strong, .page > p > small > strong, .page h3 > em, .membership-faq p > strong');
+            document.querySelectorAll('.page > p > strong, .page > p > small > strong, .membership-faq p > strong').forEach(function (s) {
+              var n = s.previousSibling;
+              while (n && !n.textContent.trim()) n = n.previousSibling;
+              if (!n) s.classList.add('lead-in');
+            });
+            anchors.add('.page > p > strong.lead-in, .page > p > small > strong.lead-in, .page h3 > em, .membership-faq p > strong.lead-in');
             anchors.remove('.tios, .masthead-title, li.header, .historical-posts, .historical-posts__title, footer, footer *');
 
             document.addEventListener('click', function (e) {

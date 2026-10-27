@@ -1,6 +1,12 @@
 ---
 title: Day 2106
 date: 2026-10-26 15:42:42 -07:00
+tags:
+- "justice-department"
+- "judiciary"
+- "elections"
+- "congress"
+- "foreign-policy"
 description: '"An active participant."'
 image: "/uploads/day2106trump-4f6cb4.jpg"
 todayInOneSentence: House Judiciary Democrats called for an independent special counsel

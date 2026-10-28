@@ -1,6 +1,12 @@
 ---
 title: Day 2107
 date: 2026-10-27 16:25:43 -07:00
+tags:
+- "voting-rights"
+- "elections"
+- "midterm-election"
+- "immigration"
+- "justice-department"
 description: '"Claimed emergency."'
 image: "/uploads/day2107trump-873daa.jpg"
 todayInOneSentence: 'Trump offered $1 million for voter fraud tips that lead to an

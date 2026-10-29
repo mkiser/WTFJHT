@@ -1,6 +1,11 @@
 ---
 title: Day 2108
 date: 2026-10-28 13:25:10 -07:00
+tags:
+- "iran"
+- "midterm-election"
+- "economy"
+- "climate"
 description: '"Expensive and unnecessary."'
 image: "/uploads/day2108trump-090b4b.jpg"
 todayInOneSentence: Trump's war with Iran has cost $47.1 billion so far – up $3.5

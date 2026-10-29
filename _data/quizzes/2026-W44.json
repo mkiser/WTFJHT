@@ -1,0 +1,141 @@
+{
+  "id": "2026-W44",
+  "week_label": "Oct 26 – Oct 29, 2026",
+  "status": "published",
+  "editions": [
+    2109,
+    2108,
+    2107,
+    2106
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "How much did Trump offer for voter-fraud tips that lead to an arrest and conviction?",
+      "options": [
+        "$1 million",
+        "$5 million",
+        "$10 million",
+        "$500,000"
+      ],
+      "correct": 0,
+      "explanation": "Trump offered $1 million for qualifying tips involving past elections or the 2026 midterms, but did not say where the money would come from.",
+      "source_day": 2107,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/27/day-2107/",
+      "difficulty": "easy",
+      "type": "numbers"
+    },
+    {
+      "number": 2,
+      "question": "Who has the authority to appoint the special counsel sought by House Judiciary Democrats for an investigation of Trump’s ties to Jeffrey Epstein?",
+      "options": [
+        "The House speaker",
+        "The FBI director",
+        "The chief justice of the United States",
+        "The attorney general"
+      ],
+      "correct": 3,
+      "explanation": "Only the attorney general can appoint a special counsel. House Judiciary Democrats called for one to investigate Trump’s Epstein ties and allegations of a Justice Department cover-up.",
+      "source_day": 2106,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/26/day-2106/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 3,
+      "question": "What did Trump joke that his promised $5,000 checks could buy at Mar-a-Lago?",
+      "options": [
+        "A hamburger and maybe a small dessert",
+        "A steak dinner for two",
+        "One night in a guest suite",
+        "A round of golf and lunch"
+      ],
+      "correct": 0,
+      "explanation": "Trump joked that $5,000 would buy little more than “a hamburger and maybe a small dessert” at Mar-a-Lago, adding that the club was not for the price-conscious.",
+      "source_day": 2108,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/28/day-2108/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 4,
+      "question": "At what annual rate did the economy grow in the third quarter?",
+      "options": [
+        "2.2%",
+        "3.6%",
+        "3.4%",
+        "3.8%"
+      ],
+      "correct": 2,
+      "explanation": "The economy grew at a 3.4% annual rate, its fastest pace in a year and up from 2.2% in the spring.",
+      "source_day": 2109,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/29/day-2109/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 5,
+      "question": "What did a federal judge order after roughly 430 trees were removed from the East Potomac Golf Links with less than a day’s notice?",
+      "options": [
+        "The entire golf course had to reopen immediately",
+        "The renovation project could proceed without further court review",
+        "The Interior Department had to restore all 430 trees",
+        "Further tree cutting was blocked, with 10 business days’ notice required before major changes"
+      ],
+      "correct": 3,
+      "explanation": "The preliminary injunction stopped additional tree cutting and required 10 business days’ notice before the park could be closed or irreversibly altered.",
+      "source_day": 2107,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/27/day-2107/",
+      "difficulty": "medium",
+      "type": "sequence and consequence"
+    },
+    {
+      "number": 6,
+      "question": "How much had Trump’s war with Iran cost so far?",
+      "options": [
+        "$29 billion",
+        "$47.1 billion",
+        "$43.6 billion",
+        "$45 billion"
+      ],
+      "correct": 1,
+      "explanation": "The estimated cost reached $47.1 billion, an increase of $3.5 billion in roughly six weeks. About $29 billion was for replacing munitions.",
+      "source_day": 2108,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/28/day-2108/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 7,
+      "question": "What alleged scheme prompted the Justice Department to issue more than 40 grand jury subpoenas and record-preservation notices in Alaska’s Senate race?",
+      "options": [
+        "Falsifying Mary Peltola’s residency records to keep her on the ballot",
+        "Recruiting an independent candidate with the incumbent senator’s name to draw away votes",
+        "Hacking Alaska’s voter-registration database to change party affiliations",
+        "Discarding overseas military ballots before they could be counted"
+      ],
+      "correct": 1,
+      "explanation": "The investigation focused on claims that Democratic operatives helped recruit Dan J. Sullivan to draw votes from incumbent Republican Sen. Dan S. Sullivan.",
+      "source_day": 2109,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/29/day-2109/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "How did the average gasoline price during Trump’s second term compare with the average under Biden?",
+      "options": [
+        "$2.98 under Trump versus $4.29 under Biden",
+        "$3.471 under Trump versus $3.472 under Biden",
+        "$3.472 under Trump versus $3.471 under Biden",
+        "$4.29 under Trump versus $2.98 under Biden"
+      ],
+      "correct": 2,
+      "explanation": "Americans paid an average of $3.472 per gallon during Trump’s second term, compared with $3.471 under Biden—a difference of less than one cent.",
+      "source_day": 2106,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/10/26/day-2106/",
+      "difficulty": "hard",
+      "type": "numbers"
+    }
+  ]
+}

@@ -1,6 +1,11 @@
 ---
 title: Day 2109
 date: 2026-10-29 16:01:14 -07:00
+tags:
+- "justice-department"
+- "elections"
+- "subpoena"
+- "economy"
 description: '"See what happens."'
 image: "/uploads/day2109trump-9027dc.jpg"
 todayInOneSentence: Alaska Gov. Mike Dunleavy ordered an investigation into whether

@@ -1,10 +1,10 @@
 {
   "id": "lwiwtf-beta-feedback-2026",
-  "title": "Last Week in WTF — Beta Feedback",
-  "intro": "Thanks for testing Last Week in WTF. I'm interested in what worked, what didn't, and whether it was, you know, useful.",
+  "title": "\"Last Week in WTF\" Feedback",
+  "intro": "I'm interested in what worked, what didn't, and whether this weekly recap was, you know, useful.",
   "submit_label": "Send feedback",
   "thanks_title": "",
-  "thanks_body": "Thanks for helping me figure out whether Last Week in WTF is worth doing. ",
+  "thanks_body": "Thank you! Your feedback helps shape the experience. ",
   "sections": [
     {
       "id": "use",

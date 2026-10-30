@@ -1,6 +1,6 @@
 ---
 layout: survey
-title: "\"Last Week in WTF\" Feedback"
+title: "Last Week in WTF feedback"
 permalink: /survey/lwiwtf-beta-feedback-2026/
 sitemap: false
 noindex: true

@@ -38,6 +38,20 @@ editorsNote: |-
 
 ---
 
+### ⏰ Dept. of Since I’ve Been Gone.
+
+*What just happened since my last update.*
+
+1. **A federal judge ordered the Trump administration to stop trying to "threaten, intimidate or coerce" election officials** into removing voters from rolls, withholding or segregating ballots, or stopping vote counts based on allegations of noncitizen voting. Judge Trina Thompson found that the administration likely violated federal voter-intimidation protections, warning that its actions could have the effect of "interfering with election administration and disenfranchising lawful voters." The Justice Department had threatened election officials with prosecution and issued grand jury subpoenas to Los Angeles County election workers as part of a criminal investigation into suspected noncitizen voting. ([Politico](https://www.politico.com/news/2026/10/31/justice-department-election-officials-threats-ruling) / [New York Times](https://www.nytimes.com/2026/10/30/us/elections/california-unions-lawsuit-justice-department-election-immigrants.html) / [CNN](https://www.cnn.com/2026/10/30/politics/emergency-order-halts-doj-pressure-campaign-election-officials) / [CBS News](https://www.cbsnews.com/news/judge-orders-doj-stop-threaten-intimidate-california-election-officials/) / [Axios](https://www.axios.com/2026/10/31/doj-threats-election-workers-midterms))
+
+2. **A federal appeals court – again – rejected the Trump administration's effort to set aside ballots from roughly 20,000 California voters it claims may be noncitizens**. In a 2-1 ruling, the court warned that separating the ballots could have "potentially catastrophic effects on the entire system" and risk disenfranchising eligible voters. ([New York Times](https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html) / [NBC News](https://www.nbcnews.com/politics/trump-administration/appeals-court-rejects-justice-department-noncitizen-ballots-rcna606604) / [CBS News](https://www.cbsnews.com/news/california-justice-department-ballots-appeals-court/) / [Axios](https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court))
+
+3. **An ICE agent was indicted by a Texas grand jury for aggravated assault with a deadly weapon**. Mario Alberto Morales allegedly "aggressively steered his vehicle" into Parra Hernandez, who suffered a broken leg. Morales faces up to 20 years in prison if convicted. ([Wall Street Journal](https://www.wsj.com/us-news/ice-officer-indicted-after-allegedly-striking-fleeing-man-with-vehicle-80d6dba9) / [CBS News](https://www.cbsnews.com/news/ice-officer-indicted-felony-texas-hit-man-vehicle/) / [CNN](https://www.cnn.com/2026/10/30/us/ice-officer-charged-houston) / [NBC News](https://www.nbcnews.com/news/us-news/ice-agent-indicted-striking-injuring-immigrant-vehicle-houston-rcna606370))
+
+4. **A federal judge opened an investigation into whether the Trump administration misled the court about plans to close and remake Washington's East Potomac golf course**. U.S. District Judge Ana Reyes said they'll investigate whether Justice Department lawyers and administration officials withheld information, made false statements, or acted in "bad faith" while denying plans to redevelop the public course. ([Washington Post](https://www.washingtonpost.com/sports/2026/10/30/judge-orders-inquiry-into-whether-doj-lawyers-misled-court-trumps-golf-plan/) / [Politico](https://www.politico.com/news/2026/10/30/misconduct-investigation-trump-golf-course-hearing) / [CNN](https://www.cnn.com/2026/10/30/politics/dc-golf-course-trump-justice-woodward-reyes) / [NPR](https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj))
+
+---
+
 ### 📊 The Dept. of Numbers.
 
 *A few figures that caught my eye this week.*

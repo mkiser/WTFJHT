@@ -53,7 +53,7 @@ table {
 
 td,
 th {
-  padding: .25rem .5rem;
+  padding: $brand-spacing-table-cell-inset;
   border: 1px solid $border-color;
 }
 

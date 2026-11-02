@@ -14,22 +14,22 @@
 
   // grounds & rules
   --c-bg: #fff;
-  --c-surface: #f9f9f9;
-  --c-line: #e5e5e5;
+  --c-surface: #{$brand-colors-surface};
+  --c-line: #{$brand-colors-line};
   --c-line-light: #eee;
   --c-line-strong: #ccc;
 
   // text
-  --c-ink: #1a1a1a;
-  --c-ink-strong: #313131;
+  --c-ink: #{$brand-colors-ink};
+  --c-ink-strong: #{$brand-colors-strong};
   --c-ink-medium: #515151;
-  --c-meta: #767676;          // 4.54:1 on white
-  --c-meta-surface: #6b6b6b;  // 5.06:1 on #f9f9f9
+  --c-meta: #{$brand-colors-meta};          // 4.54:1 on white
+  --c-meta-surface: #{$brand-colors-meta-surface};  // 5.06:1 on #f9f9f9
 
   // brand red family (anchored on the mark)
-  --c-link: #e0162b;          // the mark's crimson (OKLCH H24.8)
+  --c-link: #{$brand-colors-link};          // the mark's crimson (OKLCH H24.8)
   --c-link-hover: #b50f22;
-  --c-accent: #b50f22;
+  --c-accent: #{$brand-colors-accent};
   --c-danger: #b50f22;
   --c-danger-deep: #96101d;
   --c-red-wash: #f6e9e8;  // blush — crimson hue 24 at half chroma (light reds are engineered, never alpha-made)
@@ -51,7 +51,7 @@
   --c-focus: #e0162b;
 
   // functional overlays (alpha allowed here — never for light reds)
-  --c-link-underline: rgba(224, 22, 43, 0.4);
+  --c-link-underline: #{$brand-colors-link-underline};
   --c-away-wash: rgba(49, 49, 49, 0.03);
 
   // the tile — the system's only rounding: radius = 0.21 x side

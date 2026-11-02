@@ -7,9 +7,9 @@
 article.post div.post-content > p:not(.tios) {
   font-family: $root-serif-font-family;
   line-height: $line-height-prose;
-  font-weight: 400;
+  font-weight: $brand-type-content-weight;
   font-style: normal;
-  font-size: $font-size-xl;
+  font-size: $brand-type-prose-size;
   text-wrap: pretty; // no orphans/widows in the daily-edition prose
 
   strong {
@@ -142,7 +142,7 @@ article.post div.post-content > p:not(.tios) {
 .page,
 .post {
   margin: 20px auto 0 auto;
-  padding: 1rem;
+  padding: $brand-spacing-body-gutter;
   /* border-top: 1px solid $gray-2; */
 
   div.away-mode {
@@ -155,14 +155,14 @@ article.post div.post-content > p:not(.tios) {
   ul {
     border: none;
     border-left: 2px solid $border-light;
-    padding: 0.25em 0 0.25em 1.25em;
-    margin: 0 0 2em 1em;
+    padding: 0.25em 0 0.25em $brand-spacing-list-rail-inset;
+    margin: 0 0 2em 0;
     background: none;
-    line-height: 1.5;
+    line-height: $brand-type-ul-line-height;
     color: $gray-4;
   }
   ol {
-    padding: 0 0 0 1.5em;
+    padding: 0 0 0 $brand-spacing-ordered-list-indent;
     margin: 0 0 1em 0;
     background: none;
     line-height: 1.5;
@@ -194,11 +194,11 @@ article.post div.post-content > p:not(.tios) {
   }
 
   li + li {
-    margin-top: 1.25em;
+    margin-top: $brand-spacing-list-item-gap;
   }
 
   ol li + li {
-    margin-top: 1.5em;
+    margin-top: $brand-spacing-ordered-list-item-gap;
   }
 
   .jekyll-twitter-plugin {
@@ -281,8 +281,16 @@ article.post div.post-content > p:not(.tios) {
       font-weight: 700;
       line-height: 1.25;
       margin-top: 1rem;
-      margin-bottom: 0.5rem;
+      margin-bottom: $brand-spacing-heading-below;
     }
+  }
+
+  .post-content > hr {
+    margin: $brand-spacing-rule-gap 0;
+  }
+
+  .post-content > ol + p {
+    margin-top: $brand-spacing-story-gap;
   }
 
   p {
@@ -294,11 +302,11 @@ article.post div.post-content > p:not(.tios) {
   }
 
   p + p {
-    margin-top: 2em;
+    margin-top: $brand-spacing-story-gap;
   }
 
   ul {
-    font-size: 0.9rem;    // aside list — secondary role: notables/related sit BELOW prose
+    font-size: $brand-type-ul-size;    // aside list — secondary role: notables/related sit BELOW prose
   }
 
   ol {
@@ -315,7 +323,7 @@ article.post div.post-content > p:not(.tios) {
   }
 
   blockquote {
-    font-size: 0.95em; // relative grammar — blockquotes ride their prose context
+    font-size: $brand-type-blockquote-size; // relative grammar — blockquotes ride their prose context
     margin: 0 0 1em 1rem;
 
     p {
@@ -328,16 +336,13 @@ article.post div.post-content > p:not(.tios) {
 .page {
   border-top: 0;
 
-  p + p {
-    margin-top: 2em;
-  }
-
   // Pages read at 1rem body — lists match it (the 1.05rem step is POST-only:
   // one step under 1.1rem Georgia prose; on pages it inverted the ramp,
   // rendering lead-ins smaller than their lists).
   ul,
   ol {
     font-size: 1em;
+    margin-bottom: $brand-spacing-prose-gap;
   }
 
   li {
@@ -355,7 +360,7 @@ article.post div.post-content > p:not(.tios) {
     font-size: 1em;
     text-wrap: pretty;
     line-height: $line-height-loose;
-    margin-bottom: 1.25em;
+    margin-bottom: $brand-spacing-prose-gap;
 
     strong {
       color: $text-strong;
@@ -1043,7 +1048,7 @@ div.topic-date {
 
 // measure floor >=42 chars at 375px
 @media (max-width: 425px) {
-  .post, .page { padding-left: 0.75rem; padding-right: 0.75rem; }
+  .post, .page { padding-left: $brand-spacing-phone-gutter; padding-right: $brand-spacing-phone-gutter; }
 }
 
 // AnchorJS glyph is FURNITURE: never inherits bold/italic context, never

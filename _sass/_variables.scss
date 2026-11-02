@@ -6,8 +6,8 @@ $gray-5: var(--c-ink-strong);
 
 $red: var(--c-link);        // mirror of --c-link · the mark's crimson (OKLCH H24.8)
 
-$root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-$root-serif-font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+$root-font-family: $brand-fonts-sans;
+$root-serif-font-family: $brand-fonts-serif;
 // root font size: the rem clamp in _base
 $root-line-height: 1.5;
 
@@ -38,7 +38,7 @@ $bg-darker: #222;         // Darker UI backgrounds (pagination, nav overlays)
 
 $large-breakpoint: 38em;
 
-$code-font-family: Menlo, Monaco, "Courier New", monospace;
+$code-font-family: $brand-fonts-mono;
 $code-color: #9d4450;  // WCAG AA (~5.2:1 on #f9f9f9)
 
 $small-breakpoint: 425px;
@@ -64,7 +64,7 @@ $line-height-tight:   1.2;
 $line-height-snug:    1.4;
 $line-height-normal:  1.5;
 $line-height-relaxed: 1.55;
-$line-height-prose:   1.62;  // reading leading — opened up for sustained Georgia reading
+$line-height-prose:   $brand-type-prose-line-height;  // reading leading — opened up for sustained Georgia reading
 $line-height-loose:   1.65;
 
 // Primitive: Transition
@@ -95,7 +95,7 @@ $serif-font-family: unquote("Georgia, 'Times New Roman', Times, serif");
 
 // Semantic: Link underline (unquote preserves leading zeros in compiled CSS)
 $link-underline-thickness: unquote("0.05em");
-$link-underline-offset:    unquote("0.2em");
+$link-underline-offset:    $brand-spacing-link-underline-offset;
 
 // Mixin: Link underline (used 4x in _posts.scss)
 @mixin link-underline {
@@ -109,48 +109,11 @@ $link-underline-offset:    unquote("0.2em");
   }
 }
 
-// Component tokens (shared with newsletter via PasteUp)
 $blockquote-bg: var(--c-surface);
 $blockquote-border-width: 4px;
 $blockquote-border-color: $border-light;
-$blockquote-padding: 1rem;                                                   
-$list-bg: $gray-1;                                                                                                                                 
-$list-padding: 0 20px;                                                           
-$content-font-family: $root-font-family;
-$content-line-height: 135%;
-$content-color: $gray-4;
-$content-max-image-width: 580px;
-$table-border-color: var(--c-line-strong);
-$figcaption-color: #8e8e8e;
+$blockquote-padding: $brand-spacing-blockquote-padding;                                                   
 
 // Component tokens: Post paragraphs
 $post-p-font-family: $root-serif-font-family;
-$post-p-font-size: $font-size-xl;
-$post-p-font-weight: 400;
-$post-p-line-height: $line-height-prose;
-$p-margin-top: 2em;
 
-// Component tokens: UL (sub-stories)
-$ul-border-width: 2px;
-$ul-padding: 0.25em 0 0.25em 1.25em;
-$ul-margin: 0 0 2em 1em;
-$ul-font-size: $font-size-list;
-$ul-line-height: $line-height-relaxed;
-$ul-letter-spacing: $tracking-tight;
-
-// Component tokens: OL (Notables)
-$ol-padding: 0 0 0 1.5em;
-$ol-margin: 0 0 1em 0;
-$ol-font-size: $font-size-list;
-$ol-line-height: $line-height-relaxed;
-$ol-letter-spacing: $tracking-tight;
-
-// Component tokens: LI
-$li-line-height: $line-height-normal;
-$li-margin-top: 1.25em;
-$ol-li-margin-top: 1.5em;
-
-// Component tokens: Blockquote (additions to existing)
-$blockquote-margin: 0 0 1em 1rem;
-$blockquote-line-height: $line-height-normal;
-$blockquote-p-margin-bottom: 1rem;

@@ -1,33 +1,6 @@
-// Dear 2040 — the letters to 2040 (/dear-2040/).
-// Ported from the locked Option 3 v2b design. Every content rule is scoped to
-// the mount, .d2040, so it reaches nothing else on the site. The partial reads
-// only committed site variables and the runtime --c-* tokens.
-//
-// Hook-only names, rendered with no rule here: d40-countline, d40-sig,
-// d40-whatbody, is-visitor, is-own, is-gone, d40-numtext, d40-when,
-// d40-order, d40-showheld, lbl, and time.d40-time inside the stamp.
+.d2040-page { overflow-wrap: break-word; }
+.page .d2040 ul:not(.d40-notebody ul) { border: 0; background: none; }
 
-// ------------------------------------------------------------
-// The column (the site's .page/.post column, copied, plus the 4rem foot)
-// ------------------------------------------------------------
-.d2040-container {
-  max-width: $w-prose;
-  margin: 20px auto 0 auto;
-  padding: 1rem;
-  padding-bottom: 4rem;
-  overflow-wrap: break-word;
-}
-
-@media (max-width: $small-breakpoint) {
-  .d2040-container {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
-  }
-}
-
-// ------------------------------------------------------------
-// Tokens
-// ------------------------------------------------------------
 .d2040 {
   --d40-ink: var(--c-ink);
   --d40-stamp: var(--c-meta);
@@ -48,8 +21,6 @@
   --d40-gutter: 1rem;
   --d40-write-pad: 1.5rem;
 
-  // Papers: six tints, scrambled per letter by data-paper="0".."5" on the
-  // sheet. 0 is bond, the plain sheet. Edges sit at the line-strong stop.
   --d40-paper-0: var(--c-bg);
   --d40-edge-0: var(--c-line);
   --d40-paper-1: #f9f2e5;
@@ -62,7 +33,6 @@
   --d40-edge-4: #d2cbc4;
   --d40-paper-5: #fcf7eb;
   --d40-edge-5: #d5cbb5;
-  // Meta on a tinted ground wears meta-surface (4.62:1 or better by day).
   --d40-paper-stamp: var(--c-meta-surface);
 }
 
@@ -86,13 +56,8 @@
   }
 }
 
-// The views toggle nodes with the hidden attribute; it must beat every
-// display rule below.
 .d2040 [hidden] { display: none !important; }
 
-// ------------------------------------------------------------
-// Focus and motion
-// ------------------------------------------------------------
 .d2040 .jaq-btn:focus:not(:focus-visible) { outline: none; }
 .d2040 :focus-visible {
   outline: 2px solid var(--d40-focus);
@@ -111,61 +76,16 @@
   }
 }
 
-// ------------------------------------------------------------
-// Roles
-// ------------------------------------------------------------
 .d2040 .d40-preview { margin: 0 0 1rem; font-size: $font-size-base; line-height: $line-height-normal; color: var(--d40-notice-ink); }
 
-.d2040 .d40-h1 { margin: 0; font-size: 2.5rem; line-height: 1.18; font-weight: 700; color: var(--c-ink-strong); text-wrap: balance; }
-.d2040 .d40-h1.is-result { margin-top: 1.5rem; }
-.d2040 .d40-h2 { margin: 0.75rem 0 0; font-size: 1.65rem; line-height: 1.25; font-weight: 700; color: var(--c-ink-strong); text-wrap: balance; }
 .d2040 .d40-data { font-family: var(--d40-sans); font-size: $font-size-sm; line-height: $line-height-snug; color: var(--d40-stamp); font-weight: 400; }
-.d2040 .d40-prose p,
-.d2040 p.d40-prose { margin: 0; font-family: var(--d40-serif); font-size: $font-size-xl; line-height: $line-height-prose; color: var(--d40-ink); text-wrap: pretty; }
-.d2040 .d40-prose p + p { margin-top: 1rem; }
-.d2040 .d40-sec { margin: 0; font-size: $font-size-base; line-height: $line-height-normal; color: var(--c-ink-medium); text-wrap: pretty; }
-.d2040 .d40-sec.is-ink { color: var(--c-ink); }
-.d2040 .d40-body1 { margin: 0; font-size: 1rem; line-height: $line-height-normal; color: var(--c-ink-medium); }
-.d2040 .d40-body1.is-ink { color: var(--c-ink); }
-.d2040 .d40-missing { margin-top: 0.75rem; color: var(--c-ink); }
 .d2040 .d40-row { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.5rem; }
-.d2040 .d40-numwrap { margin-top: 1.5rem; }
 
-// ------------------------------------------------------------
-// Buttons: one ink square per view
-// ------------------------------------------------------------
-.d2040 .jaq-btn {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.8em 1.75em;
-  margin: 0;
-  font-family: var(--d40-sans);
-  font-size: 1rem;
-  font-weight: 600;
-  line-height: normal;
-  color: #fff;
-  background: #111;
-  border: 1px solid #111;
-  border-radius: 0;
-  cursor: pointer;
-  text-decoration: none;
-  transition: background-color $transition-fast;
-}
-
-.d2040 .jaq-btn:not([aria-disabled="true"]):hover { background: #fff; color: #111; }
-[data-theme="night"] .d2040 .jaq-btn { background: #fff; color: #111; border-color: #fff; }
-[data-theme="night"] .d2040 .jaq-btn:not([aria-disabled="true"]):hover { background: #cfcfcf; border-color: #cfcfcf; }
-
-// Blocked: full paint in ink-medium with its own text color, never opacity.
 .d2040 .jaq-btn[aria-disabled="true"]:not([aria-busy="true"]) { background: var(--c-ink-medium); border-color: var(--c-ink-medium); color: #fff; cursor: not-allowed; }
 [data-theme="night"] .d2040 .jaq-btn[aria-disabled="true"]:not([aria-busy="true"]) { background: var(--c-ink-medium); border-color: var(--c-ink-medium); color: #111; }
 .d2040 .jaq-btn[aria-busy="true"] { cursor: progress; }
 .d2040 .jaq-btn:disabled { opacity: 1; }
 
-// ------------------------------------------------------------
-// Links and link-buttons
-// ------------------------------------------------------------
 .d2040 .d40-link {
   display: inline-flex;
   align-items: center;
@@ -178,8 +98,6 @@
   cursor: pointer;
   text-align: left;
   font: inherit;
-  font-size: 1rem;
-  line-height: $line-height-snug;
   color: var(--c-link);
   text-decoration: underline;
   text-decoration-color: var(--c-link-underline);
@@ -191,28 +109,8 @@
 .d2040 .d40-link:hover { color: var(--c-link-hover); text-decoration-color: currentColor; }
 .d2040 .d40-quiet { color: var(--c-ink-medium); text-decoration-color: var(--c-meta); }
 .d2040 .d40-quiet:hover { color: var(--c-link); text-decoration-color: var(--c-link); }
-.d2040 .d40-link.is-small { font-size: $font-size-base; }
 .d2040 .d40-inl { color: var(--c-link); text-decoration: underline; text-decoration-color: var(--c-link-underline); text-decoration-thickness: $link-underline-thickness; text-underline-offset: $link-underline-offset; }
 .d2040 .d40-inl:hover { color: var(--c-link-hover); }
-
-// ------------------------------------------------------------
-// The sheet
-// ------------------------------------------------------------
-.d2040 .d40-num {
-  margin: 0;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-end;
-  min-height: 44px;
-  padding-bottom: 0.4rem;
-  font: 400 #{$font-size-sm}/#{$line-height-snug} var(--d40-sans);
-  color: var(--d40-stamp);
-}
-
-.d2040 h3.d40-num { padding-bottom: 0; align-items: center; font-size: $font-size-base; color: var(--c-ink-medium); }
-.d2040 .d40-numlink { display: inline-flex; align-items: center; min-height: 44px; color: var(--c-ink-medium); text-decoration: underline; text-decoration-color: var(--c-meta); text-underline-offset: $link-underline-offset; }
-.d2040 .d40-numlink:hover { color: var(--c-link); text-decoration-color: var(--c-link); }
-.d2040 .d40-yours { white-space: pre; font-weight: 600; color: var(--c-ink-strong); }
 
 .d2040 .d40-sheet { background: var(--c-bg); border: 1px solid var(--c-line); padding: 1.5em 1.25em; color: var(--d40-ink); overflow: hidden; }
 
@@ -234,15 +132,12 @@
   color: var(--d40-stamp);
 }
 
-// The dot-run: each part after the first opens with its separator, hung into
-// the clipped left margin, so a separator never starts or ends a line.
 .d2040 .d40-runbox { overflow: hidden; }
 .d2040 .d40-run { display: block; margin-left: -0.9em; }
 .d2040 .d40-rs { display: inline-block; padding-left: 0.9em; }
 .d2040 .d40-rd { display: inline-block; width: 0.9em; margin-left: -0.9em; text-align: center; white-space: nowrap; }
 
 .d2040 .d40-foot { display: flex; flex-wrap: wrap; align-items: center; gap: 0 1.5rem; }
-.d2040 .d40-ownnote { margin: 0; min-height: 44px; display: flex; align-items: center; font-size: $font-size-base; color: var(--c-ink-medium); }
 .d2040 .d40-tomb { background: var(--d40-tomb-fill); padding: 1rem; display: flex; align-items: flex-start; transition: min-height 0s; }
 .d2040 .d40-tomb p { margin: 0; font-size: $font-size-sm; line-height: $line-height-snug; color: var(--d40-tomb-ink); }
 
@@ -252,51 +147,18 @@
   .d2040 .d40-sheet,
   .d2040 .d40-tomb { margin-inline: calc(-1 * var(--d40-gutter)); padding: 1.5rem 0.75rem 1.25rem; border-left-width: 0; border-right-width: 0; }
   .d2040 .d40-tomb { padding: 1rem 0.75rem; }
-  .d2040 .d40-item { border-top: 1px solid var(--c-line); }
-  .d2040 .d40-cards > .d40-item:first-child { border-top: 0; }
-  .d2040 .d40-item .d40-sheet { border-top-width: 0; border-bottom-width: 0; padding-top: 0.25rem; padding-bottom: 0; }
 }
 
-// ------------------------------------------------------------
-// S1 the note
-// ------------------------------------------------------------
 .d2040 .d40-dateline { margin: 0.75rem 0 0; }
-.d2040 .d40-statusp { margin: 0.25rem 0 0; }
-.d2040 .d40-h1 + .d40-statusp { margin-top: 0.75rem; }
-.d2040 .d40-countlink { display: inline-block; padding-block: 0.8rem; margin-block: -0.8rem; color: var(--c-ink-medium); text-decoration: underline; text-decoration-color: var(--c-meta); text-decoration-thickness: $link-underline-thickness; text-underline-offset: $link-underline-offset; transition: color $transition-fast; }
-.d2040 .d40-countlink:hover { color: var(--c-link); text-decoration-color: var(--c-link); }
 .d2040 .d40-jumprow { margin: 0.25rem 0 0; }
-.d2040 .d40-prose p.d40-dateline { margin: 2rem 0 0; font: 400 #{$font-size-sm}/#{$line-height-snug} var(--d40-sans); color: var(--d40-stamp); }
-.d2040 .d40-prose p.d40-dateline + p { margin-top: 0.5rem; }
-.d2040 .d40-notebody { margin-top: 2rem; }
-.d2040 .d40-cta { margin-top: 2.2rem; gap: 0.75rem 1.5rem; }
-.d2040 .d40-cta > .d40-pubnote { flex: 0 0 100%; margin: 0; }
+.page .d2040 .d40-notebody p.d40-sig { margin-bottom: 0; }
+.d2040 .d40-cta { margin-top: 2.2rem; gap: 0.75rem; }
+.page .d2040 .d40-cta > p { flex: 0 0 100%; margin: 0.25rem 0 0; }
 
-@media (min-width: $medium-breakpoint) {
-  .d2040 .d40-cta > .jaq-btn { order: 1; }
-  .d2040 .d40-cta > .d40-readlink { order: 2; }
-  .d2040 .d40-cta > .d40-pubnote { order: 3; }
-}
-
-.d2040 .d40-ownline { margin: 0.5rem 0 0; }
-.d2040 .d40-statusp .d40-countlink,
-.d2040 .d40-statusp + .d40-ownline .d40-inl { padding-block: calc(22px - 0.675rem); margin-block: calc(0.675rem - 22px); }
-.d2040 .d40-statusp:has(.d40-countlink) + .d40-ownline { margin-top: calc(52px - 1.35rem); }
-.d2040 .d40-statusp:has(.d40-countlink) + .d40-jumprow,
-.d2040 .d40-ownline + .d40-jumprow { margin-top: calc(30px - 0.675rem); }
 .d2040 .d40-pubnote { margin: 1rem 0 0; }
 .d2040 .d40-offline { margin: 0.75rem 0 0; display: grid; gap: 0.1rem; }
-.d2040 .d40-closedlink { margin-top: 1.25rem !important; }
-.d2040 .d40-prose p.d40-closedlink { font-family: var(--d40-sans); }
 
-// ------------------------------------------------------------
-// S2 the write card
-// ------------------------------------------------------------
-.d2040 .d40-daycue { margin: 0; }
-.d2040 .d40-cues { margin: 0.75rem 0 0; padding: 0.25em 0 0.25em 1em; list-style: none; border-left: 2px solid var(--c-line); font-size: $font-size-base; line-height: $line-height-normal; color: var(--c-ink-medium); }
-.d2040 .d40-cues li { margin: 0 0 0.4em; }
-.d2040 .d40-cues li:last-child { margin-bottom: 0; }
-.d2040 .d40-cuesum { margin: 0.75rem 0 0; }
+.page .d2040 p.d40-cues { font-style: italic; }
 .d2040 .d40-card { margin-top: 1rem; background: var(--d40-write-fill); border: 1px solid var(--d40-write-edge); padding: var(--d40-write-pad); cursor: text; }
 .d2040 .d40-card:focus-within { outline: 2px solid var(--d40-focus); outline-offset: 2px; }
 .d2040 .d40-card.is-over { border-color: var(--d40-error-edge); }
@@ -323,32 +185,27 @@
 .d2040 .d40-card:has(textarea[readonly]) { background: var(--c-bg); border-color: var(--c-line); cursor: default; }
 .d2040 .d40-card textarea[readonly] { cursor: default; }
 .d2040 .d40-turnline { margin: 0.75rem 0 0; }
-// The mock's 0.25rem offer margin loses to the link reset there; parity keeps 0.
 .d2040 .d40-link.d40-offer { margin-top: 0; }
 .d2040 .d40-locked { margin-top: 0.5rem; }
 .d2040 .d40-under { margin-top: 0.75rem; display: grid; gap: 0.25rem; }
-.d2040 .d40-err { margin: 0.75rem 0 0; padding: 1.25em; border: 1px solid var(--d40-error-edge); background: var(--d40-error-wash); color: var(--d40-error); font-size: 1rem; line-height: $line-height-normal; }
+.d2040 .d40-err { margin: 0.75rem 0 0; padding: 1.25em; border: 1px solid var(--d40-error-edge); background: var(--d40-error-wash); color: var(--d40-error); }
 .d2040 .d40-err:empty { padding: 0; margin: 0; border: 0; background: none; }
 .d2040 .d40-saved { margin: 0.5rem 0 0; font-size: $font-size-sm; line-height: $line-height-snug; color: var(--c-meta); min-height: 1.4em; }
 .d2040 .d40-counter { margin: 0.5em 0 0; font-size: $font-size-sm; color: var(--c-meta); }
 .d2040 .d40-counter.is-over { color: var(--c-danger-deep); }
 .d2040 .d40-commit { margin-top: 1.25rem; display: grid; gap: 0.75rem; }
 .d2040 .d40-confirm { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0.5rem; }
-.d2040 .d40-notice { margin: 0; font-size: 1rem; line-height: $line-height-normal; font-weight: 600; color: var(--c-ink-strong); }
+.d2040 .d40-notice { font-weight: 600; }
 .d2040 .d40-gate { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0.4rem; }
 .d2040 .d40-widget { display: flex; flex-wrap: wrap; align-items: center; gap: 0.6rem; width: unquote("min(100%, 18.75rem)"); max-width: 100%; min-height: 65px; padding: 0; border: 0; background: none; font-size: $font-size-base; color: var(--c-ink); }
 .d2040 .d40-widget:has(> input) { padding: 0 0.9rem; border: 1px solid var(--c-line-strong); background: var(--c-surface); }
 .d2040 .d40-widget input { width: 1.4rem; height: 1.4rem; margin: 0; accent-color: #111; }
 .d2040 .d40-widget small { margin-left: auto; font: 600 #{$font-size-xs}/1.25 var(--d40-sans); color: var(--c-meta-surface); text-transform: uppercase; letter-spacing: 0.06em; }
-.d2040 .d40-state { margin: 0; padding: 1.25em; background: var(--c-surface); font-size: 1rem; line-height: $line-height-normal; color: var(--c-ink-medium); }
+.d2040 .d40-state { margin: 0; padding: 1.25em; background: var(--c-surface); }
 .d2040 .d40-state:empty { display: none; }
 .d2040 .d40-state .d40-sec { font-weight: 400; }
 .d2040 .d40-fallback { display: block; width: 100%; min-height: 9em; margin-top: 0.5rem; padding: 0.65em 0.75em; border: 1px solid var(--c-line); border-radius: 0; background: var(--c-bg); color: var(--c-ink); font-family: var(--d40-sans); font-size: 1rem; line-height: $line-height-normal; field-sizing: content; resize: vertical; }
 
-// ------------------------------------------------------------
-// S3 It's in
-// ------------------------------------------------------------
-.d2040 p.d40-success { margin: 0.75rem 0 0; }
 .d2040 .d40-keep { margin-top: 1.25rem; }
 .d2040 .d40-sharing { margin: 2em 0 0; }
 .d2040 .d40-links { margin-top: 0.25rem; display: flex; flex-wrap: wrap; align-items: center; gap: 0.75em 1.5em; }
@@ -356,90 +213,30 @@
 .d2040 .d40-done { position: absolute; white-space: nowrap; font: 400 #{$font-size-base}/#{$line-height-normal} var(--d40-sans); color: var(--c-meta); pointer-events: none; }
 .d2040 .d40-done.is-right { left: 100%; top: 50%; margin-left: 0.5rem; transform: translateY(-50%); }
 .d2040 .d40-done.is-below { left: 0; top: calc(100% - 0.25rem); }
-.d2040 .d40-s3num .d40-num { font-size: 1rem; line-height: $line-height-normal; color: var(--c-ink-medium); }
 .d2040 .d40-what { margin-top: 2.5rem; }
-.d2040 .d40-what strong { color: var(--c-ink-strong); }
-.d2040 .d40-closing { margin-top: 2em !important; }
 .d2040 .d40-exit { margin-top: 1.25rem; }
-.d2040 .d40-ownline .d40-inl,
-.d2040 .d40-ctarow .d40-sec .d40-inl,
-.d2040 .d40-invite .d40-inl { display: inline-block; padding-block: 0.8rem; margin-block: -0.8rem; }
 
-// ------------------------------------------------------------
-// S4 a visitor's letter
-// ------------------------------------------------------------
 .d2040 .d40-share { margin-top: 0.5rem; }
 .d2040 .d40-context { margin-top: 2.5rem; display: grid; gap: 0.75rem; }
 .d2040 .d40-invite { margin-top: 2rem; display: grid; gap: 0.75rem; justify-items: start; }
 .d2040 .d40-report { margin-top: 2.5rem; }
-.d2040 .d40-report .d40-link { font-size: $font-size-base; color: var(--c-meta); text-decoration-color: var(--c-meta); }
+.d2040 .d40-report .d40-link { color: var(--c-meta); text-decoration-color: var(--c-meta); }
 .d2040 .d40-report .d40-link:hover { color: var(--c-link); }
 .d2040 .d40-loading { margin: 1rem 0 0; }
 
-// ------------------------------------------------------------
-// S5 the letters
-// ------------------------------------------------------------
-.d2040 .d40-lede { margin: 0.75rem 0 0 !important; }
-.d2040 .d40-tally { margin: 0.75rem 0 0; }
 .d2040 .d40-headrow { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.5rem; margin-top: 0.75rem; }
 .d2040 .d40-ctarow { flex: 0 1 auto; flex-wrap: nowrap; min-width: 0; min-height: 44px; }
 .d2040 .d40-ctarow > * { flex: none; }
-.d2040 .d40-ctarow > .d40-browse-btn { flex: 0 1 auto; min-width: 0; }
-.d2040 .d40-browse-btn { flex-wrap: wrap; align-items: baseline; align-content: center; column-gap: 0.5rem; font-size: $font-size-base; text-decoration: none; }
-.d2040 .d40-browse-btn .lbl { display: list-item; list-style: inside disclosure-closed; text-decoration: underline; text-decoration-color: var(--c-meta); text-underline-offset: $link-underline-offset; }
-.d2040 .d40-browse-btn[aria-expanded="true"] .lbl { list-style-type: disclosure-open; }
-.d2040 .d40-browse-btn:hover .lbl { text-decoration-color: var(--c-link); }
-.d2040 .d40-readout { display: block; min-width: 0; font: 400 #{$font-size-sm}/#{$line-height-snug} var(--d40-sans); color: var(--d40-stamp); text-decoration: none; }
-.d2040 .d40-browse { margin-top: 0.75rem; display: grid; gap: 0.75rem; }
-.d2040 .d40-fs { margin: 0; padding: 0; border: 0; min-width: 0; }
 
-.d2040 .d40-fs legend,
-.d2040 .d40-fs > label,
-.d2040 .d40-fs-lg { display: block; padding: 0; margin: 0 0 0.35em; font-family: var(--d40-sans); font-size: 1rem; font-weight: 600; color: var(--c-ink-strong); }
-.d2040 .d40-fs-lg { margin-bottom: 0; }
-
-.d2040 .d40-opts { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-.d2040 .d40-opt { position: relative; display: inline-flex; align-items: center; min-height: 44px; padding: 0 0.75rem 0 2.1rem; border: 1px solid var(--c-line-strong); background: none; color: var(--c-ink-medium); font-size: $font-size-base; line-height: $line-height-snug; cursor: pointer; transition: border-color 0.14s ease, color 0.14s ease; }
-.d2040 .d40-opt input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
-.d2040 .d40-opt:hover { border-color: var(--c-link); color: var(--c-link); }
-.d2040 .d40-opt:has(input:checked) { border-color: var(--c-ink-strong); color: var(--c-ink-strong); }
-.d2040 .d40-opt:has(input:focus-visible) { outline: 2px solid var(--c-focus); outline-offset: 2px; }
-.d2040 .d40-opt input:focus-visible { outline: none; }
-.d2040 .d40-opt::before { content: ""; position: absolute; left: 0.75rem; top: 50%; width: 0.95rem; height: 0.95rem; margin-top: -0.475rem; box-sizing: border-box; border: 1px solid var(--c-meta); border-radius: 50%; background: var(--c-bg); }
-.d2040 .d40-opt:has(input:checked)::before { border-color: var(--c-ink-strong); background: var(--c-ink-strong); }
-
-.d2040 .d40-daylist-slot { display: contents; }
-.d2040 .d40-daylist ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0 1.25rem; }
-.d2040 .d40-daylist li { margin: 0; display: inline-flex; align-items: center; }
-.d2040 .d40-dayjump { display: inline-flex; align-items: center; min-height: 44px; font-size: $font-size-base; line-height: $line-height-snug; color: var(--c-ink-medium); text-decoration: underline; text-decoration-color: var(--c-meta); text-underline-offset: $link-underline-offset; }
-.d2040 .d40-dayjump:hover { color: var(--c-link); text-decoration-color: var(--c-link); }
-.d2040 .d40-daycount { display: inline-block; font-size: $font-size-sm; color: var(--d40-stamp); }
-
-// The live row keeps a 44px height, so its shape holds while the text changes.
-// It wraps only when the text's 7rem floor and the hold control cannot share
-// one line, so a longer hold label never runs off a 320px screen.
 .d2040 .d40-live { flex: 1 1 17rem; margin: 0; min-height: 44px; display: flex; flex-wrap: wrap; align-items: center; column-gap: 1rem; }
 .d2040 .d40-live-text { flex: 1 1 0; min-width: 7rem; font-family: var(--d40-sans); font-size: $font-size-sm; font-weight: 400; line-height: $line-height-snug; color: var(--d40-live-text); }
 
-// Hold is the site checkbox (.jaq-check) at a 44px target.
-.d2040 .d40-hold { position: relative; display: block; flex: 0 1 auto; min-width: 0; min-height: 44px; margin: 0; padding: 0.5em 0 0.5em 1.9rem; font-size: $font-size-base; line-height: 1.45; color: var(--c-ink-medium); cursor: pointer; }
-.d2040 .d40-hold input { position: absolute; inset: 0; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: pointer; }
-.d2040 .d40-hold::before { content: ""; position: absolute; left: 0; top: 0.55em; width: 1.15rem; height: 1.15rem; box-sizing: border-box; border: 1px solid var(--c-meta); background: var(--c-bg); display: flex; align-items: center; justify-content: center; font-size: $font-size-md; font-weight: 700; line-height: 1; }
-.d2040 .d40-hold:hover::before { border-color: var(--c-ink-strong); }
-.d2040 .d40-hold:has(input:checked)::before { content: "\2713"; border-color: var(--c-ink-strong); background: var(--c-ink-strong); color: var(--c-bg); }
-.d2040 .d40-hold:has(input:focus-visible)::before { outline: 2px solid var(--d40-focus); outline-offset: 2px; }
-.d2040 .d40-hold input:focus-visible { outline: none; }
-.d2040 .d40-hold.is-reserved { visibility: hidden; }
-
-// Held arrivals dock in a fixed bottom bar; the page takes 6rem of bottom
-// padding only while it shows.
 .d2040 .jaq-btn.d40-banner { position: fixed; left: 1rem; right: 1rem; bottom: 1rem; z-index: 2; display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 0.25em 0.75em; max-width: $w-module; min-height: 44px; margin: 0 auto; padding: 0.6em 1em; border: 1px solid var(--c-ink-strong); background: var(--c-ink-strong); color: var(--c-bg); font-family: var(--d40-sans); font-size: 1rem; font-weight: 600; line-height: $line-height-snug; text-align: center; }
 .d2040 .jaq-btn.d40-banner.d40-banner:not([aria-disabled="true"]):hover { background: var(--c-ink-medium); border-color: var(--c-ink-medium); color: var(--c-bg); }
 .d2040 .jaq-btn.d40-banner[hidden] { display: none; }
 html:has(.d2040 .d40-banner:not([hidden])) { scroll-padding-bottom: 6rem; }
 body:has(.d2040 .d40-banner:not([hidden])) { padding-bottom: 6rem; }
 
-// Reflow: below 320px the CTA row wraps instead of running off the screen.
 @media (max-width: 319px) {
   .d2040 .d40-ctarow { flex-wrap: wrap; }
 }
@@ -448,16 +245,13 @@ body:has(.d2040 .d40-banner:not([hidden])) { padding-bottom: 6rem; }
 .d2040 .d40-days { margin: 0; }
 .d2040 .d40-day { margin-top: 2.2rem; }
 .d2040 .d40-day.is-first { margin-top: 0.75rem; }
-.d2040 .d40-dayh { display: block; margin: 0 0 0.5rem; padding: 0.6rem 0 0; border-top: 1px solid var(--c-line); font: 600 #{$font-size-2xl}/#{$line-height-snug} var(--d40-sans); color: var(--c-ink-strong); text-wrap: wrap; text-rendering: auto; }
+.d2040 .d40-dayh { padding-top: 0.6rem; border-top: 1px solid var(--c-line); }
 .d2040 .d40-dayd { display: block; }
 .d2040 .d40-daym { display: block; overflow: hidden; font: 400 #{$font-size-sm}/#{$line-height-snug} var(--d40-sans); color: var(--d40-stamp); }
 
-// The Nov 4 band opens like a day group, with its label in the day heading's
-// role. While the label is withheld, the band is its rule alone.
 .d2040 .d40-phase { margin-top: 2.2rem; padding-top: 0.6rem; border-top: 1px solid var(--c-line); }
 .d2040 .d40-phase:empty { padding-top: 0; }
 .d2040 .d40-phase:not(:has(.d40-phase-label)) { padding-top: 0; }
-.d2040 .d40-phase-label { margin: 0; font: 600 #{$font-size-2xl}/#{$line-height-snug} var(--d40-sans); color: var(--c-ink-strong); text-wrap: wrap; }
 
 .d2040 .d40-cards { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.65rem; }
 .d2040 .d40-cards > li { margin: 0; }
@@ -469,9 +263,6 @@ body:has(.d2040 .d40-banner:not([hidden])) { padding-bottom: 6rem; }
 .d2040 .d40-msg { margin: 1.5rem 0 0; display: grid; gap: 0.75rem; justify-items: start; }
 .d2040 .d40-empty { margin-top: 1.5rem; }
 
-// ------------------------------------------------------------
-// Keep a copy: a native dialog on the page ground, over a #222 backdrop
-// ------------------------------------------------------------
 .d2040 dialog.d40-dlg { width: 100%; max-width: unquote("min(#{$w-module}, calc(100% - 1.5rem))"); padding: 1em; background: var(--c-bg); border: 1px solid var(--c-line); color: var(--c-ink); }
 .d2040 dialog.d40-dlg[open] { display: grid; gap: 0.75rem; }
 .d2040 dialog.d40-dlg::backdrop { background: rgba($bg-darker, 0.8); }
@@ -492,3 +283,19 @@ body:has(.d2040 .d40-banner:not([hidden])) { padding-bottom: 6rem; }
 .d2040 .d40-dlg .d40-close:hover { color: var(--c-link); text-decoration-color: var(--c-link); }
 .d2040 .d40-dlg :focus-visible { outline: 2px solid var(--d40-focus); outline-offset: 2px; }
 .d2040 .d40-dlg-status { margin: 0; min-height: 1.5em; font-size: $font-size-base; line-height: $line-height-normal; color: var(--c-meta); }
+
+.d2040 .d40-num { display: none; }
+.d2040 .d40-tally { display: none; }
+.d2040 .d40-status { min-height: 1.5em; margin: 0; }
+.d2040 .jaq-btn.d40-banner.d40-showheld { top: 1rem; bottom: auto; left: 50%; right: auto; transform: translateX(-50%); width: auto; max-width: calc(100% - 2rem); border-radius: 999px; padding: 0.5em 1.25em; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); }
+body:has(.d2040 .d40-showheld:not([hidden])) { padding-bottom: 0; }
+html:has(.d2040 .d40-showheld:not([hidden])) { scroll-padding-bottom: 0; }
+.d2040 .d40-shareicon { display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; padding: 0; border: 0; background: none; color: var(--c-meta); cursor: pointer; }
+.d2040 .d40-shareicon:hover { color: var(--c-ink-strong); }
+.d2040 .d40-shareicon:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+.d2040 .d40-signoff { margin: 1rem 0 0; font-family: var(--d40-serif); font-size: $font-size-xl; line-height: $line-height-prose; color: var(--d40-ink); }
+.d2040 .d40-sheetfoot { display: flex; align-items: center; justify-content: space-between; gap: 1rem; margin-top: 1.25rem; }
+.d2040 .d40-sheetfoot .d40-stamp { margin: 0; }
+.d2040 .d40-sheetfoot .d40-shareicon { width: 36px; height: 36px; margin: -6px -8px -6px 0; }
+.page .d2040 a.d40-permalink { color: inherit; text-decoration: none; }
+.page .d2040 a.d40-permalink:hover, .page .d2040 a.d40-permalink:focus-visible { text-decoration: underline; }

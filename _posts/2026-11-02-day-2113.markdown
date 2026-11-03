@@ -1,6 +1,11 @@
 ---
 title: Day 2113
 date: 2026-11-02 15:34:57 -08:00
+tags:
+- "elections"
+- "midterm-election"
+- "congress"
+- "polling"
 description: '"Way too distracting."'
 image: "/uploads/day2113trump-bcdcb0.jpg"
 todayInOneSentence: 'About 50 million Americans have already cast their ballots in

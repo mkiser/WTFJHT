@@ -653,7 +653,7 @@
       midN.textContent = formatNumber(card.midterms);
       var midL = document.createElement('div');
       midL.className = 'carousel-card__l';
-      midL.textContent = 'days until the 2026 midterms';
+      midL.textContent = (card.midterms === 1 ? 'day' : 'days') + ' until the 2026 midterms';
       midBlock.appendChild(midN);
       midBlock.appendChild(midL);
       inner.appendChild(midBlock);
@@ -672,7 +672,7 @@
       presN.textContent = formatNumber(card.presidential);
       var presL = document.createElement('div');
       presL.className = 'carousel-card__l';
-      presL.textContent = 'days until the 2028 presidential election';
+      presL.textContent = (card.presidential === 1 ? 'day' : 'days') + ' until the 2028 presidential election';
       presBlock.appendChild(presN);
       presBlock.appendChild(presL);
       inner.appendChild(presBlock);

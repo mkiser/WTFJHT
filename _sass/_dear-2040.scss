@@ -497,3 +497,5 @@ html.d40-eased { transition: --d40-s1 90s linear, --d40-s2 90s linear, --d40-g 9
 @media print, (forced-colors: active) {
   :root .d2040[data-view="letter"] #d40-sheetwrap::before { animation: none; transform: none; box-shadow: none; }
 }
+.page .d2040 #d40-cta:not(:has(#d40-closeline))::after { content: ""; flex: 0 0 100%; height: 1.65rem; margin-top: 0.25rem; }
+.d2040 #d40-head:not(:has(.d40-closeline))::after { content: ""; flex: 0 0 100%; height: 1.225rem; margin-top: 0.6rem; }

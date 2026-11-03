@@ -499,3 +499,4 @@ html.d40-eased { transition: --d40-s1 90s linear, --d40-s2 90s linear, --d40-g 9
 }
 .page .d2040 #d40-cta:not(:has(#d40-closeline))::after { content: ""; flex: 0 0 100%; height: 1.65rem; margin-top: 0.25rem; }
 .d2040 #d40-head:not(:has(.d40-closeline))::after { content: ""; flex: 0 0 100%; height: 1.225rem; margin-top: 0.6rem; }
+.d2040[data-view="letters"], .d2040[data-view="letter"], .d2040[data-view="write"] { min-height: 100vh; min-height: 100svh; }

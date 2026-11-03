@@ -330,3 +330,4 @@ html:has(.d2040 .d40-showheld:not([hidden])) { scroll-padding-bottom: 0; }
 .page .d2040 a.d40-permalink { color: inherit; text-decoration: none; }
 .page .d2040 a.d40-permalink:hover, .page .d2040 a.d40-permalink:focus-visible { text-decoration: underline; }
 .d2040 .page-title a { color: inherit; }
+.d2040 .d40-count { color: var(--c-meta); font-size: 0.9rem; }

@@ -32,27 +32,24 @@ editorsNote: |-
 
 * **The 2026 midterm election is tomorrow**.
 
-* #### House forecasts.
+* #### 🏛️ House forecasts.
 
-* **Democrats win 94 times out of 100**. Republicans win 6 times out of 100. ([The Economist](https://www.economist.com/interactive/2026/us-midterms/prediction-model/house)) \
-**Democrats win 99 times out of 100**. Republicans win 1 time out of 100. ([FiftyPlusOne](https://fiftyplusone.news/forecast/house)) \
-**Democrats win 96 times out of 100**. Republicans
-win 4 times out of 100. ([Nate Silver](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model)) \
-**Democrats win 92 times out of 100**. Republicans win 8 times out of 100. ([Split Ticket](https://www.theargumentmag.com/i/202430030/house)) \
-**Democrats win 84 times out of 100**. Republicans win 16 times out of 100. ([Decision Desk HQ](https://votes.decisiondeskhq.com/forecast/2026/house)) \
-**Democrats win 94 times out of 100**. Republicans win 6 times out of 100. ([Election Betting Odds](https://electionbettingodds.com/House-Control-2026.html)) \
+* **Democrats win 94 times out of 100**. ([The Economist](https://www.economist.com/interactive/2026/us-midterms/prediction-model/house)) \
+**Democrats win 99 times out of 100**. ([FiftyPlusOne](https://fiftyplusone.news/forecast/house)) \
+**Democrats win 96 times out of 100**. ([Nate Silver](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model)) \
+**Democrats win 92 times out of 100**. ([Split Ticket](https://www.theargumentmag.com/i/202430030/house)) \
+**Democrats win 84 times out of 100**. ([Decision Desk HQ](https://votes.decisiondeskhq.com/forecast/2026/house)) \
+**Democrats win 94 times out of 100**. ([Election Betting Odds](https://electionbettingodds.com/House-Control-2026.html)) \
 **Democrats +24**: 239 seats at least Leans Democratic. 196 seats at least Leans Republican. ([Sabato's Crystal Ball](https://centerforpolitics.org/crystalball/2026-house/))
 
-* #### Senate forecasts.
+* #### 🏛️ Senate forecasts.
 
-* **Democrats win 53 times out of 100**. Republicans win 47 times out of 100. ([The Economist](https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/)) \
-**Democrats win 79 times out of 100**. Republicans
-win 21 times out of 100. ([FiftyPlusOne](https://fiftyplusone.news/forecast/senate)) \
-**Democrats win 81.5 times out of 100**. Republicans
-win 18.5 times out of 100. ([Nate Silver](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model)) \
-**Democrats win 77 times out of 100**. Republicans win 23 times out of 100. ([Split Ticket](https://www.theargumentmag.com/i/202430030/senate)) \
-**Democrats win 65 times out of 100**. Republicans win 35 times out of 100. ([Decision Desk HQ](https://votes.decisiondeskhq.com/forecast/2026/senate)) \
-**Democrats win 76 times out of 100**. Republicans win 24 times out of 100. ([Election Betting Odds](https://electionbettingodds.com/Senate-Control-2026.html)) \
+* **Democrats win 53 times out of 100**. ([The Economist](https://www.economist.com/interactive/2026/us-midterms/prediction-model/senate/)) \
+**Democrats win 79 times out of 100**. ([FiftyPlusOne](https://fiftyplusone.news/forecast/senate)) \
+**Democrats win 81.5 times out of 100**. ([Nate Silver](https://www.natesilver.net/p/nate-silver-2026-midterm-election-polls-model)) \
+**Democrats win 77 times out of 100**. ([Split Ticket](https://www.theargumentmag.com/i/202430030/senate)) \
+**Democrats win 65 times out of 100**. ([Decision Desk HQ](https://votes.decisiondeskhq.com/forecast/2026/senate)) \
+**Democrats win 76 times out of 100**. ([Election Betting Odds](https://electionbettingodds.com/Senate-Control-2026.html)) \
 **Democrats +6**: 53 seats at least Leans Democratic. 47 seats at least Leans Republican. ([Sabato's Crystal Ball](https://centerforpolitics.org/crystalball/2026-senate/))
 
 * poll/ **32% of Americans approve of the job Trump is doing as president**, while 64% disapprove.  ([Reuters](https://www.reuters.com/world/trump-approval-near-record-low-ahead-elections-reutersipsos-poll-finds-2026-11-02/))

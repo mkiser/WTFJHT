@@ -4,8 +4,8 @@ layout: default
 
 <article class="page d2040-page">
 {%- if page.d40_view %}
-<div id="dear-2040" class="d2040" data-view="{{ page.d40_view }}" data-api-url="https://whatthefuckjusthappenedtoday.com"{% if page.d40_view == "letter" %} data-latest-url="{{ site.posts.first.url | relative_url }}"{% endif %}>
-<h1 id="d40-h1" class="page-title d40-h1" tabindex="-1">{{ page.d40_h1 | escape }}</h1>
+<div id="dear-2040" class="d2040" data-view="{{ page.d40_view }}" data-api-url="https://whatthefuckjusthappenedtoday.com">
+<h1 id="d40-h1" class="page-title d40-h1" tabindex="-1">{% if page.d40_view == "note" %}{{ page.d40_h1 | escape }}{% else %}<a href="{{ '/dear-2040/' | relative_url }}">{{ page.d40_h1 | escape }}</a>{% endif %}</h1>
 {{ content }}
 <div id="d40-announce" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
 </div>

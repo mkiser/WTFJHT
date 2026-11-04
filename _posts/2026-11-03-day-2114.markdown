@@ -1,6 +1,10 @@
 ---
 title: Day 2114
 date: 2026-11-03 12:06:55 -08:00
+tags:
+- "midterm-election"
+- "elections"
+- "congress"
 description: '"People vote, we win."'
 image: "/uploads/day2114trump-4cdab8.jpg"
 todayInOneSentence: Voters are deciding whether Republicans will keep control of Congress

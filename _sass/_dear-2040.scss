@@ -312,9 +312,7 @@ body:has(.d2040 .d40-banner:not([hidden])) { padding-bottom: 6rem; }
 .d2040 .d40-dayd { display: block; }
 .d2040 .d40-daym { display: block; overflow: hidden; font: 400 #{$font-size-sm}/#{$line-height-snug} var(--d40-sans); color: var(--d40-stamp); }
 
-.d2040 .d40-phase { margin-top: 2.2rem; padding-top: 0.6rem; border-top: 1px solid var(--c-line); }
-.d2040 .d40-phase:empty { padding-top: 0; }
-.d2040 .d40-phase:not(:has(.d40-phase-label)) { padding-top: 0; }
+.d2040 .d40-phase { display: none; }
 
 .d2040 .d40-cards { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.65rem; }
 .d2040 .d40-cards > li { margin: 0; }

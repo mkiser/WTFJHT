@@ -16,8 +16,8 @@ todayInOneSentence: 'Democrats won control of both the House and Senate in the m
   leader after Democrats won the House. '
 currentMood: "🌊👀"
 editorsNote: |-
-  <p><em><strong>Editor's note</strong>: Well, well, well... If last night’s results have you feeling a certain way, maybe a little relieved, maybe a little hopeful, <a href="https://whatthefuckjusthappenedtoday.com/dear-2040/write/"><strong>write a short, anonymous letter to the generation living in 2040 about what you&#39;re feeling</strong></a>.</em></p>
-  <p><em>What feels possible today that didn’t yesterday? What surprised you? What are you hoping comes next? Write it to your kid, your grandkid, your future self, or nobody in particular. And, if you&#39;ve already written a letter before the midterm results, you’re welcome to write another.</em></p>
+  <p><em><strong>Editor's note</strong>: Well, well, well... How&#39;s the WTFam doing today? Feeling a little relieved? A little hopeful? Let&#39;s remember this moment! <a href="https://whatthefuckjusthappenedtoday.com/dear-2040/write/"><strong>Write a short, anonymous letter to the generation living in 2040 about what this feels like</strong></a>.</em></p>
+  <p><em>What feels possible today that felt out of reach yesterday? What&#39;s surprised you? What are you hoping comes next? Write it to your kid, your grandkid, your future self, or nobody in particular.</em></p>
   <p><em><a href="https://whatthefuckjusthappenedtoday.com/dear-2040/write/"><strong>Write your letter</strong></a> · <a href="https://whatthefuckjusthappenedtoday.com/dear-2040/letters/"><strong>Read the letters</strong></a></em></p>
   <p><em><strong>Dear 2040</strong> is open through Wednesday, November 11.</em></p>
 ---

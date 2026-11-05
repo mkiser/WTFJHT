@@ -2,23 +2,23 @@
 title: Day 2115
 date: 2026-11-04 15:34:46 -08:00
 tags:
-- "midterm-election"
-- "elections"
-- "congress"
-- "white-house"
+- midterm-election
+- elections
+- congress
+- white-house
 description: '"The time has come."'
 image: "/uploads/day2115trump-673906.jpg"
-todayInOneSentence: 'Democrats won control of both the House and Senate in the midterm
-  elections to take full control of Congress after flipping seven Republican-held
-  seats in the Senate and more than two dozen Republican-held seats in the House,
-  as well as five Republican-held governorships; Trump spent nearly 20 minutes showing
-  off his White House ballroom the day after Republicans lost control of Congress
-  in the midterms; when Trump eventually addressed questions from reporters about
-  the election results, he congratulated Democrats and said he was "absolutely willing"
-  to accept the election results, but insisted that "I wasn''t on the Ballot and if
-  I was, we would have won IN A LANDSLIDE"; JD Vance blamed the Iran war for Republicans’
-  midterm losses; and House Speaker Mike Johnson doesn''t plan to stay on as the Republican
-  leader after Democrats won the House. '
+todayInOneSentence: 'Democrats won both the House and Senate in the midterm elections
+  to take full control of Congress after flipping seven Republican-held seats in the
+  Senate and more than two dozen Republican-held seats in the House, as well as five
+  Republican-held governorships; Trump spent nearly 20 minutes showing off his White
+  House ballroom the day after Republicans lost control of Congress in the midterms;
+  when Trump eventually addressed questions from reporters about the election results,
+  he congratulated Democrats and said he was "absolutely willing" to accept the election
+  results, but insisted that "I wasn''t on the Ballot and if I was, we would have
+  won IN A LANDSLIDE"; JD Vance blamed the Iran war for Republicans’ midterm losses;
+  and House Speaker Mike Johnson doesn''t plan to stay on as the Republican leader
+  after Democrats won the House. '
 currentMood: "🌊👀"
 editorsNote: |-
   <p><em><strong>Editor's note</strong>: Well, well, well... How&#39;s the WTFam doing today? Feeling a little relieved? A little hopeful? Let&#39;s remember this moment! <a href="https://whatthefuckjusthappenedtoday.com/dear-2040/write/"><strong>Write a short, anonymous letter to the generation living in 2040 about what this feels like</strong></a>.</em></p>
@@ -27,7 +27,7 @@ editorsNote: |-
   <p><em><strong>Dear 2040</strong> is open through Wednesday, November 11.</em></p>
 ---
 
-1/ **Democrats won control of both the House and Senate in the midterm elections to take full control of Congress**. When the new Congress convenes in January, Democrats will gain control of congressional committees and subpoena powers, allowing them to investigate Trump and his administration during the final two years of his presidency.
+1/ **Democrats won both the House and Senate in the midterm elections to take full control of Congress**. When the new Congress convenes in January, Democrats will gain control of congressional committees and subpoena powers, allowing them to investigate Trump and his administration during the final two years of his presidency.
 
 2/ **Democrats flipped seven Republican-held seats in the Senate** – Texas, Iowa, Kansas, South Carolina, Ohio, Maine, and North Carolina – including several states Trump had won by double digits in 2024. Democrats also held on to competitive seats in Georgia, Michigan, and New Hampshire.
 

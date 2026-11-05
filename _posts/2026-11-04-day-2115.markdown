@@ -1,6 +1,11 @@
 ---
 title: Day 2115
 date: 2026-11-04 15:34:46 -08:00
+tags:
+- "midterm-election"
+- "elections"
+- "congress"
+- "white-house"
 description: '"The time has come."'
 image: "/uploads/day2115trump-673906.jpg"
 todayInOneSentence: 'Democrats won control of both the House and Senate in the midterm

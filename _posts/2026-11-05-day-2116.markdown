@@ -1,6 +1,11 @@
 ---
 title: Day 2116
 date: 2026-11-05 16:58:05 -08:00
+tags:
+- "midterm-election"
+- "justice-department"
+- "trump-trials"
+- "congress"
 description: '"A rebuke of the president."'
 image: "/uploads/day2116trump-2a01b4.jpg"
 todayInOneSentence: 'Democrats won full control of at least five state governments

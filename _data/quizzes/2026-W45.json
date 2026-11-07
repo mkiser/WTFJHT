@@ -1,0 +1,173 @@
+{
+  "id": "2026-W45",
+  "week_label": "Nov 2 – Nov 5, 2026",
+  "status": "published",
+  "editions": [
+    2113,
+    2114,
+    2115,
+    2116
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "About how many Americans had already cast ballots before Election Day?",
+      "options": [
+        "59 million",
+        "46 million",
+        "50 million",
+        "64 million"
+      ],
+      "correct": 2,
+      "explanation": "About 50 million Americans had already voted, with early voting exceeding 2022 levels in every major Senate battleground.",
+      "source_day": 2113,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/02/day-2113/",
+      "difficulty": "easy",
+      "type": "number"
+    },
+    {
+      "number": 2,
+      "question": "Which sequence correctly describes the transition of Ohio’s Senate seat?",
+      "options": [
+        "Jon Husted unseated Sherrod Brown, Brown became vice president, and JD Vance was appointed",
+        "Sherrod Brown unseated Jon Husted, JD Vance became vice president, and Husted was then appointed",
+        "Jon Husted became vice president, JD Vance was appointed to replace him, and Sherrod Brown later defeated Vance",
+        "JD Vance became vice president, Jon Husted was appointed to replace him, and Sherrod Brown later unseated Husted"
+      ],
+      "correct": 3,
+      "explanation": "Husted was appointed in 2025 to replace JD Vance after Vance became vice president. Sherrod Brown then defeated Husted to return to the Senate.",
+      "source_day": 2115,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/04/day-2115/",
+      "difficulty": "hard",
+      "type": "sequence"
+    },
+    {
+      "number": 3,
+      "question": "Which five states gave Democrats the governorship and control of both legislative chambers?",
+      "options": [
+        "Michigan, Minnesota, Nevada, Pennsylvania, and Wisconsin",
+        "Arizona, Georgia, Iowa, South Carolina, and Wisconsin",
+        "Texas, Kansas, Maine, Ohio, and North Carolina",
+        "Texas, Georgia, Ohio, Iowa, and Nevada"
+      ],
+      "correct": 0,
+      "explanation": "Democrats secured full state-government control in Michigan, Minnesota, Nevada, Pennsylvania, and Wisconsin. Arizona could also join the list depending on an undecided legislative race.",
+      "source_day": 2116,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/05/day-2116/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 4,
+      "question": "Where did the U.S. military secretly carry out airstrikes on the eve of the midterm elections?",
+      "options": [
+        "Iran’s Qeshm Island",
+        "Arlington National Cemetery",
+        "Alaska",
+        "Michigan"
+      ],
+      "correct": 0,
+      "explanation": "The U.S. struck Iran’s Qeshm Island in the Strait of Hormuz after Iranian forces fired at American aircraft near the strait.",
+      "source_day": 2114,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/03/day-2114/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 5,
+      "question": "How many Republican-held Senate seats did Democrats flip to win control of the chamber?",
+      "options": [
+        "Five",
+        "More than two dozen",
+        "Four",
+        "Seven"
+      ],
+      "correct": 3,
+      "explanation": "Democrats flipped seven Republican-held Senate seats: Texas, Iowa, Kansas, South Carolina, Ohio, Maine, and North Carolina.",
+      "source_day": 2115,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/04/day-2115/",
+      "difficulty": "easy",
+      "type": "number"
+    },
+    {
+      "number": 6,
+      "question": "What did Senate Democratic leader Chuck Schumer vow to prevent?",
+      "options": [
+        "Democrats from blocking lower-court and Cabinet nominees",
+        "Trump from putting “a right-winger” on the Supreme Court",
+        "Samuel Alito from remaining on the Supreme Court after January 3",
+        "Thomas Massie from forcing a House impeachment vote"
+      ],
+      "correct": 1,
+      "explanation": "Schumer vowed to stop Trump from putting “a right-winger” on the Supreme Court and warned that Democrats would block lower-court and Cabinet nominees.",
+      "source_day": 2116,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/05/day-2116/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 7,
+      "question": "Approximately how many election monitors did the Justice Department deploy nationwide?",
+      "options": [
+        "435",
+        "1,000",
+        "120",
+        "35"
+      ],
+      "correct": 1,
+      "explanation": "The Justice Department deployed about 1,000 monitors to more than 120 jurisdictions across all 50 states, its largest election-monitoring operation ever.",
+      "source_day": 2114,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/03/day-2114/",
+      "difficulty": "medium",
+      "type": "number"
+    },
+    {
+      "number": 8,
+      "question": "Who did Democratic Rep. Haley Stevens endorse in Michigan’s Senate race?",
+      "options": [
+        "Mike Rogers",
+        "Mary Peltola",
+        "Abdul El-Sayed",
+        "Dan Sullivan"
+      ],
+      "correct": 0,
+      "explanation": "Stevens endorsed Republican Mike Rogers after previously promising to support Democratic nominee Abdul El-Sayed, who defeated her in the primary.",
+      "source_day": 2113,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/02/day-2113/",
+      "difficulty": "easy",
+      "type": "who"
+    },
+    {
+      "number": 9,
+      "question": "What authority would Democrats gain by taking full control of Congress?",
+      "options": [
+        "The ability to select a Supreme Court justice without a presidential nomination",
+        "The power to appoint governors in states won by Republicans",
+        "Control of congressional committees and subpoena powers",
+        "Control of the Justice Department’s election-monitoring operation"
+      ],
+      "correct": 2,
+      "explanation": "Control of Congress gives Democrats command of congressional committees and subpoena powers, enabling investigations of Trump and his administration.",
+      "source_day": 2115,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/04/day-2115/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 10,
+      "question": "Who called the Republican midterm losses a “Watergate-level repudiation”?",
+      "options": [
+        "Thomas Massie",
+        "Pete Hegseth",
+        "Ron DeSantis",
+        "Ted Cruz"
+      ],
+      "correct": 3,
+      "explanation": "Ted Cruz described the losses as a “Watergate-level repudiation,” blaming high costs from Trump’s tariffs and the prolonged Iran war.",
+      "source_day": 2116,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/05/day-2116/",
+      "difficulty": "medium",
+      "type": "who"
+    }
+  ]
+}

@@ -26,7 +26,7 @@ permissions:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     env:
       JEKYLL_ENV: production
 

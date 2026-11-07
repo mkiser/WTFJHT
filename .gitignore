@@ -58,3 +58,4 @@ __pycache__/
 downloads/yearbooks/
 digitalocean
 digitalocean.pub
+one-sentence/*/sentences.local.json

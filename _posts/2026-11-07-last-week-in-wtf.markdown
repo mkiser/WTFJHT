@@ -47,7 +47,9 @@ editorsNote: |-
 
 ---
 
-### ⏰ Dept. of What Just Happened Since My Last Update.
+### ⏰ Dept. of WTF Just Happened.
+
+*A few updates since my last, well, update.*
 
 1. **Trump named Stephen Miller his new White House chief of staff, replacing Susie Wiles**. Miller, Trump's deputy chief of staff and the architect of his mass-deportation campaign, takes over Monday. Wiles, the first woman to hold the job and Trump's longest-serving chief of staff, will move to Trump's political operation. When asked why he replaced her, Trump said that "Sometimes in life you have to make moves." Miller helped develop Trump's family-separation policy and the 2017 travel ban during Trump's first term, and has overseen his second term's immigration crackdown. About six in 10 midterm voters said the administration's immigration enforcement had gone too far, and some Republicans blamed Miller for the Republicans' midterm losses. After immigration agents killed two U.S. citizens in Minneapolis, Miller called one of them a "domestic terrorist" and later blamed the comment on bad information from Customs and Border Protection. Meanwhile, Democratic Rep. Robert Garcia, who is set to lead the House Oversight Committee, vowed to investigate Miller and warned: "Stephen Miller should lawyer up." ([Associated Press](https://apnews.com/article/susie-wiles-trump-miller-midterms-95690fe076f6bb8cfe2bf77435a1910d) / [New York Times](https://www.nytimes.com/live/2026/11/06/us/trump-miller-wiles-chief-of-staff) / [NBC News](https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892) / [Politico](https://www.politico.com/news/2026/11/06/susie-wiles-stephen-miller-trump-chief-of-staff-01154493) / [Bloomberg](https://www.bloomberg.com/news/articles/2026-11-06/trump-taps-stephen-miller-to-replace-wiles-as-chief-of-staff) / [Wall Street Journal](https://www.wsj.com/politics/elections/trump-names-stephen-miller-his-new-chief-of-staff-2f835632) / [Washington Post](https://www.washingtonpost.com/politics/2026/11/06/trump-names-stephen-miller-new-white-house-chief-staff/))
 

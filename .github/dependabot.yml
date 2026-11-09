@@ -18,6 +18,11 @@ updates:
         update-types:
           - "minor"
           - "patch"
+    ignore:
+      - dependency-name: "jekyll"
+        update-types:
+          - "version-update:semver-major"
+      - dependency-name: "jekyll-archives"
 
   # GitHub Actions used by the workflows in .github/workflows/.
   - package-ecosystem: "github-actions"

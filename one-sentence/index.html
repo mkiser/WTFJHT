@@ -1,0 +1,25 @@
+---
+layout: one-sentence
+title: "The Long Sentence."
+description: "Every so often I ask WTFJHT readers to tell me how this has felt, in one sentence. These are your answers."
+image: "/uploads/og-image.jpg"
+permalink: /one-sentence/
+sitemap: false
+os_view: landing
+---
+<p class="os-intro">How did you feel then? How are you feeling now? Where do you think we’re headed? Every so often I ask WTFJHT readers to answer all three in one sentence. These are your answers, kept in one place so we can look back and see how it all aged.</p>
+<ul class="d40-cards os-editions" role="list">
+{%- assign os_index = 0 -%}
+{%- for os_item in site.data.one_sentence.editions -%}
+{%- if os_item.visible %}
+<li class="d40-item" data-tilt="{{ os_index | modulo: 4 }}">
+<article class="d40-sheet">
+<h2 class="os-edition-title"><a href="{{ os_item.url | relative_url }}">{{ os_item.title | escape }}</a></h2>
+<p class="os-edition-dek">{{ os_item.dek | escape }}</p>
+<p class="d40-stamp os-edition-stamp">{{ os_item.year }}<span aria-hidden="true"> · </span>{{ os_item.count | number_with_commas }} sentences</p>
+</article>
+</li>
+{%- assign os_index = os_index | plus: 1 -%}
+{%- endif -%}
+{%- endfor %}
+</ul>

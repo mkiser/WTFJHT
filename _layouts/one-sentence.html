@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<script>(function(){var h=document.documentElement,d=new Date(),r=d.getHours()+d.getMinutes()/60;h.style.setProperty('--d40-hour',r.toFixed(2));h.setAttribute('data-d40-band',r>=5&&r<9?'dawn':r>=9&&r<16?'day':r>=16&&r<20?'dusk':'night');h.classList.add('os-js');})();</script>
+{%- assign os_series = site.data.one_sentence.series -%}
+{%- if page.os_year -%}{%- assign os_edition = site.data.one_sentence.editions | where: "year", page.os_year | first -%}{%- endif -%}
+{%- assign os_v = site.time | date: '%s' -%}
+{%- assign os_modules = "archive core landing png png-layout share sky" | split: " " %}
+<article class="page d2040-page os-page">
+<div id="one-sentence" class="d2040 os" data-view="letters"{% if os_edition %} data-year="{{ os_edition.year }}" data-source="{{ os_edition.data_url | escape }}"{% endif %}>
+{%- if os_edition %}
+<p class="os-series"><a href="{{ os_series.url | relative_url }}">{{ os_series.name | escape }}</a></p>
+{%- endif %}
+<h1 id="os-h1" class="page-title d40-h1">{{ page.title | escape }}</h1>
+{{ content }}
+</div>
+</article>
+<script type="importmap">{"imports":{ {%- for os_module in os_modules -%}"{{ site.baseurl }}/public/js/one-sentence/{{ os_module }}.js":"{{ site.baseurl }}/public/js/one-sentence/{{ os_module }}.js?v={{ os_v }}"{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%} }}</script>
+<script type="module" src="{{ site.baseurl }}/public/js/one-sentence/{{ page.os_view }}.js?v={{ os_v }}" onerror="var u=document.getElementById('os-unavailable'),l=document.getElementById('os-loading'),e=document.getElementById('os-explore');if(u){u.hidden=false}if(l){l.hidden=true}if(e){e.hidden=true}"></script>

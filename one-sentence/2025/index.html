@@ -1,0 +1,117 @@
+---
+layout: one-sentence
+title: 'Your "Last Year in One Sentence."'
+description: "How 2,430 WTFJHT readers felt on Election Day 2024, right after the results, and a year later, one sentence each."
+image: "/uploads/og-image.jpg"
+permalink: /one-sentence/2025/
+sitemap: false
+os_view: archive
+os_year: 2025
+os_beats:
+- On Election Day
+- After the results
+- A year later
+os_families:
+- hopeful
+- proud
+- relieved
+- determined
+- angry
+- disappointed
+- afraid
+- numb
+---
+<p class="os-intro"><em>In November 2025, a year after Election Day returned Trump to power, I wanted to know how you felt then, how you were feeling now, and where you thought we were headed. Below is everything you told me: 2,430 last years in one sentence, in your own words.</em></p>
+<p class="d40-count os-span">2,430 sentences, collected Nov. 5 to Dec. 5, 2025.</p>
+<noscript><p class="d40-pubnote os-noscript">JavaScript is required. Turn on JavaScript in your browser to read the sentences.</p></noscript>
+
+<section id="os-explore" class="os-explore os-needs-js" aria-labelledby="os-explore-h">
+<h2 id="os-explore-h" class="os-h2">Who felt what, and when.</h2>
+<p class="os-hint">Each number is a filter. Pick a feeling in any column to read those sentences, and the other columns recount to match.</p>
+<fieldset id="os-filter" class="os-filter" disabled>
+<legend class="sr-only">Filter the sentences by feeling</legend>
+<div class="os-grid">
+<div class="os-col os-labels" aria-hidden="true">
+<div class="os-head">Feeling</div>
+<div class="os-rowlabel">Any feeling</div>
+{%- for os_family in page.os_families %}
+<div class="os-rowlabel">{{ os_family }}</div>
+{%- endfor %}
+</div>
+{%- for os_beat in page.os_beats %}
+{%- assign os_i = forloop.index0 %}
+<div class="os-col" role="radiogroup" aria-labelledby="os-head-{{ os_i }}">
+<div class="os-head" id="os-head-{{ os_i }}">{{ os_beat }}</div>
+<label class="os-cell"><input type="radio" name="os-beat-{{ os_i }}" value="" data-beat="{{ os_i }}" checked><span class="os-face"><span class="sr-only">Any feeling: </span><span class="os-count"></span></span></label>
+{%- for os_family in page.os_families %}
+<label class="os-cell"><input type="radio" name="os-beat-{{ os_i }}" value="{{ os_family }}" data-beat="{{ os_i }}"><span class="os-face"><span class="sr-only">{{ os_family }}: </span><span class="os-count"></span></span></label>
+{%- endfor %}
+</div>
+{%- endfor %}
+</div>
+</fieldset>
+<div class="os-controls">
+<p id="os-tally" class="os-tally is-waiting" role="status" aria-atomic="true"><strong data-slot="shown">2,430</strong> of <span data-slot="total">2,430</span> sentences</p>
+<button class="d40-link d40-quiet os-clear" type="button" id="os-clear" hidden>Clear filters</button>
+<div class="os-order" role="group" aria-label="Order the sentences">
+<button class="d40-link d40-quiet" type="button" data-order="newest" aria-pressed="true" disabled>Newest</button>
+<button class="d40-link d40-quiet" type="button" data-order="oldest" aria-pressed="false" disabled>Oldest</button>
+<button class="d40-link d40-quiet" type="button" data-order="shuffle" aria-pressed="false" disabled>Shuffle</button>
+</div>
+</div>
+</section>
+
+<div id="os-unavailable" class="d40-state os-unavailable" hidden>
+<p>These sentences aren’t available right now. Check back soon.</p>
+<p><button class="d40-link" type="button" id="os-retry" hidden>Try again</button></p>
+</div>
+<p id="os-notfound" class="d40-count os-notfound" hidden>That link doesn’t match a sentence in this collection. Here are all of them.</p>
+
+<section id="os-pinned" class="os-pinned" aria-labelledby="os-pinned-label" hidden>
+<p id="os-pinned-label" class="os-pinned-label" tabindex="-1">One of 2,430 sentences from {{ page.title | escape }}</p>
+<ul id="os-pinned-list" class="d40-cards" role="list"></ul>
+<p class="os-pinned-more"><a class="d40-link" href="#os-explore">Explore all 2,430</a></p>
+</section>
+
+<section id="os-sentences" class="os-sentences os-needs-js" aria-labelledby="os-sentences-h">
+<h2 id="os-sentences-h" class="sr-only">The sentences</h2>
+<p id="os-loading" class="d40-count d40-loading">Loading…</p>
+<ul id="os-list" class="d40-cards os-list" role="list"></ul>
+<p class="d40-more" id="os-more-p" hidden><button class="d40-link" type="button" id="os-more">Load more sentences</button></p>
+<p class="d40-count d40-endline" id="os-end" tabindex="-1" hidden>That’s all of them.</p>
+</section>
+
+<template id="os-tpl-sheet"><li class="d40-item"><article class="d40-sheet"><div class="d40-body"><p class="d40-para os-sentence"><span class="os-frame" data-frame>On Election Day 2024, I was feeling </span><b class="os-word" data-slot="w0"></b><span class="os-frame" data-frame> and </span><b class="os-word" data-slot="w1"></b><span class="os-frame" data-frame>; but right after the results were in, I felt </span><b class="os-word" data-slot="w2"></b><span class="os-frame" data-frame> and </span><b class="os-word" data-slot="w3"></b><span class="os-frame" data-frame>; now, a year later, I'm feeling </span><b class="os-word" data-slot="w4"></b><span class="os-frame" data-frame>; and as I think about the future, I feel </span><span class="os-ending" data-slot="ending"></span></p></div><div class="d40-sheetfoot"><p class="d40-stamp"><a class="d40-permalink" data-slot="link">No. <span data-slot="number"></span><span aria-hidden="true"> · </span><span data-slot="date"></span></a></p><button class="d40-shareicon" type="button" aria-label="Save or share this sentence" title="Save or share this sentence"><svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" x2="12" y1="2" y2="15"></line></svg></button></div></article></li></template>
+
+<dialog id="os-dlg" class="d40-dlg" aria-labelledby="os-dlg-lbl">
+<p id="os-dlg-lbl" class="d40-dlg-lbl sr-only">Save or share this sentence</p>
+<div class="d40-dlg-slot">
+<div id="os-dlg-wait" class="d40-dlg-wait">Loading…</div>
+<img id="os-dlg-image" alt="" hidden>
+<p id="os-dlg-fail" class="d40-dlg-fail" hidden>Couldn’t create the image on this device. Copy the text instead.</p>
+</div>
+<div class="d40-dlg-row">
+<button class="d40-save" type="button" id="os-save" aria-disabled="true">Download image</button>
+<button class="d40-save" type="button" id="os-save-story" aria-disabled="true">Download for Stories</button>
+</div>
+<div class="d40-dlg-row">
+<button class="d40-link" type="button" id="os-share" hidden>Share</button>
+<button class="d40-link" type="button" id="os-copy-link">Copy link</button>
+<button class="d40-link" type="button" id="os-copy-text">Copy the text</button>
+<button class="d40-close" type="button" id="os-close">Close</button>
+</div>
+<div id="os-dlg-manual" class="os-manual" hidden>
+<textarea id="os-dlg-box" class="d40-fallback" readonly aria-label="Select the text below to copy it"></textarea>
+</div>
+<p id="os-dlg-status" class="d40-dlg-status" role="status"></p>
+</dialog>
+
+<div hidden>
+<span data-msg="image.attribution">whatthefuckjusthappenedtoday.com/one-sentence</span>
+<span data-msg="share.unavailable">Saving isn’t available right now. Reload the page and try again.</span>
+<span data-msg="image.failed">Couldn’t create the image on this device. Copy the text instead.</span>
+<span data-msg="image.saved">Your image is downloading.</span>
+<span data-msg="copy.link">Link copied.</span>
+<span data-msg="copy.text">Copied.</span>
+<span data-msg="copy.manual">Select the text below to copy it.</span>
+</div>

@@ -32,7 +32,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 2
 
@@ -62,7 +62,7 @@ jobs:
           elif ! CHANGED=$(git diff --name-only "${{ github.event.before }}" HEAD 2>/dev/null); then
             # git diff failed (e.g., force-push beyond fetch-depth) — full build as fail-safe
             echo "full_build=true" >> "$GITHUB_OUTPUT"
-          elif echo "$CHANGED" | grep -qE '^(_posts/|_plugins/(search_index|sources_leaderboard)|_data/tag_taxonomy)'; then
+          elif echo "$CHANGED" | grep -qE '^(_posts/|_plugins/(search_index|sources_leaderboard)|_data/tag_taxonomy|Gemfile\.lock$)'; then
             echo "full_build=true" >> "$GITHUB_OUTPUT"
           else
             echo "full_build=false" >> "$GITHUB_OUTPUT"
@@ -87,7 +87,7 @@ jobs:
           echo "Changed dates: $DATES"
 
       - name: Set up Ruby with caching
-        uses: ruby/setup-ruby@95ef2b042f9d7a56d8268cba8559e2842e2ad01b # v1
+        uses: ruby/setup-ruby@b3aaceaef7e0ee231b499e7b5f49c03fc1d32199 # v1
         with:
           ruby-version: 3.3.5
           bundler-cache: true
@@ -101,7 +101,7 @@ jobs:
           CHANGED_DATES: ${{ steps.check.outputs.changed_dates }}
 
       - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@7474bc4690e29a8392af63c5b98e7449536d5c3a # v4
+        uses: aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd # v6.3.0
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}

@@ -1,95 +1,85 @@
 // WTFJHT Government Shutdown Timer Styles
 
-.shutdown-timer {
-    background: $bg-darker;
-    color: $gray-1;
-    text-align: center;
-    margin: 0;
-    padding: 1.5rem 1rem;
-    border-top: 1px solid #2c3138;
-    border-bottom: 1px solid #2c3138;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
-    min-height: 200px;
+.banner__body .shutdown-timer {
+    visibility: hidden;
+
+    &.is-running {
+        visibility: visible;
+    }
+}
+
+.banner__body .banner__meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.625rem 1.5rem;
+    margin: 0 0 1.25rem;
+    padding: 0.75rem 0;
+    border-top: 1px solid var(--b-rule);
+    border-bottom: 1px solid var(--b-rule);
+}
+
+.banner__body .timer-display {
+    display: flex;
+    flex: none;
+    gap: 1.25rem;
+}
+
+.banner__body .timer-display__unit {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
-    -webkit-font-smoothing: antialiased;
 }
 
-.shutdown-status {
-    color: $red;
-    margin: 0 0 1.5rem 0;
-    font-size: 1.65rem; // title stop — instrument text, not numeral
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    line-height: 1.25;
+.banner__body .timer-display__unit[hidden] {
+    display: none;
 }
 
-.timer-display {
-    font-family: Menlo, Monaco, 'Courier New', monospace;
-    font-size: 3.5rem;
-    font-weight: bold;
-    color: $gray-1;
-    margin: 1rem 0 1.5rem 0;
-    letter-spacing: 2px;
-    line-height: 1;
+.banner__body .timer-display__num {
+    @extend .counter-number;
+    font-variant-numeric: tabular-nums lining-nums;
+    color: var(--b-strong);
 }
 
-.impact-message {
-    color: $gray-3;
-    font-size: 0.85rem;
-    margin: 0;
+.banner__body .timer-display__cap {
+    font-size: 0.8rem;
     font-weight: 400;
-    line-height: 1.4;
-    max-width: 500px;
-    word-spacing: 0.1em;
-    hyphens: none;
+    line-height: 1.25;
+    color: var(--b-meta);
 }
 
-// State Classes
-.final-countdown .timer-display {
-    color: $red !important;
+.banner__body .banner__caption {
+    flex: 1 1 13rem;
 }
 
-.shutdown-active .timer-display {
-    color: #e67a75 !important;
+.banner__body .banner__caption p {
+    margin: 0;
+    font-family: inherit;
+    font-size: 0.9rem;
+    line-height: 1.5;
 }
 
-// Responsive Design
-@media (max-width: 834px) {
-    .shutdown-timer {
-        min-height: 180px !important;
-        padding: 1.2rem 0.5rem !important;
-    }
-
-    .shutdown-status {
-        font-size: 1.2rem; // heading stop
-        margin-bottom: 1rem !important;
-    }
-
-    .timer-display {
-        font-size: 2.5rem !important;
-        margin: 0.8rem 0 1.2rem 0 !important;
-    }
-
-    .impact-message {
-        font-size: 0.8rem !important;
-        max-width: 90% !important;
-    }
+.banner__body .banner__caption-title {
+    font-weight: 600;
+    color: var(--b-strong);
 }
 
-@media (max-width: 425px) {
-    .timer-display {
-        font-size: 2rem; // instrument numeral, mobile
-        letter-spacing: 1px !important;
-    }
-
-    .shutdown-status {
-        font-size: 1.2rem !important;
-    }
+.banner__body .banner__caption-line {
+    color: var(--b-meta);
 }
 
+.banner__body .final-countdown .banner__meta,
+.banner__body .shutdown-active .banner__meta {
+    border-top: 3px solid var(--b-strong);
+}
 
+.banner__body .final-countdown .timer-display__num,
+.banner__body .shutdown-active .timer-display__num {
+    color: var(--b-alarm);
+}
+
+@media (max-width: 480px) {
+    .banner__body .timer-display {
+        flex: 1 1 100%;
+        justify-content: space-between;
+    }
+}

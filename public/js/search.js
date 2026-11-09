@@ -27,6 +27,7 @@
   var initialContent = document.querySelector('.js-algolia__initial-content');
   var searchContent = document.querySelector('.js-algolia__search-content');
   var resultsContainer = searchContent ? searchContent.querySelector('.algolia__results') : null;
+  var banner = document.querySelector('.banner');
 
   if (!searchInput || !initialContent || !searchContent || !resultsContainer) {
     console.warn('Search: Required DOM elements not found');
@@ -47,11 +48,13 @@
   // Show/hide results
   function showResults() {
     initialContent.classList.add('algolia__initial-content--hidden');
+    if (banner) banner.hidden = true;
     searchContent.classList.add('algolia__search-content--active');
   }
 
   function hideResults() {
     initialContent.classList.remove('algolia__initial-content--hidden');
+    if (banner) banner.hidden = false;
     searchContent.classList.remove('algolia__search-content--active');
   }
 

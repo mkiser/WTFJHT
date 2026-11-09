@@ -1,16 +1,14 @@
-<!-- WTFJHT Government Shutdown Timer -->
-{% assign shutdown_date = include.date | default: "Jan 31, 2026 00:00:00 -0500" %}
-
-<div id="shutdown-container" class="shutdown-timer" data-shutdown-date="{{ shutdown_date }}">
-    <h2 id="shutdown-status" class="shutdown-status" aria-live="polite">
-        Gov't Shutdown Countdown
-    </h2>
-
-    <div id="timer-display" class="timer-display">
-        <span id="doomsday">00d 00h 00m 00s</span>
+<div id="shutdown-container" class="shutdown-timer" data-shutdown-date="{{ include.date | escape }}" data-label="{{ include.label | escape }}" data-message="{{ include.message | escape }}"{% if include.count_up %} data-shutdown-active="true" data-after-label="{{ include.after_label | escape }}" data-after-message="{{ include.after_message | escape }}"{% endif %}>
+    <div class="banner__meta">
+        <div id="timer-display" class="timer-display" role="timer">
+            <span id="clock-days-unit" class="timer-display__unit"><span id="clock-days" class="timer-display__num">0</span> <span id="clock-days-cap" class="timer-display__cap">days</span></span>
+            <span class="timer-display__unit"><span id="clock-hours" class="timer-display__num">00</span> <span id="clock-hours-cap" class="timer-display__cap">hrs</span></span>
+            <span class="timer-display__unit"><span id="clock-minutes" class="timer-display__num">00</span> <span class="timer-display__cap">min</span></span>
+            <span class="timer-display__unit"><span id="clock-seconds" class="timer-display__num">00</span> <span class="timer-display__cap">sec</span></span>
+        </div>
+        <div class="banner__caption">
+            <p id="shutdown-status" class="banner__caption-title" aria-live="polite">{{ include.label }}</p>
+            <p id="impact-message" class="banner__caption-line">{{ include.message }}</p>
+        </div>
     </div>
-
-    <p id="impact-message" class="impact-message">
-        Federal funding expires in 0 days unless Congress acts
-    </p>
 </div>

@@ -1,0 +1,15 @@
+{% capture banner_md %}{% include banners/{{ site.banner }}.md %}{% endcapture %}
+{% assign banner_md = banner_md | strip %}
+{% assign banner_head = banner_md | slice: 0, 3 %}
+{% assign banner_parts = banner_md | split: '---' %}
+{% assign banner_lines = banner_parts[1] | strip | newline_to_br | split: '<br' %}
+{% assign banner_key = banner_lines[0] | slice: 0, 6 %}
+{% if banner_head == '---' and banner_key == 'style:' and banner_lines.size == 1 and banner_parts.size > 2 %}{% assign banner_style = banner_lines[0] | remove_first: 'style:' | strip %}{% assign banner_md = banner_md | remove_first: '---' | remove_first: banner_parts[1] | remove_first: '---' %}{% endif %}
+{% case banner_style %}{% when 'navy', 'wash', 'paper' %}{% else %}{% assign banner_style = 'slate' %}{% endcase %}
+<section class="banner banner--{{ banner_style }}" aria-label="Announcement" data-nosnippet>
+  <div class="banner__column">
+    <div class="banner__body">
+      {{ banner_md | markdownify | replace: '<h1', '<h2 class="banner__display"' | replace: '</h1>', '</h2>' | replace: '<h6', '<p class="banner__byline"' | replace: '</h6>', '</p>' | extlinks }}
+    </div>
+  </div>
+</section>

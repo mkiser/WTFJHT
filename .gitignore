@@ -1,17 +1,13 @@
 # Ignore docs files
-_gh_pages
 .jekyll-metadata
 .jekyll-cache
 .sass-cache
 _site
 _algolia_api_key
-vendor
+/vendor
 .bundle
-.siteleaf.yml
-wtftest.com
-wtftestsite.com
 CLAUDE.md
-# Gemfile.lock
+AGENTS.md
 
 # Numerous always-ignore extensions
 *.diff
@@ -22,7 +18,6 @@ CLAUDE.md
 *.swo
 *.swp
 *.zip
-*.vi
 *~
 
 # OS or Editor folders
@@ -30,25 +25,11 @@ CLAUDE.md
 ._*
 Thumbs.db
 .cache
-.project
-.settings
-.tmproj
-*.esproj
-nbproject
-*.sublime-project
-*.sublime-workspace
-.idea
 .claude
 .claude-octopus/
+.codex/
+.grok/
 docs/
-
-# Komodo
-*.komodoproject
-.komodotools
-
-# grunt-html-validation
-validation-status.json
-validation-report.json
 
 node_modules
 
@@ -58,4 +39,5 @@ __pycache__/
 downloads/yearbooks/
 digitalocean
 digitalocean.pub
-one-sentence/*/sentences.local.json
+.env*
+*.pem

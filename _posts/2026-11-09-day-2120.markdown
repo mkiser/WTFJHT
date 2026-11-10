@@ -1,6 +1,12 @@
 ---
 title: Day 2120
 date: 2026-11-09 16:29:35 -08:00
+tags:
+- "midterm-election"
+- "immigration"
+- "justice-department"
+- "impeachment"
+- "congress"
 description: '"Only kidding."'
 image: "/uploads/day2120trump-145e6e.jpg"
 todayInOneSentence: Rep. Thomas Massie introduced eight articles of impeachment against

@@ -155,7 +155,7 @@ article.post div.post-content > p:not(.tios) {
   ul {
     border: none;
     border-left: 2px solid $border-light;
-    padding: 0.25em 0 0.25em $brand-spacing-list-rail-inset;
+    padding: 0 0 0 $brand-spacing-list-rail-inset;
     margin: 0 0 2em 0;
     background: none;
     line-height: $brand-type-ul-line-height;
@@ -291,6 +291,16 @@ article.post div.post-content > p:not(.tios) {
 
   .post-content > ol + p {
     margin-top: $brand-spacing-story-gap;
+  }
+
+  @media screen {
+    .post-content > p + ul {
+      margin-top: 1.5em;
+    }
+
+    .post-content > ul + p {
+      margin-top: $brand-spacing-story-gap;
+    }
   }
 
   p {

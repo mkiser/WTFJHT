@@ -1,6 +1,12 @@
 ---
 title: Day 2121
 date: 2026-11-10 16:22:39 -08:00
+tags:
+- "congress"
+- "oversight"
+- "impeachment"
+- "economy"
+- "iran"
 description: '"Just getting started."'
 image: "/uploads/day2121trump-ddcbce.jpg"
 todayInOneSentence: The Republican-led House Oversight Committee accused the Trump

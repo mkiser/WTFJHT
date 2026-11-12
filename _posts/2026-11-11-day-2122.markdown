@@ -1,6 +1,12 @@
 ---
 title: Day 2122
 date: 2026-11-11 12:06:49 -08:00
+tags:
+- "white-house"
+- "oversight"
+- "cabinet"
+- "china"
+- "lawsuit"
 description: '"I''ll look into it."'
 image: "/uploads/day2122trump-f8eed8.jpg"
 todayInOneSentence: 'White House counsel Will Scharf threatened criminal investigations

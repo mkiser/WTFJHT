@@ -9,10 +9,12 @@ const META = '#515151';
 const FADED = '#5c5c5c';
 const PAPER = '#ffffff';
 const RULE = '#cccccc';
+const BANDS = Object.freeze(['#ebf3ff', '#c5deff', '#e3e8ee', '#c3ccd6']);
+const BAND_PAD_EM = 0.15;
 const FONT_BY_KIND = Object.freeze({
   frame: { weight: 400, family: FAMILIES.serif, color: FADED },
   word: { weight: 700, family: FAMILIES.serif, color: INK },
-  ending: { weight: 400, family: FAMILIES.serif, color: INK },
+  ending: { weight: 700, family: FAMILIES.serif, color: INK },
   title: { weight: 600, family: FAMILIES.sans, color: META },
   stamp: { weight: 400, family: FAMILIES.sans, color: META },
   attribution: { weight: 400, family: FAMILIES.sans, color: META },
@@ -46,6 +48,27 @@ function canvasBlob(canvas) {
   });
 }
 
+function drawBands(context, layout, color) {
+  context.fillStyle = color;
+  for (const line of layout.lines) {
+    const ends = line.fragments.filter(fragment => fragment.kind === 'ending' && fragment.text.trim());
+    if (!ends.length) continue;
+    const size = line.fontSize;
+    context.font = fontFor('ending', size);
+    const first = ends[0];
+    const last = ends[ends.length - 1];
+    const lead = first.text.length - first.text.trimStart().length;
+    const left = first.x + context.measureText(first.text.slice(0, lead)).width;
+    const right = last.x + context.measureText(last.text.trimEnd()).width;
+    const metrics = context.measureText(ends.map(fragment => fragment.text).join(''));
+    const ascent = metrics.fontBoundingBoxAscent ?? 0;
+    const descent = metrics.fontBoundingBoxDescent ?? size;
+    const top = line.y + (line.lineHeight - size) / 2;
+    const pad = size * BAND_PAD_EM;
+    context.fillRect(left - pad, top - ascent, right - left + pad * 2, ascent + descent);
+  }
+}
+
 export function measureWith(context) {
   return (text, kind, fontSize) => {
     context.font = fontFor(kind, fontSize);
@@ -63,6 +86,7 @@ export async function renderSentencePng(parts, { document, format = 'post' }) {
   context.fillStyle = PAPER;
   context.fillRect(0, 0, canvas.width, canvas.height);
   context.textBaseline = 'top';
+  if (BANDS[parts.band]) drawBands(context, layout, BANDS[parts.band]);
   for (const line of layout.lines) {
     for (const fragment of line.fragments) {
       context.font = fontFor(fragment.kind, line.fontSize);

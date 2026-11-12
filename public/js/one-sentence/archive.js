@@ -14,12 +14,15 @@ import {
   sentenceText,
   sharePath,
   tallies,
+  writeInBand,
 } from './core.js';
 import { startSky } from './sky.js';
 
 const LOAD_TIMEOUT_MS = 30_000;
 
 const NO_SCROLL = { preventScroll: true };
+
+const STEPS = Object.freeze({ ArrowDown: 1, ArrowUp: -1 });
 
 function setSlot(root, name, value) {
   const node = root.querySelector(`[data-slot="${name}"]`);
@@ -53,15 +56,24 @@ function start(document) {
   const notFound = document.getElementById('os-notfound');
   const title = document.getElementById('os-h1').textContent;
   const orderButtons = [...root.querySelectorAll('[data-order]')];
-  const cells = [...filter.querySelectorAll('input[type="radio"]')].map(input => ({
-    input,
-    beat: Number(input.dataset.beat),
-    count: input.parentElement.querySelector('.os-count'),
+  const cells = [...filter.querySelectorAll('.os-cell')].map(button => ({
+    button,
+    beat: Number(button.dataset.beat),
+    family: button.dataset.family,
+    count: button.querySelector('.os-count'),
   }));
+  const cellByButton = new Map(cells.map(cell => [cell.button, cell]));
+  const columns = [...new Set(cells.map(cell => cell.beat))].map(beat => cells.filter(cell => cell.beat === beat));
+  const totals = [...filter.querySelectorAll('.os-total[data-beat]')].map(node => ({
+    beat: Number(node.dataset.beat),
+    count: node.querySelector('.os-count'),
+  }));
+  const stops = columns.map(() => null);
 
   const state = { rows: [], view: [], filters: [ANY, ANY, ANY], order: 'newest', seed: 1, shown: PAGE_SIZE };
   let dialog = null;
   let dialogLoad = null;
+  let shareRequest = 0;
 
   function runsOf(row) {
     return sentenceRuns(row, frame);
@@ -74,7 +86,8 @@ function start(document) {
     item.dataset.tilt = String(row.n % 4);
     item.tabIndex = -1;
     row.w.forEach((word, index) => setSlot(item, `w${index}`, word));
-    setSlot(item, 'ending', runs[runs.length - 1].text);
+    const ending = setSlot(item, 'ending', runs[runs.length - 1].text);
+    if (ending) ending.dataset.band = String(writeInBand(row.n));
     setSlot(item, 'number', formatCount(row.n));
     setSlot(item, 'date', dateLabel(row.d));
     item.querySelector('[data-slot="link"]').href = sharePath(view.location.pathname, row.n);
@@ -85,13 +98,36 @@ function start(document) {
     return item;
   }
 
+  function isPressed(cell) {
+    return state.filters[cell.beat] === cell.family;
+  }
+
   function fillCounts() {
     const counts = tallies(state.rows, state.filters);
-    for (const { input, beat, count } of cells) {
-      const value = input.value === ANY ? counts[beat].any : (counts[beat].families.get(input.value) ?? 0);
-      count.textContent = formatCount(value);
-      input.disabled = value === 0 && !input.checked;
+    for (const { beat, count } of totals) count.textContent = formatCount(counts[beat].any);
+    for (const cell of cells) {
+      const value = counts[cell.beat].families.get(cell.family) ?? 0;
+      const pressed = isPressed(cell);
+      cell.count.textContent = formatCount(value);
+      cell.button.setAttribute('aria-pressed', String(pressed));
+      cell.button.disabled = value === 0 && !pressed;
     }
+    fillStops();
+  }
+
+  function fillStops() {
+    columns.forEach((column, beat) => {
+      const current = stops[beat];
+      if (!current || current.button.disabled) {
+        stops[beat] = column.find(isPressed) ?? column.find(cell => !cell.button.disabled) ?? null;
+      }
+      for (const cell of column) cell.button.tabIndex = cell === stops[beat] ? 0 : -1;
+    });
+  }
+
+  function moveStop(cell) {
+    stops[cell.beat] = cell;
+    fillStops();
   }
 
   function fillList() {
@@ -145,21 +181,25 @@ function start(document) {
       text: sentenceText(runs),
       stamp: trigger.closest('.d40-sheetfoot').querySelector('.d40-stamp').textContent,
       fileStem: `one-sentence-${root.dataset.year}-${row.n}`,
+      band: writeInBand(row.n),
     };
   }
 
   async function openShare(row, trigger) {
+    shareRequest += 1;
+    const request = shareRequest;
+    const wanted = () => request === shareRequest && trigger.isConnected;
     if (!dialog) {
       dialogLoad ??= import('./share.js').then(({ createShareDialog }) => createShareDialog(document));
       try {
         dialog = await dialogLoad;
       } catch {
         dialogLoad = null;
-        showShareFailed(trigger);
+        if (wanted()) showShareFailed(trigger);
         return;
       }
     }
-    dialog.open(shareItem(row, trigger));
+    if (wanted()) dialog.open(shareItem(row, trigger));
   }
 
   function showShareFailed(trigger) {
@@ -220,16 +260,37 @@ function start(document) {
     openLinked();
   }
 
-  filter.addEventListener('change', event => {
-    const input = event.target;
-    state.filters[Number(input.dataset.beat)] = input.value;
+  filter.addEventListener('click', event => {
+    const cell = cellByButton.get(event.target.closest?.('.os-cell'));
+    if (!cell || cell.button.disabled) return;
+    const focused = document.activeElement === cell.button;
+    state.filters[cell.beat] = isPressed(cell) ? ANY : cell.family;
+    stops[cell.beat] = cell;
     apply();
+    if (focused && cell.button.disabled) stops[cell.beat]?.button.focus(NO_SCROLL);
+  });
+  filter.addEventListener('keydown', event => {
+    const step = STEPS[event.key];
+    const cell = cellByButton.get(event.target.closest?.('.os-cell'));
+    if (!step || !cell || event.altKey || event.ctrlKey || event.metaKey) return;
+    event.preventDefault();
+    const column = columns[cell.beat];
+    let index = column.indexOf(cell) + step;
+    while (column[index]?.button.disabled) index += step;
+    const next = column[index];
+    if (!next) return;
+    moveStop(next);
+    next.button.focus();
   });
   clear.addEventListener('click', () => {
     state.filters = [ANY, ANY, ANY];
-    for (const { input } of cells) input.checked = input.value === ANY;
+    fillCounts();
+    const first = columns[0].find(cell => !cell.button.disabled);
+    if (first) {
+      moveStop(first);
+      first.button.focus(NO_SCROLL);
+    }
     apply();
-    cells.find(({ input }) => input.checked)?.input.focus(NO_SCROLL);
   });
   for (const button of orderButtons) {
     button.addEventListener('click', () => setOrder(button.dataset.order));

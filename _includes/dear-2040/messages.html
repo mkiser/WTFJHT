@@ -1,0 +1,54 @@
+{%- assign d40_view = page.d40_view | default: "" -%}
+<div hidden data-d40-msgs="page">
+{%- if d40_view == "write" or d40_view == "letters" or d40_view == "letter" %}
+<span data-msg="placeholders.copied">Copied.</span>
+<span data-msg="placeholders.copyFallback">Select the text below to copy it.</span>
+{%- endif %}
+{%- if d40_view == "letters" or d40_view == "letter" %}
+<span data-msg="actions.sendOther">Share this letter</span>
+<span data-msg="actions.copyLink">Copy link to this letter</span>
+<span data-msg="actions.print">Print this letter</span>
+<span data-msg="placeholders.copiedLink">Link copied.</span>
+<span data-msg="placeholders.shareTitle">A letter to 2040</span>
+<span data-msg="result.shareIntro">A letter to the generation living in 2040, from a WTFJHT reader:</span>
+<span data-msg="result.shareInvite">Write your own Dear 2040 letter:</span>
+<span data-msg="result.shareExcerpt">From a letter to 2040: “{excerpt}”</span>
+<span data-msg="result.shareBare">A letter to 2040</span>
+<span data-msg="result.inviteText">Write a short, anonymous letter to the generation living in the year 2040 about what today feels like. Open through {closeDay}.</span>
+{%- endif %}
+{%- if d40_view == "letters" %}
+<span data-msg="collection.countSummary">**{publishedCount} anonymous letters** to the generation living in 2040.</span>
+<span data-msg="collection.countSummaryOne">**1 anonymous letter** to the generation living in 2040.</span>
+<span data-msg="collection.closedSummary">**{publishedCount} anonymous letters** to the generation living in 2040. Closed {closeDate}.</span>
+<span data-msg="collection.closedSummaryUndated">**{publishedCount} anonymous letters** to the generation living in 2040.</span>
+<span data-msg="collection.dayHeading">{date}</span>
+<span data-msg="collection.heldCount">Show {count} new letters</span>
+<span data-msg="collection.heldCountOne">Show 1 new letter</span>
+<span data-msg="collection.liveStalled">Can’t load new letters right now. Retrying…</span>
+<span data-msg="states.livePaused">Live updates paused.</span>
+<span data-msg="placeholders.moreLoaded">More letters were added.</span>
+<span data-msg="states.closed">The collection is closed to new letters.</span>
+{%- endif %}
+{%- if d40_view == "letter" %}
+<span data-msg="actions.keepCopy">Download image</span>
+<span data-msg="actions.saveImage">Save your letter</span>
+<span data-msg="actions.copy">Copy the text</span>
+<span data-msg="actions.close">Close</span>
+<span data-msg="placeholders.loading">Loading…</span>
+<span data-msg="result.copyFailed">Couldn’t create the image on this device. Copy the text instead.</span>
+<span data-msg="placeholders.imageSaved">Your copy is downloading.</span>
+<span data-msg="placeholders.imageAttribution">whatthefuckjusthappenedtoday.com/dear-2040</span>
+<span data-msg="result.ownHeading">Your letter has been published.</span>
+<span data-msg="states.closed">The collection is closed to new letters.</span>
+{%- endif %}
+{%- if d40_view == "write" %}
+<span data-msg="actions.publish">Publish it</span>
+<span data-msg="actions.confirmPublish">Yes, publish it</span>
+<span data-msg="placeholders.publishing">Publishing…</span>
+<span data-msg="placeholders.turnstilePrompt">Verify you’re human to publish.</span>
+<span data-msg="write.restored">Draft restored. It’s saved on this device only.</span>
+<span data-msg="write.draftSaved">A draft is saved on your device.</span>
+<span data-msg="write.memoryOnly">Your browser isn’t saving drafts. Keep this page open, or copy your letter before you leave.</span>
+<span data-msg="placeholders.draftKept">Your draft is saved on this device.</span>
+{%- endif %}
+</div>

@@ -1,0 +1,17 @@
+{%- assign d40 = site.data.dear_2040 -%}
+{%- assign d40_view = page.d40_view | default: "" -%}
+{%- if page.d40_first -%}{%- assign d40_first = page.d40_first -%}
+{%- elsif d40_view == "letters" -%}{%- assign d40_first = "letters" -%}
+{%- elsif d40_view == "letter" -%}{%- assign d40_first = "letter" -%}
+{%- elsif d40_view == "write" or d40_view == "note" -%}{%- assign d40_first = "counts" -%}
+{%- else -%}{%- assign d40_first = "none" -%}{%- endif -%}
+{%- capture d40_v -%}{%- if site.build_sha -%}{{ site.build_sha }}{%- else -%}{{ site.time | date: '%s' }}{%- endif -%}{%- endcapture -%}
+<script type="application/json" id="d40-edition">{"editionId":{{ d40.edition | jsonify }},"lastDay":{{ d40.last_day | date: "%Y-%m-%d" | jsonify }},"timeZone":{{ d40.time_zone | jsonify }},"closesAt":{{ d40.closes_at | jsonify }},"apiBase":{{ d40.api_base | jsonify }},"turnstileSiteKey":{{ d40.turnstile_site_key | jsonify }},"limits":{{ d40.limits | jsonify }},"view":{{ d40_view | jsonify }},"first":{{ d40_first | jsonify }},"buildSha":{{ site.build_sha | default: "" | jsonify }}}</script>
+<style>html:not([data-d40-state="closed"]):not([data-d40-state="paused"]) [data-d40-when]:not([data-d40-when~="open"]),html[data-d40-state="closed"] [data-d40-when]:not([data-d40-when~="closed"]),html[data-d40-state="paused"] [data-d40-when]:not([data-d40-when~="paused"]),html[data-d40-load="failed"] [data-d40-script]{display:none!important}</style>
+<script>(function(){var w=window,d=document,h=d.documentElement,e={},t=new Date(),r,n,a,p,q,u;try{e=JSON.parse(d.getElementById('d40-edition').textContent)}catch(x){}r=(t.getHours()+t.getMinutes()/60).toFixed(2);n=+r;h.style.setProperty('--d40-hour',r);h.setAttribute('data-d40-band',n>=5&&n<9?'dawn':n>=9&&n<16?'day':n>=16&&n<20?'dusk':'night');h.setAttribute('data-d40-state',Date.parse(e.closesAt)<=Date.now()?'closed':'open');a=String(e.apiBase||'').replace(/\/+$/,'');w.d40Base=a;p=e.first;q=new URLSearchParams(location.search).get('id');u=p==='letters'?'/letters?limit='+(e.limits||{}).pageSize:p==='letter'&&q?'/letters/'+encodeURIComponent(q):p==='counts'?'/pulse?fields=counts':p==='pulse'?'/pulse':'';if(u&&w.fetch){try{w.d40Early={base:a,path:u,response:fetch(a+u,{cache:'no-store',credentials:'omit'})};w.d40Early.response.catch(function(){})}catch(x){}}})();</script>
+{%- if d40_view != "" %}
+<link rel="modulepreload" href="{{ site.baseurl }}/public/js/dear-2040/{{ d40_view }}.js?v={{ d40_v }}">
+{%- endif %}
+{%- for d40_module in page.d40_preload %}
+<link rel="modulepreload" href="{{ site.baseurl }}/public/js/dear-2040/{{ d40_module }}.js">
+{%- endfor %}

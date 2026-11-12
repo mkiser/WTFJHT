@@ -92,8 +92,12 @@ jobs:
           ruby-version: 3.3.5
           bundler-cache: true
 
+      - name: Write build identity
+        run: |
+          printf 'build_sha: "%s"\n' "$GITHUB_SHA" > _config_build.yml
+
       - name: Build Jekyll site
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --config _config.yml,_config_build.yml
         env:
           SKIP_SEARCH_INDEX: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
           SKIP_LEADERBOARD: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
@@ -142,12 +146,21 @@ jobs:
           aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
             --acl public-read \
             --exclude "*.html" --exclude "*.json" --exclude "*.xml" \
+            --exclude "public/js/dear-2040/*" \
             --cache-control "public, max-age=86400" &
           PID4=$!
 
+          aws s3 cp _site/public/js/dear-2040/ $BUCKET/public/js/dear-2040/ --recursive --only-show-errors \
+            --acl public-read \
+            --exclude "*" \
+            --include "*.js" \
+            --content-type "text/javascript; charset=utf-8" \
+            --cache-control "public, max-age=300, s-maxage=300" &
+          PID5=$!
+
           # Wait for all passes and fail if any failed
           FAILED=0
-          for PID in $PID1 $PID2 $PID3 $PID4; do
+          for PID in $PID1 $PID2 $PID3 $PID4 $PID5; do
             [ -z "$PID" ] && continue
             wait $PID || FAILED=1
           done

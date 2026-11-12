@@ -1,10 +1,11 @@
 ---
 layout: default
+head_include: dear-2040/head.html
 ---
 
 <article class="page d2040-page">
 {%- if page.d40_view %}
-<div id="dear-2040" class="d2040" data-view="{{ page.d40_view }}" data-api-url="https://whatthefuckjusthappenedtoday.com">
+<div id="dear-2040" class="d2040" data-view="{{ page.d40_view }}">
 <h1 id="d40-h1" class="page-title d40-h1" tabindex="-1">{% if page.d40_view == "note" %}{{ page.d40_h1 | escape }}{% else %}<a href="{{ '/dear-2040/' | relative_url }}">{{ page.d40_h1 | escape }}</a>{% endif %}</h1>
 {{ content }}
 <div id="d40-announce" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></div>
@@ -12,9 +13,14 @@ layout: default
 {%- if page.d40_noscript %}
 <noscript><div class="d2040"><p class="d40-sec d40-pubnote">{{ page.d40_noscript | escape }}</p></div></noscript>
 {%- endif %}
+{% include dear-2040/sheet.html %}
+{% include dear-2040/messages.html %}
 {%- else %}
 {{ content }}
 {%- endif %}
 </article>
-
-<script src="{{ site.url }}{{ site.baseurl }}/public/js/dear-2040.js?v={{ site.time | date: '%s' }}"></script>
+{%- if page.d40_view %}
+{%- capture d40_entry_v -%}{%- if site.build_sha -%}{{ site.build_sha }}{%- else -%}{{ site.time | date: '%s' }}{%- endif -%}{%- endcapture %}
+<script type="module" src="{{ site.baseurl }}/public/js/dear-2040/{{ page.d40_view }}.js?v={{ d40_entry_v }}"></script>
+<script>addEventListener('DOMContentLoaded',function(){var d=document,r=d.getElementById('dear-2040'),f=r&&r.querySelector('[data-d40-block="load-failure"]');if(window.d40Booted||!f)return;d.documentElement.setAttribute('data-d40-load','failed');f.hidden=false;[].forEach.call(r.querySelectorAll('[data-act="reload"],[data-d40-block="load-failure"] button'),function(b){b.hidden=false;b.addEventListener('click',function(){location.reload()})})});</script>
+{%- endif %}

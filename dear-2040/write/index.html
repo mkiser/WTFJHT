@@ -8,4 +8,36 @@ sitemap: false
 d40_view: write
 d40_h1: "Dear 2040."
 d40_noscript: "JavaScript is required. Turn on JavaScript in your browser to write and read letters."
+d40_preload:
+  - boot
+  - announce
+  - api
+  - dom
+  - draft-store
+  - edition
+  - poll
+  - sky
+  - core
+  - paths
+  - publish
+  - turnstile
 ---
+<p class="lead d40-subhed" id="d40-subhed">What do you want the next generation to know about today?</p>
+<p class="d40-cues" id="d40-cues" data-d40-when="open" data-d40-script>Write it to your kid, your grandkid, a friend, your future self, or to nobody in particular. What would you tell them about this American life and the view from your window? What are you hoping for? What are you afraid of? What do you think they should know?</p>
+<div class="d40-card" id="d40-card" data-d40-when="open" data-d40-script><p class="d40-sal" aria-hidden="true" data-msg="letter.salutation">Dear 2040,</p><label class="sr-only" for="d40-body" id="d40-body-label">Your letter to 2040</label><textarea id="d40-body" rows="6" aria-describedby="d40-counter" placeholder="Start writing"></textarea><p class="d40-stamp d40-runbox" id="d40-stamp" data-d40-when="open"><span class="d40-run"><span class="d40-rs">Written <span data-slot="today"></span></span></span></p></div>
+<script>(function(){var s=document.querySelector('#d40-stamp [data-slot="today"]');try{s.textContent=new Intl.DateTimeFormat('en-US',{timeZone:{{ site.data.dear_2040.time_zone | jsonify }},month:'short',day:'numeric',year:'numeric'}).format(new Date())}catch(e){}})();</script>
+<p class="d40-sec d40-locked" id="d40-locked" data-d40-block="locked" hidden>Your letter is locked to prevent a duplicate post.</p>
+<div class="d40-under" id="d40-under" data-d40-when="open" data-d40-script><p class="d40-sec" id="d40-stuck">Not sure where to start? How has this political era changed you, your relationships, and your outlook on the future? Or ask a question!</p><p class="d40-sec d40-status" id="d40-status" aria-live="polite"></p></div>
+<p class="d40-sec d40-counter" id="d40-counter" data-d40-block="counter" hidden><span data-d40-block="counter-under" data-d40-group="counter-text"><span data-slot="used"></span> of 1,000. That’s plenty long!</span><span data-d40-block="counter-over" data-d40-group="counter-text" hidden><span data-slot="used"></span> of 1,000 characters. Shorten your letter to publish.</span></p>
+<p class="d40-err" role="alert" data-d40-block="error-body-required" data-d40-group="error" hidden>Write your letter before publishing.</p>
+<p class="d40-err" role="alert" data-d40-block="error-body-too-short" data-d40-group="error" hidden>Your letter must be at least 20 characters.</p>
+<p class="d40-err" role="alert" id="d40-err" data-d40-block="error-body-too-long" data-d40-group="error" hidden>Your letter must be 1,000 characters or fewer.</p>
+<p class="d40-err" role="alert" data-d40-block="error-offline-hold" data-d40-group="error" hidden>You’re offline. Your letter wasn’t published. <span data-slot="saved"></span> Publish it when you’re back online.</p>
+<p class="d40-err" role="alert" data-d40-block="error-publish-failure" data-d40-group="error" hidden>Couldn’t confirm your letter was published. <span data-slot="saved"></span></p>
+<p class="d40-err" role="alert" data-d40-block="error-rate-limited" data-d40-group="error" hidden>Too many attempts. Try again in <span data-slot="minutes"></span> minutes.</p>
+<p class="d40-err" role="alert" data-d40-block="error-rate-limited-one" data-d40-group="error" hidden>Too many attempts. Try again in a minute.</p>
+<p class="d40-err" role="alert" data-d40-block="error-verification-failed" data-d40-group="error" hidden>Verification failed. Refresh the page and try again.</p>
+<p class="d40-err" role="alert" data-d40-block="error-closed-during-publish" data-d40-group="error" hidden>Submissions closed before your letter was published. Copy your text to keep it.</p>
+<p class="d40-err" role="alert" data-d40-block="error-publish-gone" data-d40-group="error" hidden>This letter was removed and can’t be published again. Copy your text to keep it.</p>
+<p class="d40-saved" id="d40-saved" data-d40-block="memory-only" hidden></p>
+<div class="d40-commit" id="d40-commit"><div class="d40-confirm" id="d40-confirm" data-d40-block="confirm" hidden><p class="d40-notice">When you click publish, your anonymous letter will be public. You can’t edit it after, so leave out real names and other personally identifiable information!</p><div class="d40-gate" id="d40-gate"></div></div><p class="d40-state" id="d40-closed" data-d40-when="closed">The collection is closed to new letters.</p><p class="d40-state" id="d40-paused" data-d40-when="paused">Dear 2040 isn’t available right now. Try again later.<span data-d40-block="paused-saved" hidden><br><span class="d40-sec" data-slot="saved"></span></span></p><p class="d40-state" data-d40-block="load-failure" hidden>Couldn’t load this page. Try again.</p><p class="d40-state" data-d40-block="published" hidden>Your letter has been published.</p><div class="d40-row" id="d40-actions"><button class="jaq-btn" id="d40-publish" type="button" aria-disabled="false" data-d40-when="open paused" data-d40-script>Publish it</button><button class="jaq-btn" id="d40-reload" type="button" data-act="reload" data-msg="placeholders.retryCheck" hidden>Try again</button><p class="d40-sec d40-anon" id="d40-anon">All letters are anonymous.</p><button class="d40-link" id="d40-keep" type="button" hidden>Keep writing</button><button class="d40-link" id="d40-copy" type="button" hidden>Copy the text</button><a class="d40-link" id="d40-readothers" href="{{ '/dear-2040/letters/' | relative_url }}" data-d40-when="closed">Read the others →</a></div><textarea class="d40-fallback" id="d40-fallback" readonly aria-labelledby="d40-body-label" hidden></textarea></div>

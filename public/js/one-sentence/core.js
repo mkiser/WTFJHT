@@ -140,3 +140,20 @@ export function parseEdition(json) {
 export function sharePath(pathname, n) {
   return `${pathname}?n=${n}`;
 }
+
+const BAND_KEY = 'os2025-writein-233|P2|';
+const BAND_COUNT = 4;
+
+export function writeInBand(n) {
+  let hash = 0x811c9dc5;
+  for (const char of `${BAND_KEY}${n}`) {
+    hash ^= char.charCodeAt(0);
+    hash = Math.imul(hash, 0x01000193) >>> 0;
+  }
+  hash ^= hash >>> 16;
+  hash = Math.imul(hash, 0x85ebca6b) >>> 0;
+  hash ^= hash >>> 13;
+  hash = Math.imul(hash, 0xc2b2ae35) >>> 0;
+  hash ^= hash >>> 16;
+  return (hash >>> 0) % BAND_COUNT;
+}

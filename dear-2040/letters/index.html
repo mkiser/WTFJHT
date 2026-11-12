@@ -8,4 +8,35 @@ sitemap: true
 d40_view: letters
 d40_h1: "Dear 2040."
 d40_noscript: "JavaScript is required. Turn on JavaScript in your browser to write and read letters."
+d40_preload: [boot, dom, core, sheet, share, live-model, dot-run, paths, api, poll, edition, announce, draft-store, sky]
 ---
+<p class="lead d40-subhed" id="d40-subhed">What do you want the next generation to know about today?</p>
+<p class="d40-body1 d40-lede" id="d40-lede" data-slot="lede">Anonymous letters to the generation living in 2040.</p>
+<div id="d40-head">
+<div class="d40-headrow" id="d40-headrow" data-d40-when="open paused">
+<div class="d40-row d40-ctarow" id="d40-ctarow"><a class="jaq-btn" href="{{ '/dear-2040/write/' | relative_url }}">Write your letter</a></div>
+<p class="d40-live" id="d40-live" hidden><span class="d40-live-text d40-runbox" id="d40-live-text" data-slot="live-text" hidden></span><button class="jaq-btn d40-banner d40-showheld" type="button" id="d40-showheld" hidden><span id="d40-showheld-t" data-slot="held-count"></span></button></p>
+</div>
+<p class="d40-sec d40-closeline" data-d40-when="open paused">Open through {{ site.data.dear_2040.last_day | date: "%A, %B %-d" }}.</p>
+</div>
+<div id="d40-listtop"><p class="d40-newer" hidden><button class="d40-link" type="button" id="d40-newer">Newer letters</button></p></div>
+<div class="d40-days" id="d40-days" aria-busy="false">
+<p class="d40-sec" id="d40-loading" data-d40-block="loading" hidden>Loading…</p>
+<div class="d40-msg" data-d40-block="load-failure" hidden>
+<p class="d40-body1 is-ink" data-d40-block="list-failure" data-d40-group="failure" data-msg="states.listFailure">Couldn’t load the letters. Try again.</p>
+<p class="d40-body1 is-ink" data-d40-block="offline" data-d40-group="failure" data-msg="states.offline" hidden>Dear 2040 isn’t available right now. Try again later.</p>
+<button class="jaq-btn" type="button" data-msg="placeholders.retryCheck">Try again</button>
+</div>
+<div data-d40-block="empty" hidden>
+<p class="d40-body1 d40-empty" data-d40-when="open paused">No letters are published yet.</p>
+<p class="d40-body1 d40-empty" data-d40-when="closed">The collection is closed.</p>
+</div>
+</div>
+<div id="d40-listend">
+<p class="d40-sec" data-d40-block="more-failure" data-slot="more-error" hidden></p>
+<p class="d40-more" id="d40-more-p" hidden><button class="d40-link" type="button" id="d40-more">Load more letters</button></p>
+<p class="d40-sec d40-endline" id="d40-endline" tabindex="-1" hidden>That’s all of the Dear 2040 letters.</p>
+<div class="d40-closing-link" id="d40-closing" data-d40-when="open paused" hidden><a class="jaq-btn" href="{{ '/dear-2040/write/' | relative_url }}">Write your letter</a></div>
+</div>
+<template id="d40-tpl-day"><section class="d40-day"><h2 class="d40-dayh"><span class="d40-dayd" data-slot="date"></span></h2><ul class="d40-cards" role="list"></ul></section></template>
+<template id="d40-tpl-rule" data-days="2026-11-03 2026-11-04"><div class="d40-phase" id="d40-phase"><p class="d40-phase-label">The polls closed Tuesday night, November 3.</p></div></template>

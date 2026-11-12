@@ -1,0 +1,14 @@
+---
+layout: null
+permalink: /dear-2040/edition.json
+sitemap: false
+---
+{%- assign d40 = site.data.dear_2040 -%}
+{
+  "editionId": {{ d40.edition | jsonify }},
+  "lastDay": {{ d40.last_day | date: "%Y-%m-%d" | jsonify }},
+  "timeZone": {{ d40.time_zone | jsonify }},
+  "closesAt": {{ d40.closes_at | jsonify }},
+  "limits": {{ d40.limits | jsonify }},
+  "buildSha": {{ site.build_sha | default: "" | jsonify }}
+}

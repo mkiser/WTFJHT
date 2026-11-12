@@ -36,9 +36,16 @@
       apply(stored());
     })();
     </script>
+    {%- assign page_head_include = page.head_include | default: layout.head_include %}
+    {%- if page_head_include %}
+    {% include {{ page_head_include }} %}
+    {%- endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="theme-color" content="#000000">
     <meta name="color-scheme" content="light dark">
+    {%- if site.build_sha %}
+    <meta name="build-sha" content="{{ site.build_sha }}">
+    {%- endif %}
     {% if page.noindex %}<meta name="robots" content="noindex">{% endif %}
     <!-- AnchorJS styles, pre-supplied WITHOUT its embedded icon font: the library
          only injects its own <style> (incl. @font-face) if style.anchorjs is absent.

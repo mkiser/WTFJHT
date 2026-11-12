@@ -9,4 +9,26 @@ noindex: true
 d40_view: letter
 d40_h1: "Dear 2040."
 d40_noscript: "JavaScript is required. Turn on JavaScript in your browser to write and read letters."
+d40_preload: [boot, dom, sheet, share, core, announce, api, draft-store, edition, poll, sky]
 ---
+{%- assign d40_report = site.data.dear_2040.report_target -%}
+{%- assign d40_report_subject = "Report a Dear 2040 letter" -%}
+<p id="d40-subhed" class="lead d40-subhed">What do you want the next generation to know about today?</p>
+<div class="d40-numwrap" data-d40-block="number" data-d40-script><p class="d40-num" id="d40-numline">&nbsp;</p></div>
+<div id="d40-sheetwrap" data-d40-block="sheet" hidden></div>
+<p class="d40-sec d40-loading" id="d40-loading" data-d40-block="loading" hidden>Loading…</p>
+<div class="d40-msg" data-d40-block="offline" hidden><p class="d40-body1 is-ink" tabindex="-1">Dear 2040 isn’t available right now. Try again later.</p><button class="jaq-btn" type="button" data-act="retry">Try again</button></div>
+<div class="d40-msg" data-d40-block="load-failure" hidden><p class="d40-body1 is-ink" tabindex="-1">Couldn’t load this letter. Try again.</p><button class="jaq-btn" type="button" data-act="retry">Try again</button></div>
+<p class="d40-body1 d40-missing" data-d40-block="not-found" hidden>Letter not found.</p>
+<p class="d40-body1 d40-missing" data-d40-block="gone" data-slot="gone" hidden></p>
+<div class="d40-context" data-d40-block="others" hidden><p><a class="d40-link" href="/dear-2040/letters/">Read the others →</a></p></div>
+<div class="d40-invite" data-d40-block="invite" data-d40-when="open" hidden><a class="jaq-btn" href="/dear-2040/write/">Write your letter</a></div>
+<p class="d40-ctxline" data-d40-block="context" hidden><span data-d40-when="open">Anonymous letters from WTFJHT readers to the generation living in 2040. Write yours through {{ site.data.dear_2040.last_day | date: "%A, %B %-d" }}. </span><span data-d40-when="closed paused">Anonymous letters from WTFJHT readers to the generation living in 2040, written during the 2026 midterms. </span><a href="/dear-2040/">wtfjht.com/dear-2040</a></p>
+<div class="d40-row d40-share" id="d40-share" data-d40-block="reader-share" hidden><span class="d40-act"><button class="d40-link d40-quiet" type="button" data-share="keepcopy">Download image</button></span></div>
+<div class="d40-row d40-cta d40-readeractions" data-d40-block="reader-actions" hidden><a class="jaq-btn" href="/dear-2040/write/" data-d40-when="open">Write your letter</a><a class="jaq-btn d40-readlink" href="/dear-2040/letters/">Read the letters</a></div>
+{%- if d40_report %}
+<p class="d40-report" id="d40-report" data-d40-block="report" hidden><a class="d40-link" href="{{ d40_report }}" data-report-subject="{{ d40_report_subject }}">Report this letter</a></p>
+{%- endif %}
+<div id="d40-ownactions" data-d40-block="own-actions" hidden><div class="d40-row d40-cta"><button class="jaq-btn" type="button" data-share="share" data-d40-block="own-send" hidden>Send it to someone</button><button class="jaq-btn" type="button" data-share="copylink" data-d40-block="own-copylink" hidden>Copy link to this letter</button><a class="jaq-btn" data-share="email" data-d40-block="own-email" hidden>Email this letter</a><button class="jaq-btn d40-readlink" type="button" data-share="invite" data-d40-block="own-invite" data-d40-when="open" hidden>Invite someone to write one</button><a class="jaq-btn d40-readlink" data-share="invite-email" data-d40-block="own-invite-email" data-d40-when="open" hidden>Invite someone to write one</a></div><p class="d40-quietlinks"><a class="d40-link d40-quiet" data-share="email-self">Email yourself a copy</a><button class="d40-link d40-quiet" type="button" id="d40-keepcopy">Download image</button><button class="d40-link d40-quiet d40-printlink" type="button" id="d40-printletter" disabled>Print this letter</button></p></div>
+<div class="d40-what d40-prose" id="d40-what" data-d40-block="own-what" hidden><p class="d40-whatbody"><strong>What happens now.</strong> Your letter is public, alongside everyone else’s. <span data-d40-when="closed paused">The collection is closed to new letters. </span></p><p class="d40-whatbody">{% if d40_report %}<a class="d40-inl" data-act="takedown" href="{{ d40_report }}" data-report-subject="{{ d40_report_subject }}">{% endif %}If you want yours taken down, email me the link.{% if d40_report %}</a>{% endif %}</p></div>
+<div class="d40-row d40-exit" data-d40-block="own-exit" hidden><a class="d40-link" href="/dear-2040/letters/">Read the others →</a></div>

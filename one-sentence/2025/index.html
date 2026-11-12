@@ -4,6 +4,8 @@ title: 'Your "Last Year in One Sentence."'
 description: "How 2,430 WTFJHT readers felt on Election Day 2024, right after the results, and a year later, one sentence each."
 image: "/uploads/og-image.jpg"
 permalink: /one-sentence/2025/
+redirect_from:
+- "/live/"
 sitemap: false
 os_view: archive
 os_year: 2025
@@ -33,30 +35,32 @@ os_families:
 <div class="os-grid">
 <div class="os-col os-labels" aria-hidden="true">
 <div class="os-head">Feeling</div>
-<div class="os-rowlabel">Any feeling</div>
+<div class="os-total">Any feeling</div>
 {%- for os_family in page.os_families %}
 <div class="os-rowlabel">{{ os_family }}</div>
 {%- endfor %}
 </div>
 {%- for os_beat in page.os_beats %}
 {%- assign os_i = forloop.index0 %}
-<div class="os-col" role="radiogroup" aria-labelledby="os-head-{{ os_i }}">
+<div class="os-col" role="group" aria-labelledby="os-head-{{ os_i }}">
 <div class="os-head" id="os-head-{{ os_i }}">{{ os_beat }}</div>
-<label class="os-cell"><input type="radio" name="os-beat-{{ os_i }}" value="" data-beat="{{ os_i }}" checked><span class="os-face"><span class="sr-only">Any feeling: </span><span class="os-count"></span></span></label>
+<div class="os-total" data-beat="{{ os_i }}"><span class="sr-only">Any feeling: </span><span class="os-count"></span></div>
 {%- for os_family in page.os_families %}
-<label class="os-cell"><input type="radio" name="os-beat-{{ os_i }}" value="{{ os_family }}" data-beat="{{ os_i }}"><span class="os-face"><span class="sr-only">{{ os_family }}: </span><span class="os-count"></span></span></label>
+<button class="os-cell" type="button" data-beat="{{ os_i }}" data-family="{{ os_family }}" aria-pressed="false" tabindex="-1"><span class="sr-only">{{ os_family }}: </span><span class="os-count"></span></button>
 {%- endfor %}
 </div>
 {%- endfor %}
 </div>
 </fieldset>
 <div class="os-controls">
+<div class="os-summary">
 <p id="os-tally" class="os-tally is-waiting" role="status" aria-atomic="true"><strong data-slot="shown">2,430</strong> of <span data-slot="total">2,430</span> sentences</p>
-<button class="d40-link d40-quiet os-clear" type="button" id="os-clear" hidden>Clear filters</button>
+<button class="os-btn os-clear" type="button" id="os-clear" hidden>Clear filters</button>
+</div>
 <div class="os-order" role="group" aria-label="Order the sentences">
-<button class="d40-link d40-quiet" type="button" data-order="newest" aria-pressed="true" disabled>Newest</button>
-<button class="d40-link d40-quiet" type="button" data-order="oldest" aria-pressed="false" disabled>Oldest</button>
-<button class="d40-link d40-quiet" type="button" data-order="shuffle" aria-pressed="false" disabled>Shuffle</button>
+<button class="os-seg" type="button" data-order="newest" aria-pressed="true" disabled>Newest</button>
+<button class="os-seg" type="button" data-order="oldest" aria-pressed="false" disabled>Oldest</button>
+<button class="os-seg" type="button" data-order="shuffle" aria-pressed="false" disabled>Shuffle</button>
 </div>
 </div>
 </section>
@@ -83,22 +87,41 @@ os_families:
 
 <template id="os-tpl-sheet"><li class="d40-item"><article class="d40-sheet"><div class="d40-body"><p class="d40-para os-sentence"><span class="os-frame" data-frame>On Election Day 2024, I was feeling </span><b class="os-word" data-slot="w0"></b><span class="os-frame" data-frame> and </span><b class="os-word" data-slot="w1"></b><span class="os-frame" data-frame>; but right after the results were in, I felt </span><b class="os-word" data-slot="w2"></b><span class="os-frame" data-frame> and </span><b class="os-word" data-slot="w3"></b><span class="os-frame" data-frame>; now, a year later, I'm feeling </span><b class="os-word" data-slot="w4"></b><span class="os-frame" data-frame>; and as I think about the future, I feel </span><span class="os-ending" data-slot="ending"></span></p></div><div class="d40-sheetfoot"><p class="d40-stamp"><a class="d40-permalink" data-slot="link">No. <span data-slot="number"></span><span aria-hidden="true"> · </span><span data-slot="date"></span></a></p><button class="d40-shareicon" type="button" aria-label="Save or share this sentence" title="Save or share this sentence"><svg class="icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" x2="12" y1="2" y2="15"></line></svg></button></div></article></li></template>
 
-<dialog id="os-dlg" class="d40-dlg" aria-labelledby="os-dlg-lbl">
+<dialog id="os-dlg" class="d40-dlg os-dlg" aria-labelledby="os-dlg-lbl">
+<div class="os-dlg-head">
 <p id="os-dlg-lbl" class="d40-dlg-lbl sr-only">Save or share this sentence</p>
+<button class="os-dlg-close" type="button" id="os-close" aria-label="Close"><svg aria-hidden="true" focusable="false" width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="3" x2="13" y2="13"/><line x1="13" y1="3" x2="3" y2="13"/></svg></button>
+</div>
 <div class="d40-dlg-slot">
 <div id="os-dlg-wait" class="d40-dlg-wait">Loading…</div>
 <img id="os-dlg-image" alt="" hidden>
 <p id="os-dlg-fail" class="d40-dlg-fail" hidden>Couldn’t create the image on this device. Copy the text instead.</p>
 </div>
-<div class="d40-dlg-row">
-<button class="d40-save" type="button" id="os-save" aria-disabled="true">Download image</button>
-<button class="d40-save" type="button" id="os-save-story" aria-disabled="true">Download for Stories</button>
+<div class="carousel-actions os-dlg-actions">
+<div class="carousel-actions__group">
+<button class="carousel-actions__pill" type="button" id="os-share-pill" aria-expanded="false" aria-controls="os-share-menu"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" x2="12" y1="2" y2="15"/></svg><span>Share</span></button>
+<div class="carousel-actions__card" id="os-share-menu" aria-hidden="true">
+<button class="carousel-actions__option" type="button" id="os-copy-link"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg></span><span class="carousel-actions__label">Copy link</span></button>
+<button class="carousel-actions__option" type="button" id="os-share"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m22 2-7 20-4-9-9-4z"/><path d="M22 2 11 13"/></svg></span><span class="carousel-actions__label">Send</span></button>
+<button class="carousel-actions__option" type="button" id="os-copy-text"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="14" x="3" y="3" rx="2"/><path d="M7 21h10a2 2 0 0 0 2-2V7"/></svg></span><span class="carousel-actions__label">Copy the text</span></button>
+<a class="carousel-actions__option" data-social="email" data-share="mailto:?subject={title}&amp;body={url}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="16" x="2" y="4" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg></span><span class="carousel-actions__label">Email</span></a>
+<a class="carousel-actions__option" data-social="whatsapp" data-share="https://wa.me/?text={title}%20{url}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51a3.04 3.04 0 0 0-.57-.01c-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 0 1-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 0 1-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 0 1 2.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0 0 12.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 0 0 5.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 0 0-3.48-8.413z"/></svg></span><span class="carousel-actions__label">WhatsApp</span></a>
+<a class="carousel-actions__option" data-social="facebook" data-share="https://www.facebook.com/sharer/sharer.php?u={url}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg></span><span class="carousel-actions__label">Facebook</span></a>
+<a class="carousel-actions__option" data-social="bluesky" data-share="https://bsky.app/intent/compose?text={title}%0A%0A{url}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="currentColor"><path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.882 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/></svg></span><span class="carousel-actions__label">Bluesky</span></a>
+<a class="carousel-actions__option" data-social="threads" data-share="https://threads.com/intent/post?text={title}%20{url}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 192 192" fill="currentColor"><path d="M141.537 88.988c-.827-.396-1.667-.778-2.518-1.143-1.482-27.307-16.403-42.94-41.457-43.1h-.34c-14.986 0-27.449 6.396-35.12 18.036l13.779 9.452c5.73-8.694 14.724-10.548 21.348-10.548h.076c8.25.053 14.474 2.451 18.504 7.129 2.932 3.405 4.893 8.111 5.864 14.05-7.314-1.244-15.224-1.626-23.679-1.14-23.82 1.371-39.134 15.264-38.105 34.568.521 9.792 5.4 18.216 13.735 23.719 7.047 4.652 16.124 6.927 25.557 6.412 12.458-.683 22.23-5.436 29.049-14.127 5.178-6.6 8.453-15.153 9.899-25.93 5.937 3.583 10.337 8.298 12.767 13.966 4.132 9.635 4.373 25.468-8.546 38.376-11.319 11.308-24.925 16.2-44.488 16.351-22.809-.169-40.06-7.484-51.275-21.742C34.236 139.966 28.808 120.682 28.605 96c.203-24.682 5.63-43.966 16.133-57.317C55.954 24.425 73.204 17.11 96.013 16.94c22.975.17 40.526 7.52 52.171 21.848 5.71 7.026 10.015 15.86 12.853 26.162l16.147-4.308c-3.44-12.68-8.853-23.707-16.219-32.768C147.036 9.607 125.202.195 97.07 0h-.113C68.882.194 47.292 9.642 32.788 28.08 19.882 44.486 13.224 67.316 13.001 95.932L13 96l.001.068c.223 28.616 6.881 51.446 19.787 67.853C47.292 182.358 68.882 191.806 96.957 192h.113c24.964-.173 42.558-6.708 57.052-21.189 18.963-18.945 18.392-42.692 12.142-57.27-4.484-10.454-13.033-19.345-24.727-24.953zm-43.096 40.519c-10.44.588-21.286-4.098-21.821-14.135-.396-7.442 5.296-15.746 22.462-16.735 1.966-.114 3.895-.169 5.79-.169 6.235 0 12.068.606 17.371 1.765-1.978 24.702-13.58 28.713-23.802 29.274z"/></svg></span><span class="carousel-actions__label">Threads</span></a>
+<a class="carousel-actions__option" data-social="x" data-share="https://twitter.com/intent/tweet?text={title}&amp;url={url}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></span><span class="carousel-actions__label">X</span></a>
+<a class="carousel-actions__option" data-social="mastodon" data-share="https://mastodonshare.com/?text={title}&amp;url={url}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="currentColor"><path d="M23.268 5.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242 15.792 0 11.813 0h-.03c-3.98 0-4.835.242-5.288.309C3.882.692 1.496 2.518.917 5.127.64 6.412.61 7.837.661 9.143c.074 1.874.088 3.745.26 5.611.118 1.24.325 2.47.62 3.68.55 2.237 2.777 4.098 4.96 4.857 2.336.792 4.849.923 7.256.38.265-.061.527-.132.786-.213.585-.184 1.27-.39 1.774-.753a.057.057 0 0 0 .023-.043v-1.809a.052.052 0 0 0-.02-.041.053.053 0 0 0-.046-.01 20.282 20.282 0 0 1-4.709.545c-2.73 0-3.463-1.284-3.674-1.818a5.593 5.593 0 0 1-.319-1.433.053.053 0 0 1 .066-.054c1.517.363 3.072.546 4.632.546.376 0 .75 0 1.125-.01 1.57-.044 3.224-.124 4.768-.422.038-.008.077-.015.11-.024 2.435-.464 4.753-1.92 4.989-5.604.008-.145.03-1.52.03-1.67.002-.512.167-3.63-.024-5.545zm-3.748 9.195h-2.561V8.29c0-1.309-.55-1.976-1.67-1.976-1.23 0-1.846.79-1.846 2.35v3.403h-2.546V8.663c0-1.56-.617-2.35-1.848-2.35-1.112 0-1.668.668-1.67 1.977v6.218H4.822V8.102c0-1.31.337-2.35 1.011-3.12.696-.77 1.608-1.164 2.74-1.164 1.311 0 2.302.5 2.962 1.498l.638 1.06.638-1.06c.66-.999 1.65-1.498 2.96-1.498 1.13 0 2.043.395 2.74 1.164.675.77 1.012 1.81 1.012 3.12v6.406z"/></svg></span><span class="carousel-actions__label">Mastodon</span></a>
+<a class="carousel-actions__option" data-social="linkedin" data-share="https://www.linkedin.com/sharing/share-offsite/?url={url}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 1 1 0-4.128 2.062 2.062 0 0 1 0 4.128zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></span><span class="carousel-actions__label">LinkedIn</span></a>
+<a class="carousel-actions__option" data-social="reddit" data-share="https://www.reddit.com/submit?url={url}&amp;title={title}" href="#" target="_blank" rel="noopener"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-7.004 4.87-3.874 0-7.004-2.176-7.004-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"/></svg></span><span class="carousel-actions__label">Reddit</span></a>
 </div>
-<div class="d40-dlg-row">
-<button class="d40-link" type="button" id="os-share" hidden>Share</button>
-<button class="d40-link" type="button" id="os-copy-link">Copy link</button>
-<button class="d40-link" type="button" id="os-copy-text">Copy the text</button>
-<button class="d40-close" type="button" id="os-close">Close</button>
+</div>
+<div class="carousel-actions__group">
+<button class="carousel-actions__pill" type="button" id="os-save-pill" aria-expanded="false" aria-controls="os-save-menu"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" x2="12" y1="15" y2="3"/></svg><span>Save</span></button>
+<div class="carousel-actions__card" id="os-save-menu" aria-hidden="true">
+<button class="carousel-actions__option" type="button" id="os-save" aria-disabled="true"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><circle cx="9" cy="9" r="2"/><path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21"/></svg></span><span class="carousel-actions__label">This card (4:5)</span></button>
+<button class="carousel-actions__option" type="button" id="os-save-story" aria-disabled="true"><span class="carousel-actions__icon"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="14" height="20" x="5" y="2" rx="2"/><line x1="12" x2="12.01" y1="18" y2="18"/></svg></span><span class="carousel-actions__label">This card (9:16)</span></button>
+</div>
+</div>
 </div>
 <div id="os-dlg-manual" class="os-manual" hidden>
 <textarea id="os-dlg-box" class="d40-fallback" readonly aria-label="Select the text below to copy it"></textarea>

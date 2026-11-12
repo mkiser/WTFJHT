@@ -1,0 +1,13 @@
+edition: "2026-midterms"
+last_day: 2026-11-11
+time_zone: "America/Los_Angeles"
+api_base: "https://whatthefuckjusthappenedtoday.com/api/dear-2040"
+turnstile_site_key: "0x4AAAAAAFw5FyxcorsUucbq"
+limits:
+  bodyCodePoints: 1000
+  bodyMinCodePoints: 20
+  requestBodyBytes: 8192
+  pageSize: 24
+  maxPageSize: 48
+  pollIntervalMs: 10000
+report_target: "mailto:matt@whatthefuckjusthappenedtoday.com"

@@ -24,6 +24,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: build-and-deploy
+  cancel-in-progress: false
+
 jobs:
   build-deploy:
     runs-on: ubuntu-24.04
@@ -34,6 +38,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
+          ref: master
           fetch-depth: 2
 
       - name: Check for post changes
@@ -171,11 +176,11 @@ jobs:
 
       - name: Purge Cloudflare cache
         run: |
-          curl -X DELETE "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache" \
-          -H "X-Auth-Email: ${{ secrets.CLOUD_FLARE_EMAIL }}" \
-          -H "X-Auth-Key: ${{ secrets.CLOUD_FLARE_API_KEY }}" \
-          -H "Content-Type: application/json" \
-          --data '{"purge_everything":true}'
+          RESP=$(curl -sS -X POST "https://api.cloudflare.com/client/v4/zones/2fa02b93146397fbf2001d812ab8b31f/purge_cache" \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_PURGE_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data '{"purge_everything":true}')
+          echo "$RESP" | grep -q '"success":true' || { echo "ERROR: Cloudflare cache purge failed: $RESP"; exit 1; }
 
       - name: Ping search engines and feeds
         run: |

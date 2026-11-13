@@ -137,28 +137,28 @@
               "label": "Last week in one sentence"
             },
             {
+              "id": "quiz",
+              "label": "The News Quiz."
+            },
+            {
               "id": "main_stories",
-              "label": "The main stories"
+              "label": "The Week in WTF."
             },
             {
               "id": "since_gone",
-              "label": "Dept. of Since I’ve Been Gone"
+              "label": "The Dept. of WTF Just Happened."
             },
             {
               "id": "numbers",
-              "label": "The Dept. of Numbers"
+              "label": "The Dept. of Numbers."
             },
             {
               "id": "most_clicked",
-              "label": "Most Clicked"
-            },
-            {
-              "id": "quiz",
-              "label": "The news quiz"
+              "label": "Most Clicked."
             },
             {
               "id": "daily_links",
-              "label": "Daily edition links"
+              "label": "Daily Editions."
             }
           ]
         },

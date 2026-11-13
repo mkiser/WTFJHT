@@ -1,6 +1,12 @@
 ---
 title: Day 2123
 date: 2026-11-12 15:37:43 -08:00
+tags:
+- "immigration"
+- "tariffs"
+- "iran"
+- "foreign-policy"
+- "elections"
 description: '"A Legend replaces a Legend."'
 image: "/uploads/day2123trump-dadcc2.jpg"
 todayInOneSentence: Trump pulled JD Vance out of negotiations to end the Iran war

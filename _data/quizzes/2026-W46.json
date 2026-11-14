@@ -1,0 +1,173 @@
+{
+  "id": "2026-W46",
+  "week_label": "Nov 9 – Nov 12, 2026",
+  "status": "published",
+  "editions": [
+    2123,
+    2122,
+    2121,
+    2120
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What must Trump do by Dec. 11 in his defamation lawsuit against the BBC unless the deadline is extended?",
+      "options": [
+        "Release the complete recording of his Jan. 6 speech",
+        "Withdraw his demand for $10 billion",
+        "Sit for a deposition",
+        "Submit the dispute to congressional arbitration"
+      ],
+      "correct": 2,
+      "explanation": "Trump must sit for a deposition by Dec. 11 or risk sanctions, potentially including dismissal of the lawsuit. A federal judge allowed the case to proceed over the BBC’s edited presentation of his Jan. 6 speech.",
+      "source_day": 2122,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/11/day-2122/",
+      "difficulty": "medium",
+      "type": "consequence"
+    },
+    {
+      "number": 2,
+      "question": "What did a letter Robert F. Kennedy Jr. sent before his 2019 trip to Samoa say he wanted to study?",
+      "options": [
+        "The economic effects of tariffs",
+        "Iranian threats against Americans",
+        "Nvidia’s sales of advanced AI chips",
+        "The measles, mumps, and rubella vaccine"
+      ],
+      "correct": 3,
+      "explanation": "Kennedy’s letter to Samoa’s prime minister said he wanted to study the measles, mumps, and rubella vaccine. That conflicted with his testimony that the trip had “nothing to do with vaccines.”",
+      "source_day": 2123,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/12/day-2123/",
+      "difficulty": "medium",
+      "type": "document"
+    },
+    {
+      "number": 3,
+      "question": "Which policy did Trump acknowledge had been “too tough” and had hurt Republicans in the midterm elections?",
+      "options": [
+        "His deportation policy",
+        "Restrictions on AI chip exports",
+        "Tariffs on Mexico",
+        "The blockade targeting Iran"
+      ],
+      "correct": 0,
+      "explanation": "Trump said his deportation policy had been “too tough,” noting that authorities had also removed immigrants who held good jobs. Exit polls found that 58% of voters thought the administration’s immigration actions had gone too far.",
+      "source_day": 2120,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/09/day-2120/",
+      "difficulty": "easy",
+      "type": "quote"
+    },
+    {
+      "number": 4,
+      "question": "Which aircraft were among the 13 evacuated from RAF Mildenhall following a reported threat from Iran?",
+      "options": [
+        "10 bombers and three refueling tankers",
+        "Three refueling tankers and 10 Ospreys",
+        "10 refueling tankers and three Ospreys",
+        "13 bombers"
+      ],
+      "correct": 2,
+      "explanation": "Flight-tracking data showed that 10 refueling tankers and three Ospreys departed the British base. Security at RAF Mildenhall and nearby RAF Lakenheath was raised to the military’s second-highest alert level.",
+      "source_day": 2121,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/10/day-2121/",
+      "difficulty": "hard",
+      "type": "number"
+    },
+    {
+      "number": 5,
+      "question": "What assignment did Trump give JD Vance after pulling him out of negotiations to end the Iran war?",
+      "options": [
+        "Focus on alleged corruption and crime in Democratic-run cities and states",
+        "Take over the Senate investigation of Robert F. Kennedy Jr.",
+        "Investigate Nvidia’s export practices",
+        "Lead negotiations with Mexico over migrant caravans"
+      ],
+      "correct": 0,
+      "explanation": "Trump ordered Vance to focus his “complete and total attention” on alleged “Massive Corruption and Crime” in Democratic-run cities and states. The reversal came days after Vance had been authorized to pursue talks with Iran.",
+      "source_day": 2123,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/12/day-2123/",
+      "difficulty": "easy",
+      "type": "sequence"
+    },
+    {
+      "number": 6,
+      "question": "Which incoming House Oversight Committee chair was threatened with possible criminal investigations over Democrats’ planned oversight?",
+      "options": [
+        "Hakeem Jeffries",
+        "Robert Garcia",
+        "Thomas Massie",
+        "James Comer"
+      ],
+      "correct": 1,
+      "explanation": "White House counsel Will Scharf sent the threat to Robert Garcia, who responded that Congress was a co-equal branch and would not be deterred by the president’s lawyers or a weaponized Justice Department.",
+      "source_day": 2122,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/11/day-2122/",
+      "difficulty": "medium",
+      "type": "who"
+    },
+    {
+      "number": 7,
+      "question": "What did Rep. Thomas Massie introduce against Defense Secretary Pete Hegseth?",
+      "options": [
+        "A resolution cutting the Pentagon’s budget",
+        "A motion requiring Hegseth to testify about the Epstein files",
+        "A bill ending all sanctions against Iran",
+        "Eight articles of impeachment"
+      ],
+      "correct": 3,
+      "explanation": "Massie introduced eight articles of impeachment accusing Hegseth of actions including waging the Iran war without congressional authorization and ordering unlawful strikes.",
+      "source_day": 2120,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/09/day-2120/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "What did the Republican-led House Oversight Committee call on the Justice Department to do regarding the Epstein files?",
+      "options": [
+        "Reinterview key witnesses and investigate allegations against Epstein’s associates",
+        "Prosecute Trump based on evidence uncovered by the committee",
+        "Close the investigation and permanently seal the remaining files",
+        "Transfer responsibility for the files to the Pentagon"
+      ],
+      "correct": 0,
+      "explanation": "The committee called for key witnesses to be reinterviewed and allegations against Epstein’s associates to be investigated. It also criticized missed disclosure deadlines, deficient redactions, and the concealment of alleged co-conspirators’ names.",
+      "source_day": 2121,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/10/day-2121/",
+      "difficulty": "medium",
+      "type": "what happened"
+    },
+    {
+      "number": 9,
+      "question": "After Scott Colom defeated Sen. Cindy Hyde-Smith in Mississippi, how many Senate seats were Democrats assured of holding at minimum the following year?",
+      "options": [
+        "53",
+        "55",
+        "51",
+        "60"
+      ],
+      "correct": 1,
+      "explanation": "Colom’s victory ensured that Democrats would hold at least 55 Senate seats, with Alaska’s race still uncalled. He also became Mississippi’s first Black senator since Reconstruction and its first Black senator elected by voters.",
+      "source_day": 2123,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/12/day-2123/",
+      "difficulty": "hard",
+      "type": "number"
+    },
+    {
+      "number": 10,
+      "question": "Why did Treasury Secretary Scott Bessent reportedly demand that Megaspeed be placed on an export blacklist?",
+      "options": [
+        "It had financed Iran’s blockade of the Strait of Hormuz",
+        "It had disclosed classified information about NATO bases",
+        "It was suspected of illegally diverting advanced AI chips to China",
+        "It had refused to pay more than $4 billion in tariffs"
+      ],
+      "correct": 2,
+      "explanation": "Federal officials suspected Megaspeed of illegally diverting advanced AI chips to China. The company had purchased more than $4 billion in Nvidia technology.",
+      "source_day": 2122,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/11/day-2122/",
+      "difficulty": "medium",
+      "type": "cause"
+    }
+  ]
+}

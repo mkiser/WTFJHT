@@ -6,7 +6,7 @@ previewText: Trump pulled JD Vance out of negotiations to end the Iran war and o
   him to “focus…
 signoff: And that's what just happened last week. See you Monday.
 description: November 9-12
-image: "/uploads/lwiwtf110913-1a5d0c.jpg"
+image: "/uploads/lwiwtf110912-e0ea5d.jpg"
 currentMood: "😳"
 editorsNote: '<p><em><strong>Editor''s note</strong>: This is still a work in progress!
   So, <strong><a href="https://whatthefuckjusthappenedtoday.com/survey/lwiwtf-feedback-2026-11-14/">please

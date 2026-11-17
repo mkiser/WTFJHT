@@ -1,6 +1,6 @@
 ---
 layout: one-sentence
-title: "The Long Sentence."
+title: 'Your "Last Year in One Sentence."'
 description: "Every so often I ask WTFJHT readers to tell me how this has felt, in one sentence. These are your answers."
 image: "/uploads/og-image.jpg"
 permalink: /one-sentence/
@@ -16,7 +16,7 @@ os_view: landing
 <article class="d40-sheet">
 <h2 class="os-edition-title"><a href="{{ os_item.url | relative_url }}">{{ os_item.title | escape }}</a></h2>
 <p class="os-edition-dek">{{ os_item.dek | escape }}</p>
-<p class="d40-stamp os-edition-stamp">{{ os_item.year }}<span aria-hidden="true"> · </span>{{ os_item.count | number_with_commas }} sentences</p>
+<p class="d40-stamp os-edition-stamp">{{ os_item.year }}{% if os_item.count %}<span aria-hidden="true"> · </span>{{ os_item.count | number_with_commas }} sentences{% endif %}</p>
 </article>
 </li>
 {%- assign os_index = os_index | plus: 1 -%}

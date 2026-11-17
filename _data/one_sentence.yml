@@ -1,11 +1,9 @@
-series:
-  name: "The Long Sentence."
-  url: /one-sentence/
 editions:
 - year: 2026
   title: "Your Last Two Years in One Sentence"
   dek: "Two years after Election Day 2024."
   url: /one-sentence/2026/
+  link_text: "PROVISIONAL: Read the 2026 sentences"
   count:
   visible: false
   data_url: ""
@@ -13,6 +11,7 @@ editions:
   title: 'Your "Last Year in One Sentence."'
   dek: "One year after Election Day 2024."
   url: /one-sentence/2025/
+  link_text: "PROVISIONAL: Read the 2025 sentences"
   count: 2430
   visible: true
   data_url: "https://whatthefuckjusthappenedtoday.com/uploads/one-sentence-2025-7259ca.json"

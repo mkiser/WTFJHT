@@ -1,0 +1,3 @@
+{%- assign os_data_live = site.data[page.os_data] -%}
+<script type="application/json" id="os-edition">{{ os_data_live.edition | jsonify }}</script>
+<script type="application/json" id="os-live-config">{"apiBase":{{ os_data_live.api_base | jsonify }},"turnstileSiteKey":{{ os_data_live.turnstile_site_key | jsonify }},"limits":{{ os_data_live.limits | jsonify }}}</script>

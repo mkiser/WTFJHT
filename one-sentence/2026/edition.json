@@ -1,0 +1,7 @@
+---
+layout: null
+permalink: /one-sentence/2026/edition.json
+sitemap: false
+os_data: one_sentence_2026
+---
+{{ site.data[page.os_data].edition | jsonify }}

@@ -2,9 +2,7 @@ html:not(.os-js) .os-needs-js { display: none; }
 
 .os { --os-ink: var(--d40-ia); --os-paper: var(--d40-pa); }
 
-.os .os-series { margin: 0 0 0.25rem; font: 600 #{$font-size-sm}/#{$line-height-snug} var(--d40-sans); }
-.page .os .os-series a { color: var(--c-ink-medium); text-decoration-color: var(--c-meta); }
-.page .os .os-series a:hover { color: var(--c-link); text-decoration-color: var(--c-link); }
+.page .os p.os-elsewhere { margin: var(--d40-sheet-gap) 0 0; }
 
 .page .os p.os-intro { margin: 0.75rem 0; font-family: var(--d40-serif); font-size: $font-size-xl; line-height: $line-height-prose; color: var(--c-ink); }
 .page .os p.os-span { margin: 0; font-family: var(--d40-sans); font-size: $font-size-base; color: var(--c-ink-medium); }

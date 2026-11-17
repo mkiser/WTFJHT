@@ -10,14 +10,13 @@ os_year: 2026
 os_class: os-live
 os_data: one_sentence_2026
 os_h1_focus: true
-os_noscript: "PROVISIONAL: JavaScript is required to write and read these sentences."
 ---
 {%- assign os_live = site.data[page.os_data] -%}
 {%- assign ed = os_live.edition -%}
 {%- assign copy = ed.copy -%}
 {% include one-sentence/live-data.html %}
 <script>(function(){var w=window,h=document.documentElement,c={};h.setAttribute('data-os-state','loading');w.setTimeout(function(){if(h.getAttribute('data-os-state')==='loading')h.setAttribute('data-os-state','unknown')},20000);try{c=JSON.parse(document.getElementById('os-live-config').textContent)}catch(e){}var b=String(c.apiBase||'').replace(/\/+$/,''),p='/pulse?fields=counts';if(b&&w.fetch){try{w.osEarly={base:b,path:p,response:fetch(b+p,{cache:'no-store',credentials:'omit'})};w.osEarly.response.catch(function(){})}catch(e){}}})();</script>
-<noscript><p class="d40-pubnote os-noscript">{{ page.os_noscript | escape }}</p></noscript>
+<noscript><p class="d40-pubnote os-noscript">{{ copy.noscript | escape }}</p></noscript>
 <section id="v-compose" aria-label="{{ copy.sectionCompose | escape }}">
 <div id="os-start">
 <p class="os-intro">{{ ed.intro | escape }}</p>

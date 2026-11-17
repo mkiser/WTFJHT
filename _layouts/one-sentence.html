@@ -12,8 +12,8 @@ layout: default
 {{ content }}
 {%- if os_edition %}
 {%- for os_other in site.data.one_sentence.editions %}
-{%- if os_other.visible and os_other.year != os_edition.year and os_other.link_text %}
-<p class="os-elsewhere"><a href="{{ os_other.url | relative_url }}">{{ os_other.link_text | escape }}</a></p>
+{%- if os_other.visible and os_other.year != os_edition.year %}
+<p class="os-elsewhere"><a href="{{ os_other.url | relative_url }}">{{ os_other.title | escape }}</a></p>
 {%- endif %}
 {%- endfor %}
 {%- endif %}

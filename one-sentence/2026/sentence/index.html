@@ -9,19 +9,16 @@ os_view: live-sentence
 os_year: 2026
 os_class: os-live os-live-one
 os_data: one_sentence_2026
-os_noscript: "PROVISIONAL: JavaScript is required to read this sentence."
-os_notfound: "PROVISIONAL: No sentence matches this link."
-os_gone: "PROVISIONAL: This sentence was removed."
 ---
 {%- assign os_live = site.data[page.os_data] -%}
 {%- assign copy = os_live.edition.copy -%}
 {% include one-sentence/live-data.html %}
 <script>(function(){var w=window,c={},q;try{c=JSON.parse(document.getElementById('os-live-config').textContent)}catch(e){}q=new URLSearchParams(location.search).get('id');var b=String(c.apiBase||'').replace(/\/+$/,''),p=q&&/^[A-Za-z0-9_-]{22}$/.test(q)?'/letters/'+q:'';if(b&&p&&w.fetch){try{w.osEarly={base:b,path:p,response:fetch(b+p,{cache:'no-store',credentials:'omit'})};w.osEarly.response.catch(function(){})}catch(e){}}})();</script>
-<noscript><p class="d40-pubnote os-noscript">{{ page.os_noscript | escape }}</p></noscript>
+<noscript><p class="d40-pubnote os-noscript">{{ copy.noscriptOne | escape }}</p></noscript>
 <div data-os-block="loading"></div>
 <ul id="os-one" class="d40-cards" role="list" data-os-block="sheet" hidden></ul>
-<p class="d40-count os-onenote" data-os-block="notfound" hidden>{{ page.os_notfound | escape }}</p>
-<p class="d40-count os-onenote" data-os-block="gone" hidden>{{ page.os_gone | escape }}</p>
+<p class="d40-count os-onenote" data-os-block="notfound" hidden>{{ copy.notFound | escape }}</p>
+<p class="d40-count os-onenote" data-os-block="gone" hidden>{{ copy.gone | escape }}</p>
 <div id="os-unavailable" class="d40-state os-unavailable" data-os-block="unavailable" hidden>
 <p>{{ copy.wallUnavailable | escape }}</p>
 <p><button type="button" id="os-retry" class="d40-link">{{ copy.retry | escape }}</button></p>

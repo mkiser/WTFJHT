@@ -1,0 +1,43 @@
+{%- comment -%}
+  The pay-it-forward chooser: one sentence with two live numbers, preset amount chips, and the
+  pay button. Amounts and words come from
+  _data/pay_it_forward.yml. Without JavaScript: the sentence at the floor amount and a working
+  checkout link; the chips are hidden. Checkout opens in the same tab.
+{%- endcomment -%}
+{%- assign cfg = site.data.pay_it_forward -%}
+{%- assign c = cfg.copy -%}
+{%- comment %} Money: whole dollars, plus cents only when they are not zero ("5.89", "25"); the checkout
+  price always carries two decimals ("5.89", "25.00"), the same as the script. {% endcomment -%}
+{%- assign fd = cfg.floor_cents | divided_by: 100 -%}
+{%- assign fr = cfg.floor_cents | modulo: 100 -%}
+{%- capture fr2 %}{% if fr < 10 %}0{% endif %}{{ fr }}{% endcapture -%}
+{%- capture floor_label %}{{ fd }}{% if fr > 0 %}.{{ fr2 }}{% endif %}{% endcapture -%}
+{%- capture floor_price %}{{ fd }}.{{ fr2 }}{% endcapture -%}
+{%- assign floor_people = cfg.floor_cents | times: 12.0 | divided_by: cfg.cost_per_reader_year_cents | round -%}
+<noscript><style>.page .pif .pif-chips { display: none; }</style></noscript>
+<div class="pif" id="pif">
+  <p class="pif-says" id="pif-says">
+    <span class="pif-ph">{{ c.before }} <span class="pif-amt"><span class="pif-cur">$</span><span id="pif-static">{{ floor_label }}</span></span></span>
+    <br class="pif-br-n"><span class="pif-ph">{{ c.middle }} <span class="pif-people"><span id="pif-readers">{{ floor_people }}</span> {{ c.people_word }}</span></span>
+    <br class="pif-br-w"><span class="pif-after">{{ c.after }}</span>
+  </p>
+
+  <div class="pif-chips" id="pif-chips" role="group" aria-label="{{ c.chips_label }}">
+    {%- for cents in cfg.chips_cents %}
+    {%- if cents < cfg.floor_cents %}{% continue %}{% endif %}
+    {%- assign cd = cents | divided_by: 100 %}
+    {%- assign cr = cents | modulo: 100 %}
+    {%- capture label %}{{ cd }}{% if cr > 0 %}.{% if cr < 10 %}0{% endif %}{{ cr }}{% endif %}{% endcapture %}
+    <button type="button" class="pif-chip" data-cents="{{ cents }}" aria-pressed="{% if cents == cfg.floor_cents %}true{% else %}false{% endif %}">${{ label }}</button>
+    {%- endfor %}
+  </div>
+
+  <div class="pif-act">
+    <a class="btn pif-go" id="pif-go" href="{{ cfg.checkout_origin }}/checkout?plan={{ cfg.plan_id }}&amp;price={{ floor_price }}">{{ c.button }}<span id="pif-go-amt"> ${{ floor_label }}</span></a>
+    <p class="pif-note">{{ c.note }}</p>
+  </div>
+  <p class="sr-only" id="pif-live" aria-live="polite" aria-atomic="true"></p>
+</div>
+<script type="application/json" id="pif-config">{{ cfg | jsonify }}</script>
+<script src="{{ site.url }}{{ site.baseurl }}/public/js/pay-it-forward-core.js?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ site.url }}{{ site.baseurl }}/public/js/pay-it-forward.js?v={{ site.time | date: '%s' }}" defer></script>

@@ -1,0 +1,124 @@
+// Pay it forward (Black Friday "not a sale") — the chooser on /pay-it-forward/.
+// One sentence with two live numbers; preset amount chips; the pay button.
+// Markup: _includes/pay-it-forward.html. Words and amounts: _data/pay_it_forward.yml.
+// Brand-book additions proposed here (Matt ratifies): the live numbers on a 2px rule (ink for the
+// amount, crimson for the reader count); the 3px ink rule above the module inside an article.
+.page .pif {
+  margin: 2.25rem 0 2.5rem;
+  padding: 1.5rem 0 0;
+  border-top: 3px solid var(--c-ink);
+}
+.page .pif [hidden] { display: none; }
+
+/* The sentence: the site's title role (sans 700), well under the 2.5rem h1. Line breaks are fixed
+   per width, so nothing reflows when the numbers change. */
+.page .pif-says {
+  margin: 0;
+  font-size: 1.65rem;
+  font-weight: 700;
+  line-height: 1.5;
+  letter-spacing: -0.01em;
+  color: var(--c-ink-strong);
+}
+.page .pif-ph { white-space: nowrap; }
+.page .pif-br-w { display: none; }
+
+/* The two live numbers share one treatment: tabular figures on a 2px ink rule. The amount is the
+   typed field (no frame of its own: one box deep, and here no box at all). */
+.page .pif-amt,
+.page .pif-people {
+  display: inline-flex;
+  align-items: baseline;
+  padding: 0 0.06em 0.03em;
+  border-bottom: 2px solid var(--c-ink);
+  line-height: 1.12;
+  font-variant-numeric: tabular-nums lining-nums;
+}
+/* The reader count: ink text on a crimson rule (the accent as a rule, never as text). */
+.page .pif-people { border-bottom-color: var(--c-link); }
+[data-theme="night"] .page .pif-people { border-bottom-color: var(--c-accent); }
+.page .pif-amt { margin-left: 0.08em; }
+.page .pif-people { gap: 0.28em; }
+.page #pif-readers { display: inline-block; min-width: 1.2ch; text-align: right; }
+
+/* Chips: the site's compact choice button, value for value from .survey-nps-btn (_forms.scss):
+   square, 1px --c-line border, 46px, body-size regular text; hover lightens to surface; the chosen
+   one takes the ink-strong fill. */
+.page .pif-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  margin: 1.1rem 0 0;
+}
+.page .pif-chip {
+  min-width: 3.6rem;
+  min-height: 46px;
+  margin: 0;
+  padding: 0.4em 0.85em;
+  border: 1px solid var(--c-line);
+  border-radius: 0;
+  background: var(--c-bg);
+  color: var(--c-ink-medium);
+  font: inherit;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.2;
+  font-variant-numeric: tabular-nums lining-nums;
+  cursor: pointer;
+  transition: border-color 0.14s ease, background 0.14s ease;
+  -webkit-appearance: none;
+  appearance: none;
+}
+.page .pif-chip:hover { border-color: var(--c-meta); background: var(--c-surface); }
+.page .pif-chip[aria-pressed="true"],
+.page .pif-chip[aria-pressed="true"]:hover {
+  background: var(--c-ink-strong);
+  border-color: var(--c-ink-strong);
+  color: var(--c-bg);
+}
+.page .pif-chip:focus-visible {
+  outline: 2px solid var(--c-focus);
+  outline-offset: 2px;
+}
+
+/* The act, after one hairline: the site's primary button at one fixed width, the note beside it. */
+.page .pif-act {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem 1.1rem;
+  margin: 1.4rem 0 0;
+  padding: 1.4rem 0 0;
+  border-top: 1px solid var(--c-line-strong);
+}
+.page .pif .pif-go {
+  flex: none;
+  display: inline-block;
+  min-width: 11.5em;
+  margin: 0;
+  text-align: center;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums lining-nums;
+}
+.page .pif .pif-go:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+.page .pif-note {
+  flex: 1 1 12rem;
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  color: var(--c-ink-medium);
+}
+
+/* Wide: the amount and the count share the first line. */
+@media (min-width: 620px) {
+  .page .pif-br-n { display: none; }
+  .page .pif-br-w { display: inline; }
+}
+@media (max-width: 480px) {
+  .page .pif-chips { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .page .pif-chip { min-width: 0; padding: 0 0.4rem; }
+}
+@media (max-width: 360px) {
+  .page .pif-says { font-size: 1.25rem; }
+}
+

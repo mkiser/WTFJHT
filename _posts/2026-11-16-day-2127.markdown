@@ -1,6 +1,11 @@
 ---
 title: Day 2127
 date: 2026-11-16 15:28:30 -08:00
+tags:
+- "tech-policy"
+- "china"
+- "supreme-court"
+- "ethics"
 description: '"Would not mind."'
 image: "/uploads/day2127trump-e8648f.jpg"
 todayInOneSentence: Trump said he “would not mind” seeing Jensen Huang reinstated

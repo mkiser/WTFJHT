@@ -1,0 +1,121 @@
+---
+layout: one-sentence
+title: "Your Last Two Years in One Sentence"
+description: "Two years after Election Day 2024."
+image: "/uploads/og-image.jpg"
+permalink: /one-sentence/2026/
+sitemap: false
+os_view: live
+os_year: 2026
+os_class: os-live
+os_data: one_sentence_2026
+os_h1_focus: true
+os_noscript: "PROVISIONAL: JavaScript is required to write and read these sentences."
+---
+{%- assign os_live = site.data[page.os_data] -%}
+{%- assign ed = os_live.edition -%}
+{%- assign copy = ed.copy -%}
+{% include one-sentence/live-data.html %}
+<script>(function(){var w=window,h=document.documentElement,c={};h.setAttribute('data-os-state','loading');w.setTimeout(function(){if(h.getAttribute('data-os-state')==='loading')h.setAttribute('data-os-state','unknown')},20000);try{c=JSON.parse(document.getElementById('os-live-config').textContent)}catch(e){}var b=String(c.apiBase||'').replace(/\/+$/,''),p='/pulse?fields=counts';if(b&&w.fetch){try{w.osEarly={base:b,path:p,response:fetch(b+p,{cache:'no-store',credentials:'omit'})};w.osEarly.response.catch(function(){})}catch(e){}}})();</script>
+<noscript><p class="d40-pubnote os-noscript">{{ page.os_noscript | escape }}</p></noscript>
+<section id="v-compose" aria-label="{{ copy.sectionCompose | escape }}">
+<div id="os-start">
+<p class="os-intro">{{ ed.intro | escape }}</p>
+<p class="d40-sig">{{ ed.signature | escape }}</p>
+<div class="os-start-actions">
+<button type="button" id="os-begin" class="jaq-btn">{{ copy.start | escape }}</button>
+<button type="button" id="os-read" class="d40-link d40-quiet">{{ copy.readAll | escape }}</button>
+</div>
+</div>
+<div id="os-flow" class="os-flow" hidden>
+<div class="os-flowtop">
+<button type="button" id="os-back" class="d40-link d40-quiet os-back">{{ copy.back | escape }}</button>
+<p id="os-count" class="os-count"></p>
+</div>
+<div id="os-sheet" class="d40-item os-flowsheet" data-tilt="0">
+<div class="d40-sheet">
+<div id="os-body" class="d40-body">
+<p id="os-prompt" class="os-prompt" tabindex="-1"></p>
+<div id="os-choices" class="survey-options os-choices" role="group" aria-labelledby="os-prompt"></div>
+<div id="os-endstep" hidden>
+<div id="os-endwrap" class="os-endwrap">
+<textarea id="os-ending" class="os-endbox" rows="3" enterkeyhint="done" autocapitalize="none" aria-labelledby="os-prompt" aria-describedby="os-hint os-counter" placeholder="{{ ed.ending.placeholder | escape }}"></textarea>
+</div>
+<div id="os-under" class="os-under">
+<p id="os-hint" class="os-hint"></p>
+<p id="os-counter" class="d40-counter" hidden></p>
+</div>
+<div id="os-enderr" class="d40-err os-enderr" role="alert"></div>
+<button type="button" id="os-next" class="jaq-btn os-endnext">{{ copy.seeSentence | escape }}</button>
+</div>
+<p id="os-finished" class="d40-para os-sentence os-finished" tabindex="-1" hidden></p>
+</div>
+</div>
+</div>
+<div id="os-commit" class="d40-commit" hidden>
+<div id="os-terms" class="d40-confirm">
+<p class="d40-notice">{{ copy.confirmNotice | escape }}</p>
+<p>{{ copy.confirmCaution | escape }}</p>
+</div>
+<div id="os-gate" class="os-gate"></div>
+<button type="button" id="os-publish" class="jaq-btn">{{ copy.publish | escape }}</button>
+<div id="os-err" class="d40-err" role="alert"></div>
+</div>
+</div>
+</section>
+
+<section id="v-result" aria-label="{{ copy.sectionResult | escape }}" hidden>
+<ul id="os-own" class="d40-cards" role="list"></ul>
+<div class="os-result-acts">
+<button type="button" id="os-save-image" class="jaq-btn">{{ copy.saveSentence | escape }}</button>
+<button type="button" id="os-send" class="d40-link">{{ copy.sendIt | escape }}</button>
+<button type="button" id="os-print" class="d40-link" disabled>{{ copy.print | escape }}</button>
+</div>
+<section id="os-path" class="os-explore" aria-labelledby="os-path-h" hidden>
+<h2 id="os-path-h" class="os-h2"></h2>
+<p id="os-path-sub" class="os-hint"></p>
+<div class="os-path-wrap">
+<div class="os-grid os-path" role="table" aria-labelledby="os-path-h">
+<div role="rowgroup"><div role="row"><div class="os-head os-pathhead" role="columnheader">{{ copy.similarWhen | escape }}</div><div class="os-head os-pathhead" role="columnheader">{{ copy.similarWord | escape }}</div><div class="os-head" role="columnheader">{{ copy.similarCount | escape }}</div></div></div>
+<div id="os-path-rows" role="rowgroup"></div>
+</div>
+</div>
+<p class="os-path-note">{{ copy.similarNote | escape }}</p>
+</section>
+<p class="os-readlink"><button type="button" id="os-others" class="d40-link">{{ copy.readOthers | escape }}</button></p>
+</section>
+
+<section id="v-closed" aria-label="{{ copy.sectionClosed | escape }}" hidden>
+<p class="os-intro">{{ copy.closed | escape }}</p>
+<p class="d40-sig">{{ ed.signature | escape }}</p>
+</section>
+
+<section id="v-wallhead" hidden>
+<p class="os-readlink"><button type="button" id="os-write" class="d40-link">{{ copy.writeYours | escape }}</button></p>
+</section>
+
+<section id="os-wall" aria-label="{{ copy.sectionWall | escape }}" hidden>
+<div id="os-wall-panel" class="os-explore">
+<h2 class="os-h2">{{ copy.wallHeading | escape }}</h2>
+<p class="os-hint">{{ copy.wallHint | escape }}</p>
+<div id="os-filter" class="os-filter" role="group" aria-labelledby="os-filter-label">
+<p id="os-filter-label" class="os-filter-label">{{ copy.wallFilterLabel | escape }}</p>
+</div>
+<div class="os-controls">
+<p id="os-tally" class="os-tally" role="status" aria-atomic="true"></p>
+</div>
+</div>
+<div id="os-unavailable" class="d40-state os-unavailable" hidden>
+<p>{{ copy.wallUnavailable | escape }}</p>
+<p><button type="button" id="os-retry" class="d40-link">{{ copy.retry | escape }}</button></p>
+</div>
+<div class="os-wall-rows">
+<ul id="os-list" class="d40-cards" role="list"></ul>
+<p id="os-none" class="d40-count" hidden>{{ copy.wallNone | escape }}</p>
+<p id="os-empty" class="d40-count" hidden>{{ copy.wallEmpty | escape }}</p>
+<p id="os-more-p" class="d40-more" hidden><button type="button" id="os-more" class="d40-link">{{ copy.wallMore | escape }}</button></p>
+<p id="os-end" class="d40-count d40-endline" tabindex="-1" hidden>{{ copy.wallEnd | escape }}</p>
+</div>
+</section>
+
+{% include one-sentence/live-shared.html %}

@@ -92,6 +92,12 @@
     margin: 0 !important;
   }
 
+  // Holiday masthead: no footage and no pause button on paper.
+  .masthead .masthead-yule,
+  .masthead .masthead-yule__toggle {
+    display: none !important;
+  }
+
   // Simple header
   .masthead {
     text-align: center;

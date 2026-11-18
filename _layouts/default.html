@@ -209,7 +209,7 @@
         </div>
       </nav>
 
-      <header class="masthead">
+      {% assign yule_on = site.holiday_masthead.enabled %}<header class="masthead{% if yule_on %} masthead--yule{% endif %}">{% if yule_on %}{% include holiday-masthead.html %}{% endif %}
         <p class="masthead-title">
           <a href="{{ site.url }}{{ site.baseurl }}/" title="{{ site.title }}">{{ site.title }}</a>
         </p>

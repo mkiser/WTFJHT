@@ -84,6 +84,10 @@ tagline: Political News for Normal People.
 description: Your essential guide to the shock and awe in national politics. Read in moderation.
 is_away_mode: true
 banner:
+# Holiday fire masthead (_includes/holiday-masthead.html). Set enabled: true
+# to show the fire on every page; false to turn it off. The next build applies it.
+holiday_masthead:
+  enabled: false
 turnstile_site_key: "0x4AAAAAADAzC0xAFcUN12kn"
 permalink: pretty
 url: https://whatthefuckjusthappenedtoday.com

@@ -1,0 +1,583 @@
+name: Compare Jekyll builds
+
+on:
+  workflow_dispatch:
+    inputs:
+      base:
+        description: 'Base commit: a full SHA, a branch or a tag. Built twice, as A1 and A2.'
+        type: string
+        required: true
+      candidate:
+        description: 'Candidate commit: a full SHA, a branch or a tag, on a branch that is not master. Built once, as B.'
+        type: string
+        required: true
+
+permissions:
+  contents: read
+
+concurrency:
+  group: compare-build
+  cancel-in-progress: false
+
+jobs:
+  compare:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 40
+    env:
+      JEKYLL_ENV: production
+      TZ: America/Los_Angeles
+    defaults:
+      run:
+        shell: bash --noprofile --norc -euo pipefail {0}
+
+    steps:
+      - name: Check out base for build A1
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ inputs.base }}
+          path: src/base-1
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Check out candidate for build B
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ inputs.candidate }}
+          path: src/candidate
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Resolve and print the two SHAs
+        id: shas
+        env:
+          BASE_INPUT: ${{ inputs.base }}
+          CANDIDATE_INPUT: ${{ inputs.candidate }}
+        run: |
+          src="$GITHUB_WORKSPACE/src"
+          base_sha=$(git -C "$src/base-1" rev-parse HEAD)
+          candidate_sha=$(git -C "$src/candidate" rev-parse HEAD)
+          echo "base input: $BASE_INPUT"
+          echo "base SHA: $base_sha"
+          echo "candidate input: $CANDIDATE_INPUT"
+          echo "candidate SHA: $candidate_sha"
+          if [ "$base_sha" = "$candidate_sha" ]; then
+            echo "Base and candidate both resolve to $base_sha, so there is nothing to compare." >&2
+            exit 1
+          fi
+          mkdir -p "$RUNNER_TEMP/compare/report"
+          {
+            echo "base_sha=$base_sha"
+            echo "candidate_sha=$candidate_sha"
+          } >> "$GITHUB_OUTPUT"
+          {
+            echo "SRC=$src"
+            echo "COMPARE_DIR=$RUNNER_TEMP/compare"
+            echo "BASE_SHA=$base_sha"
+            echo "CANDIDATE_SHA=$candidate_sha"
+          } >> "$GITHUB_ENV"
+
+      - name: Check out base again for build A2
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: ${{ steps.shas.outputs.base_sha }}
+          path: src/base-2
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Confirm the second base checkout is the base SHA
+        run: |
+          second=$(git -C "$SRC/base-2" rev-parse HEAD)
+          echo "build A2 SHA: $second"
+          if [ "$second" != "$BASE_SHA" ]; then
+            echo "The second base checkout is $second, not $BASE_SHA." >&2
+            exit 1
+          fi
+
+      - name: Set up Ruby with caching
+        uses: ruby/setup-ruby@b3aaceaef7e0ee231b499e7b5f49c03fc1d32199
+        with:
+          ruby-version: 3.3.5
+          bundler-cache: true
+          working-directory: src/base-1
+
+      - name: Install gems for builds A2 and B
+        run: |
+          shared="$SRC/base-1/vendor/bundle"
+          configure() {
+            (cd "$1" && BUNDLE_GEMFILE="$1/Gemfile" bundle config --local path "$2")
+            (cd "$1" && BUNDLE_GEMFILE="$1/Gemfile" bundle config --local deployment true)
+          }
+          configure "$SRC/base-2" "$shared"
+          (cd "$SRC/base-2" && BUNDLE_GEMFILE="$SRC/base-2/Gemfile" bundle check)
+          if cmp -s "$SRC/base-1/Gemfile.lock" "$SRC/candidate/Gemfile.lock"; then
+            echo "Gemfile.lock is identical in base and candidate, so build B uses the gems installed for base."
+            configure "$SRC/candidate" "$shared"
+            (cd "$SRC/candidate" && BUNDLE_GEMFILE="$SRC/candidate/Gemfile" bundle check)
+          else
+            echo "Gemfile.lock differs between base and candidate, so the candidate checkout gets its own install."
+            configure "$SRC/candidate" "$SRC/candidate/vendor/bundle"
+            (cd "$SRC/candidate" && BUNDLE_GEMFILE="$SRC/candidate/Gemfile" bundle install --jobs 4)
+          fi
+
+      - name: Write the build and compare scripts
+        run: |
+          mkdir -p "$COMPARE_DIR/report" "$COMPARE_DIR/logs" "$COMPARE_DIR/sites" "$COMPARE_DIR/times"
+
+          cat > "$COMPARE_DIR/build.sh" <<'SH'
+          set -euo pipefail
+          label="$1"
+          src="$2"
+          dest="$COMPARE_DIR/sites/$label"
+          raw_log="$COMPARE_DIR/logs/build-$label.log"
+          log="$COMPARE_DIR/report/build-$label.log"
+          if [ -e "$dest" ]; then
+            echo "The destination for build $label already exists: $dest" >&2
+            exit 1
+          fi
+          mkdir -p "$dest"
+          unset SKIP_SEARCH_INDEX SKIP_LEADERBOARD CHANGED_DATES
+          cd "$src"
+          export BUNDLE_GEMFILE="$src/Gemfile"
+          start=$(date +%s.%N)
+          set +e
+          bundle exec jekyll build --config _config.yml,_config_build.yml --destination "$dest" > "$raw_log" 2>&1
+          status=$?
+          set -e
+          end=$(date +%s.%N)
+          sed -E 's/[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}/[email]/g' "$raw_log" > "$log"
+          cat "$log"
+          wall=$(awk -v s="$start" -v e="$end" 'BEGIN { printf "%.2f", e - s }')
+          echo "$wall" > "$COMPARE_DIR/times/$label"
+          echo "build $label: exit status $status, wall time $wall s"
+          cache=$(git -C "$src" status --porcelain --untracked-files=all -- .tweet-cache)
+          if [ -n "$cache" ]; then
+            echo "Tweet-cache miss in build $label: the build changed .tweet-cache." >&2
+            echo "$cache" >&2
+            exit 1
+          fi
+          if grep -q 'Failed to open TCP connection to 127.0.0.1:9' "$raw_log"; then
+            echo "Build $label made an outbound request that the local proxy blocked. A tweet-cache miss in the Twitter tag plugin is the likely cause." >&2
+            exit 1
+          fi
+          exit "$status"
+          SH
+
+          cat > "$COMPARE_DIR/compare.rb" <<'RUBY'
+          require 'fileutils'
+          require 'find'
+          require 'json'
+
+          ALLOWED_UNSTABLE = %w[social-updates.json sources-leaderboard.json].freeze
+          IGNORED_KEY = { 'social-updates.json' => 'newsletter_promos', 'sources-leaderboard.json' => 'generated' }.freeze
+          LIST_LIMIT = 50
+          EXCERPT_LINES = 3
+          EXCERPT_WIDTH = 200
+          EMAIL = /[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}/
+
+          def tree(root)
+            entries = {}
+            Find.find(root) do |path|
+              next if path == root
+              rel = path.delete_prefix(root.chomp('/') + '/')
+              if File.symlink?(path)
+                entries[rel] = :link
+              elsif File.file?(path)
+                entries[rel] = :file
+              end
+            end
+            entries
+          end
+
+          def same_entry?(left, right)
+            if File.symlink?(left) || File.symlink?(right)
+              return File.symlink?(left) && File.symlink?(right) && File.readlink(left) == File.readlink(right)
+            end
+            File.size(left) == File.size(right) && FileUtils.compare_file(left, right)
+          end
+
+          def parse_json(path)
+            data = JSON.parse(File.read(path, encoding: 'UTF-8'))
+            data.is_a?(Hash) ? data : nil
+          rescue JSON::ParserError, EncodingError
+            nil
+          end
+
+          def json_check(left, right, key)
+            a = parse_json(left)
+            b = parse_json(right)
+            return [false, 'does not parse as a JSON object on both sides'] unless a && b
+            a.delete(key)
+            b.delete(key)
+            return [true, nil] if a == b
+            keys = (a.keys | b.keys).reject { |k| a[k] == b[k] }.sort
+            [false, "differs after removing #{key}; differing keys: #{keys.join(', ')}"]
+          end
+
+          def differences(left, right, unstable, names)
+            lt = tree(left)
+            rt = tree(right)
+            paths = (lt.keys | rt.keys).sort
+            diffs = []
+            required = []
+            IGNORED_KEY.each_key do |rel|
+              [[left, names[0]], [right, names[1]]].each do |root, name|
+                path = File.join(root, rel)
+                next if File.file?(path) && !File.symlink?(path)
+                diffs << [rel, "missing or not a regular file in #{name}"]
+                required << rel
+              end
+            end
+            paths.each do |rel|
+              next if required.include?(rel)
+              l = File.join(left, rel)
+              r = File.join(right, rel)
+              if !rt.key?(rel)
+                diffs << [rel, "only in #{names[0]}"]
+              elsif !lt.key?(rel)
+                diffs << [rel, "only in #{names[1]}"]
+              elsif IGNORED_KEY.key?(rel)
+                ok, why = json_check(l, r, IGNORED_KEY[rel])
+                diffs << [rel, why] unless ok
+              elsif !same_entry?(l, r)
+                diffs << [rel, 'bytes differ']
+              end
+            end
+            [paths.size, diffs]
+          end
+
+          def clean(line)
+            line.gsub(EMAIL, '[email]').gsub('```', "'''")
+          end
+
+          def clip(line, start)
+            piece = line[start, EXCERPT_WIDTH] || ''
+            piece = '...' + piece if start > 0
+            piece += '...' if start + EXCERPT_WIDTH < line.length
+            clean(piece)
+          end
+
+          def text_of(bytes)
+            text = bytes.dup.force_encoding('UTF-8')
+            return nil if !text.valid_encoding? || text.include?("\0")
+            text
+          end
+
+          def excerpt(left, right, names)
+            return [] unless File.file?(left) && File.file?(right)
+            return ['symlink'] if File.symlink?(left) || File.symlink?(right)
+            a_bytes = File.binread(left)
+            b_bytes = File.binread(right)
+            a = text_of(a_bytes)
+            b = text_of(b_bytes)
+            if a.nil? || b.nil?
+              offset = (0...[a_bytes.bytesize, b_bytes.bytesize].min).find { |i| a_bytes.getbyte(i) != b_bytes.getbyte(i) }
+              offset ||= [a_bytes.bytesize, b_bytes.bytesize].min
+              return ["binary: #{a_bytes.bytesize} bytes in #{names[0]}, #{b_bytes.bytesize} bytes in #{names[1]}, first difference at byte #{offset}"]
+            end
+            al = a.split("\n", -1)
+            bl = b.split("\n", -1)
+            head = 0
+            head += 1 while head < al.size && head < bl.size && al[head] == bl[head]
+            tail = 0
+            tail += 1 while tail < al.size - head && tail < bl.size - head && al[al.size - 1 - tail] == bl[bl.size - 1 - tail]
+            removed = al[head...(al.size - tail)]
+            added = bl[head...(bl.size - tail)]
+            first_a = removed.first || ''
+            first_b = added.first || ''
+            col = 0
+            col += 1 while col < first_a.length && col < first_b.length && first_a[col] == first_b[col]
+            start = [col - 60, 0].max
+            out = ["@@ line #{head + 1}: #{removed.size} lines in #{names[0]}, #{added.size} lines in #{names[1]}"]
+            removed.first(EXCERPT_LINES).each { |line| out << '-' + clip(line, start) }
+            out << "- ... #{removed.size - EXCERPT_LINES} more" if removed.size > EXCERPT_LINES
+            added.first(EXCERPT_LINES).each { |line| out << '+' + clip(line, start) }
+            out << "+ ... #{added.size - EXCERPT_LINES} more" if added.size > EXCERPT_LINES
+            out
+          end
+
+          def detail(left, right, diffs, names)
+            diffs.first(LIST_LIMIT).map do |rel, why|
+              { 'path' => rel, 'why' => why, 'excerpt' => excerpt(File.join(left, rel), File.join(right, rel), names) }
+            end
+          end
+
+          def print_detail(rows)
+            rows.each do |row|
+              puts "#{row['path']}: #{row['why']}"
+              row['excerpt'].each { |line| puts '    ' + line }
+            end
+          end
+
+          def write_json(path, data)
+            File.write(path, JSON.pretty_generate(data) + "\n")
+          end
+
+          def read_json(path)
+            File.exist?(path) ? JSON.parse(File.read(path)) : nil
+          end
+
+          def control(left, right, report)
+            compared, diffs = differences(left, right, [], %w[A1 A2])
+            unstable = diffs.map(&:first)
+            disallowed = unstable
+            write_json(File.join(report, 'control.json'), {
+              'files_compared' => compared, 'unstable' => unstable, 'disallowed' => disallowed,
+              'differences' => detail(left, right, diffs, %w[A1 A2]), 'pass' => disallowed.empty?
+            })
+            puts "control A1 against A2: #{compared} files compared, #{unstable.size} differ"
+            puts "unstable set: #{unstable.empty? ? '(empty)' : unstable.join(', ')}"
+            return 0 if disallowed.empty?
+            puts "The two base builds differ outside the ignored JSON keys:"
+            print_detail(detail(left, right, diffs.select { |rel, _| disallowed.include?(rel) }, %w[A1 A2]))
+            1
+          end
+
+          def unstable_set(report)
+            data = read_json(File.join(report, 'control.json'))
+            abort 'control.json is missing; run the control comparison first' unless data
+            data['unstable']
+          end
+
+          def selftest(site, report, work)
+            unstable = unstable_set(report)
+            FileUtils.rm_rf(work)
+            FileUtils.cp_r(site, work)
+            files = tree(work).select { |rel, kind| kind == :file && !unstable.include?(rel) && !IGNORED_KEY.key?(rel) && File.size(File.join(work, rel)) > 0 }.keys.sort
+            abort 'the self-test needs two non-empty stable files' if files.size < 2
+            changed = files.first
+            removed = files.last
+            bytes = File.binread(File.join(work, changed))
+            index = bytes.bytesize / 2
+            bytes.setbyte(index, bytes.getbyte(index) ^ 1)
+            File.binwrite(File.join(work, changed), bytes)
+            File.delete(File.join(work, removed))
+            compared, diffs = differences(site, work, unstable, %w[A1 copy])
+            reported = diffs.map(&:first).sort
+            expected = [changed, removed].sort
+            pass = reported == expected
+            write_json(File.join(report, 'selftest.json'), {
+              'files_compared' => compared, 'changed_one_byte' => changed, 'deleted' => removed,
+              'reported' => reported, 'pass' => pass
+            })
+            FileUtils.rm_rf(work)
+            puts "self-test: changed one byte in #{changed}, deleted #{removed}"
+            puts "self-test: comparator reported #{reported.size} of #{compared} paths: #{reported.join(', ')}"
+            puts "self-test: #{pass ? 'pass' : 'FAIL'}"
+            pass ? 0 : 1
+          end
+
+          def result(left, right, report)
+            unstable = unstable_set(report)
+            compared, diffs = differences(left, right, unstable, %w[A1 B])
+            rows = detail(left, right, diffs, %w[A1 B])
+            File.write(File.join(report, 'result-differences.txt'), diffs.map { |rel, why| "#{rel}\t#{why}\n" }.join)
+            write_json(File.join(report, 'result.json'), {
+              'files_compared' => compared, 'files_differing' => diffs.size, 'unstable' => unstable,
+              'differences' => rows, 'pass' => diffs.empty?
+            })
+            puts "result A1 against B: #{compared} files compared, #{diffs.size} differ"
+            print_detail(rows)
+            puts "... and #{diffs.size - LIST_LIMIT} more; see result-differences.txt" if diffs.size > LIST_LIMIT
+            diffs.empty? ? 0 : 1
+          end
+
+          def seconds(times, label)
+            path = File.join(times, label)
+            File.exist?(path) ? File.read(path).strip.to_f : nil
+          end
+
+          def fmt(value)
+            value.nil? ? 'not recorded' : format('%.2f s', value)
+          end
+
+          def markdown_rows(out, rows)
+            rows.each do |row|
+              out << "- `#{row['path']}`: #{row['why']}"
+              next if row['excerpt'].empty?
+              out << ''
+              out << '  ```text'
+              row['excerpt'].each { |line| out << '  ' + line }
+              out << '  ```'
+            end
+          end
+
+          def report(report, times)
+            out = ['# Compare build', '']
+            out << '| Side | Input | SHA |'
+            out << '|---|---|---|'
+            out << "| base | `#{ENV['BASE_INPUT']}` | `#{ENV['BASE_SHA']}` |"
+            out << "| candidate | `#{ENV['CANDIDATE_INPUT']}` | `#{ENV['CANDIDATE_SHA']}` |"
+            out << ''
+            out << "Pacific date before build A1: #{ENV['DATE_BEFORE'] || 'not recorded'}; after build A2: #{ENV['DATE_AFTER'] || 'not recorded'}."
+            out << ''
+            a1 = seconds(times, 'a1')
+            b = seconds(times, 'b')
+            a2 = seconds(times, 'a2')
+            out << '## Wall times'
+            out << ''
+            out << '| Build | Checkout | Wall time |'
+            out << '|---|---|---|'
+            out << "| A1 | base | #{fmt(a1)} |"
+            out << "| B | candidate | #{fmt(b)} |"
+            out << "| A2 | base | #{fmt(a2)} |"
+            out << ''
+            if a1 && b && a2
+              out << format('Saving: mean(A1, A2) minus B = %.2f s (mean of the base builds %.2f s).', (a1 + a2) / 2 - b, (a1 + a2) / 2)
+            else
+              out << 'Saving: not computed, because a build did not record its wall time.'
+            end
+            out << ''
+            out << '## Control: A1 against A2'
+            out << ''
+            control = read_json(File.join(report, 'control.json'))
+            if control
+              out << "Files compared: #{control['files_compared']}. Unstable set: #{control['unstable'].empty? ? 'empty' : control['unstable'].map { |p| "`#{p}`" }.join(', ')}."
+              out << (control['pass'] ? 'Pass.' : "FAIL: the unstable set contains #{control['disallowed'].map { |p| "`#{p}`" }.join(', ')}.")
+            else
+              out << 'Not run.'
+            end
+            out << ''
+            out << '## Comparator self-test'
+            out << ''
+            selftest = read_json(File.join(report, 'selftest.json'))
+            if selftest
+              out << "Changed one byte in `#{selftest['changed_one_byte']}` and deleted `#{selftest['deleted']}`; the comparator reported #{selftest['reported'].map { |p| "`#{p}`" }.join(', ')}. #{selftest['pass'] ? 'Pass.' : 'FAIL.'}"
+            else
+              out << 'Not run.'
+            end
+            out << ''
+            out << '## Result: A1 against B'
+            out << ''
+            result = read_json(File.join(report, 'result.json'))
+            if result
+              out << "Files compared: #{result['files_compared']}. Files differing: #{result['files_differing']}."
+              unless result['differences'].empty?
+                out << ''
+                out << "First #{result['differences'].size} of #{result['files_differing']} differing paths:"
+                out << ''
+                markdown_rows(out, result['differences'])
+              end
+              out << ''
+              out << (result['pass'] ? 'Pass: no difference.' : 'FAIL: the candidate output differs from the base output.')
+            else
+              out << 'Not run.'
+            end
+            puts out.join("\n")
+            0
+          end
+
+          mode = ARGV.shift
+          status = case mode
+                   when 'control' then control(*ARGV)
+                   when 'selftest' then selftest(*ARGV)
+                   when 'result' then result(*ARGV)
+                   when 'report' then report(*ARGV)
+                   else abort "usage: compare.rb control|selftest|result|report ..."
+                   end
+          exit status
+          RUBY
+
+          ruby -c "$COMPARE_DIR/compare.rb"
+          bash -n "$COMPARE_DIR/build.sh"
+
+      - name: Write the build overlay and record the Pacific date before build A1
+        run: |
+          overlay="$COMPARE_DIR/_config_build.yml"
+          printf 'build_sha: "%s"\n' "$BASE_SHA" > "$overlay"
+          printf 'time: "%s"\n' "$(date '+%Y-%m-%d %H:%M:%S %z')" >> "$overlay"
+          cat "$overlay"
+          for dir in base-1 candidate base-2; do
+            cp "$overlay" "$SRC/$dir/_config_build.yml"
+          done
+          date_before=$(TZ=America/Los_Angeles date '+%Y-%m-%d')
+          echo "Pacific date before build A1: $date_before"
+          echo "DATE_BEFORE=$date_before" >> "$GITHUB_ENV"
+
+      - name: Build A1 (base)
+        env:
+          BUILD_TAG_PAGES: 'true'
+          http_proxy: http://127.0.0.1:9
+          https_proxy: http://127.0.0.1:9
+          no_proxy: ''
+        run: |
+          export HTTP_PROXY="$http_proxy" HTTPS_PROXY="$https_proxy" NO_PROXY=
+          bash "$COMPARE_DIR/build.sh" a1 "$SRC/base-1"
+
+      - name: Build B (candidate)
+        env:
+          BUILD_TAG_PAGES: 'true'
+          http_proxy: http://127.0.0.1:9
+          https_proxy: http://127.0.0.1:9
+          no_proxy: ''
+        run: |
+          export HTTP_PROXY="$http_proxy" HTTPS_PROXY="$https_proxy" NO_PROXY=
+          bash "$COMPARE_DIR/build.sh" b "$SRC/candidate"
+
+      - name: Build A2 (base again)
+        env:
+          BUILD_TAG_PAGES: 'true'
+          http_proxy: http://127.0.0.1:9
+          https_proxy: http://127.0.0.1:9
+          no_proxy: ''
+        run: |
+          export HTTP_PROXY="$http_proxy" HTTPS_PROXY="$https_proxy" NO_PROXY=
+          bash "$COMPARE_DIR/build.sh" a2 "$SRC/base-2"
+
+      - name: Record the Pacific date after build A2
+        run: |
+          date_after=$(TZ=America/Los_Angeles date '+%Y-%m-%d')
+          echo "DATE_AFTER=$date_after" >> "$GITHUB_ENV"
+          echo "Pacific date before build A1: $DATE_BEFORE; after build A2: $date_after"
+          if [ "$date_after" != "$DATE_BEFORE" ]; then
+            echo "The Pacific date changed during the builds, so date-dependent output can differ. Rerun the compare." >&2
+            exit 1
+          fi
+
+      - name: Check builds A1 and B
+        run: |
+          status=0
+          for pair in "a1 base-1" "b candidate"; do
+            label=${pair%% *}
+            dir=${pair#* }
+            out="$COMPARE_DIR/report/check-$label.txt"
+            (cd "$SRC/$dir" && BUNDLE_GEMFILE="$SRC/$dir/Gemfile" timeout 120 bundle exec ruby .github/scripts/check_build.rb . "$COMPARE_DIR/sites/$label" --require-digest) > "$out" 2>&1 || status=1
+            cat "$out"
+            grep -qx 'check_build: 0 failures' "$out" || status=1
+          done
+          exit "$status"
+
+      - name: Control, compare A1 with A2
+        run: |
+          ruby "$COMPARE_DIR/compare.rb" control "$COMPARE_DIR/sites/a1" "$COMPARE_DIR/sites/a2" "$COMPARE_DIR/report"
+
+      - name: Self-test the comparator
+        run: |
+          ruby "$COMPARE_DIR/compare.rb" selftest "$COMPARE_DIR/sites/a1" "$COMPARE_DIR/report" "$RUNNER_TEMP/selftest"
+
+      - name: Result, compare A1 with B
+        run: |
+          ruby "$COMPARE_DIR/compare.rb" result "$COMPARE_DIR/sites/a1" "$COMPARE_DIR/sites/b" "$COMPARE_DIR/report"
+
+      - name: Write REPORT.md and the step summary
+        if: ${{ always() && env.COMPARE_DIR != '' }}
+        env:
+          BASE_INPUT: ${{ inputs.base }}
+          CANDIDATE_INPUT: ${{ inputs.candidate }}
+        run: |
+          mkdir -p "$COMPARE_DIR/report"
+          if [ -f "$COMPARE_DIR/compare.rb" ]; then
+            ruby "$COMPARE_DIR/compare.rb" report "$COMPARE_DIR/report" "$COMPARE_DIR/times" > "$COMPARE_DIR/report/REPORT.md"
+          else
+            echo "The run failed during setup, before any build or comparison." > "$COMPARE_DIR/report/REPORT.md"
+          fi
+          cat "$COMPARE_DIR/report/REPORT.md"
+          cat "$COMPARE_DIR/report/REPORT.md" >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload the report
+        if: ${{ always() && env.COMPARE_DIR != '' }}
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: compare-build-report
+          path: ${{ env.COMPARE_DIR }}/report
+          retention-days: 7
+          if-no-files-found: warn

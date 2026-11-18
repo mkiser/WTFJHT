@@ -1,0 +1,77 @@
+{% assign yule_dir = site.url | append: site.baseurl | append: '/uploads' %}<div class="masthead-yule" aria-hidden="true"><video class="masthead-yule__video" muted loop playsinline preload="none" poster="{{ yule_dir }}/yule-poster-b1d5f382-2aece0.jpg" data-src-webm="{{ yule_dir }}/yule-wide-f121115e-43473c.webm" data-src-mp4="{{ yule_dir }}/yule-wide-79254811-db4714.mp4" data-src-webm-narrow="{{ yule_dir }}/yule-narrow-6a26adbc-8fa4f9.webm" data-src-mp4-narrow="{{ yule_dir }}/yule-narrow-eaf46619-431a83.mp4"></video></div>
+<button type="button" class="masthead-yule__toggle" aria-label="Pause background video" hidden><span class="masthead-yule__pause">{% include_cached icons.html icon="pause" %}</span><span class="masthead-yule__play" hidden>{% include_cached icons.html icon="play" %}</span></button>
+<script>
+  (function () {
+    var video = document.querySelector('.masthead-yule__video');
+    var button = document.querySelector('.masthead-yule__toggle');
+    if (!video || !button || !window.matchMedia) return;
+    // Tab order follows the eye: once the header is parsed, move the button
+    // after the search.
+    document.addEventListener('DOMContentLoaded', function () {
+      button.parentNode.appendChild(button);
+    });
+    var still = window.matchMedia('(prefers-reduced-motion: reduce)');
+    var narrow = window.matchMedia('(max-width: 600px)');
+    var pauseIcon = button.querySelector('.masthead-yule__pause');
+    var playIcon = button.querySelector('.masthead-yule__play');
+    var started = false;
+
+    function saveData() {
+      return !!(navigator.connection && navigator.connection.saveData === true);
+    }
+
+    function label() {
+      var paused = video.paused;
+      button.setAttribute('aria-label', paused ? 'Play background video' : 'Pause background video');
+      pauseIcon.hidden = paused;
+      playIcon.hidden = !paused;
+    }
+
+    // Back to the poster: drop the sources so nothing more is fetched.
+    function stop() {
+      started = false;
+      video.pause();
+      while (video.firstChild) video.removeChild(video.firstChild);
+      video.load();
+      button.hidden = true;
+    }
+
+    function start() {
+      if (started || still.matches || saveData()) return;
+      started = true;
+      var size = narrow.matches ? 'Narrow' : '';
+      [['Webm', 'video/webm'], ['Mp4', 'video/mp4']].forEach(function (f) {
+        var source = document.createElement('source');
+        source.src = video.dataset['src' + f[0] + size];
+        source.type = f[1];
+        video.appendChild(source);
+      });
+      video.load();
+      var played = video.play();
+      if (played && played.then) {
+        played.then(function () { button.hidden = false; label(); }, stop);
+      } else {
+        button.hidden = false;
+        label();
+      }
+    }
+
+    button.addEventListener('click', function () {
+      if (video.paused) {
+        var played = video.play();
+        if (played && played.catch) played.catch(label);
+      } else {
+        video.pause();
+      }
+    });
+    video.addEventListener('play', label);
+    video.addEventListener('pause', label);
+
+    function onMotion(e) { if (e.matches) stop(); }
+    if (still.addEventListener) still.addEventListener('change', onMotion);
+    else if (still.addListener) still.addListener(onMotion);
+
+    if (document.readyState === 'complete') start();
+    else window.addEventListener('load', start);
+  })();
+</script>

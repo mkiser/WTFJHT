@@ -137,8 +137,7 @@ def search_records(post_content, current_post_idx)
     next if text.length < 20
 
     # Skip elements inside code blocks or "today in one sentence"
-    next if element.ancestors('pre, code').any?
-    next if element.ancestors('.tios').any?
+    next if inside_code_or_tios?(element)
     next if element['class']&.include?('tios')
 
     # Skip poll elements
@@ -158,6 +157,16 @@ def search_records(post_content, current_post_idx)
   end
 
   records
+end
+
+def inside_code_or_tios?(element)
+  node = element.parent
+  while node&.element?
+    return true if %w[pre code].include?(node.name)
+    return true if node['class']&.split(/[ \t\n\r]+/)&.include?('tios')
+    node = node.parent
+  end
+  false
 end
 
 def own_search_text(node)

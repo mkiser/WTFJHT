@@ -41,3 +41,4 @@ digitalocean
 digitalocean.pub
 .env*
 *.pem
+public/video/holiday-masthead/

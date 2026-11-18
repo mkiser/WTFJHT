@@ -3,9 +3,10 @@ layout: default
 ---
 <script>(function(){var h=document.documentElement,d=new Date(),r=d.getHours()+d.getMinutes()/60;h.style.setProperty('--d40-hour',r.toFixed(2));h.setAttribute('data-d40-band',r>=5&&r<9?'dawn':r>=9&&r<16?'day':r>=16&&r<20?'dusk':'night');h.classList.add('os-js');})();</script>
 {%- if page.os_year -%}{%- assign os_edition = site.data.one_sentence.editions | where: "year", page.os_year | first -%}{%- endif -%}
-{%- assign os_v = site.time | date: '%s' -%}
 {%- assign os_modules = "archive core landing live live-core live-sentence live-ui png png-layout share sky" | split: " " -%}
 {%- assign os_shared = "collect/api collect/edition collect/turnstile letterhead" | split: " " %}
+{%- capture os_paths -%}{%- for os_module in os_modules -%}/public/js/one-sentence/{{ os_module }}.js {% endfor -%}{%- for os_module in os_shared -%}/public/js/{{ os_module }}.js {% endfor -%}{%- endcapture -%}
+{%- assign os_v = os_paths | split: " " | asset_v_group %}
 <article class="page d2040-page os-page">
 <div id="one-sentence" class="d2040 os{% if page.os_class %} {{ page.os_class }}{% endif %}" data-view="letters"{% if os_edition %} data-year="{{ os_edition.year }}" data-source="{{ os_edition.data_url | escape }}"{% endif %}>
 <h1 id="os-h1" class="page-title d40-h1"{% if page.os_h1_focus %} tabindex="-1"{% endif %}>{{ page.title | escape }}</h1>

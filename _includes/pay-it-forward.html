@@ -39,5 +39,5 @@
   <p class="sr-only" id="pif-live" aria-live="polite" aria-atomic="true"></p>
 </div>
 <script type="application/json" id="pif-config">{{ cfg | jsonify }}</script>
-<script src="{{ site.url }}{{ site.baseurl }}/public/js/pay-it-forward-core.js?v={{ site.time | date: '%s' }}" defer></script>
-<script src="{{ site.url }}{{ site.baseurl }}/public/js/pay-it-forward.js?v={{ site.time | date: '%s' }}" defer></script>
+<script src="{{ site.url }}{{ site.baseurl }}{{ '/public/js/pay-it-forward-core.js' | asset_v }}" defer></script>
+<script src="{{ site.url }}{{ site.baseurl }}{{ '/public/js/pay-it-forward.js' | asset_v }}" defer></script>

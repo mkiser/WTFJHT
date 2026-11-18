@@ -13,11 +13,11 @@ on:
   workflow_dispatch:  
     inputs:
       incremental:
-        description: 'Data-only refresh: skip the search-index + leaderboard rebuild (used by the corrections / tag-page auto-commit workflows, whose GITHUB_TOKEN pushes cannot trigger this workflow directly).'
+        description: 'Accepted and ignored. Every deploy builds the complete site.'
         type: boolean
         default: false
       tag_pages:
-        description: 'Regenerate tag archive pages this run (sets BUILD_TAG_PAGES=true).'
+        description: 'Accepted and ignored. Every deploy builds the tag pages.'
         type: boolean
         default: false
 
@@ -33,63 +33,13 @@ jobs:
     runs-on: ubuntu-24.04
     env:
       JEKYLL_ENV: production
+      TZ: America/Los_Angeles
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           ref: master
-          fetch-depth: 2
-
-      - name: Check for post changes
-        id: check
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            # Data-only refreshes (corrections / tag pages) dispatch with incremental=true:
-            # skip the heavy search-index + leaderboard rebuild. CHANGED_DATES stays empty,
-            # so On-This-Day regenerates fully (cheap, local) — same as any non-post push.
-            if [ "${{ inputs.incremental }}" = "true" ]; then
-              echo "full_build=false" >> "$GITHUB_OUTPUT"
-            else
-              echo "full_build=true" >> "$GITHUB_OUTPUT"
-            fi
-          elif [ "${{ github.event_name }}" = "repository_dispatch" ]; then
-            # PasteUp's future-post publish trigger: a post is entering the
-            # site for the first time, so run the full build (search index +
-            # leaderboard) — same treatment as a _posts/ push.
-            echo "full_build=true" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event_name }}" = "schedule" ]; then
-            # Nightly tag-page refresh: post content is unchanged since the
-            # tagger's own push build — skip the heavy search/leaderboard rebuild.
-            echo "full_build=false" >> "$GITHUB_OUTPUT"
-          elif [ "${{ github.event.before }}" = "0000000000000000000000000000000000000000" ]; then
-            echo "full_build=true" >> "$GITHUB_OUTPUT"
-          elif ! CHANGED=$(git diff --name-only "${{ github.event.before }}" HEAD 2>/dev/null); then
-            # git diff failed (e.g., force-push beyond fetch-depth) — full build as fail-safe
-            echo "full_build=true" >> "$GITHUB_OUTPUT"
-          elif echo "$CHANGED" | grep -qE '^(_posts/|_plugins/(search_index|sources_leaderboard)|_data/tag_taxonomy|Gemfile\.lock$)'; then
-            echo "full_build=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "full_build=false" >> "$GITHUB_OUTPUT"
-          fi
-          echo "Full build: $(cat "$GITHUB_OUTPUT")"
-
-          # Extract dates from changed post filenames for incremental OTD generation
-          # Post filenames: _posts/YYYY-MM-DD-*.markdown → "monthname-day" slugs
-          MONTHS="january february march april may june july august september october november december"
-          DATES=""
-          for f in $(echo "$CHANGED" 2>/dev/null | grep '^_posts/' || true); do
-            if echo "$f" | grep -qE '^_posts/[0-9]{4}-[0-9]{2}-[0-9]{2}'; then
-              MM=$(echo "$f" | sed 's|^_posts/[0-9]*-\([0-9]*\)-[0-9]*-.*|\1|')
-              DD=$(echo "$f" | sed 's|^_posts/[0-9]*-[0-9]*-\([0-9]*\)-.*|\1|' | sed 's/^0//')
-              MONTH_NAME=$(echo "$MONTHS" | tr ' ' '\n' | sed -n "${MM##0}p")
-              if [ -n "$MONTH_NAME" ] && [ -n "$DD" ]; then
-                DATES="$DATES${DATES:+,}${MONTH_NAME}-${DD}"
-              fi
-            fi
-          done
-          echo "changed_dates=$DATES" >> "$GITHUB_OUTPUT"
-          echo "Changed dates: $DATES"
 
       - name: Set up Ruby with caching
         uses: ruby/setup-ruby@b3aaceaef7e0ee231b499e7b5f49c03fc1d32199 # v1
@@ -100,14 +50,21 @@ jobs:
       - name: Write build identity
         run: |
           printf 'build_sha: "%s"\n' "$GITHUB_SHA" > _config_build.yml
+          printf 'time: "%s"\n' "$(date '+%Y-%m-%d %H:%M:%S %z')" >> _config_build.yml
 
       - name: Build Jekyll site
         run: bundle exec jekyll build --config _config.yml,_config_build.yml
         env:
-          SKIP_SEARCH_INDEX: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
-          SKIP_LEADERBOARD: ${{ steps.check.outputs.full_build == 'false' && 'true' || 'false' }}
-          BUILD_TAG_PAGES: ${{ (github.event_name == 'schedule' || inputs.tag_pages == true) && 'true' || 'false' }}
-          CHANGED_DATES: ${{ steps.check.outputs.changed_dates }}
+          BUILD_TAG_PAGES: 'true'
+
+      - name: Check build completeness (report only)
+        run: timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site || true
+
+      - name: Check that the completeness check catches missing files (report only)
+        run: |
+          timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site --pretend-missing tags/immigration/index.html || true
+          timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site --pretend-missing on-this-day/january-20/index.html || true
+          timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site --pretend-missing search-index.json || true
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd # v6.3.0

@@ -1,9 +1,0 @@
----
-title: "\U0001F633 Paul Manafort sentenced to less than 4 years in jail"
-date: 2019-03-07 17:46:00 -08:00
-is_promoted: false
----
-
-**Manafort's 47 months in prison for bank and tax fraud was far lighter than the 19- to 24-year prison term recommended under federal sentencing guidelines**. Manafort was also ordered to pay a $50,000 fine and restitution of just over $24 million. Judge T. S. Ellis said he thought the sentencing recommendation was "excessive," adding that he believed Manafort "lived an otherwise blameless life." It's the longest sentence to date for a Trump associate caught up in Robert Mueller's investigation. Manafort will also be sentenced next week on separate charges that he served as an unregistered foreign agent, laundered money and tampered with a witness. ([New York Times](https://www.nytimes.com/2019/03/07/us/politics/paul-manafort-sentencing.html) / [Washington Post](https://www.washingtonpost.com/local/public-safety/paul-manafort-sentencing/2019/03/07/77f527b2-3e94-11e9-9361-301ffb5bd5e6_story.html) / [Politico](https://www.politico.com/story/2019/03/07/manafort-gets-47-months-in-prison-for-financial-fraud-1210786) / [CNN](https://www.cnn.com/2019/03/07/politics/paul-manafort-sentencing-virginia-case-russia-investigation/index.html) / [NPR](https://www.npr.org/2019/03/07/701045248/paul-manafort-former-trump-campaign-chairman-sentenced-to-just-under-4-years) / [ABC News](https://abcnews.go.com/Politics/paul-manafort-president-donald-trumps-campaign-chairman-faces/story?id=61506579) / [CNBC](https://www.cnbc.com/2019/03/07/ex-trump-campaign-chief-paul-manafort-sentenced-to-47-months-for-fraud-in-mueller-case.html))
-
-**💬 Got something to say about this?** [Sound off on the message board](https://talk.whatthefuckjusthappenedtoday.com/t/day-777/4466). 

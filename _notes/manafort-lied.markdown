@@ -1,7 +1,0 @@
----
-title: "\U0001F6A8 Manafort lied."
-date: 2019-02-13 16:00:00 -08:00
-is_promoted: false
----
-
-**A federal judge ruled that Paul Manafort violated the terms of his cooperation deal by repeatedly lying to Robert Mueller** and a grand jury about "his interactions and communications with \[Konstantin\] Kilimnik," a longtime aide who the FBI assessed to have ties to Russian intelligence. U.S. District Court Judge Amy Berman Jackson ruled that Mueller was "no longer bound" by the plea agreement terms, including the special counsel's pledge to support a less-stringent sentence. The breached of the cooperation deal after his guilty plea could add years to Manafort's prison sentence, who was convicted last year of eight felonies, including tax and bank fraud. Manafort later pleaded guilty to two additional conspiracy counts. ([Washington Post](https://www.washingtonpost.com/local/legal-issues/us-judge-finds-paul-manafort-lied-to-mueller-probe-about-contacts-with-russian-aide/2019/02/13/c5209f7a-2f2c-11e9-86ab-5d02109aeb01_story.html) / [New York Times](https://www.nytimes.com/2019/02/13/us/politics/manafort-mueller.html) / [Politico](https://www.politico.com/story/2019/02/13/paul-manafort-ruling-1169380) / [Vox](https://www.vox.com/2019/2/13/18222477/mueller-manafort-trump-russia-cooperation) / [Wall Street Journal](https://www.wsj.com/articles/judge-rules-paul-manafort-made-false-statements-in-violation-of-plea-agreement-11550101738))

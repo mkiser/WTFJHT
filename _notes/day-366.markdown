@@ -1,8 +1,0 @@
----
-title: Day 366
-date: 2018-01-20 18:26:00 -08:00
----
-
-1. **Women's March 2018**: A year after millions protested Trump, marchers gathered again across the country and the world. ([New York Times](https://www.nytimes.com/2018/01/20/us/womens-march.html))
-
-{% twitter https://twitter.com/realDonaldTrump/status/954788467069870081 %}

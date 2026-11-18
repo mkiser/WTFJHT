@@ -47,7 +47,6 @@ Jekyll::Hooks.register :site, :post_write do |site|
   posts = []      # Deduplicated post metadata
   records = []    # Paragraphs with post index reference
   post_index = {} # Map URL to post array index
-  record_id = 0
 
   # Process posts in reverse chronological order (newest first)
   site.posts.docs.reverse_each do |post|
@@ -90,41 +89,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
     end
     current_post_idx = post_index[url]
 
-    # Track position within post
-    position = 0
-
-    # Extract paragraphs and list items from post content only
-    post_content.css('p, li').each do |element|
-      # Skip empty elements
-      text = element.text.strip
-      next if text.empty?
-
-      # Skip very short content (likely just numbers or labels)
-      next if text.length < 20
-
-      # Skip elements inside code blocks or "today in one sentence"
-      next if element.ancestors('pre, code').any?
-      next if element.ancestors('.tios').any?
-      next if element['class']&.include?('tios')
-
-      # Skip poll elements
-      next if element.parent&.name == 'poll'
-
-      # Determine element type (1 = paragraph, 0 = list item)
-      element_type = element.name == 'p' ? 1 : 0
-
-      # Clean up the text content
-      content = clean_text(text)
-
-      # Skip if content is still too short after cleaning
-      next if content.length < 20
-
-      # Compact record format: [postIndex, content, type]
-      records << [current_post_idx, content, element_type]
-
-      record_id += 1
-      position += 1
-    end
+    records.concat(search_records(post_content, current_post_idx))
   end
 
   Jekyll.logger.info "Search Index:", "Generated #{records.length} records from #{posts.length} posts"
@@ -156,6 +121,56 @@ Jekyll::Hooks.register :site, :post_write do |site|
   end
 
   Jekyll.logger.info "Search Index:", "Wrote search-version.json"
+end
+
+def search_records(post_content, current_post_idx)
+  records = []
+
+  # Extract paragraphs and list items from post content only
+  post_content.css('p, li').each do |element|
+    # Skip empty elements
+    text = own_search_text(element).strip
+    next if text.empty?
+
+    # Skip very short content (likely just numbers or labels)
+    next if text.length < 20
+
+    # Skip elements inside code blocks or "today in one sentence"
+    next if element.ancestors('pre, code').any?
+    next if element.ancestors('.tios').any?
+    next if element['class']&.include?('tios')
+
+    # Skip poll elements
+    next if element.parent&.name == 'poll'
+
+    # Determine element type (1 = paragraph, 0 = list item)
+    element_type = element.name == 'p' ? 1 : 0
+
+    # Clean up the text content
+    content = clean_text(text)
+
+    # Skip if content is still too short after cleaning
+    next if content.length < 20
+
+    # Compact record format: [postIndex, content, type]
+    records << [current_post_idx, content, element_type]
+  end
+
+  records
+end
+
+def own_search_text(node)
+  node.children.map do |child|
+    if child.text? || child.cdata?
+      child.text
+    elsif child.element? && %w[p li].include?(child.name)
+      ' '
+    elsif child.element?
+      own_search_text(child)
+    else
+      ''
+    end
+  end.join
 end
 
 def clean_text(text)

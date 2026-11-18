@@ -8,6 +8,8 @@
   var RESULTS_PER_PAGE = 50;
   var DEBOUNCE_MS = 300;
   var MIN_QUERY_LENGTH = 2;
+  var FRAGMENT_LEAD_WORDS = 12;
+  var FRAGMENT_MAX_LENGTH = 300;
   var DB_NAME = 'wtfjht-search';
   var DB_VERSION = 1;
   var STORE_NAME = 'search-index';
@@ -21,6 +23,8 @@
   var currentResults = [];
   var displayedResults = 0;
   var searchRequestId = 0;
+  var requestQuery = '';
+  var searchFailed = false;
 
   // DOM elements
   var searchInput = document.querySelector('.js-algolia__input');
@@ -38,12 +42,35 @@
   var focusHandler = function(e) {
     // Only initialize on trusted user events, not programmatic focus
     if (e.isTrusted) {
-      searchInput.removeEventListener('focus', focusHandler);
-      initSearch();
+      beginSearch();
     }
   };
   searchInput.addEventListener('focus', focusHandler);
+  searchInput.addEventListener('input', function() {
+    if ((searchInput.value || '').trim() !== requestQuery) {
+      invalidateRequests();
+    }
+  });
   searchInput.addEventListener('input', debounce(onQueryChange, DEBOUNCE_MS));
+
+  function beginSearch() {
+    searchInput.removeEventListener('focus', focusHandler);
+    initSearch();
+  }
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key !== '/' || e.defaultPrevented || e.ctrlKey || e.metaKey || e.altKey) return;
+    var target = e.target;
+    if (target && (/^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName) || target.isContentEditable)) return;
+    if (document.querySelector('dialog[open], [aria-modal="true"]')) return;
+    e.preventDefault();
+    try {
+      beginSearch();
+    } catch (err) {
+      console.error('Search worker failed:', err);
+    }
+    searchInput.focus();
+  });
 
   // Show/hide results
   function showResults() {
@@ -60,11 +87,20 @@
 
   // Initialize Web Worker and load index
   function initSearch() {
+    if (searchFailed) {
+      showErrorIfQuery();
+      return;
+    }
     if (worker || isLoading) return;
     isLoading = true;
 
     // Create worker
-    worker = new Worker('/public/js/search-worker.js');
+    try {
+      worker = new Worker('/public/js/search-worker.js');
+    } catch (err) {
+      failSearch(err);
+      return;
+    }
 
     worker.onmessage = function(e) {
       var msg = e.data;
@@ -78,32 +114,48 @@
         }
       } else if (msg.type === 'results') {
         // Only use results if they match current request
-        if (msg.id === searchRequestId) {
+        if (isCurrentRequest(msg.id)) {
           currentResults = msg.results;
           displayedResults = 0;
-          renderResults(currentQuery);
+          renderResults(requestQuery, msg.id);
         }
       } else if (msg.type === 'error') {
         console.error('Search worker error:', msg.error);
+        if (isCurrentRequest(msg.id)) {
+          showSearchError();
+        }
       }
     };
 
-    worker.onerror = function(err) {
-      console.error('Search worker failed:', err);
-      isLoading = false;
-      showSearchError();
-    };
+    worker.onerror = failSearch;
 
     // Load index and send to worker
     loadIndex()
       .then(function(data) {
-        worker.postMessage({ type: 'init', data: data });
+        if (!searchFailed) {
+          worker.postMessage({ type: 'init', data: data });
+        }
       })
-      .catch(function(err) {
-        console.error('Search: Failed to load index', err);
-        isLoading = false;
-        showSearchError();
-      });
+      .catch(failSearch);
+  }
+
+  function failSearch(err) {
+    if (searchFailed) return;
+    console.error('Search failed:', err);
+    searchFailed = true;
+    isReady = false;
+    isLoading = false;
+    if (worker) worker.terminate();
+    worker = null;
+    if (searchContent.classList.contains('algolia__search-content--active')) {
+      onQueryChange({ target: searchInput });
+    }
+  }
+
+  function showErrorIfQuery() {
+    if ((searchInput.value || '').trim().length >= MIN_QUERY_LENGTH) {
+      showSearchError();
+    }
   }
 
   // Load index from cache or network (with version checking)
@@ -133,6 +185,7 @@
 
   // Check if cached version is stale
   function checkVersion(cachedGenerated) {
+    if (searchFailed) return Promise.reject(new Error('Search failed'));
     return fetch('/search-version.json', { cache: 'no-store' })
       .then(function(response) {
         if (!response.ok) throw new Error('Version file not found');
@@ -145,13 +198,14 @@
 
   // Fetch index from network (Cloudflare serves Brotli/gzip automatically)
   function fetchIndex() {
+    if (searchFailed) return Promise.reject(new Error('Search failed'));
     return fetch('/search-index.json')
       .then(function(response) {
         if (!response.ok) throw new Error('Index not found');
         return response.json();
       })
       .then(function(data) {
-        saveToIndexedDB(data);
+        if (!searchFailed) saveToIndexedDB(data);
         return data;
       });
   }
@@ -188,6 +242,7 @@
   function saveToIndexedDB(data) {
     openDB()
       .then(function(db) {
+        if (searchFailed) return;
         var tx = db.transaction(STORE_NAME, 'readwrite');
         tx.objectStore(STORE_NAME).put(data, INDEX_KEY);
       })
@@ -201,11 +256,13 @@
     currentQuery = (event.target.value || '').trim();
 
     if (currentQuery.length === 0) {
+      invalidateRequests();
       hideResults();
       return;
     }
 
     if (currentQuery.length < MIN_QUERY_LENGTH) {
+      invalidateRequests();
       showResults();
       resultsContainer.innerHTML = '<div class="search-hint">Type at least ' + MIN_QUERY_LENGTH + ' characters...</div>';
       return;
@@ -231,6 +288,7 @@
   function doSearch(query) {
     if (typeof gtag === 'function') gtag('event', 'search_used');
     searchRequestId++;
+    requestQuery = query;
     resultsContainer.innerHTML = '<div class="search-loading">Searching...</div>';
     worker.postMessage({
       type: 'search',
@@ -239,8 +297,45 @@
     });
   }
 
+  function invalidateRequests() {
+    searchRequestId++;
+    requestQuery = '';
+  }
+
+  function isCurrentRequest(id) {
+    return id === searchRequestId &&
+      requestQuery !== '' &&
+      requestQuery === (searchInput.value || '').trim();
+  }
+
+  function encodeTextDirective(text) {
+    return encodeURIComponent(text).replace(/-/g, '%2D');
+  }
+
+  function fitExcerpt(words, start) {
+    for (var n = Math.min(FRAGMENT_LEAD_WORDS, words.length - start); n > 0; n--) {
+      var excerpt = encodeTextDirective(words.slice(start, start + n).join(' '));
+      if (excerpt.length <= FRAGMENT_MAX_LENGTH) return excerpt;
+    }
+    return '';
+  }
+
+  function resultHref(url, text) {
+    if (!url || url.indexOf('#') !== -1 || !('fragmentDirective' in document)) return url;
+    var words = (text || '').split(/\s+/).filter(function(w) { return w.length > 0; });
+    if (words.length === 0) return url;
+    var excerpt = encodeTextDirective(words.join(' '));
+    if (excerpt.length > FRAGMENT_MAX_LENGTH) {
+      excerpt = '';
+    }
+    for (var start = 0; !excerpt && start < words.length; start++) {
+      excerpt = fitExcerpt(words, start);
+    }
+    return excerpt ? url + '#:~:text=' + excerpt : url;
+  }
+
   // Render results
-  function renderResults(query) {
+  function renderResults(query, requestId) {
     if (currentResults.length === 0) {
       resultsContainer.innerHTML = '<div class="search-hint">Fake news not found.</div>';
       return;
@@ -252,7 +347,7 @@
     var html = toShow.map(function(result) {
       var r = result.record;
       return '<div class="algolia__result">' +
-        '<h3 class="post-title"><a class="algolia__result-link" href="' + escapeHtml(r.url) + '">' +
+        '<h3 class="post-title"><a class="algolia__result-link" href="' + escapeHtml(resultHref(r.url, r.content)) + '">' +
         escapeHtml(r.title) + ': ' + escapeHtml(r.description) + '</a></h3>' +
         '<div class="algolia__result-date">' + formatDate(r.date) + '</div>' +
         '<div class="algolia__result-text">' + highlightTerms(r.content, query) + '</div>' +
@@ -263,7 +358,9 @@
       var remaining = currentResults.length - displayedResults;
       html += '<button class="search-load-more" onclick="window.searchLoadMore()">Load more (' + remaining + ' remaining)</button>';
       window.searchLoadMore = function() {
-        renderResults(query);
+        if (isCurrentRequest(requestId)) {
+          renderResults(query, requestId);
+        }
       };
     }
 

@@ -1166,11 +1166,9 @@ jobs:
         env:
           http_proxy: http://127.0.0.1:9
           https_proxy: http://127.0.0.1:9
-          HTTP_PROXY: http://127.0.0.1:9
-          HTTPS_PROXY: http://127.0.0.1:9
           no_proxy: ''
-          NO_PROXY: ''
         run: |
+          export HTTP_PROXY="$http_proxy" HTTPS_PROXY="$https_proxy" NO_PROXY=
           bash "$MEASURE_DIR/scripts/build.sh" a
           python3 "$MEASURE_DIR/scripts/clock.py" "$MEASURE_DIR/sites/site-a" "$DECLARED_EPOCH" "$DECLARED_TIME" "$MEASURE_DIR/report/clock-a.json"
 
@@ -1182,11 +1180,9 @@ jobs:
         env:
           http_proxy: http://127.0.0.1:9
           https_proxy: http://127.0.0.1:9
-          HTTP_PROXY: http://127.0.0.1:9
-          HTTPS_PROXY: http://127.0.0.1:9
           no_proxy: ''
-          NO_PROXY: ''
         run: |
+          export HTTP_PROXY="$http_proxy" HTTPS_PROXY="$https_proxy" NO_PROXY=
           bash "$MEASURE_DIR/scripts/build.sh" b
           python3 "$MEASURE_DIR/scripts/clock.py" "$MEASURE_DIR/sites/site-b" "$DECLARED_EPOCH" "$DECLARED_TIME" "$MEASURE_DIR/report/clock-b.json"
 
@@ -1198,11 +1194,9 @@ jobs:
         env:
           http_proxy: http://127.0.0.1:9
           https_proxy: http://127.0.0.1:9
-          HTTP_PROXY: http://127.0.0.1:9
-          HTTPS_PROXY: http://127.0.0.1:9
           no_proxy: ''
-          NO_PROXY: ''
         run: |
+          export HTTP_PROXY="$http_proxy" HTTPS_PROXY="$https_proxy" NO_PROXY=
           fixture_source=$(ruby "$MEASURE_DIR/scripts/fixture.rb" write "$MEASURE_DIR/report/fixture.json")
           cp "$fixture_source" "$MEASURE_DIR/report/fixture-post.markdown"
           bash "$MEASURE_DIR/scripts/build.sh" c

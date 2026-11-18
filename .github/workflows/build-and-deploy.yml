@@ -57,14 +57,14 @@ jobs:
         env:
           BUILD_TAG_PAGES: 'true'
 
-      - name: Check build completeness (report only)
-        run: timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site || true
-
-      - name: Check that the completeness check catches missing files (report only)
+      - name: Check build completeness
         run: |
-          timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site --pretend-missing tags/immigration/index.html || true
-          timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site --pretend-missing on-this-day/january-20/index.html || true
-          timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site --pretend-missing search-index.json || true
+          STATUS=0
+          timeout 120 bundle exec ruby .github/scripts/check_build.rb . _site --require-digest || STATUS=$?
+          if [ $STATUS -eq 124 ]; then
+            echo "ERROR: check_build did not finish within 120 seconds"
+          fi
+          exit $STATUS
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@e1253824e5c10ff9df46874f81ed3ec929e19cfd # v6.3.0
@@ -77,34 +77,6 @@ jobs:
         run: |
           BUCKET=s3://whatthefuckjusthappenedtoday.com
 
-          # Pass 1: HTML — browsers revalidate at 5min, CF edge caches 1hr
-          aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
-            --acl public-read \
-            --exclude "*" \
-            --include "*.html" \
-            --cache-control "public, max-age=300, s-maxage=3600" &
-          PID1=$!
-
-          # Pass 2: Search index — short browser cache like HTML (only exists on full builds)
-          if [ -f _site/search-index.json ]; then
-            aws s3 cp _site/search-index.json $BUCKET/search-index.json --only-show-errors \
-              --acl public-read \
-              --cache-control "public, max-age=300, s-maxage=3600" &
-            PID2=$!
-          else
-            PID2=""
-          fi
-
-          # Pass 3: Other dynamic data (feeds, sitemap) — 1hr cache
-          aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
-            --acl public-read \
-            --exclude "*" \
-            --include "*.json" --include "*.xml" \
-            --exclude "search-index.json" \
-            --cache-control "public, max-age=3600" &
-          PID3=$!
-
-          # Pass 4: Static assets (CSS, JS, images, fonts) — 1-day cache
           aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
             --acl public-read \
             --exclude "*.html" --exclude "*.json" --exclude "*.xml" \
@@ -120,16 +92,43 @@ jobs:
             --cache-control "public, max-age=300, s-maxage=300" &
           PID5=$!
 
-          # Wait for all passes and fail if any failed
           FAILED=0
-          for PID in $PID1 $PID2 $PID3 $PID4 $PID5; do
-            [ -z "$PID" ] && continue
+          wait $PID4 || { echo "ERROR: Static asset upload pass failed"; FAILED=1; }
+          wait $PID5 || { echo "ERROR: Dear 2040 script upload pass failed"; FAILED=1; }
+          if [ $FAILED -ne 0 ]; then
+            exit 1
+          fi
+          echo "assets uploaded"
+
+          aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
+            --acl public-read \
+            --exclude "*" \
+            --include "*.html" \
+            --cache-control "public, max-age=300, s-maxage=3600" &
+          PID1=$!
+
+          aws s3 cp _site/search-index.json $BUCKET/search-index.json --only-show-errors \
+            --acl public-read \
+            --cache-control "public, max-age=300, s-maxage=3600" &
+          PID2=$!
+
+          aws s3 cp _site/ $BUCKET/ --recursive --only-show-errors \
+            --acl public-read \
+            --exclude "*" \
+            --include "*.json" --include "*.xml" \
+            --exclude "search-index.json" \
+            --cache-control "public, max-age=3600" &
+          PID3=$!
+
+          FAILED=0
+          for PID in $PID1 $PID2 $PID3; do
             wait $PID || FAILED=1
           done
           if [ $FAILED -ne 0 ]; then
             echo "ERROR: One or more S3 upload passes failed"
             exit 1
           fi
+          echo "pages uploaded"
 
       - name: Purge Cloudflare cache
         run: |

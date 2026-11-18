@@ -2,6 +2,7 @@
 # Each <p> and <li> becomes a separate searchable record
 # Outputs to _site/search-index.json
 
+require 'digest'
 require 'jekyll'
 require 'json'
 require 'nokogiri'
@@ -100,8 +101,8 @@ Jekyll::Hooks.register :site, :post_write do |site|
     'r' => records,   # Record arrays: [postIdx, content, type]
     'g' => all_tags,  # Tag lookup array
     'v' => 3,         # Version 3 = with tags
-    'generated' => Time.now.utc.iso8601
   }
+  index_data['generated'] = Digest::SHA256.hexdigest(JSON.generate(index_data))[0, 16]
 
   # Write to destination
   index_path = File.join(site.dest, 'search-index.json')

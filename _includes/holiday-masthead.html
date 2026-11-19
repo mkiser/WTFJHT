@@ -2,42 +2,91 @@
 <button type="button" class="masthead-yule__toggle" aria-label="Pause background video" hidden><span class="masthead-yule__pause">{% include_cached icons.html icon="pause" %}</span><span class="masthead-yule__play" hidden>{% include_cached icons.html icon="play" %}</span></button>
 <script>
   (function () {
-    var video = document.querySelector('.masthead-yule__video');
-    var button = document.querySelector('.masthead-yule__toggle');
-    if (!video || !button || !window.matchMedia) return;
-    // Tab order follows the eye: once the header is parsed, move the button
-    // after the search.
-    document.addEventListener('DOMContentLoaded', function () {
-      button.parentNode.appendChild(button);
-    });
-    var still = window.matchMedia('(prefers-reduced-motion: reduce)');
-    var narrow = window.matchMedia('(max-width: 600px)');
-    var pauseIcon = button.querySelector('.masthead-yule__pause');
-    var playIcon = button.querySelector('.masthead-yule__play');
-    var started = false;
+    var KEY = 'wtfjht-masthead-paused';
+    var video, button, pauseIcon, playIcon, still, narrow, paper;
+    var held = false, unsaved = false, refused = false, pending = false;
+    var started = false, rolling = false, offered = false;
+    var loaded = false, seen = false, printFlag = false, turn = 0;
+
+    function guard(fn) {
+      return function (e) {
+        try { fn(e); } catch (x) {}
+      };
+    }
+
+    function stored() {
+      try { return window.localStorage.getItem(KEY) === '1'; } catch (e) { return null; }
+    }
+
+    function remember(paused) {
+      try {
+        if (paused) window.localStorage.setItem(KEY, '1');
+        else window.localStorage.removeItem(KEY);
+        unsaved = false;
+      } catch (e) {
+        unsaved = true;
+      }
+    }
+
+    function sync() {
+      var value = stored();
+      if (unsaved || value === null) return;
+      held = value;
+      if (held) pending = false;
+    }
 
     function saveData() {
       return !!(navigator.connection && navigator.connection.saveData === true);
     }
 
-    function label() {
-      var paused = video.paused;
-      button.setAttribute('aria-label', paused ? 'Play background video' : 'Pause background video');
-      pauseIcon.hidden = paused;
-      playIcon.hidden = !paused;
+    function printing() {
+      return printFlag || paper.matches;
+    }
+
+    function inView() {
+      var box = video.getBoundingClientRect();
+      return box.bottom > 0 && box.top < window.innerHeight;
+    }
+
+    function paint() {
+      button.hidden = !offered;
+      button.setAttribute('aria-label', rolling ? 'Pause background video' : 'Play background video');
+      if (pending) button.setAttribute('aria-busy', 'true');
+      else button.removeAttribute('aria-busy');
+      pauseIcon.hidden = !rolling;
+      playIcon.hidden = rolling;
+    }
+
+    function hush() {
+      turn++;
+      video.pause();
     }
 
     // Back to the poster: drop the sources so nothing more is fetched.
-    function stop() {
+    function drop() {
+      hush();
       started = false;
-      video.pause();
+      rolling = false;
+      pending = false;
       while (video.firstChild) video.removeChild(video.firstChild);
       video.load();
-      button.hidden = true;
     }
 
-    function start() {
-      if (started || still.matches || saveData()) return;
+    function refuse(n) {
+      if (n !== turn) return;
+      refused = true;
+      drop();
+      reconcile();
+    }
+
+    function play() {
+      var n = ++turn;
+      var played;
+      try { played = video.play(); } catch (e) { return refuse(n); }
+      if (played && played.then) played.then(null, guard(function () { refuse(n); }));
+    }
+
+    function attach() {
       started = true;
       var size = narrow.matches ? 'Narrow' : '';
       [['Webm', 'video/webm'], ['Mp4', 'video/mp4']].forEach(function (f) {
@@ -47,31 +96,119 @@
         video.appendChild(source);
       });
       video.load();
-      var played = video.play();
-      if (played && played.then) {
-        played.then(function () { button.hidden = false; label(); }, stop);
-      } else {
-        button.hidden = false;
-        label();
-      }
     }
 
-    button.addEventListener('click', function () {
-      if (video.paused) {
-        var played = video.play();
-        if (played && played.catch) played.catch(label);
-      } else {
-        video.pause();
+    function reconcile() {
+      sync();
+      if (still.matches || saveData()) {
+        if (started) drop();
+        pending = false;
+        offered = false;
+        return paint();
       }
-    });
-    video.addEventListener('play', label);
-    video.addEventListener('pause', label);
+      if (!window.IntersectionObserver) seen = inView();
+      if (held || refused) offered = true;
+      if (loaded && seen && !document.hidden && !printing() && !held && !refused) {
+        if (!started) attach();
+        if (video.paused) play();
+      } else if (!video.paused) {
+        hush();
+      }
+      paint();
+    }
 
-    function onMotion(e) { if (e.matches) stop(); }
-    if (still.addEventListener) still.addEventListener('change', onMotion);
-    else if (still.addListener) still.addListener(onMotion);
+    function toggle() {
+      if (pending) {
+        held = true;
+        remember(true);
+        if (started) drop();
+        pending = false;
+      } else if (rolling) {
+        held = true;
+        remember(true);
+      } else {
+        held = false;
+        refused = false;
+        pending = true;
+        remember(false);
+      }
+      reconcile();
+    }
 
-    if (document.readyState === 'complete') start();
-    else window.addEventListener('load', start);
+    function playing() {
+      rolling = true;
+      pending = false;
+      offered = true;
+      reconcile();
+    }
+
+    function idle() {
+      rolling = false;
+      paint();
+    }
+
+    function failed(e) {
+      if (!started || (e.target !== video && e.target !== video.lastChild)) return;
+      refused = true;
+      drop();
+      reconcile();
+    }
+
+    function ready() {
+      loaded = true;
+      if (window.IntersectionObserver) seen = inView();
+      reconcile();
+    }
+
+    function watch(query, fn) {
+      if (query.addEventListener) query.addEventListener('change', fn);
+      else if (query.addListener) query.addListener(fn);
+    }
+
+    try {
+      video = document.querySelector('.masthead-yule__video');
+      button = document.querySelector('.masthead-yule__toggle');
+      if (!video || !button || !window.matchMedia) return;
+      // Tab order follows the eye: once the header is parsed, move the button
+      // after the search.
+      document.addEventListener('DOMContentLoaded', guard(function () {
+        if (button.parentNode) button.parentNode.appendChild(button);
+      }));
+      still = window.matchMedia('(prefers-reduced-motion: reduce)');
+      narrow = window.matchMedia('(max-width: 47.99em)');
+      paper = window.matchMedia('print');
+      pauseIcon = button.querySelector('.masthead-yule__pause');
+      playIcon = button.querySelector('.masthead-yule__play');
+      held = stored() === true;
+      button.addEventListener('click', guard(toggle));
+      video.addEventListener('playing', guard(playing));
+      video.addEventListener('pause', guard(idle));
+      video.addEventListener('emptied', guard(idle));
+      video.addEventListener('error', guard(failed), true);
+      watch(still, guard(reconcile));
+      watch(paper, guard(reconcile));
+      window.addEventListener('beforeprint', guard(function () { printFlag = true; reconcile(); }));
+      window.addEventListener('afterprint', guard(function () { printFlag = false; reconcile(); }));
+      if (navigator.connection && navigator.connection.addEventListener) {
+        navigator.connection.addEventListener('change', guard(reconcile));
+      }
+      window.addEventListener('storage', guard(function (e) {
+        if (e.key === KEY || e.key === null) reconcile();
+      }));
+      document.addEventListener('visibilitychange', guard(reconcile));
+      window.addEventListener('pageshow', guard(reconcile));
+      if (window.IntersectionObserver) {
+        new window.IntersectionObserver(guard(function (entries) {
+          seen = entries[entries.length - 1].intersectionRatio > 0;
+          reconcile();
+        }), { threshold: [0, 0.000001] }).observe(video);
+      } else {
+        window.addEventListener('scroll', guard(reconcile));
+        window.addEventListener('resize', guard(reconcile));
+      }
+      if (document.readyState === 'complete') ready();
+      else window.addEventListener('load', guard(ready));
+      reconcile();
+    } catch (e) {}
   })();
 </script>

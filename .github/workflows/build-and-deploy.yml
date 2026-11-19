@@ -49,7 +49,7 @@ jobs:
 
       - name: Write build identity
         run: |
-          printf 'build_sha: "%s"\n' "$GITHUB_SHA" > _config_build.yml
+          printf 'build_sha: "%s"\n' "$(git rev-parse HEAD)" > _config_build.yml
           printf 'time: "%s"\n' "$(date '+%Y-%m-%d %H:%M:%S %z')" >> _config_build.yml
 
       - name: Build Jekyll site

@@ -1,6 +1,12 @@
 ---
 title: Day 2129
 date: 2026-11-18 16:33:25 -08:00
+tags:
+- "congress"
+- "oversight"
+- "elections"
+- "foreign-policy"
+- "china"
 description: '"A ''good trouble'' moment."'
 image: "/uploads/day2129trump-2b3207.jpg"
 todayInOneSentence: House Democrats nominated Hakeem Jeffries for speaker, putting

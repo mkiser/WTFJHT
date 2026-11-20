@@ -1,6 +1,12 @@
 ---
 title: Day 2130
 date: 2026-11-19 16:22:24 -08:00
+tags:
+- "foreign-policy"
+- "congress"
+- "justice-department"
+- "iran"
+- "midterm-election"
 description: '"I feel pretty foolish."'
 image: "/uploads/day2130trump-8f66af.jpg"
 todayInOneSentence: Senate Republicans blocked a House-passed resolution directing

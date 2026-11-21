@@ -24,6 +24,14 @@ editorsNote: "<p><em><strong>🦃 Programming reminder</strong>: Unless somethin
 
 ---
 
+### 🧩 The News Quiz.
+
+**What happened following allegations that a former White House teleprompter operator used advance access to Trump’s speeches to trade on Kalshi?** That and nine more questions about this week’s news. Answers and explanations as you go.
+
+**[Take the Last Week in WTF News Quiz](https://whatthefuckjusthappenedtoday.com/quiz/)**
+
+---
+
 ### 🗞️ The Week in WTF.
 
 1/ **House Democrats opened an investigation into whether Commerce Secretary Howard Lutnick delayed restrictions on Nvidia chip exports to benefit his sons' investment firm**. Democrats demanded records from Cantor Fitzgerald, which Lutnick previously ran and his sons now control, about its Nvidia holdings, which were valued at about $1.2 billion when he took office, and communications with the Commerce Department about export controls. Commerce, meanwhile, issued a rule requiring licenses to ship advanced chips to data centers in five countries to prevent Chinese companies from accessing them overseas. Treasury Secretary Scott Bessent said several agencies had pushed for months to blacklist Megaspeed, a Singapore-based Nvidia customer under investigation for allegedly diverting chips to China, while Lutnick reportedly resisted restrictions on the company. Trump said he had no plans to fire Lutnick and suggested the delay in blacklisting Megaspeed was meant to avoid a “blow-up with China” ahead of his meeting with Xi Jinping. ([Monday](https://whatthefuckjusthappenedtoday.com/2026/11/16/day-2127/) / [Wednesday](https://whatthefuckjusthappenedtoday.com/2026/11/18/day-2129/) / [Wednesday, Nov. 11](https://whatthefuckjusthappenedtoday.com/2026/11/11/day-2122/))

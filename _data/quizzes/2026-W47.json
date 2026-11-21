@@ -1,0 +1,173 @@
+{
+  "id": "2026-W47",
+  "week_label": "Nov 16 – Nov 19, 2026",
+  "status": "published",
+  "editions": [
+    2130,
+    2129,
+    2128,
+    2127
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "question": "What penalty and profit repayment resulted from allegations that a former White House teleprompter operator used advance access to Trump’s speeches to trade on Kalshi?",
+      "options": [
+        "A $25,000 penalty and more than $65,000 in profits",
+        "A $107,000 penalty and more than $400,000 in profits",
+        "A $65,000 penalty and more than $107,000 in profits",
+        "A $400,000 penalty and more than $1 million in profits"
+      ],
+      "correct": 2,
+      "explanation": "The former operator paid a $65,000 penalty and returned more than $107,000 in profits. The case preceded the order stopping Kalshi’s bets on Trump’s public remarks.",
+      "source_day": 2128,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/17/day-2128/",
+      "difficulty": "hard",
+      "type": "numbers"
+    },
+    {
+      "number": 2,
+      "question": "Who said, “The reason we lost is the war,” while discussing Republicans’ midterm defeats?",
+      "options": [
+        "Elon Musk",
+        "Eric Ueland",
+        "Vladimir Putin",
+        "JD Vance"
+      ],
+      "correct": 3,
+      "explanation": "JD Vance blamed the Iran war for the Republican losses, saying, “The reason we lost is the war.”",
+      "source_day": 2130,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/19/day-2130/",
+      "difficulty": "medium",
+      "type": "quote"
+    },
+    {
+      "number": 3,
+      "question": "What must happen after House Democrats nominated Hakeem Jeffries for speaker?",
+      "options": [
+        "The full House must elect him on Jan. 3",
+        "The president must formally appoint him",
+        "The Senate must confirm him before the new Congress begins",
+        "The Supreme Court must approve the nomination"
+      ],
+      "correct": 0,
+      "explanation": "The party nomination put Jeffries on track to become the first Black House speaker, but the full House must still elect him on Jan. 3.",
+      "source_day": 2129,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/18/day-2129/",
+      "difficulty": "easy",
+      "type": "sequence"
+    },
+    {
+      "number": 4,
+      "question": "What was the consequence of the Supreme Court rejecting the administration’s effort to revive cuts to research grants tied to perceived DEI programs?",
+      "options": [
+        "A lower court ruling against the administration’s cancellations remained in place",
+        "The administration was allowed to resume keyword-based grant reviews",
+        "Congress was required to restore every canceled grant",
+        "The dispute was transferred to a federal appeals court"
+      ],
+      "correct": 0,
+      "explanation": "The rejection left in place a lower court ruling that the administration likely violated the First Amendment by canceling grants based on researchers’ viewpoints.",
+      "source_day": 2127,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/16/day-2127/",
+      "difficulty": "easy",
+      "type": "consequence"
+    },
+    {
+      "number": 5,
+      "question": "What happened to the House-passed resolution directing Trump to end the Iran war or seek congressional approval?",
+      "options": [
+        "It failed in the Senate by a 51-48 vote",
+        "It was vetoed after passing both chambers",
+        "It was withdrawn before the Senate voted",
+        "It passed the Senate by a single vote"
+      ],
+      "correct": 0,
+      "explanation": "Senate Republicans blocked the resolution, which failed 51-48 after having passed the House in September.",
+      "source_day": 2130,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/19/day-2130/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 6,
+      "question": "Which group of countries was covered by new licensing requirements for shipments of advanced U.S. chips to data centers?",
+      "options": [
+        "Japan, South Korea, India, Australia, and Mexico",
+        "Vietnam, the Philippines, Cambodia, Laos, and Argentina",
+        "Singapore, Malaysia, Thailand, Indonesia, and Brazil",
+        "China, Russia, Iran, North Korea, and Cuba"
+      ],
+      "correct": 2,
+      "explanation": "The Commerce Department’s rule requires licenses to ship advanced chips to data centers in Singapore, Malaysia, Thailand, Indonesia, and Brazil.",
+      "source_day": 2127,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/16/day-2127/",
+      "difficulty": "hard",
+      "type": "details"
+    },
+    {
+      "number": 7,
+      "question": "What weapons were mentioned in intelligence about a possible Iranian plan targeting senior Trump administration officials in Washington?",
+      "options": [
+        "Biological agents or cyberweapons",
+        "Long-range ballistic missiles",
+        "A dirty bomb or chemical weapon",
+        "Armed drones or cruise missiles"
+      ],
+      "correct": 2,
+      "explanation": "The intelligence pointed to a possible plan involving a dirty bomb or chemical weapon and reportedly included specific targets and locations.",
+      "source_day": 2128,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/17/day-2128/",
+      "difficulty": "easy",
+      "type": "what happened"
+    },
+    {
+      "number": 8,
+      "question": "What was the Senate balance after Mary Peltola flipped Alaska’s seat?",
+      "options": [
+        "The Senate was split 50-50",
+        "Democrats held a 56-44 majority",
+        "Democrats held a 51-49 majority",
+        "Democrats held a 54-46 majority"
+      ],
+      "correct": 1,
+      "explanation": "Peltola’s victory gave Democrats a 56-44 majority after the party flipped nine Republican Senate seats in the midterms.",
+      "source_day": 2129,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/18/day-2129/",
+      "difficulty": "medium",
+      "type": "numbers"
+    },
+    {
+      "number": 9,
+      "question": "What was absent from the “peace declaration” issued after the Trump-Xi-Putin summit?",
+      "options": [
+        "A warning to the International Criminal Court",
+        "Agreements to reduce nuclear arsenals or end the wars in Ukraine and Iran",
+        "A pledge to discuss reducing nuclear risks",
+        "A statement that nuclear war must never be fought"
+      ],
+      "correct": 1,
+      "explanation": "The declaration called for dialogue on nuclear risks but produced no agreements on reducing arsenals or ending the wars in Ukraine and Iran. It did not even mention either war.",
+      "source_day": 2130,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/19/day-2130/",
+      "difficulty": "medium",
+      "type": "comparison"
+    },
+    {
+      "number": 10,
+      "question": "How quickly did Government Accountability Office investigators generate viable terrorist attack plans after bypassing safeguards on four major AI platforms?",
+      "options": [
+        "Within one week",
+        "Within one month",
+        "Within three days",
+        "Within 12 hours"
+      ],
+      "correct": 3,
+      "explanation": "Investigators bypassed safeguards on ChatGPT, Claude, Gemini, and Grok and produced feasible attack-planning information within 12 hours.",
+      "source_day": 2129,
+      "source_url": "https://whatthefuckjusthappenedtoday.com/2026/11/18/day-2129/",
+      "difficulty": "hard",
+      "type": "numbers"
+    }
+  ]
+}

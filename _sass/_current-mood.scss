@@ -1,0 +1,265 @@
+#current-mood-calendar {
+  --touch-gap: 8px;
+  display: grid;
+  gap: 1.25rem;
+  min-inline-size: 0;
+}
+#current-mood-calendar [hidden] { display: none !important; }
+#current-mood-calendar :is(h2, h3, p) { margin: 0; }
+#current-mood-calendar h2 { font-size: 1.65rem; line-height: 1.25; }
+#current-mood-calendar h3 { font-size: 1.2rem; line-height: 1.3; font-weight: 600; }
+#current-mood-calendar .cm-caption { font-size: .9rem; color: var(--c-meta); line-height: 1.5; }
+#current-mood-calendar .cm-sr-only {
+  position: absolute;
+  inline-size: 1px;
+  block-size: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+#current-mood-calendar :is(.cm-controls, .cm-tabs, .cm-actions, .cm-legend) { gap: var(--touch-gap); }
+#current-mood-calendar :is(.cm-tabs, .cm-actions, .cm-legend) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+#current-mood-calendar .cm-tabs { margin: 0; }
+#current-mood-calendar .cm-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+}
+#current-mood-calendar .cm-field {
+  flex: 1 1 11rem;
+  min-inline-size: 0;
+  margin: 0;
+}
+#current-mood-calendar .jaq-select { border-color: var(--c-meta); color: var(--c-ink); }
+#current-mood-calendar .jaq-select:focus { box-shadow: none; }
+#current-mood-calendar :is(button, select, a):focus-visible {
+  outline: 2px solid var(--c-focus);
+  outline-offset: 2px;
+}
+#current-mood-calendar .cm-outlier,
+#current-mood-calendar .cm-detail,
+#current-mood-calendar .cm-rank-heading,
+#current-mood-calendar .cm-year-row {
+  border-block-start: 1px solid var(--c-line);
+  padding-block-start: .75rem;
+}
+#current-mood-calendar .cm-outlier,
+#current-mood-calendar .cm-outlier > div:first-child,
+#current-mood-calendar .cm-panel,
+#current-mood-calendar .cm-months,
+#current-mood-calendar .cm-detail,
+#current-mood-calendar .cm-year-row {
+  display: grid;
+  gap: .5rem;
+}
+#current-mood-calendar .cm-panel,
+#current-mood-calendar .cm-months { gap: 1rem; }
+#current-mood-calendar .cm-outlier .jaq-check {
+  min-block-size: 44px;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  color: var(--c-ink);
+}
+#current-mood-calendar :is(.cm-outlier, .cm-detail) a {
+  margin-inline-start: 0;
+  justify-self: start;
+}
+#current-mood-calendar .cm-actions { column-gap: 1.1rem; }
+#current-mood-calendar .cm-actions a,
+#current-mood-calendar .cm-detail a { display: inline-block; align-content: center; min-block-size: 44px; }
+#current-mood-calendar .cm-detail-mood { overflow-wrap: anywhere; }
+#current-mood-calendar .cm-rank-heading {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: .5rem 1rem;
+  justify-content: space-between;
+}
+#current-mood-calendar :is(.cm-ranks, .cm-evidence-list) {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#current-mood-calendar :is(.cm-ranks, .cm-evidence-list) > li { margin: 0; list-style: none; }
+#current-mood-calendar .cm-rank {
+  display: grid;
+  grid-template-columns: 1.75rem auto minmax(0, 1fr) auto;
+  gap: .5rem .75rem;
+  align-items: center;
+  border-block-end: 1px solid var(--c-line);
+  padding-block: 4px;
+}
+#current-mood-calendar :is(.cm-tabular, .cm-day-number, .cm-rank-label.is-date) {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-size: .85rem;
+  font-variant-numeric: tabular-nums;
+}
+#current-mood-calendar .cm-rank-label,
+#current-mood-calendar .cm-year-stat button,
+#current-mood-calendar .cm-evidence-list button {
+  border-radius: 0;
+  border: 0;
+  background: transparent;
+  color: var(--c-link);
+  text-decoration: underline;
+  text-decoration-color: var(--c-link-underline);
+  text-underline-offset: .18em;
+  min-block-size: 44px;
+  min-inline-size: 44px;
+  font-family: inherit;
+  font-size: 1.2rem;
+  padding: 0;
+}
+#current-mood-calendar .cm-rank-label:is(:hover,:focus-visible),
+#current-mood-calendar .cm-year-stat button:is(:hover,:focus-visible),
+#current-mood-calendar .cm-evidence-list button:is(:hover,:focus-visible) {
+  text-decoration-color: currentColor;
+  color: var(--c-link-hover);
+}
+#current-mood-calendar .cm-rank-track { display: none; }
+#current-mood-calendar .cm-rank-value { grid-column: 4; text-align: end; }
+#current-mood-calendar .cm-ranking-editions { grid-column: 1 / -1; }
+#current-mood-calendar .cm-evidence-list li { display: flex; align-items: center; gap: .75rem; }
+#current-mood-calendar .cm-month { container-type: inline-size; }
+#current-mood-calendar .cm-month > h2 { margin-block-end: .5rem; font-size: 1.2rem; line-height: 1.3; font-weight: 600; }
+#current-mood-calendar :is(.cm-weekdays, .cm-days) {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(44px, 1fr));
+  gap: var(--touch-gap);
+}
+#current-mood-calendar .cm-weekdays { margin-block-end: .5rem; text-align: center; font-size: .8rem; color: var(--c-meta); }
+#current-mood-calendar .cm-cell {
+  display: grid;
+  position: relative;
+  aspect-ratio: 1;
+  min-block-size: 44px;
+}
+#current-mood-calendar button.cm-tile {
+  position: relative;
+  display: grid;
+  place-items: center;
+  box-sizing: border-box;
+  font-size: 1.2rem;
+  border-radius: 0;
+  border: 1px solid var(--c-meta);
+  background: var(--c-bg);
+  color: var(--c-ink);
+  min-block-size: 44px;
+  min-inline-size: 44px;
+  padding: 0;
+  cursor: pointer;
+}
+#current-mood-calendar button.cm-tile:hover { background: var(--c-surface); }
+#current-mood-calendar button.cm-tile[aria-pressed="true"] {
+  outline: 2px solid var(--c-link);
+  outline-offset: -2px;
+}
+#current-mood-calendar button.cm-tile:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+#current-mood-calendar .cm-count {
+  position: absolute;
+  inset-inline-end: .25em;
+  inset-block-end: 0;
+  pointer-events: none;
+  color: var(--c-ink-strong);
+}
+#current-mood-calendar .cm-day-number {
+  position: absolute;
+  inset-inline-start: .25em;
+  inset-block-start: 0;
+  color: var(--c-meta-surface, var(--c-meta));
+}
+#current-mood-calendar .cm-legend i {
+  font-style: normal;
+  min-inline-size: 12px;
+  display: inline-block;
+  text-align: center;
+}
+#current-mood-calendar .cm-legend i:is([data-coverage="mood"], [data-coverage="empty"], [data-coverage="filtered"]) {
+  inline-size: 12px;
+  block-size: 12px;
+}
+#current-mood-calendar .cm-legend i[data-coverage="mood"] { border: 1px solid var(--c-meta); }
+#current-mood-calendar .cm-legend i[data-coverage="empty"] { background: var(--c-surface); border: 1px solid var(--c-line); }
+#current-mood-calendar .cm-legend i[data-coverage="filtered"] { border: 1px dotted var(--c-meta); }
+#current-mood-calendar .cm-legend .cm-count-key { font-family: Menlo, Monaco, "Courier New", monospace; }
+#current-mood-calendar .cm-legend span { display: inline-flex; align-items: center; gap: .4rem; margin-inline-end: .5rem; }
+#current-mood-calendar .cm-cell[data-coverage="empty"] { background: var(--c-surface); }
+#current-mood-calendar .cm-cell[data-coverage="filtered"] { outline: 1px dotted var(--c-meta); }
+#current-mood-calendar .cm-year-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 11rem), 1fr));
+  gap: 1rem;
+}
+#current-mood-calendar .cm-year-stat { display: grid; justify-items: start; }
+@container (width < 356px) {
+  #current-mood-calendar .cm-weekdays { display: none; }
+  #current-mood-calendar .cm-days { grid-template-columns: minmax(44px, 1fr); }
+  #current-mood-calendar .cm-cell { aspect-ratio: auto; }
+  #current-mood-calendar .cm-cell:not(:has(button)),
+  #current-mood-calendar .cm-days > span { display: none; }
+  #current-mood-calendar button.cm-tile { place-items: center start; padding-inline-start: 3rem; }
+  #current-mood-calendar .cm-day-number,
+  #current-mood-calendar .cm-count { inset-block: 0; align-content: center; }
+  #current-mood-calendar .cm-day-number { inset-inline-start: .75rem; }
+  #current-mood-calendar .cm-count { inset-inline-end: .75rem; }
+}
+
+#current-mood-calendar .search-load-more,
+#current-mood-calendar .cm-text-action,
+#current-mood-calendar .cm-ranking-editions > div > .cm-button {
+  display: inline-block;
+  width: auto;
+  min-block-size: 44px;
+  min-inline-size: 44px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--c-link);
+  font: inherit;
+  text-align: start;
+  text-decoration: underline;
+  text-decoration-color: var(--c-link-underline);
+  text-underline-offset: .18em;
+  cursor: pointer;
+}
+#current-mood-calendar .search-load-more:is(:hover, :active, :focus-visible),
+#current-mood-calendar .cm-text-action:is(:hover, :active, :focus-visible),
+#current-mood-calendar .cm-ranking-editions > div > .cm-button:is(:hover, :active, :focus-visible) {
+  background: transparent;
+  color: var(--c-link-hover);
+  text-decoration-color: currentColor;
+}
+#current-mood-calendar :is(.cm-rank-label, .cm-year-stat button, .cm-evidence-list button) {
+  cursor: pointer;
+}
+#current-mood-calendar .cm-evidence-list li { flex-wrap: wrap; }
+#current-mood-calendar .cm-outlier { background: transparent; border-inline: 0; }
+
+#current-mood-calendar [data-month-full-signoff] {
+  flex-basis: 100%;
+}
+#current-mood-calendar [data-month-full-signoff] summary {
+  min-block-size: 44px;
+  align-content: center;
+  color: var(--c-link);
+  cursor: pointer;
+}
+#current-mood-calendar [data-month-full-signoff] summary:focus-visible {
+  outline: 2px solid var(--c-focus);
+  outline-offset: 2px;
+}
+#current-mood-calendar [data-month-exact-mood] {
+  white-space: pre-wrap;
+}
+
+@import "current-mood-all-time";

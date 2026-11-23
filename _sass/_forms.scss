@@ -359,10 +359,15 @@
 .survey-link-btn {
   display: inline-block; background: none; border: 0; padding: 0.5em 0; margin-top: 1.25em;
   min-height: 44px; color: $link-color; text-decoration: underline; cursor: pointer; font-size: 0.9rem; // role-scale stop
+  font-family: $root-font-family;
 
   &:hover { color: var(--c-link-hover); }
   &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
+  &:disabled { opacity: 0.5; cursor: not-allowed; }
 }
+
+#unsubscribed-survey .jaq-select:focus,
+#unsubscribed-survey .jaq-textarea:focus { outline: 2px solid var(--c-focus); outline-offset: 2px; box-shadow: none; }
 
 .survey-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 .survey-sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

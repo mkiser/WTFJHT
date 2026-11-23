@@ -1,32 +1,29 @@
 ---
 layout: default
-title: 'A Black Friday “sale,” but pay-it-forward.'
+title: 'A Black Friday “sale,” but pay it forward instead.'
 permalink: /pay-it-forward/
 sitemap: false
 noindex: true
 anchors: false
 ---
-{%- comment -%}
-  DRAFT copy throughout. Edit the prose below as Markdown (the headline is the title above; the
-  first paragraph is the one HTML line, so it keeps its lead style). The chooser's own words and amounts
-  are in _data/pay_it_forward.yml. layout: default (not page) on purpose: the page layout would
-  make the checkout link open in a new tab.
-{%- endcomment -%}
+
 <article class="page">
-<h1 class="page-title">{{ page.title }}</h1>
+  <h1 class="page-title">{{ page.title }}</h1>
 
-<p class="lead">Ah yes, it’s that time of year when your inbox is full of discount codes to buy more stuff you don’t need. Regretfully, I don’t have a discount code for you.</p>
 
-So here’s my Black Friday “sale,” such as it is: a one-time tip to help keep this newsletter free for other readers. No new subscription. Just a chance to pay it forward for the people who can’t right now.
+  <p class="lead">Ah yes, it’s that time of year when your inbox is full of discount codes to buy more stuff you don’t need. Regretfully, I don’t have a discount code for you since WTFJHT is already free, so there’s not much I can do for you there. (<a href="https://cottonbureau.com/people/wtf-just-happened-today">I do have t-shirts and hoodies</a> if you want one of those.)</p>
 
-{% include pay-it-forward.html %}
+  <p>But I do have a community to support. So here’s my Black Friday “sale,” such as it is: <strong>Pay it forward with a one-time $5.93 tip</strong>. </p>
 
-**How the math maths**: About 2% of readers underwrite WTFJHT, which unlocks free access for everyone else. While delivering the newsletter is cheap, it’s not free. It costs about $2.09 per subscriber per year to produce, publish, and send WTFJHT. At that rate, a one-time $5.89 is the equivalent of the cost of delivering WTFJHT to about 34 other readers for a month. [Here’s what it costs to run this thing]({{ site.baseurl }}/faq/#wtf-does-it-cost-to-run-this-thing).
+  {% include pay-it-forward.html %}
 
-Because that’s how WTFJHT works: a small group of readers choosing to be stakeholders so this independent, reader-funded briefing can stay free and accessible to everyone who needs it.
+  <p><strong>How the math maths</strong>: While delivering the newsletter is cheap, it's not free. It costs about $2.09 a year to deliver WTFJHT to one person. That means your one-time $5.93 tip covers the cost of publishing WTFJHT for 34 readers for one month. And if you're wondering, here's <a href="{{ site.baseurl }}/faq/#wtf-does-it-cost-to-run-this-thing">what it costs to run this thing</a>.</p>
 
-If you’re in a good financial spot this season and this newsletter helps you make the news make sense, consider paying it forward. If you’re not, all good — keep reading.
+  <p>That’s it. That's my Black Friday “sale.” No new recurring subscription. Nothing to cancel later. No surprises. Just a chance to pay it forward to help keep the news accessible for everyone.</p>
 
-Checkout is on Memberful, with your amount filled in. Rather support it every month? [Become a member]({{ site.baseurl }}/membership/).
+  <p>WTFJHT is my full-time job, made possible entirely by readers who choose to underwrite it so everyone else can read for free – and I plan to keep doing it for as long as you keep supporting me. This model keeps WTFJHT free while funding a fair living wage and the tools and systems that make publishing possible. That’s what makes membership an investment, rather than a charity or subscription. Because membership isn't about buying access for yourself, it's about unlocking access for others.</p>
 
+  <p>So if you’re in a good financial spot this holiday season and WTFJHT helps you make the news make sense, consider paying it forward. (If you’re not, that's okay! <strong>Share WTF Just Happened Today? with friends, family, and colleagues</strong>. It's a free gesture that has a big impact.)</p>
+  <p>I’m glad you’re here.<br>
+  –<a href="{{ site.url }}{{ site.baseurl }}/author/matt-kiser/">MATT</a></p>
 </article>

@@ -1,10 +1,9 @@
 # Pay it forward (Black Friday "not a sale"). Edit amounts and chooser copy here.
-# Page prose lives in pay-it-forward/index.md.
 checkout_origin: "https://membership.whatthefuckjusthappenedtoday.com"
 plan_id: "150245"                # the one-time pay-it-forward plan in Memberful
-floor_cents: 589                  # $5.89: the smallest amount and the default
+floor_cents: 593                  # $5.93: the smallest amount and the default
 cost_per_reader_year_cents: 209   # membership page: about $2.09 per subscriber per year
-chips_cents: [589, 1000, 2500, 5000, 10000, 20000]
+chips_cents: [593, 1000, 2500, 5000, 10000, 20000]
 
 # DRAFT copy. The sentence reads: {before} $AMOUNT {middle} N {people_word} {after}
 copy:

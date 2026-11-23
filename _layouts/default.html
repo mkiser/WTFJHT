@@ -80,6 +80,9 @@
     {% elsif page.type == 'month' %}
       {% seo title=false %}
       <title>{{ page.date | date: "%B %Y" }} Archive | {{ site.title}}</title>
+    {% elsif page.title_data %}
+      {% seo title=false %}
+      <title>{{ site.data[page.title_data].copy.title | escape }} | {{ site.title }}</title>
     {% else %}
       {% seo %}
     {% endif %}

@@ -249,7 +249,7 @@
 .survey-q { border: 0; padding: 0; margin: 0 0 2.5em; }  // generous breathing room between questions
 .survey-q-label { display: block; font-weight: 600; color: $gray-5; padding: 0; margin-bottom: 0.9em; font-size: 1.2rem; line-height: 1.4; }  // the hero — heading stop
 .survey-q-hint { color: $gray-3; font-size: 0.9rem; line-height: 1.5; margin: -0.5em 0 1em; }  // optional helper line under the question
-.survey-req { color: var(--c-danger); font-weight: 400; }
+.survey-req { color: var(--c-danger); font-weight: 400; white-space: nowrap; }  // the " *" span holds its own space: nowrap keeps the asterisk on the label's last line
 
 .survey-options { display: flex; flex-direction: column; gap: 0.55em; }
 .survey-option {

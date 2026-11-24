@@ -1,0 +1,33 @@
+---
+layout: page
+title: Current Mood Calendar
+permalink: /current-mood/
+anchors: false
+---
+
+<section id="current-mood-calendar" aria-label="Current Mood Calendar" data-baseurl="{{ site.baseurl | escape }}">
+  <noscript><p class="message"><a href="{{ '/archive/' | relative_url }}">Browse the archive</a></p></noscript>
+  <div class="calendar-wrapper">
+    <div class="calendar-container">
+      <div class="calendar-header" aria-hidden="true">
+        <span class="calendar-month-col"></span>
+        <span>S</span>
+        <span>M</span>
+        <span>T</span>
+        <span>W</span>
+        <span>T</span>
+        <span>F</span>
+        <span>S</span>
+      </div>
+      <div class="calendar-grid"></div>
+    </div>
+  </div>
+  <div class="calendar-tooltip" aria-hidden="true" hidden></div>
+  <script type="application/json" data-editions>{{ site.data['current-mood'] | jsonify | replace: '<', '\u003c' }}</script>
+  <script type="application/json" data-posts>
+    [{% for post in site.posts %}
+      [{{ post.date | date: "%Y-%m-%d" | jsonify }},{{ post.url | jsonify | replace: '<', '\u003c' }},{{ post.title | jsonify | replace: '<', '\u003c' }},{{ post.currentMood | jsonify | replace: '<', '\u003c' }}]{% unless forloop.last %},{% endunless %}
+    {% endfor %}]
+  </script>
+</section>
+<script defer src="{{ site.url }}{{ site.baseurl }}{{ '/public/js/current-mood-all-time.js' | asset_v }}"></script>

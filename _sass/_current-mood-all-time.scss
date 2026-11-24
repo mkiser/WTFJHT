@@ -110,3 +110,14 @@
     }
   }
 }
+
+// Night: the shared Big Grid blank (#eceef0) is a light-theme value, and on this page blanks
+// are every weekend and every day without an emoji. Use the night surface so blanks recede
+// instead of glaring. Scoped to this page; the minimap samples these fills, so it follows.
+[data-theme="night"] #current-mood-calendar {
+  .calendar-day:not(.outside-range):not(.mood-present):not(.mood-editions),
+  .legend-box.legend-empty {
+    background-color: var(--c-surface);
+    border-color: var(--c-line);
+  }
+}

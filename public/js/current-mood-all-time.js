@@ -236,9 +236,14 @@
     ctx.scale(dpr, dpr);
 
     const rowHeight = mapHeight / weeks.length;
-    const tokens = getComputedStyle(calendar);
-    const moodInk = tokens.getPropertyValue('--c-meta').trim();
-    const emptyInk = tokens.getPropertyValue('--c-line').trim();
+    // Paint with the grid's own cell fills, as the Big Grid minimap does, so the map mirrors
+    // the grid in every theme: mood days in the mood-cell fill, every other day in the plain fill.
+    const fill = selector => {
+      const cell = grid.querySelector(selector);
+      return cell ? getComputedStyle(cell).backgroundColor : '';
+    };
+    const moodInk = fill('a.mood-present');
+    const emptyInk = fill('.calendar-day:not(.mood-present):not(.outside-range):not(.mood-editions)');
     const labels = document.createDocumentFragment();
     let lastYear;
     weeks.forEach(({date, marks}, index) => {

@@ -7,7 +7,6 @@
   const utc = date => Date.parse(date + 'T00:00:00Z');
   const keyFor = time => new Date(time).toISOString().slice(0, 10);
   const month = new Intl.DateTimeFormat('en-US', {month: 'short', year: 'numeric', timeZone: 'UTC'});
-  const shortDate = new Intl.DateTimeFormat('en-US', {month: 'short', day: 'numeric', timeZone: 'UTC'});
   const fullDate = new Intl.DateTimeFormat('en-US', {dateStyle: 'full', timeZone: 'UTC'});
   // Case-insensitive: 38 early-2017 posts live at /Day-NNN/ while the mood data says /day-NNN/.
   const permalink = url => url.replace(/\/$/, '').toLowerCase();
@@ -78,11 +77,9 @@
   for (let weekStart = sunday; weekStart <= stop; weekStart += 7 * day) {
     const week = el('div', 'calendar-week');
     const firstDate = Math.max(start, weekStart);
-    const dates = el('span', 'calendar-month-col mood-week-dates');
-    const weekDate = el('time', 'mood-week-start', shortDate.format(firstDate));
-    weekDate.dateTime = keyFor(firstDate);
-    dates.append(weekDate);
-    week.append(dates);
+    // Big Grid gutter: a month label only on the week where a month starts (and the first week).
+    const label = el('span', 'calendar-month-col');
+    week.append(label);
     for (let column = 0; column < 7; column++) {
       const time = weekStart + column * day;
       const key = keyFor(time);
@@ -92,7 +89,7 @@
         continue;
       }
       if (time === start || key.endsWith('-01')) {
-        if (dates.firstChild === weekDate) dates.prepend(el('span', 'mood-month-label', month.format(time)));
+        if (!label.textContent) label.textContent = month.format(time);
       }
       const formattedDate = fullDate.format(time);
       if (!entries) {
@@ -111,8 +108,9 @@
     }
     weeks.push({
       date: firstDate,
+      // null = outside the range, '' = no mood, otherwise the day's first glyph.
       marks: Array.from(week.children).slice(1).map(tile => tile.matches('.outside-range') ? null :
-        tile.matches('.mood-present') || Boolean(tile.querySelector('.mood-present')))
+        (tile.querySelector('.mood-glyph')?.textContent || ''))
     });
     fragment.append(week);
   }
@@ -221,6 +219,29 @@
     canvas.setAttribute('aria-valuetext', 'Week of ' + fullDate.format(weeks[currentWeek].date));
   }
 
+  // The average color of an emoji as drawn by this browser, cached per glyph.
+  const inks = new Map();
+  function glyphInk(glyph, fallback) {
+    if (!inks.has(glyph)) {
+      const size = 24;
+      const probe = document.createElement('canvas');
+      probe.width = probe.height = size;
+      const pen = probe.getContext('2d', {willReadFrequently: true});
+      pen.textAlign = 'center';
+      pen.textBaseline = 'middle';
+      pen.font = '20px sans-serif';
+      pen.fillText(glyph, size / 2, size / 2);
+      const px = pen.getImageData(0, 0, size, size).data;
+      let r = 0, g = 0, b = 0, n = 0;
+      for (let i = 0; i < px.length; i += 4) {
+        if (px[i + 3] < 128) continue;
+        r += px[i]; g += px[i + 1]; b += px[i + 2]; n++;
+      }
+      inks.set(glyph, n ? `rgb(${Math.round(r / n)}, ${Math.round(g / n)}, ${Math.round(b / n)})` : null);
+    }
+    return inks.get(glyph) || fallback;
+  }
+
   function drawMinimap() {
     if (!ctx || !canvas.getClientRects().length) {
       mapHeight = 0;
@@ -236,21 +257,18 @@
     ctx.scale(dpr, dpr);
 
     const rowHeight = mapHeight / weeks.length;
-    // Paint with the grid's own cell fills, as the Big Grid minimap does, so the map mirrors
-    // the grid in every theme: mood days in the mood-cell fill, every other day in the plain fill.
-    const fill = selector => {
-      const cell = grid.querySelector(selector);
-      return cell ? getComputedStyle(cell).backgroundColor : '';
-    };
-    const moodInk = fill('a.mood-present');
-    const emptyInk = fill('.calendar-day:not(.mood-present):not(.outside-range):not(.mood-editions)');
+    // Like the Big Grid minimap, paint what the grid shows: a mood day in its emoji's color,
+    // every other day in the grid's own blank fill (theme-aware).
+    const blank = grid.querySelector('.calendar-day:not(.mood-present):not(.outside-range):not(.mood-editions)');
+    const emptyInk = blank ? getComputedStyle(blank).backgroundColor : '';
+    const fallbackInk = getComputedStyle(calendar).getPropertyValue('--c-meta').trim();
     const labels = document.createDocumentFragment();
     let lastYear;
     weeks.forEach(({date, marks}, index) => {
       const y = index * rowHeight;
-      marks.forEach((hasMood, dayIndex) => {
-        if (hasMood === null) return;
-        ctx.fillStyle = hasMood ? moodInk : emptyInk;
+      marks.forEach((glyph, dayIndex) => {
+        if (glyph === null) return;
+        ctx.fillStyle = glyph ? glyphInk(glyph, fallbackInk) : emptyInk;
         ctx.fillRect(6 + dayIndex * 5.5, y, 5, rowHeight * .75);
       });
       const year = new Date(date).getUTCFullYear();

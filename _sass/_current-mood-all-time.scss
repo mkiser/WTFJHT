@@ -2,23 +2,6 @@
   // The legend and grid already supply their own spacing.
   gap: 0;
 
-  .mood-week-dates {
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-    padding-right: 0;
-    line-height: 1.25;
-  }
-
-  .mood-month-label {
-    color: var(--c-ink-strong);
-    font-weight: 600;
-  }
-
-  .mood-week-start {
-    font-variant-numeric: tabular-nums;
-  }
-
   #minimap-canvas {
     display: block;
 

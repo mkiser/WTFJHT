@@ -235,7 +235,7 @@
 // on the rem type scale, system font. No raw hex, no hand-rolled night palette.
 .survey { margin: 0 auto; padding: 1rem 1rem 4rem; }  // prose column + airy gutter
 .survey-header { margin-bottom: 2.5em; overflow-wrap: break-word; }  // long title words wrap at 200% text instead of overflowing 375px
-.survey-intro { color: $gray-3; font-size: 1rem; line-height: 1.6; margin-top: 0.5em; }
+.survey-intro { color: $gray-3; font-size: 1rem; line-height: 1.6; margin-top: 0.5em; white-space: pre-line; }  // blank lines in a form's intro and thanks text render as paragraph breaks
 
 .survey-progress { margin-bottom: 2.75em; }
 .survey-progress-bar { height: 3px; background: $border-color; }
@@ -349,7 +349,7 @@
   &:hover { color: var(--c-link); text-decoration-color: var(--c-link); }
   &:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
 }
-.survey-thanks-body { color: $gray-4; font-size: 1.1rem; line-height: 1.6; }
+.survey-thanks-body { color: $gray-4; font-size: 1.1rem; line-height: 1.6; white-space: pre-line; }
 // End screens (thanks, already submitted, closed): drop the pre-survey intro and give the
 // heading heading weight instead of the grey section-label style it shares with the questions.
 .survey:has(.survey-thanks-body) .survey-intro { display: none; }

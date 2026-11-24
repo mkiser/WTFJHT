@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
       // itself once the worker confirms the address, so counting here too
       // would count the addresses the worker rejects. Anything that still
       // posts natively to Mailchimp is counted here, on intent.
-      if (event.defaultPrevented) return;
+      if (event.defaultPrevented || typeof gtag !== 'function') return;
       gtag('event', 'sign_up_attempt', {
         // Split into the STANDARD method param on purpose: a custom param
         // would need a dimension registered in the GA4 admin to be reportable.

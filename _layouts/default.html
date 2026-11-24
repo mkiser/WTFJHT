@@ -54,9 +54,11 @@
     <style class="anchorjs">.anchorjs-link{opacity:0;text-decoration:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}*:hover>.anchorjs-link,.anchorjs-link:focus{opacity:1}[data-anchorjs-icon]::after{content:attr(data-anchorjs-icon)}</style>
     <meta name="apple-mobile-web-app-title" content="WTFJHT" />
 
+    {% unless page.third_party_scripts == false -%}
     <!-- Preconnect to external origins for faster resource loading -->
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    {%- endunless %}
 
 
     <!-- Preload critical above-the-fold image -->
@@ -98,6 +100,7 @@
     {% endif %}
     <meta property="fb:pages" content="1415262761838827" />
     <meta name="google-site-verification" content="ny31Ianz2HLvyY_ynQAoMvX8_F8asoIbuBo3PnnDbRo" />
+    {% unless page.third_party_scripts == false -%}
     {% if site.turnstile_site_key and site.turnstile_site_key != "" and site.subscribe_api and site.subscribe_api != "" %}
     <script src="{{ site.url }}{{ site.baseurl }}{{ '/public/js/subscribe.js' | asset_v }}" defer></script>
     {% endif %}
@@ -114,6 +117,7 @@
         gtag('config', 'G-P3G02CXQXW', { page_location: landing.href });
       })();
     </script>
+    {%- endunless %}
 
   </head>
   <body{% if page.layout == 'post' and page.next %} data-nav-next="{{ page.next.url | relative_url | escape }}"{% endif %}{% if page.layout == 'post' and page.previous %} data-nav-prev="{{ page.previous.url | relative_url | escape }}"{% endif %}{% if page.url == '/' or page.url == '/index.html' %} data-nav-home{% endif %}>

@@ -1,12 +1,23 @@
 ---
 layout: page
+show_title: false
 title: Current Mood Calendar
 permalink: /current-mood/
 anchors: false
 ---
 
+<div class="board-header">
+  <h1>{{ page.title }}</h1>
+  <!-- Placeholder subhead for Matt to edit. -->
+  <p class="lead">[Draft subhead] The Current Mood emojis from sent WTFJHT editions, day by day.</p>
+</div>
+
 <section id="current-mood-calendar" aria-label="Current Mood Calendar" data-baseurl="{{ site.baseurl | escape }}">
   <noscript><p class="message"><a href="{{ '/archive/' | relative_url }}">Browse the archive</a></p></noscript>
+  <div class="calendar-legend">
+    <span class="legend-item"><span aria-hidden="true">&#128528;</span> Current Mood</span>
+    <span class="legend-item"><span class="legend-box legend-empty" aria-hidden="true"></span> No emoji</span>
+  </div>
   <div class="calendar-wrapper">
     <div class="calendar-container">
       <div class="calendar-header" aria-hidden="true">
@@ -20,6 +31,14 @@ anchors: false
         <span>S</span>
       </div>
       <div class="calendar-grid"></div>
+    </div>
+    <div class="calendar-minimap">
+      <div class="minimap-years" aria-hidden="true"></div>
+      <div class="minimap-canvas-wrap">
+        <canvas id="minimap-canvas" role="slider" tabindex="0" aria-label="Jump to a week"
+          aria-orientation="vertical" aria-valuemin="1" aria-valuemax="1" aria-valuenow="1"></canvas>
+        <div class="minimap-viewport" aria-hidden="true"></div>
+      </div>
     </div>
   </div>
   <div class="calendar-tooltip" aria-hidden="true" hidden></div>

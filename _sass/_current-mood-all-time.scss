@@ -1,4 +1,33 @@
 #current-mood-calendar {
+  // The legend and grid already supply their own spacing.
+  gap: 0;
+
+  .mood-week-dates {
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    padding-right: 0;
+    line-height: 1.25;
+  }
+
+  .mood-month-label {
+    color: var(--c-ink-strong);
+    font-weight: 600;
+  }
+
+  .mood-week-start {
+    font-variant-numeric: tabular-nums;
+  }
+
+  #minimap-canvas {
+    display: block;
+
+    &:focus-visible {
+      outline: 2px solid var(--c-focus);
+      outline-offset: 2px;
+    }
+  }
+
   .calendar-day {
     min-inline-size: 0;
   }
@@ -35,6 +64,10 @@
     }
   }
 
+  a.mood-present {
+    background-color: var(--c-bg);
+  }
+
   .mood-glyph {
     font-size: 1.1rem;
   }
@@ -44,7 +77,7 @@
     position: absolute;
     inset-inline-end: .15em;
     inset-block-end: .15em;
-    color: var(--c-bg);
+    color: var(--c-meta);
     font-size: .75rem;
     font-variant-numeric: tabular-nums;
   }

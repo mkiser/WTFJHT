@@ -7,6 +7,7 @@
   const utc = date => Date.parse(date + 'T00:00:00Z');
   const keyFor = time => new Date(time).toISOString().slice(0, 10);
   const month = new Intl.DateTimeFormat('en-US', {month: 'short', year: 'numeric', timeZone: 'UTC'});
+  const shortDate = new Intl.DateTimeFormat('en-US', {month: 'short', day: 'numeric', timeZone: 'UTC'});
   const fullDate = new Intl.DateTimeFormat('en-US', {dateStyle: 'full', timeZone: 'UTC'});
   // Case-insensitive: 38 early-2017 posts live at /Day-NNN/ while the mood data says /day-NNN/.
   const permalink = url => url.replace(/\/$/, '').toLowerCase();
@@ -49,6 +50,7 @@
   const details = new WeakMap();
   const baseurl = calendar.dataset.baseurl;
   const fragment = document.createDocumentFragment();
+  const weeks = [];
   const sunday = start - new Date(start).getUTCDay() * day;
 
   function linkFor(post, key, formattedDate, onlyPost) {
@@ -62,7 +64,7 @@
     if (mood) {
       const glyph = el('span', 'mood-glyph', mood.glyph);
       glyph.setAttribute('aria-hidden', 'true');
-      link.classList.add('has-post');
+      link.classList.add('mood-present');
       link.append(glyph);
       if (mood.count > 1) link.dataset.count = mood.count;
       label.push(mood.glyph.repeat(mood.count) === mood.sequence && mood.count > 1
@@ -75,8 +77,12 @@
 
   for (let weekStart = sunday; weekStart <= stop; weekStart += 7 * day) {
     const week = el('div', 'calendar-week');
-    const label = el('span', 'calendar-month-col');
-    week.append(label);
+    const firstDate = Math.max(start, weekStart);
+    const dates = el('span', 'calendar-month-col mood-week-dates');
+    const weekDate = el('time', 'mood-week-start', shortDate.format(firstDate));
+    weekDate.dateTime = keyFor(firstDate);
+    dates.append(weekDate);
+    week.append(dates);
     for (let column = 0; column < 7; column++) {
       const time = weekStart + column * day;
       const key = keyFor(time);
@@ -85,14 +91,16 @@
         week.append(el('span', 'calendar-day outside-range'));
         continue;
       }
-      if (!label.textContent && (time === start || key.endsWith('-01'))) {
-        label.textContent = month.format(time);
-      }
-      if (!entries) {
-        week.append(el('span', 'calendar-day'));
-        continue;
+      if (time === start || key.endsWith('-01')) {
+        if (dates.firstChild === weekDate) dates.prepend(el('span', 'mood-month-label', month.format(time)));
       }
       const formattedDate = fullDate.format(time);
+      if (!entries) {
+        const empty = el('span', 'calendar-day');
+        details.set(empty, {formattedDate});
+        week.append(empty);
+        continue;
+      }
       if (entries.length === 1) {
         week.append(linkFor(entries[0], key, formattedDate, true));
       } else {
@@ -101,6 +109,11 @@
         week.append(cell);
       }
     }
+    weeks.push({
+      date: firstDate,
+      marks: Array.from(week.children).slice(1).map(tile => tile.matches('.outside-range') ? null :
+        tile.matches('.mood-present') || Boolean(tile.querySelector('.mood-present')))
+    });
     fragment.append(week);
   }
   grid.append(fragment);
@@ -127,7 +140,8 @@
 
     if (anchor !== shown) {
       const {formattedDate, title, mood} = details.get(anchor);
-      tooltip.replaceChildren(el('strong', '', formattedDate), el('span', 'tooltip-title', title));
+      tooltip.replaceChildren(el('strong', '', formattedDate));
+      if (title) tooltip.append(el('span', 'tooltip-title', title));
       if (mood) {
         tooltip.append(el('span', 'mood-sequence', mood.sequence));
         if (mood.count > 1) {
@@ -146,26 +160,26 @@
     tooltip.style.top = (below + tooltip.offsetHeight <= height - gap ? below : Math.max(gap, above)) + 'px';
   }
 
-  function linkFrom(target) {
-    const link = target?.closest?.('a.calendar-day');
-    return details.has(link) ? link : null;
+  function tileFrom(target) {
+    const tile = target?.closest?.('.calendar-day');
+    return details.has(tile) ? tile : null;
   }
 
   grid.addEventListener('pointerover', event => {
     if (event.pointerType === 'touch') return;
-    const link = linkFrom(event.target);
+    const link = tileFrom(event.target);
     if (!link || link === hovered) return;
     hovered = link;
     dismissed = null;
     updateTooltip();
   });
   grid.addEventListener('pointerout', event => {
-    if (event.pointerType === 'touch' || !hovered || hovered === linkFrom(event.relatedTarget)) return;
+    if (event.pointerType === 'touch' || !hovered || hovered === tileFrom(event.relatedTarget)) return;
     hovered = null;
     updateTooltip();
   });
   grid.addEventListener('focusin', event => {
-    const link = linkFrom(event.target);
+    const link = tileFrom(event.target);
     if (!link?.matches(':focus-visible')) return;
     hovered = null;
     focused = link;
@@ -182,6 +196,112 @@
       updateTooltip();
     }
   });
-  window.addEventListener('scroll', updateTooltip, {passive: true});
-  window.addEventListener('resize', updateTooltip);
+  const canvas = calendar.querySelector('#minimap-canvas');
+  const years = calendar.querySelector('.minimap-years');
+  const viewport = calendar.querySelector('.minimap-viewport');
+  const ctx = canvas.getContext('2d');
+  const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
+  let mapHeight = 0;
+  let currentWeek = 0;
+
+  function updateViewport() {
+    if (!mapHeight) return;
+    const bounds = grid.getBoundingClientRect();
+    if (!bounds.height) return;
+    const from = clamp(-bounds.top / bounds.height, 0, 1);
+    const to = clamp((window.innerHeight - bounds.top) / bounds.height, 0, 1);
+    viewport.hidden = to <= from;
+    const height = Math.min(mapHeight, Math.max(15, (to - from) * mapHeight));
+    viewport.style.height = height + 'px';
+    viewport.style.top = Math.min(from * mapHeight, mapHeight - height) + 'px';
+
+    currentWeek = bounds.top < 0 && bounds.bottom <= window.innerHeight ? weeks.length - 1 :
+      clamp(Math.floor((1 - bounds.top) / bounds.height * weeks.length), 0, weeks.length - 1);
+    canvas.setAttribute('aria-valuenow', currentWeek + 1);
+    canvas.setAttribute('aria-valuetext', 'Week of ' + fullDate.format(weeks[currentWeek].date));
+  }
+
+  function drawMinimap() {
+    if (!ctx || !canvas.getClientRects().length) {
+      mapHeight = 0;
+      return;
+    }
+    const width = 50;
+    mapHeight = Math.min(weeks.length * 2, Math.max(1, window.innerHeight - 120));
+    const dpr = window.devicePixelRatio || 1;
+    canvas.width = Math.round(width * dpr);
+    canvas.height = Math.round(mapHeight * dpr);
+    canvas.style.width = width + 'px';
+    canvas.style.height = mapHeight + 'px';
+    ctx.scale(dpr, dpr);
+
+    const rowHeight = mapHeight / weeks.length;
+    const tokens = getComputedStyle(calendar);
+    const moodInk = tokens.getPropertyValue('--c-meta').trim();
+    const emptyInk = tokens.getPropertyValue('--c-line').trim();
+    const labels = document.createDocumentFragment();
+    let lastYear;
+    weeks.forEach(({date, marks}, index) => {
+      const y = index * rowHeight;
+      marks.forEach((hasMood, dayIndex) => {
+        if (hasMood === null) return;
+        ctx.fillStyle = hasMood ? moodInk : emptyInk;
+        ctx.fillRect(6 + dayIndex * 5.5, y, 5, rowHeight * .75);
+      });
+      const year = new Date(date).getUTCFullYear();
+      if (year !== lastYear) {
+        const marker = el('span', '', String(year));
+        marker.style.top = Math.round(y) + 'px';
+        labels.append(marker);
+        lastYear = year;
+      }
+    });
+    years.replaceChildren(labels);
+    years.style.height = mapHeight + 'px';
+    updateViewport();
+  }
+
+  function jumpToWeek(index, behavior) {
+    const week = grid.children[clamp(index, 0, weeks.length - 1)];
+    const rect = week.getBoundingClientRect();
+    window.scrollTo({top: window.scrollY + rect.top, behavior});
+  }
+
+  canvas.addEventListener('click', event => {
+    const rect = canvas.getBoundingClientRect();
+    const index = Math.floor((event.clientY - rect.top) / rect.height * weeks.length);
+    jumpToWeek(index, window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth');
+  });
+
+  canvas.addEventListener('keydown', event => {
+    const destinations = {
+      ArrowUp: currentWeek - 1, ArrowLeft: currentWeek - 1,
+      ArrowDown: currentWeek + 1, ArrowRight: currentWeek + 1,
+      PageUp: currentWeek - 10, PageDown: currentWeek + 10,
+      Home: 0, End: weeks.length - 1
+    };
+    if (!Object.hasOwn(destinations, event.key)) return;
+    event.preventDefault();
+    jumpToWeek(destinations[event.key], 'instant');
+    updateViewport();
+  });
+
+  canvas.setAttribute('aria-valuemax', weeks.length);
+  drawMinimap();
+  new MutationObserver(drawMinimap).observe(document.documentElement,
+    {attributes: true, attributeFilter: ['data-theme']});
+
+  let scrollFrame;
+  window.addEventListener('scroll', () => {
+    if (scrollFrame) return;
+    scrollFrame = requestAnimationFrame(() => {
+      scrollFrame = null;
+      updateTooltip();
+      updateViewport();
+    });
+  }, {passive: true});
+  window.addEventListener('resize', () => {
+    drawMinimap();
+    updateTooltip();
+  });
 })();

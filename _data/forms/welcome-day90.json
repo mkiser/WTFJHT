@@ -1,0 +1,154 @@
+{
+  "id": "welcome-day90",
+  "title": "My 90-day performance review",
+  "intro": "There’s no HR department at WTFHQ, so you’re in charge.\n\nI’ve put together four short questions about your experience with WTFJHT so far. No matter how often you read, I’d like to hear from you.",
+  "submit_label": "Submit review",
+  "thanks_title": "Thanks for helping me make this thing better.",
+  "thanks_body": "Your feedback shapes the WTFJHT experience for everyone by helping me understand what’s working and what still needs work.\n\nI’m glad you’re here.\n\n–MATT",
+  "instrument_version": "welcome-day90-v6",
+  "notify": {
+    "slack": true
+  },
+  "sections": [
+    {
+      "id": "review",
+      "title": "",
+      "questions": [
+        {
+          "id": "overall_experience",
+          "type": "radio",
+          "label": "Overall, how would you rate your experience with WTFJHT so far?",
+          "required": true,
+          "col": "Overall Experience",
+          "options": [
+            {
+              "id": "excellent",
+              "label": "Excellent"
+            },
+            {
+              "id": "good",
+              "label": "Good"
+            },
+            {
+              "id": "okay",
+              "label": "Okay"
+            },
+            {
+              "id": "poor",
+              "label": "Poor"
+            },
+            {
+              "id": "very_poor",
+              "label": "Very poor"
+            },
+            {
+              "id": "insufficient_experience",
+              "label": "I haven’t read enough to say"
+            }
+          ]
+        },
+        {
+          "id": "attachment",
+          "type": "radio",
+          "label": "How would you feel if you could no longer receive WTFJHT?",
+          "required": true,
+          "col": "Attachment",
+          "options": [
+            {
+              "id": "very_disappointed",
+              "label": "Very disappointed"
+            },
+            {
+              "id": "somewhat_disappointed",
+              "label": "Somewhat disappointed"
+            },
+            {
+              "id": "not_disappointed",
+              "label": "Not disappointed"
+            },
+            {
+              "id": "insufficient_experience",
+              "label": "I haven’t read enough to say"
+            }
+          ]
+        },
+        {
+          "id": "valued_benefits",
+          "type": "checkbox",
+          "label": "What do you value most about WTFJHT?",
+          "hint": "Choose up to three.",
+          "required": true,
+          "col": "Valued Benefits",
+          "max_select": 3,
+          "exclusive": "no_value_yet",
+          "has_other": true,
+          "options": [
+            {
+              "id": "concise_saves_time",
+              "label": "Concise, saves me time"
+            },
+            {
+              "id": "sourced_linked_reporting",
+              "label": "Sourced and linked to original reporting"
+            },
+            {
+              "id": "informed_without_doomscrolling",
+              "label": "Helps me stay informed without doomscrolling or spiraling"
+            },
+            {
+              "id": "editorial_trust",
+              "label": "I trust the editorial voice and judgment"
+            },
+            {
+              "id": "today_in_one_sentence",
+              "label": "Today in One Sentence"
+            },
+            {
+              "id": "routine_consistency",
+              "label": "The daily routine and consistency"
+            },
+            {
+              "id": "independent_reader_funded",
+              "label": "It’s independent and reader-funded"
+            },
+            {
+              "id": "coverage_might_miss",
+              "label": "Covers things I might miss elsewhere"
+            },
+            {
+              "id": "other",
+              "label": "Other"
+            },
+            {
+              "id": "no_value_yet",
+              "label": "I’m not getting much out of it yet"
+            }
+          ]
+        },
+        {
+          "id": "one_change",
+          "type": "textarea",
+          "label": "What’s one thing I could change to make WTFJHT better for you?",
+          "hint": "A sentence or two is plenty. (Optional)",
+          "required": false,
+          "col": "One Change",
+          "maxlength": 1000
+        },
+        {
+          "id": "follow_up_ok",
+          "type": "checkbox",
+          "label": "Can I follow up? (Optional)",
+          "required": false,
+          "col": "Follow-up OK",
+          "exclusive": "yes",
+          "options": [
+            {
+              "id": "yes",
+              "label": "Matt may contact me about this feedback."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

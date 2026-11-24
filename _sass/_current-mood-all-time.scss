@@ -1,125 +1,79 @@
-#current-mood-calendar [data-all-time-panel] {
-.grid-header { display: grid; gap: .5rem; border-block-end: 1px solid var(--c-line); padding-block-end: 1rem; }
-.grid-header h2 { font-size: 1.2rem; line-height: 1.3; font-weight: 600; }
-.grid-caption { font-size: .9rem; line-height: 1.5; color: var(--c-meta); }
-.grid-mono, .grid-label, .grid-count, .grid-map { font: .85rem / 1.4 Menlo, Monaco, "Courier New", monospace; font-variant-numeric: tabular-nums; }
-.grid-tools { display: flex; flex-wrap: wrap; align-items: end; gap: 8px 1rem; margin-block: 1rem; }
-.year-field { display: grid; gap: .25rem; font-weight: 600; }
-button, select { border-radius: 0; font: inherit; }
-button { color: inherit; }
-select, .grid-dialog-title button, .week-list button {
-  color: var(--c-ink); background: var(--c-bg); border: 1px solid var(--c-meta);
-  padding: .5em .6em; min-block-size: 46px; min-inline-size: 44px;
-}
-:is(select, button, a):focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
-a, .grid-text-action {
-  color: var(--c-link); text-decoration: underline; text-decoration-color: var(--c-link-underline);
-  text-underline-offset: .18em;
-}
-a:hover, .grid-text-action:hover { text-decoration-color: currentColor; }
-.grid-text-action { border: 0; background: transparent; min-block-size: 44px; padding: 0; text-align: start; cursor: pointer; }
-.grid-legend { display: flex; flex-wrap: wrap; gap: .5rem 1rem; list-style: none; padding: 0; margin: 0 0 1rem; font-size: .9rem; color: var(--c-meta); }
-.grid-legend li { display: inline-flex; align-items: center; gap: .4rem; }
-.grid-legend i { font-style: normal; min-inline-size: 12px; text-align: center; }
-.grid-legend i[data-mark] { inline-size: 12px; block-size: 12px; }
-.grid-legend i[data-mark="mood"] { border: 1px solid var(--c-meta); }
-.grid-legend i[data-mark="empty"] { background: var(--c-surface); border: 1px solid var(--c-line); }
-.grid-layout { display: flex; gap: 1rem; align-items: start; }
-.grid-track { flex: 1; min-inline-size: 0; }
-.grid-days, .grid-week {
-  display: grid; grid-template-columns: 4.5rem repeat(7, minmax(0, 1fr)); gap: 8px; align-items: center;
-}
-.grid-days { margin-block-end: .5rem; text-align: center; font-size: .8rem; color: var(--c-meta); }
-.grid-week { position: relative; margin-block-end: 8px; scroll-margin-block-start: 4rem; }
-.grid-week[data-month] { border-block-start: 1px solid var(--c-line); padding-block-start: .5rem; margin-block-start: .5rem; }
-.grid-label { color: var(--c-meta); min-inline-size: 0; overflow-wrap: normal; }
-.grid-cell { position: relative; display: grid; place-items: center; aspect-ratio: 1; min-block-size: 44px; min-inline-size: 0; }
-.grid-cell:not([data-state="outside"]) { background: var(--c-surface); }
-.grid-cell:is([data-state="mood"], [data-state="none"], [data-state="unknown"]) { background: var(--c-bg); border: 1px solid var(--c-meta); }
-.grid-cell[data-state="unknown"] { border-style: dashed; }
-.grid-cell[data-active] { outline: 2px solid var(--c-focus); outline-offset: -2px; }
-.grid-cell:has(button:hover) { background: var(--c-surface); }
-.grid-glyph { font-size: 1.2rem; line-height: 1.3; }
-.grid-cell:not([data-state="mood"]) .grid-glyph { color: var(--c-meta-surface); }
-.grid-count { position: absolute; inset-inline-end: .25em; inset-block-end: 0; line-height: 1.2; }
-.grid-cell button, .week-action {
-  position: absolute; inset: 0; min-block-size: 0; border: 0; background: transparent; cursor: pointer; padding: 0;
-}
-.grid-cell button { margin: -1px; }
-.week-action { display: none; }
-.week-list { display: grid; gap: 8px; margin-block: 8px 1rem; }
-.week-list button { display: flex; text-align: start; align-items: center; justify-content: space-between; gap: .5rem; }
-.week-list button:hover, .grid-dialog-title button:hover { background: var(--c-surface); }
-.grid-map { position: sticky; top: 1rem; color: var(--c-meta); text-align: end; padding-block-start: 1.35rem; }
-.grid-map-pane { position: relative; inline-size: 50px; }
-.grid-map canvas { display: block; width: 100%; height: auto; border: 1px solid var(--c-line); cursor: pointer; }
-.grid-map-window { position: absolute; inset-inline: 0; border: 2px solid var(--c-link); pointer-events: none; }
-.grid-map-start, .grid-map-end { display: block; }
-.grid-map-start { position: absolute; inset-block-start: 0; inset-inline-end: 0; }
-.grid-dialog { inline-size: min(calc(100% - 2rem), 32rem); max-block-size: calc(100% - 2rem); padding: 1rem; background: var(--c-bg); color: var(--c-ink); border: 1px solid var(--c-meta); border-radius: 0; }
-.grid-dialog::backdrop { background: transparent; }
-.grid-dialog[open] { display: grid; gap: .5rem; }
-.grid-dialog-title { display: flex; flex-wrap: wrap; gap: .5rem; align-items: baseline; justify-content: space-between; }
-.grid-dialog-title button { cursor: pointer; }
-.grid-mood { overflow-wrap: anywhere; }
-.grid-mood[data-has-mood] { font-size: 1.2rem; line-height: 1.5; }
-@media (max-width: 38rem) {
-  .grid-map { display: none; }
-}
-@media (max-width: 30rem) {
-  .grid-days, .grid-week { grid-template-columns: 3rem repeat(7, minmax(0, 1fr)); gap: 2px; }
-  .grid-label { font-size: .7rem; }
-  .grid-cell { min-block-size: 44px; }
-  .grid-cell button { display: none; }
-  .week-action { display: block; }
-  .grid-count { font-size: .7rem; }
-  .grid-cell:has(.grid-count) .grid-glyph { align-self: start; }
-}
-.grid-map canvas { color: var(--c-link); }
+#current-mood-calendar {
+  .calendar-day {
+    min-inline-size: 0;
+  }
 
-.grid-days {
-  position: sticky;
-  inset-block-start: 0;
-  z-index: 2;
-  padding-block: .5rem;
-  background: var(--c-bg);
-}
-.grid-label { scroll-margin-block-start: 4rem; }
-.grid-cell[data-dim] { background: var(--c-surface); }
-.grid-cell[data-dim] .grid-glyph { opacity: .65; }
-.grid-cell[data-dim]:not([data-state="mood"]) .grid-glyph { opacity: 1; }
-.grid-dialog { box-shadow: none; }
-.grid-dialog-title button {
-  border: 0;
-  background: transparent;
-  color: var(--c-link);
-  text-decoration: underline;
-  text-decoration-color: var(--c-link-underline);
-  text-underline-offset: .18em;
-  min-block-size: 44px;
-  min-inline-size: 44px;
-  padding: 0;
-}
-.grid-dialog-title button:hover { background: transparent; text-decoration-color: currentColor; }
-.grid-dialog summary {
-  min-block-size: 44px;
-  align-content: center;
-  color: var(--c-link);
-  cursor: pointer;
-}
-.grid-dialog summary:focus-visible { outline: 2px solid var(--c-focus); outline-offset: 2px; }
-.grid-dialog form { margin: 0; }
-.grid-mood { white-space: pre-wrap; }
-.grid-legend { border: 0; }
-.grid-legend li { margin: 0; }
-.grid-track { min-inline-size: 0; }
-.grid-days > [data-visible-month] { text-align: start; }
-}
+  .mood-editions {
+    display: flex;
+  }
 
-#current-mood-calendar [data-all-time-panel] .grid-map canvas {
-  touch-action: none;
-}
-#current-mood-calendar [data-all-time-panel] .week-list button[data-dim] {
-  background: var(--c-surface);
-  color: var(--c-meta-surface);
+  .mood-editions > .calendar-day {
+    aspect-ratio: auto;
+    flex: 1 1 0;
+  }
+
+  a.calendar-day {
+    position: relative;
+    display: grid;
+    place-items: center;
+    text-decoration: none;
+    line-height: 1;
+
+    &:hover {
+      outline: 2px solid var(--c-ink-strong);
+      outline-offset: -1px;
+      z-index: 1;
+    }
+
+    &:focus-visible {
+      outline-offset: -1px;
+      z-index: 1;
+    }
+
+    &[data-count] .mood-glyph {
+      transform: translateY(-.2em);
+    }
+  }
+
+  .mood-glyph {
+    font-size: 1.1rem;
+  }
+
+  a.calendar-day[data-count]::after {
+    content: attr(data-count);
+    position: absolute;
+    inset-inline-end: .15em;
+    inset-block-end: .15em;
+    color: var(--c-bg);
+    font-size: .75rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .calendar-tooltip {
+    display: block;
+    width: max-content;
+    max-width: min(320px, calc(100vw - 16px));
+    color: var(--c-bg);
+
+    strong, .tooltip-title {
+      color: inherit;
+    }
+  }
+
+  .mood-sequence {
+    display: block;
+    font-size: 1.1rem;
+    overflow-wrap: anywhere;
+    white-space: pre-wrap;
+  }
+
+  @media (max-width: $medium-breakpoint) {
+    .mood-glyph {
+      font-size: .9rem;
+    }
+
+    .mood-editions .mood-glyph {
+      font-size: .75rem;
+    }
+  }
 }

@@ -282,7 +282,10 @@
 
 .survey-option:has(input[type="checkbox"])::before,
 .survey-option:has(input[type="radio"])::before {
-  content: ""; position: absolute; left: 1.05em; top: 1.05em;
+  // rem, not em: this pseudo-element sets its own 0.85rem font-size, so em offsets landed at 85%
+  // and the box sat ~3px above the label. Top centers the box on the first line:
+  // card padding 0.95rem + (line box 1.45rem - box 1.15rem) / 2.
+  content: ""; position: absolute; left: 1.05rem; top: calc(0.95rem + (1.45rem - 1.15rem) / 2);
   width: 1.15rem; height: 1.15rem; box-sizing: border-box;
   border: 1px solid $gray-3; background: var(--c-bg);
   display: flex; align-items: center; justify-content: center;

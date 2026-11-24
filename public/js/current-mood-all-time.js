@@ -8,7 +8,8 @@
   const keyFor = time => new Date(time).toISOString().slice(0, 10);
   const month = new Intl.DateTimeFormat('en-US', {month: 'short', year: 'numeric', timeZone: 'UTC'});
   const fullDate = new Intl.DateTimeFormat('en-US', {dateStyle: 'full', timeZone: 'UTC'});
-  const permalink = url => url.replace(/\/$/, '');
+  // Case-insensitive: 38 early-2017 posts live at /Day-NNN/ while the mood data says /day-NNN/.
+  const permalink = url => url.replace(/\/$/, '').toLowerCase();
   const byUrl = new Map();
   const withoutUrl = new Map();
   const postsByDate = new Map();

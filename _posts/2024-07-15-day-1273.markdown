@@ -22,6 +22,7 @@ todayInOneSentence: 'What we know about the Trump assassination attempt so far; 
   his running mate; a federal judge dismissed Rudy Giuliani''s bankruptcy protection
   case; Trump said he’ll reveal his choice of running mate later today; and the Republican
   National Convention opens in Milwaukee. '
+currentMood: "🚨🚨🚨"
 ---
 
 *What we know about the Trump assassination attempt so far:*

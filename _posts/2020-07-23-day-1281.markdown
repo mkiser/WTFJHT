@@ -19,6 +19,7 @@ todayInOneSentence: The U.S. surpassed four million coronavirus cases a little o
   to reach an agreement on a coronavirus legislative package; and Trump insisted that
   the cognitive test he recently took was “difficult" and "not that easy" because
   he had to correctly recall the phrase “person, woman, man, camera, TV.”
+currentMood: "📈👀"
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

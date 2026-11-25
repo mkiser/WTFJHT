@@ -22,6 +22,7 @@ todayInOneSentence: Trump threatened to deploy “thousands and thousands of hea
   bishop of Washington is "outraged" at Trump for using St. John’s Church as a backdrop
   to threaten the use of the military against Americans; and Dr. Anthony Fauci has
   not spoken or met with Trump in two weeks.
+currentMood: "😕"
 ---
 
 * ### 😷 Dept. of We Have It Totally Under Control.

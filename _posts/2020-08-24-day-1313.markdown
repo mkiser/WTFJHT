@@ -22,6 +22,7 @@ todayInOneSentence: The New York Attorney General’s Office is investigating wh
   participation in voting"; Trump, without evidence, accused the FDA of deliberately
   delaying coronavirus vaccine trials until after the election; and the FDA issued
   an emergency use authorization for blood plasma as a treatment for COVID-19.
+currentMood: "😬😱😬"
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

@@ -21,6 +21,7 @@ todayInOneSentence: Another 898,000 workers filed for unemployment benefits last
   the United States; the Senate Judiciary Committee will formally vote on Judge Amy
   Coney Barrett’s nomination to the Supreme Court on Oct. 22; and Trump and Joe Biden
   will face off tonight in dueling town halls on different networks at the same time.
+currentMood: "🍿👀🙈"
 ---
 
 * #### 🗳 How To Vote In The 2020 Election In Your State.

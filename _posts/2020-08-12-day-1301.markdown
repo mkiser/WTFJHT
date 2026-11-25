@@ -22,6 +22,7 @@ todayInOneSentence: For the 16th consecutive day the U.S. has averaged over 1,00
   directly to the Department of Health and Human Services; and minutes after Joe Biden
   named Kamala Harris as his running mate, Trump’s re-election campaign and the Republican
   National Committee attacked Harris.
+currentMood: "😱"
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

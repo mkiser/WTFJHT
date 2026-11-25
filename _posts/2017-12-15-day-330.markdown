@@ -13,6 +13,7 @@ tags:
 - judiciary
 description: Shame.
 image: "/uploads/330.jpg"
+currentMood: "💩"
 ---
 
 **What's in the GOP tax bill.**

@@ -27,12 +27,23 @@
     }
   }
 
+  // The archive is the verified sent copy and wins wherever it has a mood. Any other post
+  // supplies its own currentMood front matter: new editions (PostLite writes it, Relay sends it)
+  // and moods recovered from the campaign archive. Graphemes, not string length, give the count.
+  const graphemes = new Intl.Segmenter('en', {granularity: 'grapheme'});
+  function frontMatterMood(date, declared) {
+    const sequence = typeof declared === 'string' ? declared.trim() : '';
+    if (!sequence) return undefined;
+    const marks = Array.from(graphemes.segment(sequence), part => part.segment).filter(mark => mark.trim());
+    return marks.length ? {date, sequence, glyph: marks[0], count: marks.length} : undefined;
+  }
+
   let start = utc('2017-01-20');
   const now = new Date();
   let stop = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate());
   for (const [date, url, title, declaredMood] of read('posts')) {
     const entries = postsByDate.get(date) || [];
-    const mood = byUrl.get(permalink(url));
+    const mood = byUrl.get(permalink(url)) || frontMatterMood(date, declaredMood);
     entries.push({url, title, declaredMood, mood});
     postsByDate.set(date, entries);
     start = Math.min(start, utc(date));

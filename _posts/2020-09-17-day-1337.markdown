@@ -22,6 +22,7 @@ todayInOneSentence: Another 860,000 people applied for unemployment insurance; A
   Christopher Wray warned that "Russia continues to try to influence our elections";
   Trump continued his lies about mail-in voting, tweeting that the results “may NEVER
   BE ACCURATELY DETERMINED”; and another woman accused Trump of sexual assault.
+currentMood: "🤢"
 ---
 
 * ### 😷 Dept. of "We Have It Totally Under Control."

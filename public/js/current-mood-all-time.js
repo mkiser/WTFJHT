@@ -31,10 +31,13 @@
   // supplies its own currentMood front matter: new editions (PostLite writes it, Relay sends it)
   // and moods recovered from the campaign archive. Graphemes, not string length, give the count.
   const graphemes = new Intl.Segmenter('en', {granularity: 'grapheme'});
+  // Emoji graphemes only, so a literal symbol in a sent mood (Day 848's ▲) is not counted.
+  const emojiIn = text => Array.from(graphemes.segment(text), part => part.segment)
+    .filter(mark => /\p{Extended_Pictographic}|\p{Regional_Indicator}/u.test(mark));
   function frontMatterMood(date, declared) {
     const sequence = typeof declared === 'string' ? declared.trim() : '';
     if (!sequence) return undefined;
-    const marks = Array.from(graphemes.segment(sequence), part => part.segment).filter(mark => mark.trim());
+    const marks = emojiIn(sequence);
     return marks.length ? {date, sequence, glyph: marks[0], count: marks.length} : undefined;
   }
 
@@ -63,6 +66,7 @@
   const weeks = [];
   const sunday = start - new Date(start).getUTCDay() * day;
 
+  const shownMoods = [];
   function linkFor(post, key, formattedDate, onlyPost) {
     // An unlinked send must agree with the sole post's explicit mood on that date.
     const candidates = withoutUrl.get(key);
@@ -72,6 +76,7 @@
     link.href = baseurl + post.url;
     const label = [post.title, formattedDate];
     if (mood) {
+      shownMoods.push(mood);
       const glyph = el('span', 'mood-glyph', mood.glyph);
       glyph.setAttribute('aria-hidden', 'true');
       link.classList.add('mood-present');
@@ -126,6 +131,16 @@
     fragment.append(week);
   }
   grid.append(fragment);
+
+  // Header stats, counted from exactly what the grid shows.
+  const stats = {
+    moodPosts: shownMoods.length,
+    emojiTotal: shownMoods.reduce((sum, mood) => sum + mood.count, 0)
+  };
+  for (const node of document.querySelectorAll('[data-mood-stat]')) {
+    const value = stats[node.dataset.moodStat];
+    if (Number.isFinite(value)) node.textContent = value.toLocaleString('en-US');
+  }
 
   let hovered = null;
   let focused = null;

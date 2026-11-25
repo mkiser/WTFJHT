@@ -8,8 +8,8 @@ anchors: false
 
 <div class="board-header">
   <h1>{{ page.title }}</h1>
-  <!-- Placeholder subhead for Matt to edit. -->
-  <p class="lead">[Draft subhead] The Current Mood emojis from sent WTFJHT editions, day by day.</p>
+  <!-- Matt's copy. The two mood numbers are filled by current-mood-all-time.js from what the grid shows. -->
+  <p class="lead">A visualized history of the <span data-mood-stat="emojiTotal">thousands of</span> "Current Mood" emojis used in <span data-mood-stat="moodPosts">most</span> WTFJHT posts since launching {{ site.time | date: "%Y" | minus: 2017 | plus: 0 }}+ years ago on Jan. 20, 2017.</p>
 </div>
 
 <section id="current-mood-calendar" aria-label="Current Mood Calendar" data-baseurl="{{ site.baseurl | escape }}">

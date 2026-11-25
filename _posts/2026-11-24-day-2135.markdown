@@ -1,6 +1,12 @@
 ---
 title: Day 2135
 date: 2026-11-24 14:38:12 -08:00
+tags:
+- "ethics"
+- "corruption"
+- "tariffs"
+- "trade"
+- "climate"
 description: '"A lifetime of service to the American people."'
 image: "/uploads/day2135trump-158425.jpg"
 todayInOneSentence: 'Nvidia''s board reinstated Jensen Huang as CEO after Trump "convinced

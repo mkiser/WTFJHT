@@ -153,6 +153,11 @@
         "savedSentence": {{ _saved_sentence | strip | normalize_whitespace | jsonify }}
       },
 
+      {%- if post.generation_id and post.generation_id != '' -%}
+      "generation_id": {{ post.generation_id | jsonify }},
+      "manifest_hash": {{ post.manifest_hash | default: '' | jsonify }},
+      "approved_payload_hash": {{ post.approved_payload_hash | default: '' | jsonify }},
+      {%- endif -%}
       {%- if post.currentMood and post.currentMood != '' -%}
       "currentMood": {{ post.currentMood | jsonify }},
       {%- endif -%}
